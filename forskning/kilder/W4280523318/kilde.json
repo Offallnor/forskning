@@ -1,0 +1,20 @@
+{
+ "apen_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/labr.12221",
+ "ar": 2022,
+ "doi": "https://doi.org/10.1111/labr.12221",
+ "forfattere": [
+  "Inna Petrunyk",
+  "Christian Pfeifer"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "https://www.econstor.eu/bitstream/10419/265041/1/LABR_LABR12221.pdf",
+ "hvordan": "pdf",
+ "id": "W4280523318",
+ "kilde": "Labour",
+ "lenke": "https://openalex.org/W4280523318",
+ "merknad": "ÅPEN VERSJON (preprint eller arbeidsnotat), merkes i svaret",
+ "oversikt": false,
+ "sammendrag": "Abstract This paper explores diverse effects of an unemployment benefit (UB) reform in Germany on labor market outcomes of individuals with health impairment. The reform induced substantial reductions in potential duration of regular UB for older workers, which is exploited in a difference‐in‐differences setting. The results provide evidence for a decrease in days in UB, an increase in days in employment, and an increase in days in unemployment assistance. The effects on UB and employment are smaller and the effects on unemployment assistance are larger for unemployed and non‐employed individuals than for individuals who were employed before medical rehabilitations.",
+ "tittel": "Diverse effects of shorter potential unemployment benefit duration on labor market outcomes in Germany",
+ "type": "article"
+}

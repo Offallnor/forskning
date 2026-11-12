@@ -1,0 +1,25 @@
+{
+ "apen_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/brb3.70469",
+ "ar": 2025,
+ "doi": "https://doi.org/10.1002/brb3.70469",
+ "forfattere": [
+  "Dorothea Jäckel",
+  "Andreas Bechdolf",
+  "Eva Burkhardt",
+  "Michèle Kallenbach",
+  "Marie‐Luise Gamig",
+  "Anna Mößnang",
+  "Karolina Leopold"
+ ],
+ "hentet": "2026-11-09",
+ "hentet_fra": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12053063/fullTextXML",
+ "hvordan": "Europe PMC",
+ "id": "W4410133250",
+ "kilde": "Brain and Behavior",
+ "lenke": "https://openalex.org/W4410133250",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "OBJECTIVE: To explore the efficiency of IPS on employment, education, and training (EET) outcomes in young adults with early psychosis. METHODS: Monocenter parallel arm, randomized controlled trial. INTERVENTION: Individual placement and support (IPS) according to the IPS-Y Fidelity Scale with an add-on of up to eight sessions of adherence therapy. MAIN OUTCOME MEASURES: EET at least 15 h per week for at least 1 week in the follow-up. Secondary outcomes included EET rates, duration in EET, and total wages. Additionally, subsample analyses were carried out. RESULTS: A total of 94 young adults (18-35 years) with early psychosis in an outpatient psychiatric service were randomly assigned to 12-month IPS according to program fidelity and standard care versus standard care alone. Four patients were excluded from the analysis because of early dropout after baseline, leaving 90 participants-46 in the IPS group and 44 in the TAU group-for intention to treat (ITT) analysis. EET rate for at least 15 h per week was significantly higher in the IPS group, 78% (36/46) versus 55% (24/44) in the TAU group. The percentage of participants in EET for at least 1 week in the follow-up was 83% (38/46) versus 59% (26/44). The number of weeks in EET was significantly higher in the IPS group (mean = 31.5 weeks, SD = 20.5 versus mean = 18.4 weeks, SD = 21.2), and the total wages were higher in favor of the IPS group (mean = €10,242, SD = 13,437 versus mean = €5217, SE = 7871). CONCLUSION: IPS integrated into outpatient psychiatric services improves EET in young adults with early psychosis in Germany.",
+ "tittel": "Efficacy of Individual Placement and Support (IPS) on Employment, Education, and Training in Young Adults With Early Psychosis—A Randomized Controlled Trial",
+ "type": "article"
+}

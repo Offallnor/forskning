@@ -1,0 +1,15 @@
+{
+ "ar": 2021,
+ "doi": "https://doi.org/10.31235/osf.io/2xuqf",
+ "forfattere": [
+  "Adeline Otto",
+  "Martin Lukáč"
+ ],
+ "id": "W4240782271",
+ "kilde": "SocArXiv (OSF Preprints)",
+ "lenke": "https://openalex.org/W4240782271",
+ "oversikt": false,
+ "sammendrag": "A large body of research suggests that generous welfare provisions for jobseekers create a disincentive to work. Other scholars argue that generous benefits can reduce unemployment by serving as a job-search subsidy. One caveat in this literature is that, when testing the two hypotheses, many scholars conceive of labour markets as homogeneous entities or they theoretically assume a certain insider/outsider divide. In this article, we claim that the employment effect of generous benefits varies between labour market segments. Analysing EU-SILC panel data of 27 European countries, we find that more-generous unemployment cash benefits enhance the transition from unemployment into more-secure work while discouraging transition into less-secure work in terms of temporal, economic and organisational security. Contrary to existing research, welfare generosity is measured by aggregated information on individual benefit receipt. Labour market segments are identified by latent class analysis and transitions between segments are estimated by Multilevel Latent Markov Models.",
+ "tittel": "Do generous unemployment benefits facilitate transition into more-secure labour market positions? Insights from a multilevel latent Markov model",
+ "type": "preprint"
+}

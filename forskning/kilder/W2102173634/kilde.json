@@ -1,0 +1,19 @@
+{
+ "ar": 2013,
+ "doi": "https://doi.org/10.1177/1403494813481645",
+ "forfattere": [
+  "Kristine Pape",
+  "Johan Hå‌kon Bjø‌rngaard",
+  "Karin A. A. De Ridder",
+  "Steinar Westin",
+  "Turid Lingaas Holmen",
+  "Steinar Krokstad"
+ ],
+ "id": "W2102173634",
+ "kilde": "Scandinavian Journal of Public Health",
+ "lenke": "https://openalex.org/W2102173634",
+ "oversikt": false,
+ "sammendrag": "AIMS: Family and intergenerational perspectives might contribute to a better understanding of why young people in many European countries experience work impairment and end up being dependent on public benefits for life sustenance. The aim of this cohort study was to explore the relationship between the receipt of medical benefits in parents and their young adult offspring and the contributions of family health and family socioeconomic status. METHODS: Baseline information on the health of 7597 adolescents and their parents who participated in the HUNT Study 1995-1997 was linked to national registers to identify long-term receipt of medical benefits for parents (1992-1997) and adolescents as they entered adulthood (1998-2008). We used logistic regression to explore the association between parent and offspring receipt of medical benefits, adjusting for family health and socioeconomic status. RESULTS: Among adolescents, 13% received medical benefits from age 20-29. Adolescents whose parents had received medical benefits (26%) were more likely to receive such benefits themselves from age 20-29 compared with adolescents without benefit-receiving parents (age- and sex-adjusted odds ratio (OR) 2.16, 95 % confidence interval (CI) 1.86-2.49). Adjustment for family health reduced this estimate considerably (to OR 1.66, 95% CI 1.38-1.99), whereas adjustment for family socioeconomic status had less impact. CONCLUSIONS: Adolescents whose parents receive medical benefits enter adult working life with an elevated risk of health-related work exclusion. Family health vulnerability appears to be a key to understanding this association, suggesting that more attention to intergenerational continuities of health could be a way to prevent welfare dependence in future generations.",
+ "tittel": "Medical benefits in young Norwegians and their parents, and the contribution of family health and socioeconomic status. The HUNT Study, Norway",
+ "type": "article"
+}

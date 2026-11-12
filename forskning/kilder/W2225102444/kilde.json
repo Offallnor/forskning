@@ -1,0 +1,15 @@
+{
+ "ar": 2006,
+ "forfattere": [
+  "José María Arranz Muñoz",
+  "Alfonso Alba Ramírez",
+  "Fernando Muñoz Bullón"
+ ],
+ "id": "W2225102444",
+ "kilde": "RePEc: Research Papers in Economics",
+ "lenke": "https://openalex.org/W2225102444",
+ "oversikt": false,
+ "sammendrag": "We use administrative micro-data to investigate exits from unemployment of benefit recipients in Spain. Because the data allow us to distinguish between transitions to a new job and recall to the same employer, we apply a competing risks model with observed and unobserved heterogeneity. We are also able to control for the type of benefit received by the worker: insurance benefit or assistance benefit. We find significant differences between the new job hazard and the recall hazard. Both hazard rates increase around the time that insurance benefit elapses. We also find that when larger firms recall unemployed workers they tend to do so faster than smaller firms. In general, our results are consistent with predictions derived from search and implicit contract models. They highlight the importance of taking into account the possibility of recall in the analysis of unemployment duration among unemployment benefit recipients.",
+ "tittel": "Unemployment duration, unemployment benefits and recalls",
+ "type": "preprint"
+}

@@ -1,0 +1,23 @@
+{
+ "apen_url": "https://bmcpublichealth.biomedcentral.com/counter/pdf/10.1186/1471-2458-11-718",
+ "ar": 2011,
+ "doi": "https://doi.org/10.1186/1471-2458-11-718",
+ "forfattere": [
+  "Kristine Pape",
+  "Johan Hå‌kon Bjø‌rngaard",
+  "Steinar Westin",
+  "Turid Lingaas Holmen",
+  "Steinar Krokstad"
+ ],
+ "hentet": "2026-11-09",
+ "hentet_fra": "https://bmcpublichealth.biomedcentral.com/counter/pdf/10.1186/1471-2458-11-718",
+ "hvordan": "pdf",
+ "id": "W2040909934",
+ "kilde": "BMC Public Health",
+ "lenke": "https://openalex.org/W2040909934",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "BACKGROUND: Welfare dependence and low work participation among young people have raised concern in many European countries. Reading and writing difficulties (RWD) might make young people vulnerable to work integration problems and welfare dependence through negative influences on education and health. Our main objective of this study was to examine if RWD in adolescence affected the risk of welfare dependence in young adulthood. METHODS: Baseline information on self-reported RWD, health and family was obtained for 8950 school-attending adolescents in Nord-Trøndelag County, Norway, participating in the Young-HUNT1 survey, 1995-97. All individuals were linked to biological parents to identify siblings and parental education from national registers. Welfare dependence was assessed by the reception of social benefits (medical and economic) from the national social insurance database (1998-2007). Only long-term benefits (> 180 days) were included. RESULTS: The adolescents who reported RWD at baseline were more likely to receive medical or social benefits during follow-up compared with those who did not report RWD. In girls with RWD, the adjusted 5-year risk (at age 24 to 28) for receiving medical benefits was 0.20 (95% confidence interval 0.14-0.26), compared with 0.11 (0.09-0.12) in girls without RWD. In boys the corresponding risks were 0.13 (0.09-0.17) and 0.08 (0.07-0.09). CONCLUSIONS: The associations between RWD in adolescence and welfare dependence later in life suggest that increased attention should be paid to these problems when discussing the public health aspects of work integration, since there might be a potential for prevention.",
+ "tittel": "Reading and writing difficulties in adolescence and later risk of welfare dependence. A ten year follow-up, the HUNT Study, Norway",
+ "type": "article"
+}

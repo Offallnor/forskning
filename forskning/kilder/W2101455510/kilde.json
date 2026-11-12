@@ -1,0 +1,13 @@
+{
+ "ar": 2000,
+ "forfattere": [
+  "Knut Røed",
+  "Tao Zhang"
+ ],
+ "id": "W2101455510",
+ "lenke": "https://openalex.org/W2101455510",
+ "oversikt": false,
+ "sammendrag": "Building on register data describing monthly labour market status for the whole Norwegian population 1992-95, we estimate grouped competing risk hazard rate models for transitions between employment, unemployment and non-participation. The models impose no parametric restrictions on either calendar time- or spell duration effects. There is a substantial business cycle element in all transition rates apart from transitions from employment to non-participation. Conditioned on observed covariates, there is a strong negative duration dependence in transitions from unemployment to employment. Economic incentives play an important role in transitions from unemployment to employment, as well as in transitions from employment to nonparticipation. A 10 per cent increase in the unemployment benefit replacement ratio reduces the transition rate from unemployment to employment with 4-7 per cent, while it reduces the transition rate from unemployment to non-participation with 10- 13 per cent. Access to a particularly generous voluntary early retirement scheme increases the hazard rate from employment to non-participation with 40-80 per cent. More human capital entails higher job-to-job transition rates and lower transition rates to unemployment and non-participation. It is also associated with higher transition rates from unemployment to employment.",
+ "tittel": "Labour Market Transitions and Economic Incentives",
+ "type": "article"
+}

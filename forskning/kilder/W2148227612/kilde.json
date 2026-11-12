@@ -1,0 +1,15 @@
+{
+ "apen_url": "https://muse.jhu.edu/article/475019/pdf",
+ "ar": 2011,
+ "doi": "https://doi.org/10.1353/eca.2011.0018",
+ "forfattere": [
+  "Jesse Rothstein"
+ ],
+ "id": "W2148227612",
+ "kilde": "Brookings Papers on Economic Activity",
+ "lenke": "https://openalex.org/W2148227612",
+ "oversikt": false,
+ "sammendrag": "More than 2 years after the official end of the Great Recession, the labor market remains historically weak. One candidate explanation is supply-side effects driven by dramatic expansions of unemployment insurance (UI) benefit durations, to as long as 99 weeks. This paper investigates the effect of these extensions on job search and reemployment. I use the longitudinal structure of the Current Population Survey to construct unemployment exit hazards that vary across states, over time, and between individuals with differing unemployment durations. I then use these hazards to explore a variety of comparisons intended to distinguish the effects of UI extensions from other determinants of employment outcomes. The various specifications yield quite similar results. UI extensions had significant but small negative effects on the probability that the eligible unemployed would exit unemployment. These effects are concentrated among the long-term unemployed. The estimates imply that UI extensions raised the unemployment rate in early 2011 by only about 0.1 to 0.5 percentage point, much less than implied by previous analyses, with at least half of this effect attributable to reduced labor force exit among the unemployed rather than to the changes in reemployment rates that are of greater policy concern.",
+ "tittel": "Unemployment Insurance and Job Search in the Great Recession",
+ "type": "article"
+}

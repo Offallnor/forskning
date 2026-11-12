@@ -1,0 +1,13 @@
+{
+ "ar": 2005,
+ "forfattere": [
+  "Heidi Steiger"
+ ],
+ "id": "W2523863210",
+ "kilde": "Alexandria (UniSG) (University of St.Gallen)",
+ "lenke": "https://openalex.org/W2523863210",
+ "oversikt": false,
+ "sammendrag": "This paper investigates the effect of a legislative move to reduce the maximum duration of unemployment benefits in Switzerland. The change took place in July 2003. It was hardly anticipated, sudden and substantial. It reduced the total period of unemployment benefits to people aged below 55 years from 24 to around 18.5 months. This paper attempts to estimate the effect of this reduction in terms of unemployment, job finding, and non-employment rates. The effect is identified by different strategies. In a regression discontinuity design, persons below and above the age threshold are compared. Using earlier unemployed as comparison group, the effect is also estimated by a matching estimator. The results indicate that corre-sponding job-finding was neither higher nor earlier, but more persons left unemployment to a non-employment or out of labour force state.",
+ "tittel": "The Effect of Maximum Unemployment Benefit Duration in Switzerland",
+ "type": "report"
+}

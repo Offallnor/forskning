@@ -1,0 +1,20 @@
+{
+ "ar": 2014,
+ "doi": "https://doi.org/10.1086/674986",
+ "forfattere": [
+  "Maria De Paola",
+  "Vincenzo Scoppa",
+  "Valeria Pupo"
+ ],
+ "hentet": "før 2026-11-08",
+ "hentet_fra": "http://www.ecostat.unical.it/RePEc/WorkingPapers/WP16_2009.pdf",
+ "hvordan": "pdf",
+ "id": "W2219647517",
+ "kilde": "Journal of Labor Economics",
+ "lenke": "https://openalex.org/W2219647517",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "We analyze how the absence behavior of Italian public sector employees has been affected by a law, passed in June 2008, reducing sick leave compensation and increasing monitoring. We use micro data on 889 workers employed in public administration. We find that the employees’ probability of being absent diminishes and that the reduction is greater among employees suffering higher earnings losses. Employees are responsive to the monitoring intensity and to the announcement of policy changes. Females react more strongly. While the reform has increased the hazard of ending an absence spell for short durations, the hazard for long durations decreased.",
+ "tittel": "Absenteeism in the Italian Public Sector: The Effects of Changes in Sick Leave Policy",
+ "type": "article"
+}

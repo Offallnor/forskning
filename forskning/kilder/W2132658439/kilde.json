@@ -1,0 +1,24 @@
+{
+ "apen_url": "https://bmjopen.bmj.com/content/bmjopen/4/12/e006685.full.pdf",
+ "ar": 2014,
+ "doi": "https://doi.org/10.1136/bmjopen-2014-006685",
+ "forfattere": [
+  "Johanna Kausto",
+  "Eira R. A. Viikari-Juntura",
+  "Lauri Juhani Virta",
+  "Raija Gould",
+  "Aki Koskinen",
+  "Svetlana A. Solovieva"
+ ],
+ "hentet": "før 2026-11-08",
+ "hentet_fra": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4281551/fullTextXML",
+ "hvordan": "Europe PMC",
+ "id": "W2132658439",
+ "kilde": "BMJ Open",
+ "lenke": "https://openalex.org/W2132658439",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "OBJECTIVES: To examine the effect of the new legislation on partial sickness benefit on subsequent work participation of Finns with long-term sickness absence. Additionally, we investigated whether the effect differed by sex, age or diagnostic category. DESIGN: A register-based quasi-experimental study compared the intervention (partial sick leave) group with the comparison (full sick leave) group regarding their pre-post differences in the outcome. The preintervention and postintervention period each consisted of 365 days. SETTING: Nationwide, individual-level data on the beneficiaries of partial or full sickness benefit in 2008 were obtained from national sickness insurance, pension and earnings registers. PARTICIPANTS: 1738 persons in the intervention and 56,754 persons in the comparison group. OUTCOME: Work participation, measured as the proportion (%) of time within 365 days when participants were gainfully employed and did not receive either partial or full ill-health-related or unemployment benefits. RESULTS: Although work participation declined in both groups, the decline was 5% (absolute difference-in-differences) smaller in the intervention than in the comparison group, with a minor sex difference. The beneficial effect of partial sick leave was seen especially among those aged 45-54 (5%) and 55-65 (6%) and in mental disorders (13%). When the groups were rendered more exchangeable (propensity score matching on age, sex, diagnostic category, income, occupation, insurance district, work participation, sickness absence, rehabilitation periods and unemployment, prior to intervention and their interaction terms), the effects on work participation were doubled and seen in all age groups and in other diagnostic categories than traumas. CONCLUSIONS: The results suggest that the new legislation has potential to increase work participation of the population with long-term sickness absence in Finland. If applied in a larger scale, partial sick leave may turn out to be a useful tool in reducing withdrawal of workers from the labour market due to health reasons.",
+ "tittel": "Effectiveness of new legislation on partial sickness benefit on work participation: a quasi-experiment in Finland",
+ "type": "article"
+}

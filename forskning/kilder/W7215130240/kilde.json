@@ -1,0 +1,16 @@
+{
+ "apen_url": "https://www.sciencedirect.com/science/article/pii/S2590291126013410/pdf",
+ "ar": 2026,
+ "doi": "https://doi.org/10.1016/j.ssaho.2026.103773",
+ "forfattere": [
+  "Micael Dahlén",
+  "Nora H. Bittár"
+ ],
+ "id": "W7215130240",
+ "kilde": "Social Sciences & Humanities Open",
+ "lenke": "https://openalex.org/W7215130240",
+ "oversikt": false,
+ "sammendrag": "Since the late 2000s, concern about rising mental illbeing has grown across high-income countries. Over the same period, news coverage has become more negative and online illbeing searches more frequent. In this study we examine to what extent these three patterns are related. We combine three monthly Swedish time series for January 2010 to September 2025 (189 months in all): the negativity of news headlines, the volume of illbeing-related searches, and newly started spells of sickness absence certified for a mental health diagnosis. We test three expectations: that media negativity is followed by illbeing-related search activity, that search activity is followed by entry into sickness absence, and that media negativity is followed by sickness absence directly. All three series rise over the period. Each association holds when last month's value of one series is used to predict this month's value of the next, and each holds when the outcome's own previous month is added to the model. However, none of the associations survives first differencing. Taken together, the results give tentative evidence of a consistent long-term temporal ordering across the three domains, in which media negativity is followed by illbeing-related search, and illbeing-related search by entry into sickness absence.",
+ "tittel": "From headlines to sickness absence: Media negativity, search behavior, and mental illbeing over time",
+ "type": "article"
+}

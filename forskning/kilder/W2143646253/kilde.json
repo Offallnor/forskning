@@ -1,0 +1,20 @@
+{
+ "apen_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/1435374",
+ "ar": 2005,
+ "doi": "https://doi.org/10.1093/schbul/sbi056",
+ "forfattere": [
+  "Paul B. Gold",
+  "Neil Meisler",
+  "Alberto B. Santos",
+  "Mark A. Carnemolla",
+  "Olivia Williams",
+  "Jennie Keleher"
+ ],
+ "id": "W2143646253",
+ "kilde": "Schizophrenia Bulletin",
+ "lenke": "https://openalex.org/W2143646253",
+ "oversikt": false,
+ "sammendrag": "Urban-based randomized clinical trials of integrated supported employment (SE) and mental health services in the United States on average have doubled the employment rates of adults with severe mental illness (SMI) compared to traditional vocational rehabilitation. However, studies have not yet explored if the service integrative functions of SE will be effective in coordinating rural-based services that are limited, loosely linked, and geographically dispersed. In addition, SE's ability to replicate the work outcomes of urban programs in rural economies with scarce and less diverse job opportunities remains unknown. In a rural South Carolina county, we designed and implemented a program blending Assertive Community Treatment (ACT) with an SE model, Individual Placement and Support (IPS). The ACT-IPS program operated with ACT and IPS subteams that tightly integrated vocational with mental health services within each self-contained team. In a 24-month randomized clinical trial, we compared ACT-IPS to a traditional program providing parallel vocational and mental health services on competitive work outcomes for adults with SMI (N = 143; 69% schizophrenia, 77% African American). More ACT-IPS participants held competitive jobs (64 versus 26%; p < .001, effect size [ES] = 0.38) and earned more income (median [Mdn] = 549 US dollars, interquartile range [IQR] = 0-5,145 US dollars, versus Mdn = 0 US dollars, IQR = 0-40 US dollars; p < .001, ES = 0.70) than comparison participants. The competitive work outcomes of this rural ACT-IPS program closely resemble those of urban SE programs. However, achieving economic self-sufficiently and developing careers probably require increasing access to higher education and jobs imparting marketable technical skills.",
+ "tittel": "Randomized Trial of Supported Employment Integrated With Assertive Community Treatment for Rural Adults With Severe Mental Illness",
+ "type": "article"
+}

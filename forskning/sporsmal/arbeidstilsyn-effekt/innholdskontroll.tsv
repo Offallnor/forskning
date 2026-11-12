@@ -1,0 +1,27 @@
+id	svar_sier	avvik	forklaring	alvor
+kort svar	moderat effekt på skader med stort sprik; bedre etterlevelse; tilsyn med reaksjon, etter ulykker og målrettet virker best; smitteeffekter; tynn norsk forskning	vekt	Det blinde korte svaret framhever at de best identifiserte studiene er amerikanske (om lag 9 prosent), at metaanalysene bygger mest på observasjonsstudier med svært høy heterogenitet, og at Ontario, Alberta og British Columbia finner lite. Rettet: første punkt sier nå dette.	middels
+W2232263831	ble omtalt som forsøk som sammenlignet tilsyn med veiledning og fant små forskjeller i brudd	retning	Forsøket gjelder veiledning og brev, ikke tilsyn; bare ni tiltaksvirksomheter ble målt, og forfatterne kan ikke konkludere. Lest i kilden (side 1). Rettet: flyttet til beslektede tiltak med riktig beskrivelse.	høy
+W1716161898	inkonsistente resultater, liten effekt der den finnes, 23 prosent på lang sikt	mangler forbehold	Forfatterne vurderer evidensen som lav til svært lav, og sammendraget har KI 8–23 med punktestimat 23 (trolig skrivefeil). Rettet: forbeholdet om evidenskvalitet og funnet om etterlevelse er lagt til.	middels
+W7212868501	11 prosent færre skader i nabovirksomheter	mangler forbehold	Arbeidsnotat som ikke er fagfellevurdert, og effekten i hele fylket kan ikke skilles fra null. Rettet.	middels
+W3159137599	straffedommer ga færre krav i andre virksomheter	mangler forbehold	Flagg årsaksspråk: før–etter uten kontrollgruppe. Rettet: designet er nevnt.	middels
+LI-z8mngx5cwh35nnbl	tilsyn bidro til bedre utvikling i to av seks indikatorer	vekt	Flagg årsaksspråk og undergruppe: justering for observerbare forhold, ikke et effektdesign. Rettet: «bidro» er erstattet og metoden nevnt.	middels
+KU-1b79baf1-41a3-427e-a061-2a65c0cbe804	ingen målbar effekt av tilsynets endringer	retning	Forfatterne skriver at det er for enkelt å lese stabil eller svakere HMS-utvikling som manglende effekt. Rettet.	middels
+0198cc77bb69-6ac9d5e6-44b2-4fe6-80fa-31466c0e2e2c	færre brudd, ingen effekt på arbeidsmiljøfaktorer, helse eller sykefravær	mangler forbehold	Flagg utvalg; forfatterne nevner pandemien, frafall og kort tid til måling. Rettet: lagt til, og antall kommuner nevnt.	lav
+W4407765445	færre brudd ved sluttilsyn	ingen	Stemmer med budskapet.	lav
+W4388017094	ingen effekt på legemeldt sykefravær	ingen	Stemmer; forbehold om frafall og pandemi er dekket i avsnittet.	lav
+W2111592442	høyere etterlevelse, uten håndtering av hvem som får tilsyn	ingen	Flagg årsaksspråk er tatt høyde for i svaret.	lav
+KU-712a755b-3cfb-4168-99b3-053cd0b09bab	beskrivende sammenligning av reaksjoner	ingen	Svaret sier at sammenligningen er beskrivende; rapporten sier selv at den ikke kan tolkes kausalt.	lav
+KU-ce457f52-1a31-470c-a9e8-d4ce03a6182a	83 prosent av påleggene innfridd uten videre oppfølging	ingen	Flagg årsaksspråk gjelder rapportens egne formuleringer; svaret gjengir bare et beskrivende tall.	lav
+KU-2641bb83-a22c-4f58-a12b-5efa4b7c7bf9	tilsyn henger sammen med at ledere mener de har kommet lenger	ingen	Svaret bruker «henger sammen med» og sier at det er ledernes vurdering.	lav
+W2041184998	19–24 prosent færre skader etter tilsyn med bot	ingen	Flagg undergruppe og ukjent identifikasjon (bare sammendrag); svaret nevner at effekten ikke gjelder de minste og største virksomhetene. Designet er ikke lest.	lav
+W2138094971	4 og 20 prosent nedgang i krav	ingen	Justering for observerbare kjennetegn; svaret omtaler studien under registerstudier.	lav
+W2285511036	lengre tid uten skader etter fullstendig tilsyn	ingen	Svaret sier at det gjelder små virksomheter, i tråd med undergruppeflagget.	lav
+W1682734445	færre alvorlige, flere mindre ulykker	ingen	Forfatternes forklaring (mindre forsiktige arbeidstakere) er gjengitt etter kontroll mot teksten.	lav
+W2064673619	autonomistøttende stil gir raskere etterlevelse	ingen	Justering for observerbare kjennetegn; svaret sier «ga» – kunne vært «hang sammen med», men lav betydning.	lav
+W3081675128	82 mot 25 prosent rettet	ingen	Flagg utvalg (få virksomheter i én bransje); svaret nevner oljemøller.	lav
+W7118537502	beskriver hvilke virksomheter som oppfyller ATP	ingen	Svaret sier at skader ikke måles.	lav
+W4410266078	beskriver oppfyllelse av ATP	ingen	Samme som over.	lav
+W2048175567	9,4 og 26 prosent, ingen negativ virkning på drift	ingen	Stemmer med budskapet.	lav
+W2760591304	om lag 9 prosent færre alvorlige skader	ingen	Stemmer.	lav
+W2306445029	24 og 36 prosent færre skader etter tilsyn utløst av skade	ingen	Stemmer.	lav
+W2109614526	avtakende effekt fra 15 til 1 prosent	ingen	Stemmer.	lav

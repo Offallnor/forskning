@@ -1,0 +1,21 @@
+{
+ "apen_url": "https://link.springer.com/content/pdf/10.1007/s10926-025-10330-2.pdf",
+ "ar": 2025,
+ "doi": "https://doi.org/10.1007/s10926-025-10330-2",
+ "forfattere": [
+  "Erik Berglund",
+  "Emilie Friberg",
+  "Veronica Svärd"
+ ],
+ "hentet": "2026-11-09",
+ "hentet_fra": "https://link.springer.com/content/pdf/10.1007/s10926-025-10330-2.pdf",
+ "hvordan": "pdf",
+ "id": "W4413968597",
+ "kilde": "Journal of Occupational Rehabilitation",
+ "lenke": "https://openalex.org/W4413968597",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "PURPOSE: This study investigates factors associated with receiving return-to-work (RTW) coordination within primary healthcare and the association between received RTW coordination and the amount of sickness absence (SA) days. METHODS: This register study included 13019 people who had SA at some time between March 2019 and February 2020 and visited a primary healthcare clinic that employed a RTW coordinator. Logistic regressions were used to investigate received RTW coordination. Negative binomial regressions were used to analyse the amount of SA days in the ten-month follow-up period. RESULTS: Associations were found between receiving RTW coordination and being a woman, being 30-49 years old, and having higher educational attainment, more healthcare contacts, more SA days, and a musculoskeletal or mental diagnosis. In the following ten-month period, mean SA were 71.3 days among people receiving RTW coordination and 76.1 days for those who had not. However, the adjusted analyses did not show association between RTW coordination in primary healthcare and the amount of SA days in the following ten-month period. CONCLUSION: RTW coordination seems to be directed towards some groups of people with a higher risk of long-term SA, but not all, which raises the question of whether or not more people on SA would have benefited from RTW coordination as well. This would likely mean that more finely calibrated ways of identifying people at risk of long-term SA are needed. The reduction in SA days for those who had received RTW coordination needs to be confirmed in further studies.",
+ "tittel": "Receiving Return-To-Work Coordination at Swedish Primary Healthcare Clinics: A Register-Based Study Among People on Sickness Absence",
+ "type": "article"
+}

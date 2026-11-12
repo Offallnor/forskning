@@ -1,0 +1,24 @@
+{
+ "apen_url": "https://www.sjweh.fi/download.php?abstract_id=3301&file_nro=1",
+ "ar": 2012,
+ "doi": "https://doi.org/10.5271/sjweh.3301",
+ "forfattere": [
+  "Rahman Shiri",
+  "Johanna Kausto",
+  "Kari-Pekka Martimo",
+  "Leena Kaila‐Kangas",
+  "Esa‐Pekka Takala",
+  "Eira R. A. Viikari-Juntura"
+ ],
+ "hentet": "før 2026-11-08",
+ "hentet_fra": "https://www.sjweh.fi/pdf-237280-145119?filename=Health-related-effects-of.pdf",
+ "hvordan": "pdf",
+ "id": "W2013503454",
+ "kilde": "Scandinavian Journal of Work Environment & Health",
+ "lenke": "https://openalex.org/W2013503454",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "OBJECTIVE: Previously we reported that early part-time sick leave enhances return to work (RTW) among employees with musculoskeletal disorders (MSD). This paper assesses the health-related effects of this intervention. METHODS: Patients aged 18-60 years who were unable to perform their regular work due to MSD were randomized to part- or full-time sick leave groups. In the former, workload was reduced by halving working time. Using validated questionnaires, we assessed pain intensity and interference with work and sleep, region-specific disability due to MSD, self-rated general health, health-related quality of life (measured via EuroQol), productivity loss, depression, and sleep disturbance at baseline, 1, 3, 8, 12, and 52 weeks. We analyzed the repeated measures data (171-356 observations) with the generalized estimating equation approach. RESULTS: The intervention (part-time sick leave) and control (full-time sick leave) groups did not differ with regard to pain intensity, pain interference with work and sleep, region-specific disability, productivity loss, depression, or sleep disturbance. The intervention group reported better self-rated general health (adjusted P=0.07) and health-related quality of life (adjusted P=0.02) than the control group. In subgroup analyses, the intervention was more effective among the patients whose current problem began occurring <6 weeks before baseline and those with ≤30% productivity loss at baseline. CONCLUSIONS: Our findings showed that part-time sick leave did not exacerbate pain-related symptoms and functional disability, but improved self-rated general health and health-related quality of life in the early stage of work disability due to MSD.",
+ "tittel": "Health-related effects of early part-time sick leave due to musculoskeletal disorders: a randomized controlled trial",
+ "type": "article"
+}

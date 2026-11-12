@@ -1,0 +1,17 @@
+{
+ "apen_url": "https://doi.org/10.17848/9780880994217.ch4",
+ "ar": 2001,
+ "doi": "https://doi.org/10.17848/9780880994217.ch4",
+ "forfattere": [
+  "Paul T. Decker",
+  "Christopher J. O’Leary",
+  "Stephen A. Woodbury"
+ ],
+ "id": "W1585614607",
+ "kilde": "Upjohn Research (W.E. Upjohn Institute for Employment Research)",
+ "lenke": "https://openalex.org/W1585614607",
+ "oversikt": false,
+ "sammendrag": "Presents the primary results of the experiments, namely the effects directly on the UI system. The impact on the dollar value of benefits paid to claimants and the duration of insured unemployment are also estimated.",
+ "tittel": "Bonus Impacts on Receipt of Unemployment Insurance",
+ "type": "book-chapter"
+}

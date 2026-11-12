@@ -1,0 +1,22 @@
+{
+ "apen_url": "https://oem.bmj.com/content/oemed/68/Suppl_1/A28.2.full.pdf",
+ "ar": 2011,
+ "doi": "https://doi.org/10.1136/oemed-2011-100382.89",
+ "forfattere": [
+  "Stefan Schandelmaier",
+  "A. Burkhardt",
+  "Shanil Ebrahim",
+  "W. deBoer",
+  "Gordon Henry Guyatt",
+  "Jason Walter Busse",
+  "Regina Kunz",
+  "Thomas Zumbrunn"
+ ],
+ "id": "W2328015438",
+ "kilde": "Occupational and Environmental Medicine",
+ "lenke": "https://openalex.org/W2328015438",
+ "oversikt": true,
+ "sammendrag": "Objectives Work disability due to accident or illness results in considerable socioeconomic burden. Case management (CM) with individually tailored return-to-work (RTW) plans promise improved reintegration into the work force. We conducted a meta-analysis to determine the impact of CM on RTW. Methods We conducted a search of 5 electronic databases for trials an insurance or similar setting that enrolled patients on sick leave for >4 weeks and randomised them to CM or a control group. Outcomes were time-to-RTW/lasting RTW/cumulative sickness absence. Two investigators performed quality assessment and data extraction independently and in duplicate. Results From 2200 records, we identified 9 studies from 7 countries including patients with musculoskeletal complaints (n=6), injuries (n=1), unspecific pain (n=1) and mental disorders (n=1) in an insurance (n=5) or insurance-like (n=4) setting. Sick-leave varied from 1–55 months. Risk of bias was moderate to high in most studies. Pooling of 5 studies reporting “time-to-RTW” showed a HR of 1.69 (95% CI: 1.38 to 2.07; heterogeneity: I2=0%) favouring CM. Two studies reported cumulative sickness absence after 12 months: OR of 2.5 (95% CI: 1.2 to 5.1) and shortening of 42 days (95% CI: 6 to 79; 34%) favouring CM. One study found no difference. Conclusions The relevant benefit of CM for RTW compared to usual care was consistent across intervention and control conditions. Limited methodological quality, ambiguous definitions for “successful” RTW and lack of important details for transfer into practice (eg, precise description of intervention) require cautious interpretation. Evidence about CM on lasting RTW is promising, but remains limited.",
+ "tittel": "Insurance-based case management to reintegrate patients on sick leave: systematic review and meta-analysis",
+ "type": "conference-abstract"
+}

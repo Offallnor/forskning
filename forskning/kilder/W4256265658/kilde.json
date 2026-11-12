@@ -1,0 +1,23 @@
+{
+ "apen_url": "https://cris.maastrichtuniversity.nl/ws/files/45947802/RM20008.pdf",
+ "ar": 2020,
+ "doi": "https://doi.org/10.26481/umagsb.2020008",
+ "forfattere": [
+  "Bart L. W. Cockx",
+  "Koen Declercq",
+  "Muriel Dejemeppe",
+  "Leda Inga",
+  "Van der Linden Bruno"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "https://cris.maastrichtuniversity.nl/ws/files/45947802/RM20008.pdf",
+ "hvordan": "pdf",
+ "id": "W4256265658",
+ "kilde": "Research Publications (Maastricht University)",
+ "lenke": "https://openalex.org/W4256265658",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "This paper evaluates the impact on the transition to work of a policy reform in Belgium that restricted the access to a specific unemployment insurance scheme for young labor market entrants.This scheme entitles youths with no or little labor market experience to unemployment benefits after a waiting period of one year.As of 2015, the Belgian government unexpectedly scrapped benefit eligibility for youths who start the waiting period at the age of 24 or older.The reform implied a change from an inclining to a flat rate (zero-level) benefit profile.We use a difference-in-differences approach to identify the causal impact of this reform on fresh university graduates.Our main finding is that this reform only increases the transition to very short-lived jobs.",
+ "tittel": "Switching from an inclining to a zero-level unemployment benefit profile: Good for work incentives?",
+ "type": "report"
+}

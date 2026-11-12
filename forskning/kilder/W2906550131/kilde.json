@@ -1,0 +1,21 @@
+{
+ "apen_url": "https://doi.org/10.2139/ssrn.5242885",
+ "ar": 2020,
+ "doi": "https://doi.org/10.2139/ssrn.5242885",
+ "forfattere": [
+  "Lester R. Lusher",
+  "Geoffrey C. Schnorr",
+  "Rebecca Taylor"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "https://docs.iza.org/dp14105.pdf",
+ "hvordan": "pdf",
+ "id": "W2906550131",
+ "kilde": "American Economic Journal Applied Economics",
+ "lenke": "https://openalex.org/W2906550131",
+ "merknad": "ÅPEN VERSJON (preprint eller arbeidsnotat), merkes i svaret",
+ "oversikt": false,
+ "sammendrag": "We provide causal evidence of an ex ante moral hazard effect of Unemployment Insurance (UI) by matching plausibly exogenous changes in UI benefit duration across state-weeks during the Great Recession to high-frequency productivity measures from individual supermarket cashiers. Estimating models with day and cashier-register fixed effects, we identify a modest but statistically significant negative relationship between UI benefits and worker productivity. This effect is strongest for more experienced and less productive cashiers, for whom UI expansions are especially relevant. Additional analyses from the American Time Use Survey reveal a similar increase in shirking during periods with increased UI benefit durations.",
+ "tittel": "Unemployment Insurance as a Worker Indiscipline Device? Evidence from Scanner Data",
+ "type": "article"
+}

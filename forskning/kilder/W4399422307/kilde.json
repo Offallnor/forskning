@@ -1,0 +1,24 @@
+{
+ "apen_url": "https://doi.org/10.1007/s10926-024-10203-0",
+ "ar": 2024,
+ "doi": "https://doi.org/10.1007/s10926-024-10203-0",
+ "forfattere": [
+  "Christa J. C. de Geus",
+  "Maaike A. Huysmans",
+  "H. Jolanda van Rijssen",
+  "Marianne de Maaker‐Berkhof",
+  "Linda Jeanne Schoonmade",
+  "Johannes R. Anema"
+ ],
+ "hentet": "2026-11-09",
+ "hentet_fra": "https://link.springer.com/content/pdf/10.1007/s10926-024-10203-0.pdf",
+ "hvordan": "pdf",
+ "id": "W4399422307",
+ "kilde": "Journal of Occupational Rehabilitation",
+ "lenke": "https://openalex.org/W4399422307",
+ "merknad": "",
+ "oversikt": true,
+ "sammendrag": "PURPOSE: The aim of this systematic review is to identify vocational rehabilitation (VR) interventions that are effective to enhance return-to-work (RTW) for people on long-term sick leave (> 90 days) and to identify main elements of these interventions. METHODS: Six electronic databases were searched for peer-reviewed studies published up to February 2022. Each article was screened independently by two different reviewers. Thereafter, one author performed the data-extraction which was checked by another author. The EPHPP quality assessment tool was used to appraise the methodological quality of the studies. RESULTS: 11.837 articles were identified. 21 articles were included in the review, which described 25 interventions. Results showed that ten interventions were more effective than usual care on RTW. Two interventions had mixed results. The effective interventions varied widely in content, but were often more extensive than usual care. Common elements of the effective interventions were: coaching, counseling and motivational interviewing, planning return to work, placing the worker in work or teaching practical skills and advising at the workplace. However, these elements were also common in interventions that were not effective on RTW compared to usual care and can therefore not explain why certain interventions are effective and others are not. CONCLUSION: The effective interventions included in this study were often quite extensive and aimed at multiple phases of the RTW-process of the worker. In the future, researchers need to describe the population and the content of the investigated interventions more elaborate to be able to better compare VR interventions and determine what elements make interventions effective.",
+ "tittel": "Elements of Return-to-Work Interventions for Workers on Long-Term Sick Leave: A Systematic Literature Review",
+ "type": "review"
+}

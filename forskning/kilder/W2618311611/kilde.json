@@ -1,0 +1,15 @@
+{
+ "ar": 2008,
+ "forfattere": [
+  "Andrey Launov",
+  "Irene Schumm",
+  "Klaus Wälde"
+ ],
+ "id": "W2618311611",
+ "kilde": "RePEc: Research Papers in Economics",
+ "lenke": "https://openalex.org/W2618311611",
+ "oversikt": false,
+ "sammendrag": "We formulate a general equilibrium matching model with spell-dependent unemployment benefits and endogenous search effort. The model gives rise to an endogenous distribution of unemployment duration characterized by a time-varying hazard function. Using methods from the literature on Semi-Markov processes, we obtain an expression for the aggregate unemployment rate under heterogeneous search effort. We perform structural estimation of the model using a German micro-data set (SOEP) and discuss the effects of the recent unemployment benefit reform (Hartz IV). Our results show that although the reform and economic growth have contributed to the reduction of the aggregate unemployment rate, aggregate welfare has gone down.",
+ "tittel": "Estimating insurance and incentive effects of labour market reforms",
+ "type": "preprint"
+}

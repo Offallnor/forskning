@@ -1,0 +1,14 @@
+{
+ "apen_url": "https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID270168_code010604590.pdf?abstractid=270168&mirid=2",
+ "ar": 2001,
+ "forfattere": [
+  "tμepán Jurajda"
+ ],
+ "id": "W3144638137",
+ "kilde": "SSRN Electronic Journal",
+ "lenke": "https://openalex.org/W3144638137",
+ "oversikt": false,
+ "sammendrag": "Estimating the Effect of Unemployment Insurance Compensation on the Labor Market Histories of Displaced Workers In this paper, U.S. data on labor market histories of displaced workers are used to quantify the effect of Unemployment Insurance Compensation (UIC) on both unemployment and employment durations. This results in the first available assessment of the effect that UIC has on the fraction of time spent employed. The estimation procedure simultaneously allows for unobserved heterogeneity, defective risks and sample selection into future spells, and uses alternative assumptions about agents knowledge of the UIC eligibility rules. Being entitled to UIC shortens workers employment durations. This negative effect on the fraction of time spent employed could be offset by suspending an extended benefits program in order to shorten unemployment durations. JEL Classification: C41, J63, J65",
+ "tittel": "Estimating the Effect of Unemployment Insurance Compensation on the Labor Market Histories of Displaced Workers",
+ "type": "preprint"
+}

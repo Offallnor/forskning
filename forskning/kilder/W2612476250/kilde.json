@@ -1,0 +1,25 @@
+{
+ "apen_url": "https://bmcpublichealth.biomedcentral.com/track/pdf/10.1186/s12889-017-4329-1",
+ "ar": 2017,
+ "doi": "https://doi.org/10.1186/s12889-017-4329-1",
+ "forfattere": [
+  "Gunnar Bergström",
+  "Malin Lohela-Karlsson",
+  "Lydia Kwak",
+  "L. Bodin",
+  "Irene B. Jensen",
+  "Margareta Torgén",
+  "Lotta Nybergh"
+ ],
+ "hentet": "2026-11-09",
+ "hentet_fra": "https://bmcpublichealth.biomedcentral.com/track/pdf/10.1186/s12889-017-4329-1",
+ "hvordan": "pdf",
+ "id": "W2612476250",
+ "kilde": "BMC Public Health",
+ "lenke": "https://openalex.org/W2612476250",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "BACKGROUND: Common mental disorders (CMDs) are among the leading causes of sick leave in Sweden and other OECD countries. They result in suffering for the individual and considerable financial costs for the employer and for society at large. The occupational health service (OHS) can offer interventions in which both the individual and the work situation are taken into account. The aim of this paper is to describe the design of a study evaluating the effectiveness of an intervention given at the OHS to employees with CMDs or stress-related symptoms at work. In addition, intervention fidelity and its relation to the outcome will be assessed in a process analysis. METHODS: The study is designed as a cluster randomized trial in which the participating OHS consultants are randomized into either delivering the intervention or performing care as usual. Employees with CMDs or stress-related symptoms at work are recruited consecutively by the OHS consultants. The intervention aims to improve the match between the employee and the job situation. Interviews are held individually with the employee and the nearest supervisor, after which a joint meeting with both the employee and the supervisor takes place. A participatory approach is applied by which the supervisor and the employee are guided by the OHS consultant and encouraged to actively take part in problem solving concerning the work situation. Outcomes will be assessed at baseline and at six and 12 months. A long-term follow-up at 3 years will also be performed. The primary outcome is registered sickness absence during a 1-year period after study inclusion. Secondary outcomes are mental health and work ability. The intervention's cost effectiveness, compared to treatment as usual, both for society and for the employer will be evaluated. A process evaluation by both the OHS consultants and the employee will be carried out. DISCUSSION: The study includes analyses of the effectiveness of the intervention (clinical and economic) as well as an analysis of its implementation at the participating OHSs. Possible methodological challenges such as selection bias and risk of contamination between OHS consultants delivering the experimental condition and consultants giving usual care are discussed. TRIAL REGISTRATION: ClinicalTrials NCT02563743 Sep 28 2015.",
+ "tittel": "Preventing sickness absenteeism among employees with common mental disorders or stress-related symptoms at work: Design of a cluster randomized controlled trial of a problem-solving based intervention versus care-as-usual conducted at the Occupational Health Services",
+ "type": "article"
+}

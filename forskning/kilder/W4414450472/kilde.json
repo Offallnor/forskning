@@ -1,0 +1,15 @@
+{
+ "apen_url": "https://doi.org/10.7302/26956",
+ "ar": 2025,
+ "doi": "https://doi.org/10.7302/26956",
+ "forfattere": [
+  "Kyle Henson"
+ ],
+ "id": "W4414450472",
+ "kilde": "Deep Blue (University of Michigan)",
+ "lenke": "https://openalex.org/W4414450472",
+ "oversikt": false,
+ "sammendrag": "This dissertation comprises three essays that employ empirical methods to examine shifts in the labor market over time. The first chapter estimates the wage effect and labor supply response of work-from-home. The second chapter evaluates the impact of unemployment insurance programs on internet job search utilizing states' early withdrawal from federal COVID-era programs. The third chapter explores the usefulness of Google Trends for forecasting employment in real time. In Chapter 1, I leverage within-person time variation in work-from-home prevalence to estimate the compensating wage differential of working from home by utilizing the panel structure and work-from-home questions added to the 2019–2023 iterations of the Survey of Income and Program Participation (SIPP). I find that increasing remote work leads to slightly lower wages, even though workers in these arrangements typically earn a higher wage than their in-person counterparts. The bulk of the effect comes from those who spend all their work days working from home. In addition, remote work leads individuals to work more hours overall. This is true in both hybrid and primarily work-from-home arrangements. I explore these findings with a labor supply model that includes differentiated productivity and preferences for work-from-home. In Chapter 2, I create an internet job search index derived from Google Trends and use difference-in-difference methods to utilize the variation in the dates of expanded unemployment benefit exhaustion across states. When withdrawing from the program, internet job search declined by as much as 10% in the weeks following. I find a small jump (6-7%) in job search at the time of the state announcement that quickly dissipates. These findings imply that expanded unemployment benefits were not the primary driver keeping people out of employment during this period. Chapter 3 adapts previous work on forecasting with Google Trends to an environment in which data is revised multiple times before being finalized, in a comparable manner to many macroeconomic series. We provide a framework for adding high-dimensional data of this type into forecasts of variables that undergo revisions. This framework enables us to test the improvement of incorporating alternative data by estimating and evaluating models in real-time, using data as it becomes available for use in forecasting. In this environment, we find virtually no benefit of including Google Trends in our forecasts of national employment and small, varied benefits in forecasting state employment, in contrast to other findings using the full history of data.",
+ "tittel": "Essays in Labor and Time Series Economics",
+ "type": "dissertation"
+}

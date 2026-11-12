@@ -1,0 +1,18 @@
+{
+ "apen_url": "https://researchonline.lse.ac.uk/id/eprint/134907/1/Scrutinio_Essays-applied-econometrics.pdf",
+ "ar": 2019,
+ "forfattere": [
+  "Vincenzo Scrutinio"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "https://researchonline.lse.ac.uk/id/eprint/134907/1/Scrutinio_Essays-applied-econometrics.pdf",
+ "hvordan": "pdf",
+ "id": "W2985217218",
+ "kilde": "London School of Economics and Political Science Theses Online (London School of Economics and Political Science)",
+ "lenke": "https://openalex.org/W2985217218",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "This thesis consists of three chapters. In the first chapter (The Medium Term Effects of Unemployment Benefits), I explore the effect of longer potential duration of unemployment benefits on workers’ employment over 4 years after layoff. To this purpose, I exploit rich and novel administrative data from Italy. The identification is based on an age at layoff rule which determines 4 additional months of benefits for workers who are fired after turning 50 years of age. I use this in a Regression Discontinuity Design with a donut correction to account for strategic delay of layoff in the neighbourhood of the age threshold. I show that workers with longer potential benefits spend more time on benefits and in nonemployment before finding a new job than workers fired before turning 50 years of age. However, I find that the two groups of workers spend a similar amount of time in nonemployment over 4 years since layoff. This shows that classical estimates of nonemployment effects of unemployment benefits, which do not take into account recurrent nonemployment spells, tend to overestimate these negative effects. In the second chapter (Happy Birthday? Manipulation and Selection in Unemployment Insurance), with Luca Citino (LSE and Bank of Italy) and Kilian Russ (Bonn School of Economics), we study the strategic timing of layoff for workers to gain eligibility to longer benefits. We use rich Italian administrative data and we focus on an age at layoff rule which determined an increase in unemployment benefit potential duration for workers fired after turning 50 years of age. We find that, in a neighbourhood of the threshold, a relevant share of individuals delays the date of layoff in order to be eligible to longer benefits. These workers are more likely to be women, white collar, part time and to be employed in small firms with respect to workers who do not engage in manipulation. Most importantly, these workers show a higher baseline risk of long-term unemployment. Although manipulation leads to a large increase in benefits, the mechanical component plays a central role and behavioural responses are limited. In third chapter (Teacher Turnover? Does it Matter for Student Achievement), with Shqiponja Telhaj (University of Sussex) and Steve Gibbons (LSE), we study the effect of teacher turnover in UK secondary schools. By using a rich regression model and large administrative data, we find that teacher turnover has a small negative, but highly statistically significant, effect on pupils’ performance. This effect is stronger for pupils at the bottom of grade distribution and from disadvantaged background.",
+ "tittel": "Essays in applied econometrics",
+ "type": "dissertation"
+}

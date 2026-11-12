@@ -1,0 +1,23 @@
+{
+ "apen_url": "https://www.sciencedirect.com/science/article/pii/S2666535226001461/pdf",
+ "ar": 2026,
+ "doi": "https://doi.org/10.1016/j.puhip.2026.100867",
+ "forfattere": [
+  "Holly Clarke",
+  "Damon Morris",
+  "Megan James",
+  "Alan Brennan",
+  "Adam Whitworth"
+ ],
+ "hentet": "2026-11-09",
+ "hentet_fra": "https://eprints.whiterose.ac.uk/id/eprint/247197/1/1-s2.0-S2666535226001461-main.pdf",
+ "hvordan": "pdf",
+ "id": "W7220702470",
+ "kilde": "Public Health in Practice",
+ "lenke": "https://openalex.org/W7220702470",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "Objectives: We evaluated the effectiveness and long-term economic impacts of IPS for people with mental health (MH), musculoskeletal (MSK), or combined conditions. Using data from recent trials in England, we developed a cost-benefit and outcomes modelling tool (IPS-MOD). Study design: A decision-analytic Markov state-transition model to track the impact of interventions on employment trajectories and the proportion of people in employed and non-employed states over a five-year horizon. Methods: IPS-MOD applied a Markov model structure to simulate transitions between employment and non-employment under IPS and business-as-usual. It incorporated trial evidence, national survey data, and tax-benefit microsimulation to estimate employment rates, quality-adjusted life years (QALYs), government expenditure, and net-earnings over five years. Sensitivity analyses tested the robustness of benefit-cost ratios under alternative assumptions about service costs and effectiveness. Results: For people with MSK conditions, assuming a societal perspective, IPS-MOD estimated that £1 invested in IPS generated a return of £1.13 by Year 1 and £5.71 by Year 5. By Year 5, IPS was estimated to raise employment rates by 5.87% relative, add 0.137 QALYs per person, and reduce spending by £1009.92 in social security payments and £124.59 in health service use. Positive returns were also observed for MH and combined conditions. Sensitivity analyses showed positive returns by Year 5 across most scenarios. Conclusions: Expanding IPS services to people with MH, MSK, or combined conditions in England is likely to deliver long-term health and economic benefits and provide a positive economic return on investment. The results contribute to evidence on the value of employment support for people with health conditions and may inform future policy decisions on improving labour market participation.",
+ "tittel": "Estimating the health and economic impacts of Individual Placement and Support (IPS) for people with mental and physical health conditions: A cost-benefit modelling study",
+ "type": "article"
+}

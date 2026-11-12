@@ -1,0 +1,17 @@
+{
+ "ar": 2012,
+ "forfattere": [
+  "Lorenzo Corsini"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "https://mpra.ub.uni-muenchen.de/36572/1/MPRA_paper_36572.pdf",
+ "hvordan": "pdf",
+ "id": "W2263042960",
+ "kilde": "Munich Personal RePEc Archive (Ludwig Maximilian University of Munich)",
+ "lenke": "https://openalex.org/W2263042960",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "We examine how unemployment schemes and liquidity constraints affect re-employment probabilities trying to assess whether these schemes, through employment services and search requirements, can offset the perverse effect of benefits on unemployment duration. Similarly, given that liquidity constraints and financial pressure also affect reservation wage and search effort, we analyze whether better economic conditions of individuals increase duration. We perform a survival analysis on Finland, Italy and Poland and we find that unemployment insurance schemes have a mixed effect: initially they give incentives to increase search effort but with time they simply reduce liquidity constraints and thus increase duration. We also find that individuals’ liquidity constraints reduce unemployment duration in Italy and Poland but not Finland, suggesting that this aspect is less important in countries with a more developed welfare system.",
+ "tittel": "Unemployment Insurance Schemes, Liquidity Constraints and Re-employment: a three Country Comparison",
+ "type": "report"
+}

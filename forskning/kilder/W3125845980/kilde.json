@@ -1,0 +1,15 @@
+{
+ "ar": 2020,
+ "doi": "https://doi.org/10.1111/obes.12367",
+ "forfattere": [
+  "Tomi Kyyrä",
+  "Hanna Pesola"
+ ],
+ "id": "W3125845980",
+ "kilde": "Oxford Bulletin of Economics and Statistics",
+ "lenke": "https://openalex.org/W3125845980",
+ "oversikt": false,
+ "sammendrag": "Abstract This paper analyses the effects of unemployment insurance benefits on unemployment exits and subsequent labour market outcomes. We exploit a piecewise linear relationship between the previous wage and benefits in Finland to identify the causal effects of the benefit level by using a regression kink design. Although we only find weak evidence of an effect on the time to the next job, higher benefits decrease the time spent in part‐time unemployment and thus result in more full‐time unemployment. The re‐employment probability and post‐unemployment wage are also negatively affected. The results for the duration of the first post‐unemployment job are not conclusive, but in total both employment and earnings in the two years following the beginning of the unemployment spell decrease with higher benefits.",
+ "tittel": "The Effects of UI Benefits on Unemployment and Subsequent Outcomes: Evidence from a Kinked Benefit Rule",
+ "type": "article"
+}

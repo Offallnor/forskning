@@ -1,0 +1,26 @@
+{
+ "apen_url": "https://www.sjweh.fi/download.php?abstract_id=3576&file_nro=1",
+ "ar": 2016,
+ "doi": "https://doi.org/10.5271/sjweh.3576",
+ "forfattere": [
+  "Sergio Vargas-Prada",
+  "Evangelia Demou",
+  "Drushca Lalloo",
+  "Ione Ávila-Palència",
+  "Kaveh A Sanati",
+  "Maite Sampere",
+  "Kerry Freer",
+  "Cònsol Serra"
+ ],
+ "hentet": "før 2026-11-08",
+ "hentet_fra": "https://www.sjweh.fi/pdf-237101-144931?filename=Effectiveness-of-very-ear.pdf",
+ "hvordan": "pdf",
+ "id": "W2412604146",
+ "kilde": "Scandinavian Journal of Work Environment & Health",
+ "lenke": "https://openalex.org/W2412604146",
+ "merknad": "",
+ "oversikt": true,
+ "sammendrag": "OBJECTIVE: The aim of this review was to investigate the effectiveness of workplace return-to-work (RTW) interventions delivered at very early stages (<15 days) of sickness absence (SA). METHODS: A systematic literature search was conducted in PubMed, Health Management Information Consortium (HMIC), Cochrane library database, Cumulative Index to Nursing and Allied Health Literature (CINAHL), PsychInfo and Embase. Using pre-established criteria, independent pairs of researchers carried out the study selection, quality appraisal and data extraction. Workplace interventions before day 15 of SA, were included. Primary outcome measures included rates of and time until RTW, productivity loss, and recurrences of SA. RESULTS: We found limited available evidence on the benefits of \"very early\" workplace interventions in terms of RTW after a SA episode compared to usual care. Only three randomized controlled trials classed as high or intermediate quality were identified. Early part-time sick leave together with appropriate job modifications led to a reduction in the duration and recurrence of SA. There is evidence of benefit of intervening during the first two weeks of SA for musculoskeletal disorders. CONCLUSION: Our review has identified a lack of evidence from the literature at this time point to support \"very early\" intervention compared to usual care. The methodological design of the studies, notably the extent and timing of usual care provided and variable compliance/crossover between groups could however explain the lack of demonstrated benefit. Consensus is required on the definition of \"early\" and \"very early\" interventions, and further research is recommended to improve understanding of the factors influencing when and how best to intervene for maximum gain.",
+ "tittel": "Effectiveness of very early workplace interventions to reduce sickness absence: a systematic review of the literature and meta-analysis",
+ "type": "review"
+}

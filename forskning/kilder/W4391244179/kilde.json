@@ -1,0 +1,26 @@
+{
+ "apen_url": "http://www.thelancet.com/article/S2589537023005771/pdf",
+ "ar": 2024,
+ "doi": "https://doi.org/10.1016/j.eclinm.2023.102400",
+ "forfattere": [
+  "John Marsden",
+  "Paul Anders",
+  "Claire Shaw",
+  "Chioma Amasiatu",
+  "Winnie Collate",
+  "Brian Eastwood",
+  "Patrick Horgan",
+  "Meetal Khetani"
+ ],
+ "hentet": "2026-11-09",
+ "hentet_fra": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10828604/fullTextXML",
+ "hvordan": "Europe PMC",
+ "id": "W4391244179",
+ "kilde": "EClinicalMedicine",
+ "lenke": "https://openalex.org/W4391244179",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "Background: Individual Placement and Support (IPS) is a specialist intervention to help people attain employment in the open competitive labour market. IPS has been developed in severe mental illness and other disabilities, but it is of unknown effectiveness for people with alcohol and drug dependence. The Individual Placement and Support-Alcohol and Drug (IPS-AD) is the first superiority trial to evaluate effectiveness and cost-effectiveness. Methods: IPS-AD was a pragmatic, parallel-group, multi-centre, randomised, controlled, phase 3 trial of standard employment support (treatment-as-usual [TAU]) versus IPS. IPS was offered as a single episode for up to 13 months. The study was done at seven community treatment centres for alcohol and drug dependence in England. Study participants were adults (18-65 years), who had been enrolled for at least 14 days in treatment for alcohol use disorder (AUD), opioid use disorder (OUD), or another drug use disorder (DUD; mostly cannabis and stimulants); were unemployed or economically inactive for at least six months; and wished to attain employment in the open competitive labour market. After random allocation to study interventions, the primary outcome was employment during 18-months of follow-up, analysed by mixed-effects logistic regression, using multiple imputation for the management of missing outcome data. There were two cost-effectiveness outcomes: a health outcome expressed as a quality adjusted life year (QALY) using £30,000 and £70,000 willingness-to-pay [WTP] thresholds; and additional days of employment, with a WTP threshold of £200 per day worked. The study was registered with ISRCTN (ISRCTN24159790) and is completed. Findings: Between 8 May 2018 and 30 September 2019, 2781 potentially eligible patients were identified. 812 were excluded before screening, and 1720 participants were randomly allocated to TAU or IPS. In error, nine participants were randomised to study interventions on two occasions-so data for their first randomisation was analysed (modified intention-to-treat). A further 24 participants withdrew consent for all data to be used (full-analysis set therefore 1687 participants [70.1% male; mean age 40.8 years]; TAU, n = 844; IPS, n = 843 [AUD, n = 610; OUD, n = 837; DUD, n = 240]). Standard employment support was received by 559 [66.2%] of 844 participants in the TAU group. IPS was received by 804 [95.37%] of 843 participants in the IPS group. IPS was associated with an increase in attainment of employment compared with TAU (adjusted odds ratio [OR] 1.29; 95% CI 1.02-1.64; p-value 0.036). IPS was effective for the AUD and DUD groups (OR 1.48; 95% CI 1.14-1.92; p-value 0.004; OR 1.45, 95% CI 1.03-2.04, p-value 0.031, respectively), but not the OUD group. IPS returned an incremental QALY outcome gain of 0.01 (range 0.003-0.02) per participant with no evidence of cost-effectiveness at either WTP threshold-but QALY gains were cost-effective for the AUD and DUD groups at the £70,000 WTP threshold (probability 0.52 and 0.97, respectively). IPS was cost-effective for additional days of employment (probability 0.61), with effectiveness relating to the AUD group only (probability >0.99). Serious Adverse Events were reported by 39 participants (13 [1.5%] of 844 participants in the TAU group and 23 [2.7%] of 43 participants in the IPS group). There was a total of 25 deaths (1.5%; 9 in the TAU group and 16 in the IPS group)-none judged related to study interventions. Interpretation: In this first superiority randomised controlled trial of IPS in alcohol and drug dependence, IPS helped more people attain employment in the open competitive labour market than standard employment support. IPS was cost-effective for a QALY health outcome (£70,000 WTP threshold) for the AUD and DUD groups, and for additional days of employment for the AUD group (£200 per day worked WTP threshold). Funding: UK government Work and Health Unit.",
+ "tittel": "Superiority and cost-effectiveness of Individual Placement and Support versus standard employment support for people with alcohol and drug dependence: a pragmatic, parallel-group, open-label, multicentre, randomised, controlled, phase 3 trial",
+ "type": "article"
+}

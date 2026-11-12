@@ -1,0 +1,25 @@
+{
+ "apen_url": "https://bmcprimcare.biomedcentral.com/counter/pdf/10.1186/s12875-023-02151-0",
+ "ar": 2023,
+ "doi": "https://doi.org/10.1186/s12875-023-02151-0",
+ "forfattere": [
+  "Anja Beno",
+  "Monica Bertilsson",
+  "Kristina EM Holmgren",
+  "Kristina Glise",
+  "Anders Pousette",
+  "Karin Segerfelt",
+  "Lisa Björk"
+ ],
+ "hentet": "2026-11-09",
+ "hentet_fra": "https://bmcprimcare.biomedcentral.com/counter/pdf/10.1186/s12875-023-02151-0",
+ "hvordan": "pdf",
+ "id": "W4386883739",
+ "kilde": "BMC Family Practice",
+ "lenke": "https://openalex.org/W4386883739",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "BACKGROUND: Stress-related disorders have become a major challenge for society and are associated with rising levels of sick leave. The provision of support to facilitate the return to work (RTW) for this patient group is of great importance. The aim of the present study was to evaluate whether a new systematic procedure with collaboration between general practitioners (GPs), rehabilitation coordinators (RCs) and employers could reduce sick leave days for this patient group. METHOD: Employed patients with stress-related diagnoses seeking care at primary health care centres (PHCCs) were included in either the intervention group (n = 54), following the systematic intervention procedure, or the control group (n = 58), receiving treatment as usual (TAU). The intervention included a) a training day for participant GPs and RCs, b) a standardised procedure for GPs and RCs to follow after training, c) the opportunity to receive clinical advice from specialist physicians in the research group. Outcome measures for RTW were sick leave days. RESULTS: The median number of registered gross sick leave days was lower for the control group at six, 12 and 24 months after inclusion, but the difference was not statistically significant. The control group had significantly fewer net sick leave days at three months (p = 0.03) at six months (p = 0.00) and at 12-months follow-up (p = 0.01). At 24 months, this difference was no longer significant. CONCLUSIONS: The PRIMA intervention, which applied a standardized procedure for employer involvement in the rehabilitation process for patients with stress-related disorders, actually increased time to RTW compared to TAU. However, at 24 months, the benefit of TAU could no longer be confirmed. The study was registered on 16/01/2017 (ClinicalTrials.gov, NCT03022760).",
+ "tittel": "Does employer involvement in primary health care enhance return to work for patients with stress-related mental disorders? a cluster randomized controlled trial",
+ "type": "article"
+}

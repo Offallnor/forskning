@@ -1,0 +1,14 @@
+{
+ "ar": 2006,
+ "forfattere": [
+  "Virve Ollikainen",
+  "Tomi Kyyrä"
+ ],
+ "id": "W3123331744",
+ "kilde": "RePEc: Research Papers in Economics",
+ "lenke": "https://openalex.org/W3123331744",
+ "oversikt": false,
+ "sammendrag": "In Finland the older unemployed can collect unemployment insurance (UI) benefits until retirement, while the entitlement period for younger groups is two years. In 1997 the eligibility age of persons benefiting from extended benefits was raised from 53 to 55. This paper takes advantage of this quasi-experimental setting to identify the effect of extended UI benefits on transitions out of unemployment among the elderly unemployed. We apply a competing risks version of a split population duration model to account for multiple exit routes and the possibility that some of the elderly unemployed may not be active in the labour market due to pension rules. We estimate that roughly half of the workers with extended UI benefits have effectively withdrawn from the labour market. Those who remain active have a similar hazard rate to employment as individuals with the two-year entitlement period, but much lower hazard rates to non-participation and labour market programmes.",
+ "tittel": "To Search or Not to Search? The Effects of UI Benefit Extension for the Elderly Unemployed",
+ "type": "preprint"
+}

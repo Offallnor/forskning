@@ -1,0 +1,96 @@
+# Oversikter
+W2993400654  # 2019, sykelønn og sykefravær: europeiske sammenligninger og gjennomgang av tidligere forskning
+W2559846193  # 2016, Privatizing sick pay: does it work? (Nederland)
+W2098026786  # 2007, systematisk oversikt over forebyggende insentiver i forsikring (yrkesskade)
+# Arbeidstakers egenandel: ytelsesnivå og karensdager
+W2169584029  # 2004, endringer i sykeforsikringen, Sverige
+W3122634514  # 2004, moral hazard og sykeforsikring, svensk reform
+W3125893180  # 2007, moral hazard blant syke og ledige, svensk reform
+W2151016786  # 2005, Never on a Sunday, Sverige
+W3125477331  # 2013, Temporary disability insurance and labor supply, Sverige
+W3040771904  # 2010, kutt i sykelønn, Tyskland
+W2326189071  # 2013, økt sjenerøsitet i sykelønn, Tyskland
+W2793267873  # 2018, A kink that makes you sick, Finland
+W2180996442  # 2015, kompensasjonsgrad og langtidsfravær
+W2598703126  # 2022, økt sjenerøsitet, fransk reform
+W7115094906  # 2017, én karensdag i fransk statsforvaltning
+W7135822413  # 2018, innføring av karensdag 2008, Frankrike
+W3172039849  # 2021, sykelønn og fravær, influensa, Tsjekkia
+# Arbeidsgivers egenandel og erfaringsprising
+W2076492883  # 2011, The sick pay trap, Norge
+W1733360148  # 2013, sykefravær, sykelønn og lønnssystemer, Norge
+W2919590971  # 2019, arbeidsgiverbetalt sykelønn i Storbritannia og Norge
+W4307384262  # 2022, usikre jobber og risikodeling arbeidsgiver/arbeidstaker/trygd, Norge
+W4389284747  # 2023, bedrifters respons på sjenerøs forsikring mot høye sykelønnskostnader, Sverige
+W3122038036  # 2011, bedrifters moral hazard i sykefravær, Østerrike
+W1521901582  # 2014, bedrifters sykelønnskostnader og fravær, Østerrike
+W2885246094  # 2018, erfaringsprising og syke- og uføreinngang, Finland
+W4386002685  # 2022, arbeidsgivers uføre- og ledighetskostnader og tilstrømming, Finland
+W2013503155  # 2009, erfaringsprising og uføreinngang, Nederland
+W3124092462  # 2016, erfaringsprising i uføreforsikring, Nederland
+W4414256612  # 2025, sterkere arbeidsgiveransvar og tilrettelegging, Nederland
+# Lagt til i kaldtesten 7.11, fra referanser runde 1 og norsk søk
+# Oversikter
+W2395345310  # 2016, Grasdal: helserelaterte trygdeytelser og økonomiske insentiver (norsk oversikt)
+W7163923315  # 2026, Markussen: Sykelønnsordningen, en 50-åring moden for revisjon? (bokkapittel)
+W2892361030  # 2018, Nandi mfl.: oversikt over permisjon og sykelønn i OECD (delvis relevant)
+# Arbeidstaker
+W2797417805  # 2002, Johansson og Palme: offentlig politikk og fravær, svensk reform 1991 (samme materiale som W1514072083, W1539891801)
+W2131976333  # 1996, Johansson og Palme: økonomiske insentiver og fravær, Sverige
+W3121313943  # 2009, Ziebarth: langtidsfravær og moral hazard, naturlig eksperiment, Tyskland
+W3124756840  # 2010, Puhani og Sonderhof: sykelønnsreform, fravær og helse, Tyskland
+W3125449166  # 2015, Goerke og Pannenberg: fagforeningsmedlemskap og sykelønnsreform, Tyskland (samme som W2141321174)
+W2509114616  # 2017, Pichler og Ziebarth: smittsomt sykenærvær, Tyskland og USA
+W2104547524  # 2007, Hesselius og Persson: tilleggskompensasjon etter dag 90, Sverige
+W2206428878  # 2015, Pollak: ventetid for sykelønn, Frankrike
+W2790164552  # 2018, Ben Halima mfl.: arbeidsgivers tilleggsdekning, Frankrike (samme materiale som W2280550480)
+W2219647517  # 2014, De Paola mfl.: kutt i sykelønn i offentlig sektor, Italia
+W4293238630  # 2022, Marie og Vall Castelló: kutt i sykelønn i offentlig sektor, Spania
+W2950108415  # 2019, Csillag: halvert maksimal sykelønn, Ungarn
+W2801719577  # 2018, Dale-Olsen: sykefravær og inntektskompensasjon, Norge (samme som vitenarkivet 0198cc821373)
+W7115375317  # 2025, Grönholm: självriskdag i Finland og Sverige (masteroppgave)
+0198cc6b5075-4f48eef2-abe5-47a9-98cc-d3c3d0ea5955  # 2024, Skjerming av kronikere: unntak fra arbeidsgiverperioden, Norge
+# Arbeidsgiver
+W2601387569  # 2017, Halla mfl.: deling av sykelønnskostnader mellom arbeidsgiver og trygd, Østerrike
+W39605834    # 2018, Pertold og Westergaard-Nielsen: bedriftsforsikring mot sykelønn, Danmark
+W2340419694  # 2004, de Jong og Lindeboom: privatisering av sykelønn, Nederland
+W3126028820  # 2012, van Sonsbeek og Gradus: uførereformer, Nederland
+W4220936084  # 2022, Hagen og Malmberg: medfinansiering av uføreforsikring, svenske kommuner
+W7142083991  # 2026, Lengagne: erfaringsprising i yrkesskadeforsikring og fravær, Frankrike
+W3134564261  # 2018, Kyyrä og Paukkeri, arbeidsnotat (åpen versjon av W2885246094)
+# Lagt til fra referanser runde 2 (7.11)
+W2172116092  # 2001, Voss mfl.: karensdag innført i Sverige 1993
+W1742250188  # 1997, Edgerton: kutt i sykepenger og karensdag, Sverige
+W3204999247  # 2021, Prinz: arbeidsgiveransvar i uføreforsikringen, Nederland
+W2256991487  # 2015, Hassink mfl.: arbeidsgivere som går ut av offentlig uføreforsikring, Nederland
+# Åpne versjoner funnet med --versjoner (7.11)
+W2131859699  # 2005, Koning: arbeidsnotat, åpen versjon av W2013503155
+W3125528164  # 2016, de Groot og Koning: arbeidsnotat, åpen versjon av W3124092462
+W3122111607  # 2009, Ziebarth: arbeidsnotat, åpen versjon av W3121313943
+W4297975373  # 2009, Puhani og Sonderhof: arbeidsnotat, åpen versjon av W3124756840
+W3022725470  # 2016, Pichler og Ziebarth: NBER, åpen versjon av W2509114616
+W4300080070  # 2018, Kyyrä og Paukkeri: åpen versjon av W2885246094
+W3123278655  # 2012, Pertold og Westergaard-Nielsen: arbeidsnotat, åpen versjon av W39605834
+W2787775026  # 2017, Cazenave-Lacroutz og Godzinski: arbeidsnotat, åpen versjon av W7115094906
+W4206014690  # 2011, Fevang mfl.: arbeidsnotat, åpen versjon av W2076492883
+W2141321174  # 2012, Goerke og Pannenberg: arbeidsnotat, åpen versjon av W3125449166
+# Lagt til fra det blinde utvalget (7.11)
+W4415122073  # 2025, Ziebarth: karensdager og lavere kompensasjonsgrad, økonomisk vurdering (Tyskland, oversikt)
+W1587446007  # 2000, Boss: sykelønn og sykefravær, Tyskland 1950–
+W1730183598  # 2004, Wells mfl.: sykefravær i Sverige, paneldata 1985–1997
+W1572536547  # 2011, Persson: bytte mellom omsorgspenger og sykefravær, Sverige (karensdag)
+W1823227986  # 2015, Fevang mfl.: midlertidig uførhet og økonomiske insentiver, kvasieksperiment, Norge (samme som W2185787581)
+W7203954346  # 2026, King mfl.: forskuttert sykelønn og sykefravær, Norge (beslektet)
+W2188125461  # 2011, Ljunge: prisen på fravær via skatt, Sverige/Danmark (beslektet)
+W4408790921  # 2026, Madsen: kortere varighet for sykedagpenger, Danmark (beslektet)
+W4399627634  # 2024, Timp mfl.: økonomiske insentiver og fravær, Nederland
+W2950538458  # 2019, Scognamiglio: kompensasjonsgrad og fravær, Italia 2008
+W2755226448  # 2017, D'Amuri: kontroll og lavere kompensasjon, Italia 2008
+W2505804103  # 2016, Aaviksoo og Kiivet: sykepengereform og fravær, Estland
+W2117611217  # 2014, Aaviksoo og Kiivet: kutt i sykepenger rammer arbeidere, Estland
+W2905226361  # 2018, Böheim og Leoni: publisert versjon av W3122038036 (samme materiale)
+# Åpne versjoner funnet i runde 4 (7.11)
+W7139837664  # Fevang mfl.: The Sick Pay Trap, åpen versjon av W2076492883
+W4298168113  # 2015, Hassink mfl.: åpen versjon av W2256991487
+W4300708056  # 2012, Goerke og Pannenberg: åpen versjon av W3125449166
+KU-482dde58-5382-445f-b57f-f8ff4ea92ba1  # 2022, Vista/Frisch: Syk men skjermet, skjermingsordningen og forsikringsordningen for små bedrifter (Kudos, raskt tillegg 9.11)

@@ -1,0 +1,14 @@
+{
+ "apen_url": "http://hdl.handle.net/10138/21792",
+ "ar": 2007,
+ "forfattere": [
+  "Tomi Kyyrä"
+ ],
+ "id": "W1608855302",
+ "kilde": "RePEc: Research Papers in Economics",
+ "lenke": "https://openalex.org/W1608855302",
+ "oversikt": false,
+ "sammendrag": "This thesis consists of four studies. The first study examines wage differentials between women and men in the Finnish manufacturing sector. A matched employer-employee data set is used to decompose the overall gender wage gap into the contributions of sex differences in human capital, labour market segregation, and residual within-job wage differentials. The topic of the second study is the relationship between the extended unemployment benefits and labour market transitions of older workers. The analysis exploits a quasi-experimental setting caused by a change in the law that raised the eligibility age of workers benefiting from extended benefits. Roughly half of the unemployed workers with extended benefits are estimated to be effectively withdrawn from labour market search. The risk of unemployment declined and the re-employment probability increased among the age groups directly affected by the reform. The third study provides an empirical analysis of a structural equilibrium search model. Estimation results from various model specifications are compared and discussed. The last study is a methodological study where the difficulties of interpreting the results of competing risks hazard models are discussed and a solution for a particular class of models is proposed. It is argued that a common practice of reporting the results of qualitative response models in terms of marginal effects is also useful in the context of competing risks duration models.",
+ "tittel": "Studies on Wage Differentials and Labour Market Transitions",
+ "type": "preprint"
+}

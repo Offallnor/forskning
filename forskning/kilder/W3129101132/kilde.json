@@ -1,0 +1,23 @@
+{
+ "apen_url": "https://findresearcher.sdu.dk/ws/files/180773082/Main_document_IPS_MA_220321.pdf",
+ "ar": 2021,
+ "doi": "https://doi.org/10.1080/08039488.2021.1877348",
+ "forfattere": [
+  "Lone Christina Hellström",
+  "Marie Kruse",
+  "Thomas Nordahl Christensen",
+  "Rasmus Trap Wolf",
+  "Lene Falgaard Eplov"
+ ],
+ "hentet": "2026-11-09",
+ "hentet_fra": "https://findresearcher.sdu.dk/ws/files/180773082/Main_document_IPS_MA_220321.pdf",
+ "hvordan": "pdf",
+ "id": "W3129101132",
+ "kilde": "Nordic Journal of Psychiatry",
+ "lenke": "https://openalex.org/W3129101132",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "OBJECTIVES: We aimed to investigate the cost-utility and cost-effectiveness of a modified Individual Placement and Support intervention for people with mood and anxiety disorders (IPS-MA). METHODS: Costs were assessed from a societal perspective. Health care costs were derived from registers and combined with data on use of IPS-MA services, municipal social care, and labour market services. EQ-5D was used to compute QALY. Missing data were imputed in a sensitivity analysis. We also computed the cost per gain in hours worked. Incremental cost-effectiveness ratios (ICER) were computed and bootstrapped to obtain confidence intervals for QALY and gain in hours worked. RESULTS: We found no difference in overall costs between groups. A significant saving was found in use of labour market services in the IPS-MA group. But the IPS-MA group had significantly lower wage earnings compared to the control group. The intervention group had a higher, though statistically in-significant, increase in QALYs than the control group. The ICER did not show statistically significant results, but there was a tendency, that IPS-MA could have a positive effect on health-related quality of life without any additional costs. However, participants in the IPS-MA group had a significantly lower gain in hours worked compared to the control group. CONCLUSIONS: Despite a significant saving in use of labour market services, IPS-MA was not cost-effective. Participants in the IPS-MA group worked significantly fewer hours and earned significantly less than participants in the control group at 1-year follow-up.",
+ "tittel": "Cost-effectiveness analysis of a supported employment intervention for people with mood and anxiety disorders in Denmark – the IPS-MA intervention",
+ "type": "article"
+}

@@ -1,0 +1,20 @@
+{
+ "apen_url": "http://hdl.handle.net/10419/21448",
+ "ar": 2002,
+ "doi": "https://doi.org/10.3929/ethz-a-004374965",
+ "forfattere": [
+  "Rafael Lalive",
+  "Josef Zweimüller"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "https://docs.iza.org/dp492.pdf",
+ "hvordan": "pdf",
+ "id": "W3122571372",
+ "kilde": "RePEc: Research Papers in Economics",
+ "lenke": "https://openalex.org/W3122571372",
+ "merknad": "ÅPEN VERSJON (preprint eller arbeidsnotat), merkes i svaret",
+ "oversikt": false,
+ "sammendrag": "\"The potential duration of benefits is generally viewed as an important determinant of unemployment duration. This paper evaluates a unique policy change that prolonged entitlement to regular unemployment benefits from 30 weeks to a maximum of 209 weeks for elderly individuals in certain regions of Austria. In the evaluation, we explicitly account for the fact that the program was an endogenous policy response to a crisis affecting individuals with severe labor market problems. The main results are: (i) REBP reduced the transition rate to jobs by 17 ; (ii) accounting for endogenous policy adoption is important and quantitatively significant.\"",
+ "tittel": "Benefit Entitlement and Unemployment Duration: The Role of Policy Endogeneity",
+ "type": "preprint"
+}

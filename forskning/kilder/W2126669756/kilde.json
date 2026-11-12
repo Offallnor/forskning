@@ -1,0 +1,19 @@
+{
+ "ar": 2012,
+ "doi": "https://doi.org/10.1136/jech-2011-200047",
+ "forfattere": [
+  "Karin A. A. De Ridder",
+  "Kristine Pape",
+  "Roar Johnsen",
+  "Steinar Westin",
+  "Turid Lingaas Holmen",
+  "Johan Hå‌kon Bjø‌rngaard"
+ ],
+ "id": "W2126669756",
+ "kilde": "Journal of Epidemiology & Community Health",
+ "lenke": "https://openalex.org/W2126669756",
+ "oversikt": false,
+ "sammendrag": "BACKGROUND: School and work participation in adolescence and young adulthood are important for future health and socioeconomic status. The authors studied the association between self-rated health in adolescents, high school dropout and long-term receipt of medical and non-medical social insurance benefits in young adulthood. METHODS: Self-rated health in adolescence was assessed in 8795 adolescents participating in the Norwegian Young-HUNT Study (1995-1997). Linkages to the National Education Database and the National Insurance Administration allowed identification of school dropout and receipt of long-term medical and non-medical benefits during a 10-year follow-up (1998-2007). The data were explored by descriptive statistics and by multinomial logistic regression. RESULTS: A total of 17% was registered as being high school dropouts at age 24. The predicted 5-year risk of receiving benefits between ages 24-28 was 21% (95% CI 20% to 23%). High school dropouts had a 5-year risk of receiving benefits of 44% (95% CI 41 to 48) compared with 16% (95% CI 15 to 17) in those who completed high school (adjusted for self-rated health, parental education and sex). There was a 27% school dropout rate in adolescents who reported poor health compared with 16% in those who reported good health. The predicted 5-year risk of receiving any long-term social insurance benefits in adolescents who reported poor health was 33% (95% CI 30 to 37) compared with 20% (95% CI 19 to 21) in those who reported good health. CONCLUSION: The strong association between poor self-rated health in adolescence, high school dropout and reduced work integration needs attention and suggests preventive measures on an individual as well as on a societal level.",
+ "tittel": "School dropout: a major public health challenge: a 10-year prospective study on medical and non-medical social insurance benefits in young adulthood, the Young-HUNT 1 Study (Norway)",
+ "type": "article"
+}

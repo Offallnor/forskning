@@ -1,0 +1,17 @@
+{
+ "apen_url": "https://www.persee.fr/doc/estat_0336-1454_2001_num_343_1_7457",
+ "ar": 2001,
+ "doi": "https://doi.org/10.3406/estat.2001.7457",
+ "forfattere": [
+  "Brigitte Dormont",
+  "Denis Fougère",
+  "Ana Prieto"
+ ],
+ "id": "W2080288345",
+ "kilde": "Economie et Statistique / Economics and Statistics",
+ "lenke": "https://openalex.org/W2080288345",
+ "oversikt": false,
+ "sammendrag": "Analysiert wird der Effekt des Zeitprofils der Arbeitslosenunterstützung auf die Quote der Arbeitslosen, die wieder eine Beschäftigung aufnehmen, wobei zwei sukzessive Regelungen miteinander verglichen werden. Die Regelung, die von 1986 bis 1992 vor Einführung der degressiven einheitlichen Unterstützung galt, zeichnet sich dadurch aus, dass das Entschädigungsniveau nur ein einziges Mal sinkt, während bei der 1992 eingeführten degressiven einheitlichen Unterstützung regelmäßige Absenkungen vorgesehen sind. Die Schätzungen anhand von Zeitmodellen zeigen, dass bei der bis 1992 geltenden Regelung die Quote der Arbeitslosen, die wieder eine Beschäftigung aufnahmen, mit Herannahen des Endes der Entschädigung zum vollen Satz stark zunimmt. Dies gilt vor allem für die Arbeitslosen, deren früherer Lohn ziemlich hoch war. Mit der Einführung der degressiven einheitlichen Unterstützung wurde das Zeitprofil der Quoten der Wiederaufnahme einer Beschäftigung abgeflacht. Die als sehr signifikant geschätzte Differenz zwischen den Wahrscheinlichkeiten, bei der alten und bei der neuen Regelung arbeitslos zu bleiben, ist nur zum Teil auf die Schwankung der Wirtschaftskonjunktur zurückzuführen. Es bleibt eine Differenz, die durch eine Änderung der Zeitprofile der Entschädigung erklärt werden kann. Mit anderen Worten: die Degression, wie sie zwischen 1992 und 1996 zur Anwendung kam, hätte demnach die Rückkehr zur Beschäftigung verlangsamt.",
+ "tittel": "L'effet de l'allocation unique dégressive sur la reprise d'emploi",
+ "type": "article"
+}

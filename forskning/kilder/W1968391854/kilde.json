@@ -1,0 +1,24 @@
+{
+ "apen_url": "https://www.sjweh.fi/download.php?abstract_id=880&file_nro=1",
+ "ar": 2005,
+ "doi": "https://doi.org/10.5271/sjweh.880",
+ "forfattere": [
+  "Hynek Hlobil",
+  "J. Bart Staal",
+  "Maaike Spoelstra",
+  "Geertje AM Ariëns",
+  "Tjabe Smid",
+  "Willem van Mechelen"
+ ],
+ "hentet": "2026-11-09",
+ "hentet_fra": "https://www.sjweh.fi/pdf-238186-145950?filename=Effectiveness-of-a-return.pdf",
+ "hvordan": "pdf",
+ "id": "W1968391854",
+ "kilde": "Scandinavian Journal of Work Environment & Health",
+ "lenke": "https://openalex.org/W1968391854",
+ "merknad": "",
+ "oversikt": true,
+ "sammendrag": "The effectiveness of return-to-work intervention for subacute low-back pain on work absenteeism, pain severity, and functional status was examined by means of a systematic review of randomized controlled trials. Publications in English that met the selection criteria were identified in a computer-aided search and assessed for methodological quality. A best-evidence synthesis was performed instead of statistical data pooling, because of the heterogeneity of the interventions and study populations. Five of nine studies comparing return-to-work intervention with usual care were identified as methodologically high-quality studies. Strong evidence was found for the effectiveness of return to work intervention on the return-to-work rate after 6 months and for the effectiveness of return-to-work intervention on the reduction of days of absence from work after > or = 12 months. It can be concluded that return-to-work interventions are equal or more effective regarding absence from work due to subacute low-back pain than usual care is.",
+ "tittel": "Effectiveness of a return-to-work intervention for subacute low-back pain",
+ "type": "article"
+}

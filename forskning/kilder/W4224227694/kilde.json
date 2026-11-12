@@ -1,0 +1,18 @@
+{
+ "apen_url": "https://www.sciencedirect.com/science/article/pii/S0167629622000352/pdf",
+ "ar": 2022,
+ "doi": "https://doi.org/10.1016/j.jhealeco.2022.102615",
+ "forfattere": [
+  "Matteo Alpino",
+  "Karen Evelyn Hauge",
+  "Andreas Kotsadam",
+  "Simen Markussen"
+ ],
+ "id": "W4224227694",
+ "kilde": "Journal of Health Economics",
+ "lenke": "https://openalex.org/W4224227694",
+ "oversikt": false,
+ "sammendrag": "Sickness absence entails large individual and societal costs. Dialogue Meetings (DMs) where the absentee, the employer, and the physician discuss arrangements for full or partial work resumption have been in place in Norway since 2007. In collaboration with the Labour and Welfare Administration, we conducted a large-scale, pre-registered, randomized field experiment to evaluate aspects of the Norwegian DMs policy. We do not find statistically significant effects of summoning to a meeting and we can reject even small threat (notification) effects of sending out letters. We also conduct an extensive search for heterogeneous treatment effects but find no evidence of these.",
+ "tittel": "Effects of dialogue meetings on sickness absence—Evidence from a large field experiment",
+ "type": "article"
+}

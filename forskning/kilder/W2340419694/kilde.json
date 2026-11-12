@@ -1,0 +1,14 @@
+{
+ "ar": 2004,
+ "forfattere": [
+  "Piet de Jong",
+  "Maarten Lindeboom"
+ ],
+ "id": "W2340419694",
+ "kilde": "Data Archiving and Networked Services (DANS)",
+ "lenke": "https://openalex.org/W2340419694",
+ "oversikt": false,
+ "sammendrag": "Summary Since 1996, the Dutch Civil Code mandates employers to continue to pay 70 per cent of earnings during sickness. This puts the employer in the role of the insurer of sick pay. By confronting firms with the full cost of sickness absenteeism, they get a strong incentive to reduce it. But since about 80 per cent of all firms (mostly small ones) reinsure their sick pay liability with a private insurance company, moral hazard may diminish this incentive. We use longitudinal firm-level data to assess the effect of the choice of insurance status and preventive and reintegrative measures on firm-level absence rates. Using a fixedeffect regression model, we show that the impact of a firm’s choice of insurance status on the sick rate is not significant. Hence, in this case, insurance does not lead to adverse, moral hazard, effects.",
+ "tittel": "Privatisation of Sickness Insurance: Evidence from the Netherlands",
+ "type": "article"
+}

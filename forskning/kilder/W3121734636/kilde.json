@@ -1,0 +1,21 @@
+{
+ "apen_url": "http://www.frbsf.org/economic-research/files/wp2015-03.pdf",
+ "ar": 2015,
+ "doi": "https://doi.org/10.24148/wp2015-03",
+ "forfattere": [
+  "Henry S. Farber",
+  "Jesse Rothstein",
+  "UC Berkeley"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "http://www.frbsf.org/economic-research/files/wp2015-03.pdf",
+ "hvordan": "pdf",
+ "id": "W3121734636",
+ "kilde": "Federal Reserve Bank of San Francisco, Working Paper Series",
+ "lenke": "https://openalex.org/W3121734636",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "Unemployment Insurance benefit durations were extended during the Great Recession, reaching 99 weeks for most recipients. The extensions were rolled back and eventually terminated by the end of 2013. Using matched CPS data from 2008-2014, we estimate the effect of extended benefits on unemployment exits separately during the earlier period of benefit expansion and the later period of rollback. In both periods, we find little or no effect on job-finding but a reduction in labor force exits due to benefit availability. We estimate that the rollbacks reduced the labor force participation rate by about 0.1 percentage point in early 2014.",
+ "tittel": "The effect of extended unemployment insurance benefits: evidence from the 2012-2013 phase-out",
+ "type": "article"
+}

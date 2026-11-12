@@ -1,0 +1,20 @@
+{
+ "apen_url": "https://www.mdpi.com/1660-4601/18/22/11823/pdf?version=1636696527",
+ "ar": 2021,
+ "doi": "https://doi.org/10.3390/ijerph182211823",
+ "forfattere": [
+  "Elżbieta Antczak",
+  "Katarzyna Miszczyńska"
+ ],
+ "hentet": "før 2026-11-08",
+ "hentet_fra": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8623318/fullTextXML",
+ "hvordan": "Europe PMC",
+ "id": "W3213478442",
+ "kilde": "International Journal of Environmental Research and Public Health",
+ "lenke": "https://openalex.org/W3213478442",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "This study aims to extract and explain the territorially varied relation between socioeconomic factors and absence rate from work due to own illness or disability in European countries in the years 2006-2020. For this purpose, several causes were identified, depending on men and women. To explain the absenteeism and emphasize gender as well as intercountry differences, geographically weighted regression was applied. For men, there were five main variables that influenced sickness absence: body mass index, the average rating of satisfaction by job situation, employment in the manufacturing sector, social benefits by sickness/health care, and performing health-enhancing physical activity. For women, there were five main variables that increased the absence rate: the risk of poverty or social exclusion, long-standing illness or health problems, employment in the manufacturing sector, social protection benefits, and deaths due to pneumonia. Based on the conducted research, it was proven that the sickness absence observed in the analyzed countries was highly gender and spatially diverged. Understanding the multifactorial factors playing an important role in the occurrence of regional and gender-divergent sickness absence may be a good predictor of subsequent morbidity and mortality as well as be very useful to better prevent this outcome.",
+ "tittel": "Causes of Sickness Absenteeism in Europe—Analysis from an Intercountry and Gender Perspective",
+ "type": "article"
+}

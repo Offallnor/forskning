@@ -1,0 +1,16 @@
+{
+ "apen_url": "https://journals.sagepub.com/doi/pdf/10.1177/1091142104269718?download=true",
+ "ar": 2005,
+ "doi": "https://doi.org/10.1177/1091142104269718",
+ "forfattere": [
+  "Burkhard Heer",
+  "Albrecht Morgenstern"
+ ],
+ "id": "W2042962434",
+ "kilde": "Public Finance Review",
+ "lenke": "https://openalex.org/W2042962434",
+ "oversikt": false,
+ "sammendrag": "In most Organization for Economic Cooperation and Development (OECD) countries, unemployment benefits are tied to previous labor earnings. The authors study the progressivity of this indexation with regard to its effects on employment, output, and wages in three non-Walrasian equilibrium models of the labor market. In the cases of decentralized union wage bargaining and search unemployment and Nash wage bargaining, employment, output, and wages increase with the degree of indexation. The indexation of unemployment benefits to previous earnings, however, has no effect in the case of efficiency wages. The results also suggest that a more progressive indexation of unemployment benefits is welfare enhancing if wages are bargained.",
+ "tittel": "The Labor Market Effects of Indexing Unemployment Benefits to Previous Earnings",
+ "type": "article"
+}

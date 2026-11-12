@@ -1,0 +1,17 @@
+{
+ "ar": 2019,
+ "forfattere": [
+  "Stefano Lombardi"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "https://www.ifau.se/globalassets/pdf/se/2019/wp-2019-22-threat-effects-of-monitoring-and-unemployment-insurance-sanctions-evidence-from-two-reforms.pdf",
+ "hvordan": "pdf",
+ "id": "W2978482230",
+ "kilde": "RePEc: Research Papers in Economics",
+ "lenke": "https://openalex.org/W2978482230",
+ "merknad": "ÅPEN VERSJON (preprint eller arbeidsnotat), merkes i svaret",
+ "oversikt": false,
+ "sammendrag": "This paper studies threat effects of unemployment insurance (UI) benefit sanctions on job exit rates. Using a difference-in-differences design, I exploit two reforms of the Swedish UI system that made monitoring and sanctions considerably stricter at different points in time for different jobseeker groups. The results show that men and long-term unemployed individuals respond to the tighter monitoring and the threat of sanctions by finding jobs faster, whereas women do not. I also estimate the effect of receiving a sanction on the job exit rates and find significant sanction imposition effects. However, a decomposition exercise shows that these sanction imposition effects explain very little of the overall reform effects, so that most of the reform effects arise through threat effects. A direct policy implication is that the total impact of monitoring and sanctions may be severely underestimated when focusing solely on the effects on those actually receiving sanctions.",
+ "tittel": "Threat Effects of Monitoring and Unemployment Insurance Sanctions: Evidence from Two Reforms",
+ "type": "preprint"
+}

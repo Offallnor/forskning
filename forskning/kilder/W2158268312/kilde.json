@@ -1,0 +1,26 @@
+{
+ "apen_url": "https://oem.bmj.com/content/oemed/65/4/242.full.pdf",
+ "ar": 2007,
+ "doi": "https://doi.org/10.1136/oem.2007.033167",
+ "forfattere": [
+  "SIMO P. TAIMELA",
+  "S Justén",
+  "Pasi Aronen",
+  "Harri Sintonen",
+  "Esa Läärä",
+  "Antti V. Malmivaara",
+  "Jaakko Tiekso",
+  "T Aro"
+ ],
+ "hentet": "2026-11-09",
+ "hentet_fra": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC2564864/fullTextXML",
+ "hvordan": "Europe PMC",
+ "id": "W2158268312",
+ "kilde": "Occupational and Environmental Medicine",
+ "lenke": "https://openalex.org/W2158268312",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "OBJECTIVES: To determine whether, from a healthcare perspective, a specific occupational health intervention is cost effective in reducing sickness absence when compared with usual care in occupational health in workers with high risk of sickness absence. METHODS: Economic evaluation alongside a randomised controlled trial. 418 workers with high risk of sickness absence from one corporation were randomised to intervention (n = 209) or to usual care (n = 209). The subjects in the intervention group were invited to occupational health service for a consultation. The intervention included, if appropriate, a referral to specialist treatment. Register data of sickness absence were available for 384 subjects and questionnaire data on healthcare costs from 272 subjects. Missing direct total cost data were imputed using a two-part regression model. Primary outcome measures were sickness absence days and direct healthcare costs up to 12 months after randomisation. Cost effectiveness (CE) was expressed as an incremental CE ratio, CE plane and CE acceptability curve with both available direct total cost data and missing total cost data imputed. RESULTS: After one year, the mean of sickness absence was 30 days in the usual care group (n = 192) and 11 days less (95% CI 1 to 20 days) in the intervention group (n = 192). Among the employees with available cost data, the mean days of sickness absence were 22 and 24, and the mean total cost euro974 and euro1049 in the intervention group (n = 134) and in the usual care group (n = 138), respectively. The intervention turned out to be dominant-both cost saving and more effective than usual occupational health care. The saving was euro43 per sickness absence day avoided with available direct total cost data, and euro17 with missing total cost data imputed. CONCLUSIONS: One year follow-up data show that occupational health intervention for workers with high risk of sickness absence is a cost effective use of healthcare resources.",
+ "tittel": "An occupational health intervention programme for workers at high risk for sickness absence. Cost effectiveness analysis based on a randomised controlled trial",
+ "type": "article"
+}

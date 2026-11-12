@@ -1,0 +1,14 @@
+{
+ "apen_url": "http://hdl.handle.net/10362/89279",
+ "ar": 2019,
+ "forfattere": [
+  "Marta C. Lopes"
+ ],
+ "id": "W2996192482",
+ "kilde": "Portuguese National Funding Agency for Science, Research and Technology (RCAAP Project by FCT)",
+ "lenke": "https://openalex.org/W2996192482",
+ "oversikt": true,
+ "sammendrag": "This thesis analyses the impact of job and unemployment protection on unemployment duration, wages, and fertility. The first chapter provides an extensive literature review on the impact of potential duration of unemployment benefi ts on unemployment duration, which is compared to a survival analysis that accounts for unobserved heterogeneity. The second chapter makes use of control function approach, with selection on treatment and outcome variables, to evaluate the impact of unemployment duration on re-employment wages. The third chapter uses both reduced-form and structural modelling approaches to evaluate the impact of job security on labour supply and fertility decisions.",
+ "tittel": "Essays on job and unemployment protection: the impacts on unemployment duration, wages, and fertility",
+ "type": "dissertation"
+}

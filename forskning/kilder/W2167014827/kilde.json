@@ -1,0 +1,20 @@
+{
+ "apen_url": "https://doi.org/10.3386/w7282",
+ "ar": 1999,
+ "doi": "https://doi.org/10.3386/w7282",
+ "forfattere": [
+  "Olivier Jean Blanchard",
+  "Justin J. Wolfers"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "http://www.nber.org/papers/w7282.pdf",
+ "hvordan": "pdf",
+ "id": "W2167014827",
+ "kilde": "National Bureau of Economic Research",
+ "lenke": "https://openalex.org/W2167014827",
+ "merknad": "ÅPEN VERSJON (preprint eller arbeidsnotat), merkes i svaret",
+ "oversikt": false,
+ "sammendrag": "Two key facts about European unemployment must be explained: the rise in unemployment since the 1960s, and the heterogeneity of individual country experiences.While adverse shocks can potentially explain much of the rise in unemployment, there is insufficient heterogeneity in these shocks to explain cross-country differences.Alternatively, while explanations focusing on labor market institutions explain cross-country differences explain current heterogeneity well, many of these institutions pre-date the rise in unemployment.Based on a panel of institutions and shocks for 20 OECD nations since 1960, we find that the interaction between shocks and institutions is crucial to explaining both stylized facts.We test two specifications, and each offers significant support for our interactions hypothesis.The first speculation assumes that there are common but unobservable shocks across countries, and that these shocks have a larger and more persistent effect in countries with poor labor market institutions.The second constructs series for the macro shocks, and again finds evidence that the same size shock has differential effects on unemployment when labor market institutions differ.We interpret this as suggesting that institutions determine the relevance of the unemployed to wage-setting, thereby determining the evolution of equilibrium unemployment rates following a shock.",
+ "tittel": "The Role of Shocks and Institutions in the Rise of European Unemployment: The Aggregate Evidence",
+ "type": "report"
+}

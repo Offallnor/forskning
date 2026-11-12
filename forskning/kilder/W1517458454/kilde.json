@@ -1,0 +1,16 @@
+{
+ "apen_url": "https://research.upjohn.org/cgi/viewcontent.cgi?article=1061&context=up_workingpapers",
+ "ar": 1996,
+ "doi": "https://doi.org/10.17848/wp96-44",
+ "forfattere": [
+  "Carl Davidson",
+  "Stephen A. Woodbury"
+ ],
+ "id": "W1517458454",
+ "kilde": "Upjohn Research (W.E. Upjohn Institute for Employment Research)",
+ "lenke": "https://openalex.org/W1517458454",
+ "oversikt": false,
+ "sammendrag": "We translate the results of the three reemployment bonus experiments that were conducted during the 1980s into (a) impacts of a 10-percentage point increase in the Unemployment Insurance (UI) replacement rate on the expected duration of unemployment; and (b) impacts of adding 1 week to the potential duration of UI benefits on the expected duration of unemployment. Our approach is to use an equilibrium search and matching model, calibrated using data from the bonus experiments and secondary sources. The results suggest that a 10-percentage point increase in the UI replacement rate increases the expected duration of unemployment by .3 to 1.1 week (a range consistent with, but only somewhat narrower than, the existing range of estimates), and that adding 1 week to the potential duration of UI benefits increases the expected duration of unemployment by .05 to .2 week (which is toward the low end of existing estimates).",
+ "tittel": "Unemployment Insurance and Unemployment: Implications of the Reemployment Bonus Experiments",
+ "type": "report"
+}

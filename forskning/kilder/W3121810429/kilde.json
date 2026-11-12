@@ -1,0 +1,15 @@
+{
+ "ar": 2002,
+ "doi": "https://doi.org/10.1111/1468-0297.00086",
+ "forfattere": [
+  "Knut Røed",
+  "Tao Zhang"
+ ],
+ "id": "W3121810429",
+ "kilde": "The Economic Journal",
+ "lenke": "https://openalex.org/W3121810429",
+ "oversikt": false,
+ "sammendrag": "We use a flexible hazard rate model with unrestricted spell duration and calendar time effects to analyse a dataset including all Norwegian unemployment spells during the 1990s. The dataset provides a unique access to conditionally independent variation in unemployment compensation. We find that a marginal increase in compensation reduces the escape rate from unemployment significantly, irrespective of business cycle conditions and spell duration. The escape rate rises sharply in the months just prior to benefit exhaustion. While men are more responsive than women with respect to marginal changes in compensation, women are most responsive with respect to benefit exhaustion.",
+ "tittel": "Does Unemployment Compensation Affect Unemployment Duration?",
+ "type": "article"
+}

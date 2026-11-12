@@ -1,0 +1,23 @@
+{
+ "apen_url": "https://bmcpublichealth.biomedcentral.com/counter/pdf/10.1186/s12889-017-4504-4",
+ "ar": 2017,
+ "doi": "https://doi.org/10.1186/s12889-017-4504-4",
+ "forfattere": [
+  "Magnus Helgesson",
+  "Petter Tinghög",
+  "Thomas Niederkrotenthaler",
+  "Fredrik Saboonchi",
+  "Ellenor Mittendorfer‐Rutz"
+ ],
+ "hentet": "2026-11-09",
+ "hentet_fra": "https://bmcpublichealth.biomedcentral.com/counter/pdf/10.1186/s12889-017-4504-4",
+ "hvordan": "pdf",
+ "id": "W2682847430",
+ "kilde": "BMC Public Health",
+ "lenke": "https://openalex.org/W2682847430",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "BACKGROUND: The aim was to investigate the associations between mental disorders and three different measures of labour-market marginalisation, and differences between native Swedes and immigrants. METHODS: The study comprised 1,753,544 individuals, aged 20-35 years, and resident in Sweden 2004. They were followed 2005-2011 with regard to disability pension, sickness absence (≥90 days) and unemployment (≥180 days). Immigrants were born in Western countries (Nordic countries, EU, Europe outside EU or North-America/Oceania), or in non-Western countries (Africa, Asia or South-America). Mental disorders were grouped into seven subgroups based on a record of in- or specialised outpatient health care 2001-2004. Hazard ratios (HRs) with 95% confidence intervals (CIs) were computed by Cox regression models with both fixed and time-dependent covariates and competing risks. We also performed stratified analyses with regard to labour-market attachment. RESULTS: Individuals with mental disorders had a seven times higher risk of disability pension, a two times higher risk of sickness absence, and a 20% higher risk of unemployment than individuals without mental disorders. Individuals with personality disorders and schizophrenia/non-affective psychoses had highest risk estimates for having disability pension and long-term sickness absence, while the risk estimates of long-term unemployment were similar among all subgroups of mental disorders. Among persons with mental disorders, native Swedes had higher risk estimates for disability pension (HR:6.6; 95%CI:6.4-6.8) than Western immigrants (4.8; 4.4-5.2) and non-Western immigrants (4.8; 4.4-5.1), slightly higher risk estimates for sickness absence (2.1;2.1-2.2) than Western (1.9;1.8-2.1), and non-Western (1.9;1.7-2.0) immigrants but lower risk estimates for unemployment (1.4;1.3-1.4) than Western (1.8;1.7-1.9) and non-Western immigrants (2.0;1.9-2.1). There were similar risk estimates among sub-regions within both Western and non-Western countries. Stratification by labour-market attachment showed that the risk estimates for immigrants were lower the more distant individuals were from gainful employment. CONCLUSIONS: Mental disorders were associated with all three measures of labour-market marginalisation, strongest with subsequent disability pension. Native Swedes had higher risk estimates for both disability pension and sickness absence, but lower risk estimates for unemployment than immigrants. Previous labour-market attachment explained a great part of the association between immigrant status and subsequent labour-market marginalisation.",
+ "tittel": "Labour-market marginalisation after mental disorders among young natives and immigrants living in Sweden",
+ "type": "article"
+}

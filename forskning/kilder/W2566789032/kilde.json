@@ -1,0 +1,20 @@
+{
+ "apen_url": "https://academic.oup.com/occmed/article-pdf/66/9/691/8543263/kqw169.pdf",
+ "ar": 2016,
+ "doi": "https://doi.org/10.1093/occmed/kqw169",
+ "forfattere": [
+  "Tove I. Midtsundstad",
+  "Roy A. Nielsen"
+ ],
+ "hentet": "2026-11-09",
+ "hentet_fra": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC5165265/fullTextXML",
+ "hvordan": "Europe PMC",
+ "id": "W2566789032",
+ "kilde": "Occupational Medicine",
+ "lenke": "https://openalex.org/W2566789032",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "BACKGROUND: Increasing life expectancy and decreasing fertility have led to a shift in the workforce age structure towards older age groups. Deteriorating health and reduced work capacity are among the challenges to retaining older workers in the labour force. AIMS: To examine whether workplace interventions to facilitate work among employees with health problems or reduced work capacity affect disability rates among employees aged 50 years and older. METHODS: Data from a survey of Norwegian companies (n = 713) were linked with registry data on their employees aged 50-61 years (n = 30771). By means of a difference-in-differences approach, we compared change in likelihood of receiving a full disability pension among employees in companies with and without workplace interventions. RESULTS: Employees in companies reporting to have workplace interventions in 2005 had a higher risk of receiving full disability pension during the period 2001-03 compared with employees in companies without such interventions [odds ratio (OR) 1.25, 95% confidence interval (CI) 1.07-1.45]. During the period 2005-07, there was an overall reduction in disability rates (OR 0.83, 95% CI 0.71-0.96) in both the intervention and control group. However, employees in companies reporting to have interventions in 2005 experienced an additional reduction in an employee's likelihood of receiving a full disability pension (OR 0.80, 95% CI 0.64-0.99) compared with employees in companies without interventions. CONCLUSIONS: Interventions to facilitate work among employees with health problems or reduced work capacity have reduced disability rates among employees aged 50-61. This suggests that companies' preventive interventions are an effective means to retain older workers with deteriorating health.",
+ "tittel": "Do workplace interventions reduce disability rates?",
+ "type": "article"
+}

@@ -1,0 +1,15 @@
+{
+ "apen_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1557895",
+ "ar": 2010,
+ "forfattere": [
+  "Chris Riddell",
+  "Peter Kuhn"
+ ],
+ "id": "W3124238623",
+ "kilde": "SSRN Electronic Journal",
+ "lenke": "https://openalex.org/W3124238623",
+ "oversikt": false,
+ "sammendrag": "Using data spanning half a century for adjacent jurisdictions in the United States and Canada, the authors study the long-term effects of a generous unemployment insurance (UI) program on the distribution of weeks worked. They find substantial effects. For example, in 1990, about 12.6% of working-age men in Maine’s northernmost counties worked between 1 and 39 weeks; just across the border in New Brunswick, the figure was 25.6%. According to the estimates, New Brunswick’s much more generous UI system accounts for over three-fourths of this differential. In part because part-year workers are drawn from both ends of the distribution of annual weeks worked (0 weeks and 40-52 weeks), the generosity of New Brunswick’s program had only modest estimated effects on total labor supply, even as it substantially increased UI program participation and expenditures.",
+ "tittel": "The Long-Term Effects of Unemployment Insurance: Evidence from New Brunswick and Maine, 1940-1991",
+ "type": "preprint"
+}

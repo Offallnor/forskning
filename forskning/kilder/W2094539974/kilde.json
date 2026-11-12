@@ -1,0 +1,14 @@
+{
+ "ar": 2003,
+ "doi": "https://doi.org/10.2307/1558784",
+ "forfattere": [
+  "Laura Larsson"
+ ],
+ "id": "W2094539974",
+ "kilde": "The Journal of Human Resources",
+ "lenke": "https://openalex.org/W2094539974",
+ "oversikt": false,
+ "sammendrag": "A nonparametric matching approach is applied to estimate the average effects of two active labor market programs for youth in Sweden: youth practice and labor market training. The results of the evaluation indicate either zero or negative effects of both programs on earnings, employment probability, and the probability of entering education in the short run, whereas the long-run effects are mainly zero or slightly positive. The results also suggest that youth practice was more effective—or ‘‘less harmful’’— than labor market training. However, there is considerable heterogeneity in the estimated treatment effects among individuals.",
+ "tittel": "Evaluation of Swedish Youth Labor Market Programs",
+ "type": "article"
+}

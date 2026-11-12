@@ -1,0 +1,14 @@
+{
+ "ar": 1993,
+ "doi": "https://doi.org/10.1177/001979399304700106",
+ "forfattere": [
+  "Phillip B. Levine"
+ ],
+ "id": "W2021337948",
+ "kilde": "Industrial and Labor Relations Review",
+ "lenke": "https://openalex.org/W2021337948",
+ "oversikt": false,
+ "sammendrag": "This paper examines the effect of changing the level of unemployment insurance (UI) benefits on workers who do not receive UI. The author hypothesizes a spillover effect between insured and uninsured workers whereby an increase in UI benefits, which leads to longer durations of unemployment for insured workers, results in a reduction in the duration of unemployment for the uninsured. This prediction is supported in tests of data from several March Current Population Surveys, the National Longitudinal Survey of Youth, and aggregate, state-level data.",
+ "tittel": "Spillover Effects between the Insured and Uninsured Unemployed",
+ "type": "article"
+}

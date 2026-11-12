@@ -1,0 +1,16 @@
+{
+ "apen_url": "https://research.upjohn.org/cgi/viewcontent.cgi?article=1183&context=up_press",
+ "ar": 2001,
+ "doi": "https://doi.org/10.17848/9780880994217",
+ "forfattere": [
+  "Philip K. Robins",
+  "Robert G. Spiegelman"
+ ],
+ "id": "W2087452068",
+ "kilde": "Upjohn Research (W.E. Upjohn Institute for Employment Research)",
+ "lenke": "https://openalex.org/W2087452068",
+ "oversikt": false,
+ "sammendrag": "In this volume a select group of UI researchers describes the motivation for and the design, implementation, and impacts of UI bonus experiments administered in Illinois, Pennsylvania, and Washington. They also describe the benefits and costs of the various experimental treatments for the government as a whole, the UI system in particular, claimants' earnings, and the overall net benefits to society.",
+ "tittel": "Reemployment Bonuses in the Unemployment Insurance System: Evidence from Three Field Experiments",
+ "type": "book"
+}

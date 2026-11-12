@@ -1,0 +1,21 @@
+{
+ "apen_url": "https://doi.org/10.1177/00016993261497188",
+ "ar": 2026,
+ "doi": "https://doi.org/10.1177/00016993261497188",
+ "forfattere": [
+  "Therese Saltkjel",
+  "Espen S. Dahl",
+  "Åsmund Hermansen"
+ ],
+ "hentet": "2026-11-09",
+ "hentet_fra": "https://nva.sikt.no/registration/01a15d53f5a1-da4b1616-830d-4657-891f-9534bec4370e",
+ "hvordan": "vitenarkivet",
+ "id": "W7221976692",
+ "kilde": "Acta Sociologica",
+ "lenke": "https://openalex.org/W7221976692",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "The aim of this paper is to examine how social class and welfare status, separately and jointly, are related to cumulation of disadvantages among young Norwegian adults aged 25–30 years. This is an important issue given the numerous challenges young people face in the transition from youth to adulthood, also in a comprehensive and generous welfare state like Norway. We use national register data encompassing all young adults ( N = 428,391) in 2017, and identify six disadvantages: weak labour market attachment, income poverty, payment difficulties, debt issues, mental health issues and somatic disease. Methods applied include cross-tabulations, correlation analysis and multiple ordinary least squares (OLS). Sensitivity analyses are conducted to check the robustness of the results. The results show that a large majority (63%) do not have any disadvantages. Ten per cent have two or more. The measured disadvantages are significantly interrelated. Yet, overall, the statistical associations are not strong. The OLS analyses indicate that social class has a strong effect on the number of disadvantages, an effect that is mostly indirect and mediated via welfare status and sociodemographics. To a substantial degree, welfare status, independent of social class and various sociodemographic variables, accounts for the number of disadvantages, but the strength of the association depends on benefit status. Recipients of work assessment allowance, that is, people with reduced work capacity due to illness or injury, and recipients of disability benefit and social assistance stand out as particularly exposed groups.",
+ "tittel": "Cumulation of disadvantages among young Norwegians – the significance of social class and welfare status",
+ "type": "article"
+}

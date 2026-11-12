@@ -1,0 +1,21 @@
+{
+ "apen_url": "http://hdl.handle.net/1814/53884",
+ "ar": 2014,
+ "doi": "https://doi.org/10.1111/ecoj.12135",
+ "forfattere": [
+  "Christoph Basten",
+  "Andreas Fagereng",
+  "Kjetil Elias Telle"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "https://nva.sikt.no/registration/0198cc7c69c2-6e4a70fa-6882-431a-981d-b9fd2261341f",
+ "hvordan": "vitenarkivet",
+ "id": "W3123479702",
+ "kilde": "The Economic Journal",
+ "lenke": "https://openalex.org/W3123479702",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "We identify the causal effect of lump-sum severance payments on non-employment duration in Norway by exploiting a discontinuity in eligibility at the age of 50. We find that a payment worth 1.2 months' earnings at the median lowers the fraction re-employed after a year by about 8 percentage points. This is what we would expect if liquidity constraints force unemployed workers to accept a job offer earlier than would be optimal. As further support for the liquidity interpretation, we use data on wealth before unemployment to show that the effect of non-employment duration occurs for the non-wealthy only.",
+ "tittel": "Cash-on-hand and the Duration of Job Search: Quasi-experimental Evidence from Norway",
+ "type": "article"
+}

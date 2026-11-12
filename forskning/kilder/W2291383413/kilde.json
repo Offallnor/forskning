@@ -1,0 +1,15 @@
+{
+ "apen_url": "http://hdl.handle.net/2381/44224",
+ "ar": 2019,
+ "doi": "https://doi.org/10.1002/jae.2731",
+ "forfattere": [
+  "Arkadiusz Szydłowski"
+ ],
+ "id": "W2291383413",
+ "kilde": "Journal of Applied Econometrics",
+ "lenke": "https://openalex.org/W2291383413",
+ "oversikt": false,
+ "sammendrag": "Summary We examine the sensitivity of estimates of the MPH model with respect to assumptions on the censoring mechanism in the context of an economic model of optimal unemployment insurance. We assume a parametric model for the duration of interest and leave the distribution of censoring unrestricted, allowing it to be correlated with observed and unobserved characteristics. We provide a practical characterization of the identified set with moment inequalities and suggest methods for estimating this set. We apply this approach to estimate the elasticity of unemployment exit rate with respect to unemployment benefit. Finally, we investigate welfare consequences of our estimates.",
+ "tittel": "Endogenous censoring in the mixed proportional hazard model with an application to optimal unemployment insurance",
+ "type": "article"
+}

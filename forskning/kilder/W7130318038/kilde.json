@@ -1,0 +1,26 @@
+{
+ "apen_url": "https://researchonline.lse.ac.uk/id/eprint/130236/1/IPS_econ_model_all_blinded_psyc_services_revised_clean_dmd.pdf",
+ "ar": 2026,
+ "doi": "https://doi.org/10.1176/appi.ps.20250017",
+ "forfattere": [
+  "A L Park",
+  "David McDaid",
+  "Miles Rinaldi",
+  "Beate Brinchmann",
+  "Sina Wittlund",
+  "Thomas Lorentzen",
+  "Nils Abel Aars",
+  "Cathrine Fredriksen Moe"
+ ],
+ "hentet": "2026-11-09",
+ "hentet_fra": "https://researchonline.lse.ac.uk/id/eprint/130236/1/IPS_econ_model_all_blinded_psyc_services_revised_clean_dmd.pdf",
+ "hvordan": "pdf",
+ "id": "W7130318038",
+ "kilde": "Psychiatric Services",
+ "lenke": "https://openalex.org/W7130318038",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "OBJECTIVE: The authors aimed to assess return on investment (ROI) in the implementation of individual placement and support (IPS) for employment in Norway. METHODS: A four-state, 4-year Markov model was constructed to explore the costs and benefits of IPS implementation for 561 new recipients (ages 18-40) of a time-limited, health-related rehabilitation welfare benefit. Data were from multiple sources, including a difference-in-differences analysis of longitudinal registry data, detailed IPS resource use and cost data, and the literature. The primary outcome was ROI, from societal and public-purse perspectives, compared with outcomes in areas in Norway without IPS. RESULTS: Net economic benefits of 2025 international dollars (Int$) 2.6 million and Int$240,000, equivalent to ROIs of 4.76 and 1.34, were generated from societal and public-purse perspectives, respectively. Of the target population, 9% received IPS per year, at a cost of Int$700,000, equal to 67.8 additional full-time equivalent (FTE) years of work if employment gains were sustained over 4 years. For each additional FTE year of work, 33.1 work assessment allowance (WAA) recipients would need to receive IPS. The most sensitive model parameter, WAA benefit, would have to be reduced by 24% for IPS not to have a positive ROI. CONCLUSIONS: Even under conservative assumptions, the addition of IPS to supported employment approaches is likely to have a positive ROI from societal and public-purse perspectives in just over 1 and 3 years, respectively, even before broader benefits, such as impacts on health services utilization and reduction in the use of alternative supported employment services, are considered.",
+ "tittel": "Estimating Return on Investment From Implementation of Individual Placement and Support",
+ "type": "article"
+}

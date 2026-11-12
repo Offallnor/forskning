@@ -1,0 +1,3 @@
+utfall	gruppe	design	land	sammenligning	mal	estimat	ki_lav	ki_hoy	n	side	sitat	sporsmal	kontrollert
+tid til neste jobb, elastisitet med hensyn til dagpengenivået, ledige med høy inntekt (øvre knekkpunkt)		kvasi	Østerrike	dagpengenivå, regression kink	elastisitet	2				35	the elasticity of the time to next job with respect to UI benefits is around 2.	dagpenger-varighet-niva	2026-11-10
+tid uten arbeid, elastisitet med hensyn til dagpengenivået, nedre (1.4) og øvre (2.0) knekkpunkt, uten skjevhetskorreksjon		kvasi	Østerrike	dagpengenivå, regression kink	elastisitet	1.4				32	Without bias correction, the local linear models yield estimated elasticities of 1.4 and 2.0 for the bottom kink and top kink samples, respectively.	dagpenger-varighet-niva	2026-11-10

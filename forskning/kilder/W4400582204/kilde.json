@@ -1,0 +1,21 @@
+{
+ "apen_url": "https://doi.org/10.4103/jehp.jehp_722_23",
+ "ar": 2024,
+ "doi": "https://doi.org/10.4103/jehp.jehp_722_23",
+ "forfattere": [
+  "Razieh Sepehrian",
+  "Asgar Aghaei Hashjin",
+  "Hojat Farahmandnia"
+ ],
+ "hentet": "2026-11-09",
+ "hentet_fra": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11410163/fullTextXML",
+ "hvordan": "Europe PMC",
+ "id": "W4400582204",
+ "kilde": "Journal of Education and Health Promotion",
+ "lenke": "https://openalex.org/W4400582204",
+ "merknad": "",
+ "oversikt": true,
+ "sammendrag": "Negative consequences of musculoskeletal pain and injuries on the nurses' health and well-being can increase job dissatisfaction and impose high costs on healthcare centers due to lost workdays and compensation claims. This study aimed to identify policies, programs, and interventions that might be effective in the prevention and reduction of sickness absence and improvement of work outcomes in nursing staff with these problems. The systematic review was conducted according to the preferred reporting items for systematic reviews and meta-analyses (PRISMA) guidelines. Electronic databases were searched up to November 9-23, 2022. The keywords \"musculoskeletal disorders\", \"nurse\", \"return to work\", \"sickness absence\", and \"sick leave\" and their equivalents were combined using Boolean operators OR/AND. Reference lists of eligible literatures were also screened to identify related studies. In this study, a total of 3365 records were retrieved. After two rounds of screening, 15 studies were selected for qualitative synthesis. These studies included seven randomized controlled trial, five pre-post studies, two cohort, and one cross-sectional. Six types of interventions identified including back college, early workplace-based intervention, physical activity/training, psychosocial education, multifaceted intervention, and ergonomics program. There is insufficient evidence to identify effective interventions in preventing and reducing sickness absence, and improvement of work outcomes in nursing personnel with work-related musculoskeletal disorders. Numerous factors affected the occurrence of such disorders, and their consequences, therefore comprehensive strategy tailored to the injured person's needs should be considered.",
+ "tittel": "A systematic review of programs and interventions for reduction of sickness absence in nursing staff with work-related musculoskeletal disorders",
+ "type": "review"
+}

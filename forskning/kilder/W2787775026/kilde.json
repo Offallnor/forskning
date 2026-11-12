@@ -1,0 +1,14 @@
+{
+ "ar": 2017,
+ "forfattere": [
+  "Alexandre Cazenave‐Lacroutz",
+  "Alexandre Godzinski"
+ ],
+ "id": "W2787775026",
+ "kilde": "RePEc: Research Papers in Economics",
+ "lenke": "https://openalex.org/W2787775026",
+ "oversikt": false,
+ "sammendrag": "Modulation of sick leave reimbursement scheme has often been used in attempt to reduce health-related absenteeism. We study the effects of the presence of a one-day waiting period for sick leave. This less generous policy was introduced in the French central civil service in January 2012 and repealed in January 2014, whereas the private sector was not affected. We employ a difference-in-differences strategy with individual fixed effects, using the French Labour Force Survey. We find that the total prevalence of health-related absences is not affected by the policy. However, its duration distribution is. The prevalence of short-term absences decreases, while the prevalence of long-term absences increases. Decrease in short-term absences is higher for women, young employees and those working few days per week. Effects are also heterogeneous across seasons: the effects on both short- and long-term absences are significant in winter and summer, but neither in spring nor in autumn.",
+ "tittel": "Effects of the one-day waiting period for sick leave on health-related absences in the French central civil service",
+ "type": "preprint"
+}

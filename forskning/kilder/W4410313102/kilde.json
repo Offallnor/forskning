@@ -1,0 +1,20 @@
+{
+ "apen_url": "https://bmcpublichealth.biomedcentral.com/counter/pdf/10.1186/s12889-025-22431-x",
+ "ar": 2025,
+ "doi": "https://doi.org/10.1186/s12889-025-22431-x",
+ "forfattere": [
+  "Riku Perhoniemi",
+  "Jenni Blomgren"
+ ],
+ "hentet": "før 2026-11-08",
+ "hentet_fra": "https://bmcpublichealth.biomedcentral.com/counter/pdf/10.1186/s12889-025-22431-x",
+ "hvordan": "pdf",
+ "id": "W4410313102",
+ "kilde": "BMC Public Health",
+ "lenke": "https://openalex.org/W4410313102",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "BACKGROUND: Long-term sickness absences (LTSA) are often linked to mental disorders. Up-to-date register-based evidence on the prevalence and trends of LTSA based on mental disorders is lacking, as is understanding of socioeconomic differences. This study examines the trends in prevalence of LTSA based on mental disorders in various socioeconomic groups both employed and outside employment. METHODS: Finnish 18-67 years old non-retired residents were included in yearly study populations for 2010-2023. LTSA prevalence was examined through receipt of compensated sickness allowance. Yearly age-adjusted prevalences of LTSA were calculated for six socioeconomic groups using direct standardization. Adjusting for various covariates, relative risks (RR) between socioeconomic groups in LTSA prevalences were then analysed for 2010 and 2023 using Modified Poisson regression models. All analyses were run separately for both sexes, and for all mental disorders combined, for mood disorders, anxiety disorders, and other mental disorders combined. RESULTS: The prevalence of LTSA based on mental disorders increased from 2010 to 2023 among all socioeconomic groups and for both sexes, but especially among lower non-manual female employees due to anxiety disorders, and among students and unemployed persons due to mood disorders. Compared to upper non-manual employees, the higher covariate-adjusted relative risks for LTSA based on mental disorders in lower non-manual employees increased slightly during the study period (women: RRs 1,13 to 1,25; men: RRs 1,20 to 1,30). While age-group-standardized trends showed an approximately similar risk for manual workers compared to upper non-manual employees, covariate-adjusted modelling revealed a slightly lower relative risk, most apparent for anxiety disorders (RR in 2023 0,79). Entrepreneurs had a consistently lower relative risk compared to other groups. CONCLUSIONS: The prevalence of long-term sickness absences due to mood and anxiety disorders have increased among all socioeconomic groups, but register data also reveals group differences in prevalences and trends. Factors related to covid-19 pandemic, intensity of job demands, and buffering resources may explain these differing trends. Employees, but also students and unemployed persons need support to curb the increase in LTSA due to mental disorders.",
+ "tittel": "Long-term sickness absences based on mental disorders by socioeconomic group – trends of prevalence in Finland 2010–2023",
+ "type": "article"
+}

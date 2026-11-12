@@ -1,0 +1,16 @@
+{
+ "apen_url": "https://www.cairn.info/load_pdf.php?ID_ARTICLE=REDP_276_1109&download=1",
+ "ar": 2018,
+ "doi": "https://doi.org/10.3917/e.redp.276.1109",
+ "forfattere": [
+  "Sabine Chaupain-Guillot",
+  "Olivier Guillot"
+ ],
+ "id": "W2785834892",
+ "kilde": "Revue d économie politique",
+ "lenke": "https://openalex.org/W2785834892",
+ "oversikt": false,
+ "sammendrag": "A partir des données de l’ European Working Conditions Survey de 2010, cette étude s’intéresse aux déterminants des absences au travail pour raisons de santé dans les pays européens. L’accent est mis sur l’impact des règles d’indemnisation des arrêts maladie. Cinq paramètres du système d’indemnisation sont pris en compte : l’obligation ou non de fournir un certificat médical dès le premier jour d’absence, la durée minimale d’affiliation au régime d’assurance sociale, l’existence ou non d’un délai de carence, le niveau d’indemnisation et la durée maximale de versement des indemnités maladie. Les comportements d’absence des salariés sont analysés à l’aide de régres sions logistiques multiniveaux. Les résultats montrent que les écarts entre pays dans la probabilité d’absence au travail peuvent en partie s’expliquer par les différences de législation en matière d’indemnisation des arrêts maladie. Le fait que le salaire soit intégralement maintenu par l’employeur en cas de maladie est l’élément le plus déterminant. Comme attendu, dans les pays où cette règle s’applique, la propension à s’absenter est significativement plus élevée.",
+ "tittel": "Sickness Benefit Rules and Work Absence: An Empirical Study Based on European Data",
+ "type": "article"
+}

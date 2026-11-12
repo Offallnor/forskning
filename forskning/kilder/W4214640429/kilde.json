@@ -1,0 +1,24 @@
+{
+ "apen_url": "https://bmcpublichealth.biomedcentral.com/track/pdf/10.1186/s12889-022-12800-1",
+ "ar": 2022,
+ "doi": "https://doi.org/10.1186/s12889-022-12800-1",
+ "forfattere": [
+  "Silje Mæland",
+  "Tor Helge Holmås",
+  "Irene Øyeflaten",
+  "Elisabeth Bakke Husabø",
+  "Erik Lønnmark Werner",
+  "Karin Monstad"
+ ],
+ "hentet": "2026-11-09",
+ "hentet_fra": "https://bmcpublichealth.biomedcentral.com/track/pdf/10.1186/s12889-022-12800-1",
+ "hvordan": "pdf",
+ "id": "W4214640429",
+ "kilde": "BMC Public Health",
+ "lenke": "https://openalex.org/W4214640429",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "BACKGROUND: Independent medical evaluations are used to evaluate degree and reason for work disability, uncertainty around the functional status, and/or the employee's rehabilitation potential in several jurisdictions, but not in Norway. The main aim of this trial was to test the return to work effect of independent medical evaluation (IME) (summoning and consultation) compared to treatment as usual (TAU) in Norway, for workers who have been on continuous sick leave for 6 months. METHODS: This was a pragmatic randomised controlled trial including all employees aged 18-65 years, sick-listed by their general practitioner and on full or partial sick leave for the past 26 weeks in Hordaland County, Norway in 2015/16. Trial candidates were drawn from a central register at the Norwegian Labour and Welfare Administration at 22 weeks of sick leave. Pregnant women, individuals with cancer or dementia diagnoses, those with secret address, employed by NAV or sick listed by the specialist health services were excluded. Separate regression analyses were conducted to investigate the \"intention-to-treat\" and \"treatment on the treated\" effects, using the ordinary least squares and instrumental variable methods, respectively. RESULTS: After exemption based on predefined exclusion criteria, 5888 individuals were randomised to either IME (n = 2616) or TAU (n = 2599). The final intervention group constitutes 1698 individuals, of which 937 attended the IME consultation. No baseline differences were found between the IME and TAU group regarding gender, age, and previous sick leave. Individuals attending the IME were older than those who cancelled the appointment ((47/45), p = 0.006) and those who did not show up without cancelling ((47/42), p < 0.001). Mainly the IME physician agreed with the regular GP upon level of sick leave. In cases with different assessments, the difference tended to be towards a lower sick leave level. There were no intention to treat or treatment on the treated effect on days of sick leave after randomisation during follow up. CONCLUSIONS: Overall, the analyses showed no effect of IME on changes in sick leave for sick listed employees. This result was consistent for those who were offered an IME consultation (intention to treat) and those who undertook an IME consultation (treatment on the treated). TRIAL REGISTRATION: ClinicalTirals.gov trial number NCT02524392 first registration 14.08.2015.",
+ "tittel": "What is the effect of independent medical evaluation on days on sickness benefits for long-term sick listed employees in Norway? A pragmatic randomised controlled trial, the NIME-trial",
+ "type": "article"
+}

@@ -1,0 +1,22 @@
+{
+ "apen_url": "https://bmcpublichealth.biomedcentral.com/counter/pdf/10.1186/s12889-021-10538-w",
+ "ar": 2021,
+ "doi": "https://doi.org/10.1186/s12889-021-10538-w",
+ "forfattere": [
+  "Anurajee Rasalingam",
+  "Idunn Brekke",
+  "Espen S. Dahl",
+  "Sølvi Helseth"
+ ],
+ "hentet": "2026-11-09",
+ "hentet_fra": "https://bmcpublichealth.biomedcentral.com/counter/pdf/10.1186/s12889-021-10538-w",
+ "hvordan": "pdf",
+ "id": "W3138453033",
+ "kilde": "BMC Public Health",
+ "lenke": "https://openalex.org/W3138453033",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "BACKGROUND: Young adulthood is an important transitional life phase that can determine a person's educational and employment trajectories. The aim of this study was to examine the impact of somatic long-term health challenges in adolescence on upper secondary school completion, not in education, employment or training (NEET status) and receiving disability pension in early adulthood. Additional disparities in educational and employment achievements were also investigated in relation to socioeconomic background. METHODS: The sample consisted of all young adults born in the period 1990 to 1996, (N = 421,110). Data were obtained from the Norwegian Patient Registry which is linked to the Central Population Register, education and income registries and the Historical Event Database in Statistics Norway. These data sources provide longitudinal population data. Statistical analyses were performed using multiple logistic regression and computed average marginal effects after the multiple logistic regression. RESULTS: The results showed that, compared to young adults without long-term health challenges, young adults with the diagnoses inflammatory bowel disease, epilepsy, diabetes, sensory impairment, spinal muscular atrophy (SMA), spina bifida (SB) and cerebral palsy (CP) had lower odds of completing upper secondary education. Moreover, young adults with long-term health challenges had higher odds of NEET status by age 21 compared to those without a long-term health challenge. As for the odds of NEET status by age 21, the results showed that young adults with epilepsy, SMA, SB and CP in particular had the highest odds of receiving disability pension compared to young adults without long-term health challenges. CONCLUSIONS: This longitudinal study revealed that on average young adults with long-term health challenges, compared to those without, struggle to participate in education and employment. The findings highlight the need for preventive measures especially in relation to young adults with neurological conditions such as epilepsy, SMA, SB, and CP.",
+ "tittel": "Impact of growing up with somatic long-term health challenges on school completion, NEET status and disability pension: a population-based longitudinal study",
+ "type": "article"
+}

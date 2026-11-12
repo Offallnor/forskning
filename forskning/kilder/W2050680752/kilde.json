@@ -1,0 +1,14 @@
+{
+ "ar": 2001,
+ "doi": "https://doi.org/10.1093/cje/25.2.131",
+ "forfattere": [
+  "Rune Åberg"
+ ],
+ "id": "W2050680752",
+ "kilde": "Cambridge Journal of Economics",
+ "lenke": "https://openalex.org/W2050680752",
+ "oversikt": false,
+ "sammendrag": "Unemployment persistency and high equilibrium unemployment is often assumed to be caused by rigidities and low search efficiency in the labour market, especially in European welfare states with generous income replacement schemes. These arguments are tested on data from Sweden, an old welfare state with a long period of full employment that has changed into a situation with high unemployment. Data show a clear and very strong unemployment duration dependency, but it is not possible to prove that this is a result of low employability among the long-term unemployed. Getting a job is most of all associated with relative qualifications, recall expectations and local labour market conditions, and not with search behaviour or high wage demands. It is argued that unemployment duration when unemployment is high can best be understood as a selection process rather than a search process, and that econometric estimations of equilibrium unemployment are too pessimistic about the potential for an expansive economic policy. It is also argued that an active labour market policy is a more efficient compliment to such a policy than changes in income replacement ratios.",
+ "tittel": "Equilibrium unemployment, search behaviour and unemployment persistency",
+ "type": "article"
+}

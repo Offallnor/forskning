@@ -1,0 +1,17 @@
+{
+ "ar": 2002,
+ "forfattere": [
+  "Govert Ewout Bijwaard"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "https://econwpa.ub.uni-muenchen.de/econ-wp/em/papers/0204/0204001.pdf",
+ "hvordan": "pdf",
+ "id": "W1541516010",
+ "kilde": "RePEc: Research Papers in Economics",
+ "lenke": "https://openalex.org/W1541516010",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "In this article we focus on time-to-event studies with a randomised treatment assignment that may be compromised by selective compliance.",
+ "tittel": "Instrumental Variable Estimation for Duration Data: A Reappraisal of the Illinois Reemployment Bonus Experiment",
+ "type": "preprint"
+}

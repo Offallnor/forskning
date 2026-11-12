@@ -1,0 +1,14 @@
+{
+ "ar": 2012,
+ "forfattere": [
+  "Per Johansson",
+  "Martin Nilsson"
+ ],
+ "id": "W1525215440",
+ "kilde": "RePEc: Research Papers in Economics",
+ "lenke": "https://openalex.org/W1525215440",
+ "oversikt": false,
+ "sammendrag": "Sweden has obligatory sickness and disability insurance which is both financed (from payroll taxes) and administered by the government. In order to receive sickness benefits, insured individuals must have certificates issued by a medical doctor. Since health care is administered at the county level, this means that monitoring is, to some extent, decentralized at a lower jurisdictional level than the funding and governance of the insurance. This paper studies one consequence of such decentralization: the effect on individual sickness absence when such certificates are not approved by the Sickness Insurance Agency (SIA)and are instead re-remitted to the doctor for completion and, potential, reapproval by the SIA. We find that this re-remission increases the length of sickness absence spells by an average of 30 percent. A suggestive test of the reason for the observed effect indicates that it is due to a decrease in health caused by increased stress related to the uncertainty about entitlement and future sickness benefits. Given that added resources improve the quality of the patients’ medical certificates, directed intergovernmental grants from the state to the counties would be cost saving.",
+ "tittel": "Should sickness insurance and health care be administrated by the same jurisdiction? An empirical analysis",
+ "type": "preprint"
+}

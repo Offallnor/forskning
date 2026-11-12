@@ -1,0 +1,17 @@
+{
+ "ar": 2010,
+ "forfattere": [
+  "Florent Frémigacci"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "https://www.univ-evry.fr/fileadmin/mediatheque/ueve-institutionnel/03_Recherche/laboratoires/Epee/wp/10-12.pdf",
+ "hvordan": "pdf",
+ "id": "W3125232205",
+ "kilde": "RePEc: Research Papers in Economics",
+ "lenke": "https://openalex.org/W3125232205",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "This paper investigates the relationship between the length of Unemployment Insurance (UI) entitlement and transitions out of unemployment. Our focus is on older job seekers who usually access to longer benefit periods and may withdraw from the labour force via early retirement. We exploit the 2003 reform of the French UI system that involved substantial cuts in benefits for this specific group. The design of the reform naturally leads us to adopt a Regression Discontinuity framework, comparing the search behaviour of people who became unemployed just before and after the policy change. We account for seasonal factors by taking advantage of pre and post reform cohorts and thus combining the standard RD framework with a Difference-in-Differences strategy. Our empirical analysis reveals that the reform had a structural impact on the distribution of unemployment durations, which shifted downwards in response to benefits cuts. This adjustment mainly operated through the displacement of job seekers from unemployment insurance to unemployment assistance, which largely contributes to explaining the observed spikes in exits from unemployment around the benefit exhaustion date. The effect on transitions to employment was on the contrary quite modest, while the subsequent job stability remained unaffected by the reform",
+ "tittel": "Maximum Benefits Duration and Older Workers’Transitions out of Unemployment : a Regression Discontinuity Approach",
+ "type": "preprint"
+}

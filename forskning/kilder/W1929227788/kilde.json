@@ -1,0 +1,19 @@
+{
+ "apen_url": "https://epub.ub.uni-muenchen.de/1633/",
+ "ar": 2001,
+ "doi": "https://doi.org/10.5282/ubm/epub.1633",
+ "forfattere": [
+  "Wolff, J."
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "https://epub.ub.uni-muenchen.de/1633/1/paper_253.pdf",
+ "hvordan": "pdf",
+ "id": "W1929227788",
+ "kilde": "Open access LMU (Ludwid Maxmilian's Universitat Munchen)",
+ "lenke": "https://openalex.org/W1929227788",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "This paper analyses the impact of the Hungarian unemployment insurance (UI) benefit system on the speed of exit from unemployment to regular employment. The duration analysis relies on unemployment spells from two inflow cohorts, which are administered under distinct UI rules. Thus, it exploits a natural experiment to identify disincentive effects. Kaplan-Meier estimates suggest that the benefit reform did not significantly change the transition rates. Moreover, a semi-parametric analysis cannot find remarkable disincentive effects but an entitlement effect. The hazards of men and women rise somewhat in the last two months before they run out of UI benefit.",
+ "tittel": "The Hungarian Unemployment Insurance Benefit System and Incentives to Return to Work",
+ "type": "report"
+}

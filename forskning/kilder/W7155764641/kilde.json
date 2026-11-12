@@ -1,0 +1,26 @@
+{
+ "apen_url": "https://doi.org/10.1186/s12891-026-09859-x",
+ "ar": 2026,
+ "doi": "https://doi.org/10.1186/s12891-026-09859-x",
+ "forfattere": [
+  "Maria E. H. Larsson",
+  "Annika Ekhammar",
+  "Rode Grönkvist",
+  "Lena Bornhöft",
+  "Lena Nordeman",
+  "Kristina Holmgren",
+  "Anna Grimby‐Ekman",
+  "Gunnel K. E. Hensing"
+ ],
+ "hentet": "2026-11-09",
+ "hentet_fra": "https://link.springer.com/content/pdf/10.1186/s12891-026-09859-x.pdf",
+ "hvordan": "pdf",
+ "id": "W7155764641",
+ "kilde": "BMC Musculoskeletal Disorders",
+ "lenke": "https://openalex.org/W7155764641",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "BACKGROUND: The team-based, interdisciplinary rehabilitation model, PREVention of Sickness Absence for Musculoskeletal disorders (PREVSAM), was developed and evaluated in a Swedish primary care context. The purpose of this follow-up study was to assess 12-month effects of rehabilitation according to the PREVSAM model on sickness absence and patient-reported health outcomes in patients initially assessed as being at increased risk for sickness absence. METHODS: This was a two-armed randomised controlled trial at eight primary care rehabilitation clinics, comparing rehabilitation according to the PREVSAM model with treatment as usual (TAU). In this 12-month follow-up, sickness absence and patient-reported health outcomes were assessed in 249 participants. Analyses were performed using logistic regression, zero-inflated negative binomial regression, and Cox regression. RESULTS: Most participants remained in full- or part-time work (PREVSAM 67.7%, TAU 60.7%) and had zero registered sickness benefit days during the 12 months’ follow-up period (PREVSAM Md;0; IQR 0-10.5, TAU 0;0-20.4), with no statistically significant difference between the groups. Improvements over time were seen in all patient-reported outcomes in both groups, but no significant between-group differences were found. CONCLUSIONS: The PREVSAM model was not shown to be more effective than TAU in reducing sickness absence amongst patients with musculoskeletal disorders who were identified to be at risk for long-term sick leave or to reduce risk for sickness absence. Patient-related health outcomes improved significantly over time in both groups, suggesting that the interventions, regardless of type, contributed positively to participants’ health and recovery. The findings are nevertheless encouraging as most participants—regardless of group—remained in full- or part-time work, with no registered sickness benefit days during the 12 months’ follow-up period. This finding suggests that most individuals who initially present with risk factors for long-term pain and sick leave do not go on to develop prolonged sickness absence. TRIAL REGISTRATION: The trial was registered with ClinicalTrials.gov, Protocol ID: NCT03913325. Study Registration Date, First Submitted 09/04/2019, First Posted 12/04/2019.",
+ "tittel": "Prevention of sickness absence through early identification and rehabilitation of at-risk patients with musculoskeletal disorders (PREVSAM): 12-month follow-up of a randomised controlled trial",
+ "type": "article"
+}

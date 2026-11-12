@@ -1,0 +1,14 @@
+{
+ "apen_url": "https://tigerprints.clemson.edu/all_theses/1590",
+ "ar": 2013,
+ "forfattere": [
+  "Ailin He"
+ ],
+ "id": "W113279456",
+ "kilde": "TigerPrints (Clemson University)",
+ "lenke": "https://openalex.org/W113279456",
+ "oversikt": false,
+ "sammendrag": "The purpose of this paper is to investigate how unemployment insurance (UI) extensions affect job finding probabilities and the length of unemployment spells in the most recent decade. Exploiting the panel structure of the Current Population Survey (CPS), I constructed a 16-month panel with the CPS basic monthly data from 2002 to 2012 and modeled the reemployment (unemployment-to-employment and not-in-labor-force-to-employment) hazard. Since unemployment policies in the US are subjected to change by the condition of the macro economy, this paper adopted different approaches to distinguish UI impacts on exit probability from other macro factors. Our results suggest that UI extensions can only explain less than 0.4 percentage point rise in unemployment spells during recent years. Major determinants are the macroeconomic conditions and personal attributes.",
+ "tittel": "Effects of unemployment insurance extensions on job search outcomes",
+ "type": "dissertation"
+}

@@ -1,0 +1,17 @@
+{
+ "apen_url": "https://research.upjohn.org/cgi/viewcontent.cgi?article=1068&context=up_workingpapers",
+ "ar": 2003,
+ "doi": "https://doi.org/10.17848/wp03-51r",
+ "forfattere": [
+  "Christopher J. O’Leary",
+  "Paul T. Decker",
+  "Stephen A. Wandner"
+ ],
+ "id": "W2158869816",
+ "kilde": "Upjohn Research (W.E. Upjohn Institute for Employment Research)",
+ "lenke": "https://openalex.org/W2158869816",
+ "oversikt": false,
+ "sammendrag": "Targeting reemployment bonus offers to unemployment insurance (UI) claimants identified as most likely to exhaust benefits is estimated to reduce benefit payments. We show that targeting bonus offers with profiling models similar to those in state Worker Profiling and Reemployment Services systems can improve cost effectiveness. Since estimated average benefit payments do not steadily decline as the eligibility screen is gradually tightened, we find that narrow targeting is not optimal. The best candidate is a low bonus amount with a long qualification period, targeted to the half of profiled claimants most likely to exhaust their UI benefit entitlement.",
+ "tittel": "Cost-Effectiveness of Targeted Reemployment Bonuses",
+ "type": "report"
+}

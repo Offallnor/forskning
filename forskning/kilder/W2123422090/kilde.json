@@ -1,0 +1,16 @@
+{
+ "ar": 2015,
+ "doi": "https://doi.org/10.1017/s1365100514000789",
+ "forfattere": [
+  "Miquel Faig",
+  "Min Zhang",
+  "Shiny Zhang"
+ ],
+ "id": "W2123422090",
+ "kilde": "Macroeconomic Dynamics",
+ "lenke": "https://openalex.org/W2123422090",
+ "oversikt": false,
+ "sammendrag": "We calculate that the extension of unemployment insurance benefits during downturns has significantly increased the variability of unemployment and vacancies in the United States. Taking this into account reduces the value of leisure necessary to match the wide labor market business cycles experienced in the United States using the Mortensen--Pissarides model. For this calculation, we analyze a version of the model where unemployment insurance benefits not only expire but must be earned with prior employment. With these features, we can calibrate the model to be consistent with unemployment responding strongly to productivity shocks and mildly to changes in unemployment insurance policies. Our preferred calibration predicts that the standard deviation of unemployment since 1945 would have fallen by around 37% if there had not been programs extending unemployment benefits during recessions. We also find that the enactment of the Emergency Unemployment Compensation program in 2008 increased the unemployment rate by 0.5 percentage points.",
+ "tittel": "EFFECTS OF EXTENDED UNEMPLOYMENT INSURANCE BENEFITS ON LABOR DYNAMICS",
+ "type": "article"
+}

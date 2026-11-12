@@ -1,0 +1,20 @@
+{
+ "apen_url": "https://docs.iza.org/dp9090.pdf",
+ "ar": 2015,
+ "forfattere": [
+  "Simen Markussen",
+  "Røed, Knut",
+  "Ragnhild C. Schreiner"
+ ],
+ "hentet": "2026-11-09",
+ "hentet_fra": "https://docs.iza.org/dp9090.pdf",
+ "hvordan": "pdf",
+ "id": "W3125553714",
+ "kilde": "RePEc: Research Papers in Economics",
+ "lenke": "https://openalex.org/W3125553714",
+ "merknad": "ÅPEN VERSJON (preprint eller arbeidsnotat), merkes i svaret",
+ "oversikt": false,
+ "sammendrag": "We evaluate the impacts of a compulsory dialogue meeting for long-term sick-listed workers in Norway. The meeting is organised by the local social security administration after around six months of absence, and its purpose is to bring together the absentee, the employer, and the family physician to discuss whether arrangements can be made to facilitate partial or full work resumption. Our causal analysis is based on random-assignment-like geographical variation in the meeting propensity. We find that the meetings reduce absence duration considerably, both through a notification and an attendance effect. They also reduce the risk of premature labour market exit.",
+ "tittel": "Can Compulsory Dialogues Nudge Sick-Listed Workers Back to Work?",
+ "type": "preprint"
+}

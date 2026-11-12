@@ -1,0 +1,22 @@
+{
+ "apen_url": "https://bmcpublichealth.biomedcentral.com/track/pdf/10.1186/s12889-019-6703-7",
+ "ar": 2019,
+ "doi": "https://doi.org/10.1186/s12889-019-6703-7",
+ "forfattere": [
+  "Beata Jablonska",
+  "Christina Dalman",
+  "Andreas Lundin",
+  "Kyriaki Kosidou"
+ ],
+ "hentet": "2026-11-09",
+ "hentet_fra": "https://bmcpublichealth.biomedcentral.com/track/pdf/10.1186/s12889-019-6703-7",
+ "hvordan": "pdf",
+ "id": "W2929109866",
+ "kilde": "BMC Public Health",
+ "lenke": "https://openalex.org/W2929109866",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "BACKGROUND: The proportion of young adults on disability benefits due to mental disorders has increased in Europe since the early 2000's. Poor educational achievement is a risk factor for disability benefits due to mental disorders in early adulthood, yet no study has examined whether this association has become stronger over time. METHODS: All residents of Stockholm County at the time of graduation from compulsory education between 2000 and 2007 (N = 169,125) were followed prospectively for recipient of disability benefits due to a mental disorder from 2003 to 2011. Information about the study participants was obtained by linkage of national registers. Low school performance in the last year of compulsory school was defined as having a merit rating corresponding to the lowest quintile. The association between school performance and disability benefits was examined using Cox proportional hazards models. RESULTS: Low school performers had a greater risk of disability benefits due to mental disorders during early adulthood, as compared to their better performing counterparts, and this association was more pronounced for the more recent graduation cohorts (OR = 1.12, 95% CI 1.08-1.16). CONCLUSIONS: The association between low school performance and the risk of disability benefits due to mental disorders seems to become stronger during the first decade of the twenty-first century. It is plausible that this trend indicates an increased vulnerability of poor school performers to exclusion from the labor market. Prevention of school failure and adjustment of the labour market to individual variability in academic performance appear to be critical approaches to counteract this trend.",
+ "tittel": "Has the association between low school performance and the risk of disability benefit due to mental disorders become stronger over time?",
+ "type": "article"
+}

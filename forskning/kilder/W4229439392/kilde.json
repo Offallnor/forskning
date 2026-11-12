@@ -1,0 +1,25 @@
+{
+ "apen_url": "https://journals.sagepub.com/doi/pdf/10.1177/14034948221096005",
+ "ar": 2022,
+ "doi": "https://doi.org/10.1177/14034948221096005",
+ "forfattere": [
+  "Håvard Thorsen Rydland",
+  "Henrik Litleré Bentsen",
+  "Rune Ervik",
+  "Kjersti Grønning",
+  "M. Kamrul Islam",
+  "Egil Kjerstad",
+  "Tord Skogedal Lindén"
+ ],
+ "hentet": "2026-11-09",
+ "hentet_fra": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10642227/fullTextXML",
+ "hvordan": "Europe PMC",
+ "id": "W4229439392",
+ "kilde": "Scandinavian Journal of Public Health",
+ "lenke": "https://openalex.org/W4229439392",
+ "merknad": "",
+ "oversikt": true,
+ "sammendrag": "OBJECTIVES: This article is a scoping review of efforts in labour market inclusion of the chronically ill in the Scandinavian countries, a research area that has received much political as well as research attention in recent years. The aim of the review was to identify promising strategies and the need for further research. METHODS: Six electronic databases were searched for literature published between 2015 and 2020. We included peer-reviewed articles that studied the effect of measures, aimed at the workplace or at the individual, that are intended to increase participation. Our search resulted in 2718 articles; our screening procedures resulted in 47 included articles. RESULTS: Among the included studies, musculoskeletal problems (17 articles) and mental health problems (29 articles) were the most frequent chronic conditions. Multimodal occupational rehabilitation programmes directed towards the individual employee were the most frequent interventions (30 articles). Return to work (24 articles) and sickness absence (12 articles) were the most common outcomes. About half (25 articles) of the included studies reported a positive impact of the intervention on work inclusion of the chronically ill. CONCLUSIONS: Our review found little evidence of how government programmes directed towards the supply side of the labour market succeed in including the chronically ill. Our review further indicated that multidisciplinary workplace interventions have a substantial effect. We also identified a significant lack of research on the effect of various governmental policies and programmes, including local health, work and welfare services, and limited coordination and cooperation between health and work services professions.",
+ "tittel": "Promoting labour market inclusion of the chronically ill: a scoping review of Scandinavian countries’ efforts",
+ "type": "review"
+}

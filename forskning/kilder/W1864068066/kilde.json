@@ -1,0 +1,15 @@
+{
+ "apen_url": "http://hdl.handle.net/2429/18562",
+ "ar": 2010,
+ "doi": "https://doi.org/10.14288/1.0093034",
+ "forfattere": [
+  "Kailing Shen"
+ ],
+ "id": "W1864068066",
+ "kilde": "cIRcle (University of British Columbia)",
+ "lenke": "https://openalex.org/W1864068066",
+ "oversikt": false,
+ "sammendrag": "This thesis examines Unemployment Insurance’s (UI) labour market impacts, focusing on the contingent, temporary natures of UI benefit. Using the Survey of Labour and Income Dynamics , the results suggest UI significantly affects both individuals’ employment/unemployment transitions and their job match quality. Chapter 2 presents a historical development of the UI program in Canada; a survey of related literature; and, finally, a theoretical analysis of how contingent, temporary UI benefit coverage could affect labour market dynamics. Chapter 3 empirically examines UI’s impacts on individuals’ employment/unemployment cycles. The two major findings are: (1) UI’s minimum employment requirement is found to delay employment separation in the seasonal sector; and, (2) the availability of UI benefits is found to postpone reemployment in both the seasonal and non-seasonal sectors. Overall, simulation results suggest that without those delays, the national unemployment rate could be 16% lower (e.g. lowered from 7.6% to 6.6%) in the late 1990s. Simulation results also imply that, with the exception of the experience rating rules and the divisor rule, the 1996 Employment Insurance (EI) reform did not have a significant impacts [sic] on the national unemployment rate. Chapter 4 empirically examines UI’s impacts on individuals’ reemployment wages. The random effect model it uses takes account of the endogeneity of both individuals’ employment/unemployment durations and their initial wages. Furthermore, the empirical specification allows UI benefits to have time-varying impacts. The results suggest, overall, that UI coverage increases unemployed workers’ reemployment wages by about 9.5%.",
+ "tittel": "Unemployment insurance’s labour market impacts",
+ "type": "dissertation"
+}

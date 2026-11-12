@@ -1,0 +1,16 @@
+{
+ "apen_url": "https://core.ac.uk/display/53447503",
+ "ar": 2002,
+ "doi": "https://doi.org/10.1111/1467-9914.00195",
+ "forfattere": [
+  "Adriano Paggiaro",
+  "Ugo Trivellato"
+ ],
+ "id": "W2127832737",
+ "kilde": "Labour",
+ "lenke": "https://openalex.org/W2127832737",
+ "oversikt": false,
+ "sammendrag": "The ‘Mobility Lists’ programme handles collective redundancies, and combines income support to eligible dismissed employees with benefits to employers who hire them. Benefits vary according to dismissing firm size and are greater for older workers. We focus on the differential effects of programme treatments on the probability of moving from unemployment into permanent jobs. We specify flexible duration models in order to estimate the profile of differential effects over time. Older workers, enjoying longer packages of benefits, have significantly lower chances of moving to employment. Differential effects vary with time and are higher when younger workers approach the expiry of benefits.",
+ "tittel": "Assessing the Effects of the ‘Mobility Lists’ Programme by Flexible Duration Models",
+ "type": "article"
+}

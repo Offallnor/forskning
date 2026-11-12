@@ -1,0 +1,17 @@
+{
+ "ar": 2012,
+ "forfattere": [
+  "Steven D. Mullins"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "http://econjwatch.org/file_download/533/CompleteIssueJan2012.pdf",
+ "hvordan": "pdf",
+ "id": "W2171402176",
+ "kilde": "Econ journal watch",
+ "lenke": "https://openalex.org/W2171402176",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "The Emergency Unemployment Compensation program created in the summer of 2008 provided for unprecedented extensions in the duration of unemployment insurance (UI) benefits. Combined with persistent high unemployment and historically long durations of unemployment during the 2008 and 2009 recession, this extension of UI has prompted renewed interest in the impact of UI benefits on job search, the duration of unemployment, and the unemployment rate. In a recent op-ed for the Wall Street Journal, Robert Barro contributed to this discussion by comparing the duration of unemployment observed in the current recession with that of 1982 and estimating how much lower the unemployment rate would have been in the summer of 2010 if it had not been for the extension of the duration of UI benefits. His conclusion, that the unemployment rate would have been 2.7 points lower in the absence of UI extensions, is based on a questionable assumption—that the severity of the 2008-09 recession could not be responsible. This paper uses multiple regression analysis to estimate the impact of extended UI benefits on the unemployment rate after controlling for the severity of the recent recession. The extension of UI is found to have a positive and significant impact on the national unemployment rate, but the impact is not as large as Barro suggests. The UI benefit extensions that have occurred between the summer of 2008 and the end of 2010 are estimated to have had a cumulative effect of raising the unemployment rate by .77 to 1.54 percentage points.",
+ "tittel": "The Unemployment Impact of the 2008 Extension of Unemployment Insurance: As High as Robert Barro Suggested?",
+ "type": "article"
+}

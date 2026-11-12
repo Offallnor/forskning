@@ -1,0 +1,25 @@
+{
+ "apen_url": "https://doi.org/10.1186/s12889-025-22368-1",
+ "ar": 2025,
+ "doi": "https://doi.org/10.1186/s12889-025-22368-1",
+ "forfattere": [
+  "Ingvild Bardal",
+  "Nils Abel Aars",
+  "Samineh Sanatkar",
+  "Sharon A. M. Stevelink",
+  "Oda Lekve Brandseth",
+  "Beate Brinchmann",
+  "Arnstein Mykletun"
+ ],
+ "hentet": "før 2026-11-08",
+ "hentet_fra": "https://link.springer.com/content/pdf/10.1186/s12889-025-22368-1.pdf",
+ "hvordan": "pdf",
+ "id": "W4408975540",
+ "kilde": "BMC Public Health",
+ "lenke": "https://openalex.org/W4408975540",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "BACKGROUND: Musculoskeletal disorders (MSD) are among the leading causes of sickness absence (SA) and disability. Graded sickness absence (GSA) as an alternative to full time sickness absence (FSA) has been implemented in the Nordic countries to promote return to work (RTW) and prevent disability, similar to the Fit Note in the UK. However, the evidence of the effects of GSA on RTW is limited. FSA is plausibly associated with more health problems than GSA. The aim is to investigate if the hypothesized benefits of GSA over FSA on RTW is confounded by health in a cohort of sick listed patients referred to secondary care due to MSD. METHODS: Data was obtained from the Norwegian Neck and Back Register and the Norwegian Labour and Welfare Administration. Poisson regression was used to estimate the association of GSA versus FSA on RTW at 12 months after assessment, with and without adjustment for measures of symptom severity. RESULTS: A total of 3371 patients were on GSA (n = 1671, 49.6%) or FSA (n = 1700, 50.4%) at baseline. Patients on FSA reported more severe symptoms than those on GSA on all measures, and detailed analysis of GSA indicated more severe symptoms with higher SA levels. Patients on GSA had higher rates of RTW at 12 months follow up than patients on FSA (unadjusted RR = 1.29, 95% CI 1.22-1.37), and the association remained in the fully adjusted model (RR = 1.19, 95% CI 1.12-1.26). We found an association between levels of GSA and RTW rates, with more work being associated with higher RR for RTW. CONCLUSIONS: Among sick listed patients referred to secondary care due to MSD, GSA is associated with higher rates of RTW than FSA. Some of the beneficial association between GSA and RTW is confounded by higher symptom levels in FSA than GSA patients, but most of the benefit remains after adjusting for symptom severity. Mechanisms for the benefit of GSA remains unknown.",
+ "tittel": "Is the association between graded sickness absence and return to work confounded by health? A longitudinal cohort study from the Norwegian neck and back registry",
+ "type": "article"
+}

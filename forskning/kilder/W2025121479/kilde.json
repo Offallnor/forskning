@@ -1,0 +1,15 @@
+{
+ "apen_url": "http://urn.kb.se/resolve?urn=urn:nbn:se:oru:diva-3844",
+ "ar": 2008,
+ "forfattere": [
+  "Daniela Andrén",
+  "Thomas Andrén"
+ ],
+ "id": "W2025121479",
+ "kilde": "RePEc: Research Papers in Economics",
+ "lenke": "https://openalex.org/W2025121479",
+ "oversikt": false,
+ "sammendrag": "This paper analyzes the effects of being on part-time sick leave compared to full-time\\nsick leave on the probability of recovering (i.e., returning to work with full recovery of\\nlost work capacity). Using a discrete choice one-factor model, we estimate mean\\ntreatment parameters and distributional treatment parameters from a common set of\\nstructural parameters. Our results show that part-time sick leave increases the likelihood\\nof recovering and dominates full-time sick leave for sickness spells of 150 days or\\nlonger. For these long spells, the probability of recovering increases by 10 percentage\\npoints.",
+ "tittel": "Part-time sick leave as a treatment method?",
+ "type": "preprint"
+}

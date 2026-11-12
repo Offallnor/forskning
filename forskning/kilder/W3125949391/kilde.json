@@ -1,0 +1,15 @@
+{
+ "ar": 2011,
+ "forfattere": [
+  "Johannes F. Schmieder",
+  "Till von Wachter",
+  "Stefan Bender"
+ ],
+ "id": "W3125949391",
+ "kilde": "RePEc: Research Papers in Economics",
+ "lenke": "https://openalex.org/W3125949391",
+ "oversikt": false,
+ "sammendrag": "The effect of extending the duration of unemployment insurance (UI) benefits on nonem- ployment duration is a hotly debated question. The vast majority of the literature (e.g., Katz and Meyer 1990, Schmieder, von Wachter, and Bender 2012) [henceforth SVB]) analyzes the e ect of extensions in UI durations or increases in UI benefits on the initial nonemployment spell. This may lead to an understatement of the cost of UI extensions, if such extensions increase the incidence of nonemployment beyond the initial spell, as would be predicted by models of stigma, skill depreciation, or supply-side hysteresis (e.g., Blanchard and Diamond 1994, Lemieux and MacLeod 2000). On the other hand, these estimates may overstate em- ployment e ects if longer initial spells tend to reduce future incidence of nonemployment. This might arise because of an increase in individual labor supply, for example due to lower income. In addition, with a nite lifetime (or a nite follow-up period) the nonemployment e ect can also decline mechanically. This can arise since at a given, say, monthly probability of being unemployed, individuals with longer initial spells accumulate less time in nonem- ployment due to a shorter remaining lifetime. Despite these alternative hypotheses, little is known about the longer-term effect of UI extensions on employment. In this paper, we make two contributions. First, we use a regression discontinuity de- sign to analyze the long-term effects of extensions in UI durations. These estimates differ from standard estimates that they incorporate di erences in UI bene t receipt and employ- ment due to recurrent unemployment spells. Second, we extend the welfare formula of UI extensions from SVB to incorporate recurrent nonemployment spells.",
+ "tittel": "The Longterm Effects of UI Extensions on Employment",
+ "type": "preprint"
+}

@@ -1,0 +1,16 @@
+{
+ "ar": 2023,
+ "doi": "https://doi.org/10.1080/13676261.2023.2297025",
+ "forfattere": [
+  "Timo M. Kauppinen",
+  "Sakari Karvonen",
+  "Laura Kestilä"
+ ],
+ "id": "W4390105359",
+ "kilde": "Journal of Youth Studies",
+ "lenke": "https://openalex.org/W4390105359",
+ "oversikt": false,
+ "sammendrag": "We investigate the association between parental social disadvantage and later welfare reliance among their children during entry to adulthood. We ask whether this association changed after the onset of the Great Recession. We use Finnish register-based data, studying young adults aged 18–22 in the years 2003–2012. Parental disadvantage is measured as low education, low income, unemployment and social assistance receipt when the children were at the age of 14 to 15. Welfare reliance is measured as income coming mainly from unemployment benefits, housing allowances and social assistance. We analyse annual welfare-reliance states by repeated-measures logit models. All parental disadvantage indicators predict higher probability of welfare reliance, and accumulation of several types of disadvantage has stronger effects than any single indicator. The effects of parental disadvantage became stronger by the onset of the recession in 2008, indicating that young adults coming from disadvantaged families were affected more by the recession. The findings illustrate the importance of state support in the welfare mix among young people with a disadvantaged background during recessions in a Nordic welfare state.",
+ "tittel": "Parental social disadvantage as a determinant of welfare reliance among young adults before and after the Great Recession",
+ "type": "article"
+}

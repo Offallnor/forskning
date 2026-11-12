@@ -1,0 +1,20 @@
+{
+ "apen_url": "https://lib.dr.iastate.edu/econ_workingpapers/3",
+ "ar": 2016,
+ "forfattere": [
+  "Steven G. Dieterle",
+  "Otávio Bartalotti",
+  "Quentin Brummet"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "https://dr.lib.iastate.edu/server/api/core/bitstreams/1083080d-e57c-4b4e-9bc0-c4b1022d40c2/content",
+ "hvordan": "pdf",
+ "id": "W2346905068",
+ "kilde": "Iowa State University Digital Repository (Iowa State University)",
+ "lenke": "https://openalex.org/W2346905068",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "We reassess the literature using county border pair identification strategies to examine the effects of UI benefit duration on labor market conditions. We extend these previous approaches using a regression discontinuity-based approach that controls for changes in unobservables by distance to the border and accounts for measurement error induced by using county-level aggregates. Our new results provide no evidence of a large change in unemployment induced by differences in UI generosity across state boundaries, bringing the evidence from border-based identification strategies in line with estimates from other strands of the UI benefit duration literature.",
+ "tittel": "Revisiting the Effects of Unemployment Insurance Extensions on Unemployment: A Measurement Error-Corrected RD Approach",
+ "type": "article"
+}

@@ -1,0 +1,14 @@
+{
+ "ar": 2011,
+ "forfattere": [
+  "Johannes F. Schmieder",
+  "Till von Wachter",
+  "Stefan Bender"
+ ],
+ "id": "W2186949310",
+ "lenke": "https://openalex.org/W2186949310",
+ "oversikt": false,
+ "sammendrag": "Does the subsidy to job search provided by unemployment insurance (UI) help workers find better jobs? This paper investigates this question by exploiting strict age thresholds in the German UI system that determine the maximum potential UI benefit duration of workers. Using a large administrative dataset, we first show that this gives rise to a valid regression discontinuity design and that the higher levels of potential benefit durations sharp increases in nonemployment durations at the thresholds. We then use this setting to estimate the effect of potential benefit durations on various measures of job quality, including the post unemployment wage, whether a worker moved to take up a job, and long term employent outcomes. Our results show small, but statistically significant, negative effects of longer potential benefit durations on job match quality: Longer potential benefit durations lead to lower wages, less stable jobs, and a higher probability of moving to a different region, occupation or industry. it appears that unemployment insurance does not help people to find better jobs, but that the longer duration in nonemployment leads to worse job outcomes potentially through skill depreciation or stigmatization by future employers.",
+ "tittel": "The Effect of Potential Unemployment Insurance Durations on Job Quality",
+ "type": "article"
+}

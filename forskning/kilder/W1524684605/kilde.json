@@ -1,0 +1,15 @@
+{
+ "ar": 2014,
+ "doi": "https://doi.org/10.1111/sjoe.12051",
+ "forfattere": [
+  "Gérard J. van den Berg",
+  "Johan Vikström"
+ ],
+ "id": "W1524684605",
+ "kilde": "Scandinavian Journal of Economics",
+ "lenke": "https://openalex.org/W1524684605",
+ "oversikt": false,
+ "sammendrag": "Abstract Unemployment insurance systems include the monitoring of unemployed workers and punitive sanctions if job search requirements are violated. We analyze the causal effect of sanctions on the ensuing job quality, notably on wages and occupational level. We use Swedish data and estimate duration models dealing with selection on unobservables. We also develop a theoretical job search model that monitors job offer rejection versus job search effort. The empirical results show that, after a sanction, the wage rate is lower and individuals move more often to a part‐time job and a lower occupational level, incurring human capital losses.",
+ "tittel": "Monitoring Job Offer Decisions, Punishments, Exit to Work, and Job Quality",
+ "type": "article"
+}

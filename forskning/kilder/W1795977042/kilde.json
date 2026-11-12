@@ -1,0 +1,16 @@
+{
+ "apen_url": "https://publications.iadb.org/publications/english/document/Protecting-Workers-against-Unemployment-in-Latin-America-and-the-Caribbean-Evidence-from-Argentina.pdf",
+ "ar": 2011,
+ "doi": "https://doi.org/10.18235/0011366",
+ "forfattere": [
+  "Martı́n González Rozada",
+  "Lucas Ronconi",
+  "Hernán Ruffo"
+ ],
+ "id": "W1795977042",
+ "lenke": "https://openalex.org/W1795977042",
+ "oversikt": false,
+ "sammendrag": "This paper takes advantage of several reforms that provide time and cross sectional variation to identify the effects of unemployment insurance and severance payments on the duration of unemployment and on the separation probability in Argentina. Administrative data permits analysis of the duration of unemployment of covered spells with detailed information about transfers and their duration, while household surveys permit the study of separation probability and transitions to informal jobs, which are not observed in administrative data. It is found that unemployment duration increases significantly when unemployment insurance transfers are higher or are provided for a longer period; the effects of severance pay on unemployment duration are less robust. On the other hand, higher severance pay is found to reduce separation probability, while unemployment insurance transfers have a positive but small effect on separations.",
+ "tittel": "Protecting Workers against Unemployment in Latin America and the Caribbean: Evidence from Argentina",
+ "type": "report"
+}

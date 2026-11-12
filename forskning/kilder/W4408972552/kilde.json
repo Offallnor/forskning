@@ -1,0 +1,16 @@
+{
+ "ar": 2025,
+ "doi": "https://doi.org/10.1093/restud/rdaf019",
+ "forfattere": [
+  "Benjamin Hartung",
+  "Philip Jung",
+  "Moritz Kuhn"
+ ],
+ "id": "W4408972552",
+ "kilde": "The Review of Economic Studies",
+ "lenke": "https://openalex.org/W4408972552",
+ "oversikt": false,
+ "sammendrag": "Abstract A key question in labour market research is how the unemployment insurance system affects unemployment rates and labour market dynamics. We provide new answers to this old question by studying one of the largest unemployment insurance reforms in recent decades, the German Hartz reforms. On average, lower separation rates into unemployment account for 76% of declining unemployment after the reform, a fact unexplained by existing research focussing on job-finding rates. Exploiting institutional changes by age, employment duration, and wages, we establish a causal link between the reform and changes in labour market dynamics. Relying on the labour market theory, we generalize our empirical findings beyond the German case and establish separation rate changes as an important macroeconomic adjustment channel after unemployment insurance reforms. We derive analytically that the change of separation rates increases in proportion to average unemployment duration suggesting an equally important role for most other European labour markets.",
+ "tittel": "Unemployment Insurance Reforms and Labour Market Dynamics",
+ "type": "article"
+}

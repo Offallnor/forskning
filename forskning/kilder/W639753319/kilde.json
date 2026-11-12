@@ -1,0 +1,17 @@
+{
+ "ar": 2014,
+ "forfattere": [
+  "Katharine Bradbury"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "http://www.bostonfed.org/economic/wp/wp2014/wp1402.pdf",
+ "hvordan": "pdf",
+ "id": "W639753319",
+ "kilde": "RePEc: Research Papers in Economics",
+ "lenke": "https://openalex.org/W639753319",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "Economists often expect unemployment insurance (UI) benefits to elevate unemployment rates because recipients may choose to remain unemployed in order to continue receiving benefits, instead of accepting a job or dropping out of the labor force. This paper uses individual data from the Current Population Survey for the period between 2005 and 2013 - a period during which the federal government extended and then reduced the length of benefit availability to varying degrees in different states - to investigate the influence of program parameters in the UI system on monthly transition rates of unemployed individuals. The main finding is that unemployed job losers tend to remain unemployed until they exhaust UI benefits, at which point they become more likely to drop out of the labor force; transitions to a job appear to be unaffected by UI benefit extensions. These findings imply that the longer periods of benefit eligibility under the federal programs EUC08 and EB - up to 99 weeks in many states in 2011 and 2012-2014;contributed to the elevated jobless rates observed during that period, but not via lower employment. By the same token, the sharp contraction of benefit weeks that occurred in 2012 and continued more gradually in 2013 likely contributed to declines in unemployment and participation rates beyond what one would expect based on the improving economy alone. Similarly, the December 28, 2013 sudden cutoff of federal UI payments to an estimated 1.3 million jobless Americans who had been looking for work for more than six months is adding to the pace of transitions from unemployment to dropping out of the labor force, thus reducing the unemployment rate and the labor force participation rate further in the first half of 2014, although very modestly.",
+ "tittel": "Labor market transitions and the availability of unemployment insurance",
+ "type": "preprint"
+}

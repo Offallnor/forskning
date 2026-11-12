@@ -1,0 +1,14 @@
+{
+ "apen_url": "https://tigerprints.clemson.edu/cgi/viewcontent.cgi?article=2618&context=all_dissertations",
+ "ar": 2016,
+ "forfattere": [
+  "Shan Jiang"
+ ],
+ "id": "W2472019236",
+ "kilde": "TigerPrints (Clemson University)",
+ "lenke": "https://openalex.org/W2472019236",
+ "oversikt": false,
+ "sammendrag": "Both the duration of and generosity of Unemployment Insurance (UI) payment increased substantially during the Great Recession. This paper attempts to quantify the separate effects of two of the changes affected by the program during this process: multiple extensions of the maximum benefit spells, and the increase in the dollar benefit levels, using administrative data from Kentucky for the period January 2006 through December 2011. In the first chapter, I estimate Rothstein(2011) specifications, and introduce a variety alternative hazard models to estimate the effect of the multiple extensions on reemployment. My estimates suggest that extensions of UI spells lowered monthly exit hazards by 1 percent, and extended the unemployment duration by 0.4 weeks. My estimates imply that a fair fraction of the persistent increase in long-term unemployment after the Great Recession is due to a decline in UI recipients' search efforts. In the second chapter, I identify the effect of the benefit level in the Regression Kink Design (RKD) using kinks in the schedule of UI benefits, and find the elasticity of unemployment duration with respect to the benefit level ranges from 0.2 to 0.6. My results suggest that given the massive extensions of the benefit weeks, unemployed workers responded to benefit level changes less than without the multiple extensions of benefit weeks.",
+ "tittel": "Effects of the Duration and Benefit Level of Unemployment Insurance during the Great Recession: Evidence from Kentucky Administrative Data",
+ "type": "dissertation"
+}

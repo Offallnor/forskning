@@ -1,0 +1,26 @@
+{
+ "apen_url": "https://archpublichealth.biomedcentral.com/counter/pdf/10.1186/s13690-024-01411-4",
+ "ar": 2024,
+ "doi": "https://doi.org/10.1186/s13690-024-01411-4",
+ "forfattere": [
+  "Richard Aubrey White",
+  "Chi Zhang",
+  "Beatriz Valcárcel Salamanca",
+  "Aslaug Angelsen",
+  "Dinastry Pramadita Zakiudin",
+  "Aristomo Andries",
+  "Saranda Kabashi",
+  "Lene Lehmann Moberg"
+ ],
+ "hentet": "før 2026-11-08",
+ "hentet_fra": "https://archpublichealth.biomedcentral.com/counter/pdf/10.1186/s13690-024-01411-4",
+ "hvordan": "pdf",
+ "id": "W4403637555",
+ "kilde": "Archives of Public Health",
+ "lenke": "https://openalex.org/W4403637555",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "BACKGROUND: Since 2022, Norway has employed a vaccine-only COVID-19 strategy. Primary healthcare in Norway uses International Classification of Primary Care version 2 (ICPC-2) codes. This study aims to systematically compare medically certified sick leave and primary healthcare consultations in 2023 with the pre-pandemic 2010-2019 trends, and subsequently estimate the magnitude of these changes. METHODS: For the respective outcomes of (A) working person-years lost to medically certified sick leave (WYLSL) and (B) number of primary healthcare consultations, 556 and 85 ICPC-2 code combinations were extracted from the Norwegian Labour and Welfare Administration's sick leave registry and the Norwegian Syndromic Surveillance System. For each ICPC-2 code combination, a Bayesian linear regression was performed using data between 2010 and 2019 to estimate an expected baseline for 2023, which was then used to calculate the deviation from the pre-pandemic trend. A false discovery rate of 5% was used to account for multiple testing. RESULTS: All years from 2020 to 2023 had excess WYLSL, corresponding to 14,491 (90% PI: 8,935 to 20,016) in 2020, 12,911 (90% PI: 5,916 to 19,996) in 2021, 21,263 (90% PI: 12,627 to 29,864) in 2022, and 24,466 (90% PI: 14,023 to 34,705) in 2023. This corresponded to an economic loss of approximately 1.5 billion USD in 2023. Excess WYLSL due to A* (General and unspecified) increased from 2020 to 2023, with an estimated excess of 4,136 WYLSL in 2023 (69% higher than expected). More than half of this increase was explained by A04 (Weakness/tiredness general), whose excess WYLSL in 2023 were estimated at 2,640 (80% higher than expected). The excess in A04 (Weakness/tiredness general) corresponded to an economic loss of 161 million USD and accounted for 11% of the total excess WYLSL in 2023. The excess WYLSL in R* (Respiratory) in 2023 was 3,408, which correspond to an economic loss of 207 million USD and accounted for 14% of the total excess in 2023. CONCLUSIONS: Significant excesses in working person-years lost to medically certified sick leave and primary healthcare consultations in 2023. A sizable proportion of the excesses were due to diseases/symptoms associated with acute and post-acute sequelae of COVID-19.",
+ "tittel": "Aberrations in medically certified sick leave and primary healthcare consultations in Norway in 2023 compared to pre-COVID-19-pandemic trends",
+ "type": "article"
+}

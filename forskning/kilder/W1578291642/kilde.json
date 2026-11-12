@@ -1,0 +1,16 @@
+{
+ "ar": 2010,
+ "doi": "https://doi.org/10.1111/j.1748-5991.2010.01070.x",
+ "forfattere": [
+  "Kilkon Ko",
+  "John M. Mendeloff",
+  "Wayne B. Gray"
+ ],
+ "id": "W1578291642",
+ "kilde": "Regulation & Governance",
+ "lenke": "https://openalex.org/W1578291642",
+ "oversikt": false,
+ "sammendrag": "Abstract We examined the Occupational Safety and Health Administration's (OSHA) inspections in the US to identify the effects of repeated inspections and the time between inspections on non‐compliance. Our sample included 549,398 inspections conducted from 1972 through 2006 in manufacturing plants in the 29 states where federal OSHA enforces the law. We controlled for inspection type, industry, establishment size, and year. The number of total violations cited fell by 28%–48% from the first to the second inspection; after that, the numbers declined much more slowly. These effects were found in every one of the four sub‐periods examined. The number of violations cited increased with each additional year since the prior inspection after controlling for other variables; however, the increases were small, totaling approximately 15% over five years. OSHA should probably give higher priority to first time inspections than to repeated inspections. The current requirement that at least two years elapse between planned inspections should probably be lengthened.",
+ "tittel": "The role of inspection sequence in compliance with the US Occupational Safety and Health Administration's (OSHA) standards: Interpretations and implications",
+ "type": "article"
+}

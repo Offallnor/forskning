@@ -1,0 +1,18 @@
+{
+ "apen_url": "http://hdl.handle.net/10419/201461",
+ "ar": 2018,
+ "forfattere": [
+  "Josefine Andersson"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "https://www.ifau.se/globalassets/pdf/se/2018/wp2018-23-lump-sum-severance-grants-and-the-duration-of-unemployment.pdf",
+ "hvordan": "pdf",
+ "id": "W2922028625",
+ "kilde": "RePEc: Research Papers in Economics",
+ "lenke": "https://openalex.org/W2922028625",
+ "merknad": "ÅPEN VERSJON (preprint eller arbeidsnotat), merkes i svaret",
+ "oversikt": false,
+ "sammendrag": "The well-known positive relationship between the unemployment benefit level and unemployment duration can be separated into two potential sources; a moral hazard effect, and a liquidity effect pertaining to the increased ability to smooth consumption. The latter is a socially optimal response due to credit and insurance market failures. These two effects are difficult to separate empirically, but the social optimality of an unemployment insurance policy can be evaluated by studying the effect of a non-distortionary lump-sum severance grant on unemployment durations. In this study, I evaluate the effects on unemployment duration and subsequent job quality of a lump-sum severance grant provided to displaced workers, by means of a Swedish collective agreement. I use a regression discontinuity design, based on the strict age requirement to be eligible for the grant. I find that the lump-sum grant has a positive effect on the probability of becoming unemployed and the length of the completed unemployment duration, but no effect on subsequent job quality. My analysis also indicates that spousal income is important for the consumption smoothing abilities of displaced workers, and that the grant may have a greater effect in times of more favorable labor market conditions.",
+ "tittel": "Lump-sum severance grants and the duration of unemployment",
+ "type": "preprint"
+}

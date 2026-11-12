@@ -1,0 +1,22 @@
+{
+ "apen_url": "https://cris.maastrichtuniversity.nl/en/publications/aad7f26d-88af-4853-b009-02024e14194c",
+ "ar": 2018,
+ "doi": "https://doi.org/10.1111/joes.12269",
+ "forfattere": [
+  "Melvin Vooren",
+  "Carla Haelermans",
+  "Wim  N. J. Groot",
+  "H. Maassen van den Brink"
+ ],
+ "hentet": "2026-11-08",
+ "hentet_fra": "https://scholarlypublications.universiteitleiden.nl/download/1887/138613/1?col=81522199720002711",
+ "hvordan": "pdf",
+ "id": "W2803699076",
+ "kilde": "Journal of Economic Surveys",
+ "lenke": "https://openalex.org/W2803699076",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "Abstract This paper provides a meta‐analysis of microeconometric evaluation studies on the effectiveness of active labor market policies. The analysis is built upon a systematically assembled data set of causal impact estimates from 57 experimental and quasi‐experimental studies, providing 654 estimates published between January 1990 and December 2017. We distinguish between the short and longer term impacts in our analysis; at 6, 12, 24, and 36 months after program start. After correcting for publication bias and country‐specific macroeconomic characteristics, subsidized labor and public employment programs have negative short‐term impacts, which gradually turn positive in the longer run. Schemes with enhanced services including job‐search assistance and training programs do not have these negative short‐term effects, and stay positive from 6 until 36 months after program start.",
+ "tittel": "THE EFFECTIVENESS OF ACTIVE LABOR MARKET POLICIES: A META‐ANALYSIS",
+ "type": "article"
+}

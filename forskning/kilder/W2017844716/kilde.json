@@ -1,0 +1,22 @@
+{
+ "apen_url": "https://www.tandfonline.com/doi/epdf/10.3109/02813432.2013.811943?needAccess=true&role=button",
+ "ar": 2013,
+ "doi": "https://doi.org/10.3109/02813432.2013.811943",
+ "forfattere": [
+  "Lars Carlsson",
+  "Lars Englund",
+  "Johan Hallqvist",
+  "Thorne Wallman"
+ ],
+ "hentet": "2026-11-09",
+ "hentet_fra": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3750435/fullTextXML",
+ "hvordan": "Europe PMC",
+ "id": "W2017844716",
+ "kilde": "Scandinavian Journal of Primary Health Care",
+ "lenke": "https://openalex.org/W2017844716",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "OBJECTIVE: To study the effects on sick leave from an early multidisciplinary assessment at a primary health care centre. DESIGN: Randomized controlled trial. SETTING: Patients who saw GPs at a primary health care centre in mid-Sweden and asked for a sickness certificate for psychiatric or musculoskeletal diagnoses were invited to participate. Patients included were sick-listed for less than four weeks; 33 patients were randomized either to an assessment within a week by a physiotherapist, a psychotherapist, and an occupational therapist or to \"standard care\". The therapists used methods and tools they normally use in their clinical work. MAIN OUTCOME MEASURE: Proportion of patients still sick-listed three months after randomization, total and net days on sick leave, and proportion who were on part-time sick leave. Results. At follow-up after three months, in contrast to the pre-trial hypothesis, there was a trend toward a higher proportion of patients still sick-listed in the intervention group (7/18) as compared with the control group (3/15). The intervention group also had significantly longer sick-listing periods (mean 58 days) than the control group (mean 36 days) (p = 0.038). The proportion of patients who were part time sick-listed was significantly higher in the intervention group (10/18) than in the control group (2/15) (p = 0.027). CONCLUSIONS: In this study an early multidisciplinary assessment was associated with longer periods on sick leave and more individuals on part-time sick leave.",
+ "tittel": "Early multidisciplinary assessment was associated with longer periods of sick leave: A randomized controlled trial in a primary health care centre",
+ "type": "article"
+}

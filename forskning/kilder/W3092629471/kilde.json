@@ -1,0 +1,17 @@
+{
+ "apen_url": "http://www.dises.unisa.it/RePEc/sep/wpaper/3_239.pdf",
+ "ar": 2023,
+ "doi": "https://doi.org/10.1080/00036846.2022.2159010",
+ "forfattere": [
+  "Sergio Destefanis",
+  "Matteo Fragetta",
+  "Nazzareno Ruggiero"
+ ],
+ "id": "W3092629471",
+ "kilde": "Applied Economics",
+ "lenke": "https://openalex.org/W3092629471",
+ "oversikt": false,
+ "sammendrag": "Following a panel ARDL approach, we appraise the impact of various indicators of active and passive labour-market policies within the framework of the Beveridge curve across fourteen OECD countries from 1985 to 2013, controlling for other factors, both institutional (tax wedge) and structural (technological progress, globalization). We embed the role of these variables within the specification of the Beveridge curve, finding that the generosity of unemployment benefits has a detrimental impact on labour-market matching, with the duration of benefits and the strictness of the rules pertaining to the deployment of benefits taking a key role in driving this result. Among active labour-market policies, employment incentives and especially training have a favourable effect on matching. There is evidence of a virtuous interaction between active and passive policies. A significantly detrimental role emerges for the tax wedge. These results are consistent across various specifications, and structural relationships are stable throughout the 2008–2013 period.",
+ "tittel": "Active and passive labour-market policies: the outlook from the Beveridge curve",
+ "type": "article"
+}

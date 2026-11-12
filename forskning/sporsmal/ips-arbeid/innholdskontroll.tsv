@@ -1,0 +1,16 @@
+id	svar_sier	avvik	forklaring	alvor
+kort svar	dobbelt så mange i arbeid; mindre effekt i Norden; varer men avtar; svakere ved rus; minst like stor for unge; mindre ved lette lidelser	vekt	Det blinde svaret sier det samme i retning og styrke, men legger mer vekt på at effekten for unge forsvant i det australske forsøket og at det ikke finnes nordiske data over fire år. Rettet: punktet om unge sier nå «på kort sikt» og nevner det australske forsøket, og langtidsavsnittet sier at nordisk oppfølging over fire år mangler.	middels
+W3206833498	36 mot 33 prosent i arbeid etter seks år	mangler forbehold	Bare 114 av 250 deltok i oppfølgingen, og tabell 2 har andre tall for ordinært arbeid enn sammendraget. Rettet: frafallet står i svaret. Spriket i tall er ikke brukt i svaret.	middels
+W4390697352	5,6 og 10,5 flere arbeidsdager ved IPS-innføring i én kommune	mangler forbehold	Forfatterne kaller det en n = 1-studie som må replikeres. Rettet.	middels
+W2344919484	høyere odds for arbeid over tretten år, effekten avtok	mangler forbehold	Sammendraget sier at effekten var helt borte til slutt. Rettet.	lav
+W2971662801	flere timer med IPS etter atten måneder, KI inkluderer null	ingen	Svaret tar høyde for spriket mellom KI og p-verdi i sammendraget.	lav
+W3196725163	effekten varierte mellom sentrene	ingen	Spriket i teksten om hvilke sentre som hadde effekt, er ikke gjengitt i svaret.	lav
+W1996383920	13 mot 7 prosent etter ett år, ingen sikker effekt	ingen	Svaret bruker andelene, ikke RR 1,35 som ikke stemmer med andelene.	lav
+W3206158820	om lag fem prosentpoeng, ikke signifikant	ingen	Svaret bruker effekten av tilbudet, ikke den ikke-eksperimentelle effekten av praksisplass.	lav
+KU-7dc2d886-f49c-4f6c-bb44-20be6225f058	høyere arbeidsdeltakelse etter enn før, ingen kontrollgruppe	ingen	Svaret bruker ikke årsaksspråket i rapporten.	lav
+W3092528766	8–9 prosentpoeng, ikke signifikant etter tjue måneder	ingen	Svaret tar med at effekten forsvinner.	lav
+W2167890993	6,9 prosentpoeng etter tolv måneder	ingen	Undergruppen på langvarige ytelser er omtalt som undergruppe.	lav
+W2885000375	ingen signifikant effekt over lengre tid, unntatt for langvarige ytelser	ingen	Hovedutfallet og undergruppen er skilt.	lav
+W2948462152	48 mot 8 prosent, lite forsøk	ingen	Utvalget (nittiseks) står i svaret.	lav
+W4412642570	ingen forskjell i andel i arbeid, flere timer og høyere lønn	ingen	Samme budskap som forfatterne. Svaret sier at tallene er fra sammendraget.	lav
+NB-6618	Senter for jobbmestring: 0,4, 1,4 og 1,2 måneder mer i arbeid eller utdanning, størst for nedsatt arbeidsevne, ikke randomisert	ingen	Blind lesing gir samme tall, retning og forbehold (AIPW, ikke randomisert, sykmeldte ikke tolket kausalt). Nyanse ikke tatt med: mot andre oppfølgingstiltak øker AAP for gruppen med nedsatt arbeidsevne (vedlegg E), bare uføretrygden går ned. Svaret omtaler ikke ytelsesutfall, så ingen retting.	lav

@@ -1,0 +1,21 @@
+{
+ "ar": 2014,
+ "doi": "https://doi.org/10.1093/eurpub/cku016",
+ "forfattere": [
+  "Maj Britt Dahl Nielsen",
+  "Jørgen Vinsløv Hansen",
+  "Birgit Aust",
+  "Torill Tverborgvik",
+  "Birthe Lykke Thomsen",
+  "Jakob Bue Bjørner",
+  "Ole Steen Mortensen",
+  "Reiner Rugulies"
+ ],
+ "id": "W2087092263",
+ "kilde": "European Journal of Public Health",
+ "lenke": "https://openalex.org/W2087092263",
+ "oversikt": false,
+ "sammendrag": "BACKGROUND: In 2010, the Danish Government launched the Danish national return-to-work (RTW) programme to reduce sickness absence and promote labour market attainment. Multidisciplinary teams delivered the RTW programme, which comprised a coordinated, tailored and multidisciplinary effort (CTM) for sickness absence beneficiaries at high risk for exclusion from the labour market. The aim of this article was to evaluate the effectiveness of the RTW programme on self-support. METHODS: Beneficiaries from three municipalities (denoted M1, M2 and M3) participated in a randomized controlled trial. We randomly assigned beneficiaries to CTM (M1: n = 598; M2: n = 459; M3: n = 331) or to ordinary sickness absence management (OSM) (M1: n = 393; M2: n = 324; M3: n = 95). We used the Cox proportional hazards model to estimate hazard ratios (HR) comparing rates of becoming self-supporting between beneficiaries receiving CTM and OSM. RESULTS: In M2, beneficiaries from employment receiving CTM became self-supporting faster compared with beneficiaries receiving OSM (HR = 1.32, 95% CI: 1.08-1.61). In M3, beneficiaries receiving CTM became self-supporting slower than beneficiaries receiving OSM (HR = 0.72, 95% CI: 0.54-0.95). In M1, we found no difference between the two groups (HR = 0.99, 95% CI: 0.84-1.17). CONCLUSION: The effect of the CTM programme on return to self-support differed substantially across the three participating municipalities. Thus, generalizing the study results to other Danish municipalities is not warranted. TRIAL REGISTRATION: ISRCTN43004323.",
+ "tittel": "A multisite randomized controlled trial on time to self-support among sickness absence beneficiaries. The Danish national return-to-work programme",
+ "type": "article"
+}

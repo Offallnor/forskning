@@ -1,0 +1,21 @@
+{
+ "ar": 2005,
+ "doi": "https://doi.org/10.1001/archpsyc.62.5.505",
+ "forfattere": [
+  "Judith Α. Cook",
+  "H. Stephen Leff",
+  "Crystal R. Blyler",
+  "Paul B. Gold",
+  "Richard W. Goldberg",
+  "Kim T. Mueser",
+  "Marcia G. Toprac",
+  "William R. McFarlane"
+ ],
+ "id": "W2124049088",
+ "kilde": "Archives of General Psychiatry",
+ "lenke": "https://openalex.org/W2124049088",
+ "oversikt": false,
+ "sammendrag": "CONTEXT: National probability surveys indicate that most individuals with schizophrenia and other severe mental illnesses are not employed. This multisite study tested the effectiveness of supported employment (SE) models combining clinical and vocational rehabilitation services to establish competitive employment. METHODS: We randomly assigned 1273 outpatients with severe mental illness from 7 states in the United States to an experimental SE program or to a comparison or a services-as-usual condition, with follow-up for 24 months. Participants were interviewed semiannually, paid employment was tracked weekly, and vocational and clinical services were measured monthly. Mixed-effects random regression analysis was used to predict the likelihood of competitive employment, working 40 or more hours in a given month, and monthly earnings. RESULTS: Cumulative results during 24 months show that experimental group participants (359/648 [55%]) were more likely than those in the comparison programs (210/625 [34%]) to achieve competitive employment (chi(2) = 61.17; P<.001). Similarly, patients in experimental group programs (330/648 [51%]) were more likely than those in comparison programs (245/625 [39%]) to work 40 or more hours in a given month (chi(2) = 17.66; P<.001). Finally, participants in experimental group programs had significantly higher monthly earnings than those in the comparison programs (mean, US 122 dollars/mo [n=639] vs US 99 dollars/mo [n=622]); t(1259) = -2.04; P<.05). In the multivariate longitudinal analysis, experimental condition subjects were more likely than comparison group subjects to be competitively employed, work 40 or more hours in a given month, and have higher earnings, despite controlling for demographic, clinical, work history, disability beneficiary status, and study site confounders. Moreover, the advantage of experimental over comparison group participants increased during the 24-month study period. CONCLUSION: The SE models tailored by integrating clinical and vocational services were more effective than services as usual or unenhanced services.",
+ "tittel": "Results of a Multisite Randomized Trial of Supported Employment Interventions for Individuals With Severe Mental Illness",
+ "type": "article"
+}

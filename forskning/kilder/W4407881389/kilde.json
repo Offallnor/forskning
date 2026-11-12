@@ -1,0 +1,23 @@
+{
+ "apen_url": "https://doi.org/10.1186/s12889-025-21911-4",
+ "ar": 2025,
+ "doi": "https://doi.org/10.1186/s12889-025-21911-4",
+ "forfattere": [
+  "Esmee Bosma",
+  "Diana Grigore",
+  "Femke I. Abma",
+  "Karin Ingeborg Proper",
+  "Bette Loef"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "https://link.springer.com/content/pdf/10.1186/s12889-025-21911-4.pdf",
+ "hvordan": "pdf",
+ "id": "W4407881389",
+ "kilde": "BMC Public Health",
+ "lenke": "https://openalex.org/W4407881389",
+ "merknad": "",
+ "oversikt": true,
+ "sammendrag": "BACKGROUND: Despite the large body of research on interventions aimed at preventing sick leave, the evidence is scattered and a comprehensive overview is lacking. Therefore, this scoping review of reviews aims to provide an overview of evidence-based interventions to prevent sick leave. METHODS: Embase and PsycInfo were systematically searched for reviews published between January 2000-January 2024. A review was included when at least one of the included original intervention studies fulfilled three criteria: (1) target group was active workers not on sick leave, (2) sick leave was studied as outcome, and (3) the intervention was evaluated using a controlled design. Results were descriptively summarized and grouped based on the cause of sick leave and type of intervention they focused on. Furthermore, the effectiveness in preventing sick leave was reported. RESULTS: Twenty-eight reviews were included. Eight reviews focused on preventing sick leave due to physical health problems, ten on mental health problems, and ten on all-cause sick leave. Overall, the reviews identified a lack of effective interventions to prevent sick leave. However, multi-component interventions consisting of both individual and environmental components aimed at workers' lifestyle and aimed at mental health were promising to prevent sick leave in the general working population (e.g. workplace mental health promotion intervention). Furthermore, certain specific interventions targeting workers at risk were effective. Examples are cognitive behavioral therapy programs for workers with anxiety and depression, and consultation with occupational medical staff for workers at high risk for sick leave. Lastly, exercise programs were most effective in preventing sick leave due to physical health problems (e.g. exercise for low back pain prevention). CONCLUSIONS: This scoping review identified reviews on sick leave prevention across a broad scope of health problems, types of interventions, and target groups. Although a few effective interventions for preventing sick leave were identified, the included reviews indicate a limited availability of effective interventions. Therefore, more randomized controlled trials with long-term follow-up that include sick leave as outcome are needed. To develop more effective interventions, further research is needed on better integrating the workplace environment, and on understanding barriers and facilitators to successful implementation.",
+ "tittel": "Evidence-based interventions to prevent sick leave: a scoping review of reviews",
+ "type": "review"
+}

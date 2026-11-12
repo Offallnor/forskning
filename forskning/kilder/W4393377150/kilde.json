@@ -1,0 +1,20 @@
+{
+ "apen_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/1475-679X.12541",
+ "ar": 2021,
+ "doi": "https://doi.org/10.1111/1475-679x.12541",
+ "forfattere": [
+  "Aneesh Raghunandan",
+  "THOMAS G. RUCHTI"
+ ],
+ "hentet": "2026-11-08",
+ "hentet_fra": "http://eprints.lse.ac.uk/122404/1/Raghunandan_the_impact_of_information_frictions_within_regulators_published.pdf",
+ "hvordan": "pdf",
+ "id": "W4393377150",
+ "kilde": "Journal of Accounting Research",
+ "lenke": "https://openalex.org/W4393377150",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "ABSTRACT The Occupational Safety and Health Administration (OSHA) is decentralized, wherein field offices coordinated at the state level undertake inspections. We study whether this structure can lead to interstate frictions in sharing information and how this impacts firms’ compliance with workplace safety laws. We find that firms caught violating in one state subsequently violate less in that state but violate more in other states. Despite this pattern, and in keeping with information frictions, violations in one state do not trigger proactive OSHA inspections in other states. Moreover, firms face lower monetary penalties when subsequent violations occur across state lines, likely due to the lack of documentation necessary to assess severe penalties. Finally, firms are more likely to shift violating behavior into states with greater information frictions. Our findings suggest that internal information within regulators impacts the likelihood and location of corporate misconduct.",
+ "tittel": "Real Effects of Information Frictions Within Regulators: Evidence from Workplace Safety Violations",
+ "type": "article"
+}

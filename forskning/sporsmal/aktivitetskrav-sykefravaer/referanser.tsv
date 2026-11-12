@@ -1,0 +1,133 @@
+id	bakover	forover	uttrykk	ar	oversikt	siteringer	persentil	sammendrag	allerede_kandidat	tittel	kilde
+W2049901974	5	0	sickness insurance	2005	False	225	0.97648669	False	True	Moral hazard and sickness insurance	Journal of Public Economics
+W1964352664	4	0		2003	False	974	0.99912816	True	True	The Rise in the Disability Rolls and the Decline in Unemployment	The Quarterly Journal of Economics
+W2117380222	4	0		2007	False	526	0.994801	True	True	Is Work Good for Your Health and Well-Being?	Occupational Medicine
+W2797417805	4	0		2002	False	192	0.99182405	True	True	Assessing the Effect of Public Policy on Worker Absenteeism	The Journal of Human Resources
+W3124756840	4	0		2010	False	104	0.97690877	False	False	The effects of a sick pay reform on absence and on health-related outcomes	Journal of Health Economics
+W2004877180	3	0		1984	False	2733	0.99983984	True	False	A Method for Minimizing the Impact of Distributional Assumptions in Econometric Models for Duration Data	Econometrica
+W1591629962	3	0		2001	False	1137	0.99835346	False	True	Duration Models: Specification, Identification and Multiple Durations	Handbook of econometrics
+W2069757101	3	0		2003	False	586	0.99555893	True	False	The Nonparametric Identification of Treatment Effects in Duration Models	Econometrica
+W2121407100	3	0		2006	False	451	0.99936968	True	False	The Growth in the Social Security Disability Rolls: A Fiscal Crisis Unfolding	The Journal of Economic Perspectives
+W2131976333	3	0		1996	False	227	0.96745781	False	True	Do economic incentives affect work absence? Empirical evidence using Swedish micro data	Journal of Public Economics
+W2151416414	3	0		2010	False	173	0.98887337	False	False	The anatomy of absenteeism	Journal of Health Economics
+W3040771904	3	0		2010	False	165	0.98145196	False	True	A natural experiment on sick pay cuts, sickness absence, and labor costs	Journal of Public Economics
+W3121313943	3	0		2009	False	101	0.89743469	False	True	Long-Term Absenteeism and Moral Hazard - Evidence from a Natural Experiment	Labour Economics
+W3123410700	3	0		2014	False	64	0.97981069	True	True	The Sick Pay Trap	Journal of Labor Economics
+W2905416654	1	2		2018	False	3	0.2002904	True	True	J ob sick leave: Detecting opportunistic behavior	Health Economics
+W2124758339	2	0		2001	False	27643		True	False	Econometric Analysis of Cross Section and Panel Data	RePEc: Research Papers in Economics
+W2170921686	2	0		1998	False	2386	1.0	True	False	What Makes an Entrepreneur?	Journal of Labor Economics
+W1711424507	2	0		2004	False	1298	1.0	True	False	The Economics of Self-Employment and Entrepreneurship	Cambridge University Press eBooks
+W2046300211	2	0		2001	False	839	0.97502747	True	False	Type of employment, work–family conflict and well‐being: a comparative study	Journal of Organizational Behavior
+W3122089893	2	0		2005	False	504	0.99943278	True	False	The Effect of Unemployment Insurance Sanctions on the Transition Rate from Unemployment to Employment	The Economic Journal
+W2111583974	2	0		2002	False	479		False	False	What Works and for Whom: A Review of OECD Countries' Experiences with Active Labour Market Policies	SSRN Electronic Journal
+W2147004703	2	0		2004	True	465	0.86241007	True	True	Chapter 5. Risk factors for sick leave - general studies	Scandinavian Journal of Public Health
+W2169015557	2	0		2005	False	396	0.98991657	True	False	The Effect of Employment Protection on Worker Effort: Absenteeism during and after Probation	Journal of the European Economic Association
+W1970361948	0	2		2012	False	383	0.99937079	True	False	Long-Term Effects of Class Size *	The Quarterly Journal of Economics
+W2101769799	2	0		2000	False	382	0.99969851	True	False	The Wage and Employment Effects of the Americans with Disabilities Act	The Journal of Human Resources
+W4309368146	2	0		2022	True	363	0.99465955	False	False	The Role of Mental Health on Workplace Productivity: A Critical Review of the Literature	Applied Health Economics and Health Policy
+W2106358002	2	0		2014	False	336	0.9985217	True	False	When Strong Ties are Strong: Networks and Youth Labour Market Entry	The Review of Economic Studies
+W1520618467	2	0		2006	False	301		False	False	The Effectiveness of European Active Labor Market Policy	SSRN Electronic Journal
+W4248203204	2	0		2010	False	231	0.99415205	True	True	Sickness, Disability and Work: Breaking the Barriers	OECD eBooks
+W2007121861	0	2		2015	False	194	0.9980351	True	False	Long-Term Intergenerational Persistence of Human Capital	The Journal of Human Resources
+W1535387382	2	0		2007	False	167	0.9903351	False	True	Time and causality: A Monte Carlo assessment of the timing-of-events approach	Journal of Econometrics
+W3125708417	2	0		2005	False	160	0.98181394	True	True	Unemployment, labor force composition and sickness absence: a panel data study	Health Economics
+W2008603000	2	0		1991	False	151	0.91575972	True	False	Worker Absenteeism: An Analysis Using Microdata	The Economic Journal
+W2141786694	2	0		2004	False	146	0.99062574	False	True	Incentives and selection in cyclical absenteeism	Labour Economics
+W1976952884	2	0		2007	False	138	0.97826249	True	False	Time Use of the Self‐Employed	Kyklos
+W2326189071	2	0	sickness insurance	2013	False	125	0.98732566	True	True	THE EFFECTS OF EXPANDING THE GENEROSITY OF THE STATUTORY SICKNESS INSURANCE SYSTEM	Journal of Applied Econometrics
+W2100045333	0	2		2015	False	109	0.9752672	True	False	Instrumental Variable Estimation of the Causal Effect of Hunger Early in Life on Health Later in Life	The Economic Journal
+W2148005652	0	2	case management	2011	True	84	0.90429043	True	True	Assembling the evidence jigsaw: insights from a systematic review of UK studies of individual-focused return to work initiatives for disabled and long-term ill people	BMC Public Health
+W1874026758	0	2		2015	False	74	0.98986611	True	False	The Headmaster Ritual: The Importance of Management for School Outcomes	Scandinavian Journal of Economics
+W2094871515	2	0		2013	False	61	0.9150379	True	True	The effectiveness of a construction worksite prevention program on work ability, health, and sick leave: results from a cluster randomized controlled trial	Scandinavian Journal of Work Environment & Health
+W1867846268	2	0		2012	False	60	0.94349979	True	False	DURATION DEPENDENCE VERSUS UNOBSERVED HETEROGENEITY IN TREATMENT EFFECTS: SWEDISH LABOR MARKET TRAINING AND THE TRANSITION RATE TO EMPLOYMENT	Journal of Applied Econometrics
+W2129153957	2	0		2014	False	57	0.97601075	True	True	Sickness Absence, Moral Hazard, and the Business Cycle	Health Economics
+W2890019383	2	0		2011	False	49		False	False	The Effect of Education Policy on Crime: An Intergenerational Perspective	SSRN Electronic Journal
+W2113053271	0	2		2012	False	47	0.95760334	False	False	Income inequality and health: Lessons from a refugee residential assignment program	Journal of Health Economics
+W2793267873	2	0		2018	False	44	0.95744681	True	True	A kink that makes you sick: The effect of sick pay on absence	Journal of Applied Econometrics
+W900768955	0	2		2015	False	39	0.8768501	False	True	Long-term sick leave and the impact of a graded return-to-work program: evidence from Germany	The European Journal of Health Economics
+W1559509762	2	0		2014	False	34	0.92956421	True	False	Absence from Work of the Self‐Employed: A Comparison with Paid Employees	Kyklos
+W3121447508	2	0		2015	False	34	0.94418338	True	False	Is Welfare Dependency Inherited? Estimating Causal Welfare Transmission Effects Using Swedish Sibling Data	European Journal of Social Security
+W3124194880	2	0		2004	False	34		False	False	Disaggregating Employment Protection: The Case of Disability Discrimination	SSRN Electronic Journal
+W2474540477	1	1	case management	2016	False	33	0.83872222	True	True	Cooperation of return-to-work professionals: the challenges of multi-actor work disability management	Disability and Rehabilitation
+W2039845653	0	2		2014	False	29	0.89207833	False	False	Cross-border health and productivity effects of alcohol policies	Journal of Health Economics
+W2041606073	2	0		2009	False	28	0.84361715	False	True	The determinants of sick leave durations of Dutch self-employed	Journal of Health Economics
+W2131859699	2	0		2005	False	28		True	True	Estimating the Impact of Experience Rating on the Inflow into Disability Insurance in the Netherlands	RePEc: Research Papers in Economics
+W1989125582	2	0	case management	2002	False	27	0.88247461	True	True	Improved cooperation in vocational rehabilitation with systematic rehabilitation group meetings	Disability and Rehabilitation
+W2558055076	2	0		2016	False	27	0.91215165	True	True	Effectiveness of an Intervention to Enhance Occupational Physicians’ Guideline Adherence on Sickness Absence Duration in Workers with Common Mental Disorders: A Cluster-Randomized Controlled Trial	Journal of Occupational Rehabilitation
+W2083279270	1	1	sickness insurance	2007	False	21	0.87907384	False	False	Benefit shifting: The case of sickness insurance for the unemployed	Labour Economics
+W2098963500	0	2		2013	False	18	0.96427405	False	False	Workfare for the old and long-term unemployed	Labour Economics
+W1510823812	2	0		2011	False	15		True	False	Are homosexuals discriminated against in the hiring process	RePEc: Research Papers in Economics
+W1587091531	0	2		2012	False	12		True	False	Mothers' income recovery after childbearing	RePEc: Research Papers in Economics
+W1509938518	2	0		2011	False	11		True	False	Fattig, sjuk och arbetslös – en beskrivning av personer i kläm mellan stat och kommun	RePEc: Research Papers in Economics
+W3121277456	2	0		2011	False	11		False	False	Inference for Shared-Frailty Survival Models with Left-Truncated Data	SSRN Electronic Journal
+W70665075	2	0		2011	False	11	0.86160304	True	False	Omvårdnadsprogrammet : genomströmning, etableringsgrad och utbildningens relevans	
+W2109330908	0	2		2012	False	10		True	False	Labour supply responses to paid parental leave	RePEc: Research Papers in Economics
+W2146060803	0	2		2017	False	10	0.85409155	False	False	The value of earning for learning: Performance bonuses in immigrant language training	Economics of Education Review
+W3198970057	2	0		2011	False	9	0.97928923	True	False	Studieresultat för studenter med barn	
+W1572536547	2	0	sickness insurance	2011	False	8		True	True	Substitution between temporary parental leave and sickness absence	RePEc: Research Papers in Economics
+W3182974352	2	0		2011	False	8	0.951757	True	False	Sociala kontakter och ungdomars inträde på arbetsmarknaden	
+W3185920310	2	0		2011	False	8	0.94849651	True	False	Inkomster och fattigdom hos före detta socialbidragstagare	
+W4232678859	2	0		2018	False	8	0.41481395	True	False	Disability Pensions in Finland	Routledge eBooks
+W2287791385	2	0		2011	False	6		False	False	The Role of Marriage in the Causal Pathway from Economic Conditions Early in Life to Mortality	SSRN Electronic Journal
+W3185498031	2	0		2011	False	6	0.93902707	True	False	Överströmning mellan tillfällig föräldrapenning och sjukskrivning – effekter av utökad kontroll av den tillfälliga föräldrapenningen	
+W2115753110	0	2		2012	False	5		True	False	Endogenous tie formation mechanisms in a directed network generated by employee mobility	RePEc: Research Papers in Economics
+W94160055	0	2		2012	False	5		True	False	University entrance selection and age at admission	RePEc: Research Papers in Economics
+W1514767137	0	2		2012	True	4	0.01187757	True	False	The relationship between psychosocial work factors, employee health and organisational production – a systematic review	Econstor (Econstor)
+W2735317713	2	0		2012	False	4		False	False	Labor market policy and participation over the life cycle	Data Archiving and Networked Services (DANS)
+W2123787058	0	2		2012	False	3		True	True	Workplace size and sickness absence transitions	RePEc: Research Papers in Economics
+W587927453	0	2		2012	False	1		True	False	Measuring workers' health and psychosocial work-environment on firm productivity	Econstor (Econstor)
+W2969630301	0	2		2019	False	0		False	True	Beskæftigelsesrettet rehabilitering: En evaluering af Hjørring Kommunes investering på beskæftigelsesområdet	VBN Forskningsportal (Aalborg Universitet)
+W1517185146	1	0	workplace intervention	2016	True	403	0.98660104	True	True	Workplace interventions for reducing sitting at work	Cochrane Database of Systematic Reviews
+W2144706987	1	0	workplace intervention	2013	True	372	0.93196203	True	False	A systematic review of workplace health promotion interventions for increasing physical activity	British Journal of Health Psychology
+W2947770535	1	0	workplace intervention	2019	True	344	0.96105582	True	True	The effectiveness of workplace health promotion interventions on physical and mental health outcomes – a systematic review of reviews	Scandinavian Journal of Work Environment & Health
+W2995485787	1	0	workplace intervention	2019	True	318	0.92340978	True	True	The effectiveness of workplace nutrition and physical activity interventions in improving productivity, work performance and workability: a systematic review	BMC Public Health
+W2613386087	0	1	case management	2017	False	282	0.99905816	True	True	Process evaluation of an interorganizational cooperation initiative in vocational rehabilitation: the Dirigo project	BMC Public Health
+W1575495899	1	0	workplace intervention	2017	True	217	0.94444444	True	False	Interventions for prevention of bullying in the workplace	Cochrane Database of Systematic Reviews
+W2122128832	1	0	workplace intervention	2013	True	183	0.9878459	True	True	Evidence-based lifestyle interventions in the workplace--an overview	Occupational Medicine
+W2097280185	1	0	workplace intervention	2004	True	180	0.8045977	True	True	Low back pain interventions at the workplace: a systematic literature review	Occupational Medicine
+W3011779158	1	0	workplace intervention	2020	True	118	0.86972917	True	True	Effectiveness of Workplace Interventions for Improving Absenteeism, Productivity, and Work Ability of Employees: A Systematic Review and Meta-Analysis of Randomized Controlled Trials	International Journal of Environmental Research and Public Health
+W2142951268	1	0	case management	2004	True	110	0.52248201	True	True	Chapter 11. Physicians' sick-listing practices	Scandinavian Journal of Public Health
+W2001903400	1	0	sickness insurance	2006	False	95	0.98648082	True	True	Sick of Being Unemployed? Interactions between Unemployment and Sickness Insurance	Scandinavian Journal of Economics
+W2118102507	1	0	early intervention	2010	False	91	0.97966035	True	True	Faster return to work after psychiatric consultation for sicklisted employees with common mental disorders compared to care as usual. A randomized clinical trial	Neuropsychiatric Disease and Treatment
+W2528909801	0	1	workplace intervention	2016	True	76	0.82638889	True	True	Sustaining Work Participation Across the Life Course	Journal of Occupational Rehabilitation
+W2071389788	1	0	sickness insurance	2012	False	68	0.96796657	True	True	General practitioners' experiences with sickness certification: a comparison of survey data from Sweden and Norway	BMC Family Practice
+W2038370188	1	0	sickness insurance	2004	False	64	0.97703895	True	True	Reporting sick: are sporting events contagious?	Journal of Applied Econometrics
+W2318601114	0	1	sickness benefit	2016	False	56	0.98916925	True	False	Has the participation of older employees in the workforce increased? Study of the total Swedish population regarding exit from working life	Scandinavian Journal of Public Health
+W3207281050	1	0	workplace intervention	2021	False	56		True	False	Decades of workplace health promotion research: marginal gains or a bright future ahead	Scandinavian Journal of Work Environment & Health
+W3130988709	1	0	workplace intervention	2021	False	47	0.95707428	True	False	Can Working Conditions and Employees’ Mental Health Be Improved via Job Stress Interventions Designed and Implemented by Line Managers and Human Resources on an Operational Level?	International Journal of Environmental Research and Public Health
+W2170646818	1	0	workplace intervention	2010	True	46	0.5	True	True	Workplace management of upper limb disorders: a systematic review	Occupational Medicine
+W2153249443	1	0	sickness benefit	2010	False	39	0.95652509	True	True	Low level of adjustment latitude--a risk factor for sickness absence	European Journal of Public Health
+W1536661632	1	0	early intervention	1999	False	36	0.94171493	True	False	Improving return-to-work strategies in the United States disability programs, with analysis of program practices in Germany and Sweden.	PubMed
+W2006877309	1	0	case management	2005	False	35	0.86059454	False	True	Case management interviews and the return to work of disabled employees	Journal of Health Economics
+W2157400554	0	1	case management	2014	False	33	0.95719078	True	False	Organizing integrated care in a university hospital: application of a conceptual framework	International Journal of Integrated Care
+W3125893180	1	0	sickness insurance	2007	False	30		True	False	Moral hazard among the sick and unemployed: evidence from a Swedish social insurance reform	RePEc: Research Papers in Economics
+W2104547524	1	0	sickness insurance;sickness benefit	2007	False	24		True	True	Incentive and spill-over effects of supplementary sickness compensation *	RePEc: Research Papers in Economics
+W2780661872	0	1	workplace intervention	2017	False	23	0.93291592	True	True	Working environment and work retention	TemaNord
+W631189548	1	0	sickness insurance	2008	False	23	0.99369675	True	True	Empirical studies of public policies within the primary school and the sickness insurance	
+W2162577974	1	0	sickness insurance	2013	False	22	0.95073653	True	True	Social Behaviour in Work Absence*	Scandinavian Journal of Economics
+W2991134608	1	0	oppfølging av sykmeldte	2009	False	21		True	False	Evaluering av IA-avtalen (2001-2009)	NORA - Norwegian Open Research Archives
+W1968233640	0	1	case management	2014	False	19	0.88647238	True	True	Rationale, design and methods of the Study of Work and Pain (SWAP): a cluster randomised controlled trial testing the addition of a vocational advice service to best current primary care for patients with musculoskeletal pain (ISRCTN 52269669)	BMC Musculoskeletal Disorders
+W2265514335	0	1	early intervention	2015	False	16	0.9804401	False	True	Bridging the Gap: Evidence-Informed Early Intervention Practices for Injured Workers with Nonvisible Disabilities	Handbooks in health, work, and disability
+W2832464348	0	1	case management	2018	False	16	0.89389951	True	True	The Development and Content of the Vocational Advice Intervention and Training Package for the Study of Work and Pain (SWAP) Trial (ISRCTN 52269669)	Journal of Occupational Rehabilitation
+W3058769525	0	1	sickness benefit	2020	False	16	0.87787663	True	True	Do workplace health-promotion interventions targeting employees with poor health reduce sick-leave probability and disability rates?	Scandinavian Journal of Public Health
+W1569857237	1	0	gatekeeper	2009	False	14		True	False	The Gate is Open: Primary Care Physicians as Social Security Gatekeepers	RePEc: Research Papers in Economics
+W3133809292	0	1	case management	2021	False	14	0.83964866	True	True	A case management occupational health model to facilitate earlier return to work of NHS staff with common mental health disorders: a feasibility study	Health Technology Assessment
+W4391657702	0	1	sickness benefit	2024	False	14	0.97363326	True	False	Effectiveness of the Coordinated Return to Work model after orthopaedic surgery for lumbar discectomy and hip and knee arthroplasty: a register-based study	Occupational and Environmental Medicine
+W4289783517	0	1	early intervention	2022	True	13	0.90152271	True	False	Developing A Conceptual Framework for Early Intervention Vocational Rehabilitation for People Following Spinal Cord Injury	Journal of Occupational Rehabilitation
+W1508185495	1	0	sickness insurance	2013	False	12	0.73114573	True	False	Sickness certification at oncology clinics: perceived problems, support, need for education and reasons for certifying unnecessarily long sickness absences	European Journal of Cancer Care
+W2800470776	1	0	early intervention;workplace intervention	2018	False	11	0.78858802	True	True	Measuring the effectiveness of workplace health management programs: An Australian example	Preventive Medicine Reports
+W3015990091	1	0	gatekeeper	2020	False	11	0.8162598	True	True	Why physicians are lousy gatekeepers: Sicklisting decisions when patients have private information on symptoms	Health Economics
+W3081860426	0	1	sickness insurance;sickness benefit	2020	False	11	0.85171488	True	True	Social insurance reform and absenteeism in Vietnam	International Journal of Social Welfare
+W2626377081	0	1	sickness benefit	2017	False	10	0.83425842	True	True	Protocol for the effect evaluation of independent medical evaluation after six months sick leave: a randomized controlled trial of independent medical evaluation versus treatment as usual in Norway	BMC Public Health
+W3000937778	1	0	case management	2020	False	10	0.86004246	True	True	Does adding case management to standard rehabilitation affect functional ability, pain, or the rate of return to work after lumbar spinal fusion? A randomized controlled trial with two-year follow-up	Clinical Rehabilitation
+W2513720233	0	1	workplace intervention	2016	False	9	0.82814742	True	True	Early Workplace Intervention to Improve the Work Ability of Employees with Musculoskeletal Disorders in a German University Hospital—Results of a Pilot Study	Healthcare
+W3003740306	0	1	dialogue meeting;convergence dialogue;workplace intervention	2020	False	9	0.84233418	True	True	Long-term effects on function, health-related quality of life and work ability after structured physiotherapy including a workplace intervention. A secondary analysis of a randomised controlled trial (WorkUp) in primary care for patients with neck and/or back pain	Scandinavian Journal of Primary Health Care
+W4401385156	1	0	time limit	2024	False	8	0.90632933	True	True	Is a Problem-Solving Intervention with Workplace Involvement for Employees on Sickness Absence Due to Common Mental Disorders More Effective, than Care as Usual, in Reducing Sickness Absence Days? Results of a Cluster-Randomised Controlled Trial in Primary Health Care	Journal of Occupational Rehabilitation
+W2535053210	0	1	early intervention	2014	False	5	0.85600206	True	False	What Is 'Early Intervention' for Work Related Difficulties for People with Multiple Sclerosis? A Case Study Report	Journal of Neurology & Neurophysiology
+W7165547590	0	1	workplace intervention;workplace-based	2026	True	5	0.9866548	True	False	Workplace interventions for chronic musculoskeletal disorders: a systematic review	BMJ Open
+W4410894529	0	1	workplace-based	2025	False	3	0.86734694	True	True	Line manager perspectives on workplace-based efforts to reduce sickness absence: a qualitative study	International Journal of Qualitative Studies on Health and Well-Being
+W1844117314	1	0	sickness benefit	2010	False	2		True	True	Differences in Sick Leave Between Employed and Unemployed Workers. What Do They Tell Us About the Health Dimension of Unemployment	Econstor (Econstor)
+W2281945987	0	1	case management	2016	False	2	0.0099169	True	False	Implementation of a Return to Work Strategy in Germany—Are There Changes in Work-Related Rehabilitation Measures and Employment Status in Chronic Conditions?	Open Journal of Therapy and Rehabilitation
+W2943900046	0	1	early intervention	2019	False	0	0.10487288	False	True	Importance of Early Intervention and Early Return to Work in Reducing Absence	Springer eBooks
+W4414870978	0	1	case management	2025	False	0	0.19090472	True	False	Trying to create a system that doesn’t exist: Pathways from day activity centres to labour market participation for people with intellectual disabilities in Norway	Journal of Intellectual Disabilities
+W7214124246	0	1	early intervention	2026	False	0	0.67245844	True	True	Economic Evaluation of an Indicated Prevention Strategy Focused on Future Long-Term Sickness Absence	Journal of Occupational Rehabilitation

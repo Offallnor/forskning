@@ -1,0 +1,15 @@
+{
+ "ar": 2019,
+ "doi": "https://doi.org/10.1080/13504851.2019.1646858",
+ "forfattere": [
+  "Lorenzo Ductor",
+  "Daryna Grechyna"
+ ],
+ "id": "W2965686042",
+ "kilde": "Applied Economics Letters",
+ "lenke": "https://openalex.org/W2965686042",
+ "oversikt": false,
+ "sammendrag": "We estimate the robust determinants of the inflow rate into and outflow rate from unemployment in a sample of OECD countries, using Bayesian model averaging approach to overcome model uncertainty. We find that the main determinant of outflows from unemployment is expenditure on passive labour market policies, while the main determinant of inflows into the unemployment is the duration of benefit entitlement.",
+ "tittel": "Determinants of ins and outs of unemployment",
+ "type": "article"
+}

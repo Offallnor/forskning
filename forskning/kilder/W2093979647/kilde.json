@@ -1,0 +1,15 @@
+{
+ "apen_url": "http://urn.kb.se/resolve?urn=urn:nbn:se:su:diva-20909",
+ "ar": 2009,
+ "doi": "https://doi.org/10.1111/j.1467-9914.2009.00455.x",
+ "forfattere": [
+  "Pathric Hägglund"
+ ],
+ "id": "W2093979647",
+ "kilde": "Labour",
+ "lenke": "https://openalex.org/W2093979647",
+ "oversikt": false,
+ "sammendrag": "Abstract This paper investigates the impact of the unemployment insurance (UI) entrance requirement on employment duration among earlier unemployed in Sweden. I exploit changes in the rules taking place in 1994 and 1997 to study behavioural adjustments in the timing of job separation in 1992, 1996, and 1998, respectively. Performing across‐year analyses with years involving different working requirements, I find some evidence of clustering of job exits at the time of UI qualification. By using predicted hazard rates for each week, I calculate an approximate 2.3‐week extension in average employment duration between 1996 and 1998, due to the 5‐week prolonging of the entrance requirement.",
+ "tittel": "Effects of Changes in the Unemployment Insurance Eligibility Requirements on Job Duration — Swedish Evidence",
+ "type": "article"
+}

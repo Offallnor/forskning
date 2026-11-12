@@ -1,0 +1,15 @@
+{
+ "apen_url": "http://hdl.handle.net/10419/145519",
+ "ar": 2016,
+ "forfattere": [
+  "Patrick P. Arni",
+  "Xingfei Liu"
+ ],
+ "id": "W2597470746",
+ "kilde": "RePEc: Research Papers in Economics",
+ "lenke": "https://openalex.org/W2597470746",
+ "oversikt": false,
+ "sammendrag": "Does introducing or abolishing a policy measure affect the eligible individuals in the same way - just with opposite signs or are the reform effects of moving to a more or less generous policy symmetric? This is an important question that standard program evaluation results cannot answer and policy designers may thus implicitly assume symmetry of the effects. To address this issue, it is necessary to have access to a specific policy shock, which preferably implies both positive and negative news to the target group. In this paper, we try to answer the proposed policy evaluation question with opposite signs by exploring a large-scale quasi-experiment in unemployment insurance with imperfectly informed UI claimers: Job seekers are confronted with either an upgrade or a downgrade of their benefit eligibility within their unemployment spell, without being initially fully informed about the change. They face, however, exactly the same size of treatment: an increase or decrease of the potential benefit duration (PBD) by 200 days. We first compare the treatment effects of these update cases with the reference case, in which individuals are fully informed about their PBD. We identify the treatment effect around the threshold of age 25 where PBD rules change in the Swiss UI system. We find substantial differences in the treatment effects across cases with different expectations on benefit change. This applies to job finding and earnings outcomes. Secondly, the effects are asymmetric both quantitatively and qualitatively. The differences are consistent with patterns of loss aversion or of consumption commitment behavior. We also show that policy uncertainty reinforces the job finding effect of a downgrade shock.",
+ "tittel": "On or Off – Are Treatment Effects of Policy Changes Symmetric? Evidence from Unemployment Insurance Reform with Incomplete Information",
+ "type": "preprint"
+}

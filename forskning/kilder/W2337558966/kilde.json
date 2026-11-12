@@ -1,0 +1,20 @@
+{
+ "apen_url": "https://doi.org/10.3386/w22163",
+ "ar": 2016,
+ "doi": "https://doi.org/10.3386/w22163",
+ "forfattere": [
+  "Gabriel Chodorow-Reich",
+  "Loukas Karabarbounis"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "https://red-files-public.s3.amazonaws.com/meetpapers/2017/paper_834.pdf",
+ "hvordan": "pdf",
+ "id": "W2337558966",
+ "kilde": "National Bureau of Economic Research",
+ "lenke": "https://openalex.org/W2337558966",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "By how much does an extension of unemployment benefits affect macroeconomic outcomes such as unemployment? Answering this question is challenging because U.S. law extends benefits for states experiencing high unemployment. We use data revisions to decompose the variation in the duration of benefits into the part coming from actual differences in economic conditions and the part coming from measurement error in the real-time data used to determine benefit extensions. Using only the variation coming from measurement error, we find that benefit extensions have a limited influence on state-level macroeconomic outcomes. We use our estimates to quantify the effects of the increase in the duration of benefits during the Great Recession and find that they increased the unemployment rate by at most 0.3 percentage point.",
+ "tittel": "The Limited Macroeconomic Effects of Unemployment Benefit Extensions",
+ "type": "report"
+}

@@ -1,0 +1,21 @@
+{
+ "ar": 2012,
+ "doi": "https://doi.org/10.1136/oemed-2011-100333",
+ "forfattere": [
+  "Sheilah Hogg‐Johnson",
+  "Lynda S. Robson",
+  "Donald Charles Cole",
+  "Benjamin C. Amick",
+  "Emile Tompa",
+  "Peter M. Smith",
+  "Dwayne Van Eerd",
+  "Cameron Mustard"
+ ],
+ "id": "W2035386983",
+ "kilde": "Occupational and Environmental Medicine",
+ "lenke": "https://openalex.org/W2035386983",
+ "oversikt": false,
+ "sammendrag": "OBJECTIVE: From 2004 to 2008, the prevention system in Ontario, Canada ran the High Risk Firm Initiative, an injury-experience based targeted consultation or inspection programme. Our objective was to establish whether prevention system targeting of firms was effective in improving injury outcomes. METHODS: Randomised controlled parallel groups. Population included all manufacturing firms registered with the Ontario Workplace Safety & Insurance Board in 2005. Firms ranked between the 2nd and 10th percentile on a composite measure of occupational health and safety performance were randomised to three study arms in 2006: targeted for Health & Safety Association (HSA) consultation, targeted for Ministry of Labour (MOL) inspection, or services as usual. Data included firm characteristics (sector, size, years in business, region, branches), work injury claims 2002-2008 and measures of consulting and inspecting activity. Negative binomial generalised estimating equations modelled claim and disability day rates by study arm and year, controlling for firm characteristics. RESULTS: Among 2153 firms, firm characteristics and 2002-2005 rates of work injury claims and disability days were similar across arms. Firm outcomes were significantly different from year to year, but study arm by year interactions were insignificant indicating similar trends for all three study arms. 83% of HSA targeted firms were contacted and 63% engaged while 75% of MOL targeted firms were inspected with orders written in 56%. CONCLUSIONS: Consultation and enforcement programmes as implemented were not sufficient to reduce work injury outcomes over 21 month follow-up. Lack of benefit could be due to non-specific firm selection methods, limited firm participation in interventions, low intervention intensity or insensitivity of available outcomes.",
+ "tittel": "A randomised controlled study to evaluate the effectiveness of targeted occupational health and safety consultation or inspection in Ontario manufacturing workplaces",
+ "type": "article"
+}

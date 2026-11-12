@@ -1,0 +1,19 @@
+{
+ "ar": 2019,
+ "forfattere": [
+  "Moritz Kuhn",
+  "Benjamin Hartung",
+  "Philip Jung"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "https://red-files-public.s3.amazonaws.com/meetpapers/2019/paper_284.pdf",
+ "hvordan": "pdf",
+ "id": "W3121197859",
+ "kilde": "RePEc: Research Papers in Economics",
+ "lenke": "https://openalex.org/W3121197859",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "A key question in labor market research is how the unemployment insurance system affects unemployment rates and labor market dynamics. We revisit this old question studying the German Hartz reforms. On average, lower separation rates explain 76% of declining unemployment after the reform, a fact unexplained by existing research focusing on job finding rates. The reduction in separation rates is heterogeneous, with long-term employed, high-wage workers being most affected. We causally link our empirical findings to the reduction in long-term unemployment benefits using a heterogeneous-agent labor market search model. Absent the reform, unemployment rates would be 50% higher today.",
+ "tittel": "What hides behind the German labor market miracle? Unemployment insurance reforms and labor market dynamics",
+ "type": "preprint"
+}

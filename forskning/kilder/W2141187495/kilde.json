@@ -1,0 +1,17 @@
+{
+ "apen_url": "https://academic.oup.com/schizophreniabulletin/article-pdf/37/2/370/5431658/sbp066.pdf",
+ "ar": 2009,
+ "doi": "https://doi.org/10.1093/schbul/sbp066",
+ "forfattere": [
+  "Kikuko Campbell",
+  "Gary R. Bond",
+  "Robert E. Drake"
+ ],
+ "id": "W2141187495",
+ "kilde": "Schizophrenia Bulletin",
+ "lenke": "https://openalex.org/W2141187495",
+ "oversikt": true,
+ "sammendrag": "AIMS: This meta-analysis sought to identify which subgroups of clients with severe mental illness (SMI) benefited from evidence-based supported employment. METHODS: We used meta-analysis to pool the samples from 4 randomized controlled trials comparing the Individual Placement and Support (IPS) model of supported employment to well-regarded vocational approaches using stepwise models and brokered services. Meta-analysis was used to determine the magnitude of effects for IPS/control group differences within specific client subgroups (defined by 2 work history, 7 sociodemographic, and 8 clinical variables) on 3 competitive employment outcomes (obtaining a job, total weeks worked, and job tenure). RESULTS: The findings strongly favored IPS, with large effect sizes across all outcomes: 0.96 for job acquisition, 0.79 for total weeks worked, and 0.74 for job tenure. Overall, 90 (77%) of the 117 effect sizes calculated for the 39 subgroups exceeded 0.70, and all 117 favored IPS. CONCLUSIONS: IPS produces better competitive employment outcomes for persons with SMI than alternative vocational programs regardless of background demographic, clinical, and employment characteristics.",
+ "tittel": "Who Benefits From Supported Employment: A Meta-analytic Study",
+ "type": "review"
+}

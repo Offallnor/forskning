@@ -1,0 +1,12 @@
+{
+ "ar": 2003,
+ "forfattere": [
+  "Marcel Cristian Voia"
+ ],
+ "id": "W2170785453",
+ "lenke": "https://openalex.org/W2170785453",
+ "oversikt": false,
+ "sammendrag": "In this paper I consider a re-employment bonus experiment that was conducted in Illinois. We answer questions such as: “How much money would be saved if this program would be introduced generally?’ or “How much does the average unemployment duration decrease if this program would beintroduced generally?”. To answer to these questions I estimate a structural hazard model that allows for heterogeneity and partial compliance, then I simulate the distribution of unemployment durations if the program would be introduced generally.",
+ "tittel": "Controlling for heterogeneity in the Illinois bonus experiment",
+ "type": "article"
+}

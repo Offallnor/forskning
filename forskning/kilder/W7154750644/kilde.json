@@ -1,0 +1,24 @@
+{
+ "apen_url": "https://link.springer.com/content/pdf/10.1007/s00402-026-06312-5.pdf",
+ "ar": 2026,
+ "doi": "https://doi.org/10.1007/s00402-026-06312-5",
+ "forfattere": [
+  "Pauliina Kangas",
+  "Konsta Pamilo",
+  "Satu Soini",
+  "Maria L. Hirvonen",
+  "Visa Kervinen",
+  "Marja-Liisa Kinnunen"
+ ],
+ "hentet": "2026-11-09",
+ "hentet_fra": "https://link.springer.com/content/pdf/10.1007/s00402-026-06312-5.pdf",
+ "hvordan": "pdf",
+ "id": "W7154750644",
+ "kilde": "Archives of Orthopaedic and Trauma Surgery",
+ "lenke": "https://openalex.org/W7154750644",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "INTRODUCTION: Working-age adults increasingly undergo total hip (THA) and knee (KA) arthroplasties. We evaluated how post-arthroplasty referral to occupational health services (OHS) using the Coordinated Return-to-Work (CRTW) model, affects return to work (RTW). MATERIALS AND METHODS: The CRTW model was evaluated through a benchmarking controlled trial. We used the electronic records of four hospitals in Finland to identify working-age THA and total/unicondylar KA patients before (control group, N = 668) and after (intervention group, N = 536) the CRTW model was implemented. We combined these data with sickness benefits registry data. The differences between the study groups’ RTW were analyzed using a Cox regression model, adjusting for age, sex, body mass index, number of special reimbursement entitlements for medicines, and earnings as covariates. Subgroup analyses included intervention participants whose sick leaves were prescribed by a surgeon according to the CRTW protocol. RESULTS: After THA, the control group’s mean RTW-duration was 87.8 days, compared to 74.9 days for the intervention group, with the mean difference being 12.9 days (95% CI 5.7–20.2). The intervention group was associated with earlier RTW; HR 1.35 (95% CI 1.13–1.61). After KA, the control group’s mean RTW-duration was 107.8 days, while the intervention group’s was 93.4 days, with the mean difference being 14.4 days (95% CI 5.9–22.9), HR 1.29 (95% CI 1.09–1.54). In the subgroup analyses, the mean RTW-duration in the specifically targeted intervention groups was 60.2 days after THA and 84.7 days after KA. The mean differences compared with the control groups were 27.6 days (95% CI 19.1–36.1), HR 2.96 (95% CI 2.22–3.95) and 23.1 days (95% CI 10.9–35.3), HR 1.51 (95% CI 1.18–1.95), respectively. CONCLUSIONS: The CRTW model effectively shortens the RTW-duration after arthroplasty. Success depends on surgeons prescribing brief sick leaves and referring patients to OHS for work ability assessment.",
+ "tittel": "Coordinated Return-to-Work model reduces sickness absences after hip or knee arthroplasty: a registry-based study",
+ "type": "article"
+}

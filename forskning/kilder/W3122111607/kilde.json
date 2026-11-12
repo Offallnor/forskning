@@ -1,0 +1,18 @@
+{
+ "apen_url": "http://www.diw.de/documents/publikationen/73/diw_01.c.97120.de/diw_sp0172.pdf",
+ "ar": 2009,
+ "forfattere": [
+  "Nicolas R. Ziebarth"
+ ],
+ "hentet": "før 2026-11-08",
+ "hentet_fra": "http://www.diw.de/documents/publikationen/73/diw_01.c.97120.de/diw_sp0172.pdf",
+ "hvordan": "pdf",
+ "id": "W3122111607",
+ "kilde": "RePEc: Research Papers in Economics",
+ "lenke": "https://openalex.org/W3122111607",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "Sick leave payments represent a significant portion of public health expenditures and labor costs. Reductions in replacement levels are a commonly used instrument to tackle moral hazard and to increase the efficiency of the health insurance market. In Germany's Statutory Health Insurance (SHI) system, the replacement level for periods of sickness of up to six weeks was reduced from 100 percent to 80 percent of an employee's gross wage at the end of 1996. At the same time, the replacement level for individuals absent for a long-term period, i.e., from the seventh week onwards, was reduced from 80 to 70 percent. We show theoretically that the net reform effects on long-term absenteeism can be disentangled into a direct and an indirect effect. Using SOEP data, a natural control group, and two different treatment groups, we estimate the net and the direct effect on the incidence and duration of long-term absenteeism by difference-in-differences. Our findings suggest that, on population average, the reforms have not affected long-term absenteeism significantly, which is in accordance with our theoretical predictions, assuming that employees on long-term sick leave are seriously sick. However, we find some heterogeneity in the effects and a small but significant decrease in the duration of long-term absenteeism for the poor and middle-aged full-time employed persons. All in all, moral hazard and presenteeism seem to be less of an issue in the right tail of the sickness spell distribution. Finally, our calculations suggest that from 1997 to 2006, around five billion euros were redistributed from persons on long-term sick leave to the SHI insurance pool.",
+ "tittel": "Long-Term Absenteeism and Moral Hazard: Evidence from a Natural Experiment",
+ "type": "preprint"
+}

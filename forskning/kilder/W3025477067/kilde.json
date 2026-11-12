@@ -1,0 +1,17 @@
+{
+ "ar": 2020,
+ "doi": "https://doi.org/10.1111/rego.12315",
+ "forfattere": [
+  "John M. Mendeloff",
+  "Wayne B. Gray",
+  "Philip Armour",
+  "Frank W. Neuhauser"
+ ],
+ "id": "W3025477067",
+ "kilde": "Regulation & Governance",
+ "lenke": "https://openalex.org/W3025477067",
+ "oversikt": false,
+ "sammendrag": "Abstract How well do firms in the United States maintain compliance with occupational safety and health administration (OSHA) standards after being cited for a violation? How and why does this vary among standards? This paper identifies serious violations of 91 frequently cited standards at manufacturing plants during 1992–2002 and tracks compliance with that standard in later inspections over 10 years. While formal measures of Repeat violations are quite low, we find considerably higher re‐violation rates for some standards once we look separately at how often health standards are cited in later health inspections and safety standards cited in later safety inspections. Characteristics of the standards affect re‐violation rates, but not always in the expected direction. Standards whose violations are rated as more hazardous or which received higher initial penalties tend to have more re‐violations. These findings could reflect inspector behavior, with those standards getting more attention and thus being cited more frequently. When, as in the case of OSHA and other enforcement agencies, we know about violations only when inspectors cite them, we need to consider bureaucratic behavior as well as employers' incentives.",
+ "tittel": "The re‐occurrence of violations in occupational safety and health administration inspections",
+ "type": "article"
+}

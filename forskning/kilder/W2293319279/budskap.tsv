@@ -1,0 +1,2 @@
+sporsmal	budskap	hovedresultat	identifikasjon	id_sitat	side	forbehold	antakelse	belegg	troverdighet
+arbeidstilsyn-effekt	Maskinlæring på MSHA-data for å finne hvilke typer funn ved tilsyn som best varsler alvorlige ulykker i gruver; forfatterne mener målrettet oppfølging av høyrisikogruver kan virke bedre enn bare høyere bøter og hyppigere tilsyn.		ingen (prediksjonsmodell)	These inspection results are used to train machine learning Classification and Regression Tree (CART) and Random Forest (RF) models	sammendrag	Ingen forbehold i sammendraget.			

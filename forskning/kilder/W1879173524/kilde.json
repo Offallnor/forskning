@@ -1,0 +1,17 @@
+{
+ "apen_url": "https://www.sciencedirect.com/science/article/pii/S0190740915300098/pdf",
+ "ar": 2015,
+ "doi": "https://doi.org/10.1016/j.childyouth.2015.07.001",
+ "forfattere": [
+  "Bo Vinnerljung",
+  "Lars Brännström",
+  "Anders Hjern"
+ ],
+ "id": "W1879173524",
+ "kilde": "Children and Youth Services Review",
+ "lenke": "https://openalex.org/W1879173524",
+ "oversikt": false,
+ "sammendrag": "Using longitudinal register data on all persons born in Sweden 1973–1978, we report on prevalence of disability pension among young adults who were child welfare clients during their formative years, and explore risk factors for this long-term outcome. For most child welfare subgroups, prevalence approached or exceeded ten percent. Multivariate logistic regression analyses found high crude odds ratios of disability pension among child welfare alumni. These were substantially reduced – but not obliterated – after adjustments for a host of background factors. Decomposition analyses revealed that child welfare alumni’s poor school performance and low educational attainment accounted for most of the confounding effects. We also found that child welfare clients with a disability pension had far higher rates of psychosocial problems in their adult lives than other peers with a disability pension. Child welfare alumni should be regarded as a high risk group for future disability pension and for permanent exclusion from the labor market. Rates of suicidal behavior in adult age were extreme among some subgroups of child welfare alumni with a disability pension, which should be communicated to agencies who are likely to meet these groups (eg. primary health care).",
+ "tittel": "Disability pension among adult former child welfare clients: A Swedish national cohort study",
+ "type": "article"
+}

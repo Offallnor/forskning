@@ -1,0 +1,14 @@
+{
+ "apen_url": "https://hal.science/halshs-02057137v2",
+ "ar": 2021,
+ "forfattere": [
+  "Laura J. Khoury"
+ ],
+ "id": "W3165706917",
+ "kilde": "RePEc: Research Papers in Economics",
+ "lenke": "https://openalex.org/W3165706917",
+ "oversikt": false,
+ "sammendrag": "Most unemployment insurance (UI) schemes mandate a single benefit schedule,while little empirical findings support this mandate. In this paper, I exploit aFrench program where workers are given a choice between two different UI sched-ules, providing an ideal setup to evaluate both moral hazard and selection intoUI. Using high-quality administrative data, I measure significant adverse selectionby relating the entitlement choice with the characteristics of the insured. Moralhazard is even larger, as shown by a fuzzy regression discontinuity design using aneligibility criterion: choosing a short schedule with higher average benefits increasesunemployment duration by six months.",
+ "tittel": "Choosing Unemployment Benefits:the Role of Adverse Selection and Moral Hazard",
+ "type": "preprint"
+}

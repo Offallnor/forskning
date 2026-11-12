@@ -1,0 +1,18 @@
+{
+ "apen_url": "https://repec.unibocconi.it/igier/igi/wp/2004/272.pdf",
+ "ar": 2004,
+ "forfattere": [
+  "Michele Pellizzari"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "https://repec.unibocconi.it/igier/igi/wp/2004/272.pdf",
+ "hvordan": "pdf",
+ "id": "W3125007923",
+ "kilde": "RePEc: Research Papers in Economics",
+ "lenke": "https://openalex.org/W3125007923",
+ "merknad": "ÅPEN VERSJON (preprint eller arbeidsnotat), merkes i svaret",
+ "oversikt": false,
+ "sammendrag": "The existing studies of unemployment benefit and unemployment duration suggest that reforms that lower either the level or the duration of benefits should reduce unemployment. Despite the large number of such reforms implemented in Europe in the past decades, this paper presents evidence that shows no correlation between the reforms and the evolution of unemployment. This paper also provides an explanation for this fact by exploring the interactions between unemployment benefits and social assistance programmes. Unemployed workers who are also eligible, or expect to become eligible, for some social assistance programmes are less concerned about their benefits being reduced or terminated. They will not search particularly intensively around the time of benefit exhaustion nor will come particularly less choosy about job offers by reducing their reservation wages. Data from the European Community Household Panel (ECHP) are used to provide evidence to support this argument. Results show that, in fact, for social assistance recipients the probability of finding a job is not particularly higher during the last months of entitlement.",
+ "tittel": "Unemployment Duration and the Interactions Between Unemployment Insurance and Social Assistance",
+ "type": "preprint"
+}

@@ -1,0 +1,21 @@
+{
+ "apen_url": "https://bmcpublichealth.biomedcentral.com/counter/pdf/10.1186/1471-2458-14-821",
+ "ar": 2014,
+ "doi": "https://doi.org/10.1186/1471-2458-14-821",
+ "forfattere": [
+  "Björn Karlson",
+  "Peter Jönsson",
+  "Kai Österberg"
+ ],
+ "hentet": "2026-11-09",
+ "hentet_fra": "https://bmcpublichealth.biomedcentral.com/counter/pdf/10.1186/1471-2458-14-821",
+ "hvordan": "pdf",
+ "id": "W2030370956",
+ "kilde": "BMC Public Health",
+ "lenke": "https://openalex.org/W2030370956",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "BACKGROUND: The period from the mid-1990s to the mid-2000s saw a rapid increase in long-term sick leave in Sweden, primarily due to mental illness and often related to job burnout. This led to an urge for effective treatment programs that could prevent the often long sick leaves. In 2010 we presented a newly developed work-place intervention method, showing that 89% of the intervention group had returned to work at a 1.5 year follow-up, compared to 73% of the control group. The main aim of this study was to assess the long-term stability of these promising results. METHODS: Sick leave registry data from the Regional Social Insurance Office were analyzed for an additional year (50 weeks) beyond the original 1.5 year period (80 weeks). Data from 68 matched pairs of intervention participants (IP) and controls were available. The proportions of participants being on full-time sick leave versus having returned to work to any extent were computed for every 10th week. Generalized estimating equations were used with GROUP (IP versus controls) as between-subjects factor, WEEKS and AGE as covariates, and return-to-work (RTW) as dependent variable. Significant differences (Wald χ2 with α ≤ .05) was followed up with polynomial contrasts. Individual relapses to higher degrees of sick leave (e.g. from 50% to 100%) and whether partial RTW led to later full-time RTW, were also analyzed. RESULTS: The omnibus test over all 130 weeks showed a GROUP*WEEKS interaction effect (p = .02), indicating differential group developments in RTW, though similarly high at week 130 in both groups with 82.4% of the IP and 77.9% of the controls having RTW (p = .22; χ2-test). A significant interaction with age led to separate analyses of the younger and older subgroups, indicating a stable pattern of superior RTW only among younger IP (week 130: 88.6% vs. 69.7%, p = .054; χ2-test). There was no group difference in relapses into increased degree of sick leave. Part-time sick leave did not predict a later stable full-time RTW. CONCLUSIONS: The previously reported improvement in RTW with the newly developed workplace-oriented intervention showed a long-term stability only among younger participants.",
+ "tittel": "Long-term stability of return to work after a workplace-oriented intervention for patients on sick leave for burnout",
+ "type": "article"
+}

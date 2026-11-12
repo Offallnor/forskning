@@ -1,0 +1,17 @@
+{
+ "ar": 2012,
+ "doi": "https://doi.org/10.1002/ajim.22084",
+ "forfattere": [
+  "Michael Foley",
+  "Z. Joyce Fan",
+  "Eddy Rauser",
+  "Barbara A. Silverstein"
+ ],
+ "id": "W2138094971",
+ "kilde": "American Journal of Industrial Medicine",
+ "lenke": "https://openalex.org/W2138094971",
+ "oversikt": false,
+ "sammendrag": "BACKGROUND: Studies of regulatory effectiveness have shown mixed evidence of impact of inspections on injury rates. We examine changes in workers compensation claims rates and costs for Washington employers having either an inspection, with or without citation, or a voluntary consultation activity. METHOD: We merge 10 years of enforcement and consultation activity with workers compensation records at the individual workplace level for stable firms with a single business location and at least 10 full-time employees. The change in claims incidence rates (CIRs) was estimated, controlling for workplace claims rate history, size, and industry. Separate analyses were performed for non-musculoskeletal and musculoskeletal (MSD) CIRs, claims costs and for enforcement activities with citation and without citation. RESULTS: Enforcement activities are associated with a significant reduction in CIRs and costs. Similar results may also be attributable to consultations. Inspections were associated with a 4% decline in time-loss claims rates relative to uninspected workplaces. The effect strengthens when MSD claims are excluded. Citations for non-compliance are associated with a 20% decline in non-MSD CIRs relative to uninspected workplaces. There is also some evidence for a reduction in MSD claims rates beginning in the second year following inspection. Enforcement and consultation activity is associated with substantial decreases in claims costs. CONCLUSIONS: Enforcement activities make a significant contribution to reducing CIRs and costs. Similar results following consultations may also exist. Inspections with citations are more effective than those without. Claims rates for non-MSD injuries, related to hazards covered by specific standards, are more affected in the year following the visit, while those for MSDs take longer to begin falling.",
+ "tittel": "The impact of regulatory enforcement and consultation visits on workers' compensation claims incidence rates and costs, 1999–2008",
+ "type": "article"
+}

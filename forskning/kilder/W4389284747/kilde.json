@@ -1,0 +1,21 @@
+{
+ "apen_url": "https://www.sciencedirect.com/science/article/pii/S0927537123001525",
+ "ar": 2023,
+ "doi": "https://doi.org/10.1016/j.labeco.2023.102477",
+ "forfattere": [
+  "Caroline Häll",
+  "Linus Liljeberg",
+  "Erica Lindahl"
+ ],
+ "hentet": "før 2026-11-08",
+ "hentet_fra": "https://www.ifau.se/globalassets/pdf/se/2022/wp-2022-14-firm-responses-to-a-more-generous-insurance-against-high-sick-pay-costs.pdf",
+ "hvordan": "pdf",
+ "id": "W4389284747",
+ "kilde": "Labour Economics",
+ "lenke": "https://openalex.org/W4389284747",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "This paper investigates how firms respond to a more generous insurance against high sick pay costs. We exploit a reform that introduced different thresholds for insurance reimbursement depending on firm size. By comparing employees in smaller firms with employees in large firms over time, we evaluate the effects of the reform. We find evidence of an increase in absence in middle-sized firms (an average 42 employees) but not in smaller firms. Our results suggest that this discrepancy may be due to the higher production costs associated with absences in smaller firms. The estimated positive effect in middle-sized firms is driven by new hires. These employees are not selected differently, but the probability of separation the following year is lower if they have reported sick. This suggests that the generosity of the insurance affected the probability of separation related to revealed absence.",
+ "tittel": "Firm responses to a more generous insurance against high sick pay costs",
+ "type": "article"
+}

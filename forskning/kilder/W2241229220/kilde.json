@@ -1,0 +1,19 @@
+{
+ "apen_url": "http://hdl.handle.net/10016/15903",
+ "ar": 2012,
+ "forfattere": [
+  "Raquel Carrasco",
+  "José Ignacio García Pérez"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "https://e-archivo.uc3m.es/bitstreams/0234077e-d389-4c2a-88b4-a3b903bacd7c/download",
+ "hvordan": "pdf",
+ "id": "W2241229220",
+ "kilde": "RePEc: Research Papers in Economics",
+ "lenke": "https://openalex.org/W2241229220",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "This paper studies how unemployment and employment durations for immigrants and natives respond differently to changes in the economic conditions due to the 2008 crisis and to the receipt of unemployment benefits when the economy declines. Using administrative data for Spain, we estimate multi-state multi-spell duration models that disentangle unobserved heterogeneity from true duration dependence. Our findings suggest that immigrants are more sensitive to changes in economic conditions, both in terms of unemployment and employment hazards. Moreover, the effect of the business cycle is not constant but decreases with duration at a higher rate among immigrants. The results also point to a disincentive effect of unemployment benefits on unemployment duration, which is stronger for immigrants but only at the beginning of the unemployment spell and mainly during good times (before the 2008 recession). Finally, we find evidence of a positive effect of unemployment benefits on subsequent employment duration, but only for native workers with temporary contracts. Nonetheless, this effect vanishes as workers qualify again for unemployment benefits.",
+ "tittel": "Economic Conditions and Employment Dynamics of Immigrants versus Natives: Who Pays the Costs of the \"Great Recession\"?",
+ "type": "preprint"
+}

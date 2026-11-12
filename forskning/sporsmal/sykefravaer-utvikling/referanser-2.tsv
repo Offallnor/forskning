@@ -1,0 +1,161 @@
+id	bakover	forover	uttrykk	ar	oversikt	siteringer	persentil	sammendrag	allerede_kandidat	tittel	kilde
+W2147004703	5	0		2004	True	465	0.86631016	True	True	Chapter 5. Risk factors for sick leave - general studies	Scandinavian Journal of Public Health
+W2169584029	5	0		2004	False	248	0.98955971	True	True	The Effects on Sick Leave of Changes in the Sickness Insurance System	Journal of Labor Economics
+W2796106052	5	0	sickness absence trend;sickness absence trends	2018	False	44	0.93156086	True	True	Cause-specific sickness absence trends by occupational class and industrial sector in the context of recent labour market changes: a Finnish panel data study	BMJ Open
+W3120194918	5	0		2021	False	28	0.91110641	True	True	Incidence and Length of Sickness Absence among Hierarchical Occupational Classes and Non-Wage-Earners: A Register Study of 1.6 Million Finns	International Journal of Environmental Research and Public Health
+W7220777438	0	5		2026	False	0		True	True	Health-related labour market outcomes among migrants and natives in Finland	UTUPub (University of Turku)
+W2582743722	4	0		2000	False	355811		True	True	R: A Language and Environment for Statistical Computing	
+W2131976333	4	0		1996	False	227	0.96798422	False	True	Do economic incentives affect work absence? Empirical evidence using Swedish micro data	Journal of Public Economics
+W2094067288	4	0		1985	False	158	0.88455708	False	True	The effects of unemployment and the business cycle on absenteeism	Journal of Economics and Business
+W2015080265	4	0		2007	False	76	0.96997038	True	True	Being on Sick Leave: Possible Explanations for Differences of Sick-leave Days Across Countries	CESifo Economic Studies
+W4410552153	0	4	increase in sick leave	2025	False	2	0.80755754	True	True	Being a frontline worker in a health emergency: Healthcare workers’ absences and health during the COVID-19 pandemic	Labour Economics
+W2024810644	3	0		1986	False	4646	1.0	True	True	Equilibrium Unemployment as a Worker Discipline Device	Cambridge University Press eBooks
+W2149459865	3	0		2003	False	454	0.99457521	True	True	Sickness absence as a global measure of health: evidence from mortality in the Whitehall II prospective cohort study	BMJ
+W2072812468	3	0		2004	False	261	0.99208095	True	True	Sickness absence as a predictor of mortality among male and female employees	Journal of Epidemiology & Community Health
+W2087413250	3	0	sickness absence rates	2002	False	241	0.95777124	True	True	Sickness Absence: An International Comparison	The Economic Journal
+W3125708417	3	0		2005	False	160	0.98180518	True	True	Unemployment, labor force composition and sickness absence: a panel data study	Health Economics
+W2124684117	3	0		2001	False	154	0.91447325	True	True	THE MANAGEMENT OF SICKNESS ABSENCE	Occupational and Environmental Medicine
+W1547104755	3	0	increase in sickness absence	2006	False	121	0.96445864	True	True	Increase in sickness absence with psychiatric diagnosis in Norway: a general population-based epidemiologic study of age, gender and regional distribution	BMC Medicine
+W1596613221	3	0		2009	True	114	0.40411765	True	True	A literature review on sick leave determinants (1984-2004)	International Journal of Occupational Medicine and Environmental Health
+W2802646040	3	0		2018	False	85	0.98904006	True	True	Sickness absence as a predictor of disability retirement in different occupational classes: a register-based study of a working-age cohort in Finland in 2007–2014	BMJ Open
+W2119502830	3	0		2014	False	65	0.90756051	True	True	The gender gap in sickness absence: long-term trends in eight European countries	European Journal of Public Health
+W2112580127	3	0		2009	False	60	0.86777207	True	True	Explaining occupational class differences in sickness absence: results from middle-aged municipal employees	Journal of Epidemiology & Community Health
+W2745428367	3	0		2017	False	53	0.95506053	True	True	Occupational class differences in diagnostic-specific sickness absence: a register-based study in the Finnish population, 2005–2014	BMC Public Health
+W2738278365	2	1		2017	False	27	0.9357737	True	True	Occupational class differences in long sickness absence: a register-based study of 2.1 million Finnish women and men in 1996–2013	BMJ Open
+W4392208918	0	3		2023	False	3	0.70297421	True	True	Measuring and Assessing Sick Absence from Work: a European Cross‑sectional Study	Comparative Economic Research Central and Eastern Europe
+W4408388401	0	3		2025	False	2	0.78729802	True	True	Remote work and long-term sickness absence due to mental disorder trends among Japanese workers pre/post COVID-19	PLoS ONE
+W4400586853	0	3	increase in sickness absence	2023	False	1	0.59490635	True	True	Assessing the economic impact of sickness absence in Croatia before, during, and after the COVID-19 crisis: emphasis on the hospitality industry	Intellectual Economics
+W4415648376	0	3		2025	False	1	0.75348138	True	True	Associations between prior and subsequent sickness absence before and during the COVID-19 pandemic: a Swedish prospective cohort study of 306 933 blue-collar workers in the retail and wholesale industry	BMJ Open
+W7110422932	0	3		2025	False	0	0.46055769	True	True	Mielenterveysdiagnoosiperusteisten erikoissairaanhoitokäyntien ja sairauspoissaolojen yleisyys sosiaali- ja terveysalan sekä taide-, kulttuuri- ja tapahtuma-alojen ammateissa vuosina 2010–2021	Sosiaalilääketieteellinen Aikakauslehti
+W7115375317	0	3		2025	False	0		True	True	Hur sjukfrånvaro påverkas av en självriskdag : En kvasiexperimentell analys med utgångspunkt i Finland och Sverige	Doria (University of Helsinki)
+W7133507930	0	3		2026	False	0	0.08824304	True	True	How is long-term sickness absence due to different mental disorders associated with future disability pension risk? A population-based prospective cohort study in Finland	BMJ Open
+W7162875640	0	3		2026	False	0	0.32984923	True	True	Trajectories of sickness absence in healthcare workers: a cohort study in a Spanish hospital between 2018 and 2023	BMC Health Services Research
+W2112669742	2	0		2004	False	9915	0.99925349	True	True	A Modified Poisson Regression Approach to Prospective Studies with Binary Data	American Journal of Epidemiology
+W2153941399	2	0		2003	False	2098	0.99696707	True	True	Estimating the Relative Risk in Cohort Studies and Clinical Trials of Common Outcomes	American Journal of Epidemiology
+W1986471490	2	0		2012	False	1666	1.0	False	True	WHO European review of social determinants of health and the health divide	The Lancet
+W2153897994	2	0		2007	False	1320	0.99959339	True	False	Disease and Development: The Effect of Life Expectancy on Economic Growth	Journal of Political Economy
+W2386192529	2	0		2008	False	1315	0.82580038	True	False	The Mann-Whitney U: A Test for Assessing Whether Two Independent Samples Come from the Same Distribution	Tutorials in Quantitative Methods for Psychology
+W3203586449	2	0		2021	True	1214	0.99938272	False	False	A systematic review and meta-analysis of longitudinal cohort studies comparing mental health before versus during the COVID-19 pandemic in 2020	Journal of Affective Disorders
+W3022406948	2	0		2020	True	1122	0.99447732	True	True	Occurrence, prevention, and management of the psychological effects of emerging virus outbreaks on healthcare workers: rapid review and meta-analysis	BMJ
+W4401528161	2	0		2024	True	753	1.0	False	True	The Lancet Psychiatry Commission on youth mental health	The Lancet Psychiatry
+W2133252124	2	0		2005	True	583	0.76585366	False	False	Cost-of-illness analysis	Health Policy
+W2233356473	2	0		2008	False	547	0.99076984	True	True	Unemployment and self‐assessed health: evidence from panel data	Health Economics
+W4205913752	2	0		1995	False	492	0.97393637	False	False	New Directions in Spatial Econometrics	Advances in spatial science
+W2762642033	2	0		2017	True	246	0.91246407	True	True	Determinants of Sickness Absence and Return to Work Among Employees with Common Mental Disorders: A Scoping Review	Journal of Occupational Rehabilitation
+W1996884394	2	0		2009	False	235	0.99342868	True	True	Can Cross Country Differences in Return-to-Work After Chronic Occupational Back Pain be Explained? An Exploratory Analysis on Disability Policies in a Six Country Cohort Study	Journal of Occupational Rehabilitation
+W3086387464	2	0		2020	True	230	0.9945014	True	False	Adapting hospital capacity to meet changing demands during the COVID-19 pandemic	BMC Medicine
+W2049901974	2	0		2005	False	225	0.97648669	False	False	Moral hazard and sickness insurance	Journal of Public Economics
+W2099701286	2	0		1998	True	216	0.95141935	True	False	How to measure sickness absence? Literature review and suggestion of five basic measures	Scandinavian Journal of Public Health
+W2797417805	2	0		2002	False	192	0.99182405	True	False	Assessing the Effect of Public Policy on Worker Absenteeism	The Journal of Human Resources
+W2151416414	2	0		2010	False	173	0.98883961	False	True	The anatomy of absenteeism	Journal of Health Economics
+W3081257581	2	0		2020	False	173	0.99622437	False	True	COVID-19 pandemic in Finland – Preliminary analysis on health system response and economic consequences	Health Policy and Technology
+W2115316349	2	0		2004	False	158	0.93928729	True	False	Chapter 9. Consequences of being on sick leave	Scandinavian Journal of Public Health
+W2900045143	2	0		2018	False	149	0.99426538	True	True	Lifestyle factors and risk of sickness absence from work: a multicohort study	The Lancet Public Health
+W2141786694	2	0		2004	False	146	0.99062574	False	False	Incentives and selection in cyclical absenteeism	Labour Economics
+W2127245795	2	0		2004	False	145	0.95074283	True	True	Predictors of disability pension in long-term sickness absence: Results from a population-based and prospective study in Norway 1994-1999	European Journal of Public Health
+W2045353577	2	0		2010	False	142	0.9759182	True	True	Gender differences in sickness absence – the contribution of occupation and workplace	Scandinavian Journal of Work Environment & Health
+W2170646082	2	0	sickness absence rates	2009	True	139	0.64176471	True	True	Sickness absence: A gender-focused review	Psychology Health & Medicine
+W2123032218	2	0		2004	True	127	0.52406417	True	True	Chapter 7. Sickness absence and psychiatric disorders	Scandinavian Journal of Public Health
+W2326189071	2	0		2013	False	125	0.98731668	True	False	THE EFFECTS OF EXPANDING THE GENEROSITY OF THE STATUTORY SICKNESS INSURANCE SYSTEM	Journal of Applied Econometrics
+W3164741739	2	0		2021	False	122	0.99313131	True	True	Patterns and predictors of sick leave after Covid-19 and long Covid in a national Swedish cohort	BMC Public Health
+W2133692436	2	0	sickness absence rates	2009	False	121	0.93828538	True	True	Interrelationships between education, occupational class, income and sickness absence	European Journal of Public Health
+W1995096782	2	0		2012	False	118	0.98507753	True	True	Transitions between sickness absence, work, unemployment, and disability in Denmark 2004–2008	Scandinavian Journal of Work Environment & Health
+W2067290047	2	0		2012	False	115	0.98634132	True	True	Pain in multiple sites and sickness absence trajectories: A prospective study among Finns	Pain
+W2147315337	2	0		2004	False	115	0.88175573	True	False	Distribution of sickness absence in the European Union countries: Table 1	Occupational and Environmental Medicine
+W3015109386	2	0		2020	False	114	0.99676273	True	False	Ensuring and Sustaining a Pandemic Workforce	New England Journal of Medicine
+W3124756840	2	0		2010	False	104	0.97690877	False	False	The effects of a sick pay reform on absence and on health-related outcomes	Journal of Health Economics
+W2054728601	2	0		2008	False	100	0.95408428	True	False	Labor Market Institutions and Individual Absenteeism in the European Union: The Relative Importance of Sickness Benefit Systems and Employment Protection Legislation	Industrial Relations A Journal of Economy and Society
+W2151015722	2	0		2011	False	83	0.98548424	True	True	Diagnosis-specific sick leave as a long-term predictor of disability pension: a 13-year follow-up of the GAZEL cohort study	Journal of Epidemiology & Community Health
+W2023783241	2	0		2010	False	81	0.94526564	True	True	Socioeconomic status and duration and pattern of sickness absence. A 1-year follow-up study of 2331 hospital employees	BMC Public Health
+W3197172085	2	0		2021	False	60	0.99057127	True	True	Risks of COVID-19 by occupation in NHS workers in England	Occupational and Environmental Medicine
+W1967551067	2	0		2013	False	56	0.9566685	True	True	Young adults on disability benefits in 7 countries	Scandinavian Journal of Public Health
+W2163256270	2	0		2013	False	54	0.95523165	True	True	Explaining the social gradient in sickness absence: a study of a general working population in Sweden	BMC Public Health
+W1595917770	2	0		2010	False	53	0.90636935	True	True	Trends in long‐term sickness absence in Sweden 1992–2008: the role of economic conditions, legislation, demography, work environment and alcohol consumption	International Journal of Social Welfare
+W2026620089	2	0		2008	False	51	0.87930267	True	True	Social Class and Sickness Absence in Norway	Acta Sociologica
+W2793267873	2	0		2018	False	44	0.95742801	True	False	A kink that makes you sick: The effect of sick pay on absence	Journal of Applied Econometrics
+W2006612210	2	0		2006	False	43	0.86524925	True	False	Absenteeism in the Nordic countries	Employee Relations
+W2137789320	2	0		2009	False	43	0.91667349	True	False	Economic Incentives, Business Cycles, and Long‐Term Sickness Absence	Industrial Relations A Journal of Economy and Society
+W2104983146	2	0		2014	False	40	0.94070727	True	False	Cross-national comparisons of sickness absence systems and statistics: towards common indicators	European Journal of Public Health
+W3195062505	1	1	increase in sickness absence	2021	False	36	0.94840743	True	True	The changing nature of work – Job strain, job support and sickness absence among care workers and in other occupations in Sweden 1991–2013	SSM - Population Health
+W3134334642	2	0	sickness absence during the covid-19	2021	False	35	0.97063374	True	True	NHS sickness absence during the covid-19 pandemic	BMJ
+W1895946226	2	0		2010	False	33	0.7794116	True	True	The measurements of sickness absence – a theoretical perspective	Norsk Epidemiologi
+W2117207593	2	0		2012	False	33	0.93875159	True	True	Unemployment and disability pension-an 18-year follow-up study of a 40-year-old population in a Norwegian county	BMC Public Health
+W3188131818	2	0		2021	False	33	0.91535229	True	True	Sickness absence due to common mental disorders in young employees in Sweden: are there differences in occupational class and employment sector?	Social Psychiatry and Psychiatric Epidemiology
+W2076042101	2	0	trends in sickness absence	2015	False	21	0.88272702	True	True	Worried sick? Worker responses to a financial shock	Labour Economics
+W2953234533	2	0		2019	False	19	0.84643097	True	True	Work-Related Exposures and Sickness Absence Trajectories: A Nationally Representative Follow-up Study among Finnish Working-Aged People	International Journal of Environmental Research and Public Health
+W2623860493	2	0		2017	False	18	0.85275467	True	True	The Magnitude of Occupational Class Differences in Sickness Absence: 15-Year Trends among Young and Middle-Aged Municipal Employees	International Journal of Environmental Research and Public Health
+W2109021417	2	0		2015	False	17	0.94431095	True	True	Early Interventions and Disability Insurance: Experience from a Field Experiment	The Economic Journal
+W1751570416	2	0		2007	False	13		False	False	On the Inverse Relationship between Unemployment and Absenteeism: Evidence from Natural Experiments and Worker Heterogeneity	SSRN Electronic Journal
+W3195887460	2	0		2021	False	13	0.77970255	True	False	Adaptive staffing can mitigate essential worker disease and absenteeism in an emerging epidemic	Proceedings of the National Academy of Sciences
+W4313357706	0	2		2022	False	11		True	True	Sick Leave Determinants in the Healthcare Sector (Part I): A Review of Contextual Factors	Journal of Brown Hospital Medicine
+W2115562881	2	0		2002	False	9		True	False	Non-linear Unemployment Effects in Sickness Absence: Discipline or Composition Effects?	NORA - Norwegian Open Research Archives
+W4200313699	0	2		2021	False	9	0.80498255	True	False	Exploring Interactions in the Sickness Insurance System in Terms of Power and Trust	Journal of Occupational Rehabilitation
+W4294280255	2	0		2022	False	8	0.77055479	True	False	Trajectories of sickness absence and disability pension days among 189,321 white-collar workers in the trade and retail industry; a 7-year longitudinal Swedish cohort study	BMC Public Health
+W3082226177	0	2		2020	False	7	0.79536922	True	True	Sickness absence trajectories following labour market participation patterns: a cohort study in Catalonia (Spain), 2012–2014	BMC Public Health
+W3091419616	0	2		2024	False	7		False	True	Sick Leave and Medical Leave in the United States: A Categorization and Recent Trends	SSRN Electronic Journal
+W4385932460	0	2		2023	False	5	0.70671215	True	True	Determinants of Sickness Absence Duration After Mild COVID-19 in a Prospective Cohort of Canadian Healthcare Workers	Journal of Occupational and Environmental Medicine
+W4403818172	0	2		2024	False	5	0.84971566	True	False	The Determinants of Presenteeism in Selected European Countries - Modelling from Geographical and Gender Perspectives	Central European Journal of Economic Modelling and Econometrics
+W4390346577	0	2		2023	False	4	0.83716302	True	True	Level of and Changes in Perceived Work Ability Among Partial Disability Pensioners and the Risk of Full Disability Pension—A Register-Linked Cohort Study	Journal of Occupational Rehabilitation
+W4409682924	0	2		2025	False	4	0.90694219	True	True	Impact of the COVID-19 pandemic on long-term sickness absences due to mental disorders in public servants: a retrospective observational study	BMC Public Health
+W4389741020	2	0		2023	False	3	0.69864636	True	False	Sequence analysis of sickness absence and disability pension days in 2012–2018 among privately employed white-collar workers in Sweden: a prospective cohort study	BMJ Open
+W4393948423	0	2		2024	False	3	0.81464604	True	True	Institutional constraints to social dialogue in work integration of persons with disabilities: Slovakia and Norway compared	Employee Relations
+W4406690936	2	0		2024	False	3	0.91994971	True	True	The Rise of Mental Vulnerability at Work	Policy Press eBooks
+W4409260027	0	2		2025	False	3	0.86016332	True	True	Joint contributions of psychological distress and demanding working conditions to short and long sickness absence among young and early midlife municipal employees	European Journal of Public Health
+W4416337172	0	2		2025	False	3	0.92160677	True	True	Sickness absences and losses in productivity-adjusted life years before, during and after the most common orthopedic surgical procedures among employed individuals in Finland	BMC Health Services Research
+W4412720704	0	2	sickness absence rates	2025	False	3	0.87459738	True	True	Sickness absence rates in NHS England staff during the COVID-19 pandemic: Insights from multivariate regression and time series modelling	PLoS ONE
+W4221015452	0	2		2022	False	2	0.8	True	False	Legitimacy and comprehensibility of work-related assessments and official decisions within the sickness insurance system	Linköping University medical dissertations
+W4417265345	0	2		2025	False	2	0.85522124	True	False	Expanding the Focus on Work Factors in an Outpatient Setting: Does a Nudge of Patients and Clinicians have an Effect on Return-to-Work and Benefits? Findings from the NSAC Nudge Multicentre Randomised Controlled Trial	Journal of Occupational Rehabilitation
+W4205164977	0	2		2009	False	1		True	True	OECD Economic Surveys: Norway	OECD economic surveys. Norway
+W4407908203	0	2		2025	False	1	0.64666613	True	True	COVID-19 Pandemic Impact on Sickness Absences Among Healthcare Workers: A Cohort Study in a Spanish Hospital (2018-2023)	La Medicina del Lavoro
+W4413036354	0	2		2025	False	1	0.65069614	True	True	Sickness absence due to mental disorders among young adults: A register-based comparison of Finnish and Swedish speakers in Finland	Scandinavian Journal of Public Health
+W4415310250	0	2		2025	False	1	0.73165337	True	True	The changing emotional codes underlying generation-specific understandings of mental health at work: a qualitative study in the municipal sector	Social Theory & Health
+W4394984066	0	2		2024	False	0	0.12074766	True	True	The current dynamics of vulnerability at work	Policy Press eBooks
+W4394986307	0	2		2024	False	0	0.15015768	True	True	The change in the understanding of occupational health	Policy Press eBooks
+W4394986330	0	2		2024	False	0	0.15158724	True	True	Mental vulnerability and the moving target of mental health	Policy Press eBooks
+W4394986331	0	2		2024	False	0	0.12149533	True	True	The vulnerability of work	Policy Press eBooks
+W4394986354	0	2		2024	False	0	0.15166159	True	True	Mental vulnerability in the historical context	Policy Press eBooks
+W4394987076	0	2		2024	False	0	0.15040026	True	True	The historical pathways of mental vulnerability in different occupations	Policy Press eBooks
+W4394987112	0	2		2024	False	0	0.15181027	True	True	Mental vulnerability as a social practice	Policy Press eBooks
+W4394987117	0	2		2024	False	0	0.15768095	True	True	The vulnerability of cultural existence	Policy Press eBooks
+W4394987150	0	2		2024	False	0	0.15048112	True	True	The temporal nature of mental health at work	Policy Press eBooks
+W4396499086	0	2		2024	False	0	0.17312202	True	True	Original publications of the research group	Policy Press eBooks
+W4396499089	0	2		2024	False	0		True	True	Index	Policy Press eBooks
+W4396499128	0	2		2024	False	0		True	True	Front Matter	Policy Press eBooks
+W4396516786	0	2		2024	False	0		True	True	Preface	Policy Press eBooks
+W4396516812	0	2		2024	False	0	0.17514353	True	True	Background: mental health crisis in the labour market	Policy Press eBooks
+W4396516866	0	2		2024	False	0	0.1022632	True	True	The Rise of Mental Vulnerability at Work	Policy Press eBooks
+W4396517224	0	2		2024	False	0		False	True	References	Policy Press eBooks
+W4400841224	0	2		2024	False	0		False	True	Spending on education is very high, but PISA scores are only average	OECD economic surveys. Norway
+W4400841231	0	2		2024	False	0		False	True	The electricity market is open and well regulated	OECD economic surveys. Norway
+W4400841267	0	2		2024	False	0		False	True	Healthcare spending ranks among the OECD’s highest and is mainly publicly financed	OECD economic surveys. Norway
+W4400841270	0	2		2024	False	0		False	True	PISA results have declined sharply	OECD economic surveys. Norway
+W4400841369	0	2		2024	False	0		True	True	Electricity prices are diverging across Norway	OECD economic surveys. Norway
+W4410793541	0	2		2025	False	0	0.10959006	True	True	Symptoms of Psychological Stress and Sickness Absence Among Healthcare Workers During a Persistent Crisis	Scandinavian Journal of Psychology
+W4415469848	0	2		2025	False	0	0.24437037	True	True	Effects of a smartphone-based stress management program on work performance, sick leave, and intention to leave among nurses during COVID-19 in Vietnam and Thailand: an analysis of secondary outcomes of a randomized controlled trial	Journal of Occupational Health
+W4416049309	0	2		2025	False	0	0.33567395	True	True	Associations between diagnoses linked with adverse COVID-19-related outcomes and sickness absence due to COVID-19 or COVID-19 like diagnoses: a prospective Swedish cohort study of 292 274 blue-collar workers in the retail and wholesale industry	European Journal of Public Health
+W7117713875	0	2		2025	False	0	0.49588245	True	True	Gender Disparities in Sickness Absence Burden Insights from Central and Eastern European Countries	Ekonomia Międzynarodowa
+W7167057002	0	2		2026	False	0	0.43255144	True	False	Incidence of long-term sickness absence in Japan following the COVID-19 pandemic	Occupational Medicine
+W7167811346	0	2		2026	False	0	0.46924132	True	True	The impact of SARS-CoV-2 infection on work participation, sickness absence and general practitioner consultations in the Danish population - a register-based matched cohort study	BMC Public Health
+W7212504392	0	2		2026	True	0	0.48854555	True	True	A review of reviews exploring gender differences in sickness absence	Scandinavian Journal of Work Environment & Health
+W2112713294	1	0	sickness absence in europe	2012	False	214	0.99057016	True	False	Psychosocial work factors and sickness absence in 31 countries in Europe	European Journal of Public Health
+W2155731428	1	0	sickness absence in europe	2013	False	118	0.96238059	True	True	Psychosocial work factors and long sickness absence in Europe	International Journal of Occupational and Environmental Health
+W2137763510	1	0	sickness absence rates	2008	False	104	0.97979511	True	True	Explaining the social gradient in long-term sickness absence: a prospective study of Danish employees	Journal of Epidemiology & Community Health
+W1964691900	1	0	sickness absence and unemployment	2012	False	92	0.9508482	True	True	Short-term sick leave and future risk of sickness absence and unemployment - the impact of health status	BMC Public Health
+W2096940445	1	0	sickness absence rates	1986	False	54	0.77293918	True	True	Comparison of sickness absence in Belgian, German, and Dutch firms.	Occupational and Environmental Medicine
+W2124322886	1	0	sickness absence rates	2005	False	49	0.84186054	True	True	Local economy and sickness absence: prospective cohort study	Journal of Epidemiology & Community Health
+W2033352263	1	0	sickness absence rates	2007	False	40	0.92665163	True	True	Trends in socioeconomic differences in sickness absence among Finnish municipal employees 1990—99	Scandinavian Journal of Public Health
+W2781247816	1	0	sickness absence trend;sickness absence trends	2017	False	35	0.91009635	True	True	Labour Market Segregation and Gender Differences in Sickness Absence: Trends in 2005–2013 in Finland	Annals of Work Exposures and Health
+W2913513120	1	0	sickness absence rates	2019	False	32	0.95096188	True	True	Determinants of sickness absence rate among Finnish municipal employees	Scandinavian Journal of Primary Health Care
+W1971163058	1	0	sickness absence rates	2012	False	30	0.94181304	True	True	The Effect of Occupational and Workplace Gender Composition on Sickness Absence	Journal of Occupational and Environmental Medicine
+W3198827421	1	0	increase in sick leave	2021	False	25	0.92864646	True	True	Impacts of mild and severe COVID-19 on sick leave	International Journal of Epidemiology
+W2954624165	1	0	sickness absence in europe	2004	False	16	0.46283099	True	False	Work Absence in Europe	IMF Working Paper
+W2512649292	1	0	sickness absence rates	2016	False	13	0.76139264	True	True	Trajectory analyses of sickness absence among industrial and municipal employees	Occupational Medicine
+W2146951896	1	0	sickness absence trend;sickness absence trends	2015	False	12	0.88507457	True	True	12-year trends in occupational class differences in short sickness absence among young women	Scandinavian Journal of Public Health
+W3017245820	1	0	trends in sickness absence;increase in sickness absence	2020	False	12	0.72773187	True	True	NHS sickness absence in England: hidden patterns	British Journal of Healthcare Management
+W2560283644	1	0	sickness absence rates;sickness absence in europe	2016	False	7	0.87706831	True	True	Employee collective voice and short-term sickness absence in Europe	European Journal of Industrial Relations
+W4401514047	1	0	sickness absence rates	2024	False	4	0.80985776	True	True	Reducing sickness absence: a work environment intervention in Norwegian hospitals	BMC Health Services Research
+W2461927790	1	0	sickness absence rates	2012	False	3		True	True	Internasjonal sammenligning av sykefravær. Er Arbeidskraftundersøkelsene egnet som datakilde	BIBSYS Brage (BIBSYS (Norway))
+W4400282262	0	1	sick leave during the covid-19	2024	False	2	0.62721775	True	False	Changes in sick notes associated with COVID-19 from 2020 to 2022: a cohort study in 24 million primary care patients in OpenSAFELY-TPP	BMJ Open
+W2800360561	0	1	sickness absence and unemployment	2018	False	1	0.59451898	True	False	Relación entre las tasas de desempleo y los indicadores de absentismo por incapacidad temporal durante periodos de crisis económica	Archivos de Prevención de Riesgos Laborales
+W4408139878	0	1	sickness absence rates	2025	False	0	0.04014694	True	False	Cohort Profile: The Nor-Work Cohort	International Journal of Epidemiology
+W7162010820	0	1	sickness absence rates	2026	False	0	0.29584243	True	True	Longitudinal Associations Between Core Health Domains, Assessed Using the PROMIS-29, and Work Ability in a Working Population: Findings from the Lifelines Cohort Study	Journal of Occupational Rehabilitation

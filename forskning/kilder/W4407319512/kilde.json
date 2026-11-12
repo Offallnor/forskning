@@ -1,0 +1,21 @@
+{
+ "apen_url": "https://link.springer.com/content/pdf/10.1186/s12889-025-21566-1.pdf",
+ "ar": 2025,
+ "doi": "https://doi.org/10.1186/s12889-025-21566-1",
+ "forfattere": [
+  "Kristin Farrants",
+  "Mira Müller",
+  "Kristina A. E. Alexanderson"
+ ],
+ "hentet": "før 2026-11-08",
+ "hentet_fra": "https://link.springer.com/content/pdf/10.1186/s12889-025-21566-1.pdf",
+ "hvordan": "pdf",
+ "id": "W4407319512",
+ "kilde": "BMC Public Health",
+ "lenke": "https://openalex.org/W4407319512",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "BACKGROUND: The COVID-19 pandemic brought with it several changes, both regarding infection with COVID-19 itself as well as measures to combat the spread of infection, that might have affected sickness absence (SA) patterns. The aim was to explore whether incidence and length of SA changed between 2019, 2020, and 2021, as well as to determine factors associated with SA due to COVID-19 or COVID-like diagnoses among privately employed white-collar workers. METHODS: A cohort of all privately employed white-collar workers in 2018 in Sweden (n = 1 347 778; 47% women) was followed prospectively during 2019, 2020, and 2021 using linked nationwide register data. We calculated numbers and proportions of people with incident SA (in SA spells > 14 days) due to COVID-19, COVID-like diagnoses (certain respiratory, infectious, and symptom-based diagnoses used in the beginning of the pandemic for suspected COVID-19), and all other SA, respectively, and mean number of SA days with somatic and mental diagnoses. Logistic regression was used to determine odds ratios (OR) and 95% confidence intervals for associations between prior diagnosis-specific SA, sociodemographic and work-related factors and incident SA due to COVID-19 or COVID-like diagnoses. RESULTS: In 2020, 0.6% of the women and 0.3% of the men had incident SA due to COVID-19. For SA with COVID-like diagnoses, the corresponding proportions were 1.2% and 0.5%. The proportion of people with all other SA was stable across the years, at 8.1-8.4% for women and 3.7-3.9% for men. The mean number of SA days per person increased each year for somatic diagnoses but for mental diagnoses it decreased from 2019 to 2020 and increased to 2021 among women and men. Factors associated most strongly with incident SA due to COVID-19 or COVID-like diagnoses were low income (adjusted OR-range 1.36-5.67 compared to the highest income group) and prior SA due to COVID-like diagnoses (OR-range 4.67-5.31 compared to those with no such prior SA). CONCLUSIONS: A small proportion of privately-employed white-collar workers had incident SA spells > 14 days due to COVID-19 or COVID-like diagnoses. The factors associated with SA due to COVID-19 were similar to factors associated with SA due to other diagnoses in previous studies.",
+ "tittel": "Sickness absence among privately employed white-collar workers during the COVID-19 pandemic; a prospective cohort study",
+ "type": "article"
+}

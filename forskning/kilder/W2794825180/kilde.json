@@ -1,0 +1,20 @@
+{
+ "apen_url": "https://www.jstage.jst.go.jp/article/sangyoeisei/60/3/60_17-029-A/_pdf",
+ "ar": 2018,
+ "doi": "https://doi.org/10.1539/sangyoeisei.17-029-a",
+ "forfattere": [
+  "Kazuhiro Nogawa",
+  "Noriko Kojimahara"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "https://www.jstage.jst.go.jp/article/sangyoeisei/60/3/60_17-029-A/_pdf",
+ "hvordan": "pdf",
+ "id": "W2794825180",
+ "kilde": "SANGYO EISEIGAKU ZASSHI",
+ "lenke": "https://openalex.org/W2794825180",
+ "merknad": "",
+ "oversikt": true,
+ "sammendrag": "OBJECTIVE: We conducted a systematic review to determine whether work accommodation at the time of return-to-work (RTW) following a period of sick leave would improve work-related outcomes. Using a Grading of Recommendations, Assessment, Development and Evaluation (GRADE) approach, we developed recommendations applicable to the field of occupational health in Japan. METHOD: We approached our review question for \"Evidence-based Return-to-work Guidance in Occupational Health 2017 (RTW 2017) \" using a PICO framework (P: workers on sick leave; I: work accommodation; C: usual care; O: improvement of work-related outcomes, such as shortened sick leave period or lower rate of sick leave recurrence). To identify relevant intervention studies about work accommodation at the time of RTW, for example, modified work or partial RTW, we searched Cochrane Library, PubMed, and ICHUSHI Web using keywords/phrases such as workplace accommodation, partial RTW, rehabilitation, and modified work. Although we found no systematic reviews, we did identify 632 randomized controlled trials and cohort studies. Two researchers screened them independently using selection and exclusion criteria defined by the RTW guidance committee in the scope. For intervention studies, we extracted PICO and evaluated risk of bias using RevMan 5.3. For cohort studies, we applied the Newcastle-Ottawa scale for evaluation of risk of bias. We then evaluated the body of evidence based on risk of bias, indirectness, inconsistency, imprecision, and publication bias using GRADEPro GDT. Finally, we adopted Evidence to Decision from GRADE and developed recommendations based on anonymous panels' votes. RESULT: We identified three relevant studies, which were one randomized controlled trial and two cohort studies, on Partial RTW or modified work for musculoskeletal disorders. Although we could not conduct a meta-analysis, our qualitative systematic review of these studies led us to conclude that partial RTW could shorten the period of sick leave and modified work could lower the recurrence rates of sick leave. Therefore, \"Work accommodation at the time of RTW could be provided for workers on sick leave for musculoskeletal disorders\" was weakly recommended on the basis of low evidence. CONCLUSIONS: Our recommendation, though plausible, is weak, as it is based on evidence from a small number of studies of foreign occupational health systems. Development of robust recommendations will require accumulation of additional information on diverse factors, such as cost-effectiveness, and on other diseases, for example, mental health disorders or malignant diseases, in Japan.",
+ "tittel": "Work accommodation at the time of Return-to-Work for workers on sick leave: a qualitative systematic review with recommendations for Return-to-work Guidance 2017",
+ "type": "review"
+}

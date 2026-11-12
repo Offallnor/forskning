@@ -1,0 +1,25 @@
+{
+ "apen_url": "https://journals.plos.org/plosclinicaltrials/article/file?id=10.1371/journal.pctr.0020026&type=printable",
+ "ar": 2007,
+ "doi": "https://doi.org/10.1371/journal.pctr.0020026",
+ "forfattere": [
+  "Ingrid M. C. Bakker",
+  "Berend Terluin",
+  "Harm van Marwijk",
+  "Daniëlle van der Windt",
+  "Frank Rijmen",
+  "Willem van Mechelen",
+  "Wim A. B. Stalman"
+ ],
+ "hentet": "2026-11-09",
+ "hentet_fra": "https://journals.plos.org/plosclinicaltrials/article/file?id=10.1371/journal.pctr.0020026&type=printable",
+ "hvordan": "pdf",
+ "id": "W2161357674",
+ "kilde": "PLoS Clinical Trials",
+ "lenke": "https://openalex.org/W2161357674",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "OBJECTIVE: Mental health problems often affect functioning to such an extent that they result in sick leave. The worldwide reported prevalence of mental health problems in the working population is 10%-18%. In developed countries, mental health problems are one of the main grounds for receiving disability benefits. In up to 90% of cases the cause is stress-related, and health-care utilisation is mainly restricted to primary care. The aim of this study was to assess the effectiveness of our Minimal Intervention for Stress-related mental disorders with Sick leave (MISS) in primary care, which is intended to reduce sick leave and prevent chronicity of symptoms. DESIGN: Cluster-randomised controlled educational trial. SETTING: Primary health-care practices in the Amsterdam area, The Netherlands. PARTICIPANTS: A total of 433 patients (MISS n = 227, usual care [UC] n = 206) with sick leave and self-reported elevated level of distress. INTERVENTIONS: Forty-six primary care physicians were randomised to either receive training in the MISS or to provide UC. Eligible patients were screened by mail. OUTCOME MEASURES: The primary outcome measure was duration of sick leave until lasting full return to work. The secondary outcomes were levels of self-reported distress, depression, anxiety, and somatisation. RESULTS: No superior effect of the MISS was found on duration of sick leave (hazard ratio 1.06, 95% confidence interval 0.87-1.29) nor on severity of self-reported symptoms. CONCLUSIONS: We found no evidence that the MISS is more effective than UC in our study sample of distressed patients. Continuing research should focus on the potential beneficial effects of the MISS; we need to investigate which elements of the intervention might be useful and which elements should be adjusted to make the MISS effective.",
+ "tittel": "A Cluster-Randomised Trial Evaluating an Intervention for Patients with Stress-Related Mental Disorders and Sick Leave in Primary Care",
+ "type": "article"
+}

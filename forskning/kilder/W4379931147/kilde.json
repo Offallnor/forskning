@@ -1,0 +1,16 @@
+{
+ "apen_url": "https://doi.org/10.1016/j.jeoa.2023.100466",
+ "ar": 2023,
+ "doi": "https://doi.org/10.1016/j.jeoa.2023.100466",
+ "forfattere": [
+  "José María Arranz Muñoz",
+  "Carlos García Serrano"
+ ],
+ "id": "W4379931147",
+ "kilde": "The Journal of the Economics of Ageing",
+ "lenke": "https://openalex.org/W4379931147",
+ "oversikt": false,
+ "sammendrag": "This article examines the impact of a law change in benefit rules on the exit of older workers out of the unemployment benefits system. This change occurred in Spain in July 2012, when the age to become eligible for an unlimited unemployment assistance benefit was raised from 52 to 55, reducing the entitlement period to three years for the group of individuals aged 52–54 years who exhausted their unemployment insurance benefits, providing an ideal setting for a quasi-experimental evaluation. Using data from the Spanish Public Employment Service and the recipients aged 55–57 as a control group, we find that the probability of exiting from unemployment to a job for treated individuals who stopped having access to those benefits after the policy change took place increased substantially, thus reducing the expected duration of benefits recipiency. The estimated fiscal impact of this law change was a saving of around €600 million on the benefits budget.",
+ "tittel": "Assistance benefits and unemployment outflows of the elderly unemployed: The impact of a law change",
+ "type": "article"
+}

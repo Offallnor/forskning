@@ -1,0 +1,20 @@
+{
+ "apen_url": "https://academic.oup.com/ej/advance-article-pdf/doi/10.1093/ej/ueaf004/62054554/ueaf004.pdf",
+ "ar": 2018,
+ "doi": "https://doi.org/10.1093/ej/ueaf004",
+ "forfattere": [
+  "Monique de Haan",
+  "Ragnhild C. Schreiner"
+ ],
+ "hentet": "2026-11-09",
+ "hentet_fra": "https://www.cream-migration.org/publ_uploads/CDP_10_18.pdf",
+ "hvordan": "pdf",
+ "id": "W3123524712",
+ "kilde": "The Economic Journal",
+ "lenke": "https://openalex.org/W3123524712",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "Abstract Exploiting rich administrative data from Norway, we estimate non-parametric bounds around the average causal effect of parental welfare participation on children’s welfare participation for children that grew up in welfare-dependent families. We find upper bounds well below the intergenerational association and substantially below existing local average treatment effect estimates in the literature. Our results show that a substantial portion of the observed intergenerational correlation in welfare dependency is due to selection, and that there is important heterogeneity in the intergenerational effects both between participants (and their children) within a welfare program, as well as across different welfare programs.",
+ "tittel": "The Intergenerational Transmission of Welfare Dependency",
+ "type": "article"
+}

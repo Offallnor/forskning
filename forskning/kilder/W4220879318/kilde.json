@@ -1,0 +1,23 @@
+{
+ "apen_url": "https://www.tandfonline.com/doi/pdf/10.1080/02813432.2022.2036420?needAccess=true",
+ "ar": 2022,
+ "doi": "https://doi.org/10.1080/02813432.2022.2036420",
+ "forfattere": [
+  "Mirkka Söderman",
+  "Agneta Wennman‐Larsen",
+  "Jan L. Hoving",
+  "Kristina A. E. Alexanderson",
+  "Emilie Friberg"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "https://pure.amsterdamumc.nl/ws/files/136330466/Interventions%20regarding%20physicians%20%20sickness%20certification%20practice%20%20%20a%20systematic%20literature%20review%20with%20meta-analyses.pdf",
+ "hvordan": "pdf",
+ "id": "W4220879318",
+ "kilde": "Scandinavian Journal of Primary Health Care",
+ "lenke": "https://openalex.org/W4220879318",
+ "merknad": "",
+ "oversikt": true,
+ "sammendrag": "OBJECTIVE: A variety of interventions aiming to influence physicians' sickness certification practice have been conducted, most are, however, not evaluated scientifically. The aim of this systematic literature review was to obtain updated knowledge about interventions regarding physicians' sickness certification practice and to summarize their possible effects, in terms of sickness absence (SA) or return to work (RTW) among patients. METHODS: We searched PubMed and Web of Science up through 15 June 2020 and selected peer-reviewed studies that reported effects of controlled interventions that aimed to improve physicians' sickness certification practice and used SA or RTW among patients as outcome measures. Meta-analyses were conducted using random-effect models. RESULTS: Of the 1399 identified publications, 12 studies covering 9 interventions were assessed as relevant and included in the review. Most (70%) were from the Netherlands, two had a controlled, and seven a randomized controlled study design. All interventions included some type of training of physicians, and two interventions also included IT-support. Regarding the outcomes of SA/RTW, 30 different effect measures were used. In the meta-analyses, no statistically significant effect in favor of the interventions was observed for having any RTW (i.e. first, partial, or full) nor full RTW. CONCLUSIONS: The individual studies showed that physicians' sickness certification practice might be influenced by interventions in both the intended and non-intended direction, however, no statistically significant effect was indicated by the meta-analysis. The included studies varied considerably concerning intervention content and effect measures.KEY POINTSThe knowledge is very limited regarding the content of interventions directed to physician's sickness certification practiceThe identified interventions included some type of training of physicians, and some of them also included IT-support for physiciansThere was a great heterogeneity among the interventions concerning effect measures used regarding return to work among patientsThe individual studies showed that physicians' sickness certification practice might be influenced by interventions in both intended and non-intended directions, however, the overall meta-analysis did not indicate an effect.",
+ "tittel": "Interventions regarding physicians’ sickness certification practice – a systematic literature review with meta-analyses",
+ "type": "review"
+}

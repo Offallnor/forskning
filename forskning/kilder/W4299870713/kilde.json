@@ -1,0 +1,20 @@
+{
+ "apen_url": "https://docs.iza.org/dp7128.pdf",
+ "ar": 2013,
+ "forfattere": [
+  "Paul Bingley",
+  "Lorenzo Cappellari",
+  "Niels Westergård‐Nielsen"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "https://docs.iza.org/dp7128.pdf",
+ "hvordan": "pdf",
+ "id": "W4299870713",
+ "kilde": "RePEc: Research Papers in Economics",
+ "lenke": "https://openalex.org/W4299870713",
+ "merknad": "ÅPEN VERSJON (preprint eller arbeidsnotat), merkes i svaret",
+ "oversikt": false,
+ "sammendrag": "We investigate the relationship between life cycle wages and individual membership of unemployment insurance schemes in Denmark. We separate permanent from transitory wages and characterise them using membership of unemployment insurance funds. We find that unemployment insurance is associated with lower wage growth heterogeneity over the life cycle and greater wage instability, changing the nature of wage inequality from permanent to transitory. While we are in general unable to formally test for moral hazard against adverse selection into unemployment insurance, robustness checks suggest that moral hazard is the relevant interpretation.",
+ "tittel": "Unemployment Insurance, Wage Dynamics and Inequality over the Life Cycle",
+ "type": "preprint"
+}

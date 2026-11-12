@@ -1,0 +1,15 @@
+{
+ "apen_url": "https://papers.ssrn.com/sol3/Delivery.cfm/labr_312.pdf?abstractid=795630&mirid=3",
+ "ar": 2005,
+ "doi": "https://doi.org/10.1111/j.1467-9914.2005.00312.x",
+ "forfattere": [
+  "Inés Hardoy"
+ ],
+ "id": "W1980970299",
+ "kilde": "Labour",
+ "lenke": "https://openalex.org/W1980970299",
+ "oversikt": false,
+ "sammendrag": "Abstract. Unemployed youth in Europe have access to a variety of labour market programmes, the intention of which is to improve the chances of employment or education. A particular two-stage modelling and estimation procedure designed to analyse the effects of multiple programmes on multiple outcomes is used to control for selection bias. The model is applied to non-experimental longitudinal data on young unemployed individuals in Norway in the early 1990s, a period during which unemployment was rising. Separate analyses for subgroups indicate that employment programmes increase the full-time employability of females but not of males, and for the younger age group, but not of those over 20 years of age. Training programmes have no positive effects, irrespective of subgroup. Vocational programmes are counterproductive for teenagers, which is the group at which it is targeted.",
+ "tittel": "Impact of Multiple Labour Market Programmes on Multiple Outcomes: The Case of Norwegian Youth Programmes",
+ "type": "article"
+}

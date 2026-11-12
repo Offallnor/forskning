@@ -1,0 +1,21 @@
+{
+ "apen_url": "https://oem.bmj.com/content/oemed/78/10/715.full.pdf",
+ "ar": 2021,
+ "doi": "https://doi.org/10.1136/oemed-2020-107014",
+ "forfattere": [
+  "Esther T. Maas",
+  "Mieke W Koehoorn",
+  "Chris McLeod"
+ ],
+ "hentet": "før 2026-11-08",
+ "hentet_fra": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8458068/fullTextXML",
+ "hvordan": "Europe PMC",
+ "id": "W3138116577",
+ "kilde": "Occupational and Environmental Medicine",
+ "lenke": "https://openalex.org/W3138116577",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "OBJECTIVE: This study investigates if gradual return to work (GRTW) is associated with full sustainable return to work (RTW) for seriously injured workers with a musculoskeletal disorder (MSD), in British Columbia, Canada. METHODS: This is an effectiveness study using a retrospective cohort study design. Accepted workers' compensation lost-time claims were extracted for workers with an MSD who were on full work disability for at least 30 days, between 2010 and 2015 (n=37 356). Coarsened exact matching yielded a final matched cohort of 12 494 workers who experienced GRTW at any point 30 days post-injury and 12 494 workers without any GRTW. The association between GRTW and sustainable RTW through to end of 12 months was estimated with multivariable quantile regression. RESULTS: Workers who were provided with GRTW experienced more time-loss days until sustainable RTW between the 2nd and 5th months after the first time-loss day (<50th quantile of time loss), but less time-loss days until sustainable RTW between the 6th and 12th months of work disability (70th quantile of time loss), with the largest effect for women, workers with soft-tissue injuries and workers in the manufacturing or trades sector (all in the 60th and 70th percentile, after 6-7 months of time loss). CONCLUSIONS: For seriously injured workers with at least 30 days of disability due to a work-acquired MSD, the effect of GRTW becomes apparent at longer disability durations (more than 6 months), with larger beneficial effects for women, workers with soft-tissue injuries and for trade and manufacturing sectors.",
+ "tittel": "Does gradually returning to work improve time to sustainable work after a work-acquired musculoskeletal disorder in British Columbia, Canada? A matched cohort effectiveness study",
+ "type": "article"
+}

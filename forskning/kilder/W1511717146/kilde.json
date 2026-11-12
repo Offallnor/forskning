@@ -1,0 +1,20 @@
+{
+ "apen_url": "https://econpapers.repec.org/RePEc:hhs:oruesi:2010_017",
+ "ar": 2010,
+ "fil": "fil.pdf",
+ "forfattere": [
+  "Daniela Andrén"
+ ],
+ "hentet": "før 2026-11-08",
+ "hentet_fra": "https://www.oru.se/globalassets/oru-sv/institutioner/hh/workingpapers/workingpapers2010/wp-17-2010.pdf",
+ "hvordan": "pdf",
+ "id": "W1511717146",
+ "kilde": "RePEc: Research Papers in Economics",
+ "lenke": "https://openalex.org/W1511717146",
+ "merknad": "",
+ "opplastet": "2026-11-07",
+ "oversikt": false,
+ "sammendrag": "It has been suggested that using, when possible, part-time sick leave (PTSL) rather than full-time sick leave (FTSL) for employees diagnosed with a mental disorder (MD) decreases their likelihood of being on sick leave for long periods. However, no study has analyzed this \"treatment\". Using a one-factor loadings model and a sample of 627 employees on sick leave due to an MD diagnosis, we estimate the impact of the PTSL \"treatment\" on the probability of full recovery of lost work capacity. The results indicate that employees with an MD diagnosis assigned to PTSL after 60 days of FTSL have a relatively high probability of full recovery. More exactly, the average treatment effect of PTSL is relatively low (0.015) when assigned in the beginning of the spell, but relatively high (0.387), and statistically significant, when assigned after 60 days of FTSL.",
+ "tittel": "Part-time Sick Leave as a Treatment for Individuals with Mental Disorders?",
+ "type": "preprint"
+}

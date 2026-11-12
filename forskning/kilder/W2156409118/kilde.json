@@ -1,0 +1,15 @@
+{
+ "ar": 2015,
+ "doi": "https://doi.org/10.1093/ser/mwv020",
+ "forfattere": [
+  "Melike Wulfgramm",
+  "Lukas Fervers"
+ ],
+ "id": "W2156409118",
+ "kilde": "Socio-Economic Review",
+ "lenke": "https://openalex.org/W2156409118",
+ "oversikt": false,
+ "sammendrag": "Recent labour market reforms in Europe have been aimed at activating non-employed people and shortening unemployment duration. While this should indisputably be a central policy aim, the exclusive focus on quick re-employment neglects the importance of its quality and stability. Therefore, this paper analyses the effect of labour market policy on re-employment stability in Europe. Combining EU-SILC longitudinal survey data with macro-data on labour market policy, we conduct multi-level survival analysis. Empirical evidence suggests that countries with more generous unemployment insurance and higher active labour market policy (ALMP) spending achieve more sustainable reintegration of previously unemployed workers. These results point to a policy trade-off between the well-confirmed disincentive and locking-in effect of unemployment benefits and ALMP programmes on the one hand, and their positive effect on re-employment stability on the other hand.",
+ "tittel": "Unemployment and subsequent employment stability: does labour market policy matter?",
+ "type": "article"
+}

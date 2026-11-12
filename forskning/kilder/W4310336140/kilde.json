@@ -1,0 +1,26 @@
+{
+ "apen_url": "https://oem.bmj.com/content/oemed/80/1/42.full.pdf",
+ "ar": 2022,
+ "doi": "https://doi.org/10.1136/oemed-2022-108637",
+ "forfattere": [
+  "Fiona Aanesen",
+  "Margreth Grotle",
+  "Tarjei Langseth Rysstad",
+  "Anne Therese Tveter",
+  "Alexander Tingulstad",
+  "Ida Løchting",
+  "Milada Cvancarova Småstuen",
+  "Maurits W. van Tulder"
+ ],
+ "hentet": "2026-11-09",
+ "hentet_fra": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9763188/fullTextXML",
+ "hvordan": "Europe PMC",
+ "id": "W4310336140",
+ "kilde": "Occupational and Environmental Medicine",
+ "lenke": "https://openalex.org/W4310336140",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "OBJECTIVES: To evaluate if adding motivational interviewing (MI) or a stratified vocational advice intervention (SVAI) to usual case management (UC), reduced sickness absence over 6 months for workers on sick leave due to musculoskeletal disorders. METHODS: We conducted a three-arm parallel pragmatic randomised controlled trial including 514 employed workers (57% women, median age 49 (range 24-66)), on sick leave for at least 50% of their contracted work hours for ≥7 weeks. All participants received UC. In addition, those randomised to UC+MI were offered two MI sessions from social insurance caseworkers and those randomised to UC+SVAI were offered vocational advice from physiotherapists (participants with low/medium-risk for long-term sickness absence were offered one to two sessions, and those with high-risk were offered three to four sessions). RESULTS: Median sickness absence was 62 days, (95% CI 52 to 71) in the UC arm (n=171), 56 days (95% CI 43 to 70) in the UC+MI arm (n=169) and 49 days (95% CI 38 to 60) in the UC+SVAI arm (n=169). After adjusting for predefined potential confounding factors, the results showed seven fewer days in the UC+MI arm (95% CI -15 to 2) and the UC+SVAI arm (95% CI -16 to 1), compared with the UC arm. The adjusted differences were not statistically significant. CONCLUSIONS: The MI-NAV trial did not show effect on return to work of adding MI or SVAI to UC. The reduction in sickness absence over 6 months was smaller than anticipated, and uncertain due to wide CIs. TRIAL REGISTRATION NUMBER: NCT03871712.",
+ "tittel": "Effectiveness of adding motivational interviewing or a stratified vocational advice intervention to usual case management on return to work for people with musculoskeletal disorders: the MI-NAV randomised controlled trial",
+ "type": "article"
+}

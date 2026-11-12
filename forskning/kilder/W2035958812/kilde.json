@@ -1,0 +1,15 @@
+{
+ "ar": 2002,
+ "doi": "https://doi.org/10.1007/978-3-662-11592-3_10",
+ "forfattere": [
+  "Roger W. Koenker",
+  "Yannis Bilias"
+ ],
+ "id": "W2035958812",
+ "kilde": "Physica-Verlag eBooks",
+ "lenke": "https://openalex.org/W2035958812",
+ "oversikt": false,
+ "sammendrag": "We argue that quantile regression methods can play a constructive role in the analysis of duration (survival) data offering a more flexible, more complete analysis than is typically available with more conventional methods. We illustrate the approach with a reanalysis of the data from the Pennsylvania Reemployment Bonus Experiments. These experiments, conducted in 1988–89, were designed to test the efficacy of cash bonuses paid for early reemployment in shortening the length of insured unemployment spells",
+ "tittel": "Quantile regression for duration data: A reappraisal of the Pennsylvania Reemployment Bonus Experiments",
+ "type": "book-chapter"
+}

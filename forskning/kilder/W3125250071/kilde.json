@@ -1,0 +1,20 @@
+{
+ "apen_url": "http://doku.iab.de/discussionpapers/2009/dp2509.pdf",
+ "ar": 2009,
+ "forfattere": [
+  "Stephan Dlugosz",
+  "Gesine Stephan",
+  "Ralf A. Wilke"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "http://doku.iab.de/discussionpapers/2009/dp2509.pdf",
+ "hvordan": "pdf",
+ "id": "W3125250071",
+ "kilde": "MADOC (University of Mannheim)",
+ "lenke": "https://openalex.org/W3125250071",
+ "merknad": "ÅPEN VERSJON (preprint eller arbeidsnotat), merkes i svaret",
+ "oversikt": false,
+ "sammendrag": "From 2002-2004, the German government passed several laws that curtailed the generosity of the unemployment compensation system. One of the most ambitious changes was a considerable reduction in unemployment benefit entitlement lengths for older unemployed, which was effective during 2006 and 2007. We apply a difference-in-differences approach to show that the highly disputed reform induced a considerable decline in unemployment incidence among older workers. It thus sealed an important leak in the unemployment insurance system. Furthermore, we find a strong anticipation effect; unemployment entries of elderly workers peaked during the months preceding the reform.",
+ "tittel": "Fixing the leak: unemployment incidence before and after the 2006 reform of unemployment benefits in Germany",
+ "type": "report"
+}

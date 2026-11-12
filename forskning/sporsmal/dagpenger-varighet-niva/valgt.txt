@@ -1,0 +1,1086 @@
+# --- første utvalg, bolk oa-1 (10.11) ---
+W2963969083  # 1, EU (AT,FR,DE,SI), periode, Campbell-oversikt: kortere maksimal periode og jobbfinning, sju kvasieksperimentelle studier
+W22629269  # 1, EU/US/CA, periode, Campbell-oversikt: utløp av dagpenger øker avgang til arbeid (47 studier)
+W2007610504  # 1, EU, periode, publisert versjon av Campbell-oversikten om utløp (samme materiale som W22629269)
+W2958053379  # 1, -, periode, protokoll for Campbell-oversikt om utløp (samme materiale som W22629269)
+W2963168413  # 1, -, periode, protokoll for Campbell-oversikt om kortere periode (samme materiale som W2963969083)
+W2892364420  # 1, US/EU, begge, Annual Review: nye kvasieksperimentelle estimater for nivå og varighet
+W7131355276  # 1, US/int, begge, metaanalyse av elastisiteten i ledighetsvarighet mht dagpenger, korrigert for publiseringsskjevhet
+W3215335411  # 1, int, periode, oversikt over elastisitet av ledighetsvarighet mht potensiell periode
+W1969669601  # 1, int, periode, oversikt over insentiver i dagpenger (varighet, tidsprofil), bakgrunn
+W2615982170  # 1, US/int, begge, sammenstilling av BC/MC-forhold på tvers av studier av nivå og varighet
+W2987477897  # 1, US, begge, oversikt over empiri om UI i USA (von Wachter 2019), bakgrunn
+W2138836438  # 1, US, begge, kapittel om arbeidstilbudseffekter av sosialforsikring inkl. UI (Krueger og Meyer)
+W2130044643  # 2, US, bonus, oversikt over amerikanske UI-forsøk med gjenansettelsesbonus
+W2084090750  # 3, SE, nivå, svenske reformer 2001-2002 med økt nivå, kvasieksperiment, overgang til arbeid
+W3121246414  # 3, SE, nivå, Sverige 1996 kutt i kompensasjonsgrad 80->75, DiD, jobbfinning +10 %
+W2142986258  # 3, NO, periode, norsk dagpengereform, myke og harde varighetsgrenser, spike ved utløp
+W31426785  # 3, NO, periode, norsk reform med kortere dagpengeperiode, overgang til jobb og trygd (Søkelys)
+W2002707463  # 3, FI, nivå, finsk UI-reform og gjenansettelse (Uusitalo og Verho)
+W3122181088  # 3, FI, periode, Finland 1997 økt alder for forlenget dagpengeperiode (tunnel) 53->55, ledighetsvarighet
+W860717682  # 4, SE, nivå, svensk kutt i maksimal dagpenning 2007, DiD, ersättningstid (masteroppgave)
+W803382566  # 4, SE, nivå, ersättningsgrad og lønn, panel 2006-2009 (jobbskatteavdrag), lønnseffekt
+W2186134614  # 3, CH, periode, Sveits 2003 kortere periode 24->18 mnd, mellomlang sikt sysselsetting og inntekt
+W2185888687  # 3, CH, periode, samme materiale som W2186134614 (eldre arbeidstakere)
+W2523863210  # 3, CH, periode, Sveits 2003 kortere maks periode, RD og matching, jobbfinning
+W2016867550  # 3, AT, periode, Lalive 2007 RD utvidet periode og ledighetsvarighet (J Econometrics)
+W3122102389  # 3, AT, periode, åpen versjon av W2016867550
+W2069043980  # 3, AT, periode, Lalive 2007 AER P&P, RD varighet og jobbkvalitet etter ledighet
+W3084713950  # 3, AT, begge, Østerrike 1989 reform med økt nivå og/eller lengre periode, ledighetsvarighet
+W3123077723  # 3, AT, periode, Nekoei og Weber RD: lengre periode gir høyere gjenansettelseslønn
+W4403255343  # 3, DE, periode, potensiell periode og etablering av selvstendig virksomhet (RD/reform), beslektet utfall
+W2092107418  # 3, DE, periode, Schmieder mfl. RD over 20 år, effekt av periode over konjunktursyklusen (QJE)
+W2890402555  # 3, DE, periode, NBER-versjon av W2092107418
+W2318552292  # 3, DE, periode, RD: forlengelser senker gjenansettelseslønn (AER 2016)
+W2186949310  # 3, DE, periode, arbeidsnotat om periode og jobbkvalitet (samme materiale som W2318552292)
+W2186066881  # 3, DE, periode, arbeidsnotat om forlengelser og gjenansettelseslønn (samme materiale som W2318552292)
+W2153601957  # 3, DE, periode, langsiktige sysselsettingseffekter av forlengelser, RD (AER P&P)
+W1563984614  # 3, DE, periode, NBER-versjon av W2153601957
+W2182735290  # 3, DE, periode, tysk reform 2004/2006 kortere periode, avgang fra jobb før reform (innstrømming)
+W3123892038  # 3, DE, periode, Vest-Tyskland 1980-tallet forlenget periode for eldre, ledighetsvarighet
+W2095958520  # 4, DE, nivå, strukturell estimering av Hartz IV, tidsavhengig nivå og ledighet
+W3169715751  # 4, DE, begge, Hartz-reformer og arbeidsmarkedsdynamikk (UI-reform), makro
+W2911553054  # 4, DE, begge, samme materiale som W3169715751
+W2562592330  # 4, DE, periode, Hartz-reform og ledighetsvarighet, konkurrerende risiko (metodeorientert)
+W2141303476  # 3, DE, periode, ledighetsinnstrømming før og etter 2006-reformen av dagpengeperiode
+W2109630974  # 3, SI, periode, Slovenia kortere periode naturlig eksperiment, avgang fra ledighet (JOLE)
+W2233707293  # 3, SI, nivå, Slovenia kvasieksperiment, nivå og ledighetsvarighet
+W3123464154  # 4, SI, periode, spike i jobbfinning ved utløp, Slovenia, jobbtype
+W4413097537  # 3, PL, periode, Polen RD potensiell periode, mikro- og makroeffekter (REStud 2025)
+W3165604525  # 3, PL, periode, Polen kortere periode, regionale grenser og reform (samme materiale som W4413097537)
+W3161696407  # 3, PL, periode, SSRN-versjon av W3165604525
+W7154563528  # 3, IT, periode, Italia 2015 reform, RD, lengre periode lengre ikke-sysselsetting og karrierestabilitet
+W2402272161  # 3, HU, nivå, Ungarn reform i tidsprofil, referanseavhengig jobbsøking, avgang rundt nivåkutt
+W2535864760  # 3, HU, nivå, Ungarn frontlasting av dagpenger, ikke-sysselsetting og gjenansettelseslønn
+W2099805504  # 4, NL, begge, nederlandske UI-reformer 1980-2000, ledighetsvarighet og jobbkvalitet etter kjønn
+W2328605831  # 4, NL, begge, nederlandske UI-kutt og gjenansettelseslønn, faste effekter
+W2143667081  # 4, EU8, begge, ECHP: dagpenger, ledighetsvarighet og påfølgende jobbstabilitet
+W1991705490  # 5, DE, nivå, mottak av dagpenger, ledighetsvarighet og jobbkvalitet (overutdanning)
+W3004469581  # 3, ES, periode, Spania 2012 økt alder for forlenget dagpenger, innstrømming eldre
+W825815562  # 3, US, periode, Missouri kutt 16 uker, RD, individ- og markedseffekter
+W2116604021  # 3, US, nivå, Missouri regression kink, nivå og varighet, sterkere i resesjon
+W1542968660  # 3, US, nivå, New York økt maks ukentlig dagpenger, varighet
+W3122584885  # 3, US, periode, RD med målefeilkorreksjon, forlengelser og ledighet, grensespillover
+W2346905068  # 3, US, periode, arbeidsnotat av W3122584885
+W3133978695  # 3, US, periode, RePEc-versjon av W3122584885
+W1498285404  # 4, US, periode, Hagedorn mfl.: aggregert effekt av kutt i forlengelser 2014, grensefylker
+W2408422098  # 1, US, periode, kritisk gjennomgang av kvasieksperimentelle studier av forlengelser (makro)
+W2021549551  # 3, US, periode, RD standby extended benefits 1991, fylkesledighet og varighet
+W2556156673  # 5, US, periode, North Carolina 2013 kutt i forlengelser, deskriptiv casestudie
+W3048915154  # 4, US, nivå, CARES-tillegg $600 og sysselsetting under pandemien
+W3122061807  # 4, AT, periode, spike ved utløp: forlater systemet eller ny jobb (Card, Chetty, Weber)
+W2993610654  # 3, FR, periode, fransk reform av opptjening, ansettelsesvarighet og jobbkvalitet (beslektet: rett til dagpenger)
+# --- første utvalg, bolk oa-2 (10.11) ---
+W3123797400  # 3, US, periode, Johnston og Mas: kutt i maksimal periode i Missouri, individ- og markedsrespons (tittel, kjent JPE-studie)
+W2135279395  # 3, SI, periode, van Ours og Vodopivec: kortere periode i Slovenia og jobbkvalitet (publisert versjon)
+W3123640418  # 3, SI, periode, samme materiale som W2135279395 (arbeidsnotat)
+W1605675236  # 3, SI, periode, samme materiale som W2135279395: kortere periode økte jobbfunn, ingen effekt på kontrakt, varighet eller lønn
+W2236906829  # 3, SI, periode, samme materiale som W2135279395 (arbeidsnotat)
+W2607337089  # 3, US, periode, Boone, Dube og Goodman: forlengelser under finanskrisen, ingen effekt på samlet sysselsetting (grensefylker)
+W3124010088  # 3, US, periode, samme materiale som W2607337089 (SSRN-versjon)
+W3118147304  # 4, US, nivå, Finamor og Scott: økt dagpengenivå under pandemien og arbeidsmarkedet (tittel)
+W2964031237  # 5, US, nivå, opplevd generøsitet, søkeatferd, gjenansettelse og jobbkvalitet (spørreundersøkelse)
+W2013038904  # 3, PT, begge, Centeno og Novo: generøsitet og fordeling av jobbmatch (tittel)
+W2732909796  # 3, DE, periode, von Wachter og Bender (Schmieder m.fl.): RD på aldersgrenser, små effekter, over konjunkturen
+W1896297227  # 3, DE, periode, samme materiale som W2732909796 (Schmieder, von Wachter og Bender, GESIS-versjon)
+W2119864507  # 3, AT, periode, Nekoei: RD på alder i Østerrike, forlengelse øker gjenansettelseslønn (avhandling, samme materiale som Nekoei og Weber)
+W4392878234  # 3, AT, periode, Guglielminetti, Lalive og Ruh: periode og pendling/lønn i ny jobb
+W4238043691  # 3, US, periode, Hellwig: forlengelser, makroeffekter i fylker (DiD)
+W2951079906  # 4, EU, begge, Pellizzari: samspill dagpenger og sosialhjelp, mindre følsomhet for nivå og periode (ECHP)
+W2783723866  # 3, CH, nivå, Eugster: høyere kompensasjonsgrad i Sveits 2003, DiD, lengre ledighet
+W2609912204  # 3, IE, nivå, Doris m.fl.: 50 prosent kutt for unge i Irland, RD, kortere ledighet
+W2601296159  # 4, DK, periode, Geerdsen m.fl.: avgang til arbeid ved utløp av retten etter fire år
+W2948483932  # 3, FI, periode, Kyyrä, Pesola og Verho: spike ved utløp i Finland
+W2911202431  # 5, FI, periode, forhåndsvurdering (mikrosimulering) av kutt fra 500 til 400 dager i Finland 2017, bygger på elastisiteter fra litteraturen
+W2746636041  # 5, FI, periode, samme materiale som W2911202431
+W4229452285  # 3, DE, periode, Petrunyk og Pfeifer: kortere periode for eldre med helseplager, DiD, mer arbeid og mer sosialhjelp
+W4280523318  # 3, DE, periode, samme materiale som W4229452285 (Labour)
+W4401566784  # 3, CH, periode, Kuhn m.fl.: RD på periode, raskere gjenansettelse for alle familietyper
+W4245598734  # 3, PT, nivå, OECD: kutt i nivå i Portugal 2012 og strømmer til arbeid
+W3009330154  # 3, NL, begge, Mooi-Reci og Mills: dagpenger og gjenansettelseslønn, kvasieksperiment (tittel)
+W3123361467  # 3, PT, periode, Novo og Silva: forlengelse i Portugal 1999, likevektsmodell testet
+W2128039223  # 3, PT, periode, samme materiale som W3123361467 (arbeidsnotat)
+W4226350725  # 3, US, begge, Conway: kutt i nivå og periode i North Carolina 2013, ingen økt sysselsetting, flere ut av arbeidsstyrken
+W4408144220  # 3, US, nivå, Parolin og Pignatti: opphør av pandemitillegg, flere til arbeid (halvparten tilbakekalling), dårligere jobber
+W7171395608  # 4, ES, nivå, Silva m.fl.: to reformer av kompensasjonsgrad i Spania over konjunkturen
+W2924575465  # 3, FR, periode, Decreuse og Wilemme: skjevhet i RD på alder for forlengelser (metode med anvendelse)
+W2800246658  # 4, DK, periode, Filges m.fl.: effekten av utløp av retten på sysselsetting (tittel)
+W3197351790  # 3, TW, periode, Huang og Yang: optimal dagpengeordning med to naturlige eksperimenter (tittel)
+W3159023618  # 3, TW, periode, samme materiale som W3197351790
+W2112857119  # 3, US, nivå, Woodbury: økt nivå og ledighetsvarighet, DiD (prosjektbeskrivelse, sjekk om studie finnes)
+W4306866158  # 1, US, begge, Klerman: kapittel som gjennomgår litteraturen om nivå og periode (bakgrunn, ukjent om systematisk)
+W4322604235  # 1, EU, begge, Boeri og Cahuc: Annual Review om dagpenger og korttidsarbeid (bakgrunn)
+W7162530432  # 3, US, periode, Lustgarten: kutt i periode i Missouri 2011, syntetisk DiD, utgifter og varighet (masteroppgave)
+W4288901978  # 5, US, periode, kutt i Michigan 26 til 20 uker og ledighetsrate (svak, usikker kvalitet)
+W2005944239  # 3, AT, periode, Card, Chetty og Weber: spike ved utløp, gjennomgang og østerrikske data
+W4296295367  # 3, AT, nivå, Card, Lee, Pei og Weber: regression kink, elastisitet for nivå (Østerrike)
+W1550621809  # 3, AT, nivå, samme materiale som W4296295367 (arbeidsnotat)
+W1480269971  # 3, AT, nivå, samme materiale som W4296295367 (NBER)
+W3130759464  # 3, US, nivå, Ganong, Greig og Liebeskind: pandemitillegg, liten effekt på jobbsøking
+W2110608765  # 3, DE, periode, Schmieder, von Wachter og Bender: forlengelser senker gjenansettelseslønn (RD)
+W1795977042  # 3, AR, begge, Argentina: høyere/lengre dagpenger øker ledighetsvarighet (utviklingsland, vurder)
+W3130251200  # 3, US, nivå, Dube: opphør av 600-dollartillegget, liten effekt på sysselsetting
+W3124780594  # 3, US, nivå, Card, Johnston, Leung og Pei: RK i Missouri, elastisitet høyere i resesjon
+W2154489365  # 3, CA, begge, Lemieux og MacLeod: økt generøsitet i Canada 1971, varig økt bruk
+W2515622539  # 3, DE, periode, Lichter: periode og søkeinnsats, naturlig eksperiment
+W3123331744  # 3, FI, periode, Kyyrä og Ollikainen: heving av aldersgrense for forlenget periode i Finland 1997
+W3024109073  # 3, FR, periode, Le Barbanchon, Rathelot og Roulet: periode og reservasjonslønn, elastisitet om lag null
+W4404026661  # 3, DE, periode, korttidsarbeid (permittering): utløp av periode og separasjoner (beslektet, permitterte)
+W3122571372  # 3, AT, periode, Lalive og Zweimüller: REBP, forlengelse til 209 uker, 17 prosent lavere overgang til jobb
+W650114545  # 3, DE, nivå, Nagl og Weber: Hartz IV, kutt for langtidsledige, økt overgang til arbeid
+W3121535328  # 4, CL, nivå, Chile: dagpenger og søkeinnsats (utviklingsland, vurder)
+# --- første utvalg, bolk oa-3 (10.11) ---
+W4283363271  # 3, BE, nivå, 2012-reform som gjorde profilen brattere; ingen økt avgang til arbeid (OECD-arbeidsnotat)
+W1548833344  # 3, PT, periode, kvasi-eksperiment med forlenget rett; lengre ledighet, inntektseffekt etter likviditet
+W2559757846  # 3, BR, periode, RD med manipulasjon, anvendt på UI og formell gjenansettelse (utviklingsland, men metodisk sentral; vurder)
+W1512075155  # 3, HU, begge, 1993-reform med mindre generøse dagpenger; økt avgang (overgangsøkonomi)
+W3151320739  # 3, DE, periode, RD aldersgrenser; forlengelse senker gjenansettelseslønn via varighet
+W3125232205  # 3, FR, periode, RD 2003-reform som kuttet periode for eldre; overgang ut av ledighet
+W2978482230  # 3, SE, beslektet (sanksjoner), DiD svenske reformer; tas med bare som kontekst – vurder
+W4401689619  # 1, flere land, begge, metaanalyse av effekt av dagpenger på ledighetsvarighet, publiseringsskjevhet
+W2917151827  # 3, US, begge, eksperimentelle/kvasi-eksperimentelle estimater av økt sats vs lengre periode
+W4283216310  # 3, US, begge, kutt i UI i sju stater; startlønn og sysselsettingsvekst (likevekt/jobbkvalitet)
+W2780692320  # 3, AT/CH?, periode, naturlige eksperimenter; reservasjonslønn +1% per 20 dager forlenget periode
+W2784844281  # 3, DE, periode, naturlig eksperiment kortere periode (samme materiale som W3125979033)
+W4249738964  # 3, BE, nivå/periode, DiD 2015-reform som fjernet ventetidsytelse for unge; overgang til arbeid
+W3047943556  # 3, FR, periode, take-up av forlengelser ved utløp; informasjonsbrev (beslektet)
+W1571171305  # 3, PL, periode, DiD 1991 kutt fra ubegrenset til 12 mnd; ingen effekt på ledighetsvarighet
+W3123331108  # 3, SE, periode, 30 ukers forlengelse; spike ved utløp, timing av jobb vs ut av arbeidsstyrken
+W3125250071  # 3, DE, periode, DiD 2006-reform kortere periode eldre; tilgang til ledighet (samme materiale som W4255935038)
+W2922028625  # 4, SE?, beslektet (sluttvederlag), likviditets- vs moral hazard; ledighetsvarighet og jobbkvalitet
+W7127974830  # 1, flere land, begge, data og kode for Cohen & Ganong metaanalyse (samme materiale som W4401689619)
+W2624227397  # 3, FI, periode, effekter av potensiell varighet uten variasjon i maks; finske registerdata
+W3125083768  # 3, FI, periode, samme materiale som W2624227397
+W3121276228  # 3, DE, begge, 1980-tallets lovendringer; kutt i nivå uklart, forlengelse for 42+ ga 44–62% lavere avgang
+W3125007923  # 4, IT/EU, begge, samspill UI og sosialhjelp; reformer og ledighetsvarighet
+W3123206326  # 3, AT, periode, RD alder; ni ukers forlengelse øker gjenansettelseslønn 0,5% (jobbkvalitet)
+W1864068066  # 4, CA, begge, avhandling: UI og overgang/jobbmatch med SLID
+W3191712459  # 3, TW, periode, RD forlenget periode (ikke Europa/US; vurder)
+W4302318763  # 3, AT, nivå, RKD anvendt på UI-sats; elastisitet for ledighet
+W4240775033  # 3, ?, periode/nivå, UI og geografisk mobilitet, kvasi-eksperiment (vurder)
+W1929227788  # 3, HU, begge, naturlig eksperiment; ingen effekt, men økt avgang før utløp (samme materiale som W1512075155?)
+W2996192482  # 4, PT, periode, avhandling: oversikt og overlevelsesanalyse av potensiell varighet, lønn
+W4401981027  # 1, flere land, begge, samme materiale som W4401689619
+W4401691673  # 1, flere land, begge, samme materiale som W4401689619
+W3121394313  # 3, FR, periode, DiD reform; elastisitet reservasjonslønn mht. periode ~0
+W7108248940  # 3, FR, periode, samme materiale som W3047943556
+W3105348181  # 3, AT?, periode, flere kvasi-eksperimenter med endret periode, ufullstendig informasjon
+W2597470746  # 3, AT?, periode, symmetri i effekter av utvidelse/kutt i periode (samme forfattere som W3105348181)
+W3125979033  # 3, DE, periode, kortere periode for eldre; flere dager i arbeid, flere i unemployment assistance
+W3049277559  # 3, TW, begge/bonus, RD/RKD forlenget periode og gjenansettelsesbonus (samme materiale som W3169528758?)
+W7214055644  # 3, ES, periode, aldersbasert reform for eldre, unemployment assistance og overgang (grensetilfelle: assistanse)
+W7115306580  # 3, FI, nivå, 2012 økning i arbeidsmarkedsstøtte 22%; avgang -9%, elastisitet 0,4 (grensetilfelle: ikke inntektsrelatert)
+W4385249089  # 5, US, periode, OECD-simulering av PUA-forlengelser og insentiver (vurder)
+W3032721080  # 3, AT, periode, replikasjonsdata, samme materiale som W3123206326
+W4412397453  # 3, US, nivå/rett, RD på rett til UI; gjenansettelsesinntekt +10% (jobbkvalitet, likevekt)
+W3123125000  # 3, AT, periode, Lalive RD forlengelse; ledighetsvarighet
+W3124414097  # 3, FI, periode, spike ved utløp i Finland
+W4414450472  # 3, US, periode, avhandling: tidlig avvikling av koronaforlengelser og jobbsøk på nett
+W4287769434  # 3, US, periode, Johnston & Mas, RD Missouri-kutt 16 uker; individ- og markedseffekt
+W3123415870  # 4, FR, periode, teoretisk/empirisk kritikk av alders-RD for forlengelser (metode, vurder)
+W3165706917  # 3, FR, begge, valg mellom to dagpengeprofiler; moral hazard, varighet +6 mnd
+W2985217218  # 3, IT, periode, avhandling: RD 50 år, fire ekstra måneder, sysselsetting over fire år
+W3169528758  # 3, TW, periode, to naturlige eksperimenter med forlengelse (vurder land)
+W2225898466  # 4, US, periode, EUC/EB-forlengelser og langtidsledige
+W2283885892  # 3, US, periode, North Carolina-kutt 2013, avhandling
+W2521346795  # 3, US, periode, avhandling Johnston: forlengelser og fordrevne arbeidstakere (samme materiale som W4287769434)
+W7225213785  # 4, DE, periode, strukturell modell med reduksjoner i periode som kvasi-eksperiment
+W3151337821  # 4, DE, nivå, Hartz IV lavere langtidsytelse og lønn (grensetilfelle: ALG II)
+W4255935038  # 3, DE, periode, Dlugosz mfl. publisert versjon, kortere periode for eldre, tilgang og sysselsetting
+W4256265658  # 3, BE, nivå/periode, samme materiale som W4249738964
+W7126331614  # 3, BE, nivå/periode, avhandling om unge, hiring subsidies og dagpenger (samme materiale som W4249738964)
+W7162580035  # 3, ES, nivå, korrigendum til Rebollo-Sanz & Rodríguez-Planas 2020 om kutt i nivå (følg hovedartikkel)
+W3125816285  # 4, DE, periode, likevektsmodell: forlengelse 1980-tallet og ledighet blant lavt utdannede/eldre
+W7207067441  # 4, DE, periode, samme materiale som W3125816285
+W2766923721  # 4, DE, periode, pensjon og UI, 2004-reform (eldre, overgang til pensjon – vurder)
+W7152496523  # 2, FR, periode, avhandling: randomisert forsøk om redusert aktivitet og forlenget indeksering
+W7132535851  # 3, ES, begge, 1992-reform lavere nivå og kortere periode; avgang fra UI
+W7115393235  # 3, FI, periode, eldre: 1997 heving av aldersgrense 53→55 for forlengelse; overgang
+W2146492793  # 4, US/SE, beslektet søkeatferd, tidsbruk på jobbsøk og UI, økt søk før utløp
+W2200172062  # 3, SE, nivå (profil), Kolsrud mfl. optimal timing; RD/RK på svenske data
+W1524684605  # 4, SE, beslektet (sanksjoner), jobbkvalitet etter sanksjon – vurder
+W2143884102  # 5, SE, periode, teori om tidsgrenser (trolig ut – vurder)
+W2032350398  # 4, SE, nivå, ledighetsvarighet, dagpenger og tiltak i Sverige
+W3121810429  # 3, NO, nivå, Røed & Zhang 2002, alle norske ledighetsperioder 1990-tallet; kompensasjon og spike før utløp
+W2020957099  # 1, SE, begge, Holmlund oversikt over UI i teori og empiri (bakgrunn, ikke systematisk)
+W2001903400  # 4, SE, periode, 300-dagersgrense og sykmeldinger blant ledige (utfall utenfor primært – vurder)
+W2078395244  # 4, NO, periode, Bratberg & Vaage, ledighetsvarighet med lange UI-perioder
+W2159829969  # 4, DE, periode, entitlement length og ledighetsvarighet, IABS vs SOEP
+W2174128040  # 4, DK, beslektet, supplerende UI og ledighetsvarighet (deltid) – vurder
+W3123064229  # 3, US, periode, Marinescu & Skandalis, jobbsøk på nett før utløp
+W1993105002  # 4, FI, beslektet, delvise dagpenger og overgang til ordinært arbeid
+W2024136729  # 3, NO, nivå, Røed & Zhang 2004 kvasi-tilfeldig variasjon i kompensasjon
+# --- første utvalg, bolk oa-4 (10.11) ---
+W1896190641  # 4, NO, beslektet (delvise dagpenger ved deltid), norske ledighetsforløp: delvise dagpenger forkorter tid til ordinær jobb
+W3121414423  # 4, US, periode, forlengelser og «jobless recoveries», makro/likevekt (kvantitativ modell; tittel, uten sammendrag)
+W2153088156  # 4, SE, nivå, netto kompensasjonsgrad og lønn i svensk paneldata (lønnsdannelse, beslektet utfall)
+W2625691422  # 3, FR, periode, lengre maksimal periode: avgang til arbeid og jobbkvalitet, Pôle emploi/DADS (arbeidsnotat, samme materiale som W2465593730)
+W2154204209  # 5, US, periode, variasjon i effekten av utløp av retten på ledighetsvarighet (tittel)
+W2742833837  # 3, TR, periode, RD ved 900 premiedager: lengre periode gir lavere overgang til arbeid (Tyrkia, mellominntektsland; vurder)
+W7135629397  # 4, DK, periode, lengre dagpengeperiode i dårlige tider (dansk, tittel)
+W7135601049  # 4, DK, begge, om dagpengesystemet bør kompensere mer i krisetid (dansk, tittel)
+W7112230719  # 5, DK, begge, dagpengesystemet og sysselsetting (dansk, tittel; trolig oversikt uten systematisk søk)
+W1969931627  # 1, SE, begge, oversikt over forskning om optimal arbetslöshetsförsäkring (Fredriksson og Holmlund, ikke systematisk, bakgrunn)
+W4287127381  # 3, US, nivå, CARES-tillegget 600 dollar: moderate effekter på jobbfinning (CPS)
+W2624652852  # 4, US, nivå, generøsitet og søkeintensitet med simulert individuell rett
+W2600635103  # 3, US, periode, forlengelser og ledighet, ny analyse (tittel)
+W1584589514  # 4, US, periode, utløp av forlengelser og fall i ledigheten (CPS)
+W2526905903  # 5, SE, nivå, arbetslöshetsersättning og lønnsdannelse (masteroppgave)
+W2331097722  # 4, KR, periode, periode og jobbmatch (Korea; tittel)
+W2123564434  # 3, US, periode, forlengelser under finanskrisen: makroeffekter på ledighet og vakanser
+W3045698575  # 3, US, nivå, jobbsøking og stillingsutlysninger under covid med UI-økning
+W1815243945  # 3, BE, periode, utløp av dagpenger i Belgia og sannsynlighet for jobb (Cockx og Ries)
+W3125073496  # 3, BE, periode, samme materiale som W1815243945
+W3122765285  # 3, AT, periode, spike ved utløp: forlate systemet eller ny jobb (arbeidsnotat, samme materiale som W4302789019)
+W4302789019  # 3, AT, periode, spike ved utløp: liten økning i reell jobbfinning, stor i avgang fra registeret (Card, Chetty, Weber)
+W4297977917  # 4, SI, periode, spike i jobbfinning ved utløp, slovenske data (Boone og van Ours)
+W3125479521  # 4, SI, periode, samme materiale som W4297977917
+W4302927070  # 4, SI, periode, samme materiale som W4297977917
+W3123847318  # 4, PT, nivå, generøsitet og varighet i ny jobb (match tenure)
+W4323024375  # 3, PL, periode, mikro- og makroeffekter av endret maksimal periode (Polen)
+W4410285453  # 3, PL, periode, samme materiale som W4323024375
+W2169513920  # 3, AT, periode, endret maksimal periode og likevektsledighet (Lalive, van Ours, Zweimüller)
+W2111800451  # 5, US, periode, UI-varighet etter 1990–92-resesjonen (beskrivende)
+W1547312261  # 5, SE, beslektet (deltidsledighet og a-kasse), deskriptiv
+W4207072813  # 4, US, periode, automatiske utløsere for periode og kostnad (Chodorow-Reich, Ganong, Gruber)
+W4416408619  # 3, NL, periode, overgang til sykepenger ved utløp av dagpenger (bare som forklaring på avgang ved utløp)
+W7145247485  # 5, US, periode, utløp av UI: utvikling og forklaringer (CRS-rapport)
+W2907148004  # 4, US, periode, forbruk faller ved utløp; forlengelse gir større velferdsgevinst enn høyere nivå (beslektet)
+W2889779885  # 3, US, nivå, likviditetseffekt mot moral hazard: høyere dagpenger forlenger ledighet mest for likviditetsbegrensede (Chetty)
+W2148227612  # 3, US, periode, forlengelser til 99 uker: små effekter på jobbsøking og gjenansettelse (Rothstein)
+W2123780717  # 3, US, periode, forlengede dagpenger: liten effekt på jobbfinning, mer arbeidsstyrketilknytning (Farber og Valletta)
+W4230853959  # 3, US, periode, arbeidsnotat, samme materiale som W2123780717
+W4405019671  # 1, AT/DE/US, begge, håndbokkapittel: jobbsøking, UI og ALMP (Le Barbanchon, Schmieder, Weber), oversikt
+W3021330321  # 3, US, begge, regression kink: nivå og periode på ledighetsvarighet (Landais)
+W2124855757  # 3, AT, periode, RD: forlengelse fra 20 til 30 uker senker jobbfinning; likviditetseffekt (Card, Chetty, Weber)
+W3123587893  # 3, AT, periode, REBP: markedseksternaliteter, ikke-berettigede finner jobb raskere (Lalive, Landais, Zweimüller)
+W3123209104  # 3, AT, periode, REBP: forlengede dagpenger og tidligpensjon (eldre)
+W3122336779  # 3, AT, nivå, generalisert regression kink: dagpengenivå og ledighetsvarighet i Østerrike (Card, Lee, Pei)
+W1874684411  # 3, US, periode, utløp av UI og uføresøknader (bare som forklaring, ytelsesovergang)
+W1557319022  # 3, DE, periode, RD i maksimal periode: ledighetsvarighet, jobbstabilitet og lønn (Caliendo, Tatsiramos, Uhlendorff)
+W1505120339  # 5, US, periode, forlengede dagpenger og økt ledighetsvarighet (kort FRBSF-notat)
+W3027285798  # 5, US, nivå, kompensasjonsgrader under pandemien (beskrivende, bakgrunn)
+W2041630208  # 3, DE, begge, lovendringer i nivå og periode i Vest-Tyskland: utgang til arbeid (Hunt)
+W2141052869  # 4, US, nivå, moral hazard ved nivå varierer med ledighetsraten (Kroft og Notowidigdo), konjunktur
+W2501396908  # 3, US, periode, likevektsvirkninger av forlengelser: søk og stillinger på jobbtavle (Marinescu)
+W2888034736  # 3, US, periode, makroeffekter av forlengelser via målefeil: begrenset effekt (Chodorow-Reich mfl.)
+W2465593730  # 3, FR, periode, RD i maksimal periode: avgang til arbeid og jobbkvalitet (Le Barbanchon)
+W2542798153  # 3, AT, nivå, regression kink: dagpengenivå og varighet i Østerrike (Card, Lee, Pei; metodekapittel med anvendelse)
+W3083474009  # 1, flere, begge, oversikt over arbeidsmarkedseffekter av UI-utforming (Tatsiramos og van Ours), ikke systematisk
+W4313389613  # 4, US, periode, makromodell: forlengelser 2008–2014 reduserte ledighet via etterspørsel (Kekre)
+W3122964504  # 4, US, periode, kvantitativ analyse av forlengelser (Nakajima)
+W3025040553  # 3, US, periode, New Jersey forlengelsesprogram og UI-varighet (Card og Levine)
+W3121734636  # 3, US, periode, utfasing 2012–13: liten effekt på jobbfinning, færre forlater arbeidsstyrken (Farber, Rothstein, Valletta)
+W3025610484  # 4, US, periode, maksimal periode og ledighetsvarighet, spike ved utløp (Katz og Meyer 1990)
+W2136880856  # 3, AT, periode, kvasieksperiment 1988: forlengelse for eldre i enkelte regioner (Winter-Ebmer)
+W2889578182  # 4, US, permittert, tilbakekalling og nye jobber øker rundt utløp (Katz og Meyer 1990)
+W2082366285  # 3, SK, periode, omlegging av slovakisk dagpengesystem og ledighetsdynamikk (Lubyová og van Ours)
+W2022993332  # 4, PL, periode, langtidsledighet, dagpenger og sosialhjelp i Polen (Góra og Schmidt)
+W2014167707  # 5, GB, nivå, benefit-wage ratio og ledighet i London i mellomkrigstiden (historisk, lav relevans)
+W2010289209  # 5, flere, periode, overgang fra dagpenger til sosialhjelp i sju land (tittel; bakgrunn)
+# --- første utvalg, bolk oa-5 (10.11) ---
+W2104518402  # 4, US, begge, Meyer 1990: nivå og lengde på ledighetsvarighet, spike før utløp, effekt av forlengelser
+W2158715372  # 3, US, periode, utfasing av forlengelser 2012–13: lite effekt på jobbfunn, flere ut av arbeidsstyrken
+W3125803057  # 3, CH, periode, Lalive og Zweimüller: rett til periode og ledighetsvarighet (reform)
+W2072949196  # 4, ES, periode, ledighetsvarighet, dagpengevarighet og konjunktur
+W3122679559  # 4, ES, periode, arbeidsnotat/samme materiale som W2072949196
+W2150065618  # 4, US, nivå, generøsitet og jobbmatch (varighet i ny jobb), sterkere i nedgangstider
+W2613692828  # 3, FR, periode, Le Barbanchon m.fl.: dagpenger og reservasjonslønn, administrative data (RD)
+W2148795885  # 4, NL, nivå, strukturell modell, nedgang i nivå og elastisitet for ledighetsvarighet
+W2039259912  # 4, NL, begge, nivå og gjenværende periode på søkeintensitet og reservasjonslønn
+W3140718687  # 4, DE, periode, søkeinnsats over ledighetsforløpet og spike ved utløp
+W2079842304  # 5, NO, nivå, norsk registerstudie av ledighetsvarighet med heterogenitet (sjekk om dagpenger er variabel)
+W2009197233  # 4, ES, begge, nivå og tid til utløp på gjenansettelse, spanske registerdata
+W3121445675  # 4, EE, begge, maksimal periode mot nivå, estiske registerdata
+W1498903503  # 5, ES, nivå, dagpenger og ledighetsvarighet, avgang ved utløp
+W3122408043  # 4, CA, periode, dagpengevarighet, ledighetsvarighet og påfølgende jobbvarighet (match)
+W2111511143  # 3, PT, periode, diskontinuiteter i maksimal periode, avgang til ulike jobbtyper
+W2016187575  # 3, PL, periode, kutt i periode i Polen (overgangsøkonomi, OECD-land)
+W3015169324  # 3, DE, periode, Lichter og Schiprowski: periode, søkeatferd og gjenansettelse
+W2151484799  # 3, AT, periode, likevektsledighet og dagpengeperiode (Østerrike REBP-forlengelse)
+W1997994385  # 1, DE, begge, IZA World of Labor-oversikt: dagpenger og jobbmatchkvalitet (bakgrunn)
+W2088301275  # 1, US, begge, IZA World of Labor-oversikt: dagpenger og ledighet (bakgrunn)
+W1965222176  # 4, PT, nivå, dagpenger og jobbmatchkvalitet (kvantilregresjon)
+W2135613083  # 4, ES, begge, dagpenger og stabilitet i påfølgende jobber
+W2101241810  # 5, ES, periode, tidligere erfaring og varighet i ny jobb, utløp av dagpenger
+W1574369453  # 4, ES, permittert, dagpenger, midlertidige kontrakter og gjenansettelse hos samme arbeidsgiver
+W2063014125  # 2, US, bonus/permittert, New Jersey-forsøket: tilbakekallingsforventning og gjenansettelsesbonus
+W2093753222  # 2, US, bonus, Washington-forsøket med gjenansettelsesbonus (beslektet)
+W3124856341  # 4, US, bonus, fortrengning ved gjenansettelsesbonus, kalibrert til forsøk (beslektet)
+W1590810164  # 3, US, periode, identiske forlengelser i to lokale arbeidsmarkeder (Pittsburgh/Philadelphia)
+W791800840  # 4, US, periode, forlengelser og ledighet via lønn og jobbskaping (makro)
+W4390427387  # 4, US, periode, stabiliserende effekter av forlengelser, modell med estimerte sjokk (makro)
+W3124528918  # 5, US, periode, Beveridgekurve og forlengelser (makro, beskrivende)
+W2303782673  # 1, US, periode, gjennomgang av forskning om 99 ukers forlengelser i finanskrisen
+W2741099278  # 5, US, periode, forlengelser og arbeidsinsentiver i finanskrisen (diskuterende)
+W3121210532  # 4, US, periode, dagpenger og jobbsøking målt med Google-søk
+W1831855244  # 4, GB, nivå, dagpengenivå og søkeaktivitet
+W2116821424  # 4, EU, nivå, reservasjonslønn- og varighetselastisiteter for 12 europeiske land
+W3122643311  # 4, PT, periode, dagpengesystemet og tidsprofil for ledighetsvarighet
+W1595593680  # 5, US, periode, hvorfor ledighetsvarigheten er lang, forlengelser som en faktor
+W2032819845  # 4, ES, begge, dagpenger og jobbomløp i Spania
+W2144048941  # 4, IT, begge, dagpengesystemer, likviditet og gjenansettelse, tre land
+W3137528812  # 4, US, begge, heterogen respons på dagpenger (struktur estimert, mottakere og ikke-mottakere)
+W2033768002  # 4, US, nivå, dagpengenivå og frivillige oppsigelser (beslektet atferd)
+W2131072238  # 4, NL, nivå, strukturell søkemodell, arbeidstilbud og ledighetsvarighet
+W2210456089  # 5, PL, periode, dagpenger og varighet av registrert ledighet før/etter regelendringer
+W1987103217  # 1, SE, begge, bokkapittel om svensk arbeidsledighetsforsikring, insentiveffekter (bakgrunn)
+W2557695624  # 4, DE, nivå, sanksjoner som nedsatt dagpengenivå og gjenansettelse (beslektet, utenfor hovedspørsmål)
+# --- første utvalg, bolk oa-6 (10.11) ---
+W1503347400  # 4, CA/US, begge, sammenligner generøs kanadisk UI med Maine over 50 år; effekt på uker i arbeid
+W2002982471  # 5, ES, begge, multinomisk logit: UI-mottak og overgang til arbeid, effekt rundt utløp
+W2091341898  # 5, ES, periode, varighetsmodell med flere perioder: lengre tidligere stønadsperioder gir lengre framtidige
+W2104905575  # 3, PT, periode, kvasieksperiment: forlenget stønadsperiode, ulik respons over lønnsfordelingen
+W2055138029  # 4, CA/US, nivå, estimert søkemodell: UI-regler og overgang skole-arbeid
+W2067011461  # 5, ES, permittert, tilbakekalling øker rundt utløp av UI-retten
+W1970522253  # 5, ES, periode, varighet og utløp av stønadsperiode 1987–93, ingen økt søking nær utløp
+W3124558834  # 4, IT, begge, UI og sosialhjelp i samspill og ledighetsvarighet (uten sammendrag, velges på tittel og tidsskrift)
+W1601884054  # 5, PT, begge, reservasjonslønn og ledighetsvarighet, søkeatferd
+W2112768676  # 5, US, nivå, metodestudie: utvalgskonstruksjon kan overvurdere effekten av kompensasjonsgrad med inntil 50 %
+W2087452068  # 2, US, bonus, tre randomiserte forsøk med gjenansettelsesbonus (beslektet)
+W1980852200  # 3, PT, periode, ulike rettigheter (stønadsperiode) og overgang til arbeid (uten sammendrag)
+W2259973397  # 3, NL, periode, effekt av kortere stønadsperiode i Nederland (uten sammendrag)
+W1994822104  # 4, US, nivå, NLSY: UI-generøsitet og lengde på perioder uten arbeid
+W2906550131  # 3, US, periode, ex ante moral hazard: forlengelser under finanskrisen og produktivitet (sekundært)
+W2164544288  # 4, NO, periode, norske registre: avgang til arbeid og selvstendig næringsdrivende stiger kraftig ved utløp av dagpengeretten
+W2093979647  # 3, SE, periode, endrede opptjeningskrav 1994/97 og jobbvarighet (beslektet: inngangskrav)
+W3125845980  # 3, FI, nivå, regression kink: dagpengenivå, tid til arbeid, lønn og varighet i neste jobb
+W615703297  # 5, DK/FI/NO, begge, TemaNord: insentiver i nordiske UI-systemer for lavt utdannede, endringer fra 1990
+W2047693430  # 4, NO/SE, nivå, sammenslåtte registre: elastisitet for avgang mot kompensasjonsgrad ca. 1 i Norge og 0,5 i Sverige
+W4299823525  # 5, SE, nivå, reservasjonslønn, jobbsjanser og gjenansettelsesinntekt blant ledige i Sverige
+W1900426521  # 5, SE, nivå, samme materiale som W4299823525 (DiVA-versjon)
+W3123476672  # 4, DK, periode, gjenopptjeningskrav i UI (uten sammendrag; sjekk om empiri)
+W3122724300  # 3, US, periode, makro: kutt i forlengelser desember 2013 og sysselsetting
+W3030554705  # 3, SE, nivå, likevektseffekt av UI på ledighet fra ikke-lineær regel (uten sammendrag)
+W4392395455  # 1, SE, begge, oversikt over nyere svensk registerforskning om UI (bakgrunn, ikke systematisk)
+W2161003690  # 5, SE, permittert, varighet av midlertidige permitteringer, tilbakekalling nær utløp
+W1981961078  # 4, CA, begge, effekter av UI på gjenansettelsesvarighet (uten sammendrag)
+W2166467701  # 5, OECD, begge, makropanel 21 OECD-land: høye og langvarige dagpenger øker ledighet
+W3122426411  # 3, US, periode, forlengelser til 99 uker i finanskrisen og jobbsøking/gjenansettelse
+W2159655435  # 3, US, nivå, Chetty: likviditetseffekt vs. moral hazard, effekt av nivå på ledighetsvarighet
+W2512277437  # 1, US/DE, begge, Schmieder og von Wachter: oversikt over kvasieksperimentelle estimater av nivå og varighet
+W1543259585  # 3, AT, periode, Lalive og Zweimüller: stønadsrett og ledighetsvarighet, politisk endogenitet
+W2113392924  # 3, AT, periode, markedseksternaliteter av store forlengelser (REBP Østerrike)
+W4291754967  # 3, US, nivå, pandemitillegg: store forbruksvirkninger, små effekter på jobbfinning
+W3124930013  # 5, US, nivå, kompensasjonsgrader under pandemien (beskrivende, bakgrunn)
+W2551207422  # 4, US, periode, makro: UI-forlengelser 2008–14 og ledighet i likevektsmodell
+W3121819355  # 3, US, nivå, UI som automatisk stabilisator, lokal variasjon i generøsitet
+W4317771147  # 3, CH, periode, kvasieksperimentell variasjon i stønadsperiode, lønn og pendleavstand i ny jobb
+W1593683321  # 3, DE, periode, forlengelser av stønadsperioder på 1980-tallet, GSOEP, varighet
+W3122988274  # 4, US/EU, begge, tidsbruksdata: jobbsøking og UI, søking øker før utløp
+W2105107427  # 4, NO, begge, Røed og Westlie: UI i velferdsstater, varighetsmodell norske registre
+W2146602711  # 4, DE, begge, ledighetsvarighet og lønn etter ledighet i Tyskland, kvantilregresjon
+W2593172489  # 1, FI, begge, oversikt over finske endringer i UI og empiriske atferdseffekter
+W2794080787  # 3, SE, begge, Kolsrud mfl.: optimal timing av dagpenger, svenske regelendringer
+W1524520499  # 3, SE, nivå, Fredriksson og Söderström: øker dagpenger ledigheten? (åpen versjon av W3030554705?)
+W3123103646  # 4, DK, nivå, supplerende dagpenger ved deltid og ledighetsvarighet (timing of events; beslektet)
+W178159989  # 4, US, periode, makromodell: forlengelser og jobless recoveries (kalibrert, sekundært)
+W2148015766  # 4, DE, nivå, latent effekt av dagpenger på ledighetsvarighet (uten sammendrag)
+W3157909980  # 3, NO, periode, Khoury: diskontinuitet i UI ved ansiennitetsgrense og tidspunkt for oppsigelser (tilstrømming)
+W1884998289  # 3, NO, nivå, Røed og Zhang: norske registre, kompensasjonsgrad og avgang, spike før utløp
+W4286656070  # 4, NO, begge, yrkesmobilitet, mismatch og UI (uten sammendrag)
+W4412295913  # 3, FR, periode, opptjeningskrav og jobbvarighet (beslektet)
+W4416019886  # 4, SE, periode, søkeinnsats over ledighetsperioden, fall ved utløp av UI
+W4415223223  # 3, NO, nivå, rask utbetaling av dagpenger og likviditetsbegrensede husholdninger (beslektet)
+W3125444253  # 4, DK, begge, UI, lønnsdynamikk og ulikhet over livsløpet (uten sammendrag)
+W3126140373  # 4, NO, periode, samme materiale som W2164544288 (SSRN-versjon)
+# --- første utvalg, bolk nor-og-p0 (10.11) ---
+KU-7d037e12-1538-4c97-9339-fb49dd5e5502  # 3, NO, periode, analyse av reformen som kortet dagpengeperioden; overgang til jobb og andre ytelser
+KU-cf803acc-e73d-410f-a09f-e4633c73602a  # 3, NO, rett/periode, innstrammingen 1.1.2003; atferd hos dem som mistet rett (jobbhold, registrering, overgang)
+AV-2013-1-04  # 3, NO, periode, fjerning av særregler for eldre dagpengemottakere 2012 og ledighet over 60
+KU-8946b101-5472-4571-b8f6-1a2b4020db3e  # 4, NO, nivå/periode, dagpengeregler og tiltak på søkeperiode og jobbkvalitet (lønn)
+AV-2018-2-03  # 3, NO, permitterte, utvidet permitteringsperiode 2016 og tilbakekalling
+AV-2018-1-01  # 4, NO, periode/søkeatferd, mobilitet øker mot slutten av dagpengeperioden
+AV-2019-4-01  # 5, NO, periode, overgang til jobb gjennom ledighetsperioden, innvandrere og norskfødte med samme dagpengerett
+AV-2023-1-08  # 3, NO, rett, senket minsteinntekt under pandemien; utfall helserelaterte ytelser (sekundært for mandatet)
+NB-5060  # samme materiale som AV-2023-1-08
+AV-2023-1-03  # 5, NO, permitterte, langtidspermitterte under pandemien tilbake i jobb (lengre maksimal permittering)
+NB-5064  # samme materiale som AV-2023-1-03
+0198cc433002-bf76c9ff-dfa2-46bb-8df2-eecbfad07615  # 5, NO, dagpenger, unge ledige: dagpengemottak og overgang til arbeid
+KU-67c1799f-3641-4877-b260-7d4708f01fb3  # samme materiale som 0198cc433002-bf76c9ff-dfa2-46bb-8df2-eecbfad07615
+NB-4205  # samme materiale som 0198cc433002-bf76c9ff-dfa2-46bb-8df2-eecbfad07615
+AV-2023-1-04  # forvaltning, NO, periode/nivå, koronareglene for dagpenger (forlengelser, økt nivå) og budsjettkonsekvenser
+NB-5062  # samme materiale som AV-2023-1-04
+0198cc5369ae-229c5063-6405-419a-8006-b9dd49ae5416  # forvaltning, NO, permitterte, Nav-kontorenes praksis for dagpenger til permitterte
+KU-4da1208f-bed0-4ca4-8fe5-98e2e754687e  # samme materiale som 0198cc5369ae-229c5063-6405-419a-8006-b9dd49ae5416
+KU-710bb35b-b997-44f5-8798-e71860da413c  # forvaltning, NO, dagpenger som livsoppholdsytelse (SATS Verdal); tangentielt, vurder
+W2124328482  # 4, GB, periode, varighet av rett og ledighetsvarighet i Storbritannia; bare tittel
+W2161950284  # samme materiale som W2124328482 (trolig tidligere versjon); bare tittel
+W2017251203  # 4, US, nivå/periode, forventet UI og ledighetsvarighet; bare tittel
+W2181706108  # 4, US, nivå, atferdsresponser over konjunkturen; bare tittel
+W1997535213  # 4, US, permitterte, UI, midlertidige permitteringer og forventet tilbakekalling; bare tittel
+W2164630389  # 4, US, søkeatferd/permitterte, UI og søk ved varslet oppsigelse; bare tittel
+W2278076118  # samme materiale som W2164630389; bare tittel
+W1595349847  # 4, nivå, ytelser, reservasjonslønn og søkevarighet; bare tittel
+W1567814460  # 4, NL, nivå, likevektseffekter av spredning i ytelser (makro); bare tittel
+W3125315174  # samme materiale som W1567814460; bare tittel
+W2147385133  # 4, US, nivå/periode, UI og gjenansettelse blant eldre; bare tittel
+W2139016609  # 4, US, nivå, gjenansettelse og inntekt blant eldre UI-mottakere; bare tittel
+W2123422090  # 3, US, periode, forlengede UI og arbeidsmarkedsdynamikk; bare tittel
+W3125831545  # 4, US, nivå/periode, ytelser og ledighet; bare tittel
+W4200075744  # 4, DE, periode, maksimal bezugsdauer under covid-19; bare tittel
+W3036854386  # 4, nivå/periode, ytelser og ledighetsvarighet; bare tittel
+W2285522566  # 3, US, periode, effekter av forlengede UI; bare tittel
+W2094256183  # 4, nivå/periode, ledighetsvarighet og gjenansettelseslønn; bare tittel
+W2171402176  # 3, US, periode, ledighetseffekt av forlengelsen i 2008; bare tittel
+W2285657855  # 4, ES, nivå, ytelser og tilbakekalling (recall); bare tittel
+W2225102444  # 4, ES, nivå/periode, ledighetsvarighet, ytelser og recall; bare tittel
+W7132630609  # samme materiale som W2225102444; bare tittel
+W4394595255  # 3, US, nivå, UI-sjenerøsitet og arbeidstilbud, California 2002–2020; bare tittel
+W4391117040  # samme materiale som W4394595255; bare tittel
+W1996257040  # 4, ES, periode, varighet og gjentak av ytelser; bare tittel
+W2200790728  # samme materiale som W1996257040; bare tittel
+W1973991220  # 4, ES, periode, begrenset UI-varighet, reservasjonslønn; bare tittel
+W1557642463  # 4, FI, nivå/periode, søketeoretisk analyse av finsk UI; bare tittel
+W1557460860  # 4, FI, nivå/periode, ytelsessystem og ledighetsvarighet i Finland; bare tittel
+W1522818112  # 4, IT, nivå, ytelser og ledighet etter formue; bare tittel
+W1569943903  # 4, IT, nivå, formue, ytelser og ledighetsvarighet; bare tittel
+W3145840701  # 3, US/DE, nivå, ikke-parametrisk mål på dødvektstap av UI (kink); bare tittel
+W3034780323  # 4, nivå, ytelser og søkeatferd; bare tittel
+W2920055265  # 3, US, søkeatferd, UI og søk i jobb før nedleggelser; bare tittel
+W2524839321  # 3, IT, nivå, UI og varighet i jobb (regression kink); bare tittel
+W2244210609  # samme materiale som W2524839321; bare tittel
+W3123966334  # samme materiale som W2524839321; bare tittel
+W3123821923  # samme materiale som W2524839321; bare tittel
+W2906502607  # 4, IE, nivå, kutt i ytelse og ledighetsvarighet; bare tittel
+W4281659286  # 4, US, periode, automatiske utløsere for varighet og konjunktur; bare tittel
+W4226245964  # samme materiale som W4281659286; bare tittel
+W4225709826  # samme materiale som W4281659286; bare tittel
+W4388464631  # 4, US/CA, nivå/periode, disincentiveffekter av UI; bare tittel
+W4256320148  # 4, SE, nivå, inntektsstøtte for oppsagte i Sverige; bare tittel
+W4383811238  # 5, SE, nivå, velferdsstat og høy ledighet i Sverige (makro); bare tittel
+W4206183423  # samme materiale som W4383811238; bare tittel
+W2932304783  # 3, CH, nivå/periode, kutt i ytelser og sysselsetting og inntekt; bare tittel
+W3027187990  # 4, FR, permitterte, UI, recall og erfaringsrating; bare tittel
+W3162114730  # samme materiale som W3027187990; bare tittel
+W4205272049  # samme materiale som W3027187990; bare tittel
+W4283589614  # 4, AU, periode, forlengelse og søkemarginer; bare tittel
+W4400051247  # 4, DE/US, nivå/periode, ytelser og ledighet (2024); bare tittel
+W2747288945  # 3, ES, nivå, moral hazard mot likviditet og optimal timing; bare tittel
+W3123781533  # samme materiale som W2747288945; bare tittel
+W4313353904  # 4, CH/NL, periode, likevektsledighet og varighet av ytelser; bare tittel
+W3123176821  # beslektet (gjenansettelsesbonus), US, implikasjoner av bonusforsøkene; bare tittel
+W1517458454  # samme materiale som W3123176821; bare tittel
+W2953752957  # 4, AT, permitterte, midlertidige permitteringer i Østerrike; bare tittel
+W2366611057  # 4, UI og gjenansettelsesatferd; bare tittel
+W2502466229  # 4, US, periode, potensiell varighet og ledighetsvarighet (1991); bare tittel
+W2340311804  # 4, nivå/periode, UI og søkeintensitet; bare tittel
+W2132219455  # 4, nivå/periode, ytelsesordninger og ledighetsvarighet; bare tittel
+W3049019343  # 4, US, nivå, UI og atferd hos oppsagte; bare tittel
+W2160386947  # 4, permitterte, UI og timing av permitteringer og recall; bare tittel
+W2093967307  # 4, GB, nivå, ytelse og sannsynlighet for gjenansettelse; bare tittel
+W2128146391  # 4, ES, periode, varighetsmodell med ytelser i Spania; bare tittel
+W3126064966  # 4, US, nivå, kompensasjonsgrad og gjenansettelseslønn; bare tittel
+W2931734580  # samme materiale som W3126064966; bare tittel
+W2139481344  # 4, SE, permitterte, permitteringer, recall og ledighetsvarighet i Sverige; bare tittel
+W2042962434  # 4, DE/IT, nivå, indeksering av ytelser til tidligere inntekt; bare tittel
+W2187954579  # 4, US, periode, latente og atferdsresponser på forlengelser; bare tittel
+W1978773337  # 4, US, nivå, UI-effekt på ledighetsvarighet etter inntektsnivå; bare tittel
+W1984734007  # 4, US, nivå, personlige kjennetegn, UI og ledighetsvarighet (1990); bare tittel
+W1563040827  # 4, ES, periode, ledighetsvarighet, ytelsesvarighet og konjunktur; bare tittel
+W2944316226  # samme materiale som W1563040827; bare tittel
+W2138908355  # 4, RO, nivå, ytelsesnivå og insentiver i Romania; bare tittel
+W2180901134  # 4, nivå/periode, ytelser og ledighetsvarighet; bare tittel
+W1520585400  # 4, US, periode, nødforlengelser av UI: gjennomgang og ny empiri; bare tittel
+W1581441290  # 4, US, nivå/periode, UI-parametre og arbeidstilbud; bare tittel
+W1560440346  # 4, ES, nivå, søkeatferd og ytelser i Spania 1987–1991; bare tittel
+W4416136690  # 4, ES, nivå/periode, ytelser og jobbfunn i Spania (2025); bare tittel
+W2473296118  # 4, US, nivå, strukturell modell for UI-effekter på innstrømning og varighet; bare tittel
+W4391975678  # 4, US, nivå/periode, ytelser og arbeidsinsentiver (2023); bare tittel
+W1490774465  # 4, PT, nivå/periode, UI og jobbmatch i Portugal; bare tittel
+W1926890542  # 4, NL, nivå, ytelsesnivå og ledighetsvarighet (1992); bare tittel
+W1480376583  # 4, nivå/periode, tidsavhengige effekter av ytelser; bare tittel
+W980728949  # 4, LU, nivå/periode, ytelser og arbeidsmarkedsatferd i Luxembourg; bare tittel
+W1585614607  # beslektet (gjenansettelsesbonus), US; bare tittel
+W2730149483  # 3, US, periode, nød- og forlengede ytelser i Den store resesjonen; bare tittel
+W2735403238  # 4, US, nivå, ytelseselastisitet for ledighetsvarighet; bare tittel
+W279856567  # 4, nivå/periode, ytelser og ledighet (2012); bare tittel
+W196670872  # 4, UI og sysselsetting, essays; bare tittel
+W114836736  # 4, DE, nivå, ledighetsvarighet og gjenansettelse; bare tittel
+W108372588  # 4, UI, ledighetsvarighet og overskudd av arbeidskraft; bare tittel
+W76034100  # 4, IT, nivå/periode, mobilitetslister: ytelser og ledighetsvarighet; bare tittel
+W589891301  # 4, US, periode, forlengelser holder ledige ledige; bare tittel
+W3037369857  # 4, US, nivå, UI-sjenerøsitet og gjenansettelseslønn i resesjonen; bare tittel
+W1512592345  # 4, US, nivå, forbruksforpliktelser og ledighetsvarighet; bare tittel
+W1553549934  # 4, GB, nivå, ledighetsvarighet og avgangstilstander; bare tittel
+W3121176259  # 3, US, periode, forlenger forlengede ytelser ledighetsperioder; bare tittel
+W2169066710  # 4, HU, periode, konsekvenser av å bruke opp retten i Ungarn; bare tittel
+W2147609375  # 3, AT, periode, ytelsesvarighet, ledighet og jobbmatch (RD); bare tittel
+W3122939465  # samme materiale som W2147609375; bare tittel
+W4298303875  # samme materiale som W2147609375; bare tittel
+W2159180370  # 4, nivå, UI og varighet i neste jobb; bare tittel
+W2598557097  # samme materiale som W2159180370; bare tittel
+W4294810357  # 4, US, periode, kvantitativ analyse av forlengelser; bare tittel
+W3126085521  # samme materiale som W4294810357; bare tittel
+W3124232830  # 3, US, periode, ytelser og ledighet i resesjonen: makroeffekter; bare tittel
+W1564914859  # 4, nivå, ytelser som søkesubsidie: varighet og lønn; bare tittel
+W2337558966  # 3, US, periode, begrensede makroeffekter av forlengelser; bare tittel
+W3125485969  # samme materiale som W2337558966; bare tittel
+W1603594110  # 3, US, periode, forlengede UI: evidens fra CPS; bare tittel
+W3123098138  # samme materiale som W1603594110; bare tittel
+W3024730720  # 3, US, periode, likevektseffekter av UI fra jobbportal; bare tittel
+W3125972708  # 3, PT, periode, ulike rettigheter og overgang til arbeid; bare tittel
+W3047410432  # 3, US, nivå/periode, UI og jobbmatch og arbeidsgiverkvalitet; bare tittel
+W1531251373  # 3, IT, nivå, institusjonell endring i Italia; bare tittel
+W1602033046  # 4, SI, periode, UI og ledighetsvarighet i Slovenia; bare tittel
+W3124866141  # 4, SE, nivå/periode, ledighetsvarighet, ytelser og tiltak i Sverige; bare tittel
+W3121470195  # 4, BE, nivå, insentiv- og velferdseffekter av fallende ytelser; bare tittel
+W4300509827  # samme materiale som W3121470195; bare tittel
+W1500055358  # 4, PL, nivå/periode, ytelser og langtidsledighet i Polen; bare tittel
+W1572508825  # 3, CA/US, nivå, langsiktige effekter av sjenerøs UI (New Brunswick og Maine); bare tittel
+W3121565934  # samme materiale som W1572508825; bare tittel
+W1997316607  # 4, DE, nivå, samspill mellom UI og sosialhjelp; bare tittel
+W1605209705  # 3, US, nivå, moral hazard mot likviditet; bare tittel
+W1589202403  # 4, nordisk, nivå/periode, ledighetsvarighet og insentiver med skandinaviske data; bare tittel
+W2890603821  # 4, US, nivå, reservasjonslønn og UI; bare tittel
+W2113440890  # 4, strukturell estimering av alternative UI-systemer; bare tittel
+W2298662093  # 4, FR, søkeatferd, geografisk søk og UI; bare tittel
+W2099489336  # 4, US/DE, nivå, ytelser og jobbhistorikk; bare tittel
+W1934747746  # 4, DE, nivå/periode, ytelser og ledighetsvarighet i Øst-Tyskland; bare tittel
+W1915277459  # 4, EE, nivå, sjenerøsitet og utfall i Estland i krisen; bare tittel
+W1492722346  # samme materiale som W1915277459; bare tittel
+W1581401188  # 4, DE, nivå/periode, lavt utdannede og eldre i Vest-Tyskland; bare tittel
+W3121919142  # 3, NL, periode, effekter av kortere rett til ytelser; bare tittel
+W2126738386  # 4, LU, nivå, UI, ledighetsvarighet og stabilitet i neste jobb; bare tittel
+W2790438418  # 3, AT, periode, markedseksternaliteter av store forlengelser; bare tittel
+W2905024586  # 4, US, nivå/periode, hvordan UI bør variere over konjunkturen; bare tittel
+W2165682078  # 3, US, periode, forlengede ytelser i lokale arbeidsmarkeder; bare tittel
+W3140057575  # samme materiale som W2165682078; bare tittel
+W4240782271  # 4, BE/GB, nivå, sjenerøse ytelser og overgang til tryggere posisjoner; bare tittel
+W1555035363  # beslektet (gjenansettelsesbonus), US, Washington-forsøket; bare tittel
+W1593331259  # beslektet (gjenansettelsesbonus med recall), US, New Jersey-forsøket; bare tittel
+W639753319  # 4, US, tilgang til UI og arbeidsmarkedsoverganger; bare tittel
+W3144909060  # 4, periode, UI og unges inngang på arbeidsmarkedet; bare tittel
+W3123982283  # 3, US, nivå, regression kink i Missouri 2003–2013; bare tittel
+W3124038031  # 4, PT/US, periode, UI-system og tidsprofil for ledighet; bare tittel
+W3108139024  # 3, FR, nivå, sjenerøsitet, ledighetsvarighet og jobbmatch; bare tittel
+W4401202724  # 4, nivå, ytelser og jobbkvalitet (2024); bare tittel
+W4300929214  # 4, nivå, øker ytelser ledigheten? (2008); bare tittel
+W4388102278  # 3, AT, periode/eldre, UI-effekter formet av pensjonsregler; bare tittel
+W2528409255  # 3, periode, potensiell varighet brukt til å estimere effekt av ledighetsvarighet på lønn; bare tittel
+W7171436444  # 4, US/CA, periode, varighet betinget av arbeidshistorikk (2026); bare tittel
+W1857755358  # 4, FR, utløp, toppen i avgang ved utløp (signalhypotesen); bare tittel
+W3123281588  # 4, periode og nivå, maksimal varighet mot nivå; bare tittel
+W3122426253  # 1, FI, nivå/periode, gjennomgang av endringer og atferdsresponser i finsk UI; bare tittel
+W7110549082  # 4, nivå, sjenerøsitet og optimal profil for ytelser; bare tittel
+W1588566104  # 3, US, periode, midlertidige forlengelser og varighet; bare tittel
+W578733605  # 4, nivå, frontlasting av ytelser; bare tittel
+W3126034264  # samme materiale som W578733605; bare tittel
+W3125269187  # 4, US, periode, ytelser og jobless recoveries (makro); bare tittel
+W2292147291  # 3, US, periode, effekt av forlengelser i Den store resesjonen; bare tittel
+W7162784827  # 4, US, periode, forlengelser og etniske forskjeller (2026); bare tittel
+W3157482989  # 3, DE, periode, utfall av UI-forlengelser; bare tittel
+W1533467543  # 4, nivå/periode, tidsvarierende effekter av UI; bare tittel
+W1524584051  # 4, nivå, lav lønn etter ledighet, endringer i UI-systemet; bare tittel
+W1562028033  # 4, PT, nivå/periode, UI og ledighet i Portugal; bare tittel
+W166356743  # 4, US, nivå, UI, bransjebytte og gjenansettelseslønn; bare tittel
+W2186365565  # 4, HU, nivå/periode, ytelse og ledighetsvarighet i Ungarn; bare tittel
+W4300783938  # 3, nivå, kinked benefit rule: ledighet og senere utfall; bare tittel
+W4402681417  # 3, US, rett, avslag på UI ved tilfeldig tildelte saksbehandlere; bare tittel
+W2472019236  # 3, US, nivå og periode, Kentucky i resesjonen; bare tittel
+W642293991  # 4, IT/komparativ, nivå, sjenerøsitet, søkekrav og ledighetsvarighet; bare tittel
+W1524576649  # 4, US, nivå, UI og ledighetsvarighet i Displaced Workers Survey; bare tittel
+W2263042960  # 4, nivå, likviditet og gjenansettelse, tre land; bare tittel
+W2602083429  # 4, FI, nivå, inntektsrelatert dagpenger, sysselsetting og livsinntekt; bare tittel
+W3204921228  # 5, DK, nivå, lavere dagpengesats og jobbmarkedet; bare tittel
+W643766443  # 4, DK, nivå, likviditetssubstitutter for UI (boliglån); bare tittel
+W1482535384  # 4, permitterte, midlertidige permitteringer og UI (1990); bare tittel
+W2065220382  # 4, nivå, UI og jobbvarighet, sesongjobber; bare tittel
+# --- første utvalg, bolk sve (10.11) ---
+LI-fszjzhtccvgf3hp0  # 3, SE, varighet (forlenget ersättningsperiod), utvalg bygger på tittelen: IFAU 2020, effekter av förlängd arbetslöshetsersättning på arbetsutbud
+LI-10150981  # 3, SE, nivå (1993 sänkning av ersättningsgraden), utvalg bygger på tittelen: reformeffekt av lavere kompensasjonsgrad på ledighet (FIEF)
+LI-10150999  # 3/4, SE, nivå, utvalg bygger på tittelen: reanalyse av IFAUs studie av arbetslöshetsförsäkringen og ledighet; samme tema som LI-10150981
+LI-8234473  # 1 (oversikt, trolig ikke systematisk), SE, nivå og varighet, utvalg bygger på tittelen: Holmlund, IFAU 1999, arbetslöshetsförsäkringens effekter
+LI-2217101  # 1 (oversikt, bakgrunn), SE, nivå og varighet, utvalg bygger på tittelen: Holmlund, FIEF 1996, arbetslöshetsförsäkring och arbetslöshet
+LI-3101777  # 1 (oversikt, bakgrunn), SE, nivå og varighet, utvalg bygger på tittelen: Holmlund 1999, samme tittel som LI-2217101, trolig samme materiale eller ny utgave
+LI-11816275  # 1 (kunnskapsunderlag, ikke systematisk), SE, nivå og varighet, utvalg bygger på tittelen: «Skapar a-kassan arbetslöshet?», kunnskaps- och diskussionsunderlag 2007
+LI-11485196  # 3/4, SE, nivå (makro/regional), utvalg bygger på tittelen: Fredriksson 2008, effekt av arbetslöshetsersättningen på regional arbetslöshet
+LI-2268888  # 4, SE, nivå og varighet, utvalg bygger på tittelen: Harkman 1997, arbetslöshetsersättningen och arbetsmarknadens funktionssätt
+LI-2018480  # 4/5, SE, nivå og varighet, utvalg bygger på tittelen: Korpi 1995 (EFA), studie blant a-kassemedlemmer om arbetslöshet og forsikringen
+LI-vfd7vvlvsxvpt6q4  # 4, SE, nivå (kollektive inntektsforsikringer oppå a-kassen), utvalg bygger på tittelen: Andrén 2015, inkomstförsäkringars effekt på arbetslöshet och matchning
+LI-1590379  # bakgrunn, SE/internasjonal, nivå og varighet, utvalg bygger på tittelen: Wadensjö 1993, arbetslöshet och arbetslöshetsförsäkring i internationellt perspektiv
+LI-12010525  # 5, SE, varighet (utförsäkring), utvalg bygger på tittelen: 1996, hvor mange blir utförsäkrade ved ulike regler, statistisk bearbeiding
+LI-10892213  # 5/forvaltning, SE, varighet (utförsäkring), utvalg bygger på tittelen: IAF 2006, utförsäkrade, arbeidssøkere der ersättningsperioden tok slutt
+LI-10529932  # forvaltning/5, SE, nivå og varighet (2007-endringene), utvalg bygger på tittelen: IAF 2007, effekterna av förändringarna i arbetslöshetsförsäkringen
+LI-4kl935fq2rnqhnvd  # forvaltning/5, SE, nivå (midlertidig høyere ersättning under pandemien), utvalg bygger på tittelen: IAF 2022, konsekvenser av de tillfälliga regeländringarna
+LI-11691665  # 5, SE, nivå (med/uten ersättning), utvalg bygger på tittelen: IAF og AF 2009, arbetssökande med och utan arbetslöshetsersättning
+# --- første utvalg, bolk fin (10.11) ---
+FI-vatt.10024_187919  # 3?, FI, varighet (kutt i ansiopäiväraha), utvalg bygger på tittelen: VATT 2023 «Ansioturvan lyhentämisen vaikutukset vaihtelevat», effekt av kortere periode
+FI-vatt.10024_149571  # 3?, FI, varighet, utvalg bygger på tittelen: Pesola og Kyyrä 2017 (VATT), kortere ansioturva gir dårligere jobber, jobbkvalitet
+FI-arto.013374419  # 1/3?, FI, nivå og varighet, utvalg bygger på tittelen: Kyyrä, Pesola og Rissanen 2017, ansiosidonnainen työttömyysturva 2000-luvulla, trolig oversikt over finske reformer
+FI-arto.013103967  # 3?, FI, nivå (reform 2003), utvalg bygger på tittelen: Uusitalo og Verho 2007, työttömyysturvan vaikutus työllistymiseen
+FI-arto.013105333  # 3?, Norden (FI, SE, DK), vilkår/varighet, utvalg bygger på tittelen: Kauhanen 2008, innstramming i vilkår og jobbsøking i tre nordiske land
+FI-ekk.993138974006250  # 1/5?, Norden, nivå og varighet, utvalg bygger på tittelen: Nordisk ministerråd 1999, «Dagpengesystemene i Norden og tilpasning på arbeidsmarkedet»
+FI-jykdok.2333088  # 1?, FI, nivå og varighet, utvalg bygger på tittelen: Kari 2016 (Palkansaajien tutkimuslaitos), työttömyysturvan vaikutus työmarkkinakäyttäytymiseen, trolig kunnskapsoversikt
+FI-ekk.994181574006250  # 1/5?, FI, nivå og varighet, utvalg bygger på tittelen: Kotamäki 2018 (STM), arvio ansiosidonnaisen työttömyysturvan kehittämisestä
+FI-fikka.5513287  # 4?, FI, makroeffekter, utvalg bygger på tittelen: Alasalmi 2020 (PTT), samlede effekter av työttömyysturva mot individeffekter
+FI-jykdok.2270587  # 4/5, 15 land, nivå og varighet (makro), utvalg bygger på tittelen: Kela 2009, ledighet, institusjoner og työttömyysvakuutus i 15 land 1970–2005
+FI-fikka.5921509  # ?, FI, uavklart, utvalg bygger på tittelen: doktoravhandling 2025 «Essays in economics of unemployment», trolig om finsk dagpengeordning
+FI-ekk.993778384006250  # ?, FI, uavklart, utvalg bygger på tittelen: doktoravhandling 2008 (Helsingin yliopisto) «Microeconometric studies on unemployment and business cycles», trolig konjunktur og dagpenger
+FI-helka.995828223506253  # 4/5, FI, nivå, utvalg bygger på tittelen: ETLA 1993 «Re-employment of Finnish unemployed workers», trolig varighetsmodell med dagpenger
+FI-ekk.993790864006250  # 3/4?, FI, varighet for eldre (työttömyysputki), utvalg bygger på tittelen: Hakola og Määttänen 2009, pensjon, dagpenger og sysselsetting blant eldre
+FI-vatt.10024_148485  # 4?, FI, varighet for eldre (työttömyysputki), utvalg bygger på tittelen: Pyy-Martikainen 2000 (VATT), arbeid eller pensjon for eldre ledige
+FI-kuopio.ec2c6df0-a9cb-4dc4-99ef-f00311704706  # 5, FI, nivå og varighet, utvalg bygger på tittelen: Virjo, Aho og Koponen 2006 (Työministeriö), «Passivoiko työttömyysturva?»
+FI-valto.11111_7942  # 5, FI, nivå og varighet (simulering), utvalg bygger på tittelen: Räisänen og Alatalo 2009 (TEM), ex ante-vurdering av reformlinjer
+FI-trepo.10024_97336  # 5, FI, nivå, utvalg bygger på tittelen: Mentula 2015, masteroppgave om insentivvirkninger ved gjenansettelse
+FI-helka.9919892263506253  # 5, FI, nivå og varighet, utvalg bygger på tittelen: Hiironen 2006, masteroppgave om työttömyysturva og jobbsøking
+FI-helka.9926574903506253  # 5, FI, uavklart, utvalg bygger på tittelen: Koskela 2014, masteroppgave «Työllistyminen ja työttömyysturva»
+FI-helka.9934727476106253  # 5/bakgrunn, Vest-Europa, nivå og varighet, utvalg bygger på tittelen: Lehmuskoski 1995, masteroppgave om virkninger på atferd
+FI-utu.994135575405971  # 5, FI, nivå, utvalg bygger på tittelen: Aaltonen 1994, oppgave om ansioon suhteutettu työttömyysturva og vurdering av den
+FI-uef.991608253705966  # 5, FI, nivå, utvalg bygger på tittelen: Pitkänen 1990, työttömyysturva som faktor for arbeidstilbud
+FI-arto.012298960  # bakgrunn, FI, nivå og varighet, utvalg bygger på tittelen: Kiander 1995, «Työttömyysturva ja työllisyys»
+FI-ekk.991162124006250  # bakgrunn, FI, nivå og varighet, utvalg bygger på tittelen: komitéinnstilling 1992 om de arbeidsmarkedspolitiske virkningene av työttömyysturva
+FI-ekk.994107414006250  # forvaltning/bakgrunn, FI, varighet, utvalg bygger på tittelen: arbeidsgruppenotat 2016 om å øke sysselsettingen og forkorte ledigheten (bakgrunn for kuttet i 2017)
+FI-vatt.10024_168803  # beslektet, FI, aktiveringsmodell, utvalg bygger på tittelen: Kyyrä, Pesola og Uusitalo 2019 (VATT), aktiivimalli og ansiosidonnainen työttömyysturva
+FI-vatt.10024_172797  # beslektet, FI, aktiveringsmodell, utvalg bygger på tittelen: Kyyrä, Naumanen og Pesola 2019 (VATT), virkninger av aktiivimalli
+FI-vatt.10024_148751  # beslektet, FI, aktivering, utvalg bygger på tittelen: Tuomala 2010 (VATT), trusseleffekt av obligatorisk deltakelse
+FI-valto.11111_10546  # beslektet, FI, inntektsfritak, utvalg bygger på tittelen: Kyyrä, Matikka og Pesola 2018, suojaosa og arbeid under ledighet
+# --- referanserunde 1, bolk ref1-1 (10.11) ---
+W2156409118  # 5, EU (DE,DK m.fl.), nivå, referanserunde 1: flernivå-overlevelsesanalyse EU-SILC; mer generøs UI gir mer stabil gjenansettelse (jobbkvalitet)
+W3123479702  # 3, NO, beslektet (likviditet/sluttvederlag), referanserunde 1: RD ved 50 år; sluttvederlag forlenger ikke-sysselsetting, likviditetseffekt
+W2005190118  # 3, SE, nivå, referanserunde 1: svensk sosialforsikringsreform, moral hazard blant syke og ledige (bare tittel)
+W3121146582  # 3, US/AT, nivå, referanserunde 1: generalisert regression kink; elastisitet av ledighet mhp. dagpengesats (Card, Lee, Pei)
+W2954218538  # 3, DE, begge, referanserunde 1: Hartz-reformene og lønn etter ledighet; kutt for langtidsledige ga lavere gjenansettelseslønn
+W2900127637  # 3, AT, nivå, referanserunde 1: fire reformer av dagpengenivå i Østerrike; lønn hos sysselsatte ufølsom (beslektet utfall, likevekt)
+W3123287087  # 3, DE, periode, referanserunde 1: forlenget maksimal periode 1980-tallet, grenser (bounds) for effekt på ledighetsvarighet
+W3125930406  # 3, DE, periode, referanserunde 1: samme materiale som W3123287087 (arbeidsnotat)
+W2182227748  # 3, DE, periode, referanserunde 1: samme materiale som W3123287087 (arbeidsnotat)
+W4408972552  # 3, DE, begge, referanserunde 1: Hartz-reformen av dagpenger; lavere separasjonsrate forklarer mesteparten av ledighetsfallet; variasjon etter alder og opptjening
+W3121789469  # 3, DE, periode, referanserunde 1: kutt i maksimal periode 2006; lavere tilstrømning til ledighet, høyere sysselsetting blant eldre
+W2079820118  # 3, AT, periode, referanserunde 1: forlenget periode for eldre i visse regioner; økt tilstrømning til ledighet (Winter-Ebmer)
+W1581199929  # 3, AT, periode, referanserunde 1: samme materiale som W2079820118 (arbeidsnotat)
+W2966573359  # 3, DE, periode, referanserunde 1: kutt i periode 2006 for eldre, DiD; høyere jobbfunn og lavere jobbavgang
+W4282002757  # 3, US, begge, referanserunde 1: tidlig avvikling av pandemi-UI, DiD med banktransaksjoner; liten sysselsettingseffekt
+W2035167046  # 3, IT, periode, referanserunde 1: Liste di mobilità, RD i varighet etter alder; gjenansettelse og lønn
+W2118828931  # 3, IT, periode, referanserunde 1: samme materiale som W2035167046 (arbeidsnotat)
+W2017967682  # 3, PT, periode, referanserunde 1: RD, gjenansettelseslønn og likviditetseffekt av dagpenger (Centeno og Novo; bare tittel)
+W2105491539  # 4, OECD, begge, referanserunde 1: impulsresponser av dagpengereformer i OECD-panel; kortsiktige effekter og konjunktur
+W4409045917  # 4, OECD, begge, referanserunde 1: reformer av dagpengegenerøsitet og ledighetens respons på produksjonsendringer, 27 land
+W2307955776  # 4, NL, nivå, referanserunde 1: IV-metode anvendt på reform av dagpengenes tidsprofil; positiv effekt av nytt regime
+W7165123089  # 3, US, begge, referanserunde 1: kutt i dagpenger i sju delstater, flerdelstatsfirma; høyere sysselsetting, lavere startlønn
+W2155538850  # 1 (bakgrunn, ikke systematisk), SE, begge, referanserunde 1: oversikt over insentiver i dagpenger (varighet, kontroll, workfare)
+W2892198599  # 3, HU, begge, referanserunde 1: ungarsk reform til todelt dagpengeprofil; referanseavhengig jobbsøk, avgang rundt kutt
+W2803335770  # 3, NO, beslektet (nivå), referanserunde 1: høyere tiltakspenger ved 19 år, aldersdiskontinuitet; insentiveffekter for unge
+W2143681666  # 1 (bakgrunn), INT, begge, referanserunde 1: Atkinson og Micklewright 1990, kritisk oversikt over dagpenger og overganger (bare tittel)
+W4408160259  # 4, OECD, nivå, referanserunde 1: motreformer (bl.a. økte dagpenger) og sysselsettingsvekst i 25 land
+W2086437983  # 4, OECD, begge, referanserunde 1: institusjoner og ledighet i OECD-panel, inkl. kompensasjonsgrad
+W2528326498  # 4, DE, begge, referanserunde 1: jobbstabilitet og lønn i nye jobber etter Hartz-reformene (jobbkvalitet)
+W1557230242  # 4, ES, begge, referanserunde 1: spansk reform 1992 (lavere nivå og periode), før-etter sammenligning av avgang
+W148424784  # 4, ES, begge, referanserunde 1: samme materiale som W1557230242
+W2324682700  # 3, US, nivå, referanserunde 1: 36 prosent økning i maksimal ukesats i New York; effekt på stønadsvarighet (Meyer og Mok)
+W2549561589  # 3, DE, periode, referanserunde 1: reform 1997, kortere periode for eldre 54-56; ledighetsrisiko og varighet
+W4379931147  # 3, ES, periode, referanserunde 1: 2012-endring i alder for ubegrenset arbeidsløshetsstønad; avgang til jobb for 52-54
+W4361195520  # 3, ES, periode, referanserunde 1: samme reform 2012, DiD; kortere stønad ga kortere ledighet og lavere gjenansettelseslønn
+W25939613  # 3, NO, beslektet (inngangsvilkår), referanserunde 1: skjerpede vilkår for dagpenger 2003 (Falch, Hardoy, Røed, Søkelys)
+W2884930879  # 3, KR, bonus, referanserunde 1: gjenansettelsesbonus, RD (beslektet; bare tittel)
+W2942832188  # 3, CA, periode, referanserunde 1: pilot med flere stønadsuker i EI-regioner, DiD; overganger til arbeid og søk
+W2133474130  # 3, US, periode, referanserunde 1: forlengelser til 99 uker, tidsbruksdata; lavere søk blant kvinner
+W7151383463  # 3, US, bonus, referanserunde 1: Idaho Return to Work Bonus 2020 (beslektet)
+W3093790166  # 4, US, periode, referanserunde 1: kutt fra 26 til 20 uker i Michigan 2012, DiD (svakt tidsskrift)
+W2161740142  # 3, AT, periode, referanserunde 1: REBP, forlenget periode til 209 uker for eldre; stor økning i ledighet (Lalive og Zweimüller)
+W3124550332  # 3, AT, periode, referanserunde 1: samme materiale som W2161740142
+W2527122951  # 3, AT, periode, referanserunde 1: samme materiale som W2161740142
+W1506969218  # 1 (bakgrunn), US, bonus, referanserunde 1: Meyer 1992, lærdom fra amerikanske UI-forsøk (bonus og søk)
+W4200127337  # 3, US, begge, referanserunde 1: tidlig avvikling av pandemi-UI juni 2021; økt overgang til jobb
+W2169046276  # 3, SE, nivå, referanserunde 1: reanalyse av Carling m.fl. (kutt 80 til 75 prosent); estimatene kan være artefakter
+W2151675687  # 3, SE, nivå, referanserunde 1: samme materiale som W2169046276 (svensk versjon)
+W2203046242  # 4, OECD, periode, referanserunde 1: kortere dagpengeperiode assosiert med mindre persistent ledighet, 24 land
+W1537883706  # 4, DE, nivå, referanserunde 1: lavere dagpenger etter 2005-reformen og (reservasjons)lønn
+W2304173907  # 1 (bakgrunn), US, periode, referanserunde 1: litteraturoversikt over forlengede dagpenger (Nicholson og Needels; bare tittel)
+W2973195085  # 1 (bakgrunn), DE, begge, referanserunde 1: oversikt over forskningen om Hartz-reformen av dagpenger
+W4308880944  # 3, US, nivå, referanserunde 1: likevekts-/smitteeffekter av endringer i delstatlige makssatser
+W2076154292  # 4, NL, begge, referanserunde 1: gjenansettelse for eldre ledige, kohort og regelendringer (bare tittel)
+W4284977444  # 4, DE, begge, referanserunde 1: lønn for fortrengte arbeidere og Hartz-reformene (bare tittel)
+W4381542781  # 4, DE, begge, referanserunde 1: kvalitetsvektet matchingfunksjon; Hartz og jobbkvalitet (makro)
+W3034648759  # 4, CH, periode, referanserunde 1: fjerde revisjon av AVIG (kortere varighet), syntetisk kontroll på kantonnivå
+W225891816  # 4, SE, nivå, referanserunde 1: lønnsdannelse og svenske reformer 2007-2009 (bl.a. lavere dagpenger)
+W2008230484  # 2, CA, bonus, referanserunde 1: randomisert forsøk med lønnstillegg for fortrengte som tar ny jobb (beslektet)
+W2999421560  # 3, BE, periode, referanserunde 1: fjerning av rett til dagpenger for unge nyutdannede 2015; jobbfunn og sysselsetting
+W3121290322  # 3, JP, periode, referanserunde 1: forlenget dagpengeperiode, kvasieksperiment i Japan (bare tittel)
+W2036848988  # 3, FI, periode, referanserunde 1: forlengede dagpenger for eldre ledige; søk eller ikke søk (Kyyrä og Ollikainen; bare tittel)
+W1608855302  # 3, FI, periode, referanserunde 1: samme materiale som W2036848988 (avhandling Kyyrä)
+W3125949391  # 3, DE, periode, referanserunde 1: langtidseffekter av forlengelser på sysselsetting (Schmieder, von Wachter, Bender)
+W7128710349  # 4, FR, begge, referanserunde 1: fransk dagpengereform, inntekt og retur til arbeid (bare tittel)
+W1969410971  # 5, US, periode, referanserunde 1: søkeintensitet over ledighetsforløpet; ingen økning rundt utløp av forlengede dagpenger
+W2156877177  # 4, NO, begge, referanserunde 1: jobbsøkingsinsentiver og jobbmatch-kvalitet (Gaure, Røed, Westlie; bare tittel)
+W2089057041  # 3, DK, nivå, referanserunde 1: unges ledighet, dagpenger, insentiver og sanksjoner (dansk reform; bare tittel)
+W2116510997  # 4, AT, permittert, referanserunde 1: tilbakekalling og varighetsavhengighet ved midlertidige permitteringer
+W1995498467  # 5, DK, permittert, referanserunde 1: midlertidige permitteringer og kort/lang ledighet (bare tittel)
+W2137756169  # 5, SE, permittert, referanserunde 1: gjenansettelse hos tidligere arbeidsgiver og ledighetsvarighet i Sverige
+W3136597820  # 3, US, nivå, referanserunde 1: FPUC (600 dollar) og jobbsøk og stillingsutlysninger (bare tittel)
+W2621220038  # 3, FI, periode, referanserunde 1: langtidseffekter av forlengede dagpenger for eldre (Kyyrä og Pesola; bare tittel)
+W3125345634  # 5, DK, nivå, referanserunde 1: økonomiske disinsentiver mellom jobb og dagpenger, registerdata
+W2163766933  # 5, US, periode, referanserunde 1: arbeidsmarkedet i den store resesjonen, inkl. anslag for EUC-forlengelsens effekt (makro)
+W2025391729  # 4, OECD, begge, referanserunde 1: ledighet i OECD siden 1960, institusjoner inkl. dagpengenes nivå og varighet (makro)
+W3121721370  # 4, OECD, begge, referanserunde 1: sjokk og institusjoner (inkl. dagpenger) i europeisk ledighet (makro)
+W1596036535  # 4 (bakgrunn), OECD, begge, referanserunde 1: Nickell og Layard, institusjoner og økonomiske resultater (bare tittel)
+W2025339885  # 4, OECD, begge, referanserunde 1: Nickell 1997, rigiditeter inkl. dagpenger, Europa mot Nord-Amerika (makro)
+W2165723715  # 4, OECD, begge, referanserunde 1: institusjonelle årsaker til ledighet i OECD, robusthet (makro)
+# --- referanserunde 1, bolk ref1-2 (10.11) ---
+W3126001025  # 5, US, permittert, referanserunde 1: tilbakekalling etter ledighet (SIPP 1990–2011), kortere ledighet og bedre lønn ved recall
+W1499361853  # 5, US, periode, referanserunde 1: økt langtidsledighet 2009 delvis tilskrevet forlengelser av dagpenger
+W2099438958  # 3, GB, begge, referanserunde 1: effekten av Jobseeker's Allowance-reformen (kortere bidragsbasert periode, strengere krav); bare tittel
+W4235733180  # 5, US, begge, referanserunde 1: Mulligan, utvidede ytelser i finanskrisen og sysselsettingstap (makro)
+W1548005159  # 5, DE/US, nivå, referanserunde 1: tidsbruk og søkeintensitet i 14 land, sammenheng mellom dagpenger og jobbsøk
+W2050378672  # 4, HU, periode, referanserunde 1: hvordan den ungarske dagpengeordningen virker; bare tittel
+W2035958812  # 2, US, bonus, referanserunde 1: beslektet, kvantilregresjon på Pennsylvania-forsøkene med gjenansettelsesbonus
+W4234507545  # 2, US, bonus, referanserunde 1: samme materiale som W2035958812 (tidsskriftversjon)
+W2052758875  # 4, CZ, begge, referanserunde 1: arbeidsmarkedspolitikk og ledighet i Tsjekkia, kutt i dagpenger tidlig 1990-tall; bare tittel
+W2897102012  # 3, AT, periode, referanserunde 1: forlenget dagpengeperiode (REBP), utgang fra arbeidsstyrken (også dødelighet)
+W1556897158  # 4, GB, nivå, referanserunde 1: dagpengemottak og søkeinnsats, LFS 1984
+W1483371894  # 2, US, bonus/periode, referanserunde 1: Illinois-bonus virket sterkere for dem med 38 mot 26 ukers rett
+W2021337948  # 4, US, nivå, referanserunde 1: smitteeffekter av dagpengenivå på ledighetsvarighet for ledige uten dagpenger (likevekt)
+W2089164340  # 4, HU, begge, referanserunde 1: arbeidsmarkedspolitikk og ledige i Ungarn; bare tittel
+W3121209794  # 5, ES, begge, referanserunde 1: langtidsledighet i Spania, rett til dagpenger sentral for varighet
+W1510506680  # 1, EU, begge, referanserunde 1: håndbokkapittel om årsaker til langtidsledighet i Europa (bakgrunn, ikke systematisk)
+W1580883862  # 2, US, bonus, referanserunde 1: Washington-forsøket med gjenansettelsesbonus, sluttrapport
+W2163272184  # 1, US, begge, referanserunde 1: gjennomgang av litteraturen om effekter av dagpenger og forlengelser (bakgrunn)
+W3124881456  # 1, US, begge, referanserunde 1: håndbokkapittel om sosiale eksperimenter i arbeidsmarkedet, inkl. dagpengeforsøk (bakgrunn)
+W2090007621  # 4, UA, begge, referanserunde 1: determinanter for ledighetsvarighet i Ukraina, dagpenger; bare tittel
+W1975988966  # 4, GB, nivå, referanserunde 1: elastisitet for inntekt under ledighet, kohorter 1978 og 1987
+W2055232994  # 4, DE/US, nivå, referanserunde 1: dagpenger reduserer arrvirkninger, bedre jobbkvalitet etter ledighet
+W2137155104  # 5, OECD, nivå, referanserunde 1: dagpengegenerøsitet og europeisk ledighet med nye indikatorer (makro)
+W2042753870  # 5, OECD, begge, referanserunde 1: politikk for retur til arbeid, landpanel; bare tittel
+W4401996784  # 3, US, nivå, referanserunde 1: utvidede dagpenger under pandemien, små effekter på jobbfunn (adm. data)
+W2090412054  # 1, US, begge, referanserunde 1: Meyer, oversikt over dagpenger og yrkesskadeforsikring, elastisiteter (bakgrunn)
+W3121561982  # 3, US, periode, referanserunde 1: forlengelser til 99 uker, 10 uker gir om lag 1,5 uker lengre ledighet
+W4301024061  # 3, US, periode, referanserunde 1: åpen versjon av W3121561982 (FRBSF-arbeidsnotat)
+W3121929683  # 5, PT, begge, referanserunde 1: ledighetsvarighet med konkurrerende risiko, dagpenger som forklaring
+W2080288345  # 3, FR, begge, referanserunde 1: degressiv dagpengeprofil (AUD 1992), avgang til arbeid nær utløp
+W1605876793  # 5, US, periode, referanserunde 1: forlengelser og ledighetsraten 2008–10 (makro)
+W3122421943  # 4, DE, periode, referanserunde 1: sensurert kvantilregresjon av ledighetsperioder i Vest-Tyskland, rettighetslengde; bare tittel
+W2028896704  # 4, GB, nivå, referanserunde 1: hvordan dagpengeeffekten endrer seg med ledighetens lengde
+W1973335087  # 4, NL, nivå, referanserunde 1: strukturell søkemodell, dagpengenivå og søkeintensitet
+W2098695811  # 2, US, bonus, referanserunde 1: beslektet, målrettede gjenansettelsesbonuser; samme materiale som W4214890761
+W1994701012  # 4, HU, periode, referanserunde 1: overgang fra dagpenger til arbeidsløshetsassistanse i Ungarn; bare tittel
+W2121266881  # 4, ES, permittert, referanserunde 1: avgang fra ledighet til tilbakekalling eller ny jobb; bare tittel
+W2018600064  # 4, US/GB, nivå, referanserunde 1: dagpengenes effekt på lønn etter ledighet (jobbkvalitet)
+W1541451971  # 4, DE, begge, referanserunde 1: rettighetslengde og kompensasjonsgrad, varighet og lønn etter ledighet (adm. data)
+W2069571250  # 4, SE, periode, referanserunde 1: varighetsavhengighet i Sverige, begrenset dagpengeperiode og tiltak
+W3159103308  # 4, DE, nivå, referanserunde 1: Hartz IV og fall i tysk ledighet, makromodell; vurder (reform av ytelsen for langtidsledige)
+W4289026353  # 3, AT, periode, referanserunde 1: forlenget dagpengeperiode (REBP) og jobbseparasjoner, innstrømming
+W1963653767  # 4, CZ, begge, referanserunde 1: dagpenger og arbeidsmarkedsforløp for fortrengte arbeidstakere; bare tittel
+W2299675198  # 1, US, begge, referanserunde 1: JEP-oversikt over teori og empiri om dagpenger (bakgrunn)
+W2253734281  # 2, US, bonus, referanserunde 1: samlet analyse av bonusforsøkene i Pennsylvania og Washington
+W4214890761  # 2, US, bonus, referanserunde 1: kostnadseffektivitet av målrettede gjenansettelsesbonuser
+W3161347148  # 3, US, nivå, referanserunde 1: CARES Act 600 dollar-tillegget, moderate effekter på jobbfunn
+W2074506244  # 4, US, nivå, referanserunde 1: dagpenger og overganger i arbeidsmarkedet, CPS
+W3123285088  # 3, NL, periode, referanserunde 1: endret dagpengeperiode og innstrømming til ledighet
+W1986744604  # 3, CA, periode, referanserunde 1: fjerning av dagpengeretten for eldre i Canada 1976, hendelsesstudie
+W3123257150  # 3, BE, periode, referanserunde 1: beslektet, ventetid før dagpenger for skoleavgangere, aldersgrenser (RDD), jobbfunn og jobbkvalitet
+W1894565970  # 5, SE, periode, referanserunde 1: i praksis ubegrenset dagpengeperiode via tiltak, gjentatt ledighet
+W3121236626  # 3, IT, periode, referanserunde 1: rett til dagpenger og tidspunkt for oppsigelser (innstrømming)
+W2068266578  # 3, HU, periode, referanserunde 1: utløp av dagpenger i Ungarn, levestandard og insentiver
+W2003273522  # 5, OECD, begge, referanserunde 1: arbeidsmarkedsinstitusjoner og ledighet, internasjonalt panel (makro)
+W2891587646  # 1, US, begge, referanserunde 1: håndbokkapittel om arbeidstilbudseffekter av sosialforsikring, inkl. dagpenger (bakgrunn)
+W2776399970  # 4, FR, periode, referanserunde 1: gjenoppteringseffekter (re-entitlement) i dagpengeordningen; bare tittel
+W1977312067  # 4, US, begge, referanserunde 1: effekten av dagpenger på gjenansettelse avtar mot utløp, toppene ved utløp
+W1542172923  # 2, US, bonus, referanserunde 1: bonusforsøkene i New Jersey og Illinois
+W1968708497  # 4, DE, nivå, referanserunde 1: reservasjonslønn og dagpengegenerøsitet, tyske mikrodata
+W1496825206  # 4, IE, nivå, referanserunde 1: dagpengenivå og avgang fra ledighet i Irland
+W234351488  # 4, US, periode, referanserunde 1: nød- og forlengede dagpenger over 35 år, ledighet og deltakelse
+W2113034953  # 5, ES, nivå, referanserunde 1: ledighetsvarighet blant kvinner i Spania, dagpenger som forklaring
+W2056562389  # 4, ES, nivå, referanserunde 1: innvandrere og innfødte, dagpengemottak og varighet (adm. data)
+W2054263629  # 4, CEE, periode, referanserunde 1: langtidsledighet og kortvarige dagpenger i Sentral- og Øst-Europa; bare tittel
+W1842806225  # 4, FR, nivå, referanserunde 1: strukturell søkemodell med endring i dagpengenivå over tid, reservasjonslønn
+# --- referanserunde 1, bolk ref1-3 (10.11) ---
+W1966782564  # 2, US, bonus, referanserunde 1: Illinois-forsøket med gjenansettelsesbonus, timing av avgang (beslektet)
+W3122272406  # 2, US/NL, bonus, referanserunde 1: korrigering for selektiv etterlevelse i bonusforsøk (bare tittel, beslektet)
+W3122589322  # 2, US, bonus, referanserunde 1: tre feltforsøk med gjenansettelsesbonus, effekt på dagpengemottak og sysselsetting (beslektet)
+W2133592186  # 2, US, bonus, referanserunde 1: samlet analyse av bonusforsøkene i Pennsylvania og Washington (beslektet)
+W2164175456  # 5, OECD, nivå, referanserunde 1: panel 19 land, dagpengegenerøsitet og ledighet etter sjokk (makro, konjunktur)
+W1592455877  # 5, OECD, nivå, referanserunde 1: kompensasjonsgrad og avgang fra ledighet via stramhet i arbeidsmarkedet, 11 land (makro)
+W2167014827  # 5, OECD, begge, referanserunde 1: Blanchard og Wolfers, sjokk og institusjoner (dagpengenivå og -varighet) i europeisk ledighet (makro)
+W1837339559  # 5, OECD, begge, referanserunde 1: kritisk gjennomgang av tverrnasjonale studier av institusjoner og ledighet (bakgrunn, ikke systematisk)
+W1965561045  # 5, OECD, begge, referanserunde 1: Layard, Nickell og Jackman, bred oversikt med empiri om dagpenger og ledighet (bakgrunn)
+W3201239930  # 3, TW, periode, referanserunde 1: velferdseffekter av forlenget dagpengeperiode, gjenansettelse (bare tittel)
+W2069939992  # 4, ES, periode, referanserunde 1: begrenset dagpengeperiode, økt søk og lavere reservasjonslønn mot utløp (spike)
+W2057457679  # 5, NL, nivå, referanserunde 1: dagpenger og varighetsavhengighet i gjenansettelse (bare tittel)
+W2061897602  # 5, US, nivå, referanserunde 1: delstatspanel, dagpengeordningen øker ledighet og gjennomsnittlig varighet
+W3028867696  # 3, FI, periode, referanserunde 1: Kyyrä og Pesola, gjenværende dagpengeperiode og ledighetsvarighet (bare tittel)
+W2582154313  # 3, FI, nivå, referanserunde 1: Kyyrä og Pesola, knekk i dagpengeregelen (regression kink), ledighet og senere utfall (bare tittel)
+W2990391903  # 3, FI, periode, referanserunde 1: Kyyrä og Pesola, langsiktige effekter av forlenget periode for eldre (tilleggsdager) (bare tittel)
+W7214186622  # 3, FI, periode, referanserunde 1: endret aldersgrense for tilleggsdager i Finland, registerdata (bare tittel)
+W2182883636  # 4, NO, periode, referanserunde 1: Gaure, Røed og Westlie, tidsbegrenset dagpengeperiode og jobbmatch; jobber nær utløp har lavere kvalitet
+W1566578940  # 4, NO, permittert, referanserunde 1: Røed og Nordberg, permitteringer og ledighetsvarighet (bare tittel)
+W2137949951  # 4, NO, permittert, referanserunde 1: samme materiale som W1566578940; høyere dagpenger senker avgang for oppsagte, øker for permitterte
+W2101455510  # 4, NO, nivå, referanserunde 1: Røed og Zhang, overganger i arbeidsmarkedet og økonomiske insentiver, norske registerdata
+W1568612883  # 4, FI, nivå, referanserunde 1: husholdningens insentiver, ledighetsfelle og sannsynlighet for jobb (bare tittel)
+W2141589424  # 5, SE, nivå, referanserunde 1: kompensasjonsgrad, reservasjonslønn, søkeintensitet og gjenansettelse (søkeatferd)
+W4409541748  # 3, US, periode, referanserunde 1: Karahan, Mitman og Moore, individ- og markedseffekter av dagpengeperiode i Missouri (makro) (bare tittel)
+W3123613249  # 3, US, periode, referanserunde 1: Hagedorn, Karahan og Manovskii, forlengelser og ledighet i finanskrisen, likevektseffekter (bare tittel)
+W2166627938  # 3, US, periode, referanserunde 1: Card og Levine, forlengelse i New Jersey og varighet av dagpengeperioden (bare tittel)
+W2890931512  # 3, AT, periode, referanserunde 1: Card, Chetty og Weber, cash-on-hand; forlengelse fra 20 til 30 uker senker jobbfunn (trolig samme materiale som QJE 2007)
+W2891249980  # 4, US, begge, referanserunde 1: Meyer 1988 (NBER), nivå og lengde på dagpenger, spike før utløp; arbeidsnotat til Econometrica 1990, ta med hvis publisert versjon mangler
+W1995057932  # 4, US, periode, referanserunde 1: Katz og Meyer 1988 (NBER), potensiell varighet og avgang, spike ved utløp; arbeidsnotat til J Public Econ 1990
+W2064438368  # 4, US, permittert, referanserunde 1: Katz og Meyer 1988 (NBER), tilbakekalling og dagpenger; arbeidsnotat til QJE 1990
+W3179730804  # 3, US, nivå, referanserunde 1: Marinescu, Skandalis og Zhao, FPUC (+600 dollar) og jobbsøknader og ledige stillinger (søkeatferd, makro)
+W4386988210  # 3, US, nivå, referanserunde 1: tidlig avvikling av pandemitillegg i delstater, avgang til arbeid øker
+W4327977344  # 3, US, nivå, referanserunde 1: avvikling av pandemidagpenger og arbeid blant 20–24-åringer (unge)
+W4385790071  # 3, US, nivå, referanserunde 1: kostnader og gevinster av utvidede dagpenger (bare tittel)
+W3122596703  # 3, DE, begge, referanserunde 1: Schmieder og Trenkle, negative insentiveffekter av dagpenger og saksbehandlernes rolle (bare tittel)
+W2924306095  # 3, DE, periode, referanserunde 1: forlenget dagpengeperiode og sysselsettingstap etter jobbtap (jobbkvalitet) (bare tittel)
+W3008865396  # 3, BE, begge, referanserunde 1: overgang fra stigende til flat dagpengeprofil, arbeidsinsentiver (bare tittel)
+W3042875145  # 3, ES, periode, referanserunde 1: lovendring om dagpengeperiode for eldre og innstrømming til ledighet (sekundært utfall) (bare tittel)
+W1578560020  # 4, GB, begge, referanserunde 1: jobbsøk og endret dagpengerett, pseudo-panel 1983–89 (søkeatferd)
+W2954745343  # 5, DE, nivå, referanserunde 1: reservasjonslønn og dagpengegenerøsitet, tyske mikrodata (søkeatferd)
+W1982924552  # 5, US, begge, referanserunde 1: dagpengeparametre og søkestrategi (bare tittel)
+W4312802047  # 4, DK, periode, referanserunde 1: forstår jobbsøkere dagpengesystemet, og betyr det noe for søk (bare tittel, søkeatferd)
+W2092018772  # 4, PL, begge, referanserunde 1: dagpenger og sannsynlighet for gjenansettelse i Polen (bare tittel)
+W1887440877  # 4, CZ/SK, begge, referanserunde 1: dagpenger og ledighet under overgangen til markedsøkonomi (bare tittel)
+W1980628150  # 4, HU, begge, referanserunde 1: lønnsgevinster og -tap etter ledighet med dagpenger i Ungarn (jobbkvalitet) (bare tittel)
+W1993626544  # 4, FR, periode, referanserunde 1: dagpenger og eldre arbeidstakere i et todelt arbeidsmarked (bare tittel)
+W130108126  # 4, ES, permittert, referanserunde 1: dagpengesystemet, midlertidige kontrakter og tilbakekalling, konkurrerende risikoer
+W2029720597  # 5, AT, permittert, referanserunde 1: tilbakekalling til tidligere arbeidsgiver i Østerrike (bare tittel)
+W4393308804  # 4, DE, nivå, referanserunde 1: strukturell livsløpsmodell estimert på data, redusert dagpengenivå mot sosialhjelp
+W3021490932  # 5, EU, nivå, referanserunde 1: generøse ytelser og gjenansettelse i (nesten) arbeidsløse husholdninger, EU-SILC
+W3121260633  # 5, EU, nivå, referanserunde 1: arbeidsmarkedspolitikk og stabilitet i senere jobb, inkl. dagpengegenerøsitet (jobbkvalitet) (bare tittel)
+W2795072756  # oversikt (bakgrunn), CH, begge, referanserunde 1: Zweimüller, dagpenger og arbeidsmarkedet (Labour Economics) (bare tittel)
+W2009803705  # oversikt (bakgrunn), FR, begge, referanserunde 1: gjennomgang av teori og empiri om dagpengers effekt på individuelle forløp, ikke systematisk
+W2049799687  # oversikt (bakgrunn), FR, begge, referanserunde 1: dagpenger utover insentivvirkning, finansiering av søk og jobbkvalitet, ikke systematisk
+W3088312345  # 5 (bakgrunn), NO, periode, referanserunde 1: Fevang 2020, innstrammede dagpengeregler og vridning mot helserelaterte ytelser (diskusjon)
+# --- referanserunde 1, bolk ref1-4 (10.11) ---
+W4400580887  # 3, DE, nivå, referanserunde 1: effekten av dagpengenivå på lønnet arbeid og selvstendig virksomhet (JHR); bare tittel
+W2045017890  # 5, Norden, nivå, referanserunde 1: kompensasjonsnivå og jobbsjanser for unge ledige i fem nordiske land
+W4391133728  # 3, US, periode, referanserunde 1: forlengelser av dagpengeperioden og arbeidskraftsmobilitet; bare tittel
+W4285412389  # 3, US, nivå/periode, referanserunde 1: stans i pandemiens ekstra dagpenger i tidlige delstater, effekt på sysselsetting
+W4396708970  # 3, US, nivå, referanserunde 1: 600 dollar-tillegget under covid og jobbsøkingsutfall
+W3196709528  # 3, US, nivå, referanserunde 1: fjerning av avkorting mot Social Security, dagpenger og søk/sysselsetting for eldre
+W4319600301  # 4, US/DE, nivå, referanserunde 1: dagpengedekning og lønn i ny jobb for fortrengte arbeidstakere
+W7213657144  # 3, US, nivå, referanserunde 1: Lost Wages Assistance-tillegget og sysselsetting; bare tittel
+W4398170851  # 4, US, nivå, referanserunde 1: dagpengegenerøsitet mellom delstater og lønn/jobbmatch etter automatisering
+W4407217164  # 2, IT, bonus, referanserunde 1: forsøk med gjenansettelsesbonus og voucher (beslektet)
+W2291383413  # 4, GB, nivå, referanserunde 1: elastisitet for avgang fra ledighet mot dagpengenivå med endogen sensurering
+W4236908893  # 4, US, nivå/periode, referanserunde 1: dagpenger og perioder uten arbeid (Gritz og MaCurdy 1992); bare tittel
+W2743337074  # 5, US, periode, referanserunde 1: dynamiske modeller for dagpengemottak, overlevelsesanalyse (rapport); bare tittel
+W3010984850  # 4, ES, nivå, referanserunde 1: ytelse ved opphør for selvstendige og varighet uten arbeid (PSM); vurder, selvstendige
+W7164190541  # 3, US, nivå, referanserunde 1: CARES-utvidelsen av dagpenger for arbeidstakere med funksjonsnedsettelse; vurder om sysselsetting er utfall
+W2335148809  # 5, KR, bonus, referanserunde 1: gjenansettelsesbonus i Korea, lærdom fra USA og Japan (beslektet); bare tittel
+W1982487610  # 4, KR, bonus, referanserunde 1: effekt av tidlig gjenansettelsesbonus i Korea (beslektet)
+W2044971552  # 2, US, bonus, referanserunde 1: effekten av gjenansettelsesbonus (beslektet); bare tittel
+W1980715047  # 5, flere land, begge, referanserunde 1: dagpengesystemers effekt på ledighet og lønn, sammenligning mellom land (Spiezia, ILR)
+W2161028929  # 5, flere land, begge, referanserunde 1: samme materiale som W1980715047 (fransk utgave)
+W2166416136  # 5, Europa, nivå/periode, referanserunde 1: generøse dagpenger for eldre og gjenansettelse vs. pensjonering (ECHP)
+W1989634887  # 5, CA, nivå, referanserunde 1: dagpengemottak og ledighetsvarighet og deltid etter fortrengning
+W2163718867  # 3, US, nivå, referanserunde 1: manglende dagpengerett for landbruksarbeidere, kortere ledighet og lavere lønn
+W1593500591  # 3, US, nivå, referanserunde 1: skatt på dagpenger (lavere netto nivå), ledighetsvarighet og lønn etterpå
+W2042446671  # 5, NZ, nivå, referanserunde 1: dagpengenivå, lønn i ny jobb og sannsynlighet for gjenansettelse
+W1575214278  # 4, Europa, begge, referanserunde 1: dagpengers disinsentiveffekter på veier ut av ledighet (Portugal og Addison); bare tittel
+W1566649813  # 3, PT, begge, referanserunde 1: vurdering av endringene i det portugisiske dagpengesystemet; vurder design
+W1965131499  # 4, FR, nivå, referanserunde 1: strukturell modell, degressive dagpenger og avgang til arbeid i Frankrike
+# --- referanserunde 1, bolk ref1-5 (10.11) ---
+W4247652660  # 4, US, periode, referanserunde 1: forlengede dagpenger og ledighet i CPS (Fujita); bare tittel
+W3122067261  # 3, DE, periode, referanserunde 1: årsakseffekt av ledighetsvarighet på lønn via forlengelser (Schmieder, von Wachter, Bender); bare tittel, trolig samme materiale som publisert AER 2016
+W3121824453  # 3, BE, periode, referanserunde 1: dagpengerett og oppsigelser, timing rundt opptjening (Albanese mfl.); bare tittel
+W2962012390  # 1, US, begge, referanserunde 1: oversikt over dagpenger og makrostabilisering (Chodorow-Reich mfl.); bare tittel
+W4282830508  # 4, US, permittert, referanserunde 1: midlertidige permitteringer og tap av tilbakekalling over konjunkturen
+W2151481242  # 3, SI, periode, referanserunde 1: endret periode og ledighetsvarighet i Slovenia (van Ours og Vodopivec); bare tittel, samme materiale som publisert versjon
+W4387666475  # 3, US, periode, referanserunde 1: makroeffekter av forlengelser ved kort og lang periode, variasjon i Extended Benefits mellom delstater
+W3153073485  # 3, US, nivå, referanserunde 1: FPUC-tillegget under pandemien og jobbsøk og vakanser (Marinescu mfl.); bare tittel
+W2505956069  # 3, US, nivå, referanserunde 1: delvise dagpenger, bunching ved kink (Le Barbanchon); beslektet utforming
+W1550793447  # 5, HU, periode, referanserunde 1: oppfølgingsundersøkelse av dem som brukte opp dagpengeretten i Ungarn
+W1501578783  # 4, SK, nivå, referanserunde 1: kompensasjonsgrad og avgang til arbeid i Slovakia, ingen effekt
+W2777267527  # 4, US, periode, referanserunde 1: inntekt og ytelser etter utløp av forlengede dagpenger (Rothstein og Valletta); W3122300986 er samme materiale
+W3125349708  # 4, US, periode, referanserunde 1: forlengelser i USA og søkeatferd (Valletta); W2169354509 er rettelse av samme
+W1974662896  # 3, NL, periode, referanserunde 1: endret dagpengeperiode og tilgang til ledighet (van Ours og Tuit); bare tittel
+W1540519235  # 5, EE, nivå, referanserunde 1: reservasjonslønn og dagpenger i Estland
+W4226460977  # 3, US, periode, referanserunde 1: sysselsetting etter avvikling av pandemidagpenger, ulik tidspunkt mellom delstater
+W3193171830  # 3, US, periode, referanserunde 1: avvikling av PUA og jobbfunn (Greig, Ganong mfl.); bare tittel; W4285199146 trolig samme materiale
+W2485649118  # 4, AU, begge, referanserunde 1: økonomisk press (utløp/sanksjon) og jobbsøk, jobbfunn og jobbkvalitet
+W2207578743  # 4, US, periode, referanserunde 1: konsum ved forlengede dagpenger (McKee og Verner); utfall utenfor, beslektet
+W1587504898  # 4, ES, nivå, referanserunde 1: dagpengerett og ledighetsvarighet i Spania (Alba-Ramirez og Freeman 1990)
+W3124238623  # 3, CA, begge, referanserunde 1: langtidseffekter av raus dagpengeordning, New Brunswick mot Maine (Kuhn og Riddell)
+W3121485868  # 1, CH, begge, referanserunde 1: oversikt over dagpenger og arbeidsmarkedet (Zweimüller); bare tittel
+W3123661404  # 1, US, periode, referanserunde 1: gjennomgang av evidens om forlengelser i Great Recession og spike ved utløp
+W4398148020  # 3, US, bonus, referanserunde 1: lønnsforsikring ved aldersgrense i TAA, ikke-sysselsettingsvarighet; beslektet; W4398151946 samme materiale
+W3122179078  # 3, IE, nivå, referanserunde 1: 50 prosent kutt i unemployment assistance for unge, ledighet (Doris mfl.); grense mot ytelse uten forsikringspreg
+W4409954158  # 3, US, periode, referanserunde 1: makroeffekter av forlengelser, identifikasjon fra regelen for periode; W4393955290 samme materiale
+W113279456  # 4, US, periode, referanserunde 1: forlengelser og jobbfunn i CPS 2002–2012 (masteroppgave)
+W3125141905  # 3, US, periode, referanserunde 1: effekten av forlengede dagpenger ved utfasingen 2012–2013 (Farber, Rothstein, Valletta); bare tittel
+W1944510523  # 4, US, nivå, referanserunde 1: kompensasjonsgrad og lønn i ny jobb
+W2753320380  # 4, US, periode, referanserunde 1: forlengelser 2008–13 og sysselsetting i makromodell (Kekre); modell med empiri
+W2415614146  # 4, ES, nivå, referanserunde 1: dagpenger og sannsynlighet for gjenansettelse i Spania
+W7143357590  # 3, FR, periode, referanserunde 1: reformen i 2003 for seniorer, RD og DiD, ledighetsvarighet (Frémigacci)
+W7143437697  # 4, EU, nivå, referanserunde 1: forventet profil i kompensasjonsgrad og ledighetsvarighet i ni EU-land
+W53478664  # 3, ES, periode, referanserunde 1: kortere dagpengeperiode og jobbstabilitet i Spania (Rebollo-Sanz og García Pérez)
+W7162098102  # 4, US, nivå, referanserunde 1: dagpengenes nivå og lønn for nyansatte fra ledighet (Rinz og Wasser)
+W7148701738  # 3, FR, nivå, referanserunde 1: lavere dagpenger og jobbkvalitet målt som trivsel og arbeidsvilkår (avhandling)
+W7148776497  # 4, FR, begge, referanserunde 1: dagpengenes utforming og stabilitet i jobben etter ledighet (avhandling, mest modell)
+W1506616408  # 4, US, nivå, referanserunde 1: kompensasjonsgrad og jobbsøk blant sysselsatte eldre (avhandling); beslektet
+W4389543085  # 3, US, nivå, referanserunde 1: utbetalingshyppighet og søkeatferd (Zhang); beslektet; W3210235034 samme materiale
+W4402273779  # 4, US, begge, referanserunde 1: reservasjonslønn og konjunktur i BAM-data; bare tittel
+W4400582937  # 3, US, nivå, referanserunde 1: Lost Wages Assistance og sysselsetting; bare tittel
+W4407161075  # 3, US, begge, referanserunde 1: kutt i delstatenes dagpenger og søknader; bare tittel
+W7202152233  # 5, US, periode, referanserunde 1: forlengede dagpenger og utfall etter ledighet (bacheloroppgave, svak)
+W1503500763  # 3, FR, nivå, referanserunde 1: degressive dagpenger i Frankrike 1992 og gjenansettelse (Prieto); bare tittel
+W2116703166  # 3, FI, nivå, referanserunde 1: avhandling, økt dagpengenivå i 2003 og jobbfunn, DiD (Verho)
+W1187777988  # 4, FI, begge, referanserunde 1: ledighetsvarighet og konjunktur i Finland 1987–2000 (Verho)
+W3082214014  # 4, US, periode, referanserunde 1: forlengelser og ledighetsdynamikk i modell med empiri
+W2405527233  # 4, US, periode, referanserunde 1: forlengelser og ektefellers arbeidstilbud (avhandling); beslektet
+W3144638137  # 4, US, begge, referanserunde 1: dagpengerett og varighet i ledighet og jobb for fortrengte arbeidstakere (Jurajda)
+W3122180270  # 4, US, periode, referanserunde 1: dagpengerett og oppsigelser (Jurajda); W1584538754 og W4255380087 samme materiale
+W2613429043  # 4, US, begge, referanserunde 1: dagpenger og sysselsetting for unge menn i USA, Canada og Storbritannia
+W2187070243  # 4, US, nivå, referanserunde 1: heterogenitet i effekten av dagpengenivå etter kjønn og familie, SIPP
+W2241229220  # 4, ES, begge, referanserunde 1: dagpenger og ledighetsvarighet for innvandrere og innfødte i krisen
+W2243991548  # 4, ES, begge, referanserunde 1: dagpengeordningen og oppsigelser, tilbakekalling og nye jobber i Spania
+W3122027423  # 4, ES, permittert, referanserunde 1: tilbakekalling mot ny jobb etter ledighet i Spania
+W3152459952  # 4, US, nivå, referanserunde 1: utsatt uttak av dagpenger og vilje til å jobbe (Xie); W2949070064 har samme sammendrag
+W2362926828  # 2, US, beslektet, referanserunde 1: forsøk med gjenansettelsestjenester og dagpengevarighet; bare som beslektet
+W1596445558  # 2, US, bonus, referanserunde 1: reanalyse av Pennsylvania-forsøkene med gjenansettelsesbonus
+W1484319311  # 1, US, bonus, referanserunde 1: oversikt over forsøk med gjenansettelsesbonus (CRS)
+W2744738985  # 5, US, periode, referanserunde 1: de som brukte opp forlengede dagpenger etter finanskrisen (Mathematica)
+W2345395443  # 5, US, periode, referanserunde 1: mottakere av tilleggsdagpenger i Great Recession og utfall etter
+W1595650743  # forvaltning, US, periode, referanserunde 1: beskrivelse av EUC08-programmet
+W2336638963  # 1, US, periode, referanserunde 1: EUC08 i teoretisk og historisk perspektiv
+W94071062  # forvaltning, US, begge, referanserunde 1: delstatenes kutt i periode og nivå etter 2008 (CRS)
+W1552657633  # 1, US, bonus, referanserunde 1: kontrollerte forsøk i dagpengesystemet (Spiegelman og Woodbury 1990); bare tittel
+W1576545080  # 5, US, periode, referanserunde 1: undersøkelse av mottakere og dem som brukte opp dagpengene
+W2133792394  # 4, DE, begge, referanserunde 1: strukturell livsløpsmodell estimert på data, utforming av ledighetsytelser (Haan og Prowse); W4299945870 samme materiale
+# --- referanserunde 2, bolk ref2-1 (10.11) ---
+W2965686042  # 5, OECD, periode, referanserunde 2: Ductor og Grechyna 2019, landpanel; varigheten av dagpengeretten er hovedfaktor for tilgang, passive utgifter for avgang
+W2114988552  # 5, US, periode, referanserunde 2: Needels mfl. 2001, utfall for UI-mottakere og dem som brukte opp perioden (exhaustees), lønnstap ved ny jobb
+W1581140940  # 2, US, bonus, referanserunde 2: New Jersey UI Reemployment Demonstration (1990), randomisert forsøk med gjenansettelsesbonus og tjenester (beslektet)
+W3147640153  # 2, US, bonus, referanserunde 2: samme materiale som W1581140940 (seksårs oppfølging 1996)
+W2281928395  # 2, US, bonus, referanserunde 2: Pennsylvania Reemployment Bonus Demonstration (1991), randomisert bonusforsøk (beslektet); bare tittel
+W2080159024  # 4, FR, nivå, referanserunde 2: Prieto 2000, effekten av fallende dagpenger (dégressivité) på overgang til arbeid
+W2054502485  # 4, FR, periode, referanserunde 2: Joutard og Ruggiero 1994, avgang fra ledighet når dagpengeretten nærmer seg slutten (spike ved utløp)
+W1678660307  # 5, FR, begge, referanserunde 2: Rioux og Ortega 2002, estimert søkemodell med simulerte reformer av dagpenger og kontraktsvarighet
+W3124932748  # 3, ES, nivå, referanserunde 2: Rebollo-Sanz og Rodríguez-Planas 2016, kutt i kompensasjonsgrad 60→50 prosent etter 180 dager i 2012, forskjell-i-forskjell, jobbfunn og jobbkvalitet
+W2127832737  # 4, IT, periode, referanserunde 2: Paggiaro og Trivellato 2002, Liste di mobilità, eldre med lengre stønad har lavere overgang til fast jobb, høyere avgang nær utløp
+W2088507711  # 4, IT, periode, referanserunde 2: Brunello og Miniaci 1997, Liste di mobilità i Milano, lengre stønad for eldre gir lavere avgang til fast jobb
+W128946358  # 4, IT, periode, referanserunde 2: Martini og Mo Costabella 2007, Mobilità, inntektsstøtte og forlenget ledighet, tilbakeansettelse hos samme arbeidsgiver
+W1822710994  # 5, IT, permittert, referanserunde 2: Caruso og Pisauro 2005, ledighetsvarighet i mobilitetslistene, nye og gamle arbeidsgivere (tilbakekalling)
+W1982492741  # 3, IT, periode, referanserunde 2: Mazzarella, Rettore og Trivellato 2015, fuzzy RDD (bedriftsstørrelse 16) for rett til passiv stønad i Liste di mobilità
+W3125425829  # 4, HU, periode, referanserunde 2: Micklewright og Nagy 1999, utløp av dagpengeretten i Ungarn, levekår og insentiver; bare tittel
+W2108320279  # 4, CH, periode, referanserunde 2: Lalive, van Ours og Zweimüller 2000, tiltak og gjenstående dagpengerett og ledighetsvarighet i Sveits; bare tittel
+W2943321759  # 5, AT, permittert, referanserunde 2: Pichelmann og Riedel 1992, New jobs or recalls? tilbakekalling i Østerrike; bare tittel
+W2108685260  # 5, PT/EU, nivå, referanserunde 2: Addison, Centeno og Portugal 2004, reservasjonslønn, søkevarighet og akseptert lønn i Europa (søkeatferd); bare tittel
+W1994835658  # 5, EU, nivå, referanserunde 2: Addison, Centeno og Portugal 2008, faktorer bak reservasjonslønn (søkeatferd), samme forfattere som W2108685260 men egen artikkel; bare tittel
+W3121469846  # 5, US, begge, referanserunde 2: O'Leary og Wandner 2000, dagpenger og eldre arbeidstakere (Upjohn), beskrivende
+W3122734822  # 5, US, begge, referanserunde 2: samme materiale som W3121469846
+W4391286246  # 4, BE, periode, referanserunde 2: De Brouwer og Tojerow 2024, ledighet og arbeidstilbud blant eldre i Belgia; bare tittel, sjekk at det gjelder dagpengeregler
+W3171252067  # 4, US, nivå, referanserunde 2: Petrosky-Nadeau og Valletta 2021, generøsitet i UI og jobbaksept under CARES Act; bare tittel
+W2041249997  # 1, OECD, begge, referanserunde 2: Blöndal og Pearson 1995, oversikt over dagpenger og andre ytelser og arbeidsmarkedet (bakgrunn, ikke systematisk søk)
+# --- referanserunde 2, bolk ref2-2 (10.11) ---
+W3125981663  # 3, HU, begge (frontlasting av dagpengeprofilen), referanserunde 2: Lindner og Reizer, reform 2005 som frontlastet dagpengene med samme totalbeløp; avbrutt tidsserie, kortere ikke-sysselsetting, uendret gjenansettelseslønn og jobbvarighet
+W1530733747  # 3, SE, nivå, referanserunde 2: Johansson og Selén 2001, reformeffekt av 1993-kuttet i ersättningsgraden 90 til 80 prosent, og reanalyse av IFAUs studie av 1996-kuttet; trolig samme materiale som Johansson (FIEF) i LIBRIS-utvalget
+W3121197859  # 4, DE, periode (Hartz-reformene, kortere langtidsytelser), referanserunde 2: Kuhn, Hartung og Jung, lavere separasjonsrater forklarer det meste av ledighetsfallet; kausal kobling via søkemodell med heterogene agenter
+W2618311611  # 4, DE, periode/nivå (Hartz IV), referanserunde 2: Launov, Schumm og Wälde, strukturell estimering på SOEP av spelleavhengige ytelser og søkeinnsats; vurder, Hartz IV er delvis assistanse
+W2482947470  # 4, BE, nivå (kompensasjonsgrad), referanserunde 2: D'addio, De Greef og Rosholm, økonometrisk analyse av ledighetsfeller i Belgia, effekt av netto kompensasjonsgrad på overgang til jobb
+W1584218908  # 4, US, nivå, referanserunde 2: Poterba og Summers 1993, multinomisk logit med klassifiseringsfeil; dagpenger forlenger ledighet ved å senke overgang til både jobb og utenfor arbeidsstyrken
+W2172464361  # 4, FI, begge, referanserunde 2: Kettunen 1993, gjenansettelse av finske ledige; bare tittel, trolig varighetsmodell med dagpengeeffekter
+W100231098  # 4, DK, permittert, referanserunde 2: Jensen og Westergård-Nielsen 1990, midlertidige permitteringer og ledighetsvarighet i Danmark
+W2163686504  # 4, US, periode (forlengelser), referanserunde 2: Nicholson og Needels 2004, optimale forlengede dagpenger; bare tittel
+W3139572397  # 5, OECD, begge (makro), referanserunde 2: Jackman, Layard og Nickell 1996, landpanel; lengre dagpengeperiode gir lengre ledighet, elastisitet om lag en halv for nivå
+W3092629471  # 5, OECD, begge (makro), referanserunde 2: Destefanis m.fl. 2023, Beveridge-kurve i 14 OECD-land 1985–2013; dagpengenes varighet driver dårligere matching
+W2230405599  # oversikt (bygger på kat. 5), OECD, makro, referanserunde 2: Baker, Glyn og Howell 2004, gjennomgang av landpanelstudier av institusjoner inkl. dagpenger; konkluderer med usikre resultater; bakgrunn
+W2050680752  # 5, SE, nivå (søkeatferd), referanserunde 2: Åberg 2001, varighetsavhengighet og søkeatferd i Sverige; kompensasjonsnivå mindre viktig enn kvalifikasjoner og tilbakekallingsforventning
+W1555405752  # 2, US, bonus (beslektet), referanserunde 2: Decker, O'Leary og Woodbury 2001, tilleggsresultater fra bonusforsøkene: inntekt, jobbkvalitet og arbeidsgivertilknytning
+W104671699  # 2, US, bonus (beslektet), referanserunde 2: Corson og Haimson 1996, New Jersey-forsøket med gjenansettelsestiltak og bonus, seksårsoppfølging; bare tittel
+W331177978  # 2, US, bonus (beslektet), referanserunde 2: O'Leary 1993, Washington-forsøket med gjenansettelsesbonus; bare tittel
+W2170785453  # 4, US, bonus (beslektet), referanserunde 2: Voia 2003, strukturell hasardmodell med heterogenitet og delvis etterlevelse på Illinois-bonusforsøket
+W1541516010  # 4, US, bonus (beslektet), referanserunde 2: Bijwaard 2002, instrumentvariabel for varighetsdata, reanalyse av Illinois-bonusforsøket med selektiv etterlevelse
+W2059037050  # 4, US, bonus (beslektet, fortrengning), referanserunde 2: Dynarski 1993, fortrengning mellom behandlings- og kontrollgruppe kan overvurdere bonuseffekter; relevant for likevekt
+W3162008734  # 3, US, lønnsforsikring (beslektet), referanserunde 2: Hyman, Kovak og Leive 2021, aldersgrense i TAA-lønnsforsikring (RD); økt sysselsetting på kort sikt
+# --- fra blindt utvalg B (Sonnet), 10.11 ---
+W3123720716  # 3, DE, periode, fra blindt utvalg B: aldersbasert regresjonsdiskontinuitet i forlengelse av dagpengeperioden, saksbehandlernes rolle
+W2101074211  # 3, DK, nivå, fra blindt utvalg B: dansk dagpengeøkning ved fylte 25 år, effekt på ledighetsvarighet
+W3121317656  # 4, NO, nivå, fra blindt utvalg B: lønn etter ledighet og økonomiske insentiver til å gå ut av ledighet (Norge)
+AV-2023-3-01  # forvaltning, NO, nivå, fra blindt utvalg B: kompensasjonsgrad når dagpengemottakere jobber ved siden av
+AV-2007-2-03  # forvaltning, NO, begge, fra blindt utvalg B: andel ledige med dagpenger og regelendringer
+# --- fra blindt utvalg A (Opus), 10.11 ---
+W1555671394  # oversikt (bygger på kategori 4–5), OECD, begge, fra blindt utvalg A: metaanalyse av 34 tverrnasjonale studier av dagpengegenerøsitet og ledighet
+W2186613062  # 4, US, nivå, fra blindt utvalg A: dagpenger og jobbsøkingsaktivitet, tilfeldige kontroller
+W4386949116  # 4, ES, periode, fra blindt utvalg A: varighetsavhengighet i lønn i ny jobb når reservasjonslønnen binder
+W2095143872  # 4, FI, periode, fra blindt utvalg A: varighetsavhengige trekk ved den finske dagpengeordningen (bare tittel)
+W4285294026  # 3, RU, nivå, fra blindt utvalg A: regression kink, dagpengenivå og varighet av registrert ledighet i Russland
+W4415544802  # 3, IT, periode, fra blindt utvalg A: bunching ved aldersgrense med fire måneder lengre dagpengeperiode
+W2067854272  # 4, DK, periode, fra blindt utvalg A: dagpengeperiodens lengde og trusseleffekt av tiltak
+W1599200893  # 3, UK, begge, fra blindt utvalg A: langsiktige effekter av JSA-reformen
+W3034159852  # 3, US, periode, fra blindt utvalg A: forsinkede og kjønnsulike effekter av forlengelser i USA
+W3120725390  # oversikt, US, nivå, fra blindt utvalg A: litteraturgjennomgang av økte dagpenger under covid-19 (bakgrunn)
+W4403673144  # 4, US, periode, fra blindt utvalg A: reservasjonslønn over ledighetsperioden, dagpengemottakere
+# --- referanserunde 3 (10.11) ---
+W2515864410  # 3, IT, periode, referanserunde 3: forlenget rett til mobilitetslister i Veneto (bare tittel)
+W4318819292  # 3, US, begge, referanserunde 3: gir dagpenger bedre match og arbeidsgiverkvalitet, amerikanske resesjoner (bare tittel)
+W4398131513  # 3, US, bonus, referanserunde 3: lønnsforsikring for fortrengte arbeidstakere (TAA); beslektet tiltak
+# --- fra begrunnelsen av utelatte (10.11) ---
+W1994620841  # 3, DK, periode, fra gjennomgang av utelatte: lovendringer i dagpengeperioden brukt til å måle trusseleffekt av tiltak før deltakelse (beslektet)
+W2113717108  # 4, ES, begge, fra gjennomgang av utelatte: strukturell estimering av alternative dagpengesystemer på spanske data
+W4378219799  # forvaltning, NO, begge, fra gjennomgang av utelatte: midlertidige dagpengeendringer under koronapandemien, uten effektmål
+# --- åpne versjoner fra versjoner.tsv (10.11), bare for kjernen ---
+W3124335505  # åpen versjon av W1524684605: Monitoring Job Offer Decisions, Punishments, Exit to Work, and Job Quality
+W3122571372  # åpen versjon av W1543259585: Benefit Entitlement and Unemployment Duration: The Role of Policy Endogeneity
+W7113125120  # åpen versjon av W1548833344: Identifying Unemployment Insurance Income Effects with a Quasi-Natural Experimen
+W2147609375  # åpen versjon av W1557319022: Benefit Duration, Unemployment Duration and Job Match Quality: A Regression-Disc
+W3121565934  # åpen versjon av W1572508825: The Long-Term Effects of a Generous Income Support Program: Unemployment Insuran
+W2165682078  # åpen versjon av W1590810164: Unemployment Durations and Extended Unemployment Benefits in Local Labor Markets
+W3123098138  # åpen versjon av W1603594110: Effects of extended unemployment insurance benefits: evidence from the monthly C
+W4298248611  # åpen versjon av W1896190641: Unemployment Insurance and Underemployment
+W3123285088  # åpen versjon av W1974662896: How changes in unemployment benefit duration affect the inflow into unemployment
+W3125893180  # åpen versjon av W2005190118: Moral hazard among the sick and unemployed: evidence from a Swedish social insur
+W3122765285  # åpen versjon av W2005944239: The Spike at Benefit Exhaustion: Leaving the Unemployment System or Starting a N
+W3122102389  # åpen versjon av W2016867550: How Do Extended Benefits Affect Unemployment Duration? A Regression Discontinuit
+W4234507545  # åpen versjon av W2035958812: Quantile regression for duration data: A reappraisal of the Pennsylvania Reemplo
+W3121276228  # åpen versjon av W2041630208: The Effect of Unemployment Compensation on Unemployment Duration in Germany
+W3140109315  # åpen versjon av W2101455510: Labour market transitions and economic incentives
+W3122067261  # åpen versjon av W2110608765: The Causal Effect of Unemployment Duration on Wages: Evidence from Unemployment 
+W3122140844  # åpen versjon av W2111511143: Six Ways to Leave Unemployment
+W3123587893  # åpen versjon av W2113392924: Market Externalities of Large Unemployment Insurance Extension Programs
+W2890931512  # åpen versjon av W2124855757: Cash-on-Hand and Competing Models of Intertemporal Behavior: New Evidence from t
+W3125250071  # åpen versjon av W2141303476: Fixing the leak: unemployment incidence before and after the 2006 reform of unem
+W3122988274  # åpen versjon av W2146492793: Job Search and Unemployment Insurance: New Evidence from Time Use Data
+W1557319022  # åpen versjon av W2147609375: BENEFIT DURATION, UNEMPLOYMENT DURATION AND JOB MATCH QUALITY: A REGRESSION‐DISC
+W3122426411  # åpen versjon av W2148227612: Unemployment Insurance and Job Search in the Great Recession
+W3121734636  # åpen versjon av W2158715372: The effect of extended unemployment insurance benefits: evidence from the 2012-2
+W3124550332  # åpen versjon av W2161740142: Benefit Entitlement and the Labor Market: Evidence from a Large-Scale Policy Cha
+W3126140373  # åpen versjon av W2164544288: Unemployment Insurance and Entrepreneurship
+W3140057575  # åpen versjon av W2165682078: Unemployment Durations and Extended Unemployment Benefits in Local Labor Markets
+W3025040553  # åpen versjon av W2166627938: Extended benefits and the duration of UI spells: evidence from the New Jersey ex
+W3123103646  # åpen versjon av W2174128040: The Effect of Receiving Supplementary Ui Benefits on Unemployment Duration
+W2133592186  # åpen versjon av W2253734281: Evaluating Pooled Evidence from the Reemployment Bonus Experiments
+W3121919142  # åpen versjon av W2259973397: The Effects of Reducing the Entitlement Period to Unemployment Insurance Benefit
+W791800840  # åpen versjon av W2285522566: Reassessing the Effects of Extending Unemployment Insurance Benefits
+W3024730720  # åpen versjon av W2501396908: The General Equilibrium Impacts of Unemployment Insurance: Evidence from a Large
+W2892364420  # åpen versjon av W2512277437: The Effects of Unemployment Insurance Benefits: New Evidence and Interpretation
+W2244210609  # åpen versjon av W2524839321: Unemployment Insurance and the Duration of Employment: Evidence from a Regressio
+W3121467141  # åpen versjon av W2542798153: Regression Kink Design: Theory and Practice
+W3123513756  # åpen versjon av W2582154313: The Effects of UI Benefits on Unemployment and Subsequent Outcomes: Evidence fro
+W3122179078  # åpen versjon av W2609912204: Does Reducing Unemployment Benefits During a Recession Reduce Youth Unemployment
+W2990391903  # åpen versjon av W2621220038: Long-Term Effects of Extended Unemployment Benefits for Older Workers
+W1896297227  # åpen versjon av W2732909796: The Effects of Unemployment Insurance on Labor Supply and Search Outcomes: Regre
+W3123781533  # åpen versjon av W2747288945: Moral hazard versus liquidity and the optimal timing of unemployment benefits
+W3123587893  # åpen versjon av W2790438418: Market Externalities of Large Unemployment Insurance Extension Programs
+W2200172062  # åpen versjon av W2794080787: The Optimal Timing of Unemployment Benefits: Theory and Evidence from Sweden
+W3121485868  # åpen versjon av W2795072756: Unemployment Insurance and the Labor Market
+W3123388384  # åpen versjon av W2897102012: Fatal Attraction? Extended Unemployment Benefits, Labor Force Exits, and Mortali
+W3145840701  # åpen versjon av W2917151827: Are Sufficient Statistics Necessary? Nonparametric Measurement of Deadweight Los
+W3123415870  # åpen versjon av W2924575465: Age discontinuity and nonemployment benefit policy evaluation through the lens o
+W1674746970  # åpen versjon av W2954218538: The German Labor Market Reforms and Post-Unemployment Earnings
+W3124455003  # åpen versjon av W2990391903: Long-Term Effects of Extended Unemployment Benefits for Older Workers
+W2613692828  # åpen versjon av W3024109073: Unemployment insurance and reservation wages: Evidence from administrative data
+W2166627938  # åpen versjon av W3025040553: Extended Benefits and the Duration of UI Spells: Evidence from the New Jersey Ex
+W7108248940  # åpen versjon av W3047943556: The Take-Up of Unemployment Benefit Extensions
+W3121824453  # åpen versjon av W3121236626: Timed to Say Goodbye: Does Unemployment Benefit Eligibility Affect Worker Layoff
+W2795072756  # åpen versjon av W3121485868: Unemployment insurance and the labor market
+W3121236626  # åpen versjon av W3121824453: Timed to Say Goodbye: Does Unemployment Benefit Eligibility Affect Worker Layoff
+W2593172489  # åpen versjon av W3122426253: Unemployment Insurance in Finland: A Review of Recent Changes and Empirical Evid
+W2087452068  # åpen versjon av W3122589322: Reemployment Bonuses in the Unemployment Insurance System: Evidence from Three F
+W3123720716  # åpen versjon av W3122596703: Disincentive Effects of Unemployment Benefits and the Role of Caseworkers
+W3123206326  # åpen versjon av W3123077723: Does Extending Unemployment Benefits Improve Job Quality
+W3123883966  # åpen versjon av W3123476672: Benefit Reentitlement Conditions in Unemployment Insurance Schemes
+W825815562  # åpen versjon av W3123797400: Potential Unemployment Insurance Duration and Labor Supply: The Individual and M
+W2948483932  # åpen versjon av W3124414097: The Spike at Benefit Exhaustion in the Finnish Labor Market
+W4299870713  # åpen versjon av W3125444253: Unemployment Insurance, Wage Dynamics and Inequality over the Life Cycle
+W2161950284  # åpen versjon av W3125803057: Unemployment duration and the duration of entitlement to unemployment benefit
+W2582154313  # åpen versjon av W3125845980: The Effects of UI Benefits on Unemployment and Subsequent Outcomes: Evidence fro
+W1980852200  # åpen versjon av W3125972708: How do different entitlements to unemployment benefits affect the transitions fr
+W3136597820  # åpen versjon av W3153073485: The impact of the Federal Pandemic Unemployment Compensation on job search and v
+W2158869816  # åpen versjon av W4214890761: Cost-Effectiveness of Targeted Reemployment Bonuses
+W2911979157  # åpen versjon av W4289026353: Marginal Jobs and Job Surplus: A Test of the Efficiency of Separations
+W3122336779  # åpen versjon av W4296295367: Inference on Causal Effects in a Generalized Regression Kink Design
+W4387680843  # åpen versjon av W4387666475: Macroeconomic Effects of UI Extensions at Short and Long Durations
+W3174138191  # åpen versjon av W4400580887: The Effect of Unemployment Insurance Benefits on (Self-)Employment: Two Sides of
+W4403164112  # åpen versjon av W4400582937: Unemployment Insurance and Employment: Evidence from the Lost Wages Assistance P
+W4400871115  # åpen versjon av W4405019671: Job Search, Unemployment Insurance, and Active Labor Market Policies
+W4323024375  # åpen versjon av W4413097537: The Micro and Macro Effects of Changes in the Potential Benefit Duration

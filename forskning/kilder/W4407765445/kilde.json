@@ -1,0 +1,23 @@
+{
+ "apen_url": "https://doi.org/10.1016/j.ssci.2025.106829",
+ "ar": 2025,
+ "doi": "https://doi.org/10.1016/j.ssci.2025.106829",
+ "forfattere": [
+  "Bjørnar Finnanger Garshol",
+  "Jan Shahid Emberland",
+  "Stein Knardahl",
+  "Øivind Skare",
+  "Håkon A. Johannessen"
+ ],
+ "hentet": "2026-11-08",
+ "hentet_fra": "https://nva.sikt.no/registration/0198cc43a413-59f5aab8-5b5e-4ce0-9ca3-03e64187ccd5",
+ "hvordan": "vitenarkivet",
+ "id": "W4407765445",
+ "kilde": "Safety Science",
+ "lenke": "https://openalex.org/W4407765445",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "Occupational Safety and Health (OSH) laws and regulations serves as fundamental pillars for OSH practices, playing a crucial role in safeguarding employee safety and wellbeing. However, little is known about the efficiency of regulatory tools intending to ensure compliance with OSH laws and regulations, especially within the health and social care sector. The current experimental study aimed to determine the effect of two specific regulatory tools on compliance. Municipal home-care services were allocated to one of three groups: (I) “Inspection”, (II) “Guidance-through-workshops”, and (III) “Control”. At 24-30 months after the interventions all groups underwent formal inspections which recorded the numbers of contraventions with regulations to determine the difference in regulatory compliance between the groups. Analyses comparing the two intervention groups with the control group showed overall increased compliance in the inspection group (I), while no significant effects were found for the guidance group (II). The inspection group underwent inspections twice, and analyses of changes from the first to the second inspection also revealed improved compliance, but only statistically significantly for requirements pertaining to the addressed psychosocial factors. Future research should investigate how labour inspections can more effectively increase compliance and how to develop guidance as a tool for improving compliance.",
+ "tittel": "The effect of the Labour Inspection Authority’s regulatory tools on compliance with regulations in the Norwegian home care services – A post-test-only control group study",
+ "type": "article"
+}

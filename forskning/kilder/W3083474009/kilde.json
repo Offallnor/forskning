@@ -1,0 +1,20 @@
+{
+ "apen_url": "https://doi.org/10.2139/ssrn.2167572",
+ "ar": 2012,
+ "doi": "https://doi.org/10.2139/ssrn.2167572",
+ "forfattere": [
+  "Konstantinos Tatsiramos",
+  "Jan C. VAN OURS"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "https://docs.iza.org/dp6950.pdf",
+ "hvordan": "pdf",
+ "id": "W3083474009",
+ "kilde": "Journal of Economic Surveys",
+ "lenke": "https://openalex.org/W3083474009",
+ "merknad": "ÅPEN VERSJON (preprint eller arbeidsnotat), merkes i svaret",
+ "oversikt": false,
+ "sammendrag": "Abstract With the emergence of the Great Recession unemployment insurance (UI) is once again at the heart of the policy debate. In this paper, we review the recent theoretical and empirical evidence on the labor market effects of UI design. We also discuss policy issues related to UI design, including the structure of benefits, the role of liquidity constraints and the pros and cons of a UI system in which the generosity of UI benefits is varying over the business cycle. Finally, we identify potential areas of future research.",
+ "tittel": "LABOR MARKET EFFECTS OF UNEMPLOYMENT INSURANCE DESIGN",
+ "type": "article"
+}

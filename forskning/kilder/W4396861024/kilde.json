@@ -1,0 +1,21 @@
+{
+ "apen_url": "https://doi.org/10.1080/09638288.2024.2343424",
+ "ar": 2024,
+ "doi": "https://doi.org/10.1080/09638288.2024.2343424",
+ "forfattere": [
+  "Annika Ekhammar",
+  "Anna Grimby‐Ekman",
+  "Susanne Bernhardsson",
+  "Kristina EM Holmgren",
+  "Lena Bornhöft",
+  "Lena Nordeman",
+  "Maria E. H. Larsson"
+ ],
+ "id": "W4396861024",
+ "kilde": "Disability and Rehabilitation",
+ "lenke": "https://openalex.org/W4396861024",
+ "oversikt": false,
+ "sammendrag": "Purpose To evaluate short-term effects of the PREVention of Sickness Absence for Musculoskeletal disorders (PREVSAM) model on sickness absence and patient-reported health outcomes.Methods Patients with musculoskeletal disorders were randomised to rehabilitation according to PREVSAM or treatment as usual (TAU) in primary care. Sickness absence and patient-reported health outcomes were evaluated after three months in 254 participants.Results The proportion of participants remaining in full- or part-time work were 86% in PREVSAM vs 78% in TAU (p = 0.097). The PREVSAM group had approximately four fewer sickness benefit days during three months from baseline (p range 0.078–0.126). No statistically significant difference was found in self-reported sickness absence days (PREVSAM 12.4 vs TAU 14.5; p = 0.634), nor were statistically significant differences between groups found in patient-reported health outcomes. Both groups showed significant improvements from baseline to three months, except for self-efficacy, and only the PREVSAM group showed significantly reduced depression symptoms.Conclusions The findings suggest that for sickness absence, the PREVSAM model may have an advantage over TAU, although the difference did not reach statistical significance at the p < 0.05 level, and similar positive effects on patient-reported health outcomes were found in both groups. Long-term effects must be evaluated before firm conclusions can be drawn.",
+ "tittel": "Prevention of sickness absence through early identification and rehabilitation of at-risk patients with musculoskeletal disorders (PREVSAM): short term effects of a randomised controlled trial in primary care",
+ "type": "article"
+}

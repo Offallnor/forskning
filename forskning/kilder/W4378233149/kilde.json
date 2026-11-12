@@ -1,0 +1,22 @@
+{
+ "apen_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/spol.12924",
+ "ar": 2023,
+ "doi": "https://doi.org/10.1111/spol.12924",
+ "forfattere": [
+  "Judit Krekó",
+  "Balázs Munkácsy",
+  "Márton Csillag",
+  "Ágota Scharle"
+ ],
+ "hentet": "2026-11-08",
+ "hentet_fra": "https://kti.krtk.hu/wp-content/uploads/2022/11/CERSIEWP202222.pdf",
+ "hvordan": "pdf",
+ "id": "W4378233149",
+ "kilde": "Social Policy and Administration",
+ "lenke": "https://openalex.org/W4378233149",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "Abstract This paper evaluates a 90‐day hiring subsidy designed for young jobseekers aged below 25, introduced in Hungary in 2015 as part of the Youth Guarantee programme. The subsidy covers the total wage cost with no obligation to retain the new hire when the subsidy expires. The analysis is based on linked administrative data on registered unemployment, cognitive skills measured around age 15, healthcare, and social security records. The causal impact of the subsidy on subsequent employment is identified in comparison to participants of a uniquely large public works programme, using propensity score matching with exceptionally rich controls. The estimates indicate significant positive effects: participants spent 14–20 days more in employment within 6 months after the programme ended in the whole sample. The impact is weaker on the 12‐month horizon. We find that the subsidy works well as a screening device: the programme has the highest impact on youths who have very low levels of schooling (8 years of primary school or less), but scored high on cognitive skills tests. One potential explanation is that employers tend to retain those with better cognitive skills, irrespective of their formal qualifications. We also find some indication that the subsidy is (mis)used by some employers to hire short term, seasonal workers.",
+ "tittel": "A job trial subsidy for youth: Cheap labour or a screening device?",
+ "type": "article"
+}

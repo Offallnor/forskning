@@ -1,0 +1,17 @@
+{
+ "apen_url": "https://sciencespo.hal.science/hal-03950253",
+ "ar": 2019,
+ "forfattere": [
+  "Elisa Guglielminetti",
+  "Rafael Lalive",
+  "Philippe Ruh",
+  "Étienne Wasmer"
+ ],
+ "id": "W4317771147",
+ "kilde": "HAL",
+ "lenke": "https://openalex.org/W4317771147",
+ "oversikt": false,
+ "sammendrag": "Unemployed workers seek jobs that are ideally both well paid and not too far from their homes. But are they willing to compromise on wages and commuting distances as their unemployment spells increase? After a few months of unemployment, we find that job seekers do indeed accept significantly lower paying jobs and also accept jobs that are located further away from their homes. However, based on quasiexperimental variations in the duration of unemployment benefits, we find that the loss of benefits does not explain why the long-term unemployed are willing to commute further from home. In particular, for workers who previously held jobs in the same municipality where they lived (whom we term local workers), unemployment benefits instead raise the commuting distance for the jobs they accepted. We estimate a job search model where job seekers target search in space that has higher costs for searching more remotely. The model predicts that search costs for jobs located both in the home municipality and at a distance from home increase over time, but do so relatively more for jobs located in the home municipality. This suggests progressive exhaustion of the pool of good offers close to home. A set of counterfactual policy exercises show that the exhaustion of unemployment insurance benefits reduces the chances to get jobs at a greater distance because the loss of benefits increases the implicit cost of searching further from home.",
+ "tittel": "Home Sweet Home? Job Search with Commuting and Unemployment Insurance",
+ "type": "preprint"
+}

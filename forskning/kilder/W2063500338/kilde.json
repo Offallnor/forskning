@@ -1,0 +1,16 @@
+{
+ "apen_url": "https://hal.science/hal-00711455",
+ "ar": 2011,
+ "doi": "https://doi.org/10.1080/00036846.2011.579064",
+ "forfattere": [
+  "Per Engström",
+  "Per Johansson"
+ ],
+ "id": "W2063500338",
+ "kilde": "Applied Economics",
+ "lenke": "https://openalex.org/W2063500338",
+ "oversikt": false,
+ "sammendrag": "Based on a randomized experiment, we estimate effects from notification to medical doctors of tighter monitoring of their Medical Certificates (MCs). Both the time prescribed by the doctor certificates for sick leave (prescribed sick leave) and the impact on the length of the actual sickness absence (actual sick leave) is studied. We find no effect on the total number of prescribed sick leave days. However, we do find an increase in both prescribed and actual sick leave with a 25% work inability. We also find that the notification letter causes an increase in actual sick leave (i.e. the number of reimbursed sick days). We discuss a number of potential explanations for this rather surprising result.",
+ "tittel": "The medical doctors as gatekeepers in the sickness insurance?",
+ "type": "article"
+}

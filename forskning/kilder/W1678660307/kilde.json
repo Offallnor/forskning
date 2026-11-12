@@ -1,0 +1,16 @@
+{
+ "apen_url": "https://shs.cairn.info/article/RECO_536_1273/pdf?lang=fr",
+ "ar": 2002,
+ "doi": "https://doi.org/10.3406/reco.2002.410469",
+ "forfattere": [
+  "Laurence Rioux",
+  "Javier Ortega"
+ ],
+ "id": "W1678660307",
+ "kilde": "Revue économique",
+ "lenke": "https://openalex.org/W1678660307",
+ "oversikt": false,
+ "sammendrag": "L'interaction entre l'indemnisation du chômage et la durée des contrats est analysée dans le cadre d'un modèle d'appariement. Les chômeurs après un emploi en CDI ont droit à une longue période d'indemnisation par l'assurance. Les chômeurs après un emploi temporaire sont peu ou pas indemnisés. Or les premiers reçoivent des offres d'emploi en CDI et CDD, alors que les seconds ne trouvent que des CDD. Les variables du modèle sont estimées à partir du Panel européen, puis des réformes de l'indemnisation du chômage et de la législation sur les contrats temporaires sont simulées. Des allocations chômage (d'assurance ou d'assistance) plus généreuses accroissent faiblement le taux de chômage et le bien-être social. Allonger la durée légale des CDD ou accroître leur taux de transformation en CDI réduit fortement le taux de chômage et améliore le bien-être de tous.",
+ "tittel": "Durée des contrats et indemnisation du chômage",
+ "type": "article"
+}

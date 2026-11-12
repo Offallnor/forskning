@@ -1,0 +1,17 @@
+{
+ "apen_url": "https://academic.oup.com/eurpub/article-pdf/23/suppl_1/ckt126.101/9119912/ckt126.101.pdf",
+ "ar": 2013,
+ "doi": "https://doi.org/10.1093/eurpub/ckt126.101",
+ "forfattere": [
+  "Karin A. A. De Ridder",
+  "Kristine Pape",
+  "JH Bjørngaard"
+ ],
+ "id": "W2524187003",
+ "kilde": "European Journal of Public Health",
+ "lenke": "https://openalex.org/W2524187003",
+ "oversikt": false,
+ "sammendrag": "Background There is evidence that poor adolescent health is associated with higher risk for problematic labour market entrance. Furthermore, poor adolescent health is also associated with higher risk of school dropout which itself is strongly associated with problematic labour market entrance. We investigated whether somatic disease, psychological distress and poor self-rated health were associated with long-term sickness absence and disability pension in young adulthood and if these associations were present in high school dropout as well as completers. Methods We linked health information from 8913 school-attending adolescents (13-20 years old) in the Norwegian Young-HUNT1 Survey (1995-1997) to sickness and disability receipt as young adults (20 to 29 years) in the Norwegian Labour and Welfare registers (1998-2008). Somatic disease was defined as reporting one or more chronic disease, psychological distress was assessed with the five item Hopkins Symptom Checklist (>2.0 scale score on range of 1-4) and poor self-rated health as reporting bad/not so good health. We used logistic regression to estimate risk differences of sickness or disability for participants with a health problem versus participants not having the specific health problem, adjusted for age, sex, maternal education, family living situation and school dropout. Results The risk differences adjusted for demography and family variables for somatic disease, psychological distress or poor health versus no health problem were respectively 5.4% (95% CI 3.5 to 7.3), 3.8% (CI 1.3 to 6.4) and 7.7% (CI 5.1 to 10.4). With additional adjustment for school dropout the risk differences were reduced to respectively 4.6% (CI 2.8 to 6.5), 2.6% (CI 1.9 to 5.0) and 5.6% (CI 3.2 and 8.1). We found no evidence of statistical interaction between each of the health problems and school dropout (p > 0.1). Conclusions Chronic somatic disease, psychological distress and poor self-reported health were associated with higher risk of long-term sickness and disability in young adulthood. These associations were also present among both school drop outs and completers. The results indicate that poor health in adolescence needs attention on an individual and societal level to reduce problematic or failing entrance on the labour market. Key message Poor health in adolescence is associated with long-term sickness and disability in young adulthood and needs attention to prevent early exclusion from the labour market.",
+ "tittel": "Poor adolescent health tracks into long-term sickness absence and disability pension in young adulthood: a prospective population study. (Young-HUNT, Norway)",
+ "type": "article"
+}

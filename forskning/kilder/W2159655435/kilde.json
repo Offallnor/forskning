@@ -1,0 +1,19 @@
+{
+ "apen_url": "https://doi.org/10.3386/w13967",
+ "ar": 2008,
+ "doi": "https://doi.org/10.3386/w13967",
+ "forfattere": [
+  "Raj Chetty"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "http://www.nber.org/papers/w13967.pdf",
+ "hvordan": "pdf",
+ "id": "W2159655435",
+ "kilde": "National Bureau of Economic Research",
+ "lenke": "https://openalex.org/W2159655435",
+ "merknad": "ÅPEN VERSJON (preprint eller arbeidsnotat), merkes i svaret",
+ "oversikt": false,
+ "sammendrag": "This paper presents new evidence on why unemployment insurance (UI) benefits affect search behavior and develops a simple method of calculating the welfare gains from UI using this evidence.I show that 60 percent of the increase in unemployment durations caused by UI benefits is due to a \"liquidity effect\" rather than distortions in marginal incentives to search (\"moral hazard\") by combining two empirical strategies.First, I find that increases in benefits have much larger effects on durations for liquidity constrained households.Second, lump-sum severance payments increase durations substantially among constrained households.I derive a formula for the optimal benefit level that depends only on the reduced-form liquidity and moral hazard elasticities.The formula implies that the optimal UI benefit level exceeds 50 percent of the wage.The \"exact identification\" approach to welfare analysis proposed here yields robust optimal policy results because it does not require structural estimation of primitives.",
+ "tittel": "Moral Hazard vs. Liquidity and Optimal Unemployment Insurance",
+ "type": "report"
+}

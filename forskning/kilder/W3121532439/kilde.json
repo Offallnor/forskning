@@ -1,0 +1,26 @@
+{
+ "apen_url": "http://hdl.handle.net/10419/147949",
+ "ar": 2016,
+ "doi": "https://doi.org/10.4419/86788754",
+ "forfattere": [
+  "Jochen Kluve",
+  "Olga Susana Puerto",
+  "David A. Robalino",
+  "José Manuel Romero Tenorio",
+  "Friederike Rother",
+  "Jonathan Stöterau",
+  "Felix Weidenkaff",
+  "Marc Witte"
+ ],
+ "hentet": "2026-11-08",
+ "hentet_fra": "https://docs.iza.org/dp10263.pdf",
+ "hvordan": "pdf",
+ "id": "W3121532439",
+ "kilde": "RePEc: Research Papers in Economics",
+ "lenke": "https://openalex.org/W3121532439",
+ "merknad": "ÅPEN VERSJON (preprint eller arbeidsnotat), merkes i svaret",
+ "oversikt": true,
+ "sammendrag": "This study reviews the evidence on the impact of youth employment programs on labor market outcomes. The analysis looks at the effectiveness of various interventions and the factors that influence program performance including country context, targeted beneficiaries, program design and implementation, and type of evaluation. We identify 113 counterfactual impact evaluations covering a wide range of methodologies, interventions, and countries. Using meta-analysis methods, we synthesize the evidence based on 2,259 effect sizes (Standardized Mean Differences, or SMD) and the statistical significance of 3,105 treatment effect estimates (Positive and Statistically Significant, or PSS). Overall, we find that just more than one-third of evaluation results from youth employment programs implemented worldwide show a significant positive impact on labor market outcomes – either employment rates or earnings. In general, programs have been more successful in middle- and low-income countries; this may be because these programs' investments are especially helpful for the most vulnerable population groups – low-skilled, low-income – that they target. We also conjecture that the more-recent programs might have benefited from innovations in design and implementation. Moreover, in middle and low income countries, skills training and entrepreneurship programs seem to have had a higher impact. This does not imply, however, that those programs should be strictly preferred to others; much depends on the needs of beneficiaries and program design. In high-income countries, the role of intervention type is less decisive – much depends on context and how services are chosen and delivered, a result that holds across country types. We find strong evidence that programs that integrate multiple interventions are more likely to succeed because they are better able to respond to the different needs of beneficiaries. We also find evidence about the importance of profiling and follow-up systems in determining program performance, and some evidence about the importance of incentive systems for services providers.",
+ "tittel": "Do Youth Employment Programs Improve Labor Market Outcomes? A Systematic Review",
+ "type": "review"
+}

@@ -1,0 +1,15 @@
+{
+ "apen_url": "http://hdl.handle.net/10419/168279",
+ "ar": 2017,
+ "forfattere": [
+  "Johannes Endler",
+  "Johannes Geyer"
+ ],
+ "id": "W2766923721",
+ "kilde": "RePEc: Research Papers in Economics",
+ "lenke": "https://openalex.org/W2766923721",
+ "oversikt": false,
+ "sammendrag": "Unemployment benefits are one important option to bridge time between employment exit and claiming retirement benefits for older workers. We develop an option value model that explicitly accounts for the pension system and unemployment insurance in Germany. We use administrative panel data and implement the model for female birth cohorts of 1940 to 1949, exploiting exogenous variation in social security wealth by the pension reform 1992 and the reform of unemployment benefits in 2004.",
+ "tittel": "The Interaction of Pension System and Unemployment Insurance - Evidence from two Reforms",
+ "type": "preprint"
+}

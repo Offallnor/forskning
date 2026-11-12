@@ -1,0 +1,19 @@
+{
+ "ar": 1997,
+ "forfattere": [
+  "Olympia Bover",
+  "Manuel Arellano",
+  "Samuel Bentolila"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "https://www.cemfi.es/ftp/wp/9717.pdf",
+ "hvordan": "pdf",
+ "id": "W2944316226",
+ "kilde": "RePEc: Research Papers in Economics",
+ "lenke": "https://openalex.org/W2944316226",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "In this paper we study the effects of unemployment benefit duration and the business cycle on unemployement duration. We construct durations for individuals entering unemployment from a longitudinal sample of Spanish men in 1987-1994. Estimated discrete hazard models indicates that receipt of unemployment benefits significantly reduces the hazard of leaving unemployment. For instance, at durations of 3 months, the hazard for workers without benefits is twice as large as that for workers with benefits. Favorable business conditions increase the hazard of leaving unemployment. At sample-period magnitudes, this effect is significantly smaller than that of benefit receipt.",
+ "tittel": "Unemployment Duration, Benefit Duration, and the Business Cycle.Versión Revisada",
+ "type": "preprint"
+}

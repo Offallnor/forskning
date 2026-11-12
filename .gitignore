@@ -1,0 +1,6 @@
+__pycache__/
+# Fulltekst og PDF-er ligger i det private repoet Offallnor/forskning-tekst (se forskning/verktoy/fulltekst.sh).
+forskning/kilder/*/tekst.txt
+forskning/kilder/*/fil.pdf
+forskning/innboks/*
+!forskning/innboks/README.md

@@ -1,0 +1,22 @@
+{
+ "apen_url": "https://doi.org/10.1016/j.pmedr.2024.102786",
+ "ar": 2024,
+ "doi": "https://doi.org/10.1016/j.pmedr.2024.102786",
+ "forfattere": [
+  "Adam Whitworth",
+  "Susan Kathryn Baxter",
+  "Jane Cullingworth",
+  "Mark Clowes"
+ ],
+ "hentet": "2026-11-09",
+ "hentet_fra": "https://eprints.gla.ac.uk/329607/1/329607.pdf",
+ "hvordan": "pdf",
+ "id": "W4399488791",
+ "kilde": "Preventive Medicine Reports",
+ "lenke": "https://openalex.org/W4399488791",
+ "merknad": "",
+ "oversikt": true,
+ "sammendrag": "Objective: To provide an overview review of international evidence of vocational outcomes in Individual Placement and Support (IPS) interventions for populations other than severe mental health. Methods: An overview of reviews published in English since 2000 reporting vocational outcomes (job entry, work sustainment, earnings, work hours, time to job entry) against counterfactuals of IPS interventions for population groups other than severe mental health. The overview review maximises data from individual studies and includes additional recent primary studies. DerSimonian-Laird random effects meta-analysis was performed. Results: Thirteen eligible studies were identified from five reviews and five more recent individual studies were also identified. IPS studies covered a range of groups with a concentration towards mental health. For the primary vocational outcome of job entry all IPS studies showed superior job entry rates compared to control groups with an overall weighted odds ratio of 1.78 [1.42,2.22]. Substantial heterogeneity was identified by study size and the overall weighted odds ratio of 1.32 [1.2,1.46] estimated from the large and medium sized studies seems a more plausible estimate of the likely effects of scaled-up IPS interventions in groups beyond severe mental health. Secondary vocational outcomes including job sustainment, total earnings, average weekly hours worked and time to job entry were typically superior in IPS services than control groups. Conclusions: IPS services are consistently more effective in supporting diverse population groups into sustained employment compared to business-as-usual employment services. The evidence is limited by unclear terminology, small sample sizes, incomplete intervention fidelity, intervention contamination and inconsistent measurement.",
+ "tittel": "Individual Placement and Support (IPS) beyond severe mental health: An overview review and meta-analysis of evidence around vocational outcomes",
+ "type": "review"
+}

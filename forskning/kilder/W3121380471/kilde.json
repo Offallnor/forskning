@@ -1,0 +1,16 @@
+{
+ "ar": 2016,
+ "doi": "https://doi.org/10.1086/684035",
+ "forfattere": [
+  "Lucija A. Muehlenbachs",
+  "Stefan Staubli",
+  "Mark A. Cohen"
+ ],
+ "id": "W3121380471",
+ "kilde": "Journal of the Association of Environmental and Resource Economists",
+ "lenke": "https://openalex.org/W3121380471",
+ "oversikt": false,
+ "sammendrag": "This paper provides new insights into the productivity of teams. Government enforcement agencies often send teams of inspectors instead of a sole inspector to a regulated facility. Yet, determining the impact of teams is problematic due to endogeneity (e.g., the enforcement agency might naturally send larger teams when they expect more violations). Exploiting weather-related exogenous variation in the number of inspectors who are sent to offshore oil and gas platforms in the Gulf of Mexico, we show that adding an inspector to a team increases the number of sanctions issued as well as the severity of the sanctions. This increase in sanction severity is larger than that of an additional inspection. Therefore, enforcement agencies may be able to achieve stricter enforcement by reallocating inspectors into larger inspection teams, even if this is at the cost of conducting fewer inspections.",
+ "tittel": "The Impact of Team Inspections on Enforcement and Deterrence",
+ "type": "article"
+}

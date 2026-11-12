@@ -1,0 +1,19 @@
+{
+ "apen_url": "https://doi.org/10.2340/16501977-0233",
+ "ar": 2008,
+ "doi": "https://doi.org/10.2340/16501977-0233",
+ "forfattere": [
+  "Jenny Kärrholm",
+  "K Ekholm",
+  "Jan Ekholm",
+  "Alf Bergroth",
+  "Kristina Schüldt Ekholm"
+ ],
+ "id": "W2136823366",
+ "kilde": "Journal of Rehabilitation Medicine",
+ "lenke": "https://openalex.org/W2136823366",
+ "oversikt": false,
+ "sammendrag": "OBJECTIVE: To evaluate the effects of systematic co-operation among municipal employees on the number of sick-leave days per month and the type of benefit granted by the Social Insurance Office. A further aim was to evaluate the economic consequences for society. DESIGN: A 6-year follow-up study with a matched-pairs design. METHODS: Days on sick-leave were calculated for each subject one year before the intervention started and yearly for the following 6-year period. Statistical mixed-model analysis was used. The economic benefit of the intervention was estimated as the increased production stemming from fewer days on sick-leave. SUBJECTS: Sixty-four employees on long-term sick-leave were individually matched with controls from another Social Insurance Office in a county with a socioeconomic structure similar to that of the study group. RESULTS: The study group had 5.7 fewer days on sick-leave per month and person over the 6-year period (p=0.003). The estimated average economic benefit of the intervention was euro36,600 per person over the 6-year period. In conclusion, those who received systematic co-operation in vocational rehabilitation had fewer days on sick-leave than their \"treatment-as-usual\" peers. This effect persisted over 6 years, generating substantial net economic gains for society.",
+ "tittel": "Systematic co-operation between employer, occupational health service and social insurance office: A 6-year follow-up of vocational rehabilitation for people on sick-leave, including economic benefits",
+ "type": "article"
+}

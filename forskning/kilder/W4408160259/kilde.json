@@ -1,0 +1,17 @@
+{
+ "apen_url": "https://doi.org/10.1016/j.eap.2025.03.010",
+ "ar": 2025,
+ "doi": "https://doi.org/10.1016/j.eap.2025.03.010",
+ "forfattere": [
+  "Rasmus Wiese",
+  "João Tovar Jalles",
+  "Jakob de Haan"
+ ],
+ "id": "W4408160259",
+ "kilde": "Economic Analysis and Policy",
+ "lenke": "https://openalex.org/W4408160259",
+ "oversikt": false,
+ "sammendrag": "This paper examines how labour market counter-reforms, i.e., measures that make it more difficult to hire and fire workers and that increase unemployment benefits, affect employment growth in 25 OECD countries. Although counter-reforms occur frequently, they have received little attention in empirical research. The theoretical effects of labour market counter-reforms on employment are ambiguous. For instance, higher firing costs may decrease employment as employers are less willing to hire. However, employment may also increase as layoffs may decline due to more stringent firing constraints. Moreover, the effects may depend on the type of contract; workers with a temporary contract have less employment protection. Increasing their protection may increase labour supply notably in an economic upswing when the labour market is tight as. Our results suggest that employment protection counter-reforms for temporary workers increase employment growth when the economy is performing above trend. The effects of counter-reforms of unemployment benefits are insignificant.",
+ "tittel": "The impact of increasing labour market rigidity on employment growth in OECD countries",
+ "type": "article"
+}

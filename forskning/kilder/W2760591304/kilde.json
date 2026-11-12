@@ -1,0 +1,21 @@
+{
+ "apen_url": "https://doi.org/10.2139/ssrn.3443052",
+ "ar": 2019,
+ "doi": "https://doi.org/10.1257/app.20200659",
+ "forfattere": [
+  "Matthew S. Johnson",
+  "David I. Levine",
+  "Michael W. Toffel"
+ ],
+ "hentet": "2026-11-09",
+ "hentet_fra": "https://escholarship.org/content/qt1gq7z4j3/qt1gq7z4j3.pdf?t=py30gi",
+ "hvordan": "pdf",
+ "id": "W2760591304",
+ "kilde": "American Economic Journal Applied Economics",
+ "lenke": "https://openalex.org/W2760591304",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "We study how a regulator can best target inspections. Our case study is a US Occupational Safety and Health Administration (OSHA) program that randomly allocated some inspections. On average, each inspection led to 2.4 (9 percent) fewer serious injuries over the next five years. We use new machine learning methods to estimate the effects of alternative targeting rules. OSHA could have averted twice as many injuries by targeting the highest expected averted injuries and nearly as many by targeting the highest expected level of injuries. Either approach would have generated nearly $1 billion in social value over the decade we examine.",
+ "tittel": "Improving Regulatory Effectiveness Through Better Targeting: Evidence from OSHA",
+ "type": "article"
+}

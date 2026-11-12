@@ -1,0 +1,22 @@
+{
+ "apen_url": "https://doi.org/10.1177/14034948251360679",
+ "ar": 2025,
+ "doi": "https://doi.org/10.1177/14034948251360679",
+ "forfattere": [
+  "Kaarina Reini",
+  "Kaija Appelqvist‐Schmidlechner",
+  "Mika Gissler",
+  "Jan M. Saarela"
+ ],
+ "hentet": "før 2026-11-08",
+ "hentet_fra": "https://www.utupub.fi/bitstreams/cf8b792b-6db5-49c5-94f7-457bae6fb855/download",
+ "hvordan": "pdf",
+ "id": "W4413036354",
+ "kilde": "Scandinavian Journal of Public Health",
+ "lenke": "https://openalex.org/W4413036354",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "AIMS: Mental health problems of young adults are of increasing public health concern in the Nordic countries. The utilization of mental health services has been rising together with growing rates of sickness allowance due to mental health disorders. The aim of this study is to compare Finnish- and Swedish-speaking young adults in Finland and to examine their trends in sickness allowance receipt due to mental health problems in 2004-2018. METHODS: We used register-based data and analysed people aged 20-34 years, distinguishing whether each person and the parents had Finnish or Swedish as their registered mother tongue. Cox regressions were used, in which the study outcome was first time receipt of sickness allowance due to mental disorders. RESULTS: The hazard of sickness allowance receipt due to mental disorders increased for both Finnish and Swedish speakers during the study period. Swedish speakers started at a lower level, or about 0.8 that of Finnish speakers, but approached the level of Finnish speakers over the study period. Persons with bilingual background were largely found in between those with unilingual Finnish and unilingual Swedish background. CONCLUSIONS: Before the coronavirus pandemic, the use of sickness allowance due to mental health problems increased and became more similar for Finnish- and Swedish-speaking young adults.",
+ "tittel": "Sickness absence due to mental disorders among young adults: A register-based comparison of Finnish and Swedish speakers in Finland",
+ "type": "article"
+}

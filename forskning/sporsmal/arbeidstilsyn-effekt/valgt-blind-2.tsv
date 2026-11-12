@@ -1,0 +1,9 @@
+id	kategori	land	tiltak	samme_materiale	begrunnelse
+W2120559694	1	Flere (USA, Canada, Finland, Nederland, Storbritannia)	Intervensjoner mot skader i byggenæringen, inkl. regulering og håndheving	nei	Systematisk oversikt over skadeforebygging i bygg som trolig dekker lovgivning og håndheving, men tilsynsdelen må kontrolleres mot fulltekst.
+W2794504103	1	Flere	Intervensjoner mot skader i byggenæringen, inkl. regulering og håndheving	W2120559694 (oppdatering)	Cochrane-oppdatering av oversikten over skadeforebygging i bygg som trolig dekker lovgivning og håndheving, men tilsynsdelen må kontrolleres mot fulltekst.
+W890430879	1	Storbritannia	Inspeksjon og håndheving med pålegg og straffeforfølging mot veiledning og frivillige koder	nei	Kunnskapsoppsummering fra 2004 som sammenligner tilsyn med sanksjonstrussel mot veiledning for å få virksomheter til å følge HMS-regelverket.
+W2097906865	1	USA	Regulering av arbeidsmiljø, bl.a. OSHA-håndheving	nei	Oversikt over økonomisk forskning på lovregulering av arbeidsmarkedet med et kapittel om sikkerhetsregulering, men tilsynsdelen er usikker.
+W2096755754	1	USA	Regulering av arbeidsmiljø, bl.a. OSHA-håndheving	W2097906865	NBER-versjon av samme oversikt over arbeidsrett og arbeidsmarked, tatt med som samme materiale.
+W2113815113	5	Spania	Regionale strategiske handlingsplaner for forebygging (tilsyn og oppfølging fra regionale myndigheter)	nei	Før-etter-analyse (avbrutt tidsserie uten kontrollgruppe) av ulykkesforekomst før og etter myndighetenes handlingsplaner 1994-2004.
+W2066917105	5	USA	Unntak fra OSHA-håndheving for små gårdsbruk, sammenlignet mellom delstater	nei	Sammenligner dødsulykker i delstater med og uten unntaket fra håndheving, uten håndtering av seleksjon.
+W4410266078	5	Danmark	Dialogbasert tilsynspraksis (avtale om problemløsning, ATP) fra Arbeidstilsynet	nei	Kvasieksperimentell nasjonal studie av hvilke virksomheter som oppfyller avtalen etter tilsyn, men uten effektmål på skader.

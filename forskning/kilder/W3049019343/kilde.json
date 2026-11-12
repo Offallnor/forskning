@@ -1,0 +1,13 @@
+{
+ "ar": 2019,
+ "forfattere": [
+  "Song, Minxiu"
+ ],
+ "id": "W3049019343",
+ "kilde": "Creative Matter (Skidmore College)",
+ "lenke": "https://openalex.org/W3049019343",
+ "oversikt": false,
+ "sammendrag": "This paper examines the effects of unemployment insurance benefits on UI participation, unemployment inflow, unemployment duration, and job search intensity, by investigating the 16-weeks cut in potential Unemployment Insurance benefit in Missouri in 2011. The RDD estimates found a 16-weeks reduction in UI potential benefit duration decreases the number of new UI claimants by about 1032 and the insured unemployment rate by 0.452%. The DID model of married UI claimants indicates a 5 weeks deduction in unemployment duration after the benefits cut in Missouri. No significant effects were found in the job search intensity model.",
+ "tittel": "The Effects of Unemployment Insurance Benefits on the Behaviors of Displaced Workers",
+ "type": "article"
+}

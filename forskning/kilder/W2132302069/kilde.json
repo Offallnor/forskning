@@ -1,0 +1,21 @@
+{
+ "ar": 2009,
+ "doi": "https://doi.org/10.1002/14651858.cd006955.pub2",
+ "forfattere": [
+  "Sandra H. van Oostrom",
+  "Maurice T. Driessen",
+  "Henrica C. W. de Vet",
+  "Renée‐Louise Franche",
+  "Eva Schönstein",
+  "Patrick Loisel",
+  "Willem van Mechelen",
+  "Johannes R. Anema"
+ ],
+ "id": "W2132302069",
+ "kilde": "Cochrane Database of Systematic Reviews",
+ "lenke": "https://openalex.org/W2132302069",
+ "oversikt": false,
+ "sammendrag": "BACKGROUND: Work disability has serious consequences for all stakeholders and society. Workplace interventions are considered appropriate to facilitate return to work by reducing barriers to return to work, involving the collaboration of key stakeholders. OBJECTIVES: To determine the effectiveness of workplace interventions compared to usual care or clinical interventions on work-related outcomes and health outcomes; and to evaluate whether the effects differ when applied to musculoskeletal disorders, mental health problems, or other health conditions. SEARCH STRATEGY: We searched the Cochrane Occupational Health Field Trials Register, CENTRAL, MEDLINE and EMBASE (EMBASE.com), and PsycINFO databases (to November 2007). SELECTION CRITERIA: We included randomized controlled trials of workplace interventions aimed at return to work for workers where absence from work because of sickness was reported as a continuous outcome. DATA COLLECTION AND ANALYSIS: Two authors independently extracted data and assessed risk of bias of the studies. Meta-analysis and qualitative analysis (using GRADE levels of evidence) were performed. MAIN RESULTS: We included six randomized controlled trials (749 workers): three on low back pain, one on upper-extremity disorders, one on musculoskeletal disorders, and one on adjustment disorders. Five studies were rated as having low risk of bias for the sickness absence outcome. The results of this review show that there is moderate-quality evidence to support the use of workplace interventions to reduce sickness absence among workers with musculoskeletal disorders when compared to usual care. However, workplace interventions were not effective to improve health outcomes among workers with musculoskeletal disorders. The lack of studies made it impossible to investigate the effectiveness of workplace interventions among workers with mental health problems and other health conditions. A comparison of a workplace intervention with a clinical intervention, in one study only, yielded similar results for sickness absence and symptoms for workers with mental health problems. AUTHORS' CONCLUSIONS: As a result of the few available studies, no convincing conclusions can be formulated about the effectiveness of workplace interventions on work-related outcomes and health outcomes regardless of the type of work disability. The pooled data for the musculoskeletal disorders subgroup indicated that workplace interventions are effective in the reduction of sickness absence, but they are not effective in improving health outcomes. The evidence from the subgroup analysis on musculoskeletal disorders was rated as moderate-quality evidence. Unfortunately, conclusions cannot be drawn on the effectiveness of these interventions for mental health problems and other health conditions due to a lack of studies.",
+ "tittel": "Workplace interventions for preventing work disability",
+ "type": "reference-entry"
+}

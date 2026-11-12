@@ -1,0 +1,15 @@
+{
+ "apen_url": "https://ebuah.uah.es/dspace/bitstream/10017/11504/1/168_Arranz_HPE.pdf",
+ "ar": 2004,
+ "forfattere": [
+  "José María Arranz Muñoz",
+  "Carlos García Serrano"
+ ],
+ "id": "W2101241810",
+ "kilde": "e_Buah",
+ "lenke": "https://openalex.org/W2101241810",
+ "oversikt": false,
+ "sammendrag": "The aim of this paper is to analyse the influence of individual’s previous labour market experiences on the duration of subsequent job matches in the Spanish labour market. The study draws on a sample of workers extracted from a Spanish administrative dataset. We find evidence on the existence of a scarring effect: the longer the time spent in non-employment since previous job separation, the shorter the duration of subsequent re-employment relationships. Other result is that workers whose previous job match terminated due to the ending of a temporary contract are very likely to come back to employment under another temporary job and have a higher probability of job termination. The exhaustion of unemployment benefits also seems to exert a scarring effect on job duration.",
+ "tittel": "The influence of previous labour market experiences on subsequent job tenure",
+ "type": "article"
+}

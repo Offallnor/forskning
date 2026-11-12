@@ -1,0 +1,20 @@
+{
+ "apen_url": "https://bmcpublichealth.biomedcentral.com/counter/pdf/10.1186/1471-2458-6-69",
+ "ar": 2006,
+ "doi": "https://doi.org/10.1186/1471-2458-6-69",
+ "forfattere": [
+  "Pål Nystuen",
+  "Kåre Birger Hagen"
+ ],
+ "hentet": "2026-11-09",
+ "hentet_fra": "https://bmcpublichealth.biomedcentral.com/counter/pdf/10.1186/1471-2458-6-69",
+ "hvordan": "pdf",
+ "id": "W1683945824",
+ "kilde": "BMC Public Health",
+ "lenke": "https://openalex.org/W1683945824",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "BACKGROUND: Long-term sick leave has been of concern to politicians and decision-makers in Norway for several years. In the current study we assess the efficacy of a solution-focused follow-up for sick-listed employees. METHODS: Employees on long-term sick leave due to psychological problems or muscle skeletal pain (n = 703) were invited to participate in the project. Following self-recruitment, 103 were randomly allocated to receive solution-focused follow-up (n = 53) or \"treatment as usual\" (n = 50). The intervention was integrated within the regular follow up of six social security offices and organised as eight weekly solution focused work sessions. Effectiveness was measured by rate of return to work and health related quality of life (SF-36). RESULTS: Intention to treat analysis showed no significant differences between the two groups for any of the outcome measures. Secondary analysis, comparing those who attended at least 50% of the sessions with the control group revealed a significant difference in favour of the active intervention group in the SF-36 subscale of mental health (Effect Size 0.56, p = 0.05). When comparing the subgroup of participants with psychological problems there was a significant difference in mental health in favour of the intervention group (Effect Size 0.71, p = 0.041). CONCLUSION: A voluntary solution-focused intervention offered by social-security offices is no more effective than regular follow up for employees on long-term sick leave due to psychological problems or muscle skeletal pain.",
+ "tittel": "Solution-focused intervention for sick listed employees with psychological problems or muscle skeletal pain: a randomised controlled trial [ISRCTN39140363]",
+ "type": "article"
+}

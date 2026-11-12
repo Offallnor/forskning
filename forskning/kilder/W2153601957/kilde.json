@@ -1,0 +1,16 @@
+{
+ "ar": 2012,
+ "doi": "https://doi.org/10.1257/aer.102.3.514",
+ "forfattere": [
+  "Johannes F. Schmieder",
+  "Till von Wachter",
+  "Stefan Bender"
+ ],
+ "id": "W2153601957",
+ "kilde": "American Economic Review",
+ "lenke": "https://openalex.org/W2153601957",
+ "oversikt": false,
+ "sammendrag": "The majority of papers analyzing the employment effects of unemployment insurance (UI) benefit durations focus on the duration of the first unemployment spell. In this paper, we make two contributions. First, we use a regression discontinuity design to analyze the long-term effects of extensions in UI durations. These estimates differ from standard estimates in that they incorporate differences in UI benefit receipt and employment due to recurrent unemployment spells. Second, we derive a welfare formula of UI extensions that incorporates recurrent nonemployment spells.",
+ "tittel": "The Long-Term Effects of UI Extensions on Employment",
+ "type": "article"
+}

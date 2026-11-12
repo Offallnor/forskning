@@ -1,0 +1,22 @@
+{
+ "apen_url": "https://link.springer.com/content/pdf/10.1007/s10926-019-09864-z.pdf",
+ "ar": 2019,
+ "doi": "https://doi.org/10.1007/s10926-019-09864-z",
+ "forfattere": [
+  "Lisa C. Bosman",
+  "Jos W. R. Twisk",
+  "Anna S. Geraedts",
+  "Martijn W. Heymans"
+ ],
+ "hentet": "før 2026-11-08",
+ "hentet_fra": "https://link.springer.com/content/pdf/10.1007/s10926-019-09864-z.pdf",
+ "hvordan": "pdf",
+ "id": "W2982381358",
+ "kilde": "Journal of Occupational Rehabilitation",
+ "lenke": "https://openalex.org/W2982381358",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "Objective This study determined if partial sick leave was associated with a shorter duration of sick leave due to musculoskeletal disorders (MSD) based on routinely collected health data in Dutch sick-listed employees. Furthermore, the effect of timing of partial sick leave on sick leave duration was determined. Methods This cohort study consisted of 771 employees with partial sick leave and 198 employees with full-time sick leave who participated in an occupational health check, and had sick leave due to MSD for minimally 4 weeks and were diagnosed by an occupational physician. Multivariable linear regression models were performed to determine the effects of partial sick leave (unadjusted and adjusted for confounders and MSD diagnosis) and Kaplan-Meier curves were presented for visualization of return to work for different timings of starting partial sick leave. Furthermore, linear regression analysis were done in subsets of employees with different minimal durations of sick leave to estimate the effects of timing of partial sick leave. Results Initial results suggest that partial sick leave was associated with longer sick leave duration, also when adjusted for confounders and sick leave diagnosis. Secondary results which accounted for the timing of partial sick leave suggest that partial sick leave had no effect on the duration of sick leave. Conclusion Partial sick leave does not influence MSD sick leave duration in this study when accounting for the timing of partial sick leave.",
+ "tittel": "Effect of Partial Sick Leave on Sick Leave Duration in Employees with Musculoskeletal Disorders",
+ "type": "article"
+}

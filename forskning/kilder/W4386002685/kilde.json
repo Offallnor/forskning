@@ -1,0 +1,20 @@
+{
+ "apen_url": "https://doi.org/10.1016/j.labeco.2023.102434",
+ "ar": 2022,
+ "doi": "https://doi.org/10.1016/j.labeco.2023.102434",
+ "forfattere": [
+  "Tomi Kyyrä",
+  "Juha Tuomala"
+ ],
+ "hentet": "før 2026-11-08",
+ "hentet_fra": "https://docs.iza.org/dp15797.pdf",
+ "hvordan": "pdf",
+ "id": "W4386002685",
+ "kilde": "Labour Economics",
+ "lenke": "https://openalex.org/W4386002685",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "In Finland, large firms are partially liable for the costs of disability and unemployment benefits paid to their former workers. To estimate the effects of such costs, we exploit a reform that extended this cost-sharing to cover a new group of blue-collar workers. We show that experience rating in disability insurance reduces inflows to sickness and disability benefits and increases participation in vocational rehabilitation programs, whereas employers' unemployment insurance costs reduce excess layoffs of older workers who are eligible for extended unemployment benefits until retirement age. We find no evidence of spillover effects: employers' costs in one benefit type do not affect inflows to other types of the benefits.",
+ "tittel": "The Effects of Employers' Disability and Unemployment Insurance Costs on Benefit Inflows",
+ "type": "article"
+}

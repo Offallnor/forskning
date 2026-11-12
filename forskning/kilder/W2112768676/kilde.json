@@ -1,0 +1,15 @@
+{
+ "ar": 1990,
+ "doi": "https://doi.org/10.1177/001979399004300409",
+ "forfattere": [
+  "Pedro Portugal",
+  "John T. Addison"
+ ],
+ "id": "W2112768676",
+ "kilde": "Industrial and Labor Relations Review",
+ "lenke": "https://openalex.org/W2112768676",
+ "oversikt": false,
+ "sammendrag": "Conventional analyses of the effect of unemployment insurance (UI) on unemployment duration have neglected the issue of sample construction. The authors show that such studies, by failing to account for job finding among those eligible for UI within intervals corresponding to the waiting time and filing delays associated with drawing benefits, overstate the expected unemployment duration of UI recipients while understating that of nonrecipients; ignore a dominant line of causation running from duration to UI benefit status; produce misspecified hazard functions; and may overstate by as much as 50% the effect of the UI replacement rate on jobless duration.",
+ "tittel": "Problems of Sample Construction in Studies of the Effects of Unemployment Insurance on Unemployment Duration",
+ "type": "article"
+}

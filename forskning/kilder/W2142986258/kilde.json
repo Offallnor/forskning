@@ -1,0 +1,15 @@
+{
+ "ar": 2012,
+ "doi": "https://doi.org/10.1111/j.1542-4774.2011.01064.x",
+ "forfattere": [
+  "Knut Røed",
+  "Lars Westlie"
+ ],
+ "id": "W2142986258",
+ "kilde": "Journal of the European Economic Association",
+ "lenke": "https://openalex.org/W2142986258",
+ "oversikt": false,
+ "sammendrag": "Based on a major reform of Norwegian unemployment insurance (UI), we examine the behavioral impacts of soft and hard UI duration constraints. A constraint is interpreted as hard if a claimant cannot rely on any form of income support after exhaustion, and as soft if UI is replaced by follow-on benefits or participation in active labor market programs (ALMP). We find that both hard and soft constraints raise the job hazard significantly, with surprisingly similar spikes at UI exhaustion. Participation in ALMP raises the probability of eventually finding a job, but at the cost of lengthening the overall job-search period.",
+ "tittel": "UNEMPLOYMENT INSURANCE IN WELFARE STATES: THE IMPACTS OF SOFT DURATION CONSTRAINTS",
+ "type": "article"
+}

@@ -1,0 +1,16 @@
+{
+ "apen_url": "https://doi.org/10.53479/39665",
+ "ar": 2025,
+ "doi": "https://doi.org/10.53479/39665",
+ "forfattere": [
+  "Rubén Domínguez-Díaz",
+  "Donghai Zhang"
+ ],
+ "id": "W4409954158",
+ "kilde": "Documentos de trabajo/Documento de trabajo - Banco de España, Servicio de Estudios",
+ "lenke": "https://openalex.org/W4409954158",
+ "oversikt": false,
+ "sammendrag": "We assess the macroeconomic effects of unemployment insurance (UI) extensions in the US through a novel identification scheme based on the design of the UI policy rule. Our approach exploits differences in the effects of demand shocks across US states with different responses in UI duration. Our results indicate that UI extensions have a significant stabilization role. We then show that a New Keynesian small-open-economy model with imperfect insurance against unemployment aligns with our empirical findings. Finally, we use the model to recover the implied UI multiplier, quantify the different transmission channels of UI extensions and uncover their union-wide effects.",
+ "tittel": "The macroeconomic effects of unemployment insurance extensions: A policy rule-based identification approach",
+ "type": "report"
+}

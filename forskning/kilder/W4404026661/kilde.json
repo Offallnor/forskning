@@ -1,0 +1,23 @@
+{
+ "apen_url": "https://doi.org/10.3386/w33112",
+ "ar": 2024,
+ "doi": "https://doi.org/10.3386/w33112",
+ "forfattere": [
+  "Christina Brinkmann",
+  "Simon Jäger",
+  "Moritz Kuhn",
+  "Farzad Saidi",
+  "Stefanie Wolter"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "https://www.econtribute.de/RePEc/ajk/ajkdps/ECONtribute_340_2024.pdf",
+ "hvordan": "pdf",
+ "id": "W4404026661",
+ "kilde": "National Bureau of Economic Research",
+ "lenke": "https://openalex.org/W4404026661",
+ "merknad": "ÅPEN VERSJON (preprint eller arbeidsnotat), merkes i svaret",
+ "oversikt": false,
+ "sammendrag": "Governments use short-time work (STW) schemes to subsidize job retention.A key policy lever during crises is the extension of potential benefit duration (PBD)-how long firms can receive STW subsidies.Using unique German administrative data from 2009 to 2021, we show that separations rise and employment falls when firms exhaust benefits.Yet the uptick in separations at exhaustion almost entirely reflects job-to-job moves rather than transitions into unemployment, even in slack labor markets, consistent with STW delaying reallocation rather than preventing unemployment.We develop a model to analyze exogenous shifts in PBD and show that wage flexibility can substitute for longer benefit duration.Exploiting a 2012 reform that doubled the PBD from six to twelve months, we find no evidence that the extension prevented unemployment and, if anything, reduced reallocation to other firms.In line with the model, firms without extensions reduced wages relative to those with extended support, and across labor market cells, larger wage adjustments coincide with smaller employment losses.Our findings imply that STW extensions operated mainly as wage subsidies rather than job-saving measures.",
+ "tittel": "Short-Time Work Extensions",
+ "type": "report"
+}

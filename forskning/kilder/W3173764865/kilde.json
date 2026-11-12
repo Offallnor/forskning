@@ -1,0 +1,26 @@
+{
+ "apen_url": "https://doi.org/10.1177/10870547211025605",
+ "ar": 2021,
+ "doi": "https://doi.org/10.1177/10870547211025605",
+ "forfattere": [
+  "Lingjing Chen",
+  "Ellenor Mittendorfer‐Rutz",
+  "Emma Björkenstam",
+  "Syed Ghulam Rahman",
+  "Klas Gustafsson",
+  "Heidi T. Taipale",
+  "Antti J. Tanskanen",
+  "Lisa Ekselius"
+ ],
+ "hentet": "2026-11-09",
+ "hentet_fra": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8785279/fullTextXML",
+ "hvordan": "Europe PMC",
+ "id": "W3173764865",
+ "kilde": "Journal of Attention Disorders",
+ "lenke": "https://openalex.org/W3173764865",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "OBJECTIVE: To investigate risk factors of disability pension (DP) in young adults diagnosed with ADHD in Sweden. METHOD: In total, 9718 individuals diagnosed with incident ADHD in young adult age (19-29 years) 2006 to 2011, were identified through national registers. They were followed for 5 years and Cox regression models were applied to analyze the DP risk (overall and by sex), associated with socio-demographics, work-related factors, and comorbid disorders. RESULTS: Twenty-one percent of all received DP. Being younger at diagnosis (hazard ratio [HR] = 1.54; 95%confidence interval [CI] 1.39-1.71); low educational level (HR = 1.97; 95%CI 1.60-2.43 for <10 years); work-related factors at baseline (no income from work [HR = 2.64; 95%CI 2.35-2.98] and sickness absence >90 days [HR = 2.48; 95%CI2.17-2.83]); and schizophrenia/psychoses (HR = 2.16; 95%CI 1.66-2.80), autism (HR = 1.87; 95%CI 1.42-2.46), anxiety (HR = 1.34; 95%CI 1.22-1.49) were significantly associated with an increased risk of DP. Similar risk patterns were found in men and women. CONCLUSION: Work-related factors and comorbid mental disorders need to be highlighted in early vocational rehabilitation for individuals with ADHD.",
+ "tittel": "Risk Factors for Disability Pension among Young Adults Diagnosed with Attention-deficit Hyperactivity Disorder (ADHD) in Adulthood",
+ "type": "article"
+}

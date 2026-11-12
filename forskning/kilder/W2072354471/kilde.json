@@ -1,0 +1,23 @@
+{
+ "apen_url": "https://link.springer.com/content/pdf/10.1007/s10926-007-9114-z.pdf",
+ "ar": 2008,
+ "doi": "https://doi.org/10.1007/s10926-007-9114-z",
+ "forfattere": [
+  "IJmert Kant",
+  "Nicole Jansen",
+  "Ludovic G. P. M. van Amelsvoort",
+  "Rudy van Leusden",
+  "Ate Berkouwer"
+ ],
+ "hentet": "2026-11-09",
+ "hentet_fra": "https://link.springer.com/content/pdf/10.1007/s10926-007-9114-z.pdf",
+ "hvordan": "pdf",
+ "id": "W2072354471",
+ "kilde": "Journal of Occupational Rehabilitation",
+ "lenke": "https://openalex.org/W2072354471",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "OBJECTIVE: To examine the efficacy of structured early consultation among employees at high risk for future long-term sickness absence, in the prevention and/or reduction of sickness absence. The focus of the experiment was the timing of the intervention, that is, treatment before sickness absence actually occurs. METHODS: In the current prospective randomized controlled trial (RCT), employees at high risk for long-term sickness absence were selected based on responses to a 34-item screening questionnaire including demographic, workplace, health and psychosocial factors associated with long-term sickness absence (>28 days). A total of 299 subjects at risk for future long-term sickness absence were randomized in an experimental group (n = 147) or in a control group (n = 152). Subjects in the experimental group received a structured early consult with their occupational physician (OP), in some cases followed by targeted intervention. The control group received care as usual. Sickness absence was assessed objectively through record linkage with the company registers on sickness absence over a 1 year follow-up period. RESULTS: Modified intention-to-treat analysis revealed substantial and statistically significant differences (p = 0.007) in total sickness absence duration over 1 year follow-up between the experimental (mean 18.98; SD 29.50) and control group (mean 31.13; SD 55.47). Per-protocol analysis additionally showed that the proportion of long-term sickness absence spells (>28 days) over 1 year follow-up was significantly (p = 0.048) lower in the experimental (9.1%) versus control group (18.3%). CONCLUSIONS: Structured early consultation with the OP among employees at high risk for future long-term sickness absence is successful in reducing total sickness absence.",
+ "tittel": "Structured Early Consultation with the Occupational Physician Reduces Sickness Absence Among Office Workers at High Risk for Long-Term Sickness Absence: a Randomized Controlled Trial",
+ "type": "article"
+}

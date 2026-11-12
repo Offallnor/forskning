@@ -1,0 +1,22 @@
+{
+ "apen_url": "https://www.sjweh.fi/download.php?abstract_id=4265&file_nro=1",
+ "ar": 2025,
+ "doi": "https://doi.org/10.5271/sjweh.4265",
+ "forfattere": [
+  "Jonas Backes",
+  "Sonja I Mueller",
+  "Alexander Geißler",
+  "David Ehlig"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "https://www.sjweh.fi/pdf-236335-144192?filename=Occupational-health-inter.pdf",
+ "hvordan": "pdf",
+ "id": "W4417438054",
+ "kilde": "Scandinavian Journal of Work Environment & Health",
+ "lenke": "https://openalex.org/W4417438054",
+ "merknad": "",
+ "oversikt": true,
+ "sammendrag": "OBJECTIVE: Health-related productivity losses impose a significant burden on health systems and economies. Occupational health interventions (OHI) are increasingly promoted as preventive strategies to reduce work-related illness and enhance productivity. However, their effectiveness often remains unclear, creating a lack of guidance to those deciding on their implementation. The aim of this review was to evaluate the effectiveness of OHI in reducing sickness absenteeism and generating economic returns, focusing on mental health, physical health, and workplace atmosphere interventions (eg, work climate enhancement, leadership training). METHODS: A systematic literature search following the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) 2020 guideline was conducted throughout December 2024. Risk of bias was assessed with Joanna Briggs Institute checklists. A random-effects meta-analysis synthesized OHI effects on sick days and return on investment (ROI). RESULTS: Of 2624 identified studies, 68 across eight industries met eligibility criteria. From these, 23 were included in the meta-analysis: 11 reporting on sick days, and 12 on ROI. OHI were associated with a non-significant reduction in absenteeism [-0.18 days; 95% confidence interval (CI) -2.80-2.43; P=0.890] and a tendency of positive ROI (1.92; 95% CI -0.34-4.17; P=0.096), albeit with statistical uncertainty. CONCLUSION: We only found effect of OHI on ROI, however, absence effects on sick days do not necessarily imply a lack of effectiveness. We hypothesize that ROI benefits reflect improvements in presenteeism, although not directly measured. Overall, this review guides OHI selection and implementation, urges standardized evaluation, and prioritizes research on presenteeism measurement, non-OECD settings, and qualitative success factors.",
+ "tittel": "Occupational health interventions’ impact on absenteeism and economic returns: A systematic review and meta-analysis",
+ "type": "review"
+}

@@ -1,0 +1,23 @@
+{
+ "apen_url": "https://www.sjweh.fi/download.php?abstract_id=3084&file_nro=1",
+ "ar": 2010,
+ "doi": "https://doi.org/10.5271/sjweh.3084",
+ "forfattere": [
+  "David S Rebergen",
+  "David J. Bruinvels",
+  "Chris M Bos",
+  "Allard J. van der Beek",
+  "Willem van Mechelen"
+ ],
+ "hentet": "2026-11-09",
+ "hentet_fra": "https://www.sjweh.fi/pdf-237867-145612?filename=Return-to-work-and-occupa.pdf",
+ "hvordan": "pdf",
+ "id": "W2036291270",
+ "kilde": "Scandinavian Journal of Work Environment & Health",
+ "lenke": "https://openalex.org/W2036291270",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "OBJECTIVE: The aim of this study was to examine the adherence of occupational physicians (OP) to the Dutch guideline on the management of common mental health problems and its effect on return to work as part of the process evaluation of a trial comparing adherence to the guideline to care as usual. The first hypothesis was that guideline adherence among the \"guideline group\" will be higher compared to the \"usual care group\". The second hypothesis was that better guideline adherence by the occupational physician will be associated with earlier return to work. METHODS: In a randomized controlled trial, five participating OP had to provide care based on the Dutch guideline to 240 police workers with common mental health problems (the \"guideline group\"). The same OP had to provide usual care to the participants in the control group (the \"usual care\" group), including minimal involvement and easy access to a psychologist. In evaluating the process, we assessed guideline adherence via an audit of medical files, using 20 guideline-based performance indicators. Mean rates of guideline adherence were related to the duration until first and full return to work, using a Cox proportional hazards model. RESULTS: The mean rate of the sum score of guideline adherence was 10 in a range of 0-20 [standard deviation (SD) 1.8] and did not significantly differ between the intervention and control group. Mean better guideline adherence showed a statistically significant association with a shorter time to first and full return to work [hazard ratio 1.1; 95% confidence interval (95% CI) 1.0-1.2], which was explained by keeping more regular contact with the worker and the work system and better monitoring of stagnation or return to work. CONCLUSIONS: No contrast in guideline adherence was found between guideline-based versus usual care. This can be explained by contamination between the guideline and usual care group. Even though guideline adherence was only average, better adherence predicted earlier return to work. Guidelines for management of common mental health problems and return to work should focus on regular contact with the worker and the work organisation.",
+ "tittel": "Return to work and occupational physicians’ management of common mental health problems – process evaluation of a randomized controlled trial",
+ "type": "article"
+}

@@ -1,0 +1,14 @@
+{
+ "ar": 2012,
+ "doi": "https://doi.org/10.1515/jbnst-2012-0105",
+ "forfattere": [
+  "Barbara Hofmann"
+ ],
+ "id": "W2557695624",
+ "kilde": "Jahrbücher für Nationalökonomie und Statistik",
+ "lenke": "https://openalex.org/W2557695624",
+ "oversikt": false,
+ "sammendrag": "Summary Unemployment insurance (UI) benefit sanctions in form of benefit reductions are intended to set an incentive to comply with job search requirements and to decrease moral hazard behaviour. However, sanctions might also affect the subsequent employment history. Empirical research on long-term effects is scarce. Using administrative data, we investigate short- and long-term effects of sanctions on the reemployment probability of individuals in West Germany who entered UI benefit receipt between April 2000 and March 2001. As outcomes we consider regular employment, other employment, and having dropped out of the registered labour market. By applying a matching approach that takes the timing of treatment into account, we identify the ex post effect of UI sanctions. According to our results, sanctions are effective in increasing the probability of regular employment for young sanctioned UI benefit recipients. Older women on average respond to a sanction by taking up jobs of lower quality. For both women and men, we find an increased number of months out of the official work force after a sanction.",
+ "tittel": "Short- and Long-term Ex-Post Effects of Unemployment Insurance Sanctions",
+ "type": "article"
+}

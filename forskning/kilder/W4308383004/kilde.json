@@ -1,0 +1,23 @@
+{
+ "apen_url": "https://journals.sagepub.com/doi/pdf/10.1177/14550725221122196",
+ "ar": 2022,
+ "doi": "https://doi.org/10.1177/14550725221122196",
+ "forfattere": [
+  "Eline Borger Rognli",
+  "Linn Nathalie Støme",
+  "Kari Jorunn Kværner",
+  "Christian Ringnes Wilhelmsen",
+  "Espen Ajo Arnevik"
+ ],
+ "hentet": "2026-11-09",
+ "hentet_fra": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10101164/fullTextXML",
+ "hvordan": "Europe PMC",
+ "id": "W4308383004",
+ "kilde": "Nordic Studies on Alcohol and Drugs",
+ "lenke": "https://openalex.org/W4308383004",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "Background: Unemployment rates for individuals in treatment for substance use disorder (SUD) are high, with Norwegian estimates in the range of 81%–89%. Although Individual Placement and Support (IPS) represents a promising method to improved vocational outcome, cross-disciplinary investigations are needed to document implementation benefits and address reimbursements needs. The aim of this study was to model the potential socioeconomic value of employment support integrated in SUD treatment. Methods: Based on scientific publications, an ongoing randomised controlled trial (RCT) on employment support integrated in SUD treatment, and publicly available economy data, we made qualified assumptions about costs and socioeconomic gain for the different interventions targeting employment for patients with SUD: (1) treatment as usual (TAU); (2) TAU and a self-help guide and a workshop; and (3) TAU and IPS. For each intervention, we simulated three different outcome scenarios based on 100 patients. Results: Assuming a 40% employment rate and full-time employment (100%) for 10 years following IPS, we found a 10-year socioeconomic effect of €18,732,146. The corresponding effect for the more conservative TAU + IPS simulation assuming 40% part-time positions (25%) for five years, was €2,519,906. Compared to the two alternative interventions, IPS was cost-effective and more beneficial after six months to two years. Discussion: This concept evaluation study suggests that integrating employment support in the health services is socioeconomically beneficial. Our finding is relevant for decision makers within politics and health. Once employment rates from our ongoing RCT is available, real-life data will be applied to adjust model assumptions and socioeconomic value assumptions.",
+ "tittel": "The effect of employment support integrated in substance use treatment: A health economic cost-effectiveness simulation of three different interventions",
+ "type": "article"
+}

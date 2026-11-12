@@ -1,0 +1,23 @@
+{
+ "apen_url": "https://bmjopen.bmj.com/content/bmjopen/9/2/e024597.full.pdf",
+ "ar": 2019,
+ "doi": "https://doi.org/10.1136/bmjopen-2018-024597",
+ "forfattere": [
+  "Lisebet Skeie Skarpaas",
+  "Lise Aasen Haveraaen",
+  "Milada Cvancarova Småstuen",
+  "William S. Shaw",
+  "Randi Wågø Aas"
+ ],
+ "hentet": "2026-11-09",
+ "hentet_fra": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6398742/fullTextXML",
+ "hvordan": "Europe PMC",
+ "id": "W2916361832",
+ "kilde": "BMJ Open",
+ "lenke": "https://openalex.org/W2916361832",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "OBJECTIVES: The aim of this study was to assess if the reported provision of a coordinator was associated with time to first return to work (RTW) and first full RTW among sick-listed employees who participated in different rapid-RTW programmes in Norway. DESIGN: The study was designed as a cohort study. SETTING: Rapid-RTW programmes financed by the regional health authority in hospitals and Norwegian Labour and Welfare Administration in Norway. PARTICIPANTS: The sample included employees on full-time sick leave (n=326) who participated in rapid-RTW programmes (n=43), who provided information about the coordination of the services they received. The median age was 46 years (minimum-maximum 21-67) and 71% were female. The most common reported diagnoses were musculoskeletal (57%) and mental health disorders (14%). INTERVENTIONS: The employees received different types of individually tailored RTW programmes all aimed at a rapid RTW; occupational rehabilitation (64%), treatment for medical or psychological issues, including assessment, and surgery (26%), and follow-up and work clarification services (10%). It was common to be provided with a coordinator (73%). PRIMARY AND SECONDARY OUTCOME MEASURES: Outcomes were measured as time to first RTW (graded and 100%) and first full RTW (100%). RESULTS: Employees provided with a coordinator returned to work later than employees who did not have a coordinator; a median (95% CI) of 128 (80 to 176) days vs 61 (43 to 79) days for first RTW, respectively. This difference did not remain statistically significant in the adjusted regression analysis. For full RTW, there was no statistically significant difference between employees provided with a coordinator versus those who were not. CONCLUSIONS: The model of coordination, provided in the Norwegian rapid-RTW programmes was not associated with a more rapid RTW for sick-listed employees. Rethinking how RTW coordination should be organised could be wise in future programme development.",
+ "tittel": "The association between having a coordinator and return to work: the rapid-return-to-work cohort study",
+ "type": "article"
+}

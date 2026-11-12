@@ -1,0 +1,14 @@
+{
+ "ar": 2020,
+ "doi": "https://doi.org/10.1177/0019793920931495",
+ "forfattere": [
+  "Ling Li"
+ ],
+ "id": "W3034320574",
+ "kilde": "Industrial and Labor Relations Review",
+ "lenke": "https://openalex.org/W3034320574",
+ "oversikt": false,
+ "sammendrag": "This study examines the effect of safety enforcement on workplace injuries and worker productivity in coal mines. The author exploits the introduction of a “flagrant” violation standard—with penalties of up to 0.22 million dollars per violation—established by the Mine Improvement and New Emergency Response (MINER) Act of 2006. Using an event-study model, the author finds that after the issuance of a flagrant violation, the workplace injuries decreased significantly by 20% and miner productivity decreased by 6%. The results suggest that the monetary value of the productivity loss is 1.3 times the costs saved from fewer injuries, which highlights the costs of workplace safety regulations.",
+ "tittel": "Workplace Safety and Worker Productivity: Evidence from the MINER Act",
+ "type": "article"
+}

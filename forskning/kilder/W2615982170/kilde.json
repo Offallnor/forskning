@@ -1,0 +1,15 @@
+{
+ "ar": 2017,
+ "doi": "https://doi.org/10.1257/aer.p20171026",
+ "forfattere": [
+  "Johannes F. Schmieder",
+  "Till von Wachter"
+ ],
+ "id": "W2615982170",
+ "kilde": "American Economic Review",
+ "lenke": "https://openalex.org/W2615982170",
+ "oversikt": false,
+ "sammendrag": "This paper proposes a new measure of the disincentive cost of unemployment insurance (UI): the ratio of the behavioral cost (BC) to the mechanical cost (MC) of a UI reform. This measure represents the labor supply distortion relative to the additional (mechanical) transfer from the UI reform. We show the BC/MC ratio naturally arises from a model of optimal UI and can be readily computed and compared across different types of reforms and labor market contexts. We summarize the evidence regarding the BC/MC ratio for existing studies and relate it to typical measures of employment effects of UI.",
+ "tittel": "A Context-Robust Measure of the Disincentive Cost of Unemployment Insurance",
+ "type": "article"
+}

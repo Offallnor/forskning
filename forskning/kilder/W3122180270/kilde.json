@@ -1,0 +1,17 @@
+{
+ "ar": 2001,
+ "forfattere": [
+  "Štěpán Jurajda"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "https://econwpa.ub.uni-muenchen.de/econ-wp/lab/papers/0012/0012008.pdf",
+ "hvordan": "pdf",
+ "id": "W3122180270",
+ "kilde": "RePEc: Research Papers in Economics",
+ "lenke": "https://openalex.org/W3122180270",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "This paper uses U.S. micro level data on employment durations to quantify the effect of potential Unemployment Insurance (UI) entitlement on job separations. Economic theory motivates estimation of a competing risk hazard model for quits and layoffs. The estimation procedure simultaneously allows for unobserved heterogeneity, defective risks and sample selection into future spells. It also uses alternative assumptions about agents' ability to determine eligibility for future UI claims. Empirical results suggest that being entitled to UI compensation raises the layoff hazard, but workers with higher levels of potential UI entitlement do not appear to be more likely to get laid off.",
+ "tittel": "In ow into Unemployment: Employment Spells and Unemployment Insurance",
+ "type": "preprint"
+}

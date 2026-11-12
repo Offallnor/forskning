@@ -1,0 +1,14 @@
+{
+ "apen_url": "http://hdl.handle.net/10822/558560",
+ "ar": 2013,
+ "forfattere": [
+  "Michael Karpman"
+ ],
+ "id": "W166356743",
+ "kilde": "DigitalGeorgetown (Georgetown University Library)",
+ "lenke": "https://openalex.org/W166356743",
+ "oversikt": false,
+ "sammendrag": "This thesis examines whether unemployment insurance (UI) benefits improve the quality of job matches for displaced workers who find new employment.Using individual-level data from the 2008 and 2010 Displaced Worker Supplements to the Current Population Survey, I estimate the effect of UI receipt, generosity, and exhaustion on two measures of job match quality: the change in the log of weekly earnings from the predisplacement to postdisplacement jobs and an indicator of whether the worker switched to a new industry.Previous studies have consistently shown that such industry switching is associated with larger earnings declines due to the loss of industry-specific human capital and wage premiums.The results show a significant, positive association between UI receipt and industry switching but no significant relationship between UI receipt and earnings when controls are added for jobless spells of less than two weeks.I also find a negative, robust, statistically significant, and economically large relationship between exhaustion of benefits and reemployment earnings.However, I find no significant association between UI exhaustion and industry switching.Also, although the UI replacement rate -which measures the estimated proportion of a worker's previous earnings replaced by UI benefits -is negatively and significantly associated with earnings for workers displaced in 2008-09, this result is not robust for workers displaced in 2005-07 or to the use of alternative measures of UI generosity.However, replacement rates and maximum benefit levels have a significant, positive association with earnings for workers who hit their state's UI benefit cap.These findings are consistent with previous literature providing mixed evidence on whether UI affects job match quality and suggest that future research should apply techniques simulating randomized selection so that treatment and control groups are likely to be similar on both measured and unobservable characteristics.v I would like to thank my advisor, Gurkan Ay, for his helpful guidance throughout the research and writing process.",
+ "tittel": "The Effect of Unemployment Insurance on Industry Switching Decisions and Reemployment Earnings of Displaced Workers",
+ "type": "dissertation"
+}

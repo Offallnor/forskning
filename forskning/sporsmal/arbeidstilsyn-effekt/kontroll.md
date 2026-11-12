@@ -1,0 +1,1634 @@
+# Kontroll: arbeidstilsyn-effekt
+
+Kjørt 2026-11-09.
+
+0 feil av 1628 kontroller.
+
+- OK   1 kilde 0198cc77bb69-6ac9d5e6-44b2-4fe6-80fa-31466c0e2e2c finnes
+- OK   1 kilde 0198cc8bed64-0b66e210-65c2-44b9-9ce3-6a752ddfeeac finnes
+- OK   1 kilde KU-1b79baf1-41a3-427e-a061-2a65c0cbe804 finnes
+- OK   1 kilde KU-2641bb83-a22c-4f58-a12b-5efa4b7c7bf9 finnes
+- OK   1 kilde KU-712a755b-3cfb-4168-99b3-053cd0b09bab finnes
+- OK   1 kilde KU-a0d13da0-00dd-4701-af4a-b99c525d4cbb finnes
+- OK   1 kilde KU-ce457f52-1a31-470c-a9e8-d4ce03a6182a finnes
+- OK   1 kilde LI-z8mngx5cwh35nnbl finnes
+- OK   1 kilde R-6d7e0a4ae6 finnes
+- OK   1 kilde W1578291642 finnes
+- OK   1 kilde W1591412842 finnes
+- OK   1 kilde W1682734445 finnes
+- OK   1 kilde W1716161898 finnes
+- OK   1 kilde W1986102684 finnes
+- OK   1 kilde W2013964255 finnes
+- OK   1 kilde W2017476784 finnes
+- OK   1 kilde W2035386983 finnes
+- OK   1 kilde W2041184998 finnes
+- OK   1 kilde W2048175567 finnes
+- OK   1 kilde W2064673619 finnes
+- OK   1 kilde W2093998534 finnes
+- OK   1 kilde W2094628007 finnes
+- OK   1 kilde W2098026786 finnes
+- OK   1 kilde W2109614526 finnes
+- OK   1 kilde W2111592442 finnes
+- OK   1 kilde W2120269123 finnes
+- OK   1 kilde W2133122013 finnes
+- OK   1 kilde W2138094971 finnes
+- OK   1 kilde W2232263831 finnes
+- OK   1 kilde W2285511036 finnes
+- OK   1 kilde W2306445029 finnes
+- OK   1 kilde W2417363006 finnes
+- OK   1 kilde W2607517915 finnes
+- OK   1 kilde W2760591304 finnes
+- OK   1 kilde W2794504103 finnes
+- OK   1 kilde W2898876403 finnes
+- OK   1 kilde W2948444906 finnes
+- OK   1 kilde W3003298692 finnes
+- OK   1 kilde W3003782755 finnes
+- OK   1 kilde W3026143771 finnes
+- OK   1 kilde W3031883595 finnes
+- OK   1 kilde W3034320574 finnes
+- OK   1 kilde W3081675128 finnes
+- OK   1 kilde W3111451647 finnes
+- OK   1 kilde W3121380471 finnes
+- OK   1 kilde W3122924749 finnes
+- OK   1 kilde W3159137599 finnes
+- OK   1 kilde W4281637930 finnes
+- OK   1 kilde W4285588693 finnes
+- OK   1 kilde W4297325253 finnes
+- OK   1 kilde W4309467245 finnes
+- OK   1 kilde W4388017094 finnes
+- OK   1 kilde W4389580105 finnes
+- OK   1 kilde W4390587839 finnes
+- OK   1 kilde W4393377150 finnes
+- OK   1 kilde W4400981977 finnes
+- OK   1 kilde W4407765445 finnes
+- OK   1 kilde W4410266078 finnes
+- OK   1 kilde W7118537502 finnes
+- OK   1 kilde W7128726718 finnes
+- OK   1 kilde W7212868501 finnes
+- OK   1 kilde W890430879 finnes
+- OK   1 estimat-kilde W1716161898 finnes
+- OK   1 estimat-kilde W1716161898 finnes
+- OK   1 estimat-kilde W1716161898 finnes
+- OK   1 estimat-kilde W2417363006 finnes
+- OK   1 estimat-kilde W2098026786 finnes
+- OK   1 estimat-kilde W7128726718 finnes
+- OK   1 estimat-kilde W7128726718 finnes
+- OK   1 estimat-kilde W7128726718 finnes
+- OK   1 estimat-kilde W1552109825 finnes
+- OK   1 estimat-kilde W1552109825 finnes
+- OK   1 estimat-kilde W2232263831 finnes
+- OK   1 estimat-kilde W7212868501 finnes
+- OK   1 estimat-kilde W7212868501 finnes
+- OK   1 estimat-kilde W7212868501 finnes
+- OK   1 estimat-kilde W7212868501 finnes
+- OK   1 estimat-kilde W2760591304 finnes
+- OK   1 estimat-kilde W2760591304 finnes
+- OK   1 estimat-kilde W2760591304 finnes
+- OK   1 estimat-kilde W2760591304 finnes
+- OK   1 estimat-kilde W3122924749 finnes
+- OK   1 estimat-kilde W3122924749 finnes
+- OK   1 estimat-kilde W3122924749 finnes
+- OK   1 estimat-kilde W3122924749 finnes
+- OK   1 estimat-kilde W3122924749 finnes
+- OK   1 estimat-kilde W4389580105 finnes
+- OK   1 estimat-kilde W4281637930 finnes
+- OK   1 estimat-kilde W4281637930 finnes
+- OK   1 estimat-kilde W4281637930 finnes
+- OK   1 estimat-kilde W4281637930 finnes
+- OK   1 estimat-kilde W4281637930 finnes
+- OK   1 estimat-kilde W4281637930 finnes
+- OK   1 estimat-kilde W4281637930 finnes
+- OK   1 estimat-kilde W2598897505 finnes
+- OK   1 estimat-kilde W2048175567 finnes
+- OK   1 estimat-kilde W2048175567 finnes
+- OK   1 estimat-kilde W2048175567 finnes
+- OK   1 estimat-kilde W2607517915 finnes
+- OK   1 estimat-kilde W3026143771 finnes
+- OK   1 estimat-kilde W3026143771 finnes
+- OK   1 estimat-kilde W3026143771 finnes
+- OK   1 estimat-kilde W3026143771 finnes
+- OK   1 estimat-kilde W3031883595 finnes
+- OK   1 estimat-kilde W2035386983 finnes
+- OK   1 estimat-kilde W4390587839 finnes
+- OK   1 estimat-kilde W7220710829 finnes
+- OK   1 estimat-kilde W1986102684 finnes
+- OK   1 estimat-kilde W3034320574 finnes
+- OK   1 estimat-kilde W3034320574 finnes
+- OK   1 estimat-kilde W3034320574 finnes
+- OK   1 estimat-kilde W2794504103 finnes
+- OK   1 estimat-kilde W2794504103 finnes
+- OK   1 estimat-kilde W2794504103 finnes
+- OK   1 estimat-kilde W3121380471 finnes
+- OK   1 estimat-kilde W890430879 finnes
+- OK   1 estimat-kilde W890430879 finnes
+- OK   1 estimat-kilde W890430879 finnes
+- OK   1 estimat-kilde W890430879 finnes
+- OK   1 estimat-kilde 0198cc8bed64-0b66e210-65c2-44b9-9ce3-6a752ddfeeac finnes
+- OK   1 estimat-kilde 0198cc8bed64-0b66e210-65c2-44b9-9ce3-6a752ddfeeac finnes
+- OK   1 estimat-kilde 0198cc8bed64-0b66e210-65c2-44b9-9ce3-6a752ddfeeac finnes
+- OK   1 estimat-kilde LI-vgfsl74gsl69hlgj finnes
+- OK   1 estimat-kilde 0198cc77bb69-6ac9d5e6-44b2-4fe6-80fa-31466c0e2e2c finnes
+- OK   1 estimat-kilde 0198cc77bb69-6ac9d5e6-44b2-4fe6-80fa-31466c0e2e2c finnes
+- OK   1 estimat-kilde W4297325253 finnes
+- OK   1 estimat-kilde W4388017094 finnes
+- OK   1 estimat-kilde W4388017094 finnes
+- OK   1 estimat-kilde W4388017094 finnes
+- OK   1 estimat-kilde W4388017094 finnes
+- OK   1 estimat-kilde W4407765445 finnes
+- OK   1 estimat-kilde W4407765445 finnes
+- OK   1 estimat-kilde W4407765445 finnes
+- OK   1 estimat-kilde W4407765445 finnes
+- OK   1 estimat-kilde W4309467245 finnes
+- OK   1 estimat-kilde W7118537502 finnes
+- OK   1 estimat-kilde W7118537502 finnes
+- OK   1 estimat-kilde W7118537502 finnes
+- OK   1 estimat-kilde W2288713446 finnes
+- OK   1 estimat-kilde KU-a0d13da0-00dd-4701-af4a-b99c525d4cbb finnes
+- OK   1 estimat-kilde W3195153376 finnes
+- OK   1 estimat-kilde W2898525930 finnes
+- OK   1 estimat-kilde KU-712a755b-3cfb-4168-99b3-053cd0b09bab finnes
+- OK   1 estimat-kilde KU-712a755b-3cfb-4168-99b3-053cd0b09bab finnes
+- OK   1 estimat-kilde KU-712a755b-3cfb-4168-99b3-053cd0b09bab finnes
+- OK   1 estimat-kilde KU-712a755b-3cfb-4168-99b3-053cd0b09bab finnes
+- OK   1 estimat-kilde KU-ce457f52-1a31-470c-a9e8-d4ce03a6182a finnes
+- OK   1 estimat-kilde KU-ce457f52-1a31-470c-a9e8-d4ce03a6182a finnes
+- OK   1 estimat-kilde KU-02f4abaf-f585-4b12-9785-39c09b51d184 finnes
+- OK   1 estimat-kilde KU-bcfdce50-f0b8-4865-96d8-13afc7962ac5 finnes
+- OK   1 estimat-kilde KU-1b79baf1-41a3-427e-a061-2a65c0cbe804 finnes
+- OK   1 estimat-kilde LI-n2dnm377lzt22kn0 finnes
+- OK   1 estimat-kilde FI-uef.9910982163705966 finnes
+- OK   1 estimat-kilde FI-ekk.994422839906250 finnes
+- OK   1 estimat-kilde FI-valto.11111_6924 finnes
+- OK   1 estimat-kilde FI-jykdok.920271 finnes
+- OK   1 estimat-kilde FI-ekk.993910274006250 finnes
+- OK   1 estimat-kilde FI-trepo.10024_147253 finnes
+- OK   1 estimat-kilde W2898876403 finnes
+- OK   1 estimat-kilde W2898876403 finnes
+- OK   1 estimat-kilde W2898876403 finnes
+- OK   1 estimat-kilde W2898876403 finnes
+- OK   1 estimat-kilde W2042380736 finnes
+- OK   1 estimat-kilde W4411365916 finnes
+- OK   1 estimat-kilde KU-2641bb83-a22c-4f58-a12b-5efa4b7c7bf9 finnes
+- OK   1 estimat-kilde KU-2641bb83-a22c-4f58-a12b-5efa4b7c7bf9 finnes
+- OK   1 estimat-kilde LI-10220540 finnes
+- OK   1 estimat-kilde LI-12025349 finnes
+- OK   1 estimat-kilde LI-20167586 finnes
+- OK   1 estimat-kilde LI-20167586 finnes
+- OK   1 estimat-kilde LI-z8mngx5cwh35nnbl finnes
+- OK   1 estimat-kilde LI-7h2w2s3q5bp7szp7 finnes
+- OK   1 estimat-kilde FI-ekk.993969914006250 finnes
+- OK   1 estimat-kilde W4410266078 finnes
+- OK   1 estimat-kilde W4410266078 finnes
+- OK   1 estimat-kilde W4410266078 finnes
+- OK   1 estimat-kilde W4410266078 finnes
+- OK   1 estimat-kilde W4410266078 finnes
+- OK   1 estimat-kilde R-6d7e0a4ae6 finnes
+- OK   1 estimat-kilde R-6d7e0a4ae6 finnes
+- OK   1 estimat-kilde LI-20048316 finnes
+- OK   1 estimat-kilde W1963706061 finnes
+- OK   1 estimat-kilde W2111592442 finnes
+- OK   1 estimat-kilde W1591412842 finnes
+- OK   1 estimat-kilde W1591412842 finnes
+- OK   1 estimat-kilde W1591412842 finnes
+- OK   1 estimat-kilde W4408518596 finnes
+- OK   1 estimat-kilde W4393377150 finnes
+- OK   1 estimat-kilde W4393377150 finnes
+- OK   1 estimat-kilde W4393377150 finnes
+- OK   1 estimat-kilde W2013964255 finnes
+- OK   1 estimat-kilde W2109614526 finnes
+- OK   1 estimat-kilde W2109614526 finnes
+- OK   1 estimat-kilde W2109614526 finnes
+- OK   1 estimat-kilde W2061215194 finnes
+- OK   1 estimat-kilde W2041184998 finnes
+- OK   1 estimat-kilde W2041184998 finnes
+- OK   1 estimat-kilde W2041184998 finnes
+- OK   1 estimat-kilde W2094628007 finnes
+- OK   1 estimat-kilde W2138094971 finnes
+- OK   1 estimat-kilde W2138094971 finnes
+- OK   1 estimat-kilde W4400981977 finnes
+- OK   1 estimat-kilde W4400981977 finnes
+- OK   1 estimat-kilde W3111451647 finnes
+- OK   1 estimat-kilde W3159137599 finnes
+- OK   1 estimat-kilde W3159137599 finnes
+- OK   1 estimat-kilde W2078525502 finnes
+- OK   1 estimat-kilde W2112251611 finnes
+- OK   1 estimat-kilde W1568446505 finnes
+- OK   1 estimat-kilde W2026426461 finnes
+- OK   1 estimat-kilde W2026426461 finnes
+- OK   1 estimat-kilde W3124689608 finnes
+- OK   1 estimat-kilde W3124964336 finnes
+- OK   1 estimat-kilde W2293319279 finnes
+- OK   1 estimat-kilde W7131355890 finnes
+- OK   1 estimat-kilde W2285511036 finnes
+- OK   1 estimat-kilde W2120269123 finnes
+- OK   1 estimat-kilde W2120269123 finnes
+- OK   1 estimat-kilde W1682734445 finnes
+- OK   1 estimat-kilde W3081675128 finnes
+- OK   1 estimat-kilde W3081675128 finnes
+- OK   1 estimat-kilde W4413630239 finnes
+- OK   1 estimat-kilde W2890864567 finnes
+- OK   1 estimat-kilde W2271999475 finnes
+- OK   1 estimat-kilde W3003298692 finnes
+- OK   1 estimat-kilde W3003298692 finnes
+- OK   1 estimat-kilde W4411021912 finnes
+- OK   1 estimat-kilde W1578291642 finnes
+- OK   1 estimat-kilde W1578291642 finnes
+- OK   1 estimat-kilde W1578291642 finnes
+- OK   1 estimat-kilde W3156224387 finnes
+- OK   1 estimat-kilde W2093998534 finnes
+- OK   1 estimat-kilde W2093998534 finnes
+- OK   1 estimat-kilde W2093998534 finnes
+- OK   1 estimat-kilde W2017476784 finnes
+- OK   1 estimat-kilde W2064673619 finnes
+- OK   1 estimat-kilde W7129101351 finnes
+- OK   1 estimat-kilde W7132815136 finnes
+- OK   1 estimat-kilde W4412605691 finnes
+- OK   1 estimat-kilde W2899984958 finnes
+- OK   1 estimat-kilde W2617392673 finnes
+- OK   1 estimat-kilde W2617392673 finnes
+- OK   1 estimat-kilde W3025477067 finnes
+- OK   1 estimat-kilde W3003782755 finnes
+- OK   1 estimat-kilde W3003782755 finnes
+- OK   1 estimat-kilde W2133122013 finnes
+- OK   1 estimat-kilde W2328076800 finnes
+- OK   1 estimat-kilde W2948444906 finnes
+- OK   1 estimat-kilde W2306445029 finnes
+- OK   1 estimat-kilde W2306445029 finnes
+- OK   1 estimat-kilde W2306445029 finnes
+- OK   1 estimat-kilde W3121667400 finnes
+- OK   1 estimat-kilde W4285588693 finnes
+- OK   1 estimat-kilde W7168453949 finnes
+- OK   1 estimat-kilde W4399344217 finnes
+- OK   1 estimat-kilde W4399344217 finnes
+- OK   1 estimat-kilde W4399344217 finnes
+- OK   1 estimat-kilde W4399344217 finnes
+- OK   1 estimat-kilde W2911816472 finnes
+- OK   1 forfatter «Levine» for W2048175567 står i metadata eller på tittelsiden
+- OK   1 forfatter «Johnson» for W2760591304 står i metadata eller på tittelsiden
+- OK   1 forfatter «Hogg-Johnson» for W2035386983 står i metadata eller på tittelsiden
+- OK   1 forfatter «Johnson» for W7212868501 står i metadata eller på tittelsiden
+- OK   1 forfatter «Johnson» for W3031883595 står i metadata eller på tittelsiden
+- OK   1 forfatter «Li» for W2607517915 står i metadata eller på tittelsiden
+- OK   1 forfatter «Li» for W3026143771 står i metadata eller på tittelsiden
+- OK   1 forfatter «Lee» for W3122924749 står i metadata eller på tittelsiden
+- OK   1 forfatter «Li» for W3034320574 står i metadata eller på tittelsiden
+- OK   1 forfatter «Benavides» for W2120269123 står i metadata eller på tittelsiden
+- OK   1 forfatter «Agnesi» for W2306445029 står i metadata eller på tittelsiden
+- OK   1 forfatter «Farina» for W2133122013 står i metadata eller på tittelsiden
+- OK   1 forfatter «Muehlenbachs» for W3121380471 står i metadata eller på tittelsiden
+- OK   1 forfatter «Bilgrami» for W4390587839 står i metadata eller på tittelsiden
+- OK   1 forfatter «Gray» for W2109614526 står i metadata eller på tittelsiden
+- OK   1 forfatter «Haviland» for W2041184998 står i metadata eller på tittelsiden
+- OK   1 forfatter «Mendeloff» for W2094628007 står i metadata eller på tittelsiden
+- OK   1 forfatter «Baggs» for W2093998534 står i metadata eller på tittelsiden
+- OK   1 forfatter «Foley» for W2138094971 står i metadata eller på tittelsiden
+- OK   1 forfatter «Ko» for W1578291642 står i metadata eller på tittelsiden
+- OK   1 forfatter «Raghunandan» for W4393377150 står i metadata eller på tittelsiden
+- OK   1 forfatter «McLeod» for W4400981977 står i metadata eller på tittelsiden
+- OK   1 forfatter «McLeod» for W3111451647 står i metadata eller på tittelsiden
+- OK   1 forfatter «Auld» for W2017476784 står i metadata eller på tittelsiden
+- OK   1 forfatter «Munira» for W3159137599 står i metadata eller på tittelsiden
+- OK   1 forfatter «Morantz» for W2013964255 står i metadata eller på tittelsiden
+- OK   1 forfatter «Gray» for W4285588693 står i metadata eller på tittelsiden
+- OK   1 forfatter «Lafuente» for W3003782755 står i metadata eller på tittelsiden
+- OK   1 forfatter «Bande» for W1682734445 står i metadata eller på tittelsiden
+- OK   1 forfatter «Farina» for W2285511036 står i metadata eller på tittelsiden
+- OK   1 forfatter «Lazzarotto» for W3003298692 står i metadata eller på tittelsiden
+- OK   1 forfatter «Soriano-Serrano» for W3081675128 står i metadata eller på tittelsiden
+- OK   1 forfatter «Weissbrodt» for W2948444906 står i metadata eller på tittelsiden
+- OK   1 forfatter «Garshol» for 0198cc77bb69-6ac9d5e6-44b2-4fe6-80fa-31466c0e2e2c står i metadata eller på tittelsiden
+- OK   1 forfatter «Garshol» for W4407765445 står i metadata eller på tittelsiden
+- OK   1 forfatter «Johannessen» for W4309467245 står i metadata eller på tittelsiden
+- OK   1 forfatter «Garshol» for W4297325253 står i metadata eller på tittelsiden
+- OK   1 forfatter «Garshol» for W4388017094 står i metadata eller på tittelsiden
+- OK   1 forfatter «Dahl» for W2111592442 står i metadata eller på tittelsiden
+- OK   1 forfatter «Andersen» for KU-2641bb83-a22c-4f58-a12b-5efa4b7c7bf9 står i metadata eller på tittelsiden
+- OK   1 forfatter «Staalesen» for KU-a0d13da0-00dd-4701-af4a-b99c525d4cbb står i metadata eller på tittelsiden
+- OK   1 forfatter «Ingerød» for KU-712a755b-3cfb-4168-99b3-053cd0b09bab står i metadata eller på tittelsiden
+- OK   1 forfatter «Arbeidstilsynet» for KU-ce457f52-1a31-470c-a9e8-d4ce03a6182a står i metadata eller på tittelsiden
+- OK   1 forfatter «Petroleumstilsynet» for KU-1b79baf1-41a3-427e-a061-2a65c0cbe804 står i metadata eller på tittelsiden
+- OK   1 forfatter «Andersen» for W2898876403 står i metadata eller på tittelsiden
+- OK   1 forfatter «Jakobsen» for W4410266078 står i metadata eller på tittelsiden
+- OK   1 forfatter «Ajslev» for W7118537502 står i metadata eller på tittelsiden
+- OK   1 forfatter «Arbetsmiljöverket» for LI-z8mngx5cwh35nnbl står i metadata eller på tittelsiden
+- OK   1 forfatter «Björkdahl» for W1591412842 står i metadata eller på tittelsiden
+- OK   1 forfatter «Myndigheten för arbetsmiljökunskap» for R-6d7e0a4ae6 står i metadata eller på tittelsiden
+- OK   1 forfatter «Tikka» for W1716161898 står i metadata eller på tittelsiden
+- OK   1 forfatter «Schubert» for W7128726718 står i metadata eller på tittelsiden
+- OK   1 forfatter «Andersen» for W2898876403 står i metadata eller på tittelsiden
+- OK   1 forfatter «Dyreborg» for W4281637930 står i metadata eller på tittelsiden
+- OK   1 forfatter «Tompa» for W2417363006 står i metadata eller på tittelsiden
+- OK   1 forfatter «Tompa» for W2098026786 står i metadata eller på tittelsiden
+- OK   1 forfatter «Johannessen» for 0198cc8bed64-0b66e210-65c2-44b9-9ce3-6a752ddfeeac står i metadata eller på tittelsiden
+- OK   1 forfatter «Davis» for W890430879 står i metadata eller på tittelsiden
+- OK   1 forfatter «Bondebjerg» for W4389580105 står i metadata eller på tittelsiden
+- OK   1 forfatter «Haviland» for W2041184998 står i metadata eller på tittelsiden
+- OK   1 forfatter «Tompa» for W2098026786 står i metadata eller på tittelsiden
+- OK   1 forfatter «McLeod» for W3111451647 står i metadata eller på tittelsiden
+- OK   1 forfatter «Gray» for W4285588693 står i metadata eller på tittelsiden
+- OK   1 forfatter «Leeth» for W1986102684 står i metadata eller på tittelsiden
+- OK   1 forfatter «Agnesi» for W2306445029 står i metadata eller på tittelsiden
+- OK   1 forfatter «Johnson» for W2760591304 står i metadata eller på tittelsiden
+- OK   1 forfatter «Farina» for W2285511036 står i metadata eller på tittelsiden
+- OK   1 forfatter «Burstyn» for W2064673619 står i metadata eller på tittelsiden
+- OK   1 forfatter «Johnson» for W3031883595 står i metadata eller på tittelsiden
+- OK   1 forfatter «Baggs» for W2093998534 står i metadata eller på tittelsiden
+- OK   1 forfatter «Soriano-Serrano» for W3081675128 står i metadata eller på tittelsiden
+- OK   1 forfatter «Garshol» for 0198cc77bb69-6ac9d5e6-44b2-4fe6-80fa-31466c0e2e2c står i metadata eller på tittelsiden
+- OK   2 sitat rad 1 (W1716161898, skaderate, kort og mellomlang oppfølging) står på oppgitt side
+- OK   3 estimat=10 rad 1 (W1716161898, skaderate, kort og mellomlang oppfølging) står i sitatet
+- OK   2 sitat rad 2 (W1716161898, skaderate, lang oppfølging (én studie)) står på oppgitt side
+- OK   3 estimat=23 rad 2 (W1716161898, skaderate, lang oppfølging (én studie)) står i sitatet
+- OK   3 ki_lav=8 rad 2 (W1716161898, skaderate, lang oppfølging (én studie)) står i sitatet
+- OK   3 ki_hoy=23 rad 2 (W1716161898, skaderate, lang oppfølging (én studie)) står i sitatet
+- OK   4 rad 2 (W1716161898, skaderate, lang oppfølging (én studie)) estimat innenfor KI
+- OK   2 sitat rad 3 (W1716161898, overlevelse, sysselsetting og salg i vir) står på oppgitt side
+- OK   2 sitat rad 4 (W2417363006, skader og etterlevelse: sterk evidens fo) står på oppgitt side
+- OK   2 sitat rad 5 (W2098026786, skader: begrenset til blandet evidens fo) står på oppgitt side
+- OK   2 sitat rad 6 (W7128726718, arbeidsrelaterte skader, samlet metaanal) står på oppgitt side
+- OK   3 estimat=0.75 rad 6 (W7128726718, arbeidsrelaterte skader, samlet metaanal) står i sitatet
+- OK   3 ki_lav=0.57 rad 6 (W7128726718, arbeidsrelaterte skader, samlet metaanal) står i sitatet
+- OK   3 ki_hoy=0.97 rad 6 (W7128726718, arbeidsrelaterte skader, samlet metaanal) står i sitatet
+- OK   4 rad 6 (W7128726718, arbeidsrelaterte skader, samlet metaanal) estimat innenfor KI
+- OK   4 rad 6 (W7128726718, arbeidsrelaterte skader, samlet metaanal) KI symmetrisk på log-skala (avvik 0.02)
+- OK   2 sitat rad 7 (W7128726718, arbeidsrelaterte skader, undergruppe med) står på oppgitt side
+- OK   3 estimat=0.89 rad 7 (W7128726718, arbeidsrelaterte skader, undergruppe med) står i sitatet
+- OK   3 ki_lav=0.83 rad 7 (W7128726718, arbeidsrelaterte skader, undergruppe med) står i sitatet
+- OK   3 ki_hoy=0.96 rad 7 (W7128726718, arbeidsrelaterte skader, undergruppe med) står i sitatet
+- OK   4 rad 7 (W7128726718, arbeidsrelaterte skader, undergruppe med) estimat innenfor KI
+- OK   4 rad 7 (W7128726718, arbeidsrelaterte skader, undergruppe med) KI symmetrisk på log-skala (avvik 0.01)
+- OK   2 sitat rad 8 (W7128726718, manglende etterlevelse av regelverket, s) står på oppgitt side
+- OK   3 estimat=0.68 rad 8 (W7128726718, manglende etterlevelse av regelverket, s) står i sitatet
+- OK   3 ki_lav=0.45 rad 8 (W7128726718, manglende etterlevelse av regelverket, s) står i sitatet
+- OK   3 ki_hoy=1.01 rad 8 (W7128726718, manglende etterlevelse av regelverket, s) står i sitatet
+- OK   4 rad 8 (W7128726718, manglende etterlevelse av regelverket, s) estimat innenfor KI
+- OK   4 rad 8 (W7128726718, manglende etterlevelse av regelverket, s) KI symmetrisk på log-skala (avvik 0.02)
+- OK   2 sitat rad 9 (W1552109825, ikke-dødelige skader, umiddelbar endring) står på oppgitt side
+- OK   3 estimat=0.07 rad 9 (W1552109825, ikke-dødelige skader, umiddelbar endring) står i sitatet
+- OK   3 ki_lav=-2.83 rad 9 (W1552109825, ikke-dødelige skader, umiddelbar endring) står i sitatet
+- OK   3 ki_hoy=2.97 rad 9 (W1552109825, ikke-dødelige skader, umiddelbar endring) står i sitatet
+- OK   4 rad 9 (W1552109825, ikke-dødelige skader, umiddelbar endring) estimat innenfor KI
+- OK   2 sitat rad 10 (W1552109825, ikke-dødelige skader, endring i trend (a) står på oppgitt side
+- OK   3 estimat=0.63 rad 10 (W1552109825, ikke-dødelige skader, endring i trend (a) står i sitatet
+- OK   3 ki_lav=-0.35 rad 10 (W1552109825, ikke-dødelige skader, endring i trend (a) står i sitatet
+- OK   3 ki_hoy=1.61 rad 10 (W1552109825, ikke-dødelige skader, endring i trend (a) står i sitatet
+- OK   4 rad 10 (W1552109825, ikke-dødelige skader, endring i trend (a) estimat innenfor KI
+- OK   2 sitat rad 11 (W2232263831, gjennomsnittlig antall brudd ved arbeid ) står på oppgitt side
+- OK   3 estimat=1.8 rad 11 (W2232263831, gjennomsnittlig antall brudd ved arbeid ) står i sitatet
+- OK   2 sitat rad 12 (W7212868501, skader med fravær (DAFW) i virksomheter ) står på oppgitt side
+- OK   3 estimat=11 rad 12 (W7212868501, skader med fravær (DAFW) i virksomheter ) står i sitatet
+- OK   2 sitat rad 13 (W7212868501, skader med fravær i nabovirksomheter i s) står på oppgitt side
+- OK   3 estimat=-2.35 rad 13 (W7212868501, skader med fravær i nabovirksomheter i s) står i sitatet
+- OK   3 ki_lav=-4.26 rad 13 (W7212868501, skader med fravær i nabovirksomheter i s) står i sitatet
+- OK   3 ki_hoy=-0.58 rad 13 (W7212868501, skader med fravær i nabovirksomheter i s) står i sitatet
+- OK   4 rad 13 (W7212868501, skader med fravær i nabovirksomheter i s) estimat innenfor KI
+- OK   2 sitat rad 14 (W7212868501, antall unngåtte skader med fravær per år) står på oppgitt side
+- OK   3 estimat=3.0 rad 14 (W7212868501, antall unngåtte skader med fravær per år) står i sitatet
+- OK   2 sitat rad 15 (W7212868501, antall færre skader med fravær per år i ) står på oppgitt side
+- OK   3 estimat=4.3 rad 15 (W7212868501, antall færre skader med fravær per år i ) står i sitatet
+- OK   2 sitat rad 16 (W2760591304, alvorlige skader med fravær (DAFW) over ) står på oppgitt side
+- OK   3 estimat=9 rad 16 (W2760591304, alvorlige skader med fravær (DAFW) over ) står i sitatet
+- OK   2 sitat rad 17 (W2760591304, antall færre skader med fravær over fem ) står på oppgitt side
+- OK   3 estimat=2.4 rad 17 (W2760591304, antall færre skader med fravær over fem ) står i sitatet
+- OK   2 sitat rad 18 (W2760591304, skader med fravær per år, effekt av fakt) står på oppgitt side
+- OK   3 estimat=8.7 rad 18 (W2760591304, skader med fravær per år, effekt av fakt) står i sitatet
+- OK   2 sitat rad 19 (W2760591304, unngåtte skader ved målretting mot virks) står på oppgitt side
+- OK   3 estimat=2 rad 19 (W2760591304, unngåtte skader ved målretting mot virks) står i sitatet
+- OK   2 sitat rad 20 (W3122924749, dødsrisiko i virksomheten etter første p) står på oppgitt side
+- OK   3 estimat=50 rad 20 (W3122924749, dødsrisiko i virksomheten etter første p) står i sitatet
+- OK   2 sitat rad 21 (W3122924749, dødsfall per 10 000 produksjonsarbeidere) står på oppgitt side
+- OK   3 estimat=1.4 rad 21 (W3122924749, dødsfall per 10 000 produksjonsarbeidere) står i sitatet
+- OK   2 sitat rad 22 (W3122924749, antall brudd ved andre tilsyn sammenlign) står på oppgitt side
+- OK   3 estimat=70 rad 22 (W3122924749, antall brudd ved andre tilsyn sammenlign) står i sitatet
+- OK   2 sitat rad 23 (W3122924749, produktivitet per produksjonsarbeider et) står på oppgitt side
+- OK   3 estimat=10 rad 23 (W3122924749, produktivitet per produksjonsarbeider et) står i sitatet
+- OK   2 sitat rad 24 (W3122924749, Nedgang i dødsfall på anlegget etter pro) står på oppgitt side
+- OK   3 estimat=56 rad 24 (W3122924749, Nedgang i dødsfall på anlegget etter pro) står i sitatet
+- OK   2 sitat rad 25 (W4389580105, kunnskapskart uten effektestimater; tils) står på oppgitt side
+- OK   2 sitat rad 26 (W4281637930, ikke-dødelige skader, gjengitt fra Hogg-) står på oppgitt side
+- OK   3 estimat=0.99 rad 26 (W4281637930, ikke-dødelige skader, gjengitt fra Hogg-) står i sitatet
+- OK   3 ki_lav=0.90 rad 26 (W4281637930, ikke-dødelige skader, gjengitt fra Hogg-) står i sitatet
+- OK   3 ki_hoy=1.09 rad 26 (W4281637930, ikke-dødelige skader, gjengitt fra Hogg-) står i sitatet
+- OK   4 rad 26 (W4281637930, ikke-dødelige skader, gjengitt fra Hogg-) estimat innenfor KI
+- OK   4 rad 26 (W4281637930, ikke-dødelige skader, gjengitt fra Hogg-) KI symmetrisk på log-skala (avvik 0.00)
+- OK   2 sitat rad 27 (W4281637930, skader, mellomlang oppfølging, gjengitt ) står på oppgitt side
+- OK   3 estimat=0.95 rad 27 (W4281637930, skader, mellomlang oppfølging, gjengitt ) står i sitatet
+- OK   3 ki_lav=0.91 rad 27 (W4281637930, skader, mellomlang oppfølging, gjengitt ) står i sitatet
+- OK   3 ki_hoy=0.98 rad 27 (W4281637930, skader, mellomlang oppfølging, gjengitt ) står i sitatet
+- OK   4 rad 27 (W4281637930, skader, mellomlang oppfølging, gjengitt ) estimat innenfor KI
+- OK   4 rad 27 (W4281637930, skader, mellomlang oppfølging, gjengitt ) KI symmetrisk på log-skala (avvik 0.01)
+- OK   2 sitat rad 28 (W4281637930, skader, gjengitt fra Foley 2012 (tilsyn ) står på oppgitt side
+- OK   3 estimat=0.96 rad 28 (W4281637930, skader, gjengitt fra Foley 2012 (tilsyn ) står i sitatet
+- OK   3 ki_lav=0.92 rad 28 (W4281637930, skader, gjengitt fra Foley 2012 (tilsyn ) står i sitatet
+- OK   3 ki_hoy=0.99 rad 28 (W4281637930, skader, gjengitt fra Foley 2012 (tilsyn ) står i sitatet
+- OK   4 rad 28 (W4281637930, skader, gjengitt fra Foley 2012 (tilsyn ) estimat innenfor KI
+- OK   4 rad 28 (W4281637930, skader, gjengitt fra Foley 2012 (tilsyn ) KI symmetrisk på log-skala (avvik 0.01)
+- OK   2 sitat rad 29 (W4281637930, skader, gjengitt fra Farina 2013 (progra) står på oppgitt side
+- OK   3 estimat=0.81 rad 29 (W4281637930, skader, gjengitt fra Farina 2013 (progra) står i sitatet
+- OK   3 ki_lav=0.67 rad 29 (W4281637930, skader, gjengitt fra Farina 2013 (progra) står i sitatet
+- OK   3 ki_hoy=0.99 rad 29 (W4281637930, skader, gjengitt fra Farina 2013 (progra) står i sitatet
+- OK   4 rad 29 (W4281637930, skader, gjengitt fra Farina 2013 (progra) estimat innenfor KI
+- OK   4 rad 29 (W4281637930, skader, gjengitt fra Farina 2013 (progra) KI symmetrisk på log-skala (avvik 0.01)
+- OK   2 sitat rad 30 (W4281637930, samlet vurdering: begrenset evidens for ) står på oppgitt side
+- OK   2 sitat rad 31 (W4281637930, Ulykker ved langtidsoppfølging (over 36 ) står på oppgitt side
+- OK   3 estimat=0.77 rad 31 (W4281637930, Ulykker ved langtidsoppfølging (over 36 ) står i sitatet
+- OK   3 ki_lav=0.64 rad 31 (W4281637930, Ulykker ved langtidsoppfølging (over 36 ) står i sitatet
+- OK   3 ki_hoy=0.92 rad 31 (W4281637930, Ulykker ved langtidsoppfølging (over 36 ) står i sitatet
+- OK   4 rad 31 (W4281637930, Ulykker ved langtidsoppfølging (over 36 ) estimat innenfor KI
+- OK   4 rad 31 (W4281637930, Ulykker ved langtidsoppfølging (over 36 ) KI symmetrisk på log-skala (avvik 0.01)
+- OK   2 sitat rad 32 (W4281637930, Ulykker ved kort oppfølging (under 12 må) står på oppgitt side
+- OK   3 estimat=0.86 rad 32 (W4281637930, Ulykker ved kort oppfølging (under 12 må) står i sitatet
+- OK   3 ki_lav=0.77 rad 32 (W4281637930, Ulykker ved kort oppfølging (under 12 må) står i sitatet
+- OK   3 ki_hoy=0.95 rad 32 (W4281637930, Ulykker ved kort oppfølging (under 12 må) står i sitatet
+- OK   4 rad 32 (W4281637930, Ulykker ved kort oppfølging (under 12 må) estimat innenfor KI
+- OK   4 rad 32 (W4281637930, Ulykker ved kort oppfølging (under 12 må) KI symmetrisk på log-skala (avvik 0.01)
+- OK   2 sitat rad 34 (W2048175567, skaderate (nedgang); KI oppgitt som log-) står på oppgitt side
+- OK   3 estimat=9.4 rad 34 (W2048175567, skaderate (nedgang); KI oppgitt som log-) står i sitatet
+- OK   2 sitat rad 35 (W2048175567, skadekostnader (nedgang); KI oppgitt som) står på oppgitt side
+- OK   3 estimat=26 rad 35 (W2048175567, skadekostnader (nedgang); KI oppgitt som) står i sitatet
+- OK   2 sitat rad 36 (W2048175567, sysselsetting, salg, kredittvurdering og) står på oppgitt side
+- OK   2 sitat rad 37 (W2607517915, skader med fravær, restriksjon eller omp) står på oppgitt side
+- OK   2 sitat rad 38 (W3026143771, DART-rate (skader med fravær, restriksjo) står på oppgitt side
+- OK   3 estimat=-1.607 rad 38 (W3026143771, DART-rate (skader med fravær, restriksjo) står i sitatet
+- OK   2 sitat rad 39 (W3026143771, DART-rate, effekten av tilsyn uttrykt so) står på oppgitt side
+- OK   3 estimat=20 rad 39 (W3026143771, DART-rate, effekten av tilsyn uttrykt so) står i sitatet
+- OK   2 sitat rad 40 (W3026143771, total skaderate (TCR) per 100 årsverk, i) står på oppgitt side
+- OK   3 estimat=-0.569 rad 40 (W3026143771, total skaderate (TCR) per 100 årsverk, i) står i sitatet
+- OK   2 sitat rad 41 (W3026143771, DART-rate per 100 årsverk i industrien, ) står på oppgitt side
+- OK   3 estimat=-1.257 rad 41 (W3026143771, DART-rate per 100 årsverk i industrien, ) står i sitatet
+- OK   2 sitat rad 42 (W3031883595, etterlevelse hos andre virksomheter: ant) står på oppgitt side
+- OK   3 estimat=210 rad 42 (W3031883595, etterlevelse hos andre virksomheter: ant) står i sitatet
+- OK   2 sitat rad 43 (W2035386983, skademeldinger og fraværsdager: ingen fo) står på oppgitt side
+- OK   2 sitat rad 44 (W4390587839, mottak av yrkesskadeerstatning: ingen sa) står på oppgitt side
+- OK   2 sitat rad 46 (W1986102684, ingen effektestimat i sammendraget; inge) står på oppgitt side
+- OK   2 sitat rad 47 (W3034320574, skader etter vedtak om grovt brudd (flag) står på oppgitt side
+- OK   3 estimat=20 rad 47 (W3034320574, skader etter vedtak om grovt brudd (flag) står i sitatet
+- OK   2 sitat rad 48 (W3034320574, produktivitet per gruvearbeider (nedgang) står på oppgitt side
+- OK   3 estimat=6 rad 48 (W3034320574, produktivitet per gruvearbeider (nedgang) står i sitatet
+- OK   2 sitat rad 49 (W3034320574, verdien av produktivitetstapet i forhold) står på oppgitt side
+- OK   3 estimat=1.3 rad 49 (W3034320574, verdien av produktivitetstapet i forhold) står i sitatet
+- OK   2 sitat rad 50 (W2794504103, ikke-dødelige skader, endring i nivå (ef) står på oppgitt side
+- OK   3 estimat=0.07 rad 50 (W2794504103, ikke-dødelige skader, endring i nivå (ef) står i sitatet
+- OK   3 ki_lav=-2.83 rad 50 (W2794504103, ikke-dødelige skader, endring i nivå (ef) står i sitatet
+- OK   3 ki_hoy=2.97 rad 50 (W2794504103, ikke-dødelige skader, endring i nivå (ef) står i sitatet
+- OK   4 rad 50 (W2794504103, ikke-dødelige skader, endring i nivå (ef) estimat innenfor KI
+- OK   2 sitat rad 51 (W2794504103, ikke-dødelige skader, endring i trend (e) står på oppgitt side
+- OK   3 estimat=0.63 rad 51 (W2794504103, ikke-dødelige skader, endring i trend (e) står i sitatet
+- OK   3 ki_lav=-0.35 rad 51 (W2794504103, ikke-dødelige skader, endring i trend (e) står i sitatet
+- OK   3 ki_hoy=1.61 rad 51 (W2794504103, ikke-dødelige skader, endring i trend (e) står i sitatet
+- OK   4 rad 51 (W2794504103, ikke-dødelige skader, endring i trend (e) estimat innenfor KI
+- OK   2 sitat rad 52 (W2794504103, dødelige og ikke-dødelige skader, umidde) står på oppgitt side
+- OK   3 estimat=-0.33 rad 52 (W2794504103, dødelige og ikke-dødelige skader, umidde) står i sitatet
+- OK   3 ki_lav=-2.08 rad 52 (W2794504103, dødelige og ikke-dødelige skader, umidde) står i sitatet
+- OK   3 ki_hoy=1.41 rad 52 (W2794504103, dødelige og ikke-dødelige skader, umidde) står i sitatet
+- OK   4 rad 52 (W2794504103, dødelige og ikke-dødelige skader, umidde) estimat innenfor KI
+- OK   2 sitat rad 53 (W3121380471, antall og alvorlighet av sanksjoner øker) står på oppgitt side
+- OK   2 sitat rad 54 (W890430879, skader i virksomheter som fikk tilsyn me) står på oppgitt side
+- OK   3 estimat=22 rad 54 (W890430879, skader i virksomheter som fikk tilsyn me) står i sitatet
+- OK   2 sitat rad 55 (W890430879, generell avskrekking: samlet nedgang i s) står på oppgitt side
+- OK   3 estimat=2 rad 55 (W890430879, generell avskrekking: samlet nedgang i s) står i sitatet
+- OK   2 sitat rad 56 (W890430879, nedgang i yrkesskadekrav (workers' compe) står på oppgitt side
+- OK   3 estimat=22.5 rad 56 (W890430879, nedgang i yrkesskadekrav (workers' compe) står i sitatet
+- OK   2 sitat rad 57 (W890430879, andel tilsyn som fikk arbeidsgiver til å) står på oppgitt side
+- OK   3 estimat=43 rad 57 (W890430879, andel tilsyn som fikk arbeidsgiver til å) står i sitatet
+- OK   2 sitat rad 58 (0198cc8bed64-0b66e210-65c2-44b9-9ce3-6a752ddfeeac, sterk evidens for at tilsyn med sanksjon) står på oppgitt side
+- OK   3 estimat=13 rad 58 (0198cc8bed64-0b66e210-65c2-44b9-9ce3-6a752ddfeeac, sterk evidens for at tilsyn med sanksjon) står i sitatet
+- OK   2 sitat rad 59 (0198cc8bed64-0b66e210-65c2-44b9-9ce3-6a752ddfeeac, moderat evidens for at tilsyn med sanksj) står på oppgitt side
+- OK   3 estimat=5 rad 59 (0198cc8bed64-0b66e210-65c2-44b9-9ce3-6a752ddfeeac, moderat evidens for at tilsyn med sanksj) står i sitatet
+- OK   2 sitat rad 60 (0198cc8bed64-0b66e210-65c2-44b9-9ce3-6a752ddfeeac, begrenset evidens for at veiledende/rådg) står på oppgitt side
+- OK   3 estimat=3 rad 60 (0198cc8bed64-0b66e210-65c2-44b9-9ce3-6a752ddfeeac, begrenset evidens for at veiledende/rådg) står i sitatet
+- OK   2 sitat rad 62 (0198cc77bb69-6ac9d5e6-44b2-4fe6-80fa-31466c0e2e2c, forskjell i antall brudd på regelverket ) står på oppgitt side
+- OK   3 estimat=-2.91 rad 62 (0198cc77bb69-6ac9d5e6-44b2-4fe6-80fa-31466c0e2e2c, forskjell i antall brudd på regelverket ) står i sitatet
+- OK   2 sitat rad 63 (0198cc77bb69-6ac9d5e6-44b2-4fe6-80fa-31466c0e2e2c, ingen påvisbar effekt av tilsyn eller ve) står på oppgitt side
+- OK   2 sitat rad 64 (W4297325253, ingen signifikant effekt av tilsyn på ps) står på oppgitt side
+- OK   2 sitat rad 65 (W4388017094, legemeldte sykedager med muskel-skjelett) står på oppgitt side
+- OK   3 estimat=0.89 rad 65 (W4388017094, legemeldte sykedager med muskel-skjelett) står i sitatet
+- OK   3 ki_lav=0.50 rad 65 (W4388017094, legemeldte sykedager med muskel-skjelett) står i sitatet
+- OK   3 ki_hoy=1.59 rad 65 (W4388017094, legemeldte sykedager med muskel-skjelett) står i sitatet
+- OK   4 rad 65 (W4388017094, legemeldte sykedager med muskel-skjelett) estimat innenfor KI
+- OK   4 rad 65 (W4388017094, legemeldte sykedager med muskel-skjelett) KI symmetrisk på log-skala (avvik 0.00)
+- OK   2 sitat rad 66 (W4388017094, legemeldte sykefraværsperioder med muske) står på oppgitt side
+- OK   3 estimat=0.93 rad 66 (W4388017094, legemeldte sykefraværsperioder med muske) står i sitatet
+- OK   3 ki_lav=0.72 rad 66 (W4388017094, legemeldte sykefraværsperioder med muske) står i sitatet
+- OK   3 ki_hoy=1.21 rad 66 (W4388017094, legemeldte sykefraværsperioder med muske) står i sitatet
+- OK   4 rad 66 (W4388017094, legemeldte sykefraværsperioder med muske) estimat innenfor KI
+- OK   4 rad 66 (W4388017094, legemeldte sykefraværsperioder med muske) KI symmetrisk på log-skala (avvik 0.01)
+- OK   2 sitat rad 67 (W4388017094, Dager med legemeldt sykefravær 18 månede) står på oppgitt side
+- OK   3 estimat=0.82 rad 67 (W4388017094, Dager med legemeldt sykefravær 18 månede) står i sitatet
+- OK   3 ki_lav=0.42 rad 67 (W4388017094, Dager med legemeldt sykefravær 18 månede) står i sitatet
+- OK   3 ki_hoy=1.60 rad 67 (W4388017094, Dager med legemeldt sykefravær 18 månede) står i sitatet
+- OK   4 rad 67 (W4388017094, Dager med legemeldt sykefravær 18 månede) estimat innenfor KI
+- OK   4 rad 67 (W4388017094, Dager med legemeldt sykefravær 18 månede) KI symmetrisk på log-skala (avvik 0.00)
+- OK   2 sitat rad 68 (W4388017094, Dager med legemeldt sykefravær 18 månede) står på oppgitt side
+- OK   3 estimat=1.08 rad 68 (W4388017094, Dager med legemeldt sykefravær 18 månede) står i sitatet
+- OK   3 ki_lav=0.35 rad 68 (W4388017094, Dager med legemeldt sykefravær 18 månede) står i sitatet
+- OK   3 ki_hoy=3.31 rad 68 (W4388017094, Dager med legemeldt sykefravær 18 månede) står i sitatet
+- OK   4 rad 68 (W4388017094, Dager med legemeldt sykefravær 18 månede) estimat innenfor KI
+- OK   4 rad 68 (W4388017094, Dager med legemeldt sykefravær 18 månede) KI symmetrisk på log-skala (avvik 0.01)
+- OK   2 sitat rad 69 (W4407765445, færre brudd på regelverket totalt ved sl) står på oppgitt side
+- OK   3 estimat=-2.91 rad 69 (W4407765445, færre brudd på regelverket totalt ved sl) står i sitatet
+- OK   3 ki_lav=-5.70 rad 69 (W4407765445, færre brudd på regelverket totalt ved sl) står i sitatet
+- OK   3 ki_hoy=-0.12 rad 69 (W4407765445, færre brudd på regelverket totalt ved sl) står i sitatet
+- OK   4 rad 69 (W4407765445, færre brudd på regelverket totalt ved sl) estimat innenfor KI
+- OK   2 sitat rad 70 (W4407765445, færre brudd på krav om psykososiale forh) står på oppgitt side
+- OK   3 estimat=-1.63 rad 70 (W4407765445, færre brudd på krav om psykososiale forh) står i sitatet
+- OK   3 ki_lav=-2.87 rad 70 (W4407765445, færre brudd på krav om psykososiale forh) står i sitatet
+- OK   3 ki_hoy=-0.40 rad 70 (W4407765445, færre brudd på krav om psykososiale forh) står i sitatet
+- OK   4 rad 70 (W4407765445, færre brudd på krav om psykososiale forh) estimat innenfor KI
+- OK   2 sitat rad 71 (W4407765445, færre brudd på krav om ergonomiske forho) står på oppgitt side
+- OK   3 estimat=-0.65 rad 71 (W4407765445, færre brudd på krav om ergonomiske forho) står i sitatet
+- OK   3 ki_lav=-1.28 rad 71 (W4407765445, færre brudd på krav om ergonomiske forho) står i sitatet
+- OK   3 ki_hoy=-0.03 rad 71 (W4407765445, færre brudd på krav om ergonomiske forho) står i sitatet
+- OK   4 rad 71 (W4407765445, færre brudd på krav om ergonomiske forho) estimat innenfor KI
+- OK   2 sitat rad 72 (W4407765445, endring i antall brudd på krav om psykos) står på oppgitt side
+- OK   3 estimat=-1.12 rad 72 (W4407765445, endring i antall brudd på krav om psykos) står i sitatet
+- OK   2 sitat rad 73 (W4309467245, ledere i tilsynsgruppen rapporterte ofte) står på oppgitt side
+- OK   2 sitat rad 74 (W7118537502, andel dialogbaserte tilsynsavtaler (ATP)) står på oppgitt side
+- OK   3 estimat=44 rad 74 (W7118537502, andel dialogbaserte tilsynsavtaler (ATP)) står i sitatet
+- OK   2 sitat rad 75 (W7118537502, andel påbud (strakspåbud og påbud med fr) står på oppgitt side
+- OK   3 estimat=3 rad 75 (W7118537502, andel påbud (strakspåbud og påbud med fr) står i sitatet
+- OK   2 sitat rad 76 (W7118537502, antall virksomheter som oppfylte en dial) står på oppgitt side
+- OK   3 estimat=2335 rad 76 (W7118537502, antall virksomheter som oppfylte en dial) står i sitatet
+- OK   2 sitat rad 78 (KU-a0d13da0-00dd-4701-af4a-b99c525d4cbb, evalueringen vurderte ikke effekter selv) står på oppgitt side
+- OK   2 sitat rad 81 (KU-712a755b-3cfb-4168-99b3-053cd0b09bab, andel virksomheter med minst ett brudd v) står på oppgitt side
+- OK   3 estimat=72 rad 81 (KU-712a755b-3cfb-4168-99b3-053cd0b09bab, andel virksomheter med minst ett brudd v) står i sitatet
+- OK   2 sitat rad 82 (KU-712a755b-3cfb-4168-99b3-053cd0b09bab, andel virksomheter med minst ett brudd v) står på oppgitt side
+- OK   3 estimat=68 rad 82 (KU-712a755b-3cfb-4168-99b3-053cd0b09bab, andel virksomheter med minst ett brudd v) står i sitatet
+- OK   2 sitat rad 83 (KU-712a755b-3cfb-4168-99b3-053cd0b09bab, andel virksomheter med minst ett brudd v) står på oppgitt side
+- OK   3 estimat=66 rad 83 (KU-712a755b-3cfb-4168-99b3-053cd0b09bab, andel virksomheter med minst ett brudd v) står i sitatet
+- OK   2 sitat rad 84 (KU-712a755b-3cfb-4168-99b3-053cd0b09bab, andel virksomheter med brudd ved påfølge) står på oppgitt side
+- OK   3 estimat=56 rad 84 (KU-712a755b-3cfb-4168-99b3-053cd0b09bab, andel virksomheter med brudd ved påfølge) står i sitatet
+- OK   2 sitat rad 85 (KU-ce457f52-1a31-470c-a9e8-d4ce03a6182a, andel vedtatte pålegg i 2023 som ble inn) står på oppgitt side
+- OK   3 estimat=83 rad 85 (KU-ce457f52-1a31-470c-a9e8-d4ce03a6182a, andel vedtatte pålegg i 2023 som ble inn) står i sitatet
+- OK   2 sitat rad 86 (KU-ce457f52-1a31-470c-a9e8-d4ce03a6182a, andel vedtatte pålegg i 2023 som ble inn) står på oppgitt side
+- OK   3 estimat=16 rad 86 (KU-ce457f52-1a31-470c-a9e8-d4ce03a6182a, andel vedtatte pålegg i 2023 som ble inn) står i sitatet
+- OK   2 sitat rad 89 (KU-1b79baf1-41a3-427e-a061-2a65c0cbe804, evalueringen finner ingen målbar effekt ) står på oppgitt side
+- OK   2 sitat rad 97 (W2898876403, arbeidsskader etter tilsyn, samlet metaa) står på oppgitt side
+- OK   3 estimat=0.83 rad 97 (W2898876403, arbeidsskader etter tilsyn, samlet metaa) står i sitatet
+- OK   3 ki_lav=0.73 rad 97 (W2898876403, arbeidsskader etter tilsyn, samlet metaa) står i sitatet
+- OK   3 ki_hoy=0.93 rad 97 (W2898876403, arbeidsskader etter tilsyn, samlet metaa) står i sitatet
+- OK   4 rad 97 (W2898876403, arbeidsskader etter tilsyn, samlet metaa) estimat innenfor KI
+- OK   4 rad 97 (W2898876403, arbeidsskader etter tilsyn, samlet metaa) KI symmetrisk på log-skala (avvik 0.01)
+- OK   2 sitat rad 98 (W2898876403, etterlevelse (brudd) etter tilsyn, samle) står på oppgitt side
+- OK   3 estimat=0.65 rad 98 (W2898876403, etterlevelse (brudd) etter tilsyn, samle) står i sitatet
+- OK   3 ki_lav=0.50 rad 98 (W2898876403, etterlevelse (brudd) etter tilsyn, samle) står i sitatet
+- OK   3 ki_hoy=0.83 rad 98 (W2898876403, etterlevelse (brudd) etter tilsyn, samle) står i sitatet
+- OK   4 rad 98 (W2898876403, etterlevelse (brudd) etter tilsyn, samle) estimat innenfor KI
+- OK   4 rad 98 (W2898876403, etterlevelse (brudd) etter tilsyn, samle) KI symmetrisk på log-skala (avvik 0.02)
+- OK   2 sitat rad 99 (W2898876403, nedgang i forekomsten av ulykker årene e) står på oppgitt side
+- OK   3 estimat=9 rad 99 (W2898876403, nedgang i forekomsten av ulykker årene e) står i sitatet
+- OK   2 sitat rad 100 (W2898876403, nedgang i alvorlige ulykker med personsk) står på oppgitt side
+- OK   3 estimat=13 rad 100 (W2898876403, nedgang i alvorlige ulykker med personsk) står i sitatet
+- OK   2 sitat rad 103 (KU-2641bb83-a22c-4f58-a12b-5efa4b7c7bf9, tilsyn fra Arbeidstilsynet henger sammen) står på oppgitt side
+- OK   2 sitat rad 104 (KU-2641bb83-a22c-4f58-a12b-5efa4b7c7bf9, andel virksomheter med tilsyn siste to å) står på oppgitt side
+- OK   3 estimat=65 rad 104 (KU-2641bb83-a22c-4f58-a12b-5efa4b7c7bf9, andel virksomheter med tilsyn siste to å) står i sitatet
+- OK   2 sitat rad 107 (LI-20167586, skoler med mangler i det systematiske ar) står på oppgitt side
+- OK   3 estimat=9 rad 107 (LI-20167586, skoler med mangler i det systematiske ar) står i sitatet
+- OK   2 sitat rad 108 (LI-20167586, antall vitesforelegg (tvangsmulkt) der k) står på oppgitt side
+- OK   3 estimat=250 rad 108 (LI-20167586, antall vitesforelegg (tvangsmulkt) der k) står i sitatet
+- OK   2 sitat rad 109 (LI-z8mngx5cwh35nnbl, tilsyn 2015–2017 bidro signifikant til b) står på oppgitt side
+- OK   2 sitat rad 110 (LI-7h2w2s3q5bp7szp7, andel inspiserte arbeidssteder som fikk ) står på oppgitt side
+- OK   3 estimat=87 rad 110 (LI-7h2w2s3q5bp7szp7, andel inspiserte arbeidssteder som fikk ) står i sitatet
+- OK   2 sitat rad 112 (W4410266078, andel virksomheter som oppfylte dialogba) står på oppgitt side
+- OK   3 estimat=73 rad 112 (W4410266078, andel virksomheter som oppfylte dialogba) står i sitatet
+- OK   2 sitat rad 113 (W4410266078, oppfyllelse av ATP-avtale, justert) står på oppgitt side
+- OK   3 estimat=0.70 rad 113 (W4410266078, oppfyllelse av ATP-avtale, justert) står i sitatet
+- OK   3 ki_lav=0.53 rad 113 (W4410266078, oppfyllelse av ATP-avtale, justert) står i sitatet
+- OK   3 ki_hoy=0.92 rad 113 (W4410266078, oppfyllelse av ATP-avtale, justert) står i sitatet
+- OK   4 rad 113 (W4410266078, oppfyllelse av ATP-avtale, justert) estimat innenfor KI
+- OK   4 rad 113 (W4410266078, oppfyllelse av ATP-avtale, justert) KI symmetrisk på log-skala (avvik 0.00)
+- OK   2 sitat rad 114 (W4410266078, oppfyllelse av ATP-avtale, justert) står på oppgitt side
+- OK   3 estimat=0.6 rad 114 (W4410266078, oppfyllelse av ATP-avtale, justert) står i sitatet
+- OK   3 ki_lav=0.46 rad 114 (W4410266078, oppfyllelse av ATP-avtale, justert) står i sitatet
+- OK   3 ki_hoy=0.80 rad 114 (W4410266078, oppfyllelse av ATP-avtale, justert) står i sitatet
+- OK   4 rad 114 (W4410266078, oppfyllelse av ATP-avtale, justert) estimat innenfor KI
+- OK   4 rad 114 (W4410266078, oppfyllelse av ATP-avtale, justert) KI symmetrisk på log-skala (avvik 0.02)
+- OK   2 sitat rad 115 (W4410266078, oppfyllelse av ATP-avtale, justert) står på oppgitt side
+- OK   3 estimat=0.75 rad 115 (W4410266078, oppfyllelse av ATP-avtale, justert) står i sitatet
+- OK   3 ki_lav=0.58 rad 115 (W4410266078, oppfyllelse av ATP-avtale, justert) står i sitatet
+- OK   3 ki_hoy=0.98 rad 115 (W4410266078, oppfyllelse av ATP-avtale, justert) står i sitatet
+- OK   4 rad 115 (W4410266078, oppfyllelse av ATP-avtale, justert) estimat innenfor KI
+- OK   4 rad 115 (W4410266078, oppfyllelse av ATP-avtale, justert) KI symmetrisk på log-skala (avvik 0.01)
+- OK   2 sitat rad 116 (W4410266078, oppfyllelse av ATP-avtale, justert (35–9) står på oppgitt side
+- OK   3 estimat=1.48 rad 116 (W4410266078, oppfyllelse av ATP-avtale, justert (35–9) står i sitatet
+- OK   3 ki_lav=1.08 rad 116 (W4410266078, oppfyllelse av ATP-avtale, justert (35–9) står i sitatet
+- OK   3 ki_hoy=2.02 rad 116 (W4410266078, oppfyllelse av ATP-avtale, justert (35–9) står i sitatet
+- OK   4 rad 116 (W4410266078, oppfyllelse av ATP-avtale, justert (35–9) estimat innenfor KI
+- OK   4 rad 116 (W4410266078, oppfyllelse av ATP-avtale, justert (35–9) KI symmetrisk på log-skala (avvik 0.00)
+- OK   2 sitat rad 117 (R-6d7e0a4ae6, andel saker der mangelen som utløste san) står på oppgitt side
+- OK   3 estimat=90 rad 117 (R-6d7e0a4ae6, andel saker der mangelen som utløste san) står i sitatet
+- OK   2 sitat rad 118 (R-6d7e0a4ae6, økning i antall reaksjoner for arbeidsmi) står på oppgitt side
+- OK   3 estimat=10 rad 118 (R-6d7e0a4ae6, økning i antall reaksjoner for arbeidsmi) står i sitatet
+- OK   2 sitat rad 121 (W2111592442, virksomheter med tilsyn hadde signifikan) står på oppgitt side
+- OK   2 sitat rad 122 (W1591412842, gjennomsnittlig antall typer støytiltak ) står på oppgitt side
+- OK   3 estimat=2.5 rad 122 (W1591412842, gjennomsnittlig antall typer støytiltak ) står i sitatet
+- OK   2 sitat rad 123 (W1591412842, handlingsplaner mot støy sju ganger vanl) står på oppgitt side
+- OK   3 estimat=7 rad 123 (W1591412842, handlingsplaner mot støy sju ganger vanl) står i sitatet
+- OK   2 sitat rad 124 (W1591412842, Antall typer støytiltak gjennomført ette) står på oppgitt side
+- OK   3 estimat=0.8 rad 124 (W1591412842, Antall typer støytiltak gjennomført ette) står i sitatet
+- OK   2 sitat rad 126 (W4393377150, sannsynlighet for nytt OSHA-brudd i alle) står på oppgitt side
+- OK   3 estimat=7.1 rad 126 (W4393377150, sannsynlighet for nytt OSHA-brudd i alle) står i sitatet
+- OK   2 sitat rad 127 (W4393377150, relativ nedgang i sannsynligheten for ny) står på oppgitt side
+- OK   3 estimat=22.5 rad 127 (W4393377150, relativ nedgang i sannsynligheten for ny) står i sitatet
+- OK   2 sitat rad 128 (W4393377150, økt sannsynlighet for brudd i en delstat) står på oppgitt side
+- OK   3 estimat=6.9 rad 128 (W4393377150, økt sannsynlighet for brudd i en delstat) står i sitatet
+- OK   2 sitat rad 129 (W2013964255, føderal håndheving gir færre ikke-dødeli) står på oppgitt side
+- OK   2 sitat rad 130 (W2109614526, nedgang i skader med fravær etter OSHA-t) står på oppgitt side
+- OK   3 estimat=15 rad 130 (W2109614526, nedgang i skader med fravær etter OSHA-t) står i sitatet
+- OK   2 sitat rad 131 (W2109614526, nedgang i skader med fravær etter OSHA-t) står på oppgitt side
+- OK   3 estimat=8 rad 131 (W2109614526, nedgang i skader med fravær etter OSHA-t) står i sitatet
+- OK   2 sitat rad 132 (W2109614526, nedgang i skader med fravær etter OSHA-t) står på oppgitt side
+- OK   3 estimat=1 rad 132 (W2109614526, nedgang i skader med fravær etter OSHA-t) står i sitatet
+- OK   2 sitat rad 134 (W2041184998, nedgang i skader med fravær per år de to) står på oppgitt side
+- OK   3 estimat=19 rad 134 (W2041184998, nedgang i skader med fravær per år de to) står i sitatet
+- OK   2 sitat rad 135 (W2041184998, ingen effekt på skader for de minste og ) står på oppgitt side
+- OK   2 sitat rad 136 (W2041184998, Reduksjon i skader med tapt arbeidstid p) står på oppgitt side
+- OK   3 estimat=24 rad 136 (W2041184998, Reduksjon i skader med tapt arbeidstid p) står i sitatet
+- OK   2 sitat rad 137 (W2094628007, tilsyn påvirker også skadetyper som ikke) står på oppgitt side
+- OK   2 sitat rad 138 (W2138094971, nedgang i erstatningskrav med fravær ett) står på oppgitt side
+- OK   3 estimat=4 rad 138 (W2138094971, nedgang i erstatningskrav med fravær ett) står i sitatet
+- OK   2 sitat rad 139 (W2138094971, nedgang i erstatningskrav for skader som) står på oppgitt side
+- OK   3 estimat=20 rad 139 (W2138094971, nedgang i erstatningskrav for skader som) står i sitatet
+- OK   2 sitat rad 140 (W4400981977, nedgang i erstatningskrav med fravær and) står på oppgitt side
+- OK   3 estimat=28 rad 140 (W4400981977, nedgang i erstatningskrav med fravær and) står i sitatet
+- OK   2 sitat rad 141 (W4400981977, økning i erstatningskrav med fravær førs) står på oppgitt side
+- OK   3 estimat=12 rad 141 (W4400981977, økning i erstatningskrav med fravær førs) står i sitatet
+- OK   2 sitat rad 142 (W3111451647, tilsyn påvirker generelt ikke akutte ska) står på oppgitt side
+- OK   2 sitat rad 143 (W3159137599, unngåtte erstatningskrav per år to år et) står på oppgitt side
+- OK   3 estimat=14000 rad 143 (W3159137599, unngåtte erstatningskrav per år to år et) står i sitatet
+- OK   2 sitat rad 144 (W3159137599, ingen forskjell i erstatningskrav før og) står på oppgitt side
+- OK   2 sitat rad 145 (W2078525502, færre erstatningskrav for hørselsskade e) står på oppgitt side
+- OK   2 sitat rad 148 (W2026426461, årlig forekomst av karpaltunnelsyndrom p) står på oppgitt side
+- OK   3 estimat=3.8 rad 148 (W2026426461, årlig forekomst av karpaltunnelsyndrom p) står i sitatet
+- OK   2 sitat rad 149 (W2026426461, årlig forekomst av karpaltunnelsyndrom p) står på oppgitt side
+- OK   3 estimat=3.4 rad 149 (W2026426461, årlig forekomst av karpaltunnelsyndrom p) står i sitatet
+- OK   2 sitat rad 151 (W3124964336, vunne leveår for gruvearbeidere hvis en ) står på oppgitt side
+- OK   3 estimat=700000 rad 151 (W3124964336, vunne leveår for gruvearbeidere hvis en ) står i sitatet
+- OK   2 sitat rad 154 (W2285511036, lengre tid uten skader etter fullstendig) står på oppgitt side
+- OK   2 sitat rad 155 (W2120269123, årlig endring i skaderate med sykefravær) står på oppgitt side
+- OK   3 estimat=-7.4 rad 155 (W2120269123, årlig endring i skaderate med sykefravær) står i sitatet
+- OK   3 ki_lav=-10.2 rad 155 (W2120269123, årlig endring i skaderate med sykefravær) står i sitatet
+- OK   3 ki_hoy=-4.5 rad 155 (W2120269123, årlig endring i skaderate med sykefravær) står i sitatet
+- OK   4 rad 155 (W2120269123, årlig endring i skaderate med sykefravær) estimat innenfor KI
+- OK   2 sitat rad 156 (W2120269123, årlig endring i skaderate før innføring ) står på oppgitt side
+- OK   3 estimat=2.3 rad 156 (W2120269123, årlig endring i skaderate før innføring ) står i sitatet
+- OK   3 ki_lav=-2.5 rad 156 (W2120269123, årlig endring i skaderate før innføring ) står i sitatet
+- OK   3 ki_hoy=7.4 rad 156 (W2120269123, årlig endring i skaderate før innføring ) står i sitatet
+- OK   4 rad 156 (W2120269123, årlig endring i skaderate før innføring ) estimat innenfor KI
+- OK   2 sitat rad 157 (W1682734445, flere tilsyn per arbeider henger sammen ) står på oppgitt side
+- OK   2 sitat rad 158 (W3081675128, andel påviste risikoer som ble rettet et) står på oppgitt side
+- OK   3 estimat=82 rad 158 (W3081675128, andel påviste risikoer som ble rettet et) står i sitatet
+- OK   2 sitat rad 159 (W3081675128, andel påviste risikoer som ble rettet et) står på oppgitt side
+- OK   3 estimat=25 rad 159 (W3081675128, andel påviste risikoer som ble rettet et) står i sitatet
+- OK   2 sitat rad 162 (W2271999475, synkende skaderate i bygg og lavere enn ) står på oppgitt side
+- OK   2 sitat rad 163 (W3003298692, forskjell i endring i total skaderate fr) står på oppgitt side
+- OK   3 estimat=-1.95 rad 163 (W3003298692, forskjell i endring i total skaderate fr) står i sitatet
+- OK   3 ki_lav=-15.30 rad 163 (W3003298692, forskjell i endring i total skaderate fr) står i sitatet
+- OK   3 ki_hoy=11.39 rad 163 (W3003298692, forskjell i endring i total skaderate fr) står i sitatet
+- OK   4 rad 163 (W3003298692, forskjell i endring i total skaderate fr) estimat innenfor KI
+- OK   2 sitat rad 164 (W3003298692, forskjell i endring i rate for alvorlige) står på oppgitt side
+- OK   3 estimat=-0.27 rad 164 (W3003298692, forskjell i endring i rate for alvorlige) står i sitatet
+- OK   3 ki_lav=-7.84 rad 164 (W3003298692, forskjell i endring i rate for alvorlige) står i sitatet
+- OK   3 ki_hoy=7.31 rad 164 (W3003298692, forskjell i endring i rate for alvorlige) står i sitatet
+- OK   4 rad 164 (W3003298692, forskjell i endring i rate for alvorlige) estimat innenfor KI
+- OK   2 sitat rad 165 (W4411021912, ingen effektestimat; tematisk oversikt o) står på oppgitt side
+- OK   2 sitat rad 166 (W1578291642, nedgang i antall påpekte brudd fra først) står på oppgitt side
+- OK   3 estimat=28 rad 166 (W1578291642, nedgang i antall påpekte brudd fra først) står i sitatet
+- OK   2 sitat rad 167 (W1578291642, økning i antall påpekte brudd over fem å) står på oppgitt side
+- OK   3 estimat=15 rad 167 (W1578291642, økning i antall påpekte brudd over fem å) står i sitatet
+- OK   2 sitat rad 168 (W1578291642, Nedgang i antall brudd som påvises, øvre) står på oppgitt side
+- OK   3 estimat=48 rad 168 (W1578291642, Nedgang i antall brudd som påvises, øvre) står i sitatet
+- OK   2 sitat rad 170 (W2093998534, nedgang i erstatningskrav med fravær for) står på oppgitt side
+- OK   3 estimat=22.5 rad 170 (W2093998534, nedgang i erstatningskrav med fravær for) står i sitatet
+- OK   2 sitat rad 171 (W2093998534, nedgang i erstatningskrav med fravær for) står på oppgitt side
+- OK   3 estimat=12.8 rad 171 (W2093998534, nedgang i erstatningskrav med fravær for) står i sitatet
+- OK   2 sitat rad 172 (W2093998534, endring i erstatningskrav etter veiledni) står på oppgitt side
+- OK   3 estimat=-2.3 rad 172 (W2093998534, endring i erstatningskrav etter veiledni) står i sitatet
+- OK   2 sitat rad 173 (W2017476784, tilsyn på byggeplasser har ingen effekt ) står på oppgitt side
+- OK   2 sitat rad 174 (W2064673619, inspektører med autonomistøttende stil g) står på oppgitt side
+- OK   2 sitat rad 179 (W2617392673, økning i antall MSHA-tilsyn året etter e) står på oppgitt side
+- OK   3 estimat=31 rad 179 (W2617392673, økning i antall MSHA-tilsyn året etter e) står i sitatet
+- OK   2 sitat rad 180 (W2617392673, nedgang i mindre alvorlige ulykker andre) står på oppgitt side
+- OK   3 estimat=14 rad 180 (W2617392673, nedgang i mindre alvorlige ulykker andre) står i sitatet
+- OK   2 sitat rad 181 (W3025477067, gjentatte brudd på samme standard ved se) står på oppgitt side
+- OK   2 sitat rad 182 (W3003782755, nedgang i ulykkesrate ved 10 % flere til) står på oppgitt side
+- OK   3 estimat=1.68 rad 182 (W3003782755, nedgang i ulykkesrate ved 10 % flere til) står i sitatet
+- OK   2 sitat rad 183 (W3003782755, Elastisitet: log av ulykkesrate mot log ) står på oppgitt side
+- OK   3 estimat=-0.1774 rad 183 (W3003782755, Elastisitet: log av ulykkesrate mot log ) står i sitatet
+- OK   2 sitat rad 184 (W2133122013, årlig nedgang i alvorlige skader per 10 ) står på oppgitt side
+- OK   3 estimat=0.21 rad 184 (W2133122013, årlig nedgang i alvorlige skader per 10 ) står i sitatet
+- OK   2 sitat rad 186 (W2948444906, positive effekter på HMS-styring og noen) står på oppgitt side
+- OK   2 sitat rad 187 (W2306445029, alle skader etter tilsyn utløst av skade) står på oppgitt side
+- OK   3 estimat=0.76 rad 187 (W2306445029, alle skader etter tilsyn utløst av skade) står i sitatet
+- OK   3 ki_lav=0.65 rad 187 (W2306445029, alle skader etter tilsyn utløst av skade) står i sitatet
+- OK   3 ki_hoy=0.90 rad 187 (W2306445029, alle skader etter tilsyn utløst av skade) står i sitatet
+- OK   4 rad 187 (W2306445029, alle skader etter tilsyn utløst av skade) estimat innenfor KI
+- OK   4 rad 187 (W2306445029, alle skader etter tilsyn utløst av skade) KI symmetrisk på log-skala (avvik 0.01)
+- OK   2 sitat rad 188 (W2306445029, alvorlige skader etter tilsyn utløst av ) står på oppgitt side
+- OK   3 estimat=0.64 rad 188 (W2306445029, alvorlige skader etter tilsyn utløst av ) står i sitatet
+- OK   3 ki_lav=0.50 rad 188 (W2306445029, alvorlige skader etter tilsyn utløst av ) står i sitatet
+- OK   3 ki_hoy=0.83 rad 188 (W2306445029, alvorlige skader etter tilsyn utløst av ) står i sitatet
+- OK   4 rad 188 (W2306445029, alvorlige skader etter tilsyn utløst av ) estimat innenfor KI
+- OK   4 rad 188 (W2306445029, alvorlige skader etter tilsyn utløst av ) KI symmetrisk på log-skala (avvik 0.01)
+- OK   2 sitat rad 189 (W2306445029, planlagte tilsyn hadde aldri signifikant) står på oppgitt side
+- OK   2 sitat rad 190 (W3121667400, tilsyn har beskjeden effekt på etterleve) står på oppgitt side
+- OK   2 sitat rad 191 (W4285588693, flere OSHA-tilsyn og særlig veiledningsb) står på oppgitt side
+- OK   2 sitat rad 192 (W7168453949, lavere ulykkesrate året etter et OSHA-ti) står på oppgitt side
+- OK   3 estimat=2 rad 192 (W7168453949, lavere ulykkesrate året etter et OSHA-ti) står i sitatet
+- OK   2 sitat rad 193 (W4399344217, årlig nedgang i antall skader per 100 00) står på oppgitt side
+- OK   3 estimat=121.8 rad 193 (W4399344217, årlig nedgang i antall skader per 100 00) står i sitatet
+- OK   2 sitat rad 194 (W4399344217, korrelasjon mellom antall tilsyn og skad) står på oppgitt side
+- OK   3 estimat=-0.872 rad 194 (W4399344217, korrelasjon mellom antall tilsyn og skad) står i sitatet
+- OK   2 sitat rad 195 (W4399344217, korrelasjon mellom antall tilsyn og skad) står på oppgitt side
+- OK   3 estimat=-0.601 rad 195 (W4399344217, korrelasjon mellom antall tilsyn og skad) står i sitatet
+- OK   2 sitat rad 196 (W4399344217, Årlig nedgang i dødsulykker per 100 000 ) står på oppgitt side
+- OK   3 estimat=0.16 rad 196 (W4399344217, Årlig nedgang i dødsulykker per 100 000 ) står i sitatet
+- OK   5 tallet 0.65 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 0.68 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 0.75 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 0.77 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 0.83 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 0.89 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 1.68 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 11 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 15 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 19 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 20 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 21 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 210 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 22.5 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 23 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 24 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 25 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 26 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 28 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 30 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 36 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 48 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 66 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 68 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 7.4 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 72 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 73 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 82 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 83 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 9.4 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 90 i svaret finnes i estimat- eller statistikktabellen
+- OK   6 utelatt W4320493621 «Robots in Inspection and Monitoring of Buildings and Infrastructure: A» (2023) – teknologi eller modellering for inspeksjon eller risiko, ikke effekt av offentlig tilsyn
+- OK   6 utelatt W2975025086 «The Fourth Industrial Revolution and Its Impact on Occupational Health» (2019) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W2283517400 «Creating a Culture of Prevention in Occupational Safety and Health Pra» (2016) – sikkerhetskultur, ledelse, opplæring eller helse, ikke offentlig tilsyn
+- OK   6 utelatt W2115589650 «Jatropha Toxicity—A Review» (2010) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W2040369547 «Defining the methodological challenges and opportunities for an effect» (2015) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W2963396442 «Complex Motor Learning and Police Training: Applied, Cognitive, and Cl» (2019) – sikkerhetskultur, ledelse, opplæring eller helse, ikke offentlig tilsyn
+- OK   6 utelatt W4390547994 «Artificial intelligence in advancing occupational health and safety: a» (2024) – teknologi eller modellering for inspeksjon eller risiko, ikke effekt av offentlig tilsyn
+- OK   6 utelatt W3166664022 «Wearables for Industrial Work Safety: A Survey» (2021) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W2972394259 «Management of legal compliance in occupational health and safety. A li» (2019) – oversikt over virksomhetenes styring av regeletterlevelse, ikke effekt av tilsyn
+- OK   6 utelatt W3176512063 «REDECA: A Novel Framework to Review Artificial Intelligence and Its Ap» (2021) – teknologi eller modellering for inspeksjon eller risiko, ikke effekt av offentlig tilsyn
+- OK   6 utelatt W4384008722 «Influence of psychosocial safety climate on occupational health and sa» (2023) – sikkerhetskultur, ledelse, opplæring eller helse, ikke offentlig tilsyn
+- OK   6 utelatt W2910140402 «Critical Success Factors for Construction Safety: Review and Meta-Anal» (2019) – metodelitteratur, ikke en studie av tiltaket
+- OK   6 utelatt W2157162918 «Occupational health and safety among commercial sex workers» (2011) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W2214582218 «Review of Occupational Health and Safety Organization in Expanding Eco» (2015) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W2186484541 «Systematic review of qualitative literature on occupational health and» (2015) – oversikt over kvalitative studier av regelverk og regulering, uten effektmål
+- OK   6 utelatt W118191211 «Truck driver occupational safety and health. 2003 conference report an» (2007) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W3163367943 «Healthy Aging Requires a Healthy Home Care Workforce: the Occupational» (2021) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W3188748814 «Labor unions and health: A literature review of pathways and outcomes » (2021) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W2983334921 «Occupational Health and Safety of Immigrant Workers in Italy and Spain» (2019) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W2117256837 «Lethal Carbon Monoxide Poisoning in Wood Pellet Storerooms—Two Cases a» (2012) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W4410500593 «Slope Stability Monitoring Methods and Technologies for Open-Pit Minin» (2025) – metodelitteratur, ikke en studie av tiltaket
+- OK   6 utelatt W4309721574 «Expanding the Focus of Occupational Safety and Health: Lessons from a » (2022) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W4283321486 «Systematic Literature Review on Variables Impacting Organization’s Zer» (2022) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W3213770738 «Risk-Acceptance Criteria in Occupational Health and Safety Risk-Assess» (2021) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W4280526563 «Safety Built Right in: Exploring the Occupational Health and Safety Po» (2022) – teknologi eller modellering for inspeksjon eller risiko, ikke effekt av offentlig tilsyn
+- OK   6 utelatt W3203808681 «Construction 4.0: Industry 4.0 enabling technologies applied to improv» (2021) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W4295023856 «Occupational safety, policy, and management in public health organizat» (2022) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W4401020607 «Managing Occupational Health and Safety Risks in Construction Projects» (2024) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W3137490468 «Occupational Health and Safety Performance in High-Rise Building Proje» (2021) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W243818612 «Current and emerging occupational safety and health (OSH) issues in th» (2014) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W4410505949 «A systematic review of occupational safety and health in modular integ» (2025) – metodelitteratur, ikke en studie av tiltaket
+- OK   6 utelatt W4409239467 «Occupational health and safety regulations in China: development proce» (2025) – land utenfor avgrensningen, og ikke kategori 1–3
+- OK   6 utelatt W4393139031 «Rethinking occupational health and safety principles—a systems perspec» (2024) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W1592039796 «Review of the occupational health and safety of Britain’s ethnic minor» (2004) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W4413396223 «Innovative Technologies to Improve Occupational Safety in Mining and C» (2025) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W1865557496 «Occupational safety and hygiene: SHO 2012» (2012) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W2618617961 «What Unions Do for Regulation» (2017) – om tilsyn eller regulering uten effektmål på skader eller etterlevelse (beskrivende, teoretisk eller kvalitativ)
+- OK   6 utelatt W4389452223 «A Review Of Occupational Safety and Health in the Construction Sector:» (2023) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W4406933396 «Silicosis prevalence and related issues in India: a scoping review» (2025) – land utenfor avgrensningen, og ikke kategori 1–3
+- OK   6 utelatt W4390467806 «Status of Occupational Health and Safety in Nepal: Current Scenario an» (2023) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W4414475983 «Safety culture maturity models in occupational safety and health: An u» (2025) – sikkerhetskultur, ledelse, opplæring eller helse, ikke offentlig tilsyn
+- OK   6 utelatt W2914096028 «Posted Work and Occupational Safety and Health: A Literature Review» (2018) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W2956000849 «Management of Construction Safety: The Failure and Success of Stakehol» (2018) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W4385548174 «Occupational Safety and Health: A Systematic Literature Review (SLR)» (2023) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W4403741404 «Analysis of Occupational Safety and Health (OSH) Risks in Hospitals: L» (2024) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W4416124004 «Integration of Artificial Intelligence (AI) and Internet of Things (Io» (2025) – teknologi eller modellering for inspeksjon eller risiko, ikke effekt av offentlig tilsyn
+- OK   6 utelatt W4411360326 «A Systematic Review of Occupational Health and Safety to Prevent Fall » (2025) – metodelitteratur, ikke en studie av tiltaket
+- OK   6 utelatt W4414191346 «Occupational Safety in Agriculture: A Systematic Literature Review of » (2025) – sikkerhetskultur, ledelse, opplæring eller helse, ikke offentlig tilsyn
+- OK   6 utelatt W2158514686 «Promoting occupational safety and health through the supply chain Lite» (2012) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W4407885653 «Challenges from 14 years of experience at Workers' Health Centers in b» (2025) – land utenfor avgrensningen, og ikke kategori 1–3
+- OK   6 utelatt W4313905047 «Reviewing Measuring Health And Safety Management Performance In The Co» (2022) – virksomhetenes egne HMS-systemer uten tilsyn, utelatt etter kriteriene
+- OK   6 utelatt W4386234946 «Application of unmanned aerial vehicles in construction industry» (2022) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W4392734288 «Subtotal cholecystectomy as an approach to preventing injury in the le» (2024) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W1512460399 «Systematiskt arbetsmiljöarbete mot stress» (2007) – sikkerhetskultur, ledelse, opplæring eller helse, ikke offentlig tilsyn
+- OK   6 utelatt W4313126910 «Risk regulation, liability and insurance: literature review of their i» (2014) – oversikt over regulering, ansvar og forsikring, ikke effekt av tilsyn
+- OK   6 utelatt W7165544306 «Application of artificial intelligence in construction health and safe» (2026) – teknologi eller modellering for inspeksjon eller risiko, ikke effekt av offentlig tilsyn
+- OK   6 utelatt W4381954121 «Occupational Safety Practices and Individual and Organizational Outcom» (2023) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W2804589425 «Occupational Safety And Health (Osh) From Islamic Perspective: A Conce» (2018) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W4415298630 «Effectiveness of occupational safety and health management systems in » (2025) – metodelitteratur, ikke en studie av tiltaket
+- OK   6 utelatt W4410024698 «The Climate of Working Alone in Agriculture» (2025) – sikkerhetskultur, ledelse, opplæring eller helse, ikke offentlig tilsyn
+- OK   6 utelatt W976932974 «Review and Analysis of Potential Safety Impacts of and Regulatory Barr» (2015) – om tilsyn eller regulering uten effektmål på skader eller etterlevelse (beskrivende, teoretisk eller kvalitativ)
+- OK   6 utelatt W4415411582 «Optimalisasi Aspek Pengawasan Ketenagakerjaan guna Memastikan Perlindu» (2025) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W4407078283 «Enhancing Occupational Safety in AI-Driven Supply Chains: Challenges a» (2025) – teknologi eller modellering for inspeksjon eller risiko, ikke effekt av offentlig tilsyn
+- OK   6 utelatt W7116495309 «Various Determinants Influencing the Implementation of Occupational He» (2025) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W7115172268 «OCCUPATIONAL SAFETY AND HEALTH IN THE PHILIPPINES MICROENTERPRISES: A » (2025) – land utenfor avgrensningen, og ikke kategori 1–3
+- OK   6 utelatt W1488318555 «FöretagSAM : En jämförelse av två modeller för implementering av syste» (2006) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W4394815299 «Management of methane emission in coal mines using artificial neural n» (2024) – miljøtilsyn, utenfor avgrensningen
+- OK   6 utelatt W3129372895 «Literature Review for Research Project on the Interaction of Labour In» (2015) – litteraturgjennomgang uten systematisk effektvurdering; dekket av de valgte oversiktene
+- OK   6 utelatt W7128781141 «Scoping review on the effect of labour inspections on occupational hea» (2026) – samme oversikt som W7128726718 (Schubert m.fl. 2026), annen post i OpenAlex
+- OK   6 utelatt W7134042898 «Correction: Scoping review on the effect of labour inspections on occu» (2026) – rettelse til W7128726718, ingen egne funn
+- OK   6 utelatt W7128788685 «Additional file 1 of Scoping review on the effect of labour inspection» (2026) – tilleggsfil til W7128726718, ingen egne funn
+- OK   6 utelatt W2966721269 «Indonesia’s fisheries human rights certification system: assessment, c» (2019) – land utenfor avgrensningen, og ikke kategori 1–3
+- OK   6 utelatt W7220403262 «The Role of Policy Implementation in Connecting International Labor St» (2026) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W7202362853 «SAFETY-STANDARD ADOPTION AND ENGINEERING-FAILURE LITIGATION OUTCOMES: » (2026) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W3198628569 «Use of drone (UAV) as a tool for work safety inspection for roofing ac» (2021) – teknologi eller modellering for inspeksjon eller risiko, ikke effekt av offentlig tilsyn
+- OK   6 utelatt W4416454140 «A systematic review on safety practices in high-rise building construc» (2025) – metodelitteratur, ikke en studie av tiltaket
+- OK   6 utelatt W7119516590 «Measures to improve safety management and operation of sports faciliti» (2025) – land utenfor avgrensningen, og ikke kategori 1–3
+- OK   6 utelatt W3034607894 «Geographic information Systems enforced to Occupational Health and Saf» (2019) – om tilsyn eller regulering uten effektmål på skader eller etterlevelse (beskrivende, teoretisk eller kvalitativ)
+- OK   6 utelatt W7214519940 «Occupational Safety and Prevention Strategies for Threshers and Chaff » (2026) – metodelitteratur, ikke en studie av tiltaket
+- OK   6 utelatt W7214538526 «Occupational Safety and Prevention Strategies for Threshers and Chaff » (2026) – metodelitteratur, ikke en studie av tiltaket
+- OK   6 utelatt W7214089456 «Work Schedules, Sleep Health, Fatigue, and Occupational Safety Among B» (2026) – metodelitteratur, ikke en studie av tiltaket
+- OK   6 utelatt W4400354073 «P-057 NEEDS ASSESSMENT OF OCCUPATIONAL SAFETY AND HEALTH CONTINUING ED» (2024) – land utenfor avgrensningen, og ikke kategori 1–3
+- OK   6 utelatt W7167839897 «An integrated EHS-based risk assessment framework for hazardous substa» (2026) – land utenfor avgrensningen, og ikke kategori 1–3
+- OK   6 utelatt W7171413189 «HSE Management Systems Challenges: Proposed Improvement Strategies in » (2026) – land utenfor avgrensningen, og ikke kategori 1–3
+- OK   6 utelatt W2800733161 «ARBETSMILJÖ OCH SÄKERHET : Systematiskt arbetsmiljöarbete på byggarbet» (2017) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W92172387 «Learning from accidents : Experience feedback in practice» (2010) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W3045187047 «Dammexplosionsrisker i metallbearbetande industri» (2019) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W7213430406 «SAFETY AND MANAGEMENT ENGINEERING IN THE GLOBAL MINING SECTOR: A REVIE» (2026) – forekomst, registrering eller kostnader av skader, ikke effekt av tilsyn
+- OK   6 utelatt W651620464 «Systematisk Arbetsmiljöutbildning i en svensk kommun» (2011) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W2810983845 «Skyddsombud inom socialpsykiatrin och deras uppfattning av den psykoso» (2016) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W1726655055 «Implementering av AFS 2001:1 om systematiskt arbetsmiljöarbete, en pro» (2007) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W2324264574 «Finns det indikationer på samband mellan företags arbetsmiljöarbete oc» (2015) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W165711919 «Mobbning i arbetslivet : Svensk och belgisk arbetsmiljöreglering» (2012) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W3186359800 «Ledarskap och socialt stöd från teori till ledares reella arbete för a» (2020) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W2906523100 «Organisatorisk och social arbetsmiljö i praktiken – utbildning som stö» (2018) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W2979932974 «Socialt stöd på arbetsplatsen påverkar hälsan positivt : En kvalitativ» (2018) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W7135868581 «Reporting of accidents & incidents : A study of the process and attitu» (2016) – metodelitteratur, ikke en studie av tiltaket
+- OK   6 utelatt W2762567938 «På jobb med barn som kan drepe» (2017) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W1904351276 «Globalisation, organisational culture and workplace safety : is there » (2005) – sikkerhetskultur, ledelse, opplæring eller helse, ikke offentlig tilsyn
+- OK   6 utelatt W4399896625 «Implementation of Total Productive Maintenance on Frame Welding Machin» (2024) – land utenfor avgrensningen, og ikke kategori 1–3
+- OK   6 utelatt W3203923637 «Trends in Workplace Wearable Technologies and Connected‐Worker Solutio» (2021) – forekomst, registrering eller kostnader av skader, ikke effekt av tilsyn
+- OK   6 utelatt W2098100286 «Epistemic Objects, Artefacts and Organizational Change» (2005) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W2089014225 «Risky business: safety regulations, risk compensation, and individual » (2000) – sikkerhetskultur, ledelse, opplæring eller helse, ikke offentlig tilsyn
+- OK   6 utelatt W2096304082 «On the electrification of road transportation – A review of the enviro» (2015) – sikkerhetskultur, ledelse, opplæring eller helse, ikke offentlig tilsyn
+- OK   6 utelatt W1993120700 «Toward managed flexibility: The revival of labour inspection in the La» (2008) – beskrivelse av tilsyn i latinske land, uten effektmål
+- OK   6 utelatt W2342490589 «The hazardous nature of small scale underground mining in Ghana» (2016) – land utenfor avgrensningen, og ikke kategori 1–3
+- OK   6 utelatt W2167427303 «Prevention of bullying-related morbidity and mortality: a call for pub» (2010) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W1951884919 «Beyond Markets: Sociology, street‐level bureaucracy, and the managemen» (2011) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W2257228652 «Occupational Health and Safety and Organizational Commitment: Evidence» (2016) – land utenfor avgrensningen, og ikke kategori 1–3
+- OK   6 utelatt W2902714862 «What is a psychosocial work environment?» (2018) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W1880688632 «Beyond the fear of discretion: Flexibility, performance, and accountab» (2010) – om tilsyn eller regulering uten effektmål på skader eller etterlevelse (beskrivende, teoretisk eller kvalitativ)
+- OK   6 utelatt W4387252139 «Occupational health and safety issues in human-robot collaboration: St» (2023) – teknologi eller modellering for inspeksjon eller risiko, ikke effekt av offentlig tilsyn
+- OK   6 utelatt W2120390652 «Promoting sustainable compliance: Styles of labour inspection and comp» (2008) – Brasil, kvalitativ studie av tilsynsstil
+- OK   6 utelatt W2158194432 «Strengthening Labor Standards Enforcement through Partnerships with Wo» (2010) – samarbeid med arbeidstakerorganisasjoner i håndheving av lønnsregler, ikke effektstudie
+- OK   6 utelatt W2612475383 «Organization: A new focus on mine safety improvement in a complex oper» (2017) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W2460170270 «Summary of Notifiable Noninfectious Conditions and Disease Outbreaks: » (2015) – forekomst, registrering eller kostnader av skader, ikke effekt av tilsyn
+- OK   6 utelatt W2061187971 «Industries in the United States with Airborne Beryllium Exposure and E» (2004) – forekomst, registrering eller kostnader av skader, ikke effekt av tilsyn
+- OK   6 utelatt W2120527767 «UNDERSTANDING SMALL FIRM RESPONSES TO REGULATION:» (2005) – småbedrifters reaksjon på regulering, kvalitativ
+- OK   6 utelatt W2106731613 «A strategic approach to labour inspection» (2008) – strategisk tilnærming til tilsyn (ILO), beskrivende
+- OK   6 utelatt W4294326141 «Occupational Safety and Health Staging Framework for Decent Work» (2022) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W2133228244 «Watching the Games: public health surveillance for the Sydney 2000 Oly» (2003) – forekomst, registrering eller kostnader av skader, ikke effekt av tilsyn
+- OK   6 utelatt W2606521056 «Enforcing Labor Standards in Partnership with Civil Society: Can Co-en» (2017) – samhåndheving av arbeidsstandarder med sivilsamfunnet, kvalitativ
+- OK   6 utelatt W3123464680 «Police Training to Align Law Enforcement and HIV Prevention: Prelimina» (2011) – sikkerhetskultur, ledelse, opplæring eller helse, ikke offentlig tilsyn
+- OK   6 utelatt W2022947618 «Economic pressure, multi‐tiered subcontracting and occupational health» (2006) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W2794017531 «From Poker Games to Kitchen Tables: How Social Dynamics Affect Frontli» (2018) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W2110270077 «AN EVALUATION OF SAFETY PERFORMANCE MEASURES FOR CONSTRUCTION PROJECTS» (2003) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W3198430125 «The perceived risk of being infected at work: An application of the jo» (2021) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W2079930705 «China's Labour Law, Compliance and Flaws in Implementing Institutions» (2007) – land utenfor avgrensningen, og ikke kategori 1–3
+- OK   6 utelatt W2204910313 «Status of Occupational Health and Safety and Related Challenges in Exp» (2015) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W2973672779 «Using the past to map out the future of occupational health and safety» (2019) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W7132852011 «Conceptual Modeling of Data-Driven Occupational Safety Risk Control in» (2019) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W4281723531 «Occupational Safety and Health 5.0—A Model for Multilevel Strategic De» (2022) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W1964567066 «Study On Key Technologies Of Internet Of Things Perceiving Mine» (2011) – teknologi eller modellering for inspeksjon eller risiko, ikke effekt av offentlig tilsyn
+- OK   6 utelatt W2108956913 «Pathways to Enforcement: Labor Inspectors Leveraging Linkages with Soc» (2014) – land utenfor avgrensningen, og ikke kategori 1–3
+- OK   6 utelatt W2075852897 «Shortcomings of antibullying regulations: The case of Sweden» (2009) – om tilsyn eller regulering uten effektmål på skader eller etterlevelse (beskrivende, teoretisk eller kvalitativ)
+- OK   6 utelatt W2171463985 «A Deadly Consensus: Worker Safety and Regulatory Degradation under New» (2009) – kritisk analyse av britisk tilsynspolitikk, uten effektmål
+- OK   6 utelatt W4205878128 «A Novel Implementation of an AI-Based Smart Construction Safety Inspec» (2021) – land utenfor avgrensningen, og ikke kategori 1–3
+- OK   6 utelatt W1878101901 «The Uneasy Case for Product Liability» (2013) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W2071682435 «The impact of OSHA recordkeeping regulation changes on occupational in» (2007) – endring i registreringsreglene og skadetall, ikke tilsyn
+- OK   6 utelatt W2085774560 «Occupational Health and Safety in the Least Developed Countries-A Simp» (2001) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W2114709349 «Occupational Safety and Health in India: Now and the Future» (2012) – land utenfor avgrensningen, og ikke kategori 1–3
+- OK   6 utelatt W2994645234 «The politics of regulatory enforcement and compliance: Theorizing and » (2019) – om tilsyn eller regulering uten effektmål på skader eller etterlevelse (beskrivende, teoretisk eller kvalitativ)
+- OK   6 utelatt W3043737690 «Coal Mine Rescue Robots Based on Binocular Vision: A Review of the Sta» (2020) – teknologi eller modellering for inspeksjon eller risiko, ikke effekt av offentlig tilsyn
+- OK   6 utelatt W2916730497 «Occupational Accidents Assessment by Field of Activity and Investigati» (2019) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W2211658712 «Occupational Safety and Health in Peru» (2015) – land utenfor avgrensningen, og ikke kategori 1–3
+- OK   6 utelatt W4367173835 «Updated assessment of occupational safety and health hazards of climat» (2023) – sikkerhetskultur, ledelse, opplæring eller helse, ikke offentlig tilsyn
+- OK   6 utelatt W2042231723 «Occupational Safety and Health in Europe: Lessons from the Past, Chall» (2012) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W2750573116 «Automated Hardhat Detection for Construction Safety Applications» (2017) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W2037308411 «The building process as a tool towards an all-inclusive school. A Swed» (2008) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W2468223216 «Co‐enforcing Labor standards: the unique contributions of state and wo» (2016) – land utenfor avgrensningen, og ikke kategori 1–3
+- OK   6 utelatt W1926419697 «Regulating supply-chains to address the occupational health and safety» (2004) – om tilsyn eller regulering uten effektmål på skader eller etterlevelse (beskrivende, teoretisk eller kvalitativ)
+- OK   6 utelatt W3201287363 «Local religiosity, workplace safety, and firm value» (2021) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W2333392464 «Accidents Preventive Practice for High-Rise Construction» (2016) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W2946689878 «An Assessment of Occupational Health and Safety Regulations in Ghana: » (2019) – land utenfor avgrensningen, og ikke kategori 1–3
+- OK   6 utelatt W2911286103 «The Safe Use of Pesticides: A Risk Assessment Procedure for the Enhanc» (2019) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W3210504895 «International society of sport psychology position stand: mental healt» (2021) – sikkerhetskultur, ledelse, opplæring eller helse, ikke offentlig tilsyn
+- OK   6 utelatt W2338693208 «Occupational safety and health performance in the Pakistani constructi» (2016) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W1985790711 «Assessment of occupational injuries in Tendaho Agricultural Developmen» (2011) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W2183069230 «Survival, Economic Mobility and Community among Los Angeles Fruit Vend» (2013) – metodelitteratur, ikke en studie av tiltaket
+- OK   6 utelatt W2808419795 «Design for occupational safety and health of workers in construction i» (2018) – land utenfor avgrensningen, og ikke kategori 1–3
+- OK   6 utelatt W2097860821 «Labour Inspection: A Guide to the Profession» (2002) – lærebok for tilsynsmyndigheter (ILO)
+- OK   6 utelatt W4255640008 «Safety Law» (2018) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W2058645536 «Occupational Health and Safety for Agricultural Workers in Thailand» (2015) – land utenfor avgrensningen, og ikke kategori 1–3
+- OK   6 utelatt W1573333582 «ENFORCEMENT OF OCCUPATIONAL SAFETY AND HEALTH REGULATIONS IN NIGERIA: » (2014) – land utenfor avgrensningen, og ikke kategori 1–3
+- OK   6 utelatt W1997331554 «New tools and strategies for the inspection of the psychosocial workin» (2010) – beskrivelse av nye verktøy for psykososialt tilsyn (Danmark), uten effektmål
+- OK   6 utelatt W2896760956 «Enforcement of labor regulations and job flows: evidence from Brazilia» (2018) – Brasil, utenfor landavgrensningen for kategori 4–5
+- OK   6 utelatt W4307719879 «Advanced technologies for enhanced construction safety management: inv» (2022) – land utenfor avgrensningen, og ikke kategori 1–3
+- OK   6 utelatt W2113347171 «Bundling occupational safety with harm reduction information as a feas» (2009) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W4210457125 «Toward Improved Safety Culture in Academic and Industrial Chemical Lab» (2022) – sikkerhetskultur, ledelse, opplæring eller helse, ikke offentlig tilsyn
+- OK   6 utelatt W4200378039 «Occupational health and safety in initial vocational training: Reflect» (2021) – sikkerhetskultur, ledelse, opplæring eller helse, ikke offentlig tilsyn
+- OK   6 utelatt W2288487193 «Maintaining occupational safety and health levels during the financial» (2016) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W2101549174 «Prevention of work related eye injuries: long term assessment of the e» (2005) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W1481347385 «Moving forward towards a more effective model of regulatory enforcemen» (2004) – tilsyn på et annet område (mat, legemidler, skatt eller finans)
+- OK   6 utelatt W2102699682 «Institutional Performance and Compliance with EU Law: Czech Republic, » (2010) – om tilsyn eller regulering uten effektmål på skader eller etterlevelse (beskrivende, teoretisk eller kvalitativ)
+- OK   6 utelatt W1960859199 «A police education programme to integrate occupational safety and HIV » (2015) – sikkerhetskultur, ledelse, opplæring eller helse, ikke offentlig tilsyn
+- OK   6 utelatt W3196161824 «Occupational health and safety in agriculture – a brief report on orga» (2021) – sikkerhetskultur, ledelse, opplæring eller helse, ikke offentlig tilsyn
+- OK   6 utelatt W1978390146 «The Economics of Occupational Safety and Health» (2010) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W3113158975 «Can occupational safety and health problems be prevented or not? Explo» (2020) – land utenfor avgrensningen, og ikke kategori 1–3
+- OK   6 utelatt W2767216135 «Regulating factory safety in the Bangladeshi garment industry» (2018) – land utenfor avgrensningen, og ikke kategori 1–3
+- OK   6 utelatt W4409682557 «Predicting Workplace Hazard, Stress and Burnout Among Public Health In» (2025) – teknologi eller modellering for inspeksjon eller risiko, ikke effekt av offentlig tilsyn
+- OK   6 utelatt W2982113443 «Injury rate and risk factors among small-scale gold miners in Ghana» (2019) – land utenfor avgrensningen, og ikke kategori 1–3
+- OK   6 utelatt W2415615505 «Gender Equality and Trade Unions: A New Basis for Mobilisation?» (2001) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W1525412941 «ACCIDENT RISK IDENTIFICATION AND ITS IMPACT ANALYSES FOR STRATEGIC CON» (2015) – virksomhetenes egne HMS-systemer uten tilsyn, utelatt etter kriteriene
+- OK   6 utelatt W3023039240 «A Decision Support Model for Prioritization of Regulated Safety Inspec» (2020) – teknologi eller modellering for inspeksjon eller risiko, ikke effekt av offentlig tilsyn
+- OK   6 utelatt W4230179148 «Epidemiology of Injuries in National Collegiate Athletic Association W» (2021) – forekomst, registrering eller kostnader av skader, ikke effekt av tilsyn
+- OK   6 utelatt W2111815565 «Accounting for the cost of occupational accidents» (2004) – forekomst, registrering eller kostnader av skader, ikke effekt av tilsyn
+- OK   6 utelatt W2155518606 «Forced Labor: Coercion and Exploitation in the Private Economy» (2012) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W2976303367 «Development and evaluation of RAMP II - a practitioner’s tool for asse» (2019) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W2517470776 «Work injuries among migrant workers in Denmark» (2016) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W3007552155 «Assessment of Occupational Health and Safety among Scavengers in Gaza » (2020) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W1991141365 «Noise Exposure and Hearing Conservation in U.S. Coal Mines—A Surveilla» (2006) – forekomst, registrering eller kostnader av skader, ikke effekt av tilsyn
+- OK   6 utelatt W4224956339 «Critical Success Factors for Safety Program Implementation of Regenera» (2022) – land utenfor avgrensningen, og ikke kategori 1–3
+- OK   6 utelatt W2592506013 «Mending the hole in multilevel implementation: Administrative cooperat» (2017) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W4205260347 «Mapping the Third Republic: A Geographic Information System of France » (2021) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W4390838946 «Migrant Work, Gender and the Hostile Environment: A Human Rights Analy» (2024) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W2162810462 «Safety Culture in Combating Occupational Safety and Health Problems in» (2013) – land utenfor avgrensningen, og ikke kategori 1–3
+- OK   6 utelatt W2047119704 «Analysis of construction injury burden by type of work» (2000) – forekomst, registrering eller kostnader av skader, ikke effekt av tilsyn
+- OK   6 utelatt W3207169471 «Occupational Health & Safety and other worker wellbeing areas: Results» (2021) – Bangladesh, beskrivende tall fra tilsyn uten effektmål
+- OK   6 utelatt W2004607360 «Enforcing Social Europe through Labour Inspectorates: Changes in Capac» (2014) – kapasitet og samarbeid mellom tilsyn i Europa, beskrivende
+- OK   6 utelatt W2054827709 «Fatal injuries to teenage construction workers in the US» (2003) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W2042506294 «Occupational Health and Safety in China: The Case of State-Managed Ent» (2010) – land utenfor avgrensningen, og ikke kategori 1–3
+- OK   6 utelatt W4400989555 «Multinational Enforcement of Labor Law: Experimental Evidence on Stren» (2024) – håndheving gjennom multinasjonale innkjøpere, ikke offentlig tilsyn
+- OK   6 utelatt W2745382474 «Varieties of risk regulation in Europe: coordination, complementarity » (2017) – sammenligning av reguleringsregimer i Europa, uten effekt av tilsyn
+- OK   6 utelatt W4318263273 «Occupational exposure to respirable crystalline silica among US metal » (2023) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W3016601706 «The evolving nature of labour inspection, enforcement of employment ri» (2020) – om tilsyn eller regulering uten effektmål på skader eller etterlevelse (beskrivende, teoretisk eller kvalitativ)
+- OK   6 utelatt W2769325323 «Accuracy of identification of low or high risk lifting during standard» (2017) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W4210670037 «The Impact of Business Leaders’ Formal Health and Safety Training on t» (2022) – sikkerhetskultur, ledelse, opplæring eller helse, ikke offentlig tilsyn
+- OK   6 utelatt W2760284191 «Labor Unions and Occupational Safety: Event-Study Analysis Using Union» (2017) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W1556440607 «Occupational health and safety considerations for women employed in co» (2015) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W2949398161 «Safety Is the New Black: The Increasing Role of Wearables in Occupatio» (2019) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W2767283852 «Migrant workers’ access to remedy for exploitation in Australia: the r» (2017) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W3151409542 «Framework for addressing occupational safety of de-sludging operators:» (2021) – land utenfor avgrensningen, og ikke kategori 1–3
+- OK   6 utelatt W3165465470 «Occupational Safety of Municipal Police Officers: Assessing the Vulner» (2021) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W4407108191 «Integrated Noise Management Strategies in Industrial Environments: A F» (2025) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W3183252725 «Effectiveness of Natural Language Processing Based Machine Learning in» (2021) – teknologi eller modellering for inspeksjon eller risiko, ikke effekt av offentlig tilsyn
+- OK   6 utelatt W2306230060 «Informal work in a flexible labour market» (2016) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W2133442023 «MDI Exposure for Spray-On Truck Bed Lining» (2003) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W4200367327 «Understanding how managers balance the paradoxical nature of occupatio» (2021) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W4295067369 «Does Sunlight Kill Germs? Stock Market Listing and Workplace Safety» (2022) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W3110876999 «“No somos máquinas” (We are not machines): Worker perspectives of safe» (2020) – sikkerhetskultur, ledelse, opplæring eller helse, ikke offentlig tilsyn
+- OK   6 utelatt W2411133323 «Labor Inspections in the Developing World: Stylized Facts from the Ent» (2016) – om tilsyn eller regulering uten effektmål på skader eller etterlevelse (beskrivende, teoretisk eller kvalitativ)
+- OK   6 utelatt W4281686600 «“Our Work, Our Health, No One’s Concern”: Domestic Waste Collectors’ P» (2022) – land utenfor avgrensningen, og ikke kategori 1–3
+- OK   6 utelatt W2023953920 «Impact of the OSHA Trench and Excavation Standard on Fatal Injury in t» (2002) – effekt av en OSHA-standard (grøfter), ikke av tilsyn
+- OK   6 utelatt W2132844358 «Occupational Health and Safety Challenges in China—Focusing on Townshi» (2011) – land utenfor avgrensningen, og ikke kategori 1–3
+- OK   6 utelatt W1604423461 «Reporting on Occupational Health and Safety in Annual Reports: A Look » (2004) – metodelitteratur, ikke en studie av tiltaket
+- OK   6 utelatt W2590989366 «Spatiotemporal changes in both asset value and GDP associated with sei» (2017) – land utenfor avgrensningen, og ikke kategori 1–3
+- OK   6 utelatt W2936958424 «Briefing: Status of occupational safety and health in GCC construction» (2019) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W4405657864 «The Psychosocial Hierarchy of Controls: Effectively Reducing Psychosoc» (2024) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W2153368768 «‘Bridging the Gap’? Public and Private Regulation of Labour Standards » (2014) – land utenfor avgrensningen, og ikke kategori 1–3
+- OK   6 utelatt W2006855928 «The complementary roles of liability, regulation and insurance in safe» (2014) – virksomhetenes egne HMS-systemer uten tilsyn, utelatt etter kriteriene
+- OK   6 utelatt W2910536313 «Harms of Workplace Inspections for Im/Migrant Sex Workers in In-Call E» (2019) – om tilsyn eller regulering uten effektmål på skader eller etterlevelse (beskrivende, teoretisk eller kvalitativ)
+- OK   6 utelatt W4288077373 «Elevated exposures to respirable crystalline silica among engineered s» (2022) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W2065362037 «Case studies of hydrogen sulphide occupational exposure incidents in t» (2014) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W2885845630 «New Dimensions in Seismic Data Interpretation with 3-D Virtual Reality» (2005) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W4309607638 «An Institutional System Proposal for Advanced Occupational Safety and » (2022) – land utenfor avgrensningen, og ikke kategori 1–3
+- OK   6 utelatt W2551619988 «Assaults against U.S. law enforcement officers in the line-of-duty: si» (2016) – teknologi eller modellering for inspeksjon eller risiko, ikke effekt av offentlig tilsyn
+- OK   6 utelatt W4318619612 «Investigation of respirable coal mine dust (RCMD) and respirable cryst» (2023) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W7153278256 «Advances in Continuous Hazard Monitoring Systems for Workplace Safety» (2023) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W4220871181 «Safety regulation enforcement and production safety: The role of penal» (2022) – Kina, utenfor landavgrensningen for kategori 4–5
+- OK   6 utelatt W4214555989 «Occupational health and safety orientation in the oil and gas industry» (2022) – land utenfor avgrensningen, og ikke kategori 1–3
+- OK   6 utelatt W4321769548 «Occupational health and safety practices and associated factors among » (2023) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W4315433411 «Occupational injuries and contributing factors among industry park con» (2023) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W2090754450 «The relationship between macroeconomic and industry-specific business » (2015) – forekomst, registrering eller kostnader av skader, ikke effekt av tilsyn
+- OK   6 utelatt W2904618727 «Rapid Urban Land Expansion in Earthquake-Prone Areas of China» (2018) – land utenfor avgrensningen, og ikke kategori 1–3
+- OK   6 utelatt W4392956827 «Robotics, Artificial Intelligence, and Drones in Solar Photovoltaic En» (2024) – teknologi eller modellering for inspeksjon eller risiko, ikke effekt av offentlig tilsyn
+- OK   6 utelatt W2580198607 «Causes of Fall Hazards in Construction Site Management» (2017) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W4313494562 «Efektivitas Pengawasan Ketenagakerjaan Terhadap Upah Minimum Pekerja» (2022) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W311770468 «Latin American Labor Reforms: Evaluating Risk and Security» (2011) – land utenfor avgrensningen, og ikke kategori 1–3
+- OK   6 utelatt W2804522768 «Tools for Effective Regulation: Is “More” Always “Better”?» (2018) – om tilsyn eller regulering uten effektmål på skader eller etterlevelse (beskrivende, teoretisk eller kvalitativ)
+- OK   6 utelatt W2152548169 «Undeclared Work, Employer Tax Compliance, and Audits» (2010) – skattekontroll
+- OK   6 utelatt W2052058266 «Development of a Safety Communication and Recognition Program for Cons» (2015) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W2983473011 «Training Competences in Industrial Risk Prevention with Lego® Serious » (2019) – sikkerhetskultur, ledelse, opplæring eller helse, ikke offentlig tilsyn
+- OK   6 utelatt W4410300293 «Integrating Business Ethics into Occupational Health and Safety: An Ev» (2025) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W4323538116 «Occupational Safety and Health of Women in Mining» (2023) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W4411060033 «Workplace Safety in Industry 4.0 and Beyond: A Case Study on Risk Redu» (2025) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W2282622402 «Mine Occupational Safety and Health Leading Practice Adoption System (» (2015) – land utenfor avgrensningen, og ikke kategori 1–3
+- OK   6 utelatt W3127317103 «Development of a Conceptual Framework for Occupational Safety and Heal» (2021) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W3083367362 «Study on Intelligent Mine Based on the Application of 5G Wireless Comm» (2020) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W2463734901 «Enforcement of labor market regulations: heterogeneous compliance and » (2018) – om tilsyn eller regulering uten effektmål på skader eller etterlevelse (beskrivende, teoretisk eller kvalitativ)
+- OK   6 utelatt W4318588135 «Automatic Construction Hazard Identification Integrating On-Site Scene» (2023) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W4226292578 «Bringing in gender perspectives on systematic occupational safety and » (2022) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W1968175246 «Labour inspection in contemporary China: Like the Anglo‐Saxon model, b» (2014) – land utenfor avgrensningen, og ikke kategori 1–3
+- OK   6 utelatt W124626448 «Labour Administration Reforms in China» (2014) – land utenfor avgrensningen, og ikke kategori 1–3
+- OK   6 utelatt W4224279028 «Predicting the trends and cost impact of COVID-19 OSHA citations on US» (2022) – teknologi eller modellering for inspeksjon eller risiko, ikke effekt av offentlig tilsyn
+- OK   6 utelatt W61111229 «OSH in Figures: Occupational Safety and Health in the Transport Sector» (2012) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W2074410131 «CONFORMITY TO OCCUPATIONAL SAFETY AND HEALTH REGULATIONS IN MALAYSIAN » (2014) – land utenfor avgrensningen, og ikke kategori 1–3
+- OK   6 utelatt W2808089230 «Identifying the Scope of Safety Issues and Challenges to Safety Manage» (2018) – sikkerhetskultur, ledelse, opplæring eller helse, ikke offentlig tilsyn
+- OK   6 utelatt W3109124054 «Conditions for workplace learning: a gender divide?» (2020) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W2114468634 «Party Government and Variation in Corporate Influence on Agency Decisi» (2013) – om tilsyn eller regulering uten effektmål på skader eller etterlevelse (beskrivende, teoretisk eller kvalitativ)
+- OK   6 utelatt W4390815580 «Analyzing the Unsafe Behaviors of Frontline Construction Workers Based» (2024) – sikkerhetskultur, ledelse, opplæring eller helse, ikke offentlig tilsyn
+- OK   6 utelatt W4393050031 «Insights from the Field: A Comprehensive Analysis of Industrial Accide» (2024) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W4309309788 «Bayesian Network Models for Evaluating the Impact of Safety Measures C» (2022) – teknologi eller modellering for inspeksjon eller risiko, ikke effekt av offentlig tilsyn
+- OK   6 utelatt W2001967857 «Designing of dynamic labor inspection system for construction industry» (2011) – om tilsyn eller regulering uten effektmål på skader eller etterlevelse (beskrivende, teoretisk eller kvalitativ)
+- OK   6 utelatt W2769040041 «Extreme exploitation in Southeast Asia waters: Challenges in progressi» (2017) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W3189890222 «COBOTS in Industry 4.0: Safe and Efficient Interaction» (2021) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W1519255185 «Current Trends and Future Developments in Occupational Health and Safe» (2012) – forekomst, registrering eller kostnader av skader, ikke effekt av tilsyn
+- OK   6 utelatt W2618885717 «From Quality Control to Labor Protection: ISO 9001 and Workplace Safet» (2017) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W2588763288 «Two spheres of regulation: Balancing social and economic goals» (2017) – om tilsyn eller regulering uten effektmål på skader eller etterlevelse (beskrivende, teoretisk eller kvalitativ)
+- OK   6 utelatt W2047785628 «Reforming the Anglo-Saxon Model of Labour Inspection: The Case of the » (2009) – beskrivelse av tilsynsreform i Irland, uten effektmål
+- OK   6 utelatt W3216762236 «Governing labour regulations in the future of work: lessons from labou» (2021) – land utenfor avgrensningen, og ikke kategori 1–3
+- OK   6 utelatt W4385584080 «Promoting employed worker status on digital platforms: how France’s la» (2023) – om tilsyn eller regulering uten effektmål på skader eller etterlevelse (beskrivende, teoretisk eller kvalitativ)
+- OK   6 utelatt W2429482923 «Non‐compliance with minimum wage laws in Latin America: The importance» (2016) – land utenfor avgrensningen, og ikke kategori 1–3
+- OK   6 utelatt W2329899975 «128. OSHA Enforcement Procedures for the Occupational Exposure to Bloo» (2000) – om tilsyn eller regulering uten effektmål på skader eller etterlevelse (beskrivende, teoretisk eller kvalitativ)
+- OK   6 utelatt W4409658078 «Analysis of the Causes of Falling Accidents on Building Construction S» (2025) – land utenfor avgrensningen, og ikke kategori 1–3
+- OK   6 utelatt W4237844521 «Street-level bureaucrats and regulatory deterrence» (2015) – om tilsyn eller regulering uten effektmål på skader eller etterlevelse (beskrivende, teoretisk eller kvalitativ)
+- OK   6 utelatt W4200020016 «A descriptive analysis of 2020 California Occupational Safety and Heal» (2021) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W2055484641 «MODELLING THE APPLICATION OF WORKPLACE SAFETY AND HEALTH ACT IN LITHUA» (2010) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W2170035498 «Mandate, Discretion, and Professionalisation in an Employment Standard» (2012) – om tilsyn eller regulering uten effektmål på skader eller etterlevelse (beskrivende, teoretisk eller kvalitativ)
+- OK   6 utelatt W4392197650 «Analyzing Vulnerabilities of Disaster Risk Management Systems of Local» (2024) – tilsyn på et annet område (mat, legemidler, skatt eller finans)
+- OK   6 utelatt W3028793653 «Complementarities between Operations and Occupational Health and Safet» (2021) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W4220976456 «The role of management commitment in adoption of occupational health a» (2022) – sikkerhetskultur, ledelse, opplæring eller helse, ikke offentlig tilsyn
+- OK   6 utelatt W4392179915 «Professions, power and paradox in occupational safety and health in th» (2024) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W4396225051 «The interrelation between happiness and workplace safety: A bibliometr» (2024) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W4382777299 «Trabalhos análogos à escravidão: uma análise de indivíduos escravizado» (2023) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W2884178267 «Are labour inspections effective when labour regulations vary accordin» (2018) – Peru, utenfor landavgrensningen for kategori 4–5
+- OK   6 utelatt W2045596678 «Policy Instruments for Managing EU Road Safety Targets: Road Safety Im» (2012) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W204007784 «Prioritization of Factors Influencing Safety Performance on Constructi» (2013) – metodelitteratur, ikke en studie av tiltaket
+- OK   6 utelatt W2100569494 «Improving the occupational health and safety measures in the Australia» (2007) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W4403324793 «Occupational health and safety in the construction industry: a compreh» (2024) – land utenfor avgrensningen, og ikke kategori 1–3
+- OK   6 utelatt W4406230523 «Assessment of Occupational Accidents in the Malaysian Construction Ind» (2025) – land utenfor avgrensningen, og ikke kategori 1–3
+- OK   6 utelatt W1734858515 «APPLICATION OF RESPONSIVE REGULATION IN THE FOOD SAFETY REGULATIONS OF» (2013) – tilsyn på et annet område (mat, legemidler, skatt eller finans)
+- OK   6 utelatt W4409051465 «The impact of product market competition on workplace safety» (2025) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W2979737716 «Market Integration, Cross-Border Recruitment, and Enforcement of Labou» (2019) – om tilsyn eller regulering uten effektmål på skader eller etterlevelse (beskrivende, teoretisk eller kvalitativ)
+- OK   6 utelatt W2490065114 «Resilience Within a Weaker Work Environment System— The Position and I» (2013) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W1996210428 «A comparative analysis between contractors’ and inspectors’ perception» (2012) – land utenfor avgrensningen, og ikke kategori 1–3
+- OK   6 utelatt W3014300229 «Compliance with occupational health and safety regulations : a review » (2014) – land utenfor avgrensningen, og ikke kategori 1–3
+- OK   6 utelatt W2796384293 «Introduction: Occupational Health and Safety in Small and Medium Sized» (2011) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W4415434776 «Analysis of Occupational Safety and Health at the Construction Site Ba» (2025) – teknologi eller modellering for inspeksjon eller risiko, ikke effekt av offentlig tilsyn
+- OK   6 utelatt W4411938766 «Analysis of the Effect of Management Commitment, Safety Compliance and» (2025) – sikkerhetskultur, ledelse, opplæring eller helse, ikke offentlig tilsyn
+- OK   6 utelatt W2208346184 «Less energetic but more enlightened?: Exploring the fair work ombudsma» (2013) – om tilsyn eller regulering uten effektmål på skader eller etterlevelse (beskrivende, teoretisk eller kvalitativ)
+- OK   6 utelatt W2519795644 «Employment Standards Enforcement: A Scan of Employment Standards Compl» (2016) – om tilsyn eller regulering uten effektmål på skader eller etterlevelse (beskrivende, teoretisk eller kvalitativ)
+- OK   6 utelatt W4412882058 «Integrating Occupational Health and Safety into Enterprise Risk Manage» (2025) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W4393943895 «Ensuring Worker Safety at Construction Sites Using Geofence» (2024) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W2560815933 «Labor inspection and labor standards enforcement in Quebec: contingenc» (2016) – om tilsyn eller regulering uten effektmål på skader eller etterlevelse (beskrivende, teoretisk eller kvalitativ)
+- OK   6 utelatt W2898860596 «Intervención sindical y salud laboral en la Unión Europea: dimensiones» (2018) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W241796694 «Labour inspection sanctions: law and practice of national labour inspe» (2013) – om tilsyn eller regulering uten effektmål på skader eller etterlevelse (beskrivende, teoretisk eller kvalitativ)
+- OK   6 utelatt W311986172 «Labour inspection and employment relationship» (2013) – om tilsyn eller regulering uten effektmål på skader eller etterlevelse (beskrivende, teoretisk eller kvalitativ)
+- OK   6 utelatt W4399814142 «Causes of child labor and working conditions in Ethiopia: evidence fro» (2024) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W4398781804 «Mobile spaces of control and moral geographies: places of internal bor» (2024) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W2998835094 «Reducing the gap between work as done and work as imagined on construc» (2020) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W3206606514 «The Community of Practice: A Method for Cooperative Learning of Occupa» (2021) – om tilsyn eller regulering uten effektmål på skader eller etterlevelse (beskrivende, teoretisk eller kvalitativ)
+- OK   6 utelatt W3119586863 «Guardians of Workers’ Bodies? Trade Unions and the History of Occupati» (2020) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W3128214797 «Being There No Matter What: Working in Publicly Provided Homecare Serv» (2021) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W4411117166 «Cohort Profile: the Work Environment and Health in Denmark study» (2025) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W1987367746 «Grid-group cultural theory and the causal mechanism approach as requis» (2013) – metodelitteratur, ikke en studie av tiltaket
+- OK   6 utelatt W4399046136 «Discrimination during COVID-19: Assessing migrant workers’ vulnerabili» (2024) – tilsyn på et annet område (mat, legemidler, skatt eller finans)
+- OK   6 utelatt W2750554675 «Comparative Study of the Psychosocial Risks Prevention Enforcement by » (2017) – sammenligning av tilsyn med psykososiale risikoer i Europa, beskrivende
+- OK   6 utelatt W4401402993 «Transgovernmental Labour Standards Enforcement in a Pan‐European Labou» (2024) – sikkerhetskultur, ledelse, opplæring eller helse, ikke offentlig tilsyn
+- OK   6 utelatt W2030390597 «Strategies to reduce safety violations for working from heights in con» (2014) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W2018713211 «PSM system upgrade in response to an Occupational Safety and Health Ad» (2009) – metodelitteratur, ikke en studie av tiltaket
+- OK   6 utelatt W2140664770 «REACH and occupational health and safety» (2014) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W4407886331 «The Legal Framework for Occupational Health and Safety in the Manufact» (2024) – land utenfor avgrensningen, og ikke kategori 1–3
+- OK   6 utelatt W4399731986 «Assessment of Factors Affecting the Implementation of Occupational Hea» (2024) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W2035481306 «Building camps and work related injuries» (2004) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W4399072353 «Design and optimization of intelligent ventilation system in coal mine» (2024) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W2946032770 «What Shall we do with the Drunken Sailor? Product Safety in the Afterm» (2019) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W226287747 «Labour Administration and Inspection Programme LAB/ADMIN Labour inspec» (2011) – om tilsyn eller regulering uten effektmål på skader eller etterlevelse (beskrivende, teoretisk eller kvalitativ)
+- OK   6 utelatt W7137982361 «A new machine learning framework for occupational accidents forecastin» (2026) – teknologi eller modellering for inspeksjon eller risiko, ikke effekt av offentlig tilsyn
+- OK   6 utelatt W4415163542 «High-Altitude Fall Accidents in Construction: A Text Mining Analysis o» (2025) – metodelitteratur, ikke en studie av tiltaket
+- OK   6 utelatt W2788634779 «A model to improve the effectiveness of the occupational health and sa» (2008) – land utenfor avgrensningen, og ikke kategori 1–3
+- OK   6 utelatt W4390696524 «Approaches to Improving Occupational Health and Safety of the Nigerian» (2024) – land utenfor avgrensningen, og ikke kategori 1–3
+- OK   6 utelatt W4413414383 «Identification of needs of integrated approaches of occupational healt» (2025) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W3213679621 «Occupational Safety and Health Administration in Composite Industry» (2021) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W4411455473 «Occupational Health and Labor Unions» (2025) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W226060947 «Labour Inspection in Italy» (2011) – om tilsyn eller regulering uten effektmål på skader eller etterlevelse (beskrivende, teoretisk eller kvalitativ)
+- OK   6 utelatt W4394574697 «Beyond the law-in-the-books: Labour enforcement in Senegal» (2024) – land utenfor avgrensningen, og ikke kategori 1–3
+- OK   6 utelatt W4310348371 «Peran Pengawas Ketenagakerjaan Dinas Tenaga Kerja Provinsi Sumatera Ut» (2022) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W4391260531 «Implementation of an Occupational Safety and Health Management system » (2024) – land utenfor avgrensningen, og ikke kategori 1–3
+- OK   6 utelatt W2981832952 «Occupational health and safety in the construction sector» (2019) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W2886303673 «ANALISIS YURIDIS TERHADAP POLITIK HUKUM KEWENANGAN PENGAWAS KETENAGAKE» (2017) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W2199901501 «Labour inspection systems: strengthening enforcement in times of crisi» (2013) – om tilsyn eller regulering uten effektmål på skader eller etterlevelse (beskrivende, teoretisk eller kvalitativ)
+- OK   6 utelatt W3027703332 «Working environment regulation in Norway and Denmark» (2018) – beskrivelse av reguleringsregimene i Norge og Danmark uten effektmål; brukes som bakgrunn
+- OK   6 utelatt W4285453173 «Compliance and Enforcement in Italian Labour Law» (2021) – om tilsyn eller regulering uten effektmål på skader eller etterlevelse (beskrivende, teoretisk eller kvalitativ)
+- OK   6 utelatt W3129077520 «Convergence in administrative implementation styles in the European Un» (2021) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W4205106944 «RIGHT OF MIGRANT WORKERS TO OCCUPATIONAL HEALTH AND SAFETY UNDER MALAY» (2021) – land utenfor avgrensningen, og ikke kategori 1–3
+- OK   6 utelatt W2107487572 «Occupational Health and Safety Duties to Protect Outworkers: The Failu» (2007) – om tilsyn eller regulering uten effektmål på skader eller etterlevelse (beskrivende, teoretisk eller kvalitativ)
+- OK   6 utelatt W2487126671 «The contribution of ontologies to the creation of knowledge bases for » (2013) – teknologi eller modellering for inspeksjon eller risiko, ikke effekt av offentlig tilsyn
+- OK   6 utelatt W7133135822 «Development of Legislation on the Protection of Human Rights in the Fi» (2026) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W3135558834 «Evaluation of occupational safety and health at construction site in s» (2021) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W125560291 «The Cost of Company Occupational Accidents: An Activity-Based Analysis» (2002) – forekomst, registrering eller kostnader av skader, ikke effekt av tilsyn
+- OK   6 utelatt W3035208538 «Numerical Modelling of Ground Penetrating Radar for Potash Mine Safety» (2019) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W1608206918 «Development of an Automated Safety Assessment Framework for Constructi» (2009) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W4411782455 «Development of Safety Domain Ontology Knowledge Base for Fall Accident» (2025) – teknologi eller modellering for inspeksjon eller risiko, ikke effekt av offentlig tilsyn
+- OK   6 utelatt W2560769169 «Labor inspection and wage theft in Brazil: Justice at the street level» (2016) – land utenfor avgrensningen, og ikke kategori 1–3
+- OK   6 utelatt W3039542178 «Human Right to labor protection in Ukraine: current situation and the » (2020) – land utenfor avgrensningen, og ikke kategori 1–3
+- OK   6 utelatt W2027070575 «An Overview of Construction Injuries and Fatalities in the Gaza Strip» (2007) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W4415816497 «Assessing the risks of applying artificial intelligence to occupationa» (2025) – teknologi eller modellering for inspeksjon eller risiko, ikke effekt av offentlig tilsyn
+- OK   6 utelatt W4413016954 «Occupational Safety Research Needs in the Field of Robotics and Autono» (2025) – teknologi eller modellering for inspeksjon eller risiko, ikke effekt av offentlig tilsyn
+- OK   6 utelatt W4402069032 «Strengthening Workplace Safety: A Comprehensive Review and Enhancement» (2024) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W4402854021 «Indoor environment and user perceptions in offices in Greenland compar» (2024) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W2895213137 «Social dumping — et særligt problem for byggebranchen?» (2015) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W7124718189 «The impact of addictive substances on employees’ job performance and w» (2026) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W4389834212 «Revitalization of Mandatory Employment Reporting to Support Implementa» (2023) – metodelitteratur, ikke en studie av tiltaket
+- OK   6 utelatt W4387958147 «Analysis of Non-Conformities in Labor Inspection Regulations in Indone» (2023) – land utenfor avgrensningen, og ikke kategori 1–3
+- OK   6 utelatt W4297243130 «Posting of Third Country Nationals from Slovenia Safety and Health Con» (2022) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W4402463128 «BOGUS SELF-EMPLOYMENT IN THE CONSTRUCTION SECTOR AND THE POSTING OF WO» (2024) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W2808586742 «Particularities of occupational health and safety management in the po» (2018) – virksomhetenes egne HMS-systemer uten tilsyn, utelatt etter kriteriene
+- OK   6 utelatt W4390726105 «Occupational health and safety in the global garment industry» (2024) – forekomst, registrering eller kostnader av skader, ikke effekt av tilsyn
+- OK   6 utelatt W4390697171 «Occupational health and safety risk management in the field of laborat» (2024) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W7127038209 «Aspects of Legal Protection of Health Workers Regarding Occupational S» (2026) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W4409559031 «LEGAL REVIEW OF JUSTICE IN OCCUPATIONAL SAFETY AND HEALTH PROTECTION» (2024) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W4415295288 «Management Commitment to Compliance with Occupational Safety and Healt» (2025) – om tilsyn eller regulering uten effektmål på skader eller etterlevelse (beskrivende, teoretisk eller kvalitativ)
+- OK   6 utelatt W4409763515 «Detection of Transmission Line Insulator Defect Based on Improved YOLO» (2025) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W7153161551 «Biomechanical assessment of manual handling to enhance workplace safet» (2026) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W2325320083 «Kantian Police» (2014) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W2519029865 «Wage reduction and Labor inspection in Argentina» (2016) – land utenfor avgrensningen, og ikke kategori 1–3
+- OK   6 utelatt W7162097845 «Labor-Law Compliance in an Informal Labor Market» (2026) – om tilsyn eller regulering uten effektmål på skader eller etterlevelse (beskrivende, teoretisk eller kvalitativ)
+- OK   6 utelatt W4386889697 «Labour inspection after the civil war in Spain. Regulatory interventio» (2023) – om tilsyn eller regulering uten effektmål på skader eller etterlevelse (beskrivende, teoretisk eller kvalitativ)
+- OK   6 utelatt W1513384447 «Effectiveness of Labour Law and the Role of Labour Inspection in Japan» (2013) – land utenfor avgrensningen, og ikke kategori 1–3
+- OK   6 utelatt W7115719186 «How do labour inspections deal with the transformations of work?» (2025) – om tilsyn eller regulering uten effektmål på skader eller etterlevelse (beskrivende, teoretisk eller kvalitativ)
+- OK   6 utelatt W3171611510 «Legal Action on Labour Inspection Memo in Industrial Relations in Indo» (2021) – land utenfor avgrensningen, og ikke kategori 1–3
+- OK   6 utelatt W4242364862 «Labour Inspection in Contemporary China: Like the Anglo-Saxon Model, b» (2019) – land utenfor avgrensningen, og ikke kategori 1–3
+- OK   6 utelatt W2546451532 «The Implementation of Rights and Guarantees of Pregnant Women in Labou» (2016) – sikkerhetskultur, ledelse, opplæring eller helse, ikke offentlig tilsyn
+- OK   6 utelatt W2182811128 «E-Government: Cloud solutions in Labor Regulatory Area in Greece» (2012) – om tilsyn eller regulering uten effektmål på skader eller etterlevelse (beskrivende, teoretisk eller kvalitativ)
+- OK   6 utelatt W1998396188 «Injury prevention and occupational safety: four questions, three answe» (2001) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W7131299003 «From enforcers to alliance builders: (re)configuring occupational iden» (2026) – om tilsyn eller regulering uten effektmål på skader eller etterlevelse (beskrivende, teoretisk eller kvalitativ)
+- OK   6 utelatt W7171978410 «Digital Technologies in Occupational Health and Safety Management in N» (2026) – land utenfor avgrensningen, og ikke kategori 1–3
+- OK   6 utelatt W3217042456 «Deteriorating working conditions in elder care:» (2021) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W4301036097 «‘What should we do instead?’ Gender-equality projects and feminist cri» (2016) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W3162287067 «The Human Right to Workplace Safety in a Pandemic» (2021) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W2517344417 «The labor inspection in Spain and its renewed legal framework.» (2016) – om tilsyn eller regulering uten effektmål på skader eller etterlevelse (beskrivende, teoretisk eller kvalitativ)
+- OK   6 utelatt W4238835402 «A Second Regulatory Divide? Labor Inspection Regimes in Comparative Hi» (2012) – om tilsyn eller regulering uten effektmål på skader eller etterlevelse (beskrivende, teoretisk eller kvalitativ)
+- OK   6 utelatt W7159668731 «Precarious Work and Legal Protection: Insights into the Implementation» (2026) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W2946387071 «GENERAL CONSIDERATIONS ON LABOUR INSPECTION» (2018) – om tilsyn eller regulering uten effektmål på skader eller etterlevelse (beskrivende, teoretisk eller kvalitativ)
+- OK   6 utelatt W4406523384 «Securing compliance with standards of occupational health and safety: » (2025) – om tilsyn eller regulering uten effektmål på skader eller etterlevelse (beskrivende, teoretisk eller kvalitativ)
+- OK   6 utelatt W4297243200 «Distacco comunitario e ispezione del lavoro» (2022) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W4205537983 «Social partners, labour inspectorates and the enforcement of the EUs s» (2021) – om tilsyn eller regulering uten effektmål på skader eller etterlevelse (beskrivende, teoretisk eller kvalitativ)
+- OK   6 utelatt W2897496823 «New arrangement for laser safety in Israel» (2005) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W7158590960 «Root Cause Analysis Quality and Incident Recurrence in U.S. Constructi» (2026) – om tilsyn eller regulering uten effektmål på skader eller etterlevelse (beskrivende, teoretisk eller kvalitativ)
+- OK   6 utelatt W7128916566 «The mismatch between conceptualization and measurements of safety perf» (2026) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W7125639833 «Industrial fires in Bangladesh and pathways to prevention» (2026) – land utenfor avgrensningen, og ikke kategori 1–3
+- OK   6 utelatt W7138850845 «Enhancing Legal Protections for Workers in Industrial Accidents: Towar» (2025) – land utenfor avgrensningen, og ikke kategori 1–3
+- OK   6 utelatt W7132815251 «The Occupational Safety and Health Compliance in the Department of Lab» (2026) – om tilsyn eller regulering uten effektmål på skader eller etterlevelse (beskrivende, teoretisk eller kvalitativ)
+- OK   6 utelatt W4417486378 «STRATEGIES TO ENHANCE OCCUPATIONAL HEALTH AND SAFETY ACCOUNTABILITY IN» (2025) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W7165615188 «Influence of Artificial Intelligence Technology Integration on Occupat» (2026) – land utenfor avgrensningen, og ikke kategori 1–3
+- OK   6 utelatt W2595615276 «Displacements in organisations’ responses to the inspections of their » (2014) – kvalitativ studie av virksomheters reaksjon på psykososialt tilsyn i Danmark, uten effektmål
+- OK   6 utelatt W7140678253 «Advances in data-driven workplace safety risk prediction systems for p» (2026) – teknologi eller modellering for inspeksjon eller risiko, ikke effekt av offentlig tilsyn
+- OK   6 utelatt W7148408416 «Artificial Intelligence and Workplace Safety in the Oil and Gas Indust» (2026) – teknologi eller modellering for inspeksjon eller risiko, ikke effekt av offentlig tilsyn
+- OK   6 utelatt W7225234608 «INTEGRATION OF LABOUR INSPECTION: A LEGAL ASSESSMENT AND MODEL PROPOSA» (2026) – om tilsyn eller regulering uten effektmål på skader eller etterlevelse (beskrivende, teoretisk eller kvalitativ)
+- OK   6 utelatt W7223682439 «Who supervises workplace AI? Poland's implementation of the AI Act and» (2026) – teknologi eller modellering for inspeksjon eller risiko, ikke effekt av offentlig tilsyn
+- OK   6 utelatt W7224927245 «Regulating Platform Work: International and European Standards as Benc» (2026) – land utenfor avgrensningen, og ikke kategori 1–3
+- OK   6 utelatt W7225112605 «Symbolic Policy without Pay Transparency in Croatia» (2026) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W7225407353 «Improving Occupational Safety Management Systems Through the Applicati» (2026) – teknologi eller modellering for inspeksjon eller risiko, ikke effekt av offentlig tilsyn
+- OK   6 utelatt 019c92d0d57e-92270b90-8fd8-4a35-ac10-44dd53f06dec «Tilsynspolitikk og omstilling : en studie av Arbeidstilsynet» (2005) – masteroppgave om omstillingen i Arbeidstilsynet, ikke om effekten av tilsyn
+- OK   6 utelatt 019913765dd1-f6de6a58-3ce9-4765-be3b-1c1127545cc8 «Elevassistenter i videregående skole sine opplevelser av sin arbeidssi» (2020) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt 01a013abb8e1-3ee87eae-59f5-4384-af1b-0e7e6842c79b «Når en arbeidsbelastning utvikler seg over tid» (2026) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt 019904509afe-f2ea1e02-ef66-411a-ad34-4fb6ecbdf781 «ForBedringsundersøkelsen og systematisk HMS-arbeid i helseforetak» (2024) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt 019929974356-416987f0-73d6-4de8-9d66-e0dcd1a69f9f «En vurdering av Forsvarets implementering av styringssystem for HMS. I» (2011) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt 0198cc5e18e0-ad658b98-ec08-4580-b918-6b84931ecd9d «Dieseleksoseksponering i petroleumsnæringen - En kunnskapsoppsummering» (2024) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt 0198cc5d8732-27006b75-a958-482b-ac8b-7d2efe38b762 «Støy i arbeidslivet og helse» (2013) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt 0198cc7fe7c4-1b1509ec-f934-4bf3-bda3-8646d8a54608 «Helseproblemer og ulykker i bygg og anlegg. Rapport 2024.» (2025) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt 019e3acb0023-d043a5bf-f693-462c-98e7-07e35b823db5 «Effekten av tilsyn, helse- og miljø-tiltak på helsen til innsatte i fe» (2026) – tilsyn i fengsel, ikke arbeidsmiljøtilsyn
+- OK   6 utelatt 0198cc5d2620-9478f7d7-e137-4844-b81d-dcffcc77a6ca «Bruk av "tvangsmidler" som ledd i administrativ tilsynsvirksomhet» (2007) – juridisk analyse av tvangsmidler i tilsyn, ikke effekt
+- OK   6 utelatt 019904b3154b-d824236f-aaf7-472c-a5a6-9619f0afb44d «Tilsyn som oppfølgingsmekanisme for å sikre at kommunenes risiko- og s» (2016) – tilsyn med kommunal beredskap, ikke arbeidsmiljø
+- OK   6 utelatt 0198cc7d0016-37001055-9fe7-444d-a307-d8a2556cedd7 «ST3 - Kartlegging av is- og snøforekomst i Barentshavet; Hovedfunn og » (2019) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt 0198cc6b31ca-62bfad3f-30fb-4662-91e1-101bb66925c2 «Dieseleksoseksponering i petroleumsnæringen. En kunnskapsoppsummering» (2023) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt 0198cc734386-cb572904-d44e-4233-b4ab-2c463d1ce109 «Formaldehyd fra formaldehydfrigjørende kjemikalier i petroleumsnæringe» (2024) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt 0198cc5e462d-3120e05b-da48-4509-bcc5-3e5a5ea6bb65 «Posttraumatisk stresslidelse (PTSD) og arbeidslivet» (2011) – sikkerhetskultur, ledelse, opplæring eller helse, ikke offentlig tilsyn
+- OK   6 utelatt 01a10fc4ea9d-f98b1afd-fc5b-4412-b2d1-7af93630a613 «H-verdi som sikkerhetsindikator i norsk anleggsbransje» (2026) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt 0198cc7df529-56a5bf57-d1f0-4838-b756-5b5a6657d5a0 «Midlertidig ansettelsesformer og helse – en kunnskapsoversikt» (2014) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt 0198cc97ad03-8db75475-1989-4df0-918c-17384ff2a194 «Arbeidsmiljø og helse blant innvandrerpopulasjoner. En systematisk gje» (2019) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt 0198e62c11fa-4c09e168-becd-4568-ac90-34b118dc4c23 «Mulighetsrommet for arbeidslivskriminalitet fra anskaffelsesfasen til » (2021) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt 0198e618d275-c7b0131d-2861-4d4c-acad-c567bb121ddc «Seriøsitet i Statsbygg: En kvalitativ studie av seriøsitetsarbeid på o» (2020) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt KU-8e0cdb77-6894-4756-8a59-589d6ca66b1c «Vurdering av organisatoriske faktorer og tiltak i ulykkesgranskning» (2009) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt KU-ca5b57af-94b0-4396-a898-b0bdcaf1a17a «Vurdering av organisatoriske faktorer og tiltak i ulykkesgranskning» (2009) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt KU-a1f0b952-8ddc-458a-b4e3-862df74c9c8b «Systematisk HMS-arbeid 2025» (2026) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt KU-6180ceee-0986-4984-b87c-9fe35775b73f «Formaldehyd fra formaldehydfrigjørende kjemikalier i petroleumsnæringe» (2024) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt LI-4df9dfrr2kx1kpc9 «systematiskt-arbetsmiljoarbete-mallar-startpaket-handbok-09-1-blankett» (2018) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt LI-t342h9kmrg3mq0dr «systematiskt-arbetsmiljoarbete-mallar-startpaket-handbok-bilaga-1-fort» (2018) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt LI-x71c1hmrvkhb20dh «systematiskt-arbetsmiljoarbete-mallar-startpaket-handbok-08-3-forteckn» (2019) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt LI-x6731rvgv7ggd11r «systematiskt-arbetsmiljoarbete-exempel-startpaket-handbok-00-forsattss» (2018) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt LI-w56256d3t4g7x2pl «systematiskt-arbetsmiljoarbete-mallar-startpaket-handbok-10-1-blankett» (2018) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt LI-7hjdhjq05pw13tt4 «systematiskt-arbetsmiljoarbete-mallar-startpaket-handbok-10-1-blankett» (2018) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt LI-w693f1kctd2l2t4f «systematiskt-arbetsmiljoarbete-mallar-startpaket-handbok-08-3-forteckn» (2019) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt LI-blmhlmvg8dnrgkq7 «systematiskt-arbetsmiljoarbete-mallar-startpaket-handbok-09-rapportera» (2018) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt LI-blmhlmwk8th8kxck «systematiskt-arbetsmiljoarbete-mallar-startpaket-handbok-05-fordelning» (2018) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt LI-jstphs6xgtq70rd9 «systematiskt-arbetsmiljoarbete-exempel-startpaket.zip» (2018) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt LI-k273qb1gh91gtpt7 «Liten guide för att komma igång med systematiskt arbetsmiljöarbete, SA» (2020) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt LI-hrsrxk7zfk7x0pk2 «systematiskt-arbetsmiljoarbete-mallar-startpaket-handbok-bilaga-1-fort» (2018) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt LI-9klgklw57dfnbc87 «systematiskt-arbetsmiljoarbete-mallar-startpaket-handbok-07-undersoka-» (2018) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt LI-13503353 «Kunskapsöversikt : den goda arbetsmiljön och dess indikatorer» (2012) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt LI-q4r184m2nvr7bhrq «Makt och möjlighet att förändra? : Systematiskt arbetsmiljöarbete i kö» (2021) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt LI-16412387 «Inspektion av systematiskt arbetsmiljöarbete vid polismyndigheterna oc» (2014) – tilsynsrapport om én sektor (politiet), ikke en effektstudie
+- OK   6 utelatt LI-16412406 «Inspektion av systematiskt arbetsmiljöarbete vid polismyndigheterna oc» (2014) – vedlegg til LI-16412387
+- OK   6 utelatt LI-11998832 «Tillsynskampanj 2002 : systematiskt arbetsmiljöarbete, arbetsanpassnin» (2002) – rapport fra en svensk tilsynskampanje uten effektmål
+- OK   6 utelatt LI-11998230 «Systematiskt arbetsmiljöarbete i småföretag : tillsynskampanj 2001» (2001) – rapport fra en svensk tilsynskampanje uten effektmål
+- OK   6 utelatt LI-9700266 «Systematiskt arbetsmiljöarbete i småföretag : vad kan externa aktörer » (2004) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt FI-3amk.87421 «Pelastustoimen mittarit : katsaus kansainvälisiin mittareihin» (2016) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W2053984190 «Does Regulatory Enforcement Work? A Panel Analysis of OSHA Enforcement» (1993) – fra før 2000, utenfor perioden i kriteriene
+- OK   6 utelatt W2130311540 «OSHA enforcement and workplace injuries: A behavioral approach to risk» (1990) – fra før 2000, utenfor perioden i kriteriene
+- OK   6 utelatt W2130514831 «The Impact of Occupational Safety and Health Regulation» (1979) – fra før 2000, utenfor perioden i kriteriene
+- OK   6 utelatt W2067340145 «Direct and Indirect Effects of Regulation: A New Look at OSHA's Impact» (1985) – fra før 2000, utenfor perioden i kriteriene
+- OK   6 utelatt W1969015590 «If OSHA is So Bad, Why is Compliance So Good?» (1996) – fra før 2000, utenfor perioden i kriteriene
+- OK   6 utelatt W1501215901 «The Impact of OSHA Inspections on Manufacturing Injury Rates» (1979) – fra før 2000, utenfor perioden i kriteriene
+- OK   6 utelatt W1580749280 «Reestimating Osha's Effects: Have the Data Changed?» (1991) – fra før 2000, utenfor perioden i kriteriene
+- OK   6 utelatt W2774033998 «Occupation and Risk for Injuries» (2017) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W2266777162 «The Impact of Occupational Safety and Health Regulation, 1973-1983» (1986) – fra før 2000, utenfor perioden i kriteriene
+- OK   6 utelatt W2078073107 «Book Review: Income Security, Insurance, and Benefits: Regulating Safe» (1980) – fra før 2000, utenfor perioden i kriteriene
+- OK   6 utelatt W2326687274 «Can Government Facilitate Cooperation? An Informational Model of OSHA » (1997) – fra før 2000, utenfor perioden i kriteriene
+- OK   6 utelatt W1558684337 «Longitudinal Patterns of Compliance with Occupational Safety and Healt» (1991) – fra før 2000, utenfor perioden i kriteriene
+- OK   6 utelatt W134880977 «Regulating Occupational and Product Risks» (2014) – håndbokkapittel om regulering av risiko (bred oversikt uten egen systematikk); de sentrale OSHA-studiene er valgt direkte
+- OK   6 utelatt W2079878839 «Environmental Enforcement and Compliance: Lessons from Pollution, Safe» (2014) – oversikt over håndheving i miljø, sikkerhet og skatt; de sentrale OSHA-studiene er valgt direkte
+- OK   6 utelatt W2007935504 «The effectiveness of occupational health and safety management system » (2006) – metodelitteratur, ikke en studie av tiltaket
+- OK   6 utelatt W2476303289 «Regulating Workplace Risks» (2011) – bok om regulering av risiko i arbeidslivet, ikke en effektstudie av tilsyn
+- OK   6 utelatt W1515382997 «An Assessment of Osha's Recent Effects on Injury Rates» (1983) – fra før 2000, utenfor perioden i kriteriene
+- OK   6 utelatt W3011488674 «The Occupational Safety and Health Administration at 50: Protecting Wo» (2020) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W2022346490 «The effect of OSHA records-check inspections on reported occupational » (1988) – fra før 2000, utenfor perioden i kriteriene
+- OK   6 utelatt W148571668 «Psychosocial working environment» (2015) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W2073471108 «A Theory for Record Linkage» (1969) – fra før 2000, utenfor perioden i kriteriene
+- OK   6 utelatt W2118278760 «Guide to evaluating the effectiveness of strategies for preventing wor» (2001) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W2005912146 «OHS inspectors and psychosocial risk factors: Evidence from Australia» (2010) – Australia, kvalitativ studie av inspektører og psykososiale risikoer
+- OK   6 utelatt W4388588294 «A longitudinal study on the impact of occupational health and safety p» (2023) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W3000164803 «The Tension Between Worker Safety and Organization Survival» (2020) – metodelitteratur, ikke en studie av tiltaket
+- OK   6 utelatt W2331415967 «Effects of Occupational Role Conflict and Emotional Demands on Subsequ» (2013) – sikkerhetskultur, ledelse, opplæring eller helse, ikke offentlig tilsyn
+- OK   6 utelatt W2890525934 «Are OSHA Health Inspections Effective? A Longitudinal Study in the Man» (1990) – fra før 2000, utenfor perioden i kriteriene
+- OK   6 utelatt W4309564623 «Estimating the financial benefits of employers’ occupational health an» (2022) – forekomst, registrering eller kostnader av skader, ikke effekt av tilsyn
+- OK   6 utelatt W4402308224 «Improving work-related psychosocial risk management: A mixed methods e» (2024) – blandet metode om psykososial risikohåndtering, ikke effekt av tilsyn
+- OK   6 utelatt W1522490294 «Interpreting MSHA Citations Through the Lens of Occupational Health an» (2014) – virksomhetenes egne HMS-systemer uten tilsyn, utelatt etter kriteriene
+- OK   6 utelatt W4223487952 «PROTOCOL: Occupational health and safety regulatory interventions to i» (2022) – protokoll for en Campbell-oversikt, ingen funn ennå
+- OK   6 utelatt W2189821821 «Crime and Punishment: An Economic Approach» (1968) – fra før 2000, utenfor perioden i kriteriene
+- OK   6 utelatt W2104880015 «Risk management in a dynamic society: a modelling problem» (1997) – fra før 2000, utenfor perioden i kriteriene
+- OK   6 utelatt W2103328235 «Occupational Injury and Illness Surveillance: Conceptual Filters Expla» (2002) – metodelitteratur, ikke en studie av tiltaket
+- OK   6 utelatt W2108628492 «Making Self-Regulation More Than Merely Symbolic: The Critical Role of» (2010) – egenregulering og rettslige omgivelser, ikke tilsyn
+- OK   6 utelatt W2124641308 «General Deterrence and Corporate Environmental Behavior*» (2005) – miljøtilsyn
+- OK   6 utelatt W1985757851 «An Estimate of the U.S. Government’s Undercount of Nonfatal Occupation» (2004) – forekomst, registrering eller kostnader av skader, ikke effekt av tilsyn
+- OK   6 utelatt W2153226840 «Work-related psychosocial and mechanical risk factors for low back pai» (2013) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W3166540360 «Financial misconduct and employee mistreatment: Evidence from wage the» (2021) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W1822523935 «Occupational health of home care aides: results of the safe home care » (2015) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W1980246091 «Analyzing the Equity and Efficiency of OSHA Enforcement» (1991) – fra før 2000, utenfor perioden i kriteriene
+- OK   6 utelatt W2082223503 «‘Management Standards’ and work-related stress in Great Britain: Progr» (2011) – sikkerhetskultur, ledelse, opplæring eller helse, ikke offentlig tilsyn
+- OK   6 utelatt W2527455713 «The Wicked Character of Psychosocial Risks: Implications for Regulatio» (2016) – teoretisk artikkel om regulering av psykososiale risikoer
+- OK   6 utelatt W2620166918 «Work-related musculoskeletal disorders in home care nurses: Study of t» (2017) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W2108468472 «Working environment interventions – Bridging the gap between policy in» (2014) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W1998132869 «Safety activities in small businesses» (2013) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W2159121491 «Safety inspections in construction sites: A systems thinking perspecti» (2015) – om tilsyn eller regulering uten effektmål på skader eller etterlevelse (beskrivende, teoretisk eller kvalitativ)
+- OK   6 utelatt W2055262063 «Falls in construction: Injury rates for OSHA-inspected employers befor» (1997) – fra før 2000, utenfor perioden i kriteriene
+- OK   6 utelatt W4200021770 «Prevalence and Predictors of Home Health Care Workers’ General, Physic» (2021) – teknologi eller modellering for inspeksjon eller risiko, ikke effekt av offentlig tilsyn
+- OK   6 utelatt W2107340842 «Impact of federal compliance reviews of trucking companies in reducing» (2007) – tilsyn med transportselskaper og trafikkulykker, ikke arbeidsmiljøtilsyn
+- OK   6 utelatt W2228858938 «Economic consequences of workplace injuries in the United States: Find» (2016) – forekomst, registrering eller kostnader av skader, ikke effekt av tilsyn
+- OK   6 utelatt W2195963677 «Plan, Do, Check, Act: The need for independent audit of the internal r» (2015) – tilsyn på et annet område (mat, legemidler, skatt eller finans)
+- OK   6 utelatt W3013641361 «A scoping review to identify strategies that work to prevent four impo» (2020) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W2072025284 «Testing the effects of self-regulation on industrial accidents» (2012) – virkning av egenregulering, ikke tilsyn
+- OK   6 utelatt W2036035146 «Self-Correction versus Persistence of Establishment Injury Rates» (1995) – fra før 2000, utenfor perioden i kriteriene
+- OK   6 utelatt W2525441720 «A comparison of inspection practices within the construction industry » (2016) – sammenligner tilsynspraksis i bygg i Danmark og Sverige, beskrivende uten effektmål
+- OK   6 utelatt W4391423257 «Putting Worker Safety at the Heart of Supply Chain Management» (2024) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W4362725641 «Putting Worker Safety at the Heart of Supply Chain Management» (2023) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W4406852048 «The Major Questions Doctrine: Judicial Power and the Prevalence of Pol» (2024) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W7151940835 «OSH inspector ratio to strengthen decent workplace safety and health: » (2026) – forekomst, registrering eller kostnader av skader, ikke effekt av tilsyn
+- OK   6 utelatt W2025610165 «Some Tests of Specification for Panel Data: Monte Carlo Evidence and a» (1991) – fra før 2000, utenfor perioden i kriteriene
+- OK   6 utelatt W4292528167 «World Medical Association Declaration of Helsinki» (2013) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W2114488753 «The feasibility of creating a checklist for the assessment of the meth» (1998) – fra før 2000, utenfor perioden i kriteriene
+- OK   6 utelatt W1595833668 «Managing the Risks of Organizational Accidents» (2016) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W3123265974 «Manipulation of the running variable in the regression discontinuity d» (2007) – metodelitteratur, ikke en studie av tiltaket
+- OK   6 utelatt W3125526623 «The Value of a Statistical Life: A Critical Review of Market Estimates» (2003) – metodelitteratur, ikke en studie av tiltaket
+- OK   6 utelatt W1978372683 «What’s in a mechanism? Development of a key concept in realist evaluat» (2015) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W2058723611 «Best evidence synthesis: An intelligent alternative to meta-analysis» (1995) – fra før 2000, utenfor perioden i kriteriene
+- OK   6 utelatt W2572798944 «Can work make you mentally ill? A systematic meta-review of work-relat» (2017) – sikkerhetskultur, ledelse, opplæring eller helse, ikke offentlig tilsyn
+- OK   6 utelatt W1521950660 «Chapter 22 Panel data» (1984) – fra før 2000, utenfor perioden i kriteriene
+- OK   6 utelatt W2156812830 «Best-Evidence Synthesis: An Alternative to Meta-Analytic and Tradition» (1986) – fra før 2000, utenfor perioden i kriteriene
+- OK   6 utelatt W2119566762 «INTERRUPTED TIME SERIES DESIGNS IN HEALTH TECHNOLOGY ASSESSMENT: LESSO» (2003) – metodelitteratur, ikke en studie av tiltaket
+- OK   6 utelatt W2106086255 «Economic Burden of Occupational Injury and Illness in the United State» (2011) – forekomst, registrering eller kostnader av skader, ikke effekt av tilsyn
+- OK   6 utelatt W3198450565 «Experiences of frontline healthcare workers and their views about supp» (2021) – metodelitteratur, ikke en studie av tiltaket
+- OK   6 utelatt W2794770411 «Different ways to estimate treatment effects in randomised controlled » (2018) – forekomst, registrering eller kostnader av skader, ikke effekt av tilsyn
+- OK   6 utelatt W4388061510 «Fatal Tradeoffs» (1992) – fra før 2000, utenfor perioden i kriteriene
+- OK   6 utelatt W1597255218 «Really Responsive Risk-Based Regulation» (2010) – teoretisk artikkel om risikobasert regulering
+- OK   6 utelatt W1994966507 «Improving construction site safety through leader-based verbal safety » (2010) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W2004691149 «Factors influencing the duration of work-related disability: a populat» (1994) – fra før 2000, utenfor perioden i kriteriene
+- OK   6 utelatt W4301400721 «Disability, Work and Inclusion» (2022) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W3014706530 «Psychosocial Stressors at Work and the Risk of Sickness Absence Due to» (2020) – sikkerhetskultur, ledelse, opplæring eller helse, ikke offentlig tilsyn
+- OK   6 utelatt W1977791232 «Book Review: Labor Market: Employment Hazards: An Investigation of Mar» (1980) – fra før 2000, utenfor perioden i kriteriene
+- OK   6 utelatt W2026009571 «Working in small enterprises – Is there a special risk?» (2006) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W1984892390 «A systematic review of safety violations in industry» (2009) – metodelitteratur, ikke en studie av tiltaket
+- OK   6 utelatt W2029223288 «Why Most Workers With Occupational Repetitive Trauma do not File for W» (2000) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W2001501699 «Enforcing OSHA: The Role of Labor Unions» (1991) – fra før 2000, og om fagforeningers rolle i håndhevingen
+- OK   6 utelatt W2170097351 «An Evaluation of the Policy Context on Psychosocial Risks and Mental H» (2015) – sikkerhetskultur, ledelse, opplæring eller helse, ikke offentlig tilsyn
+- OK   6 utelatt W2037555161 «Developing criteria for healthy organizational change» (2007) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W2071952377 «Methodological criteria for evaluating occupational safety interventio» (1999) – fra før 2000, utenfor perioden i kriteriene
+- OK   6 utelatt W3148758544 «The Craft of Bureaucratic Neutrality» (2007) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W2080784876 «Workers' Compensation and Occupational Injuries and Illnesses» (1991) – fra før 2000, utenfor perioden i kriteriene
+- OK   6 utelatt W1998439233 «Is psychosocial risk prevention possible? Deconstructing common presum» (2014) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W2093346602 «The role of policy for the management of psychosocial risks at the wor» (2010) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W2117851769 «When and Why do Plants Comply? Paper Mills in the 1980s*» (2005) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W3158061665 «A systematic overview on the risk effects of psychosocial work charact» (2021) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W2089272637 «Realistic evaluation as a new way to design and evaluate occupational » (2011) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W19011966 «Occupational injury and illness rates, 1992-96: why they fell» (1998) – fra før 2000, utenfor perioden i kriteriene
+- OK   6 utelatt W2073949007 «The Regulation of Corporate Violations» (2006) – om tilsyn eller regulering uten effektmål på skader eller etterlevelse (beskrivende, teoretisk eller kvalitativ)
+- OK   6 utelatt W1543952162 «The Impact of Occupational Safety and Health Regulation on the Risk of» (1992) – fra før 2000, utenfor perioden i kriteriene
+- OK   6 utelatt W2054367464 «Psychosocial Risks: Is Risk Management Strategic Enough in Business an» (2013) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W4402014393 «ESG Disclosures in the Private Equity Industry» (2022) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W1559384717 «Workers' Compensation, Moral Hazard and the Composition of Workplace I» (2002) – erstatning, forsikring eller erfaringsprising, ikke tilsyn
+- OK   6 utelatt W2995890382 «Evidence-based occupational health and safety interventions: a compreh» (2019) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W2021103833 «Worker Injuries: The Effects of Workers' Compensation and OSHA Inspect» (1983) – fra før 2000, utenfor perioden i kriteriene
+- OK   6 utelatt W2412993303 «OHS management and employers’ perception: differences by firm size in » (2016) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W2076201686 «European Approaches to Work-Related Stress: A Critical Review on Risk » (2012) – sikkerhetskultur, ledelse, opplæring eller helse, ikke offentlig tilsyn
+- OK   6 utelatt W3122259246 «Effects of Union Certification on Workplace-Safety Enforcement: Regres» (2016) – virkningen av fagforening på tilsynsintensitet, ikke effekten av tilsyn på skader eller etterlevelse
+- OK   6 utelatt W2792941144 «Small Businesses and Workplace Fatality Risk: An Exploratory Analysis» (2006) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W1974330408 «A new-generation safety contest in the construction industry – A long-» (2010) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W2104377464 «Regulation of psychosocial risk factors at work: An international over» (2010) – internasjonal oversikt over regulering av psykososiale risikoer, ikke effekt av tilsyn
+- OK   6 utelatt W2011232596 «Work‐related falls among union carpenters in Washington State before a» (2003) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W2001046728 «Mapping ergonomics application to improve SMEs working condition in in» (2014) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W4296622914 «Effects of occupational health and safety management systems implement» (2022) – virksomhetenes egne HMS-systemer uten tilsyn, utelatt etter kriteriene
+- OK   6 utelatt W2024551111 «Effect of State Workplace Safety Laws on Occupational Injury Rates» (2001) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W4401750020 «Monopsony Power in the Labor Market: From Theory to Policy» (2024) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W2121058407 «Can Better Working Conditions Improve the Performance of SMEs? An Inte» (2013) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W2736369773 «Heterogeneity in application, design, and analysis characteristics was» (2017) – metodelitteratur, ikke en studie av tiltaket
+- OK   6 utelatt W2774162371 «Workplace safety events and firm performance» (2017) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W4301937336 «Simulating Workplace Safety Policy» (1995) – fra før 2000, utenfor perioden i kriteriene
+- OK   6 utelatt W2982105655 «Demand Conditions and Worker Safety: Evidence from Price Shocks in Min» (2021) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W4311116295 «Leadership and well-being of employees in the Nordic countries: A lite» (2022) – sikkerhetskultur, ledelse, opplæring eller helse, ikke offentlig tilsyn
+- OK   6 utelatt W4310295787 «Individual and organisational factors in the psychosocial work environ» (2022) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W21256988 «Understanding Corporate Lawbreaking: From Profit Seeking to Law Findin» (2007) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W2885137483 «WORKER INVESTMENTS IN SAFETY, WORKPLACE ACCIDENTS, AND COMPENSATING WA» (2018) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W2025701824 «Simulating Workplace Safety Policy» (1998) – fra før 2000, utenfor perioden i kriteriene
+- OK   6 utelatt W2404738095 «Arbeidsplassen og sykefravær - Arbeidsforhold av betydning for sykefra» (2016) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W3162355115 «The impact of inspection on the sustainable production strategy: Envir» (2021) – miljøtilsyn
+- OK   6 utelatt W3092911115 «The Italian National Surveillance System for Occupational Injuries: Co» (2020) – forekomst, registrering eller kostnader av skader, ikke effekt av tilsyn
+- OK   6 utelatt W4378715100 «Home care nurses' and managers’ work environment during the Covid-19 p» (2023) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W2065316437 «Government regulation of occupational safety: underground coal mine ac» (1985) – fra før 2000, utenfor perioden i kriteriene
+- OK   6 utelatt W2568572553 «Occupational safety and health in North Cyprus: Evaluation of risk ass» (2017) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W2544190796 «Occupational safety and health and smaller organisations: research cha» (2016) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W4409681016 «Stimulating Regulatory Compliance and Ethical Behavior of Organization» (2024) – bred oversikt over etterlevelse og etikk i organisasjoner, ikke tilsyn
+- OK   6 utelatt W2258148591 «Workers’ risk underestimation and occupational health and safety regul» (2012) – forekomst, registrering eller kostnader av skader, ikke effekt av tilsyn
+- OK   6 utelatt W4297756720 «Import Competition and Workplace Safety in the U.S. Manufacturing Sect» (2022) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W4392697387 «Change competence: An integrative literature review» (2024) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W2182748568 «Voluntary environmental management initiatives: Smoke signals or smoke» (2005) – sikkerhetskultur, ledelse, opplæring eller helse, ikke offentlig tilsyn
+- OK   6 utelatt W4389684591 «The Value of Safety Training for Business-to-Business Firms» (2023) – sikkerhetskultur, ledelse, opplæring eller helse, ikke offentlig tilsyn
+- OK   6 utelatt W2346170516 «The new United Nations approach to sustainable development post-2015: » (2016) – metodelitteratur, ikke en studie av tiltaket
+- OK   6 utelatt W4410572702 «The Fragmentation and Complexity of Labour Law, Effective Protections,» (2025) – om tilsyn eller regulering uten effektmål på skader eller etterlevelse (beskrivende, teoretisk eller kvalitativ)
+- OK   6 utelatt W4410859327 «Systematic Evaluation of How Indicators of Inequity and Disadvantage A» (2025) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W2921009950 «Speaking of safety» (2018) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W7204835530 «New directions for healthy working environments (HWE) policy: A qualit» (2026) – metodelitteratur, ikke en studie av tiltaket
+- OK   6 utelatt W7223413985 «Safety in military organizations –A scoping review» (2026) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W1584858319 «The Cost of Regulation: OSHA, EPA and the Productivity Slowdown.» (1987) – fra før 2000, utenfor perioden i kriteriene
+- OK   6 utelatt W2104269187 «Cooperative Regulatory Enforcement and the Politics of Administrative » (1991) – fra før 2000, utenfor perioden i kriteriene
+- OK   6 utelatt W2061192503 «Regulatory Enforcement in a Federalist System» (1986) – fra før 2000, utenfor perioden i kriteriene
+- OK   6 utelatt W2088128647 «Cooperation, Deterrence, and the Ecology of Regulatory Enforcement» (1984) – fra før 2000, utenfor perioden i kriteriene
+- OK   6 utelatt W2080170623 «Occupational hearing loss» (1999) – fra før 2000, utenfor perioden i kriteriene
+- OK   6 utelatt W2290098699 «The Impact of the PCAOB Individual Engagement Inspection Process—Preli» (2017) – revisortilsyn, ikke arbeidsmiljø
+- OK   6 utelatt W2549907004 «Private Equity Buyouts and Workplace Safety» (2021) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W2129399628 «Coerced Confessions: Self-Policing in the Shadow of the Regulator» (2007) – om tilsyn eller regulering uten effektmål på skader eller etterlevelse (beskrivende, teoretisk eller kvalitativ)
+- OK   6 utelatt W2042789566 «Can Government Regulate Safety? The Coal Mine Example» (1980) – fra før 2000, utenfor perioden i kriteriene
+- OK   6 utelatt W2746197475 «Do Plant Inspections Predict Future Quality? The Role of Investigator » (2017) – mattilsyn og legemiddeltilsyn, ikke arbeidsmiljø
+- OK   6 utelatt W2021817415 «The Value of a Government Monitor for U. S. Banking Firms» (1999) – fra før 2000, utenfor perioden i kriteriene
+- OK   6 utelatt W2099683992 «The case for stronger OSHA enforcement--evidence from evaluation resea» (1998) – fra før 2000 (1998), dekket av nyere oversikter
+- OK   6 utelatt W3170468652 «Sectoral patterns of accident process for occupational safety using na» (2021) – om tilsyn eller regulering uten effektmål på skader eller etterlevelse (beskrivende, teoretisk eller kvalitativ)
+- OK   6 utelatt W1992418448 «Influences on Small-Firm Compliance-Related Behaviour: The Case of Wor» (2006) – påvirkninger på småbedrifters etterlevelse, uten effekt av tilsyn
+- OK   6 utelatt W2011866049 «OSHA, Plant Safety Programs, and Injury Reduction» (1981) – fra før 2000, utenfor perioden i kriteriene
+- OK   6 utelatt W3121986726 «Random Inspections and Periodic Reviews: Optimal Dynamic Monitoring» (2017) – om tilsyn eller regulering uten effektmål på skader eller etterlevelse (beskrivende, teoretisk eller kvalitativ)
+- OK   6 utelatt W2073104467 «Fatal Falls in the US Construction Industry, 1990 to 1999» (2001) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W3010952096 «A Short History of Occupational Safety and Health in the United States» (2020) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W2329928282 «Safety Regulation and Workplace Injuries» (1986) – fra før 2000, utenfor perioden i kriteriene
+- OK   6 utelatt W2070875129 «Regulator Heterogeneity and Endogenous Efforts to Close the Informatio» (2011) – metodelitteratur, ikke en studie av tiltaket
+- OK   6 utelatt W2280111935 «Regulatory Enforcement Styles and Compliance» (2011) – tilsynsstil og etterlevelse uten avgrensning til arbeidsmiljø (generell regulering)
+- OK   6 utelatt W2042419673 «Agency Structure and Firm Culture: OSHA, EPA, and the Steel Industry» (2006) – miljøtilsyn, utenfor avgrensningen
+- OK   6 utelatt W7125021985 «Risk Managed Construction Strategies for Complex and Highly Regulated » (2021) – om tilsyn eller regulering uten effektmål på skader eller etterlevelse (beskrivende, teoretisk eller kvalitativ)
+- OK   6 utelatt W2803756962 «Beyond deterrent enforcement styles: Behavioural intuitions of Chinese» (2018) – land utenfor avgrensningen, og ikke kategori 1–3
+- OK   6 utelatt W2073854666 «Using Occupational Safety and Health Administration Accident Investiga» (1990) – fra før 2000, utenfor perioden i kriteriene
+- OK   6 utelatt W2002350197 «Safety benefits of mandatory OSHA 10h training» (2015) – effekt av obligatorisk opplæring, ikke tilsyn
+- OK   6 utelatt W3123598089 «Information Quality and Workplace Safety» (2021) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W2018142032 «Compliance with OSHA record-keeping requirements.» (1988) – fra før 2000, utenfor perioden i kriteriene
+- OK   6 utelatt W2129893039 «Occupational eye injury and risk reduction: Kentucky workers’ compensa» (2009) – erstatning, forsikring eller erfaringsprising, ikke tilsyn
+- OK   6 utelatt W2050190039 «Documentation of Hazards and Safety Perceptions for Mechanized Logging» (2001) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W4390291418 «Increasing the Cost of Informal Employment: Evidence from Mexico» (2023) – forekomst, registrering eller kostnader av skader, ikke effekt av tilsyn
+- OK   6 utelatt W2004771203 «Effects of the Occupational Safety and Health Administration’s control» (2007) – forekomst, registrering eller kostnader av skader, ikke effekt av tilsyn
+- OK   6 utelatt W1987949224 «China's Factory Floors: An industrial Hygienist's View» (2003) – land utenfor avgrensningen, og ikke kategori 1–3
+- OK   6 utelatt W3124855847 «U.S. Free Trade Agreements and Enforcement of Labor Law in Latin Ameri» (2017) – land utenfor avgrensningen, og ikke kategori 1–3
+- OK   6 utelatt W2021618059 «The Role of OSHA Violations in Serious Workplace Accidents» (1984) – fra før 2000, utenfor perioden i kriteriene
+- OK   6 utelatt W4379740901 «How do trucking companies respond to announced versus unannounced safe» (2023) – trafikkontroller av lastebiler, ikke arbeidsmiljøtilsyn
+- OK   6 utelatt W2113420165 «Organizational Challenges to Regulatory Enforcement and Compliance» (2013) – om tilsyn eller regulering uten effektmål på skader eller etterlevelse (beskrivende, teoretisk eller kvalitativ)
+- OK   6 utelatt W2033615257 «Worker Engagement in the Health and Safety Regulatory Arena under Chan» (2015) – om tilsyn eller regulering uten effektmål på skader eller etterlevelse (beskrivende, teoretisk eller kvalitativ)
+- OK   6 utelatt W4407489513 «OSHA Injury Data: An Opportunity for Improving Work Injury Prevention» (2025) – om OSHAs skadedata, ikke effekt av tilsyn
+- OK   6 utelatt W4404503628 «National occupational safety and health systems: Exploring the underly» (2024) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W2040520582 «Regulation of Tattooing in Minneapolis and St. Paul, Minnesota: Tattoo» (2003) – om tilsyn eller regulering uten effektmål på skader eller etterlevelse (beskrivende, teoretisk eller kvalitativ)
+- OK   6 utelatt W2065544923 «Review of the OSHA Framework for Oversight of Occupational Environment» (2009) – om tilsyn eller regulering uten effektmål på skader eller etterlevelse (beskrivende, teoretisk eller kvalitativ)
+- OK   6 utelatt W2168875614 «The Fort McMurray demonstration project in social marketing: health- a» (1996) – fra før 2000, utenfor perioden i kriteriene
+- OK   6 utelatt W4408297662 «A critical review of the effectiveness of the Department of Labour (Do» (2008) – land utenfor avgrensningen, og ikke kategori 1–3
+- OK   6 utelatt W2774461477 «Effekter av myndighetstiltak på arbeidsmiljø og helse: en systematisk » (2017) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W7126184120 «Integrating Preventive (Ex-ante) and Deterrent (Ex-post) Mechanisms in» (2026) – land utenfor avgrensningen, og ikke kategori 1–3
+- OK   6 utelatt W7160152448 «An approach to health and safety framework for construction: An Ethiop» (2026) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W7135033040 «Local information, mismatch, and the cost of randomization in regulato» (2026) – forekomst, registrering eller kostnader av skader, ikke effekt av tilsyn
+- OK   6 utelatt W2263397210 «Systematic review summary - Occupational safety and health enforcement» (2014) – sammendrag av Cochrane-oversikten W1716161898 (Mischke m.fl. 2013), samme oversikt
+- OK   6 utelatt W2168916106 «Implementation of Cold Risk Management In Occupational Safety, Occupat» (2008) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W4385063921 «Evaluating the effectiveness of a brief digital procrastination interv» (2023) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W7125403472 «Evaluation of the effectiveness of SOM-RIU, a multifaceted, school-bas» (2026) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W4417244723 «Factors that Increase the Effectiveness of Implementing Occupational H» (2025) – virksomhetenes egne HMS-systemer uten tilsyn, utelatt etter kriteriene
+- OK   6 utelatt W4290737278 «Systematic reviews of academic literature for evaluating the effective» (2014) – metodelitteratur, ikke en studie av tiltaket
+- OK   6 utelatt W2120559694 «The Effectiveness of Interventions for Preventing Injuries in the Cons» (2008) – eldre versjon av Cochrane-oversikten om skader i bygg; den nyere versjonen (W2794504103) er valgt
+- OK   6 utelatt W2035391705 «The Effect of Occupational Safety Legislation in Preventing Accidents » (2008) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W2961299141 «Assessing the Quality of Quality Assessment: The Role of Scheduling» (2017) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W1572260292 «States with low non‐fatal injury rates have high fatality rates and vi» (2012) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W2037987969 «Evaluation of the effectiveness of occupational injury prevention prog» (2012) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W2016382728 «Regression Models for Categorical and Limited Dependent Variables.» (1997) – fra før 2000, utenfor perioden i kriteriene
+- OK   6 utelatt W2110132657 «Segmented regression analysis of interrupted time series studies in me» (2002) – metodelitteratur, ikke en studie av tiltaket
+- OK   6 utelatt W1594794537 «Logistic Regression Using SAS: Theory and Application» (1999) – fra før 2000, utenfor perioden i kriteriene
+- OK   6 utelatt W4242198643 «Perceptions of safety at work: A framework for linking safety climate » (2000) – sikkerhetskultur, ledelse, opplæring eller helse, ikke offentlig tilsyn
+- OK   6 utelatt W1987699960 «Workplace safety: A meta-analysis of the roles of person and situation» (2009) – metodelitteratur, ikke en studie av tiltaket
+- OK   6 utelatt W2056924876 «Contributing factors in construction accidents» (2005) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W2024950347 «Modifying supervisory practices to improve subunit safety: A leadershi» (2002) – sikkerhetskultur, ledelse, opplæring eller helse, ikke offentlig tilsyn
+- OK   6 utelatt W2007924855 «Regulator reputation, enforcement, and environmental compliance» (2005) – miljøtilsyn
+- OK   6 utelatt W2144480207 «Effects of organisational-level interventions at work on employees’ he» (2014) – metodelitteratur, ikke en studie av tiltaket
+- OK   6 utelatt W3124690645 «Financing Constraints and Workplace Safety» (2012) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W2312200186 «Testing an Expected Utility Model of Corporate Deterrence» (1991) – fra før 2000, utenfor perioden i kriteriene
+- OK   6 utelatt W2090627137 «Evaluating safety management and culture interventions to improve safe» (2009) – sikkerhetskultur, ledelse, opplæring eller helse, ikke offentlig tilsyn
+- OK   6 utelatt W2082645742 «Workers' Compensation Insurance, Experience-Rating, and Occupational I» (1985) – fra før 2000, utenfor perioden i kriteriene
+- OK   6 utelatt W2575074141 «The differing impacts of operational and financial slack on occupation» (2017) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W2004976078 «Are safety and operational effectiveness contradictory requirements: T» (2015) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W2884479637 «Escalation of Scrutiny: The Gains from Dynamic Enforcement of Environm» (2020) – miljøtilsyn
+- OK   6 utelatt W2911236308 «Consideration of psychosocial factors in workplace risk assessments: f» (2019) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W2069288044 «Prevention of falls in the construction industry» (2000) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W3124295901 «Immigrant Status and the Value of Statistical Life» (2010) – metodelitteratur, ikke en studie av tiltaket
+- OK   6 utelatt W2124006754 «Do Drug‐Free Workplace Programs Prevent Occupational Injuries? Evidenc» (2004) – tilsyn på et annet område (mat, legemidler, skatt eller finans)
+- OK   6 utelatt W2292867734 «Occupational accidents and the economic cycle in Spain 1994–2014» (2016) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W1595359296 «Workers' Compensation and the Distribution of Occupational Injuries» (1993) – fra før 2000, utenfor perioden i kriteriene
+- OK   6 utelatt W1999453108 «Safety Regulation and Firm Size: Effects of the Coal Mine Health and S» (1982) – fra før 2000, utenfor perioden i kriteriene
+- OK   6 utelatt W1991694672 «Efficacy of the North American Guidelines for Children’s Agricultural » (2006) – metodelitteratur, ikke en studie av tiltaket
+- OK   6 utelatt W4414303941 «Non-wage amenities» (2025) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W7163408026 «Early Effects of the Serious Accidents Punishment Act on Occupational » (2026) – land utenfor avgrensningen, og ikke kategori 1–3
+- OK   6 utelatt W2945792041 «Yaşlı Kadınlarda Üreme Sağlığı» (2019) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W2911964244 «Random Forests» (2001) – metodelitteratur, ikke en studie av tiltaket
+- OK   6 utelatt W2093274439 «Research electronic data capture (REDCap)—A metadata-driven methodolog» (2008) – metodelitteratur, ikke en studie av tiltaket
+- OK   6 utelatt W2107328434 «Meta-analysis in clinical trials» (1986) – fra før 2000, utenfor perioden i kriteriene
+- OK   6 utelatt W1598602811 «Cochrane Handbook for Systematic Reviews of Interventions» (2008) – metodelitteratur, ikke en studie av tiltaket
+- OK   6 utelatt W4297918764 «Introduction to Meta‐Analysis» (2009) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W3113269512 «Difference-in-Differences with multiple time periods» (2020) – metodelitteratur, ikke en studie av tiltaket
+- OK   6 utelatt W2132917208 «Estimating causal effects of treatments in randomized and nonrandomize» (1974) – fra før 2000, utenfor perioden i kriteriene
+- OK   6 utelatt W2791859701 «Difference-in-differences with variation in treatment timing» (2021) – metodelitteratur, ikke en studie av tiltaket
+- OK   6 utelatt W4293229472 «The Theory of Economic Regulation» (1971) – fra før 2000, utenfor perioden i kriteriene
+- OK   6 utelatt W4300648631 «Regression Models for Categorical and Limited Dependent Variables» (1998) – fra før 2000, utenfor perioden i kriteriene
+- OK   6 utelatt W3122958054 «Regression discontinuity designs: A guide to practice» (2007) – metodelitteratur, ikke en studie av tiltaket
+- OK   6 utelatt W4388316013 «Responsive Regulation» (1992) – fra før 2000, utenfor perioden i kriteriene
+- OK   6 utelatt W2169521630 «Organizational Learning: From Experience to Knowledge» (2011) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W2019842832 «A group-level model of safety climate: Testing the effect of group cli» (2000) – sikkerhetskultur, ledelse, opplæring eller helse, ikke offentlig tilsyn
+- OK   6 utelatt W2120732572 «RAMESES publication standards: realist syntheses» (2013) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W1479849316 «Economics of regulation and antitrust» (1992) – fra før 2000, utenfor perioden i kriteriene
+- OK   6 utelatt W2063299125 «ON THE ETIOLOGY OF CLIMATES» (1983) – fra før 2000, utenfor perioden i kriteriene
+- OK   6 utelatt W2158461960 «Safety climate, safety management practice and safety performance in o» (2003) – sikkerhetskultur, ledelse, opplæring eller helse, ikke offentlig tilsyn
+- OK   6 utelatt W2569986058 «Going by the Book, the Problem of Regulatory Unreasonableness» (1983) – fra før 2000, utenfor perioden i kriteriene
+- OK   6 utelatt W2097730860 «Realist synthesis: illustrating the method for implementation research» (2012) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W2105403790 «Evidence-based Policy: The Promise of `Realist Synthesis'» (2002) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W2830290158 «A Qualitative Study» (2009) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W2086168829 «Factors affecting safety performance on construction sites» (1999) – fra før 2000, utenfor perioden i kriteriene
+- OK   6 utelatt W2045993027 «The nature of safety culture: A survey of the state-of-the-art» (2006) – sikkerhetskultur, ledelse, opplæring eller helse, ikke offentlig tilsyn
+- OK   6 utelatt W2884548321 «Regression Discontinuity Designs Using Covariates» (2018) – metodelitteratur, ikke en studie av tiltaket
+- OK   6 utelatt W2077589521 «Is realist evaluation keeping its promise? A review of published empir» (2012) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W2892129906 «The Value of a Statistical Life: A Critical Review of Market Estimates» (2003) – metodelitteratur, ikke en studie av tiltaket
+- OK   6 utelatt W2047559216 «A framework for understanding the development of organisational safety» (2005) – sikkerhetskultur, ledelse, opplæring eller helse, ikke offentlig tilsyn
+- OK   6 utelatt W1991659479 «What determines the value of life? a meta‐analysis» (2002) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W2100616669 «Working to rule, or working safely? Part 1: A state of the art review» (2012) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W1971180591 «Predicting safe employee behavior in the steel industry: Development a» (2000) – teknologi eller modellering for inspeksjon eller risiko, ikke effekt av offentlig tilsyn
+- OK   6 utelatt W1975747795 «A robust coefficient of determination for regression» (2010) – metodelitteratur, ikke en studie av tiltaket
+- OK   6 utelatt W2129042743 «A systematic review of the effectiveness of occupational health and sa» (2011) – metodelitteratur, ikke en studie av tiltaket
+- OK   6 utelatt W1495486087 «Prevention of Accidents Through Experience Feedback» (2000) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W2053983086 «Global trend according to estimated number of occupational accidents a» (2009) – forekomst, registrering eller kostnader av skader, ikke effekt av tilsyn
+- OK   6 utelatt W4387567568 «Work-related causes of mental health conditions and interventions for » (2023) – sikkerhetskultur, ledelse, opplæring eller helse, ikke offentlig tilsyn
+- OK   6 utelatt W2138783138 «Preventing falls from roofs: a critical review» (2001) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W2065154803 «Working to rule or working safely? Part 2: The management of safety ru» (2012) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W2032579723 «Risk by Choice» (1983) – fra før 2000, utenfor perioden i kriteriene
+- OK   6 utelatt W2078343256 «Intervention studies in occupational epidemiology» (2005) – forekomst, registrering eller kostnader av skader, ikke effekt av tilsyn
+- OK   6 utelatt W3124568876 «The Value of Life: Estimates with Risks by Occupation and Industry» (2003) – forekomst, registrering eller kostnader av skader, ikke effekt av tilsyn
+- OK   6 utelatt W2041422257 «Rational Risk Policy» (1998) – fra før 2000, utenfor perioden i kriteriene
+- OK   6 utelatt W2156261426 «OHSAS 18001 certification and operating performance: The role of compl» (2014) – virksomhetenes egne HMS-systemer uten tilsyn, utelatt etter kriteriene
+- OK   6 utelatt W2978685131 «Monitoring global supply chains» (2015) – forekomst, registrering eller kostnader av skader, ikke effekt av tilsyn
+- OK   6 utelatt W2146698510 «Leadership and employees’ perceived safety behaviours in a nuclear pow» (2011) – sikkerhetskultur, ledelse, opplæring eller helse, ikke offentlig tilsyn
+- OK   6 utelatt W2118275102 «Long-term effects of an intervention on psychosocial work factors amon» (2010) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W2051689567 «Injuries from slips and trips in construction» (2005) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W2026850040 «Underreporting of Work-Related Injury or Illness to Workers??? Compens» (2006) – metodelitteratur, ikke en studie av tiltaket
+- OK   6 utelatt W2883819951 «Effectiveness research on the multi-player evolutionary game of coal-m» (2018) – land utenfor avgrensningen, og ikke kategori 1–3
+- OK   6 utelatt W2103252547 «Worker health is good for the economy: Union density and psychosocial » (2013) – sikkerhetskultur, ledelse, opplæring eller helse, ikke offentlig tilsyn
+- OK   6 utelatt W2127164956 «Investment in workforce health: Exploring the implications for workfor» (2009) – sikkerhetskultur, ledelse, opplæring eller helse, ikke offentlig tilsyn
+- OK   6 utelatt W1995943069 «Prevention through design: The effect of European Directives on constr» (2009) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W2083092999 «The global burden due to occupational injury» (2005) – forekomst, registrering eller kostnader av skader, ikke effekt av tilsyn
+- OK   6 utelatt W1977084389 «Workers' Compensation: Wage Effects, Benefit Inadequacies, and the Val» (1987) – fra før 2000, utenfor perioden i kriteriene
+- OK   6 utelatt W1591458574 «Policy relevant heterogeneity in the value of statistical life: New ev» (2009) – metodelitteratur, ikke en studie av tiltaket
+- OK   6 utelatt W1965397465 «Stakeholder engagement opportunities in systematic reviews: Knowledge » (2008) – metodelitteratur, ikke en studie av tiltaket
+- OK   6 utelatt W2143111630 «Psychosocial risks and work-related stress in developing countries: he» (2010) – sikkerhetskultur, ledelse, opplæring eller helse, ikke offentlig tilsyn
+- OK   6 utelatt W1738334925 «The impact of regulatory costs on small firms» (2010) – om tilsyn eller regulering uten effektmål på skader eller etterlevelse (beskrivende, teoretisk eller kvalitativ)
+- OK   6 utelatt W2165307446 «Are recessions good for workplace safety?» (2006) – forekomst, registrering eller kostnader av skader, ikke effekt av tilsyn
+- OK   6 utelatt W2171973804 «Implementation of safety checklists in surgery: a realist synthesis of» (2015) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W3024022508 «Incentive effects of workers' compensation insurance» (1990) – fra før 2000, utenfor perioden i kriteriene
+- OK   6 utelatt W2108372289 «Wage Compensation for Dangerous Work Revisited» (1998) – fra før 2000, utenfor perioden i kriteriene
+- OK   6 utelatt W1985525440 «Creating safer and healthier workplaces: Role of organizational factor» (2001) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W3121159220 «Is Workers' Compensation Covering Uninsured Medical Costs? Evidence fr» (1996) – fra før 2000, utenfor perioden i kriteriene
+- OK   6 utelatt W1972465933 «Ecnomic consequences of workplace injuries and illnesses: Lost earning» (1999) – fra før 2000, utenfor perioden i kriteriene
+- OK   6 utelatt W2014808861 «Worker influence on voluntary OHS management systems – A review of its» (2011) – virksomhetenes egne HMS-systemer uten tilsyn, utelatt etter kriteriene
+- OK   6 utelatt W2002103747 «The Development of the European Framework for Psychosocial Risk Manage» (2011) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W2021888566 «Safety compliance on offshore platforms: A multi-sample survey on the » (2012) – spørreundersøkelse om ledelse og sikkerhet offshore, ikke tilsyn
+- OK   6 utelatt W2152897350 «Workers' Compensation and Injury Duration: Evidence from a Natural Exp» (1990) – fra før 2000, utenfor perioden i kriteriene
+- OK   6 utelatt W3121248600 «Valuing the economic consequences of work injury and illness: A compar» (2001) – forekomst, registrering eller kostnader av skader, ikke effekt av tilsyn
+- OK   6 utelatt W2155137227 «A search strategy for occupational health intervention studies» (2005) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W2083617127 «The effects of firm size on injury frequency in construction» (1997) – fra før 2000, utenfor perioden i kriteriene
+- OK   6 utelatt W2147109457 «Interventions for preventing injuries in the agricultural industry» (2008) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W2130241051 «Injury underreporting among small establishments in the construction i» (2011) – metodelitteratur, ikke en studie av tiltaket
+- OK   6 utelatt W2017959404 «Effectiveness of interventions to prevent work-related eye injuries» (2000) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W2274388736 «Effects of safety and health training on work-related injury among con» (2004) – sikkerhetskultur, ledelse, opplæring eller helse, ikke offentlig tilsyn
+- OK   6 utelatt W2129637916 «The impact of the business cycle on occupational injuries in the UK» (2009) – forekomst, registrering eller kostnader av skader, ikke effekt av tilsyn
+- OK   6 utelatt W2075083545 «The business cycle and the incidence of workplace injuries: Evidence f» (2010) – forekomst, registrering eller kostnader av skader, ikke effekt av tilsyn
+- OK   6 utelatt W2158644963 «Assessing and intervening on OSH programmes: effectiveness evaluation » (2004) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W2066252903 «Claiming Behavior in Workers' Compensation» (2003) – sikkerhetskultur, ledelse, opplæring eller helse, ikke offentlig tilsyn
+- OK   6 utelatt W2127829651 «Effectiveness of joint health and safety committees: A realist review» (2012) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W2001220079 «Organisational restructuring/downsizing, OHS regulation and worker hea» (2007) – sikkerhetskultur, ledelse, opplæring eller helse, ikke offentlig tilsyn
+- OK   6 utelatt W1964875788 «The effect of firm characteristics on truck accidents» (1994) – fra før 2000, utenfor perioden i kriteriene
+- OK   6 utelatt W2035381678 «Les « risques psychosociaux » : entre rémanence et méconnaissance» (2010) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W2056873278 «Management of Long Term Sickness Absence: A Systematic Realist Review» (2012) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W1981888207 «The Effectiveness of Bill 70 and Joint Health and Safety Committees in» (1996) – fra før 2000, utenfor perioden i kriteriene
+- OK   6 utelatt W2054164476 «Policy guidance on threats to legislative interventions in public heal» (2011) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W4396777877 «Effectiveness of Occupational Safety and Health interventions: a long » (2024) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W2100389682 «European social dialogue on psychosocial risks at work: Benefits and c» (2010) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W1953046115 «Alcohol and drug screening of occupational drivers for preventing inju» (2009) – tilsyn på et annet område (mat, legemidler, skatt eller finans)
+- OK   6 utelatt W3125961949 «Does Workers' Compensation Encourage Hard to Diagnose Injuries?» (1998) – fra før 2000, utenfor perioden i kriteriene
+- OK   6 utelatt W2168915399 «Effectiveness of the training program for workers at construction site» (2009) – sikkerhetskultur, ledelse, opplæring eller helse, ikke offentlig tilsyn
+- OK   6 utelatt W2014478637 «The construction of the Øresund Link between Denmark and Sweden: the e» (2002) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W2963624919 «Regulatory regime on coal Mine Safety in China and Australia: Comparat» (2019) – land utenfor avgrensningen, og ikke kategori 1–3
+- OK   6 utelatt W2329475375 «Tackling psychosocial risks and work-related stress in developing coun» (2013) – sikkerhetskultur, ledelse, opplæring eller helse, ikke offentlig tilsyn
+- OK   6 utelatt W2023205797 «Economic incentives to accident prevention: An empirical study of the » (1993) – fra før 2000, utenfor perioden i kriteriene
+- OK   6 utelatt W2076172500 «The effectiveness of the revised scaffold safety standard in the const» (2004) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W2069687434 «Hospital Employee Assault Rates Before and After Enactment of the Cali» (2009) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W2161931574 «Revisiting Incentive Effects in Workers' Compensation: Do Higher Benef» (2012) – erstatning, forsikring eller erfaringsprising, ikke tilsyn
+- OK   6 utelatt W4294751730 «Applying risk matrices for assessing the risk of psychosocial hazards » (2022) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W2041777542 «The contribution of qualitative analyses of occupational health and sa» (2006) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W2054606821 «Political Economy of US States and Rates of Fatal Occupational Injury» (2009) – forekomst, registrering eller kostnader av skader, ikke effekt av tilsyn
+- OK   6 utelatt W1538751050 «A Randomized, Controlled Intervention of Machine Guarding and Related » (2009) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W4230905935 «The Employers' Costs of Workers' Compensation Insurance: Magnitudes, D» (1990) – fra før 2000, utenfor perioden i kriteriene
+- OK   6 utelatt W1967537663 «Risk assessment: A regulatory strategy for stimulating working environ» (2001) – kvalitativ og beskrivende studie av arbeidsplassvurdering i Danmark, ikke tilsyn
+- OK   6 utelatt W1979096492 «Effectiveness of the HomeSafe Pilot Program in reducing injury rates a» (2004) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W2072761102 «Work-Related Fatal-Injury Risk of Construction Workers by Occupation a» (1998) – fra før 2000, utenfor perioden i kriteriene
+- OK   6 utelatt W2582182862 «Analysis of embedded non-safety regulation games in China's two types » (2017) – land utenfor avgrensningen, og ikke kategori 1–3
+- OK   6 utelatt W3080909581 «Evolutionary game analysis of state inspection behaviour for coal ente» (2020) – teknologi eller modellering for inspeksjon eller risiko, ikke effekt av offentlig tilsyn
+- OK   6 utelatt W4295989472 «Exploring work environment management boundaries using work domain ana» (2022) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W2004220914 «Have companies improved their health and safety approaches over the la» (2005) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W2126916784 «Prevention of traumatic nail gun injuries in apprentice carpenters: Us» (2008) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W4404946398 «When weather wounds workers: The impact of temperature on workplace ac» (2024) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W3088617318 «Labor Unions and Workplace Safety» (2020) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W1717033338 «The Role of Agreements Between Labour Unions and Employers in the Regu» (2004) – om tilsyn eller regulering uten effektmål på skader eller etterlevelse (beskrivende, teoretisk eller kvalitativ)
+- OK   6 utelatt W4383736436 «Effective Components of Behavioural Interventions Aiming to Reduce Inj» (2023) – metodelitteratur, ikke en studie av tiltaket
+- OK   6 utelatt W2560183042 «Prevention of occupational injuries: Evidence for effective good pract» (2016) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W4381988121 «Laboratory safety and research productivity» (2023) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W4413449689 «Public environmental complaints and regulatory intensity» (2025) – miljøtilsyn
+- OK   6 utelatt W2094896420 «Continued progress in the prevention of nail gun injuries among appren» (2010) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W2097906865 «Law and the Labor Market» (2006) – bred oversikt over økonomisk forskning på arbeidsrett; tilsyn er en liten del, og de sentrale OSHA-studiene er valgt direkte
+- OK   6 utelatt W2593986670 «Life, limbs, and licensing: occupational regulation, wages, and workpl» (2014) – om tilsyn eller regulering uten effektmål på skader eller etterlevelse (beskrivende, teoretisk eller kvalitativ)
+- OK   6 utelatt W4403321571 «Unintended workplace safety consequences of minimum wages» (2024) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W1511459256 «Chapter 17 Employment Law» (2007) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W2117589112 «Un planteamiento estratégico de la inspección del trabajo» (2008) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W2185587074 «A Review and Synthesis of the Cost of Workplace Regulations» (2001) – oversikt over kostnadene ved regulering, ikke effekt av tilsyn
+- OK   6 utelatt W2998793463 «Understanding and managing worker’s exposure to specific risks» (2020) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W4409517563 «Shaping a positive occupational safety climate in general practice tea» (2025) – sikkerhetskultur, ledelse, opplæring eller helse, ikke offentlig tilsyn
+- OK   6 utelatt W7140319187 «Occupational safety and health in the formal and informal sectors: a w» (2026) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W4417093908 «The Extent of the Use of GRADE in Campbell Systematic Reviews: A Syste» (2025) – metodelitteratur, ikke en studie av tiltaket
+- OK   6 utelatt W7164940761 «Perfect storm: a scoping review of interventions and preparedness stra» (2026) – sikkerhetskultur, ledelse, opplæring eller helse, ikke offentlig tilsyn
+- OK   6 utelatt W1967985564 «Effectiveness of the EPA's Regulatory Enforcement: The Case of Industr» (1990) – miljøtilsyn, fra før 2000
+- OK   6 utelatt W2116913690 «How Much Work-Related Injury and Illness is Missed By the Current Nati» (2006) – forekomst, registrering eller kostnader av skader, ikke effekt av tilsyn
+- OK   6 utelatt W3125763577 «The Value of Regulatory Discretion: Estimates From Environmental Inspe» (2018) – miljøtilsyn i India
+- OK   6 utelatt W2145300971 «An evaluation of a “best practices” musculoskeletal injury prevention » (2004) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W3122767087 «Combating Child Labor: Incentives and Information Disclosure in Global» (2019) – forekomst, registrering eller kostnader av skader, ikke effekt av tilsyn
+- OK   6 utelatt W2045733141 «Time to Come Clean? Disclosure and Inspection Policies for Green Produ» (2015) – miljøtilsyn
+- OK   6 utelatt W1505893008 «On the Economics of Industrial Safety» (1974) – fra før 2000, utenfor perioden i kriteriene
+- OK   6 utelatt W4241626225 «Assessing occupational safety and health training - a literature revie» (1998) – fra før 2000, utenfor perioden i kriteriene
+- OK   6 utelatt W2308112086 «Crowdsourcing City Government: Using Tournaments to Improve Inspection» (2016) – tilsyn med restauranter, ikke arbeidsmiljø
+- OK   6 utelatt W2081505504 «Building safety: The role of construction unions in the enforcement of» (1992) – fra før 2000, utenfor perioden i kriteriene
+- OK   6 utelatt W1980729550 «Debt, Operating Margin, and Investment In Workplace Safety» (2003) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W2021543496 «Business Responses to the Regulation of Health and Safety in England*» (1993) – fra før 2000, utenfor perioden i kriteriene
+- OK   6 utelatt W2597128764 «Promoting Change from the Outside: Directing Managerial Attention in t» (2017) – sikkerhetskultur, ledelse, opplæring eller helse, ikke offentlig tilsyn
+- OK   6 utelatt W2082161267 «Pilot sample risk analysis for underground coal mine fires and explosi» (2009) – om tilsyn eller regulering uten effektmål på skader eller etterlevelse (beskrivende, teoretisk eller kvalitativ)
+- OK   6 utelatt W2096451855 «The Impact of Inspections on Plant-Level Air Emissions» (2010) – miljøtilsyn
+- OK   6 utelatt W2980821879 «The effect of firm size, asset ownership, and market prices on regulat» (2019) – om tilsyn eller regulering uten effektmål på skader eller etterlevelse (beskrivende, teoretisk eller kvalitativ)
+- OK   6 utelatt W4323051504 «Severe injuries among construction workers: Insights from OSHA’s new s» (2023) – beskrivende om OSHAs rapportering av alvorlige skader, ikke effekt av tilsyn
+- OK   6 utelatt W3145747391 «Challenges for Occupational Health and Safety Enforcement in the Const» (2021) – land utenfor avgrensningen, og ikke kategori 1–3
+- OK   6 utelatt W2953244630 «Compliance Dynamism: Capturing the Polynormative and Situational Natur» (2019) – om tilsyn eller regulering uten effektmål på skader eller etterlevelse (beskrivende, teoretisk eller kvalitativ)
+- OK   6 utelatt W2319140089 «Facilitators and barriers to occupational health and safety in small a» (2016) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W7156368782 «Integration of Lean Six Sigma and IOT-Based Real-Time Monitoring for W» (2024) – teknologi eller modellering for inspeksjon eller risiko, ikke effekt av offentlig tilsyn
+- OK   6 utelatt W2915898014 «Noncompliance of the occupational safety and health legislation in the» (2019) – land utenfor avgrensningen, og ikke kategori 1–3
+- OK   6 utelatt W2539500602 «Effectiveness of OSHA Outreach Training on carpenters’ work‐related in» (2016) – effekt av opplæring, ikke tilsyn
+- OK   6 utelatt W2801919486 «Occupational Safety and Health Administration (OSHA)» (2017) – om tilsyn eller regulering uten effektmål på skader eller etterlevelse (beskrivende, teoretisk eller kvalitativ)
+- OK   6 utelatt W2552774742 «Interventions that facilitate sustainable jobs and have a positive imp» (2016) – metodelitteratur, ikke en studie av tiltaket
+- OK   6 utelatt W2016832520 «Australian workplace health and safety regulatory approaches to prosec» (2014) – om tilsyn eller regulering uten effektmål på skader eller etterlevelse (beskrivende, teoretisk eller kvalitativ)
+- OK   6 utelatt W2504040258 «Findings From the National Machine Guarding Program–A Small Business I» (2016) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W4410704488 «Who should manage worker safety to reduce occupational accidents?» (2025) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
+- OK   6 utelatt W7160693982 «Advancing Automated OSHA Compliance Analysis in Construction through P» (2026) – teknologi eller modellering for inspeksjon eller risiko, ikke effekt av offentlig tilsyn

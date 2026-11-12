@@ -1,0 +1,16 @@
+id	svar_sier	avvik	forklaring	alvor
+kort svar	Arbeidsgivers egenandel reduserer fravær, men mindre enn arbeidstakers; erfaringsprising reduserte uføretilgang i Nederland og Finland	vekt	Det blinde svaret framhever at den norske studien av arbeidsgiverperioden (Fevang mfl.) konkluderer med nesten ingen samlet effekt, og at nederlandsk erfaringsprising ikke virket etter 2005 og finsk ikke samlet. Kontrollert i kildene (W7139837664 side med «achieves virtually nothing», W3125528164 «no evidence … post-2005»). Kort svar rettet.	høy
+W7139837664	Fjernet arbeidsgiveransvar ga mer fravær; egenandel i starten gjør arbeidsgiver mindre villig til å ta tilbake langtidssykmeldte	mangler forbehold	Forfatternes hovedkonklusjon (arbeidsgiverperioden reduserer nesten ikke samlet fravær) manglet, og at studien gjelder gravide (flagg utvalg). Rettet.	høy
+W3125528164	Fjernet erfaringsprising for små arbeidsgivere økte tilstrømningen 7 prosent	mangler forbehold	Ingen effekt etter 2005 (sykelønnsperioden forlenget til to år). Lagt til.	middels
+W4300080070	Om lag halvering for menn under 50, ikke signifikant samlet	vekt	Flagg undergruppe: hovedresultatet er ingen samlet effekt. Rekkefølgen snudd.	middels
+0198cc6b5075-4f48eef2-abe5-47a9-98cc-d3c3d0ea5955	3,6 prosentpoeng høyere sannsynlighet for arbeid året etter	mangler forbehold	Sammenhengen ble svakere og negativ i 2020 (covid-år). Lagt til. Flagg årsaksspråk gjelder forfatternes tolkning av den negative sammenhengen; svaret bruker ikke årsaksspråk.	middels
+W3123278655	Forsikrede småbedrifter: 2,8 prosentpoeng høyere sannsynlighet for langtidsfravær	annet	Fraværene i uforsikrede bedrifter er lengre; forfatterne tolker forskjellen som svakere oppfølging. Presisert.	lav
+W7203954346	Uten forskuttering om lag 3 prosent høyere sannsynlighet for friskmelding før overgang	mangler forbehold	Forfatterne: neglisjerbar betydning for samlet fravær. Lagt til.	lav
+W3126028820	Erfaringsprising 13 prosent, portvakt 25 prosent, til sammen 42 prosent	mangler forbehold	Flagg årsaksspråk: aggregert tidsserie uten kontrollgruppe. Svaret sier «tidsserieanalyse anslår»; vurdert som tilstrekkelig.	lav
+W2117611217	Andelen arbeidere sykmeldt falt fra 51 til 40 prosent	ingen	Svaret sier at studien er før og etter uten kontrollgruppe.	lav
+W2172116092	Lavere forekomst og lengre fravær etter karensdag i Posten	mangler forbehold	Flagg årsaksspråk og utvalg (én virksomhet, før og etter). Bør nevnes; lagt inn som «i Posten» og «bare sammendrag».	lav
+W2219647517	Fravær ned 2,1 dager per kvartal, 49 prosent; kan ikke skille lønn fra kontroll	ingen	Flagg utvalg (om lag 860 ansatte i én virksomhet) er ikke nevnt. Vurdert som lav.	lav
+W4297975373	14 til 24 prosent, om lag 2 dager, ikke signifikant i alle modeller; 2,4 dager for dem i samme bedrift	ingen	Stemmer med kilden (side 6 og 17).	lav
+W2104547524	Lange fravær 4,7 dager lengre	ingen	Det blinde svaret nevner elastisitet 0,22 (liten effekt). Ikke lagt til.	lav
+W7115375317	Masteroppgave, fravær ned da karensdagen ble fjernet, forfatteren tviler på parallelle trender	ingen		lav
+W4415122073	Elastisitet om lag 1, policyvurdering	ingen		lav

@@ -1,0 +1,15 @@
+{
+ "apen_url": "https://hal.science/hal-05413394v1",
+ "ar": 2017,
+ "forfattere": [
+  "Cazenave-Lacroutz, Alexandre",
+  "Godzinski, Alexandre"
+ ],
+ "id": "W7115094906",
+ "kilde": "HAL",
+ "lenke": "https://openalex.org/W7115094906",
+ "oversikt": false,
+ "sammendrag": "Modulation of sick leave reimbursement scheme has often been used in attempt to reducehealth-related absenteeism. We study the effects of the presence of a one-day waitingperiod for sick leave. This less generous policy was introduced in the French central civilservice in January 2012 and repealed in January 2014, whereas the private sector was notaffected. We employ a difference-in-differences strategy with individual fixed effects, usingthe French Labour Force Survey. We find that the total prevalence of health-relatedabsences is not affected by the policy.However, its duration distribution is. The prevalence of short-term absences decreases,while the prevalence of long-term absences increases. Decrease in short-term absences ishigher for women, young employees and those working few days per week. Effects are alsoheterogeneous across seasons: the effects on both short- and long-term absences aresignificant in winter and summer, but neither in spring nor in autumn.",
+ "tittel": "Effects of the one-day waiting period for sick leave on health-related absences in the French central civil service in the French central civil service",
+ "type": "preprint"
+}

@@ -1,0 +1,21 @@
+{
+ "apen_url": "https://doi.org/10.3386/w25492",
+ "ar": 2019,
+ "doi": "https://doi.org/10.3386/w25492",
+ "forfattere": [
+  "Simon Jäger",
+  "Benjamin Schoefer",
+  "Josef Zweimüller"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "https://doi.org/10.3386/w25492",
+ "hvordan": "pdf",
+ "id": "W2911979157",
+ "kilde": "National Bureau of Economic Research",
+ "lenke": "https://openalex.org/W2911979157",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "We present a test of Coasean theories of efficient separations.We study a cohort of jobs from the introduction through the repeal of a large, age-and region-specific unemployment benefit extension in Austria.In the treatment group, 18% fewer jobs survive.According to the Coasean view, the destroyed marginal jobs had low joint surplus.Hence, after the repeal, the treatment survivors should be dramatically more resilient than the ineligible control group survivors.Strikingly, the two groups instead exhibit identical post-repeal separation behavior.We provide and empirically support an alternative model in which wage rigidity drives the inefficient separation dynamics.",
+ "tittel": "Marginal Jobs and Job Surplus: A Test of the Efficiency of Separations",
+ "type": "report"
+}

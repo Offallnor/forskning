@@ -1,0 +1,23 @@
+{
+ "apen_url": "https://journals.sagepub.com/doi/pdf/10.1177/14034948231165089",
+ "ar": 2023,
+ "doi": "https://doi.org/10.1177/14034948231165089",
+ "forfattere": [
+  "Øystein Hetlevik",
+  "Tone Smith‐Sivertsen",
+  "Inger Haukenes",
+  "Sabine Ruths",
+  "Valborg Baste"
+ ],
+ "hentet": "2026-11-09",
+ "hentet_fra": "https://nva.sikt.no/registration/0198cc67cacc-6a3504fd-8e05-484c-b908-77d1d58031eb",
+ "hvordan": "vitenarkivet",
+ "id": "W4366083399",
+ "kilde": "Scandinavian Journal of Public Health",
+ "lenke": "https://openalex.org/W4366083399",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "Aims: To explore the association between a depression diagnosis in young adulthood and risk of marginalisation at age 29 years, among those who had completed upper secondary school and those who had not completed at age 21. Methods: In a longitudinal cohort study based on nationwide registers we followed 111,558 people from age 22–29 years. Outcomes were risk of marginalisation and educational achievement at age 29. Exposure was a diagnosed depression at ages 22–26 years. Comorbid mental and somatic health conditions, gender and country of origin were covariates. Relative risks were estimated with Poisson regression models, stratified by educational level at age 21. Results: For people who had not completed upper secondary school at age 21 years, a depression diagnosis at age 22–26 increased the risk of low income (relative risk = 1.33; 95% confidence interval = 1.25–1.40), prolonged unemployment benefit (1.46; 1.38–1.55) and social security benefit (1.56; 1.41–1.74) at age 29 compared with those with no depression. Among those who had completed upper secondary school at age 21 years, depression increased the risk of low income (1.71; 1.60–1.83), prolonged unemployment benefit (2.17; 2.03–2.31), social security benefit (3.62; 2.91–4.51) and disability pension (4.43; 3.26–6.01) compared with those with no depression. Mental comorbidity had a significant impact on risk of marginalisation in both groups. Conclusions: Depression in one’s mid-20s significantly increases the risk of marginalisation at age 29 years, and comorbid mental health conditions reinforce this association. Functional ability should be given priority in depression care in early adulthood to counteract marginalisation.",
+ "tittel": "Young adults with depression: A registry-based longitudinal study of work-life marginalisation. The Norwegian GP-DEP study",
+ "type": "article"
+}

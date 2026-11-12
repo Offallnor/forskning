@@ -1,0 +1,179 @@
+# Kontroll: gradert-psykisk
+
+Kjørt 2026-11-09.
+
+0 feil av 173 kontroller.
+
+- OK   1 kilde W1511717146 finnes
+- OK   1 kilde W2132658439 finnes
+- OK   1 kilde W2159632075 finnes
+- OK   1 kilde W2605726377 finnes
+- OK   1 kilde W2744665053 finnes
+- OK   1 kilde W2796572035 finnes
+- OK   1 kilde W2805335844 finnes
+- OK   1 kilde W2911999154 finnes
+- OK   1 kilde W4293168340 finnes
+- OK   1 kilde W4404867325 finnes
+- OK   1 kilde W88826225 finnes
+- OK   1 estimat-kilde W2911999154 finnes
+- OK   1 estimat-kilde W4404867325 finnes
+- OK   1 estimat-kilde W1511717146 finnes
+- OK   1 estimat-kilde W1511717146 finnes
+- OK   1 estimat-kilde W88826225 finnes
+- OK   1 estimat-kilde W2744665053 finnes
+- OK   1 estimat-kilde W2744665053 finnes
+- OK   1 estimat-kilde W2132658439 finnes
+- OK   1 estimat-kilde W2132658439 finnes
+- OK   1 estimat-kilde W2132658439 finnes
+- OK   1 estimat-kilde W2159632075 finnes
+- OK   1 estimat-kilde W2159632075 finnes
+- OK   1 estimat-kilde W4293168340 finnes
+- OK   1 estimat-kilde W4293168340 finnes
+- OK   1 estimat-kilde W2805335844 finnes
+- OK   1 estimat-kilde W2796572035 finnes
+- OK   1 estimat-kilde W2605726377 finnes
+- OK   1 estimat-kilde W2605726377 finnes
+- OK   1 forfatter «Meneses» for W2911999154 står i metadata eller på tittelsiden
+- OK   1 forfatter «Grønstad» for W4404867325 står i metadata eller på tittelsiden
+- OK   1 forfatter «Kausto» for W2132658439 står i metadata eller på tittelsiden
+- OK   1 forfatter «Kools» for W2805335844 står i metadata eller på tittelsiden
+- OK   1 forfatter «Rehwald» for W2796572035 står i metadata eller på tittelsiden
+- OK   1 forfatter «Høgelund» for W88826225 står i metadata eller på tittelsiden
+- OK   1 forfatter «Andrén» for W1511717146 står i metadata eller på tittelsiden
+- OK   1 forfatter «Streibelt» for W2605726377 står i metadata eller på tittelsiden
+- OK   1 forfatter «Viikari-Juntura» for W2744665053 står i metadata eller på tittelsiden
+- OK   1 forfatter «Hartikainen» for W4293168340 står i metadata eller på tittelsiden
+- OK   1 forfatter «Kausto» for W2159632075 står i metadata eller på tittelsiden
+- OK   2 sitat rad 1 (W2911999154, kunnskapsgrunnlag: én RCT og 12 register) står på oppgitt side
+- OK   3 estimat=12 rad 1 (W2911999154, kunnskapsgrunnlag: én RCT og 12 register) står i sitatet
+- OK   2 sitat rad 2 (W4404867325, ingen effektestimat; mindre belegg for g) står på oppgitt side
+- OK   2 sitat rad 3 (W1511717146, full gjenvunnet arbeidsevne, psykiske li) står på oppgitt side
+- OK   3 estimat=0.387 rad 3 (W1511717146, full gjenvunnet arbeidsevne, psykiske li) står i sitatet
+- OK   2 sitat rad 4 (W1511717146, full gjenvunnet arbeidsevne, psykiske li) står på oppgitt side
+- OK   3 estimat=0.015 rad 4 (W1511717146, full gjenvunnet arbeidsevne, psykiske li) står i sitatet
+- OK   2 sitat rad 5 (W88826225, tid til ordinær arbeidstid, psykiske lid) står på oppgitt side
+- OK   2 sitat rad 6 (W2744665053, varig retur til arbeid (minst 28 dager),) står på oppgitt side
+- OK   3 estimat=8.0 rad 6 (W2744665053, varig retur til arbeid (minst 28 dager),) står i sitatet
+- OK   3 ki_lav=5.3 rad 6 (W2744665053, varig retur til arbeid (minst 28 dager),) står i sitatet
+- OK   3 ki_hoy=10.9 rad 6 (W2744665053, varig retur til arbeid (minst 28 dager),) står i sitatet
+- OK   4 rad 6 (W2744665053, varig retur til arbeid (minst 28 dager),) estimat innenfor KI
+- OK   2 sitat rad 7 (W2744665053, varig retur etter diagnose: forskjell ve) står på oppgitt side
+- OK   2 sitat rad 8 (W2132658439, arbeidsdeltakelse (andel av året i arbei) står på oppgitt side
+- OK   3 estimat=12.8 rad 8 (W2132658439, arbeidsdeltakelse (andel av året i arbei) står i sitatet
+- OK   3 ki_lav=9.0 rad 8 (W2132658439, arbeidsdeltakelse (andel av året i arbei) står i sitatet
+- OK   3 ki_hoy=16.5 rad 8 (W2132658439, arbeidsdeltakelse (andel av året i arbei) står i sitatet
+- OK   4 rad 8 (W2132658439, arbeidsdeltakelse (andel av året i arbei) estimat innenfor KI
+- OK   2 sitat rad 9 (W2132658439, arbeidsdeltakelse, alle diagnoser, forsk) står på oppgitt side
+- OK   3 estimat=5 rad 9 (W2132658439, arbeidsdeltakelse, alle diagnoser, forsk) står i sitatet
+- OK   2 sitat rad 10 (W2132658439, arbeidsdeltakelse, psykiske lidelser, fo) står på oppgitt side
+- OK   3 estimat=18.9 rad 10 (W2132658439, arbeidsdeltakelse, psykiske lidelser, fo) står i sitatet
+- OK   3 ki_lav=14.2 rad 10 (W2132658439, arbeidsdeltakelse, psykiske lidelser, fo) står i sitatet
+- OK   3 ki_hoy=23.5 rad 10 (W2132658439, arbeidsdeltakelse, psykiske lidelser, fo) står i sitatet
+- OK   4 rad 10 (W2132658439, arbeidsdeltakelse, psykiske lidelser, fo) estimat innenfor KI
+- OK   2 sitat rad 11 (W2159632075, full uførepensjon (endring i absolutt ri) står på oppgitt side
+- OK   3 estimat=6 rad 11 (W2159632075, full uførepensjon (endring i absolutt ri) står i sitatet
+- OK   2 sitat rad 12 (W2159632075, gradert uførepensjon (endring i absolutt) står på oppgitt side
+- OK   3 estimat=8 rad 12 (W2159632075, gradert uførepensjon (endring i absolutt) står i sitatet
+- OK   2 sitat rad 13 (W4293168340, forventet yrkesaktiv tid fra 30 år, psyk) står på oppgitt side
+- OK   3 estimat=3.92 rad 13 (W4293168340, forventet yrkesaktiv tid fra 30 år, psyk) står i sitatet
+- OK   3 ki_lav=2.55 rad 13 (W4293168340, forventet yrkesaktiv tid fra 30 år, psyk) står i sitatet
+- OK   3 ki_hoy=5.30 rad 13 (W4293168340, forventet yrkesaktiv tid fra 30 år, psyk) står i sitatet
+- OK   4 rad 13 (W4293168340, forventet yrkesaktiv tid fra 30 år, psyk) estimat innenfor KI
+- OK   2 sitat rad 14 (W4293168340, forventet yrkesaktiv tid fra 30 år, musk) står på oppgitt side
+- OK   3 estimat=1.02 rad 14 (W4293168340, forventet yrkesaktiv tid fra 30 år, musk) står i sitatet
+- OK   2 sitat rad 15 (W2805335844, retur innen to år, psykiske lidelser: in) står på oppgitt side
+- OK   3 estimat=3 rad 15 (W2805335844, retur innen to år, psykiske lidelser: in) står i sitatet
+- OK   2 sitat rad 16 (W2796572035, ordinært arbeid og selvforsørgelse: effe) står på oppgitt side
+- OK   2 sitat rad 17 (W2605726377, full retur til arbeid etter 15 måneder, ) står på oppgitt side
+- OK   3 estimat=1.22 rad 17 (W2605726377, full retur til arbeid etter 15 måneder, ) står i sitatet
+- OK   3 ki_lav=1.13 rad 17 (W2605726377, full retur til arbeid etter 15 måneder, ) står i sitatet
+- OK   3 ki_hoy=1.31 rad 17 (W2605726377, full retur til arbeid etter 15 måneder, ) står i sitatet
+- OK   4 rad 17 (W2605726377, full retur til arbeid etter 15 måneder, ) estimat innenfor KI
+- OK   4 rad 17 (W2605726377, full retur til arbeid etter 15 måneder, ) KI symmetrisk på log-skala (avvik 0.01)
+- OK   2 sitat rad 18 (W2605726377, uker sykmeldt i oppfølgingen, psykiske l) står på oppgitt side
+- OK   3 estimat=7.0 rad 18 (W2605726377, uker sykmeldt i oppfølgingen, psykiske l) står i sitatet
+- OK   7 statistikk rad 1 (Nav Gradert legemeldt sykefravær etter diagnosegrupper (SYFRA2501), andel graderte tilfeller, psykiske lidel) har alle felt
+- OK   7 statistikk rad 1 (Nav Gradert legemeldt sykefravær etter diagnosegrupper (SYFRA2501), andel graderte tilfeller, psykiske lidel) verdien 37.412118 står i statistikk/nav-andel-tilfeller-gradert-hovedgr.tsv
+- OK   7 statistikk rad 2 (Nav Gradert legemeldt sykefravær etter diagnosegrupper (SYFRA2501), andel graderte tilfeller, psykiske lidel) har alle felt
+- OK   7 statistikk rad 2 (Nav Gradert legemeldt sykefravær etter diagnosegrupper (SYFRA2501), andel graderte tilfeller, psykiske lidel) verdien 43.109514 står i statistikk/nav-andel-tilfeller-gradert-hovedgr.tsv
+- OK   7 statistikk rad 3 (Nav Gradert legemeldt sykefravær etter diagnosegrupper (SYFRA2501), andel graderte tilfeller, muskel- og skj) har alle felt
+- OK   7 statistikk rad 3 (Nav Gradert legemeldt sykefravær etter diagnosegrupper (SYFRA2501), andel graderte tilfeller, muskel- og skj) verdien 30.526984 står i statistikk/nav-andel-tilfeller-gradert-hovedgr.tsv
+- OK   7 statistikk rad 4 (Nav Gradert legemeldt sykefravær etter diagnosegrupper (SYFRA2501), andel graderte tilfeller, muskel- og skj) har alle felt
+- OK   7 statistikk rad 4 (Nav Gradert legemeldt sykefravær etter diagnosegrupper (SYFRA2501), andel graderte tilfeller, muskel- og skj) verdien 32.695499 står i statistikk/nav-andel-tilfeller-gradert-hovedgr.tsv
+- OK   7 statistikk rad 5 (Nav Gradert legemeldt sykefravær etter diagnosegrupper (SYFRA2501), andel graderte tilfeller, alle diagnoser) har alle felt
+- OK   7 statistikk rad 5 (Nav Gradert legemeldt sykefravær etter diagnosegrupper (SYFRA2501), andel graderte tilfeller, alle diagnoser) verdien 26.286706 står i statistikk/nav-andel-tilfeller-gradert-hovedgr.tsv
+- OK   7 statistikk rad 6 (Nav Gradert legemeldt sykefravær etter diagnosegrupper (SYFRA2501), andel graderte tilfeller, alle diagnoser) har alle felt
+- OK   7 statistikk rad 6 (Nav Gradert legemeldt sykefravær etter diagnosegrupper (SYFRA2501), andel graderte tilfeller, alle diagnoser) verdien 29.072285 står i statistikk/nav-andel-tilfeller-gradert-hovedgr.tsv
+- OK   7 statistikk rad 7 (Nav Gradert legemeldt sykefravær etter diagnosegrupper (SYFRA2501), andel graderte tilfeller, psykiske lidel) har alle felt
+- OK   7 statistikk rad 7 (Nav Gradert legemeldt sykefravær etter diagnosegrupper (SYFRA2501), andel graderte tilfeller, psykiske lidel) er utregnet: avrundet fra 37.412118
+- OK   7 statistikk rad 8 (Nav Gradert legemeldt sykefravær etter diagnosegrupper (SYFRA2501), andel graderte tilfeller, psykiske lidel) har alle felt
+- OK   7 statistikk rad 8 (Nav Gradert legemeldt sykefravær etter diagnosegrupper (SYFRA2501), andel graderte tilfeller, psykiske lidel) er utregnet: avrundet fra 43.109514
+- OK   7 statistikk rad 9 (Nav Gradert legemeldt sykefravær etter diagnosegrupper (SYFRA2501), andel graderte tilfeller, muskel- og skj) har alle felt
+- OK   7 statistikk rad 9 (Nav Gradert legemeldt sykefravær etter diagnosegrupper (SYFRA2501), andel graderte tilfeller, muskel- og skj) er utregnet: avrundet fra 30.526984
+- OK   7 statistikk rad 10 (Nav Gradert legemeldt sykefravær etter diagnosegrupper (SYFRA2501), andel graderte tilfeller, muskel- og skj) har alle felt
+- OK   7 statistikk rad 10 (Nav Gradert legemeldt sykefravær etter diagnosegrupper (SYFRA2501), andel graderte tilfeller, muskel- og skj) er utregnet: avrundet fra 32.695499
+- OK   7 statistikk rad 11 (Nav Gradert legemeldt sykefravær etter diagnosegrupper (SYFRA2501), andel graderte tilfeller, alle diagnoser) har alle felt
+- OK   7 statistikk rad 11 (Nav Gradert legemeldt sykefravær etter diagnosegrupper (SYFRA2501), andel graderte tilfeller, alle diagnoser) er utregnet: avrundet fra 26.286706
+- OK   7 statistikk rad 12 (Nav Gradert legemeldt sykefravær etter diagnosegrupper (SYFRA2501), andel graderte tilfeller, alle diagnoser) har alle felt
+- OK   7 statistikk rad 12 (Nav Gradert legemeldt sykefravær etter diagnosegrupper (SYFRA2501), andel graderte tilfeller, alle diagnoser) er utregnet: avrundet fra 29.072285
+- OK   7 statistikk rad 13 (Nav Gradert legemeldt sykefravær etter diagnosegrupper (SYFRA2501), graderte tilfeller, psykiske lidelser) har alle felt
+- OK   7 statistikk rad 13 (Nav Gradert legemeldt sykefravær etter diagnosegrupper (SYFRA2501), graderte tilfeller, psykiske lidelser) verdien 27884 står i statistikk/nav-antall-tilfeller-gradert.tsv
+- OK   7 statistikk rad 14 (Nav Gradert legemeldt sykefravær etter diagnosegrupper (SYFRA2501), graderte tilfeller, psykiske lidelser) har alle felt
+- OK   7 statistikk rad 14 (Nav Gradert legemeldt sykefravær etter diagnosegrupper (SYFRA2501), graderte tilfeller, psykiske lidelser) verdien 51831 står i statistikk/nav-antall-tilfeller-gradert.tsv
+- OK   7 statistikk rad 15 (Nav Gradert legemeldt sykefravær etter diagnosegrupper (SYFRA2501), graderte tilfeller, alle diagnoser) har alle felt
+- OK   7 statistikk rad 15 (Nav Gradert legemeldt sykefravær etter diagnosegrupper (SYFRA2501), graderte tilfeller, alle diagnoser) verdien 125442 står i statistikk/nav-antall-tilfeller-gradert.tsv
+- OK   7 statistikk rad 16 (Nav Gradert legemeldt sykefravær etter diagnosegrupper (SYFRA2501), graderte tilfeller, alle diagnoser) har alle felt
+- OK   7 statistikk rad 16 (Nav Gradert legemeldt sykefravær etter diagnosegrupper (SYFRA2501), graderte tilfeller, alle diagnoser) verdien 171623 står i statistikk/nav-antall-tilfeller-gradert.tsv
+- OK   7 statistikk rad 17 (Nav Gradert legemeldt sykefravær etter diagnosegrupper (SYFRA2501), psykiske lidelser som andel av alle grad) har alle felt
+- OK   7 statistikk rad 17 (Nav Gradert legemeldt sykefravær etter diagnosegrupper (SYFRA2501), psykiske lidelser som andel av alle grad) er utregnet: 51831 / 171623 = 0,302
+- OK   7 statistikk rad 18 (Nav Gradert legemeldt sykefravær etter diagnosegrupper (SYFRA2501), psykiske lidelser som andel av alle grad) har alle felt
+- OK   7 statistikk rad 18 (Nav Gradert legemeldt sykefravær etter diagnosegrupper (SYFRA2501), psykiske lidelser som andel av alle grad) er utregnet: 27884 / 125442 = 0,222
+- OK   5 tallet 0.015 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 0.387 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 1.02 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 1.13 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 1.22 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 1.31 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 10.9 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 12 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 12.8 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 13.4 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 14.2 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 16.5 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 18.9 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 2.55 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 22 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 226 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 23.5 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 26.3 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 27884 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 29.1 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 3.92 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 30 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 30.5 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 32.7 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 37.4 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 43.1 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 5.3 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 5.30 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 51831 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 60 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 627 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 7.0 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 73 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 8.0 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 88 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 9.0 i svaret finnes i estimat- eller statistikktabellen
+- OK   9 kort-svar-blind.md finnes
+- OK   9 innholdskontroll har raden «kort svar»
+- OK   9 blind lesing W1511717146 i budskap.tsv
+- OK   9 blind lesing W2132658439 i budskap.tsv
+- OK   9 blind lesing W2159632075 i budskap.tsv
+- OK   9 blind lesing W2605726377 i budskap.tsv
+- OK   9 blind lesing W2744665053 i budskap.tsv
+- OK   9 blind lesing W2796572035 i budskap.tsv
+- OK   9 blind lesing W2805335844 i budskap.tsv
+- OK   9 blind lesing W2911999154 i budskap.tsv
+- OK   9 blind lesing W4293168340 i budskap.tsv
+- OK   9 blind lesing W4404867325 i budskap.tsv
+- OK   9 blind lesing W88826225 i budskap.tsv

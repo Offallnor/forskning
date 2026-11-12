@@ -1,0 +1,19 @@
+{
+ "apen_url": "https://doi.org/10.2139/ssrn.2325847",
+ "ar": 2015,
+ "doi": "https://doi.org/10.1257/pol.20130248",
+ "forfattere": [
+  "Camille Landais"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "https://docs.iza.org/dp7589.pdf",
+ "hvordan": "pdf",
+ "id": "W3021330321",
+ "kilde": "American Economic Journal Economic Policy",
+ "lenke": "https://openalex.org/W3021330321",
+ "merknad": "ÅPEN VERSJON (preprint eller arbeidsnotat), merkes i svaret",
+ "oversikt": false,
+ "sammendrag": "I investigate in this paper partial equilibrium labor supply responses to unemployment insurance (UI) in the US. I use administrative data on the universe of unemployment spells in five states from the late 1970s to 1984, and non-parametrically identify the effect of both benefit level and potential duration in the regression kink (RK) design using kinks in the schedule of UI benefits. I provide many tests for the robustness of the RK design, and demonstrate its validity to overcome the traditional issue of endogeneity in UI benefit variations on US data. I also show how, in the tradition of the dynamic labor supply literature, one can identify the purely distortionary effects of UI using variations along the returns-to-employment profile brought about by exogenous variations in the benefit level as well as in the benefit duration. I then use these estimates to calibrate the welfare effects of an increase in UI benefit level and in UI potential duration.",
+ "tittel": "Assessing the Welfare Effects of Unemployment Benefits Using the Regression Kink Design",
+ "type": "article"
+}

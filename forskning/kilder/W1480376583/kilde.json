@@ -1,0 +1,14 @@
+{
+ "apen_url": "http://hdl.handle.net/10419/187065",
+ "ar": 1991,
+ "forfattere": [
+  "Juha Kettunen"
+ ],
+ "id": "W1480376583",
+ "kilde": "RePEc: Research Papers in Economics",
+ "lenke": "https://openalex.org/W1480376583",
+ "oversikt": false,
+ "sammendrag": "This paper presents methods to estimate the effects of time-dependent covariates in parametric duration models using microeconomic data. In the Finnish system persons who are eligible for the benefits have a risk to lose them after the first three months. In addition the earnings-related unemployment allowances decrease 20 per cent after the first 100 days unemployment. Using Finnish data it is shown that unemployment benefits have a negative effect on the probability of becoming employed during the first months, but after that period the effect vanishes.",
+ "tittel": "Time-Dependent Effects of Unemployment Benefits",
+ "type": "article"
+}

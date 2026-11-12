@@ -1,0 +1,22 @@
+{
+ "apen_url": "https://oem.bmj.com/content/oemed/early/2023/07/27/oemed-2023-108867.full.pdf",
+ "ar": 2023,
+ "doi": "https://doi.org/10.1136/oemed-2023-108867",
+ "forfattere": [
+  "Charlotte Lambreghts",
+  "Sofie Vandenbroeck",
+  "Kaat Goorts",
+  "Lode Godderis"
+ ],
+ "hentet": "2026-11-09",
+ "hentet_fra": "https://lirias.kuleuven.be/retrieve/0065232e-f9f4-4081-a876-d29ccea228e1",
+ "hvordan": "pdf",
+ "id": "W4385329355",
+ "kilde": "Occupational and Environmental Medicine",
+ "lenke": "https://openalex.org/W4385329355",
+ "merknad": "",
+ "oversikt": true,
+ "sammendrag": "Burnout is a work-related mental health problem that often causes long-term sickness absence. Return-to-work (RTW) interventions for burned-out sick-listed employees aim to prevent long-term work disability. This systematic review addresses two questions: (1) Which interventions for burned-out sick-listed employees have been studied?; (2) What is the effect of these interventions on RTW?We performed a systematic literature review and searched PubMed, Cochrane Central Register of Controlled Trials, Embase, CINAHL and Web of Science from 1 January 2000 to 31 December 2022. We searched for articles of interventions for burned-out sick-listed employees. We conducted the review in line with the Preferred Reporting Items for Systematic Reviews and Meta-Analysis guidelines. Outcome was RTW.We identified 2160 articles after removal of all duplicates. Eight studies met inclusion criteria. RTW outcomes were number of sick-leave days, sick-leave rates, median period of RTW and worked hours per week. Five studies described person-directed interventions, one described a workplace-directed intervention, one described a combination of both intervention types and one study described all three types of intervention. Only the workplace-directed intervention showed a significant improvement in RTW compared with the comparator group: at 18-month follow-up, 89% of the intervention group had returned to work compared with 73% of the comparator group.Only a limited number of studies have explored interventions specifically focused on burned-out sick-listed employees and the effect on RTW. Due to heterogeneity and moderate to high risk of bias of these studies, no firm conclusions can be drawn on the described interventions and their effect on RTW.The study was registered with the International prospective register of systematic reviews (PROSPERO, registration number: CRD42018089155).",
+ "tittel": "Return-to-work interventions for sick-listed employees with burnout: a systematic review",
+ "type": "review"
+}

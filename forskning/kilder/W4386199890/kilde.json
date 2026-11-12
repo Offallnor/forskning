@@ -1,0 +1,26 @@
+{
+ "apen_url": "https://www.sjweh.fi/download.php?abstract_id=4117&file_nro=1",
+ "ar": 2023,
+ "doi": "https://doi.org/10.5271/sjweh.4117",
+ "forfattere": [
+  "Lene Aasdahl",
+  "Martin Inge Standal",
+  "Roger Hagen",
+  "Marit Solbjør",
+  "Gunnhild Bagøien",
+  "Heidi Fossen",
+  "Vegard Stolsmo Foldal",
+  "Johan Hå‌kon Bjø‌rngaard"
+ ],
+ "hentet": "2026-11-09",
+ "hentet_fra": "https://www.sjweh.fi/pdf-236521-144382?filename=Effectiveness-of-motivati.pdf",
+ "hvordan": "pdf",
+ "id": "W4386199890",
+ "kilde": "Scandinavian Journal of Work Environment & Health",
+ "lenke": "https://openalex.org/W4386199890",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "OBJECTIVE: This study aimed to evaluate the effectiveness of motivational interviewing (MI) - a counselling approach offered by caseworkers at the Norwegian Labor and Welfare Administration (NAV) - on return to work (RTW) for individuals sick-listed for ≥8 weeks due to any diagnoses. MI was compared to usual case management and an active control during 12 months of follow-up. METHODS: In a randomized clinical trial with three parallel arms, participants were randomized to MI (N=257), usual case management (N=266), or an active control group (N=252). MI consisted of two MI sessions while the active control involved two sessions without MI, both were offered in addition to usual case management. The primary outcome was number of sickness absence days based on registry data. Secondary outcomes included time to sustainable RTW, defined as four consecutive weeks without medical benefits. RESULTS: The median number of sickness absence days for the MI group was 73 days [interquartile range (IQR) 31-147], 76 days (35-134) for usual care, and 75 days (34-155) for active control. In total 89%, 88% and 86% of the participants, respectively, achieved sustainable RTW. The adjusted hazard ratio (HR) for time to sustainable RTW was 1.12 (95% CI 0.90-1.40) for MI compared to usual case management and HR 1.16 (95% CI 0.93-1.44) compared to the active control. CONCLUSIONS: This study did not provide evidence that MI offered by NAV caseworkers to sick-listed individuals was more effective on RTW than usual case management or an active control. Providing MI in this context could be challenging as only half of the MI group received the intervention.",
+ "tittel": "Effectiveness of 'motivational interviewing' on sick leave: a randomized controlled trial in a social insurance setting",
+ "type": "article"
+}

@@ -1,0 +1,19 @@
+{
+ "apen_url": "https://docs.iza.org/dp9868.pdf",
+ "ar": 2016,
+ "forfattere": [
+  "Johannes F. Schmieder",
+  "Simon Trenkle"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "https://docs.iza.org/dp9868.pdf",
+ "hvordan": "pdf",
+ "id": "W3123720716",
+ "kilde": "RePEc: Research Papers in Economics",
+ "lenke": "https://openalex.org/W3123720716",
+ "merknad": "ÅPEN VERSJON (preprint eller arbeidsnotat), merkes i svaret",
+ "oversikt": false,
+ "sammendrag": "A large literature has documented that the unemployment duration of unemployed individuals increases with the generosity of the unemployment insurance (UI) system, which has been interpreted as the disincentive effect of UI benefits. However, unemployed workers typically also have caseworkers assigned who are monitoring and assisting the job search efforts. These caseworkers may respond to differences in UI eligibility by shifting resources (financial or time) between unemployed individuals in order to counteract the moral hazard effect of UI benefits or to focus resources to where they have the largest effect. Depending on the motivations of the caseworker, the effectiveness of caseworker resources and the complementarity between these resources and UI benefits, the typical estimates of the disincentive effects of UI may be biased upwards or downwards in studies that compare workers within the same UI agency. We estimate whether caseworkers respond to the generosity of UI eligibility using a sharp regression discontinuity (RD) design in Germany, where potential UI durations vary with age. We show that across a wide variety of measures, including training programs, wage subsidies, personal meetings and sanctions, UI caseworkers do not treat unemployed with different eligibility differently. At best we find a very small effect that workers with shorter eligibility close to the exhaustion point are more likely to be assigned to training programs that prolong their UI eligibility. The typical RD estimates of the UI disincentive effects thus seem to be valid estimates.",
+ "tittel": "Disincentive Effects of Unemployment Benefits and the Role of Caseworkers",
+ "type": "preprint"
+}

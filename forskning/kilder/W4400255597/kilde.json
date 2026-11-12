@@ -1,0 +1,24 @@
+{
+ "apen_url": "https://doi.org/10.1007/s10926-024-10219-6",
+ "ar": 2024,
+ "doi": "https://doi.org/10.1007/s10926-024-10219-6",
+ "forfattere": [
+  "Esmée Oude Geerdink",
+  "Maaike A. Huysmans",
+  "Hetty van Kempen",
+  "Jaap van Weeghel",
+  "Ehsan Motazedi",
+  "Johannes R. Anema"
+ ],
+ "hentet": "2026-11-09",
+ "hentet_fra": "https://link.springer.com/content/pdf/10.1007/s10926-024-10219-6.pdf",
+ "hvordan": "pdf",
+ "id": "W4400255597",
+ "kilde": "Journal of Occupational Rehabilitation",
+ "lenke": "https://openalex.org/W4400255597",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "PURPOSE: This study assessed the effectiveness of Individual Placement and Support (IPS), Participatory Workplace Intervention (PWI), and IPS + PWI on work participation and health of people with work disabilities. METHODS: A randomised controlled 2 × 2 factorial trial with 120 clients and an 18-month follow-up was performed. Differences between IPS and no-IPS and between PWI and no-PWI were assessed using log-rank tests and Cox proportional hazards models. RESULTS: In the IPS group, restricted mean survival time (RMST) for sustainable paid employment was 352 days, compared to 394 in the no-IPS group (HR = 1.47, 95% CI = 0.81-2.63). In the PWI group the RMST was 378 days, compared to 367 in the no-PWI group (HR = 0.89, 95% CI = 0.48-1.64). For the secondary outcome 'starting any paid employment, a trial placement, or education' RMST was significantly lower for the IPS group (222 days) than for the no-IPS group (335 days; HR = 1.85, 95% CI = 1.01-3.42). Mental health was significantly lower (worse) in the PWI group (difference -4.07, 95% CI = -7.93 to -0.22) than in the no-PWI group. For all other secondary outcomes, no statistically significant differences were found. CONCLUSION: No statistically significant differences were observed in the duration until starting sustainable employment between IPS and no-IPS, and between PWI and no-PWI. The duration until starting any paid employment, a trial placement, or education was shorter in the IPS group than in the no-IPS group, but further research should explore whether this also increases sustainable employment in the longer term.",
+ "tittel": "Individual Placement and Support and Participatory Workplace Intervention on the Work Participation of People with Disabilities: A Randomised Controlled Trial",
+ "type": "article"
+}

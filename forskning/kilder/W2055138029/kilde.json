@@ -1,0 +1,19 @@
+{
+ "apen_url": "http://ageconsearch.umn.edu/record/273308",
+ "ar": 1997,
+ "doi": "https://doi.org/10.1080/07350015.1997.10524695",
+ "forfattere": [
+  "Christopher Ferrall"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "https://ageconsearch.umn.edu/record/273308/files/qed_wp_904.pdf",
+ "hvordan": "pdf",
+ "id": "W2055138029",
+ "kilde": "Journal of Business and Economic Statistics",
+ "lenke": "https://openalex.org/W2055138029",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "To study how the design of unemployment insurance (UI) affects people leaving school to find jobs, a model of job search in the presence of UI is developed and estimated for the United States and Canada. The level of UI benefits depends on previous earnings, which creates opposing incentives for unemployed people not receiving benefits. Which of these opposing incentives dominates the other is found to differ across demographic groups within each country. Changes in UI policy therefore can have very different effects on different individuals. The major differences found in the transition from school to work in Canada and the United States are a lower rate of job-offer arrivals and a lower rate of offer rejections in Canada. Within each country, offer-arrival rates differ across individuals much more than offer-rejection rates.",
+ "tittel": "Unemployment Insurance Eligibility and the Scholl-to-Work Transition in Canada and the United States",
+ "type": "article"
+}

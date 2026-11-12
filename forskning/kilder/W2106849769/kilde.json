@@ -1,0 +1,24 @@
+{
+ "apen_url": "https://www.sjweh.fi/download.php?abstract_id=3320&file_nro=1",
+ "ar": 2012,
+ "doi": "https://doi.org/10.5271/sjweh.3320",
+ "forfattere": [
+  "Erik Noordik",
+  "Jac JL van der Klink",
+  "Ronald Bertus Geskus",
+  "Michiel Robert de Boer",
+  "Frank J. H. van Dijk",
+  "Karen Nieuwenhuijsen"
+ ],
+ "hentet": "2026-11-09",
+ "hentet_fra": "https://www.sjweh.fi/pdf-237291-145129?filename=Effectiveness-of-an-expos.pdf",
+ "hvordan": "pdf",
+ "id": "W2106849769",
+ "kilde": "Scandinavian Journal of Work Environment & Health",
+ "lenke": "https://openalex.org/W2106849769",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "OBJECTIVES: In case of long-term sick leave, gradually increasing workload appears to be an effective component of work-directed interventions to reduce sick leave due to common mental disorders (CMD). CMD are defined as stress-related, adjustment, anxiety, or depressive disorders. We developed an exposure-based return-to-work (RTW-E) intervention and evaluated the effect on time-to-full return to work (RTW) among workers who were on sick leave due to CMD in comparison to those treated with care-as-usual (CAU). CAU is guideline-directed and consists of problem-solving strategies and graded activities. METHODS: Using a two-armed cluster-randomized trial, we randomized 56 occupational physicians (OP). Of these, 35 OP treated 160 workers at the start of their sick leave; 75 workers received RTW-E and 85 workers received CAU. These workers were followed over a 12-month follow-up period. The time-to-full RTW lasting ≥28 days without recurrence was the primary outcome measure. To evaluate differences between groups, we used intention-to-treat and multilevel Cox's regression analysis. RESULTS: The median time-to-full RTW differed significantly between groups [hazard ratio (HR) 0.55; 95% confidence interval (95% CI) 0.33-0.89]. The workers receiving RTW-E (209 days; 95% CI 62-256) had a prolonged time-to-full RTW compared to workers receiving CAU (153 days; 95% CI 128-178). CONCLUSIONS: Workers on sick leave due to CMD treated with RTW-E showed a prolonged time-to-full RTW compared to those treated with CAU. We recommend that OP do not apply RTW-E but continue counseling workers on sick leave due to CMD according to CAU.",
+ "tittel": "Effectiveness of an exposure-based return-to-work program for workers on sick leave due to common mental disorders: a cluster-randomized controlled trial",
+ "type": "article"
+}

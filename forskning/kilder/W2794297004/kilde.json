@@ -1,0 +1,26 @@
+{
+ "apen_url": "https://doi.org/10.3390/ijerph15030552",
+ "ar": 2018,
+ "doi": "https://doi.org/10.3390/ijerph15030552",
+ "forfattere": [
+  "Carla Sabariego",
+  "Michaela Coenen",
+  "Elizabeth Ito",
+  "Klemens Fheodoroff",
+  "Chiara Scaratti",
+  "Matilde Leonardi",
+  "Anastasia Vlachou",
+  "Panayiota Stavroussi"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC5877097/fullTextXML",
+ "hvordan": "Europe PMC",
+ "id": "W2794297004",
+ "kilde": "International Journal of Environmental Research and Public Health",
+ "lenke": "https://openalex.org/W2794297004",
+ "merknad": "",
+ "oversikt": true,
+ "sammendrag": "Due to low employment rates associated to chronic conditions in Europe, it is essential to foster effective integration and re-integration into work strategies. The objective of this systematic review is to summarize the evidence on the effectiveness of strategies for integration and re-integration to work for persons with chronic diseases or with musculoskeletal disorders, implemented in Europe in the past five years. A systematic search was conducted in MedLine, PsycINFO, CDR-HTA, CDR-DARE and Cochrane Systematic Reviews. Overall, 32 relevant publications were identified. Of these, 21 were considered eligible after a methodological assessment and included. Positive changes in employment status, return to work and sick leave outcomes were achieved with graded sickness-absence certificates, part-time sick leave, early ergonomic interventions for back pain, disability evaluation followed by information and advice, and with multidisciplinary, coordinated and tailored return to work interventions. Additionally, a positive association between the co-existence of active labour market policies to promote employment and passive support measures (e.g., pensions or benefits) and the probability of finding a job was observed. Research on the evaluation of the effectiveness of strategies targeting integration and re-integration into work for persons with chronic health conditions needs, however, to be improved and strengthened.",
+ "tittel": "Effectiveness of Integration and Re-Integration into Work Strategies for Persons with Chronic Conditions: A Systematic Review of European Strategies",
+ "type": "review"
+}

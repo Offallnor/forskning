@@ -1,0 +1,19 @@
+{
+ "apen_url": "https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID2737982_code1537284.pdf?abstractid=2737982&mirid=1",
+ "ar": 2015,
+ "doi": "https://doi.org/10.6092/unibo/amsacta/4656",
+ "forfattere": [
+  "Diogo G. C. Britto"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "http://amsacta.unibo.it/4656/1/WP1058.pdf",
+ "hvordan": "pdf",
+ "id": "W2244210609",
+ "kilde": "AMS Acta (University of Bologna)",
+ "lenke": "https://openalex.org/W2244210609",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "Can the potential availability of unemployment insurance (UI) affect the behavior of employed workers and the duration of their employment spells? I apply a regression kink design (RKD) to address this question using linked employer-employee data from the Brazilian labor market. Exploiting the UI schedule, I find 1% higher potential benefit level increases job duration by around 0.3%. Such result is driven by the fact that higher UI decreases the probability of job quits, which are not covered by UI in Brazil. These estimates are robust to permutation tests and a number of falsification tests. I develop a simple model to assess the economic relevance of this finding. It shows that the positive effect on employment duration implies that the optimal benefit level is higher than otherwise. More importantly, the model delivers a simple welfare formula based on sufficient statistics which can be easily linked to the data. A simple calibration exercise shows that this elasticity impacts welfare with a similar magnitude to the well-known elasticity of unemployment duration to benefit level.",
+ "tittel": "Unemployment Insurance and the Duration of Employment: Evidence from a Regression Kink Design",
+ "type": "book"
+}

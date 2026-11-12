@@ -1,0 +1,18 @@
+{
+ "apen_url": "http://hdl.handle.net/10016/4136",
+ "ar": 1998,
+ "forfattere": [
+  "Alfonso Alba"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "https://e-archivo.uc3m.es/rest/api/core/bitstreams/6d04d893-3628-4179-a9e2-e9f0538edf0b/content",
+ "hvordan": "pdf",
+ "id": "W2415614146",
+ "kilde": "e-Archivo (Carlos III University of Madrid)",
+ "lenke": "https://openalex.org/W2415614146",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "In this article we use a discrete-time duration model to study the effect of unemployment compensation on the re-employment probability in Spain. The data set used is composed of a sample of newly-unemployed men and women obtained from the first wave of the Household Panel of the European Union. Using three alternative measures for unemployment benefit receipt, we obtain that the predicted hazard rate among workers who do not receive benefits is double or higher than that for workers who receive benefits. The negative effect of benefit receipt on the re-employment probability is less significant for women than for meno The predicted hazard is quite fIat for men and exhibits moderate positive duration dependence for women.",
+ "tittel": "The effect of unemployment compensation on the re-employment probability in Spain",
+ "type": "report"
+}

@@ -1,0 +1,21 @@
+{
+ "ar": 2020,
+ "doi": "https://doi.org/10.2760/623819",
+ "forfattere": [
+  "Guilia Canzian",
+  "Josephine Foubert",
+  "Meroni Elena Claudia",
+  "Giulia Santangelo"
+ ],
+ "hentet": "2026-11-11",
+ "hentet_fra": "https://publications.jrc.ec.europa.eu/repository/bitstream/JRC113899/kjna30144enn.pdf",
+ "hvordan": "pdf",
+ "id": "W3024705443",
+ "kilde": "Joint Research Centre (European Commission)",
+ "lenke": "https://openalex.org/W3024705443",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "The aim of this report is to evaluate the \"Work Experience for Young Persons\" (WIJ) programme, implemented in Flanders from 2015 until 2018. The WIJ programme is targeted at unqualified young unemployed with the aim of facilitating their entry to the labour market, through an intensive guiding trajectory which includes labour market orientation and coaching, and possibly competence strengthening activities. The analysis is based on administrative data sources from the Flemish Public Employment Service. Using detailed information on the past labour market histories of youth, we apply matching approaches to evaluate the impact of WIJ in terms of probability of being employed or re-entering education for young unemployed. Our results suggest that those who have participated in the WIJ programme have lower employment and education probabilities. However, if we only consider those whose WIJ intervention lasted less than 14 months (which includes all participants within the standard trajectory), there are no significant differences between the treated and the control group in terms of employment probability. Furthermore, the negative effect on the probability of being enrolled in education is smaller in this group than in the whole sample. Those who followed the standard trajectory thus clearly outperformed those in extended trajectories. Because relatively little is known about the selection process of the treated individuals, these results should be interpreted with caution.",
+ "tittel": "Active Labour Market Policies in Flanders. Evaluation of the ESF “Work Experience for Young Persons” programme",
+ "type": "article"
+}

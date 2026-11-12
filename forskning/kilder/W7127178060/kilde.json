@@ -1,0 +1,26 @@
+{
+ "apen_url": "https://doi.org/10.3310/sveg8456",
+ "ar": 2025,
+ "doi": "https://doi.org/10.3310/sveg8456",
+ "forfattere": [
+  "Gwenllian Wynne‐Jones",
+  "Martyn Lewis",
+  "Gail Sowden",
+  "Ira Madan",
+  "Karen E Walker-Bone",
+  "Carolyn Anne Chew-Graham",
+  "Kieran Bromley",
+  "Sue Jowett"
+ ],
+ "hentet": "2026-11-09",
+ "hentet_fra": "https://publications.aston.ac.uk/id/eprint/48726/1/3049852.pdf",
+ "hvordan": "pdf",
+ "id": "W7127178060",
+ "kilde": "Health Technology Assessment",
+ "lenke": "https://openalex.org/W7127178060",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "Background and objectives: To describe exploratory findings and lessons learned from the discontinued WAVE trial, which sought to determine the effectiveness and costs of adding an early vocational advice intervention to usual primary care on number of days of sickness absence over 6 months. Methods: Pragmatic, multicentre, two-parallel arm, superiority, randomised controlled trial with health economic analysis in 10 general practices in England, with nested qualitative interviews. Population: Adults with fit notes for any health condition, absent from work ≥ 2 weeks and ≤ 6 months were invited to participate. Intervention and comparator: Participants were randomised (1 : 1) to usual primary care with/without vocational advice delivered by trained Vocational Support Workers. The planned sample size was 720, the first 4 months of recruitment served as an internal pilot phase and the primary outcome was self-reported days of work absence over 6 months. Results: One hundred and thirty participants were recruited from 7955 invitations (May 2022-May 2023) before trial closure (64 usual care, 66 usual care plus vocational advice). Exploratory analysis of 125 participants (with outcome data) indicated small additional benefits of the vocational advice intervention over usual care [mean days absence = 37.86 (standard deviation = 48.76) vs. usual care = 42.66 (standard deviation = 57.67), incidence rate ratio = 0.913, 80% confidence interval (0.653 to 1.276)]. The vocational advice intervention was delivered remotely [mean = 4.8 contacts (range 1-12)]. Partial health economic evaluation found lower work productivity losses at 6 months after vocational advice intervention (£5513.84, standard deviation = £7101.43) compared to usual care (£6146.21, standard deviation = £8431.88). Conclusions, limitations and future work: Exploratory analysis indicated a signal of effect, with differences in the number of days absent from work, costs and secondary outcomes. Key lessons learned included the need for closer working with primary care teams and more flexible recruitment methods. A future fully powered randomised controlled trial of vocational advice intervention added to usual primary care is needed to determine the effectiveness and cost-effectiveness. Funding: This article presents independent research funded by the National Institute for Health and Care Research (NIHR) Health Technology Assessment programme as award number 17/94/49.",
+ "tittel": "Addition of early vocational advice to usual primary care on sickness absence in employed adults: exploratory findings from the discontinued WAVE Randomised Controlled Trial",
+ "type": "article"
+}

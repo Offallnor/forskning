@@ -1,0 +1,19 @@
+{
+ "apen_url": "https://doi.org/10.1002/hec.70126",
+ "ar": 2026,
+ "doi": "https://doi.org/10.1002/hec.70126",
+ "forfattere": [
+  "Jeppe Elholm Madsen"
+ ],
+ "hentet": "før 2026-11-08",
+ "hentet_fra": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13532618/fullTextXML",
+ "hvordan": "Europe PMC",
+ "id": "W4408790921",
+ "kilde": "Health Economics",
+ "lenke": "https://openalex.org/W4408790921",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "This paper investigates the effects of a 2014 policy reform on paid sick leave in Denmark. The reform shortened the eligibility period from 56 to 26 weeks for paid sick leave and introduced a mandatory return-to-work activation program for individuals whose benefits were not extended. The reform initially led to a temporary increase in returns to employment, as individuals on sick leave resumed work to avoid entering the mandatory activation program. However, this effect fades in the long run, and no sustained employment improvements were observed.",
+ "tittel": "Threat Effects and Work Incentives: Evidence From a Danish Sick Leave Reform",
+ "type": "article"
+}

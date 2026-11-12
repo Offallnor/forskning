@@ -1,0 +1,21 @@
+{
+ "apen_url": "https://doi.org/10.2139/ssrn.2255990",
+ "ar": 2016,
+ "doi": "https://doi.org/10.1257/pol.20130315",
+ "forfattere": [
+  "Lukas Inderbitzin",
+  "Stefan Staubli",
+  "Josef Zweimüller"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "https://docs.iza.org/dp7330.pdf",
+ "hvordan": "pdf",
+ "id": "W3123209104",
+ "kilde": "American Economic Journal Economic Policy",
+ "lenke": "https://openalex.org/W3123209104",
+ "merknad": "ÅPEN VERSJON (preprint eller arbeidsnotat), merkes i svaret",
+ "oversikt": false,
+ "sammendrag": "This paper explores how extended unemployment insurance (UI) benefits targeted to older workers affect early retirement and social welfare. The trade-off of optimal UI between consumption smoothing and moral hazard requires accounting for the entire early retirement system, which often includes extended UI and relaxed access to disability insurance (DI). We argue that extended UI generates program complementarity (increased take-up of UI followed by DI and/or regular retirement benefits) and program substitution (increased take-up of UI instead of DI). Exploiting Austria's regional extended benefit program, which extended regular UI benefits to up to 4 years, we find: (i) program complementarity is quantitatively important for workers aged 50; and (ii) program substitution is quantitatively relevant for workers aged 55. We derive a simple rule for optimal UI that accounts for program complementarity and program substitution. Using the sufficient statistics approach, we conclude that UI for older workers was too generous and the regional extended benefit program was a suboptimal policy.",
+ "tittel": "Extended Unemployment Benefits and Early Retirement: Program Complementarity and Program Substitution",
+ "type": "article"
+}

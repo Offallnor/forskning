@@ -1,0 +1,18 @@
+{
+ "apen_url": "https://doi.org/10.1016/j.euroecorev.2026.105308",
+ "ar": 2026,
+ "doi": "https://doi.org/10.1016/j.euroecorev.2026.105308",
+ "forfattere": [
+  "James Cockett",
+  "Richard Dorsett",
+  "Matthew Gould",
+  "Helen Gray"
+ ],
+ "id": "W7134921695",
+ "kilde": "European Economic Review",
+ "lenke": "https://openalex.org/W7134921695",
+ "oversikt": false,
+ "sammendrag": "Individual Placement and Support (IPS) is a vocational rehabilitation intervention with strong evidence of effectiveness at increasing employment among those with severe mental illness in secondary care. This paper assesses its effectiveness for individuals with mild-moderate mental or physical health problems in primary or community care settings. We present the results of three large randomised trials delivered across two sites in England. For those in work when randomised, IPS increased employment 12 months later by 3 percentage points and increased health and well-being by 0.10 and 0.18 standard deviations, respectively. For individuals not working when randomised, employment impacts (4 percentage points) were found in one site and health and well-being impacts (0.10 and 0.12 standard deviations, respectively) in another. The results suggest IPS can work for a broader population than those with severe mental health problems but that its effectiveness may vary according to the nature of implementation and the local context. Projected three-year benefits comfortably exceeded costs where there was a health impact. A positive longer-term return is possible without a health impact but would require employment and earnings impacts to be sustained.",
+ "tittel": "Supporting employment among individuals with common health problems: Experimental evidence from England",
+ "type": "article"
+}

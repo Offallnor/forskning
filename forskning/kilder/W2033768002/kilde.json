@@ -1,0 +1,15 @@
+{
+ "ar": 2004,
+ "doi": "https://doi.org/10.1086/380406",
+ "forfattere": [
+  "Audrey L. Light",
+  "Yoshiaki Omori"
+ ],
+ "id": "W2033768002",
+ "kilde": "Journal of Labor Economics",
+ "lenke": "https://openalex.org/W2033768002",
+ "oversikt": false,
+ "sammendrag": "We investigate an unexplored avenue through which unemployment insurance increases unemployment. As unemployment insurance benefits rise, workers lose incentive to “preempt” impending layoffs by changing jobs. We formalize this prediction in a job search model and investigate it empirically by estimating a proportional hazard model with data from the 1979 National Longitudinal Survey of Youth, using state‐ and year‐specific algorithms to compute each worker’s expected unemployment insurance benefits. Our estimates reveal that an exogenous increase in benefits deters job quits by a small but statistically significant amount.",
+ "tittel": "Unemployment Insurance and Job Quits",
+ "type": "article"
+}

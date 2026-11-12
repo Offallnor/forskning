@@ -1,0 +1,74 @@
+id	kategori	land	tiltak	samme_materiale	begrunnelse
+W2559846193	1	NL,DE,GB	arbeidsgiver: privatisering av sykelønn/arbeidsgiveransvar	W2340419694	Oversikt over økonomiske insentiver for arbeidsgiver i sykelønn og uføretrygd.
+W4415122073	1	DE	arbeidstaker: karensdager og kompensasjonsgrad		Fagøkonomisk oppsummering av karensdager og lavere lønnserstatning (innhold ikke kontrollert, tomt sammendrag).
+W2326189071	3	DE	arbeidstaker: kompensasjonsgrad	W3126042431;W4298879909	Reform i 1999 økte sykelønn fra 80 til 100 prosent; fravær økte omtrent 10 prosent.
+W3040771904	3	DE	arbeidstaker: kompensasjonsgrad	W4297975373;W3124756840;W2151671583;W3122570178;W2191637915	Naturlig eksperiment med kutt i sykelønn i 1996-97; effekt på fravær og arbeidskostnader.
+W3122111607	3	DE	arbeidstaker: kompensasjonsgrad	W3121313943	Samme tyske kutt i sykelønn, effekt på langtidsfravær; annet utfall enn øvrige artikler.
+W2601387569	3	DE	arbeidstaker: kompensasjonsgrad	W2191637915	Fordeling av sykelønnskostnader mellom arbeidstaker, bedrift og trygd og effekt på fravær og senere helse.
+W3125449166	3	DE	arbeidstaker: kompensasjonsgrad	W2141321174;W3123915851;W4300708056	Sykelønnsreform og fravær etter fagforeningsmedlemskap.
+W1587446007	4	DE	arbeidstaker: kompensasjonsgrad		Tidsserie 1951-99 med flere institusjonelle endringer i lønnsfortsettelse.
+W2049901974	3	SE	arbeidstaker: kompensasjonsgrad	W3122634514	Reform som kuttet kompensasjonsgraden brukes som eksogen variasjon i fravær.
+W2131976333	4	SE	arbeidstaker: kompensasjonsgrad		Mikrodata og reformer 1991: effekt av økonomiske insentiver på fravær.
+W2797417805	3	SE	arbeidstaker: kompensasjonsgrad	W1514072083;W1581287809;W1539891801	Reformer i erstatningsnivå 1990-91 med faste effekter og kontrollgruppe.
+W2151016786	4	SE	arbeidstaker: kompensasjonsgrad og karensdag		Reformene i 1987 og 1991 og korte sykefravær.
+W2172116092	3	SE	arbeidstaker: karensdag		Innføring av karensdag i 1993 og endring i fravær.
+W1742250188	3	SE	arbeidstaker: karensdag		Innføring av karensdag 1993 og fordelingseffekter i arbeidskraftsundersøkelsen.
+W2169584029	4	SE	arbeidstaker: kompensasjonsgrad		Tidsserie 1955-99 med mange endringer i kompensasjon; sterke effekter på fravær.
+W1730183598	4	SE	arbeidstaker: kompensasjonsgrad		Panel 1985-97 med faste effekter og flere kutt i sykepenger.
+W211913321	4	SE	arbeidstaker: kompensasjonsgrad	W2131976333	Avhandling om reformer 1991-96 med faste effekter (essay I).
+W3125477331	3	SE	arbeidstaker: karensdag		Avskaffing av karensdag kombinert med høyere ytelse ved korte fravær.
+W2180996442	3	SE	arbeidstaker: kompensasjonsgrad		Reform som varierte kompensasjonsgraden over fraværsløpet; effekt på langtidsfravær.
+W2104547524	3	SE	arbeidstaker: tilleggskompensasjon (tariff)		Endring i 1998 som tillot tilleggskompensasjon etter dag 90; effekt på varighet.
+W2128891253	3	SE	arbeidstaker: kompensasjonsgrad		Reform av sykeforsikringsdekning og ektefellens sykedager.
+W2116312979	3	SE	arbeidstaker: kompensasjonsgrad	W2128891253	Publisert versjon om ektefellers fravær etter reform av dekning.
+W1572536547	4	SE	arbeidstaker: karensdag (forskjell mot foreldrepenger)		Ulik kompensasjon mellom sykepenger og foreldrepenger gir overgang.
+W2005190118	4	SE	arbeidstaker: tak/ytelsesnivå	W3125893180	Reform og ulikt ytelsestak mellom sykepenger og arbeidsledighetstrygd.
+W4389284747	3	SE	arbeidsgiver: forsikring mot høye sykelønnskostnader		Reform med terskler etter bedriftsstørrelse; bedriftenes respons.
+W4220936084	4	SE	arbeidsgiver: medfinansiering av uføretrygd		Medfinansieringsmodell i kommunesektoren og innstrøm til uføretrygd.
+W3145316688	4	SE	arbeidsgiver: medfinansiering og lønn	W1553118768	Arbeidsgiverinsentiver i sosialforsikring og effekt på individuelle lønninger.
+W3123410700	3	NO	arbeidsgiver: arbeidsgiverperiode	W2076492883;W3123390424;W4206014690;W7139837664	Fjernet arbeidsgiveransvar for svangerskapsfravær; fravær og tilbakeføring til jobb.
+W1733360148	3	NO	arbeidstaker: kompensasjonsgrad (tak)		Diskontinuitet i sykelønnsreglene og lengde på sykefravær.
+W1823227986	3	NO	arbeidstaker: kompensasjonsgrad (ytelsessystem)	W2185787581	Omlegging av ytelsessystemet og varighet/utfall av midlertidig uførhet.
+W2073338958	3	NO	arbeidstaker: ytelsesnivå ved uførhet		Diskontinuitet i uførepolitikk gir retur til arbeid.
+0198cc6b5075-4f48eef2-abe5-47a9-98cc-d3c3d0ea5955	4	NO	arbeidsgiver: fritak for arbeidsgiverperiode (skjerming)	W4404601962	Skjerming av kronisk syke (fritak fra arbeidsgiverperiode); observasjonell, lite kontroll for seleksjon.
+W2801719577	4	NO	arbeidstaker: tak/kompensasjon over 6G	0198cc821373-89fa873d-be66-4533-8a56-dc5565a1db63	Fravær rundt grensen for folketrygdens kompensasjon og tilleggssykelønn.
+W7203954346	4	NO	arbeidsgiver: forskuttering av sykepenger		Registerstudie av forskuttert sykelønn og sykefraværsatferd.
+W2188125461	3	DK,SE	arbeidstaker: pris på fravær (skatt)	W2102792749	Prisfølsomhet i fravær fra variasjon i skattesatser over to tiår.
+W4408790921	3	DK	arbeidstaker: varighetsgrense for sykepenger		Reform 2014 som kuttet sykepengeperioden fra 56 til 26 uker.
+W39605834	4	DK	arbeidsgiver: forsikringsordning for arbeidsgiverperiode	W3123278655	Effekt av bedrifters deltakelse i forsikring mot sykelønn de to første ukene.
+W2793267873	3	FI	arbeidstaker: kompensasjonsgrad (kink)	W2166056001	Regression kink design: elastisitet i fraværsvarighet mot erstatningsgrad.
+W2885246094	3	FI	arbeidsgiver: erfaringsprising	W3122100094;W2254955572;W4300921851;W3134564261;W4300080070	Kink i erfaringsprising av uføretrygd og sykefravær/uføreinnstrøm.
+W4386002685	3	FI	arbeidsgiver: kostnadsdeling uføre/arbeidsledighet	W4386973848	Reform som utvidet arbeidsgivers kostnadsdeling; effekt på stønadsinnstrøm.
+W2340419694	3	NL	arbeidsgiver: privatisering av sykelønn	W615728332	Arbeidsgiveransvar fra 1996 og effekt av reassuranse på fravær.
+W4399627634	4	NL	arbeidstaker/arbeidsgiver: økonomiske insentiver i sykefravær		Effekt av kompensasjon og varighet på kostnad og lengde av fravær.
+W4414256612	3	NL	arbeidsgiver: erfaringsprising av sykefravær		Reform som endret kostnadsdeling og arbeidsgivers tilrettelegging under sykefravær.
+W3204999247	3	NL	arbeidsgiver: arbeidsgiveransvar i uføreforsikring		Hollandsk reform av arbeidsgiveransvar og effekt på uføreinnstrøm.
+W2013503155	3	NL	arbeidsgiver: erfaringsprising av uføretrygd	W2131859699;W2302201189;W3124092462;W3125528164;W2097691525;W2777503608	Forskjell-i-forskjell for erfaringsprising og uføreinnstrøm i Nederland.
+W3209196566	3	NL	arbeidsgiver: erfaringsprising av uføretrygd		Effekt på arbeidskostnader og konkurs; utfall ansettelser/bedriftsøkonomi.
+W2256991487	4	NL	arbeidsgiver: eget risikoansvar for uføretrygd		Arbeidsgivere som går ut av offentlig uføreforsikring; seleksjon eller insentiv.
+W2905226361	3	AT	arbeidsgiver: obligatorisk forsikring mot sykelønn		Reform som fjernet forsikring for bedrifter; omtrent 6,3 prosent færre fravær.
+W1521901582	3	AT	arbeidsgiver: egenandel for arbeidsgiver (terskel)	W3122038036;W1849751506	Terskel i østerriksk trygd for om bedriften betaler egenandel.
+W2598703126	3	FR	arbeidsgiver/arbeidstaker: ventetid for tilleggslønn	W3206081141	Fransk reform 2008 endret arbeidsgivers andel og ventetid.
+W2787775026	3	FR	arbeidstaker: karensdag	W7115094906	Innføring og avvikling av én karensdag i statstjenesten med privat sektor som kontroll.
+W2790164552	4	FR	arbeidsgiver: tilleggskompensasjon (tariff)	W2280550480;W1543950447	Arbeidsgiverbetalt tilleggskompensasjon og fravær i matchede data.
+W2950538458	3	IT	arbeidstaker: kompensasjonsgrad	W3124403333	Lov 133/2008 kuttet erstatning og skjerpet kontroll i offentlig sektor.
+W2755226448	3	IT	arbeidstaker: kompensasjonsgrad vs kontroll	W17426471;W7214264512;W1509719963	Skiller effekt av lønnskutt og kontroll for offentlig ansatte.
+W2219647517	3	IT	arbeidstaker: kompensasjonsgrad		Lov 133/2008 og lavere fravær særlig ved større inntektstap.
+W4293238630	3	ES	arbeidstaker: kompensasjonsgrad		Kutt i sykelønn for offentlig ansatte med private som kontroll.
+W2939949371	3	CZ	arbeidstaker: karensdager	W7135640613;W7135822413	Tre karensdager fra 2008; fravær ned omtrent 15 prosent.
+W3172039849	3	CZ	arbeidstaker: karensdager		Samme tsjekkiske reform med influensaeksponering som variasjon.
+W2468585842	5	CZ	arbeidstaker: karensdager og endringer i sykeforsikring	W3008568049	Regionale tall for midlertidig arbeidsuførhet etter lovendringer.
+W2505804103	3	EE	arbeidstaker: kompensasjonsgrad		Estisk reform av sykepenger og effekt på fravær.
+W2117611217	4	EE	arbeidstaker: kompensasjonsgrad		Kutt i sykepenger 2009 og fravær etter sosioøkonomisk gruppe.
+W2993400654	5	SE,EU	arbeidstaker: kompensasjonsgrad (tverrnasjonalt)		Europeiske tverrsnittsdata og kort litteraturoversikt om sykelønnsordninger.
+W2284545827	5	EU	arbeidstaker: kompensasjonsgrad (tverrnasjonalt)		Stratifisert fravær i europeiske velferdsstater 1992-2006.
+W2785834892	5	EU	arbeidstaker: kompensasjonsregler (tverrnasjonalt)		EWCS-data og fem parametere i sykelønnsreglene.
+W2087413250	5	EU	arbeidstaker: kompensasjonsgrad (tverrnasjonalt)		Sammenlignbare fraværstall mellom land og sammenheng med ordningene.
+W2072564304	5	EU	arbeidstaker: kompensasjonsgrad (tverrnasjonalt)	W2954624165	Tverrland-studie av fravær og sykelønnsgenerøsitet.
+W7164573256	5	EU	arbeidstaker: generøsitet i sykelønn (sykenærvær)		Flernivåanalyse i 35 land av sykenærvær mot sykelønnsgenerøsitet.
+W2795584473	5	GB,NO	arbeidsgiver: tilleggssykelønn	W2919590971	Arbeidsgivers tilleggssykelønn og fravær i arbeidsplassdata fra Storbritannia og Norge.
+W2113323245	5	GB	arbeidstaker: sykelønn og fleksibilitet		Sammenheng mellom sykelønn og fravær i britiske data.
+W1903913432	5	GB	arbeidstaker: sykelønn		Modell og empiri om sykelønn og fravær i britisk industri.
+W4409484666	5	GB	arbeidstaker: fast sykelønn (lovfestet)		Britisk sykelønn med fast beløp og insentiver (tomt sammendrag, vurdert etter tittel).
+W2206428878	3	ukjent	arbeidstaker: karensdag		Effekt av karensdag på fraværsmønster (tomt sammendrag, land ukjent).
+W2025781383	5	GB	arbeidstaker: inntektserstatning		Varighet av sykefravær og inntektserstatning, eldre britisk studie.

@@ -1,0 +1,21 @@
+{
+ "apen_url": "https://arxiv.org/pdf/2407.20306",
+ "ar": 2024,
+ "doi": "https://doi.org/10.48550/arxiv.2407.20306",
+ "forfattere": [
+  "Jessica Reale",
+  "Frederik Banning",
+  "Michael W. M. Roos"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "http://arxiv.org/pdf/2407.20306",
+ "hvordan": "pdf",
+ "id": "W4401202724",
+ "kilde": "RePEc: Research Papers in Economics",
+ "lenke": "https://openalex.org/W4401202724",
+ "merknad": "ÅPEN VERSJON (preprint eller arbeidsnotat), merkes i svaret",
+ "oversikt": false,
+ "sammendrag": "This study explores the impact of unemployment benefits on employment quality, job stability, and tenure within complex labour market dynamics. Given the macroeconomic consequences of changes in unemployment benefits, including their impact on employment rates and output growth, we develop a closed macroeconomic model that integrates heterogeneous households and adaptive firms and incorporates real-world entry-exit market mechanisms. The model considers personal values, social norms, and social network formation among workers as we examine the role of social contacts in mediating the effects of unemployment benefits on job-matching quality and labour market outcomes. We simulate the model across various scenarios where unemployment benefit schemes differ in level and/or duration. Our results suggest that extending the duration of unemployment benefits does not necessarily improve job-matching quality. Longer benefits may indeed reduce the effectiveness of social networks in job finding, indicating that social contacts play a key role in labour market dynamics.",
+ "tittel": "Unemployment Benefits and Job Quality: Unveiling the Complexities of Labour Market Dynamics",
+ "type": "preprint"
+}

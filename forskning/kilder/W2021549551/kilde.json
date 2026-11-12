@@ -1,0 +1,15 @@
+{
+ "apen_url": "https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID2353723_code1399111.pdf?abstractid=2353723&mirid=1&type=2",
+ "ar": 2011,
+ "doi": "https://doi.org/10.1080/00036846.2011.613799",
+ "forfattere": [
+  "Jeremy Schwartz"
+ ],
+ "id": "W2021549551",
+ "kilde": "Applied Economics",
+ "lenke": "https://openalex.org/W2021549551",
+ "oversikt": false,
+ "sammendrag": "During the 2007–2010 economic downturn, the US temporarily increased the duration of Unemployment Insurance (UI) by 73 weeks, higher than any prior extension, raising concerns about UI's disincentive effects on job search. This article examines the effect of temporary benefit extensions using a Regression Discontinuity (RD) approach that addresses the endogeneity of benefit extensions and labour market conditions. Using data from the 1991 recession, the results indicate that the Stand-by Extended Benefit (SEB) program has a significant, although somewhat limited, impact on county unemployment rates and the duration of unemployment. The results suggest that the temporary nature of SEB benefit extensions may mitigate their effect on search behaviour.",
+ "tittel": "Do temporary extensions to unemployment insurance benefits matter? The effects of the US standby extended benefit program",
+ "type": "article"
+}

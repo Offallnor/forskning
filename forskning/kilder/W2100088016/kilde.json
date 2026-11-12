@@ -1,0 +1,25 @@
+{
+ "apen_url": "https://oem.bmj.com/content/oemed/65/4/236.full.pdf",
+ "ar": 2007,
+ "doi": "https://doi.org/10.1136/oem.2007.032706",
+ "forfattere": [
+  "SIMO P. TAIMELA",
+  "Antti V. Malmivaara",
+  "S Justén",
+  "Esa Läärä",
+  "Harri Sintonen",
+  "Jaakko Tiekso",
+  "T Aro"
+ ],
+ "hentet": "2026-11-09",
+ "hentet_fra": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC2564865/fullTextXML",
+ "hvordan": "Europe PMC",
+ "id": "W2100088016",
+ "kilde": "Occupational and Environmental Medicine",
+ "lenke": "https://openalex.org/W2100088016",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "OBJECTIVES: To evaluate the effectiveness of two occupational health intervention programmes, both compared with usual care. METHODS: Based on a health survey, 1341 employees (88% males) in construction, service and maintenance work were classified into three groups: \"low risk\" (n = 386), \"intermediate risk\" (n = 537) and \"high risk\" (n = 418) of sickness absence. Two separate randomised trials were performed in the groups \"high risk\" and \"intermediate risk\", respectively. Those high risk subjects that were allocated to the intervention group (n = 209) were invited to occupational health service for a consultation. The intervention included, if appropriate, a referral to specialist treatment. Among the intermediate risk employees those in the intervention group (n = 268) were invited to call a phone advice centre. In both trials the control group received usual occupational health care. The primary outcome was sickness absence during a 12-month follow-up (register data). RESULTS: The high risk group, representing 31% of the cohort, accounted for 62% of sickness absence days. In the trial for the high risk group the mean sickness absence was 30 days in the usual care group and 19 days in the intervention group; the mean difference was 11 days (95% CI 1 to 20 days). In the trial for the intermediate risk group the mean sickness absence was 7 days in both arms (95% CI of the mean difference -2.3 to 2.4 days). CONCLUSIONS: The identification of high risk of work disability was successful. The occupational health intervention was effective in controlling work loss to a degree that is likely to be economically advantageous within the high risk group. The phone advice intervention for the intermediate risk group was not effective in controlling work loss primarily due to poor adherence.",
+ "tittel": "The effectiveness of two occupational health intervention programmes in reducing sickness absence among employees at risk. Two randomised controlled trials",
+ "type": "article"
+}

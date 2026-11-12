@@ -1,0 +1,16 @@
+id	svar_sier	avvik	forklaring	alvor
+kort svar	Covid-19 økte fraværet kraftig de første månedene, og en mindre gruppe hadde forhøyet fravær lenge etter; konjunkturer nevnes ikke i kort svar	vekt	Det blinde svaret legger vekt på at covid-effekten for de fleste var kortvarig (to til fire måneder i Norge) og derfor neppe forklarer at fraværet fortsatt steg i 2023, og på at lav ledighet kan ha bidratt uten at det er testet. Svaret bør si begge deler.	middels
+W3167036525	Konjunkturer: sammenhengen er gammel og sterk, og forklarer derfor neppe økningen etter 2019 da ledigheten var lav	retning	Feil slutning. Kildene viser at fraværet øker når ledigheten er lav, så lav ledighet trekker i retning av mer fravær, ikke mindre. Påstanden om ledighetsnivået etter 2019 har heller ingen kilde i utvalget. Rettet: lav ledighet kan ha bidratt, men det er ikke testet for årene etter 2019.	høy
+W3198827421	0,079 høyere andel med fravær de første to månedene; kvinner 45–70 år 35 prosent høyere etter tre–fire måneder; seleksjonsforbehold	mangler forbehold	Forfatterne konkluderer med at fraværet ikke var forhøyet etter to til fire måneder. Tilføyd. Sprik i KI for kvinner 45–70 år mellom sammendrag og tabell; svaret bruker ikke KI for det tallet.	middels
+W7127960047	Raten nesten lik, varighet og kostnad økte	ingen	Svaret følger tallene og ikke sammendragets «rose substantially» (sprik-flagg i budskap). Bra.	lav
+W2076042101	Terra-saken: fraværet blant kommuneansatte kvinner falt med 10 prosent	mangler forbehold	Utvalgsflagg: bare åtte rammede kommuner. Tilføyd.	lav
+W4413036354	Risiko for første fravær med psykisk diagnose nesten doblet blant unge voksne	ingen	Utvalget er 20–34 år, og svaret sier unge voksne. Sprik for svenskspråklige gjelder ikke tallene som er brukt.	lav
+AV-2022-3-01	Økning på 9 prosent 2019–2021, mest lengre varighet	ingen	Årsaksspråk-flagg gjelder kildens ordbruk; svaret beskriver bare dekomponeringen.	lav
+AV-2024-2-03	Nesten halvparten av økningen kan tilskrives psykiske lidelser	ingen	Bare ingress lest; står i svaret.	lav
+AV-2023-2-03	OR 3,88 for nytt fravær med trøtthet og slapphet etter covid-fravær	ingen	Årsaksspråk-flagg; svaret omtaler det som høyere odds, ikke effekt.	lav
+W4400282262	Rate av sykmeldinger fire ganger høyere i 2020 og 1,57 i 2022 blant smittede	ingen	Matchet sammenligning; svaret bruker ikke årsaksord.	lav
+W4304172721	Omikron: 2,92 prosentpoeng høyere enn samme måneder 2017–2020	ingen	Før–etter-sammenligning; svaret sier ikke at hele økningen skyldes omikron.	lav
+W4366153706	Helsepersonell 2,8 og 2,2 prosentpoeng høyere	ingen	Utvalgsflagg er tydelig fra teksten (helsepersonell).	lav
+W4387095603	Utdanning forklarer en del av nedgangen fram til 2016	ingen	Svaret nevner ikke at nedgangen snur til økning for de eldste når faste kjennetegn tas med. Kunne vært med, men endrer ikke budskapet.	lav
+W4392197176	Sykedager per arbeidstaker i Norge, Sverige og snitt	ingen	Sprik-flagget gjelder kostnadsandelen av BNP, som ikke brukes i svaret.	lav
+W3209365492	Tapte dager for psykisk sykdom i NHS økte	ingen	Preprint og helsepersonell er merket.	lav

@@ -1,0 +1,23 @@
+{
+ "apen_url": "https://bmchealthservres.biomedcentral.com/track/pdf/10.1186/s12913-019-4607-y",
+ "ar": 2019,
+ "doi": "https://doi.org/10.1186/s12913-019-4607-y",
+ "forfattere": [
+  "Lisebet Skeie Skarpaas",
+  "Lise Aasen Haveraaen",
+  "Milada Cvancarova Småstuen",
+  "William S. Shaw",
+  "Randi Wågø Aas"
+ ],
+ "hentet": "2026-11-09",
+ "hentet_fra": "https://bmchealthservres.biomedcentral.com/track/pdf/10.1186/s12913-019-4607-y",
+ "hvordan": "pdf",
+ "id": "W2982124809",
+ "kilde": "BMC Health Services Research",
+ "lenke": "https://openalex.org/W2982124809",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "BACKGROUND: In return-to-work (RTW) programs, coordinators are often provided in order to integrate services. However, models of coordinating services vary widely internationally, and across different programs, where one distinction is between vertical and horizontal integration (i.e. between levels/institutions, or within one service/level). The aim of this study was therefore to explore and describe if and how a coordinator was provided in RTW-programs, and whether the provision of a coordinator was associated with certain personal or intervention characteristics. METHODS: The study was designed as a cohort study following employees participating in a variety of Rapid-RTW-programs in Norway (n = 39). Employees (n = 494) answered a self-administered questionnaire, which was linked to register-data on diagnoses and sickness-absence. Employees who replied yes/no to the question \"Did the program provide a person who tailored or coordinated your services?\" were included in this analysis. Associations for being provided with a coordinator were tested in adjusted logistic regression models. RESULTS: Sixty-nine percent of the employees reported having a coordinator. These coordinators were mainly responsible for coordinating treatment within own programs (i.e. horizontal coordination, 68%). As expected, rehabilitation programs more often provided a coordinator compared to treatment programs (OR 3.87 95% CI 2.42-6.24). The odds for being provided with a coordinator were reduced for each additional year of age of the employee (OR 0.97, 95% CI 0.96-0.99). More professions were involved in programs that provided coordinators, also more contact with other stakeholders like leaders and social insurance services (NAV), but only contact with supervisor remained statistically significant in adjusted analysis (OR 1.69 95% CI 0.31-9.27). The programs with a coordinator more often provided adaptations at the workplace for the individual employee (OR 0.08 95% CI 0.01-0.60). However, these signs of vertical integration were only evident for a limited number of employees. CONCLUSION: In this study, seven of ten employees reported to have a coordinator, which was associated with more professions and stakeholder involvement in the RTW-process. Most of these coordinators did not coordinate vertically between the service levels and types of intervention arenas for sick listed employees (i.e. workplace, social security, and health care services), as recommended in earlier research.",
+ "tittel": "Horizontal return to work coordination was more common in RTW programs than the recommended vertical coordination. The Rapid-RTW cohort study",
+ "type": "article"
+}

@@ -1,0 +1,19 @@
+{
+ "apen_url": "https://doi.org/10.2139/ssrn.928837",
+ "ar": 2009,
+ "doi": "https://doi.org/10.1162/jeea.2009.7.6.1225",
+ "forfattere": [
+  "Konstantinos Tatsiramos"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "https://docs.iza.org/dp2280.pdf",
+ "hvordan": "pdf",
+ "id": "W2143667081",
+ "kilde": "Journal of the European Economic Association",
+ "lenke": "https://openalex.org/W2143667081",
+ "merknad": "ÅPEN VERSJON (preprint eller arbeidsnotat), merkes i svaret",
+ "oversikt": false,
+ "sammendrag": "The empirical literature on unemployment insurance has focused on its direct effect on unemployment duration, while the potential indirect effect on employment stability through a more efficient matching process, as the unemployed can search for a longer period, has attracted much less attention. In the European context this is surprising as reform proposals of the unemployment insurance system aiming at reducing high European unemployment rates should consider both effects. This paper provides evidence on the effect of unemployment benefits on unemployment and employment duration in Europe, using individual data from the European Community Household Panel for eight countries. Country specific estimates based on a multivariate discrete proportional hazard model, controlling for observed and unobserved individual heterogeneity, suggest that even if receiving benefits has a direct negative effect increasing the duration of unemployment spells, there is also a positive indirect effect of benefits on subsequent employment duration. This indirect effect is pronounced in countries with relatively generous benefit systems, and for recipients who have remained unemployed for at least six months. In terms of the magnitude of the effect, recipients remain employed on average two to four months longer than non-recipients. This represents a ten to twenty per cent increase relative to the average employment duration, compensating for the additional time spent in unemployment. These findings are in line with theories suggesting a matching effect of unemployment insurance.",
+ "tittel": "Unemployment Insurance in Europe: Unemployment Duration and Subsequent Employment Stability",
+ "type": "article"
+}

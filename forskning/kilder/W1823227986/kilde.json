@@ -1,0 +1,21 @@
+{
+ "apen_url": "http://hdl.handle.net/1956/19669",
+ "ar": 2015,
+ "doi": "https://doi.org/10.1111/ecoj.12345",
+ "forfattere": [
+  "Elisabeth Fevang",
+  "Inés Hardoy",
+  "Knut Røed"
+ ],
+ "hentet": "før 2026-11-08",
+ "hentet_fra": "https://nva.sikt.no/registration/0198cc69c462-ab47a7cc-ee88-4545-9274-824431fd8ab3",
+ "hvordan": "vitenarkivet",
+ "id": "W1823227986",
+ "kilde": "The Economic Journal",
+ "lenke": "https://openalex.org/W1823227986",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "We investigate the impacts of economic incentives on the duration and outcome of temporary disability insurance (TDI) spells. The analysis is based on a large quasi‐experiment taking place in Norway, involving a complete overhaul of the TDI benefit system. Our findings show that the labour supply of TDI claimants does respond to both the benefit level and the level of local labour demand. The estimated elasticity of the transition rate to employment with respect to the benefit level is −0.33. We also find that the TDI benefit level significantly affects the transition rate to alternative social insurance programmes.",
+ "tittel": "Temporary Disability and Economic Incentives",
+ "type": "article"
+}

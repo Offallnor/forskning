@@ -1,0 +1,13 @@
+{
+ "ar": 1999,
+ "forfattere": [
+  "Tomi Kyyrä"
+ ],
+ "id": "W3121317656",
+ "kilde": "RePEc: Research Papers in Economics",
+ "lenke": "https://openalex.org/W3121317656",
+ "oversikt": false,
+ "sammendrag": "This study represents the results of a comparative econometric analysis of the determinants of earnings and unemployment durations. The analysis uses two sets of panel data, one drawn from the outflows of unemployment and another from the working age population. The earnings of people leaving unemployment are modelled in order to obtain estimates for starting wages in subsequent jobs. With these estimates, the expected income changes associated with labour market transitions are evaluated at the household level. Some 8% of the unemployed are estimated to be unable to increase disposable income of their households through employment, while as much as 43% have to be content with a 25% increase or less. The income variables, with controls for other factors, are then mapped into a flexible competing risks model of unemployment duration. The expected returns to employment are found to be an important determinant of the probability of becoming employed. It appears also that the relative importance of economic incentives has been strengthened in the recession years.",
+ "tittel": "Post-Unemployment Wages and Economic Incentives to Exit from Unemployment",
+ "type": "preprint"
+}

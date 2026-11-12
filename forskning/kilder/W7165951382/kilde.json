@@ -1,0 +1,24 @@
+{
+ "apen_url": "https://www.ssph-journal.org/journals/international-journal-of-public-health/articles/10.3389/ijph.2026.1609386/pdf",
+ "ar": 2026,
+ "doi": "https://doi.org/10.3389/ijph.2026.1609386",
+ "forfattere": [
+  "Kristoffer Andreas Aamodt Andersen",
+  "Linn Nathalie Støme",
+  "Erlend Marius Aas",
+  "Espen Ajo Arnevik",
+  "Marianne Riksheim Stavseth",
+  "Eline Borger Rognli"
+ ],
+ "hentet": "2026-11-09",
+ "hentet_fra": "https://www.ssph-journal.org/journals/international-journal-of-public-health/articles/10.3389/ijph.2026.1609386/pdf",
+ "hvordan": "pdf",
+ "id": "W7165951382",
+ "kilde": "International Journal of Public Health",
+ "lenke": "https://openalex.org/W7165951382",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "Objectives: To conduct a socioeconomic analysis of Individual Placement and Support (IPS) integrated with specialized substance use disorder treatment. Additionally, we explored group differences in the use of social and welfare services and assessed the validity of a previous simulation model. Methods: We used Early Health Technology Assessment (eHTA) to estimate socioeconomic gain using data extracted from a completed randomized controlled trial comparing IPS and enhanced treatment as usual (enhanced TAU) for patients in specialized substance use disorder treatment. Results: IPS was socioeconomically beneficial compared to enhanced TAU during the first year after end of the intervention (€992,224 for IPS, and €778,121 for enhanced TAU), equal to a group difference of €214,103 (modelled for 100 patients). During the trial period, IPS participants showed a total cost saving of €157,593 due to less use of social and welfare services, compared to participants receiving enhanced TAU. These estimates are comparable to our previous eHTA simulation. Conclusion: Our estimates indicate a net socioeconomic gain of IPS starting during the intervention year, which exceeds that of enhanced TAU in the first year following the intervention. Additional cost savings were found in favor of IPS. Our early simulated eHTA proved valid in one scenario.",
+ "tittel": "Individual placement and support (IPS) integrated with specialized substance use disorder treatment: a socioeconomic analysis based on a randomized controlled trial",
+ "type": "article"
+}

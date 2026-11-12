@@ -1,0 +1,20 @@
+{
+ "apen_url": "https://doi.org/10.3386/w22411",
+ "ar": 2016,
+ "doi": "https://doi.org/10.3386/w22411",
+ "forfattere": [
+  "Andrew C. Johnston",
+  "Alexandre Mas"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "https://doi.org/10.3386/w22411",
+ "hvordan": "pdf",
+ "id": "W825815562",
+ "kilde": "National Bureau of Economic Research",
+ "lenke": "https://openalex.org/W825815562",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "We examine how a 16-week cut in potential unemployment insurance (UI) duration in Missouri affected search behavior of UI recipients and the aggregate labor market.Using a regression discontinuity design (RDD), we estimate a marginal effect of maximum duration on UI and nonemployment spells of approximately 0.5 and 0.3 respectively.We use RDD estimates to simulate the unemployment rate assuming no market-level externalities.The simulated response closely approximates the estimated change in the unemployment rate following the benefit cut, suggesting that even in a period of high unemployment the labor market absorbed this influx of workers without crowding-out other jobseekers.",
+ "tittel": "Potential Unemployment Insurance Duration and Labor Supply: The Individual and Market-Level Response to a Benefit Cut",
+ "type": "report"
+}

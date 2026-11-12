@@ -1,0 +1,16 @@
+{
+ "apen_url": "https://doi.org/10.3886/e215441",
+ "ar": 2026,
+ "doi": "https://doi.org/10.3886/e215441",
+ "forfattere": [
+  "Jon Cohen",
+  "Peter Ganong"
+ ],
+ "id": "W7127974830",
+ "kilde": "ICPSR Data Holdings",
+ "lenke": "https://openalex.org/W7127974830",
+ "oversikt": true,
+ "sammendrag": "We systematically review studies of how unemployment benefits affect unemploy- ment duration. Statistically significant findings are eight times more likely to be published. Correcting for publication bias cuts the average elasticity by a third. Meta-analysis is a data-driven way to aggregate estimates across policy contexts and generalize sufficient statistics methods to compute the global optimal policy. Although existing consumption drop-based approaches typically imply an optimal replacement rate near zero, our corrected estimates imply an optimal replacement rate of 28% in the US. We are unable to reject the hypothesis that the “micro” elasticity is equal to the “macro” elasticity.",
+ "tittel": "Data and Code for \"Disemployment Effects of Unemployment Insurance: A Meta-Analysis\"",
+ "type": "dataset"
+}

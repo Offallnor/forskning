@@ -1,0 +1,16 @@
+{
+ "apen_url": "https://academic.oup.com/oxrep/article-pdf/25/1/40/1028129/grp004.pdf",
+ "ar": 2009,
+ "doi": "https://doi.org/10.1093/oxrep/grp004",
+ "forfattere": [
+  "Andrea P. Bassanini",
+  "R. Duval"
+ ],
+ "id": "W2086437983",
+ "kilde": "Oxford Review of Economic Policy",
+ "lenke": "https://openalex.org/W2086437983",
+ "oversikt": false,
+ "sammendrag": "There is no or limited consensus on the quantitative impact of institutions on unemployment, which has led some to question the case for structural reforms. Recent studies suggest also that institutions interact with each other and cannot be analysed in isolation. In this paper, we estimate a standard reduced-form model to explore the institutional determinants of unemployment and assess its robustness using a large battery of robustness checks. We show that, although the impact of each individual policy varies across countries owing to policy interactions, the simple linear model can be used to draw inferences for countries with an average mix of institutions. The model is then extended to encompass systemic interactions, in which individual policies interact with the overall institutional framework. We find relatively robust evidence of broad reform complementarities.",
+ "tittel": "Unemployment, institutions, and reform complementarities: re-assessing the aggregate evidence for OECD countries",
+ "type": "article"
+}

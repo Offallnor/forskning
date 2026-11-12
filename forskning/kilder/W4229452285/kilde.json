@@ -1,0 +1,20 @@
+{
+ "apen_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/boer.12343",
+ "ar": 2022,
+ "doi": "https://doi.org/10.1111/boer.12343",
+ "forfattere": [
+  "Inna Petrunyk",
+  "Christian Pfeifer"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "https://www.econstor.eu/bitstream/10419/287832/1/BOER_BOER12343.pdf",
+ "hvordan": "pdf",
+ "id": "W4229452285",
+ "kilde": "Bulletin of Economic Research",
+ "lenke": "https://openalex.org/W4229452285",
+ "merknad": "ÅPEN VERSJON (preprint eller arbeidsnotat), merkes i svaret",
+ "oversikt": false,
+ "sammendrag": "Abstract This research note estimates the causal effects of a cut in the potential duration of regular unemployment benefits for older workers in Germany on the labor market outcomes of individuals with health impairments. The analyzed reform is a natural experiment that allows a difference‐in‐differences strategy with treatment intensity. The results provide evidence for a significant decrease in the number of days in regular unemployment benefits and an increase in the number of days in employment. However, the results also suggest a significant increase in the number of days in unemployment (social) assistance, which are granted upon exhaustion of regular unemployment benefits.",
+ "tittel": "Potential duration of unemployment benefits and labor market outcomes for older workers with health impairments in Germany",
+ "type": "article"
+}

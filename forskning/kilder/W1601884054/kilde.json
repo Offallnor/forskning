@@ -1,0 +1,17 @@
+{
+ "apen_url": "https://durham-repository.worktribe.com/preview/1471321/12506.pdf",
+ "ar": 2012,
+ "doi": "https://doi.org/10.1111/j.1468-0084.2012.00717.x",
+ "forfattere": [
+  "John T. Addison",
+  "José A. F. Machado",
+  "Pedro Portugal"
+ ],
+ "id": "W1601884054",
+ "kilde": "Oxford Bulletin of Economics and Statistics",
+ "lenke": "https://openalex.org/W1601884054",
+ "oversikt": false,
+ "sammendrag": "Abstract A thorny problem in identifying the determinants of reservation wages and particularly the role of continued joblessness in their evolution is the simultaneity issue. We deploy a control function approach to the problem that involves conditioning elapsed duration on completed unemployment duration in the reservation wage equation. Our analysis confirms that the use of elapsed duration alone compounds two separate and opposing influences. Only with the inclusion of completed duration is the negative effect of continued joblessness on reservation wages apparent.",
+ "tittel": "The Reservation Wage Unemployment Duration Nexus*",
+ "type": "article"
+}

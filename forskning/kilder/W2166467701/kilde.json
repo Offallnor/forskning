@@ -1,0 +1,16 @@
+{
+ "apen_url": "https://www.oecd-ilibrary.org/employment-patterns-in-oecd-countries_5l9pt95cn79n.pdf?itemId=%2Fcontent%2Fpaper%2F702031136412&mimeType=pdf",
+ "ar": 2006,
+ "doi": "https://doi.org/10.1787/702031136412",
+ "forfattere": [
+  "Andrea P. Bassanini",
+  "Romain Duval"
+ ],
+ "id": "W2166467701",
+ "kilde": "OECD social employment and migration working papers",
+ "lenke": "https://openalex.org/W2166467701",
+ "oversikt": false,
+ "sammendrag": "This paper explores the impact of policies and institutions on employment and unemployment of OECD countries in the past decades. Reduced-form unemployment equations, consistent with standard wage setting/pricesetting models, are estimated using cross-country/time-series data from 21 OECD countries over the period 1982- 2003. In the “average” OECD country, high and long-lasting unemployment benefits, high tax wedges and stringent anti-competitive product market regulation are found to increase aggregate unemployment. By contrast, highly centralised and/or coordinated wage bargaining systems are estimated to reduce unemployment. These findings are robust across specifications, datasets and econometric methods. As policies and institutions affect employment not only via their impact on aggregate unemployment but also through their effects on labour market participation - particularly for those groups “at the margin” of the labour market, group-specific employment rate equations are also estimated. In the “average” OECD country, high unemployment benefits and high tax wedges are found to be associated with lower employment prospects for all groups studied, namely prime-age males, females, older workers and youths. There is also evidence that group-specific policy determinants matter, such as targeted fiscal incentives.",
+ "tittel": "Employment Patterns in OECD Countries",
+ "type": "report"
+}

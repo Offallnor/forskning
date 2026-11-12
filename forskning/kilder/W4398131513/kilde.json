@@ -1,0 +1,21 @@
+{
+ "apen_url": "http://dx.doi.org/10.3386/w32464",
+ "ar": 2024,
+ "doi": "https://doi.org/10.3386/w32464",
+ "forfattere": [
+  "Benjamin Hyman",
+  "Brian K. Kovak",
+  "Adam A. Leive"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "http://dx.doi.org/10.3386/w32464",
+ "hvordan": "pdf",
+ "id": "W4398131513",
+ "kilde": "National Bureau of Economic Research",
+ "lenke": "https://openalex.org/W4398131513",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "Wage insurance provides income support to displaced workers who find reemployment at a lower wage.We analyze wage insurance in the context of the U.S. Trade Adjustment Assistance (TAA) program by merging linked employer-employee Census data to TAA petitions and leveraging a discontinuity in eligibility based on worker age.Wage insurance eligibility increases short-run employment probabilities and leads to higher long-run cumulative earnings.We find shorter nonemployment durations largely drive increased long-term earnings among workers eligible for wage insurance.Our results are quantitatively consistent with a standard non-stationary partial equilibrium search model.The program is self-financing even under conservative assumptions.",
+ "tittel": "Wage Insurance for Displaced Workers",
+ "type": "report"
+}

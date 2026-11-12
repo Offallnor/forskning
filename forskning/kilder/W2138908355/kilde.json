@@ -1,0 +1,15 @@
+{
+ "apen_url": "https://doi.org/10.2478/aicue-2013-0006",
+ "ar": 2013,
+ "doi": "https://doi.org/10.2478/aicue-2013-0006",
+ "forfattere": [
+  "Cosmin Eugen Enache"
+ ],
+ "id": "W2138908355",
+ "kilde": "Scientific Annals of Economics and Business",
+ "lenke": "https://openalex.org/W2138908355",
+ "oversikt": false,
+ "sammendrag": "Abstract This paper proposes an empirical analysis of the effects of unemployment benefit on unemployment in Romania. First, the existence of a long-run equilibrium relation between the two variables was checked using single-equation cointegration tests. The results showed that such a relation does not exist. Next, in order to evaluate the short-term effects of unemployment benefit on unemployment level, a VAR analysis was employed. Impulse response functions analysis showed that the number of persons registered as unemployed is expecting to rise as the value of monthly unemployment benefit is increasing. However, the variance decomposition analysis pointed out that only a small part (under 5%) of unemployment short-term dynamics could be explained by potential shocks in the unemployment benefit level.",
+ "tittel": "Adverse Incentive Effects of the Unemployment Benefit Level in Romania",
+ "type": "article"
+}

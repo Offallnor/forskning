@@ -1,0 +1,5946 @@
+# Kontroll: dagpenger-varighet-niva
+
+Kjørt 2026-11-10.
+
+0 feil av 5940 kontroller.
+
+- OK   1 kilde 0198cc5369ae-229c5063-6405-419a-8006-b9dd49ae5416 finnes
+- OK   1 kilde AV-2007-2-03 finnes
+- OK   1 kilde AV-2013-1-04 finnes
+- OK   1 kilde AV-2018-2-03 finnes
+- OK   1 kilde AV-2023-1-03 finnes
+- OK   1 kilde AV-2023-3-01 finnes
+- OK   1 kilde FI-vatt.10024_149571 finnes
+- OK   1 kilde FI-vatt.10024_187919 finnes
+- OK   1 kilde KU-7d037e12-1538-4c97-9339-fb49dd5e5502 finnes
+- OK   1 kilde KU-cf803acc-e73d-410f-a09f-e4633c73602a finnes
+- OK   1 kilde W1480269971 finnes
+- OK   1 kilde W1506969218 finnes
+- OK   1 kilde W1563984614 finnes
+- OK   1 kilde W1566578940 finnes
+- OK   1 kilde W1884998289 finnes
+- OK   1 kilde W2002707463 finnes
+- OK   1 kilde W2047693430 finnes
+- OK   1 kilde W2084090750 finnes
+- OK   1 kilde W2105107427 finnes
+- OK   1 kilde W2116604021 finnes
+- OK   1 kilde W2123564434 finnes
+- OK   1 kilde W2138836438 finnes
+- OK   1 kilde W2156877177 finnes
+- OK   1 kilde W2169046276 finnes
+- OK   1 kilde W2200172062 finnes
+- OK   1 kilde W22629269 finnes
+- OK   1 kilde W2337558966 finnes
+- OK   1 kilde W2613692828 finnes
+- OK   1 kilde W2624227397 finnes
+- OK   1 kilde W2890402555 finnes
+- OK   1 kilde W2892364420 finnes
+- OK   1 kilde W2948483932 finnes
+- OK   1 kilde W2963969083 finnes
+- OK   1 kilde W3024730720 finnes
+- OK   1 kilde W3084713950 finnes
+- OK   1 kilde W3121176259 finnes
+- OK   1 kilde W3121246414 finnes
+- OK   1 kilde W3121810429 finnes
+- OK   1 kilde W3121919142 finnes
+- OK   1 kilde W3123206326 finnes
+- OK   1 kilde W3123331108 finnes
+- OK   1 kilde W3123331744 finnes
+- OK   1 kilde W3123587893 finnes
+- OK   1 kilde W3123640418 finnes
+- OK   1 kilde W3151320739 finnes
+- OK   1 kilde W3161696407 finnes
+- OK   1 kilde W3215335411 finnes
+- OK   1 kilde W4291754967 finnes
+- OK   1 kilde W4298248611 finnes
+- OK   1 kilde W4300783938 finnes
+- OK   1 kilde W4312802047 finnes
+- OK   1 kilde W4378219799 finnes
+- OK   1 kilde W4391117040 finnes
+- OK   1 kilde W4400871115 finnes
+- OK   1 kilde W4401566784 finnes
+- OK   1 kilde W4401689619 finnes
+- OK   1 kilde W7214186622 finnes
+- OK   1 kilde W825815562 finnes
+- OK   1 estimat-kilde W2963969083 finnes
+- OK   1 estimat-kilde W2963969083 finnes
+- OK   1 estimat-kilde W2963969083 finnes
+- OK   1 estimat-kilde W22629269 finnes
+- OK   1 estimat-kilde W22629269 finnes
+- OK   1 estimat-kilde W22629269 finnes
+- OK   1 estimat-kilde W22629269 finnes
+- OK   1 estimat-kilde W2892364420 finnes
+- OK   1 estimat-kilde W2892364420 finnes
+- OK   1 estimat-kilde W2892364420 finnes
+- OK   1 estimat-kilde W2892364420 finnes
+- OK   1 estimat-kilde W7131355276 finnes
+- OK   1 estimat-kilde W3215335411 finnes
+- OK   1 estimat-kilde W3215335411 finnes
+- OK   1 estimat-kilde W3215335411 finnes
+- OK   1 estimat-kilde W2084090750 finnes
+- OK   1 estimat-kilde W2084090750 finnes
+- OK   1 estimat-kilde W2002707463 finnes
+- OK   1 estimat-kilde W2002707463 finnes
+- OK   1 estimat-kilde W2002707463 finnes
+- OK   1 estimat-kilde W7154563528 finnes
+- OK   1 estimat-kilde W7154563528 finnes
+- OK   1 estimat-kilde W7154563528 finnes
+- OK   1 estimat-kilde W7154563528 finnes
+- OK   1 estimat-kilde W2408422098 finnes
+- OK   1 estimat-kilde W2408422098 finnes
+- OK   1 estimat-kilde W2993610654 finnes
+- OK   1 estimat-kilde W2993610654 finnes
+- OK   1 estimat-kilde W2993610654 finnes
+- OK   1 estimat-kilde W2948483932 finnes
+- OK   1 estimat-kilde W2948483932 finnes
+- OK   1 estimat-kilde W2948483932 finnes
+- OK   1 estimat-kilde W2948483932 finnes
+- OK   1 estimat-kilde W4322604235 finnes
+- OK   1 estimat-kilde W4401689619 finnes
+- OK   1 estimat-kilde W4401689619 finnes
+- OK   1 estimat-kilde W4401689619 finnes
+- OK   1 estimat-kilde W4401689619 finnes
+- OK   1 estimat-kilde W2624227397 finnes
+- OK   1 estimat-kilde W2624227397 finnes
+- OK   1 estimat-kilde W2624227397 finnes
+- OK   1 estimat-kilde W2200172062 finnes
+- OK   1 estimat-kilde W2200172062 finnes
+- OK   1 estimat-kilde W2143884102 finnes
+- OK   1 estimat-kilde W2143884102 finnes
+- OK   1 estimat-kilde W2304173907 finnes
+- OK   1 estimat-kilde W2304173907 finnes
+- OK   1 estimat-kilde W1555671394 finnes
+- OK   1 estimat-kilde W3120725390 finnes
+- OK   1 estimat-kilde W2153088156 finnes
+- OK   1 estimat-kilde W2153088156 finnes
+- OK   1 estimat-kilde W2123564434 finnes
+- OK   1 estimat-kilde W2123564434 finnes
+- OK   1 estimat-kilde W2123564434 finnes
+- OK   1 estimat-kilde W1900426521 finnes
+- OK   1 estimat-kilde W1900426521 finnes
+- OK   1 estimat-kilde W1900426521 finnes
+- OK   1 estimat-kilde W1900426521 finnes
+- OK   1 estimat-kilde W3122724300 finnes
+- OK   1 estimat-kilde W3122724300 finnes
+- OK   1 estimat-kilde W4392395455 finnes
+- OK   1 estimat-kilde W4392395455 finnes
+- OK   1 estimat-kilde W2161003690 finnes
+- OK   1 estimat-kilde W2161003690 finnes
+- OK   1 estimat-kilde W3122988274 finnes
+- OK   1 estimat-kilde W3122988274 finnes
+- OK   1 estimat-kilde W3122988274 finnes
+- OK   1 estimat-kilde W2105107427 finnes
+- OK   1 estimat-kilde W2105107427 finnes
+- OK   1 estimat-kilde W2105107427 finnes
+- OK   1 estimat-kilde W3123103646 finnes
+- OK   1 estimat-kilde W3123103646 finnes
+- OK   1 estimat-kilde W1884998289 finnes
+- OK   1 estimat-kilde W1884998289 finnes
+- OK   1 estimat-kilde W4416019886 finnes
+- OK   1 estimat-kilde W4415223223 finnes
+- OK   1 estimat-kilde W3126140373 finnes
+- OK   1 estimat-kilde W3126140373 finnes
+- OK   1 estimat-kilde KU-7d037e12-1538-4c97-9339-fb49dd5e5502 finnes
+- OK   1 estimat-kilde KU-7d037e12-1538-4c97-9339-fb49dd5e5502 finnes
+- OK   1 estimat-kilde KU-7d037e12-1538-4c97-9339-fb49dd5e5502 finnes
+- OK   1 estimat-kilde KU-7d037e12-1538-4c97-9339-fb49dd5e5502 finnes
+- OK   1 estimat-kilde KU-cf803acc-e73d-410f-a09f-e4633c73602a finnes
+- OK   1 estimat-kilde KU-cf803acc-e73d-410f-a09f-e4633c73602a finnes
+- OK   1 estimat-kilde AV-2013-1-04 finnes
+- OK   1 estimat-kilde AV-2013-1-04 finnes
+- OK   1 estimat-kilde KU-8946b101-5472-4571-b8f6-1a2b4020db3e finnes
+- OK   1 estimat-kilde KU-8946b101-5472-4571-b8f6-1a2b4020db3e finnes
+- OK   1 estimat-kilde KU-8946b101-5472-4571-b8f6-1a2b4020db3e finnes
+- OK   1 estimat-kilde KU-8946b101-5472-4571-b8f6-1a2b4020db3e finnes
+- OK   1 estimat-kilde AV-2018-2-03 finnes
+- OK   1 estimat-kilde AV-2018-2-03 finnes
+- OK   1 estimat-kilde AV-2018-1-01 finnes
+- OK   1 estimat-kilde AV-2019-4-01 finnes
+- OK   1 estimat-kilde AV-2019-4-01 finnes
+- OK   1 estimat-kilde AV-2023-1-08 finnes
+- OK   1 estimat-kilde AV-2023-1-03 finnes
+- OK   1 estimat-kilde AV-2023-1-03 finnes
+- OK   1 estimat-kilde 0198cc433002-bf76c9ff-dfa2-46bb-8df2-eecbfad07615 finnes
+- OK   1 estimat-kilde 0198cc433002-bf76c9ff-dfa2-46bb-8df2-eecbfad07615 finnes
+- OK   1 estimat-kilde AV-2023-1-04 finnes
+- OK   1 estimat-kilde 0198cc5369ae-229c5063-6405-419a-8006-b9dd49ae5416 finnes
+- OK   1 estimat-kilde KU-710bb35b-b997-44f5-8798-e71860da413c finnes
+- OK   1 estimat-kilde LI-fszjzhtccvgf3hp0 finnes
+- OK   1 estimat-kilde LI-fszjzhtccvgf3hp0 finnes
+- OK   1 estimat-kilde LI-10150981 finnes
+- OK   1 estimat-kilde LI-10150981 finnes
+- OK   1 estimat-kilde LI-10150981 finnes
+- OK   1 estimat-kilde LI-10150999 finnes
+- OK   1 estimat-kilde LI-10150999 finnes
+- OK   1 estimat-kilde LI-8234473 finnes
+- OK   1 estimat-kilde LI-8234473 finnes
+- OK   1 estimat-kilde LI-8234473 finnes
+- OK   1 estimat-kilde LI-11485196 finnes
+- OK   1 estimat-kilde LI-11485196 finnes
+- OK   1 estimat-kilde LI-vfd7vvlvsxvpt6q4 finnes
+- OK   1 estimat-kilde LI-vfd7vvlvsxvpt6q4 finnes
+- OK   1 estimat-kilde LI-vfd7vvlvsxvpt6q4 finnes
+- OK   1 estimat-kilde FI-vatt.10024_187919 finnes
+- OK   1 estimat-kilde FI-vatt.10024_187919 finnes
+- OK   1 estimat-kilde FI-vatt.10024_187919 finnes
+- OK   1 estimat-kilde FI-vatt.10024_149571 finnes
+- OK   1 estimat-kilde FI-vatt.10024_149571 finnes
+- OK   1 estimat-kilde FI-vatt.10024_149571 finnes
+- OK   1 estimat-kilde FI-vatt.10024_149571 finnes
+- OK   1 estimat-kilde FI-helka.995828223506253 finnes
+- OK   1 estimat-kilde FI-vatt.10024_168803 finnes
+- OK   1 estimat-kilde FI-vatt.10024_168803 finnes
+- OK   1 estimat-kilde FI-vatt.10024_172797 finnes
+- OK   1 estimat-kilde FI-vatt.10024_172797 finnes
+- OK   1 estimat-kilde FI-vatt.10024_148751 finnes
+- OK   1 estimat-kilde W3123479702 finnes
+- OK   1 estimat-kilde W3123479702 finnes
+- OK   1 estimat-kilde W2155538850 finnes
+- OK   1 estimat-kilde W2155538850 finnes
+- OK   1 estimat-kilde W2803335770 finnes
+- OK   1 estimat-kilde W2156877177 finnes
+- OK   1 estimat-kilde W2156877177 finnes
+- OK   1 estimat-kilde W2156877177 finnes
+- OK   1 estimat-kilde W2156877177 finnes
+- OK   1 estimat-kilde W3136597820 finnes
+- OK   1 estimat-kilde W3136597820 finnes
+- OK   1 estimat-kilde W3136597820 finnes
+- OK   1 estimat-kilde W3179730804 finnes
+- OK   1 estimat-kilde W3125345634 finnes
+- OK   1 estimat-kilde W3125345634 finnes
+- OK   1 estimat-kilde W7214186622 finnes
+- OK   1 estimat-kilde W7214186622 finnes
+- OK   1 estimat-kilde W7214186622 finnes
+- OK   1 estimat-kilde W1566578940 finnes
+- OK   1 estimat-kilde W1566578940 finnes
+- OK   1 estimat-kilde W1566578940 finnes
+- OK   1 estimat-kilde W4409541748 finnes
+- OK   1 estimat-kilde W4409541748 finnes
+- OK   1 estimat-kilde W4409541748 finnes
+- OK   1 estimat-kilde W3123613249 finnes
+- OK   1 estimat-kilde W3123613249 finnes
+- OK   1 estimat-kilde W1969669601 finnes
+- OK   1 estimat-kilde W3121246414 finnes
+- OK   1 estimat-kilde W3121246414 finnes
+- OK   1 estimat-kilde W2142986258 finnes
+- OK   1 estimat-kilde W3122181088 finnes
+- OK   1 estimat-kilde W1524684605 finnes
+- OK   1 estimat-kilde W3121810429 finnes
+- OK   1 estimat-kilde W3121810429 finnes
+- OK   1 estimat-kilde W2020957099 finnes
+- OK   1 estimat-kilde W4312802047 finnes
+- OK   1 estimat-kilde W4312802047 finnes
+- OK   1 estimat-kilde W4312802047 finnes
+- OK   1 estimat-kilde W2101074211 finnes
+- OK   1 estimat-kilde AV-2023-3-01 finnes
+- OK   1 estimat-kilde AV-2023-3-01 finnes
+- OK   1 estimat-kilde AV-2007-2-03 finnes
+- OK   1 estimat-kilde AV-2007-2-03 finnes
+- OK   1 estimat-kilde AV-2007-2-03 finnes
+- OK   1 estimat-kilde W3123883966 finnes
+- OK   1 estimat-kilde W3123883966 finnes
+- OK   1 estimat-kilde W2001903400 finnes
+- OK   1 estimat-kilde W2093979647 finnes
+- OK   1 estimat-kilde W3125845980 finnes
+- OK   1 estimat-kilde W3125845980 finnes
+- OK   1 estimat-kilde W615703297 finnes
+- OK   1 estimat-kilde W2047693430 finnes
+- OK   1 estimat-kilde W2047693430 finnes
+- OK   1 estimat-kilde W2047693430 finnes
+- OK   1 estimat-kilde W3157909980 finnes
+- OK   1 estimat-kilde W3157909980 finnes
+- OK   1 estimat-kilde FI-arto.013374419 finnes
+- OK   1 estimat-kilde FI-arto.013103967 finnes
+- OK   1 estimat-kilde FI-arto.013105333 finnes
+- OK   1 estimat-kilde FI-ekk.993138974006250 finnes
+- OK   1 estimat-kilde FI-jykdok.2333088 finnes
+- OK   1 estimat-kilde FI-ekk.994181574006250 finnes
+- OK   1 estimat-kilde FI-fikka.5513287 finnes
+- OK   1 estimat-kilde FI-jykdok.2270587 finnes
+- OK   1 estimat-kilde FI-fikka.5921509 finnes
+- OK   1 estimat-kilde FI-ekk.993778384006250 finnes
+- OK   1 estimat-kilde FI-ekk.993790864006250 finnes
+- OK   1 estimat-kilde FI-vatt.10024_148485 finnes
+- OK   1 estimat-kilde FI-kuopio.ec2c6df0-a9cb-4dc4-99ef-f00311704706 finnes
+- OK   1 estimat-kilde FI-valto.11111_7942 finnes
+- OK   1 estimat-kilde FI-trepo.10024_97336 finnes
+- OK   1 estimat-kilde FI-helka.9919892263506253 finnes
+- OK   1 estimat-kilde FI-helka.9926574903506253 finnes
+- OK   1 estimat-kilde FI-helka.9934727476106253 finnes
+- OK   1 estimat-kilde FI-utu.994135575405971 finnes
+- OK   1 estimat-kilde FI-uef.991608253705966 finnes
+- OK   1 estimat-kilde FI-arto.012298960 finnes
+- OK   1 estimat-kilde FI-ekk.991162124006250 finnes
+- OK   1 estimat-kilde FI-ekk.994107414006250 finnes
+- OK   1 estimat-kilde FI-valto.11111_10546 finnes
+- OK   1 estimat-kilde W2138836438 finnes
+- OK   1 estimat-kilde W2138836438 finnes
+- OK   1 estimat-kilde W2138836438 finnes
+- OK   1 estimat-kilde W860717682 finnes
+- OK   1 estimat-kilde W803382566 finnes
+- OK   1 estimat-kilde W803382566 finnes
+- OK   1 estimat-kilde W3084713950 finnes
+- OK   1 estimat-kilde W3084713950 finnes
+- OK   1 estimat-kilde W3084713950 finnes
+- OK   1 estimat-kilde W4403255343 finnes
+- OK   1 estimat-kilde W4403255343 finnes
+- OK   1 estimat-kilde W2890402555 finnes
+- OK   1 estimat-kilde W2890402555 finnes
+- OK   1 estimat-kilde W2890402555 finnes
+- OK   1 estimat-kilde W2890402555 finnes
+- OK   1 estimat-kilde W1563984614 finnes
+- OK   1 estimat-kilde W1563984614 finnes
+- OK   1 estimat-kilde W2233707293 finnes
+- OK   1 estimat-kilde W3121146582 finnes
+- OK   1 estimat-kilde W7165123089 finnes
+- OK   1 estimat-kilde W7165123089 finnes
+- OK   1 estimat-kilde W7165123089 finnes
+- OK   1 estimat-kilde W2137756169 finnes
+- OK   1 estimat-kilde W2137756169 finnes
+- OK   1 estimat-kilde W2182883636 finnes
+- OK   1 estimat-kilde W2141589424 finnes
+- OK   1 estimat-kilde W2050680752 finnes
+- OK   1 estimat-kilde W1994620841 finnes
+- OK   1 estimat-kilde W3161696407 finnes
+- OK   1 estimat-kilde W3161696407 finnes
+- OK   1 estimat-kilde W2402272161 finnes
+- OK   1 estimat-kilde W825815562 finnes
+- OK   1 estimat-kilde W825815562 finnes
+- OK   1 estimat-kilde W825815562 finnes
+- OK   1 estimat-kilde W825815562 finnes
+- OK   1 estimat-kilde W2116604021 finnes
+- OK   1 estimat-kilde W2116604021 finnes
+- OK   1 estimat-kilde W1542968660 finnes
+- OK   1 estimat-kilde W1542968660 finnes
+- OK   1 estimat-kilde W1542968660 finnes
+- OK   1 estimat-kilde W2346905068 finnes
+- OK   1 estimat-kilde W3133978695 finnes
+- OK   1 estimat-kilde W3123640418 finnes
+- OK   1 estimat-kilde W3123640418 finnes
+- OK   1 estimat-kilde W2607337089 finnes
+- OK   1 estimat-kilde W2607337089 finnes
+- OK   1 estimat-kilde W1896297227 finnes
+- OK   1 estimat-kilde W1896297227 finnes
+- OK   1 estimat-kilde W1896297227 finnes
+- OK   1 estimat-kilde W2783723866 finnes
+- OK   1 estimat-kilde W2783723866 finnes
+- OK   1 estimat-kilde W2783723866 finnes
+- OK   1 estimat-kilde W2783723866 finnes
+- OK   1 estimat-kilde W4229452285 finnes
+- OK   1 estimat-kilde W4401566784 finnes
+- OK   1 estimat-kilde W4401566784 finnes
+- OK   1 estimat-kilde W3123361467 finnes
+- OK   1 estimat-kilde W3123361467 finnes
+- OK   1 estimat-kilde W3123361467 finnes
+- OK   1 estimat-kilde W4408144220 finnes
+- OK   1 estimat-kilde W4408144220 finnes
+- OK   1 estimat-kilde W1480269971 finnes
+- OK   1 estimat-kilde W1480269971 finnes
+- OK   1 estimat-kilde W3130251200 finnes
+- OK   1 estimat-kilde W2154489365 finnes
+- OK   1 estimat-kilde W2515622539 finnes
+- OK   1 estimat-kilde W2515622539 finnes
+- OK   1 estimat-kilde W4404026661 finnes
+- OK   1 estimat-kilde W4404026661 finnes
+- OK   1 estimat-kilde W3122571372 finnes
+- OK   1 estimat-kilde W2559757846 finnes
+- OK   1 estimat-kilde W3151320739 finnes
+- OK   1 estimat-kilde W3151320739 finnes
+- OK   1 estimat-kilde W3151320739 finnes
+- OK   1 estimat-kilde W3125232205 finnes
+- OK   1 estimat-kilde W3125232205 finnes
+- OK   1 estimat-kilde W2978482230 finnes
+- OK   1 estimat-kilde W2978482230 finnes
+- OK   1 estimat-kilde W4283216310 finnes
+- OK   1 estimat-kilde W4283216310 finnes
+- OK   1 estimat-kilde W4249738964 finnes
+- OK   1 estimat-kilde W4249738964 finnes
+- OK   1 estimat-kilde W3123331108 finnes
+- OK   1 estimat-kilde W3123331108 finnes
+- OK   1 estimat-kilde W3125250071 finnes
+- OK   1 estimat-kilde W3125250071 finnes
+- OK   1 estimat-kilde W3121276228 finnes
+- OK   1 estimat-kilde W3121276228 finnes
+- OK   1 estimat-kilde W3123206326 finnes
+- OK   1 estimat-kilde W3123206326 finnes
+- OK   1 estimat-kilde W3123206326 finnes
+- OK   1 estimat-kilde W4302318763 finnes
+- OK   1 estimat-kilde W4302318763 finnes
+- OK   1 estimat-kilde W1929227788 finnes
+- OK   1 estimat-kilde W1929227788 finnes
+- OK   1 estimat-kilde W3121394313 finnes
+- OK   1 estimat-kilde W3121394313 finnes
+- OK   1 estimat-kilde W3125979033 finnes
+- OK   1 estimat-kilde W3125979033 finnes
+- OK   1 estimat-kilde W3123125000 finnes
+- OK   1 estimat-kilde W3123125000 finnes
+- OK   1 estimat-kilde W4287769434 finnes
+- OK   1 estimat-kilde W4287769434 finnes
+- OK   1 estimat-kilde W3123415870 finnes
+- OK   1 estimat-kilde W3123415870 finnes
+- OK   1 estimat-kilde W2985217218 finnes
+- OK   1 estimat-kilde W2985217218 finnes
+- OK   1 estimat-kilde W2985217218 finnes
+- OK   1 estimat-kilde W2283885892 finnes
+- OK   1 estimat-kilde W1815243945 finnes
+- OK   1 estimat-kilde W4302789019 finnes
+- OK   1 estimat-kilde W4302789019 finnes
+- OK   1 estimat-kilde W4302789019 finnes
+- OK   1 estimat-kilde W4323024375 finnes
+- OK   1 estimat-kilde W4323024375 finnes
+- OK   1 estimat-kilde W4323024375 finnes
+- OK   1 estimat-kilde W4230853959 finnes
+- OK   1 estimat-kilde W4230853959 finnes
+- OK   1 estimat-kilde W3021330321 finnes
+- OK   1 estimat-kilde W3021330321 finnes
+- OK   1 estimat-kilde W3123587893 finnes
+- OK   1 estimat-kilde W3123587893 finnes
+- OK   1 estimat-kilde W3123209104 finnes
+- OK   1 estimat-kilde W3123209104 finnes
+- OK   1 estimat-kilde W1874684411 finnes
+- OK   1 estimat-kilde W3083474009 finnes
+- OK   1 estimat-kilde W3083474009 finnes
+- OK   1 estimat-kilde W3121734636 finnes
+- OK   1 estimat-kilde W3121734636 finnes
+- OK   1 estimat-kilde W2613692828 finnes
+- OK   1 estimat-kilde W2613692828 finnes
+- OK   1 estimat-kilde W2613692828 finnes
+- OK   1 estimat-kilde W3015169324 finnes
+- OK   1 estimat-kilde W3015169324 finnes
+- OK   1 estimat-kilde W3015169324 finnes
+- OK   1 estimat-kilde W3015169324 finnes
+- OK   1 estimat-kilde W1997994385 finnes
+- OK   1 estimat-kilde W1997994385 finnes
+- OK   1 estimat-kilde W2088301275 finnes
+- OK   1 estimat-kilde W2088301275 finnes
+- OK   1 estimat-kilde W2088301275 finnes
+- OK   1 estimat-kilde W2104905575 finnes
+- OK   1 estimat-kilde W2104905575 finnes
+- OK   1 estimat-kilde W2104905575 finnes
+- OK   1 estimat-kilde W1980852200 finnes
+- OK   1 estimat-kilde W1980852200 finnes
+- OK   1 estimat-kilde W2906550131 finnes
+- OK   1 estimat-kilde W3122426411 finnes
+- OK   1 estimat-kilde W3122426411 finnes
+- OK   1 estimat-kilde W3122426411 finnes
+- OK   1 estimat-kilde W2159655435 finnes
+- OK   1 estimat-kilde W2159655435 finnes
+- OK   1 estimat-kilde W4291754967 finnes
+- OK   1 estimat-kilde W4291754967 finnes
+- OK   1 estimat-kilde W2161950284 finnes
+- OK   1 estimat-kilde W2161950284 finnes
+- OK   1 estimat-kilde W2171402176 finnes
+- OK   1 estimat-kilde W2171402176 finnes
+- OK   1 estimat-kilde W4391117040 finnes
+- OK   1 estimat-kilde W4391117040 finnes
+- OK   1 estimat-kilde W4391117040 finnes
+- OK   1 estimat-kilde W4391117040 finnes
+- OK   1 estimat-kilde W3145840701 finnes
+- OK   1 estimat-kilde W3145840701 finnes
+- OK   1 estimat-kilde W2244210609 finnes
+- OK   1 estimat-kilde W3123781533 finnes
+- OK   1 estimat-kilde W3123781533 finnes
+- OK   1 estimat-kilde W3123781533 finnes
+- OK   1 estimat-kilde W3123781533 finnes
+- OK   1 estimat-kilde W2730149483 finnes
+- OK   1 estimat-kilde W2730149483 finnes
+- OK   1 estimat-kilde W3121176259 finnes
+- OK   1 estimat-kilde W3121176259 finnes
+- OK   1 estimat-kilde W3121176259 finnes
+- OK   1 estimat-kilde W3121176259 finnes
+- OK   1 estimat-kilde W4298303875 finnes
+- OK   1 estimat-kilde W4298303875 finnes
+- OK   1 estimat-kilde W4298303875 finnes
+- OK   1 estimat-kilde W3124232830 finnes
+- OK   1 estimat-kilde W3124232830 finnes
+- OK   1 estimat-kilde W2337558966 finnes
+- OK   1 estimat-kilde W3123098138 finnes
+- OK   1 estimat-kilde W3024730720 finnes
+- OK   1 estimat-kilde W3024730720 finnes
+- OK   1 estimat-kilde W3047410432 finnes
+- OK   1 estimat-kilde W3047410432 finnes
+- OK   1 estimat-kilde W3047410432 finnes
+- OK   1 estimat-kilde W1531251373 finnes
+- OK   1 estimat-kilde W1531251373 finnes
+- OK   1 estimat-kilde W1605209705 finnes
+- OK   1 estimat-kilde W1605209705 finnes
+- OK   1 estimat-kilde W3121919142 finnes
+- OK   1 estimat-kilde W3121919142 finnes
+- OK   1 estimat-kilde W3121919142 finnes
+- OK   1 estimat-kilde W3121919142 finnes
+- OK   1 estimat-kilde W4388102278 finnes
+- OK   1 estimat-kilde W4388102278 finnes
+- OK   1 estimat-kilde W4388102278 finnes
+- OK   1 estimat-kilde W1588566104 finnes
+- OK   1 estimat-kilde W3157482989 finnes
+- OK   1 estimat-kilde W3157482989 finnes
+- OK   1 estimat-kilde W4300783938 finnes
+- OK   1 estimat-kilde W4300783938 finnes
+- OK   1 estimat-kilde W4300783938 finnes
+- OK   1 estimat-kilde W2602083429 finnes
+- OK   1 estimat-kilde W2602083429 finnes
+- OK   1 estimat-kilde W2900127637 finnes
+- OK   1 estimat-kilde W3123287087 finnes
+- OK   1 estimat-kilde W2118828931 finnes
+- OK   1 estimat-kilde W2118828931 finnes
+- OK   1 estimat-kilde W2118828931 finnes
+- OK   1 estimat-kilde W2892198599 finnes
+- OK   1 estimat-kilde W7151383463 finnes
+- OK   1 estimat-kilde W7151383463 finnes
+- OK   1 estimat-kilde W1506969218 finnes
+- OK   1 estimat-kilde W1506969218 finnes
+- OK   1 estimat-kilde W4200127337 finnes
+- OK   1 estimat-kilde W4200127337 finnes
+- OK   1 estimat-kilde W2169046276 finnes
+- OK   1 estimat-kilde W2169046276 finnes
+- OK   1 estimat-kilde W2169046276 finnes
+- OK   1 estimat-kilde W4308880944 finnes
+- OK   1 estimat-kilde W4308880944 finnes
+- OK   1 estimat-kilde W4308880944 finnes
+- OK   1 estimat-kilde W2999421560 finnes
+- OK   1 estimat-kilde W2999421560 finnes
+- OK   1 estimat-kilde W3121290322 finnes
+- OK   1 estimat-kilde W2163272184 finnes
+- OK   1 estimat-kilde W2163272184 finnes
+- OK   1 estimat-kilde W3124881456 finnes
+- OK   1 estimat-kilde W3121561982 finnes
+- OK   1 estimat-kilde W3121561982 finnes
+- OK   1 estimat-kilde W3161347148 finnes
+- OK   1 estimat-kilde W3161347148 finnes
+- OK   1 estimat-kilde W3123285088 finnes
+- OK   1 estimat-kilde W3123285088 finnes
+- OK   1 estimat-kilde W3123257150 finnes
+- OK   1 estimat-kilde W3123257150 finnes
+- OK   1 estimat-kilde W1894565970 finnes
+- OK   1 estimat-kilde W1894565970 finnes
+- OK   1 estimat-kilde W3122272406 finnes
+- OK   1 estimat-kilde W2890931512 finnes
+- OK   1 estimat-kilde W2890931512 finnes
+- OK   1 estimat-kilde W4327977344 finnes
+- OK   1 estimat-kilde W4327977344 finnes
+- OK   1 estimat-kilde W3008865396 finnes
+- OK   1 estimat-kilde W3008865396 finnes
+- OK   1 estimat-kilde W3008865396 finnes
+- OK   1 estimat-kilde W4396708970 finnes
+- OK   1 estimat-kilde W4396708970 finnes
+- OK   1 estimat-kilde W3196709528 finnes
+- OK   1 estimat-kilde W3196709528 finnes
+- OK   1 estimat-kilde W2962012390 finnes
+- OK   1 estimat-kilde W2962012390 finnes
+- OK   1 estimat-kilde W2962012390 finnes
+- OK   1 estimat-kilde W2505956069 finnes
+- OK   1 estimat-kilde W4226460977 finnes
+- OK   1 estimat-kilde W3122179078 finnes
+- OK   1 estimat-kilde W3122179078 finnes
+- OK   1 estimat-kilde W3122179078 finnes
+- OK   1 estimat-kilde W3125141905 finnes
+- OK   1 estimat-kilde W3125141905 finnes
+- OK   1 estimat-kilde W1187777988 finnes
+- OK   1 estimat-kilde W2362926828 finnes
+- OK   1 estimat-kilde W2362926828 finnes
+- OK   1 estimat-kilde W1484319311 finnes
+- OK   1 estimat-kilde W1484319311 finnes
+- OK   1 estimat-kilde W1595650743 finnes
+- OK   1 estimat-kilde W2336638963 finnes
+- OK   1 estimat-kilde W2336638963 finnes
+- OK   1 estimat-kilde W2336638963 finnes
+- OK   1 estimat-kilde W2336638963 finnes
+- OK   1 estimat-kilde W94071062 finnes
+- OK   1 estimat-kilde W3124932748 finnes
+- OK   1 estimat-kilde W3124932748 finnes
+- OK   1 estimat-kilde W3124932748 finnes
+- OK   1 estimat-kilde W3125981663 finnes
+- OK   1 estimat-kilde W2172464361 finnes
+- OK   1 estimat-kilde W2172464361 finnes
+- OK   1 estimat-kilde W2230405599 finnes
+- OK   1 estimat-kilde W104671699 finnes
+- OK   1 estimat-kilde W104671699 finnes
+- OK   1 estimat-kilde W3123720716 finnes
+- OK   1 estimat-kilde W3123720716 finnes
+- OK   1 estimat-kilde W3123720716 finnes
+- OK   1 estimat-kilde W4415544802 finnes
+- OK   1 estimat-kilde W4415544802 finnes
+- OK   1 estimat-kilde W1599200893 finnes
+- OK   1 estimat-kilde W1599200893 finnes
+- OK   1 estimat-kilde W3034159852 finnes
+- OK   1 estimat-kilde W3034159852 finnes
+- OK   1 estimat-kilde W3034159852 finnes
+- OK   1 estimat-kilde W2515864410 finnes
+- OK   1 estimat-kilde W2515864410 finnes
+- OK   1 estimat-kilde W4398131513 finnes
+- OK   1 estimat-kilde W4398131513 finnes
+- OK   1 estimat-kilde W4398131513 finnes
+- OK   1 estimat-kilde W4378219799 finnes
+- OK   1 estimat-kilde W4378219799 finnes
+- OK   1 estimat-kilde W4378219799 finnes
+- OK   1 estimat-kilde W4298248611 finnes
+- OK   1 estimat-kilde W4298248611 finnes
+- OK   1 estimat-kilde W4298248611 finnes
+- OK   1 estimat-kilde W4298248611 finnes
+- OK   1 estimat-kilde W3125893180 finnes
+- OK   1 estimat-kilde W3121467141 finnes
+- OK   1 estimat-kilde W3121467141 finnes
+- OK   1 estimat-kilde W4299870713 finnes
+- OK   1 estimat-kilde W2911979157 finnes
+- OK   1 estimat-kilde W2911979157 finnes
+- OK   1 estimat-kilde W4403164112 finnes
+- OK   1 estimat-kilde W4400871115 finnes
+- OK   1 estimat-kilde W4400871115 finnes
+- OK   1 estimat-kilde W4400871115 finnes
+- OK   1 estimat-kilde W4400871115 finnes
+- OK   1 estimat-kilde W4400871115 finnes
+- OK   1 estimat-kilde W2615982170 finnes
+- OK   1 estimat-kilde W2987477897 finnes
+- OK   1 estimat-kilde W2130044643 finnes
+- OK   1 estimat-kilde W31426785 finnes
+- OK   1 estimat-kilde W2186134614 finnes
+- OK   1 estimat-kilde W2523863210 finnes
+- OK   1 estimat-kilde W2069043980 finnes
+- OK   1 estimat-kilde W2092107418 finnes
+- OK   1 estimat-kilde W2318552292 finnes
+- OK   1 estimat-kilde W2153601957 finnes
+- OK   1 estimat-kilde W2182735290 finnes
+- OK   1 estimat-kilde W2182735290 finnes
+- OK   1 estimat-kilde W3123892038 finnes
+- OK   1 estimat-kilde W2109630974 finnes
+- OK   1 estimat-kilde W2535864760 finnes
+- OK   1 estimat-kilde W2535864760 finnes
+- OK   1 estimat-kilde W3004469581 finnes
+- OK   1 estimat-kilde W3122584885 finnes
+- OK   1 estimat-kilde W2021549551 finnes
+- OK   1 estimat-kilde W4392878234 finnes
+- OK   1 estimat-kilde W4238043691 finnes
+- OK   1 estimat-kilde W2911202431 finnes
+- OK   1 estimat-kilde W4245598734 finnes
+- OK   1 estimat-kilde W4226350725 finnes
+- OK   1 estimat-kilde W2112857119 finnes
+- OK   1 estimat-kilde W4306866158 finnes
+- OK   1 estimat-kilde W7162530432 finnes
+- OK   1 estimat-kilde W7162530432 finnes
+- OK   1 estimat-kilde W2005944239 finnes
+- OK   1 estimat-kilde W2005944239 finnes
+- OK   1 estimat-kilde W2005944239 finnes
+- OK   1 estimat-kilde W3130759464 finnes
+- OK   1 estimat-kilde W2110608765 finnes
+- OK   1 estimat-kilde W1795977042 finnes
+- OK   1 estimat-kilde W3124780594 finnes
+- OK   1 estimat-kilde W3124780594 finnes
+- OK   1 estimat-kilde W3124780594 finnes
+- OK   1 estimat-kilde W3123331744 finnes
+- OK   1 estimat-kilde W3123331744 finnes
+- OK   1 estimat-kilde W650114545 finnes
+- OK   1 estimat-kilde W4283363271 finnes
+- OK   1 estimat-kilde W1548833344 finnes
+- OK   1 estimat-kilde W2780692320 finnes
+- OK   1 estimat-kilde W3047943556 finnes
+- OK   1 estimat-kilde W1571171305 finnes
+- OK   1 estimat-kilde W3105348181 finnes
+- OK   1 estimat-kilde W2597470746 finnes
+- OK   1 estimat-kilde W3049277559 finnes
+- OK   1 estimat-kilde W3049277559 finnes
+- OK   1 estimat-kilde W3049277559 finnes
+- OK   1 estimat-kilde W3049277559 finnes
+- OK   1 estimat-kilde W7115306580 finnes
+- OK   1 estimat-kilde W7115306580 finnes
+- OK   1 estimat-kilde W3032721080 finnes
+- OK   1 estimat-kilde W4412397453 finnes
+- OK   1 estimat-kilde W4412397453 finnes
+- OK   1 estimat-kilde W4414450472 finnes
+- OK   1 estimat-kilde W4414450472 finnes
+- OK   1 estimat-kilde W3165706917 finnes
+- OK   1 estimat-kilde W4255935038 finnes
+- OK   1 estimat-kilde W7162580035 finnes
+- OK   1 estimat-kilde W7152496523 finnes
+- OK   1 estimat-kilde W7132535851 finnes
+- OK   1 estimat-kilde W7132535851 finnes
+- OK   1 estimat-kilde W7115393235 finnes
+- OK   1 estimat-kilde W7115393235 finnes
+- OK   1 estimat-kilde W2625691422 finnes
+- OK   1 estimat-kilde W2625691422 finnes
+- OK   1 estimat-kilde W2625691422 finnes
+- OK   1 estimat-kilde W2742833837 finnes
+- OK   1 estimat-kilde W1969931627 finnes
+- OK   1 estimat-kilde W4287127381 finnes
+- OK   1 estimat-kilde W2526905903 finnes
+- OK   1 estimat-kilde W1547312261 finnes
+- OK   1 estimat-kilde W2889779885 finnes
+- OK   1 estimat-kilde W2889779885 finnes
+- OK   1 estimat-kilde W2888034736 finnes
+- OK   1 estimat-kilde W2136880856 finnes
+- OK   1 estimat-kilde W2079842304 finnes
+- OK   1 estimat-kilde W2111511143 finnes
+- OK   1 estimat-kilde W2063014125 finnes
+- OK   1 estimat-kilde W2093753222 finnes
+- OK   1 estimat-kilde W1590810164 finnes
+- OK   1 estimat-kilde W2303782673 finnes
+- OK   1 estimat-kilde W1987103217 finnes
+- OK   1 estimat-kilde W3121819355 finnes
+- OK   1 estimat-kilde W3121819355 finnes
+- OK   1 estimat-kilde W4317771147 finnes
+- OK   1 estimat-kilde W1593683321 finnes
+- OK   1 estimat-kilde W1593683321 finnes
+- OK   1 estimat-kilde W2123422090 finnes
+- OK   1 estimat-kilde W2123422090 finnes
+- OK   1 estimat-kilde W2285522566 finnes
+- OK   1 estimat-kilde W1557642463 finnes
+- OK   1 estimat-kilde W1557460860 finnes
+- OK   1 estimat-kilde W1557460860 finnes
+- OK   1 estimat-kilde W2920055265 finnes
+- OK   1 estimat-kilde W4256320148 finnes
+- OK   1 estimat-kilde W4383811238 finnes
+- OK   1 estimat-kilde W2139481344 finnes
+- OK   1 estimat-kilde W3124866141 finnes
+- OK   1 estimat-kilde W1572508825 finnes
+- OK   1 estimat-kilde W1572508825 finnes
+- OK   1 estimat-kilde W1572508825 finnes
+- OK   1 estimat-kilde W3108139024 finnes
+- OK   1 estimat-kilde W3108139024 finnes
+- OK   1 estimat-kilde W3108139024 finnes
+- OK   1 estimat-kilde W3122426253 finnes
+- OK   1 estimat-kilde W2292147291 finnes
+- OK   1 estimat-kilde W4402681417 finnes
+- OK   1 estimat-kilde W4402681417 finnes
+- OK   1 estimat-kilde W2472019236 finnes
+- OK   1 estimat-kilde W2472019236 finnes
+- OK   1 estimat-kilde W2472019236 finnes
+- OK   1 estimat-kilde W2472019236 finnes
+- OK   1 estimat-kilde W3204921228 finnes
+- OK   1 estimat-kilde W643766443 finnes
+- OK   1 estimat-kilde W2954218538 finnes
+- OK   1 estimat-kilde W4408972552 finnes
+- OK   1 estimat-kilde W3121789469 finnes
+- OK   1 estimat-kilde W1581199929 finnes
+- OK   1 estimat-kilde W1581199929 finnes
+- OK   1 estimat-kilde W2966573359 finnes
+- OK   1 estimat-kilde W4282002757 finnes
+- OK   1 estimat-kilde W4282002757 finnes
+- OK   1 estimat-kilde W2324682700 finnes
+- OK   1 estimat-kilde W2324682700 finnes
+- OK   1 estimat-kilde W2549561589 finnes
+- OK   1 estimat-kilde W4379931147 finnes
+- OK   1 estimat-kilde W4361195520 finnes
+- OK   1 estimat-kilde W25939613 finnes
+- OK   1 estimat-kilde W2942832188 finnes
+- OK   1 estimat-kilde W2133474130 finnes
+- OK   1 estimat-kilde W2161740142 finnes
+- OK   1 estimat-kilde W2973195085 finnes
+- OK   1 estimat-kilde W2008230484 finnes
+- OK   1 estimat-kilde W1608855302 finnes
+- OK   1 estimat-kilde W1608855302 finnes
+- OK   1 estimat-kilde W3125949391 finnes
+- OK   1 estimat-kilde W2035958812 finnes
+- OK   1 estimat-kilde W1483371894 finnes
+- OK   1 estimat-kilde W1483371894 finnes
+- OK   1 estimat-kilde W4401996784 finnes
+- OK   1 estimat-kilde W2090412054 finnes
+- OK   1 estimat-kilde W2080288345 finnes
+- OK   1 estimat-kilde W2069571250 finnes
+- OK   1 estimat-kilde W2299675198 finnes
+- OK   1 estimat-kilde W2253734281 finnes
+- OK   1 estimat-kilde W4214890761 finnes
+- OK   1 estimat-kilde W1986744604 finnes
+- OK   1 estimat-kilde W1542172923 finnes
+- OK   1 estimat-kilde W1966782564 finnes
+- OK   1 estimat-kilde W3122589322 finnes
+- OK   1 estimat-kilde W2101455510 finnes
+- OK   1 estimat-kilde W2101455510 finnes
+- OK   1 estimat-kilde W4386988210 finnes
+- OK   1 estimat-kilde W2009803705 finnes
+- OK   1 estimat-kilde W2049799687 finnes
+- OK   1 estimat-kilde W3088312345 finnes
+- OK   1 estimat-kilde W2045017890 finnes
+- OK   1 estimat-kilde W4285412389 finnes
+- OK   1 estimat-kilde W4407217164 finnes
+- OK   1 estimat-kilde W7164190541 finnes
+- OK   1 estimat-kilde W2163718867 finnes
+- OK   1 estimat-kilde W2163718867 finnes
+- OK   1 estimat-kilde W1566649813 finnes
+- OK   1 estimat-kilde W4387666475 finnes
+- OK   1 estimat-kilde W3124238623 finnes
+- OK   1 estimat-kilde W3124238623 finnes
+- OK   1 estimat-kilde W3123661404 finnes
+- OK   1 estimat-kilde W7143357590 finnes
+- OK   1 estimat-kilde W53478664 finnes
+- OK   1 estimat-kilde W53478664 finnes
+- OK   1 estimat-kilde W7148701738 finnes
+- OK   1 estimat-kilde W2116703166 finnes
+- OK   1 estimat-kilde W1596445558 finnes
+- OK   1 estimat-kilde W1581140940 finnes
+- OK   1 estimat-kilde W1982492741 finnes
+- OK   1 estimat-kilde W2041249997 finnes
+- OK   1 estimat-kilde W4285294026 finnes
+- OK   1 estimat-kilde W4285294026 finnes
+- OK   1 estimat-kilde W3121317656 finnes
+- OK   1 estimat-kilde W3121317656 finnes
+- OK   1 estimat-kilde W3121317656 finnes
+- OK   1 estimat-kilde W1555405752 finnes
+- OK   1 estimat-kilde W3162008734 finnes
+- OK   1 estimat-kilde W100231098 finnes
+- OK   1 estimat-kilde W4401689619 finnes
+- OK   1 estimat-kilde W4401689619 finnes
+- OK   1 forfatter «Filges» for W2963969083 står i metadata eller på tittelsiden
+- OK   1 forfatter «Schmieder» for W2892364420 står i metadata eller på tittelsiden
+- OK   1 forfatter «Schmieder» for W2892364420 står i metadata eller på tittelsiden
+- OK   1 forfatter «Cohen» for W4401689619 står i metadata eller på tittelsiden
+- OK   1 forfatter «Falch» for KU-7d037e12-1538-4c97-9339-fb49dd5e5502 står i metadata eller på tittelsiden
+- OK   1 forfatter «Falch» for KU-cf803acc-e73d-410f-a09f-e4633c73602a står i metadata eller på tittelsiden
+- OK   1 forfatter «Filges» for W2963969083 står i metadata eller på tittelsiden
+- OK   1 forfatter «Filges» for W2963969083 står i metadata eller på tittelsiden
+- OK   1 forfatter «Filges» for W22629269 står i metadata eller på tittelsiden
+- OK   1 forfatter «Schmieder» for W2892364420 står i metadata eller på tittelsiden
+- OK   1 forfatter «Cohen» for W4401689619 står i metadata eller på tittelsiden
+- OK   1 forfatter «Lopes» for W3215335411 står i metadata eller på tittelsiden
+- OK   1 forfatter «Falch» for KU-7d037e12-1538-4c97-9339-fb49dd5e5502 står i metadata eller på tittelsiden
+- OK   1 forfatter «Falch» for KU-cf803acc-e73d-410f-a09f-e4633c73602a står i metadata eller på tittelsiden
+- OK   1 forfatter «Røed» for W2105107427 står i metadata eller på tittelsiden
+- OK   1 forfatter «Gaure» for W2156877177 står i metadata eller på tittelsiden
+- OK   1 forfatter «Røed» for W1884998289 står i metadata eller på tittelsiden
+- OK   1 forfatter «Røed» for W2047693430 står i metadata eller på tittelsiden
+- OK   1 forfatter «Røed» for W3121810429 står i metadata eller på tittelsiden
+- OK   1 forfatter «Gaure» for W2156877177 står i metadata eller på tittelsiden
+- OK   1 forfatter «Røed» for W1566578940 står i metadata eller på tittelsiden
+- OK   1 forfatter «Kann» for AV-2018-2-03 står i metadata eller på tittelsiden
+- OK   1 forfatter «Simson» for AV-2023-1-03 står i metadata eller på tittelsiden
+- OK   1 forfatter «Galaasen» for AV-2013-1-04 står i metadata eller på tittelsiden
+- OK   1 forfatter «Carling» for W3121246414 står i metadata eller på tittelsiden
+- OK   1 forfatter «Johansson» for W2169046276 står i metadata eller på tittelsiden
+- OK   1 forfatter «Bennmarker» for W2084090750 står i metadata eller på tittelsiden
+- OK   1 forfatter «Kolsrud» for W2200172062 står i metadata eller på tittelsiden
+- OK   1 forfatter «Cederlöf» for W3123331108 står i metadata eller på tittelsiden
+- OK   1 forfatter «Uusitalo» for W2002707463 står i metadata eller på tittelsiden
+- OK   1 forfatter «Kyyrä» for W4300783938 står i metadata eller på tittelsiden
+- OK   1 forfatter «Kyyrä» for W2624227397 står i metadata eller på tittelsiden
+- OK   1 forfatter «Korpela» for FI-vatt.10024_187919 står i metadata eller på tittelsiden
+- OK   1 forfatter «Kyyrä» for FI-vatt.10024_149571 står i metadata eller på tittelsiden
+- OK   1 forfatter «Kyyrä» for W2948483932 står i metadata eller på tittelsiden
+- OK   1 forfatter «Ollikainen» for W3123331744 står i metadata eller på tittelsiden
+- OK   1 forfatter «Kanabar» for W7214186622 står i metadata eller på tittelsiden
+- OK   1 forfatter «Altmann» for W4312802047 står i metadata eller på tittelsiden
+- OK   1 forfatter «Schmieder» for W2890402555 står i metadata eller på tittelsiden
+- OK   1 forfatter «Schmieder» for W1563984614 står i metadata eller på tittelsiden
+- OK   1 forfatter «Schmieder» for W3151320739 står i metadata eller på tittelsiden
+- OK   1 forfatter «Lalive» for W3084713950 står i metadata eller på tittelsiden
+- OK   1 forfatter «Nekoei» for W3123206326 står i metadata eller på tittelsiden
+- OK   1 forfatter «Card» for W1480269971 står i metadata eller på tittelsiden
+- OK   1 forfatter «Gałecka-Burdziak» for W3161696407 står i metadata eller på tittelsiden
+- OK   1 forfatter «Kuhn» for W4401566784 står i metadata eller på tittelsiden
+- OK   1 forfatter «Le Barbanchon» for W2613692828 står i metadata eller på tittelsiden
+- OK   1 forfatter «Card» for W2116604021 står i metadata eller på tittelsiden
+- OK   1 forfatter «Bell» for W4391117040 står i metadata eller på tittelsiden
+- OK   1 forfatter «Le Barbanchon» for W4400871115 står i metadata eller på tittelsiden
+- OK   1 forfatter «Schmieder» for W2890402555 står i metadata eller på tittelsiden
+- OK   1 forfatter «Johnston» for W825815562 står i metadata eller på tittelsiden
+- OK   1 forfatter «Ganong» for W4291754967 står i metadata eller på tittelsiden
+- OK   1 forfatter «Hagedorn» for W2123564434 står i metadata eller på tittelsiden
+- OK   1 forfatter «Chodorow-Reich» for W2337558966 står i metadata eller på tittelsiden
+- OK   1 forfatter «Farber» for W3121176259 står i metadata eller på tittelsiden
+- OK   1 forfatter «Marinescu» for W3024730720 står i metadata eller på tittelsiden
+- OK   1 forfatter «Lalive» for W3123587893 står i metadata eller på tittelsiden
+- OK   1 forfatter «Reiersen» for AV-2007-2-03 står i metadata eller på tittelsiden
+- OK   1 forfatter «Dahl» for AV-2023-3-01 står i metadata eller på tittelsiden
+- OK   1 forfatter «Heggebø» for W4378219799 står i metadata eller på tittelsiden
+- OK   1 forfatter «Hansen» for 0198cc5369ae-229c5063-6405-419a-8006-b9dd49ae5416 står i metadata eller på tittelsiden
+- OK   1 forfatter «Filges» for W2963969083 står i metadata eller på tittelsiden
+- OK   1 forfatter «Filges» for W22629269 står i metadata eller på tittelsiden
+- OK   1 forfatter «Krueger» for W2138836438 står i metadata eller på tittelsiden
+- OK   1 forfatter «Meyer» for W1506969218 står i metadata eller på tittelsiden
+- OK   2 sitat rad 1 (W2963969083, avgang fra ledighet til arbeid (hasardra) står på oppgitt side
+- OK   3 estimat=1.10 rad 1 (W2963969083, avgang fra ledighet til arbeid (hasardra) står i sitatet
+- OK   3 ki_lav=1.03 rad 1 (W2963969083, avgang fra ledighet til arbeid (hasardra) står i sitatet
+- OK   3 ki_hoy=1.17 rad 1 (W2963969083, avgang fra ledighet til arbeid (hasardra) står i sitatet
+- OK   4 rad 1 (W2963969083, avgang fra ledighet til arbeid (hasardra) estimat innenfor KI
+- OK   4 rad 1 (W2963969083, avgang fra ledighet til arbeid (hasardra) KI symmetrisk på log-skala (avvik 0.00)
+- OK   2 sitat rad 2 (W2963969083, avgang fra den nye jobben (hasardrate), ) står på oppgitt side
+- OK   3 estimat=0.99 rad 2 (W2963969083, avgang fra den nye jobben (hasardrate), ) står i sitatet
+- OK   3 ki_lav=0.97 rad 2 (W2963969083, avgang fra den nye jobben (hasardrate), ) står i sitatet
+- OK   3 ki_hoy=1.02 rad 2 (W2963969083, avgang fra den nye jobben (hasardrate), ) står i sitatet
+- OK   4 rad 2 (W2963969083, avgang fra den nye jobben (hasardrate), ) estimat innenfor KI
+- OK   4 rad 2 (W2963969083, avgang fra den nye jobben (hasardrate), ) KI symmetrisk på log-skala (avvik 0.01)
+- OK   2 sitat rad 3 (W2963969083, lønn i ny jobb (lønnsforhold), ingen for) står på oppgitt side
+- OK   3 estimat=1.00 rad 3 (W2963969083, lønn i ny jobb (lønnsforhold), ingen for) står i sitatet
+- OK   3 ki_lav=0.99 rad 3 (W2963969083, lønn i ny jobb (lønnsforhold), ingen for) står i sitatet
+- OK   3 ki_hoy=1.01 rad 3 (W2963969083, lønn i ny jobb (lønnsforhold), ingen for) står i sitatet
+- OK   4 rad 3 (W2963969083, lønn i ny jobb (lønnsforhold), ingen for) estimat innenfor KI
+- OK   2 sitat rad 4 (W22629269, avgang fra ledighet til arbeid i måneden) står på oppgitt side
+- OK   3 estimat=80 rad 4 (W22629269, avgang fra ledighet til arbeid i måneden) står i sitatet
+- OK   2 sitat rad 5 (W22629269, avgang fra ledighet til arbeid én måned ) står på oppgitt side
+- OK   3 estimat=30 rad 5 (W22629269, avgang fra ledighet til arbeid én måned ) står i sitatet
+- OK   2 sitat rad 6 (W22629269, avgang fra ledighet til arbeid to månede) står på oppgitt side
+- OK   3 estimat=10 rad 6 (W22629269, avgang fra ledighet til arbeid to månede) står i sitatet
+- OK   2 sitat rad 7 (W22629269, avgang fra ny jobb (jobbkvalitet): for f) står på oppgitt side
+- OK   2 sitat rad 8 (W2892364420, ikke-sysselsatt varighet: marginaleffekt) står på oppgitt side
+- OK   3 estimat=0.13 rad 8 (W2892364420, ikke-sysselsatt varighet: marginaleffekt) står i sitatet
+- OK   2 sitat rad 9 (W2892364420, elastisitet av ikke-sysselsatt varighet ) står på oppgitt side
+- OK   3 estimat=0.37 rad 9 (W2892364420, elastisitet av ikke-sysselsatt varighet ) står i sitatet
+- OK   2 sitat rad 10 (W2892364420, elastisitet av ledighetsvarighet for dag) står på oppgitt side
+- OK   3 estimat=0.53 rad 10 (W2892364420, elastisitet av ledighetsvarighet for dag) står i sitatet
+- OK   2 sitat rad 11 (W2892364420, lønn i ny jobb: små negative effekter av) står på oppgitt side
+- OK   2 sitat rad 12 (W7131355276, korrigering for publiseringsskjevhet red) står på oppgitt side
+- OK   2 sitat rad 13 (W3215335411, ekstra uker ledighet per ekstra uke maks) står på oppgitt side
+- OK   3 estimat=0.02 rad 13 (W3215335411, ekstra uker ledighet per ekstra uke maks) står i sitatet
+- OK   2 sitat rad 14 (W3215335411, de fleste signifikante estimater ligger ) står på oppgitt side
+- OK   3 estimat=0.4 rad 14 (W3215335411, de fleste signifikante estimater ligger ) står i sitatet
+- OK   2 sitat rad 15 (W3215335411, ingen signifikant effekt av maksimal per) står på oppgitt side
+- OK   2 sitat rad 16 (W2084090750, menn: økning i forventet ledighetsvarigh) står på oppgitt side
+- OK   3 estimat=4 rad 16 (W2084090750, menn: økning i forventet ledighetsvarigh) står i sitatet
+- OK   2 sitat rad 17 (W2084090750, samlet effekt på ledighetsvarighet ikke ) står på oppgitt side
+- OK   2 sitat rad 18 (W2002707463, eldre med lang yrkeskarriere: økning i f) står på oppgitt side
+- OK   3 estimat=50 rad 18 (W2002707463, eldre med lang yrkeskarriere: økning i f) står i sitatet
+- OK   2 sitat rad 19 (W2002707463, elastisitet av tid til arbeid for dagpen) står på oppgitt side
+- OK   3 estimat=1 rad 19 (W2002707463, elastisitet av tid til arbeid for dagpen) står i sitatet
+- OK   2 sitat rad 20 (W2002707463, hasard til arbeid går tilbake til nivået) står på oppgitt side
+- OK   2 sitat rad 21 (W7154563528, dager til neste jobb ved om lag 19 uker ) står på oppgitt side
+- OK   3 estimat=45 rad 21 (W7154563528, dager til neste jobb ved om lag 19 uker ) står i sitatet
+- OK   2 sitat rad 22 (W7154563528, ekstra dager uten arbeid per ekstra uke ) står på oppgitt side
+- OK   3 estimat=2 rad 22 (W7154563528, ekstra dager uten arbeid per ekstra uke ) står i sitatet
+- OK   2 sitat rad 23 (W7154563528, dagslønn i første jobb etter ledighet (r) står på oppgitt side
+- OK   3 estimat=15 rad 23 (W7154563528, dagslønn i første jobb etter ledighet (r) står i sitatet
+- OK   2 sitat rad 24 (W7154563528, ingen økning i overgang til faste eller ) står på oppgitt side
+- OK   2 sitat rad 25 (W2408422098, metodegjennomgang av makroeffekter av fo) står på oppgitt side
+- OK   2 sitat rad 26 (W2408422098, avgang fra ledighet etter kutt på 16 uke) står på oppgitt side
+- OK   2 sitat rad 27 (W2993610654, nedgang i sannsynlighet for å være i arb) står på oppgitt side
+- OK   3 estimat=61 rad 27 (W2993610654, nedgang i sannsynlighet for å være i arb) står i sitatet
+- OK   2 sitat rad 28 (W2993610654, nedgang i kumulativ inntekt over to år () står på oppgitt side
+- OK   3 estimat=76 rad 28 (W2993610654, nedgang i kumulativ inntekt over to år () står i sitatet
+- OK   2 sitat rad 29 (W2993610654, ingen klar bedring i jobbkvalitet som ve) står på oppgitt side
+- OK   2 sitat rad 30 (W2948483932, topp i jobbfinningsraten siste uke før u) står på oppgitt side
+- OK   3 estimat=3.1 rad 30 (W2948483932, topp i jobbfinningsraten siste uke før u) står i sitatet
+- OK   2 sitat rad 31 (W2948483932, topp i avgang fra dagpenger siste uke fø) står på oppgitt side
+- OK   3 estimat=4.5 rad 31 (W2948483932, topp i avgang fra dagpenger siste uke fø) står i sitatet
+- OK   2 sitat rad 32 (W2948483932, andel ledighetsforløp som endte i arbeid) står på oppgitt side
+- OK   3 estimat=1.3 rad 32 (W2948483932, andel ledighetsforløp som endte i arbeid) står i sitatet
+- OK   2 sitat rad 33 (W2948483932, ekstra andel forløp som ender de siste 8) står på oppgitt side
+- OK   3 estimat=0.4 rad 33 (W2948483932, ekstra andel forløp som ender de siste 8) står i sitatet
+- OK   2 sitat rad 34 (W4322604235, ingen effektestimat for dagpengeperiode ) står på oppgitt side
+- OK   2 sitat rad 35 (W4401689619, elastisitet av ledighetsvarighet for kom) står på oppgitt side
+- OK   3 estimat=0.34 rad 35 (W4401689619, elastisitet av ledighetsvarighet for kom) står i sitatet
+- OK   2 sitat rad 36 (W4401689619, elastisitet av ledighetsvarighet for mak) står på oppgitt side
+- OK   3 estimat=0.23 rad 36 (W4401689619, elastisitet av ledighetsvarighet for mak) står i sitatet
+- OK   2 sitat rad 37 (W4401689619, høyere elastisiteter når ordningen er sj) står på oppgitt side
+- OK   3 estimat=0.52 rad 37 (W4401689619, høyere elastisiteter når ordningen er sj) står i sitatet
+- OK   2 sitat rad 38 (W4401689619, elastisitet av ledighetsvarighet for mak) står på oppgitt side
+- OK   3 estimat=1.71 rad 38 (W4401689619, elastisitet av ledighetsvarighet for mak) står i sitatet
+- OK   2 sitat rad 39 (W2624227397, ekstra uker ledighet per ekstra uke dagp) står på oppgitt side
+- OK   3 estimat=0.15 rad 39 (W2624227397, ekstra uker ledighet per ekstra uke dagp) står i sitatet
+- OK   2 sitat rad 40 (W2624227397, elastisitet av ledighetsvarighet for gje) står på oppgitt side
+- OK   3 estimat=0.5 rad 40 (W2624227397, elastisitet av ledighetsvarighet for gje) står i sitatet
+- OK   2 sitat rad 41 (W2624227397, lønn i neste jobb: om lag 2 euro mer per) står på oppgitt side
+- OK   3 estimat=2 rad 41 (W2624227397, lønn i neste jobb: om lag 2 euro mer per) står i sitatet
+- OK   2 sitat rad 42 (W2200172062, elastisitet av ledighetsvarighet for dag) står på oppgitt side
+- OK   3 estimat=1.53 rad 42 (W2200172062, elastisitet av ledighetsvarighet for dag) står i sitatet
+- OK   2 sitat rad 43 (W2200172062, moral hazard-kostnad av høyere dagpenger) står på oppgitt side
+- OK   3 estimat=21 rad 43 (W2200172062, moral hazard-kostnad av høyere dagpenger) står i sitatet
+- OK   2 sitat rad 44 (W2143884102, optimal kompensasjonsgrad i et system me) står på oppgitt side
+- OK   3 estimat=46 rad 44 (W2143884102, optimal kompensasjonsgrad i et system me) står i sitatet
+- OK   2 sitat rad 45 (W2143884102, velferdsgevinst av optimalt system med t) står på oppgitt side
+- OK   3 estimat=0.55 rad 45 (W2143884102, velferdsgevinst av optimalt system med t) står i sitatet
+- OK   2 sitat rad 46 (W2304173907, ekstra uker ledighet per uke forlengelse) står på oppgitt side
+- OK   3 estimat=0.1 rad 46 (W2304173907, ekstra uker ledighet per uke forlengelse) står i sitatet
+- OK   2 sitat rad 47 (W2304173907, ekstra uker ledighet per ekstra uke ordi) står på oppgitt side
+- OK   3 estimat=0.2 rad 47 (W2304173907, ekstra uker ledighet per ekstra uke ordi) står i sitatet
+- OK   2 sitat rad 48 (W1555671394, ingen effektestimat i sammendraget; resu) står på oppgitt side
+- OK   2 sitat rad 50 (W2153088156, semielastisitet av lønn for netto kompen) står på oppgitt side
+- OK   3 estimat=0.2 rad 50 (W2153088156, semielastisitet av lønn for netto kompen) står i sitatet
+- OK   2 sitat rad 51 (W2153088156, fall i lønn før skatt ved 1 prosent lave) står på oppgitt side
+- OK   3 estimat=0.1 rad 51 (W2153088156, fall i lønn før skatt ved 1 prosent lave) står i sitatet
+- OK   2 sitat rad 52 (W2123564434, ledighetsrate: midlertidig forlengelse 2) står på oppgitt side
+- OK   3 estimat=0.5 rad 52 (W2123564434, ledighetsrate: midlertidig forlengelse 2) står i sitatet
+- OK   2 sitat rad 53 (W2123564434, ledighetsrate i 2011 ville vært lavere u) står på oppgitt side
+- OK   3 estimat=2 rad 53 (W2123564434, ledighetsrate i 2011 ville vært lavere u) står i sitatet
+- OK   2 sitat rad 54 (W2123564434, langsiktig ledighetsrate ved permanent ø) står på oppgitt side
+- OK   3 estimat=80 rad 54 (W2123564434, langsiktig ledighetsrate ved permanent ø) står i sitatet
+- OK   2 sitat rad 55 (W1900426521, reservasjonslønn: prosent økning per pro) står på oppgitt side
+- OK   3 estimat=0.65 rad 55 (W1900426521, reservasjonslønn: prosent økning per pro) står i sitatet
+- OK   2 sitat rad 56 (W1900426521, reservasjonslønn påvirker ikke jobbsjans) står på oppgitt side
+- OK   2 sitat rad 57 (W1900426521, inntekt ved gjenansettelse (relativt til) står på oppgitt side
+- OK   3 estimat=0.6 rad 57 (W1900426521, inntekt ved gjenansettelse (relativt til) står i sitatet
+- OK   2 sitat rad 58 (W1900426521, avgang fra ledighet til arbeid etter kut) står på oppgitt side
+- OK   3 estimat=10 rad 58 (W1900426521, avgang fra ledighet til arbeid etter kut) står i sitatet
+- OK   2 sitat rad 59 (W3122724300, sysselsetting (log-poeng) ved 1 prosent ) står på oppgitt side
+- OK   3 estimat=0.019 rad 59 (W3122724300, sysselsetting (log-poeng) ved 1 prosent ) står i sitatet
+- OK   2 sitat rad 60 (W3122724300, antall personer (millioner) som fikk job) står på oppgitt side
+- OK   3 estimat=2.1 rad 60 (W3122724300, antall personer (millioner) som fikk job) står i sitatet
+- OK   2 sitat rad 61 (W4392395455, sannsynlighet for å finne jobb innen sek) står på oppgitt side
+- OK   3 estimat=70 rad 61 (W4392395455, sannsynlighet for å finne jobb innen sek) står i sitatet
+- OK   2 sitat rad 62 (W4392395455, ledighetens respons på dagpenger betalt ) står på oppgitt side
+- OK   2 sitat rad 63 (W2161003690, permitterte/tilbakekalte: andel av ledig) står på oppgitt side
+- OK   3 estimat=47 rad 63 (W2161003690, permitterte/tilbakekalte: andel av ledig) står i sitatet
+- OK   2 sitat rad 64 (W2161003690, hasard til ny jobb har topp ved utløp av) står på oppgitt side
+- OK   2 sitat rad 65 (W3122988274, søketid (minutter per dag) blant UI-bere) står på oppgitt side
+- OK   3 estimat=-1.6 rad 65 (W3122988274, søketid (minutter per dag) blant UI-bere) står i sitatet
+- OK   2 sitat rad 66 (W3122988274, søketid (minutter per dag) blant UI-bere) står på oppgitt side
+- OK   3 estimat=-2.2 rad 66 (W3122988274, søketid (minutter per dag) blant UI-bere) står i sitatet
+- OK   2 sitat rad 67 (W3122988274, søketid øker kraftig ukene før stønaden ) står på oppgitt side
+- OK   2 sitat rad 68 (W2105107427, gjennomsnittlig ledighetsvarighet økte f) står på oppgitt side
+- OK   3 estimat=26.8 rad 68 (W2105107427, gjennomsnittlig ledighetsvarighet økte f) står i sitatet
+- OK   2 sitat rad 69 (W2105107427, økt forventet ledighetsvarighet per uke ) står på oppgitt side
+- OK   3 estimat=0.5 rad 69 (W2105107427, økt forventet ledighetsvarighet per uke ) står i sitatet
+- OK   2 sitat rad 70 (W2105107427, overgang til jobb (hasard) når én måned ) står på oppgitt side
+- OK   3 estimat=55 rad 70 (W2105107427, overgang til jobb (hasard) når én måned ) står i sitatet
+- OK   2 sitat rad 71 (W3123103646, avgang fra ledighet mens man jobber delt) står på oppgitt side
+- OK   3 estimat=52 rad 71 (W3123103646, avgang fra ledighet mens man jobber delt) står i sitatet
+- OK   2 sitat rad 72 (W3123103646, avgang fra ledighet etter periode med su) står på oppgitt side
+- OK   3 estimat=33 rad 72 (W3123103646, avgang fra ledighet etter periode med su) står i sitatet
+- OK   2 sitat rad 73 (W1884998289, elastisitet i overgang til jobb mht. kom) står på oppgitt side
+- OK   3 estimat=-0.4 rad 73 (W1884998289, elastisitet i overgang til jobb mht. kom) står i sitatet
+- OK   2 sitat rad 74 (W1884998289, økning i overgang til jobb de siste 3-4 ) står på oppgitt side
+- OK   3 estimat=50 rad 74 (W1884998289, økning i overgang til jobb de siste 3-4 ) står i sitatet
+- OK   2 sitat rad 75 (W4416019886, søkeinnsats (antall søknader) ved utløp ) står på oppgitt side
+- OK   3 estimat=10 rad 75 (W4416019886, søkeinnsats (antall søknader) ved utløp ) står i sitatet
+- OK   2 sitat rad 77 (W3126140373, månedlig overgangsrate til jobb etter ut) står på oppgitt side
+- OK   3 estimat=20 rad 77 (W3126140373, månedlig overgangsrate til jobb etter ut) står i sitatet
+- OK   2 sitat rad 78 (W3126140373, månedlig overgangsrate til egen virksomh) står på oppgitt side
+- OK   3 estimat=2 rad 78 (W3126140373, månedlig overgangsrate til egen virksomh) står i sitatet
+- OK   2 sitat rad 79 (KU-7d037e12-1538-4c97-9339-fb49dd5e5502, reduksjon i ledighetsvarighet (uker) per) står på oppgitt side
+- OK   3 estimat=0.23 rad 79 (KU-7d037e12-1538-4c97-9339-fb49dd5e5502, reduksjon i ledighetsvarighet (uker) per) står i sitatet
+- OK   2 sitat rad 80 (KU-7d037e12-1538-4c97-9339-fb49dd5e5502, forventet tid til jobb (betinget på jobb) står på oppgitt side
+- OK   3 estimat=9 rad 80 (KU-7d037e12-1538-4c97-9339-fb49dd5e5502, forventet tid til jobb (betinget på jobb) står i sitatet
+- OK   2 sitat rad 81 (KU-7d037e12-1538-4c97-9339-fb49dd5e5502, andel i jobb etter fire år (tallet står ) står på oppgitt side
+- OK   3 estimat=2 rad 81 (KU-7d037e12-1538-4c97-9339-fb49dd5e5502, andel i jobb etter fire år (tallet står ) står i sitatet
+- OK   2 sitat rad 82 (KU-7d037e12-1538-4c97-9339-fb49dd5e5502, reduksjon i ledighetsvarighet (uker) per) står på oppgitt side
+- OK   3 estimat=0.07 rad 82 (KU-7d037e12-1538-4c97-9339-fb49dd5e5502, reduksjon i ledighetsvarighet (uker) per) står i sitatet
+- OK   2 sitat rad 83 (KU-cf803acc-e73d-410f-a09f-e4633c73602a, overgang fra jobb til ledighet (reduksjo) står på oppgitt side
+- OK   3 estimat=8.7 rad 83 (KU-cf803acc-e73d-410f-a09f-e4633c73602a, overgang fra jobb til ledighet (reduksjo) står i sitatet
+- OK   2 sitat rad 84 (KU-cf803acc-e73d-410f-a09f-e4633c73602a, overgang fra ikke-jobb til ny jobb, regi) står på oppgitt side
+- OK   3 estimat=-3 rad 84 (KU-cf803acc-e73d-410f-a09f-e4633c73602a, overgang fra ikke-jobb til ny jobb, regi) står i sitatet
+- OK   3 ki_lav=-16 rad 84 (KU-cf803acc-e73d-410f-a09f-e4633c73602a, overgang fra ikke-jobb til ny jobb, regi) står i sitatet
+- OK   3 ki_hoy=13 rad 84 (KU-cf803acc-e73d-410f-a09f-e4633c73602a, overgang fra ikke-jobb til ny jobb, regi) står i sitatet
+- OK   4 rad 84 (KU-cf803acc-e73d-410f-a09f-e4633c73602a, overgang fra ikke-jobb til ny jobb, regi) estimat innenfor KI
+- OK   2 sitat rad 85 (AV-2013-1-04, antall helt ledige over 60 år med mer en) står på oppgitt side
+- OK   3 estimat=-28 rad 85 (AV-2013-1-04, antall helt ledige over 60 år med mer en) står i sitatet
+- OK   2 sitat rad 86 (AV-2013-1-04, andel tilbake i jobb i oktober blant led) står på oppgitt side
+- OK   3 estimat=60 rad 86 (AV-2013-1-04, andel tilbake i jobb i oktober blant led) står i sitatet
+- OK   2 sitat rad 87 (KU-8946b101-5472-4571-b8f6-1a2b4020db3e, gjennomsnittlig ledighetsvarighet, måned) står på oppgitt side
+- OK   3 estimat=1.8 rad 87 (KU-8946b101-5472-4571-b8f6-1a2b4020db3e, gjennomsnittlig ledighetsvarighet, måned) står i sitatet
+- OK   2 sitat rad 88 (KU-8946b101-5472-4571-b8f6-1a2b4020db3e, lønn i første jobb etter ledighet (jobbk) står på oppgitt side
+- OK   3 estimat=4.3 rad 88 (KU-8946b101-5472-4571-b8f6-1a2b4020db3e, lønn i første jobb etter ledighet (jobbk) står i sitatet
+- OK   2 sitat rad 89 (KU-8946b101-5472-4571-b8f6-1a2b4020db3e, overgang til jobb (hasard) månedene rett) står på oppgitt side
+- OK   3 estimat=50 rad 89 (KU-8946b101-5472-4571-b8f6-1a2b4020db3e, overgang til jobb (hasard) månedene rett) står i sitatet
+- OK   2 sitat rad 90 (KU-8946b101-5472-4571-b8f6-1a2b4020db3e, akseptert lønn i ny jobb, nedgang rett f) står på oppgitt side
+- OK   3 estimat=10 rad 90 (KU-8946b101-5472-4571-b8f6-1a2b4020db3e, akseptert lønn i ny jobb, nedgang rett f) står i sitatet
+- OK   2 sitat rad 91 (AV-2018-2-03, permitterte: måned i ledighetsforløpet m) står på oppgitt side
+- OK   3 estimat=3 rad 91 (AV-2018-2-03, permitterte: måned i ledighetsforløpet m) står i sitatet
+- OK   2 sitat rad 92 (AV-2018-2-03, permitterte: måned med høyest sannsynlig) står på oppgitt side
+- OK   3 estimat=6 rad 92 (AV-2018-2-03, permitterte: måned med høyest sannsynlig) står i sitatet
+- OK   2 sitat rad 93 (AV-2018-1-01, andel av dem som flytter for ny jobb som) står på oppgitt side
+- OK   3 estimat=16 rad 93 (AV-2018-1-01, andel av dem som flytter for ny jobb som) står i sitatet
+- OK   2 sitat rad 94 (AV-2019-4-01, norskfødte med 24 måneders dagpengerett:) står på oppgitt side
+- OK   3 estimat=15 rad 94 (AV-2019-4-01, norskfødte med 24 måneders dagpengerett:) står i sitatet
+- OK   2 sitat rad 95 (AV-2019-4-01, innvandrere fra lavinntektsland med 24 m) står på oppgitt side
+- OK   3 estimat=10 rad 95 (AV-2019-4-01, innvandrere fra lavinntektsland med 24 m) står i sitatet
+- OK   2 sitat rad 96 (AV-2023-1-08, ingen estimat for overgang til arbeid; s) står på oppgitt side
+- OK   2 sitat rad 97 (AV-2023-1-03, permittert mer enn ett år under pandemie) står på oppgitt side
+- OK   3 estimat=57 rad 97 (AV-2023-1-03, permittert mer enn ett år under pandemie) står i sitatet
+- OK   2 sitat rad 98 (AV-2023-1-03, permittert mer enn ett år under pandemie) står på oppgitt side
+- OK   3 estimat=12 rad 98 (AV-2023-1-03, permittert mer enn ett år under pandemie) står i sitatet
+- OK   2 sitat rad 99 (0198cc433002-bf76c9ff-dfa2-46bb-8df2-eecbfad07615, unge 18-30 år: gjennomsnittlig varighet ) står på oppgitt side
+- OK   3 estimat=8.40 rad 99 (0198cc433002-bf76c9ff-dfa2-46bb-8df2-eecbfad07615, unge 18-30 år: gjennomsnittlig varighet ) står i sitatet
+- OK   2 sitat rad 100 (0198cc433002-bf76c9ff-dfa2-46bb-8df2-eecbfad07615, unge 18-30 år: gjennomsnittlig varighet ) står på oppgitt side
+- OK   3 estimat=3.77 rad 100 (0198cc433002-bf76c9ff-dfa2-46bb-8df2-eecbfad07615, unge 18-30 år: gjennomsnittlig varighet ) står i sitatet
+- OK   2 sitat rad 101 (AV-2023-1-04, merutgifter (milliarder kroner) ved forl) står på oppgitt side
+- OK   3 estimat=7 rad 101 (AV-2023-1-04, merutgifter (milliarder kroner) ved forl) står i sitatet
+- OK   2 sitat rad 102 (0198cc5369ae-229c5063-6405-419a-8006-b9dd49ae5416, permitterte: ingen effektestimat; interv) står på oppgitt side
+- OK   2 sitat rad 103 (KU-710bb35b-b997-44f5-8798-e71860da413c, andel med ordinær jobb blant deltakere s) står på oppgitt side
+- OK   3 estimat=60 rad 103 (KU-710bb35b-b997-44f5-8798-e71860da413c, andel med ordinær jobb blant deltakere s) står i sitatet
+- OK   2 sitat rad 104 (LI-fszjzhtccvgf3hp0, foreldre med barn under 18 år: uker med ) står på oppgitt side
+- OK   3 estimat=2.5 rad 104 (LI-fszjzhtccvgf3hp0, foreldre med barn under 18 år: uker med ) står i sitatet
+- OK   2 sitat rad 105 (LI-fszjzhtccvgf3hp0, sannsynlighet for å gå til subsidiert ar) står på oppgitt side
+- OK   3 estimat=36 rad 105 (LI-fszjzhtccvgf3hp0, sannsynlighet for å gå til subsidiert ar) står i sitatet
+- OK   2 sitat rad 106 (LI-10150981, reformkoeffisient for overgang til arbei) står på oppgitt side
+- OK   3 estimat=0.048 rad 106 (LI-10150981, reformkoeffisient for overgang til arbei) står i sitatet
+- OK   2 sitat rad 107 (LI-10150981, raskere overgang til arbeid uten arbeids) står på oppgitt side
+- OK   3 estimat=15 rad 107 (LI-10150981, raskere overgang til arbeid uten arbeids) står i sitatet
+- OK   2 sitat rad 108 (LI-10150981, implisert elastisitet for overgang til a) står på oppgitt side
+- OK   3 estimat=0.6 rad 108 (LI-10150981, implisert elastisitet for overgang til a) står i sitatet
+- OK   2 sitat rad 109 (LI-10150999, økning i overgang til arbeid, gjengitt f) står på oppgitt side
+- OK   3 estimat=10 rad 109 (LI-10150999, økning i overgang til arbeid, gjengitt f) står i sitatet
+- OK   2 sitat rad 110 (LI-10150999, implisert elastisitet, gjengitt fra IFAU) står på oppgitt side
+- OK   3 estimat=1.6 rad 110 (LI-10150999, implisert elastisitet, gjengitt fra IFAU) står i sitatet
+- OK   2 sitat rad 111 (LI-8234473, elastisitet i forventet ledighetsvarighe) står på oppgitt side
+- OK   3 estimat=0.2 rad 111 (LI-8234473, elastisitet i forventet ledighetsvarighe) står i sitatet
+- OK   2 sitat rad 112 (LI-8234473, reduksjon i gjennomsnittlig ledighetstid) står på oppgitt side
+- OK   3 estimat=2 rad 112 (LI-8234473, reduksjon i gjennomsnittlig ledighetstid) står i sitatet
+- OK   2 sitat rad 113 (LI-8234473, økt gjennomsnittlig ledighetstid per mån) står på oppgitt side
+- OK   3 estimat=0.5 rad 113 (LI-8234473, økt gjennomsnittlig ledighetstid per mån) står i sitatet
+- OK   2 sitat rad 114 (LI-11485196, total arbeidsledighet i regionene (øknin) står på oppgitt side
+- OK   3 estimat=1.5 rad 114 (LI-11485196, total arbeidsledighet i regionene (øknin) står i sitatet
+- OK   2 sitat rad 115 (LI-11485196, elastisitet i arbeidsledighet mht. nomin) står på oppgitt side
+- OK   3 estimat=3.5 rad 115 (LI-11485196, elastisitet i arbeidsledighet mht. nomin) står i sitatet
+- OK   2 sitat rad 116 (LI-vfd7vvlvsxvpt6q4, lavere sannsynlighet for å avslutte erse) står på oppgitt side
+- OK   3 estimat=4.6 rad 116 (LI-vfd7vvlvsxvpt6q4, lavere sannsynlighet for å avslutte erse) står i sitatet
+- OK   2 sitat rad 117 (LI-vfd7vvlvsxvpt6q4, lavere sannsynlighet for å avslutte ledi) står på oppgitt side
+- OK   3 estimat=5.5 rad 117 (LI-vfd7vvlvsxvpt6q4, lavere sannsynlighet for å avslutte ledi) står i sitatet
+- OK   2 sitat rad 118 (LI-vfd7vvlvsxvpt6q4, lavere andel som kommer tilbake i ny ers) står på oppgitt side
+- OK   3 estimat=5.5 rad 118 (LI-vfd7vvlvsxvpt6q4, lavere andel som kommer tilbake i ny ers) står i sitatet
+- OK   2 sitat rad 119 (FI-vatt.10024_187919, kortere ledighetsperioder etter kutt i m) står på oppgitt side
+- OK   3 estimat=3 rad 119 (FI-vatt.10024_187919, kortere ledighetsperioder etter kutt i m) står i sitatet
+- OK   2 sitat rad 120 (FI-vatt.10024_187919, ingen effekt på ledighetens varighet av ) står på oppgitt side
+- OK   2 sitat rad 121 (FI-vatt.10024_187919, andel av ledighetsperiodene som endte i ) står på oppgitt side
+- OK   3 estimat=1.3 rad 121 (FI-vatt.10024_187919, andel av ledighetsperiodene som endte i ) står i sitatet
+- OK   2 sitat rad 122 (FI-vatt.10024_149571, lengre ledighet (uker) per ekstra uke me) står på oppgitt side
+- OK   3 estimat=0.17 rad 122 (FI-vatt.10024_149571, lengre ledighet (uker) per ekstra uke me) står i sitatet
+- OK   2 sitat rad 123 (FI-vatt.10024_149571, lengre varighet i neste jobb, prosent, v) står på oppgitt side
+- OK   3 estimat=2 rad 123 (FI-vatt.10024_149571, lengre varighet i neste jobb, prosent, v) står i sitatet
+- OK   2 sitat rad 124 (FI-vatt.10024_149571, høyere lønn i neste jobb, prosent, ved 1) står på oppgitt side
+- OK   3 estimat=0.6 rad 124 (FI-vatt.10024_149571, høyere lønn i neste jobb, prosent, ved 1) står i sitatet
+- OK   2 sitat rad 125 (FI-vatt.10024_149571, andel av alle ledighetsperioder som endt) står på oppgitt side
+- OK   3 estimat=0.4 rad 125 (FI-vatt.10024_149571, andel av alle ledighetsperioder som endt) står i sitatet
+- OK   2 sitat rad 126 (FI-helka.995828223506253, økning i sannsynligheten for å komme i a) står på oppgitt side
+- OK   3 estimat=100 rad 126 (FI-helka.995828223506253, økning i sannsynligheten for å komme i a) står i sitatet
+- OK   2 sitat rad 127 (FI-vatt.10024_168803, andel av helt ledige 1.1.2018 som fikk d) står på oppgitt side
+- OK   3 estimat=50 rad 127 (FI-vatt.10024_168803, andel av helt ledige 1.1.2018 som fikk d) står i sitatet
+- OK   2 sitat rad 128 (FI-vatt.10024_168803, effekt av redusert ytelse (aktiveringsmo) står på oppgitt side
+- OK   2 sitat rad 129 (FI-vatt.10024_172797, høyere ukentlig sannsynlighet for å forl) står på oppgitt side
+- OK   3 estimat=15 rad 129 (FI-vatt.10024_172797, høyere ukentlig sannsynlighet for å forl) står i sitatet
+- OK   2 sitat rad 130 (FI-vatt.10024_172797, høyere ukentlig sannsynlighet for å komm) står på oppgitt side
+- OK   3 estimat=4 rad 130 (FI-vatt.10024_172797, høyere ukentlig sannsynlighet for å komm) står i sitatet
+- OK   2 sitat rad 131 (FI-vatt.10024_148751, ingen effekt på overgang til arbeid av p) står på oppgitt side
+- OK   2 sitat rad 132 (W3123479702, lavere andel i arbeid etter 12 måneder m) står på oppgitt side
+- OK   3 estimat=8 rad 132 (W3123479702, lavere andel i arbeid etter 12 måneder m) står i sitatet
+- OK   2 sitat rad 133 (W3123479702, lavere andel i arbeid etter 12 måneder, ) står på oppgitt side
+- OK   3 estimat=13 rad 133 (W3123479702, lavere andel i arbeid etter 12 måneder, ) står i sitatet
+- OK   2 sitat rad 134 (W2155538850, elastisitet av forventet ledighetsvarigh) står på oppgitt side
+- OK   3 estimat=0.2 rad 134 (W2155538850, elastisitet av forventet ledighetsvarigh) står i sitatet
+- OK   2 sitat rad 135 (W2155538850, avgangen fra ledighet øker når dagpengep) står på oppgitt side
+- OK   2 sitat rad 136 (W2803335770, ingen nedgang i sysselsetting ved 38 pro) står på oppgitt side
+- OK   2 sitat rad 137 (W2156877177, lengre gjennomsnittlig ledighet, måneder) står på oppgitt side
+- OK   3 estimat=1.8 rad 137 (W2156877177, lengre gjennomsnittlig ledighet, måneder) står i sitatet
+- OK   2 sitat rad 138 (W2156877177, høyere lønn i første jobb etter ledighet) står på oppgitt side
+- OK   3 estimat=4.3 rad 138 (W2156877177, høyere lønn i første jobb etter ledighet) står i sitatet
+- OK   2 sitat rad 139 (W2156877177, økning i sannsynligheten for å få jobb i) står på oppgitt side
+- OK   3 estimat=50 rad 139 (W2156877177, økning i sannsynligheten for å få jobb i) står i sitatet
+- OK   2 sitat rad 140 (W2156877177, lavere lønn i jobber som aksepteres de s) står på oppgitt side
+- OK   3 estimat=10 rad 140 (W2156877177, lavere lønn i jobber som aksepteres de s) står i sitatet
+- OK   2 sitat rad 141 (W3136597820, elastisitet av antall jobbsøknader med h) står på oppgitt side
+- OK   3 estimat=-0.36 rad 141 (W3136597820, elastisitet av antall jobbsøknader med h) står i sitatet
+- OK   2 sitat rad 142 (W3136597820, økt stramhet (ledige stillinger per søkn) står på oppgitt side
+- OK   3 estimat=3.3 rad 142 (W3136597820, økt stramhet (ledige stillinger per søkn) står i sitatet
+- OK   2 sitat rad 143 (W3136597820, elastisitet av jobbsøknader med hensyn t) står på oppgitt side
+- OK   3 estimat=-0.17 rad 143 (W3136597820, elastisitet av jobbsøknader med hensyn t) står i sitatet
+- OK   2 sitat rad 144 (W3179730804, elastisitet av jobbsøknader med hensyn t) står på oppgitt side
+- OK   3 estimat=-0.36 rad 144 (W3179730804, elastisitet av jobbsøknader med hensyn t) står i sitatet
+- OK   2 sitat rad 145 (W3125345634, andel kvinner med netto kompensasjonsgra) står på oppgitt side
+- OK   3 estimat=12.2 rad 145 (W3125345634, andel kvinner med netto kompensasjonsgra) står i sitatet
+- OK   2 sitat rad 146 (W3125345634, ingen signifikant effekt av netto kompen) står på oppgitt side
+- OK   2 sitat rad 147 (W7214186622, økt kumulativ sysselsetting til 63 år, m) står på oppgitt side
+- OK   3 estimat=10 rad 147 (W7214186622, økt kumulativ sysselsetting til 63 år, m) står i sitatet
+- OK   2 sitat rad 148 (W7214186622, økt kumulativ sysselsetting, måneder, et) står på oppgitt side
+- OK   3 estimat=3.2 rad 148 (W7214186622, økt kumulativ sysselsetting, måneder, et) står i sitatet
+- OK   2 sitat rad 149 (W7214186622, økt kumulativ sysselsetting, måneder, et) står på oppgitt side
+- OK   3 estimat=2.7 rad 149 (W7214186622, økt kumulativ sysselsetting, måneder, et) står i sitatet
+- OK   2 sitat rad 150 (W1566578940, elastisitet av overgangsraten til arbeid) står på oppgitt side
+- OK   3 estimat=-0.25 rad 150 (W1566578940, elastisitet av overgangsraten til arbeid) står i sitatet
+- OK   2 sitat rad 151 (W1566578940, elastisitet av overgangsraten til arbeid) står på oppgitt side
+- OK   3 estimat=0.2 rad 151 (W1566578940, elastisitet av overgangsraten til arbeid) står i sitatet
+- OK   2 sitat rad 152 (W1566578940, økning i overgangsraten til arbeid rundt) står på oppgitt side
+- OK   3 estimat=14 rad 152 (W1566578940, økning i overgangsraten til arbeid rundt) står i sitatet
+- OK   2 sitat rad 153 (W4409541748, økning i jobbfinningsraten etter uventet) står på oppgitt side
+- OK   3 estimat=10.5 rad 153 (W4409541748, økning i jobbfinningsraten etter uventet) står i sitatet
+- OK   2 sitat rad 154 (W4409541748, økt søkeinnsats etter kuttet i maksimal ) står på oppgitt side
+- OK   3 estimat=4.7 rad 154 (W4409541748, økt søkeinnsats etter kuttet i maksimal ) står i sitatet
+- OK   2 sitat rad 155 (W4409541748, økt stramhet i arbeidsmarkedet etter kut) står på oppgitt side
+- OK   3 estimat=23 rad 155 (W4409541748, økt stramhet i arbeidsmarkedet etter kut) står i sitatet
+- OK   2 sitat rad 156 (W3123613249, lavere ledighetsrate i 2011 uten forleng) står på oppgitt side
+- OK   3 estimat=2.15 rad 156 (W3123613249, lavere ledighetsrate i 2011 uten forleng) står i sitatet
+- OK   2 sitat rad 157 (W3123613249, lavere sysselsetting i 2010:Q4 på grunn ) står på oppgitt side
+- OK   3 estimat=2.69 rad 157 (W3123613249, lavere sysselsetting i 2010:Q4 på grunn ) står i sitatet
+- OK   2 sitat rad 159 (W3121246414, økt overgangsrate til arbeid etter kutt ) står på oppgitt side
+- OK   3 estimat=10 rad 159 (W3121246414, økt overgangsrate til arbeid etter kutt ) står i sitatet
+- OK   2 sitat rad 160 (W3121246414, effekt på atferd flere måneder før kutte) står på oppgitt side
+- OK   2 sitat rad 161 (W2142986258, både harde og myke grenser for dagpengep) står på oppgitt side
+- OK   2 sitat rad 162 (W3122181088, kortere ledighet og høyere avgang til ar) står på oppgitt side
+- OK   2 sitat rad 163 (W1524684605, lavere lønn og oftere deltid og lavere y) står på oppgitt side
+- OK   2 sitat rad 164 (W3121810429, høyere dagpenger gir lavere avgang fra l) står på oppgitt side
+- OK   2 sitat rad 165 (W3121810429, avgangen fra ledighet øker kraftig de si) står på oppgitt side
+- OK   2 sitat rad 167 (W4312802047, andel ledige med feil oppfatning av egen) står på oppgitt side
+- OK   3 estimat=40 rad 167 (W4312802047, andel ledige med feil oppfatning av egen) står i sitatet
+- OK   2 sitat rad 168 (W4312802047, ledige i mer enn ett år (høy risiko for ) står på oppgitt side
+- OK   3 estimat=2.3 rad 168 (W4312802047, ledige i mer enn ett år (høy risiko for ) står i sitatet
+- OK   2 sitat rad 169 (W4312802047, ledige under seks måneder med lav risiko) står på oppgitt side
+- OK   3 estimat=1.6 rad 169 (W4312802047, ledige under seks måneder med lav risiko) står i sitatet
+- OK   2 sitat rad 170 (W2101074211, kvinner: overgang fra ledighet til arbei) står på oppgitt side
+- OK   3 estimat=-0.4 rad 170 (W2101074211, kvinner: overgang fra ledighet til arbei) står i sitatet
+- OK   2 sitat rad 171 (AV-2023-3-01, andel dagpengemottakere med avkortning o) står på oppgitt side
+- OK   3 estimat=26 rad 171 (AV-2023-3-01, andel dagpengemottakere med avkortning o) står i sitatet
+- OK   2 sitat rad 172 (AV-2023-3-01, andel dagpengemottakere som jobber slik ) står på oppgitt side
+- OK   3 estimat=14 rad 172 (AV-2023-3-01, andel dagpengemottakere som jobber slik ) står i sitatet
+- OK   2 sitat rad 173 (AV-2007-2-03, andel registrerte ledige som mottar dagp) står på oppgitt side
+- OK   3 estimat=48 rad 173 (AV-2007-2-03, andel registrerte ledige som mottar dagp) står i sitatet
+- OK   2 sitat rad 174 (AV-2007-2-03, reduksjon i antall helt ledige dagpengem) står på oppgitt side
+- OK   3 estimat=3000 rad 174 (AV-2007-2-03, reduksjon i antall helt ledige dagpengem) står i sitatet
+- OK   2 sitat rad 175 (AV-2007-2-03, andel helt ledige med dagpenger i 2006 u) står på oppgitt side
+- OK   3 estimat=53 rad 175 (AV-2007-2-03, andel helt ledige med dagpenger i 2006 u) står i sitatet
+- OK   2 sitat rad 176 (W3123883966, optimalt dagpengenivå i søke- og matchin) står på oppgitt side
+- OK   3 estimat=0.587 rad 176 (W3123883966, optimalt dagpengenivå i søke- og matchin) står i sitatet
+- OK   2 sitat rad 177 (W3123883966, brutto ledighet ved lengre dagpengeperio) står på oppgitt side
+- OK   2 sitat rad 178 (W2001903400, sykmeldinger blant ledige når dagpengepe) står på oppgitt side
+- OK   2 sitat rad 179 (W2093979647, gjennomsnittlig varighet i jobb (uker) b) står på oppgitt side
+- OK   3 estimat=2.3 rad 179 (W2093979647, gjennomsnittlig varighet i jobb (uker) b) står i sitatet
+- OK   2 sitat rad 180 (W3125845980, tid til neste jobb (svak evidens for eff) står på oppgitt side
+- OK   2 sitat rad 181 (W3125845980, sannsynlighet for gjenansettelse og lønn) står på oppgitt side
+- OK   2 sitat rad 183 (W2047693430, avgang fra dagpenger, elastisitet mht. k) står på oppgitt side
+- OK   3 estimat=1 rad 183 (W2047693430, avgang fra dagpenger, elastisitet mht. k) står i sitatet
+- OK   2 sitat rad 184 (W2047693430, avgang fra dagpenger, elastisitet mht. k) står på oppgitt side
+- OK   3 estimat=0.5 rad 184 (W2047693430, avgang fra dagpenger, elastisitet mht. k) står i sitatet
+- OK   2 sitat rad 185 (W2047693430, lavinntektsgrupper: ledighetsvarighet (l) står på oppgitt side
+- OK   2 sitat rad 186 (W3157909980, varighet i jobb før oppsigelse (innstrøm) står på oppgitt side
+- OK   3 estimat=0.014 rad 186 (W3157909980, varighet i jobb før oppsigelse (innstrøm) står i sitatet
+- OK   2 sitat rad 187 (W3157909980, andel oppsigelser i 8 uker før grensen s) står på oppgitt side
+- OK   3 estimat=10 rad 187 (W3157909980, andel oppsigelser i 8 uker før grensen s) står i sitatet
+- OK   2 sitat rad 212 (W2138836438, elastisitet for ledighetsvarighet mht. d) står på oppgitt side
+- OK   3 estimat=0.5 rad 212 (W2138836438, elastisitet for ledighetsvarighet mht. d) står i sitatet
+- OK   2 sitat rad 213 (W2138836438, elastisitet for tapt arbeidstid (både ti) står på oppgitt side
+- OK   3 estimat=1.0 rad 213 (W2138836438, elastisitet for tapt arbeidstid (både ti) står i sitatet
+- OK   2 sitat rad 214 (W2138836438, elastisitet for varighet mht. maksimal p) står på oppgitt side
+- OK   2 sitat rad 215 (W860717682, kortere ersättningstid (dager) for perso) står på oppgitt side
+- OK   3 estimat=9.34 rad 215 (W860717682, kortere ersättningstid (dager) for perso) står i sitatet
+- OK   2 sitat rad 216 (W803382566, lønn før skatt (semielastisitet), nedre ) står på oppgitt side
+- OK   3 estimat=0.2 rad 216 (W803382566, lønn før skatt (semielastisitet), nedre ) står i sitatet
+- OK   2 sitat rad 217 (W803382566, lønn (elastisitet), nedre grense i spenn) står på oppgitt side
+- OK   3 estimat=0.12 rad 217 (W803382566, lønn (elastisitet), nedre grense i spenn) står i sitatet
+- OK   2 sitat rad 218 (W3084713950, lengre forventet ledighetsvarighet (uker) står på oppgitt side
+- OK   3 estimat=2.3 rad 218 (W3084713950, lengre forventet ledighetsvarighet (uker) står i sitatet
+- OK   2 sitat rad 219 (W3084713950, elastisitet for ledighetsvarighet mht. k) står på oppgitt side
+- OK   3 estimat=0.15 rad 219 (W3084713950, elastisitet for ledighetsvarighet mht. k) står i sitatet
+- OK   2 sitat rad 220 (W3084713950, lengre forventet ledighetsvarighet (uker) står på oppgitt side
+- OK   3 estimat=5.7 rad 220 (W3084713950, lengre forventet ledighetsvarighet (uker) står i sitatet
+- OK   2 sitat rad 221 (W4403255343, elastisitet for faktisk ledighetsvarighe) står på oppgitt side
+- OK   3 estimat=0.6 rad 221 (W4403255343, elastisitet for faktisk ledighetsvarighe) står i sitatet
+- OK   2 sitat rad 222 (W4403255343, økt sannsynlighet for å starte bedrift a) står på oppgitt side
+- OK   3 estimat=2 rad 222 (W4403255343, økt sannsynlighet for å starte bedrift a) står i sitatet
+- OK   2 sitat rad 223 (W2890402555, økt tid uten arbeid (måneder) per måned ) står på oppgitt side
+- OK   3 estimat=0.13 rad 223 (W2890402555, økt tid uten arbeid (måneder) per måned ) står i sitatet
+- OK   2 sitat rad 224 (W2890402555, økt tid uten arbeid (måneder), ledige ve) står på oppgitt side
+- OK   3 estimat=0.78 rad 224 (W2890402555, økt tid uten arbeid (måneder), ledige ve) står i sitatet
+- OK   2 sitat rad 225 (W2890402555, elastisitet for tid uten arbeid mht. mak) står på oppgitt side
+- OK   3 estimat=0.12 rad 225 (W2890402555, elastisitet for tid uten arbeid mht. mak) står i sitatet
+- OK   2 sitat rad 226 (W2890402555, effekten på tid uten arbeid er stabil ov) står på oppgitt side
+- OK   2 sitat rad 227 (W1563984614, økt antall dager uten arbeid over fem år) står på oppgitt side
+- OK   3 estimat=28.1 rad 227 (W1563984614, økt antall dager uten arbeid over fem år) står i sitatet
+- OK   2 sitat rad 228 (W1563984614, reduksjon i effekten på dager uten arbei) står på oppgitt side
+- OK   3 estimat=26 rad 228 (W1563984614, reduksjon i effekten på dager uten arbei) står i sitatet
+- OK   2 sitat rad 230 (W3121146582, elastisitet for tid uten arbeid mht. dag) står på oppgitt side
+- OK   3 estimat=1.5 rad 230 (W3121146582, elastisitet for tid uten arbeid mht. dag) står i sitatet
+- OK   2 sitat rad 231 (W7165123089, lavere startlønn i delstater med kutt i ) står på oppgitt side
+- OK   3 estimat=1.2 rad 231 (W7165123089, lavere startlønn i delstater med kutt i ) står i sitatet
+- OK   2 sitat rad 232 (W7165123089, lavere utlyst lønn for samme jobb (nedre) står på oppgitt side
+- OK   3 estimat=3.2 rad 232 (W7165123089, lavere utlyst lønn for samme jobb (nedre) står i sitatet
+- OK   2 sitat rad 233 (W7165123089, høyere sysselsetting i virksomheter (ned) står på oppgitt side
+- OK   3 estimat=0.8 rad 233 (W7165123089, høyere sysselsetting i virksomheter (ned) står i sitatet
+- OK   2 sitat rad 234 (W2137756169, andel av ledige som fikk jobb som gikk t) står på oppgitt side
+- OK   3 estimat=45 rad 234 (W2137756169, andel av ledige som fikk jobb som gikk t) står i sitatet
+- OK   2 sitat rad 235 (W2137756169, andel av de ledige som er midlertidig pe) står på oppgitt side
+- OK   3 estimat=10 rad 235 (W2137756169, andel av de ledige som er midlertidig pe) står i sitatet
+- OK   2 sitat rad 236 (W2182883636, jobber akseptert nær utløpet av dagpenge) står på oppgitt side
+- OK   2 sitat rad 237 (W2141589424, kompensasjonsgrad henger sammen med søke) står på oppgitt side
+- OK   2 sitat rad 238 (W2050680752, jobbsannsynlighet henger sammen med kval) står på oppgitt side
+- OK   2 sitat rad 239 (W1994620841, økt avgang til arbeid før obligatorisk t) står på oppgitt side
+- OK   2 sitat rad 240 (W3161696407, ledighetsvarighet (måneder) per måned ko) står på oppgitt side
+- OK   3 estimat=0.4 rad 240 (W3161696407, ledighetsvarighet (måneder) per måned ko) står i sitatet
+- OK   2 sitat rad 241 (W3161696407, andel i jobb innen 9 måneder) står på oppgitt side
+- OK   3 estimat=6 rad 241 (W3161696407, andel i jobb innen 9 måneder) står i sitatet
+- OK   2 sitat rad 242 (W2402272161, avgang til arbeid rundt utløp av periode) står på oppgitt side
+- OK   2 sitat rad 243 (W825815562, marginal effekt av maksimal periode på i) står på oppgitt side
+- OK   3 estimat=0.3 rad 243 (W825815562, marginal effekt av maksimal periode på i) står i sitatet
+- OK   2 sitat rad 244 (W825815562, ikke-sysselsettingsvarighet (dager) per ) står på oppgitt side
+- OK   3 estimat=10 rad 244 (W825815562, ikke-sysselsettingsvarighet (dager) per ) står i sitatet
+- OK   2 sitat rad 245 (W825815562, andel som mottar dagpenger i uke 20 (gru) står på oppgitt side
+- OK   3 estimat=12 rad 245 (W825815562, andel som mottar dagpenger i uke 20 (gru) står i sitatet
+- OK   2 sitat rad 246 (W825815562, ledighetsrate i delstaten (makroeffekt, ) står på oppgitt side
+- OK   3 estimat=1 rad 246 (W825815562, ledighetsrate i delstaten (makroeffekt, ) står i sitatet
+- OK   2 sitat rad 247 (W2116604021, elastisitet av dagpengevarighet mht. uke) står på oppgitt side
+- OK   3 estimat=0.35 rad 247 (W2116604021, elastisitet av dagpengevarighet mht. uke) står i sitatet
+- OK   2 sitat rad 248 (W2116604021, elastisitet av dagpengevarighet mht. dag) står på oppgitt side
+- OK   3 estimat=0.65 rad 248 (W2116604021, elastisitet av dagpengevarighet mht. dag) står i sitatet
+- OK   2 sitat rad 249 (W1542968660, elastisitet av dagpengevarighet mht. dag) står på oppgitt side
+- OK   3 estimat=0.3 rad 249 (W1542968660, elastisitet av dagpengevarighet mht. dag) står i sitatet
+- OK   2 sitat rad 250 (W1542968660, elastisitet av total varighet mht. dagpe) står på oppgitt side
+- OK   3 estimat=0.36 rad 250 (W1542968660, elastisitet av total varighet mht. dagpe) står i sitatet
+- OK   2 sitat rad 251 (W1542968660, elastisitet av total varighet mht. dagpe) står på oppgitt side
+- OK   3 estimat=0.30 rad 251 (W1542968660, elastisitet av total varighet mht. dagpe) står i sitatet
+- OK   2 sitat rad 252 (W2346905068, ledighetsrate ved permanent forlengelse ) står på oppgitt side
+- OK   3 estimat=5.5 rad 252 (W2346905068, ledighetsrate ved permanent forlengelse ) står i sitatet
+- OK   2 sitat rad 253 (W3133978695, ledighetsrate ved permanent forlengelse ) står på oppgitt side
+- OK   3 estimat=6.1 rad 253 (W3133978695, ledighetsrate ved permanent forlengelse ) står i sitatet
+- OK   2 sitat rad 254 (W3123640418, jobbkvalitet etter ledighet (kontrakttyp) står på oppgitt side
+- OK   2 sitat rad 255 (W3123640418, lønn i ny jobb, kvinner (prosent høyere)) står på oppgitt side
+- OK   3 estimat=5 rad 255 (W3123640418, lønn i ny jobb, kvinner (prosent høyere)) står i sitatet
+- OK   2 sitat rad 256 (W2607337089, sysselsettingsandel i befolkningen (OLS,) står på oppgitt side
+- OK   3 estimat=0.21 rad 256 (W2607337089, sysselsettingsandel i befolkningen (OLS,) står i sitatet
+- OK   2 sitat rad 257 (W2607337089, sysselsettingsandel i befolkningen, IV f) står på oppgitt side
+- OK   3 estimat=-0.18 rad 257 (W2607337089, sysselsettingsandel i befolkningen, IV f) står i sitatet
+- OK   2 sitat rad 258 (W1896297227, ikke-sysselsettingsvarighet (måneder), a) står på oppgitt side
+- OK   3 estimat=0.8 rad 258 (W1896297227, ikke-sysselsettingsvarighet (måneder), a) står i sitatet
+- OK   2 sitat rad 259 (W1896297227, elastisitet av ikke-sysselsettingsvarigh) står på oppgitt side
+- OK   3 estimat=0.14 rad 259 (W1896297227, elastisitet av ikke-sysselsettingsvarigh) står i sitatet
+- OK   2 sitat rad 260 (W1896297227, lønn, lønnsvekst og langsiktig sysselset) står på oppgitt side
+- OK   2 sitat rad 261 (W2783723866, ledighetsvarighet (prosent lengre, om la) står på oppgitt side
+- OK   3 estimat=3.1 rad 261 (W2783723866, ledighetsvarighet (prosent lengre, om la) står i sitatet
+- OK   2 sitat rad 262 (W2783723866, sysselsetting og inntekt etter ledighet:) står på oppgitt side
+- OK   2 sitat rad 263 (W2783723866, elastisitet av ledighetsvarighet mht. da) står på oppgitt side
+- OK   3 estimat=0.95 rad 263 (W2783723866, elastisitet av ledighetsvarighet mht. da) står i sitatet
+- OK   2 sitat rad 264 (W2783723866, avgang til jobb (prosent økning); gjengi) står på oppgitt side
+- OK   3 estimat=10 rad 264 (W2783723866, avgang til jobb (prosent økning); gjengi) står i sitatet
+- OK   2 sitat rad 265 (W4229452285, dager i arbeid per år per måned kortere ) står på oppgitt side
+- OK   3 estimat=0.8 rad 265 (W4229452285, dager i arbeid per år per måned kortere ) står i sitatet
+- OK   2 sitat rad 266 (W4401566784, sysselsetting 12–18 måneder etter start,) står på oppgitt side
+- OK   3 estimat=10.1 rad 266 (W4401566784, sysselsetting 12–18 måneder etter start,) står i sitatet
+- OK   2 sitat rad 267 (W4401566784, sysselsetting 12–18 måneder etter start,) står på oppgitt side
+- OK   3 estimat=8.7 rad 267 (W4401566784, sysselsetting 12–18 måneder etter start,) står i sitatet
+- OK   2 sitat rad 268 (W3123361467, ledighetsvarighet for mottakere (dager),) står på oppgitt side
+- OK   3 estimat=48 rad 268 (W3123361467, ledighetsvarighet for mottakere (dager),) står i sitatet
+- OK   2 sitat rad 269 (W3123361467, ledighetsvarighet for mottakere (dager),) står på oppgitt side
+- OK   3 estimat=76 rad 269 (W3123361467, ledighetsvarighet for mottakere (dager),) står i sitatet
+- OK   2 sitat rad 270 (W3123361467, ledighetsvarighet for mottakere (dager),) står på oppgitt side
+- OK   3 estimat=115 rad 270 (W3123361467, ledighetsvarighet for mottakere (dager),) står i sitatet
+- OK   2 sitat rad 271 (W4408144220, overgang fra ledighet til arbeid per mån) står på oppgitt side
+- OK   3 estimat=0.164 rad 271 (W4408144220, overgang fra ledighet til arbeid per mån) står i sitatet
+- OK   2 sitat rad 272 (W4408144220, elastisitet av sysselsetting mht. dagpen) står på oppgitt side
+- OK   3 estimat=0.17 rad 272 (W4408144220, elastisitet av sysselsetting mht. dagpen) står i sitatet
+- OK   2 sitat rad 273 (W1480269971, elastisitet av tid uten arbeid mht. dagp) står på oppgitt side
+- OK   3 estimat=1.5 rad 273 (W1480269971, elastisitet av tid uten arbeid mht. dagp) står i sitatet
+- OK   2 sitat rad 274 (W1480269971, elastisitet av tid uten arbeid mht. dagp) står på oppgitt side
+- OK   3 estimat=1.73 rad 274 (W1480269971, elastisitet av tid uten arbeid mht. dagp) står i sitatet
+- OK   2 sitat rad 275 (W3130251200, samlet sysselsetting (øvre grense for øk) står på oppgitt side
+- OK   3 estimat=1.3 rad 275 (W3130251200, samlet sysselsetting (øvre grense for øk) står i sitatet
+- OK   2 sitat rad 276 (W2154489365, sannsynlighet for å motta dagpenger (ned) står på oppgitt side
+- OK   3 estimat=2 rad 276 (W2154489365, sannsynlighet for å motta dagpenger (ned) står i sitatet
+- OK   2 sitat rad 277 (W2515622539, antall jobbsøknader per uke, 50–54 år) står på oppgitt side
+- OK   3 estimat=1.8 rad 277 (W2515622539, antall jobbsøknader per uke, 50–54 år) står i sitatet
+- OK   2 sitat rad 278 (W2515622539, kortsiktig sannsynlighet for jobb (IV-ef) står på oppgitt side
+- OK   3 estimat=1.3 rad 278 (W2515622539, kortsiktig sannsynlighet for jobb (IV-ef) står i sitatet
+- OK   2 sitat rad 279 (W4404026661, permitterte (korttidsarbeid): andel fort) står på oppgitt side
+- OK   3 estimat=2.8 rad 279 (W4404026661, permitterte (korttidsarbeid): andel fort) står i sitatet
+- OK   2 sitat rad 280 (W4404026661, permitterte (korttidsarbeid): lønnsvekst) står på oppgitt side
+- OK   3 estimat=5.9 rad 280 (W4404026661, permitterte (korttidsarbeid): lønnsvekst) står i sitatet
+- OK   2 sitat rad 281 (W3122571372, overgangsrate til jobb, eldre i utvalgte) står på oppgitt side
+- OK   3 estimat=17 rad 281 (W3122571372, overgangsrate til jobb, eldre i utvalgte) står i sitatet
+- OK   2 sitat rad 282 (W2559757846, dekket dagpengevarighet (dager, nedre gr) står på oppgitt side
+- OK   3 estimat=35.4 rad 282 (W2559757846, dekket dagpengevarighet (dager, nedre gr) står i sitatet
+- OK   2 sitat rad 283 (W3151320739, ikke-sysselsettingsvarighet (måneder) pe) står på oppgitt side
+- OK   3 estimat=0.15 rad 283 (W3151320739, ikke-sysselsettingsvarighet (måneder) pe) står i sitatet
+- OK   2 sitat rad 284 (W3151320739, log lønn i første jobb etter ledighet, a) står på oppgitt side
+- OK   3 estimat=0.01 rad 284 (W3151320739, log lønn i første jobb etter ledighet, a) står i sitatet
+- OK   2 sitat rad 285 (W3151320739, lønn per måned lengre ikke-sysselsetting) står på oppgitt side
+- OK   3 estimat=0.8 rad 285 (W3151320739, lønn per måned lengre ikke-sysselsetting) står i sitatet
+- OK   2 sitat rad 286 (W3125232205, avgangsrate til arbeid rundt utløp av pe) står på oppgitt side
+- OK   3 estimat=5 rad 286 (W3125232205, avgangsrate til arbeid rundt utløp av pe) står i sitatet
+- OK   2 sitat rad 287 (W3125232205, overgang til arbeid og jobbstabilitet, e) står på oppgitt side
+- OK   2 sitat rad 288 (W2978482230, avgangsrate til jobb, menn (sanksjoner o) står på oppgitt side
+- OK   3 estimat=11 rad 288 (W2978482230, avgangsrate til jobb, menn (sanksjoner o) står i sitatet
+- OK   2 sitat rad 289 (W2978482230, avgangsrate til jobb etter ilagt sanksjo) står på oppgitt side
+- OK   3 estimat=29 rad 289 (W2978482230, avgangsrate til jobb etter ilagt sanksjo) står i sitatet
+- OK   2 sitat rad 290 (W4283216310, startlønn i nye jobber, lavere i delstat) står på oppgitt side
+- OK   3 estimat=1.8 rad 290 (W4283216310, startlønn i nye jobber, lavere i delstat) står i sitatet
+- OK   2 sitat rad 291 (W4283216310, sysselsettingsvekst i virksomheter, høye) står på oppgitt side
+- OK   3 estimat=1.5 rad 291 (W4283216310, sysselsettingsvekst i virksomheter, høye) står i sitatet
+- OK   2 sitat rad 292 (W4249738964, andel unge nyutdannede (24 år) med minst) står på oppgitt side
+- OK   3 estimat=3.3 rad 292 (W4249738964, andel unge nyutdannede (24 år) med minst) står i sitatet
+- OK   2 sitat rad 293 (W4249738964, overgang til mer stabile jobber og sysse) står på oppgitt side
+- OK   2 sitat rad 294 (W3123331108, faktisk tid på dagpenger, uker (elastisi) står på oppgitt side
+- OK   3 estimat=2.5 rad 294 (W3123331108, faktisk tid på dagpenger, uker (elastisi) står i sitatet
+- OK   2 sitat rad 295 (W3123331108, ledighetsvarighet, uker: ca. 0.3–0.4 uke) står på oppgitt side
+- OK   3 estimat=0.3 rad 295 (W3123331108, ledighetsvarighet, uker: ca. 0.3–0.4 uke) står i sitatet
+- OK   2 sitat rad 296 (W3125250071, månedlig innstrømning til ledighet fra a) står på oppgitt side
+- OK   3 estimat=22.25 rad 296 (W3125250071, månedlig innstrømning til ledighet fra a) står i sitatet
+- OK   2 sitat rad 297 (W3125250071, innstrømning til ledighet i månedene før) står på oppgitt side
+- OK   3 estimat=117 rad 297 (W3125250071, innstrømning til ledighet i månedene før) står i sitatet
+- OK   2 sitat rad 298 (W3121276228, relativ avgangsrate til arbeid, 44–48 år) står på oppgitt side
+- OK   3 estimat=44 rad 298 (W3121276228, relativ avgangsrate til arbeid, 44–48 år) står i sitatet
+- OK   2 sitat rad 299 (W3121276228, avgang fra ledighet etter kutt i dagpeng) står på oppgitt side
+- OK   2 sitat rad 300 (W3123206326, lønn i ny jobb, høyere) står på oppgitt side
+- OK   3 estimat=0.5 rad 300 (W3123206326, lønn i ny jobb, høyere) står i sitatet
+- OK   2 sitat rad 301 (W3123206326, sannsynlighet for å finne jobb innen 39 ) står på oppgitt side
+- OK   3 estimat=1.3 rad 301 (W3123206326, sannsynlighet for å finne jobb innen 39 ) står i sitatet
+- OK   2 sitat rad 302 (W3123206326, tid uten arbeid, to dager lengre (tallet) står på oppgitt side
+- OK   3 estimat=2 rad 302 (W3123206326, tid uten arbeid, to dager lengre (tallet) står i sitatet
+- OK   2 sitat rad 303 (W4302318763, tid til neste jobb, elastisitet med hens) står på oppgitt side
+- OK   3 estimat=2 rad 303 (W4302318763, tid til neste jobb, elastisitet med hens) står i sitatet
+- OK   2 sitat rad 304 (W4302318763, tid uten arbeid, elastisitet med hensyn ) står på oppgitt side
+- OK   3 estimat=1.4 rad 304 (W4302318763, tid uten arbeid, elastisitet med hensyn ) står i sitatet
+- OK   2 sitat rad 305 (W1929227788, avgangsrate til arbeid, elastisitet med ) står på oppgitt side
+- OK   3 estimat=-0.2 rad 305 (W1929227788, avgangsrate til arbeid, elastisitet med ) står i sitatet
+- OK   2 sitat rad 306 (W1929227788, avgangsrate til arbeid siste 30 dager fø) står på oppgitt side
+- OK   3 estimat=53.1 rad 306 (W1929227788, avgangsrate til arbeid siste 30 dager fø) står i sitatet
+- OK   2 sitat rad 307 (W3121394313, reservasjonslønn, elastisitet med hensyn) står på oppgitt side
+- OK   3 estimat=0.006 rad 307 (W3121394313, reservasjonslønn, elastisitet med hensyn) står i sitatet
+- OK   2 sitat rad 308 (W3121394313, faktisk tid på dagpenger, elastisitet me) står på oppgitt side
+- OK   3 estimat=0.3 rad 308 (W3121394313, faktisk tid på dagpenger, elastisitet me) står i sitatet
+- OK   2 sitat rad 309 (W3125979033, dager i arbeid per år, flere, 45 år og e) står på oppgitt side
+- OK   3 estimat=13.6 rad 309 (W3125979033, dager i arbeid per år, flere, 45 år og e) står i sitatet
+- OK   2 sitat rad 310 (W3125979033, dager på dagpenger (UB-1), færre, 45 år ) står på oppgitt side
+- OK   3 estimat=10.5 rad 310 (W3125979033, dager på dagpenger (UB-1), færre, 45 år ) står i sitatet
+- OK   2 sitat rad 311 (W3123125000, ledighetsvarighet, menn 50–53 år, uker l) står på oppgitt side
+- OK   3 estimat=14.8 rad 311 (W3123125000, ledighetsvarighet, menn 50–53 år, uker l) står i sitatet
+- OK   2 sitat rad 312 (W3123125000, ledighetsvarighet, kvinner 50 år og eldr) står på oppgitt side
+- OK   3 estimat=74.8 rad 312 (W3123125000, ledighetsvarighet, kvinner 50 år og eldr) står i sitatet
+- OK   2 sitat rad 313 (W4287769434, marginal effekt av maksimal periode på t) står på oppgitt side
+- OK   3 estimat=0.25 rad 313 (W4287769434, marginal effekt av maksimal periode på t) står i sitatet
+- OK   2 sitat rad 314 (W4287769434, ledighetsrate i delstaten, nesten ett pr) står på oppgitt side
+- OK   3 estimat=1 rad 314 (W4287769434, ledighetsrate i delstaten, nesten ett pr) står i sitatet
+- OK   2 sitat rad 315 (W3123415870, ekstra uker uten arbeid ved forlenget pe) står på oppgitt side
+- OK   3 estimat=14 rad 315 (W3123415870, ekstra uker uten arbeid ved forlenget pe) står i sitatet
+- OK   2 sitat rad 316 (W3123415870, skjevhet i RDD-estimatet ved svært høy j) står på oppgitt side
+- OK   3 estimat=1.1 rad 316 (W3123415870, skjevhet i RDD-estimatet ved svært høy j) står i sitatet
+- OK   2 sitat rad 317 (W2985217218, tid på dagpenger (8 uker) og uten arbeid) står på oppgitt side
+- OK   3 estimat=6.2 rad 317 (W2985217218, tid på dagpenger (8 uker) og uten arbeid) står i sitatet
+- OK   2 sitat rad 318 (W2985217218, samlet tid uten arbeid over 4 år etter o) står på oppgitt side
+- OK   3 estimat=2 rad 318 (W2985217218, samlet tid uten arbeid over 4 år etter o) står i sitatet
+- OK   2 sitat rad 319 (W2985217218, ekstra uker uten arbeid per ekstra uke m) står på oppgitt side
+- OK   3 estimat=0.354 rad 319 (W2985217218, ekstra uker uten arbeid per ekstra uke m) står i sitatet
+- OK   2 sitat rad 320 (W2283885892, ingen effekt på overgang til arbeid elle) står på oppgitt side
+- OK   2 sitat rad 321 (W1815243945, sysselsettingsrate 14 måneder etter bort) står på oppgitt side
+- OK   3 estimat=25 rad 321 (W1815243945, sysselsettingsrate 14 måneder etter bort) står i sitatet
+- OK   2 sitat rad 322 (W4302789019, økning i avgangsrate til ny jobb når dag) står på oppgitt side
+- OK   3 estimat=20 rad 322 (W4302789019, økning i avgangsrate til ny jobb når dag) står i sitatet
+- OK   2 sitat rad 323 (W4302789019, økning i avgang fra registrert ledighet ) står på oppgitt side
+- OK   3 estimat=200 rad 323 (W4302789019, økning i avgang fra registrert ledighet ) står i sitatet
+- OK   2 sitat rad 324 (W4302789019, andel ledighetsperioder med sluttdato ti) står på oppgitt side
+- OK   3 estimat=1 rad 324 (W4302789019, andel ledighetsperioder med sluttdato ti) står i sitatet
+- OK   2 sitat rad 325 (W4323024375, ledighet blant dagpengemottakere under 5) står på oppgitt side
+- OK   3 estimat=13 rad 325 (W4323024375, ledighet blant dagpengemottakere under 5) står i sitatet
+- OK   2 sitat rad 326 (W4323024375, elastisitet av ledighetsvarighet med hen) står på oppgitt side
+- OK   3 estimat=0.28 rad 326 (W4323024375, elastisitet av ledighetsvarighet med hen) står i sitatet
+- OK   2 sitat rad 327 (W4323024375, andel med ledighetsperiode på inntil 12 ) står på oppgitt side
+- OK   3 estimat=16 rad 327 (W4323024375, andel med ledighetsperiode på inntil 12 ) står i sitatet
+- OK   2 sitat rad 328 (W4230853959, forventet ledighetsvarighet, lengre, ned) står på oppgitt side
+- OK   3 estimat=7 rad 328 (W4230853959, forventet ledighetsvarighet, lengre, ned) står i sitatet
+- OK   2 sitat rad 329 (W4230853959, samlet ledighetsrate, høyere (effekten g) står på oppgitt side
+- OK   3 estimat=0.4 rad 329 (W4230853959, samlet ledighetsrate, høyere (effekten g) står i sitatet
+- OK   2 sitat rad 330 (W3021330321, varighet på dagpenger ved 10 prosent høy) står på oppgitt side
+- OK   3 estimat=3 rad 330 (W3021330321, varighet på dagpenger ved 10 prosent høy) står i sitatet
+- OK   2 sitat rad 331 (W3021330321, varighet på dagpenger per ekstra uke mak) står på oppgitt side
+- OK   2 sitat rad 332 (W3123587893, ledighetsvarighet for de som fikk forlen) står på oppgitt side
+- OK   3 estimat=40 rad 332 (W3123587893, ledighetsvarighet for de som fikk forlen) står i sitatet
+- OK   2 sitat rad 333 (W3123587893, tid uten arbeid for ledige uten rett til) står på oppgitt side
+- OK   3 estimat=10 rad 333 (W3123587893, tid uten arbeid for ledige uten rett til) står i sitatet
+- OK   2 sitat rad 334 (W3123209104, sannsynlighet for varig utgang fra arbei) står på oppgitt side
+- OK   3 estimat=17 rad 334 (W3123209104, sannsynlighet for varig utgang fra arbei) står i sitatet
+- OK   2 sitat rad 335 (W3123209104, førtidig utgang fra arbeidslivet etter j) står på oppgitt side
+- OK   3 estimat=10.8 rad 335 (W3123209104, førtidig utgang fra arbeidslivet etter j) står i sitatet
+- OK   2 sitat rad 336 (W1874684411, søknader om uføretrygd (SSDI) når dagpen) står på oppgitt side
+- OK   3 estimat=0.005 rad 336 (W1874684411, søknader om uføretrygd (SSDI) når dagpen) står i sitatet
+- OK   2 sitat rad 337 (W3083474009, økning i faktisk ledighetsvarighet, ande) står på oppgitt side
+- OK   3 estimat=20 rad 337 (W3083474009, økning i faktisk ledighetsvarighet, ande) står i sitatet
+- OK   2 sitat rad 338 (W3083474009, elastisitet av ledighetsvarighet med hen) står på oppgitt side
+- OK   3 estimat=0.4 rad 338 (W3083474009, elastisitet av ledighetsvarighet med hen) står i sitatet
+- OK   2 sitat rad 339 (W3121734636, yrkesdeltakelse, lavere tidlig i 2014 et) står på oppgitt side
+- OK   3 estimat=0.1 rad 339 (W3121734636, yrkesdeltakelse, lavere tidlig i 2014 et) står i sitatet
+- OK   2 sitat rad 340 (W3121734636, overgang til jobb: lite eller ingen effe) står på oppgitt side
+- OK   2 sitat rad 341 (W2613692828, reservasjonslønn (øvre grense for elasti) står på oppgitt side
+- OK   3 estimat=0.006 rad 341 (W2613692828, reservasjonslønn (øvre grense for elasti) står i sitatet
+- OK   2 sitat rad 342 (W2613692828, faktisk varighet på dagpenger) står på oppgitt side
+- OK   3 estimat=0.3 rad 342 (W2613692828, faktisk varighet på dagpenger) står i sitatet
+- OK   2 sitat rad 343 (W2613692828, reservasjonslønn, ledige med kortest tid) står på oppgitt side
+- OK   3 estimat=0.01 rad 343 (W2613692828, reservasjonslønn, ledige med kortest tid) står i sitatet
+- OK   2 sitat rad 344 (W3015169324, jobbsøknader de to første månedene, 50–5) står på oppgitt side
+- OK   3 estimat=10 rad 344 (W3015169324, jobbsøknader de to første månedene, 50–5) står i sitatet
+- OK   2 sitat rad 345 (W3015169324, sannsynlighet for ny jobb innen tre måne) står på oppgitt side
+- OK   3 estimat=2 rad 345 (W3015169324, sannsynlighet for ny jobb innen tre måne) står i sitatet
+- OK   2 sitat rad 346 (W3015169324, varighet uten arbeid, 50–54 år) står på oppgitt side
+- OK   3 estimat=10 rad 346 (W3015169324, varighet uten arbeid, 50–54 år) står i sitatet
+- OK   2 sitat rad 347 (W3015169324, varighet på dagpenger, 50–54 år) står på oppgitt side
+- OK   3 estimat=22 rad 347 (W3015169324, varighet på dagpenger, 50–54 år) står i sitatet
+- OK   2 sitat rad 348 (W1997994385, jobbkvalitet (lønn og varighet i ny jobb) står på oppgitt side
+- OK   2 sitat rad 349 (W1997994385, varighet i ny jobb (gjengitt fra Centeno) står på oppgitt side
+- OK   3 estimat=4 rad 349 (W1997994385, varighet i ny jobb (gjengitt fra Centeno) står i sitatet
+- OK   2 sitat rad 350 (W2088301275, ledighetsvarighet, økning i uker (gjengi) står på oppgitt side
+- OK   3 estimat=0.5 rad 350 (W2088301275, ledighetsvarighet, økning i uker (gjengi) står i sitatet
+- OK   2 sitat rad 351 (W2088301275, ledighetsvarighet i måneder per ekstra m) står på oppgitt side
+- OK   3 estimat=0.1 rad 351 (W2088301275, ledighetsvarighet i måneder per ekstra m) står i sitatet
+- OK   2 sitat rad 352 (W2088301275, lønn og jobbmatch; ingen samlet effektes) står på oppgitt side
+- OK   2 sitat rad 353 (W2104905575, månedlig avgangsrate fra dagpengeledighe) står på oppgitt side
+- OK   3 estimat=39 rad 353 (W2104905575, månedlig avgangsrate fra dagpengeledighe) står i sitatet
+- OK   2 sitat rad 354 (W2104905575, sannsynlighet for å forlate dagpenger in) står på oppgitt side
+- OK   3 estimat=41 rad 354 (W2104905575, sannsynlighet for å forlate dagpenger in) står i sitatet
+- OK   2 sitat rad 355 (W2104905575, avgangsrate, laveste lønnskvartil (reduk) står på oppgitt side
+- OK   3 estimat=26 rad 355 (W2104905575, avgangsrate, laveste lønnskvartil (reduk) står i sitatet
+- OK   2 sitat rad 356 (W1980852200, kvartalsvis rate for overgang til arbeid) står på oppgitt side
+- OK   3 estimat=53 rad 356 (W1980852200, kvartalsvis rate for overgang til arbeid) står i sitatet
+- OK   2 sitat rad 357 (W1980852200, kvartalsvis rate for overgang til arbeid) står på oppgitt side
+- OK   3 estimat=106 rad 357 (W1980852200, kvartalsvis rate for overgang til arbeid) står i sitatet
+- OK   2 sitat rad 358 (W2906550131, produktivitet hos sysselsatte kassemedar) står på oppgitt side
+- OK   3 estimat=2.4 rad 358 (W2906550131, produktivitet hos sysselsatte kassemedar) står i sitatet
+- OK   2 sitat rad 359 (W3122426411, månedlig rate for gjenansettelse, 4. kva) står på oppgitt side
+- OK   3 estimat=0.5 rad 359 (W3122426411, månedlig rate for gjenansettelse, 4. kva) står i sitatet
+- OK   2 sitat rad 360 (W3122426411, månedlig avgang fra ledighet, 4. kvartal) står på oppgitt side
+- OK   3 estimat=1 rad 360 (W3122426411, månedlig avgang fra ledighet, 4. kvartal) står i sitatet
+- OK   2 sitat rad 361 (W3122426411, ledighetsraten desember 2010, bidrag fra) står på oppgitt side
+- OK   3 estimat=0.2 rad 361 (W3122426411, ledighetsraten desember 2010, bidrag fra) står i sitatet
+- OK   2 sitat rad 362 (W2159655435, ledighetsvarighet, likviditetsbegrensede) står på oppgitt side
+- OK   3 estimat=7 rad 362 (W2159655435, ledighetsvarighet, likviditetsbegrensede) står i sitatet
+- OK   2 sitat rad 363 (W2159655435, andel av effekten av dagpengenivå på led) står på oppgitt side
+- OK   3 estimat=60 rad 363 (W2159655435, andel av effekten av dagpengenivå på led) står i sitatet
+- OK   2 sitat rad 364 (W4291754967, varighetselastisitet for ledighet, tille) står på oppgitt side
+- OK   3 estimat=0.06 rad 364 (W4291754967, varighetselastisitet for ledighet, tille) står i sitatet
+- OK   2 sitat rad 365 (W4291754967, varighetselastisitet for ledighet, tille) står på oppgitt side
+- OK   3 estimat=0.10 rad 365 (W4291754967, varighetselastisitet for ledighet, tille) står i sitatet
+- OK   2 sitat rad 366 (W2161950284, overgang til heltidsarbeid rundt utløp a) står på oppgitt side
+- OK   2 sitat rad 367 (W2161950284, avgang til andre tilstander enn heltidsa) står på oppgitt side
+- OK   3 estimat=38 rad 367 (W2161950284, avgang til andre tilstander enn heltidsa) står i sitatet
+- OK   2 sitat rad 368 (W2171402176, ledighetsraten 2010, bidrag fra forlenge) står på oppgitt side
+- OK   3 estimat=0.77 rad 368 (W2171402176, ledighetsraten 2010, bidrag fra forlenge) står i sitatet
+- OK   2 sitat rad 369 (W2171402176, ledighetsraten per ekstra uke med forlen) står på oppgitt side
+- OK   3 estimat=0.025 rad 369 (W2171402176, ledighetsraten per ekstra uke med forlen) står i sitatet
+- OK   2 sitat rad 370 (W4391117040, varighet på dagpenger, oppgangsperiode 2) står på oppgitt side
+- OK   3 estimat=0.5 rad 370 (W4391117040, varighet på dagpenger, oppgangsperiode 2) står i sitatet
+- OK   2 sitat rad 371 (W4391117040, varighet på dagpenger, finanskrisen 2010) står på oppgitt side
+- OK   3 estimat=0.78 rad 371 (W4391117040, varighet på dagpenger, finanskrisen 2010) står i sitatet
+- OK   2 sitat rad 372 (W4391117040, varighet uten arbeid, oppgangsperioder) står på oppgitt side
+- OK   3 estimat=0.2 rad 372 (W4391117040, varighet uten arbeid, oppgangsperioder) står i sitatet
+- OK   2 sitat rad 373 (W4391117040, varighet uten arbeid, finanskrisen) står på oppgitt side
+- OK   3 estimat=0.6 rad 373 (W4391117040, varighet uten arbeid, finanskrisen) står i sitatet
+- OK   2 sitat rad 374 (W3145840701, atferdsbetinget merkostnad (fiskal ekste) står på oppgitt side
+- OK   3 estimat=27 rad 374 (W3145840701, atferdsbetinget merkostnad (fiskal ekste) står i sitatet
+- OK   2 sitat rad 375 (W3145840701, atferdsbetinget merkostnad per dollar ov) står på oppgitt side
+- OK   3 estimat=53 rad 375 (W3145840701, atferdsbetinget merkostnad per dollar ov) står i sitatet
+- OK   2 sitat rad 376 (W2244210609, varighet i jobb for sysselsatte, lavtløn) står på oppgitt side
+- OK   3 estimat=0.3 rad 376 (W2244210609, varighet i jobb for sysselsatte, lavtløn) står i sitatet
+- OK   2 sitat rad 377 (W3123781533, samlet ledighetsvarighet (elastisitet) v) står på oppgitt side
+- OK   3 estimat=1.18 rad 377 (W3123781533, samlet ledighetsvarighet (elastisitet) v) står i sitatet
+- OK   2 sitat rad 378 (W3123781533, samlet ledighetsvarighet (elastisitet) v) står på oppgitt side
+- OK   3 estimat=1.76 rad 378 (W3123781533, samlet ledighetsvarighet (elastisitet) v) står i sitatet
+- OK   2 sitat rad 379 (W3123781533, andel av effekten av dagpengenivå på job) står på oppgitt side
+- OK   3 estimat=70 rad 379 (W3123781533, andel av effekten av dagpengenivå på job) står i sitatet
+- OK   2 sitat rad 380 (W3123781533, andel av effekten som skyldes likviditet) står på oppgitt side
+- OK   3 estimat=75 rad 380 (W3123781533, andel av effekten som skyldes likviditet) står i sitatet
+- OK   2 sitat rad 381 (W2730149483, ledighetsraten 2007–2011, samlet effekt ) står på oppgitt side
+- OK   3 estimat=0.25 rad 381 (W2730149483, ledighetsraten 2007–2011, samlet effekt ) står i sitatet
+- OK   2 sitat rad 382 (W2730149483, yrkesdeltakelse; ingen effekt funnet) står på oppgitt side
+- OK   2 sitat rad 383 (W3121176259, forventet ledighetsvarighet 2009–2011 (ø) står på oppgitt side
+- OK   3 estimat=7 rad 383 (W3121176259, forventet ledighetsvarighet 2009–2011 (ø) står i sitatet
+- OK   2 sitat rad 384 (W3121176259, forventet ledighetsvarighet 2002–2004 (ø) står på oppgitt side
+- OK   3 estimat=4 rad 384 (W3121176259, forventet ledighetsvarighet 2002–2004 (ø) står i sitatet
+- OK   2 sitat rad 385 (W3121176259, forventet tid til overgang til arbeid (ø) står på oppgitt side
+- OK   3 estimat=3 rad 385 (W3121176259, forventet tid til overgang til arbeid (ø) står i sitatet
+- OK   2 sitat rad 386 (W3121176259, ledighetsraten 2010, bidrag fra forlenge) står på oppgitt side
+- OK   3 estimat=0.40 rad 386 (W3121176259, ledighetsraten 2010, bidrag fra forlenge) står i sitatet
+- OK   2 sitat rad 387 (W4298303875, lønn i ny jobb, samlet effekt (øvre gren) står på oppgitt side
+- OK   3 estimat=5 rad 387 (W4298303875, lønn i ny jobb, samlet effekt (øvre gren) står i sitatet
+- OK   2 sitat rad 388 (W4298303875, avgang fra ledighet og topp ved utløp av) står på oppgitt side
+- OK   2 sitat rad 389 (W4298303875, varighet i ny jobb og lønn for dem som f) står på oppgitt side
+- OK   2 sitat rad 390 (W3124232830, ledighetsraten (log-poeng) ved 1 prosent) står på oppgitt side
+- OK   3 estimat=8.4 rad 390 (W3124232830, ledighetsraten (log-poeng) ved 1 prosent) står i sitatet
+- OK   2 sitat rad 391 (W3124232830, ledighetsraten, økning i prosent ved for) står på oppgitt side
+- OK   3 estimat=120 rad 391 (W3124232830, ledighetsraten, økning i prosent ved for) står i sitatet
+- OK   2 sitat rad 392 (W2337558966, ledighetsraten under finanskrisen, bidra) står på oppgitt side
+- OK   3 estimat=0.3 rad 392 (W2337558966, ledighetsraten under finanskrisen, bidra) står i sitatet
+- OK   2 sitat rad 393 (W3123098138, menn: ledighetsraten for menn 2009–2010,) står på oppgitt side
+- OK   3 estimat=1.2 rad 393 (W3123098138, menn: ledighetsraten for menn 2009–2010,) står i sitatet
+- OK   3 ki_lav=0.8 rad 393 (W3123098138, menn: ledighetsraten for menn 2009–2010,) står i sitatet
+- OK   3 ki_hoy=1.8 rad 393 (W3123098138, menn: ledighetsraten for menn 2009–2010,) står i sitatet
+- OK   4 rad 393 (W3123098138, menn: ledighetsraten for menn 2009–2010,) estimat innenfor KI
+- OK   2 sitat rad 394 (W3024730720, antall jobbsøknader i delstaten (reduksj) står på oppgitt side
+- OK   3 estimat=1 rad 394 (W3024730720, antall jobbsøknader i delstaten (reduksj) står i sitatet
+- OK   2 sitat rad 395 (W3024730720, ledighet i likevekt (økning i prosent pe) står på oppgitt side
+- OK   3 estimat=0.6 rad 395 (W3024730720, ledighet i likevekt (økning i prosent pe) står i sitatet
+- OK   2 sitat rad 396 (W3047410432, inntekt i ny jobb etter periode uten arb) står på oppgitt side
+- OK   3 estimat=12 rad 396 (W3047410432, inntekt i ny jobb etter periode uten arb) står i sitatet
+- OK   2 sitat rad 397 (W3047410432, jobbmatch (matcheffekt i lønnsmodell) og) står på oppgitt side
+- OK   3 estimat=4.1 rad 397 (W3047410432, jobbmatch (matcheffekt i lønnsmodell) og) står i sitatet
+- OK   2 sitat rad 398 (W3047410432, ikke-hvite: sannsynlighet for å være hos) står på oppgitt side
+- OK   3 estimat=2.7 rad 398 (W3047410432, ikke-hvite: sannsynlighet for å være hos) står i sitatet
+- OK   2 sitat rad 399 (W1531251373, 50 år og eldre: tid på dagpenger, økning) står på oppgitt side
+- OK   3 estimat=1 rad 399 (W1531251373, 50 år og eldre: tid på dagpenger, økning) står i sitatet
+- OK   2 sitat rad 400 (W1531251373, 50 år og eldre: sannsynlighet for gjenan) står på oppgitt side
+- OK   3 estimat=2 rad 400 (W1531251373, 50 år og eldre: sannsynlighet for gjenan) står i sitatet
+- OK   2 sitat rad 401 (W1605209705, ledighetsvarighet for husholdninger med ) står på oppgitt side
+- OK   3 estimat=6 rad 401 (W1605209705, ledighetsvarighet for husholdninger med ) står i sitatet
+- OK   2 sitat rad 402 (W1605209705, andel av sammenhengen mellom dagpenger o) står på oppgitt side
+- OK   3 estimat=70 rad 402 (W1605209705, andel av sammenhengen mellom dagpenger o) står i sitatet
+- OK   2 sitat rad 403 (W3121919142, andel i arbeid innen seks måneder (relat) står på oppgitt side
+- OK   3 estimat=1.3 rad 403 (W3121919142, andel i arbeid innen seks måneder (relat) står i sitatet
+- OK   2 sitat rad 404 (W3121919142, årslønn i første jobb (euro lavere per m) står på oppgitt side
+- OK   3 estimat=220 rad 404 (W3121919142, årslønn i første jobb (euro lavere per m) står i sitatet
+- OK   2 sitat rad 405 (W3121919142, sannsynlighet for midlertidig kontrakt i) står på oppgitt side
+- OK   3 estimat=1 rad 405 (W3121919142, sannsynlighet for midlertidig kontrakt i) står i sitatet
+- OK   2 sitat rad 406 (W3121919142, samlet inntekt over tre år (nedgang); sa) står på oppgitt side
+- OK   3 estimat=0.6 rad 406 (W3121919142, samlet inntekt over tre år (nedgang); sa) står i sitatet
+- OK   2 sitat rad 407 (W4388102278, måneder uten arbeid per ekstra måned dag) står på oppgitt side
+- OK   3 estimat=0.128 rad 407 (W4388102278, måneder uten arbeid per ekstra måned dag) står i sitatet
+- OK   2 sitat rad 408 (W4388102278, ledighetsrate, 56–59 år (modellberegning) står på oppgitt side
+- OK   3 estimat=2.5 rad 408 (W4388102278, ledighetsrate, 56–59 år (modellberegning) står i sitatet
+- OK   2 sitat rad 409 (W4388102278, økningen i ledighet for 56–59 år fra 198) står på oppgitt side
+- OK   3 estimat=58 rad 409 (W4388102278, økningen i ledighet for 56–59 år fra 198) står i sitatet
+- OK   2 sitat rad 410 (W1588566104, ledighetsrate, ikke-sesongsektor (5 i se) står på oppgitt side
+- OK   3 estimat=2 rad 410 (W1588566104, ledighetsrate, ikke-sesongsektor (5 i se) står i sitatet
+- OK   2 sitat rad 411 (W3157482989, ledighetsrate i fylker (log-poeng per 1 ) står på oppgitt side
+- OK   3 estimat=0.052 rad 411 (W3157482989, ledighetsrate i fylker (log-poeng per 1 ) står i sitatet
+- OK   2 sitat rad 412 (W3157482989, ledighetsrate 2010K4 ved kutt fra 99 til) står på oppgitt side
+- OK   3 estimat=7.8 rad 412 (W3157482989, ledighetsrate 2010K4 ved kutt fra 99 til) står i sitatet
+- OK   2 sitat rad 413 (W4300783938, varighet uten arbeid (elastisitet 1.5 ti) står på oppgitt side
+- OK   3 estimat=1.5 rad 413 (W4300783938, varighet uten arbeid (elastisitet 1.5 ti) står i sitatet
+- OK   2 sitat rad 414 (W4300783938, sannsynlighet for at stønadsperioden end) står på oppgitt side
+- OK   3 estimat=-0.5 rad 414 (W4300783938, sannsynlighet for at stønadsperioden end) står i sitatet
+- OK   2 sitat rad 415 (W4300783938, lønn i første jobb etter ledighet (elast) står på oppgitt side
+- OK   3 estimat=-0.5 rad 415 (W4300783938, lønn i første jobb etter ledighet (elast) står i sitatet
+- OK   2 sitat rad 416 (W2602083429, sysselsetting (antall personer), mikrosi) står på oppgitt side
+- OK   3 estimat=50000 rad 416 (W2602083429, sysselsetting (antall personer), mikrosi) står i sitatet
+- OK   2 sitat rad 417 (W2602083429, gjennomsnittlig effektiv marginalskatt v) står på oppgitt side
+- OK   3 estimat=14 rad 417 (W2602083429, gjennomsnittlig effektiv marginalskatt v) står i sitatet
+- OK   2 sitat rad 418 (W2900127637, lønn i eksisterende jobber og ved jobbsk) står på oppgitt side
+- OK   3 estimat=0.01 rad 418 (W2900127637, lønn i eksisterende jobber og ved jobbsk) står i sitatet
+- OK   2 sitat rad 419 (W3123287087, andel av ledighetsforløpene i tiltaksgru) står på oppgitt side
+- OK   3 estimat=15 rad 419 (W3123287087, andel av ledighetsforløpene i tiltaksgru) står i sitatet
+- OK   2 sitat rad 420 (W2118828931, sannsynlighet for å være i arbeid tre år) står på oppgitt side
+- OK   3 estimat=32.6 rad 420 (W2118828931, sannsynlighet for å være i arbeid tre år) står i sitatet
+- OK   2 sitat rad 421 (W2118828931, sysselsetting ved utgangen av andre år, ) står på oppgitt side
+- OK   3 estimat=15.3 rad 421 (W2118828931, sysselsetting ved utgangen av andre år, ) står i sitatet
+- OK   2 sitat rad 422 (W2118828931, lønn tre år etter: ingen effekt) står på oppgitt side
+- OK   2 sitat rad 423 (W2892198599, forhøyet avgang fra ledighet etter først) står på oppgitt side
+- OK   3 estimat=2.5 rad 423 (W2892198599, forhøyet avgang fra ledighet etter først) står i sitatet
+- OK   2 sitat rad 424 (W7151383463, sysselsetting, 25–54 år (gjenansettelses) står på oppgitt side
+- OK   3 estimat=3.2 rad 424 (W7151383463, sysselsetting, 25–54 år (gjenansettelses) står i sitatet
+- OK   2 sitat rad 425 (W7151383463, overgang fra ledighet til arbeid, 25–54 ) står på oppgitt side
+- OK   3 estimat=18.2 rad 425 (W7151383463, overgang fra ledighet til arbeid, 25–54 ) står i sitatet
+- OK   2 sitat rad 426 (W1506969218, uker med dagpenger (nedgang) i fire fors) står på oppgitt side
+- OK   3 estimat=3 rad 426 (W1506969218, uker med dagpenger (nedgang) i fire fors) står i sitatet
+- OK   2 sitat rad 427 (W1506969218, uker med dagpenger (nedgang over én uke)) står på oppgitt side
+- OK   3 estimat=1 rad 427 (W1506969218, uker med dagpenger (nedgang over én uke)) står i sitatet
+- OK   2 sitat rad 428 (W4200127337, overgang fra ledighet til arbeid, 25–54 ) står på oppgitt side
+- OK   3 estimat=14 rad 428 (W4200127337, overgang fra ledighet til arbeid, 25–54 ) står i sitatet
+- OK   2 sitat rad 429 (W4200127337, nasjonal ledighetsrate juli og august 20) står på oppgitt side
+- OK   3 estimat=0.3 rad 429 (W4200127337, nasjonal ledighetsrate juli og august 20) står i sitatet
+- OK   2 sitat rad 430 (W2169046276, reformeffekt på overgang til arbeid i re) står på oppgitt side
+- OK   3 estimat=0.15 rad 430 (W2169046276, reformeffekt på overgang til arbeid i re) står i sitatet
+- OK   2 sitat rad 431 (W2169046276, overgang til ordinære jobber: ingen effe) står på oppgitt side
+- OK   2 sitat rad 432 (W2169046276, avgang til arbeid, gjengitt fra Carling,) står på oppgitt side
+- OK   3 estimat=10 rad 432 (W2169046276, avgang til arbeid, gjengitt fra Carling,) står i sitatet
+- OK   2 sitat rad 433 (W4308880944, jobbfunnsrate (elastisitet med hensyn ti) står på oppgitt side
+- OK   3 estimat=-0.35 rad 433 (W4308880944, jobbfunnsrate (elastisitet med hensyn ti) står i sitatet
+- OK   2 sitat rad 434 (W4308880944, jobbfunnsrate for ledige med dagpenger l) står på oppgitt side
+- OK   3 estimat=-1.1 rad 434 (W4308880944, jobbfunnsrate for ledige med dagpenger l) står i sitatet
+- OK   2 sitat rad 435 (W4308880944, ukentlig jobbfunnsrate for ledige med da) står på oppgitt side
+- OK   3 estimat=2.0 rad 435 (W4308880944, ukentlig jobbfunnsrate for ledige med da) står i sitatet
+- OK   2 sitat rad 436 (W2999421560, sannsynlighet for å være i arbeid, unge ) står på oppgitt side
+- OK   2 sitat rad 437 (W2999421560, kumulativ jobbfunnsrate, unge med høyere) står på oppgitt side
+- OK   3 estimat=4 rad 437 (W2999421560, kumulativ jobbfunnsrate, unge med høyere) står i sitatet
+- OK   2 sitat rad 438 (W3121290322, ledighetsvarighet, 44–46 år oppsagt uten) står på oppgitt side
+- OK   2 sitat rad 439 (W2163272184, likevektsledighet (fra 6.25 prosent), fo) står på oppgitt side
+- OK   3 estimat=7.7 rad 439 (W2163272184, likevektsledighet (fra 6.25 prosent), fo) står i sitatet
+- OK   2 sitat rad 440 (W2163272184, økning i gjenansettelsesrate ved utløp a) står på oppgitt side
+- OK   3 estimat=20 rad 440 (W2163272184, økning i gjenansettelsesrate ved utløp a) står i sitatet
+- OK   2 sitat rad 441 (W3124881456, lønn ved gjenansettelse: upåvirket gjenn) står på oppgitt side
+- OK   2 sitat rad 442 (W3121561982, ledighetsvarighet i uker, jobbtapere led) står på oppgitt side
+- OK   3 estimat=1.5 rad 442 (W3121561982, ledighetsvarighet i uker, jobbtapere led) står i sitatet
+- OK   2 sitat rad 443 (W3121561982, ledighetsvarighet i uker (16 prosent), j) står på oppgitt side
+- OK   3 estimat=7.3 rad 443 (W3121561982, ledighetsvarighet i uker (16 prosent), j) står i sitatet
+- OK   2 sitat rad 444 (W3161347148, jobbfunnsrate for typisk dagpengemottake) står på oppgitt side
+- OK   3 estimat=22 rad 444 (W3161347148, jobbfunnsrate for typisk dagpengemottake) står i sitatet
+- OK   2 sitat rad 445 (W3161347148, andel dagpengemottakere som trolig ville) står på oppgitt side
+- OK   3 estimat=22 rad 445 (W3161347148, andel dagpengemottakere som trolig ville) står i sitatet
+- OK   2 sitat rad 446 (W3123285088, tilgang til ledighet i seks måneder ette) står på oppgitt side
+- OK   3 estimat=28.8 rad 446 (W3123285088, tilgang til ledighet i seks måneder ette) står i sitatet
+- OK   2 sitat rad 447 (W3123285088, topp i tilgang til ledighet etter 57.5 å) står på oppgitt side
+- OK   3 estimat=18.3 rad 447 (W3123285088, topp i tilgang til ledighet etter 57.5 å) står i sitatet
+- OK   2 sitat rad 448 (W3123257150, arbeidsdager i fem kvartaler etter avgan) står på oppgitt side
+- OK   3 estimat=-3.5 rad 448 (W3123257150, arbeidsdager i fem kvartaler etter avgan) står i sitatet
+- OK   2 sitat rad 449 (W3123257150, arbeidsinntekt i fem kvartaler etter avg) står på oppgitt side
+- OK   3 estimat=-5.5 rad 449 (W3123257150, arbeidsinntekt i fem kvartaler etter avg) står i sitatet
+- OK   2 sitat rad 450 (W1894565970, andel som var ledige hele maksimale støn) står på oppgitt side
+- OK   3 estimat=4 rad 450 (W1894565970, andel som var ledige hele maksimale støn) står i sitatet
+- OK   2 sitat rad 451 (W1894565970, andel med sammenhengende forløp av dagpe) står på oppgitt side
+- OK   3 estimat=8 rad 451 (W1894565970, andel med sammenhengende forløp av dagpe) står i sitatet
+- OK   2 sitat rad 452 (W3122272406, ledighetsvarighet (Illinois-forsøket med) står på oppgitt side
+- OK   2 sitat rad 453 (W2890931512, jobbfunnrate de første 20 ukene (spenn 5) står på oppgitt side
+- OK   3 estimat=5 rad 453 (W2890931512, jobbfunnrate de første 20 ukene (spenn 5) står i sitatet
+- OK   2 sitat rad 454 (W2890931512, lønn i ny jobb: øvre grense i 95 % KI fo) står på oppgitt side
+- OK   3 estimat=1 rad 454 (W2890931512, lønn i ny jobb: øvre grense i 95 % KI fo) står i sitatet
+- OK   2 sitat rad 455 (W4327977344, arbeidstimer, 20–24 år) står på oppgitt side
+- OK   3 estimat=6 rad 455 (W4327977344, arbeidstimer, 20–24 år) står i sitatet
+- OK   2 sitat rad 456 (W4327977344, arbeidstimer, 15–19 år: ingen signifikan) står på oppgitt side
+- OK   3 estimat=15 rad 456 (W4327977344, arbeidstimer, 15–19 år: ingen signifikan) står i sitatet
+- OK   2 sitat rad 457 (W3008865396, andel med vikarjobb innen 6 måneder, 24-) står på oppgitt side
+- OK   3 estimat=3.3 rad 457 (W3008865396, andel med vikarjobb innen 6 måneder, 24-) står i sitatet
+- OK   2 sitat rad 458 (W3008865396, andel med vikarjobb innen 12 måneder, 24) står på oppgitt side
+- OK   3 estimat=3.7 rad 458 (W3008865396, andel med vikarjobb innen 12 måneder, 24) står i sitatet
+- OK   2 sitat rad 459 (W3008865396, overgang til mer stabile jobber og sysse) står på oppgitt side
+- OK   2 sitat rad 460 (W4396708970, jobbfunnrate (spenn 5–7 prosentpoeng, ne) står på oppgitt side
+- OK   3 estimat=5 rad 460 (W4396708970, jobbfunnrate (spenn 5–7 prosentpoeng, ne) står i sitatet
+- OK   2 sitat rad 461 (W4396708970, jobbfunnrate, laveste inntektstredjedel:) står på oppgitt side
+- OK   2 sitat rad 462 (W3196709528, jobbsøking innen 6 måneder, 65 år og eld) står på oppgitt side
+- OK   3 estimat=1.4 rad 462 (W3196709528, jobbsøking innen 6 måneder, 65 år og eld) står i sitatet
+- OK   2 sitat rad 463 (W3196709528, yrkesdeltakelse innen 6 måneder, 65 år o) står på oppgitt side
+- OK   3 estimat=0.8 rad 463 (W3196709528, yrkesdeltakelse innen 6 måneder, 65 år o) står i sitatet
+- OK   2 sitat rad 464 (W2962012390, elastisitet av ledighetsvarighet mht. da) står på oppgitt side
+- OK   3 estimat=0.5 rad 464 (W2962012390, elastisitet av ledighetsvarighet mht. da) står i sitatet
+- OK   2 sitat rad 465 (W2962012390, ledighetsvarighet i uker; gjengitt fra f) står på oppgitt side
+- OK   3 estimat=1 rad 465 (W2962012390, ledighetsvarighet i uker; gjengitt fra f) står i sitatet
+- OK   2 sitat rad 466 (W2962012390, ledighetsraten på delstatsnivå (makro); ) står på oppgitt side
+- OK   3 estimat=0.04 rad 466 (W2962012390, ledighetsraten på delstatsnivå (makro); ) står i sitatet
+- OK   2 sitat rad 467 (W2505956069, inntektselastisitet (intensiv margin) bl) står på oppgitt side
+- OK   3 estimat=0.1 rad 467 (W2505956069, inntektselastisitet (intensiv margin) bl) står i sitatet
+- OK   2 sitat rad 468 (W4226460977, sysselsetting i delstaten andre måned et) står på oppgitt side
+- OK   3 estimat=27 rad 468 (W4226460977, sysselsetting i delstaten andre måned et) står i sitatet
+- OK   2 sitat rad 469 (W3122179078, ledighetsvarighet i uker, 18-åringer (in) står på oppgitt side
+- OK   3 estimat=61 rad 469 (W3122179078, ledighetsvarighet i uker, 18-åringer (in) står i sitatet
+- OK   2 sitat rad 470 (W3122179078, elastisitet av ledighetsvarighet mht. yt) står på oppgitt side
+- OK   3 estimat=1.04 rad 470 (W3122179078, elastisitet av ledighetsvarighet mht. yt) står i sitatet
+- OK   2 sitat rad 471 (W3122179078, samlet ledighet over fem år i uker, 18-å) står på oppgitt side
+- OK   3 estimat=-50 rad 471 (W3122179078, samlet ledighet over fem år i uker, 18-å) står i sitatet
+- OK   2 sitat rad 472 (W3125141905, månedlig avgang fra ledighet (alle avgan) står på oppgitt side
+- OK   3 estimat=3.5 rad 472 (W3125141905, månedlig avgang fra ledighet (alle avgan) står i sitatet
+- OK   2 sitat rad 473 (W3125141905, avgang til arbeid: svært små, ikke signi) står på oppgitt side
+- OK   2 sitat rad 474 (W1187777988, avgangsrate fra ledighet: topp ved 700 d) står på oppgitt side
+- OK   3 estimat=700 rad 474 (W1187777988, avgangsrate fra ledighet: topp ved 700 d) står i sitatet
+- OK   2 sitat rad 475 (W2362926828, andel som brukte opp ordinære dagpenger ) står på oppgitt side
+- OK   3 estimat=9.2 rad 475 (W2362926828, andel som brukte opp ordinære dagpenger ) står i sitatet
+- OK   2 sitat rad 476 (W2362926828, antall uker med dagpenger (Nevada REA/RE) står på oppgitt side
+- OK   3 estimat=10 rad 476 (W2362926828, antall uker med dagpenger (Nevada REA/RE) står i sitatet
+- OK   2 sitat rad 477 (W1484319311, uker med ledighet (Washington-forsøket, ) står på oppgitt side
+- OK   3 estimat=0.75 rad 477 (W1484319311, uker med ledighet (Washington-forsøket, ) står i sitatet
+- OK   2 sitat rad 478 (W1484319311, uker med ledighet (Pennsylvania-forsøket) står på oppgitt side
+- OK   3 estimat=0.8 rad 478 (W1484319311, uker med ledighet (Pennsylvania-forsøket) står i sitatet
+- OK   2 sitat rad 479 (W1595650743, ingen effektestimat i teksten; beskriver) står på oppgitt side
+- OK   2 sitat rad 480 (W2336638963, ledighetsvarighet i uker per ekstra uke ) står på oppgitt side
+- OK   3 estimat=0.1 rad 480 (W2336638963, ledighetsvarighet i uker per ekstra uke ) står i sitatet
+- OK   2 sitat rad 481 (W2336638963, ledighetsvarighet i uker (spenn 0,5–1,0,) står på oppgitt side
+- OK   3 estimat=0.5 rad 481 (W2336638963, ledighetsvarighet i uker (spenn 0,5–1,0,) står i sitatet
+- OK   2 sitat rad 482 (W2336638963, andel som bruker opp ordinære dagpenger;) står på oppgitt side
+- OK   3 estimat=7 rad 482 (W2336638963, andel som bruker opp ordinære dagpenger;) står i sitatet
+- OK   2 sitat rad 483 (W2336638963, uker uten arbeid per ekstra uke potensie) står på oppgitt side
+- OK   3 estimat=0.32 rad 483 (W2336638963, uker uten arbeid per ekstra uke potensie) står i sitatet
+- OK   2 sitat rad 484 (W94071062, ingen effektestimat i teksten; beskriver) står på oppgitt side
+- OK   2 sitat rad 485 (W3124932748, odds for å finne jobb) står på oppgitt side
+- OK   3 estimat=41 rad 485 (W3124932748, odds for å finne jobb) står i sitatet
+- OK   2 sitat rad 486 (W3124932748, forventet ledighetsvarighet i uker (14 p) står på oppgitt side
+- OK   3 estimat=5.7 rad 486 (W3124932748, forventet ledighetsvarighet i uker (14 p) står i sitatet
+- OK   2 sitat rad 487 (W3124932748, elastisitet av ledighetsvarighet mht. ko) står på oppgitt side
+- OK   3 estimat=0.86 rad 487 (W3124932748, elastisitet av ledighetsvarighet mht. ko) står i sitatet
+- OK   2 sitat rad 488 (W3125981663, varighet uten arbeid i uker; lønn og var) står på oppgitt side
+- OK   3 estimat=1.5 rad 488 (W3125981663, varighet uten arbeid i uker; lønn og var) står i sitatet
+- OK   2 sitat rad 489 (W2172464361, sannsynlighet for å komme i arbeid) står på oppgitt side
+- OK   3 estimat=100 rad 489 (W2172464361, sannsynlighet for å komme i arbeid) står i sitatet
+- OK   2 sitat rad 490 (W2172464361, forventet ledighetsvarighet i uker for e) står på oppgitt side
+- OK   3 estimat=7.5 rad 490 (W2172464361, forventet ledighetsvarighet i uker for e) står i sitatet
+- OK   2 sitat rad 491 (W2230405599, sysselsettingsrate (makro, landpanel); g) står på oppgitt side
+- OK   3 estimat=0.6 rad 491 (W2230405599, sysselsettingsrate (makro, landpanel); g) står i sitatet
+- OK   2 sitat rad 492 (W104671699, uker med dagpenger over alle programmer ) står på oppgitt side
+- OK   3 estimat=2 rad 492 (W104671699, uker med dagpenger over alle programmer ) står i sitatet
+- OK   2 sitat rad 493 (W104671699, inntekt i første kvartal etter søknad, d) står på oppgitt side
+- OK   3 estimat=176 rad 493 (W104671699, inntekt i første kvartal etter søknad, d) står i sitatet
+- OK   2 sitat rad 494 (W3123720716, varighet på dagpenger i måneder ved 50-å) står på oppgitt side
+- OK   3 estimat=0.95 rad 494 (W3123720716, varighet på dagpenger i måneder ved 50-å) står i sitatet
+- OK   2 sitat rad 495 (W3123720716, varighet uten arbeid i måneder (sensurer) står på oppgitt side
+- OK   3 estimat=0.2 rad 495 (W3123720716, varighet uten arbeid i måneder (sensurer) står i sitatet
+- OK   2 sitat rad 496 (W3123720716, sannsynlighet for jobb innen 18 måneder;) står på oppgitt side
+- OK   3 estimat=1.3 rad 496 (W3123720716, sannsynlighet for jobb innen 18 måneder;) står i sitatet
+- OK   2 sitat rad 497 (W4415544802, andel av økt dagpengebruk som skyldes re) står på oppgitt side
+- OK   3 estimat=19 rad 497 (W4415544802, andel av økt dagpengebruk som skyldes re) står i sitatet
+- OK   2 sitat rad 498 (W4415544802, atferdskostnad per euro mekanisk overfør) står på oppgitt side
+- OK   3 estimat=24 rad 498 (W4415544802, atferdskostnad per euro mekanisk overfør) står i sitatet
+- OK   2 sitat rad 499 (W1599200893, sannsynlighet for positiv inntekt året e) står på oppgitt side
+- OK   3 estimat=4 rad 499 (W1599200893, sannsynlighet for positiv inntekt året e) står i sitatet
+- OK   2 sitat rad 500 (W1599200893, overgang til uføreytelse (Incapacity Ben) står på oppgitt side
+- OK   3 estimat=2.53 rad 500 (W1599200893, overgang til uføreytelse (Incapacity Ben) står i sitatet
+- OK   2 sitat rad 501 (W3034159852, forskjell i ledighetsvekst mellom menn o) står på oppgitt side
+- OK   3 estimat=0.8 rad 501 (W3034159852, forskjell i ledighetsvekst mellom menn o) står i sitatet
+- OK   2 sitat rad 502 (W3034159852, kvinner: økning i ledighetsrate (spenn 0) står på oppgitt side
+- OK   3 estimat=0.6 rad 502 (W3034159852, kvinner: økning i ledighetsrate (spenn 0) står i sitatet
+- OK   2 sitat rad 503 (W3034159852, forsinkelse før effekten på ledigheten k) står på oppgitt side
+- OK   3 estimat=2 rad 503 (W3034159852, forsinkelse før effekten på ledigheten k) står i sitatet
+- OK   2 sitat rad 504 (W2515864410, lønn tre år etter innskriving på mobilit) står på oppgitt side
+- OK   2 sitat rad 505 (W2515864410, sysselsetting og lønn tre år etter innsk) står på oppgitt side
+- OK   2 sitat rad 506 (W4398131513, oppsagte rundt 50 år: sannsynlighet for ) står på oppgitt side
+- OK   3 estimat=8 rad 506 (W4398131513, oppsagte rundt 50 år: sannsynlighet for ) står i sitatet
+- OK   2 sitat rad 507 (W4398131513, oppsagte rundt 50 år: samlet tid uten ar) står på oppgitt side
+- OK   3 estimat=1.26 rad 507 (W4398131513, oppsagte rundt 50 år: samlet tid uten ar) står i sitatet
+- OK   2 sitat rad 508 (W4398131513, oppsagte rundt 50 år: jobbkvalitet og va) står på oppgitt side
+- OK   2 sitat rad 509 (W4378219799, dekningsgrad for inntekt opp til 3 G und) står på oppgitt side
+- OK   3 estimat=80 rad 509 (W4378219799, dekningsgrad for inntekt opp til 3 G und) står i sitatet
+- OK   2 sitat rad 510 (W4378219799, økning i dagpenger for person med inntek) står på oppgitt side
+- OK   3 estimat=18 rad 510 (W4378219799, økning i dagpenger for person med inntek) står i sitatet
+- OK   2 sitat rad 511 (W4378219799, permitterte: maksimal lengde på permitte) står på oppgitt side
+- OK   3 estimat=52 rad 511 (W4378219799, permitterte: maksimal lengde på permitte) står i sitatet
+- OK   2 sitat rad 512 (W4298248611, andel dagpengeperioder som når utløp av ) står på oppgitt side
+- OK   3 estimat=5 rad 512 (W4298248611, andel dagpengeperioder som når utløp av ) står i sitatet
+- OK   2 sitat rad 513 (W4298248611, avgang til jobber av lav kvalitet stiger) står på oppgitt side
+- OK   2 sitat rad 514 (W4298248611, avgang til jobb av høy kvalitet under de) står på oppgitt side
+- OK   3 estimat=26 rad 514 (W4298248611, avgang til jobb av høy kvalitet under de) står i sitatet
+- OK   2 sitat rad 515 (W4298248611, avgang til jobb av lav kvalitet under de) står på oppgitt side
+- OK   3 estimat=85 rad 515 (W4298248611, avgang til jobb av lav kvalitet under de) står i sitatet
+- OK   2 sitat rad 516 (W3125893180, sykmeldinger blant arbeidsledige (overga) står på oppgitt side
+- OK   3 estimat=36 rad 516 (W3125893180, sykmeldinger blant arbeidsledige (overga) står i sitatet
+- OK   2 sitat rad 517 (W3121467141, lavtlønte (nedre knekkpunkt): elastisite) står på oppgitt side
+- OK   3 estimat=1.4 rad 517 (W3121467141, lavtlønte (nedre knekkpunkt): elastisite) står i sitatet
+- OK   2 sitat rad 518 (W3121467141, høytlønte (øvre knekkpunkt): elastisitet) står på oppgitt side
+- OK   3 estimat=2 rad 518 (W3121467141, høytlønte (øvre knekkpunkt): elastisitet) står i sitatet
+- OK   2 sitat rad 519 (W4299870713, lønnsvekst og lønnsustabilitet over livs) står på oppgitt side
+- OK   2 sitat rad 520 (W2911979157, 50 år og eldre i utvalgte regioner: færr) står på oppgitt side
+- OK   3 estimat=18 rad 520 (W2911979157, 50 år og eldre i utvalgte regioner: færr) står i sitatet
+- OK   2 sitat rad 521 (W2911979157, 50 år og eldre i utvalgte regioner: ande) står på oppgitt side
+- OK   3 estimat=51.4 rad 521 (W2911979157, 50 år og eldre i utvalgte regioner: ande) står i sitatet
+- OK   2 sitat rad 522 (W4403164112, sannsynlighet for å være i arbeid, 25–60) står på oppgitt side
+- OK   3 estimat=3.9 rad 522 (W4403164112, sannsynlighet for å være i arbeid, 25–60) står i sitatet
+- OK   2 sitat rad 523 (W4400871115, elastisitet i ledighetsvarighet med hens) står på oppgitt side
+- OK   3 estimat=0.41 rad 523 (W4400871115, elastisitet i ledighetsvarighet med hens) står i sitatet
+- OK   2 sitat rad 524 (W4400871115, elastisitet i ledighetsvarighet med hens) står på oppgitt side
+- OK   3 estimat=0.6 rad 524 (W4400871115, elastisitet i ledighetsvarighet med hens) står i sitatet
+- OK   2 sitat rad 525 (W4400871115, økning i tid uten arbeid per måned lengr) står på oppgitt side
+- OK   3 estimat=0.13 rad 525 (W4400871115, økning i tid uten arbeid per måned lengr) står i sitatet
+- OK   2 sitat rad 526 (W4400871115, konjunktur: reduksjon i varighetselastis) står på oppgitt side
+- OK   3 estimat=50 rad 526 (W4400871115, konjunktur: reduksjon i varighetselastis) står i sitatet
+- OK   2 sitat rad 527 (W4400871115, lønn i ny jobb: mer sjenerøse dagpenger ) står på oppgitt side
+- OK   2 sitat rad 530 (W2130044643, varighet på dagpenger og lønn ved gjenan) står på oppgitt side
+- OK   2 sitat rad 531 (W31426785, overgang til jobb og til trygdeytelser () står på oppgitt side
+- OK   2 sitat rad 532 (W2186134614, 50–54 år: sysselsetting og inntekt oppti) står på oppgitt side
+- OK   2 sitat rad 533 (W2523863210, jobbfinning ikke høyere eller tidligere,) står på oppgitt side
+- OK   2 sitat rad 535 (W2092107418, konjunktur: effekten på tid uten arbeid ) står på oppgitt side
+- OK   2 sitat rad 536 (W2318552292, lønn i ny jobb lavere ved lengre periode) står på oppgitt side
+- OK   2 sitat rad 538 (W2182735290, eldre arbeidstakere: avgang fra jobb til) står på oppgitt side
+- OK   3 estimat=5 rad 538 (W2182735290, eldre arbeidstakere: avgang fra jobb til) står i sitatet
+- OK   2 sitat rad 539 (W2182735290, avgang fra jobb etter reformen: lavere f) står på oppgitt side
+- OK   2 sitat rad 540 (W3123892038, eldre: søketiden for dem som fikk ny job) står på oppgitt side
+- OK   2 sitat rad 541 (W2109630974, avgang fra ledighet til jobb og annet øk) står på oppgitt side
+- OK   2 sitat rad 542 (W2535864760, tid uten arbeid, uker (nedgang) (tallet ) står på oppgitt side
+- OK   3 estimat=2 rad 542 (W2535864760, tid uten arbeid, uker (nedgang) (tallet ) står i sitatet
+- OK   2 sitat rad 543 (W2535864760, lønn i ny jobb (økning)) står på oppgitt side
+- OK   3 estimat=1.4 rad 543 (W2535864760, lønn i ny jobb (økning)) står i sitatet
+- OK   2 sitat rad 544 (W3004469581, alder ved inngang til dagpenger, eldre l) står på oppgitt side
+- OK   3 estimat=6 rad 544 (W3004469581, alder ved inngang til dagpenger, eldre l) står i sitatet
+- OK   2 sitat rad 545 (W3122584885, ledighet; ingen tall i sammendraget, mye) står på oppgitt side
+- OK   2 sitat rad 546 (W2021549551, ledighetsrate i fylket og ledighetsvarig) står på oppgitt side
+- OK   2 sitat rad 547 (W4392878234, pendling og geografisk søk; ingen tall i) står på oppgitt side
+- OK   2 sitat rad 548 (W4238043691, økonomisk aktivitet i fylket; ingen nega) står på oppgitt side
+- OK   2 sitat rad 549 (W2911202431, sysselsetting, offentlige finanser og in) står på oppgitt side
+- OK   2 sitat rad 550 (W4245598734, ledighetsvarighet; ingen effektestimat i) står på oppgitt side
+- OK   2 sitat rad 551 (W4226350725, sysselsetting og utgang av arbeidsstyrke) står på oppgitt side
+- OK   2 sitat rad 553 (W4306866158, ledighetsvarighet; ingen tall i sammendr) står på oppgitt side
+- OK   2 sitat rad 554 (W7162530432, dagpengeutgifter per sak) står på oppgitt side
+- OK   3 estimat=15 rad 554 (W7162530432, dagpengeutgifter per sak) står i sitatet
+- OK   2 sitat rad 555 (W7162530432, andel av besparelsen per sak som skyldes) står på oppgitt side
+- OK   3 estimat=63 rad 555 (W7162530432, andel av besparelsen per sak som skyldes) står i sitatet
+- OK   2 sitat rad 556 (W2005944239, økning i avgang fra registrert ledighet ) står på oppgitt side
+- OK   3 estimat=200 rad 556 (W2005944239, økning i avgang fra registrert ledighet ) står i sitatet
+- OK   2 sitat rad 557 (W2005944239, økning i avgang til arbeid ved utløp av ) står på oppgitt side
+- OK   3 estimat=20 rad 557 (W2005944239, økning i avgang til arbeid ved utløp av ) står i sitatet
+- OK   2 sitat rad 558 (W2005944239, andel ledighetsperioder der sluttdato er) står på oppgitt side
+- OK   3 estimat=1 rad 558 (W2005944239, andel ledighetsperioder der sluttdato er) står i sitatet
+- OK   2 sitat rad 559 (W3130759464, sysselsetting (0.2–0.4 prosent lavere); ) står på oppgitt side
+- OK   3 estimat=0.2 rad 559 (W3130759464, sysselsetting (0.2–0.4 prosent lavere); ) står i sitatet
+- OK   2 sitat rad 560 (W2110608765, lønn i ny jobb per måned lengre ledighet) står på oppgitt side
+- OK   3 estimat=0.8 rad 560 (W2110608765, lønn i ny jobb per måned lengre ledighet) står i sitatet
+- OK   2 sitat rad 561 (W1795977042, ledighetsvarighet; ingen tall i sammendr) står på oppgitt side
+- OK   2 sitat rad 562 (W3124780594, varighet på dagpenger, under og etter re) står på oppgitt side
+- OK   3 estimat=0.65 rad 562 (W3124780594, varighet på dagpenger, under og etter re) står i sitatet
+- OK   2 sitat rad 563 (W3124780594, varighet på dagpenger, under og etter re) står på oppgitt side
+- OK   3 estimat=0.9 rad 563 (W3124780594, varighet på dagpenger, under og etter re) står i sitatet
+- OK   2 sitat rad 564 (W3124780594, varighet på dagpenger, før resesjonen) står på oppgitt side
+- OK   3 estimat=0.35 rad 564 (W3124780594, varighet på dagpenger, før resesjonen) står i sitatet
+- OK   2 sitat rad 565 (W3123331744, andel eldre ledige med forlenget periode) står på oppgitt side
+- OK   3 estimat=50 rad 565 (W3123331744, andel eldre ledige med forlenget periode) står i sitatet
+- OK   2 sitat rad 566 (W3123331744, overgang til arbeid blant eldre ledige s) står på oppgitt side
+- OK   2 sitat rad 567 (W650114545, daglig sannsynlighet for overgang til ar) står på oppgitt side
+- OK   3 estimat=24 rad 567 (W650114545, daglig sannsynlighet for overgang til ar) står i sitatet
+- OK   2 sitat rad 568 (W4283363271, overgang til arbeid eller inaktivitet; i) står på oppgitt side
+- OK   2 sitat rad 569 (W1548833344, ledighetsvarighet; ingen tall i sammendr) står på oppgitt side
+- OK   2 sitat rad 570 (W2780692320, reservasjonslønn, prosent økning per 20 ) står på oppgitt side
+- OK   3 estimat=1 rad 570 (W2780692320, reservasjonslønn, prosent økning per 20 ) står i sitatet
+- OK   2 sitat rad 571 (W3047943556, andel som ikke dokumenterer hele arbeids) står på oppgitt side
+- OK   3 estimat=14 rad 571 (W3047943556, andel som ikke dokumenterer hele arbeids) står i sitatet
+- OK   2 sitat rad 572 (W1571171305, ledighetsvarighet; ingen tall i sammendr) står på oppgitt side
+- OK   2 sitat rad 573 (W3105348181, overgang til arbeid; ingen tall i sammen) står på oppgitt side
+- OK   2 sitat rad 574 (W2597470746, jobbfinning og inntekt; ingen tall i sam) står på oppgitt side
+- OK   2 sitat rad 575 (W3049277559, elastisitet i trygdet ledighetsvarighet ) står på oppgitt side
+- OK   2 sitat rad 576 (W3049277559, elastisitet i tid uten arbeid mht. maksi) står på oppgitt side
+- OK   2 sitat rad 577 (W3049277559, andel av økt ledighetsvarighet ved lengr) står på oppgitt side
+- OK   3 estimat=87 rad 577 (W3049277559, andel av økt ledighetsvarighet ved lengr) står i sitatet
+- OK   2 sitat rad 578 (W3049277559, tid uten arbeid ved gjenansettelsesbonus) står på oppgitt side
+- OK   3 estimat=13 rad 578 (W3049277559, tid uten arbeid ved gjenansettelsesbonus) står i sitatet
+- OK   2 sitat rad 579 (W7115306580, avgangsrate fra ledighet etter 22 prosen) står på oppgitt side
+- OK   3 estimat=9 rad 579 (W7115306580, avgangsrate fra ledighet etter 22 prosen) står i sitatet
+- OK   2 sitat rad 580 (W7115306580, elastisitet i stønadsvarighet mht. ytels) står på oppgitt side
+- OK   3 estimat=0.4 rad 580 (W7115306580, elastisitet i stønadsvarighet mht. ytels) står i sitatet
+- OK   2 sitat rad 581 (W3032721080, lønn i ny jobb: positiv effekt av dagpen) står på oppgitt side
+- OK   2 sitat rad 582 (W4412397453, inntekt hos neste arbeidsgiver per kvart) står på oppgitt side
+- OK   3 estimat=10 rad 582 (W4412397453, inntekt hos neste arbeidsgiver per kvart) står i sitatet
+- OK   2 sitat rad 583 (W4412397453, modellberegnet kausal effekt på inntekt ) står på oppgitt side
+- OK   3 estimat=50 rad 583 (W4412397453, modellberegnet kausal effekt på inntekt ) står i sitatet
+- OK   2 sitat rad 584 (W4414450472, jobbsøk på internett (Google Trends) ett) står på oppgitt side
+- OK   3 estimat=10 rad 584 (W4414450472, jobbsøk på internett (Google Trends) ett) står i sitatet
+- OK   2 sitat rad 585 (W4414450472, jobbsøk ved kunngjøring av avslutningen,) står på oppgitt side
+- OK   3 estimat=6 rad 585 (W4414450472, jobbsøk ved kunngjøring av avslutningen,) står i sitatet
+- OK   2 sitat rad 586 (W3165706917, ledighetsvarighet, økning i måneder (tal) står på oppgitt side
+- OK   3 estimat=6 rad 586 (W3165706917, ledighetsvarighet, økning i måneder (tal) står i sitatet
+- OK   2 sitat rad 587 (W4255935038, tilgang til ledighet og sysselsetting bl) står på oppgitt side
+- OK   2 sitat rad 588 (W7162580035, forventet ledighetsvarighet etter kutt i) står på oppgitt side
+- OK   3 estimat=5.7 rad 588 (W7162580035, forventet ledighetsvarighet etter kutt i) står i sitatet
+- OK   2 sitat rad 589 (W7152496523, avgang fra ledighet ved informasjon om d) står på oppgitt side
+- OK   2 sitat rad 590 (W7132535851, overgangsrate ut av ledighet ved 10 pros) står på oppgitt side
+- OK   3 estimat=5 rad 590 (W7132535851, overgangsrate ut av ledighet ved 10 pros) står i sitatet
+- OK   2 sitat rad 591 (W7132535851, hasardrate ut av ledighet ved kortere ma) står på oppgitt side
+- OK   3 estimat=2 rad 591 (W7132535851, hasardrate ut av ledighet ved kortere ma) står i sitatet
+- OK   2 sitat rad 592 (W7115393235, eldre ledige med forlenget rett: andel s) står på oppgitt side
+- OK   3 estimat=50 rad 592 (W7115393235, eldre ledige med forlenget rett: andel s) står i sitatet
+- OK   2 sitat rad 593 (W7115393235, eldre ledige som er aktive: overgang til) står på oppgitt side
+- OK   2 sitat rad 594 (W2625691422, andel som har kommet i arbeid i løpet av) står på oppgitt side
+- OK   3 estimat=6 rad 594 (W2625691422, andel som har kommet i arbeid i løpet av) står i sitatet
+- OK   2 sitat rad 595 (W2625691422, lønnstap i ny jobb mot lønn før ledighet) står på oppgitt side
+- OK   3 estimat=13 rad 595 (W2625691422, lønnstap i ny jobb mot lønn før ledighet) står i sitatet
+- OK   2 sitat rad 596 (W2625691422, stabilitet i ny jobb: ikke signifikant b) står på oppgitt side
+- OK   2 sitat rad 597 (W2742833837, stønadsvarighet i uker per ekstra uke re) står på oppgitt side
+- OK   3 estimat=0.07 rad 597 (W2742833837, stønadsvarighet i uker per ekstra uke re) står i sitatet
+- OK   2 sitat rad 598 (W1969931627, oversikt over optimal utforming av arbei) står på oppgitt side
+- OK   2 sitat rad 599 (W4287127381, overgang til arbeid ved koronatillegget ) står på oppgitt side
+- OK   2 sitat rad 602 (W2889779885, andel av økt ledighetsvarighet fra høyer) står på oppgitt side
+- OK   3 estimat=60 rad 602 (W2889779885, andel av økt ledighetsvarighet fra høyer) står i sitatet
+- OK   2 sitat rad 603 (W2889779885, ledige med likviditetsbegrensning: mye s) står på oppgitt side
+- OK   2 sitat rad 604 (W2888034736, ledighetsraten på delstatsnivå ved forle) står på oppgitt side
+- OK   3 estimat=0.3 rad 604 (W2888034736, ledighetsraten på delstatsnivå ved forle) står i sitatet
+- OK   2 sitat rad 605 (W2136880856, ledighetsvarighet blant eldre ved lengre) står på oppgitt side
+- OK   2 sitat rad 606 (W2079842304, varighetsavhengighet i ledighet blant da) står på oppgitt side
+- OK   2 sitat rad 607 (W2111511143, avgang fra ledighet til ulike utfall ved) står på oppgitt side
+- OK   2 sitat rad 608 (W2063014125, permitterte: forventning om tilbakekalli) står på oppgitt side
+- OK   2 sitat rad 609 (W2093753222, gjenansettelsesbonus (beslektet tiltak):) står på oppgitt side
+- OK   2 sitat rad 610 (W1590810164, ledighetsvarighet ved lengre periode i t) står på oppgitt side
+- OK   2 sitat rad 611 (W2303782673, ingen effektestimat i sammendraget (over) står på oppgitt side
+- OK   2 sitat rad 612 (W1987103217, ingen effektestimat i sammendraget (innh) står på oppgitt side
+- OK   2 sitat rad 613 (W3121819355, demping av effekten av negative sjokk på) står på oppgitt side
+- OK   3 estimat=7 rad 613 (W3121819355, demping av effekten av negative sjokk på) står i sitatet
+- OK   2 sitat rad 614 (W3121819355, demping av effekten av negative sjokk på) står på oppgitt side
+- OK   3 estimat=6 rad 614 (W3121819355, demping av effekten av negative sjokk på) står i sitatet
+- OK   2 sitat rad 615 (W4317771147, pendleavstand i akseptert jobb; ingen ta) står på oppgitt side
+- OK   2 sitat rad 616 (W1593683321, ledighetsvarighet; ingen tall i sammendr) står på oppgitt side
+- OK   2 sitat rad 617 (W1593683321, ledighetsvarighet; ingen tall i sammendr) står på oppgitt side
+- OK   2 sitat rad 618 (W2123422090, reduksjon i standardavviket for arbeidsl) står på oppgitt side
+- OK   3 estimat=37 rad 618 (W2123422090, reduksjon i standardavviket for arbeidsl) står i sitatet
+- OK   2 sitat rad 619 (W2123422090, økning i arbeidsledighetsraten av EUC-pr) står på oppgitt side
+- OK   3 estimat=0.5 rad 619 (W2123422090, økning i arbeidsledighetsraten av EUC-pr) står i sitatet
+- OK   2 sitat rad 620 (W2285522566, ingen effektestimat i sammendraget (leng) står på oppgitt side
+- OK   2 sitat rad 621 (W1557642463, sannsynlighet for gjenansettelse; ingen ) står på oppgitt side
+- OK   2 sitat rad 622 (W1557460860, sannsynlighet for overgang til jobb, rel) står på oppgitt side
+- OK   3 estimat=2 rad 622 (W1557460860, sannsynlighet for overgang til jobb, rel) står i sitatet
+- OK   2 sitat rad 623 (W1557460860, sannsynlighet for overgang til jobb, rel) står på oppgitt side
+- OK   3 estimat=3 rad 623 (W1557460860, sannsynlighet for overgang til jobb, rel) står i sitatet
+- OK   2 sitat rad 624 (W2920055265, jobbsøking i jobb og jobb-til-jobb-overg) står på oppgitt side
+- OK   2 sitat rad 625 (W4256320148, ingen effektestimat i sammendraget (dekn) står på oppgitt side
+- OK   2 sitat rad 626 (W4383811238, ingen effektestimat i sammendraget (drøf) står på oppgitt side
+- OK   2 sitat rad 627 (W2139481344, avgang fra ledighet; ingen tall i sammen) står på oppgitt side
+- OK   2 sitat rad 628 (W3124866141, avgang fra ledighet til arbeid; ingen ta) står på oppgitt side
+- OK   2 sitat rad 629 (W1572508825, andel sysselsatte menn som arbeidet unde) står på oppgitt side
+- OK   3 estimat=6 rad 629 (W1572508825, andel sysselsatte menn som arbeidet unde) står i sitatet
+- OK   2 sitat rad 630 (W1572508825, andel sysselsatte menn som arbeidet unde) står på oppgitt side
+- OK   3 estimat=20 rad 630 (W1572508825, andel sysselsatte menn som arbeidet unde) står i sitatet
+- OK   2 sitat rad 631 (W1572508825, andel av forskjellen i få arbeidsuker so) står på oppgitt side
+- OK   3 estimat=0.67 rad 631 (W1572508825, andel av forskjellen i få arbeidsuker so) står i sitatet
+- OK   2 sitat rad 632 (W3108139024, reduksjon i avgangsraten til arbeid) står på oppgitt side
+- OK   3 estimat=28 rad 632 (W3108139024, reduksjon i avgangsraten til arbeid) står i sitatet
+- OK   2 sitat rad 633 (W3108139024, økning i ledighetsvarighet, måneder (tal) står på oppgitt side
+- OK   3 estimat=2.5 rad 633 (W3108139024, økning i ledighetsvarighet, måneder (tal) står i sitatet
+- OK   2 sitat rad 634 (W3108139024, jobbstabilitet og lønn i ny jobb; ingen ) står på oppgitt side
+- OK   2 sitat rad 635 (W3122426253, ingen effektestimat i sammendraget (over) står på oppgitt side
+- OK   2 sitat rad 637 (W4402681417, lengre periode uten arbeid, uker (tallet) står på oppgitt side
+- OK   3 estimat=2 rad 637 (W4402681417, lengre periode uten arbeid, uker (tallet) står i sitatet
+- OK   2 sitat rad 638 (W4402681417, fiskal eksternalitet som andel av kostna) står på oppgitt side
+- OK   3 estimat=16 rad 638 (W4402681417, fiskal eksternalitet som andel av kostna) står i sitatet
+- OK   2 sitat rad 639 (W2472019236, nedgang i månedlig avgangsrate) står på oppgitt side
+- OK   3 estimat=1 rad 639 (W2472019236, nedgang i månedlig avgangsrate) står i sitatet
+- OK   2 sitat rad 640 (W2472019236, økning i ledighetsvarighet, uker) står på oppgitt side
+- OK   3 estimat=0.4 rad 640 (W2472019236, økning i ledighetsvarighet, uker) står i sitatet
+- OK   2 sitat rad 641 (W2472019236, elastisitet av ledighetsvarighet mht. da) står på oppgitt side
+- OK   3 estimat=0.2 rad 641 (W2472019236, elastisitet av ledighetsvarighet mht. da) står i sitatet
+- OK   2 sitat rad 642 (W2472019236, elastisitet av ledighetsvarighet mht. da) står på oppgitt side
+- OK   3 estimat=0.6 rad 642 (W2472019236, elastisitet av ledighetsvarighet mht. da) står i sitatet
+- OK   2 sitat rad 643 (W3204921228, ingen effektestimat i sammendraget (komm) står på oppgitt side
+- OK   2 sitat rad 644 (W643766443, innmelding i a-kasse, ikke overgang til ) står på oppgitt side
+- OK   2 sitat rad 645 (W2954218538, fall i lønn etter ledighet for dem som k) står på oppgitt side
+- OK   3 estimat=10 rad 645 (W2954218538, fall i lønn etter ledighet for dem som k) står i sitatet
+- OK   2 sitat rad 646 (W4408972552, andel av nedgangen i ledighet etter refo) står på oppgitt side
+- OK   3 estimat=76 rad 646 (W4408972552, andel av nedgangen i ledighet etter refo) står i sitatet
+- OK   2 sitat rad 647 (W3121789469, eldre arbeidstakere: tilgang til ledighe) står på oppgitt side
+- OK   2 sitat rad 648 (W1581199929, eldre i berørte regioner: innstrømning t) står på oppgitt side
+- OK   3 estimat=4 rad 648 (W1581199929, eldre i berørte regioner: innstrømning t) står i sitatet
+- OK   2 sitat rad 649 (W1581199929, eldre i berørte regioner: innstrømning t) står på oppgitt side
+- OK   3 estimat=11 rad 649 (W1581199929, eldre i berørte regioner: innstrømning t) står i sitatet
+- OK   2 sitat rad 650 (W2966573359, eldre (over 44 år): overgang til jobb og) står på oppgitt side
+- OK   2 sitat rad 651 (W4282002757, sysselsetting i september 2021) står på oppgitt side
+- OK   3 estimat=6.8 rad 651 (W4282002757, sysselsetting i september 2021) står i sitatet
+- OK   2 sitat rad 652 (W4282002757, akkumulert arbeidsinntekt, økning i doll) står på oppgitt side
+- OK   3 estimat=292 rad 652 (W4282002757, akkumulert arbeidsinntekt, økning i doll) står i sitatet
+- OK   2 sitat rad 653 (W2324682700, elastisitet av ledighetsvarighet mht. da) står på oppgitt side
+- OK   3 estimat=0.1 rad 653 (W2324682700, elastisitet av ledighetsvarighet mht. da) står i sitatet
+- OK   2 sitat rad 654 (W2324682700, elastisitet av ledighetsvarighet mht. da) står på oppgitt side
+- OK   3 estimat=0.2 rad 654 (W2324682700, elastisitet av ledighetsvarighet mht. da) står i sitatet
+- OK   2 sitat rad 655 (W2549561589, 54–56 år: risiko for ledighet og ledighe) står på oppgitt side
+- OK   2 sitat rad 656 (W4379931147, 52–54 år: avgang fra ledighet til jobb; ) står på oppgitt side
+- OK   2 sitat rad 657 (W4361195520, ledighetsvarighet og lønn ved ny jobb; i) står på oppgitt side
+- OK   2 sitat rad 658 (W25939613, varighet uten jobb; ingen tall i sammend) står på oppgitt side
+- OK   2 sitat rad 659 (W2942832188, overgang til heltid, deltid og midlertid) står på oppgitt side
+- OK   2 sitat rad 660 (W2133474130, kvinner: sannsynlighet for jobbsøking, n) står på oppgitt side
+- OK   3 estimat=10 rad 660 (W2133474130, kvinner: sannsynlighet for jobbsøking, n) står i sitatet
+- OK   2 sitat rad 661 (W2161740142, eldre i berørte regioner: ledighet, tils) står på oppgitt side
+- OK   2 sitat rad 662 (W2973195085, ledighet etter Hartz-reformen (kortere o) står på oppgitt side
+- OK   2 sitat rad 663 (W2008230484, antall av 10 tilbudt som fikk utbetalt l) står på oppgitt side
+- OK   3 estimat=2 rad 663 (W2008230484, antall av 10 tilbudt som fikk utbetalt l) står i sitatet
+- OK   2 sitat rad 664 (W1608855302, eldre: risiko for ledighet og gjeninntre) står på oppgitt side
+- OK   2 sitat rad 665 (W1608855302, eldre med forlengede dagpenger: andel so) står på oppgitt side
+- OK   3 estimat=50 rad 665 (W1608855302, eldre med forlengede dagpenger: andel so) står i sitatet
+- OK   2 sitat rad 666 (W3125949391, langsiktig effekt av forlenget dagpengep) står på oppgitt side
+- OK   2 sitat rad 667 (W2035958812, varighet av ledighet med dagpenger; inge) står på oppgitt side
+- OK   2 sitat rad 668 (W1483371894, reduksjon i varighet av ledighet med dag) står på oppgitt side
+- OK   3 estimat=1.8 rad 668 (W1483371894, reduksjon i varighet av ledighet med dag) står i sitatet
+- OK   2 sitat rad 669 (W1483371894, reduksjon i varighet av ledighet med dag) står på oppgitt side
+- OK   3 estimat=0.75 rad 669 (W1483371894, reduksjon i varighet av ledighet med dag) står i sitatet
+- OK   2 sitat rad 670 (W4401996784, jobbfinning; ingen tall i sammendraget () står på oppgitt side
+- OK   2 sitat rad 671 (W2090412054, elastisitet av tapt arbeidstid (tilstrøm) står på oppgitt side
+- OK   3 estimat=1.0 rad 671 (W2090412054, elastisitet av tapt arbeidstid (tilstrøm) står i sitatet
+- OK   2 sitat rad 672 (W2080288345, avgang til jobb; ingen tall i sammendrag) står på oppgitt side
+- OK   2 sitat rad 673 (W2069571250, varighetsavhengighet i overgang til jobb) står på oppgitt side
+- OK   2 sitat rad 675 (W2253734281, dagpengemottak; ingen tall i sammendrage) står på oppgitt side
+- OK   2 sitat rad 676 (W4214890761, dagpengeutbetalinger ved målrettet bonus) står på oppgitt side
+- OK   2 sitat rad 677 (W1986744604, eldre: arbeidsmarkedsatferd; ingen tall ) står på oppgitt side
+- OK   2 sitat rad 679 (W1966782564, ingen effektestimat i sammendraget; gjen) står på oppgitt side
+- OK   2 sitat rad 681 (W2101455510, overgang fra ledighet til arbeid, nedre ) står på oppgitt side
+- OK   3 estimat=4 rad 681 (W2101455510, overgang fra ledighet til arbeid, nedre ) står i sitatet
+- OK   2 sitat rad 682 (W2101455510, overgang fra ledighet til arbeid, øvre a) står på oppgitt side
+- OK   3 estimat=7 rad 682 (W2101455510, overgang fra ledighet til arbeid, øvre a) står i sitatet
+- OK   2 sitat rad 683 (W4386988210, overgang fra ledighet til arbeid, arbeid) står på oppgitt side
+- OK   3 estimat=67 rad 683 (W4386988210, overgang fra ledighet til arbeid, arbeid) står i sitatet
+- OK   2 sitat rad 684 (W2009803705, ingen effektestimat i sammendraget; over) står på oppgitt side
+- OK   2 sitat rad 685 (W2049799687, ingen effektestimat i sammendraget; over) står på oppgitt side
+- OK   2 sitat rad 686 (W3088312345, ingen effektestimat i sammendraget; inns) står på oppgitt side
+- OK   2 sitat rad 687 (W2045017890, sannsynlighet for å komme i arbeid, unge) står på oppgitt side
+- OK   2 sitat rad 689 (W4407217164, ingen effektestimat i sammendraget; gjen) står på oppgitt side
+- OK   2 sitat rad 690 (W7164190541, ingen effektestimat i sammendraget; pers) står på oppgitt side
+- OK   2 sitat rad 691 (W2163718867, ledighetsvarighet etter oppsigelse, uker) står på oppgitt side
+- OK   3 estimat=4.6 rad 691 (W2163718867, ledighetsvarighet etter oppsigelse, uker) står i sitatet
+- OK   2 sitat rad 692 (W2163718867, lønn i ny jobb (lavere uten rett til dag) står på oppgitt side
+- OK   3 estimat=9 rad 692 (W2163718867, lønn i ny jobb (lavere uten rett til dag) står i sitatet
+- OK   2 sitat rad 694 (W4387666475, ingen effektestimat i sammendraget; makr) står på oppgitt side
+- OK   2 sitat rad 695 (W3124238623, andel menn i yrkesaktiv alder som arbeid) står på oppgitt side
+- OK   3 estimat=25.6 rad 695 (W3124238623, andel menn i yrkesaktiv alder som arbeid) står i sitatet
+- OK   2 sitat rad 696 (W3124238623, andel av forskjellen i deltidsårsarbeid ) står på oppgitt side
+- OK   3 estimat=75 rad 696 (W3124238623, andel av forskjellen i deltidsårsarbeid ) står i sitatet
+- OK   2 sitat rad 697 (W3123661404, ingen effektestimat i sammendraget; forl) står på oppgitt side
+- OK   2 sitat rad 698 (W7143357590, ingen effektestimat i sammendraget; refo) står på oppgitt side
+- OK   2 sitat rad 699 (W53478664, jobbstabilitet ved kortere dagpengeperio) står på oppgitt side
+- OK   3 estimat=4.3 rad 699 (W53478664, jobbstabilitet ved kortere dagpengeperio) står i sitatet
+- OK   2 sitat rad 700 (W53478664, ingen effektestimat; lengre periode gir ) står på oppgitt side
+- OK   2 sitat rad 701 (W7148701738, ingen effektestimat i sammendraget; lave) står på oppgitt side
+- OK   2 sitat rad 702 (W2116703166, sannsynlighet for å komme i arbeid, ledi) står på oppgitt side
+- OK   3 estimat=16 rad 702 (W2116703166, sannsynlighet for å komme i arbeid, ledi) står i sitatet
+- OK   2 sitat rad 705 (W1982492741, ingen effektestimat i sammendraget; rett) står på oppgitt side
+- OK   2 sitat rad 707 (W4285294026, varighet av registrert ledighet, elastis) står på oppgitt side
+- OK   3 estimat=0.2 rad 707 (W4285294026, varighet av registrert ledighet, elastis) står i sitatet
+- OK   2 sitat rad 708 (W4285294026, varighet av registrert ledighet, elastis) står på oppgitt side
+- OK   3 estimat=5.3 rad 708 (W4285294026, varighet av registrert ledighet, elastis) står i sitatet
+- OK   2 sitat rad 709 (W3121317656, andel ledige som ikke kan øke husholdnin) står på oppgitt side
+- OK   3 estimat=8 rad 709 (W3121317656, andel ledige som ikke kan øke husholdnin) står i sitatet
+- OK   2 sitat rad 710 (W3121317656, andel ledige med inntektsøkning på 25 pr) står på oppgitt side
+- OK   3 estimat=43 rad 710 (W3121317656, andel ledige med inntektsøkning på 25 pr) står i sitatet
+- OK   2 sitat rad 711 (W3121317656, sannsynlighet for å komme i arbeid: forv) står på oppgitt side
+- OK   2 sitat rad 712 (W1555405752, lønn, jobbkvalitet og tilknytning til ar) står på oppgitt side
+- OK   2 sitat rad 713 (W3162008734, sysselsetting på kort sikt for fortrengt) står på oppgitt side
+- OK   2 sitat rad 715 (W4401689619, elastisitet for maksimal periode, korrig) står på oppgitt side
+- OK   3 estimat=0.09 rad 715 (W4401689619, elastisitet for maksimal periode, korrig) står i sitatet
+- OK   2 sitat rad 716 (W4401689619, elastisitet for dekningsgrad, korrigert ) står på oppgitt side
+- OK   3 estimat=0.21 rad 716 (W4401689619, elastisitet for dekningsgrad, korrigert ) står i sitatet
+- OK   7 statistikk rad 1 (Nav ARBS058, Mottakere av dagpenger, i alt) har alle felt
+- OK   7 statistikk rad 1 (Nav ARBS058, Mottakere av dagpenger, i alt) verdien 46292 står i statistikk/nav-arbs058-maneder-med-dagpenger.tsv
+- OK   7 statistikk rad 2 (Nav HL090, Helt ledige, landet) har alle felt
+- OK   7 statistikk rad 2 (Nav HL090, Helt ledige, landet) verdien 63036 står i statistikk/nav-helt-ledige-fylke-aar.tsv
+- OK   7 statistikk rad 3 (Nav Stønadsmottakere 2007–2016, Dagpengemottakere) har alle felt
+- OK   7 statistikk rad 3 (Nav Stønadsmottakere 2007–2016, Dagpengemottakere) verdien 75668 står i statistikk/nav-stonadsmottakere-2007-2016.tsv
+- OK   7 statistikk rad 4 (OECD OECD.ELS.JAI,DSD_TAXBEN_NRR@DF_NRR, Netto kompensasjonsgrad NOR, M2, enslig ) har alle felt
+- OK   7 statistikk rad 4 (OECD OECD.ELS.JAI,DSD_TAXBEN_NRR@DF_NRR, Netto kompensasjonsgrad NOR, M2, enslig ) verdien 67 står i statistikk/oecd-kompensasjonsgrad-ledighet.tsv
+- OK   7 statistikk rad 5 (OECD OECD.ELS.JAI,DSD_TAXBEN_NRR@DF_NRR, Netto kompensasjonsgrad NOR, M12, enslig) har alle felt
+- OK   7 statistikk rad 5 (OECD OECD.ELS.JAI,DSD_TAXBEN_NRR@DF_NRR, Netto kompensasjonsgrad NOR, M12, enslig) verdien 67 står i statistikk/oecd-kompensasjonsgrad-ledighet.tsv
+- OK   7 statistikk rad 6 (OECD OECD.ELS.JAI,DSD_TAXBEN_NRR@DF_NRR, Netto kompensasjonsgrad NOR, M60, enslig) har alle felt
+- OK   7 statistikk rad 6 (OECD OECD.ELS.JAI,DSD_TAXBEN_NRR@DF_NRR, Netto kompensasjonsgrad NOR, M60, enslig) verdien 0 står i statistikk/oecd-kompensasjonsgrad-ledighet.tsv
+- OK   7 statistikk rad 7 (OECD OECD.ELS.JAI,DSD_TAXBEN_NRR@DF_NRR, Netto kompensasjonsgrad DNK, M2, enslig ) har alle felt
+- OK   7 statistikk rad 7 (OECD OECD.ELS.JAI,DSD_TAXBEN_NRR@DF_NRR, Netto kompensasjonsgrad DNK, M2, enslig ) verdien 85 står i statistikk/oecd-kompensasjonsgrad-ledighet.tsv
+- OK   7 statistikk rad 8 (OECD OECD.ELS.JAI,DSD_TAXBEN_NRR@DF_NRR, Netto kompensasjonsgrad DNK, M60, enslig) har alle felt
+- OK   7 statistikk rad 8 (OECD OECD.ELS.JAI,DSD_TAXBEN_NRR@DF_NRR, Netto kompensasjonsgrad DNK, M60, enslig) verdien 0 står i statistikk/oecd-kompensasjonsgrad-ledighet.tsv
+- OK   7 statistikk rad 9 (OECD OECD.ELS.JAI,DSD_TAXBEN_NRR@DF_NRR, Netto kompensasjonsgrad SWE, M60, enslig) har alle felt
+- OK   7 statistikk rad 9 (OECD OECD.ELS.JAI,DSD_TAXBEN_NRR@DF_NRR, Netto kompensasjonsgrad SWE, M60, enslig) verdien 60 står i statistikk/oecd-kompensasjonsgrad-ledighet.tsv
+- OK   7 statistikk rad 10 (OECD OECD.ELS.JAI,DSD_TAXBEN_NRR@DF_NRR, Netto kompensasjonsgrad USA, M2, enslig ) har alle felt
+- OK   7 statistikk rad 10 (OECD OECD.ELS.JAI,DSD_TAXBEN_NRR@DF_NRR, Netto kompensasjonsgrad USA, M2, enslig ) verdien 47 står i statistikk/oecd-kompensasjonsgrad-ledighet.tsv
+- OK   7 statistikk rad 11 (OECD OECD.ELS.JAI,DSD_TAXBEN_NRR@DF_NRR, Netto kompensasjonsgrad USA, M12, enslig) har alle felt
+- OK   7 statistikk rad 11 (OECD OECD.ELS.JAI,DSD_TAXBEN_NRR@DF_NRR, Netto kompensasjonsgrad USA, M12, enslig) verdien 0 står i statistikk/oecd-kompensasjonsgrad-ledighet.tsv
+- OK   8 figur-1-ledige-dagpenger: Helt ledige (HL090) 2009 = 69267 står i statistikk/nav-helt-ledige-fylke-aar.tsv
+- OK   8 figur-1-ledige-dagpenger: Helt ledige (HL090) 2010 = 74643 står i statistikk/nav-helt-ledige-fylke-aar.tsv
+- OK   8 figur-1-ledige-dagpenger: Helt ledige (HL090) 2011 = 69395 står i statistikk/nav-helt-ledige-fylke-aar.tsv
+- OK   8 figur-1-ledige-dagpenger: Helt ledige (HL090) 2012 = 65682 står i statistikk/nav-helt-ledige-fylke-aar.tsv
+- OK   8 figur-1-ledige-dagpenger: Helt ledige (HL090) 2013 = 69719 står i statistikk/nav-helt-ledige-fylke-aar.tsv
+- OK   8 figur-1-ledige-dagpenger: Helt ledige (HL090) 2014 = 75254 står i statistikk/nav-helt-ledige-fylke-aar.tsv
+- OK   8 figur-1-ledige-dagpenger: Helt ledige (HL090) 2015 = 80561 står i statistikk/nav-helt-ledige-fylke-aar.tsv
+- OK   8 figur-1-ledige-dagpenger: Helt ledige (HL090) 2016 = 83813 står i statistikk/nav-helt-ledige-fylke-aar.tsv
+- OK   8 figur-1-ledige-dagpenger: Helt ledige (HL090) 2017 = 74235 står i statistikk/nav-helt-ledige-fylke-aar.tsv
+- OK   8 figur-1-ledige-dagpenger: Helt ledige (HL090) 2018 = 65548 står i statistikk/nav-helt-ledige-fylke-aar.tsv
+- OK   8 figur-1-ledige-dagpenger: Helt ledige (HL090) 2019 = 63451 står i statistikk/nav-helt-ledige-fylke-aar.tsv
+- OK   8 figur-1-ledige-dagpenger: Helt ledige (HL090) 2020 = 141939 står i statistikk/nav-helt-ledige-fylke-aar.tsv
+- OK   8 figur-1-ledige-dagpenger: Helt ledige (HL090) 2021 = 88862 står i statistikk/nav-helt-ledige-fylke-aar.tsv
+- OK   8 figur-1-ledige-dagpenger: Helt ledige (HL090) 2022 = 52148 står i statistikk/nav-helt-ledige-fylke-aar.tsv
+- OK   8 figur-1-ledige-dagpenger: Helt ledige (HL090) 2023 = 53110 står i statistikk/nav-helt-ledige-fylke-aar.tsv
+- OK   8 figur-1-ledige-dagpenger: Helt ledige (HL090) 2024 = 59836 står i statistikk/nav-helt-ledige-fylke-aar.tsv
+- OK   8 figur-1-ledige-dagpenger: Helt ledige (HL090) 2025 = 63036 står i statistikk/nav-helt-ledige-fylke-aar.tsv
+- OK   8 figur-1-ledige-dagpenger: Dagpengemottakere 2009 = 61157 står i statistikk/nav-stonadsmottakere-2007-2016.tsv
+- OK   8 figur-1-ledige-dagpenger: Dagpengemottakere 2010 = 68999 står i statistikk/nav-stonadsmottakere-2007-2016.tsv
+- OK   8 figur-1-ledige-dagpenger: Dagpengemottakere 2011 = 59765 står i statistikk/nav-stonadsmottakere-2007-2016.tsv
+- OK   8 figur-1-ledige-dagpenger: Dagpengemottakere 2012 = 53120 står i statistikk/nav-stonadsmottakere-2007-2016.tsv
+- OK   8 figur-1-ledige-dagpenger: Dagpengemottakere 2013 = 53685 står i statistikk/nav-stonadsmottakere-2007-2016.tsv
+- OK   8 figur-1-ledige-dagpenger: Dagpengemottakere 2014 = 58792 står i statistikk/nav-stonadsmottakere-2007-2016.tsv
+- OK   8 figur-1-ledige-dagpenger: Dagpengemottakere 2015 = 67161 står i statistikk/nav-stonadsmottakere-2007-2016.tsv
+- OK   8 figur-1-ledige-dagpenger: Dagpengemottakere 2016 = 75668 står i statistikk/nav-stonadsmottakere-2007-2016.tsv
+- OK   8 figur-2-maneder-med-dagpenger: Oktober 2026 0 = 3177 står i statistikk/nav-arbs058-maneder-med-dagpenger.tsv
+- OK   8 figur-2-maneder-med-dagpenger: Oktober 2026 1 = 3729 står i statistikk/nav-arbs058-maneder-med-dagpenger.tsv
+- OK   8 figur-2-maneder-med-dagpenger: Oktober 2026 2 = 3771 står i statistikk/nav-arbs058-maneder-med-dagpenger.tsv
+- OK   8 figur-2-maneder-med-dagpenger: Oktober 2026 3 = 3545 står i statistikk/nav-arbs058-maneder-med-dagpenger.tsv
+- OK   8 figur-2-maneder-med-dagpenger: Oktober 2026 4 = 2577 står i statistikk/nav-arbs058-maneder-med-dagpenger.tsv
+- OK   8 figur-2-maneder-med-dagpenger: Oktober 2026 5 = 2079 står i statistikk/nav-arbs058-maneder-med-dagpenger.tsv
+- OK   8 figur-2-maneder-med-dagpenger: Oktober 2026 6 = 2832 står i statistikk/nav-arbs058-maneder-med-dagpenger.tsv
+- OK   8 figur-2-maneder-med-dagpenger: Oktober 2026 7 = 2111 står i statistikk/nav-arbs058-maneder-med-dagpenger.tsv
+- OK   8 figur-2-maneder-med-dagpenger: Oktober 2026 8 = 2077 står i statistikk/nav-arbs058-maneder-med-dagpenger.tsv
+- OK   8 figur-2-maneder-med-dagpenger: Oktober 2026 9 = 2461 står i statistikk/nav-arbs058-maneder-med-dagpenger.tsv
+- OK   8 figur-2-maneder-med-dagpenger: Oktober 2026 10 = 1703 står i statistikk/nav-arbs058-maneder-med-dagpenger.tsv
+- OK   8 figur-2-maneder-med-dagpenger: Oktober 2026 11 = 1737 står i statistikk/nav-arbs058-maneder-med-dagpenger.tsv
+- OK   8 figur-2-maneder-med-dagpenger: Oktober 2026 12 = 1886 står i statistikk/nav-arbs058-maneder-med-dagpenger.tsv
+- OK   8 figur-2-maneder-med-dagpenger: Oktober 2026 13 = 1466 står i statistikk/nav-arbs058-maneder-med-dagpenger.tsv
+- OK   8 figur-2-maneder-med-dagpenger: Oktober 2026 14 = 1273 står i statistikk/nav-arbs058-maneder-med-dagpenger.tsv
+- OK   8 figur-2-maneder-med-dagpenger: Oktober 2026 15 = 1441 står i statistikk/nav-arbs058-maneder-med-dagpenger.tsv
+- OK   8 figur-2-maneder-med-dagpenger: Oktober 2026 16 = 1016 står i statistikk/nav-arbs058-maneder-med-dagpenger.tsv
+- OK   8 figur-2-maneder-med-dagpenger: Oktober 2026 17 = 913 står i statistikk/nav-arbs058-maneder-med-dagpenger.tsv
+- OK   8 figur-2-maneder-med-dagpenger: Oktober 2026 18 = 1227 står i statistikk/nav-arbs058-maneder-med-dagpenger.tsv
+- OK   8 figur-2-maneder-med-dagpenger: Oktober 2026 19 = 966 står i statistikk/nav-arbs058-maneder-med-dagpenger.tsv
+- OK   8 figur-2-maneder-med-dagpenger: Oktober 2026 20 = 940 står i statistikk/nav-arbs058-maneder-med-dagpenger.tsv
+- OK   8 figur-2-maneder-med-dagpenger: Oktober 2026 21 = 1148 står i statistikk/nav-arbs058-maneder-med-dagpenger.tsv
+- OK   8 figur-2-maneder-med-dagpenger: Oktober 2026 22 = 779 står i statistikk/nav-arbs058-maneder-med-dagpenger.tsv
+- OK   8 figur-2-maneder-med-dagpenger: Oktober 2026 23 = 714 står i statistikk/nav-arbs058-maneder-med-dagpenger.tsv
+- OK   8 figur-2-maneder-med-dagpenger: Oktober 2026 24 = 717 står i statistikk/nav-arbs058-maneder-med-dagpenger.tsv
+- OK   8 figur-3-kompensasjonsgrad: Etter 2 måneder Norge = 67 står i statistikk/oecd-kompensasjonsgrad-ledighet.tsv
+- OK   8 figur-3-kompensasjonsgrad: Etter 2 måneder Sverige = 72 står i statistikk/oecd-kompensasjonsgrad-ledighet.tsv
+- OK   8 figur-3-kompensasjonsgrad: Etter 2 måneder Danmark = 85 står i statistikk/oecd-kompensasjonsgrad-ledighet.tsv
+- OK   8 figur-3-kompensasjonsgrad: Etter 2 måneder Finland = 57 står i statistikk/oecd-kompensasjonsgrad-ledighet.tsv
+- OK   8 figur-3-kompensasjonsgrad: Etter 2 måneder Tyskland = 60 står i statistikk/oecd-kompensasjonsgrad-ledighet.tsv
+- OK   8 figur-3-kompensasjonsgrad: Etter 2 måneder Storbritannia = 17 står i statistikk/oecd-kompensasjonsgrad-ledighet.tsv
+- OK   8 figur-3-kompensasjonsgrad: Etter 2 måneder USA = 47 står i statistikk/oecd-kompensasjonsgrad-ledighet.tsv
+- OK   8 figur-3-kompensasjonsgrad: Etter 12 måneder Norge = 67 står i statistikk/oecd-kompensasjonsgrad-ledighet.tsv
+- OK   8 figur-3-kompensasjonsgrad: Etter 12 måneder Sverige = 64 står i statistikk/oecd-kompensasjonsgrad-ledighet.tsv
+- OK   8 figur-3-kompensasjonsgrad: Etter 12 måneder Danmark = 73 står i statistikk/oecd-kompensasjonsgrad-ledighet.tsv
+- OK   8 figur-3-kompensasjonsgrad: Etter 12 måneder Finland = 57 står i statistikk/oecd-kompensasjonsgrad-ledighet.tsv
+- OK   8 figur-3-kompensasjonsgrad: Etter 12 måneder Tyskland = 60 står i statistikk/oecd-kompensasjonsgrad-ledighet.tsv
+- OK   8 figur-3-kompensasjonsgrad: Etter 12 måneder Storbritannia = 17 står i statistikk/oecd-kompensasjonsgrad-ledighet.tsv
+- OK   8 figur-3-kompensasjonsgrad: Etter 12 måneder USA = 0 står i statistikk/oecd-kompensasjonsgrad-ledighet.tsv
+- OK   8 figur-3-kompensasjonsgrad: Etter 60 måneder Norge = 0 står i statistikk/oecd-kompensasjonsgrad-ledighet.tsv
+- OK   8 figur-3-kompensasjonsgrad: Etter 60 måneder Sverige = 60 står i statistikk/oecd-kompensasjonsgrad-ledighet.tsv
+- OK   8 figur-3-kompensasjonsgrad: Etter 60 måneder Danmark = 0 står i statistikk/oecd-kompensasjonsgrad-ledighet.tsv
+- OK   8 figur-3-kompensasjonsgrad: Etter 60 måneder Finland = 30 står i statistikk/oecd-kompensasjonsgrad-ledighet.tsv
+- OK   8 figur-3-kompensasjonsgrad: Etter 60 måneder Tyskland = 24 står i statistikk/oecd-kompensasjonsgrad-ledighet.tsv
+- OK   8 figur-3-kompensasjonsgrad: Etter 60 måneder Storbritannia = 17 står i statistikk/oecd-kompensasjonsgrad-ledighet.tsv
+- OK   8 figur-3-kompensasjonsgrad: Etter 60 måneder USA = 0 står i statistikk/oecd-kompensasjonsgrad-ledighet.tsv
+- OK   8 figuren figurer/figur-1-ledige-dagpenger.png er laget
+- OK   8 figuren figurer/figur-1-ledige-dagpenger.png er lenket i svaret
+- OK   8 figuren figurer/figur-2-maneder-med-dagpenger.png er laget
+- OK   8 figuren figurer/figur-2-maneder-med-dagpenger.png er lenket i svaret
+- OK   8 figuren figurer/figur-3-kompensasjonsgrad.png er laget
+- OK   8 figuren figurer/figur-3-kompensasjonsgrad.png er lenket i svaret
+- OK   5 tallet 0 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 0.006 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 0.06 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 0.07 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 0.09 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 0.11 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 0.13 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 0.15 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 0.2 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 0.21 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 0.23 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 0.25 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 0.3 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 0.34 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 0.35 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 0.37 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 0.4 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 0.43 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 0.46 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 0.5 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 0.52 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 0.53 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 0.6 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 0.65 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 0.8 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 0.80 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 0.9 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 0.99 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 058 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 090 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 1.00 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 1.03 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 1.10 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 1.17 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 1.3 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 1.5 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 1.53 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 1.6 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 10.1 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 12 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 15 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 150 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 16 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 18 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 2.3 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 2.5 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 22 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 24 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 26 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 28 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 28.1 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 30 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 3000 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 36 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 4.3 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 40 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 46292 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 47 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 48 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 5.86 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 50 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 57 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 60 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 600 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 63 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 63036 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 67 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 7.43 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 75 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 75668 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 8.7 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 80 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 85 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 95 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 97 i svaret finnes i estimat- eller statistikktabellen
+- OK   6 utelatt W2003307443 «Psychological and Physical Well-Being During Unemployment: A Meta-Anal» (2005) – psykisk og fysisk helse ved ledighet, ikke overgang til arbeid
+- OK   6 utelatt W2934791458 «The longitudinal integrated database for health insurance and labour m» (2019) – beskrivelse av svensk registerdatabase, ingen analyse av dagpenger
+- OK   6 utelatt W2008044738 «Social welfare matters: A realist review of when, how, and why unemplo» (2015) – fattigdom og helse, ikke overgang til arbeid
+- OK   6 utelatt W2616927759 «The impact of partisanship in the era of retrenchment: Insights from q» (2019) – politisk eller institusjonell analyse, ikke effekt på overgang til arbeid
+- OK   6 utelatt W3213999737 «National or population level interventions addressing the social deter» (2021) – psykisk helse, ikke dagpenger eller overgang til arbeid
+- OK   6 utelatt W2956924494 «PROTOCOL: Active Labour Market Programme Participation for Unemploymen» (2013) – protokoll om aktivering for dagpengemottakere, tiltak og aktivitetskrav holdt utenfor
+- OK   6 utelatt W4414276026 «Can Social Safety Net Spending Prevent Crime?» (2025) – kriminalitet, ikke overgang til arbeid
+- OK   6 utelatt W7134971111 «Interventions to improve work ability and reduce early exit from the l» (2026) – tiltak for arbeidsevne hos eldre, ikke dagpenger
+- OK   6 utelatt W2621193858 «Incentive traps in the Finnish unemployment benefit system» (2013) – masteroppgave om insentivfeller, beregnet nettokompensasjon, ikke effekt på overgang til arbeid
+- OK   6 utelatt W7212092173 «Private consumption under unemployment risk» (2026) – forbruksutjevning, ikke overgang til arbeid
+- OK   6 utelatt W7111548794 «The impact of cash and near-cash social policies on substance use outc» (2026) – rusbruk i USA, ikke overgang til arbeid
+- OK   6 utelatt W4415582331 «Interventions to improve work ability and prolong the working life of » (2025) – tiltak for arbeidsevne hos eldre, ikke dagpenger
+- OK   6 utelatt W2911752419 «The Macroeconomics of Happiness» (2003) – lykke og makroøkonomi, ikke overgang til arbeid
+- OK   6 utelatt W1483374326 «Sovereign virtue: the theory and practice of equality» (2000) – politisk filosofi om likhet
+- OK   6 utelatt W2094993328 «An Evaluation of the Swedish System of Active Labor Market Programs in» (2004) – arbeidsmarkedstiltak, holdt utenfor
+- OK   6 utelatt W1964352664 «The Rise in the Disability Rolls and the Decline in Unemployment» (2003) – uføretrygd, ytelse holdt utenfor
+- OK   6 utelatt W2097747135 «Political Partisanship and Welfare State Reform in Advanced Industrial» (2004) – politisk eller institusjonell analyse, ikke effekt på overgang til arbeid
+- OK   6 utelatt W2891580286 «Ranking, Unemployment Duration, and Wages» (1994) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2159212984 «Welfare state regimes, unemployment and health: a comparative study of» (2008) – helse, ikke overgang til arbeid
+- OK   6 utelatt W1501991542 «The Consumption Smoothing Benefits of Unemployment Insurance» (1994) – forbruksutjevning, ikke overgang til arbeid
+- OK   6 utelatt W2073576182 «Scar Effects of Unemployment: An Assessment of Institutional Complemen» (2006) – lønnstap etter ledighet; institusjoner som moderator, ikke dagpengeperiode eller -nivå isolert
+- OK   6 utelatt W3126071897 «Does the recent success of some OECD countries in lowering their unemp» (2004) – ledighetsnivå mot arbeidsmarkedsinstitusjoner i landpanel, ikke overgang til arbeid
+- OK   6 utelatt W3125791281 «Productivity gains from unemployment insurance» (2000) – teoretisk modell for produktivitetsgevinst, uten empiri om overgang til arbeid
+- OK   6 utelatt W1540344454 «The impact of employment tax cuts on unemployment and wages; The role » (1998) – modell for skattekutt og ledighet, ikke empirisk studie av dagpenger
+- OK   6 utelatt W2103825135 «The effect of job loss and unemployment duration on suicide risk in th» (2011) – selvmord, ikke overgang til arbeid
+- OK   6 utelatt W2055636456 «The Role of Unemployment Insurance in an Economy with Liquidity Constr» (1992) – teoretisk modell for optimal dagpengeordning uten empiri
+- OK   6 utelatt W2009816422 «Is the Threat of Reemployment Services More Effective Than the Service» (2003) – profilering og tvungne tjenester, ikke dagpengeperiode eller -nivå, holdt utenfor
+- OK   6 utelatt W578517644 «The politics of social risk: business and welfare state development» (2004) – politisk eller institusjonell analyse, ikke effekt på overgang til arbeid
+- OK   6 utelatt W2370943292 «The Deservingness Heuristic and the Politics of Health Care» (2016) – holdninger til helsetjenester, ikke dagpenger
+- OK   6 utelatt W3121662691 «Surviving Unemployment Without State Support: Unemployment and Househo» (2008) – Sør-Afrika uten dagpenger, utviklingsland
+- OK   6 utelatt W3022857464 «Unemployment and Business Cycles» (2016) – teoretisk modell uten empiri om dagpenger og overgang til arbeid
+- OK   6 utelatt W2162263065 «Business cycles, unemployment insurance, and the calibration of matchi» (2007) – kalibrering av søkemodeller, ikke empirisk studie av overgang til arbeid
+- OK   6 utelatt W4232752514 «Between Class and Market» (1997) – fagforeninger, ikke dagpenger
+- OK   6 utelatt W2156552005 «Unemployment insurance benefit levels and consumption changes» (2001) – forbruksutjevning, ikke overgang til arbeid
+- OK   6 utelatt W2024339058 «Exploring the Political Economy of Labour Market Institutions» (1996) – politisk eller institusjonell analyse, ikke effekt på overgang til arbeid
+- OK   6 utelatt W3021805523 «The Joint Design of Unemployment Insurance and Employment Protection: » (2008) – teoretisk modell uten empiri om dagpenger og overgang til arbeid
+- OK   6 utelatt W1529968389 «The Political Economy of Labour Market Institutions» (2000) – politisk eller institusjonell analyse, ikke effekt på overgang til arbeid
+- OK   6 utelatt W2081269224 «Social Policy by Popular Demand» (2011) – politiske preferanser for dagpenger, ikke overgang til arbeid
+- OK   6 utelatt W2162282433 «Unemployment Insurance Takeup Rates and the After-Tax Value of Benefit» (1997) – opptak av ytelsen (take-up), ikke overgang til arbeid
+- OK   6 utelatt W1995786391 «The High-Pressure U.S. Labor Market of the 1990s» (1999) – amerikansk makroanalyse av ledighet, profilering, ikke dagpengeperiode eller -nivå
+- OK   6 utelatt W1994125089 «Transitions to and From Self‐employment in Spain: An Empirical Analysi» (1999) – overgang til selvstendig næring i Spania, ikke dagpengeperiode eller -nivå
+- OK   6 utelatt W2616212046 «Identifying Sorting--In Theory» (2011) – teoretisk modell uten empiri om dagpenger og overgang til arbeid
+- OK   6 utelatt W101141370 «Institutions and Laws in the Labor Market» (1999) – oversiktskapittel om institusjoner og lover, ikke spisset mot dagpengers varighet eller nivå
+- OK   6 utelatt W3124717452 «Flexicurity Labour Market Performance in Denmark» (2007) – deskriptiv oversikt over dansk fleksisikkerhet, ingen egen estimering av periode eller nivå
+- OK   6 utelatt W2148335039 «UNEMPLOYED BUT OPTIMISTIC: OPTIMAL INSURANCE DESIGN WITH BIASED BELIEF» (2014) – teoretisk modell uten empiri om dagpenger og overgang til arbeid
+- OK   6 utelatt W1966389350 «Unemployment Duration and the Restart Effect: Some Experimental Eviden» (1996) – rådgivning og samtaler med ledige, ikke dagpengeperiode eller -nivå, holdt utenfor
+- OK   6 utelatt W3121997698 «Association Between Receipt of Unemployment Insurance and Food Insecur» (2021) – matusikkerhet under koronapandemien, ikke overgang til arbeid
+- OK   6 utelatt W2014030491 «Two Questions about European Unemployment» (2008) – teoretisk modell uten empiri om dagpenger og overgang til arbeid
+- OK   6 utelatt W3121176775 «Can Unemployment Insurance Spur Entrepreneurial Activity? Evidence fro» (2020) – selvstendig næring etter fransk reform, ikke overgang til lønnet arbeid
+- OK   6 utelatt W2123244521 «Civic Virtue and Labor Market Institutions» (2009) – teoretisk modell uten empiri om dagpenger og overgang til arbeid
+- OK   6 utelatt W2100545913 «The Wage Curve Reloaded» (2005) – lønnskurve mot lokal ledighet, ikke overgang til arbeid
+- OK   6 utelatt W804010935 «The Nordic model of welfare : a historical reappraisal» (2006) – historisk fremstilling av nordisk velferdsmodell
+- OK   6 utelatt W2047303181 «DISTANCE TO RETIREMENT AND OLDER WORKERS‘ EMPLOYMENT: THE CASE FOR DEL» (2010) – pensjonsalder og eldres sysselsetting, ikke dagpenger
+- OK   6 utelatt W645804139 «Panel data and labor market studies» (1990) – metodebok om paneldata
+- OK   6 utelatt W2003947276 «The use of replacement rates in international comparisons of benefit s» (1995) – erstatningsgrader for pensjon, ikke dagpenger
+- OK   6 utelatt W3122378246 «Unemployment Insurance as a Housing Market Stabilizer» (2018) – boligmarked og mislighold, ikke overgang til arbeid
+- OK   6 utelatt W2088962682 «Shocks, Stocks, and Socks: Smoothing Consumption Over a Temporary Inco» (2009) – forbruksutjevning, ikke overgang til arbeid
+- OK   6 utelatt W1984600944 «Varieties of welfare capitalism» (2003) – politisk eller institusjonell analyse, ikke effekt på overgang til arbeid
+- OK   6 utelatt W1993793060 «Equity, equality, or need? A study of popular preferences for welfare » (2013) – holdninger til omfordeling, ikke overgang til arbeid
+- OK   6 utelatt W3046835309 «Measuring the labor market at the onset of the COVID-19 crisis» (2020) – deskriptiv arbeidsmarkedsmåling under koronapandemien
+- OK   6 utelatt W2151172520 «Social Insurance as a Collective Resource: Unemployment Benefits, Job » (2010) – trygghet og subjektiv velvære, ikke overgang til arbeid
+- OK   6 utelatt W4299658264 «Divide and Pacify» (2006) – politisk eller institusjonell analyse, ikke effekt på overgang til arbeid
+- OK   6 utelatt W2052485402 «Optimal unemployment insurance in an estimated job search model with s» (2008) – strukturell modell for optimal dagpengeordning, velferd, ikke identifisert effekt av periode eller nivå
+- OK   6 utelatt W1988325415 «Efficiency and Equality in a Simple Model of Efficient Unemployment In» (1995) – teoretisk modell uten empiri om dagpenger og overgang til arbeid
+- OK   6 utelatt W2104940334 «Counseling the Unemployed: Does it Lower Unemployment Duration and Rec» (2005) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3124892743 «Employment and Wage Insurance within Firms: Worldwide Evidence» (2015) – forsikring innen bedrifter, ikke overgang til arbeid
+- OK   6 utelatt W3123007614 «Unemployment Insurance Savings Accounts» (1998) – forslag om individuelle sparekontoer i stedet for dagpenger, ikke periode eller nivå
+- OK   6 utelatt W2059223319 «Social capital, ‘Ghent’ and workplace contexts matter: Comparing union» (2011) – Ghent-system og fagforeningsmedlemskap, ikke overgang til arbeid
+- OK   6 utelatt W2120559201 «Learning from Foreign Models in Latin American Policy Reform» (2005) – politikkspredning i Latin-Amerika
+- OK   6 utelatt W2538233491 «Shorter lives in stingier states: Social policy shortcomings help expl» (2016) – dødelighet, ikke overgang til arbeid
+- OK   6 utelatt W2097575021 «Do Generous Unemployment Benefit Programs Reduce Suicide Rates? A Stat» (2014) – selvmord, ikke overgang til arbeid
+- OK   6 utelatt W2056543773 «The Politics of Retrenchment in a Social Democratic Welfare State» (2001) – politisk eller institusjonell analyse, ikke effekt på overgang til arbeid
+- OK   6 utelatt W2164829586 «Unemployment insurance with moral hazard in a dynamic economy» (1996) – teoretisk modell uten empiri om dagpenger og overgang til arbeid
+- OK   6 utelatt W2192017625 «A Macroeconomic Approach to Optimal Unemployment Insurance: Theory» (2018) – teoretisk modell uten empiri om dagpenger og overgang til arbeid
+- OK   6 utelatt W2122064407 «The effect of location on finding a job in the Paris region» (2010) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1649096767 «Changes in Unemployment Duration and Labor Force Attachment» (2001) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2132161213 «The Material Consequences of Welfare States» (2006) – fattigdom i landpanel, ikke overgang til arbeid
+- OK   6 utelatt W2149326584 «Social Security Reform in China’s Transition to a Market Economy» (2001) – trygdereform i Kina, utviklingsland
+- OK   6 utelatt W1540868843 «Experimental Evidence on Unemployment Insurance Work-Search Policies» (1994) – krav om jobbsøking, aktivitetskrav holdt utenfor
+- OK   6 utelatt W2159784258 «Life satisfaction effects of unemployment in Europe: The moderating in» (2014) – livstilfredshet blant ledige, ikke overgang til arbeid
+- OK   6 utelatt W3121329379 «Optimal Welfare-to-Work Programs» (2007) – teoretisk modell uten empiri om dagpenger og overgang til arbeid
+- OK   6 utelatt W4286375046 «The Effect of Job Loss and Unemployment Insurance on Crime in Brazil» (2022) – kriminalitet i Brasil, utviklingsland
+- OK   6 utelatt W2151375929 «Pattern Persistence in European Trade Union Density: A longitudinal an» (2005) – fagforeningstetthet, ikke dagpenger
+- OK   6 utelatt W3025380372 «Labor market shocks and retirement: Do government programs matter?» (2007) – pensjonsovergang, ikke overgang til arbeid
+- OK   6 utelatt W1487662513 «Converting Unemployment Benefits into Employment Subsidies» (1994) – forslag om å gjøre dagpenger til ansettelsestilskudd, ingen empiri
+- OK   6 utelatt W2141215533 «Infant mortality, public policy and inequality -- a comparison of 18 i» (1993) – spedbarnsdødelighet, ikke overgang til arbeid
+- OK   6 utelatt W2068332454 «Integration of Unemployment Insurance with Retirement Insurance» (2002) – samspill mellom dagpenger og pensjon, ikke overgang til arbeid
+- OK   6 utelatt W2109683299 «Differences in horizontal and vertical mismatches across countries and» (2015) – feilmatch mellom utdanning og jobb, ikke dagpengeperiode eller -nivå
+- OK   6 utelatt W2036887420 «Estimating the Effect of Counseling and Monitoring the Unemployed Usin» (1996) – rådgivning og oppfølging, holdt utenfor
+- OK   6 utelatt W651675781 «Divide and pacify: strategic social policies and political protests in» (2007) – politisk eller institusjonell analyse, ikke effekt på overgang til arbeid
+- OK   6 utelatt W2878163005 «How demanding are activation requirements for jobseekers» (2018) – aktivitetskrav i dagpengeordninger, holdt utenfor
+- OK   6 utelatt W2131230096 «Ex-Ante Evaluation of Conditional Cash Transfer Programs: The Case of » (2002) – betinget kontantstøtte i Brasil, utviklingsland
+- OK   6 utelatt W2056861376 «Moral hazard, optimal unemployment insurance, and experience rating» (2002) – teoretisk modell uten empiri om dagpenger og overgang til arbeid
+- OK   6 utelatt W2108451742 «Patterns of Welfare State Indicators in the EU: Is there Convergence?» (2010) – konvergens i velferdsindikatorer, ikke overgang til arbeid
+- OK   6 utelatt W2140530184 «Can and Should Happiness Be a Policy Goal?» (2014) – lykke som politisk mål, ikke overgang til arbeid
+- OK   6 utelatt W2214249560 «Assimilation via Prices or Quantities?» (2006) – innvandreres lønnsutvikling, ikke dagpengeperiode eller -nivå
+- OK   6 utelatt W2071612895 «Effects of Unemployment Insurance Work-Search Requirements: The Maryla» (2002) – krav om jobbsøking, aktivitetskrav holdt utenfor
+- OK   6 utelatt W1964359486 «Unemployment and mental health: evidence from research in the Nordic c» (1998) – psykisk helse ved ledighet, ikke overgang til arbeid
+- OK   6 utelatt W1963994985 «Labour market outliers: Lessons from Portugal and Spain» (2000) – Portugal og Spania, makrostudie av ledighet og institusjoner
+- OK   6 utelatt W1730403996 «Social assistance and minimum income benefits in old and new EU democr» (2009) – sosialhjelp og minsteytelser, uten forsikringspreg
+- OK   6 utelatt W2585518654 «Conflictive preferences towards social investments and transfers in ma» (2017) – holdninger til sosiale investeringer, ikke overgang til arbeid
+- OK   6 utelatt W1838633406 «The Decline in Swedish Union Density since 2007» (2011) – Ghent-system og fagforeningsmedlemskap, ikke overgang til arbeid
+- OK   6 utelatt W1517185215 «Determinants of Unemployment Duration in Russia» (1997) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1985954450 «Unemployment Shocks and Income Distribution: How did the Nordic Countr» (2000) – inntektsfordeling i Norden, ikke overgang til arbeid
+- OK   6 utelatt W2044144651 «The influence of fathers’ socioeconomic status and paternity leave on » (2010) – amming og fedrepermisjon, ikke dagpenger
+- OK   6 utelatt W2078966439 «Employment Spells and Unemployment Insurance Eligibility Requirements» (1998) – opptjeningskrav og varighet i jobb, ikke avgang til arbeid
+- OK   6 utelatt W1917738475 «Social security reforms in China: issues and prospects» (2003) – trygdereform i Kina, utviklingsland
+- OK   6 utelatt W2341634486 «Labor market reforms in Europe: towards more flexicure labor markets?» (2017) – oversikt over arbeidsmarkedsreformer og segmentering, ikke effekt av periode eller nivå
+- OK   6 utelatt W1991409132 «Ghent revisited: Unemployment insurance and union membership in Belgiu» (2011) – Ghent-system og fagforeningsmedlemskap, ikke overgang til arbeid
+- OK   6 utelatt W3122661399 «AN ON‐THE‐JOB SEARCH MODEL OF CRIME, INEQUALITY, AND UNEMPLOYMENT*» (2004) – teoretisk modell uten empiri om dagpenger og overgang til arbeid
+- OK   6 utelatt W2150332075 «Welfare States Under Pressure: Cash Benefits in European Welfare State» (1997) – beskrivelse av reformer i kontantytelser, uten effekt på overgang til arbeid
+- OK   6 utelatt W2508421199 «Stimulating Housing Markets» (2019) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3123940465 «Unemployment benefits, risk aversion, and migration incentives» (2005) – migrasjon, ikke overgang til arbeid
+- OK   6 utelatt W2136602982 «Voluntary Unemployment Insurance and Trade Union Membership: Investiga» (2008) – Ghent-system og fagforeningsmedlemskap, ikke overgang til arbeid
+- OK   6 utelatt W2302541374 «Unemployment Insurance and Job Search» (1990) – teoretisk og eksperimentell jobbsøkingsmodell, ikke faktiske dagpengeregler
+- OK   6 utelatt W2087484336 «The effects of firm specific taxes and government mandates with an app» (1997) – bedriftsspesifikke dagpengeavgifter, finansiering av ordningen
+- OK   6 utelatt W2029078416 «The Wealth of the Unemployed» (2001) – ledigs formue og egen buffer, ikke overgang til arbeid
+- OK   6 utelatt W2137321338 «The influence of re-employment on quality of life and self-rated healt» (2013) – helse, ikke overgang til arbeid
+- OK   6 utelatt W1965198604 «How New Economic Ideas Changed the Danish Welfare State: The Case of N» (2009) – politisk eller institusjonell analyse, ikke effekt på overgang til arbeid
+- OK   6 utelatt W2060139594 «Unemployment Insurance and Job Duration in Canada» (1996) – opptjeningskrav og varighet i jobb, ikke avgang til arbeid
+- OK   6 utelatt W2219249368 «A Macroeconomic Approach to Optimal Unemployment Insurance: Applicatio» (2018) – teoretisk modell uten empiri om dagpenger og overgang til arbeid
+- OK   6 utelatt W1997828240 «Health Effects of Unemployment Benefit Program Generosity» (2014) – helse, ikke overgang til arbeid
+- OK   6 utelatt W2169799546 «How do Migrants Choose Their Destination Country? An Analysis of Insti» (2013) – migrasjon, ikke overgang til arbeid
+- OK   6 utelatt W1579588238 «Sharing Risks of Labour Market Transitions: Towards a System of Employ» (2013) – konseptforslag om sysselsettingsforsikring, ingen empiri
+- OK   6 utelatt W3122029325 «Optimal Automatic Stabilizers» (2020) – teoretisk modell uten empiri om dagpenger og overgang til arbeid
+- OK   6 utelatt W1143838681 «A Permutation Test for the Regression Kink Design» (2017) – metodeartikkel om regression kink, ingen egen dagpengeanalyse
+- OK   6 utelatt W2116618186 «Rethinking Social Insurance» (2005) – normativ diskusjon av sosial forsikring, ingen empiri
+- OK   6 utelatt W2170153069 «How demanding are eligibility criteria for unemployment benefits, quan» (2015) – aktivitetskrav og sanksjoner i dagpengeordninger, holdt utenfor
+- OK   6 utelatt W1681517789 «Training the Unemployed in France: How Does it Affect Unemployment Dur» (2012) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1761954794 «The Effect of Sanctions on Exit from Unemployment: Evidence from Denma» (2010) – sanksjoner, holdt utenfor
+- OK   6 utelatt W2117395074 «Introducing unemployment insurance to developing countries» (2013) – utviklingsland
+- OK   6 utelatt W1673133702 «Eligibility Criteria for Unemployment Benefits» (2012) – aktivitetskrav og sanksjoner i dagpengeordninger, holdt utenfor
+- OK   6 utelatt W1486783565 «The age of social democracy: Norway and Sweden in the twentieth centur» (2011) – historisk fremstilling av Norge og Sverige
+- OK   6 utelatt W1982563575 «Qualifying for Unemployment Insurance: An Empirical Analysis» (1997) – opptjeningskrav og varighet i jobb, ikke avgang til arbeid
+- OK   6 utelatt W2094152682 «Financial Wealth, Consumption Smoothing and Income Shocks Arising from» (2005) – forbruksutjevning, ikke overgang til arbeid
+- OK   6 utelatt W1572337507 «The Impact of Structural Policies on Saving, Investment and Current Ac» (2010) – sparing og investering i landpanel, ikke overgang til arbeid
+- OK   6 utelatt W2029852197 «Local Labor Markets and Local Area Effects on Welfare Duration» (1995) – sosialhjelp (AFDC), ytelse uten forsikringspreg
+- OK   6 utelatt W2608125076 «Macroeconomic conditions, inequality shocks and the politics of redist» (2017) – ulikhet og omfordeling, ikke overgang til arbeid
+- OK   6 utelatt W3123296174 «Optimal Labor-Market Policy in Recessions» (2015) – teoretisk modell uten empiri om dagpenger og overgang til arbeid
+- OK   6 utelatt W2099362057 «Optimal Life Cycle Unemployment Insurance» (2015) – teoretisk modell uten empiri om dagpenger og overgang til arbeid
+- OK   6 utelatt W3047636367 «Determinants of the Public Debt in the Eurozone and Its Sustainability» (2020) – offentlig gjeld, ikke overgang til arbeid
+- OK   6 utelatt W2069279263 «Willingness to Move for Work and Unemployment Duration in Spain» (1999) – villighet til å flytte for arbeid, ikke dagpengeperiode eller -nivå
+- OK   6 utelatt W2561785557 «New trajectories of unionization in the Nordic Ghent countries: Changi» (2017) – Ghent-system og fagforeningsmedlemskap, ikke overgang til arbeid
+- OK   6 utelatt W3184614188 «Informal Labor and the Efficiency Cost of Social Programs: Evidence fr» (2021) – Brasil (utviklingsland), selv om designet bruker variasjon i dagpengeperiode
+- OK   6 utelatt W1954532400 «State Intervention and Mental Well-being Among the Unemployed» (2001) – psykisk velvære blant ledige, ikke overgang til arbeid
+- OK   6 utelatt W3124792629 «On the Efficiency of Job Search with Social Networks» (2009) – teoretisk modell uten empiri om dagpenger og overgang til arbeid
+- OK   6 utelatt W2032459989 «Explaining the Determinants of Public Support for Cuts in Unemployment» (2005) – holdninger til kutt i dagpenger, ikke overgang til arbeid
+- OK   6 utelatt W2751485660 «Welfare Benefits and Unemployment in Affluent Democracies: The Moderat» (2017) – landpanel av ledighetsnivå og ytelser, ikke overgang til arbeid
+- OK   6 utelatt W242462595 «Activating Labor Market and Social Policies in Germany: From Status Pr» (2010) – tysk aktiveringsreform, beskrivende, ytelse uten forsikringspreg (ALG II)
+- OK   6 utelatt W2085315109 «Strategic Alliances and Social Policy Reform: Unemployment Insurance i» (2000) – politisk eller institusjonell analyse, ikke effekt på overgang til arbeid
+- OK   6 utelatt W2601397669 «Quantifying the Benefits of Social Insurance: Unemployment Insurance a» (2019) – helse, ikke overgang til arbeid
+- OK   6 utelatt W2513271590 «The Effects of the Early Retirement Age on Retirement Decisions» (2016) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1589376319 «The Effects of Unemployment Insurance Taxes and Benefits on Layoffs Us» (1994) – erfaringsratede dagpengeavgifter og permitteringer, finansiering av ordningen
+- OK   6 utelatt W2795241019 «The Impacts of Paid Family Leave Benefits: Regression Kink Evidence fr» (2018) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2116378626 «Labor Regulations and European Venture Capital» (2014) – risikokapital og arbeidsmarkedsregulering, ikke overgang til arbeid
+- OK   6 utelatt W3086891970 «Does the Recent Success of some OECD Countries in Lowering their Unemp» (2000) – ledighetsnivå mot arbeidsmarkedsinstitusjoner i landpanel, arbeidsnotat uten overgang til arbeid
+- OK   6 utelatt W2127042464 «Social security arrangements and early-stage entrepreneurial activity» (2007) – gründeraktivitet i landpanel, ikke overgang til arbeid
+- OK   6 utelatt W2171518880 «“In a Country as Affluent as America, People Should be Eating”: Experi» (2009) – matusikkerhet, kvalitativ studie, ikke overgang til arbeid
+- OK   6 utelatt W3106390766 «Stepping up during a crisis: The unintended effects of a noncontributo» (2021) – pensjon i Bolivia, utviklingsland
+- OK   6 utelatt W2096414408 «Flexicurity as a moderator of the relationship between job insecurity » (2009) – jobbusikkerhet og psykisk velvære, ikke overgang til arbeid
+- OK   6 utelatt W3185415092 «Job Displacement, Unemployment Benefits and Domestic Violence» (2021) – vold i hjemmet i Brasil, utviklingsland
+- OK   6 utelatt W3124800625 «BUSINESS CYCLES IN THE EQUILIBRIUM MODEL OF LABOR MARKET SEARCH AND SE» (2012) – teoretisk modell uten empiri om dagpenger og overgang til arbeid
+- OK   6 utelatt W3123418202 «Rent control and unemployment duration» (2005) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2787988628 «Work or retirement? Exit routes for Norwegian elderly» (2000) – tidligpensjon og uføre blant eldre, ikke overgang til arbeid
+- OK   6 utelatt W2077183542 «Protecting the unemployed: varieties of unionism and the evolution of » (2014) – politisk eller institusjonell analyse, ikke effekt på overgang til arbeid
+- OK   6 utelatt W1988792668 «Are Protective Labor Market Institutions at the Root of Unemployment? » (2007) – kritisk gjennomgang av landpaneler om ledighet, ikke overgang til arbeid
+- OK   6 utelatt W1906251788 «The Impact of Institutional Context, Education and Labour Market Polic» (2013) – frafall fra skolen, ikke dagpenger
+- OK   6 utelatt W2079476851 «Optimal unemployment insurance» (1997) – teoretisk modell for optimal dagpengeordning uten empiri
+- OK   6 utelatt W2129385040 «Is the Threat of Reemployment Services More Effective than the Service» (2002) – arbeidsnotat om profilering og tjenester, ikke dagpengeperiode eller -nivå, holdt utenfor
+- OK   6 utelatt W2909367375 «Can the Unemployed Borrow? Implications for Public Insurance» (2020) – tilgang til kreditt for ledige, ikke overgang til arbeid
+- OK   6 utelatt W140742090 «Optimal Unemployment Insurance with Unobservable Savings» (2002) – teoretisk modell uten empiri om dagpenger og overgang til arbeid
+- OK   6 utelatt W2143391689 «Unemployment insurance and deteriorating self-rated health in 23 Europ» (2014) – helse, ikke overgang til arbeid
+- OK   6 utelatt W1589673147 «Price Sensitivity of Demand for Prescription Drugs: Exploiting a Regre» (2015) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W258557602 «Social Democratic America» (2014) – bok om sosialdemokratisk velferdsstat, ingen empiri om overgang til arbeid
+- OK   6 utelatt W784304221 «The welfare state in the global economy: the politics of social insura» (1998) – politisk eller institusjonell analyse, ikke effekt på overgang til arbeid
+- OK   6 utelatt W2131469272 «Size matters: targeting efficiency and poverty reduction effects of me» (2008) – barnetrygd i Russia, ikke dagpenger
+- OK   6 utelatt W3121746805 «Informal Family Insurance and the Design of the Welfare State» (2002) – teoretisk modell uten empiri om dagpenger og overgang til arbeid
+- OK   6 utelatt W1504167266 «Unemployment and Income Distribution: Time-Series Evidence from Sweden» (1991) – inntektsfordeling i Sverige, ikke overgang til arbeid
+- OK   6 utelatt W1495822384 «Are unemployment insurance systems in Europe adapting to new risks ari» (2007) – tilgang til dagpenger for midlertidig og deltid, ikke avgang til arbeid
+- OK   6 utelatt W2083910548 «Unemployment benefits crowd out nascent entrepreneurial activity» (2009) – selvstendig næring, ikke overgang til lønnet arbeid
+- OK   6 utelatt W2140166377 «Differential effects of Swedish active labour market programmes for un» (2001) – arbeidsmarkedstiltak, holdt utenfor
+- OK   6 utelatt W2159891457 «Does inconvenience explain low take‐up? Evidence from unemployment ins» (2009) – opptak av ytelsen (take-up), ikke overgang til arbeid
+- OK   6 utelatt W2134998657 «Social Assistance in Germany» (2003) – sosialhjelp i Tyskland, ytelse uten forsikringspreg
+- OK   6 utelatt W2995141650 «The Value of Unemployment Insurance» (2020) – verdsetting av dagpenger via forbruk, ikke overgang til arbeid
+- OK   6 utelatt W1582358234 «ANOTHER LOOK AT UNEMPLOYMENT DURATION: EXIT TO A PERMANENT VS. A TEMPO» (2004) – mottak av ytelse mot fast eller midlertidig jobb i Spania, ikke endring i periode eller nivå
+- OK   6 utelatt W4377028232 «Is stress among street‐level bureaucrats associated with experiences o» (2023) – stress hos saksbehandlere og administrativ byrde, ikke overgang til arbeid
+- OK   6 utelatt W2172347671 «Job Search, Hours Restrictions, and Desired Hours of Work» (2008) – strukturell modell for arbeidstid, ikke identifisert effekt av dagpengeregler
+- OK   6 utelatt W1513001240 «Substitution between unemployment insurance and workers' compensation» (1992) – samspill mellom dagpenger og yrkesskadeerstatning, ikke overgang til arbeid
+- OK   6 utelatt W2025792025 «Modeling Financial Incentives to Get the Unemployed Back to Work» (2006) – modell for sanksjoner, holdt utenfor
+- OK   6 utelatt W3123056633 «Bounds on treatment effects in regression discontinuity designs with a» (2020) – metodeartikkel om regresjonsdiskontinuitet, ingen dagpengeanalyse
+- OK   6 utelatt W2747097586 «Labor market institutions, the insider/outsider divide and social ineq» (2017) – arbeidsmarkedsinstitusjoner og sysselsetting etter gruppe, landpanel, ikke overgang til arbeid
+- OK   6 utelatt W4308507012 «Dealing with Technological Change: Social Policy Preferences and Insti» (2022) – holdninger til teknologisk endring, ikke overgang til arbeid
+- OK   6 utelatt W2110694259 «Does chronic illness cause adverse social and economic consequences am» (2001) – helse, ikke overgang til arbeid
+- OK   6 utelatt W2921836311 «Job Displacement, Unemployment, and Crime: Evidence from Danish Microd» (2019) – kriminalitet etter jobbtap, ikke overgang til arbeid
+- OK   6 utelatt W649767104 «Unemployment insurance take-up rates in an equilibrium search model» (2018) – opptak av ytelsen (take-up) i modell, ikke overgang til arbeid
+- OK   6 utelatt W2147264277 «Determinants of Unemployment Duration for Men and Women in Turkey» (2004) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3122389943 «Unemployment Insurance, Wage Differentials and Unemployment» (2001) – teoretisk modell uten empiri om dagpenger og overgang til arbeid
+- OK   6 utelatt W1774684840 «Reexamining the consumption smoothing benefits of Unemployment Insuran» (2015) – forbruksutjevning, ikke overgang til arbeid
+- OK   6 utelatt W3124470317 «A Narrative Database of Major Labor and Product Market Reforms in Adva» (2018) – database over reformer, ingen effektanalyse
+- OK   6 utelatt W2075510686 «Unemployment insurance and labor-market activity in Canada» (1996) – kanadisk system, sammendrag mangler, uklart om periode eller nivå på overgang til arbeid
+- OK   6 utelatt W1503973200 «The Effect of Unemployment Duration on Future Earnings and Other Outco» (2013) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2116573823 «A General Formula for the Optimal Level of Social Insurance» (2005) – teoretisk modell uten empiri om dagpenger og overgang til arbeid
+- OK   6 utelatt W2030129851 «The relationship between socio-economic status and antidepressant pres» (2011) – helse, ikke overgang til arbeid
+- OK   6 utelatt W2587902531 «Local Labour Markets and Unemployment Duration» (2017) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2119272330 «Saving and Portfolio Allocation Before and After Job Loss» (2016) – sparing og formue rundt jobbtap i Norge, ikke overgang til arbeid
+- OK   6 utelatt W1978069101 «Optimal Unemployment Insurance in a Matching Equilibrium» (2005) – teoretisk modell uten empiri om dagpenger og overgang til arbeid
+- OK   6 utelatt W1972211832 «Unemployment Insurance and Unemployment Over Time: An Analysis with Ev» (1995) – gjentatt ledighet og varighet i jobb, ikke effekt av periode eller nivå
+- OK   6 utelatt W1999155525 «The labor market effects of introducing unemployment benefits in an ec» (2014) – modell for dagpenger i økonomi med stor uformell sektor, utviklingsland
+- OK   6 utelatt W2140866846 «Smoking, drinking and body weight after re-employment: does unemployme» (2009) – røyking og vekt, helse, ikke overgang til arbeid
+- OK   6 utelatt W2119338633 «The end of the Ghent system as trade union recruitment machinery?» (2009) – Ghent-system og fagforeningsmedlemskap, ikke overgang til arbeid
+- OK   6 utelatt W3122683466 «The Determination of Unemployment Benefits» (2002) – hva som bestemmer dagpengenivået, politisk, ikke effekt på overgang til arbeid
+- OK   6 utelatt W2108103546 «The Impact of Unemployment Insurance Benefit Levels on Recipiency» (1995) – effekt på mottak av ytelsen, ikke overgang til arbeid
+- OK   6 utelatt W3025059163 «Supply side hysteresis: the case of the Canadian unemployment insuranc» (2000) – kanadisk system, sammendrag mangler, uklart om periode eller nivå på overgang til arbeid
+- OK   6 utelatt W3129044288 «Projecting unemployment durations: A factor-flows simulation approach » (2021) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2131996437 «Unemployment Benefit Systems in Central and Eastern Europe: A Review o» (2005) – oversikt over dagpenger i Sentral- og Øst-Europa, overgangsøkonomier uten effektanalyse
+- OK   6 utelatt W1883927144 «Unemployment and economic security for young adults in F inland, N orw» (2012) – ytelser til unge ledige og sosialhjelp, ikke overgang til arbeid
+- OK   6 utelatt W3122085453 «Incentive Contracts and Efficient Unemployment Benefits» (2009) – teoretisk modell uten empiri om dagpenger og overgang til arbeid
+- OK   6 utelatt W2125141997 «Labour-market reforms in transition economies» (1997) – overgangsøkonomier i Øst-Europa, lærdommer uten egen effektanalyse
+- OK   6 utelatt W3121162534 «Do Wages Compensate for Anticipated Working Time Restrictions? Evidenc» (2008) – lønnstillegg for sesongarbeid, ikke overgang til arbeid
+- OK   6 utelatt W2030397421 «Unemployment duration, city size, and the tightness of the labor marke» (2009) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2791088453 «Positive Externalities of Social Insurance: Unemployment Insurance and» (2014) – forbrukerkreditt, ikke overgang til arbeid
+- OK   6 utelatt W2590831004 «The Influence of Inequality on Welfare Generosity» (2017) – ulikhet og ytelsesnivå, politisk, ikke overgang til arbeid
+- OK   6 utelatt W3123921240 «Self-employment as an alternative to unemployment» (2003) – modell for selvstendig næring, ikke overgang til lønnet arbeid
+- OK   6 utelatt W2025961797 «Advance Notice, Job Search, and Postdisplacement Earnings» (1994) – varsel om oppsigelse og lønn etter jobbtap, ikke dagpenger
+- OK   6 utelatt W2095205771 «Post-Layoff Earnings among Semiconductor Workers» (1992) – inntekt etter oppsigelser i én bransje, ikke dagpenger
+- OK   6 utelatt W1977189967 «Disability insurance and unemployment insurance as substitute pathways» (2008) – overgang mellom uføre og dagpenger, ytelse holdt utenfor
+- OK   6 utelatt W2148960091 «Unemployment Insurance Savings Accounts in Latin America: Overview and» (2011) – sparekontoer i Latin-Amerika, utviklingsland
+- OK   6 utelatt W2519449509 «Denmark: ambiguous modernization of an inclusive unemployment protecti» (2011) – deskriptiv gjennomgang av dansk ordning, ingen effekt på overgang til arbeid
+- OK   6 utelatt W2201420862 «A Nordic Saga?: The Ghent System and Trade Unions» (2007) – Ghent-system og fagforeningsmedlemskap, ikke overgang til arbeid
+- OK   6 utelatt W2029405374 «The Swedish unemployment insurance - will the Ghent system survive?» (2006) – Ghent-system og fagforeningsmedlemskap, ikke overgang til arbeid
+- OK   6 utelatt W2934540656 «Compensating for the Climate: Unemployment Insurance and Climate Chang» (2019) – klimapolitikk og avstemninger, ikke overgang til arbeid
+- OK   6 utelatt W2034944748 «Fit for Purpose? Welfare Reform and Challenges for Health and Labour M» (2011) – sykdoms- og uføreytelser i Storbritannia, ytelse holdt utenfor
+- OK   6 utelatt W32245351 «In Experts We Trust. Knowledge, Politics and Bureaucracy in Nordic Wel» (2010) – ekspertrolle i nordisk velferdsstat, ikke overgang til arbeid
+- OK   6 utelatt W3124837433 «Unemployment insurance with a hidden labor market» (2009) – teoretisk modell uten empiri om dagpenger og overgang til arbeid
+- OK   6 utelatt W2030592699 «Gender and Social Security Policy: Pitfalls and Possibilities» (1998) – kjønn og trygdepolitikk, ikke overgang til arbeid
+- OK   6 utelatt W2793267873 «A kink that makes you sick: The effect of sick pay on absence» (2018) – sykepenger og sykefravær, ytelse holdt utenfor
+- OK   6 utelatt W2566061649 «Public pensions and unmet medical need among older people: cross-natio» (2016) – pensjon og udekket behov for helsehjelp, ikke overgang til arbeid
+- OK   6 utelatt W2053326078 «Unemployment Insurance in the United States: Analysis of Policy Issues» (1997) – essaysamling om amerikansk dagpengepolitikk, ikke systematisk empirisk oversikt
+- OK   6 utelatt W1992533170 «Geographic labour mobility and unemployment insurance in Europe» (2008) – geografisk mobilitet, ikke dagpengeperiode eller -nivå på overgang til arbeid
+- OK   6 utelatt W2065714280 «Evaluating job-search programs for old and young individuals: Heteroge» (2008) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1956951514 «Labour market integration of unemployed youth from a life course persp» (2006) – ungdomsledighet og marginalisering, ikke dagpenger
+- OK   6 utelatt W2307964571 «SWEDEN--RECENT CHANGES IN WELFARE STATE ARRANGEMENTS.» (2015) – endringer i svenske velferdstjenester, ikke dagpenger
+- OK   6 utelatt W2185519306 «Job Loss, Consumption and Unemployment Insurance» (2013) – forbruksutjevning, ikke overgang til arbeid
+- OK   6 utelatt W2912960697 «Do unemployment benefits affect the choice of debt source?» (2019) – gjeldskilde for bedrifter, ikke overgang til arbeid
+- OK   6 utelatt W2346817877 «Health effects of unemployment in Europe (2008–2011): a longitudinal a» (2016) – helse, ikke overgang til arbeid
+- OK   6 utelatt W2040082622 «The effect of monitoring unemployment insurance recipients on unemploy» (2009) – kontroll og overvåking av ledige i feltforsøk, holdt utenfor; ikke dagpengeperiode eller -nivå
+- OK   6 utelatt W4322769266 «Unemployment benefits, entrepreneurship policies, and new business cre» (2023) – utfallet er nyetablering av foretak i EU-panel, ikke overgang til arbeid
+- OK   6 utelatt W2045708836 «A 'Dutch Model': Employment Growth by Corporatist Consensus and Wage R» (2001) – politisk økonomi om nederlandsk modell og lønnsmoderasjon, uten empirisk dagpengeeffekt
+- OK   6 utelatt W2244587212 «Pathways from school to work in the developing world» (2017) – utviklingsland, skole-til-arbeid uten dagpenger
+- OK   6 utelatt W4367048506 «U.S. Unemployment insurance through the Covid-19 crisis» (2023) – beskrivelse av amerikansk ordning under covid, ingen effektestimat på overgang til arbeid
+- OK   6 utelatt W3214768603 «10. Containing the Promise of Insurance: Adverse Selection and Risk Cl» (2003) – teoretisk essay om adverse selection i forsikring, uten dagpengeempiri
+- OK   6 utelatt W1966027378 «Complexities in Assessing Unemployment Benefits and Policies» (1998) – beskrivende institusjonell sammenligning, ingen estimert effekt på overgang til arbeid
+- OK   6 utelatt W1485319507 «Thatcherism, New Labour and the welfare state» (1998) – politisk analyse av velferdspolitikk, ikke effekt av dagpengeperiode eller -nivå
+- OK   6 utelatt W1958711249 «Losing the Issue, Losing the Vote: Issue Competition and the Reform of» (2012) – politisk analyse av velferdspolitikk, ikke effekt av dagpengeperiode eller -nivå
+- OK   6 utelatt W3185616880 «How salient administrative burden affects job seekers’ locus of contro» (2021) – spørreeksperiment om holdninger eller psykologi, ikke overgang til arbeid
+- OK   6 utelatt W2042859848 «Optimal Workfare with Voluntary and Involuntary Unemployment*» (2005) – teoretisk modell uten empiri
+- OK   6 utelatt W2079737386 «The Role of Workfare in Striking a Balance between Incentives and Insu» (2013) – teoretisk modell uten empiri
+- OK   6 utelatt W2501375341 «A New Politics for the Social Investment Perspective» (2012) – politisk analyse av velferdspolitikk, ikke effekt av dagpengeperiode eller -nivå
+- OK   6 utelatt W2097528884 «Low Benefit Recipiency in State Unemployment Insurance Programs» (2001) – tilgang og mottak av dagpenger, ikke avgang til arbeid
+- OK   6 utelatt W4361218856 «Disability Insurance Income Saves Lives» (2023) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2107885031 «UNEMPLOYMENT INSURANCE IN CHILE: A NEW MODEL OF INCOME SUPPORT FOR UNE» (2006) – Chile, beskriver sparekontoordning uten estimert effekt på overgang til arbeid
+- OK   6 utelatt W3124302655 «Unemployment Duration and Labor Mobility in Argentina: A Socioeconomic» (2007) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2044464782 «Do unemployment benefits promote or hinder job reallocation?» (2009) – utfallet er jobbomfordeling i bedrifter, ikke ledigs overgang til arbeid
+- OK   6 utelatt W4235666752 «Unemployment‑benefit coverage: Recent trends and their drivers» (2018) – tilgang og mottak av dagpenger, ikke avgang til arbeid
+- OK   6 utelatt W2072458550 «Identifying Key Barriers to Unemployment Insurance for Disadvantaged W» (2010) – tilgang og mottak av dagpenger, ikke avgang til arbeid
+- OK   6 utelatt W2891965298 «Compensation or Social Investment? Revisiting the Link between Globali» (2018) – holdninger til velferdsstat, ikke arbeidsmarkedsutfall
+- OK   6 utelatt W1543878413 «The Duration of Benefits» (1997) – kapittel om ytelsesvarighet i amerikansk bok, uten sammendrag, trolig beskrivende
+- OK   6 utelatt W3122036512 «Labor Market Regulations in Low-, Middle- and High-Income Countries» (2011) – lærebok eller oversikt uten empirisk dagpengeeffekt
+- OK   6 utelatt W2141022589 «The rise (and fall) of labour market programmes: domestic vs. global f» (2007) – lærebok eller oversikt uten empirisk dagpengeeffekt
+- OK   6 utelatt W2918885529 «The effect of unemployment benefits on health: A propensity score anal» (2019) – utfallet er helse, ikke overgang til arbeid
+- OK   6 utelatt W3121837108 «Risk-Based Selection in Unemployment Insurance: Evidence and Implicati» (2021) – adverse selection i svensk tilleggsforsikring, utfall er ledighetsrisiko, ikke avgang til arbeid
+- OK   6 utelatt W1488248301 «Varieties of federalism, institutional legacies, and social policy: Co» (2012) – politisk analyse av velferdspolitikk, ikke effekt av dagpengeperiode eller -nivå
+- OK   6 utelatt W2300805283 «Dissatisfied Democrats, Policy Feedback, and European Welfare States, » (2011) – holdninger til velferdsstat, ikke arbeidsmarkedsutfall
+- OK   6 utelatt W2802336369 «Simultaneous selection of optimal bandwidths for the sharp regression » (2018) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2070890680 «Party Competition and Reforms of Unemployment Benefits in Germany: How» (2009) – politisk analyse av velferdspolitikk, ikke effekt av dagpengeperiode eller -nivå
+- OK   6 utelatt W1974423591 «Pathways to early retirement in Denmark, 1984‐2000» (2008) – utfallet er pensjon eller uføreytelse, ikke overgang til arbeid
+- OK   6 utelatt W2157182653 «Keep going in adversity – using a resilience perspective to understand» (2013) – sosialhjelp eller minsteinntekt, ytelse uten forsikringspreg
+- OK   6 utelatt W2028810438 «Understanding the welfare effects of unemployment insurance policy in » (2013) – teoretisk modell uten empiri
+- OK   6 utelatt W4313365294 «Strategic Formal Layoffs: Unemployment Insurance and Informal Labor Ma» (2018) – utviklingsland eller land utenfor avgrensningen, uformelt arbeidsmarked
+- OK   6 utelatt W2105138243 «Tax wedges, unemployment benefits and labour market outcomes in the ne» (2009) – makrokorrelasjoner eller lønnsdannelse mellom land, ikke overgang til arbeid
+- OK   6 utelatt W1500120704 «Intergenerational influences on the receipt of unemployment insurance » (2004) – mottak av dagpenger på tvers av generasjoner, ikke overgang til arbeid
+- OK   6 utelatt W3004340983 «Preferences for European unemployment insurance: a question of economi» (2020) – spørreeksperiment om holdninger eller psykologi, ikke overgang til arbeid
+- OK   6 utelatt W4385306079 «License to Layoff? Unemployment Insurance and the Moral Cost of Layoff» (2023) – tilgang til ledighet og oppsigelser, ikke avgang til arbeid
+- OK   6 utelatt W611672949 «Changing Patterns in the Distribution of Economic Welfare - An Interna» (1997) – inntektsfordeling eller sårbarhet, ikke overgang til arbeid
+- OK   6 utelatt W4376891590 «On the design of a European Unemployment Insurance System» (2023) – teoretisk modell uten empiri
+- OK   6 utelatt W4214619226 «Unemployment Insurance and Opioid Overdose Mortality in the United Sta» (2022) – utfallet er kriminalitet, familie eller utdanning, ikke overgang til arbeid
+- OK   6 utelatt W1968603391 «Unemployment in early career in the UK» (2011) – konsekvenser av ledighet uten dagpengevariasjon, ikke effekt av periode eller nivå
+- OK   6 utelatt W2146819124 «Unemployment Insurance under Moral Hazard and Limited Commitment: Publ» (2007) – teoretisk modell uten empiri
+- OK   6 utelatt W3213838391 «A Social Insurance Perspective on Pandemic Fiscal Policy: Implications» (2022) – teoretisk modell uten empiri
+- OK   6 utelatt W3121939349 «The Simple Economics of Benefit Transfers» (1995) – teoretisk modell uten empiri
+- OK   6 utelatt W2072772928 «Local flexicurity: resolving the conflict between direct and represent» (2009) – beskrivelse av Norden, ikke dagpengeeffekt
+- OK   6 utelatt W2127019857 «Automatic stabilization and discretionary fiscal policy in the financi» (2012) – makrokorrelasjoner eller lønnsdannelse mellom land, ikke overgang til arbeid
+- OK   6 utelatt W2134916346 «UNEMPLOYMENT INSURANCE AND THE BUSINESS CYCLE: SHOULD BENEFIT ENTITLEM» (2012) – teoretisk modell uten empiri
+- OK   6 utelatt W2044307515 «Unemployment benefits and parental resources: what helps the young une» (2008) – foreldreressurser og ytelsesmottak blant unge, ikke endring i periode eller nivå
+- OK   6 utelatt W1964350122 «Decomposing the effect of social policies on population health and ine» (2014) – utfallet er helse, ikke overgang til arbeid
+- OK   6 utelatt W2478143567 «Left Out:Policy Diffusion and the Exclusion of Black Workers from Unem» (2016) – historisk eller juridisk fremstilling, ikke empirisk effekt av dagpenger
+- OK   6 utelatt W2088566354 «Co-evolution of skills and welfare in coordinated market economies? A » (2010) – historisk eller juridisk fremstilling, ikke empirisk effekt av dagpenger
+- OK   6 utelatt W1570001369 «UNEMPLOYMENT INSURANCE AND CULTURAL TRANSMISSION: THEORY AND APPLICATI» (2013) – teoretisk modell uten empiri
+- OK   6 utelatt W2150452256 «Reforming Severance Pay» (2011) – sluttvederlag, stillingsvern eller ansettelsesformer, ikke dagpenger
+- OK   6 utelatt W1530073317 «The Impact of Homeownership on Unemployment in the Netherlands» (2009) – konsekvenser av ledighet uten dagpengevariasjon, ikke effekt av periode eller nivå
+- OK   6 utelatt W2911366618 «Public Finance and Public Policy: A Political Economy Perspective on t» (2019) – lærebok eller oversikt uten empirisk dagpengeeffekt
+- OK   6 utelatt W2157949824 «Equilibrium Unemployment Dynamics in a Panel of OECD Countries» (2014) – makrokorrelasjoner eller lønnsdannelse mellom land, ikke overgang til arbeid
+- OK   6 utelatt W2106353375 «Choosing a System of Unemployment Income Support: Guidelines for Devel» (2006) – utviklingsland eller land utenfor avgrensningen, uformelt arbeidsmarked
+- OK   6 utelatt W2079395109 «Employment turnover and the public allocation of unemployment insuranc» (1999) – teoretisk modell uten empiri
+- OK   6 utelatt W2799905326 «Making Deservingness of the Unemployed Conditional: Changes in Public » (2017) – spørreeksperiment om holdninger eller psykologi, ikke overgang til arbeid
+- OK   6 utelatt W4287737901 «The Ghent system in transition: unions’ evolving role in Sweden’s mult» (2022) – fagforeninger og Ghent-system, ikke overgang til arbeid
+- OK   6 utelatt W3121421249 «LOSING BY LESS? IMPORT COMPETITION, UNEMPLOYMENT INSURANCE GENEROSITY,» (2016) – utfallet er kriminalitet, familie eller utdanning, ikke overgang til arbeid
+- OK   6 utelatt W3124248759 «Unemployment Insurance, Job Search, and Informal Employment*» (2014) – utviklingsland eller land utenfor avgrensningen, uformelt arbeidsmarked
+- OK   6 utelatt W4396595794 «An Evaluation of Social Insurance Savings Accounts» (2001) – sparekonto- eller simuleringsmodell, ikke effekt av dagens dagpengeperiode eller -nivå
+- OK   6 utelatt W2155476377 «Unemployment Insurance Savings Accounts» (2007) – sparekonto- eller simuleringsmodell, ikke effekt av dagens dagpengeperiode eller -nivå
+- OK   6 utelatt W2945664121 «Eligibility, experience rating, and unemployment insurance take‐up» (2020) – tilgang og mottak av dagpenger, ikke avgang til arbeid
+- OK   6 utelatt W2896222597 «Minimum income protection and EU coordination» (2015) – sosialhjelp eller minsteinntekt, ytelse uten forsikringspreg
+- OK   6 utelatt W2618295995 «The just world hypothesis as an argumentative resource in debates abou» (2017) – spørreeksperiment om holdninger eller psykologi, ikke overgang til arbeid
+- OK   6 utelatt W2147836015 «ASSET‐BASED UNEMPLOYMENT INSURANCE*» (2012) – teoretisk modell uten empiri
+- OK   6 utelatt W2410167631 «Optimal unemployment benefits in the presence of informal labor market» (2016) – utviklingsland eller land utenfor avgrensningen, uformelt arbeidsmarked
+- OK   6 utelatt W2166278963 «Unemployment Benefits and Financial Leverage in an Agent Based Macroec» (2013) – teoretisk modell uten empiri
+- OK   6 utelatt W3122584694 «Family Job Search, Wage Bargaining, and Optimal Unemployment Insurance» (2010) – teoretisk modell uten empiri
+- OK   6 utelatt W2050796051 «Is Business Failure Due to Lack of Effort? Empirical Evidence from a L» (2013) – tilgang til ledighet og oppsigelser, ikke avgang til arbeid
+- OK   6 utelatt W2762600287 «Feasibility and Added Value of a European Unemployment Benefits Scheme» (2017) – gjennomførbarhet av europeisk dagpengeordning, ikke empirisk effekt på overgang
+- OK   6 utelatt W2288872647 «Unemployment benefit extensions at the zero lower bound» (2015) – teoretisk modell uten empiri
+- OK   6 utelatt W1966058463 «Labor market cycles, unemployment insurance eligibility, and moral haz» (2011) – teoretisk modell uten empiri
+- OK   6 utelatt W2765575862 «Unintended consequences of unemployment insurance: Evidence from stric» (2017) – utviklingsland eller land utenfor avgrensningen, uformelt arbeidsmarked
+- OK   6 utelatt W3024611022 «Integration of unemployment insurance with retirement insurance» (2002) – teoretisk modell uten empiri
+- OK   6 utelatt W2016958690 «Designing unemployment benefits in developing countries» (2014) – utviklingsland eller land utenfor avgrensningen, uformelt arbeidsmarked
+- OK   6 utelatt W3022528835 «Precarious Work, Unemployment Benefit Generosity and Universal Basic I» (2020) – spørreeksperiment om holdninger eller psykologi, ikke overgang til arbeid
+- OK   6 utelatt W3124616799 «Introduction [to Unemployment Compensation Throughout the World]» (2005) – beskrivende institusjonell sammenligning, ingen estimert effekt på overgang til arbeid
+- OK   6 utelatt W2010709442 «Unemployment insurance with hidden savings» (2010) – teoretisk modell uten empiri
+- OK   6 utelatt W3112467840 «Statistical profiling of unemployed jobseekers» (2021) – profilering eller prediksjon av ledige, ikke effekt av periode eller nivå
+- OK   6 utelatt W2316064500 «China’s welfare reform: An ambiguous road towards a Social Protection » (2013) – Kina, utviklingsland
+- OK   6 utelatt W4210363681 «Social insurance and entrepreneurship: The effect of unemployment bene» (2022) – entreprenørskap og selvstendig næring, ikke overgang til lønnet arbeid
+- OK   6 utelatt W4221093917 «How immigration affects the welfare state in the short and long run: D» (2022) – holdninger til velferdsstat, ikke arbeidsmarkedsutfall
+- OK   6 utelatt W2171476625 «How Viable are Unemployment Insurance Savings Accounts? Simulation Res» (2009) – sparekonto- eller simuleringsmodell, ikke effekt av dagens dagpengeperiode eller -nivå
+- OK   6 utelatt W2092579755 «State Dependent Unemployment Benefits» (2010) – teoretisk modell uten empiri
+- OK   6 utelatt W2963927972 «Causal inference by quantile regression kink designs» (2019) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2318956294 «Citizenship and the activation of social protection: a comparative app» (2005) – politisk analyse av velferdspolitikk, ikke effekt av dagpengeperiode eller -nivå
+- OK   6 utelatt W3193259647 «Welfare Effects of Unemployment Benefits When Informality is High» (2021) – utviklingsland eller land utenfor avgrensningen, uformelt arbeidsmarked
+- OK   6 utelatt W2332601703 «Recommodification, Unemployment, and Health Inequalities» (2016) – utfallet er helse, ikke overgang til arbeid
+- OK   6 utelatt W3033592131 «Atypical Work and Unemployment Protection in Europe*» (2020) – inntektsfordeling eller sårbarhet, ikke overgang til arbeid
+- OK   6 utelatt W3207896937 «The Effect of Wealth on Worker Productivity» (2023) – teoretisk modell uten empiri
+- OK   6 utelatt W1589660923 «The determinants of individual unemployment duration: The case of Mala» (2011) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4293584120 «Race, work history, and the employment recidivism relationship» (2022) – utfallet er kriminalitet, familie eller utdanning, ikke overgang til arbeid
+- OK   6 utelatt W2949508428 «Activation is not a panacea: active labour market policy, long-term un» (2019) – makrokorrelasjoner eller lønnsdannelse mellom land, ikke overgang til arbeid
+- OK   6 utelatt W1553034016 «Is Workers' Compensation a Substitute for Unemployment Insurance?» (1999) – opinionsstudie eller pandemi-situasjon uten dagpengeeffekt
+- OK   6 utelatt W2134839231 «Workforce Heterogeneity and Unemployment Benefits: the Need for Policy» (1997) – lærebok eller oversikt uten empirisk dagpengeeffekt
+- OK   6 utelatt W3048052177 «Unemployment Insurance during a Pandemic» (2020) – teoretisk modell uten empiri
+- OK   6 utelatt W2746635566 «Employment protection» (2014) – sluttvederlag, stillingsvern eller ansettelsesformer, ikke dagpenger
+- OK   6 utelatt W2765828000 «Effects of Welfare Reform on Unemployment Insurance» (1998) – sosialhjelp eller minsteinntekt, ytelse uten forsikringspreg
+- OK   6 utelatt W2796209420 «Designing unemployment insurance for developing countries» (2020) – utviklingsland eller land utenfor avgrensningen, uformelt arbeidsmarked
+- OK   6 utelatt W2099915129 «The puzzles of union density in Norway» (2007) – fagforeninger og Ghent-system, ikke overgang til arbeid
+- OK   6 utelatt W2572831550 «Imperfect Monitoring of Job Search: Structural Estimation and Policy D» (2017) – arbeidssøkekrav, aktivering eller sanksjoner, holdt utenfor
+- OK   6 utelatt W4312472738 «Inequality and dynamics of earnings and disposable income in Denmark 1» (2022) – inntektsfordeling eller sårbarhet, ikke overgang til arbeid
+- OK   6 utelatt W2254855286 «Institutional features of unemployment insurance and the working of th» (1996) – lærebok eller oversikt uten empirisk dagpengeeffekt
+- OK   6 utelatt W2092630827 «Switzerland: High Replacement Rates and Generous Subsistence as a Barr» (2009) – beskrivende om høy erstatningsgrad og pensjonsalder i Sveits, ikke estimert effekt på overgang
+- OK   6 utelatt W2322218569 «Institutions, employment insecurity and polarization in support for un» (2014) – spørreeksperiment om holdninger eller psykologi, ikke overgang til arbeid
+- OK   6 utelatt W1977414431 «Gender in the Reform of the Italian Welfare State» (1999) – kjønnsperspektiv på italienske velferdsreformer, ikke effekt på overgang til arbeid
+- OK   6 utelatt W2910683753 «Precarious workers' choices about unemployment insurance membership af» (2019) – fagforeninger og Ghent-system, ikke overgang til arbeid
+- OK   6 utelatt W3122943204 «Temporary Layoffs and Unemployment Insurance: Is Experience Rating Des» (2005) – finansiering av ordningen eller erfaringsgradering, ikke dagpengenivå eller -periode
+- OK   6 utelatt W2115270529 «Policy Issues: An Overview» (1997) – beskrivende institusjonell sammenligning, ingen estimert effekt på overgang til arbeid
+- OK   6 utelatt W1998467706 «Work incentive and other effects of social assistance and unemployment» (1998) – tsjekkisk studie av sosialhjelp og dagpenger, uten sammendrag, uklart om overgang til arbeid
+- OK   6 utelatt W3122353923 «UNEMPLOYMENT INSURANCE AND EXPERIENCE RATING: INSURANCE VERSUS EFFICIE» (2005) – finansiering av ordningen eller erfaringsgradering, ikke dagpengenivå eller -periode
+- OK   6 utelatt W1549050169 «Unemployment Insurance and Low-Educated, Single, Working Mothers befor» (2011) – tilgang og mottak av dagpenger, ikke avgang til arbeid
+- OK   6 utelatt W2052793917 «Comparing Formal Unemployment Compensation Systems in 15 OECD C ountri» (2013) – beskrivende institusjonell sammenligning, ingen estimert effekt på overgang til arbeid
+- OK   6 utelatt W2063703393 «Patterns of institutional change in minimum income protection in Swede» (2014) – sosialhjelp eller minsteinntekt, ytelse uten forsikringspreg
+- OK   6 utelatt W1581909082 «Scandinavian Activation Strategies in the 1990s: Recasting Social Citi» (2003) – arbeidssøkekrav, aktivering eller sanksjoner, holdt utenfor
+- OK   6 utelatt W3044677924 «Unemployment Insurance Generosity and Crime» (2020) – utfallet er kriminalitet, familie eller utdanning, ikke overgang til arbeid
+- OK   6 utelatt W3029513291 «Unemployment Insurance and Vulnerable Households During the COVID-19 P» (2020) – inntektsfordeling eller sårbarhet, ikke overgang til arbeid
+- OK   6 utelatt W2013604417 «Does unemployment insurance crowd out home production?» (2013) – utfallet er kriminalitet, familie eller utdanning, ikke overgang til arbeid
+- OK   6 utelatt W2016957968 «Unemployment Insurance or Individual Savings Accounts: Can Chile'S New» (2006) – Chile, beskriver sparekontoordning uten estimert effekt på overgang til arbeid
+- OK   6 utelatt W2890208647 «Unemployment Insurance Reform: Fixing a Broken System» (2018) – politikkforslag for amerikansk ordning, uten effektestimat på overgang til arbeid
+- OK   6 utelatt W2158188128 «Unemployment Duration and Inflows onto the Disability Support Pension » (2005) – utfallet er pensjon eller uføreytelse, ikke overgang til arbeid
+- OK   6 utelatt W3153428504 «11 Workplace Democracy: Representation and Participation Gaps in the N» (2018) – fagforeninger og Ghent-system, ikke overgang til arbeid
+- OK   6 utelatt W2054990975 «Disability, sickness, and unemployment benefits among long-term sickne» (2011) – utfallet er pensjon eller uføreytelse, ikke overgang til arbeid
+- OK   6 utelatt W2169704293 «FINANCING UNEMPLOYMENT INSURANCE» (2014) – finansiering av ordningen eller erfaringsgradering, ikke dagpengenivå eller -periode
+- OK   6 utelatt W4321108803 «Too Much of a Good Thing? Australian Cash Transfer Replacement Rates D» (2023) – inntektsfordeling eller sårbarhet, ikke overgang til arbeid
+- OK   6 utelatt W2142152777 «The Welfare Consequences of Alternative Designs of Unemployment Insura» (2011) – sparekonto- eller simuleringsmodell, ikke effekt av dagens dagpengeperiode eller -nivå
+- OK   6 utelatt W2319886974 «Benefit Increases in Workers Compensation» (1990) – opinionsstudie eller pandemi-situasjon uten dagpengeeffekt
+- OK   6 utelatt W2572377777 «Minimum income schemes in Europe: is there a trade-off with activation» (2017) – sosialhjelp eller minsteinntekt, ytelse uten forsikringspreg
+- OK   6 utelatt W2007308047 «The Origins of Unemployment Insurance in Britain» (2005) – historisk eller juridisk fremstilling, ikke empirisk effekt av dagpenger
+- OK   6 utelatt W2173473881 «Perceptions Of Unemployed Workers: Unemployment Duration, Volunteerism» (2013) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1563066836 «Measuring (In)Security in the Event of Unemployment: Are We Forgetting» (2013) – opinionsstudie eller pandemi-situasjon uten dagpengeeffekt
+- OK   6 utelatt W1938618821 «State Unemployment Insurance Trust Solvency and Benefit Generosity» (2013) – finansiering av ordningen eller erfaringsgradering, ikke dagpengenivå eller -periode
+- OK   6 utelatt W2108414999 «On voters’ attitudes towards unemployment insurance subsidies across r» (2005) – spørreeksperiment om holdninger eller psykologi, ikke overgang til arbeid
+- OK   6 utelatt W2134557996 «Optimal Unemployment Insurance with Sequential Search» (2003) – teoretisk modell uten empiri
+- OK   6 utelatt W2017448967 «Unemployment durations and the pattern of duration dependence over the» (2009) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2080793875 «El diseño del seguro de desempleo y sus efectos: evidencia para Urugua» (2013) – Uruguay, utenfor landavgrensningen (ikke Europa, USA eller OECD)
+- OK   6 utelatt W3207264849 «Shielding free movement? Reciprocity in welfare institutions and oppos» (2021) – spørreeksperiment om holdninger eller psykologi, ikke overgang til arbeid
+- OK   6 utelatt W4320922454 «Who deserves to be sanctioned? A vignette experiment of ethnic discrim» (2023) – arbeidssøkekrav, aktivering eller sanksjoner, holdt utenfor
+- OK   6 utelatt W1975162363 «Constitutional Choice, Multi-Level Government and Social Security Syst» (1996) – politisk analyse av velferdspolitikk, ikke effekt av dagpengeperiode eller -nivå
+- OK   6 utelatt W2591742072 «Beyond Social Security: The Economic Value of Giving Money to Unemploy» (1999) – beskrivende institusjonell sammenligning, ingen estimert effekt på overgang til arbeid
+- OK   6 utelatt W2302026196 «A Changing Federal-State Balance in Unemployment Insurance?» (2013) – historisk eller juridisk fremstilling, ikke empirisk effekt av dagpenger
+- OK   6 utelatt W4287746059 «Designing Disability Insurance Reforms: Tightening Eligibility Rules o» (2024) – utfallet er pensjon eller uføreytelse, ikke overgang til arbeid
+- OK   6 utelatt W3134290390 «Generous to Workers ≠ Generous to All: Implications of European Unempl» (2021) – inkluderer innvandrere og ytelsestilgang, ikke overgang til arbeid
+- OK   6 utelatt W1966447182 «On-the-job search equilibrium with endogenous unemployment benefits» (2009) – teoretisk modell uten empiri
+- OK   6 utelatt W2224718261 «Do Interactions between Unemployment Insurance and Sickness Insurance » (2011) – ytelse mellom dagpenger og sykepenger, ikke endring i dagpengeperiode eller -nivå
+- OK   6 utelatt W4214765638 «Union Density in Norway and Sweden: Stability versus Decline» (2022) – fagforeninger og Ghent-system, ikke overgang til arbeid
+- OK   6 utelatt W2974737612 «Local labor demand and participation in social insurance programs» (2019) – utfallet er pensjon eller uføreytelse, ikke overgang til arbeid
+- OK   6 utelatt W278725283 «Comment on P. Skedinger, "Employment Policies and Displacement in the » (1995) – sluttvederlag, stillingsvern eller ansettelsesformer, ikke dagpenger
+- OK   6 utelatt W2035520662 «Duration‐Dependent Unemployment Insurance Payments and Equilibrium Une» (2004) – teoretisk modell uten empiri
+- OK   6 utelatt W3021168907 «Measuring Unemployment Insurance Generosity» (2013) – finans- eller makropolitikk, ikke overgang til arbeid
+- OK   6 utelatt W2099334007 «Duration data models, unemployment benefits and bias» (2007) – finans- eller makropolitikk, ikke overgang til arbeid
+- OK   6 utelatt W1964894298 «Coordination versus flexibility in wage formation: a focus on the nomi» (2014) – makrokorrelasjoner eller lønnsdannelse mellom land, ikke overgang til arbeid
+- OK   6 utelatt W2886228628 «Social expenditure, social rights, and benefit receipt as indicators o» (2018) – finans- eller makropolitikk, ikke overgang til arbeid
+- OK   6 utelatt W2897080429 «EXAMINING THE EXTERNALITY OF UNEMPLOYMENT INSURANCE ON CHILDREN'S EDUC» (2018) – utfallet er kriminalitet, familie eller utdanning, ikke overgang til arbeid
+- OK   6 utelatt W1516744473 «UNEMPLOYMENT, HUMAN CAPITAL DEPRECIATION, AND UNEMPLOYMENT INSURANCE P» (2012) – lønnsdynamikk eller livssyklusmodell, ikke effekt av dagpengeperiode eller -nivå
+- OK   6 utelatt W1963780063 «Unemployment Insurance, Wage Dynamics and Inequality Over the Life Cyc» (2013) – lønnsdynamikk eller livssyklusmodell, ikke effekt av dagpengeperiode eller -nivå
+- OK   6 utelatt W2313283988 «Compensating Wage Differentials and the Optimal Provision of Unemploym» (1994) – lønnsdynamikk eller livssyklusmodell, ikke effekt av dagpengeperiode eller -nivå
+- OK   6 utelatt W2031378432 «The failure of Canadian seasonal fishermen's unemployment insurance re» (1998) – historisk eller juridisk fremstilling, ikke empirisk effekt av dagpenger
+- OK   6 utelatt W651336825 «An Econometric Analysis of Individual Unemployment Duration in West Ge» (1993) – tysk monografi 1993 om ledighetsvarighet, sammendraget viser ikke dagpengeeffekt, uklart
+- OK   6 utelatt W2107057854 «Unemployment insurance design: Inducing moving and retraining» (2007) – teoretisk modell uten empiri
+- OK   6 utelatt W4367850914 «Benefit Reforms for Inclusive Societies in the United States» (2023) – politikkforslag for amerikansk ordning, uten effektestimat på overgang til arbeid
+- OK   6 utelatt W1637804055 «How unemployment duration affects social assistance receipt: evidence » (2004) – sosialhjelp eller minsteinntekt, ytelse uten forsikringspreg
+- OK   6 utelatt W2166127529 «Labour market institutions and wage setting: evidence for OECD countri» (2010) – makrokorrelasjoner eller lønnsdannelse mellom land, ikke overgang til arbeid
+- OK   6 utelatt W2000030964 «Tuning unemployment insurance to the business cycle» (2014) – kort policyoppsummering uten sammendrag, normativ om konjunkturtilpasning, uklart empirisk grunnlag
+- OK   6 utelatt W2528171206 «Lessons from the American federal‐state unemployment insurance system » (2020) – politikkforslag for amerikansk ordning, uten effektestimat på overgang til arbeid
+- OK   6 utelatt W2071480825 «Insuring Free Trade: Unemployment Insurance and Trade Policy» (2011) – finans- eller makropolitikk, ikke overgang til arbeid
+- OK   6 utelatt W2294816537 «The Effects of Eliminating the Work Search Requirement on Job Match Qu» (2015) – arbeidssøkekrav, aktivering eller sanksjoner, holdt utenfor
+- OK   6 utelatt W1557001009 «How do politicians save? Buffer-stock management of unemployment insur» (2016) – finansiering av ordningen eller erfaringsgradering, ikke dagpengenivå eller -periode
+- OK   6 utelatt W2485207698 «Workfare with Welfare Revisited» (2014) – sosialhjelp eller minsteinntekt, ytelse uten forsikringspreg
+- OK   6 utelatt W2804140739 «Denmark: the long-lasting class compromise» (2018) – beskrivelse av Norden, ikke dagpengeeffekt
+- OK   6 utelatt W4384558559 «Marriage and divorce: the role of unemployment insurance» (2023) – utfallet er kriminalitet, familie eller utdanning, ikke overgang til arbeid
+- OK   6 utelatt W2914316394 «The structural nature of the inadequate social floor for single-parent» (2018) – sosialhjelp eller minsteinntekt, ytelse uten forsikringspreg
+- OK   6 utelatt W1578608719 «New Ways of Evaluating State Unemployment Insurance» (1999) – politikkforslag for amerikansk ordning, uten effektestimat på overgang til arbeid
+- OK   6 utelatt W2885439652 «Unemployment Insurance Reform: Evidence-Based Policy Recommendations» (2018) – politikkforslag for amerikansk ordning, uten effektestimat på overgang til arbeid
+- OK   6 utelatt W1508370749 «Unemployment Insurance: American Social Wage, Labor Organization and L» (1994) – historisk eller juridisk fremstilling, ikke empirisk effekt av dagpenger
+- OK   6 utelatt W3122721313 «When free choice turns into a pitfall: conditional social protection f» (2021) – inkluderer innvandrere og ytelsestilgang, ikke overgang til arbeid
+- OK   6 utelatt W4385551648 «Disruption of the Ghent effect: Disentangling structural and instituti» (2023) – fagforeninger og Ghent-system, ikke overgang til arbeid
+- OK   6 utelatt W2178942109 «Unemployment Benefits as a Substitute for a Conservative Central Banke» (2004) – makrokorrelasjoner eller lønnsdannelse mellom land, ikke overgang til arbeid
+- OK   6 utelatt W1963546556 «Recalls and unemployment insurance taxes» (2004) – finansiering av ordningen eller erfaringsgradering, ikke dagpengenivå eller -periode
+- OK   6 utelatt W2921772328 «An Introduction to Unemployment and Unemployment Insurance» (2005) – beskrivende institusjonell sammenligning, ingen estimert effekt på overgang til arbeid
+- OK   6 utelatt W2081385114 «Duration dependent unemployment benefits in trade union theory» (2002) – teoretisk modell uten empiri
+- OK   6 utelatt W2534411464 «A Quantitative Theory of Time-Consistent Unemployment Insurance» (2017) – teoretisk modell uten empiri
+- OK   6 utelatt W1554328616 «Predicting the Exhaustion of Unemployment Compensation» (2002) – profilering eller prediksjon av ledige, ikke effekt av periode eller nivå
+- OK   6 utelatt W4405819051 «The short- and long-term effects of family-friendly policies on mother» (2024) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2334193036 «Social Policy Reform in the Italian Debt Crisis: Pensions, Labor, Unem» (2013) – politisk analyse av velferdspolitikk, ikke effekt av dagpengeperiode eller -nivå
+- OK   6 utelatt W4361295349 «Free movement and access to social security in the EU: The challenge o» (2023) – historisk eller juridisk fremstilling, ikke empirisk effekt av dagpenger
+- OK   6 utelatt W2505057191 «Welfare state institutions, unemployment and poverty: comparative anal» (2011) – makrokorrelasjoner eller lønnsdannelse mellom land, ikke overgang til arbeid
+- OK   6 utelatt W4220981509 «Which Duration of Unemployment Benefits is Perceived as Being Just for» (2022) – spørreeksperiment om holdninger eller psykologi, ikke overgang til arbeid
+- OK   6 utelatt W3124122171 «Unemployment Benefits and Immigration: Evidence from the EU» (2011) – holdninger til velferdsstat, ikke arbeidsmarkedsutfall
+- OK   6 utelatt W4249618229 «Income Support for the Unemployed» (2011) – tilgang og mottak av dagpenger, ikke avgang til arbeid
+- OK   6 utelatt W1601247496 «Adequacy of the Weekly Benefit Amount» (1997) – tilgang og mottak av dagpenger, ikke avgang til arbeid
+- OK   6 utelatt W4210845458 «The Impact of the COVID-19 pandemic on the unemployment rate in Latvia» (2021) – opinionsstudie eller pandemi-situasjon uten dagpengeeffekt
+- OK   6 utelatt W3128573998 «Transformation of the Ghent System in Sweden: Silent Institutionalizat» (2020) – fagforeninger og Ghent-system, ikke overgang til arbeid
+- OK   6 utelatt W2885199194 «Why the Unemployment Insurance Program Needs to Be Reformed» (2018) – politikkforslag for amerikansk ordning, uten effektestimat på overgang til arbeid
+- OK   6 utelatt W4404013335 «Unevenly Unequal Responsiveness: Public Opinion and Redistributive Pol» (2024) – spørreeksperiment om holdninger eller psykologi, ikke overgang til arbeid
+- OK   6 utelatt W2899983244 «Sweden: Voluntary unemployment insurance» (2018) – beskrivende institusjonell sammenligning, ingen estimert effekt på overgang til arbeid
+- OK   6 utelatt W2909855708 «Revisiting Danish Flexicurity After a Decade of Reform» (2018) – beskrivelse av Norden, ikke dagpengeeffekt
+- OK   6 utelatt W2054343885 «Trade union density and unemployment insurance in Finland» (2006) – fagforeninger og Ghent-system, ikke overgang til arbeid
+- OK   6 utelatt W2160725568 «Unemployment Traps - Marginal Groups in the Danish Labour Market» (2005) – analyse av arbeidsinsentiver og ledighetsfeller i Danmark, ikke estimert effekt på overgang
+- OK   6 utelatt W4390840794 «A European Unemployment Benefit to Protect Atypical Workers?» (2024) – inntektsfordeling eller sårbarhet, ikke overgang til arbeid
+- OK   6 utelatt W2488881543 «Risk aversion and inequity aversion in demand for unemployment benefit» (2016) – spørreeksperiment om holdninger eller psykologi, ikke overgang til arbeid
+- OK   6 utelatt W7172566419 «Employment effects and fiscal spillovers of a public sector employment» (2026) – arbeidssøkekrav, aktivering eller sanksjoner, holdt utenfor
+- OK   6 utelatt W1553531583 «The Effect of the Extended Benefit Duration on the Aggregate Labor Mar» (2010) – teoretisk modell uten empiri
+- OK   6 utelatt W2997477733 «Evidence on Rule Manipulation and Moral Hazard in the Brazilian Unempl» (2019) – utviklingsland eller land utenfor avgrensningen, uformelt arbeidsmarked
+- OK   6 utelatt W3122158468 «Permanent Job Loss and the U.S. System of Financing Unemployment Insur» (1996) – finansiering av ordningen eller erfaringsgradering, ikke dagpengenivå eller -periode
+- OK   6 utelatt W4404900140 «Labour market risks and preferences for EU unemployment insurance: the» (2024) – spørreeksperiment om holdninger eller psykologi, ikke overgang til arbeid
+- OK   6 utelatt W3123522794 «Determinants of unemployment duration in Ukraine» (2005) – ledighetsvarighet i Ukraina, dagpengevariasjon ikke synlig i sammendraget
+- OK   6 utelatt W2070775822 «Transnational Unemployment Insurance: The Inclusion and Exclusion of F» (2013) – historisk eller juridisk fremstilling, ikke empirisk effekt av dagpenger
+- OK   6 utelatt W4410871236 «Unemployment Benefits in the EU: The Commission's Approach» (2025) – politisk analyse av velferdspolitikk, ikke effekt av dagpengeperiode eller -nivå
+- OK   6 utelatt W1992665707 «Topics in Unemployment Insurance Financing» (1998) – finansiering av ordningen eller erfaringsgradering, ikke dagpengenivå eller -periode
+- OK   6 utelatt W2170013946 «Fiscal Expenditures and Unemployment: A DSGE Perspective» (2010) – finans- eller makropolitikk, ikke overgang til arbeid
+- OK   6 utelatt W2954733097 «Alternative Social Security Systems in CIS Countries» (1993) – opinionsstudie eller pandemi-situasjon uten dagpengeeffekt
+- OK   6 utelatt W3083557489 «Unemployment benefits in CEE countries. Does their limited scope match» (2020) – opinionsstudie eller pandemi-situasjon uten dagpengeeffekt
+- OK   6 utelatt W2083600359 «Unemployment insurance with moral hazard in a dynamic economy A commen» (1996) – teoretisk modell uten empiri
+- OK   6 utelatt W2583821281 «The Distribution of Income, Wealth and Economic Security: The Impact o» (1998) – inntektsfordeling eller sårbarhet, ikke overgang til arbeid
+- OK   6 utelatt W2115580583 «UNEMPLOYMENT DURATION, LAYOFFS AND COMPETING RISKS» (2007) – ledighetsvarighet i Spania, ingen variasjon i dagpengeregler i sammendraget
+- OK   6 utelatt W3169579781 «Nordic welfare state changes especially in the light of migration and » (2021) – beskrivelse av Norden, ikke dagpengeeffekt
+- OK   6 utelatt W2257620815 «Optimal Monitoring and Sanctioning Systems» (2010) – teoretisk modell uten empiri
+- OK   6 utelatt W2788177764 «Popular Radicalism in the 1930s: The History of the Workers' Unemploym» (2018) – historisk eller juridisk fremstilling, ikke empirisk effekt av dagpenger
+- OK   6 utelatt W1485363425 «Extending coverage of the unemployment insurance-system in South Afric» (2010) – utviklingsland eller land utenfor avgrensningen, uformelt arbeidsmarked
+- OK   6 utelatt W2214669444 «Tidsbegränsade anställningar - danska erfarenheter» (2003) – sluttvederlag, stillingsvern eller ansettelsesformer, ikke dagpenger
+- OK   6 utelatt W2288299007 «A Critique of the Unemployment Insurance Amendment Bill, 2015» (2015) – utviklingsland eller land utenfor avgrensningen, uformelt arbeidsmarked
+- OK   6 utelatt W2500953396 «What Difference does a Job Make? The Income Consequences of Joblessnes» (2004) – beskrivende institusjonell sammenligning, ingen estimert effekt på overgang til arbeid
+- OK   6 utelatt W3093966727 «The Generosity of Unemployment Benefits in Korea : Comparative Analysi» (2010) – opinionsstudie eller pandemi-situasjon uten dagpengeeffekt
+- OK   6 utelatt W7164812579 «The Impact of Unemployment Insurance Benefit Cuts on Mental Health: Ev» (2026) – utfallet er helse, ikke overgang til arbeid
+- OK   6 utelatt W7127614101 «The Handbook of Social Protection» (2026) – utviklingsland, skole-til-arbeid uten dagpenger
+- OK   6 utelatt W2970681969 «Retrenchment of unemployment protection and the absence of public resi» (2018) – spørreeksperiment om holdninger eller psykologi, ikke overgang til arbeid
+- OK   6 utelatt W3191005549 «Aktivare användning av arbetslöshetsersättningen» (1999) – arbeidssøkekrav, aktivering eller sanksjoner, holdt utenfor
+- OK   6 utelatt W7214164490 «Unemployment insurance with moral hazard in a dynamic economy» (1996) – teoretisk modell uten empiri
+- OK   6 utelatt W7124252626 «No. 15066. Agreement between Norway, Denmark, Finland, Iceland and Swe» (1995) – historisk eller juridisk fremstilling, ikke empirisk effekt av dagpenger
+- OK   6 utelatt 0198cc8f6982-cf1e8c70-80bc-4b09-9cb8-27a311353413 «Digitale velferdstjenester – En litteraturgjennomgang om digitale møte» (2020) – digitale velferdstjenester, ikke dagpenger
+- OK   6 utelatt KU-2a365696-b918-4db7-9a02-cbbeadf7420b «Trygdesvindel i Norge» (2013) – kartlegging av trygdesvindel, ikke periode, nivå eller overgang til arbeid
+- OK   6 utelatt LI-11784689 «Arbetslöshetskassorna och systematisk internkontroll : IAF:s redovisni» (2009) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt FI-jykdok.2318873 «Kuljettajaopetuksen ja -tutkinnon uudistus vuonna 2018 : katsaus lakim» (2021) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt FI-jykdok.2187308 «Työ, hyvinvointi ja tulevaisuus Valtiovarainministeriön tulevaisuuskat» (2018) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt FI-3amk.88033 «Sosiaalibarometri 2016 : erityiskatsaus toimeentulosta ja sote-uudistu» (2016) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2023936086 «Unemployment Insurance and Job Search Decisions» (1977) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2061404170 «Unemployment insurance and the distribution of unemployment spells» (1985) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2028359817 «The Effect of Unemployment Insurance on Unemployment: The Case of Fede» (1982) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2044490008 «Unemployment Insurance and Male Unemployment Duration in Canada» (1987) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2159903536 «Some aspects of optimal unemployment insurance» (1978) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W1492616485 «Unemployment Insurance, Duration of Unemployment, and Subsequent Wage » (1976) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W3024062560 «A general formula for the optimal level of social insurance» (2006) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2131648886 «The Econometric Analysis of Transition Data» (1990) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2052888666 «Optimal Unemployment Insurance» (1997) – teoretisk modell for optimal dagpengeordning, ingen empirisk effekt på overgang til arbeid
+- OK   6 utelatt W2045637657 «Unemployment Insurance and Unemployment» (1936) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2004877180 «A Method for Minimizing the Impact of Distributional Assumptions in Ec» (1984) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W3121492802 «Regression Discontinuity Designs in Economics» (2010) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2159549218 «Unemployment Benefits Revisited» (1985) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W1536007417 «Layoffs, Recall and the Duration of Unemployment» (1986) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W3125981254 «Reservation Wages and Unemployment Insurance» (2007) – teoretisk test av optimal dagpengeordning basert på reservasjonslønn, ingen egen effektestimering
+- OK   6 utelatt W1591629962 «Duration Models: Specification, Identification and Multiple Durations» (2001) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1974940523 «Temporary Layoffs in the Theory of Unemployment» (1976) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2109298044 «Recent Trends in Insured and Uninsured Unemployment: Is There an Expla» (1991) – bruk av dagpenger (take-up) i USA, ikke avgang til arbeid
+- OK   6 utelatt W3123265974 «Manipulation of the running variable in the regression discontinuity d» (2007) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3123058307 «Job Search and Labor Market Analysis» (1984) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2117323684 «Duration Dependence and Labor Market Conditions: Evidence from a Field» (2013) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1975009779 «Econometric Methods for the Duration of Unemployment» (1979) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W1565827082 «Empirical Labor Economics: The Search Approach.» (1992) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3099937644 «Beyond the added-worker and the discouraged-worker effects: the entitl» (2022) – teoretisk modell for dagpengeordning uten empiri
+- OK   6 utelatt W2011997337 «The European Unemployment Dilemma» (1998) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3122927400 «Unemployment vs. Mismatch of Talents: Reconsidering Unemployment Benef» (1999) – teoretisk modell for dagpengeordning uten empiri
+- OK   6 utelatt W1578131924 «Optimal Unemployment Insurance Over the Business Cycle» (2010) – teoretisk modell for optimal dagpengeordning, ingen empirisk effekt på overgang til arbeid
+- OK   6 utelatt W2034034530 «Economics of Information and Job Search» (1970) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2061969952 «UNEMPLOYMENT INSURANCE PAYMENTS AS A SEARCH SUBSIDY: A THEORETICAL ANA» (1979) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W1537287213 «Robust Nonparametric Confidence Intervals for Regression-Discontinuity» (2014) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2114242548 «Identification and Estimation of Treatment Effects with a Regression-D» (2001) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3122089893 «The Effect of Unemployment Insurance Sanctions on the Transition Rate » (2005) – sanksjoner, overvåking og aktivitetskrav, holdt utenfor
+- OK   6 utelatt W2053673603 «Modelling the Probability of Leaving Unemployment: Competing Risks Mod» (1993) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1504528670 «A Contribution to the Empirics of Reservation Wages» (2016) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1997099700 «Optimal unemployment insurance in an equilibrium business-cycle model» (2014) – teoretisk modell for optimal dagpengeordning, ingen empirisk effekt på overgang til arbeid
+- OK   6 utelatt W1510289288 «Scraping by: Income and Program Participation After the Loss of Extend» (2017) – utfall er inntekt og ytelsesbruk etter utløp, ikke overgang til arbeid
+- OK   6 utelatt W3125465459 «Fiscal Externalities and Optimal Unemployment Insurance» (2017) – teoretisk modell for optimal dagpengeordning, ingen empirisk effekt på overgang til arbeid
+- OK   6 utelatt W2129681252 «Sufficient Statistics for Welfare Analysis: A Bridge Between Structura» (2009) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2164913676 «The Optimal Payment of Unemployment Insurance Benefits over Time» (1979) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2052913077 «Unemployment Insurance Rules, Joblessness, and Part-Time Work» (1996) – regel om fribeløp ved deltidsarbeid, ikke periode eller nivå
+- OK   6 utelatt W1980886856 «The Effect of Unemployment Insurance on the Duration of Unemployment a» (1977) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2249901682 «Age and reemployment success after job loss: An integrative model and » (2015) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3121310829 «Optimal Unemployment Insurance in Search Equilibrium» (2001) – teoretisk modell for optimal dagpengeordning, ingen empirisk effekt på overgang til arbeid
+- OK   6 utelatt W1956079301 «Unemployment (Fears) and Deflationary Spirals» (2017) – makromodell med ledighetsfrykt, ikke dagpenger
+- OK   6 utelatt W3122492240 «Compulsion in active labour market programmes» (2007) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2085042242 «Job Matching and the Theory of Turnover» (1979) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W3122808218 «The Cyclical Behavior of Equilibrium Unemployment and Vacancies Revisi» (2008) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2042562410 «Efficient Unemployment Insurance» (1999) – teoretisk modell for optimal dagpengeordning, ingen empirisk effekt på overgang til arbeid
+- OK   6 utelatt W3121683627 «The Optimal Payment of Unemployment Insurance Benefits over Time» (1978) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W3123387605 «Liquidity and Insurance for the Unemployed» (2008) – teoretisk modell for optimal dagpengeordning, ingen empirisk effekt på overgang til arbeid
+- OK   6 utelatt W3123091796 «Social Insurance: Connecting Theory to Data» (2013) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1804939085 «Job Creation and Job Destruction in the Theory of Unemployment» (1994) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2080196427 «The Cyclical Behavior of Equilibrium Unemployment and Vacancies» (2005) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2141445845 «Do Labor Market Policies have Displacement Effects? Evidence from a Cl» (2013) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3024955162 «Unemployment insurance and reservation wages» (1984) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W1541691056 «On Layoffs and Unemployment Insurance» (2007) – teoretisk modell for dagpengeordning uten empiri
+- OK   6 utelatt W1545204797 «Work Incentive Effects of Taxing Unemployment Benefits» (1985) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2081111291 «Is longer unemployment rewarded with longer job tenure?» (2013) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2145411167 «Optimal Bandwidth Choice for the Regression Discontinuity Estimator» (2011) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2069757101 «The Nonparametric Identification of Treatment Effects in Duration Mode» (2003) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2108873859 «Estimating the Probability of Leaving Unemployment» (1979) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2062400400 «Do Matching Frictions Explain Unemployment? Not in Bad Times» (2012) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2126542218 «The long-term effects of job search requirements: Evidence from the UK» (2009) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3121628207 «What do labor market institutions do?» (2014) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2797098131 «Labor Supply Effects of Extended Unemployment Benefits» (1979) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2411673670 «Effects of the unemployment insurance work test on long-term employmen» (2016) – arbeidssøkerkrav (work test), holdt utenfor
+- OK   6 utelatt W2056401733 «Equilibrium Unemployment Theory» (1991) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1994670953 «Regression Analysis of Grouped Survival Data with Application to Breas» (1978) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2069597205 «Flexible parametric estimation of duration and competing risk models» (1990) – økonometrisk metode for varighetsmodeller, ikke effekt av dagpenger
+- OK   6 utelatt W1570584365 «The Effect of Unemployment Insurance on Temporary Layoff Unemployment» (1978) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2072884253 «Modelling the process of job search» (1985) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2033306386 «Effects of Unemployment Insurance Entitlement on Duration and Job Sear» (1977) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2125279885 «Active social insurance» (2012) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; sykefravær, uføre eller yrkesskade, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2889769830 «Job search requirements, effort provision and labor market outcomes» (2018) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4243182875 «Unemployment» (2005) – bok om ledighet og institusjoner i OECD, makro og ikke avgrenset effekt av periode eller nivå
+- OK   6 utelatt W1927801626 «The Beveridge Curve: A Survey» (2015) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2106447244 «Search Behaviour, Transitions to Non-participation and the Duration of» (1990) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2121629130 «Job Search and Savings: Wealth Effects and Duration Dependence» (2005) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2066815440 «Jobless Pay and the Economy» (1978) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W1976005924 «Should unemployment benefits decrease with the unemployment spell?» (2000) – teoretisk modell for optimal dagpengeordning, ingen empirisk effekt på overgang til arbeid
+- OK   6 utelatt W1980988215 «Job displacement and the transitions to re-employment and early retire» (2009) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; pensjon eller tidligpensjon, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3048133543 «Reservation Benefits: Assessing job acceptance impacts of increased UI» (2020) – anslag på reservasjonsytelse for koronapåslag i USA, ikke effekt av periode eller nivå på jobbovergang
+- OK   6 utelatt W2098963500 «Workfare for the old and long-term unemployed» (2013) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3122168480 «Job insecurity, unemployment insurance and on-the-job search. Evidence» (2016) – jobbusikkerhet og jobbsøk blant eldre i USA, ikke periode eller nivå
+- OK   6 utelatt W4415095752 «Educated workers do not experience shorter unemployment spells: eviden» (2025) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W7147143439 «Premature termination of unemployment benefits increased COVID-19 tran» (2026) – utfallet er helse eller velferd, ikke overgang til arbeid
+- OK   6 utelatt W3122958054 «Regression discontinuity designs: A guide to practice» (2007) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2016525917 «Economic duration data and hazard functions» (1988) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2051133393 «Employment Fluctuations with Equilibrium Wage Stickiness» (2005) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2107365429 «Easy Estimation Methods for Discrete‐Time Duration Models» (1995) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2101856657 «Chapter 15 Job search and labor market analysis» (1986) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2891163017 «Efficient Unemployment Insurance» (1998) – teoretisk modell for optimal dagpengeordning, ingen empirisk effekt på overgang til arbeid
+- OK   6 utelatt W3085298730 «The Effect of Benefit Sanctions on the Duration of Unemployment» (2005) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4388134873 «Empirical Labor Economics» (1991) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3023101338 «Learning about job search: A field experiment with job seekers in Germ» (2018) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1970172042 «Running out of time: Limited unemployment benefits and reservation wag» (2011) – modell for reservasjonslønn ved begrenset dagpengeperiode, kalibrert; uten sammendrag, ikke en empirisk effektstudie
+- OK   6 utelatt W3164549932 «Medicaid Expansion and the Unemployed» (2021) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2911027190 «Financial Incentives to Work in France between 1998 and 2014» (2019) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3143243128 «Equilibrium Unemployment Theory.» (1992) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2032411477 «Job Search and Impatience» (2004) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3023152110 «Punitive Sanctions and the Transition Rate from Welfare to Work» (2004) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1787999017 «The Analysis of Re-Employment Probabilities for the Unemployed» (1980) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W1500520980 «Bonuses to Workers and Employers to Reduce Unemployment: Randomized Tr» (1987) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W3124149216 «Rethinking Social Insurance» (2005) – generell omtale av sosialforsikring, ikke avgrenset empirisk studie
+- OK   6 utelatt W1535387382 «Time and causality: A Monte Carlo assessment of the timing-of-events a» (2007) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2030026821 «Unemployment Insurance in the United States: Layoff Incentives and Cro» (1993) – finansiering og erfaringsvurdering av ordningen, ikke avgang til arbeid
+- OK   6 utelatt W2158853235 «OPTIMAL UNEMPLOYMENT INSURANCE, WITH HUMAN CAPITAL DEPRECIATION, AND D» (2009) – teoretisk modell for optimal dagpengeordning, ingen empirisk effekt på overgang til arbeid
+- OK   6 utelatt W3125212155 «Incentive effects of unemployment insurance savings accounts: Evidence» (2011) – sparekontoordning i Chile, ikke ordinær dagpengeperiode eller -nivå
+- OK   6 utelatt W1983459757 «Job search, wage offers, and unemployment insurance» (1986) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W3022248921 «Unemployment Insurance and Means-Tested Program Interactions: Evidence» (2020) – samspill med sosialhjelp (TANF) i USA, ikke overgang til arbeid
+- OK   6 utelatt W1494855668 «Looking into the Black Box: A Survey of the Matching Function» (2001) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3121814081 «Search-Theoretic Models of the Labor Market: A Survey» (2005) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3181398236 «A Unified Welfare Analysis of Government Policies*» (2020) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2143582155 «Loss of Skill During Unemployment and the Persistence of Employment Sh» (1992) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3124177394 «New methods for analyzing structural models of labor force dynamics» (1982) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2024622581 «Does Unemployment Insurance Crowd out Spousal Labor Supply?» (2000) – utfallet er ektefellens arbeidstilbud, ikke ledige sin overgang til arbeid
+- OK   6 utelatt W3123047853 «Labour-Market Matching with Precautionary Savings and Aggregate Fluctu» (2010) – teoretisk modell for dagpengeordning uten empiri
+- OK   6 utelatt W2136235884 «The Cyclicality of the Opportunity Cost of Employment» (2016) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1575145966 «Long-Term Unemployment and the Great Recession: The Role of Compositio» (2015) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2251625943 «Optimal Unemployment Insurance with Monitoring and Sanctions» (2007) – teoretisk modell for overvåking og sanksjoner
+- OK   6 utelatt W1481603878 «Unemployment benefit, duration and incentives in Britain» (1984) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W1541950146 «Search Effort in the Labor Market» (1979) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W3122909506 «Job Search Behavior over the Business Cycle» (2018) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3123999268 «Job Search Requirements for Older Unemployed: Transitions to Employmen» (2011) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; sykefravær, uføre eller yrkesskade, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3022587161 «Work Incentive Effects of Taxing Unemployment Benefits» (1984) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2053240762 «The Impact of Unemployment Insurance Benefits on Reemployment Success» (1976) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W1852138374 «Hazard Analysis of Unemployment Duration by Gender in a Developing Cou» (2010) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2083213530 «Unemployment Duration in Germany: Individual and Regional Determinants» (2008) – tyske determinanter for ledighetsvarighet, ikke ytelsesperiode eller -nivå
+- OK   6 utelatt W3127780362 «Whether, when and how to extend unemployment benefits: Theory and appl» (2021) – teori og kalibrering av forlengelse av dagpenger under korona, ikke empirisk estimat
+- OK   6 utelatt W25672664 «The Folly of Subsidizing Unemployment» (2010) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2136393151 «The impact of foreclosure delay on U.S. employment» (2018) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2000226642 «Temporary layoffs and split population models» (2004) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2128017766 «Natural and Quasi- Experiments in Economics» (1994) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2151352067 «Manipulation of the Running Variable in the Regression Discontinuity D» (2007) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2088078662 «Estimating Gross Labor-Force Flows» (1985) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2131364445 «The Effect of Sample Selection and Initial Conditions in Duration Mode» (1996) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2121639131 «Job Search and Hyperbolic Discounting: Structural Estimation and Polic» (2008) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3121866572 «Estimating the Effect of Student Aid on College Enrollment: Evidence f» (2008) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2163217287 «HOW EFFECTIVE ARE UNEMPLOYMENT BENEFIT SANCTIONS? LOOKING BEYOND UNEMP» (2012) – sanksjoner, overvåking og aktivitetskrav, holdt utenfor
+- OK   6 utelatt W22145852 «Institutional Reforms and Dualism in European Labor Markets» (2011) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2156758878 «Reducing income transfers to refugee immigrants: Does start-help help » (2009) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2140474167 «Worker search effort as an amplification mechanism» (2015) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2513123517 «Earnings exemptions for unemployed workers: The relationship between m» (2016) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2052878936 «Unemployment Insurance and Labor Supply» (1980) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W1995372779 «Takeup, social multipliers and optimal social insurance» (2007) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4386733542 «Household Liquidity Constraints and Labor Market Outcomes: Evidence fr» (2023) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2541460302 «Unemployment Exits Before and During the Crisis» (2016) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1530306231 «The Economics and Econometrics of Active Labor Market Programs» (1999) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2124400200 «Earnings Losses of Displaced Workers» (1992) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2626090933 «Handbook of labor economics» (1988) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W1973731779 «Does Unemployment Cause Future Unemployment? Definitions, Questions an» (1980) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2129700682 «Regression Discontinuity Designs in Economics» (2009) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3123760190 «Providing Advice to Jobseekers at Low Cost: An Experimental Study on O» (2018) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2116614555 «Duration dependence and nonparametric heterogeneity: A Monte Carlo stu» (2000) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2120431259 «The Effect of Unemployment and Related Benefits on the Duration of Une» (1979) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2038806693 «Layoffs and unemployment insurance» (1982) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W1653285122 «Quantifying the Lasting Harm to the U.S. Economy from the Financial Cr» (2014) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; sykefravær, uføre eller yrkesskade, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2043506938 «Unemployment insurance taxes and the cyclical and seasonal properties » (1994) – finansiering og erfaringsvurdering av ordningen, ikke avgang til arbeid
+- OK   6 utelatt W2167115262 «Transitions in the German labor market: Structure and crisis» (2011) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2273547784 «The Impact of Consumer Credit Access on Unemployment» (2019) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2964348021 «A Unified Welfare Analysis of Government Policies» (2019) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2143813830 «The Effects of Changes of the Job Offer Arrival Rate on the Duration o» (1994) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3125242024 «Macroeconomics of Persistent Slumps» (2016) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2219058215 «Long-Term Unemployment and the Great Recession in the Netherlands: Eco» (2015) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1986844690 «Part-time unemployment and optimal unemployment insurance» (2014) – teoretisk modell for dagpengeordning uten empiri
+- OK   6 utelatt W2098910318 «Limited-Dependent and Qualitative Variables in Econometrics» (1983) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2096684396 «How Much Should We Trust Differences-In-Differences Estimates?» (2004) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W157449371 «Randomized experiments from non-random selection in U.S. House electio» (2007) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2128249713 «Panel Data Models With Interactive Fixed Effects» (2009) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3124128996 «Minimum Wage Effects Across State Borders: Estimates Using Contiguous » (2010) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2051220593 «THE ECONOMICS OF JOB SEARCH: A SURVEY» (1976) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2155767511 «The Effect of State Policies on the Location of Manufacturing: Evidenc» (1998) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3123839552 «New Developments in Models of Search in the Labor Market» (1999) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2079360233 «The Geometry of Mixture Likelihoods: A General Theory» (1983) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2606837734 «Labor unemployment risk and corporate financing decisions» (2012) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2034146766 «Labor Market Dynamics and Unemployment: A Reconsideration» (1979) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2150829746 «Evaluating the Employment Impact of a Mandatory Job Search Program» (2004) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2139824440 «The Role of Automatic Stabilizers in the U.S. Business Cycle» (2016) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2039896584 «Reporting Errors and Labor Market Dynamics» (1986) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2077377515 «Are the Long-Term Unemployed on the Margins of the Labor Market?» (2014) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2071402839 «The effects of the unemployment insurance payroll tax on wages, employ» (2000) – finansiering og erfaringsvurdering av ordningen, ikke avgang til arbeid
+- OK   6 utelatt W1993021372 «A Search and Matching Approach to Labor Markets: Did the Natural Rate » (2012) – makro- eller likevektsstudie av ledighet, ikke effekt av dagpengeperiode eller -nivå på avgang
+- OK   6 utelatt W2119237916 «Individual Wealth, Reservation Wages, and Transitions into Employment» (2001) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2107152570 «Macroeconomic Evaluation of Labor Market Reform in Germany» (2013) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2936203654 «Job Displacement Insurance and (the Lack of) Consumption-Smoothing» (2021) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2543665842 «Culture, Work Attitudes, and Job Search: Evidence from the Swiss Langu» (2017) – kulturforskjeller i jobbsøk, ikke endring i periode eller nivå
+- OK   6 utelatt W2018572970 «Unemployment Persistence in the West German Labour Market: Negative Du» (2001) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2046440568 «The search for success: do the unemployed find stable employment?» (2002) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2030470427 «What Have We Learned from Empirical Studies of Unemployment Insurance?» (1977) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W1865432 «The Un-intended Convergence: How the Finnish Unemployment Reached the » (2006) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2002098612 «The EITC, Tax Refunds, and Unemployment Spells» (2013) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2012016109 «On optimal unemployment compensation» (2006) – teoretisk modell for dagpengeordning uten empiri
+- OK   6 utelatt W2050667856 «Can income support for part-time workers serve as a stepping-stone to » (2010) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2029813472 «Do Labour Market Programmes Speed up the Return to Work?*» (2006) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3122833938 «High Discounts and High Unemployment» (2014) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1522242857 «Labor regulations in developing countries : a review of the evidence a» (2008) – utviklingsland, holdt utenfor
+- OK   6 utelatt W3048109258 «Labor market policies during an epidemic» (2021) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W613375024 «Evaluating institutional changes in education and wage policy» (2006) – annet tema, ikke dagpengeperiode eller -nivå og overgang til arbeid
+- OK   6 utelatt W979499411 «A Search and Matching Approach to Labor Markets: Did the Natural Rate » (2012) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2499016444 «Job Search: the Duration of Unemployment» (2005) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2499887178 «The Macroeconomics of Unemployment» (2005) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4312933714 «Labour market policies for inclusiveness» (2022) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1545721792 «Welfare reform and labour market dynamics: a preliminary review of the» (2007) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3147894994 «Regression Models and Life-Tables» (1972) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2124758339 «Econometric Analysis of Cross Section and Panel Data» (2001) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1580788756 «Regression Models and Life-Tables» (1992) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2157207849 «The three worlds of welfare capitalism» (1990) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2130136629 «Journal of economic literature» (1996) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2017871126 «Discrete-Time Methods for the Analysis of Event Histories» (1982) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2082312367 «Wage Differentials, Employer Size, and Unemployment» (1998) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1963884123 «On the Efficiency of Matching and Related Models of Search and Unemplo» (1990) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2170568085 «Reassessing the Ins and Outs of Unemployment» (2007) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3121865082 «Household Expenditure and the Income Tax Rebates of 2001» (2006) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2132557528 «Regression Discontinuity Designs: A Guide to Practice» (2007) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3126007639 «Regression discontinuity inference with specification error» (2007) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1579116444 «Equilibrium Unemployment Theory - 2nd Edition» (2000) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2017750277 «Econometric duration analysis» (1984) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W147360723 «Chapter 39 New developments in models of search in the labor market» (1999) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1480130870 «How Income Transfer Programs Affect Work, Savings, and the Income Dist» (1981) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W1605145565 «Job Search, the Duration of Unemployment, and the Phillips Curve: Comm» (1972) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2010777522 «Information Externalities in the Labour Market and the Duration of Une» (1991) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2094106389 «Estimating a Structural Search Model: The Transition from School to Wo» (1987) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W1999228511 «An Econometric Analysis of Reservation Wages» (1983) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2886888160 «Empirical labor search: A survey» (2006) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3154470868 «Measuring the Labor Market at the Onset of the COVID-19 Crisis» (2020) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1524112244 «The More Things Change, the More They Stay the Same? The Safety Net an» (2013) – USA-studie av sikkerhetsnett og fattigdom, ikke overgang til arbeid
+- OK   6 utelatt W2200043635 «Knowledge of Future Job Loss and Implications for Unemployment Insuran» (2017) – kunnskap om framtidig jobbtap og forbruk, ikke overgang til arbeid
+- OK   6 utelatt W2067624124 «Do unemployment insurance recipients actively seek work? Evidence from» (2004) – sanksjoner, overvåking og aktivitetskrav, holdt utenfor (kontroll av jobbsøk)
+- OK   6 utelatt W1545117036 «Unemployment Dynamics and Duration Dependence» (1996) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2003688283 «Exits from temporary jobs in Europe: A competing risks analysis» (2005) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3123337752 «Out of work and into school: Labor market policies and college enrollm» (2015) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3125998282 «Macroeconomics and Household Heterogeneity» (2016) – korona og makroøkonomi i USA, ikke dagpengeperiode eller -nivå og overgang til arbeid
+- OK   6 utelatt W3123213027 «Minimum-Income Benefits in OECD Countries: Policy Design, Effectivenes» (2009) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1517744855 «Advances in the Theory and Measurement of Unemployment» (1990) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3045464887 «Initial Impacts of the Pandemic on Consumer Behavior: Evidence from Li» (2020) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1496813755 «Beveridge Curve Shifts across Countries since the Great Recession» (2013) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3123057566 «Consumer Spending During Unemployment: Positive and Normative Implicat» (2018) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2028479086 «Unemployment Insurance and Reservation Wages» (1982) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W1603411407 «The Role of the Employment Service» (1997) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3042445187 «Reconciling Unemployment Claims with Job Losses in the First Months of» (2020) – korona og makroøkonomi i USA, ikke dagpengeperiode eller -nivå og overgang til arbeid
+- OK   6 utelatt W1823227986 «Temporary Disability and Economic Incentives» (2015) – ytelse ved sykdom (midlertidig uførhet), ikke dagpenger
+- OK   6 utelatt W1580081559 «Federal-State Relations» (1997) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2521485652 «Sanctions and the exit from unemployment in two different benefit sche» (2016) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3124857643 «Training and search during unemployment» (2013) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3133704156 «Choice in Insurance Markets: A Pigouvian Approach to Social Insurance » (2021) – valgfrihet i sosialforsikring, teori
+- OK   6 utelatt W3121479607 «UNEMPLOYMENT BENEFITS AND MATCHING EFFICIENCY IN AN ESTIMATED DSGE MOD» (2016) – teoretisk modell for dagpengeordning uten empiri (DSGE)
+- OK   6 utelatt W1557818164 «Swedish Fiscal Policy» (2011) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4206568166 «Labor Markets» (2021) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1979300931 «Nonparametric Estimation from Incomplete Observations» (1992) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2796700885 «The Statistical Analysis of Failure Time Data.» (1981) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2141019942 «Regression-discontinuity analysis: An alternative to the ex post facto» (1960) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W1805206376 «Active Labour Market Policy Evaluations: A Meta‐Analysis» (2010) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3021959460 «What Works? A Meta Analysis of Recent Active Labor Market Program Eval» (2017) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2320014267 «What Explains the 2007-2009 Drop in Employment?» (2014) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1542505976 «Short-run equilibrium dynamics of unemployment vacancies, and real wag» (1985) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2032830535 «The Limited Influence of Unemployment on the Wage Bargain» (2008) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3124404638 «A New Method of Estimating Risk Aversion» (2006) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1540958723 «Robust Data-Driven Inference in the Regression-Discontinuity Design» (2014) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2157635736 «Unnatural Experiments? Estimating the Incidence of Endogenous Policies» (2000) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; sykefravær, uføre eller yrkesskade, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2046336774 «Handbook of Labor Economics» (1987) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2166345263 «People, Places, and Public Policy: Some Simple Welfare Economics of Lo» (2014) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2142594557 «Consumption Commitments and Risk Preferences» (2007) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2890546020 «Optimal Bandwidth Choice for the Regression Discontinuity Estimator» (2009) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3121624170 «Gender Differences in Job Search: Trading off COMMUTE AGAINST WAGE*» (2020) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2737345504 «Geographic Cross-Sectional Fiscal Spending Multipliers: What Have We L» (2019) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1582975199 «Does Active Labour Market Policy Work? Lessons from the Swedish Experi» (2002) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3121142557 «Frictional Wage Dispersion in Search Models: A Quantitative Assessment» (2011) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1518106857 «Public Finance and Public Policy» (2004) – lærebok i offentlig økonomi, ikke effektstudie
+- OK   6 utelatt W2091537095 «Cross Section and Panel Data Estimators for Nonseparable Models with E» (2005) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2042478223 «An Equilibrium Model of Search Unemployment» (1984) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2153310842 «An Empirical Equilibrium Search Model of the Labor Market» (1998) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3125219257 «COUNSELING AND MONITORING OF UNEMPLOYED WORKERS: THEORY AND EVIDENCE F» (2006) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2031577637 «On the importance of the participation margin for labor market fluctua» (2015) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2132730408 «Incentive effects of social assistance: A regression discontinuity app» (2007) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2418576930 «Macroeconomics and Household Heterogeneity» (2016) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3124508700 «The Labor Market in the Great Recession» (2010) – beskrivelse av arbeidsmarkedet i finanskrisen, ikke periode eller nivå
+- OK   6 utelatt W1535138324 «High Discounts and High Unemployment» (2017) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1499578809 «Job uncertainty and deep recessions» (2017) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2007391016 «On the Theory of Layoffs and Unemployment» (1977) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W1498568394 «The Evolution of Unemployment in the United States: 1968-1985» (1987) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W301033717 «ELIGIBILITY CRITERIA FOR UNEMPLOYMENT BENEFITS» (2000) – kvalifikasjonskrav til dagpenger, ikke periode eller nivå
+- OK   6 utelatt W2509114616 «The pros and cons of sick pay schemes: Testing for contagious presente» (2017) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; sykefravær, uføre eller yrkesskade, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2903250931 «Job Seekers’ Perceptions and Employment Prospects: Heterogeneity, Dura» (2020) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2163303142 «Experimental Evidence on the Effects of Early Meetings and Activation» (2016) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2766635886 «Gross Worker Flows over the Business Cycle» (2017) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2285840667 «Job Search Behavior among the Employed and Non-Employed» (2017) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1589848409 «Minimum-Income Benefits in OECD Countries» (2010) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2127832892 «Unemployment Dynamics and Duration Dependence in France, the Netherlan» (1994) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3121689706 «Austrian Social Security Database» (2009) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2131843120 «A Caseworker Like Me – Does The Similarity Between The Unemployed and » (2010) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1536965675 «Unemployment Duration and Incidence: 1968-82» (1985) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W1973081584 «Experience Rating of Unemployment Insurance and the Incidence of Unemp» (1984) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2158964091 «Notes on behavioral economics and labor market policy» (2012) – atferdsøkonomiske betraktninger, ikke empirisk studie av periode eller nivå
+- OK   6 utelatt W1508777142 «CARROT AND STICK: HOW RE‐EMPLOYMENT BONUSES AND BENEFIT SANCTIONS AFFE» (2011) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3121258962 «Scarring Effects of Remaining Unemployed for Long-Term Unemployed Scho» (2012) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3148015051 «Local Polynomial Order in Regression Discontinuity Designs» (2020) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3214044368 «Should We Insure Workers or Jobs During Recessions?» (2022) – dagpenger mot permitteringsordninger i resesjon, modell og lite om periode eller nivå
+- OK   6 utelatt W3125519783 «Active Labor Market Policies in Poland: Human Capital Enhancement, Sti» (1999) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2041227465 «NONPARAMETRIC IDENTIFICATION OF THE MIXED HAZARDS MODEL WITH TIME-VARY» (2007) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1492320665 «The New Jersey Unemployment Insurance Reemployment Demonstration Proje» (1989) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2093960821 «Job search monitoring intensity, unemployment exit and job entry: Quas» (2008) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3126072891 «Early Retirement Policy in the Presence of Competing Exit Pathways: Ev» (2014) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2138318155 «Work Incentives and Disincentives» (1997) – essaysamling om amerikansk ordning, ikke avgrenset empirisk studie
+- OK   6 utelatt W26734890 «Evaluating Social Programs: Active Labor Market Policies and Social In» (2002) – avhandling om tiltak og sosialforsikring, ikke dagpengeperiode eller -nivå
+- OK   6 utelatt W2140665873 «Job Search with Nonparticipation» (2006) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4388961687 «How Credit Constraints Impact Job Finding Rates, Sorting, and Aggregat» (2023) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2036341883 «ENTITLEMENT EFFECTS, UNEMPLOYMENT INSURANCE AND EMPLOYMENT DECISIONS» (1979) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2113872935 «Unemployment Dynamics among Migrants and Natives» (2014) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3121742319 «Equilibrium Search with Time‐Varying Unemployment Benefits» (2005) – teoretisk modell for dagpengeordning uten empiri
+- OK   6 utelatt W2030364923 «Subsidized temporary jobs: lock-in and stepping stone effects» (2013) – arbeidsmarkedstiltak, ikke dagpengeperiode eller -nivå (subsidierte midlertidige jobber)
+- OK   6 utelatt W1589489955 «Optimal Social Assistance and Unemployment Insurance in a Life-Cycle M» (2015) – optimal sosialhjelp og dagpenger i modell, ytelse uten forsikringspreg
+- OK   6 utelatt W3123282596 «Should unemployment insurance be asset tested?» (2014) – teoretisk modell for dagpengeordning uten empiri
+- OK   6 utelatt W3125867864 «Optimal Income Taxation with Unemployment and Wage Responses: A Suffic» (2020) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3122218471 «Gig labor: Trading safety nets for steering wheels» (2019) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4220909406 «Job search in the presence of a stressor: Does financial hardship chan» (2022) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2269669137 «Gender Differentials in Unemployment Ins and Outs during the Great Rec» (2017) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1492965151 «Do Flexicurity Policies Affect Labour Market Outcomes? An Analysis of » (2012) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2100922642 «Unemployment Assistance and Transition to Employment in Argentina» (2011) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1606496209 «Social program substitution and optimal policy» (2015) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4376470758 «Unemployment risk, MPC heterogeneity, and business cycles» (2023) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4389068699 «Does the unemployment trap still exist? The case of the Italian minimu» (2023) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2101430482 «How Income Changes During Unemployment» (2016) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4403145100 «Mandatory Notice of Layoff, Job Search, and Efficiency» (2024) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4404212827 «Universal Credit: Welfare reform and mental health» (2024) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3020830016 «Die Chancen und Risiken eines Experience rating in der Arbeitslosenver» (2019) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4383334913 «Welfare reform and migrants’ long-term labor market integration» (2026) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; sykefravær, uføre eller yrkesskade, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W7203746098 «Mismatch in the 21st century: An overview» (2026) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2125435699 «Measuring inconsistency in meta-analyses» (2003) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3011865677 «Prospect Theory: An Analysis of Decision under Risk» (1979) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2150291618 «The Central Role of the Propensity Score in Observational Studies for » (1983) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W1598602811 «Cochrane Handbook for Systematic Reviews of Interventions» (2008) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4298863114 «The American Economic Review» (2012) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2118052532 «Golden Eggs and Hyperbolic Discounting» (1997) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2030691535 «Consumption and Liquidity Constraints: An Empirical Investigation» (1989) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2892197067 «Buffer-Stock Saving and the Life Cycle/Permanent Income Hypothesis» (1997) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1998095887 «Information in the Labor Market» (1962) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2144969436 «A Model of the Consumption Response to Fiscal Stimulus Payments» (2014) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; pensjon eller tidligpensjon, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2088336173 «A Simple Test of Consumption Insurance» (1991) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2035805224 «Wage Determination and Efficiency in Search Equilibrium» (1982) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2029038602 «Earnings Losses of Displaced Workers Revisited» (2010) – inntektstap etter oppsigelse, ikke effekt av dagpenger på overgang
+- OK   6 utelatt W2134956426 «Recessions and the Costs of Job Loss» (2011) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2013750717 «Is Unemployment Really Scarring? Effects of Unemployment Experiences o» (2001) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2054516487 «Good Jobs versus Bad Jobs» (2001) – teoretisk modell for dagpengeordning uten empiri
+- OK   6 utelatt W2009720394 «What Hides Behind an Unemployment Rate: Comparing Portuguese and U.S. » (2001) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2066124948 «Search Method Use by Unemployed Youth» (1988) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2129964417 «Unemployment: Questions and Some Answers» (1998) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4233114278 «Mismatch Unemployment» (2014) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2052389298 «Do Employers Use Unemployment as a Sorting Criterion When Hiring? Evid» (2014) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3122416536 «Unemployment insurance and precautionary saving» (2001) – forsiktighetssparing, ikke overgang til arbeid
+- OK   6 utelatt W2149033938 «HEAPING‐INDUCED BIAS IN REGRESSION‐DISCONTINUITY DESIGNS» (2015) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2032320709 «Empirical-Bias Bandwidths for Local Polynomial Nonparametric Regressio» (1997) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3122024872 «Unemployment and Subsequent Earnings: Estimating Scarring Among Britis» (2001) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3155501078 «The US Labor Market during the Beginning of the Pandemic Recession» (2020) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1793223149 «Time Out of Work and Skill Depreciation» (2008) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2020417480 «Estimating wage losses of displaced workers in Germany» (2001) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2102194633 «Regression Discontinuity Inference with Specification Error» (2006) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2526109822 «Mismatch Unemployment and the Geography of Job Search» (2018) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2092336849 «Equilibrium Earnings, Turnover, and Unemployment: New Evidence» (1984) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W1998455161 «The Impact of Being Offered and Receiving Classroom Training on the Em» (1997) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2033416931 «The Importance of Temporary Layoffs: An Empirical Analysis» (1975) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W4240227827 «Active Labor Market Policies in Europe» (2007) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2152246911 «Activation Policies in Germany: From Status Protection to Basic Income» (2008) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2346029052 «The Masking of the Decline in Manufacturing Employment by the Housing » (2016) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2055724619 «Severance payments in an economy with frictions» (2001) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3122820076 «Reference Dependence in the Housing Market» (2019) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2090683950 «Job search in a dynamic economy» (1976) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W1974606514 «Public Policy in a Model of Long-term Unemployment» (1995) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3122346250 «Estimating Equilibrium Effects of Job Search Assistance» (2012) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2149837572 «Reinventing the Welfare State» (2006) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1551935027 «The Distribution of Single-Spell Duration Data» (1984) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W3121572840 «Long-Term Unemployment and the Great Recession: The Role of Compositio» (2014) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2148807251 «Too old to work, too young to retire?» (2016) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; pensjon eller tidligpensjon, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2793167993 «Bridging the Gap: Evidence from Externally Hired CEOs» (2018) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1600766559 «The Long-Term Impact of Job Displacement in Germany During the 1982 Re» (2009) – langsiktig inntektstap etter oppsigelse, ikke periode eller nivå
+- OK   6 utelatt W3174352742 «Sufficient Statistics Revisited» (2021) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2185361425 «Heterogeneity and Unemployment Dynamics» (2019) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2033919055 «Optimal Unemployment Insurance and Employment History» (2009) – teoretisk modell for dagpengeordning uten empiri
+- OK   6 utelatt W2321597843 «Market reforms in the time of imbalance» (2016) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2795887868 «Can Displaced Labor Be Retrained? Evidence from Quasi-Random Assignmen» (2018) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2133802746 «Workers and Firms Sorting into Temporary Jobs» (2012) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2890941169 «People, Places and Public Policy: Some Simple Welfare Economics of Loc» (2013) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4317790394 «Local Labor Market Impacts of the Energy Transition: Prospects and Pol» (2023) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2099800613 «Policy Watch: Trade Adjustment Assistance» (2004) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2116577613 «Unemployment Insurance as Insurance for Workers» (1977) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2148631683 «The employment effect of reforming a public employment agency» (2015) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2153536683 «An unemployment insurance scheme for the euro area? A comparison of di» (2017) – felles europeisk ordning, ikke effekt på overgang til arbeid
+- OK   6 utelatt W2079685533 «Testing the proportional hazards assumption in the presence of unmeasu» (1994) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2165777212 «Are there pre-programme effects of Swedish active labour market polici» (2007) – aktiveringstiltak og overvåking, holdt utenfor
+- OK   6 utelatt W2166947386 «Search Models and Applied Labor Economics» (1989) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2026050419 «The analysis of labor market mobility using panel data» (1989) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2620874185 «Job Search under Debt: Aggregate Implications of Student Loans» (2020) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3125236483 «Household Search and the Aggregate Labour Market» (2016) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2105796605 «Should the Central Bank Be Concerned About Housing Prices?» (2010) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2038865643 «Temporary jobs and job search effort in Europe» (2011) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3134031862 «Towards a More Resilient European Union after the COVID-19 Crisis» (2020) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3088131679 «Health benefits of social insurance» (2020) – utfallet er helse eller velferd, ikke overgang til arbeid
+- OK   6 utelatt W2034690050 «Temporary Separations and Firm Size in the German Labour Market» (1998) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2073831357 «Do Employers Respond to the Costs of Continued Search?» (2009) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2803115946 «A Correction for Regression Discontinuity Designs With Group-Specific » (2020) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1999168736 «Temporary Layoffs and Unemployment in Canada» (1989) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W3012111512 «Behavioral Job Search» (2020) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4393238161 «The consumption expenditure response to unemployment: Evidence from No» (2024) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2134001296 «Workers’ Compensation and State Employment Growth*» (2006) – yrkesskadeerstatning, ikke dagpenger
+- OK   6 utelatt W2160913856 «What factors contributed to changes in employment during and after the» (2015) – makro- eller likevektsstudie av ledighet, ikke effekt av dagpengeperiode eller -nivå på avgang
+- OK   6 utelatt W2994510994 «Would Active Labor Market Policies Help Combat High U.S. Unemployment» (2011) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2954654056 «Macroeconomic Evaluation of Labor Market Reform in Germany» (2013) – kalibrert makromodell av Hartz IV, ikke empirisk estimat
+- OK   6 utelatt W4386140670 «Why Should we Integrate Income and Employment Support? A Conceptual an» (2023) – arbeidsmarkedstiltak, ikke dagpengeperiode eller -nivå, integrert inntektsstøtte
+- OK   6 utelatt W2269065703 «Unemployment Compensation and the Allocation of Labor in Developing Co» (2014) – utviklingsland, holdt utenfor
+- OK   6 utelatt W3124908513 «Did Active Labor Market Policies Help Sweden Rebound from the Depressi» (2010) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4396528690 «Household Labor Supply and the Value of Social Security Survivors Bene» (2024) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4387336445 «Fiscal decentralization and structural versus cyclical unemployment le» (2023) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2336777924 «The Welfare State and Economic Performance» (2015) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2162157427 «Laziness or liberation? Labor market policies and workers' attitudes t» (2015) – holdninger til fleksibilitet, ikke effekt av dagpenger
+- OK   6 utelatt W4319865211 «Formation of a Balanced Financing Model as the Basis for Sustainable D» (2023) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4288082122 «Why should we integrate income and employment support?» (2022) – arbeidsmarkedstiltak, ikke dagpengeperiode eller -nivå, integrert inntektsstøtte
+- OK   6 utelatt W2336663856 «EL SISTEMA ESPAÑOL DE PROTECCIÓN POR DESEMPLEO: EFICIENCIA, EQUIDAD Y » (2009) – beskrivelse av spansk ordning, ikke effektstudie
+- OK   6 utelatt W2804353981 «Introduction: Achieving an Optimal Social Policy Mix» (2009) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W7154019689 «The discouraged worker effect during the Covid-19 pandemic in Türkiye» (2026) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3041047318 «Nonparametric Estimation from Incomplete Observations» (1958) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W1513281941 «American economic review» (1992) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4290016560 «The American Economic Review» (2013) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2038981426 «A Proportional Hazards Model for the Subdistribution of a Competing Ri» (1999) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4286779346 «Journal of Economic Literature» (2019) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2114389382 «Identification of Endogenous Social Effects: The Reflection Problem» (1993) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3125057276 «Synthetic Control Methods for Comparative Case Studies: Estimating the» (2010) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4247110188 «Journal of Economic Literature» (2009) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3083225435 «Department of Labor» (1941) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W4301724175 «Journal of Economic Literature» (2017) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2104780889 «Identification and Estimation of Local Average Treatment Effects» (1994) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2134689741 «An Empirical Characterization of the Dynamic Effects of Changes in Gov» (2002) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2056049054 «Who Benefits from State and Local Economic Development Policies?» (1991) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1998576834 «Specification Tests for the Multinomial Logit Model» (1984) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2165613656 «Income and Wealth Heterogeneity in the Macroeconomy» (1998) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4301171116 «Journal of Economic Literature» (2018) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2157350782 «Global optimization of statistical functions with simulated annealing» (1994) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2151367131 «Estimating the Effect of Training Programs on Earnings» (1978) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2890543633 «Training, Wages, and Sample Selection: Estimating Sharp Bounds on Trea» (2009) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2126729239 «Consumer Spending and the Economic Stimulus Payments of 2008» (2013) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3113376803 «The Economic Impacts of COVID-19: Evidence from a New Public Database » (2020) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2142406045 «Consumption versus Expenditure» (2005) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; pensjon eller tidligpensjon, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2035516084 «The Life-Cycle Model of Consumption and Saving» (2001) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2165792233 «Persistent Effects of Job Displacement: The Importance of Multiple Job» (1997) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2019241877 «Property Rights and Efficiency in Mating, Racing, and Related Games» (1982) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W3121634710 «Drawing Lessons from the Boom of Temporary Jobs in Spain» (2002) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3124944958 «Workfare versus Welfare Incentive Arguments for Work Requirements in P» (1992) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3123376974 «Does Unmeasured Ability Explain Inter-Industry Wage Differentials» (1992) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2171269451 «Public Finance and Public Policy» (2009) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2163426381 «The Ins and Outs of Cyclical Unemployment» (2009) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1981476968 «Multinomial Logit Specification Tests» (1985) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W1544592527 «Inference on the Quantile Regression Process» (2002) – økonometrisk metode, ikke dagpenger
+- OK   6 utelatt W3121315875 «More on unemployment and vacancy fluctuations» (2007) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2067117805 «The Impact of Youth Unemployment on Adult Unemployment in the NCDS» (2001) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2046261830 «Job Search Outcomes for the Employed and Unemployed» (1990) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2605621470 «Unemployment: macroeconomic performance and the labour market» (1992) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3021350015 «COVID-19 Is Also a Reallocation Shock» (2020) – korona og makroøkonomi i USA, ikke dagpengeperiode eller -nivå og overgang til arbeid
+- OK   6 utelatt W2141608323 «Locus of Control and Job Search Strategies» (2014) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2020723658 «Predicting criminal recidivism using ‘split population’ survival time » (1989) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W3022313864 «The U.S. Labor Market during the Beginning of the Pandemic Recession» (2020) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2006313254 «An Empirical Job-Search Model, with a Test of the Constant Reservation» (1979) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2482339345 «Estimating Local Fiscal Multipliers» (2016) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3122961410 «Are Unemployment and Out of the Labor Force Behaviorally Distinct Labo» (1982) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2101819586 «The Identifiability of the Proportional Hazard Model» (1984) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2068280509 «Marketplaces and Matching» (1998) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2131455659 «Search-Theoretic Models of the Labor Market: A Survey» (2002) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2141658957 «Why Does Money Affect Output? A Survey» (1987) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W3161144009 «Initial Impacts of the Pandemic on Consumer Behavior: Evidence from Li» (2020) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1992046070 «Job Displacement, Relative Wage Changes, and Duration of Unemployment» (1989) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W3121624916 «Start-up incentives: Entrepreneurship policy or active labour market p» (2012) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2271798596 «Opening the Black Box of the Matching Function: The Power of Words» (2016) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3025132553 «Consumption smoothing and the welfare consequences of social insurance» (2006) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2141359093 «Small Differences That Matter» (1993) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2106155412 «The Beveridge Curve, Unemployment, and Wages in the OECD from the 1960» (2021) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2082495975 «Identification Results for Duration Models with Multiple Spells» (1993) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1574548346 «LINDA - Longitudinal INdividual DAta for Sweden» (2000) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4206427007 «OECD Employment Outlook» (2009) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2106519551 «Active Labor Market Policies» (2016) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2132056195 «An evaluation of the active labour market programmes in Sweden» (2001) – arbeidsmarkedstiltak, ikke dagpengeperiode eller -nivå
+- OK   6 utelatt W4367293510 «The Costs of Job Displacement Over the Business Cycle and its Sources:» (2022) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2075733800 «Nonemployment stigma as rational herding: A field experiment» (2006) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2079990376 «Does Long-Term Unemployment Reduce a Person's Chance of a Job? A Time-» (1991) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3034536182 «Macroeconomic Fluctuations with HANK & SAM: an Analytical Approach» (2020) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2045412898 «Measurement Error and Misclassification: A Comparison of Survey and Ad» (2007) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2083082567 «Matching Workers and Jobs: Cyclical Fluctuations in Match Quality» (1995) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1588378837 «Job Loss in the Great Recession: Historical Perspective from the Displ» (2011) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1608116343 «Evaluating the employment impact of a mandatory job search assistance » (2017) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3083736501 «The Social Safety Net in the Wake of COVID-19» (2020) – korona og makroøkonomi i USA, ikke dagpengeperiode eller -nivå og overgang til arbeid
+- OK   6 utelatt W2016214960 «The Political Economy of Public Values» (2014) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; sykefravær, uføre eller yrkesskade, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2762967876 «Regulating Household Leverage» (2017) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2086437711 «15 A guide to censored quantile regressions» (1997) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2131228431 «Aggregate Demand, Idle Time, and Unemployment *» (2015) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2802375553 «Cash-on-Hand and College Enrollment: Evidence from Population Tax Data» (2018) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3122048001 «Unemployment and the Social Safety Net during Transitions to a Market » (1998) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1995096355 «The Relationship Between Unemployment Spells and Reservation Wages as » (1988) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2889697610 «Consumption Commitments and Risk Preferences» (2006) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2040751433 «Distinguishing Income from Substitution Effects in Disability Insuranc» (2007) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; sykefravær, uføre eller yrkesskade, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2094711005 «The Displacement Effect of Reemployment Bonus Programs» (2015) – gjenansettelsesbonus, teoretisk modell av fortrengning
+- OK   6 utelatt W4405075054 «Social Protection in the Developing World» (2024) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1876017760 «Separations, Sorting, and Cyclical Unemployment» (2017) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1520673893 «A Comparative Analysis of Unemployment in Canada and the United States» (1993) – ledighetsgap mellom Canada og USA, ikke effekt av dagpenger
+- OK   6 utelatt W2241753507 «Regression Discontinuity Applications with Rounding Errors in the Runn» (2014) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3121447552 «The Intensity of Job Search and Search Duration» (2019) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2890038060 «Measuring Job-Finding Rates and Matching Efficiency with Heterogeneous» (2018) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3205861099 «Are Short‐lived Jobs Stepping Stones to Long‐Lasting Jobs?*» (2011) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2059550335 «Administrative registers – Unexplored reservoirs of Scientific Knowled» (2003) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3123034785 «Labor Supply Under Uncertainty» (1977) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2972647818 «Does Demanding Activation Work? A Comparative Analysis of the Effects » (2019) – sanksjoner, overvåking og aktivitetskrav, holdt utenfor (streng aktivering, makro)
+- OK   6 utelatt W1607279051 «JOB SEARCH AND YOUTH UNEMPLOYMENT» (1983) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W3023860469 «Persistent Effects of Autonomous Demand Expansions» (2018) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4283208994 «The Costs of Job Displacement over the Business Cycle and Its Sources:» (2022) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1495581268 «The Labor Market Four Years Into the Crisis: Assessing Structural Expl» (2012) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W152518076 «Long Term Unemployment in the Great Recession» (2010) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2110304360 «STIGMA EFFECTS OF NONEMPLOYMENT» (1997) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2759861599 «The Role of Caseworkers in Unemployment Insurance: Evidence from Unpla» (2019) – rolle for saksbehandlere, ikke periode eller nivå
+- OK   6 utelatt W1995394276 «Optimal firm size, taxes, and unemployment» (1989) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2073413050 «Worker Heterogeneity and Endogenous Separations in a Matching Model of» (2011) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2110196980 «A Picture of European Unemployment: Success and Failure» (2006) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2076187492 «How Changes in Labor Demand Affect Unemployed Workers» (1985) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W1867846268 «DURATION DEPENDENCE VERSUS UNOBSERVED HETEROGENEITY IN TREATMENT EFFEC» (2012) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1521518092 «Does early intervention help the unemployed youth?» (2004) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2144315864 «Fixed and Mixed Effects Models in Meta-Analysis» (2006) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3123619201 «Re-employment probabilities over the business cycle» (2006) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2088096965 «Workers' compensation and consumption smoothing» (2012) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; sykefravær, uføre eller yrkesskade, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2101731673 «Job Loss and Entrepreneurship» (2013) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1987836802 «Firing costs and stigma: A theoretical analysis and evidence from micr» (2001) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2792103460 «Household labor supply and the gains from social insurance» (2018) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2736304611 «Jobs and Growth» (2014) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3123496690 «The Human Cost of Recessions» (2010) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1981213211 «Seniority, Sectoral Decline, and Employee Retention: An Analysis of La» (1996) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2050347883 «Monitoring job search effort: An evaluation based on a regression disc» (2012) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3022860187 «Relaxing household liquidity constraints through social security» (2020) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3123389107 «On the effects of ranking by unemployment duration» (2018) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1966967056 «The Influence of Temporary Employment on Unemployment Exits in a Compe» (2010) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2095829835 «The Recall and New Job Search of Laid-Off Workers: A Bivariate Proport» (2007) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2228549691 «Leaving Poverty Behind? The Effects of Generous Income Support Paired » (2016) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1585571785 «Are Temporary Help Agencies changing mobility patterns in the Spanish » (2005) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3122081059 «STRUCTURAL EMPIRICAL EVALUATION OF JOB SEARCH MONITORING» (2018) – sanksjoner, overvåking og aktivitetskrav, holdt utenfor (jobbsøkoppfølging)
+- OK   6 utelatt W2616862271 «Unemployment, Marginal Attachment, and Labor Force Participation in Ca» (2019) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3125745911 «On the Importance of the Participation Margin for Market Fluctuations» (2013) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3122193046 «Structurally dependent competing risks» (2001) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2082829969 «Does unemployment cause unemployment? Micro evidence from Norway» (1999) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2270538848 «Regression discontinuity: review with extensions» (2016) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3099652881 «Stepping-stone effect of atypical jobs: Could the least employable rea» (2020) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1559600294 «JOB SEARCH IN A DYNAMIC ENVIRONMENT—AN EMPIRICAL ANALYSIS *» (1993) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1559975077 «Canadian Labour Market Performance in International Perspective» (1999) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2462068097 «A Feasible Unemployment‐Based Shock Absorber for the Euro Area» (2016) – felles europeisk ordning, ikke overgang til arbeid
+- OK   6 utelatt W3037604876 «The cumulative disadvantage of unemployment: Longitudinal evidence acr» (2020) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3046263969 «Managing the Employment Impacts of the COVID-19 Crisis» (2020) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1032522256 «Exploring Transition Data through Quantile Regression Methods: An Appl» (2002) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1508019325 «New Estimates of the Duration and Risk of Unemployment for West-German» (2005) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1977140254 «Ökonometrische Methoden zur Evaluierung kausaler Effekte der Wirtschaf» (2014) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4313574959 «Perceived returns to job search» (2022) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4402494686 «The value of commuting time, flexibility, and job security: Evidence f» (2024) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2234030803 «Employment and Welfare Effects of a Two-Tier Unemployment Compensation» (2003) – modell av todelt ordning i Tyskland, ingen empiri
+- OK   6 utelatt W3180132291 «The Effects of State Business Taxes on Plant Closures: Evidence from U» (2021) – finansiering og erfaringsvurdering av ordningen, ikke avgang til arbeid
+- OK   6 utelatt W2334532248 «Unemployment Insurance, Income Taxation, and Duration of Unemployment:» (1979) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W1810263234 «How Tight is the Labour Market?» (2008) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2911204918 «Unemployment insurance benefits and income smoothing» (2019) – annet tema, ikke dagpengeperiode eller -nivå og overgang til arbeid
+- OK   6 utelatt W1816779504 «LABOR MARKET EQUILIBRIUM WITH REHIRING» (2013) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4402645668 «Perspectives de l’emploi de l’OCDE 2024» (2024) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3124125999 «A Rising Natural Rate of Unemployment: Transitory or Permanent?» (2011) – makro- eller likevektsstudie av ledighet, ikke effekt av dagpengeperiode eller -nivå på avgang
+- OK   6 utelatt W3124392470 «Seek and Ye Shall Find: How Search Requirements Affect Job Finding Rat» (2014) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3198407735 «Do employment opportunities decrease for older workers?» (2021) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4409633179 «Matching Frictions and Distorted Beliefs: Evidence from a Job Fair Exp» (2025) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2746887453 «Job search monitoring and assistance for the unemployed» (2017) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4393244988 «The Impact of Cash Transfers to Poor Mothers on Family Structure and M» (2024) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4403432881 «The dovish turnaround: Germany's social benefit reform and job finding» (2024) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2615737184 «Bootstrap Confidence Intervals for Sharp Regression Discontinuity Desi» (2017) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2931438147 «Spatial diversity of effectiveness of forms of professional activisati» (2019) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2745084023 «Social Insurance and Health» (2018) – utfallet er helse eller velferd, ikke overgang til arbeid
+- OK   6 utelatt W4236304561 «Regression-Discontinuity Approach» (2017) – trusselseffekt av overvåking i Belgia, aktivering holdt utenfor
+- OK   6 utelatt W1570275630 «Causal reasoning in economics: a selective exploration of semantic, ep» (2013) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4387636463 «Unemployment and related benefits in Bulgaria» (2022) – beskrivelse av bulgarsk ordning, ikke effektstudie
+- OK   6 utelatt W7165035315 «Causal effects of minimum income schemes on poverty reduction: systema» (2026) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2139122730 «Sample Selection Bias as a Specification Error» (1979) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2577227262 «Mostly Harmless Econometrics» (2008) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2189821821 «Crime and Punishment: An Economic Approach» (1968) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2132917208 «Estimating causal effects of treatments in randomized and nonrandomize» (1974) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W1971310904 «Investment in Human Capital: A Theoretical Analysis» (1962) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W1984524168 «Microeconometrics» (2005) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2159805452 «SOME PRACTICAL GUIDANCE FOR THE IMPLEMENTATION OF PROPENSITY SCORE MAT» (2008) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1966714873 «Proportional Hazards Tests and Diagnostics Based on Weighted Residuals» (1994) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2337394005 «The Economics of Information» (1961) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2075642745 «Extracting summary statistics to perform meta-analyses of the publishe» (1998) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2294550615 «Survival Analysis» (1981) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W3123464746 «Handbook of Labor Economics» (1989) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W3121516428 «Does matching overcome LaLonde's critique of nonexperimental estimator» (2004) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1963965317 «Labor Market Institutions and the Distribution of Wages, 1973-1992: A » (1996) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2096218604 «Uninsured Idiosyncratic Risk and Aggregate Saving» (1994) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1501279792 «A Model of Reference-Dependent Preferences» (2006) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3022790766 «The Regulation of Labor» (2004) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1547415738 «Labor Supply: A Review of Alternative Approaches» (1999) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1588313728 «Methods for Meta-Analysis in Medical Research» (2000) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1483323320 «Empirical Strategies in Labor Economics» (1999) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4240884942 «Using Maimonides' Rule to Estimate the Effect of Class Size on Scholas» (1999) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1531424399 «Why High-Order Polynomials Should Not Be Used in Regression Discontinu» (2017) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1598839961 «Agency, Earnings Profiles, Productivity, and Hours Restrictions» (1981) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W3123445343 «Temporary Jobs: Stepping Stones or Dead Ends?» (2002) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2001066651 «Job search and employment: A personality-motivational analysis and met» (2001) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2133877013 «An Economic Model of Welfare Stigma» (1983) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2014940670 «Choosing Among Alternative Nonexperimental Methods for Estimating the » (1989) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W3020850935 «Do Taxpayers Bunch at Kink Points?» (2010) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2052662085 «Fiscal Stimulus in a Monetary Union: Evidence from US Regions» (2014) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2068959829 «A Consumer's Guide to Subgroup Analyses» (1992) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2753680723 «Rdrobust: Software for Regression-discontinuity Designs» (2017) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3125727931 «Choosing Among Alternative Nonexperimental Methods for Estimating the » (1989) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W3125031979 «Layoffs and Lemons» (1991) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2026590931 «Job Displacement and Mortality: An Analysis Using Administrative Data » (2009) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3126084767 «Job Destruction and Propagation of Shocks» (2000) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1964506806 «An Empirical Model of Labor Supply in a Life-Cycle Setting» (1981) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2141151054 «Can Government Purchases Stimulate the Economy?» (2011) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2119374980 «The Unemployment Volatility Puzzle: Is Wage Stickiness the Answer?» (2009) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2890213084 «Unemployment Fluctuations with Staggered Nash Wage Bargaining» (2009) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1494478641 «The Statistical Analysis of Recurrent Events» (2007) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2164757425 «The Individual Experience of Unemployment» (2011) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2131627283 «The Take Up of Social Benefits» (2004) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2141404594 «The Power of Statistical Tests for Moderators in Meta-Analysis.» (2004) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2884548321 «Regression Discontinuity Designs Using Covariates» (2018) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1530804213 «OCCUPATIONAL SPECIFICITY OF HUMAN CAPITAL*» (2009) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3144467662 «Bounds on Elasticities With Optimization Frictions: A Synthesis of Mic» (2012) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2516661252 «Corporate Social Responsibility as a Remedy for Moral Hazard?» (2014) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2121414958 «Credit Crises, Precautionary Savings, and the Liquidity Trap*» (2017) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3084503872 «Working from home and income inequality: risks of a ‘new normal’ with » (2020) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2164286276 «Economic Impacts of New Unionization on Private Sector Employers: 1984» (2004) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2078737722 «Job Switching and Job Satisfaction in the U.S. Labor Market» (1988) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W1999637731 «Independence, Monotonicity, and Latent Index Models: An Equivalence Re» (2002) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2076875781 «Home Is Where the Equity Is: Mortgage Refinancing and Household Consum» (2004) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2121407100 «The Growth in the Social Security Disability Rolls: A Fiscal Crisis Un» (2006) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; sykefravær, uføre eller yrkesskade, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2242319855 «Is Internet Job Search Still Ineffective?» (2013) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2105747346 «Parametric Frailty and Shared Frailty Survival Models» (2002) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2137180593 «A Review of the Recent Empirical Literature on Displaced Workers» (1996) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2170775246 «Regional Policy Evaluation: Interactive Fixed Effects and Synthetic Co» (2016) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3025117274 «Automatic Stabilizers and Economic Crisis: US vs. Europe» (2010) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3023192715 «Are Incentives for R&D Effective? Evidence from a Regression Discontin» (2014) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2035131493 «Building a composite Help-Wanted Index» (2010) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3121974814 «The distribution of wealth and the marginal propensity to consume» (2017) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1970589954 «(Over)insuring Modest Risks» (2010) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2159404474 «Semiparametric qualitative response model estimation with unknown hete» (2000) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2145684290 «Identification in Nonseparable Models» (2003) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2059072260 «Labour Flexibility and Wages: Lessons from Spain» (1994) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3123645761 «Liquidity Constraints and Imperfect Information in Subprime Lending» (2009) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2101650573 «Social Security Reform with Heterogeneous Agents» (1999) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3102524825 «Inference in Regression Discontinuity Designs with a Discrete Running » (2016) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3122835971 «Search Method Use by Unemployed Youth» (1986) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W1575835178 «Reference-Dependent Preferences: Evidence from Marathon Runners» (2016) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2136002330 «Minimum Wage Shocks, Employment Flows, and Labor Market Frictions» (2016) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2918060890 «The Changing Face of Job Loss in the United States, 1981-1995» (1997) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2171046666 «LABOR TURNOVER COSTS AND THE CYCLICAL BEHAVIOR OF VACANCIES AND UNEMPL» (2009) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3122540249 «Boarding a Sinking Ship? An Investigation of Job Applications to Distr» (2012) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2171182308 «Stepping stones for the unemployed: the effect of temporary jobs on th» (2009) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2298408081 «Equilibrium Search with Continuous Productivity Dispersion: Theory and» (2000) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2077839439 «On automatic boundary corrections» (1997) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3122089101 «Labour Flexibility and Wages: Lessons from Spain» (1994) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1968446015 «Are Unemployment and Out of the Labor Force Behaviorally Distinct Labo» (1983) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2138853407 «The Relationship between Wages and Weekly Hours of Work: The Role of D» (1980) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2599773781 «Poorly Measured Confounders are More Useful on the Left than on the Ri» (2018) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2089497767 «The Turnover of Teachers: A Competing Risks Explanation» (1999) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W5977658 «A Theory of Employee Job Search and Quit Rates» (2016) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2019534988 «Evaluating the Impact of French Employment Policies on Individual Labo» (1997) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3022829474 «The Aggregate Implications of Regional Business Cycles» (2016) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2031964589 «Search Theory and Duration Data: A Theory of Sorts» (1977) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W3123449212 «The public health costs of job loss» (2009) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2605217701 «Endogeneity in Nonparametric and Semiparametric Regression Models» (2010) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2107839761 «On‐the‐Job Search and the Wage Distribution» (2005) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3125299010 «The Long-Run Consumption Effects of Earnings Shocks» (2001) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3124816553 «Using a discontinuous grant rule to identify the effect of grants on l» (2007) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2128492593 «Activation and active labour market policies in OECD countries: stylis» (2015) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2145027327 «Parental Leave and Mothers' Careers: The Relative Importance of Job Pr» (2013) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2002859275 «A class of binary response models for grouped duration data» (1995) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2135596283 «Statistical methods for the meta-analysis of cluster randomization tri» (2001) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1535301829 «What explains high unemployment? The aggregate demand channel» (2012) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2052513269 «The Role of a Second Control Group in an Observational Study» (1987) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2123882221 «The Causes and Consequences of Long-Term Unemployment in Europe» (1998) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1565320856 «Identifying the Hand of Past: Distinguishing State Dependence from Het» (2016) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1976527713 «The Economics of Information and Optimal Stopping Rules» (1965) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2135268717 «Borrowing During Unemployment» (2008) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2105263525 «Crime, Punishment, and Myopia» (2005) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2050881444 «An Empirical Equilibrium Job Search Model With Search on the Job and H» (1999) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2118618810 «Identification of Treatment Effects Using Control Functions in Models » (2008) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3124744319 «The natural rate of unemployment: explanation and policy» (1986) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W1967165016 «Did the Hartz Reforms Speed-Up the Matching Process? A Macro- Evaluati» (2009) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2149788402 «A Reduced-Form Approach to Behavioral Public Finance» (2012) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2560662496 «The American Economic Association» (2001) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1823922312 «Employment Consequences of Restrictive Permanent Contracts: Evidence f» (2003) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3122295018 «Labor market policy: A comparative view on the costs and benefits of l» (2011) – bred oversikt over arbeidsmarkedsinstitusjoner, ikke spesifikt periode og nivå
+- OK   6 utelatt W2022482884 «Towards More Inclusive Ageing and Employment Policies: The Lessons fro» (2014) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1509004353 «Information and Frictional Unemployment» (2016) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3025170472 «Job Search During the Covid-19 Crisis» (2020) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2096530780 «Program Evaluation and Research Designs» (2010) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3023568866 «Does subsidised temporary employment get the unemployed back to work? » (2004) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2990529257 «The unemployment and welfare effects of labour market policy: a compar» (1997) – modell av arbeidsmarkedspolitikk i USA og Storbritannia, ikke empirisk effekt
+- OK   6 utelatt W3124981809 «COVID-19 Is Also a Reallocation Shock» (2020) – korona og makroøkonomi i USA, ikke dagpengeperiode eller -nivå og overgang til arbeid
+- OK   6 utelatt W2561956873 «Local labor markets and criminal recidivism» (2016) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1970047256 «Labour market transitions and retirement of men in the UK» (1997) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; pensjon eller tidligpensjon, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2150191139 «Active labor market programs - employment gain or fiscal drain?» (2015) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2752971571 «The Fundamental Surplus» (2017) – teoretisk modell for dagpengeordning uten empiri
+- OK   6 utelatt W3153513056 «Job Search Behavior Among the Employed and Non-Employed» (2017) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2066211590 «The Threat Effect of Active Labour Market Programmes*» (2008) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2118353831 «Analyzing Regression-Discontinuity Designs With Multiple Assignment Va» (2012) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3122004101 «The Demand for Social Insurance: Does Culture Matter?» (2011) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3128740540 «Aspects of optimal unemployment insurance» (1978) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2145457917 «Iab Employment Subsample 1975-1995: Opportunities for Analysis Provide» (2000) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1968051509 «When Minority Labor Migrants Meet the Welfare State» (2010) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2735899740 «Wage Dispersion and Search Behavior» (2015) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1967337118 «A panel analysis of job changes and unemployment» (1994) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2081439060 «Semiparametric Latent Variable Model Estimation with Endogenous or Mis» (1998) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1493325986 «Manufacturing Decline, Housing Booms, and Non-Employment» (2013) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2168005367 «The Structural Estimation of Behavioral Models: Discrete Choice Dynami» (2011) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3121945828 «Labor turnover before plant closure: “Leaving the sinking ship” vs. “C» (2010) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2141788017 «Figuring out the impact of hidden savings on optimal unemployment insu» (2004) – teoretisk modell for dagpengeordning uten empiri
+- OK   6 utelatt W1841168204 «How the Perception of Control Influences Unemployed Job Search» (2014) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2733406724 «Quantifying Loss-Averse Tax Manipulation» (2017) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2130137198 «SCREENING DISABILITY INSURANCE APPLICATIONS» (2011) – uføretrygd (screening), ikke dagpenger
+- OK   6 utelatt W3034162068 «The Coronavirus Stimulus Package: How Large is the Transfer Multiplier» (2023) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1528117768 «The role of short-time work schemes during the global financial crisis» (2013) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1540388130 «Unemployment insurance in the United States: the first half century» (1993) – historisk framstilling av amerikansk ordning, ikke effektstudie
+- OK   6 utelatt W1481986815 «Optimal Labor Income Taxation» (2012) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2112856156 «Recruiting Intensity during and after the Great Recession: National an» (2012) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2164517442 «Unemployment and vacancy fluctuations in the matching model: inspectin» (2005) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2001732929 «Does the public employment service affect search effort and outcomes?» (2009) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1570927268 «The Rise and Fall of Swedish Unemployment» (2006) – makro- eller likevektsstudie av ledighet, ikke effekt av dagpengeperiode eller -nivå på avgang (Sverige)
+- OK   6 utelatt W2127546952 «Search and Rest Unemployment» (2008) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1983358354 «The Labor Market in the Great Recession—An Update to September 2011» (2011) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2079353270 «Disability retirement and unemployment - substitute pathways for labou» (1997) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; sykefravær, uføre eller yrkesskade, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3123907234 «Reemployment of dislocated workers in urban China: The roles of inform» (2006) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2771528776 «Labor unemployment insurance and firm cash holdings» (2017) – bedrifters kontantbeholdning, ikke ledige
+- OK   6 utelatt W2173551358 «Real-Time Search in the Laboratory and the Market» (2011) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1601250116 «From Many Series, One Cycle: Improved Estimates of the Business Cycle » (2011) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3124766160 «Unemployed and Their Caseworkers: Should They be Friends or Foes?» (2009) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3168579380 «Economic Agents as Imperfect Problem Solvers» (2020) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3187573228 «Negative Home Equity and Household Labor Supply» (2021) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1974736752 «Modelling inaccuracies in job-search duration data» (1993) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2043316974 «The Swedish unemployment experience» (1995) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1978507051 «Not so voluntary retirement decisions? Evidence from a pension reform» (2005) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; pensjon eller tidligpensjon, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2953655148 «Labor Market Policies and IMF Advice in Advanced Economies during the » (2013) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2145401623 «Time aggregation and the distributional shape of unemployment duration» (1992) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1545242103 «Discrete time proportional hazards regression» (1998) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1569367983 «The Effect of Vocational Employment Training on the Individual Transit» (2002) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1969709357 «Wealth effect on labor market transitions» (2003) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4283400126 «The Impacts of Benefit Sanctions: A Scoping Review of the Quantitative» (2022) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2120385818 «Computation of Equilibria in Heterogeneous‐Agent Models» (2001) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4205674112 «Worker Beliefs About Outside Options» (2021) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4384338759 «Moral Hazard versus Liquidity in Household Bankruptcy» (2023) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2239522691 «The Effect of Disability Insurance Payments on Beneficiaries' Earnings» (2017) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; sykefravær, uføre eller yrkesskade, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1889702078 «Unemployment in the United States and in Europe: A Contrast and the Re» (2001) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2539013849 «Mismatch Shocks and Unemployment During the Great Recession» (2016) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3168076024 «The Choice of Neighborhood in Regression Discontinuity Designs» (2017) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3124305968 «Age effects in Swedish local labor markets» (2004) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3125980927 «Estimating the Threat Effect of Active Labour Market Programmes» (2004) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1525069822 «Reservation Wages and Their Labor Market Effects for Black and White M» (1986) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W1988521472 «Unemployment Insurance and the Reservation Wage of the Unemployed» (1982) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W3125093516 «Unemployment compensation finance and labor market rigidity» (2003) – finansiering og erfaringsvurdering av ordningen, ikke avgang til arbeid
+- OK   6 utelatt W2023211428 «A Puzzling Aspect of the Effect of Advance Notice on Unemployment» (1997) – varsel før oppsigelse, dagpenger bare forklaring, ikke periode eller nivå
+- OK   6 utelatt W3186812744 «Taxing Property in Developing Countries: Theory and Evidence from Mexi» (2021) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1965661490 «Welfare benefits and the duration of welfare spells: evidence from a n» (2002) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2110452010 «Unemployment vs. Mismatch of Talents: Reconsidering Unemployment Benef» (1997) – teoretisk modell for dagpengeordning uten empiri
+- OK   6 utelatt W3123292256 «Regression Discontinuity with Categorical Outcomes» (2016) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1538329128 «What Drives Movements in the Unemployment Rate? A Decomposition of the» (2010) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3124549443 «Catastrophic Job Destruction» (2013) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3022380276 «Statistical Discrimination and Duration Dependence in the Job Finding » (2018) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3123021356 «Geographic reallocation and unemployment during the Great Recession: T» (2013) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3125729280 «The career prospects of overeducated Americans» (2017) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2095495074 «Inference Functions and Quadratic Score Tests» (2003) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2212192467 «Evaluation of the Charleston Claimant Placement and Work Test Demonstr» (1985) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2229087761 «The Cost of Job Loss» (2020) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2139152447 «Caught in the trap? Welfare's disincentive and the labor supply of sin» (2011) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2142105775 «Counseling and Monitoring of Unemployed Workers: Theory and Evidence f» (2002) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4205586075 «Benefit Systems and Work Incentives 1999» (1999) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W562716847 «Applications and Interviews: Firms’ Recruiting Decisions in a Friction» (2017) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W830739394 «Partial Unemployment Insurance Benefits and the Extent of Partial Unem» (1974) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2102382227 «Germany—No Country for Old Workers?» (2011) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2119117482 «The ins and outs of unemployment in a two-tier labor market» (2013) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2073663949 «Reemployment Probabilities and Returns to Matching» (2001) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2119305120 «Swedish active labour market programmes in the 1990s: overall effectiv» (2002) – arbeidsmarkedstiltak, ikke dagpengeperiode eller -nivå
+- OK   6 utelatt W1584744855 «What can active labour market policy do» (1994) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2035695963 «Government Programs, Job Search Requirements, and the Duration of Unem» (1985) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2977255986 «Nonparametric Inference on State Dependence in Unemployment» (2019) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4233073011 «EU Welfare Systems and Labor Markets: Diverse in the Past, Integrated » (2001) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4246648064 «Labour Market Policies and the Public Employment Service» (2001) – arbeidsformidling og aktiv politikk, ikke periode eller nivå
+- OK   6 utelatt W3021234019 «INSTITUTIONS AND PERFORMANCE IN EUROPEAN LABOUR MARKETS: TAKING A FRES» (2010) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3123746348 «Does Delay Cause Decay? The Effect of Administrative Decision Time on » (2015) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; sykefravær, uføre eller yrkesskade, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2078779841 «The Location of Sales Offices and the Attraction of Cities» (2005) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3122515043 «The Fall in German Unemployment: A Flow Analysis» (2020) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2047806183 «Structural and frictional unemployment in an equilibrium search model » (1995) – likevektsmodell med minstelønn og ytelser, ikke effekt av periode eller nivå
+- OK   6 utelatt W2153410177 «Is Skill Mismatch Impeding U.S. Economic Recovery?» (2015) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4318244054 «Expectations data, labor market, and job search» (2023) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2239401844 «Retirement incentives, individual heterogeneity and labor transitions » (2012) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; pensjon eller tidligpensjon, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2745054507 «The Role of Unemployment Insurance as an Automatic Stabilizer during a» (2010) – dagpenger som automatisk stabilisator, makro og ikke avgang til arbeid
+- OK   6 utelatt W3122166505 «Job Creation and Job Destruction in a Regulated Labor Market: The Case» (2003) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3124005597 «Analyzing the effect of dynamically assigned treatments using duration» (2004) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4366748338 «The COVID-19 shock and consumer credit: Evidence from credit card data» (2023) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2107219359 «Do active labor market policies help unemployed workers to find and ke» (2001) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2137789320 «Economic Incentives, Business Cycles, and Long‐Term Sickness Absence» (2009) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; sykefravær, uføre eller yrkesskade, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2966369283 «Heterogeneity and Unemployment Dynamics» (2016) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2063590079 «On the Distributional Shape of Unemployment Duration» (1987) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2081417045 «The return to work of injured workers: evidence from matched unemploym» (2003) – tilbakegang til arbeid etter yrkesskade, ikke dagpenger
+- OK   6 utelatt W1990902288 «Looking beyond the bridge: The effect of temporary agency employment o» (2013) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4243014672 «Benefits and Wages 2007» (2007) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2164777161 «Duration and risk of unemployment in Argentina» (2003) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2056510258 «Unemployment Compensation Finance and Efficiency Wages» (1999) – finansiering og erfaringsvurdering av ordningen, ikke avgang til arbeid
+- OK   6 utelatt W2163019785 «The persistence of unemployment: Does competition between employed and» (2002) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3016263001 «A comprehensive history of regression discontinuity designs: An empiri» (2021) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2166703533 «Marriage, Gender, and Class: The Effects of Partner Resources on Unemp» (2014) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4206326921 «Earnings shocks and stabilization during COVID-19» (2022) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1982416815 «Unemployment Insurance and Employment» (1991) – tilgang til ledighet og oppsigelser (erfaringsvurdering), ikke avgang til arbeid
+- OK   6 utelatt W2160255263 «Using quantile regression for duration analysis» (2006) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2190781029 «Public funding for startups in Argentina: an impact evaluation» (2015) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3035949905 «The Cost of Human Capital Depreciation During Unemployment» (2014) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4221060876 «Wealth accumulation, on-the-job search and inequality» (2022) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1919424997 «Combating Unemployment: Is Flexibility Enough? (1996)» (1999) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2059688198 «The IZA Evaluation Dataset: towards evidence‐based labor policy making» (2011) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2249974329 «Las tasas de salida del empleo y el desempleo en España (1978-1993)» (1998) – spansk studie av avgangsrater, uklart om ytelsesvariasjon, utenfor kjernen
+- OK   6 utelatt W2993400654 «SICK PAY INSURANCE AND SICKNESS ABSENCE: SOME EUROPEAN CROSS‐COUNTRY O» (2019) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; sykefravær, uføre eller yrkesskade, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3217434209 «The impact of SNAP work requirements on labor supply» (2021) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1698277642 «On the Optimality of Search Matching Equilibrium When Workers Are Risk» (2007) – teoretisk modell for dagpengeordning uten empiri
+- OK   6 utelatt W2136350316 «Homeownership and Labour-Market Behaviour: Interpreting the Evidence» (2010) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4405020287 «Minimum wages in the 21st century» (2024) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3158091529 «Does the Individual Mandate Affect Insurance Coverage? Evidence from T» (2021) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2002227868 «Search, flows, job creations and destructions» (2014) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3124299604 «Can the Unemployed Borrow? Implications for Public Insurance» (2024) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4323046178 «Visual Inference and Graphical Representation in Regression Discontinu» (2023) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2114560816 «The effects of hiring and firing regulation on unemployment and employ» (2008) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2266404358 «How Do Unemployment Insurance Benefits Affect the Decision to Apply fo» (2016) – søknader om uføretrygd, ikke overgang til arbeid
+- OK   6 utelatt W3121622955 «Can welfare conditionality combat high school dropout?» (2017) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1848441413 «Youth Unemployment Duration and Competing Exit States: What Hides Behi» (2015) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4284977316 «The Unintended Consequences of Welfare Reforms: Universal Credit, Fina» (2020) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1533718760 «Transitions In and Out of Unemployment among Young People in the Irish» (2014) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4395020449 «Boundary Discontinuity Methods and Policy Spillovers» (2022) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1999847054 «Targeting Employment Services» (2002) – arbeidsmarkedstiltak, ikke dagpengeperiode eller -nivå (målretting)
+- OK   6 utelatt W2123052917 «The Impact of Temporary Assistance Programs on Disability Rolls and Re» (2014) – søknad om uføretrygd og støtteordninger, ikke periode eller nivå
+- OK   6 utelatt W2902541184 «Does subsidized part-time employment help unemployed workers to find f» (2018) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2902430462 «Job Search and (Re)employment From a Lifespan Development Perspective» (2018) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2229697912 «Taxation and unemployment in models with heterogeneous workers» (2016) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4396555182 «Refugee Benefit Cuts» (2024) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2168029434 «Unemployment duration and individual heterogeneity: a regional study» (2005) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2233806445 «Potential Effects of the Great Recession on the U.S. Labor Market» (2012) – makro- eller likevektsstudie av ledighet, ikke effekt av dagpengeperiode eller -nivå på avgang
+- OK   6 utelatt W2803575423 «The Surge in Short-Duration Contracts in Spain» (2018) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3166087936 «Follow-up of EU's recommendations on labour market policies» (2002) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3174939542 «SEARCH AND THE SOURCES OF LIFE‐CYCLE INEQUALITY» (2021) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2142119203 «LANDING A PERMANENT CONTRACT IN SPAIN: DO JOB INTERRUPTIONS AND EMPLOY» (2011) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2907138439 «Intra-Household Risk Sharing and Job Search over the Business Cycle» (2018) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2003886255 «Mandatory Notice and the Jobless Durations of Displaced Workers» (1997) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3113365291 «Changes in consumer behaviors and financial well-being during the coro» (2020) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3207809980 «The COVID Retirement Boom» (2021) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; pensjon eller tidligpensjon, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4366816651 «Distributional impacts of the Covid-19 pandemic and the CARES Act» (2023) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4368363951 «Introduction: The Socioeconomic Impacts of COVID-19» (2023) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3122670586 «The emergence of new entrepreneurs in Europe» (2014) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1648473941 «THE U.S. SAFETY NET AND WORK INCENTIVES: THE GREAT RECESSION AND BEYON» (2015) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1969326023 «The impact of monitoring and sanctioning on unemployment exit and job-» (2014) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2084495633 «Labour mobility of unemployed workers» (2002) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2125492003 «On the Definition of Unemployment and its Implementation in Register D» (2008) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4247255837 «Protection and Training Institutions for Improving Workforce Integrati» (2016) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4298396231 «What do jobseekers want? Comparing methods to estimate reservation wag» (2022) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1494103436 «Evaluation of WPRS Systems» (2002) – arbeidsmarkedstiltak, ikke dagpengeperiode eller -nivå (målretting)
+- OK   6 utelatt W1506910227 «Targeting Reemployment Services in Canada: The Service and Outcome Mea» (2002) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3137544488 «The effect of income support programs on job search, workplace mobilit» (2021) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2312202325 «Unemployment Insurance: The Recipients and Its Impact» (1981) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W3087759458 «Does Unemployment Risk Affect Business Cycle Dynamics?» (2020) – husholdningsmodell med ledighetsrisiko, ikke dagpenger
+- OK   6 utelatt W4402801740 «Literature review of comparative school-to-work research: how institut» (2024) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1488717233 «Measures of Program Performance and the Training Choices of Displaced » (2002) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1565134625 «SPECIFICATION TESTS FOR THE COMPETING RISKS DURATION MODEL: AN APPLICA» (1995) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2067773290 «On the Reliability of Retrospective Unemployment Information in Europe» (2011) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3165682107 «Job search during a pandemic recession: Survey evidence from the Nethe» (2022) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4399365397 «Estimating Career Benefits from Online Community Leadership: Evidence » (2024) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1563080309 «Targeting Employment Services under the Workforce Investment Act» (2002) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2027915835 «Barriers to employment and welfare dynamics: Evidence from Spain» (2007) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4362577753 «Using Machine Learning to Create an Early Warning System for Welfare R» (2023) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4403818323 «Watering the Seeds of the Rural Economy: Evidence from Groundwater Irr» (2023) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3122565057 «Job matching when employment contracts suffer from moral hazard» (2011) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2051026467 «The German Unemployment Compensation System: Effects On Aggregate Savi» (2002) – sparing og formue i modell, ikke overgang til arbeid
+- OK   6 utelatt W2757704749 «Regular Education as a Tool of Countercyclical Employment Policy» (2011) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4392541969 «Persistent or temporary? Effects of social assistance benefit sanction» (2024) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4408923172 «Job Displacement and Earnings Losses: The Role of Joblessness» (2025) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1519954337 «The Effects of Incomplete Employee Wage Information: A Cross-Country A» (2005) – ufullstendig lønnsinformasjon, ikke dagpenger
+- OK   6 utelatt W1567439427 «Profiling in Self-Employment Assistance Programs» (2002) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2023175865 «The Labor Market in the Aftermath of the Great Recession» (2014) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4233018305 «The Employment Service-Unemployment Insurance Partnership: Origin, Evo» (2018) – amerikansk systemreform, ikke effektstudie
+- OK   6 utelatt W4405019888 «The micro and macro economics of short-time work» (2024) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2184607726 «Down and Enrolled: An Examination of the Enrollment Response to Cyclic» (2013) – utdanningsvalg ved jobbtap, ikke dagpenger
+- OK   6 utelatt W4392782223 «Etuussanktioiden vaikutukset toimeentuloon, hyvinvointiin ja palveluih» (2024) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W92236912 «Per un atterraggio morbido» (2007) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2526278050 «Active Labor Market Policies» (2013) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1518869538 «Predicting Long-Term Unemployment in Canada: Prospects and Policy Impl» (2002) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2064223219 «Individual and regional determinants of receiving unemployment benefit» (2007) – sanksjoner, overvåking og aktivitetskrav, holdt utenfor
+- OK   6 utelatt W2324590156 «Testimony before the Joint Economic Committee of U.S. Congress on "Lon» (2010) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2499952635 «Skills and Unemployment» (2004) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4410739181 «Printing away the mortgages: Fiscal inflation and the post-covid boom» (2025) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4413129031 «The Nature of Long-Term Unemployment: Predictability, Heterogeneity, a» (2025) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2167100401 «On the use of indicators of the generosity of unemployment compensatio» (2011) – mål på dagpengenes raushet, metodekritikk uten effekt på overgang
+- OK   6 utelatt W2886389382 «UI Reform Proposals in the Fiscal Year 2017 Obama Budget Request» (2018) – amerikanske reformforslag, ikke effektstudie
+- OK   6 utelatt W4413291057 «The effect of the increase in social security’s full retirement age on» (2025) – pensjonsalder og ledighet blant eldre i USA, ikke periode eller nivå
+- OK   6 utelatt W2181609981 «Social protection and labor market outcomes in South Africa: Employmen» (2012) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2557993233 «International comparison of unemployment compensation programs: focus » (2015) – dekningsgrad i internasjonal sammenligning, ikke overgang til arbeid
+- OK   6 utelatt W4406655003 «Welfare entitlements programs and innovation: do more generous states » (2026) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3199778604 «Voluntary Turnover in the Spanish Cultural and Institutional Context» (2021) – frivillig avgang i Spania, ikke dagpenger
+- OK   6 utelatt W4414241054 «Places versus people: the ins and outs of labor market adjustment to g» (2025) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2133469585 «Prospect theory: An analysis of decision under risk» (1988) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W4299627282 «Statistical Power Analysis for the Behavioral Sciences» (2013) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2129905273 «Density Estimation for Statistics and Data Analysis» (2018) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W566586761 «American Economic Review» (2019) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W612372977 «Practical Meta-Analysis» (2000) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4297974475 «The American Economic Review» (2012) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2119436275 «An Introduction to Copulas» (1999) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4298197486 «The American Economic Review» (2013) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2088563154 «Postwar U.S. Business Cycles: An Empirical Investigation» (1997) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2165144879 «Instrumental Variables Regression with Weak Instruments» (1997) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1538443123 «Schooling, Experience, and Earnings» (1974) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W3044348100 «Human Capital» (1983) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2138290169 «Identification of Causal Effects Using Instrumental Variables» (1996) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1830719945 «Likelihood Ratio Tests for Model Selection and Non-Nested Hypotheses» (1989) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2066735350 «Matching As An Econometric Evaluation Estimator: Evidence from Evaluat» (1997) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2159147610 «Human Capital: A Theoretical and Empirical Analysis, with Special Refe» (1964) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W1969610664 «Impulse response analysis in nonlinear multivariate models» (1996) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3123974754 «Propensity Score-Matching Methods for Nonexperimental Causal Studies» (2002) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3122178585 «Bootstrap-Based Improvements for Inference with Clustered Errors» (2008) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2171656257 «The Economic Costs of Conflict: A Case Study of the Basque Country» (2003) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2024810644 «Equilibrium Unemployment as a Worker Discipline Device» (1986) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2097916756 «The China Syndrome: Local Labor Market Effects of Import Competition i» (2013) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2797482815 «Analysis of Survival Data.» (1985) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W1989377468 «Reducing Bias in Observational Studies Using Subclassification on the » (1984) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W3124124240 «Skills, Tasks and Technologies: Implications for Employment and Earnin» (2011) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1593748280 «Determining the Number of Factors in Approximate Factor Models» (2002) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3124401164 «The Growth of Low-Skill Service Jobs and the Polarization of the US La» (2013) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2080061756 «Matching As An Econometric Evaluation Estimator» (1998) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2100673825 «Selection on Observed and Unobserved Variables: Assessing the Effectiv» (2005) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1986903447 «The Economics of Information» (1976) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2977606681 «The Statistical Analysis of Failure Time Data» (2002) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2115585814 «A standard international socio-economic index of occupational status» (1992) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2100056252 «Doing It Now or Later» (1999) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2497086619 «Event History Analysis» (1984) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2740984722 «Review of Economic Studies» (2010) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3124120302 «Nonparametric Estimation of Average Treatment Effects Under Exogeneity» (2004) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3121366158 «Identification and Estimation of Local Average Treatment Effects» (1995) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3196836501 «Revisiting Event Study Designs» (2016) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1597926580 «Local Polynomial Modelling and its Applications» (1994) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2171443468 «Large Sample Properties of Matching Estimators for Average Treatment E» (2005) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1970448118 «GMM estimation with cross sectional dependence» (1999) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2012658469 «The Robust Inference for the Cox Proportional Hazards Model» (1989) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2889658425 «High Wage Workers and High Wage Firms» (1999) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2009729418 «An Illustration of a Pitfall in Estimating the Effects of Aggregate Va» (1990) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2891753394 «Causal Effects in Nonexperimental Studies: Reevaluating the Evaluation» (1999) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2097346962 «Psychology and Economics: Evidence from the Field» (2009) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2085752922 «Bargaining Structure, Corporatism and Macroeconomic Performance» (1988) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W3015302834 «Applied Linear Statistical Models.» (1975) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W3021176487 «Characterizing Selection Bias Using Experimental Data» (1998) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4300006923 «The American Economic Review» (2012) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2106022734 «Skills, Tasks and Technologies: Implications for Employment and Earnin» (2010) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2140018188 «Minimum Wages and Employment: A Case Study of the Fast-Food Industry i» (2000) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3123707900 «Minimum Wages and Employment: A Case Study of the Fast Food Industry i» (1993) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3121786260 «Measuring the Output Responses to Fiscal Policy» (2012) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2023050239 «Why Is There Mandatory Retirement?» (1979) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W1979067658 «Getting Income Shares Right» (2002) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2012073895 «Sociological Methodology 1982» (1983) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2142741054 «Sticky Prices in the United States» (1982) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2088780245 «Evidence on the Impact of Sustained Exposure to Air Pollution on Life » (2013) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1529206929 «An Introduction to Survival Analysis Using Stata» (2003) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2104165247 «When Is the Government Spending Multiplier Large?» (2011) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3121900164 «Consumption, Income, and Interest Rates: Reinterpreting the Time Serie» (1989) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W3022855420 «Consumption Over the Life Cycle» (2002) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; pensjon eller tidligpensjon, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4237954859 «Regional Evolutions» (1992) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2312667940 «Losing Ground: American Social Policy, 1950-1980.» (1985) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2092027953 «Why Are the Unemployed So Unhappy?Evidence from Panel Data» (1998) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2013534161 «Saving and Liquidity Constraints» (1991) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1975383176 «Random group effects and the precision of regression estimates» (1986) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2061044658 «Models of business cycles» (1987) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2168967186 «The Employment Effects of Credit Market Disruptions: Firm-level Eviden» (2013) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1501835916 «Recent Advances in Quantile Regression Models: A Practical Guideline f» (1998) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2253894436 «Monetary Policy According to HANK» (2018) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3124206340 «Hysteresis and the European Unemployment Problem» (1986) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2015958526 «Losing Ground: American Social Policy, 1950-1980» (1984) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2135338737 «Multivariate Statistical Modelling Based on Generalized Linear Models» (1994) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3213526873 «Journal of Public Economics» (2009) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3121726158 «Limited-Dependent and Qualitative Variables in Econometrics.» (1985) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W4246607039 «Two-Stage Least Squares Estimation of Average Causal Effects in Models» (1995) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2127503409 «The Career Decisions of Young Men» (1997) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2102963250 «The Elasticity of Taxable Income with Respect to Marginal Tax Rates: A» (2012) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2128754415 «The risk-free rate in heterogeneous-agent incomplete-insurance economi» (1993) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2792296590 «Local Polynomial Modelling and its Applications» (1997) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2155453909 «Job Mobility and the Careers of Young Men» (1992) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3125101915 «The long-term labor market consequences of graduating from college in » (2009) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2170411204 «Labor Supply of New York City Cabdrivers: One Day at a Time» (1997) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4236654676 «Journal of the Royal Statistical Society: Series C (Applied Statistics» (2023) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3125512578 «Identification and Inference in Nonlinear Difference-in-Differences Mo» (2006) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1487246328 «Some Empirical Aspects of Entrepreneurship» (1990) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2770058355 «Structural Vector Autoregressive Analysis» (2017) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2031542759 «The Beveridge Curve» (1989) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2116943185 «Dealing with limited overlap in estimation of average treatment effect» (2009) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1966190525 «Why Wages Don't Fall during a Recession» (2009) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2076596522 «Life Cycle Schooling and Dynamic Selection Bias: Models and Evidence f» (1998) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1970567871 «Industry-Specific Human Capital: Evidence from Displaced Workers» (1995) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2155685168 «Educational systems and labor market outcomes» (1989) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2105268279 «Business Cycle Accounting» (2007) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2138752415 «Alternative approaches to evaluation in empirical microeconomics» (2008) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2138238248 «Consumption inequality and partial insurance» (2017) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; pensjon eller tidligpensjon, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3122768455 «Unemployment, growth and taxation in industrial countries» (2000) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2137175555 «Synthetic Control Methods for Comparative Case Studies: Estimating the» (2007) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2171442673 «Causal Effects in Non-Experimental Studies: Re-Evaluating the Evaluati» (1998) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3125121094 «Revisiting the German Wage Structure *» (2009) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2889716373 «Tax Avoidance and the Deadweight Loss of the Income Tax» (1999) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2185580901 «Monetary Policy and the Redistribution Channel» (2019) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2891266466 «An Empirical Model of Labor Supply in a Life Cycle Setting» (1980) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2955861062 «Simple Local Polynomial Density Estimators» (2019) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W108357310 «Welfare Regimes and the Experience of Unemployment in Europe» (2000) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3037490325 «Fear, lockdown, and diversion: Comparing drivers of pandemic economic » (2020) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3022413197 «Propensity Score Matching Methods for Non-Experimental Causal Studies» (2012) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3123497570 «Estimating Risk Preferences from Deductible Choice» (2007) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4210626214 «Handbook of Public Economics» (2013) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2146701609 «Methods and Problems in Business Cycle Theory» (1980) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2866690087 «Manipulation Testing Based on Density Discontinuity» (2018) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2894899500 «Do Recessions Accelerate Routine-Biased Technological Change? Evidence» (2016) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1987285598 «The Response of Household Consumption to Income Tax Refunds» (1999) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2115703300 «A Welfare State Paradox: State Interventions and Women’s Employment Op» (2006) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2122761045 «Gender in the Welfare State» (1996) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2046116452 «Unemployment in Britain» (1986) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2156185522 «From Sick Man of Europe to Economic Superstar: Germany's Resurgent Eco» (2014) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; sykefravær, uføre eller yrkesskade, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1571602712 «Firm-Specific Human Capital as a Shared Investment» (1981) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W1981924921 «Labor Supply and Taxes: A Survey» (2011) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2085268423 «Firm-specific Capital and Turnover» (1979) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2062441457 «Pensions, the Option Value of Work, and Retirement» (1990) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; pensjon eller tidligpensjon, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2326707655 «Research in Labor Economics» (2014) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2104490102 «Measuring the Effect of the Zero Lower Bound on Medium- and Longer-Ter» (2014) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2165611738 «Assessing the Impact of a School Subsidy Program in Mexico: Using a So» (2006) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2075009233 «The Cyclical Behavior of the Gross Flows of U.S. Workers» (1990) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2050419204 «2001 Lawrence R. Klein Lecture Estimating Distributions of Treatment E» (2003) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4234209132 «Observational Studies» (2002) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1970169482 «Statistical Data Analysis Based on the L1-Norm and Related Methods» (2002) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2891582095 «Optimal bandwidth choice for robust bias-corrected inference in regres» (2019) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2097191180 «Identification and Estimation of Triangular Simultaneous Equations Mod» (2009) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2102873396 «Behavioral Economics and Public Policy: A Pragmatic Perspective» (2015) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1979294153 «Small business formation by unemployed and employed workers» (1990) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2117881666 «Consumption Inequality and Family Labor Supply» (2016) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2124791371 «Time Use During the Great Recession» (2013) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2041449756 «Optimal Data-Driven Regression Discontinuity Plots» (2015) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4232709840 «Live Longer, Work Longer» (2006) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; pensjon eller tidligpensjon, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2114128816 «Nonparametric Estimation of Average Treatment Effects under Exogeneity» (2003) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2092309001 «Search Unemployment with On-the-job Search» (1994) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3122993969 «Temporary jobs, employment protection and labor market performance» (2002) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2090274227 «True and Spurious Duration Dependence: The Identifiability of the Prop» (1982) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2171193400 «Welfare Regimes, Family‐Supportive Policies, and Women’s Employment al» (2001) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2123849123 «Bounds on Elasticities with Optimization Frictions: A Synthesis of Mic» (2009) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3021077285 «Determinants of Disparities in Covid-19 Job Losses» (2020) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4214894679 «Statistical Meta‐Analysis with Applications» (2008) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2074963033 «Job Loss and Employment Patterns of Older Workers» (2001) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4230736261 «Estimating Labor Supply Responses Using Tax Reforms» (1998) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2133597335 «ACTIVE LABOUR MARKET POLICY AND UNEMPLOYMENT - A FRAMEWORK FOR THE ANA» (1994) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2007850519 «Censored Regression Quantiles» (2003) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2049923662 «Specific Human Capital: An Application to Quit Rates and Layoff Rates» (1972) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2057867827 «A Microeconometric Evaluation of the Active Labour Market Policy in Sw» (2002) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2133478955 «Saving Babies? Revisiting the effect of very low birth weight classifi» (2011) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2598238536 «Identification of and Correction for Publication Bias» (2019) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3124878057 «How Much Should We Trust Differences-in-Differences Estimates?» (2001) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1586078030 «Local Labor Markets» (2010) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2141064894 «Loss aversion in a consumption–savings model» (1999) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2145351609 «Cross-Section Regression with Common Shocks» (2005) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3123267736 «Internet Job Search and Unemployment Durations» (2004) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3125678515 «The Economic Impacts of COVID-19: Evidence from a New Public Database » (2023) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2099168173 «Is There a Career Penalty for Mothers' Time Out? A Comparison of Germa» (2009) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2088520421 «The Impact of Economic Conditions on Participation in Disability Progr» (2002) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3123531432 «Who Benefits from State and Local Economic Development Policies?» (1992) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3121537970 «Worker Displacement and the Added Worker Effect» (2002) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2005612319 «Unemployment and Vacancies in Britain» (1986) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W1606265592 «The Retirement Effects of Old-Age Pension and Early Retirement Schemes» (2003) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; pensjon eller tidligpensjon, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1985804894 «The Interpretation of Instrumental Variables Estimators in Simultaneou» (2000) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3124139837 «Default Priors and Predictive Performance in Bayesian Model Averaging,» (2009) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3021811462 «Inflation in the Great Recession and New Keynesian Models» (2015) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3122728017 «THE EARNED INCOME TAX CREDIT:» (2019) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3121496485 «The Nature of Risk Preferences: Evidence from Insurance Choices» (2013) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2023626126 «Empirical Probability Plots and Statistical Inference for Nonlinear Mo» (1974) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2104278634 «Two-Sample Instrumental Variables Estimators» (2010) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3126121728 «Efficient Search on the Job and the Business Cycle» (2011) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2097545809 «Is the Taxable Income Elasticity Sufficient to Calculate Deadweight Lo» (2009) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2103717092 «Notes for a theory of labor market stratification» (1972) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W44284924 «The scars of youth: Effects of early‐career unemployment on future une» (2017) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2170940480 «Structural Equations, Treatment Effects and Econometric Policy Evaluat» (2005) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2610701494 «The Institutional Embeddedness of the Stratification Process A Compara» (1997) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W5362074 «Imperfect Competition in the Labor Market» (2011) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2001683154 «Estimates of Marginal Survival for Dependent Competing Risks Based on » (1995) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1544291764 «Global Financial Transmission of Monetary Policy Shocks*» (2009) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2024171830 «Start-ups by the unemployed: characteristics, survival and direct empl» (2009) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2165350192 «Testing for Serial Correlation in Fixed-Effects Panel Data Models» (2014) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1972964082 «Do Consumers React to Anticipated Income Changes? Evidence from the Al» (2003) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1912888988 «E-lections: Voting Behavior and the Internet» (2014) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2106148301 «How binding are legal limits? Transitions from temporary to permanent » (2005) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2066650931 «Mobility Costs, Frictional Unemployment, and Efficiency» (1981) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2164483624 «Start-up subsidies for the unemployed: Long-term evidence and effect h» (2010) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2891077897 «Disability Insurance Benefits and Labor Supply» (2000) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; sykefravær, uføre eller yrkesskade, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1966280706 «The European Community Household Panel: A review» (2002) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2114359437 «Minimum Wage Effects Across State Borders: Estimates Using Contiguous » (2007) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1519025159 «An Equilibrium Analysis of Search and Breach of Contract, I: Steady St» (1979) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2108764426 «Moving Back Home: Insurance against Labor Market Risk» (2012) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2114144136 «Estimation in the Regression Discontinuity Model» (2003) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2890523678 «Regression Discontinuity Designs» (2022) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3012139536 «REPORTING GUIDELINES FOR META‐ANALYSIS IN ECONOMICS» (2020) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1511193542 «Theory of Unemployment» (2013) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3012622611 «Fiscal Policy during a Pandemic» (2020) – korona og makroøkonomi i USA, ikke dagpengeperiode eller -nivå og overgang til arbeid
+- OK   6 utelatt W2088334432 «The work disincentive effects of the disability insurance program in t» (2007) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; sykefravær, uføre eller yrkesskade, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3122440903 «The impact of education on unemployment incidence and re-employment su» (2011) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3124595787 «The Economic Stimulus Payments of 2008 and the aggregate demand for co» (2014) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1849775659 «What Works? A Meta Analysis of Recent Active Labor Market Program Eval» (2015) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2149847742 «Comparative Research on Women's Employment» (2002) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2037211622 «The effect of wages, taxes, and fixed costs on women's labor force par» (1980) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2173912986 «Testing the Response of Consumption to Income Changes with (Noisy) Pan» (1987) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2022970814 «Job‐to‐Job and Job‐to‐Nonemployment Turnover by Gender and Education L» (1998) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3124484684 «Imputation Rules to Improve the Education Variable in the IAB Employme» (2006) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2964550494 «Using the Sequence‐Space Jacobian to Solve and Estimate Heterogeneous‐» (2021) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3122198848 «Reservation Wages: Explaining Some Puzzling Regional Patterns» (2011) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2119626280 «Can training and employment subsidies combat European unemployment?» (2002) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2108914532 «Equilibrium Wage-Tenure Contracts» (2003) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2008830373 «Can Families Smooth Variable Earnings?» (1997) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2068850527 «The Measurement of Unemployment: An Empirical Approach» (1999) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2172057766 «From School To Work» (1979) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2008745156 «Convergence in Macroeconomics: The Labor Wedge» (2009) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1990149970 «Family Change, Employment Transitions, and the Welfare State: Househol» (2000) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3123096165 «Excess Sensitivity of High-Income Consumers*» (2015) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1716180660 «Reappraising Medfly Longevity» (2001) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3101068014 «Do Family Policies Reduce Gender Inequality? Evidence from 60 Years of» (2020) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2060928447 «A Difficulty with the Optimum Quantity of Money» (1983) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2074391575 «Alternative Models for the Heterogeneity of Mortality Risks Among the » (1986) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2033256380 «Predictive validity of a multidisciplinary model of reemployment succe» (2002) – psykologisk modell for gjeninntreden, ikke periode eller nivå
+- OK   6 utelatt W3147757508 «Did the paycheck protection program hit the target?» (2022) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2103086757 «Do Temporary-Help Jobs Improve Labor Market Outcomes for Low-Skilled W» (2010) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2017136244 «The Role of Temporary Agency Employment in Tight Labor Markets» (2003) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1976789936 «The impact of training on the frequency and duration of employment» (1993) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2082778896 «Social Security, Unanticipated Benefit Increases, and the Timing of Re» (1986) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W4388169774 «The Economics of ‘Tagging’ as Applied to the Optimal Income Tax, Welfa» (2005) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2082262187 «Trends in Employment and Earnings of Allowed and Rejected Applicants t» (2011) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2067131434 «The Ins and Outs of European Unemployment» (2008) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2123965513 «Nonproportional Hazards and Event History Analysis in International Re» (2003) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1510035077 «Chapter 72 Econometric Evaluation of Social Programs, Part III: Distri» (2007) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2157076083 «Inflation Policy and Unemployment Theory. The Cost-Benefit Approach to» (1973) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2256954462 «Labor Markets and Business Cycles» (2010) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2554200906 «rdrobust: An R Package for Robust Nonparametric Inference in Regressio» (2015) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2568730543 «‘New politics’ in German labour market policy? The implications of the» (2005) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3122144912 «Entrepreneurship: Origins and returns» (2010) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2073525601 «Targeted transfers and the fiscal response to the great recession» (2012) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2176683074 «Bayesian Model Averaging Employing Fixed and Flexible Priors: TheBMSPa» (2015) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3083631500 «The Great Lockdown and the Big Stimulus: Tracing the Pandemic Possibil» (2020) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1534954416 «Hysteresis in Unemployment: Old and New Evidence» (2009) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1553094102 «International Handbook of Labour Market Policy and Evaluation» (1996) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2021729825 «The dynamics of repeated temporary jobs» (2005) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2132288119 «Firm-Specific Human Capital: A Skill-Weights Approach» (2003) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2053229861 «Job Search, Stigma Effect, and Escape Rate from Unemployment» (1989) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W1533506487 «Job search methods and outcomes» (2002) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W221196117 «Indicateurs de taux de remplacement aux fins de comparaisons internati» (1996) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1964768791 «Survey Evidence on Wage Rigidity and Unemployment: Sweden in the 1990s» (2003) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3124097766 «Firm Performance and State Innovation Funding: Evidence from China's I» (2015) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3121539227 «Tax evasion and self-employment in a high-tax country: evidence from S» (2008) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2160672817 «Covariate heterogeneity in meta‐analysis: Criteria for deciding betwee» (2006) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2797417805 «Assessing the Effect of Public Policy on Worker Absenteeism» (2002) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; sykefravær, uføre eller yrkesskade, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3022474009 «The Impact of the Wuhan Covid-19 Lockdown on Air Pollution and Health:» (2020) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1993018897 «The effects of land transfer taxes on real estate markets: evidence fr» (2011) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W62543937 «The Dynamics of Full Employment» (2002) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2150313143 «Labor market policies and IMF advice in advanced economies during the » (2014) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2023005197 «The Effects of Rotation Group Bias on Estimates from Panel Surveys» (1975) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W3122249435 «Objectives and constraints of entrepreneurs: evidence from small and m» (2003) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3123176201 «Inflation in the Great Recession and New Keynesian Models» (2014) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3031589533 «Effects of Social Distancing Policy on Labor Market Outcomes» (2020) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1532684042 «METHODOLOGICAL ISSUES IN MEASURING AND INTERPRETING TAXABLE INCOME ELA» (1998) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1999889055 «Search Intensity, Job Advertising, and Efficiency» (1984) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2033064014 «Estimating a Market Equilibrium Search Model from Panel Data on Indivi» (1990) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2042417727 «The Design of Income Maintenance Programmes» (1995) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2233471914 «Afriat's Theorem for General Budget Sets» (2006) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2151416414 «The anatomy of absenteeism» (2010) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3125359568 «Labor unemployment insurance and earnings management» (2015) – annet tema, ikke dagpengeperiode eller -nivå og overgang til arbeid
+- OK   6 utelatt W3049131615 «How Did U.S. Consumers Use Their Stimulus Payments?» (2020) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2188837245 «Long-Term Earnings Losses Due to Mass Layoffs During the 1982 Recessio» (2009) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2030887759 «Declining Job Security» (1999) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2034537869 «The resilience of the long‐term employment relationship: Evidence from» (2000) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2055047765 «Job Search and Unemployment Duration: Implications for the Spatial Mis» (1997) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2890130197 «Identification of Treatment Effects Using Control Functions in Models » (2008) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3122354902 «Who Benefits from the Earned Income Tax Credit? Incidence among Recipi» (2010) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2261544862 «The Youth Labor Market Problem» (1982) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W1558209316 «Aggregate Supply in the United States: Recent Developments and Implica» (2013) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2050839637 «Does unemployment lead to self-employment?» (1992) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2115623013 «Will I See You at Work? Ethnic Workplace Segregation in Sweden, 1985–2» (2010) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2489045370 «Restructuring Networks in Post-Socialism» (1996) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4313635650 «The Econometric Analysis of Transition Data.» (1992) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3122859591 «Tax Policy and the Economy, Volume 18» (None) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2968103140 «Modern Algorithms for Matching in Observational Studies» (2019) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2043763936 «The Long‐Run Effects of Unemployment Monitoring and Work‐Search Progra» (2002) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2789479292 «The Effects of Labor and Product Market Reforms: The Role of Macroecon» (2018) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2140239380 «Losing a Job: The Nonpecuniary Cost of Unemployment in the United Stat» (2012) – utfallet er helse eller velferd, ikke overgang til arbeid
+- OK   6 utelatt W3021357825 «Demographic Differences in Cyclical Employment Variation» (1980) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2086929755 «Studies in the Economics of Search» (1980) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W3082305249 «Estimating the Armington elasticity: The importance of study design an» (2020) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3121673802 «Alternative and Part‐Time Employment Arrangements as a Response to Job» (1999) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2054412195 «Do Business Cycle Conditions at the Time of Labor Market Entry Affect » (2006) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2121523635 «Working while enrolled in a university: does it pay?» (2004) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1974139113 «New Methods for Analyzing Structural Models of Labor Force Dynamics» (1982) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W1987759602 «The redistributive roles of unemployment insurance and the dynamics of» (1986) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2143655548 «Bounds in Competing Risks Models and the War on Cancer» (2004) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2098221077 «Identifying the Effect of Changing the Policy Threshold in Regression » (2015) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3123436593 «LABOR CONTRACTS AND FLEXIBILITY: EVIDENCE FROM A LABOR MARKET REFORM I» (2014) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1988681027 «Out of Work, Out of Mind: Response Errors in Retrospective Reports of » (1988) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2084204169 «Job Search by Employed and Unemployed Youth» (1987) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2160255574 «A bootstrap procedure for panel data sets with many cross-sectional un» (2008) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2030438422 «Modelling the Take-up of Means-Tested Benefits: The Case of Housing Be» (1988) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2024800913 «Getting a Job in Europe: The Transition from Unemployment to Work amon» (2001) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2050509804 «A Martingale Approach to the Copula-Graphic Estimator for the Survival» (2001) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2135266706 «Random-effects regression analysis of correlated grouped-time survival» (2000) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3047877081 «Welfare Analysis Meets Causal Inference» (2020) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1577648310 «Getting the unemployed back to work: the role of targeted wage subsidi» (2017) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1867928789 «Social Networks, Employee Selection, and Labor Market Outcomes» (2016) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2240634109 «The Pathological Export Boom and the Bazaar Effect: How to Solve the G» (2006) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3131687476 «Measuring capital-labor substitution: The importance of method choices» (2021) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2145843839 «The Työhön Job Search Program in Finland: Benefits for the unemployed » (2002) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3123681210 «Labour market flows: Facts from the United Kingdom» (2011) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2024337016 «Unemployment: Cause and Cure.» (1984) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W1568986015 «Unemployment Policy: Government Options for the Labour Market» (2008) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3125220038 «Estimating Discount Functions with Consumption Choices over the Lifecy» (2024) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2259431125 «Assisting the poor with cash : design and implementation of social tra» (2002) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; pensjon eller tidligpensjon, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3092427852 «Valid t-ratio Inference for IV» (2021) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3123280486 «Private and Public Provision of Counseling to Job Seekers: Evidence fr» (2014) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2050436177 «Efficient Job Rejection» (1984) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2062033288 «What's the monetary value of distributive justice?» (2007) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2113288351 «The Netherlands and the United Kingdom: a European unemployment miracl» (2000) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2156177855 «Liquidity Constraints and Imperfect Information in Subprime Lending» (2007) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2162625153 «The Costs of Worker Displacement» (1987) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2000690048 «Unemployment Insurance and Short-Time Compensation: The Effects on Lay» (1989) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W1964660464 «The Future of European Welfare: A New Social Contract?» (2000) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1981342246 «Education and unemployment duration» (1997) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2064234769 «Job Tenure and Job Mobility in Britain» (1999) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2142742767 «THE POLITICAL ECONOMY OF FLEXICURITY» (2012) – teoretisk modell for dagpengeordning uten empiri (politisk økonomi)
+- OK   6 utelatt W2134847720 «Job Selection and Wages over the Business Cycle» (2013) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3130678199 «Effects of social distancing policy on labor market outcomes» (2022) – korona og makroøkonomi i USA, ikke dagpengeperiode eller -nivå og overgang til arbeid
+- OK   6 utelatt W2794490799 «Understanding HANK: Insights From a PRANK» (2020) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2096507089 «The Great Recession and the Social Safety Net» (2013) – USA-studie av sikkerhetsnett og fattigdom, ikke overgang til arbeid
+- OK   6 utelatt W2095156904 «Do the unemployed become successful entrepreneurs?» (2007) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2165739882 «Learning Your Comparative Advantages» (2013) – annet tema, ikke dagpengeperiode eller -nivå og overgang til arbeid
+- OK   6 utelatt W1606429287 «Housing Tenure and Labour Mobility: A Comparison Across European Count» (2003) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2042253044 «Quantile regression under random censoring» (2002) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2155268261 «Employment insecurity and life satisfaction: The moderating influence » (2014) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1554857514 «Racial Disparities in Job Finding and Offered Wages» (2011) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3125660691 «Redistribution Policy and Inequality Reduction in OECD Countries: What» (2011) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2127049954 «Job Search and Commuting Time» (1997) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2791264990 «Productivity Growth in Italy: A Tale of a Slow-Motion Change» (2018) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3125220891 «Mandate-based health reform and the labor market: Evidence from the Ma» (2016) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1533735633 «Does Money Matter? Regression-Discontinuity Estimates from Education F» (2001) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2137525406 «Unemployment and the Democratic Electoral Advantage» (2012) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2142778333 «Can Capital Income Taxes Survive? And Should They?» (2007) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1519636150 «An evaluation of public employment programmes in the East German State» (2002) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1558081529 «Precautionary saving and aggregate demand» (2017) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2794546805 «The Labor Market in the Great Recession. Brookings Papers on Economic » (2010) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2093680002 «Labor-Market Policies in an Equilibrium Search Model» (1999) – likevektsmodell av arbeidsmarkedspolitikk, kalibrert og ikke ny empiri
+- OK   6 utelatt W1963999307 «Declining Reservation Wages and Learning» (1988) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2978099852 «A Labor Capital Asset Pricing Model» (2017) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3149130692 «Income, Liquidity, and the Consumption Response to the 2020 Economic S» (2020) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2185866528 «The Effects of Unemployment and Underemployment on Employment Opportun» (2016) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W102635755 «On the role of consumption and decreasing absolute risk aversion in th» (1977) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W3162192280 «The proper role of government in the market economy: The case of the p» (2021) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2526814630 «Child Poverty, the Great Recession, and the Social Safety Net in the U» (2016) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2884053182 «Behavioral Public Economics» (2018) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3123118817 «Evaluating the Employment Impact of a Mandatory Job Search Programme» (2003) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2900801941 «How Matching Creates Value: Cogs and Wheels for Human Capital Resource» (2018) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W369635904 «UNEMPLOYMENT COMPENSATION: ADVERSE INCENTIVES AND DISTRIBUTIONAL ANOMA» (1974) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2013914600 «Information Asymmetries in Consumer Credit Markets: Evidence from Payd» (2013) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2086646193 «Unemployment‐Risk Differentials Between Immigrant and Native Workers i» (2004) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1571503681 «INFLUENCES OF PAST HISTORY ON THE INCIDENCE OF YOUTH UNEMPLOYMENT: EMP» (1993) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2007811402 «Unemployment and the Shadow Economy in the oecd» (2009) – svart økonomi blant ledige, ikke overgang til arbeid
+- OK   6 utelatt W2134727139 «The Ins and Outs of UK Unemployment» (2011) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2323310505 «The Asking Price of Labor and the Duration of Unemployment» (1967) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W3199157362 «Resolving the missing deflation puzzle» (2021) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2136314398 «A critical examination of the climate engineering moral hazard and ris» (2014) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2064460651 «Health insurance and the labor supply decisions of older workers: Evid» (2010) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2108885010 «Social experiments and instrumental variables with duration outcomes» (2005) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2118948465 «The Impact of Active Labour Market Programmes on the Duration of Unemp» (2007) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3124170777 «Active Labor Market Policies in Poland: Human Capital Enhancement, Sti» (2023) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W173620884 «Chapter 16 The natural rate of unemployment: Explanation and policy» (1986) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W1942265867 «Inference with Few Heterogeneous Clusters» (2015) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2144492880 «Government Outsourcing: Public Contracting with Private Monopoly» (2009) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2157728014 «The Importance of Local Corporate Taxes in Business Location Decisions» (2008) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4210616284 «When is TSLS Actually LATE?» (2022) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2203944334 «Countercyclical Restructuring and Jobless Recoveries» (2012) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3121907362 «JOB SEARCH AND ASSET ACCUMULATION UNDER BORROWING CONSTRAINTS*» (2006) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3122514300 «Business Cycles, Unemployment Insurance, and Calibration of Matching M» (2003) – kalibrering av søkemodell i konjunkturer, teori
+- OK   6 utelatt W1983988613 «Self‐employment dynamics and self‐employment trends: a study of Canadi» (2001) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2072169832 «Displacement and self-employment entry» (2009) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2741488982 «Analysing the Determinants of Credit Risk for General Insurance Firms » (2016) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2032806886 «Unemployment Insurance and Precautionary Saving» (1995) – forsiktighetssparing, ikke overgang til arbeid
+- OK   6 utelatt W4230202946 «Estimating Labor Supply Responses Using Tax Reforms» (2016) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2111755336 «Optimal Taxation and Social Insurance with Endogenous Private Insuranc» (2010) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2122840519 «A Copula Model for Dependent Competing Risks» (2010) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2142884505 «Progressive Taxation, Wage Setting, and Unemployment, Theory and Swedi» (1995) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2027513957 «Nonparametric Estimates of the Labor-Supply Effects of Negative Income» (1990) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2040078103 «Small-Area Estimation With State–Space Models Subject to Benchmark Con» (2006) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2035833182 «Labor market search and the dynamic effects of taxes and subsidies» (1999) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2261542464 «Does Job Loss Make You Smoke and Gain Weight?» (2014) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4307054538 «Subsidizing Labour Hoarding in Recessions: The Employment and Welfare » (2022) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2026500083 «A Picture of Male Unemployment in Britain» (1980) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2107583700 «Is Full Employment Still Possible? Transitional Labour Markets as a Ne» (1995) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2141573508 «Welfare to Temporary Work: Implications for Labor Market Outcomes» (2005) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2414956588 «Learning from the Great Divergence in unemployment in Europe during th» (2016) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2897019906 «Labor Market Search With Imperfect Information and Learning» (2018) – jobbsøk og forventninger, ikke dagpenger
+- OK   6 utelatt W2079374490 «The Effect of Advance Notification of Plant Closings on Unemployment» (1987) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W562354841 «Spanish Unemployment: Is There a Solution?» (1995) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2117272864 «Estimating poverty persistence in Britain» (2010) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2106272592 «Scars that will not Disappear: Long-term Associations between Early an» (2014) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; pensjon eller tidligpensjon, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2153946961 «Job Search: A Multidisciplinary Review and Research Agenda» (2015) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3146977545 «Behavioral Public Economics» (2012) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2020167060 «Unemployment and the coverage extension of collective wage agreements» (2014) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2049583888 «Poverty persistence in Britain: A multivariate analysis using the BHPS» (2002) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2025242966 «The Cyclical Pattern of Temporary Layoffs in United States Manufacturi» (1980) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2891459586 «Housing Booms, Manufacturing Decline and Labour Market Outcomes» (2018) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3211541572 «Employment status, unemployment duration, and health‐related metrics a» (2021) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1497079804 «State dependency in youth unemployment» (1985) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2050679659 «Identification for difference in differences with cross-section and pa» (2006) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2089808781 «The Effect of Job Tenure on Wage Offers» (1987) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2112701330 «Understanding European unemployment with matching and search-island mo» (2007) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2479474338 «Industries, Firms, and Jobs» (1988) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W3025370643 «Choice under uncertainty: A model of applications for the social secur» (1986) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W4307731530 «Human Capital Depreciation and Returns to Experience» (2022) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1604027406 «Unemployment in the Great Recession» (2013) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2884233016 «Structural Behavioral Economics» (2018) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1728073094 «Age‐Dependent Employment Protection» (2011) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; pensjon eller tidligpensjon, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2057430102 «Job Security in America: Lessons from Germany.» (1994) – oppsigelsesvern USA mot Tyskland, tilgang til ledighet og ikke avgang til arbeid
+- OK   6 utelatt W2091036141 «Social Security Benefits and Employer Behavior: Evaluating Social Secu» (1999) – tidligpensjon som form for dagpenger, ikke overgang til arbeid
+- OK   6 utelatt W2177683350 «The Unbearable Divergence of Unemployment in Europe» (2015) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2615733631 «Regression Discontinuity Designs» (2017) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3125070516 «The Effect of Direct Foreign Investment on Domestic Firms: Evidence fr» (2000) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2098999548 «JOB SEARCH METHODS, INTENSITY AND EFFECTS‡» (1989) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2158388693 «Aspects of Optimal Unemployment Insurance: Search, Leisure and Capital» (1977) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W3122228908 «Getting the Unemployed Back to Work: The Role of Targeted Wage Subsidi» (1999) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1994975051 «Ex-post redistribution in a federation: Implications for corrective po» (2006) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2089382100 «Combining micro and macro unemployment duration data» (2001) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2896752961 «Regional policy and tourism: A quasi-natural experiment» (2018) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3110559220 «Lost Generations: Long‐Term Effects of the COVID‐19 Crisis on Job Lose» (2020) – korona og makroøkonomi i USA, ikke dagpengeperiode eller -nivå og overgang til arbeid
+- OK   6 utelatt W4389611401 «ESG and CEO Turnover» (2020) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1968370247 «A Model of Unemployment Duration with Variable Search Intensity» (1981) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W1904182075 «Active labor market programs: a review of the evidence from evaluation» (1999) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2559961830 «Pension Incentives and Early Retirement» (2016) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; pensjon eller tidligpensjon, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3021313731 «Misconceptions and political outcomes» (2002) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3123337037 «Duration of Maternity Leave in Germany: A Case Study of Nonparametric » (2009) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3136603872 «How puzzling is the forward premium puzzle? A meta-analysis» (2021) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W74694826 «Analysis of Event Histories» (1995) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2109049842 «An Assessment of the Effectiveness of Anti-Poverty Programs in the Uni» (2011) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; sykefravær, uføre eller yrkesskade, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2312996993 «Did Age Discrimination Protections Help Older Workers Weather the Grea» (2014) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4206239023 «Active Labor Market Policy Evaluations: A Meta-Analysis» (2009) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1576832524 «Corporate Tax Reform and Foreign Direct Investment in Germany - Eviden» (2006) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3113822425 «Employment recovery in the wake of the COVID-19 pandemic» (2020) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3168428042 «The Economic Ripple Effects of COVID-19» (2021) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4299388100 «Unemployment and Business Cycles» (2013) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1487567475 «Chapter 42 Labor markets in the transitional Central and East European» (1999) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1553070302 «Medical Care Spending and Labor Market Outcomes: Evidence from Workers» (2018) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1978035776 «Sustainability of Austrian public debt: a political economy perspectiv» (2006) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1987863779 «The effect of Medicaid premiums on enrollment: A regression discontinu» (2014) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2025775325 «'Wait Unemployment' in Europe» (1988) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2138192746 «Equilibrium Wage Dispersion, Firm Size, and Growth» (2001) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2888164938 «Sensitivity analysis using approximate moment condition models» (2021) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1508230139 «The Dynamics of Youth Unemployment» (1978) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2000226091 «Why Are the Wages of Job Changers So Procyclical?» (2001) – lønn for jobbskiftere over konjunktur, ikke periode eller nivå
+- OK   6 utelatt W2008185260 «Lessons from the U.K.» (2008) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1536371295 «Unemployment and economic growth: a partial survey» (2000) – makro- eller likevektsstudie av ledighet, ikke effekt av dagpengeperiode eller -nivå på avgang (oversikt)
+- OK   6 utelatt W2036232388 «Poverty, Inequality and the Future of Social Policy: Western States in» (1995) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2155931181 «The Theory of Demand for Health Insurance» (2001) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2326409378 «Action and Information in the Job Mobility Process: The Search Decisio» (1988) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2801726282 «Whom Do Employers Want? The Role of Recent Employment and Unemployment» (2018) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1512059128 «Evaluation of the Swedish Earned Income Tax Credit» (2012) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2049459079 «Layoffs and duration dependence in a model of turnover» (1985) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2124536942 «Pension reform, retirement, and life-cycle unemployment» (2010) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; pensjon eller tidligpensjon, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2158594954 «Do politicians’ preferences correspond to those of the voters? An inve» (2006) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2329821903 «Workers, Jobs and Inflation» (1983) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W3122760127 «The Employment Effects of State Hiring Credits» (2016) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W97530712 «The redistribution recession: how labor market distortions contracted » (2013) – bok om resesjonen 2007, ikke periode eller nivå
+- OK   6 utelatt W1516444101 «Work Incentives? Ex Post Effects of Unemployment Insurance Sanctions -» (2008) – sanksjoner, overvåking og aktivitetskrav, holdt utenfor
+- OK   6 utelatt W3149139041 «Inequality's Economic and Social Roots: The Role of Social Networks an» (2021) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W159332305 «The Residential Electricity Time-of-Use Pricing Experiments: What Have» (1985) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2028528878 «Endogenous Adverse Selection and Unemployment Insurance» (1998) – teoretisk modell for dagpengeordning uten empiri
+- OK   6 utelatt W2075806887 «Institutional Determinants of Employment Chances. The Structure of Une» (2001) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2608216558 «Complexity in Employment Life Courses in Europe in the Twentieth Centu» (2017) – sysselsettingsløp over livet, ikke dagpenger
+- OK   6 utelatt W1535621823 «Last in, first out?» (2010) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2254920265 «Do Unemployment Insurance Recipients Actively Seek Work? Randomized Tr» (1999) – sanksjoner, overvåking og aktivitetskrav, holdt utenfor (kontroll av jobbsøk)
+- OK   6 utelatt W2763736997 «Labor Supply and the Value of Non-Work Time: Experimental Estimates fr» (2019) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1850356183 «Private Provision of a Complementary Public Good» (2006) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1978387948 «Competition between Employed and Unemployed Job Applicants: Swedish Ev» (2006) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2240523203 «Youth and total unemployment rate : the impact of policies and institu» (2013) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3121335762 «Entrepreneurial versatility, resources and firm performance in Russia:» (2005) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2048323112 «The Welfare Cost of Higher Unemployment» (1973) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2104744927 «Assessing horizontal mergers under uncertain efficiency gains» (2007) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2495947150 «Government-Sponsored Vocational Education for Adults» (2016) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3122005913 «Monetary Policy, Bounded Rationality, and Incomplete Markets» (2017) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3125477331 «Temporary Disability Insurance and Labor Supply: Evidence from a Natur» (2013) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; sykefravær, uføre eller yrkesskade, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1603411658 «Social policy and health: transition countries in a comparative perspe» (2010) – utfallet er helse eller velferd, ikke overgang til arbeid
+- OK   6 utelatt W1996257278 «ON THE INTERPRETATION OF COVARIATE ESTIMATES IN INDEPENDENT COMPETING‐» (1996) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2160158846 «The Effect of Active Labor Market Programs on Not-Yet Treated Unemploy» (2009) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2883585649 «Testing for Serial Correlation in Fixed-effects Panel Models» (2018) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3092500568 «Temporary Unemployment and Labor Market Dynamics During the COVID-19 R» (2020) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1480851781 «Reform der sozialen Sicherung» (2004) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2007605325 «China's Exchange Rate and International Adjustment in Wages, Prices an» (2006) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3121657646 «The cyclicality of the separation and job finding rates in France» (2015) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4390363307 «Retirement Consumption and Pension Design» (2023) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; pensjon eller tidligpensjon, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1849761669 «PRODUCTIVITY AND THE LABOR MARKET: COMOVEMENT OVER THE BUSINESS CYCLE*» (2011) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1980209514 «The Behavior of Unemployment Durations over the Cycle» (1990) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1541265568 «Reforming the Taxation of Multijurisdictional Enterprises in Europe, a» (2006) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3047445333 «COVID-19 financial support to small businesses in Switzerland: evaluat» (2020) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3125981559 «Unemployment Insurance and the Role of Self-Insurance» (2002) – teoretisk modell for dagpengeordning uten empiri
+- OK   6 utelatt W1523985504 «Redistribution Policy in Europe and the United States» (2013) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1598076174 «Rethinking the Concept of Long-Run Economic Growth» (2006) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4321486931 «Towards more evidence-based agricultural and food policies» (2023) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1969336095 «Simultaneous equations models in applied search theory» (1985) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2012080964 «Retraining and long-term unemployment in a model of unlearning by not » (2000) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2605920009 «Sovereign Default Risk and Firm Heterogeneity» (2017) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3161232976 «The Social Safety Net in the Wake of COVID-19» (2020) – korona og makroøkonomi i USA, ikke dagpengeperiode eller -nivå og overgang til arbeid
+- OK   6 utelatt W4376874735 «Unemployment Scarring Effects: An Overview and Meta-analysis of Empiri» (2023) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W572130084 «The Labor Market Dynamics of Economic Restructuring: The United States» (1992) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1594145164 «Attrition in Panel Survey Data and the Estimation of Multi-State Labor» (1998) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2031468206 «Optimal Unemployment Insurance: A Survey» (1999) – teorioversikt over optimale dagpenger, ikke empiri
+- OK   6 utelatt W2088071218 «Duration of Joblessness Following Displacement» (1987) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2171915906 «Moral Hazard and Claims Deterrence in Private Disability Insurance» (2014) – privat uføreforsikring, ikke dagpenger
+- OK   6 utelatt W3100865577 «Searching, Recalls, and Tightness: An Interim Report on the COVID Labo» (2020) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3122298518 «The Great Recession Was Not so Great» (2015) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3122724862 «The unemployed with jobs and without jobs» (2022) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3125298206 «International Labor Economics» (2002) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3212658744 «The impact of the Covid-19 pandemic on the business interruption insur» (2021) – annet tema, ikke dagpengeperiode eller -nivå og overgang til arbeid
+- OK   6 utelatt W1994485876 «Redundancy, Unemployment and Manpower Policy» (1972) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2008639767 «The Singularity of the Information Matrix of the Mixed Proportional Ha» (2003) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2094598713 «Unemployment insurance and capital accumulation» (2004) – teoretisk modell for dagpengeordning uten empiri
+- OK   6 utelatt W2220466774 «Financial liberalization, insurance market, and the likelihood of fina» (2015) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3109952040 «COVID‐19 and the US Safety Net*» (2020) – korona og makroøkonomi i USA, ikke dagpengeperiode eller -nivå og overgang til arbeid
+- OK   6 utelatt W3125065522 «Subsidies for Wages and Infrastructure: How to Restrain Undesired Immi» (2006) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4302395046 «Recall and Unemployment» (2013) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1869889908 «Welfare-to-Work: Which Policies Work and Why?» (2003) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2035298964 «Self-employment and the local business cycle» (2014) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2145435745 «The choice of organizational form by closely-held firms in Sweden: tax» (2013) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1574392843 «Impacts of the European Emissions Trading Scheme on Finnish Wholesale » (2008) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1789199845 «When Does the Stepping‐Stone Work? Fixed‐Term Contracts Versus Tempora» (2014) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2028191507 «Granting public or private consumption? Effects of grants on local pub» (2013) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2034097844 «Unemployment, Life Satisfaction and Retrospective Error» (2006) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2295632051 «Expanding Employment Discrimination Protections for Individuals with D» (2017) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; sykefravær, uføre eller yrkesskade, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3030314424 «The Union Threat» (2020) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3125103069 «Estimating the probability of leaving unemployment using uncompleted s» (2005) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3190400037 «The impact of Covid-19 on older workers’ employment and Social Securit» (2022) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2079902062 «Vulnerable Seniors: Unions, Tenure, and Wages following Permanent Job » (1999) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2156862533 «Can equity and efficiency complement each other?» (2002) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3204081008 «Fragile Self-Esteem» (2021) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4237771761 «Resisting Marginalization» (2004) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W82406113 «Active Labour Market Programme Participation for Unemployment Insuranc» (2015) – oversikt over tiltak for dagpengemottakere, ikke periode eller nivå
+- OK   6 utelatt W2169808438 «Construction contracts (or "how to get the right building at the right» (2006) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3123337571 «Taxation and Heterogeneous Preferences» (2008) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1971835016 «Proprietorship and unemployment in the United States» (2013) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2123897571 «LA MUESTRA CONTINUA DE VIDAS LABORALES: UNA GUÍA DE USO PARA EL ANÁLIS» (2008) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; pensjon eller tidligpensjon, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2125476232 «Explaining Age and Gender Differences in Employment Rates: A Labor Sup» (2012) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3122596719 «Labor Unemployment Risk and CEO Incentive Compensation» (2023) – annet tema, ikke dagpengeperiode eller -nivå og overgang til arbeid
+- OK   6 utelatt W4285476443 «Measuring labor-force participation and the incidence and duration of » (2021) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2053170240 «Unemployment Insurance Taxes and Labor Turnover: Summary of Theoretica» (1977) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2154162377 «United States current account deficits: A stochastic optimal control a» (2006) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2472610460 «Claim Timing andEx PostAdverse Selection» (2016) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2789952230 «Evaluation of the Maryland Unemployment Insurance Work Search Demonstr» (2017) – sanksjoner, overvåking og aktivitetskrav, holdt utenfor (jobbsøk)
+- OK   6 utelatt W3121371329 «Corporate and personal income tax declarations» (2006) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4289651446 «How Wage Announcements Affect Job Search— A Field Experiment» (2022) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1931944758 «Does informal learning at work differ between temporary and permanent » (2018) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2014980349 «The effects of age and unemployment percentage on the duration of unem» (1983) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W4312261887 «Inequality and income dynamics in Germany» (2022) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1896225071 «Sustaining Employment and Wage Gains in Brazil: A Skills and Jobs Agen» (2015) – utviklingsland, holdt utenfor
+- OK   6 utelatt W2102342703 «Aggregate and Idiosyncratic Risk in a Frictional Labor Market» (2011) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W223973071 «Labour market effects of job displacement for prime-age and older work» (2018) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3166198690 «How Do Households Respond to Job Loss? Lessons from Multiple High-Freq» (2023) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2788337320 «The Impact of Corporate Welfare Policy on Firm-Level Productivity: Evi» (2018) – annet tema, ikke dagpengeperiode eller -nivå og overgang til arbeid
+- OK   6 utelatt W7221537620 «The Direct and Indirect Effects of Online Job Search Advice» (2026) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1480288620 «Unemployment Insurance and Unemployment Dynamics» (1991) – kanadisk ledighetsdynamikk, uklart design og utenfor Norden
+- OK   6 utelatt W1967480378 «The effect of educational attainment on welfare dependence: Evidence f» (2000) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2923750149 «Unemployment claims in Philadelphia one year after implementation of t» (2019) – annet tema, ikke dagpengeperiode eller -nivå og overgang til arbeid
+- OK   6 utelatt W4235048385 «Integrating Immigrants into the Nordic Labour Markets» (2019) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3125445926 «To Work or Not to Work? The Effect of Childcare Subsidies on the Labou» (2014) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4211030375 «Gross job reallocation and labour market policy» (1997) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W128033041 «La Muestra Continua de Vidas Laborales de la Seguridad Social» (2007) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1989361148 «Job search and academic achievement» (2009) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2011999304 «Mandatory Notice and Unemployment» (1995) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2057061675 «The role of social networks in determining migration and labour market» (2009) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2252559707 «Explaining Unemployment Duration in Australia*» (2006) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3042495122 «Automation and Reallocation: Will COVID-19 Usher in the Future of Work» (2020) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3122145232 «Status‐Seeking in Criminal Subcultures and the Double Dividend of Zero» (2013) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3205418953 «Temporary Unemployment and Labor Market Dynamics during the COVID-19 R» (2020) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4283657133 «Unemployment and Online Labor: Evidence from Microtasking» (2023) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1527687861 «The Effectiveness and Efficiency of Active Labour Market Policies in P» (1997) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1599190966 «Does a Minimum Job Search Requirement Reduce Time on Unemployment Paym» (2007) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1966436302 «Trends in Unemployment Duration Data» (1986) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W4210863577 «The anatomy of the corona crisis through the lens of the labor market » (2022) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1898481187 «Modeling Employment Dynamics With State Dependence and Unobserved Hete» (2012) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2625149538 «The long-term effects of labor market entry in a recession: Evidence f» (2020) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2951425311 «Bias‐Aware Inference in Fuzzy Regression Discontinuity Designs» (2024) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1524288483 «Distinctively Different: A New Approach to Valuing Architectural Ameni» (2015) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3122628555 «Specific measures for older employees and late career employment» (2018) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4313477586 «Unemployment persistence among second-generation immigrants» (2023) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1513265464 «The Impact of Labour Market Policies on Productivity in OECD Countries» (2008) – produktivitet i OECD, ikke overgang til arbeid
+- OK   6 utelatt W2043769507 «The Russo–Williamson Theses in the social sciences: Causal inference d» (2012) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2095339518 «Event history, spatial analysis and count data methods for empirical r» (2011) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4386263456 «The Macroeconomics of the Greek Depression» (2023) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W578781176 «Discrimination, Sickness Absence, and Labor Market Policy» (2006) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; sykefravær, uføre eller yrkesskade, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1570648949 «Relative Earnings and the Demand for Unskilled Labor in West German Ma» (1998) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1755937649 «Job Search Study : literature review and analysis of the Labour Force » (2011) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2304545236 «The aggregate matching function and job search from employment and out» (2016) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2942873034 «The Impact of Sanctions for Young Welfare Recipients on Transitions to» (2021) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2978372895 «Unemployment and Effort at Work» (2019) – annet tema, ikke dagpengeperiode eller -nivå og overgang til arbeid
+- OK   6 utelatt W3121743733 «Spanish Unemployment: The End of the Wild Ride?» (2006) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2160960862 «Divergence in Part‐Time Work in New Zealand, the Netherlands and Denma» (2004) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2169515883 «State UI Job Search Rules and Reemployment Services» (2006) – sanksjoner, overvåking og aktivitetskrav, holdt utenfor (jobbsøkeregler)
+- OK   6 utelatt W2461630168 «La Muestra Continua de Vidas Laborales de la Seguridad Social» (2006) – beskrivelse av spansk registerdata, ikke effektstudie
+- OK   6 utelatt W2581659147 «Employment time and the cyclicality of earnings growth» (2018) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3125203222 «How to stimulate single mothers on welfare to find a job: evidence fro» (2016) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3126089164 «Short‐Time Compensation as a Tool to Mitigate Job Loss? Evidence on th» (2014) – arbeidsdeling (korttidskompensasjon), ikke dagpengenes periode eller nivå
+- OK   6 utelatt W2038160279 «The effects of unemployment protection on migration in lagging regions» (2014) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2057024891 «How Long Is a Spell of Unemployment? Illusions and Biases in the Use o» (1984) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2546574750 «Unemployment Insurance: Programs and Benefits» (2016) – beskrivelse av amerikansk ordning, ikke effektstudie
+- OK   6 utelatt W3121148754 «Measuring Heterogeneity in Job Finding Rates among the Non-Employed Us» (2017) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3131697392 «From Social Assistance to Self-Sufficiency: Low Income Work as a Stepp» (2021) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3142414059 «Reservation wages and labor supply» (2022) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2031072612 «Analysis of job‐training effects on Korean women» (2005) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2266808311 «Never Say Never? Uncovering the Never‐Unionized in the United States» (2010) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2506392060 «Unemployment, Poverty, and Social Isolation: An Assessment of the Curr» (2004) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2614077150 «Measuring the effects of employment protection policies: Theory and ev» (2018) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; sykefravær, uføre eller yrkesskade, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3124912317 «Optimal Use of Labor Market Policies: The Role of Job Search Assistanc» (2010) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3130543721 «Tax Loss Carrybacks as Firm Fiscal Stimulus: A Tale of Two Recessions» (2021) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4368363906 «Suffering, the Safety Net, and Disparities During COVID-19» (2023) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2080796482 «Unemployment Insurance Take-Up Rates in Canada: Facts, Determinants, a» (1995) – bruk av dagpenger (take-up) i Canada, ikke avgang til arbeid
+- OK   6 utelatt W3123163301 «Using Quantile Regression for Duration Analysis» (2007) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4253317050 «Business Groups in Emerging Markets: Financial Control and Sequential » (2007) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2022837229 «The Consumption Effects Associated with Filing for Personal Bankruptcy» (2005) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2021274353 «Unemployment Insurance Once Again: The Incidence of Repeat Participati» (1993) – gjentatt bruk av dagpenger i Canada, ikke avgang til arbeid
+- OK   6 utelatt W3020918418 «Redistribution and Provision of Public Goods in an Economic Federation» (2008) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4281257188 «Inflation and the NAIRU: assessing the role of long-term unemployment » (2022) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1495555111 «Unemployment Insurance: The Second Half-Century.» (1991) – historikk om amerikansk ordning, ikke effektstudie
+- OK   6 utelatt W1964362229 «Are there pre-programme effects of active placement efforts? Evidence » (2011) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2069777295 «Unemployment Insurance and Quits in Canada» (1998) – tilgang og oppsigelser (kvittering), ikke avgang til arbeid
+- OK   6 utelatt W2089453904 «Convergence and determinants of non-employment durations in Eastern an» (2004) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2229706076 «Staying Within or Leaving the Apprenticeship System? Revisions of Educ» (2015) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4393294533 «The Opportunity Cost of Debt Aversion» (2022) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1969837518 «The Dynamics of Women Disconnected from Employment and Welfare» (2012) – unge kvinner utenfor ytelser og arbeid, sosialhjelp
+- OK   6 utelatt W2005251891 «Cyclical variations in unemployment duration» (2001) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2033533959 «Labor Markets and Monetary Policy» (2010) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2177443242 «Labour Markets, Gender and Institutional Change» (2002) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3027786161 «Disability Insurance: Theoretical Trade‐Offs and Empirical Evidence*» (2020) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3074346550 «Influence of Accession of the Visegrad Group Countries to the EU on th» (2020) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3200301041 «Carrots or sticks? A multilevel analysis of active labour market polic» (2021) – sanksjoner, overvåking og aktivitetskrav, holdt utenfor og ikke-standard arbeid
+- OK   6 utelatt W4292330955 «Cyclical Unemployment, Structural Unemployment» (2013) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1996959703 «Do time limits in the sickness insurance system increase return to wor» (2012) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; sykefravær, uføre eller yrkesskade, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2140984285 «Optimal unemployment insurance for older workers» (2012) – teoretisk modell for dagpengeordning uten empiri
+- OK   6 utelatt W2605189398 «The role of the housing market in workers′ resilience to job displacem» (2018) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3123547244 «Poverty Persistence in Britain: A Multivariate Analysis Using the BHPS» (2002) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2198536777 «Reconciling Insurance with Market Discipline: a Blueprint for a Europe» (2016) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2948286066 «Active and passive labour market policies on the Russian labour market» (2019) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2973005188 «Establishment Closures in Germany: The Motherhood Penalty at Job Searc» (2019) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4233699255 «Designing Labor Market Institutions in Emerging and Developing Economi» (2019) – utviklingsland, holdt utenfor
+- OK   6 utelatt W4240707173 «From Right to Reality» (2012) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W631189548 «Empirical studies of public policies within the primary school and the» (2008) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; sykefravær, uføre eller yrkesskade, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1970723618 «The Distinguishing Characteristics of Temporary and Permanent Layoffs» (1984) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2170817691 «A wedge in the dual mandate: Monetary policy and long-term unemploymen» (2015) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2278974398 «Prospects for utilisation of non-vacancy Internet data in labour marke» (2016) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2796805253 «Robust uniform inference for quantile treatment effects in regression » (2019) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3121706282 «Long-Term Unemployment: Attached and Mismatched?» (2015) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3125696925 «Revisiting the Matching Function» (2016) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4306748450 «Schumpeter Lecture 2022: Job Search in the 21St Century» (2022) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2013149217 «Modeling Unemployment Duration in Slovenia using Cox Regression Models» (2009) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2107581120 «UNEMPLOYMENT INSURANCE, JOB SEARCH, and THE DEMAND FOR LEISURE» (1971) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2141981171 «German labor market and fiscal reforms 1999–2008: Can they be blamed f» (2016) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2142065048 «Experience Rating versus Employment Protection Laws in a Model where F» (2005) – finansiering og erfaringsvurdering av ordningen, ikke avgang til arbeid (modell)
+- OK   6 utelatt W2172257594 «The Role of Education vis-a-vis Job Experience in Explaining the Trans» (2006) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2836746503 «Unemployment Impact of Product and Labor Market Regulation: Evidence f» (2019) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2885246094 «Does experience rating reduce sickness and disability claims? Evidence» (2018) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; sykefravær, uføre eller yrkesskade, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2994392301 «Social and spatial networks in labour markets» (2019) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3126142622 «The Effect of Firms’ Phased Retirement Policies on the Labor Market Ou» (2016) – gradvis pensjon, ikke dagpenger
+- OK   6 utelatt W4289868961 «How Well-Targeted Are Payroll Tax Cuts as a Response to COVID-19? Evid» (2020) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1480678522 «A Bayesian Semiparametric Competing Risk Model with Unobserved Heterog» (2014) – økonometrisk metode, ikke dagpenger
+- OK   6 utelatt W2025115929 «Assessing the impact of initial nonresponse and attrition in the analy» (2008) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2070785347 «Effects of eligibility screening in the sickness insurance: Evidence f» (2012) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; sykefravær, uføre eller yrkesskade, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2604030477 «Fast lane or down the drain? Does the occupation held prior to unemplo» (2017) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2951286911 «A Simple Adjustment for Bandwidth Snooping» (2017) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3124484667 «Job Search Periods for Welfare Applicants: Evidence from a Randomized » (2019) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3125307463 «Eligibility Recertification and Dynamic Opt-In Incentives in Income-Te» (2017) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3203792977 «Applying for and receiving unemployment insurance benefits during the » (2021) – korona og makroøkonomi i USA, ikke dagpengeperiode eller -nivå og overgang til arbeid
+- OK   6 utelatt W1880449894 «The effect of product market competition on job security» (2015) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2109756865 «Evaluating the Effectiveness of Labor Exchange Services» (2004) – arbeidsmarkedstiltak, ikke dagpengeperiode eller -nivå
+- OK   6 utelatt W2158388158 «FINANCIAL RISK AND UNEMPLOYMENT» (2018) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2994587874 «Essays on the Determination of Employment and Wages» (2019) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3004053498 «Retirement Lock and Prescription Drug Insurance: Evidence from Medicar» (2020) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4281768469 «The timing of first marriage and subsequent life outcomes: Evidence fr» (2022) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4292481346 «Has COVID-19 caused a change in the dynamics of the unemployment rate?» (2022) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4292534073 «Germany and the United States in coronavirus distress: internal versus» (2022) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2044204414 «Gender Differences in Transitions from Unemployment: Micro Evidence fr» (2006) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2080918105 «Optimal unemployment policy in a matching equilibrium» (2008) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2093844097 «Optimal unemployment insurance: transitional dynamics vs. steady state» (2003) – teoretisk modell for dagpengeordning uten empiri
+- OK   6 utelatt W2115636903 «Unemployment in Canada and the United States: a further analysis» (1997) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2165265669 «THE TAYLOR PRINCIPLE AND (IN-) DETERMINACY WITH HIRING FRICTIONS AND S» (2014) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2607065095 «Reservation Wages and the Unemployment of Older Workers» (2017) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2948205614 «Benefit sanctions, social citizenship and the economy» (2019) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3124745145 «A Wedge in the Dual Mandate: Monetary Policy and Long-Term Unemploymen» (2014) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4392774415 «Inefficient Automation» (2024) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W7168178736 «Conditionality vs. autonomy: What works best in social assistance?» (2020) – sosialhjelp og aktivitetskrav, ytelse uten forsikringspreg
+- OK   6 utelatt W1563064513 «Hur påverkar kravet på läkarintyg sjukfrånvaron? Erfarenheter från ett» (2005) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2020138879 «Re-entitlement effects with duration-dependent unemployment insurance » (2006) – teoretisk modell for dagpengeordning uten empiri
+- OK   6 utelatt W2137059747 «The IZA evaluation dataset survey: a scientific use file» (2014) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2166731712 «Advance Notice and Job Search: More on the Value of an Early Start» (1995) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2241502673 «Which One to Choose? Evidence on the Choice and Success of Job Search » (2010) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2763729212 «Information shocks and the empirical evaluation of training programs d» (2018) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3087549131 «Beyond European unemployment insurance. Less moral hazard, more moral » (2020) – europeisk ordning, ikke overgang til arbeid
+- OK   6 utelatt W3164936294 «Incentivizing last-resort social assistance clients: Evidence from a F» (2022) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3212400818 «When can we ignore measurement error in the running variable?» (2023) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4297053051 «The role of observed and unobserved heterogeneity in the duration of u» (2022) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4389614749 «The (Lack of) Anticipatory Effects of the Social Safety Net on Human C» (2023) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2491484833 «The Development of Workfare within Social Activation Policies» (2004) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3113371269 «Unemployment insurance claims and COVID-19» (2020) – korona og makroøkonomi i USA, ikke dagpengeperiode eller -nivå og overgang til arbeid
+- OK   6 utelatt W3124993967 «Do Restrictions on Home Equity Extraction Contribute to Lower Mortgage» (2014) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3202889333 «Using Nonlinear Budget Sets to Estimate Extensive Margin Responses: Me» (2021) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4386609942 «Does labor unemployment insurance affect corporate tax aggressiveness?» (2023) – annet tema, ikke dagpengeperiode eller -nivå og overgang til arbeid
+- OK   6 utelatt W1600885017 «The Relationship between Business Ownership and Unemployment in Spain:» (2006) – selvstendig næring og ledighet, ikke dagpenger
+- OK   6 utelatt W1796707974 «Labor Market Policies and Equilibrium Employment: Theory and Applicati» (2002) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1862297833 «A fiscal job? An analysis of fiscal policy and the labor market» (2015) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1998022739 «Marketplace matching in Britain: Evidence from individual unemployment» (2008) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2017106843 «The Quality of Industrial Relations and Labour Market Performance» (2006) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2137966493 «Europe vs America: Institutional hysteresis in a simple normative mode» (2006) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3124102040 «The Impact of Minimum Wages on Unemployment Duration: Estimating the E» (2010) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4378757523 «Sectoral shocks, reallocation, and labor market policies» (2023) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4390977063 «Minimum wages, wage dispersion and financial constraints in firms» (2024) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1485367423 «Overview of Labor Exchange Policies and Services» (2004) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1552710169 «Social Policy: What Have We Learned?» (2013) – bred omtale av amerikansk sosialpolitikk, ikke effektstudie
+- OK   6 utelatt W1967536896 «Is it socially efficient to impose job search requirements on unemploy» (2014) – teori om krav til jobbsøk, aktivitetskrav holdt utenfor
+- OK   6 utelatt W2135331263 «Tax treatment of dividends and capital gains and the dividend decision» (2007) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2145956856 «The Swedish unemployment experience» (2009) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2883142664 «Has the Beveridge Curve Shifted» (2010) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3036503599 «Factors affecting the transition from university to work in selected M» (2020) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3125320321 «Fiscal multipliers over the business cycle» (2012) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3125430893 «Countercyclical Policy and the Speed of Recovery after Recessions» (2018) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4313585452 «Monetary Policy and Credit Card Spending» (2022) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4386241804 «How sensitive are matching estimates of active labor market policy eff» (2023) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4400387128 «Longer school schedules, childcare and the quality of mothers’ employm» (2024) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1983180724 «Have the relative employment prospects for the low-skilled deteriorate» (2004) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2009951040 «Benchmarking Unemployment Benefi t Systems» (2012) – sammenligning av ordninger, ikke effekt på overgang til arbeid
+- OK   6 utelatt W2012474601 «Experimental Evidence From Active Placement Efforts Among Unemployed i» (2014) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2038230403 «Reservation wages, market wages and unemployment: Analysis of individu» (2011) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2066557448 «Regional differences in chronic long-term unemployment» (1998) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4308544364 «Identifying monetary policy shocks using the central bank’s informatio» (2022) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1802682048 «Mismatch on the Dutch Labour Market in the Great Recession» (2015) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1951658853 «Le contrôle de la recherche d’emploi et les sanctions» (2014) – sanksjoner, overvåking og aktivitetskrav, holdt utenfor (oversikt)
+- OK   6 utelatt W2170559684 «Unemployment Compensation and Older Workers» (2001) – bok om dagpenger og eldre arbeidstakere i USA, ikke avgrenset effektstudie
+- OK   6 utelatt W2800998106 «How to retrench the welfare state: Attitudes in the general population» (2018) – holdninger til kutt i velferd, ikke effekt av periode eller nivå
+- OK   6 utelatt W2890796351 «The Impact of Losing Your Job» (2016) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2920347119 «Diversity of youth policy regimes and early job insecurity – towards a» (2019) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2944311615 «Joint provision of income and employment support: Evidence from a cris» (2020) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4401900918 «Payroll tax incidence: Evidence from unemployment insurance» (2024) – finansiering og erfaringsvurdering av ordningen, ikke avgang til arbeid
+- OK   6 utelatt W4407885065 «Empowering Workers in an Age of Automation» (2025) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W763774975 «Underemployment and part-time work in the Nordic countries» (2011) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2090318467 «Development of the Slovenian Labour Market in 1996–2006 and the Main C» (2007) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2218740350 «Labor Mismatch in the Great Recession: A Review of Indexes Using Recen» (2013) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3186422653 «A description of three randomised experiments in Swedish labour market» (2006) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4353041084 «The timing of parental unemployment, insurance and children's educatio» (2023) – utfallet er barns utdanning, ikke overgang til arbeid
+- OK   6 utelatt W4415357895 «Jobseekers’ skills and job search behaviour» (2025) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1826829199 «Labor market policy research for developing countries : recent example» (2010) – utviklingsland, holdt utenfor
+- OK   6 utelatt W2018877827 «Epistemic Contributions of Models: Conditions for Propositional Learni» (2015) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2039426623 «Unemployment outflows: the relevance of gender and marital status in I» (2014) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2128371558 «Persistent unemployment and passive policies: Politics and institution» (2007) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2135213642 «Optimal Income Taxation and the Labour Market: An Overview» (2012) – teoretisk modell for dagpengeordning uten empiri (optimal beskatning)
+- OK   6 utelatt W2182473163 «Canadian Labour Market and Skills Researcher Network» (2012) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2489198340 «On the Distribution of the Welfare Losses of Large Recessions» (2017) – velferdstap i resesjon, makro
+- OK   6 utelatt W2793062317 «The Hartz reforms and the German labor force» (2018) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4408741956 «Internet Use as a Catalyst for High‐Quality Nonfarm Employment Among R» (2025) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1527297844 «Eine empirische Analyse von Sanktionen für Arbeitslose in Westdeutschl» (2004) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; pensjon eller tidligpensjon, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2118861488 «Continuing Eligibility: Current Labor Market Attachment» (1997) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2398852421 «Job Loss and Unemployment in the 21st Century: The Great Recession in » (2010) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2803326316 «Justifications et règles d’indemnisation de « l’activité réduite » : l» (2018) – redusert aktivitet i fransk ordning, beskrivelse og ikke effektstudie
+- OK   6 utelatt W3122613261 «MEASUREMENT WITHOUT THEORY, ONCE AGAIN» (2015) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4392872921 «The effect of minimum wages on consumer bankruptcy» (2024) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4407868498 «Mandated Sick Pay: Coverage, Utilization, and Crowding-in» (2025) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; sykefravær, uføre eller yrkesskade, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1149499139 «Optimal unemployment insurance: When search takes effort and money» (2015) – teoretisk modell for dagpengeordning uten empiri
+- OK   6 utelatt W2500848748 «Is Labor Market Regulation at the Root of Unemployment?: The Case of G» (2005) – regulering av arbeidsmarkedet i Tyskland og Nederland, makro
+- OK   6 utelatt W3121156609 «Aggregate Demand Deficiency, Labor Unions, and Long-run Stagnation» (2016) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4402530413 «The impact of independent local parties on spending: Evidence from Dut» (2024) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2095011998 «A positive theory of the earnings relationship of unemployment benefit» (2009) – teoretisk modell for lønnsrelatert ytelse, ingen empiri
+- OK   6 utelatt W2161412826 «Le paradoxe des nouvelles politiques d’insertion» (2015) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3133246946 «City Minimum Wages and Spatial Equilibrium Effects» (2022) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4394958899 «Regression discontinuity design for the study of health effects of exp» (2024) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4405893448 «The Long-Run Labour Market Effects of the Canada-U.S. Free Trade Agree» (2024) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4409509042 «Unemployment Scarring in the Early Career: Do Skills and Labour Demand» (2025) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W615818115 «Employment protection under strain : Sweden, Denmark, The Netherlands» (1998) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1517350467 «Labor Market Policy in a Global Economy» (2000) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1963897327 «Labour Market Policy and Welfare Reform: Meeting Distribution and Effi» (2004) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2101046637 «Reform of Severance Pay Law Statements and Comments» (2006) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2473988489 «Labor Market Transitions During the Great Recession in Estonia» (2016) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W256776363 «Hur påverkar tillgång till barnomsorg arbetslösa föräldrars sannolikhe» (2010) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2800413339 «Labour Market Policies in Poland : An Assessment» (1996) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4414303937 «Labor market monopsony: fundamentals and frontiers» (2025) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2185142525 «Business Cycles, Unemployment and Job Search» (2011) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2254156187 «The natural survival of work» (2006) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2340041269 «High Unemployment After the Great Recession: Why? What Can We Do?» (2010) – høy ledighet etter finanskrisen, makro og ikke periode eller nivå
+- OK   6 utelatt W2491179824 «Unemployment and Unemployment Insurance in Switzerland» (1997) – sveitsisk ledighet og ordning, beskrivelse og ikke effektstudie
+- OK   6 utelatt W4403423632 «The Application of Randomized and Quasi-Experimental Designs in Federa» (2024) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4404324839 «Total Recall» (2024) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4405104621 «Promoting Better Career Mobility for Longer Working Lives in the Unite» (2024) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4416755495 «Inequality’s Economic and Social Roots: The Role of Social Networks an» (2025) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4411761071 «Upgrading jobs for all: How welfare states shape differences in life s» (2025) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W7104743853 «Economic Policy Applications Utilizing the Survival Analysis Approach» (2025) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W7128919271 «Monetary policy and credit card spending» (2026) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W7164651132 «Unemployment invariance hypothesis and labor supply: A test for 31 Ame» (2026) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1498444274 «A Literature Review on Methodology for Measuring and Monitoring Net Im» (1999) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W7202274470 «Safety Net or Helping Hand? The Effect of Job Search Assistance and Co» (2026) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1820383004 «Inequality at Work: The Effect of Peer Salaries on Job Satisfaction» (2012) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3121726859 «What Accounts for the Variation in Retirement Wealth Among U.S. Househ» (2001) – annet tema, ikke dagpengeperiode eller -nivå og overgang til arbeid
+- OK   6 utelatt W2166157318 «7. Assessing Bias in the Estimation of Causal Effects: Rosenbaum Bound» (2004) – metode (Rosenbaum-grenser), ikke dagpenger
+- OK   6 utelatt W1504092328 «Wage Bargaining with On-the-Job Search: Theory and Evidence» (2006) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1831513200 «The Perverse Effects of Partial Labour Market Reform: Fixed‐Term Contr» (2002) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2035232035 «People I Know: Job Search and Social Networks» (2012) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1988744596 «Job Search and Network Composition: Implications of the Strength-Of-We» (1992) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2110601688 «Testing a Two-Dimensional Measure of Job Search Behavior» (1994) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2125289095 «Minimum Wage Effects on Labor Market Outcomes under Search, Matching, » (2006) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4242899824 «Unemployed individuals: Motives, job-search competencies, and job-sear» (1999) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1968333721 «The Intergenerational Effects of Worker Displacement» (2008) – tapt inntekt for barn av oppsagte fedre, ikke dagpenger
+- OK   6 utelatt W1885556839 «Job security and job protection» (2008) – opplevd jobbsikkerhet, ikke overgang til arbeid
+- OK   6 utelatt W1985109537 «Job-search persistence during unemployment: A 10-wave longitudinal stu» (2005) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3125938983 «What works and for whom: a review of OECD countries' experiences with » (2001) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2155111909 «Job-search strategies and reemployment quality» (2010) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2604058646 «How Effective Are Active Labor Market Policies in Developing Countries» (2017) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3125319288 «On event studies and distributed‐lags in two‐way fixed effects models:» (2023) – økonometrisk metode, ikke dagpenger
+- OK   6 utelatt W1977398734 «Job search in thick markets» (2011) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1564801926 «How Local Are Labor Markets? Evidence from a Spatial Job Search Model» (2017) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4236723153 «OECD Employment Outlook 2013» (2013) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2037057424 «The Sullying Effect of Recessions» (2002) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2143531251 «Public Health Insurance, Labor Supply, and Employment Lock *» (2014) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1983911192 «Impact of the JOBS intervention on unemployed workers varying in risk » (1995) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2043064532 «Attitudes and Social Support: Determinants of Job‐Seeking Behavior and» (1987) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2259408401 «Youth unemployment and active labor market policies in Europe» (2016) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2890610387 «The Impact of Young Workers on the Aggregate Labor Market» (2001) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4211243691 «Lab labor: What can labor economists learn from the lab» (2011) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2894261454 «The Oxford Handbook of Job Loss and Job Search» (2014) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1524147193 «Wage Subsidies for the Disadvantaged» (1996) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2150984743 «Employee Job Search» (2011) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1513885970 «The empirical content of the job search model: Labor mobility and wage» (2006) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2103645014 «Evidence on the Incidence of Wage Posting, Wage Bargaining, and On-the» (2012) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1901000473 «Predicting Initial Claims for Unemployment Benefits» (2009) – prediksjon av nye krav, ikke overgang til arbeid
+- OK   6 utelatt W3042319880 «Labor Demand in the time of COVID-19: Evidence from vacancy postings a» (2020) – korona og makroøkonomi i USA, ikke dagpengeperiode eller -nivå og overgang til arbeid
+- OK   6 utelatt W2129727806 «Unemployment duration and personality» (2011) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2157330817 «Mastery and inoculation against setbacks as active ingredients in the » (1997) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1784575763 «Informal Job Search and Black Youth Unemployment» (1986) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2028880945 «Searching for an Explanation of Unemployment in Interwar Britain» (1979) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W1876318919 «Anticipated Unemployment, Temporary Layoffs, and Compensating Wage Dif» (1997) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2986623599 «Job Seeking: The Process and Experience of Looking for a Job» (2019) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2153055391 «Labour market institutions and income inequality» (2008) – ulikhet og arbeidsmarkedsinstitusjoner, ikke overgang til arbeid
+- OK   6 utelatt W3121657359 «Disinflation and the NAIRU» (1997) – makro: disinflasjon og NAIRU, dagpengers effekt bare indirekte
+- OK   6 utelatt W2042699630 «Systematic Job Search and Unemployment» (1973) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W1574491349 «Job Search Methods: Internet versus Traditional» (2000) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2164354924 «The effects of goal orientation on job search and reemployment: A fiel» (2009) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2008557200 «Race, Self-Selection, and the Job Search Process» (2015) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2063525710 «Measuring Program Impacts on Earnings and Employment: Do Unemployment » (1999) – datakvalitet i lønnsregistre, ikke dagpenger
+- OK   6 utelatt W3004809407 «Unemployment Fluctuations, Match Quality, and the Wage Cyclicality of » (2020) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2119511366 «Job search and the theory of planned behavior: Minority–majority group» (2003) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2767925556 «Anonymity or Distance? Job Search and Labour Market Exclusion in a Gro» (2020) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2137018055 «'Google It!' Forecasting the US Unemployment Rate with A Google Job Se» (2010) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2149720972 «Moving beyond job search quantity» (2012) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2155544865 «Time Use, Emotional Well-Being, and Unemployment: Evidence from Longit» (2012) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1979050248 «Wage-Tenure Contracts in a Frictional Labour Market: Firms' Strategies» (2004) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1878106631 «What Can Developing Countries Learn from OECD Labour Market Programmes» (1994) – arbeidsmarkedspolitikk i OECD for utviklingsland, holdt utenfor
+- OK   6 utelatt W2034625938 «EFFECTS OF CONSCIENTIOUSNESS AND EXTRAVERSION ON NEW LABOR MARKET ENTR» (2009) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2799300601 «A rising workfare state? Unemployment benefit conditionality in 21 OEC» (2018) – Kartlegger strengere vilkår og sanksjoner i 21 land, ikke effekt på overgang til arbeid. Aktivitetskrav holdt utenfor.
+- OK   6 utelatt W4233909222 «On-the-job search and strategic bargaining» (2006) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2614883608 «Location, Search Costs and Youth Unemployment: Experimental Evidence f» (2017) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1999597368 «On-the-Job Search and Precautionary Savings» (2012) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2135502416 «ON‐THE‐JOB SEARCH, PRODUCTIVITY SHOCKS, AND THE INDIVIDUAL EARNINGS PR» (2006) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2793631531 «Connections between unemployment insurance, poverty and health: a syst» (2018) – Systematisk oversikt over dagpenger, fattigdom og helse. Utfallet er helse og fattigdom, ikke overgang til arbeid.
+- OK   6 utelatt W1995834468 «The effect of unemployment on subsequent job quality in Europe: A comp» (2011) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3092581062 «Impact of the COVID-19 pandemic on job search behavior: An event trans» (2020) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2114866683 «Spatial job search and commuting distances» (1999) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4390742740 «Worker Beliefs About Outside Options» (2024) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1596157931 «The Industrial Mobility of Displaced Workers» (1993) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2579940222 «Employment, Hours, and Earnings Consequences of Job Loss: US Evidence » (2017) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2133724867 «Technology?Policy Interaction in Frictional Labour-Markets» (2007) – Teoretisk modell for teknologi og regulering uten empirisk effekt av dagpengeperiode eller -nivå.
+- OK   6 utelatt W1971987908 «The Right Man for the Job» (2004) – Teoretisk søkemodell for tilpasning mellom arbeidstaker og jobb, ikke dagpenger.
+- OK   6 utelatt W2095663347 «Exogenous versus Endogenous Separation» (2012) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2117820800 «Chapter 2 On-the-Job Search and Strategic Bargaining» (2006) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1511397782 «Unemployment Duration: Compositional Effects and Cyclical Variability» (1992) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2053406203 «Measuring Labor Market Frictions: A Cross-Country Comparison» (2003) – Likevektsmodell for søkefriksjoner med landsammenligning. Dagpenger inngår bare som en av flere forklaringsvariabler.
+- OK   6 utelatt W2021615986 «Why do Women Have Longer Unemployment Durations than Men in Post-Restr» (2007) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W25121393 «Unemployment Replacement Rates Dataset Among 34 Welfare States, 1971-2» (2012) – Datasett over dagpengenes kompensasjonsgrad i 34 land, ingen effektanalyse av overgang til arbeid.
+- OK   6 utelatt W4206158908 «Supporting livelihoods during the COVID-19 crisis: Closing the gaps in» (2020) – Politikknotat om sikkerhetsnett under covid, ikke effekt av dagpengeperiode eller -nivå på arbeid.
+- OK   6 utelatt W1928398904 «HUMAN CAPITAL ACCUMULATION AND LABOR MARKET EQUILIBRIUM*» (2011) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2793329219 «Public opinion towards targeted labour market policies: A vignette stu» (2018) – Holdningsstudie om oppfatninger av hvem som fortjener støtte. Ikke effekt på overgang til arbeid.
+- OK   6 utelatt W4367679309 «Gender Differences in Job Search and the Earnings Gap: Evidence from t» (2023) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2891910371 «Boarding a Sinking Ship? An Investigation of Job Applications to Distr» (2012) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1969003115 «Jobless men and women: A comparative analysis of job search intensity,» (2000) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2069899239 «Short-Time Compensation, Job Security, and Employment Contracts: Evide» (1994) – Ordninger for korttidskompensasjon og oppsigelsesvern, ikke dagpengeperiode eller -nivå og overgang til arbeid.
+- OK   6 utelatt W2909032559 «Understanding behavioral job search self-efficacy through the social c» (2019) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2112908640 «Navigating the Black Hole: Explicating Layers of Job Search Context an» (2012) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1977468001 «Unemployment Insurance: Survey and Extensions» (1980) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2093810106 «Job Search: The Choice of Intensity» (1983) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2164021159 «Equilibrium Search Unemployment, Endogenous Participation, and Labor M» (2005) – Makromodell for ledighet og yrkesdeltakelse, ikke empirisk analyse av dagpengeperiode eller -nivå.
+- OK   6 utelatt W2139536225 «An Equilibrium Theory of Learning, Search, and Wages» (2010) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2737661023 «To Be or Not to Be Linked: Online Social Networks and Job Search by Un» (2017) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2085953209 «Implementing Anti-Discrimination Policies in Statistical Profiling Mod» (2011) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2981422792 «The Diminishing Power of One? Welfare State Retrenchment and Rising Po» (2019) – Fattigdom blant enslige i Sverige. Utfallet er inntekt, ikke overgang til arbeid.
+- OK   6 utelatt W2114193141 «Be Happy, don't Wait: The Role of Trait Affect in Job Search» (2013) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3104306659 «Heterogeneous Employment Effects of Job Search Programs» (2020) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W156930678 «Tax Policy and the Economy, Vol. 21» (2007) – Bokserie om skatt og sosialforsikring uten avgrenset effektstudie av dagpengeperiode eller -nivå.
+- OK   6 utelatt W4230091464 «The Youth Labor Market in the Eighties: Determinants of Re-employment » (1989) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W1573592016 «The Short-Term Effects of Structural Reforms» (2012) – Makroeffekter av strukturreformer på BNP og sysselsetting. Ikke spesifikt dagpengeperiode eller -nivå.
+- OK   6 utelatt W2067343601 «Wage bargaining, union membership, and the organization of unemploymen» (1999) – Lønnsforhandlinger og organisering av arbeidsledighetsforsikring. Utfallet er fagforeningsmedlemskap og lønn, ikke overgang til arbeid.
+- OK   6 utelatt W2491636324 «How experienced autonomy can improve job seekers' motivation, job sear» (2016) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3022325212 «The Willingness to Pay for Job Amenities: Evidence from Mothers' Retur» (2012) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3126064914 «Getting to work: Experimental evidence on job search and transportatio» (2014) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2100066522 «Institutions and the Structure of Labour Market Matching in the United» (2004) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2356298697 «Determinants of Callbacks to Job Applications: An Audit Study» (2016) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3123055539 «Compensating Wage Differentials and the Duration of Wage Loss» (1986) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2059558352 «On-the-Job Search, Mismatch and Efficiency*» (2009) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2088015159 «Search and Nonwage Job Characteristics» (2014) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1534765361 «National Versus Regional Financing and Management of Unemployment and » (2003) – Finansiering og forvaltning av ytelser i Canada, ikke effekt av periode eller nivå.
+- OK   6 utelatt W3131637887 «Unmet Social Needs And Worse Mental Health After Expiration Of COVID-1» (2021) – Utfallet er helse og sosiale behov etter bortfall av tilleggsytelse. Ikke overgang til arbeid.
+- OK   6 utelatt W2142685640 «Active Labor Market Policy Effects in a Dynamic Setting» (2009) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2168226287 «Transitions into Permanent Employment in Spain: An Empirical Analysis » (2009) – Overganger til fast jobb blant midlertidig ansatte i Spania. Ikke dagpenger.
+- OK   6 utelatt W3122885642 «Short-Time Work and Unemployment in and after the Great Recession» (2021) – Permitteringsordning med redusert arbeidstid i Sveits, ikke dagpengeperiode eller -nivå.
+- OK   6 utelatt W2169589307 «Evaluating the Worker Profiling and Reemployment Services System Using» (2007) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1974129286 «The role of fixed-term contracts at labour market entry in Poland: ste» (2011) – Midlertidige kontrakter ved inntreden i Polen, ikke dagpenger.
+- OK   6 utelatt W2085933102 «An Empirical Analysis of Employed and Unemployed Job Search Behavior» (1992) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2090099119 «The empirical status of job search theory» (1993) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1576580020 «Microeconometrics: Surveys and Applications» (1991) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3107617774 «In-work Universal Credit: Claimant Experiences of Conditionality Misma» (2020) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4237916207 «Evaluating the Employment Impact of a Mandatory Job Search Program» (2016) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1541246965 «Raising Potential Growth After the Crisis» (2011) – Simulering av potensiell vekst etter krisen. Dagpenger er ikke hovedtema, ingen egen effektanalyse.
+- OK   6 utelatt W1603993706 «The Internet and Job Search» (2008) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2079656337 «Household unemployment and the labour supply of married women» (2017) – Ektefellers arbeidstilbud ved ektefellens ledighet. Utfallet er kvinners arbeidstilbud, ikke ledige dagpengemottakere.
+- OK   6 utelatt W2134315090 «Economic and Psychological Models of Job Search Behavior of the Unempl» (1997) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2340248285 «Unemployment Insurance and the Great Recession» (2011) – Finansiering av delstatenes ordninger i USA. Finansiering av ordningen holdt utenfor.
+- OK   6 utelatt W1566688821 «Job Search and Vacancy Contacts» (1979) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W4206031054 «Active Labor Market Policy Evaluations: A Meta-Analysis» (2010) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2014617054 «Risk, Job Search, and Income Distribution» (1974) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W3125376660 «Turbulence and Unemployment in a Job Matching Model» (2005) – Teoretisk matchingmodell for turbulens og ledighet uten identifikasjon fra dagpengereformer.
+- OK   6 utelatt W3125961949 «Does Workers' Compensation Encourage Hard to Diagnose Injuries?» (1998) – Arbeidsskadeerstatning og rapportering av skader, ikke arbeidsledighetstrygd.
+- OK   6 utelatt W1542077567 «Advance Notice and Job Search: The Value of an Early Start» (1990) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2565032117 «Locked in by leverage: Job search during the housing crisis» (2019) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2043865023 «Hours, Layoffs and Unemployment Insurance Funding: Theory and Practice» (1985) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2066362586 «Involuntary Terminations, Unemployment, and Job Matching: A Test of Jo» (1985) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W4376472676 «Unemployment and Endogenous Reallocation Over the Business Cycle» (2023) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3124479133 «Implicit Contracts, Labor Mobility, and Unemployment» (1988) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2020874807 «Optimal Use of Labor Market Policies: The Role of Job Search Assistanc» (2013) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3109796414 «Manoeuvring Through the Crisis: Labour Market and Social Policies Duri» (2020) – Politikkoversikt over tiltak under covid, ingen effektanalyse av dagpengeperiode eller -nivå.
+- OK   6 utelatt W2030776326 «The Impact of Unemployment Insurance on Job Search» (1975) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W3125791828 «Frictional Wage Dispersion in Search Models: A Quantitative Assessment» (2007) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2128205894 «Unemployment in an Interdependent World» (2013) – Handelsmodell for overføringseffekter mellom land. Teoretisk, med ledighet som utfall.
+- OK   6 utelatt W2762732241 «Incentives in Competitive Search Equilibrium» (2011) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4214742113 «Subjective Well-Being Scarring Through Unemployment: New Evidence from» (2022) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2112304643 «The Effect of an Increase in Worker's Compensation Benefits on the Dur» (2004) – Arbeidsskadeerstatning i California, ikke arbeidsledighetstrygd.
+- OK   6 utelatt W2136396510 «Economic Downturn and Stress Testing European Welfare Systems» (2011) – Mikrosimulering av inntektsbeskyttelse for nylig ledige. Utfallet er inntekt, ikke overgang til arbeid.
+- OK   6 utelatt W2601401487 «Emergence of depression following job loss prospectively predicts lowe» (2017) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1495087149 «Microeconometric Analysis of the Retirement Decision» (1998) – Pensjonsvalg for eldre i Nederland, ikke dagpenger og overgang til arbeid.
+- OK   6 utelatt W1508541293 «Unemployment Insurance with Endogenous Search Intensity and Precaution» (1998) – Teoretisk modell for dagpenger med søkeintensitet og sparing, uten empirisk effektanalyse.
+- OK   6 utelatt W2460774457 «Comparative Employment Performance: A Fuzzy-Set Analysis» (2008) – Fuzzy-set-analyse av sysselsetting på tvers av land. Ikke identifikasjon av effekt av dagpengeperiode eller nivå.
+- OK   6 utelatt W2769129909 «Food Insecurity among Households with Children: The Role of the State » (2017) – Utfallet er matusikkerhet i husholdninger, ikke overgang til arbeid.
+- OK   6 utelatt W1997966959 «Relative Efficiencies and Comparative Advantages in Job Search» (1996) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2006484966 «Swedish Youth Labour Market Policies Revisited» (2006) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2047373978 «Labour Market Institutions and Worker Flows: Comparing Germany and the» (2013) – Strømmer inn og ut av ledighet i Tyskland og USA. Forklares mest av matcheeffektivitet, ikke dagpengevariasjon.
+- OK   6 utelatt W2140201129 «Reservation Wages, Labour Market Participation and Health» (2010) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2279789974 «Better Overeducated than Unemployed? The Short- and Long-Term Effects » (2015) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3172923135 «Forecasting unemployment insurance claims in realtime with Google Tren» (2021) – Prognoser av dagpengesøknader med Google Trends, ikke effekt på overgang til arbeid.
+- OK   6 utelatt W2060252380 «Reservation wages, expected wages and unemployment» (2013) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3123005449 «Labor market policy evaluation in equilibrium: Some lessons of the job» (2009) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3168907807 «The influence of COVID-induced job search anxiety and conspiracy belie» (2021) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2125982592 «The underground economy in Spain: an alternative to unemployment?» (1997) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2506180243 «Do social investment policies produce more and better jobs?» (2011) – Kapittel om sosial investering og jobbkvalitet. Ikke empirisk analyse av dagpengeperiode eller -nivå.
+- OK   6 utelatt W1971582408 «Job Search and Participation» (1976) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W589819090 «Panel Data and Labour Market Dynamics» (1993) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2158509232 «How do the unemployed search for a job? – Evidence from the EU Labour » (2013) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4281700030 «A database of US state policies to mitigate COVID-19 and its economic » (2022) – Database over delstatenes covid-tiltak, ingen effektanalyse.
+- OK   6 utelatt W1586039841 «Unemployment Duration and Competing Risks: Evidence from Sweden» (1989) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W3012216640 «Search design and online job search – new avenues for applied and expe» (2020) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3035407289 «Punitive welfare reform and claimant mental health: The impact of bene» (2020) – Sanksjoner mot mottakere og psykisk helse. Sanksjoner og helse holdt utenfor.
+- OK   6 utelatt W2095003797 «Unemployment insurance schemes for reducing the natural rate of unempl» (1989) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2320653748 «Faule Arbeitslose?» (2003) – Essay om misbruk og strengere vilkår i tysk arbeidsledighetsforsikring, uten empirisk effektanalyse.
+- OK   6 utelatt W4210297934 «Gender differences in job flexibility: Commutes and working hours afte» (2022) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3009522682 «Risk Sharing Within the Firm: A Primer» (2020) – Risikodeling i bedriften, ikke dagpengeperiode eller -nivå og overgang til arbeid.
+- OK   6 utelatt W4410888423 «Do the Long-Term Unemployed Benefit from Automated Occupational Advice» (2022) – Yrkesveiledning på nett for langtidsledige, et tiltak. Ikke dagpengeperiode eller -nivå.
+- OK   6 utelatt W303158417 «Job Search Models, the Duration of Unemployment, and the Asking Wage: » (1975) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W1989870876 «Ranking of job applicants, on-the-job search, and persistent unemploym» (2004) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4287006817 «The Gender Gap in Earnings Losses After Job Displacement» (2024) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1825663910 «UNEMPLOYMENT BENEFITS AND THE MACROECONOMICS OF THE INTERWAR LABOUR MA» (1983) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2260785424 «Dealing with unemployment: What should be the role of labour market pr» (2014) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2114452173 «Labour markets in the interwar period and economic recovery in the UK » (2010) – Historisk analyse av arbeidsmarkedet i mellomkrigstiden. Utenfor perioden fra 1990.
+- OK   6 utelatt W2158641156 «The Exact Likelihood Function for an Empirical Job Search Model» (1991) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2902290241 «Why Countries ‘Get Tough on the Work-Shy’: The Role of Adverse Economi» (2018) – Hvorfor land innfører strengere sanksjoner. Sanksjoner og aktivitetskrav holdt utenfor.
+- OK   6 utelatt W1866558544 «MARKET POWER AND EFFICIENCY IN A SEARCH MODEL*» (2011) – Teoretisk søkemodell for markedsmakt og effektivitet, uten empiri.
+- OK   6 utelatt W2001498601 «Experience Rating in Unemployment Insurance: An Experiment in Competit» (1973) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2139252482 «Labor market conditions and self-employment: a Denmark-Spain compariso» (2012) – Selvstendig næringsdrift i Danmark og Spania. Utfallet er etablering, ikke overgang fra dagpenger.
+- OK   6 utelatt W2910660583 «Well-being through the lens of the internet» (2019) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2794108795 «The Consequences of Long-Term Unemployment: Evidence from Linked Surve» (2018) – Konsekvenser av langtidsledighet i USA (seleksjon mot tilstandsavhengighet). Ikke effekt av dagpengeperiode eller -nivå.
+- OK   6 utelatt W4289259832 «Labor-Market Policies in an Equilibrium Search Model» (1999) – Kalibrert likevektsmodell av arbeidsmarkedspolitikk uten egen identifikasjon fra dagpengereformer.
+- OK   6 utelatt W4322720682 «Withdrawing from job search: The effect of age discrimination on occup» (2023) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; pensjon eller tidligpensjon, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2066458240 «Layoffs, wages and unemployment insurance» (1983) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2404958564 «Modelling Heaping Effects in Unemployment Duration Models – With an Ap» (1998) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3121516381 «Firm Dynamics and Residual Inequality in Open Economies» (2018) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4205329817 «How to Optimize the Job Search Process: Development and Validation of » (2022) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2156642715 «The Nature of Unemployment in Urban Ethiopia» (2004) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2905236532 «Can pro-growth policies lift all boats?» (2015) – Langsiktige vekst- og fordelingseffekter av strukturreformer, ikke overgang til arbeid fra dagpenger.
+- OK   6 utelatt W1527178697 «Return to Work After Long Term Sickness» (2011) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2897070041 «Welfare reform by stealth? Cash benefit recipiency data and its additi» (2018) – Data om ytelsesmottak for å måle velferdsstatens endring. Ikke effekt på overgang til arbeid.
+- OK   6 utelatt W2143282305 «What goes up sometimes stays up: shocks and institutions as determinan» (2003) – Strukturell VAR for ledighetens persistens i fire land. Makro, uten identifikasjon av dagpengeperiode eller -nivå.
+- OK   6 utelatt W2145569381 «Do the Rich Stay Unemployed Longer? An Empirical Study for the UK» (1999) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1581436054 «What is the new normal unemployment rate» (2011) – Anslag på normalledighet i USA. Forlengede ytelser nevnes bare kort, ingen effektanalyse.
+- OK   6 utelatt W1993969674 «An evaluation of active and passive labour market policy» (1998) – Aggregert landpanel for aktiv og passiv politikk og sysselsetting. Ikke identifikasjon fra regelendringer i periode eller nivå.
+- OK   6 utelatt W2000846634 «Sweden's Road Back to Full Employment» (1997) – Essay om den svenske modellen og internasjonale funn. Ikke egen empirisk analyse av dagpengeperiode eller -nivå.
+- OK   6 utelatt W2094880278 «Mature age job seekers: the role of proactivity» (2014) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2133393751 «Vacancy Referrals, Job Search, and the Duration of Unemployment: A Ran» (2012) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2167107653 «Prices, Productivity and Wage Bargaining in Open Economies*» (2008) – Lønnsdannelse i nordiske land med erstatningsgrad som en variabel. Utfallet er lønn, ikke overgang til arbeid.
+- OK   6 utelatt W4412789326 «Employers and Unemployment Insurance Take-Up» (2025) – Arbeidsgivers rolle i søknader om dagpenger i USA. Utfallet er uttak av ytelsen, ikke overgang til arbeid.
+- OK   6 utelatt W1529907649 «El sistema español de protección por desempleo» (1997) – Deskriptiv oversikt over spansk arbeidsledighetsforsikring uten effektanalyse.
+- OK   6 utelatt W2056685354 «9. Dynamic Discrete-Time Duration Models: Estimation Viamarkov Chain M» (1997) – Statistisk metodeartikkel om varighetsmodeller. Dagpenger er bare eksempel, ingen egen effektanalyse.
+- OK   6 utelatt W2076742171 «Life-cycle patterns in male/female differences in job search» (2011) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2125882893 «Differences in Unemployment Duration: A Regional or a Personal Problem» (1988) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W3180517396 «MANAGING INEQUALITY OVER BUSINESS CYCLES: OPTIMAL POLICIES WITH HETERO» (2021) – Teoretisk modell for optimal dagpengeordning over konjunkturen, uten empiri.
+- OK   6 utelatt W2536950630 «Labor Unemployment Concern and Corporate Discretionary Disclosure» (2016) – Utfallet er bedrifters opplysningsatferd, ikke ledige eller overgang til arbeid.
+- OK   6 utelatt W3184012461 «Going against the grain: The role of skilled migrants' self‐regulation» (2021) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3174122097 «Self-reported dietary changes among Los Angeles County adults during t» (2021) – Kostholdsendringer under covid, ikke relevant for dagpenger og arbeid.
+- OK   6 utelatt W4284969003 «Experience of the COVID-19 pandemic and support for safety-net expansi» (2022) – Holdninger til utvidet sikkerhetsnett etter covid. Ikke effekt på overgang til arbeid.
+- OK   6 utelatt W2032677093 «Behavioural Response to UI Reform in Constrained and Unconstrained Mod» (1991) – Simulerer arbeidstilbud ved reformforslag i Canada med tverrsnittsdata. Ikke effekt på overgang til arbeid fra ledighet.
+- OK   6 utelatt W2616243946 «Does sanctioning disabled claimants of unemployment insurance increase» (2017) – Sanksjoner mot funksjonshemmede mottakere og inaktivitet. Sanksjoner holdt utenfor.
+- OK   6 utelatt W2931859330 «Mutual relationships between the unemployment rate and the unemploymen» (2019) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2942891319 «Unequal Social Protection under the Federalist System: Three Unemploym» (2019) – Beskriver ulik beskyttelse i delstatenes ordninger. Ikke effekt på overgang til arbeid.
+- OK   6 utelatt W3047941402 «The Effect of Fiscal Stimulus: Evidence from COVID-19» (2020) – Finanspolitiske virkninger av covid-stimulans på lokal økonomi. Ikke overgang til arbeid.
+- OK   6 utelatt W1502922163 «Worker Displacement in Japan and Canada» (2002) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2051655997 «Institutional incentives to prevent unemployment: Unemployment insuran» (1995) – Institusjonell sammenligning av dagpenger og tiltak. Ingen effektanalyse av periode eller nivå.
+- OK   6 utelatt W2066496512 «Impact of Labour Market Measures on Unemployment» (2011) – Generell gjennomgang av arbeidsmarkedstiltak og ledighet uten identifikasjon av effekt fra dagpengeperiode eller -nivå.
+- OK   6 utelatt W2065774654 «Gender wage differentials, job search, and part-time employment in the» (2008) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2068646662 «Coalitions and Compensation» (2014) – Politisk analyse av hvorfor kutt i dagpengeperiode kombineres med opplæring. Utfallet er politikk, ikke overgang til arbeid.
+- OK   6 utelatt W2796172476 «Measuring Employment Demand Using Internet Search Data» (2018) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3161891292 «An Adaptive Targeted Field Experiment: Job Search Assistance for Refug» (2023) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1489133647 «THE PUZZLE OF JOB SEARCH AND HOUSING TENURE: A RECONCILIATION OF THEOR» (2015) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1545807243 «Reported VS. Actual Job Search by Unemployment Insurance Claimants» (1986) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2014943133 «Reemployment Probability and Multiple Unemployment Spells: A Partial-L» (1989) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2024880953 «How unemployment insurance savings accounts affect employment duration» (2013) – Individuelle sparekontoer i Chile, utviklingsland. Utfallet er varighet i jobb, ikke dagpengeperiode eller -nivå.
+- OK   6 utelatt W2149478848 «Wages, work, and unemployment» (1998) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1787916070 «Measurement errors in retrospective reports of event histories. A vali» (2009) – Målefeil i spørreundersøkelser mot finske registre, metodestudie uten dagpengeeffekt.
+- OK   6 utelatt W4390818257 «Labor Shortages in the Hospitality Industry: The Effects of Work-life » (2024) – Spørreundersøkelse om arbeidskraftmangel i hotellbransjen under covid, ikke overgang fra dagpenger.
+- OK   6 utelatt W2611504698 «Active Labour Market Programme Participation for Unemployment Insuranc» (2016) – Systematisk oversikt over arbeidsmarkedstiltak for mottakere. Utfallet er tiltakseffekt, ikke dagpengeperiode eller -nivå.
+- OK   6 utelatt W2727923809 «Worker Profiling and Reemployment Services Policy Workgroup: Final Rep» (1999) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2117452344 «The Delta-Model Revisited: Recent trends in the structural performance» (2000) – Beskriver nederlandsk økonomi og lønnsmoderasjon. Ikke effektanalyse av dagpengeperiode eller -nivå.
+- OK   6 utelatt W2173520580 «Duration dependence and exits from youth unemployment in Spain and the» (2015) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4391755079 «Examining interindividual differences in unemployment-related changes » (2024) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4393022848 «The Role of Self-Efficacy in Coping With the Psychological Challenges » (2024) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2113458824 «Experiments on unemployment benefit sanctions and job search behavior» (2009) – Eksperimenter med sanksjoner og søkeatferd. Sanksjoner holdt utenfor.
+- OK   6 utelatt W2122732481 «The event-history approach to program evaluation» (2008) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2971570172 «Career adaptability and active job search behavior of Korean older wor» (2019) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4298370930 «Nonmonetary Eligibility in State Unemployment Insurance Programs: Law » (1986) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2100896955 «The Effects of Unemployment Insurance Eligibility Rules on Job Quittin» (1984) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2890830623 «Unemployment Insurance in the United States and Europe, 1973 -83» (1989) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W4210286893 «Social policy and labor supply: the impact of activating labor market » (2022) – Aktivering og reservasjonslønn i Tyskland. Gjelder aktiveringsregler, ikke dagpengeperiode eller -nivå.
+- OK   6 utelatt W4406965539 «Sticky Wages on the Layoff Margin» (2025) – Lønnsrigiditet ved oppsigelser, spørreundersøkelse blant mottakere. Gjelder oppsigelser, ikke overgang til arbeid.
+- OK   6 utelatt W2034487220 «Labour‐market performance in the OECD: some recent cross‐country evide» (2010) – Landpanel for arbeidsmarkedets resultater. Ikke identifikasjon av effekt av dagpengeperiode eller -nivå på overgang.
+- OK   6 utelatt W2144287840 «Can institutional reform reduce job destruction and unemployment durat» (2015) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2181778068 «ACTIVE LABOUR MARKET POLICY EVALUATIONS» (2010) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4304688743 «IMF Engagement on Social Safety Net Issues in Surveillance and Program» (2022) – Teknisk notat fra IMF om sosiale sikkerhetsnett, ikke effekt på overgang til arbeid.
+- OK   6 utelatt W4313909957 «The Fall and Rise of Immigrant Employment During the COVID-19 Pandemic» (2023) – Innvandreres sysselsetting under covid, ikke dagpenger.
+- OK   6 utelatt W2046078188 «Employment Protection Laws: Policy Issues and Recent Research» (1993) – Varslingsplikt og oppsigelsesvern, ikke dagpengeperiode eller -nivå.
+- OK   6 utelatt W2133400160 «Labour market mobility and workers’ skills in a comparative perspectiv» (2007) – Komparativ analyse av dagpenger og mobilitet og kompetanse. Utfallet er mobilitet og ferdigheter, ikke overgang fra ledighet.
+- OK   6 utelatt W32493254 «The Work Disincentive Effects of Unemployment Insurance. Studies in Un» (1974) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W4365443026 «Gaps in the welfare state: A role-based model of poverty risk in the U» (2023) – Fattigdomsrisiko i USA, ikke overgang til arbeid.
+- OK   6 utelatt W124498237 «Implementation of the American Recovery and Reinvestment Act: Workforc» (2012) – Gjennomføring av amerikansk krisepakke, ikke effektanalyse av periode eller nivå.
+- OK   6 utelatt W1572054355 «Bismarck versus Beveridge: Which Unemployment Compensation System Is M» (2001) – Teoretisk modell av tysk og britisk ytelsesmodell ved sjokk, uten empiri.
+- OK   6 utelatt W2729216105 «Estimating (Easily Interpreted) Dynamic Training Effects from Experime» (2017) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4200497281 «Conditional Generosity and Deservingness in Public Support for Europea» (2021) – Holdninger til europeisk ledighetsforsikring. Ikke effekt på overgang til arbeid.
+- OK   6 utelatt W4378191276 «University-to-work transitions in Germany – do graduate job seekers be» (2023) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4404214355 «The impact of robots on unemployment duration: Evidence from the Chine» (2024) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1588706460 «Welfare Traps in Australia: Do they Bite?» (2008) – Velferdsfeller i Australia gjelder marginalskatt og erstatningsgrad for sosialhjelpsmottakere. Ytelse uten forsikringspreg.
+- OK   6 utelatt W1594758444 «Changes in the structure and duration of U.S. unemployment, 1967-1998» (1998) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2135961551 «WOMEN AS ‘ANOMALIES’: THE ANOMALIES REGULATIONS OF 1931, THEIR BACKGRO» (1984) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2137199083 «Policy Interaction in the Provision of Unemployment Insurance and Low‐» (1999) – Samspill mellom dagpenger og sosialhjelp i delstatenes politikk. Utfallet er politikkvalg, ikke overgang til arbeid.
+- OK   6 utelatt W3186248002 «Job search monitoring and sanctions - a brief survey of some recent re» (2005) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4220899426 «Old versus young: How much do countries spend on social benefits? Dete» (2022) – Modell av utgiftsprioritering mellom ytelser, ikke overgang til arbeid.
+- OK   6 utelatt W4393160924 «Age Differences in Unemployment Risk and Reemployment Outcomes in Late» (2024) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2049035706 «The cost of job loss and the great recession» (2011) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2110334550 «The welfare state, redistribution and the economy: reciprocal altruism» (2004) – Teoretisk kapittel om velferdsstat og omfordeling, uten empirisk analyse av dagpengeeffekter.
+- OK   6 utelatt W2121689535 «Workers' Valuation of the Remaining Employment Contract Duration» (2007) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2132026059 «Life Cycle Human Capital Formation, Search Intensity, and Wage Dynamic» (2009) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2339424005 «The political economy of early exit: The politics of cost-shifting» (2015) – Politisk økonomi bak tidlig utgang fra arbeidslivet. Utfallet er pensjonering, ikke overgang til arbeid.
+- OK   6 utelatt W4224240217 «Tax Policy» (2022) – Skatteteori, ikke dagpenger.
+- OK   6 utelatt W4236571114 «Labour Markets in Recession and Recovery: The UK and the USA in the 19» (2013) – Historisk analyse av arbeidsmarkedet i mellomkrigstiden. Utenfor perioden fra 1990.
+- OK   6 utelatt W2032055035 «Subsidizing versus Experience Rating of Unemployment Insurance in Unio» (2004) – Teoretisk modell for subsidiering og risikobasert premie i fagforeningsfond, uten empiri.
+- OK   6 utelatt W2098464642 «Unemployment Benefits, Contract Length and Nominal Wage Flexibility» (2004) – Teoretisk forhandlingsmodell for ytelsesnivå og lønnsfleksibilitet, uten empiri.
+- OK   6 utelatt W2161021540 «The Roles of Openness and Labor Market Institutions for Employment Dyn» (2010) – Makroanalyse av åpenhet og arbeidsmarkedsinstitusjoner i kriser. Ikke effekt av dagpengeperiode eller -nivå.
+- OK   6 utelatt W2513976466 «A Study on the Reemployment Possibilities of the Employed Disabled Peo» (2014) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; sykefravær, uføre eller yrkesskade, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4404164943 «Supporting jobs and incomes: An update on the policy response to the C» (2022) – Politikkoversikt over covid-tiltak, ingen effektanalyse av dagpengeperiode eller -nivå.
+- OK   6 utelatt W2581467199 «Modelling of Unemployment Duration in the Czech Republic» (2017) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2626652407 «Unemployment Insurance and Unemployment – Revisited» (1996) – Bokkapittel uten tilgjengelig sammendrag. Sannsynligvis oversikt over dagpenger og ledighet, men uten avgrenset empirisk effektstudie.
+- OK   6 utelatt W2021911576 «Modelling labour market dynamics with on-the-job search» (1999) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2103432050 «The Determinants and Some Consequences of Unemployed Workers' Wage Dem» (2011) – Lønnskrav hos ledige i Sverige. Gjelder ikke endringer i dagpengeperiode eller -nivå.
+- OK   6 utelatt W2470276707 «On-the-Job Search, Work Effort and Hyperbolic Discounting» (2010) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4392085146 «The Safety Net Response to the COVID-19 Pandemic Recession and the Old» (2024) – Bruk av sikkerhetsnett blant eldre under covid. Utfallet er mottak, ikke overgang til arbeid.
+- OK   6 utelatt W1564774787 «Intersection of Unemployment Insurance with Other Programs and Policie» (1997) – Samspill mellom dagpenger og andre ordninger i USA, ingen effektanalyse av periode eller nivå.
+- OK   6 utelatt W1814855312 «Testing Search Theory with Reemployment Bonus Experiments: Cross-Valid» (1989) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2123431957 «Characteristics of Parents and the Unemployment Duration of their Offs» (2014) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2993163858 «Unemployment Insurance Laws: Changes Enacted during 1981.» (1982) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W4210574893 «The limits of burden-reducing policies: a case study of unemployment i» (2022) – Case om administrativ byrde i Israel under covid. Ikke effekt på overgang til arbeid.
+- OK   6 utelatt W1587812284 «Women’s labour supply and household insurance in Africa» (2015) – Husholdningers forsikring i Afrika, utviklingsland.
+- OK   6 utelatt W161860234 «Unemployment Insurance: Lessons from Canada» (2001) – Bokkapittel om lærdommer fra kanadisk ordning, uten tilgjengelig sammendrag. Ingen avgrenset effektstudie.
+- OK   6 utelatt W2552713098 «8. TAX POLICY AND UNEMPLOYMENT INSURANCE EFFECTS ON LABOR POLICY» (1984) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W4234099496 «Unemployment Insurance» (2013) – Gjennomføring av amerikansk krisepakke, ikke effekt på overgang til arbeid.
+- OK   6 utelatt W4406082783 «Lagging behind by doing good: How volunteering prolongs unemployment» (2025) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4411672036 «Skill Depreciation during Unemployment: Evidence from Panel Data†» (2025) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2181445893 «How long do unemployed older workers search for a job» (2014) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4200550091 «Unemployment Insurance» (2021) – Historisk beskrivelse av ordningers utvikling i 18 land, ingen effektanalyse.
+- OK   6 utelatt W1503255199 «Data Analysis of the Implementation of the Recovery Act Workforce Deve» (2013) – Gjennomføring av amerikansk krisepakke, ikke effekt på overgang til arbeid.
+- OK   6 utelatt W2757989520 «Food Insecurity and the Great Recession: The Role of Unemployment Dura» (2017) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4210653789 «The Optimal Level of Unemployment Insurance» (2022) – Teoretisk bokkapittel om optimalt nivå på ledighetsforsikring, uten empiri.
+- OK   6 utelatt W7148951560 «Refugee labor market integration at scale: Evidence from Germany’s fas» (2026) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W7127620450 «Retirement without rest: A qualitative study of retired teachers' moti» (2026) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; pensjon eller tidligpensjon, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2585884371 «The Evaluation of Reemployment Programs: Between Impact Assessment and» (2014) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W7117408907 «UNEMPLOYMENT INSURANCE RESEARCH AND THE GOVERNANCE OF INDONESIA’S JOB » (2025) – Bibliometrisk oversikt med fokus på Indonesia, utviklingsland, uten effektestimater av periode eller nivå.
+- OK   6 utelatt W2890102328 «European Unemployment: The Evolution of Facts and Ideas» (2005) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2109260547 «Tenuous link: labour market institutions and unemployment in advanced » (2013) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2111608598 «The determinants of unemployment across OECD countries» (2007) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2058008913 «Product Market Reforms, Labour Market Institutions and Unemployment» (2007) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3028865029 «A Meta-analysis on Labour Market Deregulations and Employment Performa» (2020) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2062538328 «Firing Costs and Labour Demand: How Bad is Eurosclerosis?» (1990) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1979274801 «Job Security Provisions and Employment» (1990) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1983727765 «The Medium Run» (1997) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2162046462 «Capital accumulation, labour market institutions and unemployment in t» (2010) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2736753381 «Labour market institutions and labour market performance» (2012) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2136695066 «Do Flexible Labor Markets Indeed Reduce Unemployment? A Robustness Che» (2012) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4292680737 «The Effects of IMF Conditional Programs on Unemployment Rate» (2020) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1497457827 «Are Workers Permanently Scarred by Job Displacements» (1991) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2060268960 «Aggregate Demand and Long-Run Unemployment» (1999) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2153189317 «Unemployment Dynamics in the OECD» (2012) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1830563144 «Employment Effects of Product and Labour Market Reforms: Are there Syn» (2012) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1672585778 «Are active labour market policies effective in activating and integrat» (2018) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2059630171 «Unemployment and Labor Market Institutions: An Empirical Analysis» (2001) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1591798785 «Does Deregulation Work? Reassessing the Unemployment Effects of Employ» (2014) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2124882483 «The Impact of Labour Market Reforms and Economic Performance on the Ma» (2012) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2097638070 «Institutions and Wage Determination: a Multi‐country Approach*» (2005) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2394630694 «The Economics of Unemployment. Shocks, Institutions, and Interactions.» (2000) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2610266755 «The NAIRU determinants: What’s structural about unemployment in Europe» (2017) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3122010676 «Migration, Trade and Unemployment» (2012) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1978612469 «Is Deindustrialization Causing High Unemployment in Affluent Countries» (2013) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1853503431 «Labour Market Institutions and the Employment Intensity of Output Grow» (2009) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2063703685 «Productivity, deunionization and trade: Wage effects and labour share » (2013) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2163556358 «Are corporatist labour markets different? Labour market regimes and un» (2013) – Institusjonenes effekt på samlet ledighet i korporative regimer. Landpanel, ikke overgang til arbeid fra dagpenger.
+- OK   6 utelatt W3125784629 «Regulated earnings security: the relationship between employment prote» (2020) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2010586812 «The effectiveness of European active labor market programs» (2010) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2146735208 «The treatment effect, the cross difference, and the interaction term i» (2011) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2111583974 «What Works and for Whom: A Review of OECD Countries' Experiences with » (2002) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2098914049 «The Establishment-Level Behavior of Vacancies and Hiring *» (2013) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2147121464 «On the Benefits From Rigid Labour Markets: Norms, Market Failures, and» (1999) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2066380011 «The Identifiability of the Competing Risks Model» (1989) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W3124190981 «Policy Complementarities: The Case for Fundamental Labor Market Reform» (1996) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2030039411 «Estimating the Effects of a Time-Limited Earnings Subsidy for Welfare-» (2005) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1968597934 «Roots of the Recent Recoveries: Labor Reforms or Private Sector Forces» (2000) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2065596087 «Trade and unemployment: What do the data say?» (2011) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2003807150 «Unions and labour market institutions in Europe» (2002) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2288246689 «When more flexibility yields more fragility: The microfoundations of K» (2017) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3123300029 «Search in Macroeconomic Models of the Labor Market» (2011) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2118000104 «What explains high unemployment among low-skilled workers? Evidence fr» (2010) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1571700446 «What have we learned from empirical studies of unemployment and turnov» (1993) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2119907791 «Employment Performance in OECD Countries» (2007) – Landpanel for sysselsettingsnivå og erstatningsgrad for langvarig ledige. Aggregert, uten identifikasjon av periode eller overgang.
+- OK   6 utelatt W2415771203 «Regional unemployment in the EU before and after the global crisis» (2012) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2008629869 «Did the pattern of aggregate employment growth change in the euro area» (2006) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4213035679 «The Generational Welfare Contract» (2017) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1485963097 «UNEMPLOYMENT AND HOURS OF WORK: THE NORTH ATLANTIC DIVIDE REVISITED*» (2007) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2569051349 «What ever happened to Germany? Is the decline of the former european k» (2005) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; sykefravær, uføre eller yrkesskade, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2956146030 «Job protection deregulation in good and bad times» (2019) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3083030804 «Heterogeneity matters: temporary employment, productivity and wages in» (2020) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2008966999 «Economic resilience to shocks» (2008) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2129984119 «Labor Market Institutions and the Dispersion of Wage Earnings» (2014) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2767758180 «Do Minimum Wages Lead to Job Losses? Evidence from OECD Countries on L» (2017) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W566625293 «The Hungarian labour market : review and analysis» (2002) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2790949084 «The assessment of active labor market policies: evidence from OECD cou» (2018) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4324331361 «Active labor market as an instrument to reduce unemployment» (2023) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2032611444 «Comparing Labor Market Performance: Some Stylized Facts and Key Findin» (2012) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2273112992 «Unemployment, capital accumulation and labour market institutions in t» (2014) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2910634555 «Identifying asymmetric effects of labor market reforms» (2018) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1922677941 «Instrumental Variable Estimation for Duration Data» (2009) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2981121729 «What is structural about unemployment in OECD countries?» (2019) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1495656322 «Econometric Analysis of Panel Data» (2021) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2024081693 «Robust Locally Weighted Regression and Smoothing Scatterplots» (1979) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W3113269512 «Difference-in-Differences with multiple time periods» (2020) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2136883754 «Analysis of Survival Data» (2018) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3112066496 «Estimating dynamic treatment effects in event studies with heterogeneo» (2020) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3121385028 «Recent Developments in the Econometrics of Program Evaluation» (2009) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2135860498 «Estimation and Inference of Impulse Responses by Local Projections» (2005) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2078205970 «Unhappiness and Unemployment» (1994) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2043948304 «A model of price adjustment» (1971) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2075427517 «The Short- and Long-Term Career Effects of Graduating in a Recession» (2012) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2117766613 «THE COLLAPSE IN DEMAND FOR THE UNSKILLED AND UNEMPLOYMENT ACROSS THE O» (1995) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1997753419 «Nonparametric Analysis of Randomized Experiments with Missing Covariat» (2000) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1986676705 «Macroeconomic Performance and Collective Bargaining: An International » (1999) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3122766096 «The economics of employment protection» (2003) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2170493085 «Does Job Loss Shorten Life?» (2009) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2070664194 «Structural Slumps: The Modern Equilibrium Theory of Unemployment, Inte» (1995) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4247191480 «Negotiating Our Way Up» (2019) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2009353208 «Labor Market Institutions and Wage Inequality» (2007) – Utfallet er lønnsulikhet, ikke overgang til arbeid.
+- OK   6 utelatt W2170767455 «Unemployment: A Survey» (1990) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4251561441 «Jobs with Equality» (2008) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2140427482 «The Effects of Technical Change on Labor Market Inequalities» (2005) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3123699197 «Comparative Analysis of Labour Market Outcomes: Lessons for the US fro» (2001) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2094539974 «Evaluation of Swedish Youth Labor Market Programs» (2003) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2155324514 «Labor Market Institutions : A Review of the Literature» (2012) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2181500156 «The macroeconomic effects of goods and labor markets deregulation» (2015) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2050270363 «The impact of stricter criteria for disability insurance on labor forc» (2011) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; sykefravær, uføre eller yrkesskade, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2156027316 «IS THE NAIRU THEORY A MONETARIST, NEW KEYNESIAN, POST KEYNESIAN OR A M» (2008) – Teoretisk diskusjon av NAIRU-teorier, ingen empirisk analyse av dagpengeperiode eller -nivå.
+- OK   6 utelatt W1531442050 «The European Union: Economics and Policies» (2000) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2167229372 «Is flexible labour good for innovation? Evidence from firm-level data» (2014) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3124553281 «Aggregate demand, conflict and capacity in the inflationary process» (2005) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2991109951 «Social science duration analysis» (1985) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2084605402 «Demographic and education effects on unemployment in Europe» (2007) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3126069509 «Labor market institutions and aggregate fluctuations in a search and m» (2010) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2072642495 «Banking crises, labor reforms, and unemployment» (2012) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2019246134 «The impact of labor market deregulation on productivity: a panel data » (2010) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2035475225 «The Centralization of Wage Bargaining Revisited: What Have we Learnt?» (2006) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3122010468 «Labour market institutions without blinders: The debate over flexibili» (2005) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4235716357 «Beyond Eurosclerosis» (2009) – Makroanalyse av europeisk ledighet og reformer. Ikke identifikasjon av effekt av dagpengeperiode eller -nivå på overgang.
+- OK   6 utelatt W2161481367 «Do labour market reforms reduce labour productivity growth? A panel da» (2014) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3123135433 «Monetary policy and unemployment» (2004) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2176064348 «The macroeconomic impact of structural policies on labour market outco» (2015) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1964394552 «Do labor market institutions matter for business cycles?» (2014) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2775205258 «Do Technological Innovations Affect Unemployment? Some Empirical Evide» (2017) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1795876562 «Taxation and Employment» (2011) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4319600203 «The IAB Employment Subsample 1975-1995» (2000) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2132116952 «The impact of monetary policy on unemployment hysteresis» (2011) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2551269107 «Revisiting the Okun relationship» (2016) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2114164451 «PHILLIPS CURVES AND UNEMPLOYMENT DYNAMICS: A CRITIQUE AND A HOLISTIC P» (2009) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2999257663 «The (negative) impact of supply-side labour market reforms on producti» (2019) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2224358300 «Collective bargaining systems and macroeconomic and microeconomic flex» (2016) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2065651297 «Growth, unemployment and labour market institutions: evidence from a c» (2010) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3166569330 «Labour Market Regulation and Youth Unemployment in the EU-28» (2021) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3009768715 «Does employment protection affect unemployment? A meta-analysis» (2020) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2955436014 «Can Policies Affect Employment Intensity of Growth? A Cross-Country An» (2012) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2130652309 «Labor market reforms and unemployment dynamics» (2016) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2254692318 «The anatomy of unemployment dynamics» (2002) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3183752455 «Better together: Active and passive labor market policies in developed» (2021) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1983336750 «Does employment protection legislation affect firm investment? The Eur» (2013) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2954707001 «Crises, Labor Market Policy, and Unemployment» (2012) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1565115640 «Women in the Labour Force: How Well is Europe Doing?» (2003) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1993862684 «Bringing Unemployed Back to Work: Effective Active Labor Market Polici» (2009) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2132387054 «Unemployment, taxation and public expenditure in OECD economies» (2007) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2491053436 «The EMU macroeconomic policy regime and the European social model» (2004) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2072932086 «Integrated Analysis of Regional and National Unemployment Differential» (2012) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2502792425 «Industrial relations in EMU: are renationalization and Europeanization» (2004) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2151545616 «Beyond the labour income tax wedge: the unemployment-reducing effect o» (2015) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2561315594 «European Unemployment Revisited: Shocks, Institutions, Integration» (2016) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W798104149 «Trwale wysokie bezrobocie w Polsce. Wyjaśnienia, propozycje» (2005) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2029347177 «It is high time to ditch the NAIRU» (2007) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4408151231 «Structural Reforms and Economic Performance: The Experience of Advance» (2025) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2039899671 «Labour taxes and unemployment evidence from a panel unobserved compone» (2009) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3159741227 «Assessment of the Effect of Technological Innovations on Unemployment » (2021) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2515282363 «Coverage of employment protection legislation» (2016) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2605825476 «Early Retirement across Europe. Does Non‐Standard Employment Increase » (2017) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; pensjon eller tidligpensjon, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2046071436 «Unemployment and Labor Market Issues in Algeria» (2012) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3123268656 «Turbulence and the employment experience of older workers» (2018) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; pensjon eller tidligpensjon, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3121361650 «Labour Market Dynamics in Australia: What Drives Unemployment?*» (2009) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3125380534 «Unemployment insurance: The role of electoral systems and regional lab» (2005) – Politisk økonomi bak ordningens utforming (valgsystem), ikke effekt på overgang til arbeid.
+- OK   6 utelatt W1760670806 «How green was my valley» (2014) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4280640060 «Reforms of an early retirement pathway in Germany and their labor mark» (2022) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; pensjon eller tidligpensjon, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4390959167 «World Economic Outlook, April 2018» (2018) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4414241022 «Labor force transitions» (2025) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2025610165 «Some Tests of Specification for Panel Data: Monte Carlo Evidence and a» (1991) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2049350168 «Interaction terms in logit and probit models» (2003) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2979586175 «Two-Way Fixed Effects Estimators with Heterogeneous Treatment Effects» (2020) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2319384619 «Kragh Andersen (P.) — Statistical Models Based on Counting Processes» (1997) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3015183602 «How many jobs can be done at home?» (2020) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2114346262 «The Impact of the Mariel Boatlift on the Miami Labor Market» (1989) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W3124544360 «The Polarization of the U.S. Labor Market» (2006) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2070492332 «Can Labor Regulation Hinder Economic Performance? Evidence from India» (2004) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1577093216 «Economics of Worldwide Stagflation» (1985) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2139255721 «Least absolute deviations estimation for the censored regression model» (1984) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2128278229 «Unemployment as a Social Norm: Psychological Evidence from Panel Data» (2003) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3125732952 «Macroeconomic Effects of Regulation and Deregulation in Goods and Labo» (2003) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2048786272 «WAGE DETERMINATION: THE CHANGING ROLE OF INSTITUTIONS IN ADVANCED INDU» (1990) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2157729921 «Equilibrium Wage Dispersion with Worker and Employer Heterogeneity» (2002) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W155059922 «Techniques of Event History Modeling» (2001) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2109437806 «Labor Market Rigidities: At the Root of Unemployment in Europe» (1997) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1965776348 «Fiscal Policy in a Depressed Economy» (2012) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2153510573 «Adjustment Costs, Firm Responses, and Micro vs. Macro Labor Supply Ela» (2011) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3126034453 «Understanding International Differences in the Gender Pay Gap» (2003) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1544362532 «Partial Identification of Probability Distributions» (2003) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2019551238 «Optimal monetary policy in a currency area» (2003) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3121273981 «What We Know and Do Not Know About the Natural Rate of Unemployment» (1997) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2156152815 «Minimum Wages and Employment» (2006) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3019713972 «Labor demand in the time of COVID-19: Evidence from vacancy postings a» (2020) – Etterspørsel etter arbeidskraft under covid fra stillinger og søknader. Ikke effekt av periode eller nivå.
+- OK   6 utelatt W2108881402 «Protective or counter-productive? labour market institutions and the e» (2003) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2135618053 «Estimating Discount Functions with Consumption Choices over the Lifecy» (2007) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3125083399 «Does raising the early retirement age increase employment of older wor» (2013) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; pensjon eller tidligpensjon, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2153632082 «Globalization and labor market outcomes: Wage bargaining, search frict» (2010) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3121312782 «Institutional Determinants of Labor Reallocation in Transition» (2002) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2142594111 «Two‐Tier Labour Markets in the Great Recession: France Versus Spain» (2012) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3123464667 «Labor market institutions and demographic employment patterns» (2007) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1486562737 «The Economics of Imperfect Labor Markets» (2014) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2148273822 «Changes in the Distribution of Male and Female Wages Accounting for Em» (2007) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2133084392 «Flexible Employment and Inequality in Europe» (2009) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4211055884 «Education and Training in Europe» (2007) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2040297937 «Enforcement of labor regulation and firm size» (2008) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4246141105 «THE ECONOMICS OF JOB SEARCH: A SURVEY» (1976) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2164305223 «Labor Market Institutions Around the World» (2007) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3121516253 «Minimum Wages, Labor Market Institutions, and Youth Employment: A Cros» (2004) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3124078511 «Is Business Cycle Volatility Costly? Evidence from Surveys of Subjecti» (2003) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2168299087 «Labour Market Institutions and the Personal Distribution of Income in » (2009) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2049901974 «Moral hazard and sickness insurance» (2005) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; sykefravær, uføre eller yrkesskade, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1530173440 «Education and Unemployment» (1991) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1574680630 «Product Market Reforms and Employment in OECD Countries» (2005) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2111569684 «Are contributions to public pension programmes a tax on employment?» (2004) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; pensjon eller tidligpensjon, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1966202889 «Is utility related to employment status? Employment, unemployment, lab» (1997) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2103059843 «The Impact of Employment Protection Mandates on Demographic Temporary » (2007) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2503962113 «Structural slumps: the modern equilibrium theory of unemployment, inte» (1994) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2159964895 «Before and after the Hartz Reforms: The Performance of Active Labour M» (2006) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2757022184 «Sources of Displaced Workers’ Long-Term Earnings Losses» (2020) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2162211815 «Reforming an insider-outsider labor market: the Spanish experience» (2012) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2108154515 «The Short- and Long-Term Career Effects of Graduating in a Recession: » (2006) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1966458428 «Employment laws in developing countries» (2008) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2130635853 «The Identifiability of the Mixed Proportional Hazards Competing Risks » (2003) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2164415336 «Heterogeneous impacts in PROGRESA» (2008) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2482842162 «Labor Market Institutions and Unemployment: Assessment of the Cross‐Co» (2005) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1997132710 «Technological unemployment in industrial countries» (2013) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1863195695 «Long-Term Growth Scenarios» (2013) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2136371016 «Barriers to entry: insider/outsider politics and the political determi» (2009) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2139023471 «Trade unions, collective bargaining and macroeconomic performance: a r» (2008) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2100179888 «Setting It Right: Employment Protection, Labour Reallocation and Produ» (2011) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3028033751 «The Impacts of COVID-19 on Minority Unemployment: First Evidence from » (2020) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3123455100 «Education and Unemployment» (2012) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3125386261 «Hit Harder, Recover Slower? Unequal Employment Effects of the Covid-19» (2021) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2163195397 «Equilibrium Policy Experiments and the Evaluation of Social Programs» (2004) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2167593361 «UK Unemployment in the Great Recession» (2010) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2236889734 «Who Pays for it? The Heterogeneous Wage Effects of Employment Protecti» (2012) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1982832588 «Costs and benefits of Danish active labour market programmes» (2007) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3121901296 «On the Determinants of Labour Market Institutions: Rent Seeking vs. So» (2002) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1972991952 «Employment separation and health insurance coverage» (1997) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2121130995 «Labor Market Flexibility and Unemployment: New Empirical Evidence of S» (2012) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W354106381 «Euros and Europeans» (2004) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2024663781 «Semiparametric Estimation of a Proportional Hazard Model with Unobserv» (1999) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1990445866 «The Determinants of Equilibrium Unemployment in Britain» (1982) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2218011664 «Labor Market Regulations: What do we know about their Impacts in Devel» (2014) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3017642083 «Automation and labor force participation in advanced economies: Macro » (2020) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1900515951 «Patterns of Work Across the OECD» (2007) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2891820751 «Unemployment Dynamics in the OECD» (2008) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2059873038 «THE RELATIONSHIP BETWEEN CAPITAL STOCK, UNEMPLOYMENT AND WAGES IN NINE» (2007) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2583302643 «What drives employment growth and social inclusion in the regions of t» (2017) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2101998044 «Labor Market Regulation and Productivity Growth: Evidence for Twenty O» (2009) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1990775670 «The perverse effects of partial employment protection reform: The case» (2007) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2765897442 «Structural labour market reforms, GDP growth and the functional distri» (2017) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2581178929 «The impact of employment protection on temporary employment: Evidence » (2017) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2138140447 «Summary and Synthesis» (2002) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2074441614 «The Recent Performance of the UK Labour Market» (2002) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4214926549 «On the Dynamics of Unemployment and Wage Distributions» (2011) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2007842677 «Explaining European Unemployment: Testing the NAIRU Hypothesis and a K» (2004) – Test av NAIRU mot keynesiansk forklaring på makrodata. Ikke effekt av dagpengeperiode eller -nivå på overgang.
+- OK   6 utelatt W2115688003 «Estimating the structural rate of unemployment for the OECD countries» (2003) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2283380499 «Labour market reforms in Italy: evaluating the effects of the Jobs Act» (2017) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1569945011 «Worker Displacement in France and Germany» (2002) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2936053910 «Do energy prices affect employment? Decomposed international evidence» (2019) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2138854129 «Welfare-State Retrenchment: The Partisan Effect Revisited» (2006) – Partipolitikk og velferdsnedbygging. Utfallet er rettigheter og utgifter, ikke overgang til arbeid.
+- OK   6 utelatt W2170575918 «Do Changes in Regulation Affect Employment Duration in Temporary Help » (2009) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2892356107 «Unnatural Experiments? Estimating the Incidence of Endogenous Policies» (1994) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3124675629 «Aggregate Recruiting Intensity» (2018) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2168278491 «Anatomy of employment growth» (2002) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2023108498 «Reservation Wages and the Cost of Unemployment» (1989) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W3134049587 «Granular Search, Market Structure, and Wages» (2019) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2021265449 «Evaluating active labor market programs in Romania» (2009) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3149888163 «Semiparametric Estimation with Mismeasured Dependent Variables: An App» (1999) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2034933623 «Labor market deregulation and globalization: empirical evidence from O» (2010) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1536491098 «Short-Term Gain or Pain? A DSGE Model-Based Analysis of the Short-Term» (2012) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2065143169 «The unemployment impact of immigration in OECD countries» (2010) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2066836970 «Financial incentives to postpone retirement and further effects on emp» (2009) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; pensjon eller tidligpensjon, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2028287499 «The impact of trade openness on the unemployment rate in G7 countries» (2013) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3123389915 «Regional Unemployment and Industrial Restructuring in Poland» (2006) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2134715618 «A TEST BETWEEN STOCK‐FLOW MATCHING AND THE RANDOM MATCHING FUNCTION AP» (2008) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2152616289 «Do Affluent Countries Face an Incomes-Jobs Trade-Off?» (2003) – Landpanel om avveining mellom lønn og sysselsetting. Ikke overgang til arbeid fra dagpenger.
+- OK   6 utelatt W2160041305 «Capital accumulation and unemployment: new insights on the Nordic expe» (2008) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3121884325 «Institutions and Service Employment: A Panel Study for OECD Countries» (2005) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3122786897 «Do Digital Information Technologies Help Unemployed Job Seekers Find a» (2018) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3125698809 «Labor Market Institutions and Their Effect on Labor Market Performance» (2009) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1555707350 «Technology and labor regulations: theory and evidence» (2017) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1562497886 «Does Stricter Employment Protection Legislation Promote Self-employmen» (2003) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2063016243 «Modelling the US, UK and Japanese unemployment rates: Fractional integ» (2008) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2140661551 «How to help unemployed find jobs quickly: Experimental evidence from a» (2008) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1578298466 «Changes in Labor Force Status among the Unemployed» (1981) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2109485356 «A decade of labour market reforms in the EU: insights from the LABREF » (2015) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1513503928 «Unemployment in Latin America and the Caribbean» (2011) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2034291809 «The effect of employment protection and product market regulation on l» (2010) – Samspill mellom oppsigelsesvern og produktmarkedsregulering. Dagpenger er ikke hovedtema.
+- OK   6 utelatt W2316791283 «Youth Unemployment in Europe. Theoretical Considerations and Empirical» (2012) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2883237531 «Drivers of Labor Force Participation in Advanced Economies: Macro and » (2018) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; pensjon eller tidligpensjon, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2240845443 «Labor‐Market Institutions and Long‐Term Effects of Youth Unemployment» (2014) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1624252359 «Activation Policies in Finland» (2009) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2137318629 «Wage flexibility: evidence from five EU countries based on the wage cu» (2003) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3021558206 «Unemployment and finance: how do financial and labour market factors i» (2011) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1513414505 «Why Do Firms Offer ‘Employment Protection’?» (2010) – Teoretisk modell for kontrakter om oppsigelsesvern, uten empiri.
+- OK   6 utelatt W2049826484 «The Effect of Same-Sex Marriage Laws on Different-Sex Marriage: Eviden» (2013) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1582780539 «Minimum Wages, Labor Market Institutions, and Female Employment: A Cro» (2012) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1993354593 «Estimating a Simultaneous Search Model» (1989) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2130778385 «The European Employment Strategy: Towards More and Better Jobs?*» (2007) – Kritikk av EUs sysselsettingsstrategi, politisk analyse uten effektmål for dagpengeperiode eller -nivå.
+- OK   6 utelatt W2166545648 «Skill-biased technological change and endogenous benefits: the dynamic» (2009) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2053926664 «Can Productivity Growth Explain the NAIRU? Long‐Run Evidence from Brit» (2006) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W20106329 «The evaluation of active labour market measures for the long-term unem» (1998) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4288045454 «Labor markets during pandemics» (2022) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2093517588 «A Search Model Applied to the Transition from Education to Work» (1987) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2143427156 «Long-term unemployment, the invention of ‘hysteresis’ and the misdiagn» (2005) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; sykefravær, uføre eller yrkesskade, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2092742459 «Organizational Determinants of Wage Moderation» (2010) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4243048330 «“Transitional” unemployment» (1994) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2061952130 «Financial Shocks and Labor: Facts and Theories» (2013) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2074195140 «The High-Employment Route to Low Inequality» (2009) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2107184340 «Monetary policy and European unemployment» (2009) – Pengepolitikk og europeisk ledighet, makroteori. Ikke dagpengeperiode eller -nivå.
+- OK   6 utelatt W2611141905 «Active labor market programs’ effects on entrepreneurship and unemploy» (2017) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2063522058 «Labor Market Regulation and Labor Market Performance: Evidence Based o» (2003) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2996480601 «On the Determinants of the Okun’s Law: New Evidence from Time-Varying » (2019) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1994135567 «Distribution and determinants of lifetime unemployment» (2011) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2000079489 «Youth unemployment and labour market transitions in Hungary» (2005) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3121139811 «Duration dependence in the exit rate out of unemployment in Belgium. I» (2004) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2004772161 «Can the hysteresis hypothesis in Spanish regional unemployment be beat» (2015) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2240179837 «Estimating a semi-parametric duration model without specifying heterog» (2013) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2030849027 «The Productivity Slowdown Puzzle. Technological and Non-technological » (2009) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2137415436 «The private consequences of public policies: active labor market polic» (2009) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2154700296 «PUBLIC ENTERPRISES AND LABOR MARKET PERFORMANCE*» (2007) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1928838920 «The international experience of minimum wages in an economic downturn*» (2012) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2100208399 «Alternative methods of estimating program effects in event history mod» (2002) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1972043919 «L'efficacité des mesures d'accompagnement sur le retour à l'emploi» (2010) – Evaluering av oppfølgingsprogram (PARE) i Frankrike. Tiltak, ikke dagpengeperiode eller -nivå.
+- OK   6 utelatt W1985595776 «Short- and long-term unemployment» (2000) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2955572424 «Labor Market Flexibility and Unemployment» (2012) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2093174680 «Asymmetric Effects of National-based Active Labour Market Policies» (2011) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4391613995 «Structural reforms and income distribution: new evidence for OECD coun» (2024) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1531822159 «Labour Market Performance Differentials and Dynamics in EU-15 Countrie» (2007) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2114256892 «Credit Market Regulation and Labor Market Performance Around the World» (2006) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2186030551 «The Relationship between Growth and Employment Intensity: Evidence for» (2015) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3109710657 «Trade Openness and Youth Employment in Sub-Saharan Africa: Should We R» (2020) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2107205894 «Key Characteristics of Employment Regulation in the Middle East and No» (2010) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2139734256 «Can labour market institutions explain high unemployment rates in the » (2007) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2015837795 «A net impact analysis of active labour programmes in Hungary» (1997) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2144333438 «Labour Policy Instruments and the Cyclical Behaviour of Vacancies and » (2010) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2759631981 «Before It Gets Better: The Short-Term Employment Costs of Regulatory R» (2018) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2088841413 «Keynes, investment, unemployment and expectations» (2009) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1502600060 «Recent Developments in Part-time Work in EU Countries: Trends and Poli» (2005) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W191191540 «The Rise in Long-Term Unemployment: Potential Causes and Implications» (2016) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1972151576 «The joint impact of labour policies and the “Great Recession” on unemp» (2014) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2164404570 «The Impact of Tax and Market Distortions on the Phillips Curve and the» (2008) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2915468916 «Labour market regulations, changes in working life and the importance » (2019) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2599114174 «Is Tinkering with Institutional Quality a Panacea for Firm Performance» (2017) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2955191835 «Politics, Government Size, and Fiscal Adjustment in Industrial Countri» (2002) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2254250838 «The political dynamics of external empowerment: the emergence of EMU a» (2004) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3010490503 «Reevaluating the German labor market miracle» (2020) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3124333102 «Unemployment in Britain: A European Success Story» (2006) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2065938903 «Raiding Opportunities and Unemployment» (2001) – Teoretisk modell for rekruttering og ledighet, uten empiri.
+- OK   6 utelatt W2607779623 «The Consequences of Employment Protection Legislation for the Youth La» (2011) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3121482835 «Danish for All? Balancing Flexibility with Security» (2007) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2118487621 «Models of unionism and unemployment» (2011) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1567675965 «Accounting for Labor Gaps» (2016) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1977963482 «Differences in Hours Worked in the OECD: Institutions or Fiscal Polici» (2011) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2076621347 «Macroeconomic policy, labour market institutions and employment outcom» (2011) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2068349806 «The Natural Rate of Unemployment Hypothesis and the Evolution of Regio» (2013) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2129363493 «Fairness and the employment contract: North American regions versus Ge» (2007) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3121595457 «Great Expectations: Law, Employment Contracts, and Labor Market Perfor» (2011) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W28396559 «Causal Analysis in Population Studies» (2009) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3121713819 «Deep habits and the cyclical behaviour of equilibrium unemployment and» (2011) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3124551970 «FIRMS AND FLEXIBILITY» (2011) – Modell for bedriftsdynamikk i USA og Frankrike, ikke overgang til arbeid fra dagpenger.
+- OK   6 utelatt W4285210981 «How effective are hiring subsidies in reducing long-term unemployment » (2022) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2125464333 «Challenging the Raison d’etre of internal devaluation in the context o» (2013) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2142213107 «Labor market rigidities and R&D-based growth in the global economy» (2005) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3121208004 «Youth Unemployment in the OECD: The Role of Institutions» (2015) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4283738728 «Effectiveness of Active Labour Market Policies in the EU Countries for» (2022) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1503913504 «Taxes and Benefits: Work Incentive Effects of Policies» (2012) – Arbeidsinsentiver fra skatter og ytelser i Belgia. Erstatningsgrader for sosialhjelp og dagpenger, ikke observert overgang til arbeid.
+- OK   6 utelatt W2318860010 «1 Flexicurity – the Danish labour market model1» (2006) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4319662716 «Predicting the contribution of artificial intelligence to unemployment» (2023) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4394676131 «How far from full employment? The European unemployment problem revisi» (2024) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1751541785 «Labour Market Policies and Outcomes in the Enlarged EU» (2010) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1915033731 «SHORT‐AND LONG‐TERM UNEMPLOYMENT. A PARAMETRIC MODEL WITH TIME‐VARYING» (1995) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2034580943 «Real Interest Rate and Labor Market Performance around the World» (2012) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2107035090 «Global Factors, Unemployment Adjustment and the Natural Rate» (2008) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4284977610 «Trade unions and income inequality: Evidence from a panel of European » (2022) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2043928975 «The impact of equity markets and corporate governance on labour market» (2008) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2163907339 «Central Bank Independence, Wage Bargaining, and Labor Market Performan» (2011) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3124424595 «Mandated Severance Pay and Firing Cost Distortions: A Critical Review » (2011) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2009208379 «Crisis and Growth in the Advanced Economies: What We Know, What We Do » (2011) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2113847471 «Who bears the cost of the business cycle? Labor-market institutions an» (2012) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3124415965 «The tax system incidence on unemployment: A country-specific analysis » (2008) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1048329631 «Can labour market rigidity foster economic efficiency? A model with no» (2015) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2085833047 «The Canada-US Unemployment Rate Gap: A New Look with a New Decompositi» (2012) – Dekomponerer ledighetsgapet mellom Canada og USA. Ikke avgrenset til dagpengeperiode eller -nivå.
+- OK   6 utelatt W2097274617 «TIME VARIATION IN THE DYNAMICS OF WORKER FLOWS: EVIDENCE FROM NORTH AM» (2012) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2582530053 «Carrot and stick» (2013) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1613681780 «Symposium Introduction: Labour Market Reforms, Employment Performance,» (2015) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2394564985 «Employment protection and collective bargaining during the great reces» (2015) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4315786651 «Right of association and new business entry: country-level evidence fr» (2023) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2146051837 «Flexicurity, Happiness, and Satisfaction» (2011) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4412183497 «Do corruption and resource endowments curse jobs? Worldwide empirical » (2025) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3121403162 «Initial conditions and moment restrictions in dynamic panel data model» (1998) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2112352537 «Specification Tests in Econometrics» (1978) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2144357229 «Initial conditions and moment restrictions in dynamic panel data model» (1995) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4241653265 «Regression Quantiles» (1978) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2134246329 «Biases in Dynamic Models with Fixed Effects» (1981) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W4233014035 «Density Estimation for Statistics and Data Analysis» (1986) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W4213183334 «The American Economic Review» (2013) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2791859701 «Difference-in-differences with variation in treatment timing» (2021) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2097978133 «Analysis of Panel Data» (2003) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1969230115 «A Comparative Study of Unit Root Tests with Panel Data and a New Simpl» (1999) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2022220920 «Consistent Covariance Matrix Estimation with Spatially Dependent Panel» (1998) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2892380133 «The Skill Content of Recent Technological Change: An Empirical Explora» (2003) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2145107370 «Time Discounting and Time Preference: A Critical Review» (2002) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2140930388 «Social Foundations of Postindustrial Economies» (1999) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2121005211 «Economics and Identity*» (2000) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2144395073 «INTEREST AND PRICES: FOUNDATIONS OF A THEORY OF MONETARY POLICY» (2005) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3122531453 «Instrumental Variables Regression with Weak Instruments» (1994) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3135257712 «A global panel database of pandemic policies (Oxford COVID-19 Governme» (2021) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3021644002 «Robots and Jobs: Evidence from US Labor Markets» (2019) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1605491412 «Multilevel and Longitudinal Modeling Using Stata» (2006) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2010695531 «Getting a Job: A Study of Contacts and Careers.» (1975) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2096598341 «Nonparametrics: Statistical Methods Based on Ranks» (1979) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W4283387379 «How much should we trust staggered difference-in-differences estimates» (2022) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4292027009 «Statistical Models Based on Counting Processes» (1993) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3021304644 «Analysis of Covariance with Qualitative Data» (1980) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2331253396 «Comparative Politics and the Synthetic Control Method» (2014) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2062387714 «What do unions do» (1984) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W4367396771 «What’s trending in difference-in-differences? A synthesis of the recen» (2023) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2089284128 «Scales for the measurement of some work attitudes and aspects of psych» (1979) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2173858490 «On Adjusting the Hodrick-Prescott Filter for the Frequency of Observat» (2002) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2063773487 «Aggregate Demand Management in Search Equilibrium» (1982) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2160446276 «Back to the Future: Modeling Time Dependence in Binary Data» (2010) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1980366830 «Efficiency Wages and the Inter-Industry Wage Structure» (1988) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W3121301164 «Outsourcing at Will: The Contribution of Unjust Dismissal Doctrine to » (2003) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2120012324 «Fairness and Redistribution» (2005) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2490362664 «Fighting Poverty in the US and Europe» (2004) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1905678139 «Government Spending Multipliers in Good Times and in Bad: Evidence fro» (2017) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2137057669 «Debt, Deleveraging, and the Liquidity Trap: A Fisher-Minsky-Koo Approa» (2012) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2158550634 «Job Polarization in Europe» (2009) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2139432828 «The Concept of Employability» (2005) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2141295263 «Workplace Heterogeneity and the Rise of West German Wage Inequality*» (2013) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2027736991 «Myth and Measurement: The New Economics of the Minimum Wage.» (1996) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4285675989 «Journal of Economic Literature» (2020) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2109785413 «Smoothing Parameter Selection in Nonparametric Regression Using an Imp» (1998) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3121415235 «Structural Equations, Treatment Effects, and Econometric Policy Evalua» (2005) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2139460564 «Varieties of Capitalism and Institutional Complementarities in the Pol» (2009) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2060351950 «Search in the labor market and the real business cycle» (1995) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2138858971 «Incentive Effects of the U.S. Welfare System: A Review» (1992) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2114514721 «Business Cycles and Labor-Market Search» (1996) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2171040166 «Using the Longitudinal Structure of Earnings to Estimate the Effect of» (1985) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2323231065 «Firms and Labor Market Inequality: Evidence and Some Theory» (2017) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2106209831 «Why Doesn't the United States Have a European-Style Welfare State?» (2001) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2059053591 «Censored regression quantiles» (1986) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W1984590825 «The Effects of Health, Wealth, and Wages on Labour Supply and Retireme» (2005) – Livssyklusmodell for arbeid og pensjonering. Utfallet er pensjonering, ikke dagpenger.
+- OK   6 utelatt W1994091413 «Evaluating Welfare Reform in the United States» (2002) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2119515682 «How Social Security and Medicare Affect Retirement Behavior In a World» (1997) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2024385229 «A nonidentifiability aspect of the problem of competing risks.» (1975) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W1984485824 «Labor Supply Response to the Earned Income Tax Credit» (1996) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2061893665 «The Use of Mixture Models for the Analysis of Survival Data with Long-» (1982) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2056720463 «Hypothesis Testing and Multiplicative Interaction Terms» (2004) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2891479562 «Health Insurance Eligibility, Utilization of Medical Care, and Child H» (1996) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2483025142 «Beyond Varieties of Capitalism» (2007) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2004009085 «A note on competing risks in survival data analysis» (2004) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3124196235 «Changes in the Labor Supply Behavior of Married Women: 1980-2000» (2006) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2160587295 «Saving Babies: The Efficacy and Cost of Recent Changes in the Medicaid» (1996) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3214661451 «Alternative Approaches to Evaluation in Empirical Microeconomics» (2009) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3023391419 «Regulation and Investment» (2005) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1523765259 «Household Saving: Micro Theories and Micro Facts» (1995) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1914745706 «Tax Policy for Economic Recovery and Growth» (2011) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2501506271 «The Welfare State as Piggy Bank» (2001) – Teoretisk bok om velferdsstatens forsikringsfunksjon, ikke effektstudie av dagpengeperiode eller -nivå.
+- OK   6 utelatt W2159026487 «Confidence Intervals for Partially Identified Parameters» (2004) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3125907121 «The value of connections in turbulent times: Evidence from the United » (2016) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1560955108 «European Unemployment: A Survey» (1992) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1606863616 «Some Simple Economics of Mandated Benefits» (1989) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W3123949305 «From temporary help jobs to permanent employment: what can we learn fr» (2008) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2131071299 «Estimation and Confidence Regions for Parameter Sets in Econometric Mo» (2007) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1594558933 «Chapter 61 Using Randomization in Development Economics Research: A To» (2007) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1773741487 «Small-Sample Bias in GMM Estimation of Covariance Structures» (1996) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2891507842 «Pensions, The Option Value of Work, and Retirement» (1988) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2117472708 «Household Surveys in Crisis» (2015) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2093029608 «Longitudinal Analysis of Labor Market Data» (1985) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2120937813 «The wage scar from male youth unemployment» (2005) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2016481775 «The Added Worker Effect» (1985) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W3124629868 «Employment protection legislation, adjustment costs and cross-country » (2012) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3121349088 «Does Disability Insurance Receipt Discourage Work? Using Examiner Assi» (2013) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; sykefravær, uføre eller yrkesskade, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1629337082 «Economic Theory and the Welfare State: A Survey and Reinterpretation (» (1992) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1489433677 «A counting process approach to maximum likelihood estimation in frailt» (1992) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2069634547 «The Effect of Implicit Contracts on the Movement of Wages Over the Bus» (1991) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1954420279 «Event History Analysis With Stata» (2007) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2332830725 «The Moral Basis of a Backward Society» (1959) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W1595521060 «Solow, Robert M» (2002) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2261208189 «Secular stagnation: facts, causes and cures» (2014) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3121724199 «Does Entry Regulation Hinder Job Creation? Evidence from the French Re» (2002) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1567321585 «Two Tier Reforms of Employment Protection: A Honeymoon Effect?» (2007) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3029050519 «Labour Market Rigidities, Trade and Unemployment» (2010) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1972125775 «On the Use of Cause-Specific Failure and Conditional Failure Probabili» (1993) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3122992927 «The Economic Future of Europe» (2004) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2171724930 «The Health and Earnings of Rejected Disability Insurance Applicants» (1989) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W3123700174 «Risks at Work: The Demand and Supply Sides of Government Redistributio» (2006) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3123426266 «The NAIRU in Theory and Practice» (2002) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1935001733 «Investments, Holdup, and the Form of Market Contracts.» (1993) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3122297245 «What Mean Impacts Miss: Distributional Effects of Welfare Reform Exper» (2006) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2790607267 «HANS-PETER BLOSSFELD y GÖTZ ROHWER: Techniques of Event History Modeli» (2018) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2260887458 «Monotone Instrumental Variables with an Application to the Returns to » (1998) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3121274485 «THE CYCLICALITY OF SEPARATION AND JOB FINDING RATES*» (2009) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2066742241 «Tax Policy and the Economy» (1990) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3124223012 «Monotone Instrumental Variables: With an Application to the Returns to» (2000) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1988174589 «Correcting for non-compliance in randomized trials using rank preservi» (1991) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2498877053 «The economics of “tagging” as applied to the optimal income tax, welfa» (1984) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2891372738 «Immigration and the Welfare State: Immigrant Participation in Means-Te» (1996) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2050220272 «The Relationship Between Wages and Income and the Timing and Spacing o» (1990) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3121608115 «How Wages Change: Micro Evidence from the International Wage Flexibili» (2007) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2135314129 «IMMIGRATION, JOBS, AND EMPLOYMENT PROTECTION: EVIDENCE FROM EUROPE BEF» (2014) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2111067550 «Inference on Regressions with Interval Data on a Regressor or Outcome» (2002) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1486944930 «Quantile regression, censoring, and the structure of wages» (2008) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1967638208 «Monotone Treatment Response» (1997) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2021465593 «C ORPORATISM : The Past, Present, and Future of a Concept» (2002) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1974907088 «Wage Dynamics: Reconciling Theory and Evidence» (1999) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2142076417 «LONG-RUN EFFECTS OF PUBLIC SECTOR SPONSORED TRAINING IN WEST GERMANY» (2011) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2046161079 «The Incidence of Payroll Taxation: Evidence from Chile» (1997) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4234991500 «THE OXFORD REVIEW OF ECONOMIC POLICY» (1985) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2113212232 «Effect of job loss due to plant closure on mortality and hospitalizati» (2012) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3124299008 «Dynamic discrete choice and dynamic treatment effects» (2006) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1963828749 «Exploring the Economic and Social Determinants of Psychological Well-B» (2005) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1558281242 «Employer-to-Employer Flows in the U.S. Labor Market: The Complete Pict» (2004) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1729679404 «The Under-Reporting of Transfers in Household Surveys: Its Nature and » (2009) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2007959535 «The Psychological Impact of Unemployment.» (1992) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2165717141 «Gross worker and job flows in Europe» (1994) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1481514692 «Quantiles for Counts» (2005) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1999884574 «Labor Force Dynamics of Older Married Couples» (1998) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; pensjon eller tidligpensjon, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1825186569 «Changes in the Distribution of Wages and Unemployment in OECD Countrie» (1996) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3122984530 «Wage Risk and Employment Risk over the Life Cycle» (2010) – Strukturell livssyklusmodell for lønns- og sysselsettingsrisiko. Dagpenger er bare ett av flere programmer.
+- OK   6 utelatt W4249635551 «Unemployment persistence» (2000) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2080894081 «Computational methods for local regression» (1991) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W560030481 «Welfare reform: effects of a decade of change» (2006) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3121557616 «Wage rigidity and job creation» (2013) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2117086116 «The (mis)specification of discrete duration models with unobserved het» (2010) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3122491897 «The patterns of cross-border bank mergers and shareholdings in OECD co» (2001) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2030976619 «Aggregation in Production Functions: What Applied Economists should Kn» (2003) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2162365694 «Wage Bargaining, Central Bank Independence, and the Real Effects of Mo» (1998) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2145263991 «Impacts of active labor market programs : new evidence from evaluation» (2004) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1532311325 «Economists' Views about Parameters, Values, and Policies: Survey Resul» (1998) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3021692606 «Employment Hysteresis from the Great Recession» (2018) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; sykefravær, uføre eller yrkesskade, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2292129782 «Work and Leisure in the United States and Europe: Why So Different?» (2005) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2002222973 «Lasting or Latent Scars? Swedish Evidence on the Long‐Term Effects of » (2006) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2023379380 «Estimating the returns to community college schooling for displaced wo» (2004) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1902470918 «IS ECONOMIC RECOVERY A MYTH? ROBUST ESTIMATION OF IMPULSE RESPONSES» (2013) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2765515090 «Payroll Taxes, Firm Behavior, and Rent Sharing: Evidence from a Young » (2019) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3161329322 «Standard Synthetic Control Methods: The Case of Using All Preintervent» (2021) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2044008681 «The labor market as a social institution» (1991) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3124765627 «Reforming German labour market institutions: A dual path to flexibilit» (2011) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2034432154 «The effect of financial crises on potential output: New empirical evid» (2012) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2313177766 «Evaluating Welfare and Training Programs.» (1992) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W137156961 «Testing for the Equality of Maximum-Likelihood Regression Coefficients» (1998) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1562107381 «The Benefits and Costs of JTPA Title II-A Programs: Key Findings from » (1997) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2161059922 «Bootstrapping Quantile Regression Estimators» (1995) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3009652328 «Growing Public» (2004) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2148812531 «Labour Market Institutions Without Blinders: The Debate over Flexibili» (2005) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2055840215 «OECD demand regimes (1960-2000)» (2007) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1577001733 «The economics of worldwide stagflation» (1987) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W1984615684 «Inference for Events With Dependent Risks in Multiple Endpoint Studies» (1991) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3121200124 «Employment, wages, and the economic cycle: Differences between immigra» (2009) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2068333844 «General versus Specific Skills in Labor Markets with Search Frictions » (2006) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2609000513 «Survey of Income and Program Participation.» (1984) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W1506349247 «Regulation or deregulation of the labour market» (1988) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2119912675 «Disability, earnings, income and consumption» (2018) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; sykefravær, uføre eller yrkesskade, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2140566304 «The rise in unemployment: a multi-country study» (1992) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2095723217 «Equilibrium Wage Distributions» (1984) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W3123498908 «Immigration, Jobs and Employment Protection: Evidence from Europe befo» (2012) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2139923687 «The Political Economy of Imprisonment in Affluent Western Democracies,» (2004) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2497247581 «Bringing the Jobless into Work?» (2008) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2024043965 «Patterns of Labour Market Entry – Long Wait or Career Instability? An » (2005) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2141630795 «HOW DESTRUCTIVE IS CREATIVE DESTRUCTION? EFFECTS OF JOB LOSS ON JOB MO» (2011) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3122684638 «Immigrant Assimilation and Welfare Participation» (2003) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2029624366 «Unemployment, consumption and growth» (1993) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2122721872 «The Aggregate Matching Function» (1989) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2148335475 «Wage risk and employment risk over the life cycle» (2008) – Arbeidsnotat av samme livssyklusmodell. Dagpenger er bare ett av flere programmer, ikke overgang til arbeid.
+- OK   6 utelatt W3124001950 «Unionisation Structures and Innovation Incentives» (2004) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2165043087 «Accelerated Failure-Time Regression Models with a Regression Model of » (1992) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2112982766 «The Bargaining System and Performance» (2000) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1981226494 «Trends in Labor Force Transitions of Older Men and Women» (1994) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; pensjon eller tidligpensjon, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2106254243 «Unemployment, Well-Being, and Wage Curves in Eastern and Central Europ» (2001) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4252303350 «Employment protection» (2001) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1858880028 «The labour market» (1987) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W3124611862 «What Firms Make vs. What They Know: How Firms' Production and Knowledg» (2011) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2150329484 «Work and Power: The Connection Between Female Labor Force Participatio» (2008) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3122094015 «The Curse and Blessing of Training the Unemployed in a Changing Econom» (2007) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4241074143 «The German Socio-Economic Panel (GSOEP) after more than 15 Years — Ove» (2001) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W8121047 «An approach to longitudinally matching Current Population Survey(CPS) » (2000) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2124071718 «Pay inequality and firm performance: evidence from matched employer–em» (2005) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1937075603 «The Unemployment Crisis» (1994) – Overblikk over teori for makroledighet (Layard m.fl.), ikke effektstudie av dagpengeperiode eller -nivå.
+- OK   6 utelatt W2046402534 «The Employment Effects of Severance Payments with Wage Rigidities» (2005) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2082645742 «Workers' Compensation Insurance, Experience-Rating, and Occupational I» (1985) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W1596746336 «Ten Years of Product Market Reform in OECD Countries - Insights from a» (2010) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2045654367 «The unemployment effects of labor regulation around the world» (2008) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2099234181 «Local social capital and geographical mobility» (2010) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2018568203 «High Unemployment Yet Few Small Firms: The Role of Centralized Bargain» (2012) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2041477563 «The Effect of Plant Downsizing on Disability Pension Utilization» (2009) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1594130174 «What Do We Know about Job Loss in the United States? Evidence from the» (2005) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2083481744 «Work Injury Compensation and the Duration of Nonwork Spells» (1985) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2789786180 «The gender unemployment gap» (2018) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2073338958 «How Financial Incentives Induce Disability Insurance Recipients to Ret» (2014) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; sykefravær, uføre eller yrkesskade, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2237451105 «Collective wage setting when wages are generally binding An antitrust » (2001) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2139803908 «Does short-time work save jobs? A business cycle analysis» (2015) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1496712114 «The Earned Income Tax Credit and the Labor Supply of Married Couples» (1998) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3125728829 «The Incidence of Mandated Employer-Provided Insurance: Lessons from Wo» (1990) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2161646784 «Has Structural Change Contributed to a Jobless Recovery» (2003) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1537564206 «Human Capital and Unemployment Dynamics: Why More Educated Workers Enj» (2016) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1940337488 «Job Flow Dynamics and Firing Restrictions: Evidence from Europe» (2007) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1917487261 «WHY IS WAGE INFLATION IN BRITAIN SO HIGH?*» (1987) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2170775397 «Unemployment, Restructuring, and the Labor Market in Eastern Europe an» (1995) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2058605955 «Sick of work or too sick to work? Evidence on self-reported health sho» (2009) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2110864506 «Female labour market participation in Europe: novel evidence on trends» (2014) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2046577579 «Estimating Measurement Error in Annual Job Earnings: A Comparison of S» (2013) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2151093038 «Institutions versus market forces: Explaining the employment insecurit» (2011) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2003453493 «Public employment and labour market performance» (2002) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2141786694 «Incentives and selection in cyclical absenteeism» (2004) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2156932477 «Amoral Familism, Social Capital, or Trust? The Behavioural Foundations» (2015) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2058514713 «Corporatism and Unemployment in the 1980s and 1990s» (2002) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1966438704 «Unemployment and consumption near and far away from the Mediterranean» (2006) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2015548728 «A Model for a Binary Variable with Time-Censored Observations» (1977) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W3125301972 «Employee representation and financial leverage» (2017) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3024022508 «Incentive effects of workers' compensation insurance» (1990) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; sykefravær, uføre eller yrkesskade, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3122827403 «Losing Heart? The Effect of Job Displacement on Health» (2015) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2026773014 «Employment Protection Legislation, Multinational Firms, and Innovation» (2013) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2027975961 «Workers' Compensation: Benefit and Injury Claims Rates in the Seventie» (1983) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W1510048147 «Models for the Analysis of Labor Force Dynamics» (1982) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2118204108 «Taxation, Wage Bargaining, and Unemployment» (2006) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4234209822 «OECD Employment Outlook 2001» (2001) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1517499775 «The employment effects of job-creation schemes in Germany: A microecon» (2008) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2069089483 «Unemployment and Subjective Well-being» (2010) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2055538647 «Gross job flows and institutions in Europe» (2004) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2021523828 «Duration to First Job and the Return to Schooling: Estimates from a Se» (1995) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3122634326 «The Wealthy Hand-to-Mouth» (2014) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; pensjon eller tidligpensjon, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1524131274 «Unemployment and Mental Health: Some Evidence from Panel Data» (1985) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2152481174 «Institutional Determinants of Labor Reallocation in Transition» (2001) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2517599586 «The mortality effects of retirement: Evidence from Social Security eli» (2017) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3125178414 «The Cycle of Earnings Inequality: Evidence from Spanish Social Securit» (2016) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2101632882 «Retirement Behaviour in OECD Countries» (2004) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; pensjon eller tidligpensjon, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3124916405 «Does Employment Protection Inhibit Labor Market Flexibility? Lessons f» (1993) – Oppsigelsesvern og fleksibilitet. Gjelder tilpasning av sysselsetting og timer, ikke dagpenger.
+- OK   6 utelatt W1948366238 «What Drives the NAIRU? Evidence from a Panel of OECD Countries» (2008) – Landpanel for strukturell ledighet (NAIRU). Ikke identifikasjon av effekt av dagpengeperiode eller -nivå.
+- OK   6 utelatt W2733095170 «JOBSTART. Final Report on a Program for School Dropouts.» (1993) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W185773873 «REGIONAL ECONOMIC OUTLOOK» (2011) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1896287666 «Risks, Costs and Labour Markets: Explaining Cross‐National Patterns of» (2015) – Utfallet er stemmegivning på ytre høyre, ikke overgang til arbeid.
+- OK   6 utelatt W2038098345 «Social Support Substitution and the Earnings Rebound: Evidence from a » (2014) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; sykefravær, uføre eller yrkesskade, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2098112801 «Wage Inequality, Collective Bargaining, and Relative Employment from 1» (2000) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2799216980 «The New Jersey income-maintenance experiment» (1976) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W3121159220 «Is Workers' Compensation Covering Uninsured Medical Costs? Evidence fr» (1996) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1916488750 «Diffusion through Democracy» (2011) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1989522969 «Unemployment, Labour Markets and Structural Change in Eastern Europe» (1993) – Arbeidsmarkedet i Øst-Europa under overgangen, utviklingsland og overgangsøkonomier med ordninger i støpeskjeen.
+- OK   6 utelatt W3123043946 «What Attracts Human Capital? Understanding the Skill Composition of In» (2009) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1984459401 «Good Friends in Bad Times? Social Networks and Job Search among the Un» (2001) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2108346604 «Understanding International Differences in the Gender Pay Gap» (2012) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3122277864 «The Short- and Long-Term Career Effects of Graduating in a Recession: » (2008) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1979304860 «Downward wage rigidity and business cycle asymmetries» (2013) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2034609786 «Claims Reporting and Risk Bearing Moral Hazard in Workers' Compensatio» (1991) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2233253859 «Unemployment and labor market institutions: An empirical analysis» (2001) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4256327396 «Taxing work» (2006) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2116474622 «Does retirement age impact mortality?» (2013) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2113167645 «Linear Adjustment Costs and Seasonal Labor Demand: Evidence from Retai» (1993) – Erfaringsbasert premie og sesongbasert arbeidsetterspørsel. Gjelder arbeidsgivere, ikke ledige.
+- OK   6 utelatt W2146893662 «Testing for Hysteresis in Unemployment in OECD Countries: New Evidence» (2006) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1560629225 «The Receipt of Transfer Payments by Immigrants to Canada» (1995) – Innvandreres mottak av ytelser i Canada. Utfallet er mottak, ikke overgang til arbeid.
+- OK   6 utelatt W2041227816 «Neoliberalism, “Globalization,” Unemployment, Inequalities, and the We» (1998) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1977070178 «The Rehn-Meidner Model in Sweden: Its Rise, Challenges and Survival» (2010) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2037338439 «The Influence of Workers' Compensation on Safety Incentives» (1982) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2132570351 «Introduction to the Special Issue on Job Quality: What Does it Mean an» (2013) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2014541164 «Housing, mobility and unemployment» (2004) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2018635948 «Job search success and employability in local labor markets» (2006) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2044410473 «The Roaring Nineties: Can Full Employment Be Sustained?» (2003) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3123727685 «Trade‐related Job Loss and Wage Insurance: a Synthetic Review» (2004) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2005778648 «The employment effect of stricter rules for eligibility for DI: Eviden» (2008) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2061486249 «Government Size and Unemployment: Evidence from Industrial Countries» (2006) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1598700502 «Unemployment, vacancies and labour market programmes: Swedish evidence» (1991) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2076408974 «Job Protection: The Macho Hypothesis» (2006) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2095267656 «International Trade and Worker Displacement: Evaluation of the Trade A» (1995) – Handelsrelatert tilskuddsordning med opplæring i USA. Tiltaksevaluering, ikke dagpengeperiode eller -nivå.
+- OK   6 utelatt W4241645629 «Enforcement of Labour Regulation and the Labour Market Effects of Trad» (2021) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2160276648 «A SINGLE-INDEX QUANTILE REGRESSION MODEL AND ITS ESTIMATION» (2012) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2473126420 «INCOME INSTABILITY AND THE RESPONSE OF THE SAFETY NET» (2016) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W587950908 «The Czech Republic and Economic Transition in Eastern Europe» (1995) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2152307693 «Interactions between private and public sector wages» (2014) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2740537412 «Downward Nominal Wage Rigidity in the OECD» (2008) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1521490146 «Workers' Compensation Insurance and the Duration of Workplace Injuries» (1990) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; sykefravær, uføre eller yrkesskade, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1980508506 «The shape of hiring and separation costs in France» (2009) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1986047584 «Population ageing and the size of the welfare state: Is there a puzzle» (2006) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2080646843 «Current Unemployment, Historically Contemplated» (2002) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1972879044 «Sustainable social spending» (2006) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2111018099 «The use of quantile regression in health care research: a case study e» (2004) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3031178926 «The impact of collective bargaining on employment and wage inequality:» (2020) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3121612781 «UNEMPLOYMENT, HYSTERESIS AND TRANSITION» (2004) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1502448225 «Labour market institutions and unemployment in OECD countries» (2003) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2124150159 «Early Retirement and Post Retirement Health» (2014) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2510273308 «THE EFFECT OF UNEMPLOYMENT COMPENSATION ON THE RATE OF UNEMPLOYMENT IN» (1975) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W4205730306 «World Economic Outlook, October 2009: Sustaining the Recovery» (2009) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1501872023 «Generalised residuals and heterogeneous duration models» (1985) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2076972322 «Local Unemployment and the Relative Wages of Immigrants: Evidence from» (2006) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2024068463 «The Probability of Finding a Job» (2008) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2043887816 «Search for Nonwage Job Characteristics: A Test of the Reservation Wage» (1991) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1498972345 «The United States Labor Market: Status Quo or A New Normal?» (2012) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3082500741 «Monopsony in Movers» (2021) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2110482951 «SHORT‐TERM CONTRACTS REGULATIONS AND DYNAMIC LABOUR DEMAND: THEORY AND» (2007) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2151562549 «Labor market institutions and inflation volatility in the euro area» (2010) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1557286127 «Globalization and labor market institutions: International empirical e» (2013) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2164042611 «Reconciling Stability and Growth» (2003) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2186506799 «SOEPpapers on Multidisciplinary Panel Data Research» (2007) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2086993114 «Mismatch and labour mobility» (1992) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1528077301 «Increasing returns and spatial unemployment disparities» (2005) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2077177523 «The Uneven Pace of Deindustrialisation in the OECD» (2008) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2970315307 «Granular Search, Market Structure, and Wages» (2019) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2142967451 «How Society Shapes the Health Gradient: Work-Related Health Inequaliti» (2012) – Arbeidsrelaterte helseulikheter, utfallet er helse.
+- OK   6 utelatt W2258593812 «The asymmetrical impact of the economic crisis on unemployment and wel» (2015) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2573498147 «Mismatch and Labour Mobility» (1991) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3125510126 «The causal effect of retirement on mortality: Evidence from targeted i» (2017) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1972486509 «Retirement of spouses and social security reform» (1996) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; pensjon eller tidligpensjon, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2097878363 «Labor-Market Polarization over the Business Cycle» (2015) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2027524525 «Employment protection under fire: Labour market deregulation and emplo» (2013) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2184396650 «WORLD DEVELOPMENT REPORT 2007» (2007) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3027321141 «Corporate Hiring under COVID-19: Labor Market Concentration, Downskill» (2020) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1856545496 «Would cutting payroll taxes on the unskilled have a significant impact» (1997) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2007810517 «Recessions, Job Loss, and Mortality Among Older US Adults» (2014) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2796903852 «Payroll Taxes and Wage Inflation: The Swedish Experience» (1983) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W1753810538 «Work-sharing for a sustainable economy» (2015) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W607044432 «Unemployment and the Australian labour market» (1998) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3044358124 «Career breaks, broken pensions? Long-run effects of early and late-car» (2020) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3121133512 «An Overview of the Issue» (2004) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2061065221 «Les méthodes micro-économétriques d'évaluation et leurs applications a» (2007) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2097790348 «The Internationalisation of Public Welfare Policy» (2005) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; pensjon eller tidligpensjon, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2164634630 «Keeping nurses at work: a duration analysis» (2002) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2165165578 «Entrepreneurship and labor market institutions» (2005) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1826708385 «Evaluating profiling as a means of allocating government services» (2001) – Statistisk profilering for tildeling av tjenester. Tiltak, ikke dagpengeperiode eller -nivå.
+- OK   6 utelatt W2479999533 «Full time or part time? German parental leave policy and the return to» (2004) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3125202808 «Monetary union and economic growth» (2001) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1969794139 «Institutions, Technical Change, and Diverging Life Chances: Earnings M» (1996) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2142278248 «“I Want to, But I Also Need to”: Start-Ups Resulting from Opportunity » (2019) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3012322026 «Regulating in Pandemic: Evaluating Economic and Financial Policy Respo» (2020) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2034717350 «Youth labour market performance in European regions» (2009) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2159417294 «Increasing Earnings Inequality and Unemployment in Developed Countries» (2002) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3021810632 «The Impact of Worker and Establishment‐level Characteristics on Male–F» (2005) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W114051671 «Quantile Regression: Overview and Selected Applications ∗» (2004) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2162615070 «Distributional impacts of the Self-Sufficiency Project» (2007) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2033600252 «Match efficiency and firms' hiring standards» (2013) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2054573808 «Wage settlements and wage setting: results from a multi-level model» (2005) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2080434957 «Social Security Reform in Turkey: A Critical Perspective» (2008) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2035053758 «Structural reforms in Europe and the (in)coherence of institutions» (2009) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2085021611 «European Unemployment and Turbulence Revisited in a Matching Model» (2004) – Kalibrert matchingmodell for turbulens og ledighet, uten empirisk identifikasjon fra reformer.
+- OK   6 utelatt W2891002786 «The Establishment-Level Behavior of Vacancies and Hiring» (2010) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W13095619 «Institutional Determinants of Unemployment in OECD Countries: A Time S» (2005) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2092497689 «Monetary regimes and the co-ordination of wage setting» (2003) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2086585053 «An Analysis of Frequency and Duration of Search on the Internet» (2004) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2157254413 «Nonparametric bounds on employment and income effects of continuous vo» (1999) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2171686500 «The Employment Effects of Labor and Product Market Deregulation and Th» (2007) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3125614443 «Comparing the Effectiveness of Employment Subsidies» (2006) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2110580158 «Credit constraints and the persistence of unemployment» (2010) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2133461155 «Wage Flexibility and Labour Market Institutions: A Meta‐Analysis» (2007) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2954465613 «What’s the Damage? Medium-term Output Dynamics After Banking Crises» (2009) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1992296286 «The Effect of Unions on the Receipt of Unemployment Insurance Benefits» (1997) – Fagforeningers effekt på mottak av ytelse. Utfallet er uttak av ytelsen, ikke overgang til arbeid.
+- OK   6 utelatt W2039794947 «Season of birth, schooling and earnings» (2001) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2066305185 «Economic Freedom, Human Rights, and the Returns to Human Capital: An E» (2012) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2035032802 «Is there an equilibrium rate of unemployment in the long run?» (2004) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2415046224 «Employment Protection Legislation and the Youth Labour Market» (2015) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2946417514 «Weaker jobs, weaker innovation. Exploring the effects of temporary emp» (2019) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1484910871 «Workers' compensation: coverage, benefits, and costs, 1985.» (1988) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2471713571 «Dualization and subjective employment insecurity: Explaining the subje» (2016) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4248992311 «Labor markets and business cycles» (2009) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2167309780 «Modernizing the European Social Model: Developing the Guidelines» (2001) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2183095247 «Mostly on Monday: Is Workers’ Compensation Covering Off-the-Job Injuri» (1990) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; sykefravær, uføre eller yrkesskade, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3123498111 «Do Government Purchases Affect Unemployment?» (2016) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2095220474 «Mobility and innovation: A cross-country comparison in the video games» (2014) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1503805885 «Macroeconomic Theory and Economic Policy» (2004) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1558703972 «Economic growth and the labor markets: Europe's challenge» (2000) – Gjennomgang av europeisk ledighet og institusjoner. Bred oversikt uten identifikasjon av dagpengeperiodens effekt.
+- OK   6 utelatt W2053332181 «Minimum Wages, Labor Market Institutions, and Youth Employment: A Cros» (2003) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2260735420 «Product market competition, investment and employment-abundant versus » (2007) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1551131505 «Do Fixed-Term Contracts Increase the Long-Term Employment Opportunitie» (2003) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2109395646 «Government size, institutions, and export performance among OECD econo» (2015) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2505477141 «Drivers and effects of labour market reforms: Evidence from a novel po» (2016) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3165580663 «Explaining Wage Losses After Job Displacement: Employer Size and Lost » (2021) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2021507900 «Fractional Integration and the Dynamics of UK Unemployment*» (2003) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2236762833 «Cumulative disadvantages of non-employment and non-standard work for c» (2016) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3123709265 «Institutions, public debt and growth in Europe» (2017) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2077412765 «The role of worker flows in the dynamics and distribution of UK unempl» (2011) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2110940480 «Macroeconomic Performance in the Bretton Woods Era and After» (2002) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2475984165 «Strengths and Weaknesses of ‘Weak’ Coordination: Economic Institutions» (2007) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3106043496 «Ageing of routine jobs in Europe» (2017) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1899443305 «Wage norms, capital accumulation, and unemployment: a post-Keynesian v» (2011) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2132922064 «User Cost Changes, Unemployment and Home-ownership: Evidence from Spai» (2004) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2556452791 «What drives unemployment disparities in European regions? A dynamic sp» (2016) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2056392059 «Better Off Jobless? Scarring Effects of Contingent Employment in Japan» (2012) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2073357525 «Low-skill jobs or jobs for low-skilled workers? An analysis of the ins» (2015) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2325663933 «Business and the development of job security regulations: the case of » (2011) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2142545462 «SOME MICRO EVIDENCE ON UNEMPLOYMENT PERSISTENCE*» (1991) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3122590432 «EUROPEAN WOMEN WHY DO(N’T) THEY WORK? 1» (2005) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2062510012 «Why Does Trend Growth Affect Equilibrium Employment? A New Explanation» (2012) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2082944005 «The Impact of Financial Crises on Female Labour» (2012) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2344740614 «Decomposing Beveridge Curve Dynamics By Correlated Unobserved Componen» (2016) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1981252394 «Unemployment and native language: the Finnish case» (2003) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W201154053 «Chapter 13 Income maintenance and social insurance» (1987) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2074523335 «Labor courts, nomination bias, and unemployment in Germany» (2011) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2116522977 «Where did they go? Modelling transitions out of jobs» (2006) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2589657675 «At the Root of the North–South Cooperation Gap in Italy: Preferences o» (2018) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1587380823 «Compensation for Permanent Impairment and the Duration of Work Absence» (1994) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2152821508 «Employment 'Miracles' : A Critical Comparison of the Dutch, Scandinavi» (2005) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2153371876 «Unemployment dynamics and NAIRU estimates for accession countries: A u» (2005) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2953814019 «Inequality and Poverty across Generations in the European Union» (2018) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3121999529 «Identification of Lagged Duration Dependence in Multiple-Spell Competi» (2009) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2030095761 «Sectoral labour market effects of the 2006 FIFA World Cup» (2012) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2031243513 «Incidence and duration of unemployment in Romania» (1996) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2126097407 «Wage curve, unemployment duration and compensating differentials» (1996) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2112887490 «Towards a gendering of the labour market regulation debate» (2011) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1492636238 «A life-cycle model of trans-Atlantic employment experiences» (2016) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1528865495 «Social Capital and Unemployment: A Macro-Quantitative Analysis of the » (2011) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1978683344 «Low pay persistence in Europe» (2013) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2063504500 «Risk attitudes and reservation wages of unemployed workers: Evidence f» (2009) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2402260716 «On the causes of declines in the labor force participation rate» (2014) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3123147232 «To Study or to Work?» (2012) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3125076860 «Tax evasion and work in the underground sector» (2004) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3126103498 «Unemployment Dynamics in the OECD» (2011) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4301937336 «Simulating Workplace Safety Policy» (1995) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2978808420 «Reducing unemployment? Examining the interplay between active labour m» (2020) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1496867220 «Doğal İşsizlik Oranı mı İşsizlik Histerisi mi Türkiye İçin Sektörel Pa» (2011) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1993873081 «Market, Family, and State Sources of Income Instability in Germany and» (2000) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2105342775 «Employment, productivity and output growth» (2002) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2281870155 «Why labour market regulation may pay off : worker motivation, co-ordin» (2007) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1508400112 «Unemployment in Germany: Reasons and Remedies» (2006) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2065901422 «Labour market reforms and economic growth – the European experience in» (2005) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2164093731 «Unemployment Hysteresis in Transition Countries: Evidence using Statio» (2008) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2460991187 «Youth unemployment in Italy and Russia: Aggregate trends and individua» (2016) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2037153417 «The Spanish Labor Market in a Cross-Country Perspective» (2011) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2103492469 «Does public‐sector employment fully crowd out private‐sector employmen» (2019) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2110681829 «Not Perfect, but Still Pretty Good: The EITC and Other Policies to Sup» (2000) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2954626165 «Does Public-Sector Employment Fully Crowd Out Private-Sector Employmen» (2013) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2087124281 «Unemployment in the OECD» (2011) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1979077983 «Does employment protection help immigrants? Evidence from European lab» (2011) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1993694033 «UNEMPLOYMENT, GROWTH, AND FISCAL POLICY: NEW INSIGHTS ON THE HYSTERESI» (2006) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2066314985 «Referral hiring, endogenous social networks, and inequality: an agent-» (2011) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2114683720 «Employment and growth in Europe and the US—the role of fiscal policy c» (2008) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2171607433 «Partisanship, political constraints, and employment protection reforms» (2012) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2181869342 «REGULATION, ALLOCATIVE EFFICIENCY AND PRODUCTIVITY IN OECD COUNTRIES: » (2008) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3124093172 «Equilibrium unemployment with outsourcing and wage solidarity under la» (2009) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2011876522 «An experimental investigation of wage taxation and unemployment in clo» (2006) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2045251809 «Unionized labor market and licensing by a monopolist» (2007) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2049469183 «Protection sociale et solidarité en France» (2007) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2054156283 «Quality of Financial Policies and Financial System Stress» (2005) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2107359920 «Coverage and Recipiency: Trends and Effects» (1997) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3036935507 «Robust political economy correlates of major product and labor market » (2020) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3121524922 «Sharing the Burden: Empirical Evidence on Corporate Tax Incidence» (2011) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4230905935 «The Employers' Costs of Workers' Compensation Insurance: Magnitudes, D» (1990) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; sykefravær, uføre eller yrkesskade, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1575365089 «Back to Work: Testing Reemployment Services for Displaced Workers» (1990) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1603372031 «Reforms, macroeconomic policy and economic performance in Germany» (2008) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1994839351 «Regional mismatch and unemployment: theory and evidence from Italy, 19» (2005) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2025701824 «Simulating Workplace Safety Policy» (1998) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; sykefravær, uføre eller yrkesskade, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2050965715 «TRADE UNIONS, UNEMPLOYMENT, ECONOMIC GROWTH, AND INCOME INEQUALITY» (2014) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2077599413 «On the persistence of Spanish unemployment rates» (2007) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2937955055 «Do Local Institutions Affect Labour Market Participation? The Italian » (2019) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3124801070 «WHAT CAN CHANGES IN STRUCTURAL FACTORS TELL US ABOUT UNEMPLOYMENT IN E» (2005) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4249513871 «Labour market resilience: The role of structural and macroeconomic pol» (2017) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2128893058 «Policy paradigms and cross-national policy (mis)learning from the Dani» (2002) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2243388861 «Unions and Income Inequality: A Heterogeneous Panel Co‐integration and» (2016) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2322299367 «Sustainable Public Debt and Economic Growth under Wage Rigidity» (2012) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W265539681 «Adjustment in Euro Area Deficit Countries» (2014) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2766128240 «Economic Competition, Policy Interdependence, and Labour Rights» (2017) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2777159199 «Job Protection Deregulation in Good and Bad Times» (2017) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2914042568 «What Can We Learn from Online Wage Postings? Evidence from Glassdoor» (2018) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2050425335 «A comparative analysis of paid leave for the health needs of workers a» (2006) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2072241959 «Unemployment Dynamics in Britain» (2005) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2996176274 «Employment protection and labor market results in Europe» (2019) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3023812000 «How do Regulated and Unregulated Labor Markets Respond to Shocks? Evid» (2018) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3125402589 «The Reservation Wage of Unemployed Persons in the Federal Republic of » (1982) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W1988966630 «Pension reform, employment by age, and long-run growth» (2012) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; pensjon eller tidligpensjon, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2032980789 «Does Regulation in Credit, Labour and Business Matter for Bank Perform» (2013) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2114148674 «What Have We Learned about the Employment Effects of Severance Pay? Fu» (2005) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2266265875 «Detecting unemployment hysteresis: A simultaneous unobserved component» (2016) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2314320445 «The end of the honeymoon: The increasing differentiation of (long-term» (2015) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; sykefravær, uføre eller yrkesskade, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2085316628 «How Flexible are Labour Markets in the EU Accession Countries Poland, » (2004) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2011190263 «Labour Market Institutions and Labour Market Performance in Transition» (2005) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2015081882 «WHY DO EUROPEANS WORK (MUCH) LESS? IT IS TAXES AND GOVERNMENT SPENDING» (2007) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2166302475 «Trade Union Density and Inflation Performance: Evidence from OECD Pane» (2006) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2588130461 «Risk aversion and job mobility» (2019) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W27929316 «Employment protection legislation and firm growth: evidence from a nat» (2016) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4384273937 «Does employment protection legislation affect employment and unemploym» (2023) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1501278725 «Inequality and Employment in a Dual Economy» (2007) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1989771309 «Markets and politics: the Swedish urban–rural wage gap, 1865–1985» (2014) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2078363461 «Structural and reduced approaches of the equilibrium rate of unemploym» (2006) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2156890986 «Relied upon for the heavy lifting: can employment protection legislati» (2015) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3159375168 «Staying Down with the Joneses: Differences in the Psychological Cost o» (2021) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3207685577 «Hit Harder, Recover Slower? Unequal Employment Effects of the COVID-19» (2021) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1540143328 «Amerisclerosis?: The Puzzle of Rising U.S. Unemployment Persistence» (2013) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; sykefravær, uføre eller yrkesskade, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1550270091 «Monetary Policy and Unemployment» (2004) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2141325284 «Household Saving Rates and the Design of Public Pension Programmes: Cr» (2006) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; pensjon eller tidligpensjon, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2894083957 «La Garantie européenne pour la jeunesse» (2018) – Evaluering av ungdomsgarantien. Tiltak, ikke dagpengeperiode eller -nivå.
+- OK   6 utelatt W2943397971 «Parental Unemployment and the Transition into Tertiary Education: Can » (2019) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3124901803 «The effect of Teach for America on the distribution of student achieve» (2013) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3125369502 «Evaluating the Persistence and Structuralist Theories of Unemployment » (2001) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1850323893 «A uguale lavoro,paghe diverse.Differenziali salariali e lavoro a termi» (2010) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2024321175 «The effects of age and job protection on the welfare costs of inflatio» (2009) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2061458597 «The ins and outs of German unemployment: a transatlantic perspective» (2015) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2069992490 «Labor market flexibility: An index approach to cross-country compariso» (2004) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2518881792 «Strategic Fiscal Revaluation or Devaluation: Why Does the Labor Wedge » (2014) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3216001806 «Social origin and secondary labour market entry: Ascriptive and instit» (2021) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1550072899 «Sysselsetting og trygd under arbeidslinja» (2014) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1570999269 «Les indicateurs de protection de l’emploi : la mesure du droit du trav» (2006) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2051873085 «Dismissal protection and small firms’ hirings: evidence from a policy » (2011) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2171995521 «A Positive Analysis of Targeted Employment Protection Legislation» (2007) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3021565608 «Employment and taxes in Latin America: An empirical study of the effec» (2015) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3122347336 «Labour‐market Institutions and Macroeconomic Shocks» (2003) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3124264395 «Determinants of entrepreneurship: are women different?» (2023) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4313353936 «Labor Market Institutions and Demographic Employment Patterns» (2022) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1516695186 «WHO BENEFITS FROM JOB CORPS? A DISTRIBUTIONAL ANALYSIS OF AN ACTIVE LA» (2013) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1591260952 «GENDER DIFFERENCES IN EXIT RATES FROM UNEMPLOYMENT: EVIDENCE FROM A LO» (2000) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1973544044 «A Fairer Deal for America's Workers in a New Era of Offshoring» (2005) – Politikkforslag om utkontraktering og forsikring i USA, ingen effektanalyse.
+- OK   6 utelatt W1994387875 «The determinants of unemployment and jobsearch duration in The Netherl» (1994) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2005745601 «Labor Market Reforms: The Evidence Does Not Tell the Orthodox Tale» (2006) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2043031352 «INACTIVITY AND LABOUR MARKET ATTACHMENT IN BRITAIN» (2007) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; sykefravær, uføre eller yrkesskade, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2954215176 «The Unbearable Stability of the German Wage Structure» (2000) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3125356892 «PUBLIC DEBT AND PUBLIC INVESTMENT IN AN ENDOGENOUS GROWTH MODEL WITH R» (2009) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4312072074 «Social spending and chronic unemployment: evidence from OECD countries» (2022) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1908969935 «Beschäftigungsordnungen zwischen Exklusion und Inklusion / Employment » (2004) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2027872246 «The Modigliani ‘puzzle’» (2002) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2140989402 «Estimating the effect of a retraining program on the re-employment rat» (2010) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2162324463 «Risk and farm operator labour supply» (2006) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2896783030 «Unemployment in the Czech and Slovak Republics» (1995) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1510260542 «Berufliche Weiterbildung und individuelle Arbeitslosigkeitsdauer in We» (2003) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1583915132 «L'apport des expérimentations dans l'évaluation de l'impact des dispos» (2009) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1978442790 «THE EFFECTS OF SECONDARY SCHOOL QUALITY ON THE DISTRIBUTION OF EARNING» (2002) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2046589936 «‘Klin’-ing up: Effects of Polish tax reforms on those in and on those » (2009) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2072269292 «Search costs and efficiency: Do unemployed workers search enough?» (2015) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2071964293 «Labour market flows and adjustment to macroeconomic shocks in the Balt» (2004) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2121576461 «Structural Change and Labour Reallocation Across Regions: A Review of » (2010) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2770413921 «Determining Influencing Factors of Unemployment in Turkey with MARS Me» (2017) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3122096336 «Unemployment in East and West Europe» (2007) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2094842650 «How to quickly get a job? The transition from higher education to Fren» (2010) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2766983232 «A Schumpeterian model of investment and innovation with labor market r» (2017) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2891295953 «Trade and Labor-Market Outcomes» (2013) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3162839958 «Public Pensions and Private Savings» (2024) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; pensjon eller tidligpensjon, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1985661099 «Houses and/or Jobs: Ownership and the Labour Market in Belgian Distric» (2013) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2051728284 «Rising Inequality in an Era of Austerity: The Case of the US» (2012) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2063207479 «Macroeconomic volatilities and the labor market: First results from th» (2010) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2083338022 «Full employment: a distant dream for Europe» (2013) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; pensjon eller tidligpensjon, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2096656657 «HOUSEHOLD FORMATION, POVERTY AND UNEMPLOYMENT — THE CASE OF RURAL HOUS» (2004) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2168213950 «Unemployment: natural rate epicycles or hysteresis?*» (2014) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3022232078 «Economic integration and labor market institutions: Worker mobility, e» (2006) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3023718309 «Decomposing the Ins and Outs of Cyclical Unemployment» (2016) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3122107907 «Semi‐parametric estimation of consumption‐based equivalence scales: th» (2006) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4320492248 «How much his or her job loss influences fertility: A couple approach» (2023) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W637674140 «Labor market institutions and public regulation» (2004) – Redigert bok om regulering av arbeidsmarkedet, ikke avgrenset effektstudie av dagpengeperiode eller -nivå.
+- OK   6 utelatt W1570387302 «The Canada-US Unemployment Rate Gap: An Introduction and Overview» (1998) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1951517661 «Where Do Unions Add Value? Predominant Organizing Principle, Union Str» (2012) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1971317221 «Labour market flexibility and spatial mobility» (2014) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2068061037 «Reforming Employment Protection Legislation in France» (2006) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2130389851 «A Stock–Flow Matching Approach to Evaluation of Public Training Progra» (2007) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2142508957 «UNION POWER, COLLECTIVE BARGAINING, AND OPTIMAL MONETARY POLICY» (2012) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2337820533 «Unionization, market structure, and economic growth» (2016) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W107421778 «The impact of temporary employment and employment protection on labour» (2013) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1906296084 «Introduction: EMU and the European social model» (2004) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1995947457 «Moral Hazard in the French Workers' Compensation System» (1998) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; sykefravær, uføre eller yrkesskade, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2033421910 «Labour Market Flexibility in the UK: Regional Variations and the Role » (2005) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2141429265 «On the potential interaction between labour market institutions and im» (2015) – Utfallet er innvandringsstrømmer, ikke overgang til arbeid.
+- OK   6 utelatt W2288771194 «The Geography of the Euro Crisis: The ECB, Its Institutional Form, Fun» (2014) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2914315780 «Unemployment sequences and the risk of poverty: from counting duration» (2019) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3124895869 «GLOBAL BAHADUR REPRESENTATION FOR NONPARAMETRIC CENSORED REGRESSION QU» (2013) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4308260779 «Public finance in the era of the COVID-19 crisis» (2022) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4386857371 «Education, skills, and duration of unemployment in Ghana» (2023) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1563702881 «Welfare reform in the shadow of EMU» (2004) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2065543130 «How an export boom affects unemployment» (2012) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2091347855 «Re-examining the risk–return relationship in banks using quantile regr» (2010) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2128992486 «Immigration and careers of European workers: effects and the role of p» (2013) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2169774406 «The Capital Stock and Equilibrium Unemployment: A New Theoretical Pers» (2004) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2171319278 «Unions and the Duration of Workers’ Compensation Claims» (2005) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; sykefravær, uføre eller yrkesskade, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1561301900 «Wie wirkt der Kündigungsschutz» (2005) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2041857189 «A living standards approach to public policy making» (2012) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2170392108 «DOES EMPLOYMENT PROTECTION CREATE ITS OWN POLITICAL SUPPORT?» (2012) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2777194126 «Complementarities between Labour Market Institutions and their Causal » (2020) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2800943301 «Conceptual foundations for understanding inequality in participation i» (2018) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3125313493 «Levelling the Playing Field: The Effects of Slovenia’s 2013 Labour Mar» (2019) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1548964033 «Die Politische Ökonomie der Arbeitslosigkeit» (2003) – Bokkapittel om politisk økonomi bak ledighet, uten egen empirisk effektanalyse.
+- OK   6 utelatt W2096356715 «Variable Search Intensity with Coordination Unemployment» (2010) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2232934890 «The Evidence-Based Case for Labour Regulation» (2011) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2027098335 «Banking deregulation around the world, 1970s to 2000s: The impact on u» (2012) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2121219683 «Labor markets and labor market institutions in transition economies» (2011) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2505087075 «Shaping a polity in an economic and monetary union: the EU in comparat» (2004) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2559199847 «Can welfare and labour market regimes explain cross‐country difference» (2016) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2598200684 «The puzzle of older workers’ employment: distance to retirement and he» (2017) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3123170635 «Job protection laws and agency problems under asymmetric information» (2004) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W57671454 «EXPERIMENTAL EVIDENCE ON THE USE OF EARNINGS SUPPLEMENTS AS A STRATEGY» (2000) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1612106274 «Structural Reforms and Labour‐market Outcomes: International Panel‐dat» (2015) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2228482855 «Longitudinal Data from Social Security Records in Austria» (2003) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2810000433 «Individual results may vary: Inequality-probability bounds for some he» (2018) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W12523367 «Economic freedom and unemployment» (2010) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2059425631 «The Impact of Wage‐Setting Institutions on the Incidence of Public Emp» (2008) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2399533626 «The Wage Inflation‐Unemployment Curve at the Macroeconomic Level» (2016) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2504841711 «Monetary integration and the French model» (2004) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3111079679 «Reforms of collective bargaining institutions in European Union countr» (2021) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4366772595 «Verfestigung von Armut und die zunehmende Bedeutung von Pfadabhängigke» (2023) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4407252611 «Understanding the dynamics of financial and economic crises: a compreh» (2025) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1981410426 «Marchés du travail, crise financière et réforme : projet d'agenda pour» (2012) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2181746622 «European Data Watch» (2003) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2326467473 «Varieties of Wage Mobility in Early Career in Europe» (2015) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3121507817 «Long-term unemployment and the Great Recession: Evidence from UK Stock» (2016) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2145538957 «Institutions, chômage et inactivité dans les pays de l'ocde» (2007) – Landpanel for ledighet og inaktivitet. Ikke identifikasjon av dagpengeperiode eller -nivå på overgang.
+- OK   6 utelatt W2185982255 «Persistence, survival and growth: A closer look at 20 years of high gr» (2011) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4409591639 «Labour Reforms and Growth in Manufacturing Employment in India» (2025) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1486996631 «Modell i förändring Landrapport om Sverige» (2014) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1698374104 «Do labor market rigidities matter for business cycles? Yes they do» (2009) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2019911830 «Unemployment and relative labor market institutions between trading pa» (2010) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2019955775 «Australian Labour Market Institutions, ‘Deregulation’ and the Open Eco» (1999) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2154969428 «Arbeidsflexibiliteit en ontslagrecht» (2007) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2498521492 «EMU and German welfare capitalism» (2004) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; sykefravær, uføre eller yrkesskade, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2976486858 «Do trustful labor–management relations enhance innovation? Evidence fr» (2019) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4214546117 «Services: Statistics on Value Added and Employment 2000» (2000) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4382355792 «Boosting work through welfare? Individual-level employment outcomes of» (2023) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W7116901817 «Unemployment impact of network sectors and employment protection legis» (2025) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2002818974 «The NAIRU, Demand and Technology» (2009) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2098488304 «Integration into the South African core economy: household‐level covar» (2004) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2616716582 «Employment, wage structure, and the economic cycle: differences betwee» (2006) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4387876422 «Spatial spillovers and the effects of fiscal stimulus: evidence from p» (2023) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W7106149970 «OECD Economic Surveys: Spain 2025» (2025) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; pensjon eller tidligpensjon, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2838757295 «Are Labour Market Reforms the Answer to Post-Euro Crisis Management? R» (2019) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4411778325 «Türkiye’de Bölgesel ve Demografik Dinamikler Çerçevesinde Uzun Süreli » (2025) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1988476149 «Statut résidentiel et retour à l'emploi dans un modèle à agents hétéro» (2010) – Boligstatus og retur til arbeid. Ikke dagpenger.
+- OK   6 utelatt W4399765282 «What Do Labour Economics and Industrial Relations Have to Say to Each » (2023) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W7124448175 «Ethical Leadership in the 21st Century» (2026) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1992139232 «John Kenneth Galbraith, 1908-2006» (2006) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2474379616 «From security ‘beyond employment’ to security ‘in employment’» (2016) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4409054007 «Work organization, gender and workforce transition to non-employment i» (2025) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W7167684108 «Arbeitsmarktpolitik in Ost-Mitteleuropa» (1999) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4405716027 «Short-Time Work» (2024) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4414431552 «Labor Market Institutions and Social Inequality» (2025) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1968365008 «The Far-Reaching Impact of Job Loss and Unemployment» (2015) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1605552950 «NONPARAMETRIC BOUNDS ON TREATMENT EFFECTS» (1989) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2003804307 «The Role of Social Work Norms in Job Searching and Subjective Well-Bei» (2004) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2171373343 «Insecure Alliances: Risk, Inequality, and Support for the Welfare Stat» (2012) – Støtte til velferdsstaten og risiko. Utfallet er holdninger.
+- OK   6 utelatt W2099096826 «The LEHD Infrastructure Files and The Creation of The Quarterly Workfo» (2009) – Beskrivelse av datainfrastruktur (LEHD), ingen effektanalyse.
+- OK   6 utelatt W2166193240 «Factors influencing the psychological impact of prolonged unemployment» (1985) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2333961940 «Unemployment, Reemployment, and Emotional Functioning in a Community S» (1989) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2886618853 «Unemployment and social exclusion» (2019) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2104017240 «Understanding unemployed people's job search behaviour, unemployment e» (2005) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2126209815 «The ‘why’ and ‘why not’ of job search behaviour: their relation to sea» (2004) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2162164252 «Decommodification and activation in social democratic policy: resolvin» (2008) – Teoretisk og politisk drøfting av avmarkedsgjøring og aktivering, uten egen empirisk effektanalyse.
+- OK   6 utelatt W2021625978 «Job Displacement and Earnings Loss: Evidence from the Displaced Worker» (1987) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2123464116 «Tenure, Experience, Human Capital, and Wages: A Tractable Equilibrium » (2014) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W10793909 «Political Institutions, Veto Points, and the Process of Welfare State » (2001) – Politiske institusjoner og velferdsnedbygging. Utfallet er politikkendring, ikke overgang til arbeid.
+- OK   6 utelatt W2103370464 «Are Homeowners Really More Unemployed?» (2006) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2131797438 «The web of coping resources and pathways to reemployment following a j» (2002) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W344077494 «The Effect of Employment Status Change on Self-Attitudes» (1978) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2480673475 «Firms and the Welfare State: When, Why, and How Does Social Policy Mat» (2001) – Arbeidsgiveres støtte til sosialforsikring, politisk analyse uten effekt på overgang.
+- OK   6 utelatt W2796031338 «Unemployment and Macroeconomics» (1994) – Lærebok om makroøkonomi og ledighet (Lindbeck), teoretisk framstilling uten avgrenset empirisk effektstudie.
+- OK   6 utelatt W2160615331 «The Distribution of Earnings in an Equilibrium Search Model with State» (2002) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2913960133 «Understanding the Scarring Effect of Recessions» (2022) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1502115441 «JOB LOSS IN THE UNITED STATES, 1981–2001» (2003) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2021329679 «Relation of job search and choice process with subsequent satisfaction» (2004) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2003482256 «After the Pink Slip: Applying Dynamic Motivation Frameworks to the Job» (2012) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2004482975 «The Macrodynamics of Sorting between Workers and Firms» (2017) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2025136454 «Erosion of the Ghent System and Union Membership Decline: Lessons from» (2006) – Fagforeningsmedlemskap og Ghent-systemet i Finland. Utfallet er organisasjonsgrad, ikke overgang til arbeid.
+- OK   6 utelatt W1491159179 «On-the-job search» (1994) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3123910597 «Job Displacement and the Duration of Joblessness: The Role of Spatial » (2017) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1996561910 «Search, Layoffs, and Labor Market Equilibrium» (1980) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W3081450537 «Income and Poverty in the COVID-19 Pandemic» (2020) – Inntekt og fattigdom under covid, ikke overgang til arbeid.
+- OK   6 utelatt W1482488106 «An Evaluation of the Swedish Active Labor Market Policy: New and Recei» (1994) – Evaluering av svensk tiltakspolitikk. Tiltak og offentlig sysselsetting, ikke dagpengeperiode eller -nivå.
+- OK   6 utelatt W2783148765 «Does Unemployment Matter? Economic Insecurity, Labour Market Policies » (2018) – Utfallet er stemmegivning på ytre høyre, ikke overgang til arbeid.
+- OK   6 utelatt W3124880687 «The Unemployment Impact of Immigration in OECD Countries» (2007) – Utfallet er innvandringens effekt på innfødtes ledighet, ikke dagpenger.
+- OK   6 utelatt W1976515821 «Attrition in longitudinal panel data and the empirical analysis of dyn» (1994) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2957874988 «The social stigma of unemployment: consequences of stigma consciousnes» (2019) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4307292943 «Job Search and Hiring with Limited Information about Workseekers’ Skil» (2022) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2505563890 «Active labour market policy and social investment: a changing relation» (2011) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2983449505 «A POSITIVE THEORY OF GEOGRAPHIC MOBILITY AND SOCIAL INSURANCE*» (2005) – Teoretisk modell for geografisk mobilitet og ledighetsforsikring, uten empiri.
+- OK   6 utelatt W2109382642 «Subsampling Inference on Quantile Regression Processes» (2005) – Statistisk metodeartikkel om kvantilregresjon, ikke dagpenger.
+- OK   6 utelatt W4302340789 «Wage Risk and Employment Risk over the Life Cycle» (2009) – Arbeidsnotat av livssyklusmodell for lønns- og sysselsettingsrisiko. Dagpenger er bare ett av flere programmer.
+- OK   6 utelatt W2134408580 «The Effects of Welfare‐to‐Work Program Activities on Labor Market Outc» (2006) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2089461542 «Poverty in Canada and the United States: measurement, trends, and impl» (2000) – Fattigdom i Canada og USA. Utfallet er fattigdom, ikke overgang til arbeid.
+- OK   6 utelatt W2242011103 «Don’t worry, be happy? Happiness and reemployment» (2013) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2142635522 «Social Capital Activation and Job Searching: Embedding the Use of Weak» (2014) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3125746062 «Job Search, Bargaining, and Wage Dynamics» (2010) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1979631869 «A Prescription to Relieve Worker Anxiety» (2001) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1519810372 «Unemployment in the Soviet Union: Evidence from the Soviet Interview P» (1988) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W3124312408 «Quick Job Entry or Long-Term Human Capital Development? The Dynamic Ef» (2012) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W561175588 «The Economics of Search» (2007) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1490112111 «Changes in the Wage Structure during Economic Transition in Central an» (1996) – Lønnsstruktur i Sentral- og Øst-Europa under overgangen, overgangsøkonomi uten dagpengeeffekt.
+- OK   6 utelatt W1595457953 «Wage bargaining, unemployment and growth» (1999) – Teoretisk modell for lønnsforhandling, ledighet og vekst, uten empiri.
+- OK   6 utelatt W2097257594 «Wage discrimination over the business cycle» (2013) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1988521126 «The Youth Labour Market in Australia*» (1987) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W3033832890 «The rise of US earnings inequality: Does the cycle drive the trend?» (2020) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1583630902 «Who Pays for the “Welfare” in the Welfare State?: A Multicountry Study» (2003) – Gjennomgang av velferdsstatens kostnader og vekst på tvers av land. Ikke dagpengeperiode og overgang til arbeid.
+- OK   6 utelatt W2163771944 «Why Do Unemployed Americans Blame Themselves While Israelis Blame the » (2013) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1526519802 «Protecting Against Labour Market Risk: Employment Protection or Unempl» (2003) – Arbeidsnotat uten sammendrag om oppsigelsesvern mot dagpenger som risikobeskyttelse. Ingen identifisert effekt på overgang til arbeid.
+- OK   6 utelatt W2140527515 «Giving up Job Search during a Recession: The Impact of the Global Fina» (2012) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1487481722 «On-the-job search in a labor market model» (1989) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2914610306 «Employment inequality: Why do the low-skilled work less now?» (2020) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2325386639 «Book Review: Social Insurance and Employee Welfare: Unemployment Insur» (1967) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2014656567 «Implications of dataset choice in comparative welfare state research» (2013) – Metodediskusjon om datasett for erstatningsgrader i velferdsstatsforskning, ingen effektanalyse.
+- OK   6 utelatt W2018288111 «Activation or discouragement—the effect of enforced participation on t» (2005) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2094267785 «Real Wages and Unemployment in Australia» (1991) – Makromodell for reallønn og ledighet i Australia. Ikke identifikasjon av periode eller nivå på overgang.
+- OK   6 utelatt W2053950188 «DOES TRADE ADJUSTMENT ASSISTANCE HELP TRADE‐DISPLACED WORKERS?» (2001) – Handelsrelatert tilskuddsordning med opplæring i USA. Tiltaksevaluering, ikke dagpengeperiode eller -nivå.
+- OK   6 utelatt W4386618539 «Machine Learning Ensemble Modelling for Predicting Unemployment Durati» (2023) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2046846059 «Unemployment duration and earnings of re-employed workers in urban Chi» (2006) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2074591133 «Social Insurance and Economic Security» (1976) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W1482606577 «Workers' Compensation and Older Workers» (2001) – Arbeidsskadeerstatning og eldre arbeidstakere, ikke arbeidsledighetstrygd.
+- OK   6 utelatt W2072832454 «The Impact of Employment Status on Voting Behavior» (2005) – Teoretisk modell for stemmegivning og sysselsetting, ikke overgang til arbeid.
+- OK   6 utelatt W2796473824 «Why Don’t Firms Hire Young Workers During Recessions?» (2021) – Ungdoms ansettelse i nedgangstider, ikke dagpenger.
+- OK   6 utelatt W4239803385 «Back to work: Re-employment, earnings and skill use after job displace» (2013) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2099449642 «Immigration, Globalization, and Unemployment Benefits in Developed EU » (2011) – Politisk modell for innvandring og ytelsesnivå. Utfallet er politikkvalg, ikke overgang til arbeid.
+- OK   6 utelatt W1512505441 «DOES TRADE ADJUSTMENT ASSISTANCE MAKE A DIFFERENCE?» (2011) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1733360148 «Sickness Absence, Sick Leave Pay, and Pay Schemes» (2013) – Sykepenger i Norge. Sykefravær, ikke dagpenger.
+- OK   6 utelatt W2139917511 «Unemployment, Search and Labour Supply.» (1989) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W267486282 «Why Is Veteran Unemployment So High?» (2014) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2033440138 «Social Policy and Perceived Immigrant Labor Market Competition in Euro» (2014) – Holdninger til innvandrere og konkurranse om jobber, ikke dagpenger og overgang til arbeid.
+- OK   6 utelatt W105215330 «In search of optimal labour market institutions» (2007) – Overordnet drøfting av institusjoner for et optimalt arbeidsmarked, uten egen empirisk effektanalyse.
+- OK   6 utelatt W2049623834 «Unemployment Duration and Re-Employment Probability» (1978) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W3137468783 «Empirical analysis of urban youth unemployment in Ethiopia» (2021) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1966227342 «Labour Market Structures, Labour Market Policy and Wage Formation in t» (1993) – Lønnsdannelse og arbeidsmarkedsstruktur på tvers av land. Utfallet er lønnsfleksibilitet, ikke overgang til arbeid.
+- OK   6 utelatt W3092035589 «Labour market liberalization and the rise of dualism in Europe as the » (2020) – Politisk analyse av liberalisering og dualisering, ikke effekt av dagpengeperiode eller -nivå.
+- OK   6 utelatt W3123196634 «Does Occupational Training by the Trade Adjustment Assistance Program » (2012) – Opplæring i handelsrelatert tilskuddsordning i USA. Tiltaksevaluering, ikke dagpengeperiode eller -nivå.
+- OK   6 utelatt W2120646422 «The role of specific and general human capital after displacement» (2005) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1574170510 «Comparing unemployment protection and social assistance in 14 European» (2010) – Sammenligner rettigheter i dagpenger og sosialhjelp i 14 land. Indikatorstudie uten effekt på overgang til arbeid.
+- OK   6 utelatt W2030807635 «The threat effect of participation in active labor market programs on » (2011) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2473464566 «Recurrent unemployment—The West German experience: An exploratory anal» (1989) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W336414309 «The Labor Market Problems of Older Workers.» (1983) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W3121803429 «Explaining the Employability Gap of Short‐Term and Long‐Term Unemploye» (2009) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3125743681 «Interwar Unemployment in International Perspective.» (1990) – Mellomkrigstidens ledighet, utenfor perioden fra 1990.
+- OK   6 utelatt W1556656974 «An Evaluation of the Impact of ES Referrals on Applicant Earnings» (1985) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W4392611076 «Promoting Better Career Choices for Longer Working Lives» (2024) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2000062862 «Income after job loss: the role of the family and the welfare state» (2009) – Inntekt etter jobbtap i Sverige. Utfallet er husholdningsinntekt, ikke tid til arbeid.
+- OK   6 utelatt W2071157444 «Guaranteed minimum income and unemployment duration in France» (2008) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2010624350 «Empirical Matching Functions: Searchers, Vacancies, and (Un‐)biased El» (2007) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2081730127 «The effects of unemployment benefits on U. S. Unemployment rates» (1976) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2133057232 «Unemployment durations of job losers in a labour market in transition» (1999) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3123051296 «Productivity growth, on-the-job search, and unemployment» (2011) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2053808320 «The Effect of Unemployment Insurance on the Search Process» (1979) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2062197059 «Which type of job mobility makes people happy? A comparative analysis » (2012) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2907308722 «Reassessing the Role of Labor Market Institutions for the Business Cyc» (2018) – Institusjoner og konjunktursvingninger på makronivå. Ikke overgang til arbeid fra dagpenger.
+- OK   6 utelatt W2108724026 «The Great Recession in the UK Labour Market: A Transatlantic Perspecti» (2010) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2470716216 «Job search and hiring in local labor markets: Spillovers in regional m» (2016) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2022337474 «Job Search by Unemployed Women: Determinants of the Asking Wage» (1980) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2621068971 «Contingent High-Skilled Work and Flexible Labor Markets. Creative Work» (2017) – Kunstnere og frilansere som veksler mellom jobb og dagpenger i Frankrike. Kvalitativt, ikke effekt av periode eller nivå.
+- OK   6 utelatt W2855765983 «From the Unfolding Process to Self-Regulation in Job Search: Integrati» (2018) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2993851899 «To find or not to find a first "significant" job» (2008) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; makro eller institusjoner uten dagpengeeffekt, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1505247950 «Are the MCVL tax data useful? Ideas for mining» (2011) – Beskrivelse av spanske skattedata, ingen effektanalyse.
+- OK   6 utelatt W2073393085 «Do Scarring Effects of Low‐Wage Employment and Non‐Employment Differ B» (2014) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4287102919 «Search and reallocation in the COVID-19 pandemic: Evidence from the UK» (2023) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2093522341 «Unemployment Duration and Disability: Evidence from Portugal» (2011) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; sykefravær, uføre eller yrkesskade, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3198832166 «Are active labour market policies effective for the older unemployed? » (2021) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W161198425 «Unemployment Insurance: Measuring Who Receives It» (1997) – Hvem som mottar ytelsen i USA, ikke effekt på overgang til arbeid.
+- OK   6 utelatt W2063407994 «The Life-Cycle Profile of Time Spent on Job Search» (2013) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2080389110 «The Impact of Firing Restrictions on Labour Market Equilibrium in the » (2013) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2135090203 «Skills and social insurance: Evidence from the relative persistence of» (2015) – Innovasjon i bedrifter under krisen. Ikke ledige eller overgang til arbeid.
+- OK   6 utelatt W2177863867 «Unemployment, inquality and the policy of Europe: 1984-2000» (2012) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1920923146 «IT'S ABOUT TIME: IMPLICATIONS OF THE PERIOD LENGTH IN AN EQUILIBRIUM S» (2014) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; lønn, ulikhet eller jobbtap uten dagpenger, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1963802779 «HOW TO VALUE THE POORER PROSPECTS OF YOUTH IN THE EARLY 1990s?» (1998) – Verdsetting av ungdoms usikre framtidsutsikter. Utfallet er velferd, ikke overgang til arbeid.
+- OK   6 utelatt W2202936841 «Home-ownership, unemployed’s job search behavior and post-unemployment» (2015) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3125805600 «Business Cycle Comovement and Labor Market Institutions: An Empirical » (2010) – Konjunktursynkronisering og arbeidsmarkedsinstitusjoner, makro uten dagpengeperiode eller -nivå som effekt.
+- OK   6 utelatt W4286697059 «Racial and ethnic disparities in who receives unemployment benefits du» (2022) – Ulikhet i mottak av ytelser under covid. Utfallet er mottak, ikke overgang til arbeid.
+- OK   6 utelatt W2313919183 «The Asking Wage-Duration of Unemployment Relation Revisited» (1977) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2312909305 «Unemployment in Canada: The Impact of Unemployment Insurance» (1977) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2340310930 «Employment programs for recipients of unemployment insurance» (2008) – Tiltak for mottakere i USA, uten sammendrag. Tiltak, ikke dagpengeperiode eller -nivå.
+- OK   6 utelatt W2744706789 «Independent Contractors: Prevalence and Implications for Unemployment » (2000) – Selvstendige og feilklassifisering i USA. Gjelder tilgang og finansiering, ikke overgang til arbeid.
+- OK   6 utelatt W3121283109 «The Intensity of Job Search and Search Duration» (2016) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4313450539 «UNEMPLOYMENT INSURANCE IN SURVEY AND ADMINISTRATIVE DATA» (2022) – Målefeil i undersøkelser av ytelsen i USA. Utfallet er fattigdomsmåling, ikke overgang til arbeid.
+- OK   6 utelatt W2096731932 «Unemployment Insurance and Labour Supply: A Simulation of the 1971 Une» (1977) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2597387902 «Of carrots and sticks: the effect of workfare announcements on the job» (2018) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W3123948535 «The Interaction between Research and Policy: The Case of Unemployment » (1982) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W1539593182 «Health Insurance Coverage of People in the Ten Years before Medicare E» (2001) – Helseforsikring for eldre før pensjonsalder, ikke dagpenger.
+- OK   6 utelatt W2042077087 «A Complete Decomposition of Unemployment Dynamics using Longitudinal G» (2005) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2023630120 «Who feels it knows it: work attitudes and excess non-white unemploymen» (1998) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2086976586 «The unemployment insurance compensation experience of immigrants in Ca» (1998) – Innvandreres bruk av ordningen i Canada 1980-88. Utfallet er mottak, ikke overgang til arbeid.
+- OK   6 utelatt W2092396438 «The Impact of the 1971 Unemployment Insurance Revisions on Unemploymen» (1978) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2496808616 «How Do Exit Rates from Social Assistance Benefit in Belgium Vary with » (2014) – Utgang fra sosialhjelp i Belgia. Ytelse uten forsikringspreg.
+- OK   6 utelatt W4210603759 «Providing Government Assistance Online: A Field Experiment with the Un» (2022) – Nettbasert tiltak i felteksperiment for mottakere. Tiltak, ikke dagpengeperiode eller -nivå.
+- OK   6 utelatt W1547091492 «net replacement rates of the unemployed. Comparisons of various approa» (1999) – Metoder for å beregne erstatningsgrader, ingen effekt på overgang til arbeid.
+- OK   6 utelatt W2054648795 «Can Supply‐Side Policies Reduce Unemployment? Lessons from North Ameri» (2002) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2062711451 «Determinants of immigrants’ cash‐welfare benefits intake in Spain» (2013) – Innvandreres uttak av kontantytelser i Spania. Utfallet er mottak, ikke overgang til arbeid.
+- OK   6 utelatt W2495712663 «Collective Risk Sharing» (2015) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1977515349 «Unemployment and Unemployment Insurance: Testing Some Corollaries» (1976) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W2122244327 «Outsourcing of Unionized Firms and the Impact of Labor Market Policy R» (2010) – Teoretisk modell for utkontraktering og lønnsmoderasjon, uten empiri.
+- OK   6 utelatt W2786554765 «Activation policies in action» (2018) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2955149549 «Shifting the Beveridge Curve» (2016) – Forskyvninger i Beveridge-kurven på makronivå. Ikke effekt av dagpengeperiode eller -nivå på overgang.
+- OK   6 utelatt W1586461968 «Jobless recovery redux» (2009) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2052189306 «Bismarck versus Beveridge: Flat-Rate and Earnings-Related Unemployment» (2001) – Teoretisk modell for flat og inntektsrelatert ytelse (effektivitetslønn), uten empiri.
+- OK   6 utelatt W4401263625 «Uncertainty, labour force participation and job search» (2024) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1526998620 «Unemployment and wage inequality in OECD countries» (1995) – Oversikt over sysselsetting og lønnsulikhet i OECD. Utfallet er lønnsstruktur, ikke overgang til arbeid.
+- OK   6 utelatt W2734777284 «Job Rationing in Recessions: Evidence from Work-Search Requirements» (2015) – Krav til jobbsøking i delstater. Aktivitetskrav holdt utenfor.
+- OK   6 utelatt W3033029912 «The History of State UI Financing» (1998) – Historie om finansiering av ordningen i delstatene, finansiering holdt utenfor.
+- OK   6 utelatt W4298948789 «The Cyclicality of Job-to-Job Transitions and its Implications for Agg» (2013) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; metode eller statistikk, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1513981992 «Is the American Model Miss World? Choosing Between the Anglo-Saxon Mod» (2006) – Sammenligning av amerikansk og europeisk modell, bred økonomisk drøfting uten identifikasjon av dagpengeeffekt.
+- OK   6 utelatt W2011458474 «LESSONS FROM AMERICA» (2005) – Meningsartikkel om europeisk og amerikansk arbeidsmarked, ikke empirisk studie av dagpengeperiode eller -nivå.
+- OK   6 utelatt W2024900261 «Flexibility Policies and Re-employment Probabilities in Italy» (2014) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W604678567 «NEW EVIDENCE ON THE DISTRIBUTION OF UNEMPLOYMENT INSURANCE BENEFITS» (1977) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W1841737564 «Unionized Labour Market, Unemployment Allowances, Productive Public Ex» (2015) – Teoretisk vekstmodell med ytelser og fagforeninger, uten empiri.
+- OK   6 utelatt W2153390646 «Effects of economic policies on microeconomic volatility» (2015) – Politikkens effekt på mikroøkonomisk volatilitet. Utfallet er inntektsstabilitet, ikke overgang til arbeid.
+- OK   6 utelatt W2078043294 «Unemployment insurance: Theoretical approaches and empirical evidence» (1994) – Gjennomgang av teori og data om forsikringens virkninger (1994). Bred og delvis teoretisk, ikke avgrenset effektstudie.
+- OK   6 utelatt W4392030261 «Economic Conditions, the COVID-19 Pandemic Recession, and Implications» (2024) – Utfallet er uføretrygd under covid, holdt utenfor.
+- OK   6 utelatt W4232113036 «Euro-Productivity and Euro-Jobs since the 1960s: Which Institutions Re» (2007) – Institusjoner og produktivitet i Europa fra 1960-tallet, makro uten dagpengeperiode eller -nivå som effekt.
+- OK   6 utelatt W607046683 «Labor market insurance and social safety nets» (1994) – Teoretisk drøfting av sikkerhetsnett, vekt på utviklingsland.
+- OK   6 utelatt W4246648208 «Unemployment Insurance» (2020) – Leksikonoppslag uten sammendrag, ingen effektanalyse.
+- OK   6 utelatt W2466218764 «A Quantum of Solace – An Examination of the Voluntary Extended Unemplo» (2016) – Frivillig forsikring for selvstendige i Tyskland. Utfallet er seleksjon i forsikringen, ikke overgang til arbeid.
+- OK   6 utelatt W4411577374 «First Fired, Last Hired, and Lower Paid: Re-employment Outcomes Among » (2025) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; sykefravær, uføre eller yrkesskade, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1521254603 «Worker displacement in the mid-1990s» (1999) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2894628776 «The Use of Administrative Data to Evaluate the Impact of Active Labor » (2018) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4238199542 «Job Displacement» (1998) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W4375819182 «Passing the Torch: The Influence of Economic Incentives on Work and Re» (1990) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; pensjon eller tidligpensjon, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2073049177 «Why is Insured Unemployment so Low?» (1983) – publisert før 1990, utenfor perioden i kriteriene
+- OK   6 utelatt W3123004615 «Does Training Work for Displaced Workers?: A Survey of Existing Eviden» (1990) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1490955712 «Performance Indicators: A Management Tool for Active Labour Programmes» (1995) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1485512189 «Initial Eligibility for Unemployment Compensation» (1997) – Hvem som får rett til ytelsen i USA. Tilgang, ikke avgang til arbeid.
+- OK   6 utelatt W1507735829 «Labour Market Policies and Unemployment in the OECD» (1990) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W326591849 «Job Search Methods and Results: Tracking the Unemployed, 1991.» (1992) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; annet tema, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2157197521 «Evaluating Retraining Programs in OECD Countries: Lessons Learned» (1998) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; arbeidsmarkedstiltak, opplæring eller oppfølging, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W2062381199 «Impact of the Mutual Obligation Initiative on the Exit Behaviour of Un» (2002) – Aktivitetskrav for unge mottakere i Australia (naturlig eksperiment). Aktivitetskrav holdt utenfor.
+- OK   6 utelatt W3092887972 «How Have Households Used Their Stimulus Payments and How Would They Sp» (2020) – Bruk av stimulansutbetalinger i husholdninger under covid, ikke overgang til arbeid.
+- OK   6 utelatt W2148769990 «How Segmented are Skilled and Unskilled Labour Markets: the Case of Be» (2003) – Segmenterte Beveridge-kurver i Australia, makro uten dagpengeeffekt på overgang.
+- OK   6 utelatt W2036089346 «Was kann die Aktive Arbeitsmarktpolitik in Deutschland aus der Evaluat» (2002) – Evalueringer av tiltak i Tyskland. Tiltak, ikke dagpengeperiode eller -nivå.
+- OK   6 utelatt W1987091397 «Matching, adverse selection and labour market flows in a (post)transit» (2012) – Matching og seleksjon i Kroatia, overgangsøkonomi. Ikke dagpengeperiode eller -nivå.
+- OK   6 utelatt W2725258675 «Self-Employment as a Reemployment Option: Demonstration Results and Na» (1994) – Selvstendig næringsdrift som alternativ for mottakere i USA. Tiltak, ikke dagpengeperiode eller -nivå.
+- OK   6 utelatt W1540130390 «The Effectiveness of Training for Displaced Workers with Long Prior Jo» (2013) – tittel og sammendrag nevner ikke dagpenger eller arbeidsledighetstrygd; helse, dødelighet eller velvære, ikke en studie av dagpengeperiode eller nivå
+- OK   6 utelatt W1528491892 «Public and Private Strategies for Assisting Older Workers» (2008) – Strategier for eldre arbeidstakere i USA, uten effektanalyse av dagpengeperiode eller -nivå.
+- OK   6 utelatt W1965742388 «The Impact of Advance Notice of Plant Closings on Earnings and the Pro» (1991) – varsel om nedleggelse og inntekt, ikke dagpengeperiode eller nivå
+- OK   6 utelatt W2169588413 «Why did the average duration of unemployment become so much longer?» (2008) – makroanalyse av økt ledighetsvarighet uten identifisert effekt av dagpengeregler
+- OK   6 utelatt W205569566 «Labour Market Policy in Germany: Job Placement, Unemployment Insurance» (2002) – beskrivelse av tysk arbeidsmarkedspolitikk og dagpengeordning uten effektmål
+- OK   6 utelatt W2152966669 «A replication note on unemployment in the OECD since the 1960s: what d» (2008) – replikasjon av tverrnasjonale panelstudier av institusjoner og ledighet; ikke en studie av periode eller nivå med identifisert effekt
+- OK   6 utelatt W210113947 «Employment Patterns in OECD Countries: Reassessing the Role of Policie» (2006) – tverrnasjonal panelstudie av institusjoner og sysselsetting; ikke en studie av periode eller nivå med identifisert effekt
+- OK   6 utelatt W432812849 «Unemployment Insurance and Active Labor Market Policy: An Internationa» (1995) – internasjonal sammenligning av dagpenger og arbeidsmarkedstiltak uten identifisert effekt (1995)
+- OK   6 utelatt W3140752358 «Acts of Congress and COVID-19: A Literature Review on the Impact of In» (2020) – annen versjon av litteraturgjennomgangen Falcettoni og Nygaard (W3120725390), som er valgt
+- OK   6 utelatt W2892160988 «The role of shocks and institutions in the rise of European unemployme» (2004) – makroanalyse av sjokk og institusjoner i europeisk ledighet; ikke en studie av periode eller nivå med identifisert effekt
+- OK   6 utelatt W4248568789 «The role of shocks and institutions in the rise of European unemployme» (2010) – annen versjon av samme makroanalyse av sjokk og institusjoner (W2892160988)
+- OK   6 utelatt W1604034685 «A Note on Unhappiness and Unemployment Duration» (2006) – lykke og ledighetsvarighet, ikke effekt av dagpengeperiode eller nivå
+- OK   6 utelatt W2009124105 «Reliability and recall of unemployment events using retrospective data» (2002) – metode: målefeil i retrospektive data om ledighet
+- OK   6 utelatt W3124641896 «Intergenerational Redistribution in the Great Recession» (2020) – omfordeling mellom generasjoner i finanskrisen, ikke overgang til arbeid
+- OK   6 utelatt W3163356780 «Economic Recessions and Congressional Preferences for Redistribution» (2021) – politisk preferanse for omfordeling, ikke overgang til arbeid
+- OK   6 utelatt W190122472 «Displaced Workers and Employer-Provided Health Insurance: Evidence of » (2001) – helseforsikring for fortrengte arbeidstakere, ikke dagpenger
+- OK   9 kort-svar-blind.md finnes
+- OK   9 innholdskontroll har raden «kort svar»
+- OK   9 blind lesing 0198cc5369ae-229c5063-6405-419a-8006-b9dd49ae5416 i budskap.tsv
+- OK   9 blind lesing AV-2007-2-03 i budskap.tsv
+- OK   9 blind lesing AV-2013-1-04 i budskap.tsv
+- OK   9 blind lesing AV-2018-2-03 i budskap.tsv
+- OK   9 blind lesing AV-2023-1-03 i budskap.tsv
+- OK   9 blind lesing AV-2023-3-01 i budskap.tsv
+- OK   9 blind lesing FI-vatt.10024_149571 i budskap.tsv
+- OK   9 blind lesing FI-vatt.10024_187919 i budskap.tsv
+- OK   9 blind lesing KU-7d037e12-1538-4c97-9339-fb49dd5e5502 i budskap.tsv
+- OK   9 blind lesing KU-cf803acc-e73d-410f-a09f-e4633c73602a i budskap.tsv
+- OK   9 blind lesing W1480269971 i budskap.tsv
+- OK   9 blind lesing W1506969218 i budskap.tsv
+- OK   9 blind lesing W1563984614 i budskap.tsv
+- OK   9 blind lesing W1566578940 i budskap.tsv
+- OK   9 blind lesing W1884998289 i budskap.tsv
+- OK   9 blind lesing W2002707463 i budskap.tsv
+- OK   9 blind lesing W2047693430 i budskap.tsv
+- OK   9 blind lesing W2084090750 i budskap.tsv
+- OK   9 blind lesing W2105107427 i budskap.tsv
+- OK   9 blind lesing W2116604021 i budskap.tsv
+- OK   9 blind lesing W2123564434 i budskap.tsv
+- OK   9 blind lesing W2138836438 i budskap.tsv
+- OK   9 blind lesing W2156877177 i budskap.tsv
+- OK   9 blind lesing W2169046276 i budskap.tsv
+- OK   9 blind lesing W2200172062 i budskap.tsv
+- OK   9 blind lesing W22629269 i budskap.tsv
+- OK   9 blind lesing W2337558966 i budskap.tsv
+- OK   9 blind lesing W2613692828 i budskap.tsv
+- OK   9 blind lesing W2624227397 i budskap.tsv
+- OK   9 blind lesing W2890402555 i budskap.tsv
+- OK   9 blind lesing W2892364420 i budskap.tsv
+- OK   9 blind lesing W2948483932 i budskap.tsv
+- OK   9 blind lesing W2963969083 i budskap.tsv
+- OK   9 blind lesing W3024730720 i budskap.tsv
+- OK   9 blind lesing W3084713950 i budskap.tsv
+- OK   9 blind lesing W3121176259 i budskap.tsv
+- OK   9 blind lesing W3121246414 i budskap.tsv
+- OK   9 blind lesing W3121810429 i budskap.tsv
+- OK   9 blind lesing W3121919142 i budskap.tsv
+- OK   9 blind lesing W3123206326 i budskap.tsv
+- OK   9 blind lesing W3123331108 i budskap.tsv
+- OK   9 blind lesing W3123331744 i budskap.tsv
+- OK   9 blind lesing W3123587893 i budskap.tsv
+- OK   9 blind lesing W3123640418 i budskap.tsv
+- OK   9 blind lesing W3151320739 i budskap.tsv
+- OK   9 blind lesing W3161696407 i budskap.tsv
+- OK   9 blind lesing W3215335411 i budskap.tsv
+- OK   9 blind lesing W4291754967 i budskap.tsv
+- OK   9 blind lesing W4298248611 i budskap.tsv
+- OK   9 blind lesing W4300783938 i budskap.tsv
+- OK   9 blind lesing W4312802047 i budskap.tsv
+- OK   9 blind lesing W4378219799 i budskap.tsv
+- OK   9 blind lesing W4391117040 i budskap.tsv
+- OK   9 blind lesing W4400871115 i budskap.tsv
+- OK   9 blind lesing W4401566784 i budskap.tsv
+- OK   9 blind lesing W4401689619 i budskap.tsv
+- OK   9 blind lesing W7214186622 i budskap.tsv
+- OK   9 blind lesing W825815562 i budskap.tsv

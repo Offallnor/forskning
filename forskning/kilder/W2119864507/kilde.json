@@ -1,0 +1,14 @@
+{
+ "apen_url": "https://research.upjohn.org/dissertation_awards/63",
+ "ar": 2014,
+ "forfattere": [
+  "Arash Nekoei"
+ ],
+ "id": "W2119864507",
+ "kilde": "Upjohn Research (W.E. Upjohn Institute for Employment Research)",
+ "lenke": "https://openalex.org/W2119864507",
+ "oversikt": false,
+ "sammendrag": "Contrary to the predictions of standard reservation-wage search models, empirical studies consistently find that an extension of UI increases unemployment duration \\\\textit{without} improving subsequent wages. Chapter 1 addresses this puzzle in two steps. First, using administrative data from Austria and an age-based regression discontinuity design, we show that an extension of UI eligibility by nine weeks increases the average reemployment wage by a statistically significant 0.5\\\\%. We find that the UI effect on both unemployment durations and reemployment wages is larger for individuals with a high ex-ante likelihood of benefit exhaustion and for those laid off during local industry-specific downturns. Second, we show both theoretically and empirically that the UI effect on expected wage is determined by two offsetting forces: (i) agents on UI increase their reservation wages, which raises subsequent wages, but (ii) they also stay unemployed longer and thus experience a greater decrease in job opportunities, which reduces subsequent wages. Together, these results show that UI does have an economically significant impact on job quality consistent with theoretical predictions.",
+ "tittel": "Essays on Unemployment and Labor Supply",
+ "type": "article"
+}

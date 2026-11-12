@@ -1,0 +1,21 @@
+{
+ "apen_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/jae.581",
+ "ar": 2000,
+ "doi": "https://doi.org/10.1002/jae.581",
+ "forfattere": [
+  "Aico van Vuuren",
+  "Gérard J. van den Berg",
+  "Geert Ridder"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "http://degree.ubvu.vu.nl/repec/vua/wpaper/pdf/19990043.pdf",
+ "hvordan": "pdf",
+ "id": "W1567814460",
+ "kilde": "Journal of Applied Econometrics",
+ "lenke": "https://openalex.org/W1567814460",
+ "merknad": "ÅPEN VERSJON (preprint eller arbeidsnotat), merkes i svaret",
+ "oversikt": false,
+ "sammendrag": "Abstract We analyse the impact of unemployment benefits and minimum wages using an equilibrium search model which allows for dispersion of benefits and productivity levels, job‐to‐job transitions, and structural and frictional unemployment. The estimation method uses readily available aggregate data on marginal distributions of unemployment durations as well as wages and benefit levels. Different causes of structural and frictional unemployment are investigated. We investigate the efficiency of the imposition of a single benefit level for all household types and the introduction of a tax credit on earned income. Copyright © 2000 John Wiley & Sons, Ltd.",
+ "tittel": "Measuring the equilibrium effects of unemployment benefits dispersion",
+ "type": "article"
+}

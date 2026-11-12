@@ -1,0 +1,145 @@
+# Første utvalg 8.11.2026 (lønnstilskudd for unge)
+# Fra bestilleren
+KU-556513c4-aea7-4c77-a625-a2729b9f701e  # fra bestilleren: Områdegjennomgang av arbeidsmarkedstiltak, delrapport 2 (anbefalinger), Oslo Economics mfl. 2024, funnet i Kudos 9.11
+R-ec3de7f99e  # Områdegjennomgang av arbeidsmarkedstiltak: Kartlegging av kunnskap og praksis (2024); fra bestilleren: delrapport 1 (kunnskapsgrunnlaget); lagt inn med url
+# Kategori 1: oversikter og metaanalyser
+W7213521022  # Taylor mfl. 2026, nettverksmetaanalyse av tiltak for unge i høyinntektsland
+W119749001  # Kluve mfl. 2017, Campbell-oversikt over tiltak for unge
+W4233730326  # samme materiale som W119749001
+W2259408401  # Caliendo og Schmidl 2016, tiltak for unge i Europa
+W2338040341  # 2015, oversikt over lønnstilskudd for unge
+W1849775659  # Card, Kluve og Weber 2015, metaanalyse
+W4298866695  # samme materiale som W1849775659 (NBER-versjon)
+W2902868850  # Card, Kluve og Weber 2009, eldre metaanalyse
+W2803699076  # Vooren mfl. 2018, metaanalyse
+W4408632418  # Levy Yeyati mfl. 2025, metaanalyse av randomiserte forsøk
+W2950428550  # samme materiale som W4408632418 (arbeidsnotat 2019)
+W2119626280  # 2002, opplæring og lønnstilskudd i Europa
+W3125938983  # 2001, OECD-oversikt
+W1588450396  # 2008, tiltak for unge og innvandrere i Norden
+AV-2023-1-02  # Hva virker for hvem? (Arbeid og velferd 2023)
+0198cc97b527-72b1e897-3c8b-47e2-8c9a-dd6326e550b4  # 2017, metaanalyse av tiltak for ungdom i Nord-Europa
+0198cc8fb35e-07b7e7c2-852e-452c-833a-f51d16f740a6  # 2016, innsats for utsatte unge i Norden
+0198cc67f381-10b52e27-ff19-4730-aef8-57aac6b80405  # 2010, tiltak for unge med funksjonsnedsettelser, kunnskapsoversikt
+# Kategori 2: randomiserte forsøk (USA bare her)
+W2999600366  # USA, subsidiert arbeid for unge utenfor arbeid og skole
+W3169861065  # USA, Young Adult Internship Program pdf: https://www.nyc.gov/assets/opportunity/pdf/evidence/YAIP_2018.pdf
+# Kategori 3–4: reformer, diskontinuiteter og registerstudier for unge
+W4399204261  # Belgia 2024, langtidseffekter av lønnstilskudd for unge med lav utdanning
+W4377835076  # samme materiale som W4399204261
+W4312659966  # samme materiale som W4399204261
+W4412889165  # Belgia 2025, lønnstilskudd for unge i stramt arbeidsmarked
+W7126331614  # Belgia 2025, avhandling om lønnstilskudd og dagpenger for unge
+W4379210648  # Polen 2023, lønnstilskudd for unge i oppgangstid
+W7139965069  # samme materiale som W4379210648, kjønnsforskjeller
+W4378233149  # Ungarn 2023, 90-dagers lønnstilskudd for unge under 25
+W2149962000  # Italia 2009, kontrakter med lønnstilskudd for unge
+W2256953377  # Frankrike 2013, unge med lav utdanning
+W2150829746  # Storbritannia 2004, New Deal for Young People
+W2094539974  # Sverige 2003, tiltak for unge
+W3134495723  # Slovenia 2021, tiltak for unge ledige
+W3097344849  # Norge 2020, tiltak for unge med nedsatt arbeidsevne
+W1573574408  # Sverige 2004, lønnstilskudd, alle aldre
+W2069217900  # Sverige 2005, fortrengning
+# Norske evalueringer og beskrivelser (kategori 4–5)
+0198cc45bd5e-8c80f1e9-8747-46f0-ba71-4147a95ddc47  # 2023, midlertidig lønnstilskudd, hvem deltar og utfall
+AV-2024-3-04  # 2024, midlertidig lønnstilskudd og stabil arbeidstilknytning
+AV-2021-1-03  # 2021, løpebaner etter tiltak
+AV-2023-2-06  # 2023, tiltaksdeltakere med nedsatt arbeidsevne
+0198cc474d39-12e756d2-bb47-44a6-979b-635938978688  # 2016, forsøk med AAP som lønnstilskudd, sluttrapport
+0198cc87f18f-e38ede86-54bb-4e12-8035-f4367608ce2d  # 2010, tidsubestemt lønnstilskudd, sluttevaluering
+019938797a78-07e5f4b2-85e7-46c1-aab1-30916c8257cd  # 2006, effekter av ordinære tiltak
+# Fra referanserunde 1 (8.11)
+W3021959460  # Card, Kluve og Weber 2018, publisert versjon av W1849775659
+W1805206376  # Card, Kluve og Weber 2010, publisert versjon av W2902868850
+W2010586812  # Kluve 2010, tiltak i Europa (metaanalyse) pdf: https://docs.iza.org/dp2018.pdf
+W3124887541  # Kluve mfl. 2019, publisert versjon av W119749001
+W2530882093  # samme materiale som W119749001
+W2596043699  # 2017, tiltak for unge i Europa, politikklærdom (oversikt)
+W1980970299  # Norge 2005, flere tiltak for unge og flere utfall
+W1873891533  # Norge 2005, hva virker for hvem
+W2006484966  # Sverige 2006, tiltak for unge
+W1521518092  # Sverige 2004, tidlig innsats for unge ledige pdf: https://www.ifau.se/globalassets/pdf/se/2002/wp02-10.pdf
+W1999193906  # Storbritannia 2005, New Deal for Young People, unge menn pdf: https://core.ac.uk/download/161511285.pdf
+W2167790690  # Frankrike 2001, tiltak for unge pdf: https://repec.cepr.org/repec/cpr/ceprdp/Dp2604.pdf
+W1982832588  # Danmark 2007, kostnader og nytte av tiltak
+W2039276519  # 2015, varighet og nivå på lønnstilskudd (diskontinuiteter) pdf: https://www.ifau.se/globalassets/pdf/se/2013/wp2013-18-how-long-and-how-much.pdf
+W2016059253  # 2006, lønnstilskudd og sysselsetting i bedriftene (fortrengning) pdf: https://www.doria.fi/bitstream/10024/148356/1/k378.pdf
+# Fra referanserunde 2 (8.11)
+W4391650787  # Sverige og Norge 2024, politikk for unge med nedsatt arbeidsevne
+W2306814610  # Jordan 2016, randomisert forsøk med lønnstilskudd for nyutdannede (IZA DP 8518 var feil notat)
+W3123523177  # samme materiale som W2094539974 (Sverige, tiltak for unge)
+# Fra det blinde utvalget (8.11), kategori 1–4 innenfor mandatet
+W7213089090  # ILO 2026, effekter av tiltak for unge
+W4399418567  # 2024, sammendrag av systematisk oversikt over tiltak for unge
+W2767805161  # samme materiale som 0198cc97b527 (metaanalyse Nord-Europa, engelsk versjon)
+W2753677791  # samme materiale som 0198cc97b527
+0198f66c7c6a-57d2cbf5-43fd-4d55-8dd6-703741c65f40  # samme materiale som 0198cc67f381
+W3023312121  # 2020, bokkapittel om tiltak for unge
+W2106519551  # 2016, oversikt over tiltak med vekt på forsøk og fortrengning
+W4302969421  # samme materiale som W2106519551
+W2128492593  # OECD 2015, aktivering og tiltak
+W2268271869  # samme materiale som W2128492593
+W2770196142  # 2017, systematisk oversikt over ungdomsgarantien i Europa pdf: https://socialprotection-humanrights.org/wp-content/uploads/2017/09/wcms_572465.pdf
+W4310986237  # 2022, ungdomsgarantien i Øst-Europa
+W1577648310  # 2017, målrettede lønnstilskudd, teori og evidens
+W2923678075  # Verdensbanken 2018, tiltak for unge pdf: https://openknowledge.worldbank.org/bitstreams/ff25d0a4-cada-5cf4-8eec-3fccdd3ae0f2/download
+W2936872410  # samme materiale som W2923678075 pdf: https://openknowledge.worldbank.org/bitstreams/ff25d0a4-cada-5cf4-8eec-3fccdd3ae0f2/download
+W2134033543  # Tyskland 2013, gjennomgang av lønnstilskudd før og etter Hartz
+W2094662502  # 2011, oversikt over tiltak rettet mot arbeidsgivere for personer med funksjonsnedsettelser
+W4392582001  # 2024, oversikt over arbeidsgiverrettede tiltak for personer med funksjonsnedsettelser
+W3124086298  # Nord-Makedonia 2025, randomisert forsøk med lønnstilskudd (grensetilfelle)
+W3136581552  # samme materiale som W3124086298
+W2111293265  # Frankrike 2011, faste kontrakter med tilskudd for unge
+W2116150494  # Storbritannia 2005, New Deal for Young People fem år etter
+W2009087066  # Storbritannia 2009, New Deal i regionene
+W1509108367  # Storbritannia 2007, New Deal og lokal ledighet pdf: https://eprints.soton.ac.uk/164399/1/wp2010n16.pdf
+0198cc42013c-11c98f48-47eb-4b66-ac7a-ba3c43edfc15  # Norge 2006, ungdomsgarantien for 20–24-åringer
+0198cc4d8ef8-65658ffa-652a-4f22-8ad7-a532e8424f55  # Norge 2016, tiltak og vikarbyrå for unge uten videregående
+W2523375091  # samme materiale som 0198cc4d8ef8
+W1837038974  # Norge 2012, veier til jobb for unge uten fullført videregående
+0198cc739699-f2a314b8-400e-46f2-887a-d6c3832eb77b  # samme materiale som W1837038974
+01995c22c1ef-0cff9bef-2a70-4f0e-ab36-b6d53db8f287  # Norge 2025, effekter av tiltak for personer med nedsatt arbeidsevne
+W1593675663  # Finland 2004, tiltak for unge pdf: https://www.doria.fi/bitstream/10024/148580/1/t115.pdf
+W1577286609  # Tyskland 2011, tiltak for unge under 25
+W4401296350  # Tyskland 2024, tiltak og jobbkvalitet for unge voksne
+W292088744  # Østerrike 2013, lønnstilskudd, effekter etter alder
+W2254770520  # samme materiale som W292088744
+W28016323  # Belgia 2006, varighet i jobb etter lønnstilskudd for unge
+W2122776691  # Belgia 2007, overgang til ordinært arbeid etter subsidiert arbeid for unge
+W2911773687  # Tsjekkia 2018, traineeship med tilskudd for unge
+W4286914340  # Polen 2024, tiltak for unge
+W3167299234  # Italia 2021, ansettelsesinsentiv i ungdomsgarantien pdf: https://www.bollettinoadapt.it/wp-content/uploads/2021/04/INAPP_Brunetti_Ricci_Evaluating_youth_guarantee_incentive_WP_63_2021.pdf
+W3133980211  # samme materiale som W3167299234
+W3048912273  # Portugal 2020, ungdomssysselsettingsinitiativet pdf: https://poise.portugal2020.pt/documents/10180/36983/JRC120942_yei_pt_evaluation_final.pdf/4e45ac47-bd67-477f-b84e-3b69c154d6d5
+W4285087659  # Litauen 2022, lønnstilskudd (OECD)
+W4283659190  # samme materiale som W4285087659
+W4400707932  # Hellas 2024, lønnstilskudd (OECD)
+W4391588841  # samme materiale som W4400707932
+W4407697413  # Slovenia 2025, lønnstilskudd og opplæring (OECD)
+W2957610029  # EU 2019, makropanel, tiltak og ungdomsledighet
+# Åpne versjoner fra versjoner.tsv (8.11)
+W3121532439  # åpen versjon av W2530882093 (Kluve mfl., tiltak for unge)
+W3125728983  # åpen versjon av W1521518092 (tidlig innsats for unge, Sverige) pdf: https://www.ifau.se/globalassets/pdf/se/2002/wp02-10.pdf
+W2118183300  # åpen versjon av W2039276519 (varighet og nivå på lønnstilskudd) pdf: https://www.ifau.se/globalassets/pdf/se/2013/wp2013-18-how-long-and-how-much.pdf
+W2126324289  # åpen versjon av W2069217900 (fortrengning, Sverige)
+W2134678847  # åpen versjon av W2119626280 (opplæring og lønnstilskudd i Europa)
+W4206031054  # åpen versjon av W2902868850 (Card, Kluve og Weber 2010)
+# Fra referanserunde 3 (8.11)
+W4213173140  # 2022, kunnskapskart over tiltak for unge (oversikt)
+W2117348696  # Storbritannia 2005, langtidseffekter av New Deal for Young People
+W1506527507  # samme materiale som W2150829746 (New Deal for Young People)
+W2768508275  # Norge 2017, vignetteksperiment med arbeidsgivere om arbeidstrening for unge ledige
+W3024705443  # Belgia 2020, arbeidserfaring for unge (ESF) pdf: https://core.ac.uk/download/323152372.pdf
+# Nye kataloger (Kudos og Navs bibliotek), 9.11.2026
+KU-2a2f7287-2e87-41ab-bc6f-eff267e842d0  # Oslo Economics og Frischsenteret 2024, effekter av arbeidsmarkedstiltak (registerstudie, alle tiltak, bestilt evaluering)
+NB-4986  # samme materiale som KU-2a2f7287-2e87-41ab-bc6f-eff267e842d0
+R-cf1a71c1b9  # Hva virker for hvem? Kunnskapsoversikt over effekter av aktiveringstiltak på sysselsetting og arbeidstilbud. Norske erfaringer (2023); Nav-rapport 1/2023, kunnskapsoversikt (kategori 1); Kudos-posten KU-b55b95dc ga ingen pdf; lagt inn med url
+R-f2664a06f5  # Evaluering av varig lønnstilskudd (2024); Proba-rapport 2024-05; Kudos-posten KU-de1174c1 ga ingen pdf; lagt inn med url
+KU-56c800a6-3185-498a-8d63-aa131d32f353  # samme materiale som 019938797a78-07e5f4b2-85e7-46c1-aab1-30916c8257cd (Hamre 2006, 4. kvartal 2004; Kudos oppgir feil forfatter)
+KU-cf0dd276-ef43-42af-b4c1-d2d3e4fcdfe3  # Hamre og Bråthen 2006 (SSB-rapport 2006/5), effekter av ordinære tiltak påbegynt 4. kvartal 2003 (tittelsiden; Kudos oppgir Stokke)
+R-04f7a279dc  # Forsøk med AAP som lønnstilskudd – En effektevaluering (2019); Proba-rapport 2019-13, effektdelen; Kudos-posten KU-d6f88205 ga ingen pdf; lagt inn med url
+# NB-6713 (Danielsen, von Simson og Skjøstad 2026, bokkapittel): ingen åpen pdf, står i utelatt.tsv
+# Fra litteraturlistene i de nye norske rapportene (9.11)
+tittel: Young and unemployed, then what?  # Hardoy 2000, ISF-rapport 9:2000, tiltak for unge i Norge (vist til i SSB-rapport 2006/5)
+W2251574710  # Markussen og Røed 2014, yrkesrettet attføring i Norge; har egne resultater for unge under 30 av subsidiert sysselsetting (påpekt i Nav-oversikten 2023) pdf: https://docs.iza.org/dp7892.pdf

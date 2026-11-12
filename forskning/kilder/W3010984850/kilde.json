@@ -1,0 +1,23 @@
+{
+ "apen_url": "https://doi.org/10.7866/hpe-rpe.19.4.2",
+ "ar": 2019,
+ "doi": "https://doi.org/10.7866/hpe-rpe.19.4.2",
+ "forfattere": [
+  "Instituto de Estudios Fiscales",
+  "Ignacio Moral-Arce",
+  "Javier Martín Román",
+  "Ángel Martín Román",
+  "Universidad de Valladolid"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "https://mpra.ub.uni-muenchen.de/85111/1/MPRA_paper_85111.pdf",
+ "hvordan": "pdf",
+ "id": "W3010984850",
+ "kilde": "Revista Hacienda Pública Española",
+ "lenke": "https://openalex.org/W3010984850",
+ "merknad": "SJEKK DOKUMENT: «Instituto de Estudios Fiscales» står ikke i starten",
+ "oversikt": false,
+ "sammendrag": "The goal of this paper is to evaluate the effects of a public policy implemented through the Spanish Social Security system: the Cessation of Activity Benefit (CAB) for self-employed workers.Making use of the Continuous Sample of Working Lives (MCVL) and by means of a Propensity Score Matching (PSM) methodology, our results show that, when we do not take into account heterogeneity in the treatment, self-employed workers receiving CAB experience non-employment spells between 33 and 38 logarithmic points longer than their not entitled counterparts.We also detect that this difference is not constant but depends on the likelihood of being treated.We believe that the two traditional problems that affect the insurance markets, consequence of the asymmetric information, adverse selection and moral hazard, are behind these results.",
+ "tittel": "Cessation of Activity Benefit for Spanish Self-employed",
+ "type": "article"
+}

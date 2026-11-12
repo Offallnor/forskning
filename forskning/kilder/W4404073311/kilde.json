@@ -1,0 +1,23 @@
+{
+ "apen_url": "https://bmcpublichealth.biomedcentral.com/counter/pdf/10.1186/s12889-024-20564-z",
+ "ar": 2024,
+ "doi": "https://doi.org/10.1186/s12889-024-20564-z",
+ "forfattere": [
+  "Andreas Eklund",
+  "Ida Karlsson",
+  "Gunnar Bergström",
+  "Lisa Holmlund",
+  "Elisabeth Björk Brämberg"
+ ],
+ "hentet": "2026-11-09",
+ "hentet_fra": "https://bmcpublichealth.biomedcentral.com/counter/pdf/10.1186/s12889-024-20564-z",
+ "hvordan": "pdf",
+ "id": "W4404073311",
+ "kilde": "BMC Public Health",
+ "lenke": "https://openalex.org/W4404073311",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "BACKGROUND: Problem-solving interventions with workplace involvement (PSI-WPI) have been shown to reduce sick leave and increase return to work in an occupational health services context. However, many employees struggle with reduced work functioning, anxiety-, and depressive symptoms up to 12 months after a sick leave episode, and it is unclear if the intervention affects outcomes other than sick leave. The aim of this study is to investigate if a PSI-WPI added to care as usual (CAU) is superior to CAU with respect to self-reported sick leave, psychological symptoms, work ability, work performance, and health after RTW when provided in primary care. METHODS: Employed individuals aged 18-59 years on sick leave (2 to 12 weeks) diagnosed by a physician at a primary care center with mild to moderate depression, anxiety, or adjustment disorder were enrolled in a two-armed cluster-randomised trial evaluating the effectiveness of a PSI-WPI. Multiple outcomes were recorded at baseline, six months, 12 months, and every fourth week during the study period. Outcomes were categorised into psychological symptoms, health, work ability, work performance, and self-reported sick leave. Data were analysed using MANOVA, GEE (Generalized Estimating Equations), and cox regression. RESULTS: One hundred ninety-nine individuals responded to the invitation to participate; one participant withdrew, one was excluded as the employment ended, nine did not answer the baseline survey, and three were removed from the analysis due to missing data. The analysis included 81 subjects who received the intervention and 104 subjects who received the control. Baseline characteristics were similar across both groups. No differences between the groups were found among either variables except one. There was a significant difference between the groups in self-rated health (EQ5D) in favour of the CAU group from baseline to six-month follow-up, with a mean difference of -8.44 (-14.84, -2.04). CONCLUSIONS: A problem-solving intervention with workplace involvement added to CAU did not result in statistically significant reductions in outcomes. Further research is needed to understand why problem-solving interventions appear to have an effect on sick leave in an occupational health services context and not in a primary care context. TRIAL REGISTRATION: NCT3346395, registration date 2017-11-17.",
+ "tittel": "The effectiveness of a problem-solving intervention with workplace involvement on self-reported sick leave, psychological symptoms and work ability: a cluster randomised clinical trial",
+ "type": "article"
+}

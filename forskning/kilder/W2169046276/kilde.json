@@ -1,0 +1,18 @@
+{
+ "ar": 2002,
+ "forfattere": [
+  "Sten Johansson",
+  "Jan Selén"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "http://swopec.hhs.se/fiefwp/papers/WP183.pdf",
+ "hvordan": "pdf",
+ "id": "W2169046276",
+ "kilde": "RePEc: Research Papers in Economics",
+ "lenke": "https://openalex.org/W2169046276",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "Carling, Holmlund and Vejsiu reported in the October 2001 issue of the Economic Journal that a cut in the unemployment insurance replacement rate from 80 to 75 percent caused a 10 percent increase in the job finding rate. They also identify an anticipatory reform effect up to five months before the reform. Implied elasticity at 1, 6 is high compared to previous research in Sweden and elsewhere. After analysing their data for various heterogeneities, we conclude that the estimated coefficients designed to capture the reform and the anticipatory effects are statistical artefacts. The standard statistical tests and analytic procedures used by CHV do not warn for this eventuality.",
+ "tittel": "Coping with Heterogeneities in the Difference in Differences Design",
+ "type": "preprint"
+}

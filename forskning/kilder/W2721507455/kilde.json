@@ -1,0 +1,25 @@
+{
+ "apen_url": "http://www.sjweh.fi/download.php?abstract_id=3655&file_nro=1",
+ "ar": 2017,
+ "doi": "https://doi.org/10.5271/sjweh.3655",
+ "forfattere": [
+  "Vita Ligaya Dalgaard",
+  "Kirstin Aschbacher",
+  "Johan Hviid Andersen",
+  "David Glasscock",
+  "Morten Vejs Willert",
+  "Ole Carstensen",
+  "Karin Biering"
+ ],
+ "hentet": "2026-11-09",
+ "hentet_fra": "https://www.sjweh.fi/pdf-237038-144881?filename=Return-to-work-after-work.pdf",
+ "hvordan": "pdf",
+ "id": "W2721507455",
+ "kilde": "Scandinavian Journal of Work Environment & Health",
+ "lenke": "https://openalex.org/W2721507455",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "Objectives This study aimed to evaluate the effect of a stress management intervention (SMI) on lasting return to work (RTW) among patients with work-related stress complaints. Methods Sickness benefit departments from three local municipalities referred patients on sick leave with work-related adjustment disorders or mild depression to the Department of Occupational Medicine, Regional Hospital West Jutland. A 2× randomization procedure allocated patients into one of three groups: intervention (N=58), control A (which received a clinical assessment; N=56), or control B (no assessment; N=49). Treatment comprised individual work-focused cognitive behavioral therapy (CBT) with an optional workplace intervention. The outcome was time until lasting RTW (16 and 44 weeks follow-up) using register data. Results Median number of weeks until lasting RTW was 15, 19, and 32 for the intervention group, control A, and control B respectively. However, for group B, clinical assessment was not part of the inclusion process, which may have introduced selection bias. In the fully-adjusted Cox regression model, the intervention group exhibited significantly faster lasting RTW at 44 weeks; hazard ratio (HR) 1.57 [95% confidence interval (95% CI) 1.01-2.44] relative to control group A, with a non-significant trend evident at 16 weeks; HR 1.70 (95% CI 0.94-3.10), when controlling for age, gender, occupation, sick leave during previous year, full or partial sick leave, and diagnosis. Unadjusted analyses remained directionally consistent but were reduced to marginal significance. Conclusions There was a tendency towards faster lasting RTW in the intervention group compared to control A, which received clinical assessment, in all analyses. The intervention group returned to work about 4 weeks earlier than control A, which could translate into substantial financial gains.",
+ "tittel": "Return to work after work-related stress: a randomized controlled trial of a work-focused cognitive behavioral intervention",
+ "type": "article"
+}

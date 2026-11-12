@@ -1,0 +1,16 @@
+{
+ "apen_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/iere.12726",
+ "ar": 2024,
+ "doi": "https://doi.org/10.1111/iere.12726",
+ "forfattere": [
+  "Bruno Decreuse",
+  "Guillaume Wilemme"
+ ],
+ "id": "W2924575465",
+ "kilde": "International Economic Review",
+ "lenke": "https://openalex.org/W2924575465",
+ "oversikt": false,
+ "sammendrag": "Abstract Recent papers use regression discontinuity designs (RDDs) based on age discontinuity to evaluate social assistance (SA) and unemployment insurance (UI) extension policies. Job search theory predicts that such designs generate biased estimates of the policy‐relevant treatment effect. Owing to market frictions, people below the age threshold modify their search behavior in expectation of future eligibility. We use a job search model to quantify the biases on various datasets in the literature. The impacts of SA benefits on employment are underestimated, whereas those of UI extensions on nonemployment duration are overestimated. The article provides insights for RDD evaluations of age‐discontinuous policies.",
+ "tittel": "AGE DISCONTINUITY AND NONEMPLOYMENT BENEFIT POLICY EVALUATION THROUGH THE LENS OF JOB SEARCH THEORY",
+ "type": "article"
+}

@@ -1,0 +1,19 @@
+{
+ "ar": 2023,
+ "doi": "https://doi.org/10.1515/bejeap-2022-0200",
+ "forfattere": [
+  "Pinka Chatterji",
+  "Yue Li"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "http://www.nber.org/papers/w29307.pdf",
+ "hvordan": "pdf",
+ "id": "W4327977344",
+ "kilde": "The B E Journal of Economic Analysis & Policy",
+ "lenke": "https://openalex.org/W4327977344",
+ "merknad": "ÅPEN VERSJON (preprint eller arbeidsnotat), merkes i svaret",
+ "oversikt": false,
+ "sammendrag": "Abstract In this paper, we examine the labor market recovery from the COVID-19 recession and test for effects of termination of pandemic unemployment insurance programs among 15–24-year-olds. We use data from the January 2016–October 2022 Current Population Survey. Using regression-based methods, we show that while 15–19-year-olds experienced a brisk, full recovery in labor market outcomes from the COVID-19 recession, the recovery was sluggish and incomplete among 20–24-year-olds, with some work outcomes lagging below pre-pandemic norms well into 2022. Termination of pandemic UI programs led to increased work hours and full-time employment among 20–24-year-olds but did not have these effects among 15–19-year-olds.",
+ "tittel": "Recovery from the COVID-19 Recession: Uneven Effects among Young Workers?",
+ "type": "article"
+}

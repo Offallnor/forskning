@@ -1,0 +1,14 @@
+{
+ "ar": 2020,
+ "forfattere": [
+  "Béatrice Boutchenik",
+  "Raphaël Lardeux"
+ ],
+ "id": "W3047943556",
+ "kilde": "RePEc: Research Papers in Economics",
+ "lenke": "https://openalex.org/W3047943556",
+ "oversikt": false,
+ "sammendrag": "French National Employment Agency grants benefit extensions to recipients who reach benefit exhaustion and have worked for a certain period of time since the start of their spell. To this end, claimants are required to send an Employer Certificate for each contract they undertook. Until mid-2014, above one fifth of unemployed workers did not fully certify their work history. In this paper, we show that a simple informational intervention may strongly increase the take-up of potential UI benefit extensions, especially among recipients with little unemployment experience. The \"renewal-of-entitlement\" reform of October 2014 introduced an informative letter automatically sent to claimants upon benefit exhaustion and emphasizing the role of Employer Certificates. Relying on the administrative file of French UI claimants (FNA) in a regression discontinuity design, we estimate that the letter reduced by 14 points the share of claimants who do not certify their full work history and extended the potential benefit duration by one month on average. This informational mailing narrowed the gap incertification behavior between claimants with different levels of unemployment experience.",
+ "tittel": "The Take-Up of Unemployment Benefit Extensions",
+ "type": "preprint"
+}

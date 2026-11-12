@@ -1,0 +1,14 @@
+{
+ "apen_url": "https://tigerprints.clemson.edu/all_dissertations/1585",
+ "ar": 2015,
+ "forfattere": [
+  "James Jones"
+ ],
+ "id": "W2225898466",
+ "kilde": "TigerPrints (Clemson University)",
+ "lenke": "https://openalex.org/W2225898466",
+ "oversikt": false,
+ "sammendrag": "Unemployment insurance is designed to help workers smooth consumption in the event of a negative employment shock. These benefits are traditionally funded and administrated by the individual states and territories of the United States. The depth and severity of the “Great Recession” that started in December of 2007 and ended in June of 2009 was such that, Congress was compelled on multiple occasions to extend those benefits. Legislation during this period extended the duration of unemployment benefits to the longest period in history, as unemployed individuals in many states could receive up to 99 weeks of unemployment compensation. The policy goal was to help those individuals impacted by the recession rather than the chronically unemployed from earlier time periods. An arbitrary date was chosen for determining eligibility. The creation of the Emergency Unemployment Compensation (EUC) program created a “natural experiment” to test the impact of extended unemployment benefits. In this paper I analyze the effects of the EUC program on unemployment and wages after re-employment using data from the State of Kentucky. This study is based on administrative data from the Kentucky unemployment insurance system and includes information on all unemployment claims from January of 2006 to December of 2011. After an overview of the EUC program and the labor market conditions in Kentucky during the relevant time period, I examine the natural experiment created by the arbitrary effective date of the EUC program across two distinct cohorts in Kentucky. In the final section of this paper, I examine the relationship between extended unemployment compensation and post-unemployment wage outcomes for individuals that utilized the extended benefits of EUC as compared to those individuals that exited the unemployment insurance system in Kentucky after utilizing only the state benefit system. My estimates indicate that utilizing extended unemployment benefits had a large and statistically significant negative impact on the quarterly, reemployment wage earnings. Utilizing an instrumental variable approach to control for the potential endogeneity of the choice to reduce search effort, this study finds that after controlling for demographic and education characteristics, the utilization of extended unemployment benefits reduced workers annual reemployment earnings by thousands of dollars.",
+ "tittel": "Estimating the Effect of Extended and Emergency Unemployment Benefits on the Long-term Unemployed",
+ "type": "dissertation"
+}

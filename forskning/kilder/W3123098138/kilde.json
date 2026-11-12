@@ -1,0 +1,17 @@
+{
+ "ar": 2011,
+ "forfattere": [
+  "Shigeru Fujita"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "https://www.philadelphiafed.org/-/media/frbp/assets/working-papers/2010/wp10-35R.pdf",
+ "hvordan": "pdf",
+ "id": "W3123098138",
+ "kilde": "RePEc: Research Papers in Economics",
+ "lenke": "https://openalex.org/W3123098138",
+ "merknad": "ÅPEN VERSJON (preprint eller arbeidsnotat), merkes i svaret",
+ "oversikt": false,
+ "sammendrag": "This paper attempts to quantify the effects of extended unemployment insurance benefits in recent years. Using the monthly Current Population Survey, I estimate unemployment-to-employment (UE) hazard function and unemployment-to-inactivity (UN) hazard function for male workers. The estimated hazard functions for the period of 2004-2007, during which no extended benefits were available, exhibit patterns consistent with the expiration of regular benefits at 26 weeks. These patterns largely disappear from the hazard functions for the period of 2009-2010, during which largescale extended benefits had become available. I conduct counterfactual experiments in which the estimated hazard functions for 2009-2010 are replaced by the counterfactual hazard functions whose patterns are inferred from those for the 2004-2007 period. The experiments suggest that extended benefits in recent years have raised male workers? unemployment rate by 1.2 percentage points with a 90% confidence interval of 0.8 to 1.8 percentage points. The increases in the unemployment rate largely come from the effects on the UE hazard function rather than the UN hazard function.",
+ "tittel": "Effects of extended unemployment insurance benefits: evidence from the monthly CPS",
+ "type": "preprint"
+}

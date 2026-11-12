@@ -1,0 +1,21 @@
+{
+ "apen_url": "https://autopapers.ssrn.com/sol3/papers.cfm?abstract_id=2723321",
+ "ar": 2025,
+ "doi": "https://doi.org/10.1257/mac.20200239",
+ "forfattere": [
+  "Marcus Hagedorn",
+  "Iourii Manovskii",
+  "Kurt Mitman"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "http://www.nber.org/papers/w20884.pdf",
+ "hvordan": "pdf",
+ "id": "W3122724300",
+ "kilde": "American Economic Journal Macroeconomics",
+ "lenke": "https://openalex.org/W3122724300",
+ "merknad": "ÅPEN VERSJON (preprint eller arbeidsnotat), merkes i svaret",
+ "oversikt": false,
+ "sammendrag": "We measure the aggregate effect of unemployment benefit duration on employment and the labor force. We exploit the variation induced by Congress' failure in December 2013 to reauthorize the unprecedented benefit extensions introduced during the Great Recession. Federal benefit extensions that ranged from 0 to 47 weeks across US states were abruptly cut to zero. In sharp contrast to their typical dynamics, labor force and employment growth accelerated sharply in states with larger cuts in benefit duration. These findings are consistent with the equilibrium search framework that assigns an important role to endogenous job creation. (JEL E24, E32, J21, J64, J65)",
+ "tittel": "The Impact of Unemployment Benefit Extensions on Employment: The 2014 Employment Miracle?",
+ "type": "article"
+}

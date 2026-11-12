@@ -1,0 +1,19 @@
+{
+ "ar": 2010,
+ "doi": "https://doi.org/10.1136/oem.2009.050849",
+ "forfattere": [
+  "Sandra H. van Oostrom",
+  "Willem van Mechelen",
+  "Berend Terluin",
+  "Henrica C. W. de Vet",
+  "Dirk L. Knol",
+  "Johannes R. Anema"
+ ],
+ "id": "W2142327029",
+ "kilde": "Occupational and Environmental Medicine",
+ "lenke": "https://openalex.org/W2142327029",
+ "oversikt": false,
+ "sammendrag": "OBJECTIVES: To evaluate the effectiveness of a participatory workplace intervention compared with usual care for sick-listed employees with distress, with regard to return to work (RTW) within the 12-month follow-up. METHODS: Employees with distress and sick-listed for 2-8 weeks were randomised to a workplace intervention (n=73) or to usual care (n=72). The participatory workplace intervention is a stepwise process involving the sick-listed employee and their supervisor, aimed at reducing obstacles for RTW by reaching consensus about an action plan for RTW. Outcome variables were lasting RTW, cumulative sickness absence and stress-related symptoms. RESULTS: Overall, an HR of 0.99 (95% CI 0.70 to 1.39) indicated no effect of the workplace intervention on lasting RTW. However, the workplace intervention significantly reduced the time until lasting RTW for employees who at baseline intended to return to work despite symptoms with an HR of 2.05 (95% CI 1.22 to 3.45). Employees who intended to return to work despite symptoms returned to work after 55 days in the workplace intervention group and 120 days in the usual care group. No such effect of the intervention was found for employees without baseline intentions to return to work despite symptoms (HR=0.78, 95% CI 0.47 to 1.28). CONCLUSIONS: No overall effect of the participatory workplace intervention on lasting RTW was found. The workplace intervention appeared effective on lasting RTW for employees who at baseline intended to return to work despite symptoms. For employees who showed no baseline intention to return to work, the intervention did not have any effect. Other approaches are needed for this subgroup. This trial has been registered at the Dutch National Trial Register ISRCTN92307123.",
+ "tittel": "A workplace intervention for sick-listed employees with distress: results of a randomised controlled trial",
+ "type": "article"
+}

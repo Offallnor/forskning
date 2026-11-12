@@ -1,0 +1,19 @@
+{
+ "ar": 2017,
+ "forfattere": [
+  "Rodolfo G. Campos",
+  "José Ignacio García Pérez",
+  "Iliana G. Reggio"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "https://documentos.fedea.net/pubs/dt/2017/dt2017-10.pdf",
+ "hvordan": "pdf",
+ "id": "W3123781533",
+ "kilde": "RePEc: Research Papers in Economics",
+ "lenke": "https://openalex.org/W3123781533",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "We show that an unemployment insurance scheme in which unemployment benefits decrease over the unemployment spell allows to separately estimate the liquidity and moral hazard effects of unemployment insurance. We empirically estimate these effects using Spanish administrative data in a Regression Kink De- sign (RKD) that exploits two kinks in the schedule of unemployment benefits with respect to prior labor income. We derive a “sufficient statistics” formula for the optimal level of unemployment benefits that generalizes results by Chetty (2008) for the case in which unemployment benefits are allowed to vary over the unem- ployment spell. We find that during the first six months of the unemployment spell moral hazard effects dominate liquidity effects and that the benefits of un- employment insurance are low relative to the costs. On the other hand, after the initial six months, liquidity effects explain about three quarters of the change in hazard rates, raising the value of providing insurance in that period.",
+ "tittel": "Moral hazard versus liquidity and the optimal timing of unemployment benefits",
+ "type": "preprint"
+}

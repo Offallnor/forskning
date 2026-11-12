@@ -1,0 +1,17 @@
+{
+ "ar": 2011,
+ "forfattere": [
+  "Lorenzo Corsini"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "https://www.ec.unipi.it/documents/Ricerca/papers/2011-119.pdf",
+ "hvordan": "pdf",
+ "id": "W1569943903",
+ "kilde": "RePEc: Research Papers in Economics",
+ "lenke": "https://openalex.org/W1569943903",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "We analyse the role that wealth and unemployment benefits have on unemployment duration and try to tackle the different mechanisms through which they may interact. In particular, we investigated on whether liquidity constraints (which are influenced both by wealth and benefits) are affecting negatively search effort and thus unemployment duration and whether the benefits eligibility criteria, requiring active search could produce incentives to find a job. Using a sample of newly unemployed from Italy in 2007, we perform estimations of Cox hazard models and as- sess what variables are important in determining unemployment duration. Our analysis highlights three relevant features. 1) Benefits have a mixed effect on duration: initially they provide incentives to actively search and increase re-employment probability, as the eligibility criteria impose certain search requirements and benefits are associated to re-employment services and counseling. However, with time, the mitigation of liquidity constraints takes over and they increase duration. 2) Household wealth, reducing liquidity constraints, seems to increase duration. 3) We find interactions between benefits and wealth: individuals from richer house- holds have less liquidity constraints and therefore the mitigating effect of benefits on liquidity constraints is less relevant and, in fact, we do not find evidence that, for these individuals, benefits increase unemployment duration.",
+ "tittel": "On Wealth, Unemployment Benefits and Unemployment Duration: some Evidence from Italy",
+ "type": "preprint"
+}

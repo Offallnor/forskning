@@ -1,0 +1,17 @@
+{
+ "apen_url": "https://doi.org/10.3386/w19772",
+ "ar": 2013,
+ "doi": "https://doi.org/10.3386/w19772",
+ "forfattere": [
+  "Johannes F. Schmieder",
+  "Till von Wachter",
+  "Stefan Bender"
+ ],
+ "id": "W2110608765",
+ "kilde": "National Bureau of Economic Research",
+ "lenke": "https://openalex.org/W2110608765",
+ "oversikt": false,
+ "sammendrag": "This paper provides quasi-experimental estimates of the causal effect of long-term unemployment on wages.Using standard job search theory, the paper derives and tests conditions on reemployment wages under which Unemployment Insurance (UI) extensions can be used as instrumental variables (IV) for unemployment duration.Using a regression discontinuity design, the paper shows that UI extensions at age thresholds reduced reemployment wages of job searchers in Germany.The UI extensions do not affect the reemployment wages conditional on the month of unemployment exit, implying reservation wages do not bind on average.Hence, UI extensions affect mean wages only through unemployment durations.Our IV estimates imply substantial negative effects of unemployment duration on wages of 0.8% per month.",
+ "tittel": "The Causal Effect of Unemployment Duration on Wages: Evidence from Unemployment Insurance Extensions",
+ "type": "report"
+}

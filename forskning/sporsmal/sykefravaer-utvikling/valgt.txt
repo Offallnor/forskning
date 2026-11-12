@@ -1,0 +1,54 @@
+# Sammenligning mellom land og drivere
+W3009296559  # 2020, OECD: Norge sammenlignet med Sverige, Nederland og Sveits
+W2581862424  # 2017, sykepenger og sykefravær i Europa 1997–2011
+W3213478442  # 2021, årsaker til sykefravær i Europa, mellom land og kjønn
+W4229447182  # 2022, oppfølgingsregimer i ni nordvesteuropeiske land
+W7171777052  # 2026, scoping review: arbeidsgiverbetalt sykefravær i høyinntektsland
+# Utvikling over tid
+W3130895466  # 2021, økning i fravær for psykiske lidelser, Finland 2005–2019
+W4410313102  # 2025, langtidsfravær for psykiske lidelser etter sosioøkonomisk gruppe, Finland 2010–2023
+W7200205185  # 2025, langtidsfravær Finland 2010–2023 etter kjønn, alder, diagnose
+W4408043658  # 2025, yrkesklasse og diagnose, Finland 2011–
+W4387095603  # 2023, endret sammensetning av arbeidsstyrken og fraværstrender, Finland
+W3167036525  # 2021, ledighet og sykefravær, Finland
+W7156333201  # 2026, sykefravær før og under pandemien, finsk offentlig sektor
+W7170890177  # 2026, skjulte pandemien en økning i muskel/skjelett-fravær? Østerrike/Slovenia
+W4366153706  # 2023, pandemien og sykefravær blant helsearbeidere, Norge og Sverige
+W7165061248  # 2026, økningen i fravær 2022 bare delvis pga. elektroniske sykmeldinger
+W4400714395  # 2022, fraværet økte bare marginalt under pandemien
+W4283373019  # 2022, fravær for psykiske lidelser øker kraftig
+W4413383411  # 2025, psykiske lidelser og antidepressiva på tvers av bransjer under pandemien
+W4403637555  # 2024, legemeldt fravær i Norge over trend 2020–2023 (eldre runde: via tittel)
+# Eldre runde: kilder som bare sto i estimater.tsv, ført inn her
+W2993400654  # 2019, sykelønn og sykefravær i Europa, oversikt over tidligere studier
+W3209365492  # 2021, fravær for psykiske lidelser blant NHS-ansatte under pandemien
+W4399240052  # 2024, arbeidsmiljø og trender i sykefravær, Sverige
+# Kaldtest 2, første utvalg etter norsk søk og referanser runde 1
+019c13c07b5d-2fdc8def-e5c2-4997-bef7-68f2c1b7cada  # 2025, Nosrati: sykefravær i Norge og Sverige sammenlignet (faktaflak)
+AV-2022-3-01  # 2022, legemeldt fravær 2001–2021: antall tilfeller eller varighet
+AV-2024-2-03  # 2024, hvorfor fraværet fortsatt er høyt i 2023
+AV-2025-3-04  # 2025, økningen i fravær med psykisk diagnose
+AV-2023-2-03  # 2023, fravær etter covid-19, trøtthet og slapphet
+AV-2020-2-02  # 2020, fraværet de første månedene av pandemien
+AV-2024-1-03  # 2024, hyppig gjentakende fravær, omfang og utvikling
+W4304172721  # 2022, omikron og sykefravær i alle bransjer, Norge
+W3201021805  # 2021, nye fravær blant NHS-ansatte 2020 mot 2019
+W4407319512  # 2025, fravær blant privatansatte funksjonærer 2019–2021, Sverige
+W4310375817  # 2022, langvarig fravær etter yrke i fire nordiske land
+W4392197176  # 2023, kostnader ved sykefravær i Europa 2006–2020 etter land og kjønn
+0198f22760a6-c80f28c1-bed0-4b04-b91b-85203d40dd2c  # 2022, masteroppgave: sammensetning og nedgang i fravær i industrien 2001–2019
+01999f330df6-61199673-0dc2-4da6-beee-44d402da77ad  # 2023, masteroppgave: sammensetning og fravær i undervisning
+W2129153957  # 2014, sykefravær og konjunkturer, Sveits (mekanisme)
+W2785834892  # 2018, sykelønnsregler og fravær i Europa (EWCS 2010)
+W4400282262  # 2024, sykmeldinger knyttet til covid-19 2020–2022, England (referanser runde 2)
+# Kaldtest 2: tatt inn fra det blinde utvalget
+W7127960047  # 2026, sykmeldinger i England 2017–2019 mot 2022–2023 (blindt utvalg)
+W4399485338  # 2024, kjønnsgapet i sykepenger i Sverige 1994–2018 (blindt utvalg)
+W7119467493  # 2026, angstlidelser som grunn for sykepenger i Finland 2010–2024 (blindt utvalg)
+W4413036354  # 2025, fravær for psykiske lidelser blant unge voksne i Finland 2004–2018 (blindt utvalg)
+W4390881238  # 2024, langtidsfravær etter kjønn i Nederland 2010–2020 (blindt utvalg)
+AV-2008-4-01  # 2008, oversikt: sykefravær og konjunkturer (blindt utvalg, eldre mekanisme)
+W2076042101  # 2015, finanssjokk i norske kommuner og sykefravær (blindt utvalg, naturlig eksperiment)
+W3198827421  # 2021, effekt av mild og alvorlig covid-19 på sykefravær, Norge (blindt utvalg)
+W7167811346  # 2026, covid-19-smitte og langvarig fravær, Danmark (blindt utvalg)
+W7215130240  # 2026, nyhetsnegativitet og fravær for psykisk uhelse, Sverige 2010–2025 (blindt utvalg)

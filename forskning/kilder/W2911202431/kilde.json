@@ -1,0 +1,16 @@
+{
+ "apen_url": "https://doi.org/10.34196/ijm.00183",
+ "ar": 2017,
+ "doi": "https://doi.org/10.34196/ijm.00183",
+ "forfattere": [
+  "Mauri Kotamäki",
+  "Jukka Mattila",
+  "Jussi Tervola"
+ ],
+ "id": "W2911202431",
+ "lenke": "https://openalex.org/W2911202431",
+ "oversikt": false,
+ "sammendrag": "In 2017, the potential duration of the Finnish earnings-related unemployment benefit was cut from 500 to 400 days (or 400 to 300 working days). We apply a microsimulation method to calculate both static and behavioral ex-ante effects of the reform on employment, public finances and income inequality. Relying on previous empirical literature, we employ three benefit elasticity levels. Individual heterogeneity is added by weighting the elasticities with estimated employment probabilities. According to the static scenario, the reform increases income inequality, albeit marginally. Accounting for the behavioral response mitigates the effect on inequality and more than doubles the effect on public finances.",
+ "tittel": "Distributional Impacts of Behavioral Effects –Ex-Ante Evaluation of the 2017 Unemployment Insurance Reform in Finland",
+ "type": "article"
+}

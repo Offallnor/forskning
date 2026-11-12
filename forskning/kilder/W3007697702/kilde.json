@@ -1,0 +1,24 @@
+{
+ "apen_url": "https://www.sjweh.fi/download.php?abstract_id=3888&file_nro=1",
+ "ar": 2020,
+ "doi": "https://doi.org/10.5271/sjweh.3888",
+ "forfattere": [
+  "Marianna Virtanen",
+  "Tea M. Lallukka",
+  "Mika Kivimaki B",
+  "Kristina A. E. Alexanderson",
+  "Jenni M Ervasti",
+  "Ellenor Mittendorfer‐Rutz"
+ ],
+ "hentet": "2026-11-09",
+ "hentet_fra": "https://www.sjweh.fi/pdf-236688-144549?filename=Neurodevelopmental-disord.pdf",
+ "hvordan": "pdf",
+ "id": "W3007697702",
+ "kilde": "Scandinavian Journal of Work Environment & Health",
+ "lenke": "https://openalex.org/W3007697702",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "Objectives Attention-deficit/hyperactivity disorder (ADHD), autism spectrum disorders (ASD) and learning disabilities (LD) have an early onset and often persist into adulthood, although their relative contribution to incapacity for work is unclear. We examined this issue among young adults with ADHD, ASD or LD taking into account socioeconomic factors and comorbid mental disorders. Methods Recorded diagnoses between the ages of 10-35 years between 2001 and 2010 were derived from nationwide inpatient and specialized outpatient hospital registers in Sweden. We identified 15 632 individuals with a main diagnosis of ADHD, 8238 with ASD, and 1038 with LD, and the matched control group without recorded mental disorders (N=124 536). The outcome was the number of register-based sickness absence and work disability pension (SA-DP) days during a maximum of three years follow-up. Results Among men, the rate ratio (RR) of SA-DP was 11.17 [95% confidence interval (CI) 9.89-12.60] for ADHD, 35.59 (95% CI 30.30-41.81) for ASD, and 9.20 (95% CI 5.76-14.70) for LD, in comparison to those in the reference group. The corresponding risks among women were RR 12.05 (95% CI 10.30-14.09) for ADHD, RR 28.36 (95% CI 22.96-35.02) for ASD, and RR 9.60 (95% CI 5.83-15.81) for LD. The findings were, to a large extent, similar when individuals on DP at baseline were excluded. Comorbid mental disorders further increased the risk of SA-DP. Educational differences were smaller among the patients than in the reference group. Conclusions Early-onset neurodevelopmental disorders, particularly with comorbidity, have a far-reaching impact on adult life in terms of SA and DP.",
+ "tittel": "Neurodevelopmental disorders among young adults and the risk of sickness absence and disability pension: a nationwide register linkage study",
+ "type": "article"
+}

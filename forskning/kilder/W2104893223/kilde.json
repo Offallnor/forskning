@@ -1,0 +1,20 @@
+{
+ "ar": 2014,
+ "doi": "https://doi.org/10.1093/qje/qju019",
+ "forfattere": [
+  "Gordon B. Dahl",
+  "Andreas Kostøl",
+  "Magne Mogstad"
+ ],
+ "hentet": "2026-11-09",
+ "hentet_fra": "https://nva.sikt.no/registration/01993864e740-e9d6de0b-917b-4db6-ad40-69684c2fbb7d",
+ "hvordan": "vitenarkivet",
+ "id": "W2104893223",
+ "kilde": "The Quarterly Journal of Economics",
+ "lenke": "https://openalex.org/W2104893223",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "Abstract We investigate the existence and importance of family welfare cultures, where the receipt of a welfare program by one generation causes increased participation in the next generation. Our context is Norway’s disability insurance (DI) system. To overcome the challenge of correlated unobservables across generations, we take advantage of random assignment of judges to DI applicants whose cases are initially denied. Some appeal judges are systematically more lenient, which leads to random variation in the probability a parent will be allowed DI. Using this exogenous variation, we find strong evidence for a causal link across generations: when a parent is allowed DI at the appeal stage, their adult child’s participation over the next five years increases by 6 percentage points. This effect grows over time, rising to 12 percentage points after 10 years. Although these findings are specific to our setting, they highlight that welfare reforms can have long-lasting effects on program participation, since any original effect on the current generation could be reinforced by changing the participation behavior of their children as well. The detailed nature of our data allows us to compare the intergenerational transmission with spillover effects in other networks and to explore mechanisms.",
+ "tittel": "Family Welfare Cultures *",
+ "type": "article"
+}

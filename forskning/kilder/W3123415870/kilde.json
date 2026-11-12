@@ -1,0 +1,19 @@
+{
+ "apen_url": "https://shs.hal.science/halshs-02072800",
+ "ar": 2019,
+ "forfattere": [
+  "Bruno Decreuse",
+  "Guillaume Wilemme"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "https://red-files-public.s3.amazonaws.com/meetpapers/2019/paper_890.pdf",
+ "hvordan": "pdf",
+ "id": "W3123415870",
+ "kilde": "RePEc: Research Papers in Economics",
+ "lenke": "https://openalex.org/W3123415870",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "A recent strand of papers use sharp regression discontinuity designs (RDD) based on age discontinuity to study the impacts of minimum income and unemployment insurance benefit extension policies. This design challenges job search theory, which predicts that such RDD estimates are biased. Owing to market frictions, people below the age threshold account for future eligibility to the policy. This progressively affects their search outcomes as they get closer to entitlement. Comparing them to eligible people leads to biased estimates because both groups of workers are actually treated. We provide a nonstationary job search model and illustrate the theoretical biaseson the datasets used in the literature. Our results suggest that the employment impact of minimum income policies are (significantly) under-estimated, whereas the impacts of benefit extensions on nonemployment duration are (not significantly) over-estimated.",
+ "tittel": "Age discontinuity and nonemployment benefit policy evaluation through the lens of job search theory",
+ "type": "preprint"
+}

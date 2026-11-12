@@ -1,0 +1,26 @@
+{
+ "apen_url": "https://doi.org/10.1371/journal.pmed.1002898",
+ "ar": 2019,
+ "doi": "https://doi.org/10.1371/journal.pmed.1002898",
+ "forfattere": [
+  "Bjarke Brandt Hansen",
+  "Lilli Kirkeskov",
+  "Luise Mølenberg Begtrup",
+  "Mikael Boesen",
+  "Henning Bliddal",
+  "Robin Christensen",
+  "Ditte Lundsgaard Andreasen",
+  "Lars Erik Kristensen"
+ ],
+ "hentet": "2026-11-09",
+ "hentet_fra": "https://findresearcher.sdu.dk/ws/files/153987969/Early_occupational_intervention_for_people_with_low_back_pain_in_physically_demanding_jobs.pdf",
+ "hvordan": "pdf",
+ "id": "W2969005613",
+ "kilde": "PLoS Medicine",
+ "lenke": "https://openalex.org/W2969005613",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "BACKGROUND: Occupational medicine seeks to reduce sick leave; however, evidence for an add-on effect to usual care is sparse. The objective of the GOBACK trial was to test whether people with low back pain (LBP) in physically demanding jobs and at risk of sick leave gain additional benefit from a 3-month complex intervention that involves occupational medicine consultations, a work-related evaluation and workplace intervention plan, an optional workplace visit, and a physical activity program, over a single hospital consultation and an MRI. METHODS AND FINDINGS: We enrolled people from the capital region of Denmark to an open-label, parallel-group randomized controlled trial with a superiority design from March 2014 through December 2015. In a hospital setting 305 participants (99 women) with LBP and in physically demanding jobs were randomized to occupational intervention (n = 153) or no additional intervention (control group; n = 152) added to a single hospital consultation giving a thorough explanation of the pain (i.e., clinical examination and MRI) and instructions to stay active and continue working. Primary outcome was accumulated sick leave days due to LBP during 6 months. Secondary outcomes were changes in neuropathic pain (painDETECT questionnaire [PDQ]), pain 0-10 numerical rating scale (NRS), Fear-Avoidance Beliefs Questionnaire (FABQ), Roland-Morris Disability Questionnaire (RMDQ), Short Form Health Survey (SF-36) for physical and mental health-related quality of life (HRQoL), and self-assessed ability to continue working (range 0-10). An intention-to-treat analysis of sick leave at 6 months showed no significant difference between groups (mean difference in days suggestively in favor of no additional intervention: 3.50 [95% CI -5.08 to 12.07], P = 0.42). Both groups showed significant improvements in average pain score (NRS), disability (RMDQ), fear-avoidance beliefs about physical activities and work (FABQ), and physical HRQoL (SF-36 physical component summary); there were no significant differences between the groups in any secondary outcome. There was no statistically significant improvement in neuropathic pain (PDQ score), mental HRQoL (SF-36 mental component summary), and self-assessed ability to stay in job. Four participants could not complete the MRI or the intervention due to a claustrophobic attack or accentuated back pain. Workplace visits may be an important element in the occupational intervention, although not always needed. A per-protocol analysis that included the 40 participants in the intervention arm who received a workplace visit as part of the additional occupational intervention did not show an add-on benefit in terms of sick leave (available cases after 6 months, mean difference: -0.43 days [95% CI -12.8 to 11.94], P = 0.945). The main limitations were the small number of sick leave days taken and that the comprehensive use of MRI may limit generalization of the findings to other settings, for example, general practice. CONCLUSIONS: When given a single hospital consultation and MRI, people in physically demanding jobs at risk of sick leave due to LBP did not benefit from a complex additional occupational intervention. Occupational interventions aimed at limiting biopsychological obstacles (e.g., fear-avoidance beliefs and behaviors), barriers in the workplace, and system barriers seem essential to reduce sick leave in patients with LBP. This study indicates that these obstacles and barriers may be addressed by thorough usual care. TRIAL REGISTRATION: Clinical Trials.gov: NCT02015572.",
+ "tittel": "Early occupational intervention for people with low back pain in physically demanding jobs: A randomized clinical trial",
+ "type": "article"
+}

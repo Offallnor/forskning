@@ -1,0 +1,20 @@
+{
+ "apen_url": "https://www.annualreviews.org/doi/pdf/10.1146/annurev-economics-082322-035621",
+ "ar": 2022,
+ "doi": "https://doi.org/10.1146/annurev-economics-082322-035621",
+ "forfattere": [
+  "Tito Boeri",
+  "Pierre Cahuc"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "http://eprints.lse.ac.uk/118000/1/dp1875.pdf",
+ "hvordan": "pdf",
+ "id": "W4322604235",
+ "kilde": "Annual Review of Economics",
+ "lenke": "https://openalex.org/W4322604235",
+ "merknad": "",
+ "oversikt": true,
+ "sammendrag": "The recovery from the Covid-19 crisis will force governments to accelerate transformation in their menu of labor market policy tools. The crisis was a stress test for unemployment insurance schemes as it involved a sudden and unexpected shutdown of a very large set of activities. This forced countries to introduce, often from scratch, income support schemes for workers under new forms of employment, and the self-employed. There was also a considerable expansion of short-time work schemes notably towards the small business. The challenge ahead of us is perhaps even harder as post-Covid19 labor markets are likely to be characterized by substantial labor reallocation. Major innovations in labor market policy are required to smooth consumption of workers involved in this reallocation. We survey the large body of research on schemes reducing the costs of reallocation complementary to unemployment insurance. Our attention is on short-time work (preventing layoffs by subsidizing hors reductions), partial unemployment insurance (enabling workers to combine unemployment benefits with low income jobs), and wage insurance (offering a temporary wage subsidy to workers changing jobs). The properties of these new schemes are first presented and compared to those of standard unemployment benefits. Next the main results of the empirical literature on the effects of wage insurance, partial unemployment insurance and short-time work are presented. A final section is devoted to discussing directions for further research.",
+ "tittel": "Labor Market Insurance Policies in the Twenty-First Century",
+ "type": "review"
+}

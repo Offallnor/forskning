@@ -1,0 +1,20 @@
+{
+ "apen_url": "https://doi.org/10.3386/w4434",
+ "ar": 1993,
+ "doi": "https://doi.org/10.3386/w4434",
+ "forfattere": [
+  "James M. Poterba",
+  "Lawrence H. Summers"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "https://doi.org/10.3386/w4434",
+ "hvordan": "pdf",
+ "id": "W1584218908",
+ "kilde": "National Bureau of Economic Research",
+ "lenke": "https://openalex.org/W1584218908",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "This paper develops an algorithm for analyzing discrete events, such as labor market transitions, when some of these transitions are spurious because of measurement errors.Our algorithm extends the standard multinomial logit model, although our basic approach couid be used with other stochastic models as well.We apply this algorithm to study the effect of unemployment insurance (UI) on transitions from unemployment to employment and out of the labor force.Our results suggest that UI lengthens unemployment spells by reducing both transition rates, and show that correcting for measurement error strengthens the apparent effect of UI on spell durations.",
+ "tittel": "Unemployment Benefits, Labor Market Transitions, and Spurious Flows: A Multinational Logit Model with Errors in Classification",
+ "type": "report"
+}

@@ -1,0 +1,19 @@
+{
+ "apen_url": "https://doi.org/10.3386/w29505",
+ "ar": 2021,
+ "doi": "https://doi.org/10.3386/w29505",
+ "forfattere": [
+  "Rohan Kekre"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "https://nva.sikt.no/registration/01a09fd5bf4a-1bfa3b5c-5ef1-492b-b21c-a2d603b29453",
+ "hvordan": "vitenarkivet",
+ "id": "W2551207422",
+ "kilde": "National Bureau of Economic Research",
+ "lenke": "https://openalex.org/W2551207422",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "I study unemployment insurance (UI) in general equilibrium with incomplete markets, search frictions, and nominal rigidities.An increase in generosity raises the aggregate demand for consumption if the unemployed have a higher marginal propensity to consume (MPC) than the employed or if agents precautionary save in light of future income risk.This raises output and employment unless monetary policy raises the nominal interest rate.In an analysis of the U.S. economy over 2008-2014, UI benefit extensions had a contemporaneous output multiplier around 1. The unemployment rate would have been as much as 0.4pp higher absent these extensions.",
+ "tittel": "Unemployment Insurance in Macroeconomic Stabilization",
+ "type": "report"
+}

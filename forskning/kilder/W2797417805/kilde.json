@@ -1,0 +1,19 @@
+{
+ "ar": 2002,
+ "doi": "https://doi.org/10.2307/3069652",
+ "forfattere": [
+  "Per Johansson",
+  "Marten O. Palme"
+ ],
+ "hentet": "før 2026-11-08",
+ "hentet_fra": "https://www.econstor.eu/bitstream/10419/82177/1/wp02-13.pdf",
+ "hvordan": "pdf",
+ "id": "W2797417805",
+ "kilde": "The Journal of Human Resources",
+ "lenke": "https://openalex.org/W2797417805",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "We analyze the effect of economic incentives on worker absenteeism, using panel data on work absence for 1990 and 1991 with a sample of 1,396 Swedish blue-collar workers. During this period Sweden implemented major reforms of both its national income replacement program for short-term sickness and income taxes. Both affected the worker's cost of missing work. Our econometric model allows for state-dependent dynamic behavior and control for unobserved heterogeneity. The latter proves to be an important consideration. We find that the cost of being absent significantly affects work absence behavior.",
+ "tittel": "Assessing the Effect of Public Policy on Worker Absenteeism",
+ "type": "article"
+}

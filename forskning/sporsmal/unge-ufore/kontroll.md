@@ -1,0 +1,1967 @@
+# Kontroll: unge-ufore
+
+Kjørt 2026-11-09.
+
+0 feil av 1961 kontroller.
+
+- OK   1 kilde 0198cc84729b-a09bd70a-765d-4bbb-a164-84a96be028c2 finnes
+- OK   1 kilde 0198f22710a7-9891d74a-fefc-44a0-927c-96a4a3d8525a finnes
+- OK   1 kilde 019909c23973-ea65712e-ebc7-454b-b8df-def7f6bf6e87 finnes
+- OK   1 kilde 019c9524cfcc-39907780-0d56-4239-9b5d-80237da5e2eb finnes
+- OK   1 kilde AV-2015-1-03 finnes
+- OK   1 kilde AV-2015-3-07 finnes
+- OK   1 kilde AV-2018-2-04 finnes
+- OK   1 kilde AV-2020-2-04 finnes
+- OK   1 kilde AV-2021-1-06 finnes
+- OK   1 kilde AV-2022-2-02 finnes
+- OK   1 kilde AV-2022-3-05 finnes
+- OK   1 kilde AV-2023-1-01 finnes
+- OK   1 kilde AV-2023-2-07 finnes
+- OK   1 kilde KU-c48cd033-8718-4bb3-a149-7bc9f67459cf finnes
+- OK   1 kilde KU-f0f528eb-0eaf-4e6b-bcb1-5b5b44367324 finnes
+- OK   1 kilde NB-4593 finnes
+- OK   1 kilde R-741042958e finnes
+- OK   1 kilde R-91a7b6c512 finnes
+- OK   1 kilde R-c354ed68d0 finnes
+- OK   1 kilde R-e0bf5ced86 finnes
+- OK   1 kilde R-f51590820c finnes
+- OK   1 kilde W1562236787 finnes
+- OK   1 kilde W1967551067 finnes
+- OK   1 kilde W2102173634 finnes
+- OK   1 kilde W2104893223 finnes
+- OK   1 kilde W2127924530 finnes
+- OK   1 kilde W2160015399 finnes
+- OK   1 kilde W2212575307 finnes
+- OK   1 kilde W2786011848 finnes
+- OK   1 kilde W2929109866 finnes
+- OK   1 kilde W3007697702 finnes
+- OK   1 kilde W3123524712 finnes
+- OK   1 kilde W3186518967 finnes
+- OK   1 kilde W4220875817 finnes
+- OK   1 kilde W4280593459 finnes
+- OK   1 kilde W4323066482 finnes
+- OK   1 kilde W4366083399 finnes
+- OK   1 kilde W4385349285 finnes
+- OK   1 kilde W604728786 finnes
+- OK   1 estimat-kilde AV-2018-2-04 finnes
+- OK   1 estimat-kilde AV-2018-2-04 finnes
+- OK   1 estimat-kilde AV-2018-2-04 finnes
+- OK   1 estimat-kilde AV-2018-2-04 finnes
+- OK   1 estimat-kilde AV-2023-1-01 finnes
+- OK   1 estimat-kilde AV-2023-1-01 finnes
+- OK   1 estimat-kilde AV-2023-1-01 finnes
+- OK   1 estimat-kilde AV-2023-1-01 finnes
+- OK   1 estimat-kilde AV-2023-2-07 finnes
+- OK   1 estimat-kilde AV-2023-2-07 finnes
+- OK   1 estimat-kilde AV-2023-2-07 finnes
+- OK   1 estimat-kilde AV-2023-2-07 finnes
+- OK   1 estimat-kilde AV-2015-1-03 finnes
+- OK   1 estimat-kilde AV-2015-1-03 finnes
+- OK   1 estimat-kilde AV-2015-1-03 finnes
+- OK   1 estimat-kilde AV-2015-1-03 finnes
+- OK   1 estimat-kilde AV-2022-3-05 finnes
+- OK   1 estimat-kilde AV-2022-3-05 finnes
+- OK   1 estimat-kilde AV-2022-3-05 finnes
+- OK   1 estimat-kilde AV-2022-3-05 finnes
+- OK   1 estimat-kilde AV-2021-1-06 finnes
+- OK   1 estimat-kilde AV-2021-1-06 finnes
+- OK   1 estimat-kilde AV-2020-2-04 finnes
+- OK   1 estimat-kilde AV-2020-2-04 finnes
+- OK   1 estimat-kilde AV-2022-2-02 finnes
+- OK   1 estimat-kilde AV-2019-3-03 finnes
+- OK   1 estimat-kilde AV-2024-3-06 finnes
+- OK   1 estimat-kilde KU-f0f528eb-0eaf-4e6b-bcb1-5b5b44367324 finnes
+- OK   1 estimat-kilde AV-2014-1-04 finnes
+- OK   1 estimat-kilde AV-2014-1-04 finnes
+- OK   1 estimat-kilde AV-2011-2-02 finnes
+- OK   1 estimat-kilde AV-2011-2-02 finnes
+- OK   1 estimat-kilde KU-c48cd033-8718-4bb3-a149-7bc9f67459cf finnes
+- OK   1 estimat-kilde KU-c48cd033-8718-4bb3-a149-7bc9f67459cf finnes
+- OK   1 estimat-kilde KU-c48cd033-8718-4bb3-a149-7bc9f67459cf finnes
+- OK   1 estimat-kilde KU-c48cd033-8718-4bb3-a149-7bc9f67459cf finnes
+- OK   1 estimat-kilde KU-c48cd033-8718-4bb3-a149-7bc9f67459cf finnes
+- OK   1 estimat-kilde KU-0b622b9b-b781-4abb-b822-b58ff06c218d finnes
+- OK   1 estimat-kilde KU-760de028-a79e-4384-8d4c-b95617f70198 finnes
+- OK   1 estimat-kilde KU-760de028-a79e-4384-8d4c-b95617f70198 finnes
+- OK   1 estimat-kilde KU-ac69a955-803b-4a00-a9e4-5476bbca9cfe finnes
+- OK   1 estimat-kilde W2104893223 finnes
+- OK   1 estimat-kilde W2104893223 finnes
+- OK   1 estimat-kilde W604728786 finnes
+- OK   1 estimat-kilde W4220875817 finnes
+- OK   1 estimat-kilde W4385349285 finnes
+- OK   1 estimat-kilde W2127924530 finnes
+- OK   1 estimat-kilde W2806250080 finnes
+- OK   1 estimat-kilde W4416980659 finnes
+- OK   1 estimat-kilde W2029267869 finnes
+- OK   1 estimat-kilde W7221976692 finnes
+- OK   1 estimat-kilde 019c9524cfcc-39907780-0d56-4239-9b5d-80237da5e2eb finnes
+- OK   1 estimat-kilde 019909c23973-ea65712e-ebc7-454b-b8df-def7f6bf6e87 finnes
+- OK   1 estimat-kilde 0198f22710a7-9891d74a-fefc-44a0-927c-96a4a3d8525a finnes
+- OK   1 estimat-kilde 01999f35b1ef-206f9791-8599-4806-b338-7a2f7d3eb219 finnes
+- OK   1 estimat-kilde W2929109866 finnes
+- OK   1 estimat-kilde W2929109866 finnes
+- OK   1 estimat-kilde W4323066482 finnes
+- OK   1 estimat-kilde W3007697702 finnes
+- OK   1 estimat-kilde W3007697702 finnes
+- OK   1 estimat-kilde W3186518967 finnes
+- OK   1 estimat-kilde W3186518967 finnes
+- OK   1 estimat-kilde W3015075737 finnes
+- OK   1 estimat-kilde W2682847430 finnes
+- OK   1 estimat-kilde W2146753458 finnes
+- OK   1 estimat-kilde LI-dscdbdnmbgc4xw3q finnes
+- OK   1 estimat-kilde W4220654577 finnes
+- OK   1 estimat-kilde W4391650787 finnes
+- OK   1 estimat-kilde W2360160115 finnes
+- OK   1 estimat-kilde W2360160115 finnes
+- OK   1 estimat-kilde W4392986621 finnes
+- OK   1 estimat-kilde W4280593459 finnes
+- OK   1 estimat-kilde W1562236787 finnes
+- OK   1 estimat-kilde W7134072462 finnes
+- OK   1 estimat-kilde KU-28d03fde-cde6-4f96-b2b1-0a21577fe2d0 finnes
+- OK   1 estimat-kilde 0198cc7e11d4-2d0b6b49-2c02-4356-9b33-1de47cdaf0f4 finnes
+- OK   1 estimat-kilde 0198cc6807e2-495c59a4-4634-4804-a81a-fc8a87b29783 finnes
+- OK   1 estimat-kilde W3112814759 finnes
+- OK   1 estimat-kilde W2053116589 finnes
+- OK   1 estimat-kilde W2974737612 finnes
+- OK   1 estimat-kilde W3088312345 finnes
+- OK   1 estimat-kilde W2972949925 finnes
+- OK   1 estimat-kilde W1556043429 finnes
+- OK   1 estimat-kilde 0198cc84de22-4f46dac1-9ec2-4d88-ba92-17fa922fa65d finnes
+- OK   1 estimat-kilde W1967551067 finnes
+- OK   1 estimat-kilde W587062286 finnes
+- OK   1 estimat-kilde LI-2fvbzlwd07lpr35w finnes
+- OK   1 estimat-kilde LI-21074768 finnes
+- OK   1 estimat-kilde LI-12735054 finnes
+- OK   1 estimat-kilde LI-18267927 finnes
+- OK   1 estimat-kilde LI-jsvt6zbggtpn48tm finnes
+- OK   1 estimat-kilde LI-jw5gmz79g1l7d1qz finnes
+- OK   1 estimat-kilde LI-0lk5z3mnxn299qk5 finnes
+- OK   1 estimat-kilde LI-1fxxn37gzfw6vt90 finnes
+- OK   1 estimat-kilde W4254686849 finnes
+- OK   1 estimat-kilde R-f593e550d1 finnes
+- OK   1 estimat-kilde W2898795531 finnes
+- OK   1 estimat-kilde W2955853013 finnes
+- OK   1 estimat-kilde W2786011848 finnes
+- OK   1 estimat-kilde W4226251129 finnes
+- OK   1 estimat-kilde W4214919594 finnes
+- OK   1 estimat-kilde W7204459539 finnes
+- OK   1 estimat-kilde W7160160129 finnes
+- OK   1 estimat-kilde W2102173634 finnes
+- OK   1 estimat-kilde W2102173634 finnes
+- OK   1 estimat-kilde W4390105359 finnes
+- OK   1 estimat-kilde W2791106760 finnes
+- OK   1 estimat-kilde W2124446614 finnes
+- OK   1 estimat-kilde W2124446614 finnes
+- OK   1 estimat-kilde W2296998102 finnes
+- OK   1 estimat-kilde W4301400721 finnes
+- OK   1 estimat-kilde W2996526052 finnes
+- OK   1 estimat-kilde W4255043211 finnes
+- OK   1 estimat-kilde W4250193163 finnes
+- OK   1 estimat-kilde LI-2p1tj1bb021gf9tl finnes
+- OK   1 estimat-kilde LI-bqr13wbr8sq6510q finnes
+- OK   1 estimat-kilde W1711011686 finnes
+- OK   1 estimat-kilde W4400713382 finnes
+- OK   1 estimat-kilde W4400638309 finnes
+- OK   1 estimat-kilde W2907116799 finnes
+- OK   1 estimat-kilde W7225199481 finnes
+- OK   1 estimat-kilde W2280936789 finnes
+- OK   1 estimat-kilde W2555590515 finnes
+- OK   1 estimat-kilde W2555590515 finnes
+- OK   1 estimat-kilde LI-hrb386vdffl0s7kh finnes
+- OK   1 estimat-kilde W2126669756 finnes
+- OK   1 estimat-kilde W2524187003 finnes
+- OK   1 estimat-kilde W3138453033 finnes
+- OK   1 estimat-kilde W2799704878 finnes
+- OK   1 estimat-kilde W831010901 finnes
+- OK   1 estimat-kilde W3173764865 finnes
+- OK   1 estimat-kilde W3173764865 finnes
+- OK   1 estimat-kilde W1879173524 finnes
+- OK   1 estimat-kilde W3119591123 finnes
+- OK   1 estimat-kilde W7204457267 finnes
+- OK   1 estimat-kilde W3121447508 finnes
+- OK   1 estimat-kilde AV-2015-3-07 finnes
+- OK   1 estimat-kilde AV-2015-3-07 finnes
+- OK   1 estimat-kilde AV-2015-3-07 finnes
+- OK   1 estimat-kilde 0198cc84729b-a09bd70a-765d-4bbb-a164-84a96be028c2 finnes
+- OK   1 estimat-kilde 0198cc84729b-a09bd70a-765d-4bbb-a164-84a96be028c2 finnes
+- OK   1 estimat-kilde 0198f20c8215-28864d36-ea09-448e-bff0-7b399d5fdb09 finnes
+- OK   1 estimat-kilde 0198f20c8215-28864d36-ea09-448e-bff0-7b399d5fdb09 finnes
+- OK   1 estimat-kilde 0198f20c8215-28864d36-ea09-448e-bff0-7b399d5fdb09 finnes
+- OK   1 estimat-kilde R-91a7b6c512 finnes
+- OK   1 estimat-kilde R-91a7b6c512 finnes
+- OK   1 estimat-kilde R-91a7b6c512 finnes
+- OK   1 estimat-kilde R-f51590820c finnes
+- OK   1 estimat-kilde R-f51590820c finnes
+- OK   1 estimat-kilde W2212575307 finnes
+- OK   1 estimat-kilde W2160015399 finnes
+- OK   1 estimat-kilde W2160015399 finnes
+- OK   1 estimat-kilde W2142502944 finnes
+- OK   1 estimat-kilde W2142502944 finnes
+- OK   1 estimat-kilde W2142502944 finnes
+- OK   1 estimat-kilde W2628418572 finnes
+- OK   1 estimat-kilde W4366083399 finnes
+- OK   1 estimat-kilde W4366083399 finnes
+- OK   1 estimat-kilde W3138005625 finnes
+- OK   1 estimat-kilde W3138005625 finnes
+- OK   1 estimat-kilde W2142283858 finnes
+- OK   1 estimat-kilde W2142283858 finnes
+- OK   1 estimat-kilde W2896840500 finnes
+- OK   1 estimat-kilde W2896840500 finnes
+- OK   1 estimat-kilde W2896840500 finnes
+- OK   1 estimat-kilde R-e0bf5ced86 finnes
+- OK   1 estimat-kilde R-e0bf5ced86 finnes
+- OK   1 estimat-kilde R-e0bf5ced86 finnes
+- OK   1 estimat-kilde R-e0bf5ced86 finnes
+- OK   1 estimat-kilde R-c354ed68d0 finnes
+- OK   1 estimat-kilde R-c354ed68d0 finnes
+- OK   1 estimat-kilde R-c354ed68d0 finnes
+- OK   1 estimat-kilde R-741042958e finnes
+- OK   1 estimat-kilde R-741042958e finnes
+- OK   1 estimat-kilde R-741042958e finnes
+- OK   1 estimat-kilde R-741042958e finnes
+- OK   1 estimat-kilde AV-2022-3-05 finnes
+- OK   1 estimat-kilde AV-2022-2-02 finnes
+- OK   1 estimat-kilde R-c354ed68d0 finnes
+- OK   1 estimat-kilde W3123524712 finnes
+- OK   1 estimat-kilde R-c354ed68d0 finnes
+- OK   1 estimat-kilde NB-4593 finnes
+- OK   1 estimat-kilde NB-4593 finnes
+- OK   1 estimat-kilde NB-5042 finnes
+- OK   1 estimat-kilde NB-5078 finnes
+- OK   1 estimat-kilde NB-4593 finnes
+- OK   1 forfatter «Bragstad» for AV-2018-2-04 står i metadata eller på tittelsiden
+- OK   1 forfatter «Lande» for AV-2023-1-01 står i metadata eller på tittelsiden
+- OK   1 forfatter «Aarbakke» for KU-c48cd033-8718-4bb3-a149-7bc9f67459cf står i metadata eller på tittelsiden
+- OK   1 forfatter «Bragstad» for AV-2023-2-07 står i metadata eller på tittelsiden
+- OK   1 forfatter «Kalstø» for AV-2022-3-05 står i metadata eller på tittelsiden
+- OK   1 forfatter «NORCE» for 0198cc84729b-a09bd70a-765d-4bbb-a164-84a96be028c2 står i metadata eller på tittelsiden
+- OK   1 forfatter «Kann» for AV-2021-1-06 står i metadata eller på tittelsiden
+- OK   1 forfatter «Kann» for AV-2021-1-06 står i metadata eller på tittelsiden
+- OK   1 forfatter «Aarbakke» for KU-c48cd033-8718-4bb3-a149-7bc9f67459cf står i metadata eller på tittelsiden
+- OK   1 forfatter «Bragstad» for AV-2023-2-07 står i metadata eller på tittelsiden
+- OK   1 forfatter «Kann» for AV-2015-3-07 står i metadata eller på tittelsiden
+- OK   1 forfatter «Wittlund» for W4220875817 står i metadata eller på tittelsiden
+- OK   1 forfatter «Wittlund» for W4385349285 står i metadata eller på tittelsiden
+- OK   1 forfatter «Försäkringskassan» for R-e0bf5ced86 står i metadata eller på tittelsiden
+- OK   1 forfatter «Jablonska» for W2929109866 står i metadata eller på tittelsiden
+- OK   1 forfatter «Inspektionen för socialförsäkringen» for R-c354ed68d0 står i metadata eller på tittelsiden
+- OK   1 forfatter «Försäkringskassan» for R-741042958e står i metadata eller på tittelsiden
+- OK   1 forfatter «Försäkringskassan» for R-741042958e står i metadata eller på tittelsiden
+- OK   1 forfatter «Försäkringskassan» for R-f51590820c står i metadata eller på tittelsiden
+- OK   1 forfatter «Försäkringskassan» for R-e0bf5ced86 står i metadata eller på tittelsiden
+- OK   1 forfatter «Amin» for W4323066482 står i metadata eller på tittelsiden
+- OK   1 forfatter «Philip» for R-91a7b6c512 står i metadata eller på tittelsiden
+- OK   1 forfatter «Kaltenbrunner Bernitz» for W1967551067 står i metadata eller på tittelsiden
+- OK   1 forfatter «Lande» for AV-2023-1-01 står i metadata eller på tittelsiden
+- OK   1 forfatter «Myhre» for AV-2022-2-02 står i metadata eller på tittelsiden
+- OK   1 forfatter «Strand» for KU-f0f528eb-0eaf-4e6b-bcb1-5b5b44367324 står i metadata eller på tittelsiden
+- OK   1 forfatter «Lima» for AV-2020-2-04 står i metadata eller på tittelsiden
+- OK   1 forfatter «Hernæs» for NB-4593 står i metadata eller på tittelsiden
+- OK   1 forfatter «Lande» for AV-2023-1-01 står i metadata eller på tittelsiden
+- OK   1 forfatter «Aarbakke» for KU-c48cd033-8718-4bb3-a149-7bc9f67459cf står i metadata eller på tittelsiden
+- OK   1 forfatter «Aarbakke» for KU-c48cd033-8718-4bb3-a149-7bc9f67459cf står i metadata eller på tittelsiden
+- OK   1 forfatter «Brage» for AV-2015-1-03 står i metadata eller på tittelsiden
+- OK   1 forfatter «Pape» for W2160015399 står i metadata eller på tittelsiden
+- OK   1 forfatter «Hetlevik» for W4366083399 står i metadata eller på tittelsiden
+- OK   1 forfatter «Helgesson» for W3186518967 står i metadata eller på tittelsiden
+- OK   1 forfatter «Virtanen» for W3007697702 står i metadata eller på tittelsiden
+- OK   1 forfatter «Krokstad» for W4280593459 står i metadata eller på tittelsiden
+- OK   1 forfatter «Aarbakke» for KU-c48cd033-8718-4bb3-a149-7bc9f67459cf står i metadata eller på tittelsiden
+- OK   1 forfatter «De Ridder» for W2127924530 står i metadata eller på tittelsiden
+- OK   1 forfatter «Bergaust» for 019909c23973-ea65712e-ebc7-454b-b8df-def7f6bf6e87 står i metadata eller på tittelsiden
+- OK   1 forfatter «Brinch» for W604728786 står i metadata eller på tittelsiden
+- OK   1 forfatter «Jablonska» for W2929109866 står i metadata eller på tittelsiden
+- OK   1 forfatter «Haaland» for W2212575307 står i metadata eller på tittelsiden
+- OK   1 forfatter «Bratsberg» for W1562236787 står i metadata eller på tittelsiden
+- OK   1 forfatter «Dahl» for W2104893223 står i metadata eller på tittelsiden
+- OK   1 forfatter «Dahl» for W2786011848 står i metadata eller på tittelsiden
+- OK   1 forfatter «Pape» for W2102173634 står i metadata eller på tittelsiden
+- OK   1 forfatter «Delalic» for 019c9524cfcc-39907780-0d56-4239-9b5d-80237da5e2eb står i metadata eller på tittelsiden
+- OK   1 forfatter «Sørlie» for 0198f22710a7-9891d74a-fefc-44a0-927c-96a4a3d8525a står i metadata eller på tittelsiden
+- OK   2 sitat rad 1 (AV-2018-2-04, Andel av befolkningen under 30 år med uf) står på oppgitt side
+- OK   3 estimat=1.7 rad 1 (AV-2018-2-04, Andel av befolkningen under 30 år med uf) står i sitatet
+- OK   2 sitat rad 2 (AV-2018-2-04, Vekst i andelen unge uføretrygdede 2006–) står på oppgitt side
+- OK   3 estimat=20 rad 2 (AV-2018-2-04, Vekst i andelen unge uføretrygdede 2006–) står i sitatet
+- OK   2 sitat rad 3 (AV-2018-2-04, Vekst i andelen med varig uføretrygd und) står på oppgitt side
+- OK   3 estimat=60 rad 3 (AV-2018-2-04, Vekst i andelen med varig uføretrygd und) står i sitatet
+- OK   2 sitat rad 4 (AV-2018-2-04, Uføreandel 18–29 år i 2016 hvis tilgangs) står på oppgitt side
+- OK   3 estimat=1.4 rad 4 (AV-2018-2-04, Uføreandel 18–29 år i 2016 hvis tilgangs) står i sitatet
+- OK   2 sitat rad 5 (AV-2023-1-01, Andel av befolkningen 18–29 år med uføre) står på oppgitt side
+- OK   3 estimat=2.4 rad 5 (AV-2023-1-01, Andel av befolkningen 18–29 år med uføre) står i sitatet
+- OK   2 sitat rad 6 (AV-2023-1-01, Andel av befolkningen 18–29 år med uføre) står på oppgitt side
+- OK   3 estimat=2.6 rad 6 (AV-2023-1-01, Andel av befolkningen 18–29 år med uføre) står i sitatet
+- OK   2 sitat rad 7 (AV-2023-1-01, Andel av økningen i årlig antall nye ung) står på oppgitt side
+- OK   3 estimat=66 rad 7 (AV-2023-1-01, Andel av økningen i årlig antall nye ung) står i sitatet
+- OK   2 sitat rad 8 (AV-2023-1-01, Andel av nedgangen i nye unge uføre fra ) står på oppgitt side
+- OK   3 estimat=81 rad 8 (AV-2023-1-01, Andel av nedgangen i nye unge uføre fra ) står i sitatet
+- OK   2 sitat rad 9 (AV-2023-2-07, Unge 18–29 år som andel av alle nye ufør) står på oppgitt side
+- OK   3 estimat=13 rad 9 (AV-2023-2-07, Unge 18–29 år som andel av alle nye ufør) står i sitatet
+- OK   2 sitat rad 10 (AV-2023-2-07, Sannsynlighet for uføretrygd innen ti år) står på oppgitt side
+- OK   3 estimat=60 rad 10 (AV-2023-2-07, Sannsynlighet for uføretrygd innen ti år) står i sitatet
+- OK   2 sitat rad 11 (AV-2023-2-07, Sannsynlighet for uføretrygd innen ti år) står på oppgitt side
+- OK   3 estimat=35 rad 11 (AV-2023-2-07, Sannsynlighet for uføretrygd innen ti år) står i sitatet
+- OK   2 sitat rad 12 (AV-2023-2-07, Andel av uføre under 30 år registrert me) står på oppgitt side
+- OK   3 estimat=66 rad 12 (AV-2023-2-07, Andel av uføre under 30 år registrert me) står i sitatet
+- OK   2 sitat rad 13 (AV-2015-1-03, Antall personer 18–29 år med varig uføre) står på oppgitt side
+- OK   3 estimat=11000 rad 13 (AV-2015-1-03, Antall personer 18–29 år med varig uføre) står i sitatet
+- OK   2 sitat rad 14 (AV-2015-1-03, Antall nye uføretrygdede under 30 år, 20) står på oppgitt side
+- OK   3 estimat=1700 rad 14 (AV-2015-1-03, Antall nye uføretrygdede under 30 år, 20) står i sitatet
+- OK   2 sitat rad 15 (AV-2015-1-03, Nye uføre 18–19 år per 100 000 med psyki) står på oppgitt side
+- OK   3 estimat=100 rad 15 (AV-2015-1-03, Nye uføre 18–19 år per 100 000 med psyki) står i sitatet
+- OK   2 sitat rad 16 (AV-2015-1-03, Nye uføre 25–29 år per 100 000 med psyki) står på oppgitt side
+- OK   3 estimat=130 rad 16 (AV-2015-1-03, Nye uføre 25–29 år per 100 000 med psyki) står i sitatet
+- OK   2 sitat rad 17 (AV-2022-3-05, Andel av befolkningen 18–29 år med uføre) står på oppgitt side
+- OK   3 estimat=2.6 rad 17 (AV-2022-3-05, Andel av befolkningen 18–29 år med uføre) står i sitatet
+- OK   2 sitat rad 18 (AV-2022-3-05, Andel unge 18–29 år med uføretrygd i Osl) står på oppgitt side
+- OK   3 estimat=1.3 rad 18 (AV-2022-3-05, Andel unge 18–29 år med uføretrygd i Osl) står i sitatet
+- OK   2 sitat rad 19 (AV-2022-3-05, Andel unge 18–29 år med uføretrygd i Ves) står på oppgitt side
+- OK   3 estimat=3.8 rad 19 (AV-2022-3-05, Andel unge 18–29 år med uføretrygd i Ves) står i sitatet
+- OK   2 sitat rad 20 (AV-2022-3-05, Andel unge innvandrere med uføretrygd (2) står på oppgitt side
+- OK   3 estimat=1.5 rad 20 (AV-2022-3-05, Andel unge innvandrere med uføretrygd (2) står i sitatet
+- OK   2 sitat rad 21 (AV-2021-1-06, Antall unge som kommer rett inn på uføre) står på oppgitt side
+- OK   3 estimat=30 rad 21 (AV-2021-1-06, Antall unge som kommer rett inn på uføre) står i sitatet
+- OK   2 sitat rad 22 (AV-2021-1-06, Andel av nye uføre under 30 år i 2020 so) står på oppgitt side
+- OK   3 estimat=34 rad 22 (AV-2021-1-06, Andel av nye uføre under 30 år i 2020 so) står i sitatet
+- OK   2 sitat rad 23 (AV-2020-2-04, Økning i andelen som mottar uføretrygd 1) står på oppgitt side
+- OK   3 estimat=11 rad 23 (AV-2020-2-04, Økning i andelen som mottar uføretrygd 1) står i sitatet
+- OK   2 sitat rad 24 (AV-2020-2-04, Økning i andelen sosialhjelpsmottakere 1) står på oppgitt side
+- OK   3 estimat=6 rad 24 (AV-2020-2-04, Økning i andelen sosialhjelpsmottakere 1) står i sitatet
+- OK   2 sitat rad 25 (AV-2022-2-02, Relativ økning i andelen med uføretrygd ) står på oppgitt side
+- OK   3 estimat=74 rad 25 (AV-2022-2-02, Relativ økning i andelen med uføretrygd ) står i sitatet
+- OK   2 sitat rad 28 (KU-f0f528eb-0eaf-4e6b-bcb1-5b5b44367324, Økt sannsynlighet for uføretrygd ni år e) står på oppgitt side
+- OK   3 estimat=0.8 rad 28 (KU-f0f528eb-0eaf-4e6b-bcb1-5b5b44367324, Økt sannsynlighet for uføretrygd ni år e) står i sitatet
+- OK   2 sitat rad 29 (AV-2014-1-04, Vekst i antall unge under 30 år i katego) står på oppgitt side
+- OK   3 estimat=60 rad 29 (AV-2014-1-04, Vekst i antall unge under 30 år i katego) står i sitatet
+- OK   2 sitat rad 30 (AV-2014-1-04, Andel unge registrert med nedsatt arbeid) står på oppgitt side
+- OK   3 estimat=60 rad 30 (AV-2014-1-04, Andel unge registrert med nedsatt arbeid) står i sitatet
+- OK   2 sitat rad 31 (AV-2011-2-02, Andel med fullført videregående skole bl) står på oppgitt side
+- OK   3 estimat=24 rad 31 (AV-2011-2-02, Andel med fullført videregående skole bl) står i sitatet
+- OK   2 sitat rad 32 (AV-2011-2-02, Andel med uføreytelse tre år etter start) står på oppgitt side
+- OK   3 estimat=11 rad 32 (AV-2011-2-02, Andel med uføreytelse tre år etter start) står i sitatet
+- OK   2 sitat rad 33 (KU-c48cd033-8718-4bb3-a149-7bc9f67459cf, Andel av befolkningen 18–29 år med uføre) står på oppgitt side
+- OK   3 estimat=2.4 rad 33 (KU-c48cd033-8718-4bb3-a149-7bc9f67459cf, Andel av befolkningen 18–29 år med uføre) står i sitatet
+- OK   2 sitat rad 34 (KU-c48cd033-8718-4bb3-a149-7bc9f67459cf, Andel i kullet som fylte 21 år i 2018 me) står på oppgitt side
+- OK   3 estimat=37 rad 34 (KU-c48cd033-8718-4bb3-a149-7bc9f67459cf, Andel i kullet som fylte 21 år i 2018 me) står i sitatet
+- OK   2 sitat rad 35 (KU-c48cd033-8718-4bb3-a149-7bc9f67459cf, Andel med fullført videregående blant ny) står på oppgitt side
+- OK   3 estimat=20 rad 35 (KU-c48cd033-8718-4bb3-a149-7bc9f67459cf, Andel med fullført videregående blant ny) står i sitatet
+- OK   2 sitat rad 36 (KU-c48cd033-8718-4bb3-a149-7bc9f67459cf, Andel av nye unge uføre 20–29 år som had) står på oppgitt side
+- OK   3 estimat=90 rad 36 (KU-c48cd033-8718-4bb3-a149-7bc9f67459cf, Andel av nye unge uføre 20–29 år som had) står i sitatet
+- OK   2 sitat rad 37 (KU-c48cd033-8718-4bb3-a149-7bc9f67459cf, Effekt av ett standardavviks økning i ko) står på oppgitt side
+- OK   3 estimat=0.008 rad 37 (KU-c48cd033-8718-4bb3-a149-7bc9f67459cf, Effekt av ett standardavviks økning i ko) står i sitatet
+- OK   2 sitat rad 39 (KU-760de028-a79e-4384-8d4c-b95617f70198, Andel av aldersgruppen 18–29 år med vari) står på oppgitt side
+- OK   3 estimat=1 rad 39 (KU-760de028-a79e-4384-8d4c-b95617f70198, Andel av aldersgruppen 18–29 år med vari) står i sitatet
+- OK   2 sitat rad 40 (KU-760de028-a79e-4384-8d4c-b95617f70198, Andel av unge 18–30 år som er NEET og mo) står på oppgitt side
+- OK   3 estimat=3 rad 40 (KU-760de028-a79e-4384-8d4c-b95617f70198, Andel av unge 18–30 år som er NEET og mo) står i sitatet
+- OK   2 sitat rad 42 (W2104893223, Økt deltakelse i uføretrygd blant voksne) står på oppgitt side
+- OK   3 estimat=6 rad 42 (W2104893223, Økt deltakelse i uføretrygd blant voksne) står i sitatet
+- OK   2 sitat rad 43 (W2104893223, Økt deltakelse i uføretrygd blant voksne) står på oppgitt side
+- OK   3 estimat=12 rad 43 (W2104893223, Økt deltakelse i uføretrygd blant voksne) står i sitatet
+- OK   2 sitat rad 44 (W604728786, Nedre konfidensgrense for effekt av ett ) står på oppgitt side
+- OK   3 estimat=1 rad 44 (W604728786, Nedre konfidensgrense for effekt av ett ) står i sitatet
+- OK   2 sitat rad 45 (W4220875817, Andel uten fullført videregående blant u) står på oppgitt side
+- OK   3 estimat=62.3 rad 45 (W4220875817, Andel uten fullført videregående blant u) står i sitatet
+- OK   2 sitat rad 46 (W4385349285, Økning i andelen som følger et forløp so) står på oppgitt side
+- OK   3 estimat=3 rad 46 (W4385349285, Økning i andelen som følger et forløp so) står i sitatet
+- OK   2 sitat rad 47 (W2127924530, Justert risikodifferanse for langvarig s) står på oppgitt side
+- OK   3 estimat=15 rad 47 (W2127924530, Justert risikodifferanse for langvarig s) står i sitatet
+- OK   3 ki_lav=12 rad 47 (W2127924530, Justert risikodifferanse for langvarig s) står i sitatet
+- OK   3 ki_hoy=19 rad 47 (W2127924530, Justert risikodifferanse for langvarig s) står i sitatet
+- OK   4 rad 47 (W2127924530, Justert risikodifferanse for langvarig s) estimat innenfor KI
+- OK   2 sitat rad 48 (W2806250080, Ingen effektestimat i løpende tekst; sam) står på oppgitt side
+- OK   2 sitat rad 49 (W4416980659, Risiko for uførepensjon i tidlig voksen ) står på oppgitt side
+- OK   3 estimat=2.25 rad 49 (W4416980659, Risiko for uførepensjon i tidlig voksen ) står i sitatet
+- OK   3 ki_lav=1.62 rad 49 (W4416980659, Risiko for uførepensjon i tidlig voksen ) står i sitatet
+- OK   3 ki_hoy=3.14 rad 49 (W4416980659, Risiko for uførepensjon i tidlig voksen ) står i sitatet
+- OK   4 rad 49 (W4416980659, Risiko for uførepensjon i tidlig voksen ) estimat innenfor KI
+- OK   4 rad 49 (W4416980659, Risiko for uførepensjon i tidlig voksen ) KI symmetrisk på log-skala (avvik 0.00)
+- OK   2 sitat rad 50 (W2029267869, Psykiske lidelser sin andel av tapte arb) står på oppgitt side
+- OK   3 estimat=33.8 rad 50 (W2029267869, Psykiske lidelser sin andel av tapte arb) står i sitatet
+- OK   2 sitat rad 52 (019c9524cfcc-39907780-0d56-4239-9b5d-80237da5e2eb, Økt sannsynlighet for uføretrygd eller A) står på oppgitt side
+- OK   3 estimat=9 rad 52 (019c9524cfcc-39907780-0d56-4239-9b5d-80237da5e2eb, Økt sannsynlighet for uføretrygd eller A) står i sitatet
+- OK   2 sitat rad 53 (019909c23973-ea65712e-ebc7-454b-b8df-def7f6bf6e87, Redusert sannsynlighet for uføretrygd ni) står på oppgitt side
+- OK   3 estimat=4.1 rad 53 (019909c23973-ea65712e-ebc7-454b-b8df-def7f6bf6e87, Redusert sannsynlighet for uføretrygd ni) står i sitatet
+- OK   2 sitat rad 54 (0198f22710a7-9891d74a-fefc-44a0-927c-96a4a3d8525a, Andel uføretrygdede 25–34 år i 2019 (1,6) står på oppgitt side
+- OK   3 estimat=3.53 rad 54 (0198f22710a7-9891d74a-fefc-44a0-927c-96a4a3d8525a, Andel uføretrygdede 25–34 år i 2019 (1,6) står i sitatet
+- OK   2 sitat rad 55 (01999f35b1ef-206f9791-8599-4806-b338-7a2f7d3eb219, Andel av aldersgruppen 25–29 år med ufør) står på oppgitt side
+- OK   3 estimat=3.2 rad 55 (01999f35b1ef-206f9791-8599-4806-b338-7a2f7d3eb219, Andel av aldersgruppen 25–29 år med ufør) står i sitatet
+- OK   2 sitat rad 56 (W2929109866, Endring over tid i sammenhengen mellom s) står på oppgitt side
+- OK   3 estimat=1.12 rad 56 (W2929109866, Endring over tid i sammenhengen mellom s) står i sitatet
+- OK   3 ki_lav=1.08 rad 56 (W2929109866, Endring over tid i sammenhengen mellom s) står i sitatet
+- OK   3 ki_hoy=1.16 rad 56 (W2929109866, Endring over tid i sammenhengen mellom s) står i sitatet
+- OK   4 rad 56 (W2929109866, Endring over tid i sammenhengen mellom s) estimat innenfor KI
+- OK   4 rad 56 (W2929109866, Endring over tid i sammenhengen mellom s) KI symmetrisk på log-skala (avvik 0.00)
+- OK   2 sitat rad 57 (W2929109866, Nye mottakere av aktivitetsersättning pe) står på oppgitt side
+- OK   3 estimat=6.2 rad 57 (W2929109866, Nye mottakere av aktivitetsersättning pe) står i sitatet
+- OK   2 sitat rad 58 (W4323066482, Rate for uførepensjon for vanlige psykis) står på oppgitt side
+- OK   3 estimat=23 rad 58 (W4323066482, Rate for uførepensjon for vanlige psykis) står i sitatet
+- OK   2 sitat rad 59 (W3007697702, Rate ratio for dager med sykefravær og u) står på oppgitt side
+- OK   3 estimat=11.17 rad 59 (W3007697702, Rate ratio for dager med sykefravær og u) står i sitatet
+- OK   3 ki_lav=9.89 rad 59 (W3007697702, Rate ratio for dager med sykefravær og u) står i sitatet
+- OK   3 ki_hoy=12.60 rad 59 (W3007697702, Rate ratio for dager med sykefravær og u) står i sitatet
+- OK   4 rad 59 (W3007697702, Rate ratio for dager med sykefravær og u) estimat innenfor KI
+- OK   4 rad 59 (W3007697702, Rate ratio for dager med sykefravær og u) KI symmetrisk på log-skala (avvik 0.00)
+- OK   2 sitat rad 60 (W3007697702, Rate ratio for dager med sykefravær og u) står på oppgitt side
+- OK   3 estimat=35.59 rad 60 (W3007697702, Rate ratio for dager med sykefravær og u) står i sitatet
+- OK   3 ki_lav=30.30 rad 60 (W3007697702, Rate ratio for dager med sykefravær og u) står i sitatet
+- OK   3 ki_hoy=41.81 rad 60 (W3007697702, Rate ratio for dager med sykefravær og u) står i sitatet
+- OK   4 rad 60 (W3007697702, Rate ratio for dager med sykefravær og u) estimat innenfor KI
+- OK   4 rad 60 (W3007697702, Rate ratio for dager med sykefravær og u) KI symmetrisk på log-skala (avvik 0.00)
+- OK   2 sitat rad 61 (W3186518967, Risiko for uførepensjon innen fem år ett) står på oppgitt side
+- OK   3 estimat=10.2 rad 61 (W3186518967, Risiko for uførepensjon innen fem år ett) står i sitatet
+- OK   3 ki_lav=9.3 rad 61 (W3186518967, Risiko for uførepensjon innen fem år ett) står i sitatet
+- OK   3 ki_hoy=11.2 rad 61 (W3186518967, Risiko for uførepensjon innen fem år ett) står i sitatet
+- OK   4 rad 61 (W3186518967, Risiko for uførepensjon innen fem år ett) estimat innenfor KI
+- OK   4 rad 61 (W3186518967, Risiko for uførepensjon innen fem år ett) KI symmetrisk på log-skala (avvik 0.00)
+- OK   2 sitat rad 62 (W3186518967, Risiko for uførepensjon innen fem år ett) står på oppgitt side
+- OK   3 estimat=9.0 rad 62 (W3186518967, Risiko for uførepensjon innen fem år ett) står i sitatet
+- OK   3 ki_lav=6.6 rad 62 (W3186518967, Risiko for uførepensjon innen fem år ett) står i sitatet
+- OK   3 ki_hoy=12.3 rad 62 (W3186518967, Risiko for uførepensjon innen fem år ett) står i sitatet
+- OK   4 rad 62 (W3186518967, Risiko for uførepensjon innen fem år ett) estimat innenfor KI
+- OK   4 rad 62 (W3186518967, Risiko for uførepensjon innen fem år ett) KI symmetrisk på log-skala (avvik 0.00)
+- OK   2 sitat rad 63 (W3015075737, Odds for å følge et forløp med høy og de) står på oppgitt side
+- OK   3 estimat=3.60 rad 63 (W3015075737, Odds for å følge et forløp med høy og de) står i sitatet
+- OK   3 ki_lav=3.08 rad 63 (W3015075737, Odds for å følge et forløp med høy og de) står i sitatet
+- OK   3 ki_hoy=4.19 rad 63 (W3015075737, Odds for å følge et forløp med høy og de) står i sitatet
+- OK   4 rad 63 (W3015075737, Odds for å følge et forløp med høy og de) estimat innenfor KI
+- OK   4 rad 63 (W3015075737, Odds for å følge et forløp med høy og de) KI symmetrisk på log-skala (avvik 0.00)
+- OK   2 sitat rad 64 (W2682847430, Risiko for uførepensjon 2005–2011 ved ps) står på oppgitt side
+- OK   3 estimat=6.6 rad 64 (W2682847430, Risiko for uførepensjon 2005–2011 ved ps) står i sitatet
+- OK   3 ki_lav=6.4 rad 64 (W2682847430, Risiko for uførepensjon 2005–2011 ved ps) står i sitatet
+- OK   3 ki_hoy=6.8 rad 64 (W2682847430, Risiko for uførepensjon 2005–2011 ved ps) står i sitatet
+- OK   4 rad 64 (W2682847430, Risiko for uførepensjon 2005–2011 ved ps) estimat innenfor KI
+- OK   4 rad 64 (W2682847430, Risiko for uførepensjon 2005–2011 ved ps) KI symmetrisk på log-skala (avvik 0.00)
+- OK   2 sitat rad 65 (W2146753458, Ingen effektestimat i sammendraget; ensl) står på oppgitt side
+- OK   2 sitat rad 66 (LI-dscdbdnmbgc4xw3q, Andel avslag på nye søknader om aktivite) står på oppgitt side
+- OK   3 estimat=47 rad 66 (LI-dscdbdnmbgc4xw3q, Andel avslag på nye søknader om aktivite) står i sitatet
+- OK   2 sitat rad 69 (W2360160115, Andel tilknyttet arbeid eller utdanning ) står på oppgitt side
+- OK   3 estimat=50 rad 69 (W2360160115, Andel tilknyttet arbeid eller utdanning ) står i sitatet
+- OK   2 sitat rad 70 (W2360160115, Psykiske lidelser og rusmiddellidelser s) står på oppgitt side
+- OK   3 estimat=73 rad 70 (W2360160115, Psykiske lidelser og rusmiddellidelser s) står i sitatet
+- OK   2 sitat rad 71 (W4392986621, Risiko for arbeidsuførhet (sykefravær el) står på oppgitt side
+- OK   3 estimat=0.82 rad 71 (W4392986621, Risiko for arbeidsuførhet (sykefravær el) står i sitatet
+- OK   3 ki_lav=0.73 rad 71 (W4392986621, Risiko for arbeidsuførhet (sykefravær el) står i sitatet
+- OK   3 ki_hoy=0.92 rad 71 (W4392986621, Risiko for arbeidsuførhet (sykefravær el) står i sitatet
+- OK   4 rad 71 (W4392986621, Risiko for arbeidsuførhet (sykefravær el) estimat innenfor KI
+- OK   4 rad 71 (W4392986621, Risiko for arbeidsuførhet (sykefravær el) KI symmetrisk på log-skala (avvik 0.00)
+- OK   2 sitat rad 72 (W4280593459, Andel unge kvinner med depresjonssymptom) står på oppgitt side
+- OK   3 estimat=10.7 rad 72 (W4280593459, Andel unge kvinner med depresjonssymptom) står i sitatet
+- OK   2 sitat rad 73 (W1562236787, Andel av alle nye uføretrygdkrav blant m) står på oppgitt side
+- OK   3 estimat=28 rad 73 (W1562236787, Andel av alle nye uføretrygdkrav blant m) står i sitatet
+- OK   2 sitat rad 74 (W7134072462, Langtidseffekt (åtte år) av makstid tre ) står på oppgitt side
+- OK   2 sitat rad 85 (W1967551067, Psykiske lidelser og atferdsforstyrrelse) står på oppgitt side
+- OK   3 estimat=80 rad 85 (W1967551067, Psykiske lidelser og atferdsforstyrrelse) står i sitatet
+- OK   2 sitat rad 97 (W2898795531, Andel av kohorten som fikk uførepensjon ) står på oppgitt side
+- OK   3 estimat=1.4 rad 97 (W2898795531, Andel av kohorten som fikk uførepensjon ) står i sitatet
+- OK   2 sitat rad 99 (W2786011848, Redusert sannsynlighet for at barna selv) står på oppgitt side
+- OK   3 estimat=11 rad 99 (W2786011848, Redusert sannsynlighet for at barna selv) står i sitatet
+- OK   2 sitat rad 104 (W2102173634, Sannsynlighet for medisinske ytelser 20–) står på oppgitt side
+- OK   3 estimat=2.16 rad 104 (W2102173634, Sannsynlighet for medisinske ytelser 20–) står i sitatet
+- OK   3 ki_lav=1.86 rad 104 (W2102173634, Sannsynlighet for medisinske ytelser 20–) står i sitatet
+- OK   3 ki_hoy=2.49 rad 104 (W2102173634, Sannsynlighet for medisinske ytelser 20–) står i sitatet
+- OK   4 rad 104 (W2102173634, Sannsynlighet for medisinske ytelser 20–) estimat innenfor KI
+- OK   4 rad 104 (W2102173634, Sannsynlighet for medisinske ytelser 20–) KI symmetrisk på log-skala (avvik 0.01)
+- OK   2 sitat rad 105 (W2102173634, Sannsynlighet for medisinske ytelser 20–) står på oppgitt side
+- OK   3 estimat=1.66 rad 105 (W2102173634, Sannsynlighet for medisinske ytelser 20–) står i sitatet
+- OK   3 ki_lav=1.38 rad 105 (W2102173634, Sannsynlighet for medisinske ytelser 20–) står i sitatet
+- OK   3 ki_hoy=1.99 rad 105 (W2102173634, Sannsynlighet for medisinske ytelser 20–) står i sitatet
+- OK   4 rad 105 (W2102173634, Sannsynlighet for medisinske ytelser 20–) estimat innenfor KI
+- OK   4 rad 105 (W2102173634, Sannsynlighet for medisinske ytelser 20–) KI symmetrisk på log-skala (avvik 0.00)
+- OK   2 sitat rad 107 (W2791106760, Risiko for langvarig sykepenger for vanl) står på oppgitt side
+- OK   3 estimat=1.31 rad 107 (W2791106760, Risiko for langvarig sykepenger for vanl) står i sitatet
+- OK   3 ki_lav=1.03 rad 107 (W2791106760, Risiko for langvarig sykepenger for vanl) står i sitatet
+- OK   3 ki_hoy=1.67 rad 107 (W2791106760, Risiko for langvarig sykepenger for vanl) står i sitatet
+- OK   4 rad 107 (W2791106760, Risiko for langvarig sykepenger for vanl) estimat innenfor KI
+- OK   4 rad 107 (W2791106760, Risiko for langvarig sykepenger for vanl) KI symmetrisk på log-skala (avvik 0.00)
+- OK   2 sitat rad 108 (W2124446614, Andel som fikk uførepensjon før 30 år, k) står på oppgitt side
+- OK   3 estimat=0.95 rad 108 (W2124446614, Andel som fikk uførepensjon før 30 år, k) står i sitatet
+- OK   2 sitat rad 109 (W2124446614, Relativ risiko for uførepensjon før 30 å) står på oppgitt side
+- OK   3 estimat=2.62 rad 109 (W2124446614, Relativ risiko for uførepensjon før 30 å) står i sitatet
+- OK   3 ki_lav=2.25 rad 109 (W2124446614, Relativ risiko for uførepensjon før 30 å) står i sitatet
+- OK   3 ki_hoy=3.05 rad 109 (W2124446614, Relativ risiko for uførepensjon før 30 å) står i sitatet
+- OK   4 rad 109 (W2124446614, Relativ risiko for uførepensjon før 30 å) estimat innenfor KI
+- OK   4 rad 109 (W2124446614, Relativ risiko for uførepensjon før 30 å) KI symmetrisk på log-skala (avvik 0.00)
+- OK   2 sitat rad 123 (W2555590515, Risiko for sykefravær eller uførepensjon) står på oppgitt side
+- OK   3 estimat=1.37 rad 123 (W2555590515, Risiko for sykefravær eller uførepensjon) står i sitatet
+- OK   3 ki_lav=1.11 rad 123 (W2555590515, Risiko for sykefravær eller uførepensjon) står i sitatet
+- OK   3 ki_hoy=1.69 rad 123 (W2555590515, Risiko for sykefravær eller uførepensjon) står i sitatet
+- OK   4 rad 123 (W2555590515, Risiko for sykefravær eller uførepensjon) estimat innenfor KI
+- OK   2 sitat rad 124 (W2555590515, Risiko for sykefravær eller uførepensjon) står på oppgitt side
+- OK   3 estimat=1.13 rad 124 (W2555590515, Risiko for sykefravær eller uførepensjon) står i sitatet
+- OK   3 ki_lav=0.83 rad 124 (W2555590515, Risiko for sykefravær eller uførepensjon) står i sitatet
+- OK   3 ki_hoy=1.54 rad 124 (W2555590515, Risiko for sykefravær eller uførepensjon) står i sitatet
+- OK   4 rad 124 (W2555590515, Risiko for sykefravær eller uførepensjon) estimat innenfor KI
+- OK   2 sitat rad 126 (W2126669756, Femårsrisiko for langvarige ytelser 24–2) står på oppgitt side
+- OK   3 estimat=44 rad 126 (W2126669756, Femårsrisiko for langvarige ytelser 24–2) står i sitatet
+- OK   3 ki_lav=41 rad 126 (W2126669756, Femårsrisiko for langvarige ytelser 24–2) står i sitatet
+- OK   3 ki_hoy=48 rad 126 (W2126669756, Femårsrisiko for langvarige ytelser 24–2) står i sitatet
+- OK   4 rad 126 (W2126669756, Femårsrisiko for langvarige ytelser 24–2) estimat innenfor KI
+- OK   2 sitat rad 127 (W2524187003, Risikodifferanse for langvarig sykefravæ) står på oppgitt side
+- OK   3 estimat=3.8 rad 127 (W2524187003, Risikodifferanse for langvarig sykefravæ) står i sitatet
+- OK   3 ki_lav=1.3 rad 127 (W2524187003, Risikodifferanse for langvarig sykefravæ) står i sitatet
+- OK   3 ki_hoy=6.4 rad 127 (W2524187003, Risikodifferanse for langvarig sykefravæ) står i sitatet
+- OK   4 rad 127 (W2524187003, Risikodifferanse for langvarig sykefravæ) estimat innenfor KI
+- OK   2 sitat rad 131 (W3173764865, Andel som fikk uførepensjon innen fem år) står på oppgitt side
+- OK   3 estimat=21 rad 131 (W3173764865, Andel som fikk uførepensjon innen fem år) står i sitatet
+- OK   2 sitat rad 132 (W3173764865, Risiko for uførepensjon ved lav utdannin) står på oppgitt side
+- OK   3 estimat=1.97 rad 132 (W3173764865, Risiko for uførepensjon ved lav utdannin) står i sitatet
+- OK   3 ki_lav=1.60 rad 132 (W3173764865, Risiko for uførepensjon ved lav utdannin) står i sitatet
+- OK   3 ki_hoy=2.43 rad 132 (W3173764865, Risiko for uførepensjon ved lav utdannin) står i sitatet
+- OK   4 rad 132 (W3173764865, Risiko for uførepensjon ved lav utdannin) estimat innenfor KI
+- OK   4 rad 132 (W3173764865, Risiko for uførepensjon ved lav utdannin) KI symmetrisk på log-skala (avvik 0.00)
+- OK   2 sitat rad 133 (W1879173524, Andel med uførepensjon i tidlig voksen a) står på oppgitt side
+- OK   3 estimat=10 rad 133 (W1879173524, Andel med uførepensjon i tidlig voksen a) står i sitatet
+- OK   2 sitat rad 137 (AV-2015-3-07, Andel nye mottakere av midlertidig helse) står på oppgitt side
+- OK   3 estimat=8 rad 137 (AV-2015-3-07, Andel nye mottakere av midlertidig helse) står i sitatet
+- OK   2 sitat rad 138 (AV-2015-3-07, Økning i antall nye mottakere per måned ) står på oppgitt side
+- OK   3 estimat=50 rad 138 (AV-2015-3-07, Økning i antall nye mottakere per måned ) står i sitatet
+- OK   2 sitat rad 139 (AV-2015-3-07, Andel nye mottakere av midlertidig helse) står på oppgitt side
+- OK   3 estimat=70 rad 139 (AV-2015-3-07, Andel nye mottakere av midlertidig helse) står i sitatet
+- OK   2 sitat rad 140 (0198cc84729b-a09bd70a-765d-4bbb-a164-84a96be028c2, Andel av NEET-gruppen som mottar uføretr) står på oppgitt side
+- OK   3 estimat=15 rad 140 (0198cc84729b-a09bd70a-765d-4bbb-a164-84a96be028c2, Andel av NEET-gruppen som mottar uføretr) står i sitatet
+- OK   2 sitat rad 141 (0198cc84729b-a09bd70a-765d-4bbb-a164-84a96be028c2, NEET-andel (inkluderer uføretrygd, AAP, ) står på oppgitt side
+- OK   3 estimat=9.6 rad 141 (0198cc84729b-a09bd70a-765d-4bbb-a164-84a96be028c2, NEET-andel (inkluderer uføretrygd, AAP, ) står i sitatet
+- OK   2 sitat rad 142 (0198f20c8215-28864d36-ea09-448e-bff0-7b399d5fdb09, Økning i andelen 25-åringer med helserel) står på oppgitt side
+- OK   3 estimat=16.45 rad 142 (0198f20c8215-28864d36-ea09-448e-bff0-7b399d5fdb09, Økning i andelen 25-åringer med helserel) står i sitatet
+- OK   2 sitat rad 143 (0198f20c8215-28864d36-ea09-448e-bff0-7b399d5fdb09, Andel 25-åringer som mottok AAP i 2010 () står på oppgitt side
+- OK   3 estimat=4.64 rad 143 (0198f20c8215-28864d36-ea09-448e-bff0-7b399d5fdb09, Andel 25-åringer som mottok AAP i 2010 () står i sitatet
+- OK   2 sitat rad 144 (0198f20c8215-28864d36-ea09-448e-bff0-7b399d5fdb09, Predikert sannsynlighet (prosent) for he) står på oppgitt side
+- OK   3 estimat=47.02 rad 144 (0198f20c8215-28864d36-ea09-448e-bff0-7b399d5fdb09, Predikert sannsynlighet (prosent) for he) står i sitatet
+- OK   2 sitat rad 145 (R-91a7b6c512, Nytilkendte førtidspensioner per måned t) står på oppgitt side
+- OK   3 estimat=115 rad 145 (R-91a7b6c512, Nytilkendte førtidspensioner per måned t) står i sitatet
+- OK   2 sitat rad 146 (R-91a7b6c512, Andel av dem som ble førtidspensionert f) står på oppgitt side
+- OK   3 estimat=11 rad 146 (R-91a7b6c512, Andel av dem som ble førtidspensionert f) står i sitatet
+- OK   2 sitat rad 147 (R-91a7b6c512, Merafgang til ordinært arbeid eller utda) står på oppgitt side
+- OK   3 estimat=28 rad 147 (R-91a7b6c512, Merafgang til ordinært arbeid eller utda) står i sitatet
+- OK   2 sitat rad 148 (R-f51590820c, Andel som innen et halvår søkte og fikk ) står på oppgitt side
+- OK   3 estimat=52 rad 148 (R-f51590820c, Andel som innen et halvår søkte og fikk ) står i sitatet
+- OK   2 sitat rad 149 (R-f51590820c, Andel som begynte å arbeide etter en per) står på oppgitt side
+- OK   3 estimat=4 rad 149 (R-f51590820c, Andel som begynte å arbeide etter en per) står i sitatet
+- OK   2 sitat rad 150 (W2212575307, Økt sannsynlighet for uførepensjon ved 3) står på oppgitt side
+- OK   3 estimat=20 rad 150 (W2212575307, Økt sannsynlighet for uførepensjon ved 3) står i sitatet
+- OK   2 sitat rad 151 (W2160015399, Odds for langvarige medisinske ytelser () står på oppgitt side
+- OK   3 estimat=1.65 rad 151 (W2160015399, Odds for langvarige medisinske ytelser () står i sitatet
+- OK   3 ki_lav=1.10 rad 151 (W2160015399, Odds for langvarige medisinske ytelser () står i sitatet
+- OK   3 ki_hoy=2.48 rad 151 (W2160015399, Odds for langvarige medisinske ytelser () står i sitatet
+- OK   4 rad 151 (W2160015399, Odds for langvarige medisinske ytelser () estimat innenfor KI
+- OK   4 rad 151 (W2160015399, Odds for langvarige medisinske ytelser () KI symmetrisk på log-skala (avvik 0.00)
+- OK   2 sitat rad 152 (W2160015399, Odds for langvarige medisinske ytelser 2) står på oppgitt side
+- OK   3 estimat=1.58 rad 152 (W2160015399, Odds for langvarige medisinske ytelser 2) står i sitatet
+- OK   3 ki_lav=1.33 rad 152 (W2160015399, Odds for langvarige medisinske ytelser 2) står i sitatet
+- OK   3 ki_hoy=1.87 rad 152 (W2160015399, Odds for langvarige medisinske ytelser 2) står i sitatet
+- OK   4 rad 152 (W2160015399, Odds for langvarige medisinske ytelser 2) estimat innenfor KI
+- OK   4 rad 152 (W2160015399, Odds for langvarige medisinske ytelser 2) KI symmetrisk på log-skala (avvik 0.00)
+- OK   2 sitat rad 153 (W2142502944, Arvbarhet for uførepensjon (0.49 for lan) står på oppgitt side
+- OK   3 estimat=0.66 rad 153 (W2142502944, Arvbarhet for uførepensjon (0.49 for lan) står i sitatet
+- OK   2 sitat rad 154 (W2142502944, Andel med uførepensjon i oppfølgingen 19) står på oppgitt side
+- OK   3 estimat=3.3 rad 154 (W2142502944, Andel med uførepensjon i oppfølgingen 19) står i sitatet
+- OK   2 sitat rad 155 (W2142502944, Andel med psykisk lidelse som diagnose b) står på oppgitt side
+- OK   3 estimat=51.0 rad 155 (W2142502944, Andel med psykisk lidelse som diagnose b) står i sitatet
+- OK   2 sitat rad 156 (W2628418572, Risiko for uførepensjon (DP) i ung vokse) står på oppgitt side
+- OK   3 estimat=1.31 rad 156 (W2628418572, Risiko for uførepensjon (DP) i ung vokse) står i sitatet
+- OK   3 ki_lav=1.12 rad 156 (W2628418572, Risiko for uførepensjon (DP) i ung vokse) står i sitatet
+- OK   3 ki_hoy=1.53 rad 156 (W2628418572, Risiko for uførepensjon (DP) i ung vokse) står i sitatet
+- OK   4 rad 156 (W2628418572, Risiko for uførepensjon (DP) i ung vokse) estimat innenfor KI
+- OK   4 rad 156 (W2628418572, Risiko for uførepensjon (DP) i ung vokse) KI symmetrisk på log-skala (avvik 0.00)
+- OK   2 sitat rad 157 (W4366083399, Relativ risiko for uføretrygd ved 29 år ) står på oppgitt side
+- OK   3 estimat=4.43 rad 157 (W4366083399, Relativ risiko for uføretrygd ved 29 år ) står i sitatet
+- OK   3 ki_lav=3.26 rad 157 (W4366083399, Relativ risiko for uføretrygd ved 29 år ) står i sitatet
+- OK   3 ki_hoy=6.01 rad 157 (W4366083399, Relativ risiko for uføretrygd ved 29 år ) står i sitatet
+- OK   4 rad 157 (W4366083399, Relativ risiko for uføretrygd ved 29 år ) estimat innenfor KI
+- OK   4 rad 157 (W4366083399, Relativ risiko for uføretrygd ved 29 år ) KI symmetrisk på log-skala (avvik 0.00)
+- OK   2 sitat rad 158 (W4366083399, Relativ risiko for sosialhjelp ved 29 år) står på oppgitt side
+- OK   3 estimat=1.56 rad 158 (W4366083399, Relativ risiko for sosialhjelp ved 29 år) står i sitatet
+- OK   3 ki_lav=1.41 rad 158 (W4366083399, Relativ risiko for sosialhjelp ved 29 år) står i sitatet
+- OK   3 ki_hoy=1.74 rad 158 (W4366083399, Relativ risiko for sosialhjelp ved 29 år) står i sitatet
+- OK   4 rad 158 (W4366083399, Relativ risiko for sosialhjelp ved 29 år) estimat innenfor KI
+- OK   4 rad 158 (W4366083399, Relativ risiko for sosialhjelp ved 29 år) KI symmetrisk på log-skala (avvik 0.01)
+- OK   2 sitat rad 159 (W3138005625, Odds for uførepensjon (disability pensio) står på oppgitt side
+- OK   3 estimat=19.0 rad 159 (W3138005625, Odds for uførepensjon (disability pensio) står i sitatet
+- OK   3 ki_lav=18.4 rad 159 (W3138005625, Odds for uførepensjon (disability pensio) står i sitatet
+- OK   3 ki_hoy=19.6 rad 159 (W3138005625, Odds for uførepensjon (disability pensio) står i sitatet
+- OK   4 rad 159 (W3138005625, Odds for uførepensjon (disability pensio) estimat innenfor KI
+- OK   4 rad 159 (W3138005625, Odds for uførepensjon (disability pensio) KI symmetrisk på log-skala (avvik 0.00)
+- OK   2 sitat rad 160 (W3138005625, Odds for uførepensjon for personer med A) står på oppgitt side
+- OK   3 estimat=5.68 rad 160 (W3138005625, Odds for uførepensjon for personer med A) står i sitatet
+- OK   2 sitat rad 161 (W2142283858, Risiko for uførepensjon 1993–2007 for de) står på oppgitt side
+- OK   3 estimat=1.08 rad 161 (W2142283858, Risiko for uførepensjon 1993–2007 for de) står i sitatet
+- OK   2 sitat rad 162 (W2142283858, Risiko for uførepensjon 1993–2007 ved la) står på oppgitt side
+- OK   3 estimat=1.62 rad 162 (W2142283858, Risiko for uførepensjon 1993–2007 ved la) står i sitatet
+- OK   3 ki_lav=1.46 rad 162 (W2142283858, Risiko for uførepensjon 1993–2007 ved la) står i sitatet
+- OK   3 ki_hoy=1.79 rad 162 (W2142283858, Risiko for uførepensjon 1993–2007 ved la) står i sitatet
+- OK   4 rad 162 (W2142283858, Risiko for uførepensjon 1993–2007 ved la) estimat innenfor KI
+- OK   4 rad 162 (W2142283858, Risiko for uførepensjon 1993–2007 ved la) KI symmetrisk på log-skala (avvik 0.00)
+- OK   2 sitat rad 163 (W2896840500, Andel med psykisk belastning, det vanlig) står på oppgitt side
+- OK   3 estimat=52 rad 163 (W2896840500, Andel med psykisk belastning, det vanlig) står i sitatet
+- OK   2 sitat rad 164 (W2896840500, Andel uten fullført videregående) står på oppgitt side
+- OK   3 estimat=40 rad 164 (W2896840500, Andel uten fullført videregående) står i sitatet
+- OK   2 sitat rad 165 (W2896840500, Andel av tidlig arbeidsuførhet i Norge m) står på oppgitt side
+- OK   3 estimat=63 rad 165 (W2896840500, Andel av tidlig arbeidsuførhet i Norge m) står i sitatet
+- OK   2 sitat rad 166 (R-e0bf5ced86, Antall som i løpet av året fikk aktivite) står på oppgitt side
+- OK   3 estimat=47000 rad 166 (R-e0bf5ced86, Antall som i løpet av året fikk aktivite) står i sitatet
+- OK   2 sitat rad 167 (R-e0bf5ced86, Andel med aktivitetsersättning som har p) står på oppgitt side
+- OK   3 estimat=70 rad 167 (R-e0bf5ced86, Andel med aktivitetsersättning som har p) står i sitatet
+- OK   2 sitat rad 168 (R-e0bf5ced86, Andel med aktivitetsersättning der forel) står på oppgitt side
+- OK   3 estimat=60 rad 168 (R-e0bf5ced86, Andel med aktivitetsersättning der forel) står i sitatet
+- OK   2 sitat rad 169 (R-e0bf5ced86, Andel som gikk direkte over til sjukersä) står på oppgitt side
+- OK   3 estimat=48 rad 169 (R-e0bf5ced86, Andel som gikk direkte over til sjukersä) står i sitatet
+- OK   2 sitat rad 170 (R-c354ed68d0, Andel avslag på nye søknader om aktivite) står på oppgitt side
+- OK   3 estimat=47 rad 170 (R-c354ed68d0, Andel avslag på nye søknader om aktivite) står i sitatet
+- OK   2 sitat rad 171 (R-c354ed68d0, Økt sannsynlighet for avslag etter Försä) står på oppgitt side
+- OK   3 estimat=5.77 rad 171 (R-c354ed68d0, Økt sannsynlighet for avslag etter Försä) står i sitatet
+- OK   2 sitat rad 172 (R-c354ed68d0, Antall med aktivitetsersättning ved neds) står på oppgitt side
+- OK   3 estimat=24000 rad 172 (R-c354ed68d0, Antall med aktivitetsersättning ved neds) står i sitatet
+- OK   2 sitat rad 173 (R-741042958e, Antall med aktivitetsersättning ved neds) står på oppgitt side
+- OK   3 estimat=29700 rad 173 (R-741042958e, Antall med aktivitetsersättning ved neds) står i sitatet
+- OK   2 sitat rad 174 (R-741042958e, Andel med psykiatrisk hoveddiagnose blan) står på oppgitt side
+- OK   3 estimat=67 rad 174 (R-741042958e, Andel med psykiatrisk hoveddiagnose blan) står i sitatet
+- OK   2 sitat rad 175 (R-741042958e, Andel som innen et halvår søkte og fikk ) står på oppgitt side
+- OK   3 estimat=53 rad 175 (R-741042958e, Andel som innen et halvår søkte og fikk ) står i sitatet
+- OK   2 sitat rad 176 (R-741042958e, Andel med sjukersättning blant unge unde) står på oppgitt side
+- OK   3 estimat=9 rad 176 (R-741042958e, Andel med sjukersättning blant unge unde) står i sitatet
+- OK   2 sitat rad 177 (AV-2022-3-05, Vekst i andel unge uføre i Nordland 2012) står på oppgitt side
+- OK   3 estimat=129 rad 177 (AV-2022-3-05, Vekst i andel unge uføre i Nordland 2012) står i sitatet
+- OK   2 sitat rad 178 (AV-2022-2-02, Økning i andel i aktivitet (arbeid, kurs) står på oppgitt side
+- OK   3 estimat=9.4 rad 178 (AV-2022-2-02, Økning i andel i aktivitet (arbeid, kurs) står i sitatet
+- OK   2 sitat rad 179 (R-c354ed68d0, Andel avslag på forlengelsessøknader, 20) står på oppgitt side
+- OK   3 estimat=20 rad 179 (R-c354ed68d0, Andel avslag på forlengelsessøknader, 20) står i sitatet
+- OK   2 sitat rad 180 (W3123524712, Øvre grense for gjennomsnittlig kausalef) står på oppgitt side
+- OK   3 estimat=2.8 rad 180 (W3123524712, Øvre grense for gjennomsnittlig kausalef) står i sitatet
+- OK   2 sitat rad 181 (R-c354ed68d0, Antall med aktivitetsersättning ved neds) står på oppgitt side
+- OK   3 estimat=32000 rad 181 (R-c354ed68d0, Antall med aktivitetsersättning ved neds) står i sitatet
+- OK   2 sitat rad 182 (NB-4593, nye tilfeller av arbeidsavklaringspenger) står på oppgitt side
+- OK   3 estimat=5 rad 182 (NB-4593, nye tilfeller av arbeidsavklaringspenger) står i sitatet
+- OK   2 sitat rad 183 (NB-4593, avgang fra AAP og tilgang til uføretrygd) står på oppgitt side
+- OK   2 sitat rad 184 (NB-5042, andel som mottok en helserelatert ytelse) står på oppgitt side
+- OK   3 estimat=7.0 rad 184 (NB-5042, andel som mottok en helserelatert ytelse) står i sitatet
+- OK   2 sitat rad 185 (NB-5078, overgang fra AAP til uførepensjon for ny) står på oppgitt side
+- OK   2 sitat rad 186 (NB-4593, nye tilfeller av arbeidsavklaringspenger) står på oppgitt side
+- OK   3 estimat=369 rad 186 (NB-4593, nye tilfeller av arbeidsavklaringspenger) står i sitatet
+- OK   7 statistikk rad 1 (Nav Mottakere av uføretrygd som andel av befolkningen, etter kjønn og alder, Uføretrygd 18-19 år, begge kjønn) har alle felt
+- OK   7 statistikk rad 1 (Nav Mottakere av uføretrygd som andel av befolkningen, etter kjønn og alder, Uføretrygd 18-19 år, begge kjønn) verdien 1.0 står i statistikk/nav-ufore-andel-kjonn-alder.tsv
+- OK   7 statistikk rad 2 (Nav Mottakere av uføretrygd som andel av befolkningen, etter kjønn og alder, Uføretrygd 18-19 år, begge kjønn) har alle felt
+- OK   7 statistikk rad 2 (Nav Mottakere av uføretrygd som andel av befolkningen, etter kjønn og alder, Uføretrygd 18-19 år, begge kjønn) verdien 1.3 står i statistikk/nav-ufore-andel-kjonn-alder.tsv
+- OK   7 statistikk rad 3 (Nav Mottakere av uføretrygd som andel av befolkningen, etter kjønn og alder, Uføretrygd 20-24 år, begge kjønn) har alle felt
+- OK   7 statistikk rad 3 (Nav Mottakere av uføretrygd som andel av befolkningen, etter kjønn og alder, Uføretrygd 20-24 år, begge kjønn) verdien 1.5 står i statistikk/nav-ufore-andel-kjonn-alder.tsv
+- OK   7 statistikk rad 4 (Nav Mottakere av uføretrygd som andel av befolkningen, etter kjønn og alder, Uføretrygd 20-24 år, begge kjønn) har alle felt
+- OK   7 statistikk rad 4 (Nav Mottakere av uføretrygd som andel av befolkningen, etter kjønn og alder, Uføretrygd 20-24 år, begge kjønn) verdien 2.1 står i statistikk/nav-ufore-andel-kjonn-alder.tsv
+- OK   7 statistikk rad 5 (Nav Mottakere av uføretrygd som andel av befolkningen, etter kjønn og alder, Uføretrygd 25-29 år, begge kjønn) har alle felt
+- OK   7 statistikk rad 5 (Nav Mottakere av uføretrygd som andel av befolkningen, etter kjønn og alder, Uføretrygd 25-29 år, begge kjønn) verdien 2.2 står i statistikk/nav-ufore-andel-kjonn-alder.tsv
+- OK   7 statistikk rad 6 (Nav Mottakere av uføretrygd som andel av befolkningen, etter kjønn og alder, Uføretrygd 25-29 år, begge kjønn) har alle felt
+- OK   7 statistikk rad 6 (Nav Mottakere av uføretrygd som andel av befolkningen, etter kjønn og alder, Uføretrygd 25-29 år, begge kjønn) verdien 3.6 står i statistikk/nav-ufore-andel-kjonn-alder.tsv
+- OK   7 statistikk rad 7 (Nav Mottakere av uføretrygd som andel av befolkningen, etter kjønn og alder, Uføretrygd 25-29 år, begge kjønn) har alle felt
+- OK   7 statistikk rad 7 (Nav Mottakere av uføretrygd som andel av befolkningen, etter kjønn og alder, Uføretrygd 25-29 år, begge kjønn) verdien 3.7 står i statistikk/nav-ufore-andel-kjonn-alder.tsv
+- OK   7 statistikk rad 8 (Nav Mottakere av uføretrygd som andel av befolkningen, etter kjønn og alder, Uføretrygd 25-29 år, kvinner) har alle felt
+- OK   7 statistikk rad 8 (Nav Mottakere av uføretrygd som andel av befolkningen, etter kjønn og alder, Uføretrygd 25-29 år, kvinner) verdien 2.0 står i statistikk/nav-ufore-andel-kjonn-alder.tsv
+- OK   7 statistikk rad 9 (Nav Mottakere av uføretrygd som andel av befolkningen, etter kjønn og alder, Uføretrygd 25-29 år, kvinner) har alle felt
+- OK   7 statistikk rad 9 (Nav Mottakere av uføretrygd som andel av befolkningen, etter kjønn og alder, Uføretrygd 25-29 år, kvinner) verdien 3.7 står i statistikk/nav-ufore-andel-kjonn-alder.tsv
+- OK   7 statistikk rad 10 (Nav Mottakere av uføretrygd som andel av befolkningen, etter kjønn og alder, Uføretrygd 25-29 år, menn) har alle felt
+- OK   7 statistikk rad 10 (Nav Mottakere av uføretrygd som andel av befolkningen, etter kjønn og alder, Uføretrygd 25-29 år, menn) verdien 2.3 står i statistikk/nav-ufore-andel-kjonn-alder.tsv
+- OK   7 statistikk rad 11 (Nav Mottakere av uføretrygd som andel av befolkningen, etter kjønn og alder, Uføretrygd 25-29 år, menn) har alle felt
+- OK   7 statistikk rad 11 (Nav Mottakere av uføretrygd som andel av befolkningen, etter kjønn og alder, Uføretrygd 25-29 år, menn) verdien 3.7 står i statistikk/nav-ufore-andel-kjonn-alder.tsv
+- OK   7 statistikk rad 12 (Nav Mottakere av uføretrygd som andel av befolkningen, etter kjønn og alder, Uføretrygd 20-24 år, menn) har alle felt
+- OK   7 statistikk rad 12 (Nav Mottakere av uføretrygd som andel av befolkningen, etter kjønn og alder, Uføretrygd 20-24 år, menn) verdien 2.3 står i statistikk/nav-ufore-andel-kjonn-alder.tsv
+- OK   7 statistikk rad 13 (Nav Mottakere av uføretrygd som andel av befolkningen, etter kjønn og alder, Uføretrygd 20-24 år, kvinner) har alle felt
+- OK   7 statistikk rad 13 (Nav Mottakere av uføretrygd som andel av befolkningen, etter kjønn og alder, Uføretrygd 20-24 år, kvinner) verdien 1.8 står i statistikk/nav-ufore-andel-kjonn-alder.tsv
+- OK   7 statistikk rad 14 (Nav Uføretrygd 18–29 år: beholdning etter diagnose og kjønn (tabell 1), Mottakere av uføretrygd 18–29 år, i alt) har alle felt
+- OK   7 statistikk rad 14 (Nav Uføretrygd 18–29 år: beholdning etter diagnose og kjønn (tabell 1), Mottakere av uføretrygd 18–29 år, i alt) verdien 9954 står i statistikk/nav-ufore-18-29-diagnose-antall.tsv
+- OK   7 statistikk rad 15 (Nav Uføretrygd 18–29 år: beholdning etter diagnose og kjønn (tabell 1), Mottakere av uføretrygd 18–29 år, i alt) har alle felt
+- OK   7 statistikk rad 15 (Nav Uføretrygd 18–29 år: beholdning etter diagnose og kjønn (tabell 1), Mottakere av uføretrygd 18–29 år, i alt) verdien 22213 står i statistikk/nav-ufore-18-29-diagnose-antall.tsv
+- OK   7 statistikk rad 16 (Nav Uføretrygd 18–29 år: beholdning etter diagnose og kjønn (tabell 1), Mottakere 18–29 år med psykiske lidelser) har alle felt
+- OK   7 statistikk rad 16 (Nav Uføretrygd 18–29 år: beholdning etter diagnose og kjønn (tabell 1), Mottakere 18–29 år med psykiske lidelser) verdien 5865 står i statistikk/nav-ufore-18-29-diagnose-antall.tsv
+- OK   7 statistikk rad 17 (Nav Uføretrygd 18–29 år: beholdning etter diagnose og kjønn (tabell 1), Mottakere 18–29 år med psykiske lidelser) har alle felt
+- OK   7 statistikk rad 17 (Nav Uføretrygd 18–29 år: beholdning etter diagnose og kjønn (tabell 1), Mottakere 18–29 år med psykiske lidelser) verdien 15378 står i statistikk/nav-ufore-18-29-diagnose-antall.tsv
+- OK   7 statistikk rad 18 (Nav Uføretrygd 18–29 år: beholdning etter diagnose og kjønn (tabell 1), Mottakere 18–29 år med psykisk utvikling) har alle felt
+- OK   7 statistikk rad 18 (Nav Uføretrygd 18–29 år: beholdning etter diagnose og kjønn (tabell 1), Mottakere 18–29 år med psykisk utvikling) verdien 2378 står i statistikk/nav-ufore-18-29-diagnose-antall.tsv
+- OK   7 statistikk rad 19 (Nav Uføretrygd 18–29 år: beholdning etter diagnose og kjønn (tabell 1), Mottakere 18–29 år med psykisk utvikling) har alle felt
+- OK   7 statistikk rad 19 (Nav Uføretrygd 18–29 år: beholdning etter diagnose og kjønn (tabell 1), Mottakere 18–29 år med psykisk utvikling) verdien 3404 står i statistikk/nav-ufore-18-29-diagnose-antall.tsv
+- OK   7 statistikk rad 20 (Nav beregnet, Endring i antall mottakere 18–29 år) har alle felt
+- OK   7 statistikk rad 20 (Nav beregnet, Endring i antall mottakere 18–29 år) er utregnet: 22213 − 9954 = 12259
+- OK   7 statistikk rad 21 (Nav beregnet, Økning i antall med psykiske lidelser og) har alle felt
+- OK   7 statistikk rad 21 (Nav beregnet, Økning i antall med psykiske lidelser og) er utregnet: 15378 − 5865 = 9513
+- OK   7 statistikk rad 22 (Nav beregnet, Psykiske lidelser og atferdsforstyrrelse) har alle felt
+- OK   7 statistikk rad 22 (Nav beregnet, Psykiske lidelser og atferdsforstyrrelse) er utregnet: 9513 / 12259 = 0,776, avrundet 78
+- OK   7 statistikk rad 23 (Nav Uføretrygd 18–29 år etter hoveddiagnose, andel, Psykiske lidelser og atferdsforstyrrelse) har alle felt
+- OK   7 statistikk rad 23 (Nav Uføretrygd 18–29 år etter hoveddiagnose, andel, Psykiske lidelser og atferdsforstyrrelse) verdien 58.921037 står i statistikk/nav-ufore-18-29-diagnose-andel.tsv
+- OK   7 statistikk rad 24 (Nav beregnet, Psykiske lidelser og atferdsforstyrrelse) har alle felt
+- OK   7 statistikk rad 24 (Nav beregnet, Psykiske lidelser og atferdsforstyrrelse) er utregnet: 58.921037 avrundet til 58,9
+- OK   7 statistikk rad 25 (Nav Uføretrygd 18–29 år etter hoveddiagnose, andel, Psykiske lidelser og atferdsforstyrrelse) har alle felt
+- OK   7 statistikk rad 25 (Nav Uføretrygd 18–29 år etter hoveddiagnose, andel, Psykiske lidelser og atferdsforstyrrelse) verdien 69.22973 står i statistikk/nav-ufore-18-29-diagnose-andel.tsv
+- OK   7 statistikk rad 26 (Nav beregnet, Psykiske lidelser og atferdsforstyrrelse) har alle felt
+- OK   7 statistikk rad 26 (Nav beregnet, Psykiske lidelser og atferdsforstyrrelse) er utregnet: 69.22973 avrundet til 69,2
+- OK   7 statistikk rad 27 (Nav Uføretrygd 18–29 år etter hoveddiagnose, andel, Nevroser og atferdsforstyrrelser, andel ) har alle felt
+- OK   7 statistikk rad 27 (Nav Uføretrygd 18–29 år etter hoveddiagnose, andel, Nevroser og atferdsforstyrrelser, andel ) verdien 25.678119 står i statistikk/nav-ufore-18-29-diagnose-andel.tsv
+- OK   7 statistikk rad 28 (Nav beregnet, Nevroser og atferdsforstyrrelser, andel ) har alle felt
+- OK   7 statistikk rad 28 (Nav beregnet, Nevroser og atferdsforstyrrelser, andel ) er utregnet: 25.678119 avrundet til 25,7
+- OK   7 statistikk rad 29 (Nav Uføretrygd 18–29 år etter hoveddiagnose, andel, Nevroser og atferdsforstyrrelser, andel ) har alle felt
+- OK   7 statistikk rad 29 (Nav Uføretrygd 18–29 år etter hoveddiagnose, andel, Nevroser og atferdsforstyrrelser, andel ) verdien 43.429523 står i statistikk/nav-ufore-18-29-diagnose-andel.tsv
+- OK   7 statistikk rad 30 (Nav beregnet, Nevroser og atferdsforstyrrelser, andel ) har alle felt
+- OK   7 statistikk rad 30 (Nav beregnet, Nevroser og atferdsforstyrrelser, andel ) er utregnet: 43.429523 avrundet til 43,4
+- OK   7 statistikk rad 31 (Nav Uføretrygd 18–29 år etter hoveddiagnose, andel, Psykisk utviklingshemming, andel av mott) har alle felt
+- OK   7 statistikk rad 31 (Nav Uføretrygd 18–29 år etter hoveddiagnose, andel, Psykisk utviklingshemming, andel av mott) verdien 23.889894 står i statistikk/nav-ufore-18-29-diagnose-andel.tsv
+- OK   7 statistikk rad 32 (Nav beregnet, Psykisk utviklingshemming, andel av mott) har alle felt
+- OK   7 statistikk rad 32 (Nav beregnet, Psykisk utviklingshemming, andel av mott) er utregnet: 23.889894 avrundet til 23,9
+- OK   7 statistikk rad 33 (Nav Uføretrygd 18–29 år etter hoveddiagnose, andel, Psykisk utviklingshemming, andel av mott) har alle felt
+- OK   7 statistikk rad 33 (Nav Uføretrygd 18–29 år etter hoveddiagnose, andel, Psykisk utviklingshemming, andel av mott) verdien 15.32436 står i statistikk/nav-ufore-18-29-diagnose-andel.tsv
+- OK   7 statistikk rad 34 (Nav beregnet, Psykisk utviklingshemming, andel av mott) har alle felt
+- OK   7 statistikk rad 34 (Nav beregnet, Psykisk utviklingshemming, andel av mott) er utregnet: 15.32436 avrundet til 15,3
+- OK   7 statistikk rad 35 (Nav Uføretrygd 18–29 år etter hoveddiagnose, andel, Medfødte misdannelser og kromosomavvik, ) har alle felt
+- OK   7 statistikk rad 35 (Nav Uføretrygd 18–29 år etter hoveddiagnose, andel, Medfødte misdannelser og kromosomavvik, ) verdien 13.401648 står i statistikk/nav-ufore-18-29-diagnose-andel.tsv
+- OK   7 statistikk rad 36 (Nav beregnet, Medfødte misdannelser og kromosomavvik, ) har alle felt
+- OK   7 statistikk rad 36 (Nav beregnet, Medfødte misdannelser og kromosomavvik, ) er utregnet: 13.401648 avrundet til 13,4
+- OK   7 statistikk rad 37 (Nav Uføretrygd 18–29 år etter hoveddiagnose, andel, Medfødte misdannelser og kromosomavvik, ) har alle felt
+- OK   7 statistikk rad 37 (Nav Uføretrygd 18–29 år etter hoveddiagnose, andel, Medfødte misdannelser og kromosomavvik, ) verdien 11.745374 står i statistikk/nav-ufore-18-29-diagnose-andel.tsv
+- OK   7 statistikk rad 38 (Nav beregnet, Medfødte misdannelser og kromosomavvik, ) har alle felt
+- OK   7 statistikk rad 38 (Nav beregnet, Medfødte misdannelser og kromosomavvik, ) er utregnet: 11.745374 avrundet til 11,7
+- OK   7 statistikk rad 39 (Nav Uføretrygd 18–29 år etter hoveddiagnose, andel, Sykdommer i nervesystemet, andel av mott) har alle felt
+- OK   7 statistikk rad 39 (Nav Uføretrygd 18–29 år etter hoveddiagnose, andel, Sykdommer i nervesystemet, andel av mott) verdien 10.984559 står i statistikk/nav-ufore-18-29-diagnose-andel.tsv
+- OK   7 statistikk rad 40 (Nav beregnet, Sykdommer i nervesystemet, andel av mott) har alle felt
+- OK   7 statistikk rad 40 (Nav beregnet, Sykdommer i nervesystemet, andel av mott) er utregnet: 10.984559 avrundet til 11,0
+- OK   7 statistikk rad 41 (Nav Nye mottakere av uføretrygd per 1000 ikke-ufør i befolkningen, etter kjønn og alder, Nye uføre 18-19 år, begge kjønn) har alle felt
+- OK   7 statistikk rad 41 (Nav Nye mottakere av uføretrygd per 1000 ikke-ufør i befolkningen, etter kjønn og alder, Nye uføre 18-19 år, begge kjønn) verdien 6.7 står i statistikk/nav-ufore-nye-per-1000.tsv
+- OK   7 statistikk rad 42 (Nav Nye mottakere av uføretrygd per 1000 ikke-ufør i befolkningen, etter kjønn og alder, Nye uføre 18-19 år, begge kjønn) har alle felt
+- OK   7 statistikk rad 42 (Nav Nye mottakere av uføretrygd per 1000 ikke-ufør i befolkningen, etter kjønn og alder, Nye uføre 18-19 år, begge kjønn) verdien 8.2 står i statistikk/nav-ufore-nye-per-1000.tsv
+- OK   7 statistikk rad 43 (Nav Nye mottakere av uføretrygd per 1000 ikke-ufør i befolkningen, etter kjønn og alder, Nye uføre 20-24 år, begge kjønn) har alle felt
+- OK   7 statistikk rad 43 (Nav Nye mottakere av uføretrygd per 1000 ikke-ufør i befolkningen, etter kjønn og alder, Nye uføre 20-24 år, begge kjønn) verdien 3.0 står i statistikk/nav-ufore-nye-per-1000.tsv
+- OK   7 statistikk rad 44 (Nav Nye mottakere av uføretrygd per 1000 ikke-ufør i befolkningen, etter kjønn og alder, Nye uføre 20-24 år, begge kjønn) har alle felt
+- OK   7 statistikk rad 44 (Nav Nye mottakere av uføretrygd per 1000 ikke-ufør i befolkningen, etter kjønn og alder, Nye uføre 20-24 år, begge kjønn) verdien 4.4 står i statistikk/nav-ufore-nye-per-1000.tsv
+- OK   7 statistikk rad 45 (Nav Nye mottakere av uføretrygd per 1000 ikke-ufør i befolkningen, etter kjønn og alder, Nye uføre 20-24 år, begge kjønn) har alle felt
+- OK   7 statistikk rad 45 (Nav Nye mottakere av uføretrygd per 1000 ikke-ufør i befolkningen, etter kjønn og alder, Nye uføre 20-24 år, begge kjønn) verdien 3.1 står i statistikk/nav-ufore-nye-per-1000.tsv
+- OK   7 statistikk rad 46 (Nav Nye mottakere av uføretrygd per 1000 ikke-ufør i befolkningen, etter kjønn og alder, Nye uføre 25-29 år, begge kjønn) har alle felt
+- OK   7 statistikk rad 46 (Nav Nye mottakere av uføretrygd per 1000 ikke-ufør i befolkningen, etter kjønn og alder, Nye uføre 25-29 år, begge kjønn) verdien 3.4 står i statistikk/nav-ufore-nye-per-1000.tsv
+- OK   7 statistikk rad 47 (Nav Nye mottakere av uføretrygd per 1000 ikke-ufør i befolkningen, etter kjønn og alder, Nye uføre 25-29 år, begge kjønn) har alle felt
+- OK   7 statistikk rad 47 (Nav Nye mottakere av uføretrygd per 1000 ikke-ufør i befolkningen, etter kjønn og alder, Nye uføre 25-29 år, begge kjønn) verdien 6.5 står i statistikk/nav-ufore-nye-per-1000.tsv
+- OK   7 statistikk rad 48 (Nav Nye mottakere av uføretrygd per 1000 ikke-ufør i befolkningen, etter kjønn og alder, Nye uføre 25-29 år, begge kjønn) har alle felt
+- OK   7 statistikk rad 48 (Nav Nye mottakere av uføretrygd per 1000 ikke-ufør i befolkningen, etter kjønn og alder, Nye uføre 25-29 år, begge kjønn) verdien 4.2 står i statistikk/nav-ufore-nye-per-1000.tsv
+- OK   7 statistikk rad 49 (SSB 12424, Uføretrygdede uten annen hovedstatus, 15) har alle felt
+- OK   7 statistikk rad 49 (SSB 12424, Uføretrygdede uten annen hovedstatus, 15) verdien 0.5 står i statistikk/ssb-12424.tsv
+- OK   7 statistikk rad 50 (SSB 12424, Uføretrygdede uten annen hovedstatus, 15) har alle felt
+- OK   7 statistikk rad 50 (SSB 12424, Uføretrygdede uten annen hovedstatus, 15) verdien 0.5 står i statistikk/ssb-12424.tsv
+- OK   7 statistikk rad 51 (SSB 12424, Uføretrygdede uten annen hovedstatus, 15) har alle felt
+- OK   7 statistikk rad 51 (SSB 12424, Uføretrygdede uten annen hovedstatus, 15) verdien 0.8 står i statistikk/ssb-12424.tsv
+- OK   7 statistikk rad 52 (SSB 12424, Uføretrygdede uten annen hovedstatus, 15) har alle felt
+- OK   7 statistikk rad 52 (SSB 12424, Uføretrygdede uten annen hovedstatus, 15) verdien 1.3 står i statistikk/ssb-12424.tsv
+- OK   7 statistikk rad 53 (SSB 12424, Uføretrygdede uten annen hovedstatus, 15) har alle felt
+- OK   7 statistikk rad 53 (SSB 12424, Uføretrygdede uten annen hovedstatus, 15) verdien 1.3 står i statistikk/ssb-12424.tsv
+- OK   7 statistikk rad 54 (SSB 12424, Uføretrygdede uten annen hovedstatus, 20) har alle felt
+- OK   7 statistikk rad 54 (SSB 12424, Uføretrygdede uten annen hovedstatus, 20) verdien 0.6 står i statistikk/ssb-12424.tsv
+- OK   7 statistikk rad 55 (SSB 12424, Uføretrygdede uten annen hovedstatus, 20) har alle felt
+- OK   7 statistikk rad 55 (SSB 12424, Uføretrygdede uten annen hovedstatus, 20) verdien 1.2 står i statistikk/ssb-12424.tsv
+- OK   7 statistikk rad 56 (SSB 12424, Uføretrygdede uten annen hovedstatus, 25) har alle felt
+- OK   7 statistikk rad 56 (SSB 12424, Uføretrygdede uten annen hovedstatus, 25) verdien 0.8 står i statistikk/ssb-12424.tsv
+- OK   7 statistikk rad 57 (SSB 12424, Uføretrygdede uten annen hovedstatus, 25) har alle felt
+- OK   7 statistikk rad 57 (SSB 12424, Uføretrygdede uten annen hovedstatus, 25) verdien 2.3 står i statistikk/ssb-12424.tsv
+- OK   7 statistikk rad 58 (SSB 12424, Uføretrygdede uten annen hovedstatus, 25) har alle felt
+- OK   7 statistikk rad 58 (SSB 12424, Uføretrygdede uten annen hovedstatus, 25) verdien 2.5 står i statistikk/ssb-12424.tsv
+- OK   7 statistikk rad 59 (SSB 12424, Uføretrygdede uten annen hovedstatus, 15) har alle felt
+- OK   7 statistikk rad 59 (SSB 12424, Uføretrygdede uten annen hovedstatus, 15) verdien 4645 står i statistikk/ssb-12424.tsv
+- OK   7 statistikk rad 60 (SSB 12424, Uføretrygdede uten annen hovedstatus, 15) har alle felt
+- OK   7 statistikk rad 60 (SSB 12424, Uføretrygdede uten annen hovedstatus, 15) verdien 13792 står i statistikk/ssb-12424.tsv
+- OK   7 statistikk rad 61 (SSB 12424, Sysselsatte uføretrygdede, 15-29 år) har alle felt
+- OK   7 statistikk rad 61 (SSB 12424, Sysselsatte uføretrygdede, 15-29 år) verdien 611 står i statistikk/ssb-12424.tsv
+- OK   7 statistikk rad 62 (SSB 12424, Sysselsatte uføretrygdede, 15-29 år) har alle felt
+- OK   7 statistikk rad 62 (SSB 12424, Sysselsatte uføretrygdede, 15-29 år) verdien 1600 står i statistikk/ssb-12424.tsv
+- OK   7 statistikk rad 63 (SSB 12424, Bosatte 15–29 år) har alle felt
+- OK   7 statistikk rad 63 (SSB 12424, Bosatte 15–29 år) verdien 954818 står i statistikk/ssb-12424.tsv
+- OK   7 statistikk rad 64 (SSB 12424, Bosatte 15–29 år) har alle felt
+- OK   7 statistikk rad 64 (SSB 12424, Bosatte 15–29 år) verdien 1047216 står i statistikk/ssb-12424.tsv
+- OK   7 statistikk rad 65 (SSB beregnet, Alle uføretrygdede 15–29 år (uten annen ) har alle felt
+- OK   7 statistikk rad 65 (SSB beregnet, Alle uføretrygdede 15–29 år (uten annen ) er utregnet: 4645 + 611 = 5256
+- OK   7 statistikk rad 66 (SSB beregnet, Alle uføretrygdede 15–29 år (uten annen ) har alle felt
+- OK   7 statistikk rad 66 (SSB beregnet, Alle uføretrygdede 15–29 år (uten annen ) er utregnet: 13792 + 1600 = 15392
+- OK   7 statistikk rad 67 (SSB beregnet, Uføretrygdede 15–29 år i alt, andel av b) har alle felt
+- OK   7 statistikk rad 67 (SSB beregnet, Uføretrygdede 15–29 år i alt, andel av b) er utregnet: 5256 / 954818 = 0,55 prosent
+- OK   7 statistikk rad 68 (SSB beregnet, Uføretrygdede 15–29 år i alt, andel av b) har alle felt
+- OK   7 statistikk rad 68 (SSB beregnet, Uføretrygdede 15–29 år i alt, andel av b) er utregnet: 15392 / 1047216 = 1,47 prosent
+- OK   7 statistikk rad 69 (Danmarks Statistik AUH01, Førtidspension, fuldtidsmodtagere 16-24 ) har alle felt
+- OK   7 statistikk rad 69 (Danmarks Statistik AUH01, Førtidspension, fuldtidsmodtagere 16-24 ) verdien 4640 står i statistikk/dst-auh01-fp.csv
+- OK   7 statistikk rad 70 (Danmarks Statistik AUH01, Førtidspension, fuldtidsmodtagere 16-24 ) har alle felt
+- OK   7 statistikk rad 70 (Danmarks Statistik AUH01, Førtidspension, fuldtidsmodtagere 16-24 ) verdien 5003 står i statistikk/dst-auh01-fp.csv
+- OK   7 statistikk rad 71 (Danmarks Statistik AUH01, Førtidspension, fuldtidsmodtagere 16-24 ) har alle felt
+- OK   7 statistikk rad 71 (Danmarks Statistik AUH01, Førtidspension, fuldtidsmodtagere 16-24 ) verdien 3871 står i statistikk/dst-auh01-fp.csv
+- OK   7 statistikk rad 72 (Danmarks Statistik AUH01, Førtidspension, fuldtidsmodtagere 16-24 ) har alle felt
+- OK   7 statistikk rad 72 (Danmarks Statistik AUH01, Førtidspension, fuldtidsmodtagere 16-24 ) verdien 5317 står i statistikk/dst-auh01-fp.csv
+- OK   7 statistikk rad 73 (Danmarks Statistik AUH01, Førtidspension, fuldtidsmodtagere 25-29 ) har alle felt
+- OK   7 statistikk rad 73 (Danmarks Statistik AUH01, Førtidspension, fuldtidsmodtagere 25-29 ) verdien 5452 står i statistikk/dst-auh01-fp.csv
+- OK   7 statistikk rad 74 (Danmarks Statistik AUH01, Førtidspension, fuldtidsmodtagere 25-29 ) har alle felt
+- OK   7 statistikk rad 74 (Danmarks Statistik AUH01, Førtidspension, fuldtidsmodtagere 25-29 ) verdien 6000 står i statistikk/dst-auh01-fp.csv
+- OK   7 statistikk rad 75 (Danmarks Statistik AUH01, Førtidspension, fuldtidsmodtagere 25-29 ) har alle felt
+- OK   7 statistikk rad 75 (Danmarks Statistik AUH01, Førtidspension, fuldtidsmodtagere 25-29 ) verdien 4906 står i statistikk/dst-auh01-fp.csv
+- OK   7 statistikk rad 76 (Danmarks Statistik AUH01, Førtidspension, fuldtidsmodtagere 25-29 ) har alle felt
+- OK   7 statistikk rad 76 (Danmarks Statistik AUH01, Førtidspension, fuldtidsmodtagere 25-29 ) verdien 7639 står i statistikk/dst-auh01-fp.csv
+- OK   7 statistikk rad 77 (Nav Uføretrygd 18–29 år: beholdning etter diagnose og kjønn (tabell 1), Mottakere 18–29 år med nevroser og atfer) har alle felt
+- OK   7 statistikk rad 77 (Nav Uføretrygd 18–29 år: beholdning etter diagnose og kjønn (tabell 1), Mottakere 18–29 år med nevroser og atfer) verdien 2556 står i statistikk/nav-ufore-18-29-diagnose-antall.tsv
+- OK   7 statistikk rad 78 (Nav Uføretrygd 18–29 år: beholdning etter diagnose og kjønn (tabell 1), Mottakere 18–29 år med nevroser og atfer) har alle felt
+- OK   7 statistikk rad 78 (Nav Uføretrygd 18–29 år: beholdning etter diagnose og kjønn (tabell 1), Mottakere 18–29 år med nevroser og atfer) verdien 9647 står i statistikk/nav-ufore-18-29-diagnose-antall.tsv
+- OK   7 statistikk rad 79 (Nav beregnet, Økning i antall med nevroser og atferdsf) har alle felt
+- OK   7 statistikk rad 79 (Nav beregnet, Økning i antall med nevroser og atferdsf) er utregnet: 9647 − 2556 = 7091
+- OK   7 statistikk rad 80 (Nav beregnet, Nevroser og atferdsforstyrrelsers del av) har alle felt
+- OK   7 statistikk rad 80 (Nav beregnet, Nevroser og atferdsforstyrrelsers del av) er utregnet: 7091 / 12259 = 0,578, avrundet 58
+- OK   7 statistikk rad 81 (Danmarks Statistik FOLK1A, Befolkningen 16-24 år 1. januar (sum av ) har alle felt
+- OK   7 statistikk rad 81 (Danmarks Statistik FOLK1A, Befolkningen 16-24 år 1. januar (sum av ) er utregnet: sum av aldrene 16-24 i statistikk/dst-folk1a-16-29.csv, 2010K1 = 604917
+- OK   7 statistikk rad 82 (Danmarks Statistik beregnet, Førtidspension, fuldtidsmodtagere 16-24 ) har alle felt
+- OK   7 statistikk rad 82 (Danmarks Statistik beregnet, Førtidspension, fuldtidsmodtagere 16-24 ) er utregnet: 4640 / 604917 = 0,77 prosent (AUH01 delt på FOLK1A 1. januar samme år)
+- OK   7 statistikk rad 83 (Danmarks Statistik FOLK1A, Befolkningen 25-29 år 1. januar (sum av ) har alle felt
+- OK   7 statistikk rad 83 (Danmarks Statistik FOLK1A, Befolkningen 25-29 år 1. januar (sum av ) er utregnet: sum av aldrene 25-29 i statistikk/dst-folk1a-16-29.csv, 2010K1 = 310970
+- OK   7 statistikk rad 84 (Danmarks Statistik beregnet, Førtidspension, fuldtidsmodtagere 25-29 ) har alle felt
+- OK   7 statistikk rad 84 (Danmarks Statistik beregnet, Førtidspension, fuldtidsmodtagere 25-29 ) er utregnet: 5452 / 310970 = 1,75 prosent (AUH01 delt på FOLK1A 1. januar samme år)
+- OK   7 statistikk rad 85 (Danmarks Statistik FOLK1A, Befolkningen 25-29 år 1. januar (sum av ) har alle felt
+- OK   7 statistikk rad 85 (Danmarks Statistik FOLK1A, Befolkningen 25-29 år 1. januar (sum av ) er utregnet: sum av aldrene 25-29 i statistikk/dst-folk1a-16-29.csv, 2013K1 = 322222
+- OK   7 statistikk rad 86 (Danmarks Statistik beregnet, Førtidspension, fuldtidsmodtagere 25-29 ) har alle felt
+- OK   7 statistikk rad 86 (Danmarks Statistik beregnet, Førtidspension, fuldtidsmodtagere 25-29 ) er utregnet: 6000 / 322222 = 1,86 prosent (AUH01 delt på FOLK1A 1. januar samme år)
+- OK   7 statistikk rad 87 (Danmarks Statistik FOLK1A, Befolkningen 16-24 år 1. januar (sum av ) har alle felt
+- OK   7 statistikk rad 87 (Danmarks Statistik FOLK1A, Befolkningen 16-24 år 1. januar (sum av ) er utregnet: sum av aldrene 16-24 i statistikk/dst-folk1a-16-29.csv, 2018K1 = 670938
+- OK   7 statistikk rad 88 (Danmarks Statistik beregnet, Førtidspension, fuldtidsmodtagere 16-24 ) har alle felt
+- OK   7 statistikk rad 88 (Danmarks Statistik beregnet, Førtidspension, fuldtidsmodtagere 16-24 ) er utregnet: 3980 / 670938 = 0,59 prosent (AUH01 delt på FOLK1A 1. januar samme år)
+- OK   7 statistikk rad 89 (Danmarks Statistik FOLK1A, Befolkningen 25-29 år 1. januar (sum av ) har alle felt
+- OK   7 statistikk rad 89 (Danmarks Statistik FOLK1A, Befolkningen 25-29 år 1. januar (sum av ) er utregnet: sum av aldrene 25-29 i statistikk/dst-folk1a-16-29.csv, 2018K1 = 386777
+- OK   7 statistikk rad 90 (Danmarks Statistik beregnet, Førtidspension, fuldtidsmodtagere 25-29 ) har alle felt
+- OK   7 statistikk rad 90 (Danmarks Statistik beregnet, Førtidspension, fuldtidsmodtagere 25-29 ) er utregnet: 4906 / 386777 = 1,27 prosent (AUH01 delt på FOLK1A 1. januar samme år)
+- OK   7 statistikk rad 91 (Danmarks Statistik FOLK1A, Befolkningen 16-24 år 1. januar (sum av ) har alle felt
+- OK   7 statistikk rad 91 (Danmarks Statistik FOLK1A, Befolkningen 16-24 år 1. januar (sum av ) er utregnet: sum av aldrene 16-24 i statistikk/dst-folk1a-16-29.csv, 2025K1 = 661203
+- OK   7 statistikk rad 92 (Danmarks Statistik beregnet, Førtidspension, fuldtidsmodtagere 16-24 ) har alle felt
+- OK   7 statistikk rad 92 (Danmarks Statistik beregnet, Førtidspension, fuldtidsmodtagere 16-24 ) er utregnet: 5317 / 661203 = 0,80 prosent (AUH01 delt på FOLK1A 1. januar samme år)
+- OK   7 statistikk rad 93 (Danmarks Statistik FOLK1A, Befolkningen 25-29 år 1. januar (sum av ) har alle felt
+- OK   7 statistikk rad 93 (Danmarks Statistik FOLK1A, Befolkningen 25-29 år 1. januar (sum av ) er utregnet: sum av aldrene 25-29 i statistikk/dst-folk1a-16-29.csv, 2025K1 = 407325
+- OK   7 statistikk rad 94 (Danmarks Statistik beregnet, Førtidspension, fuldtidsmodtagere 25-29 ) har alle felt
+- OK   7 statistikk rad 94 (Danmarks Statistik beregnet, Førtidspension, fuldtidsmodtagere 25-29 ) er utregnet: 7639 / 407325 = 1,88 prosent (AUH01 delt på FOLK1A 1. januar samme år)
+- OK   8 ssb-unge-ufore: 15–29 år 2008 = 0.5 står i statistikk/ssb-12424.csv
+- OK   8 ssb-unge-ufore: 15–29 år 2009 = 0.5 står i statistikk/ssb-12424.csv
+- OK   8 ssb-unge-ufore: 15–29 år 2010 = 0.5 står i statistikk/ssb-12424.csv
+- OK   8 ssb-unge-ufore: 15–29 år 2011 = 0.5 står i statistikk/ssb-12424.csv
+- OK   8 ssb-unge-ufore: 15–29 år 2012 = 0.6 står i statistikk/ssb-12424.csv
+- OK   8 ssb-unge-ufore: 15–29 år 2013 = 0.6 står i statistikk/ssb-12424.csv
+- OK   8 ssb-unge-ufore: 15–29 år 2014 = 0.7 står i statistikk/ssb-12424.csv
+- OK   8 ssb-unge-ufore: 15–29 år 2015 = 0.8 står i statistikk/ssb-12424.csv
+- OK   8 ssb-unge-ufore: 15–29 år 2016 = 0.9 står i statistikk/ssb-12424.csv
+- OK   8 ssb-unge-ufore: 15–29 år 2017 = 1.0 står i statistikk/ssb-12424.csv
+- OK   8 ssb-unge-ufore: 15–29 år 2018 = 1.1 står i statistikk/ssb-12424.csv
+- OK   8 ssb-unge-ufore: 15–29 år 2019 = 1.3 står i statistikk/ssb-12424.csv
+- OK   8 ssb-unge-ufore: 15–29 år 2020 = 1.3 står i statistikk/ssb-12424.csv
+- OK   8 ssb-unge-ufore: 15–29 år 2021 = 1.3 står i statistikk/ssb-12424.csv
+- OK   8 ssb-unge-ufore: 15–29 år 2022 = 1.3 står i statistikk/ssb-12424.csv
+- OK   8 ssb-unge-ufore: 15–29 år 2023 = 1.3 står i statistikk/ssb-12424.csv
+- OK   8 ssb-unge-ufore: 15–29 år 2024 = 1.3 står i statistikk/ssb-12424.csv
+- OK   8 ssb-unge-ufore: 15–29 år 2025 = 1.3 står i statistikk/ssb-12424.csv
+- OK   8 ssb-unge-ufore: 15–19 år 2008 = 0.0 står i statistikk/ssb-12424.csv
+- OK   8 ssb-unge-ufore: 15–19 år 2009 = 0.1 står i statistikk/ssb-12424.csv
+- OK   8 ssb-unge-ufore: 15–19 år 2010 = 0.1 står i statistikk/ssb-12424.csv
+- OK   8 ssb-unge-ufore: 15–19 år 2011 = 0.1 står i statistikk/ssb-12424.csv
+- OK   8 ssb-unge-ufore: 15–19 år 2012 = 0.1 står i statistikk/ssb-12424.csv
+- OK   8 ssb-unge-ufore: 15–19 år 2013 = 0.1 står i statistikk/ssb-12424.csv
+- OK   8 ssb-unge-ufore: 15–19 år 2014 = 0.1 står i statistikk/ssb-12424.csv
+- OK   8 ssb-unge-ufore: 15–19 år 2015 = 0.1 står i statistikk/ssb-12424.csv
+- OK   8 ssb-unge-ufore: 15–19 år 2016 = 0.1 står i statistikk/ssb-12424.csv
+- OK   8 ssb-unge-ufore: 15–19 år 2017 = 0.1 står i statistikk/ssb-12424.csv
+- OK   8 ssb-unge-ufore: 15–19 år 2018 = 0.1 står i statistikk/ssb-12424.csv
+- OK   8 ssb-unge-ufore: 15–19 år 2019 = 0.1 står i statistikk/ssb-12424.csv
+- OK   8 ssb-unge-ufore: 15–19 år 2020 = 0.1 står i statistikk/ssb-12424.csv
+- OK   8 ssb-unge-ufore: 15–19 år 2021 = 0.1 står i statistikk/ssb-12424.csv
+- OK   8 ssb-unge-ufore: 15–19 år 2022 = 0.1 står i statistikk/ssb-12424.csv
+- OK   8 ssb-unge-ufore: 15–19 år 2023 = 0.1 står i statistikk/ssb-12424.csv
+- OK   8 ssb-unge-ufore: 15–19 år 2024 = 0.1 står i statistikk/ssb-12424.csv
+- OK   8 ssb-unge-ufore: 15–19 år 2025 = 0.2 står i statistikk/ssb-12424.csv
+- OK   8 ssb-unge-ufore: 20–24 år 2008 = 0.6 står i statistikk/ssb-12424.csv
+- OK   8 ssb-unge-ufore: 20–24 år 2009 = 0.6 står i statistikk/ssb-12424.csv
+- OK   8 ssb-unge-ufore: 20–24 år 2010 = 0.6 står i statistikk/ssb-12424.csv
+- OK   8 ssb-unge-ufore: 20–24 år 2011 = 0.6 står i statistikk/ssb-12424.csv
+- OK   8 ssb-unge-ufore: 20–24 år 2012 = 0.7 står i statistikk/ssb-12424.csv
+- OK   8 ssb-unge-ufore: 20–24 år 2013 = 0.8 står i statistikk/ssb-12424.csv
+- OK   8 ssb-unge-ufore: 20–24 år 2014 = 0.8 står i statistikk/ssb-12424.csv
+- OK   8 ssb-unge-ufore: 20–24 år 2015 = 0.8 står i statistikk/ssb-12424.csv
+- OK   8 ssb-unge-ufore: 20–24 år 2016 = 0.9 står i statistikk/ssb-12424.csv
+- OK   8 ssb-unge-ufore: 20–24 år 2017 = 1.1 står i statistikk/ssb-12424.csv
+- OK   8 ssb-unge-ufore: 20–24 år 2018 = 1.2 står i statistikk/ssb-12424.csv
+- OK   8 ssb-unge-ufore: 20–24 år 2019 = 1.3 står i statistikk/ssb-12424.csv
+- OK   8 ssb-unge-ufore: 20–24 år 2020 = 1.3 står i statistikk/ssb-12424.csv
+- OK   8 ssb-unge-ufore: 20–24 år 2021 = 1.3 står i statistikk/ssb-12424.csv
+- OK   8 ssb-unge-ufore: 20–24 år 2022 = 1.3 står i statistikk/ssb-12424.csv
+- OK   8 ssb-unge-ufore: 20–24 år 2023 = 1.2 står i statistikk/ssb-12424.csv
+- OK   8 ssb-unge-ufore: 20–24 år 2024 = 1.2 står i statistikk/ssb-12424.csv
+- OK   8 ssb-unge-ufore: 20–24 år 2025 = 1.2 står i statistikk/ssb-12424.csv
+- OK   8 ssb-unge-ufore: 25–29 år 2008 = 0.8 står i statistikk/ssb-12424.csv
+- OK   8 ssb-unge-ufore: 25–29 år 2009 = 0.8 står i statistikk/ssb-12424.csv
+- OK   8 ssb-unge-ufore: 25–29 år 2010 = 0.8 står i statistikk/ssb-12424.csv
+- OK   8 ssb-unge-ufore: 25–29 år 2011 = 0.9 står i statistikk/ssb-12424.csv
+- OK   8 ssb-unge-ufore: 25–29 år 2012 = 1.0 står i statistikk/ssb-12424.csv
+- OK   8 ssb-unge-ufore: 25–29 år 2013 = 1.0 står i statistikk/ssb-12424.csv
+- OK   8 ssb-unge-ufore: 25–29 år 2014 = 1.2 står i statistikk/ssb-12424.csv
+- OK   8 ssb-unge-ufore: 25–29 år 2015 = 1.3 står i statistikk/ssb-12424.csv
+- OK   8 ssb-unge-ufore: 25–29 år 2016 = 1.5 står i statistikk/ssb-12424.csv
+- OK   8 ssb-unge-ufore: 25–29 år 2017 = 1.7 står i statistikk/ssb-12424.csv
+- OK   8 ssb-unge-ufore: 25–29 år 2018 = 2.0 står i statistikk/ssb-12424.csv
+- OK   8 ssb-unge-ufore: 25–29 år 2019 = 2.3 står i statistikk/ssb-12424.csv
+- OK   8 ssb-unge-ufore: 25–29 år 2020 = 2.4 står i statistikk/ssb-12424.csv
+- OK   8 ssb-unge-ufore: 25–29 år 2021 = 2.4 står i statistikk/ssb-12424.csv
+- OK   8 ssb-unge-ufore: 25–29 år 2022 = 2.5 står i statistikk/ssb-12424.csv
+- OK   8 ssb-unge-ufore: 25–29 år 2023 = 2.5 står i statistikk/ssb-12424.csv
+- OK   8 ssb-unge-ufore: 25–29 år 2024 = 2.5 står i statistikk/ssb-12424.csv
+- OK   8 ssb-unge-ufore: 25–29 år 2025 = 2.5 står i statistikk/ssb-12424.csv
+- OK   8 nav-diagnose-18-29: Schizofreni og andre psykoser 2012 = 508 står i statistikk/nav-ufore-18-29-diagnose-antall.tsv
+- OK   8 nav-diagnose-18-29: Schizofreni og andre psykoser 2013 = 524 står i statistikk/nav-ufore-18-29-diagnose-antall.tsv
+- OK   8 nav-diagnose-18-29: Schizofreni og andre psykoser 2014 = 631 står i statistikk/nav-ufore-18-29-diagnose-antall.tsv
+- OK   8 nav-diagnose-18-29: Schizofreni og andre psykoser 2015 = 689 står i statistikk/nav-ufore-18-29-diagnose-antall.tsv
+- OK   8 nav-diagnose-18-29: Schizofreni og andre psykoser 2016 = 703 står i statistikk/nav-ufore-18-29-diagnose-antall.tsv
+- OK   8 nav-diagnose-18-29: Schizofreni og andre psykoser 2017 = 755 står i statistikk/nav-ufore-18-29-diagnose-antall.tsv
+- OK   8 nav-diagnose-18-29: Schizofreni og andre psykoser 2018 = 869 står i statistikk/nav-ufore-18-29-diagnose-antall.tsv
+- OK   8 nav-diagnose-18-29: Schizofreni og andre psykoser 2019 = 930 står i statistikk/nav-ufore-18-29-diagnose-antall.tsv
+- OK   8 nav-diagnose-18-29: Schizofreni og andre psykoser 2020 = 940 står i statistikk/nav-ufore-18-29-diagnose-antall.tsv
+- OK   8 nav-diagnose-18-29: Schizofreni og andre psykoser 2021 = 942 står i statistikk/nav-ufore-18-29-diagnose-antall.tsv
+- OK   8 nav-diagnose-18-29: Schizofreni og andre psykoser 2022 = 972 står i statistikk/nav-ufore-18-29-diagnose-antall.tsv
+- OK   8 nav-diagnose-18-29: Schizofreni og andre psykoser 2023 = 952 står i statistikk/nav-ufore-18-29-diagnose-antall.tsv
+- OK   8 nav-diagnose-18-29: Schizofreni og andre psykoser 2024 = 955 står i statistikk/nav-ufore-18-29-diagnose-antall.tsv
+- OK   8 nav-diagnose-18-29: Schizofreni og andre psykoser 2025 = 957 står i statistikk/nav-ufore-18-29-diagnose-antall.tsv
+- OK   8 nav-diagnose-18-29: Nevroser og atferdsforstyrrelser 2012 = 2556 står i statistikk/nav-ufore-18-29-diagnose-antall.tsv
+- OK   8 nav-diagnose-18-29: Nevroser og atferdsforstyrrelser 2013 = 2756 står i statistikk/nav-ufore-18-29-diagnose-antall.tsv
+- OK   8 nav-diagnose-18-29: Nevroser og atferdsforstyrrelser 2014 = 3293 står i statistikk/nav-ufore-18-29-diagnose-antall.tsv
+- OK   8 nav-diagnose-18-29: Nevroser og atferdsforstyrrelser 2015 = 3831 står i statistikk/nav-ufore-18-29-diagnose-antall.tsv
+- OK   8 nav-diagnose-18-29: Nevroser og atferdsforstyrrelser 2016 = 4433 står i statistikk/nav-ufore-18-29-diagnose-antall.tsv
+- OK   8 nav-diagnose-18-29: Nevroser og atferdsforstyrrelser 2017 = 5206 står i statistikk/nav-ufore-18-29-diagnose-antall.tsv
+- OK   8 nav-diagnose-18-29: Nevroser og atferdsforstyrrelser 2018 = 6332 står i statistikk/nav-ufore-18-29-diagnose-antall.tsv
+- OK   8 nav-diagnose-18-29: Nevroser og atferdsforstyrrelser 2019 = 7415 står i statistikk/nav-ufore-18-29-diagnose-antall.tsv
+- OK   8 nav-diagnose-18-29: Nevroser og atferdsforstyrrelser 2020 = 7883 står i statistikk/nav-ufore-18-29-diagnose-antall.tsv
+- OK   8 nav-diagnose-18-29: Nevroser og atferdsforstyrrelser 2021 = 8357 står i statistikk/nav-ufore-18-29-diagnose-antall.tsv
+- OK   8 nav-diagnose-18-29: Nevroser og atferdsforstyrrelser 2022 = 8719 står i statistikk/nav-ufore-18-29-diagnose-antall.tsv
+- OK   8 nav-diagnose-18-29: Nevroser og atferdsforstyrrelser 2023 = 8913 står i statistikk/nav-ufore-18-29-diagnose-antall.tsv
+- OK   8 nav-diagnose-18-29: Nevroser og atferdsforstyrrelser 2024 = 9412 står i statistikk/nav-ufore-18-29-diagnose-antall.tsv
+- OK   8 nav-diagnose-18-29: Nevroser og atferdsforstyrrelser 2025 = 9647 står i statistikk/nav-ufore-18-29-diagnose-antall.tsv
+- OK   8 nav-diagnose-18-29: Psykisk utviklingshemming 2012 = 2378 står i statistikk/nav-ufore-18-29-diagnose-antall.tsv
+- OK   8 nav-diagnose-18-29: Psykisk utviklingshemming 2013 = 2518 står i statistikk/nav-ufore-18-29-diagnose-antall.tsv
+- OK   8 nav-diagnose-18-29: Psykisk utviklingshemming 2014 = 2765 står i statistikk/nav-ufore-18-29-diagnose-antall.tsv
+- OK   8 nav-diagnose-18-29: Psykisk utviklingshemming 2015 = 3061 står i statistikk/nav-ufore-18-29-diagnose-antall.tsv
+- OK   8 nav-diagnose-18-29: Psykisk utviklingshemming 2016 = 3358 står i statistikk/nav-ufore-18-29-diagnose-antall.tsv
+- OK   8 nav-diagnose-18-29: Psykisk utviklingshemming 2017 = 3554 står i statistikk/nav-ufore-18-29-diagnose-antall.tsv
+- OK   8 nav-diagnose-18-29: Psykisk utviklingshemming 2018 = 3730 står i statistikk/nav-ufore-18-29-diagnose-antall.tsv
+- OK   8 nav-diagnose-18-29: Psykisk utviklingshemming 2019 = 3810 står i statistikk/nav-ufore-18-29-diagnose-antall.tsv
+- OK   8 nav-diagnose-18-29: Psykisk utviklingshemming 2020 = 3806 står i statistikk/nav-ufore-18-29-diagnose-antall.tsv
+- OK   8 nav-diagnose-18-29: Psykisk utviklingshemming 2021 = 3767 står i statistikk/nav-ufore-18-29-diagnose-antall.tsv
+- OK   8 nav-diagnose-18-29: Psykisk utviklingshemming 2022 = 3691 står i statistikk/nav-ufore-18-29-diagnose-antall.tsv
+- OK   8 nav-diagnose-18-29: Psykisk utviklingshemming 2023 = 3570 står i statistikk/nav-ufore-18-29-diagnose-antall.tsv
+- OK   8 nav-diagnose-18-29: Psykisk utviklingshemming 2024 = 3547 står i statistikk/nav-ufore-18-29-diagnose-antall.tsv
+- OK   8 nav-diagnose-18-29: Psykisk utviklingshemming 2025 = 3404 står i statistikk/nav-ufore-18-29-diagnose-antall.tsv
+- OK   8 nav-diagnose-18-29: Sykdommer i nervesystemet 2012 = 1110 står i statistikk/nav-ufore-18-29-diagnose-antall.tsv
+- OK   8 nav-diagnose-18-29: Sykdommer i nervesystemet 2013 = 1159 står i statistikk/nav-ufore-18-29-diagnose-antall.tsv
+- OK   8 nav-diagnose-18-29: Sykdommer i nervesystemet 2014 = 1266 står i statistikk/nav-ufore-18-29-diagnose-antall.tsv
+- OK   8 nav-diagnose-18-29: Sykdommer i nervesystemet 2015 = 1360 står i statistikk/nav-ufore-18-29-diagnose-antall.tsv
+- OK   8 nav-diagnose-18-29: Sykdommer i nervesystemet 2016 = 1508 står i statistikk/nav-ufore-18-29-diagnose-antall.tsv
+- OK   8 nav-diagnose-18-29: Sykdommer i nervesystemet 2017 = 1635 står i statistikk/nav-ufore-18-29-diagnose-antall.tsv
+- OK   8 nav-diagnose-18-29: Sykdommer i nervesystemet 2018 = 1945 står i statistikk/nav-ufore-18-29-diagnose-antall.tsv
+- OK   8 nav-diagnose-18-29: Sykdommer i nervesystemet 2019 = 2214 står i statistikk/nav-ufore-18-29-diagnose-antall.tsv
+- OK   8 nav-diagnose-18-29: Sykdommer i nervesystemet 2020 = 2255 står i statistikk/nav-ufore-18-29-diagnose-antall.tsv
+- OK   8 nav-diagnose-18-29: Sykdommer i nervesystemet 2021 = 2345 står i statistikk/nav-ufore-18-29-diagnose-antall.tsv
+- OK   8 nav-diagnose-18-29: Sykdommer i nervesystemet 2022 = 2404 står i statistikk/nav-ufore-18-29-diagnose-antall.tsv
+- OK   8 nav-diagnose-18-29: Sykdommer i nervesystemet 2023 = 2456 står i statistikk/nav-ufore-18-29-diagnose-antall.tsv
+- OK   8 nav-diagnose-18-29: Sykdommer i nervesystemet 2024 = 2513 står i statistikk/nav-ufore-18-29-diagnose-antall.tsv
+- OK   8 nav-diagnose-18-29: Sykdommer i nervesystemet 2025 = 2440 står i statistikk/nav-ufore-18-29-diagnose-antall.tsv
+- OK   8 nav-diagnose-18-29: Medfødte misdannelser og kromosomavvik 2012 = 1334 står i statistikk/nav-ufore-18-29-diagnose-antall.tsv
+- OK   8 nav-diagnose-18-29: Medfødte misdannelser og kromosomavvik 2013 = 1399 står i statistikk/nav-ufore-18-29-diagnose-antall.tsv
+- OK   8 nav-diagnose-18-29: Medfødte misdannelser og kromosomavvik 2014 = 1501 står i statistikk/nav-ufore-18-29-diagnose-antall.tsv
+- OK   8 nav-diagnose-18-29: Medfødte misdannelser og kromosomavvik 2015 = 1613 står i statistikk/nav-ufore-18-29-diagnose-antall.tsv
+- OK   8 nav-diagnose-18-29: Medfødte misdannelser og kromosomavvik 2016 = 1728 står i statistikk/nav-ufore-18-29-diagnose-antall.tsv
+- OK   8 nav-diagnose-18-29: Medfødte misdannelser og kromosomavvik 2017 = 1851 står i statistikk/nav-ufore-18-29-diagnose-antall.tsv
+- OK   8 nav-diagnose-18-29: Medfødte misdannelser og kromosomavvik 2018 = 1966 står i statistikk/nav-ufore-18-29-diagnose-antall.tsv
+- OK   8 nav-diagnose-18-29: Medfødte misdannelser og kromosomavvik 2019 = 2115 står i statistikk/nav-ufore-18-29-diagnose-antall.tsv
+- OK   8 nav-diagnose-18-29: Medfødte misdannelser og kromosomavvik 2020 = 2151 står i statistikk/nav-ufore-18-29-diagnose-antall.tsv
+- OK   8 nav-diagnose-18-29: Medfødte misdannelser og kromosomavvik 2021 = 2257 står i statistikk/nav-ufore-18-29-diagnose-antall.tsv
+- OK   8 nav-diagnose-18-29: Medfødte misdannelser og kromosomavvik 2022 = 2343 står i statistikk/nav-ufore-18-29-diagnose-antall.tsv
+- OK   8 nav-diagnose-18-29: Medfødte misdannelser og kromosomavvik 2023 = 2428 står i statistikk/nav-ufore-18-29-diagnose-antall.tsv
+- OK   8 nav-diagnose-18-29: Medfødte misdannelser og kromosomavvik 2024 = 2543 står i statistikk/nav-ufore-18-29-diagnose-antall.tsv
+- OK   8 nav-diagnose-18-29: Medfødte misdannelser og kromosomavvik 2025 = 2609 står i statistikk/nav-ufore-18-29-diagnose-antall.tsv
+- OK   8 dst-fortidspension-unge: 16–24 år 2007 = 3761 står i statistikk/dst-auh01-fp.csv
+- OK   8 dst-fortidspension-unge: 16–24 år 2008 = 3904 står i statistikk/dst-auh01-fp.csv
+- OK   8 dst-fortidspension-unge: 16–24 år 2009 = 4272 står i statistikk/dst-auh01-fp.csv
+- OK   8 dst-fortidspension-unge: 16–24 år 2010 = 4640 står i statistikk/dst-auh01-fp.csv
+- OK   8 dst-fortidspension-unge: 16–24 år 2011 = 4886 står i statistikk/dst-auh01-fp.csv
+- OK   8 dst-fortidspension-unge: 16–24 år 2012 = 5003 står i statistikk/dst-auh01-fp.csv
+- OK   8 dst-fortidspension-unge: 16–24 år 2013 = 4881 står i statistikk/dst-auh01-fp.csv
+- OK   8 dst-fortidspension-unge: 16–24 år 2014 = 4370 står i statistikk/dst-auh01-fp.csv
+- OK   8 dst-fortidspension-unge: 16–24 år 2015 = 4029 står i statistikk/dst-auh01-fp.csv
+- OK   8 dst-fortidspension-unge: 16–24 år 2016 = 3898 står i statistikk/dst-auh01-fp.csv
+- OK   8 dst-fortidspension-unge: 16–24 år 2017 = 3871 står i statistikk/dst-auh01-fp.csv
+- OK   8 dst-fortidspension-unge: 16–24 år 2018 = 3980 står i statistikk/dst-auh01-fp.csv
+- OK   8 dst-fortidspension-unge: 16–24 år 2019 = 4101 står i statistikk/dst-auh01-fp.csv
+- OK   8 dst-fortidspension-unge: 16–24 år 2020 = 4260 står i statistikk/dst-auh01-fp.csv
+- OK   8 dst-fortidspension-unge: 16–24 år 2021 = 4493 står i statistikk/dst-auh01-fp.csv
+- OK   8 dst-fortidspension-unge: 16–24 år 2022 = 4717 står i statistikk/dst-auh01-fp.csv
+- OK   8 dst-fortidspension-unge: 16–24 år 2023 = 4976 står i statistikk/dst-auh01-fp.csv
+- OK   8 dst-fortidspension-unge: 16–24 år 2024 = 5165 står i statistikk/dst-auh01-fp.csv
+- OK   8 dst-fortidspension-unge: 16–24 år 2025 = 5317 står i statistikk/dst-auh01-fp.csv
+- OK   8 dst-fortidspension-unge: 25–29 år 2007 = 4865 står i statistikk/dst-auh01-fp.csv
+- OK   8 dst-fortidspension-unge: 25–29 år 2008 = 5014 står i statistikk/dst-auh01-fp.csv
+- OK   8 dst-fortidspension-unge: 25–29 år 2009 = 5131 står i statistikk/dst-auh01-fp.csv
+- OK   8 dst-fortidspension-unge: 25–29 år 2010 = 5452 står i statistikk/dst-auh01-fp.csv
+- OK   8 dst-fortidspension-unge: 25–29 år 2011 = 5799 står i statistikk/dst-auh01-fp.csv
+- OK   8 dst-fortidspension-unge: 25–29 år 2012 = 5930 står i statistikk/dst-auh01-fp.csv
+- OK   8 dst-fortidspension-unge: 25–29 år 2013 = 6000 står i statistikk/dst-auh01-fp.csv
+- OK   8 dst-fortidspension-unge: 25–29 år 2014 = 5708 står i statistikk/dst-auh01-fp.csv
+- OK   8 dst-fortidspension-unge: 25–29 år 2015 = 5522 står i statistikk/dst-auh01-fp.csv
+- OK   8 dst-fortidspension-unge: 25–29 år 2016 = 5234 står i statistikk/dst-auh01-fp.csv
+- OK   8 dst-fortidspension-unge: 25–29 år 2017 = 5028 står i statistikk/dst-auh01-fp.csv
+- OK   8 dst-fortidspension-unge: 25–29 år 2018 = 4906 står i statistikk/dst-auh01-fp.csv
+- OK   8 dst-fortidspension-unge: 25–29 år 2019 = 5083 står i statistikk/dst-auh01-fp.csv
+- OK   8 dst-fortidspension-unge: 25–29 år 2020 = 5313 står i statistikk/dst-auh01-fp.csv
+- OK   8 dst-fortidspension-unge: 25–29 år 2021 = 5721 står i statistikk/dst-auh01-fp.csv
+- OK   8 dst-fortidspension-unge: 25–29 år 2022 = 6113 står i statistikk/dst-auh01-fp.csv
+- OK   8 dst-fortidspension-unge: 25–29 år 2023 = 6652 står i statistikk/dst-auh01-fp.csv
+- OK   8 dst-fortidspension-unge: 25–29 år 2024 = 7222 står i statistikk/dst-auh01-fp.csv
+- OK   8 dst-fortidspension-unge: 25–29 år 2025 = 7639 står i statistikk/dst-auh01-fp.csv
+- OK   8 figuren figurer/ssb-unge-ufore.png er laget
+- OK   8 figuren figurer/ssb-unge-ufore.png er lenket i svaret
+- OK   8 figuren figurer/nav-diagnose-18-29.png er laget
+- OK   8 figuren figurer/nav-diagnose-18-29.png er lenket i svaret
+- OK   8 figuren figurer/dst-fortidspension-unge.png er laget
+- OK   8 figuren figurer/dst-fortidspension-unge.png er lenket i svaret
+- OK   5 tallet 0.006 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 0.008 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 0.5 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 0.55 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 0.59 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 0.6 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 0.77 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 0.8 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 0.80 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 01 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 1.0 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 1.2 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 1.27 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 1.3 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 1.4 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 1.47 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 1.5 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 1.65 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 1.66 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 1.7 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 1.75 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 1.8 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 1.86 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 1.88 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 10.7 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 100 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 1000 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 100000 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 10400 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 11 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 11.7 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 115 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 12 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 12259 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 12424 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 129 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 13 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 130 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 15 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 15.3 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 15378 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 16 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 18 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 19 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 2.0 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 2.1 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 2.16 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 2.2 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 2.3 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 2.4 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 2.5 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 2.6 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 2.8 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 20 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 20100 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 21 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 21800 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 22 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 22213 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 23 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 23.9 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 2378 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 24 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 24000 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 25 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 2556 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 26 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 28 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 29 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 29000 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 29700 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 3.0 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 3.1 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 3.4 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 3.5 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 3.53 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 3.6 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 3.7 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 3.8 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 30 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 32000 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 325 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 33 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 34 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 3404 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 35 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 369 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 37 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 39 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 4.1 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 4.2 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 4.4 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 4.43 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 40 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 47 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 47000 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 48 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 5.77 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 50 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 50.1 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 52 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 53 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 58 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 58.9 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 5865 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 6.2 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 6.5 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 6.7 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 60 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 62.3 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 66 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 67 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 69.2 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 70 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 74 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 7639 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 78 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 8.2 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 80 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 81 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 9.0 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 9.4 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 90 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 9647 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 9954 i svaret finnes i estimat- eller statistikktabellen
+- OK   6 utelatt W2763205864 «Physical, psychological and occupational consequences of job burnout: » (2017) – Studie av én somatisk diagnose eller klinisk gruppe; forklarer ikke utviklingen blant unge uføre.
+- OK   6 utelatt W2934791458 «The longitudinal integrated database for health insurance and labour m» (2019) – Metode-, register- eller instrumentbeskrivelse, ikke studie av unge uføre.
+- OK   6 utelatt W2155131384 «Influence of poor health on exit from paid employment: a systematic re» (2013) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2138501837 «Economic impacts of health shocks on households in low and middle inco» (2014) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2043695552 «Prognostic Factors of Long Term Disability Due to Mental Disorders: A » (2010) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2809576753 «A systematic review of working conditions and occupational health amon» (2018) – Land utenfor Skandinavia uten design i kategori 1–3 som forklarer tilgangen blant unge (kriteriene om land).
+- OK   6 utelatt W2587195501 «The contribution from psychological, social, and organizational work f» (2017) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2169529105 «The contribution of overweight, obesity, and lack of physical activity» (2013) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2147054925 «National and regional asthma programmes in Europe» (2015) – Studie av én somatisk diagnose eller klinisk gruppe; forklarer ikke utviklingen blant unge uføre.
+- OK   6 utelatt W2987143591 «A meta‐regression of the impact of policy on the efficacy of individua» (2019) – Effektstudie av arbeidsrettet tiltak eller behandling, eget spørsmål (kriteriene).
+- OK   6 utelatt W2056867380 «Return to Work Coordination Programmes for Work Disability: A Meta-Ana» (2012) – Effektstudie av arbeidsrettet tiltak eller behandling, eget spørsmål (kriteriene).
+- OK   6 utelatt W2157148062 «No-fault compensation following adverse events attributed to vaccinati» (2011) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W4206392849 «Service learning for improving academic success in students in grade K» (2022) – Unge, men utfallet er ikke uføreytelser (helse, utdanning eller arbeid).
+- OK   6 utelatt W4284965775 «The Swedish military conscription register: opportunities for its use » (2022) – Metode-, register- eller instrumentbeskrivelse, ikke studie av unge uføre.
+- OK   6 utelatt W2960753689 «Inequalities in the economic consequences of depression and anxiety in» (2019) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2969395824 «Indirect Cost of Traumatic Brachial Plexus Injuries in the United Stat» (2019) – Studie av én somatisk diagnose eller klinisk gruppe; forklarer ikke utviklingen blant unge uføre.
+- OK   6 utelatt W2461820639 «Social implications of rheumatic diseases» (2016) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W1681710679 «The Detrimental Impact of Maladaptive Personality on Public Mental Hea» (2015) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2987407400 «Investigating young adults’ mental health and early working life traje» (2019) – Unge og ytelser, men uføreytelse for unge er ikke utfallet eller studien gjelder en snever gruppe; vurdert på tittel og sammendrag og ikke valgt i noen av de to blinde utvalgene.
+- OK   6 utelatt W1993955603 «Alcohol Use in Adolescence and Risk of Disability Pension: A 39 Year F» (2012) – Alkohol i ungdommen og uførepensjon over 39 år (svenske vernepliktige): utfallet gjelder hele voksenlivet, ikke unge uføre.
+- OK   6 utelatt W3196951237 «Role of the PD‐1/PD‐L1 Signaling in Multiple Sclerosis and Experimenta» (2021) – Studie av én somatisk diagnose eller klinisk gruppe; forklarer ikke utviklingen blant unge uføre.
+- OK   6 utelatt W4294879451 «Effectiveness of work-related interventions for return to work in peop» (2022) – Effektstudie av arbeidsrettet tiltak eller behandling, eget spørsmål (kriteriene).
+- OK   6 utelatt W3190745706 «Adolescent psychosocial factors and participation in education and emp» (2021) – Unge, men utfallet er ikke uføreytelser (helse, utdanning eller arbeid).
+- OK   6 utelatt W3044413252 «Parental Experiences of Engaging With the National Disability Insuranc» (2020) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W3004617168 «Expanding the search for emerging mental ill health to safeguard stude» (2020) – Unge, men utfallet er ikke uføreytelser (helse, utdanning eller arbeid).
+- OK   6 utelatt W2033905184 «Health, disability and work: patterns for the working age population» (2010) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2948595096 «Socioeconomic impact of Hodgkin lymphoma in adult patients: a systemat» (2019) – Studie av én somatisk diagnose eller klinisk gruppe; forklarer ikke utviklingen blant unge uføre.
+- OK   6 utelatt W3165322194 «Sustainable Working Life in a Swedish Twin Cohort—A Definition Paper w» (2021) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W4410133328 «Dropout in Psychotherapy for Personality Disorders: A Systematic Revie» (2025) – Unge og ytelser, men uføreytelse for unge er ikke utfallet eller studien gjelder en snever gruppe; vurdert på tittel og sammendrag og ikke valgt i noen av de to blinde utvalgene.
+- OK   6 utelatt W3109674435 «What is the effect of changing eligibility criteria for disability ben» (2020) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2138636478 «Pediatric validity assessment» (2015) – Metode-, register- eller instrumentbeskrivelse, ikke studie av unge uføre.
+- OK   6 utelatt W1969084431 «Hearing difficulties, ear-related diagnoses and sickness absence or di» (2012) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W1616366854 «The Effectiveness of Passive Physical Modalities for the Management of» (2015) – Studie av én somatisk diagnose eller klinisk gruppe; forklarer ikke utviklingen blant unge uføre.
+- OK   6 utelatt W1628362330 «Epidemiologisk forskning om uførepensjon i Norden» (2010) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2100861668 «Effectiveness of Cognitive Behavioral Therapy for Depression in Patien» (2012) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W4401471061 «From illness to inactivity: Exploring the influence of physical diseas» (2024) – Unge og ytelser, men uføreytelse for unge er ikke utfallet eller studien gjelder en snever gruppe; vurdert på tittel og sammendrag og ikke valgt i noen av de to blinde utvalgene.
+- OK   6 utelatt W2747179940 «The impact of funding cuts to further education colleges in Scotland» (2017) – Land utenfor Skandinavia uten design i kategori 1–3 som forklarer tilgangen blant unge (kriteriene om land).
+- OK   6 utelatt W4297200989 «Navigating disability insurance in the American healthcare system for » (2022) – Land utenfor Skandinavia uten design i kategori 1–3 som forklarer tilgangen blant unge (kriteriene om land).
+- OK   6 utelatt W4390346663 «Protocol for a systematic review to understand the long-term mental-he» (2023) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W4400546340 «A scoping review of early childhood support for Aboriginal and Torres » (2024) – Land utenfor Skandinavia uten design i kategori 1–3 som forklarer tilgangen blant unge (kriteriene om land).
+- OK   6 utelatt W4392753263 «Hvem er «sliterne» i arbeidslivet?» (2024) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W4395077949 «Perceived barriers and enablers to utilising the Australian National D» (2024) – Land utenfor Skandinavia uten design i kategori 1–3 som forklarer tilgangen blant unge (kriteriene om land).
+- OK   6 utelatt W7139945990 «The association between mental health problems in childhood and adoles» (2026) – Metode-, register- eller instrumentbeskrivelse, ikke studie av unge uføre.
+- OK   6 utelatt W2887587 «Psychotherapy for depression in claimants receiving wage replacement b» (2014) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W4225551992 «Brukertilfredshet i BUP fra ungdom til voksen» (2022) – Unge og ytelser, men uføreytelse for unge er ikke utfallet eller studien gjelder en snever gruppe; vurdert på tittel og sammendrag og ikke valgt i noen av de to blinde utvalgene.
+- OK   6 utelatt W7167916730 «A Scoping Review of Therapy Provision Under the National Disability In» (2026) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2258464910 «Policy and practice for people with intellectual disability in Sweden» (2015) – Unge og ytelser, men uføreytelse for unge er ikke utfallet eller studien gjelder en snever gruppe; vurdert på tittel og sammendrag og ikke valgt i noen av de to blinde utvalgene.
+- OK   6 utelatt W4230057906 «Correction: Effectiveness of Cognitive Behavioral Therapy for Depressi» (2013) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W3119702642 «A scoping review of dropout rates for students with neurodevelopmental» (2020) – Unge og ytelser, men uføreytelse for unge er ikke utfallet eller studien gjelder en snever gruppe; vurdert på tittel og sammendrag og ikke valgt i noen av de to blinde utvalgene.
+- OK   6 utelatt W3119343438 «Supporting the development of advocacy in the parent/carers of Queensl» (2019) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2045665840 «0160 Development of an instrument assessing symptom exaggeration in pa» (2014) – Metode-, register- eller instrumentbeskrivelse, ikke studie av unge uføre.
+- OK   6 utelatt W292331055 «Kvalitetsförbättring av informaionsflödet : en studie på Försäkringska» (2010) – Unge og ytelser, men uføreytelse for unge er ikke utfallet eller studien gjelder en snever gruppe; vurdert på tittel og sammendrag og ikke valgt i noen av de to blinde utvalgene.
+- OK   6 utelatt W3196522027 «Unge som står utenfor arbeid, opplæring og utdanning (NEET). En analys» (2021) – Analyse av unge utenfor arbeid og utdanning (NEET) i Norge: uføretrygd er ikke eget utfall; Navs analyser og NORCE-rapporten dekker dette.
+- OK   6 utelatt W7113140255 «Predictors of long-term social functioning in young people with emergi» (2025) – Effektstudie av arbeidsrettet tiltak eller behandling, eget spørsmål (kriteriene).
+- OK   6 utelatt W2066694113 «Danish registers on personal income and transfer payments» (2011) – Metode-, register- eller instrumentbeskrivelse, ikke studie av unge uføre.
+- OK   6 utelatt W2116242964 «Trade Adjustment: Worker-Level Evidence *» (2014) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2551249806 «Trade Liberalization and Mortality: Evidence from US Counties» (2020) – Land utenfor Skandinavia uten design i kategori 1–3 som forklarer tilgangen blant unge (kriteriene om land).
+- OK   6 utelatt W2163894459 «The Health Status of Nonparticipants in a Population-based Health Stud» (2010) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W1990823404 «The Effect of Disability Insurance Receipt on Labor Supply» (2011) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2613386087 «Process evaluation of an interorganizational cooperation initiative in» (2017) – Effektstudie av arbeidsrettet tiltak eller behandling, eget spørsmål (kriteriene).
+- OK   6 utelatt W2517533671 «Long-Term Outcomes Associated with Traumatic Brain Injury in Childhood» (2016) – Studie av én somatisk diagnose eller klinisk gruppe; forklarer ikke utviklingen blant unge uføre.
+- OK   6 utelatt W2128675849 «Mental Disorders and Disabilities Among Low-Income Children» (2015) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2177365071 «‘First, do no harm’: are disability assessments associated with advers» (2015) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2119110763 «Work disability in inflammatory bowel disease patients 10 years after » (2012) – Unge og ytelser, men uføreytelse for unge er ikke utfallet eller studien gjelder en snever gruppe; vurdert på tittel og sammendrag og ikke valgt i noen av de to blinde utvalgene.
+- OK   6 utelatt W2045174612 «Poor health, unhealthy behaviors, and unfavorable work characteristics» (2012) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2084076520 «The effect of ill health and socioeconomic status on labor force exit » (2012) – Land utenfor Skandinavia uten design i kategori 1–3 som forklarer tilgangen blant unge (kriteriene om land).
+- OK   6 utelatt W2601128155 «Association Between Spousal Suicide and Mental, Physical, and Social H» (2017) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2054694508 «Life Course Outcomes on Mental and Physical Health: The Impact of Fost» (2012) – Unge og ytelser, men uføreytelse for unge er ikke utfallet eller studien gjelder en snever gruppe; vurdert på tittel og sammendrag og ikke valgt i noen av de to blinde utvalgene.
+- OK   6 utelatt W3014126190 «Acute and long-term costs of 268 peripheral nerve injuries in the uppe» (2020) – Studie av én somatisk diagnose eller klinisk gruppe; forklarer ikke utviklingen blant unge uføre.
+- OK   6 utelatt W2046222244 «Is Retirement Beneficial for Mental Health?» (2011) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2803526085 «Associations Between Childhood Learning Disabilities and Adult-Age Men» (2018) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2073338958 «How Financial Incentives Induce Disability Insurance Recipients to Ret» (2014) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2921443268 «Healthy migrant effect in the Swedish context: a register-based, longi» (2019) – Metode-, register- eller instrumentbeskrivelse, ikke studie av unge uføre.
+- OK   6 utelatt W1599549377 «Do they stay or do they go?» (2011) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2788864029 «Explaining the Decline in the US Employment-to-Population Ratio: A Rev» (2020) – Land utenfor Skandinavia uten design i kategori 1–3 som forklarer tilgangen blant unge (kriteriene om land).
+- OK   6 utelatt W2728367141 «Exploring the Diversity of NEETs» (2016) – NEET-studie uten egne tall for uføreytelser.
+- OK   6 utelatt W2605840160 «Long-term Impact of Bile Duct Injury on Morbidity, Mortality, Quality » (2017) – Studie av én somatisk diagnose eller klinisk gruppe; forklarer ikke utviklingen blant unge uføre.
+- OK   6 utelatt W2547105786 «Work ability index and perceived work ability as predictors of disabil» (2016) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2167890993 «Work-focused cognitive–behavioural therapy and individual job support » (2015) – Effektstudie av arbeidsrettet tiltak eller behandling, eget spørsmål (kriteriene).
+- OK   6 utelatt W2095694923 «Socioeconomic position and participation in colorectal cancer screenin» (2010) – Studie av én somatisk diagnose eller klinisk gruppe; forklarer ikke utviklingen blant unge uføre.
+- OK   6 utelatt W2988644420 «Cardiorespiratory fitness, muscular strength, and obesity in adolescen» (2019) – Unge og ytelser, men uføreytelse for unge er ikke utfallet eller studien gjelder en snever gruppe; vurdert på tittel og sammendrag og ikke valgt i noen av de to blinde utvalgene.
+- OK   6 utelatt W1984114992 «Compensation of Physical Activity and Sedentary Time in Primary School» (2014) – Utenfor temaet: verken unge eller uføreytelser (sentral kandidat fra referansene, for eksempel generell metode eller helse).
+- OK   6 utelatt W2621820322 «Disability Benefits, Consumption Insurance, and Household Labor Supply» (2019) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2134793596 «A cross-sectional exploration of the clinical characteristics of disen» (2014) – NEET-studie uten egne tall for uføreytelser.
+- OK   6 utelatt W1995096782 «Transitions between sickness absence, work, unemployment, and disabili» (2012) – Danske overganger mellom sykefravær, arbeid og uførhet 2004–2008 for alle aldre: ingen egne tall for unge.
+- OK   6 utelatt W2132516360 «Youth who neither study nor work: mental health, education and employm» (2012) – Unge, men utfallet er ikke uføreytelser (helse, utdanning eller arbeid).
+- OK   6 utelatt W2074553879 «Suboptimal Psychosocial Outcomes in Patients With Congenital Adrenal H» (2014) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2029809530 «Sick leave and work disability in primary care patients with recent-on» (2014) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W1975309300 «Education and disability pension: A stronger association than previous» (2010) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2046058619 «Risk of sick leave and disability pension in working-age women and men» (2012) – Studie av én somatisk diagnose eller klinisk gruppe; forklarer ikke utviklingen blant unge uføre.
+- OK   6 utelatt W3007830837 «Targets missed: three case studies exploiting the linked SHARE-RV data» (2021) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2408274038 «Blaming the victim, all over again: Waddell and Aylward’s biopsychosoc» (2016) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2098914659 «Psychological distress and risk of long-term disability: population-ba» (2011) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2796081823 «How adolescent health influences education and employment: investigati» (2018) – Unge, men utfallet er ikke uføreytelser (helse, utdanning eller arbeid).
+- OK   6 utelatt W2796370752 «Case-study of a user-driven prosthetic arm design: bionic hand versus » (2018) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W1973579787 «Chronic pain: One year prevalence and associated characteristics (the » (2013) – Studie av én somatisk diagnose eller klinisk gruppe; forklarer ikke utviklingen blant unge uføre.
+- OK   6 utelatt W1997933757 «Is There an Association between Long-Term Sick Leave and Disability Pe» (2012) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2912659062 «Origins and future of the concept of NEETs in the European policy agen» (2018) – NEET-studie uten egne tall for uføreytelser.
+- OK   6 utelatt W2023213245 «What Facilitates Return to Work? Patients Experiences 3 Years After Oc» (2011) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W1916498375 «Educational Inequalities in Exit from Paid Employment among Dutch Work» (2015) – Land utenfor Skandinavia uten design i kategori 1–3 som forklarer tilgangen blant unge (kriteriene om land).
+- OK   6 utelatt W3148925932 «Economic Inactivity, Not in Employment, Education or Training (NEET) a» (2021) – NEET-studie uten egne tall for uføreytelser.
+- OK   6 utelatt W2073091157 «The Rise and Fall of Disability Insurance Enrollment in the Netherland» (2015) – Land utenfor Skandinavia uten design i kategori 1–3 som forklarer tilgangen blant unge (kriteriene om land).
+- OK   6 utelatt W2283302872 «Claims for sickness and disability benefits owing to mental disorders » (2016) – Land utenfor Skandinavia uten design i kategori 1–3 som forklarer tilgangen blant unge (kriteriene om land).
+- OK   6 utelatt W2767715721 «Redressing or entrenching social and health inequities through policy » (2017) – Land utenfor Skandinavia uten design i kategori 1–3 som forklarer tilgangen blant unge (kriteriene om land).
+- OK   6 utelatt W4225005459 «Economic burden of low physical activity and high sedentary behaviour » (2022) – Unge og ytelser, men uføreytelse for unge er ikke utfallet eller studien gjelder en snever gruppe; vurdert på tittel og sammendrag og ikke valgt i noen av de to blinde utvalgene.
+- OK   6 utelatt W2167718763 «Effects of self-rated health on sick leave, disability pension, hospit» (2012) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W1964691900 «Short-term sick leave and future risk of sickness absence and unemploy» (2012) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2069729535 «Effort–reward imbalance as a risk factor for disability pension: the F» (2013) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2142481524 «Psychosocial well-being in young adults with chronic illness since chi» (2014) – Unge og ytelser, men uføreytelse for unge er ikke utfallet eller studien gjelder en snever gruppe; vurdert på tittel og sammendrag og ikke valgt i noen av de to blinde utvalgene.
+- OK   6 utelatt W2948569763 «Social inclusion and exclusion of people with mental illness in Timor-» (2019) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2050841031 «Activity compensation and activity synergy in British 8–13year olds» (2011) – Utenfor temaet: verken unge eller uføreytelser (sentral kandidat fra referansene, for eksempel generell metode eller helse).
+- OK   6 utelatt W2080753119 «A Brute Indicator for a NEET Case: Genesis and Evolution of a Problema» (2013) – NEET-studie uten egne tall for uføreytelser.
+- OK   6 utelatt W2234422543 «Employment and social benefits up to 10 years after breast cancer diag» (2016) – Studie av én somatisk diagnose eller klinisk gruppe; forklarer ikke utviklingen blant unge uføre.
+- OK   6 utelatt W2749404514 «Retrospectively assessed physical work environment during working life» (2017) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2473941815 «Employment status, difficulties at work and quality of life in inflamm» (2016) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W3001992965 «Estimating the extra costs of disability in European countries: Implic» (2020) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2021110277 «Parental worklessness and the experience of NEET among their offspring» (2014) – Land utenfor Skandinavia uten design i kategori 1–3 som forklarer tilgangen blant unge (kriteriene om land).
+- OK   6 utelatt W2070047481 «Breast Cancer, Sickness Absence, Income and Marital Status. A Study on» (2011) – Studie av én somatisk diagnose eller klinisk gruppe; forklarer ikke utviklingen blant unge uføre.
+- OK   6 utelatt W2809549631 «Muscular weakness in adolescence is associated with disability 30 year» (2018) – Unge og ytelser, men uføreytelse for unge er ikke utfallet eller studien gjelder en snever gruppe; vurdert på tittel og sammendrag og ikke valgt i noen av de to blinde utvalgene.
+- OK   6 utelatt W3123999268 «Job Search Requirements for Older Unemployed: Transitions to Employmen» (2011) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2151015722 «Diagnosis-specific sick leave as a long-term predictor of disability p» (2011) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W1994241313 «Can high psychological job demands, low decision latitude, and high jo» (2012) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2981343317 «Parental socioeconomic resources and adverse childhood experiences as » (2019) – Metode-, register- eller instrumentbeskrivelse, ikke studie av unge uføre.
+- OK   6 utelatt W2104533369 «Disability pension by occupational class - the impact of work-related » (2011) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2791556041 «Occupational and educational inequalities in exit from employment at o» (2018) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2109698867 «Disability, capacity for work and the business cycle: an international» (2010) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2020994086 «Genetic Liability to Disability Pension in Women and Men: A Prospectiv» (2011) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W1515210596 «Invalidez por dor nas costas entre segurados da Previdência Social do » (2011) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2197592094 «Social Interaction Effects in Disability Pension Participation: Eviden» (2012) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2806044349 «Long term survival, health, social functioning, and education in patie» (2018) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2100527983 «Future risk of labour market marginalization in young suicide attempte» (2014) – Unge og ytelser, men uføreytelse for unge er ikke utfallet eller studien gjelder en snever gruppe; vurdert på tittel og sammendrag og ikke valgt i noen av de to blinde utvalgene.
+- OK   6 utelatt W2029130703 «Heavy work and disability pension – a long term follow-up of Swedish c» (2014) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2581699624 «Societal costs and patients' experience of health inequities before an» (2017) – Studie av én somatisk diagnose eller klinisk gruppe; forklarer ikke utviklingen blant unge uføre.
+- OK   6 utelatt W2162670338 «Disability benefit growth and disability reform in the US: lessons fro» (2014) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2008956085 «Job loss and disability insurance» (2013) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W3009296559 «Sickness and disability systems: comparing outcomes and policies in No» (2020) – Land utenfor Skandinavia uten design i kategori 1–3 som forklarer tilgangen blant unge (kriteriene om land).
+- OK   6 utelatt W2107975807 «Societal costs of non-cardiac chest pain compared with ischemic heart » (2013) – Studie av én somatisk diagnose eller klinisk gruppe; forklarer ikke utviklingen blant unge uføre.
+- OK   6 utelatt W2140765179 «Pain in the three spinal regions: the same disorder? Data from a popul» (2012) – Studie av én somatisk diagnose eller klinisk gruppe; forklarer ikke utviklingen blant unge uføre.
+- OK   6 utelatt W2098591755 «Multiple transitions in sick leave, disability benefits, and return to» (2012) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2474400202 «Long‐term socioeconomic consequences and health care costs of childhoo» (2016) – Studie av én somatisk diagnose eller klinisk gruppe; forklarer ikke utviklingen blant unge uføre.
+- OK   6 utelatt W2914195914 «Fitness and Body Mass Index During Adolescence and Disability Later in» (2019) – Unge og ytelser, men uføreytelse for unge er ikke utfallet eller studien gjelder en snever gruppe; vurdert på tittel og sammendrag og ikke valgt i noen av de to blinde utvalgene.
+- OK   6 utelatt W2802764309 «Hearing loss and work participation: a cross-sectional study in Norway» (2018) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2062769494 «Views of Discrimination among Individuals Confronting Genetic Disease» (2010) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2743797500 «A journey without maps—Understanding the costs of caring for dependent» (2017) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2313350004 «Patient-reported impact of spondyloarthritis on work disability and wo» (2016) – Studie av én somatisk diagnose eller klinisk gruppe; forklarer ikke utviklingen blant unge uføre.
+- OK   6 utelatt W2127345131 «Sickness absence at a young age and later sickness absence, disability» (2015) – Svensk studie av sykefravær i ung alder og senere uførepensjon: risikofaktor for den enkelte, forklarer ikke utviklingen; kategori 5.
+- OK   6 utelatt W2153317574 «Are self-report of disability pension and long-term sickness absence a» (2010) – Metode-, register- eller instrumentbeskrivelse, ikke studie av unge uføre.
+- OK   6 utelatt W3025045293 «The Employment Effects of Terminating Disability Benefits» (2015) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2580560422 «Psychiatric Disorders and General Functioning in Low Birth Weight Adul» (2017) – Studie av én somatisk diagnose eller klinisk gruppe; forklarer ikke utviklingen blant unge uføre.
+- OK   6 utelatt W3025131095 «High physical work demands and working life expectancy in Denmark» (2020) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2341011605 «Effects of graded return-to-work: a propensity-score-matched analysis» (2016) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2096254649 «Popular Criteria for the Welfare Deservingness of Disability Pensioner» (2011) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2935861741 «Employment Status and Work Ability in Long-Term Young Adult Cancer Sur» (2019) – Studie av én somatisk diagnose eller klinisk gruppe; forklarer ikke utviklingen blant unge uføre.
+- OK   6 utelatt W2764325064 «Treatment decisions and employment of breast cancer patients: Results » (2017) – Studie av én somatisk diagnose eller klinisk gruppe; forklarer ikke utviklingen blant unge uføre.
+- OK   6 utelatt W1981637525 «Measuring the (income) effect of disability insurance generosity on la» (2011) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2755470426 «Prevalence and predictors of persistent pelvic girdle pain 12 years po» (2017) – Studie av én somatisk diagnose eller klinisk gruppe; forklarer ikke utviklingen blant unge uføre.
+- OK   6 utelatt W2108503522 «Work ability as prognostic risk marker of disability pension: single-i» (2014) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2902506219 «Long-term exposure to heavy physical work, disability pension due to m» (2018) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2100345591 «Re-assessing the current assessment practice of children with special » (2011) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2161584149 «Increased Risk of Long-Term Sickness Absence, Lower Rate of Return to » (2014) – Metode-, register- eller instrumentbeskrivelse, ikke studie av unge uføre.
+- OK   6 utelatt W4221062750 «The Socioeconomic Consequences of Cushing’s Syndrome: A Nationwide Coh» (2022) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2175004699 «Youth unemployment and personality traits» (2015) – Unge, men utfallet er ikke uføreytelser (helse, utdanning eller arbeid).
+- OK   6 utelatt W3161210920 «Mapping Young NEETs Across Europe: Exploring the Institutional Configu» (2021) – NEET-studie uten egne tall for uføreytelser.
+- OK   6 utelatt W2968629205 «Educational differences in duration of working life and loss of paid e» (2019) – Land utenfor Skandinavia uten design i kategori 1–3 som forklarer tilgangen blant unge (kriteriene om land).
+- OK   6 utelatt W1985115142 «Consequences of spinal pain: Do age and gender matter? A Danish cross-» (2011) – Studie av én somatisk diagnose eller klinisk gruppe; forklarer ikke utviklingen blant unge uføre.
+- OK   6 utelatt W1918781854 «Persistent opioid use and socio-economic factors: a population-based s» (2014) – Studie av én somatisk diagnose eller klinisk gruppe; forklarer ikke utviklingen blant unge uføre.
+- OK   6 utelatt W2408963727 «Muskel- og skjelettlidelser som årsak til sykefravær og uføreytelser» (2010) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W3178654302 «Internalising and externalising problems during adolescence and the su» (2021) – NEET-studie uten egne tall for uføreytelser.
+- OK   6 utelatt W2061096286 «Fatigue in adults with Marfan syndrome, occurrence and associations to» (2014) – Studie av én somatisk diagnose eller klinisk gruppe; forklarer ikke utviklingen blant unge uføre.
+- OK   6 utelatt W2083805270 «Psychosocial working conditions, occupational groups, and risk of disa» (2012) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2148026578 «Disability Benefit Receipt and Reform: Reconciling Trends in the Unite» (2015) – Land utenfor Skandinavia uten design i kategori 1–3 som forklarer tilgangen blant unge (kriteriene om land).
+- OK   6 utelatt W2125447388 «Stability and change in health behaviours as predictors for disability» (2011) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2975445012 «Labour Market Participation for Young People with Disabilities: The Im» (2019) – Unge og ytelser, men uføreytelse for unge er ikke utfallet eller studien gjelder en snever gruppe; vurdert på tittel og sammendrag og ikke valgt i noen av de to blinde utvalgene.
+- OK   6 utelatt W2132784587 «Risk factors for conversion from unipolar psychotic depression to bipo» (2013) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W1957694285 «Growing into disability benefits? Psychosocial course of life of young» (2011) – Unge og ytelser, men uføreytelse for unge er ikke utfallet eller studien gjelder en snever gruppe; vurdert på tittel og sammendrag og ikke valgt i noen av de to blinde utvalgene.
+- OK   6 utelatt W3202390784 «MultiDoc2Dial: Modeling Dialogues Grounded in Multiple Documents» (2021) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W3127818889 «The Impact of Work Engagement on Future Occupational Rankings, Wages, » (2021) – Metode-, register- eller instrumentbeskrivelse, ikke studie av unge uføre.
+- OK   6 utelatt W2110814673 «High prevalence of sickness absence and disability pension among multi» (2013) – Studie av én somatisk diagnose eller klinisk gruppe; forklarer ikke utviklingen blant unge uføre.
+- OK   6 utelatt W3204715438 «Psychiatric disorders diagnosed in adolescence and subsequent long-ter» (2021) – Psykiske lidelser i ungdommen og senere utenforskap fra utdanning og arbeid: utfallet er NEET, ikke uføreytelse.
+- OK   6 utelatt W3121503734 «Explaining the Decline in the U.S. Employment-to-Population Ratio: a R» (2018) – Land utenfor Skandinavia uten design i kategori 1–3 som forklarer tilgangen blant unge (kriteriene om land).
+- OK   6 utelatt W2744911451 «Cumulative occupational mechanical exposures during working life and r» (2017) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2037283472 «Educational Achievement and Economic Self-sufficiency in Adults After » (2013) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2134386057 «Differences in risk factors for voluntary early retirement and disabil» (2012) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2318601114 «Has the participation of older employees in the workforce increased? S» (2016) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2156730278 «Socioeconomic position and the risk of spontaneous abortion: a study w» (2012) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2620240580 «Benefits conditionality for disabled people: stylised facts from a rev» (2017) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2101393405 «The Disability Burden of COPD» (2012) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2900034912 «Living on a knife edge: the responses of people with physical health c» (2018) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W4309157737 «Association of Pharmacological Treatments and Hospitalization and Deat» (2022) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2076468662 «Employment Effects of Army Service and Veterans' Compensation: Evidenc» (2011) – Land utenfor Skandinavia uten design i kategori 1–3 som forklarer tilgangen blant unge (kriteriene om land).
+- OK   6 utelatt W3122696586 «What factors are associated with health‐related quality of life among » (2021) – Studie av én somatisk diagnose eller klinisk gruppe; forklarer ikke utviklingen blant unge uføre.
+- OK   6 utelatt W2110428361 «Sickness absence due to back pain or depressive episode and the risk o» (2015) – Studie av én somatisk diagnose eller klinisk gruppe; forklarer ikke utviklingen blant unge uføre.
+- OK   6 utelatt W2045459105 «Incidence of disability pension and associations with socio-demographi» (2012) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W3099852196 «Towards an inclusive labour market: Ambitions of the Dutch Public Empl» (2020) – Land utenfor Skandinavia uten design i kategori 1–3 som forklarer tilgangen blant unge (kriteriene om land).
+- OK   6 utelatt W2786905315 «The long-term impact of early treatment of multiple sclerosis on the r» (2018) – Studie av én somatisk diagnose eller klinisk gruppe; forklarer ikke utviklingen blant unge uføre.
+- OK   6 utelatt W2083958085 «Prediction of Sickness Absenteeism, Disability Pension and Sickness Pr» (2013) – Studie av én somatisk diagnose eller klinisk gruppe; forklarer ikke utviklingen blant unge uføre.
+- OK   6 utelatt W2142279201 «Sick leave and disability pension before and after initiation of antir» (2011) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2157128983 «Work and health among immigrants and native Swedes 1990–2008: a regist» (2012) – Metode-, register- eller instrumentbeskrivelse, ikke studie av unge uføre.
+- OK   6 utelatt W2916888189 «Work-related psychosocial risk factors and risk of disability pension » (2019) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W3123746348 «Does Delay Cause Decay? The Effect of Administrative Decision Time on » (2015) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2029638907 «How long can you keep working with benign multiple sclerosis?» (2010) – Studie av én somatisk diagnose eller klinisk gruppe; forklarer ikke utviklingen blant unge uføre.
+- OK   6 utelatt W2080119035 «Sickness Absence Due to Otoaudiological Diagnoses and Risk of Disabili» (2012) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2123931521 «Educational differences in disability pension among Swedish middle-age» (2011) – Unge og ytelser, men uføreytelse for unge er ikke utfallet eller studien gjelder en snever gruppe; vurdert på tittel og sammendrag og ikke valgt i noen av de to blinde utvalgene.
+- OK   6 utelatt W3126028820 «Estimating the effects of recent disability reforms in the Netherlands» (2012) – Land utenfor Skandinavia uten design i kategori 1–3 som forklarer tilgangen blant unge (kriteriene om land).
+- OK   6 utelatt W2339902107 «Employment and Income of People Who Experience Mental Illness and Home» (2015) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2935648307 «A Timely Problem: Parental Leave During Medical Training» (2019) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2104373372 «Sick leave in patients with ankylosing spondylitis before and after an» (2011) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W1533235657 «. Disability, Pension Reform, and Early Retirement in Germany» (2012) – Land utenfor Skandinavia uten design i kategori 1–3 som forklarer tilgangen blant unge (kriteriene om land).
+- OK   6 utelatt W2343537170 «Understanding Occupation, Sick Leave, and Disability Pension Due to Kn» (2016) – Studie av én somatisk diagnose eller klinisk gruppe; forklarer ikke utviklingen blant unge uføre.
+- OK   6 utelatt W3154822370 «Changes Over Time and Predictors of Online Gambling in Three Norwegian» (2021) – Unge og ytelser, men uføreytelse for unge er ikke utfallet eller studien gjelder en snever gruppe; vurdert på tittel og sammendrag og ikke valgt i noen av de to blinde utvalgene.
+- OK   6 utelatt W3160983805 «Socioeconomic biases in asthma control and specialist referral of poss» (2021) – Studie av én somatisk diagnose eller klinisk gruppe; forklarer ikke utviklingen blant unge uføre.
+- OK   6 utelatt W2032303420 «Vocational rehabilitation services and employment outcomes for adults » (2013) – Effektstudie av arbeidsrettet tiltak eller behandling, eget spørsmål (kriteriene).
+- OK   6 utelatt W2136854441 «Social inequalities in self-reported refraining from health care due t» (2014) – Unge og ytelser, men uføreytelse for unge er ikke utfallet eller studien gjelder en snever gruppe; vurdert på tittel og sammendrag og ikke valgt i noen av de to blinde utvalgene.
+- OK   6 utelatt W3175258806 «Beyond Health: Non-Health Risk and the Value of Disability Insurance» (2021) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2921843044 «Disability and Distress: The Effect of Disability Programs on Financia» (2021) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2119820271 «Synergistic effect between back pain and common mental disorders and t» (2015) – Studie av én somatisk diagnose eller klinisk gruppe; forklarer ikke utviklingen blant unge uføre.
+- OK   6 utelatt W2918317227 «Influence of physical and psychosocial working conditions for the risk» (2019) – Unge og ytelser, men uføreytelse for unge er ikke utfallet eller studien gjelder en snever gruppe; vurdert på tittel og sammendrag og ikke valgt i noen av de to blinde utvalgene.
+- OK   6 utelatt W1990615958 «The transition between work, sickness absence and pension in a cohort » (2013) – Studie av én somatisk diagnose eller klinisk gruppe; forklarer ikke utviklingen blant unge uføre.
+- OK   6 utelatt W2466813656 «The Danish Revolution in Local Government: How and Why?» (2010) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W4220937743 «Associations between Adolescent Psychosocial Factors and Disengagement» (2022) – Unge, men utfallet er ikke uføreytelser (helse, utdanning eller arbeid).
+- OK   6 utelatt W2030453039 «COPD in the Working Age Population: The Economic Impact on Both Patien» (2013) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W3092609707 «Interactions in Public Policies: Spousal Responses and Program Spillov» (2021) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W4386476627 «Domestic Violence Reports and the Mental Health and Well-Being of Vict» (2023) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2140498539 «Health problems account for a small part of the association between so» (2011) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2075205307 «Contemporary vocational rehabilitation in Australia» (2014) – Effektstudie av arbeidsrettet tiltak eller behandling, eget spørsmål (kriteriene).
+- OK   6 utelatt W2012769679 «Risk of disability pension for patients diagnosed with haematological » (2014) – Metode-, register- eller instrumentbeskrivelse, ikke studie av unge uføre.
+- OK   6 utelatt W2900026804 «Social inequality in working life expectancy in Sweden» (2018) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2123854456 «Costs of rheumatoid arthritis during the period 1990-2010: a register-» (2013) – Studie av én somatisk diagnose eller klinisk gruppe; forklarer ikke utviklingen blant unge uføre.
+- OK   6 utelatt W2014092698 «Sick leave and disability pension in Hodgkin lymphoma survivors by sta» (2015) – Studie av én somatisk diagnose eller klinisk gruppe; forklarer ikke utviklingen blant unge uføre.
+- OK   6 utelatt W2499854543 «Long-term physical workload in middle age and disability pension in me» (2016) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2083400047 «Do working conditions explain the increased risks of disability pensio» (2014) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2492735239 «A prospective cohort study of depression course, functional disability» (2016) – NEET-studie uten egne tall for uføreytelser.
+- OK   6 utelatt W2292356026 «Mortality in individuals with intellectual disabilities in F inland» (2016) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2056623201 «Diabetes: cost of illness in Norway» (2010) – Studie av én somatisk diagnose eller klinisk gruppe; forklarer ikke utviklingen blant unge uføre.
+- OK   6 utelatt W2912347912 «Labour market marginalisation among refugees from different countries » (2019) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W4385330844 «Socioeconomic risk factors for long‐term opioid use: A national regist» (2023) – Studie av én somatisk diagnose eller klinisk gruppe; forklarer ikke utviklingen blant unge uføre.
+- OK   6 utelatt W3205438756 «Disability Among Young Adults With Congenital Heart Defects: Congenita» (2021) – Studie av én somatisk diagnose eller klinisk gruppe; forklarer ikke utviklingen blant unge uføre.
+- OK   6 utelatt W3203809253 «Socio-Demographic Factors, Gambling Behaviour, and the Level of Gambli» (2021) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2010487904 «Disability Benefits in an Age of Austerity» (2015) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W3120187098 «Real‐world effectiveness of pharmacological treatments of alcohol use » (2021) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2039724806 «Sickness absence due to musculoskeletal diagnoses and risk of diagnosi» (2013) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W4283651129 «Short- and long-term impact of cancer on employment and financial outc» (2022) – Studie av én somatisk diagnose eller klinisk gruppe; forklarer ikke utviklingen blant unge uføre.
+- OK   6 utelatt W2403403639 «Only Making Things Worse: A Qualitative Study of the Impact of Wrongly» (2016) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2968645510 «Educational inequalities in the impact of chronic diseases on exit fro» (2019) – Land utenfor Skandinavia uten design i kategori 1–3 som forklarer tilgangen blant unge (kriteriene om land).
+- OK   6 utelatt W2140476159 «Expectations and illness perceptions as predictors of benefit recipien» (2014) – Effektstudie av arbeidsrettet tiltak eller behandling, eget spørsmål (kriteriene).
+- OK   6 utelatt W2783953693 «Retrospectively assessed psychosocial working conditions as predictors» (2018) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W3182001147 «How Digital Inclusion Increase Opportunities for Young People: Case of» (2021) – NEET-studie uten egne tall for uføreytelser.
+- OK   6 utelatt W97399063 «Association of Socio-Demographic Factors, Sick-Leave and Health Care P» (2014) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2410640487 «The impact on health of employment and welfare transitions for those r» (2016) – Land utenfor Skandinavia uten design i kategori 1–3 som forklarer tilgangen blant unge (kriteriene om land).
+- OK   6 utelatt W2125279885 «Active social insurance» (2012) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2043377753 «Disability pension due to musculoskeletal diagnoses: importance of wor» (2013) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W4389042398 «Access and barriers to supports for children and caregivers attending » (2023) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W3125812231 «Can't Work or Won't Work: Quasi-Experimental Evidence on Work Search R» (2016) – Unge og ytelser, men uføreytelse for unge er ikke utfallet eller studien gjelder en snever gruppe; vurdert på tittel og sammendrag og ikke valgt i noen av de to blinde utvalgene.
+- OK   6 utelatt W3085218427 «Disabled but not deserving? The perceived deservingness of disability » (2021) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2078599575 «Beyond NEET: Precariousness, Ideology and Social Justice – the 99%» (2014) – NEET-studie uten egne tall for uføreytelser.
+- OK   6 utelatt W2890034555 «Labour market participation among young refugees in Sweden and the pot» (2018) – Unge, men utfallet er ikke uføreytelser (helse, utdanning eller arbeid).
+- OK   6 utelatt W4361218856 «Disability Insurance Income Saves Lives» (2023) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W4379599419 «Comparative Effectiveness of Pharmacotherapies for the Risk of Attempt» (2023) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W4403245543 «Comparative Effectiveness of Antipsychotics in Patients With Schizophr» (2024) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2262909050 «Protecting working-age people with disabilities: experiences of four i» (2016) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W4313652621 «Being poor and being NEET in Europe: Are these two sides of the same c» (2023) – NEET-studie uten egne tall for uføreytelser.
+- OK   6 utelatt W71808356 «Disability Benefits, Welfare Reform and Employment Policy» (2013) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2045065999 «Diagnosis-specific disability pension predicts suicidal behaviour and » (2013) – Unge og ytelser, men uføreytelse for unge er ikke utfallet eller studien gjelder en snever gruppe; vurdert på tittel og sammendrag og ikke valgt i noen av de to blinde utvalgene.
+- OK   6 utelatt W2109087119 «The impact of ADHD symptoms and global impairment in childhood on work» (2012) – ADHD i barndommen og arbeidsuførhet i midten av voksenlivet: utfallet gjelder ikke unge.
+- OK   6 utelatt W4292373143 «Annual incidence of substance-induced psychoses in Scandinavia from 20» (2022) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2743034616 «Childhood adversity, adult socioeconomic status and risk of work disab» (2017) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W4214724052 «Changes in the societal burden caused by sleep apnoea in Finland from » (2022) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2799457883 «Toward a Resident Personal Finance Curriculum: Quantifying Resident Fi» (2018) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2116481194 «Increasing health inequalities between women in and out of work - the » (2014) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W1544001688 «The Impact of Disability Benefits on Labor Supply: Evidence from the V» (2015) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W4318263998 «Relationships between headache frequency, disability, and disability-r» (2023) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W3199620450 «The impact of the transition to Personal Independence Payment on claim» (2021) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2783378328 «Deaf people and economic well-being: findings from the Life Opportunit» (2018) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W3178558969 «Cognitive function is an important determinant of employment amongst y» (2021) – Studie av én somatisk diagnose eller klinisk gruppe; forklarer ikke utviklingen blant unge uføre.
+- OK   6 utelatt W2142063648 «Can the National Disability Insurance Scheme work for mental health?» (2014) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2978335884 «Economic burden of respiratory diseases and chronic obstructive pulmon» (2019) – Land utenfor Skandinavia uten design i kategori 1–3 som forklarer tilgangen blant unge (kriteriene om land).
+- OK   6 utelatt W2804314399 «Trends and Disparities in Leave Use under California's Paid Family Lea» (2018) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2303562764 «A 6‐year Follow‐up survey of health status in middle‐aged women with T» (2016) – Studie av én somatisk diagnose eller klinisk gruppe; forklarer ikke utviklingen blant unge uføre.
+- OK   6 utelatt W2789763639 «Characteristics of individuals receiving disability benefits in the Ne» (2018) – Land utenfor Skandinavia uten design i kategori 1–3 som forklarer tilgangen blant unge (kriteriene om land).
+- OK   6 utelatt W2137935798 «Fit for work? Health, employability and challenges for the UK welfare » (2010) – Land utenfor Skandinavia uten design i kategori 1–3 som forklarer tilgangen blant unge (kriteriene om land).
+- OK   6 utelatt W2117207593 «Unemployment and disability pension-an 18-year follow-up study of a 40» (2012) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W3087292886 «Socioeconomic factors in disability retirement due to mental disorders» (2020) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2803788015 «Irritable bowel symptoms, use of healthcare, costs, sickness and disab» (2018) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2486904816 «Organizational justice and disability pension from all-causes, depress» (2016) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W1800423439 «Do the bullies survive? A five-year, three-wave prospective study of i» (2015) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2088433517 «Aspects of functioning and environmental factors in medical work capac» (2012) – Studie av én somatisk diagnose eller klinisk gruppe; forklarer ikke utviklingen blant unge uføre.
+- OK   6 utelatt W2143342298 «SOCIAL SECURITY DISABILITY INSURANCE: ESSENTIAL PROTECTION WHEN WORK I» (2012) – Land utenfor Skandinavia uten design i kategori 1–3 som forklarer tilgangen blant unge (kriteriene om land).
+- OK   6 utelatt W3166042116 «Organisations adapting to dual aspirations of individualisation and co» (2021) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W1991926335 «Social partners and the welfare state: Recalibration, privatization or» (2011) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2908661828 «The contribution of health to educational inequalities in exit from pa» (2019) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W4289315331 «Socioeconomic factors and use of psychotherapy in common mental disord» (2022) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W1823227986 «Temporary Disability and Economic Incentives» (2015) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2734564325 «Occupational and leisure-time physical activity and risk of disability» (2017) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W3186701363 «Variation of the Polyphenolic Composition and Antioxidant Capacity of » (2021) – Utenfor temaet: verken unge eller uføreytelser (sentral kandidat fra referansene, for eksempel generell metode eller helse).
+- OK   6 utelatt W4392059283 «The socioeconomic consequences of loneliness: Evidence from a national» (2024) – Unge, men utfallet er ikke uføreytelser (helse, utdanning eller arbeid).
+- OK   6 utelatt W2969640358 «A Multidimensional Assessment of Successful Aging Among Older People L» (2019) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W1893565038 «WORK, INCOME SUPPORT, AND CRIME IN THE DUTCH WELFARE STATE: A LONGITUD» (2015) – Land utenfor Skandinavia uten design i kategori 1–3 som forklarer tilgangen blant unge (kriteriene om land).
+- OK   6 utelatt W2052426285 «Diagnosis-specific disability pension and risk of all-cause and cause-» (2014) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W4402018476 «Prevalence of treatment-resistant schizophrenia among people with earl» (2024) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2612851645 «Costs of illness of multiple sclerosis in Sweden: a population-based r» (2017) – Studie av én somatisk diagnose eller klinisk gruppe; forklarer ikke utviklingen blant unge uføre.
+- OK   6 utelatt W1851219012 «Vocational rehabilitation services and outcomes for transition-age you» (2015) – Effektstudie av arbeidsrettet tiltak eller behandling, eget spørsmål (kriteriene).
+- OK   6 utelatt W2979111000 «Motivation for Employment in Norwegian Adults with Mild Intellectual D» (2019) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W3133266325 «Long-term Socioeconomic Outcomes Associated With Pediatric-Onset Multi» (2021) – Studie av én somatisk diagnose eller klinisk gruppe; forklarer ikke utviklingen blant unge uføre.
+- OK   6 utelatt W3006067148 «Summer‐born struggle: The effect of school starting age on health, edu» (2018) – Skolestartalder og helse, utdanning og arbeid: ikke egne tall for uføreytelser blant unge.
+- OK   6 utelatt W4375859192 «Beyond direct costs: individual and societal financial burden of asthm» (2023) – Studie av én somatisk diagnose eller klinisk gruppe; forklarer ikke utviklingen blant unge uføre.
+- OK   6 utelatt W2994405810 «The importance of clinical and labour market histories in psychiatric » (2019) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2569831924 «Severe obesity, emotions and eating habits: a case-control study» (2017) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W1797793633 «Supported Employment for the Reintegration of Disability Pensioners wi» (2015) – Effektstudie av arbeidsrettet tiltak eller behandling, eget spørsmål (kriteriene).
+- OK   6 utelatt W2884107310 «The impact of depressive symptoms on exit from paid employment in Euro» (2018) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W3155031460 «Disability pensions related to heavy physical workload: a cohort study» (2021) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W4281262207 «Social determinants of tuberculosis: a nationwide case–control study, » (2022) – Studie av én somatisk diagnose eller klinisk gruppe; forklarer ikke utviklingen blant unge uføre.
+- OK   6 utelatt W3037661923 «Regime Change: Education to Work Transitions in England, 1980s–2020s» (2020) – Land utenfor Skandinavia uten design i kategori 1–3 som forklarer tilgangen blant unge (kriteriene om land).
+- OK   6 utelatt W2142057305 «Health-related quality of life, anxiety and depression in young adults» (2013) – Unge og ytelser, men uføreytelse for unge er ikke utfallet eller studien gjelder en snever gruppe; vurdert på tittel og sammendrag og ikke valgt i noen av de to blinde utvalgene.
+- OK   6 utelatt W2973840448 «Long-term outcomes of multimodal rehabilitation in primary care for pa» (2020) – Studie av én somatisk diagnose eller klinisk gruppe; forklarer ikke utviklingen blant unge uføre.
+- OK   6 utelatt W2885735031 «Biopsychosocial predictors and trajectories of work participation afte» (2018) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2155856698 «Peripheral labour market position and risk of disability pension: a pr» (2014) – Unge og ytelser, men uføreytelse for unge er ikke utfallet eller studien gjelder en snever gruppe; vurdert på tittel og sammendrag og ikke valgt i noen av de to blinde utvalgene.
+- OK   6 utelatt W2732893248 «The effect of disability pension incentives on early retirement decisi» (2012) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2123466490 «Employment status in persons with and without HIV infection in Denmark» (2014) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2159632075 «Partial sick leave associated with disability pension: propensity scor» (2012) – Metode-, register- eller instrumentbeskrivelse, ikke studie av unge uføre.
+- OK   6 utelatt W2057190124 «Investigating theOutcomePerformance of Work-Integration Social Enterpr» (2013) – NEET-studie uten egne tall for uføreytelser.
+- OK   6 utelatt W4391884769 «School absences, academic achievement, and adolescents’ post-school de» (2024) – Unge, men utfallet er ikke uføreytelser (helse, utdanning eller arbeid).
+- OK   6 utelatt W2157356967 «Single and additive effects of health behaviours on the risk for disab» (2013) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W3178559308 «Financial toxicity in sarcoma patients and survivors in Germany: resul» (2021) – Land utenfor Skandinavia uten design i kategori 1–3 som forklarer tilgangen blant unge (kriteriene om land).
+- OK   6 utelatt W3196856949 «Musculoskeletal pain intensity in different body regions and risk of d» (2021) – Studie av én somatisk diagnose eller klinisk gruppe; forklarer ikke utviklingen blant unge uføre.
+- OK   6 utelatt W2115109947 «Earnings, Disposable Income, and Consumption of Allowed and Rejected D» (2015) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2101880720 «Women’s higher likelihood of disability pension: the role of health, f» (2012) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2617786045 «Potential moderators of day-to-day variability in children’s physical » (2017) – Utenfor temaet: verken unge eller uføreytelser (sentral kandidat fra referansene, for eksempel generell metode eller helse).
+- OK   6 utelatt W2981344206 «How to Measure Retirement Age? A Comparison of Survey and Register Dat» (2019) – Metode-, register- eller instrumentbeskrivelse, ikke studie av unge uføre.
+- OK   6 utelatt W2338874422 «Low-back Pain Disorders as Occupational Diseases in the Czech Republic» (2015) – Studie av én somatisk diagnose eller klinisk gruppe; forklarer ikke utviklingen blant unge uføre.
+- OK   6 utelatt W2127166484 «Activities and sources of income after a period of long-term sick leav» (2012) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2276500875 «Disability and employment across Central and Eastern European Countrie» (2016) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2884402821 «Financial Incentives and Earnings of Disability Insurance Recipients: » (2019) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2013332899 «Municipal unemployment and municipal typologies as predictors of disab» (2013) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2890257284 «Population-based analysis of the impact of trauma on longer-term funct» (2018) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W4391469231 «Health inequities and societal costs for patients with fibromyalgia an» (2024) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2181126835 «Sick-listed persons’ experiences with taking part in an in-patient occ» (2015) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W3027786161 «Disability Insurance: Theoretical Trade‐Offs and Empirical Evidence*» (2020) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2905373791 «Wage subsidies targeted to jobseekers with disabilities: subsequent em» (2018) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2107204274 «Social Integration, Socioeconomic Conditions and Type of Ill Health Pr» (2013) – Unge og ytelser, men uføreytelse for unge er ikke utfallet eller studien gjelder en snever gruppe; vurdert på tittel og sammendrag og ikke valgt i noen av de to blinde utvalgene.
+- OK   6 utelatt W4281998915 «Fatigue in multiple sclerosis is associated with socioeconomic factors» (2022) – Studie av én somatisk diagnose eller klinisk gruppe; forklarer ikke utviklingen blant unge uføre.
+- OK   6 utelatt W4410517768 «Economic Impact of Allergic Diseases and Asthma—The HEAD Pan‐European » (2025) – Studie av én somatisk diagnose eller klinisk gruppe; forklarer ikke utviklingen blant unge uføre.
+- OK   6 utelatt W1969140418 «Protocol for the effect evaluation of Individual Placement and Support» (2014) – Effektstudie av arbeidsrettet tiltak eller behandling, eget spørsmål (kriteriene).
+- OK   6 utelatt W2068839152 «Termination of sickness benefits or transition to disability pension a» (2012) – Metode-, register- eller instrumentbeskrivelse, ikke studie av unge uføre.
+- OK   6 utelatt W4401791160 «Trajectories of NEET in individuals formerly placed in out‐of‐home car» (2024) – NEET-studie uten egne tall for uføreytelser.
+- OK   6 utelatt W3113050910 «The long shadow of childhood cancer: a qualitative study on insurance » (2021) – Studie av én somatisk diagnose eller klinisk gruppe; forklarer ikke utviklingen blant unge uføre.
+- OK   6 utelatt W3198683051 «Risk of a permanent work-related disability pension after incident ven» (2021) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2962388808 «Presenteeism as a predictor of disability pension: A prospective study» (2019) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2329723696 «Disability Pension Among Swedish Twins—Prevalence Over 16 Years and As» (2011) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W3135769237 «Morning fatigue and structured exercise interact to affect non-exercis» (2021) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W3187598586 «The timing and duration of depressive symptoms from adolescence to you» (2021) – NEET-studie uten egne tall for uføreytelser.
+- OK   6 utelatt W2474940902 «Posthumously Assessing a Homeless Population: Services Use and Charact» (2016) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2897553333 «Physical inactivity: productivity losses and healthcare costs 2002 and» (2018) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W3133918676 «Process of Work Disability: From Determinants of Sickness Absence Traj» (2021) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2474370062 «Educational attainment, labour market position and mental ill health a» (2016) – Valgt i det blinde utvalget, men ikke tatt inn: finsk registerkohort om belastninger i ungdommen og uførepensjon som ung voksen; kategori 5 i Finland, og driverne (utdanning, psykisk helse) er dekket av norske og svenske studier.
+- OK   6 utelatt W1580303516 «Animal-Assisted Interventions; Effects on Human Mental Health - A Theo» (2011) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W4403206201 «The Impact of Long COVID on Employment and Well-Being: A Qualitative S» (2024) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2129944506 «The effect of vocational rehabilitation on the employment outcomes of » (2014) – Effektstudie av arbeidsrettet tiltak eller behandling, eget spørsmål (kriteriene).
+- OK   6 utelatt W2135274963 «How do people with disabilities cope while waiting for disability insu» (2014) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W3097509643 «Children and labor market outcomes: separating the effects of the firs» (2020) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W4401613087 «Functional neurological disorder in Europe: regional differences in ed» (2024) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2780661872 «Working environment and work retention» (2017) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2604331653 «Influence of obesity and physical workload on disability benefits amon» (2017) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2524118852 «Social Security Reform and the Surveillance State: Exploring the Opera» (2016) – Land utenfor Skandinavia uten design i kategori 1–3 som forklarer tilgangen blant unge (kriteriene om land).
+- OK   6 utelatt W2765748722 «The organisational performance of national disability sport organisati» (2017) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W1954699132 «Intelligence and Disability Pension in Swedish Men and Women Followed » (2015) – Unge og ytelser, men uføreytelse for unge er ikke utfallet eller studien gjelder en snever gruppe; vurdert på tittel og sammendrag og ikke valgt i noen av de to blinde utvalgene.
+- OK   6 utelatt W1988642142 «Physical health-related quality of life predicts disability pension du» (2014) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2266462193 «Projections of Demand for and Costs of Social Care for Older People in» (2011) – Land utenfor Skandinavia uten design i kategori 1–3 som forklarer tilgangen blant unge (kriteriene om land).
+- OK   6 utelatt W2105954345 «Do Self‐insurance and Disability Insurance Prevent Consumption Loss on» (2014) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2605522747 «‘Working is out of the question’: a qualitative text analysis of medic» (2017) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W3047900439 «NEETs in Latin America and the Caribbean: Skills, Aspirations, and Inf» (2020) – NEET-studie uten egne tall for uføreytelser.
+- OK   6 utelatt W4317514617 «Young-Adult Social Outcomes of Attention-Deficit/Hyperactivity Disorde» (2023) – Unge og ytelser, men uføreytelse for unge er ikke utfallet eller studien gjelder en snever gruppe; vurdert på tittel og sammendrag og ikke valgt i noen av de to blinde utvalgene.
+- OK   6 utelatt W1598693892 «Effects of Companies’ Initiatives to Reduce Early Retirement Among Old» (2012) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W4313524405 «Labour market participation and retirement after stroke in Denmark: re» (2023) – Studie av én somatisk diagnose eller klinisk gruppe; forklarer ikke utviklingen blant unge uføre.
+- OK   6 utelatt W2790018581 «Working while on a disability pension in Finland: Association of diagn» (2018) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2114316487 «Trends of Diagnosis-Specific Work Disability After Newly Diagnosed Dia» (2015) – Studie av én somatisk diagnose eller klinisk gruppe; forklarer ikke utviklingen blant unge uføre.
+- OK   6 utelatt W2128969319 «The assessment of efforts to return to work in the European Union» (2010) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W4281753501 «Time to first treatment and risk of disability pension in relapsing-re» (2022) – Studie av én somatisk diagnose eller klinisk gruppe; forklarer ikke utviklingen blant unge uføre.
+- OK   6 utelatt W2938537678 «Frequent attenders at risk of disability pension: a longitudinal study» (2019) – Metode-, register- eller instrumentbeskrivelse, ikke studie av unge uføre.
+- OK   6 utelatt W2893959765 «How disability insurance reforms change the consequences of health sho» (2018) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2792748355 «Employment benefits and job retention: evidence among patients with co» (2018) – Studie av én somatisk diagnose eller klinisk gruppe; forklarer ikke utviklingen blant unge uføre.
+- OK   6 utelatt W3014041030 «Disentangling the dynamics of social assistance: A linked survey—Regis» (2020) – Metode-, register- eller instrumentbeskrivelse, ikke studie av unge uføre.
+- OK   6 utelatt W2298289288 «Medical and Social Determinants of Subsequent Labour Market Marginaliz» (2016) – Unge og ytelser, men uføreytelse for unge er ikke utfallet eller studien gjelder en snever gruppe; vurdert på tittel og sammendrag og ikke valgt i noen av de to blinde utvalgene.
+- OK   6 utelatt W2040919816 «Cognitive Ability in Late Adolescence and Disability Pension in Middle» (2013) – Unge og ytelser, men uføreytelse for unge er ikke utfallet eller studien gjelder en snever gruppe; vurdert på tittel og sammendrag og ikke valgt i noen av de to blinde utvalgene.
+- OK   6 utelatt W2758072809 «Permanent work disability before and after ischaemic heart disease or » (2017) – Studie av én somatisk diagnose eller klinisk gruppe; forklarer ikke utviklingen blant unge uføre.
+- OK   6 utelatt W4280587315 «Educational qualification differences and early labor market exit amon» (2022) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W4386437941 «Health and Labour Market Effects of An Abrupt and Unanticipated Rise i» (2022) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W4318478160 «Labour market participation after spinal cord injury. A register-based» (2023) – Studie av én somatisk diagnose eller klinisk gruppe; forklarer ikke utviklingen blant unge uføre.
+- OK   6 utelatt W4288719177 «Long-term scarring from institutional labelling: The risk of NEET of s» (2022) – Land utenfor Skandinavia uten design i kategori 1–3 som forklarer tilgangen blant unge (kriteriene om land).
+- OK   6 utelatt W4365516701 «More than words: Speech production in first-episode psychosis predicts» (2023) – Unge, men utfallet er ikke uføreytelser (helse, utdanning eller arbeid).
+- OK   6 utelatt W3034211697 «The diversity of transitions during early adulthood in the Finnish lab» (2020) – Unge, men utfallet er ikke uføreytelser (helse, utdanning eller arbeid).
+- OK   6 utelatt W4318245041 «Perceived stress in adolescence and labour market participation in you» (2023) – Unge og ytelser, men uføreytelse for unge er ikke utfallet eller studien gjelder en snever gruppe; vurdert på tittel og sammendrag og ikke valgt i noen av de to blinde utvalgene.
+- OK   6 utelatt W4391053389 «A life course perspective on the NEET phenomenon: long-term exclusion » (2024) – NEET-studie uten egne tall for uføreytelser.
+- OK   6 utelatt W3128265002 «Is Supported Employment Effective for Young Adults with Disability Pen» (2021) – Effekt av tilrettelagt arbeid (IPS) for unge uføre: effektstudie av tiltak, eget spørsmål (kriteriene).
+- OK   6 utelatt W3120655179 «Predictors of working days lost due to sickness absence and disability» (2021) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W4406281264 «Association between endometriosis and working life among Danish women» (2024) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W4410250192 «Indirect costs constitute a major part of the total economic burden of» (2025) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W4229371253 «Sick leave and disability pension in a cohort of TMD-patients – The Sw» (2022) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W4389132350 «Public Employment Services and Vulnerable Youth in the EU: The Case of» (2023) – NEET-studie uten egne tall for uføreytelser.
+- OK   6 utelatt W2964039782 «Supporting people with cognitive disabilities in contact with the crim» (2019) – Unge og ytelser, men uføreytelse for unge er ikke utfallet eller studien gjelder en snever gruppe; vurdert på tittel og sammendrag og ikke valgt i noen av de to blinde utvalgene.
+- OK   6 utelatt W2903251903 «Do Differences in Work Disability Duration Between Men and Women Vary » (2018) – Land utenfor Skandinavia uten design i kategori 1–3 som forklarer tilgangen blant unge (kriteriene om land).
+- OK   6 utelatt W2604385736 «Preventing unemployment and disability benefit receipt among people wi» (2017) – Unge og ytelser, men uføreytelse for unge er ikke utfallet eller studien gjelder en snever gruppe; vurdert på tittel og sammendrag og ikke valgt i noen av de to blinde utvalgene.
+- OK   6 utelatt W2779941005 «Educational differences in years of working life lost due to disabilit» (2017) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W3000404399 «Risk of being granted disability pension among incident cancer patient» (2020) – Studie av én somatisk diagnose eller klinisk gruppe; forklarer ikke utviklingen blant unge uføre.
+- OK   6 utelatt W3171121647 «Dance movement therapy for depressed clients: Profiles of the level an» (2021) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W3047304780 «The influence of unhealthy behaviours on early exit from paid employme» (2020) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2616511777 «Push and Pull: Disability Insurance, Regional Labor Markets, and Benef» (2019) – Land utenfor Skandinavia uten design i kategori 1–3 som forklarer tilgangen blant unge (kriteriene om land).
+- OK   6 utelatt W2035699880 «State vocational rehabilitation programs and federal disability insura» (2014) – Effektstudie av arbeidsrettet tiltak eller behandling, eget spørsmål (kriteriene).
+- OK   6 utelatt W1753241401 «Health-selection mechanisms in the pathway towards a disability pensio» (2010) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W4283219341 «Childhood-onset retinal dystrophies reduces life-time income by one th» (2022) – Studie av én somatisk diagnose eller klinisk gruppe; forklarer ikke utviklingen blant unge uføre.
+- OK   6 utelatt W4295669434 «Cross‐sectoral frontline delivery of welfare‐to‐work services for youn» (2022) – Unge og ytelser, men uføreytelse for unge er ikke utfallet eller studien gjelder en snever gruppe; vurdert på tittel og sammendrag og ikke valgt i noen av de to blinde utvalgene.
+- OK   6 utelatt W4283760243 «Faktor-Faktor Penyumbang Neet di Provinsi Jawa Barat» (2022) – Land utenfor Skandinavia uten design i kategori 1–3 som forklarer tilgangen blant unge (kriteriene om land).
+- OK   6 utelatt W2158084039 «Work-ability assessment in young adults with disabilities applying for» (2012) – Vurdering av arbeidsevne hos unge som søker uføreytelse (Nederland): saksbehandlingsstudie uten tall for utviklingen.
+- OK   6 utelatt W2152050499 «Cumulative Expenditures under the DI , SSI , Medicare, and Medicaid Pr» (2014) – Land utenfor Skandinavia uten design i kategori 1–3 som forklarer tilgangen blant unge (kriteriene om land).
+- OK   6 utelatt W4379768045 «Associations of Internalizing and Externalizing Problems in Childhood » (2023) – Unge og ytelser, men uføreytelse for unge er ikke utfallet eller studien gjelder en snever gruppe; vurdert på tittel og sammendrag og ikke valgt i noen av de to blinde utvalgene.
+- OK   6 utelatt W4214760378 «The Individual Placement and Support (IPS) in Pain Trial: A Randomized» (2022) – Effektstudie av arbeidsrettet tiltak eller behandling, eget spørsmål (kriteriene).
+- OK   6 utelatt W4404215166 «The impact of pension reform on employment, retirement, and disability» (2024) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W4298133362 «Labour market institutions and long term adjustments to health shocks:» (2022) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W4382502477 «Economic burden of osteoarthritis – multi-country estimates of direct » (2023) – Studie av én somatisk diagnose eller klinisk gruppe; forklarer ikke utviklingen blant unge uføre.
+- OK   6 utelatt W2109556173 «Long term earnings and disability program participation outcomes of th» (2015) – Unge og ytelser, men uføreytelse for unge er ikke utfallet eller studien gjelder en snever gruppe; vurdert på tittel og sammendrag og ikke valgt i noen av de to blinde utvalgene.
+- OK   6 utelatt W2997272912 «A Life Course Study of Genetic and Environmental Influences on Work In» (2019) – Unge og ytelser, men uføreytelse for unge er ikke utfallet eller studien gjelder en snever gruppe; vurdert på tittel og sammendrag og ikke valgt i noen av de to blinde utvalgene.
+- OK   6 utelatt W2151050729 «. Disability, Health, and Retirement in the United Kingdom» (2012) – Land utenfor Skandinavia uten design i kategori 1–3 som forklarer tilgangen blant unge (kriteriene om land).
+- OK   6 utelatt W1501796041 «Predicting disability pension – depression as hazard: a 10 year popula» (2015) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W4376132159 «Sick leave and disability pension among TMD patients with musculoskele» (2023) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2125793845 «A population based validation study of self-reported pensions and bene» (2013) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2164287397 «The economic burden of musculoskeletal disorders on the Italian social» (2015) – Land utenfor Skandinavia uten design i kategori 1–3 som forklarer tilgangen blant unge (kriteriene om land).
+- OK   6 utelatt W3015383855 «Health and Employment amongst Older Workers*» (2020) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2088570107 «Part-time Work or Social Benefits as Predictors for Disability Pension» (2013) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2054990975 «Disability, sickness, and unemployment benefits among long-term sickne» (2011) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W3124982435 «Mortality Effects of Containing Moral Hazard: Evidence from Disability» (2017) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W4389124432 «The effect of disability insurance receipt on mortality» (2023) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W3121727063 «. Disability in Belgium There Is More Than Meets the Eye» (2012) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2617595943 «The association between rurality and return to work for workers’ compe» (2017) – Studie av én somatisk diagnose eller klinisk gruppe; forklarer ikke utviklingen blant unge uføre.
+- OK   6 utelatt W1733035043 «Clustering of adversity in young adults on disability pension due to m» (2015) – Svensk latent klasse-analyse av unge på uførepensjon for psykiske lidelser: beskriver belastninger, men ikke utviklingen eller drivere for tilgangen; kategori 5 og dekket av svenske registerstudier som er valgt.
+- OK   6 utelatt W2559846193 «Privatizing sick pay: Does it work?» (2016) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2900956191 «Genetics, Insurance and Professional Practice: Survey of the Australas» (2018) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W4394797397 «Participation experiences of young people with cerebral palsy in key l» (2024) – Studie av én somatisk diagnose eller klinisk gruppe; forklarer ikke utviklingen blant unge uføre.
+- OK   6 utelatt W4401349945 «Realistic Reintegration After Imprisonment. A Sequence Analysis of the» (2024) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W3121167081 «. Disability Programs, Health, and Retirement in Denmark since 1960» (2012) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W3123409753 «Self-Reported Disability and Reference Groups» (2012) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W3122668328 «Disability benefit microsimulation models in the Netherlands» (2012) – Land utenfor Skandinavia uten design i kategori 1–3 som forklarer tilgangen blant unge (kriteriene om land).
+- OK   6 utelatt W4400738758 «Inequalities in disability» (2024) – Unge og ytelser, men uføreytelse for unge er ikke utfallet eller studien gjelder en snever gruppe; vurdert på tittel og sammendrag og ikke valgt i noen av de to blinde utvalgene.
+- OK   6 utelatt W2993292510 «The impact of disability on partnership formation in Sweden during 199» (2019) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2099774114 «The effect of IPS-modified, an early intervention for people with mood» (2013) – Effektstudie av arbeidsrettet tiltak eller behandling, eget spørsmål (kriteriene).
+- OK   6 utelatt W651362667 «Evaluation of Workplace Disability» (2012) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2119151657 «Reconciling findings on the employment effect of disability insurance» (2014) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W4309883518 «Work Opportunities and Workplace Characteristics for Employees with In» (2022) – Unge og ytelser, men uføreytelse for unge er ikke utfallet eller studien gjelder en snever gruppe; vurdert på tittel og sammendrag og ikke valgt i noen av de to blinde utvalgene.
+- OK   6 utelatt W1970150985 «Risky Professions? Risk of Disability in Professions in Norway» (2013) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2288752650 «Contribution of comorbid conditions to the association between diabete» (2016) – Studie av én somatisk diagnose eller klinisk gruppe; forklarer ikke utviklingen blant unge uføre.
+- OK   6 utelatt W4392558137 «Effectiveness, cost-effectiveness and return on investment of individu» (2024) – Effektstudie av arbeidsrettet tiltak eller behandling, eget spørsmål (kriteriene).
+- OK   6 utelatt W2078935846 «Stepping outside normative neoliberal discourse: youth and disability » (2012) – Unge og ytelser, men uføreytelse for unge er ikke utfallet eller studien gjelder en snever gruppe; vurdert på tittel og sammendrag og ikke valgt i noen av de to blinde utvalgene.
+- OK   6 utelatt W2888101603 «Predictors of employment in young adults with psychiatric work disabil» (2018) – Prediktorer for arbeid blant unge med psykisk arbeidsuførhet: utfallet er arbeid etter uførhet, ikke tilgangen til uføreytelser.
+- OK   6 utelatt W2555467265 «Disability pension due to common mental disorders and healthcare use b» (2016) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2462826186 «Protocol for the SEED-trial: Supported Employment and preventing Early» (2016) – Protokoll for SEED-forsøket: tiltak, ingen resultater.
+- OK   6 utelatt W2121599529 «Independent Review Of Social And Population Variation In Mental Health» (2013) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2098152528 «Would you train me with my mental illness? Evidence from a discrete ch» (2013) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W4399383726 «The experiences of families of children with cerebral palsy and comple» (2024) – Studie av én somatisk diagnose eller klinisk gruppe; forklarer ikke utviklingen blant unge uføre.
+- OK   6 utelatt W3121868343 «Disability Benefit Growth and Disability Reform in the U.S.: Lessons f» (2013) – Land utenfor Skandinavia uten design i kategori 1–3 som forklarer tilgangen blant unge (kriteriene om land).
+- OK   6 utelatt W4287746059 «Designing Disability Insurance Reforms: Tightening Eligibility Rules o» (2024) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W3207274876 «Activation, Non-Take-Up, and the Sense of Entitlement: A Swiss Case St» (2021) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W4226215014 «Labour market integration of FRY refugees in Sweden vs. Denmark» (2022) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W4391660215 «NEETs in European rural areas» (2024) – NEET-studie uten egne tall for uføreytelser.
+- OK   6 utelatt W3010776524 «Paradoxes of Universalism: The Case of the Swiss Disability Insurance» (2020) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W7165917391 «Work disability after motherhood: How paternity leave can help» (2026) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2109286524 «The relationship between timely delivery of vocational rehabilitation » (2014) – Effektstudie av arbeidsrettet tiltak eller behandling, eget spørsmål (kriteriene).
+- OK   6 utelatt W4411010037 «Prevalence and risk factors for seclusion and restraint: results of a » (2025) – Unge og ytelser, men uføreytelse for unge er ikke utfallet eller studien gjelder en snever gruppe; vurdert på tittel og sammendrag og ikke valgt i noen av de to blinde utvalgene.
+- OK   6 utelatt W2792808665 «Trajectories of antidepressant medication use in individuals before an» (2018) – Metode-, register- eller instrumentbeskrivelse, ikke studie av unge uføre.
+- OK   6 utelatt W7127353818 «A nationally representative survey of the impact of discrimination tow» (2026) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W3114649129 «Do disability benefits hinder work resumption after recovery?» (2022) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W4392186979 «Climacteric status at age 46 is associated with poorer work ability, l» (2024) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2165535497 «Disability Pensions and Active Labor Market Policy» (2013) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2145615961 «Disability and Social Security Reforms The French Case» (2012) – Land utenfor Skandinavia uten design i kategori 1–3 som forklarer tilgangen blant unge (kriteriene om land).
+- OK   6 utelatt W3217402889 «Ambivalence in activation encounters» (2021) – Unge og ytelser, men uføreytelse for unge er ikke utfallet eller studien gjelder en snever gruppe; vurdert på tittel og sammendrag og ikke valgt i noen av de to blinde utvalgene.
+- OK   6 utelatt W4393296731 «Une expérience de soutien à l’emploi pour les personnes souffrant de t» (2014) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2477646479 «Health, Disability Insurance and Labor Force Exit of Older Workers in » (2015) – Land utenfor Skandinavia uten design i kategori 1–3 som forklarer tilgangen blant unge (kriteriene om land).
+- OK   6 utelatt W2909362290 «The ‘compliant’, the ‘pacified’ and the ‘rebel’: experiences with Swis» (2019) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W3201140156 «Joint effects of educational attainment, type 2 diabetes and coexistin» (2021) – Studie av én somatisk diagnose eller klinisk gruppe; forklarer ikke utviklingen blant unge uføre.
+- OK   6 utelatt W4390697352 «The societal impact of individual placement and support implementation» (2024) – Effektstudie av arbeidsrettet tiltak eller behandling, eget spørsmål (kriteriene).
+- OK   6 utelatt W2331683073 «Prevalence of All-Cause and Diagnosis-Specific Disability Pension at t» (2015) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2902817267 «Early Determinants of Work Disability in an International Perspective» (2020) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W4392345841 «Modifiable prognostic factors of high societal costs among people on s» (2024) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W4390793625 «Compensatory behavior of physical activity in adolescents – a qualitat» (2024) – Unge, men utfallet er ikke uføreytelser (helse, utdanning eller arbeid).
+- OK   6 utelatt W4399231477 «Depressive symptoms in adolescence and adult educational and employmen» (2024) – Unge, men utfallet er ikke uføreytelser (helse, utdanning eller arbeid).
+- OK   6 utelatt W4396597743 «Making vulnerable groups able to connect socially and digitally—opport» (2024) – Unge, men utfallet er ikke uføreytelser (helse, utdanning eller arbeid).
+- OK   6 utelatt W4299353725 «Early Retirement and Employment of the Young in the Netherlands» (2010) – Land utenfor Skandinavia uten design i kategori 1–3 som forklarer tilgangen blant unge (kriteriene om land).
+- OK   6 utelatt W2597334215 «Determinants of disability pensions in Croatia: the role of institutio» (2017) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W4414493237 «Occupational risk factors for surgically treated lumbar disc herniatio» (2025) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W4409775880 «Catchment area characteristics do not account for geographical variati» (2025) – Geografisk variasjon i ADHD-diagnoser: utfallet er diagnose, ikke ytelse; diagnostisering er dekket av rapporten fra Oslo Economics og Frischsenteret.
+- OK   6 utelatt W4406825407 «Trends in work participation among patients with inflammatory rheumati» (2025) – Metode-, register- eller instrumentbeskrivelse, ikke studie av unge uføre.
+- OK   6 utelatt W2096369114 «Finding alternatives to disability benefit receipt» (2014) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W3121452538 «Disability Insurance and Labor Market Exit Routes of Older Workers in » (2012) – Land utenfor Skandinavia uten design i kategori 1–3 som forklarer tilgangen blant unge (kriteriene om land).
+- OK   6 utelatt W2155139768 «The political economy of the disability insurance: theory and evidence» (2014) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2923126968 «Precariousness among solo self-employed workers: a German–Dutch compar» (2019) – Land utenfor Skandinavia uten design i kategori 1–3 som forklarer tilgangen blant unge (kriteriene om land).
+- OK   6 utelatt W2074576679 «Disability and employment: lessons from natural policy experiments» (2010) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W4389978574 «Myten om det norske utenforskapet» (2023) – Essay om norsk utenforskap: bruker ikke egne data om unge uføre.
+- OK   6 utelatt W2184873414 «Does Welfare Inhibit Success? the Long-Term Effects of Removing Low-In» (2014) – Arbeidsnotatversjon av W2542396793 (amerikansk SSI): samme vurdering.
+- OK   6 utelatt W2901144121 «Contracting out community services, marketisation and wages» (2018) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W1490613719 «Is Australia One Recession Away from a Disability Blowout? Lessons fro» (2013) – Land utenfor Skandinavia uten design i kategori 1–3 som forklarer tilgangen blant unge (kriteriene om land).
+- OK   6 utelatt W1702213968 «A comparison of self-reported data on disability pension status with d» (2010) – Metode-, register- eller instrumentbeskrivelse, ikke studie av unge uføre.
+- OK   6 utelatt W2802944819 «Inequity in disability pension: an intersectional analysis of the co-c» (2018) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2332416008 «From Defective Loafers to Ignorant Yobs: low attainers in a global kno» (2013) – Unge og ytelser, men uføreytelse for unge er ikke utfallet eller studien gjelder en snever gruppe; vurdert på tittel og sammendrag og ikke valgt i noen av de to blinde utvalgene.
+- OK   6 utelatt W4412792059 «Nationwide Analysis of Legal Barriers to Cancer Care» (2025) – Studie av én somatisk diagnose eller klinisk gruppe; forklarer ikke utviklingen blant unge uføre.
+- OK   6 utelatt W4409252814 «Recurrent major depression, employment and transitions to unemployment» (2025) – Unge og ytelser, men uføreytelse for unge er ikke utfallet eller studien gjelder en snever gruppe; vurdert på tittel og sammendrag og ikke valgt i noen av de to blinde utvalgene.
+- OK   6 utelatt W4409974301 «Associations between employment status, type of occupation, and mental» (2025) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W4417506305 «Different Definitions of Developmental Disability and Implications for» (2025) – Unge og ytelser, men uføreytelse for unge er ikke utfallet eller studien gjelder en snever gruppe; vurdert på tittel og sammendrag og ikke valgt i noen av de to blinde utvalgene.
+- OK   6 utelatt W4407365189 «Relapse in substance‐induced psychosis and associated risk factors. A » (2025) – Metode-, register- eller instrumentbeskrivelse, ikke studie av unge uføre.
+- OK   6 utelatt W2586389727 «Employment Of People With Disabilities In Romania» (2016) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W4398794267 «Gender and educational differences in work participation and working y» (2024) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W4414083475 «Job control and working life expectancy in Sweden» (2025) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W4392882079 «Workers' moral hazard and private insurer effort in disability insuran» (2024) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2156072342 «Rehabilitation time before disability pension» (2012) – Unge og ytelser, men uføreytelse for unge er ikke utfallet eller studien gjelder en snever gruppe; vurdert på tittel og sammendrag og ikke valgt i noen av de to blinde utvalgene.
+- OK   6 utelatt W2184290787 «Unemployment under the flex job scheme increases the risk of permanent» (2014) – Land utenfor Skandinavia uten design i kategori 1–3 som forklarer tilgangen blant unge (kriteriene om land).
+- OK   6 utelatt W2108682039 «Disability and employment: the importance of the diagnosis» (2010) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2906878904 «Young people at risk: School dropout and labour market exclusion in th» (2018) – Nordisk rapport om frafall og utenforskap: utfallet er arbeid og NEET, ikke uføreytelser.
+- OK   6 utelatt W4391660279 «Rural Dimension of the Employment Policies for NEETs. A Comparative An» (2024) – NEET-studie uten egne tall for uføreytelser.
+- OK   6 utelatt W4414783334 «Long‐term socioeconomic outcomes in Danish children with moderate‐to‐s» (2025) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W4407343686 «Life With Cystic Fibrosis: The Socioeconomic Impact on Patients and Th» (2025) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W4404690389 «Mediating effect of working conditions on the association between educ» (2024) – Unge og ytelser, men uføreytelse for unge er ikke utfallet eller studien gjelder en snever gruppe; vurdert på tittel og sammendrag og ikke valgt i noen av de to blinde utvalgene.
+- OK   6 utelatt W2907485475 «The Norwegian Work Approach in the 1990s: Rhetoric and Reform» (2017) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W4386376094 «Suspicious Minds? Media effects on the perception of disability benefi» (2023) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W4410173510 «Work Ability in Patients with Chronic Myeloid Leukemia: A Danish Natio» (2025) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W4407365869 «Childhood adversity trajectories and not being in education, employmen» (2025) – Unge, men utfallet er ikke uføreytelser (helse, utdanning eller arbeid).
+- OK   6 utelatt W4252574293 «NEETs in European agenda: characteristics and policy debate» (2016) – NEET-studie uten egne tall for uføreytelser.
+- OK   6 utelatt W4362203817 «The Race to Success: A Study of the NEET and JEE Exams' Impact on Stud» (2023) – NEET-studie uten egne tall for uføreytelser.
+- OK   6 utelatt W4414077346 «Sex differences in outcomes of first episode psychosis: results from a» (2025) – Effektstudie av arbeidsrettet tiltak eller behandling, eget spørsmål (kriteriene).
+- OK   6 utelatt W2479766001 «‘I Wouldn’t Be a Victim When It Comes to Being Heard’» (2015) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W4415377910 «Suicide and sociodemographic factors among older adults in Norway: a r» (2025) – Metode-, register- eller instrumentbeskrivelse, ikke studie av unge uføre.
+- OK   6 utelatt W4249958880 «Reconsidering Norwegian sickness absence policies» (2013) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2797936310 «Activation policies and proceduralization of law in Britain, Denmark a» (2014) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W4237068104 «Latent Class Analysis of the Out-of-Work Population in Greece, 2007–11» (2015) – Land utenfor Skandinavia uten design i kategori 1–3 som forklarer tilgangen blant unge (kriteriene om land).
+- OK   6 utelatt W4414161102 «Special NEETs: Institutional Influences on School-to-Work Transitions » (2025) – NEET-studie uten egne tall for uføreytelser.
+- OK   6 utelatt W4404701945 «Enabling digital education: from official statistics to public policy» (2024) – Unge, men utfallet er ikke uføreytelser (helse, utdanning eller arbeid).
+- OK   6 utelatt W4405696493 «„Too ill for work, too healthy for disability pension.“: The experienc» (2024) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W4411085733 «Work Ability and Work Participation Statuses of the Working-Age Popula» (2025) – Metode-, register- eller instrumentbeskrivelse, ikke studie av unge uføre.
+- OK   6 utelatt W4416077957 «In-work poverty in the EU—seeing the bigger picture» (2025) – Unge og ytelser, men uføreytelse for unge er ikke utfallet eller studien gjelder en snever gruppe; vurdert på tittel og sammendrag og ikke valgt i noen av de to blinde utvalgene.
+- OK   6 utelatt W4414068928 «The Lived Experiences of Former Foster Care Children in Iceland» (2025) – Land utenfor Skandinavia uten design i kategori 1–3 som forklarer tilgangen blant unge (kriteriene om land).
+- OK   6 utelatt W7152274346 «Age at First Attention-Deficit/Hyperactivity Disorder Diagnosis and Ed» (2026) – Unge og ytelser, men uføreytelse for unge er ikke utfallet eller studien gjelder en snever gruppe; vurdert på tittel og sammendrag og ikke valgt i noen av de to blinde utvalgene.
+- OK   6 utelatt W2213308818 «A new system for better employment and social outcomes: interim report» (2014) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W1608712020 «. Disability Insurance Programs in Canada» (2012) – Land utenfor Skandinavia uten design i kategori 1–3 som forklarer tilgangen blant unge (kriteriene om land).
+- OK   6 utelatt W4413034454 «Non-response bias in the Norwegian Counties Public Health Survey: Insi» (2025) – Metode-, register- eller instrumentbeskrivelse, ikke studie av unge uføre.
+- OK   6 utelatt W4411070857 «Parental Health Shocks and Child Outcomes at Ages 17–25: Evidence From» (2025) – Land utenfor Skandinavia uten design i kategori 1–3 som forklarer tilgangen blant unge (kriteriene om land).
+- OK   6 utelatt W2497747045 «Option Value of Disability Insurance in Canada» (2015) – Land utenfor Skandinavia uten design i kategori 1–3 som forklarer tilgangen blant unge (kriteriene om land).
+- OK   6 utelatt W2329850531 «Employment experiences of young Medicaid Buy-In participants with psyc» (2012) – Land utenfor Skandinavia uten design i kategori 1–3 som forklarer tilgangen blant unge (kriteriene om land).
+- OK   6 utelatt W2332729307 «312 Predictors of work participation of young adults with mild intelle» (2013) – Unge og ytelser, men uføreytelse for unge er ikke utfallet eller studien gjelder en snever gruppe; vurdert på tittel og sammendrag og ikke valgt i noen av de to blinde utvalgene.
+- OK   6 utelatt W2979946049 «The Swedish model of upper secondary education : an analysis of recent» (2015) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W4306866074 «Introduction» (2022) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W4390214329 «A multistate approach to disability insurance reserving with informati» (2026) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W7124713985 «Genetic studies of psychosocial disability establish correlations and » (2026) – Unge og ytelser, men uføreytelse for unge er ikke utfallet eller studien gjelder en snever gruppe; vurdert på tittel og sammendrag og ikke valgt i noen av de to blinde utvalgene.
+- OK   6 utelatt W4241232188 «Shorten, Bill (Australia)» (2019) – Land utenfor Skandinavia uten design i kategori 1–3 som forklarer tilgangen blant unge (kriteriene om land).
+- OK   6 utelatt W7125200198 «Exploring differences in health-related benefit status in the year bef» (2026) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W7148909254 «Vertical and horizontal equity in support for children with disabiliti» (2026) – Land utenfor Skandinavia uten design i kategori 1–3 som forklarer tilgangen blant unge (kriteriene om land).
+- OK   6 utelatt W7167546205 «Improving disability benefit take-up: Experimental evidence from a pub» (2026) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2969410562 «National policies and social inequalities in exit paths from working l» (2019) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W7160327678 «Use of primary care physiotherapy and its associations with clinical a» (2026) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W7126212331 «Sociodemographic Determinants of Youth NEET in Indonesia» (2026) – Land utenfor Skandinavia uten design i kategori 1–3 som forklarer tilgangen blant unge (kriteriene om land).
+- OK   6 utelatt W7143387943 «Poverty and family adversity trajectories and not in education, employ» (2026) – Land utenfor Skandinavia uten design i kategori 1–3 som forklarer tilgangen blant unge (kriteriene om land).
+- OK   6 utelatt W4415713321 «Childhood socio-emotional and cognitive development and adolescents NE» (2026) – Land utenfor Skandinavia uten design i kategori 1–3 som forklarer tilgangen blant unge (kriteriene om land).
+- OK   6 utelatt W7140681715 «Mental well-being in 15–19-year-old adolescents and poor school connec» (2026) – NEET-studie uten egne tall for uføreytelser.
+- OK   6 utelatt W7147086038 «The relationship between school characteristics and students becoming » (2026) – Unge, men utfallet er ikke uføreytelser (helse, utdanning eller arbeid).
+- OK   6 utelatt 0198cc5b08e7-145e1891-1bf3-4ab2-aeb7-23726168c98c «Ung@Jobb Sluttrapport for Rogalandsprosjektet "Praksis- og kunnskapsut» (2017) – Unge og ytelser, men uføreytelse for unge er ikke utfallet eller studien gjelder en snever gruppe; vurdert på tittel og sammendrag og ikke valgt i noen av de to blinde utvalgene.
+- OK   6 utelatt LI-6r32t9rk41m4z5q5 «Tidiga insatser och stöd hela vägen för säkrad sysselsättning : Kunska» (2024) – Unge, men utfallet er ikke uføreytelser (helse, utdanning eller arbeid).
+- OK   6 utelatt LI-h2sp3x5ffnwfqgs2 «"Vi vill alla samma sak, men gör saker på olika sätt" : Kunskapsöversi» (2024) – Unge, men utfallet er ikke uføreytelser (helse, utdanning eller arbeid).
+- OK   6 utelatt LI-22618371 «Ungdomars och unga vuxnas levnadsvillkor i Sverige : en kunskapsöversi» (2018) – Unge, men utfallet er ikke uføreytelser (helse, utdanning eller arbeid).
+- OK   6 utelatt LI-zfvmdhvhwk2f46ks «Hur mår våra barn och unga? : Förändringar i barns och ungas hälsa öve» (2023) – Unge, men utfallet er ikke uføreytelser (helse, utdanning eller arbeid).
+- OK   6 utelatt LI-cm5pn38w9r6rlg8w «Kunskapsöversikt om stöd och behandling för barn som utsatts för sexue» (2017) – Utenfor temaet: verken unge eller uføreytelser (sentral kandidat fra referansene, for eksempel generell metode eller helse).
+- OK   6 utelatt LI-9m0vlkb47rlf7mjd «Kollektivtrafikens roll i resenärens vardagsliv : En litteraturöversik» (2016) – Utenfor temaet: verken unge eller uføreytelser (sentral kandidat fra referansene, for eksempel generell metode eller helse).
+- OK   6 utelatt LI-4l8b6pzg2hwzsqxd «Utvecklingskraft 2019: Systematiskt arbete med psykisk ohälsa hos barn» (2019) – Unge, men utfallet er ikke uføreytelser (helse, utdanning eller arbeid).
+- OK   6 utelatt LI-bt11w58280wjs44q «Unga mäns psykiska ohälsa i Norden : en forskningsöversikt om psykisk » (2023) – Unge, men utfallet er ikke uføreytelser (helse, utdanning eller arbeid).
+- OK   6 utelatt LI-k6rq46p7h6x09sl8 «Boendelösningar för personer i hemlöshet : En systematisk kunskapsöver» (2026) – Utenfor temaet: verken unge eller uføreytelser (sentral kandidat fra referansene, for eksempel generell metode eller helse).
+- OK   6 utelatt W4252885144 «Sickness, Disability and Work: Breaking the Barriers» (2010) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2166018731 «External review and validation of the Swedish national inpatient regis» (2011) – Metode-, register- eller instrumentbeskrivelse, ikke studie av unge uføre.
+- OK   6 utelatt W1964352664 «The Rise in the Disability Rolls and the Decline in Unemployment» (2003) – Publisert før 2010 (kriteriene: fra 2010); mekanismen er dekket av nyere kilder i utvalget.
+- OK   6 utelatt W2089248945 «Life course determinants for early disability pension: a follow-up of » (2007) – Publisert før 2010 (kriteriene: fra 2010); mekanismen er dekket av nyere kilder i utvalget.
+- OK   6 utelatt W2041477563 «The Effect of Plant Downsizing on Disability Pension Utilization» (2009) – Publisert før 2010 (kriteriene: fra 2010); mekanismen er dekket av nyere kilder i utvalget.
+- OK   6 utelatt W2147403837 «Recent Developments in Intergenerational Mobility» (2010) – Utenfor temaet: verken unge eller uføreytelser (sentral kandidat fra referansene, for eksempel generell metode eller helse).
+- OK   6 utelatt W3121349088 «Does Disability Insurance Receipt Discourage Work? Using Examiner Assi» (2013) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W4210366045 «Sick on the Job?» (2011) – Utenfor temaet: verken unge eller uføreytelser (sentral kandidat fra referansene, for eksempel generell metode eller helse).
+- OK   6 utelatt W2088520421 «The Impact of Economic Conditions on Participation in Disability Progr» (2002) – Publisert før 2010 (kriteriene: fra 2010); mekanismen er dekket av nyere kilder i utvalget.
+- OK   6 utelatt W2113707950 «Social determinants of disability pension: a 10-year follow-up of 62 0» (2002) – Publisert før 2010 (kriteriene: fra 2010); mekanismen er dekket av nyere kilder i utvalget.
+- OK   6 utelatt W2112336164 «Immigrants, Labour Market Performance and Social Insurance» (2014) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2082954590 «The Intergenerational Transmission of Welfare Receipt: A Nonparametric» (2000) – Publisert før 2010 (kriteriene: fra 2010); mekanismen er dekket av nyere kilder i utvalget.
+- OK   6 utelatt W1992892586 «Childhood adversities as a predictor of disability retirement» (2007) – Publisert før 2010 (kriteriene: fra 2010); mekanismen er dekket av nyere kilder i utvalget.
+- OK   6 utelatt W2038098345 «Social Support Substitution and the Earnings Rebound: Evidence from a » (2014) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2899647448 «Trajectories of work disability and unemployment among young adults wi» (2018) – Svenske forløp av arbeidsuførhet blant unge med vanlige psykiske lidelser: kategori 5, samme forskningsmiljø og data som valgte svenske registerstudier.
+- OK   6 utelatt W2228218065 «Educational differences in disability retirement among young employees» (2015) – Finsk studie av utdanningsforskjeller i uførepensjon blant unge ansatte i Helsingfors: finsk og bare kommuneansatte; driveren utdanning er dekket av norske og svenske studier.
+- OK   6 utelatt W2915320150 «The reproduction of benefit receipt: Disentangling the intergeneration» (2019) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W4413790838 «The Long-Term Effects of Income for At-Risk Infants: Evidence from Sup» (2025) – Unge og ytelser, men uføreytelse for unge er ikke utfallet eller studien gjelder en snever gruppe; vurdert på tittel og sammendrag og ikke valgt i noen av de to blinde utvalgene.
+- OK   6 utelatt W2159061031 «Lifetime and 12-Month Prevalence of DSM-III-R Psychiatric Disorders in» (1994) – Publisert før 2010 (kriteriene: fra 2010); mekanismen er dekket av nyere kilder i utvalget.
+- OK   6 utelatt W2052755559 «Mental health of young people: a global public-health challenge» (2007) – Publisert før 2010 (kriteriene: fra 2010); mekanismen er dekket av nyere kilder i utvalget.
+- OK   6 utelatt W2101771110 «Logistic Regression: Why We Cannot Do What We Think We Can Do, and Wha» (2009) – Publisert før 2010 (kriteriene: fra 2010); mekanismen er dekket av nyere kilder i utvalget.
+- OK   6 utelatt W2141761576 «The Swedish personal identity number: possibilities and pitfalls in he» (2009) – Publisert før 2010 (kriteriene: fra 2010); mekanismen er dekket av nyere kilder i utvalget.
+- OK   6 utelatt W2006583909 «Adolescence and the social determinants of health» (2012) – Unge, men utfallet er ikke uføreytelser (helse, utdanning eller arbeid).
+- OK   6 utelatt W2170319894 «Global burden of disease in young people aged 10–24 years: a systemati» (2011) – Unge, men utfallet er ikke uføreytelser (helse, utdanning eller arbeid).
+- OK   6 utelatt W2043489981 «Life course epidemiology: Figure 1» (2003) – Publisert før 2010 (kriteriene: fra 2010); mekanismen er dekket av nyere kilder i utvalget.
+- OK   6 utelatt W1884571572 «The Growing Importance of Social Skills in the Labor Market*» (2017) – Utenfor temaet: verken unge eller uføreytelser (sentral kandidat fra referansene, for eksempel generell metode eller helse).
+- OK   6 utelatt W2233885014 «Registers of the Swedish total population and their use in medical res» (2016) – Metode-, register- eller instrumentbeskrivelse, ikke studie av unge uføre.
+- OK   6 utelatt W2762467945 «The Swedish cause of death register» (2017) – Metode-, register- eller instrumentbeskrivelse, ikke studie av unge uføre.
+- OK   6 utelatt W2168424072 «Premature mortality in autism spectrum disorder» (2015) – Utenfor temaet: verken unge eller uføreytelser (sentral kandidat fra referansene, for eksempel generell metode eller helse).
+- OK   6 utelatt W2171724930 «The Health and Earnings of Rejected Disability Insurance Applicants» (1989) – Publisert før 2010 (kriteriene: fra 2010); mekanismen er dekket av nyere kilder i utvalget.
+- OK   6 utelatt W2121407100 «The Growth in the Social Security Disability Rolls: A Fiscal Crisis Un» (2006) – Publisert før 2010 (kriteriene: fra 2010); mekanismen er dekket av nyere kilder i utvalget.
+- OK   6 utelatt W2091512260 «Lost in Transition? Labour Market Entry Sequences of School Leavers in» (2007) – Publisert før 2010 (kriteriene: fra 2010); mekanismen er dekket av nyere kilder i utvalget.
+- OK   6 utelatt W2156042216 «The prevalence and effects of adult attention-deficit/hyperactivity di» (2008) – Publisert før 2010 (kriteriene: fra 2010); mekanismen er dekket av nyere kilder i utvalget.
+- OK   6 utelatt W2034643246 «Occupational Outcome in Adult ADHD: Impact of Symptom Profile, Comorbi» (2009) – Publisert før 2010 (kriteriene: fra 2010); mekanismen er dekket av nyere kilder i utvalget.
+- OK   6 utelatt W1969785782 «Mental health affects future employment as job loss affects mental hea» (2013) – Utenfor temaet: verken unge eller uføreytelser (sentral kandidat fra referansene, for eksempel generell metode eller helse).
+- OK   6 utelatt W2088334432 «The work disincentive effects of the disability insurance program in t» (2007) – Publisert før 2010 (kriteriene: fra 2010); mekanismen er dekket av nyere kilder i utvalget.
+- OK   6 utelatt W2082262187 «Trends in Employment and Earnings of Allowed and Rejected Applicants t» (2011) – Land utenfor Skandinavia uten design i kategori 1–3 som forklarer tilgangen blant unge (kriteriene om land).
+- OK   6 utelatt W2141630795 «HOW DESTRUCTIVE IS CREATIVE DESTRUCTION? EFFECTS OF JOB LOSS ON JOB MO» (2011) – Utenfor temaet: verken unge eller uføreytelser (sentral kandidat fra referansene, for eksempel generell metode eller helse).
+- OK   6 utelatt W2089619724 «Welfare Dependence Within and Across Generations» (1988) – Publisert før 2010 (kriteriene: fra 2010); mekanismen er dekket av nyere kilder i utvalget.
+- OK   6 utelatt W2070716977 «The negative impact of attention-deficit/hyperactivity disorder on occ» (2012) – Unge, men utfallet er ikke uføreytelser (helse, utdanning eller arbeid).
+- OK   6 utelatt W1535387382 «Time and causality: A Monte Carlo assessment of the timing-of-events a» (2007) – Publisert før 2010 (kriteriene: fra 2010); mekanismen er dekket av nyere kilder i utvalget.
+- OK   6 utelatt W2081984428 «What We Know and Don’t Know About Mental Health Problems Among Immigra» (2012) – Utenfor temaet: verken unge eller uføreytelser (sentral kandidat fra referansene, for eksempel generell metode eller helse).
+- OK   6 utelatt W2103502565 «Cohort profile of the Young-HUNT Study, Norway: A population-based stu» (2013) – Unge, men utfallet er ikke uføreytelser (helse, utdanning eller arbeid).
+- OK   6 utelatt W1970224557 «Diagnosis and duration of sickness absence as predictors for disabilit» (2003) – Publisert før 2010 (kriteriene: fra 2010); mekanismen er dekket av nyere kilder i utvalget.
+- OK   6 utelatt W2131389657 «Common mental disorders and disability pension award: Seven year follo» (2010) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2035463104 «Is the correlation in welfare participation across generations spuriou» (1996) – Publisert før 2010 (kriteriene: fra 2010); mekanismen er dekket av nyere kilder i utvalget.
+- OK   6 utelatt W1964712011 «The Intergenerational Transfer of Welfare Dependency: Some Statistical» (1992) – Publisert før 2010 (kriteriene: fra 2010); mekanismen er dekket av nyere kilder i utvalget.
+- OK   6 utelatt W1990618608 «Predictors of disability pension over a 10-year period for men and wom» (2006) – Publisert før 2010 (kriteriene: fra 2010); mekanismen er dekket av nyere kilder i utvalget.
+- OK   6 utelatt W1967013393 «Adolescent Health and High School Dropout: A Prospective Cohort Study » (2013) – Unge, men utfallet er ikke uføreytelser (helse, utdanning eller arbeid).
+- OK   6 utelatt W2122794822 «Social determinants of mental health: a Finnish nationwide follow-up s» (2013) – Unge og ytelser, men uføreytelse for unge er ikke utfallet eller studien gjelder en snever gruppe; vurdert på tittel og sammendrag og ikke valgt i noen av de to blinde utvalgene.
+- OK   6 utelatt W2064523287 «Disability policy and the labor market: Evidence from a natural experi» (2011) – Land utenfor Skandinavia uten design i kategori 1–3 som forklarer tilgangen blant unge (kriteriene om land).
+- OK   6 utelatt W2000273041 «Psychosocial characteristics in young men as predictors of early disab» (1999) – Publisert før 2010 (kriteriene: fra 2010); mekanismen er dekket av nyere kilder i utvalget.
+- OK   6 utelatt W2140402860 «Conditions during childhood and adolescence as explanations of social » (2001) – Publisert før 2010 (kriteriene: fra 2010); mekanismen er dekket av nyere kilder i utvalget.
+- OK   6 utelatt W2138834752 «Influence of physical, mental and intellectual development on disabili» (2008) – Publisert før 2010 (kriteriene: fra 2010); mekanismen er dekket av nyere kilder i utvalget.
+- OK   6 utelatt W2026820496 «Recent changes in social structure and health inequalities in Norway» (2001) – Publisert før 2010 (kriteriene: fra 2010); mekanismen er dekket av nyere kilder i utvalget.
+- OK   6 utelatt W3121444308 «The unsustainable rise of the disability rolls in the United States: c» (2015) – Land utenfor Skandinavia uten design i kategori 1–3 som forklarer tilgangen blant unge (kriteriene om land).
+- OK   6 utelatt W2790878822 «Immigration and Integration Policy and Labour Market Attainment Among » (2018) – Utenfor temaet: verken unge eller uføreytelser (sentral kandidat fra referansene, for eksempel generell metode eller helse).
+- OK   6 utelatt W3022580430 «The Intergenerational Causal Effect of Tax Evasion: Evidence from the » (2017) – Utenfor temaet: verken unge eller uføreytelser (sentral kandidat fra referansene, for eksempel generell metode eller helse).
+- OK   6 utelatt W2767805161 «Initiatives to Combat the Labour Market Exclusion of Youth in Northern» (2017) – Unge, men utfallet er ikke uføreytelser (helse, utdanning eller arbeid).
+- OK   6 utelatt W4396666699 «Zero Poverty Society» (2024) – Utenfor temaet: verken unge eller uføreytelser (sentral kandidat fra referansene, for eksempel generell metode eller helse).
+- OK   6 utelatt W4362577753 «Using Machine Learning to Create an Early Warning System for Welfare R» (2023) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2530111125 «Psychotherapeutic and work-oriented interventions: employment outcomes» (2016) – Unge og ytelser, men uføreytelse for unge er ikke utfallet eller studien gjelder en snever gruppe; vurdert på tittel og sammendrag og ikke valgt i noen av de to blinde utvalgene.
+- OK   6 utelatt W4400060728 «The causal effect of mental health on labor market outcomes: The case » (2024) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W3205006902 «Literature review on the impact of welfare policy design on children a» (2021) – Unge og ytelser, men uføreytelse for unge er ikke utfallet eller studien gjelder en snever gruppe; vurdert på tittel og sammendrag og ikke valgt i noen av de to blinde utvalgene.
+- OK   6 utelatt W4396666669 «The State of Means-Tested Minimum Income Protection for People Not in » (2024) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W4396683692 «Basic Income Advocates, Sober Up» (2024) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W4210997646 «Attention-deficit/hyperactivity disorder» (2015) – Unge og ytelser, men uføreytelse for unge er ikke utfallet eller studien gjelder en snever gruppe; vurdert på tittel og sammendrag og ikke valgt i noen av de to blinde utvalgene.
+- OK   6 utelatt W2171607710 «The epidemiology and global burden of autism spectrum disorders» (2014) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2105485052 «Continuities and discontinuities in psychopathology between childhood » (2006) – Publisert før 2010 (kriteriene: fra 2010); mekanismen er dekket av nyere kilder i utvalget.
+- OK   6 utelatt W2064447153 «Occupational issues of adults with ADHD» (2013) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2913073355 «Medication treatment for attention‐deficit/hyperactivity disorder and » (2019) – Studie av én somatisk diagnose eller klinisk gruppe; forklarer ikke utviklingen blant unge uføre.
+- OK   6 utelatt W4406897434 «The Neurodiversity Framework in Medicine: On the Spectrum» (2025) – Utenfor temaet: verken unge eller uføreytelser (sentral kandidat fra referansene, for eksempel generell metode eller helse).
+- OK   6 utelatt W1972517873 «Restricting the influx of disability beneficiaries by means of law: ex» (1998) – Publisert før 2010 (kriteriene: fra 2010); mekanismen er dekket av nyere kilder i utvalget.
+- OK   6 utelatt W4405016948 «Transcutaneous auricular vagus nerve stimulation as a potential therap» (2024) – Utenfor temaet: verken unge eller uføreytelser (sentral kandidat fra referansene, for eksempel generell metode eller helse).
+- OK   6 utelatt W4406252514 «Diagnose and Treatment of ADHD in Adult Woman: A Literature Review» (2024) – Utenfor temaet: verken unge eller uføreytelser (sentral kandidat fra referansene, for eksempel generell metode eller helse).
+- OK   6 utelatt W4406037073 «Psychopharmacological Support Significance on Attention Deficit Hypera» (2025) – Utenfor temaet: verken unge eller uføreytelser (sentral kandidat fra referansene, for eksempel generell metode eller helse).
+- OK   6 utelatt W4412590813 «Challenges in amphetamine medication availability for individuals with» (2025) – Utenfor temaet: verken unge eller uføreytelser (sentral kandidat fra referansene, for eksempel generell metode eller helse).
+- OK   6 utelatt W2026590931 «Job Displacement and Mortality: An Analysis Using Administrative Data » (2009) – Publisert før 2010 (kriteriene: fra 2010); mekanismen er dekket av nyere kilder i utvalget.
+- OK   6 utelatt W2153127887 «Long-Run Impacts of Childhood Access to the Safety Net» (2016) – Utenfor temaet: verken unge eller uføreytelser (sentral kandidat fra referansene, for eksempel generell metode eller helse).
+- OK   6 utelatt W3023235206 «Fit Mind, Fit Job» (2015) – Utenfor temaet: verken unge eller uføreytelser (sentral kandidat fra referansene, for eksempel generell metode eller helse).
+- OK   6 utelatt W1990528257 «A Population-Based Cohort Study of the Effect of Common Mental Disorde» (2006) – Publisert før 2010 (kriteriene: fra 2010); mekanismen er dekket av nyere kilder i utvalget.
+- OK   6 utelatt W2542396793 «Does Welfare Inhibit Success? The Long-Term Effects of Removing Low-In» (2016) – Amerikansk studie av unge som fjernes fra SSI ved 18 år: effekt av å miste ytelsen, forklarer ikke tilgangen i Norden.
+- OK   6 utelatt W2054931962 «Projections of Global Mortality and Burden of Disease from 2002 to 203» (2006) – Publisert før 2010 (kriteriene: fra 2010); mekanismen er dekket av nyere kilder i utvalget.
+- OK   6 utelatt W1480729244 «Aspirin plus Clopidogrel as Secondary Prevention after Stroke or Trans» (2014) – Studie av én somatisk diagnose eller klinisk gruppe; forklarer ikke utviklingen blant unge uføre.
+- OK   6 utelatt W2134843796 «Multiple imputation using chained equations: Issues and guidance for p» (2010) – Metode-, register- eller instrumentbeskrivelse, ikke studie av unge uføre.
+- OK   6 utelatt W2096856326 «Depression, chronic diseases, and decrements in health: results from t» (2007) – Publisert før 2010 (kriteriene: fra 2010); mekanismen er dekket av nyere kilder i utvalget.
+- OK   6 utelatt W2139564895 «Skill Formation and the Economics of Investing in Disadvantaged Childr» (2006) – Publisert før 2010 (kriteriene: fra 2010); mekanismen er dekket av nyere kilder i utvalget.
+- OK   6 utelatt W2098709408 «Unemployment impairs mental health: Meta-analyses» (2009) – Publisert før 2010 (kriteriene: fra 2010); mekanismen er dekket av nyere kilder i utvalget.
+- OK   6 utelatt W2165626243 «Socioeconomic Inequalities in Depression: A Meta-Analysis» (2003) – Publisert før 2010 (kriteriene: fra 2010); mekanismen er dekket av nyere kilder i utvalget.
+- OK   6 utelatt W2003307443 «Psychological and Physical Well-Being During Unemployment: A Meta-Anal» (2005) – Publisert før 2010 (kriteriene: fra 2010); mekanismen er dekket av nyere kilder i utvalget.
+- OK   6 utelatt W2117942361 «Measuring the mental health status of the Norwegian population: A comp» (2003) – Publisert før 2010 (kriteriene: fra 2010); mekanismen er dekket av nyere kilder i utvalget.
+- OK   6 utelatt W3021959460 «What Works? A Meta Analysis of Recent Active Labor Market Program Eval» (2017) – Utenfor temaet: verken unge eller uføreytelser (sentral kandidat fra referansene, for eksempel generell metode eller helse).
+- OK   6 utelatt W2789795558 «Automation, skills use and training» (2018) – Utenfor temaet: verken unge eller uføreytelser (sentral kandidat fra referansene, for eksempel generell metode eller helse).
+- OK   6 utelatt W2233356473 «Unemployment and self‐assessed health: evidence from panel data» (2008) – Publisert før 2010 (kriteriene: fra 2010); mekanismen er dekket av nyere kilder i utvalget.
+- OK   6 utelatt W2095345438 «Long term sickness absence» (2005) – Publisert før 2010 (kriteriene: fra 2010); mekanismen er dekket av nyere kilder i utvalget.
+- OK   6 utelatt W2147004703 «Chapter 5. Risk factors for sick leave - general studies» (2004) – Publisert før 2010 (kriteriene: fra 2010); mekanismen er dekket av nyere kilder i utvalget.
+- OK   6 utelatt W2072174740 «Origins of health inequalities in a national population sample» (1997) – Publisert før 2010 (kriteriene: fra 2010); mekanismen er dekket av nyere kilder i utvalget.
+- OK   6 utelatt W2276622842 «Transforming Disability into Ability. Policies to Promote Work and Inc» (2002) – Publisert før 2010 (kriteriene: fra 2010); mekanismen er dekket av nyere kilder i utvalget.
+- OK   6 utelatt W2102628581 «Health Selection and the Process of Social Stratification: The Effect » (2006) – Publisert før 2010 (kriteriene: fra 2010); mekanismen er dekket av nyere kilder i utvalget.
+- OK   6 utelatt W2005487802 «Socioeconomic status and health: Do gradients differ within childhood » (2005) – Publisert før 2010 (kriteriene: fra 2010); mekanismen er dekket av nyere kilder i utvalget.
+- OK   6 utelatt W2077119846 «Burden of psychiatric disorder in young adulthood and life outcomes at» (2010) – Unge, men utfallet er ikke uføreytelser (helse, utdanning eller arbeid).
+- OK   6 utelatt W2128696921 «Is job insecurity harmful to health?» (2001) – Publisert før 2010 (kriteriene: fra 2010); mekanismen er dekket av nyere kilder i utvalget.
+- OK   6 utelatt W1980062252 «Socioeconomic status and children’s mental health: results from the Be» (2011) – Utenfor temaet: verken unge eller uføreytelser (sentral kandidat fra referansene, for eksempel generell metode eller helse).
+- OK   6 utelatt W2030394116 «Socioeconomic determinants of health: Health and the life course: why » (1997) – Publisert før 2010 (kriteriene: fra 2010); mekanismen er dekket av nyere kilder i utvalget.
+- OK   6 utelatt W4248203204 «Sickness, Disability and Work: Breaking the Barriers» (2010) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2549601609 «How unemployment and precarious employment affect the health of young » (2016) – Unge og ytelser, men uføreytelse for unge er ikke utfallet eller studien gjelder en snever gruppe; vurdert på tittel og sammendrag og ikke valgt i noen av de to blinde utvalgene.
+- OK   6 utelatt W2133797489 «Socioeconomic Position and Self-Rated Health: The Contribution of Chil» (2005) – Publisert før 2010 (kriteriene: fra 2010); mekanismen er dekket av nyere kilder i utvalget.
+- OK   6 utelatt W4210308679 «Transforming Disability into Ability» (2003) – Publisert før 2010 (kriteriene: fra 2010); mekanismen er dekket av nyere kilder i utvalget.
+- OK   6 utelatt W2142877833 «Risk factors for disability pension in a population-based cohort of me» (2008) – Publisert før 2010 (kriteriene: fra 2010); mekanismen er dekket av nyere kilder i utvalget.
+- OK   6 utelatt W2127245795 «Predictors of disability pension in long-term sickness absence: Result» (2004) – Publisert før 2010 (kriteriene: fra 2010); mekanismen er dekket av nyere kilder i utvalget.
+- OK   6 utelatt W2036024733 «Disability in society—medical and non-medical determinants for disabil» (2003) – Publisert før 2010 (kriteriene: fra 2010); mekanismen er dekket av nyere kilder i utvalget.
+- OK   6 utelatt W1980197867 «Workplace Effects of the Stigmatization of Depression» (1998) – Publisert før 2010 (kriteriene: fra 2010); mekanismen er dekket av nyere kilder i utvalget.
+- OK   6 utelatt W2130137198 «SCREENING DISABILITY INSURANCE APPLICATIONS» (2011) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2124713897 «Determinants of health in early adulthood: what is the role of parenta» (2005) – Publisert før 2010 (kriteriene: fra 2010); mekanismen er dekket av nyere kilder i utvalget.
+- OK   6 utelatt W4248151896 «Mental Health and Work: Norway» (2012) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2092042825 «The Genetic Liability to Disability Retirement: A 30-Year Follow-Up St» (2008) – Publisert før 2010 (kriteriene: fra 2010); mekanismen er dekket av nyere kilder i utvalget.
+- OK   6 utelatt W2085169443 «Intergenerational reliance on social assistance: Evidence from Canada» (2005) – Publisert før 2010 (kriteriene: fra 2010); mekanismen er dekket av nyere kilder i utvalget.
+- OK   6 utelatt W2757531281 «Sickness and disability policies: Reform paths in OECD countries betwe» (2017) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W1983890998 «Economy and job contract as contexts of sickness absence practices: re» (2003) – Publisert før 2010 (kriteriene: fra 2010); mekanismen er dekket av nyere kilder i utvalget.
+- OK   6 utelatt W2124388240 «Parental psychopathology and socioeconomic position predict adolescent» (2009) – Publisert før 2010 (kriteriene: fra 2010); mekanismen er dekket av nyere kilder i utvalget.
+- OK   6 utelatt W2087796448 «The association between childhood cognitive ability and adult long-ter» (2012) – Unge og ytelser, men uføreytelse for unge er ikke utfallet eller studien gjelder en snever gruppe; vurdert på tittel og sammendrag og ikke valgt i noen av de to blinde utvalgene.
+- OK   6 utelatt W2593657622 «OECD Employment Outlook 2008» (2009) – Publisert før 2010 (kriteriene: fra 2010); mekanismen er dekket av nyere kilder i utvalget.
+- OK   6 utelatt W2070785347 «Effects of eligibility screening in the sickness insurance: Evidence f» (2012) – Utenfor temaet: verken unge eller uføreytelser (sentral kandidat fra referansene, for eksempel generell metode eller helse).
+- OK   6 utelatt W4225330633 «Working Conditions and Long-Term Sickness Absence Due to Mental Disord» (2021) – Unge, men utfallet er ikke uføreytelser (helse, utdanning eller arbeid).
+- OK   6 utelatt W2118250062 «The effect of municipality characteristics on disability retirement» (2013) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W4410313102 «Long-term sickness absences based on mental disorders by socioeconomic» (2025) – Utenfor temaet: verken unge eller uføreytelser (sentral kandidat fra referansene, for eksempel generell metode eller helse).
+- OK   6 utelatt W7157936707 «Parenthood and mental health throughout the life course: A total popul» (2026) – Utenfor temaet: verken unge eller uføreytelser (sentral kandidat fra referansene, for eksempel generell metode eller helse).
+- OK   6 utelatt W4233471864 «Predictive factors for disability pension - An 11-year follow up of yo» (2001) – Publisert før 2010 (kriteriene: fra 2010); mekanismen er dekket av nyere kilder i utvalget.
+- OK   6 utelatt W4200535530 «Disability, Work and Inclusion in Ireland» (2021) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W4376142914 «Disability, Work and Inclusion in Korea» (2023) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W4283362692 «Disability, Work and Inclusion in Slovenia» (2022) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W4389144146 «Disability, Work and Inclusion in Italy» (2023) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2008786939 «Employer Attitudes Towards the Work Inclusion of People With Disabilit» (2013) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W4313256640 «Accounting for disability and work inclusion in tourism» (2022) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2509467863 «Inclusion Through Work and Productivity for Persons with Intellectual » (2016) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W4390237207 «NEETs in Norway: A Scoping Review» (2023) – NEET-studie uten egne tall for uføreytelser.
+- OK   6 utelatt W1987138256 «The validity of the Hospital Anxiety and Depression Scale» (2002) – Publisert før 2010 (kriteriene: fra 2010); mekanismen er dekket av nyere kilder i utvalget.
+- OK   6 utelatt W2555957564 «The descriptive epidemiology of DSM-IV Adult ADHD in the World Health » (2016) – Utenfor temaet: verken unge eller uføreytelser (sentral kandidat fra referansene, for eksempel generell metode eller helse).
+- OK   6 utelatt W1517190508 «Reframing school dropout as a public health issue.» (2007) – Publisert før 2010 (kriteriene: fra 2010); mekanismen er dekket av nyere kilder i utvalget.
+- OK   6 utelatt W2012844277 «Recurrence of major depression in adolescence and early adulthood, and» (2007) – Publisert før 2010 (kriteriene: fra 2010); mekanismen er dekket av nyere kilder i utvalget.
+- OK   6 utelatt W2106358002 «When Strong Ties are Strong: Networks and Youth Labour Market Entry» (2014) – Unge og ytelser, men uføreytelse for unge er ikke utfallet eller studien gjelder en snever gruppe; vurdert på tittel og sammendrag og ikke valgt i noen av de to blinde utvalgene.
+- OK   6 utelatt W2059976079 «Childhood and persistent ADHD symptoms associated with educational fai» (2014) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W28682445 «Mental health and work» (2008) – Publisert før 2010 (kriteriene: fra 2010); mekanismen er dekket av nyere kilder i utvalget.
+- OK   6 utelatt W2295676000 «Long-term consequences of being not in employment, education or traini» (2016) – NEET-studie uten egne tall for uføreytelser.
+- OK   6 utelatt W2137612866 «Trends in sickness benefits in Great Britain and the contribution of m» (2000) – Publisert før 2010 (kriteriene: fra 2010); mekanismen er dekket av nyere kilder i utvalget.
+- OK   6 utelatt W3123235277 «Welfare Reform and the Intergenerational Transmission of Dependence» (2021) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2948462152 «Individual placement and support for young adults at risk of early wor» (2019) – SEED-forsøket (IPS for unge med risiko for tidlig uførhet): effektstudie av tiltak, eget spørsmål (kriteriene).
+- OK   6 utelatt W2743469955 «Youth outside the labour force — Perceived barriers by service provide» (2017) – Unge og ytelser, men uføreytelse for unge er ikke utfallet eller studien gjelder en snever gruppe; vurdert på tittel og sammendrag og ikke valgt i noen av de to blinde utvalgene.
+- OK   6 utelatt W4229048606 «Association of Depressive Symptoms in Late Adolescence and School Drop» (2022) – Unge, men utfallet er ikke uføreytelser (helse, utdanning eller arbeid).
+- OK   6 utelatt W7225389228 «Tantalus curse? Multigenerational persistence of welfare dependency in» (2026) – Land utenfor Skandinavia uten design i kategori 1–3 som forklarer tilgangen blant unge (kriteriene om land).
+- OK   6 utelatt W2582743722 «R: A Language and Environment for Statistical Computing» (2000) – Publisert før 2010 (kriteriene: fra 2010); mekanismen er dekket av nyere kilder i utvalget.
+- OK   6 utelatt W2577227262 «Mostly Harmless Econometrics» (2008) – Publisert før 2010 (kriteriene: fra 2010); mekanismen er dekket av nyere kilder i utvalget.
+- OK   6 utelatt W2065974896 «Multiple imputation for missing data in epidemiological and clinical r» (2009) – Publisert før 2010 (kriteriene: fra 2010); mekanismen er dekket av nyere kilder i utvalget.
+- OK   6 utelatt W1983030849 «Prevalence of Attention-Deficit/Hyperactivity Disorder: A Systematic R» (2015) – Utenfor temaet: verken unge eller uføreytelser (sentral kandidat fra referansene, for eksempel generell metode eller helse).
+- OK   6 utelatt W2075427517 «The Short- and Long-Term Career Effects of Graduating in a Recession» (2012) – Utenfor temaet: verken unge eller uføreytelser (sentral kandidat fra referansene, for eksempel generell metode eller helse).
+- OK   6 utelatt W3131373059 «Fair Society Healthy Lives» (2012) – Utenfor temaet: verken unge eller uføreytelser (sentral kandidat fra referansene, for eksempel generell metode eller helse).
+- OK   6 utelatt W2037096268 «Mental Health, Educational, and Social Role Outcomes of Adolescents Wi» (2002) – Publisert før 2010 (kriteriene: fra 2010); mekanismen er dekket av nyere kilder i utvalget.
+- OK   6 utelatt W4211026919 «Attention deficit hyperactivity disorder» (2015) – Utenfor temaet: verken unge eller uføreytelser (sentral kandidat fra referansene, for eksempel generell metode eller helse).
+- OK   6 utelatt W2018848507 «Fair Society Healthy Lives» (2010) – Utenfor temaet: verken unge eller uføreytelser (sentral kandidat fra referansene, for eksempel generell metode eller helse).
+- OK   6 utelatt W2029733708 «A Meta-Analytic Review of Gender Differences in ADHD» (2002) – Publisert før 2010 (kriteriene: fra 2010); mekanismen er dekket av nyere kilder i utvalget.
+- OK   6 utelatt W2013747980 «Childhood and Adolescent Psychiatric Disorders as Predictors of Young » (2009) – Publisert før 2010 (kriteriene: fra 2010); mekanismen er dekket av nyere kilder i utvalget.
+- OK   6 utelatt W2022991434 «Losing life and livelihood: A systematic review and meta-analysis of u» (2011) – Utenfor temaet: verken unge eller uføreytelser (sentral kandidat fra referansene, for eksempel generell metode eller helse).
+- OK   6 utelatt W2106153257 «Network Effects and Welfare Cultures*» (2000) – Publisert før 2010 (kriteriene: fra 2010); mekanismen er dekket av nyere kilder i utvalget.
+- OK   6 utelatt W2317047917 «Early Failure in the Labor Market: Childhood and Adolescent Predictors» (1998) – Publisert før 2010 (kriteriene: fra 2010); mekanismen er dekket av nyere kilder i utvalget.
+- OK   6 utelatt W2489918957 «Long-Term Outcomes of Attention-Deficit/Hyperactivity Disorder and Con» (2016) – Utenfor temaet: verken unge eller uføreytelser (sentral kandidat fra referansene, for eksempel generell metode eller helse).
+- OK   6 utelatt W1980444631 «Health effects of employment: a systematic review of prospective studi» (2014) – Utenfor temaet: verken unge eller uføreytelser (sentral kandidat fra referansene, for eksempel generell metode eller helse).
+- OK   6 utelatt W2981134047 «NEETs: young people not in employment, education or training: characte» (2012) – NEET-studie uten egne tall for uføreytelser.
+- OK   6 utelatt W2037665165 «Economic Impact of Childhood and Adult Attention-Deficit/Hyperactivity» (2012) – Land utenfor Skandinavia uten design i kategori 1–3 som forklarer tilgangen blant unge (kriteriene om land).
+- OK   6 utelatt W4253529086 «OECD Employment Outlook 2017» (2017) – Utenfor temaet: verken unge eller uføreytelser (sentral kandidat fra referansene, for eksempel generell metode eller helse).
+- OK   6 utelatt W1990435680 «Psychiatric comorbidity in adults with attention-deficit/hyperactivity» (2006) – Publisert før 2010 (kriteriene: fra 2010); mekanismen er dekket av nyere kilder i utvalget.
+- OK   6 utelatt W4242501010 «Understanding Social Inequalities in Health» (2003) – Publisert før 2010 (kriteriene: fra 2010); mekanismen er dekket av nyere kilder i utvalget.
+- OK   6 utelatt W2891420385 «Child Protection and Adult Crime: Using Investigator Assignment to Est» (2008) – Publisert før 2010 (kriteriene: fra 2010); mekanismen er dekket av nyere kilder i utvalget.
+- OK   6 utelatt W2512638152 «Functional Adult Outcomes 16 Years After Childhood Diagnosis of Attent» (2016) – Utenfor temaet: verken unge eller uføreytelser (sentral kandidat fra referansene, for eksempel generell metode eller helse).
+- OK   6 utelatt W2492026736 «School Dropout and Completion» (2010) – Utenfor temaet: verken unge eller uføreytelser (sentral kandidat fra referansene, for eksempel generell metode eller helse).
+- OK   6 utelatt W2768662303 «Temporal trends in adolescents’ self-reported psychosomatic health com» (2017) – Unge, men utfallet er ikke uføreytelser (helse, utdanning eller arbeid).
+- OK   6 utelatt W2567267188 «Are we failing young people not in employment, education or training (» (2017) – NEET-studie uten egne tall for uføreytelser.
+- OK   6 utelatt W2379359886 «Parents’ mental health and children’s cognitive and social development» (2009) – Publisert før 2010 (kriteriene: fra 2010); mekanismen er dekket av nyere kilder i utvalget.
+- OK   6 utelatt W2966248724 «Association of Psychiatric Comorbidity With the Risk of Premature Deat» (2019) – Utenfor temaet: verken unge eller uføreytelser (sentral kandidat fra referansene, for eksempel generell metode eller helse).
+- OK   6 utelatt W2163967681 «Pathways to Social Exclusion--A Life-Course Study» (2010) – Unge, men utfallet er ikke uføreytelser (helse, utdanning eller arbeid).
+- OK   6 utelatt W2144367795 «Commentary: Advent of sibling designs» (2011) – Utenfor temaet: verken unge eller uføreytelser (sentral kandidat fra referansene, for eksempel generell metode eller helse).
+- OK   6 utelatt W2066238358 «Retirement on grounds of ill health» (2005) – Publisert før 2010 (kriteriene: fra 2010); mekanismen er dekket av nyere kilder i utvalget.
+- OK   6 utelatt W4379057104 «Risk Factors of Being a Youth Not in Education, Employment or Training» (2023) – NEET-studie uten egne tall for uføreytelser.
+- OK   6 utelatt W2057465738 «Which theory is best? Explanatory models of the relationship between u» (2009) – Publisert før 2010 (kriteriene: fra 2010); mekanismen er dekket av nyere kilder i utvalget.
+- OK   6 utelatt W2045353577 «Gender differences in sickness absence – the contribution of occupatio» (2010) – Utenfor temaet: verken unge eller uføreytelser (sentral kandidat fra referansene, for eksempel generell metode eller helse).
+- OK   6 utelatt W2605665656 «Systematic review of quality of life and functional outcomes in random» (2017) – Effektstudie av arbeidsrettet tiltak eller behandling, eget spørsmål (kriteriene).
+- OK   6 utelatt W2161330484 «Mental health and education decisions» (2015) – Utenfor temaet: verken unge eller uføreytelser (sentral kandidat fra referansene, for eksempel generell metode eller helse).
+- OK   6 utelatt W2792372188 «Has the attention deficit hyperactivity disorder phenotype become more» (2018) – Unge, men utfallet er ikke uføreytelser (helse, utdanning eller arbeid).
+- OK   6 utelatt W2028949171 «Prevalence, Patient Characteristics, and Pharmacological Treatment of » (2014) – Unge, men utfallet er ikke uføreytelser (helse, utdanning eller arbeid).
+- OK   6 utelatt W1985742699 «Inheritance of Welfare Recipiency: An Intergenerational Study of Socia» (2000) – Publisert før 2010 (kriteriene: fra 2010); mekanismen er dekket av nyere kilder i utvalget.
+- OK   6 utelatt W2970443440 «Perceived Teacher Support and Intentions to Quit Upper Secondary Schoo» (2019) – Unge, men utfallet er ikke uføreytelser (helse, utdanning eller arbeid).
+- OK   6 utelatt W1985396605 «Health, lifestyle, family and school factors in adolescence: predictin» (2006) – Publisert før 2010 (kriteriene: fra 2010); mekanismen er dekket av nyere kilder i utvalget.
+- OK   6 utelatt W2089087184 «Interrelationships between education, occupational social class, and i» (2012) – Unge og ytelser, men uføreytelse for unge er ikke utfallet eller studien gjelder en snever gruppe; vurdert på tittel og sammendrag og ikke valgt i noen av de to blinde utvalgene.
+- OK   6 utelatt W2301287267 «Internalizing Disorders as Risk Factors for Early School Leaving: A Sy» (2016) – Utenfor temaet: verken unge eller uføreytelser (sentral kandidat fra referansene, for eksempel generell metode eller helse).
+- OK   6 utelatt W1502479384 «AFDC Participation across Generations» (1990) – Publisert før 2010 (kriteriene: fra 2010); mekanismen er dekket av nyere kilder i utvalget.
+- OK   6 utelatt W2137486239 «Genetic Susceptibility to Sickness Absence is Similar Among Women and » (2012) – Utenfor temaet: verken unge eller uføreytelser (sentral kandidat fra referansene, for eksempel generell metode eller helse).
+- OK   6 utelatt W1988577613 «Extracting the causal component from the intergenerational correlation» (2007) – Publisert før 2010 (kriteriene: fra 2010); mekanismen er dekket av nyere kilder i utvalget.
+- OK   6 utelatt W3132246181 «Do EITC expansions pay for themselves? Effects on tax revenue and gove» (2021) – Utenfor temaet: verken unge eller uføreytelser (sentral kandidat fra referansene, for eksempel generell metode eller helse).
+- OK   6 utelatt W2923713244 «Not engaged in education, employment or training (NEET) in an Arctic s» (2019) – NEET-studie uten egne tall for uføreytelser.
+- OK   6 utelatt W2027343313 «Negative Life Events in Childhood as Risk Indicators of Labour Market » (2013) – Unge og ytelser, men uføreytelse for unge er ikke utfallet eller studien gjelder en snever gruppe; vurdert på tittel og sammendrag og ikke valgt i noen av de to blinde utvalgene.
+- OK   6 utelatt W128549540 «Risk of disability pension in relation to gender and age in a Swedish » (2006) – Publisert før 2010 (kriteriene: fra 2010); mekanismen er dekket av nyere kilder i utvalget.
+- OK   6 utelatt W1576605995 «New evidence on the intergenerational correlation in welfare participa» (2004) – Publisert før 2010 (kriteriene: fra 2010); mekanismen er dekket av nyere kilder i utvalget.
+- OK   6 utelatt W1788083073 «Alcohol consumption, problem drinking, abstention and disability pensi» (2011) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W2998537724 «Health, work and demographic factors associated with a lower risk of w» (2019) – Studie av én somatisk diagnose eller klinisk gruppe; forklarer ikke utviklingen blant unge uføre.
+- OK   6 utelatt W4414933277 «Young adults not in education, employment, or training (NEET): a globa» (2025) – NEET-studie uten egne tall for uføreytelser.
+- OK   6 utelatt W4400794153 «Beyond the mind: Understanding the influence of mental health on youth» (2024) – NEET-studie uten egne tall for uføreytelser.
+- OK   6 utelatt W4376870777 «Impact of mental disorders during education on work participation: a r» (2023) – Metode-, register- eller instrumentbeskrivelse, ikke studie av unge uføre.
+- OK   6 utelatt W2758762738 «The relationship between self-efficacy and transition to work or studi» (2017) – Unge og ytelser, men uføreytelse for unge er ikke utfallet eller studien gjelder en snever gruppe; vurdert på tittel og sammendrag og ikke valgt i noen av de to blinde utvalgene.
+- OK   6 utelatt W4319462044 «Perceived parental alcohol problems and later dropout and grade point » (2023) – Metode-, register- eller instrumentbeskrivelse, ikke studie av unge uføre.
+- OK   6 utelatt W4393993802 «Secular trends in risk factors for adolescent anxiety and depression s» (2024) – Unge, men utfallet er ikke uføreytelser (helse, utdanning eller arbeid).
+- OK   6 utelatt W4385322169 «Genetic and environmental contributions to individual differences in s» (2023) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W4416382522 «Systematic review of the relationship between chronic health condition» (2025) – Unge og ytelser, men uføreytelse for unge er ikke utfallet eller studien gjelder en snever gruppe; vurdert på tittel og sammendrag og ikke valgt i noen av de to blinde utvalgene.
+- OK   6 utelatt W7155080500 «Work-related support for autistic individuals: patterns and perceived » (2026) – Utenfor temaet: verken unge eller uføreytelser (sentral kandidat fra referansene, for eksempel generell metode eller helse).
+- OK   6 utelatt W2336678555 «Diagnostic and Statistical Manual of Mental Disorders(DSM)» (2008) – Publisert før 2010 (kriteriene: fra 2010); mekanismen er dekket av nyere kilder i utvalget.
+- OK   6 utelatt W1493182793 «A report: the definition and classification of cerebral palsy April 20» (2007) – Publisert før 2010 (kriteriene: fra 2010); mekanismen er dekket av nyere kilder i utvalget.
+- OK   6 utelatt W2971521406 «Attention deficit hyperactivity disorder and comorbidity: A review of » (2019) – Unge, men utfallet er ikke uføreytelser (helse, utdanning eller arbeid).
+- OK   6 utelatt W1970004112 «The Rise In Chronic Conditions Among Infants, Children, And Youth Can » (2014) – Unge og ytelser, men uføreytelse for unge er ikke utfallet eller studien gjelder en snever gruppe; vurdert på tittel og sammendrag og ikke valgt i noen av de to blinde utvalgene.
+- OK   6 utelatt W2519328654 «Association between polygenic risk scores for attention-deficit hypera» (2016) – Unge, men utfallet er ikke uføreytelser (helse, utdanning eller arbeid).
+- OK   6 utelatt W1926419782 «Impact of adolescent peer aggression on later educational and employme» (2015) – Land utenfor Skandinavia uten design i kategori 1–3 som forklarer tilgangen blant unge (kriteriene om land).
+- OK   6 utelatt W4384562813 «Educational achievement among children with a disability: do parental » (2023) – Uføre, sykefravær eller ytelser i alle aldre uten egne tall for unge (kriteriene).
+- OK   6 utelatt W4408246088 «ADHD in adults and criminal behavior: The role of psychiatric comorbid» (2025) – Utenfor temaet: verken unge eller uføreytelser (sentral kandidat fra referansene, for eksempel generell metode eller helse).
+- OK   6 utelatt W4413258871 «Fluctuating course of attention-deficit/hyperactivity disorder across » (2025) – Utenfor temaet: verken unge eller uføreytelser (sentral kandidat fra referansene, for eksempel generell metode eller helse).
+- OK   9 kort-svar-blind.md finnes
+- OK   9 innholdskontroll har raden «kort svar»
+- OK   9 blind lesing 0198cc84729b-a09bd70a-765d-4bbb-a164-84a96be028c2 i budskap.tsv
+- OK   9 blind lesing 0198f22710a7-9891d74a-fefc-44a0-927c-96a4a3d8525a i budskap.tsv
+- OK   9 blind lesing 019909c23973-ea65712e-ebc7-454b-b8df-def7f6bf6e87 i budskap.tsv
+- OK   9 blind lesing 019c9524cfcc-39907780-0d56-4239-9b5d-80237da5e2eb i budskap.tsv
+- OK   9 blind lesing AV-2015-1-03 i budskap.tsv
+- OK   9 blind lesing AV-2015-3-07 i budskap.tsv
+- OK   9 blind lesing AV-2018-2-04 i budskap.tsv
+- OK   9 blind lesing AV-2020-2-04 i budskap.tsv
+- OK   9 blind lesing AV-2021-1-06 i budskap.tsv
+- OK   9 blind lesing AV-2022-2-02 i budskap.tsv
+- OK   9 blind lesing AV-2022-3-05 i budskap.tsv
+- OK   9 blind lesing AV-2023-1-01 i budskap.tsv
+- OK   9 blind lesing AV-2023-2-07 i budskap.tsv
+- OK   9 blind lesing KU-c48cd033-8718-4bb3-a149-7bc9f67459cf i budskap.tsv
+- OK   9 blind lesing KU-f0f528eb-0eaf-4e6b-bcb1-5b5b44367324 i budskap.tsv
+- OK   9 blind lesing NB-4593 i budskap.tsv
+- OK   9 blind lesing R-741042958e i budskap.tsv
+- OK   9 blind lesing R-91a7b6c512 i budskap.tsv
+- OK   9 blind lesing R-c354ed68d0 i budskap.tsv
+- OK   9 blind lesing R-e0bf5ced86 i budskap.tsv
+- OK   9 blind lesing R-f51590820c i budskap.tsv
+- OK   9 blind lesing W1562236787 i budskap.tsv
+- OK   9 blind lesing W1967551067 i budskap.tsv
+- OK   9 blind lesing W2102173634 i budskap.tsv
+- OK   9 blind lesing W2104893223 i budskap.tsv
+- OK   9 blind lesing W2127924530 i budskap.tsv
+- OK   9 blind lesing W2160015399 i budskap.tsv
+- OK   9 blind lesing W2212575307 i budskap.tsv
+- OK   9 blind lesing W2786011848 i budskap.tsv
+- OK   9 blind lesing W2929109866 i budskap.tsv
+- OK   9 blind lesing W3007697702 i budskap.tsv
+- OK   9 blind lesing W3123524712 i budskap.tsv
+- OK   9 blind lesing W3186518967 i budskap.tsv
+- OK   9 blind lesing W4220875817 i budskap.tsv
+- OK   9 blind lesing W4280593459 i budskap.tsv
+- OK   9 blind lesing W4323066482 i budskap.tsv
+- OK   9 blind lesing W4366083399 i budskap.tsv
+- OK   9 blind lesing W4385349285 i budskap.tsv
+- OK   9 blind lesing W604728786 i budskap.tsv

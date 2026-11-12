@@ -1,0 +1,25 @@
+{
+ "apen_url": "https://www.richmondfed.org/-/media/RichmondFedOrg/publications/research/working_papers/2023/wp23-11.pdf",
+ "ar": 2023,
+ "doi": "https://doi.org/10.1016/j.jmoneco.2026.103958",
+ "forfattere": [
+  "Federal Reserve Bank of Richmond",
+  "Andreas Hornstein Z",
+  "Marios Karabarbounis",
+  "Federal Reserve Bank of Richmond",
+  "André Kurmann",
+  "Étienne Lalé",
+  "Lien Ta"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "https://www.richmondfed.org/-/media/RichmondFedOrg/publications/research/working_papers/2023/wp23-11.pdf",
+ "hvordan": "pdf",
+ "id": "W4388464631",
+ "kilde": "Journal of Monetary Economics",
+ "lenke": "https://openalex.org/W4388464631",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "Unemployment insurance (UI) acts both as a disincentive for labor supply and as a demand stimulus which may explain why empirical studies often find limited effects of UI on employment.This paper provides independent estimates of the disincentive effects arising from the largest expansion of UI in U.S. history, the pandemic unemployment benefits.Using high-frequency data on small restaurants and retailers from Homebase, we control for local demand effects by comparing neighboring businesses that largely share the positive impact of UI stimulus.We find that employment in low-wage businesses recovered more slowly than employment in high-wage businesses in labor markets with larger differences in the relative generosity of pandemic UI benefits.According to a labor search model that replicates the estimated employment differences between low-and high-wage businesses, the disincentive effects from the pandemic UI programs held back the aggregate employment recovery by 4.7 percentage points between April and December 2020.",
+ "tittel": "Disincentive Effects of Unemployment Insurance Benefits",
+ "type": "article"
+}

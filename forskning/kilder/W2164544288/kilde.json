@@ -1,0 +1,15 @@
+{
+ "ar": 2014,
+ "doi": "https://doi.org/10.1111/labr.12040",
+ "forfattere": [
+  "Knut Røed",
+  "Jens Fredrik Skogstrøm"
+ ],
+ "id": "W2164544288",
+ "kilde": "Labour",
+ "lenke": "https://openalex.org/W2164544288",
+ "oversikt": false,
+ "sammendrag": "Abstract Based on administrative registers from Norway, we examine how unemployment insurance (UI) and active labor market programs (ALMP) affect the transition rates from unemployment to regular employment and entrepreneurship, as well as subsequent earnings levels. We find that both the employment and entrepreneurship hazards rise sharply in response to UI sanctions and UI exhaustion. On average, transitions to entrepreneurship are more profitable than transitions to regular employment. While employment transitions are highly pro‐cyclical, entrepreneurship transitions are weakly counter‐cyclical. ALMPs targeted at entrepreneurship are rare in Norway, but the few start‐up subsidies that are provided are successful in terms of generating paid work.",
+ "tittel": "Unemployment Insurance and Entrepreneurship",
+ "type": "article"
+}

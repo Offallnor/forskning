@@ -1,0 +1,23 @@
+{
+ "apen_url": "https://www.sjweh.fi/download.php?abstract_id=4126&file_nro=1",
+ "ar": 2023,
+ "doi": "https://doi.org/10.5271/sjweh.4126",
+ "forfattere": [
+  "Bjørnar Finnanger Garshol",
+  "Stein Knardahl",
+  "Jan Shahid Emberland",
+  "Øivind Skare",
+  "Håkon A. Johannessen"
+ ],
+ "hentet": "2026-11-08",
+ "hentet_fra": "https://www.sjweh.fi/pdf-236398-144257?filename=Effects-of-the-Labor-Insp.pdf",
+ "hvordan": "pdf",
+ "id": "W4388017094",
+ "kilde": "Scandinavian Journal of Work Environment & Health",
+ "lenke": "https://openalex.org/W4388017094",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "OBJECTIVE: This study aimed to determine the effects of the Labor Inspection Authority's regulatory tools on physician-certified sick leave and self-reported health outcomes among employees in municipal home-care services in Norway. METHODS: We conducted a cluster-randomized controlled trial in the home-care service sector, and 96 eligible municipalities were randomly assigned to one of three groups: (i) labor inspection visits, based on the Labor Inspection Authority's standard inspections; (ii) guidance-through-workshops, where participants from home-care services met with labor inspectors to receive information and discuss relevant topics; and (iii) the control group. Data on employee self-reported health (N=1669) were collected at baseline and 6 and 12 months after the interventions. Additionally, registry data (N=1202) on diagnosis specific physician-certified sick leave were collected for 18 months after the interventions. RESULTS: We found no statistically significant effects of either intervention on self-reported health outcomes. There was, for both interventions, a pattern of decrease in days and periods of physician-certified sick leave due to musculoskeletal diagnoses and increase in days and periods of physician-certified sick leave due to psychological diagnoses, but these were not statistically significant. CONCLUSION: Labor inspections and guidance-through-workshops had no statistically significant effect on self-reported health and physician-certified sick leave. The results should be interpreted with caution given the low response rate and subsequent attrition, and in the context of the COVID-19 pandemic. Future studies, in various industries, should further elucidate whether regulatory tools influence employee health and sick leave due to musculoskeletal and mental disorders.",
+ "tittel": "Effects of the Labor Inspection Authority’s regulatory tools on physician-certified sick leave and employee health in Norwegian home-care services – a cluster randomized controlled trial",
+ "type": "article"
+}

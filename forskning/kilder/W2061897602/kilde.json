@@ -1,0 +1,15 @@
+{
+ "ar": 1994,
+ "doi": "https://doi.org/10.1080/135048594358104",
+ "forfattere": [
+  "Phanindra V. Wunnava",
+  "Syed Ali Raza Mehdi"
+ ],
+ "id": "W2061897602",
+ "kilde": "Applied Economics Letters",
+ "lenke": "https://openalex.org/W2061897602",
+ "oversikt": false,
+ "sammendrag": "This paper empirically analyses the impact of the unemployment insurance system upon the insured unemployment rate and the average duration of unemployment. It employs a simultaneous equation framework because of possible feedback effects between the insured unemployment rate and the average duration of unemployment. Based on a pooled crosssectional time-series model (covering all the 50 states in the USA for the years 1967–88) that corrects for heteroscedasticity and autocorrelation, and the results show some support for the hypothesis that the unemployment insurance system, by providing workers with a safety net, increases both the insured unemployment rate and the duration period.",
+ "tittel": "The effect of unemployment insurance on unemployment rate and average duration: evidence from pooled cross-sectional time-series data",
+ "type": "article"
+}

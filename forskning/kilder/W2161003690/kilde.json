@@ -1,0 +1,16 @@
+{
+ "ar": 2005,
+ "forfattere": [
+  "Anton Nivorozhkin"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "https://doku.iab.de/veranstaltungen/2005/eval2005_nivorozkhin.pdf",
+ "hvordan": "pdf",
+ "id": "W2161003690",
+ "lenke": "https://openalex.org/W2161003690",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "Temporary layoffs tend to represent an important source of worker-firm attachment. We investigate the determinants of the duration of temporary layoffs using matched employee-employer dataset from Sweden. The impacts of covariates and the shapes of hazard functions vary depending on the destination of transition: recall or new job. We reject the hypothesis that firms tend to recall workers who approach the unemployment benefit exhaustion. However, we are not able to rule out the possibility that firms behave strategically through prioritizing rehiring the individuals with relatively short periods of unemployment compensation entitlement.",
+ "tittel": "Duration of Temporary Layoffs, Impact of Tenure and Enterprise Characteristics: Evidence from Sweden",
+ "type": "article"
+}

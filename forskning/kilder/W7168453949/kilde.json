@@ -1,0 +1,17 @@
+{
+ "apen_url": "https://pure.ulster.ac.uk/en/publications/d5de7d42-ff8b-4c16-ae88-46291ed5d148",
+ "ar": 2026,
+ "doi": "https://doi.org/10.1108/ijopm-06-2025-0543",
+ "forfattere": [
+  "Cuneyt Eroglu",
+  "Frank Wiengarten",
+  "Sebastián Javier García-Dastugue"
+ ],
+ "id": "W7168453949",
+ "kilde": "International Journal of Operations & Production Management",
+ "lenke": "https://openalex.org/W7168453949",
+ "oversikt": false,
+ "sammendrag": "Purpose Prior research has treated workplace accidents and safety violations detected in OSHA inspections as interchangeable measures without empirical justification. Drawing on organizational learning theory, this study investigates whether and how organizations learn differently from inspections and violations to improve workplace health and safety. Design/methodology/approach We analyze a five-year panel dataset (2016–2020) comprising 32,943 firm-year observations from 9,004 U.S. manufacturing establishments. We collect secondary data from the OSHA Establishment Specific Injury and Illness Data, OSHA Enforcement Data, and QuantGov. We employ a linear mixed-effects model to examine associations between OSHA inspections, violations found in these inspections, and subsequent accident rates. Findings An OSHA inspection by itself is associated with approximately a 2% lower accident rates in the following year, regardless of whether any violations are found, suggesting that inspections function as attention-activating events. However, isolated violations show no significant association with subsequent accident rates. In contrast, repeated OSHA-identified violations over multiple years are associated with higher accident rates, indicating the institutionalization of unsafe practices among persistent offenders. Inspection type matters: referral-based and planned inspections are associated with reduced accidents, while complaint-based inspections are not. Research limitations/implications This study examines associations rather than causal relationships. Findings are limited to U.S. manufacturing over a five-year period and may not be generalizable to other industries or regulatory contexts. Practical implications Regulators should differentiate enforcement approaches for occasional versus repeat offenders. Expanding inspection coverage may be more effective than increasing penalty severity. Managers can use internal inspections as learning triggers even without penalties. Originality/value This study challenges the assumption that violations and accidents are equivalent safety measures. By applying organizational learning theory, we provide evidence that inspections and violations operate through distinct mechanisms – inspections as attention-directing events, violations as weak signals unless repeated.",
+ "tittel": "Exploring the differences between violations and accidents: how do companies learn to provide safe workplaces?",
+ "type": "article"
+}

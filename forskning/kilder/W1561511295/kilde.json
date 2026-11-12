@@ -1,0 +1,22 @@
+{
+ "apen_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/j.2051-5545.2011.tb00035.x",
+ "ar": 2011,
+ "doi": "https://doi.org/10.1002/j.2051-5545.2011.tb00035.x",
+ "forfattere": [
+  "Margaret Heslin",
+  "Louise Michele Howard",
+  "Morven Leese",
+  "Paul McCrone",
+  "Christopher D. Rice",
+  "Manuela Jarrett",
+  "Terry Spokes",
+  "Peter John Huxley"
+ ],
+ "id": "W1561511295",
+ "kilde": "World Psychiatry",
+ "lenke": "https://openalex.org/W1561511295",
+ "oversikt": false,
+ "sammendrag": "Studies from North America have concluded that supported employment using the Individual Placement and Support (IPS) model is effective in helping individuals with severe and persistent mental illness gain competitive employment. The aim of this study was to investigate the effectiveness and cost-effectiveness of IPS in England in patients followed up for 2 years. Patients with severe mental illness were randomised to IPS or local vocational services (treatment as usual). Service use and costs were measured. Two hundred-nineteen participants were randomised, and 86% re-assessed 2 years later. In the multivariate analysis, relatively low rates of competitive employment were found in both the intervention group and the treatment as usual group, although significantly more patients obtained competitive employment in the treatment arm (22% vs. 11%, p=0.041). There were no significant differences in costs. The employment rate among participants receiving IPS was lower than in previously published reports, and the number needed to treat to obtain the benefit of IPS was relatively high. This may reflect difficulties in the implementation of IPS where it is not structurally integrated within mental health teams, as well as economic disincentives which lead to lower levels of motivation for patients and mental health professionals.",
+ "tittel": "Randomized controlled trial of supported employment in England: 2 year follow‐up of the Supported Work and Needs (SWAN) study",
+ "type": "article"
+}

@@ -1,0 +1,14 @@
+{
+ "ar": 2006,
+ "doi": "https://doi.org/10.1002/jae.818",
+ "forfattere": [
+  "José Ignacio García Pérez"
+ ],
+ "id": "W2113717108",
+ "kilde": "Journal of Applied Econometrics",
+ "lenke": "https://openalex.org/W2113717108",
+ "oversikt": false,
+ "sammendrag": "Abstract This paper considers a job search model in which the environment is not constant throughout the unemployment spell and where jobs do not last for ever. In this situation, reservation wages can be lower than they would be in a model without consideration of such separations, but they can initially be higher precisely because of the non‐constant environment. The model is estimated structurally by using Spanish data for the period 1985–1996. The main finding is that, after controlling for unobserved heterogeneity, the unemployment hazard rate is almost flat during the first six months. However, after this duration, the highly decreasing job offer arrival rate comes to be the only significant factor, given that acceptance probabilities become equal to one. The estimated parameters are used to evaluate different unemployment insurance designs. We conclude that a non‐monotonic pattern in unemployment benefits, joint with a tax paid by workers and based on unemployment duration, makes this duration 13.2% lower than it currently is in Spain. Copyright © 2006 John Wiley & Sons, Ltd.",
+ "tittel": "Job separation in a non‐stationary search model: a structural estimation to evaluate alternative unemployment insurance systems",
+ "type": "article"
+}

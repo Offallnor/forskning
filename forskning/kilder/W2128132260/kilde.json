@@ -1,0 +1,23 @@
+{
+ "apen_url": "https://academic.oup.com/jpubhealth/article-pdf/37/1/138/4444704/fdu043.pdf",
+ "ar": 2014,
+ "doi": "https://doi.org/10.1093/pubmed/fdu043",
+ "forfattere": [
+  "T. Braun",
+  "Clare L Bambra",
+  "Mark Booth",
+  "Kassim Adetayo",
+  "Eugene M. G. Milne"
+ ],
+ "hentet": "2026-11-09",
+ "hentet_fra": "https://outputs.ncl.ac.uk/ndownloader/files/69836130",
+ "hvordan": "pdf",
+ "id": "W2128132260",
+ "kilde": "Journal of Public Health",
+ "lenke": "https://openalex.org/W2128132260",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "BACKGROUND: This paper presents the results of an evaluation of the Better Health at Work Award-a structured regional workplace health programme which combined changes to the work environment with lifestyle interventions. METHODS: Baseline and follow-up data on sickness-absence rates and programme costs were collected retrospectively via a web survey of all participating organizations. Changes over time were calculated using 95% confidence intervals of the mean, supplemented by hypothesis testing using a t-test. The indicative cost-benefits of the intervention were also calculated. RESULTS: Participation was associated with a mean reduction in sickness absence of 0.26-1.6 days per employee per year depending on the length and level of participation in the programme. The estimated cost for the programme was £3 per sickness-absence day saved. CONCLUSIONS: These results suggest that the Better Health at Work Award could be a cost-effective way of improving health and reducing sickness absence particularly in the public sector. However, controlled evaluations of future interventions are needed.",
+ "tittel": "Better health at work? An evaluation of the effects and cost-benefits of a structured workplace health improvement programme in reducing sickness absence",
+ "type": "article"
+}

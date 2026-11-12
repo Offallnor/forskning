@@ -1,0 +1,24 @@
+{
+ "ar": 2017,
+ "doi": "https://doi.org/10.1177/0269215517699976",
+ "forfattere": [
+  "Andy Cochrane",
+  "Niamh M. Higgins",
+  "Oliver FitzGerald",
+  "Pamela Gallagher",
+  "Jennifer Ashton",
+  "Oriel Corcoran",
+  "Deirdre M. Desmond"
+ ],
+ "hentet": "2026-11-09",
+ "hentet_fra": "https://mural.maynoothuniversity.ie/id/eprint/10596/1/DD-Early-2017.pdf",
+ "hvordan": "pdf",
+ "id": "W2599512444",
+ "kilde": "Clinical Rehabilitation",
+ "lenke": "https://openalex.org/W2599512444",
+ "merknad": "",
+ "oversikt": true,
+ "sammendrag": "OBJECTIVES: To determine the effectiveness of early multidisciplinary interventions in promoting work participation and reducing work absence in adults with regional musculoskeletal pain. DATA SOURCES: Seven databases (CENTRAL, CINAHL, EMBASE, MEDLINE, Scopus, OT Seeker, PEDro; 1990 to December 2016) were searched for eligible studies. REVIEW METHODS: Trials were included if they reported on work-based outcomes for participants experiencing difficulties at work or ≤ three months' sick leave. Interventions had to include two or more elements of the biopsychosocial model delivered as a coordinated programme. Quality was assessed using the GRADE criteria. Results were analysed by hazard ratios for return to work data; continuous outcomes were analysed as standardised mean difference with 95% confidence intervals. RESULTS: A total of 20 randomized controlled trials, with 16,319 participants were included; the interventions were grouped according to their main components for meta-analyses. At 12-months follow-up, moderate quality evidence suggests that programmes involving a stepped care approach (four studies) were more effective than the comparisons in promoting return to work (hazard ratio (HR) 1.29 (95% confidence interval (CI) 1.03 to 1.61), p = 0.03), whereas case management (two studies) was not (HR 0.92 (95% CI 0.69 to 1.24), p = 0.59). Analyses suggested limited effectiveness in reducing sickness absences, in pain reduction or functional improvement across the intervention categories. CONCLUSION: There is uncertainty as to the effectiveness of early multicomponent interventions owing to the clinical heterogeneity and varying health and social insurance systems across the trials.",
+ "tittel": "Early interventions to promote work participation in people with regional musculoskeletal pain: a systematic review and meta-analysis",
+ "type": "review"
+}

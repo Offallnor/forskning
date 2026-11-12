@@ -1,0 +1,18 @@
+{
+ "apen_url": "https://spire.sciencespo.fr/hdl:/2441/4n249fe9fu9n7qnntf71h06q6n",
+ "ar": 2015,
+ "doi": "https://doi.org/10.13140/rg.2.1.3687.4324",
+ "forfattere": [
+  "Elisa Guglielminetti",
+  "Rafael Lalive",
+  "Philippe Ruh",
+  "Étienne Wasmer"
+ ],
+ "id": "W2298662093",
+ "kilde": "RePEc: Research Papers in Economics",
+ "lenke": "https://openalex.org/W2298662093",
+ "oversikt": false,
+ "sammendrag": "Job search is a spatially oriented activity. Searching farther is costly, and working far away from home entails high costs, affecting job acceptance decisions. We build a simple theoretical framework where job seekers choose how much to search, how far to search, and what lowest wage they accept for a given commute distance. In this setup, unemployment insurance discourages broader job search through reducing the net gain from getting a job. Opposite forces encourage broader search, either through the re-entitlement effect or, under liquidity constraints, to finance costly spatial job search.We use a unique dataset on all workers entering unemployment in Austria between 1995 to 2004 to investigate these forces. We find that newly unemployed workers initially find relatively more frequently jobs in the same workplace as they used to be employed. As the unemployment spell gets longer, they both accept lower wages and progressively enlarge their radius of search, ending up with a job farther away from their previous workplace (but not necessarily farther away from their residence). Unemployment insurance reduces reservation wages at a given accepted commute distance, and encourages search outside the municipality of the previous job. Reducing potential benefit duration affects wages and commuting distance more strongly than changes in the benefit level.",
+ "tittel": "Spatial search strategies of job seekers and the role of unemployment insurance",
+ "type": "preprint"
+}

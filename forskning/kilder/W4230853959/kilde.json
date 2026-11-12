@@ -1,0 +1,21 @@
+{
+ "apen_url": "http://www.frbsf.org/economic-research/files/wp2013-09.pdf",
+ "ar": 2013,
+ "doi": "https://doi.org/10.24148/wp2013-09",
+ "forfattere": [
+  "Henry S. Farber",
+  "Robert G. Valletta",
+  "Federal Reserve Bank of San Francisco"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "http://www.frbsf.org/economic-research/files/wp2013-09.pdf",
+ "hvordan": "pdf",
+ "id": "W4230853959",
+ "kilde": "Federal Reserve Bank of San Francisco, Working Paper Series",
+ "lenke": "https://openalex.org/W4230853959",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "In response to the Great Recession and sustained labor market downturn, the availability of unemployment insurance (UI) benefits was extended to new historical highs in the United States, up to 99 weeks as of late 2009 into 2012. We exploit variation in the timing and size of UI benefit extensions across states to estimate the overall impact of these extensions on unemployment duration, comparing the experience with the prior extension of benefits (up to 72 weeks) during the much milder downturn in the early 2000s. Using monthly matched individual data from the U.S. Current Population Survey (CPS) for the periods 2000-2005 and 2007-2012, we estimate the effects of UI extensions on unemployment transitions and duration. We rely on individual variation in benefit availability based on the duration of unemployment spells and the length of UI benefits available in the state and month, conditional on state economic conditions and individual characteristics. We find a small but statistically significant reduction in the unemployment exit rate and a small increase in the expected duration of unemployment arising from both sets of UI extensions. The effect on exits and duration is primarily due to a reduction in exits from the labor force rather than a decrease in exits to employment (the job finding rate). The magnitude of the overall effect on exits and duration is similar across the two episodes of benefit extensions. Although the overall effect of UI extensions on exits from unemployment is small, it implies a substantial effect of extended benefits on the steady-state share of unemployment in the cross-section that is long-term.",
+ "tittel": "Do Extended Unemployment Benefits Lengthen Unemployment Spells? Evidence from Recent Cycles in the U.S. Labor Market",
+ "type": "article"
+}

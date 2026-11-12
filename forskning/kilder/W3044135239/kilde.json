@@ -1,0 +1,23 @@
+{
+ "apen_url": "https://bmcpublichealth.biomedcentral.com/track/pdf/10.1186/s12889-020-09205-3",
+ "ar": 2020,
+ "doi": "https://doi.org/10.1186/s12889-020-09205-3",
+ "forfattere": [
+  "Therese N. Hanvold",
+  "Petter Kristensen",
+  "Karina Corbett",
+  "Rachel Louise Hasting",
+  "Ingrid Sivesind Mehlum"
+ ],
+ "hentet": "2026-11-09",
+ "hentet_fra": "https://bmcpublichealth.biomedcentral.com/track/pdf/10.1186/s12889-020-09205-3",
+ "hvordan": "pdf",
+ "id": "W3044135239",
+ "kilde": "BMC Public Health",
+ "lenke": "https://openalex.org/W3044135239",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "BACKGROUND: The study objective was to evaluate the impact of a population-level intervention (the IA Agreement) on the of one-year risk for long-term sickness absence spells (LSAS) among young and middle aged workers in Norway. METHODS: Using an observational design, we conducted a quasi-experimental study to analyse registry data on individual LSAS for all employed individuals in 2000 (n = 298,690) and 2005 (n = 352,618), born in Norway between 1976 and 1967. The intervention of interest was the tripartite agreement for a more inclusive working life (the IA Agreement). We estimated difference in pre-post differences (DID) in LSAS between individuals working in IA companies with the intervention and companies without, in 2000 and 2005. We used logistic regression models and present odds ratios (DID OR) with accompanying 95% CI. We stratified analyses by sex, industry and company size. RESULTS: We found no significant change in the overall risk of long-term sickness absence spells after implementing the intervention among young and middle aged workers. Stratified by sex, the intervention resulted in a slight decrease in LSAS risk among female workers (DID OR 0.93 (0.91-0.96)) while the intervention showed no impact among male workers (DID OR 1.01 (0.97-1.06)). We found that companies signing the IA Agreement were large (≥50 employees) and often within the manufacturing and health and social sectors. In large manufacturing companies, we found a reduction in LSAS, among workers both in companies with and without the intervention, resulting in no statistically significant impact of the IA intervention. In large health and social companies, we found an increase in LSAS among workers both in companies with and without the intervention. The increase was smaller among the workers in companies offering the IA intervention compared with workers in companies without, resulting in a positive impact of the IA intervention in the health and social industry. This impact was statistically significant only among female workers. CONCLUSIONS: The results indicate that the impact of the IA Agreement on the risk of long-term sickness absence spells varies considerably depending on sex and industry. These findings suggest that reducing LSAS may warrant industry-specific interventions.",
+ "tittel": "Long-term sickness absence among young and middle-aged workers in Norway: the impact of a population-level intervention",
+ "type": "article"
+}

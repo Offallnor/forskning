@@ -1,0 +1,26 @@
+{
+ "apen_url": "https://oem.bmj.com/content/oemed/77/7/454.full.pdf",
+ "ar": 2020,
+ "doi": "https://doi.org/10.1136/oemed-2019-106353",
+ "forfattere": [
+  "Marijke Keus van de Poll",
+  "Lotta Nybergh",
+  "Caroline Lornudd",
+  "Jan Hagberg",
+  "Lennart Bodin",
+  "Lydia Kwak",
+  "Irene B. Jensen",
+  "Malin Lohela-Karlsson"
+ ],
+ "hentet": "2026-11-09",
+ "hentet_fra": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7306872/fullTextXML",
+ "hvordan": "Europe PMC",
+ "id": "W3015192800",
+ "kilde": "Occupational and Environmental Medicine",
+ "lenke": "https://openalex.org/W3015192800",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "OBJECTIVES: Common mental disorders (CMDs) are among the main causes of sickness absence and can lead to suffering and high costs for individuals, employers and the society. The occupational health service (OHS) can offer work-directed interventions to support employers and employees. The aim of this study was to evaluate the effect on sickness absence and health of a work-directed intervention given by the OHS to employees with CMDs or stress-related symptoms. METHODS: Randomisation was conducted at the OHS consultant level and each consultant was allocated into either giving a brief problem-solving intervention (PSI) or care as usual (CAU). The study group consisted of 100 employees with stress symptoms or CMDs. PSI was highly structured and used a participatory approach, involving both the employee and the employee's manager. CAU was also work-directed but not based on the same theoretical concepts as PSI. Outcomes were assessed at baseline, at 6 and at 12 months. Primary outcome was registered sickness absence during the 1-year follow-up period. Among the secondary outcomes were self-registered sickness absence, return to work (RTW) and mental health. RESULTS: A statistical interaction for group × time was found on the primary outcome (p=0.033) and PSI had almost 15 days less sickness absence during follow-up compared with CAU. Concerning the secondary outcomes, PSI showed an earlier partial RTW and the mental health improved in both groups without significant group differences. CONCLUSION: PSI was effective in reducing sickness absence which was the primary outcome in this study.",
+ "tittel": "Preventing sickness absence among employees with common mental disorders or stress-related symptoms at work: a cluster randomised controlled trial of a problem-solving-based intervention conducted by the Occupational Health Services",
+ "type": "article"
+}

@@ -1,0 +1,20 @@
+{
+ "apen_url": "http://hdl.handle.net/10419/177104",
+ "ar": 2018,
+ "doi": "https://doi.org/10.48548/pubdata-2306",
+ "forfattere": [
+  "Inna Petrunyk",
+  "Christian Pfeifer"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "https://docs.iza.org/dp11300.pdf",
+ "hvordan": "pdf",
+ "id": "W3125979033",
+ "kilde": "RePEc: Research Papers in Economics",
+ "lenke": "https://openalex.org/W3125979033",
+ "merknad": "ÅPEN VERSJON (preprint eller arbeidsnotat), merkes i svaret",
+ "oversikt": false,
+ "sammendrag": "This paper explores the effects of a major reform of unemployment benefits in Germany on the labor market outcomes of individuals with some health impairment. The reform induced a substantial reduction in the potential duration of regular unemployment benefits for older workers. This work analyzes the reform in a wider framework of institutional interactions, which allows us to distinguish between its intended and unintended effects. Our results provide causal evidence for a significant decrease in the number of days in unemployment benefits and increase in the number of days in employment. However, they also suggest a significant increase in the number of days in unemployment assistance, granted upon exhaustion of unemployment benefits. Transitions to unemployment assistance represent an unintended effect, limiting the success of a policy change that aims to increase labor supply via reductions in the generosity of the unemployment insurance system.",
+ "tittel": "Shortening the potential duration of unemployment benefits and labor market outcomes: Evidence from a natural experiment in Germany",
+ "type": "preprint"
+}

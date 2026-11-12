@@ -1,0 +1,183 @@
+# Første utvalg 8.11.2026 (IPS og arbeid)
+# Foreslått i mandatet (bekreftet av søket)
+W2887225311  # Reme mfl. 2019, norsk IPS-forsøk, foreslått i mandatet (SJWEH)
+W2128048144  # Suijkerbuijk mfl. 2017, Cochrane nettverksmetaanalyse, foreslått i mandatet
+# Kategori 1: oversikter og metaanalyser
+0198cc7f9af9-06c4fc37-40b7-4fc9-91df-6bbf79ea07ae  # FHI 2023, systematisk oversikt over IPS ved moderate til alvorlige psykiske lidelser eller rus
+KU-20df45d3-0444-4584-a6e2-1a4a558cfaf1  # samme materiale som 0198cc7f9af9-06c4fc37-40b7-4fc9-91df-6bbf79ea0 (Kudos)
+W2738957630  # FHI 2017, Supported Employment for arbeidssøkere med bistandsbehov, systematisk oversikt
+LI-bpw8qbkn8pwlg8q9  # SBU 2020, IPS for personer med psykisk funktionsnedsättning (valgt på tittel)
+W4295805873  # Kinoshita mfl. 2013, Cochrane-oversikt supported employment
+W2169254240  # Crowther mfl. 2001, systematisk oversikt
+W2338814622  # Modini mfl. 2016, metaanalyse av internasjonal evidens
+W2915389400  # Frederick og VanderWeele 2019, metaanalyse av RCT-er om IPS
+W2103982358  # Bond mfl. 2008, oppdatering av RCT-er
+W2093242322  # Bond mfl. 2012, generaliserbarhet utenfor USA
+W2141187495  # Campbell mfl. 2009, hvem har nytte av supported employment, metaanalyse
+W4285039391  # 2022, hvem har nytte av IPS, metaanalyse
+W2987143591  # Brinchmann mfl. 2019, metaregresjon om politikk og effekt av IPS
+W2757770936  # Metcalfe mfl. 2017, økonomiske og regulatoriske moderatorer, systematisk oversikt
+W2886355266  # Richter og Hoffmann 2018, supported employment i ordinær drift, metaanalyse
+W4304187576  # Bond mfl. 2022, metaanalyse av IPS for unge voksne
+W2139568741  # Bond mfl. 2014, arbeid og utdanning i tidlig intervensjon ved psykose, oversikt
+W3196472652  # 2021, sosial og arbeidsmessig bedring ved tidlig psykose, metaanalyse
+W3133623578  # Hellström mfl. 2021, IPS i undergrupper av diagnoser, rus og rettspsykiatri, oversikt
+W2989774084  # 2019, oversikt over IPS ved ruslidelser
+W7162286458  # 2026, oversikt over oversikter om attføring ved ruslidelser
+W2917050602  # Bond mfl. 2019, IPS for andre grupper enn alvorlig psykisk lidelse
+W4200254443  # 2021, supported employment for andre grupper enn alvorlig psykisk lidelse, oversikt
+W4399488791  # 2024, IPS utover alvorlige psykiske lidelser, oversikt og metaanalyse
+W4417295653  # Bond mfl. 2025, IPS for nye grupper, metaanalyse
+W3096880123  # 2020, arbeidsrettede tiltak ved lette til moderate psykiske lidelser, oversikt
+W4292326324  # Park mfl. 2022, økonomiske analyser av supported employment, oversikt
+W4205534066  # 2022, økonomiske evalueringer i RCT-er av supported employment, oversikt
+W2892072419  # 2018, forsterket IPS ved schizofreni, oversikt
+W3159916837  # Wallstrøm mfl. 2021, IPS, arbeid og bedring, oversikt
+W4399367522  # 2024, paraplyoversikt over supported employment ved alvorlig psykisk lidelse
+W4416212496  # 2025, systematisk oversikt over tiltak for arbeid ved alvorlig psykisk lidelse
+W4205815576  # 2021, oversikt over oversikter om arbeidsrettede tiltak ved langvarig sykdom
+W2909026143  # 2019, arbeidsrettede tiltak for unge voksne med kroniske tilstander, oversikt
+# Kategori 2: randomiserte forsøk i Norden
+W2603183128  # NORCE 2016, effektevaluering av IPS, sluttrapport (samme materiale som W2887225311)
+W3118340329  # Holmås mfl. 2021, langtidsoppfølging og kostnad, samme materiale som W2887225311
+W2948462152  # Sveinsdottir mfl. 2019, SEED-forsøket, IPS for unge voksne i risiko for uførhet
+W4412642570  # Rognli mfl. 2025, IPS ved ruslidelser, Norge, RCT
+W2885000375  # Øverland mfl. 2018, arbeidsfokusert kognitiv terapi og individuell jobbstøtte, langtidseffekter (beslektet)
+W4214760378  # Sveinsdottir mfl. 2022, IPS ved kroniske smerter, RCT (beslektet gruppe)
+AV-2021-2-03  # Dahl og Lima 2021, RCT med supported employment ved Nav-kontor (beslektet)
+W1970238684  # Bejerholm mfl. 2014, IPS i Sverige, RCT
+W2528917159  # Bejerholm mfl. 2016, supported employment tilpasset affektive lidelser, RCT
+W3128265002  # Fogelgren mfl. 2021, supported employment for unge med uførepensjon i Sverige, RCT
+W2971662801  # Christensen mfl. 2019, IPS med og uten kognitiv trening, Danmark, RCT
+W4367311571  # Christensen mfl. 2023, 30 måneders oppfølging, samme materiale som W2971662801
+W3129101132  # Hellström mfl. 2021, kostnadseffektivitet av IPS ved angst og depresjon, Danmark
+W4281476886  # Hellström mfl. 2022, IPS-MA, prediktorer i RCT (angst og depresjon)
+# Kategori 2: randomiserte forsøk i Europa
+W2128678354  # Burns mfl. 2007, EQOLISE, seks europeiske land
+W2166061916  # Knapp mfl. 2013, kostnadseffektivitet EQOLISE
+W2117347476  # Hoffmann mfl. 2012, Sveits, RCT
+W2150078125  # Hoffmann mfl. 2014, femårsoppfølging, samme materiale som W2117347476
+W1797793633  # Viering mfl. 2015, IPS for uførepensjonister, Sveits
+W2318621877  # Michon mfl. 2014, IPS i Nederland, RCT
+W1996383920  # Howard mfl. 2010, SWAN-forsøket, England
+W1561511295  # Heslin mfl. 2011, toårsoppfølging av SWAN
+W2148730259  # Burns mfl. 2015, tidsbegrenset IPS (IPS-LITE)
+W4405813061  # Fontenay og Tojerow 2024, supported employment for uføretrygdede med psykiske lidelser, Belgia, RCT
+W7110135164  # Rodríguez Pulido mfl. 2025, IPS i område med høy ledighet, Spania, RCT
+W2955110386  # 2019, plasseringsbudsjetter for supported employment, Tyskland, RCT
+W7134921695  # Cockett mfl. 2026, IPS ved lette til moderate helseproblemer, England, eksperiment
+W4392558137  # Vukadin mfl. 2024, IPS mot tradisjonell attføring, Nederland, kostnadseffektivitet
+# Kategori 2: randomiserte forsøk i USA, Canada og Australia
+W2124049088  # Cook mfl. 2005, flersenters RCT (EIDP)
+W2126431008  # Cook mfl. 2005, integrering av psykiatri og arbeid, flersenters RCT
+W2143646253  # 2005, supported employment med ACT i distrikt, RCT
+W2141839834  # Latimer mfl. 2006, IPS i Canada, RCT
+W2003569369  # 2007, to arbeidsmodeller, RCT
+W2124918259  # Davis mfl. 2012, supported employment for veteraner med PTSD, RCT
+W2792496846  # Davis mfl. 2018, IPS mot overgangsarbeid for veteraner med PTSD, RCT
+W2118764718  # Drake mfl. 2013, mottakere av uføretrygd (SSDI) i USA, RCT
+W2994243328  # Baller mfl. 2019, langtidsoppfølging, samme materiale som W2118764718
+W2344919484  # 2016, langtidseffekter på inntekt og uføreytelser i USA
+W2037719460  # Mueser mfl. 2011, supported employment ved dobbeltdiagnoser
+W2036431896  # 2007, samtidige lidelser og arbeid i flersenters RCT
+W2588962647  # Lones mfl. 2017, IPS for pasienter i metadonbehandling, pilot-RCT
+W2142209734  # Killackey mfl. 2008, IPS ved førstegangspsykose, RCT
+W2893792582  # Killackey mfl. 2019, IPS ved førstegangspsykose, RCT
+W2907545556  # Nuechterlein mfl. 2020, IPS ved første schizofreniepisode, RCT
+W4410133250  # 2025, IPS for unge voksne med tidlig psykose, RCT
+W1772657935  # 2015, supported employment for personer med alvorlig psykisk lidelse og kontakt med rettsvesenet
+W2217273369  # Poremski mfl. 2017, supported employment for nylig bostedsløse med psykisk lidelse
+W3200024219  # Davis mfl. 2021, supported employment i primærhelsetjenesten for veteraner, RCT
+W2784684721  # 2018, to arbeidstiltak for bostedsløs ungdom, RCT
+# Kategori 2: randomiserte forsøk i andre land (omtales kort)
+W2122067603  # Oshima mfl. 2014, IPS i Japan, RCT
+W1922891604  # Wong mfl. 2008, supported employment i Hongkong, RCT
+W2763804059  # 2017, integrert supported employment i Kina, RCT
+# Kategori 3–4: register og kvasieksperimenter
+W4220994326  # 2022, IPS og arbeid ved personlighetsforstyrrelser, dansk registerstudie
+W3206158820  # Martini mfl. 2021, IPS for alvorlig psykisk syke, Italia, evaluering med ikke-etterlevelse
+W4408146892  # 2025, supported employment ved avhengighet, propensity score-matching
+W4387444646  # Nischk mfl. 2023, IPS i Tyskland, sammenligningsstudie ved psykose
+# Norske evalueringer og grålitteratur
+KU-7dc2d886-f49c-4f6c-bb44-20be6225f058  # AFI 2024, evaluering av IPS ung (Kudos)
+0198cc92a415-7c1451af-517f-4063-86f1-4043488c6086  # samme materiale som KU-7dc2d886-f49c-4f6c-bb44-20be6225f058 (vitenarkivet)
+0198cc79a6c9-76e6f1d6-6bda-4b73-8d30-80ed5341d818  # Proba 2024, status for IPS i Norge
+W3196725163  # NORCE 2021, evaluering av samarbeidet Nav og helsetjenesten om IPS
+KU-5951c80f-4243-478b-9743-76aa8f893b3e  # 2015, effektevaluering av jobbmestrende oppfølging (beslektet)
+0198cc5a4496-dcff9deb-c493-46fd-b499-32274df5948c  # SINTEF 2013, evaluering av jobbmestrende oppfølging ved psykoselidelser (beslektet)
+W7113154702  # 2025, avkastning av IPS i Norge
+W4410120569  # 2025, Individuell jobbstøtte i Noreg: avklart eller utfordra?
+# Svenske og finske rapporter (valgt på tittel)
+LI-21150545  # Socialstyrelsen 2014, utvärdering av försöksverksamheter med IPS i kommuner
+FI-uef.9915208111505966  # THL 2024, evaluering av IPS i Finland
+FI-fikka.5497751  # Kuntoutussäätiö 2018, resultater og gjennomføring av IPS-modellen
+FI-arto.019427806  # 2025, avhandling om veier til arbeid i IPS (Finland)
+# Fra referanserunde 1 (8.11)
+W2617951239  # Hellström mfl. 2017, IPS tilpasset angst og depresjon (IPS-MA), Danmark, RCT
+W2167890993  # Reme mfl. 2015, arbeidsfokusert kognitiv terapi og individuell jobbstøtte, Norge, RCT (beslektet)
+W3206833498  # 2021, langtidseffekter av IPS, seks års oppfølging
+W3092528766  # 2020, langtidseffekter av IPS for mottakere av uføreytelser
+W7133481736  # 2026, oversikt over langtidsoppfølginger av IPS
+W2607762772  # 2017, metaanalyse av RCT-er om arbeid ved schizofreni
+W3045711097  # 2020, systematisk oversikt over attføring ved psykiske lidelser
+W2799729481  # 2018, oversikt over arbeidsstrategier ved psykiske lidelser i Europa
+W2889726967  # 2018, arbeidstiltak i helsetjenesten, systematisk oversikt
+W2230236165  # 2016, effekt av gjeninnsettingsprogrammer for ledige med alvorlige psykiske lidelser, oversikt
+W4200087634  # 2021, utdannings- og arbeidstjenester for unge med psykiske lidelser, oversikt
+W4310668870  # 2022, arbeid for unge voksne med psykose, oversikt
+W7196951041  # 2026, metaanalyse av tiltak for arbeid ved førstegangspsykose
+W4411348671  # 2025, attføring ved depresjon, oversikt
+W3048797249  # 2020, tiltak for arbeid ved ruslidelser, oversikt
+W2120584572  # 2004, arbeidstiltak for rusbrukere i behandling, oversikt
+W2153505289  # 2014, attføring ved tidlig psykose, klyngerandomisert
+W2115254240  # 2006, RCT av attføring ved psykiske funksjonsnedsettelser
+W7224236002  # 2026, IPS med psykososiale tillegg for unge
+W3207924573  # 2021, kostnadseffektivitet av IPS mot overgangsarbeid for veteraner med PTSD (samme materiale som W2792496846)
+W4308383004  # 2022, kostnadseffektivitet av arbeidsstøtte integrert i rusbehandling (samme materiale som W4412642570)
+W7165951382  # 2026, IPS integrert i rusbehandling, samfunnsøkonomisk analyse
+W4391244179  # 2024, IPS mot vanlig arbeidsstøtte, effekt og kostnad
+W4400255597  # 2024, IPS og deltakende arbeidsplassintervensjon
+W4390697352  # 2024, samfunnseffekten av IPS for unge voksne
+W7170865677  # 2026, fra RCT til nasjonal innføring av IPS, arbeidsutfall
+W7220702470  # 2026, helse- og økonomiske virkninger av IPS
+W4319440182  # 2022, IPS ved personlighetsforstyrrelser mot andre lidelser
+W4400776472  # 2024, IPS i psykiatrien i Tyskland, rutinedata
+W4390718237  # 2024, tverrfaglig arbeidsprogram og lønnet arbeid
+W7116770033  # 2025, IPS og deltakende arbeidsplassintervensjon, samme materiale som W4400255597
+# Fra det blinde utvalget (8.11)
+W3096495837  # FHI 2017 på engelsk, samme materiale som W2738957630
+W1989720116  # Bond 2004, oversikt over RCT-er av supported employment
+W2066614172  # 2013, gjennomgang av evidensgrunnlaget for supported employment
+W3212080065  # 2021, systematisk oversikt over arbeidsrettede tiltak ved psykososial funksjonsnedsettelse (26 RCT-er)
+W2000947529  # 2011, IPS i Storbritannia, systematisk oversikt
+W3132765184  # Rodríguez Pulido mfl. 2021, IPS og helseutfall, oversikt
+W3126135182  # 2020, metaanalyse av arbeidsutfall i IPS-studier
+W4398150491  # 2024, spansk systematisk oversikt over IPS
+W4283361204  # 2022, arbeidstiltak for bostedsløse, oversikt
+W3117173428  # Christensen mfl. 2020, kostnadseffektivitet, samme materiale som W2971662801
+W1966339413  # 2013, ikke-arbeidsutfall, samme materiale som W1970238684
+W2794379157  # IES-forsøket, empowerment og depresjon, samme materiale som W2528917159
+W2784242610  # kostnadseffektivitet av IES, samme materiale som W2528917159
+W2111121333  # Burns mfl. 2008, kliniske utfall i EQOLISE, samme materiale som W2128678354
+W2994494788  # personlighetsforstyrrelser i det nederlandske forsøket, samme materiale som W2318621877
+W2734452190  # spansk randomisert studie av IPS på Tenerife
+W2025037024  # EIDP ved schizofreni, samme materiale som W2124049088
+W2000466950  # Mueser mfl. 2004, Hartford-forsøket, RCT
+W100048669  # PTSD i Hartford-forsøket, samme materiale som W2000466950
+W1041081477  # ikke-arbeidsutfall, samme materiale som W2003569369
+W2162345757  # 2002, kostnadseffektivitet av IPS mot forsterket attføring, RCT
+W2399102424  # inntekt for SSDI-mottakere, samme materiale som W2118764718
+W2929226159  # funksjonsutfall ved PTSD, samme materiale som W2792496846
+W4280563630  # tjenestebruk og kostnader ved PTSD, samme materiale som W2792496846
+W2618403147  # ikke-arbeidsutfall, samme materiale som W2784684721
+W2049294452  # Twamley mfl. 2012, supported employment for middelaldrende og eldre med schizofreni, RCT
+W1498833145  # Bond mfl. 2015, samlet analyse av fire RCT-er for unge voksne
+W2036473240  # Bond mfl. 2007, samlet analyse for mottakere av uføreytelser
+W3037378918  # 2020, IPS ved tidlig psykose, Canada, RCT
+W2153599919  # Waghorn mfl. 2014, flersenters RCT, Australia
+W2771563908  # fem til sju års oppfølging, samme materiale som W2153599919
+W2188280398  # Tsang mfl. 2011, supported employment mot tradisjonell attføring, Hongkong
+W7130318038  # avkastning av IPS-innføring i Norge, samme materiale som W4390697352
+W2543426274  # 2016, effekt av arbeidstiltak på rusbehandling, oversikt (referanserunde 3)
+W2723080911  # 2017, spansk oversikt over IPS-studier (det blinde utvalget, referanserunde 3)
+NB-6618  # 2026, Oslo Economics: effektevaluering av Senter for jobbmestring, IPS-basert (beslektet; Navs bibliotek, raskt tillegg 9.11)

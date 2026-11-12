@@ -1,0 +1,16 @@
+{
+ "apen_url": "https://doi.org/10.2139/ssrn.604443",
+ "ar": 2007,
+ "doi": "https://doi.org/10.1162/jeea.2007.5.1.154",
+ "forfattere": [
+  "Tomi Kyyrä",
+  "Ralf A. Wilke"
+ ],
+ "id": "W3122181088",
+ "kilde": "Journal of the European Economic Association",
+ "lenke": "https://openalex.org/W3122181088",
+ "oversikt": false,
+ "sammendrag": "In Finland the elderly unemployed are allowed to collect unemployment benefits up to the age of 60, when they can retire via a particular unemployment pension. In 1997 the eligibility age of persons benefiting from this scheme was raised from 53 to 55. We consider changes in the risk of unemployment, unemployment durations, and the exit states before and after the reform. In the duration analysis a flexible treatment design is adopted by allowing for quantile treatment effects. We apply three different non- and semiparametric methods, which all produce robust and coherent results. Since the reform the group aged 53-54 has had a lower risk of unemployment, shorter unemployment durations, and higher exit rates to employment, and it is no longer distinguishable from the group aged 50-52. We estimate the amount of unemployment benefits saved due to the reform.",
+ "tittel": "Reduction in the Long-Term Unemployment of the Elderly: A Success Story from Finland",
+ "type": "article"
+}

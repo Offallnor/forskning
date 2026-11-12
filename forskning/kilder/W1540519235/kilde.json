@@ -1,0 +1,19 @@
+{
+ "apen_url": "https://doi.org/10.23656/25045520/12003/0117",
+ "ar": 2003,
+ "doi": "https://doi.org/10.23656/25045520/12003/0117",
+ "forfattere": [
+  "Marit Rõõm"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "https://econwpa.ub.uni-muenchen.de/econ-wp/lab/papers/0303/0303001.pdf",
+ "hvordan": "pdf",
+ "id": "W1540519235",
+ "kilde": "RePEc: Research Papers in Economics",
+ "lenke": "https://openalex.org/W1540519235",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "This paper analyses the factors determining reservation wages in Estonia, and estimates the influence of the reservation wage on unemployment duration. According to estimations there is no statistically significant effect of unemployment benefit and social assistance on the reservation wage in Estonia. While evidence was found, that the higher the reservation wage, the lower the probability of finding a job, if all other things are equal. It was also found that the eligibility of unemployment benefit or social assistance increases the duration of the unemployment period, which indicates the lower offer arrival rate in the case of unemployed receiving assistance, which might be caused by a lower search intensity.",
+ "tittel": "Reservation wages in Estonia",
+ "type": "preprint"
+}

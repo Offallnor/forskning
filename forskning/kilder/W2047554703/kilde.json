@@ -1,0 +1,18 @@
+{
+ "ar": 2009,
+ "doi": "https://doi.org/10.1097/jom.0b013e3181990d32",
+ "forfattere": [
+  "David S Rebergen",
+  "David J. Bruinvels",
+  "P.D. Bezemer",
+  "Allard J. van der Beek",
+  "Willem van Mechelen"
+ ],
+ "id": "W2047554703",
+ "kilde": "Journal of Occupational and Environmental Medicine",
+ "lenke": "https://openalex.org/W2047554703",
+ "oversikt": false,
+ "sammendrag": "OBJECTIVE: To evaluate the effectiveness of guideline-based care (GBC) of workers with mental health problems, which promotes counseling by the occupational physician (OP) facilitating return to work (RTW). METHODS: In a randomized controlled trial with police workers on sick leave due to mental health problems (n = 240), trained OPs delivered GBC in the intervention group. Time to RTW and recurrences during 1-year follow-up, analyzed using Cox proportional hazards models, were compared with usual care (UC) with easy access to a psychologist. RESULTS: GBC by OPs did not result in earlier RTW than UC. Subgroup analysis showed a small effect in favor of GBC for workers with administrative functions and/or \"minor\" stress-related symptoms. CONCLUSIONS: GBC did not differ in RTW compared with UC, but may be beneficial for the majority of workers with minor stress-related disorders.",
+ "tittel": "Guideline-Based Care of Common Mental Disorders by Occupational Physicians (CO-OP study): A Randomized Controlled Trial",
+ "type": "article"
+}

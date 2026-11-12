@@ -1,0 +1,20 @@
+{
+ "apen_url": "https://doi.org/10.3386/w32832",
+ "ar": 2024,
+ "doi": "https://doi.org/10.3386/w32832",
+ "forfattere": [
+  "Jonathan Cohen",
+  "Peter Ganong"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "http://www.nber.org/papers/w32832.pdf",
+ "hvordan": "pdf",
+ "id": "W4401689619",
+ "kilde": "National Bureau of Economic Research",
+ "lenke": "https://openalex.org/W4401689619",
+ "merknad": "ÅPEN VERSJON (preprint eller arbeidsnotat), merkes i svaret",
+ "oversikt": true,
+ "sammendrag": "We systematically review studies of how unemployment benefits affect unemployment duration.Statistically significant findings are eight times more likely to be published.Correcting for publication bias cuts the average elasticity by a third.Meta-analysis is a data-driven way to aggregate estimates across policy contexts and generalize sufficient statistics methods to compute the global optimal policy.Although existing consumption drop-based approaches typically imply an optimal replacement rate near zero, our corrected estimates imply an optimal replacement rate of 28% in the US.We are unable to reject the hypothesis that the \"micro\" elasticity is equal to the \"macro\" elasticity.",
+ "tittel": "Disemployment Effects of Unemployment Insurance: A Meta-Analysis",
+ "type": "report"
+}

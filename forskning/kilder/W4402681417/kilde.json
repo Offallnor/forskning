@@ -1,0 +1,16 @@
+{
+ "apen_url": "https://doi.org/10.2139/ssrn.4964658",
+ "ar": 2024,
+ "doi": "https://doi.org/10.17848/wp24-404",
+ "forfattere": [
+  "Jonathan D. Cohen",
+  "Geoffrey C. Schnorr"
+ ],
+ "id": "W4402681417",
+ "kilde": "Upjohn Research (W.E. Upjohn Institute for Employment Research)",
+ "lenke": "https://openalex.org/W4402681417",
+ "oversikt": false,
+ "sammendrag": "Approximately 10 percent of Unemployment Insurance (UI) claimants in the United States are denied benefits after being deemed at-fault for their job loss by a government examiner. Using administrative data from California and an examiner leniency design, we estimate the causal effects of extending eligibility to marginally at-fault claimants—those whose job separation reason would be deemed UI-eligible by some examiners but UI-ineligible by others. Approving a marginally at-fault claimant increases UI benefits paid by over $3,000 and lengthens the nonemployment spell by just under two weeks, but it does not decrease labor income. We combine these estimates and other relevant claimant responses to calculate the fiscal externality of expanding eligibility on this margin and find that it accounts for 16 percent of the expansion’s total cost. Using two regression kink designs in the same data, we show that other more commonly studied UI benefit expansions have significantly larger fiscal externalities. We provide suggestive evidence that lower efficiency costs for the at-fault eligibility expansion are driven by smaller responses among lower-income claimants who are disproportionately affected by at-fault eligibility criteria.",
+ "tittel": "Efficiency Costs of Unemployment Insurance Denial: Evidence from Randomly Assigned Examiners",
+ "type": "report"
+}

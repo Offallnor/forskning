@@ -1,0 +1,24 @@
+{
+ "apen_url": "https://www.sjweh.fi/download.php?abstract_id=3873&file_nro=1",
+ "ar": 2019,
+ "doi": "https://doi.org/10.5271/sjweh.3873",
+ "forfattere": [
+  "Martin Skagseth",
+  "Marius Steiro Fimland",
+  "Marit By Rise",
+  "Roar Johnsen",
+  "Petter Christian Borchgrevink",
+  "Lene Aasdahl"
+ ],
+ "hentet": "2026-11-09",
+ "hentet_fra": "https://www.sjweh.fi/pdf-236682-144543?filename=Effectiveness-of-adding-a.pdf",
+ "hvordan": "pdf",
+ "id": "W3000485708",
+ "kilde": "Scandinavian Journal of Work Environment & Health",
+ "lenke": "https://openalex.org/W3000485708",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "Objectives This study aimed to evaluate the effectiveness of a workplace intervention (WI) added to an inpatient multimodal occupational rehabilitation program (I-MORE) on sickness absence. Methods In this researcher-blinded randomized controlled trial with parallel groups, individuals on sick leave due to musculoskeletal, unspecified- or common mental health disorders were randomized to I-MORE (N=87) or I-MORE+WI (N=88). I-MORE lasted 2+1 weeks (with one week at home in between) and consisted of \"acceptance and commitment therapy\", physical exercise, and work-related problem solving. The additional WI consisted of a preparatory part, a workplace meeting involving the sick-listed worker, the employer, and the primary rehabilitation therapist at the rehabilitation center, and follow-up work related to the meeting. The primary outcomes were number of sickness absence days and time until sustainable return to work (RTW) during 12 months of follow-up, measured by registry data. Results The median number of sickness absence days during the 12-month follow-up for I-MORE was 115 days [interquartile range (IQR) 53-183] versus 130 days (IQR 81-212) for I-MORE+WI. The difference between groups was not statistically significant (P=0.084). The hazard ratio for sustainable RTW was 0.74 (95% confidence interval 0.48-1.16; P=0.192) in favor of I-MORE. Conclusions This study provided no evidence in favor of I-MORE+WI compared to only I-MORE for long-term sickness absent individuals with musculoskeletal-, common mental- or unspecified disorders.",
+ "tittel": "Effectiveness of adding a workplace intervention to an inpatient multimodal occupational rehabilitation program: A randomized clinical trial",
+ "type": "article"
+}

@@ -1,0 +1,19 @@
+{
+ "apen_url": "https://doi.org/10.3386/w10211",
+ "ar": 2004,
+ "doi": "https://doi.org/10.3386/w10211",
+ "forfattere": [
+  "Raj Chetty"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "http://www.nber.org/papers/w10211.pdf",
+ "hvordan": "pdf",
+ "id": "W1512592345",
+ "kilde": "National Bureau of Economic Research",
+ "lenke": "https://openalex.org/W1512592345",
+ "merknad": "ÅPEN VERSJON (preprint eller arbeidsnotat), merkes i svaret",
+ "oversikt": false,
+ "sammendrag": "Studies of risk preference have empirically established two regularities that are inconsistent with the canonical expected utility model: (1) risk aversion over small gambles greatly exceeds risk aversion over larger stakes and (2) insurance buyers play the lottery.This paper characterizes risk preferences both theoretically and empirically in a world with two consumption goods, one of which involves a commitment in that an adjustment cost must be paid when the good is sold.In this model, utility over wealth is more curved locally than globally: individuals are more risk averse with respect to moderate-scale income fluctuations than they are to large income fluctuations.Commitments also create a gambling motive.The empirical importance of commitments is tested using the labor-supply method of estimating risk aversion of Chetty (2003a).Global curvature is imputed using existing labor supply elasticities, and variations in unemployment insurance laws are used to estimate local curvature in a dynamic job search model.Commitments significantly change preferences over wealth: The local coefficient of relative risk aversion is an order of magnitude larger than the global one.Implications for a broad set of questions such as optimal social insurance policies and portfolio choice are discussed.",
+ "tittel": "Consumption Commitments, Unemployment Durations, and Local Risk Aversion",
+ "type": "report"
+}

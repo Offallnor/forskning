@@ -1,0 +1,22 @@
+{
+ "apen_url": "https://doi.org/10.3386/w21129",
+ "ar": 2015,
+ "doi": "https://doi.org/10.3386/w21129",
+ "forfattere": [
+  "Gautam Gowrisankaran",
+  "Charles He",
+  "Eric Lutz",
+  "Jefferey L. Burgess"
+ ],
+ "hentet": "2026-11-09",
+ "hentet_fra": "https://doi.org/10.3386/w21129",
+ "hvordan": "pdf",
+ "id": "W2617392673",
+ "kilde": "National Bureau of Economic Research",
+ "lenke": "https://openalex.org/W2617392673",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "Underground coal mining is a dangerous industry where the regulatory state may impose tradeoffs between productivity and safety.We recover the marginal tradeoffs using disasters near a mine as shocks that increase future accident costs.We find that in the second year after a disaster, productivity decreases 11% and accident rates decrease 18-80% for mines in the same state, with some evidence that the number of managers increases.Using published \"value of statistical life\" and injury cost estimates, we find that the productivity loss following a disaster in the same state costs 2.51 times the value of the safety increases.",
+ "tittel": "Productivity, Safety, and Regulation in Underground Coal Mining: Evidence from Disasters and Fatalities",
+ "type": "report"
+}

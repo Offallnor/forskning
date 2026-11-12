@@ -1,0 +1,14 @@
+id	svar_sier	avvik	forklaring	alvor
+kort svar	Begge virker moderat; effekten tydeligst for perioden	vekt	Det blinde korte svaret mener nivået er klarere enn perioden. Rettet: periodeeffekten er liten per uke og lik mellom studiene, nivåelastisitetene er større men spriker. Lagt til at norske studier har middels troverdighet og gamle data, at én norsk studie ikke finner effekt, at jobbkvalitet spriker i fortegn (Nederland lagt til), at amerikanske studier finner mindre effekt i nedgangstider, og at lønnsplikten trolig betyr mer for permitterte.	middels
+W4401689619	Korrigert elastisitet 0,34 for nivå og 0,23 for periode	hovedresultat	0,34 og 0,23 er predikerte tall for USA. Hovedresultatet er korrigert gjennomsnitt 0,09 for periode og 0,21 for nivå, med størst overdrivelse for perioden. Rettet, og lagt til at det er et arbeidsnotat. Raden 0,09/0,21 er lagt til i estimater.tsv etter kontroll mot side 11.	høy
+W4312802047	Informasjon ga −2,3 og +1,6 prosent	mangler forbehold	Gjennomsnittseffekten er ikke signifikant; tallene gjelder undergrupper. Rettet.	middels
+W2047693430	Elastisitet om lag 1 i Norge i det korte svaret	troverdighet	Lav troverdighet, bare sammendrag. Tatt ut av det korte svaret, forbehold lagt til i funnene.	middels
+W1566578940	Permitterte reagerer ikke på nivå	mangler forbehold	Lav troverdighet: justering for inntekt, ingen kontrollgruppe. Forbehold lagt til.	middels
+AV-2018-2-03	Permitterte kalt tilbake tidligere etter regelendring	beskrivelse	Endringen gjaldt arbeidsgivers lønnsplikt, ikke dagpengene; lav troverdighet, ulik konjunktur. Rettet.	middels
+W860717682	Lavere tak ga 9,34 færre dager	troverdighet	Bacheloroppgave med lav troverdighet; utfallet er stønadsdager. Tatt ut av svaret.	lav
+W2116604021	Elastisitet for nivå 0,35 før og 0,65–0,9 under finanskrisen	beskrivelse	Utfallet er tid på dagpenger, ikke tid til jobb. Rettet.	middels
+W3121176259	Ledighetsrate høyst 0,4 pp	mangler forbehold	Forfatterne kaller estimatet en øvre grense, placebotest slår ut. Lagt til «øvre grense».	lav
+AV-2007-2-03	Regelendringene ga om lag 3000 færre mottakere	beskrivelse	Anslaget er direktoratets, artikkelen er beskrivende. Rettet.	lav
+W3121246414	Kutt ga 10 prosent økt avgang	ingen	Svaret sier allerede at reanalysen ikke finner effekt på ordinære jobber.	lav
+W2084090750	Ingen signifikant samlet effekt	ingen	Flagg undergruppe er ivaretatt: svaret omtaler den samlede nulleffekten.	lav
+AV-2013-1-04	Antallet eldre langtidsledige falt 28 prosent	ingen	Svaret sier at analysen er beskrivende.	lav

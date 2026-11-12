@@ -1,0 +1,961 @@
+# Kontroll: sykefravaer-utvikling
+
+Kjørt 2026-11-08.
+
+0 feil av 955 kontroller.
+
+- OK   1 kilde 01999f330df6-61199673-0dc2-4da6-beee-44d402da77ad finnes
+- OK   1 kilde 019c13c07b5d-2fdc8def-e5c2-4997-bef7-68f2c1b7cada finnes
+- OK   1 kilde AV-2008-4-01 finnes
+- OK   1 kilde AV-2020-2-02 finnes
+- OK   1 kilde AV-2022-3-01 finnes
+- OK   1 kilde AV-2023-2-03 finnes
+- OK   1 kilde AV-2024-1-03 finnes
+- OK   1 kilde AV-2024-2-03 finnes
+- OK   1 kilde AV-2025-3-04 finnes
+- OK   1 kilde W2076042101 finnes
+- OK   1 kilde W2785834892 finnes
+- OK   1 kilde W2993400654 finnes
+- OK   1 kilde W3009296559 finnes
+- OK   1 kilde W3130895466 finnes
+- OK   1 kilde W3167036525 finnes
+- OK   1 kilde W3198827421 finnes
+- OK   1 kilde W3201021805 finnes
+- OK   1 kilde W3209365492 finnes
+- OK   1 kilde W3213478442 finnes
+- OK   1 kilde W4229447182 finnes
+- OK   1 kilde W4304172721 finnes
+- OK   1 kilde W4310375817 finnes
+- OK   1 kilde W4366153706 finnes
+- OK   1 kilde W4387095603 finnes
+- OK   1 kilde W4390881238 finnes
+- OK   1 kilde W4392197176 finnes
+- OK   1 kilde W4399485338 finnes
+- OK   1 kilde W4400282262 finnes
+- OK   1 kilde W4403637555 finnes
+- OK   1 kilde W4407319512 finnes
+- OK   1 kilde W4408043658 finnes
+- OK   1 kilde W4410313102 finnes
+- OK   1 kilde W4413036354 finnes
+- OK   1 kilde W4413383411 finnes
+- OK   1 kilde W7119467493 finnes
+- OK   1 kilde W7127960047 finnes
+- OK   1 kilde W7165061248 finnes
+- OK   1 kilde W7167811346 finnes
+- OK   1 kilde W7170890177 finnes
+- OK   1 kilde W7171777052 finnes
+- OK   1 kilde W7215130240 finnes
+- OK   1 estimat-kilde W3167036525 finnes
+- OK   1 estimat-kilde W4403637555 finnes
+- OK   1 estimat-kilde W4403637555 finnes
+- OK   1 estimat-kilde W4403637555 finnes
+- OK   1 estimat-kilde W4403637555 finnes
+- OK   1 estimat-kilde W4410313102 finnes
+- OK   1 estimat-kilde W4410313102 finnes
+- OK   1 estimat-kilde W4413383411 finnes
+- OK   1 estimat-kilde W4413383411 finnes
+- OK   1 estimat-kilde W7156333201 finnes
+- OK   1 estimat-kilde W7165061248 finnes
+- OK   1 estimat-kilde W7165061248 finnes
+- OK   1 estimat-kilde W7165061248 finnes
+- OK   1 estimat-kilde W7170890177 finnes
+- OK   1 estimat-kilde W7170890177 finnes
+- OK   1 estimat-kilde W4229447182 finnes
+- OK   1 estimat-kilde W7171777052 finnes
+- OK   1 estimat-kilde W3009296559 finnes
+- OK   1 estimat-kilde W3009296559 finnes
+- OK   1 estimat-kilde W2581862424 finnes
+- OK   1 estimat-kilde W7200205185 finnes
+- OK   1 estimat-kilde W4400714395 finnes
+- OK   1 estimat-kilde W4283373019 finnes
+- OK   1 estimat-kilde W2993400654 finnes
+- OK   1 estimat-kilde W4403637555 finnes
+- OK   1 estimat-kilde W3167036525 finnes
+- OK   1 estimat-kilde W7165061248 finnes
+- OK   1 estimat-kilde W7165061248 finnes
+- OK   1 estimat-kilde W7170890177 finnes
+- OK   1 estimat-kilde W3130895466 finnes
+- OK   1 estimat-kilde W3130895466 finnes
+- OK   1 estimat-kilde W3130895466 finnes
+- OK   1 estimat-kilde W3213478442 finnes
+- OK   1 estimat-kilde W3213478442 finnes
+- OK   1 estimat-kilde W3213478442 finnes
+- OK   1 estimat-kilde W4366153706 finnes
+- OK   1 estimat-kilde W4366153706 finnes
+- OK   1 estimat-kilde W4366153706 finnes
+- OK   1 estimat-kilde W4366153706 finnes
+- OK   1 estimat-kilde W4387095603 finnes
+- OK   1 estimat-kilde W4387095603 finnes
+- OK   1 estimat-kilde W4387095603 finnes
+- OK   1 estimat-kilde W4387095603 finnes
+- OK   1 estimat-kilde W4408043658 finnes
+- OK   1 estimat-kilde W4408043658 finnes
+- OK   1 estimat-kilde W3209365492 finnes
+- OK   1 estimat-kilde W4399240052 finnes
+- OK   1 estimat-kilde 019c13c07b5d-2fdc8def-e5c2-4997-bef7-68f2c1b7cada finnes
+- OK   1 estimat-kilde AV-2022-3-01 finnes
+- OK   1 estimat-kilde AV-2022-3-01 finnes
+- OK   1 estimat-kilde AV-2024-2-03 finnes
+- OK   1 estimat-kilde AV-2025-3-04 finnes
+- OK   1 estimat-kilde AV-2023-2-03 finnes
+- OK   1 estimat-kilde AV-2023-2-03 finnes
+- OK   1 estimat-kilde AV-2023-2-03 finnes
+- OK   1 estimat-kilde AV-2020-2-02 finnes
+- OK   1 estimat-kilde AV-2020-2-02 finnes
+- OK   1 estimat-kilde AV-2020-2-02 finnes
+- OK   1 estimat-kilde AV-2020-2-02 finnes
+- OK   1 estimat-kilde AV-2024-1-03 finnes
+- OK   1 estimat-kilde AV-2024-1-03 finnes
+- OK   1 estimat-kilde W4304172721 finnes
+- OK   1 estimat-kilde W4304172721 finnes
+- OK   1 estimat-kilde W3201021805 finnes
+- OK   1 estimat-kilde W3201021805 finnes
+- OK   1 estimat-kilde W4407319512 finnes
+- OK   1 estimat-kilde W4407319512 finnes
+- OK   1 estimat-kilde W4407319512 finnes
+- OK   1 estimat-kilde W4310375817 finnes
+- OK   1 estimat-kilde W4310375817 finnes
+- OK   1 estimat-kilde W4392197176 finnes
+- OK   1 estimat-kilde W4392197176 finnes
+- OK   1 estimat-kilde W4392197176 finnes
+- OK   1 estimat-kilde W4392197176 finnes
+- OK   1 estimat-kilde 0198f22760a6-c80f28c1-bed0-4b04-b91b-85203d40dd2c finnes
+- OK   1 estimat-kilde 0198f22760a6-c80f28c1-bed0-4b04-b91b-85203d40dd2c finnes
+- OK   1 estimat-kilde 01999f330df6-61199673-0dc2-4da6-beee-44d402da77ad finnes
+- OK   1 estimat-kilde 01999f330df6-61199673-0dc2-4da6-beee-44d402da77ad finnes
+- OK   1 estimat-kilde W2129153957 finnes
+- OK   1 estimat-kilde W2785834892 finnes
+- OK   1 estimat-kilde W4400282262 finnes
+- OK   1 estimat-kilde W4400282262 finnes
+- OK   1 estimat-kilde W7127960047 finnes
+- OK   1 estimat-kilde W7127960047 finnes
+- OK   1 estimat-kilde W7127960047 finnes
+- OK   1 estimat-kilde W7127960047 finnes
+- OK   1 estimat-kilde W4399485338 finnes
+- OK   1 estimat-kilde W4399485338 finnes
+- OK   1 estimat-kilde W4399485338 finnes
+- OK   1 estimat-kilde W4399485338 finnes
+- OK   1 estimat-kilde W4413036354 finnes
+- OK   1 estimat-kilde W4413036354 finnes
+- OK   1 estimat-kilde W7167811346 finnes
+- OK   1 estimat-kilde W7167811346 finnes
+- OK   1 estimat-kilde W7167811346 finnes
+- OK   1 estimat-kilde W4390881238 finnes
+- OK   1 estimat-kilde W4390881238 finnes
+- OK   1 estimat-kilde AV-2008-4-01 finnes
+- OK   1 estimat-kilde AV-2008-4-01 finnes
+- OK   1 estimat-kilde AV-2008-4-01 finnes
+- OK   1 estimat-kilde W2076042101 finnes
+- OK   1 estimat-kilde W2076042101 finnes
+- OK   1 estimat-kilde W2076042101 finnes
+- OK   1 estimat-kilde W3198827421 finnes
+- OK   1 estimat-kilde W3198827421 finnes
+- OK   1 estimat-kilde W3198827421 finnes
+- OK   1 estimat-kilde W7119467493 finnes
+- OK   1 estimat-kilde W7215130240 finnes
+- OK   1 forfatter «Nossen» for AV-2022-3-01 står i metadata eller på tittelsiden
+- OK   1 forfatter «Nossen» for AV-2024-2-03 står i metadata eller på tittelsiden
+- OK   1 forfatter «White» for W4403637555 står i metadata eller på tittelsiden
+- OK   1 forfatter «Delalic» for AV-2025-3-04 står i metadata eller på tittelsiden
+- OK   1 forfatter «Nossen» for AV-2020-2-02 står i metadata eller på tittelsiden
+- OK   1 forfatter «Grøsland» for W4304172721 står i metadata eller på tittelsiden
+- OK   1 forfatter «Reme» for W4366153706 står i metadata eller på tittelsiden
+- OK   1 forfatter «Delalic» for AV-2024-1-03 står i metadata eller på tittelsiden
+- OK   1 forfatter «Miszczyńska» for W4392197176 står i metadata eller på tittelsiden
+- OK   1 forfatter «Hemmings» for W3009296559 står i metadata eller på tittelsiden
+- OK   1 forfatter «Nosrati» for 019c13c07b5d-2fdc8def-e5c2-4997-bef7-68f2c1b7cada står i metadata eller på tittelsiden
+- OK   1 forfatter «Blomgren» for W3130895466 står i metadata eller på tittelsiden
+- OK   1 forfatter «Reini» for W4413036354 står i metadata eller på tittelsiden
+- OK   1 forfatter «Perhoniemi» for W4410313102 står i metadata eller på tittelsiden
+- OK   1 forfatter «Perhoniemi» for W7119467493 står i metadata eller på tittelsiden
+- OK   1 forfatter «Salonen» for W4387095603 står i metadata eller på tittelsiden
+- OK   1 forfatter «Blomgren» for W4408043658 står i metadata eller på tittelsiden
+- OK   1 forfatter «Farrants» for W4407319512 står i metadata eller på tittelsiden
+- OK   1 forfatter «Kirchner» for W4413383411 står i metadata eller på tittelsiden
+- OK   1 forfatter «Magnusson» for W4399485338 står i metadata eller på tittelsiden
+- OK   1 forfatter «Solovieva» for W4310375817 står i metadata eller på tittelsiden
+- OK   1 forfatter «Guan» for W7127960047 står i metadata eller på tittelsiden
+- OK   1 forfatter «Edge» for W3201021805 står i metadata eller på tittelsiden
+- OK   1 forfatter «Grabka» for W7165061248 står i metadata eller på tittelsiden
+- OK   1 forfatter «Antczak» for W3213478442 står i metadata eller på tittelsiden
+- OK   1 forfatter «Timp» for W4390881238 står i metadata eller på tittelsiden
+- OK   1 forfatter «Skyrud» for W3198827421 står i metadata eller på tittelsiden
+- OK   1 forfatter «Biering» for W7167811346 står i metadata eller på tittelsiden
+- OK   1 forfatter «Schaffer» for W4400282262 står i metadata eller på tittelsiden
+- OK   1 forfatter «Moberg» for AV-2023-2-03 står i metadata eller på tittelsiden
+- OK   1 forfatter «Dahlén» for W7215130240 står i metadata eller på tittelsiden
+- OK   1 forfatter «Blomgren» for W3167036525 står i metadata eller på tittelsiden
+- OK   1 forfatter «Bratberg» for W2076042101 står i metadata eller på tittelsiden
+- OK   1 forfatter «Nossen» for AV-2008-4-01 står i metadata eller på tittelsiden
+- OK   1 forfatter «Salonen» for W4387095603 står i metadata eller på tittelsiden
+- OK   1 forfatter «Tharaldsen» for 01999f330df6-61199673-0dc2-4da6-beee-44d402da77ad står i metadata eller på tittelsiden
+- OK   1 forfatter «Grabka» for W7165061248 står i metadata eller på tittelsiden
+- OK   1 forfatter «Ose» for W4229447182 står i metadata eller på tittelsiden
+- OK   1 forfatter «Palme» for W2993400654 står i metadata eller på tittelsiden
+- OK   1 forfatter «Chaupain-Guillot» for W2785834892 står i metadata eller på tittelsiden
+- OK   1 forfatter «Afsana» for W7171777052 står i metadata eller på tittelsiden
+- OK   2 sitat rad 1 (W3167036525, endring i sykefraværsraten i kommunen nå) står på oppgitt side
+- OK   3 estimat=-1.3 rad 1 (W3167036525, endring i sykefraværsraten i kommunen nå) står i sitatet
+- OK   2 sitat rad 2 (W4403637555, overskudd av tapte årsverk på grunn av l) står på oppgitt side
+- OK   3 estimat=24466 rad 2 (W4403637555, overskudd av tapte årsverk på grunn av l) står i sitatet
+- OK   3 ki_lav=14023 rad 2 (W4403637555, overskudd av tapte årsverk på grunn av l) står i sitatet
+- OK   3 ki_hoy=34705 rad 2 (W4403637555, overskudd av tapte årsverk på grunn av l) står i sitatet
+- OK   4 rad 2 (W4403637555, overskudd av tapte årsverk på grunn av l) estimat innenfor KI
+- OK   2 sitat rad 3 (W4403637555, overskudd av tapte årsverk på grunn av l) står på oppgitt side
+- OK   3 estimat=14491 rad 3 (W4403637555, overskudd av tapte årsverk på grunn av l) står i sitatet
+- OK   3 ki_lav=8935 rad 3 (W4403637555, overskudd av tapte årsverk på grunn av l) står i sitatet
+- OK   3 ki_hoy=20016 rad 3 (W4403637555, overskudd av tapte årsverk på grunn av l) står i sitatet
+- OK   4 rad 3 (W4403637555, overskudd av tapte årsverk på grunn av l) estimat innenfor KI
+- OK   2 sitat rad 4 (W4403637555, andel av overskuddet i 2023 som skyldes ) står på oppgitt side
+- OK   3 estimat=14 rad 4 (W4403637555, andel av overskuddet i 2023 som skyldes ) står i sitatet
+- OK   2 sitat rad 5 (W4403637555, andel av overskuddet i 2023 som skyldes ) står på oppgitt side
+- OK   3 estimat=11 rad 5 (W4403637555, andel av overskuddet i 2023 som skyldes ) står i sitatet
+- OK   2 sitat rad 6 (W4410313102, langtidsfravær for psykiske lidelser, la) står på oppgitt side
+- OK   3 estimat=1.25 rad 6 (W4410313102, langtidsfravær for psykiske lidelser, la) står i sitatet
+- OK   2 sitat rad 7 (W4410313102, langtidsfravær for psykiske lidelser, la) står på oppgitt side
+- OK   3 estimat=1.30 rad 7 (W4410313102, langtidsfravær for psykiske lidelser, la) står i sitatet
+- OK   2 sitat rad 8 (W4413383411, langtidsfravær (over 90 dager) med vanli) står på oppgitt side
+- OK   2 sitat rad 9 (W4413383411, langtidsfravær med vanlige psykiske lide) står på oppgitt side
+- OK   3 estimat=5.9 rad 9 (W4413383411, langtidsfravær med vanlige psykiske lide) står i sitatet
+- OK   3 ki_lav=2.2 rad 9 (W4413383411, langtidsfravær med vanlige psykiske lide) står i sitatet
+- OK   3 ki_hoy=9.8 rad 9 (W4413383411, langtidsfravær med vanlige psykiske lide) står i sitatet
+- OK   4 rad 9 (W4413383411, langtidsfravær med vanlige psykiske lide) estimat innenfor KI
+- OK   2 sitat rad 10 (W7156333201, mønstre i sykefravær i kommunal sektor 2) står på oppgitt side
+- OK   2 sitat rad 11 (W7165061248, økning i sykedager per ansatt fra 2021 t) står på oppgitt side
+- OK   3 estimat=3.6 rad 11 (W7165061248, økning i sykedager per ansatt fra 2021 t) står i sitatet
+- OK   2 sitat rad 12 (W7165061248, økning i sykedager per ansatt fra 2021 t) står på oppgitt side
+- OK   3 estimat=2.4 rad 12 (W7165061248, økning i sykedager per ansatt fra 2021 t) står i sitatet
+- OK   2 sitat rad 13 (W7165061248, aldring forklarer lite av den langsiktig) står på oppgitt side
+- OK   2 sitat rad 14 (W7170890177, nye sykefravær med muskel- og skjelettli) står på oppgitt side
+- OK   3 estimat=9.86 rad 14 (W7170890177, nye sykefravær med muskel- og skjelettli) står i sitatet
+- OK   2 sitat rad 15 (W7170890177, fall i 2020–2021, deretter økning over n) står på oppgitt side
+- OK   2 sitat rad 16 (W4229447182, oppfølgingsregimer for sykmeldte; ingen ) står på oppgitt side
+- OK   2 sitat rad 18 (W3009296559, nivå på sykefravær og uføretrygd i Norge) står på oppgitt side
+- OK   2 sitat rad 19 (W3009296559, Norges reformer; ingen tall i sammendrag) står på oppgitt side
+- OK   2 sitat rad 21 (W7200205185, langtidsfravær etter diagnose 2010–2023;) står på oppgitt side
+- OK   2 sitat rad 24 (W2993400654, sammenheng mellom sykelønnsordninger og ) står på oppgitt side
+- OK   2 sitat rad 25 (W4403637555, overskudd av tapte årsverk på grunn av l) står på oppgitt side
+- OK   3 estimat=21263 rad 25 (W4403637555, overskudd av tapte årsverk på grunn av l) står i sitatet
+- OK   3 ki_lav=12627 rad 25 (W4403637555, overskudd av tapte årsverk på grunn av l) står i sitatet
+- OK   3 ki_hoy=29864 rad 25 (W4403637555, overskudd av tapte årsverk på grunn av l) står i sitatet
+- OK   4 rad 25 (W4403637555, overskudd av tapte årsverk på grunn av l) estimat innenfor KI
+- OK   2 sitat rad 26 (W3167036525, endring i tilgangen til uførepensjon når) står på oppgitt side
+- OK   3 estimat=2.1 rad 26 (W3167036525, endring i tilgangen til uførepensjon når) står i sitatet
+- OK   2 sitat rad 27 (W7165061248, økning i sykedager per forsikret fra 202) står på oppgitt side
+- OK   3 estimat=2.5 rad 27 (W7165061248, økning i sykedager per forsikret fra 202) står i sitatet
+- OK   2 sitat rad 28 (W7165061248, anslag fra IGES, gjengitt i fotnote, på ) står på oppgitt side
+- OK   3 estimat=60 rad 28 (W7165061248, anslag fra IGES, gjengitt i fotnote, på ) står i sitatet
+- OK   2 sitat rad 29 (W7170890177, nye sykefravær uansett årsak per 100 ans) står på oppgitt side
+- OK   3 estimat=173.1 rad 29 (W7170890177, nye sykefravær uansett årsak per 100 ans) står i sitatet
+- OK   2 sitat rad 30 (W3130895466, aldersstandardiserte sykefraværsdager pe) står på oppgitt side
+- OK   3 estimat=2.4 rad 30 (W3130895466, aldersstandardiserte sykefraværsdager pe) står i sitatet
+- OK   2 sitat rad 31 (W3130895466, sykefraværsdager per forsikret per år me) står på oppgitt side
+- OK   3 estimat=1.4 rad 31 (W3130895466, sykefraværsdager per forsikret per år me) står i sitatet
+- OK   2 sitat rad 32 (W3130895466, andel av sykepengedagene med psykiske li) står på oppgitt side
+- OK   3 estimat=34 rad 32 (W3130895466, andel av sykepengedagene med psykiske li) står i sitatet
+- OK   2 sitat rad 33 (W3213478442, økning i antall fraværende fra arbeid pg) står på oppgitt side
+- OK   3 estimat=44 rad 33 (W3213478442, økning i antall fraværende fra arbeid pg) står i sitatet
+- OK   2 sitat rad 34 (W3213478442, andel sysselsatte fraværende pga. egen s) står på oppgitt side
+- OK   3 estimat=2.9 rad 34 (W3213478442, andel sysselsatte fraværende pga. egen s) står i sitatet
+- OK   2 sitat rad 35 (W3213478442, andel sysselsatte kvinner fraværende pga) står på oppgitt side
+- OK   3 estimat=4.3 rad 35 (W3213478442, andel sysselsatte kvinner fraværende pga) står i sitatet
+- OK   2 sitat rad 36 (W4366153706, økning i månedlig sykefravær (alle årsak) står på oppgitt side
+- OK   3 estimat=2.8 rad 36 (W4366153706, økning i månedlig sykefravær (alle årsak) står i sitatet
+- OK   3 ki_lav=2.67 rad 36 (W4366153706, økning i månedlig sykefravær (alle årsak) står i sitatet
+- OK   3 ki_hoy=2.9 rad 36 (W4366153706, økning i månedlig sykefravær (alle årsak) står i sitatet
+- OK   4 rad 36 (W4366153706, økning i månedlig sykefravær (alle årsak) estimat innenfor KI
+- OK   2 sitat rad 37 (W4366153706, økning i månedlig sykefravær (alle årsak) står på oppgitt side
+- OK   3 estimat=2.2 rad 37 (W4366153706, økning i månedlig sykefravær (alle årsak) står i sitatet
+- OK   3 ki_lav=2.07 rad 37 (W4366153706, økning i månedlig sykefravær (alle årsak) står i sitatet
+- OK   3 ki_hoy=2.35 rad 37 (W4366153706, økning i månedlig sykefravær (alle årsak) står i sitatet
+- OK   4 rad 37 (W4366153706, økning i månedlig sykefravær (alle årsak) estimat innenfor KI
+- OK   2 sitat rad 38 (W4366153706, økning i sykefravær ikke knyttet til SAR) står på oppgitt side
+- OK   3 estimat=1.2 rad 38 (W4366153706, økning i sykefravær ikke knyttet til SAR) står i sitatet
+- OK   3 ki_lav=1.05 rad 38 (W4366153706, økning i sykefravær ikke knyttet til SAR) står i sitatet
+- OK   3 ki_hoy=1.29 rad 38 (W4366153706, økning i sykefravær ikke knyttet til SAR) står i sitatet
+- OK   4 rad 38 (W4366153706, økning i sykefravær ikke knyttet til SAR) estimat innenfor KI
+- OK   2 sitat rad 39 (W4366153706, økning i sykefravær ikke knyttet til SAR) står på oppgitt side
+- OK   3 estimat=0.7 rad 39 (W4366153706, økning i sykefravær ikke knyttet til SAR) står i sitatet
+- OK   3 ki_lav=0.52 rad 39 (W4366153706, økning i sykefravær ikke knyttet til SAR) står i sitatet
+- OK   3 ki_hoy=0.78 rad 39 (W4366153706, økning i sykefravær ikke knyttet til SAR) står i sitatet
+- OK   4 rad 39 (W4366153706, økning i sykefravær ikke knyttet til SAR) estimat innenfor KI
+- OK   2 sitat rad 40 (W4387095603, andel lønnstakere 30–62 år med nytt komp) står på oppgitt side
+- OK   3 estimat=11.1 rad 40 (W4387095603, andel lønnstakere 30–62 år med nytt komp) står i sitatet
+- OK   2 sitat rad 41 (W4387095603, nedgang i sannsynlighet for nytt sykefra) står på oppgitt side
+- OK   3 estimat=2.2 rad 41 (W4387095603, nedgang i sannsynlighet for nytt sykefra) står i sitatet
+- OK   2 sitat rad 42 (W4387095603, nedgang etter justering for utdanning (1) står på oppgitt side
+- OK   3 estimat=1.8 rad 42 (W4387095603, nedgang etter justering for utdanning (1) står i sitatet
+- OK   2 sitat rad 43 (W4387095603, nedgang etter justering for utdanning og) står på oppgitt side
+- OK   3 estimat=1.6 rad 43 (W4387095603, nedgang etter justering for utdanning og) står i sitatet
+- OK   2 sitat rad 44 (W4408043658, andel kvinner 25–64 år med langtidssykef) står på oppgitt side
+- OK   3 estimat=14.3 rad 44 (W4408043658, andel kvinner 25–64 år med langtidssykef) står i sitatet
+- OK   2 sitat rad 45 (W4408043658, andel menn 25–64 år med langtidssykefrav) står på oppgitt side
+- OK   3 estimat=8.9 rad 45 (W4408043658, andel menn 25–64 år med langtidssykefrav) står i sitatet
+- OK   2 sitat rad 46 (W3209365492, tapte dager pga. psykisk sykdom blant NH) står på oppgitt side
+- OK   3 estimat=899730 rad 46 (W3209365492, tapte dager pga. psykisk sykdom blant NH) står i sitatet
+- OK   2 sitat rad 49 (AV-2022-3-01, økning i legemeldt sykefravær i pandemiå) står på oppgitt side
+- OK   3 estimat=9 rad 49 (AV-2022-3-01, økning i legemeldt sykefravær i pandemiå) står i sitatet
+- OK   2 sitat rad 50 (AV-2022-3-01, økning i legemeldt sykefraværsprosent; s) står på oppgitt side
+- OK   3 estimat=0.4 rad 50 (AV-2022-3-01, økning i legemeldt sykefraværsprosent; s) står i sitatet
+- OK   2 sitat rad 51 (AV-2024-2-03, andel av økningen i legemeldt sykefravær) står på oppgitt side
+- OK   3 estimat=50 rad 51 (AV-2024-2-03, andel av økningen i legemeldt sykefravær) står i sitatet
+- OK   2 sitat rad 52 (AV-2025-3-04, økning i antall sykmeldte med psykisk di) står på oppgitt side
+- OK   3 estimat=28 rad 52 (AV-2025-3-04, økning i antall sykmeldte med psykisk di) står i sitatet
+- OK   2 sitat rad 53 (AV-2023-2-03, legemeldt sykefraværsprosent 2022 (4,8 i) står på oppgitt side
+- OK   3 estimat=5.4 rad 53 (AV-2023-2-03, legemeldt sykefraværsprosent 2022 (4,8 i) står i sitatet
+- OK   2 sitat rad 54 (AV-2023-2-03, relativ økning i legemeldt sykefravær) står på oppgitt side
+- OK   3 estimat=12.4 rad 54 (AV-2023-2-03, relativ økning i legemeldt sykefravær) står i sitatet
+- OK   2 sitat rad 55 (AV-2023-2-03, nytt sykefravær med trøtthet/slapphet 0–) står på oppgitt side
+- OK   3 estimat=3.88 rad 55 (AV-2023-2-03, nytt sykefravær med trøtthet/slapphet 0–) står i sitatet
+- OK   3 ki_lav=3.65 rad 55 (AV-2023-2-03, nytt sykefravær med trøtthet/slapphet 0–) står i sitatet
+- OK   3 ki_hoy=4.13 rad 55 (AV-2023-2-03, nytt sykefravær med trøtthet/slapphet 0–) står i sitatet
+- OK   4 rad 55 (AV-2023-2-03, nytt sykefravær med trøtthet/slapphet 0–) estimat innenfor KI
+- OK   4 rad 55 (AV-2023-2-03, nytt sykefravær med trøtthet/slapphet 0–) KI symmetrisk på log-skala (avvik 0.00)
+- OK   2 sitat rad 56 (AV-2020-2-02, påbegynte sykefraværstilfeller med covid) står på oppgitt side
+- OK   3 estimat=31000 rad 56 (AV-2020-2-02, påbegynte sykefraværstilfeller med covid) står i sitatet
+- OK   2 sitat rad 57 (AV-2020-2-02, flere påbegynte sykefraværstilfeller uke) står på oppgitt side
+- OK   3 estimat=79000 rad 57 (AV-2020-2-02, flere påbegynte sykefraværstilfeller uke) står i sitatet
+- OK   2 sitat rad 58 (AV-2020-2-02, økning i totalt sykefravær første kvarta) står på oppgitt side
+- OK   3 estimat=10 rad 58 (AV-2020-2-02, økning i totalt sykefravær første kvarta) står i sitatet
+- OK   2 sitat rad 59 (AV-2020-2-02, færre påbegynte sykefraværstilfeller uke) står på oppgitt side
+- OK   3 estimat=24000 rad 59 (AV-2020-2-02, færre påbegynte sykefraværstilfeller uke) står i sitatet
+- OK   2 sitat rad 60 (AV-2024-1-03, andel av sykmeldte med hyppig gjentakend) står på oppgitt side
+- OK   3 estimat=9 rad 60 (AV-2024-1-03, andel av sykmeldte med hyppig gjentakend) står i sitatet
+- OK   2 sitat rad 61 (AV-2024-1-03, andel av sykefraværsdagene som faller på) står på oppgitt side
+- OK   3 estimat=18 rad 61 (AV-2024-1-03, andel av sykefraværsdagene som faller på) står i sitatet
+- OK   2 sitat rad 62 (W4304172721, økning i månedlig sykefravær under omikr) står på oppgitt side
+- OK   3 estimat=2.92 rad 62 (W4304172721, økning i månedlig sykefravær under omikr) står i sitatet
+- OK   3 ki_lav=2.9 rad 62 (W4304172721, økning i månedlig sykefravær under omikr) står i sitatet
+- OK   3 ki_hoy=2.94 rad 62 (W4304172721, økning i månedlig sykefravær under omikr) står i sitatet
+- OK   4 rad 62 (W4304172721, økning i månedlig sykefravær under omikr) estimat innenfor KI
+- OK   2 sitat rad 63 (W4304172721, økning i månedlig sykefravær under omikr) står på oppgitt side
+- OK   3 estimat=4.42 rad 63 (W4304172721, økning i månedlig sykefravær under omikr) står i sitatet
+- OK   3 ki_lav=4.33 rad 63 (W4304172721, økning i månedlig sykefravær under omikr) står i sitatet
+- OK   3 ki_hoy=4.51 rad 63 (W4304172721, økning i månedlig sykefravær under omikr) står i sitatet
+- OK   4 rad 63 (W4304172721, økning i månedlig sykefravær under omikr) estimat innenfor KI
+- OK   2 sitat rad 64 (W3201021805, insidens av nytt sykefravær blant NHS-an) står på oppgitt side
+- OK   3 estimat=20 rad 64 (W3201021805, insidens av nytt sykefravær blant NHS-an) står i sitatet
+- OK   2 sitat rad 65 (W3201021805, økning i nytt sykefravær pga. psykisk sy) står på oppgitt side
+- OK   3 estimat=42.3 rad 65 (W3201021805, økning i nytt sykefravær pga. psykisk sy) står i sitatet
+- OK   2 sitat rad 66 (W4407319512, andel kvinner (privat ansatte funksjonær) står på oppgitt side
+- OK   3 estimat=0.6 rad 66 (W4407319512, andel kvinner (privat ansatte funksjonær) står i sitatet
+- OK   2 sitat rad 67 (W4407319512, andel kvinner med annet sykefravær >14 d) står på oppgitt side
+- OK   3 estimat=8.1 rad 67 (W4407319512, andel kvinner med annet sykefravær >14 d) står i sitatet
+- OK   2 sitat rad 68 (W4407319512, andel menn med annet sykefravær >14 dage) står på oppgitt side
+- OK   3 estimat=3.7 rad 68 (W4407319512, andel menn med annet sykefravær >14 dage) står i sitatet
+- OK   2 sitat rad 69 (W4310375817, overskuddsandel (excess fraction) av lan) står på oppgitt side
+- OK   3 estimat=16.9 rad 69 (W4310375817, overskuddsandel (excess fraction) av lan) står i sitatet
+- OK   2 sitat rad 70 (W4310375817, overskuddsandel av langvarig sykefravær ) står på oppgitt side
+- OK   3 estimat=18.2 rad 70 (W4310375817, overskuddsandel av langvarig sykefravær ) står i sitatet
+- OK   2 sitat rad 71 (W4392197176, sykefraværsdager per arbeidstaker i Norg) står på oppgitt side
+- OK   3 estimat=17.2 rad 71 (W4392197176, sykefraværsdager per arbeidstaker i Norg) står i sitatet
+- OK   2 sitat rad 72 (W4392197176, sykefraværsdager per arbeidstaker i Norg) står på oppgitt side
+- OK   3 estimat=16.8 rad 72 (W4392197176, sykefraværsdager per arbeidstaker i Norg) står i sitatet
+- OK   2 sitat rad 73 (W4392197176, gjennomsnittlige sykefraværsdager per ar) står på oppgitt side
+- OK   3 estimat=12.6 rad 73 (W4392197176, gjennomsnittlige sykefraværsdager per ar) står i sitatet
+- OK   2 sitat rad 74 (W4392197176, kostnader ved sykefravær som andel av BN) står på oppgitt side
+- OK   3 estimat=4.3 rad 74 (W4392197176, kostnader ved sykefravær som andel av BN) står i sitatet
+- OK   2 sitat rad 75 (0198f22760a6-c80f28c1-bed0-4b04-b91b-85203d40dd2c, nedgang i sykefravær i industrien (maste) står på oppgitt side
+- OK   3 estimat=33 rad 75 (0198f22760a6-c80f28c1-bed0-4b04-b91b-85203d40dd2c, nedgang i sykefravær i industrien (maste) står i sitatet
+- OK   2 sitat rad 76 (0198f22760a6-c80f28c1-bed0-4b04-b91b-85203d40dd2c, bidrag fra økt utdanningsnivå (sammenset) står på oppgitt side
+- OK   3 estimat=0.5 rad 76 (0198f22760a6-c80f28c1-bed0-4b04-b91b-85203d40dd2c, bidrag fra økt utdanningsnivå (sammenset) står i sitatet
+- OK   2 sitat rad 77 (01999f330df6-61199673-0dc2-4da6-beee-44d402da77ad, økning i legemeldt sykefravær i undervis) står på oppgitt side
+- OK   3 estimat=15 rad 77 (01999f330df6-61199673-0dc2-4da6-beee-44d402da77ad, økning i legemeldt sykefravær i undervis) står i sitatet
+- OK   2 sitat rad 78 (01999f330df6-61199673-0dc2-4da6-beee-44d402da77ad, del av økningen på 1.00 pp i undervisnin) står på oppgitt side
+- OK   3 estimat=-0.07 rad 78 (01999f330df6-61199673-0dc2-4da6-beee-44d402da77ad, del av økningen på 1.00 pp i undervisnin) står i sitatet
+- OK   2 sitat rad 79 (W2129153957, ingen tall i sammendraget (bare sammendr) står på oppgitt side
+- OK   2 sitat rad 80 (W2785834892, ingen tall i sammendraget (bare sammendr) står på oppgitt side
+- OK   2 sitat rad 81 (W4400282262, rate av sykmeldinger (fit notes) blant p) står på oppgitt side
+- OK   3 estimat=4.07 rad 81 (W4400282262, rate av sykmeldinger (fit notes) blant p) står i sitatet
+- OK   3 ki_lav=4.02 rad 81 (W4400282262, rate av sykmeldinger (fit notes) blant p) står i sitatet
+- OK   3 ki_hoy=4.12 rad 81 (W4400282262, rate av sykmeldinger (fit notes) blant p) står i sitatet
+- OK   4 rad 81 (W4400282262, rate av sykmeldinger (fit notes) blant p) estimat innenfor KI
+- OK   4 rad 81 (W4400282262, rate av sykmeldinger (fit notes) blant p) KI symmetrisk på log-skala (avvik 0.00)
+- OK   2 sitat rad 82 (W4400282262, rate av sykmeldinger blant personer med ) står på oppgitt side
+- OK   3 estimat=1.57 rad 82 (W4400282262, rate av sykmeldinger blant personer med ) står i sitatet
+- OK   3 ki_lav=1.56 rad 82 (W4400282262, rate av sykmeldinger blant personer med ) står i sitatet
+- OK   3 ki_hoy=1.58 rad 82 (W4400282262, rate av sykmeldinger blant personer med ) står i sitatet
+- OK   4 rad 82 (W4400282262, rate av sykmeldinger blant personer med ) estimat innenfor KI
+- OK   4 rad 82 (W4400282262, rate av sykmeldinger blant personer med ) KI symmetrisk på log-skala (avvik 0.00)
+- OK   2 sitat rad 83 (W7127960047, Aldersstandardisert rate av legeerklærin) står på oppgitt side
+- OK   3 estimat=23.5 rad 83 (W7127960047, Aldersstandardisert rate av legeerklærin) står i sitatet
+- OK   2 sitat rad 84 (W7127960047, Aldersstandardisert rate av legeerklærin) står på oppgitt side
+- OK   3 estimat=24.0 rad 84 (W7127960047, Aldersstandardisert rate av legeerklærin) står i sitatet
+- OK   2 sitat rad 85 (W7127960047, Gjennomsnittlig varighet av legeerklærin) står på oppgitt side
+- OK   3 estimat=29.8 rad 85 (W7127960047, Gjennomsnittlig varighet av legeerklærin) står i sitatet
+- OK   2 sitat rad 86 (W7127960047, Anslått samlet årlig kostnad av sykefrav) står på oppgitt side
+- OK   3 estimat=15.9 rad 86 (W7127960047, Anslått samlet årlig kostnad av sykefrav) står i sitatet
+- OK   3 ki_lav=15.8 rad 86 (W7127960047, Anslått samlet årlig kostnad av sykefrav) står i sitatet
+- OK   3 ki_hoy=15.9 rad 86 (W7127960047, Anslått samlet årlig kostnad av sykefrav) står i sitatet
+- OK   4 rad 86 (W7127960047, Anslått samlet årlig kostnad av sykefrav) estimat innenfor KI
+- OK   2 sitat rad 87 (W4399485338, Kjønnsforskjell i andel som mottar sykep) står på oppgitt side
+- OK   3 estimat=5 rad 87 (W4399485338, Kjønnsforskjell i andel som mottar sykep) står i sitatet
+- OK   2 sitat rad 88 (W4399485338, Kjønnsforskjell i andel som mottar sykep) står på oppgitt side
+- OK   3 estimat=6 rad 88 (W4399485338, Kjønnsforskjell i andel som mottar sykep) står i sitatet
+- OK   2 sitat rad 89 (W4399485338, Kjønnsforskjell i andel med sykepenger b) står på oppgitt side
+- OK   3 estimat=8 rad 89 (W4399485338, Kjønnsforskjell i andel med sykepenger b) står i sitatet
+- OK   2 sitat rad 90 (W4399485338, Andel kvinner med lav utdanning som mott) står på oppgitt side
+- OK   3 estimat=10 rad 90 (W4399485338, Andel kvinner med lav utdanning som mott) står i sitatet
+- OK   2 sitat rad 91 (W4413036354, Hasard for første sykepengetilfelle med ) står på oppgitt side
+- OK   3 estimat=1.90 rad 91 (W4413036354, Hasard for første sykepengetilfelle med ) står i sitatet
+- OK   2 sitat rad 92 (W4413036354, Hasard for første sykepengetilfelle med ) står på oppgitt side
+- OK   3 estimat=1.95 rad 92 (W4413036354, Hasard for første sykepengetilfelle med ) står i sitatet
+- OK   2 sitat rad 93 (W7167811346, Langtidssykefravær første år etter test) står på oppgitt side
+- OK   3 estimat=2.92 rad 93 (W7167811346, Langtidssykefravær første år etter test) står i sitatet
+- OK   3 ki_lav=2.82 rad 93 (W7167811346, Langtidssykefravær første år etter test) står i sitatet
+- OK   3 ki_hoy=3.03 rad 93 (W7167811346, Langtidssykefravær første år etter test) står i sitatet
+- OK   4 rad 93 (W7167811346, Langtidssykefravær første år etter test) estimat innenfor KI
+- OK   4 rad 93 (W7167811346, Langtidssykefravær første år etter test) KI symmetrisk på log-skala (avvik 0.00)
+- OK   2 sitat rad 94 (W7167811346, Lav arbeidsdeltakelse (under 90 prosent)) står på oppgitt side
+- OK   3 estimat=1.32 rad 94 (W7167811346, Lav arbeidsdeltakelse (under 90 prosent)) står i sitatet
+- OK   3 ki_lav=1.30 rad 94 (W7167811346, Lav arbeidsdeltakelse (under 90 prosent)) står i sitatet
+- OK   3 ki_hoy=1.34 rad 94 (W7167811346, Lav arbeidsdeltakelse (under 90 prosent)) står i sitatet
+- OK   4 rad 94 (W7167811346, Lav arbeidsdeltakelse (under 90 prosent)) estimat innenfor KI
+- OK   4 rad 94 (W7167811346, Lav arbeidsdeltakelse (under 90 prosent)) KI symmetrisk på log-skala (avvik 0.00)
+- OK   2 sitat rad 95 (W7167811346, Andel som startet langtidssykefravær inn) står på oppgitt side
+- OK   3 estimat=1.7 rad 95 (W7167811346, Andel som startet langtidssykefravær inn) står i sitatet
+- OK   2 sitat rad 96 (W4390881238, Gjennomsnittlig varighet av sykefravær m) står på oppgitt side
+- OK   3 estimat=41 rad 96 (W4390881238, Gjennomsnittlig varighet av sykefravær m) står i sitatet
+- OK   3 ki_lav=40.3 rad 96 (W4390881238, Gjennomsnittlig varighet av sykefravær m) står i sitatet
+- OK   3 ki_hoy=42.0 rad 96 (W4390881238, Gjennomsnittlig varighet av sykefravær m) står i sitatet
+- OK   4 rad 96 (W4390881238, Gjennomsnittlig varighet av sykefravær m) estimat innenfor KI
+- OK   2 sitat rad 97 (W4390881238, Gjennomsnittlig varighet av sykefravær v) står på oppgitt side
+- OK   3 estimat=186 rad 97 (W4390881238, Gjennomsnittlig varighet av sykefravær v) står i sitatet
+- OK   2 sitat rad 98 (AV-2008-4-01, Korrelasjon mellom sykepengedager per lø) står på oppgitt side
+- OK   3 estimat=-0.93 rad 98 (AV-2008-4-01, Korrelasjon mellom sykepengedager per lø) står i sitatet
+- OK   2 sitat rad 99 (AV-2008-4-01, Korrelasjon mellom sykefravær og ledighe) står på oppgitt side
+- OK   3 estimat=-0.96 rad 99 (AV-2008-4-01, Korrelasjon mellom sykefravær og ledighe) står i sitatet
+- OK   2 sitat rad 100 (AV-2008-4-01, Konjunkturknyttet svingning: økning i sy) står på oppgitt side
+- OK   3 estimat=4.1 rad 100 (AV-2008-4-01, Konjunkturknyttet svingning: økning i sy) står i sitatet
+- OK   2 sitat rad 101 (W2076042101, Legemeldte sykefraværsdager per kvartal,) står på oppgitt side
+- OK   3 estimat=-0.74 rad 101 (W2076042101, Legemeldte sykefraværsdager per kvartal,) står i sitatet
+- OK   2 sitat rad 102 (W2076042101, Relativ nedgang i sykefraværsdager for k) står på oppgitt side
+- OK   3 estimat=10 rad 102 (W2076042101, Relativ nedgang i sykefraværsdager for k) står i sitatet
+- OK   2 sitat rad 103 (W2076042101, Relativ nedgang i sykefraværsdager for m) står på oppgitt side
+- OK   3 estimat=23 rad 103 (W2076042101, Relativ nedgang i sykefraværsdager for m) står i sitatet
+- OK   2 sitat rad 104 (W3198827421, Legemeldt sykefravær 0–2 måneder etter t) står på oppgitt side
+- OK   3 estimat=0.079 rad 104 (W3198827421, Legemeldt sykefravær 0–2 måneder etter t) står i sitatet
+- OK   3 ki_lav=0.076 rad 104 (W3198827421, Legemeldt sykefravær 0–2 måneder etter t) står i sitatet
+- OK   3 ki_hoy=0.082 rad 104 (W3198827421, Legemeldt sykefravær 0–2 måneder etter t) står i sitatet
+- OK   4 rad 104 (W3198827421, Legemeldt sykefravær 0–2 måneder etter t) estimat innenfor KI
+- OK   2 sitat rad 105 (W3198827421, Relativ økning i legemeldt sykefravær 3–) står på oppgitt side
+- OK   3 estimat=35 rad 105 (W3198827421, Relativ økning i legemeldt sykefravær 3–) står i sitatet
+- OK   2 sitat rad 106 (W3198827421, Sykefravær blant testet negative 5–6 mån) står på oppgitt side
+- OK   3 estimat=2.7 rad 106 (W3198827421, Sykefravær blant testet negative 5–6 mån) står i sitatet
+- OK   5 tallet 0.076 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 0.079 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 0.082 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 0.4 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 0.7 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 0.93 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 1.2 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 1.3 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 1.57 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 1.6 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 1.90 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 1.95 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 100 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 104.5 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 11 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 11.1 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 12.6 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 13 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 14 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 14.1 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 14023 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 14491 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 15 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 15.6 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 15.9 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 16.8 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 17.2 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 173.1 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 18 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 19 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 2.1 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 2.2 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 2.4 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 2.5 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 2.7 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 2.8 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 2.82 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 2.9 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 2.92 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 2.94 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 21263 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 23.5 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 24.0 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 24466 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 26.7 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 28 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 29.8 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 3.03 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 3.6 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 3.88 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 31000 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 32 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 34 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 34705 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 35 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 42.3 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 45 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 60 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 70 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 899730 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 90 i svaret finnes i estimat- eller statistikktabellen
+- OK   6 utelatt W3011614181 «Burnout in nursing: a theoretical review» (2020) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W2934791458 «The longitudinal integrated database for health insurance and labour m» (2019) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W2181455115 «Workplace interventions for common mental disorders: a systematic meta» (2015) – Etter tittel: tiltak eller retur til arbeid, ikke utviklingen i sykefravær.
+- OK   6 utelatt W2237983425 «Prevention of Low Back Pain» (2016) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W2134258291 «Interventions for preventing and treating low-back and pelvic pain dur» (2015) – Etter tittel: tiltak eller retur til arbeid, ikke utviklingen i sykefravær.
+- OK   6 utelatt W1926837556 «Workplace interventions to prevent work disability in workers on sick » (2015) – Etter tittel: tiltak eller retur til arbeid, ikke utviklingen i sykefravær.
+- OK   6 utelatt W3014706530 «Psychosocial Stressors at Work and the Risk of Sickness Absence Due to» (2020) – Etter tittel: risikofaktorer for fravær hos enkeltpersoner, ikke utviklingen over tid.
+- OK   6 utelatt W2762642033 «Determinants of Sickness Absence and Return to Work Among Employees wi» (2017) – Etter tittel: tiltak eller retur til arbeid, ikke utviklingen i sykefravær.
+- OK   6 utelatt W4253720434 «Interventions to improve return to work in depressed people» (2020) – Etter tittel: tiltak eller retur til arbeid, ikke utviklingen i sykefravær.
+- OK   6 utelatt W2913921595 «Sustainable Return to Work: A Systematic Review Focusing on Personal a» (2019) – Etter tittel: tiltak eller retur til arbeid, ikke utviklingen i sykefravær.
+- OK   6 utelatt W2427479979 «Workplace bullying and sickness absence: a systematic review and meta-» (2016) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W2521292297 «Systematic Review of Prognostic Factors for Return to Work in Workers » (2016) – Etter tittel: tiltak eller retur til arbeid, ikke utviklingen i sykefravær.
+- OK   6 utelatt W2951065390 «A systematic review of infectious illness Presenteeism: prevalence, re» (2019) – Etter tittel: risikofaktorer for fravær hos enkeltpersoner, ikke utviklingen over tid.
+- OK   6 utelatt W2147054925 «National and regional asthma programmes in Europe» (2015) – Etter tittel: tiltak eller retur til arbeid, ikke utviklingen i sykefravær.
+- OK   6 utelatt W2613140998 «Examination of the double burden hypothesis—a systematic review of wor» (2017) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W1606668257 «Return-to-work coordination programmes for improving return to work in» (2017) – Etter tittel: tiltak eller retur til arbeid, ikke utviklingen i sykefravær.
+- OK   6 utelatt W2810119800 «Systematic review and meta-analysis of interventions aimed at enhancin» (2018) – Etter tittel: tiltak eller retur til arbeid, ikke utviklingen i sykefravær.
+- OK   6 utelatt W4280509501 «Menopause and work: A narrative literature review about menopause, wor» (2022) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W3026001168 «Workplace violence and health in human service industries: a systemati» (2020) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W2901085500 «Psychological treatments for return to work in individuals on sickness» (2018) – Etter tittel: tiltak eller retur til arbeid, ikke utviklingen i sykefravær.
+- OK   6 utelatt W2789590872 «Sickness absence: a systematic review and meta-analysis of psychologic» (2018) – Etter tittel: tiltak eller retur til arbeid, ikke utviklingen i sykefravær.
+- OK   6 utelatt W4381251882 «Effectiveness of Workplace Interventions to Improve Health and Well-Be» (2023) – Etter tittel: tiltak eller retur til arbeid, ikke utviklingen i sykefravær.
+- OK   6 utelatt W3026444241 «Sickness absence in healthcare workers during the COVID-19 pandemic» (2020) – Helsearbeidere under første pandemibølge. Dekket av den norske registerstudien av helsearbeidere og NHS-studien.
+- OK   6 utelatt W1908441297 «Alcohol use–sickness absence association and the moderating role of ge» (2015) – Etter tittel: risikofaktorer for fravær hos enkeltpersoner, ikke utviklingen over tid.
+- OK   6 utelatt W4200051213 «COVID-19 Prevalence among Healthcare Workers. A Systematic Review and » (2021) – Etter tittel: covid-19 blant enkeltgrupper eller smitte, ikke utviklingen i sykefravær i et land.
+- OK   6 utelatt W4284965775 «The Swedish military conscription register: opportunities for its use » (2022) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W3014573601 «A Systematic Review on the Research Progress and Evolving Trends of Oc» (2020) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W3215031467 «The Effects of Workplace Interventions on Low Back Pain in Workers: A » (2021) – Etter tittel: tiltak eller retur til arbeid, ikke utviklingen i sykefravær.
+- OK   6 utelatt W3014899208 «Interventions for common mental disorders in the occupational health s» (2020) – Etter tittel: tiltak eller retur til arbeid, ikke utviklingen i sykefravær.
+- OK   6 utelatt W4210358302 «Predictors of return to work for people on sick leave with common ment» (2022) – Etter tittel: tiltak eller retur til arbeid, ikke utviklingen i sykefravær.
+- OK   6 utelatt W2231119633 «Prognostic factors for disability and sick leave in patients with suba» (2016) – Etter tittel: risikofaktorer for fravær hos enkeltpersoner, ikke utviklingen over tid.
+- OK   6 utelatt W2322301818 «Influenza in workplaces: transmission, workers’ adherence to sick leav» (2016) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W2972298793 «Smoking and sickness absence: a systematic review and meta-analysis» (2019) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W3188748814 «Labor unions and health: A literature review of pathways and outcomes » (2021) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W1904282833 «The effectiveness of return-to-work interventions that incorporate wor» (2015) – Etter tittel: tiltak eller retur til arbeid, ikke utviklingen i sykefravær.
+- OK   6 utelatt W2494362290 «Vocational Rehabilitation: Supporting Ill or Disabled Individuals in (» (2016) – Etter tittel: tiltak eller retur til arbeid, ikke utviklingen i sykefravær.
+- OK   6 utelatt W3042734803 «Association between job strain and sick leave: a systematic review and» (2020) – Etter tittel: risikofaktorer for fravær hos enkeltpersoner, ikke utviklingen over tid.
+- OK   6 utelatt W4210810646 «‘The WOW factors’: comparing workforce organization and well-being for» (2022) – Etter tittel: risikofaktorer for fravær hos enkeltpersoner, ikke utviklingen over tid.
+- OK   6 utelatt W3049205530 «Meta-analysis of nursing-related organizational and psychosocial predi» (2020) – Etter tittel: risikofaktorer for fravær hos enkeltpersoner, ikke utviklingen over tid.
+- OK   6 utelatt W4294879451 «Effectiveness of work-related interventions for return to work in peop» (2022) – Etter tittel: tiltak eller retur til arbeid, ikke utviklingen i sykefravær.
+- OK   6 utelatt W2800437799 «Common mental disorders and work» (2018) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W3006047687 «Alcohol consumption and sick leave: a meta-analysis» (2020) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W4366084369 «The Effectiveness of Cognitive-Behavioral Therapy in Helping People on» (2023) – Etter tittel: tiltak eller retur til arbeid, ikke utviklingen i sykefravær.
+- OK   6 utelatt W2412604146 «Effectiveness of very early workplace interventions to reduce sickness» (2016) – Etter tittel: tiltak eller retur til arbeid, ikke utviklingen i sykefravær.
+- OK   6 utelatt W2964988968 «Body mass index and risk of sick leave: A systematic review and meta‐a» (2019) – Etter tittel: risikofaktorer for fravær hos enkeltpersoner, ikke utviklingen over tid.
+- OK   6 utelatt W2301494140 «Pre-employment examinations for preventing injury, disease and sick le» (2016) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W3007984474 «Extending Working Lives: A Systematic Review of Healthy Working Life E» (2020) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W2933884038 «Fatigue and risk of sickness absence in the working population: A syst» (2019) – Etter tittel: risikofaktorer for fravær hos enkeltpersoner, ikke utviklingen over tid.
+- OK   6 utelatt W2887910780 «Sickness absence after carpal tunnel release: a systematic review of t» (2018) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W3131842820 «Systematic Review and Dose–Response Meta-Analysis on the Relationship » (2021) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W4206673147 «A systematic review and meta-analysis uncovering the relationship betw» (2022) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W4229045700 «Because they’re worth it? A discussion paper on the value of 12-h shif» (2022) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W4396667274 «Effects of work-directed interventions on return-to-work in people on » (2024) – Etter tittel: tiltak eller retur til arbeid, ikke utviklingen i sykefravær.
+- OK   6 utelatt W3184459270 «Demographic, Lifestyle, and Physical Health Predictors of Sickness Abs» (2021) – Etter tittel: risikofaktorer for fravær hos enkeltpersoner, ikke utviklingen over tid.
+- OK   6 utelatt W3017444593 «Sleep disturbances and risk of sick leave: systematic review and meta-» (2020) – Etter tittel: risikofaktorer for fravær hos enkeltpersoner, ikke utviklingen over tid.
+- OK   6 utelatt W3165322194 «Sustainable Working Life in a Swedish Twin Cohort—A Definition Paper w» (2021) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W2898321697 «Systematic review of interventions targeting sickness absence among pr» (2018) – Etter tittel: tiltak eller retur til arbeid, ikke utviklingen i sykefravær.
+- OK   6 utelatt W4282927447 «Association of open-plan offices and sick leave—a systematic review an» (2022) – Etter tittel: risikofaktorer for fravær hos enkeltpersoner, ikke utviklingen over tid.
+- OK   6 utelatt W4306643191 «Sick leave during pregnancy and occupational factors: a systematic rev» (2022) – Etter tittel: risikofaktorer for fravær hos enkeltpersoner, ikke utviklingen over tid.
+- OK   6 utelatt W2605154374 «Exploring work-related attributions of sickness absence during organiz» (2017) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W2885574758 «Self-certification versus physician certification of sick leave for re» (2019) – Cochrane-oversikt om egenmelding mot legeattest; handler om utforming av ordningen, ikke utviklingen etter 2015.
+- OK   6 utelatt W4400726482 «Systematic review and tools appraisal of prognostic factors of return » (2024) – Etter tittel: tiltak eller retur til arbeid, ikke utviklingen i sykefravær.
+- OK   6 utelatt W4229439392 «Promoting labour market inclusion of the chronically ill: a scoping re» (2022) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W4410344572 «Sick leave or work sick? Examining the antecedents and conceptualizati» (2025) – Etter tittel: covid-19 blant enkeltgrupper eller smitte, ikke utviklingen i sykefravær i et land.
+- OK   6 utelatt W3085841028 «Modeling sickness absence data: A scoping review» (2020) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W4400582204 «A systematic review of programs and interventions for reduction of sic» (2024) – Etter tittel: tiltak eller retur til arbeid, ikke utviklingen i sykefravær.
+- OK   6 utelatt W2945906100 «Impact of Robotic Surgery on Sick Leave and Return to Work in Patients» (2019) – Etter tittel: tiltak eller retur til arbeid, ikke utviklingen i sykefravær.
+- OK   6 utelatt W4210751470 «Internet-delivered cognitive behavioral therapy (iCBT) for common ment» (2022) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W4400508236 «Factors Related to the Recurrence of Sickness Absence Due to Common Me» (2024) – Etter tittel: risikofaktorer for fravær hos enkeltpersoner, ikke utviklingen over tid.
+- OK   6 utelatt W4411111665 «A scoping review of UK local government workplace health and wellbeing» (2025) – Etter tittel: tiltak eller retur til arbeid, ikke utviklingen i sykefravær.
+- OK   6 utelatt W4205824815 «Revisión Sistemática sobre salud digital en la gestión del absentismo » (2022) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W4361864630 «Sick Leave Determinants in the Healthcare Sector (Part II): A Review o» (2023) – Etter tittel: risikofaktorer for fravær hos enkeltpersoner, ikke utviklingen over tid.
+- OK   6 utelatt W3121570505 «An overlooked concept? Intention to return to work among individuals o» (2021) – Etter tittel: tiltak eller retur til arbeid, ikke utviklingen i sykefravær.
+- OK   6 utelatt W1758546192 «Interventioner för återgång i arbete vid sjukskrivning - En systematis» (2015) – Etter tittel: tiltak eller retur til arbeid, ikke utviklingen i sykefravær.
+- OK   6 utelatt W4388336816 «Intermethod agreement of self-reports compared to register data collec» (2023) – Etter tittel: tiltak eller retur til arbeid, ikke utviklingen i sykefravær.
+- OK   6 utelatt W4383228294 «Domestic Factors as Determinant of Sickness Absence with Psychiatric D» (2023) – Etter tittel: risikofaktorer for fravær hos enkeltpersoner, ikke utviklingen over tid.
+- OK   6 utelatt W4285588700 «Protocol for a systematic review and meta-analysis on the associations» (2022) – Etter tittel: risikofaktorer for fravær hos enkeltpersoner, ikke utviklingen over tid.
+- OK   6 utelatt W4414966319 «Direct and Indirect Costs of Prostate Cancer: A Comprehensive Assessme» (2025) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W7155642786 «The impact of working conditions on sickness absence among older worke» (2026) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W3208028923 «COVID-19 immunizations in occupational medicine» (2021) – Etter tittel: covid-19 blant enkeltgrupper eller smitte, ikke utviklingen i sykefravær i et land.
+- OK   6 utelatt W2765893168 «Sickness absence and return-to-work determinants among employees with » (2017) – Etter tittel: tiltak eller retur til arbeid, ikke utviklingen i sykefravær.
+- OK   6 utelatt W4220989035 «The impact of COVID-19 on social care and social work in the UK: A Sco» (2022) – Etter tittel: covid-19 blant enkeltgrupper eller smitte, ikke utviklingen i sykefravær i et land.
+- OK   6 utelatt W7212504392 «A review of reviews exploring gender differences in sickness absence» (2026) – Oversikt over årsaker til kjønnsforskjeller i nivå, ikke utviklingen over tid.
+- OK   6 utelatt W7203483065 «Work-Related Illnesses and Work Disability in Brazil: A Scoping Review» (2026) – Etter tittel: risikofaktorer for fravær hos enkeltpersoner, ikke utviklingen over tid.
+- OK   6 utelatt W2564448740 «Determinants of sickness absence and early retirement intentions and t» (2016) – Etter tittel: risikofaktorer for fravær hos enkeltpersoner, ikke utviklingen over tid.
+- OK   6 utelatt W7172524934 «Designing the work week in healthcare: a systems agenda for safer, sus» (2026) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W4200204804 «Sickness Absence Culture: A Scoping Review» (2021) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W2588313794 «Problems encountered in systematic reviews regarding sickness absence/» (2015) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W2765263190 «Length of sickness absence and sustained return to work: systematic re» (2017) – Etter tittel: tiltak eller retur til arbeid, ikke utviklingen i sykefravær.
+- OK   6 utelatt W7151672759 «[The positive and negative consequences of sick leave: A systematic re» (2026) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W7221481109 «A Comparison of Norwegian and USA musculoskeletal sick leave processes» (2026) – Protokoll for kartleggingsoversikt Norge–USA, ingen resultater.
+- OK   6 utelatt W7225236599 «Absenteeism, presenteeism and sick leave associated with tobacco and a» (2026) – Etter tittel: risikofaktorer for fravær hos enkeltpersoner, ikke utviklingen over tid.
+- OK   6 utelatt W7165880282 «Staff well-being activities in Paediatric Critical Care Units in Unite» (2026) – Etter tittel: covid-19 blant enkeltgrupper eller smitte, ikke utviklingen i sykefravær i et land.
+- OK   6 utelatt W7213984554 «Work-focused cognitive behavioural therapy for common mental disorders» (2026) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W7220466553 «Work-focused cognitive behavioural therapy for common mental disorders» (2026) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W7207308762 «IA-avtalen 2019–2022» (2018) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W2785613501 «Smittevern i barnehager: Effekt av håndhygiene, opplæring og fysiske t» (2015) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W7112572630 «Mindfulness as a method for work-related stress in health care profess» (2020) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W2565348819 «Worksite Physical Activity Interventions and their effect on employees» (2016) – Etter tittel: tiltak eller retur til arbeid, ikke utviklingen i sykefravær.
+- OK   6 utelatt W2586228238 «Good Life with osteoArthritis in Denmark (GLA:D™): evidence-based educ» (2017) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W3023235206 «Fit Mind, Fit Job» (2015) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W2903789525 «Effectiveness and cost-effectiveness of neuromuscular exercise and bac» (2018) – Etter tittel: tiltak eller retur til arbeid, ikke utviklingen i sykefravær.
+- OK   6 utelatt W2761689961 «Workplace mental health training for managers and its effect on sick l» (2017) – Etter tittel: tiltak eller retur til arbeid, ikke utviklingen i sykefravær.
+- OK   6 utelatt W3217506313 «The impact of healthy workplaces on employee satisfaction, productivit» (2021) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W1594769795 «Moral distress among social workers: The role of insufficient resource» (2015) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W3014126190 «Acute and long-term costs of 268 peripheral nerve injuries in the uppe» (2020) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W2773380832 «Obesity prevalence among healthcare professionals in England: a cross-» (2017) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W2921443268 «Healthy migrant effect in the Swedish context: a register-based, longi» (2019) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W2898260678 «The price of fear: Estimating the financial cost of bullying and haras» (2018) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W2900045143 «Lifestyle factors and risk of sickness absence from work: a multicohor» (2018) – Etter tittel: risikofaktorer for fravær hos enkeltpersoner, ikke utviklingen over tid.
+- OK   6 utelatt W2167890993 «Work-focused cognitive–behavioural therapy and individual job support » (2015) – Etter tittel: tiltak eller retur til arbeid, ikke utviklingen i sykefravær.
+- OK   6 utelatt W3049240170 «COVID-19, gender inequality, and the responsibility of the state» (2020) – Etter tittel: covid-19 blant enkeltgrupper eller smitte, ikke utviklingen i sykefravær i et land.
+- OK   6 utelatt W3113547049 «Migrant workers, essential work, and COVID‐19» (2020) – Etter tittel: covid-19 blant enkeltgrupper eller smitte, ikke utviklingen i sykefravær i et land.
+- OK   6 utelatt W2973611391 «The Better Management of Patients with Osteoarthritis Program: Outcome» (2019) – Etter tittel: tiltak eller retur til arbeid, ikke utviklingen i sykefravær.
+- OK   6 utelatt W2139845198 «A ‘Balanced’ Life: Work-Life Balance and Sickness Absence in Four Nord» (2015) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W3164741739 «Patterns and predictors of sick leave after Covid-19 and long Covid in» (2021) – Svensk kohort om fravær etter covid-19, kategori 5; covid-effekten er dekket av studier med sterkere design.
+- OK   6 utelatt W2947843510 «Economic burden of moderate to severe irritable bowel syndrome with co» (2019) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W2268232745 «Longitudinal associations of active commuting with wellbeing and sickn» (2015) – Etter tittel: risikofaktorer for fravær hos enkeltpersoner, ikke utviklingen over tid.
+- OK   6 utelatt W2160260412 «Effectiveness of a Blended Web-Based Intervention on Return to Work fo» (2015) – Etter tittel: tiltak eller retur til arbeid, ikke utviklingen i sykefravær.
+- OK   6 utelatt W2344015084 «Descriptive Epidemiology of Somatising Tendency: Findings from the CUP» (2016) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W4321793262 «Two-year follow-up of patients with post-COVID-19 condition in Sweden:» (2023) – Etter tittel: covid-19 blant enkeltgrupper eller smitte, ikke utviklingen i sykefravær i et land.
+- OK   6 utelatt W2569828495 «Return to Work after a Stroke in Working Age Persons; A Six-Year Follo» (2017) – Etter tittel: tiltak eller retur til arbeid, ikke utviklingen i sykefravær.
+- OK   6 utelatt W3149745265 «Persistent post-covid symptoms in healthcare workers» (2021) – Etter tittel: covid-19 blant enkeltgrupper eller smitte, ikke utviklingen i sykefravær i et land.
+- OK   6 utelatt W4211064075 «Sick Leave and Intention to Quit the Job among Nursing Staff in German» (2022) – Etter tittel: covid-19 blant enkeltgrupper eller smitte, ikke utviklingen i sykefravær i et land.
+- OK   6 utelatt W2902196894 «Fear avoidance beliefs as a predictor for long-term sick leave, disabi» (2018) – Etter tittel: risikofaktorer for fravær hos enkeltpersoner, ikke utviklingen over tid.
+- OK   6 utelatt W2473941815 «Employment status, difficulties at work and quality of life in inflamm» (2016) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W3099603273 «Presenteeism during the COVID-19 pandemic: risks and solutions» (2020) – Etter tittel: covid-19 blant enkeltgrupper eller smitte, ikke utviklingen i sykefravær i et land.
+- OK   6 utelatt W2774431670 «Healthcare worker influenza vaccination and sickness absence – an ecol» (2017) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W3080435658 «Palestinian Health Care Workers’ Stress and Stressors During COVID-19 » (2020) – Etter tittel: covid-19 blant enkeltgrupper eller smitte, ikke utviklingen i sykefravær i et land.
+- OK   6 utelatt W2797334316 «Are long nursing shifts on hospital wards associated with sickness abs» (2018) – Etter tittel: risikofaktorer for fravær hos enkeltpersoner, ikke utviklingen over tid.
+- OK   6 utelatt W3113090708 «Impact of workplace discrimination and harassment among National Healt» (2020) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W2213173882 «Occupational Health: Meeting the Challenges of the Next 20 Years» (2016) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W3034065458 «Fatalism in the context of COVID-19: Perceiving coronavirus as a death» (2020) – Etter tittel: covid-19 blant enkeltgrupper eller smitte, ikke utviklingen i sykefravær i et land.
+- OK   6 utelatt W2801045295 «Effect of traditional yoga, mindfulness–based cognitive therapy, and c» (2018) – Etter tittel: tiltak eller retur til arbeid, ikke utviklingen i sykefravær.
+- OK   6 utelatt W2336679986 «The relationship between transformational leadership and follower sick» (2016) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W2802646040 «Sickness absence as a predictor of disability retirement in different » (2018) – Etter tittel: risikofaktorer for fravær hos enkeltpersoner, ikke utviklingen over tid.
+- OK   6 utelatt W4280539860 «Prevalence of post-intensive care syndrome in mechanically ventilated » (2022) – Etter tittel: covid-19 blant enkeltgrupper eller smitte, ikke utviklingen i sykefravær i et land.
+- OK   6 utelatt W2150844229 «Returning to work after sick leave due to cancer: a 365-day cohort stu» (2015) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W2791556041 «Occupational and educational inequalities in exit from employment at o» (2018) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W3006807901 «Working Excessively and Burnout Among Nurses in the Context of Sick Le» (2020) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W2294497699 «Profiling the U.S. Sick Leave Landscape: Presenteeism among Females» (2016) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W2908141418 «Exposure to working-hour characteristics and short sickness absence in» (2018) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W3000989574 «Fatigue in new registered nurses: A 12‐month cross‐lagged analysis of » (2020) – Etter tittel: risikofaktorer for fravær hos enkeltpersoner, ikke utviklingen over tid.
+- OK   6 utelatt W2222726447 «The Consequences of Increased Enforcement of Legal Minimum Wages in a » (2015) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W1529417293 «The Prognostic Value of the Work Ability Index for Sickness Absence am» (2015) – Etter tittel: risikofaktorer for fravær hos enkeltpersoner, ikke utviklingen over tid.
+- OK   6 utelatt W3202977625 «The effect of mental and physical health problems on sickness absence» (2021) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W2617214760 «Associations between common diseases and work ability and sick leave a» (2017) – Etter tittel: risikofaktorer for fravær hos enkeltpersoner, ikke utviklingen over tid.
+- OK   6 utelatt W3016651760 «COVID-19 and Working Conditions in Health Care» (2020) – Etter tittel: covid-19 blant enkeltgrupper eller smitte, ikke utviklingen i sykefravær i et land.
+- OK   6 utelatt W2239800511 «Is preoperative physical activity related to post-surgery recovery? A » (2016) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W2751368891 «The effects of an unsupervised water exercise program on low back pain» (2017) – Etter tittel: tiltak eller retur til arbeid, ikke utviklingen i sykefravær.
+- OK   6 utelatt W1973481572 «Using Nature-Based Rehabilitation to Restart a Stalled Process of Reha» (2015) – Etter tittel: tiltak eller retur til arbeid, ikke utviklingen i sykefravær.
+- OK   6 utelatt W2463599556 «Long-term consequences of workplace bullying on sickness absence» (2016) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W3083492476 «Work Stress in NHS Employees: A Mixed-Methods Study» (2020) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W4224035834 «The economic burden of knee and hip osteoarthritis: absenteeism and co» (2022) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W2982249453 «Predicting return to work among patients with colorectal cancer» (2019) – Etter tittel: tiltak eller retur til arbeid, ikke utviklingen i sykefravær.
+- OK   6 utelatt W2127345131 «Sickness absence at a young age and later sickness absence, disability» (2015) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W2556964170 «Short rest between shift intervals increases the risk of sick leave: a» (2016) – Etter tittel: risikofaktorer for fravær hos enkeltpersoner, ikke utviklingen over tid.
+- OK   6 utelatt W2341011605 «Effects of graded return-to-work: a propensity-score-matched analysis» (2016) – Etter tittel: tiltak eller retur til arbeid, ikke utviklingen i sykefravær.
+- OK   6 utelatt W2150132741 «Causal inference in multi-state models–sickness absence and work for 1» (2015) – Etter tittel: tiltak eller retur til arbeid, ikke utviklingen i sykefravær.
+- OK   6 utelatt W2682847430 «Labour-market marginalisation after mental disorders among young nativ» (2017) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W3025131095 «High physical work demands and working life expectancy in Denmark» (2020) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W2023563886 «Absenteísmo-doença no serviço público municipal de Goiânia» (2015) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W2783363786 «A Long-Term Follow-Up of the Efficacy of Nature-Based Therapy for Adul» (2018) – Etter tittel: tiltak eller retur til arbeid, ikke utviklingen i sykefravær.
+- OK   6 utelatt W2626931882 «Effectiveness of a Web-Based Intervention in Reducing Depression and S» (2017) – Etter tittel: tiltak eller retur til arbeid, ikke utviklingen i sykefravær.
+- OK   6 utelatt W3197172085 «Risks of COVID-19 by occupation in NHS workers in England» (2021) – Etter tittel: covid-19 blant enkeltgrupper eller smitte, ikke utviklingen i sykefravær i et land.
+- OK   6 utelatt W2168909940 «Burden of Sickness Absence Due to Chronic Disease in the Dutch Workfor» (2015) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W2611956059 «Length of sickness absence and sustained return-to-work in mental diso» (2017) – Etter tittel: tiltak eller retur til arbeid, ikke utviklingen i sykefravær.
+- OK   6 utelatt W2141525967 «Risk Factors for the Rapid Increase in Risk of Acute Coronary Events i» (2015) – Etter tittel: risikofaktorer for fravær hos enkeltpersoner, ikke utviklingen over tid.
+- OK   6 utelatt W2802764309 «Hearing loss and work participation: a cross-sectional study in Norway» (2018) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W3204873483 «Barriers and Facilitators for Return to Work from the Perspective of W» (2021) – Etter tittel: tiltak eller retur til arbeid, ikke utviklingen i sykefravær.
+- OK   6 utelatt W4383535183 «The Crisis in the Nursing Labour Market: Canadian Policy Perspectives» (2023) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W2283722133 «Sick leave and healthcare utilisation in women reporting pregnancy rel» (2016) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W2789414444 «Age differences in the association between stressful work and sickness» (2018) – Etter tittel: risikofaktorer for fravær hos enkeltpersoner, ikke utviklingen over tid.
+- OK   6 utelatt W2948877209 «Sick leave due to musculoskeletal pain: determinants of distinct traje» (2019) – Etter tittel: risikofaktorer for fravær hos enkeltpersoner, ikke utviklingen over tid.
+- OK   6 utelatt W3015192800 «Preventing sickness absence among employees with common mental disorde» (2020) – Etter tittel: tiltak eller retur til arbeid, ikke utviklingen i sykefravær.
+- OK   6 utelatt W2908947698 «Alcohol consumption and labour market participation: a prospective coh» (2019) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W2721507455 «Return to work after work-related stress: a randomized controlled tria» (2017) – Etter tittel: tiltak eller retur til arbeid, ikke utviklingen i sykefravær.
+- OK   6 utelatt W2802776371 «Emotional Dissonance, Mental Health Complaints, and Sickness Absence A» (2018) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W2567163154 «Sick leave in Sweden before and after total joint replacement in hip a» (2016) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W1851249733 «Pilot study of a cluster randomised trial of a guided e-learning healt» (2015) – Etter tittel: tiltak eller retur til arbeid, ikke utviklingen i sykefravær.
+- OK   6 utelatt W4380085712 «A safe and effective micro-choice based rehabilitation for patients wi» (2023) – Etter tittel: covid-19 blant enkeltgrupper eller smitte, ikke utviklingen i sykefravær i et land.
+- OK   6 utelatt W2549165756 «‘Mental health day’ sickness absence amongst nurses and midwives: work» (2016) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W3035623718 «Return to work following diagnosis of low-grade glioma» (2020) – Etter tittel: tiltak eller retur til arbeid, ikke utviklingen i sykefravær.
+- OK   6 utelatt W3001434585 «Socioeconomic status of patients in a Swedish national self-management» (2020) – Etter tittel: tiltak eller retur til arbeid, ikke utviklingen i sykefravær.
+- OK   6 utelatt W2607027669 «Effect of Inpatient Multicomponent Occupational Rehabilitation Versus » (2017) – Etter tittel: tiltak eller retur til arbeid, ikke utviklingen i sykefravær.
+- OK   6 utelatt W2102972495 «Sickness Absence and Psychosocial Job Quality: An Analysis From a Long» (2015) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W2745428367 «Occupational class differences in diagnostic-specific sickness absence» (2017) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W2343537170 «Understanding Occupation, Sick Leave, and Disability Pension Due to Kn» (2016) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W3112359908 «Coordination of return-to-work for employees on sick leave due to comm» (2020) – Etter tittel: tiltak eller retur til arbeid, ikke utviklingen i sykefravær.
+- OK   6 utelatt W4308712491 «Mental Fatigue, Activities of Daily Living, Sick Leave and Functional » (2022) – Etter tittel: covid-19 blant enkeltgrupper eller smitte, ikke utviklingen i sykefravær i et land.
+- OK   6 utelatt W3199907573 «Emotional demands at work and risk of long-term sickness absence in 1·» (2021) – Etter tittel: risikofaktorer for fravær hos enkeltpersoner, ikke utviklingen over tid.
+- OK   6 utelatt W2339256802 «Labour market trajectories following sickness absence due to self-repo» (2016) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W3085974608 «Association between Presenteeism, Psychosocial Aspects of Work and Com» (2020) – Etter tittel: risikofaktorer for fravær hos enkeltpersoner, ikke utviklingen over tid.
+- OK   6 utelatt W2369259883 «Associations of multisite pain with healthcare utilization, sickness a» (2016) – Etter tittel: risikofaktorer for fravær hos enkeltpersoner, ikke utviklingen over tid.
+- OK   6 utelatt W1992570633 «His, Her, or Their Divorce? Marital Dissolution and Sickness Absence i» (2015) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W2922821702 «Are trajectories of neck–shoulder pain associated with sick leave and » (2019) – Etter tittel: risikofaktorer for fravær hos enkeltpersoner, ikke utviklingen over tid.
+- OK   6 utelatt W2411688507 «Beyond Return to Work: The Effect of Multimorbidity on Work Functionin» (2016) – Etter tittel: tiltak eller retur til arbeid, ikke utviklingen i sykefravær.
+- OK   6 utelatt W2014092698 «Sick leave and disability pension in Hodgkin lymphoma survivors by sta» (2015) – Etter tittel: tiltak eller retur til arbeid, ikke utviklingen i sykefravær.
+- OK   6 utelatt W4307229934 «Nurses' emotional exhaustion: Prevalence, psychosocial risk factors an» (2022) – Etter tittel: risikofaktorer for fravær hos enkeltpersoner, ikke utviklingen over tid.
+- OK   6 utelatt W2170855432 «Prognostic Factors of Returning to Work after Sick Leave due to Work-R» (2015) – Etter tittel: risikofaktorer for fravær hos enkeltpersoner, ikke utviklingen over tid.
+- OK   6 utelatt W2439861525 «Longitudinal Relationship Between Sitting Time on a Working Day and Vi» (2016) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W2920829908 «Precarious employment and health-related outcomes in the European Unio» (2019) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W4383555061 «Sick and working: Current challenges and emerging directions for futur» (2023) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W2790676944 «Danish Observational Study of Eldercare work and musculoskeletal disor» (2018) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W2082716917 «Interrelationships between education, occupational class and income as» (2015) – Etter tittel: risikofaktorer for fravær hos enkeltpersoner, ikke utviklingen over tid.
+- OK   6 utelatt W2931660493 «Burden of migraine in Finland: health care resource use, sick-leaves a» (2019) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W4292774323 «Short-term and long-term impacts of COVID-19 on economic vulnerability» (2022) – Etter tittel: covid-19 blant enkeltgrupper eller smitte, ikke utviklingen i sykefravær i et land.
+- OK   6 utelatt W1836119245 «Effect of an intervention to enhance guideline adherence of occupation» (2015) – Etter tittel: tiltak eller retur til arbeid, ikke utviklingen i sykefravær.
+- OK   6 utelatt W2796106052 «Cause-specific sickness absence trends by occupational class and indus» (2018) – Relevant for drivere (konjunktur, yrkesklasse), men data for 2005–2013, før perioden spørsmålet gjelder. Ikke valgt.
+- OK   6 utelatt W2901738039 «The impacts of cough: a cross-sectional study in a Finnish adult emplo» (2018) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W3093429938 «COVID-19 and Sick Leave: An Analysis of the Ibermutua Cohort of Over 1» (2020) – Etter tittel: covid-19 blant enkeltgrupper eller smitte, ikke utviklingen i sykefravær i et land.
+- OK   6 utelatt W2978162861 «Impact of depressive symptoms on worklife expectancy: a longitudinal s» (2019) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W2887340773 «The capacity to work puzzle: a qualitative study of physicians’ assess» (2018) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W3042937992 «The effects of using participatory working time scheduling software on» (2020) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W4386289151 «School Attendance and Academic Achievement: Understanding Variation ac» (2023) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W2997011698 «Inpatient multimodal occupational rehabilitation reduces sickness abse» (2020) – Etter tittel: tiltak eller retur til arbeid, ikke utviklingen i sykefravær.
+- OK   6 utelatt W4280631082 «Sick Leave Due to Stress, What are the Costs for Dutch Employers?» (2022) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W4206242920 «Burden of Tick-Borne Encephalitis, Sweden» (2022) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W2912228876 «Acute reconstruction results in less sick-leave days and as such fewer» (2019) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W2283843518 «Gendered effects of intensified care burdens: employment and sickness » (2016) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W1980567891 «GPs’ negotiation strategies regarding sick leave for subjective health» (2015) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W3174783180 «Early intervention, treatment and rehabilitation of employees with com» (2021) – Etter tittel: tiltak eller retur til arbeid, ikke utviklingen i sykefravær.
+- OK   6 utelatt W2781247816 «Labour Market Segregation and Gender Differences in Sickness Absence: » (2017) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W3110953734 «Pain catastrophizing, kinesiophobia and fear-avoidance in non-specific» (2020) – Etter tittel: risikofaktorer for fravær hos enkeltpersoner, ikke utviklingen over tid.
+- OK   6 utelatt W2507007351 «Sickness Absence and Precarious Employment: A Comparative Cross-Nation» (2016) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W4284880557 «Working conditions and well-being in UK social care and social work du» (2022) – Etter tittel: covid-19 blant enkeltgrupper eller smitte, ikke utviklingen i sykefravær i et land.
+- OK   6 utelatt W2903686617 «A Cross-National Comparison on Subjective Well-Being of Kindergarten T» (2018) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W1901084633 «Associations of work ability with frequent and long-term sickness abse» (2015) – Etter tittel: risikofaktorer for fravær hos enkeltpersoner, ikke utviklingen over tid.
+- OK   6 utelatt W2328509693 «Factors associated with the length of fit note-certified sickness epis» (2015) – Etter tittel: risikofaktorer for fravær hos enkeltpersoner, ikke utviklingen over tid.
+- OK   6 utelatt W2345637134 «Parents of children diagnosed with cancer: work situation and sick lea» (2016) – Etter tittel: tiltak eller retur til arbeid, ikke utviklingen i sykefravær.
+- OK   6 utelatt W2791106760 «Unemployment and work disability due to common mental disorders among » (2018) – Ledighet og arbeidsuførhet for psykiske lidelser på individnivå, før 2015.
+- OK   6 utelatt W2614517264 «Exposure to occupational hazards for pregnancy and sick leave in pregn» (2017) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W2944569299 «Impact of job adjustment, pain location and exercise on sick leave due» (2019) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W3134334642 «NHS sickness absence during the covid-19 pandemic» (2021) – Kort omtale av NHS-fravær under pandemien. Dekket av NHS-studien som er tatt med.
+- OK   6 utelatt W3126491947 «The effects of COVID-19 on sickness of medical staff across department» (2021) – Etter tittel: covid-19 blant enkeltgrupper eller smitte, ikke utviklingen i sykefravær i et land.
+- OK   6 utelatt W3098261692 «Gender differences in managers’ attitudes towards employees with depre» (2020) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W3133125527 «The Return-to-Work Self-efficacy Questionnaire (RTW-SE): A Validation » (2021) – Etter tittel: tiltak eller retur til arbeid, ikke utviklingen i sykefravær.
+- OK   6 utelatt W3003608341 «High leisure‐time physical activity reduces the risk of long‐term sick» (2020) – Etter tittel: risikofaktorer for fravær hos enkeltpersoner, ikke utviklingen over tid.
+- OK   6 utelatt W2976228456 «BMI and Labor Market Participation: A Cohort Study of Transitions Betw» (2019) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W2098249277 «Efficacy of ‘Tailored Physical Activity’ on reducing sickness absence » (2015) – Etter tittel: tiltak eller retur til arbeid, ikke utviklingen i sykefravær.
+- OK   6 utelatt W2887618223 «Gender equality in sickness absence tolerance: Attitudes and norms of » (2018) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W2322204389 «Psychosocial Working Conditions and Sickness Absence in a General Popu» (2015) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W1973225084 «Sickness and sickness absence of remaining employees in a time of econ» (2015) – Fravær i nedbemanningstid, data fra før 2015.
+- OK   6 utelatt W3031284916 «Associations between work environment, health status and sick leave am» (2020) – Etter tittel: risikofaktorer for fravær hos enkeltpersoner, ikke utviklingen over tid.
+- OK   6 utelatt W2921349491 «Return to work after interdisciplinary pain rehabilitation: One- and t» (2019) – Etter tittel: tiltak eller retur til arbeid, ikke utviklingen i sykefravær.
+- OK   6 utelatt W2913513120 «Determinants of sickness absence rate among Finnish municipal employee» (2019) – Faktorer bak fravær i finske kommuner på tverrsnitt, ikke utvikling over tid.
+- OK   6 utelatt W2227762529 «Sickness absence and return to work among Japanese stroke survivors: a» (2016) – Etter tittel: tiltak eller retur til arbeid, ikke utviklingen i sykefravær.
+- OK   6 utelatt W3195062505 «The changing nature of work – Job strain, job support and sickness abs» (2021) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W2608208118 «Self-Rated Health and Sick Leave among Nurses and Physicians: The Role» (2017) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W2916260884 «Perceived stress and sickness absence: a prospective study of 17,795 e» (2019) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W3117032978 «The Dilemma between Self-Protection and Service Provision under Danish» (2020) – Etter tittel: covid-19 blant enkeltgrupper eller smitte, ikke utviklingen i sykefravær i et land.
+- OK   6 utelatt W4308998688 «Employees’ experience of supervisor behaviour – a support or a hindran» (2022) – Etter tittel: tiltak eller retur til arbeid, ikke utviklingen i sykefravær.
+- OK   6 utelatt W3188131818 «Sickness absence due to common mental disorders in young employees in » (2021) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W4200158680 «Patterns and predictors of sick leave among Swedish non-hospitalized h» (2021) – Etter tittel: covid-19 blant enkeltgrupper eller smitte, ikke utviklingen i sykefravær i et land.
+- OK   6 utelatt W2781130822 «Sickness absence among municipal workers in a Brazilian municipality: » (2017) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W2575180319 «Cumulative exposure to shift work and sickness absence: associations i» (2017) – Etter tittel: risikofaktorer for fravær hos enkeltpersoner, ikke utviklingen over tid.
+- OK   6 utelatt W4224985636 «Work-related stress and future sick leave in a working population seek» (2022) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W2217550002 «Trends in treatment and outcomes of ankylosing spondylitis in outpatie» (2015) – Etter tittel: tiltak eller retur til arbeid, ikke utviklingen i sykefravær.
+- OK   6 utelatt W4388943273 «“I can't be dealing with this brain fog”: A workplace focus group stud» (2023) – Etter tittel: risikofaktorer for fravær hos enkeltpersoner, ikke utviklingen over tid.
+- OK   6 utelatt W2142008443 «Problems with sickness certification tasks: experiences from physician» (2015) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W2590842457 «Daily alcohol consumption and sickness absence in the GAZEL cohort» (2017) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W2801408035 «Dual impact of organisational change on subsequent exit from work unit» (2018) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W4283790573 «Managing Minds at Work: Development of a Digital Line Manager Training» (2022) – Etter tittel: tiltak eller retur til arbeid, ikke utviklingen i sykefravær.
+- OK   6 utelatt W2805381036 «Factors related to work ability and well-being among women on sick lea» (2018) – Etter tittel: risikofaktorer for fravær hos enkeltpersoner, ikke utviklingen over tid.
+- OK   6 utelatt W3040035305 «Work-focused therapy for common mental disorders: A naturalistic study» (2020) – Etter tittel: tiltak eller retur til arbeid, ikke utviklingen i sykefravær.
+- OK   6 utelatt W3083856699 «Associations between physical and psychosocial work environment factor» (2020) – Etter tittel: risikofaktorer for fravær hos enkeltpersoner, ikke utviklingen over tid.
+- OK   6 utelatt W2989855409 «Organizational change and the risk of sickness absence: a longitudinal» (2019) – Etter tittel: risikofaktorer for fravær hos enkeltpersoner, ikke utviklingen over tid.
+- OK   6 utelatt W2558055076 «Effectiveness of an Intervention to Enhance Occupational Physicians’ G» (2016) – Etter tittel: tiltak eller retur til arbeid, ikke utviklingen i sykefravær.
+- OK   6 utelatt W4382644219 «Thrivers, survivors or exiteers: A longitudinal, interpretative phenom» (2023) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W4366743040 «Sickness absence among migrant and non-migrant care workers in Finland» (2023) – Forskjell mellom innvandrede og andre omsorgsarbeidere, ikke utvikling over tid.
+- OK   6 utelatt W3023475886 «Vocational Rehabilitation with or without Work Module for Patients wit» (2020) – Etter tittel: tiltak eller retur til arbeid, ikke utviklingen i sykefravær.
+- OK   6 utelatt W2567871575 «Short sickness absence and subsequent sickness absence due to mental d» (2017) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W4286008363 «Burden of disease and management of osteoarthritis and chronic low bac» (2022) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W4293359995 «Impact of hypothetical improvements in the psychosocial work environme» (2022) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W2439466571 «Reduction in sick leave by a workplace educational low back pain inter» (2016) – Etter tittel: tiltak eller retur til arbeid, ikke utviklingen i sykefravær.
+- OK   6 utelatt W2906378136 «Six Years of Sick Leave Spells in a Group of University Civil Workers.» (2018) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W3149904467 «Predictors of Sickness Absence in a Clinical Population With Chronic P» (2021) – Etter tittel: risikofaktorer for fravær hos enkeltpersoner, ikke utviklingen over tid.
+- OK   6 utelatt W2981684833 «The impact of office design on medically certified sickness absence» (2019) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W3120194918 «Incidence and Length of Sickness Absence among Hierarchical Occupation» (2021) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W3190870658 «‘…the way it was staffed during COVID is the way it should be staffed » (2021) – Etter tittel: covid-19 blant enkeltgrupper eller smitte, ikke utviklingen i sykefravær i et land.
+- OK   6 utelatt W3192994914 «Workplace discrimination as risk factor for long-term sickness absence» (2021) – Etter tittel: risikofaktorer for fravær hos enkeltpersoner, ikke utviklingen over tid.
+- OK   6 utelatt W1944603683 «A novel approach to early sickness absence management: The EASY (Early» (2015) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W2909333534 «Voice rest and sick leave after phonosurgical procedures: surveys amon» (2019) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W4205139436 «Age and sickness absence: Testing physical health issues and work enga» (2021) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W4221113818 «Effects of a Person-Centered eHealth Intervention for Patients on Sick» (2022) – Etter tittel: tiltak eller retur til arbeid, ikke utviklingen i sykefravær.
+- OK   6 utelatt W4296680150 «Economics of mental wellbeing: A prospective study estimating associat» (2022) – Etter tittel: risikofaktorer for fravær hos enkeltpersoner, ikke utviklingen over tid.
+- OK   6 utelatt W3201090483 «Sickness Presenteeism Among the Swedish Self-Employed During the Covid» (2021) – Etter tittel: covid-19 blant enkeltgrupper eller smitte, ikke utviklingen i sykefravær i et land.
+- OK   6 utelatt W3019494472 «Shift work and sickness absence at a Norwegian hospital: a longitudina» (2020) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W3123613789 «The prevalence of sickness absence among primary school pupils – reaso» (2021) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W2946103201 «The occupation-based intervention REDO™-10: Long-term impact on work a» (2019) – Etter tittel: tiltak eller retur til arbeid, ikke utviklingen i sykefravær.
+- OK   6 utelatt W2165347925 «The EASY (Early Access to Support for You) sickness absence service: a» (2015) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W2801931837 «Common Mental Disorders and Sickness Absence» (2018) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W4294992902 «Lengths of inpatient stay and sick leave of patients with mental disea» (2022) – Etter tittel: tiltak eller retur til arbeid, ikke utviklingen i sykefravær.
+- OK   6 utelatt W4220724769 «Exploring reasons for sick leave due to common mental disorders from t» (2022) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W2944944721 «Physical demand at work and sick leave due to low back pain: a cross-s» (2019) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W4409978000 «Psychological distress and productivity loss: a longitudinal analysis » (2025) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W4205387422 «Difference in Pandemic-Related Experiences and Factors Associated with» (2022) – Etter tittel: covid-19 blant enkeltgrupper eller smitte, ikke utviklingen i sykefravær i et land.
+- OK   6 utelatt W4390577219 «The effect of exercise training and motivational counselling on physic» (2024) – Etter tittel: tiltak eller retur til arbeid, ikke utviklingen i sykefravær.
+- OK   6 utelatt W3105752300 «Working while sick in context of regional unemployment: a Europe-wide » (2020) – Handler om å jobbe syk (presentisme), ikke fravær.
+- OK   6 utelatt W4291152090 «Assessment of Physical Work Demands of Home Care Workers in Norway: An» (2022) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W3135645261 «Gender equality in domestic work and sickness absence - a population-b» (2021) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W4229371253 «Sick leave and disability pension in a cohort of TMD-patients – The Sw» (2022) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W2515934225 «Physical activity before radical prostatectomy reduces sick leave afte» (2016) – Etter tittel: tiltak eller retur til arbeid, ikke utviklingen i sykefravær.
+- OK   6 utelatt W3128532153 «Predictors associated with absenteeism-disease among Nursing professio» (2021) – Etter tittel: risikofaktorer for fravær hos enkeltpersoner, ikke utviklingen over tid.
+- OK   6 utelatt W4409666170 «Nurse Staffing Configurations and Nurse Absence Due to Sickness» (2025) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W2536497541 «Registry-based analysis of participator representativeness: a source o» (2016) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W4401045500 «Temporomandibular disorder pain is associated with increased sick leav» (2024) – Etter tittel: risikofaktorer for fravær hos enkeltpersoner, ikke utviklingen over tid.
+- OK   6 utelatt W2894404894 «Factors Affecting Sick Leave Duration for Non-Work-Related Temporary D» (2018) – Etter tittel: risikofaktorer for fravær hos enkeltpersoner, ikke utviklingen over tid.
+- OK   6 utelatt W3102912513 «Education differences in sickness absence and the role of health behav» (2020) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W4296794418 «Association between Lifetime Classic Psychedelic Use and Sick Leave in» (2022) – Etter tittel: risikofaktorer for fravær hos enkeltpersoner, ikke utviklingen over tid.
+- OK   6 utelatt W4316088458 «Work-Focused Versus Generic Internet-Based Interventions for Employees» (2023) – Etter tittel: tiltak eller retur til arbeid, ikke utviklingen i sykefravær.
+- OK   6 utelatt W4281727938 «Ethical aspects of the coordination of return-to-work among employees » (2022) – Etter tittel: tiltak eller retur til arbeid, ikke utviklingen i sykefravær.
+- OK   6 utelatt W4387691883 «Prevalence of Upper Respiratory Tract Infections Before, During, and A» (2023) – Etter tittel: covid-19 blant enkeltgrupper eller smitte, ikke utviklingen i sykefravær i et land.
+- OK   6 utelatt W2114316487 «Trends of Diagnosis-Specific Work Disability After Newly Diagnosed Dia» (2015) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W4280587315 «Educational qualification differences and early labor market exit amon» (2022) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W2980036612 «Managing sickness absence and declared disabilities in a district nurs» (2019) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W4313470761 «COVID-19 pandemic and mental healthcare: Impact on health insurance wi» (2023) – Etter tittel: covid-19 blant enkeltgrupper eller smitte, ikke utviklingen i sykefravær i et land.
+- OK   6 utelatt W3125395864 «Adverse social behaviour at the workplace and subsequent physician cer» (2021) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W2724397635 «IQ and mental health are vital predictors of work drop out and early m» (2017) – Etter tittel: risikofaktorer for fravær hos enkeltpersoner, ikke utviklingen over tid.
+- OK   6 utelatt W4383314001 «The Response of Firms to Maternity Leave and Sickness Absence» (2023) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W2223845226 «Sick Leave—A Signal of Unequal Work Organizations? Gender perspectives» (2015) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W3187784308 «Validity and reliability of the Norwegian version of the Musculoskelet» (2021) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W2345382323 «Educational differences in sickness absence trends among young employe» (2016) – Trender 2002–2013 i Helsingfors kommune, før perioden spørsmålet gjelder.
+- OK   6 utelatt W3157789800 «Determining the Costs of Low-Back Pain Associated Sick Leave in the Du» (2021) – Etter tittel: risikofaktorer for fravær hos enkeltpersoner, ikke utviklingen over tid.
+- OK   6 utelatt W4376132159 «Sick leave and disability pension among TMD patients with musculoskele» (2023) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W4220996831 «Is work–life interference a risk factor for sickness absence? A longit» (2022) – Etter tittel: risikofaktorer for fravær hos enkeltpersoner, ikke utviklingen over tid.
+- OK   6 utelatt W3166821128 «How People with Multimorbidity and Psychosocial Difficulties Experienc» (2021) – Etter tittel: tiltak eller retur til arbeid, ikke utviklingen i sykefravær.
+- OK   6 utelatt W4310336140 «Effectiveness of adding motivational interviewing or a stratified voca» (2022) – Etter tittel: tiltak eller retur til arbeid, ikke utviklingen i sykefravær.
+- OK   6 utelatt W4392348482 «Caring for older parents in Norway – How does it affect labor market p» (2024) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W2883014067 «Sick leave among people in paid work after age 65: A Swedish populatio» (2017) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W2292374650 «The new workplace II: protocol for a prospective full-panel registry s» (2016) – Etter tittel: risikofaktorer for fravær hos enkeltpersoner, ikke utviklingen over tid.
+- OK   6 utelatt W4378745834 «Separate and joint associations of chronic pain, multisite pain and me» (2023) – Etter tittel: risikofaktorer for fravær hos enkeltpersoner, ikke utviklingen over tid.
+- OK   6 utelatt W4385282319 «Psychosocial and organisational work factors as predictors of sickness» (2023) – Etter tittel: risikofaktorer for fravær hos enkeltpersoner, ikke utviklingen over tid.
+- OK   6 utelatt W4388007577 «Exploring the relationship between simulation-based team training and » (2023) – Etter tittel: tiltak eller retur til arbeid, ikke utviklingen i sykefravær.
+- OK   6 utelatt W4327591090 «Sickness absenteeism among primary health care workers in Qatar before» (2023) – Etter tittel: covid-19 blant enkeltgrupper eller smitte, ikke utviklingen i sykefravær i et land.
+- OK   6 utelatt W4378172838 «Experiences of participating in a problem-solving intervention with wo» (2023) – Etter tittel: tiltak eller retur til arbeid, ikke utviklingen i sykefravær.
+- OK   6 utelatt W4380576465 «Work-family conflicts and long-term medically certified sickness absen» (2023) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W4285386280 «Hearing loss, sick leave, and disability pension: findings from the HU» (2022) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W2965479220 «Patients with rheumatoid arthritis facing sick leave or work disabilit» (2019) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W4391755285 «A healing challenge: examining NHS staff sickness absence rates» (2024) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W4392196143 «Reducing sickness absence among public-sector healthcare employees: th» (2024) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W4388534702 «Seasonal patterns of sickness absence due to diagnosed mental disorder» (2023) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W4393865536 «Occupational biopsychosocial factors associated with neck pain intensi» (2024) – Etter tittel: risikofaktorer for fravær hos enkeltpersoner, ikke utviklingen over tid.
+- OK   6 utelatt W4403269815 «Economic and societal burden of myasthenia gravis in Denmark, Finland,» (2024) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W4391451688 «Experiences of a Therapeutic Equine-Assisted Group Intervention for Pe» (2024) – Etter tittel: tiltak eller retur til arbeid, ikke utviklingen i sykefravær.
+- OK   6 utelatt W2464598743 «Sick leave from work and the voting booth? A register-based study on h» (2017) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W4390945756 «Comprehensive evaluation of the impact of workplace exposures on physi» (2024) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W4412389078 «Angina Pectoris Prevalence and Sick Leave Burden 1 Year After Myocardi» (2025) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W4400727138 «The relationship between line manager training in mental health and or» (2024) – Etter tittel: tiltak eller retur til arbeid, ikke utviklingen i sykefravær.
+- OK   6 utelatt W4387141096 «Return to work after sick leave due to musculoskeletal disorder or inj» (2023) – Etter tittel: tiltak eller retur til arbeid, ikke utviklingen i sykefravær.
+- OK   6 utelatt W4408218285 «Dynamics of Absences Due to Respiratory Infections, Including COVID-19» (2025) – Fravær for luftveisinfeksjoner på ett rumensk barnesykehus. For smalt utvalg.
+- OK   6 utelatt W4364376129 «Suffering out of sight but not out of mind – interpreting experiences » (2023) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W4406620376 «Absenteeism Among Healthcare Workers: Job Grade and Other Factors That» (2025) – Etter tittel: risikofaktorer for fravær hos enkeltpersoner, ikke utviklingen over tid.
+- OK   6 utelatt W4416443606 «Work ability trajectories and sick leave in individuals with post COVI» (2025) – Etter tittel: covid-19 blant enkeltgrupper eller smitte, ikke utviklingen i sykefravær i et land.
+- OK   6 utelatt W4394761957 «Impact of psychosocial work factors on risk of medically certified sic» (2024) – Etter tittel: risikofaktorer for fravær hos enkeltpersoner, ikke utviklingen over tid.
+- OK   6 utelatt W4401385156 «Is a Problem-Solving Intervention with Workplace Involvement for Emplo» (2024) – Etter tittel: tiltak eller retur til arbeid, ikke utviklingen i sykefravær.
+- OK   6 utelatt W4403915763 «Emotional Labour in the Neoliberal University: The Standpoint of Femal» (2024) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W4408876294 «Prodromal phase of multiple sclerosis: evidence from sickness absence » (2025) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W4406283211 «Retrospective modelling of the disease and mortality burden of the 191» (2025) – Etter tittel: covid-19 blant enkeltgrupper eller smitte, ikke utviklingen i sykefravær i et land.
+- OK   6 utelatt W4392590619 «Bidirectional associations between workplace bullying and sickness abs» (2024) – Etter tittel: risikofaktorer for fravær hos enkeltpersoner, ikke utviklingen over tid.
+- OK   6 utelatt W4409155601 «A longitudinal path analysis of the reciprocal and cyclical relationsh» (2025) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W4407687312 «Web-enhanced return-to-work coordination for employees with common men» (2025) – Etter tittel: tiltak eller retur til arbeid, ikke utviklingen i sykefravær.
+- OK   6 utelatt W4407828728 «Organizational factors behind low sickness absence in Swedish municipa» (2025) – Organisatoriske faktorer bak lavt fravær i svenske kommuner, ikke utvikling over tid.
+- OK   6 utelatt W4391686137 «Work–family conflicts and sickness absence—a register-linked cohort st» (2024) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W4417247396 «Effectiveness of Psychotherapeutic Consultation at Work Compared to Ca» (2025) – Etter tittel: tiltak eller retur til arbeid, ikke utviklingen i sykefravær.
+- OK   6 utelatt W4406083319 «The impact of the COVID-19 pandemic on musculoskeletal disorders-relat» (2025) – Samme forskergruppe og datakilde som den valgte slovenske studien fra 2026, som dekker en lengre periode.
+- OK   6 utelatt W4410609589 «Adapting COVID-19 research infrastructure to capture influenza and res» (2025) – Etter tittel: covid-19 blant enkeltgrupper eller smitte, ikke utviklingen i sykefravær i et land.
+- OK   6 utelatt W4412417715 «Workplace social capital—a resource for all? A three-wave panel study » (2025) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W4398794267 «Gender and educational differences in work participation and working y» (2024) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W4404980813 «A systems perspective on gaps in the person-centered sick leave and re» (2024) – Etter tittel: tiltak eller retur til arbeid, ikke utviklingen i sykefravær.
+- OK   6 utelatt W4409682924 «Impact of the COVID-19 pandemic on long-term sickness absences due to » (2025) – Langtidsfravær for psykiske lidelser 2009–2022 i én japansk by. Land med liten relevans for Norge.
+- OK   6 utelatt W4408109144 «Naturalistic trial of nudging patients and clinicians in the Norwegian» (2025) – Etter tittel: tiltak eller retur til arbeid, ikke utviklingen i sykefravær.
+- OK   6 utelatt W4411978732 «Occupational differences in working life expectancy and working years » (2025) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W4415614563 «Sick Leave of Customary Tenants in Late Medieval England» (2025) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W7138893722 «Nationwide Patterns and Predictors of Sick Leave Among Healthcare Work» (2026) – Etter tittel: risikofaktorer for fravær hos enkeltpersoner, ikke utviklingen over tid.
+- OK   6 utelatt W4400907187 «Managing sickness absence behaviours in the post-pandemic workplace» (2024) – Etter tittel: covid-19 blant enkeltgrupper eller smitte, ikke utviklingen i sykefravær i et land.
+- OK   6 utelatt W2760312338 «0256 Labour market segregation and gender differences in sickness abse» (2017) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W7125521421 «Sick leave patterns before and after commencement of psychological the» (2026) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W7140210668 «Sick leave in the United Kingdom Post Office, 1850–1908» (2026) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W7160553096 «From early risk to preventive action: Empowerment based digital triage» (2026) – Etter tittel: tiltak eller retur til arbeid, ikke utviklingen i sykefravær.
+- OK   6 utelatt W7166656522 «Determinants of high annual sickness absence in older workers: a prosp» (2026) – Etter tittel: risikofaktorer for fravær hos enkeltpersoner, ikke utviklingen over tid.
+- OK   6 utelatt W4408219091 «Emerging Work Wellbeing Challenges» (2025) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt W7162633433 «Multicentre randomised controlled trial of the Norwegian health in wor» (2026) – Etter tittel: tiltak eller retur til arbeid, ikke utviklingen i sykefravær.
+- OK   6 utelatt W7140098836 «Emotional demands at work measured via a job exposure matrix and sickn» (2026) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
+- OK   6 utelatt 019f47447b10-ffd29b92-e1fe-495c-992e-332d0230d5bc «Hvilke faktorer bidrar til at ansatte blir værende i barneverntjeneste» (2026) – Annet tema (helse, uføre, tiltak, retur til arbeid eller helsetjenester), ikke utviklingen i sykefraværet eller drivere for den.
+- OK   6 utelatt 0198cc97ad03-8db75475-1989-4df0-918c-17384ff2a194 «Arbeidsmiljø og helse blant innvandrerpopulasjoner. En systematisk gje» (2019) – Annet tema (helse, uføre, tiltak, retur til arbeid eller helsetjenester), ikke utviklingen i sykefraværet eller drivere for den.
+- OK   6 utelatt 0198cc88786d-2bf70675-800e-476e-ad72-27ed631f2e64 «Effekter av tiltak mot sykefravær og uførhet hos helsepersonell» (2014) – Annet tema (helse, uføre, tiltak, retur til arbeid eller helsetjenester), ikke utviklingen i sykefraværet eller drivere for den.
+- OK   6 utelatt AV-2012-2-03 «Har gradert sykmelding effekt på sykefraværet?» (2012) – Annet tema (helse, uføre, tiltak, retur til arbeid eller helsetjenester), ikke utviklingen i sykefraværet eller drivere for den.
+- OK   6 utelatt W2169584029 «The Effects on Sick Leave of Changes in the Sickness Insurance System» (2004) – Effekt av sykelønnsregler eller karensdager (reform eller diskontinuitet); hører til spørsmålet om egenandel (egenandel-sykefravaer), ikke utviklingen etter 2015.
+- OK   6 utelatt W2582743722 «R: A Language and Environment for Statistical Computing» (2000) – Metodelitteratur eller statistikkprogram, ikke en studie av sykefravær over tid.
+- OK   6 utelatt W2147004703 «Chapter 5. Risk factors for sick leave - general studies» (2004) – Data fra før 2015; mekanismen (konjunkturer, sykelønn, sosial gradient, kjønn) er dekket av nyere valgte kilder, jf. kriteriene for del B.
+- OK   6 utelatt W2149459865 «Sickness absence as a global measure of health: evidence from mortalit» (2003) – Annet tema (helse, uføre, tiltak, retur til arbeid eller helsetjenester), ikke utviklingen i sykefraværet eller drivere for den.
+- OK   6 utelatt W2072812468 «Sickness absence as a predictor of mortality among male and female emp» (2004) – Annet tema (helse, uføre, tiltak, retur til arbeid eller helsetjenester), ikke utviklingen i sykefraværet eller drivere for den.
+- OK   6 utelatt W1547104755 «Increase in sickness absence with psychiatric diagnosis in Norway: a g» (2006) – Data fra før 2015; mekanismen (konjunkturer, sykelønn, sosial gradient, kjønn) er dekket av nyere valgte kilder, jf. kriteriene for del B.
+- OK   6 utelatt W2119502830 «The gender gap in sickness absence: long-term trends in eight European» (2014) – Data fra før 2015; mekanismen (konjunkturer, sykelønn, sosial gradient, kjønn) er dekket av nyere valgte kilder, jf. kriteriene for del B.
+- OK   6 utelatt W2112580127 «Explaining occupational class differences in sickness absence: results» (2009) – Data fra før 2015; mekanismen (konjunkturer, sykelønn, sosial gradient, kjønn) er dekket av nyere valgte kilder, jf. kriteriene for del B.
+- OK   6 utelatt W2112669742 «A Modified Poisson Regression Approach to Prospective Studies with Bin» (2004) – Metodelitteratur eller statistikkprogram, ikke en studie av sykefravær over tid.
+- OK   6 utelatt W2024810644 «Equilibrium Unemployment as a Worker Discipline Device» (1986) – Data fra før 2015; mekanismen (konjunkturer, sykelønn, sosial gradient, kjønn) er dekket av nyere valgte kilder, jf. kriteriene for del B.
+- OK   6 utelatt W2153941399 «Estimating the Relative Risk in Cohort Studies and Clinical Trials of » (2003) – Metodelitteratur eller statistikkprogram, ikke en studie av sykefravær over tid.
+- OK   6 utelatt W1986471490 «WHO European review of social determinants of health and the health di» (2012) – Annet tema (helse, uføre, tiltak, retur til arbeid eller helsetjenester), ikke utviklingen i sykefraværet eller drivere for den.
+- OK   6 utelatt W3022406948 «Occurrence, prevention, and management of the psychological effects of» (2020) – Annet tema (helse, uføre, tiltak, retur til arbeid eller helsetjenester), ikke utviklingen i sykefraværet eller drivere for den.
+- OK   6 utelatt W4401528161 «The Lancet Psychiatry Commission on youth mental health» (2024) – Annet tema (helse, uføre, tiltak, retur til arbeid eller helsetjenester), ikke utviklingen i sykefraværet eller drivere for den.
+- OK   6 utelatt W2233356473 «Unemployment and self‐assessed health: evidence from panel data» (2008) – Annet tema (helse, uføre, tiltak, retur til arbeid eller helsetjenester), ikke utviklingen i sykefraværet eller drivere for den.
+- OK   6 utelatt W1996884394 «Can Cross Country Differences in Return-to-Work After Chronic Occupati» (2009) – Annet tema (helse, uføre, tiltak, retur til arbeid eller helsetjenester), ikke utviklingen i sykefraværet eller drivere for den.
+- OK   6 utelatt W2131976333 «Do economic incentives affect work absence? Empirical evidence using S» (1996) – Data fra før 2015; mekanismen (konjunkturer, sykelønn, sosial gradient, kjønn) er dekket av nyere valgte kilder, jf. kriteriene for del B.
+- OK   6 utelatt W2151416414 «The anatomy of absenteeism» (2010) – Data fra før 2015; mekanismen (konjunkturer, sykelønn, sosial gradient, kjønn) er dekket av nyere valgte kilder, jf. kriteriene for del B.
+- OK   6 utelatt W3081257581 «COVID-19 pandemic in Finland – Preliminary analysis on health system r» (2020) – Annet tema (helse, uføre, tiltak, retur til arbeid eller helsetjenester), ikke utviklingen i sykefraværet eller drivere for den.
+- OK   6 utelatt W3125708417 «Unemployment, labor force composition and sickness absence: a panel da» (2005) – Konjunkturer og fravær med data før 2015; mekanismen er dekket av nyere valgte kilder.
+- OK   6 utelatt W2094067288 «The effects of unemployment and the business cycle on absenteeism» (1985) – Data fra før 2015; mekanismen (konjunkturer, sykelønn, sosial gradient, kjønn) er dekket av nyere valgte kilder, jf. kriteriene for del B.
+- OK   6 utelatt W2124684117 «THE MANAGEMENT OF SICKNESS ABSENCE» (2001) – Annet tema (helse, uføre, tiltak, retur til arbeid eller helsetjenester), ikke utviklingen i sykefraværet eller drivere for den.
+- OK   6 utelatt W2127245795 «Predictors of disability pension in long-term sickness absence: Result» (2004) – Annet tema (helse, uføre, tiltak, retur til arbeid eller helsetjenester), ikke utviklingen i sykefraværet eller drivere for den.
+- OK   6 utelatt W2045353577 «Gender differences in sickness absence – the contribution of occupatio» (2010) – Data fra før 2015; mekanismen (konjunkturer, sykelønn, sosial gradient, kjønn) er dekket av nyere valgte kilder, jf. kriteriene for del B.
+- OK   6 utelatt W2123032218 «Chapter 7. Sickness absence and psychiatric disorders» (2004) – Data fra før 2015; mekanismen (konjunkturer, sykelønn, sosial gradient, kjønn) er dekket av nyere valgte kilder, jf. kriteriene for del B.
+- OK   6 utelatt W1995096782 «Transitions between sickness absence, work, unemployment, and disabili» (2012) – Annet tema (helse, uføre, tiltak, retur til arbeid eller helsetjenester), ikke utviklingen i sykefraværet eller drivere for den.
+- OK   6 utelatt W2067290047 «Pain in multiple sites and sickness absence trajectories: A prospectiv» (2012) – Annet tema (helse, uføre, tiltak, retur til arbeid eller helsetjenester), ikke utviklingen i sykefraværet eller drivere for den.
+- OK   6 utelatt W1596613221 «A literature review on sick leave determinants (1984-2004)» (2009) – Data fra før 2015; mekanismen (konjunkturer, sykelønn, sosial gradient, kjønn) er dekket av nyere valgte kilder, jf. kriteriene for del B.
+- OK   6 utelatt W2151015722 «Diagnosis-specific sick leave as a long-term predictor of disability p» (2011) – Annet tema (helse, uføre, tiltak, retur til arbeid eller helsetjenester), ikke utviklingen i sykefraværet eller drivere for den.
+- OK   6 utelatt W2023783241 «Socioeconomic status and duration and pattern of sickness absence. A 1» (2010) – Annet tema (helse, uføre, tiltak, retur til arbeid eller helsetjenester), ikke utviklingen i sykefraværet eller drivere for den.
+- OK   6 utelatt W2015080265 «Being on Sick Leave: Possible Explanations for Differences of Sick-lea» (2007) – Data fra før 2015; mekanismen (konjunkturer, sykelønn, sosial gradient, kjønn) er dekket av nyere valgte kilder, jf. kriteriene for del B.
+- OK   6 utelatt W1967551067 «Young adults on disability benefits in 7 countries» (2013) – Annet tema (helse, uføre, tiltak, retur til arbeid eller helsetjenester), ikke utviklingen i sykefraværet eller drivere for den.
+- OK   6 utelatt W2163256270 «Explaining the social gradient in sickness absence: a study of a gener» (2013) – Data fra før 2015; mekanismen (konjunkturer, sykelønn, sosial gradient, kjønn) er dekket av nyere valgte kilder, jf. kriteriene for del B.
+- OK   6 utelatt W1595917770 «Trends in long‐term sickness absence in Sweden 1992–2008: the role of » (2010) – Svenske trender 1992–2008, før perioden.
+- OK   6 utelatt W2026620089 «Social Class and Sickness Absence in Norway» (2008) – Data fra før 2015; mekanismen (konjunkturer, sykelønn, sosial gradient, kjønn) er dekket av nyere valgte kilder, jf. kriteriene for del B.
+- OK   6 utelatt W2117207593 «Unemployment and disability pension-an 18-year follow-up study of a 40» (2012) – Annet tema (helse, uføre, tiltak, retur til arbeid eller helsetjenester), ikke utviklingen i sykefraværet eller drivere for den.
+- OK   6 utelatt W2738278365 «Occupational class differences in long sickness absence: a register-ba» (2017) – Finske data 1996–2013, før perioden; nyere finske tidsserier fra samme miljø er valgt.
+- OK   6 utelatt W2109021417 «Early Interventions and Disability Insurance: Experience from a Field » (2015) – Tiltak (tidlig oppfølging) og uføretrygd, ikke utviklingen i sykefraværet.
+- OK   6 utelatt W4406690936 «The Rise of Mental Vulnerability at Work» (2024) – Bok om psykisk sårbarhet i arbeidslivet i historisk perspektiv, uten tidsserier for sykefraværet etter 2015.
+- OK   6 utelatt W2087413250 «Sickness Absence: An International Comparison» (2002) – Data fra før 2015; mekanismen (konjunkturer, sykelønn, sosial gradient, kjønn) er dekket av nyere valgte kilder, jf. kriteriene for del B.
+- OK   6 utelatt W2170646082 «Sickness absence: A gender-focused review» (2009) – Data fra før 2015; mekanismen (konjunkturer, sykelønn, sosial gradient, kjønn) er dekket av nyere valgte kilder, jf. kriteriene for del B.
+- OK   6 utelatt W2133692436 «Interrelationships between education, occupational class, income and s» (2009) – Data fra før 2015; mekanismen (konjunkturer, sykelønn, sosial gradient, kjønn) er dekket av nyere valgte kilder, jf. kriteriene for del B.
+- OK   6 utelatt W2155731428 «Psychosocial work factors and long sickness absence in Europe» (2013) – Data fra før 2015; mekanismen (konjunkturer, sykelønn, sosial gradient, kjønn) er dekket av nyere valgte kilder, jf. kriteriene for del B.
+- OK   6 utelatt W2137763510 «Explaining the social gradient in long-term sickness absence: a prospe» (2008) – Data fra før 2015; mekanismen (konjunkturer, sykelønn, sosial gradient, kjønn) er dekket av nyere valgte kilder, jf. kriteriene for del B.
+- OK   6 utelatt W1964691900 «Short-term sick leave and future risk of sickness absence and unemploy» (2012) – Annet tema (helse, uføre, tiltak, retur til arbeid eller helsetjenester), ikke utviklingen i sykefraværet eller drivere for den.
+- OK   6 utelatt W2096940445 «Comparison of sickness absence in Belgian, German, and Dutch firms.» (1986) – Data fra før 2015; mekanismen (konjunkturer, sykelønn, sosial gradient, kjønn) er dekket av nyere valgte kilder, jf. kriteriene for del B.
+- OK   6 utelatt W2033352263 «Trends in socioeconomic differences in sickness absence among Finnish » (2007) – Data fra før 2015; mekanismen (konjunkturer, sykelønn, sosial gradient, kjønn) er dekket av nyere valgte kilder, jf. kriteriene for del B.
+- OK   6 utelatt W1971163058 «The Effect of Occupational and Workplace Gender Composition on Sicknes» (2012) – Data fra før 2015; mekanismen (konjunkturer, sykelønn, sosial gradient, kjønn) er dekket av nyere valgte kilder, jf. kriteriene for del B.
+- OK   6 utelatt W2153897994 «Disease and Development: The Effect of Life Expectancy on Economic Gro» (2007) – Annet tema (helse, uføre, tiltak, retur til arbeid eller helsetjenester), ikke utviklingen i sykefraværet eller drivere for den.
+- OK   6 utelatt W2386192529 «The Mann-Whitney U: A Test for Assessing Whether Two Independent Sampl» (2008) – Metodelitteratur eller statistikkprogram, ikke en studie av sykefravær over tid.
+- OK   6 utelatt W3203586449 «A systematic review and meta-analysis of longitudinal cohort studies c» (2021) – Annet tema (helse, uføre, tiltak, retur til arbeid eller helsetjenester), ikke utviklingen i sykefraværet eller drivere for den.
+- OK   6 utelatt W2133252124 «Cost-of-illness analysis» (2005) – Metodelitteratur eller statistikkprogram, ikke en studie av sykefravær over tid.
+- OK   6 utelatt W4205913752 «New Directions in Spatial Econometrics» (1995) – Metodelitteratur eller statistikkprogram, ikke en studie av sykefravær over tid.
+- OK   6 utelatt W3086387464 «Adapting hospital capacity to meet changing demands during the COVID-1» (2020) – Annet tema (helse, uføre, tiltak, retur til arbeid eller helsetjenester), ikke utviklingen i sykefraværet eller drivere for den.
+- OK   6 utelatt W2049901974 «Moral hazard and sickness insurance» (2005) – Data fra før 2015; mekanismen (konjunkturer, sykelønn, sosial gradient, kjønn) er dekket av nyere valgte kilder, jf. kriteriene for del B.
+- OK   6 utelatt W2099701286 «How to measure sickness absence? Literature review and suggestion of f» (1998) – Metodelitteratur eller statistikkprogram, ikke en studie av sykefravær over tid.
+- OK   6 utelatt W2797417805 «Assessing the Effect of Public Policy on Worker Absenteeism» (2002) – Data fra før 2015; mekanismen (konjunkturer, sykelønn, sosial gradient, kjønn) er dekket av nyere valgte kilder, jf. kriteriene for del B.
+- OK   6 utelatt W2115316349 «Chapter 9. Consequences of being on sick leave» (2004) – Annet tema (helse, uføre, tiltak, retur til arbeid eller helsetjenester), ikke utviklingen i sykefraværet eller drivere for den.
+- OK   6 utelatt W2141786694 «Incentives and selection in cyclical absenteeism» (2004) – Konjunkturer og fravær med data før 2015; mekanismen er dekket av nyere valgte kilder.
+- OK   6 utelatt W2326189071 «THE EFFECTS OF EXPANDING THE GENEROSITY OF THE STATUTORY SICKNESS INSU» (2013) – Effekt av sykelønnsregler eller karensdager (reform eller diskontinuitet); hører til spørsmålet om egenandel (egenandel-sykefravaer), ikke utviklingen etter 2015.
+- OK   6 utelatt W2147315337 «Distribution of sickness absence in the European Union countries: Tabl» (2004) – Metodelitteratur eller statistikkprogram, ikke en studie av sykefravær over tid.
+- OK   6 utelatt W3015109386 «Ensuring and Sustaining a Pandemic Workforce» (2020) – Annet tema (helse, uføre, tiltak, retur til arbeid eller helsetjenester), ikke utviklingen i sykefraværet eller drivere for den.
+- OK   6 utelatt W3124756840 «The effects of a sick pay reform on absence and on health-related outc» (2010) – Effekt av sykelønnsregler eller karensdager (reform eller diskontinuitet); hører til spørsmålet om egenandel (egenandel-sykefravaer), ikke utviklingen etter 2015.
+- OK   6 utelatt W2054728601 «Labor Market Institutions and Individual Absenteeism in the European U» (2008) – Data fra før 2015; mekanismen (konjunkturer, sykelønn, sosial gradient, kjønn) er dekket av nyere valgte kilder, jf. kriteriene for del B.
+- OK   6 utelatt W2793267873 «A kink that makes you sick: The effect of sick pay on absence» (2018) – Effekt av sykelønnsregler eller karensdager (reform eller diskontinuitet); hører til spørsmålet om egenandel (egenandel-sykefravaer), ikke utviklingen etter 2015.
+- OK   6 utelatt W2137789320 «Economic Incentives, Business Cycles, and Long‐Term Sickness Absence» (2009) – Konjunkturer og langvarig fravær med data før 2015; mekanismen er dekket av W3167036525, W2076042101 og AV-2008-4-01.
+- OK   6 utelatt W2104983146 «Cross-national comparisons of sickness absence systems and statistics:» (2014) – Data fra før 2015; mekanismen (konjunkturer, sykelønn, sosial gradient, kjønn) er dekket av nyere valgte kilder, jf. kriteriene for del B.
+- OK   6 utelatt W2112713294 «Psychosocial work factors and sickness absence in 31 countries in Euro» (2012) – Data fra før 2015; mekanismen (konjunkturer, sykelønn, sosial gradient, kjønn) er dekket av nyere valgte kilder, jf. kriteriene for del B.

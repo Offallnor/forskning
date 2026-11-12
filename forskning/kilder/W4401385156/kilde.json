@@ -1,0 +1,26 @@
+{
+ "apen_url": "https://link.springer.com/content/pdf/10.1007/s10926-024-10229-4.pdf",
+ "ar": 2024,
+ "doi": "https://doi.org/10.1007/s10926-024-10229-4",
+ "forfattere": [
+  "Ida Karlsson",
+  "Anna Frantz",
+  "Iben Axén",
+  "Gunnar Bergström",
+  "Ute Bültmann",
+  "Anna Finnes",
+  "Kristina EM Holmgren",
+  "Lydia Kwak"
+ ],
+ "hentet": "2026-11-09",
+ "hentet_fra": "https://link.springer.com/content/pdf/10.1007/s10926-024-10229-4.pdf",
+ "hvordan": "pdf",
+ "id": "W4401385156",
+ "kilde": "Journal of Occupational Rehabilitation",
+ "lenke": "https://openalex.org/W4401385156",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "PURPOSE: The aim was to evaluate the effectiveness of a problem-solving intervention with workplace involvement (PSI-WPI) added to care as usual (CAU) in reducing sickness absence days among employees with common mental disorders compared to CAU alone in Swedish primary health care on a monthly basis over 18-months follow-up. METHODS: We conducted a cluster-randomised controlled trial including 197 employees blinded to allocation (85 PSI-WPI and 112 CAU). As sickness absence data was skewed and over-dispersed, generalised estimating equations was used to enable a comparison between the intervention and control group for each month of the follow-up period. RESULTS: The median number of sickness absence days over the 18-month follow-up was 78 days, inter-quartile range (IQR) 18-196 for employees receiving PSI-WPI and 64 days, IQR 18-161 for employees receiving CAU. The time x group generalised estimating equations analysis showed no statistically significant difference in sickness absence days per month. CONCLUSION: The addition of a PSI-WPI to CAU was not more effective in reducing sickness absence days. This may be explained by the primary health care context, lack of specialisation in occupational health and the Swedish social insurance system with specific time limits. TRIAL REGISTRATION: The trial was registered at ClinicalTrials.gov, identifier: NCT03346395 on January 12th, 2018.",
+ "tittel": "Is a Problem-Solving Intervention with Workplace Involvement for Employees on Sickness Absence Due to Common Mental Disorders More Effective, than Care as Usual, in Reducing Sickness Absence Days? Results of a Cluster-Randomised Controlled Trial in Primary Health Care",
+ "type": "article"
+}

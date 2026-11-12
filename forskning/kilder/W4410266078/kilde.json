@@ -1,0 +1,23 @@
+{
+ "apen_url": "https://doi.org/10.1016/j.shaw.2025.05.002",
+ "ar": 2025,
+ "doi": "https://doi.org/10.1016/j.shaw.2025.05.002",
+ "forfattere": [
+  "Mikala E. Jakobsen",
+  "Asta Kjærgaard",
+  "Emilie Marie Rudolf",
+  "Julie Palmqvist",
+  "Jeppe Zielinski Nguyen Ajslev"
+ ],
+ "hentet": "2026-11-09",
+ "hentet_fra": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12490540/fullTextXML",
+ "hvordan": "Europe PMC",
+ "id": "W4410266078",
+ "kilde": "Safety and Health at Work",
+ "lenke": "https://openalex.org/W4410266078",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "Background: Risks in the psychosocial and ergonomic working environment can be complex and difficult for labor inspectors to uncover. In 2020, authorities implemented a dialog-based inspection practice in order to improve the working environment in all types of Danish enterprises. Methods: The study sample consisted of 3183 enterprises and stemmed from a quasi-experiment, Agreement To Problem-solve (ATP), implemented nation-wide by Danish authorities. Enterprises that were offered an ATP could accept this voluntary agreement if the labor inspectors suspected a complex health and safety problem, especially problems in the psychosocial or ergonomic working environment. We used univariate and multivariate logistic regression models to investigate associations between enterprise characteristics and fulfillment of the ATP. Results: had significantly lower odds ratios (ORs) of fulfilling the agreement [OR: 0.70, 95% confidence interval (CI): 0.53; 0.92 and OR: 0.6, 95% CI: 0.46; 0.80, respectively]. Enterprises with more than 35 employees had a significantly higher probability of fulfilling the agreement than enterprises with 1-9 employees. The OR of fulfillment regarding ergonomics was 0.75 times that of the psychosocial (95% CI: 0.58; 0.98). Conclusion: This dialog-based inspection practice showed promising results in regards to addressing and terminating suspicions regarding the psychosocial and ergonomic working environment. The enterprises' industry, number of employees, and type of occupation safety and health problem were associated with fulfillment of this dialog-based inspection practice.",
+ "tittel": "Enterprise Characteristics Were Associated With Adherence to a Dialog-based Inspection Practice Aimed at Improving Occupational Safety and Health in Denmark",
+ "type": "article"
+}

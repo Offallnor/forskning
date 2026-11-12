@@ -1,0 +1,20 @@
+{
+ "apen_url": "https://doi.org/10.2139/ssrn.1524252",
+ "ar": 2013,
+ "doi": "https://doi.org/10.1002/jae.2317",
+ "forfattere": [
+  "Nicolas R. Ziebarth",
+  "Martin Karlsson"
+ ],
+ "hentet": "før 2026-11-08",
+ "hentet_fra": "https://www.york.ac.uk/media/economics/documents/herc/wp/09_35.pdf",
+ "hvordan": "pdf",
+ "id": "W2326189071",
+ "kilde": "Journal of Applied Econometrics",
+ "lenke": "https://openalex.org/W2326189071",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "In 1999, in Germany, the statutory sick pay level was increased from 80 to 100 percent of foregone earnings for sickness episodes of up to six weeks. We show that this reform has led to an increase in average absence days of about 10 percent or one additional day per employee, per year. The estimates are based on SOEP survey data and parametric, nonparametric, and combined matching-regression difference-in-differences methods. Extended calculations suggest that the reform might have increased labor costs by about €1.8 billion per year and might have led to the loss of around 50,000 jobs.",
+ "tittel": "THE EFFECTS OF EXPANDING THE GENEROSITY OF THE STATUTORY SICKNESS INSURANCE SYSTEM",
+ "type": "article"
+}

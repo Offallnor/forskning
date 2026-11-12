@@ -1,0 +1,18 @@
+{
+ "ar": 2013,
+ "forfattere": [
+  "Helge Bennmarker",
+  "Lars Calmfors",
+  "Anna Larsson Seim"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "https://www.ifau.se/globalassets/pdf/se/2013/r-2013-10-jobbskatteavdrag-arbetsloshetsersattning-och-loner.pdf",
+ "hvordan": "pdf",
+ "id": "W803382566",
+ "lenke": "https://openalex.org/W803382566",
+ "merknad": "ÅPEN VERSJON (preprint eller arbeidsnotat), merkes i svaret",
+ "oversikt": false,
+ "sammendrag": "Det finns en ganska omfattande internationell forskning om vilka sysselsattningseffekter jobbskatteavdrag och arbetsloshetsersattning har. Mindre ar kant om hur lonerna paverkas. Vi studerar detta utifran en teoretisk modell dar jobbskatteavdrag och arbetsloshetsersattning bada paverkar lonerna via netto­ersattningsgraden i arbetsloshetsforsakringen, dvs. forhallandet mellan inkomst efter skatt vid arbetsloshet och inkomst efter skatt vid sysselsattning. De arbetsmarknadsreformer som borjade genomforas i Sverige 2007 har minskat ersattningsgraden. Vi skattar darfor sambandet mellan lon och ersattningsgrad empiriskt, baserat pa en panel av individer, under aren 2006–2009. I enlighet med teorin finner vi ett positivt samband. En minskning av ersattningsgraden med 1 procentenhet reducerar, allt annat lika, lonen fore skatt med 0,2–0,4 procent. Det innebar att 1 procents minskning av arbetsloshets­ersattningen, eller 1 procents okning av den andel av lonen som en lontagare behaller efter skatt, allt annat lika, sanker lonen med 0,1–0,2 procent. Jobbskatteavdrag och minskad arbetsloshetsersattning tycks saledes bidra till aterhallsamhet i lone­bildningen.",
+ "tittel": "Jobbskatteavdrag, arbetslöshetsersättning och löner",
+ "type": "article"
+}

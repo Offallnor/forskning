@@ -1,0 +1,17 @@
+{
+ "apen_url": "https://research.cbs.dk/files/55404820/ralf_wilke_competing_risks_coupla_models_acceptedversion.pdf",
+ "ar": 2015,
+ "doi": "https://doi.org/10.1515/jem-2015-0005",
+ "forfattere": [
+  "Simon Lo",
+  "Gesine Stephan",
+  "Ralf A. Wilke"
+ ],
+ "id": "W2562592330",
+ "kilde": "Journal of Econometric Methods",
+ "lenke": "https://openalex.org/W2562592330",
+ "oversikt": false,
+ "sammendrag": "Abstract The copula graphic estimator (CGE) for competing risks models has received little attention in empirical research, despite having been developed into a comprehensive research method. In this paper, we bridge the gap between theoretical developments and applied research by considering a general class of competing risks copula models, which nests popular models such as the Cox proportional hazards model, the semiparametric multivariate mixed proportional hazards model (MMPHM), and the CGE as special cases. Analyzing the effects of a German Hartz reform on unemployment duration, we illustrate that the CGE imposes fewer restrictions on partial covariate effects than standard methods do. Differences are less evident when a more flexible difference-in-differences estimator is applied. It is also found that the MMPHM estimates react more strongly to the choice of the copula than the CGE in terms of the shape of the treatment effect function over time. Thus, the MMPHM produces less robust results in our application.",
+ "tittel": "Competing Risks Copula Models for Unemployment Duration: An Application to a German Hartz Reform",
+ "type": "article"
+}

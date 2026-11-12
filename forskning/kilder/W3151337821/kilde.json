@@ -1,0 +1,15 @@
+{
+ "apen_url": "http://hdl.handle.net/10419/120467",
+ "ar": 2012,
+ "forfattere": [
+  "Wolfgang Nagl",
+  "Stefan Arent"
+ ],
+ "id": "W3151337821",
+ "kilde": "RePEc: Research Papers in Economics",
+ "lenke": "https://openalex.org/W3151337821",
+ "oversikt": false,
+ "sammendrag": "Using the introduction of fixed long-term unemployment benefits in Germany in 2005 as a unique experiment we find strong evidence that lower unemployment benefit has an adverse effect on wages. We use panel data to identify and estimate the effect of this structural break. In western Germany the effect is higher for men and increases with the skill level. In eastern Germany there is no systematic difference between men and women but the negative impact on wages is confirmed.",
+ "tittel": "Unemployment Benefits and Wages: Evidence from the German Hartz-Reform",
+ "type": "preprint"
+}

@@ -1,0 +1,21 @@
+{
+ "apen_url": "https://academic.oup.com/ej/advance-article-pdf/doi/10.1093/ej/ueaf105/64942498/ueaf105.pdf",
+ "ar": 2025,
+ "doi": "https://doi.org/10.1093/ej/ueaf105",
+ "forfattere": [
+  "Luca Citino",
+  "Kilian Russ",
+  "Vincenzo Scrutinio"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "https://cris.unibo.it/bitstream/11585/1026794/5/ueaf105.pdf",
+ "hvordan": "pdf",
+ "id": "W4415544802",
+ "kilde": "The Economic Journal",
+ "lenke": "https://openalex.org/W4415544802",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "Abstract In this paper, we study the selection patterns of individuals who manage to have their lay-off delayed around an age at lay-off threshold entitling them to four additional months of unemployment insurance, that is, manipulators. Using administrative data from Italy and bunching techniques, we document substantial manipulation around the cut-off and show that manipulators are selected on their long-term non-employment risk, but not on their moral hazard cost. Finally, we develop a sufficient statistics framework to assess how these findings affect optimal unemployment insurance duration in the presence of manipulation.",
+ "tittel": "Manipulation and Selection in Unemployment Insurance",
+ "type": "article"
+}

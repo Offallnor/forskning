@@ -1,0 +1,26 @@
+{
+ "apen_url": "https://bmjopen.bmj.com/content/bmjopen/12/5/e057654.full.pdf",
+ "ar": 2022,
+ "doi": "https://doi.org/10.1136/bmjopen-2021-057654",
+ "forfattere": [
+  "Steinar Krokstad",
+  "Daniel Weiß",
+  "Morten Austheim Krokstad",
+  "Vegar Rangul",
+  "Kirsti Kvaløy",
+  "Jo Magne Ingul",
+  "Ottar Arild Bjerkeset",
+  "Jean M. Twenge"
+ ],
+ "hentet": "2026-11-09",
+ "hentet_fra": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9119156/fullTextXML",
+ "hvordan": "Europe PMC",
+ "id": "W4280593459",
+ "kilde": "BMJ Open",
+ "lenke": "https://openalex.org/W4280593459",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "OBJECTIVES: Public health trends are formed by political, economic, historical and cultural factors in society. The aim of this paper was to describe overall changes in mental health among adolescents and adults in a Norwegian population over the three last decades and discuss some potential explanations for these changes. DESIGN: Repeated population-based health surveys to monitor decennial changes. SETTING: Data from three cross-sectional surveys in 1995-1997, 2006-2008 and 2017-2019 in the population-based HUNT Study in Norway were used. PARTICIPANTS: The general population in a Norwegian county covering participants aged 13-79 years, ranging from 48 000 to 62 000 000 in each survey. MAIN OUTCOME MEASURES: Prevalence estimates of subjective anxiety and depression symptoms stratified by age and gender were assessed using the Hopkins Symptom Checklist-5 for adolescents and the Hospital Anxiety and Depression Scale for adults. RESULTS: Adolescents' and young adults' mental distress increased sharply, especially between 2006-2008 and 2017-2019. However, depressive symptoms instead declined among adults aged 60 and over and anxiety symptoms remained largely unchanged in these groups. CONCLUSIONS: Our trend data from the HUNT Study in Norway indicate poorer mental health among adolescents and young adults that we suggest are related to relevant changes in young people's living conditions and behaviour, including the increased influence of screen-based media.",
+ "tittel": "Divergent decennial trends in mental health according to age reveal poorer mental health for young people: repeated cross-sectional population-based surveys from the HUNT Study, Norway",
+ "type": "article"
+}

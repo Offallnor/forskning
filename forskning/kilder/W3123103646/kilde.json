@@ -1,0 +1,21 @@
+{
+ "apen_url": "https://doi.org/10.2139/ssrn.1329558",
+ "ar": 2009,
+ "doi": "https://doi.org/10.2139/ssrn.1329558",
+ "forfattere": [
+  "Tomi Kyyrä",
+  "Pierpaolo Parrotta",
+  "Michael Rosholm"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "https://docs.iza.org/dp3920.pdf",
+ "hvordan": "pdf",
+ "id": "W3123103646",
+ "kilde": "SSRN Electronic Journal",
+ "lenke": "https://openalex.org/W3123103646",
+ "merknad": "ÅPEN VERSJON (preprint eller arbeidsnotat), merkes i svaret",
+ "oversikt": false,
+ "sammendrag": "We consider the consequences of working part-time on supplementary unemployment insurance benefits in the Danish labour market. Following the \"timing-of-events\" approach we estimate causal effects of subsidized part-time work on the hazard rate out of unemployment insurance benefit receipt. We find evidence of a negative lock-in effect and a positive post-treatment effect, both of which vary across individuals. The resulting net effect on the expected unemployment duration is positive for some groups (e.g. married women) and negative for others (e.g. young workers).",
+ "tittel": "The Effect of Receiving Supplementary Ui Benefits on Unemployment Duration",
+ "type": "preprint"
+}

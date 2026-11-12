@@ -1,0 +1,16 @@
+{
+ "apen_url": "https://doi.org/10.26509/frbc-ec-201423",
+ "ar": 2014,
+ "doi": "https://doi.org/10.26509/frbc-ec-201423",
+ "forfattere": [
+  "Pedro S. Amaral",
+  "Jessica Ice"
+ ],
+ "id": "W791800840",
+ "kilde": "Economic Commentary (Federal Reserve Bank of Cleveland)",
+ "lenke": "https://openalex.org/W791800840",
+ "oversikt": false,
+ "sammendrag": "To deal with the high level of unemployment during the Great Recession, lawmakers extended the availability of unemployment benefits—all the way to 99 weeks in the states where unemployment was highest. A recent study has found that the extensions served to increase unemployment significantly by putting upward pressure on wages, leading to less jobs creation by firms. We replicate the methodology of this study with an updated and longer sample and find a much smaller impact. We estimate that the impact of extending benefits on unemployment through wages and job creation can, at its highest, account for only one-fourth of the increase in the unemployment rate; an impact that is much lower than other estimates in the literature.",
+ "tittel": "Reassessing the Effects of Extending Unemployment Insurance Benefits",
+ "type": "article"
+}

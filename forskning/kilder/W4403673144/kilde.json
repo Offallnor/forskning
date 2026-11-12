@@ -1,0 +1,20 @@
+{
+ "apen_url": "https://www.clevelandfed.org/-/media/project/clevelandfedtenant/clevelandfedsite/publications/working-papers/2024/wp2423.pdf",
+ "ar": 2024,
+ "doi": "https://doi.org/10.26509/frbc-wp-202423",
+ "forfattere": [
+  "Steven J. Davis",
+  "Pawel Michal Krolikowski"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "https://www.clevelandfed.org/-/media/project/clevelandfedtenant/clevelandfedsite/publications/working-papers/2024/wp2423.pdf",
+ "hvordan": "pdf",
+ "id": "W4403673144",
+ "kilde": "Working paper",
+ "lenke": "https://openalex.org/W4403673144",
+ "merknad": "ÅPEN VERSJON (preprint eller arbeidsnotat), merkes i svaret",
+ "oversikt": false,
+ "sammendrag": "Using innovative longitudinal data from a survey of unemployment insurance (UI) recipients, we test several implications of a canonical job search model for reservation wages during unemployment spells. First, consistent with the model, we find that reservation wages fall faster when UI benefit durations are shorter. However, workers set their initial reservation wages higher, and adjust them slower, relative to model predictions. Second, workers' expectations-elicited at the beginning of their unemployment spell-about how their reservation wage will evolve if they remain unemployed are largely congruent with reservation wage realizations, as assumed in the canonical model. Third, our data on expectations and realizations suggest that dynamic selection over the unemployment spell is inconsequential for our results. Fourth, higher wages on workers' lost jobs, relative to predictions from a Mincerian wage regression, hasten the expected and realized declines in reservation wages over the unemployment spell. Finally, reservation wages are a more powerful predictor of re-employment wages than wages on the previous job.",
+ "tittel": "Reservation Wages Revisited: Empirics with the Canonical Model",
+ "type": "report"
+}

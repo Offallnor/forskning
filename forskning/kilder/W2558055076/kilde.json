@@ -1,0 +1,25 @@
+{
+ "apen_url": "https://link.springer.com/content/pdf/10.1007%2Fs10926-016-9682-x.pdf",
+ "ar": 2016,
+ "doi": "https://doi.org/10.1007/s10926-016-9682-x",
+ "forfattere": [
+  "Karlijn M. van Beurden",
+  "Evelien P. M. Brouwers",
+  "Margot C. W. Joosen",
+  "Michiel Robert de Boer",
+  "Jaap van Weeghel",
+  "Berend Terluin",
+  "Jac J. L. van der Klink"
+ ],
+ "hentet": "2026-11-09",
+ "hentet_fra": "https://link.springer.com/content/pdf/10.1007%2Fs10926-016-9682-x.pdf",
+ "hvordan": "pdf",
+ "id": "W2558055076",
+ "kilde": "Journal of Occupational Rehabilitation",
+ "lenke": "https://openalex.org/W2558055076",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "Purpose Evidence-based guidelines in occupational health care improve the quality of care and may reduce sickness absence duration. Notwithstanding that, guideline adherence of occupational physicians (OPs) is limited. Based on the literature on guideline implementation, an intervention was developed that was shown to effectively improve self-reported adherence in OPs. The aim of present study was to evaluate whether this intervention leads to earlier return to work (RTW) in workers with common mental disorders (CMD). Methods In a two-armed cluster randomized controlled trial, 66 OPs were randomized. The trial included 3379 workers, with 1493 in the intervention group and 1886 in the control group. The outcome measures were: time to full RTW, time to first RTW, and total hours of sickness absence. Cox regression analyses and generalized linear mixed model analyses were used for the evaluations. Results The median time to RTW was 154 days among the 3228 workers with CMD. No significant differences occurred in (time to) full RTW between intervention and control group HR 0.96 (95% CI 0.81-1.15) nor for first RTW HR 0.96 (95% CI 0.80-1.15). The mean total hours of sickness absence was 478 h in the intervention group and 483 h in the control group. Conclusions The intervention to enhance OPs' guideline adherence did not lead to earlier RTW in workers with CMD guided by the OPs. Possible explanations are the remaining external barriers for guideline use, and that perceived guideline adherence might not represent actual guideline adherence and improved care.Trail registration: ISRCTN86605310.",
+ "tittel": "Effectiveness of an Intervention to Enhance Occupational Physicians’ Guideline Adherence on Sickness Absence Duration in Workers with Common Mental Disorders: A Cluster-Randomized Controlled Trial",
+ "type": "article"
+}

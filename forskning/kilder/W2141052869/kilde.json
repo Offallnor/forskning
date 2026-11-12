@@ -1,0 +1,20 @@
+{
+ "apen_url": "https://doi.org/10.3386/w17173",
+ "ar": 2011,
+ "doi": "https://doi.org/10.1093/restud/rdw009",
+ "forfattere": [
+  "Kory Kroft",
+  "Matthew J. Notowidigdo"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "http://www.nber.org/papers/w17173.pdf",
+ "hvordan": "pdf",
+ "id": "W2141052869",
+ "kilde": "The Review of Economic Studies",
+ "lenke": "https://openalex.org/W2141052869",
+ "merknad": "ÅPEN VERSJON (preprint eller arbeidsnotat), merkes i svaret",
+ "oversikt": false,
+ "sammendrag": "We study how the marginal welfare gain from increasing the unemployment insurance (UI) benefit level varies over the business cycle. We do this by estimating how the moral hazard cost and the consumption smoothing benefit of UI vary with labour market conditions, which we identify using variation in the interaction of UI benefit levels with the unemployment rate within U.S. states over time. We find that the moral hazard cost is procyclical, greater when the unemployment rate is relatively low. By contrast, we do not find evidence that the consumption smoothing benefit varies with the unemployment rate. We use these empirical results to estimate the marginal welfare gain, and we find that it is modest on average, but varies positively with the unemployment rate.",
+ "tittel": "Should Unemployment Insurance Vary With the Unemployment Rate? Theory and Evidence",
+ "type": "article"
+}

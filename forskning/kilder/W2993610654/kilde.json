@@ -1,0 +1,20 @@
+{
+ "apen_url": "https://shs.hal.science/halshs-02393383",
+ "ar": 2020,
+ "forfattere": [
+  "Laura J. Khoury",
+  "Clément Brébion",
+  "Simon Briole"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "https://nva.sikt.no/registration/0198cc93864b-5f2f25e2-e5d6-45a5-87f8-938a1da26419",
+ "hvordan": "vitenarkivet",
+ "id": "W2993610654",
+ "kilde": "RePEc: Research Papers in Economics",
+ "lenke": "https://openalex.org/W2993610654",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "Entitlement conditions are a little explored dimension of unemployment insurance (UI) schemes. In this paper, we provide a comprehensive evaluation of a reform that softened the minimum employment record condition to qualify for UI benefits in France after 2009. Using administrative panel data matching employment and unemployment spells, we first provide clear evidence that the reform induced a separation response at the eligibility threshold. It appears both at the micro level – through a jump in transitions from employment to unemployment – and at the macro level – through the scheduling of shorter contracts, in line with the new eli- gibility requirements. Exploiting the reform as well as relevant sample restrictions, we then estimate the effects of receiving UI benefits on subsequent labour market outcomes using a regression discontinuity design. Our findings point to a large negative impact of UI benefits receipt on employment probability up to 21 months after meeting the eligibility criterion, which is not counterbalanced by an increase in job quality.",
+ "tittel": "Entitled to Leave: the Impact of Unemployment Insurance Eligibility on Employment Duration and Job Quality",
+ "type": "preprint"
+}

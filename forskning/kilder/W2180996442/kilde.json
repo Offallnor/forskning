@@ -1,0 +1,18 @@
+{
+ "apen_url": "http://hdl.handle.net/10419/129373",
+ "ar": 2015,
+ "forfattere": [
+  "Martin Nilsson"
+ ],
+ "hentet": "før 2026-11-08",
+ "hentet_fra": "https://www.econstor.eu/bitstream/10419/129373/1/837888735.pdf",
+ "hvordan": "pdf",
+ "id": "W2180996442",
+ "kilde": "RePEc: Research Papers in Economics",
+ "lenke": "https://openalex.org/W2180996442",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "Reductions in SI replacement levels has been a widely used instrument to lower sickness absence rates. The idea is that increasing the direct cost of absence would lower the absence rate. This paper explores a reform to the compulsory Swedish SI that meant that the replacement rate varied over the sickness absence spell. The reform reduced the replacement rate from 90 percent of foregone earnings to 65 percent during the 3 first days of a sickness absence spell and to 80 percent for days 4 - 90. From day 91 and onwards the rate remained at 90 percent. I show that the reform had, beside the previously shown direct effect, also an indirect effect on sickness absence behavior. The indirect effect stems from an increased cost of returning to work 'to soon' and having to return on sick leave, this time with a lower replacement rate. I find that the indirect effect significantly reduces the probability to end an absence spell, creating a locking-in effect in sickness absence.",
+ "tittel": "Economic incentives and long-term sickness absence: the indirect effect of replacement rates on absence behavior",
+ "type": "preprint"
+}

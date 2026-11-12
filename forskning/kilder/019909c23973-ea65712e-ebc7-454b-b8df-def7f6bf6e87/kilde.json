@@ -1,0 +1,20 @@
+{
+ "apen_url": "https://nva.sikt.no/registration/019909c23973-ea65712e-ebc7-454b-b8df-def7f6bf6e87",
+ "ar": 2024,
+ "forfattere": [
+  "Edvard Bergaust",
+  "Ida Aarrestad Nygård",
+  "Eirik Romstad"
+ ],
+ "hentet": "2026-11-09",
+ "hentet_fra": "https://nva.sikt.no/registration/019909c23973-ea65712e-ebc7-454b-b8df-def7f6bf6e87",
+ "hvordan": "vitenarkivet",
+ "id": "019909c23973-ea65712e-ebc7-454b-b8df-def7f6bf6e87",
+ "kilde": "Norges miljø- og biovitenskapelige universitet (NMBU)",
+ "lenke": "https://nva.sikt.no/registration/019909c23973-ea65712e-ebc7-454b-b8df-def7f6bf6e87",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "Det har vært en stor økning i andelen unge uføre i Norge gjennom de siste 20 årene. Det finnes ingen opplagte svar på hvorfor denne økningen har skjedd, og utviklingen er bekymringsverdig. Formålet med denne oppgaven er å bidra til å finne ut hvilke karakteristikker som kjennetegner personene som blir uføretrygdet i yngre alder. I tillegg søker oppgaven å analysere om det er en sammenheng mellom vitnemål fra videregående skole og mottakelse av uføretrygd. En slik sammenheng søkes dokumentert gjennom binære logistiske regresjonsanalyser som finner endring i sannsynligheten for å være uføretrygdet fire, fem eller ni år etter eksamen fra videregående skole basert på individ-, utdanning-, stønad- og arbeidsvariabler. Analysene gjennomføres ved bruk av Norske registerdata fra microdata.no. Gjennom analysene følger vi tre fødselskull født i 1984, 1987 og 1990. Vi ser på sannsynligheten for å være uføretrygdet som 24- eller 29-åring når man er 20 eller 24 år, gitt nevnte uavhengige variabler. Analysene viser at de som mottar uføretrygd i en alder av 24 og 29 år i Norge, kjennetegnes med flere karakteristikker. Felles gjennom hele perioden og for alle aldre har individene som mest sannsynlig (har mottatt) kommer til å motta uføretrygd, i de fleste tilfeller ikke fullført videregående skole, vært arbeidsledige eller har vært helt utenfor arbeidsstyrken da de var 20 eller 24 år gamle. Videre viser denne analysen, tidligere forskning og utsagn fra NAV-veiledere at veien fra alternative stønader og AAP til uføretrygd er kort. Til slutt viser det seg at ifølge våre analyser, statistikk fra NAV og annen faglitteratur at et vitnemål fra videregående skole reduserer sannsynligheten for å motta uføretrygd.",
+ "tittel": "Hvem er de unge uføretrygdede i Norge?",
+ "type": "DegreeMaster"
+}

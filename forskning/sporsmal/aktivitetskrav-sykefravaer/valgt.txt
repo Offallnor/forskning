@@ -1,0 +1,272 @@
+# Raskt svar: kilder fra kildebiblioteket (lest for gradert-sykmelding, gradert-psykisk, egenandel-sykefravaer og sykefravaer-utvikling), valgt 8.11.2026
+W4404867325  # Grønstad 2024, scoping review om aktivering av sykmeldte i Skandinavia (oversikt)
+W2412604146  # Vargas-Prada mfl. 2016, metaanalyse av svært tidlige tiltak på arbeidsplassen (oversikt), fra bestilleren
+W3198402854  # Berg mfl. 2021 (FHI), forskningskart om tiltak mot langvarig og hyppig sykefravær (oversikt)
+W3010213937  # Ellingsen mfl. 2010, nordisk kunnskapsoppsummering om arbeidsrettede tiltak ved sykefravær (oversikt)
+W3098021798  # Mykletun og Brinchmann 2013 (FHI), forskermøte om effekter av tiltak under IA-avtalen (oversikt)
+W2796572035  # Rehwald mfl. 2016, Danmark, randomisert forsøk med aktivering av sykmeldte (arbeidsnotat), fra bestilleren
+AV-2014-3-01  # Kann mfl. 2014, Hedmarksmodellen, håndheving av aktivitetskravet, fra bestilleren
+AV-2015-3-04  # Nossen og Brage 2015, midlertidig stans av sykepenger, landsdata, fra bestilleren
+AV-2017-1-04  # Lima mfl. 2017, Hedmarksmodellen, forsøk i flere fylker, fra bestilleren
+W2771771185  # Hernæs 2018, Hedmarksmodellen, syntetisk kontroll (publisert versjon, uten tekst)
+W3121578847  # åpen versjon av W2771771185 (Hernæs 2017, arbeidsnotat)
+W3170959179  # Mattila-Holappa mfl. 2021, Finland, alternativt arbeid som tidlig tiltak fra arbeidsgiver
+W4229447182  # Ose mfl. 2022, oppfølgingsregimer i ni land (beskrivende, bakgrunn)
+# Full løype, første utvalg 9.11.2026 (etter søk på engelsk, norsk, svensk og finsk). Kommentarene bygger på sammendraget der det finnes, ellers på tittel og utgiver.
+# Oversikter
+W1926837556  # van Vilsteren mfl. 2015, Cochrane, arbeidsplasstiltak for sykmeldte (oversikt over RCT)
+W1606668257  # Vogel mfl. 2017, Cochrane, koordineringsprogram for retur til arbeid (oversikt over RCT)
+W2056867380  # Schandelmaier mfl. 2012, metaanalyse av RCT om koordineringsprogram (samme forskergruppe som W1606668257, eldre)
+W2328015438  # Schandelmaier mfl. 2011, metaanalyse av saksoppfølging fra forsikringsgiver (case management)
+W4294879451  # Tingulstad mfl. 2022, metaanalyse av RCT om arbeidsrettede tiltak for sykmeldte
+W2799985133  # Gensby mfl. 2012, Campbell-oversikt om arbeidsgivers program for retur til arbeid
+W1968918267  # Franche mfl. 2005, systematisk oversikt over arbeidsplassbaserte tiltak (tidlig kontakt, tilrettelegging, koordinering)
+W2077733934  # Hoefsmit mfl. 2012, oversikt over kjennetegn ved tiltak som fremmer retur etter sykefravær
+W4399422307  # de Geus mfl. 2024, oversikt over tiltak for langtidssykmeldte (over 90 dager)
+W3155903238  # Dol mfl. 2021, oversikt over effekten av koordinatorer for retur til arbeid
+W4229439392  # Rydland mfl. 2022, scoping review om inkludering av kronisk syke i Skandinavia
+W7113566653  # Aronsson mfl. 2025, svensk oversikt over oversikter om retur til arbeid (Forte)
+W1503015117  # Holm mfl. 2010, svensk systematisk oversikt om retur til arbeid ved muskel- og skjelettplager og lettere psykisk uhelse
+W2775913329  # Bertilsson mfl. 2017, svensk litteraturoversikt om forebyggende tiltak via arbeidsplassen ved psykisk uhelse
+019904aa7986-0e4c2361-eb33-4871-9ab3-47b965597085  # Gjerde 2010, masteroppgave, systematisk oppsummering: nytter oppfølging av langtidssykmeldte?
+FI-jykdok.2188791  # Statsrådets kanslia 2022, finsk oversikt over effekten av tiltak for arbeidsevne (valgt på tittel)
+FI-arto.017381212  # finsk oversikt 2020 over studier av retur etter sykefravær 2008–2019 (valgt på tittel)
+# Randomiserte forsøk og felteksperimenter
+W3125553714  # Markussen mfl. 2018, Norge, obligatoriske dialogmøter (dialogmøte 2), naturlig eksperiment
+W3125222004  # samme materiale som W3125553714 (arbeidsnotat)
+W4224227694  # Alpino mfl. 2022, Norge, felteksperiment med dialogmøter
+W4386199890  # Aasdahl mfl. 2023, Norge, RCT med motiverende intervju hos Nav-veiledere for sykmeldte i 8 uker
+W4310336140  # Aanesen mfl. 2022, Norge, RCT, motiverende intervju eller stratifisert yrkesrådgivning i tillegg til Navs oppfølging
+W4414083791  # Øiestad mfl. 2025, samme materiale som W4310336140 (12 måneder og kostnader)
+W4214640429  # Mæland mfl. 2022, Norge, RCT med uavhengig medisinsk vurdering av langtidssykmeldte
+W2076808106  # Fleten og Johnsen 2006, Norge, RCT med brev fra trygdekontoret til sykmeldte
+W2012190243  # Hesselius mfl. 2005, Sverige, sosialt eksperiment med utsatt kontroll (legeerklæring) i sykefraværet
+W4302588647  # Engström mfl. 2012, Sverige, felteksperiment med tidlige tiltak fra Försäkringskassan
+W2027242222  # Poulsen mfl. 2014, Danmark, RCT av det nasjonale programmet for retur til arbeid i kommunene
+W4410772602  # Hannerz mfl. 2025, samme materiale som W2027242222 (langtidsoppfølging, psykisk uhelse)
+W2395813727  # Aust mfl. 2015, prosessevaluering av det danske programmet (samme materiale som W2027242222)
+W2796572035  # Rehwald mfl. 2016, Danmark, RCT med aktivering av sykmeldte (allerede valgt)
+W4239637744  # Rosholm mfl. 2019, Danmark, RCT med obligatoriske aktiviteter for sykmeldte i jobbsentre (sjekk om samme forsøk som W2796572035)
+W1985167429  # Martin mfl. 2013, Danmark, koordinert og tilpasset tiltak i kommunen ved psykisk uhelse
+W2086246290  # samme materiale som W1985167429 (stabil retur)
+W2129322795  # Bültmann mfl. 2009, Danmark, RCT med koordinert og tilpasset arbeidsrehabilitering
+W2411974038  # de Weerd mfl. 2016, Nederland, RCT med dialogmøte med arbeidsgiver (convergence dialogue meeting)
+W1892086574  # Hoefsmit mfl. 2015, Nederland, tiltak for samarbeid mellom sykmeldt og leder (COSS)
+W4386883739  # Beno mfl. 2023, Sverige, klyngerandomisert forsøk med arbeidsgiverinvolvering i primærhelsetjenesten
+W4393358110  # Björkelund mfl. 2024, Sverige, RCT med tidlig samarbeid og dialogmøte på arbeidsplassen
+W4404826543  # Nordling mfl. 2024, Sverige, tidlig strukturert kommunikasjon mellom lege, sykmeldt og arbeidsgiver
+W2800647420  # Sennehed mfl. 2018, Sverige, RCT med tidlig dialog med arbeidsplassen i fysioterapi
+W2017844716  # Carlsson mfl. 2013, Sverige, RCT med tidlig tverrfaglig vurdering i primærhelsetjenesten
+W2766169543  # Landström mfl. 2017, Sverige, RCT med rehabiliteringskoordinator
+W2171186773  # Smedley mfl. 2013, England, saksoppfølging i bedriftshelsetjenesten for sykehusansatte
+W3162733289  # Boeri mfl. 2021, Italia, randomisert kontroll av sykefravær i offentlig sektor (beslektet: kontroll)
+# Reformer, naturlige eksperimenter og registerstudier
+W3121578847  # Hernæs 2017, Hedmarksmodellen, syntetisk kontroll (allerede valgt)
+W1996959703  # Hägglund 2013, Sverige, tidsgrensene i sykeforsikringen (rehabiliteringskjeden)
+W3170545082  # Hägglund og Skogman Thoursie 2010, IFAU, rehabiliteringskjedens effekter på sykefraværets varighet
+W4412112855  # Hägglund mfl. 2025, Sverige, saksbehandlers kontroll av legeerklæringer, kvasieksperiment
+W2147994712  # Johansson mfl. 2012, Sverige, tidlig tverrfaglig vurdering og innlåsing
+W2068839152  # Lidwall 2012, Sverige, avslutning av sykepenger etter reformene i 2008
+W2571013676  # Post mfl. 2005, Nederland, Gatekeeper Improvement Act (arbeidsgivers plikter)
+W4414256612  # Jansen mfl. 2025, Nederland, sterkere arbeidsgiveransvar og tilrettelegging
+W2792586845  # Halonen mfl. 2018, Finland, lovplikt for arbeidsgiver å melde langt sykefravær (30-60-90)
+W2801792329  # samme materiale som W2792586845 (konferansesammendrag)
+W2170630267  # Foss mfl. 2013, Norge, IA-avtalen og sykefravær, registerstudie
+W2155416484  # Marnetoft mfl. 2001, Sverige, tidlig mot sen arbeidsrettet rehabilitering
+W7165684937  # Siukola mfl. 2026, Finland, tidlig støtte i bedriftshelsetjenesten og risiko for arbeidsuførhet
+W2916361832  # Skarpaas mfl. 2019, Norge, koordinator og retur til arbeid i Raskere tilbake-tilbud (kohort)
+W2580895602  # Holm mfl. 2017, Danmark, aktive arbeidsmarkedstiltak for sykmeldte, registerstudie
+# Norske rapporter og evalueringer
+KU-f0bb3e0c-c725-4cbe-a245-b333d1b74da8  # Brage og Kann, Nav, evaluering av forsøk med Hedmarksmodellen i tre fylker (trolig samme materiale som AV-2017-1-04)
+KU-b5503dbe-4b5c-41a1-959b-1e07a266a10e  # Becken mfl. 2017, sluttevaluering av Hedmarksmodellen (forvaltning)
+AV-2017-1-06  # Nav 2017, forsøk med tidlig dialogmøte 2 i Akershus
+AV-2022-2-04  # Nav 2022, nedgang i dialogmøter da Nav begynte å spørre om behov
+AV-2014-1-06  # Nav 2014, Navs oppfølging av sykmeldte
+KU-875dcbc0-c50a-4d2f-a78f-b2bbf9b2b1ae  # Ose mfl. 2013 (SINTEF), oppfølging av sykmeldte: fungerer dagens regime? (forvaltning)
+0198cc79c7cd-acfd3f19-c535-4040-8691-5ebda8ac207e  # Ose mfl. 2018 (SINTEF), sykefraværsoppfølging i sju land (beskrivende)
+0198cc6a07f2-83528661-0115-453b-b35a-71e514027435  # Ose mfl. 2013 (SINTEF), evaluering av IA-avtalen 2010–2013
+KU-440c72c2-a7d8-4235-b65f-9e0964f0c9ec  # Tafjord mfl. 2009 (SINTEF), evaluering av IA-avtalen 2001–2009
+KU-a9e33daa-a5d8-454b-8e8c-dbbed2f18791  # evaluering av arbeidsgivers rolle i sykefraværsoppfølgingen, 2008 (forvaltning)
+AV-2009-1-06  # Nav 2009, sykefraværsutvalgets modell for oppfølging to år etter
+KU-884d2759-5922-4a55-b7cd-e21caf22a212  # forhåndsutredning 2025, utvikling av sykefraværsoppfølgingen (kartlegging, forvaltning)
+KU-85c000bd-7e2a-42c5-91f6-55631a735353  # evaluering 2024 av forsøket med kompetansetiltak for sykmeldte
+NB-4163  # Oxford Research 2023, nye modeller for sykefraværsoppfølging i Nav Vest-Viken (forvaltning)
+NB-4171  # Oxford Research 2023, utviklingsprosjekt om sykefraværsoppfølging i Nav Vestland (forvaltning)
+NB-5528  # Oxford Research 2025, kartlegging av sykmeldtes jobbforventninger, delrapport (forvaltning)
+NB-4911  # Oxford Research og Proba 2024, evaluering av tilskudd til ekspertbistand
+019c24177f74-d0e4c927-93d4-4477-a70a-3ef207a9fbf4  # Bakkeli mfl. 2026 (OsloMet), rask kunnskapsoppsummering om sykmeldtes erfaringer med Navs oppfølging (kvalitativ)
+0198cc6b4308-1f220e76-faab-4bfc-a3d5-9ef8199b629d  # Nystuen mfl. 2001, utprøving og evaluering av tiltak for sykmeldte med psykiske plager eller muskel- og skjelettplager
+# Svenske rapporter
+LI-17972510  # ISF 2015, tidsgrensene i sykeforsikringen
+LI-17963954  # ISF 2015, avsluttede sykmeldinger ved tidsgrensene
+LI-22449298  # ISF 2017, vurderinger ved 90 og 180 dager i rehabiliteringskjeden
+LI-17399612  # ISF 2014, leder utredning av sykmeldte til økt retur til arbeid?
+LI-7vlxr9md5r8sm5st  # ISF 2026, koordineringsinnsatser ved sykmelding
+LI-8t04flg46fv9pj3t  # ISF 2025, Försäkringskassans samordningsoppdrag
+LI-bq5jx0j883qxx3p0  # Riksrevisionen 2021, forsterket rehabilitering for retur til arbeid (arbeidsgiver, Försäkringskassan)
+LI-q5k2nf56nsdzhxgg  # 2022, avskaffelsen av den bortre tidsgrensen, effekter (valgt på tittel)
+LI-10292226  # Försäkringskassan 2005, avstemmingsmøte, metodeundersøkelse 2004
+LI-9673449  # Riksförsäkringsverket 2004, arbeidsløse sykmeldte, oppfølging av samarbeidstiltak
+LI-5h7rt10j31hpp2p6  # Folkhälsomyndigheten 2019, tiltak via bedriftshelsetjenesten mot psykisk uhelse (oversikt)
+# Finske rapporter
+FI-jykdok.2270676  # Kela 2017, effekten av endringen i sykeforsikringsloven 2011 (30-60-90) på arbeidsplassene
+FI-etk.11111_1755  # ETK 2023, kontrollpunktene i sykepengeperioden, rehabilitering og retur til arbeid
+FI-helka.9934056749606253  # finsk avhandling 2020: egenmelding, alternativt arbeid, koordinatorer og arbeidsdeltakelse (valgt på tittel)
+# Danske rapporter (ikke i katalogene, lagt inn for hånd)
+url: https://star.dk/media/jfydwokz/vidensnotat-sygemeldte.pdf | Hvad virker for at få sygemeldte tilbage i job? Vidensnotat | Styrelsen for Arbejdsmarked og Rekruttering | 2025
+R-dc0936e468 # id-en til url-linjen over: Hvad virker for at få sygemeldte tilbage i job? Vidensnotat
+url: https://star.dk/media/gh0b13cv/litteraturgennemgang-sygemeldte.pdf | Litteraturgennemgang: hvad virker for at få sygemeldte tilbage i job | Styrelsen for Arbejdsmarked og Rekruttering | 2025
+R-e4323b5917 # id-en til url-linjen over: Litteraturgennemgang: hvad virker for at få sygemeldte tilbage i job
+url: https://star.dk/media/22038/sof-hovedrapport-november-2019.pdf | Sammen om fastholdelse. Hovedrapport | Discuso | 2019
+R-5e8ea23282 # id-en til url-linjen over: Sammen om fastholdelse. Hovedrapport
+url: https://star.dk/media/22035/sof-delnotat-kvantitanalyse-november-2019.pdf | Sammen om fastholdelse. Delnotat: kvantitativ analyse | Metrica | 2019
+R-ca4ebdc6a8 # id-en til url-linjen over: Sammen om fastholdelse. Delnotat: kvantitativ analyse
+url: https://ft.dk/samling/20171/almdel/BEU/bilag/351/1906579.pdf | Effektevaluering af sygedagpengereformen | Michael Rosholm; Lars Skipper; Kenneth Lykke Sørensen | 2018
+R-12b943509f # id-en til url-linjen over: Effektevaluering af sygedagpengereformen
+url: https://star.dk/media/3650/deloitte_evaluering-af-sygedagpengereformen.pdf | Evaluering af sygedagpengereformen | Deloitte | 2016
+R-e42dc407da # id-en til url-linjen over: Evaluering af sygedagpengereformen
+# Fra referanser, runde 1 (9.11.2026)
+W2590965493  # Cullen mfl. 2018, oppdatert systematisk oversikt over arbeidsplasstiltak for retur til arbeid
+W2127823072  # oversikt 2012 over aktive arbeidsplasstiltak for å redusere sykefravær
+W2094662502  # oversikt 2011 over myndighetenes tiltak for retur til arbeid
+W2056873278  # Higgins mfl. 2012, realistisk oversikt over håndtering av langtidssykefravær
+W2518291518  # Nigatu mfl. 2016, metaanalyse av tiltak for retur ved vanlige psykiske lidelser
+W4410104943  # oversikt 2025 over RCT av tiltak som reduserer sykefravær ved psykiske lidelser
+W2087092263  # Danmark, multisenter-RCT av det nasjonale programmet for retur til arbeid (samme program som W2027242222)
+W2605738490  # Danmark?, saksoppfølging av sykepengemottakere i offentlig-privat samarbeid, forskjell-i-forskjell
+W2215805610  # Finland 2015, lovendring med plikt til å melde langt sykefravær og vurdere arbeidsevne
+W4387231342  # Finland 2023, reform med nye kontrollpunkter i sykefraværet, avbrutt tidsserie
+W3146838699  # Finland 2021, koordinatormodell for retur til arbeid, naturlig intervensjon
+W2070785347  # Hartman mfl. 2013, Sverige, felteksperiment med strengere vurdering av rett til sykepenger
+W2109021417  # samme materiale som W4302588647 (Engström mfl., publisert versjon)
+W1563064513  # Sverige 2005, sosialt eksperiment om kravet til legeerklæring (trolig samme materiale som W2012190243)
+W2030973129  # Sverige 2012, sosialt eksperiment med informasjonsmøter om sykefravær
+W2124456619  # Sverige 2004, mikroøkonometrisk evaluering av rehabilitering av langtidssykmeldte
+W2136823366  # Sverige 2008, systematisk samarbeid mellom arbeidsgiver, bedriftshelsetjeneste og trygdekontor, 6 års oppfølging
+W2020517177  # Sverige 2005, samarbeidsprosjekt i arbeidsrettet rehabilitering
+W2134556813  # Sverige 2013, statlig tilskudd til tidlige tiltak i bedriftshelsetjenesten
+W4413968597  # Sverige 2025, koordinering av retur til arbeid i primærhelsetjenesten, registerstudie
+W2070975802  # Nederland 2006, RCT med informasjonsutveksling mellom trygdeleger og bedriftsleger
+W2021288534  # Nederland 2005, kontrollert forsøk med opplæring i samarbeid mellom fastleger og bedriftsleger
+W2130137198  # de Jong mfl. 2011, Nederland, strengere vurdering av søknader om uføreytelse (Gatekeeper)
+W2169584029  # 2004, effekter av endringer i sykeforsikringen på sykefravær (sjekk land og tiltak)
+W4252885144  # OECD 2010, Sickness, Disability and Work: Breaking the Barriers (bakgrunn, sammenligning av land)
+# Tatt inn fra det blinde utvalget 9.11.2026 (kategori 1–4 som svarer på spørsmålet, og evalueringer av ordningene)
+W2599512444  # fra det blinde utvalget (kategori 1, internasjonal): Systematisk oversikt over 20 RCT-er om tidlige tiltak og arbeidsdeltakelse.
+W2810119800  # fra det blinde utvalget (kategori 1, internasjonal): Metaanalyse av 42 studier om tiltak for å fremme retur til arbeid for sykmeldte med psykiske lidelser.
+W4396667274  # fra det blinde utvalget (kategori 1, internasjonal): Systematisk oversikt (svensk) over arbeidsrettede tiltak og retur til arbeid for sykmeldte med psykiske lidelser.
+W2907932932  # fra det blinde utvalget (kategori 1, internasjonal): Narrativ oversikt over RCT-er om når tiltak for retur til arbeid bør settes inn (tidlig oppfølging).
+W2181455115  # fra det blinde utvalget (kategori 1, internasjonal): Metaoversikt over arbeidsplasstiltak med sykefravær som ett av utfallene.
+W2982124809  # fra det blinde utvalget (kategori 1, internasjonal): Gjennomgang av koordinering i RTW-programmer, del av norsk doktorgrad om koordinering av retur til arbeid.
+LI-g2t3j0dtdr6zzm8s  # fra det blinde utvalget (kategori 1, Sverige/internasjonal): Fortes vitenskapelige oversikt om retur til arbeid etter sykmelding for psykiske og muskel-skjelettlidelser (på tittel).
+0198cc685187-e4b11562-1a40-4075-bb09-8d68011d9a16  # fra det blinde utvalget (kategori 1, Norden): Kunnskapsoppsummering av nordisk forskning om arbeidsrettede tiltak ved sykefravær (på tittel).
+0198cc72abe5-979e5cdd-1403-4d74-8cba-0ea39f1c6914  # fra det blinde utvalget (kategori 1, internasjonal): FHIs forskningskart over tiltak for å redusere langvarig sykefravær (på tittel).
+W2414105140  # fra det blinde utvalget (kategori 2, Norge): Kontrollert studie av trygdeetatens systematiske vurdering av sykmelding II, ingen forskjell i trygdebruk.
+W4399324105  # fra det blinde utvalget (kategori 2, Danmark): RCT om spesialisert vurdering av sykmeldte med mistenkt psykisk lidelse og yrkesrettede utfall.
+W2127673741  # fra det blinde utvalget (kategori 2, Nederland): RCT av tidlig bedriftshelsetjenesteoppfølging, ingen forskjell i tid til retur.
+W2121271519  # fra det blinde utvalget (kategori 2, Nederland): RCT der programmet halverte tid til varig retur (161 mot 299 dager).
+W2507610517  # fra det blinde utvalget (kategori 2, Nederland): RCT i trygdeforvaltningen (UWV) uten effekt på retur til arbeid.
+W2100697776  # fra det blinde utvalget (kategori 2, Storbritannia): Randomisert forsøk med tre tiltak for sykmeldte over seks uker, utfall retur til arbeid.
+W2792125217  # fra det blinde utvalget (kategori 2, Storbritannia): Pilot-RCT av case management for retur etter langvarig fravær.
+W1973614852  # fra det blinde utvalget (kategori 2, Storbritannia): Mulighetsstudie (RCT) av lege pluss arbeidsplassrådgivere mot lege alene, utfall retur til arbeid.
+W7127178060  # fra det blinde utvalget (kategori 2, Storbritannia): Avbrutt RCT med utforskende funn om tidlig yrkesrettet rådgivning og sykefravær.
+W3044135239  # fra det blinde utvalget (kategori 3, Norge): Avbrutt tidsserie av IA-avtalen, ingen endring i risiko for langtidsfravær blant yngre.
+W4408790921  # fra det blinde utvalget (kategori 3, Danmark): Reformstudie av trusseleffekter av obligatorisk aktivering og kortere sykedagpengeperiode.
+W2753581083  # fra det blinde utvalget (kategori 3, Danmark): Kvasirandomisert studie av sysselsettingseffekter for sykmeldte med psykiske lidelser.
+W4309592779  # fra det blinde utvalget (kategori 4, Norge): Registerstudie med sammenligning av IA- og ikke-IA-virksomheter, høyere retur etter sykefravær.
+W4385619845  # fra det blinde utvalget (kategori 4, Norge): Registerstudie av individeffekten av IA-avtalen på arbeidsdeltakelse etter langtidsfravær.
+W4210656986  # fra det blinde utvalget (kategori 4, Norge): Registerstudie av IA-avtalens effekt på diagnosespesifikt sykefravær, blandede resultater.
+W2771627068  # fra det blinde utvalget (kategori 4, Norge): Kontrollert kohortstudie av prosjektet Raskere tilbake, uten bedre retur til arbeid.
+W4414965353  # fra det blinde utvalget (kategori 4, Nederland): Observasjonsstudie der tidlig rådgivning (uke 1) ga raskere retur enn senere start.
+0198cc735430-653e7c4d-4af8-4e61-a4e2-6813e8dc543f  # fra det blinde utvalget (kategori forvaltning, Norge): Doktorgrad om Navs arbeid med oppfølging av sykmeldte (på tittel).
+NB-6165  # fra det blinde utvalget (kategori forvaltning, Norge): Evaluering av informasjonsutveksling mellom Nav og lege (på tittel).
+KU-3dbd207f-9dc5-45e6-a33c-6c3b245ad196  # fra det blinde utvalget (kategori forvaltning, Norge): Prosessevaluering av Navs forsøk med kompetansetiltak (på tittel).
+0198cc8ee51a-3abacdda-5edd-45dc-8efc-2c61a7752983  # fra det blinde utvalget (kategori forvaltning, Norge): Kartlegging av sykefraværsoppfølgingen i 2009 (på tittel).
+KU-75737587-881e-4869-8461-0511a0a001f1  # fra det blinde utvalget (kategori forvaltning, Norge): SNFs evaluering av ordningen for raskere retur (på tittel).
+0198cc581376-46eafe91-72a0-4e02-9385-ca515066c6ef  # fra det blinde utvalget (kategori forvaltning, Norge): Følgeforskning om en arbeidsgivers oppfølging av sykmeldte (på tittel).
+019933dcb1e2-ddd4443d-eeee-41de-b3ae-18749bfabba2  # fra det blinde utvalget (kategori forvaltning, Norge): Evaluering av forsøksprogrammet i trygdeetaten, med oppfølging fire år etter (på tittel).
+0198cc94c3d7-1f1ea230-ad84-4c9a-b4f5-71214a7bedb5  # fra det blinde utvalget (kategori forvaltning, Norge): Studie av trygdeetatens oppfølging av sykmeldte (på tittel).
+W3009296559  # fra det blinde utvalget (kategori forvaltning, Norge, Sverige, NL m.fl.): OECD-gjennomgang av norsk sykefravær og oppfølging sammenlignet med andre land.
+W2090705748  # fra det blinde utvalget (kategori forvaltning, Sverige): Studie av fire aktørers erfaringer med tidsgrensene i sykeforsikringen.
+W2074879653  # fra det blinde utvalget (kategori forvaltning, Sverige): Registerbeskrivelse av Försäkringskassans tiltak, blant annet avstemmingsmøter, før og etter vurdering.
+W2894846380  # fra det blinde utvalget (kategori forvaltning, Sverige): Evaluering av innføringen av nasjonal rehabiliteringspolitikk i helsetjenesten.
+W2753528144  # fra det blinde utvalget (kategori forvaltning, Sverige): Evaluering av innføringen av MI i Försäkringskassan.
+W38762864  # fra det blinde utvalget (kategori forvaltning, Sverige): Doktorgrad om politikk og praksis for retur til arbeid etter rehabiliteringskjeden.
+LI-10292218  # fra det blinde utvalget (kategori forvaltning, Sverige): Försäkringskassans metodeundersøkelse av rehabiliteringsutredninger (på tittel).
+LI-12767395  # fra det blinde utvalget (kategori forvaltning, Sverige): Studie av sykmeldingssystemet og aktørene etter innføringen av rehabiliteringskjeden (på tittel).
+FI-etk.11111_2799  # fra det blinde utvalget (kategori forvaltning, Finland): ETKs intervjustudie av samarbeidet mellom aktørene (på tittel).
+FI-jykdok.2339878  # fra det blinde utvalget (kategori forvaltning, Finland): Evaluering av en kommunal modell for tidlig støtte (på tittel).
+W2153084569  # fra det blinde utvalget (kategori forvaltning, Finland): Landsdekkende kartlegging av tilbakeføringstjenester i finsk bedriftshelsetjeneste.
+W2015161923  # fra det blinde utvalget (kategori forvaltning, Nederland): Kvalitativ evaluering av hvordan lovgivningen virker i samarbeidet mellom arbeidsgiver og sykmeldt.
+W2000171739  # fra det blinde utvalget (kategori forvaltning, Nederland, Belgia): Studie av aktørers erfaringer med lovgivning om retur til arbeid.
+
+# Fra gjennomgangen av sentrale kandidater 9.11.2026 (oversikter og forsøk om arbeidsplassbasert oppfølging, koordinert retur og kontroll av sykmelding som manglet i første utvalg)
+W4253720434 # Interventions to improve return to work in depressed people (2020)
+W2028743012 # A Literature Review Describing the Role of Return-to-Work Coordinators in Trial Programs and Interventions Des (2007)
+W3003410595 # Return to Work for Mental Ill-Health: A Scoping Review Exploring the Impact and Role of Return-to-Work Coordin (2020)
+W2885574758 # Self-certification versus physician certification of sick leave for reducing sickness absence and associated c (2019)
+W7221481109 # A Comparison of Norwegian and USA musculoskeletal sick leave processes: A Scoping Review (2026)
+W2132302069 # Workplace interventions for preventing work disability (2009)
+W2136583321 # Effects on physicians' sick-listing practice of an administrative reform narrowing sick-listing benefits (2000)
+W2128132260 # Better health at work? An evaluation of the effects and cost-benefits of a structured workplace health improve (2014)
+W2171985774 # Return-to-work of sick-listed workers without an employment contract – what works? (2009)
+W1944603683 # A novel approach to early sickness absence management: The EASY (Early Access to Support for You) way (2015)
+W2128969319 # The assessment of efforts to return to work in the European Union (2010)
+W2585080834 # A participatory supportive return to work program for workers without an employment contract, sick-listed due  (2017)
+W3111825913 # Graded Work, the Activation of Sick-Listed Workers and Employer Participation in Continental Europe (2020)
+0198f6097f34-942bda84-c442-45f3-bee4-ae2a5dfadb8a # Hva eksisterer av kilder på Arbeidsdeltakelse hos sykmeldte med muskel- og skjelettlidelser under ordningen R (2021)
+KU-d2e7857c-2757-4736-b1d4-8750274e966e # Arbeidsrettede tiltak ved helseplager og sykefravær (2010)
+FI-trepo.10024_146372 # Takaisin töihin – työssä jatkaminen ja työhön paluun tukeminen : Kirjallisuuskatsaus työn merkityksest (2023)
+W2020518948 # Workplace-Based Work Disability Prevention Interventions for Workers with Common Mental Health Conditions: A R (2011)
+W4416140796 # A systematic review and meta-analysis of the effectiveness of work-focused interventions for employees with sy (2025)
+W2073048698 # Blind Faith? The Effects of Promoting Active Sick Leave for Back Pain Patients (2002)
+W2808925949 # Intervention policies and social security in case of reduced working capacity in the Netherlands, Finland and  (2018)
+W1527178697 # Return to Work After Long Term Sickness (2011)
+W2944738632 # Vocational rehabilitation – what works, for whom, and when? (2008)
+W2255616778 # Mental Health Interventions in the Workplace and Work Outcomes: A Best-Evidence Synthesis of SystematicReviews (2016)
+W2731642262 # Optimizing cooperation between general practitioners, occupational health and rehabilitation physicians in Ger (2017)
+W2935911342 # Employer Strategies for Preventing Mental Health Related Work Disability: A Scoping Review (2019)
+W2789142559 # Do return to work interventions for workers with disabilities and health conditions achieve employment outcome (2018)
+W2974066945 # Evidence of Workplace Interventions—A Systematic Review of Systematic Reviews (2019)
+W2219647517 # Absenteeism in the Italian Public Sector: The Effects of Changes in Sick Leave Policy (2014)
+W1595917770 # Trends in long‐term sickness absence in Sweden 1992–2008: the role of economic conditions, legislation, de (2010)
+W65995551 # Active Sick Leave for Patients With Back Pain (2002)
+W1635594204 # Reduction of sickness absence by an occupational health care management program focusing on self-efficacy and  (2014)
+W2566789032 # Do workplace interventions reduce disability rates? (2016)
+W2801799360 # The efficacy and efficiency of Disability Management in job-retention and job-reintegration. A systematic revi (2018)
+W1997959920 # Guiding Low Back Claimants to Work (2012)
+W111499527 # Core Components of Return-to-Work Interventions (2013)
+W1963709583 # Fit for work? Changing fit note practice among GPs (2012)
+W2313100069 # The activation logic in national sickness absence policies: Comparing the Netherlands, Denmark and Ireland (2014)
+W4282045117 # Return-to-work interventions for persons/employees with mental illnesses (2022)
+W7160063708 # Opening new doors: a realist review on return to work with a new employer for sick-listed employees (2026)
+
+# Åpne versjoner fra versjoner.tsv (10.11.2026)
+W3125598432 # åpen versjon av W2130137198 (arbeidsnotat 2006)
+W1732288 # åpen versjon av W2944738632 (rapport 2008)
+W7160064339 # åpen versjon av W7160063708 (realistisk oversikt 2026)
+
+# Tatt inn fra det blinde utvalget av referanser runde 2 (10.11.2026)
+W2063500338 # skjerpet kontroll med legers sykmeldinger, Sverige (blindt utvalg 2, kategori 2)
+W2125371026 # privatisert yrkesrettet rehabilitering for sykmeldte, Sverige (blindt utvalg 2, kategori 2)
+W4220879318 # tiltak mot legers sykmeldingspraksis, Norden/internasjonal (blindt utvalg 2, kategori 1)
+W4293173785 # saksbehandlers vurdering (caseworker screening),  (blindt utvalg 2, kategori 3)
+W1508199656 # aktivering av sykmeldte,  (blindt utvalg 2, kategori 3)
+W2755226448 # kontroll og insentiver i sykelønn,  (blindt utvalg 2, kategori 3)
+W1525215440 # organisering av sykmeldingskontroll (forsikring og helsevesen), Sverige (blindt utvalg 2, kategori 4)
+W2259782559 # legers og yrkesspesialisters tiltak for selvstendige, Nederland (blindt utvalg 2, kategori 4)
+W3124462499 # legers og yrkesspesialisters tiltak for selvstendige, Nederland (blindt utvalg 2, kategori 4)
+W1620640418 # systematiske samarbeidsmøter (klient, arbeidsgiver, bedriftslege, forsikring), Sverige (blindt utvalg 2, kategori 5)
+W2015245420 # tverrfaglig samarbeid i yrkesrettet rehabilitering, Sverige/Finland (blindt utvalg 2, kategori 5)
+W3165059038 # case management hos forsikrer, Tyskland/Sveits (blindt utvalg 2, kategori 5)
+W4407881389 # tiltak mot sykefravær, internasjonal (blindt utvalg 2, kategori 1)
+W4417438054 # bedriftshelsetiltak og fravær, internasjonal (blindt utvalg 2, kategori 1)
+W4254554316 # politikk for sykdom, uførhet og arbeid, OECD (blindt utvalg 2, kategori forvaltning)
+W4229651967 # politikk for sykdom, uførhet og arbeid, Danmark, Finland, Irland, Nederland (blindt utvalg 2, kategori forvaltning)
+W2131314409 # forebyggende tiltak og tilpasning på virksomhetsnivå, Norge (blindt utvalg 2, kategori 5)
+
+# Tatt inn fra referanser runde 3 (10.11.2026)
+W3185498031 # utvidet kontroll av sykmelding og tillfällig föräldrapenning, Sverige 2011 (referanser runde 3)
+W1569857237 # primærleger som portvoktere i trygden, 2009 (referanser runde 3)
+W2991134608 # samme rapport som KU-440c72c2 (evaluering av IA-avtalen 2001–2009), tekst kan finnes her
+W1501193741  # fra referanselista i oversikten over aktivering i Skandinavia (steg 2.5): 2004-reformen med dokumentasjonskrav ved åtte uker

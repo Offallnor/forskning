@@ -1,0 +1,118 @@
+id	kategori	land	tiltak	samme_materiale	begrunnelse
+W7213521022	1	Høyinntektsland	Tiltak for unge (komponent-nettverksmetaanalyse)		Nyeste metaanalyse av tiltak for unge i høyinntektsland som kan skille ut effekten av lønnstilskudd mot andre komponenter.
+W119749001	1	Globalt	Tiltak for unge inkl. subsidiert sysselsetting		Campbell-oversikt (107 tiltak, 31 land) over tiltak for unge 15–35 med egne resultater for subsidiert sysselsetting.
+W4233730326	1	Globalt	Tiltak for unge inkl. subsidiert sysselsetting	W119749001	Rapportversjon av Campbell-oversikten om tiltak for unge.
+W2959368943	1	Globalt	Tiltak for unge (protokoll)	W119749001	Protokoll for Campbell-oversikten om tiltak for unge.
+W2530882093	1	Globalt	Tiltak for unge inkl. subsidiert sysselsetting	W119749001	Arbeidsnotatversjon av oversikten over tiltak for unge.
+W3124887541	1	Globalt	Tiltak for unge inkl. subsidiert sysselsetting	W119749001	Publisert kvantitativ versjon (World Development) av oversikten over tiltak for unge.
+W7213089090	1	Globalt	Tiltak for unge		ILO-gjennomgang av effekter av arbeidsmarkedstiltak for unge.
+W4399418567	1	Globalt	Tiltak for unge	W7213089090 (trolig)	ILO/Verdensbanken-sammendrag av systematisk oversikt over tiltak for unge 1990–2021.
+W2338040341	1	Globalt/OECD	Lønnstilskudd for unge		Eneste oversikt rettet spesifikt mot lønnstilskudd for unge, med vekt på utforming.
+W2767805161	1	Norden, DE, GB	Tiltak for unge inkl. lønnstilskudd		Metaanalyse av 44 nordeuropeiske studier av tiltak for unge; lønnstilskudd blant de mest positive.
+W2753677791	1	Norden, DE, GB	Tiltak for unge inkl. lønnstilskudd	W2767805161	Norsk artikkelversjon (Søkelys) av metaanalysen av tiltak for unge i Nord-Europa.
+0198cc97b527-72b1e897-3c8b-47e2-8c9a-dd6326e550b4	1	Norden, DE, GB	Tiltak for unge inkl. lønnstilskudd	W2767805161	Samme Søkelys-artikkel fra Vitenarkivet.
+0198cc8fb35e-07b7e7c2-852e-452c-833a-f51d16f740a6	1	Norden, DE, GB, NL	Tiltak for utsatte unge	W2767805161	ISF-rapporten som metaanalysen bygger på, med kartlegging av nordeuropeisk effektforskning for unge under 30.
+AV-2023-1-02	1	Norge	Arbeidsmarkedstiltak, inkl. lønnstilskudd		Oppsummering av norske effektstudier; tiltak som ligner ordinært arbeid (lønnstilskudd) virker best, med egne funn for ungdom.
+0198f66c7c6a-57d2cbf5-43fd-4d55-8dd6-703741c65f40	1	Norge	Tiltak for unge med funksjonsnedsettelse		Norsk kunnskapsoversikt over arbeidsrettede tiltak for unge med nedsatt funksjonsevne.
+0198cc67f381-10b52e27-ff19-4730-aef8-57aac6b80405	1	Norge	Tiltak for unge med funksjonsnedsettelse	0198f66c7c6a-57d2cbf5-43fd-4d55-8dd6-703741c65f40	Samme kunnskapsoversikt (annen post i Vitenarkivet).
+W1588450396	1	Norden	Tiltak for unge og innvandrere		Oversikt over nordiske evalueringer; lønnstilskudd gir de klarest positive resultatene også for unge.
+W2259408401	1	Europa	Tiltak for unge inkl. lønnstilskudd		Oversikt over europeisk evidens for tiltak for unge; blandede effekter av lønnstilskudd.
+W3122071429	1	Europa	Tiltak for unge inkl. lønnstilskudd	W2259408401	Arbeidsnotatversjon av oversikten over tiltak for unge i Europa.
+W3023312121	1	Europa/OECD	Tiltak for unge		Bokkapittel som oppsummerer oversikter og metaanalyser av tiltak for unge.
+W1805206376	1	OECD	Arbeidsmarkedstiltak, inkl. subsidiert sysselsetting		Metaanalyse (Card, Kluve, Weber 2010) med egne estimater for unge og for privat subsidiert sysselsetting.
+W2902868850	1	OECD	Arbeidsmarkedstiltak	W1805206376	Arbeidsnotatversjon av metaanalysen fra 2010.
+W4206239023	1	OECD	Arbeidsmarkedstiltak	W1805206376	Arbeidsnotatversjon av metaanalysen fra 2010.
+W4206031054	1	OECD	Arbeidsmarkedstiltak	W1805206376	NBER-versjon av metaanalysen fra 2010.
+W4299440922	1	OECD	Arbeidsmarkedstiltak	W1805206376	RePEc-versjon av metaanalysen fra 2010.
+W2181778068	1	OECD	Arbeidsmarkedstiltak	W1805206376	SSRN-versjon av metaanalysen fra 2010.
+W3021959460	1	OECD	Arbeidsmarkedstiltak, inkl. subsidiert sysselsetting		Metaanalyse av over 200 studier (Card, Kluve, Weber 2018) med effekt etter tiltakstype, alder og tidshorisont.
+W1849775659	1	OECD	Arbeidsmarkedstiltak	W3021959460	Arbeidsnotatversjon av metaanalysen fra 2018.
+W4298866695	1	OECD	Arbeidsmarkedstiltak	W3021959460	NBER-versjon av metaanalysen fra 2018.
+W4408632418	1	Globalt	Arbeidsmarkedstiltak (RCT-er)		Metaanalyse av 102 randomiserte forsøk av arbeidsmarkedstiltak, med lønnstilskudd og unge som undergrupper.
+W2950428550	1	Globalt	Arbeidsmarkedstiltak (RCT-er)	W4408632418	Arbeidsnotatversjon av RCT-metaanalysen.
+W7115327050	1	Globalt	Arbeidsmarkedstiltak (RCT-er)	W4408632418	Arbeidsnotatversjon av RCT-metaanalysen.
+W2803699076	1	OECD	Arbeidsmarkedstiltak, inkl. subsidiert sysselsetting		Metaanalyse med korreksjon for publiseringsskjevhet som rangerer subsidiert arbeid høyt på lang sikt.
+W82406113	1	OECD	Arbeidsmarkedstiltak for dagpengemottakere		Campbell-oversikt over effekter av tiltak for dagpengemottakere etter tiltakstype.
+W2611504698	1	OECD	Arbeidsmarkedstiltak for dagpengemottakere	W82406113	Tidsskriftversjon av Campbell-oversikten.
+W2956924494	1	OECD	Arbeidsmarkedstiltak for dagpengemottakere (protokoll)	W82406113	Protokoll for Campbell-oversikten.
+W2010586812	1	Europa	Arbeidsmarkedstiltak, inkl. lønnstilskudd		Metaanalyse av europeiske tiltak med effekt etter tiltakstype og for unge.
+W1520618467	1	Europa	Arbeidsmarkedstiltak	W2010586812	Arbeidsnotatversjon av Kluves europeiske metaanalyse.
+W2119626280	1	Europa	Opplæring og lønnstilskudd		Gjennomgang av europeiske evalueringer; unge er vanskeligst å hjelpe.
+W3125938983	1	OECD	Arbeidsmarkedstiltak, inkl. lønnstilskudd		OECD-gjennomgang (Martin og Grubb) av hva som virker, inkl. lønnstilskudd og tiltak for unge.
+W2111583974	1	OECD	Arbeidsmarkedstiltak	W3125938983	Annen versjon av OECD-gjennomgangen.
+W2106519551	1	OECD	Arbeidsmarkedstiltak		Oversikt over effekter av arbeidsmarkedstiltak med vekt på RCT-er og likevektseffekter (fortrengning).
+W4302969421	1	OECD	Arbeidsmarkedstiltak	W2106519551	Arbeidsnotatversjon av oversikten.
+W2128492593	1	OECD	Aktivering og arbeidsmarkedstiltak		OECD-oversikt over effekter av tiltak, også makroeffekter.
+W2268271869	1	OECD	Aktivering og arbeidsmarkedstiltak	W2128492593	Arbeidsnotatversjon av OECD-oversikten.
+W1965203923	1	Europa	Arbeidsmarkedstiltak for innvandrere		Metaanalyse der bare lønnstilskudd har sikre positive effekter for innvandrere.
+W3124553479	1	Europa	Arbeidsmarkedstiltak for innvandrere	W1965203923	Arbeidsnotatversjon av metaanalysen.
+W2134033543	1	Tyskland	Lønnstilskudd og sysselsettingstiltak		Gjennomgang av tyske evalueringer av lønnstilskudd i privat sektor og sysselsettingstiltak.
+W2899536193	1	Tyskland	Arbeidsmarkedstiltak		Gjennomgang av tyske evalueringer, inkl. lønnstilskudd.
+W2094662502	1	DK, NO, SE, GB, CA	Arbeidsgiverrettede tiltak for funksjonshemmede, inkl. lønnstilskudd		Systematisk oversikt; lønnstilskudd kan virke for personer med funksjonsnedsettelse hvis de er sjenerøse.
+W4392582001	1	Høyinntektsland	Arbeidsgiverrettede tiltak for funksjonshemmede, inkl. lønnstilskudd		Systematisk oversikt (71 studier) med blandet evidens for lønnstilskudd.
+W2417897354	1	Europa	Arbeidsmarkedstiltak for kvinner, inkl. lønnstilskudd		Oversikt over effekter av tiltak inkl. lønnstilskudd for kvinner i Europa.
+W1923607888	1	Europa	Arbeidsmarkedstiltak for kvinner	W2417897354	Tidsskriftversjon av oversikten om kvinner.
+W3124513617	1	Europa	Arbeidsmarkedstiltak for kvinner	W2417897354	Arbeidsnotatversjon av oversikten om kvinner.
+W2770196142	1	Europa	Ungdomsgaranti		Systematisk oversikt over effekter av ungdomsgarantier og implementeringen av EUs ungdomsgaranti.
+W4310986237	1	Øst-Europa	Ungdomsgaranti		Systematisk oversikt over utfall av ungdomsgarantien i Øst-Europa.
+W1759511778	1	Storbritannia/OECD	Arbeidsmarkedstiltak, inkl. lønnstilskudd		Gjennomgang og metaanalyse for DWP av hva som virker for hvem, inkl. lønnstilskudd.
+W2923678075	1	Globalt	Tiltak for unge (tilbud og etterspørsel)		Verdensbankens kunnskapsstatus om sysselsettingstiltak for unge, inkl. lønnstilskudd.
+W2936872410	1	Globalt	Tiltak for unge	W2923678075	Arbeidsnotatversjon av Verdensbankens kunnskapsstatus.
+W1577648310	1	Storbritannia	Lønnstilskudd for unge (New Deal)		Gjennomgang av teori og evidens for målrettede lønnstilskudd for unge, med New Deal som eksempel.
+W3169861065	2	USA	Subsidiert internship for frakoblede unge 16–24		Randomisert forsøk (YAIP) med 30 måneders oppfølging og kostnader.
+W2999600366	2	USA	Subsidiert sysselsetting for frakoblede unge		Randomisert forsøk (STED) av subsidiert arbeid for unge utenfor skole og arbeid.
+W3124086298	2	Nord-Makedonia	Lønnstilskudd (6 måneder full lønn) for sårbare ledige		Randomisert forsøk av lønnstilskudd i Europa; mellominntektsland, grensetilfelle.
+W3136581552	2	Nord-Makedonia	Lønnstilskudd for sårbare ledige	W3124086298	Arbeidsnotatversjon av forsøket i Nord-Makedonia.
+W4399204261	3	Belgia	Lønnstilskudd for lavt utdannede ledige unge		Reformstudie med langtidseffekter og fortrengning av lønnstilskudd for unge.
+W4377835076	3	Belgia	Lønnstilskudd for lavt utdannede ledige unge	W4399204261	Arbeidsnotatversjon av den belgiske studien.
+W4312659966	3	Belgia	Lønnstilskudd for ledige unge	W4399204261	Tidligere arbeidsnotatversjon med vekt på fortrengning.
+W4412889165	3	Belgia (Wallonia)	Lønnstilskudd for lavt utdannede ledige unge		Diskontinuitetsstudie som finner dødvekt i stramt arbeidsmarked.
+W7126331614	3	Belgia	Lønnstilskudd for unge og dagpenger	W4412889165 (trolig)	Doktoravhandling om lønnstilskudd og unges inngang i arbeidslivet.
+W2111293265	3	Frankrike	Lønnstilskudd ved fast ansettelse av unge uten fullført skole		Forskjell-i-forskjell på kvalifiseringsregler; ingen effekt i lavkonjunktur.
+W2150829746	3	Storbritannia	New Deal for Young People (inkl. lønnstilskudd)		Pilotering og aldersgrenser gir ca. 5 prosentpoeng mer overgang til jobb, med test av fortrengning.
+W3123118817	3	Storbritannia	New Deal for Young People	W2150829746	Arbeidsnotatversjon av New Deal-evalueringen.
+W275400635	3	Storbritannia	New Deal for Young People	W2150829746	Tidligere versjon av New Deal-evalueringen.
+W3121437013	3	Storbritannia	New Deal for Young People	W2150829746	Arbeidsnotatversjon av New Deal-evalueringen.
+W1608116343	3	Storbritannia	New Deal for Young People	W2150829746	Rapportversjon av New Deal-evalueringen.
+W4237916207	3	Storbritannia	New Deal for Young People	W2150829746	Bokkapittelversjon av New Deal-evalueringen.
+W2116150494	3	Storbritannia	New Deal for Young People (inkl. lønnstilskudd)		Diskontinuitet ved aldersgrensen viser langsiktig effekt på sysselsetting for unge menn.
+W2009087066	3	Storbritannia	New Deal for Young People		Regionale effekter av New Deal på overgang fra ledighet.
+W1509108367	3	Storbritannia	New Deal for Young People		Effekten av New Deal etter lokal ledighet.
+W4379210648	3	Polen	Lønnstilskudd for unge		Effekt av lønnstilskudd for unge ledige i oppgangskonjunktur.
+W7139965069	3	Polen	Lønnstilskudd for unge	W4379210648 (samme data, kjønnsforskjeller)	Kjønnsforskjeller i effekten av lønnstilskudd for unge ledige.
+W2006484966	3	Sverige	Ungdomstiltak mot ordinære tiltak		Aldersdiskontinuitet viser at ungdomsregimet gir raskere overgang, men ungdomstiltak virker svakere enn ordinære tiltak.
+0198cc42013c-11c98f48-47eb-4b66-ac7a-ba3c43edfc15	3	Norge	Ungdomsgarantien for 20–24-åringer (forsterket tiltaksinnsats)		Evaluering av forsterket tiltaksinnsats for langtidsledige unge; raskere overgang til jobb.
+W3097344849	4	Norge	Lønnstilskudd og andre tiltak for unge med nedsatt arbeidsevne		Forløpsmodell der lønnstilskudd øker overgang til arbeid og reduserer overgang til trygd for unge.
+W4391650787	4	Norge, Sverige	Arbeidsplassbaserte tiltak for unge 25–29 med nedsatt arbeidsevne		Sammenligning NO/SE; arbeidsplassbaserte tiltak dobler sannsynligheten for ordinært arbeid etter innlåsing.
+W1980970299	4	Norge	Sysselsettingstiltak og opplæring for unge		Seleksjonskorrigert analyse av norske ungdomstiltak; sysselsettingstiltak hjelper kvinner og de yngste.
+0198cc4d8ef8-65658ffa-652a-4f22-8ad7-a532e8424f55	4	Norge	Arbeidsmarkedstiltak og vikarbyrå for unge uten fullført vgs.		Effekt av tiltak (inkl. lønnstilskudd) på jobb og utdanning for unge uten fullført videregående.
+W2523375091	4	Norge	Arbeidsmarkedstiltak for unge uten fullført vgs.	0198cc4d8ef8-65658ffa-652a-4f22-8ad7-a532e8424f55	Samme Søkelys-artikkel (OpenAlex-post).
+W1837038974	4	Norge	Arbeidsmarkedstiltak og vikarbyrå for unge uten fullført vgs.	0198cc4d8ef8-65658ffa-652a-4f22-8ad7-a532e8424f55 (trolig samme data)	Tidligere analyse av tiltak som inngang til arbeid for unge uten fullført videregående.
+0198cc739699-f2a314b8-400e-46f2-887a-d6c3832eb77b	4	Norge	Arbeidsmarkedstiltak og vikarbyrå for unge	W1837038974	Samme Søkelys-artikkel fra Vitenarkivet.
+01995c22c1ef-0cff9bef-2a70-4f0e-ab36-b6d53db8f287	4	Norge	Tiltak for personer med nedsatt arbeidsevne		Forløpsanalyse med modellert seleksjon og kost-nytte; uklart om egne resultater for unge.
+W1593675663	4	Finland	Tiltak for unge inkl. subsidiert arbeid (job placement)		Matching av flere finske ungdomstiltak; subsidiert arbeid øker sysselsetting og inntekt.
+W1577286609	4	Tyskland	Lønnstilskudd, opplæring og sysselsettingstiltak for unge		Sammenligner tiltak for unge under 25; lønnstilskudd har store positive effekter.
+W4401296350	4	Tyskland	Tiltak for unge sosialhjelpsmottakere		Langtidseffekter av tiltak på jobbkvalitet for unge voksne, etter sosial bakgrunn.
+W292088744	4	Østerrike	Lønnstilskudd		Matching med sju års oppfølging og dødvekt; effekter etter alder.
+W2254770520	4	Østerrike	Lønnstilskudd	W292088744	Tidligere versjon av den østerrikske studien.
+W28016323	4	Belgia	Midlertidig lønnstilskudd for unge langtidsledige		Forløpsmodell for varighet i jobb etter lønnstilskudd for unge.
+W2122776691	4	Belgia	Subsidiert arbeid for unge langtidsledige	W28016323 (samme data, andre utfall)	Forløpsmodell for overgang til ordinært arbeid etter subsidiert arbeid for unge.
+W2167790690	4	Frankrike	Ungdomstiltak inkl. subsidierte kontrakter		Matching med flere tiltak for unge lavt kvalifiserte.
+W1999193906	4	Storbritannia	New Deal-alternativene, inkl. lønnstilskudd		Sammenligner New Deal-alternativene; lønnstilskudd mot opplæring og frivillig arbeid for unge menn.
+W4378233149	4	Ungarn	90-dagers lønnstilskudd for unge under 25		Matching mot offentlig sysselsetting; positive kortsiktige effekter og screening.
+W2911773687	4	Tsjekkia	Traineeship med lønnstilskudd for unge under 30		Forløpsanalyse av traineeship med tilskudd i privat sektor under ungdomsgarantien.
+W2570467134	4	Tsjekkia	Praksisplass i bedrift for unge arbeidssøkere		Matching og forskjell-i-forskjell for praksis i bedrift for unge; grensetilfelle.
+W3134495723	4	Nederland	Subsidiert arbeid for unge		Matching med forskjell-i-forskjell; liten kortsiktig og negativ langsiktig effekt.
+W4286914340	4	Polen	Tiltak for unge ledige		Matching som sammenligner tiltak for unge, inkl. offentlig sysselsetting og opplæring.
+W3167299234	4	Italia	Ansettelsesinsentiv i ungdomsgarantien		Kontrafaktisk evaluering av ansettelsesinsentivet for unge med arbeidsgiver-arbeidstakerdata.
+W3133980211	4	Italia	Ansettelsesinsentiv i ungdomsgarantien	W3167299234	Annen versjon av evalueringen av det italienske ansettelsesinsentivet.
+W3048912273	4	Portugal	Praksis og ansettelsesstøtte for unge (YEI)		Kontrafaktisk evaluering; ansettelsesstøtte gir varig positiv effekt for unge.
+W4285087659	4	Litauen	Lønnstilskudd		OECD-evaluering av lønnstilskudd med netto inntekt og effekter for yngre arbeidssøkere.
+W4283659190	4	Litauen	Opplæring og lønnstilskudd	W4285087659	OECD-rapporten som kapitlet om lønnstilskudd inngår i.
+W4400707932	4	Hellas	Lønnstilskudd		OECD-evaluering av lønnstilskudd med effekter for undergrupper.
+W4391588841	4	Hellas	Opplæring og lønnstilskudd	W4400707932	OECD-rapporten som kapitlet inngår i.
+W4407697413	4	Slovenia	Lønnstilskudd og opplæring		OECD-evaluering med effekter for ulike grupper.
+W2957610029	4	EU	Tiltak og ungdomsledighet (makro)		Makropanel som viser at lønnstilskudd reduserer ungdomsledighet.
+AV-2024-3-04	5	Norge	Midlertidig lønnstilskudd		Registerstudie av stabil arbeidstilknytning etter lønnstilskudd, med alder som forklaringsvariabel.
+0198cc45bd5e-8c80f1e9-8747-46f0-ba71-4147a95ddc47	5	Norge	Midlertidig lønnstilskudd for personer med nedsatt arbeidsevne		Beskriver hvem som får lønnstilskudd og utfall (seleksjon av dem med best utsikter).
+019938797a78-07e5f4b2-85e7-46c1-aab1-30916c8257cd	5	Norge	Ordinære tiltak inkl. lønnstilskudd		SSB-evaluering med sammenligningsgruppe av lønnstilskudd mot andre tiltak, ett år etter.

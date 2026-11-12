@@ -1,0 +1,20 @@
+{
+ "apen_url": "http://www.diw.de/documents/publikationen/73/diw_01.c.345976.de/dp967.pdf",
+ "ar": 2009,
+ "forfattere": [
+  "Marco Caliendo",
+  "Konstantinos Tatsiramos",
+  "Arne Uhlendorff"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "http://www.diw.de/documents/publikationen/73/diw_01.c.345976.de/dp967.pdf",
+ "hvordan": "pdf",
+ "id": "W4298303875",
+ "kilde": "RePEc: Research Papers in Economics",
+ "lenke": "https://openalex.org/W4298303875",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "The generosity of the Unemployment Insurance system (UI) plays a central role for the job search behavior of unemployed individuals. Standard search theory predicts that an increase in UI benefit generosity, either in terms of benefit duration or entitlement, has a negative impact on the job search activities of the unemployed increasing their unemployment duration. Despite the disincentive effect of UI on unemployment duration, UI benefit generosity may also increase job match quality by allowing individuals to wait for better job offers. In this paper we use a sharp discontinuity in the maximum duration of unemployment benefits in Germany, which increases from 12 months to 18 months at the age of 45, to identify the effect of extended benefit duration on unemployment duration and post-unemployment outcomes. We find a spike in the re-employment hazard for the unemployed workers with 12 months benefit duration, which occurs around benefit exhaustion. This leads to lower unemployment duration compared to their counterparts with 18 months benefit duration. However, we also show that those unemployed who obtain jobs close to and after the time when benefits are exhausted are significantly more likely to exit subsequent employment and receive lower wages compared to their counterparts with extended benefit duration.",
+ "tittel": "Benefit Duration, Unemployment Duration and Job Match Quality: A Regression-Discontinuity Approach",
+ "type": "preprint"
+}

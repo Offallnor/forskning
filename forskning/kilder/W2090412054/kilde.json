@@ -1,0 +1,14 @@
+{
+ "ar": 2002,
+ "doi": "https://doi.org/10.1111/j.1475-5890.2002.tb00053.x",
+ "forfattere": [
+  "Bruce Meyer"
+ ],
+ "id": "W2090412054",
+ "kilde": "Fiscal Studies",
+ "lenke": "https://openalex.org/W2090412054",
+ "oversikt": false,
+ "sammendrag": "Abstract I examine the unemployment insurance (UI) and workers' compensation (WC) insurance programmes, concentrating on labour supply, insurance and income redistribution. UI and WC increase the time employees spend out of work. Elasticities of lost work time that incorporate both the incidence and duration of claims are centred at 1.0 for UI and between 0.5 and 1.0 for WC. These elasticities are larger than elasticities typically found in studies of wage effects on hours worked by men, probably because UI and WC lead to short‐run variation in wages with mostly a substitution effect and the programmes alter the participation margin. Some good evidence suggests that UI smooths the consumption of the unemployed and more clearly indicates that UI progressively redistributes resources. There is substantial evidence that injured workers suffer material hardships even with WC programmes, but research has not provided an overall picture of the insurance and redistributive aspects of WC.",
+ "tittel": "Unemployment and workers' compensation programmes: rationale, design, labour supply and income support",
+ "type": "article"
+}

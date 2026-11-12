@@ -1,0 +1,16 @@
+{
+ "ar": 2007,
+ "doi": "https://doi.org/10.1162/qjec.2007.122.4.1511",
+ "forfattere": [
+  "David Card",
+  "Raj Chetty",
+  "Andrea Michaela Weber"
+ ],
+ "id": "W2124855757",
+ "kilde": "The Quarterly Journal of Economics",
+ "lenke": "https://openalex.org/W2124855757",
+ "oversikt": false,
+ "sammendrag": "This paper presents new tests of the permanent income hypothesis and other widely used models of household behavior using data from the labor market. We estimate the excess sensitivity of job search behavior to cash-on-hand using sharp discontinuities in eligibility for severance pay and extended unemployment insurance (UI) benefits in Austria. Analyzing data for over one-half million job losers, we obtain three empirical results: (1) a lump-sum severance payment equal to two months of earnings reduces the job-finding rate by 8%–12% on average; (2) an extension of the potential duration of UI benefits from 20 weeks to 30 weeks similarly lowers job-finding rates in the first 20 weeks of search by 5%–9%; and (3) increases in the duration of search induced by the two programs have little or no effect on subsequent job match quality. Using a search-theoretic model, we show that estimates of the relative effect of severance pay and extended benefits can be used to calibrate and test a wide set of intertemporal models. Our estimates of this ratio are inconsistent with the predictions of a simple permanent income model, as well as naive rule of thumb behavior. The representative job searcher in our data is 70% of the way between the permanent income benchmark and credit-constrained behavior in terms of sensitivity to cash-on-hand.",
+ "tittel": "Cash-on-Hand and Competing Models of Intertemporal Behavior: New Evidence from the Labor Market",
+ "type": "article"
+}

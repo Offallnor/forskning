@@ -1,0 +1,26 @@
+{
+ "apen_url": "https://www.sjweh.fi/download.php?abstract_id=3383&file_nro=1",
+ "ar": 2013,
+ "doi": "https://doi.org/10.5271/sjweh.3383",
+ "forfattere": [
+  "Otto Melchior Poulsen",
+  "Birgit Aust",
+  "Jakob B. Bjorner",
+  "Reiner Rugulies",
+  "Jørgen Vinsløv Hansen",
+  "Torill Tverborgvik",
+  "Glen Winzor",
+  "Ole Steen Mortensen"
+ ],
+ "hentet": "2026-11-09",
+ "hentet_fra": "https://www.sjweh.fi/pdf-237216-145049?filename=Effect-of-the-Danish-retu.pdf",
+ "hvordan": "pdf",
+ "id": "W2027242222",
+ "kilde": "Scandinavian Journal of Work Environment & Health",
+ "lenke": "https://openalex.org/W2027242222",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "OBJECTIVES: The aim of this study was to evaluate the effect of the Danish return-to-work (RTW) program on long-term sickness absence in a randomized controlled trial in three municipalities. METHODS: The intervention group comprised 1948 participants while the control group comprised 1157 participant receiving ordinary sickness benefit management (OSM). Study participants were working-age adults receiving long-term (≥8 weeks or more) benefits, included regardless of reason for sickness absence or employment status. Each beneficiary was followed-up for a maximum period of 52 weeks. Cox proportional hazards model was used to estimate hazard ratios (HR) for return to work (RTW) with 95% confidence intervals (95% CI). RESULTS: The intervention effect differed significantly between the municipalities (P=0.00005). In one municipality (M2) the intervention resulted in a statistically significant increased rate of recovery from long-term sickness absence (HR 1.51, 95% CI 1.31-1.74). In the other two municipalities, the intervention did not show a statistically significant effect (HR M11.12, 95% CI 0.97-1.29, and HR M30.80, 95% CI 0.63-1.03, respectively). Adjustment for a series of possible confounders only marginally altered the estimated HR. CONCLUSION: The effect of the intervention differed substantially between the three municipalities, indicating that that contextual factors are of major importance for success or failure of this complex intervention.",
+ "tittel": "Effect of the Danish return-to-work program on long-term sickness absence: results from a randomized controlled trial in three municipalities",
+ "type": "article"
+}

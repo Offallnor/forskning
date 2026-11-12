@@ -1,0 +1,16 @@
+{
+ "ar": 2018,
+ "doi": "https://doi.org/10.3368/jhr.55.4.0518-9501r1",
+ "forfattere": [
+  "Aedín Doris",
+  "Dónal O’Neill",
+  "Olive Sweetman"
+ ],
+ "id": "W2609912204",
+ "kilde": "The Journal of Human Resources",
+ "lenke": "https://openalex.org/W2609912204",
+ "oversikt": false,
+ "sammendrag": "We use administrative data to examine the effect of a 50 percent benefit cut for young unemployed claimants in Ireland during the Great Recession. Because the cut applied only to new spells, claimants whose unemployment start dates differed by one day received very different benefits; we exploit this feature in a regression discontinuity analysis. We find that the benefit cut significantly reduced unemployment duration, with exits to training and work accounting for the majority of this effect.",
+ "tittel": "Does Reducing Unemployment Benefits during a Recession Reduce Youth Unemployment?",
+ "type": "article"
+}

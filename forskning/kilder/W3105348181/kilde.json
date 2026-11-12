@@ -1,0 +1,14 @@
+{
+ "ar": 2020,
+ "forfattere": [
+  "Patrick P. Arni",
+  "Xingfei Liu"
+ ],
+ "id": "W3105348181",
+ "kilde": "RePEc: Research Papers in Economics",
+ "lenke": "https://openalex.org/W3105348181",
+ "oversikt": false,
+ "sammendrag": "Standard program evaluations implicitly assume that individuals are perfectly informed about the considered policy change and the related institutional rules. This seems not very plausible in many contexts, as diverse examples show. However, evidence on how incomplete information affects the size of measured treatment effects is broadly missing. We exploit a unique set of natural experiments to assess the importance of incomplete information in shaping policy effects. We compare different large-scale quasi-experiments on changing potential benefit duration (PBD) in unemployment insurance (UI). Thereby, we confront the benchmark case, in which individuals are fully informed about their different PBD levels, with cases in which job seekers experience a change of their benefit eligibility without being initially informed. However, in any of the considered cases they face exactly the same size of treatment: an increase or decrease of the PBD by 200 days. We identify the treatment effects around the threshold of age 25 where PBD rules change in the considered Swiss UI system. We find substantial differences in the treatment effects across cases with different information conditions on benefit levels. The differences can be rationalized by a model in which individuals invest different amounts of effort to acquire the necessary information. Quantifications of the impact of incomplete information on the PBD effects demonstrate the policy relevance of this usually ignored issue.",
+ "tittel": "The Role of Incomplete Information in Shaping Policy Effects: Evidence from Unemployment Insurance",
+ "type": "preprint"
+}

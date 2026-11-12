@@ -1,0 +1,17 @@
+{
+ "apen_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1150601",
+ "ar": 2007,
+ "doi": "https://doi.org/10.1093/oep/gpm021",
+ "forfattere": [
+  "Knut Røed",
+  "Peter Jensen",
+  "Anna Thoursie"
+ ],
+ "id": "W2047693430",
+ "kilde": "Oxford Economic Papers",
+ "lenke": "https://openalex.org/W2047693430",
+ "oversikt": false,
+ "sammendrag": "Based on pooled register data from Norway and Sweden, we find that differences in unemployment duration patterns reflect dissimilarities in unemployment insurance (UI) systems in a way that convincingly establishes the link between economic incentives and job search behaviour. Specifically, UI benefits are relatively more generous for low-income workers in Sweden than in Norway, leading to relatively longer unemployment spells for low-income workers in Sweden. Based on the between-countries variation in replacement ratios, we find that the elasticity of the outflow rate from insured unemployment with respect to the replacement ratio is approximately one in Norway and 0.5 in Sweden. Copyright 2008 , Oxford University Press.",
+ "tittel": "Unemployment duration and unemployment insurance: a comparative analysis based on Scandinavian micro data",
+ "type": "article"
+}

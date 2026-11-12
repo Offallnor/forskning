@@ -1,0 +1,20 @@
+{
+ "apen_url": "http://www.nber.org/papers/w22564.pdf",
+ "ar": 2016,
+ "doi": "https://doi.org/10.1146/annurev-economics-080614-115758",
+ "forfattere": [
+  "Johannes F. Schmieder",
+  "Till von Wachter"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "http://www.nber.org/papers/w22564.pdf",
+ "hvordan": "pdf",
+ "id": "W2892364420",
+ "kilde": "Annual Review of Economics",
+ "lenke": "https://openalex.org/W2892364420",
+ "merknad": "ÅPEN VERSJON (preprint eller arbeidsnotat), merkes i svaret",
+ "oversikt": true,
+ "sammendrag": "The Great Recession has renewed interest in unemployment insurance (UI) programs around the world. At the same time, there have been important advances in both theory and measurement of UI. In this review, we first use the theory to present a unified treatment of the welfare effects of UI benefit levels and durations and derive convenient expressions of the full disincentive effect of UI. We then discuss recent estimates of the effect of UI benefit levels and durations on labor supply based on newly available administrative data and quasi-experimental research designs. Although our review of the new estimates confirms the range of negative labor supply effects of the previous literature, we show, based on the model, that these estimates are imperfect proxies for the actual disincentive effects. We also discuss several active areas of research on UI. These include the effect of UI on aggregate labor market outcomes, its effect on job outcomes, its long-term effects, its effects under nonstandard behavioral assumptions, and its interactions with other programs. We isolate several additional areas in need of further research, including estimates of the social value of UI, as well as the effects of UI in less developed countries.",
+ "tittel": "The Effects of Unemployment Insurance Benefits: New Evidence and Interpretation",
+ "type": "review"
+}

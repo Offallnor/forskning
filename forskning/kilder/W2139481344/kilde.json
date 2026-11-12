@@ -1,0 +1,14 @@
+{
+ "ar": 2008,
+ "doi": "https://doi.org/10.1080/02692170802407692",
+ "forfattere": [
+  "Anton Nivorozhkin"
+ ],
+ "id": "W2139481344",
+ "kilde": "International Review of Applied Economics",
+ "lenke": "https://openalex.org/W2139481344",
+ "oversikt": false,
+ "sammendrag": "The question addressed in this paper is whether the possibility of exit from unemployment to the previous employer affects the duration of unemployment spells in Sweden. The empirical analysis is performed using an employee–employer dataset that includes a number of enterprise characteristics and provides information on individual tenure. The econometric approach employs estimation of a competing risk duration model to distinguish between exits to the previous employer and exits to a new job. The findings suggest that greater tenure raises the risk of transition to the previous employer, while high education levels increase the risk of obtaining a new job. Moreover, the impact of benefit exhaustion is observed only for transitions to new employment.",
+ "tittel": "Layoffs, recalls and unemployment duration: evidence from Sweden",
+ "type": "article"
+}

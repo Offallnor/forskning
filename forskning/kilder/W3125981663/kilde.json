@@ -1,0 +1,18 @@
+{
+ "ar": 2016,
+ "forfattere": [
+  "Attila Lindner",
+  "Balázs Reizer"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "http://real.mtak.hu/46831/1/MTDP1627.pdf",
+ "hvordan": "pdf",
+ "id": "W3125981663",
+ "kilde": "Repository of the Academy's Library (Library of the Hungarian Academy of Sciences)",
+ "lenke": "https://openalex.org/W3125981663",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "In November 2005, the Hungarian government frontloaded the unemployment benefit path, while kept constant the total benefit amount that could be collected over the unemployment spell. We estimate the effect of this reform on non-employment duration using an interrupted time series design. We find that non-employment duration fell by 1.5 weeks after November 2005, while reemployment wages and the duration of new jobs remained the same. We show that the decrease in non-employment duration was large enough to make the benefit reform revenue neutral. Our welfare evaluation for this reform is positive: frontloading increased job finding, it made some of the unemployed better off, and did not cost anything to the taxpayers.",
+ "tittel": "Frontloading the Unemployment Benefit: An Empirical Assessment",
+ "type": "book"
+}

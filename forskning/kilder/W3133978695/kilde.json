@@ -1,0 +1,20 @@
+{
+ "apen_url": "https://papers.ssrn.com/sol3/Delivery.cfm/dp11496.pdf?abstractid=3177370&mirid=1",
+ "ar": 2018,
+ "forfattere": [
+  "Steven G. Dieterle",
+  "Otávio Bartalotti",
+  "Quentin Brummet"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "https://www.census.gov/content/dam/Census/library/working-papers/2016/adrm/carra-wp-2016-01.pdf",
+ "hvordan": "pdf",
+ "id": "W3133978695",
+ "kilde": "RePEc: Research Papers in Economics",
+ "lenke": "https://openalex.org/W3133978695",
+ "merknad": "ÅPEN VERSJON (preprint eller arbeidsnotat), merkes i svaret",
+ "oversikt": false,
+ "sammendrag": "The extension of Unemployment Insurance (UI) benefits was a key policy response to the Great Recession. However, these benefit extensions may have had detrimental labor market effects. While evidence on the individual labor supply response indicates small effects on unemployment, recent work by Hagedorn et al. (2015) uses a county border pair identification strategy to find that the total effects inclusive of effects on labor demand are substantially larger. By focusing on variation within border county pairs, this identification strategy requires counties in the pairs to be similar in terms of unobservable factors. We explore this assumption using an alternative regression discontinuity approach that controls for changes in unobservables by distance to the border. To do so, we must account for measurement error induced by using county-level aggregates. These new results provide no evidence of a large change in unemployment induced by differences in UI generosity across state boundaries. Further analysis suggests that individuals respond to UI benefit differences across boundaries by targeting job search in high-benefit states, thereby raising concerns of treatment spillovers in this setting. Taken together, these two results suggest that the effect of UI benefit extensions on unemployment remains an open question.",
+ "tittel": "Revisiting the Effects of Unemployment Insurance Extensions on Unemployment: A Measurement Error-Corrected Regression Discontinuity Approach",
+ "type": "preprint"
+}

@@ -1,0 +1,23 @@
+{
+ "apen_url": "https://doi.org/10.1016/j.ssmph.2023.101525",
+ "ar": 2023,
+ "doi": "https://doi.org/10.1016/j.ssmph.2023.101525",
+ "forfattere": [
+  "Laura Salonen",
+  "Elli Hartikainen",
+  "Svetlana A. Solovieva",
+  "Eira R. A. Viikari-Juntura",
+  "Taina Leinonen"
+ ],
+ "hentet": "før 2026-11-08",
+ "hentet_fra": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10550613/fullTextXML",
+ "hvordan": "Europe PMC",
+ "id": "W4387095603",
+ "kilde": "SSM - Population Health",
+ "lenke": "https://openalex.org/W4387095603",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "In this study, we assessed whether the long-term decrease in sickness absences in Finland is explained by observed and unobserved compositional changes in the workforce. Utilizing register-based panel data on Finnish wage earners aged 30-62, we examined the annual onset of compensated sickness absence (granted after 10 weekdays) in the period 2005-2016. We applied random effects models adjusting for changes in the observed sociodemographic and occupational characteristics of the study population. We also applied fixed effects models, with corrections of the estimates for cohort ageing, to additionally account for the unobserved time-invariant characteristics of the study population over the years. Of the observed characteristics, increasing educational level partly explained the decreasing trend in sickness absences, and the further contribution of the occupational class was weak. Additionally, accounting for unobserved individual characteristics further explained the decreasing trend in sickness absences among those aged 30-47 years and led to a reverse increasing trend among those aged 48-62 years irrespective of sex and employment sector. Particularly for those over 47 years old, the decrease in sickness absences appeared to be more strongly influenced by compositional changes in characteristics that are established before fully entering the labour market - such as educational level as well as unmeasured individual characteristics that remain unchanged after childhood and early adulthood - than in the work environment or other factors contributing at working age. Sickness absence trends fluctuated during economic cycles, which did not appear to be explained by immediate changes in the observed or unobserved characteristics. Different mechanisms are likely to explain long-term sickness absence trends and trends around economic cycles. Attempts to improve work ability and labour market inclusion in long-term should rely more on increasing educational levels among the workforce and on interventions carried out early during the life course.",
+ "tittel": "Contribution of compositional changes in the workforce to sickness absence trends in Finland",
+ "type": "article"
+}

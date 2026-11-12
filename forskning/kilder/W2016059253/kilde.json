@@ -1,0 +1,18 @@
+{
+ "ar": 2006,
+ "doi": "https://doi.org/10.1111/j.1468-0335.2006.00525.x",
+ "forfattere": [
+  "Aki Kangasharju"
+ ],
+ "hentet": "2026-11-11",
+ "hentet_fra": "https://www.doria.fi/bitstream/10024/148356/1/k378.pdf",
+ "hvordan": "pdf",
+ "id": "W2016059253",
+ "kilde": "Economica",
+ "lenke": "https://openalex.org/W2016059253",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "This paper examines whether subsidized jobs have contributed to employment in subsidized firms or have merely substituted for non‐subsidized ones. The data‐set is an unbalanced panel of some 31,000 firms that are followed annually between 1995 and 2002. The analysis is based on difference‐in‐differences, which is adjusted by regression and matching methods. The results indicate that wage subsidies stimulate employment, and that the magnitude of the effect is as aimed. I also found that subsidies have no sizeable effects on non‐subsidized firms of the industry or the geographical area in question.",
+ "tittel": "Do Wage Subsidies Increase Employment in Subsidized Firms?",
+ "type": "article"
+}

@@ -1,0 +1,16 @@
+{
+ "apen_url": "https://doi.org/10.1016/j.jhealeco.2024.102958",
+ "ar": 2024,
+ "doi": "https://doi.org/10.1016/j.jhealeco.2024.102958",
+ "forfattere": [
+  "Sébastien Fontenay",
+  "Ilan Tojerow"
+ ],
+ "id": "W4405813061",
+ "kilde": "Journal of Health Economics",
+ "lenke": "https://openalex.org/W4405813061",
+ "oversikt": false,
+ "sammendrag": "We conduct a randomized experiment (n = 600) to evaluate a Supported Employment (SE) program that, through intensive job coaching and follow-along support, aims to increase work activity of Belgian Disability Insurance (DI) recipients with mental health conditions. The control group gets regular vocational rehabilitation. After a 30-month follow-up period, we find that SE increases the probability of working while claiming DI by 7.5 percentage points and reduces the amount of DI benefit received by 110 euros per month (−9.5 percent). • Mental health conditions increase Disability Insurance claims in OECD countries. • A randomized experiment evaluates a Supported Employment (SE) program in Belgium. • SE program focuses on rapid job placement over vocational training. • SE participants had higher employment rates after 30 months. • SE program reduced reliance on Disability Insurance benefits.",
+ "tittel": "Is supported employment effective for Disability Insurance recipients with mental health conditions? Evidence from a randomized experiment in Belgium",
+ "type": "article"
+}

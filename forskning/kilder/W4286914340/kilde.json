@@ -1,0 +1,22 @@
+{
+ "apen_url": "https://gnpje.sgh.waw.pl/pdf-184314-111843?filename=What-Works-for-Whom--Yout.pdf",
+ "ar": 2024,
+ "doi": "https://doi.org/10.33119/gn/184314",
+ "forfattere": [
+  "Iga Magda",
+  "Iga Magda",
+  "Marta Palczyńska",
+  "Mateusz Smoter"
+ ],
+ "hentet": "2026-11-08",
+ "hentet_fra": "https://gnpje.sgh.waw.pl/pdf-184314-111843?filename=What-Works-for-Whom--Yout.pdf",
+ "hvordan": "pdf",
+ "id": "W4286914340",
+ "kilde": "Gospodarka Narodowa",
+ "lenke": "https://openalex.org/W4286914340",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "This paper compares the relative effectiveness of selected active labour market policies available to young unemployed people in Poland over the 2015-2016 period. We use rich administrative data and propensity score matching techniques to control for the non-random selection of unemployed individuals into alternative interventions. We find large negative employment effects of participating in public works programmes, particularly among disadvantaged individuals. The differences in effectiveness between other interventions are rather small, and most become insignificant over time. We also show that vouchers that allow unemployed individuals find on-the-job training providers themselves are more effective than on-the-job training schemes in which the unemployed individuals are directed to the training providers by the public employment services (PES).",
+ "tittel": "What Works for Whom? Youth Labour Market Policy in Poland",
+ "type": "article"
+}

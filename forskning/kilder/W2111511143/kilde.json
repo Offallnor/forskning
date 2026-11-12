@@ -1,0 +1,16 @@
+{
+ "apen_url": "https://durham-repository.worktribe.com/output/1469242",
+ "ar": 2008,
+ "doi": "https://doi.org/10.1111/j.1467-9485.2008.00459.x",
+ "forfattere": [
+  "Pedro Portugal",
+  "John T. Addison"
+ ],
+ "id": "W2111511143",
+ "kilde": "Scottish Journal of Political Economy",
+ "lenke": "https://openalex.org/W2111511143",
+ "oversikt": false,
+ "sammendrag": "ABSTRACT This paper uses a unique Portuguese dataset to examine the effect of access to unemployment benefits (UBs) and their maximum potential duration on escape rates from unemployment. In examining the time profile of transitions out of unemployment, the principal contributions of the paper are twofold. First, it provides a detailed state space of potential outcomes: open‐ended employment, fixed‐term contracts, part‐time work, government‐provided jobs, self employment, and labour force withdrawal. Second, it is able to exploit major exogenous discontinuities in the maximum duration of unemployment benefits to identify disincentive effects. While confirming strong disincentive effects, it is shown that use of an aggregate hazard function regression model compounds very different and even contradictory effects of the determinants of unemployment.",
+ "tittel": "SIX WAYS TO LEAVE UNEMPLOYMENT",
+ "type": "article"
+}

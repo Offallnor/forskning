@@ -1,0 +1,15 @@
+{
+ "ar": 2014,
+ "doi": "https://doi.org/10.1177/1403494814538559",
+ "forfattere": [
+  "Evelyn Aaviksoo",
+  "R-A. Kiivet"
+ ],
+ "id": "W2117611217",
+ "kilde": "Scandinavian Journal of Public Health",
+ "lenke": "https://openalex.org/W2117611217",
+ "oversikt": false,
+ "sammendrag": "AIMS: To analyse the impact of sick-pay cuts on the use of sickness absence by employees of different socioeconomic groups. In 2009 cuts in sick pay were implemented in reaction to an economic crisis in Estonia. METHODS: Nationwide health survey data from the years 2004, 2006, 2008, and 2010 were used to evaluate sickness absence among blue-collar and white-collar workers. The dataset comprised 7,449 employees of 20-64 years of age. Difference in prevalence of absentees before and after the reform was assessed using the chi-squared test. Odds ratios (OR) for sickness absence were calculated in a multivariate logistic regression model. RESULTS: After the reform, the proportion of blue-collar workers who had been on sick leave decreased from 51% to 40% (p<0.001) and among white-collar employees from 45% to 41% (p=0.026). This reduction had a similar pattern in all the subgroups of blue-collar employees as stratified according to gender, age, self-rated health, and presence of chronic disease, especially among those with low incomes; in white-collar employees it reached statistical significance only in those with good self-rated health (p=0.033). In a multivariate model the odds of having lower sickness absence were highly significant only in blue-collar employees (OR 0.63; 95% confidence interval 0.51-0.77, p<0.001). CONCLUSIONS: The cuts in sickness benefits had a major impact on the use of sickness absence by blue-collar employees with low salaries. This indicates that lower income was a major factor hindering the use of sick leave as these employees are most vulnerable to the loss of income.",
+ "tittel": "Sickness benefit cuts mainly affect blue-collar workers",
+ "type": "article"
+}

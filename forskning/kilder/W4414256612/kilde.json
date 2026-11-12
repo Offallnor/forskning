@@ -1,0 +1,22 @@
+{
+ "apen_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/hec.70038",
+ "ar": 2025,
+ "doi": "https://doi.org/10.1002/hec.70038",
+ "forfattere": [
+  "Laura Jansen",
+  "Viola Angelini",
+  "Max Groneck",
+  "Raun van Ooijen"
+ ],
+ "hentet": "før 2026-11-08",
+ "hentet_fra": "https://docs.iza.org/dp17606.pdf",
+ "hvordan": "pdf",
+ "id": "W4414256612",
+ "kilde": "Health Economics",
+ "lenke": "https://openalex.org/W4414256612",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "This paper studies the impact of stronger employer responsibilities for facilitating work resumption of sick or disabled workers on employers' workplace accommodation efforts during sick leave. We exploit a reform in the Netherlands that altered experience rating-that is, shifting the costs of sick leave and disability insurance to the firm-both for permanent and non-permanent employees. Using unique Dutch survey data on workplace accommodation of long-term sick-listed workers, we show that experience rating has no significant impact on accommodation efforts. Moreover, we provide evidence that the reform led to more firms opting for self-arranging both the sick leave benefits and the reintegration process of sick non-permanent workers, instead of using the public insurance scheme.",
+ "tittel": "Do Stronger Employer Responsibilities Enhance Work Accommodation for Sick‐Listed Workers? Evidence From a Dutch Reform",
+ "type": "article"
+}

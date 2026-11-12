@@ -1,0 +1,25 @@
+{
+ "apen_url": "https://link.springer.com/content/pdf/10.1007/s00420-024-02068-w.pdf",
+ "ar": 2024,
+ "doi": "https://doi.org/10.1007/s00420-024-02068-w",
+ "forfattere": [
+  "Elisabeth Björk Brämberg",
+  "Elizabeth Åhsberg",
+  "Gunilla Fahlström",
+  "Elisabeth Furberg",
+  "Carl Gornitzki",
+  "Anna Ringborg",
+  "Peter Skogman Thoursie"
+ ],
+ "hentet": "2026-11-09",
+ "hentet_fra": "https://link.springer.com/content/pdf/10.1007/s00420-024-02068-w.pdf",
+ "hvordan": "pdf",
+ "id": "W4396667274",
+ "kilde": "International Archives of Occupational and Environmental Health",
+ "lenke": "https://openalex.org/W4396667274",
+ "merknad": "",
+ "oversikt": true,
+ "sammendrag": "PURPOSE: To evaluate the body of evidence of the effects of work-directed interventions on return-to-work for people on sick leave due to common mental disorders (i.e., mild to moderate depression, anxiety, adjustment disorders and reactions to severe stress). METHODS: The systematic review was conducted in accordance with an a priori developed and registered protocol (Prospero CRD42021235586). The certainty of evidence was assessed by two independent reviewers using the Grading of Recommendations, Assessment, Development and Evaluations. RESULTS: We reviewed 14,794 records published between 2015 and 2021. Of these, eight RCTs published in eleven articles were included in the analysis. POPULATION: Working age adults (18 to 64 years), on sick leave due to mild to moderate depression, anxiety, adjustment disorders or reactions to severe stress. INTERVENTION: Work-directed interventions. COMPARATOR: No comparator, Standard care, or other measures. OUTCOME: return to work, number of days on sick leave, income. Overall, the effects of work-focused CBT and work-focused team-based support on RTW resulted in increased or faster return-to-work compared with standard care or no intervention (low certainty of evidence). The effects of Individual Placement and Support showed no difference in RTW compared with standard care (very low certainty of evidence). CONCLUSION: Interventions involving the workplace could increase the probability of RTW. Areas in need of improvement in the included studies, for example methodological issues, are discussed. Further, suggestions are made for improving methodological rigor when conducting large scale trials.",
+ "tittel": "Effects of work-directed interventions on return-to-work in people on sick-leave for to common mental disorders—a systematic review",
+ "type": "review"
+}

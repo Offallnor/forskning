@@ -1,0 +1,40 @@
+id	kategori	land	tiltak	samme_materiale	begrunnelse
+W2325466037	1	FI/Norden	gradert sykmelding		Kunnskapsoppsummering av delvis sykmelding i Norden (Kausto 2008)
+W2911999154	1	Norden	gradert sykmelding		Systematisk kartlegging FHI/Meneses 2018: gradert vs full sykmelding, sykefravær og arbeidstilknytning
+W3010213937	1	Norden	gradert sykmelding		Nordisk kunnskapsoppsummering 2010 om arbeidsrettede tiltak, omfatter delvis sykmelding
+W3198402854	1	NO	gradert sykmelding		Kunnskapsoppsummering 2021 om tiltak mot langvarig fravær; graderte sykmeldinger er eget tiltak, utfall RTW
+W3098021798	1	NO	gradert sykmelding		FHI-rapport 2013: best dokumentasjon for gradert sykmelding blant IA-tiltak
+W4404867325	1	Skandinavia	gradert sykmelding		Scoping review 2024 av aktivering (inkl. gradert) av sykmeldte i Skandinavia
+W2799283105	1	GB	gradert sykmelding		Systematisk oversikt over fit note (delvis arbeid) og effekt på RTW og fraværslengde
+W2412604146	1	GB/ES	gradert sykmelding		Oversikt over tidlige tiltak; funn om tidlig delvis sykmelding med tilrettelegging
+W2060195272	1	SE	annet		Systematisk søk etter RCT om grad/varighet av sykmelding; viser mangel på forsøk, identifiserer to
+W2746656768	1	DK	gradert sykmelding		Dansk litteraturoversikt om tilbake-til-arbeid-tiltak inkl. delvise sykmeldinger
+W2590965493	1	internasjonal	annet		Systematisk oversikt 2017 om arbeidsplasstiltak inkl. arbeidstilpasning; svakere knyttet til gradering
+W100385102	1	US	annet		Oversikt over tilpasset arbeid (modified work) og retur til arbeid; gammel, svak relevans
+W1968918267	1	CA	annet		Systematisk oversikt over arbeidsplassbaserte RTW-tiltak inkl. tilpasset arbeid; gammel, svak relevans
+W2048984013	2	FI	gradert sykmelding		RCT av tidlig delvis sykmelding ved muskel-skjelettlidelser, RTW og fravær
+W2013503454	2	FI	gradert sykmelding	W2048984013	Samme RCT, helseutfall (smerte, funksjon)
+W2073048698	2	NO	aktiv sykmelding		Klyngerandomisert forsøk om å fremme aktiv sykmelding ved ryggsmerter, RTW og livskvalitet
+W2796572035	2	DK	aktiv sykmelding		Randomisert forsøk om aktivering av sykmeldte; design sterkt, men tiltaket bør bekreftes i fulltekst
+W2116716741	3	NO	gradert sykmelding		Instrumentvariabel (legers tilbøyelighet) for gradert sykmelding; effekt på RTW og trygd
+W2771771185	3	NO	gradert sykmelding		Reform av aktiveringskrav i sykepengeordningen (gradert etter åtte uker)
+W1501193741	3	NO	gradert sykmelding		Naturlig eksperiment: reform med gradert som standard og dokumentasjonskrav til leger
+W2132658439	3	FI	gradert sykmelding		Kvasieksperiment (før-etter med sammenligningsgruppe) etter innføring av delvis sykepenger
+W2805335844	3	NL/DE	gradert tilbakeføring		Kools & Koning: gradert retur som springbrett (kausal identifikasjon, bør kontrolleres i fulltekst)
+W3170959179	3	FI	annet		Alternativt arbeid ved kortvarig sykdom, intervensjons- og sammenligningskommuner (tilrettelagt arbeid)
+W2473929489	3	NO	gradert sykmelding	W2771771185	Effekt av påtvunget aktiveringspolitikk på bedriftsresultat (kostnadsutfall)
+W2744665053	4	FI	gradert sykmelding		Registerstudie med propensity-matching; tidlig delvis sykmelding, varig RTW og 2 års deltakelse
+W2896121459	4	FI	gradert sykmelding	W2744665053	Samme materiale; trygdekostnader
+W4293168340	4	FI	gradert sykmelding	W2744665053	Matchet kvasieksperiment; arbeidslivslengde (annet utfall)
+W2159632075	4	FI	gradert sykmelding		Propensity score; overgang til uførepensjon
+W2147352545	4	DK	gradert tilbakeføring		Høgelund m.fl.: timing-of-events/duration-modell for gradert retur, håndterer seleksjon
+W2079898261	4	SE	gradert sykmelding		Andrén & Svensson: delvis sykmelding som behandling ved muskel-skjelett, seleksjon modellert
+W2024122272	4	SE	gradert sykmelding	W2079898261	Samme metode og materiale; psykiske lidelser
+W2895192936	4	SE	gradert sykmelding	W2079898261	Langtidseffekter av delvis sykmelding; samme materiale
+W88826225	4	DK	gradert sykmelding		Effekt av delvis sykmelding ved psykiske lidelser, varighet til full retur
+W2341011605	4	DE	gradert tilbakeføring		Propensity-matchet analyse av gradert retur etter rehabilitering; uførepensjon og sysselsetting
+W900768955	4	DE	gradert tilbakeføring		Schneider m.fl.: langtidssykmelding og gradert retur, observasjonsdata med seleksjonshåndtering (uavklart, kontroller)
+W2982381358	5	NL	gradert sykmelding		Kohort, justering for observerbare; varighet av fravær ved muskel-skjelett
+W4410013226	5	NO/GB	gradert sykmelding		Kohort; helseutfall ved gradert vs full vs ingen sykmelding
+W4408975540	5	NO/GB	gradert sykmelding	W4410013226	Samme kohort; om sammenhengen gradert-RTW er konfundert av helse
+W2605726377	5	DE/NL	gradert tilbakeføring		Gradert retur etter multimodal rehabilitering ved psykiske lidelser; justert observasjonsstudie

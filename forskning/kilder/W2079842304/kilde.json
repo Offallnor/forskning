@@ -1,0 +1,15 @@
+{
+ "ar": 1996,
+ "doi": "https://doi.org/10.1111/j.1467-9914.1996.tb00085.x",
+ "forfattere": [
+  "Erik Hernæs",
+  "Steinar Strøm"
+ ],
+ "id": "W2079842304",
+ "kilde": "Labour",
+ "lenke": "https://openalex.org/W2079842304",
+ "oversikt": false,
+ "sammendrag": "ABSTRACT: Various unemployment duration models are estimated on a large Norwegian dataset covering labour market history 1.1.1989‐31.12.1992 for all persons who became unemployed during October 1990. As many unemployed leave the unemployment register without going directly to a job, two alternative definitions of unemployment are used — register unemployment and joblessness. The problem of heterogeneity is addressed both by partitioning the individuals into four categories by previous unemployment history, and by including a random term in the job hazard. Observed as well as unobserved heterogeneity affects the estimates of expected duration to a great extent. When gamma‐distributed unobserved heterogeneity is accounted for, the estimates of duration dependence become more positive relative to models where unobserved heterogeneity is ignored. Among persons who are entitled to unemployment benefit, the duration dependence appears to be significantly positive. Alternative specifications of the baseline hazard hardly affect estimates of the effects of the covariates on duration.",
+ "tittel": "Heterogeneity and Unemployment Duration",
+ "type": "article"
+}

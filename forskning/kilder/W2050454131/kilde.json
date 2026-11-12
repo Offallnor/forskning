@@ -1,0 +1,26 @@
+{
+ "apen_url": "https://link.springer.com/content/pdf/10.1007/s10926-011-9340-2.pdf",
+ "ar": 2011,
+ "doi": "https://doi.org/10.1007/s10926-011-9340-2",
+ "forfattere": [
+  "Andrea D Furlan",
+  "William Gnam",
+  "Nancy Carnide",
+  "Emma Irvin",
+  "Benjamin C. Amick",
+  "Kelly DeRango",
+  "Robert McMaster",
+  "Kimberley L. Cullen"
+ ],
+ "hentet": "2026-11-09",
+ "hentet_fra": "https://link.springer.com/content/pdf/10.1007/s10926-011-9340-2.pdf",
+ "hvordan": "pdf",
+ "id": "W2050454131",
+ "kilde": "Journal of Occupational Rehabilitation",
+ "lenke": "https://openalex.org/W2050454131",
+ "merknad": "",
+ "oversikt": true,
+ "sammendrag": "DESIGN: Systematic Review. OBJECTIVE: To determine which intervention approaches to manage depression in the workplace have been successful and yielded value for employers in developed economies. DATA SOURCES: We searched MEDLINE, EMBASE, CINAHL, Central, PsycINFO, and Business Source Premier up to June 2010 using search terms in four broad areas: work setting, depression, intervention, and work outcomes. STUDY SELECTION: Two independent reviewers selected potential articles that met the following criteria: working age individuals with mild or moderate depression; interventions or programs that were workplace-based or could be implemented and/or facilitated by the employer; inclusion of a comparator group in the analysis; outcomes of prevention, management, and recurrences of work disability or sickness absence, and work functioning. METHODS: Two reviewers independently reviewed each article for quality and extracted data using standardised forms. Following guidelines from the GRADE Working Group, the quality of evidence addressing each outcome was graded as high, moderate, low, or very low on the basis of six criteria: study design, risk of bias, consistency, generalisability, data precision, and economic benefit. Using this information and following Cochrane Collaboration guidelines, the findings for each intervention were summarised and key messages were developed. RESULTS: We identified ten randomised trials and two non-randomised studies from various countries and jurisdictions that evaluated a wide range of intervention practices. The evidence was graded as \"very low\" for all outcomes identified. Therefore, no intervention could be recommended. CONCLUSIONS: To date, there is insufficient quality of evidence to determine which interventions are effective and yield value to manage depression in the workplace.",
+ "tittel": "Systematic Review of Intervention Practices for Depression in the Workplace",
+ "type": "review"
+}

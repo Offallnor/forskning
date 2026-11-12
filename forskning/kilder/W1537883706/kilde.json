@@ -1,0 +1,18 @@
+{
+ "ar": 2011,
+ "forfattere": [
+  "Stefan Arent",
+  "Wolfgang Nagl"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "https://www.ifo.de/DocDL/IfoWorkingPaper-101.pdf",
+ "hvordan": "pdf",
+ "id": "W1537883706",
+ "kilde": "RePEc: Research Papers in Economics",
+ "lenke": "https://openalex.org/W1537883706",
+ "merknad": "ÅPEN VERSJON (preprint eller arbeidsnotat), merkes i svaret",
+ "oversikt": false,
+ "sammendrag": "In this paper, we contribute to the literature on the impact of the unemployment benefit on (reservation) wages. We use the German BA-Employment Panel (2008) to identify the effect of a reduced unemployment benefit due to the labor market reform of 2005 in Germany. Using this unique experiment, we find strong evidence that a lower unemployment benefit has an adverse effect on wages.",
+ "tittel": "Unemployment Benefit and Wages: The Impact of the Labor Market Reform in Germany on (Reservation) Wages",
+ "type": "preprint"
+}

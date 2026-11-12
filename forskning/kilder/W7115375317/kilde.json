@@ -1,0 +1,18 @@
+{
+ "apen_url": "https://www.doria.fi/bitstream/10024/192549/2/gronholm_isa.pdf",
+ "ar": 2025,
+ "forfattere": [
+  "Grönholm, Isa"
+ ],
+ "hentet": "før 2026-11-08",
+ "hentet_fra": "https://www.doria.fi/bitstream/10024/192549/2/gronholm_isa.pdf",
+ "hvordan": "pdf",
+ "id": "W7115375317",
+ "kilde": "Doria (University of Helsinki)",
+ "lenke": "https://openalex.org/W7115375317",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "Finland präglas i dag av ett välfärdssamhälle. Samtidigt finns det ett ökat behov av att reformera till exempel arbetsmarknaden för att säkerställa en tillräcklig bärkraft att upprätthålla den nuvarande välfärden. En del av fokuset läggs därför på arbetskraften och dess produktivitet. Detta har lett till att regeringen Orpo har återupptagit diskussionen om ett införande av självriskdag. En sådan policyförändring skulle innebära att den första sjukfrånvarodagen blir obetald, vilket kan ge upphov till förändringar i sjukfrånvarobeteenden. För att undersöka vilka effekter en självriskdag har utnyttjas i stället avskaffandet av självriskdagen i Sverige år 2019. Avskaffandet skedde till följd av argumenterade ojämlikheter som självriskdagen hade fört med sig i Sverige. Avhandlingens syfte är således att analysera hur ett avskaffande av en självriskdag påverkar sjukfrånvaro och sjukersättningsbeloppet med fokus på Finland och Sverige. Utgångspunkten är att både sjukfrånvaron och det genomsnittliga ersättningsbeloppet ökar i samband med att självriskdagen avskaffas. Teorin förutspår en ökning av båda utfallen. Den teoretiska sjukflexibilitetsmodellen och teorin om valet att gå sjuk till arbetet eller inte tyder båda på en positiv effekt. Likaså argumenterar tidigare litteratur för att det finns ett samband mellan självriskdag och de båda utfallen. Den empiriska analysen görs med hjälp av paneldata på landskapsnivå för både Finland och Sverige under tidsperioden 2018–2023. För att undersöka hur reformen i form av ett avskaffande av en självriskdag påverkar tillämpas metoden difference-in-differences (DID) med fixa effekter på både landskaps- och årsnivå. Modellen består dock av problem med antagandet om parallella trender, vilket gör estimaten mindre tillförlitliga. Resultatet tyder på ett samband mellan självriskdag och både sjukfrånvaro och ersättningsbelopp, men det här sambandet stämmer inte överens med förväntningarna. Slopandet av självriskdagen ser ut att marginellt minska både förekomsten av sjukfrånvaro och utbetalt ersättningsbelopp. Estimaten påvisar därför motsatt effekt än det teori och tidigare litteratur antar. Studien bidrar med eventuella policyimplikationer för vilka effekter en självriskdag har, men i tolkningen och tillämpningen av denna avhandlings resultat och analys bör viss försiktighet användas. Trots osäkerheten i resultaten fungerar avhandlingen som ett bidrag till förståelsen av och diskussionen om en självriskdag verkligen ger upphov till de förväntade effekterna. Vidare är avhandlingen ett exempel på att ytterligare forskning om ämnet krävs för att möjliggöra en mer precis analys av de egentliga effekterna av en självriskdag.",
+ "tittel": "Hur sjukfrånvaro påverkas av en självriskdag : En kvasiexperimentell analys med utgångspunkt i Finland och Sverige",
+ "type": "dissertation"
+}

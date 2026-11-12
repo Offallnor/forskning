@@ -1,0 +1,25 @@
+{
+ "apen_url": "https://link.springer.com/content/pdf/10.1186/s12982-026-01886-2.pdf",
+ "ar": 2026,
+ "doi": "https://doi.org/10.1186/s12982-026-01886-2",
+ "forfattere": [
+  "Eija Haukka",
+  "Matti Joensuu",
+  "Johanna Kausto",
+  "Tuula Oksanen",
+  "Jussi Vahtera",
+  "Mika Kivimaki B",
+  "Jenni M Ervasti"
+ ],
+ "hentet": "før 2026-11-08",
+ "hentet_fra": "https://link.springer.com/content/pdf/10.1186/s12982-026-01886-2.pdf",
+ "hvordan": "pdf",
+ "id": "W7156333201",
+ "kilde": "Discover Public Health",
+ "lenke": "https://openalex.org/W7156333201",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "Abstract Background As a global health crisis, the COVID-19 pandemic offered a unique opportunity to identify sickness absence (SA) patterns consisting of long and short episodes and total number of SA days in a cohort of Finnish public sector employees while comparing to pre-pandemic timepoint. Methods Survey data from 39,791 employees in four Finnish cities in 2020 were linked to SA records between Jan-1 and Dec-31, 2021. We used K-means modelling on short (1–9 days) and long (10–365 days) episodes and total numbers of SA days. For comparison, we analysed 2019 (pre-pandemic) SA records. Employee and work characteristics associated with SA patterns were analysed using multinomial regression. Results Four distinct SA patterns during COVID-19 were identified: Low SA ( n = 31,320, 79%), repeated short episodes ( n = 5149, 13%), repeated long episodes ( n = 2964, 7%), and very high SA ( n = 358, 1%). Compared to others, employees with low SA were less likely to have had a first-wave COVID-19 infection, more frequently worked from home, were more often men in higher occupational positions, had lower body mass index, lower smoking and higher alcohol abstinence rates. Repeated short episodes were associated with younger age and team reorganization, whereas repeated long episodes and very high SA were linked to older age. Except for fewer overall SA days, the pre-pandemic SA pattern structure was similar. Conclusions We identified four distinct SA patterns with different employee correlates during the COVID-19 pandemic. These patterns appeared stable over time, as similar profiles – albeit with lower overall SA rates – were evident before the pandemic.",
+ "tittel": "Patterns and correlates of sickness absence before and during the COVID-19 pandemic in a cohort of Finnish public sector employees",
+ "type": "article"
+}

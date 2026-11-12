@@ -1,0 +1,23 @@
+{
+ "apen_url": "https://systematicreviewsjournal.biomedcentral.com/counter/pdf/10.1186/s13643-022-02055-7",
+ "ar": 2022,
+ "doi": "https://doi.org/10.1186/s13643-022-02055-7",
+ "forfattere": [
+  "Alexander Tingulstad",
+  "Jose Francisco Meneses-Echavez",
+  "Line Holtet Evensen",
+  "Maria Bjerk",
+  "Rigmor C. Berg"
+ ],
+ "hentet": "2026-11-09",
+ "hentet_fra": "https://systematicreviewsjournal.biomedcentral.com/counter/pdf/10.1186/s13643-022-02055-7",
+ "hvordan": "pdf",
+ "id": "W4294879451",
+ "kilde": "Systematic Reviews",
+ "lenke": "https://openalex.org/W4294879451",
+ "merknad": "",
+ "oversikt": true,
+ "sammendrag": "BACKGROUND: Long-term sick leave is a serious concern in developed countries and the cost of sickness absence and disability benefits cause major challenges for both the individual and society as a whole. Despite an increasing body of research reported by existing systematic reviews, there is uncertainty regarding the effect on return to work of workrelated interventions for workers with different diagnoses. The objective of this systematic review was to assess and summarize available research about the effects of work-related interventions for people on long-term sick leave and those at risk of long-term sick leave. METHODS: We conducted a systematic review in accordance with international guidelines. Campbell Collaboration (Area: Social Welfare), Cochrane Database of Systematic Reviews, Cochrane Central Register of Controlled Trials, Embase, Epistemonikos, MEDLINE, PsycINFO, Scopus, and Sociological Abstracts were systematically searched in March 2021. Two authors independently screened the studies. We conducted risk of bias assessments and meta-analyses of the available evidence in randomized controlled trials (RCTs). The remaining comparisons were synthesized narratively. The certainty of evidence for each outcome was assessed. RESULTS: We included 20 RCTs comprising 5753 participants at baseline from 4 different countries. The studies had generally low risk of bias. Our certainty in the effect estimates ranged from very low to moderate. Eight different interventions were identified. Meta-analysis revealed no statistically significant difference between multidisciplinary rehabilitation (MR) and usual care (US) (Risk Ratio [RR] 1.01; Confidence Interval [CI] 95% 0.70-1.48 at 12 months follow-up) and between MR and other active intervention (Risk Ratio [RR] 1.04; Confidence Interval [CI] 95% 0.86-1.25 at 12 months follow-up). Remaining intervention groups revealed marginal, or no effect compared to the control group. The results for the secondary outcomes (self-efficacy, symptom reduction, function, cost-effectiveness) showed varied and small effects in the intervention groups. CONCLUSION: Overall, the present data showed no conclusive evidence of which work-related intervention is most effective for return to work. However, a handful of potential interventions exist, that may contribute to a foundation for future research. Our findings support the need for adequately powered and methodologically strong studies.",
+ "tittel": "Effectiveness of work-related interventions for return to work in people on sick leave: a systematic review and meta-analysis of randomized controlled trials",
+ "type": "review"
+}

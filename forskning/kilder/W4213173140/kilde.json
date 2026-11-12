@@ -1,0 +1,26 @@
+{
+ "apen_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/cl2.1216",
+ "ar": 2022,
+ "doi": "https://doi.org/10.1002/cl2.1216",
+ "forfattere": [
+  "Robert Apunyo",
+  "Howard White",
+  "Caroline Otike",
+  "Thomas Katairo",
+  "Susana Puerto",
+  "Drew Gardiner",
+  "Alison Annet Kinengyere",
+  "John E. Eyers"
+ ],
+ "hentet": "2026-11-08",
+ "hentet_fra": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8847398/fullTextXML",
+ "hvordan": "Europe PMC",
+ "id": "W4213173140",
+ "kilde": "Campbell Systematic Reviews",
+ "lenke": "https://openalex.org/W4213173140",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "Background: Globally, 13% of the youth are not in education, employment or training (NEET). Moreover, this persistent problem has been exacerbated by the shock of Covid-19 pandemic. More youth from disadvantaged backgrounds are likely unemployed than those from better off backgrounds. Thus, the need for increased use of evidence in the design and implementation of youth employment interventions to increase effectiveness and sustainability of interventions and outcomes. Evidence and gap maps (EGMs) can promote evidence-based decision making by guiding policy makers, development partners and researchers to areas with good bodies of evidence and those with little or no evidence. The scope of the Youth Employment EGM is global. The map covers all youth aged 15-35 years. The three broad intervention categories included in the EGM are: strengthening training and education systems, enhancing labour market and, transforming financial sector markets. There are five outcome categories: education and skills; entrepreneurship; employment; welfare and economic outcomes. The EGM contains impact evaluations of interventions implemented to increase youth employment and systematic reviews of such single studies, published or made available between 2000 and 2019. Objectives: The primary objective was to catalogue impact evaluations and systematic reviews on youth employment interventions to improve discoverability of evidence by decision makers, development patterners and researchers, so as to promote evidence-based decision making in programming and implementation of youth employment initiatives. Search Methods: Twenty databases and websites were searched using a validated search strategy. Additional searches included searching within 21 systematic reviews, snowballing 20 most recent studies and citation tracking of 10 most recent studies included in the EGM. Selection Criteria: The study selection criteria followed the PICOS approach of population, intervention, relevant comparison groups, outcomes and study design. Additional criterion is; study publication or availability period of between 2000 and 2021. Only impact evaluations and systematic reviews that included impact evaluations were selected. Data Collection and Analysis: A total of 14,511 studies were uploaded in EPPI Reviewer 4 software, upon which 399 were selected using the criteria provided above. Coding of data took place in EPPI Reviewer basing on predefined codes. The unit of analysis for the report is individual studies where every entry represents a combination of interventions and outcomes. Main Results: = 35). Experimental studies were mostly conducted in both Lower-income countries and Lower Middle Income countries while non-experimental study designs are the most common in both High Income and Upper Middle Income countries. Most evidence is from low quality impact evaluations (71.2%) while majority of systematic reviews (71.4% of 21) are of medium and high quality rating. The area saturated with most evidence is the intervention category of 'training', while the underrepresented are three main intervention sub-categories: information services; decent work policies and; entrepreneurship promotion and financing. Older youth, youth in fragility, conflict and violence contexts, or humanitarian settings, or ethnic minorities or those with criminal backgrounds are least studied. Conclusions: The Youth Employment EGM identifies trends in evidence notably the following: Most evidence is from high-income countries, an indication of the relationship between a country's income status and research productivity.The most common study designs are experimental.Most of the evidence is of low quality. This finding serves to alert researchers, practitioners and policy makers that more rigorous work is needed to inform youth employment interventions. Blending of interventions is practiced. While this could be an indication that blended intervention could be offering better outcomes, this remains an area with a research gap.",
+ "tittel": "Interventions to increase youth employment: An evidence and gap map",
+ "type": "article"
+}

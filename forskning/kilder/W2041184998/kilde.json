@@ -1,0 +1,18 @@
+{
+ "ar": 2012,
+ "doi": "https://doi.org/10.1002/ajim.22062",
+ "forfattere": [
+  "Amelia M. Haviland",
+  "Rachel M. Burns",
+  "Wayne B. Gray",
+  "Teague Ruder",
+  "John M. Mendeloff"
+ ],
+ "id": "W2041184998",
+ "kilde": "American Journal of Industrial Medicine",
+ "lenke": "https://openalex.org/W2041184998",
+ "oversikt": false,
+ "sammendrag": "BACKGROUND: A prior study indicated that the effect of OSHA inspections on lost workday injuries had declined from 1979 through 1998. This study provides an updated estimate for 1998-2005. METHODS: Injury data from the Pennsylvania workers' compensation program were linked with employment data from unemployment compensation records to calculate lost-time rates for single-establishment manufacturing firms with more than 10 employees. These rates were linked to OSHA inspection findings. The RAND Human Subjects Protection Committee determined that this study was exempt from review. RESULTS: Inspections with penalties reduced injuries by an average of 19-24% annually in the 2 years following the inspection. These effects were not found for workplaces with fewer than 20 or more than 250 employees or for inspections without penalties. CONCLUSIONS: These findings should be generalizable to the 29 states where federal OSHA directly enforces standards. They suggest that the impact of inspections has increased from the 1990s.",
+ "tittel": "A new estimate of the impact of OSHA inspections on manufacturing injury rates, 1998–2005",
+ "type": "article"
+}

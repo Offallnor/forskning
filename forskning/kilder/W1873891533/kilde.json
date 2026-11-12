@@ -1,0 +1,15 @@
+{
+ "ar": 2005,
+ "doi": "https://doi.org/10.1111/j.1369-6866.2005.00345.x",
+ "forfattere": [
+  "Espen S. Dahl",
+  "Thomas Lorentzen"
+ ],
+ "id": "W1873891533",
+ "kilde": "International Journal of Social Welfare",
+ "lenke": "https://openalex.org/W1873891533",
+ "oversikt": false,
+ "sammendrag": "This article examines whether some active labour market programmes (ALMP) targeted at social assistance recipients are more effective for some groups than for others in increasing self-sufficiency, i.e. gross earnings. The study focuses on the interaction between two types of programmes – employment programmes and training programmes – and the social charac-teristics of the participants. The data are derived from the pool of the entire population of social assistance recipients registered in Norway in 1995. The study adopts a quasi-experimental design. To handle selection bias, a matching procedure based on a propensity score approach is applied. Training programmes yield positive outcomes overall and for subgroups, whereas employment programmes produce no significant effects overall. However, for employment programmes there is an interaction effect between the likelihood of participation and outcome: beneficiaries with social characteristics (e.g. age, education, work experience) that are associated with a medium chance of participating experience a positive and significant increase in earnings. For those with lower and higher chances, the effect is negative. This points to the importance of conducting stratified analyses in effect evaluations. Thus, the results are also likely to be more relevant to policy makers.",
+ "tittel": "What works for whom? An analysis of active labour market programmes in Norway",
+ "type": "article"
+}

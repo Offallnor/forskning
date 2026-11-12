@@ -1,0 +1,19 @@
+{
+ "apen_url": "https://doi.org/10.1177/10522263261503193",
+ "ar": 2026,
+ "doi": "https://doi.org/10.1177/10522263261503193",
+ "forfattere": [
+  "Rune Vammen Lesner",
+  "Julia Salado‐Rasmussen",
+  "Rasmus Højbjerg Jacobsen",
+  "Stella Mia Sieling‐Monas",
+  "Inge Storgaard Bonfils"
+ ],
+ "id": "W7224236002",
+ "kilde": "Journal of Vocational Rehabilitation",
+ "lenke": "https://openalex.org/W7224236002",
+ "oversikt": false,
+ "sammendrag": "Background Individual Placement and Support (IPS) is an effective intervention for individuals with severe mental illness. Adapting it to new groups and contexts shows promise but requires evaluation before broader implementation. Objectives To examine employment and education enrollment outcomes of a modified IPS program for youth aged 18–29 with less severe mental health issues in Danish Public Employment Services (PES) supplemented with psychosocial support. Methods A total of 762 young people were screened for eligibility, of whom 550 received the intervention. To estimate the causal effect, a fuzzy regression discontinuity design was applied. This approach enables causal inference for those deemed eligible and who choose to enroll in the program. Results The intervention led to a 38-percentage-point increase in employment one year after screening, an effect size that is substantial compared to the 14 percent employment rate observed in the comparison group. Participants with prior mental health issues appeared to benefit the most. The intervention did not have a significant impact on educational enrollment outcomes. Conclusions The findings suggest that IPS, when combined with psychosocial support, can be effectively adapted to serve youth with less severe mental health conditions. Future research should explore how tailoring the IPS model may enhance educational attainment in this population.",
+ "tittel": "Individual Placement and Support (IPS) Supplemented with Psychosocial Interventions for Young People with Less Severe Mental Health Issues: Effects on Employment and Education Outcomes",
+ "type": "article"
+}

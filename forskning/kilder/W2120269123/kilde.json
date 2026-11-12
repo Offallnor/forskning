@@ -1,0 +1,21 @@
+{
+ "apen_url": "https://journals.sagepub.com/doi/pdf/10.1177/00333549091244S120",
+ "ar": 2009,
+ "doi": "https://doi.org/10.1177/00333549091244s120",
+ "forfattere": [
+  "Fernando G. Benavides",
+  "Ana María García",
+  "María López-Ruiz",
+  "Josep Gil",
+  "Pere Boix",
+  "José Miguel Martı́nez",
+  "Fernando Rodrigo"
+ ],
+ "id": "W2120269123",
+ "kilde": "Public Health Reports",
+ "lenke": "https://openalex.org/W2120269123",
+ "oversikt": false,
+ "sammendrag": "OBJECTIVE: We examined the effectiveness of preventive interventions against occupational injuries (preferential action plans [PAPs]) developed by Spanish regional governments starting in 2000. METHODS: We included 3,252,028 occupational injuries with sick leave due to mechanical causes occurring between 1994 and 2004 in manufacturing and private service companies. Time trends for occupational injury rates were estimated before and after implementation of PAPs in each region, with a control group defined for those regions in which no PAPs were implemented (e.g., Galicia, Madrid, and Cataluña). We determined annual change percentages and their 95% confidence intervals (CIs) through a negative binomial regression model. Regions were grouped into three categories according to formal quality of their PAPs. RESULTS: The regions with the best PAPs (Andalucia, Aragon, Valencia, and Murcia) showed annually increasing occupational injury rates (2.3%, 95% CI -2.5, 7.4) before implementation of PAPs. After PAPs were implemented, occupational injury rates decreased significantly to -7.4% (95% CI -10.2, -4.5). Similar results were also found for regions with PAPs of lower quality and even for regions that didn't implement a PAP (control group). These results did not vary substantially in stratified analysis by gender, age, type of contract, or length of sick leave. CONCLUSION: PAPs are not related to a general decline in occupational injury rates in Spain starting in 2000. Reinforcement of Spanish health and safety regulations and labor inspection activities since 2000, resulting from a social agreement between central government and social agents, remains an alternative hypothesis requiring additional research.",
+ "tittel": "Effectiveness of Occupational Injury Prevention Policies in Spain",
+ "type": "article"
+}

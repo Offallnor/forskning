@@ -1,0 +1,886 @@
+<!DOCTYPE html>
+<html lang="sv" class="sv-no-js sv-template-bred-sida">
+<head>
+   <meta charset="UTF-8">
+   <script nonce="6a2df6f0-dbca-11f1-8ce6-1513cbc0553f">(function(c){c.add('sv-js');c.remove('sv-no-js');})(document.documentElement.classList)</script>
+   <title>Statistikdatabas - Försäkringskassan</title>
+   <link rel="preload" href="/sitevision/system-resource/cd8c5a46a43488b0c636b9580492c9575fa3f4d5aae324d93bb1f2036ebbdf54/js/jquery.js" as="script">
+   <link rel="preload" href="/sitevision/system-resource/cd8c5a46a43488b0c636b9580492c9575fa3f4d5aae324d93bb1f2036ebbdf54/envision/envision.js" as="script">
+   <link rel="preload" href="/sitevision/system-resource/cd8c5a46a43488b0c636b9580492c9575fa3f4d5aae324d93bb1f2036ebbdf54/js/utils.js" as="script">
+   <link rel="preload" href="/sitevision/system-resource/cd8c5a46a43488b0c636b9580492c9575fa3f4d5aae324d93bb1f2036ebbdf54/js/portlets.js" as="script">
+   <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, shrink-to-fit=no">
+   <meta name="dcterms.identifier" content="https://www.forsakringskassan.se">
+   <meta name="dcterms.language" content="sv">
+   <meta name="dcterms.format" content="text/html">
+   <meta name="dcterms.type" content="text">
+   <link rel="canonical" href="https://www.forsakringskassan.se/statistik-och-analys/statistikdatabas">
+   <link rel="stylesheet" type="text/css" href="/2.1ae7c17b16e61d89331755/1794112233230/sitevision-responsive-grids.css">
+   
+      <link rel="stylesheet" type="text/css" href="/2.1ae7c17b16e61d89331755/auto/1793808881819/SiteVision.css">
+      <link rel="stylesheet" type="text/css" href="/2.1ae7c17b16e61d89331755/0/2484/print/SiteVision.css">
+   <link rel="stylesheet" type="text/css" href="/sitevision/system-resource/cd8c5a46a43488b0c636b9580492c9575fa3f4d5aae324d93bb1f2036ebbdf54/css/portlets.css">
+   <link rel="stylesheet" type="text/css" href="/sitevision/system-resource/cd8c5a46a43488b0c636b9580492c9575fa3f4d5aae324d93bb1f2036ebbdf54/envision/envision.css">
+
+      <link rel="stylesheet" type="text/css" media="all" href="/download/18.a5da6b31762d40d8998877/1791791101940/fk.css">
+         <link rel="stylesheet" type="text/css" href="/webapp-resource/4.2e55fe04183b9d0c427d2/360.48ba16881a0e048bf4026/1790665495729/webapp-assets.css">
+      <link rel="stylesheet" type="text/css" href="/webapp-resource/4.2e55fe04183b9d0c427d2/360.670c766918e0dd6eacd331/1712750679807/webapp-assets.css">
+      <link rel="stylesheet" type="text/css" href="/webapp-resource/4.2e55fe04183b9d0c427d2/360.2e00182d195e42fd6d4389/1743491106761/webapp-assets.css">
+      <link rel="stylesheet" type="text/css" href="/webapp-resource/4.2e55fe04183b9d0c427d2/360.18f303471a04a58fa261/1788246256672/webapp-assets.css">
+      <link rel="stylesheet" type="text/css" href="/webapp-resource/4.2e55fe04183b9d0c427d2/360.48ba16881a0e048bf4029/1790665499068/webapp-assets.css">
+      <link rel="stylesheet" type="text/css" href="/webapp-resource/4.2e55fe04183b9d0c427d2/360.48ba16881a0e048bf4023/1790665492574/webapp-assets.css">
+      <link rel="stylesheet" type="text/css" href="/webapp-resource/4.2e55fe04183b9d0c427d2/360.215378bf1888fa695b84d0/1692877810128/webapp-assets.css">
+      <link rel="stylesheet" type="text/css" href="/webapp-resource/4.2e55fe04183b9d0c427d2/360.2e00182d195e42fd6d43a8/1743491127066/webapp-assets.css">
+      <link rel="stylesheet" type="text/css" href="/webapp-resource/4.2e55fe04183b9d0c427d2/360.37e31c0d19dc7232e3ae5/1778144619425/webapp-assets.css">
+      <link rel="stylesheet" type="text/css" href="/webapp-resource/4.2e55fe04183b9d0c427d2/360.2e00182d195e42fd6d439b/1743491117891/webapp-assets.css">
+      <script nonce="6a2df6f0-dbca-11f1-8ce6-1513cbc0553f">!function(t,e){t=t||"docReady",e=e||window;var n=[],o=!1,c=!1;function d(){if(!o){o=!0;for(var t=0;t<n.length;t++)try{n[t].fn.call(window,n[t].ctx)}catch(t){console&&console.error(t)}n=[]}}function a(){"complete"===document.readyState&&d()}e[t]=function(t,e){if("function"!=typeof t)throw new TypeError("callback for docReady(fn) must be a function");o?setTimeout(function(){t(e)},1):(n.push({fn:t,ctx:e}),"complete"===document.readyState?setTimeout(d,1):c||(document.addEventListener?(document.addEventListener("DOMContentLoaded",d,!1),window.addEventListener("load",d,!1)):(document.attachEvent("onreadystatechange",a),window.attachEvent("onload",d)),c=!0))}}("svDocReady",window);</script>
+   <script nonce="6a2df6f0-dbca-11f1-8ce6-1513cbc0553f">
+      window.sv = window.sv || {};
+      sv.UNSAFE_MAY_CHANGE_AT_ANY_GIVEN_TIME_webAppExternals = {};
+      sv.PageContext = {
+      pageId: '4.2e55fe04183b9d0c427d2',
+      siteId: '2.1ae7c17b16e61d89331755',
+      userIdentityId: '',
+      userIdentityReadTimeout: 0,
+      userLocale: 'sv',
+      dev: false,
+      csrfToken: '',
+      html5: true,
+      useServerSideEvents: false,
+      nodeIsReadOnly: false
+      };
+   </script>
+      <script nonce="6a2df6f0-dbca-11f1-8ce6-1513cbc0553f">!function(){"use strict";var t,n={},e={},i={};function r(t){return n[t]=n[t]||{instances:[],modules:{},bundle:{}},n[t]}document.querySelector("html").classList.add("js");var s={registerBootstrapData:function(t,n,i,r,s){var a,o=e[t];o||(o=e[t]={}),(a=o[i])||(a=o[i]={}),a[n]={subComponents:r,options:s}},registerInitialState:function(t,n){i[t]=n},registerApp:function(n){var e=n.applicationId,i=r(e);if(t){var s={};s[e]=i,s[e].instances=[n],t.start(s)}else i.instances.push(n)},registerModule:function(t){r(t.applicationId).modules[t.path]=t},registerBundle:function(t){r(t.applicationId).bundle=t.bundle},getRegistry:function(){return n},setAppStarter:function(n){t=n},getBootstrapData:function(t){return e[t]},getInitialState:function(t){return i[t]}};window.AppRegistry=s}();</script>
+   <style>body, body .wpthemeMainContent{background-color:var(--fkds-color-background-secondary);}</style>
+   <script src="/webapp-files/fkse-globals/2.3.0/js.cookie.js"></script>
+   <meta name="description" content="Försäkringskassan ansvarar för den officiella statistiken inom områdena stöd vid sjukdom och funktionsnedsättning samt stöd till barnfamiljer." />
+   <meta name="keywords" content="statistik, statistik och analys, statistikdatabas" />
+   <meta name="author" content="Försäkringskassan" />
+   <meta name="twitter:card" content="summary_large_image" />
+   <meta property="og:title" content="Statistikdatabas" />
+   <meta property="og:type" content="website" />
+   <meta property="og:url" content="https://www.forsakringskassan.se/statistik-och-analys/statistikdatabas" />
+   <meta property="og:description" content="Försäkringskassan ansvarar för den officiella statistiken inom områdena stöd vid sjukdom och funktionsnedsättning samt stöd till barnfamiljer." />
+   <meta property="og:image" content="https://www.forsakringskassan.se/images/18.a5da6b31762d40d899891e/1613485730443/fk-dela-sociala-medier-1200x630.png" />
+   <meta property="og:image:width" content="1200" />
+   <meta property="og:image:height" content="630" />
+</head>
+<body class=" sv-responsive  env-m-around--0">
+<div  id="svid10_1ae7c17b16e61d893311c8d" class="sv-layout"><div class="sv-custom-module sv-fkse-session sv-skip-spacer sv-template-portlet
+" id="svid12_3dc760f617996051104870"><div id="fksesession"><!-- fkse-session --></div><div data-cid="59e8ed80-55f9-a82f-2cbf-99353c2d4039"><script>
+    window.fk = window.fk || {};
+    window.fk.fksesession = {
+        loginurl: "/login",
+        inEditmode: false,
+        anvgrupp: 1,
+        pageRequireLoggedIn: false,
+        loggedIn: false,
+        generelltTeknisktFelUrl: "https://idpx.forsakringskassan.se/external/authentication/authenticate/logout/?nextTarget=https://www.forsakringskassan.se/lank/logga-ut/tekniskt-fel",
+        hasRoleUtlandskund: false,
+        sLoginOpen: true,
+        state: undefined,
+        pasLogoutUrl: "https://idpx.forsakringskassan.se/external/authentication/authenticate/logout/?nextTarget=https://www.forsakringskassan.se/lank/logga-ut/tillfalligt-problem-logga-in",
+        stfBehorigFel: "https://idpx.forsakringskassan.se/external/authentication/authenticate/logout/?nextTarget=https://www.forsakringskassan.se/lank/logga-ut/stallforetradare-ej-behorig",
+        isStallforetradare: false,
+        felaktigInloggadUrl: "https://idpx.forsakringskassan.se/external/authentication/authenticate/logout/?nextTarget=https://www.forsakringskassan.se/lank/logga-ut/felaktigt-inloggad",
+        ejBehorigUrl: "https://idpx.forsakringskassan.se/external/authentication/authenticate/logout/?nextTarget=https://www.forsakringskassan.se/lank/logga-ut/ej-behorig"
+    };
+</script>
+
+<script src="/webapp-files/4.2e55fe04183b9d0c427d2/360.73a0b7441a0e04b958f12c/1792414496659/web-client.js"></script>
+
+</div><script nonce="6a2df6f0-dbca-11f1-8ce6-1513cbc0553f">AppRegistry.registerBootstrapData('12.3dc760f617996051104870','59e8ed80-55f9-a82f-2cbf-99353c2d4039','main',[],undefined);</script><script nonce="6a2df6f0-dbca-11f1-8ce6-1513cbc0553f">AppRegistry.registerInitialState('12.3dc760f617996051104870',{"loggedIn":false,"pageRequireLoggedIn":false,"anvgrupp":1,"inEditmode":false,"loginurl":"/login","generelltTeknisktFelUrl":"https://idpx.forsakringskassan.se/external/authentication/authenticate/logout/?nextTarget=https://www.forsakringskassan.se/lank/logga-ut/tekniskt-fel","hasRoleUtlandskund":false,"sLoginOpen":true,"pasLogoutUrl":"https://idpx.forsakringskassan.se/external/authentication/authenticate/logout/?nextTarget=https://www.forsakringskassan.se/lank/logga-ut/tillfalligt-problem-logga-in","stfBehorigFel":"https://idpx.forsakringskassan.se/external/authentication/authenticate/logout/?nextTarget=https://www.forsakringskassan.se/lank/logga-ut/stallforetradare-ej-behorig","isStallforetradare":false,"felaktigInloggadUrl":"https://idpx.forsakringskassan.se/external/authentication/authenticate/logout/?nextTarget=https://www.forsakringskassan.se/lank/logga-ut/felaktigt-inloggad","ejBehorigUrl":"https://idpx.forsakringskassan.se/external/authentication/authenticate/logout/?nextTarget=https://www.forsakringskassan.se/lank/logga-ut/ej-behorig","route":"/"});</script>
+<script nonce="6a2df6f0-dbca-11f1-8ce6-1513cbc0553f">AppRegistry.registerApp({applicationId:'fkse-session|2.13.1',htmlElementId:'svid12_3dc760f617996051104870',route:'/',portletId:'12.3dc760f617996051104870',locale:'sv',defaultLocale:'en',webAppId:'fkse-session',webAppVersion:'2.13.1',webAppAopId:'360.73a0b7441a0e04b958f12c',webAppImportTime:'1792414496659',requiredLibs:{},childComponentStateExtractionStrategy:'BY_ID'});</script></div>
+<div class="sv-custom-module sv-fkse-globals sv-template-portlet
+" id="svid12_7b234aa517b3a0b7f372a6"><div id="fkseglobals"><!-- fkse-globals --></div><script src="/webapp-files/fkse-globals/2.3.0/spritesheet.js"></script>
+<script nonce="6a2df6f0-dbca-11f1-8ce6-1513cbc0553f">AppRegistry.registerApp({applicationId:'fkse-globals|2.3.0',htmlElementId:'svid12_7b234aa517b3a0b7f372a6',route:'/',portletId:'12.7b234aa517b3a0b7f372a6',locale:'sv',defaultLocale:'en',webAppId:'fkse-globals',webAppVersion:'2.3.0',webAppAopId:'360.5f51ed1719f1ca5dfcf6b',webAppImportTime:'1787643223868',requiredLibs:{},childComponentStateExtractionStrategy:'BY_ID'});</script></div>
+<div class="sv-custom-module sv-fk-dela-metatags sv-template-portlet
+" id="svid12_398e2a521762d534987853"><div id="fkdelametatags"><!-- fk-dela-metatags --></div>
+<script nonce="6a2df6f0-dbca-11f1-8ce6-1513cbc0553f">AppRegistry.registerApp({applicationId:'fk-dela-metatags|1.2.0',htmlElementId:'svid12_398e2a521762d534987853',route:'/',portletId:'12.398e2a521762d534987853',locale:'sv',defaultLocale:'en',webAppId:'fk-dela-metatags',webAppVersion:'1.2.0',webAppAopId:'360.215378bf1888fa695b84d2',webAppImportTime:'1692877812895',requiredLibs:{}});</script></div>
+<div id="svid94_1ae7c17b16e61d89331c47"><div class="sv-vertical sv-layout fk-styling sv-skip-spacer sv-template-layout" id="svid10_1ae7c17b16e61d8933131ab"><div class="sv-custom-module sv-fk-metatags sv-skip-spacer sv-template-portlet
+" id="svid12_5317bde9174dd94ff586a"><div id="fkmetatags"><!-- fk-metatags --></div>
+<script nonce="6a2df6f0-dbca-11f1-8ce6-1513cbc0553f">AppRegistry.registerApp({applicationId:'fk-metatags|1.0.0',htmlElementId:'svid12_5317bde9174dd94ff586a',route:'/',portletId:'12.5317bde9174dd94ff586a',locale:'sv',defaultLocale:'en',webAppId:'fk-metatags',webAppVersion:'1.0.0',webAppAopId:'360.3725d3051758820458d232',webAppImportTime:'1604500545184',requiredLibs:{},childComponentStateExtractionStrategy:'BY_ID'});</script></div>
+<div class="sv-custom-module sv-fkse-offline-warning sv-template-portlet
+" id="svid12_3b0dc6ef17db11eab72151"><div id="fkseofflinewarning"><!-- fkse-offline-warning --></div><div data-cid="8b78c998-eb7d-afd2-f3c8-710b9fa7948f">
+
+<script>
+    window.fkseOfflineWarning = {
+        setOfflineText : function () {
+            return null;
+        }
+    };
+</script>
+
+
+</div><script nonce="6a2df6f0-dbca-11f1-8ce6-1513cbc0553f">AppRegistry.registerBootstrapData('12.3b0dc6ef17db11eab72151','8b78c998-eb7d-afd2-f3c8-710b9fa7948f','main',[],undefined);</script><script nonce="6a2df6f0-dbca-11f1-8ce6-1513cbc0553f">AppRegistry.registerInitialState('12.3b0dc6ef17db11eab72151',{"showOffline":false,"route":"/"});</script>
+<script nonce="6a2df6f0-dbca-11f1-8ce6-1513cbc0553f">AppRegistry.registerApp({applicationId:'fkse-offline-warning|1.1.0',htmlElementId:'svid12_3b0dc6ef17db11eab72151',route:'/',portletId:'12.3b0dc6ef17db11eab72151',locale:'sv',defaultLocale:'en',webAppId:'fkse-offline-warning',webAppVersion:'1.1.0',webAppAopId:'360.48ba16881a0e048bf4023',webAppImportTime:'1790665492574',requiredLibs:{},childComponentStateExtractionStrategy:'BY_ID'});</script></div>
+<div class="sv-vertical sv-layout sv-template-layout" id="svid10_691dfb4e184254982189d2"><div class="sv-vertical sv-layout sv-skip-spacer sv-template-layout" id="svid93_691dfb4e184254982189d4"><div role="region" aria-label="Kakor på Försäkringskassan" class="sv-custom-module sv-fk-cookie-warning sv-skip-spacer sv-template-portlet
+" id="svid12_691dfb4e184254982189d5"><div id="fkcookiewarning"><!-- fk-cookie-warning --></div><div data-cid="12.691dfb4e184254982189d5"><div><div class="fk-cookie-warning" data-nosnippet><div class="cookie-warning" aria-hidden="false"><div class="cookie-warning-content"><h1 class="no-icon">Kakor på Försäkringskassan</h1>
+                    <p><!-- HTML_TAG_START -->På forsakringskassan.se använder vi kakor (cookies) för att webbplatsen ska fungera så bra som möjligt för dig.<br />Vi använder också kakor för webbanalys för att göra webbplatsen bättre.<!-- HTML_TAG_END --></p>
+                    <div class="more-info-link"><a class="anchor anchor--block" href="/om-webbplatsen/kakor-cookies">Så här använder Försäkringskassan kakor</a></div>
+                    <p class="godkanner-du-rubrik"><strong>Godkänner du att vi också använder kakor för webbanalys?</strong></p>
+                    <button class="button button--primary" type="button"><span>Ja, jag godkänner alla kakor</span></button>
+                    <button class="button button--primary" type="button"><span>Nej, jag godkänner bara nödvändiga kakor</span></button></div></div></div></div></div><script nonce="6a2df6f0-dbca-11f1-8ce6-1513cbc0553f" >AppRegistry.registerBootstrapData('12.691dfb4e184254982189d5','12.691dfb4e184254982189d5','AGNOSTIC_RENDERER');</script><script nonce="6a2df6f0-dbca-11f1-8ce6-1513cbc0553f">AppRegistry.registerInitialState('12.691dfb4e184254982189d5',{"settings":{"moreInfoPageUri":"/om-webbplatsen/kakor-cookies"},"texts":{"rubrik":"Kakor på Försäkringskassan","vianvander":"På forsakringskassan.se använder vi kakor (cookies) för att webbplatsen ska fungera så bra som möjligt för dig.\u003cbr />Vi använder också kakor för webbanalys för att göra webbplatsen bättre.","lanktext":"Så här använder Försäkringskassan kakor","tillaterducookies":"Godkänner du att vi också använder kakor för webbanalys?","godkannallacookies":"Ja, jag godkänner alla kakor","godkannfunktionscookies":"Nej, jag godkänner bara nödvändiga kakor"},"visible":true,"statistic":false});</script>
+<script nonce="6a2df6f0-dbca-11f1-8ce6-1513cbc0553f">AppRegistry.registerApp({applicationId:'fk-cookie-warning|1.5.2',htmlElementId:'svid12_691dfb4e184254982189d5',route:'/',portletId:'12.691dfb4e184254982189d5',locale:'sv',defaultLocale:'en',webAppId:'fk-cookie-warning',webAppVersion:'1.5.2',webAppAopId:'360.215378bf1888fa695b84d0',webAppImportTime:'1692877810128',requiredLibs:{}});</script></div>
+<div role="navigation" aria-label="Gå till innehåll" class="sv-custom-module sv-fk-skip-navigation-button sv-template-portlet
+" id="svid12_691dfb4e184254982189d7"><div id="fkskipnavigationbutton"><!-- fk-skip-navigation-button --></div><div data-cid="0631dabe-e26a-e255-6580-8ec7ceb896b4"><div class="skip-navigation-button-wrapper">
+    <div class="skip-navigation-button">
+        <a
+            class="skip-navigation-button__link  skip-navigation-button__link--default-focus-color "
+            href=""
+            tabindex="0"
+            accesskey="s"
+        >
+            <span>Gå till innehåll</span>
+        </a>
+    </div>
+</div>
+<script src="/webapp-files/4.2e55fe04183b9d0c427d2/360.48ba16881a0e048bf4029/1790665499068/web-client.js"></script>
+</div><script nonce="6a2df6f0-dbca-11f1-8ce6-1513cbc0553f">AppRegistry.registerBootstrapData('12.691dfb4e184254982189d7','0631dabe-e26a-e255-6580-8ec7ceb896b4','main',[],undefined);</script><script nonce="6a2df6f0-dbca-11f1-8ce6-1513cbc0553f">AppRegistry.registerInitialState('12.691dfb4e184254982189d7',{"skipNavigationButton":{"buttonStyling":""},"route":"/"});</script>
+<script nonce="6a2df6f0-dbca-11f1-8ce6-1513cbc0553f">AppRegistry.registerApp({applicationId:'fk-skip-navigation-button|2.0.1',htmlElementId:'svid12_691dfb4e184254982189d7',route:'/',portletId:'12.691dfb4e184254982189d7',locale:'sv',defaultLocale:'en',webAppId:'fk-skip-navigation-button',webAppVersion:'2.0.1',webAppAopId:'360.48ba16881a0e048bf4029',webAppImportTime:'1790665499068',requiredLibs:{},childComponentStateExtractionStrategy:'BY_ID'});</script></div>
+</div>
+</div>
+<div class="sv-custom-module sv-fk-header sv-template-portlet
+" id="svid12_3725d3051758820458d8c3"><div id="fkheader"><!-- fk-header --></div><div data-cid="8520a174-8bef-a1d7-acff-735eea6dc78a"><header class="site-wide clearfix" lang="sv">
+    <div id="printheader">
+        <img src="/webapp-files/fk-header/2.12.0/images/fk-logo-print.svg" width="200" height="20"
+             alt="Försäkringskassans logotyp">
+    </div>
+    <div class="row">
+        <div class="wrapper clearfix">
+            <div class="logo-container">
+                <a href="/" id="fk-top-bar-logo" accesskey="1">
+                    <span>Försäkringskassans logotyp, länk till startsidan</span>
+                </a>
+            </div>
+
+            <div class="actions-container clearfix">
+                <div id="search" class="clearfix" role="search">
+                    <form action="." class="large-menu-only">
+                        <label for="searchHeaderMediumUp" class="sr-only">Sök på Försäkringskassan.se</label>
+                        <div class="predictive">
+                            <input id="searchHeaderMediumUp" type="search" aria-haspopup="true"
+                                   placeholder="Sök här" data-predictive="" class="desktop"
+                                   maxlength="200"
+                                   autocomplete="off">
+                        </div>
+                        <button class="search-menu-icon" data-searchpageurl="/privatperson/sok-pa-webbplatsen" id="search-large" data-search-button type="submit">
+                            <svg class="search-menu-icon-white" focusable="false">
+                                <use xlink:href="#fkse-f-icon-search"></use>
+                            </svg>
+                            <span class="search-button-text">Sök</span>
+                        </button>
+                    </form>
+                    <button class="search-menu-icon small-menu-only toggleSearchButton" data-searchpageurl="/privatperson/sok-pa-webbplatsen" type="button" aria-expanded="false">
+                        <svg class="search-menu-icon-white" focusable="false">
+                            <use xlink:href="#fkse-f-icon-search"></use>
+                        </svg>
+                        <svg class="search-menu-icon-white-close" focusable="false">
+                            <use xlink:href="#fkse-f-fkse-icon-kryss-cirkel-fylld"></use>
+                        </svg>
+                        <span class="search-button-text">Sök<span class="sr-only closed">, visa sökfält</span><span class="sr-only opened">, dölj sökfält</span></span>
+                    </button>
+                </div>
+                <div class="search-container clearfix" role="search" aria-hidden="true">
+                    <form id="small-seach-container-form" class="hide-search-container-form" action=".">
+                        <label for="searchHeaderSmall" class="sr-only">Sök på Försäkringskassan.se</label>
+                        <div class="predictive">
+                            <input id="searchHeaderSmall" type="search" aria-haspopup="true"
+                                   placeholder="Sök här" data-predictive="" class="mobile"
+                                   maxlength="200"
+                                   autocomplete="off">
+                        </div>
+                        <button class="search-menu-icon" id="search-small" type="submit" data-search-button>
+                            <svg class="search-menu-icon-white" focusable="false">
+                                <use xlink:href="#fkse-f-icon-search"></use>
+                            </svg>
+                            <span>Sök</span>
+                        </button>
+                    </form>
+                </div>
+
+                <a id="authentication" href="/logga-in">
+                    <div class="authentication-content">
+                        <svg class="user-menu-icon" focusable="false">
+                            <use xlink:href="#fkse-f-fkse-icon-avatar"></use>
+                        </svg>
+                        <span>Logga in</span>
+                    </div>
+                </a>
+
+                <button
+                    type="button"
+                    id="navigation"
+                    aria-expanded="false"
+                    aria-controls="detNav"
+                    onclick="_paq.push(['trackEvent', 'Meny klick', 'Meny knapp']);"
+                >
+                    <svg class="menu-icon" focusable="false" class="icon f-icon-bars">
+                        <use xlink:href="#fkse-f-icon-bars"></use>
+                    </svg>
+                    <span>Meny</span>
+                </button>
+            </div>
+        </div>
+    </div>
+    <script src="/webapp-files/fk-header/2.12.0/web-client.js"></script>
+    
+</header>
+</div><script nonce="6a2df6f0-dbca-11f1-8ce6-1513cbc0553f">AppRegistry.registerBootstrapData('12.3725d3051758820458d8c3','8520a174-8bef-a1d7-acff-735eea6dc78a','main',[],undefined);</script><script nonce="6a2df6f0-dbca-11f1-8ce6-1513cbc0553f">AppRegistry.registerInitialState('12.3725d3051758820458d8c3',{"loggedIn":false,"pages":{"start":"/","search":"/privatperson/sok-pa-webbplatsen","loginLogoutUrl":"/logga-in","isStallforetradare":false,"isArbetsgivare":false},"language":"sv","resourceUrl":"/webapp-files/fk-header/2.12.0/","route":"/"});</script>
+<script nonce="6a2df6f0-dbca-11f1-8ce6-1513cbc0553f">AppRegistry.registerApp({applicationId:'fk-header|2.12.0',htmlElementId:'svid12_3725d3051758820458d8c3',route:'/',portletId:'12.3725d3051758820458d8c3',locale:'sv',defaultLocale:'en',webAppId:'fk-header',webAppVersion:'2.12.0',webAppAopId:'360.2e00182d195e42fd6d439b',webAppImportTime:'1743491117891',requiredLibs:{},childComponentStateExtractionStrategy:'BY_ID'});</script></div>
+<div class="sv-custom-module sv-fkse-webbundersokning sv-template-portlet
+" id="svid12_670c766918e0dd6eacd33b"><div id="fksewebbundersokning"><!-- fkse-webbundersokning --></div><div data-cid="12.670c766918e0dd6eacd33b"></div><script nonce="6a2df6f0-dbca-11f1-8ce6-1513cbc0553f" >AppRegistry.registerBootstrapData('12.670c766918e0dd6eacd33b','12.670c766918e0dd6eacd33b','AGNOSTIC_RENDERER');</script><script nonce="6a2df6f0-dbca-11f1-8ce6-1513cbc0553f">AppRegistry.registerInitialState('12.670c766918e0dd6eacd33b',{"settings":{"aktiveraUndersokning":false,"textUrl":"/rest-api/fk-rest-textnycklar/public/v2/webbundersokning?lang=sv","imageUri":"/images/18.670c766918e0dd6eacd335/1712750679774/tyck-till-illustration-2.svg","redaktor":false}});</script>
+<script nonce="6a2df6f0-dbca-11f1-8ce6-1513cbc0553f">AppRegistry.registerApp({applicationId:'fkse-webbundersokning|1.0.0',htmlElementId:'svid12_670c766918e0dd6eacd33b',route:'/',portletId:'12.670c766918e0dd6eacd33b',locale:'sv',defaultLocale:'en',webAppId:'fkse-webbundersokning',webAppVersion:'1.0.0',webAppAopId:'360.670c766918e0dd6eacd331',webAppImportTime:'1712750679807',requiredLibs:{}});</script></div>
+<div class="sv-custom-module sv-fkse-utloggning-inaktivitet sv-template-portlet
+" id="svid12_3dc760f61799605110486e"><div id="fkseutloggninginaktivitet"><!-- fkse-utloggning-inaktivitet --></div><div data-cid="071be061-10c8-541f-f57a-2aae81ff0bab">
+
+<script src="/webapp-files/4.2e55fe04183b9d0c427d2/360.48ba16881a0e048bf4026/1790665495729/web-client.js"></script>
+</div><script nonce="6a2df6f0-dbca-11f1-8ce6-1513cbc0553f">AppRegistry.registerBootstrapData('12.3dc760f61799605110486e','071be061-10c8-541f-f57a-2aae81ff0bab','main',[],undefined);</script><script nonce="6a2df6f0-dbca-11f1-8ce6-1513cbc0553f">AppRegistry.registerInitialState('12.3dc760f61799605110486e',{"timerSettings":{"heartbeatTimeout":"1500000","ofrivilligTimeout":"1500000","totalCountdownInMilliSec":"300000"},"sessionUrls":{"sessionProlongURLFirst":"/api/knd/v1/private/v1/information?kanal=1","sessionProlongURLSecond":""},"loggedIn":false,"logoutUrl":"https://idpx.forsakringskassan.se/external/authentication/authenticate/logout/?nextTarget=https://www.forsakringskassan.se/lank/logga-ut/medborgare","hasRoleUtlandskund":false,"route":"/"});</script>
+<script nonce="6a2df6f0-dbca-11f1-8ce6-1513cbc0553f">AppRegistry.registerApp({applicationId:'fkse-utloggning-inaktivitet|1.4.0',htmlElementId:'svid12_3dc760f61799605110486e',route:'/',portletId:'12.3dc760f61799605110486e',locale:'sv',defaultLocale:'en',webAppId:'fkse-utloggning-inaktivitet',webAppVersion:'1.4.0',webAppAopId:'360.48ba16881a0e048bf4026',webAppImportTime:'1790665495729',requiredLibs:{},childComponentStateExtractionStrategy:'BY_ID'});</script></div>
+<div class="sv-custom-module sv-fk-responsive-menu sv-template-portlet
+" id="svid12_5317bde9174dd94ff58622"><div id="fkresponsivemenu"><!-- fk-responsive-menu --></div><div data-cid="8cebc5cd-a69d-ce6e-369f-0b7648f0d59c"><nav id="detNav" class="wpthemeSideNavigation" role="navigation" aria-hidden="true">
+    <div class="menu-header clearfix">
+        <div class="menu-button">
+            <button
+                class="header"
+                type="button"
+                tabindex="-1"
+                onclick="_paq.push(['trackEvent', 'Meny klick', 'Meny stäng knapp']);"
+            >
+                <span class="icon ring"></span>
+                <span class="icon cross"></span>
+                Meny
+            </button>
+        </div>
+        <div class="menu-english">
+            <svg class="menu-english-icon" focusable="false">
+                <use xlink:href="#fkse-f-fkse-icon-jordglob"></use>
+            </svg>
+            <a href="/english" class="anchor anchor--block" lang="en">
+                English
+            </a>
+        </div>
+    </div>
+    <div class="content ps-container">
+        
+
+
+        
+
+<ul class="wpthemeNavList wpthemeNavContainer plain-list">
+    
+    <li class="wpthemeNavListItem    ingen">
+        <a
+            href="/statistik-och-analys/barn-och-familj"
+            tabindex="-1"
+            aria-expanded="false"
+            onclick="_paq.push(['trackEvent', 'Meny klick', 'Barn och familj']);"
+        >
+            
+            
+            
+            <span class=" ">Barn och familj</span>
+        </a>
+        
+    </li>
+    
+    <li class="wpthemeNavListItem    ingen">
+        <a
+            href="/statistik-och-analys/sjuk"
+            tabindex="-1"
+            aria-expanded="false"
+            onclick="_paq.push(['trackEvent', 'Meny klick', 'Sjuk']);"
+        >
+            
+            
+            
+            <span class=" ">Sjuk</span>
+        </a>
+        
+    </li>
+    
+    <li class="wpthemeNavListItem    ingen">
+        <a
+            href="/statistik-och-analys/funktionsnedsattning"
+            tabindex="-1"
+            aria-expanded="false"
+            onclick="_paq.push(['trackEvent', 'Meny klick', 'Funktions­nedsättning']);"
+        >
+            
+            
+            
+            <span class=" ">Funktions­nedsättning</span>
+        </a>
+        
+    </li>
+    
+    <li class="wpthemeNavListItem wpthemeSelected leafNode  ingen">
+        <a
+            href="/statistik-och-analys/statistikdatabas"
+            tabindex="-1"
+            aria-expanded="true"
+            onclick="_paq.push(['trackEvent', 'Meny klick', 'Statistikdatabas']);"
+        >
+            
+            
+            <span class="screenreader-only">Undermeny för</span>
+            
+            
+            <span class="fkBold lastSelectedNode">Statistikdatabas</span>
+        </a>
+        
+        
+
+        
+    </li>
+    
+    <li class="wpthemeNavListItem  leafNode  ingen">
+        <a
+            href="/statistik-och-analys/statistik-om-tandvardsstod"
+            tabindex="-1"
+            aria-expanded="false"
+            onclick="_paq.push(['trackEvent', 'Meny klick', 'Statistik om tandvårdsstöd']);"
+        >
+            
+            
+            
+            <span class=" ">Statistik om tandvårdsstöd</span>
+        </a>
+        
+    </li>
+    
+    <li class="wpthemeNavListItem  leafNode  ingen">
+        <a
+            href="/statistik-och-analys/statistik-om-internationell-vard"
+            tabindex="-1"
+            aria-expanded="false"
+            onclick="_paq.push(['trackEvent', 'Meny klick', 'Statistik om internationell vård']);"
+        >
+            
+            
+            
+            <span class=" ">Statistik om internationell vård</span>
+        </a>
+        
+    </li>
+    
+    <li class="wpthemeNavListItem  leafNode  ingen">
+        <a
+            href="/statistik-och-analys/statistik-om-arbetsmarknadspolitiska-program"
+            tabindex="-1"
+            aria-expanded="false"
+            onclick="_paq.push(['trackEvent', 'Meny klick', 'Statistik om arbetsmarknadspolitiska program']);"
+        >
+            
+            
+            
+            <span class=" ">Statistik om arbetsmarknadspolitiska program</span>
+        </a>
+        
+    </li>
+    
+    <li class="wpthemeNavListItem  leafNode  ingen">
+        <a
+            href="/statistik-och-analys/publiceringsplan-statistik-och-analys"
+            tabindex="-1"
+            aria-expanded="false"
+            onclick="_paq.push(['trackEvent', 'Meny klick', 'Publiceringsplan – Statistik och analys']);"
+        >
+            
+            
+            
+            <span class=" ">Publiceringsplan – Statistik och analys</span>
+        </a>
+        
+    </li>
+    
+    <li class="wpthemeNavListItem  leafNode  ingen">
+        <a
+            href="/statistik-och-analys/kontakta-statistikenheten"
+            tabindex="-1"
+            aria-expanded="false"
+            onclick="_paq.push(['trackEvent', 'Meny klick', 'Kontakta statistikenheten']);"
+        >
+            
+            
+            
+            <span class=" ">Kontakta statistikenheten</span>
+        </a>
+        
+    </li>
+    
+    <li class="wpthemeNavListItem    ingen">
+        <a
+            href="/statistik-och-analys/bestallning-av-individdata-och-statistik"
+            tabindex="-1"
+            aria-expanded="false"
+            onclick="_paq.push(['trackEvent', 'Meny klick', 'Beställning av individdata och statistik']);"
+        >
+            
+            
+            
+            <span class=" ">Beställning av individdata och statistik</span>
+        </a>
+        
+    </li>
+    
+    <li class="wpthemeNavListItem  leafNode  ingen">
+        <a
+            href="/statistik-och-analys/publikationer-inom-statistik-och-analys"
+            tabindex="-1"
+            aria-expanded="false"
+            onclick="_paq.push(['trackEvent', 'Meny klick', 'Publikationer inom statistik och analys']);"
+        >
+            
+            
+            
+            <span class=" ">Publikationer inom statistik och analys</span>
+        </a>
+        
+    </li>
+    
+    <li class="wpthemeNavListItem  leafNode  ingen">
+        <a
+            href="/statistik-och-analys/det-har-ar-officiell-statistik"
+            tabindex="-1"
+            aria-expanded="false"
+            onclick="_paq.push(['trackEvent', 'Meny klick', 'Det här är officiell statistik']);"
+        >
+            
+            
+            
+            <span class=" ">Det här är officiell statistik</span>
+        </a>
+        
+    </li>
+    
+    <li class="wpthemeNavListItem  leafNode  ingen">
+        <a
+            href="/statistik-och-analys/socialforsakringen-i-siffror"
+            tabindex="-1"
+            aria-expanded="false"
+            onclick="_paq.push(['trackEvent', 'Meny klick', 'Socialförsäkringen i siffror']);"
+        >
+            
+            
+            
+            <span class=" ">Socialförsäkringen i siffror</span>
+        </a>
+        
+    </li>
+    
+    <li class="wpthemeNavListItem  leafNode  ingen">
+        <a
+            href="/statistik-och-analys/socialforsakringens-dag"
+            tabindex="-1"
+            aria-expanded="false"
+            onclick="_paq.push(['trackEvent', 'Meny klick', 'Socialförsäkringens dag']);"
+        >
+            
+            
+            
+            <span class=" ">Socialförsäkringens dag</span>
+        </a>
+        
+    </li>
+    
+    <li class="wpthemeNavListItem  leafNode  ingen">
+        <a
+            href="/statistik-och-analys/nyhetsbrev---statistik-och-analys"
+            tabindex="-1"
+            aria-expanded="false"
+            onclick="_paq.push(['trackEvent', 'Meny klick', 'Nyhetsbrev – statistik och analys']);"
+        >
+            
+            
+            
+            <span class=" ">Nyhetsbrev – statistik och analys</span>
+        </a>
+        
+    </li>
+    
+</ul>
+
+
+
+
+        <div class="serviceNav">
+            
+
+
+            <ul class="wpthemeNavList wpthemeNavContainer plain-list">
+                
+                <li class="wpthemeNavListItem leafNode">
+                    <a href="/privatperson" tabindex="-1">
+                        <span>Privatperson</span>
+                    </a>
+                </li>
+                
+                <li class="wpthemeNavListItem leafNode">
+                    <a href="/arbetsgivare" tabindex="-1">
+                        <span>Arbetsgivare</span>
+                    </a>
+                </li>
+                
+                <li class="wpthemeNavListItem leafNode">
+                    <a href="/halso-och-sjukvarden" tabindex="-1">
+                        <span>Hälso- och sjukvården</span>
+                    </a>
+                </li>
+                
+                <li class="wpthemeNavListItem leafNode">
+                    <a href="/myndigheter-och-samarbetspartner" tabindex="-1">
+                        <span>Myndigheter och samarbetspartner</span>
+                    </a>
+                </li>
+                
+                <li class="wpthemeNavListItem leafNode">
+                    <a href="/tandvarden" tabindex="-1">
+                        <span>Tandvården</span>
+                    </a>
+                </li>
+                
+            </ul>
+
+            
+                
+
+<ul class="wpthemeNavList wpthemeNavContainer plain-list">
+    
+    <li class="wpthemeNavListItem  leafNode  ">
+        <a
+            href="/om-forsakringskassan"
+            tabindex="-1"
+            aria-expanded="false"
+            onclick="_paq.push(['trackEvent', 'Meny klick', 'Om Försäkringskassan']);"
+        >
+            
+            
+            
+            <span class=" ">Om Försäkringskassan</span>
+        </a>
+        
+    </li>
+    
+    <li class="wpthemeNavListItem    ingen">
+        <a
+            href="/kontakta-forsakringskassan"
+            tabindex="-1"
+            aria-expanded="false"
+            onclick="_paq.push(['trackEvent', 'Meny klick', 'Kontakta Försäkringskassan']);"
+        >
+            
+            
+            
+            <span class=" ">Kontakta Försäkringskassan</span>
+        </a>
+        
+    </li>
+    
+</ul>
+
+
+
+            
+        </div>
+    </div>
+</nav>
+
+<div class="disabling-overlay"></div>
+
+<script src="/webapp-files/fk-responsive-menu/2.7.2/web-client.js"></script>
+</div><script nonce="6a2df6f0-dbca-11f1-8ce6-1513cbc0553f">AppRegistry.registerBootstrapData('12.5317bde9174dd94ff58622','8cebc5cd-a69d-ce6e-369f-0b7648f0d59c','main',[],undefined);</script><script nonce="6a2df6f0-dbca-11f1-8ce6-1513cbc0553f">AppRegistry.registerInitialState('12.5317bde9174dd94ff58622',{"contextItems":{"children":[],"hasChildren":false},"sectionItems":[{"displayName":"Privatperson","forman":"ingen","isCurrent":false,"isExpanded":false,"isVisibleInMenus":true,"hasChildren":true,"children":[],"uri":"/privatperson","level":1},{"displayName":"Arbetsgivare","forman":"ingen","isCurrent":false,"isExpanded":false,"isVisibleInMenus":true,"hasChildren":true,"children":[],"uri":"/arbetsgivare","level":1},{"displayName":"Hälso- och sjukvården","forman":"ingen","isCurrent":false,"isExpanded":false,"isVisibleInMenus":true,"hasChildren":true,"children":[],"uri":"/halso-och-sjukvarden","level":1},{"displayName":"Myndigheter och samarbetspartner","forman":"ingen","isCurrent":false,"isExpanded":false,"isVisibleInMenus":true,"hasChildren":true,"children":[],"uri":"/myndigheter-och-samarbetspartner","level":1},{"displayName":"Tandvården","forman":"ingen","isCurrent":false,"isExpanded":false,"isVisibleInMenus":true,"hasChildren":true,"children":[],"uri":"/tandvarden","level":1}],"commonItems":{"children":[{"displayName":"Om Försäkringskassan","forman":null,"isCurrent":false,"isExpanded":false,"isVisibleInMenus":true,"hasChildren":false,"children":[],"uri":"/om-forsakringskassan"},{"displayName":"Kontakta Försäkringskassan","forman":"ingen","isCurrent":false,"isExpanded":false,"isVisibleInMenus":false,"hasChildren":true,"children":[],"uri":"/kontakta-forsakringskassan"}],"hasChildren":true},"englishStartPageUri":"/english","swedishStartPageUri":"/","navigationItems":{"displayName":"Statistik och analys","forman":"ingen","isCurrent":false,"isExpanded":true,"isVisibleInMenus":false,"hasChildren":true,"children":[{"displayName":"Barn och familj","forman":"ingen","isCurrent":false,"isExpanded":false,"isVisibleInMenus":true,"hasChildren":true,"children":[],"uri":"/statistik-och-analys/barn-och-familj","level":2},{"displayName":"Sjuk","forman":"ingen","isCurrent":false,"isExpanded":false,"isVisibleInMenus":true,"hasChildren":true,"children":[],"uri":"/statistik-och-analys/sjuk","level":2},{"displayName":"Funktions­nedsättning","forman":"ingen","isCurrent":false,"isExpanded":false,"isVisibleInMenus":true,"hasChildren":true,"children":[],"uri":"/statistik-och-analys/funktionsnedsattning","level":2},{"displayName":"Statistikdatabas","forman":"ingen","isCurrent":true,"isExpanded":true,"isVisibleInMenus":true,"hasChildren":false,"children":[],"uri":"/statistik-och-analys/statistikdatabas","level":2},{"displayName":"Statistik om tandvårdsstöd","forman":"ingen","isCurrent":false,"isExpanded":false,"isVisibleInMenus":true,"hasChildren":false,"children":[],"uri":"/statistik-och-analys/statistik-om-tandvardsstod","level":2},{"displayName":"Statistik om internationell vård","forman":"ingen","isCurrent":false,"isExpanded":false,"isVisibleInMenus":true,"hasChildren":false,"children":[],"uri":"/statistik-och-analys/statistik-om-internationell-vard","level":2},{"displayName":"Statistik om arbetsmarknadspolitiska program","forman":"ingen","isCurrent":false,"isExpanded":false,"isVisibleInMenus":true,"hasChildren":false,"children":[],"uri":"/statistik-och-analys/statistik-om-arbetsmarknadspolitiska-program","level":2},{"displayName":"Publiceringsplan – Statistik och analys","forman":"ingen","isCurrent":false,"isExpanded":false,"isVisibleInMenus":true,"hasChildren":false,"children":[],"uri":"/statistik-och-analys/publiceringsplan-statistik-och-analys","level":2},{"displayName":"Kontakta statistikenheten","forman":"ingen","isCurrent":false,"isExpanded":false,"isVisibleInMenus":true,"hasChildren":false,"children":[],"uri":"/statistik-och-analys/kontakta-statistikenheten","level":2},{"displayName":"Beställning av individdata och statistik","forman":"ingen","isCurrent":false,"isExpanded":false,"isVisibleInMenus":true,"hasChildren":true,"children":[],"uri":"/statistik-och-analys/bestallning-av-individdata-och-statistik","level":2},{"displayName":"Publikationer inom statistik och analys","forman":"ingen","isCurrent":false,"isExpanded":false,"isVisibleInMenus":true,"hasChildren":false,"children":[],"uri":"/statistik-och-analys/publikationer-inom-statistik-och-analys","level":2},{"displayName":"Det här är officiell statistik","forman":"ingen","isCurrent":false,"isExpanded":false,"isVisibleInMenus":true,"hasChildren":false,"children":[],"uri":"/statistik-och-analys/det-har-ar-officiell-statistik","level":2},{"displayName":"Socialförsäkringen i siffror","forman":"ingen","isCurrent":false,"isExpanded":false,"isVisibleInMenus":true,"hasChildren":false,"children":[],"uri":"/statistik-och-analys/socialforsakringen-i-siffror","level":2},{"displayName":"Socialförsäkringens dag","forman":"ingen","isCurrent":false,"isExpanded":false,"isVisibleInMenus":true,"hasChildren":false,"children":[],"uri":"/statistik-och-analys/socialforsakringens-dag","level":2},{"displayName":"Nyhetsbrev – statistik och analys","forman":"ingen","isCurrent":false,"isExpanded":false,"isVisibleInMenus":true,"hasChildren":false,"children":[],"uri":"/statistik-och-analys/nyhetsbrev---statistik-och-analys","level":2}],"uri":"/statistik-och-analys","level":1},"loggedInItems":null,"languageUri":"/english","resourceUrl":"/webapp-files/fk-responsive-menu/2.7.2/","route":"/"});</script>
+<script nonce="6a2df6f0-dbca-11f1-8ce6-1513cbc0553f">AppRegistry.registerApp({applicationId:'fk-responsive-menu|2.7.2',htmlElementId:'svid12_5317bde9174dd94ff58622',route:'/',portletId:'12.5317bde9174dd94ff58622',locale:'sv',defaultLocale:'en',webAppId:'fk-responsive-menu',webAppVersion:'2.7.2',webAppAopId:'360.2e00182d195e42fd6d43a8',webAppImportTime:'1743491127066',requiredLibs:{},childComponentStateExtractionStrategy:'BY_ID'});</script></div>
+<div class="sv-vertical sv-layout contentarea sv-template-layout" id="svid10_1ae7c17b16e61d89331418a"><div id="svid94_2807d9c217c1f015673a8d"><div class="sv-vertical sv-layout sv-skip-spacer sv-template-layout" id="svid10_2807d9c217c1f015673a92"><div class="sv-vertical sv-layout sv-skip-spacer sv-template-layout" id="svid93_2807d9c217c1f015673a96"></div>
+</div>
+<div class="sv-vertical sv-layout fk-statistik-top row contentsida sv-template-layout" id="svid10_2807d9c217c1f015673a8e"><div class="sv-custom-module sv-fk-browser-warning sv-skip-spacer sv-template-portlet
+" id="svid12_2807d9c217c1f015673a8f"><div id="fkbrowserwarning"><!-- fk-browser-warning --></div><div data-cid="9efd629f-9aaf-8d02-9397-7cdeba492764">
+
+<noscript>
+    <div class="driftmeddelande">
+        <div class="rubrik">Aktivera JavaScript</div>
+        <p class="text small-12 medium-8 large-8">Du verkar inte ha JavaScript aktiverat i din webbläsare. För att kunna använda alla funktioner på Försäkringskassans webbplats måste du tillåta JavaScript i din webbläsare eller uppgradera till en webbläsare som kan hantera JavaScript.</p>
+    </div>
+</noscript>
+<div id="old-browser" class="hide">
+    <div class="driftmeddelande">
+        <div class="rubrik">Tänk på att...</div>
+        <p class="text small-12 medium-8 large-8">Din webbläsare är av en äldre modell. Det innebär att du kanske inte kan använda alla funktioner på webbplatsen. Vi rekommenderar att du uppdaterar till en nyare version.</p>
+    </div>
+</div>
+<script src="/webapp-files/4.2e55fe04183b9d0c427d2/360.214bed8e18fd69fcfd2137/1718090471359/web-client.js"></script>
+<script>
+    var browserVersions = {
+        chromeVersionSLA: 55,
+        firefoxVersionSLA: 51,
+        internetExplorerVersionSLA: 12,
+        safariVersionSLA: 9,
+        mobileSafariVersionSLA: 9,
+        samsungAndroidSLA: 5,
+    };
+    browserWarning(browserVersions, document.getElementById('old-browser'));
+</script>
+</div><script nonce="6a2df6f0-dbca-11f1-8ce6-1513cbc0553f">AppRegistry.registerBootstrapData('12.2807d9c217c1f015673a8f','9efd629f-9aaf-8d02-9397-7cdeba492764','main',[],undefined);</script><script nonce="6a2df6f0-dbca-11f1-8ce6-1513cbc0553f">AppRegistry.registerInitialState('12.2807d9c217c1f015673a8f',{"browserVersions":{"chromeVersionSLA":"55","firefoxVersionSLA":"51","internetExplorerVersionSLA":"12","safariVersionSLA":"9","mobileSafariVersionSLA":"9","samsungAndroidSLA":"5"},"route":"/"});</script>
+<script nonce="6a2df6f0-dbca-11f1-8ce6-1513cbc0553f">AppRegistry.registerApp({applicationId:'fk-browser-warning|1.1.0',htmlElementId:'svid12_2807d9c217c1f015673a8f',route:'/',portletId:'12.2807d9c217c1f015673a8f',locale:'sv',defaultLocale:'en',webAppId:'fk-browser-warning',webAppVersion:'1.1.0',webAppAopId:'360.214bed8e18fd69fcfd2137',webAppImportTime:'1718090471359',requiredLibs:{},childComponentStateExtractionStrategy:'BY_ID'});</script></div>
+<main class="sv-vertical sv-layout sv-template-layout" id="svid10_2807d9c217c1f015673a97"><div id="svid94_2807d9c217c1f015673abc"><div class="sv-vertical sv-layout sv-skip-spacer sv-template-layout" id="svid10_2807d9c217c1f015673abd"><div id="svid94_2e55fe04183b9d0c427dc" class="pagecontent sv-layout"><div id="Mittenspalt"><!-- Mittenspalt --></div><div class="sv-html-portlet sv-portlet sv-skip-spacer" id="svid12_7cd2923018425d8c4fc148f"><div id="HTMLMEKAbrodsmulor"><!-- HTML - MEKA brödsmulor --></div><script>
+    window.fkMekaBreadbrumbs = [{
+        href: "/",
+        title: "Hem"
+    },
+        {
+            href: "/statistik-och-analys",
+            title: "Statistik och analys",
+        },
+        {
+            href: "/statistik-och-analys/statistikdatabas",
+            title: "Statistikdatabas",
+        },
+    ];
+</script></div>
+<main class="sv-vertical sv-layout" id="svid10_7cd2923018425d8c4fc1490"><div class="sv-custom-module sv-exp-spr-statistikdatabas-sp sv-skip-spacer" id="svid12_7cd2923018425d8c4fc1491"><div id="expsprstatistikdatabassp"><!-- exp-spr-statistikdatabas-sp --></div><div data-cid="73128eb2-1983-085d-0ad4-38151465a5c4"><div>
+    
+    <link rel="stylesheet" href="/webapp-files/4.2e55fe04183b9d0c427d2/360.9fd5de919ac9bfb0a51f1/1765185491352/portlet.css?1765185491352" type="text/css" />
+    <script src="/webapp-files/4.2e55fe04183b9d0c427d2/360.9fd5de919ac9bfb0a51f1/1765185491352/jquery.min.js?1765185491352"></script>
+
+    
+    <div class="application-scope">
+        <div ng-app="fk.meka" class="fk-meka">
+            <fk-app></fk-app>
+        </div>
+    </div>
+
+    
+    <script src="/webapp-files/4.2e55fe04183b9d0c427d2/360.9fd5de919ac9bfb0a51f1/1765185491352/libs.js?1765185491352"></script>
+    <script src="/webapp-files/4.2e55fe04183b9d0c427d2/360.9fd5de919ac9bfb0a51f1/1765185491352/app.js?1765185491352"></script>
+
+    
+    <script>
+        angular.module("fk.meka").constant("envConfig", {
+            assetsPath: '/webapp-files/4.2e55fe04183b9d0c427d2/360.9fd5de919ac9bfb0a51f1/1765185491352/assets',
+            jsPath: '/webapp-files/4.2e55fe04183b9d0c427d2/360.9fd5de919ac9bfb0a51f1/1765185491352/',
+        });
+    </script>
+</div>
+</div><script nonce="6a2df6f0-dbca-11f1-8ce6-1513cbc0553f">AppRegistry.registerBootstrapData('12.7cd2923018425d8c4fc1491','73128eb2-1983-085d-0ad4-38151465a5c4','main',[],undefined);</script><script nonce="6a2df6f0-dbca-11f1-8ce6-1513cbc0553f">AppRegistry.registerInitialState('12.7cd2923018425d8c4fc1491',{"config":{"appImportDate":1765185491352},"route":"/"});</script>
+<script nonce="6a2df6f0-dbca-11f1-8ce6-1513cbc0553f">AppRegistry.registerApp({applicationId:'exp-spr-statistikdatabas-sp|3.5.0',htmlElementId:'svid12_7cd2923018425d8c4fc1491',route:'/',portletId:'12.7cd2923018425d8c4fc1491',locale:'sv',defaultLocale:'en',webAppId:'exp-spr-statistikdatabas-sp',webAppVersion:'3.5.0',webAppAopId:'360.9fd5de919ac9bfb0a51f1',webAppImportTime:'1765185491352',requiredLibs:{},childComponentStateExtractionStrategy:'BY_ID'});</script></div>
+</main>
+<div class="sv-custom-module sv-fk-dela-sidan" id="svid12_7cd2923018425d8c4fc1493"><div id="fkdelasidan"><!-- fk-dela-sidan --></div><div data-cid="12.7cd2923018425d8c4fc1493"><div class="fk-dela-sidan-scope"><div class="fk-dela-komponent "><div><h2>Dela sidan</h2>
+                <ul id="fk-dela-lankar"><li><a href="https://facebook.com/sharer.php?u=https%3A%2F%2Fwww.forsakringskassan.se%2Fstatistik-och-analys%2Fstatistikdatabas" class="anchor anchor--discrete ikon ikon-facebook" target="_blank"><span class="show-for-sr">Dela sidan på </span>
+        <span>Facebook</span>
+        <span class="show-for-sr"> (öppnas i nytt fönster)</span></a></li>
+                    <li><a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.forsakringskassan.se%2Fstatistik-och-analys%2Fstatistikdatabas" class="anchor anchor--discrete ikon ikon-X" target="_blank"><span class="show-for-sr">Dela sidan på </span>
+        <span>X</span>
+        <span class="show-for-sr"> (öppnas i nytt fönster)</span></a></li>
+                    <li><a href="mailto:?subject=Tips om information på Försäkringskassans webbplats&amp;body=Hej%0D%0A%0D%0AJag vill tipsa dig om en sida på forsakringskassan.se som jag tror kan vara intressant för dig.%0D%0A%0D%0AKolla på den här sidan: https%3A%2F%2Fwww.forsakringskassan.se%2Fstatistik-och-analys%2Fstatistikdatabas" class="anchor anchor--discrete ikon ikon-mail" target="_blank"><span class="show-for-sr">Dela sidan med </span>
+        <span>Mejl</span>
+        <span class="show-for-sr"> (öppnas i nytt fönster)</span></a></li>
+                    </ul></div></div></div></div><script nonce="6a2df6f0-dbca-11f1-8ce6-1513cbc0553f" >AppRegistry.registerBootstrapData('12.7cd2923018425d8c4fc1493','12.7cd2923018425d8c4fc1493','AGNOSTIC_RENDERER');</script><script nonce="6a2df6f0-dbca-11f1-8ce6-1513cbc0553f">AppRegistry.registerInitialState('12.7cd2923018425d8c4fc1493',{"isRTL":false,"settings":{"pageURL":"https://www.forsakringskassan.se/statistik-och-analys/statistikdatabas","show":true,"isJobbAnnons":false,"language":"sv"}});</script>
+<script nonce="6a2df6f0-dbca-11f1-8ce6-1513cbc0553f">AppRegistry.registerApp({applicationId:'fk-dela-sidan|1.3.4',htmlElementId:'svid12_7cd2923018425d8c4fc1493',route:'/',portletId:'12.7cd2923018425d8c4fc1493',locale:'sv',defaultLocale:'en',webAppId:'fk-dela-sidan',webAppVersion:'1.3.4',webAppAopId:'360.2e00182d195e42fd6d4389',webAppImportTime:'1743491106761',requiredLibs:{}});</script></div>
+</div></div>
+</div></main>
+</div>
+</div></div>
+<div class="sv-vertical sv-layout sv-template-layout" id="svid10_1ae7c17b16e61d8933141b3"><div class="sv-custom-module sv-fk-footer sv-skip-spacer sv-template-portlet
+" id="svid12_5317bde9174dd94ff58620"><div id="fkfooter"><!-- fk-footer --></div><div data-cid="bfd1b6f6-1b6f-ba8c-d134-d0ca7dce4d55"><script>
+    function onClick() {
+        const _paq = window._paq || [];
+        _paq.push(["trackEvent", "sidfot", "Telefonnummer i sidfot klickad på", window.location]);
+    }
+</script>
+<footer lang="sv">
+    <div class="row fk-footer-head">
+        <div class="small-12 columns large-11 large-centered clearfix fk-footer-head-area">
+            <div class="small-12 medium-12 large-4 columns fk-contact-info-col">
+                <div class="small-12 medium-5 medium-offset-1 large-12 large-offset-0 columns">
+                    <div class="fk-customer-head">
+                        <div class="fk-customer-head-info">
+                            <h1 class="no-icon">
+                                <span class="fk-customer-head-txt">Kundcenter för privatperson</span>
+                                <span class="fk-customer-head-txt"></span>
+                            </h1>
+                            <span class="sr-only">Telefon</span>
+                            <a class="fk-customer-head-nbr" href="tel:+46771524524" onclick="onClick()">
+                                0771-524 524
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="small-12 medium-5 large-12 columns end">
+                    <div class="fk-week-info">
+                        <p class="clearfix">
+                            <span class="sr-only">Öppettider</span>
+                            Måndag&ndash;fredag: 8&ndash;16
+                            <br />
+                            Lördag&ndash;söndag: stängt
+                            <br />
+                            Helgdag: stängt
+                        </p>
+                    </div>
+                    <div class="fk-more-contact">
+                        <a href="/kontakta-forsakringskassan" class="anchor"
+                            >Fler kontaktuppgifter</a
+                        >
+                    </div>
+                </div>
+            </div>
+
+            <div class="fk-footer-subrow">
+                <div class="small-12 large-4 large-offset-0 columns fk-link-info-col">
+                    <div class="fk-link-info">
+                        
+                        <div 
+                            lang=sv >
+                            <span>
+                                <a href="/om-forsakringskassan" class="anchor">Om Försäkringskassan</a>
+                            </span>
+                        </div>
+                        
+                        <div 
+                            lang=sv >
+                            <span>
+                                <a href="/press" class="anchor">Press</a>
+                            </span>
+                        </div>
+                        
+                        <div 
+                            lang=sv >
+                            <span>
+                                <a href="/om-webbplatsen" class="anchor">Om webbplatsen</a>
+                            </span>
+                        </div>
+                        
+                        <div 
+                            lang=sv >
+                            <span>
+                                <a href="/privatperson/utbetalningsdatum-och-handlaggningstider" class="anchor">Utbetalningsdatum och handläggningstider</a>
+                            </span>
+                        </div>
+                        
+                        <div 
+                            lang=sv >
+                            <span>
+                                <a href="/om-forsakringskassan/behandling-av-personuppgifter" class="anchor">Behandling av personuppgifter</a>
+                            </span>
+                        </div>
+                        
+                        <div 
+                            lang=en >
+                            <span>
+                                <a href="/information-in-other-languages" class="anchor">Information in other languages</a>
+                            </span>
+                        </div>
+                        
+                    </div>
+                </div>
+                <div class="small-12 large-4 columns end fk-logo-info-col">
+                    <div class="fk-logo">
+                        <a href="/" class="fk-logo-link" title="Startsidan - www.forsakringskassan.se">
+                            <span class="sr-only">Startsidan - www.forsakringskassan.se</span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="row fk-footer-bottom">
+        <div class="small-12 medium-12 large-11 large-centered columns fk-footer-bottom-area">
+            <div class="small-12 medium-10 medium-offset-1 large-12 large-offset-0 columns fk-social-media-group">
+                <div>
+                    <span class="follow-media">Följ oss på</span>
+                    <ul>
+                        
+                        <li>
+                            <a id="fk-facebook" class="anchor" href="https://www.facebook.com/foralder"
+                                ><img
+                                    class="fk-social-media-group__image"
+                                    src="/webapp-files/fk-footer/2.5.1/images/20x20-facebook.png"
+                                    alt=""
+                                /><span>Facebook</span></a
+                            >
+                        </li>
+                         
+                        <li>
+                            <a id="fk-instagram" class="anchor" href="https://www.instagram.com/forsakringskassan.se/"
+                                ><img
+                                    class="fk-social-media-group__image"
+                                    src="/webapp-files/fk-footer/2.5.1/images/20x20-instagram.png"
+                                    alt=""
+                                /><span>Instagram</span></a
+                            >
+                        </li>
+                         
+                        <li>
+                            <a id="fk-twitter" class="anchor" href="https://twitter.com/fk_media"
+                                ><img
+                                    class="fk-social-media-group__image"
+                                    src="/webapp-files/fk-footer/2.5.1/images/20x20-x.png"
+                                    alt=""
+                                /><span>X</span></a
+                            >
+                        </li>
+                         
+                        <li>
+                            <a id="fk-linkedin" class="anchor" href="https://www.linkedin.com/company/forsakringskassan"
+                                ><img
+                                    class="fk-social-media-group__image"
+                                    src="/webapp-files/fk-footer/2.5.1/images/20x20-linkedin.png"
+                                    alt=""
+                                /><span>LinkedIn</span></a
+                            >
+                        </li>
+                         
+                        <li>
+                            <a id="fk-youtube" class="anchor" href="https://www.youtube.com/user/ForsakringskassanSE"
+                                ><img
+                                    class="fk-social-media-group__image"
+                                    src="/webapp-files/fk-footer/2.5.1/images/20x20-youtube.png"
+                                    alt=""
+                                /><span>Youtube</span></a
+                            >
+                        </li>
+
+                        
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+</div><script nonce="6a2df6f0-dbca-11f1-8ce6-1513cbc0553f">AppRegistry.registerBootstrapData('12.5317bde9174dd94ff58620','bfd1b6f6-1b6f-ba8c-d134-d0ca7dce4d55','main',[],undefined);</script><script nonce="6a2df6f0-dbca-11f1-8ce6-1513cbc0553f">AppRegistry.registerInitialState('12.5317bde9174dd94ff58620',{"props":{"socialaMedierYoutubeHref":"https://www.youtube.com/user/ForsakringskassanSE","kontaktTextExtra":"","flerKontaktuppgifterText":"Fler kontaktuppgifter","fkLogoPlatsId":"/","socialaMedierLinkedinHref":"https://www.linkedin.com/company/forsakringskassan","fkLogoTitle":"Startsidan - www.forsakringskassan.se","lanklista":[{"lang":"lang=sv","dir":"","uri":"/om-forsakringskassan","displayName":"Om Försäkringskassan"},{"lang":"lang=sv","dir":"","uri":"/press","displayName":"Press"},{"lang":"lang=sv","dir":"","uri":"/om-webbplatsen","displayName":"Om webbplatsen"},{"lang":"lang=sv","dir":"","uri":"/privatperson/utbetalningsdatum-och-handlaggningstider","displayName":"Utbetalningsdatum och handläggningstider"},{"lang":"lang=sv","dir":"","uri":"/om-forsakringskassan/behandling-av-personuppgifter","displayName":"Behandling av personuppgifter"},{"lang":"lang=en","dir":"","uri":"/information-in-other-languages","displayName":"Information in other languages"}],"locale":"sv","socialaMedierFacebookHref":"https://www.facebook.com/foralder","kontaktTelefonnummerSkarmlasare":"Telefon","oppettiderRad1":"Måndag&ndash;fredag: 8&ndash;16","kontaktText":"Kundcenter för privatperson","kontaktTelefonnummerHref":"tel:+46771524524","oppettiderRad2":"Lördag&ndash;söndag: stängt","kontaktTelefonnummer":"0771-524 524","lanklistaRadbrytIndex":"6","resourceUrl":"/webapp-files/fk-footer/2.5.1/","oppettiderRad3":"Helgdag: stängt","flerKontaktuppgifterPlatsId":"/kontakta-forsakringskassan","oppettiderSkarmlasare":"Öppettider","socialaMedierInstagramHref":"https://www.instagram.com/forsakringskassan.se/","socialaMedierTwitterHref":"https://twitter.com/fk_media","socialaMedierFolj":"Följ oss på"},"route":"/"});</script>
+<script nonce="6a2df6f0-dbca-11f1-8ce6-1513cbc0553f">AppRegistry.registerApp({applicationId:'fk-footer|2.5.1',htmlElementId:'svid12_5317bde9174dd94ff58620',route:'/',portletId:'12.5317bde9174dd94ff58620',locale:'sv',defaultLocale:'en',webAppId:'fk-footer',webAppVersion:'2.5.1',webAppAopId:'360.37e31c0d19dc7232e3ae5',webAppImportTime:'1778144619425',requiredLibs:{},childComponentStateExtractionStrategy:'BY_ID'});</script></div>
+</div>
+</div>
+</div><div class="sv-custom-module sv-fkse-matomo sv-skip-spacer sv-template-portlet
+" id="svid12_2bf3af9018425d7d4ad6db"><div id="fksematomo"><!-- fkse-matomo --></div><div data-cid="12.2bf3af9018425d7d4ad6db"><!--[--><div class="fkse-matomo"></div><!--]--></div><script nonce="6a2df6f0-dbca-11f1-8ce6-1513cbc0553f" >AppRegistry.registerBootstrapData('12.2bf3af9018425d7d4ad6db','12.2bf3af9018425d7d4ad6db','AGNOSTIC_RENDERER');</script><script nonce="6a2df6f0-dbca-11f1-8ce6-1513cbc0553f">AppRegistry.registerInitialState('12.2bf3af9018425d7d4ad6db',{"matomoConfig":{"trackerUrl":"https://webstats.forsakringskassan.se/matomo/","siteId":"1","apiUrl":"https://webstats.forsakringskassan.se/matomo/"},"settings":{"isHLDomain":false,"scrubUrl":false,"trackHashChange":true,"trackEditorContent":false,"activateEServiceListener":false}});</script>
+<script nonce="6a2df6f0-dbca-11f1-8ce6-1513cbc0553f">AppRegistry.registerApp({applicationId:'fkse-matomo|1.5.3',htmlElementId:'svid12_2bf3af9018425d7d4ad6db',route:'/',portletId:'12.2bf3af9018425d7d4ad6db',locale:'sv',defaultLocale:'en',webAppId:'fkse-matomo',webAppVersion:'1.5.3',webAppAopId:'360.48ba16881a0e048bf401e',webAppImportTime:'1790665486102',requiredLibs:{}});</script></div>
+</div>
+
+
+
+
+<script src="/sitevision/system-resource/cd8c5a46a43488b0c636b9580492c9575fa3f4d5aae324d93bb1f2036ebbdf54/js/jquery.js"></script>
+<script src="/sitevision/system-resource/cd8c5a46a43488b0c636b9580492c9575fa3f4d5aae324d93bb1f2036ebbdf54/envision/envision.js"></script>
+<script src="/sitevision/system-resource/cd8c5a46a43488b0c636b9580492c9575fa3f4d5aae324d93bb1f2036ebbdf54/js/utils.js"></script>
+<script src="/sitevision/system-resource/cd8c5a46a43488b0c636b9580492c9575fa3f4d5aae324d93bb1f2036ebbdf54/js/portlets.js"></script>
+
+<script src="/download/18.398e2a521762d5349877c4/1791791092761/fk_body.min.js"></script>
+<script src="/webapp-resource/4.2e55fe04183b9d0c427d2/360.48ba16881a0e048bf4026/1790665495729/webapp-assets.js"></script>
+<script src="/webapp-resource/4.2e55fe04183b9d0c427d2/360.670c766918e0dd6eacd331/1712750679807/webapp-assets.js"></script>
+<script src="/webapp-resource/4.2e55fe04183b9d0c427d2/360.2e00182d195e42fd6d4389/1743491106761/webapp-assets.js"></script>
+<script src="/webapp-resource/4.2e55fe04183b9d0c427d2/360.18f303471a04a58fa261/1788246256672/webapp-assets.js"></script>
+<script src="/webapp-resource/4.2e55fe04183b9d0c427d2/360.3725d3051758820458d232/1604500545184/webapp-assets.js"></script>
+<script src="/webapp-resource/4.2e55fe04183b9d0c427d2/360.48ba16881a0e048bf4029/1790665499068/webapp-assets.js"></script>
+<script src="/webapp-resource/4.2e55fe04183b9d0c427d2/360.73a0b7441a0e04b958f12c/1792414496659/webapp-assets.js"></script>
+<script src="/webapp-resource/4.2e55fe04183b9d0c427d2/360.214bed8e18fd69fcfd2137/1718090471359/webapp-assets.js"></script>
+<script src="/webapp-resource/4.2e55fe04183b9d0c427d2/360.48ba16881a0e048bf4023/1790665492574/webapp-assets.js"></script>
+<script src="/webapp-resource/4.2e55fe04183b9d0c427d2/360.215378bf1888fa695b84d0/1692877810128/webapp-assets.js"></script>
+<script src="/webapp-resource/4.2e55fe04183b9d0c427d2/360.2e00182d195e42fd6d43a8/1743491127066/webapp-assets.js"></script>
+<script src="/webapp-resource/4.2e55fe04183b9d0c427d2/360.37e31c0d19dc7232e3ae5/1778144619425/webapp-assets.js"></script>
+<script src="/webapp-resource/4.2e55fe04183b9d0c427d2/360.215378bf1888fa695b84d2/1692877812895/webapp-assets.js"></script>
+<script src="/webapp-resource/4.2e55fe04183b9d0c427d2/360.48ba16881a0e048bf401e/1790665486102/webapp-assets.js"></script>
+<script src="/webapp-resource/4.2e55fe04183b9d0c427d2/360.9fd5de919ac9bfb0a51f1/1765185491352/webapp-assets.js"></script>
+<script src="/webapp-resource/4.2e55fe04183b9d0c427d2/360.5f51ed1719f1ca5dfcf6b/1787643223868/webapp-assets.js"></script>
+<script src="/webapp-resource/4.2e55fe04183b9d0c427d2/360.2e00182d195e42fd6d439b/1743491117891/webapp-assets.js"></script>
+<script src="/sitevision/system-resource/cd8c5a46a43488b0c636b9580492c9575fa3f4d5aae324d93bb1f2036ebbdf54/webapps/webapp_sdk-legacy.js"></script>
+</body>
+</html>

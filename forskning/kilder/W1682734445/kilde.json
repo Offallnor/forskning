@@ -1,0 +1,19 @@
+{
+ "apen_url": "https://mpra.ub.uni-muenchen.de/56767/1/MPRA_paper_56767.pdf",
+ "ar": 2014,
+ "forfattere": [
+  "Roberto Bande",
+  "Elva López Mourelo"
+ ],
+ "hentet": "2026-11-08",
+ "hentet_fra": "https://mpra.ub.uni-muenchen.de/56767/1/MPRA_paper_56767.pdf",
+ "hvordan": "pdf",
+ "id": "W1682734445",
+ "kilde": "Munich Personal RePEc Archive (Ludwig Maximilian University of Munich)",
+ "lenke": "https://openalex.org/W1682734445",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "This paper analyses the spatial distribution of workplace accidents in Spain and analyses the role of economic and institutional variables in this geographical outcome. After estimating an econometric model that explains regional variation in job accidents incidence, we compute conditional regional distributions of workplace accidents under the assumption of no regional variation in workplace inspections. Results show that much of the regional differences in severe and fatal accidents are explained by different inspection intensities. This calls for a regional homogenization of the inspection activities, in contrast to the current situation.",
+ "tittel": "The spatial distribution of workplace accidents in Spain: assessing the role of workplace inspections",
+ "type": "report"
+}

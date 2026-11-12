@@ -1,0 +1,25 @@
+{
+ "apen_url": "https://bmcpublichealth.biomedcentral.com/counter/pdf/10.1186/s12889-015-2125-3",
+ "ar": 2015,
+ "doi": "https://doi.org/10.1186/s12889-015-2125-3",
+ "forfattere": [
+  "Karlijn M. van Beurden",
+  "Jac J. L. van der Klink",
+  "Evelien P. M. Brouwers",
+  "Margot C. W. Joosen",
+  "Jolanda J. P. Mathijssen",
+  "Berend Terluin",
+  "Jaap van Weeghel"
+ ],
+ "hentet": "2026-11-09",
+ "hentet_fra": "https://bmcpublichealth.biomedcentral.com/counter/pdf/10.1186/s12889-015-2125-3",
+ "hvordan": "pdf",
+ "id": "W1836119245",
+ "kilde": "BMC Public Health",
+ "lenke": "https://openalex.org/W1836119245",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "BACKGROUND: Since a higher level of self-efficacy in common mental disorders is associated with earlier return-to-work (RTW), it is important to know if work related self-efficacy can be increased by occupational health care. The primary aim of this study was to evaluate whether an intervention to enhance guideline adherence of occupational physicians lead to an increase in RTW self-efficacy in workers three months later. The secondary aim was to evaluate whether the intervention modified the association between RTW self-efficacy and return-to-work three months later. METHODS: A total of 66 occupational physicians participated in the study. They were randomized into two groups; the intervention group received a training, the control group did not. The training aimed to enhance adherence to a mental health guideline that contained strategies that are supposed to enhance RTW self-efficacy. In 128 sick-listed workers guided by these occupational physicians, RTW self-efficacy, RTW, and personal, health-related and work-related variables were measured at baseline and three months later. Generalized linear mixed models analysis and linear mixed models analysis were used for the evaluations. RESULTS: In workers whose occupational physicians had received the training RTW self-efficacy increased significantly more than in workers whose occupational physicians had participated in the control group (t = -2.626, p ≤ .05). Higher baseline RTW self-efficacy scores were significantly more often associated with full RTW than with no RTW three months later (OR 2.20, 95 % CI 1.18-4.07), but the intervention did not affect this association. CONCLUSIONS: This study showed that a training to enhance guideline adherence of occupational physicians leads to increased RTW self-efficacy in workers sick-listed with common mental disorders during the first months of sickness absence in a real-life occupational health care setting. This insight is helpful for optimizing the recovery and RTW process, and for understanding the role of RTW self-efficacy in this process. TRIAL REGISTRATION: ISRCTN86605310.",
+ "tittel": "Effect of an intervention to enhance guideline adherence of occupational physicians on return-to-work self-efficacy in workers sick-listed with common mental disorders",
+ "type": "article"
+}

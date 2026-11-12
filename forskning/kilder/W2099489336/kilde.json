@@ -1,0 +1,18 @@
+{
+ "apen_url": "http://bibliothek.wzb.eu/pdf/2002/i02-207.pdf",
+ "ar": 2002,
+ "forfattere": [
+  "Markus Gangl"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "http://bibliothek.wzb.eu/pdf/2002/i02-207.pdf",
+ "hvordan": "pdf",
+ "id": "W2099489336",
+ "kilde": "Social Science Open Access Repository (GESIS – Leibniz Institute for the Social Sciences)",
+ "lenke": "https://openalex.org/W2099489336",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "'Economic job search theory offers two complementary predictions about the effects of unemployment benefits on job search outcomes among unemployed workers. By raising workers' reservation wages, unemployment benefits should contribute to both prolonged spell duration and improved post-unemployment job quality. In contrast to many previous empirical studies that have addressed the negative benefit effect on duration only, the current paper jointly addresses the causal effect of unemployment benefits on both unemployment duration and post-unemployment job quality. Based on discrete-time event history methods and U.S. and German panel data for the 1980s and 1990s, the paper establishes empirical support for both types of benefit effects in both countries. Hence, the effect of unemployment benefits on employment careers is more appropriately described as career stabilization induced by welfare state provision of job search resources. Against some prolongation of unemployment spells, unemployment benefits effectively enable workers to maintain previously accumulated human capital by fostering adequate reemployment in terms of earnings, occupations, or job duration. Consistent with this view, unemployment benefits turn out as particularly effective in preventing severe losses in postunemployment job quality, but also in terms of maintaining job quality among highskill workers. Through these effects of benefits on job histories, cross-national differences in welfare state generosity also assume an important role in explaining U.S.-German differences in terms of unemployment dynamics.' (author's abstract)",
+ "tittel": "Welfare State Stabilization of Employment Careers: Unemployment Benefits and Job Histories in the United States and West Germany",
+ "type": "report"
+}

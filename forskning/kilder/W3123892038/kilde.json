@@ -1,0 +1,16 @@
+{
+ "apen_url": "https://papers.ssrn.com/sol3/Delivery.cfm?abstractid=552042",
+ "ar": 2009,
+ "doi": "https://doi.org/10.1111/j.1468-0475.2009.00479.x",
+ "forfattere": [
+  "Bernd Fitzenberger",
+  "Ralf A. Wilke"
+ ],
+ "id": "W3123892038",
+ "kilde": "German Economic Review",
+ "lenke": "https://openalex.org/W3123892038",
+ "oversikt": false,
+ "sammendrag": "Abstract This paper analyzes empirically the distribution of unemployment durations in West Germany during the 1980s and 1990s. It therefore covers periods before and after the changes during the mid-1980s in the maximum entitlement periods for unemployment benefits for older unemployed. The analysis is based on the IAB employment subsample containing administrative data for about 500,000 individuals. Since these data only partly reveal the unemployment duration in an economic sense, we use a narrow and a wide proxy for unemployment. Our empirical analysis finds significant changes in the distribution of non-employment durations for older unemployed. At the same time, the distribution of unemployment durations between jobs remained unchanged after the reforms. Our findings clearly show that many firms and workers used the more beneficial laws as a part of early retirement packages. Surprisingly, for those workers who found and accepted a new job, we do not observe a prolongation of their search periods to a sizeable extent.",
+ "tittel": "Unemployment Durations in West Germany Before and After the Reform of the Unemployment Compensation System during the 1980s",
+ "type": "article"
+}

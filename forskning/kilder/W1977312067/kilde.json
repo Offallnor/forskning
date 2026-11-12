@@ -1,0 +1,14 @@
+{
+ "ar": 1991,
+ "doi": "https://doi.org/10.2307/2109512",
+ "forfattere": [
+  "Bruce Chelimsky Fallick"
+ ],
+ "id": "W1977312067",
+ "kilde": "The Review of Economics and Statistics",
+ "lenke": "https://openalex.org/W1977312067",
+ "oversikt": false,
+ "sammendrag": "The rate of transition from unemployment to re-employment for a sample of displaced workers is estimated using a semiparametric specification which allows the effects of unemployment insurance benefits to vary over time. Three results which would be missed by more restrictive specifications demonstrate the value of this approach: (1) The effects of UI benefits decline and eventually disappear as the date of expiration approaches, (2) Expiration of UI benefits are an inadequate explanation of the spikes commonly observed in nonparametric sample hazard rates for re-employment, (3) UI benefits do not significantly affect the rate at which a displaced worker becomes re-employed in his or her previous industry, but reduce the rate for transitions to other industries. Copyright 1991 by MIT Press.",
+ "tittel": "Unemployment Insurance and the Rate of Re-Employment of Displaced Workers",
+ "type": "article"
+}

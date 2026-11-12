@@ -1,0 +1,20 @@
+{
+ "apen_url": "https://doi.org/10.2139/ssrn.1136291",
+ "ar": 2012,
+ "doi": "https://doi.org/10.1111/j.1542-4774.2012.01071.x",
+ "forfattere": [
+  "Alan B. Krueger",
+  "Andreas I. Mueller"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "https://docs.iza.org/dp3490.pdf",
+ "hvordan": "pdf",
+ "id": "W1548005159",
+ "kilde": "Journal of the European Economic Association",
+ "lenke": "https://openalex.org/W1548005159",
+ "merknad": "ÅPEN VERSJON (preprint eller arbeidsnotat), merkes i svaret",
+ "oversikt": false,
+ "sammendrag": "This paper provides new evidence on the time use of employed and unemployed individuals in 14 countries. We devote particular attention to characterizing and modeling job search intensity, measured by the amount of time devoted to searching for a new job. Job search intensity varies considerably across countries, and is higher in countries that have higher wage dispersion. We also examine the relationship between unemployment benefits and job search.",
+ "tittel": "THE LOT OF THE UNEMPLOYED: A TIME USE PERSPECTIVE",
+ "type": "article"
+}

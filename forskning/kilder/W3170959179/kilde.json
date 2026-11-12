@@ -1,0 +1,25 @@
+{
+ "apen_url": "https://bmcpublichealth.biomedcentral.com/counter/pdf/10.1186/s12889-021-11181-1",
+ "ar": 2021,
+ "doi": "https://doi.org/10.1186/s12889-021-11181-1",
+ "forfattere": [
+  "Pauliina Mattila‐Holappa",
+  "Johanna Kausto",
+  "Ville Aalto",
+  "Leena Kaila‐Kangas",
+  "Mika Kivimaki B",
+  "Tuula Oksanen",
+  "Jenni M Ervasti"
+ ],
+ "hentet": "før 2026-11-08",
+ "hentet_fra": "https://bmcpublichealth.biomedcentral.com/counter/pdf/10.1186/s12889-021-11181-1",
+ "hvordan": "pdf",
+ "id": "W3170959179",
+ "kilde": "BMC Public Health",
+ "lenke": "https://openalex.org/W3170959179",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "PURPOSE: Alternative duty work is a procedure that enables an employee with a short-term disability to perform modified duties as an alternative to sickness absence. We examined whether the implementation of an alternative duty policy was associated with reduced sickness absence in the Finnish public sector. METHODS: Two city administrations (A and D) that implemented an alternative duty work policy to their employees (n = 5341 and n = 7538) served as our intervention cities, and two city administrations (B and C) that did not implement the policy represented the reference cities (n = 6976 and n = 6720). The outcomes were the number of annual days, all episodes, and short-term (< 10 days) episodes during the 2 years before versus the 2 years after the intervention year. We applied repeated measures negative binomial regression analyses, using the generalized estimating equations method and the difference-in-difference analysis to compare the intervention and control cities (adjusted for sex, age, type of job contract, occupational class). RESULTS: During the five-year study period, the number of sickness absence days and episodes increased in both the intervention and control cities. Covariate-adjusted analysis of relative risk showed that the overall increase in post- versus pre-intervention sickness absence days was smaller in intervention City A, RR = 1.14 (95% CI = 1.09-1.21) than in control cities B and C, RR = 1.19 (95% CI =1.14-1.24), group × time interaction p < 0.02. In intervention City D, we found a corresponding result regarding all sickness absence episodes and short-term sickness absence episodes but not days. CONCLUSIONS: This follow-up suggests that implementing an alternative duty work policy may marginally decrease employees' sickness absences.",
+ "tittel": "Alternative duty work as workplace-initiated procedure to reduce sickness absence",
+ "type": "article"
+}

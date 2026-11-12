@@ -1,0 +1,19 @@
+{
+ "apen_url": "http://hdl.handle.net/10419/31054",
+ "ar": 2003,
+ "doi": "https://doi.org/10.5282/ubm/epub.1720",
+ "forfattere": [
+  "Wolff, J."
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "https://epub.ub.uni-muenchen.de/1720/1/paper_344.pdf",
+ "hvordan": "pdf",
+ "id": "W1934747746",
+ "kilde": "Econstor (Econstor)",
+ "lenke": "https://openalex.org/W1934747746",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "This paper studies the impact of unemployment benefits on unemployment duration for East Germany using data from the German Socio-Economic Panel. It concentrates on exit from unemployment into employment. Estimation results of a discrete-time hazard rate model imply that moderate cuts in the replacement rate raise the hazards by little. The effect of the replacement rate on the hazards becomes weaker the longer people are unemployed. The threat of periods of benefit sanction could explain this. The hazards are not generally declining in time until exhausting unemployment insurance (UI) benefits, but rise just prior to exhausting UI.",
+ "tittel": "Unemployment Benefits and the Duration of Unemployment in East Germany",
+ "type": "report"
+}

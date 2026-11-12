@@ -1,0 +1,26 @@
+{
+ "apen_url": "https://www.sjweh.fi/download.php?abstract_id=4248&file_nro=1",
+ "ar": 2025,
+ "doi": "https://doi.org/10.5271/sjweh.4248",
+ "forfattere": [
+  "Britt Elin Øiestad",
+  "Esther T. Maas",
+  "Fiona Aanesen",
+  "Alexander Tingulstad",
+  "Tarjei Langseth Rysstad",
+  "Maurits W. van Tulder",
+  "Anne Therese Tveter",
+  "Milada C. Hagen"
+ ],
+ "hentet": "2026-11-09",
+ "hentet_fra": "https://www.sjweh.fi/pdf-236342-144199?filename=Effectiveness-of-two-voca.pdf",
+ "hvordan": "pdf",
+ "id": "W4414083791",
+ "kilde": "Scandinavian Journal of Work Environment & Health",
+ "lenke": "https://openalex.org/W4414083791",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "OBJECTIVES: This study aimed to assess 12-month outcomes on return to work (RTW) and cost-effectiveness in adults on sick leave due to musculoskeletal disorders who were randomized to either usual case management (UC), UC+motivational interviewing (MI) or UC+stratified vocational advice intervention (SVAI). METHODS: The study was conducted in the Norwegian Labor and Welfare Administration (NAV). Workers on sick leave due to musculoskeletal disorders for ≥50% of their contracted work hours for ≥7 consecutive weeks were included. Trained caseworkers delivered MI in two face-to-face sessions, and physiotherapists provided SVAI and identified RTW obstacles. The main outcomes were sick leave days over 12 months and cost-effectiveness, cost-utility and cost-benefit. RESULTS: The trial included 509 workers with a mean age of 48 years. There were statistically significant differences between UC+MI versus UC [-15.6 days, 95% confidence interval (CI) -31.0- -0.2], and UC+SVAI versus UC (-17.6 days, 95% CI -33.0- -2.2). Compared to UC, odds ratios (OR) for receiving wage replacement benefits each month were lower for UC+MI (OR=0.73, 95% CI 0.64-0.84), and UC+SVAI (OR 0.74, 95% CI 0.64-0.84). The probabilities of cost-effectiveness were high for adding either MI or SVAI to UC (ceiling ratio 0.90), and the net benefit for MI was €5225 (95% CI -592-10 985) and for SVAI €7214 ((95% CI 1548-12 851) per person. CONCLUSIONS: Adding MI or SVAI to UC significantly improved RTW outcomes and was cost-effective among people on sickness absence due to musculoskeletal disorders.",
+ "tittel": "Effectiveness of two vocational interventions on sickness absence and costs for people with musculoskeletal disorders: 12 months results from the MI-NAV multi-arm randomized trial",
+ "type": "article"
+}

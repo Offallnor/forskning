@@ -1,0 +1,16 @@
+{
+ "apen_url": "https://doi.org/10.2139/ssrn.988356",
+ "ar": 2013,
+ "doi": "https://doi.org/10.1111/j.1467-9442.2012.01746.x",
+ "forfattere": [
+  "Per Pettersson‐Lidbom",
+  "Peter Skogman Thoursie"
+ ],
+ "id": "W3125477331",
+ "kilde": "Scandinavian Journal of Economics",
+ "lenke": "https://openalex.org/W3125477331",
+ "oversikt": false,
+ "sammendrag": "Abstract Most developed countries have compulsory insurance programs for temporary disability, that is, cash benefits for non‐work‐related sickness. Despite the economic significance of these programs, little is known about their effects on work absenteeism or labor supply. We exploit a policy reform that consisted of the abolishment of a waiting day together with an increase of cash benefits for short sick leaves. We find that the total number of days of sickness absence was reduced by the reform, which is likely due to the fact that the abolishment of the waiting period made it less costly for workers to be absent for short periods.",
+ "tittel": "Temporary Disability Insurance and Labor Supply: Evidence from a Natural Experiment*",
+ "type": "article"
+}

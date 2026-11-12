@@ -1,0 +1,16 @@
+{
+ "apen_url": "https://oem.bmj.com/content/oemed/63/10/676.full.pdf",
+ "ar": 2006,
+ "doi": "https://doi.org/10.1136/oem.2005.020438",
+ "forfattere": [
+  "Nils Fleten",
+  "Roar Johnsen"
+ ],
+ "id": "W2076808106",
+ "kilde": "Occupational and Environmental Medicine",
+ "lenke": "https://openalex.org/W2076808106",
+ "oversikt": false,
+ "sammendrag": "BACKGROUND: The lack of efficient medical interventions for combating increasing sickness absence rates has lead to the introduction of alternative measures initiated by the Norwegian National Insurance Service or at workplaces. AIM: To determine whether minimal postal intervention had any effect on the length of sick leave. METHODS: Randomised, controlled trial with a one year follow up in Northern Norway in 1997 and 1998; 990 consecutive newly sick-listed persons with musculoskeletal or mental disorders were studied. Within the intervention group, 495 eligible sick-listed persons received a general information letter and a questionnaire as their sick leave passed 14 days. Possible intervention effects were analysed by survival analysis of the probability of returning to work within one year, and logistic regressions with benefits at one year as the dependent variable. RESULTS: The overall reduction of 8.3 (95% CI -22.5 to 6.0) calendar days in mean length of sick leaves in the intervention group compared to controls, was not statistically significant. However, intervention significantly reduced length of sick leaves in subgroups with mental disorders, and with rheumatic disorders and arthritis, and overall for sick leaves lasting 12 weeks or more. Young people with low back pain showed an adverse effect to intervention. The overall relative risk of receiving benefits due to sickness after one year in the intervention group was 0.69 (95% CI 0.51 to 0.93) compared to controls. CONCLUSION: The results should encourage employers, insurance institutions, and authorities to initiate challenges as questions on the length of sick leave and possible modified work measures, during the first few weeks of sick leave, for at least some groups of sick-listed persons.",
+ "tittel": "Reducing sick leave by minimal postal intervention: a randomised, controlled intervention study",
+ "type": "article"
+}

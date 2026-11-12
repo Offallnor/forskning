@@ -1,0 +1,22 @@
+{
+ "apen_url": "http://hdl.handle.net/2078.1/223558",
+ "ar": 2019,
+ "forfattere": [
+  "Bart L. W. Cockx",
+  "Koen Declercq",
+  "Muriel Dejemeppe",
+  "Leda Inga",
+  "Bruno Van der Linden"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "https://www.nbb.be/doc/ts/publications/wp/wp379en.pdf",
+ "hvordan": "pdf",
+ "id": "W2999421560",
+ "kilde": "RePEc: Research Papers in Economics",
+ "lenke": "https://openalex.org/W2999421560",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "We examine the impact of scrapping entitlement to unemployment insurance (UI) on job finding and employment of young labor market entrants. In Belgium, young labor market entrants with short or no employment record are eligible for non-means-tested UI after a one-year waiting period. This zero benefit period gives rise to an unusual inclining benefit profile. We exploit a policy change that restricted access to UI for two groups of job seekers in 2015: university graduates aged 25 and older at the end of their waiting period and high school dropouts younger than 21. At the moment when the reform was announced, many job seekers realized that they were not eligible anymore for UI by the end of their waiting period. We use a differences-in-differences approach to identify the causal impact of the reform. Our main finding is that losing eligibility to UI does not increase the employment probability of targeted youths.",
+ "tittel": "Scrapping the entitlement to unemployment benefits for young labor market entrants : An effective way to get them to work ?",
+ "type": "preprint"
+}

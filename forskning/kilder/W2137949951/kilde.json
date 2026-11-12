@@ -1,0 +1,18 @@
+{
+ "apen_url": "http://www.sv.uio.no/econ/english/research/unpublished-works/working-papers/pdf-files/2001/Memo-12-2001.pdf",
+ "forfattere": [
+  "Knut Røed",
+  "Morten Nordberg"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "https://nva.sikt.no/registration/019c953a81ae-282f6f57-4090-4a03-9462-200862a2fa8b",
+ "hvordan": "vitenarkivet",
+ "id": "W2137949951",
+ "kilde": "RePEc: Research Papers in Economics",
+ "lenke": "https://openalex.org/W2137949951",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "We use Norwegian micro-data to identify the driving forces behind unemployment spells following temporary-and permanent dismissals.The duration of unemployment spells for permanently dismissed workers is primarily explained by individual resources and economic incentives, while spell-duration for temporary dismissed workers is explained by firm incentives.Higher benefits reduce the employment hazard for permanently-but i ncrease it for temporary dismissed workers.Structural duration dependence is nonparametrically identified and sharply estimated with the aid of lagged hazard rate variation and repeated spells.The employment hazards for both spell-types exhibit positive duration dependence during the first months and negative duration dependence thereafter.",
+ "tittel": "Temporary layoffs and the duration of unemployment",
+ "type": "preprint"
+}

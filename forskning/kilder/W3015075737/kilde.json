@@ -1,0 +1,23 @@
+{
+ "apen_url": "https://www.mdpi.com/1660-4601/17/7/2486/pdf?version=1586177604",
+ "ar": 2020,
+ "doi": "https://doi.org/10.3390/ijerph17072486",
+ "forfattere": [
+  "Tea M. Lallukka",
+  "Ellenor Mittendorfer‐Rutz",
+  "Jenni M Ervasti",
+  "Kristina A. E. Alexanderson",
+  "Marianna Virtanen"
+ ],
+ "hentet": "2026-11-09",
+ "hentet_fra": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7177271/fullTextXML",
+ "hvordan": "Europe PMC",
+ "id": "W3015075737",
+ "kilde": "International Journal of Environmental Research and Public Health",
+ "lenke": "https://openalex.org/W3015075737",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "Depression and anxiety are associated with unemployment and disability pension, while autism spectrum disorder (ASD) is less studied. We aimed to first identify unemployment trajectories among young adults with and without ASD, and then to examine their social determinants. Finally, we used the trajectories as determinants for subsequent disability pension. We used a population-based cohort, including 814 people who were 19-35 years old, not on disability pension, and who had their ASD diagnosis between 2001 and 2009. A matched reference population included 22,013 people with no record of mental disorders. Unemployment follow-up was the inclusion year and four years after. Disability pension follow-up started after the unemployment follow-up and continued through 2013. We identified three distinctive trajectories of unemployment during the follow-up: (1) low, then sharply increasing (9%,) (2) low (reference, 67%), and (3) high then slowly decreasing (24%). People with ASD had higher odds of belonging belong to the trajectory groups 1 (OR 2.53, 95% CI 2.02-3.18) and 3 (OR 3.60, 95% CI 3.08-4.19). However, the mean number of unemployment days was relatively low in all groups. A disability pension was a rare event in the cohort, although memberships to groups 1 and 3 were associated with the risk of a future disability pension. More knowledge is needed about factors facilitating participation in paid employment among people with ASD.",
+ "tittel": "Unemployment Trajectories and the Early Risk of Disability Pension among Young People with and without Autism Spectrum Disorder: A Nationwide Study in Sweden",
+ "type": "article"
+}

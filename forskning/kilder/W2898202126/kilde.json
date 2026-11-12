@@ -1,0 +1,23 @@
+{
+ "apen_url": "https://www.jstage.jst.go.jp/article/sangyoeisei/60/6/60_2018-008-A/_pdf",
+ "ar": 2018,
+ "doi": "https://doi.org/10.1539/sangyoeisei.2018-008-a",
+ "forfattere": [
+  "Shotaro Doki",
+  "Satoru Harano",
+  "Kayoko Shinada",
+  "Atsushi Ohyama",
+  "Noriko Kojimahara"
+ ],
+ "hentet": "2026-11-09",
+ "hentet_fra": "https://www.jstage.jst.go.jp/article/sangyoeisei/60/6/60_2018-008-A/_pdf",
+ "hvordan": "pdf",
+ "id": "W2898202126",
+ "kilde": "SANGYO EISEIGAKU ZASSHI",
+ "lenke": "https://openalex.org/W2898202126",
+ "merknad": "SJEKK DOKUMENT: «Shotaro Doki» står ikke i starten",
+ "oversikt": true,
+ "sammendrag": "OBJECTIVES: We are responsible for answering the research question, \"Does a return-to-work program improve the returning outcome?\" This is one of the six research questions in the evidence-based \"Return-to-work Guidance in Occupational Health 2017\" developed by the Kanto branch of the Japanese Society of Occupational Health. This study aimed to integrate the effectiveness of the return-to-work program to improve the state of sick-listed employees suffering from cardiovascular disease, cancer, and musculoskeletal and mental health problems. METHODS: Three different databases, PubMed, Cochrane Library, and Ichushi-Web were searched. Based on the results of a systematic review, the guidance developing group created the draft of the recommendations with evidence to decision framework and used a poll to determine the recommendations. We integrated the evidence from a systematic review and meta-analysis at the disease level. This study protocol was registered with PROSPERO (the registration number is: CRD42016048937). RESULTS: A total of five articles on musculoskeletal diseases and six on mental health problems were retrieved. No articles in the cardiovascular and cancer areas matched the eligibility criteria. When workers suffered from musculoskeletal disorders, the rehabilitation group statistically returned to work earlier than the usual care group did [HR 1.58 (95% CI 1.26-1.97), -40.71days (95% CI -60.69--20.72) ]. In the mental health problems group, the psychological intervention program group had statistically less days of sick leaves as compared to that in the usual care group [-18.64 days (95% CI -27.98--9.30) ]. CONCLUSIONS: It might be suggested that work environment management, work management, tackling psychological problems, cognitive behavioral approach, and several meetings with supervisors and occupational health staff, in addition to a direct focus on backache contributed to the early return-to-work of workers suffering from musculoskeletal disease. Regarding mental health problems, interviews with a psychological approach and consultations with psychologists and psychiatrists might be effective in reducing the days of sick leaves. However, because these methods were investigated in Europe, we need to be careful when introducing these practises in Japan due to the differences in the occupational health support systems. Further, high quality evidence level studies are needed in Japan.",
+ "tittel": "Return-to-work support programs for workers on sick leave: a systematic review and meta-analysis",
+ "type": "review"
+}

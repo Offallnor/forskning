@@ -1,0 +1,18 @@
+{
+ "ar": 2012,
+ "forfattere": [
+  "Stanislav Rabinovich",
+  "Kurt Mitman"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "https://red-files-public.s3.amazonaws.com/meetpapers/2012/paper_1112.pdf",
+ "hvordan": "pdf",
+ "id": "W3125269187",
+ "kilde": "RePEc: Research Papers in Economics",
+ "lenke": "https://openalex.org/W3125269187",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "The last three recessions in the United States were followed by jobless recoveries: while labor productivity recovered, unemployment remained high. In this paper we propose and quantitatively evaluate a new explanation for this fact, namely that extensions of unemployment benefits in recessions slow down the recovery of employment. We are motivated by the fact that the duration of unemployment benefits is extended when the unemployment rate is high, and these extensions have become progressively more generous over time. We construct and calibrate an equilibrium search model of the labor market that incorporates these key features of the US unemployment insurance system. We find that the calibrated model is consistent with the facts that recoveries were not jobless prior to 1990 and became jobless thereafter.",
+ "tittel": "Unemployment Benefits Caused Jobless Recoveries",
+ "type": "preprint"
+}

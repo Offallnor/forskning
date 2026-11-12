@@ -1,0 +1,17 @@
+{
+ "apen_url": "http://jhr.uwpress.org/content/XL/1/270.full.pdf",
+ "ar": 2005,
+ "doi": "https://doi.org/10.3368/jhr.xl.1.270",
+ "forfattere": [
+  "Christopher J. O’Leary",
+  "Paul T. Decker",
+  "Stephen A. Wandner"
+ ],
+ "id": "W4214890761",
+ "kilde": "The Journal of Human Resources",
+ "lenke": "https://openalex.org/W4214890761",
+ "oversikt": false,
+ "sammendrag": "Targeting reemployment bonus offers to unemployment insurance (UI) claimants identified as most likely to exhaust benefits is estimated to reduce benefit payments. While earlier research indicated that non-targeted reemployment bonus offers would not be good public policy, in this paper we show that targeting bonus offers with profiling models similar to those in state Worker Profiling and Reemployment Services (WPRS) systems can improve their cost effectiveness. Since estimated average benefit payments do not steadily decline as the eligibility screen is gradually tightened, we find that narrow targeting is not optimal. The best candidate to emerge for a targeted reemployment bonus is a low bonus amount with a long qualification period, targeted to the half of profiled claimants most likely to exhaust their UI benefit entitlement.",
+ "tittel": "Cost-Effectiveness of Targeted Reemployment Bonuses",
+ "type": "article"
+}

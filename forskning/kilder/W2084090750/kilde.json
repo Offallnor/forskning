@@ -1,0 +1,21 @@
+{
+ "apen_url": "https://doi.org/10.2139/ssrn.713263",
+ "ar": 2007,
+ "doi": "https://doi.org/10.1111/j.1467-9914.2006.00363.x",
+ "forfattere": [
+  "Helge Bennmarker",
+  "Kenneth Carling",
+  "Bertil Holmlund"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "http://uu.diva-portal.org/smash/get/diva2:107255/FULLTEXT01.pdf",
+ "hvordan": "pdf",
+ "id": "W2084090750",
+ "kilde": "Labour",
+ "lenke": "https://openalex.org/W2084090750",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "Abstract. In 2001 and 2002, Sweden introduced several unemployment insurance reforms. A major innovation in the first reform was the introduction of a two‐tiered benefit structure for some unemployed individuals. This system involved supplementary compensation during the first 20 weeks of unemployment. The 2002 reform retained the two‐tiered benefit structure but involved also substantial benefit hikes for spells exceeding 20 weeks. This paper examines how these reforms affected transitions from unemployment to employment. We take advantage of the fact that the reforms had quasi‐experimental features where the ‘treatments’ differed considerably among unemployed individuals. We find that the reforms had strikingly different effects on job finding among men and women. The two reforms in conjunction are estimated to have increased the expected duration of unemployment among men but to have decreased the duration of unemployment among women. The overall effect on the duration of unemployment is not statistically different from zero. However, the reforms reduced job finding among men who remained unemployed for more than 20 weeks.",
+ "tittel": "Do Benefit Hikes Damage Job Finding? Evidence from Swedish Unemployment Insurance Reforms",
+ "type": "article"
+}

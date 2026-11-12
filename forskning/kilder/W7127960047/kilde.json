@@ -1,0 +1,26 @@
+{
+ "apen_url": "https://doi.org/10.1186/s12889-026-26296-6",
+ "ar": 2026,
+ "doi": "https://doi.org/10.1186/s12889-026-26296-6",
+ "forfattere": [
+  "Naijie Guan",
+  "James Charles Rockey",
+  "T Marshall",
+  "Eleanor Hathaway",
+  "Tracy Roberts",
+  "Francesca L. Crowe",
+  "L Jackson",
+  "Shamil MM Haroon"
+ ],
+ "hentet": "før 2026-11-08",
+ "hentet_fra": "https://link.springer.com/content/pdf/10.1186/s12889-026-26296-6.pdf",
+ "hvordan": "pdf",
+ "id": "W7127960047",
+ "kilde": "BMC Public Health",
+ "lenke": "https://openalex.org/W7127960047",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "BACKGROUND: Economic inactivity rate in the UK reached 22.2% in 2024, driven largely by increased long-term sickness, and exceeds those reported in comparable high-income countries. Sickness absence remains a major challenge, imposing substantial costs on individuals and society. This study aimed to assess sickness absence rates and associated economic output losses in primary care for working-age adults in England. METHODS: This was a population-based retrospective cohort study using primary care data from the Clinical Practice Research Datalink (CPRD) Aurum database. 10 million adults aged 18–65 years was followed from January 2017 to December 2019 (pre-COVID-19 pandemic period) and March 2022 to February 2023 (late pandemic period). Sickness absence was measured using fit notes (“statements of fitness for work”) issued in primary care. We quantified annual fit note rates, identified underlying medical causes, explored associations between fit note provision, patient’s sociodemographic and health-related factors using random-effect negative binomial regression models, and estimated economic losses due to sickness absence. RESULTS: Age-standardised fit note rates were 23.5 per 100 person-years pre-pandemic and 24.0 per 100 person-years in the late pandemic period. Fit notes were issued more frequently among females, older individuals, black ethnic groups, lower-income groups, those with obesity, smokers, and those with higher levels of comorbidity. Depression and anxiety were the leading medical diagnoses associated with fit note provision. The estimated total annual cost of sickness absence in England was around £13.3 billion (95% CI £13.3 to £13.4 bn) in the pre-pandemic period, and £15.9 bn (95% CI £15.8 to £15.9 bn) in the late pandemic period. CONCLUSIONS: Fit note provision in primary care and associated costs rose substantially from the pre-pandemic to the late pandemic period. This was primarily associated with poor mental health and varied among different population groups. Towards the end of the pandemic, this represented approximately £16 billion in annual economic losses in England. This underscores the need for targeted policy interventions and further research to mitigate the health and financial burden of sickness absence, particularly for people with poor mental health.",
+ "tittel": "Sickness absence in the working age population: a retrospective cohort study using primary care health record data",
+ "type": "article"
+}

@@ -1,0 +1,14 @@
+{
+ "ar": 2001,
+ "doi": "https://doi.org/10.1002/jae.618",
+ "forfattere": [
+  "Christian Belzil"
+ ],
+ "id": "W3122408043",
+ "kilde": "Journal of Applied Econometrics",
+ "lenke": "https://openalex.org/W3122408043",
+ "oversikt": false,
+ "sammendrag": "Abstract The relationship between Unemployment Insurance (UI) benefit duration, unemployment duration and subsequent job duration is investigated using a multi‐state duration model with state specific unobserved heterogeneity. I examine two potential explanations for the negative correlation between unemployment and job spell durations; UI benefits increase job matching quality (the ‘Matching’ effect) versus unobserved heterogeneity (‘Adverse Selection’). The Matching effect is found to be weak. Although new jobs accepted within 5 weeks of benefit termination seem to have a higher dissolution rate, the negative correlation between unemployment and job duration is mostly explained by unobserved heterogeneity. Various simulations indicate that increasing the maximum benefit duration by one week will raise expected unemployment duration by 1.0 to 1.5 days but will raise expected job duration by 0.5 to 0.8 day only. Copyright © 2001 John Wiley & Sons, Ltd.",
+ "tittel": "Unemployment insurance and subsequent job duration: job matching versus unobserved heterogeneity",
+ "type": "article"
+}

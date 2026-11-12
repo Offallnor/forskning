@@ -1,0 +1,14 @@
+{
+ "apen_url": "https://shs.hal.science/halshs-02057145",
+ "ar": 2021,
+ "forfattere": [
+  "Laura J. Khoury"
+ ],
+ "id": "W3157909980",
+ "kilde": "RePEc: Research Papers in Economics",
+ "lenke": "https://openalex.org/W3157909980",
+ "oversikt": false,
+ "sammendrag": "The literature on unemployment insurance (UI) has primarily focused on its im-pact on unemployment outflows. Using administrative data and a discontinuity inUI benefits at a tenure threshold, I show that inflows also respond to the extentof UI. Based on bunching estimates, the elasticity of the employment duration toUI benefits is estimated to be 0.014, implying that 10% of layoffs in an 8-weekwindow before the threshold are delayed. Examining the mechanisms, the evidencesuggests that employers and employees bargain over contract termination. Takentogether, employers and employees show sophisticated reactions to UI with effectson employment duration.",
+ "tittel": "Unemployment Benefits and the Timing of Redundancies",
+ "type": "preprint"
+}

@@ -1,0 +1,14 @@
+{
+ "ar": 2000,
+ "forfattere": [
+  "Sten Johansson",
+  "Jan Selén"
+ ],
+ "id": "W2151675687",
+ "kilde": "RePEc: Research Papers in Economics",
+ "lenke": "https://openalex.org/W2151675687",
+ "oversikt": false,
+ "sammendrag": "Att ersattningsgraden i arbetsloshetsforsakringen kan ha viss effekt pa arbetslosheten ar knappast ifragasatt. Diskussionen i forskningen galler mest hur stor den effekten kan tankas vara i praktiken. Det statliga Institutet for Arbetsmarknadspolitisk Utvardering (IFAU) publicerade i december 1999 en rapport enligt vilken sankningen 1996 av ersattningsgraden i arbetsloshetsforsakringen ledde till en 10procentig hojning av overgangarna till arbete. Detta implicerar en elasticitet sa hog som 1,6. Tidigare studier har funnit elasticiteter mellan 0,2 och 0,9. Eftersom IFAUs resultat har bade utomvetenskapliga och inomvetenskapliga implikationer av stor vikt har vi reanalyserat undersokningen. I var reanalys finner vi att signifikanstest och ett stort bortfall av individer i kontrollgruppen leder till osakerhet om de sambandens generaliserbarhet. Vi visar att experimentgrupp och kontrollgrupp star infor olika arbetsmarknader genom de stora och i vissa avseenden kategoriska skillnaderna i gruppernas sammansattning. Vi visar att de ocksa beter sig olika nar de blir arbetslosa. Vidare galler inte en linjar monoton dos/effekt-relation for det samband som forskarna funnit for reformeffektvariabeln och ”effekten” vid samma ”dos” varierar kraftigt mellan olika grupper. Den antecipationseffekt som forskarna funnit innebar att ”reformeffekten” ar en form av skensamband. Vi har till slut ocksa kunnat visa hur ett skensamband uppkommer genom att maltillstandet ”i arbete” visar sig vara overraskande heterogent.",
+ "tittel": "Nr. 162 Arbetslöshetsförsäkringen och arbetslösheten - En reanalys av IFAUs studie*",
+ "type": "preprint"
+}

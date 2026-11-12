@@ -1,0 +1,15 @@
+{
+ "apen_url": "http://hdl.handle.net/2429/72460",
+ "ar": 2019,
+ "doi": "https://doi.org/10.14288/1.0386024",
+ "forfattere": [
+  "Kim Vanessa McLeod"
+ ],
+ "id": "W3111451647",
+ "kilde": "cIRcle (University of British Columbia)",
+ "lenke": "https://openalex.org/W3111451647",
+ "oversikt": false,
+ "sammendrag": "The impact of regulatory inspections of workplace safety on injury rates in British Columbia (BC), Canada is examined in this dissertation. Previous studies of the effect of inspections relied on theoretical frameworks that were non-existent, overly simplified, or reliant on economics and rational choice theory while neglecting the contributions of academic disciplines such as organizational theory. In Chapter 2, the theories of the elements of a successful inspection are examined and incorporated into a framework to understand how inspections may or may not work to reduce injury rates. Results of studies of inspections differ by jurisdiction, and even among studies within the same state, the effectiveness appears to change over time. The details of the regulatory systems provided in published articles are generally limited, making it difficult to discern which differences between the jurisdictions may explain the varied results. In Chapter 3, studies of inspections in California, Washington, and Pennsylvania are examined in detail and publicly available data from safety inspections in those states are summarized. Combining the information from the studies and the results of that analysis, it was found that inspections with penalties may be effective in reducing injury rates, and inspections without penalties were not found to be effective. In British Columbia, penalties arising from inspections are rare, so inspections in general are not likely to be effective at reducing injuries. Chapter 4 is focused on finding the best method to analyze data from WorkSafeBC (The Workers Compensation Board of BC) to determine if inspections are linked to a decline in injury rates. Statistical methods used in previous studies of inspections and injuries and other analysis methods were examined. It was determined that either difference-in-differences analysis with coarsened exact matching or fixed effects analysis with or without matching would be appropriate. The dissertation concludes with Chapter 5, where matched fixed effects analysis is used to analyze WorkSafeBC data. It was found that inspections generally do not influence acute injuries, which supports the hypothesis that inspections at WorkSafeBC, where penalties are rare, will not be effective at decreasing injuries.",
+ "tittel": "Understanding regulatory workplace safety inspections in British Columbia, Canada : theory and evaluation",
+ "type": "dissertation"
+}

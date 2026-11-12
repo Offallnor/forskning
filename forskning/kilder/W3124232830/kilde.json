@@ -1,0 +1,20 @@
+{
+ "ar": 2013,
+ "forfattere": [
+  "Kurt Mitman",
+  "Iourii Manovskii",
+  "Fatih Karahan",
+  "Marcus Hagedorn"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "https://red-files-public.s3.amazonaws.com/meetpapers/2013/paper_1260.pdf",
+ "hvordan": "pdf",
+ "id": "W3124232830",
+ "kilde": "RePEc: Research Papers in Economics",
+ "lenke": "https://openalex.org/W3124232830",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "We exploit policy discontinuity at U.S. state borders to identify the effects of unemployment insurance policies on unemployment. We find large effects of unemployment benefit extensions on unemployment. In fact, the estimates imply that most of the persistent increase in unemployment during the Great Recession can be accounted for by the unprecedented extensions of unemployment benefit eligibility. In contrast to the existing literature that mainly focused on estimating the effects of benefit duration on job search and acceptance strategies of the unemployed – the micro effect – we focus on measuring the general equilibrium macro effect that operates primarily through the response of the job creation to unemployment benefit extensions. We find that it is the latter effect that is very important quantitatively.",
+ "tittel": "Unemployment Benefits and Unemployment in the Great Recession: The Role of Macro Effects",
+ "type": "preprint"
+}

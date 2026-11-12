@@ -1,0 +1,21 @@
+{
+ "apen_url": "https://www.mdpi.com/1660-4601/18/12/6359/pdf?version=1623513331",
+ "ar": 2021,
+ "doi": "https://doi.org/10.3390/ijerph18126359",
+ "forfattere": [
+  "Jenni Blomgren",
+  "Mikko Laaksonen",
+  "Riku Perhoniemi"
+ ],
+ "hentet": "før 2026-11-08",
+ "hentet_fra": "https://www.julkari.fi/bitstreams/1aadc453-f7f5-431e-a24c-563d0bc083d9/download",
+ "hvordan": "pdf",
+ "id": "W3167036525",
+ "kilde": "International Journal of Environmental Research and Public Health",
+ "lenke": "https://openalex.org/W3167036525",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "To enhance understanding of the interplay between unemployment and sickness absence and disability retirement, the aim of this study was to examine how changes in area-level unemployment rates are associated with changes in sickness absence and disability retirement rates in a longitudinal setting. Municipality-level time-series data were collected on unemployment, sickness absence, disability retirement and covariates from databases for Finnish municipalities for years 2003–2017 (n = 4425 municipality–year observations). Fixed effects panel regression models were used to analyse how changes in unemployment rates predict changes in sickness absence and disability retirement rates when comparing consecutive years. The results showed that when examining yearly cross-sections, a higher level of unemployment in the municipality was associated with higher sickness absence and disability retirement rates. However, longitudinal assessment of consecutive years with panel regression models showed that a one percentage point increase in the municipality-level unemployment rate was associated with a decrease both in the sickness absence rate (−1.3%, p < 0.001) and in the disability retirement rate (−2.1%, p = 0.011), adjusted for simultaneous changes in demographic and socio-economic covariates, morbidity and economic situation of the municipality. The results indicate that unemployment and disability benefits partly act as substitutes for each other. Unemployment and disability rates should be assessed together to reach a more complete understanding of the level of non-employment overall and in different areas.",
+ "tittel": "Changes in Unemployment Affect Sickness Absence and Disability Retirement Rates: A Municipality-Level Panel Study",
+ "type": "article"
+}

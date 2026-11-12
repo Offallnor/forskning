@@ -1,0 +1,19 @@
+{
+ "apen_url": "https://research.tilburguniversity.edu/en/publications/35f3711e-ff88-4eb9-8326-6a9063980774",
+ "ar": 1990,
+ "doi": "https://doi.org/10.2307/2297381",
+ "forfattere": [
+  "Gérard J. van den Berg"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "https://research.vu.nl/ws/files/74105208/stati",
+ "hvordan": "pdf",
+ "id": "W2148795885",
+ "kilde": "The Review of Economic Studies",
+ "lenke": "https://openalex.org/W2148795885",
+ "merknad": "LITE TEKST: 1327 tegn på 26 sider, trolig skannet",
+ "oversikt": false,
+ "sammendrag": "Generally, structural job search models are taken to be stationary. In this paper models are examined in which every exogenous variable can cause nonstationarity, for instance because its value is dependent on unemployment duration. A general differential equation that describes the evolution of the reservation wage over time is derived. As an empirical illustration a nonstationary structural model is estimated that focuses on the consequences of a downward shift in the level of benefits. It appears that the elasticity of duration with respect to the level of benefits after the shift is much larger than the elasticity with respect to the level before the shift.",
+ "tittel": "Nonstationarity in Job Search Theory",
+ "type": "article"
+}

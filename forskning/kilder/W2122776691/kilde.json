@@ -1,0 +1,16 @@
+{
+ "ar": 2007,
+ "forfattere": [
+  "Christian Göbel"
+ ],
+ "hentet": "2026-11-08",
+ "hentet_fra": "https://doku.iab.de/veranstaltungen/2007/cape_2007_goebel.pdf",
+ "hvordan": "pdf",
+ "id": "W2122776691",
+ "lenke": "https://openalex.org/W2122776691",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "This paper provides estimates of the impact of participation in subsidised employment for young long-term unemployed workers. I apply a multivari-ate duration model with correlated unobserved heterogeneity to control for selective programme-participation. The estimates for the effect of participa-tion in subsidised employment are derived by the means of simulation for different duration outcomes. I find that participation in subsidised employment a) significantly shortens the duration until regular employment. b) has a significantly positive effect on the duration of the first employment spell. c) has no significant effects on the second unemployment spell, after participation. The simulations suggest that subsidised employment has larger effects on unemployed people with unfavourable labour market characteristics.",
+ "tittel": "The effect of participation in subsidised employment on labour market transitions",
+ "type": "article"
+}

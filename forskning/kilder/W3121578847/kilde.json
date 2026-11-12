@@ -1,0 +1,18 @@
+{
+ "apen_url": "https://docs.iza.org/dp10991.pdf",
+ "ar": 2017,
+ "forfattere": [
+  "Øystein Hernæs"
+ ],
+ "hentet": "før 2026-11-08",
+ "hentet_fra": "https://docs.iza.org/dp10991.pdf",
+ "hvordan": "pdf",
+ "id": "W3121578847",
+ "kilde": "RePEc: Research Papers in Economics",
+ "lenke": "https://openalex.org/W3121578847",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "I evaluate a program aimed at strictly enforcing a requirement that people on long-term sick leave be partly back at work unless explicitly defined as an exception. Employing the synthetic control method, I find that the reform reduced work-hours lost due to absenteeism by 12 % in the reform region compared to a comparison unit created by a weighted average of similar regions. The effect is driven by both increased part-time presence of temporary disabled workers and accelerated recovery. Musculoskeletal disorders was the diagnosis group declining the most. The findings imply large savings in social security expenditures.",
+ "tittel": "Activation against Absenteeism: Evidence from a Sickness Insurance Reform in Norway",
+ "type": "preprint"
+}

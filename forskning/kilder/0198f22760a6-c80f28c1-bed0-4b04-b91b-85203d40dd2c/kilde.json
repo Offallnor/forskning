@@ -1,0 +1,18 @@
+{
+ "apen_url": "https://nva.sikt.no/registration/0198f22760a6-c80f28c1-bed0-4b04-b91b-85203d40dd2c",
+ "ar": 2022,
+ "forfattere": [
+  "Elida Sofie Gurandsrud"
+ ],
+ "hentet": "før 2026-11-08",
+ "hentet_fra": "https://nva.sikt.no/registration/0198f22760a6-c80f28c1-bed0-4b04-b91b-85203d40dd2c",
+ "hvordan": "vitenarkivet",
+ "id": "0198f22760a6-c80f28c1-bed0-4b04-b91b-85203d40dd2c",
+ "kilde": "Universitetet i Bergen",
+ "lenke": "https://nva.sikt.no/registration/0198f22760a6-c80f28c1-bed0-4b04-b91b-85203d40dd2c",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "Fra 2001 til 2019 har det totale sykefraværet i industrien sunket med 30 prosent. Dette er bemerkelsesverdig ettersom industrien er en av få sektorer i norsk arbeidsliv som har redusert sykefraværet i stor grad. Sykefravær er en stor kostnad for samfunnet, som det er brukt omfattende ressurser på å redusere. Det er derfor interessant å undersøke mulige årsaker til nedgangen. Samtidig som sykefraværet i industrien har sunket, har også sysselsettingen i industrisektoren gått ned. En mulig konsekvens av sysselsettingsreduksjonen kan være at arbeidsstyrkens sammensetning har endret seg. En forklaring på det reduserte sykefraværet kan dermed være at grupper med høyt sykefravær ikke er sysselsatt i sektoren i like stor grad som før. I denne oppgaven undersøker jeg hvordan sykefraværsreduksjonen i industrisektoren henger sammen med endringer i bakgrunnskjennetegnene alder, kjønn, utdanning, innvandringsbakgrunn og sysselsattes næringstilhørighet. Oppgaven viser både hvordan andelene for disse bakgrunnskjennetegnene har utviklet seg og hvordan sammenhengen mellom bakgrunnskjennetegnene og sykefraværet har endret seg over tid. Jeg benytter Blinder-Oaxaca-dekomponering for å undersøke endringen i sykefraværet mellom årene 2002 og 2018. Dekomponeringen er utført i Excel for sysselsatte i industrisektoren i 2002 og 2018 med regresjonsanalyser beregnet i microdata.no. Analysene viser at sammensetningsendringer medvirker til reduksjonen i sykefraværet. Sektorens økte utdanningsnivå spiller en særlig stor rolle i sykefraværsreduksjonen. Samtidig har sammenhengen mellom sykefraværet og bakgrunnskjennetegnene undersøkt i analysen blitt svakere mellom 2002 og 2018. Dette tyder på at arbeidets egenskaper har endret seg over tid i sektoren.",
+ "tittel": "Redusert sykefravær i industrisektoren: Hva betyr endringer over tid i arbeidsstyrkens sammensetning?",
+ "type": "DegreeMaster"
+}

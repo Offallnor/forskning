@@ -1,0 +1,17 @@
+{
+ "apen_url": "https://papers.ssrn.com/sol3/Delivery.cfm/ecoj_958.pdf?abstractid=639742&mirid=1",
+ "ar": 2004,
+ "doi": "https://doi.org/10.1111/j.1468-0297.2004.00958.x",
+ "forfattere": [
+  "Stephen Nickell",
+  "Luca Nunziata",
+  "Wolfgang Ochel"
+ ],
+ "id": "W2025391729",
+ "kilde": "The Economic Journal",
+ "lenke": "https://openalex.org/W2025391729",
+ "oversikt": false,
+ "sammendrag": "This paper presents an empirical analysis of unemployment patterns in the OECD countries from the 1960s to the 1990s. Our results indicate the following. First, broad movements in unemployment across the OECD can be explained by shifts in labour market institutions. Second, interactions between average values of these institutions and shocks make no signifi-cant additional contribution to our understanding of OECD unemployment changes. Explanations (of high unemployment) based solely on institutions also run however into a major empirical problem: many of these institutions were already present when unemployment was low …. Thus, while labour market institutions can potentially explain cross country differences today, they do not appear able to explain the general evolution of unemployment over time. (Blanchard and Wolfers, 2000, p.C2) Despite conventional wisdom, high unemployment does not appear to be primarily the result of things like overly generous benefits, trade union power, taxes, or wage ‘inflexibility’.",
+ "tittel": "Unemployment in the OECD Since the 1960s. What Do We Know?",
+ "type": "article"
+}

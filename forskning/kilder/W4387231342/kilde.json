@@ -1,0 +1,22 @@
+{
+ "apen_url": "https://www.sjweh.fi/download.php?abstract_id=4122&file_nro=1",
+ "ar": 2023,
+ "doi": "https://doi.org/10.5271/sjweh.4122",
+ "forfattere": [
+  "Mikko Laaksonen",
+  "Jenni Blomgren",
+  "Hanna Rinne",
+  "Riku Perhoniemi"
+ ],
+ "hentet": "2026-11-09",
+ "hentet_fra": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10881278/fullTextXML",
+ "hvordan": "Europe PMC",
+ "id": "W4387231342",
+ "kilde": "Scandinavian Journal of Work Environment & Health",
+ "lenke": "https://openalex.org/W4387231342",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "OBJECTIVES: In 2012, new checkpoints were introduced in the Finnish sickness absence system to improve early detection of long-term work disability and hasten return to work after illness. We examined whether the reform affected participation in rehabilitation and labor market outcomes over a one-year period. METHODS: We used interrupted time series analysis among persons who started receiving sickness allowance up to three years before and up to two years after the reform. Separate analyses were conducted among those who passed 30, 60, and 90 sickness allowance days. Poisson regression analysis was used, controlling for seasonal variation, gender, age, and educational level. RESULTS: After the reform, participation in rehabilitation within one year of passing 30 sickness allowance days increased by 5.1% [incidence rate ratio (IRR) 1.051, 95% confidence interval (CI) 1.015-1.086]. The increase after 60 and 90 sickness allowance days was slightly larger. Looking at the type of rehabilitation, vocational rehabilitation from the earnings-related pension scheme increased most. Regarding the rehabilitation provided by the Social Insurance Institution of Finland (Kela), vocational rehabilitation, medical rehabilitation, and discretionary rehabilitation increased, but the increase was statistically significant only in the last case. Post-reform changes in employment, unemployment, sickness absence and disability retirement were negligible. CONCLUSIONS: The introduction of new sickness absence checkpoints was associated with an increase in participation in rehabilitation but did not affect labor market outcomes one year later. The reform thus was only partially successful in achieving its objectives. Future research should focus on identifying the most effective approaches for utilizing rehabilitation to enhance labor market participation after sickness absence.",
+ "tittel": "Impact of a Finnish reform adding new sickness absence checkpoints on rehabilitation and labor market outcomes: an interrupted time series analysis",
+ "type": "article"
+}

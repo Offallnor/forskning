@@ -1,0 +1,22 @@
+{
+ "apen_url": "https://www.zora.uzh.ch/id/eprint/161598/1/econwp313.pdf",
+ "ar": 2020,
+ "doi": "https://doi.org/10.1093/qje/qjaa016",
+ "forfattere": [
+  "Simon Jäger",
+  "Benjamin Schoefer",
+  "Samuel G. Young",
+  "Josef Zweimüller"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "https://docs.iza.org/dp11996.pdf",
+ "hvordan": "pdf",
+ "id": "W2900127637",
+ "kilde": "The Quarterly Journal of Economics",
+ "lenke": "https://openalex.org/W2900127637",
+ "merknad": "ÅPEN VERSJON (preprint eller arbeidsnotat), merkes i svaret",
+ "oversikt": false,
+ "sammendrag": "Abstract Nonemployment is often posited as a worker’s outside option in wage-setting models such as bargaining and wage posting. The value of nonemployment is therefore a key determinant of wages. We measure the wage effect of changes in the value of nonemployment among initially employed workers. Our quasi-experimental variation in the value of nonemployment arises from four large reforms of unemployment insurance (UI) benefit levels in Austria. We document that wages are insensitive to UI benefit changes: point estimates imply a wage response of less than $0.01 per $1.00 UI benefit increase, and we can reject sensitivities larger than $0.03. The insensitivity holds even among workers with low wages and high predicted unemployment duration, and among job switchers hired out of unemployment. The insensitivity of wages to the nonemployment value presents a puzzle to the widely used Nash bargaining model, which predicts a sensitivity of $0.24–$0.48. Our evidence supports wage-setting models that insulate wages from the value of nonemployment.",
+ "tittel": "Wages and the Value of Nonemployment*",
+ "type": "article"
+}

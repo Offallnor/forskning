@@ -1,0 +1,19 @@
+{
+ "apen_url": "https://mpra.ub.uni-muenchen.de/11223/1/MPRA_paper_11223.pdf",
+ "ar": 2008,
+ "forfattere": [
+  "Bruno Decreuse",
+  "Elvira Kazbakova"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "https://mpra.ub.uni-muenchen.de/11223/1/MPRA_paper_11223.pdf",
+ "hvordan": "pdf",
+ "id": "W1857755358",
+ "kilde": "Munich Personal RePEc Archive (Ludwig Maximilian University of Munich)",
+ "lenke": "https://openalex.org/W1857755358",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "We revisit the signalling hypothesis, whereby potential employers use the duration of unemployment as a signal as to the productivity of applicants. We suggest that the quality of such\\na signal is very low when the unemployed receive unemployment benefits: individuals have good\\nreasons to remain unemployed. Conversely, the signal becomes much more efficient once benefits\\nhave elapsed: skilled workers should not stay unemployed in such cases. Therefore, the potential duration of unemployment benefits should drive employers' expectations and their recruitment\\npractices. This mechanism can explain why hazards fall after benefit expiration, and why hazards\\nrespond more to the potential duration of benefits than to replacement rates.",
+ "tittel": "On the spike in hazard rates at unemployment benefit expiration: The signalling hypothesis revisited",
+ "type": "report"
+}

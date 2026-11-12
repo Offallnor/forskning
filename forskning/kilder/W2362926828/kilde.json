@@ -1,0 +1,18 @@
+{
+ "ar": 2015,
+ "forfattere": [
+  "Marios Michaelides",
+  "Peter R. Mueser"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "http://papers.econ.ucy.ac.cy/RePEc/papers/08-15.pdf",
+ "hvordan": "pdf",
+ "id": "W2362926828",
+ "kilde": "RePEc: Research Papers in Economics",
+ "lenke": "https://openalex.org/W2362926828",
+ "merknad": "ÅPEN VERSJON (preprint eller arbeidsnotat), merkes i svaret",
+ "oversikt": false,
+ "sammendrag": "This paper examines four experimental evaluations of U.S. reemployment programs targeting Unemployment Insurance (UI) recipients during the Great Recession. Results show that, regardless of their specific requirements, the four programs led to shorter UI spells, UI savings that exceeded program costs, and improved employment rates and earnings. Program success was partly attributable to threat effects, occurring because some participants exited UI early to avoid program participation. Also, programs that conducted eligibility reviews reduced UI fraud, pushing job-ready or ineligible participants to exit UI and return to employment sooner. In addition to these effects, results suggest that job search services may have substantial direct value. The program that combined the eligibility review with mandatory job-counselling services produced greater effects than the other programs, and our analyses suggest that this is because services helped participants improve their job search. These findings show that the labor market effects of reemployment programs occur even during an economic downturn, and they provide important policy guidance on the types of programs that are likely to be most effective.",
+ "tittel": "The labor market effects of U.S. reemployment programs during the great recession",
+ "type": "preprint"
+}

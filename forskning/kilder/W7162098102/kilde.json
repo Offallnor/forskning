@@ -1,0 +1,20 @@
+{
+ "apen_url": "https://www.clevelandfed.org/-/media/project/clevelandfedtenant/clevelandfedsite/publications/working-papers/2026/wp2611.pdf",
+ "ar": 2026,
+ "doi": "https://doi.org/10.26509/frbc-wp-202611",
+ "forfattere": [
+  "Kevin Rinz",
+  "David Wasser"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "https://www.clevelandfed.org/-/media/project/clevelandfedtenant/clevelandfedsite/publications/working-papers/2026/wp2611.pdf",
+ "hvordan": "pdf",
+ "id": "W7162098102",
+ "kilde": "Working paper",
+ "lenke": "https://openalex.org/W7162098102",
+ "merknad": "ÅPEN VERSJON (preprint eller arbeidsnotat), merkes i svaret",
+ "oversikt": false,
+ "sammendrag": "Using public-use data from the Current Population Survey, we estimate the effects of changes in unemployment insurance (UI) generosity on the wages of new hires from unemployment, job changers, and continuously employed workers. We find similar, modestly positive elasticities across all groups of workers. Posted wages respond similarly on average, but differences in distributional effects suggest that changes in wage posting are unlikely to fully explain the effects on realized wages. More generous UI also reduces hiring from unemployment and job-to-job transitions, reduces labor force exit, and increases the hiring of new labor force entrants and labor force non-participants.",
+ "tittel": "Unemployment Insurance Generosity and Wage Determination",
+ "type": "report"
+}

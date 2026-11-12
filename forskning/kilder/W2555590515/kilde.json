@@ -1,0 +1,17 @@
+{
+ "apen_url": "https://academic.oup.com/eurpub/article-pdf/26/suppl_1/ckw164.087/7367759/ckw164.087.pdf",
+ "ar": 2016,
+ "doi": "https://doi.org/10.1093/eurpub/ckw164.087",
+ "forfattere": [
+  "Pia Svedberg",
+  "Annina Ropponen",
+  "Jurgita Narusyte"
+ ],
+ "id": "W2555590515",
+ "kilde": "European Journal of Public Health",
+ "lenke": "https://openalex.org/W2555590515",
+ "oversikt": false,
+ "sammendrag": "Background Mood disorders are common among adolescents and it is also well known that most common mental disorders diagnosed in adulthood begin already in adolescence. To date little is known about work disability in terms of sickness absence (SA) and disability pension (DP) in young adulthood as a result of mood disorders in adolescence. The aim was to study whether depression in late adolescence is associated with future work disability in early adulthood, also adjusting for familial factors (genetic and shared environmental factors) by using a discordant twin pair design. Methods In this prospective cohort study, 1,662 Swedish twins born 1985-1986 (61% women) responding to questionnaire items on depression in 2005 (age 19-20 years) and who were not on SA or DP at baseline were included. Data on SA and DP were obtained from the National Social Insurance Agency until 12/31/2013. Depressive symptoms were measured with the Center for Epidemiologic Studies Depression Scale (CES-D) (range 0-60). The CES-D also provides cutoff scores to identify individuals at risk for clinical depression; hence, a binary variable depression (yes/no) was also created. Cox proportional hazard models with constant time-at-risk were applied to estimate Proportional Ratios (PRs) with 95% Confidence Intervals (CIs). Familial factors were accounted for in discordant twin pair analyses using conditional regression models. Results In the sample, 22.4% (15.9% women, 6.5% men) had an incident SA or DP spell during the eight-year follow-up. At baseline 33.8% reported depression (binary) (25.8% women, 8.0% men). Age and sex adjusted models showed each one-unit increase in depressive symptoms (PR 1.02; 1.01-1.03) and depression (binary) (PR 1.37; 1.11- 1.69) were associated with work disability. In discordant twin pair analyses estimates were reduced (PR 1.13; 0.83-1.54). Conclusions Depression in late adolescence is associated with future work disability. Familial confounding cannot be ruled out. Key messages: Adolescent depression may pose a risk for future sickness absence Prevention and support should be given to adolescents with mood disorders, also with a focus on potential social consequences",
+ "tittel": "Depression in late adolescence and the risk of future work disability",
+ "type": "article"
+}

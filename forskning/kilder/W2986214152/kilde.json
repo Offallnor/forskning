@@ -1,0 +1,18 @@
+{
+ "apen_url": "https://hdl.handle.net/10037/16183",
+ "ar": 2019,
+ "forfattere": [
+  "Vidar Kristoffersen"
+ ],
+ "hentet": "før 2026-11-08",
+ "hentet_fra": "https://nva.sikt.no/registration/0198f49d486e-2293bc41-f6fe-480a-9e98-172476f0c65f",
+ "hvordan": "vitenarkivet",
+ "id": "W2986214152",
+ "kilde": "NORA - Norwegian Open Research Archives",
+ "lenke": "https://openalex.org/W2986214152",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "Graded sick leaves might be used to extract otherwise untapped capacity for productivity in sick or injured workers, but what are the secondary effects of such a policy? This thesis aims to answer the question of how the use of graded sick leaves might affect the length of the sick leave using comprehensive sick leave data from Troms county in Norway from 2010 through 2017. Aparametric Weibull survival model is used in an attempt to isolate the choice of grading or no grading and analyse the effects. The analysis results show that being granted a graded sick leave tends to increase the actual length of medium-and long-term sick leaves. For effective sick leave length (defined as the product of sick leave days and the average grading of the leave) being granted a graded sick leave is a positive benefitwhen we exclude medium-length sick leaves of 8 weeks or shorter, reducing the effective sick leave length and thereby contributing to an increase in the overall productivity. Due consideration must be given before extending these results beyond the analysis done in the thesis because of a lack of diagnosis data.",
+ "tittel": "Using graded sick leaves to affect leave length. An empirical analysis on the effects of graded sick leaves on leave length in Troms, Norway",
+ "type": "dissertation"
+}

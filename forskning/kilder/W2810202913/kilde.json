@@ -1,0 +1,15 @@
+{
+ "ar": 2018,
+ "doi": "https://doi.org/10.1055/a-0618-0118",
+ "forfattere": [
+  "Wolfgang Bürger",
+  "Marco Streibelt"
+ ],
+ "id": "W2810202913",
+ "kilde": "Die Rehabilitation",
+ "lenke": "https://openalex.org/W2810202913",
+ "oversikt": false,
+ "sammendrag": "BACKGROUND: In view of growing numbers and large expenditures Graded Return to work (GRTW) gained in importance for the German Pension insurance in the last decade. Therefore, the questions were whether GRTW is effective in the German rehabilitation system and if there are any criteria for or against the assignment to GRTW following medical rehabilitation. METHODS: In a large cohort study 40,262 persons were asked to fill out questionnaires at the start of and 15 months after medical rehabilitation. The control group consisted of persons without GRTW after rehabilitation. Propensity Score Matching was used to balance the groups. Primary outcomes were the rate of employment, the rate of invalidity pension k and the time of sick leave in the follow-up. The role function of the SF-36 and mental health (PHQ-4) were defined as secondary outcomes. RESULTS: The matching resulted in 1,009 pairs. The GRTW group had a higher rate of return to work, a lower rate of disability pensions and less weeks of sick leave in the follow-up. Moreover, a higher role function and mental health was observed in the intervention group. The effects were particularly pronounced for patients with a high initial risk of permanent disability as well as higher sick leave prior rehabilitation. CONCLUSION: Following these results there is a clear evidence for the effectiveness of GRTW following medical rehabilitation. GRTW is indicated for persons with prior sick leave of more than 3 months or a high risk of permanent disability (>8 points on the SIBAR scale, Screening Instrument for the Assessment of Need for Occupation Related Treatment in Medical Rehabilitation). For persons with only few weeks of sick leave or at most 5 points on the SIBAR scale there is a clear contraindication.",
+ "tittel": "Wer profitiert von Stufenweisen Wiedereingliederungen zu Lasten der Deutschen Rentenversicherung? – Ergebnisse einer Kohortenstudie",
+ "type": "article"
+}

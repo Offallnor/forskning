@@ -1,0 +1,26 @@
+{
+ "apen_url": "https://www.medrxiv.org/content/medrxiv/early/2021/04/10/2021.04.08.21255128.full.pdf",
+ "ar": 2021,
+ "doi": "https://doi.org/10.1093/pubmed/fdab341",
+ "forfattere": [
+  "Rhiannon Edge",
+  "Diana A. van der Plaat",
+  "Vaughan Parsons",
+  "David Coggon",
+  "Martie van Tongeren",
+  "Rupert Muiry",
+  "Ira Madan",
+  "Paul Cullinan"
+ ],
+ "hentet": "før 2026-11-08",
+ "hentet_fra": "https://www.medrxiv.org/content/medrxiv/early/2021/04/10/2021.04.08.21255128.full.pdf",
+ "hvordan": "pdf",
+ "id": "W3201021805",
+ "kilde": "Journal of Public Health",
+ "lenke": "https://openalex.org/W3201021805",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "Abstract Background Patterns of sickness absence shed useful light on disease occurrence and illness-related behaviours in working populations. Methods We analysed prospectively collected, pseudonymized data on 959 356 employees who were continuously employed by National Health Service trusts in England from 1 January 2019 to 31 July 2020, comparing the frequency of new sickness absence in 2020 with that at corresponding times in 2019. Results After exclusion of episodes directly related to COVID-19, the overall incidence of sickness absence during the initial 10 weeks of the pandemic (March–May 2020) was more than 20% lower than in corresponding weeks of 2019. Trends for specific categories of illness varied substantially, with a fall by 24% for cancer, but an increase for mental illness. A doubling of new absences for pregnancy-related disorders during May–July of 2020 was limited to women with earlier COVID-19 sickness absence. Conclusions Various factors will have contributed to the large and divergent changes that were observed. The findings reinforce concerns regarding delays in diagnosis and treatment of cancers and support a need to plan for a large backlog of treatment for many other diseases. Further research should explore the rise in absence for pregnancy-related disorders among women with earlier COVID-19 sickness absence.",
+ "tittel": "Changing patterns of sickness absence among healthcare workers in England during the COVID-19 pandemic",
+ "type": "article"
+}

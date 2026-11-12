@@ -1,0 +1,19 @@
+{
+ "apen_url": "https://link.springer.com/content/pdf/10.1007/s10797-026-09970-8.pdf",
+ "ar": 2026,
+ "doi": "https://doi.org/10.1007/s10797-026-09970-8",
+ "forfattere": [
+  "Alessandro Sovera"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "https://link.springer.com/content/pdf/10.1007/s10797-026-09970-8.pdf",
+ "hvordan": "pdf",
+ "id": "W7154563528",
+ "kilde": "International Tax and Public Finance",
+ "lenke": "https://openalex.org/W7154563528",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "Abstract This paper evaluates the labor market effects of Italy’s 2015 unemployment insurance reform, which replaced an age-based schedule of potential benefit duration (PBD) with a contributory formula linking entitlement to prior employment histories. Using administrative data and a regression discontinuity design around the May 1, 2015 cutoff, I identify intensive-margin effects by exploiting discontinuities in PBD among workers satisfying baseline eligibility requirements. The reform increases PBD by approximately 19 weeks. Greater benefit generosity significantly raises unemployment insurance take-up and realized benefit duration, lengthens non-employment duration by about 45 days, and reduces job-finding probabilities within 30 and 90 days. Despite longer search spells, I find no evidence of improvements in post-unemployment job quality, including transitions to permanent contracts or wage gains. Responses increase with the reform-induced change in PBD, highlighting a trade-off between expanded income insurance and delayed re-employment.",
+ "tittel": "Evaluating the impact of unemployment benefit reforms on career stability in Italy: evidence from a regression discontinuity analysis",
+ "type": "article"
+}

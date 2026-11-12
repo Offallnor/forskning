@@ -1,0 +1,26 @@
+{
+ "apen_url": "https://www.sciencedirect.com/science/article/pii/S016885102200104X/pdf",
+ "ar": 2022,
+ "doi": "https://doi.org/10.1016/j.healthpol.2022.05.002",
+ "forfattere": [
+  "Solveig Osborg Ose",
+  "Silje Lill Kaspersen",
+  "Taina Leinonen",
+  "Suzanne M. M. Verstappen",
+  "Angelique E de Rijk",
+  "Slavina Spasova",
+  "Sara Hultqvist",
+  "Iben Nørup"
+ ],
+ "hentet": "før 2026-11-08",
+ "hentet_fra": "https://vbn.aau.dk/ws/files/474994539/1_s2.0_S016885102200104X_main.pdf",
+ "hvordan": "pdf",
+ "id": "W4229447182",
+ "kilde": "Health Policy",
+ "lenke": "https://openalex.org/W4229447182",
+ "merknad": "",
+ "oversikt": true,
+ "sammendrag": "The Covid-19 pandemic has revealed the importance of social protection systems, including income security, when health problems arise. The aims of this study are to compare the follow-up regimes for sick-listed employees across nine European countries, and to conduct a qualitative assessment of the differences with respect to burden and responsibility sharing between the social protection system, employers and employees. The tendency highlighted is that countries with shorter employer periods of sick-pay typically have stricter follow-up responsibility for employers because, in practice, they become gatekeepers of the public sickness benefit scheme. In Germany and the UK, employers have few requirements for follow-up compared with the Nordic countries because they bear most of the costs of sickness absence themselves. The same applies in Iceland, where employers carry most of the costs and have no obligation to follow up sick-listed employees. The situation in the Netherlands is paradoxical: employers have strict obligations in the follow-up regime even though they cover all the costs of the sick-leave themselves. During the pandemic, the majority of countries have adjusted their sick-pay system and increased coverage to reduce the risk of spreading Covid-19 because employees are going to work sick or when they should self-quarantine, except for the Netherlands and Belgium, which considered that the current schemes were already sufficient to reduce that risk.",
+ "tittel": "Follow-up regimes for sick-listed employees: A comparison of nine north-western European countries",
+ "type": "review"
+}

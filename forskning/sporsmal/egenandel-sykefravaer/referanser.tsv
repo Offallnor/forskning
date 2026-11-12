@@ -1,0 +1,620 @@
+id	bakover	forover	uttrykk	ar	oversikt	siteringer	persentil	sammendrag	allerede_kandidat	tittel	kilde
+W2049901974	21	4	sickness insurance;moral hazard	2005	False	225	0.97648669	False	True	Moral hazard and sickness insurance	Journal of Public Economics
+W3123410700	12	2	sick pay	2014	False	64	0.97981069	True	True	The Sick Pay Trap	Journal of Labor Economics
+W4392532992	0	13		2021	False	0		True	True	Analyse économique des comportements en matière de protection sociale	theses.fr (ABES)
+W1958075533	6	6		2013	False	35	0.96955985	True	True	Absenteeism, Efficiency Wages, and Marginal Taxes	Scandinavian Journal of Economics
+W2151416414	9	2		2010	False	173	0.98883961	False	True	The anatomy of absenteeism	Journal of Health Economics
+W1514748290	2	9	sick pay	2015	False	5		False	True	The Pros and Cons of Sick Pay Schemes: A Method to Test for Contagious Presenteeism and Shirking Behavior	SSRN Electronic Journal
+W4318020067	0	11	sick pay	2023	False	4	0.70779959	True	True	The links between difficult working conditions and sickness absences in the case of French workers	Labour
+W2948049905	0	10	moral hazard	2019	False	14	0.92758055	False	True	Forward-looking moral hazard in social insurance	Labour Economics
+W3091419616	0	10		2024	False	7		False	True	Sick Leave and Medical Leave in the United States: A Categorization and Recent Trends	SSRN Electronic Journal
+W4411048781	0	10	sick pay;moral hazard	2025	False	1	0.68373875	True	True	Property rights, sick pay and effort supply	Journal of Development Economics
+W2169015557	9	0		2005	False	396	0.98991657	True	True	The Effect of Employment Protection on Worker Effort: Absenteeism during and after Probation	Journal of the European Economic Association
+W1580195571	9	0		1994	False	172	0.90758211	True	True	Absenteeism, Efficiency Wages and Shirking	Scandinavian Journal of Economics
+W3125708417	8	1	moral hazard	2005	False	160	0.98180518	True	True	Unemployment, labor force composition and sickness absence: a panel data study	Health Economics
+W1573201189	6	3		2007	False	151	0.95757806	True	True	New Evidence on the Determinants of Absenteeism Using Linked Employer-Employee Data	Industrial and Labor Relations Review
+W2073091157	6	3		2015	False	97	0.99729665	True	True	The Rise and Fall of Disability Insurance Enrollment in the Netherlands	The Journal of Economic Perspectives
+W2302201189	6	3	experience rating	2016	False	27	0.9575846	False	True	Assessing the effects of disability insurance experience rating. The case of The Netherlands	Labour Economics
+W3081860426	0	9	sickness benefit;sickness insurance	2020	False	11	0.85876334	True	True	Social insurance reform and absenteeism in Vietnam	International Journal of Social Welfare
+W4407868498	0	9	sick pay	2025	False	9	0.96015585	True	True	Mandated Sick Pay: Coverage, Utilization, and Crowding-in	Journal of the European Economic Association
+W3022725470	2	7	sick pay;sick leave insurance;moral hazard	2016	False	8		True	True	The Pros and Cons of Sick Pay Schemes: Testing for Contagious Presenteeism and Noncontagious Absenteeism Behavior	National Bureau of Economic Research
+W2191637915	1	8	sick pay	2015	False	5		False	True	The Effect of Statutory Sick Pay Regulations on Workers' Health	SSRN Electronic Journal
+W2905416654	1	8		2018	False	3	0.2002904	True	True	J ob sick leave: Detecting opportunistic behavior	Health Economics
+W4398243942	0	9	sick pay	2024	False	1		False	True	Property Rights, Sick Pay and Effort Supply	SSRN Electronic Journal
+W4319778371	0	9	sick pay	2023	False	0		False	True	Property Rights, Sick Pay and Effort Supply	SSRN Electronic Journal
+W4415960359	0	9		2025	False	0		False	True	The Anatomy of US Sick Leave Schemes: Evidence from Public School Teachers	SSRN Electronic Journal
+W7148489585	0	9		2017	False	0		True	True	Trois essais empiriques sur l’identification de l’aléa moral en assurance	theses.fr (ABES)
+W7149615186	0	9		2021	False	0		True	True	Trois essais empiriques en économie de la santé et du travail	theses.fr (ABES)
+W2087413250	7	1		2002	False	241	0.95777124	True	True	Sickness Absence: An International Comparison	The Economic Journal
+W2000247848	8	0		1996	False	204	0.85215036	True	True	THE ECONOMICS OF ABSENCE: THEORY AND EVIDENCE	Journal of Economic Surveys
+W2054728601	7	1	sickness benefit	2008	False	100	0.95408428	True	True	Labor Market Institutions and Individual Absenteeism in the European Union: The Relative Importance of Sickness Benefit Systems and Employment Protection Legislation	Industrial Relations A Journal of Economy and Society
+W2125682392	8	0		1995	False	85	0.94172691	False	True	Worker absence histories: a panel data study	Labour Economics
+W2755226448	1	7		2017	False	76	0.99411183	False	True	Monitoring and disincentives in containing paid sick leave	Labour Economics
+W1942624577	4	4		2009	False	50	0.95056958	True	True	Do Financial Bonuses Reduce Employee Absenteeism? Evidence from a Lottery	Industrial and Labor Relations Review
+W2933624895	0	8	sick pay	2019	False	9	0.78556743	False	True	Reprint of: The pros and cons of sick pay schemes: Testing for contagious presenteeism and noncontagious absenteeism behavior	Journal of Public Economics
+W2505804103	2	6	sickness benefit	2016	False	8	0.75960275	False	True	Influence of the sickness benefit reform on sickness absence	Health Policy
+W3124046411	0	8	sick pay	2015	False	4		False	True	The Pros and Cons of Sick Pay Schemes: Testing for Contagious Presenteeism and Shirking Behavior	SSRN Electronic Journal
+W4301235534	0	8	sick pay	2015	False	3		False	True	The Pros and Cons of Sick Pay Schemes: Testing for Contagious Presenteeism and Shirking Behavior	SSRN Electronic Journal
+W2259782559	0	8		2017	False	2	0.00277939	True	True	The effectiveness of medical and vocational interventions for reducing sick leave of self‐employed workers	Health Economics
+W4301041627	0	8	sick pay	2017	False	2		False	True	The Pros and Cons of Sick Pay Schemes: Testing for Contagious Presenteeism and Shirking Behavior	SSRN Electronic Journal
+W2546704567	0	8	sick pay	2015	False	0	0.33053464	False	True	The Pros and Cons of Sick Pay Schemes: A Method to Test for Contagious Presenteeism and Shirking	
+W4408790921	0	8		2026	False	0	0.00245851	True	True	Threat Effects and Work Incentives: Evidence From a Danish Sick Leave Reform	Health Economics
+W2024810644	7	0		1986	False	4646	1.0	True	True	Equilibrium Unemployment as a Worker Discipline Device	Cambridge University Press eBooks
+W2049312003	7	0		1981	False	283	0.96131157	True	True	An Empirical Model of Work Attendance	The Review of Economics and Statistics
+W2116716741	5	2	sickness insurance	2012	False	122	0.99655667	False	True	The case for presenteeism — Evidence from Norway's sickness insurance program	Journal of Public Economics
+W2020818540	7	0		2004	False	109	0.96912973	False	True	Employment protection and effort among German employees	Economics Letters
+W2020240434	5	2		2011	False	99	0.9379849	False	True	The individual cost of sick leave	Journal of Population Economics
+W2072564304	3	4		2007	False	72	0.96264589	False	True	Work Absence in Europe	IMF Staff Papers
+W2114799131	6	1		1999	False	67	0.84754113	True	True	Wages, firm size and absenteeism	Applied Economics Letters
+W2038370188	4	3	sickness insurance;moral hazard	2004	False	64	0.97736369	True	True	Reporting sick: are sporting events contagious?	Journal of Applied Econometrics
+W2137789320	4	3	sickness benefit	2009	False	43	0.91667349	True	True	Economic Incentives, Business Cycles, and Long‐Term Sickness Absence	Industrial Relations A Journal of Economy and Society
+W2340063971	0	7	sick pay	2018	False	41	0.9363256	True	True	Labor Market Effects of U.S. Sick Pay Mandates	The Journal of Human Resources
+W2290538956	1	6		2016	False	25		False	True	Paid Sick Leave and Absenteeism: The First Evidence from the U.S.	SSRN Electronic Journal
+W3186248217	0	7		2023	False	12	0.88899274	True	True	When Bonuses Backfire: Evidence from the Workplace	Management Science
+W4300642538	0	7	sick pay;sickness insurance;moral hazard	2015	False	6		True	True	The Pros and Cons of Sick Pay Schemes: Testing for Contagious Presenteeism and Shirking Behavior	
+W4392882079	0	7	moral hazard	2024	False	6	0.91110541	True	True	Workers' moral hazard and private insurer effort in disability insurance	Journal of Risk & Insurance
+W3107519732	0	7	sickness benefit	2021	False	3	0.58764428	False	True	Optimal sickness benefits in a principal–agent model	Social Choice and Welfare
+W2178525701	0	7	sick pay;sickness insurance;moral hazard	2015	False	2		True	True	The Pros and Cons of Sick Pay Schemes: Testing for Contagious Presenteeism and Shirking Behavior	SSRN Electronic Journal
+W4415122073	0	7		2025	False	2	0.98378853	False	True	Karenztage und Absenkung der Lohnersatzrate – eine ökonomische Einordnung	Fehlzeiten-Report
+W4224247153	0	7		2022	False	1		True	True	The Anatomy of U.S. Sick Leave Schemes: Evidence from Public School Teachers	National Bureau of Economic Research
+W2096684396	6	0		2004	False	10543	1.0	True	True	How Much Should We Trust Differences-In-Differences Estimates?	The Quarterly Journal of Economics
+W3121385028	5	1		2009	False	4950	0.99970892	True	True	Recent Developments in the Econometrics of Program Evaluation	Journal of Economic Literature
+W2891077897	6	0		2000	False	299	0.99397279	True	True	Disability Insurance Benefits and Labor Supply	Journal of Political Economy
+W2141786694	3	3		2004	False	146	0.99062574	False	False	Incentives and selection in cyclical absenteeism	Labour Economics
+W2015342205	5	1		2004	False	140	0.88940404	False	False	Working conditions, compensation and absenteeism	Journal of Health Economics
+W2165132661	3	3		2009	False	66	0.97666466	True	False	Sick of Your Colleagues' Absence?	Journal of the European Economic Association
+W3122507222	3	3		2014	False	41	0.98371363	True	False	Absenteeism, unemployment and employment protection legislation: evidence from Italy	IZA Journal of Labor Economics
+W2005190118	4	2	moral hazard	2009	False	31	0.91260935	False	True	Moral hazard among the sick and unemployed: evidence from a Swedish social insurance reform	Empirical Economics
+W2954624165	3	3		2004	False	16	0.46283099	True	True	Work Absence in Europe	IMF Working Paper
+W2116312979	1	5	sickness insurance	2015	False	14	0.94029224	False	True	Sickness insurance and spousal labour supply	Labour Economics
+W3088312345	0	6		2020	False	8	0.89992212	True	True	Helserelaterte ytelser og skjult arbeidsledighet – en diskusjon om mulige sammenhenger	Søkelys på arbeidslivet
+W3162872359	0	6	sick pay	2018	False	8		True	True	Labor Market Effects of U.S. Sick Pay Mandates	
+W46853485	0	6		2014	False	8	0.94949385	True	True	Essays on Health Shocks and Social Insurance	
+W4399627634	0	6		2024	False	7	0.88680811	True	True	Effect of financial incentives on the cost and duration of sickness absence	PLoS ONE
+W2905226361	3	3		2018	False	6	0.64365968	True	True	Do Employees’ Sickness Absences React to a Change in Costs for Firms? Evidence from a Natural Experiment*	Scandinavian Journal of Economics
+W3188625748	0	6		2021	False	6	0.82810832	True	True	Direct and spillover effects of social insurance reform: evidence from Vietnam	Journal of the Asia Pacific Economy
+W2950538458	0	6	replacement rate	2019	False	5	0.75558365	True	True	Paid Sick Leave and Employee Absences	Labour
+W3209196566	3	3	experience rating	2021	False	5	0.76444703	True	True	A burden too big to bear? The effect of experience‐rated disability insurance premiums on firm bankruptcies and employment*	Scandinavian Journal of Economics
+W2805269886	0	6		2017	True	2	0.16309462	False	True	Worker Absenteeism and Employment Outcomes: A Literature Review	
+W2939949371	1	5		2019	False	2	0.67234874	True	True	What if they take it all? Heterogeneous impact of sickness absence reform	Economics of Transition and Institutional Change
+W2102792749	0	6		2011	False	1		False	True	Sick of Taxes? - Evidence on the Elasticity of Labor Supply When Workers are Free to Choose	SSRN Electronic Journal
+W3121861416	0	6	sick pay	2016	False	1		False	True	Labor Market Effects of Us Sick Pay Mandates	SSRN Electronic Journal
+W3126042431	0	6	sickness insurance	2013	False	1		False	True	The Effects of Expanding the Generosity of the Statutory Sickness Insurance System	SSRN Electronic Journal
+W3124462499	0	6		2016	False	0		False	True	The Effectiveness of Medical and Vocational Interventions for Reducing Sick Leave of Self-Employed Workers	SSRN Electronic Journal
+W2154062944	5	0		2007	False	1305	0.9996061	True	True	Inference with Difference-in-Differences and Other Panel Data	The Review of Economics and Statistics
+W2157635736	5	0		2000	False	671	0.99446447	True	True	Unnatural Experiments? Estimating the Incidence of Endogenous Policies	The Economic Journal
+W2162642231	5	0	sick pay	2002	False	135	0.92075464	True	False	Sickness, absenteeism, presenteeism, and sick pay	Oxford Economic Papers
+W2130137198	3	2		2011	False	106	0.99426891	True	False	SCREENING DISABILITY INSURANCE APPLICATIONS	Journal of the European Economic Association
+W2001903400	1	4	sickness insurance	2006	False	95	0.98658486	True	True	Sick of Being Unemployed? Interactions between Unemployment and Sickness Insurance	Scandinavian Journal of Economics
+W2014873229	2	3		2006	False	89	0.94407909	False	False	Does sickness absence increase the risk of unemployment?	The Journal of Socio-Economics
+W1988620066	5	0		2004	False	76	0.91228743	True	True	Disability Insurance Benefits and Labor Supply: Some Additional Evidence	Journal of Labor Economics
+W2590453018	1	4		2016	False	67	0.91292954	False	True	Can Paid Sick Leave Mandates Reduce Leave-Taking?	Labour Economics
+W2129153957	2	3	moral hazard	2014	False	57	0.97601075	True	True	Sickness Absence, Moral Hazard, and the Business Cycle	Health Economics
+W1975901051	4	1		2010	False	41	0.97861625	False	True	Institutional rules, labour demand and retirement through disability programme participation	Journal of Population Economics
+W1539891801	2	3	sickness insurance	2002	False	34		True	True	Economic incentives and gender differences in work absence behavior	RePEc: Research Papers in Economics
+W1903913432	4	1	sick pay	2011	False	34	0.93795444	True	True	Worker Absenteeism and Sick Pay	Cambridge University Press eBooks
+W2153701926	1	4		2007	False	28	0.93786168	False	True	Long-term absenteeism due to sickness in Sweden. How long does it take and what happens after?	The European Journal of Health Economics
+W3148584332	0	5		2018	False	28		False	True	Unequal Use of Social Insurance Benefits: The Role of Employers	SSRN Electronic Journal
+W1996959703	2	3	sickness insurance	2012	False	24	0.95652796	False	False	Do time limits in the sickness insurance system increase return to work?	Empirical Economics
+W3143470885	0	5	sick pay	2021	False	23		False	True	Mandated Sick Pay: Coverage, Utilization, and Welfare Effects	SSRN Electronic Journal
+W3038124440	0	5		2020	False	21	0.77308379	True	True	The effects of paid sick leave on worker absenteeism and health care utilization	Health Economics
+W3092125445	0	5		2020	False	20		True	True	Paid sick-leave and physical mobility: Evidence from the United States during a pandemic	National Bureau of Economic Research
+W1996161649	3	2	sick pay	2011	False	17	0.94948711	False	True	Sick pay provision in experimental labor markets	European Economic Review
+W2994784071	0	5	sick pay	2020	False	13		True	True	Mandated Sick Pay: Coverage, Utilization, and Crowding-In	National Bureau of Economic Research
+W2117611217	1	4	sick pay;sickness benefit	2014	False	12	0.797465	True	True	Sickness benefit cuts mainly affect blue-collar workers	Scandinavian Journal of Public Health
+W2785834892	0	5	sickness benefit	2018	False	12	0.81451896	True	True	Sickness Benefit Rules and Work Absence: An Empirical Study Based on European Data	Revue d économie politique
+W1572536547	0	5	sickness insurance	2011	False	8		True	True	Substitution between temporary parental leave and sickness absence	RePEc: Research Papers in Economics
+W3119969786	0	5		2021	False	5	0.6585421	True	False	Employee absence in public and private organizations	Applied Economics
+W2125167242	0	5	sickness insurance	2007	False	3	0.72576784	True	True	Essays on Sickness Insurance, Absence Certification and Social Norms	
+W1832542900	0	5		2013	False	2	0.74341593	True	True	Verlaag kosten loondoorbetaling voor kleine bedrijven	UvA-DARE (University of Amsterdam)
+W7148718121	0	5		2018	False	2		True	True	Teacher recruitment and management : current practices and future challenges	theses.fr (ABES)
+W204123110	0	5		2012	False	1	0.65423033	True	True	Essays on Employment Protection, Private Equity and Spousal Behavior	
+W3121933845	1	4		2015	False	1		False	True	Protecting Working-Age People with Disabilities: Experiences of Four Industrialized Nations	SSRN Electronic Journal
+W4411009764	1	4		2025	False	1	0.76760617	True	True	Why does temporary work increase disability insurance inflow?	Labour Economics
+W7141101497	0	5	moral hazard	2026	False	1	0.91771234	True	True	Work absence and insurance design: moral hazard and utilization in Chile’s sick-leave program (1998–2023)	Cogent Economics & Finance
+W7164573256	0	5	sick pay	2026	False	1	0.94687764	True	True	Variation in presenteeism by generosity of statutory sick pay: a multilevel analysis in 35 European countries	European Journal of Public Health
+W2188125461	0	5		2011	False	0	0.30506211	True	True	Sick of Taxes? Sick Leave, Effort, and Taxes	
+W2280550480	0	5	sickness benefit;replacement rate	2015	False	0		True	True	The Effects of the Complementary Sickness Benefits (CSB) on Sick Leave Duration: an Approach Based on Collective Bargaining Agreements	RePEc: Research Papers in Economics
+W4289465122	0	5		2018	False	0		True	True	Unequal Use of Social Insurance Benefits: The Role of Employers	RePEc: Research Papers in Economics
+W7148484975	0	5		2017	False	0		True	True	Contributions à l'analyse de la diversité d'impacts des complémentaires santé	theses.fr (ABES)
+W7165132188	0	5	moral hazard	2026	False	0		True	True	Teachers’ sick leave and summer timing: an impact evaluation	Research Square
+W7203954346	0	5	sykelønn;arbeidsgiverperiode	2026	False	0	0.62481342	True	True	Effekten av forskuttert sykelønn på sykefraværsadferd	Søkelys på arbeidslivet
+W2049350168	4	0		2003	False	5564	0.99891681	False	True	Interaction terms in logit and probit models	Economics Letters
+W2141697271	4	0		2007	False	2393	0.99994208	True	True	The German Socio-Economic Panel Study (SOEP) - Scope, Evolution and Enhancements	Journal of Contextual Economics – Schmollers Jahrbuch
+W1964543929	4	0		2004	False	1289	0.99832482	True	True	Health, Absence, Disability, and Presenteeism Cost Estimates of Certain Physical and Mental Health Conditions Affecting U.S. Employers	Journal of Occupational and Environmental Medicine
+W1583862312	4	0		2003	False	943	0.98086124	False	True	Econometric Analysis of Count Data	Springer eBooks
+W2146735208	4	0		2011	False	631	0.99748405	False	True	The treatment effect, the cross difference, and the interaction term in nonlinear “difference-in-differences” models	Economics Letters
+W2165762370	4	0		2000	False	489	0.99424081	True	True	Work Environment and Individual Background: Explaining Regional Shirking Differentials in a Large Italian Firm*	The Quarterly Journal of Economics
+W2171724930	4	0		1989	False	470		True	True	The Health and Earnings of Rejected Disability Insurance Applicants	National Bureau of Economic Research
+W4300750760	4	0		2008	False	384	0.92569002	False	True	Econometric Analysis of Count Data	Springer eBooks
+W3123341554	2	2		2004	False	320	0.98789717	False	False	Temporary contracts and employee effort	Labour Economics
+W3122336779	4	0		2015	False	301	0.99645859	False	True	Inference on Causal Effects in a Generalized Regression Kink Design	Econometrica
+W2071402839	4	0		2000	False	227	0.97539794	False	True	The effects of the unemployment insurance payroll tax on wages, employment, claims and denials	Journal of Public Economics
+W3124978499	4	0		2009	False	186	0.99603192	True	True	Biological Gender Differences, Absenteeism, and the Earnings Gap	American Economic Journal Applied Economics
+W2082645742	4	0		1985	False	176	1.0	True	True	Workers' Compensation Insurance, Experience-Rating, and Occupational Injuries	The RAND Journal of Economics
+W2094067288	4	0		1985	False	158	0.88455708	False	True	The effects of unemployment and the business cycle on absenteeism	Journal of Economics and Business
+W2008603000	4	0		1991	False	151	0.91575972	True	True	Worker Absenteeism: An Analysis Using Microdata	The Economic Journal
+W2080784876	4	0		1991	False	131	0.97807018	True	True	Workers' Compensation and Occupational Injuries and Illnesses	Journal of Labor Economics
+W2050150971	4	0		1999	False	130	0.97969073	True	True	Absenteeism and Employee Sharing: An Empirical Analysis Based on French Panel Data, 1981-1991	Industrial and Labor Relations Review
+W2140639035	4	0		2004	False	89	0.95551457	True	True	Teams, Teamwork and Absence*	Scandinavian Journal of Economics
+W2294497699	1	3	sick pay	2016	False	76	0.97164111	True	True	Profiling the U.S. Sick Leave Landscape: Presenteeism among Females	Health Services Research
+W1516729719	4	0		2009	False	71		True	True	Contagion Nation: A Comparison of Paid Sick Day Policies in 22 Countries	RePEc: Research Papers in Economics
+W2120435841	0	4	benefit level	2010	True	51	0.625	True	True	To what extent have relaxed eligibility requirements and increased generosity of disability benefits acted as disincentives for employment? A systematic review of evidence from countries with well-developed welfare systems	Journal of Epidemiology & Community Health
+W1587380823	4	0		1994	False	44	0.97146172	True	True	Compensation for Permanent Impairment and the Duration of Work Absence: Evidence from Four Natural Experiments	The Journal of Human Resources
+W2059175925	4	0	experience rating	1993	False	41	0.95875139	True	True	Efficiency Effects of Premium-Setting Regimes under Workers' Compensation: Canada and the United States	Journal of Labor Economics
+W2155520470	4	0	sick pay	1994	False	38	0.75055905	True	True	Dynamic implications of absence behaviour	Applied Economics
+W2262909050	1	3		2016	False	37	0.97956794	True	True	Protecting working-age people with disabilities: experiences of four industrialized nations	Journal for Labour Market Research
+W1553030588	1	3		2010	False	30	0.86813211	False	False	Absenteeism and peer interaction effects: Evidence from an Italian Public Institute	The Journal of Socio-Economics
+W2041606073	1	3		2009	False	28	0.84509875	False	False	The determinants of sick leave durations of Dutch self-employed	Journal of Health Economics
+W4253030926	0	4		2010	False	27	0.87602339	True	True	Sickness, Disability and Work: Breaking the Barriers: Sweden	OECD eBooks
+W1993060258	1	3	sick pay	2007	False	25	0.91751234	True	True	Worker Absenteeism in Search Equilibrium*	Scandinavian Journal of Economics
+W2082995005	3	1		2012	False	24	0.84179269	True	True	Sickness absence, performance pay and teams	International Journal of Manpower
+W2615597629	0	4		2017	False	21	0.85176645	True	True	Les disparités d’absentéisme à l’hôpital sont-elles associées à des différences de conditions de travail ?	Revue française d économie
+W2771771185	1	3	sickness insurance	2018	False	20	0.8617392	False	False	Activation against absenteeism – Evidence from a sickness insurance reform in Norway	Journal of Health Economics
+W1703701963	2	2	experience rating	2015	False	17	0.94300238	False	True	Experience Rating and Work-Related Health and Safety	Journal of Labor Research
+W2117913759	0	4		2014	False	16		False	True	Gender Differences in Shirking: Monitoring or Social Preferences? Evidence from a Field Experiment	SSRN Electronic Journal
+W2883257331	0	4		2018	False	16	0.83654287	False	True	Missing at work – Sickness-related absence and subsequent career events	Journal of Economic Behavior & Organization
+W2483937738	2	2	experience rating	2012	True	14	0.52631579	True	True	Update on a systematic literature review on the effectiveness of experience rating	Policy and Practice in Health and Safety
+W2141321174	1	3	sick pay	2012	False	13		False	True	Trade Union Membership and Sickness Absence: Evidence from a Sick Pay Reform	SSRN Electronic Journal
+W2785375275	1	3		2018	False	12	0.83262214	True	False	Keeping the Production Line Running	The Journal of Human Resources
+W1947640777	1	3		2015	False	11	0.84996111	True	True	Sickness Absence and Local Benefit Cultures	Scandinavian Journal of Economics
+W2885574758	0	4		2019	True	11	0.13373729	True	False	Self-certification versus physician certification of sick leave for reducing sickness absence and associated costs	Cochrane Database of Systematic Reviews
+W2794378593	0	4		2018	False	9	0.72331479	False	False	Unobserved heterogeneity in work absence	The European Journal of Health Economics
+W3210190976	0	4		2021	False	9		False	True	For Better or Worse? The Economic Implications of Paid Sick Leave Mandates	SSRN Electronic Journal
+W4366820601	0	4		2023	False	8	0.88085761	True	False	Are women breaking the glass ceiling? A gendered analysis of the duration of sick leave in Spain	International Journal of Health Economics and Management
+W1508199656	0	4		2013	False	7	0.78129723	False	True	Sick of being “Activated?”	Empirical Economics
+W1849751506	2	2	moral hazard	2011	False	5		False	True	Firms' Moral Hazard in Sickness Absences	SSRN Electronic Journal
+W2005148818	1	3		2011	False	4	0.67464846	True	False	Comprendre les disparités des arrêts maladie selon les départements	Revue française d économie
+W3122603251	0	4		2016	False	4		False	True	The Effect of Mandatory Paid Sick Leave Laws on Labor Market Outcomes, Health Care Utilization, and Health Behaviors.	SSRN Electronic Journal
+W1868611403	0	4		2006	False	3	0.79265092	False	True	Vad säger ekonomerna? En forskningsöversikt	Lund University Publications (Lund University)
+W2046294341	2	2		2008	False	3	0.88262744	True	True	Der Beschäftigungseffekt geringerer Sozialabgaben in Deutschland. Wie beeinflusst die Wahl des Simulationsmodells das Ergebnis?	Journal of Contextual Economics – Schmollers Jahrbuch
+W2900362409	0	4		2018	False	3	0.84549847	True	True	Sickness Absence and Works Councils: Evidence from German Individual and Linked Employer–Employee Data	Industrial Relations A Journal of Economy and Society
+W4390226986	0	4		2023	False	3	0.70052597	True	True	Employees’ professional situation and the abuse of sick leave absence in Poland	Economic Research-Ekonomska Istraživanja
+W4392208918	0	4	sickness benefit	2023	False	3	0.72110362	True	True	Measuring and Assessing Sick Absence from Work: a European Cross‑sectional Study	Comparative Economic Research Central and Eastern Europe
+W4402233972	0	4		2020	False	3	0.40656846	True	True	Dismissal Protection and Long-term Sickness Absence – First Evidence from Germany	Industrial Relations A Journal of Economy and Society
+W4285166955	1	3		2022	False	2		False	True	Why Do Temporary Workers Have Higher Disability Insurance Risks than Permanent Workers?	SSRN Electronic Journal
+W4416384230	0	4	sickness insurance	2025	False	2	0.83943722	True	True	Income–Well‐Being Gradient in Sickness and Health	Health Economics
+W1509719963	0	4		2011	False	1		True	True	Monitoring and monetary incentives in addressing absenteeism: Evidence from a sequence of policy changes	RePEc: Research Papers in Economics
+W3164510125	0	4		2017	False	1		False	False	Social Insurance and Health	SSRN Electronic Journal
+W4281666931	0	4		2022	False	1		True	True	Earnings-related benefits in Ireland: rationale, costs and work incentives	
+W4285065791	0	4		2022	False	1		False	True	Income–Well-Being Gradient in Sickness and Health	SSRN Electronic Journal
+W2128891253	0	4	sickness insurance	2010	False	0		True	True	Insured by the partner	RePEc: Research Papers in Economics
+W4391151675	0	4		2024	False	0		True	True	From the onset of illness to potential recovery	
+W4411483391	0	4		2025	False	0		True	False	An evaluation of the association between changes to job protection during illness leave and illness absence behaviour	medRxiv
+W4416411041	0	4	sick pay;replacement rate	2026	False	0		True	True	Sick Pay Policies and the Socioeconomic Gradient in Health and Welfare	CESifo
+W7148454399	0	4		2017	False	0		True	True	Repérer, reconnaître et prévenir les risques psychosociaux : une analyse institutionnelle et économique du cas français	theses.fr (ABES)
+W7148560352	0	4		2017	False	0		True	True	Teachers’ careers and students’ paths in higher education : three essays on public policy evaluation	theses.fr (ABES)
+W1984524168	3	0		2005	False	8118	1.0	True	True	Microeconometrics	Cambridge University Press eBooks
+W2140018188	3	0		2000	False	2227	0.99963732	True	True	Minimum Wages and Employment: A Case Study of the Fast-Food Industry in New Jersey and Pennsylvania: Reply	American Economic Review
+W2081940413	3	0		2009	False	1411	0.9948209	True	False	Presenteeism in the workplace: A review and research agenda	Journal of Organizational Behavior
+W2007212082	3	0		2003	False	1195	0.99853113	True	True	Cluster-Sample Methods in Applied Econometrics	American Economic Review
+W1528109329	3	0		1994	False	975	0.99760465	True	True	The incidence of mandated maternity benefits.	PubMed
+W4252885144	1	2		2010	False	590	0.99649123	True	False	Sickness, Disability and Work: Breaking the Barriers	OECD eBooks
+W2993177179	3	0		2005	False	569	0.98984897	False	True	Presenteeism: At Work -- But Out of It	Harvard business review
+W2790757288	1	2		2018	False	380	0.99784031	False	False	Presenteeism: A review and research directions	Human Resource Management Review
+W2088334432	3	0		2007	False	278	0.99669229	False	True	The work disincentive effects of the disability insurance program in the 1990s	Journal of Econometrics
+W2007574424	3	0		1998	False	207	0.98211856	True	False	A Dynamic Stochastic Model of Medical Care Use and Work Absence	Econometrica
+W2012994456	3	0		1992	False	165	0.97336718	True	True	The Determinants of Labor Absence: Economic Factors and Workgroup Norms across Countries	Industrial and Labor Relations Review
+W571997167	3	0		2012	False	135		True	True	The declining work and welfare of people with disabilities: what went wrong and a strategy for change	Choice Reviews Online
+W2036602293	3	0		2000	False	96	0.72247941	True	True	Worker Absenteeism: Why Firm Size May Matter	Manchester School
+W2092154567	3	0		2010	True	83	0.54850299	True	False	Ensuring a Healthy and Productive Workforce: Comparing the Generosity of Paid Sick Day and Sick Leave Policies in 22 Countries	International Journal of Health Services
+W2072456627	3	0		2005	False	80	0.99003242	False	True	Item nonresponse on income questions in panel surveys: Incidence, imputation and the impact on inequality and mobility	Allgemeines Statistisches Archiv
+W2029297659	3	0		2002	False	78	0.98831333	True	True	Determinants of Firm Workplace Health and Safety and Claims Management Practices	Industrial and Labor Relations Review
+W2463599556	0	3		2016	False	78	0.99131092	True	True	Long-term consequences of workplace bullying on sickness absence	Labour Economics
+W2015080265	3	0		2007	False	76	0.96997038	True	False	Being on Sick Leave: Possible Explanations for Differences of Sick-leave Days Across Countries	CESifo Economic Studies
+W3009296559	0	3		2020	False	74		True	True	Sickness and disability systems: comparing outcomes and policies in Norway with those in Sweden, the Netherlands and Switzerland	OECD Economics Department working papers
+W3125222004	1	2		2015	False	68	0.85900229	False	False	Can Compulsory Dialogues Nudge Sick-Listed Workers Back to Work?	The Economic Journal
+W2025781383	3	0		1981	False	67	0.83147281	True	True	Sickness Duration, Residual Disability, and Income Replacement: An Empirical Analysis	The Economic Journal
+W2116387821	2	1		2006	False	59		False	False	Job Security and Work Absence: Evidence from a Natural Experiment	SSRN Electronic Journal
+W3122400936	2	1		2011	False	57	0.97079653	False	False	Piece rates and workplace injury: Does survey evidence support Adam Smith?	Journal of Population Economics
+W2093031123	3	0		2009	False	56	0.82549618	False	True	Coughs and sneezes spread diseases: An empirical study of absenteeism and infectious illness	Journal of Health Economics
+W1595917770	1	2	sickness insurance	2010	False	53	0.90636935	True	True	Trends in long‐term sickness absence in Sweden 1992–2008: the role of economic conditions, legislation, demography, work environment and alcohol consumption	International Journal of Social Welfare
+W2112304643	3	0	benefit level	2004	False	51	0.95533402	True	False	The Effect of an Increase in Worker's Compensation Benefits on the Duration and Frequency of Benefit Receipt	The Review of Economics and Statistics
+W1977189967	3	0		2008	False	49	0.95919861	True	False	Disability insurance and unemployment insurance as substitute pathways	Applied Economics
+W2012190243	1	2	sickness insurance;waiting period	2005	False	45		True	True	Monitoring sickness insurance claimants: evidence from a social experiment *	RePEc: Research Papers in Economics
+W900768955	0	3		2015	False	39	0.8768501	False	True	Long-term sick leave and the impact of a graded return-to-work program: evidence from Germany	The European Journal of Health Economics
+W2027380646	1	2		2009	False	36	0.8809575	False	False	Work absences and doctor visits during an illness episode: The differential role of preferences, production, and policies among men and women	Journal of Econometrics
+W1564801634	3	0		2003	False	35	0.88827571	False	True	Take some days off, why don’t you?	Journal of Health Economics
+W3141648319	3	0		2011	False	35		False	True	The Unsustainable Rise of the Disability Rolls in the United States: Causes, Consequences, and Policy Options	SSRN Electronic Journal
+W1559509762	0	3	moral hazard	2014	False	34	0.92956421	True	True	Absence from Work of the Self‐Employed: A Comparison with Paid Employees	Kyklos
+W578781176	1	2		2006	False	33	0.99417637	True	False	Discrimination, Sickness Absence, and Labor Market Policy	
+W1823227986	0	3	benefit level	2015	False	32	0.95686651	True	True	Temporary Disability and Economic Incentives	The Economic Journal
+W1529745456	0	3		2010	False	30	0.86797839	True	False	Worker absenteeism and incentives: evidence from Italy	Managerial and Decision Economics
+W4229447182	0	3	sickness benefit	2022	True	30	0.89583333	True	True	Follow-up regimes for sick-listed employees: A comparison of nine north-western European countries	Health Policy
+W2096673566	1	2		2015	False	29	0.97565413	True	True	The short-run impacts of Connecticut’s paid sick leave legislation	Applied Economics Letters
+W2965906594	0	3		2020	False	25	0.82504596	True	True	Absenteeism and Presenteeism Among American Workers	Journal of Disability Policy Studies
+W631189548	0	3	sickness insurance	2008	False	23	0.99385461	True	True	Empirical studies of public policies within the primary school and the sickness insurance	
+W2339737338	0	3		2017	False	22		False	False	Commuting and Sickness Absence	SSRN Electronic Journal
+W2076042101	1	2		2015	False	21	0.88764324	True	False	Worried sick? Worker responses to a financial shock	Labour Economics
+W2322166048	1	2		2016	False	18	0.95238767	True	False	Performance Standards and Employee Effort: Evidence From Teacher Absences	Journal of Policy Analysis and Management
+W1563064513	0	3		2005	False	17	0.94615004	True	False	Hur påverkar kravet på läkarintyg sjukfrånvaron? Erfarenheter från ett soci-alt experiment	
+W4383314001	0	3		2023	False	17	0.94301463	True	True	The Response of Firms to Maternity Leave and Sickness Absence	The Journal of Human Resources
+W2105254645	1	2		2013	False	16		False	False	Absenteeism, Unemployment and Employment Protection Legislation: Evidence from Italy	SSRN Electronic Journal
+W2556830588	0	3		2004	False	16	0.88479465	True	False	Sickness absence: Worker and establishment effects	
+W1564907263	1	2		2009	False	14	0.74529654	True	False	Les absences au travail en Europe	Travail et emploi
+W1821272500	0	3	moral hazard	2017	False	14	0.74740303	False	True	A methodological proposal to evaluate the cost of duration moral hazard in workplace accident insurance	The European Journal of Health Economics
+W2151671583	3	0	sick pay	2009	False	13		False	True	The Effects of a Sick Pay Reform on Absence and on Health-Related Outcomes	SSRN Electronic Journal
+W2741021691	0	3		2017	False	10	0.12608087	True	True	Inciter les entreprises à améliorer la santé au travail	Regards
+W1483622882	0	3		2007	False	9		True	False	Sickness Absence and Peer Effects -Evidence from a Swedish Municipality	RePEc: Research Papers in Economics
+W2325675435	1	2	experience rating	2013	False	9	0.77273012	True	True	Financial Incentives of Experience Rating in Workers' Compensation	Journal of Occupational and Environmental Medicine
+W2954141438	0	3		2019	False	9	0.84461245	True	True	Can Working Women and Men Afford to Take Paid Leave? A Comparative Study of the Level of Paid Leave Benefits and Poverty Thresholds in the OECD	Journal of Comparative Policy Analysis Research and Practice
+W3167036525	1	2		2021	False	8	0.78093584	True	False	Changes in Unemployment Affect Sickness Absence and Disability Retirement Rates: A Municipality-Level Panel Study	International Journal of Environmental Research and Public Health
+W3204999247	2	1		2021	False	8	0.8864995	False	False	Employer Responsibility in Disability Insurance: Evidence from the Netherlands	
+W4224227694	0	3		2022	False	8	0.75957875	True	True	Effects of dialogue meetings on sickness absence—Evidence from a large field experiment	Journal of Health Economics
+W4313422840	0	3		2022	False	8		True	True	Fundamentally Reforming the DI System: Evidence from German Notch Cohorts	National Bureau of Economic Research
+W2554379918	0	3		2016	False	7	0.89759335	False	True	Alternative medicine, worker health, and absenteeism in the United States	Complementary Therapies in Medicine
+W2476387372	0	3		2016	False	7		False	True	Health and the labor market – New developments in the literature	Labour Economics
+W2745084023	0	3	sick leave insurance;moral hazard	2018	False	7	0.95125777	True	True	Social Insurance and Health	Emerald Group Publishing Limited eBooks
+W2920881783	0	3		2016	False	7		True	True	The Effect of Paid Sick Leave Mandates on Access to Paid Leave and Work Absences	
+W2063500338	0	3	sickness insurance	2011	False	6	0.68717372	True	True	The medical doctors as gatekeepers in the sickness insurance?	Applied Economics
+W211913321	0	3	sick pay;sickness insurance;moral hazard	2005	False	6		True	True	Differences and similarities in work absence behavior : - empirical evidence from micro data	KTH Publication Database DiVA (KTH Royal Institute of Technology)
+W3110704459	0	3		2017	False	6		False	False	Commuting and Sickness Absence	SSRN Electronic Journal
+W4414923535	0	3		2025	False	6	0.96120305	True	False	The Effects of Paid‐Sick‐Leave Mandates on Care Provision	Health Economics
+W1511864077	0	3		2012	False	5		False	False	Why Does the Private Sector React Like the Public to Law 133? A Microeconometric Analysis of Sickness Absence in Italy	SSRN Electronic Journal
+W2606770220	3	0		2016	False	5	0.72961923	False	True	Sjukskrivningarnas anatomi : en ESO-rapport om drivkrafterna i sjukförsäkringssystemet	
+W25637544	0	3		2011	False	5		True	False	Arrêts maladie: comprendre les disparités départementales	RePEc: Research Papers in Economics
+W3113392091	0	3		2020	False	5	0.67614523	True	False	The Impact of CBT on Sick Leave and Health	Evaluation Review
+W9384839	0	3		2011	False	5		True	False	Sick leaves: Understanding disparities between French Departments 1	RePEc: Research Papers in Economics
+W3123568356	0	3		2015	False	4	0.89788331	True	False	Protecting working-age people with disabilities: experiences of four industrialized nations	Federal Reserve Bank of San Francisco, Working Paper Series
+W4391214151	0	3		2023	False	4	0.74367014	True	False	The Impact of the Employee’s Personal Characteristics on the Abuse of Sickness Absence: Empirical Evidence From Poland	Wroclaw Review of Law Administration & Economics
+W192913285	1	2		2014	False	3	0.73839594	True	False	Sykefravær og permitteringer i bygg og anlegg etter finanskrisen	Søkelys på arbeidslivet
+W2123787058	1	2		2012	False	3		True	False	Workplace size and sickness absence transitions	RePEc: Research Papers in Economics
+W2256991487	1	2		2015	False	3		False	False	Employers Opting Out of Public Disability Insurance: Selection or Incentive Effects?	SSRN Electronic Journal
+W2290670939	0	3		2015	False	3		False	False	Behavioural Inquisition into Absenteeism	SSRN Electronic Journal
+W3109394681	0	3		2020	False	3	0.66449709	True	True	Motivation prosociale et présentéisme dans les secteurs public et privé	Revue économique
+W4226223931	0	3		2022	False	3		False	True	Why Do Temporary Workers Have Higher Disability Insurance Risks Than Permanent Workers?	SSRN Electronic Journal
+W4406991442	1	2		2025	False	3	0.85153629	True	False	A New Empirical Model of the Determinants of Sickness and the Choice Between Presenteeism and Absence	Labour
+W1514383130	0	3		2011	False	2	0.93799672	False	False	Evaluation sozialpolitischer Reformen	Journal for Labour Market Research
+W2143372126	0	3		2011	False	2		False	True	Work Absenteeism Due to a Chronic Disease	SSRN Electronic Journal
+W2292217805	0	3		2015	False	2		False	False	Clinical Reflections on Some Models in Absenteeism	SSRN Electronic Journal
+W2981568699	0	3		2019	False	2	0.68983607	True	True	Going Through Hell: Increased Work Effort in the Aftermath of Terrorism in Norway*	Scandinavian Journal of Economics
+W4319794185	0	3		2023	False	2	0.64603759	True	False	Labour market effects of social insurance reform in Vietnam	Journal of the Asia Pacific Economy
+W1999392934	0	3		2014	False	1	0.67826717	True	False	Introducing waiting times for health care in a labor supply model for sickness absence	Nordic Journal of Health Economics
+W2549027646	0	3	sick pay	2016	False	1	0.28235045	True	True	Sick pay reforms and health status in a unionised labour market	Scottish Journal of Political Economy
+W336912089	0	3		2008	False	1	0.88526722	False	True	Sociala normer och socialförsäkringar – Teori och svenska erfarenheter	Ekonomisk Debatt
+W4285118175	0	3	moral hazard	2022	False	1		False	True	Workers' Moral Hazard and Insurer Effort in Disability Insurance	SSRN Electronic Journal
+W4387095603	1	2		2023	False	1	0.53618644	True	True	Contribution of compositional changes in the workforce to sickness absence trends in Finland	SSM - Population Health
+W7166656522	0	3	sick pay	2026	False	1	0.95118198	True	True	Determinants of high annual sickness absence in older workers: a prospective cohort study in England (Health and Employment After Fifty study)	BMJ Open
+W1948975399	0	3		2015	False	0		True	False	In good times and in bad Immigrants, Self-employment and Social insurances.	Lund University Publications (Lund University)
+W2213611250	0	3		2008	False	0	0.14093567	False	False	Chapter 5 Sickness Absence from Work	Contributions to economic analysis
+W2553463363	0	3		2009	False	0	0.423555	False	False	Sick leave and economic incentives	
+W275633077	0	3		2015	False	0		True	False	Missing at Work - Sickness-related Absence and Subsequent Job Mobility	RePEc: Research Papers in Economics
+W2804961609	0	3		2018	False	0		False	True	Domain-Specific Risk and Public Policy	SSRN Electronic Journal
+W2953895442	0	3		2018	False	0		True	False	Integrating motherhood and employment: the role of breastfeeding legislation	Spiral (Imperial College London)
+W4366963682	0	3	moral hazard	2023	False	0		False	True	Workers’ Moral Hazard and Insurer Effort in Disability Insurance	SSRN Electronic Journal
+W7148373309	0	3		2017	False	0		True	True	Motivation pro-sociale et don du travail : une comparaison entre le secteur public et le secteur privé	theses.fr (ABES)
+W7214545477	0	3	sickness insurance	2026	False	0	0.6714671	True	True	CAUSES AND FORMS OF SICKNESS ABSENCE ABUSE IN POLAND	Polityka Społeczna
+W2577227262	2	0		2008	False	14413	0.99787686	True	True	Mostly Harmless Econometrics	Princeton University Press eBooks
+W2117594039	2	0		1978	False	5589	0.99846272	False	False	On the Pooling of Time Series and Cross Section Data	Econometrica
+W2080061756	2	0		1998	False	3838	0.99939034	True	True	Matching As An Econometric Evaluation Estimator	The Review of Economic Studies
+W3122958054	2	0		2007	False	3765	0.99936624	False	True	Regression discontinuity designs: A guide to practice	Journal of Econometrics
+W3123265974	2	0		2007	False	3691	0.99786105	False	True	Manipulation of the running variable in the regression discontinuity design: A density test	Journal of Econometrics
+W1597926580	2	0		1994	False	2884	0.89147287	False	True	Local Polynomial Modelling and its Applications	Springer eBooks
+W2114242548	2	0		2001	False	2656	0.99711816	True	True	Identification and Estimation of Treatment Effects with a Regression-Discontinuity Design	Econometrica
+W1978371266	2	0		2010	False	2622		False	False	Mostly Harmless Econometrics: An Empiricist's Companion	Business Economics
+W1547415738	2	0		1999	False	2040	0.99924925	False	False	Labor Supply: A Review of Alternative Approaches	Handbook of labour economics
+W2088212458	2	0		2003	False	1989	0.99854782	True	False	Performance in Competitive Environments: Gender Differences	The Quarterly Journal of Economics
+W1975383176	2	0		1986	False	1594	0.97064901	False	False	Random group effects and the precision of regression estimates	Journal of Econometrics
+W2891249980	2	0		1988	False	1284		True	False	Unemployment Insurance And Unemployment Spells	National Bureau of Economic Research
+W2104518402	2	0		1990	False	1178	0.98464888	True	False	Unemployment Insurance and Unemployment Spells	Econometrica
+W3125512578	2	0		2006	False	1151	0.99618817	True	False	Identification and Inference in Nonlinear Difference-in-Differences Models	Econometrica
+W4302414222	2	0		2018	False	1108	0.9888535	True	True	Local Polynomial Modelling and Its Applications	Routledge eBooks
+W1964352664	2	0	replacement rate	2003	False	974	0.99912816	True	True	The Rise in the Disability Rolls and the Decline in Unemployment	The Quarterly Journal of Economics
+W2097240475	2	0		1998	False	852	0.99681996	True	False	The Economic Consequences of Parental Leave Mandates: Lessons from Europe	The Quarterly Journal of Economics
+W2148569160	2	0		2011	False	730	0.99969224	True	False	Performance Pay and Multidimensional Sorting: Productivity, Preferences, and Gender	American Economic Review
+W1606863616	2	0		1989	False	658	0.97300618	False	True	Some Simple Economics of Mandated Benefits	American Economic Review
+W2097636528	2	0		2010	False	626	0.98984904	True	False	Inference with “Difference in Differences” with a Small Number of Policy Changes	The Review of Economics and Statistics
+W1957884239	2	0		2004	False	512	0.95659752	True	True	Presenteeism: at work--but out of it.	PubMed
+W2063888649	2	0		1998	False	502	0.97052172	False	False	Parental Leave and Child Health	Journal of Health Economics
+W2890546020	2	0		2009	False	456		True	True	Optimal Bandwidth Choice for the Regression Discontinuity Estimator	
+W2121407100	2	0	moral hazard	2006	False	451	0.99936968	True	False	The Growth in the Social Security Disability Rolls: A Fiscal Crisis Unfolding	The Journal of Economic Perspectives
+W2132851839	2	0		2012	False	430	0.99541679	True	False	The Effects of California's Paid Family Leave Program on Mothers’ Leave‐Taking and Subsequent Labor Market Outcomes	Journal of Policy Analysis and Management
+W2116405120	2	0		2016	False	394	0.95334276	True	False	Economic Activity and the Spread of Viral Diseases: Evidence from High Frequency Data *	The Quarterly Journal of Economics
+W2164913676	2	0		1979	False	346	0.95119624	True	False	The Optimal Payment of Unemployment Insurance Benefits over Time	Journal of Political Economy
+W2102833611	2	0		2015	False	317	0.99973294	True	False	A Flying Start? Maternity Leave Benefits and Long-Run Outcomes of Children	Journal of Political Economy
+W2138836438	2	0		2002	False	314		True	True	Labor Supply Effects of Social Insurance	National Bureau of Economic Research
+W3121866572	2	0		2008	False	238	0.99680684	True	True	Estimating the Effect of Student Aid on College Enrollment: Evidence from a Government Grant Policy Reform	American Economic Journal Economic Policy
+W3123449212	0	2		2009	False	235	0.9821374	False	False	The public health costs of job loss	Journal of Health Economics
+W2140139522	2	0		1999	False	228	0.97824123	True	False	The impact of the family and medical leave act	Journal of Policy Analysis and Management
+W2145027327	2	0		2013	False	205	0.99797544	True	False	Parental Leave and Mothers' Careers: The Relative Importance of Job Protection and Cash Benefits	The Review of Economic Studies
+W2149276830	0	2		2007	False	198	0.87808112	False	False	The relation between fluid intelligence and the general factor as a function of cultural background: A test of Cattell's Investment theory	Intelligence
+W4241074143	2	0		2001	False	183	0.99787377	True	True	The German Socio-Economic Panel (GSOEP) after more than 15 Years — Overview	Vierteljahrshefte zur Wirtschaftsforschung
+W2891587646	2	0		2002	False	180	0.92458867	False	True	Chapter 33 Labor supply effects of social insurance	Handbook of public economics
+W2041175803	2	0		1997	False	165	0.94658676	True	False	Gender Differences in Days Lost from Work Due to Illness	Industrial and Labor Relations Review
+W2073338958	2	0		2014	False	161	0.9972966	True	False	How Financial Incentives Induce Disability Insurance Recipients to Return to Work	American Economic Review
+W2060355451	2	0	replacement rate	1995	False	145	0.99857688	True	True	The importance of employer accommodation on the job duration of workers with disabilities: A hazard model approach	Labour Economics
+W2165307446	0	2		2006	False	141	0.98527767	False	False	Are recessions good for workplace safety?	Journal of Health Economics
+W3024022508	2	0		1990	False	141	0.97764877	False	False	Incentive effects of workers' compensation insurance	Journal of Public Economics
+W2050270363	2	0		2011	False	137	0.99342254	False	True	The impact of stricter criteria for disability insurance on labor force participation	Journal of Public Economics
+W1862785244	0	2	moral hazard	2011	False	127	0.91386152	True	True	THE ECONOMICS OF HEALTH AND SAFETY AT WORK: AN INTERDICIPLINARY REVIEW OF THE THEORY AND POLICY	Journal of Economic Surveys
+W2038098345	2	0		2014	False	124	0.9955587	True	False	Social Support Substitution and the Earnings Rebound: Evidence from a Regression Discontinuity in Disability Insurance Reform	American Economic Journal Economic Policy
+W3121159220	2	0		1996	False	123	0.95582633	True	False	"Is Workers' Compensation Covering Uninsured Medical Costs? Evidence from the ""Monday Effect"""	Industrial and Labor Relations Review
+W2033387768	2	0		1981	False	113	0.97703286	True	False	Compensation, Safety, and Absenteeism: Evidence from the Paper Industry	Industrial and Labor Relations Review
+W2142951268	2	0		2004	True	110	0.52673797	True	True	Chapter 11. Physicians' sick-listing practices	Scandinavian Journal of Public Health
+W2005935621	2	0		2001	False	107		False	False	The Effect of Employment Protection on Worker Effort: A Comparison of Absenteeism During and after Probation	SSRN Electronic Journal
+W2124456619	2	0		2004	False	107	0.95589106	True	False	A microeconometric evaluation of rehabilitation of long‐term sickness in Sweden	Journal of Applied Econometrics
+W2152475163	2	0		2014	False	98	0.97669763	True	False	Population-level effects of suppressing fever	Proceedings of the Royal Society B Biological Sciences
+W1535975877	2	0		1983	False	96	0.88859655	True	True	Women and absenteeism: health or economics?	PubMed
+W2048984013	2	0		2011	False	94	0.96432797	True	False	Return to work after early part-time sick leave due to musculoskeletal disorders: a randomized controlled trial	Scandinavian Journal of Work Environment & Health
+W4254554316	0	2		2010	False	94	0.80600462	True	False	Maladie, invalidité et travail : Surmonter les obstacles	OECD eBooks
+W2092407215	2	0		1986	False	88	0.91335587	True	False	Absenteeism as a Mechanism for Approaching an Optimal Labor Market Equilibrium: An Empirical Study	The Review of Economics and Statistics
+W1480866896	0	2		2010	False	82	0.99039159	False	False	An empirical assessment of assortative matching in the labor market	Labour Economics
+W1978507051	2	0		2005	False	76	0.97570712	False	False	Not so voluntary retirement decisions? Evidence from a pension reform	Journal of Public Economics
+W3122181088	2	0		2007	False	76	0.99611043	True	True	Reduction in the Long-Term Unemployment of the Elderly: A Success Story from Finland	Journal of the European Economic Association
+W2147352545	2	0		2009	False	74	0.96185555	False	False	Does graded return-to-work improve sick-listed workers’ chance of returning to regular working hours?	Journal of Health Economics
+W3045786617	1	1	sick pay	2021	False	73	0.9740724	True	True	Positive Health Externalities of Mandating Paid Sick Leave	Journal of Policy Analysis and Management
+W2891166987	2	0		1999	False	70		True	True	Work Environment and Individual Background: Explaining Regional Shirking Differentials in a Large Italian Firm	National Bureau of Economic Research
+W3122176424	2	0		2008	False	68	0.92099006	False	False	Employment protection and sickness absence	Labour Economics
+W3122818259	2	0		2009	False	62		False	False	Sick of Your Colleagues' Absence?	SSRN Electronic Journal
+W3021325719	2	0		2011	False	61		True	False	The Unsustainable Rise of the Disability Rolls in the United States: Causes, Consequences, and Policy Options	National Bureau of Economic Research
+W2006454459	2	0		1979	False	58	0.95480226	False	True	National Insurance and Absence from Work	The Economic Journal
+W2805335844	0	2		2019	False	58	0.95584305	False	False	Graded return-to-work as a stepping stone to full work resumption	Journal of Health Economics
+W1993353069	2	0		2001	False	56	0.85509244	True	False	Absenteeism in the UK: A Comparison Across Genders	Manchester School
+W26734890	0	2	sickness insurance	2002	False	56	0.99483506	True	False	Evaluating Social Programs: Active Labor Market Policies and Social Insurance	
+W1509290818	0	2		2007	False	52		True	False	Comparing teachers' assessments and national test results: Evidence from Sweden	RePEc: Research Papers in Economics
+W2752895462	0	2		2017	False	51	0.88557193	False	False	Drivers of Effort: Evidence from Employee Absenteeism	Journal of Financial Economics
+W2045814298	0	2		2013	False	50	0.99286501	True	False	Salaries and Work Effort: An Analysis of the European Union Parliamentarians	The Economic Journal
+W3121156260	0	2		2020	False	50		False	False	Urban Air Pollution and Sick Leaves: Evidence from Social Security Data	SSRN Electronic Journal
+W2055022774	0	2		2011	False	48	0.97030416	False	False	Detecting discrimination in the hiring process: evidence from an Internet-based search channel	Empirical Economics
+W2132658439	2	0	sickness benefit;sickness insurance	2014	False	48	0.90821095	True	False	Effectiveness of new legislation on partial sickness benefit on work participation: a quasi-experiment in Finland	BMJ Open
+W1963949601	0	2		2006	False	46	0.8981074	False	False	The Effect of Enhancing Workers’ Employability on Small and Medium Enterprises: Evidence from Spain	Small Business Economics
+W1868150224	0	2		2015	False	45	0.92515979	True	False	Determinants of the Annual Duration of Sickness Presenteeism: Empirical Evidence from E uropean Data	Labour
+W2618510864	0	2		2017	False	41	0.91762286	True	True	A survey of absenteeism on construction sites	International Journal of Manpower
+W2172116092	2	0	sickness benefit	2001	False	40	0.888021	True	False	Changes in sickness absenteeism following the introduction of a qualifying day for sickness benefit - findings from Sweden Post	Scandinavian Journal of Public Health
+W124257492	0	2		2012	False	39	0.86620328	False	False	Das Sozio-oekonomische Panel (SOEP)	Bundesgesundheitsblatt - Gesundheitsforschung - Gesundheitsschutz
+W2161931574	2	0	benefit level	2012	False	39	0.97797798	True	True	Revisiting Incentive Effects in Workers' Compensation: Do Higher Benefits Really Induce More Claims?	Industrial and Labor Relations Review
+W2148048371	0	2		2007	False	38		True	False	Strategic Competition in Swedish Local Spending on Childcare, Schooling and Care for the Elderly	RePEc: Research Papers in Economics
+W1500358011	0	2		2004	False	37		False	False	Sickness Absence and Search Unemployment	SSRN Electronic Journal
+W1822734879	2	0		2003	False	37	0.93156409	True	True	The Response of Worker Effort to Piece Rates	The Journal of Human Resources
+W1954487083	1	1	co-payment	2010	False	37	0.95252147	True	True	Estimating Price Elasticities of Convalescent Care Programmes	The Economic Journal
+W2136790232	2	0		2012	False	36	0.99130129	True	False	The Importance of Anti-Discrimination and Workers' Compensation Laws on the Provision of Workplace Accommodations following the Onset of a Disability	Industrial and Labor Relations Review
+W2111941187	0	2		2008	False	35	0.9765787	True	False	Resources and Student Achievement—Evidence from a Swedish Policy Reform*	Scandinavian Journal of Economics
+W2116481194	0	2	benefit level	2014	False	35	0.95637773	True	True	Increasing health inequalities between women in and out of work - the impact of recession or policy change? A repeated cross-sectional study in Stockholm county, 2006 and 2010	International Journal for Equity in Health
+W3121972427	2	0		1994	False	32		True	False	Unnatural Experiments? Estimating the Incidence of Endogenous Policies	RePEc: Research Papers in Economics
+W3047750766	0	2		2020	False	31	0.95060902	False	True	Estimating the causal effects of private health insurance in Brazil: Evidence from a regression kink design	Social Science & Medicine
+W4321595530	0	2		2023	True	31	0.76857361	True	False	Is paid sick leave bad for business? A systematic review	American Journal of Industrial Medicine
+W2135173782	2	0		2001	False	30	0.80371951	True	False	Contracted Workdays and Absence	Manchester School
+W2151188400	2	0		2015	False	30	0.9531803	True	False	Social Insurance Networks	The Journal of Human Resources
+W2286107741	0	2		2016	False	30	0.96324387	True	False	Absenteeism, childcare and the effectiveness of pension reforms	IZA Journal of European Labor Studies
+W2482692030	0	2	experience rating	2012	False	30	0.9056336	True	True	A Critical Review of Literature on Experience Rating in Workers’ Compensation Systems	Policy and Practice in Health and Safety
+W2039845653	0	2		2014	False	29	0.89207833	False	False	Cross-border health and productivity effects of alcohol policies	Journal of Health Economics
+W3123382735	0	2		2018	False	29	0.92043151	True	False	Maternity Leave and Mothers’ Long-Term Sickness Absence: Evidence From West Germany	Demography
+W4213289751	0	2		2020	False	26		True	False	Paid sick leave to protect income, health and jobs through the COVID-19 crisis	OECD policy responses to coronavirus (Covid-19)
+W2945664121	2	0	experience rating	2020	False	25	0.92345965	True	True	Eligibility, experience rating, and unemployment insurance take‐up	Quantitative Economics
+W1581054899	0	2		2007	False	24		True	False	Excess use of Temporary Parental Benefit	RePEc: Research Papers in Economics
+W3166098947	0	2		2023	False	24	0.96777782	True	False	The impacts of working from home on individual health and well-being	The European Journal of Health Economics
+W3167249107	0	2	sickness insurance;moral hazard	2004	False	24		True	True	Harmonizing unemployment and sickness insurance: Why (not)?	RePEc: Research Papers in Economics
+W1936787465	2	0		2013	False	23	0.9864191	True	False	Unionization and Certified Sickness Absence: Norwegian Evidence	Industrial and Labor Relations Review
+W1990484191	2	0		2005	False	22	0.924109	False	False	How accommodations affect the duration of post-injury employment spells	Journal of Labor Research
+W2162577974	2	0	sickness insurance	2013	False	22	0.95184445	True	True	Social Behaviour in Work Absence*	Scandinavian Journal of Economics
+W2511480658	0	2		2016	False	22	0.9517257	True	False	What is the impact of flexicurity on the chances of entry into employment for people with low education and activity limitations due to health problems? A comparison of 21 European countries using Qualitative Comparative Analysis (QCA)	BMC Public Health
+W3123746975	0	2		2024	False	21	0.9815293	True	False	When Dad Can Stay Home: Fathers' Workplace Flexibility and Maternal Health	American Economic Journal Applied Economics
+W1486034806	0	2		2007	False	20		True	False	Gender and ethnic interactions among teachers and students - evidence from Sweden	RePEc: Research Papers in Economics
+W1976952621	0	2		2013	False	19	0.9673007	False	True	Assessing the effectiveness of health care cost containment measures: evidence from the market for rehabilitation care	International Journal of Health Care Finance and Economics
+W3019950574	0	2		2020	False	19		False	False	Urban Air Pollution and Sick Leaves: Evidence from Social Security Data	SSRN Electronic Journal
+W1546067158	1	1	sick pay	2010	False	18	0.93747202	False	True	Mandatory sick pay provision: A labor market experiment	Journal of Public Economics
+W1587379941	0	2	sickness insurance	2010	False	18		True	True	Long-term sickness absence : Aspects of society, work, and family	Figshare
+W2009285763	0	2		2013	False	18	0.7854689	False	False	The impact of working conditions on sickness absence: a theoretical model and an empirical application to work schedules	Empirical Economics
+W1494252704	0	2		2012	False	17	0.97281756	True	False	The Effect of Variable Pay Schemes on Workplace Absenteeism	Research in labor economics
+W2109021417	2	0	sickness insurance;moral hazard	2015	False	17	0.94431095	True	True	Early Interventions and Disability Insurance: Experience from a Field Experiment	The Economic Journal
+W3123443526	0	2		2015	False	16	0.81369136	True	False	How are Work-Related Characteristics Linked to Sickness Absence and Presenteeism? Theory and Data	Journal of Contextual Economics – Schmollers Jahrbuch
+W2009723123	2	0		2000	False	15	0.96068152	True	True	Workers' Compensation	University of Toronto Press eBooks
+W2042496135	0	2		2011	False	15	0.84222729	True	False	Does health insurance reduce illness-related worker absenteeism?	Applied Economics
+W1833210009	0	2		2010	False	13	0.89442815	True	False	What does Eurostat's Labour Force Survey say about health and health inequalities in the European Union?	UEA Digital Repository (University of East Anglia)
+W2046735428	0	2		2014	False	13	0.68242272	False	True	Daylight and absenteeism – Evidence from Norway	Economics & Human Biology
+W2071145085	0	2		2013	True	13	0.19185127	True	False	Healthcare performance turned into decision support	Journal of Health Organization and Management
+W2256111254	0	2		2017	False	13	0.92454351	True	False	Worker Morale and Effort: Is the Relationship Causal?	Manchester School
+W4385275959	0	2	moral hazard	2023	False	13	0.90912322	True	True	Determinants of the duration of sick leave due to occupational injuries: Evidence from Spanish manufacturing	Journal of Safety Research
+W1838253248	0	2		2008	False	12	0.93024539	True	False	Temporary contracts, employees' effort and labour productivity: the evidence for Italy	Economia Politica
+W4310375817	0	2		2022	False	12	0.8443215	True	False	Utilizing a Nordic Crosswalk for Occupational Coding in an Analysis on Occupation-Specific Prolonged Sickness Absence among 7 Million Employees in Denmark, Finland, Norway and Sweden	International Journal of Environmental Research and Public Health
+W2004834876	0	2		2010	False	11	0.83144402	False	False	The effect of health care expenditure on sickness absence	The European Journal of Health Economics
+W2098112652	0	2		2020	False	11	0.81740913	True	False	Glass Ceiling or Slippery Floors? Understanding Gender Differences in the Spanish Worker’s Compensation System	Studies of Applied Economics
+W2181335771	2	0	experience rating	1998	False	11	0.86088277	False	True	Evidence on the Efficacy of Experience Rating in British Columbia A Report to The Royal Commission on Workers' Compensation in BC	
+W2499467685	0	2	sickness insurance	2005	False	11	0.94904996	True	True	Worker Absenteeism Under Voluntary and Compulsory Sickness Insurance: Continental Europe, 1885–1908	Research in economic history
+W2610063237	2	0		2000	False	11	0.94784926	False	True	7 Occupational Health and Safety: Effectiveness of Economic and Regulatory Mechanisms	University of Toronto Press eBooks
+W3200535735	1	1	sick pay	2022	False	11	0.82807179	True	True	The value of sick pay	European Economic Review
+W1515026538	0	2	sickness benefit	2007	False	10		True	True	Economic policy in health care : Sickness absence and pharmaceutical costs	KTH Publication Database DiVA (KTH Royal Institute of Technology)
+W2013678280	0	2		2009	False	10	0.90398099	True	False	Work Absence — A Signalling Factor for Temporary Workers?	Labour
+W2141000995	0	2		2009	False	10	0.93495935	True	False	IS LEISURE CONTAGIOUS? THE RELATIONSHIP BETWEEN SICKNESS ABSENCE AND SPOUSAL RETIREMENT	National Institute Economic Review
+W2343191366	0	2		2016	False	10		True	False	Disability policies: Reform strategies in a comparative perspective	National Bureau of Economic Research
+W4297564140	0	2		2022	False	10	0.78573636	False	True	The impact of state paid sick leave policies on weekday workplace mobility during the COVID-19 pandemic	Public Health
+W1484218161	0	2		2003	False	9	0.14901719	True	False	Sickness-related Absenteeism and Economic Incentives in Sweden : A History of Reforms	RePEc: Research Papers in Economics
+W1535803502	0	2	sickness benefit	2007	False	9		True	True	The Public Health Costs of Unemployment	RePEc: Research Papers in Economics
+W2477803568	1	1	experience rating	2012	False	9	0.7997278	True	True	Workers’ Compensation Experience Rating and Return to Work	Policy and Practice in Health and Safety
+W2799616474	0	2		2020	False	9	0.87369155	True	False	Immigrant Responses to Social Insurance Generosity	Labour Economics
+W1994065134	0	2		2014	False	8	0.15903256	False	False	Bargaining for health: A case study of a collective agreement-based health program for manual workers	Journal of Health Economics
+W2927940391	0	2		2019	False	8	0.793462	True	False	THE ABILITY OF OLDER WORKERS WITH IMPAIRMENTS TO ADAPT TO NEW JOBS: CHANGING THE AGE CRITERIA FOR SOCIAL SECURITY DISABILITY INSURANCE	Journal of Policy Analysis and Management
+W3111825913	0	2	sickness insurance	2020	False	8	0.9464371	True	True	Graded Work, the Activation of Sick-Listed Workers and Employer Participation in Continental Europe	Social Policy and Society
+W1557818164	0	2		2011	False	7	0.93107368	False	False	Swedish Fiscal Policy	
+W2511790350	0	2		2016	False	7	0.14899888	True	False	W HAT H APPENS W HEN C OMPENSATION FOR W HIPLASH C LAIMS I s M ADE M ORE G ENEROUS?	Journal of Risk & Insurance
+W1491924301	0	2		2010	False	6		True	False	Analyses of Sickness Absence	Utrecht University Repository (Utrecht University)
+W1497335843	0	2		2007	False	6		True	False	The gender gap in workplace authority in Sweden 1968–2000 – a family affair?	RePEc: Research Papers in Economics
+W1581287809	1	1	sickness insurance	2012	False	6		True	False	The effect of economic incentives on worker absenteeism : an empirical study using Swedish micro data	RePEc: Research Papers in Economics
+W1601452542	0	2		2007	False	6		True	False	The information method - theory and application	RePEc: Research Papers in Economics
+W1917529311	0	2	sick pay	2013	False	6	0.94692407	True	True	Benefit Morale and Cross‐Country Diversity in Sick Pay Entitlements	Kyklos
+W2036959527	0	2		2014	False	6	0.80285557	False	False	Early life conditions and long-term sickness absence during adulthood – A longitudinal study of 9000 siblings in Sweden	Social Science & Medicine
+W2125882498	0	2		2004	False	6	0.90082877	True	False	Employment and Non-employment: A Study of the Swedish Labour Market	Palgrave Macmillan UK eBooks
+W2954315417	0	2		2019	False	6	0.68096637	True	True	Trajectories of sickness absence among salaried workers: evidence from the WORKss cohort in Catalonia (Spain), 2012-2014	BMJ Open
+W4386219932	0	2		2023	False	6	0.79511459	True	False	Work hour mismatches and sickness absence and the moderating role of human resource practices: Evidence from Germany	German Journal of Human Resource Management Zeitschrift für Personalforschung
+W1543950447	2	0		2013	False	5	0.78175331	True	False	Duration of Sick Leave, Income and Health Insurance: Evidence from French French linked employer-employee data	RePEc: Research Papers in Economics
+W2166056001	2	0	sick pay	2014	False	5		True	True	A Kink that Makes You Sick: the Effect of Sick Pay on Absence in a Social Insurance System	Munich Personal RePEc Archive (Ludwig Maximilian University of Munich)
+W2850217808	0	2		2018	False	5	0.75850002	True	False	Aging Women under Pressure in Italian Families	Ethnologie française
+W2927666580	0	2		2020	False	5	0.62115481	True	True	Absenteeism on bridging days	Applied Economics Letters
+W1558364800	0	2		2007	False	4		True	False	Effects of work requirements on welfare migration	RePEc: Research Papers in Economics
+W2254955572	1	1	experience rating	2013	False	4		False	True	Does Experience Rating Reduce Disability Inflow?	SSRN Electronic Journal
+W2417738568	0	2	experience rating	2012	False	4	0.80211976	True	True	Financial incentives in workers’ compensation: an analysis of the experience-rating programme in Ontario, Canada	Policy and Practice in Health and Safety
+W3122100094	2	0	experience rating	2013	False	4		False	True	Does Experience Rating Reduce Disability Inflow?	SSRN Electronic Journal
+W1159980746	0	2		2014	False	3		True	False	Evaluating the Effect of a National Labour and Welfare Administration Reform (Nav-reform) on Employment, Social Insurance and Social Assistance	Bergen Open Research Archive (BORA) (University of Bergen)
+W1730183598	0	2		2004	False	3		True	False	An Analysis of Sick Leave in Sweden using Panel Data 1985-1997	RePEc: Research Papers in Economics
+W2004554565	0	2		2013	False	3	0.23335769	True	False	Relação entre o tipo de contrato de trabalho e a dedicação do trabalhador no emprego: evidências para as regiões metropolitanas brasileiras	Nova Economia
+W2117380106	0	2		2012	False	3	0.70553936	True	False	Matching vs Differencing when Estimating Treatment Effects with Panel Data: the Example of the Effect of Job Training Programs on Earnings	Toulouse 1 Capitole Publications (Université Toulouse I Capitole)
+W2520189293	0	2		2016	False	3	0.80145004	True	False	Transitions Between Compensated Work Disability, Joblessness, and Self-Sufficiency: A Cohort Study 1997–2010 of Those Jobless in 1995	Population Research and Policy Review
+W3035667121	0	2		2017	False	3	0.86490824	False	False	Four Decades of Disability Benefit Policies and the Rise and Fall of Disability Recipiency Rates in Five OECD Countries	
+W4285189094	0	2		2022	False	3		False	False	Help Your Employees, Help Your Firm: Evidence from U.S. Paid Sick Leave Mandates	SSRN Electronic Journal
+W1858582935	0	2	arbeidsgiverperiode	2010	False	2	0.74151258	True	True	Sykefravær og konjunkturer – en oversikt	Norsk Epidemiologi
+W2097691525	0	2	experience rating	2012	False	2	0.28743029	True	True	Anticipated and Unanticipated Incentives of Disability Insurance Experience Rating: the Case of the Netherlands	Policy and Practice in Health and Safety
+W2222624305	0	2		2008	False	2	0.85879265	False	False	Chapter 1 An Ageing Economy in an International Perspective	Contributions to economic analysis
+W2343556823	0	2		2016	False	2	0.85849305	True	True	A Comparative Analysis of the Financial Incentives of Two Distinct Experience-Rating Programs	Journal of Occupational and Environmental Medicine
+W2497954408	0	2		2015	False	2	0.7238815	True	False	Productivity Signalling and Further Training. Evidence on Absence Behaviour, Presenteeism and Overtime Hours of German Employees	Journal of Contextual Economics – Schmollers Jahrbuch
+W3123915851	2	0	sick pay	2012	False	2		False	True	Trade Union Membership and Sickness Absence: Evidence from a Sick Pay Reform	SSRN Electronic Journal
+W4221015452	0	2	sickness insurance;moral hazard	2022	False	2	0.805	True	True	Legitimacy and comprehensibility of work-related assessments and official decisions within the sickness insurance system	Linköping University medical dissertations
+W4226084212	0	2		2022	False	2		False	False	Labor Unions and Covid-19: Beyond the Workplace	SSRN Electronic Journal
+W4410552153	0	2		2025	False	2	0.80755754	True	False	Being a frontline worker in a health emergency: Healthcare workers’ absences and health during the COVID-19 pandemic	Labour Economics
+W1514072083	1	1	sickness insurance	2002	False	1		True	True	Causal effects of Economic Incentives on Absence from Work: A Duration Analysis Using Fixed Effects	RePEc: Research Papers in Economics
+W2189385588	0	2		2010	False	1	0.26995037	True	False	Underlättar tidiga insatser i sjukskrivningsprocessen återgången i arbete	
+W2222643113	0	2	sickness benefit	2013	False	1		True	True	Intergenerational transmission of long-term sick leave	RePEc: Research Papers in Economics
+W2252891788	0	2		2005	False	1	0.12385644	True	False	Knowledge Capital and Economic Growth: Sweden as an Emblematic Example	Physica-Verlag eBooks
+W2475463670	0	2		2016	False	1	0.63364894	True	False	Life cycle behavior under uncertainty	University of Groningen research database (University of Groningen / Centre for Information Technology)
+W251670944	0	2	benefit level	2007	False	1	0.06052539	True	True	Strategic Interactions among Swedish Local Governments	
+W2924218150	0	2		2018	False	1	0.26079688	True	False	Presenteeism in Economic Research*	Cambridge University Press eBooks
+W4206089031	0	2		2020	False	1		True	False	Le congé de maladie payé pour protéger les revenus, la santé et les emplois pendant la crise du COVID-19	Les réponses de l’OCDE face au coronavirus (Covid-19)
+W4306866073	0	2		2022	False	1	0.8999289	True	False	Five Decades of Disability Benefit Policies in Five OECD Countries	Oxford University Press eBooks
+W4377136838	0	2		2023	False	1	0.61534286	True	False	The heterogeneous impact of stricter criteria for disability insurance	Health Economics
+W4389254451	0	2		2023	False	1		False	False	Taking a Sick Day: The Effect of Paid Sick Leave Mandates on Financial Reporting Outcomes	SSRN Electronic Journal
+W4407923830	0	2		2025	False	1	0.8072096	True	False	The Adoption of Paid Sick Leave in US States	State Politics & Policy Quarterly
+W4414240039	0	2		2025	False	1	0.70720799	True	False	Vaccines at Work: Experimental Evidence from a Firm Campaign	Management Science
+W572057685	0	2	sickness benefit	2013	False	1		True	True	Long-term sickness absence and disability pension award as consequences of common mental disorders. Epidemiological studies using a population-based health survey and official ill health benefit registries	NORA - Norwegian Open Research Archives
+W1503667910	0	2	sickness benefit	2002	False	0		True	True	The Importance of Sickness Benefits Rights for a Comparison of Wages	RePEc: Research Papers in Economics
+W1536329325	0	2		2004	False	0		True	False	WHY ARE THE SICKNESS ABSENCES SO LONG IN SWEDEN	Gothenburg University Publications Electronic Archive (Gothenburg University)
+W2103081072	0	2		2009	False	0		False	True	Sick Leave and the Composition of Work Teams	SSRN Electronic Journal
+W2125353887	0	2		2007	False	0	0.31040468	True	False	Ethnicity and obesity: Evidence of automatic work performance stereotypes in Sweden	
+W2127928701	0	2		2007	False	0		False	False	Poisson Models with Employer-Employee Unobserved Heterogeneity: An Application to Absence Data	SSRN Electronic Journal
+W2183828633	0	2		2009	False	0		False	False	Faculty of Social and Life Sciences Public Health Science	
+W2185787581	0	2		2013	False	0		True	False	ABSTRACT Getting Disabled Workers Back to Work: How Important Are Economic Incentives? *	
+W2186344539	0	2		2015	False	0		True	False	ABSTRACT Worker Morale and Effort: Is the Relationship Causal? *	
+W2289087769	0	2		2014	False	0		False	False	Health, Lifestyle and Disability Transitions of Self-Employed Workers: Evidence from Dutch Insurance Data	SSRN Electronic Journal
+W2611698497	0	2	sickness insurance	2017	False	0		True	True	Development of income following sickness absence from the workplace or long-term unemployment, and among individuals with Multiple Sclerosis	Figshare
+W2807358239	0	2		2017	False	0	0.30460199	False	False	The contribution of new onset chronic disease to patterns of work absence	
+W2986995982	0	2		2019	False	0	0.21151085	True	False	Anticipating Next Public Administration Employee’s Absence Duration	Public Administration Issues
+W3031310680	0	2		2019	False	0	0.30385937	True	False	Anticipating the duration of public administration employees' future absences	Repositório do ISCTE-IUL
+W3135847551	0	2	moral hazard	2020	False	0	0.32673886	True	True	The Role of Private Insurance in Governing Work-Related Risks: A Law and Economics Perspective	Zeitschrift für Sozialreform
+W3165639939	0	2		2018	False	0		False	False	Graded Return-to-Work as a Stepping Stone to Full Work Resumption	SSRN Electronic Journal
+W4293173785	0	2		2022	False	0		False	False	Effects of Caseworker Screening on Health and Labor Supply	SSRN Electronic Journal
+W4298545509	0	2		2015	False	0		True	False	Performance Standards and Employee Effort: Evidence from Teacher Absences	
+W4321440138	0	2		2023	False	0	0.06155483	False	False	Relative Absence Concerns, Positional Consumption Preferences and Working Hours	Springer eBooks
+W4386973848	0	2		2023	False	0		False	True	The Effects of Employers' Disability and Unemployment Insurance Costs on Benefit Inflows	SSRN Electronic Journal
+W4400624038	0	2		2020	False	0		True	False	Matériel complémentaire	Perspectives de l'emploi de l'OCDE/OCDE perspectives de l'emploi
+W4402058239	0	2	sickness benefit	2024	False	0		False	False	What is (Behind) the Gender Gap in Sickness Benefits? Evidence from Administrative Data	SSRN Electronic Journal
+W4411231857	0	2	moral hazard	2025	False	0	0.10835964	False	True	Testing for moral hazard: a longitudinal examination of group life and health insurance in Taiwan	The Geneva Papers on Risk and Insurance Issues and Practice
+W54000842	0	2		2014	False	0	0.00873868	True	False	Safety-net or Safety-trap?	
+W568783721	0	2		2011	False	0		True	False	Worried sick? Sickness absence during organizational turmoil	Bergen Open Research Archive (BORA) (University of Bergen)
+W7115411261	0	2		2024	False	0		True	False	Analiza zdravstvenega absentizma v javnem sektorju	Repository of the University of Primorsk (University of Primorska)
+W7119016361	0	2		2026	False	0		False	False	The Gender Effects of Paid Sick Leave Mandates on Labor Performance: Evidence from Equity Analysts	SSRN Electronic Journal
+W7138033097	0	2		2026	False	0	0.1598085	True	False	Les données ouvertes au service de l’économie de la santé : l’expérience de l’enquête SHARE	Revue économique
+W7153523086	0	2	waiting day	2026	False	0	0.20263136	True	True	Waiting day reimbursement for the first sickness absence day among blue-collar workers in retail and wholesale during the pandemic	Scandinavian Journal of Public Health
+W7160517055	0	2		2026	False	0	0.26010351	True	False	„Kann man machen“ ist keine Op-Indikation	EvidenzUpdate
+W7163657609	0	2		2026	False	0	0.34668566	True	False	Understanding sick leave: the interplay between health and economic incentives	Applied Economics
+W2889779885	1	0	benefit level;moral hazard	2008	False	862	0.99915636	True	False	Moral Hazard versus Liquidity and Optimal Unemployment Insurance	Journal of Political Economy
+W2027088814	1	0	moral hazard	1974	False	700	0.99441581	True	False	Overinsurance and Public Provision of Insurance: The Roles of Moral Hazard and Adverse Selection	The Quarterly Journal of Economics
+W2106086255	1	0	replacement rate	2011	False	646	0.99849229	True	False	Economic Burden of Occupational Injury and Illness in the United States	Milbank Quarterly
+W2096694350	1	0	moral hazard	2013	False	307	0.99787422	True	True	The RAND Health Insurance Experiment, Three Decades Later	The Journal of Economic Perspectives
+W2092107418	1	0	moral hazard	2012	False	278	0.9979932	True	False	The Effects of Extended Unemployment Insurance Over the Business Cycle: Evidence from Regression Discontinuity Estimates Over 20 Years	The Quarterly Journal of Economics
+W2025014816	1	0	moral hazard	1998	False	216	0.95580661	False	True	Moral hazard and the demand for physician services: First lessons from a French natural experiment	European Economic Review
+W2064867072	1	0	moral hazard	1999	False	176	0.97784041	False	False	The economics of moral hazard revisited	Journal of Health Economics
+W2200172062	1	0	replacement rate;moral hazard	2018	False	174	0.99558633	True	True	The Optimal Timing of Unemployment Benefits: Theory and Evidence from Sweden	American Economic Review
+W2132943514	1	0	waiting period;benefit level	1997	False	122	0.9950104	True	True	Workers#x0027; Compensation Recipiency in Union and Nonunion Workplaces	Industrial and Labor Relations Review
+W2116604021	1	0	benefit level	2015	False	116	0.99184827	True	True	The Effect of Unemployment Benefits on the Duration of Unemployment Insurance Receipt: New Evidence from a Regression Kink Design in Missouri, 2003–2013	American Economic Review
+W3123209104	1	0	moral hazard	2016	False	101	0.99660441	True	True	Extended Unemployment Benefits and Early Retirement: Program Complementarity and Program Substitution	American Economic Journal Economic Policy
+W3121146582	1	0	benefit level		False	95		True	True	Nonlinear Policy Rules and the Identification and Estimation of Causal Effects in a Generalized Regression Kink Design	RePEc: Research Papers in Economics
+W2111755336	1	0	moral hazard	2010	False	91	0.98212223	True	False	Optimal Taxation and Social Insurance with Endogenous Private Insurance	American Economic Journal Economic Policy
+W1543952162	1	0	experience rating	1992	False	82	0.85781055	True	True	The Impact of Occupational Safety and Health Regulation on the Risk of Workplace Accidents: Quebec, 1983-87	The Journal of Human Resources
+W2325466037	1	0	sickness benefit	2008	True	78	0.48510363	True	False	Partial sick leave—review of its use, effects and feasibility in the Nordic countries	Scandinavian Journal of Work Environment & Health
+W1589376319	1	0	experience rating	1994	False	76		True	True	The Effects of Unemployment Insurance Taxes and Benefits on Layoffs Using Firm and Individual Data	National Bureau of Economic Research
+W1586030185	1	0	moral hazard	2006	False	72	0.82057637	True	False	Further Evidence on the “Monday Effect” in Workers' Compensation	Industrial and Labor Relations Review
+W2127345131	0	1	sickness insurance	2015	False	68	0.96703783	True	True	Sickness absence at a young age and later sickness absence, disability pension, death, unemployment and income in native Swedes and immigrants	European Journal of Public Health
+W2150132741	0	1	sickness benefit	2015	False	68	0.94247699	True	True	Causal inference in multi-state models–sickness absence and work for 1145 participants after work rehabilitation	BMC Public Health
+W2560435252	0	1	moral hazard	2017	False	65	0.99249171	True	False	In a Small Moment: Class Size and Moral Hazard in the Italian Mezzogiorno	American Economic Journal Applied Economics
+W2102389252	1	0	moral hazard	2006	False	61	0.96461419	True	True	Nonparametric bounds on the effect of deductibles in health care insurance on doctor visits – Swiss evidence	Health Economics
+W2072763934	1	0	moral hazard	1983	False	53	0.78662855	False	False	More on moral hazard	Journal of Health Economics
+W2118548957	1	0	moral hazard	2010	False	52	0.98462493	True	False	Workers' Compensation: Recent Developments in Moral Hazard and Benefit Payments	Industrial and Labor Relations Review
+W2038487625	1	0	waiting period	2014	False	46	0.98165551	True	True	Disability Insurance and Health Insurance Reform: Evidence from Massachusetts	American Economic Review
+W1971721704	1	0	experience rating	2005	False	45	0.98247784	True	True	Employer Responses to Workers' Compensation Insurance Experience Rating	Relations industrielles
+W2317926527	1	0	benefit level	1988	False	40	0.95339806	True	False	Workers' Compensation and the Level of Occupational Injuries	Journal of Risk & Insurance
+W2081683787	1	0	experience rating	1995	False	39	0.98947146	True	True	The Impact of Workers' Compensation Experience Rating on Employer Appeals Activity	Industrial Relations A Journal of Economy and Society
+W2125279885	0	1	moral hazard	2012	False	39	0.9862146	True	True	Active social insurance	IZA Journal of Labor Policy
+W3095534481	1	0	benefit level	2005	False	36	0.96709082	True	False	Extensive or Intensive Generosity? The Price and Income Effects of Federal Grants	The Review of Economics and Statistics
+W613375024	1	0	replacement rate	2006	False	36	0.99741494	True	False	Evaluating institutional changes in education and wage policy	
+W1971813560	0	1	moral hazard	2009	False	33	0.8735643	False	True	Perceived job security and sickness absence: a study on moral hazard	The European Journal of Health Economics
+W2007155096	1	0	sick pay	1952	False	28	0.90199956	True	False	An Analysis of Absence Under a Scheme of Paid Sick Leave	Occupational and Environmental Medicine
+W3123597935	1	0	replacement rate	2009	False	27	0.9445629	True	True	Disability Risk and the Value of Disability Insurance	University of Chicago Press eBooks
+W2120249767	1	0	moral hazard	2013	False	26	0.94406351	False	True	Arrow’s theorem of the deductible: Moral hazard and stop-loss in health insurance	Journal of Risk and Uncertainty
+W2009499217	0	1	replacement rate	2013	False	25	0.98140057	True	False	Measuring and validating social program replacement rates	Journal of European Public Policy
+W2046832612	0	1	sickness benefit	2006	False	25	0.94081984	False	False	Immigrant consumption of sickness benefits in Sweden, 1982–1991	The Journal of Socio-Economics
+W2068839152	1	0	sickness benefit;sickness insurance	2012	False	25	0.95659971	True	False	Termination of sickness benefits or transition to disability pension after changes in sickness insurance: a Swedish register study	Disability and Rehabilitation
+W2027284939	0	1	moral hazard	2010	False	24	0.87921007	True	True	Adverse selection and its consequences on medical and health insurance andtakafulin Malaysia	International Journal of Ethics and Systems
+W2084212550	1	0	sickness insurance	2013	False	23	0.97814909	True	True	Change and Resilience in Welfare State Policy. The Politics of Sickness Insurance in N orway and S weden	Social Policy and Administration
+W2104224544	0	1	sick leave insurance	2007	False	23	0.90126913	True	True	Reincentivizing – a new theory of work and work absence	BMC Health Services Research
+W2083279270	0	1	sickness insurance	2007	False	21	0.87907384	False	False	Benefit shifting: The case of sickness insurance for the unemployed	Labour Economics
+W2142065048	1	0	experience rating	2005	False	21	0.97393437	True	True	Experience Rating versus Employment Protection Laws in a Model where Firms Monitor Workers*	Scandinavian Journal of Economics
+W2329790823	0	1	experience rating	2010	False	21	0.84976284	True	True	Economic incentives as a policy tool to promote safety and health at work	Scandinavian Journal of Work Environment & Health
+W2070785347	1	0	sickness insurance	2012	False	20	0.91848992	False	False	Effects of eligibility screening in the sickness insurance: Evidence from a field experiment	Labour Economics
+W2893959765	0	1	sickness benefit	2018	False	20	0.92161754	True	True	How disability insurance reforms change the consequences of health shocks on income and employment	Journal of Health Economics
+W2937663755	0	1	moral hazard	2019	False	18	0.87782722	True	True	Evaluating Vacancy Referrals and the Roles of Sanctions and Sickness Absence*	The Economic Journal
+W3122353923	1	0	experience rating	2005	False	17	0.95325629	True	True	UNEMPLOYMENT INSURANCE AND EXPERIENCE RATING: INSURANCE VERSUS EFFICIENCY*	International Economic Review
+W3124987233	1	0	moral hazard	2015	False	17		False	False	In a Small Moment: Class Size and Moral Hazard in the Mezzogiorno	SSRN Electronic Journal
+W4391752946	1	0	sickness insurance	2024	False	17	0.97573545	True	False	The cost of saying no: general practitioners’ gatekeeping role in sickness absence certification	BMC Public Health
+W1556530614	0	1	sickness insurance	2005	False	16		True	True	How to Reduce Sickness Absences in Sweden	OECD Economics Department working papers
+W3124982435	0	1	moral hazard	2017	False	16	0.92212686	False	False	Mortality Effects of Containing Moral Hazard: Evidence from Disability Insurance Reform	Health Economics
+W185603365	0	1	sickness benefit;sickness insurance	2010	False	14		True	True	In Cooperation We Trust : Interorganizational Cooperation in Return-to-Work and Labour Market Reintegration	DiVA (Linkoping University)
+W1972347045	0	1	sickness benefit	2011	False	14	0.95143525	True	True	The administration and financing of paid sick leave	International Labour Review
+W4318778643	0	1	moral hazard	2023	False	14	0.91354583	True	False	Presenteeism as a moral hazard problem: Implications for the human resource management	Journal of Management & Organization
+W1498875124	1	0	moral hazard	2002	False	13	0.93484528	True	True	The European Social Model: Lessons for Developing Countries	Asian Development Review
+W1587759655	0	1	moral hazard	2014	False	13		True	False	In a Small Moment: Class Size and Moral Hazard in the Mezzogiorno	National Bureau of Economic Research
+W1533901997	1	0	experience rating	2005	False	12	0.83164739	True	True	Experience Rating of Unemployment Insurance in the US: A Model for Europe?	RePEc: Research Papers in Economics
+W2109317906	1	0	replacement rate	2005	False	12		True	True	Disability Risk and the Value of Disability Insurance	National Bureau of Economic Research
+W2224718261	0	1	sickness benefit;sickness insurance;moral hazard	2011	False	12	0.91406765	True	True	Do Interactions between Unemployment Insurance and Sickness Insurance Affect Transitions to Employment?	Labour
+W2331225099	1	0	replacement rate;moral hazard	2016	False	12	0.92155026	True	False	Injured workers and their return to work	Evidence-based HRM a Global Forum for Empirical Scholarship
+W171088023	1	0	replacement rate	1997	False	11	0.91732595	True	True	Cash benefits for short-term sickness, 1970-94.	PubMed
+W3171995673	0	1	benefit level	2021	False	10	0.86087031	True	False	Unintended health consequences of Swedish parental leave policy (ParLeHealth): protocol for a quasi-experimental study	BMJ Open
+W2115562881	0	1	sick pay	2002	False	9		True	True	Non-linear Unemployment Effects in Sickness Absence: Discipline or Composition Effects?	NORA - Norwegian Open Research Archives
+W3122570178	1	0	sick pay	2009	False	9		False	True	The Effects of a Sick Pay Reform on Absence and on Health-Related Outcomes	SSRN Electronic Journal
+W4200313699	0	1	sickness insurance	2021	False	9	0.80498255	True	True	Exploring Interactions in the Sickness Insurance System in Terms of Power and Trust	Journal of Occupational Rehabilitation
+W428131270	1	0	sickness benefit;sickness insurance;waiting period;replacement rate;benefit level;moral hazard	2004	False	9	0.79861862	True	True	Sickness Absence : An Introduction	Swedish economic policy review
+W1937625506	0	1	replacement rate	1999	False	8		True	False	Some Issues Related to the Equity-Efficiency Trade-Off in the Swedish Tax and Transfer System	OECD Economics Department working papers
+W2013875452	0	1	experience rating	2009	False	8	0.94802613	True	True	The Impact of Self-Insuring for Workers’ Compensation on the Incidence Rates of Worker Injury and Illness	Journal of Occupational and Environmental Medicine
+W2893597209	1	0	moral hazard	2018	False	8	0.8988642	True	True	Social Norms in Social Insurance	Journal of Political Economy
+W4385625479	0	1	sick pay	2023	False	8	0.83989354	True	False	Inequalities in access to paid sick leave among workers in England and Wales	The International Journal of Health Planning and Management
+W2046661414	0	1	benefit level;experience rating	2013	False	7	0.82344306	True	True	Examination of the Relationship Between Theory-Driven Policies and Allowed Lost-Time Back Claims in Workers' Compensation: A System Dynamics Model	Journal of Manipulative and Physiological Therapeutics
+W3024269757	0	1	sickness benefit	2020	False	7	0.93183576	True	True	Sick but at work: Graded sick leave in a comparative perspective	Social Policy and Administration
+W2070563855	1	0	moral hazard	2007	False	5	0.7164171	False	False	Moral hazard, doctors, and absenteism in France. Preliminary analysis based on aggregate data	Revue d Épidémiologie et de Santé Publique
+W2123311611	0	1	sickness benefit	2003	False	5		True	False	Absenteeism, Health Insurance, and Business Cycles	RePEc: Research Papers in Economics
+W2171168365	1	0	moral hazard	2000	False	5	0.91484996	True	True	DISABILITY INSURANCE IN A MULTI-PILLAR FRAMEWORK	
+W2594765395	0	1	sickness benefit	2002	False	5	0.82848379	True	False	Gender and Social Security: Some Lessons from Europe	European Journal of Social Security
+W3122306941	0	1	sick pay	2019	False	5	0.80400575	True	False	Labor Market Effects of U.S. Sick Pay Mandates	Employment Research
+W1731507152	1	0	sjuklön	2005	False	4		False	False	Sjuklön och sjukpenning : 1955 års sjukförsäkringsreform och sjuklönefrågan	Lund University Publications (Lund University)
+W2237045870	1	0	sick pay	2008	False	4		True	False	Sick Pay Provision in Experimental Labor Markets	MADOC (University of Mannheim)
+W4383903977	1	0	experience rating	2023	False	4	0.76425375	True	False	Experience Rating as an Automatic Stabilizer	Tax Policy and the Economy
+W4399485338	1	0	sickness benefit	2024	False	4	0.80319232	True	False	Does higher education make women sicker? A study of the gender gap in sickness absence within educational groups	PLoS ONE
+W1485376262	0	1	sick pay	2014	False	3		True	True	Disparities in taking sick leave between sectors of activity in France: a longitudinal analysis of administrative data	RePEc: Research Papers in Economics
+W2003937201	0	1	sickness benefit;sickness insurance	2008	False	3	0.89830523	True	False	REDISTRIBUTIVE OUTCOMES OF SICKNESS INSURANCE ON INCOME: AN EMPIRICAL STUDY OF SOCIAL INSURANCE INSTITUTIONS	Review of Income and Wealth
+W2014072610	0	1	sickness insurance	2005	False	3	0.80666625	True	False	What determines people's decisions whether or not to report sick?	Applied Economics
+W2223637725	0	1	experience rating	2015	True	3		True	True	Workers Compensation Insurance: Incentive Effects of Experience Rating on Work-related Health and Safety	RePEc: Research Papers in Economics
+W3027965443	1	0	sickness benefit	1991	False	3	0.87998956	True	True	Optimal deterrents to malingering : the role of incentives, attitudes and information costs in social insurance, especially sickness benefit and welfare	
+W3123431649	1	0	sick pay	2017	False	3		False	False	Labor Market Effects of US Sick Pay Mandates	SSRN Electronic Journal
+W3180094483	0	1	sickness benefit	2021	False	3	0.1197473	True	True	Skipping the doctor: evidence from a case with extended self-certification of paid sick leave	Journal of Population Economics
+W4224230409	1	0	benefit level	2022	False	3	0.60590901	True	False	The Health and Welfare Effects of Increases in Workers’ Compensation Benefits	Journal of Labor Economics
+W4390206184	0	1	experience rating	2023	False	3		True	True	Firm Accommodation After Disability: Labor Market Impacts and Implications for Social Insurance	National Bureau of Economic Research
+W2044182333	0	1	moral hazard	2012	False	2	0.15069473	True	False	Constructing “Behavioral” Comparison Groups	Evaluation & the Health Professions
+W2795584473	1	0	sick pay	2017	False	2		False	True	Does Sick Pay Affect Workplace Absence?	SSRN Electronic Journal
+W3027276606	1	0	experience rating	1995	False	2		True	True	Experience rating of worker's compensation in Alberta	Libraries and Cultural Resources (University of Calgary)
+W3045002001	0	1	sick pay	2017	False	2	0.19344666	True	True	Disability Pensions in the European Union	World Bank, Washington, DC eBooks
+W4386712782	0	1	sickness insurance	2023	False	2	0.7234555	True	False	Specifics of the social security systems in the Czech Republic and Slovakia with a focus on maternity and parenthood	Ekonomika a spoločnosť
+W627842915	0	1	sick pay	2009	False	2	0.1003052	True	True	A Theory of Optimal Sick Pay	
+W7160204333	0	1	sick pay	2026	False	2	0.97855511	True	False	The Economics of Paid Sick Leave	The Journal of Economic Perspectives
+W1518518085	0	1	sick pay	2013	False	1		True	True	Les disparités de prise d'arrêts maladie entre secteurs d'activité en France : une analyse longitudinale sur données administratives	RePEc: Research Papers in Economics
+W1742250188	0	1	sickness benefit	1997	False	1		True	False	The Effects of Cutbacks in Swedish Sickness Benefits	Lund University Publications (Lund University)
+W2216822414	0	1	moral hazard	2015	False	1	0.15258097	True	False	Moral Hazard on the Reporting of Health Problems: A Public–Private Comparison	Review of Public Personnel Administration
+W2537028671	0	1	waiting period	2016	False	1	0.17138899	True	True	Sick of waiting: Does waiting for elective treatment cause sickness absence?	Health Policy
+W2802520320	0	1	sick pay	2018	False	1	0.60306633	True	True	Exploring the Optimal Design of an Employer-Sponsored Sickness-Disability Compensation Insurance Plan When Sickness Presenteeism Is Penalized	North American Actuarial Journal
+W2913797637	0	1	sick pay	2019	False	1	0.01784327	True	True	Absence From Work, Sick Pay and Positional Consumption Concerns	Labour
+W4322489085	0	1	replacement rate	2023	False	1	0.8412203	True	False	6. How Laws and Policies Reinforce Inequality in Caring for Children	University of California Press eBooks
+W4403344361	1	0	sickness insurance	2024	False	1	0.61502134	True	False	Rejected sickness cash benefit claims after 180 days of sick leave in the Swedish rehabilitation chain: A nationwide register-based study	Scandinavian Journal of Public Health
+W79363283	0	1	experience rating	2013	False	1	0.80622475	False	True	The Impact of Experience Rating on Small Employers	
+W146422203	0	1	sickness insurance	2009	False	0		True	True	Regional Variance in Sickness Insurance Usage	KTH Publication Database DiVA (KTH Royal Institute of Technology)
+W1493988575	0	1	moral hazard	2010	False	0		True	True	Teachers' Sickness Absence in Primary Schools: A Panel Data Multilevel Analysis	RePEc: Research Papers in Economics
+W1495246442	0	1	sickness benefit	2000	False	0		True	False	Sickness Absence and Business Cycles	RePEc: Research Papers in Economics
+W2276454126	0	1	moral hazard	2004	False	0	0.29986828	True	True	Moral Hazard as a Contributing Factor to Worker Absenteeism in Sweden	
+W2467793027	0	1	sick pay	2013	False	0		True	True	Social interactions and sickness absence: Family, colleague and neighborhood effects	NORA - Norwegian Open Research Archives
+W2468585842	0	1	sickness benefit;sickness insurance	2016	False	0	0.10085499	True	True	The Effect of Changes in Sickness Insurance on Incapacity for Work in Selected Regions of the Czech Republic	Acta Universitatis Agriculturae et Silviculturae Mendelianae Brunensis
+W3008568049	0	1	sickness insurance	2020	False	0	0.01865086	False	True	Temporary Incapacity for Work in the Context of Legislative Changes in Sickness Insurance in the Czech Republic	Springer proceedings in business and economics
+W4404601962	0	1	arbeidsgiverperiode	2024	False	0	0.21003239	True	False	Skjerming av kronikere: Sykefravær og yrkesdeltakelse blant deltakere i skjermingsordningen for kronisk syke	Søkelys på arbeidslivet

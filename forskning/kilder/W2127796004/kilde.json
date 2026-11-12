@@ -1,0 +1,19 @@
+{
+ "ar": 2015,
+ "doi": "https://doi.org/10.1177/1403494815589862",
+ "forfattere": [
+  "Lisbeth Homlong",
+  "Elin Olaug Rosvold",
+  "Dag Bruusgaard",
+  "Lars Lien",
+  "Åse Sagatun",
+  "Ole Rikard Haavet"
+ ],
+ "id": "W2127796004",
+ "kilde": "Scandinavian Journal of Public Health",
+ "lenke": "https://openalex.org/W2127796004",
+ "oversikt": false,
+ "sammendrag": "BACKGROUND: There is a lack of knowledge on how health problems in adolescence are connected to work marginalization in adulthood. The aim of this study was to study work marginalization in young adulthood, measured by use of long-term social welfare benefits, and its associations with self-reported health complaints, total symptom burden and self-rated general health at ages 15-16. METHODS: We linked data from a youth health survey conducted during 1999-2004 to data from Norwegian registries that followed each participant through February 2010. Cox regression analysis was used to compute hazard ratios (HRs) for the use of long-term social welfare benefits in young adulthood, based on health measures in 15-16 year-olds. RESULTS: During the follow-up, 17% of the study population received some sort of long-term social welfare benefit. In the baseline survey, 95% of the adolescents reported one or more health complaints. The mean number of health complaints was 4.8. Girls reported a significantly higher mean number of complaints (5.7) than did boys (3.8) (p < 0.001). Several individual health complaints were associated with an increased use of long-term social welfare benefits. We found an increasing relative hazard of social welfare usage, depending on the number of complaints reported at baseline. Ill self-perceived general health was found to be strongly associated with the use of benefits during the follow-up: In girls, we found HRs of 1.41 (CI 1.21-1.65), 2.76 (2.29-3.31) and 2.77 (1.51-5.07) for those with good, not so good and bad health, respectively; compared to very good health. The corresponding numbers in boys were 1.41 (1.25-1.59), 1.93 (1.60-2.32) and 1.31 (0.72-2.38), respectively. CONCLUSIONS: Several health measures in adolescents were found to be associated with future work marginalization in young adulthood. The associations remained significant, even after correcting for such strong predictors as the parents' education and family economy. Total symptom burden and self-perceived general health can add additional knowledge onto how adolescent health is related to work marginalization, in a longitudinal perspective.",
+ "tittel": "A prospective population-based study of health complaints in adolescence and use of social welfare benefits in young adulthood",
+ "type": "article"
+}

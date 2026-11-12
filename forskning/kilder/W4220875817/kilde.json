@@ -1,0 +1,21 @@
+{
+ "apen_url": "https://www.sciencedirect.com/science/article/pii/S2352827322000416/pdf",
+ "ar": 2022,
+ "doi": "https://doi.org/10.1016/j.ssmph.2022.101062",
+ "forfattere": [
+  "Sina Wittlund",
+  "Arnstein Mykletun",
+  "Thomas Lorentzen"
+ ],
+ "hentet": "2026-11-09",
+ "hentet_fra": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8933578/fullTextXML",
+ "hvordan": "Europe PMC",
+ "id": "W4220875817",
+ "kilde": "SSM - Population Health",
+ "lenke": "https://openalex.org/W4220875817",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "Background: Since the 1990's, structural transformations in the Norwegian economy have decreased employment opportunities for low-skilled young people lacking formal education credentials. In parallel with these economic changes, there has been a strong increase in the proportion of young disability pensioners. Preventing labour market exit requires a thorough understanding of the disability process. We aim to 1) identify the most typical trajectories into disability pension for young Norwegian inhabitants between 1993 and 2014 and 2) investigate if the trajectories and composition of young disability pensioners changed over time. Methods: Using high-quality Norwegian registry data, we established two population-based cohorts of Norwegian inhabitants aged 29-39 years in either 2003 (cohort 1) or 2014 (cohort 2) who were not disability pensioners during the first month of their cohort period but had been granted a disability pension by the cohort end-date. Cohort 1 was followed from the beginning of 1993 through 2003, cohort 2 from 2004 through 2014. We used sequence and cluster analyses to identify typical disability pension trajectories and investigate how they changed overtime. Results: The majority follow trajectories characterised by little or no previous work participation. Both the trajectories and composition of young disability pensioners changed overtime. Between the two cohorts there was 1) a doubling in the probability of following 'precarious income trajectories', 2) a decrease in the probability of following 'work and/or education trajectories' and 3) an increase in the proportion of early school leavers. Conclusion: Current initiatives such as the Norwegian Inclusive Workplace Agreement (IA) focus on preventing transitions from employment to disability benefits. However, such initiatives have little relevance for young disability pensioners as the majority have weak labour market attachment. Policymakers should therefore consider placing more emphasis on non-workplace interventions.",
+ "tittel": "Disability pension dynamics in early adulthood: A two-decade longitudinal study of educational, work and welfare-state trajectories in Norway",
+ "type": "article"
+}

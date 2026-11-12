@@ -1,0 +1,19 @@
+{
+ "ar": 2025,
+ "doi": "https://doi.org/10.1177/10519815251321957",
+ "forfattere": [
+  "Jia-Rung Wu",
+  "Michele M. Mahr",
+  "Fong Chan",
+  "Phillip D. Rumrill",
+  "Jill Bezyak",
+  "Noel A. Ysasi"
+ ],
+ "id": "W4408146892",
+ "kilde": "Work",
+ "lenke": "https://openalex.org/W4408146892",
+ "oversikt": false,
+ "sammendrag": "Background There is substantial research evidence to suggest that supported employment is an evidence-based mental health and employment intervention for people with intellectual and developmental disabilities (IDD) and persons with severe mental illness (SMI). The effectiveness of supported employment may also extend to people recovering from addiction because alcohol and substance use disorder is considered a mental disorder in the Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition, Text Revision (DSM-5-TR) . However, there is a paucity of research validating the effectiveness of supported employment for individuals recovering from addiction. Objective This study examined the effect of supported employment on the employment outcomes of individuals recovering from addiction in the state vocational rehabilitation system. Method We conducted a case-control study using propensity score matching to create a treatment group (individuals recovering from addiction who received supported employment) and a control group (individuals recovering from addiction who did not receive supported employment), using data extracted from the Rehabilitation Services Administration Case Service Report database. Chi-square tests and t -tests were computed to determine if there were any differences between the treatment and control groups on employment outcomes and quality of employment. Results Individuals recovering from addiction in the treatment group had significantly higher employment rates than those in the control group. Conclusion Supported employment is an effective employment intervention for individuals recovering from addiction receiving services from the state vocational rehabilitation system.",
+ "tittel": "Supported employment as a mental health and employment intervention for people recovering from addiction: A propensity score-matched retrospective case control study",
+ "type": "article"
+}

@@ -1,0 +1,16 @@
+{
+ "apen_url": "https://www.oecd-ilibrary.org/do-policies-that-reduce-unemployment-raise-its-volatility_5k4c9kmlg08v.pdf?itemId=%2Fcontent%2Fpaper%2F5k4c9kmlg08v-en&mimeType=pdf",
+ "ar": 2013,
+ "doi": "https://doi.org/10.1787/5k4c9kmlg08v-en",
+ "forfattere": [
+  "Alain de Serres",
+  "Fabrice Murtin"
+ ],
+ "id": "W2203046242",
+ "kilde": "OECD Economics Department working papers",
+ "lenke": "https://openalex.org/W2203046242",
+ "oversikt": false,
+ "sammendrag": "In this paper we examine whether past labour market reforms aiming at reducing the rate of unemployment have raised its long-run volatility. Using non-linear panel data models applied to 24 OECD countries between 1985 and 2007, as well as Monte-Carlo techniques, we do not find any evidence of such policy trade-off. In contrast, we find that reduced unemployment benefit duration, more competition-inducing product market regulation and looser employment protection legislation are associated with a weaker persistence of unemployment over time, which implies a lower volatility of unemployment in the long run. More specifically, the evidence suggests that even in the case of reforms that may have raised the shortterm sensitivity of unemployment to business cycles (such as with the easing of employment protection), the weaker persistence effect dominates the higher cyclical volatility, implying a net reduction in long-term volatility.",
+ "tittel": "Do Policies that Reduce Unemployment Raise its Volatility?",
+ "type": "report"
+}

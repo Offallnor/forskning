@@ -1,0 +1,21 @@
+{
+ "apen_url": "https://bmcpublichealth.biomedcentral.com/counter/pdf/10.1186/s12889-024-17679-8",
+ "ar": 2024,
+ "doi": "https://doi.org/10.1186/s12889-024-17679-8",
+ "forfattere": [
+  "Sheila Timp",
+  "Nicky D. van Foreest",
+  "C. A. M. Roelen"
+ ],
+ "hentet": "før 2026-11-08",
+ "hentet_fra": "https://bmcpublichealth.biomedcentral.com/counter/pdf/10.1186/s12889-024-17679-8",
+ "hvordan": "pdf",
+ "id": "W4390881238",
+ "kilde": "BMC Public Health",
+ "lenke": "https://openalex.org/W4390881238",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "PURPOSE: Sickness absence is a major public health problem, given its high cost and negative impact on employee well-being. Understanding sickness absence duration and recovery rates among different groups is useful to develop effective strategies for enhancing recovery and reducing costs related to sickness absence. METHODS: Our study analyzed data from a large occupational health service, including over 5 million sick-listed employees from 2010 to 2020, out of which almost 600,000 cases were diagnosed by an occupational health physician. We classified each case according to diagnosis and gender, and performed descriptive statistical analysis for each category. In addition, we used survival analysis to determine recovery rates for each group. RESULTS: Mean sickness duration and recovery rate both differ significantly among groups. Mental and musculoskeletal disorders had the longest absence duration. Recovery rates differed especially during the first months of sickness absence. For men the recovery rate was nearly constant during the first 1.5 year, for women the recovery rate was relatively low in the first three months, and then stayed nearly constant for 1.5 year. CONCLUSION: Across almost all diagnostic classes, it was consistently observed that women had longer average sickness absence durations than to men. Considering mental disorders and diseases of the musculoskeletal system, women had relatively lower recovery rates during the initial months compared to men. As time progressed, the recovery rates of both genders converged and became more similar.",
+ "tittel": "Gender differences in long term sickness absence",
+ "type": "article"
+}

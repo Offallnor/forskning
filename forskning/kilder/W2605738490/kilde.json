@@ -1,0 +1,21 @@
+{
+ "apen_url": "https://bmcpublichealth.biomedcentral.com/track/pdf/10.1186/s12889-017-4236-5",
+ "ar": 2017,
+ "doi": "https://doi.org/10.1186/s12889-017-4236-5",
+ "forfattere": [
+  "Malene Rode Larsen",
+  "Birgit Aust",
+  "Jan Høgelund"
+ ],
+ "hentet": "2026-11-09",
+ "hentet_fra": "https://bmcpublichealth.biomedcentral.com/track/pdf/10.1186/s12889-017-4236-5",
+ "hvordan": "pdf",
+ "id": "W2605738490",
+ "kilde": "BMC Public Health",
+ "lenke": "https://openalex.org/W2605738490",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "BACKGROUND: The aim of this study was to investigate whether a multidimensional public-private partnership intervention, focussing on improving the quality and efficiency of sickness benefit case management, reduced the sickness benefit duration and the duration until self-support. METHODS: We used a difference-in-difference (DID) design with six intervention municipalities and 12 matched control municipalities in Denmark. The study sample comprised 282,103 sickness benefit spells exceeding four weeks. The intervention group with 110,291 spells received the intervention, and the control group with 171,812 spells received ordinary sickness benefit case management. Using register data, we fitted Cox proportional hazard ratio models, estimating hazard ratios (HR) and confidence intervals (CI). RESULTS: We found no joint effect of the intervention on the sickness benefit duration (HR 1.02, CI 0.97-1.07) or the duration until self-support (HR 0.99, CI 0.96-1.02). The effect varied among the six municipalities, with sickness benefit HRs ranging from 0.96 (CI 0.93-1.00) to 1.13 (CI 1.08-1.18) and self-support HRs ranging from 0.91 (CI 0.82-1.00) to 1.11 (CI 1.06-1.17). CONCLUSIONS: Compared to receiving ordinary sickness benefit management the intervention had on average no effect on the sickness benefit duration or duration until self-support. However, the effect varied considerably among the six municipalities possibly due to differences in the implementation or the complexity of the intervention.",
+ "tittel": "Improving the effectiveness of sickness benefit case management through a public-private partnership? A difference-in-difference analysis in eighteen Danish municipalities",
+ "type": "article"
+}

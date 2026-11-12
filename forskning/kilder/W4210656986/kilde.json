@@ -1,0 +1,24 @@
+{
+ "apen_url": "https://bmcpublichealth.biomedcentral.com/track/pdf/10.1186/s12889-022-12636-9",
+ "ar": 2022,
+ "doi": "https://doi.org/10.1186/s12889-022-12636-9",
+ "forfattere": [
+  "Rachel Louise Hasting",
+  "Suzanne Lerato Merkus",
+  "Therese N. Hanvold",
+  "Petter Kristensen",
+  "Jon Michael Gran",
+  "Ingrid Sivesind Mehlum"
+ ],
+ "hentet": "2026-11-09",
+ "hentet_fra": "https://bmcpublichealth.biomedcentral.com/track/pdf/10.1186/s12889-022-12636-9",
+ "hvordan": "pdf",
+ "id": "W4210656986",
+ "kilde": "BMC Public Health",
+ "lenke": "https://openalex.org/W4210656986",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "BACKGROUND: The Norwegian Agreement for a More Inclusive Working Life (the IA Agreement) aims to reduce sickness absence (SA) and increase work participation. Potential impacts of the IA Agreement have not been thoroughly evaluated. The study aimed to estimate the impact of the IA Agreement on musculoskeletal and psychological SA prevalence and duration among young adult men and women, and to identify whether the impact was modified by economic activity or SA grade. METHODS: Data from national registries were combined for 372,199 individuals born in Norway 1967-1976. ICPC-2 codes identified musculoskeletal (L) and psychological (P) diagnoses. A difference-in-difference method compared prevalence and mean duration of first SA > 16 days between 2000 and 2005 separately for men and women working in IA companies relative to non-IA companies. Analyses were adjusted for mean company size and stratified by economic activity and SA grade (full/graded). Average marginal change was calculated with 95% confidence intervals (CI). RESULTS: The impacts of the IA Agreement on SA prevalence were mixed as the direction and size of marginal changes varied according to diagnosis, gender, and economic activity. However, there was a general tendency towards reduced mean SA duration for both diagnosis groups, and in particular men with musculoskeletal SA (- 16.6 days, 95% CI -25.3, - 7.9). Individuals with full SA in IA companies had greater reductions in mean SA duration. Only the wholesale and retail economic activity indicated a beneficial contribution of the IA Agreement for both SA prevalence and duration, in both diagnoses and genders. CONCLUSIONS: Potential impacts of the IA Agreement on SA in young men and women varied according to diagnosis and economic activity. However, results indicated that the IA Agreement could reduce SA duration. Further research should identify reasons for gender and economic activity differences.",
+ "tittel": "Impact of the Norwegian Agreement for a More Inclusive Working Life on diagnosis-specific sickness absence in young adults: a difference-in-difference analysis",
+ "type": "article"
+}

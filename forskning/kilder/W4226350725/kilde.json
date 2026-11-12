@@ -1,0 +1,15 @@
+{
+ "apen_url": "https://doi.org/10.2139/ssrn.4002589",
+ "ar": 2022,
+ "doi": "https://doi.org/10.1002/soej.12557",
+ "forfattere": [
+  "Patrick Conway"
+ ],
+ "id": "W4226350725",
+ "kilde": "Southern Economic Journal",
+ "lenke": "https://openalex.org/W4226350725",
+ "oversikt": false,
+ "sammendrag": "Abstract I extend a labor‐market search and matching model of equilibrium with unemployment insurance (UI) program to incorporate the choice to participate in the labor market. UI reform that lowers the UI payment increases search intensity but discourages labor‐market participation. Reducing UI payments has the moral‐hazard effects derived in the literature but also a non‐participation effect. UI reform in North Carolina in mid‐2013 provides an empirical test of the model using data from the Current Population Survey. The reduction in size and duration of UI payments led to no significant increase in employment but a significant increase in those exiting the labor force.",
+ "tittel": "Unemployment insurance programs and the choice to leave the labor force",
+ "type": "article"
+}

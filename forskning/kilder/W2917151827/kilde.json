@@ -1,0 +1,19 @@
+{
+ "apen_url": "https://doi.org/10.3386/w25574",
+ "ar": 2019,
+ "doi": "https://doi.org/10.3386/w25574",
+ "forfattere": [
+  "David S. Lee",
+  "Pauline Leung",
+  "Christopher J. O’Leary",
+  "Zhuan Pei",
+  "Simon Quach"
+ ],
+ "id": "W2917151827",
+ "kilde": "National Bureau of Economic Research",
+ "lenke": "https://openalex.org/W2917151827",
+ "oversikt": false,
+ "sammendrag": "Central to the welfare analysis of income transfer programs is the deadweight loss associated with possible reforms.To aid analytical tractability, its measurement typically requires specifying a simplified model of behavior.We employ a complementary \"decomposition\" approach that compares the behavioral and mechanical components of a policy's total impact on the government budget to study the deadweight loss of two unemployment insurance policies.Experimental and quasi-experimental estimates using state administrative data show that increasing the weekly benefit is more efficient (with a fiscal externality of 53 cents per dollar of mechanical transferred income) than reducing the program's implicit earnings tax.",
+ "tittel": "Are Sufficient Statistics Necessary? Nonparametric Measurement of Deadweight Loss from Unemployment Insurance",
+ "type": "report"
+}

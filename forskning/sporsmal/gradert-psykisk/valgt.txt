@@ -1,0 +1,12 @@
+# Raskt svar: kilder fra gradert-sykmelding (kildebiblioteket), valgt 8.11.2026
+W2911999154  # FHI 2018, kartleggingsoversikt om gradert vs. full sykmelding (oversikt)
+W4404867325  # scoping review om aktivering av sykmeldte i Skandinavia 2024 (oversikt)
+W1511717146  # Andrén 2010, Sverige, bare psykiske lidelser (arbeidsnotat)
+W88826225    # Høgelund mfl. 2012, Danmark, psykiske lidelser (bare sammendrag)
+W2744665053  # Viikari-Juntura mfl. 2017, Finland, lovendring, psykiske og muskel/skjelett
+W2132658439  # Kausto mfl. 2014, Finland, lovendring, forskjell-i-forskjell etter diagnose
+W2159632075  # Kausto mfl. 2012, Finland, uførepensjon etter diagnose
+W4293168340  # Hartikainen mfl. 2022, Finland, forventet yrkesaktiv tid etter diagnose
+W2805335844  # Kools og Koning 2019, Nederland, instrumentvariabel, psykiske lidelser egen gruppe
+W2796572035  # Rehwald mfl. 2016, Danmark, randomisert aktivering, effekt etter diagnose (arbeidsnotat)
+W2605726377  # Streibelt mfl. 2017, Tyskland, etter rehabilitering, bare psykiske lidelser

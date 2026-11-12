@@ -1,0 +1,16 @@
+{
+ "ar": 2020,
+ "forfattere": [
+  "Kamalika Patra"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "https://thesis.eur.nl/pub/51998/Patra-K.-422978.pdf",
+ "hvordan": "pdf",
+ "id": "W3034159852",
+ "lenke": "https://openalex.org/W3034159852",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "During the Great Recession, the US implemented the Emergency Unemployment\r\nCompensation 2008 (EUC08), an unemployment insurance (UI) extension intending\r\nto support the unemployed. Exploiting the program's state and month dierential\r\napplication, this study conducts a dynamic panel dierence-in-dierence to analyse\r\nthe gender dierential eect of EUC08 on unemployment. It also examines whether\r\nprogram unemployment eects occur instantaneously or with delay. Results sug-\r\ngest a lag period of two to four months, wherefore it may be benecial for speedy\r\neconomic recovery to trigger UI extensions based on forecasted versus historical un-\r\nemployment rates. Findings also show EUC08 reduced the gender unemployment\r\ngap by 0% to 0.8%, thereby reducing the disproportionate eect of the Great Re-\r\ncession on male unemployment. Consequently, this research suggests UI extensions\r\nare modestly eective unemployment stabilisers.",
+ "tittel": "Lagged and Gender Heterogeneous Effects of Unemployment Compensation Extensions in the Great Recession",
+ "type": "article"
+}

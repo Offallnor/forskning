@@ -1,0 +1,15 @@
+{
+ "ar": 2017,
+ "doi": "https://doi.org/10.1177/1403494817723458",
+ "forfattere": [
+  "Jan Høgelund",
+  "Lene Falgaard Eplov"
+ ],
+ "id": "W2753581083",
+ "kilde": "Scandinavian Journal of Public Health",
+ "lenke": "https://openalex.org/W2753581083",
+ "oversikt": false,
+ "sammendrag": "AIM: Relatively little is known about the effectiveness of return-to-work interventions for employees sick-listed with mental disorders, and the results of the literature are contradictory. This study evaluated the return-to-work effect of a multidisciplinary health assessment for persons sick-listed with mental disorders. METHODS: The study population consisted of 244 persons who were allocated to the treatment and control groups based on their birth year. In addition to the usual case management, the treatment group ( n = 83) was assessed by a team consisting of a case manager, a psychiatrist, and a job coach. The control group ( n = 99) received the usual case management. We used unique register data to code outcome variables (sick-leave duration and return-to-work duration). RESULTS: The multidisciplinary treatment had no statistically significant effect on the sick-leave duration (HR = 1.05; 95% CI 0.74-1.43) or the return-to-work duration (HR = 0.94; 95% CI 0.65-1.35). Subgroup analyses showed that the treatment effect did not systematically depend on age, education or severity of the mental disorder. We found no signs of systematic dropout from the study population or of imbalanced data. We found an insignificant tendency indicating that control-group case managers may have learned about the intervention from treatment case managers ( p = 0.31). CONCLUSIONS: This study showed no return-to-work effect of a multidisciplinary assessment of sick-listed individuals with mental disorders. Together with the sparse and inconclusive findings of the literature, this finding suggests that further research is needed for disentangling the elements that constitute an effective intervention.",
+ "tittel": "Employment effects of a multidisciplinary health assessment for mentally ill persons – A quasi-randomised controlled trial",
+ "type": "article"
+}

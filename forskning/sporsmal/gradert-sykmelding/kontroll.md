@@ -1,0 +1,1349 @@
+# Kontroll: gradert-sykmelding
+
+Kjørt 2026-11-10.
+
+0 feil av 1343 kontroller.
+
+- OK   1 kilde 0198cc8d6f08-8af27b58-5e7a-47d1-8504-4bc4b0361a42 finnes
+- OK   1 kilde 019904aa7986-0e4c2361-eb33-4871-9ab3-47b965597085 finnes
+- OK   1 kilde AV-2007-3-05 finnes
+- OK   1 kilde AV-2012-2-03 finnes
+- OK   1 kilde AV-2013-3-06 finnes
+- OK   1 kilde AV-2016-3-05 finnes
+- OK   1 kilde AV-2018-2-06 finnes
+- OK   1 kilde FI-fikka.5922382 finnes
+- OK   1 kilde FI-jykdok.2341206 finnes
+- OK   1 kilde KU-34183300-cbad-41d5-8e50-9684f7850798 finnes
+- OK   1 kilde KU-7799f411-4c20-4a1a-aa6f-5aa52fbc9eab finnes
+- OK   1 kilde KU-a0d29b59-a943-4e06-bb77-35d70df04c85 finnes
+- OK   1 kilde KU-b027fe4b-4bf4-433e-b689-b7d06086b095 finnes
+- OK   1 kilde W1501193741 finnes
+- OK   1 kilde W1511717146 finnes
+- OK   1 kilde W1527098577 finnes
+- OK   1 kilde W1579837130 finnes
+- OK   1 kilde W1592746682 finnes
+- OK   1 kilde W2005271733 finnes
+- OK   1 kilde W2013503454 finnes
+- OK   1 kilde W2025121479 finnes
+- OK   1 kilde W2048984013 finnes
+- OK   1 kilde W2073048698 finnes
+- OK   1 kilde W2079898261 finnes
+- OK   1 kilde W2116716741 finnes
+- OK   1 kilde W2132658439 finnes
+- OK   1 kilde W2159632075 finnes
+- OK   1 kilde W2325466037 finnes
+- OK   1 kilde W2341011605 finnes
+- OK   1 kilde W2412604146 finnes
+- OK   1 kilde W2473929489 finnes
+- OK   1 kilde W2605726377 finnes
+- OK   1 kilde W2744665053 finnes
+- OK   1 kilde W2746656768 finnes
+- OK   1 kilde W2794297004 finnes
+- OK   1 kilde W2794825180 finnes
+- OK   1 kilde W2796572035 finnes
+- OK   1 kilde W2799283105 finnes
+- OK   1 kilde W2805335844 finnes
+- OK   1 kilde W2810202913 finnes
+- OK   1 kilde W2896121459 finnes
+- OK   1 kilde W2911999154 finnes
+- OK   1 kilde W2982381358 finnes
+- OK   1 kilde W2986214152 finnes
+- OK   1 kilde W3010213937 finnes
+- OK   1 kilde W3023766513 finnes
+- OK   1 kilde W3121578847 finnes
+- OK   1 kilde W3122932312 finnes
+- OK   1 kilde W3138116577 finnes
+- OK   1 kilde W3170959179 finnes
+- OK   1 kilde W3198402854 finnes
+- OK   1 kilde W4239637744 finnes
+- OK   1 kilde W4293168340 finnes
+- OK   1 kilde W4392582001 finnes
+- OK   1 kilde W4404867325 finnes
+- OK   1 kilde W4408975540 finnes
+- OK   1 kilde W4410013226 finnes
+- OK   1 kilde W88826225 finnes
+- OK   1 estimat-kilde W2048984013 finnes
+- OK   1 estimat-kilde W2048984013 finnes
+- OK   1 estimat-kilde W2048984013 finnes
+- OK   1 estimat-kilde W2013503454 finnes
+- OK   1 estimat-kilde W2744665053 finnes
+- OK   1 estimat-kilde W2744665053 finnes
+- OK   1 estimat-kilde W2896121459 finnes
+- OK   1 estimat-kilde W2116716741 finnes
+- OK   1 estimat-kilde W2116716741 finnes
+- OK   1 estimat-kilde W4408975540 finnes
+- OK   1 estimat-kilde W4408975540 finnes
+- OK   1 estimat-kilde W4410013226 finnes
+- OK   1 estimat-kilde W2079898261 finnes
+- OK   1 estimat-kilde W1511717146 finnes
+- OK   1 estimat-kilde W1511717146 finnes
+- OK   1 estimat-kilde W88826225 finnes
+- OK   1 estimat-kilde W88826225 finnes
+- OK   1 estimat-kilde W2982381358 finnes
+- OK   1 estimat-kilde W2073048698 finnes
+- OK   1 estimat-kilde W3124208379 finnes
+- OK   1 estimat-kilde W2325466037 finnes
+- OK   1 estimat-kilde W1592746682 finnes
+- OK   1 estimat-kilde W2744665053 finnes
+- OK   1 estimat-kilde W2744665053 finnes
+- OK   1 estimat-kilde W2982381358 finnes
+- OK   1 estimat-kilde W2744665053 finnes
+- OK   1 estimat-kilde W2982381358 finnes
+- OK   1 estimat-kilde W2079898261 finnes
+- OK   1 estimat-kilde W2412604146 finnes
+- OK   1 estimat-kilde W2412604146 finnes
+- OK   1 estimat-kilde W2796572035 finnes
+- OK   1 estimat-kilde W2796572035 finnes
+- OK   1 estimat-kilde W2796572035 finnes
+- OK   1 estimat-kilde W1501193741 finnes
+- OK   1 estimat-kilde W1501193741 finnes
+- OK   1 estimat-kilde W1501193741 finnes
+- OK   1 estimat-kilde W2805335844 finnes
+- OK   1 estimat-kilde W2805335844 finnes
+- OK   1 estimat-kilde W2805335844 finnes
+- OK   1 estimat-kilde W2805335844 finnes
+- OK   1 estimat-kilde W2805335844 finnes
+- OK   1 estimat-kilde W3170959179 finnes
+- OK   1 estimat-kilde W3170959179 finnes
+- OK   1 estimat-kilde W3170959179 finnes
+- OK   1 estimat-kilde W2341011605 finnes
+- OK   1 estimat-kilde W2341011605 finnes
+- OK   1 estimat-kilde W2341011605 finnes
+- OK   1 estimat-kilde W4293168340 finnes
+- OK   1 estimat-kilde W4293168340 finnes
+- OK   1 estimat-kilde W4293168340 finnes
+- OK   1 estimat-kilde W4293168340 finnes
+- OK   1 estimat-kilde W2605726377 finnes
+- OK   1 estimat-kilde W2605726377 finnes
+- OK   1 estimat-kilde W3098021798 finnes
+- OK   1 estimat-kilde W2060195272 finnes
+- OK   1 estimat-kilde W2799283105 finnes
+- OK   1 estimat-kilde W2799283105 finnes
+- OK   1 estimat-kilde W2746656768 finnes
+- OK   1 estimat-kilde W2805335844 finnes
+- OK   1 estimat-kilde W3121578847 finnes
+- OK   1 estimat-kilde W3121578847 finnes
+- OK   1 estimat-kilde W3121578847 finnes
+- OK   1 estimat-kilde W3122932312 finnes
+- OK   1 estimat-kilde W3122932312 finnes
+- OK   1 estimat-kilde W3122932312 finnes
+- OK   1 estimat-kilde W3122932312 finnes
+- OK   1 estimat-kilde W3122932312 finnes
+- OK   1 estimat-kilde W1977295977 finnes
+- OK   1 estimat-kilde W3024269757 finnes
+- OK   1 estimat-kilde W2911999154 finnes
+- OK   1 estimat-kilde W2911999154 finnes
+- OK   1 estimat-kilde W2911999154 finnes
+- OK   1 estimat-kilde W2911999154 finnes
+- OK   1 estimat-kilde W2911999154 finnes
+- OK   1 estimat-kilde W4404867325 finnes
+- OK   1 estimat-kilde W4404867325 finnes
+- OK   1 estimat-kilde W2473929489 finnes
+- OK   1 estimat-kilde W2473929489 finnes
+- OK   1 estimat-kilde AV-2012-2-03 finnes
+- OK   1 estimat-kilde AV-2012-2-03 finnes
+- OK   1 estimat-kilde AV-2012-2-03 finnes
+- OK   1 estimat-kilde AV-2013-3-06 finnes
+- OK   1 estimat-kilde AV-2013-3-06 finnes
+- OK   1 estimat-kilde AV-2013-3-06 finnes
+- OK   1 estimat-kilde AV-2018-2-06 finnes
+- OK   1 estimat-kilde AV-2018-2-06 finnes
+- OK   1 estimat-kilde AV-2018-2-06 finnes
+- OK   1 estimat-kilde AV-2018-2-06 finnes
+- OK   1 estimat-kilde 0198cc8d6f08-8af27b58-5e7a-47d1-8504-4bc4b0361a42 finnes
+- OK   1 estimat-kilde 0198cc8d6f08-8af27b58-5e7a-47d1-8504-4bc4b0361a42 finnes
+- OK   1 estimat-kilde 0198cc8d6f08-8af27b58-5e7a-47d1-8504-4bc4b0361a42 finnes
+- OK   1 estimat-kilde 0198cc8d6f08-8af27b58-5e7a-47d1-8504-4bc4b0361a42 finnes
+- OK   1 estimat-kilde 0198cc8d6f08-8af27b58-5e7a-47d1-8504-4bc4b0361a42 finnes
+- OK   1 estimat-kilde AV-2014-3-01 finnes
+- OK   1 estimat-kilde AV-2014-3-01 finnes
+- OK   1 estimat-kilde AV-2017-1-04 finnes
+- OK   1 estimat-kilde AV-2017-1-04 finnes
+- OK   1 estimat-kilde AV-2017-1-04 finnes
+- OK   1 estimat-kilde AV-2017-1-04 finnes
+- OK   1 estimat-kilde AV-2017-1-04 finnes
+- OK   1 estimat-kilde AV-2015-3-04 finnes
+- OK   1 estimat-kilde AV-2015-3-04 finnes
+- OK   1 estimat-kilde AV-2015-3-04 finnes
+- OK   1 estimat-kilde AV-2017-1-04 finnes
+- OK   1 estimat-kilde AV-2017-1-04 finnes
+- OK   1 estimat-kilde AV-2013-3-06 finnes
+- OK   1 estimat-kilde KU-7799f411-4c20-4a1a-aa6f-5aa52fbc9eab finnes
+- OK   1 estimat-kilde KU-7799f411-4c20-4a1a-aa6f-5aa52fbc9eab finnes
+- OK   1 estimat-kilde KU-7799f411-4c20-4a1a-aa6f-5aa52fbc9eab finnes
+- OK   1 estimat-kilde KU-b027fe4b-4bf4-433e-b689-b7d06086b095 finnes
+- OK   1 estimat-kilde KU-b027fe4b-4bf4-433e-b689-b7d06086b095 finnes
+- OK   1 estimat-kilde KU-b027fe4b-4bf4-433e-b689-b7d06086b095 finnes
+- OK   1 estimat-kilde KU-b027fe4b-4bf4-433e-b689-b7d06086b095 finnes
+- OK   1 estimat-kilde KU-b027fe4b-4bf4-433e-b689-b7d06086b095 finnes
+- OK   1 estimat-kilde KU-34183300-cbad-41d5-8e50-9684f7850798 finnes
+- OK   1 estimat-kilde KU-34183300-cbad-41d5-8e50-9684f7850798 finnes
+- OK   1 estimat-kilde KU-34183300-cbad-41d5-8e50-9684f7850798 finnes
+- OK   1 estimat-kilde KU-34183300-cbad-41d5-8e50-9684f7850798 finnes
+- OK   1 estimat-kilde KU-34183300-cbad-41d5-8e50-9684f7850798 finnes
+- OK   1 estimat-kilde AV-2011-3-02 finnes
+- OK   1 estimat-kilde AV-2011-3-02 finnes
+- OK   1 estimat-kilde AV-2007-3-05 finnes
+- OK   1 estimat-kilde W3010213937 finnes
+- OK   1 estimat-kilde W2132658439 finnes
+- OK   1 estimat-kilde W2132658439 finnes
+- OK   1 estimat-kilde W2132658439 finnes
+- OK   1 estimat-kilde W2132658439 finnes
+- OK   1 estimat-kilde W2132658439 finnes
+- OK   1 estimat-kilde W2159632075 finnes
+- OK   1 estimat-kilde W2159632075 finnes
+- OK   1 estimat-kilde W2159632075 finnes
+- OK   1 estimat-kilde W2986214152 finnes
+- OK   1 estimat-kilde W2986214152 finnes
+- OK   1 estimat-kilde W2986214152 finnes
+- OK   1 estimat-kilde W3198402854 finnes
+- OK   1 estimat-kilde W3138116577 finnes
+- OK   1 estimat-kilde W3138116577 finnes
+- OK   1 estimat-kilde KU-a0d29b59-a943-4e06-bb77-35d70df04c85 finnes
+- OK   1 estimat-kilde KU-a0d29b59-a943-4e06-bb77-35d70df04c85 finnes
+- OK   1 estimat-kilde KU-a0d29b59-a943-4e06-bb77-35d70df04c85 finnes
+- OK   1 estimat-kilde KU-a0d29b59-a943-4e06-bb77-35d70df04c85 finnes
+- OK   1 estimat-kilde KU-a0d29b59-a943-4e06-bb77-35d70df04c85 finnes
+- OK   1 estimat-kilde KU-a0d29b59-a943-4e06-bb77-35d70df04c85 finnes
+- OK   1 estimat-kilde KU-a0d29b59-a943-4e06-bb77-35d70df04c85 finnes
+- OK   1 estimat-kilde KU-a0d29b59-a943-4e06-bb77-35d70df04c85 finnes
+- OK   1 estimat-kilde FI-fikka.5922382 finnes
+- OK   1 estimat-kilde FI-fikka.5922382 finnes
+- OK   1 estimat-kilde FI-fikka.5922382 finnes
+- OK   1 estimat-kilde FI-fikka.5922382 finnes
+- OK   1 estimat-kilde FI-fikka.5922382 finnes
+- OK   1 estimat-kilde FI-fikka.5922382 finnes
+- OK   1 estimat-kilde FI-fikka.5922382 finnes
+- OK   1 estimat-kilde FI-fikka.5922382 finnes
+- OK   1 estimat-kilde FI-fikka.5922382 finnes
+- OK   1 estimat-kilde FI-fikka.5922382 finnes
+- OK   1 estimat-kilde FI-jykdok.2341206 finnes
+- OK   1 estimat-kilde FI-jykdok.2341206 finnes
+- OK   1 estimat-kilde FI-jykdok.2341206 finnes
+- OK   1 estimat-kilde FI-jykdok.2341206 finnes
+- OK   1 estimat-kilde FI-jykdok.2341206 finnes
+- OK   1 estimat-kilde W3023766513 finnes
+- OK   1 estimat-kilde FI-jykdok.2232825 finnes
+- OK   1 estimat-kilde FI-jykdok.2188791 finnes
+- OK   1 estimat-kilde FI-arto.013468384 finnes
+- OK   1 estimat-kilde AV-2016-3-05 finnes
+- OK   1 estimat-kilde AV-2016-3-05 finnes
+- OK   1 estimat-kilde AV-2016-3-05 finnes
+- OK   1 estimat-kilde AV-2016-3-05 finnes
+- OK   1 estimat-kilde 019904aa7986-0e4c2361-eb33-4871-9ab3-47b965597085 finnes
+- OK   1 estimat-kilde W2794297004 finnes
+- OK   1 estimat-kilde W4392582001 finnes
+- OK   1 estimat-kilde W2794825180 finnes
+- OK   1 estimat-kilde W1579837130 finnes
+- OK   1 estimat-kilde W1579837130 finnes
+- OK   1 estimat-kilde W1579837130 finnes
+- OK   1 estimat-kilde W1579837130 finnes
+- OK   1 estimat-kilde W1527098577 finnes
+- OK   1 estimat-kilde W1527098577 finnes
+- OK   1 estimat-kilde W1527098577 finnes
+- OK   1 estimat-kilde W1527098577 finnes
+- OK   1 estimat-kilde W2005271733 finnes
+- OK   1 estimat-kilde W4239637744 finnes
+- OK   1 estimat-kilde W2025121479 finnes
+- OK   1 estimat-kilde W2810202913 finnes
+- OK   1 forfatter «Brage» for KU-a0d29b59-a943-4e06-bb77-35d70df04c85 står i metadata eller på tittelsiden
+- OK   1 forfatter «Nossen» for AV-2018-2-06 står i metadata eller på tittelsiden
+- OK   1 forfatter «Viikari-Juntura» for W2048984013 står i metadata eller på tittelsiden
+- OK   1 forfatter «Viikari-Juntura» for FI-jykdok.2341206 står i metadata eller på tittelsiden
+- OK   1 forfatter «Shiri» for W2013503454 står i metadata eller på tittelsiden
+- OK   1 forfatter «Østerås» for W2005271733 står i metadata eller på tittelsiden
+- OK   1 forfatter «Scheel» for W2073048698 står i metadata eller på tittelsiden
+- OK   1 forfatter «Rehwald» for W2796572035 står i metadata eller på tittelsiden
+- OK   1 forfatter «Markussen» for W2116716741 står i metadata eller på tittelsiden
+- OK   1 forfatter «Kools» for W2805335844 står i metadata eller på tittelsiden
+- OK   1 forfatter «Markussen» for W1501193741 står i metadata eller på tittelsiden
+- OK   1 forfatter «Kann» for AV-2007-3-05 står i metadata eller på tittelsiden
+- OK   1 forfatter «Lie» for KU-7799f411-4c20-4a1a-aa6f-5aa52fbc9eab står i metadata eller på tittelsiden
+- OK   1 forfatter «Lie» for KU-b027fe4b-4bf4-433e-b689-b7d06086b095 står i metadata eller på tittelsiden
+- OK   1 forfatter «Kausto» for W2132658439 står i metadata eller på tittelsiden
+- OK   1 forfatter «Viikari-Juntura» for W2744665053 står i metadata eller på tittelsiden
+- OK   1 forfatter «Viikari-Juntura» for W2896121459 står i metadata eller på tittelsiden
+- OK   1 forfatter «Hartikainen» for W4293168340 står i metadata eller på tittelsiden
+- OK   1 forfatter «Hartikainen» for FI-fikka.5922382 står i metadata eller på tittelsiden
+- OK   1 forfatter «Kausto» for W2159632075 står i metadata eller på tittelsiden
+- OK   1 forfatter «Bethge» for W2341011605 står i metadata eller på tittelsiden
+- OK   1 forfatter «Bürger» for W2810202913 står i metadata eller på tittelsiden
+- OK   1 forfatter «Streibelt» for W2605726377 står i metadata eller på tittelsiden
+- OK   1 forfatter «Maas» for W3138116577 står i metadata eller på tittelsiden
+- OK   1 forfatter «Brage» for KU-a0d29b59-a943-4e06-bb77-35d70df04c85 står i metadata eller på tittelsiden
+- OK   1 forfatter «Kann» for AV-2012-2-03 står i metadata eller på tittelsiden
+- OK   1 forfatter «Bardal» for W4408975540 står i metadata eller på tittelsiden
+- OK   1 forfatter «Andrén» for W2079898261 står i metadata eller på tittelsiden
+- OK   1 forfatter «Andrén» for W3122932312 står i metadata eller på tittelsiden
+- OK   1 forfatter «Andrén» for W1579837130 står i metadata eller på tittelsiden
+- OK   1 forfatter «Andrén» for W2025121479 står i metadata eller på tittelsiden
+- OK   1 forfatter «Andrén» for W1527098577 står i metadata eller på tittelsiden
+- OK   1 forfatter «Andrén» for W1511717146 står i metadata eller på tittelsiden
+- OK   1 forfatter «Høgelund» for W88826225 står i metadata eller på tittelsiden
+- OK   1 forfatter «Bosman» for W2982381358 står i metadata eller på tittelsiden
+- OK   1 forfatter «Kristoffersen» for W2986214152 står i metadata eller på tittelsiden
+- OK   1 forfatter «Nossen» for AV-2013-3-06 står i metadata eller på tittelsiden
+- OK   1 forfatter «Nossen» for AV-2016-3-05 står i metadata eller på tittelsiden
+- OK   1 forfatter «Nossen» for AV-2018-2-06 står i metadata eller på tittelsiden
+- OK   1 forfatter «Grødem» for 0198cc8d6f08-8af27b58-5e7a-47d1-8504-4bc4b0361a42 står i metadata eller på tittelsiden
+- OK   1 forfatter «Sanatkar» for W4410013226 står i metadata eller på tittelsiden
+- OK   1 forfatter «Meneses» for W2911999154 står i metadata eller på tittelsiden
+- OK   1 forfatter «Kausto» for W2325466037 står i metadata eller på tittelsiden
+- OK   1 forfatter «Ellingsen» for W3010213937 står i metadata eller på tittelsiden
+- OK   1 forfatter «Gjerde» for 019904aa7986-0e4c2361-eb33-4871-9ab3-47b965597085 står i metadata eller på tittelsiden
+- OK   1 forfatter «Reini» for W3023766513 står i metadata eller på tittelsiden
+- OK   1 forfatter «Kausto» for W1592746682 står i metadata eller på tittelsiden
+- OK   1 forfatter «Sabariego» for W2794297004 står i metadata eller på tittelsiden
+- OK   1 forfatter «Derbyshire» for W4392582001 står i metadata eller på tittelsiden
+- OK   1 forfatter «Nogawa» for W2794825180 står i metadata eller på tittelsiden
+- OK   1 forfatter «Vargas-Prada» for W2412604146 står i metadata eller på tittelsiden
+- OK   1 forfatter «Berg» for W3198402854 står i metadata eller på tittelsiden
+- OK   1 forfatter «Grønstad» for W4404867325 står i metadata eller på tittelsiden
+- OK   1 forfatter «Høgelund» for W2746656768 står i metadata eller på tittelsiden
+- OK   1 forfatter «Hernæs» for W3121578847 står i metadata eller på tittelsiden
+- OK   1 forfatter «Godøy» for W2473929489 står i metadata eller på tittelsiden
+- OK   1 forfatter «Mattila-Holappa» for W3170959179 står i metadata eller på tittelsiden
+- OK   1 forfatter «Dorrington» for W2799283105 står i metadata eller på tittelsiden
+- OK   2 sitat rad 1 (W2048984013, retur til arbeid (varig ≥4 uker), muskel) står på oppgitt side
+- OK   3 estimat=1.76 rad 1 (W2048984013, retur til arbeid (varig ≥4 uker), muskel) står i sitatet
+- OK   3 ki_lav=1.21 rad 1 (W2048984013, retur til arbeid (varig ≥4 uker), muskel) står i sitatet
+- OK   3 ki_hoy=2.56 rad 1 (W2048984013, retur til arbeid (varig ≥4 uker), muskel) står i sitatet
+- OK   4 rad 1 (W2048984013, retur til arbeid (varig ≥4 uker), muskel) estimat innenfor KI
+- OK   4 rad 1 (W2048984013, retur til arbeid (varig ≥4 uker), muskel) KI symmetrisk på log-skala (avvik 0.00)
+- OK   2 sitat rad 2 (W2048984013, retur til arbeid (varig ≥4 uker), juster) står på oppgitt side
+- OK   3 estimat=1.60 rad 2 (W2048984013, retur til arbeid (varig ≥4 uker), juster) står i sitatet
+- OK   3 ki_lav=0.98 rad 2 (W2048984013, retur til arbeid (varig ≥4 uker), juster) står i sitatet
+- OK   3 ki_hoy=2.63 rad 2 (W2048984013, retur til arbeid (varig ≥4 uker), juster) står i sitatet
+- OK   4 rad 2 (W2048984013, retur til arbeid (varig ≥4 uker), juster) estimat innenfor KI
+- OK   4 rad 2 (W2048984013, retur til arbeid (varig ≥4 uker), juster) KI symmetrisk på log-skala (avvik 0.01)
+- OK   2 sitat rad 3 (W2048984013, samlet sykefravær over 12 måneder) står på oppgitt side
+- OK   3 estimat=20 rad 3 (W2048984013, samlet sykefravær over 12 måneder) står i sitatet
+- OK   2 sitat rad 4 (W2013503454, smerte, funksjon, helserelatert livskval) står på oppgitt side
+- OK   2 sitat rad 5 (W2744665053, varig retur til arbeid (≥28 dager)) står på oppgitt side
+- OK   3 estimat=8.0 rad 5 (W2744665053, varig retur til arbeid (≥28 dager)) står i sitatet
+- OK   3 ki_lav=5.3 rad 5 (W2744665053, varig retur til arbeid (≥28 dager)) står i sitatet
+- OK   3 ki_hoy=10.9 rad 5 (W2744665053, varig retur til arbeid (≥28 dager)) står i sitatet
+- OK   4 rad 5 (W2744665053, varig retur til arbeid (≥28 dager)) estimat innenfor KI
+- OK   2 sitat rad 6 (W2744665053, andel tid i arbeid over to år) står på oppgitt side
+- OK   3 estimat=10.5 rad 6 (W2744665053, andel tid i arbeid over to år) står i sitatet
+- OK   2 sitat rad 7 (W2896121459, trygdekostnader per person per år (reduk) står på oppgitt side
+- OK   3 estimat=2395 rad 7 (W2896121459, trygdekostnader per person per år (reduk) står i sitatet
+- OK   2 sitat rad 8 (W2116716741, varighet av sykefraværet (nedre grense i) står på oppgitt side
+- OK   3 estimat=70 rad 8 (W2116716741, varighet av sykefraværet (nedre grense i) står i sitatet
+- OK   2 sitat rad 9 (W2116716741, sysselsetting to år etter (nedre grense ) står på oppgitt side
+- OK   3 estimat=12 rad 9 (W2116716741, sysselsetting to år etter (nedre grense ) står i sitatet
+- OK   2 sitat rad 10 (W4408975540, retur til arbeid etter 12 måneder, muske) står på oppgitt side
+- OK   3 estimat=1.19 rad 10 (W4408975540, retur til arbeid etter 12 måneder, muske) står i sitatet
+- OK   3 ki_lav=1.12 rad 10 (W4408975540, retur til arbeid etter 12 måneder, muske) står i sitatet
+- OK   3 ki_hoy=1.26 rad 10 (W4408975540, retur til arbeid etter 12 måneder, muske) står i sitatet
+- OK   4 rad 10 (W4408975540, retur til arbeid etter 12 måneder, muske) estimat innenfor KI
+- OK   4 rad 10 (W4408975540, retur til arbeid etter 12 måneder, muske) KI symmetrisk på log-skala (avvik 0.00)
+- OK   2 sitat rad 11 (W4408975540, retur til arbeid etter 12 måneder, ujust) står på oppgitt side
+- OK   3 estimat=1.29 rad 11 (W4408975540, retur til arbeid etter 12 måneder, ujust) står i sitatet
+- OK   3 ki_lav=1.22 rad 11 (W4408975540, retur til arbeid etter 12 måneder, ujust) står i sitatet
+- OK   3 ki_hoy=1.37 rad 11 (W4408975540, retur til arbeid etter 12 måneder, ujust) står i sitatet
+- OK   4 rad 11 (W4408975540, retur til arbeid etter 12 måneder, ujust) estimat innenfor KI
+- OK   4 rad 11 (W4408975540, retur til arbeid etter 12 måneder, ujust) KI symmetrisk på log-skala (avvik 0.00)
+- OK   2 sitat rad 12 (W4410013226, smerterelatert funksjon (ODI) over seks ) står på oppgitt side
+- OK   2 sitat rad 13 (W2079898261, full gjenvunnet arbeidsevne, muskel/skje) står på oppgitt side
+- OK   3 estimat=25 rad 13 (W2079898261, full gjenvunnet arbeidsevne, muskel/skje) står i sitatet
+- OK   2 sitat rad 14 (W1511717146, full gjenvunnet arbeidsevne, psykiske li) står på oppgitt side
+- OK   3 estimat=0.387 rad 14 (W1511717146, full gjenvunnet arbeidsevne, psykiske li) står i sitatet
+- OK   2 sitat rad 15 (W1511717146, full gjenvunnet arbeidsevne, psykiske li) står på oppgitt side
+- OK   3 estimat=0.015 rad 15 (W1511717146, full gjenvunnet arbeidsevne, psykiske li) står i sitatet
+- OK   2 sitat rad 16 (W88826225, tid til ordinær arbeidstid, psykiske lid) står på oppgitt side
+- OK   2 sitat rad 17 (W88826225, tid til ordinær arbeidstid, andre lidels) står på oppgitt side
+- OK   2 sitat rad 18 (W2982381358, varighet av sykefraværet, muskel/skjelet) står på oppgitt side
+- OK   2 sitat rad 19 (W2073048698, dager sykmeldt (median), korsryggsmerter) står på oppgitt side
+- OK   3 estimat=70 rad 19 (W2073048698, dager sykmeldt (median), korsryggsmerter) står i sitatet
+- OK   2 sitat rad 20 (W3124208379, full gjenvunnet arbeidsevne etter ett år) står på oppgitt side
+- OK   3 estimat=48 rad 20 (W3124208379, full gjenvunnet arbeidsevne etter ett år) står i sitatet
+- OK   2 sitat rad 21 (W2325466037, effekt av gradert sykmelding) står på oppgitt side
+- OK   2 sitat rad 22 (W1592746682, retur til ordinær arbeidstid eller sysse) står på oppgitt side
+- OK   2 sitat rad 23 (W2744665053, full uførepensjon innen to år (absolutt ) står på oppgitt side
+- OK   3 estimat=4.5 rad 23 (W2744665053, full uførepensjon innen to år (absolutt ) står i sitatet
+- OK   3 ki_lav=3.1 rad 23 (W2744665053, full uførepensjon innen to år (absolutt ) står i sitatet
+- OK   3 ki_hoy=5.6 rad 23 (W2744665053, full uførepensjon innen to år (absolutt ) står i sitatet
+- OK   4 rad 23 (W2744665053, full uførepensjon innen to år (absolutt ) estimat innenfor KI
+- OK   2 sitat rad 24 (W2744665053, gradert uførepensjon innen to år (negati) står på oppgitt side
+- OK   3 estimat=-6.1 rad 24 (W2744665053, gradert uførepensjon innen to år (negati) står i sitatet
+- OK   3 ki_lav=-7.1 rad 24 (W2744665053, gradert uførepensjon innen to år (negati) står i sitatet
+- OK   3 ki_hoy=-4.9 rad 24 (W2744665053, gradert uførepensjon innen to år (negati) står i sitatet
+- OK   4 rad 24 (W2744665053, gradert uførepensjon innen to år (negati) estimat innenfor KI
+- OK   2 sitat rad 25 (W2982381358, varighet av sykefraværet, ujustert (forh) står på oppgitt side
+- OK   3 estimat=1.40 rad 25 (W2982381358, varighet av sykefraværet, ujustert (forh) står i sitatet
+- OK   2 sitat rad 26 (W2744665053, varig retur etter diagnose: forskjell ve) står på oppgitt side
+- OK   2 sitat rad 27 (W2982381358, varighet av fravær ved oppstart av grade) står på oppgitt side
+- OK   3 estimat=0.75 rad 27 (W2982381358, varighet av fravær ved oppstart av grade) står i sitatet
+- OK   2 sitat rad 28 (W2079898261, effekt for dem som faktisk fikk gradert ) står på oppgitt side
+- OK   2 sitat rad 29 (W2412604146, retur til arbeid, metaanalyse av tre RCT) står på oppgitt side
+- OK   3 estimat=1.3 rad 29 (W2412604146, retur til arbeid, metaanalyse av tre RCT) står i sitatet
+- OK   3 ki_lav=0.9 rad 29 (W2412604146, retur til arbeid, metaanalyse av tre RCT) står i sitatet
+- OK   3 ki_hoy=1.9 rad 29 (W2412604146, retur til arbeid, metaanalyse av tre RCT) står i sitatet
+- OK   4 rad 29 (W2412604146, retur til arbeid, metaanalyse av tre RCT) estimat innenfor KI
+- OK   4 rad 29 (W2412604146, retur til arbeid, metaanalyse av tre RCT) KI symmetrisk på log-skala (avvik 0.01)
+- OK   2 sitat rad 30 (W2412604146, retur til arbeid, muskel/skjelett (den f) står på oppgitt side
+- OK   3 estimat=1.8 rad 30 (W2412604146, retur til arbeid, muskel/skjelett (den f) står i sitatet
+- OK   3 ki_lav=1.2 rad 30 (W2412604146, retur til arbeid, muskel/skjelett (den f) står i sitatet
+- OK   3 ki_hoy=2.8 rad 30 (W2412604146, retur til arbeid, muskel/skjelett (den f) står i sitatet
+- OK   4 rad 30 (W2412604146, retur til arbeid, muskel/skjelett (den f) estimat innenfor KI
+- OK   4 rad 30 (W2412604146, retur til arbeid, muskel/skjelett (den f) KI symmetrisk på log-skala (avvik 0.04)
+- OK   2 sitat rad 31 (W2796572035, uker i ordinært arbeid første år (ITT, j) står på oppgitt side
+- OK   3 estimat=-0.859 rad 31 (W2796572035, uker i ordinært arbeid første år (ITT, j) står i sitatet
+- OK   2 sitat rad 32 (W2796572035, uker sykmeldt første år (reduksjon på 3,) står på oppgitt side
+- OK   3 estimat=3.5 rad 32 (W2796572035, uker sykmeldt første år (reduksjon på 3,) står i sitatet
+- OK   2 sitat rad 33 (W2796572035, uker i ordinært arbeid første år for del) står på oppgitt side
+- OK   3 estimat=30.290 rad 33 (W2796572035, uker i ordinært arbeid første år for del) står i sitatet
+- OK   2 sitat rad 34 (W1501193741, samlet sykefravær (reduksjon i prosent)) står på oppgitt side
+- OK   3 estimat=18.8 rad 34 (W1501193741, samlet sykefravær (reduksjon i prosent)) står i sitatet
+- OK   2 sitat rad 35 (W1501193741, gradert sykefravær (økning i prosent, 0,) står på oppgitt side
+- OK   3 estimat=21 rad 35 (W1501193741, gradert sykefravær (økning i prosent, 0,) står i sitatet
+- OK   2 sitat rad 36 (W1501193741, forventet varighet av fulle og graderte ) står på oppgitt side
+- OK   3 estimat=13 rad 36 (W1501193741, forventet varighet av fulle og graderte ) står i sitatet
+- OK   2 sitat rad 37 (W2805335844, uker i arbeid de to første årene etter s) står på oppgitt side
+- OK   3 estimat=18 rad 37 (W2805335844, uker i arbeid de to første årene etter s) står i sitatet
+- OK   2 sitat rad 38 (W2805335844, retur til arbeid innen ett år) står på oppgitt side
+- OK   3 estimat=38 rad 38 (W2805335844, retur til arbeid innen ett år) står i sitatet
+- OK   2 sitat rad 39 (W2805335844, retur til arbeid innen to år (IV, ikke s) står på oppgitt side
+- OK   3 estimat=7.5 rad 39 (W2805335844, retur til arbeid innen to år (IV, ikke s) står i sitatet
+- OK   2 sitat rad 40 (W2805335844, retur til arbeid innen ett år (reduksjon) står på oppgitt side
+- OK   3 estimat=4.4 rad 40 (W2805335844, retur til arbeid innen ett år (reduksjon) står i sitatet
+- OK   2 sitat rad 41 (W2805335844, retur til arbeid innen to år, psykiske l) står på oppgitt side
+- OK   3 estimat=3 rad 41 (W2805335844, retur til arbeid innen to år, psykiske l) står i sitatet
+- OK   2 sitat rad 42 (W3170959179, sykefraværsdager etter vs. før, by A (ko) står på oppgitt side
+- OK   3 estimat=1.14 rad 42 (W3170959179, sykefraværsdager etter vs. før, by A (ko) står i sitatet
+- OK   3 ki_lav=1.09 rad 42 (W3170959179, sykefraværsdager etter vs. før, by A (ko) står i sitatet
+- OK   3 ki_hoy=1.21 rad 42 (W3170959179, sykefraværsdager etter vs. før, by A (ko) står i sitatet
+- OK   4 rad 42 (W3170959179, sykefraværsdager etter vs. før, by A (ko) estimat innenfor KI
+- OK   4 rad 42 (W3170959179, sykefraværsdager etter vs. før, by A (ko) KI symmetrisk på log-skala (avvik 0.01)
+- OK   2 sitat rad 43 (W3170959179, sykefraværsdager etter vs. før, kontroll) står på oppgitt side
+- OK   3 estimat=1.19 rad 43 (W3170959179, sykefraværsdager etter vs. før, kontroll) står i sitatet
+- OK   3 ki_lav=1.14 rad 43 (W3170959179, sykefraværsdager etter vs. før, kontroll) står i sitatet
+- OK   3 ki_hoy=1.24 rad 43 (W3170959179, sykefraværsdager etter vs. før, kontroll) står i sitatet
+- OK   4 rad 43 (W3170959179, sykefraværsdager etter vs. før, kontroll) estimat innenfor KI
+- OK   4 rad 43 (W3170959179, sykefraværsdager etter vs. før, kontroll) KI symmetrisk på log-skala (avvik 0.00)
+- OK   2 sitat rad 44 (W3170959179, antall sykefraværstilfeller etter vs. fø) står på oppgitt side
+- OK   3 estimat=1.08 rad 44 (W3170959179, antall sykefraværstilfeller etter vs. fø) står i sitatet
+- OK   3 ki_lav=1.06 rad 44 (W3170959179, antall sykefraværstilfeller etter vs. fø) står i sitatet
+- OK   3 ki_hoy=1.10 rad 44 (W3170959179, antall sykefraværstilfeller etter vs. fø) står i sitatet
+- OK   4 rad 44 (W3170959179, antall sykefraværstilfeller etter vs. fø) estimat innenfor KI
+- OK   4 rad 44 (W3170959179, antall sykefraværstilfeller etter vs. fø) KI symmetrisk på log-skala (avvik 0.00)
+- OK   2 sitat rad 45 (W2341011605, uførepensjon (5,4 vs. 8,6 prosent)) står på oppgitt side
+- OK   3 estimat=0.62 rad 45 (W2341011605, uførepensjon (5,4 vs. 8,6 prosent)) står i sitatet
+- OK   3 ki_lav=0.49 rad 45 (W2341011605, uførepensjon (5,4 vs. 8,6 prosent)) står i sitatet
+- OK   3 ki_hoy=0.80 rad 45 (W2341011605, uførepensjon (5,4 vs. 8,6 prosent)) står i sitatet
+- OK   4 rad 45 (W2341011605, uførepensjon (5,4 vs. 8,6 prosent)) estimat innenfor KI
+- OK   4 rad 45 (W2341011605, uførepensjon (5,4 vs. 8,6 prosent)) KI symmetrisk på log-skala (avvik 0.02)
+- OK   2 sitat rad 46 (W2341011605, inntekt fra ordinært arbeid 2007–2009 (e) står på oppgitt side
+- OK   3 estimat=12920 rad 46 (W2341011605, inntekt fra ordinært arbeid 2007–2009 (e) står i sitatet
+- OK   3 ki_lav=10054 rad 46 (W2341011605, inntekt fra ordinært arbeid 2007–2009 (e) står i sitatet
+- OK   3 ki_hoy=15786 rad 46 (W2341011605, inntekt fra ordinært arbeid 2007–2009 (e) står i sitatet
+- OK   4 rad 46 (W2341011605, inntekt fra ordinært arbeid 2007–2009 (e) estimat innenfor KI
+- OK   2 sitat rad 47 (W2341011605, dager med sykepenger (reduksjon)) står på oppgitt side
+- OK   3 estimat=52 rad 47 (W2341011605, dager med sykepenger (reduksjon)) står i sitatet
+- OK   3 ki_lav=40 rad 47 (W2341011605, dager med sykepenger (reduksjon)) står i sitatet
+- OK   3 ki_hoy=64 rad 47 (W2341011605, dager med sykepenger (reduksjon)) står i sitatet
+- OK   4 rad 47 (W2341011605, dager med sykepenger (reduksjon)) estimat innenfor KI
+- OK   2 sitat rad 48 (W4293168340, forventet yrkesaktiv tid fra 30 år, menn) står på oppgitt side
+- OK   3 estimat=2.63 rad 48 (W4293168340, forventet yrkesaktiv tid fra 30 år, menn) står i sitatet
+- OK   2 sitat rad 49 (W4293168340, forventet yrkesaktiv tid fra 30 år, kvin) står på oppgitt side
+- OK   3 estimat=1.98 rad 49 (W4293168340, forventet yrkesaktiv tid fra 30 år, kvin) står i sitatet
+- OK   2 sitat rad 50 (W4293168340, forventet yrkesaktiv tid fra 30 år, psyk) står på oppgitt side
+- OK   3 estimat=3.92 rad 50 (W4293168340, forventet yrkesaktiv tid fra 30 år, psyk) står i sitatet
+- OK   2 sitat rad 51 (W4293168340, forventet yrkesaktiv tid fra 30 år, musk) står på oppgitt side
+- OK   3 estimat=1.02 rad 51 (W4293168340, forventet yrkesaktiv tid fra 30 år, musk) står i sitatet
+- OK   2 sitat rad 52 (W2605726377, full retur til arbeid etter 15 måneder, ) står på oppgitt side
+- OK   3 estimat=1.22 rad 52 (W2605726377, full retur til arbeid etter 15 måneder, ) står i sitatet
+- OK   3 ki_lav=1.13 rad 52 (W2605726377, full retur til arbeid etter 15 måneder, ) står i sitatet
+- OK   3 ki_hoy=1.31 rad 52 (W2605726377, full retur til arbeid etter 15 måneder, ) står i sitatet
+- OK   4 rad 52 (W2605726377, full retur til arbeid etter 15 måneder, ) estimat innenfor KI
+- OK   4 rad 52 (W2605726377, full retur til arbeid etter 15 måneder, ) KI symmetrisk på log-skala (avvik 0.01)
+- OK   2 sitat rad 53 (W2605726377, uker sykmeldt i oppfølgingen, psykiske l) står på oppgitt side
+- OK   3 estimat=7.0 rad 53 (W2605726377, uker sykmeldt i oppfølgingen, psykiske l) står i sitatet
+- OK   2 sitat rad 54 (W3098021798, ingen effektestimat i sammendraget; fors) står på oppgitt side
+- OK   2 sitat rad 55 (W2060195272, ingen effektestimat; systematisk søk fan) står på oppgitt side
+- OK   2 sitat rad 56 (W2799283105, andel «fit notes» med «maybe fit» (kan a) står på oppgitt side
+- OK   3 estimat=6.5 rad 56 (W2799283105, andel «fit notes» med «maybe fit» (kan a) står i sitatet
+- OK   2 sitat rad 57 (W2799283105, ingen effektestimat; uklar evidens for a) står på oppgitt side
+- OK   2 sitat rad 58 (W2746656768, ingen effektestimat i sammendraget; posi) står på oppgitt side
+- OK   2 sitat rad 59 (W2805335844, retur til arbeid innen ett år, alle grad) står på oppgitt side
+- OK   3 estimat=12.7 rad 59 (W2805335844, retur til arbeid innen ett år, alle grad) står i sitatet
+- OK   2 sitat rad 60 (W3121578847, sykefravær (tapte dagsverk), hele period) står på oppgitt side
+- OK   3 estimat=12 rad 60 (W3121578847, sykefravær (tapte dagsverk), hele period) står i sitatet
+- OK   2 sitat rad 61 (W3121578847, endring i sykefraværsprosent (prosentpoe) står på oppgitt side
+- OK   3 estimat=-0.72 rad 61 (W3121578847, endring i sykefraværsprosent (prosentpoe) står i sitatet
+- OK   2 sitat rad 62 (W3121578847, nedgang i andel arbeidstakere med pågåen) står på oppgitt side
+- OK   3 estimat=0.5 rad 62 (W3121578847, nedgang i andel arbeidstakere med pågåen) står i sitatet
+- OK   2 sitat rad 63 (W3122932312, andel som gikk fra full til gradert sykm) står på oppgitt side
+- OK   3 estimat=48 rad 63 (W3122932312, andel som gikk fra full til gradert sykm) står i sitatet
+- OK   2 sitat rad 64 (W3122932312, sannsynlighet for full gjenvunnet arbeid) står på oppgitt side
+- OK   3 estimat=0.342 rad 64 (W3122932312, sannsynlighet for full gjenvunnet arbeid) står i sitatet
+- OK   2 sitat rad 65 (W3122932312, sannsynlighet for full gjenvunnet arbeid) står på oppgitt side
+- OK   3 estimat=15 rad 65 (W3122932312, sannsynlighet for full gjenvunnet arbeid) står i sitatet
+- OK   2 sitat rad 66 (W3122932312, sannsynlighet for full gjenvunnet arbeid) står på oppgitt side
+- OK   3 estimat=12.6 rad 66 (W3122932312, sannsynlighet for full gjenvunnet arbeid) står i sitatet
+- OK   2 sitat rad 67 (W3122932312, sannsynlighet for full gjenvunnet arbeid) står på oppgitt side
+- OK   3 estimat=0.063 rad 67 (W3122932312, sannsynlighet for full gjenvunnet arbeid) står i sitatet
+- OK   2 sitat rad 68 (W1977295977, ingen effektestimat; lederartikkel om ar) står på oppgitt side
+- OK   2 sitat rad 69 (W3024269757, ingen effektestimat; komparativ institus) står på oppgitt side
+- OK   2 sitat rad 70 (W2911999154, kunnskapsgrunnlag: 1 liten RCT og 12 reg) står på oppgitt side
+- OK   3 estimat=12 rad 70 (W2911999154, kunnskapsgrunnlag: 1 liten RCT og 12 reg) står i sitatet
+- OK   2 sitat rad 71 (W2911999154, retur til arbeid, hasardrate (justert fo) står på oppgitt side
+- OK   3 estimat=1.76 rad 71 (W2911999154, retur til arbeid, hasardrate (justert fo) står i sitatet
+- OK   3 ki_lav=1.21 rad 71 (W2911999154, retur til arbeid, hasardrate (justert fo) står i sitatet
+- OK   3 ki_hoy=2.56 rad 71 (W2911999154, retur til arbeid, hasardrate (justert fo) står i sitatet
+- OK   4 rad 71 (W2911999154, retur til arbeid, hasardrate (justert fo) estimat innenfor KI
+- OK   4 rad 71 (W2911999154, retur til arbeid, hasardrate (justert fo) KI symmetrisk på log-skala (avvik 0.00)
+- OK   2 sitat rad 72 (W2911999154, retur til arbeid (Lie, gjengitt i oversi) står på oppgitt side
+- OK   3 estimat=0.37 rad 72 (W2911999154, retur til arbeid (Lie, gjengitt i oversi) står i sitatet
+- OK   3 ki_lav=0.36 rad 72 (W2911999154, retur til arbeid (Lie, gjengitt i oversi) står i sitatet
+- OK   3 ki_hoy=0.38 rad 72 (W2911999154, retur til arbeid (Lie, gjengitt i oversi) står i sitatet
+- OK   4 rad 72 (W2911999154, retur til arbeid (Lie, gjengitt i oversi) estimat innenfor KI
+- OK   4 rad 72 (W2911999154, retur til arbeid (Lie, gjengitt i oversi) KI symmetrisk på log-skala (avvik 0.00)
+- OK   2 sitat rad 73 (W2911999154, varighet av sykefravær (Markussen mfl., ) står på oppgitt side
+- OK   3 estimat=60 rad 73 (W2911999154, varighet av sykefravær (Markussen mfl., ) står i sitatet
+- OK   2 sitat rad 74 (W2911999154, retur til arbeid etter 15 måneder (Strei) står på oppgitt side
+- OK   3 estimat=1.22 rad 74 (W2911999154, retur til arbeid etter 15 måneder (Strei) står i sitatet
+- OK   3 ki_lav=1.13 rad 74 (W2911999154, retur til arbeid etter 15 måneder (Strei) står i sitatet
+- OK   3 ki_hoy=1.31 rad 74 (W2911999154, retur til arbeid etter 15 måneder (Strei) står i sitatet
+- OK   4 rad 74 (W2911999154, retur til arbeid etter 15 måneder (Strei) estimat innenfor KI
+- OK   4 rad 74 (W2911999154, retur til arbeid etter 15 måneder (Strei) KI symmetrisk på log-skala (avvik 0.01)
+- OK   2 sitat rad 75 (W4404867325, ingen samlet effektestimat; scoping revi) står på oppgitt side
+- OK   3 estimat=35 rad 75 (W4404867325, ingen samlet effektestimat; scoping revi) står i sitatet
+- OK   2 sitat rad 76 (W4404867325, sannsynlighet for full tilfriskning (And) står på oppgitt side
+- OK   3 estimat=18 rad 76 (W4404867325, sannsynlighet for full tilfriskning (And) står i sitatet
+- OK   2 sitat rad 77 (W2473929489, bedriftens avkastning på eiendeler (ROA)) står på oppgitt side
+- OK   3 estimat=1.7 rad 77 (W2473929489, bedriftens avkastning på eiendeler (ROA)) står i sitatet
+- OK   2 sitat rad 78 (W2473929489, reduksjon i den negative effekten av syk) står på oppgitt side
+- OK   3 estimat=70 rad 78 (W2473929489, reduksjon i den negative effekten av syk) står i sitatet
+- OK   2 sitat rad 79 (AV-2012-2-03, sykefraværsrate (prosentvis nedgang per ) står på oppgitt side
+- OK   3 estimat=2.37 rad 79 (AV-2012-2-03, sykefraværsrate (prosentvis nedgang per ) står i sitatet
+- OK   2 sitat rad 80 (AV-2012-2-03, varighetsindikator (prosentvis endring p) står på oppgitt side
+- OK   3 estimat=-0.49 rad 80 (AV-2012-2-03, varighetsindikator (prosentvis endring p) står i sitatet
+- OK   2 sitat rad 81 (AV-2012-2-03, andel sykmeldte (prosentvis endring per ) står på oppgitt side
+- OK   3 estimat=-1.34 rad 81 (AV-2012-2-03, andel sykmeldte (prosentvis endring per ) står i sitatet
+- OK   2 sitat rad 82 (AV-2013-3-06, gjennomsnittlig varighet, graderte korte) står på oppgitt side
+- OK   3 estimat=21 rad 82 (AV-2013-3-06, gjennomsnittlig varighet, graderte korte) står i sitatet
+- OK   2 sitat rad 83 (AV-2013-3-06, gjennomsnittlig varighet, graderte lengr) står på oppgitt side
+- OK   3 estimat=13 rad 83 (AV-2013-3-06, gjennomsnittlig varighet, graderte lengr) står i sitatet
+- OK   2 sitat rad 84 (AV-2013-3-06, forskjell i varighet (graderte kortere) ) står på oppgitt side
+- OK   3 estimat=23 rad 84 (AV-2013-3-06, forskjell i varighet (graderte kortere) ) står i sitatet
+- OK   2 sitat rad 85 (AV-2018-2-06, andel sykepengetilfeller (over 16 dager)) står på oppgitt side
+- OK   3 estimat=50 rad 85 (AV-2018-2-06, andel sykepengetilfeller (over 16 dager)) står i sitatet
+- OK   2 sitat rad 86 (AV-2018-2-06, gjennomsnittlig varighet etter arbeidsgi) står på oppgitt side
+- OK   3 estimat=60 rad 86 (AV-2018-2-06, gjennomsnittlig varighet etter arbeidsgi) står i sitatet
+- OK   2 sitat rad 87 (AV-2018-2-06, gjennomsnittlig varighet i uker, kun ful) står på oppgitt side
+- OK   3 estimat=10 rad 87 (AV-2018-2-06, gjennomsnittlig varighet i uker, kun ful) står i sitatet
+- OK   2 sitat rad 88 (AV-2018-2-06, gjennomsnittlig varighet i uker, gradert) står på oppgitt side
+- OK   3 estimat=16 rad 88 (AV-2018-2-06, gjennomsnittlig varighet i uker, gradert) står i sitatet
+- OK   2 sitat rad 89 (0198cc8d6f08-8af27b58-5e7a-47d1-8504-4bc4b0361a42, andel med arbeidsforhold 2,5 år etter at) står på oppgitt side
+- OK   3 estimat=38 rad 89 (0198cc8d6f08-8af27b58-5e7a-47d1-8504-4bc4b0361a42, andel med arbeidsforhold 2,5 år etter at) står i sitatet
+- OK   2 sitat rad 90 (0198cc8d6f08-8af27b58-5e7a-47d1-8504-4bc4b0361a42, andel med arbeidsforhold 2,5 år etter at) står på oppgitt side
+- OK   3 estimat=84 rad 90 (0198cc8d6f08-8af27b58-5e7a-47d1-8504-4bc4b0361a42, andel med arbeidsforhold 2,5 år etter at) står i sitatet
+- OK   2 sitat rad 91 (0198cc8d6f08-8af27b58-5e7a-47d1-8504-4bc4b0361a42, andel med arbeidsforhold ved inngangen t) står på oppgitt side
+- OK   3 estimat=72 rad 91 (0198cc8d6f08-8af27b58-5e7a-47d1-8504-4bc4b0361a42, andel med arbeidsforhold ved inngangen t) står i sitatet
+- OK   2 sitat rad 92 (0198cc8d6f08-8af27b58-5e7a-47d1-8504-4bc4b0361a42, andel med uførepensjon vel to år etter, ) står på oppgitt side
+- OK   3 estimat=19 rad 92 (0198cc8d6f08-8af27b58-5e7a-47d1-8504-4bc4b0361a42, andel med uførepensjon vel to år etter, ) står i sitatet
+- OK   2 sitat rad 93 (0198cc8d6f08-8af27b58-5e7a-47d1-8504-4bc4b0361a42, andel med uførepensjon vel to år etter, ) står på oppgitt side
+- OK   3 estimat=13 rad 93 (0198cc8d6f08-8af27b58-5e7a-47d1-8504-4bc4b0361a42, andel med uførepensjon vel to år etter, ) står i sitatet
+- OK   2 sitat rad 94 (AV-2014-3-01, legemeldt sykefravær, prosentvis reduksj) står på oppgitt side
+- OK   3 estimat=8 rad 94 (AV-2014-3-01, legemeldt sykefravær, prosentvis reduksj) står i sitatet
+- OK   2 sitat rad 95 (AV-2014-3-01, gradering og friskmelding (ingen tallfes) står på oppgitt side
+- OK   2 sitat rad 96 (AV-2017-1-04, legemeldt sykefravær, prosentvis nedgang) står på oppgitt side
+- OK   3 estimat=6.0 rad 96 (AV-2017-1-04, legemeldt sykefravær, prosentvis nedgang) står i sitatet
+- OK   2 sitat rad 97 (AV-2017-1-04, legemeldt sykefravær, prosentvis nedgang) står på oppgitt side
+- OK   3 estimat=3.8 rad 97 (AV-2017-1-04, legemeldt sykefravær, prosentvis nedgang) står i sitatet
+- OK   2 sitat rad 98 (AV-2017-1-04, gjennomsnittlig varighet, prosentvis ned) står på oppgitt side
+- OK   3 estimat=3.4 rad 98 (AV-2017-1-04, gjennomsnittlig varighet, prosentvis ned) står i sitatet
+- OK   2 sitat rad 99 (AV-2017-1-04, andel med oppbrukte sykepengerettigheter) står på oppgitt side
+- OK   3 estimat=11 rad 99 (AV-2017-1-04, andel med oppbrukte sykepengerettigheter) står i sitatet
+- OK   2 sitat rad 100 (AV-2017-1-04, andel gradert (ingen tallfestet effekt i) står på oppgitt side
+- OK   2 sitat rad 101 (AV-2015-3-04, andel friskmeldt innen 26 uker blant ikk) står på oppgitt side
+- OK   3 estimat=57 rad 101 (AV-2015-3-04, andel friskmeldt innen 26 uker blant ikk) står i sitatet
+- OK   2 sitat rad 102 (AV-2015-3-04, andel som gikk ut hele sykepengeperioden) står på oppgitt side
+- OK   3 estimat=21 rad 102 (AV-2015-3-04, andel som gikk ut hele sykepengeperioden) står i sitatet
+- OK   2 sitat rad 103 (AV-2015-3-04, andel som fikk gradert sykmelding etter ) står på oppgitt side
+- OK   3 estimat=29 rad 103 (AV-2015-3-04, andel som fikk gradert sykmelding etter ) står i sitatet
+- OK   2 sitat rad 104 (AV-2017-1-04, legemeldt sykefravær, prosentvis nedgang) står på oppgitt side
+- OK   3 estimat=5.1 rad 104 (AV-2017-1-04, legemeldt sykefravær, prosentvis nedgang) står i sitatet
+- OK   2 sitat rad 105 (AV-2017-1-04, legemeldt sykefravær, prosentvis økning ) står på oppgitt side
+- OK   3 estimat=5.8 rad 105 (AV-2017-1-04, legemeldt sykefravær, prosentvis økning ) står i sitatet
+- OK   2 sitat rad 106 (AV-2013-3-06, gjennomsnittlig varighet, graderte lengr) står på oppgitt side
+- OK   3 estimat=92 rad 106 (AV-2013-3-06, gjennomsnittlig varighet, graderte lengr) står i sitatet
+- OK   2 sitat rad 107 (KU-7799f411-4c20-4a1a-aa6f-5aa52fbc9eab, overgangsintensitet fra sykmelding til j) står på oppgitt side
+- OK   3 estimat=0.37 rad 107 (KU-7799f411-4c20-4a1a-aa6f-5aa52fbc9eab, overgangsintensitet fra sykmelding til j) står i sitatet
+- OK   2 sitat rad 108 (KU-7799f411-4c20-4a1a-aa6f-5aa52fbc9eab, overgangsintensitet fra sykmelding til j) står på oppgitt side
+- OK   3 estimat=0.27 rad 108 (KU-7799f411-4c20-4a1a-aa6f-5aa52fbc9eab, overgangsintensitet fra sykmelding til j) står i sitatet
+- OK   2 sitat rad 109 (KU-7799f411-4c20-4a1a-aa6f-5aa52fbc9eab, tidspunkt i sykmeldingsforløpet (uker) d) står på oppgitt side
+- OK   3 estimat=12 rad 109 (KU-7799f411-4c20-4a1a-aa6f-5aa52fbc9eab, tidspunkt i sykmeldingsforløpet (uker) d) står i sitatet
+- OK   2 sitat rad 110 (KU-b027fe4b-4bf4-433e-b689-b7d06086b095, overgangsintensitet til jobb (HRR) fra f) står på oppgitt side
+- OK   3 estimat=2.0 rad 110 (KU-b027fe4b-4bf4-433e-b689-b7d06086b095, overgangsintensitet til jobb (HRR) fra f) står i sitatet
+- OK   2 sitat rad 111 (KU-b027fe4b-4bf4-433e-b689-b7d06086b095, færre dager i jobb i løpet av 2 år for d) står på oppgitt side
+- OK   3 estimat=37 rad 111 (KU-b027fe4b-4bf4-433e-b689-b7d06086b095, færre dager i jobb i løpet av 2 år for d) står i sitatet
+- OK   2 sitat rad 112 (KU-b027fe4b-4bf4-433e-b689-b7d06086b095, færre dager i jobb i løpet av 2 år, beti) står på oppgitt side
+- OK   3 estimat=13 rad 112 (KU-b027fe4b-4bf4-433e-b689-b7d06086b095, færre dager i jobb i løpet av 2 år, beti) står i sitatet
+- OK   2 sitat rad 113 (KU-b027fe4b-4bf4-433e-b689-b7d06086b095, andel tilbake i jobb 1 måned etter start) står på oppgitt side
+- OK   3 estimat=30 rad 113 (KU-b027fe4b-4bf4-433e-b689-b7d06086b095, andel tilbake i jobb 1 måned etter start) står i sitatet
+- OK   2 sitat rad 114 (KU-b027fe4b-4bf4-433e-b689-b7d06086b095, andel tilbake i jobb 1 måned etter full ) står på oppgitt side
+- OK   3 estimat=70 rad 114 (KU-b027fe4b-4bf4-433e-b689-b7d06086b095, andel tilbake i jobb 1 måned etter full ) står i sitatet
+- OK   2 sitat rad 115 (KU-34183300-cbad-41d5-8e50-9684f7850798, forskermøtets konklusjon: økt bruk av gr) står på oppgitt side
+- OK   2 sitat rad 116 (KU-34183300-cbad-41d5-8e50-9684f7850798, reduksjon (fall) i varighet av sykmeldin) står på oppgitt side
+- OK   3 estimat=66.1 rad 116 (KU-34183300-cbad-41d5-8e50-9684f7850798, reduksjon (fall) i varighet av sykmeldin) står i sitatet
+- OK   2 sitat rad 117 (KU-34183300-cbad-41d5-8e50-9684f7850798, reduksjon (fall) i påfølgende trygde- og) står på oppgitt side
+- OK   3 estimat=79.1 rad 117 (KU-34183300-cbad-41d5-8e50-9684f7850798, reduksjon (fall) i påfølgende trygde- og) står i sitatet
+- OK   2 sitat rad 118 (KU-34183300-cbad-41d5-8e50-9684f7850798, økning i andel sysselsatt to år senere; ) står på oppgitt side
+- OK   3 estimat=15.9 rad 118 (KU-34183300-cbad-41d5-8e50-9684f7850798, økning i andel sysselsatt to år senere; ) står i sitatet
+- OK   2 sitat rad 119 (KU-34183300-cbad-41d5-8e50-9684f7850798, større sjanse for å melde seg fullt arbe) står på oppgitt side
+- OK   3 estimat=50 rad 119 (KU-34183300-cbad-41d5-8e50-9684f7850798, større sjanse for å melde seg fullt arbe) står i sitatet
+- OK   2 sitat rad 120 (AV-2011-3-02, andel av sykefraværstilfeller påbegynt i) står på oppgitt side
+- OK   3 estimat=15 rad 120 (AV-2011-3-02, andel av sykefraværstilfeller påbegynt i) står i sitatet
+- OK   2 sitat rad 121 (AV-2011-3-02, andel av sykefraværstilfeller lengre enn) står på oppgitt side
+- OK   3 estimat=57 rad 121 (AV-2011-3-02, andel av sykefraværstilfeller lengre enn) står i sitatet
+- OK   2 sitat rad 122 (AV-2007-3-05, ingen sammenheng mellom legers økte bruk) står på oppgitt side
+- OK   2 sitat rad 123 (W3010213937, antall prospektive effektstudier om grad) står på oppgitt side
+- OK   3 estimat=6 rad 123 (W3010213937, antall prospektive effektstudier om grad) står i sitatet
+- OK   2 sitat rad 124 (W2132658439, arbeidsdeltakelse (andel av 365 dager i ) står på oppgitt side
+- OK   3 estimat=5.3 rad 124 (W2132658439, arbeidsdeltakelse (andel av 365 dager i ) står i sitatet
+- OK   3 ki_lav=3.1 rad 124 (W2132658439, arbeidsdeltakelse (andel av 365 dager i ) står i sitatet
+- OK   3 ki_hoy=7.5 rad 124 (W2132658439, arbeidsdeltakelse (andel av 365 dager i ) står i sitatet
+- OK   4 rad 124 (W2132658439, arbeidsdeltakelse (andel av 365 dager i ) estimat innenfor KI
+- OK   2 sitat rad 125 (W2132658439, arbeidsdeltakelse, forskjell-i-forskjell) står på oppgitt side
+- OK   3 estimat=9.8 rad 125 (W2132658439, arbeidsdeltakelse, forskjell-i-forskjell) står i sitatet
+- OK   3 ki_lav=5.9 rad 125 (W2132658439, arbeidsdeltakelse, forskjell-i-forskjell) står i sitatet
+- OK   3 ki_hoy=13.7 rad 125 (W2132658439, arbeidsdeltakelse, forskjell-i-forskjell) står i sitatet
+- OK   4 rad 125 (W2132658439, arbeidsdeltakelse, forskjell-i-forskjell) estimat innenfor KI
+- OK   2 sitat rad 126 (W2132658439, arbeidsdeltakelse, forskjell-i-forskjell) står på oppgitt side
+- OK   3 estimat=12.8 rad 126 (W2132658439, arbeidsdeltakelse, forskjell-i-forskjell) står i sitatet
+- OK   3 ki_lav=9.0 rad 126 (W2132658439, arbeidsdeltakelse, forskjell-i-forskjell) står i sitatet
+- OK   3 ki_hoy=16.5 rad 126 (W2132658439, arbeidsdeltakelse, forskjell-i-forskjell) står i sitatet
+- OK   4 rad 126 (W2132658439, arbeidsdeltakelse, forskjell-i-forskjell) estimat innenfor KI
+- OK   2 sitat rad 127 (W2132658439, arbeidsdeltakelse, forskjell-i-forskjell) står på oppgitt side
+- OK   3 estimat=18.9 rad 127 (W2132658439, arbeidsdeltakelse, forskjell-i-forskjell) står i sitatet
+- OK   3 ki_lav=14.2 rad 127 (W2132658439, arbeidsdeltakelse, forskjell-i-forskjell) står i sitatet
+- OK   3 ki_hoy=23.5 rad 127 (W2132658439, arbeidsdeltakelse, forskjell-i-forskjell) står i sitatet
+- OK   4 rad 127 (W2132658439, arbeidsdeltakelse, forskjell-i-forskjell) estimat innenfor KI
+- OK   2 sitat rad 128 (W2132658439, arbeidsdeltakelse, forskjell-i-forskjell) står på oppgitt side
+- OK   3 estimat=6.3 rad 128 (W2132658439, arbeidsdeltakelse, forskjell-i-forskjell) står i sitatet
+- OK   3 ki_lav=1.5 rad 128 (W2132658439, arbeidsdeltakelse, forskjell-i-forskjell) står i sitatet
+- OK   3 ki_hoy=11.2 rad 128 (W2132658439, arbeidsdeltakelse, forskjell-i-forskjell) står i sitatet
+- OK   4 rad 128 (W2132658439, arbeidsdeltakelse, forskjell-i-forskjell) estimat innenfor KI
+- OK   2 sitat rad 129 (W2159632075, absolutt reduksjon i risiko for full ufø) står på oppgitt side
+- OK   3 estimat=6 rad 129 (W2159632075, absolutt reduksjon i risiko for full ufø) står i sitatet
+- OK   2 sitat rad 130 (W2159632075, absolutt økning i risiko for delvis ufør) står på oppgitt side
+- OK   3 estimat=8 rad 130 (W2159632075, absolutt økning i risiko for delvis ufør) står i sitatet
+- OK   2 sitat rad 131 (W2159632075, absolutt reduksjon i bruk av full uførep) står på oppgitt side
+- OK   3 estimat=10 rad 131 (W2159632075, absolutt reduksjon i bruk av full uførep) står i sitatet
+- OK   2 sitat rad 132 (W2986214152, koeffisient for gradert sykmelding i Wei) står på oppgitt side
+- OK   3 estimat=0.717 rad 132 (W2986214152, koeffisient for gradert sykmelding i Wei) står i sitatet
+- OK   2 sitat rad 133 (W2986214152, koeffisient for gradert sykmelding i Wei) står på oppgitt side
+- OK   3 estimat=0.115 rad 133 (W2986214152, koeffisient for gradert sykmelding i Wei) står i sitatet
+- OK   2 sitat rad 134 (W2986214152, koeffisient for gradert sykmelding på ef) står på oppgitt side
+- OK   3 estimat=-0.247 rad 134 (W2986214152, koeffisient for gradert sykmelding på ef) står i sitatet
+- OK   2 sitat rad 135 (W3198402854, antall studier om gradert sykmelding i f) står på oppgitt side
+- OK   3 estimat=6 rad 135 (W3198402854, antall studier om gradert sykmelding i f) står i sitatet
+- OK   2 sitat rad 136 (W3138116577, ekstra dager borte til varig full retur ) står på oppgitt side
+- OK   3 estimat=24.6 rad 136 (W3138116577, ekstra dager borte til varig full retur ) står i sitatet
+- OK   3 ki_lav=19.9 rad 136 (W3138116577, ekstra dager borte til varig full retur ) står i sitatet
+- OK   3 ki_hoy=29.2 rad 136 (W3138116577, ekstra dager borte til varig full retur ) står i sitatet
+- OK   4 rad 136 (W3138116577, ekstra dager borte til varig full retur ) estimat innenfor KI
+- OK   2 sitat rad 137 (W3138116577, ekstra dager borte til varig full retur ) står på oppgitt side
+- OK   3 estimat=-9.4 rad 137 (W3138116577, ekstra dager borte til varig full retur ) står i sitatet
+- OK   3 ki_lav=-22.2 rad 137 (W3138116577, ekstra dager borte til varig full retur ) står i sitatet
+- OK   3 ki_hoy=3.5 rad 137 (W3138116577, ekstra dager borte til varig full retur ) står i sitatet
+- OK   4 rad 137 (W3138116577, ekstra dager borte til varig full retur ) estimat innenfor KI
+- OK   2 sitat rad 138 (KU-a0d29b59-a943-4e06-bb77-35d70df04c85, andel sykefraværstilfeller påbegynt i 20) står på oppgitt side
+- OK   3 estimat=15 rad 138 (KU-a0d29b59-a943-4e06-bb77-35d70df04c85, andel sykefraværstilfeller påbegynt i 20) står i sitatet
+- OK   2 sitat rad 139 (KU-a0d29b59-a943-4e06-bb77-35d70df04c85, andel sykefraværstilfeller lengre enn 90) står på oppgitt side
+- OK   3 estimat=57 rad 139 (KU-a0d29b59-a943-4e06-bb77-35d70df04c85, andel sykefraværstilfeller lengre enn 90) står i sitatet
+- OK   2 sitat rad 140 (KU-a0d29b59-a943-4e06-bb77-35d70df04c85, graderingsandel (andel sykefraværsdager ) står på oppgitt side
+- OK   3 estimat=14 rad 140 (KU-a0d29b59-a943-4e06-bb77-35d70df04c85, graderingsandel (andel sykefraværsdager ) står i sitatet
+- OK   2 sitat rad 141 (KU-a0d29b59-a943-4e06-bb77-35d70df04c85, nedgang i sykefraværsraten per prosentpo) står på oppgitt side
+- OK   3 estimat=1.79 rad 141 (KU-a0d29b59-a943-4e06-bb77-35d70df04c85, nedgang i sykefraværsraten per prosentpo) står i sitatet
+- OK   2 sitat rad 142 (KU-a0d29b59-a943-4e06-bb77-35d70df04c85, endring i sykefraværsraten per prosentpo) står på oppgitt side
+- OK   3 estimat=-1.26 rad 142 (KU-a0d29b59-a943-4e06-bb77-35d70df04c85, endring i sykefraværsraten per prosentpo) står i sitatet
+- OK   2 sitat rad 143 (KU-a0d29b59-a943-4e06-bb77-35d70df04c85, reduksjon i sykefraværsraten per prosent) står på oppgitt side
+- OK   3 estimat=2.37 rad 143 (KU-a0d29b59-a943-4e06-bb77-35d70df04c85, reduksjon i sykefraværsraten per prosent) står i sitatet
+- OK   2 sitat rad 144 (KU-a0d29b59-a943-4e06-bb77-35d70df04c85, endring i varigheten av sykefraværet per) står på oppgitt side
+- OK   3 estimat=-0.49 rad 144 (KU-a0d29b59-a943-4e06-bb77-35d70df04c85, endring i varigheten av sykefraværet per) står i sitatet
+- OK   2 sitat rad 145 (KU-a0d29b59-a943-4e06-bb77-35d70df04c85, endring i andelen sykmeldte per prosentp) står på oppgitt side
+- OK   3 estimat=-1.34 rad 145 (KU-a0d29b59-a943-4e06-bb77-35d70df04c85, endring i andelen sykmeldte per prosentp) står i sitatet
+- OK   2 sitat rad 146 (FI-fikka.5922382, forventet yrkesaktiv tid (working life e) står på oppgitt side
+- OK   3 estimat=2.86 rad 146 (FI-fikka.5922382, forventet yrkesaktiv tid (working life e) står i sitatet
+- OK   3 ki_lav=1.52 rad 146 (FI-fikka.5922382, forventet yrkesaktiv tid (working life e) står i sitatet
+- OK   3 ki_hoy=4.22 rad 146 (FI-fikka.5922382, forventet yrkesaktiv tid (working life e) står i sitatet
+- OK   4 rad 146 (FI-fikka.5922382, forventet yrkesaktiv tid (working life e) estimat innenfor KI
+- OK   2 sitat rad 147 (FI-fikka.5922382, forventet yrkesaktiv tid ved 30 år, år m) står på oppgitt side
+- OK   3 estimat=1.03 rad 147 (FI-fikka.5922382, forventet yrkesaktiv tid ved 30 år, år m) står i sitatet
+- OK   3 ki_lav=0.28 rad 147 (FI-fikka.5922382, forventet yrkesaktiv tid ved 30 år, år m) står i sitatet
+- OK   3 ki_hoy=1.78 rad 147 (FI-fikka.5922382, forventet yrkesaktiv tid ved 30 år, år m) står i sitatet
+- OK   4 rad 147 (FI-fikka.5922382, forventet yrkesaktiv tid ved 30 år, år m) estimat innenfor KI
+- OK   2 sitat rad 148 (FI-fikka.5922382, forventet yrkesaktiv tid ved 30 år, år m) står på oppgitt side
+- OK   3 estimat=3.92 rad 148 (FI-fikka.5922382, forventet yrkesaktiv tid ved 30 år, år m) står i sitatet
+- OK   2 sitat rad 149 (FI-fikka.5922382, forventet yrkesaktiv tid ved 30 år, år m) står på oppgitt side
+- OK   3 estimat=1.02 rad 149 (FI-fikka.5922382, forventet yrkesaktiv tid ved 30 år, år m) står i sitatet
+- OK   2 sitat rad 150 (FI-fikka.5922382, forventet yrkesaktiv tid ved 30 år, år m) står på oppgitt side
+- OK   3 estimat=2.63 rad 150 (FI-fikka.5922382, forventet yrkesaktiv tid ved 30 år, år m) står i sitatet
+- OK   2 sitat rad 151 (FI-fikka.5922382, forventet yrkesaktiv tid ved 30 år, år m) står på oppgitt side
+- OK   3 estimat=1.98 rad 151 (FI-fikka.5922382, forventet yrkesaktiv tid ved 30 år, år m) står i sitatet
+- OK   2 sitat rad 152 (FI-fikka.5922382, færre tapte arbeidsår på uførepensjon ve) står på oppgitt side
+- OK   3 estimat=1.07 rad 152 (FI-fikka.5922382, færre tapte arbeidsår på uførepensjon ve) står i sitatet
+- OK   2 sitat rad 153 (FI-fikka.5922382, færre tapte arbeidsår på uførepensjon ve) står på oppgitt side
+- OK   3 estimat=0.85 rad 153 (FI-fikka.5922382, færre tapte arbeidsår på uførepensjon ve) står i sitatet
+- OK   2 sitat rad 154 (FI-fikka.5922382, andel med vedvarende høy arbeidsdeltakel) står på oppgitt side
+- OK   3 estimat=40.4 rad 154 (FI-fikka.5922382, andel med vedvarende høy arbeidsdeltakel) står i sitatet
+- OK   2 sitat rad 155 (FI-fikka.5922382, andel med rask overgang til full arbeids) står på oppgitt side
+- OK   3 estimat=7.7 rad 155 (FI-fikka.5922382, andel med rask overgang til full arbeids) står i sitatet
+- OK   2 sitat rad 156 (FI-jykdok.2341206, dager til retur til vanlige arbeidsoppga) står på oppgitt side
+- OK   3 estimat=12 rad 156 (FI-jykdok.2341206, dager til retur til vanlige arbeidsoppga) står i sitatet
+- OK   2 sitat rad 157 (FI-jykdok.2341206, retur til arbeid, justert hasardrate (al) står på oppgitt side
+- OK   3 estimat=1.76 rad 157 (FI-jykdok.2341206, retur til arbeid, justert hasardrate (al) står i sitatet
+- OK   3 ki_lav=1.20 rad 157 (FI-jykdok.2341206, retur til arbeid, justert hasardrate (al) står i sitatet
+- OK   3 ki_hoy=2.82 rad 157 (FI-jykdok.2341206, retur til arbeid, justert hasardrate (al) står i sitatet
+- OK   4 rad 157 (FI-jykdok.2341206, retur til arbeid, justert hasardrate (al) estimat innenfor KI
+- OK   4 rad 157 (FI-jykdok.2341206, retur til arbeid, justert hasardrate (al) KI symmetrisk på log-skala (avvik 0.09)
+- OK   2 sitat rad 158 (FI-jykdok.2341206, retur til arbeid, ujustert hasardrate) står på oppgitt side
+- OK   3 estimat=1.52 rad 158 (FI-jykdok.2341206, retur til arbeid, ujustert hasardrate) står i sitatet
+- OK   3 ki_lav=0.91 rad 158 (FI-jykdok.2341206, retur til arbeid, ujustert hasardrate) står i sitatet
+- OK   3 ki_hoy=2.55 rad 158 (FI-jykdok.2341206, retur til arbeid, ujustert hasardrate) står i sitatet
+- OK   4 rad 158 (FI-jykdok.2341206, retur til arbeid, ujustert hasardrate) estimat innenfor KI
+- OK   4 rad 158 (FI-jykdok.2341206, retur til arbeid, ujustert hasardrate) KI symmetrisk på log-skala (avvik 0.00)
+- OK   2 sitat rad 159 (FI-jykdok.2341206, færre sykefraværsdager i løpet av 12 mån) står på oppgitt side
+- OK   3 estimat=20 rad 159 (FI-jykdok.2341206, færre sykefraværsdager i løpet av 12 mån) står i sitatet
+- OK   2 sitat rad 160 (FI-jykdok.2341206, spart arbeidsinnsats i euro per arbeidst) står på oppgitt side
+- OK   3 estimat=1882 rad 160 (FI-jykdok.2341206, spart arbeidsinnsats i euro per arbeidst) står i sitatet
+- OK   2 sitat rad 161 (W3023766513, ingen effektestimat i sammendraget; over) står på oppgitt side
+- OK   2 sitat rad 165 (AV-2016-3-05, lavere sannsynlighet for friskmelding i ) står på oppgitt side
+- OK   3 estimat=24 rad 165 (AV-2016-3-05, lavere sannsynlighet for friskmelding i ) står i sitatet
+- OK   2 sitat rad 166 (AV-2016-3-05, hasardratio for friskmelding, alle kontr) står på oppgitt side
+- OK   3 estimat=0.761 rad 166 (AV-2016-3-05, hasardratio for friskmelding, alle kontr) står i sitatet
+- OK   2 sitat rad 167 (AV-2016-3-05, hasardratio for friskmelding uten kontro) står på oppgitt side
+- OK   3 estimat=0.738 rad 167 (AV-2016-3-05, hasardratio for friskmelding uten kontro) står i sitatet
+- OK   2 sitat rad 168 (AV-2016-3-05, uker til friskmeldingsraten for graderte) står på oppgitt side
+- OK   3 estimat=30 rad 168 (AV-2016-3-05, uker til friskmeldingsraten for graderte) står i sitatet
+- OK   2 sitat rad 169 (019904aa7986-0e4c2361-eb33-4871-9ab3-47b965597085, antall relevante studier av gradert/akti) står på oppgitt side
+- OK   3 estimat=13 rad 169 (019904aa7986-0e4c2361-eb33-4871-9ab3-47b965597085, antall relevante studier av gradert/akti) står i sitatet
+- OK   2 sitat rad 170 (W2794297004, arbeidsstatus, retur til arbeid og sykef) står på oppgitt side
+- OK   2 sitat rad 171 (W4392582001, arbeidsdeltakelse og retur til arbeid; i) står på oppgitt side
+- OK   2 sitat rad 172 (W2794825180, ny sykmelding (tilbakefall) etter retur ) står på oppgitt side
+- OK   3 estimat=0.35 rad 172 (W2794825180, ny sykmelding (tilbakefall) etter retur ) står i sitatet
+- OK   3 ki_lav=0.16 rad 172 (W2794825180, ny sykmelding (tilbakefall) etter retur ) står i sitatet
+- OK   3 ki_hoy=0.78 rad 172 (W2794825180, ny sykmelding (tilbakefall) etter retur ) står i sitatet
+- OK   4 rad 172 (W2794825180, ny sykmelding (tilbakefall) etter retur ) estimat innenfor KI
+- OK   4 rad 172 (W2794825180, ny sykmelding (tilbakefall) etter retur ) KI symmetrisk på log-skala (avvik 0.02)
+- OK   2 sitat rad 173 (W1579837130, full gjenvunnet arbeidsevne innen 30 dag) står på oppgitt side
+- OK   3 estimat=-0.3924 rad 173 (W1579837130, full gjenvunnet arbeidsevne innen 30 dag) står i sitatet
+- OK   2 sitat rad 174 (W1579837130, full gjenvunnet arbeidsevne innen 150 da) står på oppgitt side
+- OK   3 estimat=0.0791 rad 174 (W1579837130, full gjenvunnet arbeidsevne innen 150 da) står i sitatet
+- OK   2 sitat rad 175 (W1579837130, full gjenvunnet arbeidsevne innen 300 da) står på oppgitt side
+- OK   3 estimat=0.1307 rad 175 (W1579837130, full gjenvunnet arbeidsevne innen 300 da) står i sitatet
+- OK   2 sitat rad 176 (W1579837130, full gjenvunnet arbeidsevne innen 180 da) står på oppgitt side
+- OK   3 estimat=0.0040 rad 176 (W1579837130, full gjenvunnet arbeidsevne innen 180 da) står i sitatet
+- OK   2 sitat rad 177 (W1527098577, full gjenvunnet arbeidsevne etter ett år) står på oppgitt side
+- OK   3 estimat=0.254 rad 177 (W1527098577, full gjenvunnet arbeidsevne etter ett år) står i sitatet
+- OK   2 sitat rad 178 (W1527098577, full gjenvunnet arbeidsevne etter ett år) står på oppgitt side
+- OK   3 estimat=-0.130 rad 178 (W1527098577, full gjenvunnet arbeidsevne etter ett år) står i sitatet
+- OK   2 sitat rad 179 (W1527098577, full gjenvunnet arbeidsevne etter ett år) står på oppgitt side
+- OK   3 estimat=0.175 rad 179 (W1527098577, full gjenvunnet arbeidsevne etter ett år) står i sitatet
+- OK   2 sitat rad 180 (W1527098577, full gjenvunnet arbeidsevne etter ett år) står på oppgitt side
+- OK   3 estimat=0.346 rad 180 (W1527098577, full gjenvunnet arbeidsevne etter ett år) står i sitatet
+- OK   2 sitat rad 181 (W2005271733, ingen effektestimat i sammendraget (bare) står på oppgitt side
+- OK   2 sitat rad 182 (W4239637744, ingen effektestimat i sammendraget: grad) står på oppgitt side
+- OK   2 sitat rad 183 (W2025121479, full gjenvunnet arbeidsevne (retur til a) står på oppgitt side
+- OK   3 estimat=10 rad 183 (W2025121479, full gjenvunnet arbeidsevne (retur til a) står i sitatet
+- OK   2 sitat rad 184 (W2810202913, ingen effektestimat i sammendraget: grad) står på oppgitt side
+- OK   7 statistikk rad 1 (Nav SYFRA2501, Andel graderte tilfeller, alle) har alle felt
+- OK   7 statistikk rad 1 (Nav SYFRA2501, Andel graderte tilfeller, alle) verdien 14.907205 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   7 statistikk rad 2 (Nav SYFRA2501, Andel graderte tilfeller, alle (avrundet) har alle felt
+- OK   7 statistikk rad 2 (Nav SYFRA2501, Andel graderte tilfeller, alle (avrundet) er utregnet: 14.907205 avrundet til én desimal
+- OK   7 statistikk rad 3 (Nav SYFRA2501, Andel graderte tilfeller, alle) har alle felt
+- OK   7 statistikk rad 3 (Nav SYFRA2501, Andel graderte tilfeller, alle) verdien 22.460509 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   7 statistikk rad 4 (Nav SYFRA2501, Andel graderte tilfeller, alle (avrundet) har alle felt
+- OK   7 statistikk rad 4 (Nav SYFRA2501, Andel graderte tilfeller, alle (avrundet) er utregnet: 22.460509 avrundet til én desimal
+- OK   7 statistikk rad 5 (Nav SYFRA2501, Andel graderte tilfeller, alle) har alle felt
+- OK   7 statistikk rad 5 (Nav SYFRA2501, Andel graderte tilfeller, alle) verdien 27.057389 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   7 statistikk rad 6 (Nav SYFRA2501, Andel graderte tilfeller, alle (avrundet) har alle felt
+- OK   7 statistikk rad 6 (Nav SYFRA2501, Andel graderte tilfeller, alle (avrundet) er utregnet: 27.057389 avrundet til én desimal
+- OK   7 statistikk rad 7 (Nav SYFRA2501, Andel graderte tilfeller, alle) har alle felt
+- OK   7 statistikk rad 7 (Nav SYFRA2501, Andel graderte tilfeller, alle) verdien 31.312614 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   7 statistikk rad 8 (Nav SYFRA2501, Andel graderte tilfeller, alle (avrundet) har alle felt
+- OK   7 statistikk rad 8 (Nav SYFRA2501, Andel graderte tilfeller, alle (avrundet) er utregnet: 31.312614 avrundet til én desimal
+- OK   7 statistikk rad 9 (Nav SYFRA2501, Andel graderte tilfeller, kvinner) har alle felt
+- OK   7 statistikk rad 9 (Nav SYFRA2501, Andel graderte tilfeller, kvinner) verdien 17.674045 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   7 statistikk rad 10 (Nav SYFRA2501, Andel graderte tilfeller, kvinner (avrun) har alle felt
+- OK   7 statistikk rad 10 (Nav SYFRA2501, Andel graderte tilfeller, kvinner (avrun) er utregnet: 17.674045 avrundet til én desimal
+- OK   7 statistikk rad 11 (Nav SYFRA2501, Andel graderte tilfeller, menn) har alle felt
+- OK   7 statistikk rad 11 (Nav SYFRA2501, Andel graderte tilfeller, menn) verdien 11.011952 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   7 statistikk rad 12 (Nav SYFRA2501, Andel graderte tilfeller, menn (avrundet) har alle felt
+- OK   7 statistikk rad 12 (Nav SYFRA2501, Andel graderte tilfeller, menn (avrundet) er utregnet: 11.011952 avrundet til én desimal
+- OK   7 statistikk rad 13 (Nav SYFRA2501, Andel graderte tilfeller, psykiske lidel) har alle felt
+- OK   7 statistikk rad 13 (Nav SYFRA2501, Andel graderte tilfeller, psykiske lidel) verdien 21.539557 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   7 statistikk rad 14 (Nav SYFRA2501, Andel graderte tilfeller, psykiske lidel) har alle felt
+- OK   7 statistikk rad 14 (Nav SYFRA2501, Andel graderte tilfeller, psykiske lidel) er utregnet: 21.539557 avrundet til én desimal
+- OK   7 statistikk rad 15 (Nav SYFRA2501, Andel graderte tilfeller, muskel- og skj) har alle felt
+- OK   7 statistikk rad 15 (Nav SYFRA2501, Andel graderte tilfeller, muskel- og skj) verdien 18.47247 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   7 statistikk rad 16 (Nav SYFRA2501, Andel graderte tilfeller, muskel- og skj) har alle felt
+- OK   7 statistikk rad 16 (Nav SYFRA2501, Andel graderte tilfeller, muskel- og skj) er utregnet: 18.47247 avrundet til én desimal
+- OK   7 statistikk rad 17 (Nav SYFRA2501, Andel graderte tilfeller, sykdommer i lu) har alle felt
+- OK   7 statistikk rad 17 (Nav SYFRA2501, Andel graderte tilfeller, sykdommer i lu) verdien 3.322054 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   7 statistikk rad 18 (Nav SYFRA2501, Andel graderte tilfeller, sykdommer i lu) har alle felt
+- OK   7 statistikk rad 18 (Nav SYFRA2501, Andel graderte tilfeller, sykdommer i lu) er utregnet: 3.322054 avrundet til én desimal
+- OK   7 statistikk rad 19 (Nav SYFRA2501, Andel graderte tilfeller, kvinner) har alle felt
+- OK   7 statistikk rad 19 (Nav SYFRA2501, Andel graderte tilfeller, kvinner) verdien 36.29404 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   7 statistikk rad 20 (Nav SYFRA2501, Andel graderte tilfeller, kvinner (avrun) har alle felt
+- OK   7 statistikk rad 20 (Nav SYFRA2501, Andel graderte tilfeller, kvinner (avrun) er utregnet: 36.29404 avrundet til én desimal
+- OK   7 statistikk rad 21 (Nav SYFRA2501, Andel graderte tilfeller, menn) har alle felt
+- OK   7 statistikk rad 21 (Nav SYFRA2501, Andel graderte tilfeller, menn) verdien 23.502092 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   7 statistikk rad 22 (Nav SYFRA2501, Andel graderte tilfeller, menn (avrundet) har alle felt
+- OK   7 statistikk rad 22 (Nav SYFRA2501, Andel graderte tilfeller, menn (avrundet) er utregnet: 23.502092 avrundet til én desimal
+- OK   7 statistikk rad 23 (Nav SYFRA2501, Andel graderte tilfeller, psykiske lidel) har alle felt
+- OK   7 statistikk rad 23 (Nav SYFRA2501, Andel graderte tilfeller, psykiske lidel) verdien 45.593351 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   7 statistikk rad 24 (Nav SYFRA2501, Andel graderte tilfeller, psykiske lidel) har alle felt
+- OK   7 statistikk rad 24 (Nav SYFRA2501, Andel graderte tilfeller, psykiske lidel) er utregnet: 45.593351 avrundet til én desimal
+- OK   7 statistikk rad 25 (Nav SYFRA2501, Andel graderte tilfeller, muskel- og skj) har alle felt
+- OK   7 statistikk rad 25 (Nav SYFRA2501, Andel graderte tilfeller, muskel- og skj) verdien 34.471497 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   7 statistikk rad 26 (Nav SYFRA2501, Andel graderte tilfeller, muskel- og skj) har alle felt
+- OK   7 statistikk rad 26 (Nav SYFRA2501, Andel graderte tilfeller, muskel- og skj) er utregnet: 34.471497 avrundet til én desimal
+- OK   7 statistikk rad 27 (Nav SYFRA2501, Andel graderte tilfeller, sykdommer i lu) har alle felt
+- OK   7 statistikk rad 27 (Nav SYFRA2501, Andel graderte tilfeller, sykdommer i lu) verdien 5.883261 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   7 statistikk rad 28 (Nav SYFRA2501, Andel graderte tilfeller, sykdommer i lu) har alle felt
+- OK   7 statistikk rad 28 (Nav SYFRA2501, Andel graderte tilfeller, sykdommer i lu) er utregnet: 5.883261 avrundet til én desimal
+- OK   8 figur-1-andel-gradert: Alle 2002 = 14.907205 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-1-andel-gradert: Alle 2003 = 12.992661 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-1-andel-gradert: Alle 2004 = 14.673934 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-1-andel-gradert: Alle 2005 = 18.902405 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-1-andel-gradert: Alle 2006 = 19.739109 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-1-andel-gradert: Alle 2007 = 20.128739 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-1-andel-gradert: Alle 2008 = 19.637564 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-1-andel-gradert: Alle 2009 = 21.064332 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-1-andel-gradert: Alle 2010 = 22.460509 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-1-andel-gradert: Alle 2011 = 24.018107 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-1-andel-gradert: Alle 2012 = 25.914489 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-1-andel-gradert: Alle 2013 = 25.780213 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-1-andel-gradert: Alle 2014 = 26.556985 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-1-andel-gradert: Alle 2015 = 26.286706 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-1-andel-gradert: Alle 2016 = 26.988943 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-1-andel-gradert: Alle 2017 = 26.979192 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-1-andel-gradert: Alle 2018 = 26.599141 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-1-andel-gradert: Alle 2019 = 27.057389 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-1-andel-gradert: Alle 2020 = 25.80417 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-1-andel-gradert: Alle 2021 = 28.060268 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-1-andel-gradert: Alle 2022 = 25.716947 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-1-andel-gradert: Alle 2023 = 27.620426 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-1-andel-gradert: Alle 2024 = 28.377483 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-1-andel-gradert: Alle 2025 = 29.072285 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-1-andel-gradert: Alle 2026 = 31.312614 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-1-andel-gradert: Kvinner 2002 = 17.674045 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-1-andel-gradert: Kvinner 2003 = 15.802022 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-1-andel-gradert: Kvinner 2004 = 17.516941 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-1-andel-gradert: Kvinner 2005 = 21.970531 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-1-andel-gradert: Kvinner 2006 = 22.946034 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-1-andel-gradert: Kvinner 2007 = 23.448322 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-1-andel-gradert: Kvinner 2008 = 22.988826 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-1-andel-gradert: Kvinner 2009 = 24.336994 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-1-andel-gradert: Kvinner 2010 = 25.634864 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-1-andel-gradert: Kvinner 2011 = 27.424264 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-1-andel-gradert: Kvinner 2012 = 29.315988 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-1-andel-gradert: Kvinner 2013 = 29.242886 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-1-andel-gradert: Kvinner 2014 = 30.092008 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-1-andel-gradert: Kvinner 2015 = 29.617683 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-1-andel-gradert: Kvinner 2016 = 30.449079 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-1-andel-gradert: Kvinner 2017 = 30.548038 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-1-andel-gradert: Kvinner 2018 = 30.235605 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-1-andel-gradert: Kvinner 2019 = 30.960096 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-1-andel-gradert: Kvinner 2020 = 29.446202 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-1-andel-gradert: Kvinner 2021 = 32.378014 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-1-andel-gradert: Kvinner 2022 = 29.884569 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-1-andel-gradert: Kvinner 2023 = 32.095382 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-1-andel-gradert: Kvinner 2024 = 32.87613 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-1-andel-gradert: Kvinner 2025 = 33.861471 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-1-andel-gradert: Kvinner 2026 = 36.29404 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-1-andel-gradert: Menn 2002 = 11.011952 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-1-andel-gradert: Menn 2003 = 8.901029 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-1-andel-gradert: Menn 2004 = 10.421036 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-1-andel-gradert: Menn 2005 = 14.289069 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-1-andel-gradert: Menn 2006 = 14.838121 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-1-andel-gradert: Menn 2007 = 14.945655 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-1-andel-gradert: Menn 2008 = 14.408219 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-1-andel-gradert: Menn 2009 = 15.850984 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-1-andel-gradert: Menn 2010 = 17.253538 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-1-andel-gradert: Menn 2011 = 18.35425 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-1-andel-gradert: Menn 2012 = 20.283675 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-1-andel-gradert: Menn 2013 = 20.106781 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-1-andel-gradert: Menn 2014 = 20.712512 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-1-andel-gradert: Menn 2015 = 20.736089 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-1-andel-gradert: Menn 2016 = 21.207921 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-1-andel-gradert: Menn 2017 = 20.981621 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-1-andel-gradert: Menn 2018 = 20.686823 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-1-andel-gradert: Menn 2019 = 20.685352 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-1-andel-gradert: Menn 2020 = 20.23817 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-1-andel-gradert: Menn 2021 = 21.189128 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-1-andel-gradert: Menn 2022 = 19.185243 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-1-andel-gradert: Menn 2023 = 20.638931 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-1-andel-gradert: Menn 2024 = 21.252589 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-1-andel-gradert: Menn 2025 = 21.501921 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-1-andel-gradert: Menn 2026 = 23.502092 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-2-gradert-diagnose: Psykiske lidelser 2002 = 21.539557 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-2-gradert-diagnose: Psykiske lidelser 2003 = 18.632868 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-2-gradert-diagnose: Psykiske lidelser 2004 = 20.420426 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-2-gradert-diagnose: Psykiske lidelser 2005 = 26.808183 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-2-gradert-diagnose: Psykiske lidelser 2006 = 27.662445 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-2-gradert-diagnose: Psykiske lidelser 2007 = 28.235543 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-2-gradert-diagnose: Psykiske lidelser 2008 = 27.620618 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-2-gradert-diagnose: Psykiske lidelser 2009 = 28.260957 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-2-gradert-diagnose: Psykiske lidelser 2010 = 30.47213 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-2-gradert-diagnose: Psykiske lidelser 2011 = 33.003521 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-2-gradert-diagnose: Psykiske lidelser 2012 = 35.827441 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-2-gradert-diagnose: Psykiske lidelser 2013 = 35.839569 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-2-gradert-diagnose: Psykiske lidelser 2014 = 37.216978 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-2-gradert-diagnose: Psykiske lidelser 2015 = 37.412118 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-2-gradert-diagnose: Psykiske lidelser 2016 = 38.445276 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-2-gradert-diagnose: Psykiske lidelser 2017 = 38.782514 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-2-gradert-diagnose: Psykiske lidelser 2018 = 38.122682 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-2-gradert-diagnose: Psykiske lidelser 2019 = 39.554696 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-2-gradert-diagnose: Psykiske lidelser 2020 = 38.302948 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-2-gradert-diagnose: Psykiske lidelser 2021 = 39.908819 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-2-gradert-diagnose: Psykiske lidelser 2022 = 41.346173 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-2-gradert-diagnose: Psykiske lidelser 2023 = 41.488166 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-2-gradert-diagnose: Psykiske lidelser 2024 = 41.916803 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-2-gradert-diagnose: Psykiske lidelser 2025 = 43.109514 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-2-gradert-diagnose: Psykiske lidelser 2026 = 45.593351 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-2-gradert-diagnose: Muskel- og skjelettlidelser 2002 = 18.47247 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-2-gradert-diagnose: Muskel- og skjelettlidelser 2003 = 15.022808 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-2-gradert-diagnose: Muskel- og skjelettlidelser 2004 = 16.70872 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-2-gradert-diagnose: Muskel- og skjelettlidelser 2005 = 23.191999 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-2-gradert-diagnose: Muskel- og skjelettlidelser 2006 = 23.181251 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-2-gradert-diagnose: Muskel- og skjelettlidelser 2007 = 22.843864 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-2-gradert-diagnose: Muskel- og skjelettlidelser 2008 = 22.766182 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-2-gradert-diagnose: Muskel- og skjelettlidelser 2009 = 23.446423 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-2-gradert-diagnose: Muskel- og skjelettlidelser 2010 = 25.334944 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-2-gradert-diagnose: Muskel- og skjelettlidelser 2011 = 27.043282 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-2-gradert-diagnose: Muskel- og skjelettlidelser 2012 = 29.748565 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-2-gradert-diagnose: Muskel- og skjelettlidelser 2013 = 29.735181 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-2-gradert-diagnose: Muskel- og skjelettlidelser 2014 = 30.251907 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-2-gradert-diagnose: Muskel- og skjelettlidelser 2015 = 30.526984 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-2-gradert-diagnose: Muskel- og skjelettlidelser 2016 = 31.678739 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-2-gradert-diagnose: Muskel- og skjelettlidelser 2017 = 31.470288 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-2-gradert-diagnose: Muskel- og skjelettlidelser 2018 = 30.874466 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-2-gradert-diagnose: Muskel- og skjelettlidelser 2019 = 31.132375 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-2-gradert-diagnose: Muskel- og skjelettlidelser 2020 = 30.207998 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-2-gradert-diagnose: Muskel- og skjelettlidelser 2021 = 31.842134 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-2-gradert-diagnose: Muskel- og skjelettlidelser 2022 = 31.631789 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-2-gradert-diagnose: Muskel- og skjelettlidelser 2023 = 31.555619 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-2-gradert-diagnose: Muskel- og skjelettlidelser 2024 = 31.682981 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-2-gradert-diagnose: Muskel- og skjelettlidelser 2025 = 32.695499 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-2-gradert-diagnose: Muskel- og skjelettlidelser 2026 = 34.471497 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-2-gradert-diagnose: Alle diagnoser 2002 = 14.907205 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-2-gradert-diagnose: Alle diagnoser 2003 = 12.992661 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-2-gradert-diagnose: Alle diagnoser 2004 = 14.673934 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-2-gradert-diagnose: Alle diagnoser 2005 = 18.902405 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-2-gradert-diagnose: Alle diagnoser 2006 = 19.739109 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-2-gradert-diagnose: Alle diagnoser 2007 = 20.128739 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-2-gradert-diagnose: Alle diagnoser 2008 = 19.637564 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-2-gradert-diagnose: Alle diagnoser 2009 = 21.064332 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-2-gradert-diagnose: Alle diagnoser 2010 = 22.460509 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-2-gradert-diagnose: Alle diagnoser 2011 = 24.018107 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-2-gradert-diagnose: Alle diagnoser 2012 = 25.914489 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-2-gradert-diagnose: Alle diagnoser 2013 = 25.780213 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-2-gradert-diagnose: Alle diagnoser 2014 = 26.556985 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-2-gradert-diagnose: Alle diagnoser 2015 = 26.286706 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-2-gradert-diagnose: Alle diagnoser 2016 = 26.988943 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-2-gradert-diagnose: Alle diagnoser 2017 = 26.979192 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-2-gradert-diagnose: Alle diagnoser 2018 = 26.599141 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-2-gradert-diagnose: Alle diagnoser 2019 = 27.057389 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-2-gradert-diagnose: Alle diagnoser 2020 = 25.80417 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-2-gradert-diagnose: Alle diagnoser 2021 = 28.060268 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-2-gradert-diagnose: Alle diagnoser 2022 = 25.716947 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-2-gradert-diagnose: Alle diagnoser 2023 = 27.620426 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-2-gradert-diagnose: Alle diagnoser 2024 = 28.377483 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-2-gradert-diagnose: Alle diagnoser 2025 = 29.072285 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-2-gradert-diagnose: Alle diagnoser 2026 = 31.312614 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-2-gradert-diagnose: Sykdommer i luftveiene 2002 = 3.322054 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-2-gradert-diagnose: Sykdommer i luftveiene 2003 = 2.907309 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-2-gradert-diagnose: Sykdommer i luftveiene 2004 = 3.674839 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-2-gradert-diagnose: Sykdommer i luftveiene 2005 = 4.147121 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-2-gradert-diagnose: Sykdommer i luftveiene 2006 = 4.612984 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-2-gradert-diagnose: Sykdommer i luftveiene 2007 = 5.347742 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-2-gradert-diagnose: Sykdommer i luftveiene 2008 = 4.697311 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-2-gradert-diagnose: Sykdommer i luftveiene 2009 = 5.379099 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-2-gradert-diagnose: Sykdommer i luftveiene 2010 = 5.397738 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-2-gradert-diagnose: Sykdommer i luftveiene 2011 = 6.074197 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-2-gradert-diagnose: Sykdommer i luftveiene 2012 = 6.4507 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-2-gradert-diagnose: Sykdommer i luftveiene 2013 = 6.205428 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-2-gradert-diagnose: Sykdommer i luftveiene 2014 = 6.31577 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-2-gradert-diagnose: Sykdommer i luftveiene 2015 = 5.825542 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-2-gradert-diagnose: Sykdommer i luftveiene 2016 = 5.944643 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-2-gradert-diagnose: Sykdommer i luftveiene 2017 = 5.751478 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-2-gradert-diagnose: Sykdommer i luftveiene 2018 = 5.832668 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-2-gradert-diagnose: Sykdommer i luftveiene 2019 = 5.865443 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-2-gradert-diagnose: Sykdommer i luftveiene 2020 = 6.825801 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-2-gradert-diagnose: Sykdommer i luftveiene 2021 = 8.288913 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-2-gradert-diagnose: Sykdommer i luftveiene 2022 = 7.781285 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-2-gradert-diagnose: Sykdommer i luftveiene 2023 = 5.617582 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-2-gradert-diagnose: Sykdommer i luftveiene 2024 = 5.801529 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-2-gradert-diagnose: Sykdommer i luftveiene 2025 = 5.779649 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figur-2-gradert-diagnose: Sykdommer i luftveiene 2026 = 5.883261 står i statistikk/nav-syfra2501-andel-gradert-hovedgr.tsv
+- OK   8 figuren figurer/figur-1-andel-gradert.png er laget
+- OK   8 figuren figurer/figur-1-andel-gradert.png er lenket i svaret
+- OK   8 figuren figurer/figur-2-gradert-diagnose.png er laget
+- OK   8 figuren figurer/figur-2-gradert-diagnose.png er lenket i svaret
+- OK   5 tallet 0.015 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 0.063 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 0.0791 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 0.130 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 0.1307 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 0.27 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 0.28 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 0.342 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 0.36 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 0.37 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 0.38 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 0.387 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 0.3924 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 0.49 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 0.62 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 0.75 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 0.761 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 0.80 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 0.9 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 0.91 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 0.98 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 1.02 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 1.03 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 1.12 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 1.13 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 1.14 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 1.19 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 1.21 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 1.22 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 1.26 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 1.29 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 1.3 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 1.31 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 1.34 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 1.40 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 1.52 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 1.60 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 1.7 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 1.76 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 1.78 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 1.79 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 1.9 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 1.98 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 10.5 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 10.9 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 1009 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 11.980 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 12 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 12.7 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 12.8 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 12920 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 13 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 13.7 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 14 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 14.9 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 15 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 16 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 18 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 18.8 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 18.9 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 180 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 19 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 19.9 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 2.0 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 2.37 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 2.55 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 2.56 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 2.63 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 2.86 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 20 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 21 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 22.2 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 23 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 23.5 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 2395 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 24 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 24.6 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 25 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 2501 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 27.1 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 283296 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 29.2 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 3.1 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 3.5 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 3.92 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 30 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 31.3 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 34.5 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 35 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 36.3 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 37 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 38 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 4.22 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 4.4 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 4.5 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 45.6 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 5.3 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 5.6 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 5.9 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 50 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 52 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 57 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 6.3 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 6.5 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 60 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 63 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 68 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 7.5 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 70 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 71 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 72 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 73 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 8.0 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 88 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 9.4 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 9.8 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 90 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 92 i svaret finnes i estimat- eller statistikktabellen
+- OK   6 utelatt W2742190594 «Systematic review: Factors associated with return to work in burnout» (2017) – Oversikt over prediktorer for retur ved utbrenthet, ikke effekt av gradert sykmelding
+- OK   6 utelatt W4412408142 «Predictors of sustained return to work after sick leave due to mental » (2025) – Oversikt over prediktorer ved psykiske lidelser, ikke effekt av gradert sykmelding
+- OK   6 utelatt W2800843993 «549 Preventing work disability in workers with depression; a systemati» (2018) – Konferansesammendrag om depresjon og arbeidsuførhet, ikke gradert sykmelding
+- OK   6 utelatt W2519172075 «OP63 Very early workplace sickness absence interventions: A systematic» (2016) – Konferansesammendrag om tidlige arbeidsplasstiltak, ikke gradert sykmelding
+- OK   6 utelatt W2114371026 «Cognitive impairment in young adults with infratentorial infarcts» (1998) – Medisinsk studie (hjerneinfarkt), utenfor spørsmålet
+- OK   6 utelatt W2015321066 «Positive and negative consequences of sick leave for the individual, w» (2008) – Om konsekvenser av sykefravær for individet; ikke tilgjengelig som tekst og uten effektestimat i sammendraget
+- OK   6 utelatt W2098591755 «Multiple transitions in sick leave, disability benefits, and return to» (2012) – Rehabiliteringsstudie, ikke gradert vs. full sykmelding
+- OK   6 utelatt W2278472557 «Return to Work in Patients with Chronic Musculoskeletal Pain: Multidis» (2016) – RCT om tverrfaglig rehabilitering, ikke gradert sykmelding
+- OK   6 utelatt W2721507455 «Return to work after work-related stress: a randomized controlled tria» (2017) – RCT om kognitiv terapi ved stress, ikke gradert sykmelding
+- OK   6 utelatt W2117736173 «Working ability in relation to disease severity, everyday occupations » (2008) – Medisinsk studie (systemisk sklerose), utenfor spørsmålet
+- OK   6 utelatt W2020532765 «Quality of life and maintenance of improvements after early multimodal» (2006) – Rehabiliteringsstudie, ikke gradert sykmelding
+- OK   6 utelatt W2030370956 «Long-term stability of return to work after a workplace-oriented inter» (2014) – Arbeidsplassrettet tiltak ved utbrenthet, ikke gradert sykmelding
+- OK   6 utelatt W2043958462 «Prognostic Factors for Return to Work, Sickness Benefits, and Transiti» (2013) – Prognosestudie etter rehabilitering, ikke effekt av gradert sykmelding
+- OK   6 utelatt W2331708960 «Nausea in pregnancy: attitudes among pregnant women and general practi» (2016) – Svangerskapskvalme, utenfor spørsmålet
+- OK   6 utelatt W2921349491 «Return to work after interdisciplinary pain rehabilitation: One- and t» (2019) – Smerterehabilitering, ikke gradert sykmelding
+- OK   6 utelatt W2415371112 «A Call for Action» (2002) – Ledsagende artikkel til Scheel mfl. 2002; effekten er hentet fra W2073048698
+- OK   6 utelatt W2885735031 «Biopsychosocial predictors and trajectories of work participation afte» (2018) – Prediktorer etter rehabilitering, ikke effekt av gradert sykmelding
+- OK   6 utelatt W2749536032 «Return to Work in Employees on Sick Leave due to Neck or Shoulder Pain» (2017) – RCT om tverrfaglig intervensjon, ikke gradert sykmelding
+- OK   6 utelatt W2010792730 «Effectiveness of early part-time sick leave in musculoskeletal disorde» (2008) – Protokoll for den finske RCT-en; resultatene er hentet fra W2048984013
+- OK   6 utelatt W2146041585 «Changes in Multidimensional Pain Inventory profile after a pain rehabi» (2014) – Smerteprofil etter rehabilitering, ikke gradert sykmelding
+- OK   6 utelatt W4411969718 «Facilitators and barriers for return to work among patients with post-» (2025) – Kvalitativ studie om post-covid, ikke gradert sykmelding
+- OK   6 utelatt W4249958880 «Reconsidering Norwegian sickness absence policies» (2013) – Om norsk sykefraværspolitikk; ikke tilgjengelig som tekst og uten sammendrag
+- OK   6 utelatt W2150132741 «Causal inference in multi-state models–sickness absence and work for 1» (2015) – Handler om rehabilitering, behandling eller andre tiltak, ikke gradert sykmelding (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W3111825913 «Graded Work, the Activation of Sick-Listed Workers and Employer Partic» (2020) – Beskriver ordninger eller politikk uten effektmål for gradert sykmelding (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W1968918267 «Workplace-Based Return-to-Work Interventions: A Systematic Review of t» (2005) – Oversikt over arbeidsplassbaserte tiltak eller tilbakeføring generelt, gradert sykmelding ikke skilt ut som eget tiltak (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W2590965493 «Effectiveness of Workplace Interventions in Return-to-Work for Musculo» (2017) – Oversikt over arbeidsplassbaserte tiltak eller tilbakeføring generelt, gradert sykmelding ikke skilt ut som eget tiltak (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W2137150643 «Prevention of Work Disability Due to Musculoskeletal Disorders: The Ch» (2005) – Handler om rehabilitering, behandling eller andre tiltak, ikke gradert sykmelding (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W2132302069 «Workplace interventions for preventing work disability» (2009) – Oversikt over arbeidsplassbaserte tiltak eller tilbakeføring generelt, gradert sykmelding ikke skilt ut som eget tiltak (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W1888192366 «Economic impact of musculoskeletal disorders (MSDs) on work in Europe» (2015) – Om sykefravær, ytelser eller helse generelt, ikke effekt av gradert sykmelding (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W100385102 «Modified Work and Return to Work: A Review of the Literature» (1998) – Oversikt over arbeidsplassbaserte tiltak eller tilbakeføring generelt, gradert sykmelding ikke skilt ut som eget tiltak (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W1926837556 «Workplace interventions to prevent work disability in workers on sick » (2015) – Oversikt over arbeidsplassbaserte tiltak eller tilbakeføring generelt, gradert sykmelding ikke skilt ut som eget tiltak (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W2160618221 «Estimating treatment effects for discrete outcomes when responses to t» (2004) – Handler om rehabilitering, behandling eller andre tiltak, ikke gradert sykmelding (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W2022718680 «Reducing stigma and discrimination: candidate interventions» (2008) – Om sykefravær, ytelser eller helse generelt, ikke effekt av gradert sykmelding (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W2027974486 «Sickness absence as a risk marker of future disability pension: the 10» (2004) – Om sykefravær, ytelser eller helse generelt, ikke effekt av gradert sykmelding (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W2099295837 «Effectiveness of community- and workplace-based interventions to manag» (2011) – Oversikt over arbeidsplassbaserte tiltak eller tilbakeføring generelt, gradert sykmelding ikke skilt ut som eget tiltak (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W1863030634 «Interventions to improve occupational health in depressed people» (2008) – Handler om rehabilitering, behandling eller andre tiltak, ikke gradert sykmelding (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W2126339863 «Sick-listing habits among general practitioners in a Swedish county» (2000) – Om sykmeldingspraksis, saksbehandling eller erfaringer, uten effektmål (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W2167233277 «Work and mental health: Learning from return-to-work rehabilitation pr» (2007) – Handler om rehabilitering, behandling eller andre tiltak, ikke gradert sykmelding (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W2000128103 «THE EFFECT OF WORK STATUS AND WORKING CONDITIONS ON MENTAL HEALTH IN F» (2009) – Om sykefravær, ytelser eller helse generelt, ikke effekt av gradert sykmelding (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W2026102636 «Sick leave diagnoses and return to work: a Swedish register study» (2014) – Om sykefravær, ytelser eller helse generelt, ikke effekt av gradert sykmelding (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W1978707847 «Dilemmas in the daily work of social insurance officers» (1997) – Om sykmeldingspraksis, saksbehandling eller erfaringer, uten effektmål (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W4213325383 «Nordic Economic Policy Review» (2011) – Beskriver ordninger eller politikk uten effektmål for gradert sykmelding (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W2139274711 «Practice variation in Swedish primary care» (1997) – Om sykmeldingspraksis, saksbehandling eller erfaringer, uten effektmål (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W2057641855 «Topics and trends in research on non-clinical interventions aimed at p» (2014) – Oversikt over arbeidsplassbaserte tiltak eller tilbakeføring generelt, gradert sykmelding ikke skilt ut som eget tiltak (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W2125279885 «Active social insurance» (2012) – Beskriver ordninger eller politikk uten effektmål for gradert sykmelding (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W2262909050 «Protecting working-age people with disabilities: experiences of four i» (2016) – Om sykefravær, ytelser eller helse generelt, ikke effekt av gradert sykmelding (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W1987552012 «Swedish social insurance officers' experiences of difficulties in asse» (2007) – Om sykmeldingspraksis, saksbehandling eller erfaringer, uten effektmål (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W2940004036 «The effectiveness of vocational rehabilitation on work participation: » (2019) – Handler om rehabilitering, behandling eller andre tiltak, ikke gradert sykmelding (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W4313462067 «Non-pharmacological interventions to promote work participation in peo» (2023) – Oversikt over arbeidsplassbaserte tiltak eller tilbakeføring generelt, gradert sykmelding ikke skilt ut som eget tiltak (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W2337712842 «Nordic Economic Policy Review» (2016) – Beskriver ordninger eller politikk uten effektmål for gradert sykmelding (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W2030430403 «The Oswestry Disability Index» (2000) – Metodelitteratur eller måleinstrument, ikke om gradert sykmelding (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W2121690051 «Propensity score methods for bias reduction in the comparison of a tre» (1998) – Metodelitteratur eller måleinstrument, ikke om gradert sykmelding (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W2791379829 «Prevention and treatment of low back pain: evidence, challenges, and p» (2018) – Handler om rehabilitering, behandling eller andre tiltak, ikke gradert sykmelding (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W3023254902 «Dummy Endogenous Variables in a Simultaneous Equation System» (1977) – Metodelitteratur eller måleinstrument, ikke om gradert sykmelding (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W2009060438 «Dummy Endogenous Variables in a Simultaneous Equation System» (1978) – Metodelitteratur eller måleinstrument, ikke om gradert sykmelding (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W2022235629 «Chapter 3 European guidelines for the management of acute nonspecific » (2006) – Handler om rehabilitering, behandling eller andre tiltak, ikke gradert sykmelding (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W201093770 «Is Work Good for Your Health and Well-being?» (2006) – Om sykefravær, ytelser eller helse generelt, ikke effekt av gradert sykmelding (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W2069757101 «The Nonparametric Identification of Treatment Effects in Duration Mode» (2003) – Metodelitteratur eller måleinstrument, ikke om gradert sykmelding (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W2000040333 «A Population-Based, Randomized Clinical Trial on Back Pain Management» (1997) – Handler om rehabilitering, behandling eller andre tiltak, ikke gradert sykmelding (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W2104937613 «Systematic review of the qualitative literature on return to work afte» (2006) – Om sykefravær, ytelser eller helse generelt, ikke effekt av gradert sykmelding (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W2082368581 «Missing data in a multi-item instrument were best handled by multiple » (2013) – Metodelitteratur eller måleinstrument, ikke om gradert sykmelding (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W2409979637 «The consequences of sickness presenteeism on health and wellbeing over» (2016) – Om sykefravær, ytelser eller helse generelt, ikke effekt av gradert sykmelding (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W2148561381 «Preventing disability from work-related low-back pain. New evidence gi» (1998) – Handler om rehabilitering, behandling eller andre tiltak, ikke gradert sykmelding (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W2108069441 «Tips for learners of evidence-based medicine: 1. Relative risk reducti» (2004) – Metodelitteratur eller måleinstrument, ikke om gradert sykmelding (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W2028743012 «A Literature Review Describing the Role of Return-to-Work Coordinators» (2007) – Oversikt over arbeidsplassbaserte tiltak eller tilbakeføring generelt, gradert sykmelding ikke skilt ut som eget tiltak (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W4210308679 «Transforming Disability into Ability» (2003) – Beskriver ordninger eller politikk uten effektmål for gradert sykmelding (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W2892361030 «The Impact of Parental and Medical Leave Policies on Socioeconomic and» (2018) – Om sykefravær, ytelser eller helse generelt, ikke effekt av gradert sykmelding (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W2022181758 «EUR-ASSESS Project Subgroup Report on Dissemination and Impact» (1997) – Metodelitteratur eller måleinstrument, ikke om gradert sykmelding (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W2123032218 «Chapter 7. Sickness absence and psychiatric disorders» (2004) – Om sykefravær, ytelser eller helse generelt, ikke effekt av gradert sykmelding (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W1973603732 «Frequency and nature of problems associated with sickness certificatio» (2007) – Om sykmeldingspraksis, saksbehandling eller erfaringer, uten effektmål (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W1983369993 «Effects of passive‐active movement training on upper limb motor functi» (2004) – Metodelitteratur eller måleinstrument, ikke om gradert sykmelding (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W1971461819 «Propensity Score Methods for Creating Covariate Balance in Observation» (2011) – Metodelitteratur eller måleinstrument, ikke om gradert sykmelding (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W2122386734 «Illness perceptions and work participation: a systematic review» (2010) – Om sykefravær, ytelser eller helse generelt, ikke effekt av gradert sykmelding (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W2081703146 «Métodos de puntuación de propensión para crear una distribución equili» (2011) – Metodelitteratur eller måleinstrument, ikke om gradert sykmelding (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W2014873229 «Does sickness absence increase the risk of unemployment?» (2006) – Om sykefravær, ytelser eller helse generelt, ikke effekt av gradert sykmelding (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W1877102903 «Mental disorders as a major challenge in prevention of work disability» (2005) – Om sykefravær, ytelser eller helse generelt, ikke effekt av gradert sykmelding (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W2094271341 «Sickness certificates as a basis for decisions regarding entitlement t» (2005) – Om sykmeldingspraksis, saksbehandling eller erfaringer, uten effektmål (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W2144751855 «Factors associated with self-assessed work ability» (2007) – Om sykefravær, ytelser eller helse generelt, ikke effekt av gradert sykmelding (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W2398829580 «Primary care psychiatry is not specialist psychiatry in general practi» (1999) – Om sykefravær, ytelser eller helse generelt, ikke effekt av gradert sykmelding (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W2154777576 «The effects of timing on the cost-effectiveness of interventions for w» (2010) – Oversikt over arbeidsplassbaserte tiltak eller tilbakeføring generelt, gradert sykmelding ikke skilt ut som eget tiltak (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W1985379891 «A Meta-Analysis of Labor Supply Effects of Interventions for Major Dep» (2006) – Oversikt over arbeidsplassbaserte tiltak eller tilbakeføring generelt, gradert sykmelding ikke skilt ut som eget tiltak (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W2796106052 «Cause-specific sickness absence trends by occupational class and indus» (2018) – Om sykefravær, ytelser eller helse generelt, ikke effekt av gradert sykmelding (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W2131740417 «Depression in Working Adults: Comparing the Costs and Health Outcomes » (2014) – Om sykefravær, ytelser eller helse generelt, ikke effekt av gradert sykmelding (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W2155001712 «Standardized Physical Examination Protocol for Low Back Disorders: Fea» (1998) – Metodelitteratur eller måleinstrument, ikke om gradert sykmelding (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W3194333665 «The role of workplace accommodations in explaining the disability empl» (2021) – Om sykefravær, ytelser eller helse generelt, ikke effekt av gradert sykmelding (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W2070975802 «Does enhanced information exchange between social insurance physicians» (2006) – Handler om rehabilitering, behandling eller andre tiltak, ikke gradert sykmelding (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W2917348443 «Do individual and work-related factors differentiate work participatio» (2019) – Handler om rehabilitering, behandling eller andre tiltak, ikke gradert sykmelding (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W4225750629 «Participatory Ergonomics Intervention to Prevent Work Disability Among» (2022) – Handler om rehabilitering, behandling eller andre tiltak, ikke gradert sykmelding (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W2088570107 «Part-time Work or Social Benefits as Predictors for Disability Pension» (2013) – Om sykefravær, ytelser eller helse generelt, ikke effekt av gradert sykmelding (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W2145939494 «The unbearable lightness of healthcare policy making: a description of» (2003) – Metodelitteratur eller måleinstrument, ikke om gradert sykmelding (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W2799729481 «Furthering the Evidence of the Effectiveness of Employment Strategies » (2018) – Oversikt over arbeidsplassbaserte tiltak eller tilbakeføring generelt, gradert sykmelding ikke skilt ut som eget tiltak (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W2337982970 «Disability, long-term conditions and poverty» (2014) – Om sykefravær, ytelser eller helse generelt, ikke effekt av gradert sykmelding (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W4406926222 «Work Disability Prevention and Management» (2025) – Oversikt over arbeidsplassbaserte tiltak eller tilbakeføring generelt, gradert sykmelding ikke skilt ut som eget tiltak (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W4399157484 «Low back pain prevention behaviors and beliefs among the Polish popula» (2024) – Om sykefravær, ytelser eller helse generelt, ikke effekt av gradert sykmelding (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W7128727924 «Barriers for return to work as an iatrogenic effect of sickness absenc» (2026) – Om sykmeldingspraksis, saksbehandling eller erfaringer, uten effektmål (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W2153131018 «Influence of self-reported work conditions and health on full, partial» (2008) – Om sykefravær, ytelser eller helse generelt, ikke effekt av gradert sykmelding (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W2151416414 «The anatomy of absenteeism» (2010) – Om sykefravær, ytelser eller helse generelt, ikke effekt av gradert sykmelding (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W2020240434 «The individual cost of sick leave» (2011) – Om sykefravær, ytelser eller helse generelt, ikke effekt av gradert sykmelding (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W2077733934 «Intervention Characteristics that Facilitate Return to Work After Sick» (2012) – Oversikt over arbeidsplassbaserte tiltak eller tilbakeføring generelt, gradert sykmelding ikke skilt ut som eget tiltak (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W2027242222 «Effect of the Danish return-to-work program on long-term sickness abse» (2013) – Handler om rehabilitering, behandling eller andre tiltak, ikke gradert sykmelding (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W2108834418 «Worker adaptation and workplace accommodations after the onset of an i» (2014) – Om sykefravær, ytelser eller helse generelt, ikke effekt av gradert sykmelding (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W1527178697 «Return to Work After Long Term Sickness» (2011) – Om sykefravær, ytelser eller helse generelt, ikke effekt av gradert sykmelding (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W3121349088 «Does Disability Insurance Receipt Discourage Work? Using Examiner Assi» (2013) – Om sykefravær, ytelser eller helse generelt, ikke effekt av gradert sykmelding (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W4301400721 «Disability, Work and Inclusion» (2022) – Om sykefravær, ytelser eller helse generelt, ikke effekt av gradert sykmelding (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W1988038060 «Multidisciplinary Rehabilitation for Subacute Low Back Pain: Graded Ac» (2007) – Handler om rehabilitering, behandling eller andre tiltak, ikke gradert sykmelding (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W1996884394 «Can Cross Country Differences in Return-to-Work After Chronic Occupati» (2009) – Om sykefravær, ytelser eller helse generelt, ikke effekt av gradert sykmelding (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W4248203204 «Sickness, Disability and Work: Breaking the Barriers» (2010) – Beskriver ordninger eller politikk uten effektmål for gradert sykmelding (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W2002447441 «Workplace involvement improves return to work rates among employees wi» (2009) – Oversikt over arbeidsplassbaserte tiltak eller tilbakeføring generelt, gradert sykmelding ikke skilt ut som eget tiltak (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W2049901974 «Moral hazard and sickness insurance» (2005) – Om sykefravær, ytelser eller helse generelt, ikke effekt av gradert sykmelding (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W2082208883 «Does Early Intervention With a Light Mobilization Program Reduce Long-» (2003) – Handler om rehabilitering, behandling eller andre tiltak, ikke gradert sykmelding (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W1572213487 «Do new prescription drugs pay for themselves?» (2004) – Om sykefravær, ytelser eller helse generelt, ikke effekt av gradert sykmelding (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W3161172564 «The Role of the Employer in Supporting Work Participation of Workers w» (2021) – Oversikt over arbeidsplassbaserte tiltak eller tilbakeføring generelt, gradert sykmelding ikke skilt ut som eget tiltak (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W2124456619 «A microeconometric evaluation of rehabilitation of long‐term sickness » (2004) – Handler om rehabilitering, behandling eller andre tiltak, ikke gradert sykmelding (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W2018913482 «Work-Related Outcomes in Occupational Low Back Pain» (2002) – Oversikt over arbeidsplassbaserte tiltak eller tilbakeføring generelt, gradert sykmelding ikke skilt ut som eget tiltak (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W2011029159 «Early-Return-to-Work in the Context of an Intensification of Working L» (2014) – Om sykmeldingspraksis, saksbehandling eller erfaringer, uten effektmål (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W2251574710 «The impacts of vocational rehabilitation» (2014) – Handler om rehabilitering, behandling eller andre tiltak, ikke gradert sykmelding (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W2328509693 «Factors associated with the length of fit note-certified sickness epis» (2015) – Om sykmeldingspraksis, saksbehandling eller erfaringer, uten effektmål (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W1971252659 «Fit for purpose? Using the fit note with patients with chronic pain: a» (2011) – Om sykmeldingspraksis, saksbehandling eller erfaringer, uten effektmål (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W4415122073 «Karenztage und Absenkung der Lohnersatzrate – eine ökonomische Einordn» (2025) – Om sykefravær, ytelser eller helse generelt, ikke effekt av gradert sykmelding (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W2945792041 «Yaşlı Kadınlarda Üreme Sağlığı» (2019) – Om sykefravær, ytelser eller helse generelt, ikke effekt av gradert sykmelding (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W2037377025 «The MOS 36-item short-form health survey (SF-36). I. Conceptual framew» (1992) – Metodelitteratur eller måleinstrument, ikke om gradert sykmelding (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W4292806894 «The MOS 36-ltem Short-Form Health Survey (SF-36)» (1992) – Metodelitteratur eller måleinstrument, ikke om gradert sykmelding (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W2139122730 «Sample Selection Bias as a Specification Error» (1979) – Metodelitteratur eller måleinstrument, ikke om gradert sykmelding (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W2182271449 «Cochrane Database of Systematic Reviews» (2003) – Metodelitteratur eller måleinstrument, ikke om gradert sykmelding (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W2004877180 «A Method for Minimizing the Impact of Distributional Assumptions in Ec» (1984) – Metodelitteratur eller måleinstrument, ikke om gradert sykmelding (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W2259745398 «Propensity Score Analysis: Statistical Methods and Applications» (2009) – Metodelitteratur eller måleinstrument, ikke om gradert sykmelding (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W2110904269 «Using natural experiments to evaluate population health interventions:» (2012) – Metodelitteratur eller måleinstrument, ikke om gradert sykmelding (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W2067804071 «A cost-of-illness study of back pain in The Netherlands» (1995) – Om sykefravær, ytelser eller helse generelt, ikke effekt av gradert sykmelding (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W1782749242 «Multidisciplinary biopsychosocial rehabilitation for chronic low back » (2014) – Oversikt over arbeidsplassbaserte tiltak eller tilbakeføring generelt, gradert sykmelding ikke skilt ut som eget tiltak (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W4252885144 «Sickness, Disability and Work: Breaking the Barriers» (2010) – Beskriver ordninger eller politikk uten effektmål for gradert sykmelding (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W2117380222 «Is Work Good for Your Health and Well-Being?» (2007) – Om sykefravær, ytelser eller helse generelt, ikke effekt av gradert sykmelding (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W2790757288 «Presenteeism: A review and research directions» (2018) – Om sykefravær, ytelser eller helse generelt, ikke effekt av gradert sykmelding (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W1979202959 «Principles for modeling propensity scores in medical research: a syste» (2004) – Metodelitteratur eller måleinstrument, ikke om gradert sykmelding (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W1990823404 «The Effect of Disability Insurance Receipt on Labor Supply» (2011) – Om sykefravær, ytelser eller helse generelt, ikke effekt av gradert sykmelding (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W2028702370 «Randomised controlled trial of integrated care to reduce disability fr» (2010) – Handler om rehabilitering, behandling eller andre tiltak, ikke gradert sykmelding (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W2139234433 «Return to work: A comparison of two cognitive behavioural intervention» (2006) – Handler om rehabilitering, behandling eller andre tiltak, ikke gradert sykmelding (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W2007660650 «Productivity losses without absence: measurement validation and empiri» (1999) – Om sykefravær, ytelser eller helse generelt, ikke effekt av gradert sykmelding (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W2027861855 «Acute Treatment of Whiplash Neck Sprain Injuries» (1998) – Handler om rehabilitering, behandling eller andre tiltak, ikke gradert sykmelding (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W2097705787 «Work-focused treatment of common mental disorders and return to work: » (2012) – Handler om rehabilitering, behandling eller andre tiltak, ikke gradert sykmelding (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W2091007264 «Adjuvant occupational therapy for work-related major depression works:» (2006) – Handler om rehabilitering, behandling eller andre tiltak, ikke gradert sykmelding (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W2060760064 «Managing Work Disability: Why First Return to Work is Not a Measure of» (1995) – Om sykefravær, ytelser eller helse generelt, ikke effekt av gradert sykmelding (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W1987976138 «Early Workplace Intervention for Employees With Musculoskeletal-Relate» (2003) – Handler om rehabilitering, behandling eller andre tiltak, ikke gradert sykmelding (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W1976680554 «Multidisciplinary interventions: Review of studies of return to work a» (2009) – Oversikt over arbeidsplassbaserte tiltak eller tilbakeføring generelt, gradert sykmelding ikke skilt ut som eget tiltak (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W2029507213 «Using administrative sickness absence data as a marker of future disab» (2007) – Om sykefravær, ytelser eller helse generelt, ikke effekt av gradert sykmelding (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W1535387382 «Time and causality: A Monte Carlo assessment of the timing-of-events a» (2007) – Metodelitteratur eller måleinstrument, ikke om gradert sykmelding (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W2030785268 «Sickness absence as a risk factor for job termination, unemployment, a» (2006) – Om sykefravær, ytelser eller helse generelt, ikke effekt av gradert sykmelding (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W3125708417 «Unemployment, labor force composition and sickness absence: a panel da» (2005) – Om sykefravær, ytelser eller helse generelt, ikke effekt av gradert sykmelding (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W2987856070 «Stakeholders’ Role and Actions in the Return-to-Work Process of Worker» (2019) – Oversikt over arbeidsplassbaserte tiltak eller tilbakeføring generelt, gradert sykmelding ikke skilt ut som eget tiltak (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W1811854016 «Evaluation of occupational health interventions using a randomized con» (2015) – Handler om rehabilitering, behandling eller andre tiltak, ikke gradert sykmelding (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W2020518948 «Workplace-Based Work Disability Prevention Interventions for Workers w» (2011) – Oversikt over arbeidsplassbaserte tiltak eller tilbakeføring generelt, gradert sykmelding ikke skilt ut som eget tiltak (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W2054029813 «Economic Evaluation of a Multi-Stage Return to Work Program for Worker» (2006) – Handler om rehabilitering, behandling eller andre tiltak, ikke gradert sykmelding (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W2097265629 «The effectiveness of ergonomic interventions on return-to-work after l» (2004) – Handler om rehabilitering, behandling eller andre tiltak, ikke gradert sykmelding (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W3121313943 «Long-Term Absenteeism and Moral Hazard - Evidence from a Natural Exper» (2009) – Om sykefravær, ytelser eller helse generelt, ikke effekt av gradert sykmelding (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W49111933 «Therapeutic Return to Work: Rehabilitation in the workplace» (2001) – Handler om rehabilitering, behandling eller andre tiltak, ikke gradert sykmelding (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W2110877213 «Return to work and adjustment latitude among employees on long-term si» (2006) – Om sykmeldingspraksis, saksbehandling eller erfaringer, uten effektmål (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W1973678463 «A Facilitated Early Return to Work Program at a Large Urban Medical Ce» (2000) – Handler om rehabilitering, behandling eller andre tiltak, ikke gradert sykmelding (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W2150738744 «NICE guidance on long-term sickness and incapacity» (2011) – Om sykefravær, ytelser eller helse generelt, ikke effekt av gradert sykmelding (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W2086612394 «The Effects of a Graded Activity Intervention for Low Back Pain in Occ» (2005) – Handler om rehabilitering, behandling eller andre tiltak, ikke gradert sykmelding (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W2043115647 «The social interaction of return to work explored from co-workers expe» (2011) – Om sykmeldingspraksis, saksbehandling eller erfaringer, uten effektmål (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W2028968248 «Difficulties with the sickness certification process in general practi» (2012) – Om sykmeldingspraksis, saksbehandling eller erfaringer, uten effektmål (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W2056873278 «Management of Long Term Sickness Absence: A Systematic Realist Review» (2012) – Oversikt over arbeidsplassbaserte tiltak eller tilbakeføring generelt, gradert sykmelding ikke skilt ut som eget tiltak (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W2127673741 «Early Occupational Health Management of Patients with Back Pain» (2002) – Handler om rehabilitering, behandling eller andre tiltak, ikke gradert sykmelding (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W2061732863 «Do stepping-stone jobs exist? Early career paths in the medical profes» (2002) – Om sykefravær, ytelser eller helse generelt, ikke effekt av gradert sykmelding (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W3123410700 «The Sick Pay Trap» (2014) – Om sykefravær, ytelser eller helse generelt, ikke effekt av gradert sykmelding (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W1538700548 «Work status and health-related quality of life following multimodal wo» (2011) – Handler om rehabilitering, behandling eller andre tiltak, ikke gradert sykmelding (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W2124282656 «Return to work or job transition? Employer dilemmas in taking social r» (2014) – Om sykmeldingspraksis, saksbehandling eller erfaringer, uten effektmål (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W2323541750 «Effects of intensified work-related multidisciplinary rehabilitation o» (2013) – Handler om rehabilitering, behandling eller andre tiltak, ikke gradert sykmelding (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W2093265035 «The effect of workplace intervention on pain and sickness absence caus» (2011) – Handler om rehabilitering, behandling eller andre tiltak, ikke gradert sykmelding (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W3123662951 «Working While Ill Is Not Always Bad—Positive Effects of Presenteeism» (2021) – Om sykefravær, ytelser eller helse generelt, ikke effekt av gradert sykmelding (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W3022994155 «Physical conditioning programs for improving work outcomes among worke» (2010) – Oversikt over arbeidsplassbaserte tiltak eller tilbakeføring generelt, gradert sykmelding ikke skilt ut som eget tiltak (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W3189260074 «Clinical Guidance to Optimize Work Participation After Injury or Illne» (2021) – Handler om rehabilitering, behandling eller andre tiltak, ikke gradert sykmelding (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W1974566083 «Effectiveness of multidisciplinary primary prevention in decreasing th» (2011) – Handler om rehabilitering, behandling eller andre tiltak, ikke gradert sykmelding (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W2580895602 «Employment effects of active labor market programs for sick-listed wor» (2017) – Handler om rehabilitering, behandling eller andre tiltak, ikke gradert sykmelding (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W2559846193 «Privatizing sick pay: Does it work?» (2016) – Om sykefravær, ytelser eller helse generelt, ikke effekt av gradert sykmelding (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W2313100069 «The activation logic in national sickness absence policies: Comparing » (2014) – Beskriver ordninger eller politikk uten effektmål for gradert sykmelding (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W2795433472 «Measuring work functioning in individuals with musculoskeletal disorde» (2018) – Metodelitteratur eller måleinstrument, ikke om gradert sykmelding (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W4312210572 «Disability and return to work after a multidisciplinary intervention f» (2022) – Oversikt over arbeidsplassbaserte tiltak eller tilbakeføring generelt, gradert sykmelding ikke skilt ut som eget tiltak (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W4313816298 «Sustainable Return to Work for Workers with Mental Health and Musculos» (2023) – Handler om rehabilitering, behandling eller andre tiltak, ikke gradert sykmelding (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W4407461959 «Medizinisch-beruflich orientierte Rehabilitation» (2025) – Oversikt over arbeidsplassbaserte tiltak eller tilbakeføring generelt, gradert sykmelding ikke skilt ut som eget tiltak (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt W2805269886 «Worker Absenteeism and Employment Outcomes: A Literature Review» (2017) – Oversikt over arbeidsplassbaserte tiltak eller tilbakeføring generelt, gradert sykmelding ikke skilt ut som eget tiltak (vurdert etter tittel og sammendrag fra referansesøket 7.11)
+- OK   6 utelatt AV-2015-3-05 «Nav-legestudien i Bergen: Systematisk veiledning av fastleger redusert» (2015) – Fastlegeveiledning, ikke gradert sykmelding (vurdert etter tittel og ingress, norsk søk 7.11)
+- OK   6 utelatt KU-d2e7857c-2757-4736-b1d4-8750274e966e «Arbeidsrettede tiltak ved helseplager og sykefravær» (2010) – samme rapport som W3010213937 (Ellingsen mfl. 2010), som er valgt og har tekst
+- OK   6 utelatt FI-trepo.10024_146372 «Takaisin töihin – työssä jatkaminen ja työhön paluun tukeminen : Kirja» (2023) – litteraturoversikt om arbeidets betydning i rehabilitering ved psykiske lidelser (2023), handler ikke om gradert sykmelding mot full sykmelding
+- OK   9 kort-svar-blind.md finnes
+- OK   9 innholdskontroll har raden «kort svar»
+- OK   9 blind lesing 0198cc8d6f08-8af27b58-5e7a-47d1-8504-4bc4b0361a42 i budskap.tsv
+- OK   9 blind lesing 019904aa7986-0e4c2361-eb33-4871-9ab3-47b965597085 i budskap.tsv
+- OK   9 blind lesing AV-2007-3-05 i budskap.tsv
+- OK   9 blind lesing AV-2012-2-03 i budskap.tsv
+- OK   9 blind lesing AV-2013-3-06 i budskap.tsv
+- OK   9 blind lesing AV-2016-3-05 i budskap.tsv
+- OK   9 blind lesing AV-2018-2-06 i budskap.tsv
+- OK   9 blind lesing FI-fikka.5922382 i budskap.tsv
+- OK   9 blind lesing FI-jykdok.2341206 i budskap.tsv
+- OK   9 blind lesing KU-34183300-cbad-41d5-8e50-9684f7850798 i budskap.tsv
+- OK   9 blind lesing KU-7799f411-4c20-4a1a-aa6f-5aa52fbc9eab i budskap.tsv
+- OK   9 blind lesing KU-a0d29b59-a943-4e06-bb77-35d70df04c85 i budskap.tsv
+- OK   9 blind lesing KU-b027fe4b-4bf4-433e-b689-b7d06086b095 i budskap.tsv
+- OK   9 blind lesing W1501193741 i budskap.tsv
+- OK   9 blind lesing W1511717146 i budskap.tsv
+- OK   9 blind lesing W1527098577 i budskap.tsv
+- OK   9 blind lesing W1579837130 i budskap.tsv
+- OK   9 blind lesing W1592746682 i budskap.tsv
+- OK   9 blind lesing W2005271733 i budskap.tsv
+- OK   9 blind lesing W2013503454 i budskap.tsv
+- OK   9 blind lesing W2025121479 i budskap.tsv
+- OK   9 blind lesing W2048984013 i budskap.tsv
+- OK   9 blind lesing W2073048698 i budskap.tsv
+- OK   9 blind lesing W2079898261 i budskap.tsv
+- OK   9 blind lesing W2116716741 i budskap.tsv
+- OK   9 blind lesing W2132658439 i budskap.tsv
+- OK   9 blind lesing W2159632075 i budskap.tsv
+- OK   9 blind lesing W2325466037 i budskap.tsv
+- OK   9 blind lesing W2341011605 i budskap.tsv
+- OK   9 blind lesing W2412604146 i budskap.tsv
+- OK   9 blind lesing W2473929489 i budskap.tsv
+- OK   9 blind lesing W2605726377 i budskap.tsv
+- OK   9 blind lesing W2744665053 i budskap.tsv
+- OK   9 blind lesing W2746656768 i budskap.tsv
+- OK   9 blind lesing W2794297004 i budskap.tsv
+- OK   9 blind lesing W2794825180 i budskap.tsv
+- OK   9 blind lesing W2796572035 i budskap.tsv
+- OK   9 blind lesing W2799283105 i budskap.tsv
+- OK   9 blind lesing W2805335844 i budskap.tsv
+- OK   9 blind lesing W2810202913 i budskap.tsv
+- OK   9 blind lesing W2896121459 i budskap.tsv
+- OK   9 blind lesing W2911999154 i budskap.tsv
+- OK   9 blind lesing W2982381358 i budskap.tsv
+- OK   9 blind lesing W2986214152 i budskap.tsv
+- OK   9 blind lesing W3010213937 i budskap.tsv
+- OK   9 blind lesing W3023766513 i budskap.tsv
+- OK   9 blind lesing W3121578847 i budskap.tsv
+- OK   9 blind lesing W3122932312 i budskap.tsv
+- OK   9 blind lesing W3138116577 i budskap.tsv
+- OK   9 blind lesing W3170959179 i budskap.tsv
+- OK   9 blind lesing W3198402854 i budskap.tsv
+- OK   9 blind lesing W4239637744 i budskap.tsv
+- OK   9 blind lesing W4293168340 i budskap.tsv
+- OK   9 blind lesing W4392582001 i budskap.tsv
+- OK   9 blind lesing W4404867325 i budskap.tsv
+- OK   9 blind lesing W4408975540 i budskap.tsv
+- OK   9 blind lesing W4410013226 i budskap.tsv
+- OK   9 blind lesing W88826225 i budskap.tsv

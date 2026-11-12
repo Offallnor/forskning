@@ -1,0 +1,346 @@
+id	bakover	forover	uttrykk	ar	oversikt	siteringer	persentil	sammendrag	allerede_kandidat	tittel	kilde
+W2109298044	6	0	unemployment insurance	1991	False	292	0.99102376	True	True	Recent Trends in Insured and Uninsured Unemployment: Is There an Explanation?	The Quarterly Journal of Economics
+W2138318155	5	1		1997	False	57	0.99259868	True	True	Work Incentives and Disincentives	Upjohn Research (W.E. Upjohn Institute for Employment Research)
+W2004877180	4	0		1984	False	2733	0.99983984	True	True	A Method for Minimizing the Impact of Distributional Assumptions in Econometric Models for Duration Data	Econometrica
+W2131648886	4	0		1990	False	2109	0.96618357	True	True	The Econometric Analysis of Transition Data	Cambridge University Press eBooks
+W2023936086	4	0	unemployment insurance;job search	1977	False	737	0.9925216	True	True	Unemployment Insurance and Job Search Decisions	Industrial and Labor Relations Review
+W1500520980	4	0	unemployment insurance;reemployment	1987	False	232	0.9840681	True	True	Bonuses to Workers and Employers to Reduce Unemployment: Randomized Trials in Illinois	American Economic Review
+W2138694105	2	2	unemployment insurance;reemployment	1991	False	24		True	True	An Analysis of Pooled Evidence From the Pennsylvania and Washington Reemployment Bonus Demonstrations.	RePEc: Research Papers in Economics
+W2124400200	3	0		1992	False	2992		True	True	Earnings Losses of Displaced Workers	Upjohn Research (W.E. Upjohn Institute for Employment Research)
+W2052888666	3	0	unemployment insurance;reemployment	1997	False	599	0.99490143	True	True	Optimal Unemployment Insurance	Journal of Political Economy
+W2159903536	3	0	unemployment insurance	1978	False	568	0.95257967	False	True	Some aspects of optimal unemployment insurance	Journal of Public Economics
+W3126071897	3	0	unemployment benefit	2004	False	428	0.99961002	True	True	Does the recent success of some OECD countries in lowering their unemployment rates lie in the clever design of their labor market reforms?	Oxford Economic Papers
+W2044490008	3	0	unemployment insurance;unemployment duration	1987	False	338	0.98749227	True	True	Unemployment Insurance and Male Unemployment Duration in Canada	Journal of Labor Economics
+W1504528670	2	1	job search	2016	False	164	0.99335143	True	True	A Contribution to the Empirics of Reservation Wages	American Economic Journal Economic Policy
+W1540868843	3	0	unemployment insurance;job search	1994	False	134	0.98531866	True	True	Experimental Evidence on Unemployment Insurance Work-Search Policies	The Journal of Human Resources
+W1521254603	3	0	reemployment	1999	False	84	0.99384802	True	False	Worker displacement in the mid-1990s	Monthly labor review
+W4246829413	0	3		2018	False	39	0.848	True	True	Data-Driven Policy Impact Evaluation	Springer eBooks
+W2041739638	3	0		1987	False	29	0.86419753	True	False	An Incentives Approach to Improving the Unemployment Compensation System	Upjohn Research (W.E. Upjohn Institute for Employment Research)
+W2894628776	0	3		2018	False	4	0.93146036	True	False	The Use of Administrative Data to Evaluate the Impact of Active Labor Market Policies: The Case of the Italian Liste di Mobilità	Springer eBooks
+W2744426978	0	3	reemployment	2007	False	3	0.85150546	False	False	Worker Profiling and Reemployment Services Evaluation of State Worker Profiling Models: Final Report	
+W1513281941	2	0		1992	False	16765		False	True	American economic review	International Journal of Forecasting
+W2098910318	2	0		1983	False	13339	1.0	True	True	Limited-Dependent and Qualitative Variables in Econometrics	Cambridge University Press eBooks
+W1530306231	2	0		1999	False	3027	1.0	False	True	The Economics and Econometrics of Active Labor Market Programs	Handbook of labour economics
+W2114242548	2	0		2001	False	2657	0.99724069	True	True	Identification and Estimation of Treatment Effects with a Regression-Discontinuity Design	Econometrica
+W2034034530	2	0	job search	1970	False	1245	0.99392993	True	True	Economics of Information and Job Search	The Quarterly Journal of Economics
+W1591629962	2	0		2001	False	1137	0.99835346	False	True	Duration Models: Specification, Identification and Multiple Durations	Handbook of econometrics
+W1973731779	2	0		1980	False	1054	0.99425921	True	True	Does Unemployment Cause Future Unemployment? Definitions, Questions and Answers from a Continuous Time Model of Heterogeneity and State Dependence	Economica
+W2117323684	2	0		2013	False	729	0.99988984	False	True	Duration Dependence and Labor Market Conditions: Evidence from a Field Experiment	The Quarterly Journal of Economics
+W3123839552	2	0		1999	False	721	0.99868816	True	True	New Developments in Models of Search in the Labor Market	London School of Economics and Political Science Research Online (London School of Economics and Political Science)
+W1501991542	2	0	unemployment insurance;replacement rate	1994	False	483		True	True	The Consumption Smoothing Benefits of Unemployment Insurance	National Bureau of Economic Research
+W2090274227	2	0		1982	False	455	0.95557329	True	True	True and Spurious Duration Dependence: The Identifiability of the Proportional Hazard Model	The Review of Economic Studies
+W2061404170	2	0	unemployment insurance	1985	False	437	0.98104867	False	True	Unemployment insurance and the distribution of unemployment spells	Journal of Econometrics
+W2891163017	2	0	unemployment insurance	1998	False	427		True	True	Efficient Unemployment Insurance	National Bureau of Economic Research
+W3125791281	2	0	unemployment insurance	2000	False	406	0.99146218	False	True	Productivity gains from unemployment insurance	European Economic Review
+W4238199542	2	0		1998	False	379	0.98825487	True	False	Job Displacement	The Journal of Economic Perspectives
+W2009816422	1	1	unemployment insurance;benefit exhaustion;reemployment	2003	False	377	0.9955767	True	True	Is the Threat of Reemployment Services More Effective Than the Services Themselves? Evidence from Random Assignment in the UI System	American Economic Review
+W3122927400	2	0	unemployment insurance;unemployment benefit	1999	False	337	0.99284599	True	True	Unemployment vs. Mismatch of Talents: Reconsidering Unemployment Benefits	The Economic Journal
+W2131364445	2	0		1996	False	335	0.99464947	True	True	The Effect of Sample Selection and Initial Conditions in Duration Models: Evidence from Experimental Data on Training	Econometrica
+W2918060890	2	0		1997	False	332	0.99905873	True	True	The Changing Face of Job Loss in the United States, 1981-1995	Brookings Papers on Economic Activity Microeconomics
+W2153189317	2	0		2012	False	284	0.99862791	True	True	Unemployment Dynamics in the OECD	The Review of Economics and Statistics
+W4388134873	2	0		1991	False	267	0.98947368	True	True	Empirical Labor Economics	
+W1570584365	2	0	unemployment insurance;temporary layoff	1978	False	247	0.99538816	True	True	The Effect of Unemployment Insurance on Temporary Layoff Unemployment	American Economic Review
+W1968597934	2	0		2000	False	243	0.98817636	True	True	Roots of the Recent Recoveries: Labor Reforms or Private Sector Forces?	Brookings Papers on Economic Activity
+W1966389350	2	0	unemployment benefit;job search;unemployment duration	1996	False	232	0.98883249	True	True	Unemployment Duration and the Restart Effect: Some Experimental Evidence	The Economic Journal
+W1999228511	2	0	job search	1983	False	228	0.9847713	True	True	An Econometric Analysis of Reservation Wages	Econometrica
+W3024955162	2	0	unemployment insurance	1984	False	217	0.97869841	False	True	Unemployment insurance and reservation wages	Journal of Public Economics
+W2249901682	0	2	reemployment;job search	2015	True	210	0.99879851	True	True	Age and reemployment success after job loss: An integrative model and meta-analysis.	Psychological Bulletin
+W2082495975	2	0		1993	False	187	0.97691668	True	True	Identification Results for Duration Models with Multiple Spells	The Review of Economic Studies
+W3123699197	2	0		2001	False	175		True	True	Comparative Analysis of Labour Market Outcomes: Lessons for the US from International Long-Run Evidence	RePEc: Research Papers in Economics
+W1502115441	1	1	reemployment	2003	False	155	0.99791984	True	True	JOB LOSS IN THE UNITED STATES, 1981–2001	Research in labor economics
+W3123007614	2	0	unemployment insurance;unemployment benefit	1998	False	150		True	True	Unemployment Insurance Savings Accounts	National Bureau of Economic Research
+W4375819182	2	0		1990	False	121	0.97407407	True	False	Passing the Torch: The Influence of Economic Incentives on Work and Retirement	Upjohn Research (W.E. Upjohn Institute for Employment Research)
+W369635904	2	0	unemployment benefit;replacement rate	1974	False	105	0.99123711	True	True	UNEMPLOYMENT COMPENSATION: ADVERSE INCENTIVES AND DISTRIBUTIONAL ANOMALIES	National Tax Journal
+W1540388130	2	0	unemployment insurance	1993	False	100		True	True	Unemployment insurance in the United States: the first half century	Choice Reviews Online
+W1492320665	2	0	unemployment insurance;reemployment	1989	False	74		True	True	The New Jersey Unemployment Insurance Reemployment Demonstration Project Final Evaluation Report	RePEc: Research Papers in Economics
+W1865432	0	2		2006	False	72	0.99482822	True	True	The Un-intended Convergence: How the Finnish Unemployment Reached the European Level	The MIT Press eBooks
+W2073049177	2	0		1983	False	62	0.97796128	True	False	Why is Insured Unemployment so Low?	Brookings Papers on Economic Activity
+W1578298466	2	0		1981	False	59	0.98917933	True	True	Changes in Labor Force Status among the Unemployed	The Journal of Human Resources
+W3123004615	2	0		1990	False	56	0.9469697	True	False	Does Training Work for Displaced Workers?: A Survey of Existing Evidence	Upjohn Research (W.E. Upjohn Institute for Employment Research)
+W2031468206	2	0	unemployment insurance	1999	False	51	0.92738797	True	True	Optimal Unemployment Insurance: A Survey	Southern Economic Journal
+W148285102	2	0		1998	False	48		True	True	New Paths to Retirement	RePEc: Research Papers in Economics
+W1543878413	2	0	unemployment insurance	1997	False	35	0.98435754	True	True	The Duration of Benefits	Upjohn Research (W.E. Upjohn Institute for Employment Research)
+W1607743507	2	0	unemployment insurance	1995	False	33		False	True	The Adequacy of Unemployment Insurance Benefits	Upjohn Research (W.E. Upjohn Institute for Employment Research)
+W2107359920	2	0		1997	False	33	0.99796126	False	True	Coverage and Recipiency: Trends and Effects	Upjohn Research (W.E. Upjohn Institute for Employment Research)
+W1578835827	0	2	unemployment duration	2003	False	30		True	True	The Determinants of Unemployment Duration by Gender in Finland	RePEc: Research Papers in Economics
+W3121667237	0	2	unemployment insurance;reemployment	2010	False	23		True	True	Policies for Displaced Workers: An American Perspective	Upjohn Research (W.E. Upjohn Institute for Employment Research)
+W1514034736	2	0		1991	False	21		True	False	Does training work for displaced workers?: a survey of existing evidence	Choice Reviews Online
+W162983752	2	0		1997	False	21	0.81136509	True	False	The Aging Baby Boom: Implications for Employment and Training Programs.	
+W1490955712	2	0		1995	False	20	0.97016067	False	False	Performance Indicators: A Management Tool for Active Labour Programmes in Hungary and Poland	Upjohn Research (W.E. Upjohn Institute for Employment Research)
+W2115270529	2	0	unemployment insurance;temporary layoff	1997	False	18	0.97390224	True	True	Policy Issues: An Overview	Upjohn Research (W.E. Upjohn Institute for Employment Research)
+W2607065095	0	2		2017	False	18	0.94613077	False	True	Reservation Wages and the Unemployment of Older Workers	Journal of Labor Research
+W3124121227	2	0	unemployment insurance;job search	1997	False	18		True	True	Adequacy of the Weekly Benefit Amount	RePEc: Research Papers in Economics
+W1578222571	2	0		1999	False	17		True	False	Job Loss and Retirement Behavior of Older Men	National Bureau of Economic Research
+W2611504698	0	2	unemployment insurance	2016	True	17	0.81178914	True	True	Active Labour Market Programme Participation for Unemployment Insurance Recipients	Research on Social Work Practice
+W2592602543	2	0	unemployment insurance	1980	False	16	0.82239382	True	True	Unemployment Insurance and the Older American	Upjohn Research (W.E. Upjohn Institute for Employment Research)
+W1844179132	0	2		2003	False	15	0.89162881	True	False	LA VALUTAZIONE DELLE POLITICHE DEL LAVORO IN PRESENZA DI SELEZIONE: MIGLIORARE LA TEORIA, I METODI O I DATI?	Politica economica
+W3166287306	1	1	unemployment duration	2021	False	15	0.87041979	False	True	The effect of unemployment duration on reservation wages: Evidence from Belgium	Labour Economics
+W2100471018	0	2	unemployment duration	2011	False	10	0.88391092	True	True	Employability of Young Italian Men after a Jobless Period, 1989–98	Labour
+W2287455455	2	0	unemployment insurance	1986	False	9		True	True	An Evaluation of the Federal Supplemental Compensation Program	RePEc: Research Papers in Economics
+W1485512189	2	0		1997	False	8	0.98954555	False	False	Initial Eligibility for Unemployment Compensation	Upjohn Research (W.E. Upjohn Institute for Employment Research)
+W1578608719	2	0	unemployment insurance	1999	False	8	0.94817421	True	True	New Ways of Evaluating State Unemployment Insurance	
+W2113880732	0	2		2013	False	8	0.88223516	True	False	Fifteen years of labour market regulations and policies in Italy: What have we learned from their evaluation?	Statistica
+W2124210937	0	2		1998	False	6		True	False	Low Wages in the US and High Unemployment in Europe: A Critical Assessment of the Conventional Wisdom	RePEc: Research Papers in Economics
+W2204081481	0	2		2012	False	4		True	True	Estimated Impacts for Participants in the Trade Adjustment Assistance (TAA) Program under the 2002 Amendments	RePEc: Research Papers in Economics
+W1524554281	0	2	reemployment	2004	False	3	0.89988463	False	True	Personal Reemployment Accounts	Employment Research
+W1558387034	0	2	unemployment insurance	1998	False	3		True	False	Unemployment and External and Internal Labor Market Flexibility: A Comparative View of Europe, Japan, and the United States	RePEc: Research Papers in Economics
+W4224674589	0	2	unemployment insurance;benefit exhaustion;reemployment	2022	False	3		True	True	Reemployment Services and Eligibility Assessments (RESEA) in Maryland— Formative Evaluation, Program Year 2019	Upjohn Research (W.E. Upjohn Institute for Employment Research)
+W1576880634	0	2		2011	False	2		True	True	What Works for Whom in Public Employment Policy?	Upjohn Research (W.E. Upjohn Institute for Employment Research)
+W2168331046	0	2	re-employment;temporary layoff	2004	False	2		False	True	Re-Employment Bonuses in a Signalling Model of Temporary Layoffs	SSRN Electronic Journal
+W2976494121	0	2		2019	False	2		True	True	Expectations Set High: Understanding Reservation Wages in North Macedonia	World Bank, Washington, DC eBooks
+W2774360946	0	2	replacement rate	2017	False	1	0.76164693	True	True	Are the unemployed and inactive financially trapped? Evidence from Serbia	Economic Annals
+W2551242208	0	2		2017	False	1	0.01100244	True	True	Lessons Learned from Public Workforce Program Experiments	Upjohn Research (W.E. Upjohn Institute for Employment Research)
+W2515864410	0	2		2009	False	0	0.49305069	False	False	"LA VALUTAZIONE DEGLI EFFETTI DELL'ESTENSIONE DEL PERIODO DI AMMISSIBILITÀ ALLE LISTE DI MOBILITÀ NEL VENETO. UN'ANALISI SUI SALARI MEDIANTE ""PRINCIPAL STRATIFICATION"""	
+W4308509722	0	2	reemployment	2022	False	0		True	False	Reemployment Services and Eligibility Assessments (RESEA) in Maryland—Plan for Annual Assessments with Incremental Improvements	Upjohn Research (W.E. Upjohn Institute for Employment Research)
+W4413826185	0	2		2025	False	0	0.1728853	False	False	The Hedgehog’s curse: Knowledge specialization and displacement loss	Labour Economics
+W7143464829	0	2		2011	False	0		True	True	Analyse théorique et empirique de la théorie de la recherche d'emploi : un essai de modélisation du Revenu de Solidarité Active	theses.fr (ABES)
+W1494855668	1	0	job search	2001	False	2415	0.99982294	True	True	Looking into the Black Box: A Survey of the Matching Function	Journal of Economic Literature
+W1805206376	1	0	job search	2010	True	1338	0.99981603	True	True	Active Labour Market Policy Evaluations: A Meta‐Analysis	The Economic Journal
+W3123058307	1	0	job search	1984	False	916		False	True	Job Search and Labor Market Analysis	RePEc: Research Papers in Economics
+W2029038602	1	0	unemployment insurance	2010	False	678	0.99889606	True	True	Earnings Losses of Displaced Workers Revisited	American Economic Review
+W2069597205	1	0	unemployment insurance;unemployment duration	1990	False	606	0.97018393	True	True	Flexible parametric estimation of duration and competing risk models	Journal of Applied Econometrics
+W2054516487	1	0	unemployment benefit	2001	False	544	0.99543568	True	True	Good Jobs versus Bad Jobs	Journal of Labor Economics
+W1974940523	1	0	unemployment insurance;temporary layoff	1976	False	539	0.99953445	True	True	Temporary Layoffs in the Theory of Unemployment	Journal of Political Economy
+W3122089893	1	0	unemployment insurance	2005	False	504	0.99943278	True	True	The Effect of Unemployment Insurance Sanctions on the Transition Rate from Unemployment to Employment	The Economic Journal
+W2073576182	1	0	unemployment benefit	2006	False	464	0.98212315	True	True	Scar Effects of Unemployment: An Assessment of Institutional Complementarities	American Sociological Review
+W3021077285	1	0	re-employment	2020	False	445		True	True	Determinants of Disparities in Covid-19 Job Losses	National Bureau of Economic Research
+W2032411477	1	0	job search	2004	False	439	0.99553129	True	True	Job Search and Impatience	Journal of Labor Economics
+W1540344454	1	0	unemployment benefit	1998	False	394	0.99903159	False	True	The impact of employment tax cuts on unemployment and wages; The role of unemployment benefits and tax structure	European Economic Review
+W2055636456	1	0	unemployment insurance	1992	False	387	0.99444099	True	True	The Role of Unemployment Insurance in an Economy with Liquidity Constraints and Moral Hazard	Journal of Political Economy
+W3023152110	1	0	job search	2004	False	368	0.99983669	True	True	Punitive Sanctions and the Transition Rate from Welfare to Work	Journal of Labor Economics
+W3021350015	1	0	unemployment benefit	2020	False	365		True	True	COVID-19 Is Also a Reallocation Shock	National Bureau of Economic Research
+W1787999017	1	0	re-employment	1980	False	348	0.99768049	False	True	The Analysis of Re-Employment Probabilities for the Unemployed	Journal of the Royal Statistical Society Series A (General)
+W2164913676	1	0	unemployment insurance;job search	1979	False	346	0.95119624	True	True	The Optimal Payment of Unemployment Insurance Benefits over Time	Journal of Political Economy
+W3122984530	1	0	unemployment insurance	2010	False	327	0.99748546	True	True	Wage Risk and Employment Risk over the Life Cycle	American Economic Review
+W2162263065	1	0	unemployment insurance	2007	False	325	0.997435	False	True	Business cycles, unemployment insurance, and the calibration of matching models	Journal of Economic Dynamics and Control
+W1492616485	1	0	unemployment insurance;job search	1976	False	319	0.99681875	True	True	Unemployment Insurance, Duration of Unemployment, and Subsequent Wage Gain	eCommons (Cornell University)
+W2171373343	0	1	unemployment insurance	2012	False	317	0.99955757	True	True	Insecure Alliances: Risk, Inequality, and Support for the Welfare State	American Political Science Review
+W2156552005	1	0	unemployment insurance	2001	False	304	0.98841213	False	True	Unemployment insurance benefit levels and consumption changes	Journal of Public Economics
+W3012622611	1	0	unemployment benefit	2020	False	281	0.99774687	True	True	Fiscal Policy during a Pandemic	Journal of Economic Dynamics and Control
+W3021805523	1	0	unemployment insurance;unemployment benefit	2008	False	275	0.99837786	True	True	The Joint Design of Unemployment Insurance and Employment Protection: A First Pass	Journal of the European Economic Association
+W1995786391	1	0	unemployment insurance	1999	False	267	0.99881155	True	True	The High-Pressure U.S. Labor Market of the 1990s	Brookings Papers on Economic Activity
+W3122961410	1	0	job search	1982	False	266		True	True	Are Unemployment and Out of the Labor Force Behaviorally Distinct Labor Force States?	National Bureau of Economic Research
+W2119626280	0	1	job search	2002	False	259	0.97865782	True	True	Can training and employment subsidies combat European unemployment?	Economic Policy
+W2159549218	1	0	unemployment benefit	1985	False	252	0.99837415	True	True	Unemployment Benefits Revisited	The Economic Journal
+W2148335039	1	0	unemployment insurance	2014	False	238	0.99747782	True	True	UNEMPLOYED BUT OPTIMISTIC: OPTIMAL INSURANCE DESIGN WITH BIASED BELIEFS	Journal of the European Economic Association
+W1992046070	1	0	unemployment duration	1989	False	226	0.97908549	True	True	Job Displacement, Relative Wage Changes, and Duration of Unemployment	Journal of Labor Economics
+W3124149216	1	0	unemployment insurance	2005	False	226	0.99946044	True	True	Rethinking Social Insurance	American Economic Review
+W3123387605	1	0	unemployment insurance	2008	False	206	0.99075416	True	True	Liquidity and Insurance for the Unemployed	American Economic Review
+W1507735829	1	0	job search	1990	False	199	0.9951809	True	False	Labour Market Policies and Unemployment in the OECD	Economic Policy
+W3121310829	1	0	unemployment insurance	2001	False	194	0.99670273	True	True	Optimal Unemployment Insurance in Search Equilibrium	Journal of Labor Economics
+W1541691056	1	0	unemployment insurance	2007	False	189	0.96814485	False	True	On Layoffs and Unemployment Insurance	American Economic Review
+W3125981254	1	0	unemployment insurance;unemployment benefit	2007	False	178	0.9866932	True	True	Reservation Wages and Unemployment Insurance	The Quarterly Journal of Economics
+W2151172520	1	0	unemployment benefit	2010	False	163	0.98937891	True	True	Social Insurance as a Collective Resource: Unemployment Benefits, Job Insecurity and Subjective Well-being in a Comparative Perspective	Social Forces
+W1574491349	1	0	job search	2000	False	160	0.97422325	True	True	Job Search Methods: Internet versus Traditional	Monthly labor review
+W2200043635	1	0	unemployment insurance	2017	False	160	0.99339514	True	True	Knowledge of Future Job Loss and Implications for Unemployment Insurance	American Economic Review
+W2043763936	1	0	job search	2002	False	155	0.95911077	True	True	The Long‐Run Effects of Unemployment Monitoring and Work‐Search Programs: Experimental Evidence from the United Kingdom	Journal of Labor Economics
+W2140239380	1	0	unemployment insurance;reemployment	2012	False	154	0.98142225	True	True	Losing a Job: The Nonpecuniary Cost of Unemployment in the United States	Social Forces
+W2033416931	1	0	temporary layoff	1975	False	151	0.99704189	True	True	The Importance of Temporary Layoffs: An Empirical Analysis	Brookings Papers on Economic Activity
+W2067624124	1	0	unemployment insurance	2004	False	151	0.98535935	False	True	Do unemployment insurance recipients actively seek work? Evidence from randomized trials in four U.S. States	Journal of Econometrics
+W1536007417	1	0	potential duration;job search	1986	False	145		True	True	Layoffs, Recall and the Duration of Unemployment	National Bureau of Economic Research
+W2043506938	1	0	unemployment insurance	1994	False	144	0.98791494	False	True	Unemployment insurance taxes and the cyclical and seasonal properties of unemployment	Journal of Public Economics
+W2119237916	1	0	job search	2001	False	143	0.95048102	True	True	Individual Wealth, Reservation Wages, and Transitions into Employment	Journal of Labor Economics
+W2164829586	1	0	unemployment insurance	1996	False	140	0.99533437	False	True	Unemployment insurance with moral hazard in a dynamic economy	Carnegie-Rochester Conference Series on Public Policy
+W2033306386	1	0	unemployment insurance;job search;unemployment duration	1977	False	135	0.99854788	True	True	Effects of Unemployment Insurance Entitlement on Duration and Job Search Outcome	Industrial and Labor Relations Review
+W3083736501	1	0	unemployment insurance	2020	False	134		True	True	The Social Safety Net in the Wake of COVID-19	National Bureau of Economic Research
+W1981342246	0	1	unemployment duration	1997	False	128	0.88634106	False	True	Education and unemployment duration	Economics of Education Review
+W3081450537	1	0	unemployment insurance	2020	False	126		True	True	Income and Poverty in the COVID-19 Pandemic	National Bureau of Economic Research
+W1487662513	1	0	unemployment benefit;unemployment duration	1994	False	122		True	True	Converting Unemployment Benefits into Employment Subsidies	Econstor (Econstor)
+W2126542218	0	1	job search	2009	False	122	0.99000625	False	True	The long-term effects of job search requirements: Evidence from the UK JSA reform	Journal of Public Economics
+W2036887420	1	0	unemployment benefit;job search	1996	False	119	0.89178214	True	True	Estimating the Effect of Counseling and Monitoring the Unemployed Using a Job Search Model	The Journal of Human Resources
+W2056861376	1	0	unemployment insurance	2002	False	115	0.9764275	False	True	Moral hazard, optimal unemployment insurance, and experience rating	Journal of Monetary Economics
+W1964359486	0	1	unemployment benefit	1998	False	112	0.98364093	True	True	Unemployment and mental health: evidence from research in the Nordic countries	International Journal of Social Welfare
+W1995096355	1	0	job search	1988	False	111	0.97756249	True	True	The Relationship Between Unemployment Spells and Reservation Wages as a Test of Search Theory	The Quarterly Journal of Economics
+W1976005924	1	0	unemployment benefit	2000	False	109	0.98710457	False	True	Should unemployment benefits decrease with the unemployment spell?	Journal of Public Economics
+W326591849	1	0	job search	1992	False	98	0.88190762	False	False	Job Search Methods and Results: Tracking the Unemployed, 1991.	Monthly labor review
+W2029078416	1	0	unemployment insurance;unemployment duration	2001	False	97	0.8874068	True	True	The Wealth of the Unemployed	Industrial and Labor Relations Review
+W1980886856	1	0	unemployment insurance	1977	False	96	0.97859639	True	True	The Effect of Unemployment Insurance on the Duration of Unemployment and Subsequent Earnings	Industrial and Labor Relations Review
+W2170153069	1	0	unemployment benefit;replacement rate;job search	2015	False	89		True	True	How demanding are eligibility criteria for unemployment benefits, quantitative indicators for OECD and EU countries	OECD social employment and migration working papers
+W1977468001	1	0	unemployment insurance;job search	1980	False	88	0.99072195	True	True	Unemployment Insurance: Survey and Extensions	Economica
+W1673133702	1	0	unemployment benefit;replacement rate	2012	False	87		True	True	Eligibility Criteria for Unemployment Benefits	OECD social employment and migration working papers
+W2897019906	1	0	unemployment benefit	2018	False	85		True	True	Labor Market Search With Imperfect Information and Learning	National Bureau of Economic Research
+W2185361425	1	0	unemployment duration	2019	False	83	0.98715922	True	True	Heterogeneity and Unemployment Dynamics	Journal of Business and Economic Statistics
+W2099362057	1	0	unemployment insurance;replacement rate	2015	False	81	0.98129534	True	True	Optimal Life Cycle Unemployment Insurance	American Economic Review
+W1573592016	0	1	unemployment benefit	2012	False	80		True	True	The Short-Term Effects of Structural Reforms	OECD Economics Department working papers
+W2025242966	1	0	job search;temporary layoff	1980	False	80	0.98341548	True	True	The Cyclical Pattern of Temporary Layoffs in United States Manufacturing	The Review of Economics and Statistics
+W2145401623	1	0	unemployment duration	1992	False	75	0.93343817	True	True	Time aggregation and the distributional shape of unemployment duration	Journal of Applied Econometrics
+W2158388693	1	0	unemployment insurance;replacement rate	1977	False	75		True	True	Aspects of Optimal Unemployment Insurance: Search, Leisure and Capital Market Imperfections	National Bureau of Economic Research
+W1980988215	0	1	re-employment	2009	False	74	0.95424146	False	True	Job displacement and the transitions to re-employment and early retirement for non-employed older workers	European Economic Review
+W1979631869	1	0	reemployment	2001	False	74		True	True	A Prescription to Relieve Worker Anxiety	RePEc: Research Papers in Economics
+W1968370247	1	0	job search;unemployment duration	1981	False	73	0.93495441	True	True	A Model of Unemployment Duration with Variable Search Intensity	The Review of Economics and Statistics
+W3086891970	1	0	unemployment benefit	2000	False	73		True	True	Does the Recent Success of some OECD Countries in Lowering their Unemployment Rates lie in the Clever Design of their Labour Market Reforms	Econstor (Econstor)
+W1904182075	0	1	job search	1999	False	72		True	True	Active labor market programs: a review of the evidence from evaluations	RePEc: Research Papers in Economics
+W2079476851	1	0	unemployment insurance	1997	False	69	0.95084453	False	True	Optimal unemployment insurance	Journal of Public Economics
+W2129385040	0	1	benefit exhaustion;reemployment	2002	False	68		True	True	Is the Threat of Reemployment Services More Effective than the Services Themselves? Experimental Evidence from the UI System	National Bureau of Economic Research
+W2025775325	1	0	unemployment benefit	1988	False	67	0.97801947	True	True	'Wait Unemployment' in Europe	Economic Policy
+W2995141650	1	0	unemployment insurance	2020	False	62	0.96514425	True	True	The Value of Unemployment Insurance	The Review of Economic Studies
+W3123056633	1	0	unemployment insurance;reemployment	2020	False	59	0.97096861	True	True	Bounds on treatment effects in regression discontinuity designs with a manipulated running variable	Quantitative Economics
+W2053240762	1	0	unemployment insurance;reemployment;unemployment duration	1976	False	57	0.94989447	True	True	The Impact of Unemployment Insurance Benefits on Reemployment Success	Industrial and Labor Relations Review
+W2116573823	1	0	unemployment insurance;unemployment duration	2005	False	56		True	True	A General Formula for the Optimal Level of Social Insurance	National Bureau of Economic Research
+W1510289288	0	1	unemployment insurance;unemployment benefit	2017	False	55	0.94381125	True	True	Scraping by: Income and Program Participation After the Loss of Extended Unemployment Benefits	Journal of Policy Analysis and Management
+W2028479086	1	0	unemployment insurance;unemployment benefit;unemployment duration	1982	False	55		True	True	Unemployment Insurance and Reservation Wages	National Bureau of Economic Research
+W3100865577	1	0	temporary layoff	2020	False	51		True	True	Searching, Recalls, and Tightness: An Interim Report on the COVID Labor Market	National Bureau of Economic Research
+W2148960091	0	1	unemployment insurance	2011	False	48	0.97387387	False	True	Unemployment Insurance Savings Accounts in Latin America: Overview and Assessment	World Bank, Washington, DC eBooks
+W3090165995	1	0	unemployment insurance;replacement rate	2020	False	48		True	True	US Unemployment Insurance Replacement Rates During the Pandemic	National Bureau of Economic Research
+W3124820289	1	0	unemployment insurance	1993	False	48	0.44172932	True	True	Unemployment Insurance in the United States: The First Half Century	Upjohn Research (W.E. Upjohn Institute for Employment Research)
+W4318244054	1	0	job search	2023	False	48	0.99882835	False	True	Expectations data, labor market, and job search	Elsevier eBooks
+W1540958119	1	0	unemployment insurance;unemployment benefit	2012	False	47		True	True	Unemployment Insurance: Programs and Benefits	University of North Texas Digital Library (University of North Texas)
+W2053326078	0	1	unemployment insurance	1997	False	43	0.95364635	True	True	Unemployment Insurance in the United States: Analysis of Policy Issues	Upjohn Research (W.E. Upjohn Institute for Employment Research)
+W1966027378	0	1	unemployment insurance;unemployment benefit	1998	False	40	0.93502453	True	True	Complexities in Assessing Unemployment Benefits and Policies	International Social Security Review
+W2157197521	0	1	reemployment;job search	1998	False	40	0.94994041	True	False	Evaluating Retraining Programs in OECD Countries: Lessons Learned	The World Bank Research Observer
+W2320653748	0	1	unemployment insurance	2003	False	40	0.97926111	True	True	Faule Arbeitslose?	Leviathan
+W4367048506	0	1	unemployment insurance;replacement rate	2023	False	40	0.97043736	True	True	U.S. Unemployment insurance through the Covid-19 crisis	Journal of Government and Economics
+W3019282412	1	0	job search	2020	False	39		True	True	Evidence on Job Search Models from a Survey of Unemployed Workers in Germany	National Bureau of Economic Research
+W2062381199	1	0	unemployment benefit	2002	False	38	0.95966521	True	False	Impact of the Mutual Obligation Initiative on the Exit Behaviour of Unemployment Benefit Recipients: The Threat of Additional Activities	Economic Record
+W3041690563	1	0	unemployment insurance;unemployment benefit	2020	False	38		True	True	Modeling the Consumption Response to the CARES Act	National Bureau of Economic Research
+W3124442518	0	1	unemployment insurance	2019	False	37		True	True	Consumer Spending During Unemployment: Positive and Normative Implications	National Bureau of Economic Research
+W3205418953	1	0	temporary layoff	2020	False	37	0.96506139	True	True	Temporary Unemployment and Labor Market Dynamics during the COVID-19 Recession	Brookings Papers on Economic Activity
+W1555439661	0	1	re-employment	1997	False	35		True	True	Labor Market Dynamics in Russia	RePEc: Research Papers in Economics
+W3042445187	1	0	unemployment insurance	2020	False	35	0.96825289	True	True	Reconciling Unemployment Claims with Job Losses in the First Months of the COVID-19 Crisis	Finance and Economics Discussion Series
+W3082334103	1	0	unemployment insurance;unemployment benefit	2020	False	34		True	True	Impacts of the Covid-19 Pandemic and the CARES Act on Earnings and Inequality	Upjohn Research (W.E. Upjohn Institute for Employment Research)
+W3121837108	1	0	unemployment insurance	2021	False	34	0.93358747	True	True	Risk-Based Selection in Unemployment Insurance: Evidence and Implications	American Economic Review
+W1492914222	1	0	unemployment insurance;re-employment;job search	2000	False	32		True	True	Assisting Unemployment Insurance Claimants: The Long-Term Impacts of the Job Search Assistance Demonstration	RePEc: Research Papers in Economics
+W1559175717	0	1	replacement rate	2002	False	32		True	False	Economic Incentives and Labour Market Transitions of the Aged Finnish Workforce	Työväentutkimus Vuosikirja
+W3123389107	0	1	unemployment duration	2018	False	32	0.95057307	False	True	On the effects of ranking by unemployment duration	European Economic Review
+W4236282910	1	0	unemployment insurance	1998	False	32		False	True	Unemployment insurance in the United States: analysis of policy issues	Choice Reviews Online
+W1586096156	0	1	reemployment;job search;unemployment duration	2011	False	31		True	True	The Impact of Active Labour Market Policy on Post-Unemployment Outcomes: Evidence from a Social Experiment in Denmark	SSRN Electronic Journal
+W2169515883	1	0	unemployment insurance;reemployment;job search	2006	False	31	0.9748044	True	True	State UI Job Search Rules and Reemployment Services	Upjohn Research (W.E. Upjohn Institute for Employment Research)
+W2095829835	0	1	job search	2007	False	30	0.90564168	True	True	The Recall and New Job Search of Laid-Off Workers: A Bivariate Proportional Hazard Model with Unobserved Heterogeneity	The Review of Economics and Statistics
+W1490000881	1	0	unemployment duration	1997	False	28		True	False	The Effects of Unemployment on Subsequent Earnings: A Study of British Men 1984-94	RePEc: Research Papers in Economics
+W1914480772	1	0	job search	2000	False	28		True	False	Firm-Specific Training: Consequences for Job Mobility	Zurich Open Repository and Archive (University of Zurich)
+W4206780417	1	0	job search	2021	False	28		True	True	Worker Beliefs About Outside Options	National Bureau of Economic Research
+W2000226642	0	1	temporary layoff	2004	False	24	0.94177676	True	True	Temporary layoffs and split population models	Journal of Applied Econometrics
+W4320303374	1	0	unemployment insurance;reemployment	1996	False	24		True	True	Design of the Worker Profiling and Reemployment Services System and Evaluation in Michigan	Upjohn Research (W.E. Upjohn Institute for Employment Research)
+W2624686086	1	0	unemployment insurance	1934	False	23		False	True	Unemployment insurance in the United States.	OpenBU (Boston University)
+W4411015197	1	0	job search	2025	False	23		True	False	Job Amenity Shocks and Labor Reallocation	National Bureau of Economic Research
+W1608732561	1	0	unemployment insurance	1977	False	22		False	True	Unemployment Insurance and Labor Supply Decisions	RePEc: Research Papers in Economics
+W1970723618	1	0	temporary layoff	1984	False	22	0.94693289	True	True	The Distinguishing Characteristics of Temporary and Permanent Layoffs	Journal of Labor Economics
+W2233806445	1	0	unemployment insurance	2012	False	22	0.97127016	True	True	Potential Effects of the Great Recession on the U.S. Labor Market	The B E Journal of Macroeconomics
+W3092887972	1	0	unemployment insurance	2020	False	22	0.94329906	True	False	How Have Households Used Their Stimulus Payments and How Would They Spend the Next	Liberty Street Economics
+W3099937644	0	1	unemployment benefit	2022	False	22	0.91095753	True	True	Beyond the added-worker and the discouraged-worker effects: the entitled-worker effect	Economic Modelling
+W1840570870	0	1	unemployment benefit	2010	False	21	0.82577097	True	True	The Effects of Marginal Employment on Subsequent Labour Market Outcomes	German Economic Review
+W2140989402	0	1	re-employment	2010	False	21	0.93354728	False	True	Estimating the effect of a retraining program on the re-employment rate of displaced workers	Empirical Economics
+W3123020177	0	1	unemployment insurance	1995	False	21	0.8617388	True	True	Assisting Workers Displaced by Structural Change: An International Perspective	Upjohn Research (W.E. Upjohn Institute for Employment Research)
+W4212794391	0	1	unemployment insurance	2011	False	21	0.8510682	True	True	Nordic Economic Policy Review	TemaNord
+W1489133647	0	1	job search;unemployment duration	2015	False	20	0.97168619	True	True	THE PUZZLE OF JOB SEARCH AND HOUSING TENURE: A RECONCILIATION OF THEORY AND EMPIRICAL EVIDENCE	Journal of Regional Science
+W1480678522	0	1	unemployment insurance;replacement rate;unemployment duration	2014	False	20	0.9102069	True	True	A Bayesian Semiparametric Competing Risk Model with Unobserved Heterogeneity	Journal of Applied Econometrics
+W2102957274	0	1	unemployment benefit;unemployment duration	1998	False	20	0.85136075	True	True	Labour market transitions and unemployment duration: Evidence from Bulgarian and Polish micro‐data1	Economics of Transition
+W2163556358	0	1	unemployment benefit	2013	False	20	0.95078945	True	True	Are corporatist labour markets different? Labour market regimes and unemployment in OECD countries	International Labour Review
+W1999168736	1	0	temporary layoff	1989	False	19	0.9545882	True	True	Temporary Layoffs and Unemployment in Canada	Industrial Relations A Journal of Economy and Society
+W3048133543	1	0	unemployment insurance	2020	False	19	0.93579194	True	True	Reservation Benefits: Assessing job acceptance impacts of increased UI payments	Federal Reserve Bank of San Francisco, Working Paper Series
+W3048052177	1	0	unemployment insurance	2020	False	19	0.93221129	True	True	Unemployment Insurance during a Pandemic	The Federal Reserve Bank of Kansas City Research Working Papers
+W2579760856	1	0	unemployment benefit	2017	False	18	0.85209296	True	True	Shifting the Beveridge curve: What affects labour market matching?	International Labour Review
+W3121447154	0	1	unemployment insurance;unemployment benefit	2017	False	18	0.87749321	True	True	Scraping By: Income and Program Participation After the Loss of Extended Unemployment Benefits	Federal Reserve Bank of San Francisco, Working Paper Series
+W4386886646	1	0	unemployment insurance;benefit duration	2020	False	18	0.39804301	True	True	Dying to Work: Effects of Unemployment Insurance on Health	Journal of Public Economics
+W1488511564	1	0	unemployment benefit	2015	False	17		True	False	Is Unemployment Structural or Cyclical Main Features of Job Matching in the EU after the Crisis	RePEc: Research Papers in Economics
+W1588450396	0	1	unemployment duration	2008	False	17		True	True	Active labor market programs for the integration of youths and immigrants into the labor market: the Nordic experience	RePEc: Research Papers in Economics
+W1971317221	0	1	job search	2014	False	17	0.91888551	True	True	Labour market flexibility and spatial mobility	International Journal of Manpower
+W2109375186	1	0	temporary layoff	1991	False	17	0.84914494	True	True	Temporary layoff unemployment in Austria: empirical evidence from administrative data	Applied Economics
+W2148769990	1	0	replacement rate	2003	False	17	0.94535136	True	False	How Segmented are Skilled and Unskilled Labour Markets: the Case of Beveridge Curves	Australian Economic Papers
+W2514118120	0	1	job search	2016	False	17		True	True	Social Experiments in the Labor Market	National Bureau of Economic Research
+W3124210621	1	0	unemployment insurance;replacement rate	2006	False	17		True	False	Institutions, unemployment and inactivity in the OECD countries	RePEc: Research Papers in Economics
+W2086227912	0	1	unemployment benefit	1995	False	15	0.31680368	True	True	General Equilibrium Effects of Unemployment Compensation with Labor Force Participation	Journal of Labor Economics
+W2703731579	1	0	job search	2020	False	15	0.89207847	False	True	Learning and job search dynamics during the Great Recession	Journal of Monetary Economics
+W3036458042	1	0	unemployment benefit	2020	False	15		False	True	Optimal Unemployment Benefits in the Pandemic	SSRN Electronic Journal
+W3122300986	0	1	unemployment benefit	2014	False	15		False	True	Scraping by: Income and Program Participation after the Loss of Extended Unemployment Benefits	SSRN Electronic Journal
+W3133704156	1	0	unemployment insurance	2021	True	15	0.48751486	True	True	Choice in Insurance Markets: A Pigouvian Approach to Social Insurance Design	Annual Review of Economics
+W1539593182	0	1	unemployment insurance	2001	False	14	0.98170075	True	True	Health Insurance Coverage of People in the Ten Years before Medicare Eligibility	Upjohn Research (W.E. Upjohn Institute for Employment Research)
+W4210286893	0	1	unemployment benefit	2022	False	14	0.96502775	True	True	Social policy and labor supply: the impact of activating labor market institutions on reservation wages	Socio-Economic Review
+W4398131513	1	0	reemployment	2024	False	14		True	False	Wage Insurance for Displaced Workers	National Bureau of Economic Research
+W2107878280	0	1	unemployment duration	2006	False	13		True	True	The effects of job creation schemes on the unemployment duration in East Germany	Social Science Open Access Repository (GESIS – Leibniz Institute for the Social Sciences)
+W3157221079	1	0	job search	2018	False	13		False	True	Job Search with Subjective Wage Expectations	SSRN Electronic Journal
+W4362663540	1	0	job search	2023	False	13	0.88203093	True	True	Unemployed Job Search across People and over Time: Evidence from Applied-For Jobs	Journal of Labor Economics
+W1500876249	1	0	unemployment insurance;reemployment	1996	False	12		True	False	Design of the Worker Profiling and Reemployment Services System and Evaluation in Michigan	Upjohn Research (W.E. Upjohn Institute for Employment Research)
+W2036089346	0	1	unemployment insurance;re-employment	2002	False	12	0.96355482	True	False	Was kann die Aktive Arbeitsmarktpolitik in Deutschland aus der Evaluationsforschung in anderen europäischen Ländern lernen?	Perspektiven der Wirtschaftspolitik
+W2170559684	0	1	unemployment insurance	2001	False	12	0.96232508	True	True	Unemployment Compensation and Older Workers	Upjohn Research (W.E. Upjohn Institute for Employment Research)
+W590626608	0	1	job search	2019	False	12	0.83455301	False	True	Carrots, No Stick, No Driver: The Employment Impact of Job Search Assistance in a Regime with Minimal Monitoring and Sanctions	Journal of Labor Research
+W1594681077	0	1	unemployment benefit	2000	False	11		True	False	Navigating through the Finnish Pension System	RePEc: Research Papers in Economics
+W1879262525	1	0	job search	2024	False	11	0.84461944	True	True	Reservation Wages and the Wage Flexibility Puzzle	The Review of Economics and Statistics
+W1964894298	0	1	replacement rate	2014	False	11	0.90174724	True	True	Coordination versus flexibility in wage formation: a focus on the nominal wage impact of productivity in Germany, Greece, Ireland, Portugal, Spain and the United States	Applied Economics
+W4381988662	1	0	job search	2019	False	11	0.50412727	False	True	The Unexpected Consequences of Job Search Monitoring: Disability Instead of Employment?	Journal of Public Economics
+W1559520931	0	1	unemployment insurance;reemployment	2004	False	10		True	True	Personal Reemployment Accounts: Simulations for Planning Implementation	Upjohn Research (W.E. Upjohn Institute for Employment Research)
+W1594758444	1	0	unemployment duration	1998	False	10	0.91140246	True	True	Changes in the structure and duration of U.S. unemployment, 1967-1998	RePEc: Research Papers in Economics
+W1987091397	0	1	unemployment benefit	2012	False	10	0.91503323	True	False	Matching, adverse selection and labour market flows in a (post)transition setting: the case of Croatia	Post-Communist Economies
+W2284000540	1	0	unemployment insurance	1987	False	10		True	True	Work Search Among Unemployment Insurance Claimants: An Investigation of Some Effects of State Rules and Enforcement	RePEc: Research Papers in Economics
+W1516093177	1	0	unemployment insurance	1997	False	9		True	False	Unemployment Insurance Policy in New England: Background and Issues	Upjohn Research (W.E. Upjohn Institute for Employment Research)
+W2294816537	0	1	unemployment insurance;reemployment;unemployment duration	2015	False	9	0.937904	True	True	The Effects of Eliminating the Work Search Requirement on Job Match Quality and Other Long-Term Employment Outcomes	Upjohn Research (W.E. Upjohn Institute for Employment Research)
+W4402927158	0	1	re-employment	2024	False	9		True	False	The “clean energy transition” and the cost of job displacement in energy-intensive industries	OECD social employment and migration working papers
+W2049622259	0	1	unemployment insurance;unemployment benefit;replacement rate	2002	False	8	0.88345658	True	True	Labor Taxation in Search Equilibrium with Home Production	German Economic Review
+W2065792177	1	0	unemployment insurance;unemployment benefit;reemployment;re-employment	1992	False	8	0.84464031	True	True	Increasing Incentives for Re-employment	RePEc: Research Papers in Economics
+W2086909470	0	1	unemployment insurance	2006	False	8	0.88311813	True	False	Vocational training for the unemployed: its impact on uncommonly served groups	International Journal of Manpower
+W2103873259	0	1	unemployment duration	2009	False	8		True	False	Unobservable Heterogeneity in Directed Search	RePEc: Research Papers in Economics
+W2725258675	1	0	unemployment insurance;reemployment	1994	False	8	0.98391085	False	False	Self-Employment as a Reemployment Option: Demonstration Results and National Legislation. Unemployment Insurance Occasional Paper 94-3.	
+W3028414916	1	0	unemployment insurance	2020	False	8	0.841112	True	True	The Trade‐Off between Insurance and Incentives in Differentiated Unemployment Policies	Fiscal Studies
+W2052241471	1	0	temporary layoff	1981	False	7	0.85799392	False	True	On the nonexistence of temporary layoff unemployment in Austria	Empirica
+W4386577726	1	0	unemployment benefit	2023	False	7	0.82489302	False	True	Unemployment benefits and redundancies: Incidence and timing effects	Journal of Public Economics
+W1592792178	0	1	reemployment	2007	False	6	0.36043806	True	True	"Die zeitweise Verlagerung von Arbeitskräften in die Arbeitslosigkeit: eine ""neue"" personalpolitische Flexibilisierungsstrategie?"	RePEc: Research Papers in Economics
+W1581483020	0	1	job search	2004	False	6		False	False	Key Elasticities in Job Search Theory: International Evidence	SSRN Electronic Journal
+W1601247496	1	0	unemployment insurance;job search	1997	False	6	0.95329609	True	True	Adequacy of the Weekly Benefit Amount	Upjohn Research (W.E. Upjohn Institute for Employment Research)
+W2103432050	0	1	unemployment benefit	2011	False	6	0.90661954	True	True	The Determinants and Some Consequences of Unemployed Workers' Wage Demands	Labour
+W2787209408	0	1	unemployment insurance	2019	False	6	0.85785376	True	True	Do the Unemployed Pay Lower Prices? A Reassessment of the Value of Unemployment Insurance	Journal of the European Economic Association
+W4230123713	0	1	job search	2003	False	6	0.60530796	True	True	The Recall and New Job Search of Laid-off Workers: A Bivariate Proportional Hazard Model with Unobserved Heterogeneity	Finance and Economics Discussion Series
+W4289321081	1	0	re-employment	2022	False	6		True	False	Bringing Them In or Pushing Them Out? The Labor Market Effects of Pro-cyclical Unemployment Assistance Changes	National Bureau of Economic Research
+W4363648936	1	0	reemployment;unemployment duration	2023	False	6		True	True	Skill Depreciation during Unemployment: Evidence from Panel Data	National Bureau of Economic Research
+W2032851701	1	0	unemployment insurance;unemployment benefit	1982	False	5	0.42945929	True	True	The Federal Supplemental Benefits Program: An Appraisal of Emergency Extended Unemployment Insurance Benefits	Upjohn Research (W.E. Upjohn Institute for Employment Research)
+W2162157427	0	1	unemployment benefit	2015	False	5	0.92758044	True	True	Laziness or liberation? Labor market policies and workers' attitudes toward employment flexibility	International Journal of Social Welfare
+W4361000457	0	1	unemployment insurance	2023	False	5		True	True	Expanding Unemployment Insurance Coverage	
+W1540130390	0	1	reemployment	2013	False	4	0.93393084	True	False	The Effectiveness of Training for Displaced Workers with Long Prior Job Tenure	McGill-Queen's University Press eBooks
+W2136785640	0	1	job search	2010	False	4		False	True	The Threat of Monitoring Job Search: A Discontinuity Design	SSRN Electronic Journal
+W2249657588	0	1	unemployment insurance;unemployment benefit	2019	False	4	0.78473954	True	True	Can Helping the Sick Hurt the Able? Incentives, Information and Disruption in a Welfare Reform	The Economic Journal
+W2787361125	0	1	job search	2018	False	4	0.77570229	True	True	Job search of men and women on long-term social welfare	International Journal of Sociology and Social Policy
+W3043127018	1	0	unemployment insurance	2021	False	4	0.73328994	True	True	A Menu of Insurance Contracts for the Unemployed	The Review of Economic Studies
+W3022846494	0	1	unemployment insurance;reemployment	2020	False	4		True	True	Options For Unemployment Insurance Structural And Administrative Reform: Proposals And Analysis	Upjohn Research (W.E. Upjohn Institute for Employment Research)
+W3211984689	0	1	reemployment	2021	False	4		True	False	Reemployment Services and Eligibility Assessments (RESEA) in Maryland: Process Analysis Report	Upjohn Research (W.E. Upjohn Institute for Employment Research)
+W4407835678	0	1	unemployment insurance	2022	False	4	0.72511367	False	True	The Value of Unemployment Insurance: Liquidity vs. Insurance Value	Labour Economics
+W1528491892	0	1	unemployment insurance	2008	False	3	0.91641939	True	False	Public and Private Strategies for Assisting Older Workers	Upjohn Research (W.E. Upjohn Institute for Employment Research)
+W2047308938	0	1	unemployment insurance;unemployment duration	2009	False	3	0.16872637	True	False	Length-bias Correction in Transformation Models with Supplementary Data	Econometric Reviews
+W2184260224	0	1	job search	2015	False	3		True	True	Essays on Job Search Assistance and Labor Market Outcomes	
+W28237886	0	1	unemployment insurance	2001	False	3	0.82337199	False	True	Unemployment Insurance Systems for Latin America	Springer eBooks
+W4236304561	0	1	unemployment insurance;unemployment benefit	2017	False	3	0.90822002	True	True	Regression-Discontinuity Approach	Sage eBooks
+W4296985488	0	1	unemployment benefit	2022	False	3	0.71496678	True	False	Comment on “Income and Wealth Inequality in Asia and the Pacific: Trends, Causes, and Policy Remedies”	Asian Economic Policy Review
+W4288082122	0	1	unemployment insurance	2022	True	3	0.80992478	True	True	Why should we integrate income and employment support?	International Labour Office eBooks
+W4385618922	1	0	unemployment insurance	2023	False	3		True	True	Sticky Wages on the Layoff Margin	National Bureau of Economic Research
+W1491402485	0	1	job search	2012	False	2		False	True	Job Search Intensity and Wage Flexibility Among Different Age Groups	SSRN Electronic Journal
+W1502756535	0	1	unemployment insurance	2001	False	2	0.09257266	True	True	Social Insurance and the Older Worker: An Overview	Upjohn Research (W.E. Upjohn Institute for Employment Research)
+W2078203976	0	1	replacement rate	2005	False	2	0.88395128	False	True	Replacement rates and labour market behaviour	Socio-Economic Planning Sciences
+W2106495602	0	1	unemployment insurance	2001	False	2	0.15111508	True	True	Design of Three Field Experiments	Upjohn Research (W.E. Upjohn Institute for Employment Research)
+W2222819599	0	1	job search	2002	False	2	0.87582215	False	True	Macroeconomic Policy and the Theory of Job Search	Springer eBooks
+W2267369758	0	1	unemployment insurance	2003	False	2		True	False	Internet Initial Claims Evaluation	RePEc: Research Papers in Economics
+W2285923138	0	1	reemployment	2002	False	2		True	True	Evaluation of the Significant Improvement Demonstration Grants for the Provision of Reemployment Services for UI Claimants	RePEc: Research Papers in Economics
+W2508679685	0	1	reemployment;unemployment duration	2016	False	2	0.84231169	True	True	The Debate About the Consequences of Job Displacement	Life course research and social policies
+W3025853978	0	1	unemployment benefit	2018	False	2	0.88789986	True	False	Labour market	Routledge eBooks
+W3126018001	0	1	job search	2003	False	2		False	True	The Recall and New Job Search of Laid-Off Workers: A Bivariate Proportional Hazard Model with Unobserved Heterogeneity	SSRN Electronic Journal
+W4318819292	1	0	unemployment insurance	2022	False	2		False	False	Do Unemployment Insurance Benefits Improve Match and Employer Quality? Evidence from Recent U.S. Recessions	SSRN Electronic Journal
+W4404911260	0	1	re-employment	2024	False	2		True	False	The 'Clean Energy Transition' and the Cost of Job Displacement in Energy-intensive Industries	
+W1520106880	0	1	job search	2004	False	1	0.11735941	True	False	Information, Tools, and Technology: Informing Labor Exchange Participants	Upjohn Research (W.E. Upjohn Institute for Employment Research)
+W1505975571	0	1	unemployment insurance;job search;unemployment duration	2007	False	1	0.82288437	True	True	THE REGRESSIVITY OF UNEMPLOYMENT INSURANCE: IDENTIFICATION OF THE INCOME EFFECT THROUGH THE JULY 1999 LEGISLATION*	RePEc: Research Papers in Economics
+W1562640079	0	1	unemployment benefit	2011	False	1		True	False	The scarring effect of unemployment in ten European countries : an analysis based on the ECHP	RePEc: Research Papers in Economics
+W1601500002	0	1	unemployment duration	2009	False	1	0.24477739	True	False	Is Long Term Unemployment unaffected by flexible labour market legislation	Rivista internazionale di scienze sociali
+W2123537456	0	1	job search	2010	False	1		True	True	Housing Tenure and Job Search Behaviour. A Dierent Analysis of the Impact of the UK Jobseeker's Allowance	RePEc: Research Papers in Economics
+W2155223211	0	1	unemployment insurance	2015	False	1		True	True	Can helping the sick hurt the able? Incentives, information and disruption in a disability-related welfare reform	National Bureau of Economic Research
+W2312587192	1	0	job search	2011	False	1	0.85028145	False	False	Race, Self-Selection, and the Job Search Process: A Case Study of the Unemployed in New Jersey	
+W2500953396	0	1	replacement rate	2004	False	1	0.92156057	True	True	What Difference does a Job Make? The Income Consequences of Joblessness in Europe	Oxford University Press eBooks
+W2996453343	0	1	unemployment duration	2019	False	1	0.24786308	True	True	Interplay Between Reservation Wage and Unemployment Duration: Evidence from Jordan, Serbia, Montenegro, Ukraine and Moldova in 2015	Business and Economic Research
+W2808435591	0	1	re-employment	2018	False	1	0.07424256	True	True	How should job displacement wage losses be insured?	IZA World of Labor
+W4389579606	1	0	job search;unemployment duration	2023	False	1		True	True	Updating about Yourself by Learning about the Market: The Dynamics of Beliefs and Expectations in Job Search	National Bureau of Economic Research
+W4415880239	0	1	unemployment duration	2025	False	1	0.75198109	True	True	New Insights into Colombia’s Urban Vacancies–Unemployment Nexus: Estimation Using Equilibrium and Long-Term Unemployment	Review of Economics
+W4415135127	0	1	re-employment;unemployment duration	2025	False	1	0.72922658	True	False	Out of Work, Out of Spirit? The Effects of Unemployment Duration on Young People’s Intrinsic Work Motivation	Social Indicators Research
+W124874230	0	1	job search;unemployment duration	2012	False	0		True	True	Do Reservation Wages Decline Monotonically? A Novel Statistical Test	RePEc: Research Papers in Economics
+W135051770	0	1	unemployment duration	2004	False	0	0.0343707	True	False	Regional Variations in Unemployment Duration and Discouragement Probabilities	
+W1486839911	0	1	unemployment insurance	2001	False	0	0.09041981	True	True	Health, Disability, and the Aging Workforce from the Employer's Perspective	Upjohn Research (W.E. Upjohn Institute for Employment Research)
+W1526714068	0	1	unemployment duration	2008	False	0	0.22228608	False	True	Unemployment Duration in the Portuguese Labour Market	RePEc: Research Papers in Economics
+W1583244312	0	1	unemployment insurance	2001	False	0	0.11194833	True	True	Editors' Introduction	Upjohn Research (W.E. Upjohn Institute for Employment Research)
+W1709068510	0	1	unemployment insurance;unemployment benefit	2002	False	0		True	False	Les effets du dispositif d'intéressement sur l'insertion au marché du travail des bénéficiaires de l'allocation chômage	RePEc: Research Papers in Economics
+W1938206572	0	1	job search	2001	False	0	0.30164972	True	True	Programmes actifs pour le marche du travail : un apercu general des evidences resultant des evaluations	
+W2033037062	0	1	unemployment insurance	2011	False	0		False	True	The Immediate Hardship of Unemployment: Evidence from the U.S. Unemployment Insurance Program	SSRN Electronic Journal
+W2122899945	0	1	unemployment duration	2007	False	0		True	True	UNEMPLOYMENT DURATION AND COMPETING RISKS: A REGIONAL INVESTIGATION	RePEc: Research Papers in Economics
+W3109780029	0	1	job search	2020	False	0	0.23514555	False	True	Job Searching and the Weather: Evidence from Time-Use Data	Journal of Labor Research
+W3123469080	0	1	unemployment duration	2015	False	0		True	True	Contracting out mandatory counselling and training for long-term unemployed: private for-profit or non-profit, or keep it public?	RePEc: Research Papers in Economics
+W3123751187	0	1	unemployment insurance;reemployment	2008	False	0	0.34817013	True	False	Reemployment and Earnings Recovery among Older Unemployment Insurance Claimants	Upjohn Research (W.E. Upjohn Institute for Employment Research)
+W3125072976	0	1	unemployment benefit;job search	2006	False	0		True	False	The Effects of Marginal Employment on Subsequent Labour Market Outcomes	RePEc: Research Papers in Economics
+W3125789846	0	1	unemployment insurance	2015	False	0	0.56727973	False	True	The Immediate Hardship of Unemployment: Evidence from the US Unemployment Insurance System	Eastern Economic Journal
+W4322632484	0	1	unemployment insurance	2023	False	0		True	True		Annual Review of Economics
+W4392501324	0	1	reemployment	2024	False	0		True	True	Evaluation of Impacts of the Reemployment and Eligibility Assessment (REA) Program	AEA Randomized Controlled Trials
+W4399379278	0	1	re-employment	2024	False	0		False	False	The Impact of Job Opportunities, Housing Costs, and Mobility Decisions on the Re-employment Experiences of Displaced Workers	SSRN Electronic Journal
+W4411355772	0	1	re-employment	2025	False	0	0.11197573	True	False	Evaluating active labour market programmes: Possibilities for youth employment in Indonesia and beyond	The Economic and Labour Relations Review
+W587809978	0	1	unemployment benefit	2011	False	0		True	True	Trade, Unemployment and Labour Market Institutions	KTH Publication Database DiVA (KTH Royal Institute of Technology)

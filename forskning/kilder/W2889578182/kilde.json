@@ -1,0 +1,20 @@
+{
+ "apen_url": "http://www.nber.org/papers/w2594.pdf",
+ "ar": 1990,
+ "doi": "https://doi.org/10.2307/2937881",
+ "forfattere": [
+  "Lawrence F. Katz",
+  "Bruce Meyer"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "http://www.nber.org/papers/w2594.pdf",
+ "hvordan": "pdf",
+ "id": "W2889578182",
+ "kilde": "The Quarterly Journal of Economics",
+ "lenke": "https://openalex.org/W2889578182",
+ "merknad": "ÅPEN VERSJON (preprint eller arbeidsnotat), merkes i svaret",
+ "oversikt": false,
+ "sammendrag": "This paper empirically examines the importance of explicitly accounting for the layoff-rehire process in the analysis of unemployment outcomes in the United States. We find that the spells of individuals' who initially expect to be recalled account for much more of the unemployment of unemployment insurance (UI) recipients than do spells actually ending in recall. Our results indicate that the recall and new job escape rates from unemployment have quite different time patterns and are often affected in opposite ways by explanatory variables. We also find that the probability of leaving unemployment both through recalls and new job finding increases greatly around the time that UI benefits lapse.",
+ "tittel": "Unemployment Insurance, Recall Expectations, and Unemployment Outcomes",
+ "type": "article"
+}

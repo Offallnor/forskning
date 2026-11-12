@@ -1,0 +1,16 @@
+{
+ "apen_url": "https://ebuah.uah.es/dspace/bitstream/10017/62640/1/interplay_arranz_IJM_2014.pdf",
+ "ar": 2014,
+ "doi": "https://doi.org/10.1108/ijm-04-2012-0064",
+ "forfattere": [
+  "José María Arranz Muñoz",
+  "Carlos García Serrano"
+ ],
+ "id": "W1574369453",
+ "kilde": "International Journal of Manpower",
+ "lenke": "https://openalex.org/W1574369453",
+ "oversikt": false,
+ "sammendrag": "Purpose – Using a Spanish administrative data set, the authors document the importance of recalls in labour market transitions. The authors focus on two issues: the interplay between the unemployment compensation system, the widespread use of fixed-term contracts and the layoff-rehire process; and the use of implicit contracts and, hence, the existence of cross-subsidisation between industries and firms within unemployment insurance. The purpose of this paper is to estimate a duration model with competing risks of exits in order to investigate the individual, job and firm attributes that influence the probabilities of leaving unemployment to return to the same employer or to find a new job. The findings indicate that recalls are very common and that, although they are widespread among the labour market, there are certain types of contract, firms and sectors which are more prone to use them. Design/methodology/approach – The authors estimate a duration model with competing risks of exits in order to investigate the individual, job and firm attributes that influence the probabilities of leaving unemployment to return to the same employer or to find a new job with a different employer. Findings – The findings indicate that recalls are very common and that, although they are widespread along the Spanish labour market, there are certain types of contract, firms and sectors which are more prone to use them. Practical implications – Overall, the results suggest that there is room for the reform of the way the UCS is financed, in combination with changes in other labour market institutions. Originality/value – The contribution of this paper is twofold. First, it documents the importance of rehirings in labour market transitions, in general, and in compensated unemployment, in particular, highlighting the use of different types of contract (in particular, temporary ones) and using a large data set for Spain. Second, it examines the interplay between the unemployment compensation system, the use of temporary contracts and the layoff-rehire process, focusing its attention on the likely cross-subsidisation of firms and sectors with respect to unemployment benefits . This constitutes a relevant research and policy issue since it has to do with the design of the unemployment compensation system.",
+ "tittel": "The interplay of the unemployment compensation system, fixed-term contracts and rehirings",
+ "type": "article"
+}

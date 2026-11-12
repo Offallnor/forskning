@@ -1,0 +1,16 @@
+{
+ "apen_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/ecin.12175",
+ "ar": 2014,
+ "doi": "https://doi.org/10.1111/ecin.12175",
+ "forfattere": [
+  "Raquel Carrasco",
+  "José Ignacio García Pérez"
+ ],
+ "id": "W2056562389",
+ "kilde": "Economic Inquiry",
+ "lenke": "https://openalex.org/W2056562389",
+ "oversikt": false,
+ "sammendrag": "This article studies whether the durations in unemployment and employment for immigrants and natives respond differently to changes in economic conditions and to the receipt of unemployment benefits. Using Spanish administrative data for the period 2000–2011, we estimate multi‐spell duration models that disentangle unobserved heterogeneity from true duration dependence. Our findings suggest that immigrants are more sensitive to changes in economic conditions both in terms of unemployment and employment hazards. The effect of the business cycle is not constant but decreases with duration at a higher rate among immigrants. We provide evidence that the higher job separation rates and lower capital‐labor complementarity of immigrants are mechanisms that are possibly compatible with these results. We also find evidence of a disincentive effect of unemployment benefits on unemployment duration, which is stronger for immigrants, but only at the beginning of the unemployment spell, especially under good economic conditions. Finally, unemployment benefits increase job match quality only for native workers with temporary contracts. (JELJ64, J61, C23, C41, J65)",
+ "tittel": "EMPLOYMENT DYNAMICS OF IMMIGRANTS VERSUS NATIVES: EVIDENCE FROM THE BOOM‐BUST PERIOD IN SPAIN, 2000–2011",
+ "type": "article"
+}

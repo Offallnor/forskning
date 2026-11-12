@@ -1,0 +1,20 @@
+{
+ "apen_url": "https://doi.org/10.1111/ecca.70041",
+ "ar": 2026,
+ "doi": "https://doi.org/10.1111/ecca.70041",
+ "forfattere": [
+  "Duncan Hobbs",
+  "Michael R. Strain"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "https://docs.iza.org/dp16924.pdf",
+ "hvordan": "pdf",
+ "id": "W7151383463",
+ "kilde": "Economica",
+ "lenke": "https://openalex.org/W7151383463",
+ "merknad": "ÅPEN VERSJON (preprint eller arbeidsnotat), merkes i svaret",
+ "oversikt": false,
+ "sammendrag": "Abstract In June 2020, Idaho announced the Return to Work Bonus (RWB) programme, which provided residents who returned to work with bonuses of up to $1500. We present difference‐in‐differences, triple differences, event studies and synthetic control estimates suggesting that the programme may have supported employment and workforce participation following its enactment. For example, from difference‐in‐differences estimates, we find that the employment–population ratio rose by 3.6 percentage points, the unemployment rate fell by 0.7 percentage points, and the non‐participation rate fell by 2.9 percentage points in Idaho relative to other states following the introduction of the RWB programme. If these results from Idaho were to generalize to the economy as a whole, then they would not be enough to arrest a moderate recession, but they would meaningfully accelerate labour market recovery. To the best of our knowledge, this is the first paper to study the effects of re‐employment bonuses on the US labour market outside an experimental setting.",
+ "tittel": "Do re‐employment bonuses increase employment? Evidence from the Idaho Return to Work Bonus programme",
+ "type": "article"
+}

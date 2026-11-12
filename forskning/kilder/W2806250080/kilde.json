@@ -1,0 +1,22 @@
+{
+ "apen_url": "https://bmcpublichealth.biomedcentral.com/counter/pdf/10.1186/s12889-018-5551-1",
+ "ar": 2018,
+ "doi": "https://doi.org/10.1186/s12889-018-5551-1",
+ "forfattere": [
+  "Arnhild Myhr",
+  "Tommy Haugan",
+  "Monica Lillefjell",
+  "Thomas Halvorsen"
+ ],
+ "hentet": "2026-11-09",
+ "hentet_fra": "https://bmcpublichealth.biomedcentral.com/counter/pdf/10.1186/s12889-018-5551-1",
+ "hvordan": "pdf",
+ "id": "W2806250080",
+ "kilde": "BMC Public Health",
+ "lenke": "https://openalex.org/W2806250080",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "BACKGROUND: School non-completion and early work disability is a great public health challenge in Norway, as in most western countries. This study aims to investigate how medically based disability pension (DP) among young adults varies geographically and how municipal socioeconomic conditions interact with non-completion of secondary education in determining DP risk. METHODS: The study includes a nationally representative sample of 30% of all Norwegians (N = 350,699) aged 21-40 in 2010 from Statistic Norway's population registries. Multilevel models incorporating factors at the individual, neighbourhood and municipal levels were applied to estimate the neighbourhood and municipality general contextual effects in DP receipt, and detect possible differences in the impact of municipal socioeconomic conditions on DP risk between completers and non-completers of secondary education. RESULTS: A pattern of spatial clustering at the neighbourhood (ICC = 0.124) and municipality (ICC = 0.021) levels are clearly evident, indicating that the underlying causes of DP receipt have a systematic neighbourhood and municipality variation in Norway. Non-completion of secondary education is strongly correlated with DP receipt among those younger than 40. Socioeconomic characteristics of the municipality are also significantly correlated with DP risk, but these associations are conditioned by the completion of secondary education. Living in a socioeconomically advantageous municipality (i.e. high income, high education levels and low unemployment and social security payment rates) is associated with a higher risk of DP, but only among those who do not complete their secondary education. Although the proportion of DPs was equal in rural and urban areas, it is evident that young people living in urban settings are more at risk of early DP than their counterparts living in rural parts of the country when controlling for other risk factors. CONCLUSION: The association between school non-completion and DP risk varies between municipalities and local socioeconomic environments. The interplay between personal characteristics and the local community is important in DP risk among young adults, implying that preventive measures should be directed not only at the individual level, but also include the educational system and the local community.",
+ "tittel": "Non-completion of secondary education and early disability in Norway: geographic patterns, individual and community risks",
+ "type": "article"
+}

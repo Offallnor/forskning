@@ -1,0 +1,765 @@
+id	bakover	forover	uttrykk	ar	oversikt	siteringer	persentil	sammendrag	allerede_kandidat	tittel	kilde
+W2053984190	27	0	osha;regulatory enforcement;inspections	1993	False	228	0.26891991	True	True	Does Regulatory Enforcement Work? A Panel Analysis of OSHA Enforcement	Law & Society Review
+W2130311540	19	0	osha	1990	False	186	0.99371916	False	True	OSHA enforcement and workplace injuries: A behavioral approach to risk assessment	Journal of Risk and Uncertainty
+W2130514831	18	0	osha	1979	False	235	0.98082192	True	True	The Impact of Occupational Safety and Health Regulation	The Bell Journal of Economics
+W2067340145	17	0	osha	1985	False	214	0.99478563	False	True	Direct and Indirect Effects of Regulation: A New Look at OSHA's Impact	The Journal of Law and Economics
+W1969015590	17	0	osha	1996	False	160	0.78178694	True	True	If OSHA is So Bad, Why is Compliance So Good?	The RAND Journal of Economics
+W1501215901	15	0	osha;inspections	1979	False	111	0.86353244	True	True	The Impact of OSHA Inspections on Manufacturing Injury Rates	The Journal of Human Resources
+W2266777162	14	0	osha	1986	False	138	0.96785317	True	True	The Impact of Occupational Safety and Health Regulation, 1973-1983	The RAND Journal of Economics
+W2186484541	9	4	inspectorate;regulatory enforcement	2015	True	69	0.44245845	True	True	Systematic review of qualitative literature on occupational health and safety legislation and regulatory enforcement planning and implementation	Scandinavian Journal of Work Environment & Health
+W1580749280	13	0	osha;inspections	1991	False	68	0.89285413	True	True	Reestimating Osha's Effects: Have the Data Changed?	The Journal of Human Resources
+W1558684337	12	0		1991	False	76	0.81232599	True	True	Longitudinal Patterns of Compliance with Occupational Safety and Health Administration Health and Safety Regulations in the Manufacturing Sector	The Journal of Human Resources
+W3207169471	0	12	labour inspection;inspections	2021	False	37	0.92354495	False	True	Occupational Health & Safety and other worker wellbeing areas: Results from labour inspections in the Bangladesh textile industry	Safety Science
+W2033149042	11	0	osha;inspections	1991	False	47	0.82498102	True	True	Are Osha Health Inspections Effective? A Longitudinal Study in the Manufacturing Sector	The Review of Economics and Statistics
+W3023039240	0	11	safety inspection;inspectorate;inspections	2020	False	44	0.90240838	True	True	A Decision Support Model for Prioritization of Regulated Safety Inspections Using Integrated Delphi, AHP and Double-Hierarchical TOPSIS Approach	IEEE Access
+W2990026728	8	3	labour inspection;inspections	2019	False	23	0.83642109	True	True	Effectiveness of the Labour Inspection Authority’s regulatory tools for work environment and employee health: study protocol for a cluster-randomised controlled trial among Norwegian home-care workers	BMJ Open
+W4304997611	0	10		2022	False	15	0.85859762	False	True	Relationship between the territorial distribution of labor inspectors and work accident injuries: Clustering Ecuadorian provinces into four management scenarios	Safety Science
+W2007935504	8	1		2006	True	633	0.65785609	False	True	The effectiveness of occupational health and safety management system interventions: A systematic review	Safety Science
+W1543952162	9	0		1992	False	82	0.85781055	True	True	The Impact of Occupational Safety and Health Regulation on the Risk of Workplace Accidents: Quebec, 1983-87	The Journal of Human Resources
+W1515382997	9	0	osha	1983	False	73	0.93346761	True	True	An Assessment of Osha's Recent Effects on Injury Rates	The Journal of Human Resources
+W4220871181	3	6		2022	False	26	0.92142556	False	True	Safety regulation enforcement and production safety: The role of penalties and voluntary safety management systems	International Journal of Production Economics
+W3164073599	0	9	safety inspection;inspectorate;regulatory enforcement;inspections	2021	False	3	0.53213061	True	True	A Novel Macro and Micro Scheduling Model for Regulated Safety Inspections Based on Probability Integral Transform and Modified Bin Packing Algorithm	IEEE Access
+W2078073107	8	0		1980	False	125		True	True	Book Review: Income Security, Insurance, and Benefits: Regulating Safety: An Economic and Political Analysis of Occupational Safety and Health Policy	Industrial and Labor Relations Review
+W2890525934	8	0	osha;inspections	1990	False	51		True	True	Are OSHA Health Inspections Effective? A Longitudinal Study in the Manufacturing Sector	National Bureau of Economic Research
+W2079878839	2	6	inspections	2014	False	29	0.90769602	True	True	Environmental Enforcement and Compliance: Lessons from Pollution, Safety, and Tax Settings	Foundations and Trends® in Microeconomics
+W4210288682	0	8		2022	False	3	0.62848107	True	True	The Impact of a State-Based Workers’ Compensation Insurer’s Risk Control Services on Employer Claim Frequency and Cost Rates	Journal of Occupational and Environmental Medicine
+W2774033998	0	7		2017	False	112	0.98734911	True	True	Occupation and Risk for Injuries	World Bank, Washington, DC eBooks
+W2011866049	7	0	osha	1981	False	60	0.97709924	False	True	OSHA, Plant Safety Programs, and Injury Reduction	Industrial Relations A Journal of Economy and Society
+W2024551111	7	0		2001	False	45	0.9474686	True	True	Effect of State Workplace Safety Laws on Occupational Injury Rates	Journal of Occupational and Environmental Medicine
+W134880977	0	7		2014	False	37	0.93510782	False	True	Regulating Occupational and Product Risks	Handbook of risk and uncertainty
+W4210670037	5	2	labour inspection;inspections	2022	False	34	0.97277957	True	True	The Impact of Business Leaders’ Formal Health and Safety Training on the Establishment of Robust Occupational Safety and Health Management Systems: Three Studies Based on Data from Labour Inspections	International Journal of Environmental Research and Public Health
+W4289959829	0	7	workplace inspection;inspections	2022	False	1	0.49545024	True	True	Design, development and utility validation of TIPA: a tool for inspection performance assessment	International Journal of Occupational Safety and Ergonomics
+W2189821821	6	0		1968	False	14122	0.99729444	False	True	Crime and Punishment: An Economic Approach	Journal of Political Economy
+W2104880015	6	0		1997	False	3281	0.99705717	False	True	Risk management in a dynamic society: a modelling problem	Safety Science
+W2073471108	6	0		1969	False	2598	0.97315436	True	True	A Theory for Record Linkage	Journal of the American Statistical Association
+W3125526623	6	0		2003	False	2152	0.99986647	False	True	The Value of a Statistical Life: A Critical Review of Market Estimates Throughout the World	Journal of Risk and Uncertainty
+W2103328235	6	0		2002	False	613	0.9941542	True	True	Occupational Injury and Illness Surveillance: Conceptual Filters Explain Underreporting	American Journal of Public Health
+W2005912146	4	2		2010	False	104	0.93930022	False	True	OHS inspectors and psychosocial risk factors: Evidence from Australia	Safety Science
+W2326687274	6	0	osha;inspections	1997	False	100	0.98070988	True	True	Can Government Facilitate Cooperation? An Informational Model of OSHA Enforcement	American Journal of Political Science
+W4388588294	0	6		2023	False	78	0.99836768	False	True	A longitudinal study on the impact of occupational health and safety practices on employee productivity	Safety Science
+W2011232596	6	0	osha	2003	False	51	0.96688568	True	True	Work‐related falls among union carpenters in Washington State before and after the Vertical Fall Arrest Standard	American Journal of Industrial Medicine
+W2101549174	6	0	inspections	2005	False	51	0.84094145	True	True	Prevention of work related eye injuries: long term assessment of the effectiveness of a multicomponent intervention among metal workers	Occupational and Environmental Medicine
+W2144208646	6	0		2007	False	44		True	True	Interventions for preventing injuries in the construction industry	Cochrane Database of Systematic Reviews
+W2022346490	6	0	osha;inspections	1988	False	42	0.98252427	False	True	The effect of OSHA records-check inspections on reported occupational injuries in manufacturing establishments	Journal of Risk and Uncertainty
+W4309564623	0	6		2022	False	42	0.97488424	True	True	Estimating the financial benefits of employers’ occupational health and safety expenditures	Safety Science
+W3122046627	4	2	osha;inspections	2013	False	20	0.87286042	False	True	The determinants of federal and state enforcement of workplace safety regulations: OSHA inspections 1990–2010	Journal of Regulatory Economics
+W1597838300	2	4		2003	False	10		True	True	From Fiction to Fact - Rethinking OHS Enforcement	ANU Open Research (Australian National University)
+W4223487952	2	4		2022	True	7	0.68573116	True	True	PROTOCOL: Occupational health and safety regulatory interventions to improve the work environment: An evidence and gap map of effectiveness studies	Campbell Systematic Reviews
+W2732499694	0	6		2017	False	6	0.8848655	True	True	Workers' compensation loss prevention representative contact and risk of lost-time injury in construction policyholders	Journal of Safety Research
+W7151940835	0	6		2026	False	1	0.92206964	True	True	OSH inspector ratio to strengthen decent workplace safety and health: a cross-regional trend analysis research	Frontiers in Public Health
+W3160304122	0	6	inspections	2021	False	0	0.07247735	True	True	Compliance in Occupational Safety and Health	Cambridge University Press eBooks
+W7119469782	0	6		2026	False	0	0.0159967	False	True	Labor law and workplace injuries	World Development
+W7204835530	0	6		2026	True	0	0.45018647	True	True	New directions for healthy working environments (HWE) policy: A qualitative systematic review of attempts to reframe occupational safety and health (OSH)	Open Research Europe
+W2118278760	5	0		2001	False	150		False	True	Guide to evaluating the effectiveness of strategies for preventing work injuries: how to show whether a safety intervention really works.	
+W2972394259	3	2		2019	True	150	0.98761999	False	True	Management of legal compliance in occupational health and safety. A literature review	Safety Science
+W3148758544	5	0		2007	False	133	0.91341991	True	True	The Craft of Bureaucratic Neutrality	Cambridge University Press eBooks
+W2120559694	5	0		2008	True	126	1.0	False	False	The Effectiveness of Interventions for Preventing Injuries in the Construction Industry	American Journal of Preventive Medicine
+W2106731613	3	2	labour inspection;inspectorate	2008	False	110	0.99099053	True	True	A strategic approach to labour inspection	International Labour Review
+W19011966	5	0		1998	False	95	0.92148931	True	True	Occupational injury and illness rates, 1992-96: why they fell	Monthly labor review
+W1980246091	5	0	osha;inspections	1991	False	89	0.18368219	True	True	Analyzing the Equity and Efficiency of OSHA Enforcement	Law & Policy
+W2476303289	5	0		2011	False	87	0.98058252	True	True	Regulating Workplace Risks	Edward Elgar Publishing eBooks
+W3000164803	1	4		2020	False	65	0.97561592	True	True	The Tension Between Worker Safety and Organization Survival	Management Science
+W3011488674	1	4	osha	2020	False	58	0.95649571	True	True	The Occupational Safety and Health Administration at 50: Protecting Workers in a Changing Economy	American Journal of Public Health
+W2108468472	3	2		2014	False	57	0.9561381	False	True	Working environment interventions – Bridging the gap between policy instruments and practice	Safety Science
+W2055262063	5	0	osha;inspections	1997	False	42	0.91805463	True	True	Falls in construction: Injury rates for OSHA-inspected employers before and after citation for violating the Washington state fall protection standard	American Journal of Industrial Medicine
+W2107340842	5	0		2007	False	35	0.96647452	False	True	Impact of federal compliance reviews of trucking companies in reducing highway truck crashes	Accident Analysis & Prevention
+W569973593	5	0	inspectorate;inspections	2006	False	34	0.74925925	True	True	The inspector’s dilemma under regulated self-regulation	Policy and Practice in Health and Safety
+W2195963677	0	5		2015	False	25	0.96730038	False	True	Plan, Do, Check, Act: The need for independent audit of the internal responsibility system in occupational health and safety	Safety Science
+W2072025284	3	2		2012	False	23	0.90455774	False	True	Testing the effects of self-regulation on industrial accidents	Journal of Regulatory Economics
+W2035391705	4	1		2008	False	22	0.94072464	True	False	The Effect of Occupational Safety Legislation in Preventing Accidents at Work: Traditional versus Advanced Manufacturing Industries	Environment and Planning C Government and Policy
+W1522490294	1	4	osha;msha	2014	False	19	0.90068984	True	True	Interpreting MSHA Citations Through the Lens of Occupational Health and Safety Management Systems: Investigating Their Impact on Mine Injuries and Illnesses 2003–2010	Risk Analysis
+W148571668	5	0	inspections	2015	False	18	0.90271201	True	True	Psychosocial working environment	Nordic Council of Ministers eBooks
+W2036035146	5	0	osha;inspections	1995	False	18	0.94494585	True	True	Self-Correction versus Persistence of Establishment Injury Rates	Journal of Risk & Insurance
+W171109699	5	0	inspectorate	2009	False	16	0.67045214	True	True	Occupational Unity or Diversity in a Changing Work Context? The Case of Swedish Labour Inspectors	Policy and Practice in Health and Safety
+W2525441720	1	4	inspections	2016	False	16	0.91705993	True	True	A comparison of inspection practices within the construction industry between the Danish and Swedish Work Environment Authorities	Construction Management and Economics
+W2042824535	3	2		2013	False	14	0.31632653	True	True	Prevention of falls to a lower level: evaluation of an occupational health and safety intervention via subsidies for the replacement of scaffolding	International Journal of Injury Control and Safety Promotion
+W2809368031	0	5	osha;inspections	2018	False	12	0.85273233	True	True	An overview and impact assessment of OSHA large dairy local emphasis programs in New York and Wisconsin	American Journal of Industrial Medicine
+W1971393788	0	5	osha;inspections	2012	False	7	0.66560104	True	True	OSHA does not kill jobs; It helps prevent jobs from killing workers	American Journal of Industrial Medicine
+W3207955949	0	5		2021	False	7		False	True	Complaint-driven Regulation and Working Conditions: Evidence from Immigration Enforcement	SSRN Electronic Journal
+W2178947237	0	5	osha;inspections	2015	False	5	0.76227037	True	True	Impact of preparing for OSHA local emphasis program inspections of New York dairy farms: Case studies and financial cost analysis	American Journal of Industrial Medicine
+W1500396183	0	5		2012	False	3		True	True	Occupational safety and health regulation and legislation enforcement tools for preventing occupational diseases and injuries	Cochrane Database of Systematic Reviews
+W2996884579	0	5		2020	False	3	0.72331567	True	True	Selecting and Evaluating Case Studies of the Economic Benefits of Research and Services at the National Institute for Occupational Safety and Health: Case Studies on Personal Dust Monitors for Coal Miners, Improved Ambulance Design, and Amputation Surveillance	RAND Corporation eBooks
+W4410355730	1	4	inspections	2025	False	1		False	True	Preannounced Regulatory Inspections: FDA Oversight and Drug Quality Risk	SSRN Electronic Journal
+W2484932685	0	5		2015	False	0	0.24417487	False	True	13. Workers’ Compensation and Work as an Economic Activity	American Public Health Association eBooks
+W3087256460	0	5	inspections	2020	False	0		True	True	The effect of occupational health and safety regulator intervention on the Australian Army	Griffith Research Online
+W4416303063	0	5	osha	2025	False	0		False	True	Equal Penalties for Equal Violations? Analyzing OSHA's Penalties Across Industries	SSRN Electronic Journal
+W7120887576	0	5		2023	False	0		True	True	Avaliação de resultado regulatório dos normativos de segurança e saúde no trabalho no Brasil	LA Referencia (Red Federada de Repositorios Institucionales de Publicaciones Científicas)
+W1584858319	4	0	osha	1987	False	493	0.9551529	True	True	The Cost of Regulation: OSHA, EPA and the Productivity Slowdown.	American Economic Review
+W1985757851	4	0		2004	False	240	0.98846596	True	True	An Estimate of the U.S. Government’s Undercount of Nonfatal Occupational Injuries	Journal of Occupational and Environmental Medicine
+W1984892390	4	0		2009	True	191	0.875	False	True	A systematic review of safety violations in industry	Accident Analysis & Prevention
+W2001501699	4	0	osha;regulatory enforcement;inspections	1991	False	180	0.96784661	True	True	Enforcing OSHA: The Role of Labor Unions	Industrial Relations A Journal of Economy and Society
+W2071952377	4	0		1999	False	133	0.95745859	False	True	Methodological criteria for evaluating occupational safety intervention research	Safety Science
+W2080784876	4	0		1991	False	131	0.97807018	True	True	Workers' Compensation and Occupational Injuries and Illnesses	Journal of Labor Economics
+W2089272637	4	0		2011	False	96	0.98954188	False	True	Realistic evaluation as a new way to design and evaluate occupational safety interventions	Safety Science
+W2082223503	4	0		2011	False	86	0.92605932	False	True	‘Management Standards’ and work-related stress in Great Britain: Progress on their implementation	Safety Science
+W2961299141	2	2		2017	False	79	0.97517455	False	False	Assessing the Quality of Quality Assessment: The Role of Scheduling	Management Science
+W2527455713	4	0		2016	False	65	0.96876369	True	True	The Wicked Character of Psychosocial Risks: Implications for Regulation	Nordic Journal of Working Life Studies
+W2331415967	4	0		2013	False	62	0.95134771	True	True	Effects of Occupational Role Conflict and Emotional Demands on Subsequent Psychological Distress	Journal of Occupational and Environmental Medicine
+W2794504103	2	2		2018	True	58	0.75757576	True	False	Interventions to prevent injuries in construction workers	Cochrane Database of Systematic Reviews
+W2329928282	4	0	osha	1986	False	57	0.85934372	True	True	Safety Regulation and Workplace Injuries	Southern Economic Journal
+W1997331554	4	0		2010	False	56	0.9177939	False	True	New tools and strategies for the inspection of the psychosocial working environment: The experience of the Danish Working Environment Authority	Safety Science
+W1978390146	1	3		2010	False	48	0.98244284	True	True	The Economics of Occupational Safety and Health	Foundations and Trends® in Microeconomics
+W1998132869	0	4		2013	False	48	0.96012475	False	True	Safety activities in small businesses	Safety Science
+W2159121491	0	4	safety inspection;inspections	2015	False	47	0.95795763	False	True	Safety inspections in construction sites: A systems thinking perspective	Accident Analysis & Prevention
+W2073856720	4	0		2010	False	45	0.84039755	False	True	Why it was so difficult to develop new methods to inspect work organization and psychosocial risks in Sweden	Safety Science
+W4301937336	4	0		1995	False	41	1.0	False	True	Simulating Workplace Safety Policy	Studies in risk and uncertainty
+W2982105655	1	3		2021	False	37	0.90024549	True	True	Demand Conditions and Worker Safety: Evidence from Price Shocks in Mining	Journal of Labor Economics
+W1572260292	3	1		2012	False	36	0.97893389	True	False	States with low non‐fatal injury rates have high fatality rates and vice‐versa	American Journal of Industrial Medicine
+W2131121398	3	1	msha	2010	False	34	0.87806695	True	True	An Impact Evaluation of a Federal Mine Safety Training Regulation on Injury Rates Among US Stone, Sand, and Gravel Mine Workers: An Interrupted Time-Series Analysis	American Journal of Public Health
+W2228858938	1	3		2016	False	31	0.93756514	True	True	Economic consequences of workplace injuries in the United States: Findings from the National Longitudinal Survey of Youth (NLSY79)	American Journal of Industrial Medicine
+W2004771203	4	0	inspections	2007	False	24	0.95535714	True	True	Effects of the Occupational Safety and Health Administration’s control of hazardous energy (lockout/tagout) standard on rates of machinery-related fatal occupational injury	Injury Prevention
+W2065316437	4	0	safety inspection;inspections	1985	False	24	0.93873704	True	True	Government regulation of occupational safety: underground coal mine accidents 1973-75.	American Journal of Public Health
+W4288450874	0	4		2020	False	20	0.89488313	False	True	Legal Protection Against Retaliatory Firing Improves Workplace Safety	The Review of Economics and Statistics
+W4402308224	0	4		2024	False	20	0.9785926	True	True	Improving work-related psychosocial risk management: A mixed methods evaluation of the factors influencing inspectors’ practice	Safety Science
+W2021618059	4	0	osha;inspections	1984	False	17	0.90060852	True	True	The Role of OSHA Violations in Serious Workplace Accidents	Journal of Occupational and Environmental Medicine
+W1556441495	3	1	workplace inspection;inspections	2004	False	14	0.75985651	True	True	Evaluating workplace inspections	Policy and Practice in Health and Safety
+W2917563246	2	2	inspectorate	2019	False	12	0.8017539	False	True	The impact of occupational accidents and gross domestic product on the sanctions imposed by the Greek OSH Inspectorate	Safety Science
+W2037987969	3	1		2012	False	11	0.94704376	False	False	Evaluation of the effectiveness of occupational injury prevention programs at the company level	Safety Science
+W4406932219	0	4		2025	False	10		False	True	Conceptualising Work-Related Psychosocial Risks: Current State Of The Art And Implications For Research, Policy And Practice	SSRN Electronic Journal
+W2580135157	1	3		2017	False	6	0.84060064	False	True	Do extralegal variables impact the post-inspection process of the occupational safety and health administration?	Crime Law and Social Change
+W3212849953	0	4		2021	False	6	0.72135302	True	True	How regulations undervalue occupational fatalities	Regulation & Governance
+W3203945921	0	4		2021	False	6		True	True	When Labor Enforcement and Immigration Enforcement Collide: Deterring Worker Complaints Worsens Workplace Safety	
+W4224089383	0	4	inspections	2022	False	5	0.75670795	True	True	Regulation Enforcement	Journal of Labor Research
+W4391423257	0	4		2024	False	4	0.97201767	False	True	Putting Worker Safety at the Heart of Supply Chain Management	Springer eBooks
+W2168655038	0	4		2014	False	3	0.89996982	True	True	Putting Data to Work for Workers: The Role of Information Technology in U.S. Worker Protection Agencies	Industrial and Labor Relations Review
+W4312176707	0	4		2022	False	3	0.66935203	True	True	İş Sağlığı ve Güvenliği Teftişleri İş Kazalarını Azaltıyor mu?	Sosyal Güvenlik Dergisi
+W2949694780	0	4		2019	False	2		True	True	Factors Influencing Safety Performance Among Industrial Manufacturing Facilities in Louisiana	
+W4362725641	0	4		2023	False	2	0.91948052	False	True	Putting Worker Safety at the Heart of Supply Chain Management	Springer eBooks
+W2921009950	0	4		2018	True	1		True	True	Speaking of safety	
+W4417499275	0	4		2025	False	0	0.34137899	True	False	Credit-frequency compliance paradox and dual-track hazard evolution in urban occupational health	Frontiers in Public Health
+W7214130008	0	4		2025	False	0		True	True	Avaliação ergonômica preliminar : proposta de sistemática participativa para implementação em construções verticais	Lume (Universidade Federal do Rio Grande do Sul)
+W2016382728	3	0		1997	False	6890	0.99953596	True	False	Regression Models for Categorical and Limited Dependent Variables.	Journal of the American Statistical Association
+W1595833668	3	0		2016	False	4522	1.0	True	True	Managing the Risks of Organizational Accidents	Routledge eBooks
+W2110132657	3	0		2002	False	3355	0.98672884	True	False	Segmented regression analysis of interrupted time series studies in medication use research	Journal of Clinical Pharmacy and Therapeutics
+W1594794537	3	0		1999	False	2860		True	False	Logistic Regression Using SAS: Theory and Application	
+W4242198643	3	0		2000	False	1988	0.99557718	True	False	Perceptions of safety at work: A framework for linking safety climate to safety performance, knowledge, and motivation.	Journal of Occupational Health Psychology
+W1987699960	3	0		2009	True	1885	1.0	True	False	Workplace safety: A meta-analysis of the roles of person and situation factors.	Journal of Applied Psychology
+W2056924876	3	0		2005	False	1080	0.99790004	False	False	Contributing factors in construction accidents	Applied Ergonomics
+W1978372683	3	0		2015	False	984	0.99976594	True	True	What’s in a mechanism? Development of a key concept in realist evaluation	Implementation Science
+W2058723611	3	0		1995	True	961	0.89130435	True	True	Best evidence synthesis: An intelligent alternative to meta-analysis	Journal of Clinical Epidemiology
+W2106086255	3	0		2011	False	646	0.99849229	True	True	Economic Burden of Occupational Injury and Illness in the United States	Milbank Quarterly
+W2024950347	3	0		2002	False	577	0.99873418	True	False	Modifying supervisory practices to improve subunit safety: A leadership-based intervention model.	Journal of Applied Psychology
+W4388061510	3	0		1992	False	506	0.99793644	True	True	Fatal Tradeoffs	
+W2108628492	2	1		2010	False	427	0.99731983	True	True	Making Self-Regulation More Than Merely Symbolic: The Critical Role of the Legal Environment	Administrative Science Quarterly
+W2007924855	3	0		2005	False	393	0.98093448	False	False	Regulator reputation, enforcement, and environmental compliance	Journal of Environmental Economics and Management
+W1994966507	3	0		2010	False	381	0.99671593	False	True	Improving construction site safety through leader-based verbal safety communication	Journal of Safety Research
+W2144480207	2	1		2014	True	350	0.91116573	True	False	Effects of organisational-level interventions at work on employees’ health: a systematic review	BMC Public Health
+W3124690645	2	1		2012	False	319	0.86030741	False	False	Financing Constraints and Workplace Safety	The Journal of Finance
+W2312200186	3	0		1991	False	279	0.99700982	True	False	Testing an Expected Utility Model of Corporate Deterrence	Law & Society Review
+W1977791232	3	0		1980	False	252		True	True	Book Review: Labor Market: Employment Hazards: An Investigation of Market Performance	Industrial and Labor Relations Review
+W2124641308	2	1		2005	False	245	0.99718045	True	True	General Deterrence and Corporate Environmental Behavior*	Law & Policy
+W2090627137	3	0		2009	False	244	0.99588185	False	False	Evaluating safety management and culture interventions to improve safety: Effective intervention strategies	Safety Science
+W2082645742	3	0		1985	False	176	1.0	True	False	Workers' Compensation Insurance, Experience-Rating, and Occupational Injuries	The RAND Journal of Economics
+W2170097351	3	0		2015	True	165	0.80025086	True	True	An Evaluation of the Policy Context on Psychosocial Risks and Mental Health in the Workplace in the European Union: Achievements, Challenges, and the Future	BioMed Research International
+W2575074141	3	0		2017	False	156	0.99275791	True	False	The differing impacts of operational and financial slack on occupational safety in varying market conditions	Journal of Operations Management
+W2153226840	3	0		2013	False	154	0.99758721	True	True	Work-related psychosocial and mechanical risk factors for low back pain: a 3-year follow-up study of the general working population in Norway	Occupational and Environmental Medicine
+W3166540360	1	2		2021	False	154	0.99745085	True	True	Financial misconduct and employee mistreatment: Evidence from wage theft	Review of Accounting Studies
+W2004976078	3	0		2015	False	152	0.99706681	True	False	Are safety and operational effectiveness contradictory requirements: The roles of routines and relational coordination	Journal of Operations Management
+W2884479637	1	2		2020	False	149	0.99510245	True	False	Escalation of Scrutiny: The Gains from Dynamic Enforcement of Environmental Regulations	American Economic Review
+W2037555161	3	0		2007	False	135	0.98723831	True	True	Developing criteria for healthy organizational change	Work & Stress
+W1998439233	3	0		2014	False	128	0.9653384	False	True	Is psychosocial risk prevention possible? Deconstructing common presumptions	Safety Science
+W2911236308	1	2		2019	False	128	0.99359273	True	False	Consideration of psychosocial factors in workplace risk assessments: findings from a company survey in Germany	International Archives of Occupational and Environmental Health
+W2093346602	3	0		2010	False	127	0.97443235	False	True	The role of policy for the management of psychosocial risks at the workplace in the European Union	Safety Science
+W2117851769	2	1	osha;inspections	2005	False	126	0.9887218	True	True	When and Why do Plants Comply? Paper Mills in the 1980s*	Law & Policy
+W1822523935	3	0		2015	False	107	0.9823773	True	True	Occupational health of home care aides: results of the safe home care survey	Occupational and Environmental Medicine
+W2069288044	3	0		2000	False	86	0.98368607	False	False	Prevention of falls in the construction industry	American Journal of Preventive Medicine
+W2054367464	3	0		2013	False	79	0.94351707	True	True	Psychosocial Risks: Is Risk Management Strategic Enough in Business and Policy Making?	Safety and Health at Work
+W3124295901	3	0		2010	False	79	0.98735567	True	False	Immigrant Status and the Value of Statistical Life	The Journal of Human Resources
+W2124006754	3	0		2004	False	78	0.88067278	True	False	Do Drug‐Free Workplace Programs Prevent Occupational Injuries? Evidence from Washington State	Health Services Research
+W2995890382	1	2		2019	True	72	0.64531487	True	True	Evidence-based occupational health and safety interventions: a comprehensive overview of reviews	BMJ Open
+W2099683992	3	0	osha	1998	False	70	0.99610852	True	True	The case for stronger OSHA enforcement--evidence from evaluation research.	American Journal of Public Health
+W2292867734	2	1		2016	False	69	0.98525248	False	False	Occupational accidents and the economic cycle in Spain 1994–2014	Safety Science
+W2042231723	3	0		2012	False	66	0.89937296	True	True	Occupational Safety and Health in Europe: Lessons from the Past, Challenges and Opportunities for the Future	Industrial Health
+W2620166918	3	0		2017	False	64	0.98116761	False	True	Work-related musculoskeletal disorders in home care nurses: Study of the main risk factors	International Journal of Industrial Ergonomics
+W2076201686	3	0		2012	False	59	0.83830263	True	True	European Approaches to Work-Related Stress: A Critical Review on Risk Evaluation	Safety and Health at Work
+W1595359296	3	0		1993	False	57	0.9494382	True	False	Workers' Compensation and the Distribution of Occupational Injuries	The Journal of Human Resources
+W1999453108	3	0		1982	False	55	0.97045264	False	False	Safety Regulation and Firm Size: Effects of the Coal Mine Health and Safety Act of 1969	The Journal of Law and Economics
+W1974330408	3	0		2010	False	53	0.98837944	False	True	A new-generation safety contest in the construction industry – A long-term evaluation of a real-life intervention	Safety Science
+W1991694672	3	0		2006	False	53	0.86474063	True	False	Efficacy of the North American Guidelines for Children’s Agricultural Tasks in Reducing Childhood Agricultural Injuries	American Journal of Public Health
+W2104377464	3	0		2010	False	52		False	True	Regulation of psychosocial risk factors at work: An international overview	Safety Science
+W2242533751	3	0		2014	False	44	0.85233303	True	True	The 50/50 Implementation of Sweden’S Mandatory Systematic Work Environment Management	Policy and Practice in Health and Safety
+W2774162371	1	2		2017	False	41	0.93829451	True	True	Workplace safety events and firm performance	Journal of Manufacturing Technology Management
+W2071181356	3	0		2001	False	40	0.7976993	False	False	Enhancing corporate compliance with worksite safety and health legislation	Journal of Safety Research
+W4200021770	3	0		2021	False	39	0.94522667	True	True	Prevalence and Predictors of Home Health Care Workers’ General, Physical, and Mental Health: Findings From the 2014‒2018 Behavioral Risk Factor Surveillance System	American Journal of Public Health
+W1501712024	3	0	inspectorate	2009	False	33	0.85533764	True	True	Australian Health and Safety Inspectors’ Perceptions and Actions in Relation to Changed Work Arrangements	Journal of Industrial Relations
+W2025701824	3	0		1998	False	32	0.98379052	True	True	Simulating Workplace Safety Policy	Journal of Risk & Insurance
+W2023953920	3	0	osha;msha	2002	False	31	0.94125039	True	True	Impact of the OSHA Trench and Excavation Standard on Fatal Injury in the Construction Industry	Journal of Occupational and Environmental Medicine
+W2053759059	1	2	osha	2008	False	30	0.82837853	True	True	Getting Home Safe and Sound: Occupational Safety and Health Administration at 38	American Journal of Public Health
+W4405657864	2	1	labor inspection	2024	False	28	0.98930694	True	True	The Psychosocial Hierarchy of Controls: Effectively Reducing Psychosocial Hazards at Work	American Journal of Industrial Medicine
+W1128804311	3	0	inspectorate	2015	False	26	0.84009326	True	True	The Role of Labour Inspectorates in Tackling the Psychosocial Risks at Work in Europe: Problems and Perspectives	Safety and Health at Work
+W3092911115	0	3		2020	False	25	0.93720842	True	True	The Italian National Surveillance System for Occupational Injuries: Conceptual Framework and Fatal Outcomes, 2002–2016	International Journal of Environmental Research and Public Health
+W3013641361	0	3		2020	True	24	0.51491258	True	True	A scoping review to identify strategies that work to prevent four important occupational diseases	American Journal of Industrial Medicine
+W2804522768	3	0	safety inspection;inspections	2018	False	22	0.93633741	True	True	Tools for Effective Regulation: Is “More” Always “Better”?	European Journal of Risk Regulation
+W2544190796	3	0		2016	False	21	0.96212836	True	True	Occupational safety and health and smaller organisations: research challenges and opportunities	Policy and Practice in Health and Safety
+W2156445482	3	0	osha	2004	False	19	0.84640975	True	True	Long-Term Ethylene Oxide Exposure Trends in US Hospitals: Relationship With OSHA Regulatory and Enforcement Actions	American Journal of Public Health
+W121827531	3	0	inspectorate	1996	False	17	0.0187042	True	True	Prevention of occupational musculo-skeletal injuries. Labour Inspectorate investigation.	PubMed
+W3005463340	2	1		2020	False	17	0.84352965	True	False	Falling outside the system: Occupational safety and health inspectors’ experiences of micro-enterprises in Sweden	Safety Science
+W2473491630	1	2	osha	2016	False	16	0.89948089	False	True	Analysis of the effectiveness of the OSHA steel erection standard in the construction industry	Safety Science
+W2618617961	1	2	regulatory enforcement	2017	True	16	0.88235294	True	True	What Unions Do for Regulation	Annual Review of Law and Social Science
+W2415102658	3	0	labour inspection	2014	False	15	0.80716169	True	True	Labour Inspection Strategies Addressing the Psychosocial Work Environment	Policy and Practice in Health and Safety
+W2800891173	2	1		2018	False	14	0.8654123	True	True	Prévenir les risques psychosociaux : une étude des perceptions et des pratiques des employeurs	Relations industrielles
+W1485151369	3	0	osha;inspections	1989	False	13		True	True	Longitudinal Patterns of Compliance with OSHA Health and Safety Regulations in the Manufacturing Sector	National Bureau of Economic Research
+W4404503628	0	3	osha	2024	False	12	0.94969722	True	True	National occupational safety and health systems: Exploring the underlying networks for future sustainable development	Sustainable Futures
+W4231502725	3	0		2006	False	11		True	True	Interventions for preventing injuries in the construction industry	Cochrane Database of Systematic Reviews
+W4389684591	1	2		2023	False	11	0.90414805	True	True	The Value of Safety Training for Business-to-Business Firms	Journal of Marketing Research
+W2883196643	0	3		2018	False	10	0.79382363	False	True	Workers' compensation insurer risk control systems: Opportunities for public health collaborations	Journal of Safety Research
+W3121956416	1	2		2018	False	9		True	False	Escalation of Scrutiny: The Gains from Dynamic Enforcement of Environmental Regulations	National Bureau of Economic Research
+W2913683099	0	3	safety enforcement;inspections	2019	False	8	0.71069326	True	True	The Occupational Health of Prison Inmates	Journal of Occupational and Environmental Medicine
+W3212436547	0	3		2021	False	8		False	True	Are Newspaper Deserts an Oasis for Leniency? The Effect of Information Dissemination on Regulator Activity	SSRN Electronic Journal
+W4220749821	0	3		2022	False	7	0.75734634	True	True	Measuring the benefits of occupational safety and health research with economic metrics: Insights from the National Institute for Occupational Safety and Health	American Journal of Industrial Medicine
+W4361760518	0	3		2023	False	7	0.81049972	True	True	Réforme du régime de prévention en SST au Québec : analyse critique, sensible au genre et aux autres sources d’inégalités	Relations industrielles
+W4409319059	0	3		2025	False	7		True	False	Non-Wage Amenities	National Bureau of Economic Research
+W4414303941	0	3		2025	False	7	0.99594786	False	False	Non-wage amenities	Handbook of labour economics
+W1572079609	0	3	inspections	2015	False	6	0.8734183	True	True	PRODUCTIVITY, SAFETY, AND REGULATION IN COAL MINING: EVIDENCE FROM DISASTERS AND FATALITIES	
+W2259096293	0	3		2016	False	6	0.892874	False	True	Secondary socialization of andragogical content knowledge: What are the forces at work in an oil and gas safety training conference?	Safety Science
+W4410266078	1	2		2025	False	6	0.92883204	True	False	Enterprise Characteristics Were Associated With Adherence to a Dialog-based Inspection Practice Aimed at Improving Occupational Safety and Health in Denmark	Safety and Health at Work
+W160721862	0	3		2013	False	4	0.73580302	True	True	Inspection Targeting Issues for the California Department of Industrial Relations Division of Occupational Safety and Health	
+W2061878385	0	3		2013	False	4		True	True	Regulating and inspecting working conditions could be good for both workers and business	Journal of Epidemiology & Community Health
+W2888019695	1	2		2018	False	4	0.61390707	True	False	Informer ou prescrire ? Les inspecteurs du travail et le contrôle des risques psychosociaux	Perspectives interdisciplinaires sur le travail et la santé
+W3208846188	1	2	osha	2021	False	4	0.63851642	True	True	Time-Trends of U.S. Occupational Noise Standard Violations by OSHA Region and Industry Type	Journal of Occupational and Environmental Medicine
+W4380344610	0	3	labor inspection;inspectorate;regulatory enforcement	2023	False	4	0.73976036	True	True	Is there a liability of foreignness or foreign privilege in developing nation compliance monitoring?	International Journal of Emerging Markets
+W4378653060	0	3		2023	False	3		True	False	Workers’ Behavior after Safety Regulations: Impact Evaluation of the Spanish Occupational Safety and Health Act	SSRN Electronic Journal
+W2590712055	0	3		2017	False	2	0.80260744	True	False	The regulation of work health and safety	ANU Press eBooks
+W2737444247	0	3		2017	False	2	0.71254221	True	True	A case history introducing the oregon ag seminar series - keys to program and research-to-practice success	Journal of Agromedicine
+W4317039417	0	3	safety inspection;workplace inspection;inspections	2023	False	2	0.66108957	True	True	A comparative study of electronic and pen-paper safety inspections: A mixed method study design for assessing ergonomic parameters	Work
+W4393576141	0	3	labor inspection;workplace inspection;inspections	2024	False	2	0.67449974	True	True	WORKPLACE INSPECTIONS IN TURKEY CONDUCTED WITHIN THE SCOPE OF ILO LABOR INSPECTION CONVENTION	ASYA STUDIES
+W4406852048	0	3		2024	False	2	0.91025853	True	True	The Major Questions Doctrine: Judicial Power and the Prevalence of Policy Drift in the United States	The Forum
+W7126184120	0	3	labor inspection	2026	False	2	0.98327901	True	True	Integrating Preventive (Ex-ante) and Deterrent (Ex-post) Mechanisms in Labor Law Compliance and Enforcement: A Comprehensive Approach for Indonesia	JURNAL ILMIAH GEMA PERENCANA
+W1511045553	0	3	osha	2013	False	1	0.11167649	True	True	The association of the original OSHA chemical hazard communication standard with reductions in acute work injuries/illnesses in private industry and the industrial releases of chemical carcinogens	American Journal of Industrial Medicine
+W2754375805	0	3	inspections	2017	False	1	0.17325714	True	True	Developing a tool for identifying high-risk employers for inspection	Occupational Medicine
+W2964371090	0	3		2018	False	1		False	True	---------- (Effectiveness of Control and Supervision Activities Through the Eyes of Business)	SSRN Electronic Journal
+W3111150504	0	3	osha	2020	False	1		True	True	Grounded theory evaluation of the 29 CFR 1904 OSHA injury and recordkeeping policy : an evaluation of 1904 to capture, measure, and present occupational related injuries as a measure of effective occupational risk control	
+W4410300053	0	3		2025	False	1		False	True	Risk Perception, Dread, and the Value of Statistical Life: Evidence from Occupational Fatalities	SSRN Electronic Journal
+W7163408026	0	3		2026	False	1	0.9490562	True	False	Early Effects of the Serious Accidents Punishment Act on Occupational Health Outcomes in Korea: A Nationwide Difference‐in‐Differences Study (2017–2023)	American Journal of Industrial Medicine
+W2159297257	0	3	osha;regulatory enforcement	2013	False	0	0.25833186	True	True	Enforcing workplace safety regulations with criminal penalties	CSUN ScholarWorks (California State University, Northridge)
+W2919566508	0	3	safety inspection;inspections	2017	False	0	0.33934032	True	True	Optimizing Health and Safety Inspections in Canada	International Journal of Occupational Safety and Health
+W4406737592	0	3	safety inspection;inspections	2025	False	0		False	True	Public Employee Complaints, Whistleblowing, and Regulatory Activity: Evidence from Workplace Safety Inspections	SSRN Electronic Journal
+W4410117475	0	3		2025	False	0		False	False	Non-Wage Amenities *	SSRN Electronic Journal
+W4413279836	0	3		2024	False	0	0.29576816	True	True	Pourquoi la loi protège mal la santé – sécurité : le bruit au travail au Québec ou l’échec de l’autorégulation et du marché	Relations industrielles
+W7128170377	0	3		2026	False	0	0.04204204	True	True	Structural analysis of factors that influence the perception and effectiveness of occupational health and safety policies in the university environment	Heritage and Sustainable Development
+W7135369009	0	3		2026	False	0	0.09970927	True	False	Social Accounting for Work‐Related Injuries: Towards a Sustainable Management of Social Externalities	Corporate Social Responsibility and Environmental Management
+W7166592950	0	3	inspections	2026	False	0	0.40002154	True	True	‘Dead man working’: A place-based approach to occupational safety and health	Journal of Economic Behavior & Organization
+W7196927784	0	3		2026	False	0	0.51378631	True	True	Association between awareness of government notification and ‘negative hepatitis virus test result card’ and implementation of hepatitis B and C screening in Japanese workplaces: a cross-sectional study	BMC Public Health
+W7202377205	0	3		2026	False	0	0.56640625	True	True	One in Three Recorded Accident Precursors Is Classified as Requiring Institutional Corrective Action: A Third-Party Audit of 135 University Hazardous-Chemical Laboratories	ACS Chemical Health & Safety
+W7223470922	0	3		2026	False	0		False	True	From Regulation to Practice: A Multi-Actor Explanatory Model of OHS Management Implementation in Micro and Small Enterprises	SSRN Electronic Journal
+W7224090275	0	3	osha	2026	False	0	0.87033462	True	True	Exploring the Relationship Between Establishment Size and Workplace Injuries: An Analysis of OSHA Data	International Journal of Clinical Research and Medical Sciences
+W2945792041	2	0		2019	False	169622	1.0	True	False	Yaşlı Kadınlarda Üreme Sağlığı	DergiPark (Istanbul University)
+W2911964244	2	0		2001	False	140887	0.99987458	False	False	Random Forests	Machine Learning
+W2093274439	2	0		2008	False	52256	0.99928351	False	False	Research electronic data capture (REDCap)—A metadata-driven methodology and workflow process for providing translational research informatics support	Journal of Biomedical Informatics
+W2107328434	2	0		1986	True	39822	0.99459459	False	False	Meta-analysis in clinical trials	Controlled Clinical Trials
+W2025610165	2	0		1991	False	33674	0.99945833	True	True	Some Tests of Specification for Panel Data: Monte Carlo Evidence and an Application to Employment Equations	The Review of Economic Studies
+W4292528167	2	0		2013	False	33346	0.99998207	True	True	World Medical Association Declaration of Helsinki	JAMA
+W1598602811	2	0		2008	True	25226	1.0	True	False	Cochrane Handbook for Systematic Reviews of Interventions	Wiley eBooks
+W4297918764	2	0		2009	False	14654	1.0	False	False	Introduction to Meta‐Analysis	Wiley eBooks
+W3113269512	2	0		2020	False	9852	1.0	False	False	Difference-in-Differences with multiple time periods	Journal of Econometrics
+W2132917208	2	0		1974	False	9593	0.91194739	True	False	Estimating causal effects of treatments in randomized and nonrandomized studies.	Journal of Educational Psychology
+W2114488753	2	0		1998	False	8480	0.98423423	True	True	The feasibility of creating a checklist for the assessment of the methodological quality both of randomised and non-randomised studies of health care interventions.	Journal of Epidemiology & Community Health
+W2791859701	2	0		2021	False	8360	1.0	False	False	Difference-in-differences with variation in treatment timing	Journal of Econometrics
+W4293229472	2	0		1971	False	8273	0.99670239	False	False	The Theory of Economic Regulation	The Bell Journal of Economics and Management Science
+W4300648631	2	0		1998	False	5290		False	False	Regression Models for Categorical and Limited Dependent Variables	Technometrics
+W3122958054	2	0		2007	False	3766	0.99936578	False	False	Regression discontinuity designs: A guide to practice	Journal of Econometrics
+W3123265974	2	0		2007	False	3693	0.99785952	False	True	Manipulation of the running variable in the regression discontinuity design: A density test	Journal of Econometrics
+W4388316013	2	0		1992	False	2508	0.9869281	True	False	Responsive Regulation	
+W2169521630	2	0		2011	False	2127	0.99974286	True	False	Organizational Learning: From Experience to Knowledge	Organization Science
+W2019842832	2	0		2000	False	1557	0.99955772	True	False	A group-level model of safety climate: Testing the effect of group climate on microaccidents in manufacturing jobs.	Journal of Applied Psychology
+W2120732572	2	0		2013	True	1445	0.99760622	True	False	RAMESES publication standards: realist syntheses	BMC Medicine
+W1479849316	2	0		1992	False	1444	0.97951944	True	False	Economics of regulation and antitrust	
+W2063299125	2	0		1983	False	1310	0.992152	True	False	ON THE ETIOLOGY OF CLIMATES	Personnel Psychology
+W2572798944	2	0		2017	True	926	0.99189966	True	True	Can work make you mentally ill? A systematic meta-review of work-related risk factors for common mental health problems	Occupational and Environmental Medicine
+W2158461960	2	0		2003	False	903	0.99973719	False	False	Safety climate, safety management practice and safety performance in offshore environments	Safety Science
+W2569986058	2	0		1983	False	854	0.9994723	False	False	Going by the Book, the Problem of Regulatory Unreasonableness	Journal of Policy Analysis and Management
+W1521950660	2	0		1984	False	844	0.18793212	False	True	Chapter 22 Panel data	Handbook of econometrics
+W2097730860	2	0		2012	False	785	0.99734289	True	False	Realist synthesis: illustrating the method for implementation research	Implementation Science
+W2105403790	2	0		2002	True	752	0.99859279	True	False	Evidence-based Policy: The Promise of `Realist Synthesis'	Evaluation
+W2830290158	0	2		2009	False	749	0.99955036	False	False	A Qualitative Study	
+W2156812830	2	0		1986	True	712	0.98918919	True	True	Best-Evidence Synthesis: An Alternative to Meta-Analytic and Traditional Reviews	Educational Researcher
+W2086168829	2	0		1999	False	704	0.98969072	False	False	Factors affecting safety performance on construction sites	International Journal of Project Management
+W2119566762	2	0		2003	True	702	0.8	True	True	INTERRUPTED TIME SERIES DESIGNS IN HEALTH TECHNOLOGY ASSESSMENT: LESSONS FROM TWO SYSTEMATIC REVIEWS OF BEHAVIOR CHANGE STRATEGIES	International Journal of Technology Assessment in Health Care
+W2045993027	2	0		2006	False	688	0.99850913	False	False	The nature of safety culture: A survey of the state-of-the-art	Safety Science
+W2884548321	2	0		2018	False	682	0.99818352	True	False	Regression Discontinuity Designs Using Covariates	The Review of Economics and Statistics
+W3198450565	2	0		2021	True	562	0.99474985	True	True	Experiences of frontline healthcare workers and their views about support during COVID-19 and previous pandemics: a systematic review and qualitative meta-synthesis	BMC Health Services Research
+W2794770411	2	0		2018	False	541	0.99707088	True	True	Different ways to estimate treatment effects in randomised controlled trials	Contemporary Clinical Trials Communications
+W2077589521	2	0		2012	False	527	0.99962718	True	False	Is realist evaluation keeping its promise? A review of published empirical studies in the field of health systems research	Evaluation
+W2892129906	2	0		2003	True	521		True	False	The Value of a Statistical Life: A Critical Review of Market Estimates throughout the World	National Bureau of Economic Research
+W2047559216	2	0		2005	False	444	0.99622008	False	False	A framework for understanding the development of organisational safety culture	Safety Science
+W1597255218	2	0		2010	False	440	0.99940553	True	True	Really Responsive Risk-Based Regulation	Law & Policy
+W1991659479	2	0		2002	False	428	0.99818673	True	False	What determines the value of life? a meta‐analysis	Journal of Policy Analysis and Management
+W2100616669	2	0		2012	False	392	0.99965084	False	False	Working to rule, or working safely? Part 1: A state of the art review	Safety Science
+W1971180591	2	0		2000	False	376	0.99382716	True	False	Predicting safe employee behavior in the steel industry: Development and test of a sociotechnical model	Journal of Operations Management
+W1975747795	2	0		2010	False	364	0.94280323	False	False	A robust coefficient of determination for regression	Journal of Statistical Planning and Inference
+W2129042743	2	0		2011	True	342	0.84615385	True	False	A systematic review of the effectiveness of occupational health and safety training	Scandinavian Journal of Work Environment & Health
+W2004691149	2	0		1994	False	341	0.99021663	True	True	Factors influencing the duration of work-related disability: a population-based study of Washington State workers' compensation.	American Journal of Public Health
+W1495486087	2	0		2000	False	332		True	False	Prevention of Accidents Through Experience Feedback	CRC Press eBooks
+W2053983086	2	0		2009	False	299	0.98850911	False	False	Global trend according to estimated number of occupational accidents and fatal work-related diseases at region and country level	Journal of Safety Research
+W4387567568	2	0		2023	True	273	0.99496568	False	False	Work-related causes of mental health conditions and interventions for their improvement in workplaces	The Lancet
+W4301400721	0	2		2022	False	264	0.99923755	True	True	Disability, Work and Inclusion	OECD eBooks
+W3014706530	2	0		2020	True	261	0.95714775	True	True	Psychosocial Stressors at Work and the Risk of Sickness Absence Due to a Diagnosed Mental Disorder	JAMA Psychiatry
+W2138783138	2	0		2001	False	260	0.99467073	True	False	Preventing falls from roofs: a critical review	Ergonomics
+W2065154803	2	0		2012	False	258	0.99837209	False	False	Working to rule or working safely? Part 2: The management of safety rules and procedures	Safety Science
+W2032579723	2	0		1983	False	248	0.99802761	True	False	Risk by Choice	Harvard University Press eBooks
+W2078343256	2	0		2005	False	248	0.96457452	True	False	Intervention studies in occupational epidemiology	Occupational and Environmental Medicine
+W3124568876	2	0		2003	False	236	0.98262394	True	False	The Value of Life: Estimates with Risks by Occupation and Industry	Economic Inquiry
+W2041422257	2	0		1998	False	234	0.98375768	True	False	Rational Risk Policy	
+W2156261426	2	0		2014	False	224	0.99541716	True	False	OHSAS 18001 certification and operating performance: The role of complexity and coupling⋆	Journal of Operations Management
+W2978685131	2	0		2015	False	218	0.98799624	True	False	Monitoring global supply chains	Strategic Management Journal
+W2146698510	2	0		2011	False	214	0.99751597	False	False	Leadership and employees’ perceived safety behaviours in a nuclear power plant: A structural equation model	Safety Science
+W2026009571	2	0		2006	False	202	0.91614032	False	True	Working in small enterprises – Is there a special risk?	Safety Science
+W2118275102	2	0		2010	False	199	0.98335846	True	False	Long-term effects of an intervention on psychosocial work factors among healthcare professionals in a hospital setting	Occupational and Environmental Medicine
+W2051689567	2	0		2005	False	189	0.99643007	False	False	Injuries from slips and trips in construction	Applied Ergonomics
+W2029223288	2	0		2000	False	184	0.98471144	True	True	Why Most Workers With Occupational Repetitive Trauma do not File for Workers??? Compensation	Journal of Occupational and Environmental Medicine
+W2026850040	2	0		2006	False	180	0.96223279	True	False	Underreporting of Work-Related Injury or Illness to Workers??? Compensation: Individual and Industry Factors	Journal of Occupational and Environmental Medicine
+W2883819951	0	2		2018	False	170	0.99673371	False	False	Effectiveness research on the multi-player evolutionary game of coal-mine safety regulation in China based on system dynamics	Safety Science
+W2103252547	2	0		2013	False	167	0.9877562	False	False	Worker health is good for the economy: Union density and psychosocial safety climate as determinants of country differences in worker health and productivity in 31 European countries	Social Science & Medicine
+W2042789566	2	0	osha	1980	False	161	0.9791152	True	True	Can Government Regulate Safety? The Coal Mine Example	American Political Science Review
+W2127164956	2	0		2009	False	157	0.98906561	False	False	Investment in workforce health: Exploring the implications for workforce safety climate and commitment	Accident Analysis & Prevention
+W1995943069	2	0		2009	False	156	0.97884124	False	False	Prevention through design: The effect of European Directives on construction workplace accidents	Safety Science
+W2083092999	2	0		2005	False	154	0.92054935	True	False	The global burden due to occupational injury	American Journal of Industrial Medicine
+W1977084389	2	0		1987	False	148	0.99410282	True	False	Workers' Compensation: Wage Effects, Benefit Inadequacies, and the Value of Health Losses	The Review of Economics and Statistics
+W1591458574	2	0		2009	False	145	0.99074114	False	False	Policy relevant heterogeneity in the value of statistical life: New evidence from panel data quantile regressions	Journal of Risk and Uncertainty
+W1965397465	2	0		2008	True	145	0.75641026	True	False	Stakeholder engagement opportunities in systematic reviews: Knowledge transfer for policy and practice	Journal of Continuing Education in the Health Professions
+W2143111630	2	0		2010	False	143	0.92283478	True	False	Psychosocial risks and work-related stress in developing countries: health impact, priorities, barriers and solutions	International Journal of Occupational Medicine and Environmental Health
+W1738334925	2	0		2010	False	141		True	False	The impact of regulatory costs on small firms	SSRN Electronic Journal
+W2165307446	2	0		2006	False	141	0.98527767	False	False	Are recessions good for workplace safety?	Journal of Health Economics
+W2171973804	2	0		2015	True	141	0.86672938	True	False	Implementation of safety checklists in surgery: a realist synthesis of evidence	Implementation Science
+W3024022508	2	0		1990	False	141	0.97764877	False	False	Incentive effects of workers' compensation insurance	Journal of Public Economics
+W2108372289	2	0		1998	False	138	0.98549861	True	False	Wage Compensation for Dangerous Work Revisited	Industrial and Labor Relations Review
+W1985525440	2	0		2001	False	133	0.96348321	True	False	Creating safer and healthier workplaces: Role of organizational factors and job characteristics*	American Journal of Industrial Medicine
+W3121159220	2	0		1996	False	123	0.95513788	True	False	"Is Workers' Compensation Covering Uninsured Medical Costs? Evidence from the ""Monday Effect"""	Industrial and Labor Relations Review
+W1972465933	2	0		1999	False	122	0.94933537	True	False	Ecnomic consequences of workplace injuries and illnesses: Lost earnings and benefit adequacy	American Journal of Industrial Medicine
+W2014808861	2	0		2011	False	122	0.99479536	False	False	Worker influence on voluntary OHS management systems – A review of its ends and means	Safety Science
+W2002103747	2	0		2011	False	120	0.95719775	True	False	The Development of the European Framework for Psychosocial Risk Management: PRIMA‐EF	Journal of Occupational Health
+W3158061665	2	0		2021	True	116	0.92076794	False	True	A systematic overview on the risk effects of psychosocial work characteristics on musculoskeletal disorders, absenteeism, and workplace accidents	Applied Ergonomics
+W2021888566	2	0		2012	False	114	0.9935987	False	False	Safety compliance on offshore platforms: A multi-sample survey on the role of perceived leadership involvement and work climate	Safety Science
+W2152897350	2	0		1990	False	108		True	False	Workers' Compensation and Injury Duration: Evidence from a Natural Experiment	National Bureau of Economic Research
+W3121248600	2	0		2001	False	102	0.94313532	True	False	Valuing the economic consequences of work injury and illness: A comparison of methods and findings	American Journal of Industrial Medicine
+W2155137227	2	0		2005	False	101	0.97482247	True	False	A search strategy for occupational health intervention studies	Occupational and Environmental Medicine
+W2083617127	2	0		1997	False	100	0.96868754	False	False	The effects of firm size on injury frequency in construction	Safety Science
+W2147109457	2	0		2008	True	98	0.65025907	True	False	Interventions for preventing injuries in the agricultural industry	Cochrane Database of Systematic Reviews
+W2130241051	2	0		2011	False	97	0.9944405	True	False	Injury underreporting among small establishments in the construction industry	American Journal of Industrial Medicine
+W2017959404	2	0		2000	False	95	0.95943563	False	False	Effectiveness of interventions to prevent work-related eye injuries	American Journal of Preventive Medicine
+W2274388736	2	0		2004	False	95	0.96855959	True	False	Effects of safety and health training on work-related injury among construction laborers.	PubMed
+W2129637916	2	0		2009	False	94	0.98764556	False	False	The impact of the business cycle on occupational injuries in the UK	Social Science & Medicine
+W2075083545	2	0		2010	False	91	0.97499053	False	False	The business cycle and the incidence of workplace injuries: Evidence from the U.S.A.	Journal of Safety Research
+W2158644963	2	0		2004	False	91	0.92664726	True	False	Assessing and intervening on OSH programmes: effectiveness evaluation of the Wellworks-2 intervention in 15 manufacturing worksites	Occupational and Environmental Medicine
+W2066252903	2	0		2003	False	86	0.97631502	True	False	Claiming Behavior in Workers' Compensation	Journal of Risk & Insurance
+W2073949007	2	0	regulatory enforcement;safety enforcement;health and safety enforcement	2006	False	86	0.96952666	True	True	The Regulation of Corporate Violations	The British Journal of Criminology
+W2746197475	1	1	inspections	2017	False	86	0.97466	True	True	Do Plant Inspections Predict Future Quality? The Role of Investigator Experience	Manufacturing & Service Operations Management
+W2127829651	2	0		2012	True	84	0.48332572	True	False	Effectiveness of joint health and safety committees: A realist review	American Journal of Industrial Medicine
+W2001220079	2	0		2007	False	77	0.97074849	False	False	Organisational restructuring/downsizing, OHS regulation and worker health and wellbeing	International Journal of Law and Psychiatry
+W4402014393	0	2		2022	False	77	0.96998691	True	True	ESG Disclosures in the Private Equity Industry	Journal of Accounting Research
+W1964875788	2	0		1994	False	76	0.98887588	False	False	The effect of firm characteristics on truck accidents	Accident Analysis & Prevention
+W2035381678	2	0		2010	False	74	0.8984228	True	False	Les « risques psychosociaux » : entre rémanence et méconnaissance	Nouvelle revue de psychosociologie
+W2071682435	2	0	osha	2007	False	74	0.94074245	True	True	The impact of OSHA recordkeeping regulation changes on occupational injury and illness trends in the US: a time-series analysis	Occupational and Environmental Medicine
+W2056873278	2	0		2012	True	73	0.632709	False	False	Management of Long Term Sickness Absence: A Systematic Realist Review	Journal of Occupational Rehabilitation
+W1559384717	2	0		2002	False	72	0.99399874	True	True	Workers' Compensation, Moral Hazard and the Composition of Workplace Injuries	The Journal of Human Resources
+W2994645234	0	2	regulatory enforcement	2019	False	70	0.97249509	True	True	The politics of regulatory enforcement and compliance: Theorizing and operationalizing political influences	Regulation & Governance
+W1981888207	2	0		1996	False	68	0.85049492	True	False	The Effectiveness of Bill 70 and Joint Health and Safety Committees in Reducing Injuries in the Workplace: The Case of Ontario	Canadian Public Policy
+W2021103833	2	0	osha;inspections	1983	False	68	0.89474368	True	True	Worker Injuries: The Effects of Workers' Compensation and OSHA Inspections	Journal of Health Politics Policy and Law
+W2054164476	2	0		2011	True	67	0.62437059	True	False	Policy guidance on threats to legislative interventions in public health: a realist synthesis	BMC Public Health
+W2412993303	0	2		2016	False	67	0.95077411	False	True	OHS management and employers’ perception: differences by firm size in a large Italian company survey	Safety Science
+W4396777877	0	2		2024	True	67	0.96747967	True	False	Effectiveness of Occupational Safety and Health interventions: a long way to go	Frontiers in Public Health
+W2100389682	2	0		2010	False	64	0.92124988	True	False	European social dialogue on psychosocial risks at work: Benefits and challenges	European Journal of Industrial Relations
+W1953046115	2	0		2009	True	61	0.79487179	True	False	Alcohol and drug screening of occupational drivers for preventing injury	Cochrane Database of Systematic Reviews
+W3125961949	2	0		1998	False	60	0.98293114	True	False	Does Workers' Compensation Encourage Hard to Diagnose Injuries?	Journal of Risk & Insurance
+W2168915399	2	0		2009	False	59	0.97443908	True	False	Effectiveness of the training program for workers at construction sites of the high‐speed railway line between Torino and Novara: Impact on injury rates	American Journal of Industrial Medicine
+W3122259246	1	1	safety enforcement	2016	False	59	0.9325401	False	True	Effects of Union Certification on Workplace-Safety Enforcement: Regression-Discontinuity Evidence	Industrial and Labor Relations Review
+W2073104467	2	0	osha	2001	False	58	0.970689	True	True	Fatal Falls in the US Construction Industry, 1990 to 1999	Journal of Occupational and Environmental Medicine
+W3010952096	2	0	osha	2020	False	58		True	True	A Short History of Occupational Safety and Health in the United States	American Journal of Public Health
+W2792941144	2	0		2006	False	57	0.99319728	True	True	Small Businesses and Workplace Fatality Risk: An Exploratory Analysis	RAND Corporation eBooks
+W2014478637	2	0		2002	False	54	0.96967783	False	False	The construction of the Øresund Link between Denmark and Sweden: the effect of a multi-faceted safety campaign	Safety Science
+W2963624919	0	2		2019	False	53	0.93497978	False	False	Regulatory regime on coal Mine Safety in China and Australia: Comparative analysis and overall findings	Resources Policy
+W2329475375	2	0		2013	False	52	0.86985693	False	False	Tackling psychosocial risks and work-related stress in developing countries: The need for a multilevel intervention framework.	International Journal of Stress Management
+W2023205797	2	0		1993	False	51	0.36008919	False	False	Economic incentives to accident prevention: An empirical study of the German sugar industry	International Review of Law and Economics
+W2001046728	0	2		2014	True	46	0.24489796	True	True	Mapping ergonomics application to improve SMEs working condition in industrially developing countries: a critical review	Ergonomics
+W2076172500	2	0		2004	False	46	0.97226313	False	False	The effectiveness of the revised scaffold safety standard in the construction industry	Safety Science
+W4296622914	0	2		2022	False	46	0.98358356	True	True	Effects of occupational health and safety management systems implementation in accident prevention at a Harare beverage company	Cogent Engineering
+W4401750020	0	2		2024	True	45	0.94259819	True	True	Monopsony Power in the Labor Market: From Theory to Policy	Annual Review of Economics
+W2121058407	0	2		2013	True	44	0.9477323	True	True	Can Better Working Conditions Improve the Performance of SMEs? An International Literature Review	eCommons (Cornell University)
+W2736369773	0	2		2017	True	43	0.78864971	False	True	Heterogeneity in application, design, and analysis characteristics was found for controlled before-after and interrupted time series studies included in Cochrane reviews	Journal of Clinical Epidemiology
+W2145262973	2	0		2010	False	42	0.823734	False	False	Worker representation and psycho-social risks: A problematic relationship?	Safety Science
+W2069687434	2	0		2009	False	41	0.92223209	False	False	Hospital Employee Assault Rates Before and After Enactment of the California Hospital Safety and Security Act	Annals of Epidemiology
+W1999728936	2	0		2010	False	40	0.85426549	True	False	La construction sociale du stress : entre objectivation, subjectivité et régulations collectives des difficultés au travail	Nouvelle revue de psychosociologie
+W2161931574	2	0		2012	False	39	0.97647059	True	False	Revisiting Incentive Effects in Workers' Compensation: Do Higher Benefits Really Induce More Claims?	Industrial and Labor Relations Review
+W4294751730	0	2		2022	False	38	0.9686815	True	False	Applying risk matrices for assessing the risk of psychosocial hazards at work	Frontiers in Public Health
+W2041777542	2	0		2006	False	36	0.94446515	False	False	The contribution of qualitative analyses of occupational health and safety interventions: An example through a study of external advisory interventions	Safety Science
+W4311116295	0	2		2022	True	36	0.78949711	True	True	Leadership and well-being of employees in the Nordic countries: A literature review	Work
+W4310295787	2	0		2022	False	36	0.97643024	True	True	Individual and organisational factors in the psychosocial work environment are associated with home care staffs’ job strain: a Swedish cross-sectional study	BMC Health Services Research
+W2005136779	2	0		1989	False	35	0.82511715	False	False	Firm size and occupational injury and illness incidence rates in manufacturing industries	Journal of Community Health
+W2054606821	0	2		2009	False	35	0.9637887	True	False	Political Economy of US States and Rates of Fatal Occupational Injury	American Journal of Public Health
+W21256988	0	2		2007	False	35	0.99390676	False	True	Understanding Corporate Lawbreaking: From Profit Seeking to Law Finding	Springer eBooks
+W1538751050	2	0		2009	False	34	0.95640443	True	False	A Randomized, Controlled Intervention of Machine Guarding and Related Safety Programs in Small Metal-Fabrication Businesses	Public Health Reports
+W1980545865	2	0		2004	False	34	0.8943587	False	False	Compliance to a Workplace Violence Prevention Program in small businesses	American Journal of Preventive Medicine
+W2100623584	2	0		2010	False	34	0.86035198	True	False	RPS : Quels diagnostics ? Enjeux scientifiques et politiques	Nouvelle revue de psychosociologie
+W2885137483	0	2		2018	False	33	0.93341636	True	True	WORKER INVESTMENTS IN SAFETY, WORKPLACE ACCIDENTS, AND COMPENSATING WAGE DIFFERENTIALS	International Economic Review
+W4230905935	2	0		1990	False	33	0.95666579	True	False	The Employers' Costs of Workers' Compensation Insurance: Magnitudes, Determinants, and Public Policy	The Review of Economics and Statistics
+W4295023856	0	2		2022	True	32	0.96640864	True	True	Occupational safety, policy, and management in public health organizations and services	European Journal of Environment and Public Health
+W4295067369	0	2	inspections	2022	False	32	0.95223421	True	True	Does Sunlight Kill Germs? Stock Market Listing and Workplace Safety	Journal of Financial and Quantitative Analysis
+W2143454349	2	0		2008	False	30	0.26426996	True	False	Impact of implementing the washington state ergonomics rule on employer reported risk factors and hazard reduction activity	American Journal of Industrial Medicine
+W2404738095	2	0		2016	True	30	0.89440375	True	True	Arbeidsplassen og sykefravær - Arbeidsforhold av betydning for sykefravær	Tidsskrift for velferdsforskning
+W1967537663	2	0		2001	False	29	0.92952203	True	False	Risk assessment: A regulatory strategy for stimulating working environment activities?	Human Factors and Ergonomics in Manufacturing & Service Industries
+W1979096492	2	0		2004	False	28	0.96466	True	False	Effectiveness of the HomeSafe Pilot Program in reducing injury rates among residential construction workers, 1994–1998	American Journal of Industrial Medicine
+W2034857116	2	0		2010	False	28	0.78652168	False	False	Protection of workers’ mental health in Québec: Do general duty clauses allow labour inspectors to do their job?	Safety Science
+W2072761102	2	0		1998	False	28	0.97865662	True	False	Work-Related Fatal-Injury Risk of Construction Workers by Occupation and Cause of Death	Human and Ecological Risk Assessment An International Journal
+W2582182862	0	2		2017	False	27	0.92049087	False	False	Analysis of embedded non-safety regulation games in China's two types of coal mines through safety performance disparity, 1980–2014	Resources Policy
+W2967061337	0	2		2019	False	27	0.87662651	True	False	Occupational Health and Safety for Migrant Domestic Workers in Canada: Dimensions of (Im)mobility	NEW SOLUTIONS A Journal of Environmental and Occupational Health Policy
+W3080909581	0	2		2020	False	27	0.93769291	False	False	Evolutionary game analysis of state inspection behaviour for coal enterprise safety based on system dynamics	Sustainable Computing Informatics and Systems
+W3162355115	0	2		2021	False	27	0.93301014	False	True	The impact of inspection on the sustainable production strategy: Environmental violation and abatement in emerging markets	Transportation Research Part E Logistics and Transportation Review
+W4295989472	0	2		2022	False	27	0.96086805	False	False	Exploring work environment management boundaries using work domain analysis	Safety Science
+W4378715100	2	0		2023	False	25	0.96835463	True	True	Home care nurses' and managers’ work environment during the Covid-19 pandemic: Increased workload, competing demands, and unsustainable trade-offs	Applied Ergonomics
+W1624549237	0	2		2011	False	24		False	False	New Approaches to Enforcement and Compliance with Labour Regulatory Standards: The Case of Ontario, Canada	SSRN Electronic Journal
+W2004220914	2	0		2005	False	24	0.91810164	True	False	Have companies improved their health and safety approaches over the last decade? A longitudinal study	American Journal of Industrial Medicine
+W4365460142	0	2		2019	False	24	0.89790007	False	True	Anti-money-laundering oversight and banks’ reporting of suspicious transactions: some empirical evidence	The Journal of Law Economics and Organization
+W2409699197	2	0		2016	False	23		True	False	Organizational stress management interventions: Is it the singer not the song?	Scandinavian Journal of Work Environment & Health
+W2568572553	0	2		2017	False	23	0.92625381	False	True	Occupational safety and health in North Cyprus: Evaluation of risk assessment	Safety Science
+W2126916784	2	0		2008	False	22	0.97521739	True	False	Prevention of traumatic nail gun injuries in apprentice carpenters: Use of population‐based measures to monitor intervention effectiveness	American Journal of Industrial Medicine
+W4404946398	0	2		2024	False	22	0.98082623	True	False	When weather wounds workers: The impact of temperature on workplace accidents	Journal of Public Economics
+W153091936	0	2		2014	False	21		False	False	Optic Compliance	Research Repository (Delft University of Technology)
+W3088617318	0	2		2020	False	21	0.92365693	True	False	Labor Unions and Workplace Safety	Industrial and Labor Relations Review
+W1991800393	0	2		2015	False	20	0.89624819	True	True	Trends in needlestick injury incidence following regulatory change in Ontario, Canada (2004–2012): an observational study	BMC Health Services Research
+W4409681016	0	2	inspections	2024	True	20	0.97778292	True	True	Stimulating Regulatory Compliance and Ethical Behavior of Organizations: A Review	Business Ethics and Leadership
+W1717033338	2	0		2004	False	18	0.95598086	True	False	The Role of Agreements Between Labour Unions and Employers in the Regulation of the Work Environment	Policy and Practice in Health and Safety
+W2258148591	0	2		2012	False	17	0.92504655	False	True	Workers’ risk underestimation and occupational health and safety regulation	European Journal of Law and Economics
+W2094619220	2	0		2010	False	16	0.81973871	False	False	CC.OO. (“Comisiones Obreras”) – ISTAS (Union Institute of Work, Environment and Health) participatory action plan for a healthier work organization: A case study	Safety Science
+W4383736436	0	2		2023	True	16	0.59090909	True	False	Effective Components of Behavioural Interventions Aiming to Reduce Injury within the Workplace: A Systematic Review	Safety
+W2134605967	2	0		2015	False	15	0.88452788	False	False	Policy responses to work-related stress: Examining Taiwan’s experiences from a welfare state regime perspective	Safety Science
+W4297756720	0	2		2022	False	15	0.91631039	False	True	Import Competition and Workplace Safety in the U.S. Manufacturing Sector	Journal of Economic Behavior & Organization
+W4392697387	0	2		2024	True	15	0.71217105	True	True	Change competence: An integrative literature review	Work
+W1968414016	2	0		2004	False	14		True	False	Does the ‘Management Standards’ approach meet the standard?	Work & Stress
+W2560183042	0	2		2016	False	14	0.91918358	False	False	Prevention of occupational injuries: Evidence for effective good practices in foundries	Journal of Safety Research
+W4200020016	0	2	osha;inspections	2021	False	14	0.90116881	True	True	A descriptive analysis of 2020 California Occupational Safety and Health Administration covid-19-related complaints	SSM - Population Health
+W4381988121	0	2		2023	False	14	0.98761835	False	False	Laboratory safety and research productivity	Research Policy
+W4413449689	0	2		2025	False	14	0.98908497	False	False	Public environmental complaints and regulatory intensity	Journal of Environmental Economics and Management
+W1964971131	0	2		2009	False	13	0.71940316	True	False	Characteristics of occupational burns in Oregon, 2001–2006	American Journal of Industrial Medicine
+W2196536994	1	1	inspectorate;inspections	2015	False	13	0.69875789	True	False	Investigation into qualitative discourses of the occupational safety and health inspectors in order to promote enforcement	International Journal of Occupational Safety and Ergonomics
+W4220917657	0	2	osha;inspections	2022	False	13		True	True	Occupational Safety and Health Administration (OSHA)	Oxford University Press eBooks
+W4392727024	0	2		2024	False	13		False	False	Air Pollution, Wildfire Smoke, and Worker Health	SSRN Electronic Journal
+W2094896420	2	0		2010	False	12	0.95768599	False	False	Continued progress in the prevention of nail gun injuries among apprentice carpenters: What will it take to see wider spread injury reductions?	Journal of Safety Research
+W2097906865	0	2		2006	True	12	0.85204082	True	False	Law and the Labor Market	Annual Review of Law and Social Science
+W4409051465	0	2		2025	False	12	0.98143873	True	True	The impact of product market competition on workplace safety	Journal of Corporate Finance
+W2062536614	2	0	inspections	2005	False	11	0.7157867	True	True	L'impact de la réglementation en matière de santé et sécurité au travail sur le risque d'accident au Québec : de nouveaux résultats	Relations industrielles
+W2182748568	0	2		2005	False	11	0.91679757	False	True	Voluntary environmental management initiatives: Smoke signals or smoke screens?	
+W3127059269	0	2		2021	False	11	0.79192863	False	False	Analysis of Mining Lost Time Incident Duration Influencing Factors Through Machine Learning	Mining Metallurgy & Exploration
+W4366286963	0	2		2023	False	11	0.89010849	True	False	Drivers and frictions of workplace accidents: an empirical investigation of cross-country European heterogeneity	Applied Economics
+W2346170516	0	2		2016	True	10	0.88008459	True	True	The new United Nations approach to sustainable development post-2015: Findings from four overviews of systematic reviews on interventions for sustainable development and health.	PubMed
+W2593986670	0	2		2014	False	10	0.98533064	False	False	Life, limbs, and licensing: occupational regulation, wages, and workplace safety of electricians, 1992–2007	Monthly labor review
+W3130628190	0	2		2021	False	10	0.77392503	True	False	Company Representatives’ Experiences of Occupational Health Surveillance for Workers Exposed to Hand-Intensive Work: A Qualitative Study	International Journal of Environmental Research and Public Health
+W4388303448	0	2		2023	False	10	0.87288557	False	False	Human bias in the oversight of firms: evidence from workplace safety violations	Review of Accounting Studies
+W2065544923	0	2	osha	2009	False	9	0.92006303	True	True	Review of the OSHA Framework for Oversight of Occupational Environments	The Journal of Law Medicine & Ethics
+W2898860596	0	2	labor inspection	2018	False	9	0.96399282	True	True	Intervención sindical y salud laboral en la Unión Europea: dimensiones, cobertura e impacto	methaodos revista de ciencias sociales
+W3111925716	0	2		2020	False	9	0.77308907	True	True	Prioritizing the indicators influencing permit to work system efficiency based on an analytic network process	International Journal of Occupational Safety and Ergonomics
+W3123680422	0	2		2021	False	9	0.71069075	True	True	A Hierarchical Solution Approach for Occupational Health and Safety Inspectors' Task Assignment Problem	Safety and Health at Work
+W3136724358	0	2	labour inspection;workplace inspection;inspections	2021	False	9	0.7103973	True	True	Determining the prerequisites for effective workplace inspection by the occupational safety and health regulatory authority using cognitive work analysis	International Journal of Occupational Safety and Ergonomics
+W3206606514	0	2		2021	False	9	0.90679256	True	True	The Community of Practice: A Method for Cooperative Learning of Occupational Health and Safety Inspectors	European Journal of Investigation in Health Psychology and Education
+W3213563243	0	2		2021	False	9		False	True	Do US Firms Have an Incentive To Comply With the FLSA and the NLRA?	SSRN Electronic Journal
+W4403321571	0	2		2024	False	9	0.901178	False	False	Unintended workplace safety consequences of minimum wages	Journal of Public Economics
+W1511459256	0	2		2007	False	8	0.99220632	False	False	Chapter 17 Employment Law	Handbook of law and economics
+W2030390597	1	1	safety inspection;inspectorate;inspections	2014	False	8	0.92162508	True	True	Strategies to reduce safety violations for working from heights in construction companies: study protocol for a randomized controlled trial	BMC Public Health
+W2114099577	0	2	inspections	2008	False	8	0.32352491	True	True	Pour une approche stratégique en matière d'inspection du travail	Revue internationale du Travail
+W3122655097	0	2		2012	False	8	0.89241803	False	False	Mandatory Disclosure of Plants’ Emissions into the Environment and Workers’ Chemical Exposure Inside Plants	Ecological Economics
+W1690770067	2	0		2012	False	7	0.73128858	True	False	Psychosocial risks: acting upon the organisation by ergonomic intervention	Work
+W2066917105	0	2		2011	False	7	0.74735365	True	False	Does the small farm exemption cost lives?	American Journal of Industrial Medicine
+W2096755754	0	2		2007	False	7		True	False	Employment Law and the Labor Market	National Bureau of Economic Research
+W2117589112	0	2		2008	False	7	0.94057151	True	False	Un planteamiento estratégico de la inspección del trabajo	Revista Internacional del Trabajo
+W2470244911	2	0		1994	False	7	0.8798531	True	False	Preventive effects of work place investigations in connection with musculo-skeletal occupational injuries	Journal of Rehabilitation Medicine
+W2794146370	0	2		2018	False	7	0.89241918	False	False	Characteristics of construction firms at risk for future workers' compensation claims using administrative data systems, Washington State	Journal of Safety Research
+W3133824297	0	2		2021	False	7	0.6950198	True	True	The hidden dangers of staying home: a London trauma unit experience of lockdown during the COVID-19 virus pandemic	Annals of The Royal College of Surgeons of England
+W4297502286	0	2		2022	False	7	0.8275173	True	True	Worker Mobility in Practice: Is Quitting a Right, or a Luxury?	Journal of Law and Political Economy
+W4315565119	0	2		2021	False	7		False	True	Occupational Safety and Health Administration	Springer eBooks
+W4388876185	0	2		2023	False	7		False	True	Occupational Safety and Health Administration	Springer eBooks
+W1552376527	2	0	osha;inspections	1991	False	6		True	False	Do OSHA Inspections Reduce Injuries? A Panel Analysis	National Bureau of Economic Research
+W1601165495	2	0		2012	False	6		True	True	Development and implementation of policies for the management of psychosocial risks: Exploring the role of stakeholders and the translation of policy into practice in Europe	PsycEXTRA Dataset
+W2075949222	0	2		2013	False	6	0.85706723	False	True	Will additional federal enforcement improve the performance of pipelines in the U.S.?	International Review of Law and Economics
+W2113815113	2	0		2007	False	6	0.77966216	True	False	Evaluación de la efectividad de las actividades preventivas (planes de actuación preferente) sobre la incidencia de las lesiones traumáticas no mortales con incapacidad laboral por accidentes de trabajo en jornada en España (1994-2004)	Revista Española de Salud Pública
+W2185587074	2	0		2001	True	6	0.33333333	False	False	A Review and Synthesis of the Cost of Workplace Regulations	
+W2228570767	0	2		2006	False	6	0.73138298	False	False	Repetitive strain injury	Elsevier eBooks
+W2220167762	0	2		2012	False	6		False	True	Does Industry Self-Regulation Reduce Accidents? Responsible Care in the Chemical Sector	SSRN Electronic Journal
+W3140206088	0	2		2021	False	6		True	False	Slippery Fish: Enforcing Regulation when Agents Learn and Adapt	National Bureau of Economic Research
+W4323067014	0	2	msha	2023	False	6	0.71987405	True	True	Poor adherence to dust, noise and safety regulations predict injury rates in underground coal mines	Occupational and Environmental Medicine
+W4362468237	0	2		2023	False	6	0.83548181	True	False	Benefiting signatories at others’ expense: Effects and spatial spillover of local emergency cooperation agreements in China	Journal of Contingencies and Crisis Management
+W4392303713	0	2		2024	False	6	0.87188695	False	False	Influential factors and interventions for repeated production violations in food enterprises - Empirical evidence from China	Journal of Cleaner Production
+W4396904927	0	2		2024	False	6	0.88018638	True	False	Evolution of Occupational Safety and Health Disclosure Practices: Insights from 8 Years in Taiwan’s Construction Industry	Safety
+W4399254003	0	2		2024	False	6	0.88085201	False	True	Complexity and Change: Antecedents of occupational injuries	Safety Science
+W4403289369	0	2		2024	False	6	0.8022502	False	False	Research on the diffusion and control of unsafe behaviors among chemical industry park enterprises based on the SEIR evolutionary game model	Journal of Loss Prevention in the Process Industries
+W4410572702	0	2		2025	False	6	0.98556863	True	True	The Fragmentation and Complexity of Labour Law, Effective Protections, and Better Work: An Analytical Framework	Comparative labor law & policy journal
+W108043726	0	2	osha;safety inspection;inspections	2012	False	5	0.65005393	True	True	An Evaluation of the California Injury and Illness Prevention Program	Rand health quarterly
+W2056931116	0	2		2007	False	5	0.77330574	True	False	An Epidemiological and Risk Analysis of Virginia Workers' Compensation Burn Claims 1999 to 2002: Identifying and Prioritizing Preventive Workplace Interventions	Journal of Occupational and Environmental Medicine
+W2164740402	0	2	regulatory enforcement	2012	False	5	0.23759192	True	True	Potential barriers to engineered noise control in food and beverage manufacturing in British Columbia, Canada: A qualitative study	International Journal of Audiology
+W2922744426	0	2		2019	False	5	0.71352163	True	True	Representación sindical y prevención de riesgos laborales durante la crisis: impacto y límites	Sociologia del trabajo/Sociología del trabajo
+W2962684953	0	2		2018	False	5	0.39701298	True	True	Dimensions of Community Change: How the Community of Sudbury Responded to Industrial Exposures and Cleaned up its Environment	Journal of Community Engagement and Scholarship
+W2998793463	0	2		2020	False	5	0.93584906	True	False	Understanding and managing worker’s exposure to specific risks	MATEC Web of Conferences
+W3119335953	0	2	osha	2021	False	5	0.59055441	True	True	Predictive analytics on Engineer Manual 385 effectiveness of reducing number and severity of mishaps	Canadian Journal of Civil Engineering
+W3128909993	0	2		2019	False	5		True	True	Demand Conditions and Worker Safety: Evidence from Price Shocks in Mining	National Bureau of Economic Research
+W4392286994	0	2	regulatory enforcement	2024	False	5	0.80478724	True	True	Peer Response to Regulatory Enforcement: Lobbying by Non-Sanctioned Firms	Journal of Management
+W4409517563	0	2		2025	False	5	0.92705125	True	False	Shaping a positive occupational safety climate in general practice teams—findings of the baseline survey of the cluster randomized IMPROVEjob trial	Frontiers in Public Health
+W4409661764	0	2	inspections	2025	False	5	0.89389671	True	True	Enforcement spillovers under different networks: The case of quotas for persons with disabilities in Brazil	Journal of Development Economics
+W2072744040	2	0		2011	False	4		False	False	Letter to the editor re Pedersen et al.	Safety Science
+W2147472113	0	2		2008	False	4		True	False	THE IMPACT OF SAFETY CULTURE ON WORKER MOTIVATION AND THE ECONOMIC BOTTOM LINE	ProQuest Demo Repository
+W2255352151	0	2		2007	False	4	0.82763322	True	True	Development of a performance measurement report for the Ontario prevention system	Policy and Practice in Health and Safety
+W2898162767	0	2		2018	False	4	0.62639071	True	True	What do employers spend to protect the health of workers?	Scandinavian Journal of Work Environment & Health
+W3174915947	0	2		2021	False	4	0.89035156	True	False	Do collective bargaining rights save lives? A rare event analysis of firefighter fatalities in the United States	Risk Hazards & Crisis in Public Policy
+W2056937950	0	2	osha;regulatory enforcement;inspections	2012	False	3		False	True	Regulatory Enforcement, Politics, and Institutional Distance: OSHA Inspections 1990-2010	SSRN Electronic Journal
+W2948119492	0	2		2018	False	3		False	True	Are Non-Financial and Financial Misconduct Complements?: Evidence From Federal Agency Penalties	SSRN Electronic Journal
+W2951776293	0	2		2019	False	3	0.81812035	False	True	Fewer workers' compensation claims and lower claim costs if employers with high injury rates achieved the rates of their safer peers	Journal of Safety Research
+W2981593442	0	2	inspections	2019	False	3		True	True	The challenges of food law enforcement : perceptions of environmental health practitioners in the Northwest of England	University of Salford Institutional Repository (University of Salford)
+W3110554348	0	2		2022	False	3	0.55710854	True	True	Evidências de Validade e Precisão de um Instrumento de Avaliação de Riscos Psicossociais Ocupacionais	Revista Psicologia Organizações e Trabalho
+W4385732794	0	2		2023	False	3	0.7582642	True	False	Intervention Mapping as a Framework for Developing and Testing an Intervention to Promote Safety at a Rail Infrastructure Maintenance Company	Safety
+W4400039212	0	2		2024	False	3	0.68968101	False	True	An Information Entropy–based Risk (IER) Index of Mining Safety Using Clustering and Statistical Methods	Mining Metallurgy & Exploration
+W4414281500	0	2		2025	False	3	0.88057816	True	False	Implementing a Mixed Health Service Model as an Informed Modality to Enhance Prevention and Promote Workplace Health in the Greek Regional Public Sector: A Pilot Study in Crete	Healthcare
+W4414461656	0	2		2025	False	3	0.88124641	True	False	Associations of socioeconomic and occupational characteristics with occupational health literacy among essential service workers in Guangdong, China	BMC Public Health
+W121631211	0	2		2004	False	2		True	False	The use of infringement notices in OHS law enforcement	ANU Open Research (Australian National University)
+W147032006	0	2	osha;workplace inspection;inspections	2012	False	2		True	True	Compliance to Occupational and Public Health Requirements and Associated Factors in Barbershops and Hair Dressing Salons, A Case of kinondoni Municipality, Dar es Salaam, Tanzania	IHI Repository
+W2475447872	0	2		2015	False	2	0.18844583	False	True	8. Enforcement and the Occupational Safety and Health Act	American Public Health Association eBooks
+W2783824112	0	2		2018	False	2	0.01820377	False	True	Recent Development in Machine Safeguarding for Protecting Humans from Complicated Machines	Springer transactions in civil and environmental engineering
+W3216904756	0	2		2021	False	2		False	True	Return on Safety Training	SSRN Electronic Journal
+W4297877328	0	2		2022	False	2	0.68752631	True	False	The Effectiveness of Safety Education on Workforce Risks: Evidence from South Korea	International Journal of Empirical Economics
+W4399445885	0	2	labor inspection;workplace inspection;inspections	2024	False	2	0.68602244	True	True	Challenges in the regulation of occupational risk management in Brazil	Revista Principia - Divulgação Científica e Tecnológica do IFPB
+W4410859327	0	2		2025	True	2	0.49813665	True	True	Systematic Evaluation of How Indicators of Inequity and Disadvantage Are Measured and Reported in Population Health Evidence Syntheses	International Journal of Environmental Research and Public Health
+W4410705577	0	2		2025	False	2	0.80230678	True	False	Establishing Key Domains for Measuring Workplace Mental Health: The Indicators of A Thriving Workplace Survey	Journal of Occupational Rehabilitation
+W4416176934	0	2		2025	False	2	0.8678943	True	True	Associations between workplace aggression and subsequent mental distress and sick leave among home care workers	International Archives of Occupational and Environmental Health
+W21627715	0	2	osha;inspections	2008	False	1	0.00572492	False	True	The Impact of OSHA Inspections on Lost Time Injuries in Manufacturing	
+W2763051404	0	2	osha;workplace inspection;inspections	2022	False	1	0.45131963	True	True	Helping Nurses or Hurting Patients?	American Journal of Health Economics
+W2804681969	0	2		2018	False	1	0.8156181	True	True	Competitive federalism and workers’ compensation: do states race to the bottom?	Australian Journal of Political Science
+W3130480097	0	2		2021	False	1	0.47475662	True	False	Workplace safety regulations and worker well-being: the impact of mandatory helmet use on career length in the national hockey league	International Journal of Sport Policy and Politics
+W3161309443	0	2		2021	False	1		False	False	Is Public Equity Deadly? Evidence from Workplace Safety and Productivity Tradeoffs in the Coal Industry	SSRN Electronic Journal
+W4367183890	0	2		2023	False	1	0.69787048	True	False	Police unions and police fatalities in the United States, 1990−2018	International Journal of Police Science & Management
+W4379375122	0	2		2023	False	1		True	False	Laboratory Safety and Research Productivity	National Bureau of Economic Research
+W4385197477	0	2		2023	False	1		False	True	CSR Information and Regulatory Activity	SSRN Electronic Journal
+W4399399435	0	2		2024	False	1		False	False	Using Ten Pathways to Manage Mining Fatality Risk	SSRN Electronic Journal
+W4406165434	0	2	inspections	2025	False	1		False	True	Randomized On-Site Inspections and Shareholder Value	SSRN Electronic Journal
+W4412386479	0	2		2025	False	1	0.85938998	True	True	Corporate delinquency and corporate sanctions: A dilemma for the criminological critique of criminal law?	Monatsschrift für Kriminologie und Strafrechtsreform
+W4414550562	0	2		2025	False	1	0.77763413	True	False	The building blocks of occupational health and safety management: profiles of preconditions and their links to practices among Swedish welfare organizations	International Journal of Workplace Health Management
+W4416448996	0	2		2025	False	1	0.78807094	False	True	Does random inspection in the capital market curtail corporate tax avoidance? Evidence from China	The British Accounting Review
+W7140319187	0	2		2026	False	1	0.91663638	True	False	Occupational safety and health in the formal and informal sectors: a workplace-based survey in Freetown, Sierra Leone (2023)	Discover Public Health
+W7221048435	0	2	labor inspection;inspectorate;enforcement of occupational	2026	False	1	0.81006124	True	True	Occupational Safety Compliance Fraud in Batam's Special Economic Zone: Evidence from Reporting Manipulation	Advances in Financial Crime and Law
+W1495753843	0	2		2012	False	0		True	False	Risk factors for injuries in small and medium sized construction companies	University of Minnesota Digital Conservancy (University of Minnesota)
+W2332883468	0	2		2014	False	0		True	True	The Integration of Safety Engineered Needles in Acute Care Hospitals: Opportunities and Challenges of Regulated Change	TSpace (University of Toronto)
+W4206150363	0	2		2015	False	0		True	True	Critérios para auditoria do programa de controle médico de saúde ocupacional	
+W4226064589	0	2		2022	False	0		False	True	Improving Health and Safety in Small Businesses in Low- and Middle-Income Countries: The Role of Information and Financial Linkage	SSRN Electronic Journal
+W4318711579	0	2		2023	False	0		False	True	CEO Government Work Experience and Regulatory Noncompliance: Evidence Based on Safety-Related Violations	SSRN Electronic Journal
+W4377249321	0	2		2023	False	0		False	True	Board Independence, Ethical Reputation, and Workplace Safety	SSRN Electronic Journal
+W4400486547	0	2		2024	False	0		False	False	The Effect of the Acid Rain Program on Workplace Safety and Worker Productivity in Surface Coal Mines	SSRN Electronic Journal
+W4408847671	0	2		2025	False	0	0.05505427	True	False	Occupational Health Requirements in Trinidad and Tobago: Integrating the Occupational Safety and Health Act and Employer Legal Mandates for Improved Worker Health	International Journal of Preventive Medicine and Health
+W4411340141	0	2	inspections	2016	False	0	0.48453795	True	True	International Experience in Evaluating Effectiveness of Public Control in Occupational Safety	Public Administration Issues
+W4411413188	0	2		2025	False	0	0.28359343	False	False	Sozialer Ausgleich	Springer eBooks
+W4412720035	0	2		2025	False	0		False	True	CEO Tax Burden and Workplace Safety	SSRN Electronic Journal
+W4413102743	0	2		2025	False	0		False	True	Racial Disparities in the Processing of Whistleblower Complaints	SSRN Electronic Journal
+W4413788957	0	2		2025	False	0		False	True	Human Capital Disclosure and Employee Treatment	SSRN Electronic Journal
+W4413808873	0	2		2025	False	0	0.2024008	False	False	Beyond economic figures: Analysis of economic and work safety efficiency in U.S. industries using the by-production approach	Journal of Safety Research
+W4416447612	0	2	safety enforcement	2025	False	0	0.27187031	True	True	Multi-stakeholder safety enforcement: Implications for employment and factories in Bangladesh’s export-oriented RMG industry	Safety Science
+W4417093908	0	2		2025	True	0	0.20124224	True	False	The Extent of the Use of GRADE in Campbell Systematic Reviews: A Systematic Survey	Campbell Systematic Reviews
+W4417448438	0	2		2025	False	0	0.31518977	True	True	Do Women Executives Make Workplaces Safer? Evidence from Workplace Safety Violations	Journal of Management Studies
+W7106258104	0	2		2025	False	0		False	True	Bank Mergers and Workplace Safety: The Ethical Consequences of Financial Consolidation	SSRN Electronic Journal
+W7107967925	0	2		2020	False	0	0.49865061	True	True	Occupational Health, Safety and Ergonomic Issues of Sugar Industry- A Review	International Journal of Biosciences (IJB)
+W7120997100	0	2	osha	2026	False	0	0.01162916	True	True	Do Variations in State Consultation Programs Affect Construction Fatality Rates?	American Journal of Industrial Medicine
+W7126256374	0	2		2025	False	0	0.50604857	True	False	Validity and Reliability of Finger Safety Training Evaluation (FingSTEv) to Measure Finger Safety Knowledge Among Manufacturing Industries Workers at Small and Medium Enterprise in Selangor	Malaysian Journal of Medicine and Health Sciences
+W7137100442	0	2		2026	False	0	0.11502844	True	True	Jogorvoslat a többszintű végrehajtásban: a kompozit közigazgatási eljárások és a digitalizáció hatása	KözigazgatásTudomány
+W7155206637	0	2	regulatory enforcement	2026	False	0	0.21394665	True	True	Dynamic reward-penalty incentives and occupational health governance: an evolutionary game analysis with public health implications	Frontiers in Public Health
+W7164940761	0	2		2026	True	0	0.3725152	True	False	Perfect storm: a scoping review of interventions and preparedness strategies at the intersections of climate change, migrant worker health and health systems	BMJ Public Health
+W7165913687	0	2		2026	False	0	0.37867357	True	True	Jogtudatosság és közigazgatási szankciók a munkavédelmi compliance rendszerében : A szankcionálási paradoxon empirikus és dogmatikai vizsgálata	KözigazgatásTudomány
+W7167053646	0	2		2026	False	0		False	True	Too Far to Fear? Regulatory Distance and Workplace Safety: Evidence from Chinese Firms	SSRN Electronic Journal
+W7170369522	0	2		2026	False	0		False	True	CEO Tax Burden and Workplace Safety	SSRN Electronic Journal
+W7171392839	0	2		2026	False	0	0.56896552	False	False	Evaluating Organizational Health Culture: Tools and Impact on Workplace Health Interventions	Frontiers research topics
+W7172408069	0	2		2026	False	0	0.49747881	True	True	Safety begins at home: supply chain power and workplace safety	Journal of Accounting Literature
+W7197034258	0	2		2026	False	0	0.47265647	True	True	Workplace safety barriers in global supply chains: Insights from the leather tanning industry	Journal of Safety and Sustainability
+W7201588240	0	2		2025	False	0	0.57272772	True	True	A Frame-Work Development: Considering All Aspect of Human Capital Development (HCD) to Achieve Sustainability	TWIST
+W7202362853	0	2	osha;safety enforcement;inspections	2026	True	0	0.53798903	True	True	SAFETY-STANDARD ADOPTION AND ENGINEERING-FAILURE LITIGATION OUTCOMES: A SCOPING REVIEW OF THE EMPIRICAL EVIDENCE	International Journal Of Trendy Research In Engineering And Technology
+W7211916524	0	2	safety inspection;inspections	2026	False	0	0.75703325	True	True	Work Systems and Safety	Oxford University Press eBooks
+W7218891974	0	2		2026	False	0	0.72484347	False	False	Heterogeneous response to environmental enforcement: Unresponsive repeat violators?	Resource and Energy Economics
+W7220420522	0	2	labour inspection	2026	False	0	0.75205495	True	True	Enforcement activity or administrative visibility? Decomposing two decades of labour inspection fines in Peru, 2002–2023	Social Sciences & Humanities Open
+W7220845390	0	2		2026	False	0	0.80406023	True	True	Distributive Justice in Social Guarantees for Workers in Hazardous Working Conditions	Qainar Journal of Social Science
+W7220961136	0	2	labor inspection;inspectorate;enforcement of occupational	2026	False	0		True	True		Advances in Financial Crime and Law
+W7220989516	0	2		2026	False	0		False	True	Safety as a Strategic Market Asset: A Conceptual Framework for Business-to-Business Firms	SSRN Electronic Journal
+W7221123447	0	2		2026	False	0	0.7750298	True	False	Broken cost–outcome feedback: the relationship between labour reproduction and occupational safety expenditures in Kazakhstan	International Journal of Economics and Project Management
+W7223317365	0	2		2026	False	0	0.82734472	True	False	Türkiye’de İSG Hizmetlerinin Bizzat İşverence Sunulmasına İlişkin Eğitimlerin Yeterliliğinin Ölçümlenmesi ve Düzenlemenin Eleştirel Analizi	Çalışma ve Toplum
+W7223413985	0	2		2026	True	0	0.8546761	True	True	Safety in military organizations –A scoping review	Safety Science
+W7223838370	0	2	inspections	2026	False	0	0.89447089	True	True	PROBLEMATIKA PENEGAKAN SANKSI DENDA TERHADAP PELANGGARAN NORMA KESELAMATAN DAN KESEHATAN KERJA DI INDONESIA	JURNAL ILMIAH ADVOKASI
+W7225010540	0	2	osha	2026	False	0	0.8806995	False	True	Analyzing cognitive dimensions of construction fatalities based on OSHA investigations	Journal of Safety Research
+W7225194968	0	2		2026	False	0	0.89350064	False	False	Safety evaluation scores as an intermediate performance measure in associations between organizational indicators and accident outcomes in construction and manufacturing	Journal of Safety Research
+W78553672	0	2		2007	False	0	0.05261377	False	False	Lesión por esfuerzos repetitivos	Elsevier eBooks
+W1967985564	1	0	regulatory enforcement	1990	False	411	0.94795873	False	False	Effectiveness of the EPA's Regulatory Enforcement: The Case of Industrial Effluent Standards	The Journal of Law and Economics
+W2116913690	1	0	osha	2006	False	349	0.99534595	True	False	How Much Work-Related Injury and Illness is Missed By the Current National Surveillance System?	Journal of Occupational and Environmental Medicine
+W2104269187	1	0	regulatory enforcement	1991	False	294	0.99487399	True	True	Cooperative Regulatory Enforcement and the Politics of Administrative Effectiveness	American Political Science Review
+W3125763577	1	0	inspections	2018	False	290	0.99900596	True	False	The Value of Regulatory Discretion: Estimates From Environmental Inspections in India	Econometrica
+W2145300971	1	0	osha	2004	False	285	0.98725845	True	False	An evaluation of a “best practices” musculoskeletal injury prevention program in nursing homes	Injury Prevention
+W2061192503	1	0	regulatory enforcement	1986	False	278	0.99236641	True	True	Regulatory Enforcement in a Federalist System	American Political Science Review
+W2088128647	1	0	regulatory enforcement	1984	False	277	0.99113999	True	True	Cooperation, Deterrence, and the Ecology of Regulatory Enforcement	Law & Society Review
+W2080170623	1	0	osha	1999	False	190	0.78791667	True	True	Occupational hearing loss	American Journal of Industrial Medicine
+W2290098699	1	0	inspections	2017	False	186	0.99904421	True	True	The Impact of the PCAOB Individual Engagement Inspection Process—Preliminary Evidence	The Accounting Review
+W3122767087	1	0	inspections	2019	False	181	0.99119478	True	False	Combating Child Labor: Incentives and Information Disclosure in Global Supply Chains	Manufacturing & Service Operations Management
+W2549907004	1	0	osha	2021	False	173	0.99429208	True	True	Private Equity Buyouts and Workplace Safety	Review of Financial Studies
+W2129399628	0	1	regulatory enforcement	2007	False	168	0.9948677	True	True	Coerced Confessions: Self-Policing in the Shadow of the Regulator	The Journal of Law Economics and Organization
+W2158194432	0	1	inspectorate	2010	False	129	0.99220687	True	True	Strengthening Labor Standards Enforcement through Partnerships with Workers’ Organizations	Politics & Society
+W2045733141	1	0	inspections	2015	False	118	0.99617695	True	False	Time to Come Clean? Disclosure and Inspection Policies for Green Production	Operations Research
+W1505893008	1	0	osha	1974	False	100	0.38988095	True	False	On the Economics of Industrial Safety	Law and Contemporary Problems
+W2110270077	1	0	safety inspection;inspections	2003	False	99	0.93429698	True	True	AN EVALUATION OF SAFETY PERFORMANCE MEASURES FOR CONSTRUCTION PROJECTS	Journal of Restructuring Finance
+W4241626225	1	0	osha	1998	True	97		True	False	Assessing occupational safety and health training - a literature review.	
+W2308112086	1	0	inspections	2016	False	92	0.97503962	True	False	Crowdsourcing City Government: Using Tournaments to Improve Inspection Accuracy	American Economic Review
+W2081505504	1	0	osha	1992	False	90	0.98644986	False	False	Building safety: The role of construction unions in the enforcement of OSHA	Journal of Labor Research
+W1980729550	1	0	osha	2003	False	88	0.94663512	True	False	Debt, Operating Margin, and Investment In Workplace Safety	Journal of Industrial Economics
+W2108956913	0	1	labor inspection;inspectorate	2014	False	81	0.99236825	True	True	Pathways to Enforcement: Labor Inspectors Leveraging Linkages with Society in Argentina	Industrial and Labor Relations Review
+W2171463985	1	0	regulatory enforcement;safety enforcement	2009	False	81	0.98329832	True	True	A Deadly Consensus: Worker Safety and Regulatory Degradation under New Labour	The British Journal of Criminology
+W2021817415	1	0	inspections	1999	False	80	0.98461169	True	True	The Value of a Government Monitor for U. S. Banking Firms	Journal of money credit and banking
+W3170468652	1	0	osha	2021	False	68	0.98631075	False	True	Sectoral patterns of accident process for occupational safety using narrative texts of OSHA database	Safety Science
+W1992418448	1	0	regulatory enforcement;inspections	2006	False	66	0.93580617	True	True	Influences on Small-Firm Compliance-Related Behaviour: The Case of Workplace Health and Safety	Environment and Planning C Government and Policy
+W2021543496	1	0	inspectorate	1993	False	66	0.8848418	True	False	Business Responses to the Regulation of Health and Safety in England*	Law & Policy
+W2597128764	1	0	inspections	2017	False	64	0.97054577	True	False	Promoting Change from the Outside: Directing Managerial Attention in the Implementation of Environmental Improvements	Management Science
+W2468223216	0	1	labor inspection	2016	False	63	0.9802932	True	True	Co‐enforcing Labor standards: the unique contributions of state and worker organizations in Argentina and the United States	Regulation & Governance
+W3188748814	0	1	osha;inspections	2021	True	61	1.0	True	True	Labor unions and health: A literature review of pathways and outcomes in the workplace	Preventive Medicine Reports
+W3121986726	0	1	inspections	2017	False	59	0.86400563	False	True	Random Inspections and Periodic Reviews: Optimal Dynamic Monitoring	The Review of Economic Studies
+W2070875129	1	0	inspections	2011	False	56	0.96631189	True	True	Regulator Heterogeneity and Endogenous Efforts to Close the Information Asymmetry Gap	The Journal of Law and Economics
+W2280111935	1	0	regulatory enforcement	2011	False	54	0.96627635	False	True	Regulatory Enforcement Styles and Compliance	Edward Elgar Publishing eBooks
+W2082161267	1	0	msha	2009	False	53	0.96781328	False	False	Pilot sample risk analysis for underground coal mine fires and explosions using MSHA citation data	Safety Science
+W2042419673	0	1	osha	2006	False	50	0.94769614	True	True	Agency Structure and Firm Culture: OSHA, EPA, and the Steel Industry	The Journal of Law Economics and Organization
+W2036038719	1	0	workplace inspection;inspections	1998	False	48	0.20350037	True	True	Occupational Noise-Induced Hearing Loss Surveillance in Michigan	Journal of Occupational and Environmental Medicine
+W2096451855	1	0	inspections	2010	False	48	0.91066111	True	False	The Impact of Inspections on Plant-Level Air Emissions	The B E Journal of Economic Analysis & Policy
+W7125021985	0	1	inspections	2021	False	48	0.9340125	True	True	Risk Managed Construction Strategies for Complex and Highly Regulated Healthcare Facility Developments	International Journal of Scientific Research in Computer Science Engineering and Information Technology
+W2803756962	0	1	regulatory enforcement;inspections	2018	False	47	0.97980702	True	True	Beyond deterrent enforcement styles: Behavioural intuitions of Chinese environmental law enforcement agents in a context of challenging inspections	Public Administration
+W2980821879	0	1	inspections	2019	False	47	0.97220039	True	False	The effect of firm size, asset ownership, and market prices on regulatory violations	Journal of Operations Management
+W4323051504	1	0	osha	2023	False	45	0.98876978	False	False	Severe injuries among construction workers: Insights from OSHA’s new severe injury reporting program	Safety Science
+W2073854666	1	0	osha	1990	False	43	0.98678414	True	True	Using Occupational Safety and Health Administration Accident Investigations to Study Patterns in Work Fatalities	Journal of Occupational and Environmental Medicine
+W1972660936	1	0	osha	1994	False	42	0.20673401	True	False	The Effectiveness of OSHA Penalties: A Stock‐Market‐Based Test	Industrial Relations A Journal of Economy and Society
+W1991141365	1	0	msha	2006	False	41	0.94656965	True	True	Noise Exposure and Hearing Conservation in U.S. Coal Mines—A Surveillance Report	Journal of Occupational and Environmental Hygiene
+W2072910514	1	0	inspectorate	1988	False	41	0.87958115	True	False	Les actes de l'inspection du travail en matière de sécurité : la place du droit dans la justification des relevés d'infraction	Sciences sociales et santé
+W2002350197	1	0	osha	2015	False	40	0.95643672	True	True	Safety benefits of mandatory OSHA 10h training	Safety Science
+W3145747391	0	1	safety enforcement;health and safety enforcement	2021	True	40	0.96125941	True	False	Challenges for Occupational Health and Safety Enforcement in the Construction Industry in Ghana	Construction Economics and Building
+W3123598089	1	0	osha	2021	False	39	0.97058392	True	True	Information Quality and Workplace Safety	Journal of Management Accounting Research
+W2018142032	1	0	osha	1988	False	37	0.92042873	True	True	Compliance with OSHA record-keeping requirements.	American Journal of Public Health
+W4240319960	1	0	osha;msha	1999	False	37		True	True	Work-related lung disease surveillance report 1999.	
+W2129893039	0	1	osha	2009	False	36	0.96961091	True	True	Occupational eye injury and risk reduction: Kentucky workers’ compensation claim analysis 1994–2003	Injury Prevention
+W2953244630	0	1	inspections	2019	False	35	0.9327112	True	False	Compliance Dynamism: Capturing the Polynormative and Situational Nature of Business Responses to Law	Journal of Business Ethics
+W2050190039	1	0	osha	2001	False	32	0.94899124	True	True	Documentation of Hazards and Safety Perceptions for Mechanized Logging Operations in East Central Alabama	Journal of Agricultural Safety and Health
+W2411133323	0	1	labor inspection;inspections	2016	False	31	0.96365824	True	True	Labor Inspections in the Developing World: Stylized Facts from the Enterprise Survey	Industrial Relations A Journal of Economy and Society
+W2319140089	0	1	safety inspection;inspections	2016	False	30	0.96378008	True	False	Facilitators and barriers to occupational health and safety in small and medium-sized enterprises: a descriptive exploratory study in Ontario, Canada	International Journal of Occupational Safety and Ergonomics
+W7156368782	0	1	inspections	2024	False	29	0.98868427	True	False	Integration of Lean Six Sigma and IOT-Based Real-Time Monitoring for Workplace Hazard Reduction in Industrial Facilities	
+W2104441036	1	0	osha	1991	False	25	0.44672131	True	True	Occupational Health And Safety Regulation In The Coal Mining Industry: Public Health At The Workplace	Annual Review of Public Health
+W4390291418	1	0	inspections	2023	False	25	0.94687092	True	True	Increasing the Cost of Informal Employment: Evidence from Mexico	American Economic Journal Applied Economics
+W2027361549	1	0	osha	2009	False	24	0.81486564	True	False	Learning and Recall of Worker Protection Standard (WPS) Training in Vineyard Workers	Journal of Agromedicine
+W62139524	0	1	osha	2013	False	24	0.8851415	True	True	Using OSHA inspection data to analyze respirator protection program compliance	Monthly labor review
+W2335223546	1	0	osha;inspections	1992	False	23	0.76574399	True	True	Safety Regulation and the Risk of Workplace Accidents in Quebec	Southern Economic Journal
+W3022577366	1	0	osha;inspections	2020	False	22	0.82996978	True	True	Analysis of Occupational Safety and Health Administration (OSHA) noise standard violations over 50 years: 1972 to 2019	American Journal of Industrial Medicine
+W1987949224	1	0	regulatory enforcement	2003	True	21	0.09852217	True	True	China's Factory Floors: An industrial Hygienist's View	International Journal of Occupational and Environmental Health
+W2106938288	1	0	safety inspection;inspections	2014	False	21	0.88187669	True	False	Surveillance of work-related amputations in Michigan using multiple data sources: results for 2006–2012	Occupational and Environmental Medicine
+W3048496467	0	1	osha;inspectorate	2020	False	21		True	False	Prevention at work needed to curb the worldwide strong increase in knee replacement surgery for working-age osteoarthritis patients	Scandinavian Journal of Work Environment & Health
+W2057426009	1	0	osha	1992	False	20		False	False	Book Review: Economic and Social Security and Substandard Working Conditions: Dangerous Premises: An Insider's View of OSHA Enforcement	Industrial and Labor Relations Review
+W3124855847	0	1	inspections	2017	False	20	0.948628	True	True	U.S. Free Trade Agreements and Enforcement of Labor Law in Latin America	Industrial Relations A Journal of Economy and Society
+W3123930708	1	0	osha	2021	False	18	0.89856263	True	False	Effect of an occupational health and safety management system based on KOSHA 18001 on industrial accidents	Work
+W2064304937	1	0	labour inspection	2003	False	17	0.71205466	False	True	The labour inspection of Belgium, the United Kingdom and Sweden in a comparative perspective	International journal of law, crime and justice
+W2083325528	1	0	osha	1998	False	17	0.82949561	True	True	Changes in hearing acuity in ambulance personnel	Prehospital Emergency Care
+W2915898014	0	1	osha	2019	False	17	0.93667954	True	False	Noncompliance of the occupational safety and health legislation in the Malaysian construction industry	IOP Conference Series Earth and Environmental Science
+W3121380471	1	0	inspections	2016	False	17	0.94015243	True	False	The Impact of Team Inspections on Enforcement and Deterrence	Journal of the Association of Environmental and Resource Economists
+W4379740901	0	1	inspections	2023	False	17	0.93022388	True	True	How do trucking companies respond to announced versus unannounced safety crackdowns? The case of government inspection blitzes	Journal of Business Logistics
+W890430879	0	1	inspections	2004	False	17		True	False	Making Companies Safe: What Works?	Figshare
+W2113420165	1	0	regulatory enforcement	2013	False	16	0.91000529	True	True	Organizational Challenges to Regulatory Enforcement and Compliance	The Annals of the American Academy of Political and Social Science
+W2799919212	1	0	msha	2018	False	16	0.89267091	True	False	Interstitial Lung Diseases in the U.S. Mining Industry: Using MSHA Data to Examine Trends and the Prevention Effects of Compliance with Health Regulations, 1996–2015	Risk Analysis
+W4213431070	1	0	labour inspection	2022	False	16	0.88880289	True	True	The fragmenting occupation of labour inspection and the degradation of regulatory and enforcement work inside the British state	Economic and Industrial Democracy
+W2539500602	1	0	osha	2016	False	15	0.9178858	True	False	Effectiveness of OSHA Outreach Training on carpenters’ work‐related injury rates, Washington State 2000–2008	American Journal of Industrial Medicine
+W2780329365	0	1	osha	2017	False	15	0.87703222	True	True	Physical Exposures, Work Tasks, and OSHA-10 Training Among Temporary and Payroll Construction Workers	Journal of Occupational and Environmental Medicine
+W2809335544	0	1	safety inspection	2018	False	15	0.89576366	True	False	Improvement of inspection system for reduction of small-scale construction site accident in Korea	Industrial Health
+W2801919486	1	0	osha	2017	False	15	0.95306615	False	False	Occupational Safety and Health Administration (OSHA)	Routledge eBooks
+W1526963055	1	0	osha;inspections	1989	False	14		True	False	A Behavioral Approach to Compliance: OSHA Enforcement's Impact on Workplace Accidents	National Bureau of Economic Research
+W2033615257	0	1	osha	2015	False	14	0.94361901	True	True	Worker Engagement in the Health and Safety Regulatory Arena under Changing Models of Worker Representation	Labor Studies Journal
+W2171550064	1	0	inspections	2012	False	14	0.87961892	True	True	Challenges for the smoking ban in Israeli pubs and bars: analysis guided by the behavioral ecological model	Israel Journal of Health Policy Research
+W4407489513	0	1	osha	2025	False	14	0.98585328	True	True	OSHA Injury Data: An Opportunity for Improving Work Injury Prevention	American Journal of Public Health
+W2552774742	1	0	enforcement of occupational	2016	True	13	0.77020618	True	False	Interventions that facilitate sustainable jobs and have a positive impact on workers' health: an overview of systematic reviews.	PubMed
+W2772060468	0	1	osha	2017	False	13	0.79164806	True	True	Cost-Effective Hearing Conservation: Regulatory and Research Priorities	Ear and Hearing
+W2911660661	1	0	osha	1998	False	13	0.77425584	False	False	Estimating OSHA compliance costs	Policy Sciences
+W2016832520	1	0	inspectorate	2014	False	12	0.90375964	True	False	Australian workplace health and safety regulatory approaches to prosecution: Hegemonising compliance	Journal of Industrial Relations
+W2948814343	0	1	inspectorate	2019	False	12	0.61408848	False	True	Labor inspectorates’ efficiency and effectiveness assessment as a learning path to improve work-related accident prevention	Annals of Operations Research
+W1482728351	0	1	inspections	2014	False	11		True	True	A Tale of Repetition: Lessons from Florida Restaurant Inspections	National Bureau of Economic Research
+W1996210428	1	0	inspectorate	2012	False	11	0.94546512	False	True	A comparative analysis between contractors’ and inspectors’ perceptions of the department of labour occupational health and safety inspectorate relative to South African construction	Safety Science
+W2038058649	1	0	safety inspection	2014	False	11	0.17750394	True	True	Effects of an injury and illness prevention program on occupational safety behaviors among rice farmers in Nakhon Nayok Province, Thailand	Risk Management and Healthcare Policy
+W2040520582	1	0	osha;inspections	2003	False	11	0.96709521	True	True	Regulation of Tattooing in Minneapolis and St. Paul, Minnesota: Tattooists' Attitudes and Relationship Between Regulation and Practice	Public Health Reports
+W2504040258	1	0	osha	2016	False	11	0.94136385	True	False	Findings From the National Machine Guarding Program–A Small Business Intervention	Journal of Occupational and Environmental Medicine
+W2000755937	1	0	osha	1978	False	10	0.22222222	False	True	Effectiveness of OSHA sanctions in influencing employer behavior: Single and multi-period decision models	Accident Analysis & Prevention
+W2276997228	0	1	inspections	2012	False	10	0.80883587	True	True	Moving Away From Total Control in Former Communist Countries – the RRR in Inspections, and Lessons Learned from Reforming them	European Journal of Risk Regulation
+W2797154855	0	1	workplace inspection;inspections	2018	False	9	0.77897145	True	True	Using tickets in employment standards inspections: Deterrence as effective enforcement in Ontario, Canada?	The Economic and Labour Relations Review
+W1987367746	1	0	labor inspection	2013	False	8	0.90303512	True	True	Grid-group cultural theory and the causal mechanism approach as requisite partners. Explaining enforcement decisions in West European labor inspection	Innovation The European Journal of Social Science Research
+W2253347801	1	0	inspectorate	2012	False	8	0.8076242	True	False	Being a Good Inspector: Regulatory Competence and Australia’s Mines Inspectorate	Policy and Practice in Health and Safety
+W3164041084	0	1	osha	2021	False	8	0.78011877	True	True	Worker Injuries in Southern California’s Warehousing Industry: How to Better Protect Workers in This Burgeoning Industry?	NEW SOLUTIONS A Journal of Environmental and Occupational Health Policy
+W4367281914	0	1	inspections	2023	False	8		False	False	Should the Timing of Inspections be Predictable?	SSRN Electronic Journal
+W4410704488	1	0	osha	2025	False	8	0.96583249	True	False	Who should manage worker safety to reduce occupational accidents?	International Journal of Operations & Production Management
+W2168875614	1	0	enforcement of occupational	1996	False	7	0.93250183	True	True	The Fort McMurray demonstration project in social marketing: health- and safety-related behaviour among oil sands workers	Occupational Medicine
+W2432623648	1	0	regulatory enforcement	2015	False	7		True	True	The law, the researcher, and occupational health	Scandinavian Journal of Work Environment & Health
+W2533733431	0	1	safety inspection;inspections	2016	False	7	0.5617134	True	True	Neural Features of Processing the Enforcement Phrases Used during Occupational Health and Safety Inspections: An ERP Study	Frontiers in Neuroscience
+W3211890046	0	1	inspectorate	2021	False	7	0.82955046	True	True	A comparative analysis of Inspector responses to complaints about psychosocial and physical hazards	Regulation & Governance
+W4399885142	0	1	inspections	2024	False	7	0.8661027	True	False	Analysis of the relationship between unregistered employment and occupational accidents in Turkey	Work
+W4408297662	1	0	inspectorate	2008	False	7	0.93565217	True	True	A critical review of the effectiveness of the Department of Labour (DoL) Occupational Health and Safety (OH&S) Inspectorate in relation to the construction industry in South Africa	Acta Structilia
+W2033637170	1	0	osha;inspections	1998	False	6	0.7264922	True	True	A Descriptive Study of U.S. OSHA Penalties and Inspection Frequency for Musculoskeletal Disorders in the Workplace	American Industrial Hygiene Association Journal
+W2185543956	1	0	inspectorate	2008	False	6		True	True	THE EFFECTIVENESS OF THE OCCUPATIONAL HEALTH AND SAFETY (OH&S) INSPECTORATE IN SOUTH AFRICAN CONSTRUCTION	Nelson Mandela University Research Repository
+W2991192993	0	1	osha	2017	False	6	0.81643512	True	True	Construction industry prosecution cases under Malaysian occupational safety and health legislation	
+W3034165920	0	1	osha	2020	False	6	0.15201508	True	False	A study on the enforcement strategy for safety and health compliance in manufacturing sector in Malaysia	IOP Conference Series Materials Science and Engineering
+W3119471295	1	0	labor inspection;safety inspection;inspectorate;inspections	2020	False	6	0.67014645	True	True	Health and Safety Inspections in Workplaces: a Review Among Three European Countries	Materia Socio Medica
+W3161490226	0	1	inspectorate;inspections	2021	False	6	0.8534433	True	True	Balancing Trade‐Offs in the Detection of Primary Schools at Risk	Educational Measurement Issues and Practice
+W2933921472	0	1	inspections	2019	False	5	0.66538416	True	True	Bloodborne Pathogens Standard Enforcement at the Occupational Safety and Health Administration: The First Twenty-Five Years	NEW SOLUTIONS A Journal of Environmental and Occupational Health Policy
+W3010922214	1	0	inspectorate	2019	False	5	0.62829436	True	False	Working time of a Polish professional driver	Archives of Transport
+W70080067	1	0	inspections	2012	False	5	0.86533985	True	True	Are There Unusually Effective Occupational Safety and Health Inspectors and Inspection Practices	
+W16976088	0	1	osha	2013	False	4	0.00233905	True	False	The Use of Personal Protective Equipment (PPE) among Workers of Five Refuse Disposal Companies within Port Harcourt Metropolis, Rivers State, Nigeria	UWE Research Repository (UWE Bristol)
+W2242804912	1	0	inspections	2008	False	4	0.36811221	True	True	[Prevention of building site accidents in Umbria during reconstruction after an earthquake: the experience of one local health unit].	PubMed
+W2944815731	0	1	osha;inspections	2019	False	4	0.7611002	True	True	Do scheduled inspections help preventing fires?	Pozharovzryvobezopasnost/Fire and Explosion Safety
+W4319862461	0	1	inspections	2023	False	4	0.76380597	True	True	Disclosure policy design and regulatory agent behavior	American Journal of Agricultural Economics
+W4322718538	0	1	workplace inspection;inspections	2023	False	4		True	True	Using tickets in employment standards inspections: Deterrence as effective enforcement in Ontario, Canada?	
+W4400307829	0	1	safety inspection;inspections	2024	False	4	0.6460114	True	True	Shaming, stringency, and shirking: Evidence from food‐safety inspections	American Journal of Agricultural Economics
+W2088748212	1	0	msha	2012	False	3	0.81086265	True	True	Evaluating Equivalence of the Safe Performance Index (SPI) to a Traditional Risk Analysis	Open Journal of Safety Science and Technology
+W2092827176	0	1	osha	2013	False	3	0.7938198	True	True	Analysis of the relationship between regulation compliance and occupational injuries - Focusing on logistic and poisson regression analysis -	Journal of the Korea Safety Management and Science
+W2248831724	1	0	osha	2010	False	3	0.71261433	True	True	"""'To Assure Safe and Healthful Working Conditions': Taking Lessons from Labor Unions to Fulfill OSHA's Promises"	
+W3014836886	0	1	osha;inspections	2020	False	3	0.62970633	True	True	Worker Safety in Maine’s Boatyards: Improving OSHA Compliance Efforts	Maine policy review
+W4399832444	0	1	regulatory enforcement	2024	False	3	0.75451424	True	True	Environmental and Socioeconomic Impact Analysis of Quarry Operations in General Santos City on its Host Communities	Journal of interdisciplinary perspectives
+W4405783769	0	1	osha	2024	False	3	0.82504992	True	False	Assessment of the Influence of Safety Training on the Technicians Safety Culture in the Pharmaceutical Manufacturing Industries in Kenya	Journal of Health and Environmental Research
+W7160693982	0	1	osha	2026	False	3	0.99066924	True	False	Advancing Automated OSHA Compliance Analysis in Construction through Prompt Engineering for NLP-Based Insight Extraction	Journal of Management in Engineering
+W1491525642	1	0	osha;regulatory enforcement;inspections	2013	False	2		True	True	Regulatory enforcement, politics, and institutional distance: OSHA inspections 1990-2010	RePEc: Research Papers in Economics
+W2045809029	1	0	inspections	2013	False	2	0.18528389	True	True	¿DE DÓNDE PROCEDEN LOS PRINCIPALES RIESGOS LABORALES EN LAS ALMAZARAS ESPAÑOLAS?	DYNA
+W2774461477	1	0	tilsyn	2017	True	2		True	True	Effekter av myndighetstiltak på arbeidsmiljø og helse: en systematisk kunnskapsoppsummering	BIBSYS Brage (BIBSYS (Norway))
+W2801627880	1	0	inspections	2018	False	2	0.06371729	True	True	Efficacia dei Servizi di Prevenzione e Sicurezza negli Ambienti di Lavoro (Servizi PSAL) nella riduzione degli infortuni professionali in Regione Lombardia	La Medicina del Lavoro
+W4285604432	0	1	labour inspection;inspections	2022	False	2	0.42622738	True	True	Creating Dynamic Checklists via Bayesian Case-Based Reasoning: Towards Decent Working Conditions for All	International Joint Conference on Artificial Intelligence
+W4297102821	0	1	enforcement of occupational	2022	False	2	0.59736478	True	True	Occupation Health and Safety: A Failure to Protect the Right of Workers to Participate in Enforcement	Relations industrielles
+W4410506712	0	1	inspections	2025	False	2	0.85078767	True	True	Dual Deterrent Effects of Randomized On‐Site Inspections on Voluntary Information Disclosure: Evidence From Voluntary Management Earnings Forecasts	Managerial and Decision Economics
+W7115719186	0	1	labour inspection;inspections	2025	False	2	0.94467774	True	True	How do labour inspections deal with the transformations of work?	Journal of Industrial Relations
+W7131299003	0	1	labor inspection;inspectorate;regulatory enforcement	2026	False	2	0.97060204	True	True	From enforcers to alliance builders: (re)configuring occupational identities among labor inspectors through a dialogue-based inspection practice	Safety Science
+W7160152448	0	1	regulatory enforcement;inspections	2026	False	2	0.98005148	True	True	An approach to health and safety framework for construction: An Ethiopian perspective	Social Sciences & Humanities Open
+W2556473081	1	0	inspections	2016	False	1	0.19626682	True	False	A reflection on the current local authority-led regulation model: views from small- and medium-sized businesses	Policy and Practice in Health and Safety
+W2582727457	1	0	msha	2010	False	1	0.56768953	True	True	The Impact of Safety Performance Measures and Structural Factors on Underground Coal Mine Productivity 03-07	
+W2595615276	1	0	inspections	2014	False	1	0.94598806	True	True	Displacements in organisations’ responses to the inspections of their psychosocial working environment	Zenodo (CERN European Organization for Nuclear Research)
+W2911816472	1	0	osha;inspections	2010	False	1	0.9228243	False	True	Further Evidence on What Kinds of Injuries OSHA Inspections Prevent	
+W3000692532	1	0	osha;inspections	2008	False	1	0.48178447	False	True	The Impact of OSHA Inspections on Lost Time Injuries in Manufacturing: Pennsylvania Manufacturing, 1998-2005	
+W2979778547	0	1	inspections	2020	False	1	0.10294118	True	True	Safety Protocols in Civil and Environmental Engineering Laboratories	ASEE Annual Conference & Exposition
+W4241294716	0	1	safety inspection;inspections	2021	False	1		True	False	A taxonomy of expert elevator and amusement device inspector knowledge	
+W4383562254	0	1	labor inspection;inspectorate	2026	False	1	0.0007882	True	True	Weberian Civil Service and Labor Enforcement	Public Administration and Development
+W4396933937	0	1	enforcement of occupational	2024	False	1	0.5688951	True	True	The Enforcement of Occupational Safety and Health Requirements in Public and Private Sectors in the Emirate of Abu Dhabi, the United Arab Emirates	Occupational Diseases and Environmental Medicine
+W4417344533	0	1	inspections	2025	False	1		True	True	Predictably Unpredictable Inspections	National Bureau of Economic Research
+W652068097	1	0	workplace inspection;inspections	2023	False	1		True	True	The effectiveness of enforcement activities of the occupational safety program of Korea	American University Research Archive
+W7135033040	0	1	regulatory enforcement	2026	False	1	0.90720036	False	True	Local information, mismatch, and the cost of randomization in regulatory enforcement	Journal of Public Economics
+W2186665777	0	1	osha	2012	False	0	0.37980547	True	False	Bilingual Multimedia Software Development Concept (IM-Smart Safety) as an Alternative Media for Presenting Information to Foreign Workers during Safety Course in the Malaysian Construction Industry	
+W2289928759	0	1	osha;inspections	2013	False	0		True	True	Occupational safety's impact on Maine's boat yards	
+W2724383826	0	1	osha	2017	False	0		True	True	Expanding a Path Analytic Model of Quality Management to Include the Management of Safety	ScholarWorks - WMU (Western Michigan University)
+W2996920565	0	1	osha	2020	False	0	0.00576206	True	True	Proposed Federal OSHA Standards for Wildfire Smoke	eYLS (Yale Law School)
+W3023942980	0	1	inspections	2020	False	0	0.061671	True	True	The blunt truth: Industrial safety in cannabis growing facilities	Summit (Simon Fraser University)
+W3087231964	0	1	inspections	2020	False	0		True	False	Essays on Economics of Facilities for End-of-Life Care	UA Campus Repository (The University of Arizona)
+W3129953667	0	1	workplace inspection;inspections	2023	False	0		True	True	Using tickets in employment standards inspections: Deterrence as effective enforcement in Ontario, Canada?	
+W3143966473	0	1	osha	2013	False	0		True	True	Essays in Law and Economics	Digital Access to Scholarship at Harvard (DASH) (Harvard University)
+W3168844947	0	1	labor inspection;inspections	2021	False	0		True	True	Do labor inspections make a difference? An analysis of establishments in Brazil	
+W3188440103	0	1	osha	2018	False	0	0.50677357	True	False	Components of Effective Safety and Health Management System towards the Awareness of Occupational Safety and Health Administration (OSHA) at Government Owned Company Kuala Lumpur	Journal of International Business Economics and Entrepreneurship
+W4284670290	0	1	inspections	2022	False	0	0.08815465	True	True	The challenge of automated and autonomous technologies to Australian Defence Force compliance with workplace health and safety laws	Australian Journal of Defence and Strategic Studies
+W4387171483	0	1	labour inspection;inspections	2023	False	0	0.29730621	True	True	Creating Explainable Dynamic Checklists via Machine Learning to Ensure Decent Working Environment for All: A Field Study with Labour Inspections	Frontiers in artificial intelligence and applications
+W4413550287	0	1	osha	2020	False	0		False	True	Why having fewer OSHA inspectors matters	The Conversation
+W4414843761	0	1	inspections	2025	False	0		False	True	Violation and Enforcement of Workplace Regulations: Evidence from Mexican Firm Inspections	SSRN Electronic Journal
+W4417465496	0	1	osha;safety inspection	2025	False	0		True	False	Autonomous Construction-Site Safety Inspection Using Mobile Robots: A Multilayer VLM-LLM Pipeline	arXiv (Cornell University)
+W7151549340	0	1	labor inspection	2026	False	0	0.16910567	True	False	Guarantee Mechanism for the Fulfillment of Labor Rights in the Civil Construction Industry, Amazonas-Peru	International Journal of Law and Society
+W7160702002	0	1	regulatory enforcement	2026	False	0	0.22989125	True	False	Strategies to Reduce Work-Related Injuries in the Saudi Manufacturing Sector	Iconic Research and Engineering Journals
+W7162503518	0	1	osha	2026	False	0	0.31982356	True	True	Occupational Risk Exposure in Automotive Coatings Small and Medium Enterprises: Environmental Controls in the EU and USA Context	Trends in Ecological and Indoor Environmental Engineering
+W7164195623	0	1	inspections	2026	False	0	0.33542215	True	False	RADRISK Inspector: a mobile application for shielding design and safety distance calculation in industrial gamma radiography	Frontiers in Nuclear Engineering
+W7164547867	0	1	inspections	2026	False	0	0.35270322	True	True	Measuring Effective Labour Regulation in the Less Developed World: Recent Advances and Challenges Ahead	Comparative labor law & policy journal
+W7165940990	0	1	regulatory enforcement	2026	False	0	0.37645349	True	True	Monitoring by Monitoring: Third‐Party Auditing and Monitoring Data Authenticity	Journal of Policy Analysis and Management
+W7167920843	0	1	labor inspection	2026	False	0	0.46262404	True	True	From constitutional commitment to weak enforcement: explaining regulatory capacity gaps in post-war labor governance	Cogent Social Sciences
+W7168158363	0	1	osha;inspections	2026	False	0	0.46288749	True	True	Eighteen-Year Trends in Respirator Program Compliance: A Nationwide OSHA Enforcement Analysis	Journal of the International Society for Respiratory Protection
+W7169781365	0	1	osha	2026	False	0	0.45633259	True	True	Busy outside directors and ESG performance: Evidence from workplace safety	International Review of Financial Analysis
+W7201881760	0	1	inspections	2026	False	0	0.5451422	True	True	Patterns of Occupational Safety Violations and Enforcement Strategies: Insight from a Multi-Year Analysis in Abruzzo, Italy	Safety
+W7203830814	0	1	labor inspection;osha	2026	False	0		True	True	From Arrow to evidence: health economics and occupational health in the Nordic context	Scandinavian Journal of Work Environment & Health
+W7213745503	0	1	labour inspection;inspectorate	2026	False	0		True	False	What Determines Labour-Law Enforcement? Evidence on the FDI–Labour Inspection Nexus in India	Research Square
+W7214920041	0	1	safety inspection	2026	False	0	0.67235092	True	True	UAV-based automated monitoring of personal protective equipment compliance on construction sites: a field performance evaluation	Technobius
+W7216978656	0	1	inspections	2026	False	0	0.70913771	True	False	Risk analysis of unsafe actions and unsafe conditions associated with occupational accidents among patchouli oil distillery workers	International Journal on Health and Medical Sciences
+W7220369590	0	1	osha	2026	False	0	0.76440296	True	False	Generative AI for Manufacturing Workers’ Safety and Health: A Comprehensive Analysis Through OSHA Compliance	Manufacturing Letters
+W7221552809	0	1	msha	2026	False	0	0.75542627	True	True	Coal Mine Safety Resilience via R4 Framework and Entropy-TOPSIS-GRA: A Decade of U.S. MSHA Data	Processes
+W7222890182	0	1	regulatory enforcement	2026	False	0	0.82609162	True	True	Factors to consider in evaluating the safety performance of construction companies: the case of Ghana	International Journal of Occupational Safety and Ergonomics
+W7223671940	0	1	inspections	2026	False	0	0.80064655	True	False	Predicting Next-Inspection Cooling-Tower Regulatory Noncompliance to Support Inspection Prioritization: Evidence from New York City	Informatics
+W7223870825	0	1	labour inspection;inspections	2026	False	0	0.8440765	True	True	Legal Measures for Combating Safety Violations at Construction and Mining Sites in Kazakhstan	Journal of risk analysis and crisis response
+W7224802578	0	1	osha	2026	False	0	0.85593259	True	True	Illumination-related OSHA enforcement activity in U.S. workplaces: Trends, penalties, and surveillance limitations, 1972–2024	NEW SOLUTIONS A Journal of Environmental and Occupational Health Policy

@@ -1,0 +1,15 @@
+{
+ "ar": 2020,
+ "doi": "https://doi.org/10.1257/app.20180138",
+ "forfattere": [
+  "Attila Lindner",
+  "Balázs Reizer"
+ ],
+ "id": "W2535864760",
+ "kilde": "American Economic Journal Applied Economics",
+ "lenke": "https://openalex.org/W2535864760",
+ "oversikt": false,
+ "sammendrag": "We estimate the effect of front-loading unemployment benefit payments on nonemployment duration and reemployment wages. Exploiting a sharp change in the path of benefits for those who claimed unemployment benefits after November 1, 2005 in Hungary, we show that nonemployment duration fell by two weeks, while reemployment wages rose by 1.4 percent as a result of front-loading. We show that these behavioral responses were large enough to offset the mechanical cost increase of the unemployment insurance. We argue that our results indicate that benefit front-loading was a Pareto improving policy reform as both unemployed and employed workers were made better off. (JEL D91, J31, J64, J65)",
+ "tittel": "Front-Loading the Unemployment Benefit: An Empirical Assessment",
+ "type": "article"
+}

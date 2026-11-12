@@ -1,0 +1,20 @@
+{
+ "apen_url": "https://arxiv.org/pdf/2511.03377",
+ "ar": 2025,
+ "doi": "https://doi.org/10.48550/arxiv.2511.03377",
+ "forfattere": [
+  "Jonas Cederlöf",
+  "Roman, Sara"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "https://arxiv.org/pdf/2511.03377",
+ "hvordan": "pdf",
+ "id": "W4416019886",
+ "kilde": "arXiv (Cornell University)",
+ "lenke": "https://openalex.org/W4416019886",
+ "merknad": "ÅPEN VERSJON (preprint eller arbeidsnotat), merkes i svaret",
+ "oversikt": false,
+ "sammendrag": "We study how job search behavior evolves over the unemployment spell and the extent to which job seekers experience duration dependence in callbacks. Leveraging data on 2.4 million monthly activity reports containing detailed information on job applications, interviews, and other search activities, we separate within-spell changes from dynamic selection with a time-and-spell fixed effects design. We find that raw search effort increases with unemployment duration, but this pattern reflects dynamic selection: within-spell search effort remains flat and declines sharply in the months preceding re-employment. Around unemployment insurance (UI) exhaustion, search effort drops by approximately 10%, likely due to participation in labor market programs crowding out job search. Reported interviews indicate that callbacks decline by 6% per month, but only 10--14% of this decline reflects ``true'' duration dependence. Finally, we document substantial heterogeneity: search effort and duration dependence vary strongly by age, and job seekers in tight labor markets experience about 50% more duration dependence.",
+ "tittel": "Duration Dependence and Job Search over the Spell: Evidence from Job Seeker Activity Reports",
+ "type": "preprint"
+}

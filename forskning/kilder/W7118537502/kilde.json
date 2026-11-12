@@ -1,0 +1,23 @@
+{
+ "apen_url": "https://doi.org/10.1016/j.shaw.2025.12.005",
+ "ar": 2026,
+ "doi": "https://doi.org/10.1016/j.shaw.2025.12.005",
+ "forfattere": [
+  "Jeppe Zielinski Nguyen Ajslev",
+  "Julie Palmqvist",
+  "Asta Kjærgaard",
+  "Emilie Marie Rudolf",
+  "Mikala E. Jakobsen"
+ ],
+ "hentet": "2026-11-08",
+ "hentet_fra": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13023077/fullTextXML",
+ "hvordan": "Europe PMC",
+ "id": "W7118537502",
+ "kilde": "Safety and Health at Work",
+ "lenke": "https://openalex.org/W7118537502",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "Background: Working environment authorities (WEAs) are increasingly challenged with addressing psychosocial and ergonomic risks. In response to this, the Danish Government initiated the agreement to problem-solve (ATP) initiative. The objective of this study is to examine whether the dialogue-based ATP inspection practice is an effective means to address and target psychosocial and ergonomic risk factors and to discuss this in relation to more traditional inspection injunctions. Methods: The study utilizes data provided by the WEA including information on participating enterprise's registered industry, number of employees, type of occupational safety and health (OSH) problem, fulfillment status, and sector (public or private). The data and information regarding other injunctions given by labor inspectors were also made available by the WEA, allowing for comparison between inspection practices. Results: 44% of ATPs addressed psychosocial risks, 31% addressed ergonomic issues. In particular, ATP issues include heavy lifting (19%), quantitative workload and time pressure (13%), emotional demands (9%), violence and traumatic events (7%), sexual harassment, bullying and insults (7%), ergonomic work positions and movement (6%), as well as unclear or contradictory demands (4%). These are some of the exact psychosocial and ergonomic OSH issues that inspectorates have struggled to address, and this contrasts other types of injunctions. Conclusion: The ATP initiative provides an approach to target the otherwise elusive psychosocial and ergonomic OSH risks. As such, it may be a tool for improving inspection practices and the prevention of psychosocial OSH problems. However, future research should investigate the outcomes of dialogue-based inspection practices in terms of sickness absence, organizational trust, psychosocial safety climate, physical exertion, accidents, or the sustainability of measures, as well as how ATPs may be improved to function even more effectively.",
+ "tittel": "Unlocking the Intangible: How Dialogue and Guidance in Labor Inspection Address Psychosocial and Ergonomic Risks at Work",
+ "type": "article"
+}

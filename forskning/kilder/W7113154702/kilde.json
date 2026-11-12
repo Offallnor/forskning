@@ -1,0 +1,24 @@
+{
+ "ar": 2025,
+ "forfattere": [
+  "Park, A-La",
+  "McDaid, David",
+  "Rinaldi, Miles",
+  "Brinchmann, Beate",
+  "Wittlund, Sina",
+  "Lorentzen, Thomas",
+  "Aars, Nils Abel P.",
+  "Moe, Cathrine"
+ ],
+ "hentet": "2026-11-09",
+ "hentet_fra": "https://nva.sikt.no/registration/019c89751843-2a4e3fa9-e3f7-4830-b243-25af0a241a58",
+ "hvordan": "vitenarkivet",
+ "id": "W7113154702",
+ "kilde": "London School of Economics and Political Science Research Online (London School of Economics and Political Science)",
+ "lenke": "https://openalex.org/W7113154702",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "Objective: To assess return on investment (ROI) from implementation of Individual Placement and Support (IPS) for employment in Norway. Methods: A four-state, four-year Markov model was constructed to explore costs and benefits of IPS implementation for 561 new recipients aged 18 to 40 of a time-limited health-related rehabilitation welfare benefit . Data were drawn from multiple sources including a difference-in-differences analysis of longitudinal registry data, detailed IPS resource use and cost data and literature. The primary outcome was ROI compared to areas without IPS in Norway from societal and public purse perspectives. Results: Net economic benefits of $Int 2.62 million and $Int 0.24 million, equivalent to ROI of 4.76 and 1.34, were generated from societal and public purse perspectives. 9% of the target population received IPS per annum, at a cost of $0.70 million. If employment gains were sustained over 4 years this would equate to 67.76 additional full time equivalent (FTE) years of work. For each additional FTE year of work, 33 WAA recipients would need to receive IPS. The most sensitive model parameter, WAA benefit, would have to reduce by 24% for IPS not have a positive ROI. Conclusions: Even under conservative assumptions, the addition of IPS to existing supported employment approaches is likely to have a positive ROI from the societal and public purse perspectives in just over 1 and 3 years respectively. This is before broader benefits are considered, such as impacts on health service utilization and reduction in the use of alternative supported employment services.",
+ "tittel": "Estimating the return on investment from implementation of Individual Placement and Support in Norway",
+ "type": "article"
+}

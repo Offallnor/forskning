@@ -1,0 +1,23 @@
+{
+ "apen_url": "https://bmcpsychiatry.biomedcentral.com/track/pdf/10.1186/s12888-016-0854-1",
+ "ar": 2016,
+ "doi": "https://doi.org/10.1186/s12888-016-0854-1",
+ "forfattere": [
+  "Pauliina Mattila‐Holappa",
+  "Matti Joensuu",
+  "Kirsi Ahola",
+  "Jussi Vahtera",
+  "Marianna Virtanen"
+ ],
+ "hentet": "2026-11-09",
+ "hentet_fra": "https://bmcpsychiatry.biomedcentral.com/track/pdf/10.1186/s12888-016-0854-1",
+ "hvordan": "pdf",
+ "id": "W2360160115",
+ "kilde": "BMC Psychiatry",
+ "lenke": "https://openalex.org/W2360160115",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "BACKROUND: We examined attachment to employment and education among young adults before they were granted a fixed-term work disability pension due to psychiatric diagnosis, and the factors associated with this attachment. METHODS: The data comprised all persons aged 18-34 who received a new-onset fixed-term disability pension compensation due to a mental disorder in Finland in 2008 (N = 1163). The data were derived from pension applications and the enclosed medical records, and were linked to employment records from a period of three years before the disability pension. We analysed the factors associated with attachment to employment or education with log-binomial regression analysis. RESULTS: Fifty percent of the participants were attached to employment or education before work disability pension. The attached were more often women; had higher basic and vocational education; had mood disorder rather than psychosis diagnosis as a primary diagnosis; and had no record of harmful alcohol use or drug use, or recorded symptoms of mental disorders already at school-age. CONCLUSIONS: The level of attachment to employment or education before work disability pension is low among young adults with mental disorders and several risk factors predict poor attachment; severe or comorbid mental disorder, early-life psychiatric morbidity, substance use, male sex, low basic education, and lacking vocational education.",
+ "tittel": "Attachment to employment and education before work disability pension due to a mental disorder among young adults",
+ "type": "article"
+}

@@ -1,0 +1,16 @@
+{
+ "apen_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/spol.12810",
+ "ar": 2022,
+ "doi": "https://doi.org/10.1111/spol.12810",
+ "forfattere": [
+  "Johannes Hagen",
+  "Hannes Malmberg"
+ ],
+ "id": "W4220936084",
+ "kilde": "Social Policy and Administration",
+ "lenke": "https://openalex.org/W4220936084",
+ "oversikt": false,
+ "sammendrag": "Abstract Employer cofinancing in disability insurance (DI) systems aims to reduce the inflow to DI by making employers internalise their DI costs. We evaluate a cofinancing system for the local government sector in Sweden inspired by the literature on yardstick competition. In the system, local governments are responsible for the DI of their employees, while being compensated by the central government for their expected DI payments. The arrangement essentially eliminates the large fiscal externalities associated with DI. Also, the arrangement can be implemented within current administrative setups, and the design credibly ensures that no extra costs are imposed on the local government sector in the aggregate. Drawing on Swedish employer‐employee matched data, we show that the net transfers implied by the scheme are quite large as a share of DI payments, but sufficiently small as a share of tax payments to not be onerous, and that they only marginally increase regional inequality.",
+ "tittel": "A cofinancing model for disability insurance and local government employers",
+ "type": "article"
+}

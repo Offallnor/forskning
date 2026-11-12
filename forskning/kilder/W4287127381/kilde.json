@@ -1,0 +1,15 @@
+{
+ "ar": 2025,
+ "doi": "https://doi.org/10.1086/734996",
+ "forfattere": [
+  "Nicolas Petrosky-Nadeau",
+  "Robert G. Valletta"
+ ],
+ "id": "W4287127381",
+ "kilde": "Journal of Political Economy Macroeconomics",
+ "lenke": "https://openalex.org/W4287127381",
+ "oversikt": false,
+ "sammendrag": "We assess labor market effects of the Coronavirus Aid, Relief, and Economic Security (CARES) Act $600 weekly unemployment insurance (UI) supplement. We analyze labor force transitions using monthly Current Population Survey microdata and imputed UI benefits. The results show moderate disincentive effects of the supplement on job finding. We rationalize this result in a dynamic model of job acceptance decisions that yields a reservation level of UI benefits at which a recipient is indifferent between unemployment and employment at their prior wage. Calculations based on the model are consistent with the empirical analysis in regard to the moderate fraction of UI recipients who were likely to reject job offers.",
+ "tittel": "Unemployment Insurance Generosity and Job Acceptance: Effects of the 2020 CARES Act",
+ "type": "article"
+}

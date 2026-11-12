@@ -1,0 +1,18 @@
+{
+ "apen_url": "http://www.diw.de/documents/publikationen/73/diw_01.c.471154.de/dp50.pdf",
+ "ar": 1992,
+ "forfattere": [
+  "Jennifer Hunt"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "http://www.diw.de/documents/publikationen/73/diw_01.c.471154.de/dp50.pdf",
+ "hvordan": "pdf",
+ "id": "W3121276228",
+ "kilde": "RePEc: Research Papers in Economics",
+ "lenke": "https://openalex.org/W3121276228",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "In West Germany during the 1980's, law changes cut the level of unemployment compensation for the unemployed without children, and extended the duration of unemployment insurance for unemployed aged 42 and over, leaving other groups unaffected.This paper takes advantage of these natural experiments to estimate the disincentive effects of unemployment compensation in Germany, using the German Socio-Economic Panel.The analysis of the cut in level is inconclusive.However, the extension of the duration by as much as three times for some older unemployed had a large impact, decreasing the escape rate from unemployment for affected groups by 44-62 percent.Transitions to out of the labor force and transitions of unemployed under 50 were more responsive to extensions of unemployment insurance than transitions to employment and transitions of unemployed 50 or over.The implied elasticity for escapes of men to employment is similar to estimates for men in the United States.The elasticities imply that differences in the potential duration of unemployment insurance only partially explain the difference in spell lengths between Germany and the United States.Düring the 1980's several law changes were enacted in West Germany affecting the level and duration of unemployment compensation for certain groups, leaving the remainder of the unemployed unaffected.This paper takes advantage of the experiments provided by these law changes to estimate the impact of unemployment compensation on transitions out of unemployment.The disincentives of unemployment benefits are important in the context of the debate over unemployment differences between Europe and the United States.Since the 1960's unemployment spells in Europe have been longer on average than in the United States, and there is agreement that this has reduced Europe's ability to recover from shocks to the economy, contributing to a rise in unemployment relative to the United States in the 1970's and 1980's. 1 Although an economy may have long unemployment spells and a low unemployment rate if economic conditions have been favorable for a long time, if inflows to unemployment rise temporarily during a recession, longer spells will increase the time until the rate of unemployment returns to its previous level.The rise in European unemployment rates has in large part been due to increases in spell length, however, rather than to higher inflows to unemployment, and thus not only the length of unemployment spells in Europe, but also their change must be explained.In 1973 Germany, for example, had 0.6 percent unemployment and an average duration of 21 weeks, compared with an unemployment rate of 4.9 percent and an average duration of only 10 weeks in the United States.After poor recoveries from successive recessions, Germany's unemployment rate and average duration had risen to 7.1 percent and 46 weeks in 1984, while the United States figures were 7.5 percent and 18 weeks.2",
+ "tittel": "The Effect of Unemployment Compensation on Unemployment Duration in Germany",
+ "type": "preprint"
+}

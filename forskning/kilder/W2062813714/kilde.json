@@ -1,0 +1,20 @@
+{
+ "apen_url": "https://medicaljournalssweden.se/jrm/article/download/18156/22010",
+ "ar": 2008,
+ "doi": "https://doi.org/10.2340/16501977-0270",
+ "forfattere": [
+  "Jaana Kuoppala",
+  "Anne Lamminpää"
+ ],
+ "hentet": "2026-11-09",
+ "hentet_fra": "https://medicaljournalssweden.se/jrm/article/download/18156/22010",
+ "hvordan": "pdf",
+ "id": "W2062813714",
+ "kilde": "Journal of Rehabilitation Medicine",
+ "lenke": "https://openalex.org/W2062813714",
+ "merknad": "",
+ "oversikt": true,
+ "sammendrag": "OBJECTIVE: To evaluate the effects of rehabilitation on sickness absenteeism, return to work and disability pensions among persons of working age. METHOD: Original articles published during 1970-2005 indexed in Medline and PsycINFO databases were studied systematically. The main search terms were rehabilitation, sick leave and disability pension. Out of 576 references, 41 potentially eligible publications were retrieved; other sour-ces producing 21 articles. Forty-five studies were included in the analysis. RESULTS: There is moderate evidence that return-to-work programmes decrease long sick leaves (risk ratio (RR) 0.46, range 0.25-1.10) and multimodal rehabilitation decreases the risk of disability pension (RR 0.64, range 0.52-1.14), counselling, exercise, multimodal medical rehabilitation or return-to-work programmes having no effect on return to work. Based on mainly weak evidence, early rehabilitation seems to reduce both absenteeism and disability pension. CONCLUSION: Any type of rehabilitation may have an effect at an early stage of decreased work ability, being ineffective later on if applied as the only mode of rehabilitation. Where chronic disability is already present, multimodal medical rehabilitation needs to be combined with vocational rehabilitation in order to reduce absenteeism and disability pensions. It is essential that the workplace is integrated into rehabilitation.",
+ "tittel": "Rehabilitation and work ability: A systematic literature review",
+ "type": "review"
+}

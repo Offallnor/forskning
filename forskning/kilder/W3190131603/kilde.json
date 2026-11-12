@@ -1,0 +1,22 @@
+{
+ "apen_url": "https://doi.org/10.1002/1348-9585.12261",
+ "ar": 2021,
+ "doi": "https://doi.org/10.1002/1348-9585.12261",
+ "forfattere": [
+  "Tomohiro Ishimaru",
+  "Odgerel Chimed‐Ochir",
+  "Sara Arphorn",
+  "Yoshihisa Fujino"
+ ],
+ "hentet": "2026-11-09",
+ "hentet_fra": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8354578/fullTextXML",
+ "hvordan": "Europe PMC",
+ "id": "W3190131603",
+ "kilde": "Journal of Occupational Health",
+ "lenke": "https://openalex.org/W3190131603",
+ "merknad": "",
+ "oversikt": true,
+ "sammendrag": "OBJECTIVES: Safety at work is important for workers with low back pain (LBP). This requires good job design that considers both worker capacities and work requirements, a concept called \"Fitness for Work.\" This systematic review aimed to evaluate the effects of fitness for work interventions on workers with LBP. METHODS: We searched PubMed, the Cochrane Library, and Scopus from 2000 through 2020, using relevant terms. RESULTS: We reviewed nine randomized controlled trials (RCTs) out of 3052 unique references. All studies were RCTs conducted in Western countries. Some RCTs reported positive findings that fitness for work interventions were effective for LBP in facilitating shorter return to work time and reducing short-term sick leave. However, the results of the reviewed studies were inconsistent; therefore, there is insufficient evidence to draw firm conclusions about the effectiveness of fitness for work interventions. Furthermore, the interventions were not effective in reducing long-term sick leave over a 24-month period. There were consistent findings that fitness for work interventions were no more effective than control interventions on pain intensity, disability, and work ability of workers with LBP. CONCLUSIONS: These results suggest that fitness for work interventions may be somewhat effective in facilitating return to work and preventing short-term recurrence in workers with LBP. However, workers need to carefully manage their condition to prevent long-term recurrence.",
+ "tittel": "Effectiveness of fitness for work interventions for workers with low back pain: A systematic review",
+ "type": "review"
+}

@@ -1,0 +1,16 @@
+{
+ "apen_url": "https://doi.org/10.1016/j.labeco.2025.102687",
+ "ar": 2025,
+ "doi": "https://doi.org/10.1016/j.labeco.2025.102687",
+ "forfattere": [
+  "Giulio Zanella",
+  "Riccardo Salomone"
+ ],
+ "id": "W4407217164",
+ "kilde": "Labour Economics",
+ "lenke": "https://openalex.org/W4407217164",
+ "oversikt": false,
+ "sammendrag": "Two programs providing financial incentives for reemployment of workers at risk of long-term unemployment are evaluated vis-à-vis intensive job-search assistance through policy experimentation involving about 10,000 job seekers in Italy: (i) a reemployment voucher that incentivizes specialized providers; (ii) a reemployment bonus that incentivizes job seekers directly. Results indicate that: the voucher is effective for men while the bonus works for women; each policy is no less effective than job-search assistance, but only the voucher is clearly cost effective; there are no side effects on post-treatment earnings or job duration. A one-sided job search model with endogenous search effort rationalizes these empirical findings. • Financial incentives for reemployment evaluated via a large-scale experiment in Italy. • Reemployment voucher is effective for men; Reemployment bonus works better for women. • Both policies are as effective as job-search assistance, but only the voucher is cost-effective. • No adverse effects observed on post-treatment earnings or job duration. • A one-sided job search model rationalizes the experimental findings.",
+ "tittel": "Incentive-based active labor market programs: Insights from policy experimentation in Italy",
+ "type": "article"
+}

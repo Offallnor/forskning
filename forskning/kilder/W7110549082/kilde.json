@@ -1,0 +1,19 @@
+{
+ "apen_url": "https://cep.lse.ac.uk/pubs/download/dp1835.pdf",
+ "ar": 2022,
+ "forfattere": [
+  "Anna D'Ambrosio",
+  "Vincenzo Scrutinio"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "https://cep.lse.ac.uk/pubs/download/dp1835.pdf",
+ "hvordan": "pdf",
+ "id": "W7110549082",
+ "kilde": "RePEc: Research Papers in Economics",
+ "lenke": "https://openalex.org/W7110549082",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "In this paper, we exploit the provision of higher UB at different points of the unemployment spell to shed light on the relative cost of insurance at different horizons after the job loss. First, we exploit a double cap system in an RDD setting to study the effect of higher benefit levels in the early part of unemployment spell on time on benefits and non-employment. We find that higher benefits increase the time spent on benefits and in non-employment, with no impact on new job quality. Second, we exploit an age-based discontinuity in benefit duration, which determines higher benefits later in the spell, to compare the behavioural and mechanical costs of these two variations in benefits. We find that the moral hazard costs are greater for higher benefit levels early in the spell. In addition, we provide evidence of a slight negative selection in long term unemployment and argue that the long-term unemployed face higher uncertainty in their employment prospects. These findings suggest that higher benefits later in the unemployment spell generate lower costs and would provide higher insurance. Our results question the optimality of strongly declining schedules for unemployment benefit levels.",
+ "tittel": "A few Euro more: benefit generosity and the optimal path of unemployment benefits",
+ "type": "preprint"
+}

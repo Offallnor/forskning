@@ -1,0 +1,16 @@
+{
+ "ar": 2022,
+ "doi": "https://doi.org/10.1093/ej/ueac034",
+ "forfattere": [
+  "Rodolfo G. Campos",
+  "J Ignacio García-Pérez",
+  "Iliana G. Reggio"
+ ],
+ "id": "W2747288945",
+ "kilde": "The Economic Journal",
+ "lenke": "https://openalex.org/W2747288945",
+ "oversikt": false,
+ "sammendrag": "Abstract We develop a novel way of identifying the liquidity and moral hazard effects of unemployment insurance exclusively from how job-finding rates respond to unemployment benefits that vary over an unemployment spell. We derive a sufficient statistics formula for the dynamically optimal level of unemployment benefits based on these two effects. Using a regression kink design (RKD) that simultaneously exploits two kinks in the schedule of unemployment benefits, we apply our method to Spain for the years 1992–2012 and find that moral hazard effects dominated liquidity effects, suggesting that Spanish unemployment benefits exceeded the optimal level in that period.",
+ "tittel": "Moral Hazard Versus Liquidity and the Optimal Timing of Unemployment Benefits",
+ "type": "article"
+}

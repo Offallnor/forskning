@@ -1,0 +1,95 @@
+# Oversikter
+W2325466037  # Kausto 2008, nordisk oversikt over gradert sykmelding
+W1592746682  # 2014, effekt av gradert sykmelding på arbeidsdeltakelse (oversikt)
+W2911999154  # FHI 2018, kartleggingsoversikt gradert vs. full
+W3010213937  # Ellingsen mfl. 2010, nordisk kunnskapsoppsummering arbeidsrettede tiltak (samme rapport som KU-d2e7857c i Kudos; tekst finnes)
+W1977295977  # 2015, Cochrane-type oversikt arbeidstilpasning ved ryggsmerter
+# Randomiserte forsøk
+W2048984013  # Viikari-Juntura 2012, RCT Finland, retur til arbeid
+W2013503454  # 2012, samme RCT, helseeffekter
+W65995551    # Scheel 2002, aktiv sykmelding (klyngerandomisert)
+W2073048698  # Scheel 2002, Blind faith?
+# Reformer og kvasieksperimenter
+W2132658439  # Kausto 2014, lovendring Finland
+W2744665053  # Viikari-Juntura 2017, lovendring Finland
+W2896121459  # 2018, kostnader etter lovendring Finland
+# Registerstudier med kontroll for seleksjon
+W2079898261  # Andrén 2012, muskel/skjelett
+W1511717146  # Andrén, psykiske lidelser (arbeidsnotat)
+W2024122272  # Andrén 2013, psykiske lidelser
+W88826225    # Høgelund 2012, psykiske lidelser
+W2895192936  # 2016, langtidseffekter av gradert sykmelding
+W2982381358  # 2019, Nederland, varighet
+W2159632075  # Kausto 2012, uførepensjon, propensity score
+W3124208379  # Andrén, «Half empty or half full»
+W4408975540  # 2025, konfundering av helse, Norge
+W4410013226  # 2025, helsekonsekvenser, Norge
+W2986214152  # 2019, Troms
+W3024269757  # 2020, sammenlignende perspektiv
+# Kjent fra NVA-katalogen, ikke funnet av frasesøket
+W2116716741  # Markussen, Mykletun og Røed 2010, «The Case for Presenteeism» (IZA; publisert i Journal of Public Economics 2012), instrument: legenes graderingstilbøyelighet
+# Lagt til 7.11 etter referansesøk og blindt utvalg etter kriterier.md
+W4404867325  # 2024, scoping review: aktivering av sykmeldte i Skandinavia
+W3198402854  # 2021, norsk kunnskapsoppsummering om tiltak mot langvarig fravær
+W3098021798  # 2013, FHI: effekter av tiltak under IA-avtalen
+W2412604146  # 2016, oversikt over tidlige tiltak på arbeidsplassen
+W2060195272  # 2010, mangel på randomiserte forsøk om sykmelding
+W2799283105  # 2018, systematisk oversikt, fit note i Storbritannia
+W2746656768  # 2014, dansk litteraturoversikt
+W2796572035  # 2016, randomisert forsøk, aktivering av sykmeldte (Danmark)
+W2771771185  # 2018, norsk reform av aktivitetskrav
+W2473929489  # 2016, samme reform, virkning for bedriftene
+W1501193741  # 2009, norsk naturlig eksperiment, legenes sykmelding
+W2805335844  # 2019, gradert tilbakeføring som springbrett (Nederland/Tyskland)
+W3170959179  # 2021, alternativt arbeid i kommuner, Finland
+W2147352545  # 2009, Høgelund, gradert tilbakeføring, Danmark
+W2341011605  # 2016, gradert tilbakeføring etter rehabilitering, Tyskland, matchet
+W900768955   # 2015, gradert tilbakeføring, Tyskland
+W4293168340  # 2022, arbeidslivslengde etter gradert sykmelding, Finland
+W2605726377  # 2017, gradert tilbakeføring ved psykiske lidelser, Tyskland
+# Åpne versjoner funnet 7.11 (versjoner.tsv)
+W3121578847  # 2017, Hernæs, forarbeid til 2018-artikkelen om aktiv sykmelding (RePEc)
+W3122932312  # Andrén, «Half empty», arbeidsnotat (RePEc)
+W3138116577  # 2021, Maas mfl., gradvis tilbakeføring, Canada, matchet (CEM), n=25 000 – oversett i blindt utvalg, funnet ved gjennomgang av utelatte
+# Norske studier funnet i FHIs kartleggingsoversikt 2018 (7.11), ikke fanget av søket
+KU-7799f411-4c20-4a1a-aa6f-5aa52fbc9eab  # Lie 2014 (Uni Helse for Nav), kausal registeranalyse, «Liten effekt av gradert sykmelding»; tittelsiden har Stein Atle Lie (Kudos oppgir feilaktig Lysø)
+NB-4339  # samme rapport som KU-7799f411 (Navs bibliotek), samme tekst
+# Norske kilder fra vitenarkivet og Arbeid og velferd (7.11)
+AV-2012-2-03  # Kann mfl. 2012, forskjeller mellom kommuner
+AV-2013-3-06  # Nossen og Brage 2013, metodevalg
+AV-2018-2-06  # Nossen og Lysø 2018
+0198cc8d6f08-8af27b58-5e7a-47d1-8504-4bc4b0361a42  # Grødem mfl. 2015 (ISF)
+AV-2014-3-01  # Hedmark, håndheving av aktivitetskravet (trolig samme materiale som Hernæs)
+AV-2017-1-04  # Hedmarksmodellen, forsøk
+AV-2015-3-04  # Aktivitetskrav og midlertidig stans
+0198cc68215c-e166c8d4-5987-4d10-89dd-addd0d9a8e50  # Aktiv sykmelding 2004
+# Full gjennomkjøring 9.11.2026: nye treff i Kudos og Navs bibliotek
+KU-b027fe4b-4bf4-433e-b689-b7d06086b095  # Lie 2010 (tittelsiden; Kudos oppgir Lysø), Nav, forløpsanalyse av gradert og full sykmelding, 10 % utvalg 2002–2009
+KU-b3dc23d1-ea3c-4add-9681-19e495c184d4  # samme rapport som KU-b027fe4b (dublett i Kudos)
+KU-34183300-cbad-41d5-8e50-9684f7850798  # FHI-forskermøte 2013, effekter av tiltak under IA-avtalen; samme materiale som W3098021798 (der bare sammendrag)
+AV-2011-3-02  # Brage mfl. 2011, gradert sykmelding: omfang, utvikling og bruk (beskrivende)
+AV-2007-3-05  # Kann og Brage 2007, sykmeldingsreformen 2004, registerdata
+KU-a0d29b59-a943-4e06-bb77-35d70df04c85  # Brage, Finess og Frauenfelder 2013, Nav-rapport «Gradert sykmelding»: bruk 1989–2010 og paneldatamodeller for effekt (lagt inn for hånd, søket koblet tittelen til feil kilde)
+# Finske kilder fra Finna (9.11.2026)
+FI-fikka.5922382  # 2025, doktoravhandling UEF, bruk av delvis sykmelding: arbeidsforhold og utfall på arbeidsmarkedet
+W3023766513  # Reini 2020 (Finna-post FI-arto.017381212), 2020, oversikt over finsk forskning 2008–2019 om retur til arbeid og uførepensjon etter sykefravær
+# FI-3amk.134839: Kausto 2013 er samme avhandling som W1592746682 (søket koblet dem), ingen åpen tekst
+FI-jykdok.2341206  # TTL 2011, sluttrapport fra prosjektet om delvis sykmelding ved muskel/skjelett (samme materiale som W2048984013?)
+FI-arto.013468384  # 2017, bruk av delvise ytelser og arbeidsdeltakelse (originalartikkel)
+FI-jykdok.2232825  # Kela 2009, evaluering av delvis sykepenger: erfaringer og retur til arbeid (forvaltning/beskrivende)
+# Fra det blinde utvalget av nye kandidater (9.11.2026, valgt-blind-2.tsv)
+019904aa7986-0e4c2361-eb33-4871-9ab3-47b965597085  # Gjerde 2010, masteroppgave, systematisk kunnskapsoppsummering om oppfølging av sykmeldte, eget delspørsmål om gradert sykmelding
+FI-jykdok.2188791  # 2022, finsk utredning: forskningsoversikt over effekter av tiltak for arbeidsevne (valgt på tittelen)
+AV-2016-3-05  # Nossen og Brage 2016, forløpsanalyse 2003–2014, friskmelding etter gradert og full start (beskrivende)
+# Ny gjennomkjøring 10.11.2026: sterke kilder fra to nye blinde utvalg (stegtest, valgt-blind C og D)
+W2005271733  # Østerås mfl. 2010, klyngerandomisert forsøk med fastleger: flere graderte sykmeldinger; indirekte (endrer bruken, ikke gradering tilfeldig)
+W4239637744  # Dansk RCT i jobbsentre; effekt av delvis sykmelding fra variasjon i lokale strategier
+W2794297004  # Sabariego mfl. 2018, systematisk oversikt over europeiske strategier for (re)integrering, med gradert sykmelding
+W4392582001  # Derbyshire mfl. 2024, systematisk oversikt (71 studier) med egne kategorier for delvis sykmelding og gradert retur
+W2794825180  # Systematisk oversikt (GRADE) om tilrettelegging ved retur, delvis retur i PICO
+W2025121479  # Andrén, delvis sykmelding som behandling, strukturell modell med uobservert heterogenitet (Sverige)
+W1579837130  # Andrén, delvis sykmelding fra start, tidspunkt (Sverige)
+W1527098577  # Andrén, delvis sykmelding for arbeidsledige (Sverige)
+W7105590329  # Andrén og Andrén 2025 (SSRN), nyeste i serien
+W2810202913  # Tysk kohort med PS-matching (1009 par), gradert retur (stufenweise Wiedereingliederung)
+W2510995146  # Schneider mfl. 2016, Health Policy, langtidsfravær og gradert retur, senere utfall

@@ -1,0 +1,25 @@
+{
+ "apen_url": "https://downloads.hindawi.com/journals/psychiatry/2023/2789891.pdf",
+ "ar": 2023,
+ "doi": "https://doi.org/10.1155/2023/2789891",
+ "forfattere": [
+  "Thomas Nordahl Christensen",
+  "Iben Gammelgård Wallstrøm",
+  "Elsebeth Nylev Stenager",
+  "Lone Christina Hellström",
+  "Anders Bo Bojesen",
+  "Merete Nordentoft",
+  "Lene Falgaard Eplov"
+ ],
+ "hentet": "2026-11-09",
+ "hentet_fra": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10162865/fullTextXML",
+ "hvordan": "Europe PMC",
+ "id": "W4367311571",
+ "kilde": "Psychiatry Journal",
+ "lenke": "https://openalex.org/W4367311571",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "Background. The individual placement and support (IPS) model for persons with severe mental illness has proven to be more effective than traditional vocational approaches in improving competitive work over 18 months. In this study, the longer-term effects of IPS over 30 months were investigated in a Danish setting. Method. In a randomized clinical trial, we compared the effects of IPS, IPS enhanced with cognitive remediation and work-related social skills training (IPSE), and service as usual (SAU). At three locations in Denmark, 720 patients with serious mental illnesses were randomly assigned to the three groups. Competitive employment, education, and hospital admissions were tracked for 30 months using Danish national registers. Results. The beneficial effects of IPS on competitive employment and education at the 18-month follow-up were sustained over the 30-month follow-up period. Participants receiving IPS or IPSE were more likely to obtain competitive employment or education than those who received service as usual (IPS 65%, IPSE 65%, SAU 53%, p = 0.006 ), and they worked on average more weeks competitively (IPS 25 weeks, IPSE 21 weeks, SAU 17 weeks; IPS vs. SAU p = 0.004 and IPSE vs. SAU p = 0.007 ). Moreover, participants in the two IPS groups had fewer outpatient visits during the 30-month follow-up. However, this was only statistically significant when comparing IPSE with SAU p = 0.017 . Conclusion. In conclusion, IPS and IPS enhanced with cognitive remediation and work-related skills training demonstrated that the vocational effects of the interventions are retrained over 30 months in a Danish context.",
+ "tittel": "30-Month Follow-Up of Individual Placement and Support (IPS) and Cognitive Remediation for People with Severe Mental Illness: Results from a Randomized Clinical Trial",
+ "type": "article"
+}

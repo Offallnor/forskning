@@ -1,0 +1,16 @@
+{
+ "apen_url": "https://doi.org/10.1016/j.rspp.2026.100296",
+ "ar": 2026,
+ "doi": "https://doi.org/10.1016/j.rspp.2026.100296",
+ "forfattere": [
+  "Terance James Rephann",
+  "Tanya Nicole Wanchek"
+ ],
+ "id": "W7132815136",
+ "kilde": "Regional Science Policy & Practice",
+ "lenke": "https://openalex.org/W7132815136",
+ "oversikt": false,
+ "sammendrag": "This paper examines the state economic impact of the Virginia Department of Labor and Industry’s (DOLI) Virginia Occupational Safety and Health (VOSH) compliance program. The program’s purpose is to improve workplace safety through enforcement of workplace safety and health regulations. Workplace injuries and illnesses have significant short-term and long-term economic effects on businesses and workers, including increased production costs, reduced worker productivity and earnings, lower labor force participation, and increased mortality rates. VOSH inspections mitigate some workplace hazards and adverse effects of injuries and illnesses, resulting in cost savings, and labor force, productivity, and quality-of-life improvements. The study uses information from published empirical studies and the Virginia REMI PI+ economic impact model to assess these supply-side VOSH inspection-related economic impacts.",
+ "tittel": "Quantifying the economic impact of occupational safety and health enforcement in Virginia",
+ "type": "article"
+}

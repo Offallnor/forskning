@@ -1,0 +1,20 @@
+{
+ "ar": 2026,
+ "doi": "https://doi.org/10.1177/00048674261471316",
+ "forfattere": [
+  "Oscar Gil Gonzalo",
+  "Juan Luis Sánchez González",
+  "Alba Sánchez-Gil",
+  "Lorena Carrascal-Laso",
+  "María Isidoro‐García",
+  "Javier Martín‐Vallejo",
+  "Jesús Pérez"
+ ],
+ "id": "W7196951041",
+ "kilde": "Australian & New Zealand Journal of Psychiatry",
+ "lenke": "https://openalex.org/W7196951041",
+ "oversikt": true,
+ "sammendrag": "Background: Young people with first-episode psychosis experience high rates of disruption in work and education and consistently describe vocational participation as a core priority of recovery. This meta-analysis aimed to evaluate the effectiveness of evidence-based interventions in improving employment and education rates after a first-episode psychosis. Method: A PROSPERO-registered meta-analysis was conducted following Preferred Reporting Items for Systematic Reviews and Meta-Analyses guidelines. Three endpoints were analysed: (a) employment, (b) education, and (c) combined vocational rates. Both meta-analyses of proportions and comparative meta-analyses (intervention vs control) were performed under random-effects models. Risk of bias (RoB2), Risk of Bias in Non-randomised Studies – of Exposure and certainty of evidence Grading of Recommendations, Assessment, Development and Evaluation were assessed. Results: Thirty-one studies ( n = 8651) were included. Vocational interventions – particularly Individual Placement and Support (odds ratio = 2.86, 95% CI 1.81–4.54) – were consistently associated with improved competitive employment compared with control conditions (odds ratio = 2.35, 95% CI 1.88–2.94). No intervention showed a consistent advantage for education rates (odds ratio = 1.19, 95% CI 0.80–1.76). The combined endpoint showed substantial heterogeneity ( I 2 = 69.6%, τ 2 = 0.296, p < 0.001) and possible publication bias, limiting interpretability (odds ratio = 2.02, 95% CI 1.29–3.17). Conclusions: Our findings support integrating structured, evidence-based vocational support – particularly Individual Placement and Support – as a routine component of services for early psychosis, specifically for patients with employment goals.",
+ "tittel": "Evidence-based interventions for vocational recovery in first-episode psychosis: A meta-analysis of employment and education rates",
+ "type": "review"
+}

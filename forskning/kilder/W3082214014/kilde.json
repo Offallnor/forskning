@@ -1,0 +1,17 @@
+{
+ "ar": 2019,
+ "forfattere": [
+  "W. Similan Rujiwattanapong"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "https://red-files-public.s3.amazonaws.com/meetpapers/2019/paper_232.pdf",
+ "hvordan": "pdf",
+ "id": "W3082214014",
+ "kilde": "RePEc: Research Papers in Economics",
+ "lenke": "https://openalex.org/W3082214014",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "This paper investigates the impact of partially endogenous unemployment insurance (UI) extensions on the dynamics of unemployment and its duration structure in the US. Using a search and matching model with endogenous separations, variable job search intensity, on-the-job search and worker heterogeneity, I allow for the maximum UI duration to depend on unemployment and for UI benefits to depend on observable employment characteristics. The model can account for a large fraction of the observed rise in the long-term unemployment and realistic dynamics of the unemployment duration distribution during the Great Recession. Eliminating all UI extensions during the Great Recession could potentially lower the unemployment rate by 0.9-3.4 percentage points via both the responses of job search and vacancy posting incentives. Disregarding rational expectations about the timing of UI extensions implies an overestimation of unemployment by up to 2 percentage points. Once the heterogeneity in UI status and benefit level is accounted for, unobserved heterogeneity of workers does not account for much of the incidence of long-term unemployment.",
+ "tittel": "Unemployment Dynamics and Unemployment Insurance Extensions under Rational Expectations",
+ "type": "preprint"
+}

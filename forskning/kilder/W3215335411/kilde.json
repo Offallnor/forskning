@@ -1,0 +1,19 @@
+{
+ "apen_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/joes.12479",
+ "ar": 2021,
+ "doi": "https://doi.org/10.1111/joes.12479",
+ "forfattere": [
+  "Marta C. Lopes"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "https://e-archivo.uc3m.es/bitstreams/654dcb9c-8873-496e-a43e-1c541ac96377/download",
+ "hvordan": "pdf",
+ "id": "W3215335411",
+ "kilde": "Journal of Economic Surveys",
+ "lenke": "https://openalex.org/W3215335411",
+ "merknad": "",
+ "oversikt": true,
+ "sammendrag": "Abstract In this paper, I present an exhaustive literature review on the empirical work that estimated the impact of the potential duration of unemployment insurance on unemployment duration, measured in a week‐to‐week elasticity. For each study, I include information on data—county, period of analysis, type of database, gender, and age, estimation—estimation model, unobserved heterogeneity, and source of identification, and average effect. The range of estimates is wide: from 0.02 to 1.3 weeks for each additional week of potential duration. This review suggests that larger estimates belong to studies analyzing North America before the 1990s, Europe in more recent periods, survey data, female, older individuals, using other estimation techniques than survival analysis, or survival analysis that account for unobserved heterogeneity.",
+ "tittel": "A review on the elasticity of unemployment duration to the potential duration of unemployment benefits",
+ "type": "article"
+}

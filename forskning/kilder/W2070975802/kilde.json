@@ -1,0 +1,18 @@
+{
+ "apen_url": "https://oem.bmj.com/content/oemed/63/7/495.full.pdf",
+ "ar": 2006,
+ "doi": "https://doi.org/10.1136/oem.2005.020545",
+ "forfattere": [
+  "Anna Katharina Mortelmans",
+  "Peter Donceel",
+  "Dirk Lahaye",
+  "Simon Bulterys"
+ ],
+ "id": "W2070975802",
+ "kilde": "Occupational and Environmental Medicine",
+ "lenke": "https://openalex.org/W2070975802",
+ "oversikt": false,
+ "sammendrag": "BACKGROUND: Patient work resumption after sickness absence varies even among patients with similar pathologies and characteristics. Explanations remain uncertain. One newly investigated field is \"information asymmetry\", a situation in which critical information is not appropriately exchanged between stakeholders in disability management. It is hypothesised that information asymmetry between social insurance physicians and occupational physicians prolongs sickness absence. OBJECTIVES: To assess the influence of enhanced information exchange between these physicians on patient outcome. METHODS: Non-randomised controlled intervention study. The setting was the work inability assessment consultation of social insurance physicians in Belgium. Inclusion criteria were: employee, age 18-50, and subacute (more than one month) sickness absence. The intervention was a structured information exchange (through the use of a communication form) between the patient's social insurance physician and occupational physician. The intervention started when the patient's sickness absence reached the subacute stage, and ended when the sickness absence benefit was ceased or the duration exceeded one year. The primary outcome measure was the sickness absence benefit status of the patient assessed one year after benefit onset. RESULTS: Of the 1883 patients asked to enroll in the study, 1564 (84%) participated; 505 (32%) of 1564 patients were assigned to the intervention group and 1059 (68%) to the control group; 1553 (99%) of 1564 patients completed the study. In the intervention group, 86% received no sickness absence benefit at the end of the study, versus 84% in the control group (95% CI 0.91-1.15). No significant differences in other outcome parameters were obtained. CONCLUSIONS: Information exchange between physicians may not be enough to influence work resumption among patients on sickness absence. Further research on stakeholders' information asymmetry and its effect on the outcome of patients are necessary. The complexity of information asymmetry in disability management cannot be underestimated.",
+ "tittel": "Does enhanced information exchange between social insurance physicians and occupational physicians improve patient work resumption? A controlled intervention study",
+ "type": "article"
+}

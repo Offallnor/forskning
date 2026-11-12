@@ -1,0 +1,23 @@
+{
+ "apen_url": "http://www.brandeis.edu/economics/RePEc/brd/doc/Brandeis_WP82.pdf",
+ "ar": 2015,
+ "doi": "https://doi.org/10.1257/aer.p20151061",
+ "forfattere": [
+  "David Card",
+  "Andrew C. Johnston",
+  "Pauline Leung",
+  "Alexandre Mas",
+  "Zhuan Pei"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "https://docs.iza.org/dp13341.pdf",
+ "hvordan": "pdf",
+ "id": "W2116604021",
+ "kilde": "American Economic Review",
+ "lenke": "https://openalex.org/W2116604021",
+ "merknad": "ÅPEN VERSJON (preprint eller arbeidsnotat), merkes i svaret",
+ "oversikt": false,
+ "sammendrag": "We provide new evidence on the effect of the unemployment insurance (UI) weekly benefit amount on unemployment insurance spells based on administrative data from the state of Missouri covering the period 2003-2013. Identification comes from a regression kink design that exploits the quasi-experimental variation around the kink in the UI benefit schedule. We find that UI durations are more responsive to benefit levels during the recession and its aftermath, with an elasticity between 0.65 and 0.9 as compared to about 0.35 pre-recession.",
+ "tittel": "The Effect of Unemployment Benefits on the Duration of Unemployment Insurance Receipt: New Evidence from a Regression Kink Design in Missouri, 2003–2013",
+ "type": "article"
+}

@@ -1,0 +1,25 @@
+{
+ "apen_url": "https://doi.org/10.1111/add.70155",
+ "ar": 2025,
+ "doi": "https://doi.org/10.1111/add.70155",
+ "forfattere": [
+  "Eline Borger Rognli",
+  "Kristoffer Andreas Aamodt Andersen",
+  "Erlend Marius Aas",
+  "Silje Endresen Rème",
+  "June Ullevoldsæter Lystad",
+  "Marianne Riksheim Stavseth",
+  "Espen Ajo Arnevik"
+ ],
+ "hentet": "2026-11-09",
+ "hentet_fra": "https://cdn.clinicaltrials.gov/large-docs/15/NCT04289415/SAP_000.pdf",
+ "hvordan": "pdf",
+ "id": "W4412642570",
+ "kilde": "Addiction",
+ "lenke": "https://openalex.org/W4412642570",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "BACKGROUND AND AIM: Unemployment rates among individuals with substance use disorders (SUD) are high, and evidence-based vocational methods are lacking. Employment is important because it improves treatment outcomes and protects against relapse. Individual Placement and Support (IPS) has proven effective in helping patients with psychosis obtain competitive employment. We aimed to investigate the effectiveness of IPS on vocational outcomes for patients with SUD. DESIGN: Randomized controlled trial. SETTING: SUD treatment units at Oslo University Hospital, Norway. PARTICIPANTS: Patients with SUD who wanted to obtain competitive employment. A total of 202 SUD patients were included in the trial, of which eight withdrew consent, five died and two were erroneously included, giving a modified intention to treat analysis set of 187 participants, of which 91 were randomized to IPS and 96 to the enhanced control group condition. INTERVENTION AND COMPARATOR: Treatment as usual plus IPS for up to 13 months versus treatment as usual, a self-help guidebook, a workshop of three two-hour sessions and one session of individual counselling. MEASUREMENTS: Employment data were obtained from Statistics Norway and linked with study data. Primary outcome was at least one day of competitive employment during an 18-month period after inclusion in the trial. Secondary employment-related outcomes described job tenure, number of different jobs, hours worked and employment earnings during the same period. FINDINGS: There was no difference between the groups in the main outcome [39.6% vs. 34.4%; odds ratio (OR) = 1.28, 95% confidence interval (CI) = 0.70-2.35], but participants in the IPS group worked more hours (601 vs. 344; b = 330, 95% CI = 25-635) and had higher total salary in Norwegian krone (141 000 vs 73 000; b = 94 000, 95% CI = 17000-170 000) than control group participants. Control group participants were more likely to receive services from the Social and Welfare Services (53.1% vs. 27.5%; OR = 2.99, 95% CI = 1.64-5.57). CONCLUSION: In this randomized controlled trial of Individual Placement and Support (IPS) versus enhanced self-help for individuals with substance use disorders in Norway, there was no difference between groups regarding job acquisition, defined as at least one day of competitive employment during an 18-month period; however, IPS participants worked more hours and earned a higher total salary than control group participants.",
+ "tittel": "The effectiveness of Individual Placement and Support on vocational outcomes for patients with substance use disorders: A pragmatic superiority randomized controlled trial of Individual Placement and Support versus enhanced self‐help",
+ "type": "article"
+}

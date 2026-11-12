@@ -1,0 +1,20 @@
+{
+ "apen_url": "https://hdl.handle.net/10642/6081",
+ "ar": 2018,
+ "doi": "https://doi.org/10.1017/s0047279418000302",
+ "forfattere": [
+  "Ida Drange",
+  "Niklas Jakobsson"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "https://nva.sikt.no/registration/0198cc90be39-918f9f63-0bb3-4a5e-b0ec-a94430b823da",
+ "hvordan": "vitenarkivet",
+ "id": "W2803335770",
+ "kilde": "Journal of Social Policy",
+ "lenke": "https://openalex.org/W2803335770",
+ "merknad": "SJEKK DOKUMENT: «Ida Drange» står ikke i starten",
+ "oversikt": false,
+ "sammendrag": "Abstract Prior research on active labour market programmes (ALMPs) for young people has revealed either no effect or negative effects on transition rates into employment. In addition to accessing the programme content, participation in ALMPs bestows the right to a supplementary benefit. Yet, the direct effect of this benefit on the use and outcome of ALMPs remains largely unknown. We study the effects of a Norwegian policy that pays much higher benefits to recipients when they reach 19 years of age. This policy provides a natural experimental setting that allows us to utilise the age discontinuity to observe whether young people are more likely to become benefit recipients after their nineteenth birthday, and to estimate the effect of benefits on the labour supply. As age determines the increase in benefits rather than need, it creates a random and exogenous variation in the criteria for allocating cash benefits. We use Norwegian administrative register data that cover all 18 to 19 year olds during the period 2003 to 2012. We find no effect on programme take-up or employment rates. Hence, benefits do not work against the aim of ALMPs and young people's responsiveness to financial incentives cannot explain such programmes’ lack of effects.",
+ "tittel": "Incentive Effects of Cash Benefits among Young People. A Natural Experiment from Norway",
+ "type": "article"
+}

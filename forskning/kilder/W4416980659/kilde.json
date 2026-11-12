@@ -1,0 +1,26 @@
+{
+ "apen_url": "https://doi.org/10.1016/j.ijmedinf.2025.106216",
+ "ar": 2025,
+ "doi": "https://doi.org/10.1016/j.ijmedinf.2025.106216",
+ "forfattere": [
+  "Martin A Gorosito",
+  "Bjørnar Berg",
+  "Anis Yazidi",
+  "Åsmund Hermansen",
+  "Britt Elin Øiestad",
+  "Margreth Grotle",
+  "Kåre Rønn Richardsen",
+  "Hårek Haugerud"
+ ],
+ "hentet": "2026-11-09",
+ "hentet_fra": "https://nva.sikt.no/registration/019bdfbfb6f8-0c6051c7-6fcf-4a03-ad7e-2a3faa6d9f09",
+ "hvordan": "vitenarkivet",
+ "id": "W4416980659",
+ "kilde": "International Journal of Medical Informatics",
+ "lenke": "https://openalex.org/W4416980659",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "INTRODUCTION: Disability pension (DP) among young adults has steadily increased in Norway, with chronic pain and psychological distress among the main causes. This study examined the association between co-occurring psychological distress and chronic pain in adolescence and the risk of DP during emerging adulthood, before and after the Norwegian Labour and Welfare Administration (NAV) reform. Machine learning survival models were also developed to predict early DP and identify consistent risk factors across cohorts. METHODS: Data from two general population surveys in 1995-1997 (Young-HUNT1) and 2006-2008 (Young-HUNT3) were linked to public registry data for DP, with a mean follow-up of 12 years. These represent populations pre- and post-NAV reform, respectively. Crude and adjusted Cox proportional hazards models tested associations between chronic pain, psychological distress and their co-occurrence with early DP. Machine learning survival models were developed using common predictors across cohorts and validated temporally. SurvSHAP(t) and hazard ratios were used for explainable risk factor analysis. RESULTS: Co-occurring psychological distress and chronic pain were associated with increased early DP risk in Young-HUNT3 (HR = 2.25, [95 % CI 1.62 to 3.14]) but not in Young-HUNT1. Tree-based machine learning models showed strong predictive performance and generalizability over time, with ExtraSurvivalTrees achieving a validation c-index of 0.75 [95 % CI 0.74-0.76]. Consistent risk factors included low social integration, limited physical activity, and low parental education in both cohorts, while additional factors post-reform included low self-esteem, poor self-rated health, and negative school experiences. CONCLUSION: Adolescents with co-occurring psychological distress and chronic pain face an elevated risk of early DP. Early identification and support are crucial, as risk factors extend beyond medical conditions. Findings also suggest that NAV policy changes may have influenced DP receipt rates among young adults.",
+ "tittel": "Disability pension during emerging adulthood: Insights from the young-HUNT study on psychological distress, chronic pain, and policy reform",
+ "type": "article"
+}

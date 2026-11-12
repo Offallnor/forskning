@@ -1,0 +1,21 @@
+{
+ "ar": 2017,
+ "doi": "https://doi.org/10.1136/oemed-2017-104342",
+ "forfattere": [
+  "Sigrid Salomonsson",
+  "Fredrik Santoft",
+  "Elin Lindsäter",
+  "Kersti Ejeby",
+  "Brjánn Ljótsson",
+  "Lars‐Göran Öst",
+  "Martin Ingvar",
+  "Mats Lekander"
+ ],
+ "id": "W2740553877",
+ "kilde": "Occupational and Environmental Medicine",
+ "lenke": "https://openalex.org/W2740553877",
+ "oversikt": false,
+ "sammendrag": "OBJECTIVES: Common mental disorders (CMDs) cause great individual suffering and long-term sick leave. Cognitive-behavioural therapy (CBT) effectively treats CMDs, but sick leave is not reduced to the same extent as psychiatric symptoms. Research results regarding return-to-work interventions (RTW-Is) and their effect on sick leave are inconclusive. The aim of this study was to evaluate CBT, a RTW-I and combined CBT and RTW-I (COMBO) for primary care patients on sick leave due to CMDs. METHODS: Patients with CMDs (n=211) were randomised to CBT (n=64), RTW-I (n=67) or COMBO (n=80). Sick-leave registry data after 1 year and blinded Clinician's Severity Rating (CSR) of symptoms post-treatment and at follow-ups after 6 and 12 months were primary outcomes. RESULTS: There was no significant difference between treatments in days on sick leave 1 year after treatment start (mean difference in sick-leave days range=9-27). CBT led to larger reduction of symptoms post-treatment (CSR; Cohen's d=0.4 (95% CI 0.1 to 0.8)) than RTW-I, whereas COMBO did not differ from CBT or RTW-I. At follow-up, after 1 year, there was no difference between groups. All treatments were associated with large pre-treatment to post-treatment improvements, and results were maintained at 1-year follow-up. CONCLUSION: No treatment was superior to the other regarding reducing sick leave. All treatments effectively reduced symptoms, CBT in a faster pace than RTW-I, but at 1-year follow-up, all groups had similar symptom levels. Further research is needed regarding how CBT and RTW-I can be combined more efficiently to produce a larger effect on sick leave while maintaining effective symptom reduction.",
+ "tittel": "Cognitive–behavioural therapy and return-to-work intervention for patients on sick leave due to common mental disorders: a randomised controlled trial",
+ "type": "article"
+}

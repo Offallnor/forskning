@@ -1,0 +1,23 @@
+{
+ "apen_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/3633198",
+ "ar": 2013,
+ "doi": "https://doi.org/10.1093/occmed/kqs223",
+ "forfattere": [
+  "Julia Smedley",
+  "Elizabeth Clare Harris",
+  "V. Cox",
+  "Georgia Ntani",
+  "David Coggon"
+ ],
+ "hentet": "2026-11-09",
+ "hentet_fra": "http://www.dwp.gov.uk/docs/hwwb-is-work-good-for-you.pdf",
+ "hvordan": "pdf",
+ "id": "W2171186773",
+ "kilde": "Occupational Medicine",
+ "lenke": "https://openalex.org/W2171186773",
+ "merknad": "SJEKK DOKUMENT: «Julia Smedley» står ikke i starten",
+ "oversikt": false,
+ "sammendrag": "BACKGROUND: It is unclear whether and to what extent intensive case management is more effective than standard occupational health services in reducing sickness absence in the health care sector. AIMS: To evaluate a new return to work service at an English hospital trust. METHODS: The new service entailed intensive case management for staff who had been absent sick for longer than 4 weeks, aiming to restore function through a goal-directed and enabling approach based on a bio-psycho-social model. Assessment of the intervention was by controlled before and after comparison with a neighbouring hospital trust at which there were no major changes in the management of sickness absence. Data on outcome measures were abstracted from electronic databases held by the two trusts. RESULTS: At the intervention trust, the proportion of 4-week absences that continued beyond 8 weeks fell from 51.7% in 2008 to 49.1% in 2009 and 45.9% in 2010. The reduction from 2008 to 2010 contrasted with an increase at the control trust from 51.2% to 56.1%-a difference in change of 10.7% (95% CI 1.5-20.0%). There was also a differential improvement in mean days of absence beyond 4 weeks, but this was not statistically significant (1.6 days per absence; 95% CI -7.2 to 10.3 days). CONCLUSIONS: Our findings suggest that the intervention was effective, and calculations based on an annual running cost of £57 000 suggest that it was also cost-effective. A similar intervention should now be evaluated at a larger number of hospital trusts.",
+ "tittel": "Evaluation of a case management service to reduce sickness absence",
+ "type": "article"
+}

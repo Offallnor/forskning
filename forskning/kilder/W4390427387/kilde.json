@@ -1,0 +1,20 @@
+{
+ "apen_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3846237",
+ "ar": 2023,
+ "doi": "https://doi.org/10.1257/mac.20210385",
+ "forfattere": [
+  "Alexey Gorn",
+  "Antonella Trigari"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "https://repec.unibocconi.it/igier/igi/wp/2023/694.pdf",
+ "hvordan": "pdf",
+ "id": "W4390427387",
+ "kilde": "American Economic Journal Macroeconomics",
+ "lenke": "https://openalex.org/W4390427387",
+ "merknad": "ÅPEN VERSJON (preprint eller arbeidsnotat), merkes i svaret",
+ "oversikt": false,
+ "sammendrag": "We study the stabilizing role of benefit extensions. We develop a tractable quantitative model with heterogeneous agents, search frictions, and nominal rigidities. The model allows for a stabilizing aggregate demand channel and a destabilizing labor market channel. We characterize each channel analytically and find that aggregate demand effects quantitatively prevail in the United States. When feeding in estimated shocks, the model tracks unemployment in the two most recent downturns. We find that extensions lowered unemployment by a maximum of 0.36 pp in the Great Recession, while the joint stabilizing effect of extensions and benefit compensation peaked at 1.12 pp in the pandemic. (JEL E24, E32, E43, E52, J64, J65)",
+ "tittel": "Assessing the Stabilizing Effects of Unemployment Benefit Extensions",
+ "type": "article"
+}

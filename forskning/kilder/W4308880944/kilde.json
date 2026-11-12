@@ -1,0 +1,20 @@
+{
+ "apen_url": "https://doi.org/10.17016/feds.2022.074",
+ "ar": 2022,
+ "doi": "https://doi.org/10.17016/feds.2022.074",
+ "forfattere": [
+  "Cynthia L. Doniger",
+  "Desmond Toohey"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "https://www.federalreserve.gov/econres/feds/files/2022074pap.pdf",
+ "hvordan": "pdf",
+ "id": "W4308880944",
+ "kilde": "Finance and Economics Discussion Series",
+ "lenke": "https://openalex.org/W4308880944",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "The design of US unemployment insurance (UI) policy--which features benefits assigned as a percentage of past wages up to a cap--engenders tests for spillovers from policy variation to workers who are not directly treated. We test for and find a pattern of spillovers from state-level UI policy changes that cannot be neatly reconciled with workhorse or cutting-edge models of UI spillovers. Instead, we show that the documented pattern conforms with the predictions of a canonical model of information frictions: wage posting with random search. Taken together, our results provide novel evidence of quantitatively- and policy-relevant information frictions in this market. Moreover, our estimates suggest that aggregate unemployment of insured individuals would decrease if the replacement rate were increased while holding the cap constant.",
+ "tittel": "These Caps Spilleth Over: Equilibrium Effects of Unemployment Insurance",
+ "type": "article"
+}

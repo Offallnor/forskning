@@ -1,0 +1,17 @@
+{
+ "ar": 2011,
+ "forfattere": [
+  "Daniela Andrén"
+ ],
+ "hentet": "før 2026-11-08",
+ "hentet_fra": "https://www.oru.se/globalassets/oru-sv/institutioner/hh/workingpapers/workingpapers2011/wp-4-2011.pdf",
+ "hvordan": "pdf",
+ "id": "W3122932312",
+ "kilde": "RePEc: Research Papers in Economics",
+ "lenke": "https://openalex.org/W3122932312",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "This paper analyzes the impact of the definition of part-time sick leave (PTSL) when analyzing the effect of PTSL on employees' probability to fully recover lost work capacity. Using a random sample of 3,607 employees, we estimate an econometric model that aims to answer the hypothetical question of what happens to an employee who has lost his/her work capacity if he/she instead of continuing to be sicklisted full time starts working some hours. The estimated treatment parameters vary across definitions, yet all results show that, regardless of the timing of the intervention, PTSL had a positive effect on the probability of full recovery of lost work capacity one year after the spell started. Moreover, the most attractive definition shows the highest impact: About 48% of those with a reduced degree of sick leave from full time to part time during the spell were recovered about one year after the spell started, and only about 6% of them would have been better off had they remained on full-time.",
+ "tittel": "\"Half empty or half full\": The importance of the definition of part-time sick leave when estimating its effects",
+ "type": "preprint"
+}

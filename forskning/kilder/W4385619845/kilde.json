@@ -1,0 +1,25 @@
+{
+ "apen_url": "https://www.sjweh.fi/download.php?abstract_id=4112&file_nro=1",
+ "ar": 2023,
+ "doi": "https://doi.org/10.5271/sjweh.4112",
+ "forfattere": [
+  "Rachel Louise Hasting",
+  "Ingrid Sivesind Mehlum",
+  "Karina Undem",
+  "Suzan JW Robroek",
+  "Alex Burdorf A",
+  "Jon Michael Gran",
+  "Suzanne Lerato Merkus"
+ ],
+ "hentet": "2026-11-09",
+ "hentet_fra": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10838625/fullTextXML",
+ "hvordan": "Europe PMC",
+ "id": "W4385619845",
+ "kilde": "Scandinavian Journal of Work Environment & Health",
+ "lenke": "https://openalex.org/W4385619845",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "OBJECTIVES: This study aimed to estimate the average individual effect of the company-level Norwegian Agreement on a More Inclusive Working Life (IA Agreement) on individuals' (i) sustained return to work after a sickness absence (SA) episode, and (ii) recurrent SA. METHODS: Using register data, 79 253 men and 94 914 women born in Norway 1967-1976 were followed for one year between 2005 and 2010 after returning to work from an SA episode (>16 days). Weighted Cox proportional hazard models analysed time to first exit from work by companies' IA status (IA/non-IA). Weighted cumulative incidence differences between IA and non-IA groups with 95% bootstrapped confidence intervals (CI) were calculated for the competing events of full SA, graded (<100%) SA, unemployment/economic inactivity, education, disability pension, and death/emigration. Stabilised inverse probability of treatment weights balanced IA/non-IA groups according to nine covariates. Analyses were stratified by gender, and separately for two initial SA diagnoses (musculoskeletal and psychological). RESULTS: Both men [adjusted hazard ratio (HR) 0.96, 95% CI 0.93-0.99] and women (adjusted HR 0.97, 95% CI 0.94-0.99) in IA companies were less likely to exit work in the year following SA. Similar findings were seen among individuals with musculoskeletal diagnoses and women with psychological diagnoses. Men with psychological diagnoses were more likely to exit work. Recurrent full and graded SA were more likely, and unemployment/economic inactivity less likely, in IA companies. However, the estimated effects were small and the CI often included the null. CONCLUSIONS: Individuals working in IA companies were more likely to remain in work. This was mainly due to reduced unemployment/economic inactivity, suggesting the IA Agreement may have influenced work participation through other means than reduced SA.",
+ "tittel": "The effects of a national, voluntary agreement for a more inclusive working life on work participation following long-term sickness absence: a Norwegian cohort study",
+ "type": "article"
+}

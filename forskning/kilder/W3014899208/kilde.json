@@ -1,0 +1,23 @@
+{
+ "apen_url": "https://link.springer.com/content/pdf/10.1007/s00420-020-01535-4.pdf",
+ "ar": 2020,
+ "doi": "https://doi.org/10.1007/s00420-020-01535-4",
+ "forfattere": [
+  "Iben Axén",
+  "Elisabeth Björk Brämberg",
+  "Marjan Vaez",
+  "Andreas Lundin",
+  "Gunnar Bergström"
+ ],
+ "hentet": "2026-11-09",
+ "hentet_fra": "https://link.springer.com/content/pdf/10.1007/s00420-020-01535-4.pdf",
+ "hvordan": "pdf",
+ "id": "W3014899208",
+ "kilde": "International Archives of Occupational and Environmental Health",
+ "lenke": "https://openalex.org/W3014899208",
+ "merknad": "",
+ "oversikt": true,
+ "sammendrag": "INTRODUCTION: Common mental disorders (CMD) are leading causes of decreased workability in Sweden and worldwide. Effective interventions to prevent or treat such disorders are important for public health. OBJECTIVE: To synthesize the research literature regarding occupational health service (OHS) interventions targeting prevention or reduction of CMD among employees. The effect on workability (sickness absence, return-to-work and self-reported workability) and on CMD symptoms was evaluated in a narrative analysis. DATA SOURCES: The literature search was performed in four electronic databases in two searches, in 2014 and in 2017. ELIGIBILITY CRITERIA (USING PICO): Population: studies investigating employees at risk or diagnosed with CMD, as well as preventive workplace intervention targeting mental health. INTERVENTION: studies where the recruitment or the intervention was delivered by the OHS or OHS personnel were included. CONTROL: individuals or groups who did not receive the target intervention. OUTCOME: all types of outcomes concerning sickness absence and psychological health were included. Study quality was assessed using a Swedish AMSTAR-based checklist, and results from studies with low or medium risk of bias were narratively synthesized based on effect or absence thereof. RESULTS: Thirty-three studies were included and assessed for risk of bias. Twenty-one studies had low or medium risk of bias. In 18 studies, rehabilitation interventions were evaluated, 11 studies concerned interventions targeting employees at risk for developing CMD and four studies investigated preventive interventions. Work-focused cognitive behavioral therapy and problem-solving skill interventions decreased time to first return-to-work among employees on sick leave for CMD in comparison with treatment-as-usual. However, effect on return to full-time work was not consistent, and these interventions did not consistently improve CMD symptoms. Selective interventions targeting employees at risk of CMD and preventive interventions for employees were heterogeneous, so replication of these studies is necessary to evaluate effect. LIMITATIONS: Other workplace interventions outside the OHS may have been missed by our search. There was considerable heterogeneity in the included studies, and most studies were investigating measures targeting the individual worker. Interventions at the workplace/organizational level were less common. CONCLUSIONS AND IMPLICATION OF KEY FINDINGS: Return-to-work and improvement of CMD symptoms are poorly correlated and should be addressed simultaneously in future interventions. Further, interventions for CMD administered through the occupational health service require further study. Rehabilitative and preventive strategies should be evaluated with scientifically robust methods, to examine the effectiveness of such interventions.",
+ "tittel": "Interventions for common mental disorders in the occupational health service: a systematic review with a narrative synthesis",
+ "type": "review"
+}

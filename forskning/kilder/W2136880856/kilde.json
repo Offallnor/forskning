@@ -1,0 +1,15 @@
+{
+ "apen_url": "https://papers.ssrn.com/sol3/Delivery.cfm?abstractid=3815",
+ "ar": 1998,
+ "doi": "https://doi.org/10.1111/1468-0084.00085",
+ "forfattere": [
+  "Rudolf Winter‐Ebmer"
+ ],
+ "id": "W2136880856",
+ "kilde": "Oxford Bulletin of Economics and Statistics",
+ "lenke": "https://openalex.org/W2136880856",
+ "oversikt": false,
+ "sammendrag": "The paper studies the effect of potential unemployment benefit duration on the length of unemployment spells in Austria. It takes advantage of a quasi‐experimental situation, where potential benefit duration was extended in 1988 for elderly workers living in specific regions of the country. The empirical analysis shows that men react significantly to benefit duration whereas women generally do not. The quantitative impact is smaller than in comparable studies for the US and Germany. Furthermore, the impact of extended benefit duration is differentiated for short and long spells. Whereas for long spells higher impacts for men as well as for women are found, no unemployment‐prolonging effects for short spells could be detected.",
+ "tittel": "Potential Unemployment Benefit Duration and Spell Length: Lessons from a Quasi‐Experiment in Austria",
+ "type": "article"
+}

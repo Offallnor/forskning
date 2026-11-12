@@ -1,0 +1,25 @@
+{
+ "apen_url": "https://bmcmusculoskeletdisord.biomedcentral.com/counter/pdf/10.1186/s12891-025-08570-7",
+ "ar": 2025,
+ "doi": "https://doi.org/10.1186/s12891-025-08570-7",
+ "forfattere": [
+  "Samineh Sanatkar",
+  "Sharon A. M. Stevelink",
+  "Nils Abel Aars",
+  "Ingvild Bardal",
+  "Oda Lekve Brandseth",
+  "Beate Brinchmann",
+  "Arnstein Mykletun"
+ ],
+ "hentet": "før 2026-11-08",
+ "hentet_fra": "https://bmcmusculoskeletdisord.biomedcentral.com/counter/pdf/10.1186/s12891-025-08570-7",
+ "hvordan": "pdf",
+ "id": "W4410013226",
+ "kilde": "BMC Musculoskeletal Disorders",
+ "lenke": "https://openalex.org/W4410013226",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "OBJECTIVE: It is generally assumed that graded sickness absence results in favourable health effects due to observed positive consequences of maintaining work participation. To date, however, the direct health benefits of graded sick leave have not been widely explored. Musculoskeletal disorders are among the most prominent health issues resulting in work incapacities. This study examined baseline characteristics and six-months pain-related disability and health-related life quality progression of working age adults who attended a neck and back pain outpatient clinic. Patients prescribed graded sick leave were compared to patients prescribed full sick leave and those working without sick leave. METHODS: Demographic, health, and treatment information of patients were assessed using clinician and patient self-report questionnaire data collected at neck and back pain outpatient clinics between 2016 and 2022. Data were obtained from the Norwegian Neck and Back Registry and the Norwegian Labour and Welfare Administration. Patient characteristics in the two weeks leading up to clinic intake were described. General linear models for repeated measures were employed to observe six-months changes in pain-related disability and health-related life quality. RESULTS: A total of 5143 (54% female, M = 44.70 years, SD = 11.50) patients were prescribed full (n = 1411, 27%), graded (n = 1164, 23%), and no (n = 2568, 50%) sickness absence. Patients prescribed graded sick leave reported lower baseline levels of pain-related disability compared to those on full sick leave but higher pain-related disability than patients without sick leave. There were significant main and interaction effects of time and sickness absence, whereby reductions in pain-related disability were greatest among patients prescribed full sick leave, however, this group reported the highest levels of pain-related disability and lowest life quality prior to their clinic intake and six months later. CONCLUSION: Patients who were prescribed full, graded, or no sick leave exhibited significant, albeit not clinically meaningful, reductions in pain-related disability over a six-months period. Symptom reductions may be due to clinician support or remission trends in line with regression towards the mean. While no superior health effects of graded sick leave were noted, work participation did not appear to have detrimental health effects.",
+ "tittel": "Health consequences of graded, full, and no sickness absence among workers with musculoskeletal disorders: health profiles and six-months symptom changes of patients referred to Norwegian outpatient clinics for chronic neck and back pain",
+ "type": "article"
+}

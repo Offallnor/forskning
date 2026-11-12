@@ -1,0 +1,15 @@
+{
+ "ar": 2018,
+ "doi": "https://doi.org/10.1177/0019793918801575",
+ "forfattere": [
+  "Ling Li",
+  "Perry D. Singleton"
+ ],
+ "id": "W2607517915",
+ "kilde": "Industrial and Labor Relations Review",
+ "lenke": "https://openalex.org/W2607517915",
+ "oversikt": false,
+ "sammendrag": "The US Occupational Safety and Health Administration (OSHA) enforces safety regulations through workplace inspections. The authors estimate the effect of inspections on worker safety by exploiting a feature of OSHA’s Site-Specific Targeting plan. The program targeted establishments for inspection if their baseline case rate exceeded a cutoff. This approach generated a discontinuous increase in inspections, which the authors exploit for identification. Using the fuzzy regression discontinuity model, they find that inspections decrease the rate of cases that involve days away from work, job restrictions, and job transfers in the calendar year immediately after the inspection cycle. They find no effect for other case rates or in subsequent years. Effects are most evident in manufacturing and less evident in health services, the largest two-digit industries represented in the data.",
+ "tittel": "The Effect of Workplace Inspections on Worker Safety",
+ "type": "article"
+}

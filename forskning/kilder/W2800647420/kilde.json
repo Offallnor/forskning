@@ -1,0 +1,25 @@
+{
+ "apen_url": "https://doi.org/10.1097/j.pain.0000000000001216",
+ "ar": 2018,
+ "doi": "https://doi.org/10.1097/j.pain.0000000000001216",
+ "forfattere": [
+  "Charlotte Post Sennehed",
+  "Sara Holmberg",
+  "Iben Axén",
+  "Kjerstin Stigmar",
+  "Malin Forsbrand",
+  "Ingemar F. Petersson",
+  "Birgitta E. M. Grahn"
+ ],
+ "hentet": "2026-11-09",
+ "hentet_fra": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6085128/fullTextXML",
+ "hvordan": "Europe PMC",
+ "id": "W2800647420",
+ "kilde": "Pain",
+ "lenke": "https://openalex.org/W2800647420",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "Workplace involvement in rehabilitation for patients with musculoskeletal pain may improve work ability. Convergence Dialogue Meeting (CDM) is a model aimed at helping the patient, the care giver, and the employer to support work ability and return-to-work. Our aim was to study the effect on work ability when adding a workplace dialogue according to CDM in physiotherapy practice for patients with pain in ordinary primary care. We conducted a prospective pairwise cluster randomised controlled trial (ClinicalTrials.gov ID: NCT02609750) in primary care involving 20 primary care rehabilitation units with 1-year follow-up. Adult patients with acute/subacute neck and back pain, worked ≥4 weeks past year and not currently on sick leave or no more than 60 days of sick leave and considered at-risk of sick leave were included (n = 352). All patients received structured physiotherapy and the intervention was the addition of CDM, delivered by the treating physiotherapist. The main confirmatory outcome, work ability (defined as working at least 4 consecutive weeks at follow-up), was assessed by a weekly short text message question on number of sick leave days past week. Work ability was reached by significantly more patients in the intervention group (108/127, 85%) compared with the reference group (127/171, 74%) (P = 0.02). The intervention increased the odds of having work ability at 1-year follow-up, also after adjustment for baseline health-related quality of life (odds ratio 1.85, confidence interval 1.01-3.38). We conclude that an early workplace dialogue in addition to structured physiotherapy improved work ability significantly.",
+ "tittel": "Early workplace dialogue in physiotherapy practice improved work ability at 1-year follow-up—WorkUp, a randomised controlled trial in primary care",
+ "type": "article"
+}

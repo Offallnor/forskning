@@ -1,0 +1,21 @@
+{
+ "apen_url": "https://academic.oup.com/eurpub/article-pdf/35/Supplement_4/ckaf161.551/64945013/ckaf161.551.pdf",
+ "ar": 2025,
+ "doi": "https://doi.org/10.1093/eurpub/ckaf161.551",
+ "forfattere": [
+  "Fiona Starke",
+  "Johannes Zimmermann",
+  "Inge Houkes",
+  "A Sikora",
+  "A Schulz",
+  "Uta E Wegewitz",
+  "Angelique E de Rijk"
+ ],
+ "id": "W4415579856",
+ "kilde": "European Journal of Public Health",
+ "lenke": "https://openalex.org/W4415579856",
+ "oversikt": false,
+ "sammendrag": "Abstract Background Mental disorders (MDs) can impair individuals’ ability to work, often leading to long-term sickness absence. Evaluations of clinical and work-directed interventions to enhance sustainable return to work (RTW) remain scarce. We investigated the effect of an intensified RTW aftercare intervention (RTW-PIA; DRKS00026232) on achieving sustainable RTW (SRTW) in German employees diagnosed with a MD. Methods A multicenter RCT was conducted in five German psychiatric outpatient clinics involving 484 employees, aged 20-60, mostly diagnosed with recurrent depression. Of these, 240 received RTW-PIA + Care as Usual (CAU) and 244 received CAU only. SRTW was achieved by self-reporting < 6 weeks of workdays missed due to sickness absence within 12 months after full RTW. Data on SRTW and secondary outcomes (health-related quality of life, mental functioning, RTW self-efficacy, overall job satisfaction, severity of mental illness, work ability) were collected at baseline and at 6, 12, 18 and 24 months. The intervention's effects in the intention-to-treat population were analyzed using logistic regression and growth curve models. Results RTW-PIA did not significantly enhance SRTW in employees (OR = 1.33, 95%CI [0.85-2.07], p=.211), but significantly improved mental functioning over 24 months (ß=0.21, 95%CI [0.03-0.39], p=.023), compared to CAU. The achievement of SRTW was moderated by health insurance (p=.039) and recognized disability degree (p=.026). RTW-PIA was only effective in employees without a disability degree (OR = 1.69, p=.032). Conclusions RTW-PIA, a clinical and work-directed intervention, did not enhance SRTW in employees with a diagnosed MD compared to CAU but improved mental functioning, essential for long-term work participation. The moderation effect implies that RTW-PIA is not yet properly tailored to those with a disability degree. A process evaluation is needed to understand whether content and/or implementation of RTW-PIA needs to be improved. Key messages • An intensified RTW aftercare intervention is effective in the sub-group of employees without a recognized disability degree. • Understanding how the intervention can be better tailored to specific sub-groups is necessary.",
+ "tittel": "A new intervention for sick-listed employees with mental disorders: A randomized controlled trial",
+ "type": "article"
+}

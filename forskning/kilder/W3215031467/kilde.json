@@ -1,0 +1,25 @@
+{
+ "apen_url": "https://www.mdpi.com/1660-4601/18/23/12614/pdf?version=1638262139",
+ "ar": 2021,
+ "doi": "https://doi.org/10.3390/ijerph182312614",
+ "forfattere": [
+  "Fabrizio Russo",
+  "Giuseppe Francesco Papalia",
+  "Gianluca Vadalà",
+  "Luca Fontana",
+  "Sergio Iavicoli",
+  "Rocco Papalia",
+  "Vincenzo Denaro"
+ ],
+ "hentet": "2026-11-09",
+ "hentet_fra": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8657220/fullTextXML",
+ "hvordan": "Europe PMC",
+ "id": "W3215031467",
+ "kilde": "International Journal of Environmental Research and Public Health",
+ "lenke": "https://openalex.org/W3215031467",
+ "merknad": "",
+ "oversikt": true,
+ "sammendrag": "This systematic review and meta-analysis aimed to analyze the effects of workplace interventions (WI) on clinical outcomes related to low back pain (LBP) in a worker population, and to assess socio-economic parameters as participants on sick leave, days of sick leave, and return to work following WI. A systematic literature search was performed to select randomized clinical trials that investigated the effectiveness of WI on return to work, sick leave, and working capacity of workers affected by nonspecific LBP. Fourteen articles were included in the review and meta-analysis. The meta-analysis showed improvements in pain (p = 0.004), disability (p = 0.0008), fear-avoidance for psychical activity (p = 0.004), and quality of life (p = 0.001 for physical scale and p = 0.03 for mental scale) for patients who underwent WI compared to controls. Moreover, the pain reduction following WI was statistically significant in the healthcare workers’ group (p = 0.005), but not in the other workers’ group. The participants on sick leave and the number of days of sick leave decreased in the WI group without statistical significance (p = 0.85 and p = 0.10, respectively). Finally, LBP recurrence was significantly reduced in the WI group (p = 0.006). WI led to a significant improvement of clinical outcomes in a workers’ population affected by LBP.",
+ "tittel": "The Effects of Workplace Interventions on Low Back Pain in Workers: A Systematic Review and Meta-Analysis",
+ "type": "review"
+}

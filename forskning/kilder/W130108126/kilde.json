@@ -1,0 +1,14 @@
+{
+ "ar": 2011,
+ "forfattere": [
+  "José María Arranz Muñoz",
+  "Carlos García Serrano"
+ ],
+ "id": "W130108126",
+ "kilde": "Documentos de Trabajo FUNCAS",
+ "lenke": "https://openalex.org/W130108126",
+ "oversikt": false,
+ "sammendrag": "Using an administrative dataset, we document the importance of recalls in\nlabour market transitions and in compensated unemployment in Spain and\nexamine the interplay between the unemployment compensation system, the\nwidespread use of fixed-term contracts and the layoff-rehire process. We\nestimate a discrete-time duration model with competing risks of exits in order to\ninvestigate the individual, job and firm attributes that influence the probabilities\nof leaving unemployment to return to the same employer or to find a new job\nwith a different employer. Our findings indicate that recalls are very common,\nwith nearly half of job losers returning to their former employers, and that,\nalthough these are widespread along the Spanish labour market, there are\ncertain types of contracts, firms and sectors which are more prone to them.",
+ "tittel": "Tie me up, tie me down!: the interplay of the unemployment compensation system, fixed-term contracts and rehirings",
+ "type": "article"
+}

@@ -1,0 +1,22 @@
+{
+ "apen_url": "https://doi.org/10.3386/w22781",
+ "ar": 2016,
+ "doi": "https://doi.org/10.3386/w22781",
+ "forfattere": [
+  "David Card",
+  "David Lee",
+  "Zhuan Pei",
+  "Andrea Michaela Weber"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "https://doi.org/10.3386/w22781",
+ "hvordan": "pdf",
+ "id": "W3121467141",
+ "kilde": "National Bureau of Economic Research",
+ "lenke": "https://openalex.org/W3121467141",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "A regression kink design (RKD or RK design) can be used to identify casual effects in settings where the regressor of interest is a kinked function of an assignment variable.In this paper, we apply an RKD approach to study the effect of unemployment benefits on the duration of joblessness in Austria, and discuss implementation issues that may arise in similar settings, including the use of bandwidth selection algorithms and bias-correction procedures.Although recent developments in nonparametric estimation (e.g.Imbens et al. (2012) and Calonico et al. ( 2014)) are sometimes interpreted by practitioners as pointing to a default estimation procedure, we show that in any given application different procedures may perform better or worse.In particular, Monte Carlo simulations based on data generating processes that closely resemble the data from our application show that some asymptotically dominant procedures may actually perform worse than \"sub-optimal\" alternatives in a given empirical application.",
+ "tittel": "Regression Kink Design: Theory and Practice",
+ "type": "report"
+}

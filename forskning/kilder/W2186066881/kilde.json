@@ -1,0 +1,13 @@
+{
+ "ar": 2012,
+ "forfattere": [
+  "Johannes F. Schmieder",
+  "Stefan Bender"
+ ],
+ "id": "W2186066881",
+ "lenke": "https://openalex.org/W2186066881",
+ "oversikt": false,
+ "sammendrag": "Does the search subsidy provided by unemployment insurance (UI) help workers find better jobs by or does the resulting increased time out of work lead to skill depreciation and lower reemployment wages? This paper investigates this question by exploiting strict age thresholds in the German UI system that determine workers’ maximum potential UI benefit duration. Using a large administrative data set to impolement a regression discontinuity (RD) design we show that longer potential benefit durations lead to sharp increases in nonemployment durations while lowering post-unemployment wages. In order to interpret this finding, we present a new theoretical result that shows how the average eect of UI extensions on reemployment wages can be decomposed into a reservation wage eect and an eect coming from changes in the wage oer distribution throughout the nonemployment spell. This decomposition can be implemented using information on how reemployment wages conditional on non-employment durations are aected by UI extensions. We show empirically that reemployment wages conditional on time out of work are not aected",
+ "tittel": "of Unemployment Insurance Extensions on Reemployment Wages",
+ "type": "article"
+}

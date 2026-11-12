@@ -1,0 +1,21 @@
+{
+ "apen_url": "https://www.clevelandfed.org/-/media/project/clevelandfedtenant/clevelandfedsite/publications/working-papers/2023/wp2321.pdf",
+ "ar": 2023,
+ "doi": "https://doi.org/10.26509/frbc-wp-202321",
+ "forfattere": [
+  "Victor Hernandez Martinez",
+  "Kaixin Liu",
+  "Richard Grice"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "https://www.clevelandfed.org/-/media/project/clevelandfedtenant/clevelandfedsite/publications/working-papers/2023/wp2321.pdf",
+ "hvordan": "pdf",
+ "id": "W4386949116",
+ "kilde": "Working paper",
+ "lenke": "https://openalex.org/W4386949116",
+ "merknad": "ÅPEN VERSJON (preprint eller arbeidsnotat), merkes i svaret",
+ "oversikt": false,
+ "sammendrag": "This paper documents a novel finding indicating that re-employment wages are elastic to the level of unemployment insurance (i.e., a binding reservation wage) and adapts the IV estimator for duration dependence in Schmieder et al. (2016) to account for this fact. Using administrative data from Spain, we find that unemployed workers lower their re-employment wages by 3 percent immediately after the exhaustion of unemployment insurance (UI) benefits. Workers’ characteristics and permanent unobserved heterogeneity cannot explain this. To estimate duration dependence, we extend the IV framework proposed by Schmieder et al. (2016), whose estimator of duration dependence is proportional to the response of wages to an extension of the potential duration of UI, to account for the response of reservation wages. We find that while extending the potential duration of UI has an insignificant effect on re-employment wages, duration dependence is strongly negative. We estimate that the degree of duration dependence in Spain is approximately 0.8 percent per month in daily wages. Workers’ inability to find full-time jobs as the duration of non-employment increases is an important mechanism behind this effect, since the duration dependence of hourly wages is 0.25 percent per month. Failing to account for the fact that reservation wages are binding would underestimate the magnitude of duration dependence by 15 to 20 percent.",
+ "tittel": "Estimating duration dependence on re-employment wages when reservation wages are binding",
+ "type": "report"
+}

@@ -1,0 +1,20 @@
+{
+ "ar": 2016,
+ "doi": "https://doi.org/10.1136/oemed-2015-103227",
+ "forfattere": [
+  "Roberto Agnesi",
+  "Ugo Fedeli",
+  "Antonella Bena",
+  "Elena Farina",
+  "Franco Sarto",
+  "Michela Veronese",
+  "Giuseppe Mastrangelo"
+ ],
+ "id": "W2306445029",
+ "kilde": "Occupational and Environmental Medicine",
+ "lenke": "https://openalex.org/W2306445029",
+ "oversikt": false,
+ "sammendrag": "OBJECTIVES: According to Italian law, prevention of injuries in the workplace falls under the National Health System Service of Prevention, Health and Safety at Work (SPISAL). In a sample of about 5000 industrial firms in the Veneto region (North-Eastern Italy), the study examines the impact of SPISAL safety programmes on injuries. METHODS: The study is based on the before-and-after comparison of injury rates in 795 industrial settings that were subject to SPISAL interventions and 4186 reference firms, which were all manufacturing industries with >10 employees; construction companies were excluded. The time window (2001-2007) was chosen in order to have 8 quarters of observation before and 8 after the intervention. The National Institute for Workers' Compensation provided data on injuries and plants, while SPISAL gave information on interventions carried out. The preintervention and postintervention rates of injuries were compared by means of interrupted time series analyses, estimating the rate ratio (RR) with a 95% CI. RESULTS: Inspection after injury reduced by 24% (RR=0.76; 95% CI 0.65 to 0.90; p=0.001) all injuries, and by 36% (RR=0.64; 95% CI 0.50 to 0.83; p=0.001) severe injuries (fatalities, lost workdays >30, degree of permanent disability >0). These changes occurred immediately and persisted for 2 years. The effects of programmed inspections were never significant. CONCLUSIONS: It can be presumed that, after a severe injury, the employees raised their standard of what they considered good work safety and, at the same time, the employers were pushed to improve the work environment as a result of the sudden attention from the workplace hygiene and safety authority and court authority. Inspection after injury was an effective strategy; however, confirmatory evidence is needed.",
+ "tittel": "Statutory prevention of work injuries in Italy: an effectiveness evaluation with interrupted time series analysis in a sample of 5000 manufacturing plants from the Veneto region",
+ "type": "article"
+}

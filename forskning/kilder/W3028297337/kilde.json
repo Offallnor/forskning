@@ -1,0 +1,24 @@
+{
+ "apen_url": "https://journals.sagepub.com/doi/pdf/10.1177/1403494820917507",
+ "ar": 2020,
+ "doi": "https://doi.org/10.1177/1403494820917507",
+ "forfattere": [
+  "Petter Kristensen",
+  "Therese N. Hanvold",
+  "Rachel Louise Hasting",
+  "Suzanne Lerato Merkus",
+  "Rune Hoff",
+  "Ingrid Sivesind Mehlum"
+ ],
+ "hentet": "2026-11-09",
+ "hentet_fra": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7917564/fullTextXML",
+ "hvordan": "Europe PMC",
+ "id": "W3028297337",
+ "kilde": "Scandinavian Journal of Public Health",
+ "lenke": "https://openalex.org/W3028297337",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "Aims: The study objectives were to provide a quantitative description of work participation among young adults, and to outline the relations between work participation and social, educational and health-related characteristics throughout the life-course. Methods: We collected data in several national registries for all 318,705 individuals born in Norway 1967–1971 who were national residents on 1 January 1993. The criterion for work was annual occupational income above the boundary which identifies the core workforce. We analysed associations between social, educational and health-related characteristics, and the number of years at work and the risk of never working during 19 years of follow-up (1993–2011; age 22–44 years). Results: The overall work participation was high, with a median of 14 years and a 0.074 risk of never working. Women worked fewer years than men (medians 11 v. 16 years) and had higher risk of never working (0.103 v. 0.047). Combined educational and health problems before 1993 had a strong influence on subsequent work participation. The educational gradient in risks of never working was considerably stronger for women than for men. Diagnostic groups of mental disorders had high risks of never working, ranging from affective (risk 0.150) and stress-related disorders (risk 0.163) to intellectual disability (risk 0.933). Conclusions: The complex problems characterising individuals with low work participation suggest that preventive measures should take sex into account and be targeted at social, educational and mental issues in early life, and focusing on identified vulnerable groups.",
+ "tittel": "Work participation in young Norwegians: a 19-year follow up in a registry-based life-course cohort",
+ "type": "article"
+}

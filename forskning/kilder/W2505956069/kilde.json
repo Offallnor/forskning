@@ -1,0 +1,17 @@
+{
+ "ar": 2016,
+ "forfattere": [
+  "Thomas Le Barbanchon"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "https://www.cemfi.es/ftp/pdf/papers/Seminar/LeBarbanchon.pdf",
+ "hvordan": "pdf",
+ "id": "W2505956069",
+ "kilde": "RePEc: Research Papers in Economics",
+ "lenke": "https://openalex.org/W2505956069",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "In this paper, I use kinks in the U.S. partial unemployment insurance schedule to study the response of claimants to the program. Partial unemployment insurance enables claimants to keep part of their unemployment benefits when they work in low-earnings jobs. When U.S. claimants earn over a state-specific threshold, termed the “disregard”, their benefits are reduced at a 100% marginal tax rate above that amount. This reduction in current benefits leads to an increase in future benefits, with the result that forward-looking claimants are taxed according to a lower dynamic marginal tax rate. To account for these mechanisms, I develop a dynamic model of claimants, who work in part-time/temporary jobs while searching for permanent jobs. Using administrative data on weekly claims, I document substantial bunching of unemployment insurance claimants at the disregard level. I estimate that the earnings elasticity to the net-of-tax-rate (at the intensive margin) lies between 0.1 and 0.2. Using this estimate, simulations show that setting the benefit reduction rate at 80% is Pareto improving, as the current schedule induces claimants to inefficiently reduce their earnings.",
+ "tittel": "Optimal Partial Unemployment Insurance: Evidence from Bunching in the U.S",
+ "type": "preprint"
+}

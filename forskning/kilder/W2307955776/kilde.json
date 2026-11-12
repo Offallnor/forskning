@@ -1,0 +1,17 @@
+{
+ "apen_url": "https://direct.mit.edu/rest/article-pdf/102/2/355/1881234/rest_a_00843.pdf",
+ "ar": 2019,
+ "doi": "https://doi.org/10.1162/rest_a_00843",
+ "forfattere": [
+  "Gérard J. van den Berg",
+  "Petyo Bonev",
+  "Enno Mammen"
+ ],
+ "id": "W2307955776",
+ "kilde": "The Review of Economics and Statistics",
+ "lenke": "https://openalex.org/W2307955776",
+ "oversikt": false,
+ "sammendrag": "We develop an instrumental variable approach for identification of dynamic treatment effects on survival outcomes in the presence of dynamic selection, noncompliance, and right-censoring. The approach is nonparametric and does not require independence of observed and unobserved characteristics or separability assumptions. We propose estimation procedures and derive asymptotic properties. We apply our approach to evaluate a policy reform in which the pathway of unemployment benefits as a function of the unemployment duration is modified. Those who were unemployed at the reform date could choose between the old and the new regime. We find that the new regime has a positive average causal effect on the job finding rate.",
+ "tittel": "Nonparametric Instrumental Variable Methods for Dynamic Treatment Evaluation",
+ "type": "article"
+}

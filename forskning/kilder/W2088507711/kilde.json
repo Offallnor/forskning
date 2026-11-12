@@ -1,0 +1,15 @@
+{
+ "ar": 1997,
+ "doi": "https://doi.org/10.1111/1468-0084.00069",
+ "forfattere": [
+  "Giorgio Brunello",
+  "Raffaele Miniaci"
+ ],
+ "id": "W2088507711",
+ "kilde": "Oxford Bulletin of Economics and Statistics",
+ "lenke": "https://openalex.org/W2088507711",
+ "oversikt": false,
+ "sammendrag": "This paper uses administrative data on mobility lists in the largest economic region of Italy, Lombardia, to test whether the more favourable treatment of older workers, who can draw benefits longer and transfer a larger sum to potential employers, affects in a positive way their hazard from unemployment into a permanent job. Our reduced form estimates show that older workers who draw benefits longer have a significantly lower hazard than their younger colleagues. The reduction in the hazard from unemployment is particularly pronounced for older women in the sample. Apparently, the negative effect of the treatment on the supply side, due to a higher reservation wage, prevails in our data over the positive effect, stimulated by the larger potential benefit transfers. We conclude that, if the aim of the policy is to increase the hazard from the list into a permanent job, the treatment should be modified either by reducing passive income support or by increasing the potential for benefit transfers, or, finally, by reducing the entitlement period.",
+ "tittel": "Benefit Transfers in Italy: An Empirical Study of Mobility Lists in the Milan Area",
+ "type": "article"
+}

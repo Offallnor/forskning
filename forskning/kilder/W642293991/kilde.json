@@ -1,0 +1,18 @@
+{
+ "apen_url": "http://www.disei.unifi.it/upload/sub/pubblicazioni/repec/pdf/wp21_2013.pdf",
+ "ar": 2013,
+ "forfattere": [
+  "Lorenzo Corsini"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "http://www.disei.unifi.it/upload/sub/pubblicazioni/repec/pdf/wp21_2013.pdf",
+ "hvordan": "pdf",
+ "id": "W642293991",
+ "kilde": "RePEc: Research Papers in Economics",
+ "lenke": "https://openalex.org/W642293991",
+ "merknad": "ÅPEN VERSJON (preprint eller arbeidsnotat), merkes i svaret",
+ "oversikt": false,
+ "sammendrag": "We develop a comparative analysis on the effect that unemployment insurance schemes have on unemployment duration. We consider three aspects through which unemployment insurance schemes affect duration: 1) liquidity constraints mitigation from income support can increase duration, 2) employment services at the time of registration can increase initial re-employment probability and 3) employment counseling and monitoring of job search can increase re-employment probability during the whole unemployment spell. We describe how these aspects are present in schemes of various European countries and we assess whether they can explain the overall effect that benefits display on unemployment duration. We perform first a duration analysis and then, to tackle the issue of self-selection into participation, a propensity score matching estimation. The results confirm our interpretation of the three mechanisms so that they effectively concur in the determination of the effect that benefits have on unemployment duration.",
+ "tittel": "A comparative analysis on the relationship between benefits generosity, search requirements and unemployment duration",
+ "type": "preprint"
+}

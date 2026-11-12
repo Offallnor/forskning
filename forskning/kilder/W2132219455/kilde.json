@@ -1,0 +1,14 @@
+{
+ "ar": 1998,
+ "doi": "https://doi.org/10.1080/135048598354104",
+ "forfattere": [
+  "Elena Stancanelli"
+ ],
+ "id": "W2132219455",
+ "kilde": "Applied Economics Letters",
+ "lenke": "https://openalex.org/W2132219455",
+ "oversikt": false,
+ "sammendrag": "This paper compares unemployment durations of persons on different unemployment compensation schemes from the start of the unemployment spell. It focuses on the probability of leaving unemployment to take up a full-time job. Data on actual benefit receipts are used for the analysis. The sample considered includes unemployed men on unemployment insurance or unemployment assistance from the start of the unemployment spell. Estimation of binary probability models indicates that observed characteristics explain well the probability of being on a given unemployment benefit scheme. The empirical findings signal that the unemployed on different benefit schemes cannot be treated as an homogeneous group, as has normally been done in previous UK studies.",
+ "tittel": "Unemployment compensation schemes and unemployment duration",
+ "type": "article"
+}

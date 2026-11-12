@@ -1,0 +1,20 @@
+{
+ "apen_url": "http://hdl.handle.net/10419/63029",
+ "ar": 2002,
+ "forfattere": [
+  "Knut Røed",
+  "Peter Jensen",
+  "Anna Thoursie"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "http://su.diva-portal.org/smash/get/diva2:356272/FULLTEXT01.pdf",
+ "hvordan": "pdf",
+ "id": "W1589202403",
+ "kilde": "RePEc: Research Papers in Economics",
+ "lenke": "https://openalex.org/W1589202403",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "Based on a combined register database for Norwegian and Swedish unemployment spells, we use the ‘between-countries-variation’ in the unemployment insurance systems to identify causal effects. The elasticity of the job hazard rate with respect to the benefit replacement ratio is around -1.0 in Norway and -0.5 in Sweden. The limited benefit duration period in Sweden has a large positive impact on the hazard rate, despite generous renewal options through participation in labour market programs. Compulsory program participation seems to operate as a ‘stick’, rather than a ‘carrot’, and is therefore an efficienttool for counteracting moral hazard problems in the benefit system.",
+ "tittel": "Unemployment Duration, Incentives and Institutions - A Micro-Econometric Analysis Based on Scandinavian Data",
+ "type": "preprint"
+}

@@ -1,0 +1,16 @@
+{
+ "apen_url": "https://shs.cairn.info/article/RFE_111_0167/pdf?lang=fr",
+ "ar": 2011,
+ "doi": "https://doi.org/10.3917/rfe.111.0167",
+ "forfattere": [
+  "Stéfan Lollivier",
+  "Laurence Rioux"
+ ],
+ "id": "W1965131499",
+ "kilde": "Revue française d économie",
+ "lenke": "https://openalex.org/W1965131499",
+ "oversikt": false,
+ "sammendrag": "Résumé Nous considérons un modèle structurel dynamique de recherche d’emploi où la non-stationnarité peut provenir de la dégressivité des allocations chômage, de la baisse du taux d’arrivée des offres ou du déplacement vers le bas de la distribution des salaires offerts. Le modèle est estimé sur l’échantillon français de l’ECHP en utilisant l’observation directe des salaires de réserve, des offres d’emploi refusées et des salaires qui leur sont associés. Nous trouvons que les salaires offerts chutent rapidement et fortement (13,8 % après six mois de chômage, 19,2 % après un an et 30 % au bout de deux ans), et que ce changement dans la distribution des salaires offerts est la seule cause de la baisse du taux de sortie avec l’ancienneté au chômage.",
+ "tittel": "Evaluer l'impact des modalités d'indemnisation du chômage sur le taux de sortie vers l'emploi en France",
+ "type": "article"
+}

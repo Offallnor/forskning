@@ -1,0 +1,19 @@
+{
+ "apen_url": "https://repository.library.northeastern.edu/files/neu:349586/fulltext.pdf",
+ "ar": 2015,
+ "doi": "https://doi.org/10.17760/d20128810",
+ "forfattere": [
+  "Michael J. Brisson"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "https://nva.sikt.no/registration/019c9539b14d-4d7b2232-a2ce-4147-9d54-a9434bdbc0e1",
+ "hvordan": "vitenarkivet",
+ "id": "W2283885892",
+ "kilde": "Digital Repository Service (Northeastern University)",
+ "lenke": "https://openalex.org/W2283885892",
+ "merknad": "SJEKK DOKUMENT: «Michael J. Brisson» står ikke i starten",
+ "oversikt": false,
+ "sammendrag": "The first essay is titled \"Ending Benefits for the Long-Term Unemployed; The Unreliability of Evidence from the North Carolina Experiment.\" This paper utilizes a natural experiment that took place on July 1, 2013, when North Carolina became the first state to deny federal aid that provided unemployment insurance for all individuals that had been out of work between 19 and 73 weeks. Six months later, the federal government followed suit by allowing the expiration of Emergency Unemployment Compensation, eliminating long term unemployment benefits for the rest of the nation. In this analysis, I develop a gross flows data set with the Current Population Survey microdata. Using the natural experiment setup through timing differences of policy changes, regression analysis finds a significant decrease in the number of unemployed, but fails to find evidence of labor force movements into employment or out of the labor force in response to the elimination of long-term unemployment benefits in North Carolina.",
+ "tittel": "Three empirical essays in labor economics",
+ "type": "dissertation"
+}

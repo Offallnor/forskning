@@ -1,0 +1,21 @@
+{
+ "apen_url": "https://doi.org/10.3386/w21431",
+ "ar": 2015,
+ "doi": "https://doi.org/10.3386/w21431",
+ "forfattere": [
+  "David Card",
+  "Jochen Kluve",
+  "Andrea Michaela Weber"
+ ],
+ "hentet": "2026-11-08",
+ "hentet_fra": "https://doi.org/10.3386/w21431",
+ "hvordan": "pdf",
+ "id": "W4298866695",
+ "kilde": "National Bureau of Economic Research",
+ "lenke": "https://openalex.org/W4298866695",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "We summarize the estimates from over 200 recent studies of active labor market programs.We classify the estimates by type of program and participant group, and distinguish between three different post-program time horizons.Using regression models for the estimated program effect (for studies that model the probability of employment) and for the sign and significance of the estimated effect (for all the studies in our sample) we conclude that: (1) average impacts are close to zero in the short run, but become more positive 2-3 years after completion of the program; (2) the time profile of impacts varies by type of program, with larger average gains for programs that emphasize human capital accumulation; (3) there is systematic heterogeneity across participant groups, with larger impacts for females and participants who enter from long term unemployment; (4) active labor market programs are more likely to show positive impacts in a recession.",
+ "tittel": "What Works? A Meta Analysis of Recent Active Labor Market Program Evaluations",
+ "type": "report"
+}

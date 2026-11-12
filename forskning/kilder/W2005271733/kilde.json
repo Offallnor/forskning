@@ -1,0 +1,17 @@
+{
+ "ar": 2010,
+ "doi": "https://doi.org/10.1177/1403494809357096",
+ "forfattere": [
+  "Nina Østerås",
+  "Pål Gulbrandsen",
+  "Inger Cathrine Kann",
+  "Søren Brage"
+ ],
+ "id": "W2005271733",
+ "kilde": "Scandinavian Journal of Public Health",
+ "lenke": "https://openalex.org/W2005271733",
+ "oversikt": false,
+ "sammendrag": "AIM: A method for structured functional assessments of persons with long-term sick leave was implemented in a cluster randomised controlled trial in general practice. The aim was to analyse intervention effects on general practitioner (GP) sick-listing practice and patient sick leave. METHODS: 57 GPs were randomly assigned to an intervention or a control group. The intervention group GPs learned the method at a 1-day workshop including teamwork and role-playing. The control group GPs were requested to assess functional ability as usual during the 8 months intervention period in 2005. Outcome measures included duration of patient sick leave episodes, GP prescription of part-time sick leave, active sick leave, and vocational rehabilitation. This data was extracted from a national register. RESULTS: The GPs in the intervention group prescribed part-time sick leave more often (p < 0.01) and active sick leave less often (p = 0.04) than the control group GPs during the intervention period. There was no intervention effect on duration of patient sick leave episodes or on GP prescription of vocational rehabilitation. CONCLUSIONS: Implementing structured functional assessments in general practice made the GPs capable to assess functional ability of persons with long-term sick leave in a standardised and explicit manner. The intervention GPs' sick-listing practice was changed as they prescribed more part-time and less active sick leave compared to the control group GPs. As a result, more intervention GP patients returned to part-time work compared to control GP patients. No intervention effect was seen on duration of patient sick leave episodes or on prescription of vocational rehabilitation.",
+ "tittel": "Structured functional assessments in general practice increased the use of part-time sick leave: A cluster randomised controlled trial",
+ "type": "article"
+}

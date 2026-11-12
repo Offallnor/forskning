@@ -1,0 +1,19 @@
+{
+ "apen_url": "http://hdl.handle.net/10419/82149",
+ "ar": 2004,
+ "forfattere": [
+  "Per Johansson",
+  "Marten O. Palme"
+ ],
+ "hentet": "før 2026-11-08",
+ "hentet_fra": "https://www.econstor.eu/bitstream/10419/82149/1/wp04-10.pdf",
+ "hvordan": "pdf",
+ "id": "W3122634514",
+ "kilde": "RePEc: Research Papers in Economics",
+ "lenke": "https://openalex.org/W3122634514",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "We use a reform of Swedens sickness insurance system as a source of exogenous variation to analyse the presence of moral hazard. As a result of the reform, the replacement level was reduced from 90 percent of forgone earnings to 65 percent for the first three days; to 80 percent between day 4 and 90; and remained at 90 percent after 90 days. We find that the incidence of work absence decreased due to the decrease in compensation level and that effect on duration is in accordance with moral hazard in the sickness insurance. We estimate the elasticities of the incidence with respect to forgone earning to -1 for males and -0.70 for females.",
+ "tittel": "Moral hazard and sickness insurance: Empirical evidence from a sickness insurance reform in Sweden",
+ "type": "preprint"
+}

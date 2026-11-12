@@ -1,0 +1,19 @@
+{
+ "ar": 2004,
+ "forfattere": [
+  "Anders Forslund",
+  "Per Johansson",
+  "Linus Liljeberg"
+ ],
+ "hentet": "2026-11-08",
+ "hentet_fra": "https://www.econstor.eu/bitstream/10419/82158/1/wp04-18.pdf",
+ "hvordan": "pdf",
+ "id": "W1573574408",
+ "kilde": "RePEc: Research Papers in Economics",
+ "lenke": "https://openalex.org/W1573574408",
+ "merknad": "ÅPEN VERSJON (preprint eller arbeidsnotat), merkes i svaret",
+ "oversikt": false,
+ "sammendrag": "The treatment effect of a Swedish employment subsidy is estimated using exact covariate-matching and instrumental variables methods. Our estimates suggest that the programme had a positive treatment effect for the participants. We also show how non-parametric methods can be used to estimate the time profile of treatment effects as well as how to estimate the effect of entering the programme at different points in time in the unemployment spell. Our main results are derived using matching methods. However, as a sensitivity test, we apply instrumental variables difference-in-difference methods. These estimates indicate that our matching results are robust",
+ "tittel": "Employment subsidies - A fast lane from unemployment to work?",
+ "type": "preprint"
+}

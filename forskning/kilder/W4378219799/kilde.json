@@ -1,0 +1,20 @@
+{
+ "apen_url": "https://api.taylorfrancis.com/content/chapters/oa-edit/download?identifierName=doi&identifierValue=10.4324/9781003347279-5&type=chapterpdf",
+ "ar": 2023,
+ "doi": "https://doi.org/10.4324/9781003347279-5",
+ "forfattere": [
+  "Kristian Heggebø",
+  "Axel West Pedersen"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "https://api.taylorfrancis.com/content/chapters/oa-edit/download?identifierName=doi&identifierValue=10.4324/9781003347279-5&type=chapterpdf",
+ "hvordan": "pdf",
+ "id": "W4378219799",
+ "kilde": "Routledge eBooks",
+ "lenke": "https://openalex.org/W4378219799",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "This chapter describes the temporary adaptations made to Norwegian unemployment protection during the COVID-19 pandemic. In March 2020, the unemployment rate in Norway hit a record-high level of 10.6%. When confronted with such a deep macroeconomic crisis, policymakers have three alternative responses: (1) maintaining the status quo (2) increasing coverage and generosity (i.e., more inclusion), or (3) reducing coverage and generosity (i.e., more exclusion). We show that the Norwegian welfare state responded to the COVID-19 pandemic by changing the unemployment benefit regulations in a more inclusive direction. First, coverage and eligibility criteria were relaxed. Second, replacement rates were increased. Third, maximum period for benefit receipt was extended. The policy changes were all temporary and will not necessarily have any long-term implications for the unemployment benefit regulations in Norway. However, the COVID-19 pandemic has highlighted gaps in the current unemployment insurance system, such as the precarious position of students, self-employed, and freelancers. According to punctuated equilibrium theory, policymaking is typically stable over prolonged periods, followed by a sudden leap that may take the policy area in a new direction. The COVID-19 pandemic could represent such a leap because it led to substantial (temporary) improvements of the Norwegian unemployment insurance system.",
+ "tittel": "The Norwegian welfare state adjusting to crisis",
+ "type": "book-chapter"
+}

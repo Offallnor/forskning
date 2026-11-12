@@ -1,0 +1,23 @@
+{
+ "apen_url": "https://bmcpublichealth.biomedcentral.com/track/pdf/10.1186/s12889-017-4079-0",
+ "ar": 2017,
+ "doi": "https://doi.org/10.1186/s12889-017-4079-0",
+ "forfattere": [
+  "Lieke Lammerts",
+  "Johanna Maria van Dongen",
+  "Frederieke G. Schaafsma",
+  "Willem van Mechelen",
+  "Johannes R. Anema"
+ ],
+ "hentet": "2026-11-09",
+ "hentet_fra": "https://bmcpublichealth.biomedcentral.com/track/pdf/10.1186/s12889-017-4079-0",
+ "hvordan": "pdf",
+ "id": "W2585080834",
+ "kilde": "BMC Public Health",
+ "lenke": "https://openalex.org/W2585080834",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "BACKGROUND: Mental disorders are associated with high costs for productivity loss, sickness absence and unemployment. A participatory supportive return to work (RTW) program was developed in order to improve RTW among workers without an employment contract, sick-listed due to a common mental disorder. The program contained a participatory approach, integrated care and direct placement in a competitive job. The aim of this study was to evaluate the cost-effectiveness and cost-utility of this new program, compared to usual care. In addition, its return on investment was evaluated. METHODS: An economic evaluation was conducted alongside a 12-month randomized controlled trial. A total of 186 participants was randomly allocated to the new program (n = 94) or to usual care (n = 92). Effect measures were the duration until sustainable RTW in competitive employment and quality-adjusted life years (QALYs) gained. Costs included intervention costs, medical costs and absenteeism costs. Registered data of the Dutch Social Security Agency were used to assess the duration until sustainable RTW, intervention costs and absenteeism costs. QALYs and medical costs were assessed using three- or six-monthly questionnaires. Missing data were imputed using multiple imputations. Cost-effectiveness analysis and cost-utility analysis were conducted from the societal perspective. A return on investment analysis was conducted from the social insurer's perspective. Various sensitivity analyses were performed to assess the robustness of the results. RESULTS: The new program had no significant effect on the duration until sustainable RTW and QALYs gained. Intervention costs and medical costs were significantly higher in the intervention group. From the societal perspective, the maximum probability of cost-effectiveness for duration until sustainable RTW was 0.64 at a willingness to pay of about €10 000/day, and 0.27 for QALYs gained, regardless of the willingness to pay. From the social insurer's perspective, the probability of financial return was 0.18. CONCLUSIONS: From the societal perspective, the new program was neither cost-effective in improving sustainable RTW nor in gaining QALYs. From the social insurer's perspective, the program did not result in a positive financial return. Therefore, the present study provided no evidence to support its implementation. TRIAL REGISTRATION: The trial was listed at the Dutch Trial Register (NTR) under NTR3563 on August 7, 2012.",
+ "tittel": "A participatory supportive return to work program for workers without an employment contract, sick-listed due to a common mental disorder: an economic evaluation alongside a randomized controlled trial",
+ "type": "article"
+}

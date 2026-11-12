@@ -1,0 +1,17 @@
+{
+ "apen_url": "https://www.sciencedirect.com/science/article/pii/S0927537119300934/pdf",
+ "ar": 2019,
+ "doi": "https://doi.org/10.1016/j.labeco.2019.101767",
+ "forfattere": [
+  "Asbjørn Andersen",
+  "Simen Markussen",
+  "Knut Røed"
+ ],
+ "id": "W2974737612",
+ "kilde": "Labour Economics",
+ "lenke": "https://openalex.org/W2974737612",
+ "oversikt": false,
+ "sammendrag": "Based on administrative data from Norway, we explore the “gray area” between the roles of unemployment- and temporary disability-insurances by examining how participation in these two program types is affected by local labor demand conditions. Local labor demand is identified by means of a shift-share instrumental variables strategy, where initial local industry-composition is interacted with subsequent national industry-specific employment fluctuations. Our results indicate that local labor demand has a large negative effect on the propensity to claim disability insurance, which, for some groups, is remarkably similar to its effect on the propensity to claim unemployment insurance. Based on this finding, we question whether it is meaningful to maintain a sharp distinction between these two programs.",
+ "tittel": "Local labor demand and participation in social insurance programs",
+ "type": "article"
+}

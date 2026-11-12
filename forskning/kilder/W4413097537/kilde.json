@@ -1,0 +1,18 @@
+{
+ "ar": 2025,
+ "doi": "https://doi.org/10.1093/restud/rdaf056",
+ "forfattere": [
+  "Jonas Jessen",
+  "Robin Jessen",
+  "Ewa Gałecka‐Burdziak",
+  "Marek Góra",
+  "Jochen Kluve"
+ ],
+ "id": "W4413097537",
+ "kilde": "The Review of Economic Studies",
+ "lenke": "https://openalex.org/W4413097537",
+ "oversikt": false,
+ "sammendrag": "Abstract We quantify micro and macro effects of changes in the potential benefit duration (PBD) in unemployment insurance. In Poland, the PBD is 12 months for the newly unemployed if the previous year’s county unemployment rate is more than 150% of the national average, and 6 months otherwise. We exploit this cut-off using regression discontinuity estimates on registry data containing the universe of unemployed from 2005 to 2019. For those whose PBD is directly affected by the policy rule, benefit recipients younger than 50, a PBD increase from 6 to 12 months leads to 13% higher unemployment. A decomposition analysis reveals that 12 months after an increase in the PBD, only half of the increase in unemployment is due to the effect on search effort (the micro effect) while the other half is due to increased inflows into unemployment. The total effect on unemployment, which includes equilibrium effects, is entirely explained by the increase in unemployment of workers directly affected by the policy change. We find no evidence of spill-overs on two distinct groups of unemployed whose PBD is unchanged and no effect on measures of labour market tightness.",
+ "tittel": "The Micro and Macro Effects of Changes in the Potential Benefit Duration",
+ "type": "article"
+}

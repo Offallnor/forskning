@@ -1,0 +1,6 @@
+# Kilde: SSB, tabell 13760
+# Adresse: https://data.ssb.no/api/pxwebapi/v2/tables/13760/data?lang=no&outputFormat=csv&valueCodes[Kjonn]=0&valueCodes[Alder]=15-24,15-74&valueCodes[Justering]=S&valueCodes[ContentsCode]=ArbledProsArbstyrk&valueCodes[Tid]=2015M09,2016M09,2017M09,2018M09,2019M09,2020M09,2021M09,2022M09,2023M09,2024M09,2025M09,2026M09
+# Hentet: 2026-11-08
+"Kjonn","Alder","Justering","ArbledProsArbstyrk 2015M09","ArbledProsArbstyrk 2016M09","ArbledProsArbstyrk 2017M09","ArbledProsArbstyrk 2018M09","ArbledProsArbstyrk 2019M09","ArbledProsArbstyrk 2020M09","ArbledProsArbstyrk 2021M09","ArbledProsArbstyrk 2022M09","ArbledProsArbstyrk 2023M09","ArbledProsArbstyrk 2024M09","ArbledProsArbstyrk 2025M09","ArbledProsArbstyrk 2026M09"
+"0","15-24","S",12.6,12.4,13.2,11.8,10.6,14.5,13.1,10.6,10.4,12.5,14.3,16.7
+"0","15-74","S",4.8,4.7,4.2,4.4,3.5,5.2,3.7,3.4,3.4,4.0,4.7,5.0

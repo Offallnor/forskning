@@ -1,0 +1,16 @@
+{
+ "ar": 2009,
+ "doi": "https://doi.org/10.1111/j.1467-9914.2008.00446.x",
+ "forfattere": [
+  "Adriano Paggiaro",
+  "Enrico Rettore",
+  "Ugo Trivellato"
+ ],
+ "id": "W2035167046",
+ "kilde": "Labour",
+ "lenke": "https://openalex.org/W2035167046",
+ "oversikt": false,
+ "sammendrag": "Abstract Liste di Mobilità is an Italian programme targeted to dismissed workers. It combines a ‘passive’ and an ‘active’ component. Eligibility duration varies with the worker's age at dismissal. Using a new panel data set, we identify the impact of extending the duration of eligibility on re‐employment probabilities and wages, via Regression Discontinuity Design. We validate the design by a set of overidentification tests. For most subgroups we find no significant impact, with a peculiar pattern for women entitled to monetary benefits. A major negative impact emerges for workers aged 50 or more granted monetary benefits, likely due to the fact that they can use the programme as a bridge to retirement.",
+ "tittel": "The Effect of a Longer Eligibility to a Labour Market Programme for Dismissed Workers",
+ "type": "article"
+}

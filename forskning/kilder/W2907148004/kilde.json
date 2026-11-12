@@ -1,0 +1,20 @@
+{
+ "apen_url": "https://www.aeaweb.org/articles/pdf/doi/10.1257/aer.20170537",
+ "ar": 2019,
+ "doi": "https://doi.org/10.1257/aer.20170537",
+ "forfattere": [
+  "Peter Ganong",
+  "Pascal Noel"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "http://humcap.uchicago.edu/RePEc/hka/wpaper/Ganong_Noel_2019_consumer-spending-unemployment.pdf",
+ "hvordan": "pdf",
+ "id": "W2907148004",
+ "kilde": "American Economic Review",
+ "lenke": "https://openalex.org/W2907148004",
+ "merknad": "ÅPEN VERSJON (preprint eller arbeidsnotat), merkes i svaret",
+ "oversikt": false,
+ "sammendrag": "Using de-identified bank account data, we show that spending drops sharply at the large and predictable decrease in income arising from the exhaustion of unemployment insurance (UI) benefits. We use the high-frequency response to a predictable income decline as a new test to distinguish between alternative consumption models. The sensitivity of spending to income we document is inconsistent with rational models of liquidity-constrained households, but is consistent with behavioral models with present-biased or myopic households. Depressed spending after exhaustion also implies that the consumption-smoothing gains from extending UI benefits are four times larger than from raising UI benefit levels. (JEL D14, D91, E21, E24, E70, J65)",
+ "tittel": "Consumer Spending during Unemployment: Positive and Normative Implications",
+ "type": "article"
+}

@@ -1,0 +1,21 @@
+{
+ "apen_url": "https://nva.sikt.no/registration/01999f330df6-61199673-0dc2-4da6-beee-44d402da77ad",
+ "ar": 2023,
+ "forfattere": [
+  "Eirin Mølland",
+  "Kjetil Andersson",
+  "Anders Arntzen Tharaldsen",
+  "Ole Barrath Skaiaa"
+ ],
+ "hentet": "før 2026-11-08",
+ "hentet_fra": "https://nva.sikt.no/registration/01999f330df6-61199673-0dc2-4da6-beee-44d402da77ad",
+ "hvordan": "vitenarkivet",
+ "id": "01999f330df6-61199673-0dc2-4da6-beee-44d402da77ad",
+ "kilde": "Universitetet i Agder",
+ "lenke": "https://nva.sikt.no/registration/01999f330df6-61199673-0dc2-4da6-beee-44d402da77ad",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "Sykefraværet i Norge er på et høyt nivå sammenlignet med andre land. En generøs sykelønnsordning kombinertmed at enhøyandel av befolkningen mottar sykepenger har betydelige økonomiske konsekvenserfor samfunnet. Høyt sykefravær har representert betydelige utfordringer også i tidligere perioder, spesielt rundt årtusenskiftet.Sykefraværet i undervisningsnæringen har hvertår siden starten av 2000-tallet og frem til 2018 vært lavere enn gjennomsnittet. Imidlertid har det skjedd endringer de siste årenehvor sykefraværet nåer høyere enn gjennomsnittet.\nDenne masteroppgaven har som formål å analysere i hvilken grad økningen i legemeldt sykefravær i perioden fra 2015 til 2021 skyldesendringer i arbeidsstyrkens sammensetning.Undervisningsnæringen har i denne perioden den største økningeni legemeldt sykefravær av samtlige næringsgrupper.Vi undersøkeren rekke faktorer som potensielt kan påvirke sykefraværet, som alder, kjønn, utdanningsnivå, innvandringsbakgrunn, antall barn og sivilstatus.\nDatakilden for vår forskning er Microdata.no, en pålitelig plattform som inneholder omfattende registerdata om blant annet arbeidsforhold og sykefravær. Våre data analyseres i regresjonsanalyser og Blinder-Oaxaca dekomponeringer.Blinder-Oaxaca er en analytisk metode som brukes for åforklare forskjeller mellom to definerte grupper. I vår studie er de aktuelle gruppene arbeidsstyrken i 2015 og 2021, samt kvinner og menn. Vi har undersøkt relevant litteratur rundt ulike faktorer som kan påvirke sykefraværet, og særlig i forhold til våreutvalgte variabler. Målet er å belyse hvordanendringerav variabler knyttet til arbeidsstyrkessammensetning kan øke eller redusere sykefraværet.\nFor å tydeliggjøre forskjeller mellom de ulike yrkeskategoriene har vi undersøkt førskole, grunnskole, videregåendeskole og høyskole/universitet separat.Våre funn samsvarer med eksiterende litteratur på en rekke områder.Både alder og kjønn har signifikante påvirkninger på sykefraværet for alle yrkeskategoriene i perioden. Resultater viser at innenfor de enkelte yrkeskategoriene kan endringer i alderssammensetning og kjønnsbalanse forklare noe av årsaken til økt sykefravær. Endringer i variablene sivilstatus,innvandring, antall barn og utdanningsnivå påvirker i liten grad sykefraværet. Ved å se på yrkeskategoriene samlet kan økningen i legemeldt sykefravær i liten grad forklares av endringer i arbeidsstyrkes 4sammensetning. Hovedårsaken til økningen i legemeldt sykefravær antas dermed å skyldes andre årsakerennarbeidsstyrkens sammensetning.",
+ "tittel": "Hvordan påvirker arbeidsstyrkens sammensetning sykefraværet i undervisningsnæringen",
+ "type": "DegreeMaster"
+}

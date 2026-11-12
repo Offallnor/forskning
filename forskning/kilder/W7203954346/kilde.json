@@ -1,0 +1,17 @@
+{
+ "apen_url": "https://doi.org/10.18261/spa.43.2.3",
+ "ar": 2026,
+ "doi": "https://doi.org/10.18261/spa.43.2.3",
+ "forfattere": [
+  "Max-Emil M. King",
+  "Simen Markussen",
+  "Knut Røed"
+ ],
+ "id": "W7203954346",
+ "kilde": "Søkelys på arbeidslivet",
+ "lenke": "https://openalex.org/W7203954346",
+ "oversikt": false,
+ "sammendrag": "I den norske sykepengeordningen kan arbeidsgivere velge å forskuttere sykepenger til ansatte etter arbeidsgiverperioden, slik at langtidssykmeldte arbeidstakere slipper å vente på sykepenger fra Nav. Vi bruker detaljerte registerdata til å studere hvordan slik forskuttering påvirker de ansattes sykefraværsadferd. Først dokumenterer vi at så mange som fire av fem ansatte i privat sektor kan være omfattet av ordningen, med betydelige forskjeller etter inntekt og utdanningsnivå, samt på tvers av næringer. Deretter undersøker vi adferdseffekten av forskuttering ved å «zoome» inn på dagene rundt overgangen fra arbeidsgiverfinansiert sykelønn til sykepenger fra Nav – et tidspunkt da ordningen skaper et tydelig skille i insentivene til å fortsette eller avslutte sykefraværet. Hovedfunnet vårt er at mangel på forskuttering gir en økning i sannsynligheten for friskmelding rett før, sammenlignet med rett etter, denne overgangen på omkring to prosentpoeng (3 % relativ til gruppen med forskuttering). Vi finner ingen støtte for at effekten hovedsakelig drives av sykmeldte med begrenset økonomisk handlingsrom. Dermed er funnene mer konsistente med at det er bryet knyttet til forstyrrelser i inntektsstrømmen som motiverer til tidligere gjenopptagelse av arbeid. Samlet sett tyder resultatene på at forskuttering har neglisjerbar innvirkning på det samlede sykefraværet i Norge.",
+ "tittel": "Effekten av forskuttert sykelønn på sykefraværsadferd",
+ "type": "article"
+}

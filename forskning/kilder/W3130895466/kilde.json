@@ -1,0 +1,20 @@
+{
+ "apen_url": "https://doi.org/10.1177/1403494821993705",
+ "ar": 2021,
+ "doi": "https://doi.org/10.1177/1403494821993705",
+ "forfattere": [
+  "Jenni Blomgren",
+  "Riku Perhoniemi"
+ ],
+ "hentet": "før 2026-11-08",
+ "hentet_fra": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9096587/fullTextXML",
+ "hvordan": "Europe PMC",
+ "id": "W3130895466",
+ "kilde": "Scandinavian Journal of Public Health",
+ "lenke": "https://openalex.org/W3130895466",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "AIMS: Mental disorders are among the key public health challenges and cause a significant share of sickness absence. The aim of this study was to examine gender and age-specific trends in sickness absence in Finland among non-retired persons aged 16-67 years during 2005-2019 by main diagnostic groups. Special focus was put on the development of sickness absence due to mental and behavioural disorders. METHODS: Data on compensated sickness allowance days were retrieved from the database of the Social Insurance Institution of Finland, and data on the non-retired population aged 16-67 years from the database of Statistics Finland for years 2005-2019. Yearly age-standardised sickness absence rates (yearly sickness absence days per each person in the population at risk) according to diagnostic group were calculated for women and men in age groups 16-34, 35-49 and 50-67 years. RESULTS: A steep increase in sickness absence due to mental disorders was observed between 2016 and 2019 in all age groups among both genders, but the increase was more prominent among women. The age group 16-34 years also showed a longer-term gradual increase. In all examined gender and age groups, the increase was mainly a consequence of an increase in sickness absence due to depression and anxiety disorders. CONCLUSIONS: Increase in sickness absence due to mental disorders is an early sign of threats to work ability and productivity of the working-age population. Several factors may simultaneously drive the development. The specific reasons for the recent trend need to be studied.",
+ "tittel": "Increase in sickness absence due to mental disorders in Finland: trends by gender, age and diagnostic group in 2005–2019",
+ "type": "article"
+}

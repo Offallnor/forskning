@@ -1,0 +1,22 @@
+{
+ "apen_url": "https://docs.iza.org/dp10439.pdf",
+ "ar": 2021,
+ "doi": "https://doi.org/10.1257/pol.20160613",
+ "forfattere": [
+  "Christopher Boone",
+  "Arindrajit Dubé",
+  "Lucas Goodman",
+  "Ethan Daniel Kaplan"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "https://docs.iza.org/dp10439.pdf",
+ "hvordan": "pdf",
+ "id": "W2607337089",
+ "kilde": "American Economic Journal Economic Policy",
+ "lenke": "https://openalex.org/W2607337089",
+ "merknad": "ÅPEN VERSJON (preprint eller arbeidsnotat), merkes i svaret",
+ "oversikt": false,
+ "sammendrag": "This paper examines the impact of unemployment insurance (UI) on aggregate employment by exploiting cross-state variation in the maximum benefit duration during the Great Recession. Comparing adjacent counties located in neighboring states, there is no statistically significant impact of increasing UI generosity on aggregate employment. Point estimates are uniformly small in magnitude, and the most precise estimates rule out employment-to-population ratio reductions in excess of 0.35 percentage points from the UI extension. The results contrast with the negative effects implied by most micro-level labor supply studies and are consistent with both job rationing and aggregate demand channels. (JEL E24, E32, J22, J23, J65)",
+ "tittel": "Unemployment Insurance Generosity and Aggregate Employment",
+ "type": "article"
+}

@@ -1,0 +1,16 @@
+{
+ "apen_url": "https://doi.org/10.17979/ejge.2020.9.1.5714",
+ "ar": 2020,
+ "doi": "https://doi.org/10.17979/ejge.2020.9.1.5714",
+ "forfattere": [
+  "Luzius Stricker",
+  "Moreno Baruffini"
+ ],
+ "id": "W3034648759",
+ "kilde": "European Journal of Government and Economics",
+ "lenke": "https://openalex.org/W3034648759",
+ "oversikt": false,
+ "sammendrag": "This paper examines the impact of the fourth partial revision of the law of unemployment insurance (AVIG) on unemployment dynamics in Switzerland at a cantonal level. The authors apply the Synthetic Control Method (SCM), a matching method for comparative case studies. A counterfactual analysis of the cases studied is performed by combining a control group of several untreated units, which provides a better comparison to the treatment group than a single unit. The control unit is designed as a weighted average of the available cantons in the donor pool, taking into account the similarities between the chosen controls and the treated unit. Once policy changes are controlled, the results suggest a significant effect on the unemployment rate at a cantonal level: the reform had a discernible impact on lowering the unemployment rate in the Italian- and French-speaking cantons in Switzerland.",
+ "tittel": "The effect of reduced unemployment duration on the unemployment rate: a Synthetic Control Approach",
+ "type": "article"
+}

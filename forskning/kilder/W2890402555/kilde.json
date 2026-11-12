@@ -1,0 +1,21 @@
+{
+ "apen_url": "https://doi.org/10.3386/w17813",
+ "ar": 2012,
+ "doi": "https://doi.org/10.3386/w17813",
+ "forfattere": [
+  "Johannes F. Schmieder",
+  "Till von Wachter",
+  "Stefan Bender"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "https://doi.org/10.3386/w17813",
+ "hvordan": "pdf",
+ "id": "W2890402555",
+ "kilde": "National Bureau of Economic Research",
+ "lenke": "https://openalex.org/W2890402555",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "One goal of extending the duration of unemployment insurance (UI) in recessions is to increase UI coverage in the face of longer unemployment spells.Although it is a common concern that such extensions may themselves raise nonemployment durations, it is not known how recessions would affect the magnitude of this moral hazard.To obtain causal estimates of the differential effects of UI in booms and recessions, this paper exploits the fact that, in Germany, potential UI benefit duration is a function of exact age which is itself invariant over the business cycle.We implement a regression discontinuity design separately for twenty years and correlate our estimates with measures of the business cycle.We find that the nonemployment effects of a month of additional UI benefits are, at best, somewhat declining in recessions.Yet, the UI exhaustion rate, and therefore the additional coverage provided by UI extensions, rises substantially during a downturn.The ratio of these two effects represents the nonemployment response of workers weighted by the probability of being affected by UI extensions.Hence, our results imply that the effective moral hazard effect of UI extensions is significantly lower in recessions than in booms.Using a model of job search with liquidity constraints, we also find that, in the absence of market-wide effects, the net social benefits from UI extensions can be expressed either directly in terms of the exhaustion rate and the nonemployment effect of UI durations, or as a declining function of our measure of effective moral hazard.",
+ "tittel": "The Effects of Extended Unemployment Insurance over the Business Cycle: Evidence from Regression Discontinuity Estimates Over Twenty Years",
+ "type": "report"
+}

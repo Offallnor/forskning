@@ -1,0 +1,15 @@
+{
+ "apen_url": "https://academic.oup.com/esr/article-pdf/28/5/594/1498775/jcr028.pdf",
+ "ar": 2011,
+ "doi": "https://doi.org/10.1093/esr/jcr028",
+ "forfattere": [
+  "Irma Mooi‐Reci"
+ ],
+ "id": "W2328605831",
+ "kilde": "European Sociological Review",
+ "lenke": "https://openalex.org/W2328605831",
+ "oversikt": false,
+ "sammendrag": "This study includes retrenchments in unemployment insurance (UI) benefits as an understudied mechanism to investigate possible explanations for wage inequality in the labor market.Using longitudinal data from the Dutch Labor Supply Panel (OSA) over the period 1985-2000, and adopting a quasi-experimental design, we not only extend current research by asking if restrictive changes in UI benefits affect re-employment wages, but also explore variation by the level, and eligibility conditions of UI benefits across gender and over time.Results from a series of fixed-effects models show that lower and shorter UI benefits lead to persisting wage inequalities over time.When investigating whether wage penalties vary across gender, we find that women experience the largest penalties.These findings provide evidence that these particular types of restrictions in UI benefits have likely increased rather than decreased wage inequalities between men and women.",
+ "tittel": "Retrenchments in Unemployment Insurance Benefits and Wage Inequality: Longitudinal Evidence from the Netherlands, 1985-2000",
+ "type": "article"
+}

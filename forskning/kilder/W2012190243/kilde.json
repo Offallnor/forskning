@@ -1,0 +1,16 @@
+{
+ "apen_url": "http://hdl.handle.net/10419/78653",
+ "ar": 2005,
+ "forfattere": [
+  "Patrik Hesselius",
+  "Per Johansson",
+  "Laura Larsson"
+ ],
+ "id": "W2012190243",
+ "kilde": "RePEc: Research Papers in Economics",
+ "lenke": "https://openalex.org/W2012190243",
+ "oversikt": false,
+ "sammendrag": "The paper exploits a unique social experiment carried out in 1988 in Sweden to identify the effect of monitoring on sickness absence. The treatment consists of postponing the first formal point of monitoring during a sickness absence spell, a requirement for a doctor’s certificate, from day eight to day fifteen. The experiment was conducted in two geographical areas, and the treatment group was randomized by birth date. The results show strong effects on sickness absence duration from extending the waiting period in both areas. On average, the durations increased by 6.6 percent. No effect on incidence of sickness absence is found. A heterogeneity analysis reveals that monitoring affects men more than women.",
+ "tittel": "Monitoring sickness insurance claimants: evidence from a social experiment *",
+ "type": "preprint"
+}

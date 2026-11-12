@@ -1,0 +1,15 @@
+{
+ "ar": 2007,
+ "doi": "https://doi.org/10.1429/25711",
+ "forfattere": [
+  "Alberto Martini",
+  "Luca Mo Costabella"
+ ],
+ "id": "W128946358",
+ "kilde": "Politica economica",
+ "lenke": "https://openalex.org/W128946358",
+ "oversikt": false,
+ "sammendrag": "The Italian programme \"Mobilità\" has two objectives: first, it provides time-limited income support to some categories of workers collectively dismissed due to plant closing or firm restructuring; second, it attempts to increase their reemployment chances by giving incentives to employers who are willing to hire them. However, these benefits can distort the behaviour of both employers and workers: the former can dismiss and then rehire the same workers to receive the incentives, while workers who are eligible for income support could refuse some job offers, thus prolonging their unemployment spell. We investigate the presence of these effects by analyzing administrative data on workers dismissed in the province of Turin between 1997 and 2000. We find a non negligible number of firms who fraudulently dismiss their workers to rehire them soon afterwards under a different firm denomination; and we find a strong negative effect of the receipt of income support on the probability of reemployment. Such negative effect increases strongly with the age of the worker, and that is due to the design of the programme, which increases the maximum eligibility duration with the age of the worker (up to a pre-retirement status for most of the over 50s). On the other hand, extending the eligibility duration seems to have no effect on workers who are not eligible for income support.",
+ "tittel": "Evaluating the Unintended Effects on Workers and Firms of a program for Displaced Workers",
+ "type": "article"
+}

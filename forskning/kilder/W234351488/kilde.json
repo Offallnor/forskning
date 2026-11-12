@@ -1,0 +1,20 @@
+{
+ "apen_url": "https://doi.org/10.17016/feds.2014.065",
+ "ar": 2014,
+ "doi": "https://doi.org/10.17016/feds.2014.065",
+ "forfattere": [
+  "Andrew Figura",
+  "Régis Barnichon"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "http://www.federalreserve.gov/pubs/feds/2014/201465/201465pap.pdf",
+ "hvordan": "pdf",
+ "id": "W234351488",
+ "kilde": "Finance and Economics Discussion Series",
+ "lenke": "https://openalex.org/W234351488",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "This paper presents estimates of the effect of emergency and extended unemployment benefits (EEB) on the unemployment rate and the labor force participation rate using a data set containing information on individuals likely eligible and ineligible for EEB back to the late 1970s. To identify these estimates, we examine how exit rates from unemployment change across different points of the distribution of unemployment duration when EEB is and is not available, controlling for changes in labor demand and demographic characteristics. We find that EEB increased the unemployment rate by about one-third percentage point in the most recent recession but did not affect the participation rate. In previous recessions, the effect of EEB on the unemployment rate was even smaller.",
+ "tittel": "The Effects of Unemployment Benefits on Unemployment and Labor Force Participation: Evidence from 35 Years of Benefits Extensions",
+ "type": "article"
+}

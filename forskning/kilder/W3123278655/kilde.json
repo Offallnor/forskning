@@ -1,0 +1,20 @@
+{
+ "apen_url": "https://doi.org/10.2139/ssrn.2157924",
+ "ar": 2012,
+ "doi": "https://doi.org/10.2139/ssrn.2157924",
+ "forfattere": [
+  "Niels Westergaard‐Nielsen",
+  "Filip Pertold"
+ ],
+ "hentet": "før 2026-11-08",
+ "hentet_fra": "https://docs.iza.org/dp6782.pdf",
+ "hvordan": "pdf",
+ "id": "W3123278655",
+ "kilde": "SSRN Electronic Journal",
+ "lenke": "https://openalex.org/W3123278655",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "We investigate the effect of firms' participation in an insurance scheme on the long-term sickness absence of their employees, using administrative records. In Denmark and several other European countries, firms are obliged to cover the first two weeks of sickness. The insurance scheme is provided by government authority and is designed to help small firms with the financial burden related to sickness absence of their workers. We use an exogenously-set threshold for the eligibility as a policy experiment. Using regression discontinuity in the fuzzy form, we show that sickness absence in insured firms is much more prevalent than in uninsured firms. Sickness spells in insured firms are shorter and the conditional probability to return back to work from sickness is much higher in insured firms. These results suggest that employees in insured firms are less monitored during the first two weeks and that their sickness is less serious. We demonstrate in the paper that the minimum cost of the present insurance scheme is similar to about 1100 man-years. On top of that comes a substantial cost to more short time sickness.",
+ "tittel": "Firm Insurance and Sickness Absence of Employees",
+ "type": "preprint"
+}

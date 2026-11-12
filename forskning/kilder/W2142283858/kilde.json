@@ -1,0 +1,23 @@
+{
+ "apen_url": "https://academic.oup.com/eurpub/article-pdf/23/4/606/1181198/cks099.pdf",
+ "ar": 2012,
+ "doi": "https://doi.org/10.1093/eurpub/cks099",
+ "forfattere": [
+  "Magnus Helgesson",
+  "Birgitta Johansson",
+  "Tobias Nordqvist",
+  "Ingrid E. Lundberg",
+  "Eva Vingård"
+ ],
+ "hentet": "2026-11-09",
+ "hentet_fra": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3719474/fullTextXML",
+ "hvordan": "Europe PMC",
+ "id": "W2142283858",
+ "kilde": "European Journal of Public Health",
+ "lenke": "https://openalex.org/W2142283858",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "BACKGROUND: Youth unemployment is an increasing problem for societies around the world. Research has revealed negative health effects of unemployment, and this longitudinal register-based cohort study examined the relationship between unemployment and later sickness absence, disability pension and death among youth in Sweden. METHOD: The study group of 199,623 individuals comprised all immigrants born between 1968 and 1972 who immigrated before 1990 (25,607) and a random sample of native Swedes in the same age-range (174,016). The baseline year was 1992, and the follow-up period was from 1993 to 2007. Subjects with unemployment benefit in 1990-91, disability pension in 1990-92, severe disorders leading to hospitalization in 1990-92 and subjects who emigrated during follow-up were excluded. RESULTS: Those who were unemployed in 1992 had elevated risk of ≥60 days of sickness absence (OR 1.02-1.49), disability pension (HR 1.08-1.62) and all except native Swedish women had elevated risk of death (HR 1.01-1.65) during follow-up compared with non-unemployed individuals. The risk of future sickness absence increased with the length of unemployment in 1992 (OR 1.06-1.54), and the risk of sickness absence increased over time. A larger part of the immigrant cohort was unemployed at baseline than native Swedes. Selection to unemployment by less healthy subjects may explain part of the association between unemployment and the studied outcomes. CONCLUSION: Unemployment at an early age may influence the future health of the individual. To a society it may lead to increased burdens on the welfare system and productivity loss for many years.",
+ "tittel": "Unemployment at a young age and later sickness absence, disability pension and death in native Swedes and immigrants",
+ "type": "article"
+}

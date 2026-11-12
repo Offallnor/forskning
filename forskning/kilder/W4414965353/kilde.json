@@ -1,0 +1,21 @@
+{
+ "apen_url": "https://link.springer.com/content/pdf/10.1007/s10926-025-10334-y.pdf",
+ "ar": 2025,
+ "doi": "https://doi.org/10.1007/s10926-025-10334-y",
+ "forfattere": [
+  "Thomas B. van Rossum",
+  "Robin N. Kok",
+  "Karen Nieuwenhuijsen"
+ ],
+ "hentet": "2026-11-09",
+ "hentet_fra": "https://link.springer.com/content/pdf/10.1007/s10926-025-10334-y.pdf",
+ "hvordan": "pdf",
+ "id": "W4414965353",
+ "kilde": "Journal of Occupational Rehabilitation",
+ "lenke": "https://openalex.org/W4414965353",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "PURPOSE: Return-to-work (RTW) counseling is a critical part of rehabilitation of sick-listed employees with common mental disorders (CMD). In the Netherlands it is mandatory that RTW counseling with an occupational physician (OP) starts within two weeks, but current literature and guidelines provide little empiric support. This study aims to answer the questions \"Is starting RTW counseling within two weeks associated with faster RTW?\" and \"Is there a dose-response effect (i.e. the earlier the better)?\". METHODS: In an observational design, sick-listed employees (n = 12,169) seen by an OP within two weeks of onset of sick leave were compared to those seen later using Cox proportional hazards analysis. Next, per week effects were examined, reporting pairwise comparisons of weeks 1 through 6 if the omnibus test was significant. RESULTS: : 46.08, df = 5, p < 0.001) with significant earlier RTW when RTW counseling was started in week 1 versus week 3 (HR: 0.90(95%CI 0.85-0.96), p < 0.001), week 1 versus week 5 (HR: 0.88(95%CI 0.81-0.94), p < 0.001), week 1 versus week 6 (HR: 0.82(95%CI 0.77-0.88), p < 0.001), and week 2 versus week 6 (HR: 0.84(95%CI 0.79-0.89), p < 0.001). However, subgroup analyses showed these findings only held for employees with adjustment disorders. CONCLUSIONS: There is a modest benefit to starting RTW counseling earlier. However, this effect is limited to those seen very early and there are no significant differences between weeks 2 through 5. Whether these modest benefits warrant strict adherence to a two-week deadline should be re-evaluated.",
+ "tittel": "Timing Return-to-Work Counseling: An Observational Study Into the Effect of Time to First Consultation on Return to Work",
+ "type": "article"
+}

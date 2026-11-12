@@ -1,0 +1,15 @@
+{
+ "apen_url": "https://www.bmj.com/content/bmj/322/7280/204.full.pdf",
+ "ar": 2001,
+ "doi": "https://doi.org/10.1136/bmj.322.7280.204",
+ "forfattere": [
+  "Ruth Crowther"
+ ],
+ "id": "W2169254240",
+ "kilde": "BMJ",
+ "lenke": "https://openalex.org/W2169254240",
+ "oversikt": true,
+ "sammendrag": "OBJECTIVE: To determine the most effective way of helping people with severe mental illness to obtain competitive employment-that is, a job paid at the market rate, and for which anyone can apply. DESIGN: Systematic review. PARTICIPANTS: Eligible studies were randomised controlled trials comparing prevocational training or supported employment (for people with severe mental illness) with each other or with standard community care. OUTCOME MEASURES: The primary outcome was number of subjects in competitive employment. Secondary outcomes were other employment outcomes, clinical outcomes, and costs. RESULTS: Eleven trials met the inclusion criteria. Five (1204 subjects) compared prevocational training with standard community care, one (256 subjects) compared supported employment with standard community care, and five (484 subjects) compared supported employment with prevocational training. Subjects in supported employment were more likely to be in competitive employment than those who received prevocational training at 4, 6, 9, 12, 15, and 18 months (for example, 34% v 12% at 12 months; number needed to treat 4.45, 95% confidence interval 3.37 to 6.59). This effect was still present, although at a reduced level, after a sensitivity analysis that retained only the highest quality trials (31% v 12%; 5.3, 3.6 to 10.4). People in supported employment earned more and worked more hours per month than those who had had prevocational training. CONCLUSION: Supported employment is more effective than prevocational training at helping people with severe mental illness obtain competitive employment.",
+ "tittel": "Helping people with severe mental illness to obtain work: systematic review",
+ "type": "review"
+}

@@ -1,0 +1,17 @@
+{
+ "apen_url": "https://doi.org/10.25740/xc158xy0876",
+ "ar": 2026,
+ "doi": "https://doi.org/10.25740/xc158xy0876",
+ "forfattere": [
+  "Stanford University",
+  "Sam Lustgarten",
+  "Mark Duggan"
+ ],
+ "id": "W7162530432",
+ "kilde": "Stanford Digital Repository",
+ "lenke": "https://openalex.org/W7162530432",
+ "oversikt": false,
+ "sammendrag": "In the early 2010s, Unemployment Insurance (UI) duration cuts were used by multiple states as a fiscal tool to restore trust fund solvency after the Great Recession, but little research examines whether these cuts achieved their intended goal of improving the state’s UI finances. This thesis analyzes the impact of Missouri's 2011 reduction in maximum UI benefit duration from 26 to 20 weeks on the fiscal health of its Unemployment Insurance Trust Fund. I implement a Synthetic Difference-in-Differences (SynthDiD) model to estimate that the cut reduced total benefit expenditures by 18-20% and per-claim expenditures by a statistically significant 15%. Using a novel decomposition framework, I find that 63% of per-claim savings operated through a truncation channel, or through forcing exhaustees off UI earlier, rather than through inducing broader early-exit behavior among claimants. Comparing Missouri to South Carolina and Michigan, which implemented duration cuts alongside broader eligibility reforms, I show that truncation's dominance depends critically on the pre-existing size of the exhaustee tail. These results suggest that duration cuts are a blunt fiscal instrument whose savings derive primarily from compressing the tail of long-term claimants, not from changing work-search behavior throughout the UI spell.",
+ "tittel": "Show Me the Money: The Impact of Maximum Potential Duration Cuts on Unemployment Insurance Solvency",
+ "type": "article"
+}

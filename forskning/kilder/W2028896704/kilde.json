@@ -1,0 +1,16 @@
+{
+ "apen_url": "https://ageconsearch.umn.edu/record/268495/files/twerp375.pdf",
+ "ar": 1993,
+ "doi": "https://doi.org/10.1002/jae.3950080405",
+ "forfattere": [
+  "W. Narendranathan",
+  "Mark B. Stewart"
+ ],
+ "id": "W2028896704",
+ "kilde": "Journal of Applied Econometrics",
+ "lenke": "https://openalex.org/W2028896704",
+ "oversikt": false,
+ "sammendrag": "Abstract This paper investigates how the effect of income while unemployed on the probability of an individual leaving unemployment varies with the length of time that the individual has been unemployed. We examine this question in the context of a variety of alternative econometric models. We extend the Proportional Hazards model with unrestricted baseline hazard to one in which there are unrestricted effects of a subset of the explanatory variables and also consider models that can be estimated as series of binary response models. The proportional hazard restrictions are rejected for the sample of British unemployed men analysed and in the binary sequence framework Logit and Probit models based on symmetric distributions dominate (in likelihood terms) the Extreme Value form model implied by extension of the Proportional Hazards formulation. Logit models with a flexible form for the duration dependence which also incorporate unobserved heterogeneity in a flexible way are estimated. The results for all formulations indicate a rapidly declining effect of unemployment income as a spell lengthens, with no significant effect for the long‐term unemployed. The preferred specifications which allow for omitted heterogeneity indicate no significant effect after about 5 months, and this result is robust to the inclusion or exclusion of previous labour‐market experience variables and to the choice of mixing distribution.",
+ "tittel": "How does the benefit effect vary as unemployment spells lengthen?",
+ "type": "article"
+}

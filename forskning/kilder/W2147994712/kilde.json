@@ -1,0 +1,15 @@
+{
+ "ar": 2012,
+ "doi": "https://doi.org/10.1177/0193841x12466663",
+ "forfattere": [
+  "Per Johansson",
+  "Erica Lindahl"
+ ],
+ "id": "W2147994712",
+ "kilde": "Evaluation Review",
+ "lenke": "https://openalex.org/W2147994712",
+ "oversikt": false,
+ "sammendrag": "OBJECTIVE: In this article, we estimate the effect of a multidisciplinary collaborationprogram on the length of sickness absence. The intention with the programwas to avoid long-term sickness absence by providing an early and holistic evaluation of the sick-listed individuals' conditions. The target group was individuals who were at risk of becoming long-term sick. The eligibility criteria were mainly based on register information that we have access to. METHODS: Using this register information, we estimate different Cox regression models and apply a nonparametric matching estimator. We have also conducted a small randomized experiment. RESULTS: The result from the randomized experiment is not statistically significant, but the point estimate provides the same result as was found in the observational study: The program prolongs rather than shortens the sickness absence spell. That is, the average sickness absence spell is prolonged by about 3 months. CONCLUSIONS: Our main explanation for this discouraging result is that the team focuses too much on rehabilitation rather than encouraging the sick-listed individual to return to work.",
+ "tittel": "Locking-In Effects Due to Early Interventions? An Evaluation of a Multidisciplinary Screening Programs for Avoiding Long-Term Sickness",
+ "type": "article"
+}

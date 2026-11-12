@@ -1,0 +1,16 @@
+{
+ "ar": 2016,
+ "doi": "https://doi.org/10.1257/aer.20141566",
+ "forfattere": [
+  "Johannes F. Schmieder",
+  "Till von Wachter",
+  "Stefan Bender"
+ ],
+ "id": "W2318552292",
+ "kilde": "American Economic Review",
+ "lenke": "https://openalex.org/W2318552292",
+ "oversikt": false,
+ "sammendrag": "We estimate that unemployment insurance (UI) extensions reduce reemployment wages using sharp age discontinuities in UI eligibility in Germany. We show this effect combines two key policy parameters: the effect of UI on reservation wages and the effect of nonemployment durations on wage offers. Our framework implies if UI extensions do not affect wages conditional on duration, then reservation wages do not bind. We derive resulting instrumental variable estimates for the effect of nonemployment durations on wage offers and bounds for reservation wage effects. The effect of UI on wages we find arises mainly from substantial negative nonemployment duration effects. (JEL J31, J64, J65)",
+ "tittel": "The Effect of Unemployment Benefits and Nonemployment Durations on Wages",
+ "type": "article"
+}

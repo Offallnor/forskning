@@ -1,0 +1,21 @@
+{
+ "ar": 2017,
+ "doi": "https://doi.org/10.1093/qje/qjx015",
+ "forfattere": [
+  "Stefano DellaVigna",
+  "Attila Lindner",
+  "Balázs Reizer",
+  "Johannes F. Schmieder"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "https://discovery.ucl.ac.uk/1543328/1/HungaryUIRD_wp_2016_12_16_QJE-format.pdf",
+ "hvordan": "pdf",
+ "id": "W2402272161",
+ "kilde": "The Quarterly Journal of Economics",
+ "lenke": "https://openalex.org/W2402272161",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "Abstract We propose a model of job search with reference-dependent preferences, with loss aversion relative to recent income (the reference point). In this model, newly unemployed individuals search hard since consumption is below their reference point. Over time, though, they get used to lower income and thus reduce their search effort. In anticipation of a benefit cut, their search effort rises again, then declines once they get accustomed to the lower postcut benefit level. The model fits the typical pattern of exit from unemployment, even with no unobserved heterogeneity. To distinguish between this and other models, we use a unique reform in the unemployment insurance (UI) benefit path. In 2005, Hungary switched from a single-step UI system to a two-step system, with overall generosity unchanged. The system generated increased hazard rates in anticipation of, and especially following, benefit cuts in ways the standard model has a hard time explaining. We estimate a model with optimal consumption, endogenous search effort, and unobserved heterogeneity. The reference-dependent model fits the hazard rates substantially better than plausible versions of the standard model, including habit formation. Our estimates indicate a slow-adjusting reference point and substantial impatience, likely reflecting present-bias.",
+ "tittel": "Reference-Dependent Job Search: Evidence from Hungary*",
+ "type": "article"
+}

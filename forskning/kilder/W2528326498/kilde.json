@@ -1,0 +1,21 @@
+{
+ "apen_url": "https://link.springer.com/content/pdf/10.1007%2Fs12651-016-0209-x.pdf",
+ "ar": 2016,
+ "doi": "https://doi.org/10.1007/s12651-016-0209-x",
+ "forfattere": [
+  "Gianna Claudia Giannelli",
+  "Ursula Jaenichen",
+  "Thomas Rothe"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "https://link.springer.com/content/pdf/10.1007%2Fs12651-016-0209-x.pdf",
+ "hvordan": "pdf",
+ "id": "W2528326498",
+ "kilde": "Journal for Labour Market Research",
+ "lenke": "https://openalex.org/W2528326498",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "We address the concerns about rising inequality in the German labour market after the implementation of the Hartz reforms between 2003 and 2005. We focus on the quality of new jobs started between 1998 and 2010 in West Germany in terms of job stability and level of earnings. Using social security data drawn from the Integrated Employment Biographies, we analyse the distributions of job durations and wages and model their determinants at the worker level. Our results show a high degree of job stability during and after the reform years, decreasing wage levels and increasing wage dispersion.",
+ "tittel": "The evolution of job stability and wages after the implementation of the Hartz reforms",
+ "type": "article"
+}

@@ -1,0 +1,20 @@
+{
+ "apen_url": "https://doi.org/10.3386/w20305",
+ "ar": 2014,
+ "doi": "https://doi.org/10.3386/w20305",
+ "forfattere": [
+  "René Böheim",
+  "Thomas Leoni"
+ ],
+ "hentet": "før 2026-11-08",
+ "hentet_fra": "https://doi.org/10.3386/w20305",
+ "hvordan": "pdf",
+ "id": "W1521901582",
+ "kilde": "National Bureau of Economic Research",
+ "lenke": "https://openalex.org/W1521901582",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "In many countries, social security insures firms against their workers' sickness absences.The insurance may create a moral hazard for firms, leading to inefficient monitoring of absences or to an underinvestment in the prevention of absences.We exploit an administrative threshold in the Austrian social security that defined whether a firm had to pay a deductible for its blue-collar workers sicknesses or not.The quasi-experimental situation around the threshold provides causal evidence on the extent of moral hazard induced by the deductible.We apply a regression discontinuity design to estimate the differences in the incidences and durations of sicknesses for firms that faced the deductible and those who did not.We find that the deductible did not lead to different sickness outcomes and conclude that relatively low deductibles have little impact on forms' management of sicknesses.",
+ "tittel": "Firms' Sickness Costs and Workers' Sickness Absences",
+ "type": "report"
+}

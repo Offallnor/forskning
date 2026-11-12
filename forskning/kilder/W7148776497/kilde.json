@@ -1,0 +1,19 @@
+{
+ "apen_url": "http://www.theses.fr/2018LORR0309/document",
+ "ar": 2018,
+ "doi": "https://doi.org/10.70675/84ee867bz1246z41c0zbbbdzc678cd7019c1",
+ "forfattere": [
+  "Wafa Toubi"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "http://www.theses.fr/2018LORR0309/document",
+ "hvordan": "pdf",
+ "id": "W7148776497",
+ "kilde": "theses.fr (ABES)",
+ "lenke": "https://openalex.org/W7148776497",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "La thèse étudie les liens qui existent entre les recommandations issues de la littérature sur l'assurance chômage optimale et la qualité des emplois repris par les chômeurs. Nous nous intéressons en particulier à une dimension de la qualité de l'emploi qu'est la stabilité des emplois dans un contexte où les contrats de courte voire de très courte durée sont en pleine expansion en France. En utilisant les modèles théoriques de recherche d'emploi et d'appariement, nous analysons la manière dont les caractéristiques de l'assurance chômage affectent la stabilité des emplois repris. La particularité de notre analyse consiste à intégrer la manière dont les employés sont influencés par les paramètres de l'assurance chômage. En effet, si l'on souhaite analyser de manière globale l'impact des paramètres du système d'indemnisation sur l'évolution du taux de chômage, il convient de déterminer comment ces derniers influencent le taux de sortie du chômage (analyse du comportement des demandeurs d'emploi) mais aussi comment ils affectent le taux d'entrée au chômage (analyse du comportement des employés). Pour étudier le comportement des employés nous considérons que ces derniers influencent leur probabilité de conserver leur emploi en fournissant des efforts de rétention d'emploi. Nous montrons notamment que les chômeurs qui quittent rapidement le chômage retrouvent fréquemment des emplois peu stables. Une fois en emploi, ils exercent relativement peu d'efforts pour conserver leur emploi augmentant par là même leur probabilité de retourner rapidement au chômage. L'impact final d'une réduction du montant de l'indemnisation sur l'évolution du chômage est donc indéterminé dès lors que l'on intègre les employés dans l'analyse.",
+ "tittel": "Assurance chômage optimale et stabilité de l’emploi",
+ "type": "dissertation"
+}

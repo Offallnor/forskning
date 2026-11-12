@@ -1,0 +1,25 @@
+{
+ "apen_url": "http://dx.doi.org/10.1371/journal.pmen.0000020",
+ "ar": 2024,
+ "doi": "https://doi.org/10.1371/journal.pmen.0000020",
+ "forfattere": [
+  "Andreas Hoff",
+  "Anders Bo Bojesen",
+  "Jonas Peter Fisker",
+  "Rie Mandrup Poulsen",
+  "Carsten Rygaard Hjorthøj",
+  "Merete Nordentoft",
+  "Lene Falgaard Eplov"
+ ],
+ "hentet": "2026-11-09",
+ "hentet_fra": "https://journals.plos.org/mentalhealth/article/file?id=10.1371/journal.pmen.0000020&type=printable",
+ "hvordan": "pdf",
+ "id": "W4399324105",
+ "kilde": "PLOS mental health.",
+ "lenke": "https://openalex.org/W4399324105",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "BACKGROUND: In Denmark, 50% of those on long-term sick leave are affected by common mental disorders (CMDs), and it has been argued that detection in primary care has been insufficient. The Mental Health Assessment Study (MeHAS) assesses if specialized mental health assessments can enhance return to work for this group. This study aimed to estimate the effect of a specialized mental health assessment for people on sick leave with a mental health disorder, on return to work and mental health care utilization. METHODS AND FINDINGS: In this experimental study, sickness absentees were referred from a sick leave benefit management agency. Before intervention allocation, they had already received a standard health assessment in general practice. The intervention group received an additional specialized mental health assessment, while the control group did not. We compared the groups on several vocational outcome measures, the primary being proportion in work after one year. Other outcomes were weeks in work, time to return to work (RTW) and different measures of service utilization. We included 717 in the intervention group and 756 in the control group. On the primary outcome, proportion in work, we observed no differences between the groups at 12 months (53.9% vs. 58.7% in the control group, p = 0.133). Moreover, after one year, the control group showed faster RTW at 12-month follow-up (HR 0.79, p<0.001) and 3.1 more weeks in work (p<0.001). In the intervention group, participants received more hospital-based outpatient mental healthcare. CONCLUSION: Providing a specialized mental health assessment was associated with fewer weeks in work and longer sick leave duration (secondary outcomes), but the proportion in work at 12-month follow-up (primary outcome) did not differ between the groups. The intervention was associated with a higher likelihood of receiving specialized mental healthcare services, perhaps because more needs were met. Given the substantial risk of selection bias, results should be treated with caution.",
+ "tittel": "Does a specialized assessment improve vocational outcomes for people on sick leave with a suspected common mental disorder? Results from the Mental Health Assessment Study (MeHAS)",
+ "type": "article"
+}

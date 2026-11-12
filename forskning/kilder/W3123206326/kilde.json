@@ -1,0 +1,19 @@
+{
+ "apen_url": "https://docs.iza.org/dp9034.pdf",
+ "ar": 2015,
+ "forfattere": [
+  "Arash Nekoei",
+  "Andrea Michaela Weber"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "https://docs.iza.org/dp9034.pdf",
+ "hvordan": "pdf",
+ "id": "W3123206326",
+ "kilde": "RePEc: Research Papers in Economics",
+ "lenke": "https://openalex.org/W3123206326",
+ "merknad": "ÅPEN VERSJON (preprint eller arbeidsnotat), merkes i svaret",
+ "oversikt": false,
+ "sammendrag": "Contrary to the predictions of standard reservation-wage search models, empirical studies consistently find that an extension of unemployment insurance (UI) increases unemployment duration without improving subsequent wages. Our paper addresses this puzzle in two steps. First, using administrative data from Austria and an age-based regression discontinuity design, we show that an extension of UI eligibility by nine weeks increases the average reemployment wage by a statistically significant 0.5%. The magnitude of this effect is consistent with the behavior of an optimizing agent since new higher wages tend to persist. We find that the UI effect on both unemployment durations and reemployment wages is larger for individuals with a high ex-ante likelihood of benefit exhaustion and for those laid off during local industry-specific downturns. Second, we show both theoretically and empirically that the UI effect on expected wage is determined by two offsetting forces: (i) agents on UI increase their reservation wages, which raises subsequent wages, but (ii) they also stay unemployed longer and thus experience a greater decrease in job opportunities, which reduces subsequent wages. Together, these results show that UI does have an economically significant impact on job quality consistent with theoretical predictions. Connecting these results to a normative model of UI points to an overlooked welfare benefit: UI increases future tax revenue through higher wages. We show that this positive fiscal externality is of the same order of magnitude as the traditional negative moral-hazard externality emphasized in prior work. These results suggest that taking gains in job quality into account could significantly change the optimal generosity of UI.",
+ "tittel": "Does Extending Unemployment Benefits Improve Job Quality",
+ "type": "preprint"
+}

@@ -1,0 +1,16 @@
+{
+ "apen_url": "https://core.ac.uk/display/9066273",
+ "ar": 2002,
+ "doi": "https://doi.org/10.1111/1468-0335.00304",
+ "forfattere": [
+  "Timothy J. Hatton",
+  "Roy E. Bailey"
+ ],
+ "id": "W2014167707",
+ "kilde": "Economica",
+ "lenke": "https://openalex.org/W2014167707",
+ "oversikt": false,
+ "sammendrag": "The causes of unemployment incidence in interwar Britain have been the subject of much debate since Benjamin and Kochin claimed that it was due largely to generous unemployment benefits. We use the records for 30,000 workers from the New Survey of London Life and Labour (1929–31) to estimate the determinants of unemployment incidence. We find no significant effects of the benefit–wage ratio on the unemployment probability for adult males when we allow for skill and industry effects. Separate regressions for younger males and for females also fail to reveal significant effects from unemployment benefits on the pattern of unemployment incidence.",
+ "tittel": "Unemployment Incidence in Interwar London",
+ "type": "article"
+}

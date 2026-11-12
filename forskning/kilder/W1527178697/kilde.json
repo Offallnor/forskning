@@ -1,0 +1,20 @@
+{
+ "apen_url": "https://link.springer.com/content/pdf/10.1007/s10645-011-9169-2.pdf",
+ "ar": 2011,
+ "doi": "https://doi.org/10.1007/s10645-011-9169-2",
+ "forfattere": [
+  "T. P. Everhardt",
+  "Ph. R. de Jong"
+ ],
+ "hentet": "2026-11-09",
+ "hentet_fra": "https://link.springer.com/content/pdf/10.1007/s10645-011-9169-2.pdf",
+ "hvordan": "pdf",
+ "id": "W1527178697",
+ "kilde": "De Economist",
+ "lenke": "https://openalex.org/W1527178697",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "In this paper the impact of vocational interventions on the duration until reemployment of long term sick workers is studied, taking account of self-perceived health and other personal, health and vocational characteristics. We use a longitudinal dataset containing three waves of interviews with employees who were still on the sickness rolls 9 months after calling in sick. We compare a semi-parametric Cox model with a Weibull model to allow for unobserved heterogeneity. The results from these models are similar. They point to the importance of the set of accommodation and rehabilitation activities that employers and occupational health agencies employ and of a timely start of such activities. Their effectiveness shows that the series of reforms in sickness and disability schemes that were introduced from 2002 onwards have been quite successful.",
+ "tittel": "Return to Work After Long Term Sickness",
+ "type": "article"
+}

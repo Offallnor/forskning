@@ -1,0 +1,19 @@
+{
+ "apen_url": "http://www.sjweh.fi/download.php?abstract_id=3562&file_nro=1",
+ "ar": 2016,
+ "doi": "https://doi.org/10.5271/sjweh.3562",
+ "forfattere": [
+  "Matthias Bethge"
+ ],
+ "hentet": "før 2026-11-08",
+ "hentet_fra": "https://www.sjweh.fi/pdf-237102-144932?filename=Effects-of-graded-return-.pdf",
+ "hvordan": "pdf",
+ "id": "W2341011605",
+ "kilde": "Scandinavian Journal of Work Environment & Health",
+ "lenke": "https://openalex.org/W2341011605",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "OBJECTIVES: Graded work exposure is deemed to have a therapeutic effect. In Germany, graded return-to-work (GRTW) is therefore frequently used following a rehabilitation program if workers are still unable to perform full job duties. The aim of the analyses was to determine long-term effects on disability pension and regular employment. METHODS: Analyses were performed with longitudinal administrative data. Patients aged 18-60 years who attended an orthopedic, cardiac, oncological, or psychosomatic rehabilitation between January and June 2007 were eligible to participate in a GRTW scheme. The effects of GRTW were analyzed by a propensity-score-matched comparison of patients with and without GRTW. Outcomes were disability pension rates, regular income, and the duration of receiving welfare benefits due to sickness absence and unemployment up to the end of 2009. RESULTS: The propensity-score-matched sample comprised 1875 patients on GRTW and 1875 matched controls not undergoing GRTW. The probability of a disability pension was decreased by about 40% among GRTW patients [5.4% versus 8.6%; hazard rate ratio (HR) 0.62, 95% confidence interval (95% CI) 0.49-0.80]. The three-year income (2007-2009) was EUR12 920 higher (95% CI EUR10 054-15 786) in the GRTW group. The duration of receiving welfare benefits due to sickness absence and unemployment was significantly reduced. CONCLUSIONS: Graded work exposure supports labor participation and reduces the risk of permanent work disability.",
+ "tittel": "Effects of graded return-to-work: a propensity-score-matched analysis",
+ "type": "article"
+}

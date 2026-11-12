@@ -1,0 +1,20 @@
+{
+ "apen_url": "http://sit.stat.gov.pl/SiT/2013/2/5_Longford_s249_272.pdf",
+ "ar": 2013,
+ "doi": "https://doi.org/10.59170/stattrans-2013-016",
+ "forfattere": [
+  "Nicholas T. Longford",
+  "Ioana Sălăgean"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "http://sit.stat.gov.pl/SiT/2013/2/5_Longford_s249_272.pdf",
+ "hvordan": "pdf",
+ "id": "W980728949",
+ "kilde": "Statistics in Transition New Series",
+ "lenke": "https://openalex.org/W980728949",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "We apply the potential outcomes framework to estimate the effect of awarding unemployment benefits on gaining long-term employment after an unemployment spell and on the time it takes to achieve it. We conclude that such awards, regarded as a treatment, are associated with poorer labour force outcomes than no awards.",
+ "tittel": "The effect of unemployment benefits on labour market behaviour in Luxembourg",
+ "type": "article"
+}

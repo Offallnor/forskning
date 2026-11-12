@@ -1,0 +1,20 @@
+{
+ "apen_url": "https://elibrary.duncker-humblot.com/pdf/article/6139/swedish-youth-labour-market-policies-revisited.pdf",
+ "ar": 2006,
+ "doi": "https://doi.org/10.3790/vjh.75.3.168",
+ "forfattere": [
+  "Anders Forslund",
+  "Oskar Nordström Skans"
+ ],
+ "hentet": "2026-11-08",
+ "hentet_fra": "https://elibrary.duncker-humblot.com/article/6139/download",
+ "hvordan": "pdf",
+ "id": "W2006484966",
+ "kilde": "Vierteljahrshefte zur Wirtschaftsforschung",
+ "lenke": "https://openalex.org/W2006484966",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "The paper studies the relative effectiveness of various Swedish labour market policies for young workers. Using age discontinuities which define the policy regime each individual is covered by, we present quasi-experimental evidence on the relative efficiency of different policy regimes currently in use. Results suggest that youth policies are more effective than the policies covering other unemployed. The effects mainly appear early in the unemployment spell; we find no evidence of positive long run effects. To uncover which part of the policies that accounts for the positive effect, we use matching techniques to study the relative effectiveness of youth programmes and general adult programmes which are available also for the young. The results indicate that youth programmes are significantly less effective than programmes for adults. Overall, the evidence suggest that youth policies speed up the transition from unemployment to jobs either due to pre-programme deterrence effects or because of more intense job search support from the public employment services before the programmes. Zusammenfassung Dieser Beitrag behandelt die Effektivität der Arbeitsmarktpolitik für junge Erwachsene in Schweden. Durch Nutzung von Altersunterschieden beim Eintritt in die verschiedenen Programme lässt sich die relative Wirksamkeit der Maßnahmen als quasinatürliches Experiment bestimmen. Die Ergebnisse zeigen, dass Maßnahmen für junge Erwachsene effektiver sind als Maßnahmen für andere Arbeitslose. Dieser Effekt tritt vor allem bei kurzer Arbeitslosigkeit ein. Um die Wirksamkeit der einzelnen Maßnahmen zu testen, verwenden wir Matching-Verfahren. Dabei werden auch die allgemeinen Arbeitsmarktprogramme einbezogen, die ebenfalls von jungen Erwachsenen wahrgenommen werden. Dabei zeigt sich, dass die Programme selbst für junge Erwachsene weniger effektiv sind als die für andere Erwachsene. Insgesamt zeigt sich, dass Programme für junge Erwachsene den Übergang aus der Arbeitslosigkeit in die Beschäftigung beschleunigen, entweder weil sie die Teilnehmer abschrecken oder weil die Jobsuche im Vorfeld der Programme besser gefördert wird.",
+ "tittel": "Swedish Youth Labour Market Policies Revisited",
+ "type": "article"
+}

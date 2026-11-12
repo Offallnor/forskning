@@ -1,0 +1,2498 @@
+# Kontroll: lonnstilskudd-unge
+
+Kjørt 2026-11-11.
+
+0 feil av 2491 kontroller.
+
+- OBS  10 7 sentrale valgte kilder er ikke lest i fulltekst (2 ikke lest, 5 bare sammendrag; se vedlegg_bc.py). Forbeholdene nevner uleste kilder: sjekk at antallet stemmer.
+- OK   1 kilde 0198cc42013c-11c98f48-47eb-4b66-ac7a-ba3c43edfc15 finnes
+- OK   1 kilde 0198cc4d8ef8-65658ffa-652a-4f22-8ad7-a532e8424f55 finnes
+- OK   1 kilde 0198cc97b527-72b1e897-3c8b-47e2-8c9a-dd6326e550b4 finnes
+- OK   1 kilde 019938797a78-07e5f4b2-85e7-46c1-aab1-30916c8257cd finnes
+- OK   1 kilde 01995c22c1ef-0cff9bef-2a70-4f0e-ab36-b6d53db8f287 finnes
+- OK   1 kilde AV-2023-1-02 finnes
+- OK   1 kilde AV-2024-3-04 finnes
+- OK   1 kilde KU-556513c4-aea7-4c77-a625-a2729b9f701e finnes
+- OK   1 kilde KU-cf0dd276-ef43-42af-b4c1-d2d3e4fcdfe3 finnes
+- OK   1 kilde NB-4986 finnes
+- OK   1 kilde R-04f7a279dc finnes
+- OK   1 kilde R-cf1a71c1b9 finnes
+- OK   1 kilde R-ec3de7f99e finnes
+- OK   1 kilde R-f2664a06f5 finnes
+- OK   1 kilde W1521518092 finnes
+- OK   1 kilde W1577286609 finnes
+- OK   1 kilde W1577648310 finnes
+- OK   1 kilde W1593675663 finnes
+- OK   1 kilde W1805206376 finnes
+- OK   1 kilde W1837038974 finnes
+- OK   1 kilde W1849775659 finnes
+- OK   1 kilde W2010586812 finnes
+- OK   1 kilde W2016059253 finnes
+- OK   1 kilde W2039276519 finnes
+- OK   1 kilde W2149962000 finnes
+- OK   1 kilde W2150829746 finnes
+- OK   1 kilde W2251574710 finnes
+- OK   1 kilde W2259408401 finnes
+- OK   1 kilde W2306814610 finnes
+- OK   1 kilde W2338040341 finnes
+- OK   1 kilde W2770196142 finnes
+- OK   1 kilde W28016323 finnes
+- OK   1 kilde W292088744 finnes
+- OK   1 kilde W3048912273 finnes
+- OK   1 kilde W3097344849 finnes
+- OK   1 kilde W3123523177 finnes
+- OK   1 kilde W3124086298 finnes
+- OK   1 kilde W3125938983 finnes
+- OK   1 kilde W3167299234 finnes
+- OK   1 kilde W4233730326 finnes
+- OK   1 kilde W4286914340 finnes
+- OK   1 kilde W4378233149 finnes
+- OK   1 kilde W4391650787 finnes
+- OK   1 kilde W4399204261 finnes
+- OK   1 kilde W4408632418 finnes
+- OK   1 kilde W4412889165 finnes
+- OK   1 kilde W7139965069 finnes
+- OK   1 estimat-kilde W4233730326 finnes
+- OK   1 estimat-kilde W4233730326 finnes
+- OK   1 estimat-kilde W4233730326 finnes
+- OK   1 estimat-kilde W2259408401 finnes
+- OK   1 estimat-kilde W2259408401 finnes
+- OK   1 estimat-kilde W2259408401 finnes
+- OK   1 estimat-kilde W2338040341 finnes
+- OK   1 estimat-kilde W2338040341 finnes
+- OK   1 estimat-kilde W2338040341 finnes
+- OK   1 estimat-kilde W2338040341 finnes
+- OK   1 estimat-kilde W1849775659 finnes
+- OK   1 estimat-kilde W1849775659 finnes
+- OK   1 estimat-kilde W1849775659 finnes
+- OK   1 estimat-kilde W1849775659 finnes
+- OK   1 estimat-kilde W2803699076 finnes
+- OK   1 estimat-kilde W4408632418 finnes
+- OK   1 estimat-kilde W4408632418 finnes
+- OK   1 estimat-kilde W4408632418 finnes
+- OK   1 estimat-kilde W3125938983 finnes
+- OK   1 estimat-kilde W3125938983 finnes
+- OK   1 estimat-kilde W2128492593 finnes
+- OK   1 estimat-kilde W4302969421 finnes
+- OK   1 estimat-kilde W4310986237 finnes
+- OK   1 estimat-kilde W1577648310 finnes
+- OK   1 estimat-kilde W1577648310 finnes
+- OK   1 estimat-kilde W2134033543 finnes
+- OK   1 estimat-kilde W2134033543 finnes
+- OK   1 estimat-kilde W4392582001 finnes
+- OK   1 estimat-kilde AV-2023-1-02 finnes
+- OK   1 estimat-kilde 0198cc97b527-72b1e897-3c8b-47e2-8c9a-dd6326e550b4 finnes
+- OK   1 estimat-kilde 0198cc97b527-72b1e897-3c8b-47e2-8c9a-dd6326e550b4 finnes
+- OK   1 estimat-kilde 0198cc8fb35e-07b7e7c2-852e-452c-833a-f51d16f740a6 finnes
+- OK   1 estimat-kilde 0198cc8fb35e-07b7e7c2-852e-452c-833a-f51d16f740a6 finnes
+- OK   1 estimat-kilde 0198cc8fb35e-07b7e7c2-852e-452c-833a-f51d16f740a6 finnes
+- OK   1 estimat-kilde 0198cc67f381-10b52e27-ff19-4730-aef8-57aac6b80405 finnes
+- OK   1 estimat-kilde 0198cc67f381-10b52e27-ff19-4730-aef8-57aac6b80405 finnes
+- OK   1 estimat-kilde W2596043699 finnes
+- OK   1 estimat-kilde W4399204261 finnes
+- OK   1 estimat-kilde W4399204261 finnes
+- OK   1 estimat-kilde W4399204261 finnes
+- OK   1 estimat-kilde W4399204261 finnes
+- OK   1 estimat-kilde W4412889165 finnes
+- OK   1 estimat-kilde W4412889165 finnes
+- OK   1 estimat-kilde W4412889165 finnes
+- OK   1 estimat-kilde W4412889165 finnes
+- OK   1 estimat-kilde W4379210648 finnes
+- OK   1 estimat-kilde W7139965069 finnes
+- OK   1 estimat-kilde W7139965069 finnes
+- OK   1 estimat-kilde W7139965069 finnes
+- OK   1 estimat-kilde W4378233149 finnes
+- OK   1 estimat-kilde W4378233149 finnes
+- OK   1 estimat-kilde W4378233149 finnes
+- OK   1 estimat-kilde W2149962000 finnes
+- OK   1 estimat-kilde W2149962000 finnes
+- OK   1 estimat-kilde W2149962000 finnes
+- OK   1 estimat-kilde W2256953377 finnes
+- OK   1 estimat-kilde W2150829746 finnes
+- OK   1 estimat-kilde W2150829746 finnes
+- OK   1 estimat-kilde W2150829746 finnes
+- OK   1 estimat-kilde W2150829746 finnes
+- OK   1 estimat-kilde W3134495723 finnes
+- OK   1 estimat-kilde W3134495723 finnes
+- OK   1 estimat-kilde W3134495723 finnes
+- OK   1 estimat-kilde W2006484966 finnes
+- OK   1 estimat-kilde W3123523177 finnes
+- OK   1 estimat-kilde W3123523177 finnes
+- OK   1 estimat-kilde W3123523177 finnes
+- OK   1 estimat-kilde W3123523177 finnes
+- OK   1 estimat-kilde W1577286609 finnes
+- OK   1 estimat-kilde W1577286609 finnes
+- OK   1 estimat-kilde W1577286609 finnes
+- OK   1 estimat-kilde W1577286609 finnes
+- OK   1 estimat-kilde W292088744 finnes
+- OK   1 estimat-kilde W292088744 finnes
+- OK   1 estimat-kilde W292088744 finnes
+- OK   1 estimat-kilde W292088744 finnes
+- OK   1 estimat-kilde W28016323 finnes
+- OK   1 estimat-kilde W28016323 finnes
+- OK   1 estimat-kilde W2122776691 finnes
+- OK   1 estimat-kilde W2122776691 finnes
+- OK   1 estimat-kilde W2911773687 finnes
+- OK   1 estimat-kilde W2911773687 finnes
+- OK   1 estimat-kilde W2911773687 finnes
+- OK   1 estimat-kilde W4286914340 finnes
+- OK   1 estimat-kilde W4286914340 finnes
+- OK   1 estimat-kilde W4407697413 finnes
+- OK   1 estimat-kilde W4407697413 finnes
+- OK   1 estimat-kilde W4407697413 finnes
+- OK   1 estimat-kilde W4407697413 finnes
+- OK   1 estimat-kilde W3124086298 finnes
+- OK   1 estimat-kilde W3124086298 finnes
+- OK   1 estimat-kilde W3124086298 finnes
+- OK   1 estimat-kilde W3097344849 finnes
+- OK   1 estimat-kilde W3097344849 finnes
+- OK   1 estimat-kilde W3097344849 finnes
+- OK   1 estimat-kilde 0198cc45bd5e-8c80f1e9-8747-46f0-ba71-4147a95ddc47 finnes
+- OK   1 estimat-kilde 0198cc45bd5e-8c80f1e9-8747-46f0-ba71-4147a95ddc47 finnes
+- OK   1 estimat-kilde 0198cc45bd5e-8c80f1e9-8747-46f0-ba71-4147a95ddc47 finnes
+- OK   1 estimat-kilde AV-2021-1-03 finnes
+- OK   1 estimat-kilde AV-2021-1-03 finnes
+- OK   1 estimat-kilde AV-2021-1-03 finnes
+- OK   1 estimat-kilde AV-2023-2-06 finnes
+- OK   1 estimat-kilde AV-2023-2-06 finnes
+- OK   1 estimat-kilde 019938797a78-07e5f4b2-85e7-46c1-aab1-30916c8257cd finnes
+- OK   1 estimat-kilde 019938797a78-07e5f4b2-85e7-46c1-aab1-30916c8257cd finnes
+- OK   1 estimat-kilde 019938797a78-07e5f4b2-85e7-46c1-aab1-30916c8257cd finnes
+- OK   1 estimat-kilde W4391650787 finnes
+- OK   1 estimat-kilde W4391650787 finnes
+- OK   1 estimat-kilde W4391650787 finnes
+- OK   1 estimat-kilde 0198cc42013c-11c98f48-47eb-4b66-ac7a-ba3c43edfc15 finnes
+- OK   1 estimat-kilde 0198cc4d8ef8-65658ffa-652a-4f22-8ad7-a532e8424f55 finnes
+- OK   1 estimat-kilde 0198cc4d8ef8-65658ffa-652a-4f22-8ad7-a532e8424f55 finnes
+- OK   1 estimat-kilde W1837038974 finnes
+- OK   1 estimat-kilde W1837038974 finnes
+- OK   1 estimat-kilde W1837038974 finnes
+- OK   1 estimat-kilde W1837038974 finnes
+- OK   1 estimat-kilde NB-4986 finnes
+- OK   1 estimat-kilde NB-4986 finnes
+- OK   1 estimat-kilde NB-4986 finnes
+- OK   1 estimat-kilde NB-4986 finnes
+- OK   1 estimat-kilde NB-4986 finnes
+- OK   1 estimat-kilde NB-4986 finnes
+- OK   1 estimat-kilde NB-4986 finnes
+- OK   1 estimat-kilde NB-4986 finnes
+- OK   1 estimat-kilde NB-4986 finnes
+- OK   1 estimat-kilde NB-4986 finnes
+- OK   1 estimat-kilde NB-4986 finnes
+- OK   1 estimat-kilde KU-556513c4-aea7-4c77-a625-a2729b9f701e finnes
+- OK   1 estimat-kilde KU-556513c4-aea7-4c77-a625-a2729b9f701e finnes
+- OK   1 estimat-kilde KU-556513c4-aea7-4c77-a625-a2729b9f701e finnes
+- OK   1 estimat-kilde KU-556513c4-aea7-4c77-a625-a2729b9f701e finnes
+- OK   1 estimat-kilde KU-556513c4-aea7-4c77-a625-a2729b9f701e finnes
+- OK   1 estimat-kilde KU-cf0dd276-ef43-42af-b4c1-d2d3e4fcdfe3 finnes
+- OK   1 estimat-kilde KU-cf0dd276-ef43-42af-b4c1-d2d3e4fcdfe3 finnes
+- OK   1 estimat-kilde KU-cf0dd276-ef43-42af-b4c1-d2d3e4fcdfe3 finnes
+- OK   1 estimat-kilde KU-cf0dd276-ef43-42af-b4c1-d2d3e4fcdfe3 finnes
+- OK   1 estimat-kilde KU-cf0dd276-ef43-42af-b4c1-d2d3e4fcdfe3 finnes
+- OK   1 estimat-kilde KU-cf0dd276-ef43-42af-b4c1-d2d3e4fcdfe3 finnes
+- OK   1 estimat-kilde KU-cf0dd276-ef43-42af-b4c1-d2d3e4fcdfe3 finnes
+- OK   1 estimat-kilde KU-cf0dd276-ef43-42af-b4c1-d2d3e4fcdfe3 finnes
+- OK   1 estimat-kilde KU-cf0dd276-ef43-42af-b4c1-d2d3e4fcdfe3 finnes
+- OK   1 estimat-kilde R-cf1a71c1b9 finnes
+- OK   1 estimat-kilde R-cf1a71c1b9 finnes
+- OK   1 estimat-kilde R-cf1a71c1b9 finnes
+- OK   1 estimat-kilde R-cf1a71c1b9 finnes
+- OK   1 estimat-kilde R-cf1a71c1b9 finnes
+- OK   1 estimat-kilde R-cf1a71c1b9 finnes
+- OK   1 estimat-kilde R-cf1a71c1b9 finnes
+- OK   1 estimat-kilde R-cf1a71c1b9 finnes
+- OK   1 estimat-kilde R-cf1a71c1b9 finnes
+- OK   1 estimat-kilde R-cf1a71c1b9 finnes
+- OK   1 estimat-kilde R-cf1a71c1b9 finnes
+- OK   1 estimat-kilde R-cf1a71c1b9 finnes
+- OK   1 estimat-kilde R-cf1a71c1b9 finnes
+- OK   1 estimat-kilde R-04f7a279dc finnes
+- OK   1 estimat-kilde R-04f7a279dc finnes
+- OK   1 estimat-kilde R-04f7a279dc finnes
+- OK   1 estimat-kilde R-04f7a279dc finnes
+- OK   1 estimat-kilde R-04f7a279dc finnes
+- OK   1 estimat-kilde R-04f7a279dc finnes
+- OK   1 estimat-kilde R-04f7a279dc finnes
+- OK   1 estimat-kilde R-04f7a279dc finnes
+- OK   1 estimat-kilde AV-2024-3-04 finnes
+- OK   1 estimat-kilde AV-2024-3-04 finnes
+- OK   1 estimat-kilde AV-2024-3-04 finnes
+- OK   1 estimat-kilde AV-2024-3-04 finnes
+- OK   1 estimat-kilde AV-2024-3-04 finnes
+- OK   1 estimat-kilde AV-2024-3-04 finnes
+- OK   1 estimat-kilde AV-2024-3-04 finnes
+- OK   1 estimat-kilde AV-2024-3-04 finnes
+- OK   1 estimat-kilde AV-2024-3-04 finnes
+- OK   1 estimat-kilde AV-2024-3-04 finnes
+- OK   1 estimat-kilde AV-2024-3-04 finnes
+- OK   1 estimat-kilde AV-2024-3-04 finnes
+- OK   1 estimat-kilde AV-2024-3-04 finnes
+- OK   1 estimat-kilde 01995c22c1ef-0cff9bef-2a70-4f0e-ab36-b6d53db8f287 finnes
+- OK   1 estimat-kilde 01995c22c1ef-0cff9bef-2a70-4f0e-ab36-b6d53db8f287 finnes
+- OK   1 estimat-kilde 01995c22c1ef-0cff9bef-2a70-4f0e-ab36-b6d53db8f287 finnes
+- OK   1 estimat-kilde 01995c22c1ef-0cff9bef-2a70-4f0e-ab36-b6d53db8f287 finnes
+- OK   1 estimat-kilde 01995c22c1ef-0cff9bef-2a70-4f0e-ab36-b6d53db8f287 finnes
+- OK   1 estimat-kilde 01995c22c1ef-0cff9bef-2a70-4f0e-ab36-b6d53db8f287 finnes
+- OK   1 estimat-kilde 01995c22c1ef-0cff9bef-2a70-4f0e-ab36-b6d53db8f287 finnes
+- OK   1 estimat-kilde 01995c22c1ef-0cff9bef-2a70-4f0e-ab36-b6d53db8f287 finnes
+- OK   1 estimat-kilde W1805206376 finnes
+- OK   1 estimat-kilde W1805206376 finnes
+- OK   1 estimat-kilde W1805206376 finnes
+- OK   1 estimat-kilde W1805206376 finnes
+- OK   1 estimat-kilde W1805206376 finnes
+- OK   1 estimat-kilde W1805206376 finnes
+- OK   1 estimat-kilde W1805206376 finnes
+- OK   1 estimat-kilde W1805206376 finnes
+- OK   1 estimat-kilde W1805206376 finnes
+- OK   1 estimat-kilde W1805206376 finnes
+- OK   1 estimat-kilde R-f2664a06f5 finnes
+- OK   1 estimat-kilde R-f2664a06f5 finnes
+- OK   1 estimat-kilde R-f2664a06f5 finnes
+- OK   1 estimat-kilde R-f2664a06f5 finnes
+- OK   1 estimat-kilde R-f2664a06f5 finnes
+- OK   1 estimat-kilde R-f2664a06f5 finnes
+- OK   1 estimat-kilde R-f2664a06f5 finnes
+- OK   1 estimat-kilde R-f2664a06f5 finnes
+- OK   1 estimat-kilde R-f2664a06f5 finnes
+- OK   1 estimat-kilde R-f2664a06f5 finnes
+- OK   1 estimat-kilde R-f2664a06f5 finnes
+- OK   1 estimat-kilde R-f2664a06f5 finnes
+- OK   1 estimat-kilde R-f2664a06f5 finnes
+- OK   1 estimat-kilde R-ec3de7f99e finnes
+- OK   1 estimat-kilde R-ec3de7f99e finnes
+- OK   1 estimat-kilde R-ec3de7f99e finnes
+- OK   1 estimat-kilde R-ec3de7f99e finnes
+- OK   1 estimat-kilde R-ec3de7f99e finnes
+- OK   1 estimat-kilde R-ec3de7f99e finnes
+- OK   1 estimat-kilde R-ec3de7f99e finnes
+- OK   1 estimat-kilde R-ec3de7f99e finnes
+- OK   1 estimat-kilde R-ec3de7f99e finnes
+- OK   1 estimat-kilde R-ec3de7f99e finnes
+- OK   1 estimat-kilde R-ec3de7f99e finnes
+- OK   1 estimat-kilde R-ec3de7f99e finnes
+- OK   1 estimat-kilde R-ec3de7f99e finnes
+- OK   1 estimat-kilde W2010586812 finnes
+- OK   1 estimat-kilde W2010586812 finnes
+- OK   1 estimat-kilde W2010586812 finnes
+- OK   1 estimat-kilde W2010586812 finnes
+- OK   1 estimat-kilde W1521518092 finnes
+- OK   1 estimat-kilde W1521518092 finnes
+- OK   1 estimat-kilde W2039276519 finnes
+- OK   1 estimat-kilde W2039276519 finnes
+- OK   1 estimat-kilde W2016059253 finnes
+- OK   1 estimat-kilde W2016059253 finnes
+- OK   1 estimat-kilde W2306814610 finnes
+- OK   1 estimat-kilde W2770196142 finnes
+- OK   1 estimat-kilde W2770196142 finnes
+- OK   1 estimat-kilde W1593675663 finnes
+- OK   1 estimat-kilde W1593675663 finnes
+- OK   1 estimat-kilde W3167299234 finnes
+- OK   1 estimat-kilde W3167299234 finnes
+- OK   1 estimat-kilde W3048912273 finnes
+- OK   1 estimat-kilde W3048912273 finnes
+- OK   1 estimat-kilde W3048912273 finnes
+- OK   1 estimat-kilde W3048912273 finnes
+- OK   1 estimat-kilde W3024705443 finnes
+- OK   1 estimat-kilde W2251574710 finnes
+- OK   1 estimat-kilde W2251574710 finnes
+- OK   1 estimat-kilde W2251574710 finnes
+- OK   1 forfatter «Groh» for W2306814610 står i metadata eller på tittelsiden
+- OK   1 forfatter «Card» for W1805206376 står i metadata eller på tittelsiden
+- OK   1 forfatter «Kluve» for W2010586812 står i metadata eller på tittelsiden
+- OK   1 forfatter «Kluve» for W4233730326 står i metadata eller på tittelsiden
+- OK   1 forfatter «Hardoy» for 0198cc97b527-72b1e897-3c8b-47e2-8c9a-dd6326e550b4 står i metadata eller på tittelsiden
+- OK   1 forfatter «Oslo Economics» for NB-4986 står i metadata eller på tittelsiden
+- OK   1 forfatter «Golombek» for 01995c22c1ef-0cff9bef-2a70-4f0e-ab36-b6d53db8f287 står i metadata eller på tittelsiden
+- OK   1 forfatter «Nossen» for AV-2024-3-04 står i metadata eller på tittelsiden
+- OK   1 forfatter «Sjögren» for W2039276519 står i metadata eller på tittelsiden
+- OK   1 forfatter «Carling» for W1521518092 står i metadata eller på tittelsiden
+- OK   1 forfatter «Albanese» for W4399204261 står i metadata eller på tittelsiden
+- OK   1 forfatter «Dejemeppe» for W4412889165 står i metadata eller på tittelsiden
+- OK   1 forfatter «Kunze» for W7139965069 står i metadata eller på tittelsiden
+- OK   1 forfatter «Blundell» for W2150829746 står i metadata eller på tittelsiden
+- OK   1 forfatter «Hardoy» for 0198cc42013c-11c98f48-47eb-4b66-ac7a-ba3c43edfc15 står i metadata eller på tittelsiden
+- OK   1 forfatter «Oslo Economics» for NB-4986 står i metadata eller på tittelsiden
+- OK   1 forfatter «Caliendo» for W1577286609 står i metadata eller på tittelsiden
+- OK   1 forfatter «Eppel» for W292088744 står i metadata eller på tittelsiden
+- OK   1 forfatter «Hall» for W4391650787 står i metadata eller på tittelsiden
+- OK   1 forfatter «Hamre» for KU-cf0dd276-ef43-42af-b4c1-d2d3e4fcdfe3 står i metadata eller på tittelsiden
+- OK   1 forfatter «Hamre» for 019938797a78-07e5f4b2-85e7-46c1-aab1-30916c8257cd står i metadata eller på tittelsiden
+- OK   1 forfatter «Larsson» for W3123523177 står i metadata eller på tittelsiden
+- OK   1 forfatter «Göbel» for W28016323 står i metadata eller på tittelsiden
+- OK   1 forfatter «Krekó» for W4378233149 står i metadata eller på tittelsiden
+- OK   1 forfatter «Madoń» for W4286914340 står i metadata eller på tittelsiden
+- OK   1 forfatter «Tattara» for W2149962000 står i metadata eller på tittelsiden
+- OK   1 forfatter «Golombek» for 01995c22c1ef-0cff9bef-2a70-4f0e-ab36-b6d53db8f287 står i metadata eller på tittelsiden
+- OK   1 forfatter «Markussen» for W2251574710 står i metadata eller på tittelsiden
+- OK   1 forfatter «Hämäläinen» for W1593675663 står i metadata eller på tittelsiden
+- OK   1 forfatter «Duarte» for W3048912273 står i metadata eller på tittelsiden
+- OK   1 forfatter «Brunetti» for W3167299234 står i metadata eller på tittelsiden
+- OK   1 forfatter «Nossen» for AV-2024-3-04 står i metadata eller på tittelsiden
+- OK   1 forfatter «Proba» for R-f2664a06f5 står i metadata eller på tittelsiden
+- OK   1 forfatter «Oslo Economics» for R-ec3de7f99e står i metadata eller på tittelsiden
+- OK   1 forfatter «Proba» for R-04f7a279dc står i metadata eller på tittelsiden
+- OK   1 forfatter «Groh» for W2306814610 står i metadata eller på tittelsiden
+- OK   1 forfatter «Armand» for W3124086298 står i metadata eller på tittelsiden
+- OK   1 forfatter «Oslo Economics» for KU-556513c4-aea7-4c77-a625-a2729b9f701e står i metadata eller på tittelsiden
+- OK   1 forfatter «Oslo Economics» for R-ec3de7f99e står i metadata eller på tittelsiden
+- OK   1 forfatter «Card» for W1805206376 står i metadata eller på tittelsiden
+- OK   1 forfatter «Kluve» for W2010586812 står i metadata eller på tittelsiden
+- OK   1 forfatter «Escudero» for W2770196142 står i metadata eller på tittelsiden
+- OK   1 forfatter «Card» for W1849775659 står i metadata eller på tittelsiden
+- OK   1 forfatter «Kluve» for W4233730326 står i metadata eller på tittelsiden
+- OK   1 forfatter «Hardoy» for 0198cc97b527-72b1e897-3c8b-47e2-8c9a-dd6326e550b4 står i metadata eller på tittelsiden
+- OK   1 forfatter «Caliendo» for W2259408401 står i metadata eller på tittelsiden
+- OK   1 forfatter «Levy Yeyati» for W4408632418 står i metadata eller på tittelsiden
+- OK   1 forfatter «Martin» for W3125938983 står i metadata eller på tittelsiden
+- OK   1 forfatter «Bördős» for W2338040341 står i metadata eller på tittelsiden
+- OK   1 forfatter «Hall» for W4391650787 står i metadata eller på tittelsiden
+- OK   1 forfatter «Kangasharju» for W2016059253 står i metadata eller på tittelsiden
+- OK   2 sitat rad 1 (W4233730326, sysselsetting, unge 15–35 år; subsidiert) står på oppgitt side
+- OK   3 estimat=0.02 rad 1 (W4233730326, sysselsetting, unge 15–35 år; subsidiert) står i sitatet
+- OK   3 ki_lav=-0.01 rad 1 (W4233730326, sysselsetting, unge 15–35 år; subsidiert) står i sitatet
+- OK   3 ki_hoy=0.06 rad 1 (W4233730326, sysselsetting, unge 15–35 år; subsidiert) står i sitatet
+- OK   4 rad 1 (W4233730326, sysselsetting, unge 15–35 år; subsidiert) estimat innenfor KI
+- OK   2 sitat rad 2 (W4233730326, arbeidsinntekt, unge 15–35 år; subsidier) står på oppgitt side
+- OK   3 estimat=-0.01 rad 2 (W4233730326, arbeidsinntekt, unge 15–35 år; subsidier) står i sitatet
+- OK   3 ki_lav=-0.05 rad 2 (W4233730326, arbeidsinntekt, unge 15–35 år; subsidier) står i sitatet
+- OK   3 ki_hoy=0.03 rad 2 (W4233730326, arbeidsinntekt, unge 15–35 år; subsidier) står i sitatet
+- OK   4 rad 2 (W4233730326, arbeidsinntekt, unge 15–35 år; subsidier) estimat innenfor KI
+- OK   2 sitat rad 3 (W4233730326, sysselsetting, unge 15–35 år; subsidiert) står på oppgitt side
+- OK   3 estimat=0.11 rad 3 (W4233730326, sysselsetting, unge 15–35 år; subsidiert) står i sitatet
+- OK   3 ki_lav=0.04 rad 3 (W4233730326, sysselsetting, unge 15–35 år; subsidiert) står i sitatet
+- OK   3 ki_hoy=0.18 rad 3 (W4233730326, sysselsetting, unge 15–35 år; subsidiert) står i sitatet
+- OK   4 rad 3 (W4233730326, sysselsetting, unge 15–35 år; subsidiert) estimat innenfor KI
+- OK   2 sitat rad 4 (W2259408401, sysselsetting, unge; antall effektestima) står på oppgitt side
+- OK   3 estimat=4 rad 4 (W2259408401, sysselsetting, unge; antall effektestima) står i sitatet
+- OK   2 sitat rad 5 (W2259408401, kostnad: gjennomsnittlig utgift per delt) står på oppgitt side
+- OK   3 estimat=3200 rad 5 (W2259408401, kostnad: gjennomsnittlig utgift per delt) står i sitatet
+- OK   2 sitat rad 6 (W2259408401, kostnad per deltaker i lønnstilskudd som) står på oppgitt side
+- OK   3 estimat=40 rad 6 (W2259408401, kostnad per deltaker i lønnstilskudd som) står i sitatet
+- OK   2 sitat rad 7 (W2338040341, sysselsetting 2–3 år etter at tilskuddet) står på oppgitt side
+- OK   3 estimat=10 rad 7 (W2338040341, sysselsetting 2–3 år etter at tilskuddet) står i sitatet
+- OK   2 sitat rad 8 (W2338040341, dødvekt: andel av dem som fikk jobb med ) står på oppgitt side
+- OK   3 estimat=60 rad 8 (W2338040341, dødvekt: andel av dem som fikk jobb med ) står i sitatet
+- OK   2 sitat rad 9 (W2338040341, akkumulert ordinær (usubsidiert) syssels) står på oppgitt side
+- OK   3 estimat=10 rad 9 (W2338040341, akkumulert ordinær (usubsidiert) syssels) står i sitatet
+- OK   2 sitat rad 10 (W2338040341, dødvekt: andel av tilskuddene i europeis) står på oppgitt side
+- OK   3 estimat=50 rad 10 (W2338040341, dødvekt: andel av tilskuddene i europeis) står i sitatet
+- OK   2 sitat rad 11 (W1849775659, sysselsetting mer enn 2 år etter tiltake) står på oppgitt side
+- OK   3 estimat=45.9 rad 11 (W1849775659, sysselsetting mer enn 2 år etter tiltake) står i sitatet
+- OK   2 sitat rad 12 (W1849775659, sysselsetting under 1 år etter tiltaket,) står på oppgitt side
+- OK   3 estimat=7.5 rad 12 (W1849775659, sysselsetting under 1 år etter tiltaket,) står i sitatet
+- OK   2 sitat rad 13 (W1849775659, sysselsetting mer enn 2 år etter tiltake) står på oppgitt side
+- OK   3 estimat=0.1 rad 13 (W1849775659, sysselsetting mer enn 2 år etter tiltake) står i sitatet
+- OK   2 sitat rad 14 (W1849775659, sysselsetting, alle tiltak og grupper, g) står på oppgitt side
+- OK   3 estimat=0.19 rad 14 (W1849775659, sysselsetting, alle tiltak og grupper, g) står i sitatet
+- OK   2 sitat rad 15 (W2803699076, arbeidsmarkedsutfall 36 måneder etter st) står på oppgitt side
+- OK   3 estimat=0.0522 rad 15 (W2803699076, arbeidsmarkedsutfall 36 måneder etter st) står i sitatet
+- OK   2 sitat rad 16 (W4408632418, sysselsetting, median relativ effekt for) står på oppgitt side
+- OK   3 estimat=11 rad 16 (W4408632418, sysselsetting, median relativ effekt for) står i sitatet
+- OK   2 sitat rad 17 (W4408632418, arbeidsinntekt, median relativ effekt fo) står på oppgitt side
+- OK   3 estimat=16.7 rad 17 (W4408632418, arbeidsinntekt, median relativ effekt fo) står i sitatet
+- OK   2 sitat rad 18 (W4408632418, kostnad: median kostnad per deltaker for) står på oppgitt side
+- OK   3 estimat=1518 rad 18 (W4408632418, kostnad: median kostnad per deltaker for) står i sitatet
+- OK   2 sitat rad 19 (W3125938983, dødvekt og substitusjon samlet for lønns) står på oppgitt side
+- OK   3 estimat=90 rad 19 (W3125938983, dødvekt og substitusjon samlet for lønns) står i sitatet
+- OK   2 sitat rad 20 (W3125938983, netto sysselsettingsgevinst av lønnstils) står på oppgitt side
+- OK   3 estimat=20 rad 20 (W3125938983, netto sysselsettingsgevinst av lønnstils) står i sitatet
+- OK   2 sitat rad 21 (W2128492593, ingen effektestimat for lønnstilskudd el) står på oppgitt side
+- OK   2 sitat rad 22 (W4302969421, ingen effektestimat for lønnstilskudd ti) står på oppgitt side
+- OK   2 sitat rad 24 (W1577648310, dødvekt: andel av målgruppen i New Deal ) står på oppgitt side
+- OK   3 estimat=33 rad 24 (W1577648310, dødvekt: andel av målgruppen i New Deal ) står i sitatet
+- OK   2 sitat rad 25 (W1577648310, produktivitet (lønn) etter ett års ansie) står på oppgitt side
+- OK   3 estimat=15 rad 25 (W1577648310, produktivitet (lønn) etter ett års ansie) står i sitatet
+- OK   2 sitat rad 26 (W2134033543, ordinær sysselsetting tre år etter start) står på oppgitt side
+- OK   3 estimat=20 rad 26 (W2134033543, ordinær sysselsetting tre år etter start) står i sitatet
+- OK   2 sitat rad 27 (W2134033543, dødvekt (indikasjon): andel subsidierte ) står på oppgitt side
+- OK   3 estimat=40 rad 27 (W2134033543, dødvekt (indikasjon): andel subsidierte ) står i sitatet
+- OK   2 sitat rad 28 (W4392582001, ingen effektestimat i teksten; narrativ ) står på oppgitt side
+- OK   2 sitat rad 29 (AV-2023-1-02, sysselsettingssannsynlighet, lønnstilsku) står på oppgitt side
+- OK   3 estimat=9.9 rad 29 (AV-2023-1-02, sysselsettingssannsynlighet, lønnstilsku) står i sitatet
+- OK   2 sitat rad 30 (0198cc97b527-72b1e897-3c8b-47e2-8c9a-dd6326e550b4, sannsynlighet for at en evaluering av lø) står på oppgitt side
+- OK   3 estimat=60 rad 30 (0198cc97b527-72b1e897-3c8b-47e2-8c9a-dd6326e550b4, sannsynlighet for at en evaluering av lø) står i sitatet
+- OK   2 sitat rad 31 (0198cc97b527-72b1e897-3c8b-47e2-8c9a-dd6326e550b4, sannsynlighet for at en evaluering av op) står på oppgitt side
+- OK   3 estimat=42 rad 31 (0198cc97b527-72b1e897-3c8b-47e2-8c9a-dd6326e550b4, sannsynlighet for at en evaluering av op) står i sitatet
+- OK   2 sitat rad 32 (0198cc8fb35e-07b7e7c2-852e-452c-833a-f51d16f740a6, sannsynlighet for å være i jobb over fir) står på oppgitt side
+- OK   3 estimat=10 rad 32 (0198cc8fb35e-07b7e7c2-852e-452c-833a-f51d16f740a6, sannsynlighet for å være i jobb over fir) står i sitatet
+- OK   2 sitat rad 33 (0198cc8fb35e-07b7e7c2-852e-452c-833a-f51d16f740a6, sysselsetting ett år eller mer etter del) står på oppgitt side
+- OK   3 estimat=24 rad 33 (0198cc8fb35e-07b7e7c2-852e-452c-833a-f51d16f740a6, sysselsetting ett år eller mer etter del) står i sitatet
+- OK   2 sitat rad 34 (0198cc8fb35e-07b7e7c2-852e-452c-833a-f51d16f740a6, heltidsarbeid to år etter start, lønnsti) står på oppgitt side
+- OK   3 estimat=2.5 rad 34 (0198cc8fb35e-07b7e7c2-852e-452c-833a-f51d16f740a6, heltidsarbeid to år etter start, lønnsti) står i sitatet
+- OK   2 sitat rad 35 (0198cc67f381-10b52e27-ff19-4730-aef8-57aac6b80405, sannsynlighet for jobb ett år etter lønn) står på oppgitt side
+- OK   3 estimat=21 rad 35 (0198cc67f381-10b52e27-ff19-4730-aef8-57aac6b80405, sannsynlighet for jobb ett år etter lønn) står i sitatet
+- OK   2 sitat rad 36 (0198cc67f381-10b52e27-ff19-4730-aef8-57aac6b80405, optimal varighet av lønnstilskudd for un) står på oppgitt side
+- OK   3 estimat=3 rad 36 (0198cc67f381-10b52e27-ff19-4730-aef8-57aac6b80405, optimal varighet av lønnstilskudd for un) står i sitatet
+- OK   2 sitat rad 37 (W2596043699, sysselsetting, unge 18–24 år i New Deal ) står på oppgitt side
+- OK   3 estimat=5 rad 37 (W2596043699, sysselsetting, unge 18–24 år i New Deal ) står i sitatet
+- OK   2 sitat rad 38 (W4399204261, overgang til jobb i privat sektor innen ) står på oppgitt side
+- OK   3 estimat=10.5 rad 38 (W4399204261, overgang til jobb i privat sektor innen ) står i sitatet
+- OK   3 ki_lav=3.0 rad 38 (W4399204261, overgang til jobb i privat sektor innen ) står i sitatet
+- OK   3 ki_hoy=18.1 rad 38 (W4399204261, overgang til jobb i privat sektor innen ) står i sitatet
+- OK   4 rad 38 (W4399204261, overgang til jobb i privat sektor innen ) estimat innenfor KI
+- OK   2 sitat rad 39 (W4399204261, kumulative kvartaler i privat sysselsett) står på oppgitt side
+- OK   3 estimat=2.8 rad 39 (W4399204261, kumulative kvartaler i privat sysselsett) står i sitatet
+- OK   3 ki_lav=0.7 rad 39 (W4399204261, kumulative kvartaler i privat sysselsett) står i sitatet
+- OK   3 ki_hoy=5.0 rad 39 (W4399204261, kumulative kvartaler i privat sysselsett) står i sitatet
+- OK   4 rad 39 (W4399204261, kumulative kvartaler i privat sysselsett) estimat innenfor KI
+- OK   2 sitat rad 40 (W4399204261, kumulative kvartaler i privat sysselsett) står på oppgitt side
+- OK   3 estimat=0.2 rad 40 (W4399204261, kumulative kvartaler i privat sysselsett) står i sitatet
+- OK   2 sitat rad 41 (W4399204261, kumulative kvartaler i offentlig syssels) står på oppgitt side
+- OK   3 estimat=-2.6 rad 41 (W4399204261, kumulative kvartaler i offentlig syssels) står i sitatet
+- OK   2 sitat rad 42 (W4412889165, overgang til jobb innen 12 måneder, unge) står på oppgitt side
+- OK   3 estimat=0.5 rad 42 (W4412889165, overgang til jobb innen 12 måneder, unge) står i sitatet
+- OK   2 sitat rad 43 (W4412889165, overgang til jobb innen 12 måneder, unge) står på oppgitt side
+- OK   3 estimat=-0.8 rad 43 (W4412889165, overgang til jobb innen 12 måneder, unge) står i sitatet
+- OK   2 sitat rad 44 (W4412889165, dødvekt: andel av mottakerne (uten fullf) står på oppgitt side
+- OK   3 estimat=97.8 rad 44 (W4412889165, dødvekt: andel av mottakerne (uten fullf) står i sitatet
+- OK   2 sitat rad 45 (W4412889165, overgang til jobb via vikarbyrå innen et) står på oppgitt side
+- OK   3 estimat=-5.2 rad 45 (W4412889165, overgang til jobb via vikarbyrå innen et) står i sitatet
+- OK   2 sitat rad 47 (W7139965069, sannsynlighet for å ha forlatt ledighets) står på oppgitt side
+- OK   3 estimat=2.8 rad 47 (W7139965069, sannsynlighet for å ha forlatt ledighets) står i sitatet
+- OK   2 sitat rad 48 (W7139965069, reduksjon i sannsynlighet for å forlate ) står på oppgitt side
+- OK   3 estimat=3.5 rad 48 (W7139965069, reduksjon i sannsynlighet for å forlate ) står i sitatet
+- OK   2 sitat rad 49 (W7139965069, sannsynlighet for å ha forlatt ledighets) står på oppgitt side
+- OK   3 estimat=3.5 rad 49 (W7139965069, sannsynlighet for å ha forlatt ledighets) står i sitatet
+- OK   2 sitat rad 50 (W4378233149, dager i jobb med lønn over 80 % av minst) står på oppgitt side
+- OK   3 estimat=14 rad 50 (W4378233149, dager i jobb med lønn over 80 % av minst) står i sitatet
+- OK   2 sitat rad 51 (W4378233149, dager i jobb som arbeidstaker de første ) står på oppgitt side
+- OK   3 estimat=20 rad 51 (W4378233149, dager i jobb som arbeidstaker de første ) står i sitatet
+- OK   2 sitat rad 52 (W4378233149, kumulativ inntekt fra ordinært arbeid de) står på oppgitt side
+- OK   3 estimat=65 rad 52 (W4378233149, kumulativ inntekt fra ordinært arbeid de) står i sitatet
+- OK   2 sitat rad 53 (W2149962000, ekstra ansatte unge per deltakende bedri) står på oppgitt side
+- OK   3 estimat=1 rad 53 (W2149962000, ekstra ansatte unge per deltakende bedri) står i sitatet
+- OK   2 sitat rad 54 (W2149962000, økning i sysselsetting av berettigede un) står på oppgitt side
+- OK   3 estimat=5 rad 54 (W2149962000, økning i sysselsetting av berettigede un) står i sitatet
+- OK   2 sitat rad 55 (W2149962000, samlet effekt på sysselsettingen av unge) står på oppgitt side
+- OK   3 estimat=1.2 rad 55 (W2149962000, samlet effekt på sysselsettingen av unge) står i sitatet
+- OK   2 sitat rad 57 (W2150829746, overgang til jobb de første fire måneden) står på oppgitt side
+- OK   3 estimat=5 rad 57 (W2150829746, overgang til jobb de første fire måneden) står i sitatet
+- OK   2 sitat rad 58 (W2150829746, del av effekten som skyldes jobbsøkingsb) står på oppgitt side
+- OK   3 estimat=1 rad 58 (W2150829746, del av effekten som skyldes jobbsøkingsb) står i sitatet
+- OK   2 sitat rad 59 (W2150829746, test av substitusjon: effekt med 25–30-å) står på oppgitt side
+- OK   3 estimat=10.4 rad 59 (W2150829746, test av substitusjon: effekt med 25–30-å) står i sitatet
+- OK   2 sitat rad 60 (W2150829746, overgang til jobb, unge kvinner (mindre ) står på oppgitt side
+- OK   3 estimat=6.1 rad 60 (W2150829746, overgang til jobb, unge kvinner (mindre ) står i sitatet
+- OK   2 sitat rad 61 (W3134495723, sannsynlighet for å være i jobb ett år e) står på oppgitt side
+- OK   3 estimat=1.7 rad 61 (W3134495723, sannsynlighet for å være i jobb ett år e) står i sitatet
+- OK   2 sitat rad 62 (W3134495723, sannsynlighet for å være i jobb to år et) står på oppgitt side
+- OK   3 estimat=-6.0 rad 62 (W3134495723, sannsynlighet for å være i jobb to år et) står i sitatet
+- OK   2 sitat rad 63 (W3134495723, sannsynlighet for ordinær utdanning ett ) står på oppgitt side
+- OK   3 estimat=5.5 rad 63 (W3134495723, sannsynlighet for ordinær utdanning ett ) står i sitatet
+- OK   2 sitat rad 65 (W3123523177, Sysselsetting innen 12 mnd etter start, ) står på oppgitt side
+- OK   3 estimat=-0.07 rad 65 (W3123523177, Sysselsetting innen 12 mnd etter start, ) står i sitatet
+- OK   2 sitat rad 66 (W3123523177, Sysselsetting innen 24 mnd etter start, ) står på oppgitt side
+- OK   3 estimat=0.02 rad 66 (W3123523177, Sysselsetting innen 24 mnd etter start, ) står i sitatet
+- OK   2 sitat rad 67 (W3123523177, Årsinntekt ett år etter start (SEK), ung) står på oppgitt side
+- OK   3 estimat=-14565 rad 67 (W3123523177, Årsinntekt ett år etter start (SEK), ung) står i sitatet
+- OK   2 sitat rad 68 (W3123523177, Sysselsetting innen 12 mnd etter start, ) står på oppgitt side
+- OK   3 estimat=0.06 rad 68 (W3123523177, Sysselsetting innen 12 mnd etter start, ) står i sitatet
+- OK   2 sitat rad 69 (W1577286609, Månedlig sannsynlighet for ordinært arbe) står på oppgitt side
+- OK   3 estimat=20 rad 69 (W1577286609, Månedlig sannsynlighet for ordinært arbe) står i sitatet
+- OK   2 sitat rad 70 (W1577286609, Månedlig sannsynlighet for ordinært arbe) står på oppgitt side
+- OK   3 estimat=20 rad 70 (W1577286609, Månedlig sannsynlighet for ordinært arbe) står i sitatet
+- OK   2 sitat rad 71 (W1577286609, Kumulativ effekt på måneder i arbeid ett) står på oppgitt side
+- OK   3 estimat=9 rad 71 (W1577286609, Kumulativ effekt på måneder i arbeid ett) står i sitatet
+- OK   2 sitat rad 72 (W1577286609, Langsiktig sysselsettingseffekt: lønnsti) står på oppgitt side
+- OK   3 estimat=10 rad 72 (W1577286609, Langsiktig sysselsettingseffekt: lønnsti) står i sitatet
+- OK   2 sitat rad 73 (W292088744, Ekstra dager i ordinært (usubsidiert) ar) står på oppgitt side
+- OK   3 estimat=229 rad 73 (W292088744, Ekstra dager i ordinært (usubsidiert) ar) står i sitatet
+- OK   2 sitat rad 74 (W292088744, Ekstra dager i ordinært arbeid over sju ) står på oppgitt side
+- OK   3 estimat=141 rad 74 (W292088744, Ekstra dager i ordinært arbeid over sju ) står i sitatet
+- OK   2 sitat rad 75 (W292088744, Effekt økende med alder: menn 45-54 år 4) står på oppgitt side
+- OK   3 estimat=408 rad 75 (W292088744, Effekt økende med alder: menn 45-54 år 4) står i sitatet
+- OK   2 sitat rad 76 (W292088744, Dødvekt: andel subsidierte ansettelser s) står på oppgitt side
+- OK   3 estimat=52.2 rad 76 (W292088744, Dødvekt: andel subsidierte ansettelser s) står i sitatet
+- OK   2 sitat rad 77 (W28016323, Reduksjon i overgangsrate fra arbeid til) står på oppgitt side
+- OK   3 estimat=30 rad 77 (W28016323, Reduksjon i overgangsrate fra arbeid til) står i sitatet
+- OK   2 sitat rad 78 (W28016323, Reduksjon i overgangsrate fra arbeid til) står på oppgitt side
+- OK   3 estimat=36 rad 78 (W28016323, Reduksjon i overgangsrate fra arbeid til) står i sitatet
+- OK   2 sitat rad 79 (W2122776691, Andel med overgang til ordinært arbeid e) står på oppgitt side
+- OK   3 estimat=23 rad 79 (W2122776691, Andel med overgang til ordinært arbeid e) står i sitatet
+- OK   2 sitat rad 80 (W2122776691, Andel som har forlatt arbeid, lavere ved) står på oppgitt side
+- OK   3 estimat=15 rad 80 (W2122776691, Andel som har forlatt arbeid, lavere ved) står i sitatet
+- OK   2 sitat rad 81 (W2911773687, Andel som gikk fra første registrering t) står på oppgitt side
+- OK   3 estimat=94.5 rad 81 (W2911773687, Andel som gikk fra første registrering t) står i sitatet
+- OK   2 sitat rad 82 (W2911773687, Andel som kom tilbake til arbeidskontore) står på oppgitt side
+- OK   3 estimat=25.8 rad 82 (W2911773687, Andel som kom tilbake til arbeidskontore) står i sitatet
+- OK   2 sitat rad 83 (W2911773687, Andel som gikk til usubsidiert jobb fra ) står på oppgitt side
+- OK   3 estimat=63 rad 83 (W2911773687, Andel som gikk til usubsidiert jobb fra ) står i sitatet
+- OK   2 sitat rad 84 (W4286914340, Andel ute av ledighetsregister og ikke i) står på oppgitt side
+- OK   3 estimat=8 rad 84 (W4286914340, Andel ute av ledighetsregister og ikke i) står i sitatet
+- OK   2 sitat rad 85 (W4286914340, Andel ute av ledighetsregister 18 mnd et) står på oppgitt side
+- OK   3 estimat=13 rad 85 (W4286914340, Andel ute av ledighetsregister 18 mnd et) står i sitatet
+- OK   2 sitat rad 86 (W4407697413, Sysselsetting 36 mnd etter start (usubsi) står på oppgitt side
+- OK   3 estimat=25.6 rad 86 (W4407697413, Sysselsetting 36 mnd etter start (usubsi) står i sitatet
+- OK   2 sitat rad 87 (W4407697413, Sysselsetting på kort sikt 34 pp og lang) står på oppgitt side
+- OK   3 estimat=34 rad 87 (W4407697413, Sysselsetting på kort sikt 34 pp og lang) står i sitatet
+- OK   2 sitat rad 88 (W4407697413, Ekstra inntekt over tre år (EUR), alle a) står på oppgitt side
+- OK   3 estimat=21086 rad 88 (W4407697413, Ekstra inntekt over tre år (EUR), alle a) står i sitatet
+- OK   2 sitat rad 89 (W4407697413, Kostnad: median tilskudd per deltaker (E) står på oppgitt side
+- OK   3 estimat=6000 rad 89 (W4407697413, Kostnad: median tilskudd per deltaker (E) står i sitatet
+- OK   2 sitat rad 90 (W3124086298, Sysselsetting 3.5 år etter start, alle a) står på oppgitt side
+- OK   3 estimat=15 rad 90 (W3124086298, Sysselsetting 3.5 år etter start, alle a) står i sitatet
+- OK   2 sitat rad 91 (W3124086298, Sysselsetting etter ett år for 45 år og ) står på oppgitt side
+- OK   3 estimat=8 rad 91 (W3124086298, Sysselsetting etter ett år for 45 år og ) står i sitatet
+- OK   2 sitat rad 92 (W3124086298, Sysselsetting for dem som fikk tilbud om) står på oppgitt side
+- OK   3 estimat=50 rad 92 (W3124086298, Sysselsetting for dem som fikk tilbud om) står i sitatet
+- OK   2 sitat rad 93 (W3097344849, Effekt etter avsluttet lønnstilskudd på ) står på oppgitt side
+- OK   3 estimat=4 rad 93 (W3097344849, Effekt etter avsluttet lønnstilskudd på ) står i sitatet
+- OK   2 sitat rad 94 (W3097344849, Effekt etter avsluttet opplæring/utdanni) står på oppgitt side
+- OK   3 estimat=2 rad 94 (W3097344849, Effekt etter avsluttet opplæring/utdanni) står i sitatet
+- OK   2 sitat rad 95 (W3097344849, Overgang til trygdeytelse under lønnstil) står på oppgitt side
+- OK   3 estimat=45 rad 95 (W3097344849, Overgang til trygdeytelse under lønnstil) står i sitatet
+- OK   2 sitat rad 96 (0198cc45bd5e-8c80f1e9-8747-46f0-ba71-4147a95ddc47, Andel i arbeid i november om lag to år e) står på oppgitt side
+- OK   3 estimat=69 rad 96 (0198cc45bd5e-8c80f1e9-8747-46f0-ba71-4147a95ddc47, Andel i arbeid i november om lag to år e) står i sitatet
+- OK   2 sitat rad 97 (0198cc45bd5e-8c80f1e9-8747-46f0-ba71-4147a95ddc47, Andel i arbeid to år etter start på midl) står på oppgitt side
+- OK   3 estimat=67 rad 97 (0198cc45bd5e-8c80f1e9-8747-46f0-ba71-4147a95ddc47, Andel i arbeid to år etter start på midl) står i sitatet
+- OK   2 sitat rad 98 (0198cc45bd5e-8c80f1e9-8747-46f0-ba71-4147a95ddc47, Beregnet jobbsannsynlighet to år etter s) står på oppgitt side
+- OK   3 estimat=2.6 rad 98 (0198cc45bd5e-8c80f1e9-8747-46f0-ba71-4147a95ddc47, Beregnet jobbsannsynlighet to år etter s) står i sitatet
+- OK   2 sitat rad 99 (AV-2021-1-03, Andel som følger løpebanen «Til heltidsj) står på oppgitt side
+- OK   3 estimat=47 rad 99 (AV-2021-1-03, Andel som følger løpebanen «Til heltidsj) står i sitatet
+- OK   2 sitat rad 100 (AV-2021-1-03, Andel i en av de tre jobbdominerte løpeb) står på oppgitt side
+- OK   3 estimat=71 rad 100 (AV-2021-1-03, Andel i en av de tre jobbdominerte løpeb) står i sitatet
+- OK   2 sitat rad 101 (AV-2021-1-03, Andel i løpebanen «Til heltidsjobb», ung) står på oppgitt side
+- OK   3 estimat=21 rad 101 (AV-2021-1-03, Andel i løpebanen «Til heltidsjobb», ung) står i sitatet
+- OK   2 sitat rad 102 (AV-2023-2-06, Andel i klyngen «Tidlig jobb» over fem å) står på oppgitt side
+- OK   3 estimat=50 rad 102 (AV-2023-2-06, Andel i klyngen «Tidlig jobb» over fem å) står i sitatet
+- OK   2 sitat rad 103 (AV-2023-2-06, Andel i de to klyngene der flertallet bl) står på oppgitt side
+- OK   3 estimat=28 rad 103 (AV-2023-2-06, Andel i de to klyngene der flertallet bl) står i sitatet
+- OK   2 sitat rad 104 (019938797a78-07e5f4b2-85e7-46c1-aab1-30916c8257cd, Andel arbeidstakere ett år etter start p) står på oppgitt side
+- OK   3 estimat=21 rad 104 (019938797a78-07e5f4b2-85e7-46c1-aab1-30916c8257cd, Andel arbeidstakere ett år etter start p) står i sitatet
+- OK   2 sitat rad 105 (019938797a78-07e5f4b2-85e7-46c1-aab1-30916c8257cd, Effekt på andel arbeidstakere ett år ett) står på oppgitt side
+- OK   3 estimat=0.04 rad 105 (019938797a78-07e5f4b2-85e7-46c1-aab1-30916c8257cd, Effekt på andel arbeidstakere ett år ett) står i sitatet
+- OK   2 sitat rad 106 (019938797a78-07e5f4b2-85e7-46c1-aab1-30916c8257cd, Effekt på andel arbeidstakere ett år ett) står på oppgitt side
+- OK   3 estimat=0.24 rad 106 (019938797a78-07e5f4b2-85e7-46c1-aab1-30916c8257cd, Effekt på andel arbeidstakere ett år ett) står i sitatet
+- OK   2 sitat rad 107 (W4391650787, Økt sannsynlighet for overgang til ordin) står på oppgitt side
+- OK   3 estimat=67 rad 107 (W4391650787, Økt sannsynlighet for overgang til ordin) står i sitatet
+- OK   2 sitat rad 108 (W4391650787, Effekt etter lønnstilskudd på overgang t) står på oppgitt side
+- OK   3 estimat=1.091 rad 108 (W4391650787, Effekt etter lønnstilskudd på overgang t) står i sitatet
+- OK   2 sitat rad 109 (W4391650787, Effekt etter lønnstilskudd på overgang t) står på oppgitt side
+- OK   3 estimat=1.541 rad 109 (W4391650787, Effekt etter lønnstilskudd på overgang t) står i sitatet
+- OK   2 sitat rad 110 (0198cc42013c-11c98f48-47eb-4b66-ac7a-ba3c43edfc15, Økning i overgangsraten fra ledighet til) står på oppgitt side
+- OK   3 estimat=10.65 rad 110 (0198cc42013c-11c98f48-47eb-4b66-ac7a-ba3c43edfc15, Økning i overgangsraten fra ledighet til) står i sitatet
+- OK   2 sitat rad 111 (0198cc4d8ef8-65658ffa-652a-4f22-8ad7-a532e8424f55, Overgang til jobb etter avsluttet lønnst) står på oppgitt side
+- OK   2 sitat rad 112 (0198cc4d8ef8-65658ffa-652a-4f22-8ad7-a532e8424f55, Forskjell i sannsynlighet for å være sys) står på oppgitt side
+- OK   2 sitat rad 113 (W1837038974, Økt sannsynlighet for ordinært arbeid me) står på oppgitt side
+- OK   3 estimat=65 rad 113 (W1837038974, Økt sannsynlighet for ordinært arbeid me) står i sitatet
+- OK   2 sitat rad 114 (W1837038974, Overgang til ordinært arbeid etter avslu) står på oppgitt side
+- OK   2 sitat rad 115 (W1837038974, Lavere sannsynlighet for å forlate ordin) står på oppgitt side
+- OK   3 estimat=60 rad 115 (W1837038974, Lavere sannsynlighet for å forlate ordin) står i sitatet
+- OK   2 sitat rad 116 (W1837038974, Andel deltakere på lønnstilskudd som fin) står på oppgitt side
+- OK   3 estimat=50 rad 116 (W1837038974, Andel deltakere på lønnstilskudd som fin) står i sitatet
+- OK   2 sitat rad 117 (NB-4986, Midlertidig lønnstilskudd, alle aldre: a) står på oppgitt side
+- OK   3 estimat=5 rad 117 (NB-4986, Midlertidig lønnstilskudd, alle aldre: a) står i sitatet
+- OK   2 sitat rad 118 (NB-4986, Midlertidig lønnstilskudd, alle aldre: å) står på oppgitt side
+- OK   3 estimat=200000 rad 118 (NB-4986, Midlertidig lønnstilskudd, alle aldre: å) står i sitatet
+- OK   2 sitat rad 119 (NB-4986, Gruppe under 20 år: midlertidig lønnstil) står på oppgitt side
+- OK   3 estimat=1.22 rad 119 (NB-4986, Gruppe under 20 år: midlertidig lønnstil) står i sitatet
+- OK   2 sitat rad 120 (NB-4986, Gruppe 20–29 år: midlertidig lønnstilsku) står på oppgitt side
+- OK   3 estimat=1.50 rad 120 (NB-4986, Gruppe 20–29 år: midlertidig lønnstilsku) står i sitatet
+- OK   2 sitat rad 121 (NB-4986, Gruppe 50–59 år: midlertidig lønnstilsku) står på oppgitt side
+- OK   3 estimat=2.62 rad 121 (NB-4986, Gruppe 50–59 år: midlertidig lønnstilsku) står i sitatet
+- OK   2 sitat rad 122 (NB-4986, Midlertidig lønnstilskudd: sum prissatte) står på oppgitt side
+- OK   3 estimat=1117000 rad 122 (NB-4986, Midlertidig lønnstilskudd: sum prissatte) står i sitatet
+- OK   2 sitat rad 123 (NB-4986, Midlertidig lønnstilskudd: effekt på mån) står på oppgitt side
+- OK   3 estimat=360 rad 123 (NB-4986, Midlertidig lønnstilskudd: effekt på mån) står i sitatet
+- OK   2 sitat rad 124 (NB-4986, Midlertidig lønnstilskudd: Navs budsjett) står på oppgitt side
+- OK   3 estimat=23400 rad 124 (NB-4986, Midlertidig lønnstilskudd: Navs budsjett) står i sitatet
+- OK   2 sitat rad 125 (NB-4986, Midlertidig lønnstilskudd: andel i arbei) står på oppgitt side
+- OK   3 estimat=69 rad 125 (NB-4986, Midlertidig lønnstilskudd: andel i arbei) står i sitatet
+- OK   2 sitat rad 126 (NB-4986, Midlertidig lønnstilskudd: tiltaksmånede) står på oppgitt side
+- OK   3 estimat=3 rad 126 (NB-4986, Midlertidig lønnstilskudd: tiltaksmånede) står i sitatet
+- OK   2 sitat rad 128 (KU-556513c4-aea7-4c77-a625-a2729b9f701e, Ingen egne effekttall for lønnstilskudd ) står på oppgitt side
+- OK   2 sitat rad 129 (KU-556513c4-aea7-4c77-a625-a2729b9f701e, Midlertidig lønnstilskudd: andel av alle) står på oppgitt side
+- OK   3 estimat=9.2 rad 129 (KU-556513c4-aea7-4c77-a625-a2729b9f701e, Midlertidig lønnstilskudd: andel av alle) står i sitatet
+- OK   2 sitat rad 130 (KU-556513c4-aea7-4c77-a625-a2729b9f701e, Midlertidig lønnstilskudd: andel av alle) står på oppgitt side
+- OK   3 estimat=8.3 rad 130 (KU-556513c4-aea7-4c77-a625-a2729b9f701e, Midlertidig lønnstilskudd: andel av alle) står i sitatet
+- OK   2 sitat rad 131 (KU-556513c4-aea7-4c77-a625-a2729b9f701e, Midlertidig lønnstilskudd: samfunnsøkono) står på oppgitt side
+- OK   3 estimat=20 rad 131 (KU-556513c4-aea7-4c77-a625-a2729b9f701e, Midlertidig lønnstilskudd: samfunnsøkono) står i sitatet
+- OK   2 sitat rad 132 (KU-556513c4-aea7-4c77-a625-a2729b9f701e, Forslag 8 (budsjettansvar til Nav-kontor) står på oppgitt side
+- OK   3 estimat=9 rad 132 (KU-556513c4-aea7-4c77-a625-a2729b9f701e, Forslag 8 (budsjettansvar til Nav-kontor) står i sitatet
+- OK   2 sitat rad 133 (KU-cf0dd276-ef43-42af-b4c1-d2d3e4fcdfe3, Lønnstilskudd, alle 16–54 år: andel arbe) står på oppgitt side
+- OK   3 estimat=22 rad 133 (KU-cf0dd276-ef43-42af-b4c1-d2d3e4fcdfe3, Lønnstilskudd, alle 16–54 år: andel arbe) står i sitatet
+- OK   2 sitat rad 134 (KU-cf0dd276-ef43-42af-b4c1-d2d3e4fcdfe3, Gruppe 16–24 år: lønnstilskudd, forskjel) står på oppgitt side
+- OK   3 estimat=0.20 rad 134 (KU-cf0dd276-ef43-42af-b4c1-d2d3e4fcdfe3, Gruppe 16–24 år: lønnstilskudd, forskjel) står i sitatet
+- OK   2 sitat rad 135 (KU-cf0dd276-ef43-42af-b4c1-d2d3e4fcdfe3, Gruppe 25–54 år: lønnstilskudd, forskjel) står på oppgitt side
+- OK   3 estimat=0.23 rad 135 (KU-cf0dd276-ef43-42af-b4c1-d2d3e4fcdfe3, Gruppe 25–54 år: lønnstilskudd, forskjel) står i sitatet
+- OK   2 sitat rad 136 (KU-cf0dd276-ef43-42af-b4c1-d2d3e4fcdfe3, Gruppe unge menn 16–24 år uten dagpenger) står på oppgitt side
+- OK   3 estimat=0.36 rad 136 (KU-cf0dd276-ef43-42af-b4c1-d2d3e4fcdfe3, Gruppe unge menn 16–24 år uten dagpenger) står i sitatet
+- OK   2 sitat rad 137 (KU-cf0dd276-ef43-42af-b4c1-d2d3e4fcdfe3, Gruppe unge menn 16–24 år med dagpenger:) står på oppgitt side
+- OK   3 estimat=0.08 rad 137 (KU-cf0dd276-ef43-42af-b4c1-d2d3e4fcdfe3, Gruppe unge menn 16–24 år med dagpenger:) står i sitatet
+- OK   2 sitat rad 138 (KU-cf0dd276-ef43-42af-b4c1-d2d3e4fcdfe3, Gruppe unge kvinner 16–24 år med dagpeng) står på oppgitt side
+- OK   3 estimat=0.20 rad 138 (KU-cf0dd276-ef43-42af-b4c1-d2d3e4fcdfe3, Gruppe unge kvinner 16–24 år med dagpeng) står i sitatet
+- OK   2 sitat rad 139 (KU-cf0dd276-ef43-42af-b4c1-d2d3e4fcdfe3, Gruppe unge kvinner 16–24 år uten dagpen) står på oppgitt side
+- OK   3 estimat=0.08 rad 139 (KU-cf0dd276-ef43-42af-b4c1-d2d3e4fcdfe3, Gruppe unge kvinner 16–24 år uten dagpen) står i sitatet
+- OK   2 sitat rad 140 (KU-cf0dd276-ef43-42af-b4c1-d2d3e4fcdfe3, Gruppe 16–24 år: arbeidspraksis (til sam) står på oppgitt side
+- OK   3 estimat=0.04 rad 140 (KU-cf0dd276-ef43-42af-b4c1-d2d3e4fcdfe3, Gruppe 16–24 år: arbeidspraksis (til sam) står i sitatet
+- OK   2 sitat rad 141 (KU-cf0dd276-ef43-42af-b4c1-d2d3e4fcdfe3, Arbeidspraksis, alle 16–54 år (til samme) står på oppgitt side
+- OK   3 estimat=6 rad 141 (KU-cf0dd276-ef43-42af-b4c1-d2d3e4fcdfe3, Arbeidspraksis, alle 16–54 år (til samme) står i sitatet
+- OK   2 sitat rad 142 (R-cf1a71c1b9, Alle aldre: sannsynlighet for sysselsett) står på oppgitt side
+- OK   3 estimat=9.9 rad 142 (R-cf1a71c1b9, Alle aldre: sannsynlighet for sysselsett) står i sitatet
+- OK   2 sitat rad 143 (R-cf1a71c1b9, Alle aldre: sannsynlighet for sysselsett) står på oppgitt side
+- OK   3 estimat=4.7 rad 143 (R-cf1a71c1b9, Alle aldre: sannsynlighet for sysselsett) står i sitatet
+- OK   2 sitat rad 144 (R-cf1a71c1b9, Alle aldre: sannsynlighet for sysselsett) står på oppgitt side
+- OK   3 estimat=1.5 rad 144 (R-cf1a71c1b9, Alle aldre: sannsynlighet for sysselsett) står i sitatet
+- OK   2 sitat rad 145 (R-cf1a71c1b9, Gruppe under 25 år: tiltak rettet mot un) står på oppgitt side
+- OK   2 sitat rad 146 (R-cf1a71c1b9, Gruppe unge: mindre utbytte av tiltaksde) står på oppgitt side
+- OK   2 sitat rad 147 (R-cf1a71c1b9, Gruppe 16–29 år: opplæring, lønnstilskud) står på oppgitt side
+- OK   2 sitat rad 148 (R-cf1a71c1b9, Gruppe unge uten fullført videregående: ) står på oppgitt side
+- OK   2 sitat rad 149 (R-cf1a71c1b9, Gruppe unge med nedsatt arbeidsevne (18–) står på oppgitt side
+- OK   2 sitat rad 150 (R-cf1a71c1b9, Gruppe under 30 år med nedsatt arbeidsev) står på oppgitt side
+- OK   2 sitat rad 151 (R-cf1a71c1b9, Alle aldre: midlertidig lønnstilskudd ha) står på oppgitt side
+- OK   2 sitat rad 152 (R-cf1a71c1b9, Personer med nedsatt arbeidsevne: midler) står på oppgitt side
+- OK   2 sitat rad 153 (R-cf1a71c1b9, Gruppe unge arbeidssøkere: lønnstilskudd) står på oppgitt side
+- OK   2 sitat rad 154 (R-cf1a71c1b9, Forbehold: positiv seleksjon til lønnsti) står på oppgitt side
+- OK   2 sitat rad 155 (R-04f7a279dc, Alle aldre: sysselsatt 12 måneder etter ) står på oppgitt side
+- OK   3 estimat=1.0 rad 155 (R-04f7a279dc, Alle aldre: sysselsatt 12 måneder etter ) står i sitatet
+- OK   2 sitat rad 156 (R-04f7a279dc, Alle aldre: sysselsatt 24 måneder etter ) står på oppgitt side
+- OK   3 estimat=1.8 rad 156 (R-04f7a279dc, Alle aldre: sysselsatt 24 måneder etter ) står i sitatet
+- OK   2 sitat rad 157 (R-04f7a279dc, Alle aldre: gjennomsnittlig sysselsettin) står på oppgitt side
+- OK   3 estimat=25 rad 157 (R-04f7a279dc, Alle aldre: gjennomsnittlig sysselsettin) står i sitatet
+- OK   2 sitat rad 158 (R-04f7a279dc, Identifikasjon: ingen god kontrollgruppe) står på oppgitt side
+- OK   2 sitat rad 159 (R-04f7a279dc, Gruppe under 30 år: andel av deltakerne ) står på oppgitt side
+- OK   3 estimat=30 rad 159 (R-04f7a279dc, Gruppe under 30 år: andel av deltakerne ) står i sitatet
+- OK   2 sitat rad 160 (R-04f7a279dc, Alle aldre: antall av 1 886 deltakere so) står på oppgitt side
+- OK   3 estimat=957 rad 160 (R-04f7a279dc, Alle aldre: antall av 1 886 deltakere so) står i sitatet
+- OK   2 sitat rad 161 (R-04f7a279dc, Alle aldre: i jobb uten trygdeytelser 12) står på oppgitt side
+- OK   3 estimat=36 rad 161 (R-04f7a279dc, Alle aldre: i jobb uten trygdeytelser 12) står i sitatet
+- OK   2 sitat rad 162 (R-04f7a279dc, Forbehold: forfatterne kan ikke skille e) står på oppgitt side
+- OK   2 sitat rad 163 (AV-2024-3-04, Alle deltakere: andel med forløpet stabi) står på oppgitt side
+- OK   3 estimat=40 rad 163 (AV-2024-3-04, Alle deltakere: andel med forløpet stabi) står i sitatet
+- OK   2 sitat rad 164 (AV-2024-3-04, Gruppe ordinære arbeidssøkere: andel med) står på oppgitt side
+- OK   3 estimat=54 rad 164 (AV-2024-3-04, Gruppe ordinære arbeidssøkere: andel med) står i sitatet
+- OK   2 sitat rad 165 (AV-2024-3-04, Gruppe nedsatt arbeidsevne: andel med st) står på oppgitt side
+- OK   3 estimat=23 rad 165 (AV-2024-3-04, Gruppe nedsatt arbeidsevne: andel med st) står i sitatet
+- OK   2 sitat rad 166 (AV-2024-3-04, Alle deltakere: andel i vanlig jobb uten) står på oppgitt side
+- OK   3 estimat=54 rad 166 (AV-2024-3-04, Alle deltakere: andel i vanlig jobb uten) står i sitatet
+- OK   2 sitat rad 167 (AV-2024-3-04, Gruppe ordinære arbeidssøkere: andel i v) står på oppgitt side
+- OK   3 estimat=66 rad 167 (AV-2024-3-04, Gruppe ordinære arbeidssøkere: andel i v) står i sitatet
+- OK   2 sitat rad 168 (AV-2024-3-04, Gruppe nedsatt arbeidsevne: andel i vanl) står på oppgitt side
+- OK   3 estimat=41 rad 168 (AV-2024-3-04, Gruppe nedsatt arbeidsevne: andel i vanl) står i sitatet
+- OK   2 sitat rad 169 (AV-2024-3-04, Alle deltakere: andel med forløpet kortv) står på oppgitt side
+- OK   3 estimat=11 rad 169 (AV-2024-3-04, Alle deltakere: andel med forløpet kortv) står i sitatet
+- OK   2 sitat rad 170 (AV-2024-3-04, Gruppe nedsatt arbeidsevne: lavere sanns) står på oppgitt side
+- OK   3 estimat=24 rad 170 (AV-2024-3-04, Gruppe nedsatt arbeidsevne: lavere sanns) står i sitatet
+- OK   2 sitat rad 171 (AV-2024-3-04, Gruppe 18–24 år: andel med stabil arbeid) står på oppgitt side
+- OK   3 estimat=41.4 rad 171 (AV-2024-3-04, Gruppe 18–24 år: andel med stabil arbeid) står i sitatet
+- OK   2 sitat rad 172 (AV-2024-3-04, Gruppe 25–29 år: andel med stabil arbeid) står på oppgitt side
+- OK   3 estimat=44.9 rad 172 (AV-2024-3-04, Gruppe 25–29 år: andel med stabil arbeid) står i sitatet
+- OK   2 sitat rad 173 (AV-2024-3-04, Gruppe 25–29 år, alle deltakere: høyere ) står på oppgitt side
+- OK   3 estimat=0.0419 rad 173 (AV-2024-3-04, Gruppe 25–29 år, alle deltakere: høyere ) står i sitatet
+- OK   2 sitat rad 174 (AV-2024-3-04, Gruppe 25–29 år, ordinære arbeidssøkere:) står på oppgitt side
+- OK   3 estimat=0.0314 rad 174 (AV-2024-3-04, Gruppe 25–29 år, ordinære arbeidssøkere:) står i sitatet
+- OK   2 sitat rad 175 (AV-2024-3-04, Gruppe 50–56 år, ordinære arbeidssøkere:) står på oppgitt side
+- OK   3 estimat=-0.120 rad 175 (AV-2024-3-04, Gruppe 50–56 år, ordinære arbeidssøkere:) står i sitatet
+- OK   2 sitat rad 176 (01995c22c1ef-0cff9bef-2a70-4f0e-ab36-b6d53db8f287, Gruppe nedsatt arbeidsevne: økning i and) står på oppgitt side
+- OK   3 estimat=30 rad 176 (01995c22c1ef-0cff9bef-2a70-4f0e-ab36-b6d53db8f287, Gruppe nedsatt arbeidsevne: økning i and) står i sitatet
+- OK   2 sitat rad 177 (01995c22c1ef-0cff9bef-2a70-4f0e-ab36-b6d53db8f287, Gruppe nedsatt arbeidsevne: økning i job) står på oppgitt side
+- OK   3 estimat=20 rad 177 (01995c22c1ef-0cff9bef-2a70-4f0e-ab36-b6d53db8f287, Gruppe nedsatt arbeidsevne: økning i job) står i sitatet
+- OK   2 sitat rad 178 (01995c22c1ef-0cff9bef-2a70-4f0e-ab36-b6d53db8f287, Gruppe nedsatt arbeidsevne: økning i and) står på oppgitt side
+- OK   3 estimat=4 rad 178 (01995c22c1ef-0cff9bef-2a70-4f0e-ab36-b6d53db8f287, Gruppe nedsatt arbeidsevne: økning i and) står i sitatet
+- OK   2 sitat rad 179 (01995c22c1ef-0cff9bef-2a70-4f0e-ab36-b6d53db8f287, Gruppe nedsatt arbeidsevne: midlertidig ) står på oppgitt side
+- OK   2 sitat rad 180 (01995c22c1ef-0cff9bef-2a70-4f0e-ab36-b6d53db8f287, Gruppe nedsatt arbeidsevne: positiv uobs) står på oppgitt side
+- OK   2 sitat rad 181 (01995c22c1ef-0cff9bef-2a70-4f0e-ab36-b6d53db8f287, Gruppe nedsatt arbeidsevne: alle tiltak ) står på oppgitt side
+- OK   3 estimat=15 rad 181 (01995c22c1ef-0cff9bef-2a70-4f0e-ab36-b6d53db8f287, Gruppe nedsatt arbeidsevne: alle tiltak ) står i sitatet
+- OK   2 sitat rad 182 (01995c22c1ef-0cff9bef-2a70-4f0e-ab36-b6d53db8f287, Gruppe nedsatt arbeidsevne: alle tiltak ) står på oppgitt side
+- OK   3 estimat=12 rad 182 (01995c22c1ef-0cff9bef-2a70-4f0e-ab36-b6d53db8f287, Gruppe nedsatt arbeidsevne: alle tiltak ) står i sitatet
+- OK   2 sitat rad 183 (01995c22c1ef-0cff9bef-2a70-4f0e-ab36-b6d53db8f287, Gruppe nedsatt arbeidsevne: alle tiltak ) står på oppgitt side
+- OK   3 estimat=732000 rad 183 (01995c22c1ef-0cff9bef-2a70-4f0e-ab36-b6d53db8f287, Gruppe nedsatt arbeidsevne: alle tiltak ) står i sitatet
+- OK   2 sitat rad 184 (W1805206376, Gruppe under 25 år: programmer for unge ) står på oppgitt side
+- OK   2 sitat rad 185 (W1805206376, Gruppe under 25 år: kort sikt (ca. 12 må) står på oppgitt side
+- OK   3 estimat=0.70 rad 185 (W1805206376, Gruppe under 25 år: kort sikt (ca. 12 må) står i sitatet
+- OK   2 sitat rad 186 (W1805206376, Gruppe under 25 år: kort sikt, estimaten) står på oppgitt side
+- OK   2 sitat rad 187 (W1805206376, Gruppe under 25 år: mellomlang sikt (ca.) står på oppgitt side
+- OK   3 estimat=0.82 rad 187 (W1805206376, Gruppe under 25 år: mellomlang sikt (ca.) står i sitatet
+- OK   2 sitat rad 188 (W1805206376, Lønnstilskudd i privat sektor: kort sikt) står på oppgitt side
+- OK   3 estimat=1.50 rad 188 (W1805206376, Lønnstilskudd i privat sektor: kort sikt) står i sitatet
+- OK   2 sitat rad 189 (W1805206376, Lønnstilskudd i privat sektor: mellomlan) står på oppgitt side
+- OK   3 estimat=0.36 rad 189 (W1805206376, Lønnstilskudd i privat sektor: mellomlan) står i sitatet
+- OK   2 sitat rad 190 (W1805206376, Alle programtyper: på kort sikt har jobb) står på oppgitt side
+- OK   2 sitat rad 191 (W1805206376, Alle programtyper: subsidiert sysselsett) står på oppgitt side
+- OK   2 sitat rad 192 (W1805206376, Alle programtyper: andel av programestim) står på oppgitt side
+- OK   3 estimat=39 rad 192 (W1805206376, Alle programtyper: andel av programestim) står i sitatet
+- OK   2 sitat rad 193 (W1805206376, Lønnstilskudd i privat og offentlig sekt) står på oppgitt side
+- OK   2 sitat rad 194 (R-f2664a06f5, unge under 30: andel av deltakerne på va) står på oppgitt side
+- OK   3 estimat=16 rad 194 (R-f2664a06f5, unge under 30: andel av deltakerne på va) står i sitatet
+- OK   2 sitat rad 195 (R-f2664a06f5, alle aldre: gjennomsnittsalder for delta) står på oppgitt side
+- OK   3 estimat=46 rad 195 (R-f2664a06f5, alle aldre: gjennomsnittsalder for delta) står i sitatet
+- OK   2 sitat rad 196 (R-f2664a06f5, alle aldre: varighet på varig lønnstilsk) står på oppgitt side
+- OK   3 estimat=67 rad 196 (R-f2664a06f5, alle aldre: varighet på varig lønnstilsk) står i sitatet
+- OK   2 sitat rad 197 (R-f2664a06f5, alle aldre: anslått gjennomsnittlig vari) står på oppgitt side
+- OK   3 estimat=82 rad 197 (R-f2664a06f5, alle aldre: anslått gjennomsnittlig vari) står i sitatet
+- OK   2 sitat rad 198 (R-f2664a06f5, under 62 år ved avslutning: andel som gå) står på oppgitt side
+- OK   3 estimat=10 rad 198 (R-f2664a06f5, under 62 år ved avslutning: andel som gå) står i sitatet
+- OK   2 sitat rad 199 (R-f2664a06f5, under 62 år ved avslutning: andel som mo) står på oppgitt side
+- OK   3 estimat=48 rad 199 (R-f2664a06f5, under 62 år ved avslutning: andel som mo) står i sitatet
+- OK   2 sitat rad 200 (R-f2664a06f5, alle aldre: gjennomsnittlig tilskudd per) står på oppgitt side
+- OK   3 estimat=289 rad 200 (R-f2664a06f5, alle aldre: gjennomsnittlig tilskudd per) står i sitatet
+- OK   2 sitat rad 201 (R-f2664a06f5, alle aldre: netto samfunnsøkonomisk bidr) står på oppgitt side
+- OK   3 estimat=2.5 rad 201 (R-f2664a06f5, alle aldre: netto samfunnsøkonomisk bidr) står i sitatet
+- OK   2 sitat rad 202 (R-f2664a06f5, alle aldre: netto samfunnsøkonomisk bidr) står på oppgitt side
+- OK   3 estimat=3.9 rad 202 (R-f2664a06f5, alle aldre: netto samfunnsøkonomisk bidr) står i sitatet
+- OK   2 sitat rad 203 (R-f2664a06f5, alle aldre: netto offentlige utgifter pe) står på oppgitt side
+- OK   3 estimat=111 rad 203 (R-f2664a06f5, alle aldre: netto offentlige utgifter pe) står i sitatet
+- OK   2 sitat rad 204 (R-f2664a06f5, personer med nedsatt arbeidsevne: dødvek) står på oppgitt side
+- OK   3 estimat=20 rad 204 (R-f2664a06f5, personer med nedsatt arbeidsevne: dødvek) står i sitatet
+- OK   2 sitat rad 205 (R-f2664a06f5, personer med nedsatt arbeidsevne: lavere) står på oppgitt side
+- OK   3 estimat=20 rad 205 (R-f2664a06f5, personer med nedsatt arbeidsevne: lavere) står i sitatet
+- OK   2 sitat rad 206 (R-f2664a06f5, alle aldre: fortrengning og/eller dødvek) står på oppgitt side
+- OK   3 estimat=20 rad 206 (R-f2664a06f5, alle aldre: fortrengning og/eller dødvek) står i sitatet
+- OK   2 sitat rad 207 (R-ec3de7f99e, alle aldre: gjennomsnittlig antall delta) står på oppgitt side
+- OK   3 estimat=11824 rad 207 (R-ec3de7f99e, alle aldre: gjennomsnittlig antall delta) står i sitatet
+- OK   2 sitat rad 208 (R-ec3de7f99e, nye mottakere av attførings- eller rehab) står på oppgitt side
+- OK   3 estimat=65000 rad 208 (R-ec3de7f99e, nye mottakere av attførings- eller rehab) står i sitatet
+- OK   2 sitat rad 209 (R-ec3de7f99e, nye mottakere av attførings- eller rehab) står på oppgitt side
+- OK   3 estimat=76000 rad 209 (R-ec3de7f99e, nye mottakere av attførings- eller rehab) står i sitatet
+- OK   2 sitat rad 210 (R-ec3de7f99e, alle aldre: nåverdi av verdiskapingseffe) står på oppgitt side
+- OK   3 estimat=670000 rad 210 (R-ec3de7f99e, alle aldre: nåverdi av verdiskapingseffe) står i sitatet
+- OK   2 sitat rad 211 (R-ec3de7f99e, alle aldre: nåverdi av verdiskapingseffe) står på oppgitt side
+- OK   3 estimat=524000 rad 211 (R-ec3de7f99e, alle aldre: nåverdi av verdiskapingseffe) står i sitatet
+- OK   2 sitat rad 212 (R-ec3de7f99e, alle aldre: NAVs gjennomsnittlige budsje) står på oppgitt side
+- OK   3 estimat=23400 rad 212 (R-ec3de7f99e, alle aldre: NAVs gjennomsnittlige budsje) står i sitatet
+- OK   2 sitat rad 213 (R-ec3de7f99e, alle aldre: gjennomsnittlig varighet på ) står på oppgitt side
+- OK   3 estimat=7 rad 213 (R-ec3de7f99e, alle aldre: gjennomsnittlig varighet på ) står i sitatet
+- OK   2 sitat rad 214 (R-ec3de7f99e, arbeidsledige: økning i månedlig overgan) står på oppgitt side
+- OK   3 estimat=12 rad 214 (R-ec3de7f99e, arbeidsledige: økning i månedlig overgan) står i sitatet
+- OK   2 sitat rad 215 (R-ec3de7f99e, alle aldre: fortrengning i lønnstilskudd) står på oppgitt side
+- OK   3 estimat=65 rad 215 (R-ec3de7f99e, alle aldre: fortrengning i lønnstilskudd) står i sitatet
+- OK   2 sitat rad 216 (R-ec3de7f99e, unge under 30, arbeidssøkere uten innvan) står på oppgitt side
+- OK   3 estimat=17 rad 216 (R-ec3de7f99e, unge under 30, arbeidssøkere uten innvan) står i sitatet
+- OK   2 sitat rad 217 (R-ec3de7f99e, unge under 30, arbeidssøkere fra landgru) står på oppgitt side
+- OK   3 estimat=10 rad 217 (R-ec3de7f99e, unge under 30, arbeidssøkere fra landgru) står i sitatet
+- OK   2 sitat rad 218 (R-ec3de7f99e, unge under 30 med nedsatt arbeidsevne ut) står på oppgitt side
+- OK   3 estimat=12 rad 218 (R-ec3de7f99e, unge under 30 med nedsatt arbeidsevne ut) står i sitatet
+- OK   2 sitat rad 219 (R-ec3de7f99e, unge under 30 med nedsatt arbeidsevne ut) står på oppgitt side
+- OK   3 estimat=3 rad 219 (R-ec3de7f99e, unge under 30 med nedsatt arbeidsevne ut) står i sitatet
+- OK   2 sitat rad 220 (W2010586812, alle aldre: sannsynlighet for at en eval) står på oppgitt side
+- OK   3 estimat=30.9 rad 220 (W2010586812, alle aldre: sannsynlighet for at en eval) står i sitatet
+- OK   2 sitat rad 221 (W2010586812, alle aldre: sannsynlighet for positiv ef) står på oppgitt side
+- OK   3 estimat=43.9 rad 221 (W2010586812, alle aldre: sannsynlighet for positiv ef) står i sitatet
+- OK   2 sitat rad 222 (W2010586812, unge: sannsynlighet for positiv sysselse) står på oppgitt side
+- OK   3 estimat=36 rad 222 (W2010586812, unge: sannsynlighet for positiv sysselse) står i sitatet
+- OK   2 sitat rad 223 (W2010586812, unge: sannsynlighet for positiv sysselse) står på oppgitt side
+- OK   3 estimat=62.6 rad 223 (W2010586812, unge: sannsynlighet for positiv sysselse) står i sitatet
+- OK   2 sitat rad 224 (W1521518092, 20–24 år: andel dager registrert som arb) står på oppgitt side
+- OK   3 estimat=0.6 rad 224 (W1521518092, 20–24 år: andel dager registrert som arb) står i sitatet
+- OK   2 sitat rad 225 (W1521518092, 20–24 år: overgang til arbeid i starten ) står på oppgitt side
+- OK   3 estimat=10 rad 225 (W1521518092, 20–24 år: overgang til arbeid i starten ) står i sitatet
+- OK   2 sitat rad 226 (W2039276519, 26–55 år: månedlig overgang til arbeid, ) står på oppgitt side
+- OK   3 estimat=12 rad 226 (W2039276519, 26–55 år: månedlig overgang til arbeid, ) står i sitatet
+- OK   2 sitat rad 227 (W2039276519, eldre (rundt 55 år): sysselsettingsgap e) står på oppgitt side
+- OK   3 estimat=5 rad 227 (W2039276519, eldre (rundt 55 år): sysselsettingsgap e) står i sitatet
+- OK   2 sitat rad 228 (W2016059253, bedrifter: lønnssum i bedrifter som får ) står på oppgitt side
+- OK   3 estimat=9 rad 228 (W2016059253, bedrifter: lønnssum i bedrifter som får ) står i sitatet
+- OK   2 sitat rad 229 (W2016059253, bedrifter: fortrengning, lønnssum i andr) står på oppgitt side
+- OK   3 estimat=0.1 rad 229 (W2016059253, bedrifter: fortrengning, lønnssum i andr) står i sitatet
+- OK   2 sitat rad 230 (W2306814610, unge kvinner med høyskoleutdanning: syss) står på oppgitt side
+- OK   3 estimat=38 rad 230 (W2306814610, unge kvinner med høyskoleutdanning: syss) står i sitatet
+- OK   2 sitat rad 231 (W2770196142, unge: andel land som har tatt i bruk ans) står på oppgitt side
+- OK   3 estimat=60 rad 231 (W2770196142, unge: andel land som har tatt i bruk ans) står i sitatet
+- OK   2 sitat rad 232 (W2770196142, unge: sannsynlighet for arbeid, økning v) står på oppgitt side
+- OK   3 estimat=5 rad 232 (W2770196142, unge: sannsynlighet for arbeid, økning v) står i sitatet
+- OK   2 sitat rad 233 (W1593675663, 16–30 år: sannsynlighet for arbeid to og) står på oppgitt side
+- OK   3 estimat=6 rad 233 (W1593675663, 16–30 år: sannsynlighet for arbeid to og) står i sitatet
+- OK   2 sitat rad 234 (W1593675663, 16–30 år: årsinntekt, økning i euro for ) står på oppgitt side
+- OK   3 estimat=1675 rad 234 (W1593675663, 16–30 år: årsinntekt, økning i euro for ) står i sitatet
+- OK   2 sitat rad 235 (W3167299234, under 30 år: andel nyansatte under 30 år) står på oppgitt side
+- OK   3 estimat=1.6 rad 235 (W3167299234, under 30 år: andel nyansatte under 30 år) står i sitatet
+- OK   2 sitat rad 236 (W3167299234, under 30 år: andel ansatte under 30 år, ) står på oppgitt side
+- OK   3 estimat=1 rad 236 (W3167299234, under 30 år: andel ansatte under 30 år, ) står i sitatet
+- OK   2 sitat rad 237 (W3048912273, under 30 år: sannsynlighet for arbeid 24) står på oppgitt side
+- OK   3 estimat=40.6 rad 237 (W3048912273, under 30 år: sannsynlighet for arbeid 24) står i sitatet
+- OK   2 sitat rad 238 (W3048912273, under 30 år: sannsynlighet for arbeid 36) står på oppgitt side
+- OK   3 estimat=31.7 rad 238 (W3048912273, under 30 år: sannsynlighet for arbeid 36) står i sitatet
+- OK   2 sitat rad 239 (W3048912273, under 30 år: sannsynlighet for arbeid 36) står på oppgitt side
+- OK   3 estimat=7.7 rad 239 (W3048912273, under 30 år: sannsynlighet for arbeid 36) står i sitatet
+- OK   2 sitat rad 240 (W3048912273, under 30 år: månedslønn 36 måneder etter) står på oppgitt side
+- OK   3 estimat=313 rad 240 (W3048912273, under 30 år: månedslønn 36 måneder etter) står i sitatet
+- OK   2 sitat rad 241 (W3024705443, 18–25 år uten kvalifikasjoner: lavere sa) står på oppgitt side
+- OK   2 sitat rad 242 (W2251574710, alle aldre på attføring: sannsynlighet f) står på oppgitt side
+- OK   3 estimat=11.67 rad 242 (W2251574710, alle aldre på attføring: sannsynlighet f) står i sitatet
+- OK   2 sitat rad 243 (W2251574710, alle aldre på attføring: årlig arbeidsin) står på oppgitt side
+- OK   3 estimat=56731 rad 243 (W2251574710, alle aldre på attføring: årlig arbeidsin) står i sitatet
+- OK   2 sitat rad 244 (W2251574710, alle aldre på attføring: sysselsetting e) står på oppgitt side
+- OK   3 estimat=1.098 rad 244 (W2251574710, alle aldre på attføring: sysselsetting e) står i sitatet
+- OK   7 statistikk rad 1 (Nav TILT110, Midlertidig lønnstilskudd, alle aldre) har alle felt
+- OK   7 statistikk rad 1 (Nav TILT110, Midlertidig lønnstilskudd, alle aldre) verdien 4854 står i statistikk/nav-tilt110-tiltak-og-alder.tsv
+- OK   7 statistikk rad 2 (Nav TILT110, Midlertidig lønnstilskudd, 19 år og unde) har alle felt
+- OK   7 statistikk rad 2 (Nav TILT110, Midlertidig lønnstilskudd, 19 år og unde) verdien 134 står i statistikk/nav-tilt110-tiltak-og-alder.tsv
+- OK   7 statistikk rad 3 (Nav TILT110, Midlertidig lønnstilskudd, 20–24 år) har alle felt
+- OK   7 statistikk rad 3 (Nav TILT110, Midlertidig lønnstilskudd, 20–24 år) verdien 685 står i statistikk/nav-tilt110-tiltak-og-alder.tsv
+- OK   7 statistikk rad 4 (Nav TILT110, Midlertidig lønnstilskudd, 25–29 år) har alle felt
+- OK   7 statistikk rad 4 (Nav TILT110, Midlertidig lønnstilskudd, 25–29 år) verdien 778 står i statistikk/nav-tilt110-tiltak-og-alder.tsv
+- OK   7 statistikk rad 5 (Nav TILT110, Midlertidig lønnstilskudd, under 30 år) har alle felt
+- OK   7 statistikk rad 5 (Nav TILT110, Midlertidig lønnstilskudd, under 30 år) er utregnet: 134 + 685 + 778
+- OK   7 statistikk rad 6 (Nav TILT110, Midlertidig lønnstilskudd, andel under 3) har alle felt
+- OK   7 statistikk rad 6 (Nav TILT110, Midlertidig lønnstilskudd, andel under 3) er utregnet: 1597 / 4854 = 32,9 prosent, avrundet
+- OK   7 statistikk rad 7 (Nav TILT110, Varig lønnstilskudd, alle aldre) har alle felt
+- OK   7 statistikk rad 7 (Nav TILT110, Varig lønnstilskudd, alle aldre) verdien 3781 står i statistikk/nav-tilt110-tiltak-og-alder.tsv
+- OK   7 statistikk rad 8 (Nav TILT110, Varig lønnstilskudd, 20–24 år) har alle felt
+- OK   7 statistikk rad 8 (Nav TILT110, Varig lønnstilskudd, 20–24 år) verdien 90 står i statistikk/nav-tilt110-tiltak-og-alder.tsv
+- OK   7 statistikk rad 9 (Nav TILT110, Varig lønnstilskudd, 25–29 år) har alle felt
+- OK   7 statistikk rad 9 (Nav TILT110, Varig lønnstilskudd, 25–29 år) verdien 307 står i statistikk/nav-tilt110-tiltak-og-alder.tsv
+- OK   7 statistikk rad 10 (Nav TILT110, Midlertidig lønnstilskudd, alle aldre) har alle felt
+- OK   7 statistikk rad 10 (Nav TILT110, Midlertidig lønnstilskudd, alle aldre) verdien 6028 står i statistikk/nav-tilt110-tiltak-og-alder.tsv
+- OK   7 statistikk rad 11 (Nav Arbeidsindikator tabell 4, Personer på midlertidig lønnstilskudd i ) har alle felt
+- OK   7 statistikk rad 11 (Nav Arbeidsindikator tabell 4, Personer på midlertidig lønnstilskudd i ) verdien 4768 står i statistikk/nav-arbeidsindikator-midlertidig-lonnstilskudd.tsv
+- OK   7 statistikk rad 12 (Nav Arbeidsindikator tabell 4, Personer på midlertidig lønnstilskudd i ) har alle felt
+- OK   7 statistikk rad 12 (Nav Arbeidsindikator tabell 4, Personer på midlertidig lønnstilskudd i ) verdien 7968 står i statistikk/nav-arbeidsindikator-midlertidig-lonnstilskudd.tsv
+- OK   7 statistikk rad 13 (Nav HL050, Helt ledige, alle aldre) har alle felt
+- OK   7 statistikk rad 13 (Nav HL050, Helt ledige, alle aldre) verdien 2 står i statistikk/nav-hl050-alder-prosent.tsv
+- OK   7 statistikk rad 14 (Nav HL050, Helt ledige, 20–24 år) har alle felt
+- OK   7 statistikk rad 14 (Nav HL050, Helt ledige, 20–24 år) verdien 2.6 står i statistikk/nav-hl050-alder-prosent.tsv
+- OK   7 statistikk rad 15 (Nav HL050, Helt ledige, 25–29 år) har alle felt
+- OK   7 statistikk rad 15 (Nav HL050, Helt ledige, 25–29 år) verdien 2.5 står i statistikk/nav-hl050-alder-prosent.tsv
+- OK   7 statistikk rad 16 (Eurostat edat_lfse_20, NEET-rate 15–29 år, Norge) har alle felt
+- OK   7 statistikk rad 16 (Eurostat edat_lfse_20, NEET-rate 15–29 år, Norge) verdien 7.0 står i statistikk/eurostat-edat_lfse_20.tsv
+- OK   7 statistikk rad 17 (Eurostat edat_lfse_20, NEET-rate 15–29 år, Norge) har alle felt
+- OK   7 statistikk rad 17 (Eurostat edat_lfse_20, NEET-rate 15–29 år, Norge) verdien 7.0 står i statistikk/eurostat-edat_lfse_20.tsv
+- OK   7 statistikk rad 18 (Eurostat edat_lfse_20, NEET-rate 15–29 år, Sverige) har alle felt
+- OK   7 statistikk rad 18 (Eurostat edat_lfse_20, NEET-rate 15–29 år, Sverige) verdien 5.9 står i statistikk/eurostat-edat_lfse_20.tsv
+- OK   7 statistikk rad 19 (Eurostat edat_lfse_20, NEET-rate 15–29 år, Danmark) har alle felt
+- OK   7 statistikk rad 19 (Eurostat edat_lfse_20, NEET-rate 15–29 år, Danmark) verdien 8.9 står i statistikk/eurostat-edat_lfse_20.tsv
+- OK   7 statistikk rad 20 (Eurostat edat_lfse_20, NEET-rate 15–29 år, Finland) har alle felt
+- OK   7 statistikk rad 20 (Eurostat edat_lfse_20, NEET-rate 15–29 år, Finland) verdien 11.2 står i statistikk/eurostat-edat_lfse_20.tsv
+- OK   7 statistikk rad 21 (Eurostat edat_lfse_20, NEET-rate 15–29 år, EU27) har alle felt
+- OK   7 statistikk rad 21 (Eurostat edat_lfse_20, NEET-rate 15–29 år, EU27) verdien 11.0 står i statistikk/eurostat-edat_lfse_20.tsv
+- OK   7 statistikk rad 22 (OECD DSD_LMP@DF_LMP, Utgifter til rekrutteringstilskudd, Norg) har alle felt
+- OK   7 statistikk rad 22 (OECD DSD_LMP@DF_LMP, Utgifter til rekrutteringstilskudd, Norg) verdien 0.081 står i statistikk/oecd-arbeidsmarkedstiltak.tsv
+- OK   7 statistikk rad 23 (OECD DSD_LMP@DF_LMP, Utgifter til rekrutteringstilskudd, Norg) har alle felt
+- OK   7 statistikk rad 23 (OECD DSD_LMP@DF_LMP, Utgifter til rekrutteringstilskudd, Norg) verdien 0.05 står i statistikk/oecd-arbeidsmarkedstiltak.tsv
+- OK   7 statistikk rad 24 (OECD DSD_LMP@DF_LMP, Utgifter til rekrutteringstilskudd, Sver) har alle felt
+- OK   7 statistikk rad 24 (OECD DSD_LMP@DF_LMP, Utgifter til rekrutteringstilskudd, Sver) verdien 0.282 står i statistikk/oecd-arbeidsmarkedstiltak.tsv
+- OK   7 statistikk rad 25 (OECD DSD_LMP@DF_LMP, Utgifter til rekrutteringstilskudd, Danm) har alle felt
+- OK   7 statistikk rad 25 (OECD DSD_LMP@DF_LMP, Utgifter til rekrutteringstilskudd, Danm) verdien 0.065 står i statistikk/oecd-arbeidsmarkedstiltak.tsv
+- OK   7 statistikk rad 26 (OECD DSD_LMP@DF_LMP, Utgifter til rekrutteringstilskudd, Finl) har alle felt
+- OK   7 statistikk rad 26 (OECD DSD_LMP@DF_LMP, Utgifter til rekrutteringstilskudd, Finl) verdien 0.045 står i statistikk/oecd-arbeidsmarkedstiltak.tsv
+- OK   7 statistikk rad 27 (OECD DSD_LMP@DF_LMP, Utgifter til rekrutteringstilskudd, OECD) har alle felt
+- OK   7 statistikk rad 27 (OECD DSD_LMP@DF_LMP, Utgifter til rekrutteringstilskudd, OECD) verdien 0.041 står i statistikk/oecd-arbeidsmarkedstiltak.tsv
+- OK   7 statistikk rad 28 (OECD DSD_LMP@DF_LMP, Deltakere i rekrutteringstilskudd, Norge) har alle felt
+- OK   7 statistikk rad 28 (OECD DSD_LMP@DF_LMP, Deltakere i rekrutteringstilskudd, Norge) verdien 0.435 står i statistikk/oecd-arbeidsmarkedstiltak.tsv
+- OK   7 statistikk rad 29 (OECD DSD_LMP@DF_LMP, Deltakere i rekrutteringstilskudd, Sveri) har alle felt
+- OK   7 statistikk rad 29 (OECD DSD_LMP@DF_LMP, Deltakere i rekrutteringstilskudd, Sveri) verdien 1.93 står i statistikk/oecd-arbeidsmarkedstiltak.tsv
+- OK   7 statistikk rad 30 (OECD DSD_LMP@DF_LMP, Deltakere i rekrutteringstilskudd, Danma) har alle felt
+- OK   7 statistikk rad 30 (OECD DSD_LMP@DF_LMP, Deltakere i rekrutteringstilskudd, Danma) verdien 1.03 står i statistikk/oecd-arbeidsmarkedstiltak.tsv
+- OK   7 statistikk rad 31 (OECD DSD_LMP@DF_LMP, Deltakere i rekrutteringstilskudd, OECD) har alle felt
+- OK   7 statistikk rad 31 (OECD DSD_LMP@DF_LMP, Deltakere i rekrutteringstilskudd, OECD) verdien 0.795 står i statistikk/oecd-arbeidsmarkedstiltak.tsv
+- OK   7 statistikk rad 32 (SSB 13760, Arbeidsledige i prosent av arbeidsstyrke) har alle felt
+- OK   7 statistikk rad 32 (SSB 13760, Arbeidsledige i prosent av arbeidsstyrke) verdien 12.6 står i statistikk/ssb-13760.csv
+- OK   7 statistikk rad 33 (SSB 13760, Arbeidsledige i prosent av arbeidsstyrke) har alle felt
+- OK   7 statistikk rad 33 (SSB 13760, Arbeidsledige i prosent av arbeidsstyrke) verdien 16.7 står i statistikk/ssb-13760.csv
+- OK   7 statistikk rad 34 (SSB 13760, Arbeidsledige i prosent av arbeidsstyrke) har alle felt
+- OK   7 statistikk rad 34 (SSB 13760, Arbeidsledige i prosent av arbeidsstyrke) verdien 5.0 står i statistikk/ssb-13760.csv
+- OK   8 figur-1-neet-norden: Norge 2005 = 9.1 står i statistikk/eurostat-edat_lfse_20.tsv
+- OK   8 figur-1-neet-norden: Norge 2006 = 6.0 står i statistikk/eurostat-edat_lfse_20.tsv
+- OK   8 figur-1-neet-norden: Norge 2007 = 5.6 står i statistikk/eurostat-edat_lfse_20.tsv
+- OK   8 figur-1-neet-norden: Norge 2008 = 5.2 står i statistikk/eurostat-edat_lfse_20.tsv
+- OK   8 figur-1-neet-norden: Norge 2009 = 6.2 står i statistikk/eurostat-edat_lfse_20.tsv
+- OK   8 figur-1-neet-norden: Norge 2010 = 6.7 står i statistikk/eurostat-edat_lfse_20.tsv
+- OK   8 figur-1-neet-norden: Norge 2011 = 6.6 står i statistikk/eurostat-edat_lfse_20.tsv
+- OK   8 figur-1-neet-norden: Norge 2012 = 6.4 står i statistikk/eurostat-edat_lfse_20.tsv
+- OK   8 figur-1-neet-norden: Norge 2013 = 7.0 står i statistikk/eurostat-edat_lfse_20.tsv
+- OK   8 figur-1-neet-norden: Norge 2014 = 7.1 står i statistikk/eurostat-edat_lfse_20.tsv
+- OK   8 figur-1-neet-norden: Norge 2015 = 7.0 står i statistikk/eurostat-edat_lfse_20.tsv
+- OK   8 figur-1-neet-norden: Norge 2016 = 7.1 står i statistikk/eurostat-edat_lfse_20.tsv
+- OK   8 figur-1-neet-norden: Norge 2017 = 6.4 står i statistikk/eurostat-edat_lfse_20.tsv
+- OK   8 figur-1-neet-norden: Norge 2018 = 6.5 står i statistikk/eurostat-edat_lfse_20.tsv
+- OK   8 figur-1-neet-norden: Norge 2019 = 6.4 står i statistikk/eurostat-edat_lfse_20.tsv
+- OK   8 figur-1-neet-norden: Norge 2020 = 6.6 står i statistikk/eurostat-edat_lfse_20.tsv
+- OK   8 figur-1-neet-norden: Norge 2021 = 7.4 står i statistikk/eurostat-edat_lfse_20.tsv
+- OK   8 figur-1-neet-norden: Norge 2022 = 6.8 står i statistikk/eurostat-edat_lfse_20.tsv
+- OK   8 figur-1-neet-norden: Norge 2023 = 6.4 står i statistikk/eurostat-edat_lfse_20.tsv
+- OK   8 figur-1-neet-norden: Norge 2024 = 6.8 står i statistikk/eurostat-edat_lfse_20.tsv
+- OK   8 figur-1-neet-norden: Norge 2025 = 7.0 står i statistikk/eurostat-edat_lfse_20.tsv
+- OK   8 figur-1-neet-norden: Sverige 2005 = 10.4 står i statistikk/eurostat-edat_lfse_20.tsv
+- OK   8 figur-1-neet-norden: Sverige 2006 = 9.6 står i statistikk/eurostat-edat_lfse_20.tsv
+- OK   8 figur-1-neet-norden: Sverige 2007 = 7.9 står i statistikk/eurostat-edat_lfse_20.tsv
+- OK   8 figur-1-neet-norden: Sverige 2008 = 8.0 står i statistikk/eurostat-edat_lfse_20.tsv
+- OK   8 figur-1-neet-norden: Sverige 2009 = 9.9 står i statistikk/eurostat-edat_lfse_20.tsv
+- OK   8 figur-1-neet-norden: Sverige 2010 = 8.3 står i statistikk/eurostat-edat_lfse_20.tsv
+- OK   8 figur-1-neet-norden: Sverige 2011 = 7.9 står i statistikk/eurostat-edat_lfse_20.tsv
+- OK   8 figur-1-neet-norden: Sverige 2012 = 8.4 står i statistikk/eurostat-edat_lfse_20.tsv
+- OK   8 figur-1-neet-norden: Sverige 2013 = 7.9 står i statistikk/eurostat-edat_lfse_20.tsv
+- OK   8 figur-1-neet-norden: Sverige 2014 = 7.8 står i statistikk/eurostat-edat_lfse_20.tsv
+- OK   8 figur-1-neet-norden: Sverige 2015 = 7.4 står i statistikk/eurostat-edat_lfse_20.tsv
+- OK   8 figur-1-neet-norden: Sverige 2016 = 7.1 står i statistikk/eurostat-edat_lfse_20.tsv
+- OK   8 figur-1-neet-norden: Sverige 2017 = 6.8 står i statistikk/eurostat-edat_lfse_20.tsv
+- OK   8 figur-1-neet-norden: Sverige 2018 = 6.9 står i statistikk/eurostat-edat_lfse_20.tsv
+- OK   8 figur-1-neet-norden: Sverige 2019 = 6.3 står i statistikk/eurostat-edat_lfse_20.tsv
+- OK   8 figur-1-neet-norden: Sverige 2020 = 7.2 står i statistikk/eurostat-edat_lfse_20.tsv
+- OK   8 figur-1-neet-norden: Sverige 2021 = 6.1 står i statistikk/eurostat-edat_lfse_20.tsv
+- OK   8 figur-1-neet-norden: Sverige 2022 = 5.6 står i statistikk/eurostat-edat_lfse_20.tsv
+- OK   8 figur-1-neet-norden: Sverige 2023 = 5.7 står i statistikk/eurostat-edat_lfse_20.tsv
+- OK   8 figur-1-neet-norden: Sverige 2024 = 6.3 står i statistikk/eurostat-edat_lfse_20.tsv
+- OK   8 figur-1-neet-norden: Sverige 2025 = 5.9 står i statistikk/eurostat-edat_lfse_20.tsv
+- OK   8 figur-1-neet-norden: Danmark 2005 = 5.9 står i statistikk/eurostat-edat_lfse_20.tsv
+- OK   8 figur-1-neet-norden: Danmark 2006 = 4.7 står i statistikk/eurostat-edat_lfse_20.tsv
+- OK   8 figur-1-neet-norden: Danmark 2007 = 5.3 står i statistikk/eurostat-edat_lfse_20.tsv
+- OK   8 figur-1-neet-norden: Danmark 2008 = 5.8 står i statistikk/eurostat-edat_lfse_20.tsv
+- OK   8 figur-1-neet-norden: Danmark 2009 = 7.4 står i statistikk/eurostat-edat_lfse_20.tsv
+- OK   8 figur-1-neet-norden: Danmark 2010 = 8.2 står i statistikk/eurostat-edat_lfse_20.tsv
+- OK   8 figur-1-neet-norden: Danmark 2011 = 8.4 står i statistikk/eurostat-edat_lfse_20.tsv
+- OK   8 figur-1-neet-norden: Danmark 2012 = 9.0 står i statistikk/eurostat-edat_lfse_20.tsv
+- OK   8 figur-1-neet-norden: Danmark 2013 = 8.2 står i statistikk/eurostat-edat_lfse_20.tsv
+- OK   8 figur-1-neet-norden: Danmark 2014 = 8.0 står i statistikk/eurostat-edat_lfse_20.tsv
+- OK   8 figur-1-neet-norden: Danmark 2015 = 8.5 står i statistikk/eurostat-edat_lfse_20.tsv
+- OK   8 figur-1-neet-norden: Danmark 2016 = 8.4 står i statistikk/eurostat-edat_lfse_20.tsv
+- OK   8 figur-1-neet-norden: Danmark 2017 = 9.8 står i statistikk/eurostat-edat_lfse_20.tsv
+- OK   8 figur-1-neet-norden: Danmark 2018 = 9.6 står i statistikk/eurostat-edat_lfse_20.tsv
+- OK   8 figur-1-neet-norden: Danmark 2019 = 9.6 står i statistikk/eurostat-edat_lfse_20.tsv
+- OK   8 figur-1-neet-norden: Danmark 2020 = 10.2 står i statistikk/eurostat-edat_lfse_20.tsv
+- OK   8 figur-1-neet-norden: Danmark 2021 = 8.4 står i statistikk/eurostat-edat_lfse_20.tsv
+- OK   8 figur-1-neet-norden: Danmark 2022 = 7.9 står i statistikk/eurostat-edat_lfse_20.tsv
+- OK   8 figur-1-neet-norden: Danmark 2023 = 8.6 står i statistikk/eurostat-edat_lfse_20.tsv
+- OK   8 figur-1-neet-norden: Danmark 2024 = 8.0 står i statistikk/eurostat-edat_lfse_20.tsv
+- OK   8 figur-1-neet-norden: Danmark 2025 = 8.9 står i statistikk/eurostat-edat_lfse_20.tsv
+- OK   8 figur-1-neet-norden: Finland 2005 = 9.5 står i statistikk/eurostat-edat_lfse_20.tsv
+- OK   8 figur-1-neet-norden: Finland 2006 = 9.4 står i statistikk/eurostat-edat_lfse_20.tsv
+- OK   8 figur-1-neet-norden: Finland 2007 = 8.4 står i statistikk/eurostat-edat_lfse_20.tsv
+- OK   8 figur-1-neet-norden: Finland 2008 = 8.9 står i statistikk/eurostat-edat_lfse_20.tsv
+- OK   8 figur-1-neet-norden: Finland 2009 = 11.3 står i statistikk/eurostat-edat_lfse_20.tsv
+- OK   8 figur-1-neet-norden: Finland 2010 = 10.5 står i statistikk/eurostat-edat_lfse_20.tsv
+- OK   8 figur-1-neet-norden: Finland 2011 = 10.0 står i statistikk/eurostat-edat_lfse_20.tsv
+- OK   8 figur-1-neet-norden: Finland 2012 = 10.4 står i statistikk/eurostat-edat_lfse_20.tsv
+- OK   8 figur-1-neet-norden: Finland 2013 = 10.9 står i statistikk/eurostat-edat_lfse_20.tsv
+- OK   8 figur-1-neet-norden: Finland 2014 = 11.8 står i statistikk/eurostat-edat_lfse_20.tsv
+- OK   8 figur-1-neet-norden: Finland 2015 = 12.4 står i statistikk/eurostat-edat_lfse_20.tsv
+- OK   8 figur-1-neet-norden: Finland 2016 = 11.7 står i statistikk/eurostat-edat_lfse_20.tsv
+- OK   8 figur-1-neet-norden: Finland 2017 = 10.9 står i statistikk/eurostat-edat_lfse_20.tsv
+- OK   8 figur-1-neet-norden: Finland 2018 = 10.1 står i statistikk/eurostat-edat_lfse_20.tsv
+- OK   8 figur-1-neet-norden: Finland 2019 = 9.5 står i statistikk/eurostat-edat_lfse_20.tsv
+- OK   8 figur-1-neet-norden: Finland 2020 = 10.3 står i statistikk/eurostat-edat_lfse_20.tsv
+- OK   8 figur-1-neet-norden: Finland 2021 = 9.3 står i statistikk/eurostat-edat_lfse_20.tsv
+- OK   8 figur-1-neet-norden: Finland 2022 = 9.5 står i statistikk/eurostat-edat_lfse_20.tsv
+- OK   8 figur-1-neet-norden: Finland 2023 = 9.4 står i statistikk/eurostat-edat_lfse_20.tsv
+- OK   8 figur-1-neet-norden: Finland 2024 = 10.0 står i statistikk/eurostat-edat_lfse_20.tsv
+- OK   8 figur-1-neet-norden: Finland 2025 = 11.2 står i statistikk/eurostat-edat_lfse_20.tsv
+- OK   8 figur-1-neet-norden: EU 2005 = 15.3 står i statistikk/eurostat-edat_lfse_20.tsv
+- OK   8 figur-1-neet-norden: EU 2006 = 14.1 står i statistikk/eurostat-edat_lfse_20.tsv
+- OK   8 figur-1-neet-norden: EU 2007 = 13.2 står i statistikk/eurostat-edat_lfse_20.tsv
+- OK   8 figur-1-neet-norden: EU 2008 = 13.0 står i statistikk/eurostat-edat_lfse_20.tsv
+- OK   8 figur-1-neet-norden: EU 2009 = 14.8 står i statistikk/eurostat-edat_lfse_20.tsv
+- OK   8 figur-1-neet-norden: EU 2010 = 15.4 står i statistikk/eurostat-edat_lfse_20.tsv
+- OK   8 figur-1-neet-norden: EU 2011 = 15.4 står i statistikk/eurostat-edat_lfse_20.tsv
+- OK   8 figur-1-neet-norden: EU 2012 = 16.0 står i statistikk/eurostat-edat_lfse_20.tsv
+- OK   8 figur-1-neet-norden: EU 2013 = 16.1 står i statistikk/eurostat-edat_lfse_20.tsv
+- OK   8 figur-1-neet-norden: EU 2014 = 15.7 står i statistikk/eurostat-edat_lfse_20.tsv
+- OK   8 figur-1-neet-norden: EU 2015 = 15.2 står i statistikk/eurostat-edat_lfse_20.tsv
+- OK   8 figur-1-neet-norden: EU 2016 = 14.5 står i statistikk/eurostat-edat_lfse_20.tsv
+- OK   8 figur-1-neet-norden: EU 2017 = 13.7 står i statistikk/eurostat-edat_lfse_20.tsv
+- OK   8 figur-1-neet-norden: EU 2018 = 13.1 står i statistikk/eurostat-edat_lfse_20.tsv
+- OK   8 figur-1-neet-norden: EU 2019 = 12.5 står i statistikk/eurostat-edat_lfse_20.tsv
+- OK   8 figur-1-neet-norden: EU 2020 = 13.8 står i statistikk/eurostat-edat_lfse_20.tsv
+- OK   8 figur-1-neet-norden: EU 2021 = 13.1 står i statistikk/eurostat-edat_lfse_20.tsv
+- OK   8 figur-1-neet-norden: EU 2022 = 11.7 står i statistikk/eurostat-edat_lfse_20.tsv
+- OK   8 figur-1-neet-norden: EU 2023 = 11.3 står i statistikk/eurostat-edat_lfse_20.tsv
+- OK   8 figur-1-neet-norden: EU 2024 = 11.2 står i statistikk/eurostat-edat_lfse_20.tsv
+- OK   8 figur-1-neet-norden: EU 2025 = 11.0 står i statistikk/eurostat-edat_lfse_20.tsv
+- OK   8 figur-2-aku-ledighet: 15–24 år 2015 = 12.6 står i statistikk/ssb-13760.csv
+- OK   8 figur-2-aku-ledighet: 15–24 år 2016 = 12.4 står i statistikk/ssb-13760.csv
+- OK   8 figur-2-aku-ledighet: 15–24 år 2017 = 13.2 står i statistikk/ssb-13760.csv
+- OK   8 figur-2-aku-ledighet: 15–24 år 2018 = 11.8 står i statistikk/ssb-13760.csv
+- OK   8 figur-2-aku-ledighet: 15–24 år 2019 = 10.6 står i statistikk/ssb-13760.csv
+- OK   8 figur-2-aku-ledighet: 15–24 år 2020 = 14.5 står i statistikk/ssb-13760.csv
+- OK   8 figur-2-aku-ledighet: 15–24 år 2021 = 13.1 står i statistikk/ssb-13760.csv
+- OK   8 figur-2-aku-ledighet: 15–24 år 2022 = 10.6 står i statistikk/ssb-13760.csv
+- OK   8 figur-2-aku-ledighet: 15–24 år 2023 = 10.4 står i statistikk/ssb-13760.csv
+- OK   8 figur-2-aku-ledighet: 15–24 år 2024 = 12.5 står i statistikk/ssb-13760.csv
+- OK   8 figur-2-aku-ledighet: 15–24 år 2025 = 14.3 står i statistikk/ssb-13760.csv
+- OK   8 figur-2-aku-ledighet: 15–24 år 2026 = 16.7 står i statistikk/ssb-13760.csv
+- OK   8 figur-2-aku-ledighet: Alle 15–74 år 2015 = 4.8 står i statistikk/ssb-13760.csv
+- OK   8 figur-2-aku-ledighet: Alle 15–74 år 2016 = 4.7 står i statistikk/ssb-13760.csv
+- OK   8 figur-2-aku-ledighet: Alle 15–74 år 2017 = 4.2 står i statistikk/ssb-13760.csv
+- OK   8 figur-2-aku-ledighet: Alle 15–74 år 2018 = 4.4 står i statistikk/ssb-13760.csv
+- OK   8 figur-2-aku-ledighet: Alle 15–74 år 2019 = 3.5 står i statistikk/ssb-13760.csv
+- OK   8 figur-2-aku-ledighet: Alle 15–74 år 2020 = 5.2 står i statistikk/ssb-13760.csv
+- OK   8 figur-2-aku-ledighet: Alle 15–74 år 2021 = 3.7 står i statistikk/ssb-13760.csv
+- OK   8 figur-2-aku-ledighet: Alle 15–74 år 2022 = 3.4 står i statistikk/ssb-13760.csv
+- OK   8 figur-2-aku-ledighet: Alle 15–74 år 2023 = 3.4 står i statistikk/ssb-13760.csv
+- OK   8 figur-2-aku-ledighet: Alle 15–74 år 2024 = 4.0 står i statistikk/ssb-13760.csv
+- OK   8 figur-2-aku-ledighet: Alle 15–74 år 2025 = 4.7 står i statistikk/ssb-13760.csv
+- OK   8 figur-2-aku-ledighet: Alle 15–74 år 2026 = 5.0 står i statistikk/ssb-13760.csv
+- OK   8 figur-3-rekrutteringstilskudd: Norge 2005 = 0.546 står i statistikk/oecd-arbeidsmarkedstiltak.tsv
+- OK   8 figur-3-rekrutteringstilskudd: Norge 2006 = 0.493 står i statistikk/oecd-arbeidsmarkedstiltak.tsv
+- OK   8 figur-3-rekrutteringstilskudd: Norge 2007 = 0.46 står i statistikk/oecd-arbeidsmarkedstiltak.tsv
+- OK   8 figur-3-rekrutteringstilskudd: Norge 2008 = 0.446 står i statistikk/oecd-arbeidsmarkedstiltak.tsv
+- OK   8 figur-3-rekrutteringstilskudd: Norge 2009 = 0.583 står i statistikk/oecd-arbeidsmarkedstiltak.tsv
+- OK   8 figur-3-rekrutteringstilskudd: Norge 2010 = 0.652 står i statistikk/oecd-arbeidsmarkedstiltak.tsv
+- OK   8 figur-3-rekrutteringstilskudd: Norge 2011 = 0.644 står i statistikk/oecd-arbeidsmarkedstiltak.tsv
+- OK   8 figur-3-rekrutteringstilskudd: Norge 2012 = 0.669 står i statistikk/oecd-arbeidsmarkedstiltak.tsv
+- OK   8 figur-3-rekrutteringstilskudd: Norge 2013 = 0.674 står i statistikk/oecd-arbeidsmarkedstiltak.tsv
+- OK   8 figur-3-rekrutteringstilskudd: Norge 2014 = 0.605 står i statistikk/oecd-arbeidsmarkedstiltak.tsv
+- OK   8 figur-3-rekrutteringstilskudd: Norge 2015 = 0.638 står i statistikk/oecd-arbeidsmarkedstiltak.tsv
+- OK   8 figur-3-rekrutteringstilskudd: Norge 2016 = 0.754 står i statistikk/oecd-arbeidsmarkedstiltak.tsv
+- OK   8 figur-3-rekrutteringstilskudd: Norge 2017 = 0.786 står i statistikk/oecd-arbeidsmarkedstiltak.tsv
+- OK   8 figur-3-rekrutteringstilskudd: Norge 2018 = 0.638 står i statistikk/oecd-arbeidsmarkedstiltak.tsv
+- OK   8 figur-3-rekrutteringstilskudd: Norge 2019 = 0.546 står i statistikk/oecd-arbeidsmarkedstiltak.tsv
+- OK   8 figur-3-rekrutteringstilskudd: Norge 2020 = 0.456 står i statistikk/oecd-arbeidsmarkedstiltak.tsv
+- OK   8 figur-3-rekrutteringstilskudd: Norge 2021 = 0.515 står i statistikk/oecd-arbeidsmarkedstiltak.tsv
+- OK   8 figur-3-rekrutteringstilskudd: Norge 2022 = 0.451 står i statistikk/oecd-arbeidsmarkedstiltak.tsv
+- OK   8 figur-3-rekrutteringstilskudd: Norge 2023 = 0.333 står i statistikk/oecd-arbeidsmarkedstiltak.tsv
+- OK   8 figur-3-rekrutteringstilskudd: Norge 2024 = 0.435 står i statistikk/oecd-arbeidsmarkedstiltak.tsv
+- OK   8 figur-3-rekrutteringstilskudd: Sverige 2005 = 2.26 står i statistikk/oecd-arbeidsmarkedstiltak.tsv
+- OK   8 figur-3-rekrutteringstilskudd: Sverige 2006 = 2.49 står i statistikk/oecd-arbeidsmarkedstiltak.tsv
+- OK   8 figur-3-rekrutteringstilskudd: Sverige 2007 = 2.24 står i statistikk/oecd-arbeidsmarkedstiltak.tsv
+- OK   8 figur-3-rekrutteringstilskudd: Sverige 2008 = 2.05 står i statistikk/oecd-arbeidsmarkedstiltak.tsv
+- OK   8 figur-3-rekrutteringstilskudd: Sverige 2009 = 2.2 står i statistikk/oecd-arbeidsmarkedstiltak.tsv
+- OK   8 figur-3-rekrutteringstilskudd: Sverige 2010 = 2.98 står i statistikk/oecd-arbeidsmarkedstiltak.tsv
+- OK   8 figur-3-rekrutteringstilskudd: Sverige 2011 = 3.14 står i statistikk/oecd-arbeidsmarkedstiltak.tsv
+- OK   8 figur-3-rekrutteringstilskudd: Sverige 2012 = 3.27 står i statistikk/oecd-arbeidsmarkedstiltak.tsv
+- OK   8 figur-3-rekrutteringstilskudd: Sverige 2013 = 3.33 står i statistikk/oecd-arbeidsmarkedstiltak.tsv
+- OK   8 figur-3-rekrutteringstilskudd: Sverige 2014 = 3.32 står i statistikk/oecd-arbeidsmarkedstiltak.tsv
+- OK   8 figur-3-rekrutteringstilskudd: Sverige 2015 = 3.21 står i statistikk/oecd-arbeidsmarkedstiltak.tsv
+- OK   8 figur-3-rekrutteringstilskudd: Sverige 2016 = 2.9 står i statistikk/oecd-arbeidsmarkedstiltak.tsv
+- OK   8 figur-3-rekrutteringstilskudd: Sverige 2017 = 2.76 står i statistikk/oecd-arbeidsmarkedstiltak.tsv
+- OK   8 figur-3-rekrutteringstilskudd: Sverige 2018 = 2.63 står i statistikk/oecd-arbeidsmarkedstiltak.tsv
+- OK   8 figur-3-rekrutteringstilskudd: Sverige 2019 = 2.45 står i statistikk/oecd-arbeidsmarkedstiltak.tsv
+- OK   8 figur-3-rekrutteringstilskudd: Sverige 2020 = 2.33 står i statistikk/oecd-arbeidsmarkedstiltak.tsv
+- OK   8 figur-3-rekrutteringstilskudd: Sverige 2021 = 2.46 står i statistikk/oecd-arbeidsmarkedstiltak.tsv
+- OK   8 figur-3-rekrutteringstilskudd: Sverige 2022 = 2.3 står i statistikk/oecd-arbeidsmarkedstiltak.tsv
+- OK   8 figur-3-rekrutteringstilskudd: Sverige 2023 = 2.08 står i statistikk/oecd-arbeidsmarkedstiltak.tsv
+- OK   8 figur-3-rekrutteringstilskudd: Sverige 2024 = 1.93 står i statistikk/oecd-arbeidsmarkedstiltak.tsv
+- OK   8 figur-3-rekrutteringstilskudd: Danmark 2005 = 1.02 står i statistikk/oecd-arbeidsmarkedstiltak.tsv
+- OK   8 figur-3-rekrutteringstilskudd: Danmark 2006 = 0.867 står i statistikk/oecd-arbeidsmarkedstiltak.tsv
+- OK   8 figur-3-rekrutteringstilskudd: Danmark 2007 = 0.748 står i statistikk/oecd-arbeidsmarkedstiltak.tsv
+- OK   8 figur-3-rekrutteringstilskudd: Danmark 2008 = 0.774 står i statistikk/oecd-arbeidsmarkedstiltak.tsv
+- OK   8 figur-3-rekrutteringstilskudd: Danmark 2009 = 1.05 står i statistikk/oecd-arbeidsmarkedstiltak.tsv
+- OK   8 figur-3-rekrutteringstilskudd: Danmark 2010 = 1.54 står i statistikk/oecd-arbeidsmarkedstiltak.tsv
+- OK   8 figur-3-rekrutteringstilskudd: Danmark 2011 = 1.98 står i statistikk/oecd-arbeidsmarkedstiltak.tsv
+- OK   8 figur-3-rekrutteringstilskudd: Danmark 2012 = 1.85 står i statistikk/oecd-arbeidsmarkedstiltak.tsv
+- OK   8 figur-3-rekrutteringstilskudd: Danmark 2013 = 1.8 står i statistikk/oecd-arbeidsmarkedstiltak.tsv
+- OK   8 figur-3-rekrutteringstilskudd: Danmark 2014 = 1.77 står i statistikk/oecd-arbeidsmarkedstiltak.tsv
+- OK   8 figur-3-rekrutteringstilskudd: Danmark 2015 = 1.74 står i statistikk/oecd-arbeidsmarkedstiltak.tsv
+- OK   8 figur-3-rekrutteringstilskudd: Danmark 2016 = 1.84 står i statistikk/oecd-arbeidsmarkedstiltak.tsv
+- OK   8 figur-3-rekrutteringstilskudd: Danmark 2017 = 1.76 står i statistikk/oecd-arbeidsmarkedstiltak.tsv
+- OK   8 figur-3-rekrutteringstilskudd: Danmark 2018 = 1.67 står i statistikk/oecd-arbeidsmarkedstiltak.tsv
+- OK   8 figur-3-rekrutteringstilskudd: Danmark 2019 = 1.67 står i statistikk/oecd-arbeidsmarkedstiltak.tsv
+- OK   8 figur-3-rekrutteringstilskudd: Danmark 2020 = 1.17 står i statistikk/oecd-arbeidsmarkedstiltak.tsv
+- OK   8 figur-3-rekrutteringstilskudd: Danmark 2021 = 0.976 står i statistikk/oecd-arbeidsmarkedstiltak.tsv
+- OK   8 figur-3-rekrutteringstilskudd: Danmark 2022 = 1.08 står i statistikk/oecd-arbeidsmarkedstiltak.tsv
+- OK   8 figur-3-rekrutteringstilskudd: Danmark 2023 = 1.06 står i statistikk/oecd-arbeidsmarkedstiltak.tsv
+- OK   8 figur-3-rekrutteringstilskudd: Danmark 2024 = 1.03 står i statistikk/oecd-arbeidsmarkedstiltak.tsv
+- OK   8 figur-3-rekrutteringstilskudd: Finland 2005 = 0.734 står i statistikk/oecd-arbeidsmarkedstiltak.tsv
+- OK   8 figur-3-rekrutteringstilskudd: Finland 2006 = 0.637 står i statistikk/oecd-arbeidsmarkedstiltak.tsv
+- OK   8 figur-3-rekrutteringstilskudd: Finland 2007 = 0.589 står i statistikk/oecd-arbeidsmarkedstiltak.tsv
+- OK   8 figur-3-rekrutteringstilskudd: Finland 2008 = 0.537 står i statistikk/oecd-arbeidsmarkedstiltak.tsv
+- OK   8 figur-3-rekrutteringstilskudd: Finland 2009 = 0.483 står i statistikk/oecd-arbeidsmarkedstiltak.tsv
+- OK   8 figur-3-rekrutteringstilskudd: Finland 2010 = 0.533 står i statistikk/oecd-arbeidsmarkedstiltak.tsv
+- OK   8 figur-3-rekrutteringstilskudd: Finland 2011 = 0.552 står i statistikk/oecd-arbeidsmarkedstiltak.tsv
+- OK   8 figur-3-rekrutteringstilskudd: Finland 2012 = 0.481 står i statistikk/oecd-arbeidsmarkedstiltak.tsv
+- OK   8 figur-3-rekrutteringstilskudd: Finland 2013 = 0.554 står i statistikk/oecd-arbeidsmarkedstiltak.tsv
+- OK   8 figur-3-rekrutteringstilskudd: Finland 2014 = 0.7 står i statistikk/oecd-arbeidsmarkedstiltak.tsv
+- OK   8 figur-3-rekrutteringstilskudd: Finland 2015 = 0.46 står i statistikk/oecd-arbeidsmarkedstiltak.tsv
+- OK   8 figur-3-rekrutteringstilskudd: Finland 2016 = 0.409 står i statistikk/oecd-arbeidsmarkedstiltak.tsv
+- OK   8 figur-3-rekrutteringstilskudd: Finland 2017 = 0.439 står i statistikk/oecd-arbeidsmarkedstiltak.tsv
+- OK   8 figur-3-rekrutteringstilskudd: Finland 2018 = 0.467 står i statistikk/oecd-arbeidsmarkedstiltak.tsv
+- OK   8 figur-3-rekrutteringstilskudd: Finland 2019 = 0.455 står i statistikk/oecd-arbeidsmarkedstiltak.tsv
+- OK   8 figur-3-rekrutteringstilskudd: Finland 2020 = 0.418 står i statistikk/oecd-arbeidsmarkedstiltak.tsv
+- OK   8 figur-3-rekrutteringstilskudd: Finland 2021 = 0.485 står i statistikk/oecd-arbeidsmarkedstiltak.tsv
+- OK   8 figur-3-rekrutteringstilskudd: Finland 2022 = 0.587 står i statistikk/oecd-arbeidsmarkedstiltak.tsv
+- OK   8 figur-3-rekrutteringstilskudd: Finland 2023 = 0.686 står i statistikk/oecd-arbeidsmarkedstiltak.tsv
+- OK   8 figur-3-rekrutteringstilskudd: Finland 2024 = 0.725 står i statistikk/oecd-arbeidsmarkedstiltak.tsv
+- OK   8 figur-3-rekrutteringstilskudd: OECD 2005 = 1.14 står i statistikk/oecd-arbeidsmarkedstiltak.tsv
+- OK   8 figur-3-rekrutteringstilskudd: OECD 2006 = 1.11 står i statistikk/oecd-arbeidsmarkedstiltak.tsv
+- OK   8 figur-3-rekrutteringstilskudd: OECD 2007 = 1.25 står i statistikk/oecd-arbeidsmarkedstiltak.tsv
+- OK   8 figur-3-rekrutteringstilskudd: OECD 2008 = 1.05 står i statistikk/oecd-arbeidsmarkedstiltak.tsv
+- OK   8 figur-3-rekrutteringstilskudd: OECD 2009 = 1.03 står i statistikk/oecd-arbeidsmarkedstiltak.tsv
+- OK   8 figur-3-rekrutteringstilskudd: OECD 2010 = 1.11 står i statistikk/oecd-arbeidsmarkedstiltak.tsv
+- OK   8 figur-3-rekrutteringstilskudd: OECD 2011 = 1.08 står i statistikk/oecd-arbeidsmarkedstiltak.tsv
+- OK   8 figur-3-rekrutteringstilskudd: OECD 2012 = 1.15 står i statistikk/oecd-arbeidsmarkedstiltak.tsv
+- OK   8 figur-3-rekrutteringstilskudd: OECD 2013 = 1.09 står i statistikk/oecd-arbeidsmarkedstiltak.tsv
+- OK   8 figur-3-rekrutteringstilskudd: OECD 2014 = 1.04 står i statistikk/oecd-arbeidsmarkedstiltak.tsv
+- OK   8 figur-3-rekrutteringstilskudd: OECD 2015 = 1.1 står i statistikk/oecd-arbeidsmarkedstiltak.tsv
+- OK   8 figur-3-rekrutteringstilskudd: OECD 2016 = 1.21 står i statistikk/oecd-arbeidsmarkedstiltak.tsv
+- OK   8 figur-3-rekrutteringstilskudd: OECD 2017 = 1.24 står i statistikk/oecd-arbeidsmarkedstiltak.tsv
+- OK   8 figur-3-rekrutteringstilskudd: OECD 2018 = 1.11 står i statistikk/oecd-arbeidsmarkedstiltak.tsv
+- OK   8 figur-3-rekrutteringstilskudd: OECD 2019 = 0.987 står i statistikk/oecd-arbeidsmarkedstiltak.tsv
+- OK   8 figur-3-rekrutteringstilskudd: OECD 2020 = 0.98 står i statistikk/oecd-arbeidsmarkedstiltak.tsv
+- OK   8 figur-3-rekrutteringstilskudd: OECD 2021 = 1.63 står i statistikk/oecd-arbeidsmarkedstiltak.tsv
+- OK   8 figur-3-rekrutteringstilskudd: OECD 2022 = 1.18 står i statistikk/oecd-arbeidsmarkedstiltak.tsv
+- OK   8 figur-3-rekrutteringstilskudd: OECD 2023 = 0.962 står i statistikk/oecd-arbeidsmarkedstiltak.tsv
+- OK   8 figur-3-rekrutteringstilskudd: OECD 2024 = 0.795 står i statistikk/oecd-arbeidsmarkedstiltak.tsv
+- OK   8 figuren figurer/figur-1-neet-norden.png er laget
+- OK   8 figuren figurer/figur-1-neet-norden.png er lenket i svaret
+- OK   8 figuren figurer/figur-2-aku-ledighet.png er laget
+- OK   8 figuren figurer/figur-2-aku-ledighet.png er lenket i svaret
+- OK   8 figuren figurer/figur-3-rekrutteringstilskudd.png er laget
+- OK   8 figuren figurer/figur-3-rekrutteringstilskudd.png er lenket i svaret
+- OK   5 tallet 0.01 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 0.02 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 0.04 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 0.041 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 0.045 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 0.05 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 0.06 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 0.065 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 0.07 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 0.081 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 0.1 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 0.11 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 0.2 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 0.20 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 0.23 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 0.24 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 0.282 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 0.36 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 0.435 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 0.5 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 0.7 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 0.795 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 0.8 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 050 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 1.0 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 1.03 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 1.2 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 1.22 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 1.50 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 1.6 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 1.8 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 1.93 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 10.5 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 10.65 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 11 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 11.0 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 11.2 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 11.67 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 110 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 1117000 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 11824 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 12 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 12.6 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 120 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 128 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 13 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 134 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 137 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 14 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 141 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 14565 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 15 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 1597 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 16 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 16.7 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 1675 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 17 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 18 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 18.1 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 19 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 199 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 2.5 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 2.6 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 2.62 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 2.8 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 20 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 200 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 200000 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 202139 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 21 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 22 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 229 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 23 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 24 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 25 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 26 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 29 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 3.0 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 3.5 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 30 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 30.9 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 307 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 31.7 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 3200 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 33 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 35 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 36 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 3781 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 38 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 4.2 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 4.7 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 40 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 40.6 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 408 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 41.4 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 42 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 425 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 44 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 44.9 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 45 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 45.9 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 4768 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 48 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 4854 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 5.0 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 5.2 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 5.9 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 50 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 524000 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 54 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 56731 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 59 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 59745 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 6.1 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 60 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 6028 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 62 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 6493 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 65 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 65000 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 67 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 670000 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 685 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 7.0 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 7.5 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 7.7 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 76000 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 778 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 7968 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 8.9 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 82 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 9.9 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 90 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 968910 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 97.8 i svaret finnes i estimat- eller statistikktabellen
+- OK   6 utelatt W2549601609 «How unemployment and precarious employment affect the health of young » (2016) – helse, kriminalitet eller trivsel som utfall, ikke arbeid
+- OK   6 utelatt W2760744913 «Active Labour Market Programmes in Latin America and the Caribbean: Ev» (2018) – land utenfor Europa eller lav- og mellominntektsland, ikke randomisert forsøk innenfor mandatet
+- OK   6 utelatt W1965203923 «What active labour market programmes work for immigrants in Europe? A » (2014) – valgt i det blinde utvalget, men holdt utenfor: oversikt eller studie av arbeidsmarkedstiltak generelt, uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W4206239023 «Active Labor Market Policy Evaluations: A Meta-Analysis» (2009) – samme materiale som W2902868850 (Card, Kluve og Weber), annen versjon
+- OK   6 utelatt W2988534780 «The impact of Active Labour Market Policies on health outcomes: a Scop» (2019) – helse, kriminalitet eller trivsel som utfall, ikke arbeid
+- OK   6 utelatt W82406113 «Active Labour Market Programme Participation for Unemployment Insuranc» (2015) – valgt i det blinde utvalget, men holdt utenfor: oversikt eller studie av arbeidsmarkedstiltak generelt, uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2959368943 «PROTOCOL: Interventions to Improve Labour Market Outcomes of Youth: A » (2014) – protokoll for W119749001 (Kluve mfl.), som er valgt
+- OK   6 utelatt W1759511778 «What works for whom? A review of evidence and meta-analysis» (2007) – valgt i det blinde utvalget, men holdt utenfor: handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2956924494 «PROTOCOL: Active Labour Market Programme Participation for Unemploymen» (2013) – valgt i det blinde utvalget, men holdt utenfor: oversikt eller studie av arbeidsmarkedstiltak generelt, uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W3205749580 «Flexibilizing the Retirement Transition: Why, How and for Whom? Concep» (2021) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W3124553479 «What Active Labour Market Programmes Work for Immigrants in Europe? A » (2013) – valgt i det blinde utvalget, men holdt utenfor: oversikt eller studie av arbeidsmarkedstiltak generelt, uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W1578703250 «Youth wage subsidy as a possible solution to youth unemployment in Sou» (2013) – land utenfor Europa eller lav- og mellominntektsland, ikke randomisert forsøk innenfor mandatet
+- OK   6 utelatt W7160554371 «Employment of persons with disabilities in the open labour market: A s» (2026) – land utenfor Europa eller lav- og mellominntektsland, ikke randomisert forsøk innenfor mandatet
+- OK   6 utelatt W3013216181 «The Role of Institutions in the Labor Market Impact of Immigration» (2019) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W4405581782 «A scoping review of COVID-19 economic response policies in the MENA co» (2024) – land utenfor Europa eller lav- og mellominntektsland, ikke randomisert forsøk innenfor mandatet
+- OK   6 utelatt W3124497094 «Active Labour Market Programmes in Latin America and the Caribbean: Ev» (2018) – land utenfor Europa eller lav- og mellominntektsland, ikke randomisert forsøk innenfor mandatet
+- OK   6 utelatt W4235870139 «Creating active labour markets: how to improve employment outcomes for» (2017) – oversikt eller studie av arbeidsmarkedstiltak generelt, uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W7115327050 «What Works for Active Labor Market Policies?» (2019) – samme materiale som W4408632418 (Levy Yeyati mfl.), annen versjon
+- OK   6 utelatt W3148514376 «Youth Employability and Employment from the Perspective of Active Labo» (2014) – oversikt eller studie av arbeidsmarkedstiltak generelt, uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W4412465432 «Active Labour Market Policies Targeting Youth in the Arab Region: A Re» (2025) – oversikt eller studie av arbeidsmarkedstiltak generelt, uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W4299440922 «Active Labor Market Policy Evaluations – A Meta-analysis» (2009) – samme materiale som W2902868850 (Card, Kluve og Weber), annen versjon
+- OK   6 utelatt W2908262949 «Looking over the Fence: Findings from UK and US Programme Reviews» (2018) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2890986294 «EDUCATION, WORK, AND CRIME: A HUMAN CAPITAL APPROACH*» (2004) – helse, kriminalitet eller trivsel som utfall, ikke arbeid
+- OK   6 utelatt W2057867827 «A Microeconometric Evaluation of the Active Labour Market Policy in Sw» (2002) – metodelitteratur, ikke en studie av tiltaket
+- OK   6 utelatt W1582975199 «Does Active Labour Market Policy Work? Lessons from the Swedish Experi» (2002) – oversikt eller studie av arbeidsmarkedstiltak generelt, uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2168415909 «The use of propensity score matching in the evaluation of active labou» (2002) – metodelitteratur, ikke en studie av tiltaket
+- OK   6 utelatt W2604058646 «How Effective Are Active Labor Market Policies in Developing Countries» (2017) – land utenfor Europa eller lav- og mellominntektsland, ikke randomisert forsøk innenfor mandatet
+- OK   6 utelatt W1520618467 «The Effectiveness of European Active Labor Market Policy» (2006) – trolig samme materiale som W2010586812 (Kluve), arbeidsnotatversjon
+- OK   6 utelatt W2282815948 «The Effects of Youth Employment: Evidence from New York City Lotteries» (2015) – skattelettelser, avgiftslettelser eller minstelønn, holdt utenfor i mandatet
+- OK   6 utelatt W1592748827 «The Role of Short-Time Work Schemes during the 2008-09 Recession» (2011) – krisestøtte for å beholde ansatte (korttidsarbeid, covid), ikke lønnstilskudd for å ansette ledige
+- OK   6 utelatt W3121516253 «Minimum Wages, Labor Market Institutions, and Youth Employment: A Cros» (2004) – skattelettelser, avgiftslettelser eller minstelønn, holdt utenfor i mandatet
+- OK   6 utelatt W3103855529 «Tackling Youth Unemployment: Evidence From a Labor Market Experiment i» (2020) – land utenfor Europa eller lav- og mellominntektsland, ikke randomisert forsøk innenfor mandatet
+- OK   6 utelatt W3121601741 «The employment effects of low-wage subsidies» (2012) – lønnstilskudd eller sysselsettingstilskudd vurdert på tittel og sammendrag: teori, makromodell, studie av andre grupper eller annet land utenfor mandatet
+- OK   6 utelatt W1989434576 «To Stay or Not to Stay? Out‐Migration of Immigrants from Denmark» (2007) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2024800913 «Getting a Job in Europe: The Transition from Unemployment to Work amon» (2001) – årsaker til eller følger av ungdomsledighet, ikke effekt av et tiltak
+- OK   6 utelatt W2162627374 «Programme Evaluation with Multiple Treatments» (2004) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W1608116343 «Evaluating the employment impact of a mandatory job search assistance » (2017) – valgt i det blinde utvalget, men holdt utenfor: annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W1568986015 «Unemployment Policy: Government Options for the Labour Market» (2008) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2054758197 «Education, Work, and Crime: A Human Capital Approach» (2004) – helse, kriminalitet eller trivsel som utfall, ikke arbeid
+- OK   6 utelatt W2119377373 «Assisting the Transition from Workfare to Work: A Randomized Experimen» (2004) – land utenfor Europa eller lav- og mellominntektsland, ikke randomisert forsøk innenfor mandatet
+- OK   6 utelatt W2088802147 «Wage subsidies and hiring chances for the disabled: some causal eviden» (2014) – lønnstilskudd for eldre, innvandrere eller personer med funksjonsnedsettelse uten egne resultater for unge
+- OK   6 utelatt W1593122740 «Low-Wage Employment Subsidies versus the Welfare State» (2016) – lønnstilskudd eller sysselsettingstilskudd vurdert på tittel og sammendrag: teori, makromodell, studie av andre grupper eller annet land utenfor mandatet
+- OK   6 utelatt W2145371006 «What Did All the Money Do? On the General Ineffectiveness of Recent We» (2008) – oversikt eller studie av arbeidsmarkedstiltak generelt, uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2487068818 «Active Labour Market Policies and Welfare Reform» (2007) – oversikt eller studie av arbeidsmarkedstiltak generelt, uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2075116462 «Do employment subsidies work? Evidence from regionally targeted subsid» (2010) – land utenfor Europa eller lav- og mellominntektsland, ikke randomisert forsøk innenfor mandatet
+- OK   6 utelatt W2020937758 «Effective Active Labor Market Policies» (2004) – oversikt eller studie av arbeidsmarkedstiltak generelt, uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W3123118817 «Evaluating the Employment Impact of a Mandatory Job Search Programme» (2003) – valgt i det blinde utvalget, men holdt utenfor: annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2587641813 «Taxes, subsidies and equilibrium labor market outcomes» (2003) – lønnstilskudd eller sysselsettingstilskudd vurdert på tittel og sammendrag: teori, makromodell, studie av andre grupper eller annet land utenfor mandatet
+- OK   6 utelatt W2610718453 «Why so slow? The school-to-work transition in Italy» (2018) – årsaker til eller følger av ungdomsledighet, ikke effekt av et tiltak
+- OK   6 utelatt W1956568142 «DO HIRING SUBSIDIES REDUCE UNEMPLOYMENT AMONG OLDER WORKERS? EVIDENCE » (2012) – lønnstilskudd for eldre, innvandrere eller personer med funksjonsnedsettelse uten egne resultater for unge
+- OK   6 utelatt W2118948465 «The Impact of Active Labour Market Programmes on the Duration of Unemp» (2007) – oversikt eller studie av arbeidsmarkedstiltak generelt, uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W3119151455 «COVID ‐19, the Great Recession and social policy: Is this time differe» (2021) – krisestøtte for å beholde ansatte (korttidsarbeid, covid), ikke lønnstilskudd for å ansette ledige
+- OK   6 utelatt W2143742777 «Soft Skills or Hard Cash? The Impact of Training and Wage Subsidy Prog» (2012) – land utenfor Europa eller lav- og mellominntektsland, ikke randomisert forsøk innenfor mandatet
+- OK   6 utelatt W1992823620 «TRADE LIBERALIZATION AND COMPENSATION*» (2006) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2158853235 «OPTIMAL UNEMPLOYMENT INSURANCE, WITH HUMAN CAPITAL DEPRECIATION, AND D» (2009) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W3122918909 «Promoting Women's Economic Empowerment: What Works?» (2014) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W1483235153 «Can hiring subsidies benefit the unemployed?» (2015) – lønnstilskudd eller sysselsettingstilskudd vurdert på tittel og sammendrag: teori, makromodell, studie av andre grupper eller annet land utenfor mandatet
+- OK   6 utelatt W2113531001 «Taxes and Employment Subsidies in Optimal Redistribution Programs» (2009) – lønnstilskudd eller sysselsettingstilskudd vurdert på tittel og sammendrag: teori, makromodell, studie av andre grupper eller annet land utenfor mandatet
+- OK   6 utelatt W2003891288 «Eliminating Race Differences in School Attainment and Labor Market Suc» (2000) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2078812069 «The effectiveness of targeted wage subsidies for hard-to-place workers» (2009) – lønnstilskudd eller sysselsettingstilskudd vurdert på tittel og sammendrag: teori, makromodell, studie av andre grupper eller annet land utenfor mandatet
+- OK   6 utelatt W2080573397 «The role of training and skills development in active labour market po» (2009) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W1992998494 «Promoting Women's Economic Empowerment: What Works?: Table 1.» (2014) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2613269579 «Employers and Active Labour Market Policies: Typologies and Evidence» (2017) – oversikt eller studie av arbeidsmarkedstiltak generelt, uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W1768372155 «The Welfare State and the Forces of Globalization» (2007) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2021265449 «Evaluating active labor market programs in Romania» (2009) – oversikt eller studie av arbeidsmarkedstiltak generelt, uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W3123931663 «Learning-By-Doing Vs. On-the-Job Training: Using Variation Induced by » (2002) – skattelettelser, avgiftslettelser eller minstelønn, holdt utenfor i mandatet
+- OK   6 utelatt W3168428042 «The Economic Ripple Effects of COVID-19» (2021) – krisestøtte for å beholde ansatte (korttidsarbeid, covid), ikke lønnstilskudd for å ansette ledige
+- OK   6 utelatt W2569027475 «Labor Drops: Experimental Evidence on the Return to Additional Labor i» (2019) – land utenfor Europa eller lav- og mellominntektsland, ikke randomisert forsøk innenfor mandatet
+- OK   6 utelatt W1995728292 «Taxes, Subsidies and Equilibrium Labour Market Outcomes» (2001) – lønnstilskudd eller sysselsettingstilskudd vurdert på tittel og sammendrag: teori, makromodell, studie av andre grupper eller annet land utenfor mandatet
+- OK   6 utelatt W2038869612 «The employer's perspective: employment of people with disabilities in » (2013) – lønnstilskudd for eldre, innvandrere eller personer med funksjonsnedsettelse uten egne resultater for unge
+- OK   6 utelatt W2148913523 «Informality and Long‐Run Growth» (2016) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2140166377 «Differential effects of Swedish active labour market programmes for un» (2001) – oversikt eller studie av arbeidsmarkedstiltak generelt, uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2279666949 «The EU youth guarantee – a critical analysis of its implementation in » (2015) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W4237916207 «Evaluating the Employment Impact of a Mandatory Job Search Program» (2016) – valgt i det blinde utvalget, men holdt utenfor: annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2793479861 «Firing costs and firm hiring: evidence from an Italian reform» (2017) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W4200397211 «Social and Economic Impacts of the COVID-19 and Policy Option in the D» (2021) – land utenfor Europa eller lav- og mellominntektsland, ikke randomisert forsøk innenfor mandatet
+- OK   6 utelatt W3125614443 «Comparing the Effectiveness of Employment Subsidies» (2006) – lønnstilskudd eller sysselsettingstilskudd vurdert på tittel og sammendrag: teori, makromodell, studie av andre grupper eller annet land utenfor mandatet
+- OK   6 utelatt W3123060728 «Promoting Women's Economic Empowerment: What Works?» (2016) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2148731364 «The effects of active labour market policies for immigrants receiving » (2013) – oversikt eller studie av arbeidsmarkedstiltak generelt, uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W26734890 «Evaluating Social Programs: Active Labor Market Policies and Social In» (2002) – oversikt eller studie av arbeidsmarkedstiltak generelt, uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2053332181 «Minimum Wages, Labor Market Institutions, and Youth Employment: A Cros» (2003) – skattelettelser, avgiftslettelser eller minstelønn, holdt utenfor i mandatet
+- OK   6 utelatt W3165728202 «The labour market fallout of COVID‐19: Who endures, who doesn't and wh» (2021) – krisestøtte for å beholde ansatte (korttidsarbeid, covid), ikke lønnstilskudd for å ansette ledige
+- OK   6 utelatt W2114181172 «Do welfare-to-work initiatives work? Evidence from an activation progr» (2009) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2165777212 «Are there pre-programme effects of Swedish active labour market polici» (2007) – oversikt eller studie av arbeidsmarkedstiltak generelt, uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W3207089930 «Estimating the Impact of Covid-19 and Policy Responses on Australian I» (2021) – krisestøtte for å beholde ansatte (korttidsarbeid, covid), ikke lønnstilskudd for å ansette ledige
+- OK   6 utelatt W2119305120 «Swedish active labour market programmes in the 1990s: overall effectiv» (2002) – oversikt eller studie av arbeidsmarkedstiltak generelt, uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2802247981 «How Effective Are Active Labor Market Policies in Developing Countries» (2017) – land utenfor Europa eller lav- og mellominntektsland, ikke randomisert forsøk innenfor mandatet
+- OK   6 utelatt W3043497648 «COVID-19 Crisis: How to Avoid a ‘Lost Generation’» (2020) – krisestøtte for å beholde ansatte (korttidsarbeid, covid), ikke lønnstilskudd for å ansette ledige
+- OK   6 utelatt W2118828931 «The Effect of Extending the Duration of Eligibility in an Italian Labo» (2008) – oversikt eller studie av arbeidsmarkedstiltak generelt, uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2128827003 «Welfare to work and the inclusive labour market: a comparative study o» (2012) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2083213530 «Unemployment Duration in Germany: Individual and Regional Determinants» (2008) – lønnstilskudd eller sysselsettingstilskudd vurdert på tittel og sammendrag: teori, makromodell, studie av andre grupper eller annet land utenfor mandatet
+- OK   6 utelatt W2569478470 «From ‘Employab-ility’ to ‘Entrepreneurial-ity’ in Spain: youth in the » (2017) – årsaker til eller følger av ungdomsledighet, ikke effekt av et tiltak
+- OK   6 utelatt W2622995802 «Youth‐oriented Active Labour Market Policies: Explaining Policy Effort» (2017) – oversikt eller studie av arbeidsmarkedstiltak generelt, uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W1554138860 «Designing Inclusion: Tools to Raise Low-end Pay and Employment in Priv» (2007) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2938520278 «The Spatial Mismatch between Innovation and Joblessness» (2019) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2787669555 «Supported Employment and Social Inclusion – Experiences of Workers wit» (2018) – lønnstilskudd for eldre, innvandrere eller personer med funksjonsnedsettelse uten egne resultater for unge
+- OK   6 utelatt W2195031077 «Post-school options for young adults with intellectual disabilities in» (2015) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W3087169942 «COVID-19 JobKeeper and JobSeeker impacts on poverty and housing stress» (2020) – krisestøtte for å beholde ansatte (korttidsarbeid, covid), ikke lønnstilskudd for å ansette ledige
+- OK   6 utelatt W2039212639 «Designing employment subsidies» (2003) – lønnstilskudd eller sysselsettingstilskudd vurdert på tittel og sammendrag: teori, makromodell, studie av andre grupper eller annet land utenfor mandatet
+- OK   6 utelatt W1488598614 «The European Youth Guarantee: labor market context, conditions and opp» (2015) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2024421655 «Do Long-Term Unemployed Workers Benefit from Targeted Wage Subsidies?» (2013) – lønnstilskudd eller sysselsettingstilskudd vurdert på tittel og sammendrag: teori, makromodell, studie av andre grupper eller annet land utenfor mandatet
+- OK   6 utelatt W2912404539 «The impact of the European Youth Guarantee on active labour market pol» (2019) – oversikt eller studie av arbeidsmarkedstiltak generelt, uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2978808420 «Reducing unemployment? Examining the interplay between active labour m» (2020) – oversikt eller studie av arbeidsmarkedstiltak generelt, uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2013399466 «Wage Subsidies for Microenterprises» (2010) – lønnstilskudd eller sysselsettingstilskudd vurdert på tittel og sammendrag: teori, makromodell, studie av andre grupper eller annet land utenfor mandatet
+- OK   6 utelatt W2172042223 «Decentralisation of active labour market policy: The case of Swedish l» (2005) – oversikt eller studie av arbeidsmarkedstiltak generelt, uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W4296705786 «People with intellectual disability and employment sustainability: A q» (2022) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2553597337 «Promoting youth employment through multi-organizational governance» (2016) – årsaker til eller følger av ungdomsledighet, ikke effekt av et tiltak
+- OK   6 utelatt W2280308924 «Getting it right: Employment subsidy or minimum wage ? : Evidence from» (2002) – skattelettelser, avgiftslettelser eller minstelønn, holdt utenfor i mandatet
+- OK   6 utelatt W3125510222 «Active Labor Market Programs for Youth : A Framework to Guide Youth Em» (2010) – oversikt eller studie av arbeidsmarkedstiltak generelt, uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W3101033497 «Integrating refugees through active labour market policy: A comparativ» (2020) – oversikt eller studie av arbeidsmarkedstiltak generelt, uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2160830890 «EVALUATING THE GENERAL EQUILIBRIUM EFFECTS OF A WAGE SUBSIDY SCHEME FO» (2006) – land utenfor Europa eller lav- og mellominntektsland, ikke randomisert forsøk innenfor mandatet
+- OK   6 utelatt W2260785424 «Dealing with unemployment: What should be the role of labour market pr» (2014) – oversikt eller studie av arbeidsmarkedstiltak generelt, uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W1993862684 «Bringing Unemployed Back to Work: Effective Active Labor Market Polici» (2009) – oversikt eller studie av arbeidsmarkedstiltak generelt, uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2901517522 «Impact of the economic crises on suicide in Italy: the moderating role» (2018) – helse, kriminalitet eller trivsel som utfall, ikke arbeid
+- OK   6 utelatt W1987798765 «Wage subsidies in developing countries as a tool to build human capita» (2014) – land utenfor Europa eller lav- og mellominntektsland, ikke randomisert forsøk innenfor mandatet
+- OK   6 utelatt W3210158181 «NEET Rural–Urban Ecosystems: The Role of Urban Social Innovation Diffu» (2021) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2141407407 «Active labour market policies in a recession» (2012) – oversikt eller studie av arbeidsmarkedstiltak generelt, uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2245341571 «The Employment Outlook for Youth: Building Entrepreneurial Ecosystems » (2013) – årsaker til eller følger av ungdomsledighet, ikke effekt av et tiltak
+- OK   6 utelatt W2091670875 «RURAL-URBAN MIGRATION AND UNEMPLOYMENT: THEORY AND POLICY IMPLICATIONS» (2010) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W3124612321 «How Effective Are Active Labor Market Policies in Developing Countries» (2017) – land utenfor Europa eller lav- og mellominntektsland, ikke randomisert forsøk innenfor mandatet
+- OK   6 utelatt W2093174680 «Asymmetric Effects of National-based Active Labour Market Policies» (2011) – oversikt eller studie av arbeidsmarkedstiltak generelt, uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W1939337945 «Non-Public Provision of Active Labor Market Programs in Arab-Mediterra» (2010) – oversikt eller studie av arbeidsmarkedstiltak generelt, uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2288670497 «No country for young people? : youth labour market problems in Europe» (2015) – årsaker til eller følger av ungdomsledighet, ikke effekt av et tiltak
+- OK   6 utelatt W2119731697 «Do wage subsidies for disabled workers reduce their non-employment? - » (2015) – lønnstilskudd for eldre, innvandrere eller personer med funksjonsnedsettelse uten egne resultater for unge
+- OK   6 utelatt W4377023714 «How do governmental wage subsidies enhance SME resilience in the COVID» (2023) – krisestøtte for å beholde ansatte (korttidsarbeid, covid), ikke lønnstilskudd for å ansette ledige
+- OK   6 utelatt W3121803429 «Explaining the Employability Gap of Short‐Term and Long‐Term Unemploye» (2009) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2132894443 «Tackling graduate unemployment in North Africa through employment subs» (2013) – land utenfor Europa eller lav- og mellominntektsland, ikke randomisert forsøk innenfor mandatet
+- OK   6 utelatt W2053278188 «Kombilohn oder Workfare? Zur Wirksamkeit zweier arbeitsmarktpolitische» (2003) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2759612666 «Active Labour Market Policies of Selected European Countries and Their» (2017) – oversikt eller studie av arbeidsmarkedstiltak generelt, uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W3177281304 «Micro-econometric evaluation of subsidized employment in morocco: the » (2021) – land utenfor Europa eller lav- og mellominntektsland, ikke randomisert forsøk innenfor mandatet
+- OK   6 utelatt W3043117594 «Life in lockdown: The economic and social effect of lockdown during Al» (2020) – krisestøtte for å beholde ansatte (korttidsarbeid, covid), ikke lønnstilskudd for å ansette ledige
+- OK   6 utelatt W2920869702 «Levelling the playing field? Active labour market policies, educationa» (2019) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2792066125 «The effect of active labor market policies on crime: Incapacitation an» (2018) – helse, kriminalitet eller trivsel som utfall, ikke arbeid
+- OK   6 utelatt W3213944765 «Using Evidence in Policies Addressing Rural NEETs: Common Patterns and» (2021) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W4384406785 «Exploring Disability Disadvantage in Hiring: A Factorial Survey among » (2023) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W1997966091 «Is ‘making work pay’ effective for the ‘unemployable’? The impact of b» (2015) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W4253180948 «The impact of active labour market policies on the well-being of the u» (2018) – helse, kriminalitet eller trivsel som utfall, ikke arbeid
+- OK   6 utelatt W4295982041 «Active Labor Market Policies in a Context of High Informality: The Eff» (2022) – land utenfor Europa eller lav- og mellominntektsland, ikke randomisert forsøk innenfor mandatet
+- OK   6 utelatt W4250788823 «Africa Development Indicators 2008/2009» (2009) – land utenfor Europa eller lav- og mellominntektsland, ikke randomisert forsøk innenfor mandatet
+- OK   6 utelatt W2736900898 «Active Labour Market Policies in Greece: Challenges and responses duri» (2017) – oversikt eller studie av arbeidsmarkedstiltak generelt, uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2171157507 «Youth Unemployment in Tunisia: Characteristics and Policy Responses» (2012) – land utenfor Europa eller lav- og mellominntektsland, ikke randomisert forsøk innenfor mandatet
+- OK   6 utelatt W2905373791 «Wage subsidies targeted to jobseekers with disabilities: subsequent em» (2018) – lønnstilskudd for eldre, innvandrere eller personer med funksjonsnedsettelse uten egne resultater for unge
+- OK   6 utelatt W2023972514 «Hiring subsidies for people with a disability: Evidence from a small‐s» (2014) – lønnstilskudd for eldre, innvandrere eller personer med funksjonsnedsettelse uten egne resultater for unge
+- OK   6 utelatt W2110789113 «Prospective analysis of a wage subsidy for Cape Town youth» (2014) – lønnstilskudd eller sysselsettingstilskudd vurdert på tittel og sammendrag: teori, makromodell, studie av andre grupper eller annet land utenfor mandatet
+- OK   6 utelatt W4288086398 «Direct and Indirect Effects of Subsidized Dual Apprenticeships» (2019) – lønnstilskudd eller sysselsettingstilskudd vurdert på tittel og sammendrag: teori, makromodell, studie av andre grupper eller annet land utenfor mandatet
+- OK   6 utelatt W3197408816 «Will COVID-19 Make or Break EU State Aid Control? An Analysis of Commi» (2021) – krisestøtte for å beholde ansatte (korttidsarbeid, covid), ikke lønnstilskudd for å ansette ledige
+- OK   6 utelatt W2158241118 «Job additionality and deadweight spending in perfectly competitive ind» (2001) – lønnstilskudd eller sysselsettingstilskudd vurdert på tittel og sammendrag: teori, makromodell, studie av andre grupper eller annet land utenfor mandatet
+- OK   6 utelatt W4406870473 «Fiscal Policy Instruments for Inclusive Labor Markets: A Review» (2025) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W1574459196 «Poverty, Jobs, and Subsidized Employment» (2002) – lønnstilskudd eller sysselsettingstilskudd vurdert på tittel og sammendrag: teori, makromodell, studie av andre grupper eller annet land utenfor mandatet
+- OK   6 utelatt W3122524069 «Creating low skilled jobs by subsidizing market-contracted household w» (2006) – lønnstilskudd eller sysselsettingstilskudd vurdert på tittel og sammendrag: teori, makromodell, studie av andre grupper eller annet land utenfor mandatet
+- OK   6 utelatt W1600294581 «Building Effective Employment Programs for Unemployed Youth in the Mid» (2013) – land utenfor Europa eller lav- og mellominntektsland, ikke randomisert forsøk innenfor mandatet
+- OK   6 utelatt W4390113654 «The Youth Guarantee, Vulnerability, and Social Exclusion Among NEETs i» (2023) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W1573978129 «The Environment of Schizophrenia: Innovations in Practice, Policy and » (2000) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W1590796524 «Household Labor Supply Effects of Low-Wage Subsidies in Germany» (2003) – lønnstilskudd eller sysselsettingstilskudd vurdert på tittel og sammendrag: teori, makromodell, studie av andre grupper eller annet land utenfor mandatet
+- OK   6 utelatt W2953865625 «Do Active Labor Market Policies Increase Employment?» (2003) – oversikt eller studie av arbeidsmarkedstiltak generelt, uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W3206274412 «Youth Unemployment in Advanced Europe» (2015) – årsaker til eller følger av ungdomsledighet, ikke effekt av et tiltak
+- OK   6 utelatt W2945720965 «Italian NEETs in 2005–2016: have the Recent Labour Market Reforms Prod» (2019) – årsaker til eller følger av ungdomsledighet, ikke effekt av et tiltak
+- OK   6 utelatt W3121638952 «Optimal stabilization policy when wages and prices are sticky: The cas» (2004) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W3123159384 «Temporary Extra Jobs for Immigrants: Merging Lane to Employment or Dea» (2010) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W4315434648 «Education and active labour market policy complementarities in promoti» (2023) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W1845646883 «Youth market labor interventions» (2014) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2021356064 «WHY DON'T ELIGIBLE FIRMS CLAIM HIRING SUBSIDIES? THE ROLE OF JOB DURAT» (2010) – skattelettelser, avgiftslettelser eller minstelønn, holdt utenfor i mandatet
+- OK   6 utelatt W2753106928 «EMPLOYMENT ADJUSTMENT AND LABOR UTILIZATION» (2017) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2000498410 «Contracting-out employment services» (2007) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2869559522 «Expediting youth's entry into employment whilst overlooking precarious» (2018) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W3125408251 «The Impact of Wage Subsidies on Jobseekers' Outcomes and Firm Employme» (2013) – lønnstilskudd eller sysselsettingstilskudd vurdert på tittel og sammendrag: teori, makromodell, studie av andre grupper eller annet land utenfor mandatet
+- OK   6 utelatt W3121959338 «Getting the Poor to Work: Three Welfare-Increasing Reforms for a Busy » (2017) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W3158197774 «Effectiveness of the Covid-19 Economic Stimulus Packages: Viewpoints f» (2021) – land utenfor Europa eller lav- og mellominntektsland, ikke randomisert forsøk innenfor mandatet
+- OK   6 utelatt W2607547029 «Hiring subsidies for people with a disability: do they work?» (2019) – lønnstilskudd for eldre, innvandrere eller personer med funksjonsnedsettelse uten egne resultater for unge
+- OK   6 utelatt W2529335235 «Activation: Solving Unemployment or Supporting a Low-Pay Economy?» (2016) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2783575431 «ECOSOCIAL INNOVATIONS AS PART OF SOCIAL AND SOLIDARITY ECONOMY: LOCAL » (2017) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W3149992114 «Assessing the External Validity of an Experimental Wage Subsidy» (2008) – helse, kriminalitet eller trivsel som utfall, ikke arbeid
+- OK   6 utelatt W1541550306 «Lohnkostenzuschüsse und individuelle Arbeitslosigkeit : Analysen auf d» (2005) – lønnstilskudd eller sysselsettingstilskudd vurdert på tittel og sammendrag: teori, makromodell, studie av andre grupper eller annet land utenfor mandatet
+- OK   6 utelatt W4285210981 «How effective are hiring subsidies in reducing long-term unemployment » (2022) – lønnstilskudd eller sysselsettingstilskudd vurdert på tittel og sammendrag: teori, makromodell, studie av andre grupper eller annet land utenfor mandatet
+- OK   6 utelatt W2066847758 «Employer search and employment subsidies» (2006) – lønnstilskudd eller sysselsettingstilskudd vurdert på tittel og sammendrag: teori, makromodell, studie av andre grupper eller annet land utenfor mandatet
+- OK   6 utelatt W1980310813 «Comparing the Effectiveness of Employment Subsidies» (2007) – lønnstilskudd eller sysselsettingstilskudd vurdert på tittel og sammendrag: teori, makromodell, studie av andre grupper eller annet land utenfor mandatet
+- OK   6 utelatt W637674140 «Labor market institutions and public regulation» (2004) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2479994422 «Youth‐focused active labour market programmes in a constraining welfar» (2016) – land utenfor Europa eller lav- og mellominntektsland, ikke randomisert forsøk innenfor mandatet
+- OK   6 utelatt W3160869466 «Youth Guarantee: Looking for Explanations» (2021) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2164045228 «Employment Subsidy with Capital Mobility» (2003) – lønnstilskudd eller sysselsettingstilskudd vurdert på tittel og sammendrag: teori, makromodell, studie av andre grupper eller annet land utenfor mandatet
+- OK   6 utelatt W4283738728 «Effectiveness of Active Labour Market Policies in the EU Countries for» (2022) – krisestøtte for å beholde ansatte (korttidsarbeid, covid), ikke lønnstilskudd for å ansette ledige
+- OK   6 utelatt W2039399102 «Fiscal Calculus and the Labor Market» (2011) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2153175120 «Women with disabilities' experiences of government employment assistan» (2009) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W4321108803 «Too Much of a Good Thing? Australian Cash Transfer Replacement Rates D» (2023) – krisestøtte for å beholde ansatte (korttidsarbeid, covid), ikke lønnstilskudd for å ansette ledige
+- OK   6 utelatt W2075666338 «Bringing the unemployed back to work in Germany: training programs or » (2012) – lønnstilskudd eller sysselsettingstilskudd vurdert på tittel og sammendrag: teori, makromodell, studie av andre grupper eller annet land utenfor mandatet
+- OK   6 utelatt W4402018335 «The small open economy in a generalized gravity model» (2024) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W1908107368 «The effects of wage subsidies for older workers» (2015) – lønnstilskudd for eldre, innvandrere eller personer med funksjonsnedsettelse uten egne resultater for unge
+- OK   6 utelatt W2166408329 «Changes in labour market transitions in Ireland over the Great Recessi» (2015) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2777194126 «Complementarities between Labour Market Institutions and their Causal » (2020) – årsaker til eller følger av ungdomsledighet, ikke effekt av et tiltak
+- OK   6 utelatt W2037052473 «Hiring subsidies, job creation and job destruction» (2011) – lønnstilskudd eller sysselsettingstilskudd vurdert på tittel og sammendrag: teori, makromodell, studie av andre grupper eller annet land utenfor mandatet
+- OK   6 utelatt W2038835536 «Impacts of hiring subsidies targeted at the long-term unemployed on th» (2010) – lønnstilskudd eller sysselsettingstilskudd vurdert på tittel og sammendrag: teori, makromodell, studie av andre grupper eller annet land utenfor mandatet
+- OK   6 utelatt W3028915023 «One-Stop Guidance Service Centres in Finland» (2020) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2921788686 «Varieties of Employment Subsidy Design: Theory and Evidence from Acros» (2019) – lønnstilskudd eller sysselsettingstilskudd vurdert på tittel og sammendrag: teori, makromodell, studie av andre grupper eller annet land utenfor mandatet
+- OK   6 utelatt W2164300532 «Designing a Universal Income Support Mechanism for Italy: An Explorato» (2013) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2012581643 «Lohnsubventionen in Deutschland: Wie sieht eine optimale Evaluierungss» (2003) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W4391322075 «Which training leads to employment? The effectiveness of varying types» (2024) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W4402120281 «The subsidy trap: Explaining the unsatisfactory effectiveness of hirin» (2024) – lønnstilskudd for eldre, innvandrere eller personer med funksjonsnedsettelse uten egne resultater for unge
+- OK   6 utelatt W1979692551 «The Danish Apprenticeship System, 1931–2002: The Role of Subsidies and» (2009) – lønnstilskudd eller sysselsettingstilskudd vurdert på tittel og sammendrag: teori, makromodell, studie av andre grupper eller annet land utenfor mandatet
+- OK   6 utelatt W2122058131 «Employer Perspectives on the Role of Soft Skills in Subsidized Employm» (2014) – lønnstilskudd eller sysselsettingstilskudd vurdert på tittel og sammendrag: teori, makromodell, studie av andre grupper eller annet land utenfor mandatet
+- OK   6 utelatt W1981426892 «Do Regions Benefit from Active Labour Market Policies? A Macroeconomet» (2014) – metodelitteratur, ikke en studie av tiltaket
+- OK   6 utelatt W4281479362 «The effectiveness of Polish active labour market policies» (2022) – oversikt eller studie av arbeidsmarkedstiltak generelt, uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2150770678 «Designing wage subsidies for people with disabilities, as exemplified » (2012) – lønnstilskudd for eldre, innvandrere eller personer med funksjonsnedsettelse uten egne resultater for unge
+- OK   6 utelatt W4392751320 «Impact Evaluation of Ireland’s Active Labour Market Policies» (2024) – oversikt eller studie av arbeidsmarkedstiltak generelt, uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W3124908513 «Did Active Labor Market Policies Help Sweden Rebound from the Depressi» (2010) – helse, kriminalitet eller trivsel som utfall, ikke arbeid
+- OK   6 utelatt W2956436438 «Europeanisation and the Youth Guarantee: The case of France» (2019) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W4360779095 «Participation in Adult Learning: System Characteristics and Individual» (2023) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W1583686588 «Perceptions of employers and unemployed youth on the proposed youth em» (2015) – land utenfor Europa eller lav- og mellominntektsland, ikke randomisert forsøk innenfor mandatet
+- OK   6 utelatt W2043413123 «Advantage through Training in Poland? A Microeconometric Evaluation of» (2002) – lønnstilskudd eller sysselsettingstilskudd vurdert på tittel og sammendrag: teori, makromodell, studie av andre grupper eller annet land utenfor mandatet
+- OK   6 utelatt W4405524835 «Falling through the cracks? Skilling, reskilling and upskilling for jo» (2024) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2980891484 «Effective outreach to NEETs: experience from the ground» (2018) – årsaker til eller følger av ungdomsledighet, ikke effekt av et tiltak
+- OK   6 utelatt W2797283349 «Vocational training in the framework of the ‘Austrian Training Guarant» (2017) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2002636725 «Occupations and means of living in adults with cerebral palsy or menin» (2010) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2963572435 «Employment policy: segmentation, deregulation and reforms in the Itali» (2015) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2096457838 «Labor Market Reforms, Growth, and Unemployment in Labor-Exporting MENA» (2003) – skattelettelser, avgiftslettelser eller minstelønn, holdt utenfor i mandatet
+- OK   6 utelatt W4412755355 «Re‐Skilling in the Age of Skill Shortage: Adult Education Rather Than » (2025) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2920775487 «Horizontal and vertical coordination of the European Youth Guarantee» (2019) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2767232302 «Transition from Education to Employment: Comparative Assessment of You» (2017) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2013535231 «Making Work Pay for the Elderly Unemployed --Evaluating Alternative Po» (2008) – skattelettelser, avgiftslettelser eller minstelønn, holdt utenfor i mandatet
+- OK   6 utelatt W7128030162 «Inclusive Employment as a Factor of Social Security: Enterprise Readin» (2026) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2056109027 «Marginal Employment Subsidization: A New Concept and a Reappraisal*» (2006) – lønnstilskudd eller sysselsettingstilskudd vurdert på tittel og sammendrag: teori, makromodell, studie av andre grupper eller annet land utenfor mandatet
+- OK   6 utelatt W4206318453 «The Labor Market and the COVID-19 Outbreak in Vietnam» (2021) – land utenfor Europa eller lav- og mellominntektsland, ikke randomisert forsøk innenfor mandatet
+- OK   6 utelatt W3123727764 «Do Employment Subsidies Reduce Early Apprenticeship Dropout?» (2013) – lønnstilskudd eller sysselsettingstilskudd vurdert på tittel og sammendrag: teori, makromodell, studie av andre grupper eller annet land utenfor mandatet
+- OK   6 utelatt W2182628614 «Mini-IMMPA: A Framework for Analyzing the Unemployment and Poverty Eff» (2003) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W4226253111 «The politics of job retention schemes in Britain: The Coronavirus Job » (2022) – krisestøtte for å beholde ansatte (korttidsarbeid, covid), ikke lønnstilskudd for å ansette ledige
+- OK   6 utelatt W3044807283 «Youth Guarantee and Welfare State Regimes: Cross-Countries Considerati» (2020) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W4245279871 «Supporting Firms in Restructuring and Recovery» (2021) – krisestøtte for å beholde ansatte (korttidsarbeid, covid), ikke lønnstilskudd for å ansette ledige
+- OK   6 utelatt W2075896348 «Die Reform der Eingliederungszuschüsse durch Hartz III und ihre Auswir» (2008) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W4213144722 «Euro Area Policies» (2014) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2773851199 «The Youth Guarantee in Italy and the New Policy Design Approach: Expec» (2017) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W4391660279 «Rural Dimension of the Employment Policies for NEETs. A Comparative An» (2024) – krisestøtte for å beholde ansatte (korttidsarbeid, covid), ikke lønnstilskudd for å ansette ledige
+- OK   6 utelatt W2906878904 «Young people at risk: School dropout and labour market exclusion in th» (2018) – årsaker til eller følger av ungdomsledighet, ikke effekt av et tiltak
+- OK   6 utelatt W3165776814 «State Social Policy: Essence, Models, Directions» (2021) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W7118349004 «BUSINESS RELOCATION IN UKRAINE: STATE SUPPORT MECHANISMS AND LEGAL GAP» (2026) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W4406893035 «Effectiveness of active labour market policies for job creation and ea» (2025) – krisestøtte for å beholde ansatte (korttidsarbeid, covid), ikke lønnstilskudd for å ansette ledige
+- OK   6 utelatt W3114625556 «Per Achterbahn zum Sozialen Arbeitsmarkt. Zur Vorgeschichte des „Teilh» (2020) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2162146762 «Active labour market policies in Japan: a shift away from the company-» (2013) – oversikt eller studie av arbeidsmarkedstiltak generelt, uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W4382797010 «Active Labour Market Policy in Indonesia: Reviewing the Employment Pol» (2023) – land utenfor Europa eller lav- og mellominntektsland, ikke randomisert forsøk innenfor mandatet
+- OK   6 utelatt W4406170137 «Fostering Soft Skills in Active Labor Market Programs» (2025) – krisestøtte for å beholde ansatte (korttidsarbeid, covid), ikke lønnstilskudd for å ansette ledige
+- OK   6 utelatt W4412066827 «Evaluating active labor market policy in Indonesia: A case study of th» (2025) – land utenfor Europa eller lav- og mellominntektsland, ikke randomisert forsøk innenfor mandatet
+- OK   6 utelatt W3123185043 «Fighting Youth Unemployment» (2020) – årsaker til eller følger av ungdomsledighet, ikke effekt av et tiltak
+- OK   6 utelatt W2533028735 «Turkey’s employment subsidy program under the great recession: a gener» (2016) – land utenfor Europa eller lav- og mellominntektsland, ikke randomisert forsøk innenfor mandatet
+- OK   6 utelatt W4391881430 «From segmentalist to liberal skill formation system: A comparative ana» (2024) – land utenfor Europa eller lav- og mellominntektsland, ikke randomisert forsøk innenfor mandatet
+- OK   6 utelatt W2028960863 «Darf's noch etwas mehr sein? Geförderte Beschäftigung in der Wirtschaf» (2009) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W3127953547 «„Coaching“ im Rahmen öffentlich geförderter Beschäftigung. Begriff, Fu» (2021) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2946873944 «Designing a remote employment program: Lessons from the past and a pro» (2018) – land utenfor Europa eller lav- og mellominntektsland, ikke randomisert forsøk innenfor mandatet
+- OK   6 utelatt W3008042733 «A Matter of Definitions: The Profiling of People in Italian Active Lab» (2019) – oversikt eller studie av arbeidsmarkedstiltak generelt, uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W3044633221 «Introduction to the European Youth Guarantee» (2020) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2907956339 «Nordic disability employment laws and policies in a human rights persp» (2018) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2486164776 «Youth unemployment policy» (2014) – land utenfor Europa eller lav- og mellominntektsland, ikke randomisert forsøk innenfor mandatet
+- OK   6 utelatt W4403087050 «Wage Subsidy for Employers or Social Security for Low‐Paid Workers? Th» (2024) – lønnstilskudd eller sysselsettingstilskudd vurdert på tittel og sammendrag: teori, makromodell, studie av andre grupper eller annet land utenfor mandatet
+- OK   6 utelatt W2103847614 «Eingliederungszuschüsse und Betriebszugehörigkeitsdauer in Westdeutsch» (2011) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W4406842737 «Towards policies of dignity? The German Participation Opportunities Ac» (2025) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W111936548 «Would Active Labour Market Policies Enhance Youth Capability for Work » (2014) – oversikt eller studie av arbeidsmarkedstiltak generelt, uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2219515533 «Active Labour Market Policies in Poland» (2013) – oversikt eller studie av arbeidsmarkedstiltak generelt, uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W3044891768 «The Austrian Response to Youth Guarantee» (2020) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2768002551 «The Evaluation of a Finnish Youth Guarantee: Lessons for Europe?» (2017) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W4412769759 «Integrating Australian Employment Law Practice in Support of People wi» (2025) – land utenfor Europa eller lav- og mellominntektsland, ikke randomisert forsøk innenfor mandatet
+- OK   6 utelatt W4413907166 «Active Labor Market Policy in Indonesia: Challenges of the Pre-Employm» (2025) – land utenfor Europa eller lav- og mellominntektsland, ikke randomisert forsøk innenfor mandatet
+- OK   6 utelatt W3024503651 «COVID-19 and Labour Law: Chile» (2020) – land utenfor Europa eller lav- og mellominntektsland, ikke randomisert forsøk innenfor mandatet
+- OK   6 utelatt W3044019165 «The Response of the United Kingdom (England and Scotland) to Youth Gua» (2020) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W7167043322 «Strategic Financial Mechanisms for Ensuring Efficient Employment and L» (2026) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W4387001441 «Special feature: Impact of COVID-19 on the tax wedge in OECD countries» (2021) – krisestøtte for å beholde ansatte (korttidsarbeid, covid), ikke lønnstilskudd for å ansette ledige
+- OK   6 utelatt W2578487355 «Stimulating job demand : The design of effective hiring subsidies in E» (2014) – lønnstilskudd eller sysselsettingstilskudd vurdert på tittel og sammendrag: teori, makromodell, studie av andre grupper eller annet land utenfor mandatet
+- OK   6 utelatt W4205632515 «Active labour market policies and COVID‑19: (Re‑)connecting people wit» (2021) – krisestøtte for å beholde ansatte (korttidsarbeid, covid), ikke lønnstilskudd for å ansette ledige
+- OK   6 utelatt W7155404040 «Subsidising silence: how policy ideas entrench Italy’s use of employme» (2026) – lønnstilskudd eller sysselsettingstilskudd vurdert på tittel og sammendrag: teori, makromodell, studie av andre grupper eller annet land utenfor mandatet
+- OK   6 utelatt W2740379091 «The Vicious Circle of Subsidised Employment» (2017) – lønnstilskudd eller sysselsettingstilskudd vurdert på tittel og sammendrag: teori, makromodell, studie av andre grupper eller annet land utenfor mandatet
+- OK   6 utelatt W7126207429 «Street‐Level Policymaking: From Local Political Preferences to Welfare» (2026) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W3124571623 «Active labor market policy by a profit maximizing firm» (2010) – oversikt eller studie av arbeidsmarkedstiltak generelt, uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt 0198cc77e8c6-c0da2904-88af-4dd8-86d3-90eacb32f4f3 «Effekt av arbeidsmarkedstiltak på deltakelse i arbeidslivet for innvan» (2015) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt 01999f367dd8-bff52731-56d0-4f30-878a-bb4d71b761fc «Aktivisering av ungdom utenfor arbeidslivet. En kvalitativ studie av N» (2014) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt 0199042793ad-0adee449-90fb-405e-a192-d4a7b42171a4 «Utfordringer med arbeidsinkludering av flyktninger» (2023) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt 0198cc7f9af9-06c4fc37-40b7-4fc9-91df-6bbf79ea07ae «Individuell jobbstøtte for personer med moderate til alvorlige psykisk» (2023) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt 0198cc685187-e4b11562-1a40-4075-bb09-8d68011d9a16 «Arbeidsrettede tiltak ved helseplager og sykefravær; en kunnskapsoppsu» (2010) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt 0198cc7b8a4d-01eb87fa-a9fa-4fa0-a6fa-8a7d19290abf «Råd og anbefalinger for samtidige helse‐ og arbeidsrettede tiltak: Sys» (2019) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt 0198cc4357f5-5355ef2a-5fdd-49dd-993a-df4340249a84 «Andre lands modeller for å fremme sysselsetting blant personer med ned» (2011) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt 0198cc574ba0-06576c20-ab15-42b5-acda-e9158a0726cb «Barn, unge og kriminalitet. Hvordan forhindre at barn og unge kommer i» (2020) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W1530306231 «The Economics and Econometrics of Active Labor Market Programs» (1999) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2141445845 «Do Labor Market Policies have Displacement Effects? Evidence from a Cl» (2013) – oversikt eller studie av arbeidsmarkedstiltak generelt, uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W3125746711 «Are Training Programs More Effective When Unemployment Is High?» (2009) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2785861316 «The Effectiveness of Hiring Credits» (2018) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2066735350 «Matching As An Econometric Evaluation Estimator: Evidence from Evaluat» (1997) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W3125459289 «Sensitivity of matching-based program evaluations to the availability » (2013) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2058478408 «The Effectiveness of Public-Sponsored Training Revisited: The Importan» (2014) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2064695650 «Evaluating the dynamic employment effects of training programs in East» (2009) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W3122228908 «Getting the Unemployed Back to Work: The Role of Targeted Wage Subsidi» (1999) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2065714280 «Evaluating job-search programs for old and young individuals: Heteroge» (2008) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W3123565812 «The Difficult School-to-Work Transition of High School Dropouts» (2017) – årsaker til eller følger av ungdomsledighet, ikke effekt av et tiltak
+- OK   6 utelatt W2161800660 «Employer Learning and Statistical Discrimination» (2001) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2143499562 «Young people and the Great Recession» (2011) – årsaker til eller følger av ungdomsledighet, ikke effekt av et tiltak
+- OK   6 utelatt W2103086757 «Do Temporary-Help Jobs Improve Labor Market Outcomes for Low-Skilled W» (2010) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2256065985 «Do interventions targeted at micro-entrepreneurs and small and medium-» (2015) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W1572951111 «Which Program for Whom? Evidence on the Comparative Effectiveness of P» (2007) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2157152859 «Spurring Job Creation in Response to Severe Recessions: Reconsidering » (2011) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2072982030 «Labour market training in Norway—effect on earnings» (2002) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W1602594018 «The Effect of Work First Job Placements on the Distribution of Earning» (2016) – metodelitteratur, ikke en studie av tiltaket
+- OK   6 utelatt W2611504698 «Active Labour Market Programme Participation for Unemployment Insuranc» (2016) – valgt i det blinde utvalget, men holdt utenfor: oversikt eller studie av arbeidsmarkedstiltak generelt, uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2157823046 «Bias in meta-analysis detected by a simple, graphical test» (1997) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2150291618 «The Central Role of the Propensity Score in Observational Studies for » (1983) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2139122730 «Sample Selection Bias as a Specification Error» (1979) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2080061756 «Matching As An Econometric Evaluation Estimator» (1998) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W1965561045 «Unemployment: macroeconomic performance and the labour market» (1992) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W1537287213 «Robust Nonparametric Confidence Intervals for Regression-Discontinuity» (2014) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2891753394 «Causal Effects in Nonexperimental Studies: Reevaluating the Evaluation» (1999) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2151367131 «Estimating the Effect of Training Programs on Earnings» (1978) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2902060816 «Doubly robust difference-in-differences estimators» (2020) – metodelitteratur, ikke en studie av tiltaket
+- OK   6 utelatt W2014940670 «Choosing Among Alternative Nonexperimental Methods for Estimating the » (1989) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W3126007639 «Regression discontinuity inference with specification error» (2007) – metodelitteratur, ikke en studie av tiltaket
+- OK   6 utelatt W2150118316 «Evaluating the Econometric Evaluations of Training Programs with Exper» (1984) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2142076417 «LONG-RUN EFFECTS OF PUBLIC SECTOR SPONSORED TRAINING IN WEST GERMANY» (2011) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W3124347181 «Inefficient Hiring in Entry-Level Labor Markets» (2014) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2131364445 «The Effect of Sample Selection and Initial Conditions in Duration Mode» (1996) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2164483624 «Start-up subsidies for the unemployed: Long-term evidence and effect h» (2010) – lønnstilskudd eller sysselsettingstilskudd vurdert på tittel og sammendrag: teori, makromodell, studie av andre grupper eller annet land utenfor mandatet
+- OK   6 utelatt W2149033938 «HEAPING‐INDUCED BIAS IN REGRESSION‐DISCONTINUITY DESIGNS» (2015) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2110617835 «Entrepreneurship programs in developing countries: A meta regression a» (2014) – land utenfor Europa eller lav- og mellominntektsland, ikke randomisert forsøk innenfor mandatet
+- OK   6 utelatt W3122094015 «The Curse and Blessing of Training the Unemployed in a Changing Econom» (2007) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2093250537 «Differential effects of active labour market programs for the unemploy» (2007) – oversikt eller studie av arbeidsmarkedstiltak generelt, uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W3124428087 «The locking-in effect of subsidized jobs» (2003) – lønnstilskudd eller sysselsettingstilskudd vurdert på tittel og sammendrag: teori, makromodell, studie av andre grupper eller annet land utenfor mandatet
+- OK   6 utelatt W2065688271 «Dynamic Treatment Assignment» (2008) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2144297385 «The relative efficiency of labor market programs: Swedish experience f» (2003) – oversikt eller studie av arbeidsmarkedstiltak generelt, uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2150191139 «Active labor market programs - employment gain or fiscal drain?» (2015) – oversikt eller studie av arbeidsmarkedstiltak generelt, uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W3123352479 «Place Based Policies with Unemployment» (2013) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2163303142 «Experimental Evidence on the Effects of Early Meetings and Activation» (2016) – helse, kriminalitet eller trivsel som utfall, ikke arbeid
+- OK   6 utelatt W1923607888 «Active Labor Market Policy Effects for Women in Europe — A Survey» (2008) – valgt i det blinde utvalget, men holdt utenfor: oversikt eller studie av arbeidsmarkedstiltak generelt, uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2130972305 «Evaluating the impact of job training programmes in Latin America: evi» (2009) – land utenfor Europa eller lav- og mellominntektsland, ikke randomisert forsøk innenfor mandatet
+- OK   6 utelatt W2599282959 «Living Up to Expectations: How Job Training Made Women Better Off and » (2017) – land utenfor Europa eller lav- og mellominntektsland, ikke randomisert forsøk innenfor mandatet
+- OK   6 utelatt W2074441423 «The effect of integration policies on the time until regular employmen» (2009) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W1994620841 «Is there a Threat Effect of Labour Market Programmes? A Study of ALMP » (2006) – oversikt eller studie av arbeidsmarkedstiltak generelt, uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2134408580 «The Effects of Welfare‐to‐Work Program Activities on Labor Market Outc» (2006) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2168333943 «Intensive Coaching of New Immigrants: An Evaluation Based on Random Pr» (2012) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W3125519783 «Active Labor Market Policies in Poland: Human Capital Enhancement, Sti» (1999) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W1560722175 «Earned income tax credit policies: Impact and optimality» (2006) – skattelettelser, avgiftslettelser eller minstelønn, holdt utenfor i mandatet
+- OK   6 utelatt W1980899669 «State dependence in youth labor market experiences, and the evaluation» (2008) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W3122760127 «The Employment Effects of State Hiring Credits» (2016) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2146336981 «Exploiting Regional Treatment Intensity for the Evaluation of Labor Ma» (2010) – oversikt eller studie av arbeidsmarkedstiltak generelt, uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2020874807 «Optimal Use of Labor Market Policies: The Role of Job Search Assistanc» (2013) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W1767306280 «Do German Welfare-to-Work Programmes Reduce Welfare Dependency and Inc» (2010) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2621984937 «Payroll taxes and youth labor demand» (2018) – skattelettelser, avgiftslettelser eller minstelønn, holdt utenfor i mandatet
+- OK   6 utelatt W2790949084 «The assessment of active labor market policies: evidence from OECD cou» (2018) – oversikt eller studie av arbeidsmarkedstiltak generelt, uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2111609847 «Virtues of SIN» (2011) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2921687771 «Training and job search assistance programmes in Spain: The case of lo» (2019) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2150864598 «Income effects from labor market training programs in Sweden during th» (2004) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2872543545 «Jobs for Africa’s expanding youth cohort: a stocktaking of employment » (2018) – land utenfor Europa eller lav- og mellominntektsland, ikke randomisert forsøk innenfor mandatet
+- OK   6 utelatt W4377990214 «The Effectiveness of Management Training Programs: A Meta-Analytic Rev» (2023) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W4416405156 «A meta-analysis of effects of vocational skills training on future ear» (2025) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W612372977 «Practical Meta-Analysis» (2000) – metodelitteratur, ikke en studie av tiltaket
+- OK   6 utelatt W3121385028 «Recent Developments in the Econometrics of Program Evaluation» (2009) – metodelitteratur, ikke en studie av tiltaket
+- OK   6 utelatt W3121516428 «Does matching overcome LaLonde's critique of nonexperimental estimator» (2004) – helse, kriminalitet eller trivsel som utfall, ikke arbeid
+- OK   6 utelatt W2043565183 «A Nonparametric "Trim and Fill" Method of Accounting for Publication B» (2000) – metodelitteratur, ikke en studie av tiltaket
+- OK   6 utelatt W2122153309 «The Production of Human Capital and the Life Cycle of Earnings» (1967) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W1981188819 «Robust variance estimation in meta‐regression with dependent effect si» (2010) – metodelitteratur, ikke en studie av tiltaket
+- OK   6 utelatt W2023063828 «Shadow Prices, Market Wages, and Labor Supply» (1974) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W1483323320 «Empirical Strategies in Labor Economics» (1999) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2024689521 «The Estimation of Choice Probabilities from Choice Based Samples» (1977) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W1518052575 «Alternative methods for evaluating the impact of interventions» (1985) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W3125353260 «Beyond Becker: Training in Imperfect Labour Markets» (1999) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2171040166 «Using the Longitudinal Structure of Earnings to Estimate the Effect of» (1985) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2100316976 «Why Do Firms Train? Theory and Evidence» (1998) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W1966981305 «Assessing the Case for Social Experiments» (1995) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2124317732 «Local Economic Development, Agglomeration Economies, and the Big Push:» (2013) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W3123092502 «Using the Longitudinal Structure of Earnings to Estimate the Effect of» (1984) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W3125727931 «Choosing Among Alternative Nonexperimental Methods for Estimating the » (1989) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2171442673 «Causal Effects in Non-Experimental Studies: Re-Evaluating the Evaluati» (1998) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2891161060 «Learning and Wage Dynamics» (1996) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2067141886 «Meta‐Regression Methods for Detecting and Estimating Empirical Effects» (2007) – metodelitteratur, ikke en studie av tiltaket
+- OK   6 utelatt W2069757101 «The Nonparametric Identification of Treatment Effects in Duration Mode» (2003) – metodelitteratur, ikke en studie av tiltaket
+- OK   6 utelatt W2166345263 «People, Places, and Public Policy: Some Simple Welfare Economics of Lo» (2014) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2120819732 «Publication Selection Bias in Minimum‐Wage Research? A Meta‐Regression» (2009) – metodelitteratur, ikke en studie av tiltaket
+- OK   6 utelatt W2136915936 «The Long-Term Effects of Youth Unemployment» (2006) – årsaker til eller følger av ungdomsledighet, ikke effekt av et tiltak
+- OK   6 utelatt W2130044643 «Lessons from the U.S. Unemployment Insurance Experiments» (2007) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2133597335 «ACTIVE LABOUR MARKET POLICY AND UNEMPLOYMENT - A FRAMEWORK FOR THE ANA» (1994) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2166467701 «Employment Patterns in OECD Countries» (2006) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W3125772185 «The Economics of Place-Making Policies» (2008) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2889753036 «Why Do Temporary Help Firms Provide Free General Skills Training?» (2001) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W1483005188 «Youth Employment and Joblessness in Advanced Countries» (2000) – årsaker til eller følger av ungdomsledighet, ikke effekt av et tiltak
+- OK   6 utelatt W2152600260 «Relative Effectiveness of Conditional and Unconditional Cash Transfers» (2013) – land utenfor Europa eller lav- og mellominntektsland, ikke randomisert forsøk innenfor mandatet
+- OK   6 utelatt W2883073898 «What Works Among Active Labour Market Policies» (1998) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W44284924 «The scars of youth: Effects of early‐career unemployment on future une» (2017) – årsaker til eller følger av ungdomsledighet, ikke effekt av et tiltak
+- OK   6 utelatt W1569785788 «Evaluating Government Training Programs for the Economically Disadvant» (1997) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2145263991 «Impacts of active labor market programs : new evidence from evaluation» (2004) – oversikt eller studie av arbeidsmarkedstiltak generelt, uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2081468367 «How to do a good systematic review of effects in international develop» (2012) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2765515090 «Payroll Taxes, Firm Behavior, and Rent Sharing: Evidence from a Young » (2019) – skattelettelser, avgiftslettelser eller minstelønn, holdt utenfor i mandatet
+- OK   6 utelatt W2030039411 «Estimating the Effects of a Time-Limited Earnings Subsidy for Welfare-» (2005) – lønnstilskudd eller sysselsettingstilskudd vurdert på tittel og sammendrag: teori, makromodell, studie av andre grupper eller annet land utenfor mandatet
+- OK   6 utelatt W1562107381 «The Benefits and Costs of JTPA Title II-A Programs: Key Findings from » (1997) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2019534988 «Evaluating the Impact of French Employment Policies on Individual Labo» (1997) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W1524147193 «Wage Subsidies for the Disadvantaged» (1996) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W3097763120 «The Persistent Effects of Initial Labor Market Conditions for Young Ad» (2020) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2111608598 «The determinants of unemployment across OECD countries» (2007) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W615215593 «Econometric Evaluation of Labour Market Policies» (2001) – metodelitteratur, ikke en studie av tiltaket
+- OK   6 utelatt W22145852 «Institutional Reforms and Dualism in European Labor Markets» (2011) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2132056195 «An evaluation of the active labour market programmes in Sweden» (2001) – oversikt eller studie av arbeidsmarkedstiltak generelt, uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2093867711 «DOES ACTIVE LABOUR-MARKET POLICY INCREASE EMPLOYMENT? THEORETICAL CONS» (1995) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2767925556 «Anonymity or Distance? Job Search and Labour Market Exclusion in a Gro» (2020) – land utenfor Europa eller lav- og mellominntektsland, ikke randomisert forsøk innenfor mandatet
+- OK   6 utelatt W3125605069 «The own-wage elasticity of labor demand: A meta-regression analysis» (2015) – metodelitteratur, ikke en studie av tiltaket
+- OK   6 utelatt W2590699752 «Unobservable, But Unimportant? The Influence of Personality Traits (an» (2014) – oversikt eller studie av arbeidsmarkedstiltak generelt, uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W1672585778 «Are active labour market policies effective in activating and integrat» (2018) – oversikt eller studie av arbeidsmarkedstiltak generelt, uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2061731562 «Human Capital and Labor Supply: A Synthesis» (1976) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2066873236 «Longer-Term Impacts of Mentoring, Educational Services, and Learning I» (2012) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W3141749329 «Get Training or Wait? Long-Run Employment Effects of Training Programs» (2008) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W1580915203 «Wage Progression Among Less Skilled Workers» (1999) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2150869014 «Financial Incentives for Increasing Work and Income Among Low-Income F» (1999) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W4206053945 «Inequalities in the times of a pandemic» (2022) – krisestøtte for å beholde ansatte (korttidsarbeid, covid), ikke lønnstilskudd for å ansette ledige
+- OK   6 utelatt W3125215865 «Entrepreneurship Programs in Developing Countries: A Meta Regression A» (2013) – land utenfor Europa eller lav- og mellominntektsland, ikke randomisert forsøk innenfor mandatet
+- OK   6 utelatt W3169730721 «Young people not in Employment, Education or Training (NEET) in Sub-Sa» (2021) – land utenfor Europa eller lav- og mellominntektsland, ikke randomisert forsøk innenfor mandatet
+- OK   6 utelatt W4300008875 «Experimental Evidence on the Long Term Impacts of a Youth Training Pro» (2015) – helse, kriminalitet eller trivsel som utfall, ikke arbeid
+- OK   6 utelatt W2341634486 «Labor market reforms in Europe: towards more flexicure labor markets?» (2017) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W3126103409 «Youth Unemployment and Vocational Training» (2012) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2131843120 «A Caseworker Like Me – Does The Similarity Between The Unemployed and » (2010) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W3124170777 «Active Labor Market Policies in Poland: Human Capital Enhancement, Sti» (2023) – oversikt eller studie av arbeidsmarkedstiltak generelt, uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2089057041 «The response of youth unemployment to benefits, incentives, and sancti» (2003) – årsaker til eller følger av ungdomsledighet, ikke effekt av et tiltak
+- OK   6 utelatt W1972879044 «Sustainable social spending» (2006) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W3125368670 «Effective Active Labour Market Policies» (2004) – oversikt eller studie av arbeidsmarkedstiltak generelt, uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2140854570 «Channels through which Public Employment Services and Small Business A» (2010) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W3121258962 «Scarring Effects of Remaining Unemployed for Long-Term Unemployed Scho» (2012) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W3104306659 «Heterogeneous Employment Effects of Job Search Programs» (2020) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W3124766160 «Unemployed and Their Caseworkers: Should They be Friends or Foes?» (2009) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W3184614188 «Informal Labor and the Efficiency Cost of Social Programs: Evidence fr» (2021) – land utenfor Europa eller lav- og mellominntektsland, ikke randomisert forsøk innenfor mandatet
+- OK   6 utelatt W2047227104 «Youth unemployment in the period 2001–2010 and the European crisis – l» (2013) – årsaker til eller følger av ungdomsledighet, ikke effekt av et tiltak
+- OK   6 utelatt W4283400126 «The Impacts of Benefit Sanctions: A Scoping Review of the Quantitative» (2022) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W1555268708 «Youth employment policies in France» (2000) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2153157838 «The effect of economic downturns on apprenticeships and initial workpl» (2009) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2146126726 «Youth unemployment in Greece: measuring the challenge» (2015) – årsaker til eller følger av ungdomsledighet, ikke effekt av et tiltak
+- OK   6 utelatt W4239702250 «Demanding Activation» (2016) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W1491087575 «Self-employment grants vs. subsidized employment: Is there a differenc» (1999) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2054846443 «Long-run effects of training programs for the unemployed in East Germa» (2007) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W1971907812 «Active labour market programmes in Norway: are they helpful for social» (2005) – oversikt eller studie av arbeidsmarkedstiltak generelt, uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W1867846268 «DURATION DEPENDENCE VERSUS UNOBSERVED HETEROGENEITY IN TREATMENT EFFEC» (2012) – metodelitteratur, ikke en studie av tiltaket
+- OK   6 utelatt W2012187419 «The Evolution of Wages in the United Kingdom: Evidence from Micro Data» (1996) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2140661551 «How to help unemployed find jobs quickly: Experimental evidence from a» (2008) – helse, kriminalitet eller trivsel som utfall, ikke arbeid
+- OK   6 utelatt W1582393875 «Scarring effects of the first labour market experience: A sibling base» (2004) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2073351043 «Disentangling Treatment Effects of Active Labor Market Policies: The R» (2007) – metodelitteratur, ikke en studie av tiltaket
+- OK   6 utelatt W2495947150 «Government-Sponsored Vocational Education for Adults» (2016) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W1731605237 «Less Income Inequality and More Growth – Are They Compatible? Part 2. » (2012) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W3094437693 «A systematic review of employment outcomes from youth skills training » (2020) – land utenfor Europa eller lav- og mellominntektsland, ikke randomisert forsøk innenfor mandatet
+- OK   6 utelatt W4284679297 «Sources of Wage Growth» (2022) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W4361737153 «Employment and Training Programs» (2003) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2149134913 «Youth Unemployment, Labor Market Programs and Subsequent Earnings» (1991) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2269959578 «Providing Employers with Incentives to Train Low-Skilled Workers: Evid» (2010) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2883829628 «Do Comparisons of Fictional Applicants Measure Discrimination When Sea» (2018) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2973114436 «Subsidising mature age employment or throwing coins into a wishing wel» (2017) – helse, kriminalitet eller trivsel som utfall, ikke arbeid
+- OK   6 utelatt W1577048240 «Knowledge retention, student learning, and blended course work: Eviden» (2015) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W3096513170 «Support for social entrepreneurs from disadvantaged areas navigating c» (2020) – land utenfor Europa eller lav- og mellominntektsland, ikke randomisert forsøk innenfor mandatet
+- OK   6 utelatt W2980906206 «Hysteresis from employer subsidies» (2021) – lønnstilskudd eller sysselsettingstilskudd vurdert på tittel og sammendrag: teori, makromodell, studie av andre grupper eller annet land utenfor mandatet
+- OK   6 utelatt W2564703047 «A review of the effectiveness of active labour market programmes with » (2016) – land utenfor Europa eller lav- og mellominntektsland, ikke randomisert forsøk innenfor mandatet
+- OK   6 utelatt W1602345882 «Sectoral Heterogeneity in the Employment Effects of Job Creation Schem» (2006) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W3113515901 «Improving Formal Qualifications or Firm Linkages-What Supports Success» (2020) – årsaker til eller følger av ungdomsledighet, ikke effekt av et tiltak
+- OK   6 utelatt W3124912317 «Optimal Use of Labor Market Policies: The Role of Job Search Assistanc» (2010) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2059614883 «Does ‘Work for the Dole’ work?: an Australian perspective on work expe» (2011) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2894083957 «La Garantie européenne pour la jeunesse» (2018) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2913721347 «Does on-the-job training help graduates find a job? Evidence from an I» (2019) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W3122492240 «Compulsion in active labour market programmes» (2007) – oversikt eller studie av arbeidsmarkedstiltak generelt, uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W3167649561 «Föreställningar om praktik som åtgärd för invandrares integration och » (2004) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2077619246 «Stepping-stones, dead-ends, or both? An analysis of Swedish replacemen» (2009) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2243526745 «Subsidizing low-skilled jobs in a dual labor market» (2010) – lønnstilskudd eller sysselsettingstilskudd vurdert på tittel og sammendrag: teori, makromodell, studie av andre grupper eller annet land utenfor mandatet
+- OK   6 utelatt W3168529859 «Mitigating Long-Term Unemployment in Europe» (2020) – krisestøtte for å beholde ansatte (korttidsarbeid, covid), ikke lønnstilskudd for å ansette ledige
+- OK   6 utelatt W3127839451 «An analysis of participation factors and effects of the active labour » (2021) – årsaker til eller følger av ungdomsledighet, ikke effekt av et tiltak
+- OK   6 utelatt W2793145069 «The role of non-formal lifelong learning at different points in the bu» (2018) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2884997001 «Emotional Intelligence and Youth Career Readiness» (2018) – årsaker til eller følger av ungdomsledighet, ikke effekt av et tiltak
+- OK   6 utelatt W2012474601 «Experimental Evidence From Active Placement Efforts Among Unemployed i» (2014) – helse, kriminalitet eller trivsel som utfall, ikke arbeid
+- OK   6 utelatt W4304688743 «IMF Engagement on Social Safety Net Issues in Surveillance and Program» (2022) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W4385772237 «World Economic Outlook, April 2021» (2021) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W1987144840 «Insurance and Prevention: Ethical Aspects» (2011) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W4294250967 «Participation Income» (2022) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2120587010 «The Effects of Municipal Policy Strategies on Social Assistance Inflow» (2011) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2809477839 «Übergänge in Ausbildung und Arbeitsmarkt» (2018) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W4312933714 «Labour market policies for inclusiveness» (2022) – oversikt eller studie av arbeidsmarkedstiltak generelt, uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2958511957 «PROTOCOL: Post-basic Technical and Vocational Education and Training (» (2012) – land utenfor Europa eller lav- og mellominntektsland, ikke randomisert forsøk innenfor mandatet
+- OK   6 utelatt W2943079796 «Meta-Analysis of the New Keynesian Phillips Curve in Developed and Eme» (2019) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W4408037442 «When do prevocational programs ease the transition to vocational educa» (2025) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2626484688 «Retention and Reintegration of Older Workers into the Labour Market : » (2018) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W4392788361 «Does employment assistance promote employment of the impoverished in C» (2024) – land utenfor Europa eller lav- og mellominntektsland, ikke randomisert forsøk innenfor mandatet
+- OK   6 utelatt W4288082122 «Why should we integrate income and employment support?» (2022) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2743282249 «Evidence Review on Labour Market and Job Place Retention: Mentoring Pa» (2017) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W4235023547 «Jeunes sans emploi et sortis du système éducatif : quelles mesures ado» (2017) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W4403423830 «The European Labour Market Recovery: Policy Responses During and After» (2024) – krisestøtte for å beholde ansatte (korttidsarbeid, covid), ikke lønnstilskudd for å ansette ledige
+- OK   6 utelatt W2094993328 «An Evaluation of the Swedish System of Active Labor Market Programs in» (2004) – oversikt eller studie av arbeidsmarkedstiltak generelt, uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2120937813 «The wage scar from male youth unemployment» (2005) – årsaker til eller følger av ungdomsledighet, ikke effekt av et tiltak
+- OK   6 utelatt W2111583974 «What Works and for Whom: A Review of OECD Countries' Experiences with » (2002) – samme materiale som W3125938983 (Martin og Grubb), annen versjon
+- OK   6 utelatt W2067117805 «The Impact of Youth Unemployment on Adult Unemployment in the NCDS» (2001) – årsaker til eller følger av ungdomsledighet, ikke effekt av et tiltak
+- OK   6 utelatt W1894316522 «Rising Youth Unemployment During The Crisis» (2010) – årsaker til eller følger av ungdomsledighet, ikke effekt av et tiltak
+- OK   6 utelatt W3122722471 «Youth Unemployment and Crime in France» (2009) – helse, kriminalitet eller trivsel som utfall, ikke arbeid
+- OK   6 utelatt W1979710110 «Youth unemployment rate and impact of financial crises» (2012) – årsaker til eller følger av ungdomsledighet, ikke effekt av et tiltak
+- OK   6 utelatt W2168999243 «The Welfare State in Transition» (1997) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2973784195 «Global employment trends for youth 2015: scaling up investments in dec» (2015) – årsaker til eller følger av ungdomsledighet, ikke effekt av et tiltak
+- OK   6 utelatt W2171066632 «A Good Time for Making Work Pay? Taking Stock of In-Work Benefits and » (2009) – skattelettelser, avgiftslettelser eller minstelønn, holdt utenfor i mandatet
+- OK   6 utelatt W2127381822 «Are Targeted Wage Subsidies Harmful? Evidence from a Wage Voucher Expe» (1985) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2103606118 «Youth Unemployment and Vocational Training» (2013) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2104120593 «The challenge of youth unemployment» (1997) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2140015881 «Turning Unemployment into Self‐Employment: Effectiveness of Two Start‐» (2008) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W4240227827 «Active Labor Market Policies in Europe» (2007) – oversikt eller studie av arbeidsmarkedstiltak generelt, uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W1517499775 «The employment effects of job-creation schemes in Germany: A microecon» (2008) – metodelitteratur, ikke en studie av tiltaket
+- OK   6 utelatt W1493919498 «Youth Unemployment in the OECD: Demographic Shifts, Labour Market Inst» (2003) – årsaker til eller følger av ungdomsledighet, ikke effekt av et tiltak
+- OK   6 utelatt W1972834551 «Crime and Unemployment in Turbulent Times» (2007) – helse, kriminalitet eller trivsel som utfall, ikke arbeid
+- OK   6 utelatt W1975878785 «Macroeconomic Effects of Active Labour Market Programmes in a Union Wa» (1995) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2159784070 «Youth unemployment in old Europe: the polar cases of France and German» (2013) – årsaker til eller følger av ungdomsledighet, ikke effekt av et tiltak
+- OK   6 utelatt W2154646007 «Active Labour Market Policies around the World: Coping with the Conseq» (2005) – oversikt eller studie av arbeidsmarkedstiltak generelt, uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2878163005 «How demanding are activation requirements for jobseekers» (2018) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W1482488106 «An Evaluation of the Swedish Active Labor Market Policy: New and Recei» (1994) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2059348407 «Active labour market policy, international organizations and domestic » (2007) – oversikt eller studie av arbeidsmarkedstiltak generelt, uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2118000104 «What explains high unemployment among low-skilled workers? Evidence fr» (2010) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W3212057032 «Fixing capitalism’s good jobs problem» (2021) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2792611519 «‘Scarred’ young entrepreneurs. Exploring young adults’ transition from» (2018) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2034544897 «Active labour market policy in East Germany» (2009) – oversikt eller studie av arbeidsmarkedstiltak generelt, uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2170424209 «Welfare state policy determinants of fertility level: A comparative an» (2011) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W1904182075 «Active labor market programs: a review of the evidence from evaluation» (1999) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2108320279 «The Impact of Active Labor Market Programs and Benefit Entitlement on » (2000) – oversikt eller studie av arbeidsmarkedstiltak generelt, uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2137638584 «Europeanization and the political economy of active labour market poli» (2011) – oversikt eller studie av arbeidsmarkedstiltak generelt, uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2742169252 «Rising to the youth employment challenge: New evidence on key policy i» (2017) – land utenfor Europa eller lav- og mellominntektsland, ikke randomisert forsøk innenfor mandatet
+- OK   6 utelatt W2561297055 «The short- and long-run impacts of financial crises on youth unemploym» (2016) – årsaker til eller følger av ungdomsledighet, ikke effekt av et tiltak
+- OK   6 utelatt W1493067109 «Statistically Assisted Programme Selection - International Experiences» (2003) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2316791283 «Youth Unemployment in Europe. Theoretical Considerations and Empirical» (2012) – årsaker til eller følger av ungdomsledighet, ikke effekt av et tiltak
+- OK   6 utelatt W1975855286 «Experimental estimates of the impact of wage subsidies» (1993) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2410171741 «Euro, crisis and unemployment: Youth patterns, youth policies?» (2016) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W3199197706 «Institutional set-up of active labour market policy provision in OECD » (2021) – krisestøtte for å beholde ansatte (korttidsarbeid, covid), ikke lønnstilskudd for å ansette ledige
+- OK   6 utelatt W1624252359 «Activation Policies in Finland» (2009) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2053723179 «Evaluating public sector sponsored training in East Germany» (2000) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2159961158 «Estimating the Threat Effect of Active Labour Market Programmes» (2008) – oversikt eller studie av arbeidsmarkedstiltak generelt, uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W3121209794 «Are the Spanish Long-Term Unemployed Unemployable?» (2017) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W3125102732 «An Efficiency Comparison of Regional Employment Offices Operating unde» (2007) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W1182849780 «Youth Unemployment in Advanced Economies in Europe» (2014) – årsaker til eller følger av ungdomsledighet, ikke effekt av et tiltak
+- OK   6 utelatt W1987245889 «Vocational training, employability and the post-2008 jobs crisis: Resp» (2012) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2107219359 «Do active labor market policies help unemployed workers to find and ke» (2001) – oversikt eller studie av arbeidsmarkedstiltak generelt, uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2063236072 «Active labor market policy in Germany—Is there a successful policy str» (2006) – oversikt eller studie av arbeidsmarkedstiltak generelt, uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2096130814 «The capacity of social policies to combat poverty among new social ris» (2014) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2746514927 «What drives youth unemployment in Europe? Economic vs non‐economic det» (2018) – årsaker til eller følger av ungdomsledighet, ikke effekt av et tiltak
+- OK   6 utelatt W2217815509 «Evaluating What Works for Whom in Active Labour Market Policies» (2015) – oversikt eller studie av arbeidsmarkedstiltak generelt, uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W3121819164 «Kids or courses? Gender differences in the effects of active labor mar» (2009) – oversikt eller studie av arbeidsmarkedstiltak generelt, uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W4235048385 «Integrating Immigrants into the Nordic Labour Markets» (2019) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2156409118 «Unemployment and subsequent employment stability: does labour market p» (2015) – oversikt eller studie av arbeidsmarkedstiltak generelt, uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W105215330 «In search of optimal labour market institutions» (2007) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2137415436 «The private consequences of public policies: active labor market polic» (2009) – oversikt eller studie av arbeidsmarkedstiltak generelt, uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2141022589 «The rise (and fall) of labour market programmes: domestic vs. global f» (2007) – oversikt eller studie av arbeidsmarkedstiltak generelt, uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W1585680984 «Policies to Create and Destroy Human Capital in Europe» (2011) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2755463639 «Dynamic treatment assignment and evaluation of active labor market pol» (2017) – oversikt eller studie av arbeidsmarkedstiltak generelt, uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W3088329775 «Career-first: an approach to sustainable labour market integration» (2021) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W3124733877 «Treatment Versus Regime Effects of Carrots and Sticks» (2020) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W4214715284 «No activation without reconciliation? The interplay between ALMP and E» (2022) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2740480701 «The purgatorial ethic and the spirit of welfare» (2017) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2925596152 «Understanding massive youth unemployment during the EU sovereign debt » (2019) – årsaker til eller følger av ungdomsledighet, ikke effekt av et tiltak
+- OK   6 utelatt W1596026929 «THE RELATIVE EFFECTIVENESS OF SELECTED ACTIVE LABOR MARKET PROGRAMS: A» (2011) – oversikt eller studie av arbeidsmarkedstiltak generelt, uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2035610536 «The impact of training-intensive labour market policies on labour and » (2015) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W4212777908 «Youth Unemployment and Job Insecurity in Europe» (2019) – årsaker til eller følger av ungdomsledighet, ikke effekt av et tiltak
+- OK   6 utelatt W1688845629 «Public Employment Services, and Activation Policies» (2012) – land utenfor Europa eller lav- og mellominntektsland, ikke randomisert forsøk innenfor mandatet
+- OK   6 utelatt W2577586199 «Effectiveness of Active Labor Market Tools in Conditional Cash Transfe» (2017) – land utenfor Europa eller lav- og mellominntektsland, ikke randomisert forsøk innenfor mandatet
+- OK   6 utelatt W2580895602 «Employment effects of active labor market programs for sick-listed wor» (2017) – oversikt eller studie av arbeidsmarkedstiltak generelt, uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W3179879451 «Youth unemployment and health outcomes: the moderation role of the fut» (2021) – helse, kriminalitet eller trivsel som utfall, ikke arbeid
+- OK   6 utelatt W2171212645 «Start‐up subsidies in East Germany: finally, a policy that works?» (2009) – lønnstilskudd eller sysselsettingstilskudd vurdert på tittel og sammendrag: teori, makromodell, studie av andre grupper eller annet land utenfor mandatet
+- OK   6 utelatt W1982041441 «Do case workers help the unemployed?» (2014) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2105135912 «Assessing Active Labour Market Policies in Transition Economies» (2010) – oversikt eller studie av arbeidsmarkedstiltak generelt, uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2761600587 «Does the Self-employment Policy Reduce Unemployment and Increase Emplo» (2017) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2899536193 «An evaluation of German active labour market policies: a review of the» (2018) – valgt i det blinde utvalget, men holdt utenfor: oversikt eller studie av arbeidsmarkedstiltak generelt, uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2792766054 «Impact of a personalised active labour market programme for persons wi» (2018) – oversikt eller studie av arbeidsmarkedstiltak generelt, uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W4391820525 «Impact of employment support programs on the quality of youth employme» (2024) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2949508428 «Activation is not a panacea: active labour market policy, long-term un» (2019) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W3198832166 «Are active labour market policies effective for the older unemployed? » (2021) – oversikt eller studie av arbeidsmarkedstiltak generelt, uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W1510355970 «Employer wage subsidies and wages in Germany: empirical evidence from » (2010) – lønnstilskudd eller sysselsettingstilskudd vurdert på tittel og sammendrag: teori, makromodell, studie av andre grupper eller annet land utenfor mandatet
+- OK   6 utelatt W2187818770 «Beschäftigungseffekte ausgewählter Maßnahmen der beruflichen Weiterbil» (2006) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W1489797966 «Aktive Arbeitsmarktpolitik in Deutschland: Bestandsaufnahme und Bewert» (2005) – oversikt eller studie av arbeidsmarkedstiltak generelt, uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2145989658 «The Reform of the Dutch Public Employment Service» (2007) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2961455679 «Out of the labour force and out of school: a population-representative» (2019) – helse, kriminalitet eller trivsel som utfall, ikke arbeid
+- OK   6 utelatt W2980734731 «Educational differences in macro-level determinants of early exit from» (2019) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2994510994 «Would Active Labor Market Policies Help Combat High U.S. Unemployment» (2011) – oversikt eller studie av arbeidsmarkedstiltak generelt, uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W4246248357 «Active Labor Market Policies and the British New Deal for the Young Un» (2004) – oversikt eller studie av arbeidsmarkedstiltak generelt, uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2969724461 «Compensation or competition: Bias in immigrants' access to active labo» (2019) – oversikt eller studie av arbeidsmarkedstiltak generelt, uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W3141900466 «Temporary Help Service Firms' Use of Employer Tax Credits: Implication» (2008) – skattelettelser, avgiftslettelser eller minstelønn, holdt utenfor i mandatet
+- OK   6 utelatt W4220799667 «Self-regulation training and job search input: A natural field experim» (2022) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2058111536 «‘Integrative’ or ‘Defensive’ Youth Activation in Nine European Welfare» (2005) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2223291124 «Youth employment programs : an evaluation of World Bank and IFC suppor» (2012) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W1989772846 «THE IMPACT OF WELFARE AND LABOUR MARKET INSTITUTIONS ON INFORMAL RECRU» (2006) – årsaker til eller følger av ungdomsledighet, ikke effekt av et tiltak
+- OK   6 utelatt W2181778068 «ACTIVE LABOUR MARKET POLICY EVALUATIONS» (2010) – trolig samme materiale som W2902868850 (Card, Kluve og Weber), annen versjon
+- OK   6 utelatt W2916037404 «Promoting workplace‐based training to fight youth unemployment in thre» (2019) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W4245583800 «Youth Employment Programs» (2012) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2146317294 «A Reappraisal of the Virtues of Private Sector Employment Programmes*» (2010) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2186312257 «The Net Impact of Training Measures from Active Labour Market Programs» (2015) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2559199847 «Can welfare and labour market regimes explain cross‐country difference» (2016) – årsaker til eller følger av ungdomsledighet, ikke effekt av et tiltak
+- OK   6 utelatt W4399828587 «Exploring the impact of employment policies on wages and employability» (2024) – land utenfor Europa eller lav- og mellominntektsland, ikke randomisert forsøk innenfor mandatet
+- OK   6 utelatt W1983887405 «Unemployment at a Young Age and Later Unemployment in Native Swedish a» (2014) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W3186422653 «A description of three randomised experiments in Swedish labour market» (2006) – oversikt eller studie av arbeidsmarkedstiltak generelt, uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W4386140670 «Why Should we Integrate Income and Employment Support? A Conceptual an» (2023) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W1826829199 «Labor market policy research for developing countries : recent example» (2010) – land utenfor Europa eller lav- og mellominntektsland, ikke randomisert forsøk innenfor mandatet
+- OK   6 utelatt W2133510348 «Active Labour Market Policy by a Profit‐Maximizing Firm» (2012) – oversikt eller studie av arbeidsmarkedstiltak generelt, uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2035246572 «Eine wirkungsorientierte aktive Arbeitsmarktpolitik in Deutschland und» (2002) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W4405092249 «Long-term employment and health effects of active labor market program» (2024) – helse, kriminalitet eller trivsel som utfall, ikke arbeid
+- OK   6 utelatt W2167628934 «The Effect of Making a Voluntary Labour Market Programme Compulsory: E» (2013) – oversikt eller studie av arbeidsmarkedstiltak generelt, uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W3209028100 «Do Disadvantaged Young Adults Benefit Less from Social Investment? Stu» (2021) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W4400864114 «Addressing Rural Poverty, Efficacy of MGNREGA and Migration Against Ag» (2024) – land utenfor Europa eller lav- og mellominntektsland, ikke randomisert forsøk innenfor mandatet
+- OK   6 utelatt W1580771577 «Are active labour market programs least effective where they are most » (2010) – oversikt eller studie av arbeidsmarkedstiltak generelt, uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2526278050 «Active Labor Market Policies» (2013) – oversikt eller studie av arbeidsmarkedstiltak generelt, uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2807952861 «A theory based evaluation on possible measures which increase young NE» (2018) – årsaker til eller følger av ungdomsledighet, ikke effekt av et tiltak
+- OK   6 utelatt W4391646661 «Assessing the effects of population-level political, economic and soci» (2024) – helse, kriminalitet eller trivsel som utfall, ikke arbeid
+- OK   6 utelatt W4409717033 «Active labor market policies for the long-term unemployed: New evidenc» (2025) – oversikt eller studie av arbeidsmarkedstiltak generelt, uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W4405002350 «Labour market policy in OECD countries – selected aspects» (2024) – oversikt eller studie av arbeidsmarkedstiltak generelt, uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2069093196 «Intensified activation for disadvantaged welfare recipients in Germany» (2013) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W3023286912 «The Rise of Youth Unemployment and Youth NEETs in the CEECs After the » (2020) – årsaker til eller følger av ungdomsledighet, ikke effekt av et tiltak
+- OK   6 utelatt W7165936389 «When education fails to translate into work: structural mismatch, grad» (2026) – land utenfor Europa eller lav- og mellominntektsland, ikke randomisert forsøk innenfor mandatet
+- OK   6 utelatt W3211749282 «Everyone into Work» (2021) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W7161238043 «Policy complementarity or substitution? The joint employment effects o» (2026) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W7163217664 «Digital skills for youth employment in Africa: a systematic review» (2026) – land utenfor Europa eller lav- og mellominntektsland, ikke randomisert forsøk innenfor mandatet
+- OK   6 utelatt W3021176487 «Characterizing Selection Bias Using Experimental Data» (1998) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W3016434980 «Why targeting matters: The apprenticeship program for youth in the Cze» (2020) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W3122843734 «The role of the propensity score in estimating dose-response functions» (2000) – metodelitteratur, ikke en studie av tiltaket
+- OK   6 utelatt W2057184365 «The Pre‐programme Earnings Dip and the Determinants of Participation i» (1999) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2143781558 «The Changing Nature of the School-to-Work Transition Process in OECD C» (2011) – årsaker til eller følger av ungdomsledighet, ikke effekt av et tiltak
+- OK   6 utelatt W1519636150 «An evaluation of public employment programmes in the East German State» (2002) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W138833110 «Technical and Vocational Education and Training (TVET) Interventions t» (2013) – land utenfor Europa eller lav- og mellominntektsland, ikke randomisert forsøk innenfor mandatet
+- OK   6 utelatt W7172566419 «Employment effects and fiscal spillovers of a public sector employment» (2026) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2131850093 «Constructing a Control Group Using Multivariate Matched Sampling Metho» (1985) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2008458109 «Evaluation Methods for Non‐Experimental Data» (2000) – helse, kriminalitet eller trivsel som utfall, ikke arbeid
+- OK   6 utelatt W1515828664 «Identification and estimation of causal effects of multiple treatments» (2001) – metodelitteratur, ikke en studie av tiltaket
+- OK   6 utelatt W3022934770 «Program Heterogeneity and Propensity Score Matching: An Application to» (2002) – metodelitteratur, ikke en studie av tiltaket
+- OK   6 utelatt W2120167541 «A Meta-Analysis of Government-Sponsored Training Programs» (2003) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2138442637 «Gender Differences in the Effects of Vocational Training: Constraints » (2013) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W3122517818 «LinkedIn(to) Job Opportunities: Experimental Evidence from Job Readine» (2019) – helse, kriminalitet eller trivsel som utfall, ikke arbeid
+- OK   6 utelatt W1569367983 «The Effect of Vocational Employment Training on the Individual Transit» (2002) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2267977823 «Labour market effects of retraining for the unemployed: the role of oc» (2017) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W4403424396 «Evaluating Activation Across Institutions: The Labour Force Integratio» (2024) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2748082174 «Public employment services under decentralization: Evidence from a nat» (2019) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2791233519 «The Signal of Applying for a Job Under a Vacancy Referral Scheme» (2019) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W3166706731 «Mentoring Migrants for Labor Market Integration: Policy Insights from » (2021) – land utenfor Europa eller lav- og mellominntektsland, ikke randomisert forsøk innenfor mandatet
+- OK   6 utelatt W7168178736 «Conditionality vs. autonomy: What works best in social assistance?» (2020) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2944270164 «The Future of Work – Good Jobs for All*» (2018) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2977910950 «Are traineeships stepping-stones for youth working careers in Italy?» (2019) – årsaker til eller følger av ungdomsledighet, ikke effekt av et tiltak
+- OK   6 utelatt W2290738272 «Heterogeneous impacts on earnings from an early effort in labor market» (2016) – oversikt eller studie av arbeidsmarkedstiltak generelt, uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W4367024265 «Meta-Analysis» (2022) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W1999649023 «Book Reviews: Statistical Methods for Meta-Analysis Larry V. Hedges an» (1988) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2059527510 «Distribution Theory for Glass's Estimator of Effect Size and Related E» (1981) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W151950431 «Meta-Regression Analysis in Economics and Business» (2012) – metodelitteratur, ikke en studie av tiltaket
+- OK   6 utelatt W3122089893 «The Effect of Unemployment Insurance Sanctions on the Transition Rate » (2005) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2071687232 «Earnings and Employment Effects of Continuous Gff-the-Job Training in » (1999) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W3023152110 «Punitive Sanctions and the Transition Rate from Welfare to Work» (2004) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2104405605 «Some Practical Issues in the Evaluation of Heterogeneous Labour Market» (2002) – oversikt eller studie av arbeidsmarkedstiltak generelt, uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2159199725 «The performance of estimators based on the propensity score» (2013) – metodelitteratur, ikke en studie av tiltaket
+- OK   6 utelatt W2162660350 «A Road Map to Vocational Education and Training in Industrialized Coun» (2015) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2163217287 «HOW EFFECTIVE ARE UNEMPLOYMENT BENEFIT SANCTIONS? LOOKING BEYOND UNEMP» (2012) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2119001295 «Life skills, employability and training for disadvantaged youth: Evide» (2014) – land utenfor Europa eller lav- og mellominntektsland, ikke randomisert forsøk innenfor mandatet
+- OK   6 utelatt W60352833 «The Right Skills for the Job?» (2012) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W1575145966 «Long-Term Unemployment and the Great Recession: The Role of Compositio» (2015) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W3023101338 «Learning about job search: A field experiment with job seekers in Germ» (2018) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W1537529433 «The Pre-Program Earnings Dip and the Determinants of Participation in » (1999) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2124456619 «A microeconometric evaluation of rehabilitation of long‐term sickness » (2004) – metodelitteratur, ikke en studie av tiltaket
+- OK   6 utelatt W2032325967 «Getting back into the labor market: the effects of start-up subsidies » (2015) – lønnstilskudd eller sysselsettingstilskudd vurdert på tittel og sammendrag: teori, makromodell, studie av andre grupper eller annet land utenfor mandatet
+- OK   6 utelatt W2097247864 «Employment effects of the provision of specific professional skills an» (2006) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W3122578138 «NEET Youth in the Aftermath of the Crisis: Challenges and Policies» (2015) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2001732929 «Does the public employment service affect search effort and outcomes?» (2009) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W1508777142 «CARROT AND STICK: HOW RE‐EMPLOYMENT BONUSES AND BENEFIT SANCTIONS AFFE» (2011) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W1764033952 «A review of interventions to support young workers : findings of the y» (2007) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W3122290059 «Identification and Estimation of Causal Effects of Multiple Treatments» (1999) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2050667856 «Can income support for part-time workers serve as a stepping-stone to » (2010) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W1493665049 «The Employment Effects of Active Social Policy» (2003) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2513123517 «Earnings exemptions for unemployed workers: The relationship between m» (2016) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W3123122711 «Deregulating job placement in Europe: A microeconometric evaluation of» (2006) – metodelitteratur, ikke en studie av tiltaket
+- OK   6 utelatt W3023662325 «How vocational education made women better off but left men behind» (2020) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2056284393 «Does the quality of public-sponsored training programs matter? Evidenc» (2012) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W4410888423 «Do the Long-Term Unemployed Benefit from Automated Occupational Advice» (2022) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2139135321 «The long-term earnings consequences of general vs. specific training o» (2015) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2895830303 «A typology of activation incentives» (2018) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2797811404 «Experimental Evidence on the Long-Term Effects of a Youth Training Pro» (2018) – helse, kriminalitet eller trivsel som utfall, ikke arbeid
+- OK   6 utelatt W2010186599 «Effectiveness of Further Vocational Training in Germany – Empirical Fi» (2012) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W1954929411 «Does Formal Education for Older Workers Increase Earnings? — Evidence » (2014) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2147607602 «Direct and Indirect Effects of Training Vouchers for the Unemployed» (2017) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2120048842 «Short-Term Training Programs for Immigrants: Do Effects Differ from Na» (2010) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2157044632 «Can arts-based interventions enhance labor market outcomes among youth» (2016) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2020280353 «Vermittlerstrategien und Arbeitsmarkterfolg – Evidenz aus kombinierten» (2014) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2140989402 «Estimating the effect of a retraining program on the re-employment rat» (2010) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W3123464247 «Déjà Vu? Short-term training in Germany 1980–1992 and 2000–2003» (2012) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W4220961888 «An insight into Youth Unemployment in Indonesia» (2022) – land utenfor Europa eller lav- og mellominntektsland, ikke randomisert forsøk innenfor mandatet
+- OK   6 utelatt W2098963500 «Workfare for the old and long-term unemployed» (2013) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W4213065816 «Reconsidering macroeconomic policy prescriptions with meta-analysis» (2022) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W4235925388 «Better Work» (2021) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W4303426746 «Do public libraries impact local labour markets? Evidence from Appalac» (2022) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2746887453 «Job search monitoring and assistance for the unemployed» (2017) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W3118879220 «Exiting poverty: a systematic review of U.S. postsecondary education a» (2021) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2500723268 «Training Programs for the Unemployed, Low-Income, and Low-Skilled Work» (2012) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2978653936 «Moving targets: Target groups of active labour market policies and tra» (2020) – oversikt eller studie av arbeidsmarkedstiltak generelt, uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W4399544638 «Informality and Structural Transformation in Egypt, Iraq and Jordan» (2024) – land utenfor Europa eller lav- og mellominntektsland, ikke randomisert forsøk innenfor mandatet
+- OK   6 utelatt W4387579663 «The decentralization of public employment services and local governmen» (2023) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W7133500142 «The impact of vocational skills training on earnings: Evidence from Ch» (2026) – land utenfor Europa eller lav- og mellominntektsland, ikke randomisert forsøk innenfor mandatet
+- OK   6 utelatt W1982421536 «Comparing the Probability of Unemployment in Southern Greece Vis-À-Vis» (2009) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W4206568166 «Labor Markets» (2021) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2895414705 «Use of Administrative Data for Counterfactual Impact Evaluation of Act» (2018) – oversikt eller studie av arbeidsmarkedstiltak generelt, uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W4300870773 «Statistical Power Analysis for the Behavioral Sciences» (1989) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2025610165 «Some Tests of Specification for Panel Data: Monte Carlo Evidence and a» (1991) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W1598602811 «Cochrane Handbook for Systematic Reviews of Interventions» (2008) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W4297918764 «Introduction to Meta‐Analysis» (2009) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W1538443123 «Schooling, Experience, and Earnings» (1974) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W3123974754 «Propensity Score-Matching Methods for Nonexperimental Causal Studies» (2002) – metodelitteratur, ikke en studie av tiltaket
+- OK   6 utelatt W2797884775 «Statistical Methods for Meta-Analysis.» (1986) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W1528251861 «The Handbook of Research Synthesis and Meta-Analysis» (2019) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W3123464746 «Handbook of Labor Economics» (1989) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2114242548 «Identification and Estimation of Treatment Effects with a Regression-D» (2001) – metodelitteratur, ikke en studie av tiltaket
+- OK   6 utelatt W2128017766 «Natural and Quasi- Experiments in Economics» (1994) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2131648886 «The Econometric Analysis of Transition Data» (1990) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2890543633 «Training, Wages, and Sample Selection: Estimating Sharp Bounds on Trea» (2009) – metodelitteratur, ikke en studie av tiltaket
+- OK   6 utelatt W2129783473 «What Are We Weighting For?» (2015) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2088783942 «Empirical assessment of effect of publication bias on meta-analyses» (2000) – metodelitteratur, ikke en studie av tiltaket
+- OK   6 utelatt W2108764514 «Assignment to Treatment Group on the Basis of a Covariate» (1977) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W1507344949 «Alternative methods for evaluating the impact of interventions» (1985) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2116356733 «Do Labor Market Opportunities Affect Young Women's Work and Family Dec» (2012) – land utenfor Europa eller lav- og mellominntektsland, ikke randomisert forsøk innenfor mandatet
+- OK   6 utelatt W2024692342 «How robust is the evidence on the effects of college quality? Evidence» (2004) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2980978202 «Effect sizes for continuous data.» (2009) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2159224312 «Time-Series Minimum-Wage Studies: A Meta-analysis» (2007) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W1831513200 «The Perverse Effects of Partial Labour Market Reform: Fixed‐Term Contr» (2002) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2093029608 «Longitudinal Analysis of Labor Market Data» (1985) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2121870456 «Generating Skilled Self-Employment in Developing Countries: Experiment» (2013) – land utenfor Europa eller lav- og mellominntektsland, ikke randomisert forsøk innenfor mandatet
+- OK   6 utelatt W3121734516 «EMPIRICS OF CHINA'S OUTWARD DIRECT INVESTMENT» (2009) – land utenfor Europa eller lav- og mellominntektsland, ikke randomisert forsøk innenfor mandatet
+- OK   6 utelatt W2034058229 «Does Job Corps Work? Impact Findings from the National Job Corps Study» (2008) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2017051026 «Demand-side vs. supply-side technology policies: Hidden treatment and » (2014) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2146542841 «MEASURING INTERTEMPORAL SUBSTITUTION: THE IMPORTANCE OF METHOD CHOICES» (2015) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W4246685888 «For Protection and Promotion» (2008) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W1574522852 «Multinationals’ profit response to tax differentials: Effect size and » (2017) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W1982974716 «The Role of the Propensity Score in Estimating Dose-Response Functions» (1999) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W4220927925 «Strengthening women's empowerment and gender equality in fragile conte» (2022) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W3122579391 «An Evaluation of Public-Sector-Sponsored Continuous Vocational Trainin» (2000) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W3124717452 «Flexicurity Labour Market Performance in Denmark» (2007) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2077377515 «Are the Long-Term Unemployed on the Margins of the Labor Market?» (2014) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2108977677 «The Labor Market Impacts of Youth Training in the Dominican Republic» (2011) – land utenfor Europa eller lav- og mellominntektsland, ikke randomisert forsøk innenfor mandatet
+- OK   6 utelatt W2159743974 «Activation and employment support policies in OECD countries. An overv» (2012) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W3175476975 «The Long Shadow of Informality» (2021) – land utenfor Europa eller lav- og mellominntektsland, ikke randomisert forsøk innenfor mandatet
+- OK   6 utelatt W3121348973 «Capital structure choice and company taxation: A meta-study» (2013) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2032350398 «Unemployment duration, unemployment benefits, and labor market program» (1996) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W3083474009 «LABOR MARKET EFFECTS OF UNEMPLOYMENT INSURANCE DESIGN» (2012) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W172350781 «New Chance. Final Report on a Comprehensive Program for Young Mothers » (1997) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W3122196295 «The Effects of Algorithmic Labor Market Recommendations: Evidence from» (2016) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W1553094102 «International Handbook of Labour Market Policy and Evaluation» (1996) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W3123760190 «Providing Advice to Jobseekers at Low Cost: An Experimental Study on O» (2018) – helse, kriminalitet eller trivsel som utfall, ikke arbeid
+- OK   6 utelatt W2141338891 «Employment Prospects and Skill Acquisition of Apprenticeship-Trained W» (1996) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W3045217171 «RCTs to Scale: Comprehensive Evidence from Two Nudge Units» (2020) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2892364420 «The Effects of Unemployment Insurance Benefits: New Evidence and Inter» (2016) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2037057553 «The Impact of Vocational Training for the Unemployed: Experimental Evi» (2014) – land utenfor Europa eller lav- og mellominntektsland, ikke randomisert forsøk innenfor mandatet
+- OK   6 utelatt W2035140384 «Stimulating managerial capital in emerging markets: the impact of busi» (2013) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2112414356 «Evaluating the Differential Effects of Alternative Welfare‐to‐Work Tra» (2006) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W1967604150 «Propensity score matching without conditional independence assumption—» (2007) – metodelitteratur, ikke en studie av tiltaket
+- OK   6 utelatt W2063525710 «Measuring Program Impacts on Earnings and Employment: Do Unemployment » (1999) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W3023568866 «Does subsidised temporary employment get the unemployed back to work? » (2004) – lønnstilskudd eller sysselsettingstilskudd vurdert på tittel og sammendrag: teori, makromodell, studie av andre grupper eller annet land utenfor mandatet
+- OK   6 utelatt W3125888977 «What Works Among Active Labour Market Policies: Evidence From OECD Cou» (1998) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2947536238 «Do Consumers Really Follow a Rule of Thumb? Three Thousand Estimates f» (2016) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W3123280486 «Private and Public Provision of Counseling to Job Seekers: Evidence fr» (2014) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2791474259 «Good intentions and Matthew effects: access biases in participation in» (2018) – oversikt eller studie av arbeidsmarkedstiltak generelt, uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2035654910 «An Evaluation of Business Start-Up Support for Young People» (2003) – årsaker til eller følger av ungdomsledighet, ikke effekt av et tiltak
+- OK   6 utelatt W2733095170 «JOBSTART. Final Report on a Program for School Dropouts.» (1993) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W3123914943 «Long-Run Effects of Public Sector Sponsored Training in West Germany» (2005) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2081566815 «Likelihood-Based Analysis of Causal Effects of Job-Training Programs U» (2009) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2755272653 «Vocational training programs and youth labor market outcomes: Evidence» (2018) – land utenfor Europa eller lav- og mellominntektsland, ikke randomisert forsøk innenfor mandatet
+- OK   6 utelatt W3122196547 «15 Years of Research on US Employment and the Minimum Wage» (2019) – skattelettelser, avgiftslettelser eller minstelønn, holdt utenfor i mandatet
+- OK   6 utelatt W1543123780 «National Job Corps Study: The Impacts of Job Corps on Participants' Em» (2001) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2784457974 «Does education raise productivity and wages equally? The moderating ro» (2018) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2166625095 «Technical and vocational education and training (TVET) for young peopl» (2013) – land utenfor Europa eller lav- og mellominntektsland, ikke randomisert forsøk innenfor mandatet
+- OK   6 utelatt W2530017686 «Do Lower Caseloads Improve the Performance of Public Employment Servic» (2016) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W3121572840 «Long-Term Unemployment and the Great Recession: The Role of Compositio» (2014) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W4307292943 «Job Search and Hiring with Limited Information about Workseekers’ Skil» (2022) – land utenfor Europa eller lav- og mellominntektsland, ikke randomisert forsøk innenfor mandatet
+- OK   6 utelatt W2742888328 «A Cross-Country Database of Fiscal Space» (2017) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W1681517789 «Training the Unemployed in France: How Does it Affect Unemployment Dur» (2012) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W1969335568 «School-to-Career Programs and Transitions to Employment and Higher Edu» (2003) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2972422537 «The effectiveness of interventions to reduce informality in low- and m» (2020) – land utenfor Europa eller lav- og mellominntektsland, ikke randomisert forsøk innenfor mandatet
+- OK   6 utelatt W2066183431 «Evaluating the Effect of Training on Wages in the Presence of Noncompl» (2012) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W596796264 «Regional Effect Heterogeneity of Start-up Subsidies for the Unemployed» (2014) – lønnstilskudd eller sysselsettingstilskudd vurdert på tittel og sammendrag: teori, makromodell, studie av andre grupper eller annet land utenfor mandatet
+- OK   6 utelatt W2161647648 «A Flexicurity Labour Market in the Great Recession: The Case of Denmar» (2012) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2946968006 «The benefits of adult learning: Work-related training, social capital,» (2019) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W3123298985 «Nudging for Tax Compliance: A Meta-Analysis» (2020) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W4317790394 «Local Labor Market Impacts of the Energy Transition: Prospects and Pol» (2023) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W4281570948 «Impact of social protection on gender equality in low- and middle-inco» (2022) – land utenfor Europa eller lav- og mellominntektsland, ikke randomisert forsøk innenfor mandatet
+- OK   6 utelatt W2759861599 «The Role of Caseworkers in Unemployment Insurance: Evidence from Unpla» (2019) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W3124312408 «Quick Job Entry or Long-Term Human Capital Development? The Dynamic Ef» (2012) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W3121428353 «Do Interventions Targeted at Micro-Entrepreneurs and Small and Medium-» (2014) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W4285776490 «Social Democratic Capitalism» (2019) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W3158449335 «The Elasticity of Taxable Income: A Meta-Regression Analysis» (2021) – metodelitteratur, ikke en studie av tiltaket
+- OK   6 utelatt W2156877177 «Job search incentives and job match quality» (2012) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W654496813 «Meta-regression analysis: issues of publication bias in economics» (2005) – metodelitteratur, ikke en studie av tiltaket
+- OK   6 utelatt W1567498217 «The Welfare State and Antipoverty Policy in Rich Countries» (2014) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W1606459796 «DO TRAINING PROGRAMMES GET THE UNEMPLOYED BACK TO WORK? A LOOK AT THE » (2005) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W3125188766 «Dynamic Treatment Assignment - the Consequences for Evaluations Using » (2004) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2139102553 «Assessing ‘what works’ in international development: meta-analysis for» (2012) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W3121972818 «The Employment Effects of Job Creation Schemes in Germany: A Microecon» (2005) – metodelitteratur, ikke en studie av tiltaket
+- OK   6 utelatt W3200713631 «Student Employment and Education: A Meta-Analysis» (2024) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2810978701 «Labor Market Duality in Korea» (2018) – land utenfor Europa eller lav- og mellominntektsland, ikke randomisert forsøk innenfor mandatet
+- OK   6 utelatt W3122298518 «The Great Recession Was Not so Great» (2015) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2921980343 «Effectiveness of Active Labour Market Programmes on the Job Quality of» (2019) – oversikt eller studie av arbeidsmarkedstiltak generelt, uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2921111786 «Active Labor Market Policies: Lessons from Other Countries for the Uni» (2019) – oversikt eller studie av arbeidsmarkedstiltak generelt, uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2001047568 «Testing the importance of search frictions and matching through a rand» (2015) – land utenfor Europa eller lav- og mellominntektsland, ikke randomisert forsøk innenfor mandatet
+- OK   6 utelatt W3005557096 «Nudging for Tax Compliance: A Meta-Analysis» (2019) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W3168123780 «Labor Monopsony and the Limits of the Law» (2019) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2001545916 «A nonexperimental evaluation of training programs for the unemployed i» (2002) – helse, kriminalitet eller trivsel som utfall, ikke arbeid
+- OK   6 utelatt W4386618539 «Machine Learning Ensemble Modelling for Predicting Unemployment Durati» (2023) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2141338886 «Bounds on Average and Quantile Treatment Effects of Job Corps Training» (2013) – metodelitteratur, ikke en studie av tiltaket
+- OK   6 utelatt W2914352704 «THE EFFECTS OF HUMAN CAPITAL INTERVENTIONS ON ENTREPRENEURIAL PERFORMA» (2019) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2921623399 «Breaking the Cycle of Roma Exclusion in the Western Balkans» (2019) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W4403087596 «Nudging for Tax Compliance: A Meta-Analysis» (2024) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W1965634781 «Does the exchange rate regime make a difference in inflation performan» (2012) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W1990902288 «Looking beyond the bridge: The effect of temporary agency employment o» (2013) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2886696439 «Technical Education, Non-cognitive Skills and Labor Market Outcomes: E» (2021) – land utenfor Europa eller lav- og mellominntektsland, ikke randomisert forsøk innenfor mandatet
+- OK   6 utelatt W4407768766 «Relative Risk Aversion: A Meta‐Analysis» (2025) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W7221537620 «The Direct and Indirect Effects of Online Job Search Advice» (2026) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2033620600 «An economic evaluation of public programs for internationalization: Th» (2013) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2079737386 «The Role of Workfare in Striking a Balance between Incentives and Insu» (2013) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2111887440 «Building women’s economic and social empowerment through enterprise: a» (2013) – land utenfor Europa eller lav- og mellominntektsland, ikke randomisert forsøk innenfor mandatet
+- OK   6 utelatt W4292357094 «Are temporary jobs stepping stones or dead ends? A systematic review o» (2022) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W3175655295 «When Does Monetary Policy Sway House Prices? A Meta-Analysis» (2022) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2910996322 «The triple bind of single-parent families: resources, employment and p» (2018) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2117817624 «The Challenge of Repeating Success in a Changing World Final Report on» (2005) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2769862181 «Vocational training and employability: Evaluation evidence from Romani» (2017) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2888947028 «“This time may be a little different” – exploring the Finnish view on » (2018) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W3123560832 «Economists in the PITS?» (2009) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W578781176 «Discrimination, Sickness Absence, and Labor Market Policy» (2006) – oversikt eller studie av arbeidsmarkedstiltak generelt, uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2611528695 «Nordic Economic Policy Review» (2017) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W3124262707 «Quick Job Entry or Long-TermHuman Capital Development? The Dynamic Eff» (2012) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W4324331361 «Active labor market as an instrument to reduce unemployment» (2023) – oversikt eller studie av arbeidsmarkedstiltak generelt, uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W3125203222 «How to stimulate single mothers on welfare to find a job: evidence fro» (2016) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2032212253 «Employment policies, hiring practices and firm performance» (2013) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W4200233864 «Social Investment» (2021) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2917348443 «Do individual and work-related factors differentiate work participatio» (2019) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W1540834819 «An Activation Program as a Stick to Job Finding» (2011) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W1932883233 «The Threat Effect of Mandatory Programmes in Finland» (2011) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W3035920325 «Jobs Interventions for Refugees and Internally Displaced Persons» (2020) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W4211030288 «A meta-analysis of the impact of agricultural extension services» (2022) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W3042986006 «The Changing Role of Personal Resources in Perceived Employability of » (2020) – årsaker til eller følger av ungdomsledighet, ikke effekt av et tiltak
+- OK   6 utelatt W4402910199 «The effects of board gender quotas: A meta-analysis» (2024) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2471540414 «Discretionary approaches to social workers’ personalisation of activat» (2016) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2894608649 «The impact of labour subsidies on total factor productivity and profit» (2018) – lønnstilskudd eller sysselsettingstilskudd vurdert på tittel og sammendrag: teori, makromodell, studie av andre grupper eller annet land utenfor mandatet
+- OK   6 utelatt W3081233481 «Job Creation and Wages in Least Developed Countries: Evidence from Sub» (2020) – land utenfor Europa eller lav- og mellominntektsland, ikke randomisert forsøk innenfor mandatet
+- OK   6 utelatt W2511480658 «What is the impact of flexicurity on the chances of entry into employm» (2016) – helse, kriminalitet eller trivsel som utfall, ikke arbeid
+- OK   6 utelatt W101484472 «Benefits or Work? Social Programs and Labor Supply» (2013) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2605825476 «Early Retirement across Europe. Does Non‐Standard Employment Increase » (2017) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W4393216435 «Activation policy: bruised and battered but still standing» (2024) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W4403209039 «Employment Effects of Skills Trainings in Sub-Saharan Africa: A System» (2024) – land utenfor Europa eller lav- og mellominntektsland, ikke randomisert forsøk innenfor mandatet
+- OK   6 utelatt W2033064238 «The effectiveness of active labor market policies: Evidence from a soc» (2013) – oversikt eller studie av arbeidsmarkedstiltak generelt, uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W4402494686 «The value of commuting time, flexibility, and job security: Evidence f» (2024) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2115866613 «The Effects of Job Corps Training on Wages of Adolescents and Young Ad» (2013) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2972986463 «Free, free, set them free? Are programmes effective that allow job cen» (2019) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W4211143383 «6 Migration, inclusion and social cohesion: Challenges, recent develop» (2020) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W4283727926 «Wishing for More: Technological Change, the Rise of Involuntary Part-T» (2022) – oversikt eller studie av arbeidsmarkedstiltak generelt, uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W4323924027 «Nordic Lessons for an Inclusive Recovery? Responses to the Impact of C» (2023) – krisestøtte for å beholde ansatte (korttidsarbeid, covid), ikke lønnstilskudd for å ansette ledige
+- OK   6 utelatt W4399466691 «The Lifetime Impacts of the New Deal's Youth Employment Program» (2024) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2607561688 «Unemployment reduction or labor force expansion? How partisanship matt» (2017) – oversikt eller studie av arbeidsmarkedstiltak generelt, uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W4247255837 «Protection and Training Institutions for Improving Workforce Integrati» (2016) – land utenfor Europa eller lav- og mellominntektsland, ikke randomisert forsøk innenfor mandatet
+- OK   6 utelatt W4289843826 «Social protection in Russia: Choices of the future» (2022) – krisestøtte for å beholde ansatte (korttidsarbeid, covid), ikke lønnstilskudd for å ansette ledige
+- OK   6 utelatt W4301374062 «Europe and Central Asia Economic Update, Fall 2022: Social Protection » (2022) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W4362634419 «Determinants of macroeconomic resilience in the euro area: An empirica» (2023) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W4405019671 «Job search, unemployment insurance, and active labor market policies» (2024) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W1492965151 «Do Flexicurity Policies Affect Labour Market Outcomes? An Analysis of » (2012) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W4409166765 «Robots vs. Workers: Evidence From a Meta‐Analysis» (2025) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W4413828325 «Income Equality in the Nordic Countries: Myths, Facts, and Lessons» (2025) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2991330526 «Migration, inclusion and social cohesion: Challenges, recent developme» (2019) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W3164755990 «Are Temporary Jobs Stepping Stones or Dead Ends? A Meta-Analytical Rev» (2021) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W4393089981 «Is online job training for all? Experimental evidence on the effects o» (2024) – helse, kriminalitet eller trivsel som utfall, ikke arbeid
+- OK   6 utelatt W2977650033 «Vocational education in Kenya: evidence from a randomized evaluation a» (2013) – land utenfor Europa eller lav- og mellominntektsland, ikke randomisert forsøk innenfor mandatet
+- OK   6 utelatt W4313364517 «The Effects of Working While in School: Evidence from Employment Lotte» (2022) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W4408159952 «A realist synthesis of interventions for youth not in education, emplo» (2025) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2773125183 «Effectiveness of a job vacancy referral scheme» (2017) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W3124881456 «Social Experiments in the Labor Market» (2017) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W4401871492 «The long-term effects of job training on labor market and skills outco» (2024) – land utenfor Europa eller lav- og mellominntektsland, ikke randomisert forsøk innenfor mandatet
+- OK   6 utelatt W2074420776 «Courses or individual counselling: does job search assistance work?» (2014) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W3093641926 «A munkanélküliség és a közfoglalkoztatás területi különbségei, összefü» (2020) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W4210603759 «Providing Government Assistance Online: A Field Experiment with the Un» (2022) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2092475479 «An approach to evaluating school-to-work initiatives: post-secondary a» (2001) – årsaker til eller følger av ungdomsledighet, ikke effekt av et tiltak
+- OK   6 utelatt W2944311615 «Joint provision of income and employment support: Evidence from a cris» (2020) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W4362577753 «Using Machine Learning to Create an Early Warning System for Welfare R» (2023) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W4415689128 «Labor market outcomes of formal vocational education and training: a m» (2025) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W1593972785 «Die Hartz-Gesetze zur Arbeitsmarktpolitik.» (2004) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W3200681678 «A scoping review of research on coordinated pathways towards employmen» (2021) – årsaker til eller følger av ungdomsledighet, ikke effekt av et tiltak
+- OK   6 utelatt W1571125506 «Connecting Workers to Jobs: L atin A merican Innovations in Labor Inte» (2013) – land utenfor Europa eller lav- og mellominntektsland, ikke randomisert forsøk innenfor mandatet
+- OK   6 utelatt W1589033174 «Évaluation des politiques actives du marché du travail» (2014) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W4289745208 «2000-2020 Yılları Arasında G7 Ülkeleri ve Türkiye’nin İşgücü Piyasası » (2022) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W7149436309 «Foundations for Growth and Competitiveness 2026» (2026) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W3126113748 «Does Coordination of Welfare Services Delivery Make a Difference for E» (2013) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W3134577985 «EU Structural funds and employment policy performance in Greece: impac» (2021) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W4236048558 «Climate change» (2021) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W4407191195 «Are Soft Skills Enough? Experimental Evidence on Skill Complementarity» (2025) – land utenfor Europa eller lav- og mellominntektsland, ikke randomisert forsøk innenfor mandatet
+- OK   6 utelatt W1984529891 «The Dynamics of Regional Labour Markets and Training Programmes: Greek» (2010) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W1981963372 «Mikroökonomische Beschäftigungseffekte des Hamburger Modells zur Besch» (2009) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2767523934 «Youth Labour Market Prospects and Recent Policy Developments» (2017) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W4399916193 «Activating the long-term inactive: Labor market and mental health effe» (2024) – helse, kriminalitet eller trivsel som utfall, ikke arbeid
+- OK   6 utelatt W1557818164 «Swedish Fiscal Policy» (2011) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2016339460 «Valutare l'impatto della formazione professionale sull'inserimento lav» (2014) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W4295788892 «Automated impact assessment - How digitizing government enables rapid » (2022) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W4392307082 «Youth employment policies» (2024) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W4409132337 «Shaping skills: A qualitative dive into India's evolving skill develop» (2025) – land utenfor Europa eller lav- og mellominntektsland, ikke randomisert forsøk innenfor mandatet
+- OK   6 utelatt W1516267348 «Migration and work: the cohesive role of vocational training policies» (2016) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2202882168 «Los efectos de la formación ocupacional: ¿Importa la duración de las a» (2010) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2221805172 «Back in Business: Private Sector Development for Poverty Reduction in » (2015) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W3158219974 «PROTOCOL: Impact of social protection on gender equality in low- and m» (2021) – land utenfor Europa eller lav- og mellominntektsland, ikke randomisert forsøk innenfor mandatet
+- OK   6 utelatt W4243695288 «Rejuvenating Greece’s labour market to generate more and higher-qualit» (2021) – krisestøtte for å beholde ansatte (korttidsarbeid, covid), ikke lønnstilskudd for å ansette ledige
+- OK   6 utelatt W4407134751 «Volume, Risk, Complexity: What Makes Development Finance Projects Succ» (2025) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W4413014681 «Poverty and Health» (2025) – land utenfor Europa eller lav- og mellominntektsland, ikke randomisert forsøk innenfor mandatet
+- OK   6 utelatt W1774633958 «Améliorer l’efficacité du service public pour l’emploi» (2015) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W4376471864 «Causal Evaluation of Educational Policies» (2023) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2990656509 «Social Democratic Capitalism and the Good Society» (2019) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W4405259047 «Evaluating Active Labour Market Policies in Türkiye by Regions via Mul» (2024) – oversikt eller studie av arbeidsmarkedstiltak generelt, uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W4200245889 «Employment Promotion» (2021) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W4387636463 «Unemployment and related benefits in Bulgaria» (2022) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W7131629014 «Reconceptualizing sustainable employment: a new framework for assessin» (2026) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W7216063268 «Hubungan Pelatihan Berbasis Kompetensi dengan Kesiapan Kerja Peserta P» (2026) – land utenfor Europa eller lav- og mellominntektsland, ikke randomisert forsøk innenfor mandatet
+- OK   6 utelatt W2010631631 «Five Characteristics of Youth Unemployment in Europe» (2015) – årsaker til eller følger av ungdomsledighet, ikke effekt av et tiltak
+- OK   6 utelatt W3125516056 «NEET Youth in the Aftermath of the Crisis» (2015) – årsaker til eller følger av ungdomsledighet, ikke effekt av et tiltak
+- OK   6 utelatt W2145102371 «Going Separate Ways? School-to-Work Transitions in the United States a» (2009) – årsaker til eller følger av ungdomsledighet, ikke effekt av et tiltak
+- OK   6 utelatt W3121783519 «Enhancing the Effectiveness of Active Labour Market Policies: Evidence» (1996) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W1480119125 «A Critical Survey of Empirical Methods for Evaluating Active Labor Mar» (2000) – oversikt eller studie av arbeidsmarkedstiltak generelt, uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W3122295018 «Labor market policy: A comparative view on the costs and benefits of l» (2011) – skattelettelser, avgiftslettelser eller minstelønn, holdt utenfor i mandatet
+- OK   6 utelatt W2066211590 «The Threat Effect of Active Labour Market Programmes*» (2008) – oversikt eller studie av arbeidsmarkedstiltak generelt, uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W3013209943 «The Challenges for Labour Market Policy during the COVID‐19 Pandemic*» (2020) – krisestøtte for å beholde ansatte (korttidsarbeid, covid), ikke lønnstilskudd for å ansette ledige
+- OK   6 utelatt W2286640293 «Integrating Immigrants: The Impact of Restructuring Active Labor Marke» (2016) – oversikt eller studie av arbeidsmarkedstiltak generelt, uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W3010580090 «Double machine learning-based programme evaluation under unconfoundedn» (2022) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2002708649 «Microeconometric Evaluation of the Active Labour Market Policy in Swit» (2000) – metodelitteratur, ikke en studie av tiltaket
+- OK   6 utelatt W2095826827 «When Does Cooperation Improve Public Policy Implementation?» (2007) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2153652588 «Starting Well or Losing their Way?» (2006) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2300133521 «Start-up subsidies for the unemployed: Opportunities and limitations» (2016) – lønnstilskudd eller sysselsettingstilskudd vurdert på tittel og sammendrag: teori, makromodell, studie av andre grupper eller annet land utenfor mandatet
+- OK   6 utelatt W2170153069 «How demanding are eligibility criteria for unemployment benefits, quan» (2015) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W1488143163 «The Long-Term Gains from GAIN: A Re-Analysis of the Impacts of the Cal» (2000) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W1690202512 «Learning-by-doing versus on-the-job training: using variation induced » (2003) – skattelettelser, avgiftslettelser eller minstelønn, holdt utenfor i mandatet
+- OK   6 utelatt W1593920863 «Promoting social E urope? The development of E uropean youth unemploym» (2013) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2921836311 «Job Displacement, Unemployment, and Crime: Evidence from Danish Microd» (2019) – helse, kriminalitet eller trivsel som utfall, ikke arbeid
+- OK   6 utelatt W4375859163 «Causal Machine Learning and its use for public policy» (2023) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2288113585 «Comparative Social Policy Analysis and Active Labour Market Policy: Pu» (2015) – oversikt eller studie av arbeidsmarkedstiltak generelt, uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W4318594955 «Evaluation of Active Labour Market Policies in Finland» (2023) – oversikt eller studie av arbeidsmarkedstiltak generelt, uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W3183752455 «Better together: Active and passive labor market policies in developed» (2021) – oversikt eller studie av arbeidsmarkedstiltak generelt, uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W3092049880 «Can Active Labour Market Programmes Emulate the Mental Health Benefits» (2020) – helse, kriminalitet eller trivsel som utfall, ikke arbeid
+- OK   6 utelatt W2263730150 «Active Labour Market Policies and Social Integration in Germany: Do ‘O» (2015) – oversikt eller studie av arbeidsmarkedstiltak generelt, uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W1520468421 «Delivering NEET policy packages? A decade of NEET policy in England» (2015) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2300778885 «Can Wage Subsidies Boost Employment in the Wake of an Economic Crisis?» (2020) – land utenfor Europa eller lav- og mellominntektsland, ikke randomisert forsøk innenfor mandatet
+- OK   6 utelatt W2751722517 «Bridging the Intention-Behavior Gap? The Effect of Plan-Making Prompts» (2019) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W3194005453 «Evidence Aggregation for Treatment Choice» (2021) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W4400154499 «Impact Evaluation of the Digital Tool for Employment Counsellors in Sp» (2023) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2011072872 «Active Labour Market Policy and Unemployment Scarring: A Ten-year Swed» (2008) – oversikt eller studie av arbeidsmarkedstiltak generelt, uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W136357857 «Youth unemployment» (2013) – årsaker til eller følger av ungdomsledighet, ikke effekt av et tiltak
+- OK   6 utelatt W4389300377 «(in) Accuracy in Algorithmic Profiling of the Unemployed – An Explorat» (2023) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2087158001 «Does vocational training help young people find a (good) job?» (2014) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2758975843 «Women’s Empowerment in Action» (2017) – land utenfor Europa eller lav- og mellominntektsland, ikke randomisert forsøk innenfor mandatet
+- OK   6 utelatt W2775120676 «Precarious Work in Europe: Assessing Cross-National Differences and In» (2017) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W4386560690 «Establishing Quality in Technical and Vocational Education in Burundi:» (2023) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2112110100 «Youth : unemployment, identity and policy» (1996) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W4362586237 «The impact of social impact bond financing» (2023) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2178039346 «The state and class discipline: European labour market policy after th» (2017) – oversikt eller studie av arbeidsmarkedstiltak generelt, uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W223185315 «Youth Unemployment and Society» (1994) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W3184022655 «The promise and peril of youth entrepreneurship in the Middle East and» (2021) – land utenfor Europa eller lav- og mellominntektsland, ikke randomisert forsøk innenfor mandatet
+- OK   6 utelatt W3200301041 «Carrots or sticks? A multilevel analysis of active labour market polic» (2021) – oversikt eller studie av arbeidsmarkedstiltak generelt, uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2090476474 «What Works, Who Works? The Employment and Earnings Effects of Active L» (1997) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2512942563 «Is ethnicity a meaningful category of employment policies for Roma? A » (2016) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2948286066 «Active and passive labour market policies on the Russian labour market» (2019) – oversikt eller studie av arbeidsmarkedstiltak generelt, uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W3039917336 «Starting Business Out of Unemployment: How Do Supported Self-employed » (2020) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W4390122519 «Harnessing the job creation capacity of young rural agripreneurs: A qu» (2023) – land utenfor Europa eller lav- og mellominntektsland, ikke randomisert forsøk innenfor mandatet
+- OK   6 utelatt W1985895491 «Quantity over quality: a political economy of ‘active labour market po» (2014) – oversikt eller studie av arbeidsmarkedstiltak generelt, uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W3016287496 «Participation in labour market programmes: A positive or negative sign» (2020) – oversikt eller studie av arbeidsmarkedstiltak generelt, uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W4281777893 «Does extending the internship period in vocational schools of higher e» (2022) – land utenfor Europa eller lav- og mellominntektsland, ikke randomisert forsøk innenfor mandatet
+- OK   6 utelatt W4312122490 «Determinants of school to work transition and COVID-19» (2022) – krisestøtte for å beholde ansatte (korttidsarbeid, covid), ikke lønnstilskudd for å ansette ledige
+- OK   6 utelatt W3134128562 «Employer Engagement and Active Labour Market Policies. Evidence from a» (2021) – oversikt eller studie av arbeidsmarkedstiltak generelt, uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2748259884 «Multiple active labor market policy participation in East Germany: an » (2000) – oversikt eller studie av arbeidsmarkedstiltak generelt, uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2968045910 «Employability and Sustainability of Young Graduates in the Slovak Labo» (2019) – årsaker til eller følger av ungdomsledighet, ikke effekt av et tiltak
+- OK   6 utelatt W1974174464 «Social Workers’ Training Evaluated by a Cluster-Randomized Study» (2015) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2168131554 «Union responses to young workers since the Great Recession in Ireland,» (2013) – årsaker til eller følger av ungdomsledighet, ikke effekt av et tiltak
+- OK   6 utelatt W2907253045 «Who benefits from social investment? The gendered effects of family an» (2019) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W3107150312 «The Multi-Tool Nature of Active Labour Market Policy and its Implicati» (2020) – oversikt eller studie av arbeidsmarkedstiltak generelt, uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W4283219989 «Assessing Canada’s System of Impact Evaluation of Active Labour Market» (2022) – oversikt eller studie av arbeidsmarkedstiltak generelt, uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2153495583 «Welfare states amid economic turmoil: adjusting work-oriented policy» (2011) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2572377777 «Minimum income schemes in Europe: is there a trade-off with activation» (2017) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W4224240894 «Exploring Women’s Uptake of Active Labour Market Programmes: The Role » (2022) – oversikt eller studie av arbeidsmarkedstiltak generelt, uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2036089346 «Was kann die Aktive Arbeitsmarktpolitik in Deutschland aus der Evaluat» (2002) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W4327731539 «Class Conflict or Consensus? Understanding Social Partner Positions on» (2023) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W4384828655 «Poverty, inequality, and redistribution: An analysis of the equalizing» (2023) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W4387818107 «Social functioning and personal development among individuals with low» (2023) – oversikt eller studie av arbeidsmarkedstiltak generelt, uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2152625307 «A reform agenda for improving the delivery of ALMPs in the MENA region» (2013) – land utenfor Europa eller lav- og mellominntektsland, ikke randomisert forsøk innenfor mandatet
+- OK   6 utelatt W4390613512 «How Can Dual Education in Technical and Vocational Institutions Improv» (2024) – land utenfor Europa eller lav- og mellominntektsland, ikke randomisert forsøk innenfor mandatet
+- OK   6 utelatt W1592455877 «How Do Policies Affect the Exit Rate out of Unemployment? Disentanglin» (2014) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2061734796 «Enhancing Vocational Training Effectiveness Through Active Labour Mark» (2014) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2987214530 «Modelling the Costs of Unemployment for Young Graduates in Slovakia: A» (2019) – årsaker til eller følger av ungdomsledighet, ikke effekt av et tiltak
+- OK   6 utelatt W4403010280 «critical analysis of Rwanda’s Digital skills and entrepreneurship trai» (2024) – land utenfor Europa eller lav- og mellominntektsland, ikke randomisert forsøk innenfor mandatet
+- OK   6 utelatt W166782240 «Transition from Unemployment to Work and the Role of Active Labour Mar» (2011) – oversikt eller studie av arbeidsmarkedstiltak generelt, uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2116132589 «The Australian Labour Market: The More Things Change …» (2015) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2344486317 «THE ROLE OF PRIVATE COMPANIES IN THE DANISH ACTIVE LABOUR MARKET POLIC» (2016) – oversikt eller studie av arbeidsmarkedstiltak generelt, uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2570467134 «Counterfactual Impact Evaluation of the Project Internships for Young » (2016) – praksisplass for studenter i siste studieår, ikke lønnstilskudd for ledige unge
+- OK   6 utelatt W4220737590 «NEET during the School-to-Work Transition in the Netherlands» (2022) – årsaker til eller følger av ungdomsledighet, ikke effekt av et tiltak
+- OK   6 utelatt W3113437472 «Assessment of the net effect of the active labour market policy in Bul» (2020) – oversikt eller studie av arbeidsmarkedstiltak generelt, uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W4295007874 «Digital Networking and the Case of Youth Unemployment in South Africa» (2022) – land utenfor Europa eller lav- og mellominntektsland, ikke randomisert forsøk innenfor mandatet
+- OK   6 utelatt W2329639810 «An Agent-Based Simulation of the Swiss Labour Market: An Alternative f» (2015) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2810135097 «Contextualising institutional complementarity. How long‐term unemploym» (2017) – oversikt eller studie av arbeidsmarkedstiltak generelt, uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W3088554299 «Quebec’s resilient redistribution model: Activation policies in the 20» (2020) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W1874091009 «Hacia un Uruguay mas equitativo : los desafios del sistema de protecci» (2013) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2493875473 «Norway: Social Security, Active Labour Market Policies and Economic Pr» (2008) – oversikt eller studie av arbeidsmarkedstiltak generelt, uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W4388268339 «Effects and explanations of active labour market policy: theoretical a» (2023) – oversikt eller studie av arbeidsmarkedstiltak generelt, uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W7156734950 «Varieties of Capitalism and Cross-national Variation in Fertility Rate» (2026) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W4238425734 «Investing in Integrative Active Labour Market Policies» (2020) – oversikt eller studie av arbeidsmarkedstiltak generelt, uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W7131073882 «Is Türkiye’s on-the-job training program sustainable? A qualitative ev» (2026) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W7155513129 «Gender Inequality in Youth Labour Market Transitions: Evidence from Ka» (2026) – land utenfor Europa eller lav- og mellominntektsland, ikke randomisert forsøk innenfor mandatet
+- OK   6 utelatt W3124541348 «What Works? A Meta Analysis of Recent Active Labor Market Program Eval» (2015) – oversikt eller studie av arbeidsmarkedstiltak generelt, uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2009816422 «Is the Threat of Reemployment Services More Effective Than the Service» (2003) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2132917208 «Estimating causal effects of treatments in randomized and nonrandomize» (1974) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2159805452 «SOME PRACTICAL GUIDANCE FOR THE IMPLEMENTATION OF PROPENSITY SCORE MAT» (2008) – metodelitteratur, ikke en studie av tiltaket
+- OK   6 utelatt W1966389350 «Unemployment Duration and the Restart Effect: Some Experimental Eviden» (1996) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2000863250 «Identifying effect heterogeneity to improve the efficiency of job crea» (2008) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W1852934820 «A fistful of euros: Is the German one‐euro job workfare scheme effecti» (2011) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2029813472 «Do Labour Market Programmes Speed up the Return to Work?*» (2006) – oversikt eller studie av arbeidsmarkedstiltak generelt, uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2891249980 «Unemployment Insurance And Unemployment Spells» (1988) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W1591629962 «Duration Models: Specification, Identification and Multiple Durations» (2001) – metodelitteratur, ikke en studie av tiltaket
+- OK   6 utelatt W2024676754 «The School-to-Work Transition: A Cross-National Perspective» (2001) – årsaker til eller følger av ungdomsledighet, ikke effekt av et tiltak
+- OK   6 utelatt W2138752415 «Alternative approaches to evaluation in empirical microeconomics» (2008) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W3023110406 «Matching on the Estimated Propensity Score» (2016) – metodelitteratur, ikke en studie av tiltaket
+- OK   6 utelatt W1994091413 «Evaluating Welfare Reform in the United States» (2002) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W3214661451 «Alternative Approaches to Evaluation in Empirical Microeconomics» (2009) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2981134047 «NEETs: young people not in employment, education or training: characte» (2012) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2154351737 «Subsidizing Vocational Training for Disadvantaged Youth in Colombia: E» (2011) – land utenfor Europa eller lav- og mellominntektsland, ikke randomisert forsøk innenfor mandatet
+- OK   6 utelatt W3123464667 «Labor market institutions and demographic employment patterns» (2007) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W1500520980 «Bonuses to Workers and Employers to Reduce Unemployment: Randomized Tr» (1987) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W1595710490 «How Welfare and Work Policies Affect Employment and Income: A Synthesi» (2001) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W1535387382 «Time and causality: A Monte Carlo assessment of the timing-of-events a» (2007) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2104940334 «Counseling the Unemployed: Does it Lower Unemployment Duration and Rec» (2005) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2126542218 «The long-term effects of job search requirements: Evidence from the UK» (2009) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2601635600 «Vocational Training for Disadvantaged Youth in Colombia: A Long-Term F» (2017) – land utenfor Europa eller lav- og mellominntektsland, ikke randomisert forsøk innenfor mandatet
+- OK   6 utelatt W2045290540 «Wage Subsidies as a Remedy for Unemployment» (1936) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2004372121 «Generating jobs: How to increase demand for less-skilled workers» (1999) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2129385040 «Is the Threat of Reemployment Services More Effective than the Service» (2002) – helse, kriminalitet eller trivsel som utfall, ikke arbeid
+- OK   6 utelatt W2023466922 «Job subsidies and cuts in employers' social security contributions: Th» (2001) – skattelettelser, avgiftslettelser eller minstelønn, holdt utenfor i mandatet
+- OK   6 utelatt W2151198417 «Employment and Earnings Effects of Awarding Training Vouchers in Germa» (2016) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2068556879 «Vouchers and caseworkers in training programs for the unemployed» (2012) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2945623095 «Understanding school-to-work transitions» (2019) – årsaker til eller følger av ungdomsledighet, ikke effekt av et tiltak
+- OK   6 utelatt W2026220363 «Young and out: An application of a prospects-based concept of social e» (2008) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2067181844 «How do the employment effects of job creation schemes differ with resp» (2009) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W4414063076 «To Have and Have Not – How to Bridge the Gap in Opportunities» (2025) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W1835884712 «How to fight long-term unemployment: lessons from Germany» (2015) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2039239862 «Do the skilled and prime-aged unemployed benefit more from training? E» (2010) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W3090013498 «Unwilling to Train? Firm Responses to the Colombian Apprenticeship Reg» (2020) – land utenfor Europa eller lav- og mellominntektsland, ikke randomisert forsøk innenfor mandatet
+- OK   6 utelatt W2023206058 «Short training for welfare recipients in Germany: which types work?» (2013) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2733973554 «Aktivisering av unge sosialhjelpsmottakere – forutsetninger for å sikr» (2017) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2343961951 «Virker arbeidspraksis i ordinær virksomhet etter sitt formål?» (2016) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W3121403162 «Initial conditions and moment restrictions in dynamic panel data model» (1998) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2144357229 «Initial conditions and moment restrictions in dynamic panel data model» (1995) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W1984524168 «Microeconometrics» (2005) – metodelitteratur, ikke en studie av tiltaket
+- OK   6 utelatt W1804939085 «Job Creation and Job Destruction in the Theory of Unemployment» (1994) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W3124120302 «Nonparametric Estimation of Average Treatment Effects Under Exogeneity» (2004) – metodelitteratur, ikke en studie av tiltaket
+- OK   6 utelatt W1594294799 «Estimation of Average Treatment Effects Based on Propensity Scores» (2002) – metodelitteratur, ikke en studie av tiltaket
+- OK   6 utelatt W2010185677 «Hard evidence on soft skills» (2012) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2025339885 «Unemployment and Labor Market Rigidities: Europe versus North America» (1997) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W3121721370 «The Role of Shocks and Institutions in the Rise of European Unemployme» (2000) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W3122622199 «Personality Psychology and Economics» (2011) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W1994670953 «Regression Analysis of Grouped Survival Data with Application to Breas» (1978) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W3123445343 «Temporary Jobs: Stepping Stones or Dead Ends?» (2002) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2029696430 «Making The Most Out Of Programme Evaluations and Social Experiments: A» (1997) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W1984485824 «Labor Supply Response to the Earned Income Tax Credit» (1996) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2891179299 «Labor Supply Response to the Earned Income Tax Credit» (1995) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2023936086 «Unemployment Insurance and Job Search Decisions» (1977) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W1998838902 «Regimes of youth transitions» (2006) – årsaker til eller følger av ungdomsledighet, ikke effekt av et tiltak
+- OK   6 utelatt W2069597205 «Flexible parametric estimation of duration and competing risk models» (1990) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W4207016349 «OECD Employment Outlook 2021» (2021) – krisestøtte for å beholde ansatte (korttidsarbeid, covid), ikke lønnstilskudd for å ansette ledige
+- OK   6 utelatt W2891580286 «Ranking, Unemployment Duration, and Wages» (1994) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W1987537206 «New Evidence on the Finite Sample Properties of Propensity Score Rewei» (2014) – metodelitteratur, ikke en studie av tiltaket
+- OK   6 utelatt W1901655369 «The Political Economy of Active Labor-Market Policy» (2010) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W3122993969 «Temporary jobs, employment protection and labor market performance» (2002) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2159707839 «Estimating labour supply responses using tax reforms» (2017) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2889578182 «Unemployment Insurance, Recall Expectations, and Unemployment Outcomes» (1990) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W3125219257 «COUNSELING AND MONITORING OF UNEMPLOYED WORKERS: THEORY AND EVIDENCE F» (2006) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W4236723153 «OECD Employment Outlook 2013» (2013) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2045637657 «Unemployment Insurance and Unemployment» (1936) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2053673603 «Modelling the Probability of Leaving Unemployment: Competing Risks Mod» (1993) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2157076083 «Inflation Policy and Unemployment Theory. The Cost-Benefit Approach to» (1973) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W3124878014 «The impact of differential payroll tax subsidies on minimum wage emplo» (2001) – skattelettelser, avgiftslettelser eller minstelønn, holdt utenfor i mandatet
+- OK   6 utelatt W2108849275 «Who is Hit Hardest During a Financial Crisis? The Vulnerability of You» (2009) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W4253877531 «'An offer you can't refuse'» (2001) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2757022184 «Sources of Displaced Workers’ Long-Term Earnings Losses» (2020) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2123882221 «The Causes and Consequences of Long-Term Unemployment in Europe» (1998) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2130635853 «The Identifiability of the Mixed Proportional Hazards Competing Risks » (2003) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2082495975 «Identification Results for Duration Models with Multiple Spells» (1993) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W1988167771 «Unemployment, joblessness, psychological well-being and self-esteem: T» (1997) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2055022009 «The New Deal» (1998) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W1823922312 «Employment Consequences of Restrictive Permanent Contracts: Evidence f» (2003) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W210113947 «Employment Patterns in OECD Countries: Reassessing the Role of Policie» (2006) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2130124089 «Estimating the Effects of Length of Exposure to Instruction in a Train» (2011) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2043763936 «The Long‐Run Effects of Unemployment Monitoring and Work‐Search Progra» (2002) – helse, kriminalitet eller trivsel som utfall, ikke arbeid
+- OK   6 utelatt W2234382521 «A Roadmap to Vocational Education and Training Systems Around the Worl» (2013) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W1964479021 «New Evidence on the Long-Term Effects of Employment Training Programs» (1992) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2107036335 «The Disability Discrimination Act in the UK: Helping or hindering empl» (2008) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W4244183799 «OECD Employment Outlook 2009» (2009) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W1487662513 «Converting Unemployment Benefits into Employment Subsidies» (1994) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2036887420 «Estimating the Effect of Counseling and Monitoring the Unemployed Usin» (1996) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W4249695404 «Evaluating Latvia's Active Labour Market Policies» (2019) – oversikt eller studie av arbeidsmarkedstiltak generelt, uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W3124856341 «The Displacement Effect of Reemployment Bonus Programs» (1993) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W3040341045 «The Value of Reference Letters: Experimental Evidence from South Afric» (2020) – land utenfor Europa eller lav- og mellominntektsland, ikke randomisert forsøk innenfor mandatet
+- OK   6 utelatt W2174622751 «Youth unemployment in Europe – business cycle and institutional effect» (2015) – årsaker til eller følger av ungdomsledighet, ikke effekt av et tiltak
+- OK   6 utelatt W2009986618 «An event history approach to the evaluation of training, recruitment a» (1986) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W1591551981 «Does Temporary Help Work Provide a Stepping Stone to Regular Employmen» (2008) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W1866922478 «Enhancing the Effectiveness of Active Labour Market Policies» (1996) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W1487618645 «Higher Education, Employment and Earnings in Britain» (1998) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2321665754 «Can activating labour market policy offset the detrimental life satisf» (2011) – helse, kriminalitet eller trivsel som utfall, ikke arbeid
+- OK   6 utelatt W2169567899 «Effects of Active Labor Market Programs on the Transition Rate from Un» (1999) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2010191063 «Effects of contracting out employment services: Evidence from a random» (2012) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2079579861 «Innovating job activation by involving employers» (2014) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2041227465 «NONPARAMETRIC IDENTIFICATION OF THE MIXED HAZARDS MODEL WITH TIME-VARY» (2007) – metodelitteratur, ikke en studie av tiltaket
+- OK   6 utelatt W3135814050 «The Selection of Talent: Experimental and Structural Evidence from Eth» (2021) – land utenfor Europa eller lav- og mellominntektsland, ikke randomisert forsøk innenfor mandatet
+- OK   6 utelatt W2757531281 «Sickness and disability policies: Reform paths in OECD countries betwe» (2017) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2087759043 «Active labour-market policies: a case of evidence-based policy-making?» (2000) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W3166569330 «Labour Market Regulation and Youth Unemployment in the EU-28» (2021) – årsaker til eller følger av ungdomsledighet, ikke effekt av et tiltak
+- OK   6 utelatt W1867415504 «Supporting self-employment and small-scale entrepreneurship: potential» (2016) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W3126086065 «Studies of Labor Market Intermediation» (2009) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2010092293 «Active labour market policies and job tenure» (1998) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W1869889908 «Welfare-to-Work: Which Policies Work and Why?» (2003) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W28424585 «Findings from the macro evaluation of the New Deal for Young People» (2002) – årsaker til eller følger av ungdomsledighet, ikke effekt av et tiltak
+- OK   6 utelatt W2004798382 «Has the disability discrimination act closed the employment gap?» (2005) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W1525547420 «The Impact of the New Deal for Young People on the Labour Market: A Fo» (2003) – årsaker til eller følger av ungdomsledighet, ikke effekt av et tiltak
+- OK   6 utelatt W2038621725 «Does the Targeted Jobs Tax Credit Create Jobs at Subsidized Firms?» (1993) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W3124824910 «What if supply-side policies are not enough? The perverse interaction » (2018) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2946580211 «Training at the job and training for a new job : two Swedish studies» (1997) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W3185616880 «How salient administrative burden affects job seekers’ locus of contro» (2021) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W3087057804 «Workfare redux? Pandemic unemployment, labour activation and the lesso» (2020) – krisestøtte for å beholde ansatte (korttidsarbeid, covid), ikke lønnstilskudd for å ansette ledige
+- OK   6 utelatt W2942828985 «Too sick to work, too healthy to qualify: a cross-country analysis of » (2019) – helse, kriminalitet eller trivsel som utfall, ikke arbeid
+- OK   6 utelatt W1518184689 «A flexicurity labor market during recession» (2015) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2044685238 «Comprehensive Education for the Unemployed — Evaluating the Effects on» (2005) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2152967427 «What works best when? The role of active labour market policy programm» (2009) – oversikt eller studie av arbeidsmarkedstiltak generelt, uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W4306803300 «Presidential Address 2022: Economic Development and the Organisation O» (2022) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2133393751 «Vacancy Referrals, Job Search, and the Duration of Unemployment: A Ran» (2012) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W4400738883 «Trade and inequality in Europe and the US» (2024) – land utenfor Europa eller lav- og mellominntektsland, ikke randomisert forsøk innenfor mandatet
+- OK   6 utelatt W2108136185 «What are the effects of anti-discriminatory legislation on socioeconom» (2007) – helse, kriminalitet eller trivsel som utfall, ikke arbeid
+- OK   6 utelatt W2604639982 «Influence of Work–Welfare Cycling and Labour Market Segmentation on Em» (2017) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2902541184 «Does subsidized part-time employment help unemployed workers to find f» (2018) – lønnstilskudd eller sysselsettingstilskudd vurdert på tittel og sammendrag: teori, makromodell, studie av andre grupper eller annet land utenfor mandatet
+- OK   6 utelatt W196067743 «Public- and Private-Sector Training of Young People in Britain» (1994) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W1487683438 «Temporary/Permanent Workers' Wage Gap: A Brand‐new Form of Wage Inequa» (2010) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2022853875 «Fixed-term contracts» (2014) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W3161891292 «An Adaptive Targeted Field Experiment: Job Search Assistance for Refug» (2023) – land utenfor Europa eller lav- og mellominntektsland, ikke randomisert forsøk innenfor mandatet
+- OK   6 utelatt W4387133196 «Physical Disability and Labor Market Discrimination: Evidence from a V» (2023) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2026651182 «Second chance education matters! Income trajectories of poorly educate» (2013) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W4376642176 «In what way a ‘Guarantee for youth’? NEETs entrapped by labour market » (2023) – oversikt eller studie av arbeidsmarkedstiltak generelt, uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W4392774415 «Inefficient Automation» (2024) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2794330080 «High Stakes, Low Resources: What Mode(s) Should Youth Employment Train» (2018) – land utenfor Europa eller lav- og mellominntektsland, ikke randomisert forsøk innenfor mandatet
+- OK   6 utelatt W3008301936 «Evaluating social investment in disability policy» (2020) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2144747907 «Which firms train disadvantaged youth?» (2012) – årsaker til eller følger av ungdomsledighet, ikke effekt av et tiltak
+- OK   6 utelatt W2583606985 «Welfare States and Labour Market Change: What is the Possible Relation» (2017) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2912759845 «Ein-Euro-Jobs für hilfebedürftige Jugendliche: Hohe Verbreitung, gerin» (2010) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W4399129025 «Nudging increases take‐up of employment services: Evidence from a larg» (2024) – krisestøtte for å beholde ansatte (korttidsarbeid, covid), ikke lønnstilskudd for å ansette ledige
+- OK   6 utelatt W4323318628 «The Impact of Employer Characteristics on Sustaining Employment for Wo» (2023) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2188004445 «Training Program Impacts and the Onset of the Great Recession» (2014) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2784015988 «Ungdomsarbeidsledighet og konjunkturer» (2012) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W4388111122 «Erfaringer med institusjonell etnografi» (2023) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2154969428 «Arbeidsflexibiliteit en ontslagrecht» (2007) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W3210614247 «PROTOCOL: Interventions to increase youth employment: An evidence and » (2021) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W3161614527 «Opening the black box of implementing activation in Ireland» (2021) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W3204100539 «Capitalism needs a new social contract» (2021) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W4408275711 «The Role of Public Employment Services in Promoting an Inclusive Nordi» (2025) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2809624084 «Mladí lidé a trh práce: případová studie regionů ve státech Visegrádsk» (2018) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W4411254133 «Patterns of School‐to‐Work‐Transition Societies With High Rates of NEE» (2025) – årsaker til eller følger av ungdomsledighet, ikke effekt av et tiltak
+- OK   6 utelatt W4388111183 «Innledning: Å forske med institusjonell etnografi» (2023) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W4415262771 «Poor Protection» (2025) – land utenfor Europa eller lav- og mellominntektsland, ikke randomisert forsøk innenfor mandatet
+- OK   6 utelatt W2979870607 «The Changing Nature of Work and Employment in Developed Countries» (2020) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2983113070 «Strengthening Skills by Linking Education to the Labor Market» (2019) – land utenfor Europa eller lav- og mellominntektsland, ikke randomisert forsøk innenfor mandatet
+- OK   6 utelatt W7160873583 «Online tutoring, school performance, and school-to-work transitions: E» (2026) – årsaker til eller følger av ungdomsledighet, ikke effekt av et tiltak
+- OK   6 utelatt W4414556239 «Implementing employability interventions for workers with health condi» (2025) – helse, kriminalitet eller trivsel som utfall, ikke arbeid
+- OK   6 utelatt W2155487257 «Trends in Income Inequality and its Impact on Economic Growth» (2014) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W4245373381 «Improving the Provision of Active Labour Market Policies in Estonia» (2021) – oversikt eller studie av arbeidsmarkedstiltak generelt, uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2062630847 «Inequality in the Social Consequences of Illness: How Well Do People w» (2000) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2148005652 «Assembling the evidence jigsaw: insights from a systematic review of U» (2011) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2827023739 «Contrasting Supply-side, Demand-side and Combined Approaches to Labour» (2018) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2126669117 «EXAMINING THE GENERALITY OF THE UNEMPLOYMENT–CRIME ASSOCIATION» (2013) – helse, kriminalitet eller trivsel som utfall, ikke arbeid
+- OK   6 utelatt W3005306251 «Strategic Mapping of Youth Unemployment With Interval-Valued Intuition» (2020) – årsaker til eller følger av ungdomsledighet, ikke effekt av et tiltak
+- OK   6 utelatt W1990444909 «Macroeconomic Effects of Selective Public Employment and Wage Subsidie» (1977) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2142685640 «Active Labor Market Policy Effects in a Dynamic Setting» (2009) – oversikt eller studie av arbeidsmarkedstiltak generelt, uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W4242659496 «Are Active Labor Market Policies Directed at Firms Effective? Evidence» (2019) – oversikt eller studie av arbeidsmarkedstiltak generelt, uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2068882280 «Social background and life-course risks as determinants of social assi» (2014) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2795511688 «Great Recession, great recovery? Trends from the Current Population Su» (2018) – krisestøtte for å beholde ansatte (korttidsarbeid, covid), ikke lønnstilskudd for å ansette ledige
+- OK   6 utelatt W2203822754 «Do ‘flexicurity’ Policies Work for People With Low Education and Healt» (2015) – helse, kriminalitet eller trivsel som utfall, ikke arbeid
+- OK   6 utelatt W2160158846 «The Effect of Active Labor Market Programs on Not-Yet Treated Unemploy» (2009) – oversikt eller studie av arbeidsmarkedstiltak generelt, uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2908905181 «Youth unemployment, NEETs and structural inequality in Spain» (2019) – årsaker til eller følger av ungdomsledighet, ikke effekt av et tiltak
+- OK   6 utelatt W175464860 «Youth Unemployment in the OECD: Demographic Shifts, Labour Market Inst» (2003) – årsaker til eller følger av ungdomsledighet, ikke effekt av et tiltak
+- OK   6 utelatt W1543239933 «Is Subsidized Employment Cost Effective for Welfare Recipients? Experi» (1994) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2165974082 «How Do Macro-Level Contexts and Policies Affect the Employment Chances» (2011) – oversikt eller studie av arbeidsmarkedstiltak generelt, uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W3123307615 «Youth Unemployment and Vocational Training» (2012) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2111962095 «Estimating the macroeconomic effects of active labour market policies » (2009) – metodelitteratur, ikke en studie av tiltaket
+- OK   6 utelatt W2991345736 «Working nation: welfare reform and the Australian Job Compact for the » (1997) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W1517365539 «Macroeconometric Evaluation of Active Labour Market Policies in German» (2006) – metodelitteratur, ikke en studie av tiltaket
+- OK   6 utelatt W2601160146 «The state, employment, and regulation: making work not pay» (2017) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2011155303 «Mind the Gap: Exploring the Implementation Deficit in the Administrati» (2001) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2503895313 «Evaluating Active Labour Market Policies» (1999) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W3204296020 «Determinants of youth unemployment in Uganda: The role of gender, educ» (2021) – land utenfor Europa eller lav- og mellominntektsland, ikke randomisert forsøk innenfor mandatet
+- OK   6 utelatt W2059688198 «The IZA Evaluation Dataset: towards evidence‐based labor policy making» (2011) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2788882342 «Impact of public expenditure in labour market policies and other selec» (2018) – oversikt eller studie av arbeidsmarkedstiltak generelt, uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W3195909121 «Workplace Inclusion Competence and Employer Engagement» (2021) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W4308258608 «Predictors of Becoming not in Education, Employment or Training: A Dyn» (2022) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2997702314 «Employers' perspectives on benefit conditionality in the UK and Denmar» (2020) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W4285040647 «Linking active labour market policies to digitalisation–a review betwe» (2022) – oversikt eller studie av arbeidsmarkedstiltak generelt, uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W2980787230 «Contributions to school-to-work transitions: vocational training, skil» (2019) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W3121208004 «Youth Unemployment in the OECD: The Role of Institutions» (2015) – årsaker til eller følger av ungdomsledighet, ikke effekt av et tiltak
+- OK   6 utelatt W2167536071 «Macroeconomic Impacts of Job Creation Schemes on the Matching Process » (2005) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W3119851863 «Individual need and societal claims: Challenging the understanding of » (2021) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W4386241804 «How sensitive are matching estimates of active labor market policy eff» (2023) – oversikt eller studie av arbeidsmarkedstiltak generelt, uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W4400313063 «The impact of labour market policies on outcomes in OECD countries: An» (2024) – oversikt eller studie av arbeidsmarkedstiltak generelt, uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W4323924338 «‘What about me?’: An analysis of employers’ engagement with employment» (2023) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2998791200 «Development and evaluation of a strength-based method to promote emplo» (2020) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2074576679 «Disability and employment: lessons from natural policy experiments» (2010) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2550777659 «Ein-Euro-Jobs und reguläre Beschäftigung / One-Euro-Jobs and Regular E» (2011) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W2922242440 «Exploring activation: A cross-country analysis of active labour market» (2019) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W4249827274 «13 Austerity and the ‘Workfare State’: The Remaking and Reconfiguratio» (2016) – annet tiltak enn lønnstilskudd (opplæring, jobbsøking, aktivering eller etablering), uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W4404328707 «Impact Evaluation of Active Labour Market Policies in Portugal» (2024) – oversikt eller studie av arbeidsmarkedstiltak generelt, uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W4412617475 «Assessing the impact of the Youth Employment Initiative in European re» (2025) – årsaker til eller følger av ungdomsledighet, ikke effekt av et tiltak
+- OK   6 utelatt W4401777824 «Work inclusion of marginalised groups in a troubled city district—How » (2024) – oversikt eller studie av arbeidsmarkedstiltak generelt, uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt W4413773919 «The Long Road for Vulnerable Jobseekers Transitioning to Green and Soc» (2025) – handler ikke om lønnstilskudd eller tiltak for unge (vurdert på tittel og sammendrag)
+- OK   6 utelatt W7225389163 «Disability type matters: structural discrimination in employment acces» (2026) – land utenfor Europa eller lav- og mellominntektsland, ikke randomisert forsøk innenfor mandatet
+- OK   6 utelatt W3124004858 «Active Labor Market Policies» (2016) – oversikt eller studie av arbeidsmarkedstiltak generelt, uten egne resultater for lønnstilskudd for unge
+- OK   6 utelatt KU-2ae90f68-a6d7-4e0e-9bd0-7b1e39a4b838 «Arbeidsavklaringspenger - om aktivitet i ytelsesforløpet» (2023) – kartlegging av aktivitet blant mottakere av arbeidsavklaringspenger, ikke effekt av lønnstilskudd
+- OK   6 utelatt KU-469fe041-4732-480d-9192-02efa66c74bc «Kunnskapsstatus for sosialhjelpsforskningen» (2007) – kunnskapsstatus for sosialhjelpsforskningen (2007), ikke lønnstilskudd for unge
+- OK   6 utelatt KU-b55b95dc-dd5b-4386-8070-545c2dc39242 «Hva virker for hvem? Kunnskapsoversikt over effekter av aktiveringstil» (2023) – samme rapport (Nav-rapport 1/2023, kunnskapsoversikt) er lagt inn med adresse på nav.no fordi Kudos ikke ga pdf
+- OK   6 utelatt KU-d2e7857c-2757-4736-b1d4-8750274e966e «Arbeidsrettede tiltak ved helseplager og sykefravær» (2010) – oversikt over arbeidsrettede tiltak ved helseplager og sykefravær, ikke lønnstilskudd for unge ledige
+- OK   6 utelatt KU-d81f40f7-ed9b-4147-a0ca-db47fa3c5758 «Effekt av tiltak for å lette livsoverganger for barn og unge med funks» (2012) – oversikt over tiltak ved livsoverganger for barn og unge med funksjonsnedsettelser, ikke lønnstilskudd
+- OK   6 utelatt KU-d8ab52dc-2edb-4a9c-ba38-83fe712c9cb1 «Effect of, and experiences with interventions for young people exposed» (2017) – oversikt over tiltak for unge utsatt for tvangsekteskap, annet tema
+- OK   6 utelatt KU-fe96bbee-aa94-4d94-a7b6-479145420514 «Etnisk mangfold og likestilling i arbeidslivet» (2013) – kunnskapsoppsummering om etnisk mangfold og likestilling i arbeidslivet, ikke effekt av lønnstilskudd
+- OK   9 kort-svar-blind.md finnes
+- OK   9 innholdskontroll har raden «kort svar»
+- OK   9 blind lesing 0198cc42013c-11c98f48-47eb-4b66-ac7a-ba3c43edfc15 i budskap.tsv
+- OK   9 blind lesing 0198cc4d8ef8-65658ffa-652a-4f22-8ad7-a532e8424f55 i budskap.tsv
+- OK   9 blind lesing 0198cc97b527-72b1e897-3c8b-47e2-8c9a-dd6326e550b4 i budskap.tsv
+- OK   9 blind lesing 019938797a78-07e5f4b2-85e7-46c1-aab1-30916c8257cd i budskap.tsv
+- OK   9 blind lesing 01995c22c1ef-0cff9bef-2a70-4f0e-ab36-b6d53db8f287 i budskap.tsv
+- OK   9 blind lesing AV-2023-1-02 i budskap.tsv
+- OK   9 blind lesing AV-2024-3-04 i budskap.tsv
+- OK   9 blind lesing KU-556513c4-aea7-4c77-a625-a2729b9f701e i budskap.tsv
+- OK   9 blind lesing KU-cf0dd276-ef43-42af-b4c1-d2d3e4fcdfe3 i budskap.tsv
+- OK   9 blind lesing NB-4986 i budskap.tsv
+- OK   9 blind lesing R-04f7a279dc i budskap.tsv
+- OK   9 blind lesing R-cf1a71c1b9 i budskap.tsv
+- OK   9 blind lesing R-ec3de7f99e i budskap.tsv
+- OK   9 blind lesing R-f2664a06f5 i budskap.tsv
+- OK   9 blind lesing W1521518092 i budskap.tsv
+- OK   9 blind lesing W1577286609 i budskap.tsv
+- OK   9 blind lesing W1577648310 i budskap.tsv
+- OK   9 blind lesing W1593675663 i budskap.tsv
+- OK   9 blind lesing W1805206376 i budskap.tsv
+- OK   9 blind lesing W1837038974 i budskap.tsv
+- OK   9 blind lesing W1849775659 i budskap.tsv
+- OK   9 blind lesing W2010586812 i budskap.tsv
+- OK   9 blind lesing W2016059253 i budskap.tsv
+- OK   9 blind lesing W2039276519 i budskap.tsv
+- OK   9 blind lesing W2149962000 i budskap.tsv
+- OK   9 blind lesing W2150829746 i budskap.tsv
+- OK   9 blind lesing W2251574710 i budskap.tsv
+- OK   9 blind lesing W2259408401 i budskap.tsv
+- OK   9 blind lesing W2306814610 i budskap.tsv
+- OK   9 blind lesing W2338040341 i budskap.tsv
+- OK   9 blind lesing W2770196142 i budskap.tsv
+- OK   9 blind lesing W28016323 i budskap.tsv
+- OK   9 blind lesing W292088744 i budskap.tsv
+- OK   9 blind lesing W3048912273 i budskap.tsv
+- OK   9 blind lesing W3097344849 i budskap.tsv
+- OK   9 blind lesing W3123523177 i budskap.tsv
+- OK   9 blind lesing W3124086298 i budskap.tsv
+- OK   9 blind lesing W3125938983 i budskap.tsv
+- OK   9 blind lesing W3167299234 i budskap.tsv
+- OK   9 blind lesing W4233730326 i budskap.tsv
+- OK   9 blind lesing W4286914340 i budskap.tsv
+- OK   9 blind lesing W4378233149 i budskap.tsv
+- OK   9 blind lesing W4391650787 i budskap.tsv
+- OK   9 blind lesing W4399204261 i budskap.tsv
+- OK   9 blind lesing W4408632418 i budskap.tsv
+- OK   9 blind lesing W4412889165 i budskap.tsv
+- OK   9 blind lesing W7139965069 i budskap.tsv

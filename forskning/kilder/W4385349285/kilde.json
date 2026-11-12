@@ -1,0 +1,20 @@
+{
+ "apen_url": "https://bmcpublichealth.biomedcentral.com/counter/pdf/10.1186/s12889-023-16272-9",
+ "ar": 2023,
+ "doi": "https://doi.org/10.1186/s12889-023-16272-9",
+ "forfattere": [
+  "Sina Wittlund",
+  "Thomas Lorentzen"
+ ],
+ "hentet": "2026-11-09",
+ "hentet_fra": "https://bmcpublichealth.biomedcentral.com/counter/pdf/10.1186/s12889-023-16272-9",
+ "hvordan": "pdf",
+ "id": "W4385349285",
+ "kilde": "BMC Public Health",
+ "lenke": "https://openalex.org/W4385349285",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "BACKGROUND: In this study we investigated the health-related rehabilitation trajectories of young Norwegian adults between 2004-2019. The study period is interesting because it overlaps with an extensive welfare system reform that occurred in Norway between 2006-2011. In parallel with the reform there was a substantial increase in health-related welfare dependency among young people due to mental health conditions. To better understand this group, we addressed three questions: 1) what were the most typical health-related rehabilitation trajectories for young Norwegians aged 23-27 between 2004-2019, 2) did the trajectories and composition of health-related benefit recipients change overtime and 3) in parallel with the welfare reform, do we see improved labour market outcomes in our study population? METHODS: Using high-quality Norwegian registry data, we established four cohorts of Norwegian health-related rehabilitation benefit recipients aged 23-27 in either 2004 (cohort 1), 2008 (cohort 2), 2011 (cohort 3) or 2014 (cohort 4). The follow-up period for each cohort was six years. We used sequence and cluster analyses to identify typical health-related rehabilitation trajectories. In addition, descriptive statistics and multinomial logistic regression were used to scrutinise the relationship between trajectory types, sociodemographic characteristics and cohort membership. RESULTS: The majority follow trajectories consisting of welfare dependency, unemployment and unstable, low-income work. Both the trajectories and composition of the study population changed across cohorts. Over the observation period there was a 1) three-fold increase in the proportion following a trajectory ending in permanent disability benefits, 2) nine-fold increase in the proportion following trajectories characterised by long periods of health-related rehabilitation, 3) five-fold decrease in the share following unemployment occupational handicap trajectories 4) 6.9% increase in the proportion of early school leavers and 5) 8.9% decrease in the share with disabled parents. CONCLUSION: Our study population is a vulnerable group with suboptimal mental health, functioning and employment outcomes. In conjunction with the welfare reform, we witnessed a significant drop in use of work-related benefits, accompanied by a substantial increase in uptake of health-related rehabilitation- and disability benefits. Thus, it appears that rather than improving employment outcomes, welfare policy changes have created a new problem by steering a greater proportion into disability benefits.",
+ "tittel": "Changes in health-related rehabilitation trajectories following a major Norwegian welfare reform",
+ "type": "article"
+}

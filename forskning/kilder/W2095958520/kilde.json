@@ -1,0 +1,20 @@
+{
+ "apen_url": "http://sites.uclouvain.be/econ/DP/IRES/2010020.pdf",
+ "ar": 2013,
+ "doi": "https://doi.org/10.1111/iere.12032",
+ "forfattere": [
+  "Andrey Launov",
+  "Klaus Wälde"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "https://www.ifo.de/DocDL/cesifo1_wp3069.pdf",
+ "hvordan": "pdf",
+ "id": "W2095958520",
+ "kilde": "International Economic Review",
+ "lenke": "https://openalex.org/W2095958520",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "The distribution of unemployment duration in our equilibrium matching model with spell‐dependent unemployment benefits displays time‐varying exit rates. Building on semi‐Markov processes, we translate these rates into an expression for the aggregate unemployment rate. Structural estimation using German microdata allows us to discuss the effects of an unemployment benefit reform (Hartz IV). The reform reduced unemployment by less than 0.1 percentage points. Contrary to general beliefs, the net wage for most skill and regional groups increased. Taking the insurance effect of unemployment benefits into account, however, the reform is welfare reducing for 76% of workers.",
+ "tittel": "ESTIMATING INCENTIVE AND WELFARE EFFECTS OF NONSTATIONARY UNEMPLOYMENT BENEFITS",
+ "type": "article"
+}

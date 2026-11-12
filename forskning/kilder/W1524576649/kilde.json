@@ -1,0 +1,14 @@
+{
+ "ar": 1992,
+ "forfattere": [
+  "Marc A. Van Audenrode",
+  "Paul Storer"
+ ],
+ "id": "W1524576649",
+ "kilde": "RePEc: Research Papers in Economics",
+ "lenke": "https://openalex.org/W1524576649",
+ "oversikt": false,
+ "sammendrag": "In this paper, we study the usually ignored group of unemployed workers who are eligible for unemployment insurance but never claim or receive any benefits. This group is generally combined with the non-eligible in empirical studies and we show that this misclassification has the potential to introduce upward bias into measures of the disincentive effects of unemployment insurance. We measure the empirical effects of this potential bias by exploiting a data set which allows for the identification of likely eligible non-claimants. Disincentive effects decline significantly when our reconstructed eligibility date are used. Dans cet article, nous etudions le comportement des chomeurs qui sont eligibles aux benefices de l'assurance chomage mais ne reclament ou ne recoivent jamais ces benefices. Ce groupe de chomeurs est generalement confondu avec les travailleurs non-eligibles dans l'analysse empirique. Nous montrons que cette erreur de classification peut introduire un biais positif important dans l'estimation des effets desincitants de l'assurance chomage. Nous mesurons l'importance de ce biais en exploitant une banque de donnees qui nous permet d'identifier les chomeurs susceptibles d'etre eligibles mais qui ne recoivent pas d'allocation de chomage. L'effet desincitant est reduit significativement lorsque nos donnees d'eligibilite sont utilisees.",
+ "tittel": "The Effect of Unemployment Insurance on Unemployment Duration: Evidence from the Displaced Workers Survey",
+ "type": "preprint"
+}

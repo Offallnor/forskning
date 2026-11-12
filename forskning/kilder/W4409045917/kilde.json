@@ -1,0 +1,17 @@
+{
+ "ar": 2025,
+ "doi": "https://doi.org/10.1093/oep/gpaf007",
+ "forfattere": [
+  "Luca Bettarelli",
+  "Romain Duval",
+  "Davide Furceri",
+  "João Tovar Jalles"
+ ],
+ "id": "W4409045917",
+ "kilde": "Oxford Economic Papers",
+ "lenke": "https://openalex.org/W4409045917",
+ "oversikt": false,
+ "sammendrag": "Abstract This article examines the role of unemployment benefits (UBs) and employment protection legislation (EPL) reforms in shaping the response of unemployment to output changes. Results—based on local projection estimates for an unbalanced sample of twenty-seven advanced economies during the period 1970–2019—suggest that reforms reducing the generosity of UB dampen the response of unemployment to output changes, while reforms reducing the stringency of EPL amplify it. Results are robust to a battery of robustness checks, including control for potential confounder effects and an instrumental variable approach to address endogeneity.",
+ "tittel": "Labor market reforms and unemployment fluctuations",
+ "type": "article"
+}

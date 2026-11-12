@@ -1,0 +1,15 @@
+{
+ "apen_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/6135254",
+ "ar": 2018,
+ "doi": "https://doi.org/10.1086/696372",
+ "forfattere": [
+  "Kristin M. Ferguson"
+ ],
+ "id": "W2784684721",
+ "kilde": "Journal of the Society for Social Work and Research",
+ "lenke": "https://openalex.org/W2784684721",
+ "oversikt": false,
+ "sammendrag": "Objective: Limited research exists on how employment interventions contribute to employment outcomes for homeless youth. This study examines the comparative efficacy of 2 interventions—Social Enterprise Intervention (SEI) and Individual Placement and Support (IPS)—provided to homeless youth with mental illness in a randomized controlled trial. Method: Participants were recruited from 1 homeless youth agency in Los Angeles, CA, and randomized to the SEI (n = 36) or IPS (n = 36) conditions. Over 20 months, SEI participants received 4 SEI components, and IPS participants received IPS services based on 8 principles. Data were collected at baseline and follow-up for the primary employment outcome (paid employment) and 5 secondary employment outcomes. Results: Over 20 months, 39% of SEI participants and 32% of IPS participants reported any paid employment. Across both groups, participants who reported working at baseline had nearly 8 times the odds of working at follow-up (OR = 7.91, p < 0.05). No statistically significant differences were detected across the full sample or between groups on the primary or secondary employment outcomes. Conclusions: Future effectiveness research is needed to compare the long-term employment outcomes of the SEI and IPS with a more heterogeneous sample of homeless youth using customized homelessness support services and more nuanced employment outcomes.",
+ "tittel": "Employment Outcomes From a Randomized Controlled Trial of Two Employment Interventions With Homeless Youth",
+ "type": "article"
+}

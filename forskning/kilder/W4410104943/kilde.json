@@ -1,0 +1,17 @@
+{
+ "apen_url": "https://doi.org/10.1016/j.jpsychores.2025.112140",
+ "ar": 2025,
+ "doi": "https://doi.org/10.1016/j.jpsychores.2025.112140",
+ "forfattere": [
+  "Rahman Shiri",
+  "Pekka Varje",
+  "Salla Toppinen‐Tanner"
+ ],
+ "id": "W4410104943",
+ "kilde": "Journal of Psychosomatic Research",
+ "lenke": "https://openalex.org/W4410104943",
+ "oversikt": true,
+ "sammendrag": "OBJECTIVE: Effective interventions to reduce sick leave in people with mental illnesses remain unknown. This systematic review of randomized controlled trials (RCTs) assessed the impact of various interventions on reducing sick leave among individuals with mental illnesses. METHODS: We conducted searches in PubMed, Cochrane Library, and PsycInfo until February 2024 and included RCTs with parallel designs. Two reviewers assessed the quality of trials using the Cochrane risk of bias tool (ROB-2). RESULTS: Out of 5109 publications, 75 RCTs were included. Ten RCTs with no serious risk of bias demonstrated that certain interventions could reduce sick leave. Interventions based on cognitive behavioral therapy and problem-solving therapy reduced sick leave within a year, but the effect was not long-lasting. Enhanced care approaches, where physicians and care managers encouraged patients to start and maintain pharmacotherapy or psychotherapy, also decreased absenteeism. Online cognitive behavioral therapy yielded a modest decrease in absenteeism. An intervention involving both employees and supervisors to modify the workplace and address stress reduced long-term sick leave. Involving employees in stressor management initiatives decreased sick leave, and a combination of work-focused and online cognitive behavioral therapy reduced short-term sick leave but did not affect long-term (≥15 days) rates. Group therapy led by a clinical psychologist for stress management also showed benefits in the short term (3 months). CONCLUSION: Multifaceted approaches that combine individual therapy and workplace adjustments are more effective in managing sick leave for individuals with mental illnesses than either approach alone.",
+ "tittel": "Effective interventions to reduce sick leave in workers with mental illnesses: A systematic review of randomized controlled trials",
+ "type": "review"
+}

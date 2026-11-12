@@ -1,0 +1,22 @@
+{
+ "apen_url": "https://doi.org/10.1371/journal.pone.0042567",
+ "ar": 2012,
+ "doi": "https://doi.org/10.1371/journal.pone.0042567",
+ "forfattere": [
+  "Ann Kristin Knudsen",
+  "Simon Nygaard Øverland",
+  "Matthew H. Hotopf",
+  "Arnstein Mykletun"
+ ],
+ "hentet": "2026-11-09",
+ "hentet_fra": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0042567&type=printable",
+ "hvordan": "pdf",
+ "id": "W2029267869",
+ "kilde": "PLoS ONE",
+ "lenke": "https://openalex.org/W2029267869",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "OBJECTIVES: Mental disorders are prevalent diagnoses in disability benefit statistics, with awards often granted at younger age than for other diagnoses. We aimed to compare the number of lost working years following disability benefit award for mental disorders versus other diagnostic groups. METHODS: Data from the complete Norwegian official registry over disability benefit incidence, including primary diagnoses, were analyzed for the period 2001 to 2003 (N = 77,067), a time-period without any reform in the disability benefit scheme. Lost working years due to disability benefit award before scheduled age retirement at age 67 were calculated. RESULTS: Musculoskeletal disorders were the commonest reason for disability benefit awards (36.3%) with mental disorders in second place (24.0%). However, mental disorders were responsible for the most working years lost (33.8%) compared with musculoskeletal disorders (29.4%). Individuals awarded disability benefit for a mental disorder were on average 8.9 years younger (46.1 years) than individuals awarded for a musculoskeletal disorder (55.0 years), and 6.9 years younger than individuals awarded for any other somatic disorder (53.0 years). Anxiety and depressive disorders were the largest contributors to lost working years within mental disorders. CONCLUSION: Age at award is highly relevant when the total burden of different diagnoses on disability benefits is considered. There is great disparity in total number of lost working years due to disability benefit award for different diagnostic groups. The high number of lost working years from mental disorders has serious consequences for both the individual and for the wider society and economy.",
+ "tittel": "Lost Working Years Due to Mental Disorders: An Analysis of the Norwegian Disability Pension Registry",
+ "type": "article"
+}

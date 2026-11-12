@@ -1,0 +1,21 @@
+{
+ "apen_url": "http://www.brandeis.edu/economics/RePEc/brd/doc/Brandeis_WP83R.pdf",
+ "ar": 2015,
+ "forfattere": [
+  "David Card",
+  "Zhuan Pei",
+  "David S. Lee",
+  "Andrea Michaela Weber"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "https://docs.iza.org/dp8757.pdf",
+ "hvordan": "pdf",
+ "id": "W4302318763",
+ "kilde": "RePEc: Research Papers in Economics",
+ "lenke": "https://openalex.org/W4302318763",
+ "merknad": "ÅPEN VERSJON (preprint eller arbeidsnotat), merkes i svaret",
+ "oversikt": false,
+ "sammendrag": "We consider nonparametric identification and estimation in a nonseparable model where a continuous regressor of interest is a known, deterministic, but kinked function of an observed assignment variable. This design arises in many institutional settings where a policy variable (such as weekly unemployment benefits) is determined by an observed but potentially endogenous assignment variable (like previous earnings). We provide new results on identification and estimation for these settings, and apply our results to obtain estimates of the elasticity of joblessness with respect to UI benefit rates. We characterize a broad class of models in which a sharp \"Regression Kink Design\" (RKD, or RK Design) identifies a readily interpretable treatment-on-the-treated parameter (Florens et al. (2008)). We also introduce a \"fuzzy regression kink design\" generalization that allows for omitted variables in the assignment rule, noncompliance, and certain types of measurement errors in the observed values of the assignment variable and the policy variable. Our identifying assumptions give rise to testable restrictions on the distributions of the assignment variable and predetermined covariates around the kink point, similar to the restrictions delivered by Lee (2008) for the regression discontinuity design. We then use a fuzzy RKD approach to study the effect of unemployment insurance benefits on the duration of joblessness in Austria, where the benefit schedule has kinks at the minimum and maximum benefit level. Our preferred estimates suggest that changes in UI benefit generosity exert a relatively large effect on the duration of joblessness of both low-wage and high-wage UI recipients in Austria.",
+ "tittel": "Inference on Causal Effects in a Generalized Regression Kink Design",
+ "type": "preprint"
+}

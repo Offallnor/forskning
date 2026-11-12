@@ -1,0 +1,15 @@
+{
+ "ar": 2015,
+ "doi": "https://doi.org/10.1080/13504851.2015.1122726",
+ "forfattere": [
+  "José María Arranz Muñoz",
+  "Fernando Muñoz‐Bullón"
+ ],
+ "id": "W2285657855",
+ "kilde": "Applied Economics Letters",
+ "lenke": "https://openalex.org/W2285657855",
+ "oversikt": false,
+ "sammendrag": "We study the transitions out of unemployment of the recipients of insurance benefits, focusing on whether or not they are recalled to their previous employment. Specifically, a split population duration model (SPDM) for the recall decision by employers is compared with a standard duration model (SDM). We find significant differences between the SPDM and the SDM estimates, both with regard to their magnitude and expected sign. Some of the variables record undervalued estimated hazard rates in the SDM with respect to the SPDM.",
+ "tittel": "Unemployment benefits and recall jobs: a split population model",
+ "type": "article"
+}

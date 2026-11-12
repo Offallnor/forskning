@@ -1,0 +1,22 @@
+{
+ "apen_url": "http://www.frbsf.org/economic-research/files/wp12-24bk.pdf",
+ "ar": 2013,
+ "doi": "https://doi.org/10.24148/wp2012-24",
+ "forfattere": [
+  "Federal Reserve Bank of San Francisco",
+  "Bart Hobijn",
+  "Ayşegül Şahin",
+  "Federal Reserve Bank of New York"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "http://www.frbsf.org/economic-research/files/wp12-24bk.pdf",
+ "hvordan": "pdf",
+ "id": "W3124528918",
+ "kilde": "Federal Reserve Bank of San Francisco, Working Paper Series",
+ "lenke": "https://openalex.org/W3124528918",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "We document the shift in the Beveridge curve in the U.S. since the Great Recession. We argue that a decline in quits, the relatively poor performance of the construction sector, and the extension of unemployment insurance benefits have largely driven this shift. We then introduce a method to estimate fitted Beveridge curves for other OECD countries for which data on vacancies and employment by job tenure are available. We show that Portugal, Spain, and the U.K. also experienced rightward shifts in their Beveridge curves. Besides the U.S., these are among the countries with the highest house price and construction employment declines in our sample.",
+ "tittel": "Beveridge Curve Shifts across Countries since the Great Recession",
+ "type": "article"
+}

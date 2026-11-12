@@ -1,0 +1,14 @@
+{
+ "ar": 2019,
+ "doi": "https://doi.org/10.1108/s0147-912120190000047007",
+ "forfattere": [
+  "Márton Csillag"
+ ],
+ "id": "W2950108415",
+ "kilde": "Emerald Group Publishing Limited eBooks",
+ "lenke": "https://openalex.org/W2950108415",
+ "oversikt": false,
+ "sammendrag": "Abstract This chapter examines the evolution of the number of days spent on sick leave following the 2011 reform which halved the maximum sick benefit provided by statutory health insurance in Hungary. This policy change sharply decreased benefits for a large group of high earners, while leaving the incentive to claim sickness benefits unchanged for lower earners, providing us with a “quasi-experimental” setup to identify the incentives effect of sickness benefits. We use a difference-in-differences type methodology to evaluate the short-term effect of the reform. We rely on high-quality administrative data and analyze a sample comprised of prime-age male employees with high earnings and stable employment. Our results show that the number of days spent on sick leave fell substantially for those experiencing the full halving of benefits. Estimating the response of the number of sick days with respect to the fall in potential sickness benefits, we find a significant elasticity of −0.45.",
+ "tittel": "The Incentive Effects of Sickness Absence Compensation – Analysis of a Natural Experiment in Eastern Europe",
+ "type": "book-chapter"
+}

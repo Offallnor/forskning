@@ -1,0 +1,15 @@
+{
+ "ar": 2023,
+ "doi": "https://doi.org/10.1257/mac.20200057",
+ "forfattere": [
+  "Serdar Birinci",
+  "Kurt Gerrard See"
+ ],
+ "id": "W3137528812",
+ "kilde": "American Economic Journal Macroeconomics",
+ "lenke": "https://openalex.org/W3137528812",
+ "oversikt": false,
+ "sammendrag": "We document considerable scope of heterogeneity within the unemployed, especially when they are divided along eligibility for and receipt of unemployment insurance (UI). We study the implications of this heterogeneity on UI’s insurance-incentive trade-off using a heterogeneous-agent job search model capable of matching the wealth and income differences that distinguish UI recipients from nonrecipients. Insurance benefits are larger for UI recipients who are predominantly wealth poor. Meanwhile, incentive costs are nonmonotonic in wealth because the poorest individuals, who value employment, exhibit weak responses. Differential elasticities imply that accounting for the composition of recipients is material to the evaluation of UI’s insurance-incentive trade-off. (JEL D91, E24, E32, J64, J65)",
+ "tittel": "Labor Market Responses to Unemployment Insurance: The Role of Heterogeneity",
+ "type": "article"
+}

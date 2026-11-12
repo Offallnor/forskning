@@ -1,0 +1,17 @@
+id	svar_sier	avvik	forklaring	alvor
+kort svar	lønnstilskudd i privat sektor gir oftest positive effekter, mindre for unge, mye forsvinner etter tilskuddet; dødvekt stor	vekt	Det blinde svaret skiller tydeligere mellom godt identifiserte studier (Belgia, Polen, New Deal: moderat og blandet) og matchingstudier (Tyskland, Østerrike, Norge: store effekter, men trolig overvurdert pga. seleksjon). Kort svar bør si dette.	middels
+W4399204261	forsterket tilskudd gir 10,5 pp, varig gevinst bare for unge med videregående, ingen samlet økning	mangler forbehold	Sammenligningen er et mer generøst mot et mindre generøst tilskudd, ikke tilskudd mot ingen. Bør stå.	middels
+W4412889165	ingen effekt av tidlig tilgang i stramt arbeidsmarked, 97,8 % dødvekt	mangler forbehold	Samme: tidlig mot senere tilgang, ikke mot ingen tilskudd.	lav
+W7139965069	2,8 pp for unge kvinner, ingen effekt for menn	ingen	Svaret sier at utfallet er å forlate registeret. Flagget undergruppe er dekket ved at menn også omtales.	lav
+W4378233149	14–20 dager	ingen	Flagget sprik (13,30 og 19,17 i tabell) er trolig avrunding; svaret følger sammendraget.	lav
+019938797a78-07e5f4b2-85e7-46c1-aab1-30916c8257cd	21 pp for alle, 4 pp ikke signifikant for unge, få unge	ingen	Flagget utvalg er dekket.	lav
+W4408632418	median effekt 11 % og 16,7 %, halvparten lav- og mellominntektsland	mangler forbehold	Bare sju av forsøkene er lønnstilskudd, og studien har ikke egne resultater for unge. Bør stå.	middels
+W3124086298	15 pp, alle aldre, 128 personer	ingen	Flagget utvalg er dekket.	lav
+W2149962000	5 % i deltakende bedrifter, 1,2 % samlet	ingen	Flagget sprik (75 mot 80 % som ikke deltok) berører ikke tallene i svaret.	lav
+W2150829746	5 pp for unge menn, programmet samlet	ingen		lav
+W3123523177	ungdomspraktik negativ første år, ikke lønnstilskudd i norsk forstand	ingen		lav
+W4233730326	0,02, slår sammen lønnstilskudd og offentlige programmer	ingen		lav
+W292088744	effekt øker med alder, forsiktighet for de yngste	ingen		lav
+W1837038974	effekt forsvinner etter tilskuddet, dødvekt	ingen		lav
+W1577286609	10–20 pp, størst langsiktig effekt	mangler forbehold	Matching (IPW); deltakerne er trolig positivt selektert. Dekkes av ny setning i kort svar og forbeholdene.	lav
+W3097344849	4 pp etter lønnstilskudd for unge med nedsatt arbeidsevne	mangler forbehold	Samme som over; forløpsmodell med modellert seleksjon.	lav

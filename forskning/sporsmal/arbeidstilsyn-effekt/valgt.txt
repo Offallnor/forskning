@@ -1,0 +1,129 @@
+# Første utvalg 8.11.2026, etter kriterier.md. Kommentarene bygger på sammendraget der det finnes.
+# Oversikter (kategori 1)
+W1716161898  # Mischke m.fl. 2013, Cochrane-oversikt om virkemidler for håndheving av arbeidsmiljøregelverket (foreslått i mandatet)
+W2417363006  # Tompa m.fl. 2016, systematisk oversikt over effekten av håndheving av arbeidsmiljøregelverket
+W2098026786  # Tompa m.fl. 2007, systematisk oversikt over forsikrings- og regulatoriske virkemidler; tilsyn er en del
+W7128726718  # Schubert m.fl. 2026, scoping review med metaanalytisk oppdatering av Mischke 2013
+W1552109825  # van der Molen m.fl. 2012, Cochrane om skadeforebygging i bygg, med regulering og håndheving som en tiltaksgruppe
+W2598897505  # Weissbrodt og Giauque 2017, realistisk syntese om tilsyn og psykososiale risikoer (uten sammendrag)
+0198cc8bed64-0b66e210-65c2-44b9-9ce3-6a752ddfeeac  # Johannessen m.fl. (STAMI) 2017, systematisk kunnskapsoppsummering om effekter av myndighetstiltak (foreslått i mandatet: rapporter fra STAMI)
+LI-20048316  # Arbetsmiljöverket 2016:10, kunnskapssammenstilling: leder regler og inspeksjoner til bedre arbeidsmiljø? (valgt på tittel)
+LI-vgfsl74gsl69hlgj  # Myndigheten för arbetsmiljökunskap 2025, når regler skal bli praksis: regulering og tilsyn (valgt på tittel)
+# Randomiserte forsøk (kategori 2)
+W2048175567  # Levine, Toffel og Johnson 2012, tilfeldig utvalgte tilsyn i California (foreslått i mandatet)
+0198cc77bb69-6ac9d5e6-44b2-4fe6-80fa-31466c0e2e2c  # Garshol m.fl. (STAMI) 2024, klyngerandomisert forsøk med Arbeidstilsynets virkemidler i hjemmetjenestene
+W4297325253  # samme forsøk: effekt på psykososiale og biomekaniske faktorer (2022)
+W4388017094  # samme forsøk: effekt på legemeldt sykefravær og helse (2023)
+W4407765445  # samme forsøk: effekt på etterlevelse av regelverket (2025)
+W4309467245  # samme forsøk: prosessevaluering (2022)
+W2232263831  # van der Molen m.fl. 2015, nasjonal randomisert evaluering av strategier mot brudd ved arbeid i høyden, Nederland
+# Reformer og naturlige eksperimenter (kategori 3)
+W2607517915  # Li og Singleton 2019, diskontinuitet i OSHAs Site-Specific Targeting
+W7212868501  # Johnson, Levine og Toffel 2026, smitteeffekter av OSHA-tilsyn på nabovirksomheter (SST-terskel)
+W3031883595  # Johnson 2020, avskrekking ved offentliggjøring av brudd (pressemeldinger fra OSHA)
+W4393377150  # Raghunandan og Ruchti 2021, informasjon mellom OSHA-kontorer og etterlevelse
+W2013964255  # Morantz 2007, statlig og føderal håndheving i bygg
+# Registerstudier med håndtering av seleksjon (kategori 4)
+W2109614526  # Gray og Mendeloff 2002/2005, avtakende effekt av OSHA-tilsyn i industrien 1979–1998
+W2061215194  # Haviland m.fl. 2010, hvilke skader OSHA-tilsyn forebygger (uten sammendrag)
+W2041184998  # Haviland m.fl. 2012, ny beregning av effekten av OSHA-tilsyn 1998–2005
+W2094628007  # Mendeloff og Gray 2005, hvordan OSHA-tilsyn gir færre skader
+W2138094971  # Foley m.fl. 2012, tilsyn og konsultasjon i Washington og skadeerstatningskrav
+W4400981977  # McLeod m.fl. 2024, tilsyn i Alberta og erstatningskrav
+W3111451647  # McLeod 2019, doktoravhandling om tilsyn i British Columbia
+W3159137599  # Munira 2019, straffeforfølgning og arbeidsskader i Alberta
+W2078525502  # 2004, økt håndheving og hørselsskader i Washington
+W2112251611  # Bradbury 2006, regulatorisk føderalisme og OSHA-håndheving (uten sammendrag)
+W1568446505  # Weil 2000, OSHA-håndheving og etterlevelse i bygg (uten sammendrag)
+W2026426461  # May 2002, OSHAs ergonomiprogram i New Hampshire og karpaltunnelsyndrom
+W3124689608  # Kniesner og Leeth 2004, MSHAs håndheving i kullgruver (uten sammendrag)
+W2293319279  # Gernand 2016, MSHAs reaksjoner og tapte dager
+W7131355890  # Abeyta 2026, utfall etter ulike typer OSHA-tilsyn 1983–2023 (uten sammendrag)
+W2285511036  # Farina m.fl. 2016, fullstendige og delvise tilsyn i italiensk industri
+W2120269123  # Benavides m.fl. 2009, regionale forebyggingsplaner i Spania
+W1682734445  # Bande og López Mourelo 2014, tilsyn og regionale forskjeller i arbeidsulykker i Spania
+W3081675128  # Soriano-Serrano m.fl. 2020, håndhevingsevne og effekt av offentlige vurderinger i spanske oljemøller
+W4413630239  # Prado 2025, håndheving og arbeidsmiljø i Brasil (uten sammendrag, vurderes ved lesing)
+# Nordiske og andre studier (kategori 5)
+W1963706061  # Niskanen m.fl. 2013, effekter av finske arbeidstilsynsinspektørers tilsyn
+W2111592442  # Dahl og Søberg 2013, tilsyn og etterlevelse av sikkerhetsregler, Norge
+W1591412842  # 2008, effekter av tilsyn: den svenske støykampanjen
+W2890864567  # Weissbrodt m.fl. 2018, evaluering av tilsyn med psykososiale risikoer, Sveits (uten sammendrag)
+W7118537502  # Ajslev m.fl. 2026, dialogbasert tilsyn (ATP) i Danmark og psykososiale og ergonomiske risikoer
+W4408518596  # Rudolf m.fl. 2025, dialogbasert tilsyn i Danmark og motivasjon (kvalitativ)
+W2288713446  # Jensen og Jenson 2003, tilsynsstrategier i Danmark
+W2271999475  # 2009, effekt av tilsyn på byggeplasser i Piemonte 2001–2003
+W3003298692  # 2017, pilotstudie av tilsyn på byggeplasser i Piemonte
+KU-a0d13da0-00dd-4701-af4a-b99c525d4cbb  # Agenda Kaupang 2015, Evaluering av Arbeidstilsynet (R8710)
+W3195153376  # AFI 2017, Et arbeidstilsyn i endring (evaluering)
+W2898525930  # Fafo 2015, NHO-bedrifters erfaringer med Arbeidstilsynets tilsynsvirksomhet
+KU-712a755b-3cfb-4168-99b3-053cd0b09bab  # 2026, delrapport om bruk av administrative sanksjoner og straff i Arbeidstilsynet
+KU-ce457f52-1a31-470c-a9e8-d4ce03a6182a  # 2024, Arbeidstilsynets bruk og innkreving av tvangsmulkt og overtredelsesgebyr
+KU-02f4abaf-f585-4b12-9785-39c09b51d184  # Agenda Kaupang 2022, evaluering av arbeidsmiljøsatsingen (midtveis)
+KU-bcfdce50-f0b8-4865-96d8-13afc7962ac5  # 2023, evaluering av arbeidsmiljøsatsingen, statusrapport
+KU-1b79baf1-41a3-427e-a061-2a65c0cbe804  # 2022, evaluering av Petroleumstilsynet, hovedrapport
+LI-n2dnm377lzt22kn0  # Statskontoret 2021, Arbetsmiljöverkets interne styring og tilsynets effektivitet
+FI-uef.9910982163705966  # 2015, effekten av arbeidervernstilsyn i byggenæringen, Finland (valgt på tittel)
+FI-ekk.994422839906250  # 2012, effekten av loven om arbeidervernstilsyn på arbeidsplassene, Finland (valgt på tittel)
+FI-valto.11111_6924  # 2010, effekten av loven om arbeidervernstilsyn på myndighetenes tilsyn, Finland (valgt på tittel)
+FI-jykdok.920271  # 2003, kvalitet og effekt av tilsyn på arbeidsplassen, Finland (valgt på tittel)
+FI-ekk.993910274006250  # Valtiontalouden tarkastusvirasto 2011, revisjon av arbeidervernstilsynet, Finland (valgt på tittel)
+FI-trepo.10024_147253  # 2023, masteroppgave: effekt av pilotprosjekter i arbeidervernstilsynet, Finland (valgt på tittel)
+url: https://at.dk/media/4361/effektanalyse-risikobaserede-tilsyn-arbejdsulykker-2012-15.pdf | Effektanalyse af risikobaserede tilsyn og arbejdsulykker 2012–15 | Arbejdstilsynet | 2018
+url: https://at.dk/media/2330/evaluering-effekten-risikobaserede-tilsyn-mellemlangt-sigt.pdf | Evaluering af effekten af det risikobaserede tilsyn på mellemlangt sigt | Arbejdstilsynet | 2016
+url: https://www.av.se/globalassets/filer/publikationer/rapporter/sanktionsavgifter-for-overtradelser-av-arbetsmiljolagen-en-effektutvardering-rapport-2024-3.pdf | Sanktionsavgifter för överträdelser av arbetsmiljölagen – en effektutvärdering | Myndigheten för arbetsmiljökunskap | 2024
+# Lagt til etter referanserunde 1 (8.11)
+W2898876403  # Andersen m.fl. 2019, systematisk oversikt over effekter av lov- og regelverkstiltak (Danmark)
+W4389580105  # 2023, evidence and gap map over regulatoriske tiltak for arbeidsmiljøet (Campbell)
+W4411021912  # Ståhl m.fl. 2025, litteraturgjennomgang om regulering, tilsyn og etterlevelse i Europa
+W2035386983  # Hogg-Johnson m.fl. 2012, randomisert evaluering av målrettet konsultasjon eller tilsyn i Ontario (High Risk Firm Initiative)
+W1578291642  # Ko, Mendeloff og Gray 2010, tilsynsrekkefølge og etterlevelse (OSHA)
+W2760591304  # Johnson, Levine og Toffel 2019/2023, bedre målretting av OSHA-tilsyn
+W3156224387  # Macpherson m.fl. 2021, endringer i risikohåndtering etter tilsyn fra WorkSafeBC (uten sammendrag)
+W2093998534  # Baggs m.fl. 2003, håndheving og konsultasjon i Washington og erstatningskrav
+W2017476784  # Auld, Emery og Gordon 2001, tilsyn på byggeplasser i Alberta og skader
+W2064673619  # Burstyn m.fl. 2010, inspektørenes metoder og etterlevelse i Alberta
+W4390587839  # Bilgrami m.fl. 2024, harmonisert lov med høyere straffer i Australia (kvasieksperiment, kategori 3)
+W7129101351  # Veltri m.fl. 2026, gjør tilsyn arbeidstakere tryggere? (uten sammendrag)
+W7220710829  # Colazo 2026, smitteeffekter av tilsyn i virksomheter med flere anlegg (uten sammendrag)
+W7132815136  # Rephann og Wanchek 2026, økonomisk virkning av tilsyn i Virginia
+W4412605691  # 2025, bøter og drift i amerikanske gruver (uten sammendrag)
+W2899984958  # 2018, endret håndheving i kullgruver, virkning etter gruvestørrelse
+W2617392673  # 2015, produktivitet, sikkerhet og regulering i kullgruver etter ulykker
+W3025477067  # 2020, gjentatte brudd ved OSHA-tilsyn
+W3003782755  # Lafuente og Martínez Daza 2019, tilsyn og arbeidsulykker i 24 europeiske land
+W2042380736  # Niskanen m.fl. 2013, virkningen av tilsynsloven i det finske arbeidstilsynet
+W2133122013  # 2013, regulering og skader i bygg i Italia
+W2328076800  # 2014, tilsynskampanje om psykososiale risikoer i Tyskland
+W2948444906  # 2019, effekter av arbeidsinspektørenes arbeid med psykososiale risikoer (fransk, Sveits)
+# LI-r4xpjstbpmt7t1gj fjernet: miljøtilsyn (Naturvårdsverket), ikke arbeidsmiljø
+# Lagt til fra det blinde utvalget (8.11)
+W4281637930  # 2022, Campbell-oversikt om sikkerhetstiltak mot arbeidsulykker; tilsyn som en tiltaksgruppe (blindt utvalg)
+W1986102684  # 2012, oversikt over OSHAs betydning for skader (blindt utvalg)
+W3122924749  # Lee og Taylor 2019, tilfeldig tildelte tilsyn i California som kilde til variasjon i skaderisiko (blindt utvalg)
+W3034320574  # 2020, MINER Act: strengere bøter i gruver, skader og produktivitet (blindt utvalg)
+W2306445029  # Italia, avbrutt tidsserie: virksomheter med tilsyn mot referansevirksomheter (blindt utvalg)
+W3121667400  # Weil 2001, OSHA-tilsyn i bygg og etterlevelse (blindt utvalg)
+W4285588693  # delstatspanel 1992–2016, håndheving og dødsulykker i bygg (blindt utvalg)
+W7168453949  # 2026, hvordan virksomheter lærer av brudd og tilsyn, Spania og USA (blindt utvalg)
+W4399344217  # Malta 2024, tilsyn og bøter og ulykker over tjue år (blindt utvalg, kategori 5)
+W4411365916  # Kaium og Ahsan 2025, tilsyn og sikkerhet, Danmark (blindt utvalg, uten sammendrag)
+KU-2641bb83-a22c-4f58-a12b-5efa4b7c7bf9  # Fafo 2009, systematisk HMS-arbeid og hvordan tilsyn påvirker det (blindt utvalg)
+LI-10220540  # Riksrevisionen 2004, revisjon av arbeidsmiljøtilsynet (blindt utvalg, valgt på tittel)
+LI-12025349  # oppfølging av pålegg 2000/2001, Sverige (blindt utvalg, valgt på tittel)
+LI-20167586  # prosjektrapport om tilsynskampanje, Sverige (blindt utvalg, valgt på tittel)
+LI-z8mngx5cwh35nnbl  # tilsynets påvirkning på arbeidsmiljøet, Sverige (blindt utvalg, valgt på tittel)
+LI-7h2w2s3q5bp7szp7  # regjeringsoppdrag om tilsyn med psykososialt arbeidsmiljø i eldreomsorgen 2019 (blindt utvalg, valgt på tittel)
+FI-ekk.993969914006250  # 2013, virkninger av tilsyn i kjemisk industri, Finland (blindt utvalg, valgt på tittel)
+# Runde 3: åpne versjoner og nye kilder fra referanserunde 2
+W3026143771 # åpen versjon av W2607517915 (arbeidspapir, Li og Singleton)
+W3124964336 # åpen versjon av W3124689608 (arbeidspapir, Kniesner og Leeth)
+W2794504103 # van der Molen m.fl. 2018, Cochrane-oversikt om tiltak mot skader i bygg, med regulering og tilsyn (referanserunde 2)
+W3121380471 # 2016, tilsyn med team mot én inspektør på offshoreplattformer i Mexicogolfen, værvariasjon som instrument (referanserunde 2)
+W4410266078 # 2025, hvilke virksomheter som fulgte opp dialogbasert tilsyn (ATP) i Danmark (referanserunde 2)
+W890430879 # 2004, kunnskapsoppsummering fra Storbritannia: tilsyn og sanksjoner mot veiledning og frivillige koder (blindt utvalg, referanserunde 2)
+W2911816472 # Haviland m.fl. 2010, videre analyse av hvilke skader OSHA-tilsyn forebygger (utelatt-gjennomgangen)
+R-6d7e0a4ae6 # Myndigheten för arbetsmiljökunskap 2024:3, effektevaluering av sanksjonsavgifter (lagt inn med url:, funnet med nettsøk)
+R-c348627ca3 # Arbejdstilsynet 2018, effektanalyse av risikobaserte tilsyn og arbeidsulykker 2012–15 (lagt inn med url:, uten tekst)
+R-4e5e122406 # Arbejdstilsynet 2016, effekten av risikobaserte tilsyn på mellomlang sikt (lagt inn med url:, uten tekst)
+url: https://at.dk/media/5580/effektanalyse-arbejdstilsynets-tilsyn-reaktioner-virksomheders-oekonomi.pdf | Effektanalyse af Arbejdstilsynets tilsyn og reaktioner på virksomhedernes økonomi | Arbejdstilsynet | 2020 # funnet med nettsøk ved gjennomgang av oversiktene; tittel og år ikke kontrollert mot tittelsiden

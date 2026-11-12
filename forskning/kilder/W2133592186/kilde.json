@@ -1,0 +1,16 @@
+{
+ "apen_url": "https://research.upjohn.org/cgi/viewcontent.cgi?article=1045&context=up_workingpapers",
+ "ar": 1994,
+ "doi": "https://doi.org/10.17848/wp94-28",
+ "forfattere": [
+  "Paul T. Decker",
+  "Christopher J. O’Leary"
+ ],
+ "id": "W2133592186",
+ "kilde": "Upjohn Research (W.E. Upjohn Institute for Employment Research)",
+ "lenke": "https://openalex.org/W2133592186",
+ "oversikt": false,
+ "sammendrag": "Social experiments conducted in Pennsylvania and Washington tested the effect of offering Unemployment Insurance (UI) claimants a cash bonus for rapid reemployment. This paper combines data from the two experiments and uses a consistent framework to evaluate the experiments and determine with greater certainty the extent to which a reemployment bonus can affect economic outcomes. Bonus offers in each of the experiments generated statistically significant but relatively modest reductions in UI receipt. Since the estimated impacts on UI receipt were modest, the reemployment bonuses did not generate the UI savings necessary to pay for administering and paying the bonuses. Hence, contrary to earlier findings from a bonus experiment conducted in Illinois, findings from the Pennsylvania and Washington experiments strongly suggest that a reemployment bonus is not a cost-effective method of speeding the reemployment of UI claimants.",
+ "tittel": "Evaluating Pooled Evidence from the Reemployment Bonus Experiments",
+ "type": "report"
+}

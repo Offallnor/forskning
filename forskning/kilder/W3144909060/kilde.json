@@ -1,0 +1,17 @@
+{
+ "ar": 2019,
+ "forfattere": [
+  "Mathias von Buxhoeveden"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "https://www.ifau.se/globalassets/pdf/se/2019/wp-2019-12-unemployment-insurance-and-youth-labor-market-entry.pdf",
+ "hvordan": "pdf",
+ "id": "W3144909060",
+ "kilde": "RePEc: Research Papers in Economics",
+ "lenke": "https://openalex.org/W3144909060",
+ "merknad": "ÅPEN VERSJON (preprint eller arbeidsnotat), merkes i svaret",
+ "oversikt": false,
+ "sammendrag": "This paper estimates the effects of unemployment insurance (UI) benefits on job finding rates and entry level wages for unemployed high school leavers. Up to year 2007, Swedish high school-students who became unemployed shortly after graduation were entitled to UI-benefits once they became 20 years of age. Therefore, the start of an unemployment spell relative to the 20:th birthday creates potentially exogenous variation in time to treatment. I exploit this to estimate the effect of UI benefits on unemployment duration and entry level wages. The results show that there is a large and statistically significant negative effect of UI benefits on the employment hazard. There are no detectable effects on entry level wages. This would suggest that unemployment benefits induce high school leavers to postpone labor market entry but does not seem to effect job match quality.",
+ "tittel": "Unemployment insurance and youth labor market entry",
+ "type": "preprint"
+}

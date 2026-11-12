@@ -1,0 +1,16 @@
+{
+ "ar": 2018,
+ "doi": "https://doi.org/10.1111/labr.12123",
+ "forfattere": [
+  "Mohamed Ali Ben Halima",
+  "Malik Koubi",
+  "Camille Regaert"
+ ],
+ "id": "W2790164552",
+ "kilde": "Labour",
+ "lenke": "https://openalex.org/W2790164552",
+ "oversikt": false,
+ "sammendrag": "Abstract We take into account complementary sick leave compensation paid by the employer, in addition to Social Security, to re‐examine the link between non‐work‐related sickness absence and its compensation. We use matched employer–employee panel data based on the period 2005–2008 containing information on employees’ earnings, on their employers, their sick leave and their health care expenditure and a new data source describing the precise compensation scheme for each CBA. We consider three different sets of compensation variables and three different outputs and find each time a positive relationship between compensation and absence, except for executives for whom it is not significant.",
+ "tittel": "The Effects of the Complementary Compensation on Sickness Absence: an Approach Based on Collective Bargaining Agreements in France",
+ "type": "article"
+}

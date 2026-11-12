@@ -1,0 +1,14 @@
+{
+ "ar": 2017,
+ "doi": "https://doi.org/10.1111/labr.12104",
+ "forfattere": [
+  "Elif S. Filiz"
+ ],
+ "id": "W2742833837",
+ "kilde": "Labour",
+ "lenke": "https://openalex.org/W2742833837",
+ "oversikt": false,
+ "sammendrag": "Abstract This paper examines the impact of unemployment insurance (UI) benefit generosity on labor market transitions in Turkey from 2002 to 2012. Using a unique administrative dataset, I take advantage of a sharp discontinuity in treatment assignment at 900‐paid‐premium‐days to identify the impact of generosity on the outcome variables. I find that unemployment benefit duration is increased by approximately 0.07 weeks per additional week of UI. However, more generous benefits lead to lower probabilities of transition to employment and the impact is greater compared to developed countries. In addition, workers who are entitled to longer UI periods have lower probabilities of cheating the system and rejecting the services of the Turkish Employment Agency.",
+ "tittel": "The Effect of Unemployment Insurance Generosity on Unemployment Duration and Labor Market Transitions",
+ "type": "article"
+}

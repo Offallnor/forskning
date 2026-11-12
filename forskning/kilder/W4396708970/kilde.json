@@ -1,0 +1,22 @@
+{
+ "apen_url": "https://www.frbsf.org/wp-content/uploads/wp2024-15.pdf",
+ "ar": 2024,
+ "doi": "https://doi.org/10.24148/wp2024-15",
+ "forfattere": [
+  "Federal Reserve Bank of San Francisco",
+  "Robert G. Valletta",
+  "Mary Yilma",
+  "Federal Reserve Bank of San Francisco"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "https://www.frbsf.org/wp-content/uploads/wp2024-15.pdf",
+ "hvordan": "pdf",
+ "id": "W4396708970",
+ "kilde": "Federal Reserve Bank of San Francisco, Working Paper Series",
+ "lenke": "https://openalex.org/W4396708970",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "We assess the effects of the historically unprecedented expansion of U.S. unemployment insurance (UI) payments during the COVID-19 pandemic. The adverse economic impacts of the pandemic, notably the pattern of job losses and earnings reductions, were disproportionately born by lower-income individuals. Focusing on household income as a broad measure of well-being, we document that UI payments almost completely offset the increase in household income inequality that otherwise would have occurred in 2020 and 2021. We also examine the impacts of the $600 increase in weekly UI benefit payments, available during part of 2020, on job search outcomes. We find that despite the very high replacement rate of lost earnings for low-wage individuals, the search disincentive effects of the enhanced UI payments were limited overall and smaller for individuals from lower-income households. These results suggest that the pandemic UI expansions improved equity but had limited consequences for economic efficiency.",
+ "tittel": "Enhanced Unemployment Insurance Benefits in the United States during COVID-19: Equity and Efficiency",
+ "type": "article"
+}

@@ -1,0 +1,16 @@
+{
+ "apen_url": "https://doi.org/10.2139/ssrn.2257197",
+ "ar": 2015,
+ "doi": "https://doi.org/10.3368/jhr.50.4.873",
+ "forfattere": [
+  "Henry S. Farber",
+  "Robert G. Valletta"
+ ],
+ "id": "W2123780717",
+ "kilde": "The Journal of Human Resources",
+ "lenke": "https://openalex.org/W2123780717",
+ "oversikt": false,
+ "sammendrag": "In response to the recession of 2007–2009, the maximum duration of U.S. unemployment insurance (UI) benefits was extended to an unprecedented 99 weeks. We exploit variation in the timing and size of the UI benefit extensions across states to estimate their overall impact on unemployment exits, comparing the most recent and prior extension episodes. We find a small but statistically significant increase in labor force attachment due to extended UI in both periods with little or no impact on job finding. Despite these small estimates, extended benefits can account for a substantial share of the increase in long-term unemployment.",
+ "tittel": "Do Extended Unemployment Benefits Lengthen Unemployment Spells?",
+ "type": "article"
+}

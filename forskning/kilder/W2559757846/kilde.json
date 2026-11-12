@@ -1,0 +1,20 @@
+{
+ "ar": 2016,
+ "doi": "https://doi.org/10.3386/w22892",
+ "forfattere": [
+  "François Gérard",
+  "Miikka Rokkanen",
+  "Christoph Rothe"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "https://www.nber.org/system/files/working_papers/w22892/w22892.pdf",
+ "hvordan": "pdf",
+ "id": "W2559757846",
+ "kilde": "MADOC (University of Mannheim)",
+ "lenke": "https://openalex.org/W2559757846",
+ "merknad": "ÅPEN VERSJON (preprint eller arbeidsnotat), merkes i svaret",
+ "oversikt": false,
+ "sammendrag": "The key assumption in regression discontinuity analysis is that the distribution of potential outcomes varies smoothly with the running variable around the cutoff. In many empirical contexts, however, this assumption is not credible; and the running variable is said to be manipulated in this case. In this paper, we show that while causal effects are not point identified under manipulation, one can derive sharp bounds under a general model that covers a wide range of empirical patterns. The extent of manipulation, which determines the width of the bounds, is inferred from the data in our setup. Our approach therefore does not require making a binary decision regarding whether manipulation occurs or not, and can be used to deliver manipulation-robust inference in settings where manipulation is conceivable, but not obvious from the data. We use our methods to study the disincentive effect of unemployment insurance on (formal) reemployment in Brazil, and show that our bounds remain informative, despite the fact that manipulation has a sizable effect on our estimates of causal parameters.",
+ "tittel": "Bounds on treatment effects in regression discontinuity designs with a manipulated running variable, with an application to unemployment insurance in Brazil",
+ "type": "report"
+}

@@ -1,0 +1,22 @@
+{
+ "ar": 2020,
+ "doi": "https://doi.org/10.2760/368100",
+ "forfattere": [
+  "Duarte Nuno",
+  "Andrea Geraci",
+  "Silvia Granato",
+  "Gianluca Mazzarella",
+  "Mortagua Maria Joao"
+ ],
+ "hentet": "2026-11-11",
+ "hentet_fra": "https://poise.portugal2020.pt/documents/10180/36983/JRC120942_yei_pt_evaluation_final.pdf/4e45ac47-bd67-477f-b84e-3b69c154d6d5",
+ "hvordan": "pdf",
+ "id": "W3048912273",
+ "kilde": "Joint Research Centre (European Commission)",
+ "lenke": "https://openalex.org/W3048912273",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "The Youth Employment Initiative (YEI) in Portugal is the framework for a set of specific actions to take place in regions experiencing youth unemployment rates above 25%, and which aim to help young individuals who are not in education, employment, or training.\\nThis report evaluates the YEI implementation in Portugal, using counterfactual impact evaluation (CIE) methods to estimate its causal impact on young individuals’ labour market outcomes. The analysis was carried out using Portuguese administrative data from the Public Employment Service, and Social Security registers.\\nFindings showed that when young individuals participated in internships or hiring support schemes funded by the European Social Fund (ESF), there was a positive and long-lasting effect on the individuals’ labour market outcomes. This effect varied in magnitude according to the type of intervention, and across specific population groups.",
+ "tittel": "The evaluation of the Youth Employment Initiative in Portugal using counterfactual impact evaluation methods",
+ "type": "article"
+}

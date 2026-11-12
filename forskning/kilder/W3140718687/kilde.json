@@ -1,0 +1,17 @@
+{
+ "ar": 2021,
+ "doi": "https://doi.org/10.1093/qje/qjab039",
+ "forfattere": [
+  "Stefano DellaVigna",
+  "Jörg Heining",
+  "Johannes F. Schmieder",
+  "Simon Trenkle"
+ ],
+ "id": "W3140718687",
+ "kilde": "The Quarterly Journal of Economics",
+ "lenke": "https://openalex.org/W3140718687",
+ "oversikt": false,
+ "sammendrag": "Abstract The job-finding rate of unemployment insurance (UI) recipients declines in the initial months of unemployment and then exhibits a spike at the benefit exhaustion point. A range of theoretical explanations have been proposed, but those are hard to disentangle using data on job finding alone. To better understand the underlying mechanisms, we conducted a large text-message-based survey of unemployed workers in Germany. We surveyed 6,349 UI recipients twice a week for four months about their job search effort. The panel structure allows us to observe how search effort evolves in individuals over the unemployment spell. We provide three key facts: (i) search effort is flat early on in the UI spell, (ii) search effort exhibits an increase up to UI exhaustion and a decrease thereafter, (iii) UI recipients do not appear to time job start dates to coincide with the UI exhaustion point. A standard search model with unobserved heterogeneity struggles to explain the second fact, and a model of storable offers is not consistent with the third fact. The patterns are well captured by a model of reference-dependent job search or by a model with duration dependence in search cost.",
+ "tittel": "Evidence on Job Search Models from a Survey of Unemployed Workers in Germany",
+ "type": "article"
+}

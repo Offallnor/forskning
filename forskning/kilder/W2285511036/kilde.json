@@ -1,0 +1,19 @@
+{
+ "ar": 2016,
+ "doi": "https://doi.org/10.1002/ajim.22576",
+ "forfattere": [
+  "Elena Farina",
+  "Antonella Bena",
+  "Ugo Fedeli",
+  "Giuseppe Mastrangelo",
+  "Michela Veronese",
+  "Roberto Agnesi"
+ ],
+ "id": "W2285511036",
+ "kilde": "American Journal of Industrial Medicine",
+ "lenke": "https://openalex.org/W2285511036",
+ "oversikt": false,
+ "sammendrag": "BACKGROUND: Literature suggests that more research is needed to clarify the effect of workplace inspections by governmental officers on injury rates. This paper aims to compare comprehensive and partial inspections in Italian manufacturing companies. METHODS: Survival analysis was applied to the period free from injuries following inspection by means of the Kaplan-Meier method and of Cox models. RESULTS: Kaplan-Meier curves show that, compared to companies with a partial inspection, companies which had a comprehensive inspection had a higher survival through the entire period. Adjusting for confounders, the Cox model confirms a significant preventive effect of comprehensive inspection for companies with 10-30 employees, but not for those with >30 employees. CONCLUSIONS: The results suggest that the effect on injuries is greater if all aspects of safety are addressed during the inspection instead of focusing on a single aspect. These findings are interesting because they can help in planning effective prevention activities.",
+ "tittel": "Public injury prevention system in the Italian manufacturing sector: What types of inspection are more effective?",
+ "type": "article"
+}

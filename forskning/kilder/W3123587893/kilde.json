@@ -1,0 +1,21 @@
+{
+ "apen_url": "https://www.aeaweb.org/articles/pdf/doi/10.1257/aer.20131273",
+ "ar": 2015,
+ "doi": "https://doi.org/10.1257/aer.20131273",
+ "forfattere": [
+  "Rafael Lalive",
+  "Camille Landais",
+  "Josef Zweimüller"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "https://docs.iza.org/dp7650.pdf",
+ "hvordan": "pdf",
+ "id": "W3123587893",
+ "kilde": "American Economic Review",
+ "lenke": "https://openalex.org/W3123587893",
+ "merknad": "ÅPEN VERSJON (preprint eller arbeidsnotat), merkes i svaret",
+ "oversikt": false,
+ "sammendrag": "We provide evidence that unemployment insurance affects equilibrium conditions in the labor market, which creates significant “market externalities.” We provide a framework for identification of such equilibrium effects and implement it using the Regional Extension Benefit Program (REBP) in Austria which extended the duration of UI benefits for a large group of eligible workers in selected regions of Austria. We show that non-eligible workers in REBP regions have higher job finding rates, lower unemployment durations, and a lower risk of long-term unemployment. We discuss the implications of our results for optimal UI policy. (JEL E24, J64, J65, R23)",
+ "tittel": "Market Externalities of Large Unemployment Insurance Extension Programs",
+ "type": "article"
+}

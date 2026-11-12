@@ -1,0 +1,20 @@
+{
+ "apen_url": "https://lup.lub.lu.se/record/1386378",
+ "ar": 2004,
+ "forfattere": [
+  "Curt Wells",
+  "David Edgerton",
+  "Agneta Kruse"
+ ],
+ "hentet": "før 2026-11-08",
+ "hentet_fra": "https://lup.lub.lu.se/search/files/195338628/WP04_3.pdf",
+ "hvordan": "pdf",
+ "id": "W1730183598",
+ "kilde": "RePEc: Research Papers in Economics",
+ "lenke": "https://openalex.org/W1730183598",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "Since the beginning of the 1990's, sick leave benefits accruing from the tax-financed Swedish social security insurance have been reduced a number of times. In this paper we use data from the survey on the Household Market and Non-market activities to estimate a fixed effects negative binomial model. We find a direct relationship between the rate of compensation and the amount of sick leave taken",
+ "tittel": "An Analysis of Sick Leave in Sweden using Panel Data 1985-1997",
+ "type": "preprint"
+}

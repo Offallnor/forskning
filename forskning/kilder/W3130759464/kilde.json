@@ -1,0 +1,20 @@
+{
+ "apen_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3784008",
+ "ar": 2022,
+ "doi": "https://doi.org/10.25740/bj130sd1940",
+ "forfattere": [
+  "Peter Ganong",
+  "Fiona E. Greig",
+  "Max Liebeskind",
+  "Pascal Noel",
+  "Daniel Sullivan",
+  "Joseph Vavra"
+ ],
+ "id": "W3130759464",
+ "kilde": "RePEc: Research Papers in Economics",
+ "lenke": "https://openalex.org/W3130759464",
+ "oversikt": false,
+ "sammendrag": "How did the largest expansion of unemployment benefits in U.S. history affect household behavior? Using anonymized bank account data covering millions of households, we provide new empirical evidence on the spending and job search responses to benefit changes during the pandemic and compare those responses to the predictions of benchmark structural models. We find that spending responds more than predicted, while job search responds an order of magnitude less than predicted. In sharp contrast to normal times when spending falls after job loss, we show that when expanded benefits are available, spending of the unemployed actually rises after job loss. Using quasi-experimental research designs, we estimate a large marginal propensity to consume out of benefits. Notably, spending responses are large even for households who have built up substantial liquidity through prior receipt of expanded benefits. These large responses contrast with a theoretical prediction that spending responses should shrink with liquidity. Simple job search models predict a sharp decline in search in the wake of a substantial benefit expansion, followed by a sustained rebound when benefits expire. We instead find that the job-finding rate is quite stable. Moreover, we document that recall plays an important role in driving job-finding dynamics throughout the pandemic. A model extended to fit these key features of the data implies small job search distortions from expanded unemployment benefits. Jointly, these spending and job finding facts suggest that benefit expansions during the pandemic were a more effective policy than predicted by standard structural models. Abstracting from general equilibrium effects, we find that overall spending was 2.0-2.6 percent higher and employment only 0.2-0.4 percent lower as a result of the benefit expansions.",
+ "tittel": "Spending and Job Search Impacts of Expanded Unemployment Benefits: Evidence from Administrative Micro Data",
+ "type": "preprint"
+}

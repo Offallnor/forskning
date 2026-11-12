@@ -1,0 +1,19 @@
+{
+ "apen_url": "https://content.sciendo.com/downloadpdf/journals/cejpp/10/2/article-p48.pdf",
+ "ar": 2016,
+ "doi": "https://doi.org/10.1515/cejpp-2016-0026",
+ "forfattere": [
+  "Vědunka Kopečná"
+ ],
+ "hentet": "2026-11-08",
+ "hentet_fra": "https://content.sciendo.com/downloadpdf/journals/cejpp/10/2/article-p48.pdf",
+ "hvordan": "pdf",
+ "id": "W2570467134",
+ "kilde": "Central European Journal of Public Policy",
+ "lenke": "https://openalex.org/W2570467134",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "Abstract The growing youth unemployment across Europe raises the need to take appropriate measures. One of steps taken towards decreasing it by the European Union has been the program Youth Guarantee, implemented by a number of member states. Despite the relatively lower youth unemployment, the Czech Republic has implemented this program as well, and supported the realization of the project Internships for Young Job Seekers, whose aim was to ease the transition for students from schools to the labour market thanks to internships in companies. The effects which internship related project bring for their participants have been evaluated in other EU countries, mainly in Germany, but also in Sweden or France. However, evidence about internships’ effectiveness has been missing for the Czech Republic, and this paper fills this existing knowledge gap with the use of counterfactual impact evaluation methods. In the paper, we have focused on examining the impacts of internships on personal income and economic status of trainees by using the propensity score matching, difference-in-differences estimation and two complementary methods – ordinary least squares and multinomial logit. The results confirmed a positive impact of internships on treated project participants regarding both outcome variables, and thus, are consistent with the majority of literature in the field.",
+ "tittel": "Counterfactual Impact Evaluation of the Project Internships for Young Job Seekers",
+ "type": "article"
+}

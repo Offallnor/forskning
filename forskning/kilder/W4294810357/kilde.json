@@ -1,0 +1,15 @@
+{
+ "apen_url": "https://doi.org/10.21799/frbp.wp.2011.08",
+ "ar": 2012,
+ "doi": "https://doi.org/10.21799/frbp.wp.2011.08",
+ "forfattere": [
+  "Makoto Nakajima"
+ ],
+ "id": "W4294810357",
+ "kilde": "Working paper",
+ "lenke": "https://openalex.org/W4294810357",
+ "oversikt": false,
+ "sammendrag": "Extensions of unemployment insurance (UI) benefits have been implemented in response to the Great Recession.This paper measures the effect of these extensions on the unemployment rate using a calibrated structural model featuring job search and consumption-saving decisions, skill depreciation, and UI eligibility.The ongoing UI benefit extensions are found to have raised the unemployment rate by 1.4 percentage points, which is about 30 percent of the observed increase since 2007.Moreover, the contribution of the UI benefit extensions to the elevated unemployment rate increased during 2009-2011; while the number of vacancies recovered, the successive extensions kept search intensity down.",
+ "tittel": "A Quantitative Analysis of Unemployment Benefit Extensions",
+ "type": "report"
+}

@@ -1,0 +1,15 @@
+{
+ "apen_url": "https://doi.org/10.31737/2221-2264-2022-54-2-8",
+ "ar": 2022,
+ "doi": "https://doi.org/10.31737/2221-2264-2022-54-2-8",
+ "forfattere": [
+  "V.K. Kopytok"
+ ],
+ "id": "W4285294026",
+ "kilde": "Journal of the New Economic Association",
+ "lenke": "https://openalex.org/W4285294026",
+ "oversikt": false,
+ "sammendrag": "The unemployment insurance (UI) system is one of the key labor market institutes. UI benefits allow to smooth consumption during unemployment. Moreover, people receiving UI benefits can search for a new position more selectively, and thus find a job that with more appropriate qualification requirements and salary. Nevertheless, generous UI benefits lead to a decrease in the intensity of job search and an increase in the duration of registered unemployment. The optimal UI system design balances these effects. This paper is based on administrative microdata on registered unemployment in Russia in 2019 (collected by The Federal Service for Labor and Employment of Russia) to estimate the causal effect of UI benefits on the duration of registered unemployment. Regression kink design and the maximum UI benefits levels are exploited to identify the causal effect. Estimated elasticities of UI duration with respect to average daily benefits are positive and significant with values from 0.2 to 5.3 due to specification which corresponds to the estimates obtained for other countries.",
+ "tittel": "Unemployment benefits and duration of registered unemployment in Russia: Regression kink design",
+ "type": "article"
+}

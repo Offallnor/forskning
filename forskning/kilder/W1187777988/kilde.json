@@ -1,0 +1,18 @@
+{
+ "apen_url": "http://hdl.handle.net/10138/12481",
+ "ar": 2005,
+ "forfattere": [
+  "Jouko Verho"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "https://labore.fi/wp-content/uploads/2005/11/Tyopapereita-214.pdf",
+ "hvordan": "pdf",
+ "id": "W1187777988",
+ "kilde": "RePEc: Research Papers in Economics",
+ "lenke": "https://openalex.org/W1187777988",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "1990-luvun alun lama synnytti Suomeen vakavan työttömyysongelman. Työttömien lukumäärä lisääntyi räjähdysmäisesti ja pitkäaikaistyöttömien osuus lähes kymmenkertaistui. Tässä työssä analysoidaan työttömyyden kestoon vaikuttavia taustatekijöitä käyttäen yksilöainestoa vuosilta 1987 - 2000. Aineisto koostuu laajasta satunnaisotoksesta työttömäksi jääneitä suomalaisia. Keskeisenä kiinnostuksen kohteena ovat makrotaloudellisen tilanteen ja työttömien ihmisten ominaisuuksien muutoksien vaikutuksissa työttömyyden kestoon. Yleensä oletetaan, että laman aikana irtisanotuilla on huonommat ominaisuudet työllistymisen kannalta verrrattuna muihin aikoihin. Lisäksi työssä tutkitaan, miten suhdannevaihtelu vaikuttaa eri tyyppisiin ihmisiin ja muuttuvatko työttömyyden kestoon vaikuttavat tekijät aikavälillä. Myös kysymystä duraatioriippuvuudesta tarkastellaan. Duraatioriippuvuudella tarkoitetaan sitä, miten kulunut työttömyysjakson pituus vaikuttaa työllistymismahdollisuuteen. Useimmissa maissa vaikutus on negatiivinen. Duraatioriippuvuuden suuruus on olennaista työvoimapolitiikan suunnittelussa. Työn analyysi tehdään verrannollisen hasardin mallilla, jossa perushasardi on määritelty ei-parametrisesti. Aluellista työttömyysastetta käytetään kuvaamaan makrotalouden tilaa. Erilliset mallit estimoidaan lyhyemmille aikaväleille, jotta voidaan tutkia muutoksia parametriarvoissa sekä ottaa huomioon ei-verrannolliset vaikutukset ajanjaksojen väleillä. Työttömien koostumuksen ja suhdannevaihtelun suhteellinen merkitys indentifioidaan Rosholmin (2001) lähestymistavan avulla. Analyysin perusteella voidaan päätellä, että ajanjaksojen välillä on selvästi epäsymmetrisiä vaikutuksia. Perushasardin muoto muuttuu ja joidenkin yksilöitä kuvaavien parametrien arvoissa on trendejä. Tämä selittyy todennäköisesti laman seurauksena tapahtuneella talouden rakenteellisella muutoksella. Duraatioriippuvuus vaikuttaa olevan selvästi negatiivista, ja ihmisten erilaisuudella näyttää olevan vain vähäinen vaikutus perushasardiin. Analyysin perusteella työttömien valikointimalli (ranking model) ei saa tukea, koska työttömyysasteella ei ole vaikutusta perushasardin muotoon. Työttömien koostumuksen vaikutus osoittautuu merkitykselliseksi. Tuloksien perusteella näyttää yllättäen siltä, että koostumus muuttui työllistymisen kannalta paremmaksi laman aikana. Tämä voi selittyä jälleen laman vakavuudella, jos irtisanomiset kohdistuivat silloin satunnaisemmin ihmisiin muihin aikoihin verrattuna.",
+ "tittel": "Unemployment Duration and Business Cycles in Finland",
+ "type": "preprint"
+}

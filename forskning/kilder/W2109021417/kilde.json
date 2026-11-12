@@ -1,0 +1,16 @@
+{
+ "ar": 2015,
+ "doi": "https://doi.org/10.1111/ecoj.12310",
+ "forfattere": [
+  "Per Engström",
+  "Pathric Hägglund",
+  "Per Johansson"
+ ],
+ "id": "W2109021417",
+ "kilde": "The Economic Journal",
+ "lenke": "https://openalex.org/W2109021417",
+ "oversikt": false,
+ "sammendrag": "We estimate the effects of early assessments of an individual’s need for vocational rehabilitation in the Swedish sickness insurance system using a field experiment. One of the interventions increases the flow to disability benefits by 20%. The effect is larger for unemployed individuals, who also are covered by the sickness insurance scheme. This result is in line with a theoretical model with moral hazard and asymmetric information in which individuals with low work incentives communicate worse health in response to the assessment for rehabilitation which then increases the hazard to disability benefits.",
+ "tittel": "Early Interventions and Disability Insurance: Experience from a Field Experiment",
+ "type": "article"
+}

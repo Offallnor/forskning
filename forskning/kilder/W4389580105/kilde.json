@@ -1,0 +1,26 @@
+{
+ "apen_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/cl2.1371",
+ "ar": 2023,
+ "doi": "https://doi.org/10.1002/cl2.1371",
+ "forfattere": [
+  "Anja Bondebjerg",
+  "Trine Filges",
+  "Jan Hyld Pejtersen",
+  "Malene Wallach Kildemoes",
+  "Hermann Burr",
+  "Peter Hasle",
+  "Emile Tompa",
+  "Elizabeth Bengtsen"
+ ],
+ "hentet": "2026-11-09",
+ "hentet_fra": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10712440/fullTextXML",
+ "hvordan": "Europe PMC",
+ "id": "W4389580105",
+ "kilde": "Campbell Systematic Reviews",
+ "lenke": "https://openalex.org/W4389580105",
+ "merknad": "",
+ "oversikt": true,
+ "sammendrag": "Background: Unsafe and unhealthy working conditions lead to injuries and financial losses across the globe, resulting in a need for research into effective work environment interventions. Objectives: The objective of this evidence and gap map (EGM) is to provide an overview of existing systematic reviews and primary studies examining the effects of occupational health and safety regulatory interventions. Search Methods: Relevant studies are identified through searches in published and unpublished literature performed up to January 2023. Selection Criteria: The population for this EGM is workers above the age of 15 and their workplaces within the OECD. We include randomised controlled trials, non-randomised studies with a comparison of two or more groups of participants, and systematic reviews of effects. Data Collection and Analysis: The map has been populated based on information about interventions and outcomes, study design, OECD country, and publication status. We have performed critical appraisal of included systematic reviews using an adjusted version of the AMSTAR-2 tool. Main Results: The included studies for this report consist of six systematic reviews, 28 primary effect studies, and three on-going studies. The interactive map shows that the largest cluster of studies is located in the inspection activity domain, while the sickness absence outcome domain and the intervention categories for training initiatives and formulation of regulatory standards are only scarcely populated. Additionally, the AMSTAR-appraisal suggests a lack of rigorous systematic reviews and meta-analyses. Authors’ Conclusions: More research in the form of primary studies and rigorous systematic reviews is needed to provide stakeholders with better guidance as to what constitutes the most efficient regulatory approaches to improve the work environment.",
+ "tittel": "Occupational health and safety regulatory interventions to improve the work environment: An evidence and gap map of effectiveness studies",
+ "type": "article"
+}

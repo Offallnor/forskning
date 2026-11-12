@@ -1,0 +1,20 @@
+{
+ "apen_url": "https://doi.org/10.1016/j.labeco.2015.02.003",
+ "ar": 2015,
+ "doi": "https://doi.org/10.1016/j.labeco.2015.02.003",
+ "forfattere": [
+  "Espen Bratberg",
+  "Karin Monstad"
+ ],
+ "hentet": "før 2026-11-08",
+ "hentet_fra": "http://ekstern.filer.uib.no/svf/2012/wp08.12_2.pdf",
+ "hvordan": "pdf",
+ "id": "W2076042101",
+ "kilde": "Labour Economics",
+ "lenke": "https://openalex.org/W2076042101",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "Excessive sickness absence may hurt productivity and put a strain on public finances. One explanation put forward for increasing absence rates is that a tougher labour market represents a health hazard. A competing hypothesis is that loss of job security works as a disciplinary device. We use a financial shock that hit the public sector in Norway in 2007 in some, but not all, municipalities to identify the effect of reduced job security on sickness absence. Public sector workers in municipalities that were not affected are used as a control group in a difference-in-differences analysis. In addition, trends in sickness absence of public and private sector employees are compared, in a triple difference-in-differences analysis. We find that sickness absence among public employees decreased considerably in the year after the shock in the affected municipalities. The results survive a number of robustness checks. The evidence is strongest for women, and consistent with a hypothesis that reduced job security has a disciplining effect.",
+ "tittel": "Worried sick? Worker responses to a financial shock",
+ "type": "article"
+}

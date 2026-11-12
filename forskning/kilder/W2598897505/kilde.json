@@ -1,0 +1,15 @@
+{
+ "apen_url": "https://buenavistauniversity.on.worldcat.org/atoztitles/link?ctx_ver=Z39.88-2004&ctx_enc=info:ofi/enc:UTF-8&url_ver=Z39.88-2004&rfr_id=info:sid/Elsevier:SD&svc_val_fmt=info:ofi/fmt:kev:mtx:sch_svc&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&rft.aulast=WEISSBRODT&rft.auinit=R&rft.date=2017&rft.issn=09257535&rft.volume=100&rft.part=PartPA&rft.spage=110&rft.epage=124&rft.title=Safety%20Science&rft.atitle=Labour%20inspections%20and%20the%20prevention%20of%20psychosocial%20risks%20at%20work%3A%20A%20realist%20synthesis&rft_id=info:doi/10.1016/j.ssci.2017.02.012",
+ "ar": 2017,
+ "doi": "https://doi.org/10.1016/j.ssci.2017.02.012",
+ "forfattere": [
+  "Rafaël Weissbrodt",
+  "David Giauque"
+ ],
+ "id": "W2598897505",
+ "kilde": "Safety Science",
+ "lenke": "https://openalex.org/W2598897505",
+ "oversikt": false,
+ "tittel": "Labour inspections and the prevention of psychosocial risks at work: A realist synthesis",
+ "type": "article"
+}

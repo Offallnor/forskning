@@ -1,0 +1,24 @@
+{
+ "apen_url": "https://www.mdpi.com/1660-4601/18/22/12083/pdf?version=1637163213",
+ "ar": 2021,
+ "doi": "https://doi.org/10.3390/ijerph182212083",
+ "forfattere": [
+  "Isabelle Weld-Blundell",
+  "Marissa Shields",
+  "Alexandra E. Devine",
+  "Helen Dickinson",
+  "Anne Marie Kavanagh",
+  "Claudia H. Marck"
+ ],
+ "hentet": "2026-11-09",
+ "hentet_fra": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8618542/fullTextXML",
+ "hvordan": "Europe PMC",
+ "id": "W3212080065",
+ "kilde": "International Journal of Environmental Research and Public Health",
+ "lenke": "https://openalex.org/W3212080065",
+ "merknad": "",
+ "oversikt": true,
+ "sammendrag": "Objective: To systematically review interventions aimed at improving employment participation of people with psychosocial disability, autism, and intellectual disability. Methods: We searched MEDLINE, Embase, PsycINFO, Web of Science, Scopus, CINAHL, ERIC, and ERC for studies published from 2010 to July 2020. Randomized controlled trials (RCTs) of interventions aimed at increasing participation in open/competitive or non-competitive employment were eligible for inclusion. We included studies with adults with psychosocial disability autism and/or intellectual disability. Risk of bias was assessed using the Cochrane Collaboration Risk of Bias II Tool. Data were qualitatively synthesized. Our review was registered with PROSPERO (CRD42020219192). Results: We included 26 RCTs: 23 targeted people with psychosocial disabilities (n = 2465), 3 included people with autism (n = 214), and none included people with intellectual disability. Risk of bias was high in 8 studies, moderate for 18, and low for none. There was evidence for a beneficial effect of Individual Placement and Support compared to control conditions in 10/11 studies. Among young adults with autism, there was some evidence for the benefit of Project SEARCH and ASD supports on open employment. Discussion: Gaps in the availability of high-quality evidence remain, undermining comparability and investment decisions in vocational interventions. Future studies should focus on improving quality and consistent measurement, especially for interventions targeting people with autism and/or intellectual disability.",
+ "tittel": "Vocational Interventions to Improve Employment Participation of People with Psychosocial Disability, Autism and/or Intellectual Disability: A Systematic Review",
+ "type": "review"
+}

@@ -1,0 +1,19 @@
+{
+ "apen_url": "http://urn.kb.se/resolve?urn=urn:nbn:se:oru:diva-15363",
+ "ar": 2009,
+ "forfattere": [
+  "Daniela Andrén",
+  "Thomas Andrén"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "https://www.oru.se/globalassets/oru-sv/institutioner/hh/workingpapers/workingpapers2009/wp-10-2009.pdf",
+ "hvordan": "pdf",
+ "id": "W1579837130",
+ "kilde": "RePEc: Research Papers in Economics",
+ "lenke": "https://openalex.org/W1579837130",
+ "merknad": "ÅPEN VERSJON (preprint eller arbeidsnotat), merkes i svaret",
+ "oversikt": false,
+ "sammendrag": "This paper analyzes the effects of starting the sick leave on part-time compared to fulltime on the probability to recover (i.e., return to work with full recovery of lost work capacity). Using a discrete choice one-factor model, we estimate mean treatment parameters and distributional treatment parameters from a common set of structural parameters. Our results indicate that part-time sick leave is not an intensive treatment and should not to be used for all from the very beginning of a case. However, when the output is analyzed for time spans longer than three months, the average probability to recover is higher for those who started on part time sick leave. Besides, the share of individuals who are positive indifferent between the two states is large (above 50%), which suggests that there is potential for increasing the share",
+ "tittel": "Starting Sick Leave on Part-Time as a Treatment Method?",
+ "type": "preprint"
+}

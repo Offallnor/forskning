@@ -1,0 +1,16 @@
+{
+ "ar": 2003,
+ "doi": "https://doi.org/10.1002/ajim.10209",
+ "forfattere": [
+  "James M. Baggs",
+  "Barbara A. Silverstein",
+  "Michael Foley"
+ ],
+ "id": "W2093998534",
+ "kilde": "American Journal of Industrial Medicine",
+ "lenke": "https://openalex.org/W2093998534",
+ "oversikt": false,
+ "sammendrag": "BACKGROUND: There has been considerable debate in the public policy arena about the appropriate mix of regulatory enforcement and consultation in achieving desired health and safety behavior across industries. Recently there has been a shift in federal policy toward voluntary approaches and constraining the scope of enforcement programs, although there is little evidence that this might improve health and safety outcomes. To address this, we examined changes in lost time workers compensation claims rates for Washington State employers who had (1) no OSHA State Plan (WISHA) activity, (2) enforcement, (3) consultation, and (4) both types of visits. METHODS: Compensable claims rates, hours, and WISHA activity were determined for each employer account with a single business location that had payroll hours reported for every quarter from 1997-2000 and more than 10 employees. We used a generalized estimating equations (GEE) approach to Poisson regression to model the association between WISHA activity and claims rate controlling for other external factors. RESULTS: Controlling for previous claims rate and average size, claims rates for employers with WISHA enforcement activity declined 22.5% in fixed site industry SIC codes compared to 7% among employers with no WISHA activity (P < 0.05), and in non-fixed site SICs (e.g., construction) claims rates declined 12.8% for employers with enforcement activity compared to a 7.4% decline for those with no WISHA activity (P > 0.10). WISHA consultation activity was not associated with a greater decline in compensable claims rates (-2.3% for fixed sites and +3.5% for non-fixed sites). WISHA activity did not adversely affect worksite survivability through the study period. CONCLUSIONS: Enforcement inspections are significantly associated with decreasing compensable workers compensation claims rates especially for fixed site employers. We were unable to identify an association between consultation activities and decreasing claims rates.",
+ "tittel": "Workplace health and safety regulations: Impact of enforcement and consultation on workers' compensation claims rates in Washington State",
+ "type": "article"
+}

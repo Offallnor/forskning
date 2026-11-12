@@ -1,0 +1,22 @@
+{
+ "apen_url": "https://link.springer.com/content/pdf/10.1007%2Fs00127-017-1409-6.pdf",
+ "ar": 2017,
+ "doi": "https://doi.org/10.1007/s00127-017-1409-6",
+ "forfattere": [
+  "Jurgita Narusyte",
+  "Annina Ropponen",
+  "Kristina A. E. Alexanderson",
+  "Pia Svedberg"
+ ],
+ "hentet": "2026-11-09",
+ "hentet_fra": "https://link.springer.com/content/pdf/10.1007%2Fs00127-017-1409-6.pdf",
+ "hvordan": "pdf",
+ "id": "W2628418572",
+ "kilde": "Social Psychiatry and Psychiatric Epidemiology",
+ "lenke": "https://openalex.org/W2628418572",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "BACKGROUND: There is limited information regarding the association between youth mental health problems and work incapacity in adulthood. We investigated whether internalizing (depressive, anxious, somatic complaints) and externalizing (aggressive, rule-breaking) behavior problems in childhood and adolescence were associated with sickness absence (SA) and disability pension (DP) in young adulthood. METHODS: Data were used from the population-based and prospective Twin Study of Child and Adolescent Development (TCHAD) which includes all Swedish twins born in 1985-1986 (N = 2570). Internalizing and externalizing behavior problems were assessed with the Child Behavior Checklist at ages of 8-9, 13-14, 16-17, and 19-20 years. Individuals participating in TCHAD were followed regarding SA and DP during 2001-2013 using nationwide registers. Cox regression models were applied to assess hazard ratios (HR) with 95% confidence intervals (CI). RESULTS: Each one-unit increase of rule-breaking behavior implied a significant higher risk for SA in early adulthood, despite of age at assessment, with the highest HR of 1.12 (95% CI 1.05-1.19) at age of 8-9 years. Higher levels of anxious and depressive symptoms in childhood and adolescence were associated with DP in early adulthood despite age at assessment, with the highest risk at age 19-20 years [HR 1.31 (95% CI 1.12-1.53)]. The associations attenuated slightly when familial factors were taken into account. CONCLUSIONS: Internalizing and externalizing behavior problems identified at an early age (8-9 years) increased risk for SA and DP in young adulthood. These findings indicate that early prevention and intervention efforts to reduce behavior problems may promote a successful start in working life.",
+ "tittel": "Internalizing and externalizing problems in childhood and adolescence as predictors of work incapacity in young adulthood",
+ "type": "article"
+}

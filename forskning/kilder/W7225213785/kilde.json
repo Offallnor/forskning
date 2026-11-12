@@ -1,0 +1,14 @@
+{
+ "ar": 2010,
+ "forfattere": [
+  "V Prowse",
+  "P Haan"
+ ],
+ "id": "W7225213785",
+ "kilde": "Oxford University Research Archive (ORA) (University of Oxford)",
+ "lenke": "https://openalex.org/W7225213785",
+ "oversikt": false,
+ "sammendrag": "In this paper we use a dynamic structural life-cycle model to analyze the employment, fiscal and welfare effects induced by unemployment insurance. The model features a detailed specification of the tax and transfer system, including unemployment insurance benefits which depend on an individual's employment and earnings history. The model also captures the endogenous accumulation of experience which impacts on future wages, job arrivals and job separations. For better identification of the structural parameters we exploit a quasi-natural experiment, namely reductions over time in the entitlement period for unemployment insurance benefits which varied by age and experience. The results show that a policy cut in the generosity of unemployment insurance operationalized as a reduction in the entitlement period generates a larger increase in employment and yields a bigger fiscal saving than a cut operationalized as a reduction in the replacement ratio. Welfare analysis of revenue neutral tax and transfer reforms also favors a reduction in the entitlement period.",
+ "tittel": "The design of unemployment transfers: evidence from a dynamic structural life-cycle model",
+ "type": "report"
+}

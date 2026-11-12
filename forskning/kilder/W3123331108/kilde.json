@@ -1,0 +1,17 @@
+{
+ "ar": 2020,
+ "forfattere": [
+  "Jonas Cederlöf"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "https://www.ifau.se/globalassets/pdf/se/2020/wp-2020-25-extended-unemployment-benefits-and-the-hazard-to-employment.pdf",
+ "hvordan": "pdf",
+ "id": "W3123331108",
+ "kilde": "RePEc: Research Papers in Economics",
+ "lenke": "https://openalex.org/W3123331108",
+ "merknad": "ÅPEN VERSJON (preprint eller arbeidsnotat), merkes i svaret",
+ "oversikt": false,
+ "sammendrag": "Previous studies estimating the effect of generosity of unemployment insurance (UI) on unemployment duration has found that as job seekers approach benefit exhaustion the probability of leaving unemployment increases sharply. Such \"spikes\" in the hazard rate has generally been interpreted as job seekers timing their employment to coincide with benefit exhaustion. Card, Chetty and Weber (2007b) argue that such spikes rather reflect flight out of the labor force as benefits run out. This paper revisits this debate by studying a 30 week UI benefit extension in Sweden and its effects on unemployment duration, duration on UI, as well as the timing of employment. As the UI extension is predicated upon a job seeker having a child below the age of 18 at the time of regular UI exhaustion this provides quasi-experimental variation which I exploit using a regression discontinuity design. I find that although increasing potential UI duration by 30 weeks increases actual take up by about 2.5 weeks, overall duration in unemployment and the probability of employment is largely unaffected. Moreover, I find no evidence of job seekers manipulating the hazard to employment such that it coincides with UI benefit exhaustion. This result is attributed to generous replacement rates offered in other assistance programs available to job seekers who exhaust their benefits.",
+ "tittel": "Extended unemployment benefits and the hazard to employment",
+ "type": "preprint"
+}

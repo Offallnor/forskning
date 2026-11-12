@@ -1,0 +1,18 @@
+{
+ "ar": 2001,
+ "forfattere": [
+  "Sten Johansson",
+  "Jan Selén"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "http://swopec.hhs.se/fiefwp/papers/WP170.pdf",
+ "hvordan": "pdf",
+ "id": "W1530733747",
+ "kilde": "RePEc: Research Papers in Economics",
+ "lenke": "https://openalex.org/W1530733747",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "Ersättningsgraden i arbetslöshetsförsäkringen har förändrats flera gånger under 1990-talet. 1996 års sänkning från 80 till 75 procent ledde till en tioprocentig ökning av övergångarna till arbete enligt det statliga Institutet för arbetsmarknadspolitisk utvärdering (IFAU). I vår reanalys av IFAU-studien kom vi fram till att reformeffekten var en statistisk artefakt som inte kan tolkas kausalt. 1993 års sänkning av ersättningsgraden från 90 till 80 procent har tidigare studerats av Harkman. När vi här analyserar denna dubbelt så stora sänkning av ersättningsgraden med likartad metod, ansats och med variabelspecifikationer som i IFAU-studien får vi liksom Harkman ingen signifikant reformeffekt enligt konventionella kriterier. Däremot får vi i detta material tydliga belägg för samma problematiska statistiska fenomen som omöjliggör kausal tolkning i reanalysen av IFAU-studien. Det gäller i särskild grad den s k antecipatoriska effekten. Ett sidoresultat är stora skillnader i arbetsmarknadsbeteende mellan kvinnor och män som vi inte kunnat förklara helt.",
+ "tittel": "Arbetslöshetsförsäkringen och arbetslösheten(2). Reformeffekt vid 1993 års sänkning av ersättningsgraden i arbetslöshetsförsäkringen",
+ "type": "preprint"
+}

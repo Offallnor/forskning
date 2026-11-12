@@ -1,0 +1,15 @@
+{
+ "ar": 2008,
+ "forfattere": [
+  "José María Arranz Muñoz",
+  "Fernando Muñoz Bullón",
+  "Juan Muro"
+ ],
+ "id": "W148424784",
+ "kilde": "Dialnet (Universidad de la Rioja)",
+ "lenke": "https://openalex.org/W148424784",
+ "oversikt": false,
+ "sammendrag": "Using a rich administrative dataset on unemployment insurance benefit recipients, the current work analyses the Spanish 1992 Reform Act implemented to reduce the generosity of the unemployment compensation system —in particular, a decrease in the level of unemployment insurance benefits and in entitlement duration. For this purpose, we compare unemployment insurance exit rates for two large sub-samples of individuals: the first sub-sample includes those who started receiving unemployment insurance benefits in 1991 (the pre-reform sub-sample) and the second sub-sample includes those who did so during 1993 (the post-reform sub-sample). Results indicate that these legislative changes had a positive though modest effect on individuals’ exit rate from unemployment: the 10-percent decrease in unemployment insurance benefit levels was associated with a 5-percent increase in the transition rate out of unemployment, while the reduction implemented in the potential unemployment insurance duration implied a 2-percent increase in the hazard rate out of unemployment. JEL Classification Numbers: J64, J65.",
+ "tittel": "Do unemployment benefit legislative changes affect job finding? Evidence from the Spanish 1992 UI reform act.",
+ "type": "article"
+}

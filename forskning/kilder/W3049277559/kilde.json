@@ -1,0 +1,15 @@
+{
+ "apen_url": "http://hdl.handle.net/10419/203333",
+ "ar": 2016,
+ "forfattere": [
+  "Po‐Chun Huang",
+  "Tzu‐Ting Yang"
+ ],
+ "id": "W3049277559",
+ "kilde": "RePEc: Research Papers in Economics",
+ "lenke": "https://openalex.org/W3049277559",
+ "oversikt": false,
+ "sammendrag": "This paper estimates the liquidity effect and moral hazard effect of extended un- employment insurance (UI) benefits using two natural experiments. In Taiwan, since unemployed workers eligible for unemployment benefits receive 50% of their remaining entitlements if reemployed before they exhaust benefits, extending potential duration not only extends benefits but also extends reemployment bonuses. We show the effect of extended benefits on unemployment duration can be decomposed to the liquidity effect and moral hazard effect, which is proportionally reduced by the reemployment bonuses. To estimate the effect of reemployment bonuses, we exploit the kinks in potential reemployment bonuses as the bonuses phased in. Our estimates show the imposition of bonus program reduces insured duration and nonemployment duration by about 5% and 13%, respectively. On the other hand, to identify the effect of ex- tended benefits, we exploit the fact that potential duration is a discontinuous function of exact age at job loss. The estimates using administrative data show the elasticity of insured duration to potential duration is about 0:7, and that of nonemployment du- ration is about 0:3. Combined with theoretical results, our estimates suggest liquidity effect explains 87% of the increase in unemployment duration due to extended benefits in Taiwan. Our calibration suggests it is optimal to increase potential duration and decrease the generosity of bonuses.",
+ "tittel": "Evaluation of optimal unemployment insurance with reemployment bonuses using regression discontinuity (kink) design",
+ "type": "preprint"
+}

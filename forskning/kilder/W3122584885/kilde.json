@@ -1,0 +1,17 @@
+{
+ "apen_url": "https://doi.org/10.2139/ssrn.3177370",
+ "ar": 2018,
+ "doi": "https://doi.org/10.2139/ssrn.3177370",
+ "forfattere": [
+  "Steven G. Dieterle",
+  "Otávio Bartalotti",
+  "Quentin Brummet"
+ ],
+ "id": "W3122584885",
+ "kilde": "American Economic Journal Economic Policy",
+ "lenke": "https://openalex.org/W3122584885",
+ "oversikt": false,
+ "sammendrag": "This study documents two potential biases in recent analyses of UI benefit extensions using boundary-based identification: bias from using county-level aggregates and bias from across-border policy spillovers. To examine the first bias, the analysis uses a regression discontinuity approach that accounts for measurement error in county-level aggregates. These results suggest much smaller effects than previous studies, casting doubt on the applicability of border-based designs. The analysis then shows substantial spillover effects of UI benefit duration on across-border work patterns, consistent with increased tightness in high-benefit states and providing evidence against a dominant vacancy reduction response to UI extensions. (JEL E24, E32, J22, J64, J65)",
+ "tittel": "Revisiting the Effects of Unemployment Insurance Extensions on Unemployment: A Measurement Error-Corrected Regression Discontinuity Approach",
+ "type": "article"
+}

@@ -1,0 +1,118 @@
+name: Søk etter forskning på et spørsmål
+
+on:
+  push:
+    branches: [main]
+    paths: [forskning/sporsmal/*/kjor.sh]
+
+permissions:
+  contents: write
+
+jobs:
+  finn:
+    # Finner spørsmålene som skal kjøres: kjor.sh som er endret i denne pushen, og kjor.sh som er endret
+    # siden siste fullførte kjøring (kjor.sh.kjort har sjekksummen), så avbrutte runder blir tatt igjen.
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    outputs:
+      mapper: ${{ steps.finn.outputs.mapper }}
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          ref: ${{ github.ref_name }}
+          fetch-depth: 0
+      - id: finn
+        env:
+          FOR: ${{ github.event.before }}
+          ETTER: ${{ github.sha }}
+        run: |
+          endret=$(git diff --name-only "$FOR" "$ETTER" -- 'forskning/sporsmal/*/kjor.sh' 2>/dev/null) || endret=$(ls forskning/sporsmal/*/kjor.sh)
+          for f in forskning/sporsmal/*/kjor.sh; do
+            [ -f "$f.kjort" ] && [ "$(sha256sum "$f" | cut -d' ' -f1)" != "$(cat "$f.kjort")" ] && endret="$endret $f" || true
+          done
+          mapper=$(for f in $(printf '%s\n' $endret | sort -u); do [ -f "$f" ] || continue; [ -f "$f.kjort" ] && [ "$(sha256sum "$f" | cut -d' ' -f1)" = "$(cat "$f.kjort")" ] && continue; basename "$(dirname "$f")"; done | python3 -I -c 'import json,sys; print(json.dumps(sys.stdin.read().split()))')
+          echo "Spørsmål: $mapper"
+          echo "mapper=$mapper" >> "$GITHUB_OUTPUT"
+
+  sok:
+    needs: finn
+    if: needs.finn.outputs.mapper != '[]'
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    strategy:
+      fail-fast: false
+      max-parallel: 3
+      matrix:
+        mappe: ${{ fromJSON(needs.finn.outputs.mapper) }}
+    # Én kø per spørsmål: spørsmålene kjører samtidig, men samme spørsmål kjører aldri i to jobber på en gang.
+    # Køen beholder bare én ventende jobb per spørsmål; den som erstattes, tas igjen via .kjort.
+    concurrency:
+      group: sporsmal-sok-${{ matrix.mappe }}
+      cancel-in-progress: false
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          ref: ${{ github.ref_name }}
+          fetch-depth: 0
+      - name: Hent fulltekst fra det private repoet
+        env:
+          TOKEN: ${{ secrets.FORSKNING_TOKEN }}
+        run: |
+          git clone -q "https://x-access-token:${TOKEN}@github.com/Offallnor/forskning-tekst.git" ../tekst
+          bash forskning/verktoy/fulltekst.sh hent ../tekst
+      - name: Installer pdftotext
+        run: sudo apt-get install -y -q poppler-utils >/dev/null
+      - name: Kjør
+        # Egen tidsgrense for steget, så det som er hentet, lagres selv om tiden går ut.
+        # kjor.sh som ikke ble ferdig, får ikke ny .kjort og tas igjen ved neste kjøring.
+        timeout-minutes: 100
+        env:
+          OPENALEX_API_KEY: ${{ secrets.OPENALEX_API_KEY }}
+          MAPPE: ${{ matrix.mappe }}
+        run: |
+          f="forskning/sporsmal/$MAPPE/kjor.sh"
+          # Jobben kan ha ventet i køen mens en annen jobb kjørte samme kjor.sh ferdig. Da er det ingenting å gjøre.
+          if [ -f "$f.kjort" ] && [ "$(sha256sum "$f" | cut -d' ' -f1)" = "$(cat "$f.kjort")" ]; then
+            echo "$f er allerede kjørt i denne versjonen"; exit 0
+          fi
+          echo "== $f"; bash "$f"; sha256sum "$f" | cut -d' ' -f1 > "$f.kjort"
+          python3 -I forskning/verktoy/kilder_oversikt.py
+      - name: Lagre resultat
+        if: always()
+        env:
+          MAPPE: ${{ matrix.mappe }}
+        run: |
+          # Fulltekst først, til det private repoet. .gitignore holder den utenfor dette repoet.
+          bash forskning/verktoy/fulltekst.sh lagre ../tekst "Fulltekst: $MAPPE"
+          git add forskning/sporsmal forskning/kilder
+          [ -d forskning/katalog/kudos ] && git add forskning/katalog/kudos
+          if git diff --cached --quiet; then exit 0; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -qm "Spørsmålssøk: resultat for $MAPPE"
+          # Har main fått nye versjoner av de samme filene i mellomtiden (andre spørsmål som kjører samtidig, eller
+          # tråder som pusher), løses konflikten slik, så resultatet ikke går tapt:
+          # - oversiktsfilene (kilder/*/funn.tsv, budskap.tsv, oversikt.tsv) lages på nytt av kilder_oversikt.py
+          # - andre filer i det felles kildebiblioteket og Kudos-katalogen: versjonen på main beholdes
+          # - konflikt i spørsmålets egne filer stopper som før
+          generert='^forskning/(kilder/([^/]+/)?(funn|budskap|oversikt)\.tsv|sporsmal/oversikt\.tsv)$'
+          felles='^forskning/(kilder|katalog/kudos)/'
+          for forsok in 1 2 3 4 5; do
+            if ! git pull -q --rebase; then
+              konflikt=$(git diff --name-only --diff-filter=U)
+              andre=$(printf '%s\n' $konflikt | grep -vE "$generert" | grep -vE "$felles" || true)
+              if [ -n "$andre" ]; then echo "Flettekonflikt i filer som ikke kan løses automatisk:"; echo "$andre"; git rebase --abort; exit 1; fi
+              # Under rebase er «ours» main og «theirs» denne kjøringen. Oversiktsfilene lages uansett på nytt under.
+              for k in $konflikt; do
+                git checkout --ours -- "$k" 2>/dev/null || git rm -q --cached -- "$k"
+                git add -- "$k" 2>/dev/null || true
+              done
+              GIT_EDITOR=true git rebase --continue
+            fi
+            python3 -I forskning/verktoy/kilder_oversikt.py
+            git add forskning/sporsmal forskning/kilder
+            git diff --cached --quiet || git commit -qm "Spørsmålssøk: oversikter laget på nytt etter fletting ($MAPPE)"
+            git push && exit 0
+            sleep $((forsok * 10 + RANDOM % 10))
+          done
+          exit 1

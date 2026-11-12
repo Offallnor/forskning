@@ -1,0 +1,17 @@
+{
+ "apen_url": "https://papers.ssrn.com/sol3/Delivery.cfm/ECOJ708.pdf?abstractid=313273&mirid=1",
+ "ar": 2002,
+ "doi": "https://doi.org/10.1111/1468-0297.00034",
+ "forfattere": [
+  "Olympia Bover",
+  "Manuel Arellano",
+  "Samuel Bentolila"
+ ],
+ "id": "W2072949196",
+ "kilde": "The Economic Journal",
+ "lenke": "https://openalex.org/W2072949196",
+ "oversikt": false,
+ "sammendrag": "In this paper we study the effects of unemployment benefit duration and the business cycle on unemployment duration. We construct durations for individuals entering unemployment from a longitudinal sample of Spanish men in 1987–94. Estimated discrete hazard models indicate that receipt of unemployment benefits significantly reduces the hazard of leaving unemployment. At durations of three months, when the largest effects occur, the hazard for workers without benefits is twice as large as that for workers with benefits. Favourable business conditions increase the hazard of leaving unemployment. At sample‐period magnitudes, this effect is significantly smaller than that of benefit receipt.",
+ "tittel": "Unemployment Duration, Benefit Duration and the Business Cycle",
+ "type": "article"
+}

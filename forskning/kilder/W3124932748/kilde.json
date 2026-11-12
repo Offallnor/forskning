@@ -1,0 +1,19 @@
+{
+ "apen_url": "http://www.upo.es/serv/bib/wps/econ1611.pdf",
+ "ar": 2016,
+ "forfattere": [
+  "Yolanda F. Rebollo‐Sanz",
+  "Núria Rodríguez‐Planas"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "https://docs.iza.org/dp10044.pdf",
+ "hvordan": "pdf",
+ "id": "W3124932748",
+ "kilde": "RePEc: Research Papers in Economics",
+ "lenke": "https://openalex.org/W3124932748",
+ "merknad": "ÅPEN VERSJON (preprint eller arbeidsnotat), merkes i svaret",
+ "oversikt": false,
+ "sammendrag": "In the aftermath of the Great Recession, the Spanish government reduced the replacement rate (RR) from 60% to 50% after 180 days of unemployment for all spells beginning on July 15, 2012. Using Social Security data and a Differences-in-Differences approach, we find that reducing the RR by 10 percentage points (or 17%) increases workers' odds of finding a job by at least 41% relative to similar workers not affected by the reform. To put it differently, the reform reduced the mean expected unemployment duration by 5.7 weeks (or 14%), implying an elasticity of 0.86. We find strong behavioral effects as the reform reduced the expected unemployment duration right from the beginning of the unemployment spell. While the reform had no effect on wages, it did not decrease other measures of post-displacement job-match quality. After 15 months, the reform decreased unemployment insurance expenditures by 16%, about half of which are explained by job seekers' behavioral changes.",
+ "tittel": "When the Going Gets Tough... Financial Incentives, Duration of Unemployment and Job-Match Quality",
+ "type": "preprint"
+}

@@ -1,0 +1,16 @@
+{
+ "apen_url": "https://doi.org/10.3386/w23528",
+ "ar": 2017,
+ "doi": "https://doi.org/10.3386/w23528",
+ "forfattere": [
+  "Jesse Rothstein",
+  "Robert G. Valletta"
+ ],
+ "id": "W2777267527",
+ "kilde": "National Bureau of Economic Research",
+ "lenke": "https://openalex.org/W2777267527",
+ "oversikt": false,
+ "sammendrag": "Many Unemployment Insurance (UI) recipients do not find new jobs before exhausting their benefits, even when benefits are extended during recessions.Using SIPP panel data covering the 2001 and 2007-09 recessions and their aftermaths, we identify individuals whose jobless spells outlasted their UI benefits (exhaustees) and examine household income, program participation, and health-related outcomes during the six months following UI exhaustion.For the average exhaustee, the loss of UI benefits is only slightly offset by increased participation in other safety net programs (e.g., food stamps), and family poverty rates rise substantially.Self-reported disability also rises following UI exhaustion.These patterns do not vary dramatically across the UI extension episodes, household demographic groups, or broad income level prior to job loss.The results highlight the unique, important role of UI in the U.S. social safety net.",
+ "tittel": "Scraping By: Income and Program Participation After the Loss of Extended Unemployment Benefits",
+ "type": "report"
+}

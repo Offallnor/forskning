@@ -1,0 +1,15 @@
+{
+ "apen_url": "https://doi.org/10.1016/j.jpubeco.2026.105632",
+ "ar": 2026,
+ "doi": "https://doi.org/10.1016/j.jpubeco.2026.105632",
+ "forfattere": [
+  "Pascale Lengagne"
+ ],
+ "id": "W7142083991",
+ "kilde": "Journal of Public Economics",
+ "lenke": "https://openalex.org/W7142083991",
+ "oversikt": false,
+ "sammendrag": "This paper examines the effects of experience rating of workers’ compensation (WC) insurance on workers’ absences and employment. I exploit a French reform that increased the degree of experience rating assigned to medium-size firms, thereby strengthening their incentives to reduce WC benefit expenditures of their employees. The findings show that a higher degree of experience rating led to a significant reduction in absences due to work-related injuries or illnesses; the estimates imply an elasticity of a worker’s annual number of work-related absence days with respect to the share of WC benefit expenditures borne by the firm of −1.20, with an extensive-margin elasticity of −0.43. This reduction is not offset by an increase in nonwork-related absences, suggesting that this effect does not reflect a substitution toward filing claims under the nonwork-related insurance scheme. I find no evidence of adverse effects on employment. Instead, the results suggest that increasing the degree of experience rating significantly improved the employment of workers. • Experience rating creates incentives for firms to reduce workers’ compensation benefit payments. • A French reform increased the degree of experience rating, thereby strengthening these incentives. • Stronger incentives led to a substantial reduction in work-related absences taken by workers. • This reduction was not offset by an increase in nonwork-related absences. • Stronger incentives led to improvements in workers’ employment outcomes.",
+ "tittel": "The effects of workers’ compensation experience rating on workers’ absences and employment",
+ "type": "article"
+}

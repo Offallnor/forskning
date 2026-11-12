@@ -1,0 +1,15 @@
+{
+ "ar": 1993,
+ "doi": "https://doi.org/10.1086/298330",
+ "forfattere": [
+  "David A. Green",
+  "William Craig Riddell"
+ ],
+ "id": "W1986744604",
+ "kilde": "Journal of Labor Economics",
+ "lenke": "https://openalex.org/W1986744604",
+ "oversikt": false,
+ "sammendrag": "This article provides an overview of the Canadian Unemployment Insurance (UI) program, including its evolution, salient features, relative size, and knowledge about its labor market impacts. Understanding of these impacts is limited, and we conclude that an \"event-study\" approach is a promising way to further this knowledge. We examine the effects of the 1976 UI disentitlement of the elderly on their labor force behavior and find evidence of significant adverse selection effects. Interactions with the public pension system suggest that poverty among the elderly could be best addressed through changes in programs other than UI.",
+ "tittel": "The Economic Effects of Unemployment Insurance in Canada: An Empirical Analysis of UI Disentitlement",
+ "type": "article"
+}

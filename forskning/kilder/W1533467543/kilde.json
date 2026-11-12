@@ -1,0 +1,14 @@
+{
+ "ar": 1998,
+ "forfattere": [
+  "John T. Addison",
+  "Pedro Portugal"
+ ],
+ "id": "W1533467543",
+ "kilde": "RePEc: Research Papers in Economics",
+ "lenke": "https://openalex.org/W1533467543",
+ "oversikt": false,
+ "sammendrag": "This paper charts the effects of unemployment insurance (UI) on escape rates from unemployment using data from the Displaced Worker Survey. Transition rates from unemployment to employment are estimated via a flexible semiparametric specification that allows the effects of UI recipiency (and indeed other covariates) to vary through time. In addition, potential biases stemming from sample construction and unobserved individual heterogeneity are accommodated. Contrary to Fallick (this Review, 1991), it is found that the spike in the sample hazard rates of UI recipients at benefit exhaustion is not an artifact of the data produced by rounding. Time-varying covariate effects are also detected for several non-UI variables.",
+ "tittel": "On The Time-Varying Effects of Unemployment Insurance on Joblessness",
+ "type": "preprint"
+}

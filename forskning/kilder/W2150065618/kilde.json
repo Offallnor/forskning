@@ -1,0 +1,15 @@
+{
+ "apen_url": "http://jhr.uwpress.org/content/XXXIX/3/839.full.pdf",
+ "ar": 2004,
+ "doi": "https://doi.org/10.3368/jhr.xxxix.3.839",
+ "forfattere": [
+  "Mário José Gomes de Freitas Centeno"
+ ],
+ "id": "W2150065618",
+ "kilde": "The Journal of Human Resources",
+ "lenke": "https://openalex.org/W2150065618",
+ "oversikt": false,
+ "sammendrag": "This paper assesses the benefits of unemployment insurance (UI) by measuring its effect in match quality.We note that UI generosity should affect the decision to match or not and should therefore have some effect on match quality.Using NLSY data, we analyze the relationship between post-unemployment job tenure and measures of the state-level UI generosity and the unemployment rate at the time the job is started.We show that greater UI generosity leads to longer job tenure.Furthermore, we find some evidence that this effect is more pronounced during busts, UI having a limited dampening effect on the cyclical variation in match quality.",
+ "tittel": "The Match Quality Gains from Unemployment Insurance",
+ "type": "article"
+}

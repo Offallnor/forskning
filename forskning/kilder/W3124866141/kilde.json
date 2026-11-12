@@ -1,0 +1,17 @@
+{
+ "apen_url": "http://hdl.handle.net/10068/444271",
+ "ar": 1995,
+ "forfattere": [
+  "Kenneth Carling",
+  "Per‐Anders Edin",
+  "Bertil Holmlund",
+  "Fredrik Jansson"
+ ],
+ "id": "W3124866141",
+ "kilde": "RePEc: Research Papers in Economics",
+ "lenke": "https://openalex.org/W3124866141",
+ "oversikt": false,
+ "sammendrag": "Standard search theory and some empirical evidence suggest that an unemployed individual's probability of entering employment increases as they approach the time when unemployment benefits are due to expire. This pattern may not carry over to countries such as Sweden, where labour market programmes are targeted at the long-term unemployed at risk of benefit exhaustion. This paper examines movements out of unemployment using data on unemployed individuals in Sweden. A semi-parametric competing risks model for transitions to employment, labour market programmes and non-participation is estimated. There is some evidence that the exit rate from unemployment to employment increases as benefit exhaustion is approached.",
+ "tittel": "Unemployment Duration, Unemployment Benefits, and Labour Market Programmes in Sweden",
+ "type": "preprint"
+}

@@ -1,0 +1,933 @@
+# Kontroll: egenandel-sykefravaer
+
+Kjørt 2026-11-09.
+
+0 feil av 927 kontroller.
+
+- OK   1 kilde 0198cc6b5075-4f48eef2-abe5-47a9-98cc-d3c3d0ea5955 finnes
+- OK   1 kilde KU-482dde58-5382-445f-b57f-f8ff4ea92ba1 finnes
+- OK   1 kilde W1521901582 finnes
+- OK   1 kilde W1572536547 finnes
+- OK   1 kilde W1730183598 finnes
+- OK   1 kilde W1733360148 finnes
+- OK   1 kilde W1823227986 finnes
+- OK   1 kilde W2098026786 finnes
+- OK   1 kilde W2104547524 finnes
+- OK   1 kilde W2117611217 finnes
+- OK   1 kilde W2131859699 finnes
+- OK   1 kilde W2169584029 finnes
+- OK   1 kilde W2172116092 finnes
+- OK   1 kilde W2180996442 finnes
+- OK   1 kilde W2188125461 finnes
+- OK   1 kilde W2219647517 finnes
+- OK   1 kilde W2326189071 finnes
+- OK   1 kilde W2340419694 finnes
+- OK   1 kilde W2395345310 finnes
+- OK   1 kilde W2559846193 finnes
+- OK   1 kilde W2598703126 finnes
+- OK   1 kilde W2601387569 finnes
+- OK   1 kilde W2790164552 finnes
+- OK   1 kilde W2793267873 finnes
+- OK   1 kilde W2801719577 finnes
+- OK   1 kilde W2919590971 finnes
+- OK   1 kilde W2950108415 finnes
+- OK   1 kilde W2950538458 finnes
+- OK   1 kilde W2993400654 finnes
+- OK   1 kilde W3022725470 finnes
+- OK   1 kilde W3040771904 finnes
+- OK   1 kilde W3122038036 finnes
+- OK   1 kilde W3122111607 finnes
+- OK   1 kilde W3122634514 finnes
+- OK   1 kilde W3123278655 finnes
+- OK   1 kilde W3125477331 finnes
+- OK   1 kilde W3125528164 finnes
+- OK   1 kilde W3125893180 finnes
+- OK   1 kilde W3126028820 finnes
+- OK   1 kilde W3172039849 finnes
+- OK   1 kilde W4293238630 finnes
+- OK   1 kilde W4297975373 finnes
+- OK   1 kilde W4298168113 finnes
+- OK   1 kilde W4300080070 finnes
+- OK   1 kilde W4386002685 finnes
+- OK   1 kilde W4389284747 finnes
+- OK   1 kilde W4408790921 finnes
+- OK   1 kilde W4414256612 finnes
+- OK   1 kilde W4415122073 finnes
+- OK   1 kilde W7115094906 finnes
+- OK   1 kilde W7115375317 finnes
+- OK   1 kilde W7135822413 finnes
+- OK   1 kilde W7139837664 finnes
+- OK   1 kilde W7142083991 finnes
+- OK   1 kilde W7203954346 finnes
+- OK   1 estimat-kilde W3040771904 finnes
+- OK   1 estimat-kilde W3040771904 finnes
+- OK   1 estimat-kilde W3040771904 finnes
+- OK   1 estimat-kilde W2326189071 finnes
+- OK   1 estimat-kilde W2793267873 finnes
+- OK   1 estimat-kilde W2793267873 finnes
+- OK   1 estimat-kilde W3122634514 finnes
+- OK   1 estimat-kilde W3122634514 finnes
+- OK   1 estimat-kilde W3125893180 finnes
+- OK   1 estimat-kilde W3125893180 finnes
+- OK   1 estimat-kilde W7135822413 finnes
+- OK   1 estimat-kilde W7135822413 finnes
+- OK   1 estimat-kilde W3172039849 finnes
+- OK   1 estimat-kilde W2169584029 finnes
+- OK   1 estimat-kilde W2180996442 finnes
+- OK   1 estimat-kilde W2598703126 finnes
+- OK   1 estimat-kilde W7115094906 finnes
+- OK   1 estimat-kilde W3125477331 finnes
+- OK   1 estimat-kilde W2151016786 finnes
+- OK   1 estimat-kilde W1733360148 finnes
+- OK   1 estimat-kilde W2919590971 finnes
+- OK   1 estimat-kilde W3122038036 finnes
+- OK   1 estimat-kilde W3122038036 finnes
+- OK   1 estimat-kilde W1521901582 finnes
+- OK   1 estimat-kilde W2076492883 finnes
+- OK   1 estimat-kilde W2076492883 finnes
+- OK   1 estimat-kilde W4389284747 finnes
+- OK   1 estimat-kilde W4389284747 finnes
+- OK   1 estimat-kilde W4386002685 finnes
+- OK   1 estimat-kilde W4414256612 finnes
+- OK   1 estimat-kilde W2559846193 finnes
+- OK   1 estimat-kilde W2559846193 finnes
+- OK   1 estimat-kilde W2098026786 finnes
+- OK   1 estimat-kilde W2993400654 finnes
+- OK   1 estimat-kilde W2180996442 finnes
+- OK   1 estimat-kilde W2180996442 finnes
+- OK   1 estimat-kilde W4389284747 finnes
+- OK   1 estimat-kilde W3122038036 finnes
+- OK   1 estimat-kilde W3122038036 finnes
+- OK   1 estimat-kilde W2892361030 finnes
+- OK   1 estimat-kilde W2797417805 finnes
+- OK   1 estimat-kilde W2104547524 finnes
+- OK   1 estimat-kilde W2104547524 finnes
+- OK   1 estimat-kilde W2104547524 finnes
+- OK   1 estimat-kilde W2219647517 finnes
+- OK   1 estimat-kilde W2219647517 finnes
+- OK   1 estimat-kilde W2219647517 finnes
+- OK   1 estimat-kilde W4293238630 finnes
+- OK   1 estimat-kilde W4293238630 finnes
+- OK   1 estimat-kilde W4293238630 finnes
+- OK   1 estimat-kilde W4293238630 finnes
+- OK   1 estimat-kilde W4293238630 finnes
+- OK   1 estimat-kilde W2801719577 finnes
+- OK   1 estimat-kilde W2801719577 finnes
+- OK   1 estimat-kilde W7115375317 finnes
+- OK   1 estimat-kilde W7115375317 finnes
+- OK   1 estimat-kilde 0198cc6b5075-4f48eef2-abe5-47a9-98cc-d3c3d0ea5955 finnes
+- OK   1 estimat-kilde 0198cc6b5075-4f48eef2-abe5-47a9-98cc-d3c3d0ea5955 finnes
+- OK   1 estimat-kilde W2601387569 finnes
+- OK   1 estimat-kilde W2601387569 finnes
+- OK   1 estimat-kilde W2601387569 finnes
+- OK   1 estimat-kilde W3126028820 finnes
+- OK   1 estimat-kilde W3126028820 finnes
+- OK   1 estimat-kilde W3126028820 finnes
+- OK   1 estimat-kilde W2131859699 finnes
+- OK   1 estimat-kilde W3125528164 finnes
+- OK   1 estimat-kilde W3125528164 finnes
+- OK   1 estimat-kilde W3122111607 finnes
+- OK   1 estimat-kilde W3122111607 finnes
+- OK   1 estimat-kilde W3122111607 finnes
+- OK   1 estimat-kilde W4297975373 finnes
+- OK   1 estimat-kilde W4297975373 finnes
+- OK   1 estimat-kilde W4297975373 finnes
+- OK   1 estimat-kilde W4297975373 finnes
+- OK   1 estimat-kilde W3022725470 finnes
+- OK   1 estimat-kilde W3022725470 finnes
+- OK   1 estimat-kilde W3022725470 finnes
+- OK   1 estimat-kilde W4300080070 finnes
+- OK   1 estimat-kilde W4300080070 finnes
+- OK   1 estimat-kilde W3123278655 finnes
+- OK   1 estimat-kilde W3123278655 finnes
+- OK   1 estimat-kilde W3123278655 finnes
+- OK   1 estimat-kilde W2395345310 finnes
+- OK   1 estimat-kilde W2790164552 finnes
+- OK   1 estimat-kilde W2950108415 finnes
+- OK   1 estimat-kilde W2340419694 finnes
+- OK   1 estimat-kilde W4220936084 finnes
+- OK   1 estimat-kilde W7142083991 finnes
+- OK   1 estimat-kilde W7142083991 finnes
+- OK   1 estimat-kilde W2172116092 finnes
+- OK   1 estimat-kilde W1742250188 finnes
+- OK   1 estimat-kilde W4307384262 finnes
+- OK   1 estimat-kilde W4415122073 finnes
+- OK   1 estimat-kilde W4415122073 finnes
+- OK   1 estimat-kilde W1587446007 finnes
+- OK   1 estimat-kilde W1730183598 finnes
+- OK   1 estimat-kilde W1572536547 finnes
+- OK   1 estimat-kilde W1572536547 finnes
+- OK   1 estimat-kilde W1823227986 finnes
+- OK   1 estimat-kilde W1823227986 finnes
+- OK   1 estimat-kilde W4408790921 finnes
+- OK   1 estimat-kilde W4408790921 finnes
+- OK   1 estimat-kilde W4408790921 finnes
+- OK   1 estimat-kilde W4399627634 finnes
+- OK   1 estimat-kilde W4399627634 finnes
+- OK   1 estimat-kilde W7203954346 finnes
+- OK   1 estimat-kilde W2188125461 finnes
+- OK   1 estimat-kilde W2950538458 finnes
+- OK   1 estimat-kilde W2755226448 finnes
+- OK   1 estimat-kilde W2505804103 finnes
+- OK   1 estimat-kilde W2117611217 finnes
+- OK   1 estimat-kilde W2117611217 finnes
+- OK   1 estimat-kilde W2117611217 finnes
+- OK   1 estimat-kilde W7139837664 finnes
+- OK   1 estimat-kilde W7139837664 finnes
+- OK   1 estimat-kilde W7139837664 finnes
+- OK   1 estimat-kilde W7139837664 finnes
+- OK   1 estimat-kilde W4298168113 finnes
+- OK   1 estimat-kilde W4298168113 finnes
+- OK   1 estimat-kilde W4298168113 finnes
+- OK   1 estimat-kilde W4298168113 finnes
+- OK   1 estimat-kilde W4298168113 finnes
+- OK   1 estimat-kilde W4297975373 finnes
+- OK   1 estimat-kilde KU-482dde58-5382-445f-b57f-f8ff4ea92ba1 finnes
+- OK   1 estimat-kilde KU-482dde58-5382-445f-b57f-f8ff4ea92ba1 finnes
+- OK   1 estimat-kilde KU-482dde58-5382-445f-b57f-f8ff4ea92ba1 finnes
+- OK   1 forfatter «Ziebarth» for W3040771904 står i metadata eller på tittelsiden
+- OK   1 forfatter «Puhani» for W4297975373 står i metadata eller på tittelsiden
+- OK   1 forfatter «Pichler» for W3022725470 står i metadata eller på tittelsiden
+- OK   1 forfatter «Ziebarth» for W2326189071 står i metadata eller på tittelsiden
+- OK   1 forfatter «Ziebarth» for W3122111607 står i metadata eller på tittelsiden
+- OK   1 forfatter «Böckerman» for W2793267873 står i metadata eller på tittelsiden
+- OK   1 forfatter «Johansson» for W3122634514 står i metadata eller på tittelsiden
+- OK   1 forfatter «Nilsson» for W2180996442 står i metadata eller på tittelsiden
+- OK   1 forfatter «Hesselius» for W2104547524 står i metadata eller på tittelsiden
+- OK   1 forfatter «Henrekson» for W2169584029 står i metadata eller på tittelsiden
+- OK   1 forfatter «Larsson» for W3125893180 står i metadata eller på tittelsiden
+- OK   1 forfatter «De Paola» for W2219647517 står i metadata eller på tittelsiden
+- OK   1 forfatter «Scognamiglio» for W2950538458 står i metadata eller på tittelsiden
+- OK   1 forfatter «Marie» for W4293238630 står i metadata eller på tittelsiden
+- OK   1 forfatter «Halla» for W2601387569 står i metadata eller på tittelsiden
+- OK   1 forfatter «Csillag» for W2950108415 står i metadata eller på tittelsiden
+- OK   1 forfatter «Dale-Olsen» for W2801719577 står i metadata eller på tittelsiden
+- OK   1 forfatter «Dale-Olsen» for W1733360148 står i metadata eller på tittelsiden
+- OK   1 forfatter «Bryson» for W2919590971 står i metadata eller på tittelsiden
+- OK   1 forfatter «Wells» for W1730183598 står i metadata eller på tittelsiden
+- OK   1 forfatter «Aaviksoo» for W2117611217 står i metadata eller på tittelsiden
+- OK   1 forfatter «Ben Halima» for W2790164552 står i metadata eller på tittelsiden
+- OK   1 forfatter «Pertold» for W7135822413 står i metadata eller på tittelsiden
+- OK   1 forfatter «Grossmann» for W3172039849 står i metadata eller på tittelsiden
+- OK   1 forfatter «Cazenave-Lacroutz» for W7115094906 står i metadata eller på tittelsiden
+- OK   1 forfatter «Ben Halima» for W2598703126 står i metadata eller på tittelsiden
+- OK   1 forfatter «Voss» for W2172116092 står i metadata eller på tittelsiden
+- OK   1 forfatter «Pettersson-Lidbom» for W3125477331 står i metadata eller på tittelsiden
+- OK   1 forfatter «Persson» for W1572536547 står i metadata eller på tittelsiden
+- OK   1 forfatter «Grönholm» for W7115375317 står i metadata eller på tittelsiden
+- OK   1 forfatter «Böheim» for W3122038036 står i metadata eller på tittelsiden
+- OK   1 forfatter «Böheim» for W1521901582 står i metadata eller på tittelsiden
+- OK   1 forfatter «Westergaard-Nielsen» for W3123278655 står i metadata eller på tittelsiden
+- OK   1 forfatter «Häll» for W4389284747 står i metadata eller på tittelsiden
+- OK   1 forfatter «Fevang» for W7139837664 står i metadata eller på tittelsiden
+- OK   1 forfatter «Skulstad» for 0198cc6b5075-4f48eef2-abe5-47a9-98cc-d3c3d0ea5955 står i metadata eller på tittelsiden
+- OK   1 forfatter «Vista Analyse» for KU-482dde58-5382-445f-b57f-f8ff4ea92ba1 står i metadata eller på tittelsiden
+- OK   1 forfatter «Lengagne» for W7142083991 står i metadata eller på tittelsiden
+- OK   1 forfatter «Koning» for W2559846193 står i metadata eller på tittelsiden
+- OK   1 forfatter «Koning» for W2131859699 står i metadata eller på tittelsiden
+- OK   1 forfatter «Hassink» for W4298168113 står i metadata eller på tittelsiden
+- OK   1 forfatter «Jansen» for W4414256612 står i metadata eller på tittelsiden
+- OK   1 forfatter «Kyyrä» for W4386002685 står i metadata eller på tittelsiden
+- OK   1 forfatter «Kyyrä» for W4300080070 står i metadata eller på tittelsiden
+- OK   1 forfatter «Ziebarth» for W4415122073 står i metadata eller på tittelsiden
+- OK   1 forfatter «Grasdal» for W2395345310 står i metadata eller på tittelsiden
+- OK   1 forfatter «Palme» for W2993400654 står i metadata eller på tittelsiden
+- OK   1 forfatter «Tompa» for W2098026786 står i metadata eller på tittelsiden
+- OK   1 forfatter «King» for W7203954346 står i metadata eller på tittelsiden
+- OK   1 forfatter «Fevang» for W1823227986 står i metadata eller på tittelsiden
+- OK   1 forfatter «Madsen» for W4408790921 står i metadata eller på tittelsiden
+- OK   1 forfatter «Ljunge» for W2188125461 står i metadata eller på tittelsiden
+- OK   2 sitat rad 1 (W3040771904, (bakgrunn) hva reformen endret) står på oppgitt side
+- OK   2 sitat rad 2 (W3040771904, sykefraværsdager per år) står på oppgitt side
+- OK   3 estimat=5 rad 2 (W3040771904, sykefraværsdager per år) står i sitatet
+- OK   2 sitat rad 3 (W3040771904, andel uten fraværsdager) står på oppgitt side
+- OK   3 estimat=7.5 rad 3 (W3040771904, andel uten fraværsdager) står i sitatet
+- OK   2 sitat rad 4 (W2326189071, fraværsdager per ansatt og år) står på oppgitt side
+- OK   3 estimat=10 rad 4 (W2326189071, fraværsdager per ansatt og år) står i sitatet
+- OK   2 sitat rad 5 (W2793267873, varighet av sykefravær (elastisitet mht.) står på oppgitt side
+- OK   3 estimat=1.41 rad 5 (W2793267873, varighet av sykefravær (elastisitet mht.) står i sitatet
+- OK   3 ki_lav=0.36 rad 5 (W2793267873, varighet av sykefravær (elastisitet mht.) står i sitatet
+- OK   3 ki_hoy=2.46 rad 5 (W2793267873, varighet av sykefravær (elastisitet mht.) står i sitatet
+- OK   4 rad 5 (W2793267873, varighet av sykefravær (elastisitet mht.) estimat innenfor KI
+- OK   2 sitat rad 6 (W2793267873, varighet av sykefravær (elastisitet, alt) står på oppgitt side
+- OK   3 estimat=1.16 rad 6 (W2793267873, varighet av sykefravær (elastisitet, alt) står i sitatet
+- OK   3 ki_lav=0.45 rad 6 (W2793267873, varighet av sykefravær (elastisitet, alt) står i sitatet
+- OK   3 ki_hoy=1.86 rad 6 (W2793267873, varighet av sykefravær (elastisitet, alt) står i sitatet
+- OK   4 rad 6 (W2793267873, varighet av sykefravær (elastisitet, alt) estimat innenfor KI
+- OK   2 sitat rad 7 (W3122634514, forekomst av sykefravær, menn (elastisit) står på oppgitt side
+- OK   3 estimat=-1 rad 7 (W3122634514, forekomst av sykefravær, menn (elastisit) står i sitatet
+- OK   2 sitat rad 8 (W3122634514, forekomst av sykefravær, kvinner (elasti) står på oppgitt side
+- OK   3 estimat=-0.70 rad 8 (W3122634514, forekomst av sykefravær, kvinner (elasti) står i sitatet
+- OK   2 sitat rad 9 (W3125893180, sykmeldinger blant arbeidsledige) står på oppgitt side
+- OK   3 estimat=36 rad 9 (W3125893180, sykmeldinger blant arbeidsledige) står i sitatet
+- OK   2 sitat rad 10 (W3125893180, sykmeldinger blant arbeidsledige (elasti) står på oppgitt side
+- OK   3 estimat=3.9 rad 10 (W3125893180, sykmeldinger blant arbeidsledige (elasti) står i sitatet
+- OK   2 sitat rad 11 (W7135822413, sykefravær) står på oppgitt side
+- OK   3 estimat=15 rad 11 (W7135822413, sykefravær) står i sitatet
+- OK   2 sitat rad 12 (W7135822413, dager sykmeldt per ansatt per kvartal) står på oppgitt side
+- OK   3 estimat=2.3 rad 12 (W7135822413, dager sykmeldt per ansatt per kvartal) står i sitatet
+- OK   2 sitat rad 13 (W3172039849, samlet fravær ved influensa) står på oppgitt side
+- OK   2 sitat rad 14 (W2169584029, sykefravær per sysselsatt, tidsserie 195) står på oppgitt side
+- OK   2 sitat rad 15 (W2180996442, overgang fra sykefravær til arbeid (indi) står på oppgitt side
+- OK   2 sitat rad 16 (W2598703126, sykedager) står på oppgitt side
+- OK   3 estimat=0.5 rad 16 (W2598703126, sykedager) står i sitatet
+- OK   2 sitat rad 17 (W7115094906, samlet helserelatert fravær) står på oppgitt side
+- OK   2 sitat rad 18 (W3125477331, samlede sykefraværsdager) står på oppgitt side
+- OK   2 sitat rad 19 (W2151016786, varighet av korte sykefravær) står på oppgitt side
+- OK   2 sitat rad 20 (W1733360148, sykefraværsdager) står på oppgitt side
+- OK   2 sitat rad 21 (W2919590971, sykefraværsnivå) står på oppgitt side
+- OK   2 sitat rad 22 (W3122038036, forekomst av sykefravær, arbeidere) står på oppgitt side
+- OK   3 estimat=8 rad 22 (W3122038036, forekomst av sykefravær, arbeidere) står i sitatet
+- OK   2 sitat rad 23 (W3122038036, varighet av sykefravær, arbeidere) står på oppgitt side
+- OK   3 estimat=11 rad 23 (W3122038036, varighet av sykefravær, arbeidere) står i sitatet
+- OK   2 sitat rad 24 (W1521901582, forekomst og varighet av sykefravær) står på oppgitt side
+- OK   2 sitat rad 25 (W2076492883, sykefravær og tilbakeføring etter langt ) står på oppgitt side
+- OK   2 sitat rad 26 (W2076492883, tilbakeføring av langtidssykmeldte) står på oppgitt side
+- OK   2 sitat rad 27 (W4389284747, sykefravær blant nyansatte i mellomstore) står på oppgitt side
+- OK   3 estimat=50 rad 27 (W4389284747, sykefravær blant nyansatte i mellomstore) står i sitatet
+- OK   2 sitat rad 28 (W4389284747, sysselsetting av sykdomsutsatte) står på oppgitt side
+- OK   2 sitat rad 29 (W4386002685, tilstrømning til syke- og uføreytelser) står på oppgitt side
+- OK   2 sitat rad 30 (W4414256612, tilrettelegging for langtidssykmeldte) står på oppgitt side
+- OK   3 estimat=2.32 rad 30 (W4414256612, tilrettelegging for langtidssykmeldte) står i sitatet
+- OK   2 sitat rad 31 (W2559846193, tilstrømning til uføretrygd i Nederland) står på oppgitt side
+- OK   3 estimat=60 rad 31 (W2559846193, tilstrømning til uføretrygd i Nederland) står i sitatet
+- OK   2 sitat rad 32 (W2559846193, sykefravær og uføretrygd) står på oppgitt side
+- OK   2 sitat rad 33 (W2098026786, yrkesskader) står på oppgitt side
+- OK   2 sitat rad 34 (W2993400654, fravær på tvers av land) står på oppgitt side
+- OK   2 sitat rad 35 (W2180996442, lavere sannsynlighet for å avslutte syke) står på oppgitt side
+- OK   3 estimat=17 rad 35 (W2180996442, lavere sannsynlighet for å avslutte syke) står i sitatet
+- OK   2 sitat rad 36 (W2180996442, lavere sannsynlighet for å avslutte syke) står på oppgitt side
+- OK   3 estimat=10 rad 36 (W2180996442, lavere sannsynlighet for å avslutte syke) står i sitatet
+- OK   2 sitat rad 37 (W4389284747, økning i sykefraværsdager per ansatt per) står på oppgitt side
+- OK   3 estimat=0.143 rad 37 (W4389284747, økning i sykefraværsdager per ansatt per) står i sitatet
+- OK   2 sitat rad 38 (W3122038036, nedgang i sykdomstilfeller i små mot sto) står på oppgitt side
+- OK   3 estimat=6.3 rad 38 (W3122038036, nedgang i sykdomstilfeller i små mot sto) står i sitatet
+- OK   2 sitat rad 39 (W3122038036, nedgang i varighet av sykefravær i små m) står på oppgitt side
+- OK   3 estimat=7 rad 39 (W3122038036, nedgang i varighet av sykefravær i små m) står i sitatet
+- OK   2 sitat rad 40 (W2892361030, ingen effektestimat for sykefravær; teks) står på oppgitt side
+- OK   2 sitat rad 41 (W2797417805, ingen effektestimat; tekstfilen er ulese) står på oppgitt side
+- OK   2 sitat rad 42 (W2104547524, varighet av sykefravær som varer minst 9) står på oppgitt side
+- OK   3 estimat=4.7 rad 42 (W2104547524, varighet av sykefravær som varer minst 9) står i sitatet
+- OK   2 sitat rad 43 (W2104547524, varighet av sykefravær som varer minst 9) står på oppgitt side
+- OK   3 estimat=2.8 rad 43 (W2104547524, varighet av sykefravær som varer minst 9) står i sitatet
+- OK   2 sitat rad 44 (W2104547524, kostnad for den offentlige sykeforsikrin) står på oppgitt side
+- OK   3 estimat=3.0 rad 44 (W2104547524, kostnad for den offentlige sykeforsikrin) står i sitatet
+- OK   2 sitat rad 45 (W2219647517, fraværsdager per kvartal, nedgang, offen) står på oppgitt side
+- OK   3 estimat=2.1 rad 45 (W2219647517, fraværsdager per kvartal, nedgang, offen) står i sitatet
+- OK   2 sitat rad 46 (W2219647517, fraværsdager per kvartal, relativ nedgan) står på oppgitt side
+- OK   3 estimat=49 rad 46 (W2219647517, fraværsdager per kvartal, relativ nedgan) står i sitatet
+- OK   2 sitat rad 47 (W2219647517, sannsynlighet for å være fraværende, ned) står på oppgitt side
+- OK   3 estimat=25.7 rad 47 (W2219647517, sannsynlighet for å være fraværende, ned) står i sitatet
+- OK   2 sitat rad 48 (W4293238630, sykefraværsrate (antall fravær), nedgang) står på oppgitt side
+- OK   3 estimat=29 rad 48 (W4293238630, sykefraværsrate (antall fravær), nedgang) står i sitatet
+- OK   2 sitat rad 49 (W4293238630, gjennomsnittlig varighet av fravær, økni) står på oppgitt side
+- OK   3 estimat=28 rad 49 (W4293238630, gjennomsnittlig varighet av fravær, økni) står i sitatet
+- OK   2 sitat rad 50 (W4293238630, tapte sykefraværsdager per arbeidstaker,) står på oppgitt side
+- OK   3 estimat=10 rad 50 (W4293238630, tapte sykefraværsdager per arbeidstaker,) står i sitatet
+- OK   2 sitat rad 51 (W4293238630, andel fravær som er tilbakefall, økning) står på oppgitt side
+- OK   3 estimat=8 rad 51 (W4293238630, andel fravær som er tilbakefall, økning) står i sitatet
+- OK   2 sitat rad 52 (W4293238630, tapte dager på grunn av arbeidsulykker, ) står på oppgitt side
+- OK   3 estimat=56 rad 52 (W4293238630, tapte dager på grunn av arbeidsulykker, ) står i sitatet
+- OK   2 sitat rad 53 (W2801719577, legemeldte sykefraværsdager, menn, nedga) står på oppgitt side
+- OK   3 estimat=0.7 rad 53 (W2801719577, legemeldte sykefraværsdager, menn, nedga) står i sitatet
+- OK   2 sitat rad 54 (W2801719577, legemeldte sykefraværsdager, kvinner: in) står på oppgitt side
+- OK   2 sitat rad 55 (W7115375317, sjukfraværsdager per sysselsatt, svenske) står på oppgitt side
+- OK   3 estimat=-0.66 rad 55 (W7115375317, sjukfraværsdager per sysselsatt, svenske) står i sitatet
+- OK   2 sitat rad 56 (W7115375317, utbetalt sykepengebeløp per sysselsatt, ) står på oppgitt side
+- OK   3 estimat=10.9 rad 56 (W7115375317, utbetalt sykepengebeløp per sysselsatt, ) står i sitatet
+- OK   2 sitat rad 57 (0198cc6b5075-4f48eef2-abe5-47a9-98cc-d3c3d0ea5955, sannsynlighet for å være i arbeid i 2016) står på oppgitt side
+- OK   3 estimat=3.6 rad 57 (0198cc6b5075-4f48eef2-abe5-47a9-98cc-d3c3d0ea5955, sannsynlighet for å være i arbeid i 2016) står i sitatet
+- OK   2 sitat rad 58 (0198cc6b5075-4f48eef2-abe5-47a9-98cc-d3c3d0ea5955, sannsynlighet for å være i arbeid i 2017) står på oppgitt side
+- OK   3 estimat=2 rad 58 (0198cc6b5075-4f48eef2-abe5-47a9-98cc-d3c3d0ea5955, sannsynlighet for å være i arbeid i 2017) står i sitatet
+- OK   2 sitat rad 59 (W2601387569, sykefraværsdager per år, nedgang (snitt ) står på oppgitt side
+- OK   3 estimat=0.8 rad 59 (W2601387569, sykefraværsdager per år, nedgang (snitt ) står i sitatet
+- OK   2 sitat rad 60 (W2601387569, sykefraværsdager per år, nedgang (tilsva) står på oppgitt side
+- OK   3 estimat=0.4 rad 60 (W2601387569, sykefraværsdager per år, nedgang (tilsva) står i sitatet
+- OK   2 sitat rad 61 (W2601387569, poliklinisk helsekostnad, nedgang) står på oppgitt side
+- OK   3 estimat=1 rad 61 (W2601387569, poliklinisk helsekostnad, nedgang) står i sitatet
+- OK   2 sitat rad 62 (W3126028820, innstrømming til uføreytelse (personer),) står på oppgitt side
+- OK   3 estimat=13 rad 62 (W3126028820, innstrømming til uføreytelse (personer),) står i sitatet
+- OK   2 sitat rad 63 (W3126028820, innstrømming til uføreytelse (personer),) står på oppgitt side
+- OK   3 estimat=25 rad 63 (W3126028820, innstrømming til uføreytelse (personer),) står i sitatet
+- OK   2 sitat rad 64 (W3126028820, innstrømming til uføreytelse (personer),) står på oppgitt side
+- OK   3 estimat=42 rad 64 (W3126028820, innstrømming til uføreytelse (personer),) står i sitatet
+- OK   2 sitat rad 65 (W2131859699, innstrømming til uføreytelse etter ett å) står på oppgitt side
+- OK   3 estimat=15 rad 65 (W2131859699, innstrømming til uføreytelse etter ett å) står i sitatet
+- OK   2 sitat rad 66 (W3125528164, innstrømming til uføreytelse, økning, sm) står på oppgitt side
+- OK   3 estimat=7 rad 66 (W3125528164, innstrømming til uføreytelse, økning, sm) står i sitatet
+- OK   2 sitat rad 67 (W3125528164, utstrømming fra uføreytelse, nedgang, sm) står på oppgitt side
+- OK   3 estimat=12 rad 67 (W3125528164, utstrømming fra uføreytelse, nedgang, sm) står i sitatet
+- OK   2 sitat rad 68 (W3122111607, dager med langtidssykepenger, hele utval) står på oppgitt side
+- OK   3 estimat=-0.041 rad 68 (W3122111607, dager med langtidssykepenger, hele utval) står i sitatet
+- OK   2 sitat rad 69 (W3122111607, dager med langtidssykepenger blant dem m) står på oppgitt side
+- OK   3 estimat=-0.904 rad 69 (W3122111607, dager med langtidssykepenger blant dem m) står i sitatet
+- OK   2 sitat rad 70 (W3122111607, andel med langtidsfravær, ujustert forsk) står på oppgitt side
+- OK   3 estimat=0.13 rad 70 (W3122111607, andel med langtidsfravær, ujustert forsk) står i sitatet
+- OK   2 sitat rad 71 (W4297975373, fraværsdager per år, nedgang (signifikan) står på oppgitt side
+- OK   3 estimat=2 rad 71 (W4297975373, fraværsdager per år, nedgang (signifikan) står i sitatet
+- OK   2 sitat rad 72 (W4297975373, fraværsdager per år, nedgang, faste effe) står på oppgitt side
+- OK   3 estimat=1.2 rad 72 (W4297975373, fraværsdager per år, nedgang, faste effe) står i sitatet
+- OK   2 sitat rad 73 (W4297975373, fraværsdager, relativ nedgang (spenn 14–) står på oppgitt side
+- OK   3 estimat=14 rad 73 (W4297975373, fraværsdager, relativ nedgang (spenn 14–) står i sitatet
+- OK   2 sitat rad 74 (W4297975373, sykehusdager, nedgang (om lag 30 prosent) står på oppgitt side
+- OK   3 estimat=0.41 rad 74 (W4297975373, sykehusdager, nedgang (om lag 30 prosent) står i sitatet
+- OK   2 sitat rad 75 (W3022725470, sykefraværsrate, nedgang (bransjedata)) står på oppgitt side
+- OK   3 estimat=20 rad 75 (W3022725470, sykefraværsrate, nedgang (bransjedata)) står i sitatet
+- OK   2 sitat rad 76 (W3022725470, sykefraværsrate for muskel- og skjelettl) står på oppgitt side
+- OK   3 estimat=-40 rad 76 (W3022725470, sykefraværsrate for muskel- og skjelettl) står i sitatet
+- OK   2 sitat rad 77 (W3022725470, influensaliknende sykdom per 100 000 leg) står på oppgitt side
+- OK   3 estimat=5.5 rad 77 (W3022725470, influensaliknende sykdom per 100 000 leg) står i sitatet
+- OK   2 sitat rad 78 (W4300080070, tilkjent full uførepensjon, menn under 5) står på oppgitt side
+- OK   3 estimat=-0.037 rad 78 (W4300080070, tilkjent full uførepensjon, menn under 5) står i sitatet
+- OK   2 sitat rad 79 (W4300080070, tilkjent uførepensjon, alle arbeidstaker) står på oppgitt side
+- OK   3 ki_lav=-0.051 rad 79 (W4300080070, tilkjent uførepensjon, alle arbeidstaker) står i sitatet
+- OK   3 ki_hoy=0.087 rad 79 (W4300080070, tilkjent uførepensjon, alle arbeidstaker) står i sitatet
+- OK   2 sitat rad 80 (W3123278655, sannsynlighet for langtidssykefravær (ov) står på oppgitt side
+- OK   3 estimat=2.8 rad 80 (W3123278655, sannsynlighet for langtidssykefravær (ov) står i sitatet
+- OK   2 sitat rad 81 (W3123278655, varighet av sykefravær, lengre i uforsik) står på oppgitt side
+- OK   3 estimat=22 rad 81 (W3123278655, varighet av sykefravær, lengre i uforsik) står i sitatet
+- OK   2 sitat rad 82 (W3123278655, besparelse i langtidssykefravær ved å fl) står på oppgitt side
+- OK   3 estimat=12 rad 82 (W3123278655, besparelse i langtidssykefravær ved å fl) står i sitatet
+- OK   2 sitat rad 83 (W2395345310, ingen effektestimat i sammendraget; opps) står på oppgitt side
+- OK   2 sitat rad 84 (W2790164552, ingen effektestimat i sammendraget; posi) står på oppgitt side
+- OK   2 sitat rad 85 (W2950108415, sykefraværsdager, elastisitet med hensyn) står på oppgitt side
+- OK   3 estimat=-0.45 rad 85 (W2950108415, sykefraværsdager, elastisitet med hensyn) står i sitatet
+- OK   2 sitat rad 86 (W2340419694, ingen effektestimat i sammendraget; arbe) står på oppgitt side
+- OK   2 sitat rad 88 (W7142083991, årlige fraværsdager på grunn av yrkesska) står på oppgitt side
+- OK   3 estimat=-1.20 rad 88 (W7142083991, årlige fraværsdager på grunn av yrkesska) står i sitatet
+- OK   2 sitat rad 89 (W7142083991, sannsynlighet for fravær på grunn av yrk) står på oppgitt side
+- OK   3 estimat=-0.43 rad 89 (W7142083991, sannsynlighet for fravær på grunn av yrk) står i sitatet
+- OK   2 sitat rad 90 (W2172116092, ingen effektestimat i sammendraget; lave) står på oppgitt side
+- OK   2 sitat rad 91 (W1742250188, ingen effektestimat i sammendraget; fors) står på oppgitt side
+- OK   2 sitat rad 92 (W4307384262, ingen effektestimat i sammendraget; samm) står på oppgitt side
+- OK   2 sitat rad 93 (W4415122073, sykefravær (fraværsdager); elastisitet m) står på oppgitt side
+- OK   3 estimat=1 rad 93 (W4415122073, sykefravær (fraværsdager); elastisitet m) står i sitatet
+- OK   2 sitat rad 94 (W4415122073, sykefravær etter at kompensasjonsgraden ) står på oppgitt side
+- OK   3 estimat=0.9 rad 94 (W4415122073, sykefravær etter at kompensasjonsgraden ) står i sitatet
+- OK   2 sitat rad 96 (W1730183598, forventet antall sykeuker i 1997 relativ) står på oppgitt side
+- OK   3 estimat=0.51 rad 96 (W1730183598, forventet antall sykeuker i 1997 relativ) står i sitatet
+- OK   2 sitat rad 97 (W1572536547, antall korte sykefraværsdager (sensurert) står på oppgitt side
+- OK   3 estimat=4.9 rad 97 (W1572536547, antall korte sykefraværsdager (sensurert) står i sitatet
+- OK   3 ki_lav=0.3 rad 97 (W1572536547, antall korte sykefraværsdager (sensurert) står i sitatet
+- OK   3 ki_hoy=9.5 rad 97 (W1572536547, antall korte sykefraværsdager (sensurert) står i sitatet
+- OK   4 rad 97 (W1572536547, antall korte sykefraværsdager (sensurert) estimat innenfor KI
+- OK   2 sitat rad 98 (W1572536547, andel av nedgangen i tillfällig föräldra) står på oppgitt side
+- OK   3 estimat=43 rad 98 (W1572536547, andel av nedgangen i tillfällig föräldra) står i sitatet
+- OK   2 sitat rad 99 (W1823227986, overgangsrate fra midlertidig uføreytels) står på oppgitt side
+- OK   3 estimat=-0.33 rad 99 (W1823227986, overgangsrate fra midlertidig uføreytels) står i sitatet
+- OK   2 sitat rad 100 (W1823227986, overgangsrate fra midlertidig uføreytels) står på oppgitt side
+- OK   3 estimat=-0.25 rad 100 (W1823227986, overgangsrate fra midlertidig uføreytels) står i sitatet
+- OK   2 sitat rad 101 (W4408790921, sannsynlighet for å være i arbeid rett e) står på oppgitt side
+- OK   3 estimat=14 rad 101 (W4408790921, sannsynlighet for å være i arbeid rett e) står i sitatet
+- OK   2 sitat rad 102 (W4408790921, som over, med sesongjustering (om lag 20) står på oppgitt side
+- OK   3 estimat=20 rad 102 (W4408790921, som over, med sesongjustering (om lag 20) står i sitatet
+- OK   2 sitat rad 103 (W4408790921, andel som fortsatt får sykepenger 30 uke) står på oppgitt side
+- OK   3 estimat=65 rad 103 (W4408790921, andel som fortsatt får sykepenger 30 uke) står i sitatet
+- OK   2 sitat rad 104 (W4399627634, gjennomsnittlig varighet av sykefravær v) står på oppgitt side
+- OK   3 estimat=7 rad 104 (W4399627634, gjennomsnittlig varighet av sykefravær v) står i sitatet
+- OK   2 sitat rad 105 (W4399627634, gjennomsnittlig kostnad per sykefraværsp) står på oppgitt side
+- OK   3 estimat=6 rad 105 (W4399627634, gjennomsnittlig kostnad per sykefraværsp) står i sitatet
+- OK   2 sitat rad 106 (W7203954346, sannsynlighet for friskmelding rett før ) står på oppgitt side
+- OK   3 estimat=3 rad 106 (W7203954346, sannsynlighet for friskmelding rett før ) står i sitatet
+- OK   2 sitat rad 107 (W2188125461, sykefravær; kompensert priselastisitet m) står på oppgitt side
+- OK   3 estimat=-0.7 rad 107 (W2188125461, sykefravær; kompensert priselastisitet m) står i sitatet
+- OK   2 sitat rad 108 (W2950538458, sykefravær i offentlig helsetjeneste; 1 ) står på oppgitt side
+- OK   3 estimat=1 rad 108 (W2950538458, sykefravær i offentlig helsetjeneste; 1 ) står i sitatet
+- OK   2 sitat rad 111 (W2117611217, odds for lavere sykefravær blant arbeide) står på oppgitt side
+- OK   3 estimat=0.63 rad 111 (W2117611217, odds for lavere sykefravær blant arbeide) står i sitatet
+- OK   3 ki_lav=0.51 rad 111 (W2117611217, odds for lavere sykefravær blant arbeide) står i sitatet
+- OK   3 ki_hoy=0.77 rad 111 (W2117611217, odds for lavere sykefravær blant arbeide) står i sitatet
+- OK   4 rad 111 (W2117611217, odds for lavere sykefravær blant arbeide) estimat innenfor KI
+- OK   4 rad 111 (W2117611217, odds for lavere sykefravær blant arbeide) KI symmetrisk på log-skala (avvik 0.01)
+- OK   2 sitat rad 112 (W2117611217, andel arbeidere (blue-collar) som hadde ) står på oppgitt side
+- OK   3 estimat=40 rad 112 (W2117611217, andel arbeidere (blue-collar) som hadde ) står i sitatet
+- OK   2 sitat rad 113 (W2117611217, andel funksjonærer (white-collar) som ha) står på oppgitt side
+- OK   3 estimat=41 rad 113 (W2117611217, andel funksjonærer (white-collar) som ha) står i sitatet
+- OK   2 sitat rad 114 (W7139837664, Rate for inntreden i sykefraværsperioder) står på oppgitt side
+- OK   3 estimat=5 rad 114 (W7139837664, Rate for inntreden i sykefraværsperioder) står i sitatet
+- OK   2 sitat rad 115 (W7139837664, Rate for tilbakekomst (friskmelding) fra) står på oppgitt side
+- OK   3 estimat=4 rad 115 (W7139837664, Rate for tilbakekomst (friskmelding) fra) står i sitatet
+- OK   2 sitat rad 116 (W7139837664, Rate for tilbakekomst fra lengre fravær ) står på oppgitt side
+- OK   3 estimat=9 rad 116 (W7139837664, Rate for tilbakekomst fra lengre fravær ) står i sitatet
+- OK   2 sitat rad 117 (W7139837664, Samlet sykefraværsrate for gravide (endr) står på oppgitt side
+- OK   3 estimat=1.4 rad 117 (W7139837664, Samlet sykefraværsrate for gravide (endr) står i sitatet
+- OK   2 sitat rad 118 (W4298168113, Årlig uføreinngang per arbeidstaker, små) står på oppgitt side
+- OK   3 estimat=0.05 rad 118 (W4298168113, Årlig uføreinngang per arbeidstaker, små) står i sitatet
+- OK   2 sitat rad 119 (W4298168113, Årlig uføreinngang per arbeidstaker, sto) står på oppgitt side
+- OK   3 estimat=0.025 rad 119 (W4298168113, Årlig uføreinngang per arbeidstaker, sto) står i sitatet
+- OK   2 sitat rad 120 (W4298168113, Ingen insentiveffekt av å gå fra offentl) står på oppgitt side
+- OK   2 sitat rad 121 (W4298168113, Uføreinngang hos privatforsikrede småarb) står på oppgitt side
+- OK   3 estimat=15 rad 121 (W4298168113, Uføreinngang hos privatforsikrede småarb) står i sitatet
+- OK   2 sitat rad 122 (W4298168113, Økt sannsynlighet (prosentpoeng) for å m) står på oppgitt side
+- OK   3 estimat=2 rad 122 (W4298168113, Økt sannsynlighet (prosentpoeng) for å m) står i sitatet
+- OK   2 sitat rad 123 (W4297975373, Fraværsdager per år etter at sykelønnen ) står på oppgitt side
+- OK   3 estimat=2.4 rad 123 (W4297975373, Fraværsdager per år etter at sykelønnen ) står i sitatet
+- OK   2 sitat rad 124 (KU-482dde58-5382-445f-b57f-f8ff4ea92ba1, tapte dagsverk som andel av avtalte dags) står på oppgitt side
+- OK   3 estimat=10 rad 124 (KU-482dde58-5382-445f-b57f-f8ff4ea92ba1, tapte dagsverk som andel av avtalte dags) står i sitatet
+- OK   2 sitat rad 125 (KU-482dde58-5382-445f-b57f-f8ff4ea92ba1, tapte dagsverk som andel av avtalte dags) står på oppgitt side
+- OK   3 estimat=5 rad 125 (KU-482dde58-5382-445f-b57f-f8ff4ea92ba1, tapte dagsverk som andel av avtalte dags) står i sitatet
+- OK   2 sitat rad 126 (KU-482dde58-5382-445f-b57f-f8ff4ea92ba1, sykefravær i bedrifter året etter innmel) står på oppgitt side
+- OK   5 tallet 0.143 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 0.25 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 0.33 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 0.36 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 0.4 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 0.45 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 0.5 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 0.51 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 0.7 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 0.70 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 0.8 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 1.20 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 1.41 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 100 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 11 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 12 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 13 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 14 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 15 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 17 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 2.1 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 2.3 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 2.4 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 2.46 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 2.8 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 20 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 24 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 25 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 28 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 29 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 3.6 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 36 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 4.7 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 40 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 42 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 43 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 49 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 50 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 51 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 56 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 6.3 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 60 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 80 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 91 i svaret finnes i estimat- eller statistikktabellen
+- OK   6 utelatt W2979423479 «Social insurance literacy: a scoping review on how to define and measu» (2019) – Forståelse av trygdesystemet, ikke egenandel
+- OK   6 utelatt W2994121874 «Use of health outcome and health service utilization indicators as an » (2019) – Tilgang til legemidler i Brasil, ikke sykefravær
+- OK   6 utelatt W2015626843 «Political Parties and Pension Generosity in Times of Permanent Austeri» (2013) – Politikk eller pensjon, ikke effekt av egenandel ved sykefravær
+- OK   6 utelatt W2223637725 «Workers Compensation Insurance: Incentive Effects of Experience Rating» (2015) – Erfaringsprising i yrkesskadeforsikring (skader), ikke sykefravær
+- OK   6 utelatt W4411254453 «Developing an intervention to maintain biweekly asymptomatic SARS-CoV-» (2025) – Utenfor spørsmålet (ikke sykefravær)
+- OK   6 utelatt W4404867325 «Activating Sick-Listed Employees in Scandinavia: A Scoping Review» (2024) – Scoping review om aktivisering av sykmeldte, ikke egenandel
+- OK   6 utelatt W2097747135 «Political Partisanship and Welfare State Reform in Advanced Industrial» (2004) – Politikk eller pensjon, ikke effekt av egenandel ved sykefravær
+- OK   6 utelatt W1826423938 «Health Status and Access to Health Care of Migrant Workers in China» (2008) – Egenbetaling eller forsikring i helsetjenesten, ikke sykefravær
+- OK   6 utelatt W301567780 «Romania: Health System Review.» (2016) – Egenbetaling eller forsikring i helsetjenesten, ikke sykefravær
+- OK   6 utelatt W2102495197 «Community-based health insurance in poor rural China: the distribution» (2005) – Egenbetaling eller forsikring i helsetjenesten, ikke sykefravær
+- OK   6 utelatt W3125708417 «Unemployment, labor force composition and sickness absence: a panel da» (2005) – Ledighet og sykefravær i Norge; hører til spørsmålet om utvikling
+- OK   6 utelatt W1967753918 «Inappropriate Hospitalization of Nursing Facility Residents: A Symptom» (2000) – Egenbetaling eller forsikring i helsetjenesten, ikke sykefravær
+- OK   6 utelatt W3099603273 «Presenteeism during the COVID-19 pandemic: risks and solutions» (2020) – Sykenærvær under pandemien, ikke effekt av egenandel
+- OK   6 utelatt W4318754518 «Game on: immersive virtual laboratory simulation improves student lear» (2023) – Utenfor spørsmålet (ikke sykefravær)
+- OK   6 utelatt W2030799990 «The Impact of Health Insurance Programs on Out-of-Pocket Expenditures » (2013) – Egenbetaling eller forsikring i helsetjenesten, ikke sykefravær
+- OK   6 utelatt W2138854129 «Welfare-State Retrenchment: The Partisan Effect Revisited» (2006) – Politikk eller pensjon, ikke effekt av egenandel ved sykefravær
+- OK   6 utelatt W2859304212 «Universal Health Coverage (UHC)» (2018) – Egenbetaling eller forsikring i helsetjenesten, ikke sykefravær
+- OK   6 utelatt W2100913762 «Cost-Effectiveness of Preventing Loss to Follow-up in HIV Treatment Pr» (2009) – Egenbetaling eller forsikring i helsetjenesten, ikke sykefravær
+- OK   6 utelatt W2164828910 «Commentary: Politics and public health--some conceptual considerations» (2008) – Politikk eller pensjon, ikke effekt av egenandel ved sykefravær
+- OK   6 utelatt W4213164215 «Furloughing*» (2020) – Permittering under pandemien, ikke sykefravær
+- OK   6 utelatt W1535714703 «The Emergence of the Post-Socialist Welfare State : the Case of the Ba» (2004) – Politikk eller pensjon, ikke effekt av egenandel ved sykefravær
+- OK   6 utelatt W2127345131 «Sickness absence at a young age and later sickness absence, disability» (2015) – Sykefravær i ung alder som prediktor, ikke egenandel
+- OK   6 utelatt W3045786617 «Positive Health Externalities of Mandating Paid Sick Leave» (2021) – Lovpålagt sykelønn i USA og smitte; lite overførbart
+- OK   6 utelatt W2400976977 «Investigating the true costs of construction accidents» (2016) – Utenfor spørsmålet (ikke egenandel ved sykefravær)
+- OK   6 utelatt W2145230323 «FACTORS ASSOCIATED WITH SUCCESSFUL VOCATIONAL REHABILITATION IN A SWED» (2001) – Utenfor spørsmålet (ikke egenandel ved sykefravær)
+- OK   6 utelatt W3123410700 «The Sick Pay Trap» (2014) – Publisert versjon av The Sick Pay Trap; arbeidsnotatet W2076492883 er brukt
+- OK   6 utelatt W2947239413 «Organizational-level determinants of participation in workplace health» (2019) – Utenfor spørsmålet (ikke egenandel ved sykefravær)
+- OK   6 utelatt W576058616 «Personnel Management: Hrm in Action» (1996) – Utenfor spørsmålet (ikke egenandel ved sykefravær)
+- OK   6 utelatt W2113323245 «Fit for Work? The Influence of Sick Pay and Job Flexibility on Sicknes» (2011) – Relevant (sykelønn og fravær, Storbritannia), men ikke valgt: tverrsnittsdata uten reform. Bør vurderes
+- OK   6 utelatt W3126838373 «Financing Healthcare in Central and Eastern European Countries: How Fa» (2021) – Egenbetaling eller forsikring i helsetjenesten, ikke sykefravær
+- OK   6 utelatt W3177369277 «Improving Passenger Experience and Trust in Automated Vehicles Through» (2021) – Utenfor spørsmålet (ikke sykefravær)
+- OK   6 utelatt W3210906833 «Risk factors associated with respiratory infectious disease-related pr» (2021) – Sykenærvær ved luftveisinfeksjoner, ikke effekt av egenandel
+- OK   6 utelatt W2127931229 «Changes in Equity in Out-of-pocket Payments during the Period of Healt» (2012) – Egenbetaling eller forsikring i helsetjenesten, ikke sykefravær
+- OK   6 utelatt W2129153957 «Sickness Absence, Moral Hazard, and the Business Cycle» (2014) – Om konjunkturer og moral hazard, ikke egenandel spesielt; relevant for spørsmålet om utvikling
+- OK   6 utelatt W2953952749 «Being Healthy, Being Sick, Being Responsible: Attitudes towards Respon» (2019) – Egenbetaling eller forsikring i helsetjenesten, ikke sykefravær
+- OK   6 utelatt W1595917770 «Trends in long‐term sickness absence in Sweden 1992–2008: the role of » (2010) – Utvikling i langtidsfravær i Sverige; hører til spørsmålet om utvikling
+- OK   6 utelatt W3124285051 «Electronic forms for patient reported outcome measures (PROMs) are an » (2021) – Egenbetaling eller forsikring i helsetjenesten, ikke sykefravær
+- OK   6 utelatt W2127556383 «Individual Experiences of Children With and Without Disabilities in Ea» (2008) – Utenfor spørsmålet (ikke egenandel ved sykefravær)
+- OK   6 utelatt W4321488104 «Text Input for Non-Stationary XR Workspaces: Investigating Tap and Wor» (2023) – Utenfor spørsmålet (ikke sykefravær)
+- OK   6 utelatt W1520750459 «Moral Hazard in a Mutual Health Insurance System: German Knappschaften» (2011) – Egenbetaling eller forsikring i helsetjenesten, ikke sykefravær
+- OK   6 utelatt W2566061649 «Public pensions and unmet medical need among older people: cross-natio» (2016) – Egenbetaling eller forsikring i helsetjenesten, ikke sykefravær
+- OK   6 utelatt W3214768603 «10. Containing the Promise of Insurance: Adverse Selection and Risk Cl» (2003) – Utenfor spørsmålet (ikke egenandel ved sykefravær)
+- OK   6 utelatt W2300805283 «Dissatisfied Democrats, Policy Feedback, and European Welfare States, » (2011) – Politikk eller pensjon, ikke effekt av egenandel ved sykefravær
+- OK   6 utelatt W2135641744 «The Politics of Public and Private Pension Generosity in Advanced Demo» (2013) – Politikk eller pensjon, ikke effekt av egenandel ved sykefravær
+- OK   6 utelatt W2108602619 «Evaluation of the new rural cooperative medical system in China: is it» (2008) – Egenbetaling eller forsikring i helsetjenesten, ikke sykefravær
+- OK   6 utelatt W2337115623 «Legal protections governing the occupational safety and health and wor» (2011) – Utenfor spørsmålet (ikke egenandel ved sykefravær)
+- OK   6 utelatt W1903913432 «Worker Absenteeism and Sick Pay» (2011) – Bok (Treble og Barmby) uten åpen tekst
+- OK   6 utelatt W2109398970 «Increased patient co‐payments and changes in PBS‐subsidised prescripti» (2009) – Egenbetaling eller forsikring i helsetjenesten, ikke sykefravær
+- OK   6 utelatt W2153731157 «Priority care for employees: A blessing in disguise?» (1999) – Prioritert helsehjelp for arbeidstakere, ikke egenandel
+- OK   6 utelatt W3158951575 «Challenges experienced by patients with hypertension in Ghana: A quali» (2021) – Egenbetaling eller forsikring i helsetjenesten, ikke sykefravær
+- OK   6 utelatt W2302201189 «Assessing the effects of disability insurance experience rating. The c» (2016) – Valgt i annen versjon (W3124092462), verken tekst eller sammendrag funnet. Bør leses manuelt
+- OK   6 utelatt W2128141793 «Cooperation between gatekeepers in sickness insurance – the perspectiv» (2008) – Samarbeid mellom aktører i sykeforsikringen, kvalitativ
+- OK   6 utelatt W590347270 «Fads, Fallacies and Foolishness in Medical Care Management and Policy» (2007) – Egenbetaling eller forsikring i helsetjenesten, ikke sykefravær
+- OK   6 utelatt W2053680297 «From ‘Free’ to ‘Fair’ Trade: The Evolution of Labour Laws in Colonial » (2007) – Utenfor spørsmålet (ikke egenandel ved sykefravær)
+- OK   6 utelatt W2945664121 «Eligibility, experience rating, and unemployment insurance take‐up» (2020) – Erfaringsprising i ledighetstrygd, ikke sykefravær
+- OK   6 utelatt W2010601356 «The effect of drug co-payment policy on the purchase of prescription d» (2002) – Egenbetaling eller forsikring i helsetjenesten, ikke sykefravær
+- OK   6 utelatt W3153121613 «Exploring willingness to pay for health insurance and preferences for » (2021) – Egenbetaling eller forsikring i helsetjenesten, ikke sykefravær
+- OK   6 utelatt W2084212550 «Change and Resilience in Welfare State Policy. The Politics of Sicknes» (2013) – Politikk og endring i sykeforsikringen, ikke effektstudie
+- OK   6 utelatt W3047395891 «Factors affecting knowledge of National Health Insurance Policy among » (2020) – Egenbetaling eller forsikring i helsetjenesten, ikke sykefravær
+- OK   6 utelatt W2807765246 «Development of the Kisiizi hospital health insurance scheme: lessons l» (2018) – Egenbetaling eller forsikring i helsetjenesten, ikke sykefravær
+- OK   6 utelatt W2143166519 «From Economic Incentives to Dialogic Nudging – The Politics of Change » (2013) – Politikk og endring i sykeforsikringen, ikke effektstudie
+- OK   6 utelatt W636829419 «Measuring the costs of employee turnover in Illinois public park and r» (2007) – Utenfor spørsmålet (ikke egenandel ved sykefravær)
+- OK   6 utelatt W1703701963 «Experience Rating and Work-Related Health and Safety» (2015) – Erfaringsprising i yrkesskadeforsikring (skader), ikke sykefravær
+- OK   6 utelatt W1944990593 «The Impact of an Increase in User Costs on the Demand for Emergency Se» (2015) – Egenbetaling eller forsikring i helsetjenesten, ikke sykefravær
+- OK   6 utelatt W4399175155 «Immersive Virtual Reality High-Intensity Aerobic Training to Slow Park» (2024) – Utenfor spørsmålet (ikke sykefravær)
+- OK   6 utelatt W171088023 «Cash benefits for short-term sickness, 1970-94.» (1997) – Beskrivelse av ytelser 1970–94, ikke effektstudie
+- OK   6 utelatt W3114320751 «The Political Economy of the Hospital in History» (2020) – Egenbetaling eller forsikring i helsetjenesten, ikke sykefravær
+- OK   6 utelatt W4407868498 «Mandated Sick Pay: Coverage, Utilization, and Crowding-in» (2025) – Lovpålagt sykelønn i USA, der utgangspunktet er ingen sykelønn; lite overførbart
+- OK   6 utelatt W4406198371 «Considering Theory-Based Gamification in the Co-Design and Development» (2025) – Utenfor spørsmålet (ikke sykefravær)
+- OK   6 utelatt W4406246481 «What research participants say about their research experiences in Emp» (2025) – Utenfor spørsmålet (ikke sykefravær)
+- OK   6 utelatt W4393410114 «Austerity through rescaling and layering in the Swedish welfare state» (2024) – Politikk i svensk velferdsstat, ikke effektstudie
+- OK   6 utelatt W2074576679 «Disability and employment: lessons from natural policy experiments» (2010) – Oversikt over uføretrygd og sysselsetting, ikke egenandel ved sykefravær
+- OK   6 utelatt W1973788269 «A TALE OF TWO CONTINENTS: INSURING WORKERS AGAINST LOSS OF INCOME DUE » (2009) – Beskrivende sammenligning av ordninger i Nord-Amerika og Europa, ikke effektstudie
+- OK   6 utelatt W4404106717 «Standardized Patient Communication and Low-Value Spinal Imaging» (2024) – Egenbetaling eller forsikring i helsetjenesten, ikke sykefravær
+- OK   6 utelatt W3087931930 «Universal health coverage as a global public health goal: the work of » (2020) – Egenbetaling eller forsikring i helsetjenesten, ikke sykefravær
+- OK   6 utelatt W2745084023 «Social Insurance and Health» (2018) – Generell oversikt om trygd og helse, ikke egenandel ved sykefravær
+- OK   6 utelatt W2300815284 «Taxing unhealthy choices: The complex idea of liberal egalitarianism i» (2016) – Utenfor spørsmålet (ikke egenandel ved sykefravær)
+- OK   6 utelatt W3185498031 «Överströmning mellan tillfällig föräldrapenning och sjukskrivning – ef» (2011) – Overstrømning mellom foreldrepenger og sykepenger, ikke egenandel
+- OK   6 utelatt W2294308344 «Income Security During Sickness Absence. What Do British Middle‐classe» (2016) – Middelklassens inntektssikring i Storbritannia, ikke effekt på fravær
+- OK   6 utelatt W4414295540 «Reflection of therapy progress in virtual reality for individuals affe» (2025) – Utenfor spørsmålet (ikke sykefravær)
+- OK   6 utelatt W2989917045 «Employment Insurance in the New World of Work» (2013) – Ledighetstrygd, ikke sykefravær
+- OK   6 utelatt W4406877266 «Perverse Outcomes: Notes From the Field on How Financial Incentives in» (2025) – Økonomiske insentiver i helsetjenesten, ikke sykefravær
+- OK   6 utelatt W2540083175 «Stratification in Changing Swedish Sickness Insurance» (2015) – Stratifisering i svensk sykeforsikring, ikke effekt av egenandel
+- OK   6 utelatt W4413054985 «Analysis of the utilisation of Chuna manual therapy for musculoskeleta» (2025) – Egenbetaling eller forsikring i helsetjenesten, ikke sykefravær
+- OK   6 utelatt W7133553932 «Design and Usability Evaluation of a Portable VR Serious Game for Adol» (2026) – Utenfor spørsmålet (ikke sykefravær)
+- OK   6 utelatt W2960779634 «Business interests and the development of the Bismarckian welfare stat» (2019) – Politikk eller pensjon, ikke effekt av egenandel ved sykefravær
+- OK   6 utelatt W4205149339 «Work Accident and Sickness Benefits» (2021) – Yrkesskade- og sykepenger (oversiktsartikkel uten effekt av egenandel)
+- OK   6 utelatt W1881881303 «Designing an Optimal Sickness Insurance. Some Evidence from the Swedis» (2000) – Teoretisk/beskrivende om optimal sykeforsikring, ikke effektestimat
+- OK   6 utelatt 019913dd10e2-995c8d48-147b-496d-ba06-d596b1dba655 «Variasjon i utbredelse av karplanter i sørvendte og nordvendte dalside» (2014) – Utenfor tema (botanikk), treff på norsk søkeord
+- OK   6 utelatt 0198cc60466c-54ba0907-196e-49fb-b88c-e52ad4cd4019 «Variasjon og uønsket variasjon i kvalitet i omsorgstjenestene - En kun» (2019) – Utenfor tema (kvalitet i omsorgstjenester)
+- OK   6 utelatt W2049901974 «Moral hazard and sickness insurance» (2005) – Samme materiale som W3122634514 (publisert versjon av arbeidsnotatet som er brukt)
+- OK   6 utelatt W2087413250 «Sickness Absence: An International Comparison» (2002) – Tverrsnitt mellom land (kategori 5); bedre identifiserte studier finnes for landene
+- OK   6 utelatt W2151416414 «The anatomy of absenteeism» (2010) – Fravær generelt (lønn, kontrakter, kolleger, konjunktur, kontroll), ikke effekt av egenandel
+- OK   6 utelatt W2125682392 «Worker absence histories: a panel data study» (1995) – Fravær generelt (lønn, kontrakter, kolleger, konjunktur, kontroll), ikke effekt av egenandel
+- OK   6 utelatt W4392882079 «Workers' moral hazard and private insurer effort in disability insuran» (2024) – Uføreordninger uten egenandel ved sykefravær
+- OK   6 utelatt W3121385028 «Recent Developments in the Econometrics of Program Evaluation» (2009) – Metodelitteratur, ikke studie av egenandel ved sykefravær
+- OK   6 utelatt W2157635736 «Unnatural Experiments? Estimating the Incidence of Endogenous Policies» (2000) – Metodelitteratur, ikke studie av egenandel ved sykefravær
+- OK   6 utelatt W2891077897 «Disability Insurance Benefits and Labor Supply» (2000) – Uføreordninger uten egenandel ved sykefravær
+- OK   6 utelatt W1580195571 «Absenteeism, Efficiency Wages and Shirking» (1994) – Fravær generelt (lønn, kontrakter, kolleger, konjunktur, kontroll), ikke effekt av egenandel
+- OK   6 utelatt W2073091157 «The Rise and Fall of Disability Insurance Enrollment in the Netherland» (2015) – Beskrivende oversikt over nederlandske uførereformer; dekket av Koning 2016 og van Sonsbeek og Gradus 2012
+- OK   6 utelatt W2038370188 «Reporting sick: are sporting events contagious?» (2004) – Fravær generelt (lønn, kontrakter, kolleger, konjunktur, kontroll), ikke effekt av egenandel
+- OK   6 utelatt W1942624577 «Do Financial Bonuses Reduce Employee Absenteeism? Evidence from a Lott» (2009) – Fravær generelt (lønn, kontrakter, kolleger, konjunktur, kontroll), ikke effekt av egenandel
+- OK   6 utelatt W1975901051 «Institutional rules, labour demand and retirement through disability p» (2010) – Uføreordninger uten egenandel ved sykefravær
+- OK   6 utelatt W2059175925 «Efficiency Effects of Premium-Setting Regimes under Workers' Compensat» (1993) – Yrkesskadeforsikring eller arbeidsmiljø; utelatt etter kriteriene
+- OK   6 utelatt W1958075533 «Absenteeism, Efficiency Wages, and Marginal Taxes» (2013) – Fravær generelt (lønn, kontrakter, kolleger, konjunktur, kontroll), ikke effekt av egenandel
+- OK   6 utelatt W2116312979 «Sickness insurance and spousal labour supply» (2015) – Utfallet er ektefellens arbeidstilbud, ikke sykefravær
+- OK   6 utelatt W2483937738 «Update on a systematic literature review on the effectiveness of exper» (2012) – Erfaringsprising i yrkesskade- eller ledighetstrygd; utelatt etter kriteriene
+- OK   6 utelatt W2948049905 «Forward-looking moral hazard in social insurance» (2019) – Teori om moral hazard eller forsikring, ikke empirisk studie av egenandel ved sykefravær
+- OK   6 utelatt W2096684396 «How Much Should We Trust Differences-In-Differences Estimates?» (2004) – Metodelitteratur, ikke studie av egenandel ved sykefravær
+- OK   6 utelatt W2154062944 «Inference with Difference-in-Differences and Other Panel Data» (2007) – Metodelitteratur, ikke studie av egenandel ved sykefravær
+- OK   6 utelatt W1964543929 «Health, Absence, Disability, and Presenteeism Cost Estimates of Certai» (2004) – Sykenærvær generelt, ikke effekt av egenandel
+- OK   6 utelatt W2993177179 «Presenteeism: At Work -- But Out of It» (2005) – Sykenærvær generelt, ikke effekt av egenandel
+- OK   6 utelatt W2171724930 «The Health and Earnings of Rejected Disability Insurance Applicants» (1989) – Uføreordninger uten egenandel ved sykefravær
+- OK   6 utelatt W2169015557 «The Effect of Employment Protection on Worker Effort: Absenteeism duri» (2005) – Fravær generelt (lønn, kontrakter, kolleger, konjunktur, kontroll), ikke effekt av egenandel
+- OK   6 utelatt W2071402839 «The effects of the unemployment insurance payroll tax on wages, employ» (2000) – Ledighetstrygd, ikke sykelønn
+- OK   6 utelatt W3124978499 «Biological Gender Differences, Absenteeism, and the Earnings Gap» (2009) – Metodelitteratur, ikke studie av egenandel ved sykefravær
+- OK   6 utelatt W2082645742 «Workers' Compensation Insurance, Experience-Rating, and Occupational I» (1985) – Yrkesskadeforsikring eller arbeidsmiljø; utelatt etter kriteriene
+- OK   6 utelatt W1573201189 «New Evidence on the Determinants of Absenteeism Using Linked Employer-» (2007) – Fravær generelt (lønn, kontrakter, kolleger, konjunktur, kontroll), ikke effekt av egenandel
+- OK   6 utelatt W2008603000 «Worker Absenteeism: An Analysis Using Microdata» (1991) – Fravær generelt (lønn, kontrakter, kolleger, konjunktur, kontroll), ikke effekt av egenandel
+- OK   6 utelatt W571997167 «The declining work and welfare of people with disabilities: what went » (2012) – Uføreordninger uten egenandel ved sykefravær
+- OK   6 utelatt W2080784876 «Workers' Compensation and Occupational Injuries and Illnesses» (1991) – Yrkesskadeforsikring eller arbeidsmiljø; utelatt etter kriteriene
+- OK   6 utelatt W2050150971 «Absenteeism and Employee Sharing: An Empirical Analysis Based on Frenc» (1999) – Fravær generelt (lønn, kontrakter, kolleger, konjunktur, kontroll), ikke effekt av egenandel
+- OK   6 utelatt W2116716741 «The case for presenteeism — Evidence from Norway's sickness insurance » (2012) – Gradert sykmelding, eget spørsmål
+- OK   6 utelatt W2020818540 «Employment protection and effort among German employees» (2004) – Fravær generelt (lønn, kontrakter, kolleger, konjunktur, kontroll), ikke effekt av egenandel
+- OK   6 utelatt W2054728601 «Labor Market Institutions and Individual Absenteeism in the European U» (2008) – Tverrsnitt mellom land i EU (kategori 5)
+- OK   6 utelatt W2020240434 «The individual cost of sick leave» (2011) – Fravær generelt (lønn, kontrakter, kolleger, konjunktur, kontroll), ikke effekt av egenandel
+- OK   6 utelatt W2036602293 «Worker Absenteeism: Why Firm Size May Matter» (2000) – Fravær generelt (lønn, kontrakter, kolleger, konjunktur, kontroll), ikke effekt av egenandel
+- OK   6 utelatt W2140639035 «Teams, Teamwork and Absence*» (2004) – Fravær generelt (lønn, kontrakter, kolleger, konjunktur, kontroll), ikke effekt av egenandel
+- OK   6 utelatt W1988620066 «Disability Insurance Benefits and Labor Supply: Some Additional Eviden» (2004) – Uføreordninger uten egenandel ved sykefravær
+- OK   6 utelatt W2072564304 «Work Absence in Europe» (2007) – Tverrsnitt mellom land i Europa (kategori 5)
+- OK   6 utelatt W2025781383 «Sickness Duration, Residual Disability, and Income Replacement: An Emp» (1981) – Uføreordninger uten egenandel ved sykefravær
+- OK   6 utelatt W2590453018 «Can Paid Sick Leave Mandates Reduce Leave-Taking?» (2016) – Lovpålagt sykelønn eller fravær i USA; lite overførbart etter kriteriene
+- OK   6 utelatt W2340063971 «Labor Market Effects of U.S. Sick Pay Mandates» (2018) – Lovpålagt sykelønn eller fravær i USA; lite overførbart etter kriteriene
+- OK   6 utelatt W2262909050 «Protecting working-age people with disabilities: experiences of four i» (2016) – Uføreordninger uten egenandel ved sykefravær
+- OK   6 utelatt W2005190118 «Moral hazard among the sick and unemployed: evidence from a Swedish so» (2009) – Samme materiale som W3125893180 (publisert versjon av arbeidsnotatet som er brukt)
+- OK   6 utelatt W4229447182 «Follow-up regimes for sick-listed employees: A comparison of nine nort» (2022) – Fravær generelt (lønn, kontrakter, kolleger, konjunktur, kontroll), ikke effekt av egenandel
+- OK   6 utelatt W46853485 «Essays on Health Shocks and Social Insurance» (2014) – Fravær generelt (lønn, kontrakter, kolleger, konjunktur, kontroll), ikke effekt av egenandel
+- OK   6 utelatt W7141101497 «Work absence and insurance design: moral hazard and utilization in Chi» (2026) – Chile, utenfor landkriteriene
+- OK   6 utelatt W2577227262 «Mostly Harmless Econometrics» (2008) – Metodelitteratur, ikke studie av egenandel ved sykefravær
+- OK   6 utelatt W1984524168 «Microeconometrics» (2005) – Metodelitteratur, ikke studie av egenandel ved sykefravær
+- OK   6 utelatt W2049350168 «Interaction terms in logit and probit models» (2003) – Metodelitteratur, ikke studie av egenandel ved sykefravær
+- OK   6 utelatt W2024810644 «Equilibrium Unemployment as a Worker Discipline Device» (1986) – Fravær generelt (lønn, kontrakter, kolleger, konjunktur, kontroll), ikke effekt av egenandel
+- OK   6 utelatt W2080061756 «Matching As An Econometric Evaluation Estimator» (1998) – Metodelitteratur, ikke studie av egenandel ved sykefravær
+- OK   6 utelatt W3122958054 «Regression discontinuity designs: A guide to practice» (2007) – Metodelitteratur, ikke studie av egenandel ved sykefravær
+- OK   6 utelatt W3123265974 «Manipulation of the running variable in the regression discontinuity d» (2007) – Metodelitteratur, ikke studie av egenandel ved sykefravær
+- OK   6 utelatt W1597926580 «Local Polynomial Modelling and its Applications» (1994) – Metodelitteratur, ikke studie av egenandel ved sykefravær
+- OK   6 utelatt W2114242548 «Identification and Estimation of Treatment Effects with a Regression-D» (2001) – Metodelitteratur, ikke studie av egenandel ved sykefravær
+- OK   6 utelatt W2141697271 «The German Socio-Economic Panel Study (SOEP) - Scope, Evolution and En» (2007) – Metodelitteratur, ikke studie av egenandel ved sykefravær
+- OK   6 utelatt W2140018188 «Minimum Wages and Employment: A Case Study of the Fast-Food Industry i» (2000) – Fravær generelt (lønn, kontrakter, kolleger, konjunktur, kontroll), ikke effekt av egenandel
+- OK   6 utelatt W2007212082 «Cluster-Sample Methods in Applied Econometrics» (2003) – Metodelitteratur, ikke studie av egenandel ved sykefravær
+- OK   6 utelatt W4302414222 «Local Polynomial Modelling and Its Applications» (2018) – Metodelitteratur, ikke studie av egenandel ved sykefravær
+- OK   6 utelatt W1528109329 «The incidence of mandated maternity benefits.» (1994) – Foreldrepermisjon, ikke sykelønn
+- OK   6 utelatt W1964352664 «The Rise in the Disability Rolls and the Decline in Unemployment» (2003) – Uføreordninger uten egenandel ved sykefravær
+- OK   6 utelatt W1583862312 «Econometric Analysis of Count Data» (2003) – Metodelitteratur, ikke studie av egenandel ved sykefravær
+- OK   6 utelatt W1606863616 «Some Simple Economics of Mandated Benefits» (1989) – Lovpålagt sykelønn eller fravær i USA; lite overførbart etter kriteriene
+- OK   6 utelatt W2146735208 «The treatment effect, the cross difference, and the interaction term i» (2011) – Metodelitteratur, ikke studie av egenandel ved sykefravær
+- OK   6 utelatt W1957884239 «Presenteeism: at work--but out of it.» (2004) – Sykenærvær generelt, ikke effekt av egenandel
+- OK   6 utelatt W2165762370 «Work Environment and Individual Background: Explaining Regional Shirki» (2000) – Fravær generelt (lønn, kontrakter, kolleger, konjunktur, kontroll), ikke effekt av egenandel
+- OK   6 utelatt W2890546020 «Optimal Bandwidth Choice for the Regression Discontinuity Estimator» (2009) – Metodelitteratur, ikke studie av egenandel ved sykefravær
+- OK   6 utelatt W4300750760 «Econometric Analysis of Count Data» (2008) – Metodelitteratur, ikke studie av egenandel ved sykefravær
+- OK   6 utelatt W2138836438 «Labor Supply Effects of Social Insurance» (2002) – Oversikt over trygd og arbeidstilbud, særlig USA og ledighetstrygd; bakgrunn
+- OK   6 utelatt W3122336779 «Inference on Causal Effects in a Generalized Regression Kink Design» (2015) – Metodelitteratur, ikke studie av egenandel ved sykefravær
+- OK   6 utelatt W2049312003 «An Empirical Model of Work Attendance» (1981) – Fravær generelt (lønn, kontrakter, kolleger, konjunktur, kontroll), ikke effekt av egenandel
+- OK   6 utelatt W2088334432 «The work disincentive effects of the disability insurance program in t» (2007) – Uføreordninger uten egenandel ved sykefravær
+- OK   6 utelatt W3121866572 «Estimating the Effect of Student Aid on College Enrollment: Evidence f» (2008) – Fravær generelt (lønn, kontrakter, kolleger, konjunktur, kontroll), ikke effekt av egenandel
+- OK   6 utelatt W2000247848 «THE ECONOMICS OF ABSENCE: THEORY AND EVIDENCE» (1996) – Oversikt over fravær generelt (1996), lite om egenandel; bakgrunn
+- OK   6 utelatt W4241074143 «The German Socio-Economic Panel (GSOEP) after more than 15 Years — Ove» (2001) – Metodelitteratur, ikke studie av egenandel ved sykefravær
+- OK   6 utelatt W2891587646 «Chapter 33 Labor supply effects of social insurance» (2002) – Oversikt over trygd og arbeidstilbud, særlig USA og ledighetstrygd; bakgrunn
+- OK   6 utelatt W2012994456 «The Determinants of Labor Absence: Economic Factors and Workgroup Norm» (1992) – Fravær generelt (lønn, kontrakter, kolleger, konjunktur, kontroll), ikke effekt av egenandel
+- OK   6 utelatt W2094067288 «The effects of unemployment and the business cycle on absenteeism» (1985) – Fravær generelt (lønn, kontrakter, kolleger, konjunktur, kontroll), ikke effekt av egenandel
+- OK   6 utelatt W2050270363 «The impact of stricter criteria for disability insurance on labor forc» (2011) – Uføreordninger uten egenandel ved sykefravær
+- OK   6 utelatt W2142951268 «Chapter 11. Physicians' sick-listing practices» (2004) – Helsetjenester eller helseforsikring, ikke sykelønn
+- OK   6 utelatt W1535975877 «Women and absenteeism: health or economics?» (1983) – Fravær generelt (lønn, kontrakter, kolleger, konjunktur, kontroll), ikke effekt av egenandel
+- OK   6 utelatt W2001903400 «Sick of Being Unemployed? Interactions between Unemployment and Sickne» (2006) – Samspill mellom ledighetstrygd og sykepenger for ledige; beslektet, ikke egenandel for arbeidstaker
+- OK   6 utelatt W2072456627 «Item nonresponse on income questions in panel surveys: Incidence, impu» (2005) – Metodelitteratur, ikke studie av egenandel ved sykefravær
+- OK   6 utelatt W2029297659 «Determinants of Firm Workplace Health and Safety and Claims Management» (2002) – Yrkesskadeforsikring eller arbeidsmiljø; utelatt etter kriteriene
+- OK   6 utelatt W2463599556 «Long-term consequences of workplace bullying on sickness absence» (2016) – Fravær generelt (lønn, kontrakter, kolleger, konjunktur, kontroll), ikke effekt av egenandel
+- OK   6 utelatt W2294497699 «Profiling the U.S. Sick Leave Landscape: Presenteeism among Females» (2016) – Sykenærvær generelt, ikke effekt av egenandel
+- OK   6 utelatt W3122181088 «Reduction in the Long-Term Unemployment of the Elderly: A Success Stor» (2007) – Fravær generelt (lønn, kontrakter, kolleger, konjunktur, kontroll), ikke effekt av egenandel
+- OK   6 utelatt W3009296559 «Sickness and disability systems: comparing outcomes and policies in No» (2020) – Beskrivende sammenligning av Norge og Sverige, ingen effekt av egenandel
+- OK   6 utelatt W1516729719 «Contagion Nation: A Comparison of Paid Sick Day Policies in 22 Countri» (2009) – Lovpålagt sykelønn eller fravær i USA; lite overførbart etter kriteriene
+- OK   6 utelatt W2891166987 «Work Environment and Individual Background: Explaining Regional Shirki» (1999) – Fravær generelt (lønn, kontrakter, kolleger, konjunktur, kontroll), ikke effekt av egenandel
+- OK   6 utelatt W2114799131 «Wages, firm size and absenteeism» (1999) – Fravær generelt (lønn, kontrakter, kolleger, konjunktur, kontroll), ikke effekt av egenandel
+- OK   6 utelatt W2006454459 «National Insurance and Absence from Work» (1979) – Eldre britisk tidsserie om trygd og fravær (1979), kategori 5
+- OK   6 utelatt W2093031123 «Coughs and sneezes spread diseases: An empirical study of absenteeism » (2009) – Fravær generelt (lønn, kontrakter, kolleger, konjunktur, kontroll), ikke effekt av egenandel
+- OK   6 utelatt W2120435841 «To what extent have relaxed eligibility requirements and increased gen» (2010) – Uføreordninger uten egenandel ved sykefravær
+- OK   6 utelatt W1587380823 «Compensation for Permanent Impairment and the Duration of Work Absence» (1994) – Fravær generelt (lønn, kontrakter, kolleger, konjunktur, kontroll), ikke effekt av egenandel
+- OK   6 utelatt W2137789320 «Economic Incentives, Business Cycles, and Long‐Term Sickness Absence» (2009) – Konjunktur og langtidsfravær i Norge, ikke egenandel; hører til spørsmålet om utvikling
+- OK   6 utelatt W2618510864 «A survey of absenteeism on construction sites» (2017) – Fravær generelt (lønn, kontrakter, kolleger, konjunktur, kontroll), ikke effekt av egenandel
+- OK   6 utelatt W1954487083 «Estimating Price Elasticities of Convalescent Care Programmes» (2010) – Helsetjenester eller helseforsikring, ikke sykelønn
+- OK   6 utelatt W1822734879 «The Response of Worker Effort to Piece Rates» (2003) – Fravær generelt (lønn, kontrakter, kolleger, konjunktur, kontroll), ikke effekt av egenandel
+- OK   6 utelatt W3047750766 «Estimating the causal effects of private health insurance in Brazil: E» (2020) – Metodelitteratur, ikke studie av egenandel ved sykefravær
+- OK   6 utelatt W2482692030 «A Critical Review of Literature on Experience Rating in Workers’ Compe» (2012) – Erfaringsprising i yrkesskade- eller ledighetstrygd; utelatt etter kriteriene
+- OK   6 utelatt W2096673566 «The short-run impacts of Connecticut’s paid sick leave legislation» (2015) – Lovpålagt sykelønn eller fravær i USA; lite overførbart etter kriteriene
+- OK   6 utelatt W2153701926 «Long-term absenteeism due to sickness in Sweden. How long does it take» (2007) – Fravær generelt (lønn, kontrakter, kolleger, konjunktur, kontroll), ikke effekt av egenandel
+- OK   6 utelatt W1976952621 «Assessing the effectiveness of health care cost containment measures: » (2013) – Helsetjenester eller helseforsikring, ikke sykelønn
+- OK   6 utelatt W1996161649 «Sick pay provision in experimental labor markets» (2011) – Laboratorieforsøk, ikke reelt sykefravær
+- OK   6 utelatt W4383314001 «The Response of Firms to Maternity Leave and Sickness Absence» (2023) – Foreldrepermisjon, ikke sykelønn
+- OK   6 utelatt W2009723123 «Workers' Compensation» (2000) – Yrkesskadeforsikring eller arbeidsmiljø; utelatt etter kriteriene
+- OK   6 utelatt W2610063237 «7 Occupational Health and Safety: Effectiveness of Economic and Regula» (2000) – Yrkesskadeforsikring eller arbeidsmiljø; utelatt etter kriteriene
+- OK   6 utelatt W2805269886 «Worker Absenteeism and Employment Outcomes: A Literature Review» (2017) – Oversikt over fravær og senere arbeidsutfall, ikke egenandel
+- OK   6 utelatt W7164573256 «Variation in presenteeism by generosity of statutory sick pay: a multi» (2026) – Tverrsnitt mellom 35 land om sykenærvær (kategori 5)
+- OK   6 utelatt W7166656522 «Determinants of high annual sickness absence in older workers: a prosp» (2026) – Fravær generelt (lønn, kontrakter, kolleger, konjunktur, kontroll), ikke effekt av egenandel
+- OK   6 utelatt W2096694350 «The RAND Health Insurance Experiment, Three Decades Later» (2013) – Helsetjenester eller helseforsikring, ikke sykelønn
+- OK   6 utelatt W2025014816 «Moral hazard and the demand for physician services: First lessons from» (1998) – Helsetjenester eller helseforsikring, ikke sykelønn
+- OK   6 utelatt W2200172062 «The Optimal Timing of Unemployment Benefits: Theory and Evidence from » (2018) – Ledighetstrygd, ikke sykelønn
+- OK   6 utelatt W2060355451 «The importance of employer accommodation on the job duration of worker» (1995) – Uføreordninger uten egenandel ved sykefravær
+- OK   6 utelatt W1862785244 «THE ECONOMICS OF HEALTH AND SAFETY AT WORK: AN INTERDICIPLINARY REVIEW» (2011) – Yrkesskadeforsikring eller arbeidsmiljø; utelatt etter kriteriene
+- OK   6 utelatt W2132943514 «Workers#x0027; Compensation Recipiency in Union and Nonunion Workplace» (1997) – Fravær generelt (lønn, kontrakter, kolleger, konjunktur, kontroll), ikke effekt av egenandel
+- OK   6 utelatt W2116604021 «The Effect of Unemployment Benefits on the Duration of Unemployment In» (2015) – Metodelitteratur, ikke studie av egenandel ved sykefravær
+- OK   6 utelatt W3123209104 «Extended Unemployment Benefits and Early Retirement: Program Complemen» (2016) – Ledighetstrygd, ikke sykelønn
+- OK   6 utelatt W3121146582 «Nonlinear Policy Rules and the Identification and Estimation of Causal» (None) – Metodelitteratur, ikke studie av egenandel ved sykefravær
+- OK   6 utelatt W1543952162 «The Impact of Occupational Safety and Health Regulation on the Risk of» (1992) – Yrkesskadeforsikring eller arbeidsmiljø; utelatt etter kriteriene
+- OK   6 utelatt W1589376319 «The Effects of Unemployment Insurance Taxes and Benefits on Layoffs Us» (1994) – Ledighetstrygd, ikke sykelønn
+- OK   6 utelatt W2150132741 «Causal inference in multi-state models–sickness absence and work for 1» (2015) – Metodelitteratur, ikke studie av egenandel ved sykefravær
+- OK   6 utelatt W2102389252 «Nonparametric bounds on the effect of deductibles in health care insur» (2006) – Helsetjenester eller helseforsikring, ikke sykelønn
+- OK   6 utelatt W2038487625 «Disability Insurance and Health Insurance Reform: Evidence from Massac» (2014) – Uføreordninger uten egenandel ved sykefravær
+- OK   6 utelatt W1971721704 «Employer Responses to Workers' Compensation Insurance Experience Ratin» (2005) – Yrkesskadeforsikring eller arbeidsmiljø; utelatt etter kriteriene
+- OK   6 utelatt W2081683787 «The Impact of Workers' Compensation Experience Rating on Employer Appe» (1995) – Yrkesskadeforsikring eller arbeidsmiljø; utelatt etter kriteriene
+- OK   6 utelatt W2125279885 «Active social insurance» (2012) – Fravær generelt (lønn, kontrakter, kolleger, konjunktur, kontroll), ikke effekt av egenandel
+- OK   6 utelatt W2161931574 «Revisiting Incentive Effects in Workers' Compensation: Do Higher Benef» (2012) – Yrkesskadeforsikring eller arbeidsmiljø; utelatt etter kriteriene
+- OK   6 utelatt W2116481194 «Increasing health inequalities between women in and out of work - the » (2014) – Fravær generelt (lønn, kontrakter, kolleger, konjunktur, kontroll), ikke effekt av egenandel
+- OK   6 utelatt W1559509762 «Absence from Work of the Self‐Employed: A Comparison with Paid Employe» (2014) – Fravær generelt (lønn, kontrakter, kolleger, konjunktur, kontroll), ikke effekt av egenandel
+- OK   6 utelatt W3123597935 «Disability Risk and the Value of Disability Insurance» (2009) – Uføreordninger uten egenandel ved sykefravær
+- OK   6 utelatt W2120249767 «Arrow’s theorem of the deductible: Moral hazard and stop-loss in healt» (2013) – Helsetjenester eller helseforsikring, ikke sykelønn
+- OK   6 utelatt W1993060258 «Worker Absenteeism in Search Equilibrium*» (2007) – Fravær generelt (lønn, kontrakter, kolleger, konjunktur, kontroll), ikke effekt av egenandel
+- OK   6 utelatt W2104224544 «Reincentivizing – a new theory of work and work absence» (2007) – Fravær generelt (lønn, kontrakter, kolleger, konjunktur, kontroll), ikke effekt av egenandel
+- OK   6 utelatt W631189548 «Empirical studies of public policies within the primary school and the» (2008) – Fravær generelt (lønn, kontrakter, kolleger, konjunktur, kontroll), ikke effekt av egenandel
+- OK   6 utelatt W2162577974 «Social Behaviour in Work Absence*» (2013) – Fravær generelt (lønn, kontrakter, kolleger, konjunktur, kontroll), ikke effekt av egenandel
+- OK   6 utelatt W2142065048 «Experience Rating versus Employment Protection Laws in a Model where F» (2005) – Erfaringsprising i yrkesskade- eller ledighetstrygd; utelatt etter kriteriene
+- OK   6 utelatt W2893959765 «How disability insurance reforms change the consequences of health sho» (2018) – Uføreordninger uten egenandel ved sykefravær
+- OK   6 utelatt W1546067158 «Mandatory sick pay provision: A labor market experiment» (2010) – Laboratorieforsøk, ikke reelt sykefravær
+- OK   6 utelatt W2109021417 «Early Interventions and Disability Insurance: Experience from a Field » (2015) – Uføreordninger uten egenandel ved sykefravær
+- OK   6 utelatt W3122353923 «UNEMPLOYMENT INSURANCE AND EXPERIENCE RATING: INSURANCE VERSUS EFFICIE» (2005) – Ledighetstrygd, ikke sykelønn
+- OK   6 utelatt W1972347045 «The administration and financing of paid sick leave» (2011) – Lovpålagt sykelønn eller fravær i USA; lite overførbart etter kriteriene
+- OK   6 utelatt W1498875124 «The European Social Model: Lessons for Developing Countries» (2002) – Fravær generelt (lønn, kontrakter, kolleger, konjunktur, kontroll), ikke effekt av egenandel
+- OK   6 utelatt W2224718261 «Do Interactions between Unemployment Insurance and Sickness Insurance » (2011) – Ledighetstrygd, ikke sykelønn
+- OK   6 utelatt W2499467685 «Worker Absenteeism Under Voluntary and Compulsory Sickness Insurance: » (2005) – Historisk studie av frivillig og obligatorisk sykeforsikring 1885–, kategori 5
+- OK   6 utelatt W2013875452 «The Impact of Self-Insuring for Workers’ Compensation on the Incidence» (2009) – Fravær generelt (lønn, kontrakter, kolleger, konjunktur, kontroll), ikke effekt av egenandel
+- OK   6 utelatt W3111825913 «Graded Work, the Activation of Sick-Listed Workers and Employer Partic» (2020) – Gradert sykmelding eller rehabilitering, eget spørsmål
+- OK   6 utelatt W3024269757 «Sick but at work: Graded sick leave in a comparative perspective» (2020) – Gradert sykmelding eller rehabilitering, eget spørsmål
+- OK   6 utelatt W1917529311 «Benefit Morale and Cross‐Country Diversity in Sick Pay Entitlements» (2013) – Tverrsnitt mellom land (kategori 5)
+- OK   6 utelatt W2171168365 «DISABILITY INSURANCE IN A MULTI-PILLAR FRAMEWORK» (2000) – Uføreordninger uten egenandel ved sykefravær
+- OK   6 utelatt W2141786694 «Incentives and selection in cyclical absenteeism» (2004) – Konjunktur og seleksjon i fravær, ikke egenandel
+- OK   6 utelatt W2015342205 «Working conditions, compensation and absenteeism» (2004) – Arbeidsforhold, kompensasjon og fravær i Norge uten reform (kategori 5); bør vurderes
+- OK   6 utelatt W2165132661 «Sick of Your Colleagues' Absence?» (2009) – Fravær generelt (lønn, kontrakter, kolleger, konjunktur, kontroll), ikke effekt av egenandel
+- OK   6 utelatt W3122507222 «Absenteeism, unemployment and employment protection legislation: evide» (2014) – Fravær generelt (lønn, kontrakter, kolleger, konjunktur, kontroll), ikke effekt av egenandel
+- OK   6 utelatt W2162642231 «Sickness, absenteeism, presenteeism, and sick pay» (2002) – Teorimodell uten data
+- OK   6 utelatt W2130137198 «SCREENING DISABILITY INSURANCE APPLICATIONS» (2011) – Uføreordninger uten egenandel ved sykefravær
+- OK   6 utelatt W2014873229 «Does sickness absence increase the risk of unemployment?» (2006) – Fravær generelt (lønn, kontrakter, kolleger, konjunktur, kontroll), ikke effekt av egenandel
+- OK   6 utelatt W1996959703 «Do time limits in the sickness insurance system increase return to wor» (2012) – Fravær generelt (lønn, kontrakter, kolleger, konjunktur, kontroll), ikke effekt av egenandel
+- OK   6 utelatt W3123341554 «Temporary contracts and employee effort» (2004) – Fravær generelt (lønn, kontrakter, kolleger, konjunktur, kontroll), ikke effekt av egenandel
+- OK   6 utelatt W2885574758 «Self-certification versus physician certification of sick leave for re» (2019) – Helsetjenester eller helseforsikring, ikke sykelønn
+- OK   6 utelatt W2081940413 «Presenteeism in the workplace: A review and research agenda» (2009) – Sykenærvær generelt, ikke effekt av egenandel
+- OK   6 utelatt W4252885144 «Sickness, Disability and Work: Breaking the Barriers» (2010) – Uføreordninger uten egenandel ved sykefravær
+- OK   6 utelatt W2790757288 «Presenteeism: A review and research directions» (2018) – Sykenærvær generelt, ikke effekt av egenandel
+- OK   6 utelatt W2007574424 «A Dynamic Stochastic Model of Medical Care Use and Work Absence» (1998) – Helsetjenester eller helseforsikring, ikke sykelønn
+- OK   6 utelatt W2092154567 «Ensuring a Healthy and Productive Workforce: Comparing the Generosity » (2010) – Lovpålagt sykelønn eller fravær i USA; lite overførbart etter kriteriene
+- OK   6 utelatt W2015080265 «Being on Sick Leave: Possible Explanations for Differences of Sick-lea» (2007) – Metodelitteratur, ikke studie av egenandel ved sykefravær
+- OK   6 utelatt W3125222004 «Can Compulsory Dialogues Nudge Sick-Listed Workers Back to Work?» (2015) – Fravær generelt (lønn, kontrakter, kolleger, konjunktur, kontroll), ikke effekt av egenandel
+- OK   6 utelatt W2116387821 «Job Security and Work Absence: Evidence from a Natural Experiment» (2006) – Fravær generelt (lønn, kontrakter, kolleger, konjunktur, kontroll), ikke effekt av egenandel
+- OK   6 utelatt W3122400936 «Piece rates and workplace injury: Does survey evidence support Adam Sm» (2011) – Yrkesskadeforsikring eller arbeidsmiljø; utelatt etter kriteriene
+- OK   6 utelatt W2112304643 «The Effect of an Increase in Worker's Compensation Benefits on the Dur» (2004) – Fravær generelt (lønn, kontrakter, kolleger, konjunktur, kontroll), ikke effekt av egenandel
+- OK   6 utelatt W1977189967 «Disability insurance and unemployment insurance as substitute pathways» (2008) – Ledighetstrygd, ikke sykelønn
+- OK   6 utelatt W578781176 «Discrimination, Sickness Absence, and Labor Market Policy» (2006) – Fravær generelt (lønn, kontrakter, kolleger, konjunktur, kontroll), ikke effekt av egenandel
+- OK   6 utelatt W2322166048 «Performance Standards and Employee Effort: Evidence From Teacher Absen» (2016) – Fravær generelt (lønn, kontrakter, kolleger, konjunktur, kontroll), ikke effekt av egenandel
+- OK   6 utelatt W1563064513 «Hur påverkar kravet på läkarintyg sjukfrånvaron? Erfarenheter från ett» (2005) – Krav om legeattest (kontroll), ikke egenandel
+- OK   6 utelatt W4414923535 «The Effects of Paid‐Sick‐Leave Mandates on Care Provision» (2025) – Lovpålagt sykelønn eller fravær i USA; lite overførbart etter kriteriene
+- OK   6 utelatt W1514383130 «Evaluation sozialpolitischer Reformen» (2011) – Fravær generelt (lønn, kontrakter, kolleger, konjunktur, kontroll), ikke effekt av egenandel
+- OK   6 utelatt W2117594039 «On the Pooling of Time Series and Cross Section Data» (1978) – Metodelitteratur, ikke studie av egenandel ved sykefravær
+- OK   6 utelatt W1978371266 «Mostly Harmless Econometrics: An Empiricist's Companion» (2010) – Metodelitteratur, ikke studie av egenandel ved sykefravær
+- OK   6 utelatt W1547415738 «Labor Supply: A Review of Alternative Approaches» (1999) – Fravær generelt (lønn, kontrakter, kolleger, konjunktur, kontroll), ikke effekt av egenandel
+- OK   6 utelatt W2088212458 «Performance in Competitive Environments: Gender Differences» (2003) – Metodelitteratur, ikke studie av egenandel ved sykefravær
+- OK   6 utelatt W1975383176 «Random group effects and the precision of regression estimates» (1986) – Metodelitteratur, ikke studie av egenandel ved sykefravær
+- OK   6 utelatt W2891249980 «Unemployment Insurance And Unemployment Spells» (1988) – Ledighetstrygd, ikke sykelønn
+- OK   6 utelatt W2104518402 «Unemployment Insurance and Unemployment Spells» (1990) – Ledighetstrygd, ikke sykelønn
+- OK   6 utelatt W3125512578 «Identification and Inference in Nonlinear Difference-in-Differences Mo» (2006) – Metodelitteratur, ikke studie av egenandel ved sykefravær
+- OK   6 utelatt W2097240475 «The Economic Consequences of Parental Leave Mandates: Lessons from Eur» (1998) – Foreldrepermisjon, ikke sykelønn
+- OK   6 utelatt W2148569160 «Performance Pay and Multidimensional Sorting: Productivity, Preference» (2011) – Fravær generelt (lønn, kontrakter, kolleger, konjunktur, kontroll), ikke effekt av egenandel
+- OK   6 utelatt W2097636528 «Inference with “Difference in Differences” with a Small Number of Poli» (2010) – Metodelitteratur, ikke studie av egenandel ved sykefravær
+- OK   6 utelatt W2063888649 «Parental Leave and Child Health» (1998) – Foreldrepermisjon, ikke sykelønn
+- OK   6 utelatt W2121407100 «The Growth in the Social Security Disability Rolls: A Fiscal Crisis Un» (2006) – Uføreordninger uten egenandel ved sykefravær
+- OK   6 utelatt W2132851839 «The Effects of California's Paid Family Leave Program on Mothers’ Leav» (2012) – Foreldrepermisjon, ikke sykelønn
+- OK   6 utelatt W2116405120 «Economic Activity and the Spread of Viral Diseases: Evidence from High» (2016) – Helsetjenester eller helseforsikring, ikke sykelønn
+- OK   6 utelatt W2164913676 «The Optimal Payment of Unemployment Insurance Benefits over Time» (1979) – Ledighetstrygd, ikke sykelønn
+- OK   6 utelatt W2102833611 «A Flying Start? Maternity Leave Benefits and Long-Run Outcomes of Chil» (2015) – Foreldrepermisjon, ikke sykelønn
+- OK   6 utelatt W3123449212 «The public health costs of job loss» (2009) – Fravær generelt (lønn, kontrakter, kolleger, konjunktur, kontroll), ikke effekt av egenandel
+- OK   6 utelatt W2140139522 «The impact of the family and medical leave act» (1999) – Fravær generelt (lønn, kontrakter, kolleger, konjunktur, kontroll), ikke effekt av egenandel
+- OK   6 utelatt W2145027327 «Parental Leave and Mothers' Careers: The Relative Importance of Job Pr» (2013) – Foreldrepermisjon, ikke sykelønn
+- OK   6 utelatt W2149276830 «The relation between fluid intelligence and the general factor as a fu» (2007) – Fravær generelt (lønn, kontrakter, kolleger, konjunktur, kontroll), ikke effekt av egenandel
+- OK   6 utelatt W2041175803 «Gender Differences in Days Lost from Work Due to Illness» (1997) – Metodelitteratur, ikke studie av egenandel ved sykefravær
+- OK   6 utelatt W2073338958 «How Financial Incentives Induce Disability Insurance Recipients to Ret» (2014) – Uføretrygdede som går tilbake til arbeid, ikke egenandel ved sykefravær
+- OK   6 utelatt W2165307446 «Are recessions good for workplace safety?» (2006) – Yrkesskadeforsikring eller arbeidsmiljø; utelatt etter kriteriene
+- OK   6 utelatt W3024022508 «Incentive effects of workers' compensation insurance» (1990) – Yrkesskadeforsikring eller arbeidsmiljø; utelatt etter kriteriene
+- OK   6 utelatt W2038098345 «Social Support Substitution and the Earnings Rebound: Evidence from a » (2014) – Metodelitteratur, ikke studie av egenandel ved sykefravær
+- OK   6 utelatt W3121159220 «Is Workers' Compensation Covering Uninsured Medical Costs? Evidence fr» (1996) – Yrkesskadeforsikring eller arbeidsmiljø; utelatt etter kriteriene
+- OK   6 utelatt W2033387768 «Compensation, Safety, and Absenteeism: Evidence from the Paper Industr» (1981) – Fravær generelt (lønn, kontrakter, kolleger, konjunktur, kontroll), ikke effekt av egenandel
+- OK   6 utelatt W2005935621 «The Effect of Employment Protection on Worker Effort: A Comparison of » (2001) – Fravær generelt (lønn, kontrakter, kolleger, konjunktur, kontroll), ikke effekt av egenandel
+- OK   6 utelatt W2124456619 «A microeconometric evaluation of rehabilitation of long‐term sickness » (2004) – Metodelitteratur, ikke studie av egenandel ved sykefravær
+- OK   6 utelatt W2152475163 «Population-level effects of suppressing fever» (2014) – Helsetjenester eller helseforsikring, ikke sykelønn
+- OK   6 utelatt W2048984013 «Return to work after early part-time sick leave due to musculoskeletal» (2011) – Gradert sykmelding eller rehabilitering, eget spørsmål
+- OK   6 utelatt W4254554316 «Maladie, invalidité et travail : Surmonter les obstacles» (2010) – Uføreordninger uten egenandel ved sykefravær
+- OK   6 utelatt W2092407215 «Absenteeism as a Mechanism for Approaching an Optimal Labor Market Equ» (1986) – Fravær generelt (lønn, kontrakter, kolleger, konjunktur, kontroll), ikke effekt av egenandel
+- OK   6 utelatt W1480866896 «An empirical assessment of assortative matching in the labor market» (2010) – Fravær generelt (lønn, kontrakter, kolleger, konjunktur, kontroll), ikke effekt av egenandel
+- OK   6 utelatt W1978507051 «Not so voluntary retirement decisions? Evidence from a pension reform» (2005) – Fravær generelt (lønn, kontrakter, kolleger, konjunktur, kontroll), ikke effekt av egenandel
+- OK   6 utelatt W2147352545 «Does graded return-to-work improve sick-listed workers’ chance of retu» (2009) – Gradert sykmelding eller rehabilitering, eget spørsmål
+- OK   6 utelatt W3122176424 «Employment protection and sickness absence» (2008) – Fravær generelt (lønn, kontrakter, kolleger, konjunktur, kontroll), ikke effekt av egenandel
+- OK   6 utelatt W3122818259 «Sick of Your Colleagues' Absence?» (2009) – Fravær generelt (lønn, kontrakter, kolleger, konjunktur, kontroll), ikke effekt av egenandel
+- OK   6 utelatt W3021325719 «The Unsustainable Rise of the Disability Rolls in the United States: C» (2011) – Lovpålagt sykelønn eller fravær i USA; lite overførbart etter kriteriene
+- OK   6 utelatt W2805335844 «Graded return-to-work as a stepping stone to full work resumption» (2019) – Gradert sykmelding eller rehabilitering, eget spørsmål
+- OK   6 utelatt W1993353069 «Absenteeism in the UK: A Comparison Across Genders» (2001) – Fravær generelt (lønn, kontrakter, kolleger, konjunktur, kontroll), ikke effekt av egenandel
+- OK   6 utelatt W26734890 «Evaluating Social Programs: Active Labor Market Policies and Social In» (2002) – Metodelitteratur, ikke studie av egenandel ved sykefravær
+- OK   6 utelatt W1509290818 «Comparing teachers' assessments and national test results: Evidence fr» (2007) – Fravær generelt (lønn, kontrakter, kolleger, konjunktur, kontroll), ikke effekt av egenandel
+- OK   6 utelatt W2752895462 «Drivers of Effort: Evidence from Employee Absenteeism» (2017) – Fravær generelt (lønn, kontrakter, kolleger, konjunktur, kontroll), ikke effekt av egenandel
+- OK   6 utelatt W2045814298 «Salaries and Work Effort: An Analysis of the European Union Parliament» (2013) – Fravær generelt (lønn, kontrakter, kolleger, konjunktur, kontroll), ikke effekt av egenandel
+- OK   6 utelatt W3121156260 «Urban Air Pollution and Sick Leaves: Evidence from Social Security Dat» (2020) – Fravær generelt (lønn, kontrakter, kolleger, konjunktur, kontroll), ikke effekt av egenandel
+- OK   6 utelatt W2055022774 «Detecting discrimination in the hiring process: evidence from an Inter» (2011) – Fravær generelt (lønn, kontrakter, kolleger, konjunktur, kontroll), ikke effekt av egenandel
+- OK   6 utelatt W2132658439 «Effectiveness of new legislation on partial sickness benefit on work p» (2014) – Gradert sykmelding eller rehabilitering, eget spørsmål
+- OK   6 utelatt W1868150224 «Determinants of the Annual Duration of Sickness Presenteeism: Empirica» (2015) – Sykenærvær generelt, ikke effekt av egenandel
+- OK   6 utelatt W2136790232 «The Importance of Anti-Discrimination and Workers' Compensation Laws o» (2012) – Yrkesskadeforsikring eller arbeidsmiljø; utelatt etter kriteriene
+- OK   6 utelatt W2111941187 «Resources and Student Achievement—Evidence from a Swedish Policy Refor» (2008) – Fravær generelt (lønn, kontrakter, kolleger, konjunktur, kontroll), ikke effekt av egenandel
+- OK   6 utelatt W4321595530 «Is paid sick leave bad for business? A systematic review» (2023) – Systematisk oversikt om lovpålagt sykelønn og bedriftenes resultater, særlig USA; utfallet er ikke fravær hos arbeidstaker. Bør vurderes som bakgrunn
+- OK   6 utelatt W2151188400 «Social Insurance Networks» (2015) – Fravær generelt (lønn, kontrakter, kolleger, konjunktur, kontroll), ikke effekt av egenandel
+- OK   6 utelatt W2286107741 «Absenteeism, childcare and the effectiveness of pension reforms» (2016) – Fravær generelt (lønn, kontrakter, kolleger, konjunktur, kontroll), ikke effekt av egenandel
+- OK   6 utelatt W3123382735 «Maternity Leave and Mothers’ Long-Term Sickness Absence: Evidence From» (2018) – Foreldrepermisjon, ikke sykelønn
+- OK   6 utelatt W3166098947 «The impacts of working from home on individual health and well-being» (2023) – Fravær generelt (lønn, kontrakter, kolleger, konjunktur, kontroll), ikke effekt av egenandel
+- OK   6 utelatt W1936787465 «Unionization and Certified Sickness Absence: Norwegian Evidence» (2013) – Fravær generelt (lønn, kontrakter, kolleger, konjunktur, kontroll), ikke effekt av egenandel
+- OK   6 utelatt W1990484191 «How accommodations affect the duration of post-injury employment spell» (2005) – Fravær generelt (lønn, kontrakter, kolleger, konjunktur, kontroll), ikke effekt av egenandel
+- OK   6 utelatt W2511480658 «What is the impact of flexicurity on the chances of entry into employm» (2016) – Fravær generelt (lønn, kontrakter, kolleger, konjunktur, kontroll), ikke effekt av egenandel
+- OK   6 utelatt W3123746975 «When Dad Can Stay Home: Fathers' Workplace Flexibility and Maternal He» (2024) – Foreldrepermisjon, ikke sykelønn
+- OK   6 utelatt W1494252704 «The Effect of Variable Pay Schemes on Workplace Absenteeism» (2012) – Fravær generelt (lønn, kontrakter, kolleger, konjunktur, kontroll), ikke effekt av egenandel
+- OK   6 utelatt W2071145085 «Healthcare performance turned into decision support» (2013) – Fravær generelt (lønn, kontrakter, kolleger, konjunktur, kontroll), ikke effekt av egenandel
+- OK   6 utelatt W2256111254 «Worker Morale and Effort: Is the Relationship Causal?» (2017) – Fravær generelt (lønn, kontrakter, kolleger, konjunktur, kontroll), ikke effekt av egenandel
+- OK   6 utelatt W1838253248 «Temporary contracts, employees' effort and labour productivity: the ev» (2008) – Fravær generelt (lønn, kontrakter, kolleger, konjunktur, kontroll), ikke effekt av egenandel
+- OK   6 utelatt W2013678280 «Work Absence — A Signalling Factor for Temporary Workers?» (2009) – Fravær generelt (lønn, kontrakter, kolleger, konjunktur, kontroll), ikke effekt av egenandel
+- OK   6 utelatt W2141000995 «IS LEISURE CONTAGIOUS? THE RELATIONSHIP BETWEEN SICKNESS ABSENCE AND S» (2009) – Fravær generelt (lønn, kontrakter, kolleger, konjunktur, kontroll), ikke effekt av egenandel
+- OK   6 utelatt W1557818164 «Swedish Fiscal Policy» (2011) – Fravær generelt (lønn, kontrakter, kolleger, konjunktur, kontroll), ikke effekt av egenandel
+- OK   6 utelatt W2125882498 «Employment and Non-employment: A Study of the Swedish Labour Market» (2004) – Fravær generelt (lønn, kontrakter, kolleger, konjunktur, kontroll), ikke effekt av egenandel
+- OK   6 utelatt W2889779885 «Moral Hazard versus Liquidity and Optimal Unemployment Insurance» (2008) – Ledighetstrygd, ikke sykelønn
+- OK   6 utelatt W2027088814 «Overinsurance and Public Provision of Insurance: The Roles of Moral Ha» (1974) – Teori om moral hazard eller forsikring, ikke empirisk studie av egenandel ved sykefravær
+- OK   6 utelatt W2106086255 «Economic Burden of Occupational Injury and Illness in the United State» (2011) – Yrkesskadeforsikring eller arbeidsmiljø; utelatt etter kriteriene
+- OK   6 utelatt W2092107418 «The Effects of Extended Unemployment Insurance Over the Business Cycle» (2012) – Metodelitteratur, ikke studie av egenandel ved sykefravær
+- OK   6 utelatt W2064867072 «The economics of moral hazard revisited» (1999) – Teori om moral hazard eller forsikring, ikke empirisk studie av egenandel ved sykefravær
+- OK   6 utelatt W2111755336 «Optimal Taxation and Social Insurance with Endogenous Private Insuranc» (2010) – Teori om moral hazard eller forsikring, ikke empirisk studie av egenandel ved sykefravær
+- OK   6 utelatt W2325466037 «Partial sick leave—review of its use, effects and feasibility in the N» (2008) – Gradert sykmelding, eget spørsmål
+- OK   6 utelatt W1586030185 «Further Evidence on the “Monday Effect” in Workers' Compensation» (2006) – Yrkesskadeforsikring eller arbeidsmiljø; utelatt etter kriteriene
+- OK   6 utelatt W2560435252 «In a Small Moment: Class Size and Moral Hazard in the Italian Mezzogio» (2017) – Teori om moral hazard eller forsikring, ikke empirisk studie av egenandel ved sykefravær
+- OK   6 utelatt W2072763934 «More on moral hazard» (1983) – Teori om moral hazard eller forsikring, ikke empirisk studie av egenandel ved sykefravær
+- OK   6 utelatt W2118548957 «Workers' Compensation: Recent Developments in Moral Hazard and Benefit» (2010) – Yrkesskadeforsikring eller arbeidsmiljø; utelatt etter kriteriene
+- OK   6 utelatt W2317926527 «Workers' Compensation and the Level of Occupational Injuries» (1988) – Yrkesskadeforsikring eller arbeidsmiljø; utelatt etter kriteriene
+- OK   6 utelatt W3095534481 «Extensive or Intensive Generosity? The Price and Income Effects of Fed» (2005) – Fravær generelt (lønn, kontrakter, kolleger, konjunktur, kontroll), ikke effekt av egenandel
+- OK   6 utelatt W613375024 «Evaluating institutional changes in education and wage policy» (2006) – Fravær generelt (lønn, kontrakter, kolleger, konjunktur, kontroll), ikke effekt av egenandel
+- OK   6 utelatt W2007155096 «An Analysis of Absence Under a Scheme of Paid Sick Leave» (1952) – Lovpålagt sykelønn eller fravær i USA; lite overførbart etter kriteriene
+- OK   6 utelatt W2009499217 «Measuring and validating social program replacement rates» (2013) – Fravær generelt (lønn, kontrakter, kolleger, konjunktur, kontroll), ikke effekt av egenandel
+- OK   6 utelatt W2046832612 «Immigrant consumption of sickness benefits in Sweden, 1982–1991» (2006) – Fravær generelt (lønn, kontrakter, kolleger, konjunktur, kontroll), ikke effekt av egenandel
+- OK   6 utelatt W2068839152 «Termination of sickness benefits or transition to disability pension a» (2012) – Uføreordninger uten egenandel ved sykefravær
+- OK   6 utelatt W2070785347 «Effects of eligibility screening in the sickness insurance: Evidence f» (2012) – Kontroll i sykeforsikringen, ikke egenandel
+- OK   6 utelatt W4391752946 «The cost of saying no: general practitioners’ gatekeeping role in sick» (2024) – Fravær generelt (lønn, kontrakter, kolleger, konjunktur, kontroll), ikke effekt av egenandel
+- OK   6 utelatt W3124982435 «Mortality Effects of Containing Moral Hazard: Evidence from Disability» (2017) – Uføreordninger uten egenandel ved sykefravær
+- OK   6 utelatt W4318778643 «Presenteeism as a moral hazard problem: Implications for the human res» (2023) – Sykenærvær generelt, ikke effekt av egenandel
+- OK   6 utelatt W2331225099 «Injured workers and their return to work» (2016) – Yrkesskadeforsikring eller arbeidsmiljø; utelatt etter kriteriene
+- OK   6 utelatt W7160204333 «The Economics of Paid Sick Leave» (2026) – Lovpålagt sykelønn eller fravær i USA; lite overførbart etter kriteriene
+- OK   6 utelatt KU-809402b3-fc72-435e-a13b-e20350ddbca5 «Barn, unge og voksne med innvandrerbakgrunn i grunnopplæringen» (2017) – kunnskapsoppsummering om innvandrere i grunnopplæringen, treff på ordet «egenandel», ikke sykefravær (nytt norsk søk 9.11.2026)
+- OK   9 kort-svar-blind.md finnes
+- OK   9 innholdskontroll har raden «kort svar»
+- OK   9 blind lesing 0198cc6b5075-4f48eef2-abe5-47a9-98cc-d3c3d0ea5955 i budskap.tsv
+- OK   9 blind lesing KU-482dde58-5382-445f-b57f-f8ff4ea92ba1 i budskap.tsv
+- OK   9 blind lesing W1521901582 i budskap.tsv
+- OK   9 blind lesing W1572536547 i budskap.tsv
+- OK   9 blind lesing W1730183598 i budskap.tsv
+- OK   9 blind lesing W1733360148 i budskap.tsv
+- OK   9 blind lesing W1823227986 i budskap.tsv
+- OK   9 blind lesing W2098026786 i budskap.tsv
+- OK   9 blind lesing W2104547524 i budskap.tsv
+- OK   9 blind lesing W2117611217 i budskap.tsv
+- OK   9 blind lesing W2131859699 i budskap.tsv
+- OK   9 blind lesing W2169584029 i budskap.tsv
+- OK   9 blind lesing W2172116092 i budskap.tsv
+- OK   9 blind lesing W2180996442 i budskap.tsv
+- OK   9 blind lesing W2188125461 i budskap.tsv
+- OK   9 blind lesing W2219647517 i budskap.tsv
+- OK   9 blind lesing W2326189071 i budskap.tsv
+- OK   9 blind lesing W2340419694 i budskap.tsv
+- OK   9 blind lesing W2395345310 i budskap.tsv
+- OK   9 blind lesing W2559846193 i budskap.tsv
+- OK   9 blind lesing W2598703126 i budskap.tsv
+- OK   9 blind lesing W2601387569 i budskap.tsv
+- OK   9 blind lesing W2790164552 i budskap.tsv
+- OK   9 blind lesing W2793267873 i budskap.tsv
+- OK   9 blind lesing W2801719577 i budskap.tsv
+- OK   9 blind lesing W2919590971 i budskap.tsv
+- OK   9 blind lesing W2950108415 i budskap.tsv
+- OK   9 blind lesing W2950538458 i budskap.tsv
+- OK   9 blind lesing W2993400654 i budskap.tsv
+- OK   9 blind lesing W3022725470 i budskap.tsv
+- OK   9 blind lesing W3040771904 i budskap.tsv
+- OK   9 blind lesing W3122038036 i budskap.tsv
+- OK   9 blind lesing W3122111607 i budskap.tsv
+- OK   9 blind lesing W3122634514 i budskap.tsv
+- OK   9 blind lesing W3123278655 i budskap.tsv
+- OK   9 blind lesing W3125477331 i budskap.tsv
+- OK   9 blind lesing W3125528164 i budskap.tsv
+- OK   9 blind lesing W3125893180 i budskap.tsv
+- OK   9 blind lesing W3126028820 i budskap.tsv
+- OK   9 blind lesing W3172039849 i budskap.tsv
+- OK   9 blind lesing W4293238630 i budskap.tsv
+- OK   9 blind lesing W4297975373 i budskap.tsv
+- OK   9 blind lesing W4298168113 i budskap.tsv
+- OK   9 blind lesing W4300080070 i budskap.tsv
+- OK   9 blind lesing W4386002685 i budskap.tsv
+- OK   9 blind lesing W4389284747 i budskap.tsv
+- OK   9 blind lesing W4408790921 i budskap.tsv
+- OK   9 blind lesing W4414256612 i budskap.tsv
+- OK   9 blind lesing W4415122073 i budskap.tsv
+- OK   9 blind lesing W7115094906 i budskap.tsv
+- OK   9 blind lesing W7115375317 i budskap.tsv
+- OK   9 blind lesing W7135822413 i budskap.tsv
+- OK   9 blind lesing W7139837664 i budskap.tsv
+- OK   9 blind lesing W7142083991 i budskap.tsv
+- OK   9 blind lesing W7203954346 i budskap.tsv

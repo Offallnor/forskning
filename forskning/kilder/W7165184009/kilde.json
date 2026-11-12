@@ -1,0 +1,26 @@
+{
+ "apen_url": "https://link.springer.com/content/pdf/10.1007/s10926-026-10410-x.pdf",
+ "ar": 2026,
+ "doi": "https://doi.org/10.1007/s10926-026-10410-x",
+ "forfattere": [
+  "Allard Willem de Smalen",
+  "Jantine M Maarleveld",
+  "George B Burchell",
+  "Maaike A. Huysmans",
+  "Trees T. Juurlink",
+  "Aartjan T.F. Beekman",
+  "Johannes R. Anema",
+  "Roosmarijn M. C. Schelvis"
+ ],
+ "hentet": "2026-11-09",
+ "hentet_fra": "https://link.springer.com/content/pdf/10.1007/s10926-026-10410-x.pdf",
+ "hvordan": "pdf",
+ "id": "W7165184009",
+ "kilde": "Journal of Occupational Rehabilitation",
+ "lenke": "https://openalex.org/W7165184009",
+ "merknad": "",
+ "oversikt": true,
+ "sammendrag": "PURPOSE: To synthesize the evidence regarding the effectiveness of the participatory approach (PA) on return to work (RTW) of sick-listed workers compared to usual care and other interventions. METHODS: A systematic review and meta-analysis were conducted according to the PRISMA guidelines, searching five databases for evidence from their inception until February 2025. Studies were eligible for inclusion if they included sick-listed workers, conducted a PA intervention at the workplace focused on RTW, and included a comparison group. Data on RTW, health, and economic outcomes were extracted, and the quality of the studies was appraised. Data on time until full and lasting RTW were pooled, and a meta-analysis was conducted, followed by an assessment of the certainty of the evidence. RESULTS: Eight randomized controlled trials reported across 14 papers were included. Half of the studies had a good quality score, whereas the remaining studies were considered of poor (n = 3) or fair (n = 1) quality. While no significant overall effect of the PA on time until full and lasting RTW was found, a statistically significant effect in favor of the PA was observed among sick-listed workers with low back pain (LBP) compared to control conditions. CONCLUSION: The evidence provides moderate certainty that the PA is effective in reducing time to full and lasting RTW for sick-listed workers with LBP compared to usual care. However, for workers sick-listed due to mental health conditions or mixed health complaints, the evidence does not support its effectiveness, and the certainty of this evidence is very low. More high-quality research and realist evaluations across different settings and populations are needed to strengthen the evidence on the PA as an RTW intervention and to explain its underlying working mechanisms.",
+ "tittel": "Effectiveness of the Participatory Approach on Return-to-Work of Sick-Listed Workers: A Systematic Review and Meta-analysis",
+ "type": "review"
+}

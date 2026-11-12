@@ -1,0 +1,85 @@
+id	del	kategori	begrunnelse
+AV-2015-1-03	A	1	Navs registeranalyse av unge uføre 18–29 år fra 1977 til 2013, med 18–19-åringer og diagnosesammensetning.
+AV-2015-3-07	A	1	Navs sammenligning av AAP med forløperne viser flere 18–19-åringer og svakere arbeidstilknytning blant de yngste nye mottakerne.
+AV-2018-2-04	A/B	1	Navs analyse av veksten i unge uføre 2006–2016, med tidsbegrenset uførestønad slått sammen og bidrag fra regelverk, helse og demografi.
+AV-2021-1-06	A	1	Navs analyse av midlertidige helseytelser til unge viser at AAP-veksten etter 2010 delvis er et bytte fra sykepenger.
+AV-2022-3-05	A	1	Navs analyse av fylkesforskjeller i andelen unge uføre over ti år, med betydningen av flytting.
+AV-2023-1-01	A/B	4	Navs dekomponering av den sterke uføreveksten blant unge 2014–2019, knyttet til makstid på AAP.
+AV-2023-2-07	A	1	Navs registeranalyse av overgangen fra AAP til uføretrygd blant unge, med 60 prosent av 18–19-åringene uføre innen ti år.
+AV-2022-2-02	B	3	Navs sammenligning av AAP-kull rett før og etter kortere makstid i 2018 viser raskere overgang til uføretrygd (ikke egne tall for unge i sammendraget).
+KU-0f48445c-a1ae-4bb3-9044-392a7c1c2cb2	A/B	1	Oslo Economics og Frischsenteret, registerstudie av psykiske lidelser, diagnostisering og skole-, arbeids- og trygdehistorikk blant unge uføre (samme rapport som KU-c48cd033).
+KU-0b622b9b-b781-4abb-b822-b58ff06c218d	B	1	Kunnskapsoppsummering om psykiske helseproblemer, endret diagnosepraksis og uførhet blant unge 15–30 år (delrapport til KU-0f48445c).
+KU-760de028-a79e-4384-8d4c-b95617f70198	A	1	Registeranalyse av unge mottakere av helserelaterte ytelser 1992–2012, med stabil andel unge uføre og vekst i midlertidige ytelser (samme prosjekt som KU-e03ee3a6).
+0198cc84729b-a09bd70a-765d-4bbb-a164-84a96be028c2	A	1	NORCE-rapport med registertall for NEET-unge 2015–2021 etter sentralitet, inkludert andelen unge på uføretrygd.
+0198cc6807e2-495c59a4-4634-4804-a81a-fc8a87b29783	A	1	Artikkel om unge på AAP, sen avklaring og overgang videre (vurdert på tittel, uten sammendrag).
+0198f22710a7-9891d74a-fefc-44a0-927c-96a4a3d8525a	B	4	Masteroppgave med Blinder-Oaxaca-dekomponering av uførerisikoen for unge voksne 1996 mot 2019 (samme materiale som 0198cc84de22).
+01999f35b1ef-206f9791-8599-4806-b338-7a2f7d3eb219	B	5	Masteroppgave om årsaker til veksten i unge uføre 2009–2018, helse mot forskyvning mellom forsørgelsesformer.
+019909c23973-ea65712e-ebc7-454b-b8df-def7f6bf6e87	B	5	Masteroppgave med microdata.no for kullene 1984, 1987 og 1990 om vitnemål fra videregående og senere uføretrygd.
+019c9524cfcc-39907780-0d56-4239-9b5d-80237da5e2eb	B	5	Masteroppgave om sosial klasse og mottak av uføretrygd og AAP som ung.
+0198f20c8215-28864d36-ea09-448e-bff0-7b399d5fdb09	B	5	Masteroppgave om endring i unge voksnes risiko for helserelaterte ytelser 1994–2013 etter kjønn, utdanning og sosial bakgrunn.
+W4220875817	A/B	1	Registerstudie av forløp inn i uføretrygd for unge i Norge 1993–2014 og om sammensetningen endret seg over tid.
+W4385349285	A/B	1	Registerstudie av helserelaterte forløp for unge 23–27 år 2004–2019 før og etter NAV-reformen.
+W2996526052	A	1	OECD Investing in Youth: Norway, med registeranalyse av utsatte unge, NEET og helserelaterte ytelser.
+W4400713382	A/B	2	OECD-analyse om at reformene i Norge ikke har økt avgangen fra uføreytelser blant unge (vurdert på tittel).
+W4400638309	A	2	OECD Society at a Glance med harmoniserte tall for unge 16–29 år på uføreytelser på tvers av land.
+W1967551067	A	2	ISFs sammenligning av unge voksne på uføreytelser i sju land, blant dem Norge, Sverige og Danmark (samme materiale som W2588864191).
+W2907116799	A/B	2	Nordisk sammenligning av andelen unge uføre og reformer i sosialpolitikken for unge med funksjonsnedsettelse.
+W4255043211	A	1	OECD Mental Health and Work om unge dansker med psykiske lidelser og tidlig utgang via førtidspension.
+W4250193163	A	1	OECD Mental Health and Work om unge i Sverige, psykisk uhelse og overgangen til arbeid og aktivitetsersättning.
+R-f593e550d1	A	1	Arbejdsmarkedsstyrelsens tendensrapport for førtidspension i Danmark 2013 (vurdert på tittel og kilde).
+R-91a7b6c512	B	3	Dansk analyse av effektene av førtidspensionsreformen 2013 for kontanthjælpsmodtagere under 40 år (vurdert på tittel og kilde).
+W7225199481	B	3	Trippel-differanse-analyse av den danske førtidspensionsreformen 2013, som stengte førtidspension for de fleste under 40 år.
+R-f51590820c	A	1	Försäkringskassans redovisning om unga med aktivitetsersättning 2025 (vurdert på tittel og kilde).
+LI-2p1tj1bb021gf9tl	A	1	Rapport om unga vuxna med aktivitetsersättning 2022 (vurdert på tittel).
+LI-12735054	A	1	ISF-rapport om utviklingen i aktivitetsersättning fra forlenget skolegang til nedsatt arbeidsevne (vurdert på tittel).
+LI-21074768	A	1	ISF-rapport om hva som skjer med unge som har aktivitetsersättning til 30 år (samme som LI-22449287).
+LI-18267927	A/B	1	Riksrevisionens granskning av aktivitetsersättning (vurdert på tittel).
+LI-jsvt6zbggtpn48tm	A	1	Försäkringskassans socialförsäkringsrapport 2018:7 om utviklingen over tid i aktivitetsersättning ved forlenget skolegang.
+LI-20838348	A	1	Försäkringskassans redovisning om nybevilgning av sjuk- og aktivitetsersättning (samme som LI-jw5gmz79g1l7d1qz).
+LI-2fvbzlwd07lpr35w	B	5	ISF 2020:9 om årsakene til økningen i andelen avslag på aktivitetsersättning, praksis og regelverk i Sverige.
+LI-dscdbdnmbgc4xw3q	B	5	ISF-analyse av hvordan det går med unge som får avslag på aktivitetsersättning.
+LI-hrb386vdffl0s7kh	B	5	Försäkringskassans oppfølging av reformene for mer tydelighet og aktivitet i sjuk- og aktivitetsersättningen.
+LI-bqr13wbr8sq6510q	A	1	SOU 2021:69 om sjukförsäkringen, med statistikk og vurdering av aktivitetsersättningen (vurdert på tittel).
+W1711011686	A	1	Bokkapittel om unge og sosial eksklusjon i Sverige, med egen del om aktivitetsersättning.
+W4323066482	A/B	1	Svenske registerkull 2004, 2009 og 2014 av sysselsatte 19–29 år viser periodeeffekter i arbeidsuførhet på grunn av vanlige psykiske lidelser (samme som W4307384493).
+W2929109866	B	5	Stockholm-kull 2000–2007 om sammenhengen mellom svake skoleresultater og uføreytelse på grunn av psykiske lidelser over tid.
+W2124446614	B	5	Hele den svenske mannlige befolkningen 1951–1976 om lav IQ som stadig mindre viktig risikofaktor for uførepensjon før 30 år.
+W2104893223	B	3	Tilfeldig fordeling av ankedommere i Norge viser årsakssammenheng mellom foreldres og voksne barns uføretrygd (familiebakgrunn).
+W2786011848	B	3	Nederlandsk reform og regresjonsdiskontinuitet viser at strengere uførevilkår for foreldre reduserer barnas senere uføretrygd.
+W2053116589	B	4	Norske registerdata om overføring av uføretrygd mellom foreldre og barn.
+W3123524712	B	4	Norske registerdata med grenseestimater for årsakseffekten av foreldres trygdemottak på barnas.
+W2972949925	B	3	Norsk studie med kommunal variasjon i hvor strengt unge vurderes til midlertidig uføreytelse som instrument for senere arbeidstilknytning.
+W604728786	B	3	Norsk skolereform (7 til 9 års obligatorisk skole) brukt til å teste om utdanning påvirker uføretrygd.
+W2280936789	B	3	Dansk skolereform brukt til å teste årsakseffekten av utdanning på førtidspension.
+W2160015399	B	4	HUNT med søskensammenligning om angst og depresjon i ungdommen og senere helserelaterte ytelser.
+W2142502944	B	4	Norske unge voksne tvillinger om genetiske og miljømessige bidrag til langtidssykefravær og uføretrygd.
+W2628418572	B	4	Svensk tvillingstudie (TCHAD) om atferdsproblemer i barndom og ungdom og arbeidsuførhet som ung voksen.
+W2555590515	B	4	Svensk tvillingstudie med uenige tvillingpar om depresjon i sen ungdom og senere arbeidsuførhet.
+W3186518967	B	4	Svensk registerstudie med søskensammenligning av ADHD hos unge voksne og senere uførepensjon og marginalisering.
+W2127924530	B	5	Young-HUNT om frafall i videregående og langtidssykefravær og uføretrygd ved 24–29 år, justert med propensity score.
+W2126669756	B	5	Young-HUNT om selvopplevd helse, frafall og helserelaterte ytelser som ung voksen.
+W2524187003	B	5	Young-HUNT om dårlig helse i ungdommen og senere langtidssykefravær og uføretrygd.
+W4416980659	B	5	Young-HUNT1 og 3 om psykiske plager og kroniske smerter i ungdommen og uføretrygd før og etter NAV-reformen.
+W2102173634	B	5	HUNT om helserelaterte ytelser hos unge og foreldrene deres, med familiens helse og sosioøkonomi.
+W2806250080	B	5	Norsk registerutvalg 21–40 år om frafall, kommunale forhold og tidlig uføretrygd (samme materiale som W2588583895).
+W3138453033	B	5	Alle nordmenn født 1990–1996 om somatisk sykdom i ungdommen, fullført videregående, NEET og uføretrygd.
+W2799704878	B	5	Alle norske menn født 1971–1976 om betydningen av fullført videregående for arbeid, sykefravær og uføretrygd.
+W4366083399	B	5	Norsk registerstudie om depresjon i midten av 20-årene og senere marginalisering og uføretrygd, etter utdanning.
+W831010901	B	5	Norsk studie av uføretrygd blant unge voksne i yrkesrettet attføring (vurdert på tittel).
+W3138005625	B	5	Svensk register over elever fra grunnskolen 1998–2008 om ADHD, utdanning, utviklingsforstyrrelser og senere arbeids- og ytelsesutfall.
+W3007697702	B	5	Svensk registerstudie om ADHD, autisme og lærevansker hos unge voksne og risiko for uførepensjon.
+W3015075737	B	5	Svensk registerstudie om ledighetsforløp og tidlig uførepensjon blant unge med og uten autisme.
+W3173764865	B	5	Svensk registerstudie om risikofaktorer for uførepensjon blant unge voksne med ADHD.
+W2682847430	B	5	Alle i Sverige 20–35 år om psykiske lidelser og senere uførepensjon, sykefravær og ledighet.
+W2142283858	B	5	Svensk registerstudie om ledighet i ung alder og senere uførepensjon.
+W1879173524	B	5	Svensk nasjonal kohort 1973–1978 om barnevernsbakgrunn og uførepensjon, med dekomponering der skoleresultater forklarer mest.
+W2565342289	B	5	Svensk nasjonal kohort om belastninger i barndommen, også foreldres uførepensjon, og egen uførepensjon.
+W3008504633	B	5	Alle født i Sverige 1973–1977 om forhold ved fødselen og tidlig uførepensjon.
+W4380682672	B	5	Svensk registerstudie om tenåringsforeldre og tidlig uførepensjon.
+W4386765474	B	5	Svensk nasjonal kohort om barn av foreldre med alvorlige psykiske lidelser og senere marginalisering i arbeidslivet.
+W3119591123	B	5	Socialstyrelsens registerstudie av unge med nydiagnostisert depresjon og angst og konsekvenser ti år etter.
+W2898795531	B	5	Finsk fødselskohort 1987 om forhold i barndommen og tidlig uførepensjon på grunn av psykiske lidelser.
+W2474370062	B	5	Finsk registerkohort om sosiale belastninger i ungdommen og uførepensjon som ung voksen, med utdanning og arbeid som mekanismer.
+W2955853013	B	5	Finsk registerstudie om foreldres ressurser og uførepensjon som ung voksen.
+W2896341344	B	5	Finsk fødselskohort 1987 om foreldres psykiske lidelser og barnas arbeidsuførhet på grunn av depresjon eller angst.
+W2791106760	B	5	Finsk registerutvalg født 1983–1985 om ledighet og arbeidsuførhet på grunn av psykiske lidelser, seleksjon eller årsak.

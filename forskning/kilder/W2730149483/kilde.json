@@ -1,0 +1,20 @@
+{
+ "apen_url": "https://doi.org/10.17016/feds.2017.068",
+ "ar": 2017,
+ "doi": "https://doi.org/10.17016/feds.2017.068",
+ "forfattere": [
+  "Andrew Figura",
+  "David Ratner"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "https://www.federalreserve.gov/econres/feds/files/2017068pap.pdf",
+ "hvordan": "pdf",
+ "id": "W2730149483",
+ "kilde": "Finance and Economics Discussion Series",
+ "lenke": "https://openalex.org/W2730149483",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "This paper presents estimates of the effect of unemployment benefit extensions during the Great Recession on unemployment and labor force participation. Unlike many recent studies of this subject, our estimates, following the work of Hagedorn, Karahan, Manovskii, and Mitman (2016), are inclusive of the effects of benefit extensions on employer, as well as, worker behavior. To identify the effect of benefit extensions, we use plausibly exogenous changes in the rules governing benefit extensions and their differential effects on the maximum duration of benefits across states. We find that the effect of benefit extensions is likely modest, with a 90 percent confidence interval of the effect on the unemployment rate ranging from 0 to ½ percentage point.",
+ "tittel": "How Large were the Effects of Emergency and Extended Benefits on Unemployment during the Great Recession and its Aftermath?",
+ "type": "article"
+}

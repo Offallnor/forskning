@@ -1,0 +1,24 @@
+{
+ "apen_url": "https://link.springer.com/content/pdf/10.1007/s10926-009-9162-7.pdf",
+ "ar": 2009,
+ "doi": "https://doi.org/10.1007/s10926-009-9162-7",
+ "forfattere": [
+  "Ute Bültmann",
+  "David Sherson",
+  "Jens Olsen",
+  "Carl Lysbeck Hansen",
+  "Thomas Lund",
+  "Jørgen Kilsgaard"
+ ],
+ "hentet": "2026-11-09",
+ "hentet_fra": "https://link.springer.com/content/pdf/10.1007/s10926-009-9162-7.pdf",
+ "hvordan": "pdf",
+ "id": "W2129322795",
+ "kilde": "Journal of Occupational Rehabilitation",
+ "lenke": "https://openalex.org/W2129322795",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "INTRODUCTION: In Denmark, the magnitude and impact of work disability on the individual worker and society has prompted the development of a new \"coordinated and tailored work rehabilitation\" (CTWR) approach. The aim of this study was to compare the effects of CTWR with conventional case management (CCM) on return-to-work of workers on sick leave due to musculoskeletal disorders (MSDs). METHODS: The study was a randomized controlled trial with economic evaluation undertaken with workers on sick leave for 4-12 weeks due to MSDs. CTWR consists of a work disability screening by an interdisciplinary team followed by the collaborative development of a RTW plan. The primary outcome variable was registered cumulative sickness absence hours during 12 months follow-up. Secondary outcomes were work status as well as pain intensity and functional disability, measured at baseline, 3 and 12 months follow-up. The economic evaluation (intervention costs, productivity loss, and health care utilization costs) was based on administrative data derived from national registries. RESULTS: For the time intervals 0-6 months, 6-12 months, and the entire follow-up period, the number of sickness absence hours was significantly lower in the CTWR group as compared to the control group. The total costs saved in CTWR participants compared to controls were estimated at US $ 1,366 per person at 6 months follow-up and US $ 10,666 per person at 12 months follow-up. CONCLUSIONS: Workers on sick leave for 4-12 weeks due to MSD who underwent \"CTWR\" by an interdisciplinary team had fewer sickness absence hours than controls. The economic evaluation showed that-in terms of productivity loss-CTWR seems to be cost saving for the society.",
+ "tittel": "Coordinated and Tailored Work Rehabilitation: A Randomized Controlled Trial with Economic Evaluation Undertaken with Workers on Sick Leave Due to Musculoskeletal Disorders",
+ "type": "article"
+}

@@ -1,0 +1,18 @@
+{
+ "apen_url": "http://lup.lub.lu.se/student-papers/record/4462752",
+ "ar": 2014,
+ "forfattere": [
+  "Fredrik Paulsson"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "https://lup.lub.lu.se/student-papers/record/4462752/file/4464983.pdf",
+ "hvordan": "pdf",
+ "id": "W860717682",
+ "kilde": "Lund University Publications Student Papers (Lund University)",
+ "lenke": "https://openalex.org/W860717682",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "År 2007 genomfördes flera omfattande reformer av den svenska arbetslöshetsförsäkringen. Med ett stort datamaterial över alla ersättningstagare i Sverige gör jag först en deskriptiv analys av de generella förändringarna mellan år 2006-2012 och av vilka förändringar som skulle kunna bero på 2007 års reformer. Sedan gör jag en kausal analys där jag med hjälp av en OLS-estimering med Difference-in-Difference-utformning undersöker om sänkningen av maxersättningen från 730 kronor till 680 kronor i dagpenning gav kortare ersättningstider för individer med maxersättning. Mitt resultat är att ersättningstiden i genomsnitt blev 9,34 ersättningsdagar kortare för individer med maxersättning efter 2007 års reform jämfört med före reformen. Även om inte hela denna minskning beror på sänkningen av maxersättningen så verkar i alla fall en betydande del av minskningen kunna förstås som en kausal effekt av den sänkta maxersättningen.",
+ "tittel": "Ger lägre arbetslöshetsersättning kortare ersättningstider",
+ "type": "dissertation"
+}

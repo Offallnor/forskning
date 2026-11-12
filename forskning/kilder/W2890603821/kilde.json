@@ -1,0 +1,16 @@
+{
+ "apen_url": "https://doi.org/10.3386/w12618",
+ "ar": 2006,
+ "doi": "https://doi.org/10.3386/w12618",
+ "forfattere": [
+  "Robert J. Shimer",
+  "Iván Werning"
+ ],
+ "id": "W2890603821",
+ "kilde": "National Bureau of Economic Research",
+ "lenke": "https://openalex.org/W2890603821",
+ "oversikt": false,
+ "sammendrag": "This paper argues that a risk-averse worker's after-tax reservation wage encodes all the relevant information about her welfare.This insight leads to a novel test for the optimality of unemployment insurance based on the responsiveness of reservation wages to unemployment benefits.Some existing estimates imply significant gains to raising the current level of unemployment benefits in the United States, but highlight the need for more research on the determinants of reservation wages.Our approach complements those based on Baily's (1978) test.",
+ "tittel": "Reservation Wages and Unemployment Insurance",
+ "type": "report"
+}

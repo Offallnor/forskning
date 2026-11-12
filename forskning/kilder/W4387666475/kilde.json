@@ -1,0 +1,18 @@
+{
+ "apen_url": "https://doi.org/10.3386/w31784",
+ "ar": 2023,
+ "doi": "https://doi.org/10.3386/w31784",
+ "forfattere": [
+  "Miguel Acosta",
+  "Andreas I. Mueller",
+  "Emi Nakamura",
+  "Jón Steinsson"
+ ],
+ "id": "W4387666475",
+ "kilde": "National Bureau of Economic Research",
+ "lenke": "https://openalex.org/W4387666475",
+ "oversikt": false,
+ "sammendrag": "We study the macroeconomic effects of unemployment insurance (UI) benefit extensions in the United States at short and long durations.To do this, we develop a new state level dataset on trigger variables for UI extensions and a \"UI benefit calculator\" based on detailed legislative and administrative sources spanning five decades.Our identification approach exploits variation across states in the options governing the Extended Benefits program.We find that UI extensions during time periods when UI benefit durations are already long-such as in the Great Recession -have minimal effects.However, UI extensions when initial durations are shorter have substantial effects on the unemployment rate and the number of people receiving UI.Through the lens of a search-and-matching model, we show that our estimates are consistent with microeconomic estimates of the duration elasticity to UI, implying small general equilibrium effects of UI extensions.",
+ "tittel": "Macroeconomic Effects of UI Extensions at Short and Long Durations",
+ "type": "report"
+}

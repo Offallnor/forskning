@@ -1,0 +1,24 @@
+{
+ "apen_url": "https://link.springer.com/content/pdf/10.1186/s12995-026-00497-6.pdf",
+ "ar": 2026,
+ "doi": "https://doi.org/10.1186/s12995-026-00497-6",
+ "forfattere": [
+  "Melanie Schubert",
+  "Ulrich Bolm‐Audorff",
+  "Andersen Jh",
+  "Gabriela Petereit-Haack",
+  "David Reißig",
+  "Andreas Seidler"
+ ],
+ "hentet": "2026-11-08",
+ "hentet_fra": "https://link.springer.com/content/pdf/10.1186/s12995-026-00497-6.pdf",
+ "hvordan": "pdf",
+ "id": "W7128726718",
+ "kilde": "Journal of Occupational Medicine and Toxicology",
+ "lenke": "https://openalex.org/W7128726718",
+ "merknad": "",
+ "oversikt": true,
+ "sammendrag": "PURPOSE: The purpose of this scoping review was to summarise recent literature on labour inspections carried out by government authorities and accident insurance organisations, and their impact on workers’ health and safety. METHODS: A scoping review was conducted to investigate the effect of occupational safety and health (OSH) inspectorate interventions on occupational safety and health. The methodical approach was based on a previous systematic review on the effect of inspections on OSH. Literature searches were performed in PubMed, Web of Science and NIOSHTIC-2, complemented by screening of reference lists of the included full texts and topic-relevant reviews and a forward search in Google Scholar. Additionally, OSH authorities and accident insurance institutions in Germany, as well as the EU-OSHA national focal points were asked to submit reports on OSH inspections. Furthermore, the ‘grey’ literature search was extended to publications from the federal governments in Germany, Austria and Switzerland. Findings were extracted and combined with studies from the above-mentioned systematic review for meta-analysis. The study protocol with the methodological procedure was registered on Open Science Framework ( https://osf.io/gy2u6/ ). RESULTS: A total of 37 publications from Europe and North America on the effect of OSH inspections by government authorities were included in the study. Most of the studies examined the effect of labour inspections on (fatal and non-fatal) injuries at work, as well as the implementation of safety measures and compliance with legal requirements. The results of the individual studies generally indicate a protective effect of labour inspections on work-related injuries and compliance, but the results regarding compensation claims were heterogenous. In addition, pooled risk estimates from meta-analyses indicate that inspected workplaces had a lower risk of work-related injuries (relative risk (RR) = 0.75, 95% CI 0.57–0.97) and of non-compliance with workplace safety rules (RR = 0.68, 95% CI 0.45–1.01) compared with non-inspected workplaces. CONCLUSIONS: Our results reinforce the findings of previous reviews that inspections are effective in reducing work-related injuries. Thus, inspections are important for promoting and improving occupational health and safety.",
+ "tittel": "Scoping review on the effect of labour inspections on occupational health and safety: a meta-analytic update",
+ "type": "review"
+}

@@ -1,0 +1,18 @@
+{
+ "apen_url": "https://dspace.library.uu.nl/handle/1874/14986",
+ "ar": 2005,
+ "forfattere": [
+  "Pierre W. C. Koning"
+ ],
+ "hentet": "før 2026-11-08",
+ "hentet_fra": "https://www.cpb.nl/system/files/cpbmedia/publicaties/download/estimating-impact-experience-rating-inflow-disability-insurance-netherlands.pdf",
+ "hvordan": "pdf",
+ "id": "W2131859699",
+ "kilde": "RePEc: Research Papers in Economics",
+ "lenke": "https://openalex.org/W2131859699",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "This paper examines the effects of experience rating on the inflow into disability insurance (DI) in the Netherlands, using unique longitudinal administrative data from the Dutch social benefit administration for the years 2000-2002. This paper examines the effects of experience rating on the inflow into disability insurance (DI) in the Netherlands, using unique longitudinal administrative data from the Dutch social benefit administration for the years 2000-2002. We follow a difference-in-differences approach to identify the impact of changes in DI premiums. In particular, due to unawareness of the experience rating system, employers seem to have been triggered to increase preventative activities, once they have experienced increases in DI premium ('ex post incentives'). We find the impact of experience rating to be substantial, amounting to a 15% reduction of the inflow into DI. This finding is robust with respect to various alternative specification alternatives. We conclude that the decision of employers to increase preventative activities seems mainly an issue of being aware of the experience rating incentive.",
+ "tittel": "Estimating the Impact of Experience Rating on the Inflow into Disability Insurance in the Netherlands",
+ "type": "preprint"
+}

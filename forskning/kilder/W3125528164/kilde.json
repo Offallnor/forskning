@@ -1,0 +1,19 @@
+{
+ "apen_url": "https://docs.iza.org/dp9742.pdf",
+ "ar": 2016,
+ "forfattere": [
+  "Nynke de Groot",
+  "Pierre W. C. Koning"
+ ],
+ "hentet": "før 2026-11-08",
+ "hentet_fra": "https://docs.iza.org/dp9742.pdf",
+ "hvordan": "pdf",
+ "id": "W3125528164",
+ "kilde": "RePEc: Research Papers in Economics",
+ "lenke": "https://openalex.org/W3125528164",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "Experience rated Disability Insurance (DI) premiums are often advocated as a means to stimulate firms to reduce DI inflow and increase DI outflow. To assess the size of these intended effects of experience rating, this study provides an empirical analysis of the effects of DI experience rating in the Netherlands. We use a difference-in-difference approach with administrative matched firm and worker data that exploits the removal of experience rating for small firms in 2003 and 2004. According to our results, removing experience rating caused an increase of DI inflow of about 7% for small firms, while DI outflow decreased by 12% as a result of the reform. We argue that these effects were largely confined to the sickness period that preceded the DI claims assessment, as well as the first year of DI benefit receipt.",
+ "tittel": "Assessing the Effects of Disability Insurance Experience Rating: The Case of the Netherlands",
+ "type": "preprint"
+}

@@ -1,0 +1,26 @@
+{
+ "apen_url": "https://doi.org/10.1007/s10926-021-09970-x",
+ "ar": 2021,
+ "doi": "https://doi.org/10.1007/s10926-021-09970-x",
+ "forfattere": [
+  "Johanna Kausto",
+  "Tuula Oksanen",
+  "Aki Koskinen",
+  "Jaana Pentti",
+  "Pauliina Mattila‐Holappa",
+  "Leena Kaila‐Kangas",
+  "Nina Nevala",
+  "Mika Kivimaki B"
+ ],
+ "hentet": "2026-11-09",
+ "hentet_fra": "https://www.utupub.fi/bitstreams/76627baf-d296-4857-96b0-693dc3433b98/download",
+ "hvordan": "pdf",
+ "id": "W3146838699",
+ "kilde": "Journal of Occupational Rehabilitation",
+ "lenke": "https://openalex.org/W3146838699",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "Abstract Purpose Employers increasingly use ‘return to work’ (RTW) coordinators to support work ability and extend working careers, particularly among employees with reduced work ability. We examined whether applying this model was associated with changes in employee sickness absence and disability retirements. Methods We used data from the Finnish Public Sector study from 2009 until 2015. Employees where the model was introduced in 2012 constituted the cases (n = 4120, one municipality) and employees where the model was not in use during the follow-up, represented the controls (n = 5600, two municipalities). We analysed risk of disability retirement in 2013–2015 and risk of sickness absence after (2013–2015) vs. before (2009–2011) intervention by case–control status. Results The incidence of disability retirement after the intervention was lower in cases compared to controls both in the total population (hazard ratio HR = 0.49, 95% CI 0.30–0.79) and in the subgroup of participants with reduced work ability (HR = 0.34, 95% CI 0.12–0.99). The risk of sickness absence increased from pre-intervention to post-intervention period both among cases and controls although the relative increase was greater among cases (RRpost- vs. pre-intervention = 1.26, 95% CI 1.14–1.40) than controls (RRpost- vs. pre-intervention = 1.03, 95% CI 0.97–1.08). In the group of employees with reduced work ability, no difference in sickness absence trends between cases and controls was observed. Conclusions These findings suggest that RTW-coordinator model may increase employee sickness absence, but decrease the risk of disability retirement, i.e., permanent exclusion from the labour market.",
+ "tittel": "‘Return to Work’ Coordinator Model and Work Participation of Employees: A Natural Intervention Study in Finland",
+ "type": "article"
+}

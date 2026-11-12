@@ -1,0 +1,3175 @@
+# Kontroll: ips-arbeid
+
+Kjørt 2026-11-09.
+
+0 feil av 3169 kontroller.
+
+- OK   1 kilde 0198cc7f9af9-06c4fc37-40b7-4fc9-91df-6bbf79ea07ae finnes
+- OK   1 kilde AV-2021-2-03 finnes
+- OK   1 kilde FI-uef.9915208111505966 finnes
+- OK   1 kilde KU-7dc2d886-f49c-4f6c-bb44-20be6225f058 finnes
+- OK   1 kilde LI-21150545 finnes
+- OK   1 kilde NB-6618 finnes
+- OK   1 kilde W1498833145 finnes
+- OK   1 kilde W1797793633 finnes
+- OK   1 kilde W1970238684 finnes
+- OK   1 kilde W1996383920 finnes
+- OK   1 kilde W2003569369 finnes
+- OK   1 kilde W2093242322 finnes
+- OK   1 kilde W2124049088 finnes
+- OK   1 kilde W2128048144 finnes
+- OK   1 kilde W2139568741 finnes
+- OK   1 kilde W2150078125 finnes
+- OK   1 kilde W2166061916 finnes
+- OK   1 kilde W2167890993 finnes
+- OK   1 kilde W2318621877 finnes
+- OK   1 kilde W2338814622 finnes
+- OK   1 kilde W2344919484 finnes
+- OK   1 kilde W2603183128 finnes
+- OK   1 kilde W2617951239 finnes
+- OK   1 kilde W2738957630 finnes
+- OK   1 kilde W2757770936 finnes
+- OK   1 kilde W2792496846 finnes
+- OK   1 kilde W2885000375 finnes
+- OK   1 kilde W2887225311 finnes
+- OK   1 kilde W2893792582 finnes
+- OK   1 kilde W2915389400 finnes
+- OK   1 kilde W2917050602 finnes
+- OK   1 kilde W2948462152 finnes
+- OK   1 kilde W2971662801 finnes
+- OK   1 kilde W2987143591 finnes
+- OK   1 kilde W3092528766 finnes
+- OK   1 kilde W3096880123 finnes
+- OK   1 kilde W3117173428 finnes
+- OK   1 kilde W3118340329 finnes
+- OK   1 kilde W3128265002 finnes
+- OK   1 kilde W3129101132 finnes
+- OK   1 kilde W3196725163 finnes
+- OK   1 kilde W3206158820 finnes
+- OK   1 kilde W3206833498 finnes
+- OK   1 kilde W4214760378 finnes
+- OK   1 kilde W4285039391 finnes
+- OK   1 kilde W4292326324 finnes
+- OK   1 kilde W4367311571 finnes
+- OK   1 kilde W4390697352 finnes
+- OK   1 kilde W4391244179 finnes
+- OK   1 kilde W4392558137 finnes
+- OK   1 kilde W4399488791 finnes
+- OK   1 kilde W4405813061 finnes
+- OK   1 kilde W4410133250 finnes
+- OK   1 kilde W4412642570 finnes
+- OK   1 kilde W7113154702 finnes
+- OK   1 kilde W7133481736 finnes
+- OK   1 kilde W7134921695 finnes
+- OK   1 kilde W7165951382 finnes
+- OK   1 kilde W7196951041 finnes
+- OK   1 kilde W7224236002 finnes
+- OK   1 estimat-kilde 0198cc7f9af9-06c4fc37-40b7-4fc9-91df-6bbf79ea07ae finnes
+- OK   1 estimat-kilde 0198cc7f9af9-06c4fc37-40b7-4fc9-91df-6bbf79ea07ae finnes
+- OK   1 estimat-kilde 0198cc7f9af9-06c4fc37-40b7-4fc9-91df-6bbf79ea07ae finnes
+- OK   1 estimat-kilde 0198cc7f9af9-06c4fc37-40b7-4fc9-91df-6bbf79ea07ae finnes
+- OK   1 estimat-kilde 0198cc7f9af9-06c4fc37-40b7-4fc9-91df-6bbf79ea07ae finnes
+- OK   1 estimat-kilde W2128048144 finnes
+- OK   1 estimat-kilde W2128048144 finnes
+- OK   1 estimat-kilde W2128048144 finnes
+- OK   1 estimat-kilde W2128048144 finnes
+- OK   1 estimat-kilde W2338814622 finnes
+- OK   1 estimat-kilde W2338814622 finnes
+- OK   1 estimat-kilde W2338814622 finnes
+- OK   1 estimat-kilde W2915389400 finnes
+- OK   1 estimat-kilde W2915389400 finnes
+- OK   1 estimat-kilde W2915389400 finnes
+- OK   1 estimat-kilde W2915389400 finnes
+- OK   1 estimat-kilde W2915389400 finnes
+- OK   1 estimat-kilde W4285039391 finnes
+- OK   1 estimat-kilde W4285039391 finnes
+- OK   1 estimat-kilde W4285039391 finnes
+- OK   1 estimat-kilde W2987143591 finnes
+- OK   1 estimat-kilde W2987143591 finnes
+- OK   1 estimat-kilde W2987143591 finnes
+- OK   1 estimat-kilde W2139568741 finnes
+- OK   1 estimat-kilde W2139568741 finnes
+- OK   1 estimat-kilde W3196472652 finnes
+- OK   1 estimat-kilde W4200254443 finnes
+- OK   1 estimat-kilde W4200254443 finnes
+- OK   1 estimat-kilde W4200254443 finnes
+- OK   1 estimat-kilde W4200254443 finnes
+- OK   1 estimat-kilde W4399488791 finnes
+- OK   1 estimat-kilde W4399488791 finnes
+- OK   1 estimat-kilde W3096880123 finnes
+- OK   1 estimat-kilde W3096880123 finnes
+- OK   1 estimat-kilde W4292326324 finnes
+- OK   1 estimat-kilde W2892072419 finnes
+- OK   1 estimat-kilde W2892072419 finnes
+- OK   1 estimat-kilde W4399367522 finnes
+- OK   1 estimat-kilde W4205815576 finnes
+- OK   1 estimat-kilde W2909026143 finnes
+- OK   1 estimat-kilde W2607762772 finnes
+- OK   1 estimat-kilde W2607762772 finnes
+- OK   1 estimat-kilde W2799729481 finnes
+- OK   1 estimat-kilde W2889726967 finnes
+- OK   1 estimat-kilde W3132765184 finnes
+- OK   1 estimat-kilde W4398150491 finnes
+- OK   1 estimat-kilde W3096495837 finnes
+- OK   1 estimat-kilde W4295805873 finnes
+- OK   1 estimat-kilde W4295805873 finnes
+- OK   1 estimat-kilde W4295805873 finnes
+- OK   1 estimat-kilde W2169254240 finnes
+- OK   1 estimat-kilde W2141187495 finnes
+- OK   1 estimat-kilde W2141187495 finnes
+- OK   1 estimat-kilde W2757770936 finnes
+- OK   1 estimat-kilde W2886355266 finnes
+- OK   1 estimat-kilde W4304187576 finnes
+- OK   1 estimat-kilde W3133623578 finnes
+- OK   1 estimat-kilde W2989774084 finnes
+- OK   1 estimat-kilde W7162286458 finnes
+- OK   1 estimat-kilde W4417295653 finnes
+- OK   1 estimat-kilde W4205534066 finnes
+- OK   1 estimat-kilde W3159916837 finnes
+- OK   1 estimat-kilde W3159916837 finnes
+- OK   1 estimat-kilde W4416212496 finnes
+- OK   1 estimat-kilde W7133481736 finnes
+- OK   1 estimat-kilde W3045711097 finnes
+- OK   1 estimat-kilde W2230236165 finnes
+- OK   1 estimat-kilde W2230236165 finnes
+- OK   1 estimat-kilde W4200087634 finnes
+- OK   1 estimat-kilde W4310668870 finnes
+- OK   1 estimat-kilde W7196951041 finnes
+- OK   1 estimat-kilde W4411348671 finnes
+- OK   1 estimat-kilde W3048797249 finnes
+- OK   1 estimat-kilde W2120584572 finnes
+- OK   1 estimat-kilde W1989720116 finnes
+- OK   1 estimat-kilde W2000947529 finnes
+- OK   1 estimat-kilde W3126135182 finnes
+- OK   1 estimat-kilde W4283361204 finnes
+- OK   1 estimat-kilde W2543426274 finnes
+- OK   1 estimat-kilde W2723080911 finnes
+- OK   1 estimat-kilde W2887225311 finnes
+- OK   1 estimat-kilde W2887225311 finnes
+- OK   1 estimat-kilde W2603183128 finnes
+- OK   1 estimat-kilde W2603183128 finnes
+- OK   1 estimat-kilde W2603183128 finnes
+- OK   1 estimat-kilde W3118340329 finnes
+- OK   1 estimat-kilde W3118340329 finnes
+- OK   1 estimat-kilde W2948462152 finnes
+- OK   1 estimat-kilde W4412642570 finnes
+- OK   1 estimat-kilde W4412642570 finnes
+- OK   1 estimat-kilde W4412642570 finnes
+- OK   1 estimat-kilde W4412642570 finnes
+- OK   1 estimat-kilde W2885000375 finnes
+- OK   1 estimat-kilde W2885000375 finnes
+- OK   1 estimat-kilde W2885000375 finnes
+- OK   1 estimat-kilde W2167890993 finnes
+- OK   1 estimat-kilde W2167890993 finnes
+- OK   1 estimat-kilde W2167890993 finnes
+- OK   1 estimat-kilde W4214760378 finnes
+- OK   1 estimat-kilde AV-2021-2-03 finnes
+- OK   1 estimat-kilde AV-2021-2-03 finnes
+- OK   1 estimat-kilde W4367311571 finnes
+- OK   1 estimat-kilde W4367311571 finnes
+- OK   1 estimat-kilde W3129101132 finnes
+- OK   1 estimat-kilde W3129101132 finnes
+- OK   1 estimat-kilde W3117173428 finnes
+- OK   1 estimat-kilde W3117173428 finnes
+- OK   1 estimat-kilde KU-7dc2d886-f49c-4f6c-bb44-20be6225f058 finnes
+- OK   1 estimat-kilde KU-7dc2d886-f49c-4f6c-bb44-20be6225f058 finnes
+- OK   1 estimat-kilde KU-7dc2d886-f49c-4f6c-bb44-20be6225f058 finnes
+- OK   1 estimat-kilde W3196725163 finnes
+- OK   1 estimat-kilde KU-5951c80f-4243-478b-9743-76aa8f893b3e finnes
+- OK   1 estimat-kilde W7113154702 finnes
+- OK   1 estimat-kilde W4390697352 finnes
+- OK   1 estimat-kilde W4390697352 finnes
+- OK   1 estimat-kilde W4410120569 finnes
+- OK   1 estimat-kilde LI-21150545 finnes
+- OK   1 estimat-kilde FI-uef.9915208111505966 finnes
+- OK   1 estimat-kilde FI-uef.9915208111505966 finnes
+- OK   1 estimat-kilde FI-arto.019427806 finnes
+- OK   1 estimat-kilde W4220994326 finnes
+- OK   1 estimat-kilde W4308383004 finnes
+- OK   1 estimat-kilde W7165951382 finnes
+- OK   1 estimat-kilde W7165951382 finnes
+- OK   1 estimat-kilde W1970238684 finnes
+- OK   1 estimat-kilde W2971662801 finnes
+- OK   1 estimat-kilde W3128265002 finnes
+- OK   1 estimat-kilde W2617951239 finnes
+- OK   1 estimat-kilde W7224236002 finnes
+- OK   1 estimat-kilde W2784242610 finnes
+- OK   1 estimat-kilde W2166061916 finnes
+- OK   1 estimat-kilde W2166061916 finnes
+- OK   1 estimat-kilde W2166061916 finnes
+- OK   1 estimat-kilde W1797793633 finnes
+- OK   1 estimat-kilde W1797793633 finnes
+- OK   1 estimat-kilde W3206833498 finnes
+- OK   1 estimat-kilde W1996383920 finnes
+- OK   1 estimat-kilde W1996383920 finnes
+- OK   1 estimat-kilde W2148730259 finnes
+- OK   1 estimat-kilde W2148730259 finnes
+- OK   1 estimat-kilde W2148730259 finnes
+- OK   1 estimat-kilde W7110135164 finnes
+- OK   1 estimat-kilde W7110135164 finnes
+- OK   1 estimat-kilde W2955110386 finnes
+- OK   1 estimat-kilde W2955110386 finnes
+- OK   1 estimat-kilde W4392558137 finnes
+- OK   1 estimat-kilde W4392558137 finnes
+- OK   1 estimat-kilde W4392558137 finnes
+- OK   1 estimat-kilde W3092528766 finnes
+- OK   1 estimat-kilde W3092528766 finnes
+- OK   1 estimat-kilde W2141839834 finnes
+- OK   1 estimat-kilde W2141839834 finnes
+- OK   1 estimat-kilde W2142209734 finnes
+- OK   1 estimat-kilde W2893792582 finnes
+- OK   1 estimat-kilde W2893792582 finnes
+- OK   1 estimat-kilde W4410133250 finnes
+- OK   1 estimat-kilde W4410133250 finnes
+- OK   1 estimat-kilde W3206158820 finnes
+- OK   1 estimat-kilde W2153505289 finnes
+- OK   1 estimat-kilde W3207924573 finnes
+- OK   1 estimat-kilde W4391244179 finnes
+- OK   1 estimat-kilde W4391244179 finnes
+- OK   1 estimat-kilde W4391244179 finnes
+- OK   1 estimat-kilde W4391244179 finnes
+- OK   1 estimat-kilde W4391244179 finnes
+- OK   1 estimat-kilde W7170865677 finnes
+- OK   1 estimat-kilde W4400255597 finnes
+- OK   1 estimat-kilde W4400255597 finnes
+- OK   1 estimat-kilde W7116770033 finnes
+- OK   1 estimat-kilde W7220702470 finnes
+- OK   1 estimat-kilde W4400776472 finnes
+- OK   1 estimat-kilde W4390718237 finnes
+- OK   1 estimat-kilde W4390718237 finnes
+- OK   1 estimat-kilde W2994494788 finnes
+- OK   1 estimat-kilde W2117347476 finnes
+- OK   1 estimat-kilde W2150078125 finnes
+- OK   1 estimat-kilde W2318621877 finnes
+- OK   1 estimat-kilde W1561511295 finnes
+- OK   1 estimat-kilde W4405813061 finnes
+- OK   1 estimat-kilde W4405813061 finnes
+- OK   1 estimat-kilde W7134921695 finnes
+- OK   1 estimat-kilde W7134921695 finnes
+- OK   1 estimat-kilde W2124049088 finnes
+- OK   1 estimat-kilde W2344919484 finnes
+- OK   1 estimat-kilde W2143646253 finnes
+- OK   1 estimat-kilde W2003569369 finnes
+- OK   1 estimat-kilde W2124918259 finnes
+- OK   1 estimat-kilde W2792496846 finnes
+- OK   1 estimat-kilde W2118764718 finnes
+- OK   1 estimat-kilde W2399102424 finnes
+- OK   1 estimat-kilde W2037719460 finnes
+- OK   1 estimat-kilde W2907545556 finnes
+- OK   1 estimat-kilde W1772657935 finnes
+- OK   1 estimat-kilde W3200024219 finnes
+- OK   1 estimat-kilde W2784684721 finnes
+- OK   1 estimat-kilde W2122067603 finnes
+- OK   1 estimat-kilde W1922891604 finnes
+- OK   1 estimat-kilde W2763804059 finnes
+- OK   1 estimat-kilde W2734452190 finnes
+- OK   1 estimat-kilde W2734452190 finnes
+- OK   1 estimat-kilde W2000466950 finnes
+- OK   1 estimat-kilde W2162345757 finnes
+- OK   1 estimat-kilde W2929226159 finnes
+- OK   1 estimat-kilde W4280563630 finnes
+- OK   1 estimat-kilde W1498833145 finnes
+- OK   1 estimat-kilde W2036473240 finnes
+- OK   1 estimat-kilde W2153599919 finnes
+- OK   1 estimat-kilde W2771563908 finnes
+- OK   1 estimat-kilde W2338814622 finnes
+- OK   1 estimat-kilde W4367311571 finnes
+- OK   1 estimat-kilde W4367311571 finnes
+- OK   1 estimat-kilde W3117173428 finnes
+- OK   1 estimat-kilde W7220702470 finnes
+- OK   1 estimat-kilde W2738957630 finnes
+- OK   1 estimat-kilde W2738957630 finnes
+- OK   1 estimat-kilde W2738957630 finnes
+- OK   1 estimat-kilde W2917050602 finnes
+- OK   1 estimat-kilde W2103982358 finnes
+- OK   1 estimat-kilde W2093242322 finnes
+- OK   1 estimat-kilde W3212080065 finnes
+- OK   1 estimat-kilde W3037378918 finnes
+- OK   1 estimat-kilde W2994243328 finnes
+- OK   1 estimat-kilde W2066614172 finnes
+- OK   1 estimat-kilde KU-20df45d3-0444-4584-a6e2-1a4a558cfaf1 finnes
+- OK   1 estimat-kilde LI-bpw8qbkn8pwlg8q9 finnes
+- OK   1 estimat-kilde W2528917159 finnes
+- OK   1 estimat-kilde W4281476886 finnes
+- OK   1 estimat-kilde W2128678354 finnes
+- OK   1 estimat-kilde W2126431008 finnes
+- OK   1 estimat-kilde W2036431896 finnes
+- OK   1 estimat-kilde W2588962647 finnes
+- OK   1 estimat-kilde W2217273369 finnes
+- OK   1 estimat-kilde W4408146892 finnes
+- OK   1 estimat-kilde W4387444646 finnes
+- OK   1 estimat-kilde 0198cc92a415-7c1451af-517f-4063-86f1-4043488c6086 finnes
+- OK   1 estimat-kilde 0198cc79a6c9-76e6f1d6-6bda-4b73-8d30-80ed5341d818 finnes
+- OK   1 estimat-kilde 0198cc5a4496-dcff9deb-c493-46fd-b499-32274df5948c finnes
+- OK   1 estimat-kilde FI-fikka.5497751 finnes
+- OK   1 estimat-kilde W2115254240 finnes
+- OK   1 estimat-kilde W4319440182 finnes
+- OK   1 estimat-kilde W1966339413 finnes
+- OK   1 estimat-kilde W2794379157 finnes
+- OK   1 estimat-kilde W2111121333 finnes
+- OK   1 estimat-kilde W2025037024 finnes
+- OK   1 estimat-kilde W100048669 finnes
+- OK   1 estimat-kilde W1041081477 finnes
+- OK   1 estimat-kilde W2618403147 finnes
+- OK   1 estimat-kilde W2049294452 finnes
+- OK   1 estimat-kilde W2188280398 finnes
+- OK   1 estimat-kilde W7130318038 finnes
+- OK   1 estimat-kilde NB-6618 finnes
+- OK   1 estimat-kilde NB-6618 finnes
+- OK   1 estimat-kilde NB-6618 finnes
+- OK   1 forfatter «Forsetlund» for 0198cc7f9af9-06c4fc37-40b7-4fc9-91df-6bbf79ea07ae står i metadata eller på tittelsiden
+- OK   1 forfatter «Nøkleby» for W2738957630 står i metadata eller på tittelsiden
+- OK   1 forfatter «Brinchmann» for W2987143591 står i metadata eller på tittelsiden
+- OK   1 forfatter «Modini» for W2338814622 står i metadata eller på tittelsiden
+- OK   1 forfatter «Bond» for W2093242322 står i metadata eller på tittelsiden
+- OK   1 forfatter «Frederick» for W2915389400 står i metadata eller på tittelsiden
+- OK   1 forfatter «Metcalfe» for W2757770936 står i metadata eller på tittelsiden
+- OK   1 forfatter «Suijkerbuijk» for W2128048144 står i metadata eller på tittelsiden
+- OK   1 forfatter «Bond» for W2917050602 står i metadata eller på tittelsiden
+- OK   1 forfatter «Whitworth» for W4399488791 står i metadata eller på tittelsiden
+- OK   1 forfatter «Fadyl» for W3096880123 står i metadata eller på tittelsiden
+- OK   1 forfatter «Bond» for W2139568741 står i metadata eller på tittelsiden
+- OK   1 forfatter «Gonzalo» for W7196951041 står i metadata eller på tittelsiden
+- OK   1 forfatter «Park» for W4292326324 står i metadata eller på tittelsiden
+- OK   1 forfatter «Reme» for W2887225311 står i metadata eller på tittelsiden
+- OK   1 forfatter «Reme» for W2603183128 står i metadata eller på tittelsiden
+- OK   1 forfatter «Holmås» for W3118340329 står i metadata eller på tittelsiden
+- OK   1 forfatter «Fyhn» for W3196725163 står i metadata eller på tittelsiden
+- OK   1 forfatter «Sveinsdóttir» for W2948462152 står i metadata eller på tittelsiden
+- OK   1 forfatter «Rognli» for W4412642570 står i metadata eller på tittelsiden
+- OK   1 forfatter «Bejerholm» for W1970238684 står i metadata eller på tittelsiden
+- OK   1 forfatter «Fogelgren» for W3128265002 står i metadata eller på tittelsiden
+- OK   1 forfatter «Christensen» for W2971662801 står i metadata eller på tittelsiden
+- OK   1 forfatter «Christensen» for W4367311571 står i metadata eller på tittelsiden
+- OK   1 forfatter «Christensen» for W3117173428 står i metadata eller på tittelsiden
+- OK   1 forfatter «Hellström» for W2617951239 står i metadata eller på tittelsiden
+- OK   1 forfatter «Hellström» for W3129101132 står i metadata eller på tittelsiden
+- OK   1 forfatter «Bond» for W2003569369 står i metadata eller på tittelsiden
+- OK   1 forfatter «Cook» for W2124049088 står i metadata eller på tittelsiden
+- OK   1 forfatter «Davis» for W2792496846 står i metadata eller på tittelsiden
+- OK   1 forfatter «Knapp» for W2166061916 står i metadata eller på tittelsiden
+- OK   1 forfatter «Hoffmann» for W2150078125 står i metadata eller på tittelsiden
+- OK   1 forfatter «Viering» for W1797793633 står i metadata eller på tittelsiden
+- OK   1 forfatter «Pichler» for W3206833498 står i metadata eller på tittelsiden
+- OK   1 forfatter «Michon» for W2318621877 står i metadata eller på tittelsiden
+- OK   1 forfatter «Howard» for W1996383920 står i metadata eller på tittelsiden
+- OK   1 forfatter «Marsden» for W4391244179 står i metadata eller på tittelsiden
+- OK   1 forfatter «Fontenay» for W4405813061 står i metadata eller på tittelsiden
+- OK   1 forfatter «Martini» for W3206158820 står i metadata eller på tittelsiden
+- OK   1 forfatter «Jäckel» for W4410133250 står i metadata eller på tittelsiden
+- OK   1 forfatter «Brinchmann» for W4390697352 står i metadata eller på tittelsiden
+- OK   1 forfatter «Malmberg-Heimonen» for KU-7dc2d886-f49c-4f6c-bb44-20be6225f058 står i metadata eller på tittelsiden
+- OK   1 forfatter «Lesner» for W7224236002 står i metadata eller på tittelsiden
+- OK   1 forfatter «Vukadin» for W4392558137 står i metadata eller på tittelsiden
+- OK   1 forfatter «Sipilä» for FI-uef.9915208111505966 står i metadata eller på tittelsiden
+- OK   1 forfatter «Socialstyrelsen» for LI-21150545 står i metadata eller på tittelsiden
+- OK   1 forfatter «Andersen» for W7165951382 står i metadata eller på tittelsiden
+- OK   1 forfatter «Bond» for W1498833145 står i metadata eller på tittelsiden
+- OK   1 forfatter «Killackey» for W2893792582 står i metadata eller på tittelsiden
+- OK   1 forfatter «Cockett» for W7134921695 står i metadata eller på tittelsiden
+- OK   1 forfatter «Cook» for W2344919484 står i metadata eller på tittelsiden
+- OK   1 forfatter «Drake» for W7133481736 står i metadata eller på tittelsiden
+- OK   1 forfatter «Park» for W7113154702 står i metadata eller på tittelsiden
+- OK   1 forfatter «Reme» for W2167890993 står i metadata eller på tittelsiden
+- OK   1 forfatter «Øverland» for W2885000375 står i metadata eller på tittelsiden
+- OK   1 forfatter «Oslo Economics» for NB-6618 står i metadata eller på tittelsiden
+- OK   1 forfatter «Dahl» for AV-2021-2-03 står i metadata eller på tittelsiden
+- OK   1 forfatter «Sveinsdóttir» for W4214760378 står i metadata eller på tittelsiden
+- OK   2 sitat rad 1 (0198cc7f9af9-06c4fc37-40b7-4fc9-91df-6bbf79ea07ae, andel som kommer i vanlig arbeid (28 RCT) står på oppgitt side
+- OK   3 estimat=2.02 rad 1 (0198cc7f9af9-06c4fc37-40b7-4fc9-91df-6bbf79ea07ae, andel som kommer i vanlig arbeid (28 RCT) står i sitatet
+- OK   3 ki_lav=1.70 rad 1 (0198cc7f9af9-06c4fc37-40b7-4fc9-91df-6bbf79ea07ae, andel som kommer i vanlig arbeid (28 RCT) står i sitatet
+- OK   3 ki_hoy=2.40 rad 1 (0198cc7f9af9-06c4fc37-40b7-4fc9-91df-6bbf79ea07ae, andel som kommer i vanlig arbeid (28 RCT) står i sitatet
+- OK   4 rad 1 (0198cc7f9af9-06c4fc37-40b7-4fc9-91df-6bbf79ea07ae, andel som kommer i vanlig arbeid (28 RCT) estimat innenfor KI
+- OK   4 rad 1 (0198cc7f9af9-06c4fc37-40b7-4fc9-91df-6bbf79ea07ae, andel som kommer i vanlig arbeid (28 RCT) KI symmetrisk på log-skala (avvik 0.00)
+- OK   2 sitat rad 2 (0198cc7f9af9-06c4fc37-40b7-4fc9-91df-6bbf79ea07ae, tid i vanlig arbeid (20 RCT-er, lav till) står på oppgitt side
+- OK   3 estimat=0.63 rad 2 (0198cc7f9af9-06c4fc37-40b7-4fc9-91df-6bbf79ea07ae, tid i vanlig arbeid (20 RCT-er, lav till) står i sitatet
+- OK   3 ki_lav=0.36 rad 2 (0198cc7f9af9-06c4fc37-40b7-4fc9-91df-6bbf79ea07ae, tid i vanlig arbeid (20 RCT-er, lav till) står i sitatet
+- OK   3 ki_hoy=0.89 rad 2 (0198cc7f9af9-06c4fc37-40b7-4fc9-91df-6bbf79ea07ae, tid i vanlig arbeid (20 RCT-er, lav till) står i sitatet
+- OK   4 rad 2 (0198cc7f9af9-06c4fc37-40b7-4fc9-91df-6bbf79ea07ae, tid i vanlig arbeid (20 RCT-er, lav till) estimat innenfor KI
+- OK   2 sitat rad 3 (0198cc7f9af9-06c4fc37-40b7-4fc9-91df-6bbf79ea07ae, inntekt, SMD (14 RCT-er, moderat tillit)) står på oppgitt side
+- OK   3 estimat=0.25 rad 3 (0198cc7f9af9-06c4fc37-40b7-4fc9-91df-6bbf79ea07ae, inntekt, SMD (14 RCT-er, moderat tillit)) står i sitatet
+- OK   3 ki_lav=0.12 rad 3 (0198cc7f9af9-06c4fc37-40b7-4fc9-91df-6bbf79ea07ae, inntekt, SMD (14 RCT-er, moderat tillit)) står i sitatet
+- OK   3 ki_hoy=0.37 rad 3 (0198cc7f9af9-06c4fc37-40b7-4fc9-91df-6bbf79ea07ae, inntekt, SMD (14 RCT-er, moderat tillit)) står i sitatet
+- OK   4 rad 3 (0198cc7f9af9-06c4fc37-40b7-4fc9-91df-6bbf79ea07ae, inntekt, SMD (14 RCT-er, moderat tillit)) estimat innenfor KI
+- OK   2 sitat rad 4 (0198cc7f9af9-06c4fc37-40b7-4fc9-91df-6bbf79ea07ae, livskvalitet, SMD (7–8 RCT-er, moderat t) står på oppgitt side
+- OK   3 estimat=0.16 rad 4 (0198cc7f9af9-06c4fc37-40b7-4fc9-91df-6bbf79ea07ae, livskvalitet, SMD (7–8 RCT-er, moderat t) står i sitatet
+- OK   3 ki_lav=0.06 rad 4 (0198cc7f9af9-06c4fc37-40b7-4fc9-91df-6bbf79ea07ae, livskvalitet, SMD (7–8 RCT-er, moderat t) står i sitatet
+- OK   3 ki_hoy=0.26 rad 4 (0198cc7f9af9-06c4fc37-40b7-4fc9-91df-6bbf79ea07ae, livskvalitet, SMD (7–8 RCT-er, moderat t) står i sitatet
+- OK   4 rad 4 (0198cc7f9af9-06c4fc37-40b7-4fc9-91df-6bbf79ea07ae, livskvalitet, SMD (7–8 RCT-er, moderat t) estimat innenfor KI
+- OK   2 sitat rad 5 (0198cc7f9af9-06c4fc37-40b7-4fc9-91df-6bbf79ea07ae, hatt vanlig arbeid etter 12 måneder (én ) står på oppgitt side
+- OK   3 estimat=2.30 rad 5 (0198cc7f9af9-06c4fc37-40b7-4fc9-91df-6bbf79ea07ae, hatt vanlig arbeid etter 12 måneder (én ) står i sitatet
+- OK   3 ki_lav=0.95 rad 5 (0198cc7f9af9-06c4fc37-40b7-4fc9-91df-6bbf79ea07ae, hatt vanlig arbeid etter 12 måneder (én ) står i sitatet
+- OK   3 ki_hoy=5.55 rad 5 (0198cc7f9af9-06c4fc37-40b7-4fc9-91df-6bbf79ea07ae, hatt vanlig arbeid etter 12 måneder (én ) står i sitatet
+- OK   4 rad 5 (0198cc7f9af9-06c4fc37-40b7-4fc9-91df-6bbf79ea07ae, hatt vanlig arbeid etter 12 måneder (én ) estimat innenfor KI
+- OK   4 rad 5 (0198cc7f9af9-06c4fc37-40b7-4fc9-91df-6bbf79ea07ae, hatt vanlig arbeid etter 12 måneder (én ) KI symmetrisk på log-skala (avvik 0.00)
+- OK   2 sitat rad 6 (W2128048144, ordinært arbeid, lang oppfølging, nettve) står på oppgitt side
+- OK   3 estimat=2.72 rad 6 (W2128048144, ordinært arbeid, lang oppfølging, nettve) står i sitatet
+- OK   3 ki_lav=1.55 rad 6 (W2128048144, ordinært arbeid, lang oppfølging, nettve) står i sitatet
+- OK   3 ki_hoy=4.76 rad 6 (W2128048144, ordinært arbeid, lang oppfølging, nettve) står i sitatet
+- OK   4 rad 6 (W2128048144, ordinært arbeid, lang oppfølging, nettve) estimat innenfor KI
+- OK   4 rad 6 (W2128048144, ordinært arbeid, lang oppfølging, nettve) KI symmetrisk på log-skala (avvik 0.00)
+- OK   2 sitat rad 7 (W2128048144, ordinært arbeid, lang oppfølging, direkt) står på oppgitt side
+- OK   3 estimat=1.51 rad 7 (W2128048144, ordinært arbeid, lang oppfølging, direkt) står i sitatet
+- OK   3 ki_lav=1.36 rad 7 (W2128048144, ordinært arbeid, lang oppfølging, direkt) står i sitatet
+- OK   3 ki_hoy=1.68 rad 7 (W2128048144, ordinært arbeid, lang oppfølging, direkt) står i sitatet
+- OK   4 rad 7 (W2128048144, ordinært arbeid, lang oppfølging, direkt) estimat innenfor KI
+- OK   4 rad 7 (W2128048144, ordinært arbeid, lang oppfølging, direkt) KI symmetrisk på log-skala (avvik 0.00)
+- OK   2 sitat rad 8 (W2128048144, ordinært arbeid, lang oppfølging, direkt) står på oppgitt side
+- OK   3 estimat=2.31 rad 8 (W2128048144, ordinært arbeid, lang oppfølging, direkt) står i sitatet
+- OK   3 ki_lav=1.85 rad 8 (W2128048144, ordinært arbeid, lang oppfølging, direkt) står i sitatet
+- OK   3 ki_hoy=2.89 rad 8 (W2128048144, ordinært arbeid, lang oppfølging, direkt) står i sitatet
+- OK   4 rad 8 (W2128048144, ordinært arbeid, lang oppfølging, direkt) estimat innenfor KI
+- OK   4 rad 8 (W2128048144, ordinært arbeid, lang oppfølging, direkt) KI symmetrisk på log-skala (avvik 0.00)
+- OK   2 sitat rad 9 (W2128048144, uker i ordinært arbeid, lang oppfølging ) står på oppgitt side
+- OK   3 estimat=11.56 rad 9 (W2128048144, uker i ordinært arbeid, lang oppfølging ) står i sitatet
+- OK   3 ki_lav=5.99 rad 9 (W2128048144, uker i ordinært arbeid, lang oppfølging ) står i sitatet
+- OK   3 ki_hoy=17.13 rad 9 (W2128048144, uker i ordinært arbeid, lang oppfølging ) står i sitatet
+- OK   4 rad 9 (W2128048144, uker i ordinært arbeid, lang oppfølging ) estimat innenfor KI
+- OK   2 sitat rad 10 (W2338814622, ordinært arbeid (17 RCT-er)) står på oppgitt side
+- OK   3 estimat=2.40 rad 10 (W2338814622, ordinært arbeid (17 RCT-er)) står i sitatet
+- OK   3 ki_lav=1.99 rad 10 (W2338814622, ordinært arbeid (17 RCT-er)) står i sitatet
+- OK   3 ki_hoy=2.90 rad 10 (W2338814622, ordinært arbeid (17 RCT-er)) står i sitatet
+- OK   4 rad 10 (W2338814622, ordinært arbeid (17 RCT-er)) estimat innenfor KI
+- OK   4 rad 10 (W2338814622, ordinært arbeid (17 RCT-er)) KI symmetrisk på log-skala (avvik 0.00)
+- OK   2 sitat rad 11 (W2338814622, ordinært arbeid i studier med lav økonom) står på oppgitt side
+- OK   3 estimat=1.82 rad 11 (W2338814622, ordinært arbeid i studier med lav økonom) står i sitatet
+- OK   3 ki_lav=1.37 rad 11 (W2338814622, ordinært arbeid i studier med lav økonom) står i sitatet
+- OK   3 ki_hoy=2.40 rad 11 (W2338814622, ordinært arbeid i studier med lav økonom) står i sitatet
+- OK   4 rad 11 (W2338814622, ordinært arbeid i studier med lav økonom) estimat innenfor KI
+- OK   4 rad 11 (W2338814622, ordinært arbeid i studier med lav økonom) KI symmetrisk på log-skala (avvik 0.01)
+- OK   2 sitat rad 12 (W2338814622, ordinært arbeid i andre år etter start () står på oppgitt side
+- OK   3 estimat=2.41 rad 12 (W2338814622, ordinært arbeid i andre år etter start () står i sitatet
+- OK   3 ki_lav=1.96 rad 12 (W2338814622, ordinært arbeid i andre år etter start () står i sitatet
+- OK   3 ki_hoy=2.97 rad 12 (W2338814622, ordinært arbeid i andre år etter start () står i sitatet
+- OK   4 rad 12 (W2338814622, ordinært arbeid i andre år etter start () estimat innenfor KI
+- OK   4 rad 12 (W2338814622, ordinært arbeid i andre år etter start () KI symmetrisk på log-skala (avvik 0.00)
+- OK   2 sitat rad 13 (W2915389400, fått ordinært arbeid i løpet av studien ) står på oppgitt side
+- OK   3 estimat=1.63 rad 13 (W2915389400, fått ordinært arbeid i løpet av studien ) står i sitatet
+- OK   3 ki_lav=1.46 rad 13 (W2915389400, fått ordinært arbeid i løpet av studien ) står i sitatet
+- OK   3 ki_hoy=1.82 rad 13 (W2915389400, fått ordinært arbeid i løpet av studien ) står i sitatet
+- OK   4 rad 13 (W2915389400, fått ordinært arbeid i løpet av studien ) estimat innenfor KI
+- OK   4 rad 13 (W2915389400, fått ordinært arbeid i løpet av studien ) KI symmetrisk på log-skala (avvik 0.00)
+- OK   2 sitat rad 14 (W2915389400, tid til første ordinære jobb (d, 9 studi) står på oppgitt side
+- OK   3 estimat=-0.31 rad 14 (W2915389400, tid til første ordinære jobb (d, 9 studi) står i sitatet
+- OK   3 ki_lav=-0.46 rad 14 (W2915389400, tid til første ordinære jobb (d, 9 studi) står i sitatet
+- OK   3 ki_hoy=-0.15 rad 14 (W2915389400, tid til første ordinære jobb (d, 9 studi) står i sitatet
+- OK   4 rad 14 (W2915389400, tid til første ordinære jobb (d, 9 studi) estimat innenfor KI
+- OK   2 sitat rad 15 (W2915389400, samlet tid i ordinært arbeid (d, 17 stud) står på oppgitt side
+- OK   3 estimat=0.46 rad 15 (W2915389400, samlet tid i ordinært arbeid (d, 17 stud) står i sitatet
+- OK   3 ki_lav=0.35 rad 15 (W2915389400, samlet tid i ordinært arbeid (d, 17 stud) står i sitatet
+- OK   3 ki_hoy=0.57 rad 15 (W2915389400, samlet tid i ordinært arbeid (d, 17 stud) står i sitatet
+- OK   4 rad 15 (W2915389400, samlet tid i ordinært arbeid (d, 17 stud) estimat innenfor KI
+- OK   2 sitat rad 16 (W2915389400, inntekt (d, 12 studier)) står på oppgitt side
+- OK   3 estimat=0.48 rad 16 (W2915389400, inntekt (d, 12 studier)) står i sitatet
+- OK   3 ki_lav=0.36 rad 16 (W2915389400, inntekt (d, 12 studier)) står i sitatet
+- OK   3 ki_hoy=0.59 rad 16 (W2915389400, inntekt (d, 12 studier)) står i sitatet
+- OK   4 rad 16 (W2915389400, inntekt (d, 12 studier)) estimat innenfor KI
+- OK   2 sitat rad 17 (W2915389400, livskvalitet (d, 9 studier; KI inkludere) står på oppgitt side
+- OK   3 estimat=0.30 rad 17 (W2915389400, livskvalitet (d, 9 studier; KI inkludere) står i sitatet
+- OK   3 ki_lav=-0.07 rad 17 (W2915389400, livskvalitet (d, 9 studier; KI inkludere) står i sitatet
+- OK   3 ki_hoy=0.67 rad 17 (W2915389400, livskvalitet (d, 9 studier; KI inkludere) står i sitatet
+- OK   4 rad 17 (W2915389400, livskvalitet (d, 9 studier; KI inkludere) estimat innenfor KI
+- OK   2 sitat rad 18 (W4285039391, i arbeid i oppfølgingstiden (31 studier;) står på oppgitt side
+- OK   3 estimat=2.62 rad 18 (W4285039391, i arbeid i oppfølgingstiden (31 studier;) står i sitatet
+- OK   3 ki_lav=2.37 rad 18 (W4285039391, i arbeid i oppfølgingstiden (31 studier;) står i sitatet
+- OK   3 ki_hoy=2.89 rad 18 (W4285039391, i arbeid i oppfølgingstiden (31 studier;) står i sitatet
+- OK   4 rad 18 (W4285039391, i arbeid i oppfølgingstiden (31 studier;) estimat innenfor KI
+- OK   4 rad 18 (W4285039391, i arbeid i oppfølgingstiden (31 studier;) KI symmetrisk på log-skala (avvik 0.00)
+- OK   2 sitat rad 19 (W4285039391, varighet i arbeid (d, 23 studier)) står på oppgitt side
+- OK   3 estimat=0.41 rad 19 (W4285039391, varighet i arbeid (d, 23 studier)) står i sitatet
+- OK   3 ki_lav=0.30 rad 19 (W4285039391, varighet i arbeid (d, 23 studier)) står i sitatet
+- OK   3 ki_hoy=0.52 rad 19 (W4285039391, varighet i arbeid (d, 23 studier)) står i sitatet
+- OK   4 rad 19 (W4285039391, varighet i arbeid (d, 23 studier)) estimat innenfor KI
+- OK   2 sitat rad 20 (W4285039391, lønnsinntekt (d, 15 studier)) står på oppgitt side
+- OK   3 estimat=0.31 rad 20 (W4285039391, lønnsinntekt (d, 15 studier)) står i sitatet
+- OK   3 ki_lav=0.19 rad 20 (W4285039391, lønnsinntekt (d, 15 studier)) står i sitatet
+- OK   3 ki_hoy=0.44 rad 20 (W4285039391, lønnsinntekt (d, 15 studier)) står i sitatet
+- OK   4 rad 20 (W4285039391, lønnsinntekt (d, 15 studier)) estimat innenfor KI
+- OK   2 sitat rad 21 (W2987143591, ordinært arbeid (27 RCT-er)) står på oppgitt side
+- OK   3 estimat=2.07 rad 21 (W2987143591, ordinært arbeid (27 RCT-er)) står i sitatet
+- OK   3 ki_lav=1.82 rad 21 (W2987143591, ordinært arbeid (27 RCT-er)) står i sitatet
+- OK   3 ki_hoy=2.35 rad 21 (W2987143591, ordinært arbeid (27 RCT-er)) står i sitatet
+- OK   4 rad 21 (W2987143591, ordinært arbeid (27 RCT-er)) estimat innenfor KI
+- OK   4 rad 21 (W2987143591, ordinært arbeid (27 RCT-er)) KI symmetrisk på log-skala (avvik 0.00)
+- OK   2 sitat rad 22 (W2987143591, ordinært arbeid ved mer enn 12 måneders ) står på oppgitt side
+- OK   3 estimat=1.96 rad 22 (W2987143591, ordinært arbeid ved mer enn 12 måneders ) står i sitatet
+- OK   3 ki_lav=1.70 rad 22 (W2987143591, ordinært arbeid ved mer enn 12 måneders ) står i sitatet
+- OK   3 ki_hoy=2.25 rad 22 (W2987143591, ordinært arbeid ved mer enn 12 måneders ) står i sitatet
+- OK   4 rad 22 (W2987143591, ordinært arbeid ved mer enn 12 måneders ) estimat innenfor KI
+- OK   4 rad 22 (W2987143591, ordinært arbeid ved mer enn 12 måneders ) KI symmetrisk på log-skala (avvik 0.00)
+- OK   2 sitat rad 23 (W2987143591, ordinært arbeid justert for publiserings) står på oppgitt side
+- OK   3 estimat=1.83 rad 23 (W2987143591, ordinært arbeid justert for publiserings) står i sitatet
+- OK   3 ki_lav=1.57 rad 23 (W2987143591, ordinært arbeid justert for publiserings) står i sitatet
+- OK   3 ki_hoy=2.14 rad 23 (W2987143591, ordinært arbeid justert for publiserings) står i sitatet
+- OK   4 rad 23 (W2987143591, ordinært arbeid justert for publiserings) estimat innenfor KI
+- OK   4 rad 23 (W2987143591, ordinært arbeid justert for publiserings) KI symmetrisk på log-skala (avvik 0.00)
+- OK   2 sitat rad 24 (W2139568741, i arbeid ved oppfølging (metaanalyse av ) står på oppgitt side
+- OK   3 estimat=3.66 rad 24 (W2139568741, i arbeid ved oppfølging (metaanalyse av ) står i sitatet
+- OK   3 ki_lav=1.93 rad 24 (W2139568741, i arbeid ved oppfølging (metaanalyse av ) står i sitatet
+- OK   3 ki_hoy=6.93 rad 24 (W2139568741, i arbeid ved oppfølging (metaanalyse av ) står i sitatet
+- OK   4 rad 24 (W2139568741, i arbeid ved oppfølging (metaanalyse av ) estimat innenfor KI
+- OK   4 rad 24 (W2139568741, i arbeid ved oppfølging (metaanalyse av ) KI symmetrisk på log-skala (avvik 0.00)
+- OK   2 sitat rad 25 (W2139568741, andel i arbeid i oppfølgingstiden, 8 stu) står på oppgitt side
+- OK   3 estimat=49 rad 25 (W2139568741, andel i arbeid i oppfølgingstiden, 8 stu) står i sitatet
+- OK   2 sitat rad 26 (W3196472652, ingen eget effektestimat for IPS (for få) står på oppgitt side
+- OK   2 sitat rad 27 (W4200254443, ordinært arbeid etter 12 måneder (én RCT) står på oppgitt side
+- OK   3 estimat=10.61 rad 27 (W4200254443, ordinært arbeid etter 12 måneder (én RCT) står i sitatet
+- OK   3 ki_lav=1.49 rad 27 (W4200254443, ordinært arbeid etter 12 måneder (én RCT) står i sitatet
+- OK   3 ki_hoy=75.38 rad 27 (W4200254443, ordinært arbeid etter 12 måneder (én RCT) står i sitatet
+- OK   4 rad 27 (W4200254443, ordinært arbeid etter 12 måneder (én RCT) estimat innenfor KI
+- OK   4 rad 27 (W4200254443, ordinært arbeid etter 12 måneder (én RCT) KI symmetrisk på log-skala (avvik 0.00)
+- OK   2 sitat rad 28 (W4200254443, ordinært arbeid etter 6 måneder (én RCT)) står på oppgitt side
+- OK   3 estimat=11.5 rad 28 (W4200254443, ordinært arbeid etter 6 måneder (én RCT)) står i sitatet
+- OK   3 ki_lav=1.62 rad 28 (W4200254443, ordinært arbeid etter 6 måneder (én RCT)) står i sitatet
+- OK   3 ki_hoy=81.8 rad 28 (W4200254443, ordinært arbeid etter 6 måneder (én RCT)) står i sitatet
+- OK   4 rad 28 (W4200254443, ordinært arbeid etter 6 måneder (én RCT)) estimat innenfor KI
+- OK   4 rad 28 (W4200254443, ordinært arbeid etter 6 måneder (én RCT)) KI symmetrisk på log-skala (avvik 0.00)
+- OK   2 sitat rad 29 (W4200254443, ordinært arbeid innen 12 måneder (én RCT) står på oppgitt side
+- OK   3 estimat=1.85 rad 29 (W4200254443, ordinært arbeid innen 12 måneder (én RCT) står i sitatet
+- OK   3 ki_lav=0.65 rad 29 (W4200254443, ordinært arbeid innen 12 måneder (én RCT) står i sitatet
+- OK   3 ki_hoy=5.41 rad 29 (W4200254443, ordinært arbeid innen 12 måneder (én RCT) står i sitatet
+- OK   4 rad 29 (W4200254443, ordinært arbeid innen 12 måneder (én RCT) estimat innenfor KI
+- OK   4 rad 29 (W4200254443, ordinært arbeid innen 12 måneder (én RCT) KI symmetrisk på log-skala (avvik 0.03)
+- OK   2 sitat rad 30 (W4200254443, ordinært arbeid etter 12 måneder (én RCT) står på oppgitt side
+- OK   3 estimat=5.90 rad 30 (W4200254443, ordinært arbeid etter 12 måneder (én RCT) står i sitatet
+- OK   3 ki_lav=1.91 rad 30 (W4200254443, ordinært arbeid etter 12 måneder (én RCT) står i sitatet
+- OK   3 ki_hoy=18.19 rad 30 (W4200254443, ordinært arbeid etter 12 måneder (én RCT) står i sitatet
+- OK   4 rad 30 (W4200254443, ordinært arbeid etter 12 måneder (én RCT) estimat innenfor KI
+- OK   4 rad 30 (W4200254443, ordinært arbeid etter 12 måneder (én RCT) KI symmetrisk på log-skala (avvik 0.00)
+- OK   2 sitat rad 31 (W4399488791, jobbstart, alle studier) står på oppgitt side
+- OK   3 estimat=1.78 rad 31 (W4399488791, jobbstart, alle studier) står i sitatet
+- OK   3 ki_lav=1.42 rad 31 (W4399488791, jobbstart, alle studier) står i sitatet
+- OK   3 ki_hoy=2.22 rad 31 (W4399488791, jobbstart, alle studier) står i sitatet
+- OK   4 rad 31 (W4399488791, jobbstart, alle studier) estimat innenfor KI
+- OK   4 rad 31 (W4399488791, jobbstart, alle studier) KI symmetrisk på log-skala (avvik 0.01)
+- OK   2 sitat rad 32 (W4399488791, jobbstart, bare store og mellomstore stu) står på oppgitt side
+- OK   3 estimat=1.32 rad 32 (W4399488791, jobbstart, bare store og mellomstore stu) står i sitatet
+- OK   3 ki_lav=1.2 rad 32 (W4399488791, jobbstart, bare store og mellomstore stu) står i sitatet
+- OK   3 ki_hoy=1.46 rad 32 (W4399488791, jobbstart, bare store og mellomstore stu) står i sitatet
+- OK   4 rad 32 (W4399488791, jobbstart, bare store og mellomstore stu) estimat innenfor KI
+- OK   4 rad 32 (W4399488791, jobbstart, bare store og mellomstore stu) KI symmetrisk på log-skala (avvik 0.01)
+- OK   2 sitat rad 33 (W3096880123, ordinært arbeid (7 studier, svært lav kv) står på oppgitt side
+- OK   3 estimat=1.70 rad 33 (W3096880123, ordinært arbeid (7 studier, svært lav kv) står i sitatet
+- OK   3 ki_lav=1.23 rad 33 (W3096880123, ordinært arbeid (7 studier, svært lav kv) står i sitatet
+- OK   3 ki_hoy=2.34 rad 33 (W3096880123, ordinært arbeid (7 studier, svært lav kv) står i sitatet
+- OK   4 rad 33 (W3096880123, ordinært arbeid (7 studier, svært lav kv) estimat innenfor KI
+- OK   4 rad 33 (W3096880123, ordinært arbeid (7 studier, svært lav kv) KI symmetrisk på log-skala (avvik 0.00)
+- OK   2 sitat rad 34 (W3096880123, ordinært arbeid uten studiene med høyest) står på oppgitt side
+- OK   3 estimat=2.35 rad 34 (W3096880123, ordinært arbeid uten studiene med høyest) står i sitatet
+- OK   3 ki_lav=1.18 rad 34 (W3096880123, ordinært arbeid uten studiene med høyest) står i sitatet
+- OK   3 ki_hoy=4.65 rad 34 (W3096880123, ordinært arbeid uten studiene med høyest) står i sitatet
+- OK   4 rad 34 (W3096880123, ordinært arbeid uten studiene med høyest) estimat innenfor KI
+- OK   4 rad 34 (W3096880123, ordinært arbeid uten studiene med høyest) KI symmetrisk på log-skala (avvik 0.01)
+- OK   2 sitat rad 35 (W4292326324, kostnad: antall av 41 økonomiske studier) står på oppgitt side
+- OK   3 estimat=24 rad 35 (W4292326324, kostnad: antall av 41 økonomiske studier) står i sitatet
+- OK   2 sitat rad 36 (W2892072419, ordinært arbeid (8 studier); KI .97–1.95) står på oppgitt side
+- OK   3 estimat=1.37 rad 36 (W2892072419, ordinært arbeid (8 studier); KI .97–1.95) står i sitatet
+- OK   2 sitat rad 37 (W2892072419, ordinært arbeid (2 studier)) står på oppgitt side
+- OK   3 estimat=3.35 rad 37 (W2892072419, ordinært arbeid (2 studier)) står i sitatet
+- OK   3 ki_lav=1.23 rad 37 (W2892072419, ordinært arbeid (2 studier)) står i sitatet
+- OK   3 ki_hoy=9.13 rad 37 (W2892072419, ordinært arbeid (2 studier)) står i sitatet
+- OK   4 rad 37 (W2892072419, ordinært arbeid (2 studier)) estimat innenfor KI
+- OK   4 rad 37 (W2892072419, ordinært arbeid (2 studier)) KI symmetrisk på log-skala (avvik 0.00)
+- OK   2 sitat rad 41 (W2607762772, ordinært arbeid (21 sammenligninger, all) står på oppgitt side
+- OK   3 estimat=2.31 rad 41 (W2607762772, ordinært arbeid (21 sammenligninger, all) står i sitatet
+- OK   3 ki_lav=1.85 rad 41 (W2607762772, ordinært arbeid (21 sammenligninger, all) står i sitatet
+- OK   3 ki_hoy=2.88 rad 41 (W2607762772, ordinært arbeid (21 sammenligninger, all) står i sitatet
+- OK   4 rad 41 (W2607762772, ordinært arbeid (21 sammenligninger, all) estimat innenfor KI
+- OK   4 rad 41 (W2607762772, ordinært arbeid (21 sammenligninger, all) KI symmetrisk på log-skala (avvik 0.00)
+- OK   2 sitat rad 42 (W2607762772, ordinært arbeid, undergruppen supported ) står på oppgitt side
+- OK   3 estimat=2.49 rad 42 (W2607762772, ordinært arbeid, undergruppen supported ) står i sitatet
+- OK   3 ki_lav=2.16 rad 42 (W2607762772, ordinært arbeid, undergruppen supported ) står i sitatet
+- OK   3 ki_hoy=2.88 rad 42 (W2607762772, ordinært arbeid, undergruppen supported ) står i sitatet
+- OK   4 rad 42 (W2607762772, ordinært arbeid, undergruppen supported ) estimat innenfor KI
+- OK   4 rad 42 (W2607762772, ordinært arbeid, undergruppen supported ) KI symmetrisk på log-skala (avvik 0.00)
+- OK   2 sitat rad 46 (W4398150491, sysselsettingsrate minst 20 høyere i IPS) står på oppgitt side
+- OK   3 estimat=20 rad 46 (W4398150491, sysselsettingsrate minst 20 høyere i IPS) står i sitatet
+- OK   2 sitat rad 47 (W3096495837, ordinært arbeid, omtrent dobbelt så sann) står på oppgitt side
+- OK   3 estimat=2 rad 47 (W3096495837, ordinært arbeid, omtrent dobbelt så sann) står i sitatet
+- OK   2 sitat rad 48 (W4295805873, alt arbeid i studieperioden (7 RCT-er, s) står på oppgitt side
+- OK   3 estimat=3.24 rad 48 (W4295805873, alt arbeid i studieperioden (7 RCT-er, s) står i sitatet
+- OK   3 ki_lav=2.17 rad 48 (W4295805873, alt arbeid i studieperioden (7 RCT-er, s) står i sitatet
+- OK   3 ki_hoy=4.82 rad 48 (W4295805873, alt arbeid i studieperioden (7 RCT-er, s) står i sitatet
+- OK   4 rad 48 (W4295805873, alt arbeid i studieperioden (7 RCT-er, s) estimat innenfor KI
+- OK   4 rad 48 (W4295805873, alt arbeid i studieperioden (7 RCT-er, s) KI symmetrisk på log-skala (avvik 0.00)
+- OK   2 sitat rad 49 (W4295805873, dager i ordinært arbeid (MD, én RCT)) står på oppgitt side
+- OK   3 estimat=70.63 rad 49 (W4295805873, dager i ordinært arbeid (MD, én RCT)) står i sitatet
+- OK   3 ki_lav=43.22 rad 49 (W4295805873, dager i ordinært arbeid (MD, én RCT)) står i sitatet
+- OK   3 ki_hoy=94.04 rad 49 (W4295805873, dager i ordinært arbeid (MD, én RCT)) står i sitatet
+- OK   4 rad 49 (W4295805873, dager i ordinært arbeid (MD, én RCT)) estimat innenfor KI
+- OK   2 sitat rad 50 (W4295805873, dager til første ordinære jobb (MD, én R) står på oppgitt side
+- OK   3 estimat=-161.60 rad 50 (W4295805873, dager til første ordinære jobb (MD, én R) står i sitatet
+- OK   3 ki_lav=-225.73 rad 50 (W4295805873, dager til første ordinære jobb (MD, én R) står i sitatet
+- OK   3 ki_hoy=-97.47 rad 50 (W4295805873, dager til første ordinære jobb (MD, én R) står i sitatet
+- OK   4 rad 50 (W4295805873, dager til første ordinære jobb (MD, én R) estimat innenfor KI
+- OK   2 sitat rad 51 (W2169254240, ordinært arbeid etter 12 måneder (34 % m) står på oppgitt side
+- OK   3 estimat=4.45 rad 51 (W2169254240, ordinært arbeid etter 12 måneder (34 % m) står i sitatet
+- OK   3 ki_lav=3.37 rad 51 (W2169254240, ordinært arbeid etter 12 måneder (34 % m) står i sitatet
+- OK   3 ki_hoy=6.59 rad 51 (W2169254240, ordinært arbeid etter 12 måneder (34 % m) står i sitatet
+- OK   4 rad 51 (W2169254240, ordinært arbeid etter 12 måneder (34 % m) estimat innenfor KI
+- OK   2 sitat rad 52 (W2141187495, fått ordinær jobb, effektstørrelse (4 RC) står på oppgitt side
+- OK   3 estimat=0.96 rad 52 (W2141187495, fått ordinær jobb, effektstørrelse (4 RC) står i sitatet
+- OK   2 sitat rad 53 (W2141187495, totalt antall uker i arbeid, effektstørr) står på oppgitt side
+- OK   3 estimat=0.79 rad 53 (W2141187495, totalt antall uker i arbeid, effektstørr) står i sitatet
+- OK   2 sitat rad 54 (W2757770936, ordinært arbeid (30 steder, 21 RCT-er, 1) står på oppgitt side
+- OK   3 estimat=2.31 rad 54 (W2757770936, ordinært arbeid (30 steder, 21 RCT-er, 1) står i sitatet
+- OK   3 ki_lav=1.99 rad 54 (W2757770936, ordinært arbeid (30 steder, 21 RCT-er, 1) står i sitatet
+- OK   3 ki_hoy=2.69 rad 54 (W2757770936, ordinært arbeid (30 steder, 21 RCT-er, 1) står i sitatet
+- OK   4 rad 54 (W2757770936, ordinært arbeid (30 steder, 21 RCT-er, 1) estimat innenfor KI
+- OK   4 rad 54 (W2757770936, ordinært arbeid (30 steder, 21 RCT-er, 1) KI symmetrisk på log-skala (avvik 0.00)
+- OK   2 sitat rad 59 (W7162286458, andel i ordinært arbeid etter 12 måneder) står på oppgitt side
+- OK   3 estimat=76 rad 59 (W7162286458, andel i ordinært arbeid etter 12 måneder) står i sitatet
+- OK   2 sitat rad 62 (W3159916837, IPS alene bedret ikke bedringsutfall (in) står på oppgitt side
+- OK   2 sitat rad 63 (W3159916837, livskvalitet hos dem som arbeidet (samme) står på oppgitt side
+- OK   3 estimat=0.34 rad 63 (W3159916837, livskvalitet hos dem som arbeidet (samme) står i sitatet
+- OK   3 ki_lav=0.14 rad 63 (W3159916837, livskvalitet hos dem som arbeidet (samme) står i sitatet
+- OK   3 ki_hoy=0.54 rad 63 (W3159916837, livskvalitet hos dem som arbeidet (samme) står i sitatet
+- OK   4 rad 63 (W3159916837, livskvalitet hos dem som arbeidet (samme) estimat innenfor KI
+- OK   2 sitat rad 65 (W7133481736, langtidsoppfølging (3,5 år eller mer): 7) står på oppgitt side
+- OK   2 sitat rad 67 (W2230236165, livskvalitet (7 studier, 8 sammenligning) står på oppgitt side
+- OK   3 estimat=0.28 rad 67 (W2230236165, livskvalitet (7 studier, 8 sammenligning) står i sitatet
+- OK   3 ki_lav=0.04 rad 67 (W2230236165, livskvalitet (7 studier, 8 sammenligning) står i sitatet
+- OK   3 ki_hoy=0.52 rad 67 (W2230236165, livskvalitet (7 studier, 8 sammenligning) står i sitatet
+- OK   4 rad 67 (W2230236165, livskvalitet (7 studier, 8 sammenligning) estimat innenfor KI
+- OK   2 sitat rad 68 (W2230236165, psykiske symptomer (6 studier); gjeninns) står på oppgitt side
+- OK   3 estimat=0.20 rad 68 (W2230236165, psykiske symptomer (6 studier); gjeninns) står i sitatet
+- OK   3 ki_lav=-0.23 rad 68 (W2230236165, psykiske symptomer (6 studier); gjeninns) står i sitatet
+- OK   3 ki_hoy=0.62 rad 68 (W2230236165, psykiske symptomer (6 studier); gjeninns) står i sitatet
+- OK   4 rad 68 (W2230236165, psykiske symptomer (6 studier); gjeninns) estimat innenfor KI
+- OK   2 sitat rad 71 (W7196951041, ordinært arbeid (31 studier i alt)) står på oppgitt side
+- OK   3 estimat=2.86 rad 71 (W7196951041, ordinært arbeid (31 studier i alt)) står i sitatet
+- OK   3 ki_lav=1.81 rad 71 (W7196951041, ordinært arbeid (31 studier i alt)) står i sitatet
+- OK   3 ki_hoy=4.54 rad 71 (W7196951041, ordinært arbeid (31 studier i alt)) står i sitatet
+- OK   4 rad 71 (W7196951041, ordinært arbeid (31 studier i alt)) estimat innenfor KI
+- OK   4 rad 71 (W7196951041, ordinært arbeid (31 studier i alt)) KI symmetrisk på log-skala (avvik 0.00)
+- OK   2 sitat rad 75 (W1989720116, andel i ordinært arbeid med supported em) står på oppgitt side
+- OK   3 estimat=40 rad 75 (W1989720116, andel i ordinært arbeid med supported em) står i sitatet
+- OK   2 sitat rad 81 (W2887225311, andel i ordinært arbeid (registerdata) e) står på oppgitt side
+- OK   3 estimat=9.5 rad 81 (W2887225311, andel i ordinært arbeid (registerdata) e) står i sitatet
+- OK   2 sitat rad 82 (W2887225311, andel i ordinært arbeid etter 18 mnd i I) står på oppgitt side
+- OK   3 estimat=37.4 rad 82 (W2887225311, andel i ordinært arbeid etter 18 mnd i I) står i sitatet
+- OK   2 sitat rad 83 (W2603183128, sannsynlighet for å være i arbeid, regre) står på oppgitt side
+- OK   3 estimat=8 rad 83 (W2603183128, sannsynlighet for å være i arbeid, regre) står i sitatet
+- OK   2 sitat rad 84 (W2603183128, nedgang i sannsynlighet for å motta NAV-) står på oppgitt side
+- OK   3 estimat=18 rad 84 (W2603183128, nedgang i sannsynlighet for å motta NAV-) står i sitatet
+- OK   2 sitat rad 85 (W2603183128, kost-nytte: kritisk bruttolønn per år (2) står på oppgitt side
+- OK   3 estimat=395100 rad 85 (W2603183128, kost-nytte: kritisk bruttolønn per år (2) står i sitatet
+- OK   2 sitat rad 86 (W3118340329, sannsynlighet for ordinært arbeid over 4) står på oppgitt side
+- OK   3 estimat=8.8 rad 86 (W3118340329, sannsynlighet for ordinært arbeid over 4) står i sitatet
+- OK   2 sitat rad 87 (W3118340329, netto samfunnsgevinst per deltaker over ) står på oppgitt side
+- OK   3 estimat=217 rad 87 (W3118340329, netto samfunnsgevinst per deltaker over ) står i sitatet
+- OK   2 sitat rad 88 (W2948462152, fått ordinært arbeid i løpet av 12 mnd () står på oppgitt side
+- OK   3 estimat=10.39 rad 88 (W2948462152, fått ordinært arbeid i løpet av 12 mnd () står i sitatet
+- OK   3 ki_lav=2.79 rad 88 (W2948462152, fått ordinært arbeid i løpet av 12 mnd () står i sitatet
+- OK   3 ki_hoy=38.68 rad 88 (W2948462152, fått ordinært arbeid i løpet av 12 mnd () står i sitatet
+- OK   4 rad 88 (W2948462152, fått ordinært arbeid i løpet av 12 mnd () estimat innenfor KI
+- OK   4 rad 88 (W2948462152, fått ordinært arbeid i løpet av 12 mnd () KI symmetrisk på log-skala (avvik 0.00)
+- OK   2 sitat rad 89 (W4412642570, minst én dag ordinært arbeid i løpet av ) står på oppgitt side
+- OK   3 estimat=1.28 rad 89 (W4412642570, minst én dag ordinært arbeid i løpet av ) står i sitatet
+- OK   3 ki_lav=0.70 rad 89 (W4412642570, minst én dag ordinært arbeid i løpet av ) står i sitatet
+- OK   3 ki_hoy=2.35 rad 89 (W4412642570, minst én dag ordinært arbeid i løpet av ) står i sitatet
+- OK   4 rad 89 (W4412642570, minst én dag ordinært arbeid i løpet av ) estimat innenfor KI
+- OK   4 rad 89 (W4412642570, minst én dag ordinært arbeid i løpet av ) KI symmetrisk på log-skala (avvik 0.00)
+- OK   2 sitat rad 90 (W4412642570, arbeidstimer i løpet av 18 mnd (601 mot ) står på oppgitt side
+- OK   3 estimat=330 rad 90 (W4412642570, arbeidstimer i løpet av 18 mnd (601 mot ) står i sitatet
+- OK   3 ki_lav=25 rad 90 (W4412642570, arbeidstimer i løpet av 18 mnd (601 mot ) står i sitatet
+- OK   3 ki_hoy=635 rad 90 (W4412642570, arbeidstimer i løpet av 18 mnd (601 mot ) står i sitatet
+- OK   4 rad 90 (W4412642570, arbeidstimer i løpet av 18 mnd (601 mot ) estimat innenfor KI
+- OK   2 sitat rad 91 (W4412642570, samlet lønnsinntekt i 18 mnd, kroner (14) står på oppgitt side
+- OK   3 estimat=94000 rad 91 (W4412642570, samlet lønnsinntekt i 18 mnd, kroner (14) står i sitatet
+- OK   3 ki_lav=17000 rad 91 (W4412642570, samlet lønnsinntekt i 18 mnd, kroner (14) står i sitatet
+- OK   3 ki_hoy=170000 rad 91 (W4412642570, samlet lønnsinntekt i 18 mnd, kroner (14) står i sitatet
+- OK   4 rad 91 (W4412642570, samlet lønnsinntekt i 18 mnd, kroner (14) estimat innenfor KI
+- OK   2 sitat rad 92 (W4412642570, mottak av tjenester fra sosial- og velfe) står på oppgitt side
+- OK   3 estimat=2.99 rad 92 (W4412642570, mottak av tjenester fra sosial- og velfe) står i sitatet
+- OK   3 ki_lav=1.64 rad 92 (W4412642570, mottak av tjenester fra sosial- og velfe) står i sitatet
+- OK   3 ki_hoy=5.57 rad 92 (W4412642570, mottak av tjenester fra sosial- og velfe) står i sitatet
+- OK   4 rad 92 (W4412642570, mottak av tjenester fra sosial- og velfe) estimat innenfor KI
+- OK   4 rad 92 (W4412642570, mottak av tjenester fra sosial- og velfe) KI symmetrisk på log-skala (avvik 0.02)
+- OK   2 sitat rad 93 (W2885000375, i arbeid uten ytelser minst 24 av 36 mnd) står på oppgitt side
+- OK   3 estimat=3.5 rad 93 (W2885000375, i arbeid uten ytelser minst 24 av 36 mnd) står i sitatet
+- OK   2 sitat rad 94 (W2885000375, i arbeid uten ytelser minst 24 av 36 mnd) står på oppgitt side
+- OK   3 estimat=7.1 rad 94 (W2885000375, i arbeid uten ytelser minst 24 av 36 mnd) står i sitatet
+- OK   2 sitat rad 95 (W2885000375, årsinntekt år 2 etter inklusjon, justert) står på oppgitt side
+- OK   3 estimat=3515 rad 95 (W2885000375, årsinntekt år 2 etter inklusjon, justert) står i sitatet
+- OK   2 sitat rad 96 (W2167890993, økt eller opprettholdt arbeidsdeltakelse) står på oppgitt side
+- OK   3 estimat=6.9 rad 96 (W2167890993, økt eller opprettholdt arbeidsdeltakelse) står i sitatet
+- OK   2 sitat rad 97 (W2167890993, økt eller opprettholdt arbeidsdeltakelse) står på oppgitt side
+- OK   3 estimat=12.2 rad 97 (W2167890993, økt eller opprettholdt arbeidsdeltakelse) står i sitatet
+- OK   2 sitat rad 98 (W2167890993, økt eller opprettholdt arbeidsdeltakelse) står på oppgitt side
+- OK   3 estimat=7.8 rad 98 (W2167890993, økt eller opprettholdt arbeidsdeltakelse) står i sitatet
+- OK   2 sitat rad 99 (W4214760378, andel i arbeid i løpet av 12 mnd i IPS-g) står på oppgitt side
+- OK   3 estimat=52.8 rad 99 (W4214760378, andel i arbeid i løpet av 12 mnd i IPS-g) står i sitatet
+- OK   2 sitat rad 100 (AV-2021-2-03, andel i arbeid 24 mnd etter oppstart; su) står på oppgitt side
+- OK   3 estimat=12 rad 100 (AV-2021-2-03, andel i arbeid 24 mnd etter oppstart; su) står i sitatet
+- OK   2 sitat rad 101 (AV-2021-2-03, flere mottar fortsatt AAP tre år etter s) står på oppgitt side
+- OK   3 estimat=10 rad 101 (AV-2021-2-03, flere mottar fortsatt AAP tre år etter s) står i sitatet
+- OK   2 sitat rad 102 (W4367311571, fått ordinært arbeid i løpet av 30 mnd () står på oppgitt side
+- OK   3 estimat=0.114 rad 102 (W4367311571, fått ordinært arbeid i løpet av 30 mnd () står i sitatet
+- OK   3 ki_lav=0.006 rad 102 (W4367311571, fått ordinært arbeid i løpet av 30 mnd () står i sitatet
+- OK   3 ki_hoy=0.226 rad 102 (W4367311571, fått ordinært arbeid i løpet av 30 mnd () står i sitatet
+- OK   4 rad 102 (W4367311571, fått ordinært arbeid i løpet av 30 mnd () estimat innenfor KI
+- OK   2 sitat rad 103 (W4367311571, uker i ordinært arbeid i løpet av 30 mnd) står på oppgitt side
+- OK   3 estimat=25 rad 103 (W4367311571, uker i ordinært arbeid i løpet av 30 mnd) står i sitatet
+- OK   2 sitat rad 104 (W3129101132, lønnsinntekt første år, euro lavere i IP) står på oppgitt side
+- OK   3 estimat=3376 rad 104 (W3129101132, lønnsinntekt første år, euro lavere i IP) står i sitatet
+- OK   2 sitat rad 105 (W3129101132, samlede kostnader første år, euro lavere) står på oppgitt side
+- OK   3 estimat=2221 rad 105 (W3129101132, samlede kostnader første år, euro lavere) står i sitatet
+- OK   2 sitat rad 106 (W3117173428, lavere samlede kostnader, euro (signifik) står på oppgitt side
+- OK   3 estimat=9543 rad 106 (W3117173428, lavere samlede kostnader, euro (signifik) står i sitatet
+- OK   2 sitat rad 107 (W3117173428, høyere lønnsinntekt, euro; samme materia) står på oppgitt side
+- OK   3 estimat=1792 rad 107 (W3117173428, høyere lønnsinntekt, euro; samme materia) står i sitatet
+- OK   2 sitat rad 108 (KU-7dc2d886-f49c-4f6c-bb44-20be6225f058, arbeidsdeltakelse etter avsluttet IPS un) står på oppgitt side
+- OK   3 estimat=5.3 rad 108 (KU-7dc2d886-f49c-4f6c-bb44-20be6225f058, arbeidsdeltakelse etter avsluttet IPS un) står i sitatet
+- OK   2 sitat rad 109 (KU-7dc2d886-f49c-4f6c-bb44-20be6225f058, arbeidsdeltakelse før og etter, 20–24 år) står på oppgitt side
+- OK   3 estimat=8.4 rad 109 (KU-7dc2d886-f49c-4f6c-bb44-20be6225f058, arbeidsdeltakelse før og etter, 20–24 år) står i sitatet
+- OK   2 sitat rad 110 (KU-7dc2d886-f49c-4f6c-bb44-20be6225f058, reduksjon i deltakelse i arbeidsmarkedst) står på oppgitt side
+- OK   3 estimat=10 rad 110 (KU-7dc2d886-f49c-4f6c-bb44-20be6225f058, reduksjon i deltakelse i arbeidsmarkedst) står i sitatet
+- OK   2 sitat rad 111 (W3196725163, langtidseffekt på ordinært arbeid ved et) står på oppgitt side
+- OK   3 estimat=15.1 rad 111 (W3196725163, langtidseffekt på ordinært arbeid ved et) står i sitatet
+- OK   2 sitat rad 113 (W7113154702, avkastning (ROI) av IPS-innføring over 4) står på oppgitt side
+- OK   3 estimat=4.76 rad 113 (W7113154702, avkastning (ROI) av IPS-innføring over 4) står i sitatet
+- OK   2 sitat rad 114 (W4390697352, arbeidsdager per år per person, gjennoms) står på oppgitt side
+- OK   3 estimat=5.6 rad 114 (W4390697352, arbeidsdager per år per person, gjennoms) står i sitatet
+- OK   3 ki_lav=2.7 rad 114 (W4390697352, arbeidsdager per år per person, gjennoms) står i sitatet
+- OK   3 ki_hoy=8.4 rad 114 (W4390697352, arbeidsdager per år per person, gjennoms) står i sitatet
+- OK   4 rad 114 (W4390697352, arbeidsdager per år per person, gjennoms) estimat innenfor KI
+- OK   2 sitat rad 115 (W4390697352, arbeidsdager per år per person tre år et) står på oppgitt side
+- OK   3 estimat=10.5 rad 115 (W4390697352, arbeidsdager per år per person tre år et) står i sitatet
+- OK   2 sitat rad 117 (LI-21150545, andel som fikk arbeid (inkludert lønnsti) står på oppgitt side
+- OK   3 estimat=12 rad 117 (LI-21150545, andel som fikk arbeid (inkludert lønnsti) står i sitatet
+- OK   2 sitat rad 118 (FI-uef.9915208111505966, andel som fikk ordinært arbeid minst én ) står på oppgitt side
+- OK   3 estimat=49 rad 118 (FI-uef.9915208111505966, andel som fikk ordinært arbeid minst én ) står i sitatet
+- OK   2 sitat rad 119 (FI-uef.9915208111505966, andel i arbeid ved ettårsoppfølging (55 ) står på oppgitt side
+- OK   3 estimat=44 rad 119 (FI-uef.9915208111505966, andel i arbeid ved ettårsoppfølging (55 ) står i sitatet
+- OK   2 sitat rad 120 (FI-arto.019427806, andel som fikk ordinært arbeid minst én ) står på oppgitt side
+- OK   3 estimat=49 rad 120 (FI-arto.019427806, andel som fikk ordinært arbeid minst én ) står i sitatet
+- OK   2 sitat rad 121 (W4220994326, fått ordinært arbeid under IPS, justert ) står på oppgitt side
+- OK   3 estimat=0.97 rad 121 (W4220994326, fått ordinært arbeid under IPS, justert ) står i sitatet
+- OK   3 ki_lav=0.74 rad 121 (W4220994326, fått ordinært arbeid under IPS, justert ) står i sitatet
+- OK   3 ki_hoy=1.27 rad 121 (W4220994326, fått ordinært arbeid under IPS, justert ) står i sitatet
+- OK   4 rad 121 (W4220994326, fått ordinært arbeid under IPS, justert ) estimat innenfor KI
+- OK   4 rad 121 (W4220994326, fått ordinært arbeid under IPS, justert ) KI symmetrisk på log-skala (avvik 0.00)
+- OK   2 sitat rad 122 (W4308383004, samfunnsøkonomisk gevinst over 5 år for ) står på oppgitt side
+- OK   3 estimat=2519906 rad 122 (W4308383004, samfunnsøkonomisk gevinst over 5 år for ) står i sitatet
+- OK   2 sitat rad 123 (W7165951382, samfunnsøkonomisk gevinst første år ette) står på oppgitt side
+- OK   3 estimat=214103 rad 123 (W7165951382, samfunnsøkonomisk gevinst første år ette) står i sitatet
+- OK   2 sitat rad 124 (W7165951382, kostnadsbesparelse fra mindre bruk av so) står på oppgitt side
+- OK   3 estimat=157593 rad 124 (W7165951382, kostnadsbesparelse fra mindre bruk av so) står i sitatet
+- OK   2 sitat rad 125 (W1970238684, fått ordinært arbeid ved 18 mnd (46 mot ) står på oppgitt side
+- OK   3 estimat=36 rad 125 (W1970238684, fått ordinært arbeid ved 18 mnd (46 mot ) står i sitatet
+- OK   3 ki_lav=18 rad 125 (W1970238684, fått ordinært arbeid ved 18 mnd (46 mot ) står i sitatet
+- OK   3 ki_hoy=54 rad 125 (W1970238684, fått ordinært arbeid ved 18 mnd (46 mot ) står i sitatet
+- OK   4 rad 125 (W1970238684, fått ordinært arbeid ved 18 mnd (46 mot ) estimat innenfor KI
+- OK   2 sitat rad 126 (W2971662801, timer i ordinært arbeid eller utdanning ) står på oppgitt side
+- OK   3 estimat=0.127 rad 126 (W2971662801, timer i ordinært arbeid eller utdanning ) står i sitatet
+- OK   3 ki_lav=-0.017 rad 126 (W2971662801, timer i ordinært arbeid eller utdanning ) står i sitatet
+- OK   3 ki_hoy=0.276 rad 126 (W2971662801, timer i ordinært arbeid eller utdanning ) står i sitatet
+- OK   4 rad 126 (W2971662801, timer i ordinært arbeid eller utdanning ) estimat innenfor KI
+- OK   2 sitat rad 127 (W3128265002, arbeidsrate 18 mnd etter start (tallet s) står på oppgitt side
+- OK   3 estimat=10 rad 127 (W3128265002, arbeidsrate 18 mnd etter start (tallet s) står i sitatet
+- OK   2 sitat rad 128 (W2617951239, ordinært arbeid eller utdanning etter 24) står på oppgitt side
+- OK   3 estimat=1.34 rad 128 (W2617951239, ordinært arbeid eller utdanning etter 24) står i sitatet
+- OK   3 ki_lav=0.86 rad 128 (W2617951239, ordinært arbeid eller utdanning etter 24) står i sitatet
+- OK   3 ki_hoy=2.10 rad 128 (W2617951239, ordinært arbeid eller utdanning etter 24) står i sitatet
+- OK   4 rad 128 (W2617951239, ordinært arbeid eller utdanning etter 24) estimat innenfor KI
+- OK   4 rad 128 (W2617951239, ordinært arbeid eller utdanning etter 24) KI symmetrisk på log-skala (avvik 0.01)
+- OK   2 sitat rad 129 (W7224236002, andel i arbeid ett år etter screening (k) står på oppgitt side
+- OK   3 estimat=38 rad 129 (W7224236002, andel i arbeid ett år etter screening (k) står i sitatet
+- OK   2 sitat rad 130 (W2784242610, lavere kostnad per person per år, euro () står på oppgitt side
+- OK   3 estimat=7247 rad 130 (W2784242610, lavere kostnad per person per år, euro () står i sitatet
+- OK   2 sitat rad 131 (W2166061916, andel som arbeidet minst 1 dag i ordinær) står på oppgitt side
+- OK   3 estimat=55 rad 131 (W2166061916, andel som arbeidet minst 1 dag i ordinær) står i sitatet
+- OK   2 sitat rad 132 (W2166061916, kostnad for selve tiltaket per person ov) står på oppgitt side
+- OK   3 estimat=4022 rad 132 (W2166061916, kostnad for selve tiltaket per person ov) står i sitatet
+- OK   2 sitat rad 133 (W2166061916, forskjell i netto nytte (verdi av arbeid) står på oppgitt side
+- OK   3 estimat=17005 rad 133 (W2166061916, forskjell i netto nytte (verdi av arbeid) står i sitatet
+- OK   2 sitat rad 134 (W1797793633, andel som fikk ny jobb i ordinært arbeid) står på oppgitt side
+- OK   3 estimat=32 rad 134 (W1797793633, andel som fikk ny jobb i ordinært arbeid) står i sitatet
+- OK   2 sitat rad 135 (W1797793633, andel som fikk ny jobb i ordinært arbeid) står på oppgitt side
+- OK   3 estimat=12 rad 135 (W1797793633, andel som fikk ny jobb i ordinært arbeid) står i sitatet
+- OK   2 sitat rad 136 (W3206833498, andel i arbeid etter 6 år (72 mnd), IPS ) står på oppgitt side
+- OK   3 estimat=36 rad 136 (W3206833498, andel i arbeid etter 6 år (72 mnd), IPS ) står i sitatet
+- OK   2 sitat rad 137 (W1996383920, andel i ordinært arbeid etter 1 år (13 p) står på oppgitt side
+- OK   3 estimat=1.35 rad 137 (W1996383920, andel i ordinært arbeid etter 1 år (13 p) står i sitatet
+- OK   3 ki_lav=0.95 rad 137 (W1996383920, andel i ordinært arbeid etter 1 år (13 p) står i sitatet
+- OK   3 ki_hoy=1.93 rad 137 (W1996383920, andel i ordinært arbeid etter 1 år (13 p) står i sitatet
+- OK   4 rad 137 (W1996383920, andel i ordinært arbeid etter 1 år (13 p) estimat innenfor KI
+- OK   4 rad 137 (W1996383920, andel i ordinært arbeid etter 1 år (13 p) KI symmetrisk på log-skala (avvik 0.01)
+- OK   2 sitat rad 138 (W1996383920, totale kostnader over 1 år høyere i kont) står på oppgitt side
+- OK   3 estimat=2176 rad 138 (W1996383920, totale kostnader over 1 år høyere i kont) står i sitatet
+- OK   3 ki_lav=445 rad 138 (W1996383920, totale kostnader over 1 år høyere i kont) står i sitatet
+- OK   3 ki_hoy=4168 rad 138 (W1996383920, totale kostnader over 1 år høyere i kont) står i sitatet
+- OK   4 rad 138 (W1996383920, totale kostnader over 1 år høyere i kont) estimat innenfor KI
+- OK   2 sitat rad 139 (W2148730259, andel i arbeid (minst 1 dag) etter 18 mn) står på oppgitt side
+- OK   3 estimat=41 rad 139 (W2148730259, andel i arbeid (minst 1 dag) etter 18 mn) står i sitatet
+- OK   2 sitat rad 140 (W2148730259, andel i arbeid (minst 1 dag) etter 18 mn) står på oppgitt side
+- OK   3 estimat=46 rad 140 (W2148730259, andel i arbeid (minst 1 dag) etter 18 mn) står i sitatet
+- OK   2 sitat rad 141 (W2148730259, tid til første jobb, ingen forskjell) står på oppgitt side
+- OK   3 estimat=0.90 rad 141 (W2148730259, tid til første jobb, ingen forskjell) står i sitatet
+- OK   3 ki_lav=0.51 rad 141 (W2148730259, tid til første jobb, ingen forskjell) står i sitatet
+- OK   3 ki_hoy=1.58 rad 141 (W2148730259, tid til første jobb, ingen forskjell) står i sitatet
+- OK   4 rad 141 (W2148730259, tid til første jobb, ingen forskjell) estimat innenfor KI
+- OK   4 rad 141 (W2148730259, tid til første jobb, ingen forskjell) KI symmetrisk på log-skala (avvik 0.01)
+- OK   2 sitat rad 142 (W7110135164, andel i ordinært arbeid etter 6 mnd, IPS) står på oppgitt side
+- OK   3 estimat=75.0 rad 142 (W7110135164, andel i ordinært arbeid etter 6 mnd, IPS) står i sitatet
+- OK   2 sitat rad 143 (W7110135164, odds for ordinært arbeid etter 6 mnd) står på oppgitt side
+- OK   3 estimat=16 rad 143 (W7110135164, odds for ordinært arbeid etter 6 mnd) står i sitatet
+- OK   3 ki_lav=3.43 rad 143 (W7110135164, odds for ordinært arbeid etter 6 mnd) står i sitatet
+- OK   3 ki_hoy=74.70 rad 143 (W7110135164, odds for ordinært arbeid etter 6 mnd) står i sitatet
+- OK   4 rad 143 (W7110135164, odds for ordinært arbeid etter 6 mnd) estimat innenfor KI
+- OK   4 rad 143 (W7110135164, odds for ordinært arbeid etter 6 mnd) KI symmetrisk på log-skala (avvik 0.00)
+- OK   2 sitat rad 144 (W2955110386, andel i ordinært arbeid minst 3 mnd ved ) står på oppgitt side
+- OK   3 estimat=55.1 rad 144 (W2955110386, andel i ordinært arbeid minst 3 mnd ved ) står i sitatet
+- OK   2 sitat rad 145 (W2955110386, tid til ordinært arbeid, ikke signifikan) står på oppgitt side
+- OK   3 estimat=1.74 rad 145 (W2955110386, tid til ordinært arbeid, ikke signifikan) står i sitatet
+- OK   3 ki_lav=0.86 rad 145 (W2955110386, tid til ordinært arbeid, ikke signifikan) står i sitatet
+- OK   3 ki_hoy=3.49 rad 145 (W2955110386, tid til ordinært arbeid, ikke signifikan) står i sitatet
+- OK   4 rad 145 (W2955110386, tid til ordinært arbeid, ikke signifikan) estimat innenfor KI
+- OK   4 rad 145 (W2955110386, tid til ordinært arbeid, ikke signifikan) KI symmetrisk på log-skala (avvik 0.01)
+- OK   2 sitat rad 146 (W4392558137, sannsynlighet for ordinært arbeid minst ) står på oppgitt side
+- OK   3 estimat=3.7 rad 146 (W4392558137, sannsynlighet for ordinært arbeid minst ) står i sitatet
+- OK   3 ki_lav=0.8 rad 146 (W4392558137, sannsynlighet for ordinært arbeid minst ) står i sitatet
+- OK   3 ki_hoy=6.7 rad 146 (W4392558137, sannsynlighet for ordinært arbeid minst ) står i sitatet
+- OK   4 rad 146 (W4392558137, sannsynlighet for ordinært arbeid minst ) estimat innenfor KI
+- OK   2 sitat rad 147 (W4392558137, sannsynlighet for ordinært arbeid minst ) står på oppgitt side
+- OK   3 estimat=7.5 rad 147 (W4392558137, sannsynlighet for ordinært arbeid minst ) står i sitatet
+- OK   3 ki_lav=3.8 rad 147 (W4392558137, sannsynlighet for ordinært arbeid minst ) står i sitatet
+- OK   3 ki_hoy=11.3 rad 147 (W4392558137, sannsynlighet for ordinært arbeid minst ) står i sitatet
+- OK   4 rad 147 (W4392558137, sannsynlighet for ordinært arbeid minst ) estimat innenfor KI
+- OK   2 sitat rad 148 (W4392558137, kostnadsforskjell per person, samfunnspe) står på oppgitt side
+- OK   3 estimat=-364 rad 148 (W4392558137, kostnadsforskjell per person, samfunnspe) står i sitatet
+- OK   3 ki_lav=-3977 rad 148 (W4392558137, kostnadsforskjell per person, samfunnspe) står i sitatet
+- OK   3 ki_hoy=3249 rad 148 (W4392558137, kostnadsforskjell per person, samfunnspe) står i sitatet
+- OK   4 rad 148 (W4392558137, kostnadsforskjell per person, samfunnspe) estimat innenfor KI
+- OK   2 sitat rad 149 (W3092528766, sannsynlighet for ordinært arbeid 8–18 m) står på oppgitt side
+- OK   3 estimat=8 rad 149 (W3092528766, sannsynlighet for ordinært arbeid 8–18 m) står i sitatet
+- OK   2 sitat rad 150 (W3092528766, langtidsvirkning: effekten på ordinært a) står på oppgitt side
+- OK   2 sitat rad 151 (W2141839834, andel med ordinært arbeid i løpet av 12 ) står på oppgitt side
+- OK   3 estimat=47 rad 151 (W2141839834, andel med ordinært arbeid i løpet av 12 ) står i sitatet
+- OK   2 sitat rad 152 (W2141839834, timer i ordinært arbeid over 12 mnd, IPS) står på oppgitt side
+- OK   3 estimat=126 rad 152 (W2141839834, timer i ordinært arbeid over 12 mnd, IPS) står i sitatet
+- OK   2 sitat rad 153 (W2142209734, antall i arbeid etter 6 mnd, 13 av 20 i ) står på oppgitt side
+- OK   3 estimat=13 rad 153 (W2142209734, antall i arbeid etter 6 mnd, 13 av 20 i ) står i sitatet
+- OK   2 sitat rad 154 (W2893792582, andel som hadde vært i arbeid etter 6 mn) står på oppgitt side
+- OK   3 estimat=3.40 rad 154 (W2893792582, andel som hadde vært i arbeid etter 6 mn) står i sitatet
+- OK   3 ki_lav=1.17 rad 154 (W2893792582, andel som hadde vært i arbeid etter 6 mn) står i sitatet
+- OK   3 ki_hoy=9.91 rad 154 (W2893792582, andel som hadde vært i arbeid etter 6 mn) står i sitatet
+- OK   4 rad 154 (W2893792582, andel som hadde vært i arbeid etter 6 mn) estimat innenfor KI
+- OK   4 rad 154 (W2893792582, andel som hadde vært i arbeid etter 6 mn) KI symmetrisk på log-skala (avvik 0.00)
+- OK   2 sitat rad 155 (W2893792582, langtidsvirkning: p-verdi for forskjell ) står på oppgitt side
+- OK   3 estimat=0.594 rad 155 (W2893792582, langtidsvirkning: p-verdi for forskjell ) står i sitatet
+- OK   2 sitat rad 156 (W4410133250, arbeid, utdanning eller opplæring minst ) står på oppgitt side
+- OK   3 estimat=3.0 rad 156 (W4410133250, arbeid, utdanning eller opplæring minst ) står i sitatet
+- OK   3 ki_lav=1.2 rad 156 (W4410133250, arbeid, utdanning eller opplæring minst ) står i sitatet
+- OK   3 ki_hoy=7.51 rad 156 (W4410133250, arbeid, utdanning eller opplæring minst ) står i sitatet
+- OK   4 rad 156 (W4410133250, arbeid, utdanning eller opplæring minst ) estimat innenfor KI
+- OK   4 rad 156 (W4410133250, arbeid, utdanning eller opplæring minst ) KI symmetrisk på log-skala (avvik 0.00)
+- OK   2 sitat rad 157 (W4410133250, arbeid minst 15 t/uke, delutvalget som i) står på oppgitt side
+- OK   3 estimat=3.5 rad 157 (W4410133250, arbeid minst 15 t/uke, delutvalget som i) står i sitatet
+- OK   3 ki_lav=1.07 rad 157 (W4410133250, arbeid minst 15 t/uke, delutvalget som i) står i sitatet
+- OK   3 ki_hoy=11.4 rad 157 (W4410133250, arbeid minst 15 t/uke, delutvalget som i) står i sitatet
+- OK   4 rad 157 (W4410133250, arbeid minst 15 t/uke, delutvalget som i) estimat innenfor KI
+- OK   4 rad 157 (W4410133250, arbeid minst 15 t/uke, delutvalget som i) KI symmetrisk på log-skala (avvik 0.00)
+- OK   2 sitat rad 158 (W3206158820, forskjell i andel i arbeid (minst 1 dag)) står på oppgitt side
+- OK   3 estimat=5 rad 158 (W3206158820, forskjell i andel i arbeid (minst 1 dag)) står i sitatet
+- OK   2 sitat rad 159 (W2153505289, odds for arbeid etter 12 mnd (29 av 68 m) står på oppgitt side
+- OK   3 estimat=4.3 rad 159 (W2153505289, odds for arbeid etter 12 mnd (29 av 68 m) står i sitatet
+- OK   2 sitat rad 161 (W4391244179, oppnådd ordinært arbeid i løpet av 18 mn) står på oppgitt side
+- OK   3 estimat=1.29 rad 161 (W4391244179, oppnådd ordinært arbeid i løpet av 18 mn) står i sitatet
+- OK   3 ki_lav=1.02 rad 161 (W4391244179, oppnådd ordinært arbeid i løpet av 18 mn) står i sitatet
+- OK   3 ki_hoy=1.64 rad 161 (W4391244179, oppnådd ordinært arbeid i løpet av 18 mn) står i sitatet
+- OK   4 rad 161 (W4391244179, oppnådd ordinært arbeid i løpet av 18 mn) estimat innenfor KI
+- OK   4 rad 161 (W4391244179, oppnådd ordinært arbeid i løpet av 18 mn) KI symmetrisk på log-skala (avvik 0.01)
+- OK   2 sitat rad 162 (W4391244179, oppnådd ordinært arbeid i løpet av 18 mn) står på oppgitt side
+- OK   3 estimat=1.48 rad 162 (W4391244179, oppnådd ordinært arbeid i løpet av 18 mn) står i sitatet
+- OK   3 ki_lav=1.14 rad 162 (W4391244179, oppnådd ordinært arbeid i løpet av 18 mn) står i sitatet
+- OK   3 ki_hoy=1.92 rad 162 (W4391244179, oppnådd ordinært arbeid i løpet av 18 mn) står i sitatet
+- OK   4 rad 162 (W4391244179, oppnådd ordinært arbeid i løpet av 18 mn) estimat innenfor KI
+- OK   4 rad 162 (W4391244179, oppnådd ordinært arbeid i løpet av 18 mn) KI symmetrisk på log-skala (avvik 0.00)
+- OK   2 sitat rad 163 (W4391244179, oppnådd ordinært arbeid i løpet av 18 mn) står på oppgitt side
+- OK   3 estimat=1.45 rad 163 (W4391244179, oppnådd ordinært arbeid i løpet av 18 mn) står i sitatet
+- OK   3 ki_lav=1.03 rad 163 (W4391244179, oppnådd ordinært arbeid i løpet av 18 mn) står i sitatet
+- OK   3 ki_hoy=2.04 rad 163 (W4391244179, oppnådd ordinært arbeid i løpet av 18 mn) står i sitatet
+- OK   4 rad 163 (W4391244179, oppnådd ordinært arbeid i løpet av 18 mn) estimat innenfor KI
+- OK   4 rad 163 (W4391244179, oppnådd ordinært arbeid i løpet av 18 mn) KI symmetrisk på log-skala (avvik 0.00)
+- OK   2 sitat rad 164 (W4391244179, sannsynlighet for at IPS er kostnadseffe) står på oppgitt side
+- OK   3 estimat=0.61 rad 164 (W4391244179, sannsynlighet for at IPS er kostnadseffe) står i sitatet
+- OK   2 sitat rad 165 (W4391244179, andel med ordinært arbeid, IPS 50 prosen) står på oppgitt side
+- OK   3 estimat=50 rad 165 (W4391244179, andel med ordinært arbeid, IPS 50 prosen) står i sitatet
+- OK   2 sitat rad 166 (W7170865677, andel i arbeid under nasjonal utbygging ) står på oppgitt side
+- OK   3 estimat=52 rad 166 (W7170865677, andel i arbeid under nasjonal utbygging ) står i sitatet
+- OK   2 sitat rad 167 (W4400255597, tid til varig lønnet arbeid over 18 mnd,) står på oppgitt side
+- OK   3 estimat=1.47 rad 167 (W4400255597, tid til varig lønnet arbeid over 18 mnd,) står i sitatet
+- OK   3 ki_lav=0.81 rad 167 (W4400255597, tid til varig lønnet arbeid over 18 mnd,) står i sitatet
+- OK   3 ki_hoy=2.63 rad 167 (W4400255597, tid til varig lønnet arbeid over 18 mnd,) står i sitatet
+- OK   4 rad 167 (W4400255597, tid til varig lønnet arbeid over 18 mnd,) estimat innenfor KI
+- OK   4 rad 167 (W4400255597, tid til varig lønnet arbeid over 18 mnd,) KI symmetrisk på log-skala (avvik 0.01)
+- OK   2 sitat rad 168 (W4400255597, tid til lønnet arbeid, arbeidsutprøving ) står på oppgitt side
+- OK   3 estimat=1.85 rad 168 (W4400255597, tid til lønnet arbeid, arbeidsutprøving ) står i sitatet
+- OK   3 ki_lav=1.01 rad 168 (W4400255597, tid til lønnet arbeid, arbeidsutprøving ) står i sitatet
+- OK   3 ki_hoy=3.42 rad 168 (W4400255597, tid til lønnet arbeid, arbeidsutprøving ) står i sitatet
+- OK   4 rad 168 (W4400255597, tid til lønnet arbeid, arbeidsutprøving ) estimat innenfor KI
+- OK   4 rad 168 (W4400255597, tid til lønnet arbeid, arbeidsutprøving ) KI symmetrisk på log-skala (avvik 0.01)
+- OK   2 sitat rad 170 (W7220702470, nytte-kostnadsforhold etter 5 år (pund t) står på oppgitt side
+- OK   3 estimat=5.67 rad 170 (W7220702470, nytte-kostnadsforhold etter 5 år (pund t) står i sitatet
+- OK   2 sitat rad 171 (W4400776472, andel som kom i (eller tilbake til) ordi) står på oppgitt side
+- OK   3 estimat=51.7 rad 171 (W4400776472, andel som kom i (eller tilbake til) ordi) står i sitatet
+- OK   2 sitat rad 172 (W4390718237, økning i arbeidsdeltakelse per år etter ) står på oppgitt side
+- OK   3 estimat=15.3 rad 172 (W4390718237, økning i arbeidsdeltakelse per år etter ) står i sitatet
+- OK   2 sitat rad 173 (W4390718237, endring i psykisk helse (skala 0–100), i) står på oppgitt side
+- OK   3 estimat=1.0 rad 173 (W4390718237, endring i psykisk helse (skala 0–100), i) står i sitatet
+- OK   3 ki_lav=-3.4 rad 173 (W4390718237, endring i psykisk helse (skala 0–100), i) står i sitatet
+- OK   3 ki_hoy=5.5 rad 173 (W4390718237, endring i psykisk helse (skala 0–100), i) står i sitatet
+- OK   4 rad 173 (W4390718237, endring i psykisk helse (skala 0–100), i) estimat innenfor KI
+- OK   2 sitat rad 174 (W2994494788, samspill mellom personlighetsforstyrrels) står på oppgitt side
+- OK   3 estimat=0.592 rad 174 (W2994494788, samspill mellom personlighetsforstyrrels) står i sitatet
+- OK   3 ki_lav=0.080 rad 174 (W2994494788, samspill mellom personlighetsforstyrrels) står i sitatet
+- OK   3 ki_hoy=4.350 rad 174 (W2994494788, samspill mellom personlighetsforstyrrels) står i sitatet
+- OK   4 rad 174 (W2994494788, samspill mellom personlighetsforstyrrels) estimat innenfor KI
+- OK   4 rad 174 (W2994494788, samspill mellom personlighetsforstyrrels) KI symmetrisk på log-skala (avvik 0.01)
+- OK   2 sitat rad 175 (W2117347476, andel som noen gang var i ordinært arbei) står på oppgitt side
+- OK   3 estimat=58.7 rad 175 (W2117347476, andel som noen gang var i ordinært arbei) står i sitatet
+- OK   2 sitat rad 176 (W2150078125, andel som fikk ordinært arbeid over 5 år) står på oppgitt side
+- OK   3 estimat=65 rad 176 (W2150078125, andel som fikk ordinært arbeid over 5 år) står i sitatet
+- OK   2 sitat rad 177 (W2318621877, andel som fikk ordinært arbeid over 30 m) står på oppgitt side
+- OK   3 estimat=44 rad 177 (W2318621877, andel som fikk ordinært arbeid over 30 m) står i sitatet
+- OK   2 sitat rad 178 (W1561511295, andel i ordinært arbeid etter 2 år, IPS ) står på oppgitt side
+- OK   3 estimat=22 rad 178 (W1561511295, andel i ordinært arbeid etter 2 år, IPS ) står i sitatet
+- OK   2 sitat rad 179 (W4405813061, sannsynlighet for å arbeide ved siden av) står på oppgitt side
+- OK   3 estimat=7.5 rad 179 (W4405813061, sannsynlighet for å arbeide ved siden av) står i sitatet
+- OK   2 sitat rad 180 (W4405813061, reduksjon i utbetalt uføreytelse per mån) står på oppgitt side
+- OK   3 estimat=110 rad 180 (W4405813061, reduksjon i utbetalt uføreytelse per mån) står i sitatet
+- OK   2 sitat rad 181 (W7134921695, andel i arbeid 12 mnd senere) står på oppgitt side
+- OK   3 estimat=3 rad 181 (W7134921695, andel i arbeid 12 mnd senere) står i sitatet
+- OK   2 sitat rad 182 (W7134921695, andel i arbeid 12 mnd senere, effekt bar) står på oppgitt side
+- OK   3 estimat=4 rad 182 (W7134921695, andel i arbeid 12 mnd senere, effekt bar) står i sitatet
+- OK   2 sitat rad 183 (W2124049088, andel i ordinært arbeid over 24 mnd, 55 ) står på oppgitt side
+- OK   3 estimat=55 rad 183 (W2124049088, andel i ordinært arbeid over 24 mnd, 55 ) står i sitatet
+- OK   2 sitat rad 184 (W2344919484, odds for å være i arbeid over 13 år ette) står på oppgitt side
+- OK   3 estimat=2.89 rad 184 (W2344919484, odds for å være i arbeid over 13 år ette) står i sitatet
+- OK   2 sitat rad 185 (W2143646253, andel med ordinær jobb over 24 mnd, 64 p) står på oppgitt side
+- OK   3 estimat=64 rad 185 (W2143646253, andel med ordinær jobb over 24 mnd, 64 p) står i sitatet
+- OK   2 sitat rad 186 (W2003569369, andel i ordinært arbeid over 2 år, IPS 7) står på oppgitt side
+- OK   3 estimat=75.0 rad 186 (W2003569369, andel i ordinært arbeid over 2 år, IPS 7) står i sitatet
+- OK   2 sitat rad 187 (W2124918259, andel i ordinært arbeid over 12 mnd, IPS) står på oppgitt side
+- OK   3 estimat=76 rad 187 (W2124918259, andel i ordinært arbeid over 12 mnd, IPS) står i sitatet
+- OK   2 sitat rad 188 (W2792496846, stabil jobb (ordinær jobb minst halvpart) står på oppgitt side
+- OK   3 estimat=2.14 rad 188 (W2792496846, stabil jobb (ordinær jobb minst halvpart) står i sitatet
+- OK   3 ki_lav=1.46 rad 188 (W2792496846, stabil jobb (ordinær jobb minst halvpart) står i sitatet
+- OK   3 ki_hoy=3.14 rad 188 (W2792496846, stabil jobb (ordinær jobb minst halvpart) står i sitatet
+- OK   4 rad 188 (W2792496846, stabil jobb (ordinær jobb minst halvpart) estimat innenfor KI
+- OK   4 rad 188 (W2792496846, stabil jobb (ordinær jobb minst halvpart) KI symmetrisk på log-skala (avvik 0.00)
+- OK   2 sitat rad 189 (W2118764718, andel med lønnet arbeid over 2 år, 60.3 ) står på oppgitt side
+- OK   3 estimat=60.3 rad 189 (W2118764718, andel med lønnet arbeid over 2 år, 60.3 ) står i sitatet
+- OK   2 sitat rad 190 (W2399102424, økning i årlig arbeidsinntekt (USD), lav) står på oppgitt side
+- OK   3 estimat=791 rad 190 (W2399102424, økning i årlig arbeidsinntekt (USD), lav) står i sitatet
+- OK   2 sitat rad 191 (W2037719460, andel i ordinært arbeid over 18 mnd, IPS) står på oppgitt side
+- OK   3 estimat=60 rad 191 (W2037719460, andel i ordinært arbeid over 18 mnd, IPS) står i sitatet
+- OK   2 sitat rad 192 (W2907545556, arbeid eller skole de første 6 mnd, 83 p) står på oppgitt side
+- OK   3 estimat=83 rad 192 (W2907545556, arbeid eller skole de første 6 mnd, 83 p) står i sitatet
+- OK   2 sitat rad 193 (W1772657935, andel i ordinært arbeid etter 1 år, 31 p) står på oppgitt side
+- OK   3 estimat=31 rad 193 (W1772657935, andel i ordinært arbeid etter 1 år, 31 p) står i sitatet
+- OK   2 sitat rad 194 (W3200024219, stabil jobb (ordinær jobb minst 6 av 12 ) står på oppgitt side
+- OK   3 estimat=2.49 rad 194 (W3200024219, stabil jobb (ordinær jobb minst 6 av 12 ) står i sitatet
+- OK   3 ki_lav=1.14 rad 194 (W3200024219, stabil jobb (ordinær jobb minst 6 av 12 ) står i sitatet
+- OK   3 ki_hoy=5.43 rad 194 (W3200024219, stabil jobb (ordinær jobb minst 6 av 12 ) står i sitatet
+- OK   4 rad 194 (W3200024219, stabil jobb (ordinær jobb minst 6 av 12 ) estimat innenfor KI
+- OK   4 rad 194 (W3200024219, stabil jobb (ordinær jobb minst 6 av 12 ) KI symmetrisk på log-skala (avvik 0.00)
+- OK   2 sitat rad 195 (W2784684721, andel med lønnet arbeid over 20 mnd, IPS) står på oppgitt side
+- OK   3 estimat=32 rad 195 (W2784684721, andel med lønnet arbeid over 20 mnd, IPS) står i sitatet
+- OK   2 sitat rad 196 (W2122067603, andel i ordinært arbeid over 6 mnd, IPS ) står på oppgitt side
+- OK   3 estimat=44.4 rad 196 (W2122067603, andel i ordinært arbeid over 6 mnd, IPS ) står i sitatet
+- OK   2 sitat rad 197 (W1922891604, ordinært arbeid over 18 mnd, 70 prosent ) står på oppgitt side
+- OK   3 estimat=5.63 rad 197 (W1922891604, ordinært arbeid over 18 mnd, 70 prosent ) står i sitatet
+- OK   3 ki_lav=2.28 rad 197 (W1922891604, ordinært arbeid over 18 mnd, 70 prosent ) står i sitatet
+- OK   3 ki_hoy=13.84 rad 197 (W1922891604, ordinært arbeid over 18 mnd, 70 prosent ) står i sitatet
+- OK   4 rad 197 (W1922891604, ordinært arbeid over 18 mnd, 70 prosent ) estimat innenfor KI
+- OK   4 rad 197 (W1922891604, ordinært arbeid over 18 mnd, 70 prosent ) KI symmetrisk på log-skala (avvik 0.00)
+- OK   2 sitat rad 198 (W2763804059, andel i arbeid, IPS 50.0 prosent mot 33.) står på oppgitt side
+- OK   3 estimat=50.0 rad 198 (W2763804059, andel i arbeid, IPS 50.0 prosent mot 33.) står i sitatet
+- OK   2 sitat rad 199 (W2734452190, andel som arbeidet minst 1 dag, oppfølgi) står på oppgitt side
+- OK   3 estimat=99 rad 199 (W2734452190, andel som arbeidet minst 1 dag, oppfølgi) står i sitatet
+- OK   2 sitat rad 200 (W2734452190, uker i arbeid per år, IPS 30.1 mot 7.4) står på oppgitt side
+- OK   3 estimat=30.1 rad 200 (W2734452190, uker i arbeid per år, IPS 30.1 mot 7.4) står i sitatet
+- OK   2 sitat rad 201 (W2000466950, andel i ordinært arbeid over 2 år, IPS 7) står på oppgitt side
+- OK   3 estimat=73.9 rad 201 (W2000466950, andel i ordinært arbeid over 2 år, IPS 7) står i sitatet
+- OK   2 sitat rad 202 (W2162345757, kostnad per ekstra uke i ordinært arbeid) står på oppgitt side
+- OK   3 estimat=283 rad 202 (W2162345757, kostnad per ekstra uke i ordinært arbeid) står i sitatet
+- OK   2 sitat rad 203 (W2929226159, PTSD-relatert funksjon (PRFI totalskår, ) står på oppgitt side
+- OK   3 estimat=-3.92 rad 203 (W2929226159, PTSD-relatert funksjon (PRFI totalskår, ) står i sitatet
+- OK   2 sitat rad 204 (W4280563630, høyere årlige helse- og tjenestekostnade) står på oppgitt side
+- OK   3 estimat=4910 rad 204 (W4280563630, høyere årlige helse- og tjenestekostnade) står i sitatet
+- OK   2 sitat rad 205 (W1498833145, andel i arbeid over 18 mnd, IPS 82 prose) står på oppgitt side
+- OK   3 estimat=82 rad 205 (W1498833145, andel i arbeid over 18 mnd, IPS 82 prose) står i sitatet
+- OK   2 sitat rad 206 (W2036473240, effektstørrelse for arbeidsutfall blant ) står på oppgitt side
+- OK   3 estimat=1.10 rad 206 (W2036473240, effektstørrelse for arbeidsutfall blant ) står i sitatet
+- OK   2 sitat rad 207 (W2153599919, andel som startet i arbeid innen 12 mnd,) står på oppgitt side
+- OK   3 estimat=42.5 rad 207 (W2153599919, andel som startet i arbeid innen 12 mnd,) står i sitatet
+- OK   2 sitat rad 208 (W2771563908, langtidsvirkning: andel i arbeid siste 6) står på oppgitt side
+- OK   3 estimat=30 rad 208 (W2771563908, langtidsvirkning: andel i arbeid siste 6) står i sitatet
+- OK   2 sitat rad 209 (W2338814622, Arbeid innen første år (1–12 måneder, 7 ) står på oppgitt side
+- OK   3 estimat=2.59 rad 209 (W2338814622, Arbeid innen første år (1–12 måneder, 7 ) står i sitatet
+- OK   3 ki_lav=1.88 rad 209 (W2338814622, Arbeid innen første år (1–12 måneder, 7 ) står i sitatet
+- OK   3 ki_hoy=3.56 rad 209 (W2338814622, Arbeid innen første år (1–12 måneder, 7 ) står i sitatet
+- OK   4 rad 209 (W2338814622, Arbeid innen første år (1–12 måneder, 7 ) estimat innenfor KI
+- OK   4 rad 209 (W2338814622, Arbeid innen første år (1–12 måneder, 7 ) KI symmetrisk på log-skala (avvik 0.00)
+- OK   2 sitat rad 210 (W4367311571, ordinært arbeid eller utdanning minst én) står på oppgitt side
+- OK   3 estimat=0.123 rad 210 (W4367311571, ordinært arbeid eller utdanning minst én) står i sitatet
+- OK   3 ki_lav=0.012 rad 210 (W4367311571, ordinært arbeid eller utdanning minst én) står i sitatet
+- OK   3 ki_hoy=0.231 rad 210 (W4367311571, ordinært arbeid eller utdanning minst én) står i sitatet
+- OK   4 rad 210 (W4367311571, ordinært arbeid eller utdanning minst én) estimat innenfor KI
+- OK   2 sitat rad 211 (W4367311571, uker i ordinært arbeid eller utdanning o) står på oppgitt side
+- OK   3 estimat=0.146 rad 211 (W4367311571, uker i ordinært arbeid eller utdanning o) står i sitatet
+- OK   3 ki_lav=0.02 rad 211 (W4367311571, uker i ordinært arbeid eller utdanning o) står i sitatet
+- OK   3 ki_hoy=0.268 rad 211 (W4367311571, uker i ordinært arbeid eller utdanning o) står i sitatet
+- OK   4 rad 211 (W4367311571, uker i ordinært arbeid eller utdanning o) estimat innenfor KI
+- OK   2 sitat rad 212 (W3117173428, kostnadsforskjell over 18 mnd i euro, IP) står på oppgitt side
+- OK   3 estimat=7288 rad 212 (W3117173428, kostnadsforskjell over 18 mnd i euro, IP) står i sitatet
+- OK   2 sitat rad 213 (W7220702470, modellert økning i sysselsetting etter 5) står på oppgitt side
+- OK   3 estimat=3.01 rad 213 (W7220702470, modellert økning i sysselsetting etter 5) står i sitatet
+- OK   2 sitat rad 214 (W2738957630, ordinært arbeid (21 studier, moderat til) står på oppgitt side
+- OK   3 estimat=2.40 rad 214 (W2738957630, ordinært arbeid (21 studier, moderat til) står i sitatet
+- OK   3 ki_lav=2.08 rad 214 (W2738957630, ordinært arbeid (21 studier, moderat til) står i sitatet
+- OK   3 ki_hoy=2.77 rad 214 (W2738957630, ordinært arbeid (21 studier, moderat til) står i sitatet
+- OK   4 rad 214 (W2738957630, ordinært arbeid (21 studier, moderat til) estimat innenfor KI
+- OK   4 rad 214 (W2738957630, ordinært arbeid (21 studier, moderat til) KI symmetrisk på log-skala (avvik 0.00)
+- OK   2 sitat rad 215 (W2738957630, tid i ordinært arbeid (SMD, moderat till) står på oppgitt side
+- OK   3 estimat=0.90 rad 215 (W2738957630, tid i ordinært arbeid (SMD, moderat till) står i sitatet
+- OK   3 ki_lav=0.45 rad 215 (W2738957630, tid i ordinært arbeid (SMD, moderat till) står i sitatet
+- OK   3 ki_hoy=1.35 rad 215 (W2738957630, tid i ordinært arbeid (SMD, moderat till) står i sitatet
+- OK   4 rad 215 (W2738957630, tid i ordinært arbeid (SMD, moderat till) estimat innenfor KI
+- OK   2 sitat rad 216 (W2738957630, inntekt (SMD, moderat tillit)) står på oppgitt side
+- OK   3 estimat=0.30 rad 216 (W2738957630, inntekt (SMD, moderat tillit)) står i sitatet
+- OK   3 ki_lav=0.14 rad 216 (W2738957630, inntekt (SMD, moderat tillit)) står i sitatet
+- OK   3 ki_hoy=0.46 rad 216 (W2738957630, inntekt (SMD, moderat tillit)) står i sitatet
+- OK   4 rad 216 (W2738957630, inntekt (SMD, moderat tillit)) estimat innenfor KI
+- OK   2 sitat rad 217 (W2917050602, ordinært arbeid (9 kontrollerte forsøk, ) står på oppgitt side
+- OK   3 estimat=2.23 rad 217 (W2917050602, ordinært arbeid (9 kontrollerte forsøk, ) står i sitatet
+- OK   3 ki_lav=1.53 rad 217 (W2917050602, ordinært arbeid (9 kontrollerte forsøk, ) står i sitatet
+- OK   3 ki_hoy=3.24 rad 217 (W2917050602, ordinært arbeid (9 kontrollerte forsøk, ) står i sitatet
+- OK   4 rad 217 (W2917050602, ordinært arbeid (9 kontrollerte forsøk, ) estimat innenfor KI
+- OK   4 rad 217 (W2917050602, ordinært arbeid (9 kontrollerte forsøk, ) KI symmetrisk på log-skala (avvik 0.00)
+- OK   2 sitat rad 218 (W2103982358, andel i ordinært arbeid (11 RCT-er med h) står på oppgitt side
+- OK   3 estimat=61 rad 218 (W2103982358, andel i ordinært arbeid (11 RCT-er med h) står i sitatet
+- OK   2 sitat rad 219 (W2093242322, andel i ordinært arbeid med IPS i forsøk) står på oppgitt side
+- OK   3 estimat=62 rad 219 (W2093242322, andel i ordinært arbeid med IPS i forsøk) står i sitatet
+- OK   2 sitat rad 251 (NB-6618, måneder i arbeid eller utdanning, 1–12 m) står på oppgitt side
+- OK   3 estimat=0.4 rad 251 (NB-6618, måneder i arbeid eller utdanning, 1–12 m) står i sitatet
+- OK   2 sitat rad 252 (NB-6618, måneder i arbeid eller utdanning, 13–24 ) står på oppgitt side
+- OK   3 estimat=1.4 rad 252 (NB-6618, måneder i arbeid eller utdanning, 13–24 ) står i sitatet
+- OK   2 sitat rad 253 (NB-6618, arbeid eller utdanning første år (negati) står på oppgitt side
+- OK   5 tallet 0.4 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 1.2 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 1.29 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 1.32 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 1.4 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 1.63 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 1.70 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 1.78 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 1.82 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 1.83 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 1.96 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 10.5 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 11 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 114 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 12 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 13 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 18 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 2.02 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 2.07 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 2.23 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 2.31 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 2.40 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 2.86 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 217 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 25 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 27.1 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 28 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 28.3 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 29 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 3.0 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 3.66 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 3.7 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 30 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 32 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 33 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 33.7 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 34 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 34.4 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 344 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 35.1 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 36 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 36.6 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 37.8 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 38 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 39.6 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 4.76 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 42 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 44 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 44.4 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 46 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 46.5 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 47 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 48 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 48.8 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 49 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 5.6 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 55 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 6.9 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 601 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 62 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 65 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 7.5 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 75 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 75.0 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 8.8 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 82 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 9.5 i svaret finnes i estimat- eller statistikktabellen
+- OK   6 utelatt W2122775094 «Implementing Supported Employmentas an Evidence-Based Practice» (2001) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W2159690123 «Psychosocial Treatments for Schizophrenia» (2013) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W2151103413 «The Psychosocial Treatment of Schizophrenia: An Update» (2001) – lærebok, historikk, kommentar eller ikke-systematisk omtale; oversiktene i utvalget dekker evidensen
+- OK   6 utelatt W2002855504 «Mental illness and employment discrimination» (2006) – stigma eller holdninger, ikke effekt av tiltak
+- OK   6 utelatt W2127599381 «Recent Advances in Social Skills Training for Schizophrenia» (2006) – tillegg til IPS (kognitiv trening, ferdighetstrening o.l.) eller kognisjon, ikke IPS mot vanlig oppfølging
+- OK   6 utelatt W34826803 «Recovery and Severe Mental Illness: Description and Analysis» (2014) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W2143948430 «Use of intensive case management to reduce time in hospital in people » (2007) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W1557388022 «Vocational rehabilitation for people with severe mental illness» (2001) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W1983947710 «Vocational Rehabilitation for Persons With Schizophrenia: Recent Resea» (2000) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2047494480 «Recovery from schizophrenia and the recovery model» (2009) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W2097564812 «Smoking cessation in severe mental illness: what works?» (2010) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2139050031 «First episode psychosis and employment: A review» (2010) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W207196892 «Review of Critical Factors Related to Employment After Spinal Cord Inj» (2009) – prediktorer eller kjennetegn blant deltakere, ikke sammenligning med annen oppfølging
+- OK   6 utelatt W4206579320 «Community‐based social interventions for people with severe mental ill» (2022) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W1503620215 «Work Environment-Related Factors in Obtaining and Maintaining Work in » (2015) – prediktorer eller kjennetegn blant deltakere, ikke sammenligning med annen oppfølging
+- OK   6 utelatt W2137032366 «A Systematic Review of Vocational Interventions for Young Adults With » (2012) – annen gruppe enn psykiske lidelser og rus (utenfor mandatet)
+- OK   6 utelatt W2157550235 «Cognitive Remediation and Vocational Rehabilitation for Schizophrenia» (2005) – tillegg til IPS (kognitiv trening, ferdighetstrening o.l.) eller kognisjon, ikke IPS mot vanlig oppfølging
+- OK   6 utelatt W2327942381 «Severe Mental Illness in LGBT Populations: A Scoping Review» (2016) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W1972828835 «Occupational Therapy Interventions for Employment and Education for Ad» (2011) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2125310198 «Vocational support approaches in autism spectrum disorder: A synthesis» (2014) – annen gruppe enn psykiske lidelser og rus (utenfor mandatet)
+- OK   6 utelatt W51176479 «Predictors of Employment Outcome for People with Psychiatric Disabilit» (2000) – prediktorer eller kjennetegn blant deltakere, ikke sammenligning med annen oppfølging
+- OK   6 utelatt W2059922490 «Approaches to Vocational Rehabilitation After Traumatic Brain Injury» (2009) – annen gruppe enn psykiske lidelser og rus (utenfor mandatet)
+- OK   6 utelatt W2142532160 «Exciting Career Opportunity Beckons! Early Intervention and Vocational» (2006) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2062779573 «Predictors of competitive employment among patients with schizophrenia» (2008) – prediktorer eller kjennetegn blant deltakere, ikke sammenligning med annen oppfølging
+- OK   6 utelatt W1995162735 «A systematic review of the international published literature relating» (2009) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W2946481069 «The Effectiveness of Rehabilitation Interventions on the Employment an» (2019) – annen gruppe enn psykiske lidelser og rus (utenfor mandatet)
+- OK   6 utelatt W2121425034 «Collaborative care approaches for people with severe mental illness» (2013) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W2047692994 «Revascularisation and mortality rates following acute coronary syndrom» (2011) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W1990124649 «Psychosocial treatments for people with co‐occurring severe mental ill» (2008) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W2188578299 «The Costs and Benefits of Employing an Adult with Autism Spectrum Diso» (2015) – annen gruppe enn psykiske lidelser og rus (utenfor mandatet)
+- OK   6 utelatt W2039340339 «Supported employment for persons with serious mental illness: Current » (2014) – lærebok, historikk, kommentar eller ikke-systematisk omtale; oversiktene i utvalget dekker evidensen
+- OK   6 utelatt W4392201700 «Evidence-based psychosocial interventions in schizophrenia: a critical» (2024) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W2898907663 «Personal recovery within positive psychiatry» (2018) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W2507668628 «Implementation of the individual placement and support approach – faci» (2016) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W4385223589 «Individual placement and support: History, current status, and future » (2023) – lærebok, historikk, kommentar eller ikke-systematisk omtale; oversiktene i utvalget dekker evidensen
+- OK   6 utelatt W2312838829 «Recent advances in supported employment for people with serious mental» (2016) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2901963073 «Application and Effectiveness of Telehealth to Support Severe Mental I» (2018) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W2041303370 «Implementing the individual placement and support (IPS) approach for p» (2010) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W2091841418 «Determinants of adherence to treatment in first-episode psychosis: a c» (2015) – prediktorer eller kjennetegn blant deltakere, ikke sammenligning med annen oppfølging
+- OK   6 utelatt W4392880019 «Duration of Untreated Psychosis and Outcomes in First-Episode Psychosi» (2024) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W1980933330 «Mental ill health and fitness for work» (2002) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W1983400491 «Standardizing Measures in Four Domains of Employment Outcomes for Indi» (2012) – omtale, kommentar eller beskrivende studie av supported employment uten sammenligningsgruppe
+- OK   6 utelatt W3154521895 «Employment and relationship outcomes in first-episode psychosis: A sys» (2021) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2321857505 «Does employment promote the process of recovery from schizophrenia? A » (2015) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W1942949776 «Self management interventions for type 2 diabetes in adult people with» (2016) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W3190177762 «Psychosocial Interventions for Adults With Schizophrenia: An Overview » (2021) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W3107251953 «Essential Elements That Contribute to the Recovery of Persons With Sev» (2020) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W3154410496 «Health of people experiencing co-occurring homelessness, imprisonment,» (2021) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W1951983707 «Communication skills training for mental health professionals working » (2017) – tillegg til IPS (kognitiv trening, ferdighetstrening o.l.) eller kognisjon, ikke IPS mot vanlig oppfølging
+- OK   6 utelatt W2886980197 «Early Intervention in Mental Health for Adolescents and Young Adults: » (2018) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W2803789029 «Barriers to and facilitators of employment for people with psychiatric» (2018) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W2001442201 «Recovery from schizophrenia and the role of evidence-based psychosocia» (2006) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W2120173857 «Effects of Job Development and Job Support on Competitive Employment o» (2005) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W4385751688 «Social isolation and loneliness in family caregivers of people with se» (2023) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W2885802813 «Evidence for Occupational Therapy Intervention With Employment and Edu» (2018) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2904883217 «Digital technology for health promotion: opportunities to address exce» (2018) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W2047976616 «Profile of cognitive problems in schizophrenia and implications for vo» (2008) – tillegg til IPS (kognitiv trening, ferdighetstrening o.l.) eller kognisjon, ikke IPS mot vanlig oppfølging
+- OK   6 utelatt W2790269652 «Interventions to increase access to or uptake of physical health scree» (2018) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W2965182533 «Treatments for Schizophrenia in Adults: A Systematic Review» (2017) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W2149244123 «Adult Employment Assistance Services for Persons with Autism Spectrum » (2012) – annen gruppe enn psykiske lidelser og rus (utenfor mandatet)
+- OK   6 utelatt W3015451823 «Experiences of participating in individual placement and support: a me» (2020) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W2020211015 «Supported Employment: Evidence for a Best Practice Model in Psychosoci» (2003) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W1977139055 «Helping Homeless Individuals with Co-occurring Disorders: The Four Com» (2012) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2557551206 «Predictive validity of evidence-based practices in supported employmen» (2016) – prediktorer eller kjennetegn blant deltakere, ikke sammenligning med annen oppfølging
+- OK   6 utelatt W4366290932 «Current insights of community mental healthcare for people with severe» (2023) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W3215120228 «Improving oral health in people with severe mental illness (SMI): A sy» (2021) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W2298643181 «Cognitive impairment in schizophrenia: the great unmet need» (2015) – tillegg til IPS (kognitiv trening, ferdighetstrening o.l.) eller kognisjon, ikke IPS mot vanlig oppfølging
+- OK   6 utelatt W2751304862 «Canadian Treatment Guidelines on Psychosocial Treatment of Schizophren» (2017) – lærebok, historikk, kommentar eller ikke-systematisk omtale; oversiktene i utvalget dekker evidensen
+- OK   6 utelatt W2143942269 «Work Reintegration for Veterans With Mental Disorders: A Systematic Li» (2012) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2611991531 «The effectiveness of augmented versus standard individual placement an» (2017) – oversikt over forsterket IPS mot vanlig IPS, ikke IPS mot vanlig oppfølging; dekket av W2892072419 i utvalget
+- OK   6 utelatt W4388526234 «External context in individual placement and support implementation: a» (2023) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W2333123684 «An update on supported employment for people with severe mental illnes» (2014) – lærebok, historikk, kommentar eller ikke-systematisk omtale; oversiktene i utvalget dekker evidensen
+- OK   6 utelatt W4396695567 «Collaborative care approaches for people with severe mental illness» (2024) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W2899515619 «Introducing Individual Placement and Support (IPS) supported employmen» (2018) – omtale, kommentar eller beskrivende studie av supported employment uten sammenligningsgruppe
+- OK   6 utelatt W4403274558 «Severe mental illness and infectious disease mortality: a systematic r» (2024) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W1945087782 «Postsecondary education: Kindling opportunities for people with mental» (2013) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W1769938918 «The cost-efficiency of supported employment programs: A literature rev» (2000) – eldre litteraturgjennomgang om kostnader; nyere systematiske oversikter om økonomi er i utvalget
+- OK   6 utelatt W2763896669 «Health services and rehabilitation for active duty service members and» (2017) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2748449488 «A literature review on work transitioning of youth with disabilities i» (2017) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W4395464347 «Preference for Competitive Employment in People with Mental Disorders:» (2024) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W4399528316 «Effectiveness of Peer Support Programs for Severe Mental Illness: A Sy» (2024) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W2395253961 «Attitudes toward disabilities and mental illness in work settings: a r» (2004) – stigma eller holdninger, ikke effekt av tiltak
+- OK   6 utelatt W4390789959 «Understanding interventions and outcomes in supported employment and i» (2024) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W4214544064 «How do supported employment programs work? Answers from a systematic l» (2022) – oversikt over virkningsmekanismer, ikke effekt
+- OK   6 utelatt W2963657673 «Employment Interventions for Return to Work in Working Aged Adults Fol» (2016) – annen gruppe enn psykiske lidelser og rus (utenfor mandatet)
+- OK   6 utelatt W2887138707 «A framework for improving the effectiveness of evidence-based practice» (2018) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2978221118 «Occupational therapy interventions in mental health: a scoping review » (2019) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W4280535820 «Scoping review exploring vocational rehabilitation interventions for m» (2022) – sammenheng mellom arbeid eller ledighet og helse, ikke effekt av IPS
+- OK   6 utelatt W3135095608 «The meaning of work for people with severe mental illness: a systemati» (2021) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W3185550737 «Psychosocial interventions for people with a first episode psychosis: » (2021) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W2185509093 «Pre-Graduation Transition Services for Improving Employment Outcomes a» (2013) – annen gruppe enn psykiske lidelser og rus (utenfor mandatet)
+- OK   6 utelatt W2620123875 «Mental health occupational therapy and supported employment» (2017) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W3119044273 «Employment programmes for schizophrenia and other severe mental illnes» (2021) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2018620501 «Recent developments in psychosocial treatments for schizophrenic patie» (2007) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W4320729597 «Psychosocial intervention for schizophrenia» (2023) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W4250353034 «Multifaceted interventions for supporting community participation amon» (2020) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W4386918224 «Supported employment interventions for workplace mental health of pers» (2023) – sammenheng mellom arbeid eller ledighet og helse, ikke effekt av IPS
+- OK   6 utelatt W4213446920 «Cost-Effectiveness of Early Intervention in Psychosis: A Modeling Stud» (2022) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W3048134483 «Stakeholder Perspectives on IPS for Employment: A Scoping Review» (2020) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W4245109456 «Interventions for obtaining and maintaining employment in adults with » (2015) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W3194699875 «An Integrative Review of Recovery Services to Improve the Lives of Adu» (2021) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W2026851628 «Is Mental Health Services Research in Need of Randomised Controlled Tr» (2005) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W2794258955 «Scoping review of resources for integrating evidence-based supported e» (2018) – annen gruppe enn psykiske lidelser og rus (utenfor mandatet)
+- OK   6 utelatt W4376129899 «Vocational rehabilitation of adolescents and young adults with autism » (2023) – annen gruppe enn psykiske lidelser og rus (utenfor mandatet)
+- OK   6 utelatt W4382631625 «Vocational rehabilitation in persons with mental illness in India: A s» (2023) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W4391109340 «The effects of antipsychotic discontinuation or maintenance on the pro» (2024) – legemiddelstudie, ikke arbeidsrettet tiltak
+- OK   6 utelatt W4380371937 «Mobile health in the specific management of first-episode psychosis: a» (2023) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W1994117606 «Optimizing medical care to facilitate and sustain employment after spi» (2014) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W4307165976 «Intersectional perspectives on the employment rate in Supported Employ» (2022) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W3164454912 «Participant Engagement in Supported Employment: A Systematic Scoping R» (2021) – kartleggingsoversikt om deltakelse, ikke effekt
+- OK   6 utelatt W4283018244 «Sustainable employability in Supported Employment and IPS intervention» (2022) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W4360989432 «Employability skills, quality of life, and body composition on employm» (2023) – annen gruppe enn psykiske lidelser og rus (utenfor mandatet)
+- OK   6 utelatt W7129007554 «Emerging Neurobiological and Therapeutic Insights into Schizophrenia: » (2026) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W4308579026 «Neuropsychological predictors of vocational rehabilitation outcomes in» (2022) – prediktorer eller kjennetegn blant deltakere, ikke sammenligning med annen oppfølging
+- OK   6 utelatt W1566060420 «Consumer predictors of competitive employment outcomes in supported em» (2007) – prediktorer eller kjennetegn blant deltakere, ikke sammenligning med annen oppfølging
+- OK   6 utelatt W2125829782 «The feasibility of vocational rehabilitation in subjects with severe m» (2008) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2972750104 «Approaches to implementing individual placement and support in the hea» (2019) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W3155019852 «Impact of insight and metacognition on vocational rehabilitation of in» (2021) – tillegg til IPS (kognitiv trening, ferdighetstrening o.l.) eller kognisjon, ikke IPS mot vanlig oppfølging
+- OK   6 utelatt W7125375846 «Barriers and facilitators of employment in severe mental illness: an u» (2026) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W2086788428 «A supported employment linkage intervention for people with schizophre» (2014) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W4389431239 «Impact of employment and income support interventions on the health of» (2023) – sammenheng mellom arbeid eller ledighet og helse, ikke effekt av IPS
+- OK   6 utelatt W1483313705 «What employment programs should health services invest in for people w» (2005) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W3133990755 «G-estimation of causal pathways in vocational rehabilitation for adult» (2021) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W4406134818 «Effects of Psychosocial Rehabilitation Interventions for Schizophrenia» (2025) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2884314259 «A Literature Review of Individual Placement and Support (IPS) for Fore» (2018) – lærebok, historikk, kommentar eller ikke-systematisk omtale; oversiktene i utvalget dekker evidensen
+- OK   6 utelatt W2035876389 «Effectiveness of psychological and psychosocial interventions on quali» (2013) – protokoll eller beskrivelse av utgangspunkt, ikke resultater
+- OK   6 utelatt W4285555175 «La réinsertion professionnelle et le retour aux études chez les person» (2021) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2964112297 «A quick scoping review of psychosocial treatment recommendations for A» (2019) – lærebok, historikk, kommentar eller ikke-systematisk omtale; oversiktene i utvalget dekker evidensen
+- OK   6 utelatt W2089184646 «Review: supported employment is better than prevocational training for» (2001) – sammenheng mellom arbeid eller ledighet og helse, ikke effekt av IPS
+- OK   6 utelatt W3096141081 «Vocational and Psychosocial Outcomes of Work Re-Integration Programs f» (2020) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2231668830 «STRATEGIES FOR SUSTAINING A JOB IN PATIENTS WITH SEVERE MENTAL ILLNESS» (2014) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W3048825629 «Vocational Rehabilitation for Improvement of Life Care in Patients wit» (2020) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2899975800 «Changing The Narrative: How People with Disabilities Overcome Discrimi» (2017) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W3196626715 «Efficacy of Individual Placement and Support in Early Psychosis Progra» (2021) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W7164013781 «Large trials of psychosocial interventions: examples from individual p» (2026) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W7125104542 «Correction to: Update on Individual Placement and Support for New Popu» (2026) – lærebok, historikk, kommentar eller ikke-systematisk omtale; oversiktene i utvalget dekker evidensen
+- OK   6 utelatt W7170052592 «Employer-Based Interventions for Schizophrenia: A Systematic Literatur» (2026) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W2593168606 «694 Efficiency of vocational rehabilitation programs for workers with » (2018) – lærebok, historikk, kommentar eller ikke-systematisk omtale; oversiktene i utvalget dekker evidensen
+- OK   6 utelatt W4401920598 «Grading of Recommendations of psychological interventions in the rehab» (2024) – lærebok, historikk, kommentar eller ikke-systematisk omtale; oversiktene i utvalget dekker evidensen
+- OK   6 utelatt W3044877372 «Economic evaluation in the context of schizophrenia and related psycho» (2020) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W2954798294 «Effectiveness of psychological and psychosocial interventions on quali» (2013) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W4408647515 «A systematic review and meta-analysis of employer discrimination towar» (2024) – stigma eller holdninger, ikke effekt av tiltak
+- OK   6 utelatt W7125179929 «Community-Based Mental Health Interventions for Patients with Chronic » (2025) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W2730526449 «Assertive Interventions for First Episode Psychoses: The Danish Experi» (2017) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W4365449942 «Barriers to employment in people with psychiatric disorders - A system» (2023) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W7225250585 «Vocational Rehabilitation for Adults with Disabilities: A Narrative Sy» (2026) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W7162649303 «Non-Pharmacological Interventions for Severe Mental Illnesses in Low- » (2026) – legemiddelstudie, ikke arbeidsrettet tiltak
+- OK   6 utelatt W7168286376 «The Effectiveness of Workplace Support Interventions in Increasing Lon» (2026) – annen gruppe enn psykiske lidelser og rus (utenfor mandatet)
+- OK   6 utelatt W3003097307 «A study of the perceptions and experiences of career guidance counsell» (2019) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W4416540485 «Project FORWARD: Where Vocational Rehabilitation Can Make a Difference» (2025) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W7198296585 «Evidence on occupational therapy-based vocational rehabilitation progr» (2026) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2024548421 «Vocational rehabilitation for schizophrenic patients in Germany: Is it» (2008) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W4403863046 «A Literature Review of Schizoprenia Therapies Comparing Effects» (2024) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W297858143 «Meta-analysis of the effect of psychosocial interventions on social fu» (2013) – sammenheng mellom arbeid eller ledighet og helse, ikke effekt av IPS
+- OK   6 utelatt W7159819106 «Rehabilitation in Adults with Complex Psychosis: A Clinician-Oriented » (2026) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W2787745182 «Effekt av arbeidsmarkedstiltak på deltakelse i arbeidslivet for innvan» (2015) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W7112139027 «People with mental disorder and their experience with Supported Employ» (2018) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W7148185617 «Patients´ experiences of self-care in type 2 diabetes : A literature r» (2026) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W7153419567 «Adult patients’ experiences of living with type 2 diabetes : A literat» (2026) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W7111944336 «An intergrative literature review on patients with COPD`s experience o» (2022) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W7165828667 «Patients’ experiences of fatigue in inflammatory bowel disease : A lit» (2026) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W7166276421 «Kvinnors erfarenheter av mastektomi vid bröstcancer.En litteraturstudi» (2026) – annen gruppe enn psykiske lidelser og rus (utenfor mandatet)
+- OK   6 utelatt W7162712214 «Patients’ experiences of barriers and opportunities in self-care in ty» (2026) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W7166407040 «Närståendes upplevelser av att vårda en familjemedlem med demenssjukdo» (2026) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W7124521559 «The nurse's work in promoting self-care in adults with type 2 diabetes» (2026) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W7112943106 «The patients existential experience of living with a heart implant : –» (2018) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W7127552142 «Livsstilsförändringar vid diabetes typ 2En litteraturöversikt» (2026) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W7152940134 «Unga vuxnas upplevelser av att leva med diabetestyp 1.» (2026) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2975983717 «Livskvalitet hos personer med epilepsi : -En litteraturstudie» (2017) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W7161921833 «Managing life with Diabetes Mellitus type 1 : A Literature Review of p» (2026) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W7223160927 «Experiences of selfcare in people with Type 2 diabetes : A literature » (2026) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W7127554062 «Föräldrars upplevelse av att ha ett barn med cancer-En litteraturstudi» (2026) – annen gruppe enn psykiske lidelser og rus (utenfor mandatet)
+- OK   6 utelatt W7113716070 «Health-related quality of life in people with dementia : a literature » (2024) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W7204017211 «Living with type 2 diabetes mellitus. Factors influencing patients’ se» (2026) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W7125092552 «Patients’ experiences of what can hinder or enable self-care in cardio» (2025) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W7130896822 «Living with ADHD: Patient experiences : A qualitative literature revie» (2026) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W7124520235 «Experiences as a parent of a child with type 1 diabetes : A qualitativ» (2026) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W7225278747 «Women's experiences of healthcare encounters during menopause : A lite» (2026) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W7202429197 «"Being seen and supported" : Mothers' experiences of breastfeeding sup» (2026) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W7164265954 «With responsibility for one’s illness : A literature review» (2026) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W7164723512 «The relationship between cigarette smoking and periodontitis in adults» (2026) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W7116594213 «Family caregivers' experiences of caring for a person with dementia : » (2025) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W7124518135 «Being Close in Difficult Times : Caregivers Experiences of Palliative » (2026) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W7165428412 «Experiences of self- care among adult patients with type 2 diabetes : » (2026) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W7112456848 «A life with a stoma : A literature review of how patients with a stoma» (2025) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W42012385 «Behovet av stöd : Vilket stöd efterfrågar närstående som vårdar en per» (2011) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W7113278575 «Mothers' experiences of the child health nurse´s support in breastfeed» (2023) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W7165430250 «Men's experiences of sexual health after surgery for prostate cancer :» (2026) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W7162788878 «Return to Work Planning Interventions for People with Severe Mental Il» (2026) – sykmeldte i arbeid og tilbakeføring, beslektet felt utenfor mandatet
+- OK   6 utelatt W2078314766 «Barriers to Employment for People With Schizophrenia» (2006) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W2148233314 «Systematic evaluation of implementation fidelity of complex interventi» (2010) – studie av modelltrohet (fidelity), ikke effekt mot sammenligningsgruppe
+- OK   6 utelatt W4246855025 «Individual Placement and Support» (2012) – omtale, kommentar eller beskrivende studie av supported employment uten sammenligningsgruppe
+- OK   6 utelatt W657072927 «A Working Life for People with Severe Mental Illness» (2003) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2121316867 «Cognitive functioning, symptoms, and work in supported employment: a r» (2004) – tillegg til IPS (kognitiv trening, ferdighetstrening o.l.) eller kognisjon, ikke IPS mot vanlig oppfølging
+- OK   6 utelatt W1993773066 «Does competitive employment improve nonvocational outcomes for people » (2001) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2121644670 «Cognitive Training and Supported Employment for Persons With Severe Me» (2005) – tillegg til IPS (kognitiv trening, ferdighetstrening o.l.) eller kognisjon, ikke IPS mot vanlig oppfølging
+- OK   6 utelatt W2170865755 «A Prospective Analysis of Work in Schizophrenia» (2001) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2013016915 «Improving Employment Outcomes for Persons With Severe Mental Illnesses» (2002) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2163422576 «Cognitive Training for Supported Employment: 2-3 Year Outcomes of a Ra» (2007) – tillegg til IPS (kognitiv trening, ferdighetstrening o.l.) eller kognisjon, ikke IPS mot vanlig oppfølging
+- OK   6 utelatt W2160738158 «Long-Term Follow-Up of the TIPS Early Detection in Psychosis Study: Ef» (2012) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W3120755013 «The clinical characterization of the patient with primary psychosis ai» (2021) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W2152376693 «Cognitive Correlates of Job Tenure Among Patients With Severe Mental I» (2002) – prediktorer eller kjennetegn blant deltakere, ikke sammenligning med annen oppfølging
+- OK   6 utelatt W2012067386 «Work, Recovery, and Comorbidity in Schizophrenia: A Randomized Control» (2009) – tillegg til IPS (kognitiv trening, ferdighetstrening o.l.) eller kognisjon, ikke IPS mot vanlig oppfølging
+- OK   6 utelatt W2043876144 «Implementing Evidence-Based Practices for People with Severe Mental Il» (2003) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W1971890445 «Vocational Rehabilitation in Schizophrenia and Other Psychotic Disorde» (2003) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2970939677 «Where next for understanding race/ethnic inequalities in severe mental» (2019) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W2147830349 «Cognitive and Symptom Predictors of Work Outcomes for Clients With Sch» (2003) – prediktorer eller kjennetegn blant deltakere, ikke sammenligning med annen oppfølging
+- OK   6 utelatt W2099652419 «The NAVIGATE Program for First-Episode Psychosis: Rationale, Overview,» (2015) – protokoll eller beskrivelse av utgangspunkt, ikke resultater
+- OK   6 utelatt W2166120824 «Facilitated Psychiatric Advance Directives: A Randomized Trial of an I» (2006) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W2127566385 «Predictors of employment for people with severe mental illness: result» (2008) – prediktorer eller kjennetegn blant deltakere, ikke sammenligning med annen oppfølging
+- OK   6 utelatt W1981848336 «Validation of the Revised Individual Placement and Support Fidelity Sc» (2012) – studie av modelltrohet (fidelity), ikke effekt mot sammenligningsgruppe
+- OK   6 utelatt W2004255324 «Individual placement and support for individuals with recent-onset sch» (2008) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2147182730 «Making the Case for IPS Supported Employment» (2012) – omtale, kommentar eller beskrivende studie av supported employment uten sammenligningsgruppe
+- OK   6 utelatt W2048266684 «Cognitive and clinical predictors of success in vocational rehabilitat» (2004) – prediktorer eller kjennetegn blant deltakere, ikke sammenligning med annen oppfølging
+- OK   6 utelatt W2000165331 «The EPPIC Follow-Up Study of First-Episode Psychosis» (2010) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W2022978173 «Clinical and social determinants of duration of untreated psychosis in» (2006) – prediktorer eller kjennetegn blant deltakere, ikke sammenligning med annen oppfølging
+- OK   6 utelatt W2069509588 «Randomized Trial of Critical Time Intervention to Prevent Homelessness» (2011) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2023205905 «Cognitive Symptom Management and Rehabilitation Therapy (CogSMART) for» (2014) – tillegg til IPS (kognitiv trening, ferdighetstrening o.l.) eller kognisjon, ikke IPS mot vanlig oppfølging
+- OK   6 utelatt W2155858292 «Self-Esteem as an Outcome Measure in Studies of Vocational Rehabilitat» (2000) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W1521728288 «Supported employment for adults with severe mental illness» (2010) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2162257200 «Mental health nursing and physical health care: A cross‐sectional stud» (2012) – stigma eller holdninger, ikke effekt av tiltak
+- OK   6 utelatt W2159341567 «Fidelity of Supported Employment Programs and Employment Outcomes» (2001) – studie av modelltrohet (fidelity), ikke effekt mot sammenligningsgruppe
+- OK   6 utelatt W2013212995 «Long-Term Employment Trajectories Among Participants With Severe Menta» (2007) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2128416855 «Cognitive Enhancement Treatment for People With Mental Illness Who Do » (2015) – tillegg til IPS (kognitiv trening, ferdighetstrening o.l.) eller kognisjon, ikke IPS mot vanlig oppfølging
+- OK   6 utelatt W3096087111 «Employment is a critical mental health intervention» (2020) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2119844085 «The Role of Primary Care in Service Provision for People with Severe M» (2012) – annen gruppe enn psykiske lidelser og rus (utenfor mandatet)
+- OK   6 utelatt W2203666706 «Research, Data, and Evidence-Based Treatment Use in State Behavioral H» (2015) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2156375076 «Employers' Attitudes Towards Hiring and Retaining People with Disabili» (2013) – stigma eller holdninger, ikke effekt av tiltak
+- OK   6 utelatt W2345453871 «Effects of an employer-based intervention on employment outcomes for y» (2016) – annen gruppe enn psykiske lidelser og rus (utenfor mandatet)
+- OK   6 utelatt W2087571465 «Why is recruitment to trials difficult? An investigation into recruitm» (2008) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2507347834 «From Social Exclusion to Supported Inclusion: Adults with Intellectual» (2016) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W2021757135 «Effect of Supported Employment on Vocational Rehabilitation Outcomes o» (2014) – annen gruppe enn psykiske lidelser og rus (utenfor mandatet)
+- OK   6 utelatt W2125625066 «Cognitive Strategies Versus Self-Management Skills as Adjunct to Vocat» (2005) – tillegg til IPS (kognitiv trening, ferdighetstrening o.l.) eller kognisjon, ikke IPS mot vanlig oppfølging
+- OK   6 utelatt W2800355154 «Using Instructional Design, Analyze, Design, Develop, Implement, and E» (2018) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W1635756757 «From margins to mainstream: What do we know about work integration for» (2009) – annen gruppe enn psykiske lidelser og rus (utenfor mandatet)
+- OK   6 utelatt W2313985616 «"It was just realizing…that life isn't one big horror": A qualitative » (2001) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W2070676283 «The Long-Term Impact of Employment on Mental Health Service Use and Co» (2009) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2169032179 «Two-year outcome in first-episode psychosis treated according to an in» (2000) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W2136783186 «A Ten-Year Follow-Up of a Supported Employment Program» (2004) – tiårsoppfølging uten kontrollgruppe
+- OK   6 utelatt W3087168114 «An update on Individual Placement and Support» (2020) – lærebok, historikk, kommentar eller ikke-systematisk omtale; oversiktene i utvalget dekker evidensen
+- OK   6 utelatt W2410726653 «Individual Placement And Support Services Boost Employment For People » (2016) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W3162583449 «The Horyzons project: a randomized controlled trial of a novel online » (2021) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W1891987747 «Measurement of fidelity of implementation of evidence‐based practices:» (2011) – studie av modelltrohet (fidelity), ikke effekt mot sammenligningsgruppe
+- OK   6 utelatt W2117951650 «Individual placement and support: from research to practice» (2007) – omtale, kommentar eller beskrivende studie av supported employment uten sammenligningsgruppe
+- OK   6 utelatt W2102124096 «Employment outcomes in family-aided assertive community treatment.» (2000) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2093179366 «Sources of burdens on families of individuals with mental illness» (2003) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W2020730049 «Job Acquisition for People with Severe Mental Illness Enrolled in Supp» (2011) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2019347681 «Clinical Factors Associated With Employment Among People With Severe M» (2005) – prediktorer eller kjennetegn blant deltakere, ikke sammenligning med annen oppfølging
+- OK   6 utelatt W2014144866 «INSIGHT AND WORK PERFORMANCE IN SCHIZOPHRENIA» (2002) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2119862053 «Social Security And Mental Illness: Reducing Disability With Supported» (2009) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2092019839 «CogSMART Compensatory Cognitive Training for Traumatic Brain Injury» (2014) – tillegg til IPS (kognitiv trening, ferdighetstrening o.l.) eller kognisjon, ikke IPS mot vanlig oppfølging
+- OK   6 utelatt W2135018094 «Patterns and Quality of Treatment for Patients With Schizophrenia in R» (2005) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W2148454166 «Supported employment, job preferences, job tenure and satisfaction» (2001) – omtale, kommentar eller beskrivende studie av supported employment uten sammenligningsgruppe
+- OK   6 utelatt W2098928988 «Preferences of Young Adults With First-Episode Psychosis for Receiving» (2015) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W2038469863 «Vocational outcomes of an integrated supported employment program for » (2008) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2016239435 «Supported Employment for Young Adults with Autism Spectrum Disorder: P» (2012) – annen gruppe enn psykiske lidelser og rus (utenfor mandatet)
+- OK   6 utelatt W2106750641 «Applications of Errorless Learning for Improving Work Performance in P» (2002) – tillegg til IPS (kognitiv trening, ferdighetstrening o.l.) eller kognisjon, ikke IPS mot vanlig oppfølging
+- OK   6 utelatt W2078862097 «Aggressive incidents in first-episode psychosis» (2001) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W2750807344 «Canadian Treatment Guidelines on Psychosocial Treatment of Schizophren» (2017) – lærebok, historikk, kommentar eller ikke-systematisk omtale; oversiktene i utvalget dekker evidensen
+- OK   6 utelatt W2125630725 «Working with mental health problems: clients’ experiences of IPS, voca» (2009) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W1985117422 «What Predicts Supported Employment Program Outcomes?» (2006) – prediktorer eller kjennetegn blant deltakere, ikke sammenligning med annen oppfølging
+- OK   6 utelatt W2145629933 «Effectiveness of Supported Employment for Veterans With Spinal Cord In» (2012) – annen gruppe enn psykiske lidelser og rus (utenfor mandatet)
+- OK   6 utelatt W2037619119 «Cognitive and Clinical Predictors of Work Outcomes in Clients with Sch» (2006) – prediktorer eller kjennetegn blant deltakere, ikke sammenligning med annen oppfølging
+- OK   6 utelatt W2523640792 «Supported employment and education in comprehensive, integrated care f» (2016) – sammenheng mellom arbeid eller ledighet og helse, ikke effekt av IPS
+- OK   6 utelatt W2001888585 «Reported History of Child Sexual Abuse in Schizophrenia» (2005) – lærebok, historikk, kommentar eller ikke-systematisk omtale; oversiktene i utvalget dekker evidensen
+- OK   6 utelatt W2003995658 «Predicting Client Employment Outcomes from Personal History, Functiona» (2000) – prediktorer eller kjennetegn blant deltakere, ikke sammenligning med annen oppfølging
+- OK   6 utelatt W2094282407 «Effects of cognitive behavioral therapy on work outcomes in vocational» (2008) – tillegg til IPS (kognitiv trening, ferdighetstrening o.l.) eller kognisjon, ikke IPS mot vanlig oppfølging
+- OK   6 utelatt W2154426377 «The Effectiveness of Skills Training for Improving Outcomes in Support» (2005) – tillegg til IPS (kognitiv trening, ferdighetstrening o.l.) eller kognisjon, ikke IPS mot vanlig oppfølging
+- OK   6 utelatt W2071748850 «The future of supported employment for people with severe mental illne» (2008) – lærebok, historikk, kommentar eller ikke-systematisk omtale; oversiktene i utvalget dekker evidensen
+- OK   6 utelatt W2125881345 «Supported Employment Outcomes of a Randomized Controlled Trial of ACT » (2006) – RCT av ACT mot Clubhouse, ingen IPS-arm
+- OK   6 utelatt W2091126660 «Adult Day Programs versus Supported Employment (1988–2002): Spending a» (2004) – annen gruppe enn psykiske lidelser og rus (utenfor mandatet)
+- OK   6 utelatt W2162028657 «What are the benefits of evidence-based supported employment for patie» (2004) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2021228111 «Converting Day Treatment Centers to Supported Employment Programs in R» (2001) – omtale, kommentar eller beskrivende studie av supported employment uten sammenligningsgruppe
+- OK   6 utelatt W2103326483 «A Multisite Study of Implementing Supported Employment in the Netherla» (2007) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W1145080732 «A process analysis of integrated and non-integrated approaches to supp» (2003) – omtale, kommentar eller beskrivende studie av supported employment uten sammenligningsgruppe
+- OK   6 utelatt W1967322513 «Correlates of Long-Term Unemployment Among Inner-City Adults With Seri» (2001) – prediktorer eller kjennetegn blant deltakere, ikke sammenligning med annen oppfølging
+- OK   6 utelatt W2102961481 «Integration of Care: Integrating Treatment With Rehabilitation for Per» (2003) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2160333544 «Three Year Follow-Up Study of an Integrated Supported Employment for I» (2010) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2106298998 «Benefits of Cognitive Remediation and Supported Employment for Schizop» (2014) – tillegg til IPS (kognitiv trening, ferdighetstrening o.l.) eller kognisjon, ikke IPS mot vanlig oppfølging
+- OK   6 utelatt W1966584714 «Cognitive Functioning and Employment in Severe Mental Illness» (2003) – tillegg til IPS (kognitiv trening, ferdighetstrening o.l.) eller kognisjon, ikke IPS mot vanlig oppfølging
+- OK   6 utelatt W1732288 «Vocational rehabilitation – what works, for whom, and when?(Report for» (2008) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2017687902 «Client Predictors of Employment Outcomes in High-Fidelity Supported Em» (2010) – studie av modelltrohet (fidelity), ikke effekt mot sammenligningsgruppe
+- OK   6 utelatt W2072653886 «Psychosocial rehabilitation and quality of life for older adults with » (2009) – lærebok, historikk, kommentar eller ikke-systematisk omtale; oversiktene i utvalget dekker evidensen
+- OK   6 utelatt W1977046040 «The Indiana Job Satisfaction Scale: Job satisfaction in vocational reh» (2001) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2316396143 «The IPS supported employment learning collaborative.» (2014) – omtale, kommentar eller beskrivende studie av supported employment uten sammenligningsgruppe
+- OK   6 utelatt W2112665221 «The Right to Decent Work of Persons with Disabilities» (2008) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2161784993 «10-year outcome study of an early intervention program for psychosis c» (2014) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W1986034454 «Supported Employment for Middle-Aged and Older People with Schizophren» (2008) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2016526247 «Metacognition and social function in schizophrenia: Associations over » (2010) – prediktorer eller kjennetegn blant deltakere, ikke sammenligning med annen oppfølging
+- OK   6 utelatt W2912002742 «Predictors of mental health and well‐being in employed adults with aut» (2019) – prediktorer eller kjennetegn blant deltakere, ikke sammenligning med annen oppfølging
+- OK   6 utelatt W1986394399 «Implementation of Supported Employment for Homeless Veterans With Psyc» (2007) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W3154837027 «Employment status and desire for work in severe mental illness: result» (2021) – sammenheng mellom arbeid eller ledighet og helse, ikke effekt av IPS
+- OK   6 utelatt W1507898056 «Three-year outcome of phase-specific early intervention for first-epis» (2011) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W2081282098 «Posttraumatic stress disorder and employment in veterans participating» (2008) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W1975573612 «Supported Employment: a Route to Social Networks» (2004) – omtale, kommentar eller beskrivende studie av supported employment uten sammenligningsgruppe
+- OK   6 utelatt W2327299954 «A Prospective Investigation of Work and Nonvocational Outcomes in Adul» (2012) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2133828535 «Key Factors for Implementing Supported Employment» (2008) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W83814607 «Work Interest as a Predictor of Competitive Employment: Policy Implica» (2001) – prediktorer eller kjennetegn blant deltakere, ikke sammenligning med annen oppfølging
+- OK   6 utelatt W2157552170 «Rehab Rounds: Supplementing Supported Employment With Workplace Skills» (2004) – tillegg til IPS (kognitiv trening, ferdighetstrening o.l.) eller kognisjon, ikke IPS mot vanlig oppfølging
+- OK   6 utelatt W2769002319 «Utilization of the Behavior Change Wheel framework to develop a model » (2017) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2135360389 «Strengths Model Case Management Fidelity Scores and Client Outcomes» (2012) – studie av modelltrohet (fidelity), ikke effekt mot sammenligningsgruppe
+- OK   6 utelatt W1532724850 «Economic Impacts of Supported Employment for Persons with Severe Menta» (2001) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2094067707 «Intrinsic Motivation as a Predictor of Work Outcome After Vocational R» (2011) – prediktorer eller kjennetegn blant deltakere, ikke sammenligning med annen oppfølging
+- OK   6 utelatt W2157261707 «Enhanced cognitive-behavioral therapy for vocational rehabilitation in» (2005) – tillegg til IPS (kognitiv trening, ferdighetstrening o.l.) eller kognisjon, ikke IPS mot vanlig oppfølging
+- OK   6 utelatt W2804512240 «Barriers to effective diabetes management – a survey of people with se» (2018) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W2165851202 «Employment Specialist Competencies for Supported Employment Programs» (2013) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W2116209248 «Barriers in implementation of evidence‐based practice» (2011) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W2009300039 «Predicting vocational functioning and outcome in schizophrenia outpati» (2003) – prediktorer eller kjennetegn blant deltakere, ikke sammenligning med annen oppfølging
+- OK   6 utelatt W2069240577 «Change in self-stigma among persons with schizophrenia enrolled in reh» (2012) – prediktorer eller kjennetegn blant deltakere, ikke sammenligning med annen oppfølging
+- OK   6 utelatt W1720382382 «Support and process in individual placement and support: A multiple ca» (2013) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W2081747883 «Adapting Supported Employment for Emerging Adults with Serious Mental » (2014) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2145981052 «Time-Limited Assertive Community Treatment for Homeless Persons With S» (2001) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W64983115 «Challenges to implementing evidence-based supported employment in Aust» (2007) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W1999988419 «A Pan-Canadian Evaluation of Supported Employment Programs Dedicated t» (2009) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2521832351 «Cost-effectiveness of cognitive remediation and supported employment f» (2016) – tillegg til IPS (kognitiv trening, ferdighetstrening o.l.) eller kognisjon, ikke IPS mot vanlig oppfølging
+- OK   6 utelatt W2588734135 «Predictors of Acquisition of Competitive Employment for People Enrolle» (2017) – prediktorer eller kjennetegn blant deltakere, ikke sammenligning med annen oppfølging
+- OK   6 utelatt W2052892875 «Unemployment among patients with newly diagnosed first-episode psychos» (2011) – prediktorer eller kjennetegn blant deltakere, ikke sammenligning med annen oppfølging
+- OK   6 utelatt W2115967528 «Project SEARCH UK – Evaluating Its Employment Outcomes» (2015) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2039401177 «Mental illness stigma and the fundamental components of supported empl» (2007) – stigma eller holdninger, ikke effekt av tiltak
+- OK   6 utelatt W1642877986 «Evidence-based supported employment for people with severe mental illn» (2014) – lærebok, historikk, kommentar eller ikke-systematisk omtale; oversiktene i utvalget dekker evidensen
+- OK   6 utelatt W1974129031 «Quality of Life of Workers with an Intellectual Disability in Supporte» (2006) – annen gruppe enn psykiske lidelser og rus (utenfor mandatet)
+- OK   6 utelatt W1991889876 «Empowerment in supported employment research and practice: Is it relev» (2010) – omtale, kommentar eller beskrivende studie av supported employment uten sammenligningsgruppe
+- OK   6 utelatt W2117367867 «Mental hospital reform in Asia: the case of Yuli Veterans Hospital, Ta» (2009) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W2031531325 «IPS Support Employment: A 20-Year Update» (2011) – lærebok, historikk, kommentar eller ikke-systematisk omtale; oversiktene i utvalget dekker evidensen
+- OK   6 utelatt W1983223368 «The Impact of Health Status on Work, Symptoms, and Functional Outcomes» (2001) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2055372415 «Desirable Characteristics and Competencies of Supported Employment Spe» (2010) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W2009008376 «Costs of psychosis in 2010: Findings from the second Australian Nation» (2013) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W2094569577 «First person accounts of long-term employment activity among people wi» (2009) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2407478397 «Cognitive remediation for vocational rehabilitation nonresponders» (2016) – tillegg til IPS (kognitiv trening, ferdighetstrening o.l.) eller kognisjon, ikke IPS mot vanlig oppfølging
+- OK   6 utelatt W2082429006 «THE IMPACT OF ENHANCED INCENTIVES ON VOCATIONAL REHABILITATION OUTCOME» (2005) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W1998043299 «The Individual Placement and Support approach to vocational rehabilita» (2010) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2129024683 «Vocational rehabilitation improves cognition and negative symptoms in » (2010) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2140917715 «A Comparison of Competitive Employment Outcomes for the Clubhouse and » (2006) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2047075419 «Supported Employment for People with Co-Occurring Disorders.» (2005) – ikke-systematisk omtale av supported employment ved dobbeltdiagnoser; oversiktene om rus i utvalget dekker dette
+- OK   6 utelatt W2130619551 «Adapting Evidence-Based Practices for Persons With Mental Illness Invo» (2007) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W3120666667 «Met and unmet needs of homeless individuals at different stages of hou» (2021) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W1985390858 «Response to Cognitive Rehabilitation in Older Versus Younger Persons w» (2008) – lærebok, historikk, kommentar eller ikke-systematisk omtale; oversiktene i utvalget dekker evidensen
+- OK   6 utelatt W2019658060 «Cognitive remediation and vocational rehabilitation.» (2008) – tillegg til IPS (kognitiv trening, ferdighetstrening o.l.) eller kognisjon, ikke IPS mot vanlig oppfølging
+- OK   6 utelatt W1994146525 «The relationships between employment, clinical status, and psychiatric» (2011) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2121715218 «Vocational function among persons with schizophrenia with and without » (2004) – lærebok, historikk, kommentar eller ikke-systematisk omtale; oversiktene i utvalget dekker evidensen
+- OK   6 utelatt W2093586685 «Effectiveness of Supported Employment for Veterans With Spinal Cord In» (2013) – annen gruppe enn psykiske lidelser og rus (utenfor mandatet)
+- OK   6 utelatt W2170907148 «The Employment Intervention Demonstration Program: Major findings and » (2008) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2312532617 «Psychosocial treatment approaches for schizophrenia» (2000) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W1917279812 «Early intervention for first‐episode psychosis: broadening the scope o» (2014) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W1813905781 «Experiences of the individual placement and support approach in person» (2012) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W2974456202 «Determinants of clinical, functional and personal recovery for people » (2019) – prediktorer eller kjennetegn blant deltakere, ikke sammenligning med annen oppfølging
+- OK   6 utelatt W1965638516 «Is Job Tenure Brief in Individual Placement and Support (IPS) Employme» (2011) – jobbvarighet innen IPS, ikke sammenligning med vanlig oppfølging
+- OK   6 utelatt W2805856653 «Experiences with the implementation of Individual Placement and Suppor» (2018) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W2137788213 «Service users' perceptions of the effective ingredients in supported e» (2009) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W2168214542 «Supported employment for young people with intellectual disabilities f» (2013) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W2889891525 «Implementation of evidence-based interventions: analyzing critical com» (2018) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W2587452770 «Individual Placement and Support for People with Autism Spectrum Disor» (2017) – annen gruppe enn psykiske lidelser og rus (utenfor mandatet)
+- OK   6 utelatt W2052188652 «Impact of Follow-Along Support on Job Tenure in the Individual Placeme» (2011) – oppfølging innen IPS og varighet i jobb, ikke sammenligning med vanlig oppfølging
+- OK   6 utelatt W2416639917 «How does Housing First catalyze recovery?: Qualitative findings from a» (2016) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W2042432704 «Veterans Health Administration vocational services for Operation Iraqi» (2013) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W3158128103 «Cognitive and vocational rehabilitation after mild-to-moderate traumat» (2021) – tillegg til IPS (kognitiv trening, ferdighetstrening o.l.) eller kognisjon, ikke IPS mot vanlig oppfølging
+- OK   6 utelatt W2139164414 «Place-Then-Train: An Alternative Service Paradigm for Persons With Psy» (2001) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W2317132693 «Concurrent and Predictive Validity of Two Scales to Assess the Fidelit» (2005) – studie av modelltrohet (fidelity), ikke effekt mot sammenligningsgruppe
+- OK   6 utelatt W2103471733 «A randomized controlled trial of vocational intervention for young peo» (2013) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W1965485938 «Enrollment in Supported Employment Services for Clients With a Co-occu» (2011) – omtale, kommentar eller beskrivende studie av supported employment uten sammenligningsgruppe
+- OK   6 utelatt W2084349725 «Does Competitive Work Improve Quality of Life for Adults with Severe M» (2014) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2100350195 «Symptom Effects on Employment in a Structural Model of Mental Illness » (2001) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2050545871 «Work-Related Self-Efficacy Among Community Residents with Psychiatric » (2005) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W1688374801 «Identifying relationships between functional limitations, job accommod» (2003) – prediktorer eller kjennetegn blant deltakere, ikke sammenligning med annen oppfølging
+- OK   6 utelatt W2062416716 «Effect of Benefits Counseling Services on Employment Outcomes for Peop» (2006) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2109510823 «Mental health system funding of cognitive enhancement interventions fo» (2013) – lærebok, historikk, kommentar eller ikke-systematisk omtale; oversiktene i utvalget dekker evidensen
+- OK   6 utelatt W2051635513 «Enhancing Individual Placement and Support: Promoting Job Tenure by In» (2005) – IPS med naturlig støtte mot IPS, ikke IPS mot vanlig oppfølging
+- OK   6 utelatt W2322088891 «Recent research on vocational rehabilitation for persons with severe m» (2003) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2963499768 «Barriers and facilitators to employment in borderline personality diso» (2019) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W2125036962 «Implementing evidence-based supported employment» (2007) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W1972914177 «Supported employment, supported education, and career development.» (2012) – omtale, kommentar eller beskrivende studie av supported employment uten sammenligningsgruppe
+- OK   6 utelatt W2024127567 «A Longitudinal Study of Learning Potential and Rehabilitation Outcome » (2008) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2032809017 «Supported-Employment Program Processes and Outcomes: Experiences of Pe» (2007) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W2135724499 «Gender Differences in Patients Presenting with First-Episode Psychosis» (2011) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W2317029422 «The IPS Learning Community: A Longitudinal Study of Sustainment, Quali» (2016) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W2586576783 «Barriers and enablers of type 2 diabetes self‐management in people wit» (2017) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W1981327622 «Adapting the Individual Placement and Support Model with Homeless Youn» (2011) – omtale, kommentar eller beskrivende studie av supported employment uten sammenligningsgruppe
+- OK   6 utelatt W1765591597 «Individual placement and support illustrated in the Swedish welfare sy» (2011) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W2157381164 «Dissemination of supported employment in Department of Veterans Affair» (2007) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W2114652956 «Job Termination Among Individuals with Severe Mental Illness Participa» (2006) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2149316861 «Dimensions of supported employment: Factor structure of the IPS fideli» (2001) – studie av modelltrohet (fidelity), ikke effekt mot sammenligningsgruppe
+- OK   6 utelatt W2586495452 «Supported education for individuals with psychiatric disabilities: Sta» (2017) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W2531302026 «The relapse rate and predictors of relapse in patients with first‐epis» (2016) – prediktorer eller kjennetegn blant deltakere, ikke sammenligning med annen oppfølging
+- OK   6 utelatt W2602883258 «Optimal Network for Patients with Severe Mental Illness: A Social Netw» (2017) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2395810429 «Individual placement and support, supported education in young people » (2016) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W2090305659 «Predictors of vocational recovery among young people with first-episod» (2012) – prediktorer eller kjennetegn blant deltakere, ikke sammenligning med annen oppfølging
+- OK   6 utelatt W2793954483 «Differential vocational rehabilitation service patterns and outcomes f» (2018) – annen gruppe enn psykiske lidelser og rus (utenfor mandatet)
+- OK   6 utelatt W2800991785 «Demographic Variables, Vocational Rehabilitation Services, and Employm» (2018) – annen gruppe enn psykiske lidelser og rus (utenfor mandatet)
+- OK   6 utelatt W2251574710 «The impacts of vocational rehabilitation» (2014) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2082828067 «Bilateral hippocampal increase following first-episode psychosis is as» (2013) – prediktorer eller kjennetegn blant deltakere, ikke sammenligning med annen oppfølging
+- OK   6 utelatt W4229029618 «Interventions to improve social circumstances of people with mental he» (2022) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W2133153367 «Organizational Factors Differentiating High Performing from Low Perfor» (2004) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W1991338226 «The relationship between hope and symptoms.» (2012) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2571235001 «Prevalence and Quality of Individual Placement and Support (IPS) Suppo» (2017) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W2146270263 «Difficulties in implementing supported employment for people with seve» (2013) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W2139983805 «Formal plan for self‐disclosure enhances supported employment outcomes» (2014) – stigma eller holdninger, ikke effekt av tiltak
+- OK   6 utelatt W2157455351 «Effects of local unemployment rate on vocational outcomes in a randomi» (2006) – sammenheng mellom arbeid eller ledighet og helse, ikke effekt av IPS
+- OK   6 utelatt W2107827689 «Supported employment outcomes for transition age youth and young adult» (2012) – omtale, kommentar eller beskrivende studie av supported employment uten sammenligningsgruppe
+- OK   6 utelatt W279508351 «A scale to measure quality of supported employment for persons with se» (2002) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2007058674 «Workplace supports, job performance, and integration outcomes for peop» (2001) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2787669555 «Supported Employment and Social Inclusion – Experiences of Workers wit» (2018) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W3089236033 «A randomized controlled trial of cognitive remediation and long-acting» (2020) – tillegg til IPS (kognitiv trening, ferdighetstrening o.l.) eller kognisjon, ikke IPS mot vanlig oppfølging
+- OK   6 utelatt W4200026886 «Implementing individual placement and support (IPS): the experiences o» (2021) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W1996140667 «Veterans Health Administration transitional work experience vs. job pl» (2010) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W2154613157 «Care for patients with severe mental illness: the general practitioner» (2009) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W2145012514 «A demonstration project involving peers as providers of evidence-based» (2013) – omtale, kommentar eller beskrivende studie av supported employment uten sammenligningsgruppe
+- OK   6 utelatt W1996396766 «Organizational analysis of Canadian supported employment programs for » (2011) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W2585654151 «Effects of Sustained Competitive Employment on Psychiatric Hospitaliza» (2017) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W2121489339 «The Cost of High-Fidelity Supported Employment Programs for People Wit» (2004) – studie av modelltrohet (fidelity), ikke effekt mot sammenligningsgruppe
+- OK   6 utelatt W1174088149 «Employment barriers and strategies for individuals with psychiatric di» (2007) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W1980942198 «A prospective examination of the impact of a supported employment prog» (2013) – prospektiv studie uten kontrollgruppe
+- OK   6 utelatt W3049771145 «The Ecosystem of Competitive Employment for University Graduates with » (2020) – annen gruppe enn psykiske lidelser og rus (utenfor mandatet)
+- OK   6 utelatt W3181957057 «Psychosocial rehabilitation interventions in the treatment of schizoph» (2021) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2334902261 «Individual placement and support in Europe.» (2014) – omtale, kommentar eller beskrivende studie av supported employment uten sammenligningsgruppe
+- OK   6 utelatt W2066542371 «Best Practices: A National Mental Health Learning Collaborative on Sup» (2011) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W37003969 «The cost-trends of supported employment versus sheltered employment» (2008) – omtale, kommentar eller beskrivende studie av supported employment uten sammenligningsgruppe
+- OK   6 utelatt W2114524710 «The Impact of Job Accommodations on Employment Outcomes Among Individu» (2014) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W1998281193 «Reviewing the Theory and Practice of Occupational Therapy in Mental He» (2009) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2156181027 «Supported Employment for People with Intellectual Disability: The Effe» (2010) – annen gruppe enn psykiske lidelser og rus (utenfor mandatet)
+- OK   6 utelatt W2144441725 «Vocational Rehabilitation in Spinal Cord Injury: What Vocational Servi» (2015) – prediktorer eller kjennetegn blant deltakere, ikke sammenligning med annen oppfølging
+- OK   6 utelatt W2537310582 «Employment outcome and predictors of competitive employment at 2-year » (2016) – prediktorer eller kjennetegn blant deltakere, ikke sammenligning med annen oppfølging
+- OK   6 utelatt W2128979748 «The co-worker training model: outcomes of an open employment pilot pro» (2001) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W1470077201 «Comparing employment outcomes for two vocational services: Individual » (2007) – observasjonell sammenligning av to tjenester uten håndtering av seleksjon (kategori 5), og det finnes mange RCT-er
+- OK   6 utelatt W1493917335 «Interest in Employment Among People with Schizophrenia» (2015) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W4211202547 «Cost-effectiveness analysis of combined cognitive and vocational rehab» (2022) – tillegg til IPS (kognitiv trening, ferdighetstrening o.l.) eller kognisjon, ikke IPS mot vanlig oppfølging
+- OK   6 utelatt W2017040316 «Factors influencing the delivery of evidence-based supported employmen» (2008) – prediktorer eller kjennetegn blant deltakere, ikke sammenligning med annen oppfølging
+- OK   6 utelatt W2137083256 «A Comparative Study of the Situation of Supported Employment in Europe» (2010) – omtale, kommentar eller beskrivende studie av supported employment uten sammenligningsgruppe
+- OK   6 utelatt W2236416017 «Productive Addicts and Harm Reduction» (2014) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2989816684 «Group cognitive behaviour therapy for supported employment – Results o» (2019) – tillegg til IPS (kognitiv trening, ferdighetstrening o.l.) eller kognisjon, ikke IPS mot vanlig oppfølging
+- OK   6 utelatt W2078899929 «The challenge of integrating employment services with public mental he» (2008) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2003606681 «RETRACTED ARTICLE: Individual Placement and Support in Europe: The EQO» (2008) – trukket tilbake; EQOLISE brukes fra Lancet-artikkelen W2128678354
+- OK   6 utelatt W2861154772 «Empowering individuals with psychiatric disabilities to work: Results » (2018) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2326161148 «Incorporating Individualized Placement and Support Principles Into Voc» (2016) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2949072526 «Predicting one-year outcome in first episode psychosis using machine l» (2019) – prediktorer eller kjennetegn blant deltakere, ikke sammenligning med annen oppfølging
+- OK   6 utelatt W3150446818 «COVID-19, Unemployment, and Behavioral Health Conditions: The Need for» (2021) – sammenheng mellom arbeid eller ledighet og helse, ikke effekt av IPS
+- OK   6 utelatt W165770225 «Outcomes of a 4-year program with higher education and employment goal» (2013) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2076395738 «Benchmark Outcomes in Supported Employment» (2011) – omtale, kommentar eller beskrivende studie av supported employment uten sammenligningsgruppe
+- OK   6 utelatt W2109883629 «Critical strategies for implementing supported employment» (2007) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W2047446253 «An overview of the clubhouse model of psychiatric rehabilitation» (2013) – lærebok, historikk, kommentar eller ikke-systematisk omtale; oversiktene i utvalget dekker evidensen
+- OK   6 utelatt W2898801040 «Multidisciplinary Intervention and Acceptance and Commitment Therapy f» (2018) – kroniske smerter eller muskel- og skjelettlidelser, utenfor mandatet
+- OK   6 utelatt W2212828431 «Predictive validity of the Individual Placement and Support fidelity s» (2015) – studie av modelltrohet (fidelity), ikke effekt mot sammenligningsgruppe
+- OK   6 utelatt W2151015408 «Brief Reports: The Fidelity of Supported Employment Implementation in » (2005) – studie av modelltrohet (fidelity), ikke effekt mot sammenligningsgruppe
+- OK   6 utelatt W2615687689 «Competitive Employment Outcomes Among Veterans in VHA Therapeutic and » (2017) – beskrivende sammenligning av tjenester i VHA uten håndtering av seleksjon
+- OK   6 utelatt W2095141339 «Methods of a multisite randomized clinical trial of supported employme» (2009) – annen gruppe enn psykiske lidelser og rus (utenfor mandatet)
+- OK   6 utelatt W2944011422 «Cognition and disability in schizophrenia: cognition‐related skills de» (2019) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W2927834844 «A short history of individual placement and support in Norway.» (2019) – lærebok, historikk, kommentar eller ikke-systematisk omtale; oversiktene i utvalget dekker evidensen
+- OK   6 utelatt W1996051758 «Evaluation of an individual placement and support model (IPS) program.» (2004) – omtale, kommentar eller beskrivende studie av supported employment uten sammenligningsgruppe
+- OK   6 utelatt W2217628183 «Barriers and Facilitators Related to Work Success for Veterans in Supp» (2015) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W2606080314 «Incomes and Outcomes: Social Security Disability Benefits in First-Epi» (2017) – sammenheng mellom arbeid eller ledighet og helse, ikke effekt av IPS
+- OK   6 utelatt W1793384773 «Individual placement and support – a model to get employed for people » (2011) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2037539713 «Using the Social Enterprise Intervention (SEI) and Individual Placemen» (2013) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2029280728 «Removing barriers to work: Building economic security for people with » (2009) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W1995376860 «Work Rehabilitation for Middle-Aged and Older People With Schizophreni» (2005) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2972372011 «Cognitive remediation for severe mental illness: state of the field an» (2019) – lærebok, historikk, kommentar eller ikke-systematisk omtale; oversiktene i utvalget dekker evidensen
+- OK   6 utelatt W1771972262 «Workplace social networks and their relationship with job outcomes and» (2011) – prediktorer eller kjennetegn blant deltakere, ikke sammenligning med annen oppfølging
+- OK   6 utelatt W4213007498 «An RCT of Virtual Reality Job Interview Training for Individuals With » (2022) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W1977684655 «Program evaluation from an ecological perspective: Supported employmen» (2005) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W2014680010 «Supported Education: A Portrait of a Psychiatric Rehabilitation Interv» (2004) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2332652897 «Beyond Cognition» (2013) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2625816000 «The 2016 Royal Australian and New Zealand College of Psychiatrists gui» (2017) – lærebok, historikk, kommentar eller ikke-systematisk omtale; oversiktene i utvalget dekker evidensen
+- OK   6 utelatt W2579720133 «Effectiveness of two vocational rehabilitation programmes in women wit» (2017) – kroniske smerter eller muskel- og skjelettlidelser, utenfor mandatet
+- OK   6 utelatt W3102460499 «International growth of individual placement and support» (2020) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W2921330895 «Individual placement and support in the Netherlands: Past, present, an» (2019) – lærebok, historikk, kommentar eller ikke-systematisk omtale; oversiktene i utvalget dekker evidensen
+- OK   6 utelatt W2093632996 «Disability Management, Return to Work and Treatment» (2004) – sykmeldte i arbeid og tilbakeføring, beslektet felt utenfor mandatet
+- OK   6 utelatt W2029739657 «Evaluation of a Combined Supported Computer Education and Employment T» (2007) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W1981580840 «Reclaiming the worker role: Perceptions of people with mental illness » (2012) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W3007675917 «Gender differences in health-related quality of life in people with se» (2020) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W3150119845 «Experiences with Individual Placement and Support and employment – a q» (2021) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W2575589424 «Individual Placement and Support in Spinal Cord Injury: A Longitudinal» (2017) – annen gruppe enn psykiske lidelser og rus (utenfor mandatet)
+- OK   6 utelatt W2951912983 «Modifiable Predictors of Supported Employment Outcomes Among People Wi» (2019) – prediktorer eller kjennetegn blant deltakere, ikke sammenligning med annen oppfølging
+- OK   6 utelatt W1974166300 «Managing disclosure of personal information: An opportunity to enhance» (2015) – stigma eller holdninger, ikke effekt av tiltak
+- OK   6 utelatt W1817072107 «Performance-based funding of supported employment: A multi-site contro» (2005) – forsøk med resultatbasert finansiering av supported employment, ikke IPS mot vanlig oppfølging
+- OK   6 utelatt W2056198647 «Expert ratings on the critical ingredients of supported employment for» (2008) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W1889532903 «Working with schizophrenia: Experts' views on barriers and pathways to» (2014) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W75008205 «Competitive Employment and Mental Retardation: Interplay among Gender,» (2002) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W1996695882 «Measuring practitioners' beliefs, goals, and practices in psychiatric » (2002) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2169436242 «Supported employment for people with severe mental illness» (2007) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W1978992583 «Qualitative Analysis of Barriers to Implementation of Supported Employ» (2011) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W1156516337 «Perception of illness as a barrier to work in consumers of supported e» (2007) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W3129694795 «Work Inclusion through Supported Employment? Perspectives of Job Couns» (2021) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W2548992749 «An RCT Evaluating the Effects of Skills Training and Medication Type o» (2016) – tillegg til IPS (kognitiv trening, ferdighetstrening o.l.) eller kognisjon, ikke IPS mot vanlig oppfølging
+- OK   6 utelatt W3137108920 «Exploring factors associated with personal recovery in bipolar disorde» (2021) – prediktorer eller kjennetegn blant deltakere, ikke sammenligning med annen oppfølging
+- OK   6 utelatt W2739473949 «Improving Work Outcome in Supported Employment for Serious Mental Illn» (2017) – tillegg til IPS (kognitiv trening, ferdighetstrening o.l.) eller kognisjon, ikke IPS mot vanlig oppfølging
+- OK   6 utelatt W2893076908 «Employment and vocational rehabilitation experiences among veterans wi» (2018) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W3125690461 «Implementing the Individual Placement and Support approach in institut» (2021) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W1993315062 «The effects of supported employment in Latino consumers with severe me» (2014) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W1895266996 «The Quality of Supported Employment Implementation Scale» (2000) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W58757215 «Augmenting Vocational Outcomes of Supported Employment with Social Ski» (2003) – tillegg til IPS (kognitiv trening, ferdighetstrening o.l.) eller kognisjon, ikke IPS mot vanlig oppfølging
+- OK   6 utelatt W2024657880 «Enhancing Community Mental Health Services Through Formal Partnerships» (2012) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2549677366 «Does improvement of cognitive functioning by cognitive remediation the» (2016) – tillegg til IPS (kognitiv trening, ferdighetstrening o.l.) eller kognisjon, ikke IPS mot vanlig oppfølging
+- OK   6 utelatt W3041889826 «An enhanced individual placement and support (IPS) intervention based » (2020) – forsterket IPS i en kohort uten kontrollgruppe med vanlig oppfølging
+- OK   6 utelatt W2328756249 «Building trust with people receiving supported employment and housing » (2015) – omtale, kommentar eller beskrivende studie av supported employment uten sammenligningsgruppe
+- OK   6 utelatt W2322338709 «Predicting work outcomes and service use in supported employment servi» (2001) – prediktorer eller kjennetegn blant deltakere, ikke sammenligning med annen oppfølging
+- OK   6 utelatt W2165546313 «A working reality: Evaluating enhanced intersectoral links in supporte» (2010) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2751641946 «Cognitive Predictors of Work Among Social Security Disability Insuranc» (2017) – prediktorer eller kjennetegn blant deltakere, ikke sammenligning med annen oppfølging
+- OK   6 utelatt W2311096126 «A cluster-analytical approach toward real-world outcome in outpatients» (2016) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W2141661353 «Recovery in a family context: Experiences of mothers with serious ment» (2014) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W2789409242 «Comparing predictors of employment in Individual Placement and Support» (2018) – prediktorer eller kjennetegn blant deltakere, ikke sammenligning med annen oppfølging
+- OK   6 utelatt W2560491933 «“Everything is so relaxed and personal” – The construction of helpful » (2016) – omtale, kommentar eller beskrivende studie av supported employment uten sammenligningsgruppe
+- OK   6 utelatt W2034630456 «Implementation of evidence-based supported employment in regional Aust» (2014) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W2096748469 «Implementing evidence‐based practices in supported employment on the G» (2015) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W1895215210 «Ethnography, Fidelity, and the Evidence that Anthropology Adds: Supple» (2014) – studie av modelltrohet (fidelity), ikke effekt mot sammenligningsgruppe
+- OK   6 utelatt W2413279706 «Enhanced vocational rehabilitation for Veterans with mild traumatic br» (2016) – annen gruppe enn psykiske lidelser og rus (utenfor mandatet)
+- OK   6 utelatt W2337581231 «Personal experiences of people with serious mental illness when seekin» (2016) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W2511324581 «Pushing through: Mental health consumers' experiences of an individual» (2016) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W2052808013 «Process and Outcome Analysis of a Supported Employment Program for Peo» (2007) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2146404752 «Receipt of employment services among Veterans Health Administration us» (2014) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W3087619670 «A 16‐year follow‐up of patients with serious mental illness and co‐occ» (2020) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W2026654127 «Assessing the Evidence Base for Behavioral Health Services: Introducti» (2013) – lærebok, historikk, kommentar eller ikke-systematisk omtale; oversiktene i utvalget dekker evidensen
+- OK   6 utelatt W4311315149 «Effects of supported employment on the competitive integrated employme» (2022) – annen gruppe enn psykiske lidelser og rus (utenfor mandatet)
+- OK   6 utelatt W1511412178 «Vocational rehabilitation for subjects with severe mental illnesses in» (2008) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2744417670 «Provider perspectives on employment for people with serious mental ill» (2017) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W2031953256 «A Supported Employment Program for People with Mental Illness in Hong » (2004) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W3029941680 «Supported employment programme for persons with severe mental disorder» (2020) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2326121123 «Strategies for state-wide implementation of supported employment: The » (2008) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W2329820338 «Differences in job retention in a supported employment program Chinook» (2002) – omtale, kommentar eller beskrivende studie av supported employment uten sammenligningsgruppe
+- OK   6 utelatt W3024716780 «Blending Traditional Vocational Services and Individualized Placement » (2020) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W1891370043 «Perspectives on benefits and costs of work from individuals with psych» (2007) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W2481405371 «Implementation of a clinical practice guideline for schizophrenia in a» (2016) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W1969140418 «Protocol for the effect evaluation of Individual Placement and Support» (2014) – protokoll eller beskrivelse av utgangspunkt, ikke resultater
+- OK   6 utelatt W2744318857 «Supported Employment for Veterans With Traumatic Brain Injury: Provide» (2017) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W2004563842 «Work-ordered day as a catalyst of competitive employment success.» (2012) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2012379897 «Gender Differences in Supported Employment» (2000) – omtale, kommentar eller beskrivende studie av supported employment uten sammenligningsgruppe
+- OK   6 utelatt W3203781295 «Growth of IPS Supported Employment Programs in the United States: An U» (2021) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W2910275539 «Disclosure of mental illness to prospective employers: Clinical, psych» (2019) – prediktorer eller kjennetegn blant deltakere, ikke sammenligning med annen oppfølging
+- OK   6 utelatt W2721195046 «Disclosure of a Psychiatric Disability in Supported Employment: An Exp» (2007) – stigma eller holdninger, ikke effekt av tiltak
+- OK   6 utelatt W3176383109 «Work, Unemployment and Mental Health» (2021) – sammenheng mellom arbeid eller ledighet og helse, ikke effekt av IPS
+- OK   6 utelatt W2410666142 «Reorganization of mental health services: from institutional to commun» (2015) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W2315861985 «The potential of technology for enhancing individual placement and sup» (2014) – omtale, kommentar eller beskrivende studie av supported employment uten sammenligningsgruppe
+- OK   6 utelatt W2045586607 «Client-centeredness in supported employment: Specialist and supervisor» (2010) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W2074798843 «Is CBT Useful in Vocational Rehabilitation for People with a Psychiatr» (2005) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W1910945506 «Managing disclosure following recent‐onset psychosis: utilizing the I » (2013) – stigma eller holdninger, ikke effekt av tiltak
+- OK   6 utelatt W2802767911 «A supported education service pilot for returning veterans with posttr» (2018) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2077423865 «Performance-based Funding of Supported Employment for Persons with Sev» (2006) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W2888714222 «Predictors of Sustained Employment Among Individuals With Serious Ment» (2018) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W2315214762 «Work Initiatives for Persons with Severe Mental Illnesses in Canada: A» (2006) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W3047435009 «Growth and Sustainment of Individual Placement and Support» (2020) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W4313320334 «Implementing individual placement and support in Norway. From vocation» (2022) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W2156439394 «The effectiveness of individual placement and support for people with » (2013) – protokoll eller beskrivelse av utgangspunkt, ikke resultater
+- OK   6 utelatt W2613793990 «The Relationship Between Hope, Social Inclusion, and Mental Wellbeing » (2017) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W1998398499 «Access to Supported Employment for consumers with criminal justice inv» (2010) – omtale, kommentar eller beskrivende studie av supported employment uten sammenligningsgruppe
+- OK   6 utelatt W2884516846 «Implementing Supported Employment. Lessons from the Making IPS Work Pr» (2018) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W1837589602 «The IPS fidelity scale as a guideline to implement Supported Employmen» (2012) – studie av modelltrohet (fidelity), ikke effekt mot sammenligningsgruppe
+- OK   6 utelatt W2172202786 «Facilitators and Barriers to Employment Among Veterans with Spinal Cor» (2015) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W2163472873 «Scaling Up the Dissemination of Evidence-Based Mental Health Practice » (2009) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W2069085880 «Preliminary Outcomes from an Individualised Supported Education Progra» (2010) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W2033310841 «Long‐term psychiatric patients in vocational rehabilitation programmes» (2000) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2075664325 «Strategies for integrated employment and mental health services.» (2014) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W4293172464 «Boosting the development of individual placement and support in Europe» (2022) – omtale, kommentar eller beskrivende studie av supported employment uten sammenligningsgruppe
+- OK   6 utelatt W3011494298 «Implementation of Individual Placement and Support in Italy: The Reggi» (2020) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W2778988921 «A pilot study of the individual placement and support model for patien» (2017) – kroniske smerter eller muskel- og skjelettlidelser, utenfor mandatet
+- OK   6 utelatt W2306672413 «Individual Placement and Support is the keyhole: Employer experiences » (2016) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W2413521129 «Why can’t we fund supported employment?» (2016) – omtale, kommentar eller beskrivende studie av supported employment uten sammenligningsgruppe
+- OK   6 utelatt W1141836717 «Enhancing supported employment services for individuals with a serious» (2007) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2056752951 «The availability of evidence‐based practices in supported employment f» (2014) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W2793775146 «Pre-post, mixed-methods feasibility study of the WorkingWell mobile su» (2018) – protokoll eller beskrivelse av utgangspunkt, ikke resultater
+- OK   6 utelatt W2964592684 «State-Federal Vocational Rehabilitation in Traumatic Brain Injury: Wha» (2019) – prediktorer eller kjennetegn blant deltakere, ikke sammenligning med annen oppfølging
+- OK   6 utelatt W4366983163 «Supported employment and customized employment: How effective are thes» (2023) – ikke-systematisk omtale av supported og customized employment, også for utviklingshemmede
+- OK   6 utelatt W2914294721 «Labour market outcomes of Veterans» (2019) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W3111977939 «Differential vocational rehabilitation service patterns and outcomes f» (2020) – annen gruppe enn psykiske lidelser og rus (utenfor mandatet)
+- OK   6 utelatt W3048931709 «Reasonable Accommodation at the Workplace for Professionals with Sever» (2020) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W2947916713 «Exploring the potential cost-effectiveness of a vocational rehabilitat» (2019) – sammenheng mellom arbeid eller ledighet og helse, ikke effekt av IPS
+- OK   6 utelatt W1528738785 «Nonvocational outcomes for clients with~severe mental illness» (2010) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W4318612152 «Modification of the Individual Placement and Support Model of Supporte» (2023) – omtale, kommentar eller beskrivende studie av supported employment uten sammenligningsgruppe
+- OK   6 utelatt W2164384697 «Exploring communication and interaction skills at work among participa» (2015) – omtale, kommentar eller beskrivende studie av supported employment uten sammenligningsgruppe
+- OK   6 utelatt W2794539357 «Implementation of individual placement and support (IPS) into communit» (2018) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W2990785422 «Implementing Adapted Individual Placement and Support (IPS) Supported » (2019) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W2799607077 «Quality of Life Outcomes for Veterans With Spinal Cord Injury Receivin» (2018) – annen gruppe enn psykiske lidelser og rus (utenfor mandatet)
+- OK   6 utelatt W2055271919 «Increasing the employment rate for people with longer-term mental heal» (2011) – sammenheng mellom arbeid eller ledighet og helse, ikke effekt av IPS
+- OK   6 utelatt W2064910177 «Creating Hope Through Employment for People Who are Homeless or in Tra» (2005) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W4224981669 «Supported employment for people with severe mental illness: a pilot st» (2022) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2159676985 «Mental Health and Quality of Life Among Veterans Employed as Peer and » (2015) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W2949463711 «A qualitative study of supported employment practices in Project SEARC» (2019) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W1997015320 «Predictors of Competitive Employment Among Consumers With Co-Occurring» (2009) – prediktorer eller kjennetegn blant deltakere, ikke sammenligning med annen oppfølging
+- OK   6 utelatt W2130159436 «Individual Placement and Support supplemented with cognitive remediati» (2015) – protokoll eller beskrivelse av utgangspunkt, ikke resultater
+- OK   6 utelatt W4317717470 «Implementing a combined individual placement and support and vocationa» (2023) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W1967572535 «Additional Interventions to Enhance the Effectiveness of Individual Pl» (2012) – hurtigoversikt over tillegg til IPS, ikke IPS mot vanlig oppfølging
+- OK   6 utelatt W2801896663 «Promising practices in vocational services for the community reintegra» (2018) – omtale, kommentar eller beskrivende studie av supported employment uten sammenligningsgruppe
+- OK   6 utelatt W3196266928 «Leipzig - Individual Placement and Support for people with mental illn» (2021) – protokoll eller beskrivelse av utgangspunkt, ikke resultater
+- OK   6 utelatt W2009677677 «Psychosocial Well-Being Construct in People with Severe Mental Disorde» (2014) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2091086169 «‘Placement budgets’ for supported employment – improving competitive e» (2012) – protokoll eller beskrivelse av utgangspunkt, ikke resultater
+- OK   6 utelatt W2318352694 «Tying it all together--The PASS to success: A comprehensive look at pr» (2004) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W1695203662 «Evaluating the motivation to obtain and sustain employment in people w» (2015) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W2787464792 «Protocol for the Individual Placement and Support (IPS) in Pain Trial:» (2018) – protokoll eller beskrivelse av utgangspunkt, ikke resultater
+- OK   6 utelatt W3006643886 «Protocol for a multi-centre, definitive randomised controlled trial of» (2020) – protokoll eller beskrivelse av utgangspunkt, ikke resultater
+- OK   6 utelatt W4283257926 «Turnover of IPS employment specialists: Rates and predictors» (2022) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W2893470470 «Designing video stories around the lived experience of severe mental i» (2018) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W2306576757 «Time utilisation trends of supported employment services by persons wi» (2015) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2604385736 «Preventing unemployment and disability benefit receipt among people wi» (2017) – sammenheng mellom arbeid eller ledighet og helse, ikke effekt av IPS
+- OK   6 utelatt W3016693020 «Return-to-work-experts for inpatient treatment of patients with mental» (2020) – protokoll eller beskrivelse av utgangspunkt, ikke resultater
+- OK   6 utelatt W2175853993 «The role of work related self-efficacy in supported employment for peo» (2015) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2028391504 «Rehab Rounds: Use of the Americans With Disabilities Act by Young Adul» (2003) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W2082055289 «Predictors of Referral to Supported Employment Among Consumers with Co» (2009) – prediktorer eller kjennetegn blant deltakere, ikke sammenligning med annen oppfølging
+- OK   6 utelatt W2904480265 «Enhancing individual placement and support (IPS) - Supported employmen» (2018) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W2591866782 «Provider-identified barriers and facilitators to implementing a suppor» (2017) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W2603226948 «Veterans individual placement and support towards advancing recovery: » (2017) – prediktorer eller kjennetegn blant deltakere, ikke sammenligning med annen oppfølging
+- OK   6 utelatt W3210489598 «Supported Employment for Veterans With Traumatic Brain Injury: Patient» (2017) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W2998704035 «Addressing Severe Mental Illness Rehabilitation in Colombia, Costa Ric» (2020) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W4389088290 «Evaluating a new supported employment internship programme for autisti» (2023) – annen gruppe enn psykiske lidelser og rus (utenfor mandatet)
+- OK   6 utelatt W2124526788 «Assessing Cost-Effectiveness in Mental Health: Vocational Rehabilitati» (2005) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2014308279 «Vocational rehabilitation of people with mental illness: The need for » (2003) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2167795958 «Correlates of Competitive Versus Noncompetitive Employment Among Adult» (2013) – prediktorer eller kjennetegn blant deltakere, ikke sammenligning med annen oppfølging
+- OK   6 utelatt W2793782282 «Career Decision-Making Processes of Young Adults With First-Episode Ps» (2018) – lærebok, historikk, kommentar eller ikke-systematisk omtale; oversiktene i utvalget dekker evidensen
+- OK   6 utelatt W1967883429 «Implementation of individual placement and support: The Nottingham exp» (2012) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W2300554177 «Individual placement and support versus individual placement and suppo» (2016) – tillegg til IPS (kognitiv trening, ferdighetstrening o.l.) eller kognisjon, ikke IPS mot vanlig oppfølging
+- OK   6 utelatt W2789344151 «A preliminary evaluation of individual placement and support for youth» (2018) – annen gruppe enn psykiske lidelser og rus (utenfor mandatet)
+- OK   6 utelatt W2332957006 «Individual placement and support (IPS) in physical rehabilitation and » (2014) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W2169034783 «Supported employment interventions are effective for people with sever» (2006) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2324539499 «Social Enterprises, Vocational Rehabilitation, Supported Employment» (2014) – omtale, kommentar eller beskrivende studie av supported employment uten sammenligningsgruppe
+- OK   6 utelatt W2972190827 «Experiences of workers with disabilities receiving supported employmen» (2019) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W2949118530 «Evidence-based supported employment for people with psychiatric disabi» (2019) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2108069427 «Rehab Rounds: A Hybrid Supported Employment Program for Persons With S» (2000) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2143955150 «Enhancing Work-Focused Supports for People with Severe Mental Illnesse» (2012) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W1515627329 «Perceptions of Supported Employment Providers: What Students with Deve» (2011) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W1640757711 «Employment services as an early intervention for young people with men» (2010) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2919978930 «The experiences and perceptions of individuals diagnosed with schizoph» (2019) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W2582649181 «Perceived and actual barriers to work for people with mental illness» (2017) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W2981469093 «Individual placement and support in Italian young adults with mental d» (2019) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W4315434638 «Pathways to care in first-episode psychosis in low-resource settings: » (2023) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W2149482421 «Service Intensity as a Predictor of Competitive Employment in an Indiv» (2011) – prediktorer eller kjennetegn blant deltakere, ikke sammenligning med annen oppfølging
+- OK   6 utelatt W1461172834 «Practitioner perspectives on Individual Placement and Support (IPS) fo» (2014) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W4376122108 «Examination of Adaptations to the Evidence Based Supported Employment » (2023) – omtale, kommentar eller beskrivende studie av supported employment uten sammenligningsgruppe
+- OK   6 utelatt W3001604740 «Consumer, health professional and employment specialist experiences of» (2020) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W2143708160 «Evaluation of an employment program for people with mental illness usi» (2009) – studie av modelltrohet (fidelity), ikke effekt mot sammenligningsgruppe
+- OK   6 utelatt W2031444516 «Implementation Issues for IPS Supported Employment: Stakeholders Share» (2011) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W2313571949 «Hybrid transitional-supported employment using social enterprise: A re» (2009) – omtale, kommentar eller beskrivende studie av supported employment uten sammenligningsgruppe
+- OK   6 utelatt W1497880638 «Developing Evidence-based Supported Employment Services for Young Adul» (2009) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2014701438 «Occupational Therapy and Evidence-Based Practice in Mental Health» (2004) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W3197274611 «Predictive Association of Low- and High-Fidelity Supported Employment » (2021) – studie av modelltrohet (fidelity), ikke effekt mot sammenligningsgruppe
+- OK   6 utelatt W646031431 «The Vocational Cognitive Rating Scale: A scale for the assessment of c» (2004) – tillegg til IPS (kognitiv trening, ferdighetstrening o.l.) eller kognisjon, ikke IPS mot vanlig oppfølging
+- OK   6 utelatt W2993395287 «Consumers of Vocational Rehabilitation Services Diagnosed with Psychia» (2009) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2039427698 «Comorbid physical health conditions hinder employment among people wit» (2008) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W1940572163 «Predictors of vocational outcomes using Individual Placement and Suppo» (2013) – prediktorer eller kjennetegn blant deltakere, ikke sammenligning med annen oppfølging
+- OK   6 utelatt W2674250848 «Changes in the nature and intensity of stress following employment amo» (2017) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W3164821765 «Predictors of work and education among people with severe mental illne» (2021) – prediktorer eller kjennetegn blant deltakere, ikke sammenligning med annen oppfølging
+- OK   6 utelatt W2166478071 «Implementing evidence-based supported employment in Sussex for people » (2015) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W2309284870 «The financial viability of evidence-based supported employment for peo» (2016) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2544365463 «Age and Improved Attention Predict Work Attainment in Combined Compens» (2016) – prediktorer eller kjennetegn blant deltakere, ikke sammenligning med annen oppfølging
+- OK   6 utelatt W2129073006 «Cognitive impairment as barrier to engagement in vocational services a» (2011) – tillegg til IPS (kognitiv trening, ferdighetstrening o.l.) eller kognisjon, ikke IPS mot vanlig oppfølging
+- OK   6 utelatt W1999144844 «Health and well-being of homeless veterans participating in transition» (2014) – overgangsarbeid mot supported employment for bostedsløse veteraner, seksmånedersresultater; PTSD-forsøkene for veteraner er i utvalget
+- OK   6 utelatt W4309440918 «Supported employment for youth with intellectual disability: Promoting» (2022) – annen gruppe enn psykiske lidelser og rus (utenfor mandatet)
+- OK   6 utelatt W2947062328 «Work Motivation and Employment Outcomes in People with Severe Mental I» (2019) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2120836299 «Effects of structured vocational services in ex-offender veterans with» (2013) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W1505851666 «The Individual Placement and Support Model vs. the Menu Approach to Su» (2002) – sammenligner to varianter av supported employment, ingen arm med vanlig oppfølging
+- OK   6 utelatt W4388281244 «Predictors of job tenure for people with a severe mental illness, enro» (2023) – prediktorer eller kjennetegn blant deltakere, ikke sammenligning med annen oppfølging
+- OK   6 utelatt W1603271083 «Employment and People with Mental Illness» (2010) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2160901509 «Developing high performing employment services for people with mental » (2009) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W3205098633 «Hybrid Supported Employment Approach for Persons with Intellectual Dis» (2021) – annen gruppe enn psykiske lidelser og rus (utenfor mandatet)
+- OK   6 utelatt W2926598852 «Employment outcomes from VA vocational services involving transitional» (2019) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2411986783 «Patterns of Employment: Among Individuals with Mental Illness in Vocat» (2007) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2577593795 «Does personality influence job acquisition and tenure in people with s» (2017) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2800222945 «Relationship Between Self-Assessed Fidelity and Self-Reported Employme» (2018) – studie av modelltrohet (fidelity), ikke effekt mot sammenligningsgruppe
+- OK   6 utelatt W2051786771 «Individual Placement and Support: Does Rurality Matter?» (2011) – omtale, kommentar eller beskrivende studie av supported employment uten sammenligningsgruppe
+- OK   6 utelatt W2964046553 «Predictors of Employment for People With Mental Illness: Results of a » (2019) – prediktorer eller kjennetegn blant deltakere, ikke sammenligning med annen oppfølging
+- OK   6 utelatt W4307313778 «Job Retention and Reintegration in People with Mental Health Problems:» (2022) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2549218522 «Applicability of IPS principles to job inclusion of vulnerable youth» (2016) – omtale, kommentar eller beskrivende studie av supported employment uten sammenligningsgruppe
+- OK   6 utelatt W59987250 «Cognitive Impairment, Symptoms, Social Functioning, and Vocational Reh» (2002) – tillegg til IPS (kognitiv trening, ferdighetstrening o.l.) eller kognisjon, ikke IPS mot vanlig oppfølging
+- OK   6 utelatt W2036001255 «Access and Outcomes for Persons With Psychotic and Affective Disorders» (2011) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2099774114 «The effect of IPS-modified, an early intervention for people with mood» (2013) – protokoll eller beskrivelse av utgangspunkt, ikke resultater
+- OK   6 utelatt W2321001714 «Creation of a measure to assess knowledge of the individual placement » (2010) – omtale, kommentar eller beskrivende studie av supported employment uten sammenligningsgruppe
+- OK   6 utelatt W2124336843 «Mental health vocational rehabilitation–occupational therapists’ perce» (2012) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W3043629003 «Predictors of employment in people with moderate to severe mental illn» (2020) – prediktorer eller kjennetegn blant deltakere, ikke sammenligning med annen oppfølging
+- OK   6 utelatt W2321086913 «The costs of providing supported employment services to individuals wi» (2008) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2060433782 «Disability and supported employment» (2012) – omtale, kommentar eller beskrivende studie av supported employment uten sammenligningsgruppe
+- OK   6 utelatt W2067871348 «Evaluation of a statewide implementation of supported employment in Ma» (2014) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W2462826186 «Protocol for the SEED-trial: Supported Employment and preventing Early» (2016) – protokoll eller beskrivelse av utgangspunkt, ikke resultater
+- OK   6 utelatt W7161231750 «Real‐world comprehensive care of people living with schizophrenia: rec» (2026) – lærebok, historikk, kommentar eller ikke-systematisk omtale; oversiktene i utvalget dekker evidensen
+- OK   6 utelatt W2585312009 «Reasons for job loss among homeless veterans in supported employment» (2017) – sammenheng mellom arbeid eller ledighet og helse, ikke effekt av IPS
+- OK   6 utelatt W2903649857 «Strategies for Developing Work Experiences for Youth With Intellectual» (2018) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W2461392655 «Assessing Self-Determined Work Motivation in People with Severe Mental» (2015) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W3185493119 «Work Experiences and Challenges to Employment Sustainability for Peopl» (2021) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W41890740 «WHAT DOES COMPETITIVE EMPLOYMENT MEAN? A SECONDARY ANALYSIS OF EMPLOYM» (2005) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W47155033 «Vocational Rehabilitation and Older Adults: Patterns in Participation » (2002) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2320735440 «The relationship between cognition, job complexity, and employment dur» (2015) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W4385897487 «Individual placement and support for young adults: One-year outcomes.» (2023) – ettårsresultater for unge voksne uten kontrollgruppe; RCT-er og metaanalyse for unge er i utvalget
+- OK   6 utelatt W1593048273 «Does Individual Placement and Support really ‘reflect client goals’?» (2011) – omtale, kommentar eller beskrivende studie av supported employment uten sammenligningsgruppe
+- OK   6 utelatt W2025311163 «Processes towards employment among persons with psychiatric disabiliti» (2014) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2328647748 «A self-rating scale for supported employment participants and practiti» (2003) – omtale, kommentar eller beskrivende studie av supported employment uten sammenligningsgruppe
+- OK   6 utelatt W2319100869 «Rural and urban supported employment programs in the Veterans Health A» (2016) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W2168564503 «Estimated Payments to Employment Service Providers for Persons With Me» (2006) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W4214874209 «Employment related barriers and facilitators for people with psychiatr» (2022) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W2072486281 «A Survey of Community Employment Placements: Where Are Youth and Adult» (2000) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2887132797 «Employment Outcomes After Vocational Training for People With Chronic » (2018) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2991716152 «Work Opportunities for Rewarding Careers (WORC): Insights from Impleme» (2006) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W2996128963 «Supported employment in Switzerland—Are we on track?» (2019) – omtale, kommentar eller beskrivende studie av supported employment uten sammenligningsgruppe
+- OK   6 utelatt W2947889281 «Outcomes of an individual placement and support programme incorporatin» (2019) – resultater fra ett program uten kontrollgruppe
+- OK   6 utelatt W4312873160 «Supported Employment» (2022) – omtale, kommentar eller beskrivende studie av supported employment uten sammenligningsgruppe
+- OK   6 utelatt W1172798933 «Welche Faktoren beeinflussen den Erfolg von Supported Employment?» (2015) – omtale, kommentar eller beskrivende studie av supported employment uten sammenligningsgruppe
+- OK   6 utelatt W2365159866 «Evaluation of a national supported employment programme for people wit» (2016) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W4389146517 «Evidence-Based Supported Employment for Individuals With Obsessive-Com» (2023) – beskrivende studie ved tvangslidelse uten kontrollgruppe
+- OK   6 utelatt W60240935 «Wie nachhaltig ist Supported Employment? Eine katamnestische Untersuch» (2013) – omtale, kommentar eller beskrivende studie av supported employment uten sammenligningsgruppe
+- OK   6 utelatt W2752750054 «Supported Employment for people with mental disabilities in South Afri» (2017) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2122255382 «Increasing the Utilization of Supported Employment ServicesWith the Ne» (2006) – omtale, kommentar eller beskrivende studie av supported employment uten sammenligningsgruppe
+- OK   6 utelatt W4324309687 «A demographic and qualitative analysis of the determinants of success » (2023) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W829553772 «Employer Preferences in Hiring Youth with Disabilities» (2015) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W1902956316 «Return to work experiences for veterans with severe mental illness liv» (2005) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W3197068299 «A mixed methods study of employers’ and employees’ evaluations of job » (2021) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2949475643 «Exploring Postsecondary Education and Competitive Employment for Peopl» (2009) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2140379053 «Beliefs of Vocational Rehabilitation Counselors About Competitive Empl» (2014) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2045019312 «Implementation of an employment intervention in mental health teams: a» (2014) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W2086423502 «Importance of Collegiate Training for Vocational Rehabilitation Consum» (2011) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W4393296731 «Une expérience de soutien à l’emploi pour les personnes souffrant de t» (2014) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2154918537 «Individual placement and support programme increases rates of obtainin» (2008) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W1913760996 «Employment of ex-prisoners with mental health problems, a realistic ev» (2015) – protokoll eller beskrivelse av utgangspunkt, ikke resultater
+- OK   6 utelatt W2332303546 «Psychiatric/Psychosocial Rehabilitation (PSR) in Relation to Vocationa» (2013) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W4403738367 «Supported employment as a global mental health intervention» (2024) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2478071039 «Association of Supported Employment With Cognitive Functioning and Emp» (2016) – prediktorer eller kjennetegn blant deltakere, ikke sammenligning med annen oppfølging
+- OK   6 utelatt W2080868765 «The Evidentiary Basis for Supported Employment Practice for Workers wi» (2014) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2089708454 «Reliability of a scale of work-related self-efficacy for people with p» (2010) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2106190535 «The Menu Approach to supported employment for individuals with severe » (2009) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2334629100 «Effectiveness of the Individual Placement and Support (IPS) model of v» (2011) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W1966392562 «Maßnahmenabbrecher in der beruflichen Rehabilitation psychisch kranker» (2006) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W1741216720 «What are individuals with serious mental illness (SMI) dealing with in» (2015) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W2897137774 «Empowerment promotion through competitive employment for people with p» (2018) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W3170906774 «Physical activity and severe mental illness» (2021) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W1683995460 «THE ROLE OF SOCIAL NETWORKS FOR VETERANS WITH SPINAL CORD INJURY IN OB» (2013) – annen gruppe enn psykiske lidelser og rus (utenfor mandatet)
+- OK   6 utelatt W4380730425 «Social Skills and Cognitive Training to Support Work-Related Skills an» (2023) – tillegg til IPS (kognitiv trening, ferdighetstrening o.l.) eller kognisjon, ikke IPS mot vanlig oppfølging
+- OK   6 utelatt W1969090115 «Rehab Rounds: A Hybrid Transitional and Supported Employment Program» (2004) – omtale, kommentar eller beskrivende studie av supported employment uten sammenligningsgruppe
+- OK   6 utelatt W2028237816 «Viability of Using Employment Rates from Randomized Trials as Benchmar» (2009) – sammenheng mellom arbeid eller ledighet og helse, ikke effekt av IPS
+- OK   6 utelatt W4393118484 «Supported employment, quality of jobs and employment typicalness: The » (2024) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W4408310558 «Improving employability? Individual placement and support for the long» (2025) – annen gruppe enn psykiske lidelser og rus (utenfor mandatet)
+- OK   6 utelatt W2095270457 «The Trainee Project: Family-aided vocational rehabilitation of young p» (2002) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2147413606 «Factors associated with work outcome among individuals with schizophre» (2009) – prediktorer eller kjennetegn blant deltakere, ikke sammenligning med annen oppfølging
+- OK   6 utelatt W2043313111 «The Importance of Service Integration in Developing Effective Employme» (2011) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W4328112721 «Virtual Job Interview Training: A Dose Response to Improve Employment » (2023) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W1951899618 «Supported employment – improving competitive employment for people wit» (2014) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2180901199 «Planning Post-Employment Support for People with Psychiatric Disabilit» (2015) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2559828646 «Employment specialists’ perspectives on implementing supported employm» (2016) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W2151027204 «Change in Work Performance in Vocational Rehabilitation for People wit» (2006) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2895063211 «Development of a scale to assess motivation for competitive employment» (2018) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W4406217805 «Adapting individual placement and support for unemployed adults with a» (2025) – annen gruppe enn psykiske lidelser og rus (utenfor mandatet)
+- OK   6 utelatt W4412373205 «‘I am somebody now’—exploring meanings and experiences of gaining empl» (2025) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W1534426222 «Job Maintenance by Supported Employment: An Overview of the “Supported» (2015) – lærebok, historikk, kommentar eller ikke-systematisk omtale; oversiktene i utvalget dekker evidensen
+- OK   6 utelatt W4409039402 «Scaling Up Evidence-Based Supported Employment in the United States» (2025) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W1575487208 «Creating a culture of employability in mental health» (2014) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2321346418 «Spinal cord injury combined with felony history: Effect on supported e» (2014) – lærebok, historikk, kommentar eller ikke-systematisk omtale; oversiktene i utvalget dekker evidensen
+- OK   6 utelatt W2104392588 «Transitioning Children, Youths, and Young Adults with Disabilities» (2007) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W4406513152 «Enhancing individual task performance and productivity: an ethnographi» (2025) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W623871506 «Rehabilitation readiness: A construct validity study of the University» (2010) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W1490018082 «Predictors of financial self-sufficiency among Social Security benefic» (2013) – prediktorer eller kjennetegn blant deltakere, ikke sammenligning med annen oppfølging
+- OK   6 utelatt W2196452777 «Employment and Mental Health» (2015) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2470015270 «Evaluation of a cognitive-behavioural intervention augmenting individu» (2016) – tillegg til IPS (kognitiv trening, ferdighetstrening o.l.) eller kognisjon, ikke IPS mot vanlig oppfølging
+- OK   6 utelatt W1976508821 «Measuring the fidelity of supported employment for people with severe » (2009) – studie av modelltrohet (fidelity), ikke effekt mot sammenligningsgruppe
+- OK   6 utelatt W2188118955 «Enhancing employment opportunities of people with mental illness throu» (2008) – tillegg til IPS (kognitiv trening, ferdighetstrening o.l.) eller kognisjon, ikke IPS mot vanlig oppfølging
+- OK   6 utelatt W1581281717 «Supported Employment: A Best Practice for People with Psychiatric Disa» (2006) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2952180716 «Employment Barriers for Persons with Substance Use Disorders and Co-oc» (2008) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W1966432489 «Building research capacity through partnerships: Spinal Cord Injury--V» (2007) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W4415418592 «Divergent Institutional Logics—Implementing Supported Employment in Hy» (2025) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W2495905090 «A cross sectional study of employment pattern in patients with severe » (2014) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W1996476520 «Principles for enhancing the role of state vocational rehabilitation i» (2013) – omtale, kommentar eller beskrivende studie av supported employment uten sammenligningsgruppe
+- OK   6 utelatt W2952820959 «The Outcomes and Costs of Public Vocational Rehabilitation Consumers w» (2009) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2427754281 «Konzepte beruflicher Rehabilitationsvorbereitung für schizophrene Pati» (2003) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W4410621698 «A qualitative study of the IPS employment specialist role in the conte» (2025) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W2320265380 «Rebirth through supported employment.» (2014) – omtale, kommentar eller beskrivende studie av supported employment uten sammenligningsgruppe
+- OK   6 utelatt W4412355974 «Supported employment – ensuring flexibility or introducing new demands» (2025) – omtale, kommentar eller beskrivende studie av supported employment uten sammenligningsgruppe
+- OK   6 utelatt W2784149143 «International employment schemes for people with mental health problem» (2015) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W4414137956 «Predictors of Competitive Integrated Employment among Veterans Across » (2025) – prediktorer eller kjennetegn blant deltakere, ikke sammenligning med annen oppfølging
+- OK   6 utelatt W1700860219 «The impact of agency organisation and natural support on supported emp» (2012) – omtale, kommentar eller beskrivende studie av supported employment uten sammenligningsgruppe
+- OK   6 utelatt W4412042024 «Assessing Program Fidelity Patterns within the IPS for Young Adults in» (2025) – studie av modelltrohet (fidelity), ikke effekt mot sammenligningsgruppe
+- OK   6 utelatt W2501769468 «EMPLOYMENT SERVICES AND EMPLOYMENT OUTCOMES FOR ADULTS WITH SERIOUS ME» (2005) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2164311048 «Quality of Life and Competitive Work Among Adults With Severe Mental I» (2013) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2348098761 «Competitive Employment and Autism Spectrum Disorder: Employer Perspect» (2016) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W2318653988 «Work Values of People With Severe Mental Disorders Registered in Vocat» (2010) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2388886055 «A review of job tenure under the Job in Jeopardy programme in first ep» (2016) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2313317614 «The impact of psychotic disorders and co-morbid substance abuse on voc» (2016) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W4313595295 «The impact of COVID-19 on coordinated specialty care (CSC) for people » (2023) – lærebok, historikk, kommentar eller ikke-systematisk omtale; oversiktene i utvalget dekker evidensen
+- OK   6 utelatt W7107960537 «Employer Training Interventions in Supported Employment Workplaces and» (2025) – stigma eller holdninger, ikke effekt av tiltak
+- OK   6 utelatt W4413110589 «Factors Affecting Employment for Early Adults With Intellectual and De» (2025) – prediktorer eller kjennetegn blant deltakere, ikke sammenligning med annen oppfølging
+- OK   6 utelatt W4212870371 «Employment outcomes» (2012) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W7127992049 «Contextual adaptation, implementation, and outcomes of individual plac» (2026) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W2743009263 «Psychiatric rehabilitation and supported employment : an interview wit» (2002) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W1561188620 «Complex interventions in mental health services research» (2013) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W4389454700 «The Importance of Economic Participation for Quality of Life» (2023) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2997177128 «The Analysis on the Causal Model of the Effects of the Schizophrenic P» (2009) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W7128491336 «Longitudinal Outcomes of Individual Placement and Support for Patients» (2026) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W7167573064 «Structural barriers to implementing individual placement and support i» (2026) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W2490438369 «Conceptual, Historical, and Ideological Underpinnings of Supported Emp» (2003) – omtale, kommentar eller beskrivende studie av supported employment uten sammenligningsgruppe
+- OK   6 utelatt W7165806190 «World Down Syndrome Day 2026. There is a Need to Work “Together Agains» (2026) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W7134058488 «Societal consequences of IPS implementation in Norway 2012–2019: study» (2026) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W7212411408 «Activating relational welfare: insights from Supported Employment» (2026) – omtale, kommentar eller beskrivende studie av supported employment uten sammenligningsgruppe
+- OK   6 utelatt W2953097948 «A Rehabilitation Counselor Education Program with a Specialization in » (2000) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt 019905113e6a-0c733639-396f-4784-9755-f97bf964da26 «Jobbspesialisters erfaringer med praktisering av de manualbaserte prin» (2019) – lærebok, historikk, kommentar eller ikke-systematisk omtale; oversiktene i utvalget dekker evidensen
+- OK   6 utelatt 0198cc671f32-0f0ff0f8-ce42-46b3-8ec3-08159c35b5f3 «Supported Employment or Segregated Rehabilitation?. Vocational Rehabil» (2006) – omtale, kommentar eller beskrivende studie av supported employment uten sammenligningsgruppe
+- OK   6 utelatt 0198cc8e7869-eb6ed423-3583-445f-b131-7d0f86848b1a «Kunnskapsoppsummeringer – om fem strategier for å styrke flyktningenes» (2020) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt 019913ccc82c-c9964b9d-d609-4103-a04d-a06dc2ff3fa6 «Innovativ Rehabilitering i Indre Østfold, Nasjonalt forsøk med kommuna» (2019) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt 0198f35ca73e-bf82eff8-5f49-42a8-b15a-865620039f35 «Forekomst av kreft hos pasienter med alvorlige psykiske lidelser: en l» (2021) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt 0198cc80e132-d541674d-8e67-47c7-8081-665e6e8e1838 «Effekt av fysisk trening for personer med alvorlige psykiske lidelser.» (2018) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt 019c95649650-661586bd-08d1-4523-ba6e-54354396a05d «Levealder og kardiovaskulær død blant personer med alvorlige psykiske » (2015) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt 0198f1df0682-5a8c4ca9-1aa7-4648-9e86-eec3551f54b0 «Unified Protocol som transdiagnostisk behandling ved alvorlige psykisk» (2025) – protokoll eller beskrivelse av utgangspunkt, ikke resultater
+- OK   6 utelatt 0198cc7743df-a2909577-cd0d-40ee-a9f9-a616a98ecfb8 «Tvang i psykisk helsevern og vold: systematisk litteratursøk med sorte» (2023) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt 019a9be8dc6c-cb3814ae-9c14-41a6-af8f-068e9e00c1eb «Kroppens plass i behandling av alvorlig psykisk lidelse» (2025) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt 0198f35a8ee2-c4c54de7-ac92-4b6c-ab03-ef124a77e3ba «Blir flinke piker til flinke leger? En studie om personlighet og psyki» (2016) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt 0198f35df0be-e4ae7006-00e0-4f5c-96c9-a0d7f6d6a900 «Bruk av naturlig språkprosessering i psykiatri: En systematisk kartleg» (2023) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt 0198cc759fe0-c9aac609-430c-4647-8368-a2d731b297b9 «Modeller for samordning av spesialiserte funksjoner innen psykiatrien.» (2002) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt 019fdbf9390d-68203a00-6bfa-42f1-ad01-a00d30fd1149 «Emosjonelle krav og belastninger i kommunalt psykisk helsearbeid: En k» (2026) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt 0198cc74dbba-9cdeef37-21e7-4e05-947d-b613fd11752a «Er brukeransettelser mulig og ønskelig?» (2008) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt 0198cc9712e5-12c83a76-9626-4e17-9936-e63e080b8943 «Forebygging av selvmord, del 1: Psykoterapi, medikamentelle intervensj» (2006) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt 0198f6097f34-942bda84-c442-45f3-bee4-ae2a5dfadb8a «Hva eksisterer av kilder på Arbeidsdeltakelse hos sykmeldte med muskel» (2021) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt KU-106d7f69-7d05-400d-ba93-21c5c5308d52 «Kunnskapsoppsummeringer – om fem strategier for å styrke flyktningers» (2020) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt KU-678f280b-5d4f-4e9a-8cb4-afcfc90b35c1 «Sluttrapport» (2017) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt KU-72544f1e-ce80-4fca-9c63-4f8a7e4b9e06 «Utprøving og videreutvikling av verktøy for vurdering av funksjonsnivå» (2013) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt LI-k6rq46p7h6x09sl8 «Boendelösningar för personer i hemlöshet : En systematisk kunskapsöver» (2026) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt LI-lvxd8n6sj47p2j45 «Digitala lärresurser i matematikundervisningen, delrapport skola : Sys» (2017) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt LI-rcz76xk5pmkdb4z2 «Benefits and barriers of technologies supporting working carers - A sc» (2022) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt LI-rccmwkbkp4lfvmj6 «A salutogenic approach to aspects facilitating female immigrants' esta» (2025) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt LI-6r32t9rk41m4z5q5 «Tidiga insatser och stöd hela vägen för säkrad sysselsättning : Kunska» (2024) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt LI-h2sp3x5ffnwfqgs2 «"Vi vill alla samma sak, men gör saker på olika sätt" : Kunskapsöversi» (2024) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt LI-22618371 «Ungdomars och unga vuxnas levnadsvillkor i Sverige : en kunskapsöversi» (2018) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt LI-zfvmdhvhwk2f46ks «Hur mår våra barn och unga? : Förändringar i barns och ungas hälsa öve» (2023) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt LI-cm5pn38w9r6rlg8w «Kunskapsöversikt om stöd och behandling för barn som utsatts för sexue» (2017) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt LI-bnj8pkzg8qq78mvh «Barn som är anhöriga när en förälder avlider : en kunskapsöversikt om » (2014) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt LI-x9wk51qbv2blv2kt «Att leva med endometrios – En litteraturöversikt om kvinnors upplevels» (2020) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt FI-jyx.123456789_52907 «Tutkimustietoa perhehoidon kehittämiseksi : katsaus kansainvälisiin tu» (2016) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt FI-trepo.10024_146372 «Takaisin töihin – työssä jatkaminen ja työhön paluun tukeminen : Kirja» (2023) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2139167115 «A Randomized Clinical Trial of Supported Employment for Inner-city Pat» (1999) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W1970965811 «The New Hampshire study of supported employment for people with severe» (1996) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W7163168501 «Outcome Measurement, Costing, and Practical Guidance for Evaluating Su» (2026) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W3147398177 «Umsetzung der Prinzipien des Supported Employment in Deutschland» (2021) – omtale, kommentar eller beskrivende studie av supported employment uten sammenligningsgruppe
+- OK   6 utelatt W3027591844 «Psychosocial therapies in severe mental illness: update on evidence an» (2020) – lærebok, historikk, kommentar eller ikke-systematisk omtale; oversiktene i utvalget dekker evidensen
+- OK   6 utelatt W2128121671 «Does employment alter the course and outcome of schizophrenia and othe» (2014) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W7117606371 «The effectiveness of interventions in reducing economic inactivity for» (2025) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W3031966623 «Fidelity and IPS: does quality of implementation predict vocational ou» (2020) – studie av modelltrohet (fidelity), ikke effekt mot sammenligningsgruppe
+- OK   6 utelatt W2140606211 «The Positive and Negative Syndrome Scale (PANSS) for Schizophrenia» (1987) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2132217901 «Vocational Rehabilitation in Shizophrenia» (1995) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2159011576 «Diagnostic and Statistical Manual of Mental Disorders» (2013) – lærebok, historikk, kommentar eller ikke-systematisk omtale; oversiktene i utvalget dekker evidensen
+- OK   6 utelatt W2020844317 «THE BRIEF PSYCHIATRIC RATING SCALE» (1962) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2045654094 «IPS in Europe: The EQOLISE trial.» (2008) – dobbeltpublisering av EQOLISE; Lancet-artikkelen W2128678354 brukes
+- OK   6 utelatt W2089756348 «Beyond Evidence-Based Practice: Nine Ideal Features of a Mental Health» (2010) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W2320661127 «Client, Contextual and Program Elements Influencing Supported Employme» (2016) – litteraturgjennomgang om faktorer som påvirker resultater, ikke effekt
+- OK   6 utelatt W2080082125 «Rates and correlates of employment in people with schizophrenia in the» (2007) – prediktorer eller kjennetegn blant deltakere, ikke sammenligning med annen oppfølging
+- OK   6 utelatt W2006874443 «Life and treatment goals of individuals hospitalized for first-episode» (2011) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W2109418336 «Mental Health Disability» (2011) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W4411050252 «Long-term vocational outcomes in low- and high-fidelity supported empl» (2025) – studie av modelltrohet (fidelity), ikke effekt mot sammenligningsgruppe
+- OK   6 utelatt W4251298121 «Sozial- und Gemeindepsychiatrie, psychiatrisch-psychotherapeutische Re» (2019) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2098709408 «Unemployment impairs mental health: Meta-analyses» (2009) – sammenheng mellom arbeid eller ledighet og helse, ikke effekt av IPS
+- OK   6 utelatt W2141895509 «Application and Results of the Manchester Short Assessment of Quality » (1999) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2150401511 «The 2009 Schizophrenia PORT Psychosocial Treatment Recommendations and» (2009) – lærebok, historikk, kommentar eller ikke-systematisk omtale; oversiktene i utvalget dekker evidensen
+- OK   6 utelatt W1270515817 «An update on supported employment for people with severe mental illnes» (1997) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2024643973 «Work and Nonvocational Domains of Functioning in Persons with Severe M» (1997) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W1975671523 «Accelerating entry into supported employment for persons with severe p» (1995) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W4292738101 «Efficacy and acceptability of psychosocial interventions in schizophre» (2022) – lærebok, historikk, kommentar eller ikke-systematisk omtale; oversiktene i utvalget dekker evidensen
+- OK   6 utelatt W2560619196 «Evidence-Based Interventions for Increasing Work Participation for Per» (2016) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2549350917 «Predicting Employment in the Mental Health Treatment Study: Do Client » (2016) – prediktorer eller kjennetegn blant deltakere, ikke sammenligning med annen oppfølging
+- OK   6 utelatt W2223746867 «Mental Health Problems and Mental Disorders: Linked Determinants to Wo» (2013) – prediktorer eller kjennetegn blant deltakere, ikke sammenligning med annen oppfølging
+- OK   6 utelatt W1834665808 «Was bringt psychisch Kranke nachhaltig in Arbeit?» (2012) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2164708692 «Berufliche Rehabilitation bei schweren psychischen Erkrankungen» (2013) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2811038855 «Los Centros de Rehabilitación Laboral y el Trastorno Mental Grave: la » (2018) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W1606120039 «Evidence‐Based Supported Employment» (2010) – omtale, kommentar eller beskrivende studie av supported employment uten sammenligningsgruppe
+- OK   6 utelatt W4401819637 «Functional Diversity and Access to the World of Work in Young People: » (2024) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2062564428 «Individual placement and support: A community mental health center app» (1994) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2156987315 «Review on vocational predictors: a systematic review of predictors of » (2010) – prediktorer eller kjennetegn blant deltakere, ikke sammenligning med annen oppfølging
+- OK   6 utelatt W2096892183 «Work and employment for people with psychiatric disabilities» (2003) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2132806179 «International Encyclopedia of Rehabilitation» (2010) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W196970574 «A Capitated Model for a Cross-Section of Severely Mentally Ill Clients» (1997) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W4406908814 «Recovery support services as part of the continuum of care for alcohol» (2025) – legemiddelstudie, ikke arbeidsrettet tiltak
+- OK   6 utelatt W3011153384 «Supported Employment in Vocational Rehabilitation» (1994) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2023797475 «The pioneer: The employment intervention demonstration program» (2002) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2147656358 «Social Costs of Expanding Access to Evidence-Based Supported Employmen» (2013) – tolkende gjennomgang av samfunnskostnader; systematiske økonomioversikter er i utvalget
+- OK   6 utelatt W3179123668 «Vocational Service Models and Approaches to Improve Job Tenure of Peop» (2021) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W2958573156 «Occupational Therapy Interventions for Adults Living With Serious Ment» (2019) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W2137295260 «Employment program for patients with severe mental illness in Malaysia» (2013) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W184329767 «Challenges Related to Mental Health in the Workplace» (2012) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W2582094790 «Towards Employment: What Research Says About Support-to-Work in Relati» (2017) – annen gruppe enn psykiske lidelser og rus (utenfor mandatet)
+- OK   6 utelatt W4367394615 «Cost-effectiveness of occupational therapy return-to-work intervention» (2023) – sykmeldte i arbeid og tilbakeføring, beslektet felt utenfor mandatet
+- OK   6 utelatt W3119946126 «IPS in Supported Housing: Fidelity and Employment Outcomes Over a 4 Ye» (2021) – studie av modelltrohet (fidelity), ikke effekt mot sammenligningsgruppe
+- OK   6 utelatt W4323920987 «Employment support for Black people with long-term health conditions: » (2023) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W7202374159 «Fidelity evaluations in the implementation of evidence-based social wo» (2026) – studie av modelltrohet (fidelity), ikke effekt mot sammenligningsgruppe
+- OK   6 utelatt W4405044394 «A systematic review of the effectiveness of interventions to promote e» (2024) – sammenheng mellom arbeid eller ledighet og helse, ikke effekt av IPS
+- OK   6 utelatt W2166281097 «The Hospital Anxiety and Depression Scale» (1983) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2003307443 «Psychological and Physical Well-Being During Unemployment: A Meta-Anal» (2005) – sammenheng mellom arbeid eller ledighet og helse, ikke effekt av IPS
+- OK   6 utelatt W4210366045 «Sick on the Job?» (2011) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2334125810 «Principles of the Individual Placement and Support model: Empirical su» (1998) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2139727863 «Employment Barriers for Persons With Psychiatric Disabilities: Update » (2006) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W193417944 «The work project survey: Consumer perspectives on work» (2003) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W2170908208 «Outcomes of public concern in schizophrenia» (2007) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W2110122058 «Does the scientific evidence support the recovery model?» (2010) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W1539988587 «The individual placement and support model of supported employment» (1996) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2013108095 «Finding and sustaining employment: A qualitative meta-synthesis of men» (2010) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W4237029103 «Supported employment, job preferences, job tenure and satisfaction» (2001) – omtale, kommentar eller beskrivende studie av supported employment uten sammenligningsgruppe
+- OK   6 utelatt W2129770359 «The cost-effectiveness of supported employment for adults with autism » (2013) – annen gruppe enn psykiske lidelser og rus (utenfor mandatet)
+- OK   6 utelatt W2144047153 «Effectiveness of Psychiatric Rehabilitation Approaches for Employment » (1999) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W1578171413 «Can computer-assisted cognitive remediation improve employment and pro» (2015) – tillegg til IPS (kognitiv trening, ferdighetstrening o.l.) eller kognisjon, ikke IPS mot vanlig oppfølging
+- OK   6 utelatt W2157814468 «System-level intersectoral linkages between the mental health and non-» (2014) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W2546719097 «Barriers to Employment for Transition-age Youth with Developmental and» (2016) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W2058518818 «S3 guideline on psychosocial therapies in severe mental illness: evide» (2014) – lærebok, historikk, kommentar eller ikke-systematisk omtale; oversiktene i utvalget dekker evidensen
+- OK   6 utelatt W2786181045 «Employment Rates in Flexible Assertive Community Treatment Teams in Th» (2018) – sammenheng mellom arbeid eller ledighet og helse, ikke effekt av IPS
+- OK   6 utelatt W2083416035 «Social firms as a means of vocational recovery for people with mental » (2013) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2169903234 «Effects of integrated supported employment plus cognitive remediation » (2015) – tillegg til IPS (kognitiv trening, ferdighetstrening o.l.) eller kognisjon, ikke IPS mot vanlig oppfølging
+- OK   6 utelatt W2013515005 «The Mental Health Treatment Study.» (2008) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W4221089582 «Implementation structures at work. Exploring implementation and de‐imp» (2022) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W2011424323 «Une intervention cognitive comportementale de groupe pour les personne» (2014) – tillegg til IPS (kognitiv trening, ferdighetstrening o.l.) eller kognisjon, ikke IPS mot vanlig oppfølging
+- OK   6 utelatt W2986133084 «Psychological Wellbeing and Work: Improving Service Provision and Outc» (2014) – annen gruppe enn psykiske lidelser og rus (utenfor mandatet)
+- OK   6 utelatt W2020291934 «VR closure rates for two vocational models.» (2008) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2946921871 «Supported Employment im Routinebetrieb: Evaluation des Berner Job Coac» (2019) – evaluering av et sveitsisk program i rutinedrift uten kontrollgruppe
+- OK   6 utelatt W4250774805 «Factors of Competitive Employment for People with Severe Mental Illnes» (2020) – prediktorer eller kjennetegn blant deltakere, ikke sammenligning med annen oppfølging
+- OK   6 utelatt W4402824632 «Comparative Analysis of Independent Reviewer-Rated and Self-Rated Fide» (2024) – studie av modelltrohet (fidelity), ikke effekt mot sammenligningsgruppe
+- OK   6 utelatt W7151576833 «Social Support and Employee Mental Health: A Meta-Synthesis and Theore» (2026) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W4300870773 «Statistical Power Analysis for the Behavioral Sciences» (1989) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W4294215472 «Preferred Reporting Items for Systematic Reviews and Meta-Analyses: Th» (2009) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W2125435699 «Measuring inconsistency in meta-analyses» (2003) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W3171418018 «The Mini-International Neuropsychiatric Interview (M.I.N.I.): the deve» (1998) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W71228264 «Introduction to Meta‐Analysis» (2021) – lærebok, historikk, kommentar eller ikke-systematisk omtale; oversiktene i utvalget dekker evidensen
+- OK   6 utelatt W4390793092 «The social determinants of mental health and disorder: evidence, preve» (2024) – prediktorer eller kjennetegn blant deltakere, ikke sammenligning med annen oppfølging
+- OK   6 utelatt W2346365317 «The mental health benefits of employment: Results of a systematic meta» (2016) – sammenheng mellom arbeid eller ledighet og helse, ikke effekt av IPS
+- OK   6 utelatt W2330479484 «The meaning and importance of employment to people in recovery from se» (2008) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W1572546788 «Handbook of psychiatric rehabilitation» (1992) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2153297237 «Schizophrenia--Time to Commit to Policy Change» (2014) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W2162964004 «Clinical Benefits of Paid Work Activity in Schizophrenia» (1996) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2081967089 «The balanced care model for global mental health» (2012) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W3000704741 «How do recovery-oriented interventions contribute to personal mental h» (2020) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W2018572000 «Mental health and employment: much work still to be done» (2009) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2035433842 «Employment outcomes in people with bipolar disorder: a systematic revi» (2013) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W1672654267 «Employment and the associated impact on quality of life in people diag» (2015) – prediktorer eller kjennetegn blant deltakere, ikke sammenligning med annen oppfølging
+- OK   6 utelatt W2127170011 «Demographic Characteristics and Employment Among People with Severe Me» (2006) – prediktorer eller kjennetegn blant deltakere, ikke sammenligning med annen oppfølging
+- OK   6 utelatt W2076226202 «Measures and Predictors of Community-Based Employment and Earnings of » (2007) – prediktorer eller kjennetegn blant deltakere, ikke sammenligning med annen oppfølging
+- OK   6 utelatt W2102404651 «‘Earning and learning’ in those with psychotic disorders: The second A» (2012) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W2322235687 «The PACT vocational model: A step into the future.» (1991) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W1977106400 «Association Between Demographic and Diagnostic Factors and Employment » (2004) – prediktorer eller kjennetegn blant deltakere, ikke sammenligning med annen oppfølging
+- OK   6 utelatt W4293425942 «Schizophrenia: A Narrative Review of Etiopathogenetic, Diagnostic and » (2022) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W2054203833 «Person-related predictors of employment outcomes after participation i» (2005) – prediktorer eller kjennetegn blant deltakere, ikke sammenligning med annen oppfølging
+- OK   6 utelatt W2008795672 «Benefits and costs of supported employment from three perspectives» (1998) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2987750138 «Employment Status and Personal Income Before and After Onset of a Seve» (2019) – sammenheng mellom arbeid eller ledighet og helse, ikke effekt av IPS
+- OK   6 utelatt W2804873231 «The Place of Social Recovery in Mental Health and Related Services» (2018) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W2123771747 «Evidence of the effectiveness of a specialist vocational intervention » (2009) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W2913874762 «Barriers and facilitators to employment for young adults with mental i» (2018) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W2018002597 «Implementing Evidence-Based Employment Services in New Zealand for You» (2007) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W2065309262 «RCT of a promising vocational/employment program for high-risk juvenil» (2013) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2492735239 «A prospective cohort study of depression course, functional disability» (2016) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W2030271907 «Employment Specialist Competencies as Predictors of Employment Outcome» (2012) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W4396667274 «Effects of work-directed interventions on return-to-work in people on » (2024) – sykmeldte i arbeid og tilbakeføring, beslektet felt utenfor mandatet
+- OK   6 utelatt W1994954003 «Implementation of the thinking skills for work program in a psychosoci» (2010) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W2041756867 «Low mood and employment: When affective disorders are intertwined with» (2010) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W3098275416 «“Navigating Between Unpredictable Icebergs”: A Meta-Ethnographic Study» (2020) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W4386225792 «Implementation and evaluation of recovery-oriented practice interventi» (2023) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W4376598305 «Measures of Social and Occupational Function in Early Psychosis: A Sys» (2023) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W2290789437 «Working with Schizophrenia: Pathways to Employment, Recovery & Inclusi» (2013) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2151637137 «Work Outcomes After Benefits Counseling Among Veterans Applying for Se» (2014) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2409138887 «Policy Implications of the Mental Health Treatment Study» (2016) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W2483121962 «Individual placement and support (IPS) for patients with offending his» (2016) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W4223476753 «Psychosis among the disconnected youth: A systematic review» (2022) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W2235106668 «Maximizing work integration in job placement of individuals facing men» (2015) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W4223888704 «The impact of co‐location employment partnerships within the Australia» (2022) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W4396757693 «Employers’ perceptions of supports provided to their employees with di» (2024) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W2771400135 «Development and Validation of a Japanese Fidelity Scale for Supported » (2017) – studie av modelltrohet (fidelity), ikke effekt mot sammenligningsgruppe
+- OK   6 utelatt W4403614686 «“Without IPS I Think I Would Really Fall Apart”: Individual Placement » (2024) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W4399319808 «“What I thought was the dream job was a little different than I had ex» (2024) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W1965130897 «Employment rates for people with severe mental illness in the UK not i» (2010) – sammenheng mellom arbeid eller ledighet og helse, ikke effekt av IPS
+- OK   6 utelatt W2740290689 «Sozialpsychiatrie als Wirkungsforschung» (2017) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W4408969766 «Effectiveness of Interventions Provided by Rehabilitation Counselors: » (2025) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W187599840 «Psychosocial Rehabilitation and Psychotherapy Approaches» (2014) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W4247665917 «Diagnostic and Statistical Manual of Mental Disorders» (2013) – lærebok, historikk, kommentar eller ikke-systematisk omtale; oversiktene i utvalget dekker evidensen
+- OK   6 utelatt W2156098321 «Preferred reporting items for systematic reviews and meta-analyses: th» (2009) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W2155648052 «Society and the Adolescent Self-Image» (1965) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W1598602811 «Cochrane Handbook for Systematic Reviews of Interventions» (2008) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W2172151487 «A 12-Item Short-Form Health Survey» (1996) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2756578555 «AMSTAR 2: a critical appraisal tool for systematic reviews that includ» (2017) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W1512719169 «SAS System for Mixed Models» (1996) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W3022868799 «Diagnostic and Statistical Manual of Mental Disorders (DSM-IV)» (2003) – lærebok, historikk, kommentar eller ikke-systematisk omtale; oversiktene i utvalget dekker evidensen
+- OK   6 utelatt W2119226169 «The Global Assessment Scale» (1976) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2735244379 «On the promotion of human flourishing» (2017) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2117775582 «Uses and abuses of recovery: implementing recovery-oriented practices » (2014) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W201093770 «Is Work Good for Your Health and Well-being?» (2006) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2127381871 «The Schizophrenia Patient Outcomes Research Team (PORT): Updated Treat» (2004) – lærebok, historikk, kommentar eller ikke-systematisk omtale; oversiktene i utvalget dekker evidensen
+- OK   6 utelatt W4401528161 «The Lancet Psychiatry Commission on youth mental health» (2024) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W2065055232 «The effect of unemployment on mental health» (1999) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2133700875 «Some Conceptual and Statistical Issues in Analysis of Longitudinal Psy» (1993) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2118887555 «A randomised multicentre trial of integrated versus standard treatment» (2005) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W615426368 «Mental Health, United States, 2000» (2001) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W2095345438 «Long term sickness absence» (2005) – sykmeldte i arbeid og tilbakeføring, beslektet felt utenfor mandatet
+- OK   6 utelatt W2155846794 «The At Home/Chez Soi trial protocol: a pragmatic, multi-site, randomis» (2011) – protokoll eller beskrivelse av utgangspunkt, ikke resultater
+- OK   6 utelatt W2099954959 «Modelling suicide and unemployment: a longitudinal analysis covering 6» (2015) – sammenheng mellom arbeid eller ledighet og helse, ikke effekt av IPS
+- OK   6 utelatt W2171828568 «Interventions to improve return to work in depressed people» (2014) – sykmeldte i arbeid og tilbakeføring, beslektet felt utenfor mandatet
+- OK   6 utelatt W615973311 «Assertive Community Treatment of Persons With Severe Mental Illness» (1998) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2110140555 «A new patient focused index for measuring quality of life in persons w» (1993) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W4253720434 «Interventions to improve return to work in depressed people» (2020) – sykmeldte i arbeid og tilbakeføring, beslektet felt utenfor mandatet
+- OK   6 utelatt W1511087452 «Outcomes Assessment In Clinical Practice» (1996) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2984705150 «Right care, first time: a highly personalised and measurement‐based ca» (2019) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W1497266635 «Job Terminations Among Persons with Severe Mental Illness Participatin» (1998) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W1990257140 «Association of Returning to Work With Better Health in Working-Aged Ad» (2012) – prediktorer eller kjennetegn blant deltakere, ikke sammenligning med annen oppfølging
+- OK   6 utelatt W2104238451 «Implementing Coordinated Specialty Care for Early Psychosis: The RAISE» (2015) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W1981084319 «Neurocognitive enhancement therapy with vocational services: Work outc» (2008) – tillegg til IPS (kognitiv trening, ferdighetstrening o.l.) eller kognisjon, ikke IPS mot vanlig oppfølging
+- OK   6 utelatt W2107921336 «Functional impairment in people with schizophrenia: Focus on employabi» (2012) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2989183976 «Assessing the Fidelity of Evidence-Based Practices: History and Curren» (2019) – studie av modelltrohet (fidelity), ikke effekt mot sammenligningsgruppe
+- OK   6 utelatt W2121758476 «Cognitive behaviour therapy for improving social recovery in psychosis» (2009) – tillegg til IPS (kognitiv trening, ferdighetstrening o.l.) eller kognisjon, ikke IPS mot vanlig oppfølging
+- OK   6 utelatt W2970943651 «The association between early-onset schizophrenia with employment, inc» (2019) – prediktorer eller kjennetegn blant deltakere, ikke sammenligning med annen oppfølging
+- OK   6 utelatt W2072758344 «Vocational services offered to people with severe mental illness» (2008) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W4382777400 «Recent Advances on Social Determinants of Mental Health: Looking Fast » (2023) – prediktorer eller kjennetegn blant deltakere, ikke sammenligning med annen oppfølging
+- OK   6 utelatt W2116431283 «Essential Evidence-Based Components of First-Episode Psychosis Service» (2013) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W1486305387 «Better Mental Health Care» (2008) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W2112170705 «From research to practice: how OPUS treatment was accepted and impleme» (2013) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W1969197425 «Outcomes assessment in clinical practice» (1997) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W1966005431 «If work makes people with mental illness sick, what do unemployment, p» (1999) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2051155949 «Practices differentiating high-performing from low-performing supporte» (2003) – omtale, kommentar eller beskrivende studie av supported employment uten sammenligningsgruppe
+- OK   6 utelatt W2004292170 «Addiction treatment-related employment barriers: The impact of methado» (2012) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W2060770138 «Accelerating entry into transitional employment in a psychosocial reha» (1986) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2146505232 «Impact of Work Therapy on Health Status Among Homeless, Substance-Depe» (2002) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2062124891 «Place First, Then Train: An Alternative to the Medical Model of Psychi» (2005) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2162141094 «Work-Related Social Skills Training for People With Schizophrenia in H» (2001) – tillegg til IPS (kognitiv trening, ferdighetstrening o.l.) eller kognisjon, ikke IPS mot vanlig oppfølging
+- OK   6 utelatt W4248151896 «Mental Health and Work: Norway» (2012) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2050034286 «Adolescents and young adults who are not in employment, education, or » (2013) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2101652326 «Work, employment and psychiatric disability» (2003) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2416267258 «Client outcomes in two model capitated integrated service agencies» (1996) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W1864641362 «Effectively Working on Rehabilitation Goals: 24-Month Outcome of a Ran» (2011) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W4393156357 «Interventions targeting social determinants of mental disorders and th» (2024) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W2145575719 «What is needed to deliver collaborative care to address comorbidity mo» (2012) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W2954533144 «An Integrative Review of the Barriers to Job Acquisition for People Wi» (2019) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W2014367541 «The relative contribution of neurocognition and social cognition to 6-» (2013) – tillegg til IPS (kognitiv trening, ferdighetstrening o.l.) eller kognisjon, ikke IPS mot vanlig oppfølging
+- OK   6 utelatt W2171293058 «Psychiatric Rehabilitation as a Deterrent to Recidivism» (1982) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2766804095 «Social Recovery Therapy in improving activity and social outcomes in e» (2017) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W2024416094 «Developing a Cognitive Training Strategy for First-Episode Schizophren» (2014) – tillegg til IPS (kognitiv trening, ferdighetstrening o.l.) eller kognisjon, ikke IPS mot vanlig oppfølging
+- OK   6 utelatt W2133891781 «Effects of Cognitive Enhancement Therapy on Employment Outcomes in Ear» (2010) – tillegg til IPS (kognitiv trening, ferdighetstrening o.l.) eller kognisjon, ikke IPS mot vanlig oppfølging
+- OK   6 utelatt W2406240043 «Client outcomes in a three-year controlled study of an integrated serv» (1996) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2171504723 «Public policy and employment of people with disabilities: exploring ne» (2002) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2411956668 «The economic life of seriously mentally ill people in the community» (1996) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2023512642 «Vocational, Social, and Cognitive Rehabilitation for Individuals Diagn» (2010) – tillegg til IPS (kognitiv trening, ferdighetstrening o.l.) eller kognisjon, ikke IPS mot vanlig oppfølging
+- OK   6 utelatt W2057848076 «An Ethnographic Study of Job Seeking Among People with Severe Mental I» (2006) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W2261020158 «Interventions to enhance work participation of workers with a chronic » (2015) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W2024019464 «Return to work after sick leave due to depression; A conceptual analys» (2011) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W2073783304 «Can targeted early intervention improve functional recovery in psychos» (2009) – annen gruppe enn psykiske lidelser og rus (utenfor mandatet)
+- OK   6 utelatt W2339902107 «Employment and Income of People Who Experience Mental Illness and Home» (2015) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W2803819210 «Critical factors for the return-to-work process among people with affe» (2018) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W2074551592 «Severe mental illness and work: What can we do to maximise the employm» (2013) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W635534017 «Work and mental illness» (1988) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2590098226 «Predictors of functional status at service entry and discharge among y» (2017) – prediktorer eller kjennetegn blant deltakere, ikke sammenligning med annen oppfølging
+- OK   6 utelatt W3003429931 «Operational Definition of Serious Mental Illness: Heterogeneity in a R» (2020) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W4283723890 «Effectiveness of interventions for improving livelihood outcomes for p» (2022) – sammenheng mellom arbeid eller ledighet og helse, ikke effekt av IPS
+- OK   6 utelatt W2059495494 «The working alliance and employment outcomes for people with severe me» (2009) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2413482860 «Hospitalization Risk Before and After Employment Among Adults With Sch» (2016) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2119364560 «Readiness for Employment: Perceptions of Mental Health Service Users» (2013) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W2101754617 «Le soutien à l’emploi (ou les pratiques de « job coaching ») : une nou» (2013) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2621433844 «Randomized Controlled Trial of Adding Telephone Follow-Up to an Occupa» (2017) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W7124322266 «Social inclusion of people with severe mental illness: a review of cur» (2026) – lærebok, historikk, kommentar eller ikke-systematisk omtale; oversiktene i utvalget dekker evidensen
+- OK   6 utelatt W2018973055 «Psychiatric disorders and labour force activity» (2015) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W2333346131 «The effectiveness of a multidisciplinary case management intervention » (1997) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2172079470 «SESAMI study of employment support for people with severe mental healt» (2008) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W3209113836 «Australia’s Disability Employment Services Program: Participant Perspe» (2021) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W1966168024 «Factors Associated with Early Attrition from Psychosocial Rehabilitati» (2008) – prediktorer eller kjennetegn blant deltakere, ikke sammenligning med annen oppfølging
+- OK   6 utelatt W143201091 «Salient components in supported employment programs: Perspectives from» (2011) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W2064329882 «Putative Evidence of Employment Readiness.» (2007) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2181126835 «Sick-listed persons’ experiences with taking part in an in-patient occ» (2015) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W2591984700 «Job Preferences and Expectations of Disabled People and Small and Medi» (2017) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W3195909121 «Workplace Inclusion Competence and Employer Engagement» (2021) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W2140435730 «Improving vocational outcomes of service users in an E arly I ntervent» (2013) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W4400071323 «Interventions targeting young people not in employment, education or t» (2024) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2126294657 «“I'm Not Sure That I Can Figure Out How to Do That”: Pursuit of Work A» (2013) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2061427233 «Separation from supported employment: a retrospective chart review stu» (2014) – omtale, kommentar eller beskrivende studie av supported employment uten sammenligningsgruppe
+- OK   6 utelatt W1946758369 «The clinical profile of employees with mental health problems working » (2015) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2091634128 «When Programs Benefit Some People More than Others: Tests of Different» (2008) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2102498686 «Does type of provider organization affect fidelity to evidence-based s» (2007) – studie av modelltrohet (fidelity), ikke effekt mot sammenligningsgruppe
+- OK   6 utelatt W2791545151 «Policy Guidelines for Effective Inclusion and Reintegration of People » (2018) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W3033602287 «Working Conditions in Social Firms and Health Promotion Interventions » (2020) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2346759957 «Understanding the Employment Barriers and Support Needs of People Livi» (2016) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W2412191716 «Reasons for job separations in a cohort of workers with psychiatric di» (2015) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W1533377679 «Partnerships for Meaningful Community Living: Rehabilitation and Recov» (2015) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W2588045091 «Vocational Counselors in France: Comparison to Competencies of Employm» (2017) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W2163033845 «The meaning of work in people with severe mental illness (SMI) in Iran» (2015) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W4229439392 «Promoting labour market inclusion of the chronically ill: a scoping re» (2022) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2811166806 «Impacts de la combinaison de programmes de soutien à l’emploi et de re» (2018) – tillegg til IPS (kognitiv trening, ferdighetstrening o.l.) eller kognisjon, ikke IPS mot vanlig oppfølging
+- OK   6 utelatt W2911999495 «Mental health literacy among vocational rehabilitation professionals a» (2019) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W4245626721 «Employment and Education Interventions Targeting Transition-Age Youth » (2019) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2530111125 «Psychotherapeutic and work-oriented interventions: employment outcomes» (2016) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2769733816 «Helpful support to promote participation in school and work: Subjectiv» (2017) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W2801727517 «Job Endings and Work Trajectories of Persons Receiving Supported Emplo» (2018) – tillegg til IPS (kognitiv trening, ferdighetstrening o.l.) eller kognisjon, ikke IPS mot vanlig oppfølging
+- OK   6 utelatt W2325505298 «Impact of social challenges on gaining employment for veterans with po» (2014) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W4403964350 «Barriers and facilitators of collaboration during the implementation o» (2024) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W3004501384 «Cultural Considerations for Schizophrenia Spectrum Disorders II: Asses» (2020) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W3022975616 «Nav-veilederes dilemmaer i oppfølgingen av personer med psykiske helse» (2020) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W161418907 «Vocational Capacity among Individuals with Mental Health Disabilities» (2010) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W4412640196 «Modeled estimates of the health outcomes and economic value of improvi» (2025) – prediktorer eller kjennetegn blant deltakere, ikke sammenligning med annen oppfølging
+- OK   6 utelatt W4399211300 «Sustainable employability in supported employment and Individual Place» (2024) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W16090575 «Employment Barriers and Support Needs of People Living With Psychosis» (2014) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W2066865960 «Adapting Evidence-Based Interventions to Fit Usual Practice: Staff Rol» (2010) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2079325813 «Consumer Perspectives of Participation in Vocational Programs by Indiv» (2014) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W4235816152 «Financial Challenges and Mental Health» (2020) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W1916329968 «Interventions Targeting Social and Vocational Dysfunction in Individua» (2011) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W1626197700 «Recommendations for a “Recovery” orientated apprenticeships scheme in » (2015) – lærebok, historikk, kommentar eller ikke-systematisk omtale; oversiktene i utvalget dekker evidensen
+- OK   6 utelatt W7160878317 «From Patienthood to Active Collaboration: Advancing Lived Experience E» (2026) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W7161163641 «Strengthening the IPS Workforce: Designing a Competency-Based IPS Work» (2026) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W7204208228 «Effectiveness of Interventions to Improve Socioeconomic Participation,» (2026) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2582743722 «R: A Language and Environment for Statistical Computing» (2000) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2945792041 «Yaşlı Kadınlarda Üreme Sağlığı» (2019) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W3118615836 «The PRISMA 2020 statement: an updated guideline for reporting systemat» (2021) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W2107031757 «Statistical power analysis for the behavioral sciences» (1990) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2157823046 «Bias in meta-analysis detected by a simple, graphical test» (1997) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2991792334 «Preferred reporting items for systematic reviews and meta-analyses: th» (2009) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W2126930838 «Quantifying heterogeneity in a meta‐analysis» (2002) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2473786944 «EuroQol - a new facility for the measurement of health-related quality» (1990) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2567362164 «Cochrane Handbook for Systematic Reviews of Interventions» (2019) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W4297918764 «Introduction to Meta‐Analysis» (2009) – lærebok, historikk, kommentar eller ikke-systematisk omtale; oversiktene i utvalget dekker evidensen
+- OK   6 utelatt W1595046345 «Methods for the Economic Evaluation of Health Care Programmes» (2005) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2097950056 «Disability-adjusted life years (DALYs) for 291 diseases and injuries i» (2012) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W3090293687 «ECDEU Assessment Manual for Psychopharmacology» (1976) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2114488753 «The feasibility of creating a checklist for the assessment of the meth» (1998) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2011932878 «Empirical Evidence of Bias» (1995) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W1984615306 «Global burden of disease attributable to mental and substance use diso» (2013) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W2093982682 «The development of a Clinician-Administered PTSD Scale» (1995) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W4239444196 «Emerging Adulthood» (2006) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2144269887 «The size and burden of mental disorders and other disorders of the bra» (2011) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W2160187477 «The global prevalence of common mental disorders: a systematic review » (2014) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W4242925998 «Scale for the Assessment of Negative Symptoms (SANS)*» (1989) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2084865691 «SCAN» (1990) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2170319894 «Global burden of disease in young people aged 10–24 years: a systemati» (2011) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2029057559 «The validity of the Mini International Neuropsychiatric Interview (MIN» (1997) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2131786905 «Cost of disorders of the brain in Europe 2010» (2011) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2128911553 «Consolidated Health Economic Evaluation Reporting Standards (CHEERS) s» (2013) – lærebok, historikk, kommentar eller ikke-systematisk omtale; oversiktene i utvalget dekker evidensen
+- OK   6 utelatt W2139700465 «A Meta-Analysis of Cognitive Remediation for Schizophrenia: Methodolog» (2011) – tillegg til IPS (kognitiv trening, ferdighetstrening o.l.) eller kognisjon, ikke IPS mot vanlig oppfølging
+- OK   6 utelatt W2097401631 «The Danish Psychiatric Central Research Register» (2011) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W4243094222 «The Pattern of Human Concerns» (1967) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W1993810702 «The measurement of disability» (1996) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W4297792812 «Health Services Research» (2000) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2587851012 «EQ-5D and the EuroQol Group: Past, Present and Future» (2017) – lærebok, historikk, kommentar eller ikke-systematisk omtale; oversiktene i utvalget dekker evidensen
+- OK   6 utelatt W2118482901 «Global pattern of experienced and anticipated discrimination against p» (2009) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W3021959460 «What Works? A Meta Analysis of Recent Active Labor Market Program Eval» (2017) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2110147062 «Mental Health Reforms in Europe: Further Evaluation of the Dutch Super» (2013) – annen gruppe enn psykiske lidelser og rus (utenfor mandatet)
+- OK   6 utelatt W2144393454 «A quality of life interview for the chronically mentally ill» (1988) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W3121888420 «Summary Indicators of Product Market Regulation with an Extension to E» (2000) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2040491004 «Design Sensitivity: Statistical Power for Experimental Research.» (1991) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W200959462 «Schizophrenia and employment» (2004) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2066694113 «Danish registers on personal income and transfer payments» (2011) – sammenheng mellom arbeid eller ledighet og helse, ikke effekt av IPS
+- OK   6 utelatt W1966518345 «Poverty and mental disorders: breaking the cycle in low-income and mid» (2011) – sammenheng mellom arbeid eller ledighet og helse, ikke effekt av IPS
+- OK   6 utelatt W590228970 «Comprehensive Meta-Analysis» (2004) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W4290769249 «Reporting guideline for overviews of reviews of healthcare interventio» (2022) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W2336560483 «Royal Australian and New Zealand College of Psychiatrists clinical pra» (2016) – lærebok, historikk, kommentar eller ikke-systematisk omtale; oversiktene i utvalget dekker evidensen
+- OK   6 utelatt W2120836898 «Comprehensive Versus Usual Community Care for First-Episode Psychosis:» (2015) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W2023839473 «Unpublished rating scales: A major source of bias in randomised contro» (2000) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W2059171296 «Size of Treatment Effects and Their Importance to Clinical Research an» (2005) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W4303940215 «The Lancet Commission on ending stigma and discrimination in mental he» (2022) – stigma eller holdninger, ikke effekt av tiltak
+- OK   6 utelatt W2123945981 «Scales to Assess the Quality of Randomized Controlled Trials: A System» (2007) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W1526280840 «Costing psychiatric interventions.» (1992) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W3091645723 «Neurodiversity at work: a biopsychosocial model and the impact on work» (2020) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2149744398 «Symptom Monitoring in the Rehabilitation of Schizophrenic Patients» (1986) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2011628133 «Unemployment and Substance Use: A Review of the Literature (1990-2010)» (2011) – sammenheng mellom arbeid eller ledighet og helse, ikke effekt av IPS
+- OK   6 utelatt W2141445845 «Do Labor Market Policies have Displacement Effects? Evidence from a Cl» (2013) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W1980444631 «Health effects of employment: a systematic review of prospective studi» (2014) – sammenheng mellom arbeid eller ledighet og helse, ikke effekt av IPS
+- OK   6 utelatt W2152070358 «Definition and prevalence of severe and persistent mental illness» (2000) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W2115206348 «Job Performance Deficits Due to Depression» (2006) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2098395209 «The Global Costs of Schizophrenia» (2004) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W2068381308 «What Does Research Tell Us About Depression, Job Performance, and Work» (2008) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2916996048 «The Schizophrenia Patient Outcomes Research Team (PORT): Updated Treat» (2009) – lærebok, historikk, kommentar eller ikke-systematisk omtale; oversiktene i utvalget dekker evidensen
+- OK   6 utelatt W2798177004 «Brief Psychiatric Rating Scale» (1962) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2590965493 «Effectiveness of Workplace Interventions in Return-to-Work for Musculo» (2017) – lærebok, historikk, kommentar eller ikke-systematisk omtale; oversiktene i utvalget dekker evidensen
+- OK   6 utelatt W2123449469 «Five-Year Follow-up of a Randomized Multicenter Trial of Intensive Ear» (2008) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2135304490 «Generalizability studies of the Global Assessment of Functioning–Split» (2006) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2990652192 «Economics and mental health: the current scenario» (2020) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W1972436487 «A scoring system for subjective health complaints (SHC)» (1999) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W1503978586 «Social Return on Investment (SROI) and Performance Measurement» (2012) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2053345014 «Symptoms of Emotional Distress in a Family Planning Service: Stability» (1984) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2131176078 «Work and common psychiatric disorders» (2011) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2011761598 «Is Disability Disabling in All Workplaces? Workplace Disparities and C» (2009) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2157509275 «Neurocognitive Enhancement Therapy With Work Therapy» (2001) – tillegg til IPS (kognitiv trening, ferdighetstrening o.l.) eller kognisjon, ikke IPS mot vanlig oppfølging
+- OK   6 utelatt W1996925379 «Measuring the quality of life of severely mentally ill people using th» (1997) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2126646492 «Factors Associated with Work Participation and Work Functioning in Dep» (2010) – prediktorer eller kjennetegn blant deltakere, ikke sammenligning med annen oppfølging
+- OK   6 utelatt W2100653362 «Fidelity Outcomes in the National Implementing Evidence-Based Practice» (2007) – studie av modelltrohet (fidelity), ikke effekt mot sammenligningsgruppe
+- OK   6 utelatt W2067846071 «Cognitive Enhancement Therapy for Early-Course Schizophrenia: Effects » (2009) – tillegg til IPS (kognitiv trening, ferdighetstrening o.l.) eller kognisjon, ikke IPS mot vanlig oppfølging
+- OK   6 utelatt W2175451760 «Empirical evidence about recovery and mental health» (2015) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W2621235635 «The Fountain House model of psychiatric rehabilitation.» (1982) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2327743645 «The role of work in the recovery of persons with psychiatric disabilit» (2002) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W1591111180 «Unemployment, Underemployment, and Mental Health: Conceptualizing Empl» (2003) – sammenheng mellom arbeid eller ledighet og helse, ikke effekt av IPS
+- OK   6 utelatt W2097705787 «Work-focused treatment of common mental disorders and return to work: » (2012) – sykmeldte i arbeid og tilbakeføring, beslektet felt utenfor mandatet
+- OK   6 utelatt W2097741911 «The Social Construction of Disability in Organizations» (1998) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2159988344 «Problem-Service 'Matching' in Addiction Treatment» (1997) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W1494268548 «Quality of life and self-esteem in working and nonworking persons with» (1996) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2005158468 «Rehabilitative day treatment vs. supported employment: I. Vocational o» (1994) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2086764476 «How Evidence-Based Practices Contribute to Community Integration» (2004) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2101312155 «Predictors of recovery in first episode psychosis: The OPUS cohort at » (2013) – prediktorer eller kjennetegn blant deltakere, ikke sammenligning med annen oppfølging
+- OK   6 utelatt W2122501128 «Common mental disorders and long‐term sickness absence in a general wo» (2012) – sykmeldte i arbeid og tilbakeføring, beslektet felt utenfor mandatet
+- OK   6 utelatt W2091685189 «Social judgment toward job applicants with disabilities: Perception of» (2007) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W2122033059 «Challenging barriers to employment, training and education for mental » (2001) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W2210091846 «Long-term effects of mental disorders on employment in the National Co» (2015) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2011940020 «The RAISE Early Treatment Program for First-Episode Psychosis» (2015) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W2106569037 «Unmet Need for Mental Health Care in Schizophrenia: An Overview of Lit» (2009) – lærebok, historikk, kommentar eller ikke-systematisk omtale; oversiktene i utvalget dekker evidensen
+- OK   6 utelatt W2513411758 «A Systematic Review of Evidence for the Clubhouse Model of Psychosocia» (2016) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2165923374 «Patterns and Prevalence of Arrest in a Statewide Cohort of Mental Heal» (2006) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W1508952756 «Subjective and Objective Indicators of Recovery in Severe Mental Illne» (2009) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W2044663313 «Factor structure of the Brief Psychiatric Rating Scale in schizophreni» (1997) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2032165566 «Psychiatric rehabilitation interventions: A review» (2010) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2092319428 «Cognitive remediation of working memory deficits: durability of traini» (2003) – tillegg til IPS (kognitiv trening, ferdighetstrening o.l.) eller kognisjon, ikke IPS mot vanlig oppfølging
+- OK   6 utelatt W2305861612 «Cost-Effectiveness of Comprehensive, Integrated Care for First Episode» (2016) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W2061422366 «Psychiatric Status and Work Performance of Veterans of Operations Endu» (2011) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W201181749 «[Consensus regarding the definition of persons with severe mental illn» (2013) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W2012792961 «Neurocognitive enhancement therapy with work therapy: Productivity out» (2005) – tillegg til IPS (kognitiv trening, ferdighetstrening o.l.) eller kognisjon, ikke IPS mot vanlig oppfølging
+- OK   6 utelatt W2594200727 «Interventions to mitigate the effects of poverty and inequality on men» (2017) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W30903773 «Facilitators and barriers to employment: The perspectives of people wi» (2004) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W2102869167 «One-year durability of the effects of cognitive enhancement therapy on» (2010) – tillegg til IPS (kognitiv trening, ferdighetstrening o.l.) eller kognisjon, ikke IPS mot vanlig oppfølging
+- OK   6 utelatt W3094700557 «Employment among people with schizophrenia or bipolar disorder: A popu» (2020) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2507841867 «Legal protection of the right to work and employment for persons with » (2016) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2115984873 «Clinical and Functional Outcomes After 2 Years in the Early Detection » (2014) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W1721713130 «A Supported Work Approach to Competitive Employment of Individuals wit» (1985) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W1980197867 «Workplace Effects of the Stigmatization of Depression» (1998) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2767718511 «Effectiveness of Balancing Everyday Life (BEL) versus standard occupat» (2017) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W2113058118 «Hopelessness and its impact on rehabilitation outcome in schizophrenia» (2000) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W1984888218 «An augmented reality (AR)-based vocational task prompting system for p» (2013) – tillegg til IPS (kognitiv trening, ferdighetstrening o.l.) eller kognisjon, ikke IPS mot vanlig oppfølging
+- OK   6 utelatt W2029267869 «Lost Working Years Due to Mental Disorders: An Analysis of the Norwegi» (2012) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2050454131 «Systematic Review of Intervention Practices for Depression in the Work» (2011) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2104917192 «Supported employment for persons with traumatic brain injury: A prelim» (2003) – annen gruppe enn psykiske lidelser og rus (utenfor mandatet)
+- OK   6 utelatt W2060256575 «Do long-term day treatment clients benefit from supported employment?» (1998) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2137321338 «The influence of re-employment on quality of life and self-rated healt» (2013) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W4376638660 «Mental health and unemployment: A systematic review and meta-analysis » (2023) – sammenheng mellom arbeid eller ledighet og helse, ikke effekt av IPS
+- OK   6 utelatt W1852068991 «The Feasibility and Acceptability to Service Users of CIRCuiTS, a Comp» (2015) – tillegg til IPS (kognitiv trening, ferdighetstrening o.l.) eller kognisjon, ikke IPS mot vanlig oppfølging
+- OK   6 utelatt W2156372284 «Mental health diagnosis and occupational functioning in National Guard» (2011) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W2020136635 «Strategies for Maximizing Clinical Effectiveness in the Treatment of S» (2006) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W2004733761 «A Study of the Social Security Work Incentives and Their Relation to P» (2003) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W1712757003 «Vocational Rehabilitation Outcomes for Persons with Psychiatric Disabi» (1991) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W1974968814 «Fidelity of supported employment: Lessons learned from the National Ev» (2008) – studie av modelltrohet (fidelity), ikke effekt mot sammenligningsgruppe
+- OK   6 utelatt W2747591530 «Compensatory cognitive training for people with severe mental illnesse» (2017) – tillegg til IPS (kognitiv trening, ferdighetstrening o.l.) eller kognisjon, ikke IPS mot vanlig oppfølging
+- OK   6 utelatt W2805598149 «Functional recovery in patients with schizophrenia: recommendations fr» (2018) – lærebok, historikk, kommentar eller ikke-systematisk omtale; oversiktene i utvalget dekker evidensen
+- OK   6 utelatt W2106944573 «A Source of False Findings in Published Research Studies» (2015) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2144506895 «Pay as an Incentive in Work Participation by Patients With Severe Ment» (1993) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W1992906672 «Improved cognitive function in schizophrenia after one year of cogniti» (2007) – tillegg til IPS (kognitiv trening, ferdighetstrening o.l.) eller kognisjon, ikke IPS mot vanlig oppfølging
+- OK   6 utelatt W2057596174 «Gainful Employment Reduces Stigma Toward People Recovering from Schizo» (2008) – stigma eller holdninger, ikke effekt av tiltak
+- OK   6 utelatt W2299396629 «Work participation for people with severe mental illnesses: An integra» (2016) – prediktorer eller kjennetegn blant deltakere, ikke sammenligning med annen oppfølging
+- OK   6 utelatt W2070785108 «Neurocognitive enhancement therapy with work therapy in schizophrenia:» (2007) – tillegg til IPS (kognitiv trening, ferdighetstrening o.l.) eller kognisjon, ikke IPS mot vanlig oppfølging
+- OK   6 utelatt W1652046083 «An examination of patient-identified goals for treatment in a first-ep» (2011) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2310805038 «The place and promise of theory in rehabilitation psychology research.» (2008) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W1966845987 «Clinical Benefits of Paid Work Activity in Schizophrenia: 1-year Follo» (1997) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W323016744 «Prediction of Vocational Outcome Based on Clinical and Demographic Ind» (1997) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2994015008 «The long-term financial outcome of children diagnosed with ADHD.» (2019) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2146478746 «Promoting mental health through employment and developing healthy work» (2003) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2581563022 «Operationalizing workplace accommodations for individuals with disabil» (2017) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W206453976 «Countering the stigmatisation and discrimination of people with mental» (2008) – stigma eller holdninger, ikke effekt av tiltak
+- OK   6 utelatt W2086706933 «EPA guidance on the quality of mental health services» (2012) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W2165705377 «Recent advances in understanding schizophrenia» (2014) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W2022702768 «Clinicians’ attitudes to the employment of people with psychosis» (2008) – stigma eller holdninger, ikke effekt av tiltak
+- OK   6 utelatt W2070578705 «Work-related CBT versus vocational services as usual for unemployed pe» (2014) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2102086858 «Employers’ Perspectives on Hiring and Accommodating Workers With Menta» (2014) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W2002830118 «Randomized controlled multicentre trial of cognitive behaviour therapy» (2007) – tillegg til IPS (kognitiv trening, ferdighetstrening o.l.) eller kognisjon, ikke IPS mot vanlig oppfølging
+- OK   6 utelatt W2029295326 «A qualitative investigation of individual and contextual factors assoc» (2010) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W2333307426 «The relationship between substance use disorder and vocational functio» (1998) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2471470659 «Youth mental ill health and secondary school completion in Australia: » (2016) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W3205126720 «Social and occupational outcomes for young people who attend early int» (2021) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W2319742615 «A description and comparison of experiences of people with mental diso» (1998) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2896840500 «Young adults at risk of early work disability: who are they?» (2018) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2094728277 «A Working Life for People With Severe Mental Illness» (2004) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2013814920 «Mental health recovery on care farms and day centres: a qualitative co» (2013) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W2326068426 «Supported employment and managed care: Can they coexist?» (1998) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2771155181 «How effective is the comprehensive approach to rehabilitation (CARe) m» (2017) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W1897799139 «The employer's perspective on Supported employment for people with dis» (2013) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W2000534852 «The 10-year course of remission, abstinence, and recovery in dual diag» (2010) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2062798884 «Evaluating the effectiveness of a psychiatric rehabilitation program.» (1963) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2011654345 «Merging the Fields of Mental Health and Social Enterprise: Lessons fro» (2011) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W2626712005 «What constitutes effective support in obtaining and maintaining employ» (2017) – annen gruppe enn psykiske lidelser og rus (utenfor mandatet)
+- OK   6 utelatt W2158069181 «A Nation-Wide Study on the Percentage of Schizophrenia and Bipolar Dis» (2015) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W2057620301 «Drinking trajectories among HIV-infected men who have sex with men: A » (2015) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2806208006 «Holistic Management of Schizophrenia Symptoms Using Pharmacological an» (2018) – legemiddelstudie, ikke arbeidsrettet tiltak
+- OK   6 utelatt W4381989204 «Recovery-Oriented Practices in Community-based Mental Health Services:» (2023) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W2945385983 «Exploring the Role of Social Support in Promoting Community Integratio» (2019) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2075172105 «Competencies of More and Less Successful Employment Specialists» (2011) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W2116734216 «INTEREST IN AND OBSTACLES TO PURSUING WORK AMONG UNEMPLOYED DUALLY DIA» (2002) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2141785979 «Randomized Controlled Trials in Evidence-Based Mental Health Care: Get» (2003) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W2338098983 «Economic evaluation of mental health interventions: an introduction to» (2016) – lærebok, historikk, kommentar eller ikke-systematisk omtale; oversiktene i utvalget dekker evidensen
+- OK   6 utelatt W2800437799 «Common mental disorders and work» (2018) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W1525597808 «Can a targeted psychological intervention be effective for young peopl» (2012) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2151901117 «Co‐producing social inclusion: the structure/agency conundrum» (2012) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2152009411 «Factors related to the return to work potential in persons with severe» (2014) – prediktorer eller kjennetegn blant deltakere, ikke sammenligning med annen oppfølging
+- OK   6 utelatt W2434908686 «The meaning of work for young adults diagnosed with serious mental hea» (2016) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W2921932781 «Unmet needs of persons with a severe and persistent mental illness and» (2019) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W2149011114 «Effectiveness of adjuvant occupational therapy in employees with depre» (2010) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2776598049 «What influences a sustainable implementation of evidence-based interve» (2017) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W1974251064 «Therapeutic relationships in vocational rehabilitation: Predicting goo» (2010) – prediktorer eller kjennetegn blant deltakere, ikke sammenligning med annen oppfølging
+- OK   6 utelatt W1995635535 «Substance Abuse Recovery After Experiencing Homelessness and Mental Il» (2012) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W2079008908 «Challenges to Implementing and Sustaining Comprehensive Mental Health » (2006) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W2550558696 «Long-term employment among people at ultra-high risk for psychosis» (2016) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2975917913 «Employers’ beliefs, knowledge and strategies used in providing support» (2019) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2053216948 «Patterns in Work Functioning and Vocational Rehabilitation Associated » (2002) – prediktorer eller kjennetegn blant deltakere, ikke sammenligning med annen oppfølging
+- OK   6 utelatt W2240578497 «Factors impacting work success in Veterans with mental health disorder» (2015) – prediktorer eller kjennetegn blant deltakere, ikke sammenligning med annen oppfølging
+- OK   6 utelatt W4324129319 «Effectiveness of interventions to improve employment for people releas» (2023) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2038684817 «“Balancing on Skates on the Icy Surface of Work”: A Metasynthesis of W» (2013) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2093886144 «Perceived Impeding Factors for Return-to-Work after Long-Term Sickness» (2014) – prediktorer eller kjennetegn blant deltakere, ikke sammenligning med annen oppfølging
+- OK   6 utelatt W2961829953 «Employability of Persons With Mental Disability: Understanding Lived E» (2019) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W3177587500 «Vocational Training in Virtual Environments for People With Neurodevel» (2021) – annen gruppe enn psykiske lidelser og rus (utenfor mandatet)
+- OK   6 utelatt W1967723660 «Mental health costs, other public costs, and family burden among menta» (1997) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2165858480 «Towards a working life? Experiences in a rehabilitation process for pe» (2009) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W2592988752 «It can work: Open employment for people with experience of mental illn» (2017) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W3183604642 «The Danish OPUS Early Intervention Services for First-Episode Psychosi» (2021) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W1720129286 «Discriminant function analysis of competitive employment outcomes in a» (1995) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2147541749 «The disability system and programs to promote employment for people wi» (2013) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2217154519 «Persisting Barriers to Employment for Recently Housed Adults with Ment» (2015) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W2007385449 «Competencies of Employment Specialists for Effective Job Development» (2011) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W2550455313 «Identifying profiles of service users in housing services and explorin» (2016) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2909877374 «Expectations management; employer perspectives on opportunities for im» (2019) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W1978894045 «Student Engineers as Agents of Change: Combining Social Inclusion in t» (2010) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2330962264 «A response to the criticisms of transitional employment.» (1992) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W4238376741 «Mental Health and Work: United Kingdom» (2013) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W1983444853 «Rehabilitation of chronic psychotic patients» (1974) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2076449397 «A computer-based interactive game to train persons with cognitive impa» (2014) – tillegg til IPS (kognitiv trening, ferdighetstrening o.l.) eller kognisjon, ikke IPS mot vanlig oppfølging
+- OK   6 utelatt W1848350649 «Barriers to Employment Among Social Security Disability Insurance Bene» (2015) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W2767003868 «Enabling the return-to-work process among people with affective disord» (2017) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W3012729386 «Arbeitsbezogene Teilhabebeeinträchtigungen und Unterstützungsbedarf vo» (2020) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W2888819564 «Mental and Addictive Disorders and Medical Comorbidities» (2018) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W2938223426 «Feasibility Randomised Trial Comparing Two Forms of Mental Health Supp» (2019) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W3208996128 «Overlap and Mutual Distinctions Between Clinical Recovery and Personal» (2021) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W4283712236 «Effectiveness of personal recovery facilitators in adults with schizop» (2022) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W2046909539 «Remédiation cognitive et insertion professionnelle dans la schizophrén» (2014) – tillegg til IPS (kognitiv trening, ferdighetstrening o.l.) eller kognisjon, ikke IPS mot vanlig oppfølging
+- OK   6 utelatt W2130813797 «An Innovative Job Placement Model for Unemployed Methadone Patients: A» (2007) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W1989670906 «Applying Social and Cultural Capital Frameworks: Understanding Employm» (2012) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W2801524275 «From Community to Meta-Community Mental Health Care» (2018) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W2008977608 «Barriers to Supported Education Implementation: Implications for Admin» (2014) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W3186395201 «Pain, work, and the workplace: a topical review» (2021) – kroniske smerter eller muskel- og skjelettlidelser, utenfor mandatet
+- OK   6 utelatt W2223111456 «Case Management and Assertive Community Treatment» (2012) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W4399422307 «Elements of Return-to-Work Interventions for Workers on Long-Term Sick» (2024) – sykmeldte i arbeid og tilbakeføring, beslektet felt utenfor mandatet
+- OK   6 utelatt W1996103999 «“Work is good for me”: views of mental health service users seeking wo» (2015) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W2085575911 «Appealing Features of Vocational Support Services for Hispanic and non» (2014) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2124581427 «Cognitive and Social Functioning Correlates of Employment Among People» (2015) – prediktorer eller kjennetegn blant deltakere, ikke sammenligning med annen oppfølging
+- OK   6 utelatt W2732365323 «Transdiagnostic group-based occupational rehabilitation for participan» (2017) – kroniske smerter eller muskel- og skjelettlidelser, utenfor mandatet
+- OK   6 utelatt W2152385198 «L'accompagnement vers et dans l'emploi comme voie de rétablissement po» (2014) – prediktorer eller kjennetegn blant deltakere, ikke sammenligning med annen oppfølging
+- OK   6 utelatt W2317962397 «Recovery in Schizophrenia» (2016) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W4386529965 «The temporal dependencies between social, emotional and physical healt» (2023) – prediktorer eller kjennetegn blant deltakere, ikke sammenligning med annen oppfølging
+- OK   6 utelatt W2076539016 «Policy and service development implications of the second Australian N» (2012) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W2087392919 «Vocational services research: Recommendations for next stage of work» (2012) – lærebok, historikk, kommentar eller ikke-systematisk omtale; oversiktene i utvalget dekker evidensen
+- OK   6 utelatt W2470046942 «Developing the WorkingWell mobile app to promote job tenure for indivi» (2016) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W4210603509 «Employer and Co-worker Perspectives on Hiring and Working with People » (2022) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W2041252057 «Case Report of Integrated Supported Employment for a Person With Sever» (2009) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W2116296724 «Supported Employment Specialist Strategies to Assist Clients With Seve» (2009) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W2312640613 «The Role of Work in Recovery» (2009) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W4376271033 «Relationship of social determinants of health with symptom severity am» (2023) – prediktorer eller kjennetegn blant deltakere, ikke sammenligning med annen oppfølging
+- OK   6 utelatt W2790064261 «Sharing the Voice and Experience of our Community Members with Signifi» (2018) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W2780959339 «Barriers to employment for people with severe mental illness and crimi» (2017) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W1150464635 «What makes the difference? Practitioner views of success and failure i» (2008) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W125700801 «A Research Induction Group for Clients Entering aMental Health Researc» (1998) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W1947975521 «Effectiveness of work skills programmes for offenders with mental diso» (2015) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2100386408 «Workplace Discrimination and Americans With Psychiatric Disabilities» (2011) – stigma eller holdninger, ikke effekt av tiltak
+- OK   6 utelatt W2577458191 «An evaluation of an employment pilot to support forensic mental health» (2017) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2951674821 «Disabling working environments and mental health: A commentary» (2019) – lærebok, historikk, kommentar eller ikke-systematisk omtale; oversiktene i utvalget dekker evidensen
+- OK   6 utelatt W4281725385 «Evidence-based activation work and service individualisation: client a» (2022) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W4410033942 «Perceived Unmet Need for Care and Barriers to Care Among Individuals w» (2025) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W96566007 «Best Practices in Accommodating and Retaining Persons with Mental Heal» (2010) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W1964542031 «Utilising Individual Placement and Support to address unemployment and» (2013) – sammenheng mellom arbeid eller ledighet og helse, ikke effekt av IPS
+- OK   6 utelatt W2325331721 «Building human capital to increase earning power among people living w» (2011) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W2336895989 «Maintaining my employment: Learning from people living and working wit» (2016) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W4412707851 «Susceptibility of persons with schizophrenia to extreme heat: A critic» (2025) – prediktorer eller kjennetegn blant deltakere, ikke sammenligning med annen oppfølging
+- OK   6 utelatt W1928024175 «Pour des usagers de la psychiatrie acteurs de leur propre vie» (2012) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W2888101603 «Predictors of employment in young adults with psychiatric work disabil» (2018) – prediktorer eller kjennetegn blant deltakere, ikke sammenligning med annen oppfølging
+- OK   6 utelatt W4387976059 «Career Adaptability and Resilience of Mental Health Service Users: The» (2023) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W2309902505 «Les interventions basées sur les résultats probants en réadaptation ps» (2014) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W3033638888 «30 Years After the Americans with Disabilities Act» (2020) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W4294044024 «Innovations in community-based mental health care: an overview of meta» (2022) – lærebok, historikk, kommentar eller ikke-systematisk omtale; oversiktene i utvalget dekker evidensen
+- OK   6 utelatt W4402272567 «Bedingungen für gelingende berufliche Reha-Verläufe von Menschen mit p» (2024) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W1489356974 «Treatment of People with Schizophrenia Who Behave Violently Towards Ot» (2013) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W1883568558 «Employer guides: Improving job retention for people with mental health» (2014) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W2087745963 «Being candidates in a transitional vocational course: experiences of s» (2011) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W2338471027 «Implementation of the enhanced intersectoral links approach to support» (2016) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W2954681848 «What Is the Meaning of Recovery?» (2019) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W4317567525 «Social interventions to support people with disability: A systematic r» (2023) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W4379509075 «Recovering the Vocational Self?: Service User Accounts of Barriers to » (2023) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W86521785 «Consideration of the influence of place on access to employment for pe» (2012) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W1662284843 «Transitions to work for persons with serious mental illness in northea» (2012) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W1987523976 «Case Managers’ Perceptions of Consumer Work Readiness and Association » (2013) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W2032794853 «Illness self-management assessment in psychiatric vocational rehabilit» (2011) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2772499416 «Beyond Support: Exploring Support as Existential Phenomenon in the Con» (2017) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W2940825837 «“What is the efficacy of specialised early intervention in mental heal» (2019) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W3183647102 «Minds@Work: A New Manualized Intervention to Improve Job Tenure in Psy» (2021) – lærebok, historikk, kommentar eller ikke-systematisk omtale; oversiktene i utvalget dekker evidensen
+- OK   6 utelatt W4407555882 «Interventions to Foster Mental Health and Reintegration in Individuals» (2025) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W4408541267 «A systematic review and meta-analysis of employer discrimination towar» (2025) – stigma eller holdninger, ikke effekt av tiltak
+- OK   6 utelatt W4408126536 «The Role of Social Determinants in Racial and Ethnic Mental Health Dis» (2025) – prediktorer eller kjennetegn blant deltakere, ikke sammenligning med annen oppfølging
+- OK   6 utelatt W1826063136 «Berufliche Rehabilitation psychisch Kranker» (2013) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W3099333729 «Psychosoziale Therapien in der Psychiatrie» (2020) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W1549839922 «Cognition and work functioning in schizophrenia» (2013) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W178026662 «Serious Mental Illness, Vocational Rehabilitation, and Employment» (2014) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2805746022 «Stakeholders’ views on vocational rehabilitation programs: a call for » (2018) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W2953932391 «Policy Issues Regarding Employment for People with Serious Mental Illn» (2019) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W4380049208 «Predictors of satisfaction with digital follow‐up in Norwegian Labor a» (2023) – prediktorer eller kjennetegn blant deltakere, ikke sammenligning med annen oppfølging
+- OK   6 utelatt W1977439783 «When Social Workers Meet Special Education Teachers: Action Research t» (2011) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W2006060168 «Physical Wellness and Employment Status Among Adults with Serious Ment» (2008) – sammenheng mellom arbeid eller ledighet og helse, ikke effekt av IPS
+- OK   6 utelatt W2007363095 «Validation of the Work Behavior Inventory» (2014) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2138544019 «Diachronic trends of employment outcome of prevocational training in p» (2010) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2167932279 «The Eects of Vocational Rehabilitation for People with Mental Illness» (2014) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2296662001 «Return to Work in Depression and Anxiety» (2015) – sykmeldte i arbeid og tilbakeføring, beslektet felt utenfor mandatet
+- OK   6 utelatt W2810210558 «Interdisciplinary Rehabilitation to Facilitate Recovery of People Livi» (2018) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W4400019202 «Process Evaluation of Individual Placement and Support and Participato» (2024) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W4407168649 «Prevalence of mental disorders and work ability among unemployed indiv» (2025) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W586321182 «Poor Health as Cause and Consequence of Prolonged Unemployment: Mechan» (2015) – lærebok, historikk, kommentar eller ikke-systematisk omtale; oversiktene i utvalget dekker evidensen
+- OK   6 utelatt W2165512896 «Severe mental illness & employment: cost-benefit analysis and dynamics» (2014) – lærebok, historikk, kommentar eller ikke-systematisk omtale; oversiktene i utvalget dekker evidensen
+- OK   6 utelatt W2327181614 «Supporting service users into employment: a literature review» (2012) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2514078837 «Gender in relation to work motivation, satisfaction and use of day cen» (2016) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2761954548 «Å «stå langt frå arbeid» - Refleksjonar og førestillingar om kven som » (2015) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W4408571340 «Becoming a valued member of society: the meaning of Art-Based vocation» (2025) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W4413363771 «A randomized controlled trial protocol for evaluating the feasibility,» (2025) – protokoll eller beskrivelse av utgangspunkt, ikke resultater
+- OK   6 utelatt W4415554456 «The role of socioeconomic and structural vulnerability risk factors in» (2025) – prediktorer eller kjennetegn blant deltakere, ikke sammenligning med annen oppfølging
+- OK   6 utelatt W7204569138 «Schizophrenia: advances in pathophysiology, management, and precision » (2026) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W2047334272 «Berufliche Rehabilitation: First Place, then Train – Pro» (2014) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2176155350 «Psychiatrische Interventionen für Arbeitslose» (2015) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W3182161199 «PROTOCOL: Effectiveness of interventions for improving livelihood outc» (2021) – protokoll eller beskrivelse av utgangspunkt, ikke resultater
+- OK   6 utelatt W4285183404 «Work and Occupation» (2022) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W4401777824 «Work inclusion of marginalised groups in a troubled city district—How » (2024) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W4415324941 «Promoting Job Quality and Career Advancement Among Persons with Disabi» (2025) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W1575224831 «Work and the Workplace» (2012) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W23282186 «Versorgungsstrukturen in der Psychiatrie» (2011) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W4380611759 «Special Populations: Care of Persons Experiencing Homelessness» (2023) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W4312880229 «Case Management and Assertive Community Treatment» (2022) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W4413141379 «A Scoping Review of Vocational Rehabilitation Programs for People with» (2025) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W4414556239 «Implementing employability interventions for workers with health condi» (2025) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W7125369045 «Medizinische und berufliche Rehabilitation für Menschen mit psychische» (2026) – stigma eller holdninger, ikke effekt av tiltak
+- OK   6 utelatt W7126428236 «From principles to practice: exploring practitioner adaptations of ind» (2026) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W7139110607 «Strengthening Support for Immigrant Workers: Insights from an Active L» (2026) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W840907968 «Reintegrating People Suffering from Depression into the Workplace» (2014) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W4402057516 «Do Non‐Clinical Services Help to Improve Functional Outcomes Among You» (2024) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W7160948532 «Transdiagnostic Factors Influencing Job Tenure in People Living with M» (2026) – prediktorer eller kjennetegn blant deltakere, ikke sammenligning med annen oppfølging
+- OK   6 utelatt W7162334343 «Individual placement and support in the Scandinavian countries: a scop» (2026) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W7215940609 «Identifying the Characteristics of Job Analysis in TVET: A Combined Sy» (2026) – prediktorer eller kjennetegn blant deltakere, ikke sammenligning med annen oppfølging
+- OK   6 utelatt W2133211659 «Relationship of core self-evaluations traits--self-esteem, generalized» (2001) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2124527855 «Assessment of Social Adjustment by Patient Self-Report» (1976) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2028532700 «Costs, effects and C/E‐ratios alongside a clinical trial» (1994) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2175531834 «Job crafting and its relationships with person–job fit and meaningfuln» (2015) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W2107878018 «Cognitive therapy for the prevention of psychosis in people at ultra-h» (2004) – tillegg til IPS (kognitiv trening, ferdighetstrening o.l.) eller kognisjon, ikke IPS mot vanlig oppfølging
+- OK   6 utelatt W340797816 «Generating, Deepening, and Documenting Learning: The Power of Critical» (2009) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2168221411 «Cognitive Enhancement Therapy for Schizophrenia» (2004) – tillegg til IPS (kognitiv trening, ferdighetstrening o.l.) eller kognisjon, ikke IPS mot vanlig oppfølging
+- OK   6 utelatt W2077822166 «Developmental Processes in Schizophrenic Disorders: Longitudinal Studi» (1992) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2028771300 «Recovery from schizophrenia: psychiatry and political economy» (1995) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W637055693 «Return on Investment in Training and Performance Improvement Programs» (2012) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2147055807 «Recovery: A Dimensional Approach» (2010) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2102694811 «Neurocognitive Predictors of Work Outcome in Recent-Onset Schizophreni» (2011) – prediktorer eller kjennetegn blant deltakere, ikke sammenligning med annen oppfølging
+- OK   6 utelatt W2130786698 «What Can Long‐term Follow‐up Teach us About Relapse and Prevention of » (1988) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2286562311 «Impact of Cognitive and Social Cognitive Impairment on Functional Outc» (2016) – tillegg til IPS (kognitiv trening, ferdighetstrening o.l.) eller kognisjon, ikke IPS mot vanlig oppfølging
+- OK   6 utelatt W2608194486 «Age at onset and the outcomes of schizophrenia: A systematic review an» (2017) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W2316235533 «Supported employment for persons who are psychiatrically disabled: An » (1987) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2155262233 «Skills Training Versus Psychosocial Occupational Therapy for Persons W» (1998) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2782993463 «Work as an Inclusive Part of Population Health Inequities Research and» (2018) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2027417902 «Shunned: Discrimination Against People Mental Illness» (2007) – stigma eller holdninger, ikke effekt av tiltak
+- OK   6 utelatt W2786897135 «Antipsychotic drugs for patients with schizophrenia and predominant or» (2018) – legemiddelstudie, ikke arbeidsrettet tiltak
+- OK   6 utelatt W2145703694 «Psychosocial Treatment for Schizophrenia» (1993) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2808783108 «Efficacy of PRIME, a Mobile App Intervention Designed to Improve Motiv» (2018) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W2806621019 «Toward Competitive Employment for Persons with Intellectual and Develo» (2018) – annen gruppe enn psykiske lidelser og rus (utenfor mandatet)
+- OK   6 utelatt W2890749013 «Psychological interventions to reduce positive symptoms in schizophren» (2018) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2143795317 «Road to full recovery: longitudinal relationship between symptomatic r» (2011) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W3139296667 «EPA guidance on treatment of negative symptoms in schizophrenia» (2021) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W2142584582 «Occupational Engagement in Persons With Schizophrenia: Relationships t» (2007) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W2567267188 «Are we failing young people not in employment, education or training (» (2017) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2741676923 «Sensitivity Analysis for Unmeasured Confounding in Meta-Analyses» (2019) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W1523531092 «Research on the Individual Placement and Support Model of Supported Em» (1999) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2100984327 «Symptom rating scales and outcome in schizophrenia» (2007) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W2971373598 «Societal costs of Borderline Personality Disorders: a matched‐controll» (2019) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2416725851 «Job preferences of clients with severe psychiatric disorders participa» (1996) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2402459629 «Relationships between psychiatric symptomatology, work skills, and fut» (1995) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W1585290963 «TEACCH-Supported Employment Program» (1997) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W568769181 «Vocational Rehabilitation and Supported Employment» (1988) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W1491046290 «Mental Health and Emerging Adulthood among Homeless Young People» (2011) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W10562547 «Day treatment versus supported employment for persons with severe ment» (1996) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2046561367 «Integrated care in schizophrenia: a 2‐year randomized controlled study» (2003) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W2136259245 «Risperidone Nonadherence and Return of Positive Symptoms in the Early » (2011) – legemiddelstudie, ikke arbeidsrettet tiltak
+- OK   6 utelatt W2036020168 «Recovering from Illness or Recovering your Life? Implications of Clini» (2002) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2988396977 «The role of the outer setting in implementation: associations between » (2019) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W4220916393 «Socioeconomic Indicators of Treatment Prognosis for Adults With Depres» (2022) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W2116597587 «Unemployment Among Women» (2008) – sammenheng mellom arbeid eller ledighet og helse, ikke effekt av IPS
+- OK   6 utelatt W1967710354 «Who needs antipsychotic medication in the earliest stages of psychosis» (2010) – legemiddelstudie, ikke arbeidsrettet tiltak
+- OK   6 utelatt W1989795613 «Disclosure of Mental Illness in the Workplace: A Literature Review» (2011) – stigma eller holdninger, ikke effekt av tiltak
+- OK   6 utelatt W2097028457 «Effectiveness of vocational rehabilitation intervention on the return » (2009) – annen gruppe enn psykiske lidelser og rus (utenfor mandatet)
+- OK   6 utelatt W2116268680 «A Theory of Social Integration as Quality of Life» (2008) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2166720752 «Do sheltered workshops enhance employment outcomes for adults with aut» (2011) – annen gruppe enn psykiske lidelser og rus (utenfor mandatet)
+- OK   6 utelatt W2112317929 «Supported employment: a decade of rapid growth and impact.» (1998) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2092447083 «The Fountain House movement, an alternative rehabilitation model for p» (2006) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2009468527 «Employment status and mental health among persons with and without a d» (2014) – sammenheng mellom arbeid eller ledighet og helse, ikke effekt av IPS
+- OK   6 utelatt W2084162194 «Relationships Between Symptoms of Schizophrenia and Substance Abuse» (1997) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2134738430 «Recovery post treatment: plans, barriers and motivators» (2013) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W3040524102 «Relationships between psychiatric symptoms, functioning and personal r» (2020) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W2947501683 «The work of return to work. Challenges of returning to work when you h» (2019) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W2336417646 «Beyond Clinical Remission in First Episode Psychosis: Thoughts on Anti» (2016) – lærebok, historikk, kommentar eller ikke-systematisk omtale; oversiktene i utvalget dekker evidensen
+- OK   6 utelatt W2143209743 «Costs of Schizophrenia and Other Psychoses in Urban Australia: Finding» (2003) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W2061860020 «Antipsychotic Medication During the Critical Period Following Remissio» (2013) – legemiddelstudie, ikke arbeidsrettet tiltak
+- OK   6 utelatt W2104980556 «Psychopathology and the Initiation of Disability Payments» (2000) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W1508633986 «Psychosocial functioning in first‐episode psychosis and associations w» (2015) – prediktorer eller kjennetegn blant deltakere, ikke sammenligning med annen oppfølging
+- OK   6 utelatt W2588930864 «A Systematic and Meta-analytic Review of Neural Correlates of Function» (2017) – prediktorer eller kjennetegn blant deltakere, ikke sammenligning med annen oppfølging
+- OK   6 utelatt W2322569828 «Rehabilitative day treatment vs. supported employment: II. Consumer, f» (1995) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2698125517 «A 20-Year multi-followup longitudinal study assessing whether antipsyc» (2017) – legemiddelstudie, ikke arbeidsrettet tiltak
+- OK   6 utelatt W2025961757 «Longitudinal outcomes in supported employment: A survival analysis.» (1992) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2783139449 «Is cognitive impairment associated with antipsychotic dose and anticho» (2018) – prediktorer eller kjennetegn blant deltakere, ikke sammenligning med annen oppfølging
+- OK   6 utelatt W2913728693 «The effect of rehabilitation combined with cognitive remediation on fu» (2019) – tillegg til IPS (kognitiv trening, ferdighetstrening o.l.) eller kognisjon, ikke IPS mot vanlig oppfølging
+- OK   6 utelatt W2973063971 «A comprehensive review of prioritised interventions to improve the hea» (2021) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W2981502969 «Obstacles to returning to work with chronic pain: in-depth interviews » (2019) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W2148334226 «Best Practices: The Johnson & Johnson—Dartmouth Community Mental Healt» (2006) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W2287987347 «Adherence therapy versus routine psychiatric care for people with schi» (2016) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W2157491047 «Closing service system gaps for homeless clients with a dual diagnosis» (2003) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W3037029244 «Psychosocial interventions in schizophrenia: Focus on guidelines» (2020) – lærebok, historikk, kommentar eller ikke-systematisk omtale; oversiktene i utvalget dekker evidensen
+- OK   6 utelatt W1982560607 «Best Practice Models of Effective Vocational Rehabilitation Service De» (2012) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2150204839 «Occupational therapy for people with psychotic conditions in community» (2008) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2052433662 «A cost-effectiveness comparison of supported employment and rehabilita» (1996) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2019791480 «Course and determinants of self‐esteem in people diagnosed with schizo» (2009) – prediktorer eller kjennetegn blant deltakere, ikke sammenligning med annen oppfølging
+- OK   6 utelatt W793550227 «Assessing the Evidence» (2008) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W1530604975 «Supported Employment: What is it?» (2012) – omtale, kommentar eller beskrivende studie av supported employment uten sammenligningsgruppe
+- OK   6 utelatt W1977931278 «A benefit-cost analysis of a supported employment model for persons wi» (1995) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2313983371 «A brief history of the Individual Placement and Support model.» (1998) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W29764166 «Relating functional skills of severely mentally ill clients to subject» (1995) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2110302447 «Antipsychotic drug treatment for elderly people with late-onset schizo» (2012) – legemiddelstudie, ikke arbeidsrettet tiltak
+- OK   6 utelatt W2288316678 «Facilitators and barriers to employment among individuals with psychia» (2006) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W2087290565 «Social relationships at work: Does the employment model make a differe» (2002) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2319244891 «Mental Health Service Users' Perspectives of Work: A Review of the Lit» (2011) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W2085073222 «Barriers to Supported Employment for Persons With Developmental Disabi» (2008) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W4281396505 «A New Agenda for Optimizing Investments in Community Mental Health and» (2022) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W4400503103 «Investigating the impact of poverty on mental illness in the UK Bioban» (2024) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W2118941514 «Implementation of Evidence‐Based Employment Services in Specialty Ment» (2013) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W2931326806 «It shouldn’t be this hard: Systemic, situational, and intrapersonal ba» (2019) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W4385377546 «Postpartum psychosis: A proposed treatment algorithm» (2023) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W2553557590 «Barriers and Facilitators to Sustainment of an Evidence-Based Supporte» (2016) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W2041999100 «Effect of Second-Generation Antipsychotics on Employment and Productiv» (2004) – legemiddelstudie, ikke arbeidsrettet tiltak
+- OK   6 utelatt W2090560793 «Comparison Between the Effects of Atypical and Traditional Antipsychot» (2002) – legemiddelstudie, ikke arbeidsrettet tiltak
+- OK   6 utelatt W2138693715 «The economics of supported employment: What new data tell us» (2012) – omtale, kommentar eller beskrivende studie av supported employment uten sammenligningsgruppe
+- OK   6 utelatt W2328160684 «Employer attitudes about criminal histories.» (2012) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W2511055556 «The role of empowerment and quality of life in depression severity amo» (2016) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W3175847771 «Individualized prediction of three- and six-year outcomes of psychosis» (2021) – prediktorer eller kjennetegn blant deltakere, ikke sammenligning med annen oppfølging
+- OK   6 utelatt W1969017078 «Employment outcomes in Massachusetts Clubhouses.» (2005) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2098306324 «Fidelity to Recovery-Oriented ACT Practices and Consumer Outcomes» (2013) – studie av modelltrohet (fidelity), ikke effekt mot sammenligningsgruppe
+- OK   6 utelatt W2102952404 «A Case Report of the Conversion of Sheltered Employment to Evidence-Ba» (2005) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W4391189014 «Umbrella Review: Atlas of the Meta-Analytical Evidence of Early-Onset » (2024) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W2109289694 «The relevance of the International Classification of Functioning, Disa» (2009) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W2482883747 «The central role of self-agency in clinical recovery from first episod» (2016) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W4402390920 «Education program and experiential learning in Chinese entrepreneurshi» (2024) – tillegg til IPS (kognitiv trening, ferdighetstrening o.l.) eller kognisjon, ikke IPS mot vanlig oppfølging
+- OK   6 utelatt W2015970446 «When Parents With Severe Mental Illness Lose Contact With Their Childr» (2008) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W2943854227 «Criminal history and employment: an interdisciplinary literature synth» (2019) – lærebok, historikk, kommentar eller ikke-systematisk omtale; oversiktene i utvalget dekker evidensen
+- OK   6 utelatt W2084456411 «State Unemployment Rates and Vocational Rehabilitation Outcomes» (2013) – sammenheng mellom arbeid eller ledighet og helse, ikke effekt av IPS
+- OK   6 utelatt W3200478310 «Job Interview and Vocational Outcomes Among Transition-Age Youth Recei» (2021) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W2943370023 «What Do Individuals With Borderline Personality Disorder Want From Tre» (2019) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W4293777715 «Organisational structures and processes for health and well-being: ins» (2022) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W107174769 «Return to work for persons with spinal cord injury: Designing work sup» (2004) – annen gruppe enn psykiske lidelser og rus (utenfor mandatet)
+- OK   6 utelatt W2080127309 «Does supported employment work?» (2010) – omtale, kommentar eller beskrivende studie av supported employment uten sammenligningsgruppe
+- OK   6 utelatt W1609508754 «Supported employment: Disparities in vocational rehabilitation outcome» (2003) – annen gruppe enn psykiske lidelser og rus (utenfor mandatet)
+- OK   6 utelatt W2051500372 «Natural vocational supports for persons with severe mental illness: Th» (1992) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2115319562 «Can Community-Based High School Transition Programs Improve the Cost-E» (2009) – omtale, kommentar eller beskrivende studie av supported employment uten sammenligningsgruppe
+- OK   6 utelatt W4205931611 «Associations between personal recovery and service user-rated versus c» (2022) – prediktorer eller kjennetegn blant deltakere, ikke sammenligning med annen oppfølging
+- OK   6 utelatt W4311301718 «Clinical staging and the differential risks for clinical and functiona» (2022) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W2792766054 «Impact of a personalised active labour market programme for persons wi» (2018) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W3203630467 «The Work Ability of People with Mental Illnesses: A Conceptual Analysi» (2021) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2143987533 «Predictors of Job Accommodations for Individuals With Psychiatric Disa» (2015) – prediktorer eller kjennetegn blant deltakere, ikke sammenligning med annen oppfølging
+- OK   6 utelatt W113720466 «Challenges in Transition from Sheltered Workshop to Competitive Employ» (2009) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W2089774505 «Jobs for people with the most severe psychiatric disorders: Thresholds» (2002) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2107758167 «Post-course outcomes of apprenticeships and traineeships for people wi» (2011) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2158084039 «Work-ability assessment in young adults with disabilities applying for» (2012) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2168053712 «Prevocational services and supported employment wages» (2012) – omtale, kommentar eller beskrivende studie av supported employment uten sammenligningsgruppe
+- OK   6 utelatt W2531939206 «Occupational therapy delivered by specialists versus non-specialists f» (2016) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W4379538211 «Effects of Youth Flexible Assertive Community Treatment: outcomes of a» (2023) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W1749451231 «The utilization of survival analyses to evaluate supported employment » (1995) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W1989954465 «Inpatient Hospitalizations and Emergency Service Visits Among Particip» (2004) – innleggelser blant IPS-deltakere uten kontrollgruppe
+- OK   6 utelatt W2160243104 «Treatment resistance and other complicating factors in the management » (2014) – prediktorer eller kjennetegn blant deltakere, ikke sammenligning med annen oppfølging
+- OK   6 utelatt W3161943462 «Helping People Denied Disability Benefits for a Mental Health Impairme» (2021) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2138747980 «Supported Employment's Cost-Efficiency to Taxpayers: 2002 to 2007» (2009) – omtale, kommentar eller beskrivende studie av supported employment uten sammenligningsgruppe
+- OK   6 utelatt W2598573411 «Persons with brain injury and employment supports: Long-term employmen» (2017) – annen gruppe enn psykiske lidelser og rus (utenfor mandatet)
+- OK   6 utelatt W1683120366 «Was macht Supported Employment so überlegen?» (2013) – omtale, kommentar eller beskrivende studie av supported employment uten sammenligningsgruppe
+- OK   6 utelatt W2805409178 «Perspectives on the State of the Art (and Science) of Selected Life-Sp» (2018) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W30592251 «Supported Employment Research: Expanding Competitive Employment Opport» (1997) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W313165075 «The national costs of supported employment to Vocational Rehabilitatio» (2009) – omtale, kommentar eller beskrivende studie av supported employment uten sammenligningsgruppe
+- OK   6 utelatt W4210700794 «A 1-year prospective study of employment in people with severe mental » (2022) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W4404068075 «The First Psychotic Episode: Clinical, Diagnostic Aspects, and Therape» (2024) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W1999953953 «Consumer Preference and Individualized Job Search» (2007) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2185186408 «Psychological interventions to improve work outcomes for people with p» (2013) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2950233098 «Sensitivity analysis for unmeasured confounding in meta-analyses» (2017) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W4213356480 «Collaboration among vocational rehabilitation and mental health leader» (2022) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2177168604 «Work experiences among attendees of day centres for people with psychi» (2016) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W2576528500 «Impact of integrated supported employment program on people with schiz» (2016) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W2769870690 «Les accompagnants à l’insertion professionnelle en milieu ordinaire po» (2017) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2800878838 «Social Security and Disability Due to Mental Impairment in Adults» (2018) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W4391296587 «Employment Interventions for People With Intellectual and Developmenta» (2024) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W2321556087 «A supported living/supported employment program for reducing the numbe» (1999) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W4406086730 «Borderline Personality Disorder and Loneliness: Broadening the Scope o» (2024) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2102621201 «Employment rehabilitation schemes for people with mental health proble» (2001) – prediktorer eller kjennetegn blant deltakere, ikke sammenligning med annen oppfølging
+- OK   6 utelatt W4392959852 «An Investigation of Employment Hope as a Key Factor Influencing Percep» (2024) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W4411878745 «Exploring barriers to and facilitators of the implementation of commun» (2025) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W1537624410 «Reducing Employers' Stigma by Supported Employment» (2010) – stigma eller holdninger, ikke effekt av tiltak
+- OK   6 utelatt W4292308228 «[Retracted] The Effect of Social Cognitive Interaction Training on Sch» (2022) – tillegg til IPS (kognitiv trening, ferdighetstrening o.l.) eller kognisjon, ikke IPS mot vanlig oppfølging
+- OK   6 utelatt W4409014746 «Interrelationships of Changes in Outcome Domains in Patients With Schi» (2025) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W4412434130 «The psychological consequences of the sedating side effects of antipsy» (2025) – legemiddelstudie, ikke arbeidsrettet tiltak
+- OK   6 utelatt W1923243718 «Keeley's journey: From service user to service provider» (2012) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W4244165352 «» (2003) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W1600181536 «Supported employment in Germany» (2012) – omtale, kommentar eller beskrivende studie av supported employment uten sammenligningsgruppe
+- OK   6 utelatt W2944125973 «Kvalifiseringstiltak for innvandrere og muligheter for Supported Emplo» (2019) – omtale, kommentar eller beskrivende studie av supported employment uten sammenligningsgruppe
+- OK   6 utelatt W4408034551 «Predictors of long-term outcome of patients with schizophrenia in Afri» (2025) – prediktorer eller kjennetegn blant deltakere, ikke sammenligning med annen oppfølging
+- OK   6 utelatt W4416863829 «The impact of mental health lived experience advocacy on youth educati» (2025) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W117673146 «Early interventions for people with psychotic disorders» (2011) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2046420008 «Development and preliminary evaluation of an employment resource for m» (2009) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2335709882 «Moving towards value-based supported employment programs.» (2009) – omtale, kommentar eller beskrivende studie av supported employment uten sammenligningsgruppe
+- OK   6 utelatt W2469304525 «Supported Employment – ein falsches Konzept für Deutschland? – Kontra» (2016) – omtale, kommentar eller beskrivende studie av supported employment uten sammenligningsgruppe
+- OK   6 utelatt W4388041923 «Relationship between self-esteem and employment in people with severe » (2023) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W4401896445 «Well-being of the Workforce» (2024) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W7131653534 «Housing instability and economic insecurity across the continuum of ac» (2026) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W7136981144 «“I Am more than my past”: thematic analysis of the social reintegratio» (2026) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W7160554371 «Employment of persons with disabilities in the open labour market: A s» (2026) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W7162563977 «The Role of Long-Acting Injectable Antipsychotics in the Early Treatme» (2026) – legemiddelstudie, ikke arbeidsrettet tiltak
+- OK   6 utelatt W4408141669 «Recovery as an integrative paradigm in mental health» (2025) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W7161810209 «The Functioning Assessment Scale for Mental Health: Development and va» (2026) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W1837337223 «Work-related needs and experiences of people recovering from mental he» (2013) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W2732779320 «Work and Quality of Life for Individuals with SMI: A Systematic Review» (2017) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W7162774083 «Investigating service users and family members experiences of peer sup» (2026) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W7204850063 «Welchen Zusammenhang gibt es zwischen Bildung und psychischen Störunge» (2026) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W7223702674 «PERSONALIZED STEPPED-CARE PSYCHOLOGICAL REHABILITATION FOR SERVICE MEM» (2026) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2164304450 «Adjuvant occupational therapy improves long-term depression recovery a» (2012) – sykmeldte i arbeid og tilbakeføring, beslektet felt utenfor mandatet
+- OK   6 utelatt W1992355898 «Rate and Predictors of Employment Among Formerly Polysubstance Depende» (2012) – prediktorer eller kjennetegn blant deltakere, ikke sammenligning med annen oppfølging
+- OK   6 utelatt W2138645440 «Collaborative care for sick-listed workers with major depressive disor» (2012) – sykmeldte i arbeid og tilbakeføring, beslektet felt utenfor mandatet
+- OK   6 utelatt W2763652911 «Predicting the Effectiveness of Work-Focused CBT for Common Mental Dis» (2018) – prediktorer eller kjennetegn blant deltakere, ikke sammenligning med annen oppfølging
+- OK   6 utelatt W2042703004 «A therapeutic workplace for the long-term treatment of drug addiction » (2014) – legemiddelstudie, ikke arbeidsrettet tiltak
+- OK   6 utelatt W2793796469 «Employment services and substance abuse treatment» (2018) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2089007692 «A Test of the Occupational Matching Hypothesis for Rehabilitation Clie» (2012) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W4406604979 «Factors of Engagement in Employment or Education Following a First Epi» (2025) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W2005501262 «Preferred Reporting Items for Systematic Reviews and Meta-Analyses: Th» (2009) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W2098923148 «The Cochrane Collaboration's tool for assessing risk of bias in random» (2011) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2468996569 «Preferred Reporting Items for Systematic Reviews and Meta-Analyses: Th» (2009) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W2799778639 «Comparison of Early Intervention Services vs Treatment as Usual for Ea» (2018) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W2114519322 «Specialised care for early psychosis: Symptoms, social functioning and» (2005) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W2104955354 «A reinforcement-based Therapeutic Workplace for the treatment of drug » (2001) – legemiddelstudie, ikke arbeidsrettet tiltak
+- OK   6 utelatt W2091007264 «Adjuvant occupational therapy for work-related major depression works:» (2006) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W4243324889 «A reinforcement-based Therapeutic Workplace for the treatment of drug » (2002) – legemiddelstudie, ikke arbeidsrettet tiltak
+- OK   6 utelatt W2091740894 «Correlates of Subjective Quality of Life in People With Schizophrenia» (2008) – prediktorer eller kjennetegn blant deltakere, ikke sammenligning med annen oppfølging
+- OK   6 utelatt W2160309881 «Predictors and course of vocational status, income, and quality of lif» (2007) – prediktorer eller kjennetegn blant deltakere, ikke sammenligning med annen oppfølging
+- OK   6 utelatt W2138553767 «Barriers to obtaining employment for people with severe mental illness» (2014) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W2053092940 «Engagement in Outpatient Substance Abuse Treatment and Employment Outc» (2013) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2165640415 «Combining Stepped-Care Approaches with Behavioral Reinforcement to Mot» (2004) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2111574893 «A New Work Placement Model for Unemployed Methadone Maintenance Patien» (2004) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2142952087 «Efficacy of the Customized Employment Supports (CES) Model of Vocation» (2004) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2580895602 «Employment effects of active labor market programs for sick-listed wor» (2017) – sykmeldte i arbeid og tilbakeføring, beslektet felt utenfor mandatet
+- OK   6 utelatt W2286228570 «Vocational Rehabilitation of Transition-Age Youth with Disabilities: A» (2016) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W4224026117 «The Effect of Vocational Counseling Interventions for Adults with Subs» (2022) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W2086126475 «Integrating fieldwork into employment counseling for methadone‐treatme» (2005) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W4413338440 «Employment and Long-Acting Injectable Buprenorphine for Opioid Use Dis» (2025) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W2037557484 «A power primer.» (1992) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2139168999 «Conducting Meta-Analyses in R with the metafor Package» (2010) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W4294214983 «Interrater reliability: the kappa statistic» (2012) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W246286872 «The Effect of Riding as an Alternative Treatment for Children with Cer» (2015) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W1845447069 «Depression and Quality of Life in Older Persons: A Review» (2015) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W1999649023 «Book Reviews: Statistical Methods for Meta-Analysis Larry V. Hedges an» (1988) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W1987138256 «The validity of the Hospital Anxiety and Depression Scale» (2002) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W2037789405 «Weighted kappa: Nominal scale agreement provision for scaled disagreem» (1968) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2135400982 «GRADE guidelines: 3. Rating the quality of evidence» (2011) – lærebok, historikk, kommentar eller ikke-systematisk omtale; oversiktene i utvalget dekker evidensen
+- OK   6 utelatt W2071686284 «EuroQol: the current state of play» (1996) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2598936606 «Cochrane Handbook for Systematic Reviews of Interventions Version 5.0.» (2008) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W3164324796 «Age at onset of mental disorders worldwide: large-scale meta-analysis » (2021) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W1526726627 «Social determinants of health: the solid facts» (2003) – prediktorer eller kjennetegn blant deltakere, ikke sammenligning med annen oppfølging
+- OK   6 utelatt W2043191085 «Performance of a Five-Item Mental Health Screening Test» (1991) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2149639459 «The Quality of Life Scale: An Instrument for Rating the Schizophrenic » (1984) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W1919066392 «Social consequences of psychiatric disorders, I: Educational attainmen» (1995) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W51019709 «A consumer-constructed scale to measure empowerment among users of men» (1997) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2022991434 «Losing life and livelihood: A systematic review and meta-analysis of u» (2011) – sammenheng mellom arbeid eller ledighet og helse, ikke effekt av IPS
+- OK   6 utelatt W2181455115 «Workplace interventions for common mental disorders: a systematic meta» (2015) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2120937813 «The wage scar from male youth unemployment» (2005) – sammenheng mellom arbeid eller ledighet og helse, ikke effekt av IPS
+- OK   6 utelatt W2138120070 «Diagnosis of Alcohol Use Disorders in Schizophrenia» (1990) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2124362878 «Systematic review of beliefs, behaviours and influencing factors assoc» (2012) – prediktorer eller kjennetegn blant deltakere, ikke sammenligning med annen oppfølging
+- OK   6 utelatt W2088040467 «Client Socio-Demographic and Service Receipt Inventory – European Vers» (2000) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2068010924 «What Work Means to People with Work Disability: A Scoping Review» (2013) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2149547370 «Communal Housing Settings Enhance Substance Abuse Recovery» (2006) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W4301400721 «Disability, Work and Inclusion» (2022) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2476805942 «Clinical Psychometrics» (2012) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2762642033 «Determinants of Sickness Absence and Return to Work Among Employees wi» (2017) – prediktorer eller kjennetegn blant deltakere, ikke sammenligning med annen oppfølging
+- OK   6 utelatt W2158865041 «A Systematic Review of the Factors which Predict Return to Work for Pe» (2008) – prediktorer eller kjennetegn blant deltakere, ikke sammenligning med annen oppfølging
+- OK   6 utelatt W1989507441 «Development of the Cognitive Therapy Adherence and Competence Scale» (2003) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W2013388571 «The Groningen Social Disabilities Schedule» (1988) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2322917984 «Work, self, and life satisfaction for persons with severe and persiste» (1993) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2062857589 «The employment of people with mental illness» (2005) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2059171522 «The effect of re-employment on perceived health» (2010) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W28682445 «Mental health and work» (2008) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W1863030634 «Interventions to improve occupational health in depressed people» (2008) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W2810119800 «Systematic review and meta-analysis of interventions aimed at enhancin» (2018) – sykmeldte i arbeid og tilbakeføring, beslektet felt utenfor mandatet
+- OK   6 utelatt W2739120921 «Prognostic factors for return to work after depression-related work di» (2017) – prediktorer eller kjennetegn blant deltakere, ikke sammenligning med annen oppfølging
+- OK   6 utelatt W2312318154 «Employment, Recovery, and Schizophrenia: Integrating health and disord» (2004) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W1982078569 «A natural language screening measure for motivation to change» (2008) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W1987547553 «The Critical Period for Early Intervention» (2000) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2004018652 «The Relative Contribution of Cognition and Symptomatic Remission to Fu» (2014) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W2186903134 «A comparison of two levels of family-aided assertive community treatme» (1996) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W3087738982 «Employment precariousness and mental health, understanding a complex r» (2020) – sammenheng mellom arbeid eller ledighet og helse, ikke effekt av IPS
+- OK   6 utelatt W2037172093 «Work Issues for Young People with Psychosis: Barriers to Employment» (2001) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W2159485718 «Quality of Life Benefits of Paid Work Activity in Schizophrenia» (2002) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2803383462 «Results of a Coordinated Specialty Care Program for Early Psychosis an» (2018) – prediktorer eller kjennetegn blant deltakere, ikke sammenligning med annen oppfølging
+- OK   6 utelatt W2079825557 «Personality disorders are important risk factors for disability pensio» (2014) – prediktorer eller kjennetegn blant deltakere, ikke sammenligning med annen oppfølging
+- OK   6 utelatt W2325193432 «Work-related treatment for major depressive disorder and incapacity to» (2014) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2312300150 «Effectiveness, cost effectiveness, acceptability and implementation ba» (2016) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W1701679719 «Adding a vocational focus to mental health rehabilitation» (1996) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2764010075 «The benefits of paid employment among persons with common mental healt» (2017) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2031964389 «Occupational functioning and work impairment in association with perso» (2013) – prediktorer eller kjennetegn blant deltakere, ikke sammenligning med annen oppfølging
+- OK   6 utelatt W2606236030 «The Deployment Trauma Phenotype and Employment Status in Veterans of t» (2017) – sammenheng mellom arbeid eller ledighet og helse, ikke effekt av IPS
+- OK   6 utelatt W1729811089 «Vocational Outcomes Following Psychosocial Rehabilitation» (1991) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2132717698 «An Economic Analysis of Psychosocial Rehabilitation» (1984) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2953261280 «Single transitions and persistence of unemployment are associated with» (2019) – prediktorer eller kjennetegn blant deltakere, ikke sammenligning med annen oppfølging
+- OK   6 utelatt W1908326053 «Does Having a Dysfunctional Personality Hurt Your Career? Axis II Pers» (2010) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W1978072991 «A community-based trial of vocational problem-solving to increase empl» (2001) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2205070915 «Hospital- and community-based interventions enhancing (re)employment f» (2015) – annen gruppe enn psykiske lidelser og rus (utenfor mandatet)
+- OK   6 utelatt W2138108394 «THE EFFECTS OF VOCATIONAL REHABILITATION FOR PEOPLE WITH COGNITIVE IMP» (2015) – tillegg til IPS (kognitiv trening, ferdighetstrening o.l.) eller kognisjon, ikke IPS mot vanlig oppfølging
+- OK   6 utelatt W2953575986 «The Utility of Operant Conditioning to Address Poverty and Drug Addict» (2019) – legemiddelstudie, ikke arbeidsrettet tiltak
+- OK   6 utelatt W4392791666 «Comparing interventions for early psychosis: a systematic review and c» (2024) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2803611658 «Continuous opioid substitution treatment over five years: Heroin use t» (2018) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W3174783180 «Early intervention, treatment and rehabilitation of employees with com» (2021) – protokoll eller beskrivelse av utgangspunkt, ikke resultater
+- OK   6 utelatt W4401324383 «Conceptualization and characterization of “primary” and “secondary” co» (2024) – tillegg til IPS (kognitiv trening, ferdighetstrening o.l.) eller kognisjon, ikke IPS mot vanlig oppfølging
+- OK   6 utelatt W2088386681 «A transdisciplinary approach to research on work and health: What is i» (2007) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W2111134788 «A behavioral intervention to improve work performance in schizophrenia» (2003) – kroniske smerter eller muskel- og skjelettlidelser, utenfor mandatet
+- OK   6 utelatt W3005263645 «Recovery in Supported Accommodations: A Scoping Review and Synthesis o» (2020) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W1983416861 «Learning from Disappointing Outcomes: An Evaluation of Prevocational I» (2004) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2313723078 «Serving the unserved in community rehabilitation programs.» (1989) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2758740511 «Effects of internet-based cognitive behavioural therapy and physical e» (2017) – tillegg til IPS (kognitiv trening, ferdighetstrening o.l.) eller kognisjon, ikke IPS mot vanlig oppfølging
+- OK   6 utelatt W2136186227 «Impact of Housing and Work Supports on Outcomes for Chronically Homele» (2012) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2169218860 «Employment status and occupational care planning for people using ment» (2006) – sammenheng mellom arbeid eller ledighet og helse, ikke effekt av IPS
+- OK   6 utelatt W2802045321 «Employment Support Needs of People with Schizophrenia: A Scoping Study» (2018) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W3004674371 «Towards an ICF Core Set for functioning assessment in severe mental di» (2020) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W2061474254 «Professionals and Managers With Severe Mental Illnesses» (2008) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W2129944506 «The effect of vocational rehabilitation on the employment outcomes of » (2014) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2893699776 «Behavior analysts in the war on poverty: Developing an operant antipov» (2018) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W4226177344 «Integrating vocational rehabilitation and mental healthcare to improve» (2022) – sykmeldte i arbeid og tilbakeføring, beslektet felt utenfor mandatet
+- OK   6 utelatt W4389001549 «Defining work-focused cognitive behavioural therapy (W-CBT) and whethe» (2023) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W2165242928 «Effects of structured vocational services on job-search success in ex-» (2011) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2051175325 «Impact of Multi-Agency Employment Services on Employment Rates» (2004) – sammenheng mellom arbeid eller ledighet og helse, ikke effekt av IPS
+- OK   6 utelatt W4361270217 «Supported education for students with psychiatric disabilities: A syst» (2023) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W4361000593 «Economic, social, and clinic influences on opioid treatment program re» (2023) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W4319983932 «Multidimensional poverty of persons with disabilities in China: An ana» (2023) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2431755660 «Considerations for return to work following traumatic brain injury» (2015) – annen gruppe enn psykiske lidelser og rus (utenfor mandatet)
+- OK   6 utelatt W3175990373 «Moving clients forward: a grounded theory of disability employment spe» (2021) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W1519977747 «An In‐House Prevocational Training Program for Newly Discharged Psychi» (2015) – prediktorer eller kjennetegn blant deltakere, ikke sammenligning med annen oppfølging
+- OK   6 utelatt W2556519984 «Risk factors for failure to enter vocational rehabilitation services a» (2016) – prediktorer eller kjennetegn blant deltakere, ikke sammenligning med annen oppfølging
+- OK   6 utelatt W4405917695 «Effectiveness of Occupational Therapy Mental Health Interventions in a» (2024) – sykmeldte i arbeid og tilbakeføring, beslektet felt utenfor mandatet
+- OK   6 utelatt W4410104943 «Effective interventions to reduce sick leave in workers with mental il» (2025) – sykmeldte i arbeid og tilbakeføring, beslektet felt utenfor mandatet
+- OK   6 utelatt W4415113400 «Navigating stigma: a qualitative study of barriers to opioid treatment» (2025) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W4409343824 «Longitudinal Outcomes of Supported Education Programs for Individuals » (2023) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W4416815853 «Roles of Psychiatry, Dietary, and Oncology Services in Occupational Me» (2025) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W7167905758 «A scoping review on stigma and work life in substance users» (2026) – stigma eller holdninger, ikke effekt av tiltak
+- OK   6 utelatt W7214024863 «Psychosocial Interventions, Recovery, and Mediating Mechanisms in Schi» (2026) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W2137522119 «Personality and Performance at the Beginning of the New Millennium: Wh» (2001) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2589841225 «The relationship between different dimensions of alcohol use and the b» (2017) – lærebok, historikk, kommentar eller ikke-systematisk omtale; oversiktene i utvalget dekker evidensen
+- OK   6 utelatt W2121113553 «Translating Research Into Practice: The Schizophrenia Patient Outcomes» (1998) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W4235011715 «Understanding The New Statistics» (2013) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2171287344 «Functional Impairment in Patients With Schizotypal, Borderline, Avoida» (2002) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2097505547 «Patterns of Current and Lifetime Substance Use in Schizophrenia» (1998) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2897156727 «The acute efficacy of antipsychotics in schizophrenia: a review of rec» (2018) – legemiddelstudie, ikke arbeidsrettet tiltak
+- OK   6 utelatt W2029826615 «Working without commitments: precarious employment and health» (2008) – sammenheng mellom arbeid eller ledighet og helse, ikke effekt av IPS
+- OK   6 utelatt W1972366325 «Prediction of Remission as a Combination of Symptomatic and Functional» (2006) – prediktorer eller kjennetegn blant deltakere, ikke sammenligning med annen oppfølging
+- OK   6 utelatt W1964225580 «Systematic reviews of the effectiveness of day care for people with se» (2001) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W2100958214 «Poverty, inequality and a political economy of mental health» (2015) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W3011778920 «Cross-sectional and longitudinal predictors of quality of life in auti» (2020) – prediktorer eller kjennetegn blant deltakere, ikke sammenligning med annen oppfølging
+- OK   6 utelatt W2168748904 «First-Episode Services for Psychotic Disorders in the U.S. Public Sect» (2015) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2034100745 «Medical-Legal Partnerships: Transforming Primary Care By Addressing Th» (2010) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2203051825 «Bridging the gap between mental and physical health: a multidisciplina» (2007) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W2322120753 «An ethnographic study of coping strategies used by people with severe » (1995) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2317043488 «The durability of supported employment effects.» (1998) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W4200044879 «Impact of flexible work arrangements on employees’ perceived productiv» (2021) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2334485654 «Planning a statewide project to convert day treatment to supported emp» (1998) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W1950340648 «Hope-inspiring therapeutic relationships, professional expectations an» (2015) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W2338487539 «Social accountability at the micro level: One patient at a time.» (2016) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2620921916 «Work participation of individuals with borderline personality disorder» (2017) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W1979372273 «‘If this wasn’t here I probably wouldn’t be’: disabled workers’ views » (2013) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W2993980618 «A Supported Competitive Employment Programme for Individuals with Chro» (2001) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2953327227 «Highlighting the Role of Cognitive and Brain Reserve in the Substance » (2019) – tillegg til IPS (kognitiv trening, ferdighetstrening o.l.) eller kognisjon, ikke IPS mot vanlig oppfølging
+- OK   6 utelatt W2318201059 «The Job Developer's Presence in the Job Interview: Is It Helpful or Ha» (2005) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W4403448646 «Taking what you get or Getting what you Need: A Qualitative Study on E» (2024) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W2983636459 «Social functioning and social cognition in at-risk and first episode p» (2019) – tillegg til IPS (kognitiv trening, ferdighetstrening o.l.) eller kognisjon, ikke IPS mot vanlig oppfølging
+- OK   6 utelatt W2574258551 «Vocational rehabilitation for adults with psychotic disorders in a Sca» (2017) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2957157243 «Work identity development in young adults with mental health problems» (2019) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2970684805 «RoB 2: a revised tool for assessing risk of bias in randomised trials» (2019) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2032541700 «CONSORT 2010 Explanation and Elaboration: updated guidelines for repor» (2010) – lærebok, historikk, kommentar eller ikke-systematisk omtale; oversiktene i utvalget dekker evidensen
+- OK   6 utelatt W2192566192 «Assertive Community Treatment for People with Severe Mental Illness» (2001) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W2121416407 «Quality of life in people with severe mental illness. Reliability and » (2005) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W2166003218 «Employment Status of People With Mental Illness: National Survey Data » (2014) – sammenheng mellom arbeid eller ledighet og helse, ikke effekt av IPS
+- OK   6 utelatt W2565014525 «Consequences of PTSD for the work and family quality of life of female» (2016) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W1992850587 «A cross-cultural study of employers’ concerns about hiring people with» (2007) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W127369742 «Psychiatric rehabilitation today: an overview.» (2006) – lærebok, historikk, kommentar eller ikke-systematisk omtale; oversiktene i utvalget dekker evidensen
+- OK   6 utelatt W1966007145 «Empowerment in people with a mental illness: reliability and validity » (2005) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W2129237051 «Objective social outcomes index (SIX): a method to summarise objective» (2008) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W2080512825 «Feasibility Study of the Social Enterprise Intervention With Homeless » (2007) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2771218756 «Social recovery therapy in combination with early intervention service» (2017) – annen gruppe enn psykiske lidelser og rus (utenfor mandatet)
+- OK   6 utelatt W2143654405 «Mental Health Services for Individuals with High Functioning Autism Sp» (2014) – annen gruppe enn psykiske lidelser og rus (utenfor mandatet)
+- OK   6 utelatt W2160716716 «Enhancing Employment Services for People with Severe Mental Illness: T» (2006) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W35505465 «Beyond Components: Using Fidelity Scales to Measure and Assure Choice » (2002) – studie av modelltrohet (fidelity), ikke effekt mot sammenligningsgruppe
+- OK   6 utelatt W2125105546 «A 10-year study of steady employment and non-vocational outcomes among» (2012) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2885735031 «Biopsychosocial predictors and trajectories of work participation afte» (2018) – prediktorer eller kjennetegn blant deltakere, ikke sammenligning med annen oppfølging
+- OK   6 utelatt W2320511161 «Development of the DPA fidelity scale: Using fidelity to define an exi» (2004) – studie av modelltrohet (fidelity), ikke effekt mot sammenligningsgruppe
+- OK   6 utelatt W1964868068 «Vocational rehabilitation: Facilitating evidence based practice throug» (2013) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W2006845028 «To love and to work: The next major mental health reform goals» (2013) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2771310640 «DESperately Seeking Service: A narrative review informing a disability» (2017) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W2032466338 «The Ohio Supported Employment Coordinating Center of Excellence» (2007) – omtale, kommentar eller beskrivende studie av supported employment uten sammenligningsgruppe
+- OK   6 utelatt W2903396832 «Vocational coaches for justice-involved emerging adults.» (2018) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2151912613 «The employment rights of people with serious mental illness in Ontario» (2010) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2037377025 «The MOS 36-item short-form health survey (SF-36). I. Conceptual framew» (1992) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2131823335 «A New Depression Scale Designed to be Sensitive to Change» (1979) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2153836018 «EQ-SD: a measure of health status from the EuroQol Group» (2001) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2174561539 «The Posttraumatic Stress Disorder Checklist for DSM‐5 (PCL‐5): Develop» (2015) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W3109068248 «Experimental Design: Procedures for the Behavioral Sciences.» (1969) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2102924526 «The Danish National Patient Register» (2011) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2099917845 «The World Health Organization adult ADHD self-report scale (ASRS): a s» (2005) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2127263830 «Conceptual framework for personal recovery in mental health: systemati» (2011) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W2142749836 «The Danish National Prescription Registry» (2011) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2951618657 «Scale for Assessment of Positive Symptoms (SAPS) 1984» (1995) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W4252246983 «Journal of Rehabilitation» (2018) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2331066491 «Recovery: The lived experience of rehabilitation.» (1988) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2340346722 «Scaling-up treatment of depression and anxiety: a global return on inv» (2016) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W1965509311 «A Polydiagnostic Application of Operational Criteria in Studies of Psy» (1991) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W1531151302 «A Handbook for the Study of Mental Health Second Edition» (2009) – lærebok, historikk, kommentar eller ikke-systematisk omtale; oversiktene i utvalget dekker evidensen
+- OK   6 utelatt W2792728788 «Social determinants of mental disorders and the Sustainable Developmen» (2018) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W2168340793 «A Meta-Analysis of Cognitive Remediation in Schizophrenia» (2007) – tillegg til IPS (kognitiv trening, ferdighetstrening o.l.) eller kognisjon, ikke IPS mot vanlig oppfølging
+- OK   6 utelatt W2114546905 «Prevalence and correlates of personality disorder in Great Britain» (2006) – prediktorer eller kjennetegn blant deltakere, ikke sammenligning med annen oppfølging
+- OK   6 utelatt W2155984875 «The Danish National Health Service Register» (2011) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2162488020 «The Prevalence of DSM-IV Personality Disorders in Psychiatric Outpatie» (2005) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W2784967073 «Society and the Adolescent Self-Image.» (1966) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W1226279855 «Foster youth transitions to adulthood: a longitudinal view of youth le» (2001) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2030860263 «Early outcomes for young adults transitioning from out‐of‐home care in» (2006) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2916950229 «The Economic Burden of Schizophrenia in the United States in 2002» (2005) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W1541782411 «Gender and Mental Health» (2012) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W1982564323 «Something old, something new, something borrowed, something blue: a fr» (2002) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W1979719261 «Recovery in Serious Mental Illness: A New Wine or Just a New Bottle?» (2005) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W2090334810 «Educational and employment outcomes of adults formerly placed in foste» (2006) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2008976020 «MIXOR: a computer program for mixed-effects ordinal regression analysi» (1996) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2054139609 «Treatment of personality disorder» (2015) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2333796846 «The Association of Medical Comorbidity in Schizophrenia with Poor Phys» (1999) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W1995224619 «The role of cognition in vocational functioning in schizophrenia» (2000) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W1566475587 «Labeling and Stigma» (2012) – stigma eller holdninger, ikke effekt av tiltak
+- OK   6 utelatt W2515376401 «Employment programmes and interventions targeting adults with autism s» (2016) – annen gruppe enn psykiske lidelser og rus (utenfor mandatet)
+- OK   6 utelatt W1984348431 «Trauma exposure and posttraumatic stress disorder in adults with sever» (2011) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W10818695 «Developmental Assets and Asset-Building Community: Conceptual and Empi» (2003) – annen gruppe enn psykiske lidelser og rus (utenfor mandatet)
+- OK   6 utelatt W1949208063 «Globalisation and mental disorders» (2003) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W1988038060 «Multidisciplinary Rehabilitation for Subacute Low Back Pain: Graded Ac» (2007) – kroniske smerter eller muskel- og skjelettlidelser, utenfor mandatet
+- OK   6 utelatt W3033970593 «Effectiveness of permanent supportive housing and income assistance in» (2020) – sammenheng mellom arbeid eller ledighet og helse, ikke effekt av IPS
+- OK   6 utelatt W1891386599 «The vision of recovery today: what it is and what it means for service» (2007) – annen gruppe enn psykiske lidelser og rus (utenfor mandatet)
+- OK   6 utelatt W2024485332 «Competitive Employment for Youth with Autism Spectrum Disorders: Early» (2013) – annen gruppe enn psykiske lidelser og rus (utenfor mandatet)
+- OK   6 utelatt W2127568007 «Service utilization among homeless and runaway youth in Los Angeles, C» (1999) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2970593898 «Clinical Stage Transitions in Persons Aged 12 to 25 Years Presenting t» (2019) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W2161823991 «Science and Recovery in Schizophrenia» (2008) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W1979326370 «A review of services and interventions for runaway and homeless youth:» (2009) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W1490448060 «Social Inclusion of People with Mental Illness» (2006) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W1573261038 «Effective Interventions for Homeless Youth» (2010) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2124308499 «The impact of bipolar disorder upon work functioning: a qualitative an» (2007) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W2109450253 «The Role of Motivation for Treatment Success» (2011) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2013093802 «Construction and evaluation of a self rating scale for stress‐induced » (2013) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2135784006 «Employment, Attitudes Toward Work, and Quality of Life Among People Wi» (1998) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2015967910 «Intention‐to‐treat in randomized controlled trials: Recommendations fo» (2010) – lærebok, historikk, kommentar eller ikke-systematisk omtale; oversiktene i utvalget dekker evidensen
+- OK   6 utelatt W4248073540 «Service utilization among homeless and runaway youth in Los Angeles, C» (1999) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2125139181 «Predictors of employment in bipolar disorder: A systematic review» (2012) – prediktorer eller kjennetegn blant deltakere, ikke sammenligning med annen oppfølging
+- OK   6 utelatt W2154822382 «Lessons learned in developing community mental health care in Europe» (2011) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W1976506769 «Profiles of Occupational Engagement in People with Schizophrenia (POES» (2006) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W1976568348 «A review of RCTs in four medical journals to assess the use of imputat» (2008) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2085002778 «Functional outcomes in schizophrenia: a comparison of olanzapine and h» (2000) – legemiddelstudie, ikke arbeidsrettet tiltak
+- OK   6 utelatt W1933939251 «Quality of life in schizophrenia: development, reliability and interna» (2000) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W3028474629 «Interventions for youth homelessness: A systematic review of effective» (2020) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2063627559 «Implementing a Social Enterprise Intervention with Homeless, Street-Li» (2007) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W2224602169 «Developing a mentally healthy workplace: a review of the literature» (2014) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W1986983994 «Employment experiences of homeless young adults: Are they different fo» (2005) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W2827023739 «Contrasting Supply-side, Demand-side and Combined Approaches to Labour» (2018) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2152719958 «The relationship between positive symptoms and instrumental work funct» (2002) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2121271519 «A Participatory Return-to-Work Intervention for Temporary Agency Worke» (2011) – kroniske smerter eller muskel- og skjelettlidelser, utenfor mandatet
+- OK   6 utelatt W1729068043 «Mental Illness and the Criminal Justice System» (2009) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W2333194947 «Virtual Reality Job Interview Training for Individuals With Psychiatri» (2014) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W2482405583 «Psychological Approaches to Mental Illness» (2009) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W1584009029 «Motivational Interviews as Goal Assessment for Persons with Psychiatri» (2001) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W2484678483 «Marital Status and Mental Health» (2009) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W1979275409 «The responsiveness of EQ-5D utility scores in patients with depression» (2007) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W2042085807 «Rehab Rounds: Teaching Fundamental Workplace Skills to Persons With Se» (1999) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W1965875203 «Variable prospective financing in the Danish hospital sector and the d» (2006) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W614602163 «Handbook on Supported Education: Providing Services for Students With » (1998) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2592729717 «Social interventions in mental health: a call to action» (2017) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W596901567 «Early access to vocational rehabilitation for spinal cord injury inpat» (2015) – annen gruppe enn psykiske lidelser og rus (utenfor mandatet)
+- OK   6 utelatt W2312075839 «Well-Being across the Life Course» (2009) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2064727404 «Delineating disability, labour force participation and employment rest» (2004) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2166519829 «Construct validity of a newly developed instrument: Profile of Occupat» (2006) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W2018301644 «Social networks as the context for understanding employment services u» (2014) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2001335767 «Demographic characteristics as predictors of posthospital employment a» (1973) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2169349130 «The ICCD Benchmarks for Clubhouses: A Practical Approach to Quality Im» (2001) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2097879611 «Employment Outcomes for Clients With Severe Mental Illness in a PACT M» (1999) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W4403821676 «Career Guidance and Employment Issues for Neurodivergent Individuals: » (2024) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2094845579 «A Participatory Return-to-Work Program for Temporary Agency Workers an» (2011) – kroniske smerter eller muskel- og skjelettlidelser, utenfor mandatet
+- OK   6 utelatt W2622688225 «The role of experiential and expressive negative symptoms on job obtai» (2017) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W3202068980 «The societal cost of treatment-seeking patients with borderline person» (2021) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2147928840 «Effects of Substance Dependence on Outcomes of Patients in a Randomize» (2000) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2884523428 «Factors that contribute to help-seeking among homeless, trauma-exposed» (2018) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W2130940153 «How equitable is vocational rehabilitation in Sweden? A review of evid» (2010) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W253059840 «Work and Unemployment as Stressors» (2009) – sammenheng mellom arbeid eller ledighet og helse, ikke effekt av IPS
+- OK   6 utelatt W2760577889 «Low Vocational Outcome Among People Diagnosed With Borderline Personal» (2018) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W1575846284 «Reliability of Instruments in a Cooperative, Multisite Study: Employme» (2001) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W4210958840 «A Handbook for the Study of Mental Health» (2017) – lærebok, historikk, kommentar eller ikke-systematisk omtale; oversiktene i utvalget dekker evidensen
+- OK   6 utelatt W2972957166 «Toward an Experimental Therapeutics Approach in Human Services Researc» (2019) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W1567183042 «An Overview of Sociological Perspectives on the Definitions, Causes, a» (2009) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W1936619443 «Rasch Analysis of the Profiles of Occupational Engagement in people wi» (2015) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W4409149769 «Addressing social determinants of health in individuals with mental di» (2025) – prediktorer eller kjennetegn blant deltakere, ikke sammenligning med annen oppfølging
+- OK   6 utelatt W2078505606 «Factors Affecting Employment Outcomes for People with Disabilities Who» (2013) – prediktorer eller kjennetegn blant deltakere, ikke sammenligning med annen oppfølging
+- OK   6 utelatt W2319964949 «IMPACT OF PUBLIC SUPPORT PAYMENTS, INTENSIVE PSYCHIATRIC COMMUNITY CAR» (2003) – studie av modelltrohet (fidelity), ikke effekt mot sammenligningsgruppe
+- OK   6 utelatt W126385667 «Employment Histories of Homeless Persons with Mental Illness» (2002) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W2543320080 «Psychiatric versus physical disabilities: A comparison of barriers and» (2016) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W1998326695 «A retrospective study of clubhouse-based transitional employment.» (2001) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2520643613 «Peer-supported economic empowerment: A financial wellness intervention» (2016) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W4281768849 «De-Implementation: Lessons to be Learned when Abandoning Inappropriate» (2022) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W2248964717 «Mental health rehabilitation in a care farm context: A descriptive rev» (2015) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W4297470967 «Identifying individuals with undiagnosed post-traumatic stress disorde» (2022) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2154702739 «Improving Employment Participation for Welfare Recipients Facing Perso» (2007) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W2032000054 «A Review of Interventions for Substance Use Among Homeless Youth» (2012) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2124086799 «Transitional Employment: an evaluative description of Fountain House p» (1995) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2325696155 «The menu approach to employment services: Philosophy and five-year out» (1999) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2098181049 «L'insertion au travail de personnes souffrant d'une maladie mentale: A» (2005) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W4284880554 «Facilitators and Barriers to Sustainable Employment After Spinal Cord » (2022) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W1516566491 «The application of human capital theory in vocational rehabilitation f» (2010) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2045109786 «Labour market conditions, labour force activity and prevalence of psyc» (2008) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W255732232 «Raising Expectations for U.S. Youth with Disabilities: Federal Disabil» (2015) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W3035846787 «Employment functioning in people with severe mental illnesses living i» (2020) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2065254012 «Early retirement from work among employees with a diagnosis of persona» (2010) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W3127887080 «Studying Stress in the Twenty-First-Century: An Update of Stress Conce» (2017) – lærebok, historikk, kommentar eller ikke-systematisk omtale; oversiktene i utvalget dekker evidensen
+- OK   6 utelatt W4284710472 «The impact of employment programs on common mental disorders: A system» (2022) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W191300392 «Improving the Vocational Status of Patients with Long-Term Mental Illn» (2003) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W3126998890 «The Dual Continua Model: The Foundation of the Sociology of Mental Hea» (2017) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W2411818628 «Brighter Prospects: Transforming Social Assistance in Ontario» (2012) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W1972856162 «Emerging Areas of Practice for Mental Health Social Workers: Education» (2009) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2289164561 «The Measurement of Mental Disorder» (2009) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W2531885077 «Subjective Experiences of the Benefits and Key Elements of a Cognitive» (2016) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W4211055758 «Socioeconomic Stratification and Mental Disorder» (2017) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W2038176372 «What makes vocational rehabilitation effective? Program characteristic» (2006) – prediktorer eller kjennetegn blant deltakere, ikke sammenligning med annen oppfølging
+- OK   6 utelatt W2125950801 «Pathways to vocational services: Factors affecting entry by veterans e» (2011) – prediktorer eller kjennetegn blant deltakere, ikke sammenligning med annen oppfølging
+- OK   6 utelatt W2484872417 «African American Women and Mental Well-Being: The Triangulation of Rac» (2009) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W3090281648 «Early Vocational Rehabilitation After Serious Injury or Illness: A Sys» (2020) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2029709703 «How Does Outcome-Based Funding Affect Service Delivery? An Analysis of» (2014) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2991435442 «Job Search, Employment Capabilities and Well-being of People on Welfar» (2019) – sammenheng mellom arbeid eller ledighet og helse, ikke effekt av IPS
+- OK   6 utelatt W3128812472 «Understanding the Connection between Social Support and Mental Health» (2017) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W2081825983 «Motivational interviewing in vocational rehabilitation for people livi» (2008) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W2518784091 «The Idea of Recovery» (2016) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2106486363 «Participation in programs designed to improve employment outcomes for » (2005) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W4308052933 «The creation and implementation of an employment participation pathway» (2022) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W4388830477 «Main activity trajectory clusters of unemployed people with partial wo» (2023) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2006533795 «Education and Employment Needs and Receipt of Services in Community an» (2014) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2313430721 «Les compétences perçues de la personne ayant un trouble mental grave: » (2012) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W1480152524 «Integrating Service Delivery Systems for Persons with a Severe Mental » (2009) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W4211222021 «Gender and Mental Health» (2017) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W1943923348 «The SESAMI evaluation of employment support in the UK: Background and » (2007) – protokoll eller beskrivelse av utgangspunkt, ikke resultater
+- OK   6 utelatt W2236714134 «Clinical Interventions to Reduce Work Disability in Workers with Muscu» (2013) – kroniske smerter eller muskel- og skjelettlidelser, utenfor mandatet
+- OK   6 utelatt W2789142559 «Do return to work interventions for workers with disabilities and heal» (2018) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W4211055285 «An Overview of Sociological Perspectives on the Definitions, Causes, a» (2017) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W1814955164 «Function, health and psychosocial needs in job-seekers with anxiety, m» (2014) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2098644145 «Employment-related information for clients receiving mental health ser» (2011) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W3128036851 «Defining Mental Disorders: Sociological Investigations into the Classi» (2017) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W4211174807 «The Measurement of Mental Disorder» (2017) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W3008812350 «Mental health and the NDIS: A literature review» (2014) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W4391691880 «Improving career wellbeing of individuals with serious mental illness» (2024) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W4403317418 «Contributions of a time use perspective in community mental health pra» (2024) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W1771988378 «Seeking and securing work: Individual-level predictors of employment o» (2015) – prediktorer eller kjennetegn blant deltakere, ikke sammenligning med annen oppfølging
+- OK   6 utelatt W2174657574 «Measurement of Return to Work and Stay at Work Outcomes» (2015) – sykmeldte i arbeid og tilbakeføring, beslektet felt utenfor mandatet
+- OK   6 utelatt W2979677930 «Community Rehabilitation for Youth with Psychosis Spectrum Disorders» (2019) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W3126223339 «Race and Mental Health» (2017) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W4391658038 «Design, Recruitment, and Implementation of Research Interventions Amon» (2024) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W2271966625 «Return to Work in Serious Mental Illness» (2015) – sykmeldte i arbeid og tilbakeføring, beslektet felt utenfor mandatet
+- OK   6 utelatt W2288403090 «Issues and Interventions for Workforce Participation After Spinal Cord» (2015) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W4367723859 «Changing Experiences, Needs, and Supports Across the Life Course for W» (2023) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W2498209933 «Schizophrenie — psychosoziale Therapie (ICD-10 F2)» (2009) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W4414776064 «Inclusive Job Design» (2025) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2188830759 «Title of Dissertation: IMPACT OF SELF-EFFICACY, OUTCOME EXPECTATIONS A» (2011) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2960988987 «PROTOCOL: Multifaceted interventions for supporting community particip» (2018) – protokoll eller beskrivelse av utgangspunkt, ikke resultater
+- OK   6 utelatt W3097925174 «The Cal-DSH diversion guidelines» (2020) – lærebok, historikk, kommentar eller ikke-systematisk omtale; oversiktene i utvalget dekker evidensen
+- OK   6 utelatt W4409464223 «An overview of the challenges with the differential diagnosis of schiz» (2025) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W7157665505 «Exploring factors shaping employment outcomes of people with disabilit» (2026) – prediktorer eller kjennetegn blant deltakere, ikke sammenligning med annen oppfølging
+- OK   6 utelatt W7166528986 «Psychosocial Factors Associated with Psychiatric Readmission Following» (2026) – prediktorer eller kjennetegn blant deltakere, ikke sammenligning med annen oppfølging
+- OK   6 utelatt W7214182308 «Psychosocial Rehabilitation Interventions for Mental Health Disorders:» (2026) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2095169304 «Experience-based Co-design and Healthcare Improvement: Realizing Parti» (2015) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W2099321864 «Social Factors and Recovery from Mental Health Difficulties: A Review » (2011) – prediktorer eller kjennetegn blant deltakere, ikke sammenligning med annen oppfølging
+- OK   6 utelatt W3115493962 «Royal Australian and New Zealand College of Psychiatrists Clinical Pra» (2005) – lærebok, historikk, kommentar eller ikke-systematisk omtale; oversiktene i utvalget dekker evidensen
+- OK   6 utelatt W2900247883 «Social support and interpersonal relationships.» (1991) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2115487888 «Nicotine Transdermal Patch and Atypical Antipsychotic Medications for » (2000) – legemiddelstudie, ikke arbeidsrettet tiltak
+- OK   6 utelatt W2141554193 «Stability of functional impairment in patients with schizotypal, borde» (2004) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2058177122 «The buffer theory of social support – a review of the literature» (1987) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2095787934 «Hallucinations, Delusions, and Thought Disorder Among Adult Psychiatri» (1999) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W1974693567 «Psychosocial functioning in the context of diagnosis: Assessment and t» (2009) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W2114809806 «Work Rehabilitation in Schizophrenia: Does Cognitive Impairment Limit » (2001) – tillegg til IPS (kognitiv trening, ferdighetstrening o.l.) eller kognisjon, ikke IPS mot vanlig oppfølging
+- OK   6 utelatt W2966631060 «Prediction of disability in schizophrenia: Symptoms, cognition, and se» (2019) – prediktorer eller kjennetegn blant deltakere, ikke sammenligning med annen oppfølging
+- OK   6 utelatt W2159531577 «Inclusion as a focus of employment-related research in intellectual di» (2012) – annen gruppe enn psykiske lidelser og rus (utenfor mandatet)
+- OK   6 utelatt W2103440713 «Life Changes Among Homeless Persons With Mental Illness: A Longitudina» (2015) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W2026786525 «Explaining the Variance Within Supported Employment Programs: Comment » (2006) – prediktorer eller kjennetegn blant deltakere, ikke sammenligning med annen oppfølging
+- OK   6 utelatt W2417867786 «Two-year outcome of team-based intensive case management for patients » (1995) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2471230752 «Evaluating the Capacity to Work of the Mentally Ill» (1990) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2015599670 «Cognitive functioning and the early development of PTSD» (2001) – tillegg til IPS (kognitiv trening, ferdighetstrening o.l.) eller kognisjon, ikke IPS mot vanlig oppfølging
+- OK   6 utelatt W2165270529 «Community Integration of Formerly Homeless Men and Women With Severe M» (2012) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W2322580389 «Job development strategies for placing persons with psychiatric disabi» (1995) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2314016982 «Addressing the social needs of mental health consumers when day treatm» (1998) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W1931132089 «Is deinstitutionalization working in our community?» (2011) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2972209721 «Helping High School-Aged Military Dependents With Autism Gain Employme» (2019) – annen gruppe enn psykiske lidelser og rus (utenfor mandatet)
+- OK   6 utelatt W2336449000 «Second-generation long-acting injectable antipsychotics in schizophren» (2016) – legemiddelstudie, ikke arbeidsrettet tiltak
+- OK   6 utelatt W2009480326 «Does U.S. federal policy support employment and recovery for people wi» (2002) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W2128286761 «Survey results from a national survey of community rehabilitation prov» (2009) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2964662976 «An Organizational Approach to Understanding How Social Enterprises Add» (2019) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W4406314943 «Effect of depression and empowerment on medication adherence in patien» (2025) – annen gruppe enn psykiske lidelser og rus (utenfor mandatet)
+- OK   6 utelatt W2319061447 «Assessing the Underutilization of Supported Employment Services.» (2007) – omtale, kommentar eller beskrivende studie av supported employment uten sammenligningsgruppe
+- OK   6 utelatt W3091770915 «Consumer engagement in occupational therapy health‐related research: A» (2020) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W3132990149 «I Quit! Effects of Work-Family Policies on the Turnover Intention» (2021) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
+- OK   6 utelatt W4412426982 «Employing Strength: A Scoping Review of Customized Employment Practice» (2025) – annen gruppe enn psykiske lidelser og rus (utenfor mandatet)
+- OK   6 utelatt W2128422895 «The economic benefits of supported employment for persons with mental » (1998) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2232575920 «The trees and the forest: mixed methods in the assessment of recovery » (2015) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W1980758272 «Predictors of valued everyday occupations, empowerment and satisfactio» (2013) – prediktorer eller kjennetegn blant deltakere, ikke sammenligning med annen oppfølging
+- OK   6 utelatt W4214624015 «Psychometric properties of post-traumatic stress disorder (PTSD) check» (2022) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
+- OK   6 utelatt W650199537 «Supported employment : providing integrated employment opportunities f» (1991) – publisert før 2000 (mandatet: fra 2000)
+- OK   6 utelatt W2903505229 «Peer-Mediated Literacy-Based Behavioral Interventions: A Job Coaching » (2018) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2976184835 «Comparing Different Delivery Modes for Literacy-Based Behavioral Inter» (2018) – annen gruppe enn psykiske lidelser og rus (utenfor mandatet)
+- OK   6 utelatt W2089125607 «Predictors of on-site vocational support for people with schizophrenia» (2007) – prediktorer eller kjennetegn blant deltakere, ikke sammenligning med annen oppfølging
+- OK   6 utelatt W1157679866 «The progress towards integrated employment in the UK» (2012) – ikke en studie av IPS eller supported employment (annet tiltak eller tema)
+- OK   6 utelatt W2018844704 «Financial motivation to work among people with psychiatric disorders» (2014) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W1881144133 «Situational assessment in psychiatric rehabilitation: A reappraisal» (2007) – arbeid eller annet arbeidsrettet tiltak ved psykisk lidelse uten IPS-sammenligning (beskrivende, prediktorer eller andre tiltak)
+- OK   6 utelatt W3209101847 «A qualitative systematic review of Early Intervention in Psychosis ser» (2021) – kvalitativ studie eller erfaringer, ikke effektmål
+- OK   6 utelatt W2502745923 «Social factors as a basis for treatment» (2008) – prediktorer eller kjennetegn blant deltakere, ikke sammenligning med annen oppfølging
+- OK   6 utelatt W4410201966 «Cognition as a predictor of social network size and early communicatio» (2025) – prediktorer eller kjennetegn blant deltakere, ikke sammenligning med annen oppfølging
+- OK   6 utelatt W7151508013 «Exploring Vocational Training Interventions for Adults With Autism Spe» (2026) – annen gruppe enn psykiske lidelser og rus (utenfor mandatet)
+- OK   6 utelatt W7155204947 «Psychosocial Factors Affecting Community Integration in Schizophrenia » (2026) – prediktorer eller kjennetegn blant deltakere, ikke sammenligning med annen oppfølging
+- OK   6 utelatt W7203879690 «Exploring the Relationship between Cognitive Performance, Performance-» (2026) – tillegg til IPS (kognitiv trening, ferdighetstrening o.l.) eller kognisjon, ikke IPS mot vanlig oppfølging
+- OK   6 utelatt W7223367385 «Employment alternatives and labor market access for adults with intell» (2026) – annen gruppe enn psykiske lidelser og rus (utenfor mandatet)
+- OK   6 utelatt W2499734028 «Vocational rehabilitation in first-episode psychosis: results of the f» (2006) – pilot uten kontrollgruppe fra samme miljø (første australske erfaring); de randomiserte forsøkene W2142209734 og W2893792582 er brukt
+- OK   6 utelatt NB-3972 «Arbeidsinkludering» (None) – oppslag i Navs bibliotek uten år, tittel og sammendrag om arbeidsinkludering generelt, ikke IPS (nytt norsk søk 9.11.2026)
+- OK   6 utelatt NB-4161 «Evaluering av REFINO : forsøk med resultatbasert finansiering av oppfø» (2023) – evaluering av resultatbasert finansiering av oppfølgingstiltak, ikke IPS mot vanlig oppfølging (nytt norsk søk 9.11.2026)
+- OK   6 utelatt NB-6330 «Følgeforskning av Samspill : modeller for tjenestesamhandling mellom a» (2026) – følgeforskning av samhandlingsmodeller mellom Nav og helsetjenester (Rask psykisk helsehjelp, kognitiv terapeut og fastlege), ikke IPS og uten effektmål (nytt norsk søk 9.11.2026)
+- OK   9 kort-svar-blind.md finnes
+- OK   9 innholdskontroll har raden «kort svar»
+- OK   9 blind lesing 0198cc7f9af9-06c4fc37-40b7-4fc9-91df-6bbf79ea07ae i budskap.tsv
+- OK   9 blind lesing AV-2021-2-03 i budskap.tsv
+- OK   9 blind lesing FI-uef.9915208111505966 i budskap.tsv
+- OK   9 blind lesing KU-7dc2d886-f49c-4f6c-bb44-20be6225f058 i budskap.tsv
+- OK   9 blind lesing LI-21150545 i budskap.tsv
+- OK   9 blind lesing NB-6618 i budskap.tsv
+- OK   9 blind lesing W1498833145 i budskap.tsv
+- OK   9 blind lesing W1797793633 i budskap.tsv
+- OK   9 blind lesing W1970238684 i budskap.tsv
+- OK   9 blind lesing W1996383920 i budskap.tsv
+- OK   9 blind lesing W2003569369 i budskap.tsv
+- OK   9 blind lesing W2093242322 i budskap.tsv
+- OK   9 blind lesing W2124049088 i budskap.tsv
+- OK   9 blind lesing W2128048144 i budskap.tsv
+- OK   9 blind lesing W2139568741 i budskap.tsv
+- OK   9 blind lesing W2150078125 i budskap.tsv
+- OK   9 blind lesing W2166061916 i budskap.tsv
+- OK   9 blind lesing W2167890993 i budskap.tsv
+- OK   9 blind lesing W2318621877 i budskap.tsv
+- OK   9 blind lesing W2338814622 i budskap.tsv
+- OK   9 blind lesing W2344919484 i budskap.tsv
+- OK   9 blind lesing W2603183128 i budskap.tsv
+- OK   9 blind lesing W2617951239 i budskap.tsv
+- OK   9 blind lesing W2738957630 i budskap.tsv
+- OK   9 blind lesing W2757770936 i budskap.tsv
+- OK   9 blind lesing W2792496846 i budskap.tsv
+- OK   9 blind lesing W2885000375 i budskap.tsv
+- OK   9 blind lesing W2887225311 i budskap.tsv
+- OK   9 blind lesing W2893792582 i budskap.tsv
+- OK   9 blind lesing W2915389400 i budskap.tsv
+- OK   9 blind lesing W2917050602 i budskap.tsv
+- OK   9 blind lesing W2948462152 i budskap.tsv
+- OK   9 blind lesing W2971662801 i budskap.tsv
+- OK   9 blind lesing W2987143591 i budskap.tsv
+- OK   9 blind lesing W3092528766 i budskap.tsv
+- OK   9 blind lesing W3096880123 i budskap.tsv
+- OK   9 blind lesing W3117173428 i budskap.tsv
+- OK   9 blind lesing W3118340329 i budskap.tsv
+- OK   9 blind lesing W3128265002 i budskap.tsv
+- OK   9 blind lesing W3129101132 i budskap.tsv
+- OK   9 blind lesing W3196725163 i budskap.tsv
+- OK   9 blind lesing W3206158820 i budskap.tsv
+- OK   9 blind lesing W3206833498 i budskap.tsv
+- OK   9 blind lesing W4214760378 i budskap.tsv
+- OK   9 blind lesing W4285039391 i budskap.tsv
+- OK   9 blind lesing W4292326324 i budskap.tsv
+- OK   9 blind lesing W4367311571 i budskap.tsv
+- OK   9 blind lesing W4390697352 i budskap.tsv
+- OK   9 blind lesing W4391244179 i budskap.tsv
+- OK   9 blind lesing W4392558137 i budskap.tsv
+- OK   9 blind lesing W4399488791 i budskap.tsv
+- OK   9 blind lesing W4405813061 i budskap.tsv
+- OK   9 blind lesing W4410133250 i budskap.tsv
+- OK   9 blind lesing W4412642570 i budskap.tsv
+- OK   9 blind lesing W7113154702 i budskap.tsv
+- OK   9 blind lesing W7133481736 i budskap.tsv
+- OK   9 blind lesing W7134921695 i budskap.tsv
+- OK   9 blind lesing W7165951382 i budskap.tsv
+- OK   9 blind lesing W7196951041 i budskap.tsv
+- OK   9 blind lesing W7224236002 i budskap.tsv

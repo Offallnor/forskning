@@ -1,0 +1,24 @@
+{
+ "apen_url": "https://doi.org/10.1371/journal.pone.0304527",
+ "ar": 2024,
+ "doi": "https://doi.org/10.1371/journal.pone.0304527",
+ "forfattere": [
+  "Emi Patmisari",
+  "Yunong Huang",
+  "Mark Orr",
+  "Sumathi Govindasamy",
+  "Emily Hielscher",
+  "Helen McLaren"
+ ],
+ "hentet": "2026-11-09",
+ "hentet_fra": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0304527&type=printable",
+ "hvordan": "pdf",
+ "id": "W4399367522",
+ "kilde": "PLoS ONE",
+ "lenke": "https://openalex.org/W4399367522",
+ "merknad": "",
+ "oversikt": true,
+ "sammendrag": "BACKGROUND/AIMS: Primary and review studies show that supported employment interventions showed promise in assisting people with severe mental illness (SMI) in achieving successful employment and health-related outcomes. This umbrella review synthesises evidence from across review studies on supported employment interventions for individuals with SMI, to identify key findings and implementation challenges in relation to five key outcomes: (1) employment, (2) quality of life, (3) social functioning, (4) clinical/service utilisation, and (5) economic outcomes. METHODS: A systematic search of eleven databases and registers (CINAHL, Cochrane, EmCare, JBI EBP, ProQuest, PsycINFO, PubMed, Scopus, and Web of Science, and Prospero and Campbell) was conducted to identify meta-analyses and systematic reviews on supported employment interventions for individuals with SMI, peer reviewed and published in English. Quality assessment and data extraction were performed using standardised Joanna Briggs Institute (JBI) tools. A mixed-methods synthesis approach was employed to integrate both quantitative and qualitative evidence. RESULTS: The synthesis of 26 review studies primarily focused on the Individual Placement and Support (IPS) model among various supported employment interventions. Overall, combining supported employment with targeted interventions such as neurocognitive therapy and job-related social skill training showed a positive effect on employment (including job retention) and non-employment outcomes (e.g., health, quality of life, social functioning) relative to standard forms of supported employment for people with SMI. Contextual factors (intervention fidelity, settings, systemic barriers) were important considerations for intervention implementation and effectiveness. DISCUSSION: Significant overlap of primary studies across 26 review studies exposed considerable variations in interpretation and conclusions drawn by authors, raising questions about their reliability. High volume of overlap reporting from the USA on IPS interventions in review studies is likely to have biased perceptions of effectiveness. There is no one-size-fits-all solution for supporting individuals with SMI in obtaining and maintaining employment. Tailoring strategies based on individual needs and circumstances appears crucial to address the complexity of mental health recovery. We propose creating centralised registries or databases to monitor primary studies included in reviews, thus avoiding redundancy. OTHER: This umbrella study was registered with PROSPERO (No. CRD42023431191).",
+ "tittel": "Supported employment interventions with people who have severe mental illness: Systematic mixed-methods umbrella review",
+ "type": "review"
+}

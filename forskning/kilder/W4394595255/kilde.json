@@ -1,0 +1,17 @@
+{
+ "ar": 2024,
+ "doi": "https://doi.org/10.1086/728808",
+ "forfattere": [
+  "Alex G. Bell",
+  "Thomas J Hedin",
+  "Geoffrey C. Schnorr",
+  "Till von Wachter"
+ ],
+ "id": "W4394595255",
+ "kilde": "Journal of Labor Economics",
+ "lenke": "https://openalex.org/W4394595255",
+ "oversikt": false,
+ "sammendrag": "This paper obtains comparable estimates of the effect of unemployment insurance (UI) benefits on labor supply throughout the unemployment spell and over the business cycle using a regression kink design and 20 years of administrative data from California. For a given unemployment duration, the behavioral effect of UI benefit levels on labor supply does not vary with the business cycle from 2002 to 2019. However, due to increased coverage from extensions in benefit durations, the duration elasticity of UI benefits rises during recessions. The behavioral effect during the start of the COVID-19 pandemic is substantially lower at all unemployment durations.",
+ "tittel": "Unemployment Insurance (UI) Benefit Generosity and Labor Supply from 2002 to 2020: Evidence from California UI Records",
+ "type": "article"
+}

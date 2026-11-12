@@ -1,0 +1,14 @@
+{
+ "apen_url": "https://pure.au.dk/portal/en/publications/b87d3f40-baf6-11dd-8407-000ea68e967b",
+ "ar": 2008,
+ "forfattere": [
+  "Iben Bolvig"
+ ],
+ "id": "W1524584051",
+ "kilde": "RePEc: Research Papers in Economics",
+ "lenke": "https://openalex.org/W1524584051",
+ "oversikt": false,
+ "sammendrag": "Low-wage jobs in Denmark are characterized by short durations and a relatively high mobility to higher wage positions, but also to unemployment. This fact might to some extent be attributed to the generous Danish UI system. The theoretical prediction for this relation is twofold. First, a generous UI system will increase reservation wages and thereby increase the effective minimum wage. This will exclude the least productive individuals from employment and thereby increase the lowest skill level among employed individuals. Hence, the Danish low-wage earners will tend to be better qualified and their duration as low-wage earners will therefore tend to be shorter. Second, the generous benefit system will allow the unemployed person to wait for better jobs, and likewise, force the employing firms to provide jobs with better prospects. By exploiting several tightening of the Danish UI system during the late nineties, these hypotheses are tested by analysing low-wage durations following an unemployment-spell using hazard models allowing for correlation between low wage duration and previous unemployment spells. Results show that being eligible for UIB does indeed increase the transition out of low wage, both to higher wage jobs and returning to unemployment. At the same time approaching passive benefit exhaustion initially increases the likelihood of moving to low-wage employment and subsequently increases the likelihood of returning to unemployment after a spell of low wage. Moreover it decreases mobility to subsequent higher wage employment. Hence, decreasing the passive period seems to have a positive effect on the employment rate, but the jobs accepted seem to be of lower quality, i.e. with higher return rates and lower upward wage mobility.",
+ "tittel": "Low wage after unemployment - the effect of changes in the UI system",
+ "type": "preprint"
+}

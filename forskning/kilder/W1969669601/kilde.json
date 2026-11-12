@@ -1,0 +1,16 @@
+{
+ "apen_url": "https://doi.org/10.2139/ssrn.396504",
+ "ar": 2006,
+ "doi": "https://doi.org/10.1111/j.0950-0804.2006.00283.x",
+ "forfattere": [
+  "Peter Fredriksson",
+  "Bertil Holmlund"
+ ],
+ "id": "W1969669601",
+ "kilde": "Journal of Economic Surveys",
+ "lenke": "https://openalex.org/W1969669601",
+ "oversikt": false,
+ "sammendrag": "Abstract. This paper provides a review of the recent literature on how incentives in unemployment insurance can be improved. We are particularly concerned with three instruments, i.e. the duration of benefit payments (or more generally the time sequencing of benefits), monitoring in conjunction with sanctions, and workfare. Our reading of the theoretical literature is that the case for imposing a penalty on less active job search is fairly solid. A growing number of empirical studies, including randomized experiments, are in line with this conclusion.",
+ "tittel": "Improving Incentives in Unemployment Insurance: A Review of Recent Research",
+ "type": "article"
+}

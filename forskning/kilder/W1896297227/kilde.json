@@ -1,0 +1,20 @@
+{
+ "apen_url": "http://hdl.handle.net/10419/32764",
+ "ar": 2010,
+ "forfattere": [
+  "Johannes F. Schmieder",
+  "Till von Wachter",
+  "Stefan Bender"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "https://doku.iab.de/discussionpapers/2010/dp0410.pdf",
+ "hvordan": "pdf",
+ "id": "W1896297227",
+ "kilde": "Social Science Open Access Repository (GESIS – Leibniz Institute for the Social Sciences)",
+ "lenke": "https://openalex.org/W1896297227",
+ "merknad": "ÅPEN VERSJON (preprint eller arbeidsnotat), merkes i svaret",
+ "oversikt": false,
+ "sammendrag": "This paper evaluates the impact of large changes in the duration of unemployment insurance (UI) in different economic environments on labour supply, job matches, and search behaviour. We show that differences in eligibility thresholds by exact age give rise to a valid regression discontinuity design, which we implement using administrative data on the universe of new unemployment spells and career histo-ries over twenty years from Germany. We find that increases in UI have small to modest effects on non-employment rates, a result robust over the business cycle and across demographic groups. Thus, large expansions in UI during recessions do not lead to lasting increases in unemployment duration, nor can they explain differ-ences in unemployment durations across countries. We do not find any effect of increased UI duration on average job quality, but show that the mean potentially confounds differential effects on job search across the distribution of UI duration. However, it appears that for a majority of UI beneficiaries' increases in UI duration may lead to small declines in wages.",
+ "tittel": "The Effects of Unemployment Insurance on Labor Supply and Search Outcomes: Regression Discontinuity Estimates from Germany",
+ "type": "report"
+}

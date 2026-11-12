@@ -1,0 +1,17 @@
+{
+ "apen_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/5768052",
+ "ar": 2017,
+ "doi": "https://doi.org/10.1093/schbul/sbx132",
+ "forfattere": [
+  "Justin D. Metcalfe",
+  "Robert E. Drake",
+  "Gary R. Bond"
+ ],
+ "id": "W2757770936",
+ "kilde": "Schizophrenia Bulletin",
+ "lenke": "https://openalex.org/W2757770936",
+ "oversikt": true,
+ "sammendrag": "As Individual Placement and Support (IPS) has become the international standard for vocational rehabilitation of adults with serious mental illness, researchers must consider the relationship between IPS and local environments. This meta-analysis used mixed-effects meta-regressions to assess the impact of site-level moderators on the likelihood that IPS recipients, compared with recipients of alternative vocational services, achieved competitive employment. Potential moderators included change in gross domestic product (GDP), local unemployment and unionization rates, and indices describing employment protection regulations, level of disability benefits compensation, and efforts to integrate people with disabilities into the workforce. Regulatory moderators represent facilitators and barriers to employment that may reinforce or detract from the effectiveness of IPS. Across 30 sites drawn from 21 randomized controlled trials in 12 countries (33% in the United States), IPS recipients were 2.31 (95% CI 1.99-2.69) times more likely to find competitive employment than recipients of alternative vocational rehabilitation services. The significant competitive-employment rate advantage of IPS over control services increased in the presence of weaker employment protection legislation and integration efforts, and less generous disability benefits. Policy makers should recognize and account for the fact that labor and disability regulations can create an arrangement of incentives that reduces the relative efficacy of supported employment.",
+ "tittel": "Economic, Labor, and Regulatory Moderators of the Effect of Individual Placement and Support Among People With Severe Mental Illness: A Systematic Review and Meta-analysis",
+ "type": "review"
+}

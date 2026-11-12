@@ -1,0 +1,16 @@
+{
+ "ar": 2003,
+ "doi": "https://doi.org/10.2307/3590987",
+ "forfattere": [
+  "Phillip B. Levine",
+  "Philip K. Robins",
+  "Robert G. Spiegelman"
+ ],
+ "id": "W3122589322",
+ "kilde": "Industrial and Labor Relations Review",
+ "lenke": "https://openalex.org/W3122589322",
+ "oversikt": false,
+ "sammendrag": "Bonus Experiments 4.3 Continuous Variables Models of Bonus Impacts 4.4 The Predicted Impact of Four Hypothetical Bonus Offers on UI Receipt, Based on a Continuous Variables Model Estimated on the Pooled Pennsylvania, Washington, and Illinois Data 4.5 Cumulative Hazard Rates for Leaving Unemployment Insurance 4.6 Impacts of the Treatments on UI Receipt by Subgroup A4.1 Regression-Adjusted Treatment Impact Equations 5.1 Mean Employment and Earnings among Control Groups 5.2 Estimated Impacts of the Bonus Offers on Probability of Employment 5.3 Estimated Impacts of the Bonus Offers on Earnings 5.4 Estimated Impacts of the Bonus Offers on Earnings amongReemployed Claimants The Illinois experiment was funded and administered by the Illinois Department of Employment Security (IDES).Sally Ward, director of IDES, gave unstinting support to the effort.Mary Glusak directed the field operations and was responsible for its smooth functioning.The experiment was conducted in 22 Job Service offices, which could not have occurred without the support of the IDES regional managers, who authorized use of agency personnel to carry out the operational tasks.Special thanks also to the Job Service staff personnel who carried out the tasks of enrolling eligible claimants in the 22 offices and to the staff members who made it possible for us to obtain the IDES administrative data on which we relied.",
+ "tittel": "Reemployment Bonuses in the Unemployment Insurance System: Evidence from Three Field Experiments",
+ "type": "article"
+}

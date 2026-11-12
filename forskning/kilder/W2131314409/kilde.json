@@ -1,0 +1,20 @@
+{
+ "apen_url": "https://doi.org/10.1177/1403494813510791",
+ "ar": 2013,
+ "doi": "https://doi.org/10.1177/1403494813510791",
+ "forfattere": [
+  "Tove I. Midtsundstad",
+  "Roy A. Nielsen"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "https://nva.sikt.no/registration/0198cc83f047-b49ddbde-7fa3-4174-8f5b-02cd0570004c",
+ "hvordan": "vitenarkivet",
+ "id": "W2131314409",
+ "kilde": "Scandinavian Journal of Public Health",
+ "lenke": "https://openalex.org/W2131314409",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "AIMS: The article examines whether preventive measures and work adjustments at the establishment level affects sickness absence among workers aged 50 years and older. METHODS: We combine survey data from a representative sample of 713 Norwegian companies, mapping the prevalence of preventive health measures in the work place in 2005, with register data on sickness absence and demographic variables for workers aged 50 years or older in 2001 and 2007. By means of a difference-in-differences approach, we compare changes and differences in the likelihood of sickness absence among the sample group, with and without the various measures/ instruments in 2005 respectively. RESULTS: In general, work-place preventive measures at the establishment level have not contributed to reducing the probability for sickness absence among workers aged 50 years and older. However, analyses comparing differences between industries find that the work-place measures have had a positive effect on public administration employees. CONCLUSIONS: Whether work-place preventive initiatives influence levels of sickness absence seems to be contingent on sector and industry. Therefore, work-place measures may be more effective in the public administration sector where most employees have office jobs compared to sectors such as manufacturing, construction and transportation, where many employees have manual work and more physical demanding jobs. Work-place initiatives thus seem to have less effect on preventing sickness absence in sectors dominated by manual labour.",
+ "tittel": "Do work-place initiated measures reduce sickness absence? Preventive measures and sickness absence among older workers in Norway",
+ "type": "article"
+}

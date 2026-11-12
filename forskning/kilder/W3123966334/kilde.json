@@ -1,0 +1,18 @@
+{
+ "apen_url": "http://dipartimenti.unicatt.it/economia-finanza-def048.pdf",
+ "ar": 2016,
+ "forfattere": [
+  "Diogo G. C. Britto"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "http://dipartimenti.unicatt.it/economia-finanza-def048.pdf",
+ "hvordan": "pdf",
+ "id": "W3123966334",
+ "kilde": "RePEc: Research Papers in Economics",
+ "lenke": "https://openalex.org/W3123966334",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "Can unemployment insurance (UI) affect the behavior of employed workers and the duration of their employment spells? I apply a regression kink design to address this question using data from the Brazilian labor market. Exploiting the UI schedule, I find that a 1% higher potential benefit level increases job duration by around 0.35%. This result is driven by the fact that a higher potential benefit level reduces the probability of job quits, which are not covered by UI. I develop a simple model showing that the positive effect on employment duration implies that the optimal benefit is higher than otherwise and delivers a simple welfare formula based on sufficient statistics. A simple calibration exercise shows that this elasticity affects welfare with a similar magnitude as the well-known elasticity of unemployment duration to the benefit level.",
+ "tittel": "Unemployment Insurance and the Duration of Employment: Theory and Evidence from a Regression Kink Design",
+ "type": "preprint"
+}

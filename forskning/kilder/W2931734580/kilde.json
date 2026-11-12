@@ -1,0 +1,17 @@
+{
+ "ar": 2018,
+ "forfattere": [
+  "Zafar E. Nazarov"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "https://cyberleninka.ru/article/n/the-effect-of-the-unemployment-insurance-wage-replacement-rate-on-reemployment-wages-a-dynamic-discrete-time-hazard-model-with/pdf",
+ "hvordan": "pdf",
+ "id": "W2931734580",
+ "kilde": "RePEc: Research Papers in Economics",
+ "lenke": "https://openalex.org/W2931734580",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "This study estimates the effect of the unemployment insurance wage replacement rate on reemployment wages in the U.S. using the sample of men in the 1996 and 2001 Surveys of Income and Program Participation. I model employment search behavior in a dynamic discrete time hazard setting with three possible outcomes: finding a full-time job, finding a part-time job, or staying unemployed (continuing the job search). I find that reemployment wages decrease with the unemployment insurance wage replacement rate. Furthermore, the wage replacement rate depresses the prospect of finding full-time work while increasing the prospect of finding part-time work.",
+ "tittel": "THE EFFECT OF THE UNEMPLOYMENT INSURANCE WAGE REPLACEMENT RATE ON REEMPLOYMENT WAGES: A DYNAMIC DISCRETE TIME HAZARD MODEL WITH UNOBSERVED HETEROGENEITY",
+ "type": "article"
+}

@@ -1,0 +1,19 @@
+{
+ "apen_url": "http://hdl.handle.net/10419/192730",
+ "ar": 2013,
+ "forfattere": [
+  "Taryn Ann Galloway",
+  "Christian Brinch"
+ ],
+ "hentet": "2026-11-09",
+ "hentet_fra": "https://nva.sikt.no/registration/019938601d36-cb56a35a-e401-464f-a57c-3bec0cd087a1",
+ "hvordan": "vitenarkivet",
+ "id": "W604728786",
+ "kilde": "Econstor (Econstor)",
+ "lenke": "https://openalex.org/W604728786",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "We examine the potential causal effect of years of schooling on the use of public disability pensions by studying the extension of compulsory schooling introduced in Norway in the 1960s. Simple regressions of disability pension receipt on schooling suggest a very strong negative relationship between education and disability pension use, particularly in the lower tail of the educational distribution. Given the strength of this observed relationship, one might suspect that improvements in educational attainment would lower disability receipt and alleviate the public finance burden from such social security benefits. Our analysis of the extension of compulsory education from 7 to 9 years in Norway in the 1960s shows essentially no effects on disability pension use at age 50, with a confidence interval suggesting that at best only a minor part of the observed relationship between schooling and disability pension receipt can be explained by a causal effect of schooling on disability.",
+ "tittel": "Is the relationship between schooling and disability pension receipt causal",
+ "type": "report"
+}

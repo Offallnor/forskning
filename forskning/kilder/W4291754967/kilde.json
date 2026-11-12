@@ -1,0 +1,23 @@
+{
+ "apen_url": "https://doi.org/10.3386/w30315",
+ "ar": 2022,
+ "doi": "https://doi.org/10.3386/w30315",
+ "forfattere": [
+  "Peter Ganong",
+  "Fiona E. Greig",
+  "Pascal Noel",
+  "Daniel G. Sullivan",
+  "Joseph Vavra"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "http://www.nber.org/papers/w30315.pdf",
+ "hvordan": "pdf",
+ "id": "W4291754967",
+ "kilde": "National Bureau of Economic Research",
+ "lenke": "https://openalex.org/W4291754967",
+ "merknad": "ÅPEN VERSJON (preprint eller arbeidsnotat), merkes i svaret",
+ "oversikt": false,
+ "sammendrag": "We show that the largest increase in unemployment benefits in U.S. history had large spending impacts and small job-finding impacts. This finding has three implications. First, increased benefits were important for explaining aggregate spending dynamics—but not employment dynamics— during the pandemic. Second, benefit expansions allow us to study the MPC of normally low-liquidity households in a high-liquidity state. These households still have high MPCs. This suggests a role for permanent behavioral characteristics, rather than just current liquidity, in driving spending behavior. Third, the mechanisms driving our results imply that temporary benefit supplements are a promising countercyclical tool.",
+ "tittel": "Spending and Job-Finding Impacts of Expanded Unemployment Benefits: Evidence from Administrative Micro Data",
+ "type": "report"
+}

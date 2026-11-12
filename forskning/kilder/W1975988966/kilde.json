@@ -1,0 +1,15 @@
+{
+ "ar": 1995,
+ "doi": "https://doi.org/10.2307/2235493",
+ "forfattere": [
+  "Wiji Arulampalam",
+  "Mark B. Stewart"
+ ],
+ "id": "W1975988966",
+ "kilde": "The Economic Journal",
+ "lenke": "https://openalex.org/W1975988966",
+ "oversikt": false,
+ "sammendrag": "This paper presents the results of an econometric analysis of the conditional probability of leaving unemployment for two male inflow cohorts entering unemployment at very different points in time: 1978 and 1987. The effect of income while unemployed is found to be much weaker for the 1987 cohort, an elasticity of -0.1 compared with -0.4, and is only found to be significant for teenagers and in the first three months of a spell. Demand constraints, measured by the local unemployment rate, are found to have a stronger negative effect on the exit probability for the 1987 cohort than in 1978.",
+ "tittel": "The Determinants of Individual Unemployment Durations in an Era of High Unemployment",
+ "type": "article"
+}

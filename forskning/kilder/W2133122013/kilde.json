@@ -1,0 +1,18 @@
+{
+ "apen_url": "https://oem.bmj.com/content/oemed/70/9/611.full.pdf",
+ "ar": 2013,
+ "doi": "https://doi.org/10.1136/oemed-2012-101087",
+ "forfattere": [
+  "Elena Farina",
+  "Antonella Bena",
+  "Osvaldo Pasqualini",
+  "Giuseppe Costa"
+ ],
+ "id": "W2133122013",
+ "kilde": "Occupational and Environmental Medicine",
+ "lenke": "https://openalex.org/W2133122013",
+ "oversikt": false,
+ "sammendrag": "OBJECTIVES: At the end of the 1990s, as required by European Directive 92/57/EEC, two laws were enacted in Italy which laid down safety and health requirements for construction sites: Decree 494/96 and Decree 528/99. The aim is to evaluate the impact on injury rates due to actions performed by a group of eight regions that planned formalised programmes to enforce the laws around the year 2000. METHODS: Using the Work History Italian Panel-Salute integrated database, which extends from 1994 to 2005, total and serious injury rates were calculated for the construction sector. An interrupted time series analysis was applied to serious injury rates. RESULTS: During the 12 years under observation, at the national level the total and serious injury rates decreased while the number of employees increased. The results of the regression models indicate that in the period after the intervention the injury rates (×10 000 weeks worked) decreased by 0.21 per year more than in the period before the intervention (CI -0.41 to -0.01). The difference in pre-post trends is even larger after adjusting for external factors. CONCLUSIONS: The intervention plans developed to enforce the two Italian decrees had an effect on the reduction in injury rates. The results showed that there was a decrease in injury rates that could not be explained by external factors. These findings highlight the importance of concrete initiatives to have employers and workers comply with regulatory safety standards.",
+ "tittel": "Are regulations effective in reducing construction injuries? An analysis of the Italian context",
+ "type": "article"
+}

@@ -1,0 +1,20 @@
+{
+ "apen_url": "https://doi.org/10.3386/w22530",
+ "ar": 2016,
+ "doi": "https://doi.org/10.3386/w22530",
+ "forfattere": [
+  "Stefan Pichler",
+  "Nicolas R. Ziebarth"
+ ],
+ "hentet": "før 2026-11-08",
+ "hentet_fra": "https://doi.org/10.3386/w22530",
+ "hvordan": "pdf",
+ "id": "W3022725470",
+ "kilde": "National Bureau of Economic Research",
+ "lenke": "https://openalex.org/W3022725470",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "This paper provides an analytical framework and uses data from the U.S. and Germany to test for the existence of contagious presenteeism and negative externalities in sick leave insurance. The first part exploits high-frequency Google Flu data and the staggered implementation of U.S. sick pay mandates to show, using a reduced-form framework, that population-level influenza-like disease rates decrease after employees gain access to paid sick leave. Next, a simple theoretical framework provides evidence on the underlying behavioral labor supply mechanisms. The model theoretically decomposes overall labor supply adjustments (“moral hazard”) into contagious presenteeism and noncontagious absenteeism behavior and derives testable conditions. The last part illustrates how to implement the model exploiting a German sick pay reform and administrative industry-level data on certified sick leave by diagnosis. The empirical test finds that the labor supply elasticity for contagious diseases is significantly smaller than for noncontagious diseases. Under the identifying assumptions of the model, this finding provides additional indirect evidence for the existence of contagious presenteeism.",
+ "tittel": "The Pros and Cons of Sick Pay Schemes: Testing for Contagious Presenteeism and Noncontagious Absenteeism Behavior",
+ "type": "report"
+}

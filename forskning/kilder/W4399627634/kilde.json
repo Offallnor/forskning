@@ -1,0 +1,21 @@
+{
+ "apen_url": "https://doi.org/10.1371/journal.pone.0305235",
+ "ar": 2024,
+ "doi": "https://doi.org/10.1371/journal.pone.0305235",
+ "forfattere": [
+  "Sheila Timp",
+  "Nicky D. van Foreest",
+  "Willem van Rhenen"
+ ],
+ "hentet": "før 2026-11-08",
+ "hentet_fra": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0305235&type=printable",
+ "hvordan": "pdf",
+ "id": "W4399627634",
+ "kilde": "PLoS ONE",
+ "lenke": "https://openalex.org/W4399627634",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "Sickness absence is a major concern in public health, affecting individuals, businesses, and society. Developing efficient sickness absence policies could help reduce sickness absence. A key aspect of these policies concerns the financial compensation provided to absent employees, including its amount and the length of time it is offered. This study addresses how financial incentives, like salary reductions, might influence sickness absence. For this purpose, we first develop a model to estimate the sensitivity of employees to a financial incentive using a large dataset consisting of approximately six million sickness cases. We then perform a simulation study to determine the effect of similar incentives at different moments and for varying sensitivities. Our findings indicate that financial incentives can notably shorten the duration of sickness absence and decrease its associated costs, particularly when such incentives are implemented early in the absence period. Incentives implemented later have less impact on absence duration, but can still reduce the overall cost. The results of this study can be used by healthcare professionals and employers in the design and evaluation of diverse sickness absence policies.",
+ "tittel": "Effect of financial incentives on the cost and duration of sickness absence",
+ "type": "article"
+}

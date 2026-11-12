@@ -1,0 +1,14 @@
+{
+ "ar": 1995,
+ "doi": "https://doi.org/10.1086/298369",
+ "forfattere": [
+  "Jennifer Hunt"
+ ],
+ "id": "W2041630208",
+ "kilde": "Journal of Labor Economics",
+ "lenke": "https://openalex.org/W2041630208",
+ "oversikt": false,
+ "sammendrag": "In West Germany during the 1980s, law changes cut the level of unemployment compensation for the unemployed without children and extended the duration of unemployment insurance for unemployed aged over 41. Analysis of these changes using the German Socioeconomic Panel shows that transitions from unemployment for those under 49 were particularly responsive to extensions of unemployment insurance. The implied elasticity for escapes of men to employment is similar to estimates for men in the United States, suggesting that differences in the potential duration of unemployment insurance only partially explain the difference in spell lengths between Germany and the United States.",
+ "tittel": "The Effect of Unemployment Compensation on Unemployment Duration in Germany",
+ "type": "article"
+}

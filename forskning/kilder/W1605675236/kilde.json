@@ -1,0 +1,16 @@
+{
+ "apen_url": "https://hdl.handle.net/10986/9005",
+ "ar": 2006,
+ "doi": "https://doi.org/10.1596/1813-9450-4031",
+ "forfattere": [
+  "Jan C. VAN OURS",
+  "Milan Vodopivec"
+ ],
+ "id": "W1605675236",
+ "kilde": "World Bank, Washington, DC eBooks",
+ "lenke": "https://openalex.org/W1605675236",
+ "oversikt": false,
+ "sammendrag": "This paper investigates how the potential duration of unemployment benefits affects the quality of post-unemployment jobs. It takes advantage of a natural experiment introduced by a change in Slovenia's unemployment insurance law that substantially reduced the potential benefit duration. Although this reduction strongly increased job finding rates, the quality of the post-unemployment jobs remained unaffected. The paper finds that the law change had no effect on the type of contract (temporary versus permanent), the duration of the post-unemployment job, or the wage earned in the job",
+ "tittel": "Duration Of Unemployment Benefits And Quality Of Post-Unemployment Jobs : Evidence From A Natural Experiment",
+ "type": "report"
+}

@@ -1,0 +1,896 @@
+id	bakover	forover	uttrykk	ar	oversikt	siteringer	persentil	sammendrag	allerede_kandidat	tittel	kilde
+W2010586812	8	4	active labor market	2010	False	757	0.99927426	False	False	The effectiveness of European active labor market programs	Labour Economics
+W1805206376	8	1	active labour market	2010	True	1338	0.99981601	True	False	Active Labour Market Policy Evaluations: A Meta‐Analysis	The Economic Journal
+W1530306231	8	0	active labor market	1999	False	3027	1.0	False	False	The Economics and Econometrics of Active Labor Market Programs	Handbook of labour economics
+W2141445845	6	2	unemployed youth	2013	False	591	0.9997001	True	False	Do Labor Market Policies have Displacement Effects? Evidence from a Clustered Randomized Experiment *	The Quarterly Journal of Economics
+W3125746711	3	4		2009	False	185	0.9964298	True	False	Are Training Programs More Effective When Unemployment Is High?	Journal of Labor Economics
+W1999193906	6	1		2005	False	123	0.98216809	False	False	The new deal for young people: effect on the labour market status of young men	Labour Economics
+W1520618467	3	3	active labor market	2006	False	301		False	True	The Effectiveness of European Active Labor Market Policy	SSRN Electronic Journal
+W3124887541	5	1		2018	False	254	0.9944605	False	False	Do youth employment programs improve labor market outcomes? A quantitative review	World Development
+W2785861316	5	1		2018	False	126	0.99137192	True	False	The Effectiveness of Hiring Credits	The Review of Economic Studies
+W2530882093	2	4		2016	True	63		False	False	Do Youth Employment Programs Improve Labor Market Outcomes? A Systematic Review	SSRN Electronic Journal
+W2039293213	4	2	young unemployed	2013	False	22	0.8965267	True	False	Treatment Evaluation With Selective Participation and Ineligibles	Journal of the American Statistical Association
+W2973102422	3	3		2019	False	10	0.78057491	False	False	Fighting long-term unemployment: Do we have the whole picture?	Labour Economics
+W2066735350	5	0		1997	False	5471	0.99721578	True	False	Matching As An Econometric Evaluation Estimator: Evidence from Evaluating a Job Training Programme	The Review of Economic Studies
+W3021959460	5	0	active labor market	2017	False	1109	0.99986714	True	False	What Works? A Meta Analysis of Recent Active Labor Market Program Evaluations	Journal of the European Economic Association
+W3125459289	3	2		2013	False	136	0.98868034	False	False	Sensitivity of matching-based program evaluations to the availability of control variables	Labour Economics
+W1982832588	1	4	active labour market	2007	False	126	0.98836086	False	False	Costs and benefits of Danish active labour market programmes	Labour Economics
+W2058478408	1	4		2014	False	121	0.99346875	True	False	The Effectiveness of Public-Sponsored Training Revisited: The Importance of Data and Methodological Choices	Journal of Labor Economics
+W2064695650	1	4	active labor market	2009	False	82	0.98847213	True	False	Evaluating the dynamic employment effects of training programs in East Germany using conditional difference‐in‐differences	Journal of Applied Econometrics
+W3122228908	5	0	wage subsid	1999	False	75	0.94711032	False	False	Getting the Unemployed Back to Work: The Role of Targeted Wage Subsidies	International Tax and Public Finance
+W1521518092	4	1	unemployed youth	2004	False	59	0.97148574	False	False	Does early intervention help the unemployed youth?	Labour Economics
+W2065714280	3	2		2008	False	43	0.94254016	False	False	Evaluating job-search programs for old and young individuals: Heterogeneous impact on unemployment duration	Labour Economics
+W3123565812	3	2		2017	False	30	0.93642825	False	False	The Difficult School-to-Work Transition of High School Dropouts	The Journal of Human Resources
+W2039276519	4	1	wage subsid	2015	False	26	0.87837996	False	False	How long and how much? Learning about the design of wage subsidies from policy changes and discontinuities	Labour Economics
+W2751676392	0	5		2018	False	14	0.85435887	False	False	Active labour-market policies and output growth: Is there a causal relationship?	Economic Modelling
+W2518186030	2	3	employment subsid	2016	False	3	0.16270859	True	False	Targeting Tax Relief at Youth Employment	Canadian Public Policy
+W4416918115	0	5	youth unemployment	2025	False	2	0.84141419	True	False	Assessing the impact of labour market spendings on unemployment dynamics across demographics in OECD countries	Public Sector Economics
+W4407357292	0	5		2025	False	1		False	False	Evaluation of a Mixed Employment and Training Programme for Long-Term Unemployed with Special Labour Market Difficulties in Spain	SSRN Electronic Journal
+W4416918125	0	5		2025	False	0		False	False		Public Sector Economics
+W2161800660	4	0		2001	False	916	0.99693195	True	False	Employer Learning and Statistical Discrimination	The Quarterly Journal of Economics
+W2143499562	3	1	youth unemployment	2011	False	767	0.99847055	True	False	Young people and the Great Recession	Oxford Review of Economic Policy
+W2103086757	4	0		2010	False	238	0.99514469	True	False	Do Temporary-Help Jobs Improve Labor Market Outcomes for Low-Skilled Workers? Evidence from “Work First”	American Economic Journal Applied Economics
+W2256065985	4	0		2015	True	163	0.94827586	False	False	Do interventions targeted at micro-entrepreneurs and small and medium-sized firms create jobs? A systematic review of the evidence for low and middle income countries	Labour Economics
+W2106519551	2	2	active labor market	2016	True	161	0.90249433	True	False	Active Labor Market Policies	Annual Review of Economics
+W1577648310	4	0	wage subsid;young unemployed;active labour market	2017	False	139		True	True	Getting the unemployed back to work: the role of targeted wage subsidies	
+W1956568142	1	3	hiring subsid	2012	False	99	0.98629842	True	True	DO HIRING SUBSIDIES REDUCE UNEMPLOYMENT AMONG OLDER WORKERS? EVIDENCE FROM NATURAL EXPERIMENTS	Journal of the European Economic Association
+W1572951111	1	3		2007	False	88		False	False	Which Program for Whom? Evidence on the Comparative Effectiveness of Public Sponsored Training Programs in Germany	SSRN Electronic Journal
+W2157152859	4	0		2011	False	87	0.9818331	True	False	Spurring Job Creation in Response to Severe Recessions: Reconsidering Hiring Credits	Journal of Policy Analysis and Management
+W1577286609	3	1	youth unemployment;active labor market	2011	False	79		False	True	Fighting Youth Unemployment: The Effects of Active Labor Market Policies	SSRN Electronic Journal
+W2016059253	3	1	wage subsid	2006	False	75	0.98452126	True	False	Do Wage Subsidies Increase Employment in Subsidized Firms?	Economica
+W2072982030	2	2		2002	False	58	0.95963662	False	False	Labour market training in Norway—effect on earnings	Labour Economics
+W2006484966	1	3		2006	False	49	0.98830919	True	False	Swedish Youth Labour Market Policies Revisited	Vierteljahrshefte zur Wirtschaftsforschung
+W2024421655	4	0	wage subsid	2013	False	41	0.96321778	True	True	Do Long-Term Unemployed Workers Benefit from Targeted Wage Subsidies?	German Economic Review
+W2957610029	1	3	wage subsid;youth unemployment;active labour market	2019	False	38	0.95415959	True	True	Active labour market policies for young people and youth unemployment	International Journal of Manpower
+W1602594018	4	0		2016	False	37	0.94461721	True	False	The Effect of Work First Job Placements on the Distribution of Earnings: An Instrumental Variable Quantile Regression Approach	Journal of Labor Economics
+W1987798765	2	2	wage subsid	2014	False	34	0.93209	True	True	Wage subsidies in developing countries as a tool to build human capital: design and implementation issues	IZA Journal of Labor Policy
+W3177281304	0	4	wage subsid;subsidized employment	2021	False	29	0.94064432	True	True	"Micro-econometric evaluation of subsidized employment in morocco: the case of the ""Idmaj"" program"	Journal for Labour Market Research
+W4285210981	3	1	hiring subsid	2022	False	18	0.92334005	True	True	How effective are hiring subsidies in reducing long-term unemployment among prime-aged jobseekers? Evidence from Belgium	IZA Journal of Labor Policy
+W2611504698	1	3	active labour market	2016	True	17	0.81178914	True	False	Active Labour Market Programme Participation for Unemployment Insurance Recipients	Research on Social Work Practice
+W3124587910	2	2	youth unemployment;active labour market	2014	False	17		True	True	Can Active Labour Market Policies Combat Youth Unemployment?	SSRN Electronic Journal
+W4283738728	0	4	youth unemployment;young unemployed;active labour market	2022	False	17	0.91855808	True	True	Effectiveness of Active Labour Market Policies in the EU Countries for the Young Unemployed People and Implications for the Post-pandemic Period	Engineering Economics
+W28016323	0	4	employment subsid	2006	False	7		True	False	The effect of temporary employment subsidies on employment duration	RePEc: Research Papers in Economics
+W1545902944	1	3	active labour market	2012	False	5		True	False	Give them a break! Did activation of young welfare recipients overshoot in Germany? (A regression discontinuity analysis)	RePEc: Research Papers in Economics
+W1576880634	0	4		2011	False	2		True	False	What Works for Whom in Public Employment Policy?	
+W2254421870	0	4		2014	False	2	0.282694	True	False	Knowledge gaps in evaluating labour market and social inclusion policies: Use of counterfactual impact evaluation	Joint Research Centre (European Commission)
+W2911773687	0	4	active labour market	2018	False	2	0.81498456	True	False	Empirical evaluation of professional traineeships for young people up to 30 years of age	Central European Journal of Public Policy
+W2157823046	3	0		1997	True	57300	0.99883856	True	False	Bias in meta-analysis detected by a simple, graphical test	BMJ
+W2150291618	3	0		1983	False	32583	0.99407522	True	False	The Central Role of the Propensity Score in Observational Studies for Causal Effects	Biometrika
+W2139122730	3	0		1979	False	28643	0.9993848	True	False	Sample Selection Bias as a Specification Error	Econometrica
+W2080061756	3	0		1998	False	3838	0.99939034	True	False	Matching As An Econometric Evaluation Estimator	The Review of Economic Studies
+W1965561045	3	0		1992	False	3323		True	False	Unemployment: macroeconomic performance and the labour market	Choice Reviews Online
+W1537287213	3	0		2014	False	3019	0.99994952	True	False	Robust Nonparametric Confidence Intervals for Regression-Discontinuity Designs	Econometrica
+W2891753394	3	0		1999	False	2569	0.99899642	True	False	Causal Effects in Nonexperimental Studies: Reevaluating the Evaluation of Training Programs	Journal of the American Statistical Association
+W2151367131	3	0		1978	False	1502	0.99273286	True	False	Estimating the Effect of Training Programs on Earnings	The Review of Economics and Statistics
+W2902060816	2	1		2020	False	1114	0.99865844	False	False	Doubly robust difference-in-differences estimators	Journal of Econometrics
+W2014940670	3	0		1989	False	969	0.98831352	True	False	Choosing Among Alternative Nonexperimental Methods for Estimating the Impact of Social Programs: The Case of Manpower Training	Journal of the American Statistical Association
+W3126007639	3	0		2007	False	877	0.9969104	False	False	Regression discontinuity inference with specification error	Journal of Econometrics
+W2150118316	3	0		1984	False	839		True	False	Evaluating the Econometric Evaluations of Training Programs with Experimental Data	RePEc: Research Papers in Economics
+W2057867827	3	0	wage subsid;active labour market	2002	False	397	0.99793287	True	True	A Microeconometric Evaluation of the Active Labour Market Policy in Switzerland	The Economic Journal
+W2142076417	0	3		2011	False	369	0.99834931	True	False	LONG-RUN EFFECTS OF PUBLIC SECTOR SPONSORED TRAINING IN WEST GERMANY	Journal of the European Economic Association
+W3124347181	3	0		2014	False	343	0.99904682	True	False	Inefficient Hiring in Entry-Level Labor Markets	American Economic Review
+W1582975199	3	0	active labour market	2002	False	338		False	True	Does Active Labour Market Policy Work? Lessons from the Swedish Experiences	SSRN Electronic Journal
+W2131364445	3	0		1996	False	335	0.99473158	True	False	The Effect of Sample Selection and Initial Conditions in Duration Models: Evidence from Experimental Data on Training	Econometrica
+W2604058646	3	0	wage subsid;active labor market	2017	False	313	0.99695379	True	True	How Effective Are Active Labor Market Policies in Developing Countries? A Critical Review of Recent Evidence	The World Bank Research Observer
+W2164483624	1	2		2010	False	304	0.99281535	False	False	Start-up subsidies for the unemployed: Long-term evidence and effect heterogeneity	Journal of Public Economics
+W2149033938	3	0		2015	False	265	0.99334215	True	False	HEAPING‐INDUCED BIAS IN REGRESSION‐DISCONTINUITY DESIGNS	Economic Inquiry
+W2110617835	3	0		2014	False	248	0.99722856	False	False	Entrepreneurship programs in developing countries: A meta regression analysis	Labour Economics
+W3122094015	1	2		2007	False	185	0.99811944	True	False	The Curse and Blessing of Training the Unemployed in a Changing Economy: The Case of East Germany After Unification	German Economic Review
+W2093250537	1	2	active labour market	2007	False	173	0.98715375	False	False	Differential effects of active labour market programs for the unemployed	Labour Economics
+W3124428087	2	1		2003	False	167	0.9748456	False	False	The locking-in effect of subsidized jobs	Journal of Comparative Economics
+W2065688271	2	1	employment subsid	2008	False	158	0.99167029	True	False	Dynamic Treatment Assignment	Journal of Business and Economic Statistics
+W2144297385	3	0		2003	False	145	0.98372559	False	False	The relative efficiency of labor market programs: Swedish experience from the 1990s	Labour Economics
+W2150191139	1	2	active labor market	2015	False	141	0.9908254	True	False	Active labor market programs - employment gain or fiscal drain?	IZA Journal of Labor Economics
+W3123352479	3	0	hiring subsid	2013	False	137	0.99334921	True	False	Place Based Policies with Unemployment	American Economic Review
+W2163303142	1	2	active labour market	2016	False	136	0.98285064	True	False	Experimental Evidence on the Effects of Early Meetings and Activation	Scandinavian Journal of Economics
+W2167790690	3	0		2001	False	135	0.99121844	True	False	Using matching estimators to evaluate alternative youth employment programs: Evidence from France, 1986–1988	ZEW economic studies
+W1923607888	2	1	active labor market	2008	False	129	0.98844752	True	False	Active Labor Market Policy Effects for Women in Europe — A Survey	Annales d Économie et de Statistique
+W2130972305	2	1	active labour market	2009	False	123	0.99002065	True	False	Evaluating the impact of job training programmes in Latin America: evidence from IDB funded operations	Journal of Development Effectiveness
+W2599282959	0	3		2017	False	108		True	False	Living Up to Expectations: How Job Training Made Women Better Off and Men Worse Off	National Bureau of Economic Research
+W2074441423	2	1		2009	False	106	0.95898058	False	False	The effect of integration policies on the time until regular employment of newly arrived immigrants: Evidence from Denmark	Labour Economics
+W2760744913	2	1	active labour market	2018	True	102	0.76757813	True	True	Active Labour Market Programmes in Latin America and the Caribbean: Evidence from a Meta-Analysis	The Journal of Development Studies
+W1994620841	1	2		2006	False	96	0.98911277	True	False	Is there a Threat Effect of Labour Market Programmes? A Study of ALMP in the Danish UI System	The Economic Journal
+W2134408580	3	0		2006	False	81	0.99049128	True	False	The Effects of Welfare‐to‐Work Program Activities on Labor Market Outcomes	Journal of Labor Economics
+W2078812069	1	2	wage subsid;active labour market	2009	False	80	0.98148228	True	True	The effectiveness of targeted wage subsidies for hard-to-place workers	Applied Economics
+W2168333943	0	3		2012	False	76	0.9718196	True	False	Intensive Coaching of New Immigrants: An Evaluation Based on Random Program Assignment*	Scandinavian Journal of Economics
+W3125519783	3	0	active labor market	1999	False	76	0.96191393	False	False	Active Labor Market Policies in Poland: Human Capital Enhancement, Stigmatization, or Benefit Churning?	Journal of Comparative Economics
+W1560722175	2	1		2006	False	74	0.96988906	False	False	Earned income tax credit policies: Impact and optimality	Labour Economics
+W1980899669	1	2		2008	False	67	0.98701029	False	False	State dependence in youth labor market experiences, and the evaluation of policy interventions	Journal of Econometrics
+W2140166377	1	2	employment subsid;active labour market	2001	False	64		True	True	Differential effects of Swedish active labour market programmes for unemployed adults during the 1990s	Working paper series - Institute for Fiscal Studies/Working papers
+W3122760127	3	0		2016	False	64	0.97661451	True	False	The Employment Effects of State Hiring Credits	Industrial and Labor Relations Review
+W2146336981	1	2	active labor market	2010	False	57	0.9710419	True	False	Exploiting Regional Treatment Intensity for the Evaluation of Labor Market Policies	Journal of the American Statistical Association
+W2020874807	0	3		2013	False	55	0.94002823	True	False	Optimal Use of Labor Market Policies: The Role of Job Search Assistance	The Review of Economics and Statistics
+W2114181172	0	3	active labour market	2009	False	53	0.96402921	True	True	Do welfare-to-work initiatives work? Evidence from an activation programme targeted at social assistance recipients in Norway	Journal of European Social Policy
+W3124609559	1	2	unemployed youth	2012	False	49		True	False	Do Labor Market Policies Have Displacement Effects? Evidence from a Clustered Randomized Experiment	National Bureau of Economic Research
+W1767306280	1	2		2010	False	48	0.98088823	True	False	Do German Welfare-to-Work Programmes Reduce Welfare Dependency and Increase Employment?	German Economic Review
+W2138848639	0	3		2008	False	40		True	False	Experimental Evidence on the Nature of the Danish Employment Miracle	SSRN Electronic Journal
+W2621984937	2	1		2018	False	39	0.90390555	False	False	Payroll taxes and youth labor demand	Labour Economics
+W2171723407	1	2		2005	False	37		False	False	The Knowledge Lift: The Swedish Adult Education Program that Aimed to Eliminate Low Worker Skill Levels	SSRN Electronic Journal
+W2790260215	2	1		2018	False	33	0.88049887	False	False	Permanent wage cost subsidies for older workers. An effective tool for employment retention and postponing early retirement?	Labour Economics
+W4383198140	1	2		2019	False	33	0.80332924	False	False	Does Job Search Assistance Reduce Unemployment? Evidence on Displacement Effects and Mechanisms	Journal of Labor Economics
+W2790949084	1	2	active labor market	2018	False	32	0.95809505	False	False	The assessment of active labor market policies: evidence from OECD countries	Economia Politica
+W3121803429	0	3	wage subsid;active labor market	2009	False	31	0.96583577	True	True	Explaining the Employability Gap of Short‐Term and Long‐Term Unemployed Persons	Kyklos
+W1555597357	0	3		2006	False	30		True	False	Virtues of Sin - effects of an immigrant workplace introduction program	RePEc: Research Papers in Economics
+W2111609847	0	3		2011	False	30	0.90767672	True	False	Virtues of SIN	Evaluation Review
+W3211398468	1	2	youth unemployment;unemployed youth;active labour market	2018	False	30	0.89050513	True	False	Vocational Training for Unemployed Youth in Latvia: Evidence from a Regression Discontinuity Design	Journal of Population Economics
+W2921687771	0	3		2019	False	29	0.9185157	False	False	Training and job search assistance programmes in Spain: The case of long-term unemployed	Journal of Policy Modeling
+W2596043699	0	3		2017	False	28	0.98676349	False	False	Promoting Youth Employment in Europe: Evidence-Based Policy Lessons	Springer eBooks
+W3122071429	0	3	youth unemployment;active labor market	2015	False	28		False	True	Youth Unemployment and Active Labor Market Policies in Europe	SSRN Electronic Journal
+W2150864598	2	1		2004	False	27	0.94726731	True	False	Income effects from labor market training programs in Sweden during the 1980s and 1990s	International Journal of Manpower
+W2872543545	0	3	youth unemployment	2018	False	27	0.92639235	True	False	Jobs for Africa’s expanding youth cohort: a stocktaking of employment prospects and policy interventions	IZA Journal of Development and Migration
+W2795170531	0	3	active labour market	2018	False	26	0.87750327	True	False	EEPIC - Enhancing Employability through Positive Interventions for improving Career potential: the impact of a high support career guidance intervention on the wellbeing, hopefulness, self-efficacy and employability of the long-term unemployed - a study protocol for a randomised controlled trial	Trials
+W2116150494	2	1	wage subsid	2005	False	25	0.90846086	True	True	The New Deal for Young People Five Years On*	Fiscal Studies
+W2767805161	1	2		2017	True	19	0.9710548	False	False	Initiatives to Combat the Labour Market Exclusion of Youth in Northern Europe: A Meta-analysis	Springer eBooks
+W2111293265	3	0		2011	False	17	0.92190473	True	False	Hiring young, unskilled workers on subsidized open-ended contracts: a good integration programme?	Oxford Review of Economic Policy
+W2075666338	2	1	wage subsid;subsidized employment	2012	False	15	0.95392772	True	True	Bringing the unemployed back to work in Germany: training programs or wage subsidies?	International Journal of Manpower
+W2802070041	1	2	wage subsid;employment subsid	2018	False	15	0.85924081	True	True	Targeted wage subsidies and firm performance	Labour Economics
+W1495746027	1	2		2002	False	14		False	False	An Evaluation of the Swedish Trainee Replacement Schemes	SSRN Electronic Journal
+W2038835536	0	3	hiring subsid	2010	False	13	0.91873741	False	True	Impacts of hiring subsidies targeted at the long-term unemployed on the low-skilled labor market: The French experience	Economic Modelling
+W3020945766	0	3	active labour market	2020	False	13	0.83994308	False	True	“You reap what you sow”: Do active labour market policies always increase job security? Evidence from the Youth Guarantee	European Journal of Law and Economics
+W2902294530	0	3	active labor market	2018	False	12	0.86878549	True	False	The Efficiency of Active Labor Market Policies: A Comparative Analysis of Tunisia and OECD Countries’	International Economic Journal
+W4377990214	0	3		2023	True	12		True	False	The Effectiveness of Management Training Programs: A Meta-Analytic Review	
+W3109566158	0	3	youth unemployment	2020	False	10	0.89630784	True	False	Youth 2020 — Preventing Another Lost Generation?	Intereconomics
+W3124908513	0	3	active labor market	2010	False	10	0.9637345	True	True	Did Active Labor Market Policies Help Sweden Rebound from the Depression of the Early 1990s?	University of Chicago Press eBooks
+W3122084474	0	3		2007	False	9		True	False	What Works Best For Getting The Unemployed Back To Work: Employment Services Or Small-Business Assistance Programmes? Evidence From Romania	RePEc: Research Papers in Economics
+W3133573873	0	3	active labor market	2020	False	7	0.83277711	True	False	Mitigating Long-term Unemployment in Europe	IMF Working Paper
+W1572813566	0	3	active labour market	2011	False	6		True	True	What Can Active Labour Market Policies Do	RePEc: Research Papers in Economics
+W3124609286	0	3		2012	False	6		False	False	The Effectiveness of Public Sponsored Training Revisited: The Importance of Data and Methodological Choices	SSRN Electronic Journal
+W4286914340	1	2	young unemployed;active labour market	2024	False	6	0.78885657	True	False	What Works for Whom? Youth Labour Market Policy in Poland	Gospodarka Narodowa
+W3012341328	0	3	active labor market	2020	False	5	0.78275932	True	True	Working for 200 Euro? The Unintended Effects of Traineeship Reform on Youth Labor Market Outcomes	Labour
+W4285191082	0	3	hiring subsid	2022	False	5		False	True	How Effective are Hiring Subsidies to Reduce Long-Term Unemployment Among Prime-Aged Jobseekers? Evidence from Belgium	SSRN Electronic Journal
+W2886683294	0	3		2018	False	4	0.7250274	True	False	Public provision of employment support services to youth jobseekers	International Journal of Manpower
+W4403400869	0	3	active labour market	2024	False	3	0.77427793	True	False	You’ll never seek alone: The impact of active labour market policies on finding a job	Journal for Labour Market Research
+W2109304819	0	3		2007	False	2		False	False	What Works Best for Getting the Unemployed Back to Work: Employment Services or Small-Business Assistance Programmes? Evidence from Romania	SSRN Electronic Journal
+W3156188624	0	3		2021	False	2	0.59373344	True	False	El papel de las políticas activas de empleo en las trayectorias laborales inestables de la población joven	Anuario IET de Trabajo y Relaciones Laborales
+W4416405156	0	3	unemployed youth	2025	True	2	0.49111195	True	False	A meta-analysis of effects of vocational skills training on future earnings for unemployed youth	Education + Training
+W4390977907	0	3	active labor market	2024	False	1	0.56105837	True	False	Long-Term Evaluation of a Short Training Program for the Unemployed: Exploring Administrative Data	
+W4406813547	0	3	subsidised employment	2024	False	1	0.70608482	True	True	Back to work? The impact of education as vocational rehabilitation for work-impaired youth	Journal of Education and Work
+W2811294164	0	3		2017	False	0	0.31577901	True	False	Políticas activas de empleo en la UE: buenas prácticas para tiempos de crisis	Cuadernos Económicos de ICE
+W4238427786	0	3	hiring subsid	2021	False	0		False	True	How Effective are Hiring Subsidies to Reduce Long-Term Unemployment Among Prime-Aged Jobseekers? Evidence from Belgium	SSRN Electronic Journal
+W4400638203	0	3		2016	False	0		True	False	Almost one in ten jobs held by young people were destroyed since the beginning of the crisis	Society at a glance
+W4409530334	0	3		2025	False	0		False	False	The Impact of Firm-Influenced Vocational Education on Labor Market and Demographic Outcomes	SSRN Electronic Journal
+W4413188699	0	3		2025	False	0	0.21691311	False	False	Evaluating the Impact of Prakerja Program on Income and Employment: Evidence from Sakernas Data	Springer eBooks
+W7165119699	0	3	active labor market	2026	False	0	0.37163325	True	True	Ex-Ante Cost–Benefit Evaluation of Active Labor Market Policies for Self-Employment in Spain	World
+W612372977	2	0		2000	True	9137	0.99797776	True	False	Practical Meta-Analysis	
+W3121385028	2	0		2009	False	4950	0.99970892	True	False	Recent Developments in the Econometrics of Program Evaluation	Journal of Economic Literature
+W3121516428	2	0		2004	False	3245	0.99968007	False	False	Does matching overcome LaLonde's critique of nonexperimental estimators?	Journal of Econometrics
+W2043565183	2	0		2000	True	3010	0.97674419	True	False	"A Nonparametric ""Trim and Fill"" Method of Accounting for Publication Bias in Meta-Analysis"	Journal of the American Statistical Association
+W2122153309	2	0		1967	False	2646	0.98563803	False	False	The Production of Human Capital and the Life Cycle of Earnings	Journal of Political Economy
+W1981188819	2	0		2010	True	2099	0.98802395	True	False	Robust variance estimation in meta‐regression with dependent effect size estimates	Research Synthesis Methods
+W2023063828	2	0		1974	False	1848	0.99853952	False	False	Shadow Prices, Market Wages, and Labor Supply	Econometrica
+W1483323320	2	0		1999	False	1653	0.99925037	False	False	Empirical Strategies in Labor Economics	Handbook of labour economics
+W2024689521	2	0		1977	False	1195	0.99702316	True	False	The Estimation of Choice Probabilities from Choice Based Samples	Econometrica
+W1518052575	2	0		1985	False	1123	1.0	True	False	Alternative methods for evaluating the impact of interventions	Cambridge University Press eBooks
+W3125353260	2	0		1999	False	1116	0.99775425	False	False	Beyond Becker: Training in Imperfect Labour Markets	The Economic Journal
+W2171040166	2	0		1985	False	1025	0.98851455	True	False	Using the Longitudinal Structure of Earnings to Estimate the Effect of Training Programs	The Review of Economics and Statistics
+W2100316976	2	0		1998	False	998	0.99730321	True	False	Why Do Firms Train? Theory and Evidence	The Quarterly Journal of Economics
+W1966981305	2	0		1995	False	946	0.9941754	True	False	Assessing the Case for Social Experiments	The Journal of Economic Perspectives
+W2124317732	2	0		2013	False	923	0.99947076	True	False	Local Economic Development, Agglomeration Economies, and the Big Push: 100 Years of Evidence from the Tennessee Valley Authority *	The Quarterly Journal of Economics
+W3123092502	2	0		1984	False	894		True	False	Using the Longitudinal Structure of Earnings to Estimate the Effect of Training Programs	National Bureau of Economic Research
+W3125727931	2	0		1989	False	892		True	False	Choosing Among Alternative Nonexperimental Methods for Estimating the Impact of Social Programs: The Case of Manpower Training	National Bureau of Economic Research
+W2171442673	2	0		1998	False	824		True	False	Causal Effects in Non-Experimental Studies: Re-Evaluating the Evaluation of Training Programs	National Bureau of Economic Research
+W2891161060	2	0		1996	False	714	0.99581228	True	False	Learning and Wage Dynamics	The Quarterly Journal of Economics
+W2067141886	2	0		2007	False	598	0.98359759	True	False	Meta‐Regression Methods for Detecting and Estimating Empirical Effects in the Presence of Publication Selection*	Oxford Bulletin of Economics and Statistics
+W2069757101	2	0		2003	False	586	0.99555893	True	False	The Nonparametric Identification of Treatment Effects in Duration Models	Econometrica
+W2166345263	2	0		2014	True	585	0.98264642	True	False	People, Places, and Public Policy: Some Simple Welfare Economics of Local Economic Development Programs	Annual Review of Economics
+W2120819732	2	0		2009	False	520	0.99548348	True	False	Publication Selection Bias in Minimum‐Wage Research? A Meta‐Regression Analysis	British Journal of Industrial Relations
+W2136915936	2	0	youth unemployment	2006	False	436	0.97942527	True	False	The Long-Term Effects of Youth Unemployment	The Journal of Human Resources
+W2130044643	2	0		2007	False	427	0.99857687	True	False	Lessons from the U.S. Unemployment Insurance Experiments	RePEc: Research Papers in Economics
+W2133597335	2	0	active labour market	1994	False	421		True	False	ACTIVE LABOUR MARKET POLICY AND UNEMPLOYMENT - A FRAMEWORK FOR THE ANALYSIS OF CRUCIAL DESIGN FEATURES	DiVA (Stockholm University)
+W2166467701	0	2		2006	False	419		True	False	Employment Patterns in OECD Countries	OECD social employment and migration working papers
+W3125772185	2	0		2008	False	391	0.98682538	True	False	The Economics of Place-Making Policies	Brookings Papers on Economic Activity
+W2889753036	2	0		2001	False	371	0.99216982	True	False	Why Do Temporary Help Firms Provide Free General Skills Training?	The Quarterly Journal of Economics
+W1483005188	2	0	youth unemployment	2000	False	367	0.98939929	True	False	Youth Employment and Joblessness in Advanced Countries	University of Chicago Press eBooks
+W2152600260	2	0		2013	True	363	0.97142857	True	False	Relative Effectiveness of Conditional and Unconditional Cash Transfers for Schooling Outcomes in Developing Countries: A Systematic Review	Campbell Systematic Reviews
+W2883073898	2	0	active labour market	1998	False	341		True	False	What Works Among Active Labour Market Policies	OECD labour market and social policy occasional papers
+W44284924	2	0		2017	False	332	0.99893715	True	False	The scars of youth: Effects of early‐career unemployment on future unemployment experience	International Labour Review
+W1569785788	2	0		1997	False	303	0.99879611	True	False	Evaluating Government Training Programs for the Economically Disadvantaged	RePEc: Research Papers in Economics
+W2145263991	1	1	active labor market	2004	False	303		True	False	Impacts of active labor market programs : new evidence from evaluations with particular attention to developing and transition countries	RePEc: Research Papers in Economics
+W2081468367	2	0		2012	True	292	0.93770492	True	False	How to do a good systematic review of effects in international development: a tool kit	Journal of Development Effectiveness
+W2765515090	2	0		2019	False	288	0.99797045	True	False	Payroll Taxes, Firm Behavior, and Rent Sharing: Evidence from a Young Workers' Tax Cut in Sweden	American Economic Review
+W2030039411	2	0		2005	False	270	0.99504762	True	False	Estimating the Effects of a Time-Limited Earnings Subsidy for Welfare-Leavers	Econometrica
+W1562107381	2	0		1997	False	252	0.96949283	True	False	The Benefits and Costs of JTPA Title II-A Programs: Key Findings from the National Job Training Partnership Act Study	The Journal of Human Resources
+W2019534988	2	0		1997	False	236	0.99093238	True	False	Evaluating the Impact of French Employment Policies on Individual Labour Market Histories	The Review of Economic Studies
+W1524147193	2	0	wage subsid	1996	False	230		True	False	Wage Subsidies for the Disadvantaged	National Bureau of Economic Research
+W3097763120	2	0		2020	False	223	0.99304579	True	False	The Persistent Effects of Initial Labor Market Conditions for Young Adults and Their Sources	The Journal of Economic Perspectives
+W2111608598	0	2		2007	False	208	0.99355781	True	False	The determinants of unemployment across OECD countries	OECD Economic Studies
+W615215593	2	0	active labour market	2001	False	206	0.87608069	True	False	Econometric Evaluation of Labour Market Policies	ZEW economic studies
+W22145852	0	2		2011	False	193	0.9970006	False	False	Institutional Reforms and Dualism in European Labor Markets	Handbook of labour economics
+W2132056195	2	0	active labour market	2001	False	161		True	False	An evaluation of the active labour market programmes in Sweden	RePEc: Research Papers in Economics
+W2093867711	2	0		1995	False	159	0.99212874	True	False	DOES ACTIVE LABOUR-MARKET POLICY INCREASE EMPLOYMENT? THEORETICAL CONSIDERATIONS AND SOME EMPIRICAL EVIDENCE FROM SWEDEN	Oxford Review of Economic Policy
+W2767925556	0	2		2020	False	146	0.98749767	True	False	Anonymity or Distance? Job Search and Labour Market Exclusion in a Growing African City	The Review of Economic Studies
+W2162627374	1	1	wage subsid;active labour market	2004	False	141	0.97600512	True	True	Programme Evaluation with Multiple Treatments	Journal of Economic Surveys
+W3125605069	2	0		2015	False	137	0.99207471	False	False	The own-wage elasticity of labor demand: A meta-regression analysis	European Economic Review
+W2590699752	2	0		2014	False	135	0.96960977	False	False	Unobservable, But Unimportant? The Influence of Personality Traits (and Other Usually Unobserved Variables) for the Evaluation of Labor Market Policies	Labour Economics
+W1672585778	0	2	active labour market	2018	False	133	0.98877155	True	False	Are active labour market policies effective in activating and integrating low-skilled individuals? An international comparison	IZA Journal of Labor Policy
+W2061731562	2	0		1976	False	133	0.97711049	True	False	Human Capital and Labor Supply: A Synthesis	Journal of Political Economy
+W2066873236	2	0		2012	False	131	0.99716323	True	False	Longer-Term Impacts of Mentoring, Educational Services, and Learning Incentives: Evidence from a Randomized Trial in the United States	American Economic Journal Applied Economics
+W3141749329	0	2		2008	False	130	0.99543511	True	False	Get Training or Wait? Long-Run Employment Effects of Training Programs for the Unemployed in West Germany	Annales d Économie et de Statistique
+W1580915203	2	0		1999	False	129	0.9955085	True	False	Wage Progression Among Less Skilled Workers	
+W2150869014	2	0		1999	False	126		True	False	Financial Incentives for Increasing Work and Income Among Low-Income Families	National Bureau of Economic Research
+W4206053945	0	2		2022	False	123	0.99791172	True	False	Inequalities in the times of a pandemic	Economic Policy
+W3125215865	2	0		2013	True	115		True	False	Entrepreneurship Programs in Developing Countries: A Meta Regression Analysis	World Bank, Washington, DC eBooks
+W2145371006	0	2	wage subsid;subsidised employment	2008	False	114	0.99600139	True	True	What Did All the Money Do? On the General Ineffectiveness of Recent West German Labour Market Programmes	Kyklos
+W3169730721	0	2	youth unemployment	2021	False	113	0.97550091	True	False	Young people not in Employment, Education or Training (NEET) in Sub-Saharan Africa: Sustainable Development Target 8.6 missed and reset	Journal of Youth Studies
+W4300008875	0	2		2015	False	110		True	False	Experimental Evidence on the Long Term Impacts of a Youth Training Program	
+W2341634486	0	2	active labor market	2017	False	103	0.99644886	True	False	Labor market reforms in Europe: towards more flexicure labor markets?	Journal for Labour Market Research
+W3126103409	1	1	youth unemployment	2012	False	102		False	False	Youth Unemployment and Vocational Training	SSRN Electronic Journal
+W2131843120	0	2		2010	False	99	0.97576433	True	False	A Caseworker Like Me – Does The Similarity Between The Unemployed and Their Caseworkers Increase Job Placements?	The Economic Journal
+W3124170777	2	0	active labor market	2023	False	98		False	False	Active Labor Market Policies in Poland: Human Capital Enhancement, Stigmatization or Benefit Churning	SSRN Electronic Journal
+W2089057041	2	0	youth unemployment	2003	False	96	0.97611417	False	False	The response of youth unemployment to benefits, incentives, and sanctions	European Journal of Political Economy
+W1972879044	0	2		2006	False	94	0.99894232	False	False	Sustainable social spending	International Tax and Public Finance
+W3125368670	0	2	active labour market	2004	False	92		True	False	Effective Active Labour Market Policies	RePEc: Research Papers in Economics
+W2140854570	0	2		2010	False	91	0.9854954	True	False	Channels through which Public Employment Services and Small Business Assistance Programmes Work*	Oxford Bulletin of Economics and Statistics
+W3121258962	2	0		2012	False	86	0.98754854	True	False	Scarring Effects of Remaining Unemployed for Long-Term Unemployed School-Leavers	Journal of the Royal Statistical Society Series A (Statistics in Society)
+W1483235153	1	1	wage subsid;hiring subsid;active labor market	2015	False	84	0.81293189	True	True	Can hiring subsidies benefit the unemployed?	IZA World of Labor
+W3104306659	0	2	active labor market	2020	False	82	0.97887479	True	False	Heterogeneous Employment Effects of Job Search Programs	The Journal of Human Resources
+W3124766160	0	2		2009	False	79	0.9174633	True	False	Unemployed and Their Caseworkers: Should They be Friends or Foes?	Journal of the Royal Statistical Society Series A (Statistics in Society)
+W3184614188	2	0		2021	False	78	0.96408349	True	False	Informal Labor and the Efficiency Cost of Social Programs: Evidence from Unemployment Insurance in Brazil	American Economic Journal Economic Policy
+W2080573397	0	2	active labour market	2009	False	77	0.99579533	True	True	The role of training and skills development in active labour market policies	International Journal of Training and Development
+W2021265449	1	1	active labor market	2009	False	73	0.96362053	False	True	Evaluating active labor market programs in Romania	Empirical Economics
+W2047227104	0	2	youth unemployment	2013	False	71	0.98561294	True	False	Youth unemployment in the period 2001–2010 and the European crisis – looking at the empirical evidence	Transfer European Review of Labour and Research
+W4283400126	0	2		2022	True	71	0.96266667	True	False	The Impacts of Benefit Sanctions: A Scoping Review of the Quantitative Research Evidence	Journal of Social Policy
+W1555268708	2	0		2000	False	70	0.96683458	False	False	Youth employment policies in France	European Economic Review
+W2153157838	0	2		2009	False	70	0.9876933	False	False	The effect of economic downturns on apprenticeships and initial workplace training: a review of the evidence	Empirical research in vocational education and training
+W2146126726	0	2	youth unemployment	2015	False	69	0.9894902	True	False	Youth unemployment in Greece: measuring the challenge	IZA Journal of European Labor Studies
+W4206239023	0	2	active labor market	2009	True	69		False	True	Active Labor Market Policy Evaluations: A Meta-Analysis	SSRN Electronic Journal
+W4239702250	0	2		2016	False	67	0.99258563	True	False	Demanding Activation	Journal of Social Policy
+W1491087575	2	0	employment subsid;subsidized employment;active labor market	1999	False	66		True	False	Self-employment grants vs. subsidized employment: Is there a difference in the re-unemployment risk?	RePEc: Research Papers in Economics
+W2054846443	0	2		2007	False	64	0.96637865	False	False	Long-run effects of training programs for the unemployed in East Germany	Labour Economics
+W1971907812	2	0	active labour market	2005	False	62	0.96342857	True	False	Active labour market programmes in Norway: are they helpful for social assistance recipients?	Journal of European Social Policy
+W1867846268	0	2		2012	False	60	0.94349979	True	False	DURATION DEPENDENCE VERSUS UNOBSERVED HETEROGENEITY IN TREATMENT EFFECTS: SWEDISH LABOR MARKET TRAINING AND THE TRANSITION RATE TO EMPLOYMENT	Journal of Applied Econometrics
+W2012187419	2	0		1996	False	60	0.97055089	True	False	The Evolution of Wages in the United Kingdom: Evidence from Micro Data	Journal of Labor Economics
+W2148731364	1	1	subsidized employment;active labour market	2013	False	60	0.97178305	True	True	The effects of active labour market policies for immigrants receiving social assistance in Denmark	IZA Journal of Migration
+W2140661551	0	2		2008	False	60	0.9570438	False	False	How to help unemployed find jobs quickly: Experimental evidence from a mandatory activation program	Journal of Public Economics
+W1582393875	2	0		2004	False	59		True	False	Scarring effects of the first labour market experience: A sibling based analysis ♣	RePEc: Research Papers in Economics
+W2073351043	1	1	active labor market	2007	False	59	0.96989622	False	False	Disentangling Treatment Effects of Active Labor Market Policies: The Role of Labor Force Status Sequences	Labour Economics
+W2495947150	0	2		2016	False	59	0.99486179	False	False	Government-Sponsored Vocational Education for Adults	Handbook of the economics of education
+W1731605237	0	2		2012	False	56		True	False	Less Income Inequality and More Growth – Are They Compatible? Part 2. The Distribution of Labour Income	OECD Economics Department working papers
+W3094437693	0	2		2020	True	55	0.58974359	True	False	A systematic review of employment outcomes from youth skills training programmes in agriculture in low- and middle-income countries	Nature Food
+W4284679297	2	0		2022	False	55	0.97481609	True	False	Sources of Wage Growth	Journal of Political Economy
+W4361737153	2	0		2003	False	52	0.95099944	True	False	Employment and Training Programs	University of Chicago Press eBooks
+W2083213530	0	2	subsidized employment	2008	False	48	0.96476367	True	True	Unemployment Duration in Germany: Individual and Regional Determinants of Local Job Finding, Migration and Subsidized Employment	Regional Studies
+W2149134913	2	0	youth unemployment	1991	False	48	0.93787148	True	False	Youth Unemployment, Labor Market Programs and Subsequent Earnings	Scandinavian Journal of Economics
+W3123672483	0	2		2012	False	46		False	False	Do Labor Market Policies Have Displacement Effects? Evidence from a Clustered Randomized Experiment	SSRN Electronic Journal
+W82406113	1	1	active labour market	2015	True	46	0.5951709	True	True	Active Labour Market Programme Participation for Unemployment Insurance Recipients: A Systematic Review	Campbell Systematic Reviews
+W2102048711	0	2		2007	False	45		False	False	Is the Notification of Monitoring a Threat to the Unemployed? A Regression Discontinuity Approach	SSRN Electronic Journal
+W2269959578	0	2		2010	False	45	0.93458106	True	False	Providing Employers with Incentives to Train Low-Skilled Workers: Evidence from the UK Employer Training Pilots	Journal of Labor Economics
+W2883829628	0	2		2018	False	44	0.9803283	True	False	Do Comparisons of Fictional Applicants Measure Discrimination When Search Externalities are Present? Evidence from Existing Experiments	The Economic Journal
+W2973114436	0	2		2017	False	44	0.99196429	True	False	Subsidising mature age employment or throwing coins into a wishing well : a quasi-experimental analysis	LA Referencia (Red Federada de Repositorios Institucionales de Publicaciones Científicas)
+W1577048240	0	2		2015	False	43	0.9869887	True	False	Knowledge retention, student learning, and blended course work: Evidence from principles of economics courses	Southern Economic Journal
+W1980970299	2	0	young unemployed;unemployed youth	2005	False	41	0.93982659	True	False	Impact of Multiple Labour Market Programmes on Multiple Outcomes: The Case of Norwegian Youth Programmes	Labour
+W3096513170	0	2		2020	False	41	0.93173722	False	False	Support for social entrepreneurs from disadvantaged areas navigating crisis: Insights from Brazil	Journal of Business Venturing Insights
+W1593675663	1	1	active labour market	2004	False	39	0.96851087	True	True	Differential Effects of Active Labour Market Programmes in the Early Stages of Young People's Unemployment	Kagoshima Daigaku Kogakubu Kenkyu Hokoku
+W2980906206	2	0		2021	False	39	0.94943052	False	False	Hysteresis from employer subsidies	Journal of Public Economics
+W2260785424	0	2	wage subsid;active labour market	2014	False	35	0.93805332	True	True	Dealing with unemployment: What should be the role of labour market programs?	Evidence Base
+W2564703047	1	1	active labour market	2016	True	34	0.82312925	True	False	A review of the effectiveness of active labour market programmes with a focus on Latin America and the Caribbean	RePEc: Research Papers in Economics
+W1602345882	1	1	active labour market	2006	False	33	0.96984346	True	False	Sectoral Heterogeneity in the Employment Effects of Job Creation Schemes in Germany	Jahrbücher für Nationalökonomie und Statistik
+W3113515901	0	2		2020	False	33	0.93342256	True	False	Improving Formal Qualifications or Firm Linkages-What Supports Successful School-to-Work Transitions among Low-Achieving School Leavers in Germany?	European Sociological Review
+W1586096156	0	2	active labour market	2011	False	31		True	False	The Impact of Active Labour Market Policy on Post-Unemployment Outcomes: Evidence from a Social Experiment in Denmark	SSRN Electronic Journal
+W4283659190	0	2	employment subsid;active labour market	2022	False	31	0.98282874	True	True	Impact Evaluation of Vocational Training and Employment Subsidies for the Unemployed in Lithuania	Connecting people with jobs
+W1550135920	0	2	active labour market	2005	False	29		True	False	Does ccoperation improve implementation? Central-local government relations in active labour market policy in Sweden	Econstor (Econstor)
+W1575058731	1	1	active labour market	2007	False	29		True	False	Labour market programmes and labour market outcomes: a study of the Swedish active labour market interventions	RePEc: Research Papers in Economics
+W3124912317	0	2		2010	False	29	0.92540197	True	False	Optimal Use of Labor Market Policies: The Role of Job Search Assistance	
+W1484059122	0	2		2010	False	25		False	False	The Heterogeneous Effects of Training Incidence and Duration on Labor Market Transitions	SSRN Electronic Journal
+W2001411084	0	2		2006	False	25	0.70430257	True	False	Assessing the employment effects of vocational training using a one-factor model	Applied Economics
+W2023972514	0	2	hiring subsid	2014	False	25	0.92390068	True	True	Hiring subsidies for people with a disability: Evidence from a small‐scale social field experiment	International Labour Review
+W2059614883	0	2		2011	False	25	0.93183683	True	False	Does ‘Work for the Dole’ work?: an Australian perspective on work experience programmes	Applied Economics
+W2894083957	0	2		2018	False	25	0.94940719	True	False	La Garantie européenne pour la jeunesse	Travail et emploi
+W1514952670	1	1	young unemployed	2017	False	24		True	False	Policy discontinuity and duration outcomes	
+W2493185534	2	0		2016	False	24	0.88955613	True	False	Do youths graduating in a recession incur permanent losses?	IZA World of Labor
+W2913721347	0	2	active labour market	2019	False	24	0.97171561	True	False	Does on-the-job training help graduates find a job? Evidence from an Italian region	International Journal of Manpower
+W4406870473	0	2	employment subsid;active labor market	2025	False	24	0.99926967	True	True	Fiscal Policy Instruments for Inclusive Labor Markets: A Review	Journal of Economic Surveys
+W220672848	2	0	youth unemployment	2014	False	23		True	False	Effects of Payroll Tax Cuts for Young Workers	RePEc: Research Papers in Economics
+W1982858095	1	1	active labour market	2005	False	22	0.87684231	True	False	An evaluation of government- sponsored vocational training programmes for the unemployed in urban Russia	Cambridge Journal of Economics
+W3122492240	0	2	active labour market	2007	False	22	0.95632783	True	False	Compulsion in active labour market programmes	National Institute Economic Review
+W3123159384	0	2	subsidized employment	2010	False	22	0.95202891	True	True	Temporary Extra Jobs for Immigrants: Merging Lane to Employment or Dead‐End Road in Welfare?	Labour
+W3167649561	2	0		2004	False	22	0.9905522	True	False	Föreställningar om praktik som åtgärd för invandrares integration och socialisation i arbetslivet	
+W2077619246	0	2		2009	False	20	0.90793832	False	False	Stepping-stones, dead-ends, or both? An analysis of Swedish replacement contracts	Empirical Economics
+W2243526745	0	2		2010	False	20	0.91043739	False	False	Subsidizing low-skilled jobs in a dual labor market	Labour Economics
+W3024395877	0	2		2020	False	20	0.8899805	True	False	Effects of active labour-market policies on welfare state finances	Journal of International and Comparative Social Policy
+W3168529859	0	2	active labor market	2020	False	20	0.92540107	True	False	Mitigating Long-Term Unemployment in Europe	IZA Journal of Labor Policy
+W2104252187	0	2		2009	False	19		False	False	Do German Welfare-to-Work Programmes Reduce Welfare and Increase Work?	SSRN Electronic Journal
+W2995682799	0	2	youth unemployment;active labour market	2019	False	19	0.89140387	True	True	Youth‐oriented active labour market policies and economic crisis: Explaining policy effort in Greece and Portugal	International Social Security Review
+W2959368943	0	2	wage subsid;employment subsid;subsidized employment;youth unemployment;young unemployed;unemployed youth;active labour market	2014	True	18	0.4186551	True	True	PROTOCOL: Interventions to Improve Labour Market Outcomes of Youth: A Systematic Review of Active Labour Market Programmes	Campbell Systematic Reviews
+W3127839451	0	2	active labour market	2021	False	18	0.91814421	True	False	An analysis of participation factors and effects of the active labour market measure Graduate practice in Slovakia – Counterfactual approach	Evaluation and Program Planning
+W2793145069	0	2		2018	False	16	0.90559928	True	False	The role of non-formal lifelong learning at different points in the business cycle	International Journal of Manpower
+W2788524577	0	2		2018	False	16		False	False	What If Supply-Side Policies are Not Enough? The Perverse Interaction of Flexibility and Austerity	SSRN Electronic Journal
+W2884997001	0	2		2018	False	16	0.9751634	False	False	Emotional Intelligence and Youth Career Readiness	Plenum series on human exceptionality
+W2886089866	2	0		2018	False	16	0.89753911	False	False	Can supporting workplace insertions of unemployed recent graduates improve their long-term employability?	Empirica
+W1929954116	0	2		2012	False	15		True	False	An Overview of Australia's System of Income and Employment Assistance for the Unemployed	OECD social employment and migration working papers
+W2121442804	0	2		2006	False	14	0.88561268	True	False	Do government sponsored vocational training programmes help the unemployed find jobs? Evidence from Russia	Applied Economics Letters
+W2124212553	1	1	active labour market	2013	False	14	0.76042517	True	False	‘Beautiful Serbia’ ‐ objective and subjective outcomes of active labour market policy in a transition economy	Economics of Transition
+W2012474601	2	0		2014	False	13	0.92060602	True	False	Experimental Evidence From Active Placement Efforts Among Unemployed in Sweden	Evaluation Review
+W2118678511	0	2	active labour market	2013	False	13		False	False	Do Firms Benefit from Active Labour Market Policies?	SSRN Electronic Journal
+W2166003217	0	2		2012	False	13	0.88429659	True	False	Effects of Public Job Training Programmes on the Employment Outcome of Displaced Workers: Results of a Matching Analysis, a Fixed Effects Model and an Instrumental Variable Approach Using Korean Data	Pacific Economic Review
+W2197830460	1	1	wage subsid	2016	False	13	0.85058856	False	False	Worker-level and firm-level effects of a wage subsidy program for highly educated labor: Evidence from Denmark	Research Policy
+W2975689324	2	0		2019	False	13	0.87355322	True	False	Interpreting Experimental Evidence in the Presence of Postrandomization Events: A Reassessment of the Self-Sufficiency Project	Journal of Labor Economics
+W3081690471	0	2		2019	False	13		True	False	Using Household Grants to Benchmark the Cost Effectiveness of a USAID Workforce Readiness Program	AEA Randomized Controlled Trials
+W3122093828	0	2		2007	False	13		False	False	Long-Run Effects of Training Programs for the Unemployed in East Germany	SSRN Electronic Journal
+W3162892513	2	0		2021	False	13	0.88856864	True	False	Long-Term Employment Effects from Job Losses during the COVID-19 Crisis? A Comparison to the Great Recession and Its Slow Recovery	AEA Papers and Proceedings
+W4304688743	0	2	active labor market	2022	False	13	0.93749413	True	False	IMF Engagement on Social Safety Net Issues in Surveillance and Program Work	Technical Notes and Manuals
+W4385772237	0	2		2021	False	13	0.93346774	True	False	World Economic Outlook, April 2021	International Monetary Fund eBooks
+W1688237029	1	1	unemployed youth	2014	False	12		True	False	Testing the Importance of Search Frictions, Matching, and Reservation Prestige through Randomized Experiments in Jordan	
+W1987144840	0	2		2011	False	12	0.90052971	False	False	Insurance and Prevention: Ethical Aspects	The Journal of Primary Prevention
+W2106164007	1	1	active labour market	2015	False	12	0.85650203	True	False	Policy evaluation via a statistical control: A non-parametric evaluation of the ‘Want2Work’ active labour market policy	Economic Modelling
+W2906025098	0	2		2020	False	12	0.85654568	True	False	Distributional effects of welfare reform for young adults: An unconditional quantile regression approach	Labour Economics
+W2921788686	0	2	employment subsid	2019	False	12	0.93623028	True	True	Varieties of Employment Subsidy Design: Theory and Evidence from Across Europe	Journal of Social Policy
+W3198614355	2	0		2021	False	12	0.87312538	False	False	The longer term impact of hiring credits. Evidence from France	Labour Economics
+W4233662480	0	2		2020	False	12		True	False	Job Search and Hiring with Two-sided Limited Information about Workseekers’ Skills	
+W2118183300	0	2	wage subsid;employment subsid;subsidized employment	2013	False	11		True	True	How long and how much? Learning About the Design of Wage Subsidies from Policy Discontinuities a	RePEc: Research Papers in Economics
+W2488918252	0	2	active labor market	2008	False	11	0.86130099	True	False	Program participation, labor force dynamics, and accepted wage rates	Advances in econometrics
+W2554452089	2	0	active labour market	2014	False	11	0.75970518	True	False	ESTIMATING TREATMENT EFFECTS OF A TRAINING PROGRAMME IN SLOVAKIA USING PROPENSITY SCORE MATCHING	RePEc: Research Papers in Economics
+W2753677791	0	2	lønnstilskudd;arbeidsmarkedstiltak	2017	True	11	0.88586693	True	False	Effekter av arbeidsmarkedspolitikk rettet mot ungdom i Nord-Europa – en meta-analyse	Søkelys på arbeidslivet
+W2800326685	0	2	active labour market	2018	False	11	0.79130218	True	False	The Effects of Expenditures for Labour Market Policy on Unemployment Rate	Business Systems Research Journal
+W4294250967	0	2		2022	False	11	0.92739572	True	False	Participation Income	Edward Elgar Publishing eBooks
+W4386504823	0	2	active labour market	2023	False	11	0.87675927	True	False	What, for whom, and under what circumstances: Do activation policies increase youth employment in the EU?	Journal of European Social Policy
+W4391322075	0	2	wage subsid	2024	False	11	0.91365308	True	True	Which training leads to employment? The effectiveness of varying types of training programmes for unemployed jobseekers in Flanders	Journal of Social Policy
+W1920285834	0	2		2007	False	10		False	False	Optimal Use of Labour Market Policies	SSRN Electronic Journal
+W2120587010	0	2	active labour market	2011	False	10	0.96936819	True	False	The Effects of Municipal Policy Strategies on Social Assistance Inflow and Outflow in the Netherlands, 1999–2007	Environment and Planning C Government and Policy
+W2733646062	0	2		2017	False	10	0.86595494	True	False	Do high school graduates benefit from intensive vocational training?	International Journal of Manpower
+W2809477839	0	2		2018	False	10	0.98030598	False	False	Übergänge in Ausbildung und Arbeitsmarkt	Springer eBooks
+W2980537759	0	2		2021	False	10	0.77058249	True	False	How Do Firms Respond to Reduced Labor Costs? Evidence from the 2007 Swedish Payroll Tax Reform	Journal of Industry Competition and Trade
+W4312933714	0	2		2022	False	10	0.94871216	True	False	Labour market policies for inclusiveness	International Labour Office eBooks
+W1966509303	0	2		2009	False	9	0.84547511	False	False	Bidding for the unemployed: An application of mechanism design to welfare-to-work programs	European Economic Review
+W2767813566	0	2		2017	False	9	0.88076844	False	False	Youth Labour Market in Central and Eastern Europe	Springer eBooks
+W2958511957	0	2		2012	False	9	0.948668	False	False	PROTOCOL: Post-basic Technical and Vocational Education and Training (TVET) Interventions to Improve Employability and Employment of TVET Graduates in Low- and Middle-income Countries	Campbell Systematic Reviews
+W4317877720	0	2		2023	False	9		True	False	Do work search requirements work? Evidence from a UK reform targeting single parents	
+W2059761490	0	2		2015	False	8	0.87886407	True	False	The Value of Transferable Skills	Scottish Journal of Political Economy
+W2198221598	0	2	wage subsid;hiring subsid;subsidized employment;active labour market	2013	False	8		True	True	Subsidies for substitutes? New evidence on deadweight loss and substitution effects of a wage subsidy for hard-to-place job-seekers	RePEc: Research Papers in Economics
+W2264768339	1	1	active labour market	2016	False	8	0.81489313	True	False	Is there a rationale to contact the unemployed right from the start? Evidence from a natural field experiment	Labour Economics
+W2609177636	0	2		2017	False	8	0.86770487	True	False	Can public works programs reduce youth crime? Evidence from Papua New Guinea’s Urban Youth Employment Project	IZA Journal of Development and Migration
+W2799717538	0	2	youth unemployment;active labour market	2018	False	8	0.8320813	True	False	Can youth activation policies be central to social policies in MENA countries?	International Social Security Review
+W2943079796	0	2		2019	True	8	0.83333333	True	False	Meta-Analysis of the New Keynesian Phillips Curve in Developed and Emerging Economies	Emerging Markets Finance and Trade
+W3175514161	0	2	active labour market;active labor market	2021	False	8		True	False	Active labour market policies for the long-term unemployed: New evidence from causal machine learning	RePEc: Research Papers in Economics
+W4288611541	0	2		2019	False	8	0.87417794	False	False	A Field Experiment on Labor Market Speeddates for Unemployed Workers	The Journal of Human Resources
+W4408037442	0	2		2025	False	8	0.96109395	True	False	When do prevocational programs ease the transition to vocational education and training?	Vocations and Learning
+W107176538	0	2	hiring subsid	2013	False	7	0.88345205	True	True	Hiring subsidies for people with a disability: Helping or hindering? - Evidence from a small scale social field experiment	Alexandria (UniSG) (University of St.Gallen)
+W1590447354	0	2	active labour market	2012	False	7	0.2241956	True	False	Evaluation of an Active Labour Market Programme in a Context of High Unemployment	Revista Desarrollo y Sociedad
+W172398050	0	2	active labor market	2013	False	7		True	False	Active Labor Market Policies with an Impact Potential on Roma Employment in Five Countries of the EU	Open Research (Auckland University of Technology)
+W2626484688	0	2		2018	False	7	0.95114883	False	False	Retention and Reintegration of Older Workers into the Labour Market : What Works Best?	Springer eBooks
+W2917124245	1	1	young unemployed	2017	False	7	0.79683422	True	False	What are the treatment effects of a work-first participation programme on young unemployed people in the Netherlands?	Panoeconomicus
+W3123117120	0	2		2016	False	7		False	False	End-of-Year Spending and the Long-Run Employment Effects of Training Programs for the Unemployed	SSRN Electronic Journal
+W4212995781	0	2		2022	False	7	0.88015791	True	False	Show me the money! The impact of a conditional cash transfer on educational achievement	Empirical Economics
+W1549610421	0	2		2012	False	6	0.87164297	True	False	Infrastructure and Employment Creation in the Middle East and North Africa	World Bank, Washington, DC eBooks
+W171778617	0	2		2007	False	6	0.81662008	True	False	EVALUATING ALMP EVALUATIONS	
+W2113289683	0	2	youth unemployment	2015	False	6		False	False	Fixing Europe's Youth Unemployment and Skills Mismatch, Can Public Financial Support to SMEs Be Effective? The Case of the European Commission and European Investment Bank Joint Initiatives	SSRN Electronic Journal
+W2122776691	0	2	subsidised employment	2007	False	6	0.90700127	True	True	The effect of participation in subsidised employment on labour market transitions	
+W2148613351	1	1	active labour market	2020	False	6	0.00119951	True	False	Effectiveness of Public Training Programs Reducing the Time Needed to Find a Job	Studies of Applied Economics
+W2905676050	0	2		2018	False	6		False	False	Assessing Active Labour-Market Programs: How Effective Is Ontario Works?	SSRN Electronic Journal
+W3104279835	0	2		2020	False	6	0.82344828	True	False	The Role of Social Protection in Building, Protecting, and Deploying Human Capital in the East Asia and Pacific Region	World Bank, Washington, DC eBooks
+W425138337	0	2		2011	False	6		False	False	Improving DWP Assessment of the Relative Costs and Benefits of Employment Programmes	SSRN Electronic Journal
+W4389472862	0	2		2023	False	6	0.78892796	True	False	The Intended and Unintended Effects of Promoting Labor Market Mobility	The Review of Economics and Statistics
+W1575655456	0	2	active labour market	2010	False	5	0.87291349	True	False	Active Labour Market Programmes, Job Search and Job Finding in Denmark	Labour
+W1582575260	0	2		2010	False	5		False	False	Modelling the Impact of Labour Market Policies in the Netherlands	Digital Academic REpository of VU University Amsterdam (Vrije Universiteit Amsterdam)
+W2885792752	0	2		2018	False	5	0.83932323	True	False	Literature analysis of the evaluation of public training programmes in the USA, Europe and China: Implications for the evaluation of farmer training programmes in China	Pacific Economic Review
+W2942960465	0	2		2019	False	5	0.88643662	True	False	Bridging the gap from welfare to education: Propensity score matching evaluation of a bridging intervention	PLoS ONE
+W4308447033	0	2		2022	False	5	0.74895321	False	False	Making Activation for Young Welfare Recipients Mandatory	Labour
+W2109950602	0	2	young unemployed	2017	False	4		True	False	The matching method for treatment evaluation with selective participation and ineligibles	
+W2162520565	0	2	active labour market	2010	False	4		True	False	Combining Matching and Nonparametric IV Estimation: Theory and an Application to the Evaluation of Active Labour Market Policies	RePEc: Research Papers in Economics
+W2245548153	0	2		2012	False	4		True	False	Preliminary assessment of training and retraining programmes implemented in response to the Great Recession	RePEc: Research Papers in Economics
+W4221084434	0	2		2022	False	4	0.73472255	True	False	Programmes de stage et accès à l’emploi : une application à la Convention nationale État-employeurs du secteur privé au Sénégal	Revue d économie du développement
+W4388484428	0	2	young unemployed;unemployed youth;active labor market	2023	False	4	0.75778161	True	True	The effects of more intensive counseling for disadvantaged unemployed youth	IZA Journal of Labor Policy
+W4392788361	0	2		2024	False	4	0.91805058	True	False	Does employment assistance promote employment of the impoverished in China? Evidence from a mixed methods approach	Social Policy and Administration
+W4400653556	0	2		2024	False	4	0.8046059	False	False	Impact of job training program on employment outcomes in Senegal	SN Business & Economics
+W1803118918	0	2	active labour market	2008	False	3		True	False	Active Labour Market Policies in Denmark: A Comparative Analysis of Post-Program Effects	Munich Personal RePEc Archive (Ludwig Maximilian University of Munich)
+W2188525181	0	2		2013	False	3	0.29576627	True	False	Necessity Entrepreneurship : Individual, Environmental and Public Policy-Related Factors Influencing the Process of Opportunity Exploitation under Unfavorable Circumstances	Infoscience (Ecole Polytechnique Fédérale de Lausanne)
+W2768002551	0	2		2017	False	3	0.93716522	False	True	The Evaluation of a Finnish Youth Guarantee: Lessons for Europe?	Springer eBooks
+W2803335770	0	2	active labour market	2018	False	3	0.71351998	True	True	Incentive Effects of Cash Benefits among Young People. A Natural Experiment from Norway	Journal of Social Policy
+W2981539116	0	2	wage subsid;active labor market	2019	False	3		True	True	Active Labor Market Policies in a Context of High Informality: The Effect of PAE in Bolivia	
+W3160545421	0	2		2021	False	3		True	False	Adolescent girls’ and young women’s economic empowerment programs: Emerging insights from a review of reviews	
+W4224440690	0	2	young unemployed;active labour market	2022	False	3	0.68285383	True	False	Allowance for School Graduate Practice Performance in Slovakia: Impact Evaluation of the Intervention	Mathematics
+W4288082122	0	2	active labour market	2022	True	3	0.81071026	True	False	Why should we integrate income and employment support?	International Labour Office eBooks
+W4312056710	0	2		2022	False	3	0.711153	False	False	One (program) for all or all (programs) for one: Evaluation of the employment program opportunity for all of the federation of Bosnia and Herzegovina	Economic Systems
+W4396652126	0	2	wage subsid	2024	False	3	0.7553641	True	True	Temporary wage subsidies and post-COVID re-employment in Morocco: a regression discontinuity approach	International Review of Applied Economics
+W1537571225	1	1	employment subsid	2014	False	2		True	False	How Targeted is Targeted Tax Relief? Evidence from the Unemployment Insurance Youth Hires Program	RePEc: Research Papers in Economics
+W1576984043	0	2	subsidized employment;active labor market	2012	False	2	0.22075841	True	False	Impact of Active Labor Market Programs on Employment: Albania’s Case	Journal of Knowledge Management, Economics and Information Technology
+W2139817359	1	1	wage subsid;active labor market	2004	False	2		True	True	On the welfare effect of a wage subsidy on youth labor: Italy's CFL program	RePEc: Research Papers in Economics
+W2159986456	0	2		2009	False	2	0.79224437	True	False	Optimal Size and Intensity of Job Search Assistance Programs	Alexandria (UniSG) (University of St.Gallen)
+W2743282249	0	2	wage subsid;active labour market	2017	True	2	0.80077689	True	False	Evidence Review on Labour Market and Job Place Retention: Mentoring Pathways Towards Employment	Journal of Organisational Transformation & Social Change
+W2753647445	0	2		2017	False	2		True	False	Can Public Works Programs Reduce Youth Crime? Evidence from Papua New Guinea's Urban Youth Employment Project	World Bank, Washington, DC eBooks
+W2901011566	0	2		2018	False	2	0.18418732	True	False	Is labour market policy heading for social investment in European countries?	Zeitschrift für Sozialreform
+W3011131396	0	2		2008	False	2		True	False	Vaikuttavaa tutkimusta - miten arviointitutkimus palvelee päätöksenteon tarpeita?	Doria (University of Helsinki)
+W3087778966	0	2	active labour market	2022	False	2	0.67454645	True	False	Evaluating hiring incentives: evidence from Italian firms	International Journal of Manpower
+W3154060333	0	2	youth unemployment	2020	False	2	0.77047722	True	False	Youth Unemployment in Uruguay	IMF Working Paper
+W3189211478	0	2	active labour market	2021	False	2	0.89481427	True	False	Case study E: Labour market policies in MENA countries	Edward Elgar Publishing eBooks
+W3193267938	0	2		2021	False	2	0.82943871	True	False	Health effects of unemployment in couples:	Policy Press eBooks
+W4214806682	0	2		2022	False	2	0.49233262	True	False	Spain: Selected Issues	IMF Staff Country Reports
+W4385893594	0	2	unemployed youth;active labour market	2023	False	2	0.6516629	True	False	Professional traineeship programme as a tool facilitating participation of unemployed youth in the labour market: Case study of the Republic of Serbia	Ekonomika preduzeca
+W4400302359	0	2	unemployed youth	2024	False	2	0.70254623	True	False	Bridging gaps, building futures: evaluating a multinational’s employment programme vs. work-first for youth with diverse education levels	Journal of Youth Studies
+W4401454817	0	2	active labour market	2024	False	2	0.70854598	True	False	Supporting the right workplace experience: a dynamic evaluation of three activation programmes for young job seekers in Slovakia	Journal for Labour Market Research
+W4405389700	0	2		2024	False	2	0.73156634	False	False	Empirical Tests on Intermediation Programmes and Labour Market Accessibility in Morocco: A Comparative Study	Indian Journal of Labour Economics
+W2277979578	0	2		2005	False	1		True	False	Do Government Sponsored Vocational Training Programs Help the Unemployed Find Jobs? Evidence from Russia	
+W2757395145	0	2		2017	False	1	0.17842145	True	False	Subsidios a la contratación de personas con discapacidades. Resultados de un pequeño experimento de campo	Revista Internacional del Trabajo
+W2757570745	0	2		2017	False	1	0.17879433	True	False	Subventions à l'embauche et handicap: les enseignements d'une expérience à petite échelle	Revue internationale du Travail
+W2995329944	0	2		2019	False	1	0.23966509	True	False	Too Much Stick for the Carrot? Job Search Requirements and Search Behaviour of Unemployment Benefit Claimants	The B E Journal of Economic Analysis & Policy
+W3096479810	0	2	active labour market	2020	False	1		True	False	Employability Development Theory: Policy Implications for Supporting Youth at Risk of Limited Employment (YARLE)	
+W3135918824	0	2		2021	False	1	0.58647204	False	False	The Effect of Subsidies to Mature-Age Employment: a Quasi-Experimental Analysis	Journal of Labor Research
+W4232342879	0	2		2016	False	1	0.44702574	True	False	Social spending	Society at a glance
+W4235023547	0	2		2017	False	1	0.90734446	True	False	Jeunes sans emploi et sortis du système éducatif : quelles mesures adopter ?	Panorama de la société
+W4240202292	0	2	active labour market;active labor market	2021	False	1		True	False	Reframing active labor market policy: Experimental evidence of training vouchers for unemployed	AEA Randomized Controlled Trials
+W4280564154	0	2	active labour market	2022	False	1	0.71971957	True	False	Impact evaluation of the graduate practice intervention using the cart method	Business and management
+W4289841916	0	2	active labor market	2022	False	1	0.88536216	True	False	Research on active social policy	Edward Elgar Publishing eBooks
+W4297817559	0	2	arbeidsmarkedstiltak	2022	False	1	0.73706897	True	False	Mulighetsrom i aktiveringsprosesser med unge: En studie av samtaler mellom Nav-veiledere og unge voksne i marginale arbeidsmarkedsposisjoner	
+W4285281594	0	2		2022	False	1		False	False	An Impact Assessment of Esf Training Courses for Unemployed in the Province of Bolzano	SSRN Electronic Journal
+W4291002202	0	2	youth unemployment;active labour market	2022	False	1		True	False	The Political Economy of Active Labour Market Policy for Young People : A comparative analysis of the effects of employers, employers’ organisations and collective training systems on the use of youth ALMPs in European countries between 1998 and 2014	
+W4309836829	0	2	active labour market	2022	False	1	0.20859498	True	False	Usluge tržišta rada	Revija za socijalnu politiku
+W4378234396	0	2	active labour market	2023	False	1	0.53496618	True	False	Impact Evaluation of the Graduate Practice Intervention in Slovakia with the Application of the CART Method	TalTech Journal of European Studies
+W4403423830	0	2		2024	False	1	0.95263724	False	False	The European Labour Market Recovery: Policy Responses During and After the COVID-19 Crisis	Contributions to economics
+W4414807758	0	2	active labour market	2025	False	1	0.74184912	True	False	The influence of active labour market policies on improving the income conditions of self-employed workers	International Review of Economics
+W4412581431	0	2		2025	False	1		False	False	The Effect of Subsidies on Training: Evidence from the United States	SSRN Electronic Journal
+W124694571	0	2		2009	False	0	0.03918289	True	False	Modelling of Labour Markets in the European Union Final Report Part I - A Survey	
+W2185578212	0	2		2014	False	0		False	False	Essays on Job Search Assistance	
+W2187693846	0	2	active labor market	2004	False	0		False	False	ABSTRACT Effective Active Labor Market Policies	
+W2212467543	0	2		2012	False	0	0.34199032	True	False	Examining changes to welfare policy: paternalistic workfare in Australia and the UK	Swinburne figshare (Swinburne University of Technology)
+W2340156168	0	2	wage subsid;unemployed youth;active labor market	2014	False	0	0.36711806	True	True	Empirical essays on job search behavior, active labor market policies, and propensity score balancing methods	
+W2775692571	0	2		2017	False	0		False	False	Subsidising Mature Age Employment or Throwing Coins into a Wishing Well: A Quasi-Experimental Analysis	SSRN Electronic Journal
+W2907523721	0	2		2018	False	0	0.16916815	True	False	Linking research and policy for local economies	Edward Elgar Publishing eBooks
+W3037523455	0	2		2020	False	0	0.08121855	True	False	Evaluación de políticas públicas con métodos cuasi-experimentales: una aplicación a las políticas activas de empleo en la Comunidad Valenciana	Cuadernos Económicos de ICE
+W3105406543	0	2	hiring subsid	2020	False	0		True	True	Wages, Worker Mobility, and the Macroeconomy	TSpace (University of Toronto)
+W3113181446	0	2	youth unemployment;unemployed youth;active labour market	2019	False	0		True	False	Looking into the 'black box' : an exploration of the dynamics behind the success and failure of job training for unemployed youth	UEA Digital Repository (University of East Anglia)
+W4213345455	0	2	active labor market	2019	False	0	0.48276867	True	False	Republic of Lithuania	IMF Staff Country Reports
+W4233515008	0	2		2017	False	0	0.44492468	True	False	Pauvreté	Panorama de la société
+W4379513331	0	2		2023	False	0		False	False	Bibliographie sélective	Presses de Sciences Po eBooks
+W4387863472	0	2		2016	False	0		True	False	Society at a Glance 2016 (Summary in Portuguese)	Society at a glance
+W4388479611	0	2		2023	False	0	0.16475771	True	False	Regional Economic Outlook, Europe, November 2023	International Monetary Fund eBooks
+W4391915275	0	2	active labour market	2024	False	0		True	False	More money, more effect? Employment effects of job search programs in Veneto	
+W4394606868	0	2		2024	False	0	0.03502916	True	False	Marketing Promotional Tools and Customer Acquisition in Selected Tourism Centres in South-West, Nigeria	International Journal of Advanced Studies in Business Strategies and Management
+W4400635782	0	2		2017	False	0		False	False	La plupart des jeunes vivent avec leurs parents et les schémas ont évolué depuis la récession	Panorama de la société
+W4400635898	0	2		2017	False	0		False	False	Diminution progressive de la consommation d'alcool chez les adultes dans la plupart des pays de l'OCDE	Panorama de la société
+W4400635959	0	2		2017	False	0		False	False	Augmentation des inégalités de revenu marchand entre 2007 et 2014	Panorama de la société
+W4400635971	0	2		2017	False	0		False	False	Les jeunes ont aujourd'hui plus de risques d'être pauvres que les seniors dans la plupart des pays de l'OCDE	Panorama de la société
+W4400635974	0	2		2017	False	0		False	False	Le taux d'emploi des jeunes met du temps à repartir à la hausse	Panorama de la société
+W4400636138	0	2		2017	False	0		False	False	De nombreux jeunes vivent dans des ménages percevant une aide sociale ou une allocation logement	Panorama de la société
+W4400636139	0	2		2017	False	0		False	False	Le revenu médian varie d'un facteur de 8, de 4 800 USD à 38 500 USD	Panorama de la société
+W4400636146	0	2		2017	False	0		False	False	L'évolution de la pauvreté diffère si le seuil est « ancré » au début de la crise	Panorama de la société
+W4400636147	0	2		2017	False	0		False	False	En moyenne, un jeune de 15 ans sur cinq déclare avoir déjà été en état d'ivresse au moins deux fois	Panorama de la société
+W4400636162	0	2		2017	False	0		False	False	L'impact de la crise et de la reprise sur le marché du travail a été fortement contrasté selon les pays	Panorama de la société
+W4400636163	0	2		2017	False	0		False	False	Les jeunes sans emploi et sortis du système éducatif ont plus de risques de souffrir de problèmes de santé	Panorama de la société
+W4400636164	0	2		2017	False	0		False	False	Baisse des dépenses publiques d'éducation en pourcentage du PIB entre 2010 et 2012.	Panorama de la société
+W4400636199	0	2		2017	False	0		False	False	Les jeunes sans emploi et sortis du système éducatif ont moins confiance en autrui, sont moins satisfaits de leur vie, moins intéressés par la politique et plus susceptibles de penser qu'il incombe à l'État de subvenir aux besoins des citoyens	Panorama de la société
+W4400636209	0	2		2017	False	0		False	False	Des dépenses de santé par habitant plus élevées s'accompagnent généralement d'une espérance de vie à la naissance plus longue, 2014 (ou année la plus proche)	Panorama de la société
+W4400636210	0	2		2017	False	0		False	False	Les coûts des jeunes sans emploi et sortis du système éducatif sont importants dans de nombreux pays de l'OCDE	Panorama de la société
+W4400636302	0	2		2017	False	0		False	False	Les taux de jeunes sans emploi et sortis du système éducatif sont particulièrement élevés chez les femmes à la fin de la vingtaine, souvent en raison de leurs obligations familiales	Panorama de la société
+W4400638111	0	2		2016	False	0		True	False	An even higher proportion of youth have poor numeracy skills	Society at a glance
+W4400638124	0	2		2016	False	0		True	False	Poorer households tended to lose more or gain less between 2007 and 2013	Society at a glance
+W4400638134	0	2		2016	False	0		True	False	Labour market entrants have much greater difficulties to find work than other young people	Society at a glance
+W4400638176	0	2		2016	False	0		True	False	Unemployment is on the decline, albeit slowly in some countries	Society at a glance
+W4400638177	0	2		2016	False	0		True	False	Disposable income has fallen most among youth between 2007 and 2013	Society at a glance
+W4400638184	0	2		2016	False	0		True	False	Suicide rates increase with age, except in the first years of retirement	Society at a glance
+W4400638192	0	2		2016	False	0		True	False	People satisfied with work-life balance are more happy	Society at a glance
+W4400638195	0	2		2016	False	0		True	False	Young people generally report higher levels of life satisfaction	Society at a glance
+W4400638196	0	2		2016	False	0		True	False	Worries in the labour market is higher for young people	Society at a glance
+W4400638204	0	2		2016	False	0		True	False	Many young people live in households receiving social assistance or housing benefits	Society at a glance
+W4400638225	0	2		2016	False	0		True	False	Decline in public education spending in percentage of GDP between 2010 and 2012	Society at a glance
+W4400638263	0	2		2016	False	0		True	False	Childcare costs are around 15% of net family income across the OECD	Society at a glance
+W4400638281	0	2		2016	False	0		True	False	Increase in recipients of primary out-of-work benefits in most OECD countries since 2007	Society at a glance
+W4400638293	0	2		2016	False	0		True	False	The share of unemployed people covered by benefits is lower among young people than prime-age adults	Society at a glance
+W4400638300	0	2		2016	False	0		True	False	Nordic countries tend to report higher levels of trust	Society at a glance
+W4400638309	0	2		2016	False	0		True	False	Proportions of young people (16-29) in receipt of unemployment and disability benefits are generally low	Society at a glance
+W4400638313	0	2		2016	False	0		True	False	One in four young people in OECD not at all interested in politics	Society at a glance
+W4400638369	0	2		2016	False	0		True	False	Large differences in levels of income inequality	Society at a glance
+W4400638375	0	2		2016	False	0		True	False	A substantial proportion of youth in the OECD have poor literacy skills	Society at a glance
+W4400638432	0	2		2016	False	0		True	False	The evolution of poverty differs if the threshold is anchored at the time of the crisis	Society at a glance
+W4400638440	0	2		2016	False	0		True	False	There are wide differences between countries in rates of participation in vocational education and training courses	Society at a glance
+W4405520088	0	2		2024	False	0		False	False	Afraid of Automation? Choose Your Training Carefully	SSRN Electronic Journal
+W4405539975	0	2		2024	False	0		False	False	Afraid of Automation? Choose Your Training Carefully	SSRN Electronic Journal
+W4407770588	0	2		2024	False	0		True	False	Az álláskeresőknek meghírdetett felnőttképzés vizsgálata Borsod-Abaúj-Zemplén Vármegyében	
+W4408210117	0	2		2025	False	0		False	False	Macroceconomic Policy Evaluation with a Novel Instrument	SSRN Electronic Journal
+W4410154629	0	2		2025	False	0		False	False	Do Financial Incentives for Training and Caseworker Meetings Enhance Re-Employment?	SSRN Electronic Journal
+W4410231838	0	2		2025	False	0		False	False	Do Financial Incentives for Training and Caseworker Meetings Enhance Re-Employment?	SSRN Electronic Journal
+W4410766473	0	2	active labour market	2025	False	0		True	False	More money, more effect? Employment effects of job search services of different intensity	
+W4411355772	0	2	active labour market	2025	False	0	0.11197573	True	True	Evaluating active labour market programmes: Possibilities for youth employment in Indonesia and beyond	The Economic and Labour Relations Review
+W4412694481	0	2		2025	False	0		False	False	The Effect of the End of Hiring Incentives on Job and Employment Security	SSRN Electronic Journal
+W4414822869	0	2	active labour market;active labor market	2025	False	0	0.20309231	True	False	Achieving the Goals of the Human Capital Operational Programme in the Romanian Labour Market—Evidence from a Causal Inference Analysis	Eastern European Economics
+W4417027654	0	2		2025	False	0	0.26946902	True	False	Skills Training Programmes for Unemployed Workers in Developed Economies	Labour
+W4417445258	0	2		2025	False	0	0.29843774	True	False	What Does Job Search Assistance Signal to Employers? Public Job Referral Schemes and Privatized Job Hunting for Long‐Term Jobseekers in Flanders	Industrial Relations A Journal of Economy and Society
+W7119824948	0	2		2026	False	0		False	False	Locking In or Pushing Out: The Caseworker Dilemma	SSRN Electronic Journal
+W7148289280	0	2		2018	False	0		True	False	Essays on the social inclusion of young people : family and labor market pathways	theses.fr (ABES)
+W7148755838	0	2		2018	False	0		True	False	Design and Delivery of Effective Activation Measures : what Works and for Whom?	theses.fr (ABES)
+W7149304318	0	2		2020	False	0		True	False	School-to-Work Transitions and Related Public Policies : Evidence from Field Experiments in France	theses.fr (ABES)
+W7151259557	0	2		2022	False	0		True	False	What Works? Evaluation of Three Public Policies in the Field of Labor and Public Economics	theses.fr (ABES)
+W7153345232	0	2		2026	False	0	0.20959615	True	False	Aktif İşgücü Politikaları İşsizlikle Mücadelede Ne Kadar Etkili? Türkiye İçin Nicel Bir Etki Analizi	Uluslararası Ekonomi ve Yenilik Dergisi
+W7219347327	0	2	unemployed youth	2026	False	0	0.73001803	True	False	Analysis of the Effectiveness of Youth Employment Programs and Organizational-Economic Instruments Implemented by the Youth Affairs Agency	American Journal of Economics and Business Management
+W2094993328	1	0	active labor market	2004	False	1048	0.9989995	True	False	An Evaluation of the Swedish System of Active Labor Market Programs in the 1990s	The Review of Economics and Statistics
+W2120937813	1	0	youth unemployment	2005	False	564	0.9794762	False	False	The wage scar from male youth unemployment	Labour Economics
+W2111583974	1	0	active labour market	2002	False	478		False	False	What Works and for Whom: A Review of OECD Countries' Experiences with Active Labour Market Policies	SSRN Electronic Journal
+W2067117805	1	0	youth unemployment	2001	False	436	0.99051722	True	False	The Impact of Youth Unemployment on Adult Unemployment in the NCDS	The Economic Journal
+W1894316522	0	1	youth unemployment	2010	False	338		True	False	Rising Youth Unemployment During The Crisis	OECD social employment and migration working papers
+W3122722471	1	0	youth unemployment	2009	False	311	0.99669461	True	False	Youth Unemployment and Crime in France	Journal of the European Economic Association
+W1979710110	1	0	youth unemployment;active labour market	2012	False	307	0.99825455	True	False	Youth unemployment rate and impact of financial crises	International Journal of Manpower
+W2168999243	1	0	active labor market	1997	False	233	0.98981629	True	False	The Welfare State in Transition	University of Chicago Press eBooks
+W2973784195	1	0	youth unemployment	2015	False	218		True	False	Global employment trends for youth 2015: scaling up investments in decent jobs for youth	RePEc: Research Papers in Economics
+W2171066632	0	1	wage subsid	2009	False	214		True	False	A Good Time for Making Work Pay? Taking Stock of In-Work Benefits and Related Measures across the OECD	OECD social employment and migration working papers
+W2128492593	1	0	active labour market	2015	False	209	0.99980321	True	True	Activation and active labour market policies in OECD countries: stylised facts and evidence on their effectiveness	IZA Journal of Labor Policy
+W2127381822	1	0	wage subsid	1985	False	197	0.95727202	True	False	Are Targeted Wage Subsidies Harmful? Evidence from a Wage Voucher Experiment	Industrial and Labor Relations Review
+W3121601741	0	1	wage subsid	2012	False	186	0.99446498	False	True	The employment effects of low-wage subsidies	Journal of Public Economics
+W2103606118	0	1	youth unemployment	2013	False	179	0.99356973	True	False	Youth Unemployment and Vocational Training	Foundations and Trends® in Microeconomics
+W2104120593	1	0	youth unemployment	1997	False	159	0.90161373	True	False	The challenge of youth unemployment	International Social Security Review
+W2140015881	1	0	active labour market	2008	False	153	0.99430773	True	False	Turning Unemployment into Self‐Employment: Effectiveness of Two Start‐Up Programmes*	Oxford Bulletin of Economics and Statistics
+W4240227827	1	0	active labor market	2007	False	146	0.98624595	False	False	Active Labor Market Policies in Europe	Springer eBooks
+W1608116343	1	0	wage subsid;young unemployed	2017	False	136		True	True	Evaluating the employment impact of a mandatory job search assistance program	
+W1517499775	0	1	active labour market	2008	False	135	0.9969129	True	False	The employment effects of job-creation schemes in Germany: A microeconometric evaluation	Advances in econometrics
+W1493919498	1	0	youth unemployment	2003	False	132		False	False	Youth Unemployment in the OECD: Demographic Shifts, Labour Market Institutions, and Macroeconomic Shocks	SSRN Electronic Journal
+W1972834551	0	1	youth unemployment	2007	False	130	0.97825421	True	False	Crime and Unemployment in Turbulent Times	Journal of the European Economic Association
+W1975878785	1	0	active labour market;active labor market	1995	False	127	0.98589004	True	False	Macroeconomic Effects of Active Labour Market Programmes in a Union Wage- Setting Model	The Economic Journal
+W2159784070	0	1	youth unemployment	2013	False	119	0.99506924	True	False	Youth unemployment in old Europe: the polar cases of France and Germany	IZA Journal of European Labor Studies
+W2154646007	1	0	active labour market;active labor market	2005	False	119	0.99867917	True	False	Active Labour Market Policies around the World: Coping with the Consequences of Globalization	
+W2878163005	0	1	active labour market	2018	False	119		True	False	How demanding are activation requirements for jobseekers	OECD social employment and migration working papers
+W1482488106	1	0	active labor market	1994	False	113		True	False	An Evaluation of the Swedish Active Labor Market Policy: New and Received Wisdom	National Bureau of Economic Research
+W2020937758	0	1	active labor market	2004	False	108		False	True	Effective Active Labor Market Policies	SSRN Electronic Journal
+W3123118817	1	0	wage subsid	2003	False	106		True	True	Evaluating the Employment Impact of a Mandatory Job Search Programme	RePEc: Research Papers in Economics
+W2059348407	0	1	active labour market	2007	False	104	0.99214833	True	False	Active labour market policy, international organizations and domestic politics	Journal of European Public Policy
+W1965203923	0	1	wage subsid;active labour market	2014	True	100	0.74097136	True	True	What active labour market programmes work for immigrants in Europe? A meta-analysis of the evaluation literature	IZA Journal of Migration
+W2118000104	0	1	active labour market	2010	False	98	0.98332839	True	False	What explains high unemployment among low-skilled workers? Evidence from 21 OECD countries	European Journal of Industrial Relations
+W3212057032	0	1	active labour market	2021	False	97	0.98331086	True	False	Fixing capitalism’s good jobs problem	Oxford Review of Economic Policy
+W2143742777	1	0	wage subsid;youth unemployment	2012	False	90		True	True	Soft Skills or Hard Cash? The Impact of Training and Wage Subsidy Programs on Female Youth Employment in Jordan	World Bank, Washington, DC eBooks
+W2792611519	0	1	youth unemployment	2018	False	88	0.99290625	True	False	‘Scarred’ young entrepreneurs. Exploring young adults’ transition from former unemployment to self-employment	Journal of Youth Studies
+W2034544897	1	0	active labour market	2009	False	85	0.98760108	True	False	Active labour market policy in East Germany	Economics of Transition
+W2170424209	0	1	active labor market	2011	False	73	0.93741546	True	False	Welfare state policy determinants of fertility level: A comparative analysis	Journal of European Social Policy
+W1904182075	1	0	wage subsid;active labor market	1999	False	72		True	False	Active labor market programs: a review of the evidence from evaluations	RePEc: Research Papers in Economics
+W2108320279	1	0	active labor market	2000	False	72		False	False	The Impact of Active Labor Market Programs and Benefit Entitlement on the Duration of Unemployment	SSRN Electronic Journal
+W2137638584	0	1	active labour market	2011	False	71	0.99648192	True	False	Europeanization and the political economy of active labour market policies	European Union Politics
+W2742169252	1	0	active labour market	2017	False	71		True	False	Rising to the youth employment challenge: New evidence on key policy issues	
+W3123931663	1	0	wage subsid	2002	False	71		True	True	Learning-By-Doing Vs. On-the-Job Training: Using Variation Induced by the EITC to Distinguish Between Models of Skill Formation	National Bureau of Economic Research
+W2569027475	0	1	wage subsid	2019	False	66	0.97981188	True	True	Labor Drops: Experimental Evidence on the Return to Additional Labor in Microenterprises	American Economic Journal Applied Economics
+W2561297055	0	1	youth unemployment	2016	False	64	0.98798967	True	False	The short- and long-run impacts of financial crises on youth unemployment in OECD countries	Applied Economics
+W3125614443	1	0	wage subsid;employment subsid	2006	False	61	0.98518205	True	True	Comparing the Effectiveness of Employment Subsidies	
+W4206031054	0	1	active labor market	2010	True	61		True	True	Active Labor Market Policy Evaluations: A Meta-Analysis	National Bureau of Economic Research
+W1493067109	1	0	active labour market	2003	False	60		True	False	Statistically Assisted Programme Selection - International Experiences and Potential Benefits for Switzerland	RePEc: Research Papers in Economics
+W2316791283	0	1	youth unemployment;active labour market	2012	False	57	0.98449634	True	False	Youth Unemployment in Europe. Theoretical Considerations and Empirical Findings	
+W1975855286	1	0	wage subsid	1993	False	56	0.9221482	False	False	Experimental estimates of the impact of wage subsidies	Journal of Econometrics
+W2410171741	0	1	youth unemployment	2016	False	56	0.97753838	True	False	Euro, crisis and unemployment: Youth patterns, youth policies?	Economic Modelling
+W26734890	1	0	active labor market	2002	False	56	0.99483506	True	True	Evaluating Social Programs: Active Labor Market Policies and Social Insurance	
+W3199197706	0	1	active labour market	2021	False	55		True	False	Institutional set-up of active labour market policy provision in OECD and EU countries	OECD social employment and migration working papers
+W1624252359	0	1	active labour market	2009	False	54		True	False	Activation Policies in Finland	OECD social employment and migration working papers
+W2268271869	1	0	active labour market	2014	False	54		True	True	Activation and Active Labour Market Policies in OECD Countries: Stylized Facts and Evidence on their Effectiveness	RePEc: Research Papers in Economics
+W2053723179	1	0	active labor market	2000	False	53	0.97216497	True	False	Evaluating public sector sponsored training in East Germany	Oxford Economic Papers
+W2159961158	0	1	active labour market	2008	False	53		False	False	Estimating the Threat Effect of Active Labour Market Programmes	SSRN Electronic Journal
+W2165777212	0	1	active labour market	2007	False	53		True	True	Are there pre-programme effects of Swedish active labour market policies? - Evidence from three randomised experiments †	RePEc: Research Papers in Economics
+W2119305120	0	1	employment subsid;active labour market	2002	False	52		True	True	Swedish active labour market programmes in the 1990s: overall effectiveness and differential performance	Working paper series - Institute for Fiscal Studies/Working papers
+W2802247981	0	1	wage subsid;active labor market	2017	False	51		True	True	How Effective Are Active Labor Market Policies in Developing Countries? A Critical Review of Recent Evidence	World Bank, Washington, DC eBooks
+W3121209794	0	1	active labor market	2017	False	49	0.98098257	True	False	Are the Spanish Long-Term Unemployed Unemployable?	SERIEs
+W3125102732	0	1	active labour market	2007	False	49	0.9907514	True	False	An Efficiency Comparison of Regional Employment Offices Operating under Different Exogenous Conditions	Zeitschrift für schweizerische Statistik und Volkswirtschaft/Schweizerische Zeitschrift für Volkswirtschaft und Statistik/Swiss journal of economics and statistics
+W3124513617	1	0	active labor market	2006	False	49		False	False	Active Labor Market Policy Effects for Women in Europe: A Survey	SSRN Electronic Journal
+W1182849780	0	1	youth unemployment	2014	False	48	0.97717402	True	False	Youth Unemployment in Advanced Economies in Europe	IMF staff discussion note
+W1522349640	1	0	active labor market	2003	False	47		True	True	Employment, Mobility, and Active Labor Market Programs	RePEc: Research Papers in Economics
+W2622995802	0	1	active labour market	2017	False	47	0.9855805	True	True	Youth‐oriented Active Labour Market Policies: Explaining Policy Effort in the Nordic and the Baltic States	Social Policy and Administration
+W1987245889	0	1	active labour market	2012	False	45	0.99076451	True	False	Vocational training, employability and the post-2008 jobs crisis: Responses in the European Union	Economic and Industrial Democracy
+W2107219359	1	0	active labor market	2001	False	43	0.98198037	True	False	Do active labor market policies help unemployed workers to find and keep regular jobs?	ZEW economic studies
+W2000221291	0	1	active labour market	2011	False	42	0.89420892	True	False	Is participation in labour market programmes related to mental health? Results from a 14-year follow-up of the Northern Swedish Cohort	Scandinavian Journal of Public Health
+W2063236072	0	1	active labor market	2006	False	42	0.95999892	False	False	Active labor market policy in Germany—Is there a successful policy strategy?	Regional Science and Urban Economics
+W2096130814	0	1	active labour market	2014	False	42	0.97936633	True	False	The capacity of social policies to combat poverty among new social risk groups	Journal of European Social Policy
+W2746514927	0	1	youth unemployment	2018	False	42	0.94203447	True	False	What drives youth unemployment in Europe? Economic vs non‐economic determinants	International Labour Review
+W180100927	1	0	wage subsid;youth unemployment	2014	False	41		True	True	Wage subsidies and youth employment in South Africa: Evidence from a randomised control trial	RePEc: Research Papers in Economics
+W2166389048	0	1	active labor market	2002	False	41		True	False	The Locking-in Effect of Subsidized Jobs	SSRN Electronic Journal
+W2217815509	0	1	active labour market	2015	True	41	0.96730904	True	False	Evaluating What Works for Whom in Active Labour Market Policies	European Journal of Social Security
+W2912404539	1	0	active labour market	2019	False	41	0.98923277	True	True	The impact of the European Youth Guarantee on active labour market policies: A convergence analysis	International Journal of Social Welfare
+W2995245933	0	1	active labor market	2019	False	41	0.85267256	True	False	Are active labor market policies (cost-)effective in the long run? Evidence from the Netherlands	Empirical Economics
+W3121819164	1	0	active labor market	2009	False	41	0.97930615	False	False	Kids or courses? Gender differences in the effects of active labor market policies	Journal of Population Economics
+W4235048385	0	1	active labour market	2019	False	39	0.92959507	True	False	Integrating Immigrants into the Nordic Labour Markets	Nordic Council of Ministers eBooks
+W1487690981	1	0	wage subsid;young unemployed;active labour market	2003	False	38		True	True	Active Labour Market Policies and the British New Deal for the Young Unemployed in Context	National Bureau of Economic Research
+W1866830044	0	1	active labour market	2010	False	38	0.83150445	True	False	Does Active Labour Market Policy have an Impact on Social Marginalization?	Social Policy and Administration
+W1873891533	1	0	active labour market	2005	False	38	0.9207619	True	False	What works for whom? An analysis of active labour market programmes in Norway	International Journal of Social Welfare
+W2103777771	0	1	wage subsid	2008	False	38		False	True	Wage Subsidies for Needy Job-Seekers and Their Effect on Individual Labour Market Outcomes after the German Reforms	SSRN Electronic Journal
+W2156409118	0	1	active labour market	2015	False	38	0.95828095	True	False	Unemployment and subsequent employment stability: does labour market policy matter?	Socio-Economic Review
+W3125510222	1	0	active labor market	2010	False	37	0.9655883	True	True	Active Labor Market Programs for Youth : A Framework to Guide Youth Employment Interventions	World Bank, Washington, DC eBooks
+W105215330	0	1	active labour market	2007	False	36	0.99510071	True	False	In search of optimal labour market institutions	
+W1592350882	1	0	wage subsid	1991	False	36		True	False	The Employment and Earnings Impacts of the Targeted Jobs Tax Credit	
+W1984696809	1	0	active labour market	2002	False	36	0.23398329	True	False	THE HUNGARIAN LABOUR MARKET 2002	RePEc: Research Papers in Economics
+W2011853223	1	0	active labor market	1985	False	36	0.89552239	False	False	Active Labor Market Policy: An International Overview	Industrial Relations A Journal of Economy and Society
+W2117983964	0	1	active labour market	2007	False	36		True	False	Welfare reform in the UK: 1997 - 2007	Working paper series - Institute for Fiscal Studies/Working papers
+W3123287228	0	1	active labor market	2007	False	36	0.58967902	True	False	Evaluating active labor market programmes in Romania	Documentos de trabajo ( FEDEA )
+W1993862684	0	1	active labor market	2009	False	35	0.96672832	True	True	Bringing Unemployed Back to Work: Effective Active Labor Market Policies	De Economist
+W2137415436	0	1	active labor market	2009	False	35	0.98010571	True	False	The private consequences of public policies: active labor market policies and social ties in Europe	European Political Science Review
+W2141022589	0	1	active labour market	2007	False	35	0.98458134	True	False	The rise (and fall) of labour market programmes: domestic vs. global factors	Oxford Economic Papers
+W2269489658	1	0	active labour market	1999	False	34		True	False	Active Labour Market Policies in Poland: Human Capital Enhancement, Stigmatization or Benefit Churning?	SSRN Electronic Journal
+W2117604211	0	1	active labour market	2005	False	33		True	False	Aktive Arbeitsmarktpolitik in Deutschland: Bestandsaufnahme und Bewertung der mikroökonomischen Evaluationsergebnisse	RePEc: Research Papers in Economics
+W1585680984	0	1	active labor market	2011	False	32	0.99071207	True	False	Policies to Create and Destroy Human Capital in Europe	The MIT Press eBooks
+W2093174680	0	1	active labour market	2011	False	32	0.92828552	True	True	Asymmetric Effects of National-based Active Labour Market Policies	Regional Studies
+W2111938989	1	0	active labor market	2011	False	32		True	False	What active labor market policy works in a recession	RePEc: Research Papers in Economics
+W2119731697	0	1	wage subsid	2015	False	31	0.98381563	True	True	Do wage subsidies for disabled workers reduce their non-employment? - evidence from the Danish Flexjob scheme	IZA Journal of Labor Policy
+W2132894443	1	0	employment subsid;active labour market	2013	False	30	0.92260739	True	True	Tackling graduate unemployment in North Africa through employment subsidies: A look at the SIVP programme in Tunisia	IZA Journal of Labor Policy
+W2755463639	1	0	active labor market	2017	False	30	0.91632268	False	False	Dynamic treatment assignment and evaluation of active labor market policies	Labour Economics
+W2126324289	1	0	active labour market	1999	False	29		True	False	Direct displacement effects of labour market programmes : the case of Sweden	RePEc: Research Papers in Economics
+W3088329775	0	1	active labour market	2021	False	29	0.9223653	True	False	Career-first: an approach to sustainable labour market integration	International Journal for Educational and Vocational Guidance
+W3121191784	1	0	wage subsid	2001	False	29		True	False	Assisting the Transition from Workfare to Work: A Randomized Experiment	World Bank, Washington, DC eBooks
+W3124733877	0	1	active labor market	2020	False	29	0.90019313	True	False	Treatment Versus Regime Effects of Carrots and Sticks	Journal of Business and Economic Statistics
+W4214715284	0	1	active labour market	2022	False	29	0.95772423	True	False	No activation without reconciliation? The interplay between ALMP and ECEC in relation to women's employment, unemployment and inactivity in 30 OECD countries, 1985–2018	Social Policy and Administration
+W1984852015	0	1	active labor market	2008	False	28		False	False	Active Labor Market Policies in Europe. Performance and Perspectives – By Jochen Kluve, David Card, Michael Fertig, Marek Góra, Lena Jacobi, Peter Jensen, Reelika Leetmaa, Leonhard Nima, Eleonora Patacchini, Sandra Schaffner, Christoph M. Schmidt, Bas van der Klaauw, Andrea Weber	Papers of the Regional Science Association
+W2740480701	0	1	active labour market	2017	False	28	0.97630221	True	False	The purgatorial ethic and the spirit of welfare	Journal of Classical Sociology
+W1573768300	1	0	youth unemployment	1999	False	27		True	False	The Effects of Benefits, Incentives, and Sanctions on Youth Unemployment	RePEc: Research Papers in Economics
+W2925596152	0	1	youth unemployment	2019	False	27	0.97291731	False	False	Understanding massive youth unemployment during the EU sovereign debt crisis: a configurational study	Comparative European Politics
+W4205615188	0	1	active labour market	2006	False	27		True	False	Employment Patterns in OECD Countries	OECD Economics Department working papers
+W1596026929	1	0	active labor market	2011	False	26	0.95774425	True	False	THE RELATIVE EFFECTIVENESS OF SELECTED ACTIVE LABOR MARKET PROGRAMS: AN EMPIRICAL INVESTIGATION FOR GERMANY*	Manchester School
+W2035610536	1	0	active labour market	2015	False	26	0.95132388	True	False	The impact of training-intensive labour market policies on labour and educational prospects of NEETs: evidence from Catalonia (Spain)	Educational Research
+W2130954893	0	1	youth unemployment	2018	False	26		True	True	The Youth Guarantee programme in Europe: Features, implementation and challenges	Human Rights Documents online
+W4212777908	0	1	youth unemployment	2019	False	26	0.94973545	True	False	Youth Unemployment and Job Insecurity in Europe	Edward Elgar Publishing eBooks
+W2417897354	0	1	employment subsid;active labour market;active labor market	2017	False	25		True	True	Active labour market policy effects for women in Europe - a survey	
+W2905373791	1	0	wage subsid;subsidised employment	2018	False	25	0.9110353	True	True	Wage subsidies targeted to jobseekers with disabilities: subsequent employment and disability retirement	IZA Journal of Labor Policy
+W1688845629	0	1	active labor market	2012	False	24	0.93894737	True	False	Public Employment Services, and Activation Policies	World Bank, Washington, DC eBooks
+W1969715052	0	1	employment subsid;active labour market	2013	False	24	0.82048161	True	True	Active labour market policies in Spain: A macroeconomic evaluation	International Labour Review
+W2099343102	0	1	active labor market	2009	False	24		True	False	Employment Services and Active Labor Market Programs in Eastern European and Central Asian Countries	RePEc: Research Papers in Economics
+W2577586199	1	0	active labor market	2017	False	24	0.96180384	False	False	Effectiveness of Active Labor Market Tools in Conditional Cash Transfers Programs: Evidence for Argentina	World Development
+W2580895602	1	0	active labor market	2017	False	24	0.92115927	False	False	Employment effects of active labor market programs for sick-listed workers	Journal of Health Economics
+W3179879451	0	1	youth unemployment	2021	False	24	0.94902891	False	False	Youth unemployment and health outcomes: the moderation role of the future time perspective	International Journal for Educational and Vocational Guidance
+W2171212645	1	0	active labour market;active labor market	2009	False	23	0.96483443	True	False	Start‐up subsidies in East Germany: finally, a policy that works?	International Journal of Manpower
+W4214876778	0	1	young unemployed	2020	False	23	0.82709954	True	False	Policy discontinuity and duration outcomes	Quantitative Economics
+W1845646883	0	1	youth unemployment;unemployed youth;active labor market	2014	False	22	0.91825076	True	True	Youth market labor interventions	IZA World of Labor
+W1982041441	0	1	active labor market	2014	False	22	0.95600174	True	False	Do case workers help the unemployed?	IZA World of Labor
+W2105135912	0	1	active labour market	2010	False	22	0.98490343	True	False	Assessing Active Labour Market Policies in Transition Economies	AIEL series in labour economics
+W2761600587	0	1	employment subsid;active labour market	2017	False	22	0.93312406	True	False	Does the Self-employment Policy Reduce Unemployment and Increase Employment? Empirical Evidence from the Czech Regions	Central European Journal of Public Policy
+W2899536193	0	1	active labour market	2018	False	22	0.90127331	True	False	An evaluation of German active labour market policies: a review of the empirical evidence	Journal of Entrepreneurship and Public Policy
+W3028244590	0	1	active labour market	2020	False	22	0.87294381	True	False	Retraining for the unemployed and the quality of the job match	Applied Economics
+W3125728983	0	1	unemployed youth	2002	False	22		False	False	Does Early Intervention Help the Unemployed Youth?	SSRN Electronic Journal
+W2792766054	1	0	active labour market	2018	False	21	0.96507216	True	False	Impact of a personalised active labour market programme for persons with disabilities	Scandinavian Journal of Public Health
+W2869559522	0	1	youth unemployment;active labor market	2018	False	21	0.91795357	True	True	Expediting youth's entry into employment whilst overlooking precariousness: Flexi‐employability and disciplinary activation in Hong Kong	Social Policy and Administration
+W4391820525	0	1	youth unemployment	2024	False	21	0.96118458	True	False	Impact of employment support programs on the quality of youth employment: Evidence from Senegal's internship program	Sustainable Development
+W4391598874	0	1	active labor market	2024	False	21		True	False	Labor Market Institutions and Employment	Encyclopedia
+W1970394468	1	0	active labour market	2007	False	20	0.89818297	True	False	Evaluating active labour market programmes in New Zealand	International Journal of Manpower
+W2738780170	0	1	youth unemployment	2017	False	20	0.88421572	True	False	A cursory discussion of policy alternatives for addressing youth unemployment in Botswana	Cogent Social Sciences
+W2949508428	0	1	active labour market	2019	False	20	0.96431474	True	False	Activation is not a panacea: active labour market policy, long-term unemployment and institutional complementarity	Journal of Social Policy
+W3124499753	0	1	wage subsid;subsidized employment		False	20		True	False	Employment Effects of Payroll Tax Subsidies	RePEc: Research Papers in Economics
+W3198832166	0	1	active labour market	2021	False	20	0.93258054	True	False	Are active labour market policies effective for the older unemployed? A meta-evaluation	Ageing and Society
+W1510355970	0	1	wage subsid	2010	False	19	0.94460856	False	False	Employer wage subsidies and wages in Germany: empirical evidence from individual data	Journal for Labour Market Research
+W1518281674	0	1	active labor market	2009	False	19		True	False	Towards comprehensive training	RePEc: Research Papers in Economics
+W1532042174	1	0	active labour market	2004	False	19		True	False	The Swedish Activity Guarantee	OECD social employment and migration working papers
+W2187818770	0	1	active labour market	2006	False	19	0.98417335	True	False	Beschäftigungseffekte ausgewählter Maßnahmen der beruflichen Weiterbildung in Deutschland: Eine Bestandsaufnahme *	Universitätsbibliographie, Universität Duisburg-Essen
+W2764392336	1	0	wage subsid	1978	False	19	0.89455663	False	False	Wage Subsidies and Employment: An Analysis of the French Experience (Les subventions des salaires et le niveau d'emploi: analyze de l'experience francaise) (Subsidios salariales y el nivel de empleo: Analisis de la experiencia francesa)	Staff Papers
+W3124742904	0	1	active labor market	2010	False	19		True	False	Policies to Create and Destroy Human Capital in Europe	National Bureau of Economic Research
+W3184374455	0	1	young unemployed	2020	False	19	0.80448427	True	False	Information, Reflection, and Successful Job Search: A Nudging Experiment	Social Policy and Administration
+W3206184509	0	1	active labour market	2021	False	19	0.86529174	True	False	Negative emotional consequences of labour market activation policies for long-term unemployed young adults in Finland	International Journal of Sociology and Social Policy
+W1489797966	0	1	active labour market	2005	False	18	0.94705454	True	False	Aktive Arbeitsmarktpolitik in Deutschland: Bestandsaufnahme und Bewertung der mikroökonomischen Evaluationsergebnisse (Active labour market policy in Germany * review ans assessment of the microeconomic evaluation results)	RePEc: Research Papers in Economics
+W1565752028	1	0	wage subsid	2006	False	18		True	False	The effect of low-wage subsidies on skills and employment	RePEc: Research Papers in Economics
+W2937663755	1	0	active labor market	2019	False	18	0.87782722	True	False	Evaluating Vacancy Referrals and the Roles of Sanctions and Sickness Absence*	The Economic Journal
+W3160869466	0	1	youth unemployment;active labor market	2021	False	18	0.9293956	True	True	Youth Guarantee: Looking for Explanations	Sustainability
+W1500714865	1	0	youth unemployment	2013	False	17		False	False	Youth unemployment: review of training for young people with low qualifications	Digital Education Resource Archive (University College London)
+W1569991253	0	1	wage subsid	2009	False	17		True	False	Do wage subsidies affect the subsequent employment stability of permanent workers?: the case of Spain	RePEc: Research Papers in Economics
+W163461340	0	1	youth unemployment;active labour market	2011	False	17		True	False	Youth unemployment in Spain: causes and solutions*	RePEc: Research Papers in Economics
+W1879547312	0	1	active labor market	2005	False	17		False	False	Equilibrium Evaluation of Active Labor Market Programmes Enhancing Matching Effectiveness	SSRN Electronic Journal
+W2145989658	0	1	active labour market	2007	False	17	0.99020408	True	False	The Reform of the Dutch Public Employment Service	Edward Elgar Publishing eBooks
+W2961455679	0	1	unemployed youth	2019	False	17	0.92353954	True	False	Out of the labour force and out of school: a population-representative study of youth labour force attachment and mental health	Journal of Youth Studies
+W2980734731	0	1	active labour market	2019	False	17	0.92601735	True	False	Educational differences in macro-level determinants of early exit from paid work: a multilevel analysis of 14 European countries	European Journal of Ageing
+W2994510994	0	1	active labor market	2011	False	17	0.93623867	True	False	Would Active Labor Market Policies Help Combat High U.S. Unemployment	RePEc: Research Papers in Economics
+W4246248357	1	0	young unemployed;active labor market	2004	False	17	0.94096509	True	False	Active Labor Market Policies and the British New Deal for the Young Unemployed in Context	University of Chicago Press eBooks
+W1558018358	0	1	active labour market	2015	False	16	0.81714837	True	False	Active labour market policy and its outcomes	International Journal of Sociology and Social Policy
+W1600335472	1	0	active labor market	2008	False	16	0.87619461	True	True	The Effects of Active Labor Market Programs in Germany: An Investigation Using Different Definitions of Non-Treatment	Jahrbücher für Nationalökonomie und Statistik
+W2034496720	0	1	active labour market	2006	False	16	0.88075506	True	False	Evaluating the Dynamic Effects of Active Labour Policies in Italy	Labour
+W2969724461	0	1	active labour market	2019	False	16	0.91547774	True	False	Compensation or competition: Bias in immigrants' access to active labour market measures	Social Policy and Administration
+W3125448612	1	0	active labor market	2009	False	16		True	False	Towards comprehensive training	RePEc: Research Papers in Economics
+W3141900466	1	0	employment subsid	2008	False	16	0.93826419	True	False	Temporary Help Service Firms' Use of Employer Tax Credits: Implications for Disadvantaged Workers' Labor Market Outcomes	Southern Economic Journal
+W4220799667	0	1	active labor market	2022	False	16	0.90092451	False	False	Self-regulation training and job search input: A natural field experiment within an active labor market program	Journal of Behavioral and Experimental Economics
+W2131952007	0	1	active labour market	2021	False	15	0.83424955	True	False	Unemployment and crime: Experimental evidence of the causal effects of intensified ALMPs on crime rates among unemployed individuals	The British Journal of Criminology
+W4285786724	1	0	active labour market	2019	False	15	0.69878769	False	False	What Can We Expect from Active Labour Market Policy?	Duncker & Humblot eBooks
+W1489923121	0	1	active labor market	2020	False	14	0.0006251	True	False	Job Search Assistance Programs in Europe	Working Paper Series
+W1576073268	0	1	active labour market	2003	False	14		False	False	Microeconometric Evaluation of Active Labour Market Policies	SSRN Electronic Journal
+W2058111536	0	1	young unemployed;active labour market	2005	False	14	0.96980679	True	False	‘Integrative’ or ‘Defensive’ Youth Activation in Nine European Welfare States	Journal of Youth Studies
+W2223291124	0	1	youth unemployment;unemployed youth	2012	False	14	0.93397177	True	False	Youth employment programs : an evaluation of World Bank and IFC support	
+W2777194126	0	1	active labour market	2020	False	14	0.90839249	True	True	Complementarities between Labour Market Institutions and their Causal Impact on Youth Labour Market Outcomes	The B E Journal of Economic Analysis & Policy
+W3122795525	1	0	youth unemployment	1989	False	14		False	False	YOUTH UNEMPLOYMENT, LABOR MARKET PROGRAMS AND SUBSEQUENT EARNINGS	RePEc: Research Papers in Economics
+W1500601425	1	0	young unemployed	2003	False	13		True	False	New Deal For Young People: Evaluation Of Unemployment Flows	RePEc: Research Papers in Economics
+W1537116744	0	1	active labour market	2011	False	13		True	False	Carrots without Sticks: The Impacts of Job Search Assistance in a Regime with Minimal Monitoring and Sanctions	Arrow@dit (Dublin Institute of Technology)
+W1989772846	0	1	youth unemployment	2006	False	13	0.9170198	True	False	THE IMPACT OF WELFARE AND LABOUR MARKET INSTITUTIONS ON INFORMAL RECRUITMENT IN EUROPEAN YOUTH LABOUR MARKETS	European Societies
+W2019397648	0	1	wage subsid;active labour market	2006	False	13	0.87120496	True	True	Eingliederungszuschüsse und Entgeltsicherung für Ältere – Analysen auf Basis natürlicher Experimente	Vierteljahrshefte zur Wirtschaftsforschung
+W2037052473	1	0	hiring subsid	2011	False	13	0.90305704	False	True	Hiring subsidies, job creation and job destruction	Economics Letters
+W2181778068	0	1	subsidised employment;active labour market	2010	True	13		True	False	ACTIVE LABOUR MARKET POLICY EVALUATIONS	SSRN Electronic Journal
+W2916037404	0	1	youth unemployment	2019	False	13	0.930323	True	False	Promoting workplace‐based training to fight youth unemployment in three EU countries: Different strategies, different results?	International Journal of Social Welfare
+W3125440984	1	0	active labor market	2012	False	13		False	True	Temporary Work as an Active Labor Market Policy: Evaluating an Innovative Program for Disadvantaged Youths	SSRN Electronic Journal
+W4245583800	0	1	youth unemployment;unemployed youth	2012	False	13	0.90679305	True	False	Youth Employment Programs	World Bank, Washington, DC eBooks
+W4313275259	0	1	active labour market	2022	False	13		True	False	Policies to increase youth employment in Korea	OECD Economics Department working papers
+W1572234764	1	0	active labour market	2000	False	12		True	False	The Impact Of Active Labour Market Policies And Benefit Entitlement Rules On The Duration Of Unemployment	RePEc: Research Papers in Economics
+W2009087066	0	1	active labour market	2009	False	12	0.87963481	True	False	HOW WELL HAS THE NEW DEAL FOR YOUNG PEOPLE WORKED IN THE UK REGIONS?	Scottish Journal of Political Economy
+W2124014786	0	1	active labor market	2012	False	12		True	False	Improving Access to Jobs and Earnings Opportunities The Role of Activation and Graduation Policies in Developing Countries	RePEc: Research Papers in Economics
+W2146317294	0	1	active labour market	2010	False	12	0.90701495	True	False	A Reappraisal of the Virtues of Private Sector Employment Programmes*	Scandinavian Journal of Economics
+W2186312257	0	1	active labour market	2015	False	12	0.92535391	True	False	The Net Impact of Training Measures from Active Labour Market Programs in Romania – Subjective and Objective Evaluation	Procedia Economics and Finance
+W2559199847	0	1	youth unemployment;active labour market	2016	True	12	0.82043076	True	False	Can welfare and labour market regimes explain cross‐country differences in the unemployment of young people?	International Labour Review
+W2956924494	0	1	wage subsid;active labour market	2013	True	12	0.41708543	True	True	PROTOCOL: Active Labour Market Programme Participation for Unemployment Insurance Recipients: protocol for a systematic review	Campbell Systematic Reviews
+W3014492733	0	1	active labour market	2020	False	12	0.8497639	True	False	Evaluation of self‐employment support policies using survival analysis. The discounted flat rate in Andalusia (Spain)	Papers of the Regional Science Association
+W3165113156	0	1	youth unemployment;active labour market	2021	False	12	0.82661894	True	False	Evaluation of the Effects of the Graduate Practice in Slovakia: Comparison of Results of Counterfactual Methods	Central European Business Review
+W4212817869	0	1	employment subsid	2022	False	12		True	True	The Effects of Subsidizing Social Security Contributions: Job Creation or Informality Reduction?	World Bank, Washington, DC eBooks
+W4238492253	0	1	active labor market	2021	False	12	0.88542606	True	False	Labor Market Reform Options to Boost Employment in South Africa	IMF Working Paper
+W4399828587	0	1	employment subsid	2024	False	12	0.92437213	True	False	Exploring the impact of employment policies on wages and employability in the Chilean local labor market	Regional Science Policy & Practice
+W1983887405	0	1	youth unemployment;active labour market	2014	False	11	0.94161127	True	False	Unemployment at a Young Age and Later Unemployment in Native Swedish and Immigrant Young Adults	Modern Economy
+W2523375091	0	1	arbeidsmarkedstiltak	2016	False	11	0.91052471	True	False	Effekten av arbeidsmarkedstiltak og vikarbyråarbeid på overgang til jobb og utdanning for arbeidsledig ungdom uten fullført videregående skole	Søkelys på arbeidslivet
+W2995816661	0	1	active labor market	2019	False	11	0.8647541	True	False	Moving Forward with ALMPs	World Bank, Washington, DC eBooks
+W3186422653	1	0	active labour market	2006	False	11	0.96957264	True	False	A description of three randomised experiments in Swedish labour market policy	
+W4386140670	0	1	active labour market	2023	True	11	0.95706864	True	False	Why Should we Integrate Income and Employment Support? A Conceptual and Empirical Investigation	The Journal of Development Studies
+W1653064814	0	1	wage subsid	2009	False	10		True	True	Employer wage subsidies and wages in Germany: some evidence from individual data	RePEc: Research Papers in Economics
+W1826829199	0	1	active labor market	2010	False	10	0.91530292	True	False	Labor market policy research for developing countries : recent examples from the literature - what do we know and what should we know?	Social Protection and Labor Policy and Technical Notes
+W2108947368	0	1	active labour market	2011	False	10		False	False	The Dependent Variable Problem in Quantitative Studies of Active Labour Market Programmes: Uncovering Hidden Dynamics?	SSRN Electronic Journal
+W2133510348	0	1	active labour market	2012	False	10	0.90573663	True	False	Active Labour Market Policy by a Profit‐Maximizing Firm	British Journal of Industrial Relations
+W2496574389	0	1	active labor market	2016	False	10	0.80640771	True	False	The dynamics of training programs for the unemployed	IZA World of Labor
+W3163534875	0	1	youth unemployment	2021	False	10	0.8057273	True	False	ANALYSIS OF THE RELATIONSHIP BETWEEN EDUCATION AND YOUTH UNEMPLOYMENT: EVIDENCES FROM TURKEY AND SPAIN	Journal of Life Economics
+W3141749103	1	0	active labour market	2007	False	10	0.8650953	True	False	La politique active de l'emploi en faveur des jeunes: Les dispositifs ont-ils touché leur cible?	Annales d Économie et de Statistique
+W1486298270	1	0	youth unemployment;unemployed youth;active labor market	1998	False	9		True	False	The Swedish Youth Labor Market in Boom and Depression	RePEc: Research Papers in Economics
+W1743912794	1	0	active labour market	2015	False	9	0.89920262	True	False	Effectiveness of sequences of One-Euro-Jobs for welfare recipients in Germany	Applied Economics
+W2035246572	0	1	active labour market	2002	False	9	0.94640704	True	False	Eine wirkungsorientierte aktive Arbeitsmarktpolitik in Deutschland und der Schweiz: Eine Vision – zwei Realitäten	Perspektiven der Wirtschaftspolitik
+W2106986662	1	0	youth unemployment	1996	False	9	0.8522411	True	False	The Challenge of Youth Unemployment in the Caribbean: the Role of Youth Employment Training Programmes	
+W2898703157	0	1	youth unemployment;young unemployed	2018	False	9	0.8426223	True	False	Youth reservation wages in Romania: are wage expectations realistic?	Applied Economics Letters
+W2943533883	0	1	active labour market	2019	False	9	0.89137053	False	False	The Effect of Active Labour Market Programmes and Benefit Sanctions on Reducing Unemployment Duration	Journal of Labor Research
+W4210372178	0	1	active labour market	2021	False	9		True	False	Introduction:	Policy Press eBooks
+W4405092249	0	1	active labor market	2024	False	9	0.92370201	True	False	Long-term employment and health effects of active labor market programs	Proceedings of the National Academy of Sciences
+W1603218129	0	1	youth unemployment;active labour market	2004	False	8		True	False	La disoccupazione giovanile in Italia. La riforma dei sistemi d'istruzione e di formazione professionale come alternativa alla flessibilità numerica per accrescere l'occupabilità	RePEc: Research Papers in Economics
+W1906946101	0	1	active labour market	2007	False	8		True	False	The Impact of Active Labour Market Policies in Romania	RePEc: Research Papers in Economics
+W2414298894	0	1	employment subsid;active labour market	2001	False	8	0.86232269	True	False	Comment on Barbara Sianesi: Swedish active labour market programmes in the 1990s: Overall effectiveness and differential performance	
+W2944317514	0	1	active labour market	2019	False	8	0.84099292	True	False	The Impact on Employment of Active Labour Market Policies: An Evaluation of Public Employment Services (PES) in Kosovo	South East European Journal of Economics and Business
+W42091255	0	1	wage subsid	2013	False	8		True	True	Do wage subsidies for disabled workers result in deadweight loss? – evidence from the Danish Flexjob scheme	RePEc: Research Papers in Economics
+W4412755355	0	1	active labor market	2025	False	8	0.96967348	True	True	Re‐Skilling in the Age of Skill Shortage: Adult Education Rather Than Active Labor Market Policy	Regulation & Governance
+W1837002036	1	0	unemployed youth	2006	False	7		True	False	Impact Evaluation of the Job Training Component (PROCAJOVEN) of the Assistance Program for the Building of a Training and Employment System in Panama (PN0125)	
+W2167628934	1	0	active labour market	2013	False	7	0.90066134	True	False	The Effect of Making a Voluntary Labour Market Programme Compulsory: Evidence from a UK Experiment	Fiscal Studies
+W2498310069	0	1	youth unemployment	2015	False	7	0.84068279	True	False	Job Skills and Minority Youth	Cambridge University Press eBooks
+W3122678742	1	0	youth unemployment	2016	False	7	0.84431943	True	False	Help Not Wanted: The Dismal Science of Youth Unemployment's Scarring Effect	iBusiness
+W3124553479	0	1	active labour market	2013	True	7		False	True	What Active Labour Market Programmes Work for Immigrants in Europe? A Meta-Analysis of the Evaluation Literature	SSRN Electronic Journal
+W3138492514	0	1	employment subsid;active labour market	2021	False	7	0.77516619	True	True	The effect of the 2008 employment support programme on young men’s labour market outcomes in Turkey: Evidence from a regression discontinuity design	Manchester School
+W3125761168	0	1	active labour market	2006	False	7		True	False	Exploiting regional treatment intensity for the evaluation of labour market policies	Cemmap working papers
+W3184650656	0	1	youth unemployment	2021	False	7	0.69938171	True	False	The Reality of Youth Unemployment and Unsuitable Development Models in the Global South: Evidence from Morocco	International Journal of African Renaissance Studies - Multi- Inter- and Transdisciplinarity
+W3209028100	0	1	active labour market	2021	False	7	0.9116774	True	False	Do Disadvantaged Young Adults Benefit Less from Social Investment? Studying Matthew Effects in Activation Measures	Youth and Globalization
+W4400864114	0	1	active labour market	2024	False	7	0.91442577	True	False	Addressing Rural Poverty, Efficacy of MGNREGA and Migration Against Agricultural Productivity: Case of Kalahandi, India	Journal of Poverty
+W1547896282	0	1	active labour market	2011	False	6		True	False	The relative efficiency of active labour market policy: evidence from a social experiment and non-parametric methods	RePEc: Research Papers in Economics
+W1580771577	0	1	active labour market	2010	False	6	0.95410807	True	False	Are active labour market programs least effective where they are most needed? The case of the British New Deal for Young People	ePrints Soton (University of Southampton)
+W2098898243	0	1	active labour market	2007	False	6	0.43169913	True	False	Las políticas del mercado de trabajo: desempleo y activación laboral	DOAJ (DOAJ: Directory of Open Access Journals)
+W2105097427	0	1	subsidized employment	2014	False	6		True	False	The effects of targeted labour market programs for job seekers with occupational disabilities	RePEc: Research Papers in Economics
+W4200441760	1	0	wage subsid;subsidised employment	2021	False	6	0.76372089	True	True	Why don’t employers hire long-term unemployed entitled to a wage subsidy? The employer’s perspective on subsidised employment	Economic and Industrial Democracy
+W4224244656	0	1	active labour market	2022	False	6	0.8519685	True	False	Theoretical underpinnings of active labour market programmes implemented by municipal and non-governmental organisations in Sweden	European Journal of Social Work
+W4360801568	0	1	active labor market	2023	False	6	0.87033898	True	True	Evaluation of Active Labor Market Policy Reform: Employment Outcomes of Vocational Rehabilitation Services	Journal of Occupational Rehabilitation
+W4362557029	0	1	youth unemployment;unemployed youth;active labor market	2023	False	6	0.79756367	True	True	Trading labor for experience: The role of unpaid internships in shaping Active Labor Market Policies in Ireland since the Great Recession	European Policy Analysis
+W4386760278	0	1	youth unemployment	2023	False	6	0.8063488	True	False	Leveraging Youth Employment Through Human Resource Practices and Vocational Education in Asia	Global Economics Science
+W4407697413	0	1	wage subsid	2025	False	6	0.97753268	True	True	Impact Evaluation of Wage Subsidies and Training for the Unemployed in Slovenia	Connecting people with jobs
+W1620591383	0	1	active labour market	2011	False	5	0.87351252	True	False	Short and Long Term Evaluations of Public Employment Services in Italy	Applied Economics Quarterly
+W1812274416	0	1	youth unemployment;young unemployed	2016	False	5	0.85018436	True	False	Workplace training programs	Education + Training
+W2140359274	0	1	active labor market	2012	False	5		True	False	Effects of Intensifying Labor Market Programs on Post-Unemployment Wages: Evidence From a Controlled Experiment	RePEc: Research Papers in Economics
+W2526278050	0	1	active labour market;active labor market	2013	False	5	0.94442435	True	False	Active Labor Market Policies	Princeton University Press eBooks
+W2566313428	0	1	youth unemployment	2016	False	5	0.89303802	True	False	Youth Unemployment in Turkey	Advances in finance, accounting, and economics book series
+W2592845333	0	1	active labour market	2014	False	5	0.72354592	True	False	Psychosocial Factors Predicting Job Search Behaviour of Long-Term Welfare Recipients in the Netherlands	European Journal of Social Security
+W2807952861	0	1	active labour market	2018	False	5	0.91271227	True	False	A theory based evaluation on possible measures which increase young NEETs employability	Proceedings of the ... International Conference on Business Excellence
+W3011503651	0	1	youth unemployment	2019	False	5	0.79530863	True	False	The Apprenticeship Contract: An Evaluation	Revista Hacienda Pública Española
+W3035746826	0	1	youth unemployment	2020	False	5	0.74166935	True	False	DO REEMPLOYMENT PROGRAMS FOR THE UNEMPLOYED WORK FOR YOUTH? EVIDENCE FROM THE GREAT RECESSION IN THE UNITED STATES	Economic Inquiry
+W3121893315	0	1	subsidized employment;active labor market	2018	False	5	0.84920635	True	False	Coaching, Counseling, Case-Working: Do They Help the Older Unemployed Out of Benefit Receipt and Back Into the Labor Market?	German Economic Review
+W3125540389	1	0	youth unemployment	2015	False	5	0.86755519	True	False	The Role of Training Programs for Youth Employment in Nepal: Impact Evaluation Report on the Employment Fund	World Bank, Washington, DC eBooks
+W3199014971	0	1	wage subsid	2021	False	5	0.75472084	True	True	A Study into the Effectiveness of the Youth Employment Programme (YEP) in Mauritius	The European Journal of Social & Behavioural Sciences
+W4324066561	0	1	active labour market	2023	False	5	0.77099913	True	False	The impact of periodic interviews on unemployment duration: Evidence from the 2017 Finnish reform	Labour
+W4382797010	0	1	active labour market;active labor market	2023	False	5	0.92518752	True	True	Active Labour Market Policy in Indonesia: Reviewing the Employment Policies and Programmes’ Preparation	Indonesian Journal of Multidisciplinary Science
+W4391646661	0	1	active labour market	2024	True	5	0.37784372	True	False	Assessing the effects of population-level political, economic and social exposures, interventions and policies on inclusive economy outcomes for health equity in high-income countries: a systematic review of reviews	Systematic Reviews
+W4406170137	0	1	active labor market	2025	False	5	0.94936744	True	True	Fostering Soft Skills in Active Labor Market Programs	The Journal of Human Resources
+W4409717033	0	1	active labor market	2025	False	5	0.91809585	True	False	Active labor market policies for the long-term unemployed: New evidence from causal machine learning	Labour Economics
+W4407750037	0	1	active labour market	2024	False	5		True	True	Creating pathways to success for young people	
+W1555489732	0	1	active labor market	2016	False	4	0.8708748	True	False	Supporting the transition from unemployment to self-employment—a comparative analysis of governmental support programs across Europe	Edward Elgar Publishing eBooks
+W1583107294	0	1	active labour market	2009	False	4		False	False	The Effectiveness of Regional Active Labour Market Policies to Fight Against Unemployment: An Analysis for Catalonia	SSRN Electronic Journal
+W1759072195	0	1	youth unemployment	2015	False	4	0.81706241	True	False	Effects of regulation on youth unemployment: Evidence from European countries	Industrija
+W194969759	0	1	active labour market	2014	False	4		True	False	Reemployment effects from increased activation: Evidence from times of crisis	RePEc: Research Papers in Economics
+W2735587111	1	0	arbeidsmarkedstiltak	2018	False	4	0.74753858	True	False	Utdanning som arbeidsrettet tiltak for ungdom med redusert arbeidsevne	Søkelys på arbeidslivet
+W2792372732	0	1	youth unemployment	2017	False	4	0.78861611	True	False	Relationship of the youth unemployment and determinants of the labour market in the Balkan countries	Industrija
+W2955042030	0	1	active labor market	2019	False	4	0.81608562	True	True	Addressing Skill Gaps: Continuing and Remedial Education and Training for Adults and Out-of-School Youths in Sub-Saharan Africa	World Bank, Washington, DC eBooks
+W311114842	0	1	subsidized employment	2016	False	4	0.7832641	True	True	The Effects of a Job‐Creation Scheme: Evidence from Regional Variation in Program Capacities	Industrial Relations A Journal of Economy and Society
+W3210563987	0	1	youth unemployment	2021	False	4	0.75938822	True	False	Labour Market and Educational Services Trends in Post-Conflict Territories of Ukraine	European Journal of Sustainable Development
+W4221100961	0	1	active labour market	2022	False	4	0.73476618	True	False	Active Labour Market Policies and Macroeconomic Variables on Employment, Informal Employment and Income Effects: The case of Turkey	International Journal of Economics and Financial Issues
+W4241267734	0	1	youth unemployment	2017	False	4	0.8489139	True	False	What drives youth unemployment in Europe? Economic vs. non-economic determinants	International Labour Review
+W4246350808	1	0	youth unemployment	2008	False	4	0.83611691	True	False	Jobs for Youth/Des emplois pour les jeunes: Netherlands 2008	Jobs for youth
+W4310272893	0	1	young unemployed;active labour market	2022	False	4	0.78709739	True	False	Training in the age of liberalization and crisis: Understanding the learning experiences of young Active Labour Market Programme Participants	Social Policy and Administration
+W4388961497	0	1	hiring subsid	2023	False	4	0.75902666	True	False	How do COVID-19 re-hiring subsidies affect unemployment duration and incomes in Morocco? An instrumental variable approach	Journal of Economic Structures
+W4405002350	0	1	active labour market	2024	False	4	0.95495002	True	False	Labour market policy in OECD countries – selected aspects	Argumenta Oeconomica
+W2082892457	0	1	unemployed youth	2012	False	3	0.28334031	True	False	Work commitment among unemployed youth in Hong Kong, Shanghai and Tianjin	International Journal of Adolescence and Youth
+W2069093196	0	1	wage subsid	2013	False	3	0.93078519	True	False	Intensified activation for disadvantaged welfare recipients in Germany: does it work?	International Journal of Sociology and Social Policy
+W2154143508	0	1	active labour market	2009	False	3		True	False	THE PORTUGUESE ACTIVE LABOUR MARKET POLICY DURING THE PERIOD 1998-2003 - A COMPREHENSIVE CONDITIONAL DIFFERENCE-IN-DIFFERENCES APPLICATION	RePEc: Research Papers in Economics
+W2486164776	1	0	wage subsid;youth unemployment	2014	False	3	0.96802202	True	True	Youth unemployment policy	Oxford University Press eBooks
+W2513711663	1	0	youth unemployment	2014	False	3	0.87044877	True	False	Women's Empowerment in Action: Evidence from a Randomized Control Trial in Africa Update from 2012 paper: Empowering Adolescent Girls: Evidence from a Randomized Control Trial in Uganda	
+W2606093655	0	1	employment subsid	2016	False	3		True	False	The Impact of the Turkish Employment Subsidy Programs on Increasing the Level of Social Protection For Women	RePEc: Research Papers in Economics
+W2802965471	0	1	active labour market	2018	False	3	0.86073708	False	False	Interdependent Policy Learning: Contextual Diffusion of Active Labour Market Policies	International series on public policy
+W2792174094	0	1	youth unemployment	2017	False	3		True	False	Career Builders: Key Components for Effective Global Youth Career and Workforce Development	
+W2804696007	0	1	active labour market	2018	False	3		True	False	Are active labour market policies effective in activating and integrating low-skilled individuals? An international comparison	Human Rights Documents online
+W2898862125	0	1	active labour market	2018	False	3	0.15887217	True	False	Efficiency of Labour Market Policy Changes in the Czech Republic and Sweden in 2006-2015	Politická ekonomie
+W3023286912	0	1	youth unemployment	2020	False	3	0.92032719	True	False	The Rise of Youth Unemployment and Youth NEETs in the CEECs After the 2008 Crisis	Advances in business strategy and competitive advantage book series
+W3048912273	1	0	youth unemployment	2020	False	3	0.74853038	True	False	The evaluation of the Youth Employment Initiative in Portugal using counterfactual impact evaluation methods	Joint Research Centre (European Commission)
+W3112202616	0	1	active labor market	2020	False	3	0.23774651	True	True	Mental Health and Access to Active Labor Market Programs	Nordic Journal of Working Life Studies
+W3121661151	1	0	young unemployed	2018	False	3		True	False	Policy discontinuity and duration outcomes	
+W3165578275	0	1	young unemployed	2021	False	3	0.60040909	True	False	Pre-Apprenticeship Training for Young People: Estimating the Marginal and Average Treatment Effects	Journal of the Royal Statistical Society Series A (Statistics in Society)
+W3170946257	0	1	active labor market	2021	False	3	0.78004906	True	False	The Coal Transition	World Bank, Washington, DC eBooks
+W4206297434	0	1	active labour market	2021	False	3	0.7629303	True	False	Diverting Welfare Paths: Ethnicisation of Unemployment and Public Work in Hungary	e-cadernos CES
+W4283826113	0	1	active labor market	2022	False	3	0.74231437	True	False	Make IT Work: The Labor Market Effects of Information Technology Retraining in the Netherlands	De Economist
+W4254130084	0	1	young unemployed	2017	False	3		True	False	The matching method for treatment evaluation with selective participation and ineligibles	
+W4285406724	0	1	unemployed youth	2022	False	3	0.48936773	True	False	PERSONALITY EMPLOYMENT CRISIS IN THE SUBJECTIVE PROJECTION OF THE UNEMPLOYED YOUTH WITH HIGHER EDUCATION	Problems of Education in the 21st Century
+W4327614964	0	1	active labour market	2023	False	3	0.73612737	True	False	Better job prospects or an imperative to ‘just work’? A cross‐national study on social investment and women's employment	International Journal of Social Welfare
+W4409518736	0	1	active labor market	2024	False	3	0.78657009	True	True	Kartu Prakerja Program and Youth Employment: Gender-Specific Outcomes in Indonesia	Economics and Finance in Indonesia
+W4412777998	0	1	subsidised employment	2025	False	3	0.87493819	True	True	One size fits all? Implementation and effects of a job guarantee for long-term-unemployed persons	Journal of Social Policy
+W4413758945	0	1	wage subsid	2025	False	3	0.87533567	True	False	Targeted impacts of salary subsidies: A developing country perspective	Regional Science Policy & Practice
+W7165936389	0	1	youth unemployment	2026	False	3	0.98659618	True	False	When education fails to translate into work: structural mismatch, graduate unemployment, and MSME labour demand in Ghana	SN Social Sciences
+W842814807	0	1	active labour market	2010	False	3	0.88320546	True	False	Which control variables do we really need for matching based evaluations of labour market programmes	Econstor (Econstor)
+W1489306283	0	1	employment subsid;subsidized employment;active labor market	2011	False	2	0.19740534	True	True	Evaluation of Subsidized Employment Programs for Long-Term Unemployed in Bulgaria	Икономически изследвания
+W1509108367	0	1	active labor market	2007	False	2	0.79072276	True	False	Does the impact of active labor market programs depend on the state of the labor market? The case of the UK new deal for young people	ePrints Soton (University of Southampton)
+W1651305005	0	1	wage subsid	2012	False	2		True	True	Estimating dynamic causal effects with unobserved confounders: a latent class version of the inverse probability weighted estimator	RePEc: Research Papers in Economics
+W1887799344	0	1	active labour market	2015	False	2	0.87567833	True	True	Employment Insurance and Active Labour Market Policies in Canada	uO Research (University of Ottawa)
+W2009051226	0	1	active labor market	2011	False	2	0.27483974	True	False	ACTIVE LABOR MARKET PROGRAMS AND REGIONAL MOBILITY OF LABOR: EVIDENCE FROM THE SWEDISH RECESSION, 1994–1995	Contemporary Economic Policy
+W2951114430	0	1	unemployed youth	2019	False	2	0.09131641	True	False	A JobBridge to nowhere: The National Internship Scheme as fast policy leading to bad policy	Administration
+W3125498771	0	1	active labor market	2019	False	2		False	False	Self-regulation Training and Job Search Behavior: A Natural Field Experiment Within an Active Labor Market Program	SSRN Electronic Journal
+W3170407793	0	1	youth unemployment	2021	False	2	0.64522105	True	False	Can we get them moving? The impact of mobility assistance on cross‐country migration of young adults in Europe	International Migration
+W3191297215	0	1	youth unemployment	2021	False	2	0.70570736	True	False	Evidence for a YETI? A Cautionary Tale from South Africa's Youth Employment Tax Incentive	Development and Change
+W3211749282	0	1	active labour market	2021	False	2	0.90952556	True	False	Everyone into Work	Research for policy
+W4280550347	0	1	active labour market	2022	False	2	0.69782452	True	False	Returns-to-education gaps between native and migrant workers: the infl uence of economic integration on their drivers. Are Active Labour Market Policies (ALMPs) an eff ective remediation tool? A case comparison: Italy, Germany, Denmark and Cyprus	Bulletin of Geography Socio-economic series
+W4379380350	0	1	young unemployed;active labour market	2023	False	2	0.64006893	True	False	Evaluation of a Flemish Active Labour Market Policy in the framework of the European Social Fund. Results and challenges	Socio-Economic Planning Sciences
+W43371492	0	1	active labour market	2006	False	2	0.86912306	True	False	Evaluating dynamic treatment: The Swedish active labour market programmes	
+W4399555615	0	1	active labor market	2024	False	2	0.69850372	True	False	Active Labor Market Policies and instability of their allocations: A changing relationship in the case of regions of Tunisia	Regional Science Policy & Practice
+W4403685983	0	1	wage subsid	2024	False	2	0.72162469	False	False	Impact evaluation of the ‘IDMAJ’ wage subsidy program on employment quality in Morocco	International Journal of Economic Policy Studies
+W4407756727	0	1	active labor market	2025	False	2	0.83899989	True	True	The Moderating Role of Corruption-Nexus Between Active Labor Market Policies and Unemployment in OECD Countries	Social Policy and Society
+W2056237279	0	1	active labour market;active labor market	2007	False	1		True	False	Evaluative Active Labor Market Programmes in Romania	RePEc: Research Papers in Economics
+W2118173763	0	1	active labour market	2003	False	1	0.85223765	True	False	Mikroökonometrische Evaluation arbeitsmarktpolitischer Massnahmen	Alexandria (UniSG) (University of St.Gallen)
+W2163665679	0	1	active labour market	2006	False	1	0.85108601	True	False	Microeconometric Evaluation of Public Employment Programmes: Empirical Analysis for Portugal	Dialnet (Universidad de la Rioja)
+W2186466830	0	1	active labor market	2012	False	1		True	False	empirical essays of active Labor market policy on employment	
+W2266182737	1	0	lønnstilskudd;arbeidsmarkedstiltak	2005	False	1		True	False	Yrkeshemmede med psykiske lidelser : tiltaksbruk og effekter	NORA - Norwegian Open Research Archives
+W2551258485	0	1	wage subsid	2011	False	1	0.48646809	True	True	A Study on Demand-side Wage Subsidy	한국개발연구
+W2564058736	0	1	youth unemployment	2016	False	1	0.28286853	True	False	Considerations on the Youth Unemployment Problem in Turkey	Advances in finance, accounting, and economics book series
+W2574259644	0	1	active labour market	2016	False	1	0.88088672	True	False	Politiche attive per il mercato del lavoro nella crisi: il quadro europeo e il caso italiano	ARGOMENTI
+W2894043574	0	1	unemployed youth;active labour market	2018	False	1	0.7317027	True	True	Vocational training and labour market outcomes: Evidence from Youth Guarantee in Latvia	Joint Research Centre (European Commission)
+W2904880618	0	1	wage subsid;subsidized employment	2020	False	1	0.00429964	True	True	Employment effects of payroll tax subsidies	Small Business Economics
+W2915970723	0	1	active labour market	2019	False	1		True	False	Benefitting from globalisation and technological change in Australia	OECD Economics Department working papers
+W2945898006	0	1	active labour market	2018	False	1	0.85699641	True	False	Impact of Active Labour Market Policy Programs on Employment in the EU During the Crisis	Central European Public Administration Review
+W2991629165	0	1	unemployed youth	2019	False	1	0.29573046	True	False	WHY ARE THEY NOT LOOKING FOR EMPLOYMENT? A SOUTH AFRICAN YOUTH PERSPECTIVE	IISES International Academic Conference
+W2977972586	0	1	youth unemployment	2013	False	1	0.56057952	True	False	MEDA Maroc's 100 Hours to Success impact evaluation: baseline study	
+W3011405871	0	1	youth unemployment	2020	False	1	0.64302292	True	False	An analysis of youth unemployment and entrepreneurship in the world today	Economic Analysis Theory and Practice
+W3014834294	0	1	active labor market	2020	False	1	0.53932363	True	False	Pathways to Employment	Social Science Protocols
+W3083646775	0	1	active labour market	2020	False	1	0.16204322	True	False	The Effects of the Incentive for Young and Female Employment Regulated by Law No. 6111 and Macroeconomic Variables on Employment, Informal Employment, and Income	International Journal of Economics and Financial Issues
+W4206320676	0	1	hiring subsid;youth unemployment	2021	False	1	0.65226163	True	False	New Zealand: Selected Issues	IMF Staff Country Reports
+W4309351296	0	1	wage subsid;active labor market	2022	False	1	0.63644969	True	True	Do Wage Subsidies to Nationals Enhance Their Employability? New Evidence from Kuwait	Asian Social Science
+W4388527416	0	1	active labour market;active labor market	2022	False	1	0.77893701	True	True	ACTIVE LABOUR MARKET POLICY AS A COMPONENT OF FLEXICURITY	The EUrASEANs journal on global socio-economic dynamics
+W4391408269	0	1	youth unemployment	2023	False	1	0.59648197	True	False	YOUTH UNEMPLOYMENT, A REAL PROBLEM: BIBLIOMETRIC ANALYSIS	Economics & Law
+W4392947516	0	1	active labor market	2024	False	1		True	False	Active labor market policies in Bolivia: Impact of the Employment Support Program II	
+W4405373931	0	1	active labour market	2024	False	1	0.6460334	True	False	The Impact of Providing Training to Young Men on Labour Outcomes and Attitudes towards Migration in Northern Guinea-Bissau	Journal of African Economies
+W4407258302	0	1	active labour market	2025	False	1	0.67520058	True	False	Cui prodest? A firm‐level analysis of hiring credits	Economica
+W4406497384	1	0	hiring subsid	2025	False	1		False	True	Hiring Subsidies and Temporary Work Agencies	SSRN Electronic Journal
+W4415592250	0	1	active labour market	2025	False	1	0.79466653	True	True	Do employers discriminate against Active Labour Market Policies participants? A field experiment on the Youth Guarantee internship in Italy	European Economic Review
+W650492894	0	1	active labor market	2007	False	1	0.79559141	True	False	Political Partisanship and Entity Size : When Parties Matter for Public Policy	
+W7161238043	0	1	active labor market	2026	False	1	0.94785025	True	False	Policy complementarity or substitution? The joint employment effects of active labor market policy and early childhood education and care	Socio-Economic Review
+W7163217664	0	1	youth unemployment	2026	True	1	0.7768813	True	False	Digital skills for youth employment in Africa: a systematic review	Education + Training
+W1488756246	0	1	active labour market	2010	False	0		True	False	Celtic Tiger, Hidden Tales: Living Stories of Career Success for Community Employment Scheme Participants: a Critical Interpretive Analysis	Arrow - TU Dublin (Technological University Dublin)
+W1575834385	0	1	youth unemployment;active labor market	2006	False	0	0.25979038	True	False	THE IMPACT ON UNEMPLOYMENT DURATION OF A MANDATORY JOB SEARCH PROGRAM	RePEc: Research Papers in Economics
+W1582613323	0	1	active labour market	2007	False	0	0.28570934	True	False	Beschäftigungseffekte ausgewählter Maßnahmen der beruflichen Weiterbildung in Deutschland : eine Bestandsaufnahme (Effects of selected measures of further vocational training in Germany : an appraisal)	RePEc: Research Papers in Economics
+W1729531738	0	1	active labor market	2009	False	0		True	False	Post-school human capital investments	Universitätsbibliothek der FU Berlin Hochschulschriftenstelle u. Dokumentenserver
+W194331338	0	1	active labour market	2006	False	0	0.03746177	True	False	Evaluating Asymmetries in Active Labour Market Policies: the Case of Italy	Physica-Verlag eBooks
+W198689275	0	1	active labour market	2015	False	0		True	False	Unemployment and sick leave at a young age and associations with future health and work	KTH Publication Database DiVA (KTH Royal Institute of Technology)
+W2005735113	0	1	active labor market	2012	False	0	0.37246612	True	False	Evaluation of Labor Market Programs During Recession in the North Great Plain Region of Hungary	International Journal of Sustainable Economies Management
+W2165801191	0	1	active labour market	2012	False	0	0.32988816	True	False	Active or Passive? Reforming Employment Benefits in the OECD	Review of European Studies
+W2181808684	0	1	active labor market	2014	False	0	0.26483907	True	False	The Long-Term Eects of Start-Up Subsidies and the Role of Personality Traits	
+W2232124122	0	1	active labour market	2004	False	0		True	False	Evaluating Asimmetries in Active Labour Policies: The Case of Italy	RePEc: Research Papers in Economics
+W2236396021	0	1	active labor market	2016	False	0		True	False	Labor market policies and job search	Digital Academic REpository of VU University Amsterdam (Vrije Universiteit Amsterdam)
+W2266087071	0	1	employment subsid	2014	False	0		False	True	The Effects of an Employment Subsidy in an Efficiency Wage Model with a Phillips Curve	SSRN Electronic Journal
+W2267810851	0	1	active labour market	2008	False	0	0.36812827	True	False	A COMPREHENSIVE MICROECONOMETRIC EVALUATION OF AN ACTIVE LABOUR MARKET POLICY APPLICATION TO THE PORTUGUESE ECONOMY	Dialnet (Universidad de la Rioja)
+W2489306226	0	1	youth unemployment	2016	False	0	0.09338916	True	False	Youth Employability in WB Countries	Advances in environmental engineering and green technologies book series
+W2796841096	0	1	active labour market	2016	False	0	0.43872028	True	False	Interdependent Learning from Policy Success: Contextual Diffusion of Active Labour Market Policies	STM:n Hallinnonalan avoin julkaisuarkisto (Julkari)
+W2887831384	0	1	subsidized employment	2018	False	0	0.12030402	True	True	Tragfähiger sozialer Arbeitsmarkt – Solidarisches Grundeinkommen für alle oder Teilhabeförderung für wenige?	Zeitschrift für Wirtschaftspolitik
+W2946365579	0	1	active labor market	2019	False	0	0.09262038	False	False	Sustainability of Employment Using the Tools of Active Labor Market Policy	International Conference on Economics, Management and Technology in Enterprises (EMT)
+W2952177732	0	1	youth unemployment	2019	False	0	0.08811873	False	False	Generation Jobless: Youth Unemployment and the Disparate cases of Germany and Spain	Trinity College Digital Repository (Trinity College, Hartford CT)
+W2955399468	0	1	youth unemployment	2019	False	0	0.10993345	True	False	New Social Risks, Social Policies, and Dualization in the Contemporary Welfare State	Carolina Digital Repository (University of North Carolina at Chapel Hill)
+W3005065443	0	1	active labour market	2016	False	0	0.50954192	True	False	Importance and effects of active labour market policies in the economy of the Republic of Serbia	Ekonomski pogledi
+W3023312121	0	1	youth unemployment;active labor market	2020	True	0	0.08394079	True	True	Active Labor Market Programs for Youth	Advances in business strategy and competitive advantage book series
+W3035439078	0	1	active labour market	2020	False	0	0.10639944	True	False	Labour Market Policies and Social Investment in Montenegro: Attaining European Standards and Practice?	Revija za socijalnu politiku
+W3035955851	0	1	wage subsid	2007	False	0		True	False	Contributions in empirical labour economics	Institutional Repository of Leibniz Universität Hannover (Leibniz Universität Hannover)
+W3128405925	0	1	youth unemployment	2018	False	0		False	False	청년실업의 이력현상 분석(The Analysis of Hysteresis in Youth Unemployment)	SSRN Electronic Journal
+W3183842240	0	1	active labor market	2020	False	0	0.38786302	True	False	Evaluation of the effectiveness of the regional active labor market policy: view of the employment service	Вестник Омского университета. Серия «Экономика»
+W341967170	0	1	youth unemployment;active labour market	2014	False	0		True	False	Unemployment at a young age and sickness absence, disability pension, death and future unemployment - A register-based study of native Swedish and immigrant young adults	KTH Publication Database DiVA (KTH Royal Institute of Technology)
+W4205345237	0	1	active labour market;active labor market	2021	False	0		True	False	Reframing active labor market policy: Experimental evidence of training vouchers for unemployed	AEA Randomized Controlled Trials
+W4244156792	0	1	active labor market	2021	False	0		False	False	Reframing active labor market policy: Experimental evidence of training vouchers for unemployed	AEA Randomized Controlled Trials
+W4246301101	0	1	youth unemployment	2016	False	0	0.60667615	True	False	Labour market entry	Society at a glance
+W4249385939	0	1	active labour market;active labor market	2021	False	0		True	False	Reframing active labor market policy: Experimental evidence of training vouchers for unemployed	AEA Randomized Controlled Trials
+W4294073744	0	1	youth unemployment	2022	False	0	0.30761292	True	False	The Rise of Youth Unemployment and Youth NEETs in the CEECs After the 2008 Crisis	IGI Global eBooks
+W4386201171	0	1	active labour market	2023	False	0	0.1359175	True	False	Does previous sickness absence affect work participation after vocational labour market training? A difference-in-differences propensity score matching approach	European Journal of Public Health
+W4388493336	0	1	youth unemployment;active labour market	2023	False	0		True	False		Politics and Governance
+W4389547547	0	1	youth unemployment	2023	False	0	0.55090803	True	False	Constructing a composite indicator of early employment security	Edward Elgar Publishing eBooks
+W4400638386	0	1	youth unemployment	2016	False	0		True	False	Youth unemployment is twice as high as adult unemployment in most OECD countries	Society at a glance
+W4402067046	0	1	youth unemployment	2024	False	0	0.14576476	True	False	Public employment services and rural NEETs aged 25-29: A case study from the South-West Region in Bulgaria	Environment and Social Psychology
+W4403889532	0	1	wage subsid;employment subsid;active labor market	2024	False	0	0.17174267	True	True	Employment Subsidies and Job Insertion of Higher Education Graduates in the Labor Market	Economies
+W4405868217	0	1	active labour market	2024	False	0	0.22309718	True	False	The impact of continuing education on the increase in social inclusion and the improvement of the position in the labour market of unemployed, low-skilled adults	Andragoske studije
+W4409481811	0	1	active labour market	2025	False	0	0.06188736	True	False	Inside the ‘Black Box’ of the Nexus Between Economic Conditions and Crime: Can the Relationship Be Mitigated?	Kyklos
+W4409676804	0	1	active labour market	2025	False	0	0.16385858	True	False	Flexicurity and Productivity in Türkiye	IGI Global eBooks
+W4412227914	0	1	young unemployed;active labour market	2023	False	0		False	False	Implications of active labour market politics for wellbeing:The case of young unemployed people in Denmark	
+W4413926417	0	1	youth unemployment	2024	False	0		True	False	Analysis of youth unemployment in Botswana	
+W7118239357	0	1	youth unemployment	2025	False	0	0.48102934	True	False	Trends and challenges of youth unemployment in Western Balkan countries	International Review
+W7125379659	0	1	youth unemployment	2025	False	0	0.45575355	True	False	PORTFOLIO AND FOREIGN DIRECT INVESTMENTS EFFECTS ON YOUTH UNEMPLOYMENT IN KENYA	International Journal of Social Science and Economic Research
+W7136040236	0	1	active labor market	2026	False	0	0.11503952	True	False	ACTIVE LABOR MARKET POLICIES, FUNDING INSTABILITY, AND LABOR MARKET OUTCOMES	Global economy journal
+W7139076953	0	1	active labour market	2026	False	0	0.12527629	True	True	Institutions Matter: Active Labour Market Policies and Youth Employment Across Development Levels in Europe	Istanbul Journal of Economics / İstanbul İktisat Dergisi
+W7152496523	0	1	subsidized employment	2024	False	0		True	True	Essays in labor economics : unemployment insurance, job search assistance and subsidized employment	theses.fr (ABES)
+W7154984228	0	1	active labour market	2026	False	0	0.26060356	True	False	Fostering aspirations among youth outside education and employment – A qualitative study on coaching professionals’ perspectives	Children and Youth Services Review
+W7164126526	0	1	youth unemployment;unemployed youth	2026	False	0	0.4894359	True	False	An Analytical Study on Employment Indicators and Government Interventions for Unemployed Youth	IGI Global eBooks
+W7167065429	0	1	active labour market	2026	False	0	0.43057329	True	False	In‐Work Poverty Transitions Dynamics: The Role of Active Labour Market Policies Across European Nations Using EU ‐ SILC	Social Policy and Administration
+W7168863290	0	1	youth unemployment	2026	False	0	0.47359795	True	False	Innovation hubs and young adults’ employment in fragile and conflict-affected Somalia: evidence from Mogadishu	Frontiers in Sociology
+W7169808122	0	1	active labour market	2026	False	0	0.48355374	True	False	“Make a wish”: How a de-institutionalised care programme shaped the dynamics of women’s aggregate labour market outcomes in croatia	Journal for Labour Market Research
+W7211900840	0	1	youth unemployment	2026	False	0	0.60531109	True	False	Youth unemployment in the global economy: Common challenges, regional differences, and policy lessons: A bibliometric approach	Heliyon
+W7223445268	0	1	active labor market	2026	False	0	0.8420804	True	False	The impact of labor reactivation on employability and well-being: an RCT with Red Cross Spain	SERIEs
+W7225003462	0	1	youth unemployment	2026	False	0	0.86679308	True	False	Going online for work: global evidence of ICT access and its association on youth employment by gender (1991–2022)	Humanities and Social Sciences Communications

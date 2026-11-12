@@ -1,0 +1,22 @@
+{
+ "apen_url": "https://bmcpublichealth.biomedcentral.com/counter/pdf/10.1186/s12889-016-2693-x",
+ "ar": 2015,
+ "doi": "https://doi.org/10.1186/s12889-016-2693-x",
+ "forfattere": [
+  "Henk F. van der Molen",
+  "Aalt den Herder",
+  "Jan Warning",
+  "Monique H. W. Frings‐Dresen"
+ ],
+ "hentet": "2026-11-08",
+ "hentet_fra": "https://bmcpublichealth.biomedcentral.com/counter/pdf/10.1186/s12889-016-2693-x",
+ "hvordan": "pdf",
+ "id": "W2232263831",
+ "kilde": "BMC Public Health",
+ "lenke": "https://openalex.org/W2232263831",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "BACKGROUND: The objective of this study is to evaluate the effectiveness of a face-to-face strategy and a direct mail strategy on safety violations while working from heights among construction companies compared to a control condition. METHODS: Construction companies with workers at risk for fall injuries were eligible for this three-armed randomized controlled trial. In total, 27 cities were randomly assigned to intervention groups-where eligible companies were given either a face-to-face guidance strategy or a direct mailing strategy with access to internet facilities-or to a control group. The primary outcomes were the number and type of safety violations recorded by labor inspectors after three months. A process evaluation for both strategies was performed to determine reach, program implementation, satisfaction, knowledge and perceived safety behavior. A cost analysis was performed to establish the financial costs for each intervention strategy. Analyses were done by intention to treat. RESULTS: In total, 41% (n = 88) of the companies eligible for the face-to-face intervention participated and 73% (n = 69) for direct mail. Intervention materials were delivered to 69 % (face-to-face group) and 100 % (direct mail group); completion of intervention activities within companies was low. Satisfaction, increase in knowledge, and safety behavior did not differ between the intervention groups. Costs for personal advice were 28% higher than for direct mail. Ultimately, nine intervention companies were captured in the 288 worksite measurements performed by the labor inspectorate. No statistical differences in mean number of safety violations (1.8-2.4) or penalties (72%-100%) were found between the intervention and control groups based on all worksite inspections. CONCLUSIONS: No conclusions about the effect of face-to-face and direct mail strategies on safety violations could be drawn due to the limited number of intervention companies captured in the primary outcome measurements. The costs for a face-to-face strategy are higher compared with a direct mail strategy. No difference in awareness and attitude for safe working was found between employers and workers between both strategies. TRIAL REGISTRATION: NTR 4298 on 29-Nov-2013.",
+ "tittel": "National evaluation of strategies to reduce safety violations for working from heights in construction companies: results from a randomized controlled trial",
+ "type": "article"
+}

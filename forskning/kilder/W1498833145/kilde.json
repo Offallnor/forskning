@@ -1,0 +1,17 @@
+{
+ "apen_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/4417652",
+ "ar": 2014,
+ "doi": "https://doi.org/10.1111/eip.12175",
+ "forfattere": [
+  "Gary R. Bond",
+  "Robert E. Drake",
+  "Kikuko Campbell"
+ ],
+ "id": "W1498833145",
+ "kilde": "Early Intervention in Psychiatry",
+ "lenke": "https://openalex.org/W1498833145",
+ "oversikt": false,
+ "sammendrag": "AIM: The individual placement and support (IPS) model of supported employment was first developed in community mental health centres for adults with severe mental illness. While IPS is an established evidence-based practice in this broad population, evidence on its effectiveness focused specifically on young adults has been limited. The current study aimed to address this gap. METHODS: To investigate the effects of IPS on young adults, the authors conducted a secondary analysis on a pooled sample of 109 unemployed young adults (under age 30) from four randomized controlled trials employing a common research protocol that included a standardized measurement battery and rigorous fidelity monitoring. Researchers assessed these participants over 18 months on nine competitive employment outcome measures. RESULTS: On all measures, the IPS group had significantly better employment outcomes. Overall, 40 (82%) of IPS participants obtained employment during follow-up compared with 25 (42%) of control participants, χ(2) = 17.9, P < .001. IPS participants averaged 25.0 weeks of employment, compared with 7.0 weeks for control participants, t = 4.50, P < .001. CONCLUSIONS: The current analysis supports a small number of previous studies in showing that IPS is highly effective in helping young adults with severe mental illness to attain competitive employment. When young adults acquire competitive jobs and initiate a path towards normal adult roles, they may avoid the cycle of disability and psychiatric patient roles that are demeaning and demoralizing.",
+ "tittel": "Effectiveness of individual placement and support supported employment for young adults",
+ "type": "article"
+}

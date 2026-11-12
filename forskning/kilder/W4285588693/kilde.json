@@ -1,0 +1,15 @@
+{
+ "ar": 2022,
+ "doi": "https://doi.org/10.1111/rego.12486",
+ "forfattere": [
+  "Wayne B. Gray",
+  "John M. Mendeloff"
+ ],
+ "id": "W4285588693",
+ "kilde": "Regulation & Governance",
+ "lenke": "https://openalex.org/W4285588693",
+ "oversikt": false,
+ "sammendrag": "Abstract Are stronger direct financial incentives or regulatory enforcement effective in reducing fatalities in the construction industry? We examine two important policies—state workers' compensation (WC) programs and federal and state Occupational Safety and Health Administration (OSHA) activities—which embody those strategies. We examine their impact by looking at state‐level fatality rates in the construction industry from 1992 to 2016. Setting aside highway crashes and violence, the majority of employee deaths occur in construction. We find that states which exempt small firms from the requirement to buy WC insurance have higher fatality rates. When eligibility for compensation is restricted by longer waiting periods, fatality rates are substantially higher. More frequent federal or state OSHA inspections and, especially, consultation visits are associated with lower fatality rates, but higher average penalties are not. Limited variation in these policies over our sample period, especially for WC, makes these results suggestive rather than definitively causal.",
+ "tittel": "Preventing construction deaths: The role of public policies",
+ "type": "article"
+}

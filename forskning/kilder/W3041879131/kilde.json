@@ -1,0 +1,23 @@
+{
+ "apen_url": "https://twinkle.repo.nii.ac.jp/record/25052/files/0400000009.pdf",
+ "ar": 2020,
+ "doi": "https://doi.org/10.24488/twmuj.2019007",
+ "forfattere": [
+  "Noriko Kojimahara",
+  "Go Muto",
+  "Koji Teruya",
+  "Kazuhiro Nogawa",
+  "Shotaro Doki"
+ ],
+ "hentet": "2026-11-09",
+ "hentet_fra": "https://www.jstage.jst.go.jp/article/twmuj/advpub/0/advpub_2019007/_pdf",
+ "hvordan": "pdf",
+ "id": "W3041879131",
+ "kilde": "Institutional Repositories DataBase (IRDB)",
+ "lenke": "https://openalex.org/W3041879131",
+ "merknad": "",
+ "oversikt": true,
+ "sammendrag": "Background: Evidence-based return-to-work (RTW) guidelines are lacking in Japan.Here, we investigated whether workplace interventions would shorten the sick-leave period. Methods:A literature search using six occupational health review questions (OHRQs) was conducted in January 2016, and randomized controlled trials were selected.A meta-analysis was conducted for OHRQs 1 and 2 and a qualitative systematic review for OHRQs 3 and 4. Recommendations were subsequently made after thoroughly considering their feasibility in Japan.Results: A committee formed by the Kanto Branch of the Japan Society for Occupational Health agreed on four recommendations for employees concerning sick-leave due to musculoskeletal and mental health disorders.Conclusion: Conditional recommendations included that RTW programs (OHRQ1) and collaboration between occupational health and clinical staff (OHRQ2) shorten the length of sick-leave due to musculoskeletal and mental health disorders.Work accommodation (OHRQ4) was also conditionally recommended for musculoskeletal disorders.Social support was also a good practice approach despite insufficient evidence.",
+ "tittel": "Return-to-work in Japanese Occupational Health Settings: A Systematic Review and Recommendations",
+ "type": "review"
+}

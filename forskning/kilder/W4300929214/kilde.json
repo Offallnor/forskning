@@ -1,0 +1,19 @@
+{
+ "apen_url": "http://hdl.handle.net/10419/45713",
+ "ar": 2008,
+ "forfattere": [
+  "Peter Fredriksson",
+  "Martin Söderström"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "https://docs.iza.org/dp3570.pdf",
+ "hvordan": "pdf",
+ "id": "W4300929214",
+ "kilde": "RePEc: Research Papers in Economics",
+ "lenke": "https://openalex.org/W4300929214",
+ "merknad": "ÅPEN VERSJON (preprint eller arbeidsnotat), merkes i svaret",
+ "oversikt": false,
+ "sammendrag": "We examine the relationship between unemployment benefits and unemployment using Swedish regional data. To estimate the effect of an increase in unemployment insurance (UI) on unemployment we exploit the ceiling on UI benefits. The benefit ceiling, coupled with the fact that there are regional wage differentials, implies that the generosity of UI varies regionally. More importantly, the actual generosity of UI varies within region over time due to variations in the benefit ceiling. We find fairly robust evidence suggesting that the actual generosity of UI does matter for regional unemployment. Increases in the actual replacement rate contribute to higher unemployment as suggested by theory. We also show that removing the wage cap in UI benefit receipt would reduce the dispersion of regional unemployment. This result is due to the fact that low unemployment regions tend to be high wage regions where the benefit ceiling has a greater bite. Removing the benefit ceiling thus implies that the actual generosity of UI increases more in low unemployment regions.",
+ "tittel": "Do Unemployment Benefits Increase Unemployment? New Evidence on an Old Question",
+ "type": "preprint"
+}

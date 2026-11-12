@@ -1,0 +1,26 @@
+{
+ "apen_url": "https://doi.org/10.1371/journal.pone.0049760",
+ "ar": 2012,
+ "doi": "https://doi.org/10.1371/journal.pone.0049760",
+ "forfattere": [
+  "Stefan Schandelmaier",
+  "Shanil Ebrahim",
+  "Susan C. A. Burkhardt",
+  "W. E. L. de Boer",
+  "Thomas Zumbrunn",
+  "Gordon Henry Guyatt",
+  "Jason Walter Busse",
+  "Regina Kunz"
+ ],
+ "hentet": "2026-11-09",
+ "hentet_fra": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0049760&type=printable",
+ "hvordan": "pdf",
+ "id": "W2056867380",
+ "kilde": "PLoS ONE",
+ "lenke": "https://openalex.org/W2056867380",
+ "merknad": "",
+ "oversikt": true,
+ "sammendrag": "BACKGROUND: The dramatic rise in chronically ill patients on permanent disability benefits threatens the sustainability of social security in high-income countries. Social insurance organizations have started to invest in promising, but costly return to work (RTW) coordination programmes. The benefit, however, remains uncertain. We conducted a systematic review to determine the long-term effectiveness of RTW coordination compared to usual practice in patients at risk for long-term disability. METHODS AND FINDINGS: Eligible trials enrolled employees on work absence for at least 4 weeks and randomly assigned them to RTW coordination or to usual practice. We searched 5 databases (to April 2, 2012). Two investigators performed standardised eligibility assessment, study appraisal and data extraction independently and in duplicate. The GRADE framework guided our assessment of confidence in the meta-analytic estimates. We identified 9 trials from 7 countries, 8 focusing on musculoskeletal, and 1 on mental complaints. Most trials followed participants for 12 months or less. No trial assessed permanent disability. Moderate quality evidence suggests a benefit of RTW coordination on proportion at work at end of follow-up (risk ratio = 1.08, 95% CI = 1.03 to 1.13; absolute effect = 5 in 100 additional individuals returning to work, 95% CI = 2 to 8), overall function (mean difference [MD] on a 0 to 100 scale = 5.2, 95% CI = 2.4 to 8.0; minimal important difference [MID] = 10), physical function (MD = 5.3, 95% CI = 1.4 to 9.1; MID = 8.4), mental function (MD = 3.1, 95% CI = 0.7 to 5.6; MID = 7.3) and pain (MD = 6.1, 95% CI = 3.1 to 9.2; MID = 10). CONCLUSIONS: Moderate quality evidence suggests that RTW coordination results in small relative, but likely important absolute benefits in the likelihood of disabled or sick-listed patients returning to work, and associated small improvements in function and pain. Future research should explore whether the limited effects persist, and whether the programmes are cost effective in the long term.",
+ "tittel": "Return to Work Coordination Programmes for Work Disability: A Meta-Analysis of Randomised Controlled Trials",
+ "type": "review"
+}

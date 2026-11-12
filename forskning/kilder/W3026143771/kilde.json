@@ -1,0 +1,19 @@
+{
+ "apen_url": "https://www.maxwell.syr.edu/uploadedFiles/cpr/publications/working_papers2/wp201.pdf",
+ "ar": 2017,
+ "forfattere": [
+  "Ling Li",
+  "Perry D. Singleton"
+ ],
+ "hentet": "2026-11-09",
+ "hentet_fra": "https://www.maxwell.syr.edu/uploadedFiles/cpr/publications/working_papers2/wp201.pdf",
+ "hvordan": "pdf",
+ "id": "W3026143771",
+ "kilde": "RePEc: Research Papers in Economics",
+ "lenke": "https://openalex.org/W3026143771",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "The Occupation Safety and Health Administration enforces safety regulations through workplace inspections. To identify the effect of inspections on worker safety, this study exploits quasi-experimental variation in inspections due to OSHA’s Site Specific Targeting plan. The SST plan used establishment-level data on accidents and injuries to target establishments for inspection. The primary inspection list consisted of establishments with case rates exceeding a cutoff. This cutoff generated a discontinuous increase in inspections, which is used to identify the effect of inspections on worker safety. Using the fuzzy regression discontinuity design and local linear regression, the estimated effect of an inspection on cases involving days away from work, job restrictions, and job transfers is -1.607 per 100 full-time equivalent workers. The effect is most pronounced among manufacturing establishments below the 90th percentile of the case-rate distribution.",
+ "tittel": "The Effect of Workplace Inspections on Worker Safety",
+ "type": "preprint"
+}

@@ -1,0 +1,19 @@
+{
+ "ar": 2022,
+ "doi": "https://doi.org/10.1257/pandp.20221009",
+ "forfattere": [
+  "Kyle Coombs",
+  "Arindrajit Dubé",
+  "Calvin Jahnke",
+  "Raymond Kluender",
+  "Suresh Naidu",
+  "Michael Stepner"
+ ],
+ "id": "W4282002757",
+ "kilde": "AEA Papers and Proceedings",
+ "lenke": "https://openalex.org/W4282002757",
+ "oversikt": false,
+ "sammendrag": "We examine the effects of the sudden withdrawal of expanded pandemic unemployment benefits in June 2021 using anonymized bank transaction data for 16,253 individuals receiving unemployment insurance (UI) in April 2021. Comparing the difference-in-differences between states withdrawing and retaining expanded UI, we find that UI receipt falls 36.3 p.p., while employment rises by only 6.8 p.p. by early September. Average cumulative UI benefits fall by $2,529, while average cumulative earnings increase by only $292. Heterogeneity by unemployment duration implies that these effects are primarily driven by extensive margin expiration of benefits rather than by intensive margin reductions in the benefit level.",
+ "tittel": "Early Withdrawal of Pandemic Unemployment Insurance: Effects on Employment and Earnings",
+ "type": "article"
+}

@@ -1,0 +1,17 @@
+{
+ "ar": 2017,
+ "doi": "https://doi.org/10.19191/ep17.2.p109.030",
+ "forfattere": [
+  "Walter Lazzarotto",
+  "Osvaldo Pasqualini",
+  "Elena Farina",
+  "Antonella Bena"
+ ],
+ "id": "W3003298692",
+ "kilde": "PubMed",
+ "lenke": "https://openalex.org/W3003298692",
+ "oversikt": false,
+ "sammendrag": "OBJECTIVES: to describe a pilot study to evaluate the impact on injury rates of Occupational health and safety (OHS) inspections conducted in the construction sites of the Novara Health Unit territory during 2005-2007. DESIGN: study design is \"treated/non treated\" where: \"treated\" are construction companies inspected during 2005-2007 and not inspected in the periods before and after; \"non treated\" are construction companies never inspected during 2002-2010. SETTING AND PARTICIPANTS: two information sources have been used: Italian Workers' Compensation Authority databases and Novara Health Unit inspection database. The period of analysis is 2002-2010 divided into sub-periods: pre-inspection (2002-2004); inspection (2005-2007); post-inspection (2008-2010). MAIN OUTCOME MEASURES: two injury rates, total and serious, have been calculated and the difference-in-differences (DID) method was used to assess the effectiveness. RESULTS: passing from pre-inspection to post-inspection period, the rate of total injuries in the companies inspected decreased more than the rate of the companies not inspected (DID: -1,95; 95%CI -15,30; 11,39). No effect was shown on severe injuries (DID: -0,27; 95%CI -7,84;7,31). CONCLUSION: the inspections conducted during 2005-2007 on the construction sites operating in the Novara Health Unit territory seem to have had a slight positive impact on reducing the injury rates. The procedures developed in this pilot study can be used in other Italian Health Units. Further research is needed to confirm the results and to clarify the mechanism by which the inspections were effective.",
+ "tittel": "[Effectiveness of inspections in the construction sites on reducing innjuries: a pilot study in a Health Unit of Piedmont Region (Northern Italy)].",
+ "type": "article"
+}

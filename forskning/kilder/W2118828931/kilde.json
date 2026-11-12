@@ -1,0 +1,20 @@
+{
+ "apen_url": "http://anon-ftp.iza.org/dp3633.pdf",
+ "ar": 2008,
+ "forfattere": [
+  "Adriano Paggiaro",
+  "Enrico Rettore",
+  "Ugo Trivellato"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "https://www.ifo.de/DocDL/cesifo1_wp2340.pdf",
+ "hvordan": "pdf",
+ "id": "W2118828931",
+ "kilde": "RePEc: Research Papers in Economics",
+ "lenke": "https://openalex.org/W2118828931",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "Liste di mobilità (LM) is an Italian labour market programme targeted to dismissed workers. There is a passive component granting monetary benefits to employees dismissed by firms larger than 15 employees, and an active component providing an employment subsidy to any firm hiring workers from the LM. Eligibility duration varies with the worker's age at dismissal. We exploit the variability of these provisions to evaluate the impact of extending the duration of eligibility on re-employment probabilities and wages over the 36 months subsequent to enrolment in the programme. The average treatment effect is identified via a Regression Discontinuity Design. A major negative impact emerges for workers aged 50 or more granted the monetary benefit.",
+ "tittel": "The Effect of Extending the Duration of Eligibility in an Italian Labour Market Programme for Dismissed Workers",
+ "type": "preprint"
+}

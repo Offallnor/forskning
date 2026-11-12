@@ -1,0 +1,24 @@
+{
+ "apen_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/C02A4B3BC19271C9218BF94DF25F6A9B/S2045796022000300a.pdf/div-class-title-who-benefits-from-individual-placement-and-support-a-meta-analysis-div.pdf",
+ "ar": 2022,
+ "doi": "https://doi.org/10.1017/s2045796022000300",
+ "forfattere": [
+  "Lars de Winter",
+  "Chrisje Couwenbergh",
+  "Jaap van Weeghel",
+  "Sarita A. Sanches",
+  "Harry W. C. Michon",
+  "Gary R. Bond"
+ ],
+ "hentet": "2026-11-09",
+ "hentet_fra": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/C02A4B3BC19271C9218BF94DF25F6A9B/S2045796022000300a.pdf/div-class-title-who-benefits-from-individual-placement-and-support-a-meta-analysis-div.pdf",
+ "hvordan": "pdf",
+ "id": "W4285039391",
+ "kilde": "Epidemiology and Psychiatric Sciences",
+ "lenke": "https://openalex.org/W4285039391",
+ "merknad": "",
+ "oversikt": true,
+ "sammendrag": "AIMS: Individual placement and support (IPS) is an evidence-based service model to support people with mental disorders in obtaining and sustaining competitive employment. IPS is increasingly offered to a broad variety of service users. In this meta-analysis we analysed the relative effectiveness of IPS for different subgroups of service users both based on the diagnosis and defined by a range of clinical, functional and personal characteristics. METHODS: We included randomised controlled trials that evaluated IPS for service users diagnosed with any mental disorder. We examined effect sizes for the between-group differences at follow-up for three outcome measures (employment rate, job duration and wages), controlling for methodological confounders (type of control group, follow-up duration and geographic region). Using sensitivity analyses of subgroup differences, we analysed moderating effects of the following diagnostic, clinical, functional and personal characteristics: severe mental illness (SMI), common mental disorders (CMD), schizophrenia spectrum disorders, mood disorders, duration of illness, the severity of symptoms, level of functioning, age, comorbid alcohol and substance use, education level and employment history. RESULTS: IPS is effective in improving employment outcomes compared to the control group in all subgroups, regardless of any methodological confounder. However, IPS was relatively more effective for service users with SMIs, schizophrenia spectrum disorders and a low symptom severity. Although IPS was still effective for people with CMD and with major depressive disorder, it was relatively less effective for these subgroups. IPS was equally effective after both a short and a long follow-up period. However, we found small, but clinically not meaningful, differences in effectiveness of IPS between active and passive control groups. Finally, IPS was relatively less effective in European studies compared to non-European studies, which could be explained by a potential benefits trap in high welfare countries. CONCLUSIONS: IPS is effective for all different subgroups, regardless of diagnostic, clinical, functional and personal characteristics. However, there might be a risk of false-positive subgroup outcomes and results should be handled with caution. Future research should focus on whether, and if so, how the IPS model should be adapted to better meet the vocational needs of people with CMD and higher symptom severity.",
+ "tittel": "Who benefits from individual placement and support? A meta-analysis",
+ "type": "review"
+}

@@ -1,0 +1,14 @@
+{
+ "ar": 2012,
+ "doi": "https://doi.org/10.3109/09638288.2012.689920",
+ "forfattere": [
+  "Ulrik Lidwall"
+ ],
+ "id": "W2068839152",
+ "kilde": "Disability and Rehabilitation",
+ "lenke": "https://openalex.org/W2068839152",
+ "oversikt": false,
+ "sammendrag": "Purpose: To assess whether the changes in Swedish sickness insurance in 2008 were associated with termination of benefits (TOB) or transition to disability pension (DP) for individuals in compensated sick leave of varying duration. Changes were (1) introduction of sick-listing guidelines and (2) stricter criteria for eligibility to disability pension and sickness cash benefit and time limits for the latter. Methods: The study population consisted of 2 556 211 cases of compensated sick leave with onset during 2006–2010 from the Swedish national social insurance registers. TOB and DP were analysed with Cox-proportional hazard regression. Results: After the introduction of sick-listing guidelines, TOB increased for both women [hazard ratio (HR) 1.10] and men (HR 1.07). The additional introduction of stricter rules 4 months later were modestly associated with TOB (HR: women 1.01, men 0.99) and transition to DP among men decreased with stronger associations for spells exceeding 180 days (HR 0.86). For women transition to DP surprisingly increased with stricter criteria (HR 1.09), although this pattern was reversed in sick leave spells exceeding 1 year (HR 0.90). Conclusions: Introducing sick-listing guidelines for different illnesses and diseases could have had a considerable impact on TOB. The additional introduction of stricter eligibility rules and time limits seem to have contributed less to TOB but clearly reduced DP in longer sickness spells.Implications for RehabilitationSick-listing guidelines could be a supportive tool for doctors and sickness insurance administrators in the sick-listing process and reduce unnecessary prolongation of sick leave.Specific time limits in sickness insurance and stricter eligibility rules for disability pensions have an impact on compensated sick leave and the welfare of individuals. This has to be considered in the vocational rehabilitation process in order to enhance sustainable return to work.Changes in sickness insurance could influence the duration and exit from compensated sick leave and such changes needs to be considered in studies of vocational rehabilitation, return to work and disability pension.",
+ "tittel": "Termination of sickness benefits or transition to disability pension after changes in sickness insurance: a Swedish register study",
+ "type": "article"
+}

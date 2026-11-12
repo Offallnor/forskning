@@ -1,0 +1,25 @@
+{
+ "apen_url": "https://jamanetwork.com/journals/jamanetworkopen/articlepdf/2816499/taipale_2024_oi_240128_1710263191.38906.pdf",
+ "ar": 2024,
+ "doi": "https://doi.org/10.1001/jamanetworkopen.2024.2859",
+ "forfattere": [
+  "Heidi T. Taipale",
+  "Jakob Bergström",
+  "Katalin Gémes",
+  "Antti Tanskanen",
+  "Lisa Ekselius",
+  "Ellenor Mittendorfer‐Rutz",
+  "Magnus Helgesson"
+ ],
+ "hentet": "2026-11-09",
+ "hentet_fra": "https://uu.diva-portal.org/smash/get/diva2:1854739/FULLTEXT01",
+ "hvordan": "pdf",
+ "id": "W4392986621",
+ "kilde": "JAMA Network Open",
+ "lenke": "https://openalex.org/W4392986621",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "Importance: Individuals with attention-deficit/hyperactivity disorder (ADHD) often have comorbid psychiatric conditions. Relatively little is known about how specific ADHD medications are associated with overall treatment outcomes among these patients. Objective: To investigate the association of the use of specific ADHD medications with hospitalization outcomes and work disability among adolescents and adults with ADHD. Design, Setting, and Participants: This nationwide register-based cohort study identified individuals (aged 16-65 years) with ADHD from Swedish nationwide registers of inpatient health care, specialized outpatient health care, sickness absence, and disability pension during the years 2006 to 2021. Data analysis was performed from November 2022 to August 2023. Exposure: Use of specific ADHD medications. Main Outcomes and Measures: The main outcome measure was psychiatric hospitalization, and secondary outcomes were suicide attempt and/or death by suicide, nonpsychiatric hospitalization, and work disability (ie, sickness absence or disability pension). The risk of outcomes between use vs nonuse periods of ADHD medications was compared in a within-individual design, where a person acts as their own control, and was analyzed with stratified Cox models. Results: A total of 221 714 persons with ADHD were included in the study cohort (mean [SD] age, 25.0 [11.2] years; 120 968 male individuals [54.6%]). Methylphenidate was the most commonly used ADHD medication (151 837 individuals [68.5%]), followed by lisdexamphetamine (78 106 individuals [35.2%]) during the follow-up (mean [SD], 7.0 [4.7] years). The following medications were associated with a decreased risk of psychiatric hospitalization: amphetamine (adjusted hazard ratio [aHR], 0.74; 95% CI, 0.61-0.90), lisdexamphetamine (aHR, 0.80; 95% CI, 0.78-0.82), ADHD drug polytherapy (aHR, 0.85; 95% CI, 0.82-0.88), dexamphetamine (aHR, 0.88; 95% CI, 0.83-0.94), and methylphenidate (aHR, 0.93; 95% CI, 0.92-0.95). No associations were found for modafinil, atomoxetine, clonidine, and guanfacine. Decreased risk of suicidal behavior was associated with the use of dexamphetamine (aHR, 0.69; 95% CI, 0.53-0.89), lisdexamphetamine (aHR, 0.76; 95% CI, 0.68-0.84), and methylphenidate (aHR, 0.92; 95% CI, 0.86-0.98). None of the medications was associated with increased risk of nonpsychiatric hospitalization; instead, use of amphetamine, lisdexamphetamine, polytherapy, dexamphetamine, methylphenidate, and atomoxetine were associated with decreased risk of nonpsychiatric hospitalization. The results regarding work disability were significant only for the use of atomoxetine (aHR, 0.89; 95% CI, 0.82-0.97), especially among adolescents and young adults aged 16 to 29 years, (aHR, 0.82; 95% CI, 0.73-0.92). Conclusions and Relevance: In this nationwide cohort study of adolescents and adults with ADHD, the use of ADHD medication was associated with fewer hospitalizations for both psychiatric and nonpsychiatric morbidity and lower suicidal behavior.",
+ "tittel": "Attention-Deficit/Hyperactivity Disorder Medications and Work Disability and Mental Health Outcomes",
+ "type": "article"
+}

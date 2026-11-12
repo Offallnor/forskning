@@ -1,0 +1,21 @@
+{
+ "apen_url": "https://doi.org/10.1177/0193841x251358288",
+ "ar": 2025,
+ "doi": "https://doi.org/10.1177/0193841x251358288",
+ "forfattere": [
+  "Pathric Hägglund",
+  "Per Johansson",
+  "Kristian Persson"
+ ],
+ "hentet": "2026-11-09",
+ "hentet_fra": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12715019/fullTextXML",
+ "hvordan": "Europe PMC",
+ "id": "W4412112855",
+ "kilde": "Evaluation Review",
+ "lenke": "https://openalex.org/W4412112855",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "This paper analyzes the effects of caseworker screening of doctors' medical sick-leave certificates. The analysis uses data from people appealing caseworkers' denial of their benefit claims. Caseworkers at four units made decisions on the appeals. The distribution of the cases to the four units was based on the appealing person's birth date. One of the units was much stricter than the others (7.8% approved in contrast to 16.1% for the others). This allows us to use birth date as an instrument to estimate the effects of being denied sickness benefits. We find that the denial of sickness benefits, on average, has (i) positive effects on the labor-market outcomes and (ii) no negative effects on health outcomes. As the more liberal units deny sickness benefits for most screened medical certificates, we conclude that caseworker screening is very important in separating meritorious from non-meritorious claims. Doctors' conflicting roles make it difficult for them to act in the best of interest of both their patients and society.",
+ "tittel": "Effects of Caseworker Screening on Employment and Health: Quasi-Experimental Evidence From the Swedish Sickness Insurance Program",
+ "type": "article"
+}

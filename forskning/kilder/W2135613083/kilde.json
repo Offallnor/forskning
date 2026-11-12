@@ -1,0 +1,20 @@
+{
+ "apen_url": "https://link.springer.com/content/pdf/10.1007%2Fs13209-014-0120-z.pdf",
+ "ar": 2014,
+ "doi": "https://doi.org/10.1007/s13209-014-0120-z",
+ "forfattere": [
+  "Yolanda F. Rebollo‐Sanz",
+  "José Ignacio García Pérez"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "https://link.springer.com/content/pdf/10.1007%2Fs13209-014-0120-z.pdf",
+ "hvordan": "pdf",
+ "id": "W2135613083",
+ "kilde": "SERIEs",
+ "lenke": "https://openalex.org/W2135613083",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "Unemployment insurance is usually found to show negative effects in the transition from unemployment to a new job. However, the extent to which workers’ careers might improve or deteriorate as a result of the unemployment insurance system is not immediately clear. This paper addresses the effects of certain aspects of this system on employment stability by jointly accounting for benefits endogeneity, dynamic selection issues and occurrence dependence. The analysis is undertaken for a dual labour market, such as the market in Spain, where temporary and permanent workers differ with respect to numerous individual and labour market characteristics. We find that non-insured unemployed workers experience a greater rate of transition to employment than insured workers. But we also find that benefits encourage job stability for temporary workers not only by increasing subsequent job tenure but also by increasing the probability of entering into a permanent contract. Finally, we get that shortening the duration of the benefit entitlement period does not seem to lead to significant gains in overall employment stability, which increases at most by 4.3 %.",
+ "tittel": "Are unemployment benefits harmful to the stability of working careers? The case of Spain",
+ "type": "article"
+}

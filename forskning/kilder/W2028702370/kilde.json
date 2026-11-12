@@ -1,0 +1,23 @@
+{
+ "apen_url": "https://www.bmj.com/content/bmj/340/bmj.c1035.full.pdf",
+ "ar": 2010,
+ "doi": "https://doi.org/10.1136/bmj.c1035",
+ "forfattere": [
+  "Ludeke C. Lambeek",
+  "Willem van Mechelen",
+  "Dirk L. Knol",
+  "Patrick Loisel",
+  "Johannes R. Anema"
+ ],
+ "hentet": "2026-11-09",
+ "hentet_fra": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC2840223/fullTextXML",
+ "hvordan": "Europe PMC",
+ "id": "W2028702370",
+ "kilde": "BMJ",
+ "lenke": "https://openalex.org/W2028702370",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "OBJECTIVE: To evaluate the effectiveness of an integrated care programme, combining a patient directed and a workplace directed intervention, for patients with chronic low back pain. DESIGN: Population based randomised controlled trial. SETTING: Primary care (10 physiotherapy practices, one occupational health service, one occupational therapy practice) and secondary care (five hospitals). PARTICIPANTS: 134 adults aged 18-65 sick listed for at least 12 weeks owing to low back pain. INTERVENTION: Patients were randomly assigned to usual care (n=68) or integrated care (n=66). Integrated care consisted of a workplace intervention based on participatory ergonomics, involving a supervisor, and a graded activity programme based on cognitive behavioural principles. MAIN OUTCOME MEASURES: The primary outcome was the duration of time off work (work disability) due to low back pain until full sustainable return to work. Secondary outcome measures were intensity of pain and functional status. RESULTS: The median duration until sustainable return to work was 88 days in the integrated care group compared with 208 days in the usual care group (P=0.003). Integrated care was effective on return to work (hazard ratio 1.9, 95% confidence interval 1.2 to 2.8, P=0.004). After 12 months, patients in the integrated care group improved significantly more on functional status compared with patients in the usual care group (P=0.01). Improvement of pain between the groups did not differ significantly. CONCLUSION: The integrated care programme substantially reduced disability due to chronic low back pain in private and working life. Trial registration Current Controlled Trials ISRCTN28478651.",
+ "tittel": "Randomised controlled trial of integrated care to reduce disability from chronic low back pain in working and private life",
+ "type": "article"
+}

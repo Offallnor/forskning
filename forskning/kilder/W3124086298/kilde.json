@@ -1,0 +1,22 @@
+{
+ "apen_url": "https://doi.org/10.1016/j.jdeveco.2025.103598",
+ "ar": 2025,
+ "doi": "https://doi.org/10.1016/j.jdeveco.2025.103598",
+ "forfattere": [
+  "Alex Armand",
+  "Pedro Carneiro",
+  "Federico Tagliati",
+  "Yiming Xia"
+ ],
+ "hentet": "2026-11-08",
+ "hentet_fra": "https://www.bde.es/f/webbde/SES/Secciones/Publicaciones/PublicacionesSeriadas/DocumentosTrabajo/20/Files/dt2022e.pdf",
+ "hvordan": "pdf",
+ "id": "W3124086298",
+ "kilde": "Journal of Development Economics",
+ "lenke": "https://openalex.org/W3124086298",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "This paper examines the impact of an experiment in North Macedonia in which vulnerable unemployed individuals applying to a subsidized employment program were randomly selected to attend job interviews. Employers hiring a new employee from the target population receive a subsidy covering the wage cost of the worker for the first six months. Using administrative employment data, we find that attending the job interview led to an increase of 15 percentage points in the likelihood of being employed 3.5 years after the start of the intervention. We also find positive and statistically significant effects on individuals' non-cognitive and work-related skills.",
+ "tittel": "Can subsidized employment tackle long-term unemployment? Experimental evidence from North Macedonia",
+ "type": "article"
+}

@@ -1,0 +1,22 @@
+{
+ "apen_url": "https://bmjopen.bmj.com/content/bmjopen/5/5/e007139.full.pdf",
+ "ar": 2015,
+ "doi": "https://doi.org/10.1136/bmjopen-2014-007139",
+ "forfattere": [
+  "Åse Sagatun",
+  "Sonja Heyerdahl",
+  "Tore Wentzel‐Larsen",
+  "Lars Lien"
+ ],
+ "hentet": "2026-11-09",
+ "hentet_fra": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4431139/fullTextXML",
+ "hvordan": "Europe PMC",
+ "id": "W2167038532",
+ "kilde": "BMJ Open",
+ "lenke": "https://openalex.org/W2167038532",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "OBJECTIVES: To examine the extent to which smoking, alcohol, physical activity and mental health problems in 15-16-year-olds are associated with receipt of medical benefits in young adulthood, after adjustment for confounders. DESIGN: Prospective population-based cohort survey linked to national registers. PARTICIPANTS: In the 'Youth studies' from the Norwegian Institute of Public Health, 15 966 10th graders in 6 Norwegian counties answered a health behaviour and mental health questionnaire; 88% were linked to National Insurance Administration Registers (FD-Trygd). OUTCOME MEASURE: Time to receipt of medical benefits, based on FD-Trygd. Follow-up was from age 18 years until participants were aged 22-26 years. METHOD: We performed Cox regression analyses to examine the extent to which variations in health behaviour and mental health problems during 10th grade were associated with receipt of medical benefits during follow-up. RESULTS: Daily smoking at age 15-16 years was associated with a significant increase in hazard of receiving health benefits at follow-up compared with not smoking for boys, HR (95% CI) 1.56 (1.23 to 1.98), and for girls 1.47 (1.12 to 1.93). Physical activity was associated with a decrease in hazard compared with inactivity from 23% to 53% in boys and from 21% to 59% in girls, while use of alcohol showed a mixed pattern. The hazard for benefits use rose with increasing levels of emotional symptoms, peer problems, conduct problems and hyperactivity-inattention problems (Strengths and Difficulties Questionnaire) at 15-16 years among both genders. CONCLUSIONS: Health behaviour and mental health problems in adolescence are independent risk factors for receipt of medical benefits in young adulthood.",
+ "tittel": "Medical benefits in young adulthood: a population-based longitudinal study of health behaviour and mental health in adolescence and later receipt of medical benefits",
+ "type": "article"
+}

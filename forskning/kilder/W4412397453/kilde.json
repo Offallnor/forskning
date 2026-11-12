@@ -1,0 +1,16 @@
+{
+ "apen_url": "https://www.econstor.eu/bitstream/10419/324833/1/193066835X.pdf",
+ "ar": 2025,
+ "doi": "https://doi.org/10.29338/wp2025-06",
+ "forfattere": [
+  "Chao, Ying H.",
+  "Griffy, Benjamin S.",
+  "Wiczer, David"
+ ],
+ "id": "W4412397453",
+ "lenke": "https://openalex.org/W4412397453",
+ "oversikt": false,
+ "sammendrag": "In the United States, workers whose past earnings were below a threshold are generally ineligible for unemployment insurance (UI), creating a discontinuous jump in the value of being unemployed. Using a regression discontinuity design with administrative panel data, we estimate a sizable local effect from UI eligibility on earnings in the next employer, around 10 percent per quarter. This evidence, however, understates UI's causal effect because of endogenous non-compliance. It also does not distinguish between underlying reasons for higher re-employment earnings, a higher share of production, or more productive matches. These are addressed through a quantitative model. The underlying causal effect is 50 percent higher than the empirical estimates, and nearly all of the effect comes from workers getting a larger share.",
+ "tittel": "The effect of unemployment insurance eligibility in equilibrium",
+ "type": "paratext"
+}

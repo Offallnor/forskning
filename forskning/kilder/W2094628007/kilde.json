@@ -1,0 +1,16 @@
+{
+ "apen_url": "https://papers.ssrn.com/sol3/Delivery.cfm/lapo_198.pdf?abstractid=684338&mirid=1&type=2",
+ "ar": 2005,
+ "doi": "https://doi.org/10.1111/j.1467-9930.2005.00198.x",
+ "forfattere": [
+  "John M. Mendeloff",
+  "Wayne B. Gray"
+ ],
+ "id": "W2094628007",
+ "kilde": "Law & Policy",
+ "lenke": "https://openalex.org/W2094628007",
+ "oversikt": false,
+ "sammendrag": "We examine different models of employers’ responses to OSHA inspections. The “detection/correction” model assumes that responses are limited to correcting the violations that inspectors cite. The “behavioral shock” model assumes that firms respond by paying more attention to safety issues, even those unrelated to OSHA standards. We test whether some injury types are more affected by inspections than others, or by citations of particular OSHA standards. We conclude that, although citing particular standards can reduce injury types specifically related to those hazards, inspections also affect a wider range of injuries, suggesting a broader impact on managerial attention to safety.",
+ "tittel": "Inside the Black Box: How do OSHA Inspections Lead to Reductions in Workplace Injuries?*",
+ "type": "article"
+}

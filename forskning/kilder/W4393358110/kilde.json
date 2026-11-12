@@ -1,0 +1,26 @@
+{
+ "apen_url": "http://dx.doi.org/10.1080/02813432.2024.2329212",
+ "ar": 2024,
+ "doi": "https://doi.org/10.1080/02813432.2024.2329212",
+ "forfattere": [
+  "Cecilia Björkelund",
+  "Eva‐Lisa Petersson",
+  "Irene Svenningsson",
+  "Ausra Saxvik",
+  "Lilian Wiegner",
+  "Gunnel K. E. Hensing",
+  "Ingibjörg H. Jónsdóttir",
+  "Maria E. H. Larsson"
+ ],
+ "hentet": "2026-11-09",
+ "hentet_fra": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11332284/fullTextXML",
+ "hvordan": "Europe PMC",
+ "id": "W4393358110",
+ "kilde": "Scandinavian Journal of Primary Health Care",
+ "lenke": "https://openalex.org/W4393358110",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "Objectives To investigate whether intensified cooperation between general practitioner (GP), care manager and rehabilitation coordinator (RC) for patients sick-listed for stress-related mental disorder, combined with a person-centred dialogue meeting with employer, could reduce sick-leave days compared with usual care manager contact.Design Pragmatic cluster-randomised controlled trial, randomisation at primary care centre (PCC) level.Setting PCCs in Region Västra Götaland, Sweden, with care manager organisation.Participants Of 30 invited PCCs, 28 (93%) accepted the invitation and recruited 258 patients newly sick-listed due to stress-related mental disorder (n = 142 intervention, n = 116 control PCCs).Intervention Cooperation between GP, care manager and rehabilitation coordinator from start of illness notification plus a person-centred dialogue meeting between patient and employer within 3 months. Regular contact with care manager was continued at the control PCCs.Main outcome measures 12-months net and gross number of sick-leave days. Secondary outcomes: Symptoms of stress, depression, anxiety; work ability and health related quality of life (EQ-5D) over 12 months.Results There were no significant differences between intervention and control groups after 12 months: days on sick-leave (12-months net sick-leave days, intervention, mean = 110.7 days (95% confidence interval (CI) 82.6 − 138.8); control, mean = 99.1 days (95% CI 73.9 − 124.3)), stress, depression, or anxiety symptoms, work ability or EQ-5D. There were no significant differences between intervention and control groups concerning proportion on sick-leave after 3, 6, 12 months. At 3 months 64.8% were on sick-leave in intervention group vs 54.3% in control group; 6 months 38% vs 32.8%, and12 months 16.9% vs 15.5%.Conclusion Increased cooperation at the PCC between GP, care manager and RC for stress-related mental disorder coupled with an early workplace contact in the form of a person-centred dialogue meeting does not reduce days of sick-leave or speed up rehabilitation.Trial registration: ClinicalTrials.gov Identifier: NCT03250026 https://clinicaltrials.gov/study/NCT03250026?tab=results#publicationsCO-WORK-CAREFirst Posted: August 15, 2017. Recruitment of PCCs: September 2017. Inclusion of patients from December 2017",
+ "tittel": "Effects of adding early cooperation and a work-place dialogue meeting to primary care management for sick-listed patients with stress-related disorders: CO-WORK-CARE-Stress – a pragmatic cluster randomised controlled trial",
+ "type": "article"
+}

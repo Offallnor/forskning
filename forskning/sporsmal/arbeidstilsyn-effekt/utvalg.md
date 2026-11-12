@@ -1,0 +1,12 @@
+# Utvalg: effekt av arbeidstilsyn
+
+9.11.2026, testrunde av løypa (full løype).
+
+- **Søk:** 2 517 kandidater fra OpenAlex (fra 2000), 554 fra vitenarkivet, Kudos og *Arbeid og velferd*, 581 fra LIBRIS og 695 fra Finna. Mye støy i alle fire (se `kaldtest.md`).
+- **Første utvalg:** om lag 65 id-er, etter ordfilter og lesing av titler, og alle norske kandidater lest. Tre rapporter lagt inn med adresse etter nettsøk: to danske effektanalyser fra Arbejdstilsynet (2016 og 2018) og den svenske effektevalueringen av sanksjonsavgifter (2024). En fjerde dansk rapport (tilsyn og virksomhetenes økonomi, 2020) ble funnet ved gjennomgangen av oversiktene.
+- **Referanser:** to runder (388 og 300 nye kandidater). Runde 1 ga 23 nye kilder, blant dem Andersen m.fl. 2019 (dansk systematisk oversikt), et randomisert forsøk i Ontario og et australsk kvasieksperiment. Runde 2 ga tre nye kilder i kategori 1–4 (se `metning.md`).
+- **Blindt utvalg:** to kjøringer. Den første (122 rader) fant ni kilder i kategori 1–4 som manglet. Den andre, bare på de nye kandidatene fra runde 2, fant én ny oversikt (Storbritannia 2004). Alle er tatt inn.
+- **Utelatte:** 858 sentrale kandidater er begrunnet i `utelatt.tsv`, de fleste gruppevis på tittel. Om lag 80 kilder om tilsyn, regulering eller som det blinde utvalget tok med, er begrunnet for hånd.
+- **Endelig utvalg:** 116 id-er, med versjoner av samme studie og fem artikler fra samme norske forsøk. Om lag 40 har fulltekst. Resten er lest bare i sammendrag eller mangler både tekst og sammendrag.
+- **Følge oversiktene:** den norske kunnskapsoppsummeringen fra STAMI (Johannessen m.fl. 2017) er lest. Den bygger blant annet på Arbeidstilsynets egne effektevalueringer fra 2008–2012 («Tilsyn gir positiv effekt i virksomhetene», «Strategisk tilsynseffekt» og kampanjerapporter). De finnes ikke i vitenarkivet, Kudos eller *Arbeid og velferd*, og ble ikke funnet med nettsøk. Funnene fra dem gjengis derfor fra STAMI-oversikten. De danske rapportene den omtaler, er dekket av Andersen m.fl. 2019 og rapportene fra Arbejdstilsynet som er lagt inn med adresse.
+- **Sentrale kilder uten tekst:** Levine, Toffel og Johnson 2012 (Science), Mischke m.fl. 2013 (Cochrane), Tompa m.fl. 2016, Li og Singleton 2019 (åpen versjon lagt inn), Johnson 2020, Haviland m.fl. 2010 og 2012, Mendeloff og Gray 2005, de danske rapportene fra Arbejdstilsynet (at.dk nås ikke fra Actions eller skymiljøet), den svenske kunnskapssammenstillingen 2016:10 og de finske rapportene. Se `mangler.md`.

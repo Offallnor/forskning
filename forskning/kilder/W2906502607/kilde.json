@@ -1,0 +1,19 @@
+{
+ "apen_url": "https://academic.oup.com/jrsssc/article-pdf/68/3/793/49337132/jrsssc_68_3_793.pdf",
+ "ar": 2018,
+ "doi": "https://doi.org/10.1111/rssc.12335",
+ "forfattere": [
+  "Dónal O’Neill"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "https://mural.maynoothuniversity.ie/id/eprint/11367/1/DON_New_2018.pdf",
+ "hvordan": "pdf",
+ "id": "W2906502607",
+ "kilde": "Journal of the Royal Statistical Society Series C (Applied Statistics)",
+ "lenke": "https://openalex.org/W2906502607",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "Summary I propose a competing risks decomposition of the difference in the restricted mean lifetimes of two groups, which distinguishes between the incidence and duration effects of exit states. I use the decomposition to evaluate the effect of a cut in unemployment benefits on unemployment durations in Ireland. Whereas the aggregate effect of the benefit cut is similar for men and women, the decomposition reveals that the channels through which the cut affects unemployment durations differ substantially.",
+ "tittel": "A New Competing Risks Decomposition: Application to the Effect Of Cutting Unemployment Benefit on Unemployment Durations",
+ "type": "article"
+}

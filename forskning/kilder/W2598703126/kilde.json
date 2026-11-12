@@ -1,0 +1,16 @@
+{
+ "apen_url": "https://doi.org/10.1016/j.healthpol.2022.01.010",
+ "ar": 2022,
+ "doi": "https://doi.org/10.1016/j.healthpol.2022.01.010",
+ "forfattere": [
+  "Mohamed Ali Ben Halima",
+  "Malik Koubi"
+ ],
+ "id": "W2598703126",
+ "kilde": "Health Policy",
+ "lenke": "https://openalex.org/W2598703126",
+ "oversikt": false,
+ "sammendrag": "This study evaluates the impact of the French reform of 11 January 2008 in the private sector, which modified the share of sick leave paid by the employer in addition to the social security benefit. The reform is comprised of two parts: the waiting period until complementary payment is made by the employer, reduced from ten to seven days; and the minimum required tenure to be eligible, reduced from three years to one year. In this study, we use the administrative panel data (Hygie) from 2006 to 2010 along with a new collective bargaining agreement (CBA) database. The latter was constructed by the authors in order to collect the parameters of complementary benefits for sick leave. We examined separately the effects of the waiting period part and the tenure part of the reform, using a difference-in-differences strategy with matching. When the waiting period is reduced, the number of sick days' increase significantly (+ 0.5 days). When the minimum tenure requirement is reduced, there is more impact on sick leave (+ 0.6 days on the number of sick days and + 0.9 pp on sickness probability). The effects of sick pay reform are different between men and women.",
+ "tittel": "The effects of expanding the generosity of statutory sick leave insurance: The case of a French reform",
+ "type": "article"
+}

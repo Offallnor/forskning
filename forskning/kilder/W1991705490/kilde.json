@@ -1,0 +1,15 @@
+{
+ "ar": 2005,
+ "doi": "https://doi.org/10.1177/0001699305050985",
+ "forfattere": [
+  "Matthias Pollmann‐Schult",
+  "Felix Büchel"
+ ],
+ "id": "W1991705490",
+ "kilde": "Acta Sociologica",
+ "lenke": "https://openalex.org/W1991705490",
+ "oversikt": false,
+ "sammendrag": "The high unemployment figures in many European countries are often attributed to overgenerous unemployment benefits. However, proponents of benefit cuts tend not to recognize that unemployment benefits also facilitate longer job searches and, as a result, ultimately improve job matches. In this article, we investigate the effects of unemployment benefits on subsequent job quality by differentiating between transitions from unemployment to correctly allocated jobs and to over-education. Data are drawn from the West German Life History Study (GLHS). Results from Kaplan-Meier estimators and hazard regression models show that non-recipients of unemployment benefits indeed have a shorter unemployment duration, but that they also have significantly higher rates of transition to over-education than recipients of unemployment benefits. On the other hand, the receipt of unemployment benefits does not influence the transition to qualified jobs, which seems to be influenced more by labour demand. It is therefore important to bear in mind that reforming the unemployment compensation system by reducing unemployment benefits will not only shorten the average unemployment duration, but also increase the incidence of over-education and consequently reduce the overall job match quality in the labour market.",
+ "tittel": "Unemployment Benefits, Unemployment Duration and Subsequent Job Quality",
+ "type": "article"
+}

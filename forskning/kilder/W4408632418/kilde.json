@@ -1,0 +1,22 @@
+{
+ "apen_url": "https://economia.lse.ac.uk/articles/450/files/67da891bd223d.pdf",
+ "ar": 2025,
+ "doi": "https://doi.org/10.31389/eco.450",
+ "forfattere": [
+  "Eduardo Levy Levy-Yeyati",
+  "Martín Montané",
+  "Luca Sartorio",
+  "Alfonso Gauna"
+ ],
+ "hentet": "2026-11-08",
+ "hentet_fra": "https://repositorio.utdt.edu/bitstreams/69945ad8-a4bc-41b6-a96e-6b751bc0430c/download",
+ "hvordan": "pdf",
+ "id": "W4408632418",
+ "kilde": "Economía",
+ "lenke": "https://openalex.org/W4408632418",
+ "merknad": "SJEKK DOKUMENT: «Eduardo Levy Levy-Yeyati» står ikke i starten",
+ "oversikt": true,
+ "sammendrag": "The past 10 years have witnessed a flurry of Randomized Controlled Trials (RCTs) that shed new light on the impact and cost-effectiveness of Active Labor Market Policies (ALMPs) that aim to improve workers’ access to new jobs and better wages. This paper presents the first systematic review of 102 ALMP RCTs comprising a total of 668 estimated impacts. We find that (i) a third of these estimates are positive and statistically significant (PSS) at conventional levels; (ii) programs are more likely to yield positive results when GDP growth is higher and unemployment is lower; (iii) programs aimed at building human capital, such as vocational training, independent worker assistance and wage subsidies, show significant positive impact; and (iv) program length, monetary incentives, individualized follow up and activity targeting are all key features in determining the effectiveness of the interventions. JEL Classification Codes: J21; J48; E24",
+ "tittel": "What Works for Active Labor Market Policies? A Meta-Analysis of RCT Findings",
+ "type": "review"
+}

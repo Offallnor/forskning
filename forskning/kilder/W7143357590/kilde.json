@@ -1,0 +1,14 @@
+{
+ "ar": 2010,
+ "doi": "https://doi.org/10.70675/c746a94az0784z41efzb166z96d849c7550e",
+ "forfattere": [
+  "Florent Frémigacci"
+ ],
+ "id": "W7143357590",
+ "kilde": "theses.fr (ABES)",
+ "lenke": "https://openalex.org/W7143357590",
+ "oversikt": false,
+ "sammendrag": "Cette thèse a pour objet d’évaluer l’impact de l’Assurance-Chômage sur les trajectoires individuelles à partir de données administratives françaises. Le premier chapitre étudie les conséquences de la réforme de 2003 sur le chômage des seniors. L’analyse économétrique repose sur une approche combinée par Régression avec Discontinuité et Différence de Différences. Les résultats obtenus mettent en évidence une réduction significative des durées de chômage suite à l’adoption de la réforme. Le deuxième chapitre propose quant à lui une évaluation du dispositif d’Activité Réduite. Ce système autorise les chômeurs indemnisés à cumuler une partie de leurs allocations avec le salaire provenant d’emplois temporaires. L’estimation d’un modèle de durée multivarié permet d’isoler l’effet causal du dispositif tout en tenant compte de l’endogénéité potentielle de la durée d’activité réduite et du phénomène d’attrition. L’impact sur les transitions vers l’emploi apparaît relativement modeste. Néanmoins, l’effet observé se révèle plus important pour les demandeurs d’emploi rencontrant des difficultés de réinsertion sur le marché du travail. Le troisième chapitre considère enfin le lien entre la générosité de l’indemnisation et la récurrence des périodes de chômage. Le cadre retenu est celui des modèles autorégressifs à effets fixes sur données de panel.Les principaux résultats indiquent que la générosité passée de l’indemnisation n’exerce pas d’effet persistant sur la durée des épisodes de chômage. Celle-ci s’expliquerait essentiellement par l’hétérogénéité individuelle et les conditions d’indemnisation dont bénéficient les individus à leur inscription au chômage.",
+ "tittel": "Assurance-chômage, durée de chômage et retour à l'emploi : évaluations microéconométriques",
+ "type": "dissertation"
+}

@@ -1,0 +1,21 @@
+{
+ "apen_url": "https://labourmarketresearch.springeropen.com/track/pdf/10.1186/s12651-021-00299-9",
+ "ar": 2020,
+ "doi": "https://doi.org/10.1186/s12651-021-00299-9",
+ "forfattere": [
+  "Matthias Draheim",
+  "Peter Schanbacher",
+  "Ruben R. Seiberlich"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "https://labourmarketresearch.springeropen.com/track/pdf/10.1186/s12651-021-00299-9",
+ "hvordan": "pdf",
+ "id": "W3165059038",
+ "kilde": "Journal for Labour Market Research",
+ "lenke": "https://openalex.org/W3165059038",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "Abstract Case managers provide individual and comprehensive support to employees who have become incapable of working. Using data from a large insurance company we find that overall, 43.9% of the people in our sample could be reintegrated. Controlling for personal characteristics, we analyze the effectiveness of case management by modelling the probability of reintegrating people being incapable of working into the labor market. Using parametric and semiparametric decomposition methods, we control for observational differences. We analyze how much of the difference in the reintegration rate between people who participate in case management and those who do not, is due to differences in characteristics and how much is due to case management itself. We find that the estimated probability of reintegration is 18.9% higher if people participate in case management. Moreover, our results show that no more than 15% are due to differences in characteristics and at least 85% can be attributed to case management itself.",
+ "tittel": "On the Effectiveness of Case Management",
+ "type": "article"
+}

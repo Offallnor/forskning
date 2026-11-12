@@ -1,0 +1,15 @@
+{
+ "ar": 1993,
+ "doi": "https://doi.org/10.2307/2554855",
+ "forfattere": [
+  "Maarten Lindeboom",
+  "J.J.M. Theeuwes"
+ ],
+ "id": "W2039259912",
+ "kilde": "Economica",
+ "lenke": "https://openalex.org/W2039259912",
+ "oversikt": false,
+ "sammendrag": "In a simultaneous analysis of unemployment duration and search intensity, the authors estimate a nonstructural search model accounting explicitly for two features of the benefit system: benefit level and time remaining until exhaustion of the entitlement period (residual entitlement). Special attention is paid to the number of search contacts as an indicator for search intensity. To assess the effect of the benefit level and residual entitlement on the number of search contacts, the authors estimate a Poisson model. Their results suggest that benefits work through a reduction of search efforts, whereas residual entitlement is effective mainly through the reservation wage. Copyright 1993 by The London School of Economics and Political Science.",
+ "tittel": "Search, Benefits and Entitlement",
+ "type": "article"
+}

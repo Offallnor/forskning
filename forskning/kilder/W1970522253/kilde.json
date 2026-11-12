@@ -1,0 +1,18 @@
+{
+ "ar": 1996,
+ "doi": "https://doi.org/10.1111/j.1467-9914.1996.tb00084.x",
+ "forfattere": [
+  "Inmaculada Cebrián",
+  "Carlos García",
+  "Juan Muro",
+  "Luis Toharia",
+  "Elizabeth Villagómez"
+ ],
+ "id": "W1970522253",
+ "kilde": "Labour",
+ "lenke": "https://openalex.org/W1970522253",
+ "oversikt": false,
+ "sammendrag": "ABSTRACT: This paper analyses the duration of unemployment spells and the possible incidence of unemployment insurance on job search behaviour and voluntary duration of unemployment in Spain. To do so, a longitudinal data set containing information on unemployment recipients during the period 1987‐93 is used. Hazard rates and survival profiles are constructed for the cohorts of unemployed workers entering the benefit system at different points in time, and a logit model of the probability of leaving the system before exhausting entitlement period is presented. The results do not support the view that the unemployed tend to intensify their job search when benefits are near exhaustion.",
+ "tittel": "The Influence of Unemployment Benefits on Unemployment Duration: Evidence from Spain",
+ "type": "article"
+}

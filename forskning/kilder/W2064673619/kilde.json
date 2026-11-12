@@ -1,0 +1,16 @@
+{
+ "ar": 2010,
+ "doi": "https://doi.org/10.1080/09603121003663461",
+ "forfattere": [
+  "Igor Burstyn",
+  "Lorraine Jonasi",
+  "T. Cameron Wild"
+ ],
+ "id": "W2064673619",
+ "kilde": "International Journal of Environmental Health Research",
+ "lenke": "https://openalex.org/W2064673619",
+ "oversikt": false,
+ "sammendrag": "It was hypothesized that occupational health and safety (OHS) inspectors who prefer to use autonomy supportive tactics to resolve workplace conflicts (e.g. providing rationale, choices) would be more effective in resolving industry non-compliance with OHS regulations, compared to inspectors who prefer to use coercive tactics (e.g. deadlines, pressure). Preferences for resolving work conflicts were collected from 39 Canadian OHS inspectors and were linked to administrative records documenting 17,960 industry inspection episodes and 29,451 compliance orders issued by those inspectors from 2003-2006. Multilevel Poisson and negative binomial regression models examined associations between inspector autonomy-supportiveness and compliance outcomes, adjusting for covariates at the inspector level (e.g. job experience, number of inspection episodes) and at the worksite level (e.g. workplace safety record). Relative to coercive inspectors, autonomy-supportive inspectors issued fewer severe compliance orders and achieved compliance after fewer worksite visits. Use of autonomy-supportive approaches may reduce exposure to preventable injuries at non-compliant worksites.",
+ "tittel": "Obtaining compliance with occupational health and safety regulations: a multilevel study using self-determination theory",
+ "type": "article"
+}

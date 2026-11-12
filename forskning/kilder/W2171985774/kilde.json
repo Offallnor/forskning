@@ -1,0 +1,23 @@
+{
+ "apen_url": "https://bmcpublichealth.biomedcentral.com/counter/pdf/10.1186/1471-2458-9-232",
+ "ar": 2009,
+ "doi": "https://doi.org/10.1186/1471-2458-9-232",
+ "forfattere": [
+  "Sylvia J. van der Burg-Vermeulen",
+  "Sietske J. Tamminga",
+  "Antonius JM Schellart",
+  "Jan Fekke Ybema",
+  "Johannes R. Anema"
+ ],
+ "hentet": "2026-11-09",
+ "hentet_fra": "https://bmcpublichealth.biomedcentral.com/counter/pdf/10.1186/1471-2458-9-232",
+ "hvordan": "pdf",
+ "id": "W2171985774",
+ "kilde": "BMC Public Health",
+ "lenke": "https://openalex.org/W2171985774",
+ "merknad": "SJEKK DOKUMENT: «Sylvia J. van der Burg-Vermeulen» står ikke i starten",
+ "oversikt": false,
+ "sammendrag": "BACKGROUND: In the past decade flexible labour market arrangements have emerged as a significant change in the European Union labour market. Studies suggest that these new types of labour arrangements may be linked to ill health, an increased risk for work disability, and inadequate vocational rehabilitation. Therefore, the objectives of this study were: 1. to examine demographic characteristics of workers without an employment contract sick-listed for at least 13 weeks, 2. to describe the content and frequency of occupational health care (OHC) interventions for these sick-listed workers, and 3. to examine OHC interventions as possible determinants for return-to-work (RTW) of these workers. METHODS: A cohort of 1077 sick-listed workers without an employment contract were included at baseline, i.e. 13 weeks after reporting sick. Demographic variables were available at baseline. Measurement of cross-sectional data took place 4-6 months after inclusion. Primary outcome measures were: frequency of OHC interventions and RTW-rates. Measured confounding variables were: gender, age, type of worker (temporary agency worker, unemployed worker, or remaining worker without employment contract), level of education, reason for absenteeism (diagnosis), and perceived health. The association between OHC interventions and RTW was analysed with a logistic multiple regression analysis. RESULTS: At 7-9 months after the first day of reporting sick only 19% of the workers had (partially or completely) returned to work, and most workers perceived their health as fairly poor or poor. The most frequently reported (49%) intervention was 'the OHC professional discussed RTW'. However, the intervention 'OHC professional made and discussed a RTW action plan' was reported by only 19% of the respondents. The logistic multiple regression analysis showed a significant positive association between RTW and the interventions: 'OHC professional discussed RTW'; and 'OHC professional made and discussed a RTW action plan'. The intervention 'OHC professional referred sick-listed worker to a vocational rehabilitation agency' was significantly associated with no RTW. CONCLUSION: This is the first time that characteristics of a large cohort of sick-listed workers without an employment contract were examined. An experimental or prospective study is needed to explore the causal nature of the associations found between OHC interventions and RTW.",
+ "tittel": "Return-to-work of sick-listed workers without an employment contract – what works?",
+ "type": "article"
+}

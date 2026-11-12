@@ -1,0 +1,25 @@
+{
+ "apen_url": "https://doi.org/10.1186/s12889-026-28486-8",
+ "ar": 2026,
+ "doi": "https://doi.org/10.1186/s12889-026-28486-8",
+ "forfattere": [
+  "Karin Biering",
+  "Berit Schiøttz‐Christensen",
+  "Morten Vejs Willert",
+  "K Nielsen",
+  "Ha Kolstad",
+  "Marianne Kyndi",
+  "Jesper Medom Vestergaard"
+ ],
+ "hentet": "før 2026-11-08",
+ "hentet_fra": "https://link.springer.com/content/pdf/10.1186/s12889-026-28486-8.pdf",
+ "hvordan": "pdf",
+ "id": "W7167811346",
+ "kilde": "BMC Public Health",
+ "lenke": "https://openalex.org/W7167811346",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "OBJECTIVES: Many persons infected with SARS-CoV-2 experienced prolonged symptoms after the acute phase of the infection (long-COVID). We aimed to investigate whether SARS-CoV-2 infection increased the risk of long-term sickness absence, low work participation, and high use of general practitioners in persons in the Danish workforce. METHODS: In a register-based cohort study, we identified 261,325 persons from the workforce who tested positive for SARS-CoV-2 in Denmark. These were matched with persons who tested negative by time, sex, age, and industry and analysed with conditional logistic regression. The outcomes were long-term sickness absence, low work participation and high number of contacts to general practitioners, all measured during year 1 after test. We adjusted for work participation or contacts to general practitioners, both measured during year 1 before test, respectively, and for vaccination status, comorbidity, and educational level. We stratified the result by sex, age, and industry to identify any effect modification by these factors. RESULTS: Most persons infected with SARS-CoV-2 were not on long-term sickness absence (98.3%). However, compared to persons tested negative, SARS-CoV-2 infected had an increased risk of long-term sickness absence (Odds Ratio (OR):2.92[2.82;3.03]) and low work participation (OR:1.32[1.30;1.34]). The risk was higher among women and middle-aged and older persons. Furthermore, the risk was highest in public administration, education and health services, culture and arts, and lowest in agriculture, forestry and fishing. We found an increased risk of high number of contacts to general practitioners among SARS-CoV-2 infected (OR:1.61[1.60;1.63]), however more uniformly distributed across subgroups. CONCLUSION: Infection with SARS-CoV-2 was associated with a higher risk of long-term sickness absence, low work participation and high number of contacts to general practitioners during year 1 after test. The associations differed across sex, age and industry, especially in relation to sickness absence.",
+ "tittel": "The impact of SARS-CoV-2 infection on work participation, sickness absence and general practitioner consultations in the Danish population - a register-based matched cohort study",
+ "type": "article"
+}

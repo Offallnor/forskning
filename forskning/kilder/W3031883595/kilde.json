@@ -1,0 +1,15 @@
+{
+ "apen_url": "https://www.aeaweb.org/articles/pdf/doi/10.1257/aer.20180501",
+ "ar": 2020,
+ "doi": "https://doi.org/10.1257/aer.20180501",
+ "forfattere": [
+  "Matthew S. Johnson"
+ ],
+ "id": "W3031883595",
+ "kilde": "American Economic Review",
+ "lenke": "https://openalex.org/W3031883595",
+ "oversikt": false,
+ "sammendrag": "Publicizing firms’ socially undesirable actions may enhance firms’ incentives to avoid such actions. In 2009, the Occupational Safety and Health Administration (OSHA) began issuing press releases about facilities that violated safety and health regulations. Using quasi-random variation arising from a cutoff rule OSHA followed, I find that publicizing a facility’s violations led other facilities to substantially improve their compliance and experience fewer occupational injuries. OSHA would need to conduct 210 additional inspections to achieve the same improvement in compliance as achieved with a single press release. Evidence suggests that employers improve compliance to avoid costly responses from workers. (JEL J28, J81, K32, L51, M54)",
+ "tittel": "Regulation by Shaming: Deterrence Effects of Publicizing Violations of Workplace Safety and Health Laws",
+ "type": "article"
+}

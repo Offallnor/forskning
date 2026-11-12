@@ -1,0 +1,15 @@
+{
+ "apen_url": "https://files.stlouisfed.org/research/publications/review/2022/06/23/increasing-employment-by-halting-pandemic-unemployment-benefits.pdf",
+ "ar": 2022,
+ "doi": "https://doi.org/10.20955/r.104.166-77",
+ "forfattere": [
+  "Iris Arbogast",
+  "Bill Dupor"
+ ],
+ "id": "W4285412389",
+ "lenke": "https://openalex.org/W4285412389",
+ "oversikt": false,
+ "sammendrag": "In mid-2021, 26 states halted participation in all or some federal emergency unemployment benefits (EUB) programs before those programs' federal funding lapsed. This article uses this asynchronous EUB cessation between early- and late-halting states to estimate the causal impact of benefit cessation on employment.",
+ "tittel": "Increasing Employment by Halting Pandemic Unemployment Benefits",
+ "type": "article"
+}

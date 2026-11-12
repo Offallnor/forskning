@@ -1,0 +1,17 @@
+{
+ "apen_url": "https://link.springer.com/content/pdf/10.1007/978-3-642-57615-7_5.pdf",
+ "ar": 2001,
+ "doi": "https://doi.org/10.1007/978-3-642-57615-7_5",
+ "forfattere": [
+  "Thomas Brodaty",
+  "Bruno Crépon",
+  "Denis Fougère"
+ ],
+ "id": "W2167790690",
+ "kilde": "ZEW economic studies",
+ "lenke": "https://openalex.org/W2167790690",
+ "oversikt": false,
+ "sammendrag": "In this paper we apply the statistical framework recently proposed by ( Imbens 1999 ) and ( Lechner 1999 ) to identify the causal effects of multiple treatments under the conditional independence assumption. We show that under this assumption, matching with respect to the ratio of the scores allows to estimate nonparametrically the average conditional treatment effect for any pair of treatments. Consequently it is possible to estimate this effect by implementing non-parametric matching estimators, which were recently studied by Heckman, Ichimura, Smith and Todd (1998) and ( Heckman, Ichimura and Todd (1998) ). The application concerns the youth employment programs which were set up in France during the eighties to improve the labour market prospects of the most disadvantaged and unskilled young workers. The empirical analysis makes use of nonexperimental longitudinal micro data collected by INSEE (Institut National de la Statistique et des Etudes Economiques, Paris) from 1986 to 1988.",
+ "tittel": "Using matching estimators to evaluate alternative youth employment programs: Evidence from France, 1986–1988",
+ "type": "book-chapter"
+}

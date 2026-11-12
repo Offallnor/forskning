@@ -1,0 +1,21 @@
+{
+ "apen_url": "https://sites.uclouvain.be/econ/DP/IRES/2024009.pdf",
+ "ar": 2025,
+ "doi": "https://doi.org/10.1515/bejeap-2024-0241",
+ "forfattere": [
+  "Muriel Dejemeppe",
+  "Matthieu Delpierre",
+  "Mathilde Pourtois"
+ ],
+ "hentet": "2026-11-08",
+ "hentet_fra": "https://sites.uclouvain.be/econ/DP/IRES/2024009.pdf",
+ "hvordan": "pdf",
+ "id": "W4412889165",
+ "kilde": "The B E Journal of Economic Analysis & Policy",
+ "lenke": "https://openalex.org/W4412889165",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "Abstract We evaluate the impact of hiring subsidies for unemployed jobseekers in Wallonia, the French-speaking region in Belgium, focusing on low-educated youths who gain earlier access to subsidies. Using a regression discontinuity design, we find that prioritizing subsidies for them leads to deadweight losses during the pre-pandemic economic boom. Positive job-finding effects are observed for high school graduates in areas with lower labor market tightness, supporting the hypothesis that this factor drives inefficiency. For high school dropouts, no effects are detected. This may reflect loose targeting – such as lack of a minimum unemployment duration – but other group differences could also play a role.",
+ "tittel": "Hiring Subsidies for Low-Educated Unemployed Youths are Ineffective in a Tight Labor Market",
+ "type": "article"
+}

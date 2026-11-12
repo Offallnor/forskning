@@ -1,0 +1,22 @@
+{
+ "apen_url": "https://www.aeaweb.org/articles/pdf/doi/10.1257/aer.20160816",
+ "ar": 2018,
+ "doi": "https://doi.org/10.1257/aer.20160816",
+ "forfattere": [
+  "Jonas Kolsrud",
+  "Camille Landais",
+  "Peter Nilsson",
+  "Johannes Spinnewijn Y"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "https://cep.lse.ac.uk/pubs/download/dp1361.pdf",
+ "hvordan": "pdf",
+ "id": "W2200172062",
+ "kilde": "American Economic Review",
+ "lenke": "https://openalex.org/W2200172062",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "This paper provides a simple, yet robust framework to evaluate the time profile of benefits paid during an unemployment spell. We derive sufficient-statistics formulae capturing the marginal insurance value and incentive costs of unemployment benefits paid at different times during a spell. Our approach allows us to revisit separate arguments for inclining or declining profiles put forward in the theoretical literature and to identify welfare-improving changes in the benefit profile that account for all relevant arguments jointly. For the empirical implementation, we use administrative data on unemployment, linked to data on consumption, income, and wealth in Sweden. First, we exploit duration-dependent kinks in the replacement rate and find that, if anything, the moral hazard cost of benefits is larger when paid earlier in the spell. Second, we find that the drop in consumption affecting the insurance value of benefits is large from the start of the spell, but further increases throughout the spell. In trading off insurance and incentives, our analysis suggests that the flat benefit profile in Sweden has been too generous overall. However, both from the insurance and the incentives side, we find no evidence to support the introduction of a declining tilt in the profile. (JEL D82, E21, E24, J64, J65)",
+ "tittel": "The Optimal Timing of Unemployment Benefits: Theory and Evidence from Sweden",
+ "type": "article"
+}

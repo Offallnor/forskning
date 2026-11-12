@@ -1,0 +1,24 @@
+{
+ "apen_url": "https://oem.bmj.com/content/oemed/73/1/42.full.pdf",
+ "ar": 2015,
+ "doi": "https://doi.org/10.1136/oemed-2015-103131",
+ "forfattere": [
+  "Jaana I. Halonen",
+  "Svetlana A. Solovieva",
+  "Jaana Pentti",
+  "Mika Kivimaki B",
+  "Jussi Vahtera",
+  "Eira R. A. Viikari-Juntura"
+ ],
+ "hentet": "2026-11-09",
+ "hentet_fra": "https://discovery.ucl.ac.uk/1473315/1/Occup%20Environ%20Med-2016-Halonen-42-50.pdf",
+ "hvordan": "pdf",
+ "id": "W2215805610",
+ "kilde": "Occupational and Environmental Medicine",
+ "lenke": "https://openalex.org/W2215805610",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "OBJECTIVES: Policies have been introduced to reduce sickness absence, but their effectiveness is largely unknown. In a natural experiment, we examined effects of legislative changes on return to work and work participation. METHODS: The source population consisted of up to 72,164 Finnish public sector employees with a permanent job contract in 2008-2011 (before) and in 2013-2014 (after). We used employees with a continuous sickness absence of at least 30 calendar-days (n=5708-6393), 60 compensated days (n=1481-1655) and 90 compensated days (n=766-932). We examined sustainable return to work (a minimum of 28 consecutive working days) with survival analysis as well as monthly work participation after a sickness absence, and annual gain in work participation after the intervention, using trajectory analyses. RESULTS: Sustainable return to work after 60 days of sickness absence occurred earlier after the legislative changes (p value 0.017), although the effect reduced towards the end of the follow-up. There were no differences in return to work after a 30 or 90 days of sickness absence. The largest annual gain, postintervention versus preintervention, in monthly work participation was observed among employees with 60 days of sickness absence and was 230.9 person-years/10,000 employees. The corresponding annual gains among those with 30 days and 90 days of sickness absence were 51.8 and 39.6, respectively. CONCLUSIONS: Our findings suggest that the legislative changes, obligating early notification of prolonged sickness absences as well as assessment of remaining work ability and possibilities to continue working, may enhance sustainable return to work in the short term. Other measures will be needed to enhance work participation, especially in the long term.",
+ "tittel": "Effectiveness of legislative changes obligating notification of prolonged sickness absence and assessment of remaining work ability on return to work and work participation: a natural experiment in Finland",
+ "type": "article"
+}

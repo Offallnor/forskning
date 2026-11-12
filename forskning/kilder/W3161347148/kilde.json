@@ -1,0 +1,22 @@
+{
+ "apen_url": "https://www.frbsf.org/economic-research/files/wp2021-13.pdf",
+ "ar": 2021,
+ "doi": "https://doi.org/10.24148/wp2021-13",
+ "forfattere": [
+  "Federal Reserve Bank of San Francisco",
+  "Nicolas Petrosky-Nadeau",
+  "Robert G. Valletta",
+  "Federal Reserve Bank of San Francisco"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "https://www.frbsf.org/economic-research/files/wp2021-13.pdf",
+ "hvordan": "pdf",
+ "id": "W3161347148",
+ "kilde": "Federal Reserve Bank of San Francisco, Working Paper Series",
+ "lenke": "https://openalex.org/W3161347148",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "We assess labor market effects of the CARES Act $600 UI supplement. We start with direct empirical analyses of labor force transitions using monthly CPS data and imputed UI benefits. The results show moderate disincentive effects of the supplement on job finding. We rationalize this result in a dynamic model of job acceptance decisions that yields a reservation level of UI benefits at which a recipient is indifferent between unemployment and employment at their prior wage. Calculations based on the model confirm that only a small fraction of recipients of the enhanced UI benefits were likely to reject job offers.",
+ "tittel": "UI Generosity and Job Acceptance: Effects of the 2020 CARES Act",
+ "type": "article"
+}

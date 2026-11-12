@@ -1,0 +1,14 @@
+{
+ "ar": 1991,
+ "forfattere": [
+  "Carl Davidson",
+  "Stephen A. Woodbury"
+ ],
+ "id": "W1483371894",
+ "kilde": "Upjohn Research (W.E. Upjohn Institute for Employment Research)",
+ "lenke": "https://openalex.org/W1483371894",
+ "oversikt": false,
+ "sammendrag": "Fifty-eight percent of the workers enrolled in the Illinois Claimant Bonus experiment were eligible for 38 weeks of Unemployment Insurance (UI) benefits--26 weeks of state-regular benefits plus 12 weeks of Federal Supplemental Compensation (FSC). The other 42 percent were eligible for only 26 weeks of state-regular UI benefits. We find that the Claimant Bonus treatment--an offer of $500 in cash for rapid reemployment--reduced the duration of insured unemployment by about 1.8 weeks for workers who were eligible for 38 weeks of UI benefits, but by only about 0.75 week for the workers who were eligible for 26 weeks of UI. We specify a search/matching model for each of the two groups (FSC-eligible and -ineligible) and find that (a) the model predicts a far larger bonus impact for workers eligible for 38 weeks of benefits than for those eligible for 26 weeks, and (b) the model's quantitative predictions cannot be rejected by the data.",
+ "tittel": "Effects of a Reemployment Bonus under Differing Benefit Entitlements, or, Why the Illinois Experiment Worked",
+ "type": "conference-paper"
+}

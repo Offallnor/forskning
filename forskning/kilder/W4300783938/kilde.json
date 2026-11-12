@@ -1,0 +1,19 @@
+{
+ "apen_url": "https://docs.iza.org/dp10484.pdf",
+ "ar": 2016,
+ "forfattere": [
+  "Tomi Kyyrä",
+  "Hanna Pesola"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "https://docs.iza.org/dp10484.pdf",
+ "hvordan": "pdf",
+ "id": "W4300783938",
+ "kilde": "RePEc: Research Papers in Economics",
+ "lenke": "https://openalex.org/W4300783938",
+ "merknad": "ÅPEN VERSJON (preprint eller arbeidsnotat), merkes i svaret",
+ "oversikt": false,
+ "sammendrag": "This paper analyzes the effects of unemployment insurance (UI) benefits on unemployment exits and subsequent labor market outcomes. We exploit a piecewise linear relationship between the previous wage and UI benefits in Finland to identify the causal effects of the benefit level by using a regression kink design. According to our findings, higher benefits lengthen nonemployment spells and decrease time spent in part-time unemployment, and thus result in more full-time unemployment. Also the re-employment probability and post-unemployment wage are negatively affected. The results for the duration of the first post-unemployment job are not conclusive, but in total both employment and earnings in the two years following the beginning of the unemployment spell decrease with higher benefits.",
+ "tittel": "The Effects of UI Benefits on Unemployment and Subsequent Outcomes: Evidence from a Kinked Benefit Rule",
+ "type": "preprint"
+}

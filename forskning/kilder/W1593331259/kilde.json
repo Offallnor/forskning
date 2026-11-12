@@ -1,0 +1,13 @@
+{
+ "ar": 1990,
+ "forfattere": [
+  "Patricia M. Anderson"
+ ],
+ "id": "W1593331259",
+ "kilde": "RePEc: Research Papers in Economics",
+ "lenke": "https://openalex.org/W1593331259",
+ "oversikt": false,
+ "sammendrag": "This paper analyzes the results of the New Jersey Unemployment Insurance Reemployment Demonstration Project (NJUIRDP) and presents a framework for understanding the effects of the reemployment bonus and Job Search Assistance (JSA) aspects of the program. A simple search model which allows the possibility of recall leads to predictions about the time pattern of the effects of a bonus offer on new job finding. The experimental nature of the NJUIRDP allows the effect of the bonus to be isolated, and evidence is found for a positive effect early in the bonus period. This is consistent with the model. Evidence is also found that initial expectation of recall has a negative effect on the new job finding rate, but that this effect disappears over time. This is interpreted as reflecting the updating of recall expectations, as pointed to by the search model. This important interaction between time and recall expectations implies that if JSA can speed up the adjustment of those expectations, the new job finding rate will be increased. Evidence suggesting just such an effect is found when the JSA treatment is isolated.",
+ "tittel": "The Effect of a Reemployment Bonus with the Possibility of Recall: Experimental Evidence from New Jersey",
+ "type": "preprint"
+}

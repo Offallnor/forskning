@@ -1,0 +1,26 @@
+{
+ "apen_url": "https://academic.oup.com/eurpub/advance-article-pdf/doi/10.1093/eurpub/ckaf145/64100072/ckaf145.pdf",
+ "ar": 2025,
+ "doi": "https://doi.org/10.1093/eurpub/ckaf145",
+ "forfattere": [
+  "Stefanie Kirchner",
+  "Katalin Gémes",
+  "Pontus Josefsson",
+  "Thomas Niederkrotenthaler",
+  "Maria Melchior",
+  "Josep Maria Haro",
+  "Mireia Félez-Nóbrega",
+  "Marit Sijbrandij"
+ ],
+ "hentet": "før 2026-11-08",
+ "hentet_fra": "https://boa.unimib.it/bitstream/10281/594461/1/Kirchner%20et%20al-2025-European%20Journal%20of%20Public%20Health-VoR.pdf",
+ "hvordan": "pdf",
+ "id": "W4413383411",
+ "kilde": "European Journal of Public Health",
+ "lenke": "https://openalex.org/W4413383411",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "Few studies have examined the implications of the Covid-19 pandemic on mental health across different employment branches. This study investigated the impact of the pandemic on long-term sickness absence (SA) with common mental disorders (CMDs) and antidepressant prescriptions in different employment branches and age groups in Sweden. Using national registers, we observed the Swedish population (18-65 years) with gainful employment quarterly from 2018 to 2021. An interrupted time-series design was employed to examine changes in trends of incidence rates (IRs) for (i) long-term (>90 days) SA with CMDs and for (ii) antidepressant prescriptions across eight employment branches during versus pre-pandemic. Analyses were stratified by age group. There was no evidence of outcome changes in the entire working age population. However, compared to pre-pandemic levels, the IRs of long-term SA with CMD increased by 5.9% per quarter for those working in the cultural sector [95% confidence interval (CI): 2.2%-9.8%], 3.4% in trade and transportation (95% CI: 0.4%-6.4%), and 5.5% in manufacturing and services (95% CI: 1.5%-9.7%) as well as among individuals aged 56-64. Incident antidepressant prescription rates were marginally higher for workers in construction (1.1% annual increase; 95% CI: 0.1%-2.1%), culture (1.4%; 0.7%-2.0%), and trade and transportation (0.9%; 0.1%-1.7%). While the risk of CMD-related long-term SA or incident antidepressant prescription in Swedish workers did not appear to be impacted by the pandemic, certain employment branches and older individuals were negatively affected in terms of both outcomes. Targeted countermeasures and initiatives to improve well-being are necessary for vulnerable groups.",
+ "tittel": "Sickness absence with common mental disorders and antidepressant prescriptions across different employment branches during as compared to before the Covid-19 pandemic—an observational study covering the Swedish population aged 18–65 years",
+ "type": "article"
+}

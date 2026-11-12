@@ -1,0 +1,16 @@
+{
+ "apen_url": "https://doi.org/10.3886/e113058v1",
+ "ar": 2017,
+ "doi": "https://doi.org/10.3886/e113058v1",
+ "forfattere": [
+  "Arash Nekoei",
+  "Andrea Michaela Weber"
+ ],
+ "id": "W3032721080",
+ "kilde": "ICPSR Data Holdings",
+ "lenke": "https://openalex.org/W3032721080",
+ "oversikt": false,
+ "sammendrag": "Contrary to standard search models predictions, past studies have not found a positive effect of unemployment insurance (UI) on reemployment wages. We estimate a positive UI wage effect exploiting an age-based regression discontinuity design in Austria. A search model incorporating duration dependence predicts two countervailing forces: UI induces workers to seek higher-wage jobs, but reduces wages by lengthening unemployment. Matching-function heterogeneity plausibly generates a negative relationship between the UI unemployment-duration and wage effects, which holds empirically in our sample and across studies, reconciling disparate wage-effect estimates. Empirically, UI raises wages by improving reemployment firm quality and attenuating wage drops.",
+ "tittel": "Replication data for: Does Extending Unemployment Benefits Improve Job Quality?",
+ "type": "dataset"
+}

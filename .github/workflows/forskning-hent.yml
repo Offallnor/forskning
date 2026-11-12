@@ -1,0 +1,43 @@
+name: Hent forskning fra NVA
+
+# Henter metadata og sammendrag fra Nasjonalt vitenarkiv for temaene i forskning/temaer.tsv,
+# katalogen over artiklene i Navs tidsskrift Arbeid og velferd og katalogen over Kudos (DFØ),
+# og legger endringene rett i grenen jobben kjører på (main ved ukentlig kjøring).
+on:
+  schedule:
+    - cron: "30 5 * * 2"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [forskning/temaer.tsv, forskning/verktoy/hent.py, forskning/verktoy/arbeid_og_velferd.py, forskning/verktoy/kudos.py, forskning/verktoy/navbibliotek.py]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: forskning-hent
+  cancel-in-progress: false
+
+jobs:
+  hent:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+      - name: Hent fra NVA
+        run: python3 -I forskning/verktoy/hent.py
+      - name: Hent katalog over Arbeid og velferd (nav.no)
+        run: python3 -I forskning/verktoy/arbeid_og_velferd.py
+      - name: Hent katalog over Kudos (DFØ)
+        run: python3 -I forskning/verktoy/kudos.py
+      - name: Hent katalog over Navs bibliotek (rapporter med lenke)
+        continue-on-error: true   # feil her skal ikke stoppe lagringen av de andre katalogene
+        run: python3 -I forskning/verktoy/navbibliotek.py
+      - name: Lagre endringer
+        run: |
+          git add forskning/katalog
+          if git diff --cached --quiet; then echo "Ingen endringer"; exit 0; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -qm "Forskning fra NVA: oppdatert katalog ($(date -u +%F))"
+          git push

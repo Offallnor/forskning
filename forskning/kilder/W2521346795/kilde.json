@@ -1,0 +1,13 @@
+{
+ "ar": 2016,
+ "forfattere": [
+  "Andrew C. Johnston"
+ ],
+ "id": "W2521346795",
+ "kilde": "ScholarlyCommons (University of Pennsylvania)",
+ "lenke": "https://openalex.org/W2521346795",
+ "oversikt": false,
+ "sammendrag": "Throughout my work, I seek to understand policy issues that have consequences for poverty. Data limitations and non-random assignment of policy treatment make meaningful analysis challenging in what I argue are important areas of policy; to overcome the empirical challenge I combine clean natural experiments with rich administrative data to make progress in each literature. In this collection of essays I look at policy factors for three important determinants of economic wellbeing: labor supply, human capital formation, and labor demand. (1) Regarding labor demand, my coauthor and I study the impact of unemployment insurance benefit extensions on the employment of displaced workers. Using a sharp policy change and rich administrative data I procured, we are able to make considerable progress. (2) Teacher quality is the most powerful school-input in human capital formation. To understand how teacher pay affects the quality of teachers, I leverage a federal policy that provides additional compensation to teachers serving sufficiently poor schools. Using a regression discontinuity design and rich education data, I am able to provide further light on this pressing policy issue. (3) Finally, I assess the consequences of a payroll tax that firms pay on the labor demand. Because the tax increases after recessions, workers may bear the tax when the labor market is already weak. I use a discontinuity in the tax schedule and administrative UI data to estimate the consequences of the tax as a deterrent and the effect of the tax once raised.",
+ "tittel": "Responses to poverty: Essays in public economics and labor",
+ "type": "dissertation"
+}

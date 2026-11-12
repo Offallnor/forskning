@@ -1,0 +1,21 @@
+{
+ "apen_url": "https://www.sjweh.fi/download.php?abstract_id=1111&file_nro=1",
+ "ar": 2007,
+ "doi": "https://doi.org/10.5271/sjweh.1111",
+ "forfattere": [
+  "Emile Tompa",
+  "Scott Trevithick",
+  "Chris McLeod"
+ ],
+ "hentet": "før 2026-11-08",
+ "hentet_fra": "https://www.sjweh.fi/pdf-238026-145782?filename=Systematic-review-of-the-.pdf",
+ "hvordan": "pdf",
+ "id": "W2098026786",
+ "kilde": "Scandinavian Journal of Work Environment & Health",
+ "lenke": "https://openalex.org/W2098026786",
+ "merknad": "",
+ "oversikt": true,
+ "sammendrag": "OBJECTIVES: The objective of this study was to determine the strength of evidence on the effectiveness of two policy levers-the experience rating of workers' compensation insurance and the enforcement of occupational health and safety regulation-in creating incentives for firms to focus on health and safety issues. METHODS: An extensive systematic literature review was undertaken in an effort to capture both published and grey literature studies on the topic. Studies that met specific subject-matter and methods criteria underwent a quality assessment. A qualitative approach to evidence synthesis, known as \"best-evidence\" synthesis, was used. This method ranks the strength of evidence on a particular topic on the basis of the number, quality, and consistency of studies on the topic. RESULTS: There was moderate evidence that the degree of experience rating reduces injuries, limited to mixed evidence that inspections offer general and specific deterrence and that citations and penalties aid general deterrence, and strong evidence that actual citations and penalties reduce injuries. CONCLUSIONS: Although experience rating is a key policy lever of those providing workers' compensation insurance, there is much to be learned about its merits. Few studies have concerned the topic, and most have used crude proxy measures or exploited natural experiments. There have been many more studies on the merits of regulation enforcement, even though here too measures were often crude. Nonetheless, this synthesis indicates that general deterrence is less effective in reducing injury incidence and severity, whereas specific deterrence with regard to citations and penalties does indeed have an impact.",
+ "tittel": "Systematic review of the prevention incentives of insurance and regulatory mechanisms for occupational health and safety",
+ "type": "review"
+}

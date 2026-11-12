@@ -1,0 +1,14 @@
+{
+ "ar": 2022,
+ "doi": "https://doi.org/10.1017/s1365100522000293",
+ "forfattere": [
+  "Omid Mousavi"
+ ],
+ "id": "W4283589614",
+ "kilde": "Macroeconomic Dynamics",
+ "lenke": "https://openalex.org/W4283589614",
+ "oversikt": false,
+ "sammendrag": "Abstract Unemployment insurance benefits are often extended during recessions. Existing research shows that this policy increases the unemployment rate and the duration of unemployment. But less is known about why these changes occur. I construct a job search model with an endogenous participation decision to quantify the contributions of (i) search effort, (ii) job selectivity, and (iii) labor market participation, to changes in unemployment outcomes. In a model calibrated to the US economy, I show that the increased participation accounts for a large fraction of the increase in the unemployment rate following a permanent extension of benefits. This finding indicates the importance of changes in the participation decision of workers facing extended benefits for the unemployment rate—a mechanism that is understudied and frequently overlooked in the quantitative labor market research exploring the impact of UI policies.",
+ "tittel": "Extension of unemployment benefits and changes in job search margins",
+ "type": "article"
+}

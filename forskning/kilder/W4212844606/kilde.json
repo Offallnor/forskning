@@ -1,0 +1,24 @@
+{
+ "apen_url": "https://journals.sagepub.com/doi/pdf/10.1177/02692155221076826",
+ "ar": 2022,
+ "doi": "https://doi.org/10.1177/02692155221076826",
+ "forfattere": [
+  "Oren Zack",
+  "Samuel Melamed",
+  "Haim Silber",
+  "Tali Cinamon",
+  "Doron Levy",
+  "Shlomo Moshe"
+ ],
+ "hentet": "2026-11-09",
+ "hentet_fra": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9082965/fullTextXML",
+ "hvordan": "Europe PMC",
+ "id": "W4212844606",
+ "kilde": "Clinical Rehabilitation",
+ "lenke": "https://openalex.org/W4212844606",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "OBJECTIVE: To study the long-term effectiveness of case-management rehabilitation intervention on vocational reintegration of patients after myocardial infarction (MI). DESIGN: Blinded simple randomization was used to construct an intervention and control groups that were followed up for two years. SUBJECTS AND SETTING: 151 patients, aged 50.3 ± 5.9 years, who experienced uncomplicated MI and were enrolled in a cardiac rehabilitation program were recruited. INTERVENTIONS: included an early referral to an occupational physician, tailoring an occupational rehabilitation program, based on individual patient needs, coordination with relevant parties, psychosocial intervention, intensive follow-up sessions during a two-year follow-up. MAIN MEASURES: Return to work within six months of hospitalization and maintenance of employment at one and two years of follow-up. RESULTS: Return-to-work (RTW) rate in the intervention group was 89% and nearly all maintained employment at one year of follow-up (92%) and two years of follow-up (87%). Moreover, almost all of them returned to and maintained their previous jobs. The corresponding figures were: 98%, 94% and 98%, respectively. The figures for the RTW and employment maintenance for the control group were: 74%, 75%, and 72%, respectively. Only about 75%, in this group kept their previous job. The case-management intervention was associated with increased odds of maintaining employment at follow-up of one year (OR = 5.89, 95% CI 1.42-24.30) and two years (OR = 3.12, 95% CI 1.01-10.03). CONCLUSIONS: The extended case-management rehabilitation intervention had a substantial positive impact on both the RTW of MI patients and their maintenance of employment at one and two years of follow-up. TRIAL REGISTRATION: This trial is registered at US National Institutes of Health #NCT04934735.",
+ "tittel": "The Effectiveness of Case-management Rehabilitation Intervention in Facilitating Return to Work and Maintenance of Employment After Myocardial Infarction: Results of a Randomized Controlled Trial",
+ "type": "article"
+}

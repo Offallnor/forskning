@@ -1,0 +1,17 @@
+{
+ "ar": 2015,
+ "doi": "https://doi.org/10.3280/riv2014-058005",
+ "forfattere": [
+  "Gianluca Mazzarella",
+  "Enrico Rettore",
+  "Ugo Trivellato",
+  "Nadir Zanini"
+ ],
+ "id": "W1982492741",
+ "kilde": "RIV Rassegna Italiana di Valutazione",
+ "lenke": "https://openalex.org/W1982492741",
+ "oversikt": false,
+ "sammendrag": "Liste di Mobilita (LM) is an Italian labour market programme targeted to dismissed workers. It combines an active component for all dismissed workers and a passive one to which only workers dismissed by firms with at least 16 employees are entitled; besides, 50% of the residual passive component the worker would have received had s/he remained unemployed is transferred to any firm hiring him/her from the LM. Exploiting a unique panel data set, we identify the causal effect of being eligible for the latter mixed passive and active component on short to mid-run labour market outcomes, via a fuzzy Regression Discontinuity Design. We validate the design by a set of over-identification tests. We find evidence of a negative effect of this component of the program on the short- to mid-run reemployment probability even if it is robust to alternative specification of the estimator only for middle-age women.",
+ "tittel": "The effect of a mixed passive and active labour market policy: Evidence from an Italian programme for dismissed workers",
+ "type": "article"
+}

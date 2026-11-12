@@ -1,0 +1,26 @@
+{
+ "apen_url": "https://www.mdpi.com/1660-4601/19/23/15674/pdf?version=1669367387",
+ "ar": 2022,
+ "doi": "https://doi.org/10.3390/ijerph192315674",
+ "forfattere": [
+  "Svetlana A. Solovieva",
+  "Karina Undem",
+  "Daniel Falkstedt",
+  "Gun Johansson",
+  "Petter Kristensen",
+  "Jacob Pedersen",
+  "Eira R. A. Viikari-Juntura",
+  "Taina Leinonen"
+ ],
+ "hentet": "før 2026-11-08",
+ "hentet_fra": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9737405/fullTextXML",
+ "hvordan": "Europe PMC",
+ "id": "W4310375817",
+ "kilde": "International Journal of Environmental Research and Public Health",
+ "lenke": "https://openalex.org/W4310375817",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "We identified occupations with a high incidence of prolonged sickness absence (SA) in Nordic employees and explored similarities and differences between the countries. Utilizing data from national registers on 25-59-year-old wage-earners from Denmark, Finland, Norway and Sweden, we estimated the gender- and occupation-specific age-adjusted cumulative incidence of SA due to any cause, musculoskeletal diseases and mental disorders. To increase the comparability of occupations between the countries, we developed a Nordic crosswalk for occupational codes. We ranked occupational groups with the incidence of SA being statistically significantly higher than the population average of the country in question and calculated excess fractions with the employee population being the reference group. We observed considerable occupational differences in SA within and between the countries. Few occupational groups had a high incidence in all countries, particularly for mental disorders among men. In each country, manual occupations typically had a high incidence of SA due to any cause and musculoskeletal diseases, while service occupations had a high incidence due to mental disorders. Preventive measures targeted at specific occupational groups have a high potential to reduce work disability, especially due to musculoskeletal diseases. Particularly groups with excess SA in all Nordic countries could be at focus.",
+ "tittel": "Utilizing a Nordic Crosswalk for Occupational Coding in an Analysis on Occupation-Specific Prolonged Sickness Absence among 7 Million Employees in Denmark, Finland, Norway and Sweden",
+ "type": "article"
+}

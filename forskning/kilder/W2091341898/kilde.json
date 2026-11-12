@@ -1,0 +1,15 @@
+{
+ "ar": 2004,
+ "doi": "https://doi.org/10.1080/0269217042000266436",
+ "forfattere": [
+  "José María Arranz Muñoz",
+  "Juan Muro"
+ ],
+ "id": "W2091341898",
+ "kilde": "International Review of Applied Economics",
+ "lenke": "https://openalex.org/W2091341898",
+ "oversikt": false,
+ "sammendrag": "The objective of this paper is to investigate the causes of the recurrences of individuals in unemployment during benefit periods. So as to attain this objective, we use administrative data from the Spanish Employment Agency to estimate a duration model with multiple spells that allows for unemployment state dependence through lagged unemployment duration in order to distinguish the heterogeneity and scarring effects. We find that an increase in the duration of previous unemployment benefit periods lengthens the expected duration of future unemployment benefit periods. True state dependence and heterogeneity, intensity of job search and local labour market conditions are among the elements that explain this unemployment state dependence.",
+ "tittel": "Recurrent unemployment, welfare benefits and heterogeneity",
+ "type": "article"
+}

@@ -1,0 +1,19 @@
+{
+ "apen_url": "https://s3.amazonaws.com/real.stlouisfed.org/wp/2022/2022-010.pdf",
+ "ar": 2022,
+ "doi": "https://doi.org/10.20955/wp.2022.010",
+ "forfattere": [
+  "Bill Dupor",
+  "Iris Arbogast"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "https://s3.amazonaws.com/real.stlouisfed.org/wp/2022/2022-010.pdf",
+ "hvordan": "pdf",
+ "id": "W4226460977",
+ "lenke": "https://openalex.org/W4226460977",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "This paper uses the asynchronous cessation of emergency unemployment benefits (EUB) in 2021 to investigate the jobs impact of ending unemployment benefits.While some states stopped providing EUB in September, others stopped as early as June.Using the cessation month as an instrument, we estimate the effect on employment of reducing unemployment rolls.In the second month following a state's program termination, for every 100 person reduction in beneficiaries, state employment causally increased by about 27 persons.The effect is statistically different from zero and robust to a wide array of alternative specifications.",
+ "tittel": "The Jobs Effect of Ending Pandemic Unemployment Benefits: A State-Level Analysis",
+ "type": "report"
+}

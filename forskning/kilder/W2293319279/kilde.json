@@ -1,0 +1,14 @@
+{
+ "ar": 2016,
+ "doi": "https://doi.org/10.1115/1.4032929",
+ "forfattere": [
+  "Jeremy M. Gernand"
+ ],
+ "id": "W2293319279",
+ "kilde": "ASCE-ASME Journal of Risk and Uncertainty in Engineering Systems Part B Mechanical Engineering",
+ "lenke": "https://openalex.org/W2293319279",
+ "oversikt": false,
+ "sammendrag": "The safety of mining in the United States has improved significantly over the past few decades, although it remains one of the more dangerous occupations. Following the Sago mine disaster in January 2006, federal legislation (The Mine Improvement and New Emergency Response [MINER] Act of 2006) tightened regulations and sought to strengthen the authority and safety-inspection practices of the Mine Safety and Health Administration (MSHA). While penalties and inspection frequency have increased, understanding of what types of inspection findings are most indicative of serious future incidents is limited. The most effective safety management and oversight could be accomplished by a thorough understanding of what types of infractions or safety inspection findings are most indicative of serious future personnel injuries. However, given the large number of potentially different and unique inspection findings, varied mine characteristics, and types of specific safety incidents, this question is complex in terms of the large number of potentially relevant input parameters. New regulations rely on increasing the frequency and severity of infraction penalties to encourage mining operations to improve worker safety, but without the knowledge of which specific infractions may truly be signaling a dangerous work environment. This paper seeks to inform the question: What types of inspection findings are most indicative of serious future incidents for specific types of mining operations? This analysis utilizes publicly available MSHA databases of cited infractions and reportable incidents. These inspection results are used to train machine learning Classification and Regression Tree (CART) and Random Forest (RF) models that divide the groups of mines into peer groups based on their recent infractions and other defining characteristics with the aim of predicting whether or not a fatal or serious disabling injury is more likely to occur in the following 12-month period. With these characteristics available, additional scrutiny may be appropriately directed at those mining operations at greatest risk of experiencing a worker fatality or disabling injury in the near future. Increased oversight and attention on these mines where workers are at greatest risk may more effectively reduce the likelihood of worker deaths and injuries than increased penalties and inspection frequency alone.",
+ "tittel": "Evaluating the Effectiveness of Mine Safety Enforcement Actions in Forecasting the Lost-Days Rate at Specific Worksites",
+ "type": "article"
+}

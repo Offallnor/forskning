@@ -1,0 +1,26 @@
+{
+ "apen_url": "https://oem.bmj.com/content/oemed/79/2/134.full.pdf",
+ "ar": 2021,
+ "doi": "https://doi.org/10.1136/oemed-2021-107894",
+ "forfattere": [
+  "Andreas Hoff",
+  "Rie Mandrup Poulsen",
+  "Jonas Peter Fisker",
+  "Carsten Rygaard Hjorthøj",
+  "Nicole Rosenberg",
+  "Merete Nordentoft",
+  "Anders Bo Bojesen",
+  "Lene Falgaard Eplov"
+ ],
+ "hentet": "2026-11-09",
+ "hentet_fra": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8785062/fullTextXML",
+ "hvordan": "Europe PMC",
+ "id": "W4200573960",
+ "kilde": "Occupational and Environmental Medicine",
+ "lenke": "https://openalex.org/W4200573960",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "OBJECTIVE: The aim of this study was to investigate an integrated mental healthcare and vocational rehabilitation intervention to improve and hasten the process of return-to-work of people on sick leave with anxiety and depression. METHODS: In this three-arm, randomised trial, participants were assigned to (1) integrated intervention (INT), (2) improved mental healthcare (MHC) or (3) service as usual (SAU). The primary outcome was time to return-to-work measured at 12-month follow-up. The secondary outcomes were time to return-to-work measured at 6-month follow-up; levels of anxiety, depression, stress symptoms, and social and occupational functioning at 6 months; and return-to-work measured as proportion in work at 12 months. RESULTS: 631 individuals were randomised. INT yielded a higher proportion in work compared with both MHC (56.2% vs 43.7%, p=0.012) and SAU (56.2% vs 45%, p=0.029) at 12-month follow-up. We found no differences in return-to-work in terms of sick leave duration at either 6-month or 12-month follow-up, with the latter being the primary outcome. No differences in anxiety, depression or functioning between INT, MHC and SAU were identified, but INT and MHC showed lower scores on Cohen's Perceived Stress Scale compared with SAU at 12-month follow-up. CONCLUSIONS: Although INT did not hasten the process of return-to-work, it yielded better outcome with regard to proportion in work compared with MHC and SAU. The findings suggest that INT compared with SAU is associated with a few, minor health benefits. Overall, INT yielded slightly better vocational and health outcomes, but the clinical significance of the health advantage is questionable. TRIAL REGISTRATION NUMBER: NCT02872051.",
+ "tittel": "Integrating vocational rehabilitation and mental healthcare to improve the return-to-work process for people on sick leave with depression or anxiety: results from a three-arm, parallel randomised trial",
+ "type": "article"
+}

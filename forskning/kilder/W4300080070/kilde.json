@@ -1,0 +1,19 @@
+{
+ "apen_url": "https://docs.iza.org/dp11409.pdf",
+ "ar": 2018,
+ "forfattere": [
+  "Tomi Kyyrä",
+  "Tuuli Paukkeri"
+ ],
+ "hentet": "før 2026-11-08",
+ "hentet_fra": "https://docs.iza.org/dp11409.pdf",
+ "hvordan": "pdf",
+ "id": "W4300080070",
+ "kilde": "Doria (University of Helsinki)",
+ "lenke": "https://openalex.org/W4300080070",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "We study whether the experience rating of employers' disability insurance premiums affects the inflow to disability benefits in Finland. To identify the causal effect of experience rating, we exploit \"kinks\" in the rule that specifies the degree of experience rating as a function of firm size. Using comprehensive matched employer-employee panel data, we estimate the effects of experience rating on the inflow to sickness and disability benefits. Our results suggest that experience rating has reduced the disability inflow among men under age 50. For other groups we find no significant effects, yet we cannot rule out relatively small effects.",
+ "tittel": "Using a Kinked Policy Rule to Estimate the Effect of Experience Rating on Disability Inflow",
+ "type": "other"
+}

@@ -1,0 +1,26 @@
+{
+ "apen_url": "https://bmjpublichealth.bmj.com/content/2/1/e000393.full.pdf",
+ "ar": 2024,
+ "doi": "https://doi.org/10.1136/bmjph-2023-000393",
+ "forfattere": [
+  "Miljana Vukadin",
+  "Wim Zwinkels",
+  "Frederieke G. Schaafsma",
+  "Marcel Spijkerman",
+  "M. de Graaf-Zijl",
+  "Philippe Delespaul",
+  "Jaap van Weeghel",
+  "Johanna Maria van Dongen"
+ ],
+ "hentet": "2026-11-09",
+ "hentet_fra": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11812774/fullTextXML",
+ "hvordan": "Europe PMC",
+ "id": "W4392558137",
+ "kilde": "BMJ Public Health",
+ "lenke": "https://openalex.org/W4392558137",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "Objectives: To assess the effectiveness, cost-effectiveness and return on investment of individual placement and support (IPS) implemented through a reimbursement strategy on a nationwide scale compared with traditional vocational rehabilitation (TVR) regarding sustainable participation in competitive employment in individuals with severe mental illness receiving sickness or disability benefits. Methods: An observational study was conducted using administrative data regarding all Dutch individuals receiving sickness or disability benefits in the period 2012-2019. Exact matching and difference-in-difference fixed-effect estimations were performed to handle the non-randomised nature of the data. The matched sample consisted of 863 IPS and 16 466 TVR participants. The primary effect measure was the proportion of individuals having worked for at least 48 hours per month in competitive employment (ie, for 12 hours or more per week); the proportion of individuals having worked in competitive employment for at least 1 hour per month was also evaluated. Cost-effectiveness and return on investment were assessed from the societal perspective (intervention, sickness/disability benefit and healthcare costs) and payer perspective (sickness/disability benefit costs). Results: IPS led to a statistically significant higher probability of being competitively employed for at least 12 hours per week of 3.7% points (95% CI 0.8% to 6.7%) to 7.5% points (95% CI 3.8% to 11.3%) and of being competitively employed for at least 1 hour per month of 4.7% points (95% CI 1.6% to 7.7%) to 8.9% points (95% CI 5.2 to 12.6%) from 6 to 36 months after starting the intervention. From the societal and payer perspective, IPS was-on average-less costly and more effective than TVR and return-on-investment estimates showed that IPS was-on average-cost saving (eg, societal perspective: ∆C: -364 (95% CI -3977 to 3249); ∆E: 0.104 (95% CI 0.046 to 0.164); benefit-cost ratio: 2.1 (95% CI -14.8 to 19.1)), but the uncertainty surrounding these estimates was large. Conclusions: IPS implemented through a reimbursement strategy on a nationwide scale is more effective and potentially cost-effective than TVR in people with severe mental illness receiving sickness or disability benefits. Based on these results, the implementation of IPS by a wide scale reimbursement strategy could be promoted to enhance sustainable participation in competitive employment in these individuals. Future economic evaluations should strive for a more robust sample size and a long follow-up period.",
+ "tittel": "Effectiveness, cost-effectiveness and return on investment of individual placement and support compared with traditional vocational rehabilitation for individuals with severe mental illness in the Netherlands: a nationwide implementation study",
+ "type": "article"
+}

@@ -1,0 +1,20 @@
+{
+ "apen_url": "http://www.frbsf.org/economic-research/files/wp2014-13.pdf",
+ "ar": 2014,
+ "doi": "https://doi.org/10.24148/wp2014-13",
+ "forfattere": [
+  "Federal Reserve Bank of San Francisco",
+  "Robert G. Valletta"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "http://www.frbsf.org/economic-research/files/wp2014-13.pdf",
+ "hvordan": "pdf",
+ "id": "W4301024061",
+ "kilde": "Federal Reserve Bank of San Francisco, Working Paper Series",
+ "lenke": "https://openalex.org/W4301024061",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "In response to the 2007-09 “Great Recession,” the maximum duration of U.S. unemployment benefits was increased from the normal level of 26 weeks to an unprecedented 99 weeks. I estimate the impact of these extensions on job search, comparing them with the more limited extensions associated with the milder 2001 recession. The analyses rely on monthly matched microdata from the Current Population Survey. I find that a 10-week extension of UI benefits raises unemployment duration by about 1.5 weeks, with little variation across the two episodes. This estimate lies in the middle-to-upper end of the range of past estimates",
+ "tittel": "Recent Extensions of U.S. Unemployment Benefits: Search Responses in Alternative Labor Market States",
+ "type": "article"
+}

@@ -1,0 +1,20 @@
+{
+ "apen_url": "https://doi.org/10.2139/ssrn.2045928",
+ "ar": 2015,
+ "doi": "https://doi.org/10.1177/138826271501700302",
+ "forfattere": [
+  "Karin Margret Edmark",
+  "Kajsa Hanspers"
+ ],
+ "hentet": "2026-11-09",
+ "hentet_fra": "https://www.ifn.se/wfiles/wp/wp894.pdf",
+ "hvordan": "pdf",
+ "id": "W3121447508",
+ "kilde": "European Journal of Social Security",
+ "lenke": "https://openalex.org/W3121447508",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "This study tests whether individuals who grow up with parents on welfare benefits are themselves more (or less) likely to be welfare recipients as young adults, compared to individuals who grow up in non-welfare households. Using detailed register-based information on full Swedish cohorts born in 1982 and 1983 and their parents, we estimate the intergenerational correlation in welfare benefit receipt. The results indicate a strong positive correlation, even after we control for a large set of household level and parental characteristics. The correlation is particularly strong for children who are exposed to parental welfare benefit spells during their late teenage years. We then make use of the sibling difference method to control for unobserved heterogeneity, and thus identify causal effects. This sibling analysis provides no support for a causal effect of parents' welfare benefit receipt on children's future welfare use. The lack of evidence for a causal intergenerational effect might be due to the fact that the sibling method can only be applied to short-term welfare spells. Whether the effect looks different for long-term spells is an interesting topic for future research, but one that cannot be investigated using the sibling method.",
+ "tittel": "Is Welfare Dependency Inherited? Estimating Causal Welfare Transmission Effects Using Swedish Sibling Data",
+ "type": "article"
+}

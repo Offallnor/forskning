@@ -1,0 +1,3 @@
+utfall	gruppe	design	land	sammenligning	mal	estimat	ki_lav	ki_hoy	n	side	sitat	sporsmal	kontrollert
+ledighetsrate i fylker (log-poeng per 1 prosent lengre periode, kort sikt)		kvasi	USA	forlengelser av dagpengeperioden, nabofylker over delstatsgrense	elastisitet	0.052				17	In the short run, a 1% rise in benefit duration for a quarter leads to 0.052 log points increase in unemployment rate.	dagpenger-varighet-niva	2026-11-10
+ledighetsrate 2010K4 ved kutt fra 99 til 26 uker (faktisk 9.5)		simulering	USA	kutt i maksimal periode fra 99 til 26 uker	prosent	7.8				17	Then adjusted the UI policy to standard duration (26 weeks), the unemployment rate in 2010Q4 and 2011Q4 would haven been 7.8% and 6.7%.	dagpenger-varighet-niva	2026-11-10

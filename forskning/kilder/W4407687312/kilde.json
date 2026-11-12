@@ -1,0 +1,24 @@
+{
+ "apen_url": "https://bmcpublichealth.biomedcentral.com/counter/pdf/10.1186/s12889-025-21716-5",
+ "ar": 2025,
+ "doi": "https://doi.org/10.1186/s12889-025-21716-5",
+ "forfattere": [
+  "Marc Corbière",
+  "Maud Mazaniello-Chézol",
+  "Tania Lecomte",
+  "Stéphane Guay",
+  "Alexandra Joelle Panaccio",
+  "Charles‐Édouard Giguère"
+ ],
+ "hentet": "2026-11-09",
+ "hentet_fra": "https://bmcpublichealth.biomedcentral.com/counter/pdf/10.1186/s12889-025-21716-5",
+ "hvordan": "pdf",
+ "id": "W4407687312",
+ "kilde": "BMC Public Health",
+ "lenke": "https://openalex.org/W4407687312",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "Abstract Background Common mental disorders (CMDs) are highly prevalent in workplace settings, and have become a significant public health challenge. This study aims to assess the effectiveness of PRATICAdr, a web application facilitated by a Return-to-Work Coordinator (RTW-C), with a focus on reducing sick leave duration and preventing relapse in individuals with CMDs. Methods PRATICAdr, designed to enhance collaboration among Return-to-Work (RTW) stakeholders and provide systematic support throughout the RTW process, was evaluated in a quasi-experimental study. Survival analyses were used to compare sick leave durations and relapses between the experimental group (PRATICAdr with RTW-C), and control groups (RTW-C only). Both conditions had equal distribution of 50% from a large public health organization (n = 35) and 50% from a large private financial organization (n = 35). Mixed linear models were used to observe changes in clinical symptoms over time, especially for the experimental group. Results The experimental group demonstrated significantly shorter sick leave durations and fewer relapses compared to the control group. Notably, the average absence duration was close to 3 months shorter in the experimental group. This difference was found when the RTW-C intervention (rehabilitation care) began 2 months after the onset of sick leave. Relapses occurred only in the control group (13.2%). The absence of relapses in the experimental group is noteworthy, along with the significant decrease in depressive and anxious symptoms over time. Conclusions The findings suggest that incorporating PRATICAdr into RTW-C intervention can lead to substantial cost savings by facilitating coordination among stakeholders and guiding the RTW process with validated tools. Initiation of RTW-C intervention alongside PRATICAdr within the first month of absence is recommended for optimal health and work outcomes.",
+ "tittel": "Web-enhanced return-to-work coordination for employees with common mental disorders: reduction of sick leave duration and relapse",
+ "type": "article"
+}

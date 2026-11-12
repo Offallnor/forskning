@@ -1,0 +1,17 @@
+{
+ "apen_url": "https://doi.org/10.2139/ssrn.191949",
+ "ar": 2001,
+ "doi": "https://doi.org/10.1111/1468-0297.00659",
+ "forfattere": [
+  "Kenneth Carling",
+  "Bertil Holmlund",
+  "Altin Vejsiu"
+ ],
+ "id": "W3121246414",
+ "kilde": "The Economic Journal",
+ "lenke": "https://openalex.org/W3121246414",
+ "oversikt": false,
+ "sammendrag": "In June 1995, the Swedish parliament decided to cut the replacement rate in unemployment insurance from 80% to 75%, a change that took effect on 1 January 1996. The paper exploits a quasi-experimental feature of the benefit reform to examine the effect on job finding. We compare the evolution of transitions to employment before and after the reform among those affected and those not affected. Our estimates suggest that the reform caused an increase in the transition rate of roughly 10%. Moreover, the reform appears to have affected behaviour several months before its actual implementation in January 1996.",
+ "tittel": "Do Benefit Cuts Boost Job Finding? Swedish Evidence from the 1990s*",
+ "type": "article"
+}

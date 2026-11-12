@@ -1,0 +1,21 @@
+{
+ "apen_url": "https://www.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/jae.2620",
+ "ar": 2018,
+ "doi": "https://doi.org/10.1002/jae.2620",
+ "forfattere": [
+  "Petri Böckerman",
+  "Ohto Kanninen",
+  "Ilpo Suoniemi"
+ ],
+ "hentet": "før 2026-11-08",
+ "hentet_fra": "https://mpra.ub.uni-muenchen.de/87499/1/MPRA_paper_87499.pdf",
+ "hvordan": "pdf",
+ "id": "W2793267873",
+ "kilde": "Journal of Applied Econometrics",
+ "lenke": "https://openalex.org/W2793267873",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "Summary We exploit a regression kink design to estimate the elasticity of the duration of sickness absence with respect to replacement rate. Elasticity is a central parameter in defining the optimal social insurance scheme compensating for lost earnings due to sickness. We use comprehensive administrative data and a kink in the policy rule near the median earnings. We find a statistically significant estimate of the elasticity of the order of one.",
+ "tittel": "A kink that makes you sick: The effect of sick pay on absence",
+ "type": "article"
+}

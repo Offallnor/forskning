@@ -1,0 +1,12 @@
+{
+ "ar": 2011,
+ "forfattere": [
+  "Martin Ljunge"
+ ],
+ "id": "W2188125461",
+ "lenke": "https://openalex.org/W2188125461",
+ "oversikt": false,
+ "sammendrag": "We estimate a compensated price elasticity of sickness absence. Sick leave is an intensive margin of labor supply where individuals are free to adjust. The elasticity tells us about the price responsiveness of effort and program participation. We exploit variation in tax rates over two decades, which provide thousands of differential incentives across time and space, to estimate the price responsiveness. High taxes provide an incentive to take more sick leave, as less after tax income is lost when taxes are high. The panel data allow for extensive controls, including unobserved individual characteristics, and the panel is representative of the full population. We find a substantial price elasticity of sick leave, -0.7, with respect to the net of tax rate. This indicates that high tax rates significantly reduce work effort and increase program participation. JEL codes: H31, I31, J22",
+ "tittel": "Sick of Taxes? Sick Leave, Effort, and Taxes",
+ "type": "article"
+}

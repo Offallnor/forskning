@@ -1,0 +1,25 @@
+{
+ "apen_url": "https://bmcpublichealth.biomedcentral.com/track/pdf/10.1186/s12889-021-11898-z",
+ "ar": 2021,
+ "doi": "https://doi.org/10.1186/s12889-021-11898-z",
+ "forfattere": [
+  "Anthony Venning",
+  "Tassia Kate Oswald",
+  "Jeremy Stevenson",
+  "Nicci Tepper",
+  "Leva Azadi",
+  "Sharon Lawn",
+  "Paula Redpath"
+ ],
+ "hentet": "2026-11-09",
+ "hentet_fra": "https://bmcpublichealth.biomedcentral.com/track/pdf/10.1186/s12889-021-11898-z",
+ "hvordan": "pdf",
+ "id": "W3215327468",
+ "kilde": "BMC Public Health",
+ "lenke": "https://openalex.org/W3215327468",
+ "merknad": "",
+ "oversikt": true,
+ "sammendrag": "PURPOSE: Work can offer a myriad of social and health benefits. Long-term sick leave can be detrimental to employers, individuals, families, and societies. The burden of long-term sick leave has motivated the development of return to work (RTW) interventions. This study sought to determine what constitutes an effective psychosocial RTW intervention, which included exploring whether the level of intervention intensity and intervention characteristics matter to RTW outcomes. METHODS: A systematic review and narrative synthesis were undertaken. Studies were identified through six databases (Ovid Medline, CINAHL (EBSCOhost), PsycInfo (Ovid), ProQuest, Scopus, and Google Scholar) between 2011 and 3 September 2019. Randomised controlled trials (RCTs) or reviews published in English were eligible for inclusion if they targeted adults who were on sick leave/unemployed trying to return to full-capacity employment, had at least one structured psychosocial RTW intervention, and assessed RTW. Study quality was assessed using checklists from the Joanna Briggs Institute. RESULTS: Database searching yielded 12,311 records. Eighteen RCTs (comprising 42 intervention/comparison groups), seven reviews (comprising 153 studies), and five grey literature documents were included. Included studies were of moderate-to-high quality. Research was primarily conducted in Europe and focused on psychological or musculoskeletal problems. RTW outcomes included RTW status, time until RTW, insurance claims, and sick days. Participating in a RTW program was superior to care-as-usual. RTW outcomes were similar between diverse interventions of low, moderate, and high intensity. Common foundational characteristics seen across effective RTW interventions included a focus on RTW, psychoeducation, and behavioural activation. CONCLUSIONS: Evidence suggests that a low intensity approach to RTW interventions may be an appropriate first option before investment in high intensity, and arguably more expensive interventions, as the latter appear to provide limited additional benefit. More high-quality RCTs, from diverse countries, are needed to provide stronger evidence.",
+ "tittel": "Determining what constitutes an effective psychosocial ‘return to work’ intervention: a systematic review and narrative synthesis",
+ "type": "review"
+}

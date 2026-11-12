@@ -1,0 +1,21 @@
+{
+ "apen_url": "https://doi.org/10.3386/w30134",
+ "ar": 2022,
+ "doi": "https://doi.org/10.3386/w30134",
+ "forfattere": [
+  "Mark L. Gertler",
+  "Christopher Huckfeldt",
+  "Antonella Trigari"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "https://repec.unibocconi.it/igier/igi/wp/2022/682.pdf",
+ "hvordan": "pdf",
+ "id": "W4282830508",
+ "kilde": "National Bureau of Economic Research",
+ "lenke": "https://openalex.org/W4282830508",
+ "merknad": "ÅPEN VERSJON (preprint eller arbeidsnotat), merkes i svaret",
+ "oversikt": false,
+ "sammendrag": "We revisit the role of temporary layoffs in the business cycle, motivated by their unprecedented surge during the pandemic recession.We first measure the contribution of temporary layoffs to unemployment dynamics over the period 1979 to the present.While many have emphasized a stabilizing effect due to recall hiring, we quantify an important destabilizing effect due to \"loss-of-recall\", whereby workers in temporary-layoff unemployment lose their job permanently and do so at higher rates in recessions.We then develop a quantitative model that allows for endogenous flows of workers across employment and both temporary-layoff and jobless unemployment.The model captures well pre-pandemic unemployment dynamics and shows how loss-of-recall enhances the recessionary contribution of temporary layoffs.We also show that with some modification the model can capture the pandemic recession.We then use our structural model to show that the Paycheck Protection Program generated significant employment gains.It did so in part by significantly reducing loss-of-recall.",
+ "tittel": "Temporary Layoffs, Loss-of-Recall and Cyclical Unemployment Dynamics",
+ "type": "report"
+}

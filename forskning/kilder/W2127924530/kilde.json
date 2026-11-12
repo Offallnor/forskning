@@ -1,0 +1,25 @@
+{
+ "apen_url": "https://bmcpublichealth.biomedcentral.com/counter/pdf/10.1186/1471-2458-13-941",
+ "ar": 2013,
+ "doi": "https://doi.org/10.1186/1471-2458-13-941",
+ "forfattere": [
+  "Karin A. A. De Ridder",
+  "Kristine Pape",
+  "Koenraad Frans Cuypers",
+  "Roar Johnsen",
+  "Turid Lingaas Holmen",
+  "Steinar Westin",
+  "Johan Hå‌kon Bjø‌rngaard"
+ ],
+ "hentet": "2026-11-09",
+ "hentet_fra": "https://bmcpublichealth.biomedcentral.com/counter/pdf/10.1186/1471-2458-13-941",
+ "hvordan": "pdf",
+ "id": "W2127924530",
+ "kilde": "BMC Public Health",
+ "lenke": "https://openalex.org/W2127924530",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "BACKGROUND: High school dropout and long-term sickness absence/disability pension in young adulthood are strongly associated. We investigated whether common risk factors in adolescence may confound this association. METHODS: Data from 6612 school-attending adolescents (13-20 years old) participating in the Norwegian Young-HUNT1 Survey (1995-1997) was linked to long-term sickness absence or disability pension from age 24-29 years old, recorded in the Norwegian Labour and Welfare Organisation registers (1998-2008). We used logistic regression to estimate risk differences of sickness or disability for school dropouts versus completers, adjusting for health, health-related behaviours, psychosocial factors, school problems, and parental socioeconomic position. In addition, we stratified the regression models of sickness and disability following dropout across the quintiles of the propensity score for high school dropout. RESULTS: The crude absolute risk difference for long-term sickness or disability for a school dropout compared to a completer was 0.21% or 21% points (95% confidence interval (CI), 17 to 24). The adjusted risk difference was reduced to 15% points (95% CI, 12 to 19). Overall, high school dropout increased the risk for sickness or disability regardless of the risk factor level present for high school dropout. CONCLUSION: High school dropouts have a strongly increased risk for sickness and disability in young adulthood across all quintiles of the propensity score for dropout, i.e. independent of own health, family and socioeconomic factors in adolescence. These findings reveal the importance of early prevention of dropout where possible, combined with increased attention to labour market integration and targeted support for those who fail to complete school.",
+ "tittel": "High school dropout and long-term sickness and disability in young adulthood: a prospective propensity score stratified cohort study (the Young-HUNT study)",
+ "type": "article"
+}

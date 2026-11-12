@@ -1,0 +1,25 @@
+{
+ "apen_url": "https://bmcpublichealth.biomedcentral.com/counter/pdf/10.1186/1471-2458-10-301",
+ "ar": 2010,
+ "doi": "https://doi.org/10.1186/1471-2458-10-301",
+ "forfattere": [
+  "Björn Karlson",
+  "Peter Jönsson",
+  "Birgitta Pålsson",
+  "Gunnel Åbjörnsson",
+  "Birgitta Malmberg",
+  "Britt K. Larsson",
+  "Kai Österberg"
+ ],
+ "hentet": "2026-11-09",
+ "hentet_fra": "https://bmcpublichealth.biomedcentral.com/counter/pdf/10.1186/1471-2458-10-301",
+ "hvordan": "pdf",
+ "id": "W2103615890",
+ "kilde": "BMC Public Health",
+ "lenke": "https://openalex.org/W2103615890",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "BACKGROUND: In the present study the effect of a workplace-oriented intervention for persons on long-term sick leave for clinical burnout, aimed at facilitating return to work (RTW) by job-person match through patient-supervisor communication, was evaluated. We hypothesised that the intervention group would show a more successful RTW than a control group. METHODS: In a prospective controlled study, subjects were identified by the regional social insurance office 2-6 months after the first day on sick leave. The intervention group (n = 74) was compared to a control group who had declined participation, being matched by length of sick leave (n = 74). The RTW was followed up, using sick-listing register data, until 1.5 years after the time of intervention. RESULTS: There was a linear increase of RTW in the intervention group during the 1.5-year follow-up period, and 89% of subjects had returned to work to some extent at the end of the follow-up period. The increase in RTW in the control group came to a halt after six months, and only 73% had returned to work to some extent at the end of the 1.5-year follow-up. CONCLUSIONS: We conclude that the present study demonstrated an improvement of long-term RTW after a workplace-oriented intervention for patients on long-term sick leave due to burnout. TRIAL REGISTRATION: Current Controlled Trials NCT01039168.",
+ "tittel": "Return to work after a workplace-oriented intervention for patients on sick-leave for burnout - a prospective controlled study",
+ "type": "article"
+}

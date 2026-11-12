@@ -1,0 +1,19 @@
+{
+ "apen_url": "https://mpra.ub.uni-muenchen.de/102390/1/MPRA_paper_102390.pdf",
+ "ar": 2020,
+ "forfattere": [
+  "Dana P. Scott",
+  "Lucas Finamor"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "https://mpra.ub.uni-muenchen.de/102390/1/MPRA_paper_102390.pdf",
+ "hvordan": "pdf",
+ "id": "W3048915154",
+ "kilde": "Munich Personal RePEc Archive (Ludwig Maximilian University of Munich)",
+ "lenke": "https://openalex.org/W3048915154",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "In response to the Covid-19 pandemic, the United States enacted the CARES Act, which expanded unemployment insurance (UI) benefits by providing a $600 weekly payment in addition to state unemployment benefits. We test whether changes in UI benefit generosity are associated with decreased employment, both at the onset of the benefits expansion and as businesses began to reopen. We use data from Homebase, a private firm that provides scheduling and time clock software to small businesses, which allows us to exploit high-frequency observations to understand how firms and workers respond to policy changes in real time. While our results show that relative declines in employment and hours occurred in mid-March, we find that the workers with higher post-CARES replacement rates did not experience larger declines in employment or hours of work when the benefits expansion went into effect. They have also returned to their previous jobs over time at similar rates as others.",
+ "tittel": "Employment Effects of Unemployment Insurance Generosity During the Pandemic",
+ "type": "report"
+}

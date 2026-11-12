@@ -1,0 +1,16 @@
+{
+ "apen_url": "https://doi.org/10.2139/ssrn.283111",
+ "ar": 2003,
+ "doi": "https://doi.org/10.3368/jhr.xxxviii.1.156",
+ "forfattere": [
+  "John T. Addison",
+  "Pedro Portugal"
+ ],
+ "id": "W3121929683",
+ "kilde": "The Journal of Human Resources",
+ "lenke": "https://openalex.org/W3121929683",
+ "oversikt": false,
+ "sammendrag": "This paper examines the determinants of unemployment duration in a competing risks framework with two destination states, namely, inactivity and employment. The major innovation is our recognition of defective risks. We first use a polynomial hazard function to test for the presence of two-sources of defective risks: search involving a random process of unlucky draws that yields a non-proper duration distribution; and a split-population model in which the decision by some individuals not to consider certain destination states produces a defective distribution. Having established the primacy of the latter model, we refine it using a more flexible piecewise-constant baseline hazard function. This specification broadly confirms our earlier findings but offers a more convincing explanation for positive and zero transition rates out of unemployment. Although we do not reject the null of proportionality, abandoning the proportionality assumption does not materially alter our conclusions.",
+ "tittel": "Unemployment Duration",
+ "type": "article"
+}

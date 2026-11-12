@@ -1,0 +1,22 @@
+{
+ "apen_url": "https://bmjopen.bmj.com/content/bmjopen/2/6/e001942.full.pdf",
+ "ar": 2012,
+ "doi": "https://doi.org/10.1136/bmjopen-2012-001942",
+ "forfattere": [
+  "Kristine Pape",
+  "Johan Hå‌kon Bjø‌rngaard",
+  "Turid Lingaas Holmen",
+  "Steinar Krokstad"
+ ],
+ "hentet": "2026-11-09",
+ "hentet_fra": "https://nva.sikt.no/registration/0198cc758366-48a1b68f-bf01-4179-bc78-88d4c2463167",
+ "hvordan": "vitenarkivet",
+ "id": "W2160015399",
+ "kilde": "BMJ Open",
+ "lenke": "https://openalex.org/W2160015399",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "OBJECTIVES: To examine the association between anxiety and depression symptoms in adolescents and their families and later medical benefit receipt in young adulthood. DESIGN: Prospective cohort study. Norwegian population study linked to national registers. PARTICIPANTS: Data from the Nord-Trøndelag Health Study 1995-1997 (HUNT) gave information on anxiety and depression symptoms as self-reported by 7497 school-attending adolescents (Hopkins Symptoms Checklist-SCL-5 score) and their parents (Hospital Anxiety and Depression Scale score). There were 2711 adolescents with one or more siblings in the cohort. OUTCOME MEASURES: Adolescents were followed for 10 years in national social security registers, identifying long-term receipt of medical benefits (main outcome) and unemployment benefits for comparison from ages 20-29. METHODS: We used logistic regression to estimate OR of benefit receipt for groups according to adolescent and parental anxiety and depression symptom load (high vs low symptom loads) and for a one point increase in the continuous SCL-5 score (range 1-4). We adjusted for family-level confounders by comparing siblings differentially exposed to anxiety and depression symptoms. RESULTS: Comparing siblings, a one point increase in the mean SCL-5 score was associated with a 65% increase in the odds of medical benefit receipt from age 20-29 (adjusted OR, 1.65, 95% CI 1.10 to 2.48). Parental anxiety and depression symptom load was an indicator of their adolescent's future risk of medical benefit receipt, and adolescents with both parents reporting high symptom loads seemed to be at a particularly high risk. The anxiety and depression symptom load was only weakly associated with unemployment benefits. CONCLUSIONS: Adolescents in families hampered by anxiety and depression symptoms are at a substantially higher risk of medical welfare dependence in young adulthood. The prevention and treatment of anxiety and depression in adolescence should be family-oriented and aimed at ensuring work-life integration.",
+ "tittel": "The welfare burden of adolescent anxiety and depression: a prospective study of 7500 young Norwegians and their families: the HUNT study",
+ "type": "article"
+}

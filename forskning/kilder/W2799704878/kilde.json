@@ -1,0 +1,25 @@
+{
+ "apen_url": "https://bmcpublichealth.biomedcentral.com/track/pdf/10.1186/s12889-018-5420-y",
+ "ar": 2018,
+ "doi": "https://doi.org/10.1186/s12889-018-5420-y",
+ "forfattere": [
+  "Rune Hoff",
+  "Karina Corbett",
+  "Ingrid Sivesind Mehlum",
+  "Ferdinand Andreas Mohn",
+  "Petter Kristensen",
+  "Therese N. Hanvold",
+  "Jon Michael Gran"
+ ],
+ "hentet": "2026-11-09",
+ "hentet_fra": "https://bmcpublichealth.biomedcentral.com/track/pdf/10.1186/s12889-018-5420-y",
+ "hvordan": "pdf",
+ "id": "W2799704878",
+ "kilde": "BMC Public Health",
+ "lenke": "https://openalex.org/W2799704878",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "BACKGROUND: Completing upper secondary education is associated with higher work participation and less health-related absence from work. Although these outcomes are closely interrelated, most studies focus on single outcomes, using cross-sectional designs or short follow-up periods. As such, there is limited knowledge of the long-term outcomes, and how paths for completers and non-completers unfold over time. In this paper, we use multi-state models for time-to-event data to assess the long-term effects of completing upper secondary education on employment, tertiary education, sick leave, and disability pension over twelve and a half years for young men. METHODS: Baseline covariates and twelve and a half years of follow-up data on employment, tertiary education, sick leave and disability pension were obtained from national registries for all males born in Norway between 1971 and 1976 (n =184951). The effects of completing upper secondary education (by age 23) were analysed in a multi-state framework, adjusting for both individual and family level confounders. All analyses were done separately for general studies and vocational tracks. RESULTS: Completers do better on a range of outcomes compared to non-completers, for both fields of upper secondary education, but effects of completion change over time. The largest changes are for tertiary education and work, with the probability of work increasing reciprocally to the probability of education. Vocational students are quicker to transfer to the labour market, but tend to have more unemployment, sick leave and disability, and the absolute effects of completion on these outcomes are largest for vocational tracks. However, the relative effects of completion are larger for general studies. CONCLUSION: Completing upper secondary education increases long-term work participation and lowers health-related absence for young men, but effects diminish over time. Studies that have used shorter follow-up periods could be overstating the negative effects of dropout on labour market participation. Multi-state models are well suited to analyse data on work, education and health-related absence, and can be useful in understanding the dynamic aspects of these outcomes.",
+ "tittel": "The impact of completing upper secondary education - a multi-state model for work, education and health in young men",
+ "type": "article"
+}

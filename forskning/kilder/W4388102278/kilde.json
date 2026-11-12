@@ -1,0 +1,23 @@
+{
+ "apen_url": "https://doi.org/10.3386/w31807",
+ "ar": 2023,
+ "doi": "https://doi.org/10.3386/w31807",
+ "forfattere": [
+  "Matthew Gudgeon",
+  "Pablo Guzman",
+  "Johannes F. Schmieder",
+  "Simon Trenkle",
+  "Han Ye"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "http://www.nber.org/papers/w31807.pdf",
+ "hvordan": "pdf",
+ "id": "W4388102278",
+ "kilde": "National Bureau of Economic Research",
+ "lenke": "https://openalex.org/W4388102278",
+ "merknad": "ÅPEN VERSJON (preprint eller arbeidsnotat), merkes i svaret",
+ "oversikt": false,
+ "sammendrag": "This paper shows empirically that the non-employment effects of unemployment insurance (UI) for older workers depend in a first-order way on the structure of retirement policies.Using German data, we first present reduced-form evidence of these interactions, documenting large bunching in UI inflows at the age that allows workers to claim their pension following UI expiration.We then estimate a dynamic life-cycle model and use it to directly quantify how the effects of UI vary with retirement policies.Accounting for interactions across UI and retirement institutions also helps explain otherwise difficult-to-explain trends in the unemployment rate of older German workers.",
+ "tittel": "When Institutions Interact: How the Effects of Unemployment Insurance are Shaped by Retirement Policies",
+ "type": "report"
+}

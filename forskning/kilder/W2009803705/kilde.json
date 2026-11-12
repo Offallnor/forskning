@@ -1,0 +1,15 @@
+{
+ "apen_url": "https://shs.cairn.info/article/RFE_111_0049/pdf?lang=fr",
+ "ar": 2011,
+ "doi": "https://doi.org/10.3917/rfe.111.0049",
+ "forfattere": [
+  "Florent Frémigacci"
+ ],
+ "id": "W2009803705",
+ "kilde": "Revue française d économie",
+ "lenke": "https://openalex.org/W2009803705",
+ "oversikt": false,
+ "sammendrag": "Résumé Cet article revisite sous l’angle de l’évaluation le thème de l’assurance chômage et son impact sur les trajectoires individuelles. Nous présentons les principaux résultats des modèles de recherche d’emploi et discutons des techniques économétriques appropriées pour juger de leur validité empirique et identifier d’éventuelles relations causales. L’indemnisation du chômage est au centre de l’analyse mais nous accordons une attention toute particulière aux différents systèmes d’incitations et d’aides au retour à l’emploi, en lien avec la réalité institutionnelle des régimes d’assurance chômage. Nous complétons l’étude des durées de chômage en considérant également l’impact du dispositif sur la qualité des emplois retrouvés. Afin d’illustrer le passage de la théorie à la pratique, nous concluons par une synthèse des évaluations microéconométriques disponibles sur le sujet.",
+ "tittel": "Evaluer l'impact de l'assurance chômage sur les trajectoires individuelles : de la théorie à la pratique",
+ "type": "article"
+}

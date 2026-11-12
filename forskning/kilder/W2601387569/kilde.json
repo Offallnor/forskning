@@ -1,0 +1,19 @@
+{
+ "ar": 2017,
+ "forfattere": [
+  "Martin Halla",
+  "Susanne Pech",
+  "Martina Zweimüller"
+ ],
+ "hentet": "før 2026-11-08",
+ "hentet_fra": "https://www2.uibk.ac.at/downloads/c4041030/wpaper/2017-04.pdf",
+ "hvordan": "pdf",
+ "id": "W2601387569",
+ "kilde": "RePEc: Research Papers in Economics",
+ "lenke": "https://openalex.org/W2601387569",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "Social insurance programs typically comprise sick-leave insurance. An important policy parameter is how the costs of lost productivity due to sick leave are shared between workers, firms, and the social security system. We show that this sharing rule affects not only absence behavior but also workers' subsequent health. To inform our empirical analysis, we propose a model in which workers' absence decisions are conditional on the sharing rule, health, and a dismissal probability. Our empirical analysis is based on high-quality administrative data sources from Austria. Identification is based on idiosyncratic variation in the sharing rule caused by different policy reforms and sharp discontinuities at certain job tenure levels and firm sizes. An increase in either the workers' or the firms' cost share, both at public expense, decreases the number of sick-leave days. Policy-induced variation in sick leave has a significant effect on subsequent healthcare costs. The average worker in our sample is in the domain of presenteeism, that is, an increase in sick leave due to reductions in workers' or firms' cost share would reduce healthcare costs and the incidence of workplace accidents.",
+ "tittel": "The effect of statutory sick-pay on workers' labor supply and subsequent health",
+ "type": "preprint"
+}

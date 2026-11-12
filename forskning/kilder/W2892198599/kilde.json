@@ -1,0 +1,22 @@
+{
+ "apen_url": "https://doi.org/10.3386/w22257",
+ "ar": 2016,
+ "doi": "https://doi.org/10.3386/w22257",
+ "forfattere": [
+  "Stefano DellaVigna",
+  "Attila Lindner",
+  "Balázs Reizer",
+  "Johannes F. Schmieder"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "http://www.nber.org/papers/w22257.pdf",
+ "hvordan": "pdf",
+ "id": "W2892198599",
+ "kilde": "National Bureau of Economic Research",
+ "lenke": "https://openalex.org/W2892198599",
+ "merknad": "ÅPEN VERSJON (preprint eller arbeidsnotat), merkes i svaret",
+ "oversikt": false,
+ "sammendrag": "We propose a model of job search with reference-dependent preferences, where the reference point is given by recent income.Newly unemployed individuals search hard given that they are at a loss, but over time they get used to lower income, and thus reduce their search effort.In anticipation of a benefit cut their search effort rises again, then declines once they get used to the lower benefit level.The model fits the typical pattern of the exit from unemployment, even with no unobserved heterogeneity.The model also makes distinguishing predictions regarding the response to benefit changes, which we evaluate using a unique reform.In 2005, Hungary switched from a single-step UI system to a two-step system, with unchanged overall generosity.The system generated increased hazard rates in anticipation of, and especially following, benefit cuts in ways the standard model has a hard time explaining.We estimate a model with optimal consumption and endogenous search effort, as well as unobserved heterogeneity.The referencedependent model fits the hazard rates substantially better than most versions of the standard model.We estimate a slow-adjusting reference point and substantial impatience, likely reflecting present-bias.Habit formation and a variety of alternative models do not match the fit of the reference-dependent model.We discuss one model which also fits well, but is at odds with calibrated values and other evidence.",
+ "tittel": "Reference-Dependent Job Search: Evidence from Hungary",
+ "type": "report"
+}

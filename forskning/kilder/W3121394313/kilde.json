@@ -1,0 +1,20 @@
+{
+ "apen_url": "https://papers.ssrn.com/sol3/Delivery.cfm/DP12030.pdf?abstractid=2968371&mirid=1",
+ "ar": 2017,
+ "forfattere": [
+  "Thomas Le Barbanchon",
+  "Roland Rathelot",
+  "Alexandra Roulet"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "http://www.nber.org/papers/w23406.pdf",
+ "hvordan": "pdf",
+ "id": "W3121394313",
+ "kilde": "RePEc: Research Papers in Economics",
+ "lenke": "https://openalex.org/W3121394313",
+ "merknad": "ÅPEN VERSJON (preprint eller arbeidsnotat), merkes i svaret",
+ "oversikt": false,
+ "sammendrag": "Although the reservation wage plays a central role in job search models, empirical evidence on the determinants of reservation wages, including key policy variables such as unemployment insurance (UI), is scarce. In France, unemployed people must declare their reservation wage to the Public Employment Service when they register to claim UI benefits. We take advantage of these rich French administrative data and of a reform of UI rules to estimate the effect of the Potential Benefit Duration (PBD) on reservation wages and on other dimensions of job selectivity, using a difference-in-difference strategy. We cannot reject that the elasticity of the reservation wage with respect to PBD is zero. Our results are precise and we can rule out elasticities larger than 0.006. Furthermore, we do not find any significant effects of PBD on the desired number of hours, duration of labor contract and commuting time/distance. The estimated elasticity of actual benefit duration with respect to PBD of 0.3 is in line with the consensus in the literature. Exploiting a Regression Discontinuity Design as an alternative identification strategy, we find similar results.",
+ "tittel": "Unemployment Insurance and Reservation Wages: Evidence from Administrative Data",
+ "type": "preprint"
+}

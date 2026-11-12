@@ -1,0 +1,26 @@
+{
+ "apen_url": "https://doi.org/10.1371/journal.pone.0247724",
+ "ar": 2021,
+ "doi": "https://doi.org/10.1371/journal.pone.0247724",
+ "forfattere": [
+  "Andreas Jangmo",
+  "Ralf Kuja‐Halkola",
+  "Ana Pérez-Vigil",
+  "Catarina Almqvist",
+  "Cynthia Marie Bulik",
+  "Brian Matthew D'Onofrio",
+  "Paul Lichtenstein",
+  "Ewa Ahnemark"
+ ],
+ "hentet": "2026-11-09",
+ "hentet_fra": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0247724&type=printable",
+ "hvordan": "pdf",
+ "id": "W3138005625",
+ "kilde": "PLoS ONE",
+ "lenke": "https://openalex.org/W3138005625",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "BACKGROUND: Individuals with ADHD are at increased risk for poor occupational outcomes. Educational attainment and psychiatric comorbidity may be important contributing factors for these outcomes, but the role of these factors is not well characterized. This study aimed to investigate the associations between ADHD and occupational outcomes, and to examine the influence of educational attainment, comorbid developmental disorders and intellectual disability on these associations. METHODS: We linked the Swedish population graduating from compulsory school 1998-2008 (N = 1.2 millions) to population-wide register-based data on clinical psychiatric diagnoses and medications, objective annual measures of educational, and occupational outcomes. Individuals were followed for between 6 to 16 years after graduation. RESULTS: Individuals with ADHD had annually on average 17 percent lower income, ratio = 0.83 (95% CI 0.83-0.84), 12.19 (11.89-12.49) more days of unemployment, and a higher likelihood of receiving disability pension, odds-ratio = 19.0 (18.4-19.6), compared to controls. Comorbid diagnoses of intellectual disability and developmental disorder explained most of the association between ADHD and disability pension, while lifetime educational attainment partially explained associations between ADHD and all occupational outcomes. Analyses of occupational trajectories found that income was lower and unemployment elevated relative to controls with the same educational attainment. Higher educational attainment correlated with higher income similarly among individuals with ADHD and controls after accounting for individual background factors. CONCLUSIONS: The occupational burden associated with ADHD is substantial. Comorbid developmental disorders, intellectual disability and educational difficulties (e.g., failing grades) from childhood to adulthood are important factors to consider when designing interventions to improve occupational outcomes in individuals with ADHD.",
+ "tittel": "Attention-deficit/hyperactivity disorder and occupational outcomes: The role of educational attainment, comorbid developmental disorders, and intellectual disability",
+ "type": "article"
+}

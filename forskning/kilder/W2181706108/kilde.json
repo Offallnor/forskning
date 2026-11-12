@@ -1,0 +1,12 @@
+{
+ "ar": 2011,
+ "forfattere": [
+  "Camille Landais"
+ ],
+ "id": "W2181706108",
+ "lenke": "https://openalex.org/W2181706108",
+ "oversikt": false,
+ "sammendrag": "I investigate in this paper the cyclicality of partial equilibrium behavioral responses to unemployment insurance (UI) in the US. I use administrative data on the universe of unemployment spells in five states from 1976 to 1984, and identify the effect of both benefit level and potential duration in the regression kink (RK) design using kinks in the schedule of UI benefits, thus overcoming the issue of endogeneity in UI benefit variations. I correlate the estimates of the average treatment effects with proxies for labor market conditions and find no evidence of cyclicality. I then extend the RK design to the estimation of quantile treatment effects and effects on the survival and hazard function. I find strong and significant distributional effects of both benefit level and potential duration. Heterogeneity in the responses of short and long spells seems more pronounced during good times than in recessions. I discuss the implications of these results for the optimal design of UI policies.",
+ "tittel": "Heterogeneity and Behavioral Responses to Unemployment Benefits over the Business Cycle",
+ "type": "article"
+}

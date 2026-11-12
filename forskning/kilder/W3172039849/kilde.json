@@ -1,0 +1,19 @@
+{
+ "apen_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/ecot.12404",
+ "ar": 2021,
+ "doi": "https://doi.org/10.1111/ecot.12404",
+ "forfattere": [
+  "Jakub Grossmann"
+ ],
+ "hentet": "før 2026-11-08",
+ "hentet_fra": "http://www.cerge-ei.cz/pdf/wp/Wp690.pdf",
+ "hvordan": "pdf",
+ "id": "W3172039849",
+ "kilde": "Economics of Transition and Institutional Change",
+ "lenke": "https://openalex.org/W3172039849",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "Abstract Sick pay systems are critical in balancing the economic and health costs of infectious diseases, especially in workplaces, where uncontrolled disease spread can lead to significant economic losses. Surprisingly, most research on sick‐pay reforms does not rely on variation in worker exposure to disease when investigating absences from work. This paper studies the effects of exposure to influenza outbreaks on absences from work when a nation‐wide policy canceled health‐insurance coverage for the first 3 days of illness. We explore geographic variation in the prevalence of infectious diseases, primarily the seasonal flu, to identify corresponding variations in the need for sickness insurance. Estimates based on the Czech Structure of Earnings Survey imply that when sickness insurance was canceled for the first 3 days of an illness, the total hours of work missed were not affected, but employees relied on paid and unpaid leave instead of sick‐leave to stay home. The substitution effects are heterogeneous across occupations and socio‐demographic characteristics of employees, and suggest that workers did not increase the spread of infectious illness in workplaces due to a lack of insurance coverage for the first 3 days of an illness.",
+ "tittel": "Sick Pay and Absence from Work: Evidence from Flu Exposure",
+ "type": "article"
+}

@@ -1,0 +1,16 @@
+{
+ "apen_url": "https://doi.org/10.2139/ssrn.2037637",
+ "ar": 2011,
+ "doi": "https://doi.org/10.1093/oxrep/grr017",
+ "forfattere": [
+  "David R. Howell",
+  "Bert M. Azizoglu"
+ ],
+ "id": "W2741099278",
+ "kilde": "Oxford Review of Economic Policy",
+ "lenke": "https://openalex.org/W2741099278",
+ "oversikt": false,
+ "sammendrag": "In the midst of sharply rising long-term unemployment, a series of unemployment benefit (UB) eligibility extensions raised the regular 26-week limit to as many as 99 weeks in some states. In response, leading economists have invoked the ‘laws of economics’ to warn that the extensions may be responsible for much of the current unemployment crisis. This prediction follows directly from a neoclassical vision in which jobs are taken only to generate the income necessary for desired levels of consumption and leisure, workers can ‘price’ themselves into a job by lowering wage demands, and benefit eligibility rules are not effectively enforced, so any income replacement must reduce work incentives and increase unemployment. In contrast, in a Keynesian-Institutionalist vision, there is job rationing in economic downturns, worker identities are often closely linked to work, there is recognition of long-run scarring effects of extended unemployment, and UB work rules are enforced, so even generous income replacement is not likely to produce much voluntary unemployment, especially in recessions. This paper reviews the evidence on the effects of the UB extensions of 2008-9. The case for the orthodox prediction has relied heavily on extrapolating from pre-Great Recession findings, particularly through the use of selected ‘spike at benefit-exhaustion’ results from the early 1980s. We conclude that the more recent spike evidence, the recent shifts in the Beveridge curve, and the labour flows data (unemployment to employment) evidence offer little support for the orthodox disincentive view of the current unemployment crisis in the US. If UB generosity has increased unemployment, it has done so more by keeping workers attached to the labour market than by reducing the incentive to work.",
+ "tittel": "Unemployment benefits and work incentives: the US labour market in the Great Recession",
+ "type": "article"
+}

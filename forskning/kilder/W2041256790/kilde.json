@@ -1,0 +1,15 @@
+{
+ "ar": 2003,
+ "doi": "https://doi.org/10.1097/01.brs.0000042249.21349.22",
+ "forfattere": [
+  "Mark Lemstra",
+  "W. P. Olszynski"
+ ],
+ "id": "W2041256790",
+ "kilde": "Spine",
+ "lenke": "https://openalex.org/W2041256790",
+ "oversikt": false,
+ "sammendrag": "STUDY DESIGN: A retrospective and prospective cohort. OBJECTIVES: To compare the effectiveness of occupational intervention, early intervention, and standard care in the management of Worker's Compensation injury claims. SUMMARY OF BACKGROUND DATA: The current management of occupational back pain and work-related upper extremity disorders with either standard care or early intervention appears to be ineffective. METHODS: A retrospective cohort compared injury claim incidence, duration, and costs between one company with access to standard care and another similar company with access to early intervention. A prospective cohort looked at the effect of one company changing from standard care to occupational management in comparison with the control group with early intervention. Survival analysis was used to attempt to explain differences in injury claim duration. RESULTS: Standard care resulted in lower injury claim incidence, duration, and costs than early intervention, whereas occupational management resulted in lower injury claim incidence, duration, and costs than standard care. The covariates of physical therapist involvement, chiropractor involvement, injury severity, and relationship between Worker's Compensation and the employer were associated with delayed time to claim closure in the company with access to early intervention with the most important covariate being physical therapist involvement (hazard rate ratio 19.88, 95% confidence interval 7.95-39.77). Only the covariate of injury severity was associated with delayed time to claim closure in the company with access to occupational management (hazard rate ratio 1.67, 95% confidence interval 1.05-27.20). CONCLUSIONS: It is recommended that an occupational management approach, in comparison with standard care or early intervention, be considered for management of occupational injuries.",
+ "tittel": "The Effectiveness of Standard Care, Early Intervention, and Occupational Management in Worker’s Compensation Claims",
+ "type": "article"
+}

@@ -1,0 +1,19 @@
+{
+ "apen_url": "https://doi.org/10.3386/w22447",
+ "ar": 2016,
+ "doi": "https://doi.org/10.3386/w22447",
+ "forfattere": [
+  "Ioana Marinescu"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "http://www.nber.org/papers/w22447.pdf",
+ "hvordan": "pdf",
+ "id": "W3024730720",
+ "kilde": "National Bureau of Economic Research",
+ "lenke": "https://openalex.org/W3024730720",
+ "merknad": "ÅPEN VERSJON (preprint eller arbeidsnotat), merkes i svaret",
+ "oversikt": false,
+ "sammendrag": "During the Great Recession, U.S. unemployment benefits were extended by up to 73 weeks.Theory predicts that extensions increase unemployment by discouraging job search, a partial equilibrium effect.Using data from the large job board CareerBuilder.com,I find that a 10% increase in benefit duration decreased state-level job applications by 1%, but had no robust effect on job vacancies.Job seekers thus faced reduced competition for jobs, a general equilibrium effect.Calibration implies that the general equilibrium effect reduces the impact of unemployment insurance on unemployment by 40%: increasing benefit duration by 10% increases unemployment by only 0.6% in equilibrium.",
+ "tittel": "The General Equilibrium Impacts of Unemployment Insurance: Evidence from a Large Online Job Board",
+ "type": "report"
+}

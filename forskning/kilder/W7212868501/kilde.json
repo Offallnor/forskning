@@ -1,0 +1,21 @@
+{
+ "apen_url": "https://doi.org/10.3386/w35646",
+ "ar": 2026,
+ "doi": "https://doi.org/10.3386/w35646",
+ "forfattere": [
+  "Matthew S. Johnson",
+  "David Ian Levine",
+  "Michael W. Toffel"
+ ],
+ "hentet": "2026-11-08",
+ "hentet_fra": "https://doi.org/10.3386/w35646",
+ "hvordan": "pdf",
+ "id": "W7212868501",
+ "kilde": "National Bureau of Economic Research",
+ "lenke": "https://openalex.org/W7212868501",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "Regulatory inspections might affect entities nearby those inspected.Such spillovers are difficult to identify because regulators target inspections and neighboring establishments face correlated shocks.We exploit the U.S. Occupational Safety and Health Administration's Site-Specific Targeting (SST) program, which generated quasi-random variation in inspections among workplaces with injury rates near a discrete cutoff.An SST inspection reduced injuries at uninspected same-ZIP-code establishments by an estimated 11 percent-an effect roughly as large as the direct effect on the inspected establishment.Because spillovers extend to multiple nearby establishments, they avert several times as many injuries as the inspection's direct effect.",
+ "tittel": "Spillover Effects of Regulatory Inspections: Evidence from OSHA",
+ "type": "report"
+}

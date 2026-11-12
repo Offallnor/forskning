@@ -1,0 +1,17 @@
+{
+ "apen_url": "https://polipapers.upv.es/index.php/jpeval/article/download/23502/17875",
+ "ar": 2025,
+ "doi": "https://doi.org/10.4995/jpeval.2025.23502",
+ "forfattere": [
+  "Lucía Gorjón",
+  "Ainhoa Vega‐Bayo",
+  "Ander Galean de Pablo"
+ ],
+ "id": "W4416136690",
+ "kilde": "Journal of Policy Evaluation",
+ "lenke": "https://openalex.org/W4416136690",
+ "oversikt": false,
+ "sammendrag": "This paper provides new evidence of the impact of receiving contributive unemployment benefits on the exit rates to a job using an administrative database that includes the whole registered unemployed population in Spain. We estimate the causal impact of receiving unemployment benefits on job finding using a treatment effect framework. The analysis is carried out in five different exercises, which are designed to reduce the unobserved heterogeneity between the treatment (those who receive unemployment benefits) and control groups (those who do not). Our results show that receiving unemployment benefits delays the exit to a job, while the impact varies depending on the business cycle: there is a decrease of between 1.1 and 4.5 percentage points (12.1% and 21.8% in relative terms) in the probability of finding a job for those who receive unemployment benefit over those who do not, depending on the moment analyzed. We also find evidence of the existence of an exhaustion effect, i.e., the job finding rates accelerate when people exhaust their benefits. Our empirical exercises also denote the importance of properly specifying the treatment and control groups to account for unobserved heterogeneity.",
+ "tittel": "The impact of unemployment benefits on job finding in Spain",
+ "type": "article"
+}

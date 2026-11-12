@@ -1,0 +1,22 @@
+{
+ "apen_url": "https://academic.oup.com/ije/article-pdf/50/5/1745/41120900/dyab182.pdf",
+ "ar": 2021,
+ "doi": "https://doi.org/10.1093/ije/dyab182",
+ "forfattere": [
+  "Katrine Damgaard Skyrud",
+  "Kjetil Elias Telle",
+  "Kjersti Hernæs",
+  "Karin Magnusson"
+ ],
+ "hentet": "før 2026-11-08",
+ "hentet_fra": "https://www.medrxiv.org/content/medrxiv/early/2021/04/15/2021.04.09.21255215.full.pdf",
+ "hvordan": "pdf",
+ "id": "W3198827421",
+ "kilde": "International Journal of Epidemiology",
+ "lenke": "https://openalex.org/W3198827421",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "Aim To explore sick leave after COVID-19, by comparing doctor-certified sick leave for up to 6 months after testing for SARS-CoV-2 across employees who tested positive and negative. Methods In all persons (20-70 year of age) with an employment contract, who were tested for the SARS-CoV-2 in Norway from March 1 st to November 1 st 2020 (N=740 182 with mean [SD] age 39 [13] years, 44% men), we used a difference-in-difference design to contrast doctor-certified sick leave before and after testing, across employees with negative test and positive test by age and sex groups. Results Sick leave for those testing positive (N=11 414) remained elevated for up to 2 months after testing when compared to those testing negative (N= 728 768), for men and women aged 20-44 and for men aged 45-70 years (relative increase in sick-leave ∼344-415%, (B all strata =0.079, 95% CI=0.076, 0.082). The increase in sick leave was prolonged for women aged 45-70 years only, persisting for up to 4 months after testing positive (relative increase = 35%, B=0.010, 95% CI=0.004-0.035). Conclusion Sick leave following COVID-19 is elevated for up to two to four months after initial infection, thereafter not elevated compared with employees who tested negative for COVID-19. Women aged 45-70 years tend to have a larger impact of COVID-19 on their work ability than men and younger women.",
+ "tittel": "Impacts of mild and severe COVID-19 on sick leave",
+ "type": "article"
+}

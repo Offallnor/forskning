@@ -1,0 +1,14 @@
+{
+ "ar": 2010,
+ "doi": "https://doi.org/10.70675/afab2042z2009z414fza429zb65231d3aeda",
+ "forfattere": [
+  "Oiana Salagean"
+ ],
+ "id": "W7143437697",
+ "kilde": "theses.fr (ABES)",
+ "lenke": "https://openalex.org/W7143437697",
+ "oversikt": false,
+ "sammendrag": "Cette thèse se propose de montrer le rôle potentiel des perspectives d’indemnisation d’assurance chômage, en tant que facteur explicatif de la durée du chômage. Ces perspectives concernent l’évolution, au fil de la période d’indemnisation, des taux attendus de remplacement de l’ancien salaire par les allocations chômage, telle que cette évolution est fixée par les règles d’indemnisation en vigueur dans chaque pays, au moment de l’entrée au chômage de chaque chômeur. Grâce à une revue détaillée des barèmes d’indemnisation applicables durant la deuxième moitié des années ’90 dans neuf pays de l’Union Européenne, 90 trajectoires possibles d’évolution du taux de remplacement ont été identifiés, constituant autant de « profils attendus d’indemnisation d’assurance chômage » distincts. L’impact de ces profils attendus d’indemnisation d’assurance chômage sur le hasard de sortie du chômage est estimé, sur la base des huit vagues du Panel Communautaire des Ménages, moyennant un modèle de durée à deux niveaux, qui niche les épisodes de chômage au sein des profils attendus d’indemnisation leur correspondant. La générosité des allocations chômage associées à chaque profil attendu d’indemnisation est mesurée de manière novatrice, en déterminant à chaque mois de chômage le « pactole espérée » par le chômeur. Cet indicateur, initialement proposé par Ray et al. (1986), somme les valeurs escomptées des taux attendus de remplacement correspondant à chaque mois du restant de la période maximale d’indemnisation. Les résultats confirment qu’un pactole espéré plus important est associé à un plus faible hasard de sortie du chômage et indiquent qu’il existe une variation statistiquement significative du hasard de sortie du chômage parmi les épisodes de chômage associés à des profils attendus d’indemnisation distincts.",
+ "tittel": "Une estimation de l'impact, sur la durée du chômage, des profils attendus d'indemnisation d'assurance chômage : analyse sur neuf pays de l'Union Européenne au moyen d'un modèle multiniveaux",
+ "type": "dissertation"
+}

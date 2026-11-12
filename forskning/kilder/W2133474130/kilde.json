@@ -1,0 +1,15 @@
+{
+ "apen_url": "https://www.degruyter.com/document/doi/10.1515/bejeap-2014-0039/pdf",
+ "ar": 2014,
+ "doi": "https://doi.org/10.1515/bejeap-2014-0039",
+ "forfattere": [
+  "Krishna Regmi"
+ ],
+ "id": "W2133474130",
+ "kilde": "The B E Journal of Economic Analysis & Policy",
+ "lenke": "https://openalex.org/W2133474130",
+ "oversikt": false,
+ "sammendrag": "Abstract In this paper, I investigate the effect of extended unemployment insurance (UI) coverage in the United States in recent years on job search. The U.S. government extended UI benefits in several phases in 2008–2009, increasing the duration of the benefits to a maximum of 99 weeks, up from the regular 26 weeks. Using the American Time Use Survey (ATUS) data, I find that women are more sensitive to the extended UI benefits than men. Difference-in-differences estimation shows that the average effect of the UI extensions for women is over a 10 percentage points decline in the probability of job search. However, I do not find any statistically significant effect on men.",
+ "tittel": "Extended Unemployment Insurance and Job Search: Evidence from Time Use Data",
+ "type": "article"
+}

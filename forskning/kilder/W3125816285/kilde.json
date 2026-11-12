@@ -1,0 +1,14 @@
+{
+ "ar": 2004,
+ "forfattere": [
+  "Joachim Wolff",
+  "Andrey Launov"
+ ],
+ "id": "W3125816285",
+ "kilde": "RePEc: Research Papers in Economics",
+ "lenke": "https://openalex.org/W3125816285",
+ "oversikt": false,
+ "sammendrag": "In this paper we ask a question whether a prolonging of entitlement to unemployment benefits that happened in the mid 80s can explain the unusual increase in unemployment rates of unskilled and old workers. To answer this question we estimate a version of Burdett-Mortensen model of search equilibrium and analyze how reservation wages and search intensities responded to benefit reforms. We try both nonparametric and fully-parametric estimation methods and discover the cases in which the first one can not be applicable. We find that the entitlement reforms are in big part responsible for the increase of unemployment among unskilled workers",
+ "tittel": "Unemployment Benefits and Unemployment Rates of Low-Skilled and Old Workers in West Germany: A Search Equilibrium Approach",
+ "type": "preprint"
+}

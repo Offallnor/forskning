@@ -1,0 +1,15 @@
+{
+ "apen_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=313689",
+ "ar": 2002,
+ "doi": "https://doi.org/10.1111/1467-9914.00198",
+ "forfattere": [
+  "Fredrik Jansson"
+ ],
+ "id": "W2137756169",
+ "kilde": "Labour",
+ "lenke": "https://openalex.org/W2137756169",
+ "oversikt": false,
+ "sammendrag": "The paper investigates temporary layoffs in the Swedish labour market. Previous reports of few temporary layoffs are rejected. About 45 percent of unemployed people who found a job returned to a previous employer. As a stock measure, 10 percent of the unemployed are on temporary layoff. Using new job and recall as distinct exits in a competing risks model, one cannot reject a horizontal duration dependence for new jobs, while the recall hazard shows a strong, negative duration dependence. Clearer predictions of the effect of education on job probabilities are also found. Further, the results probably have implications for the interpretation of several policy parameters, including labour market programme outcomes.",
+ "tittel": "Rehires and Unemployment Duration in the Swedish Labour Market — New Evidence of Temporary Layoffs",
+ "type": "article"
+}

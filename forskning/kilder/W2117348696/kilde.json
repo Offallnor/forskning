@@ -1,0 +1,18 @@
+{
+ "ar": 2005,
+ "doi": "https://doi.org/10.1920/wp.ifs.2005.0508",
+ "forfattere": [
+  "Giacomi De Giorgi"
+ ],
+ "hentet": "2026-11-08",
+ "hentet_fra": "https://discovery.ucl.ac.uk/2723/1/2723.pdf",
+ "hvordan": "pdf",
+ "id": "W2117348696",
+ "kilde": "Working paper series - Institute for Fiscal Studies/Working papers",
+ "lenke": "https://openalex.org/W2117348696",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "The New Deal For Young People is the major welfare-to-work program in the UK. It is amandatory multistage policy targeted at the 18-24 year old unemployed. This paper investi-gates the effectiveness of the program in terms of enhancing the (re)employment probabilityof participant males. I exploit the eligibility rule to identify a suitable counterfactual relyingupon a simple regression discontinuity design. By exploiting such a discontinuity I am ableto non parametrically identify (Hahn et al., 2001) a local average treatment effect (LATE).While relying upon the non parametric local linear regression method I am able to pushforward such a parameter to a \\\\global\" dimension, implicitly adding parametric structure.No evidence of possible general equilibrium as well as substitution effects is found by a cohort specific approach (before and after the program). The main result is that the programenhances employability by about 6-7%.",
+ "tittel": "Long-term effects of a mandatory multistage program: the New Deal for young people in the UK",
+ "type": "report"
+}

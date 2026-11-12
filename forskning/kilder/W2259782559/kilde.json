@@ -1,0 +1,21 @@
+{
+ "apen_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/hec.3578",
+ "ar": 2017,
+ "doi": "https://doi.org/10.1002/hec.3578",
+ "forfattere": [
+  "Stijn Baert",
+  "Bas van der Klaauw",
+  "Gijsbert van Lomwel"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "https://biblio.ugent.be/publication/8527348/file/8527349.pdf",
+ "hvordan": "pdf",
+ "id": "W2259782559",
+ "kilde": "Health Economics",
+ "lenke": "https://openalex.org/W2259782559",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "We investigate whether interventions by (a) medical doctors and (b) occupational specialists are effective in reducing sick leave durations among self-employed workers. Therefore, we exploit unique administrative data comprising all sick leave claims by self-employed workers insured with a major Dutch private insurer between January 2009 and March 2014. We estimate a multivariate duration model dealing with nonrandom selection into the two intervention types by controlling for observable and unobservable claimant characteristics. We find adverse treatment effects for both interventions, irrespective of whether they are started early or (middle) late in the sickness spell.",
+ "tittel": "The effectiveness of medical and vocational interventions for reducing sick leave of self‐employed workers",
+ "type": "article"
+}

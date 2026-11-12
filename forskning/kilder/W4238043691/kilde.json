@@ -1,0 +1,15 @@
+{
+ "apen_url": "https://www.elibrary.imf.org/downloadpdf/journals/001/2021/070/001.2021.issue-070-en.xml",
+ "ar": 2021,
+ "doi": "https://doi.org/10.5089/9781513572680.001",
+ "forfattere": [
+  "Klaus-Peter Hellwig"
+ ],
+ "id": "W4238043691",
+ "kilde": "IMF Working Paper",
+ "lenke": "https://openalex.org/W4238043691",
+ "oversikt": false,
+ "sammendrag": "I use three decades of county-level data to estimate the effects of federal unemployment benefit extensions on economic activity. To overcome the reverse causality coming from the fact that benefit extensions are a function of state unemployment rates, I only use the within-state variation in outcomes to identify treatment effects. Identification rests on a differences-in-differences approach which exploits heterogeneity in county exposure to policy changes. To distinguish demand and supply-side channels, I estimate the model separately for tradable and non-tradable sectors. Finally I use benefit extensions as an instrument to estimate local fiscal multipliers of unemployment benefit transfers. I find (i) that the overall impact of benefit extensions on activity is positive, pointing to strong demand effects; (ii) that, even in tradable sectors, there are no negative supply-side effects from work disincentives; and (iii) a fiscal multiplier estimate of 1.92, similar to estimates in the literature for other types of spending.",
+ "tittel": "Supply and Demand Effects of Unemployment Insurance Benefit Extensions: Evidence from U.S. Counties",
+ "type": "article"
+}

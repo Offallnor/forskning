@@ -1,0 +1,15 @@
+{
+ "apen_url": "https://doi.org/10.7916/d81c2840",
+ "ar": 2009,
+ "doi": "https://doi.org/10.7916/d81c2840",
+ "forfattere": [
+  "Till von Wachter",
+  "Stefan Bender"
+ ],
+ "id": "W2732909796",
+ "lenke": "https://openalex.org/W2732909796",
+ "oversikt": false,
+ "sammendrag": "This paper evaluates the impact of large changes in the duration of unemployment insurance (UI) in different economic environments on labor supply, job matches, and search behavior. We show that differences in eligibility thresholds by exact age give rise to a valid regression discontinuity design, which we implement using administrative data on the universe of new unemployment spells and career histories over twenty years from Germany. We find that increases in UI have small to modest effects on non-employment rates, a result robust over the business cycle and across demographic groups. Thus, large expansions in UI during recessions do not lead to lasting increases in unemployment duration, nor can they explain differences in unemployment durations across countries. We do not find any effect of increased UI duration on average job quality, but show that the mean potentially confounds differential effects on job search across the distribution of UI duration. However, it appears that for a majority of UI beneficiaries increases in UI duration may lead to small declines in wages.",
+ "tittel": "The Effects of Unemployment Insurance on Labor Supply and Search Outcomes",
+ "type": "article"
+}

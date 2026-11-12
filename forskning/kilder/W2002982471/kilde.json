@@ -1,0 +1,19 @@
+{
+ "apen_url": "https://www.tandfonline.com/doi/abs/10.1080/000368499324417",
+ "ar": 1999,
+ "doi": "https://doi.org/10.1080/000368499324417",
+ "forfattere": [
+  "Alfonso Alba‐Ramirez"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "http://e-archivo.uc3m.es/bitstream/10016/4583/1/explaining_alba_AE_1999_ps.pdf",
+ "hvordan": "pdf",
+ "id": "W2002982471",
+ "kilde": "Applied Economics",
+ "lenke": "https://openalex.org/W2002982471",
+ "merknad": "SJEKK DOKUMENT: «Alfonso Alba‐Ramirez» står ikke i starten",
+ "oversikt": false,
+ "sammendrag": "A multinomial logit model and matched files from the Spanish Active Population Survey (EPA) are used to study transitions out of unemployment among men aged 20-59. In addition to demographic characteristics, other explanatory variables included in the regressions pertain to previous job characteristics and the spell of unemployment. In this article, special attention is paid to the impact of unemployment insurance benefits on the re-employment probability. Consistent with previous work, it is found that receipt of unemployment insurance is associated with lower probabilities of re-employment and of withdrawal from the labour force. More importantly, a differential effect of benefit receipt is obtained when comparing time periods before and after 1992. Indeed, in April of that year the labour authority made eligibility requirements for unemployment insurance more restrictive and curtailed benefit amounts.",
+ "tittel": "Explaining the transitions out of unemployment in Spain: the effect of unemployment insurance",
+ "type": "article"
+}

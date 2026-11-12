@@ -1,0 +1,26 @@
+{
+ "apen_url": "https://bmjopen.bmj.com/content/bmjopen/12/11/e062558.full.pdf",
+ "ar": 2022,
+ "doi": "https://doi.org/10.1136/bmjopen-2022-062558",
+ "forfattere": [
+  "Rune Hoff",
+  "Niklas Maltzahn",
+  "Rachel Louise Hasting",
+  "Suzanne Lerato Merkus",
+  "Karina Undem",
+  "Petter Kristensen",
+  "Ingrid Sivesind Mehlum",
+  "Jon Michael Gran"
+ ],
+ "hentet": "2026-11-09",
+ "hentet_fra": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9685245/fullTextXML",
+ "hvordan": "Europe PMC",
+ "id": "W4309592779",
+ "kilde": "BMJ Open",
+ "lenke": "https://openalex.org/W4309592779",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "OBJECTIVES: To reduce sickness absence (SA) and increase work participation, the tripartite Agreement for a More Inclusive Working Life (IA) was established in Norway in 2001. IA companies have had access to several measures to prevent and reduce SA. Our aim in this paper was to estimate the average effect of having access to IA at the time of entering a first SA on later return-to-work (RTW) and on time spent in other work-related states. A secondary objective was to study how effects varied between women and men, and individuals with SA due to either musculoskeletal or psychological diagnoses. DESIGN: Population-based observational multistate longitudinal cohort study. SETTING: Individual characteristics and detailed longitudinal records of SA, work and education between 1997-2011 were obtained from population-wide registries. PARTICIPANTS: Each individual born in Norway 1967-1976 who entered full-time SA during 2004-2011, with limited earlier SA, was included (n=187 930). PRIMARY AND SECONDARY OUTCOME MEASURES: Individual multistate histories containing dated periods of work, graded SA, full-time SA, non-employment and education. METHODS: Data were analysed in a multistate model with 500 days of follow-up. The effect of IA was assessed by estimating differences in state probabilities over time, adjusted for confounders, using inverse probability weighting. RESULTS: IA increased the probability of work after SA, with the largest difference between groups after 29 days (3.4 percentage points higher (95% CI 2.5 to 4.3)). Differences in 1-year expected length of stay were 8.4 additional days (4.9 to 11.9) in work, 7.6 (4.8 to 10.3) fewer days in full-time SA and 1.6 (-0.2 to 3.4) fewer days in non-employment. Similar trends were found within subgroups by sex, musculoskeletal and psychological diagnoses. The robustness of the findings was studied in sensitivity analyses. CONCLUSION: Measures to prevent and reduce SA, as given through IA, were found to improve individuals' RTW after entering SA.",
+ "tittel": "An initiative for a more inclusive working life and its effect on return-to-work after sickness absence: a multistate longitudinal cohort study",
+ "type": "article"
+}

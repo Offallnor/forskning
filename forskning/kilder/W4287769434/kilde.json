@@ -1,0 +1,19 @@
+{
+ "apen_url": "https://docs.iza.org/dp13331.pdf",
+ "ar": 2015,
+ "forfattere": [
+  "Andrew C. Johnston",
+  "Alexandre Mas"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "https://docs.iza.org/dp13331.pdf",
+ "hvordan": "pdf",
+ "id": "W4287769434",
+ "kilde": "RePEc: Research Papers in Economics",
+ "lenke": "https://openalex.org/W4287769434",
+ "merknad": "ÅPEN VERSJON (preprint eller arbeidsnotat), merkes i svaret",
+ "oversikt": false,
+ "sammendrag": "In this paper we examine how an unanticipated cut in potential unemployment insurance (UI) duration, which reduced maximum duration in Missouri by 16 weeks, affected the search behavior of UI recipients and the aggregate labor market. Using a regression discontinuity design (RDD), we estimate that a one-month reduction in maximum duration is associated with 15 fewer days of UI receipt and 8.6 fewer days of nonemployment. We use the RDD estimates to simulate the change in the time path of the unemployment rate assuming there are no market-level externalities. The simulated response closely approximates the estimated change in the unemployment rate following the benefit cut, suggesting that even in a period of high unemployment, the labor market was able to absorb this influx of workers without crowding out other jobseekers.",
+ "tittel": "POTENTIAL UNEMPLOYMENT INSURANCE DURATION AND LABOR SUPPLY: THE INDIVIDUAL AND MARKET-LEVEL RESPONSE TO A BENEFIT CUT*",
+ "type": "preprint"
+}

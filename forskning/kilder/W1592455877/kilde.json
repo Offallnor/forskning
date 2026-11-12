@@ -1,0 +1,16 @@
+{
+ "apen_url": "https://sciencespo.hal.science/hal-03460433",
+ "ar": 2014,
+ "doi": "https://doi.org/10.1111/labr.12029",
+ "forfattere": [
+  "Fabrice Murtin",
+  "Alain de Serres"
+ ],
+ "id": "W1592455877",
+ "kilde": "Labour",
+ "lenke": "https://openalex.org/W1592455877",
+ "oversikt": false,
+ "sammendrag": "Abstract This paper assesses the effects of labour market policies on the unemployment outflow rate while disentangling two channels, namely labour market tightness and employer–employee matching efficiency. Using a sample of 11 OECD countries over the period 1985–2007, we treat the endogeneity of market tightness with business cycle shocks and the tax wedge as instruments. We find that the replacement rate of unemployment benefits, Active Labour Market Policies as well as the tax wedge in countries with poorly representative unions, have a significant, robust, and large impact on market tightness. Employment protection has a negative but small impact on matching efficiency. Overall, policy effects appear to be mostly channeled through market tightness and job creation.",
+ "tittel": "How Do Policies Affect the Exit Rate out of Unemployment? Disentangling Job Creation from Labour Market Frictions",
+ "type": "article"
+}

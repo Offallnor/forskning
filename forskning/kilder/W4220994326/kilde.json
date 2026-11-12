@@ -1,0 +1,25 @@
+{
+ "apen_url": "https://bmcpsychiatry.biomedcentral.com/track/pdf/10.1186/s12888-022-03823-4",
+ "ar": 2022,
+ "doi": "https://doi.org/10.1186/s12888-022-03823-4",
+ "forfattere": [
+  "Trees T. Juurlink",
+  "Femke Lamers",
+  "Hein J. F. van Marle",
+  "Wim Zwinkels",
+  "M. A. Spijkerman",
+  "Aartjan T.F. Beekman",
+  "Johannes R. Anema"
+ ],
+ "hentet": "2026-11-09",
+ "hentet_fra": "https://bmcpsychiatry.biomedcentral.com/track/pdf/10.1186/s12888-022-03823-4",
+ "hvordan": "pdf",
+ "id": "W4220994326",
+ "kilde": "BMC Psychiatry",
+ "lenke": "https://openalex.org/W4220994326",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "Abstract Background To explore the relative impact of Individual Placement and Support (IPS) in patients with personality disorders (PDs) as compared to patients with other mental disorders. Methods Data from the Dutch Employee Insurance Agency of participants enrolled in a national IPS trajectory between 2008 and 2018 were linked to corresponding data on employment outcomes, diagnostic and sociodemographic information from Statistics Netherlands. This resulted in a sample of 335 participants with PDs who could be compared with 1073 participants with other mental disorders. Results Participants with PD just as often found competitive employment as participants with other mental disorders (37.6% vs. 38.0%, ORadjusted = 0.97, 95% confidence interval (CI) 0.74 to 1.27). The median time to gaining employment for those gaining employment (37.9%) was 195.5 days (mean number of days 252.5) in the PD group and 178.5 days (mean number of days 234.6) in the other mental disorders group (HRadjusted = 0.95, 95% CI 0.77 to 1.18). Also, total number of hours paid for competitive employment did not differ significantly between groups (median hours 686.5 vs 781.5, IRRadjusted = 0.85 95% CI 0.69 to 1.05). Conclusions Based on this study, which includes the largest sample of patients with PDs in any published IPS study, IPS seems to result in an equal percentage of patients with PDs and other mental disorders, gaining and maintaining employment. Although future studies should determine whether PD-specific adaptations to IPS are useful, our findings indicate that IPS could be an effective way to increase employment outcomes in PDs. This is important because the enormous societal costs of PDs are largely driven by loss of economic productivity, and because clinical recovery in PDs is suggested to be enhanced when patients are employed.",
+ "tittel": "Individual placement and support and employment in personality disorders: a registry based cohort study",
+ "type": "article"
+}

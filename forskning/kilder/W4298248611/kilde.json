@@ -1,0 +1,18 @@
+{
+ "apen_url": "https://docs.iza.org/dp7913.pdf",
+ "forfattere": [
+  "Anna Aasen Godøy",
+  "Røed, Knut"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "https://docs.iza.org/dp7913.pdf",
+ "hvordan": "pdf",
+ "id": "W4298248611",
+ "kilde": "RePEc: Research Papers in Economics",
+ "lenke": "https://openalex.org/W4298248611",
+ "merknad": "ÅPEN VERSJON (preprint eller arbeidsnotat), merkes i svaret",
+ "oversikt": false,
+ "sammendrag": "Should unemployment insurance (UI) systems provide coverage for underemployed job seekers? Based on a statistical analysis of Norwegian unemployment spells, we conclude that the answer to this question is yes. Allowing insured job seekers to retain partial UI benefits during periods of insufficient part-time work not only reduces UI expenditures during the part-time work period; it also unambiguously reduces the time until a regular self-supporting job is found. Probable explanations are that even small temporary part-time jobs provide access to useful vacancy-information and that such jobs are used by employers as a screening device when hiring from the unemployment pool.",
+ "tittel": "Unemployment Insurance and Underemployment",
+ "type": "preprint"
+}

@@ -1,0 +1,16 @@
+{
+ "ar": 2000,
+ "doi": "https://doi.org/10.1080/028134300448779",
+ "forfattere": [
+  "Lars Englund",
+  "Gösta Tibblin",
+  "Kurt Svärdsudd"
+ ],
+ "id": "W2136583321",
+ "kilde": "Scandinavian Journal of Primary Health Care",
+ "lenke": "https://openalex.org/W2136583321",
+ "oversikt": false,
+ "sammendrag": "OBJECTIVE: To find out whether administrative changes regulating sick-listing benefits affect sick-listing practice among physicians in hospitals and primary health care. SETTING: New sick-listing cases from four social security offices in mid-Sweden. DESIGN: A natural experiment design was used with a sample of newly started sick-listed cases collected 6 months before a sick-listing reform and a further sample taken 6 months after. The data were collected in a 1-year follow-up period in both samples. MAIN OUTCOME MEASURES: Net days of sick-listing and percentage partial sick-listings. Compliance by doctors in providing information asked for in sickness certification forms. RESULTS: Doctors filled in the forms more completely after the reform than they did before it. There was an inverse correlation between completeness of information and length of sick-listing. When potential confounding factors were taken into account, no change was seen in the proportion of partial sick-listing, in the mean number of net days of sick-listing or in the distribution of length of sick-listing periods. The proportion of all sick-listings made by general practitioners increased. CONCLUSIONS: Administrative changes restricting sick-listing benefits did change some aspects of sick-listing practice but had no effect on length of sick-listing.",
+ "tittel": "Effects on physicians' sick-listing practice of an administrative reform narrowing sick-listing benefits",
+ "type": "article"
+}

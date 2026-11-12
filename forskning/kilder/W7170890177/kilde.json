@@ -1,0 +1,21 @@
+{
+ "apen_url": "https://link.springer.com/content/pdf/10.1007/s10389-026-02867-0.pdf",
+ "ar": 2026,
+ "doi": "https://doi.org/10.1007/s10389-026-02867-0",
+ "forfattere": [
+  "Dorjana Zerbo Šporin",
+  "Martin Šporin",
+  "Žiga Kozinc"
+ ],
+ "hentet": "før 2026-11-08",
+ "hentet_fra": "https://link.springer.com/content/pdf/10.1007/s10389-026-02867-0.pdf",
+ "hvordan": "pdf",
+ "id": "W7170890177",
+ "kilde": "Journal of Public Health",
+ "lenke": "https://openalex.org/W7170890177",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "Abstract Aim To examine trends in musculoskeletal disorder (MSD)–related sickness absence in Slovenia from 2015 to 2024 among healthcare workers (HCWs) and compare patterns with the general workforce (GWs), with particular attention to pre-pandemic, pandemic, and post-pandemic trajectories and sex-related differences. Subject and methods This population-level ecological surveillance study used aggregated national administrative data from the National Institute of Public Health of Slovenia. Annual sickness absence incidence rates (cases per 100 employees) were calculated for HCWs (NACE Rev. 2, Division 86) and GWs aged 20–65 years. Data were stratified by sex and calendar year. Sex differences were quantified using incidence rate ratios (IRRs). Results MSD-related sickness absence incidence was consistently higher among HCWs than GWs throughout the observation period, with crude HCWs-versus-GWs IRRs ranging from 1.16 to 1.28. Incidence increased from 7.41 to 9.86 cases per 100 employees in GWs and from 8.90 to 11.43 cases per 100 employees in HCWs between 2015 and 2024. In both sectors, incidence declined during 2020–2021 but subsequently increased, exceeding pre-pandemic levels by 2024. Women had higher incidence than men in both workforce groups, with IRRs calculated from incidence rates averaged across the full observation period of 1.41 (95% CI = 1.40–1.41) in GWs and 1.67 (95% CI = 1.62–1.71) in HCWs. Conclusion The COVID-19 pandemic temporarily masked a continuing upward trend in MSD-related sickness absence in Slovenia. The burden remains disproportionately high among HCWs and women. These findings support the need for sector-specific and sex-sensitive prevention strategies and continued national surveillance.",
+ "tittel": "Did the COVID-19 pandemic mask an increase in musculoskeletal disorder–related sickness absence? A national ecological surveillance study of the Slovenian workforce and healthcare sector, 2015–2024",
+ "type": "article"
+}

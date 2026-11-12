@@ -1,0 +1,15 @@
+{
+ "ar": 2010,
+ "forfattere": [
+  "Woodbury",
+  "Principal Investigator",
+  "A Stephen"
+ ],
+ "id": "W2112857119",
+ "kilde": "Upjohn Research (W.E. Upjohn Institute for Employment Research)",
+ "lenke": "https://openalex.org/W2112857119",
+ "oversikt": false,
+ "sammendrag": "This project will examine unemployment insurance (UI) incentives using combined administrative and survey data. The first study, “Unemployment Insurance and Unemployment Duration: A Reexamination,” uses data from the two UI exhaustee surveys conducted by the U.S. Department of Labor and Mathematica Inc. (1987-88 and 1998) to examine the effect of increases in UI benefits unemployment duration. Researchers will take advantage of natural experiments that occur when states automatically increase their benefit amounts (most states index maximum benefits to the state’s average weekly wage) and will use a difference-in-differences approach to estimate the impact of the benefit increases on insured and actual unemployment duration. The second study, “Emergency Extended Benefits and Unemployment Duration: How Sensitive Are the Estimates to Econometric Assumptions?” reviews the disparate findings on the effects of extended benefits on unemployment duration. We use data collected by the U.S. Department of Labor and Mathematica Inc. to evaluate the Emergency Unemployment Compensation (EUC) Act of 1991. The data combines UI administrative records with data from a special follow-up survey, so it is possible to understand whether and when a worker who received EUC became reemployed. A range of econometric estimators to these data will be applied to see how they affect estimates.",
+ "tittel": "Benefit Generosity, Unemployment Duration, and Take-up Rates",
+ "type": "article"
+}

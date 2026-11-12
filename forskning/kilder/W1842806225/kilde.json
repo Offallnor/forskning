@@ -1,0 +1,15 @@
+{
+ "ar": 2010,
+ "doi": "https://doi.org/10.1111/j.1468-2354.2010.00610.x",
+ "forfattere": [
+  "Stéfan Lollivier",
+  "Laurence Rioux"
+ ],
+ "id": "W1842806225",
+ "kilde": "International Economic Review",
+ "lenke": "https://openalex.org/W1842806225",
+ "oversikt": false,
+ "sammendrag": "We consider a structural dynamic job search model where nonstationarity originates from the change over time in the benefit level, the job offer arrival rate, and the wage offer distribution. The model is estimated on the French sample of the ECHP taking advantage of direct observation of reservation wages, rejected job offers, and associated rejected wages. We find that the offered wages deteriorate rapidly (13.8% over six months, 19.2% over one year, and 30% over two years) and that changes in the wage offer distribution are the unique source of negative duration dependence in the hazard.",
+ "tittel": "AN EMPIRICAL EXAMINATION OF THE SOURCES OF CHANGES OVER TIME IN THE JOB FINDING RATE USING RESERVATION WAGES AND REJECTED WAGE OFFERS*",
+ "type": "article"
+}

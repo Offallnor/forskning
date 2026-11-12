@@ -1,0 +1,15 @@
+{
+ "apen_url": "https://doi.org/10.2139/ssrn.1635897",
+ "ar": 2011,
+ "doi": "https://doi.org/10.1080/1406099x.2011.10840489",
+ "forfattere": [
+  "Anne Lauringson"
+ ],
+ "id": "W3121445675",
+ "kilde": "Baltic Journal of Economics",
+ "lenke": "https://openalex.org/W3121445675",
+ "oversikt": false,
+ "sammendrag": "This paper uses a unique dataset about unemployment benefit recipients and their exits to employment in Estonia to investigate the effects of benefits on unemployment duration. Both nonparametric and parametric estimations show that unemployment benefits have a strong and significant disincentive effect on hazard rates to exit into employment, just as search theory predicts. The effects of benefits are stronger and more homogeneous when the maximum duration of unemployment insurance benefit is longer. The unemployed eligible for shorter unemployment insurance benefits are influenced more by the size of benefits and changes in the benefit replacement rate. Also, both for the unemployed with shorter benefit periods and for the unemployed with longer benefit periods a rise in hazard rates occurs during the benefit period and a sharp drop straight after.",
+ "tittel": "Disincentive effects of unemployment insurance benefits: maximum benefit duration versus benefit level",
+ "type": "article"
+}

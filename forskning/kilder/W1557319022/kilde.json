@@ -1,0 +1,17 @@
+{
+ "apen_url": "https://orbilu.uni.lu/bitstream/10993/39159/1/Final%20Accepted%20Version_JAE2.pdf",
+ "ar": 2012,
+ "doi": "https://doi.org/10.1002/jae.2293",
+ "forfattere": [
+  "Marco Caliendo",
+  "Konstantinos Tatsiramos",
+  "Arne Uhlendorff"
+ ],
+ "id": "W1557319022",
+ "kilde": "Journal of Applied Econometrics",
+ "lenke": "https://openalex.org/W1557319022",
+ "oversikt": false,
+ "sammendrag": "SUMMARY We use a sharp discontinuity in the maximum duration of benefit entitlement to identify the effect of extended benefit duration on unemployment duration and post‐unemployment outcomes (employment stability and re‐employment wages). We address dynamic selection, which may arise even under an initially random assignment to treatment, estimating a bivariate discrete‐time hazard model jointly with a wage equation and correlated unobservables. Owing to the non‐stationarity of job search behavior, we find heterogeneous effects of extended benefit duration on the re‐employment hazard and on job match quality. Our results suggest that the unemployed who find a job close to and after benefit exhaustion experience less stable employment patterns and receive lower re‐employment wages compared to their counterparts who receive extended benefits and exit unemployment in the same period. These results are found to be significant for men but not for women. Copyright © 2012 John Wiley & Sons, Ltd.",
+ "tittel": "BENEFIT DURATION, UNEMPLOYMENT DURATION AND JOB MATCH QUALITY: A REGRESSION‐DISCONTINUITY APPROACH",
+ "type": "article"
+}

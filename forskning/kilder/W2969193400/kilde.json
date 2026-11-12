@@ -1,0 +1,23 @@
+{
+ "apen_url": "https://link.springer.com/content/pdf/10.1186/s12889-019-7452-3.pdf",
+ "ar": 2019,
+ "doi": "https://doi.org/10.1186/s12889-019-7452-3",
+ "forfattere": [
+  "Kristina EM Holmgren",
+  "Gunnel K. E. Hensing",
+  "Ute Bültmann",
+  "Emina Hadžibajramović",
+  "Maria E. H. Larsson"
+ ],
+ "hentet": "2026-11-09",
+ "hentet_fra": "https://link.springer.com/content/pdf/10.1186/s12889-019-7452-3.pdf",
+ "hvordan": "pdf",
+ "id": "W2969193400",
+ "kilde": "BMC Public Health",
+ "lenke": "https://openalex.org/W2969193400",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "BACKGROUND: Experiencing work-related stress constitutes an obvious risk for becoming sick-listed. In primary health care, no established method to early identify, advise and treat people with work-related stress exists. The aim was to evaluate if the use of the Work Stress Questionnaire (WSQ) brief intervention, including feedback from the general practitioner (GP), had an impact on the level of sickness absence. METHOD/DESIGN: In total 271 (intervention group, n = 132, control group, n = 139) non-sick-listed employed women and men, aged 18 to 64 years, who had mental and physical health complaints and sought care at primary health care centers participated in this two-armed randomized controlled trial. The main outcomes were the number of registered sick leave days and episodes, and time to first sick leave during the 12-months follow-up. The intervention included early identification of work-related stress by the WSQ, GP awareness supported by a brief training session, patients' self-reflection by WSQ completion, GP feedback at consultation, and initiation of preventive measures. RESULTS: The mean days registered for the WSQ intervention group and the control group were 39 and 45 gross days respectively, and 31 and 39 net days respectively (ns). No statistical significant difference for the number of sick leave episodes or time to first day of sick leave episode were found between the groups. CONCLUSIONS: The WSQ brief intervention combined with feedback and suggestions of measures at patient-GP-consultation was not proven effective in preventing sick leave in the following 12 months compared to treatment as usual. More research is needed on methods to early identify, advise and treat people with work-related stress in primary health care, and on how and when GPs and other professionals in primary health care can be trained to understand this risk of sick leave due to work-related stress, on how to prevent it, and on how to advise and treat employees at risk. TRIAL REGISTRATION: ClinicalTrials.gov. Identifier: NCT02480855 . Registered 20 May 2015.",
+ "tittel": "Does early identification of work-related stress, combined with feedback at GP-consultation, prevent sick leave in the following 12 months? a randomized controlled trial in primary health care",
+ "type": "article"
+}

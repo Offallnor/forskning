@@ -1,0 +1,20 @@
+{
+ "apen_url": "https://doi.org/10.2139/ssrn.1655706",
+ "ar": 2012,
+ "doi": "https://doi.org/10.1093/oep/gps043",
+ "forfattere": [
+  "J.M. van Sonsbeek",
+  "R.H.J.M. Gradus"
+ ],
+ "hentet": "før 2026-11-08",
+ "hentet_fra": "http://papers.tinbergen.nl/11121.pdf",
+ "hvordan": "pdf",
+ "id": "W3126028820",
+ "kilde": "Oxford Economic Papers",
+ "lenke": "https://openalex.org/W3126028820",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "In the 1980s and 1990s, disability benefit rates in the Netherlands were among the highest in the world. However, since the beginning of this century the number of disability cases has dropped remarkably due to some very successful policy reforms. An administrative data set concerning Dutch disability benefit recipients from 1999 to 2010 was used to analyse the immediate effects of the recent policy measures on disability inflow and outflow. Three inflow-related measures introduced between 1998 and 2004 have had a large effect on the disability stock, reducing inflow into the disability scheme by over 40 percentage points. The new disability scheme introduced in 2006 created an additional reduction of over 20 percentage points. Effects differ substantially among demographic groups and sectors of economic activities. Furthermore, it is shown that the main outflow-related measure, re-examinations of younger beneficiaries, has had ambiguous effects on the disability stock.",
+ "tittel": "Estimating the effects of recent disability reforms in the Netherlands",
+ "type": "article"
+}

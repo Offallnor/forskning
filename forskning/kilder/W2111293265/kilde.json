@@ -1,0 +1,15 @@
+{
+ "ar": 2011,
+ "doi": "https://doi.org/10.1093/oxrep/grr016",
+ "forfattere": [
+  "Muriel Roger",
+  "Philippe Zamora"
+ ],
+ "id": "W2111293265",
+ "kilde": "Oxford Review of Economic Policy",
+ "lenke": "https://openalex.org/W2111293265",
+ "oversikt": false,
+ "sammendrag": "Young labour-market entrants account for a high level of unemployment and short-term contracts. In July 2002, the French government moved to reduce this insecurity at the start of working life by introducing the Youth-in-business Contract (Contrat Jeune en Entreprise), a new contract for young people under 22 years old who dropped out of school before passing their final secondary school examinations. Under this scheme, firms were entitled to claim a subsidy when they hired an eligible young worker on an open-ended contract. We assess the impact of the Youth-in-business Contract on transitions to permanent employment by estimating a dynamic difference-in-difference model drawing on the French Labour Force Survey. We use a new method, inspired by Keane and Sauer (2009), to deal with measurement errors in the data. We find that programme eligibility has no effect on transitions to permanent employment in a recession environment.",
+ "tittel": "Hiring young, unskilled workers on subsidized open-ended contracts: a good integration programme?",
+ "type": "article"
+}

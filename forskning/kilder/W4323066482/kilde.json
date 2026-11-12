@@ -1,0 +1,25 @@
+{
+ "apen_url": "https://academic.oup.com/eurpub/advance-article-pdf/doi/10.1093/eurpub/ckad026/49418223/ckad026.pdf",
+ "ar": 2023,
+ "doi": "https://doi.org/10.1093/eurpub/ckad026",
+ "forfattere": [
+  "Ridwanul Amin",
+  "Ellenor Mittendorfer‐Rutz",
+  "Emma Björkenstam",
+  "Marianna Virtanen",
+  "Magnus Helgesson",
+  "Niklas Gustafsson",
+  "Syed Ghulam Rahman"
+ ],
+ "hentet": "2026-11-09",
+ "hentet_fra": "https://uu.diva-portal.org/smash/get/diva2:1796532/FULLTEXT01",
+ "hvordan": "pdf",
+ "id": "W4323066482",
+ "kilde": "European Journal of Public Health",
+ "lenke": "https://openalex.org/W4323066482",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "BACKGROUND: We aimed to investigate time period effects in the risk of work disability, defined as long-term sickness absence (LTSA) and disability pension (DP) due to common mental disorders (CMDs), among young employees according to employment sector (private/public) and occupational class (non-manual/manual). METHODS: Three cohorts, including all employed individuals with complete information on employment sector and occupational class, aged 19-29 years and resident in Sweden on 31 December 2004, 2009 and 2014 (n = 573 516, 665 138 and 600 889, respectively) were followed for 4 years. Multivariate-adjusted hazard ratios (aHRs) with 95% confidence intervals (CIs) were estimated to examine the risk of LTSA and DP due to CMDs using Cox regression analyses. RESULTS: In all cohorts, public sector employees had higher aHRs for LTSA due to CMDs than private sector employees, irrespective of occupational class, e.g. aHR, 95% CI: 1.24, 1.16-1.33 and 1.15, 1.08-1.23 among non-manual and manual workers in cohort 2004. The rates of DP due to CMDs were much lower in cohorts 2009 and 2014 than 2004 leading to uncertain risk estimates in the later cohorts. Still, public sector manual workers had a higher risk for DP due to CMDs than manual workers in the private sector in cohort 2014 than in 2004 (aHR, 95% CI: 1.54, 1.34-1.76 and 3.64, 2.14-6.18, respectively). CONCLUSIONS: Manual workers in the public sector seem to have a higher risk of work disability due to CMDs than their counterparts in the private sector calling for the need for early intervention strategies to prevent long-term work disability.",
+ "tittel": "Time period effects in work disability due to common mental disorders among young employees in Sweden—a register-based cohort study across occupational classes and employment sectors",
+ "type": "article"
+}

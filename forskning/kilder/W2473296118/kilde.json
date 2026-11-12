@@ -1,0 +1,14 @@
+{
+ "ar": 1990,
+ "doi": "https://doi.org/10.1007/978-1-349-10688-2_3",
+ "forfattere": [
+  "Dale T. Mortensen"
+ ],
+ "id": "W2473296118",
+ "kilde": "Palgrave Macmillan UK eBooks",
+ "lenke": "https://openalex.org/W2473296118",
+ "oversikt": false,
+ "sammendrag": "Existing theoretical models of the effects of unemployment insurance (UI) benefits on unemployment typically treat incidence and duration separately. For example, Baily (1977) and Feldstein (1976) argue that the incidence of temporary layoff unemployment increases with UI benefit liberality. Mortensen (1970; 1977) and Burdett (1979) demonstrate that the expected duration of search unemployment increases with the UI benefit payment and the potential duration of benefits. Although both results are well understood in isolation, there seems to be no formal model in the literature that allows for the effects of UI benefits on both layoff incidence and search duration simultaneously. Such a model is constructed and analysed in this paper. These keywords were added by machine and not by the authors. This process is experimental and the keywords may be updated as the learning algorithm improves.",
+ "tittel": "A Structural Model of Unemployment Insurance Benefit Effects on the Incidence and Duration of Unemployment",
+ "type": "book-chapter"
+}

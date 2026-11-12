@@ -1,0 +1,21 @@
+{
+ "apen_url": "https://jamanetwork.com/journals/jamapsychiatry/articlepdf/2749173/jamapsychiatry_christensen_2019_oi_190051.pdf",
+ "ar": 2019,
+ "doi": "https://doi.org/10.1001/jamapsychiatry.2019.2291",
+ "forfattere": [
+  "Thomas Nordahl Christensen",
+  "Iben Gammelgård Wallstrøm",
+  "Elsebeth Nylev Stenager",
+  "Anders Bo Bojesen",
+  "Christian Nyfeldt Gluud",
+  "Merete Nordentoft",
+  "Lene Falgaard Eplov"
+ ],
+ "id": "W2971662801",
+ "kilde": "JAMA Psychiatry",
+ "lenke": "https://openalex.org/W2971662801",
+ "oversikt": false,
+ "sammendrag": "Importance: Individual placement and support (IPS) seems to be an effective vocational intervention for people with severe mental illness, but its effects have not yet been shown in the Danish welfare model. Also, effects may be enhanced by adding cognitive remediation and work-focused social skills training (IPS with enhancements [IPSE]). Objectives: To investigate the effects of IPS vs IPSE vs service as usual (SAU) on a population of individuals with severe mental illness in Denmark. Design, Setting, and Participants: This was an investigator-initiated, 3-group, parallel, assessor-blinded randomized clinical trial that used early-intervention teams or community mental health services in 3 Danish cities to recruit participants with severe mental illness. Participants were randomly assigned to receive IPS, IPSE, or SAU from November 2012 to February 2016, and follow-up continued until August 2017. Interventions: Participants allocated to the IPS intervention received vocational support per the principles of the IPS model. Participants in the IPSE arm received cognitive remediation and social skills training in addition to IPS. The group receiving SAU received vocational rehabilitation at the Danish job centers. Main Outcomes and Measures: The primary outcome was the number of hours in competitive employment or education during the 18-month follow-up. Secondary outcomes included intergroup differences in employment or education at any point during follow-up; time to employment or education; and cognitive and social functioning, self-esteem, and self-efficacy. Results: Of the 720 included participants (mean [SD] age, 32.8 [9.9] years; 276 [38.3%] women), 243 received IPS, 238 received IPSE, and 239 received SAU. Most participants (551 [76.5%]) were diagnosed with a schizophrenia spectrum disorder. During the 18-month follow-up, the IPSE group worked or studied a mean (SD) of 488.1 (735.6) hours, compared with 340.8 (573.8) hours in the group receiving SAU (success-rate difference [SRD], 0.151 [95% CI, 0.01-0.295]; P = .016). The mean (SD) in the IPS group was 411 (656.9) (SRD, 0.127 [95% CI, -0.017 to 0.276]; P = .004). There was no difference between IPS and IPSE in any vocational outcomes, and the 3 groups showed no differences in any nonvocational outcomes, except that the IPS and IPSE groups were more satisfied with the services received than the group receiving SAU (IPS vs SAU: SRD, 0.310 [95% CI, 0.167-0.445]); IPSE vs SAU: SRD, 0.341 [95% CI, 0.187-0.478]). Conclusions and Relevance: Compared with SAU, IPS and IPSE seem to be viable routes to increase employment and education rates in people with severe mental illness in Denmark, but no additional effects were observed by enhancing IPS. Trial Registration: ClinicalTrials.gov identifier: NCT01722344.",
+ "tittel": "Effects of Individual Placement and Support Supplemented With Cognitive Remediation and Work-Focused Social Skills Training for People With Severe Mental Illness",
+ "type": "article"
+}

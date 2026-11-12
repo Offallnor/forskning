@@ -1,0 +1,15 @@
+{
+ "ar": 1993,
+ "doi": "https://doi.org/10.1086/298308",
+ "forfattere": [
+  "Carl Davidson",
+  "Stephen A. Woodbury"
+ ],
+ "id": "W3124856341",
+ "kilde": "Journal of Labor Economics",
+ "lenke": "https://openalex.org/W3124856341",
+ "oversikt": false,
+ "sammendrag": "We develop a partial equilibrium matching model of the labor market in order to examine whether adoption of a reemployment bonus would displace workers not offered the bonus. We examine the displacement effect for (a) unemployment insurance (UI)-eligible workers who are offered but do not find a job in time to qualify for a bonus and (b) UI-ineligible workers who are never offered a bonus. The model predicts minimal displacement of the former group. But for the latter group, the model predicts an increase in unemployment duration of .2-.4 week and an increase in unemployment of up to 2 per thousand.",
+ "tittel": "The Displacement Effect of Reemployment Bonus Programs",
+ "type": "article"
+}

@@ -1,0 +1,26 @@
+{
+ "apen_url": "https://doi.org/10.1136/bmjopen-2025-109083",
+ "ar": 2026,
+ "doi": "https://doi.org/10.1136/bmjopen-2025-109083",
+ "forfattere": [
+  "Nils Abel Aars",
+  "Ingvild Bardal",
+  "Christoffer Lilja Terjesen",
+  "Bernt Ole Hansen",
+  "Anders Jerven",
+  "Kaja Irvung Kaspersen",
+  "Øyvind Lyngedal",
+  "Frank Hüttepohl"
+ ],
+ "hentet": "2026-11-09",
+ "hentet_fra": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13223649/fullTextXML",
+ "hvordan": "Europe PMC",
+ "id": "W7162633433",
+ "kilde": "BMJ Open",
+ "lenke": "https://openalex.org/W7162633433",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "INTRODUCTION: In many countries, a high or increasing rate of sickness absence is challenging the sustainability of present sickness absence benefit schemes. Most sickness absence is certified on the grounds of common mental disorders or musculoskeletal disorders, and substantial effort has been invested in developing interventions promoting return to work for these patients. In Norway, the Health in Work ((HelseIArbeid), HIA) clinics were established as outpatients' services within the specialised healthcare system, with the aim of improving health and supporting return to work. The HIA service admits patients with low-to-moderate anxiety/depression and/or musculoskeletal disorders. In this protocol, we describe the naturalistic multicentre randomised controlled trial Norwegian Sickness Absence Clinic Efficacy study, which aims to determine the effect of HIA on work participation and health. METHODS AND ANALYSES: The HIA outpatient service is staffed by clinical psychologists, physiotherapists, medical specialists in physical medicine and rehabilitation and employment support supervisors from the Norwegian Labour and Welfare Administration. Patients admitted to HIA have access to multidisciplinary assessment and treatment. The trial recruits' patients from five HIA outpatient clinics in Northern Norway. Patients are randomised in equal proportions to either (1) rapid HIA (assessment within 4 weeks), (2) delayed HIA (assessment within 10-14 weeks) or (3) active control, which consists of a monodisciplinary examination at HIA close to diagnosis-specific deadline for examination as suggested by guidelines (8-26 weeks). The trial commenced recruitment on 16 January 2023 and will recruit 2500 patients. The aim is to assess the effect of the HIA service, with the hypothesis that the HIA concept is superior to what resembles treatment as usual, in improving employment and preventing long-term welfare dependency. Secondary outcomes include self-reported symptoms of health problems. We also examine the effect the service has on other healthcare utilisation. To date, no research has been conducted to assess the efficacy of the HIA service. If proven efficacious, and if there is an economic case for this investment in tailored healthcare delivery, the policy implication may be implementation of the service at scale. If not, adaptations or investments into other viable paths of treatment may be considered. ETHICS AND DISSEMINATION: The study is approved by the Regional Committee for Medical Research Ethics (REC North, #122770). Results from the study will be disseminated at national and international scientific conferences, to funders and participating outpatient clinics in seminars and in peer-reviewed scientific journals. TRIAL REGISTRATION NUMBER: NCT05310695.",
+ "tittel": "Multicentre randomised controlled trial of the Norwegian health in work service for patients with common mental disorders or musculoskeletal disorders: the Norwegian Sickness Absence Clinic (NSAC) Efficacy Study",
+ "type": "article"
+}

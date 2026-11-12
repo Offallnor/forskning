@@ -1,0 +1,14 @@
+{
+ "ar": 1993,
+ "doi": "https://doi.org/10.1177/0193841x9301700104",
+ "forfattere": [
+  "Mark Dynarski"
+ ],
+ "id": "W2059037050",
+ "kilde": "Evaluation Review",
+ "lenke": "https://openalex.org/W2059037050",
+ "oversikt": false,
+ "sammendrag": "Evaluations of the impacts of government employment and training programs on workers have generally followed a strategy whereby the labor market outcomes of workers who receive program services are compared with the outcomes of workers who do not receive program services. Differences in outcomes are then attributed to the effects of receiving services. This article examines the problem of measuring the impacts of reemployment bonuses when treatment group members and control group members interact in the labor market. It is shown that the conventional measure of bonus impacts — the difference in average time spent unemployed of the treatment group and control group — may significantly overestimate the net impact of the bonus offer, and that measuring the net impact correctly requires the presence of another control group that is not affected by the bonus program. It is also shown that measured impacts from previous bonus experiments may have been due entirely to displacement, but the designs of these experiments were not statistically adequate to detect displacement. The implication is that the results of previous bonus experiments should be treated with considerable caution.",
+ "tittel": "The Effects of Displacement On Measures of Reemployment Bonus Impacts",
+ "type": "article"
+}

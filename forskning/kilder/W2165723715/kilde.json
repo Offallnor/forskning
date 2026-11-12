@@ -1,0 +1,15 @@
+{
+ "ar": 2007,
+ "doi": "https://doi.org/10.1017/s0020818307070221",
+ "forfattere": [
+  "Lucio Baccaro",
+  "Diego Rei"
+ ],
+ "id": "W2165723715",
+ "kilde": "International Organization",
+ "lenke": "https://openalex.org/W2165723715",
+ "oversikt": false,
+ "sammendrag": "The view that unemployment is caused by labor market rigidities and should be addressed through systematic institutional deregulation has gained broad currency and has been embraced by national and international policymaking agencies alike. It is unclear, however, whether there really is robust empirical support for such conclusions. This article engages in an econometric analysis comparing several estimators and specifications. It does not find much robust evidence either of labor market institutions' direct effects on unemployment rate, or of a more indirect impact through the magnitude of adverse shocks. At the same time, we find little support for the opposite, proregulatory position as well: the estimates show a robust positive relationship between union density and unemployment rates; also, there is no robust evidence that the within-country variation of bargaining coordination is associated with lower unemployment (as frequently argued), nor is it clear that bargaining coordination moderates the impact of other institutions. All in all, restrictive monetary policies enacted from an independent central bank and other determinants of real interest rates appear to play a more important role in explaining unemployment than institutional factors.",
+ "tittel": "Institutional Determinants of Unemployment in OECD Countries: Does the Deregulatory View Hold Water?",
+ "type": "article"
+}

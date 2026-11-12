@@ -1,0 +1,14 @@
+{
+ "ar": 1993,
+ "forfattere": [
+  "John Schmitt",
+  "Jonathan Wadsworth"
+ ],
+ "id": "W1578560020",
+ "kilde": "London School of Economics and Political Science Research Online (London School of Economics and Political Science)",
+ "lenke": "https://openalex.org/W1578560020",
+ "oversikt": false,
+ "sammendrag": "Throughout the 1980s, the British unemployment compensation system was subject to a series of administrative changes. At the same time, the proportion of male unemployed workers receiving benefit fell by some twenty percentage points. Using a time series of cross-sections from the Labour Force Survey, (LFS), we show that only a tenth of this fall can be attributed to the changing characterisitics of the unemployed population across the period. Thus some 200,000 workers in 1989 no longer received the state support that would have been forthcoming in 1983. The paper then applied Deaton''s pseudo-panel estimator to a dataset constructed from the 1983 to 1989 LFS, in order to examine the effects of these administrative benefit adjustments on the job search activity of the unemployed. The results indicate that the observed movement of the benefit system away from unemployment insurance toward means-tested unemployment assistance appears to have had little significant effect on the aggregate job search activity of those who continue to receive financial support. However, the increasing number of unemployed excluded from the system may have had their job search efforts impaired.",
+ "tittel": "Job search activity and changing unemployment benefit entitlement: pseudo-panel estimates for Britain",
+ "type": "book"
+}

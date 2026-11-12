@@ -1,0 +1,19 @@
+{
+ "apen_url": "https://arxiv.org/pdf/2104.12387",
+ "ar": 2021,
+ "doi": "https://doi.org/10.48550/arxiv.2104.12387",
+ "forfattere": [
+  "Aiwei Huang"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "http://arxiv.org/pdf/2104.12387",
+ "hvordan": "pdf",
+ "id": "W3157482989",
+ "kilde": "RePEc: Research Papers in Economics",
+ "lenke": "https://openalex.org/W3157482989",
+ "merknad": "ÅPEN VERSJON (preprint eller arbeidsnotat), merkes i svaret",
+ "oversikt": false,
+ "sammendrag": "Unemployment benefits in the US were extended by up to 73 weeks during the Great Recession. Equilibrium labor market theory indicates that extensions of benefit duration impact not only search decisions by job seekers but also job vacancy creations by employers. Most of the literature focused on the former to show partial equilibrium effect that increment of unemployment benefits discourage job search and lead to a rise in unemployment. To study the total effect of UI benefit extensions on unemployment, I follow border county identification strategy, take advantage of quasi-differenced specification to control for changes in future benefit policies, apply interactive fixed effects model to deal with unobserved shocks so as to obtain unbiased and consistent estimation. I find that benefit extensions have a statistically significant positive effect on unemployment, which is consistent with the results of prevailing literature.",
+ "tittel": "To What Extent do Labor Market Outcomes respond to UI Extensions?",
+ "type": "preprint"
+}

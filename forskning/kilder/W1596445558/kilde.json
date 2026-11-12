@@ -1,0 +1,14 @@
+{
+ "apen_url": "https://ub-madoc.bib.uni-mannheim.de/2748/1/dp03_35.pdf",
+ "ar": 2003,
+ "forfattere": [
+  "Daniel Schunk"
+ ],
+ "id": "W1596445558",
+ "kilde": "RePEc: Research Papers in Economics",
+ "lenke": "https://openalex.org/W1596445558",
+ "oversikt": false,
+ "sammendrag": "ABSTRACT. Survival models for life-time data and other time-to-event data are widely used in many fields, including medicine, the environmental sciences, engineering etc., but they have still found less recognition in economics, however they are very helpful in the analysis of economic duration data. This paper provides a reanalysis of the Pennsylvania Reemployment Bonus Experiments, which were conducted in 1988-89 to examine the effect of different types of reemployment bonus offers on the unemployment spell. A Cox-proportionalhazards survival-model is fitted to the data and the results are compared to the results of a linear regression approach and to the results of a quantile regression approach. The Cox-proportional-hazards model provides for a remarkable goodness of fit and yields less effective treatment responses, therefore lower expectations concerning the overall implications of the Pennsylvania experiment. An influence analysis is proposed for obtaining qualitative information on the influence of the covariates at different quantiles. The results of the quantile regression and of the influence analysis show that both the linear regression and the Cox-model still impose stringent restrictions on the way covariates influence the duration distribution, however, due to its flexibility, the Cox-proportional hazards model is more appropriate for analysing the data.",
+ "tittel": "The Pennsylvania Reemployment Bonus Experiments: How a survival model helps in the analysis of the data",
+ "type": "preprint"
+}

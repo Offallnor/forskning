@@ -1,0 +1,14 @@
+{
+ "ar": 1996,
+ "doi": "https://doi.org/10.1086/209802",
+ "forfattere": [
+  "Bruce Meyer"
+ ],
+ "id": "W1966782564",
+ "kilde": "Journal of Labor Economics",
+ "lenke": "https://openalex.org/W1966782564",
+ "oversikt": false,
+ "sammendrag": "This article analyzes an experimental program that offered payments to unemployment insurance (UI) recipients who found a job quickly. The experiment provided exogenous differences in individual incentives which I use to test labor supply and search theories of unemployment. I examine predictions about the timing of exits from unemployment and the effect of the fixed-amount bonus on different wage level groups. I also argue that the experimental evidence does not show the desirability of a permanent program. A permanent program would sharply increase the compensation for short UI spells, likely increasing the claims rate and possibly increasing unemployment.",
+ "tittel": "What Have We Learned from the Illinois Reemployment Bonus Experiment?",
+ "type": "article"
+}

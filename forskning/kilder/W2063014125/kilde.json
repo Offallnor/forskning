@@ -1,0 +1,14 @@
+{
+ "ar": 1992,
+ "doi": "https://doi.org/10.1086/298280",
+ "forfattere": [
+  "Patricia M. Anderson"
+ ],
+ "id": "W2063014125",
+ "kilde": "Journal of Labor Economics",
+ "lenke": "https://openalex.org/W2063014125",
+ "oversikt": false,
+ "sammendrag": "A simple search model that includes the possibility of recall provides predictions as to the changing effects of recall expectations, a bonus offer, and job counseling on new job finding rates over time. Using data from the New Jersey Unemployment Insurance Reemployment Demonstration Project (NJUIRDP), I find evidence for an initial positive effect of the bonus offer, which diminishes over time. New job-finding rates are found to be negatively affected by higher initial recall expectations. This effect also diminishes over time, and evidence suggests that job counseling is successful in speeding up this process.",
+ "tittel": "Time-Varying Effects of Recall Expectation, a Reemployment Bonus, and Job Counseling on Unemployment Durations",
+ "type": "article"
+}

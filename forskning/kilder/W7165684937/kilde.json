@@ -1,0 +1,26 @@
+{
+ "apen_url": "https://doi.org/10.1093/occmed/kqag058",
+ "ar": 2026,
+ "doi": "https://doi.org/10.1093/occmed/kqag058",
+ "forfattere": [
+  "Anna Siukola",
+  "Mikko Korhonen",
+  "Lauri Vähätalo",
+  "Elina Kervinen",
+  "Tiia Reho",
+  "Klas Winell",
+  "M Viljamaa",
+  "Riitta Sauni"
+ ],
+ "hentet": "2026-11-09",
+ "hentet_fra": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13557209/fullTextXML",
+ "hvordan": "Europe PMC",
+ "id": "W7165684937",
+ "kilde": "Occupational Medicine",
+ "lenke": "https://openalex.org/W7165684937",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "BACKGROUND: As the dependency ratio declines, ensuring good work ability (WA) among the working-age population becomes increasingly important. Occupational health care (OHC) provides services to support WA, but more information is needed on their effectiveness and timeliness. AIMS: This study examined the relationship between the timing of WA support services and work disability among OHC patients with mental health and/or musculoskeletal disorders. METHODS: This study used patient data on individuals first diagnosed during the follow-up period (2019-22) with mental health and/or musculoskeletal disorders from a nationwide OHC provider in Finland (n = 54 933), linked with national registers on disability benefits, sickness absences and sociodemographic information. The association between the timing of the first WA support action (including WA contacts and negotiations) and work disability was analysed using logistic regression adjusted for sex, age and the number of OHC contacts. Work disability was defined as being granted a permanent or temporary disability pension or accumulating >300 days of sickness absence. RESULTS: Delayed initial WA support contact after the first diagnosis of a mental health or musculoskeletal disorder increased the risk of work disability. A similar finding was observed regarding the timing of WA negotiations among patients with mental health disorders. CONCLUSIONS: OHC practice should emphasise the early initiation of WA support services for patients diagnosed with a mental health or musculoskeletal disorder, as delayed support was shown to be associated with work disability.",
+ "tittel": "Early support in occupational health care reduced work disability risk",
+ "type": "article"
+}

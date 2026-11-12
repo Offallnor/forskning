@@ -1,0 +1,14 @@
+{
+ "ar": 2010,
+ "doi": "https://doi.org/10.7249/wr734",
+ "forfattere": [
+  "Zafar E. Nazarov"
+ ],
+ "id": "W3126064966",
+ "kilde": "RAND Corporation eBooks",
+ "lenke": "https://openalex.org/W3126064966",
+ "oversikt": false,
+ "sammendrag": "This study estimates the effect of the UI (Unemployment Insurance) wage replacement rate on reemployment wages using the sample of men in the 1996 and 2001 Surveys of Income and Program Participation. It models employment search behavior in a dynamic discrete time hazard setting with three possible outcomes: finding a full-time job, finding a part-time job, or staying unemployed (continuing the job search). It finds that reemployment wages, particularly part-time wages, decrease with the UI wage replacement rate. Furthermore, the wage replacement rate depresses the prospect of finding full-time work while increasing the prospect of finding part-time work.",
+ "tittel": "The Effect of the UI Wage Replacement Rate on Reemployment Wages: A Dynamic Discrete Time Hazard Model with Unobserved Heterogeneity",
+ "type": "book"
+}

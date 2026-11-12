@@ -1,0 +1,12 @@
+id	svar_sier	avvik	forklaring	alvor
+W1606668257	koordineringsprogrammer ga muligens kortere samlet fravær, men usikkert	vekt	Oversikten finner ingen gevinst på noe utfall. Rettet til «ingen sikker gevinst».	middels
+W2063500338	varsel til legene endret ikke foreskrevne dager	mangler forbehold	Varselet økte det faktiske fraværet. Lagt til.	middels
+W4412112855	strengere prøving ga høyere inntekt og færre sykedager	mangler forbehold	Flagg utvalg: bare personer som klaget på avslag. Lagt til.	middels
+W4408790921	mesteparten gikk til andre ytelser	mangler forbehold	Forfatterne løfter fram at flere først gikk til arbeid for å unngå aktiveringen. Lagt til.	lav
+AV-2022-2-04	varigheten endret seg ikke sikkert	vekt	Forfatterne mener de med relativt stor sikkerhet kan utelukke lengre varighet. Rettet.	lav
+W2215805610	varig retur høyere og kortere tid etter 60 dagers fravær	mangler forbehold	Effekt bare etter 60 dager, ikke 30 eller 90; før-etter uten kontrollgruppe (flagg årsaksspråk). Lagt til.	lav
+W4386883739	ett forsøk ga lengre fravær	ingen	Flagg utvalg (n = 112) og små forsøk lagt til for gruppen.	lav
+W4309592779	IA-virksomheter ga flere dager i arbeid	ingen	Flagg årsaksspråk (vekting for observerbare kjennetegn). Svaret sier allerede at utvalget ikke er tilfeldig.	lav
+W7165684937	sen kontakt hang sammen med høyere risiko	ingen	Flagg årsaksspråk. Svaret sier allerede at sammenhengen ikke viser effekt.	lav
+R-5e8ea23282	ingen sikre effekter	ingen	Hovedrapporten nevner positive effekter i fire kommuner (flagg undergruppe). Svaret følger hovedresultatet.	lav
+kort svar	krav med kontrollpunkt og konsekvens korter ned fraværet; mer samtale og oppfølging gir sjelden effekt; oversiktene forsiktige	vekt	Samme retning og hovedbudskap som det blinde korte svaret. Det blinde svaret er strengere om Cochrane-oversikten over koordinering (ingen effekt) og om at spredningen av Hedmarksmodellen ga mindre og usikrere nedgang. Første er rettet. Det blinde svaret tar med finske og danske tidsgrenser i kortsvaret (små eller kortvarige effekter); svaret har dem under funn.	lav

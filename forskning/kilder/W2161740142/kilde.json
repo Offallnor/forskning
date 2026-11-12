@@ -1,0 +1,16 @@
+{
+ "apen_url": "https://www.zora.uzh.ch/id/eprint/52005/1/iewwp105.pdf",
+ "ar": 2002,
+ "doi": "https://doi.org/10.5167/uzh-52005",
+ "forfattere": [
+  "Rafael Lalive",
+  "Josef Zweimüller"
+ ],
+ "id": "W2161740142",
+ "kilde": "Zurich Open Repository and Archive (University of Zurich)",
+ "lenke": "https://openalex.org/W2161740142",
+ "oversikt": false,
+ "sammendrag": "This paper analyzes the impact of the Austrian Regional Extended Benefit Program (REBP) on the labor market outcomes for elderly workers in Austria. The REBP extended entitlement to regular unemployment benefits from 30 weeks to a maximum of 209 weeks for elderly individuals in certain regions. This policy change created a large-scale quasi-experimental situation from which a lot can be learned about the impact of unemployment insurance rules on the dynamics of employment, unemployment, and wages. We find that the REBP led to a tremendous increase in unemployment which was due to both an increase in the inflow to and thenoutflow from unemployment. The REBP also induced a strong increase in early retirement and in many cases, in particular for steel workers, entering unemployment meant withdrawal from the labor force. Finally, we show that there were also non-negligible eects of extended benefits on the level and the distribution of wages.",
+ "tittel": "Benefit Entitlement and the Labor Market: Evidence from a Large-Scale Policy Change",
+ "type": "report"
+}

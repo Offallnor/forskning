@@ -1,0 +1,15 @@
+{
+ "ar": 2009,
+ "forfattere": [
+  "David N. Card",
+  "David Stephen Lee",
+  "Zhuan Pei"
+ ],
+ "id": "W1550621809",
+ "kilde": "RePEc: Research Papers in Economics",
+ "lenke": "https://openalex.org/W1550621809",
+ "oversikt": false,
+ "sammendrag": "We consider nonparametic identification of the average marginal effect of a continuous endogenous regressor in a generalized nonseparable model when the regressor of interest is a known, deterministic, but kiniked function of an observed continuous assignment variable. This design arises in many institutional settings where a policy variable of interest (such as weekly unemployment benefits) is mechanically related to an observed but potentially endogenous variable (like previous earnings). We characterize a broad class of models in which a \"Regression Kink Design\" (RKD) provides valid inferences for the underlying marginal effects. Importantly, this class includes cases where the assignment variable is endogenously chose. Under suitable conditions we show that the RKD estimand identifies the \"treatment on the treated\" parameter (Florens et al., 2009) or the \"local average response\" (altonji and Matzkin, 2005) that is identified in an ideal randomized experiment. As in a regression discontinuity design, the required indentification assumption implies strong and readilt testable predictions for the pattern of predetermined covariates around the kink point. Standard local linear regression techniques can be easily adapted to obtain \"nonparametris\" RKD estimates. We illustrate the RKD approach by examining the effect of unemployment insurance benefits on the duration of benefit claims, using rich microdata from the state of Washington.",
+ "tittel": "Quasi-Experimental Identification and Estimation in the Regression Kink Design",
+ "type": "preprint"
+}

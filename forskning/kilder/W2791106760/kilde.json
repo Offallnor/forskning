@@ -1,0 +1,17 @@
+{
+ "apen_url": "https://academic.oup.com/eurpub/article-pdf/28/5/791/25819834/cky024.pdf",
+ "ar": 2018,
+ "doi": "https://doi.org/10.1093/eurpub/cky024",
+ "forfattere": [
+  "Jaakko Harkko",
+  "Marianna Virtanen",
+  "Anne M. Kouvonen"
+ ],
+ "id": "W2791106760",
+ "kilde": "European Journal of Public Health",
+ "lenke": "https://openalex.org/W2791106760",
+ "oversikt": false,
+ "sammendrag": "Background: Unemployment in early adulthood is associated with higher rate of disability due to common mental disorders (CMDs). We investigated to what extent the association between unemployment and sub-sequent long-term sickness absence due to CMDs is direct or whether it is dependent on accumulation of mental health problems and socioeconomic disadvantage. Methods: In this longitudinal study, a population-based 60% sample of Finnish young adults born between 1983 and 1985 (N = 116 878) was followed up for the incidence of CMDs from 2006 to 2010. Sociodemographic and health-related covariates were identified using several nationwide registers. Hazard ratios (HRs) with 95% confidence intervals (CIs), and survival and cumulative hazard functions for CMD were calculated. A matching procedure was applied to account for the systematic differences in the distribution of the baseline characteristics. Results: A total of 1416 (2.4%) of men and 2539 (4.4%) of women were granted a long-term sickness allowance for CMD during the follow-up. After matching, HR (95% CI) of CMD for men decreased from 2.38 (2.12-2.68) to 1.31 (1.03-1.67) and for women from 1.97 (1.79-2.18) to 1.39 (1.18-1.65). Approximately half of the effect of the unemployment on CMDs was explained by the background variables. Conclusion: Using a causal approach, our study suggests that unemployment is consistently associated with an increased risk of work disability due to CMDs. Considering the young unemployed as a risk group may help in targeting interventions promoting mental health and improving educational and employment opportunities.",
+ "tittel": "Unemployment and work disability due to common mental disorders among young adults: selection or causation?",
+ "type": "article"
+}

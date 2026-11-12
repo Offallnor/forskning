@@ -1,0 +1,123 @@
+id	kategori	land	tiltak	samme_materiale	begrunnelse
+W1716161898	1	AU/CA/FI/GB/US	Tilsyn og håndhevingsverktøy (inspeksjon, sanksjoner)		Cochrane-oversikt (Mischke m.fl.): effekt av håndheving av arbeidsmiljøregelverk på skader og sykdom; foreslått i mandatet.
+W1500396183	1	AU/FI	Tilsyn og håndhevingsverktøy	W1716161898	Cochrane-protokoll/tidligere versjon av samme oversikt om håndhevingsverktøy.
+W2417363006	1	CA/US	Håndheving av HMS-regelverk (inspeksjon, sanksjoner)		Systematisk oversikt (43 studier, best-evidence) om effekt av regulatorisk håndheving; sterk evidens for enkelte virkemidler.
+W2098026786	1	CA	Håndheving av HMS-regelverk og erstatningsforsikring		Systematisk oversikt om insentiver ved håndheving og premiedifferensiering; håndhevingsdelen er relevant, forsikringsdelen utenfor.
+W2898876403	1	DK	HMS-lovgivning og regulatoriske tiltak, inkl. tilsyn		Systematisk oversikt (1966-2017) av effekter av lovgivning/regulering på skader, sykefravær og eksponering.
+W4389580105	1	CA/DE/DK	Regulatoriske HMS-tiltak inkl. tilsyn		Campbell evidence and gap map over oversikter og primærstudier om effekt av regulatoriske tiltak.
+W4223487952	1	CA/DE/DK	Regulatoriske HMS-tiltak inkl. tilsyn	W4389580105	Protokoll for evidence and gap map; samme materiale som den ferdige kartleggingen.
+W7128726718	1	DE/DK	Arbeidstilsyn fra offentlige myndigheter og ulykkesforsikring		Scoping review med metaanalytisk oppdatering (2026) av effekt av tilsyn på HMS; bygger på tidligere systematisk oversikt.
+W7128781141	1	DE/DK	Arbeidstilsyn	W7128726718	Annen registrering av samme artikkel.
+W7134042898	1	DE/DK	Arbeidstilsyn	W7128726718	Rettelse til samme artikkel.
+W7128788685	1	DE/DK	Arbeidstilsyn	W7128726718	Tilleggsfil til samme artikkel.
+W4411021912	1	SE	Regulering og tilsyn, europeisk forskning		Rask litteraturoversikt (Safety Science 2025) om hvordan regulering og tilsynspraksis påvirker etterlevelse i europeiske virksomheter.
+W4281637930	1	CA/DK/NL/SE/US	Sikkerhetstiltak, bl.a. lovgivning/regulering		Campbell-oversikt om tiltak mot arbeidsulykker; relevant bare i den grad regulatoriske tiltak/tilsyn er med (usikker).
+W2144208646	1	FI/GB/NL/US	Regulering (bl.a. håndheving) mot skader i bygg		Cochrane-oversikt: tre av fem tidsserier evaluerte regulering/håndheving, f.eks. OSHA-tilsyn i bygg.
+W1552109825	1	CA/FI/GB/NL/US	Regulering (bl.a. håndheving) mot skader i bygg	W2144208646	Oppdatert Cochrane-versjon av oversikten om byggeskader.
+W1986102684	1	US	OSHA-tilsyn og -regulering		Faglitteraturoversikt (Foundations and Trends) om OSHAs betydning for skader; kritisk vurdering av effektene.
+0198cc8bed64-0b66e210-65c2-44b9-9ce3-6a752ddfeeac	1	NO	Myndighetstiltak (tilsyn) fra arbeidsmiljømyndighetene		STAMI-rapport 2017: systematisk kunnskapsoppsummering av effekter av myndighetstiltak på arbeidsmiljø og helse; sentral norsk kilde.
+LI-20048316	1	SE	Regler og inspeksjoner fra Arbetsmiljöverket		Arbetsmiljöverkets kunnskapssammenstilling 2016:10, systematisk litteraturgjennomgang om effekt av regler og inspeksjoner (valg bygger på tittelen).
+LI-fpmzn7lnck2xs4zv	1	SE	Regler og inspeksjoner	LI-20048316	Ny utgave/registrering av kunnskapssammenstillingen 2016:10 (tittel).
+LI-l64vh5kmj4294t2d	1	SE	Regler og inspeksjoner	LI-20048316	Ny utgave/registrering av kunnskapssammenstillingen 2016:10 (tittel).
+LI-vgfsl74gsl69hlgj	1	SE	Arbeidsmiljøregulering og tilsyn		Myndigheten för arbetsmiljökunskap 2025: oversikt over forskning om regulering, tilsyn og organisatoriske forutsetninger; antatt oversikt, valgt på tittelen.
+LI-r4xpjstbpmt7t1gj	1	SE	Tilsyn (generelt)		Litteraturstudie "Effekter av tilsyn" 2019; utgiver ukjent og kan gjelde annet tilsyn enn arbeidsmiljø, valgt på tittelen, må sjekkes.
+W134880977	1	DE/US	Regulering av arbeidsmiljørisiko		Håndbokkapittel som oppsummerer forskning på regulering av arbeids- og produktrisiko; usikker relevans for tilsyn spesielt.
+W2048175567	2	US	Tilfeldig utvalgte OSHA-tilsyn (Cal/OSHA)		Levine, Toffel, Johnson, Science 2012: 409 tilfeldig inspiserte mot 409 kontroller, 9,4 % lavere skadekostnader og ingen jobbtap; foreslått i mandatet.
+W265646074	2	US	Tilfeldig utvalgte Cal/OSHA-tilsyn	W2048175567	Arbeidsnotat/versjon av samme naturlige feltforsøk.
+W2760591304	2	US	OSHA-tilsyn, tilfeldig tildelt, og målretting		Johnson, Levine, Toffel: tilfeldig tildelte tilsyn gir 9 % færre alvorlige skader over fem år; maskinlæring for målretting.
+W3122924749	2	US	Tilfeldig tildelte føderale sikkerhetstilsyn		Bruker tilfeldig tildelte tilsyn som instrument for risiko og skader; primært verdi av statistisk liv, men utfallet er skaderisiko etter tilsyn.
+W2035386983	2	CA	Målrettet tilsyn eller rådgivning, High Risk Firm Initiative (Ontario)		Randomisert kontrollert studie av tilsyn/konsultasjon overfor høyrisikobedrifter; skadeutfall.
+W4388017094	2	NO	Arbeidstilsynets tilsyn og veiledningsverksted i hjemmetjenesten		Klyngerandomisert studie, 96 kommuner: tilsyn mot veiledning mot kontroll, utfall legemeldt sykefravær og helse.
+W4407765445	2	NO	Arbeidstilsynets tilsyn og veiledningsverksted	W4388017094	Samme klyngerandomiserte forsøk, men utfall etterlevelse (post-test-only); ulikt utfall.
+W2990026728	2	NO	Arbeidstilsynets tilsyn og veiledningsverksted	W4388017094	Studieprotokoll for samme forsøk.
+0198cc77bb69-6ac9d5e6-44b2-4fe6-80fa-31466c0e2e2c	2	NO	Arbeidstilsynets virkemiddelbruk i hjemmetjenesten	W4388017094	STAMI-rapport 2024 for samme klyngerandomiserte studie.
+W2607517915	3	US	OSHA Site-Specific Targeting, tilsyn ved terskel		Fuzzy regresjonsdiskontinuitet: tilsyn reduserer skader med fravær; kausalt design.
+W3026143771	3	US	OSHA Site-Specific Targeting	W2607517915	Annen registrering av samme studie.
+W7212868501	3	US	OSHA Site-Specific Targeting, spillover til naboer		Regresjonsdiskontinuitet: tilsyn reduserer skader også hos uinspiserte virksomheter i samme postnummer (generell prevensjon).
+W3031883595	3	US	Offentliggjøring av OSHA-brudd (regulation by shaming)		Diskontinuitet i OSHAs pressemeldingsregel: andre virksomheter forbedrer etterlevelse og får færre skader; avskrekking.
+W3043414868	3	US	Offentliggjøring av OSHA-brudd	W3031883595	Annen versjon av samme studie.
+W4390587839	3	AU	Reform: høyere bøter og håndheving (harmoniserte HMS-lover)		Kvasi-eksperiment med forskjell-i-forskjell om skjerpede sanksjoner og kriminell håndheving; påvist effekt bare i høyrisikonæringer.
+W3034320574	3	US	MSHA, flagrant violation-regel med høye bøter (MINER Act)		Hendelsesstudie etter regelendring med strengere bøter i gruver: skader ned 20 %, produktivitet ned 6 %.
+W2899984958	3	US	Endringer i MSHA-håndheving i kullgruver		Policyendring i håndheving; størrelsesavhengige effekter (kun tittel; ingen sammendrag).
+W2109614526	4	US	OSHA-tilsyn i industri (med bot)		Gray og Mendeloff: effekten av tilsyn falt fra ca. 15 % til 1 % over 1979-98; paneldata.
+W2094628007	4	US	OSHA-tilsyn		Gray og Mendeloff: mekanismer, hvilke skadetyper påvirkes av tilsyn.
+W2061215194	4	US	OSHA-tilsyn		Mendeloff og Gray: hvilke skadetyper OSHA-tilsyn forebygger (ingen sammendrag).
+W2911816472	4	US	OSHA-tilsyn	W2061215194	Videre evidens om hvilke skader tilsyn forebygger; samme materiale (tittel).
+W2041184998	4	US	OSHA-tilsyn i industri, 1998-2005		Oppdatert estimat av tilsynseffekt med koblede erstatnings- og sysselsettingsdata.
+W21627715	4	US	OSHA-tilsyn i industri	W2041184998	Rapportversjon av samme Pennsylvania-materiale.
+W3000692532	4	US	OSHA-tilsyn i industri	W2041184998	Rapportversjon av samme Pennsylvania-materiale.
+W2138094971	4	US	Tilsyn og konsultasjon (Washington State)		Endring i skaderater for virksomheter med tilsyn med/uten pålegg, mot konsultasjon, kontrollert for bakgrunn.
+W2093998534	4	US	Tilsyn og konsultasjon (WISHA)		Skadeerstatningsrater for virksomheter med tilsyn, konsultasjon eller ingen; panel.
+W4400981977	4	CA	Tilsyn fra Alberta OHS		Inspiserte virksomheter mot sammenlignbare ikke-inspiserte, utfall erstatningskrav.
+W3111451647	4	CA	Tilsyn fra WorkSafeBC		Doktoravhandling om teori og evaluering av tilsyn i British Columbia (kobling mot erstatningsdata).
+W2026291350	4	CA/US	Tilsyn fra WorkSafeBC	W3111451647	Konferanse-sammendrag av skadeforebyggende effekt av tilsyn i BC.
+W3159137599	4	CA	Straffeforfølgelse og domfellelser etter Alberta OHS		Avhandling om effekt av domfellelse/sanksjon på senere erstatningskrav.
+W4393377150	4	GB/US	OSHA-tilsyn mellom delstater		Brudd i én stat gir mindre brudd der, men mer i andre stater; etterlevelse og informasjonsfriksjon.
+W2306445029	4	IT	SPISAL-tilsyn/programmer (Veneto)		Avbrutt tidsserie, 795 virksomheter med tiltak mot 4186 referansevirksomheter.
+W2133122013	4	IT	Regional håndheving av byggesikkerhetslover		Avbrutt tidsserie med sammenligning mellom regioner med og uten formalisert håndheving; skadefrekvens.
+W2285511036	4	IT	Omfattende mot delvis tilsyn		Overlevelsesanalyse av skadefri tid etter omfattende mot delvis tilsyn, justert for bakgrunn.
+W2111592442	4	NO	Arbeidstilsynets tilsyn, etterlevelse av sikkerhetsregler		To feltundersøkelser (N=291) som sammenligner inspiserte og tidligere uinspiserte virksomheter; høyere etterlevelse etter tilsyn.
+W1591412842	4	SE	Arbetsmiljöverkets støykampanje med tilsyn av 1721 arbeidsplasser		Spørreundersøkelse til inspiserte og matchede kontroller etter tilsyn.
+W1554334886	4	SE	Arbetsmiljöverkets støykampanje (tilsyn)	W1591412842	Evaluering av samme kampanje 2005 (tittel).
+W2017476784	4	CA	Byggeplasstilsyn i Alberta 1987-92		Fant ingen effekt på ulykkesrisiko, men effekt på antall tapte dager; disaggregerte paneldata.
+W3121667400	4	US	OSHA-tilsyn i bygg		Firmapanel 1987-93: tilsyn har beskjeden effekt på etterlevelse; skadeeffekt vurderes.
+W2013964255	4	US	Statlig og føderal OSHA-håndheving i bygg		Sammenligning av delstater med og uten statlig håndheving; føderal håndheving gir færre ikke-dødelige skader, men flere dødsulykker.
+W4285588693	4	US	OSHA-aktivitet i delstatene og erstatningsordninger		Delstatspanel 1992-2016 om dødsulykker i bygg og effekten av håndheving.
+W3124689608	4	US	MSHA-håndheving i underjordiske kullgruver		Data mining-studie av MSHA-innsats og skadefrekvens (ingen sammendrag).
+W3124964336	4	US	MSHA-håndheving i kullgruver	W3124689608	Annen registrering av samme artikkel.
+W4412605691	4	CA/CL/ES	Bøter fra MSHA i gruver		Preprint om bøtenes effekt på ansvarlig drift i amerikanske gruver (kun tittel).
+W7220710829	4	US	OSHA-pålegg, spillover i flerbedriftsselskaper		Sikkerhetseffekter ved andre anlegg i selskapet etter pålegg; generell prevensjon (kun tittel).
+W7168453949	4	ES/US	OSHA-tilsyn og brudd, organisatorisk læring		Panel 2016-20 med 9004 virksomheter: hvordan virksomheter lærer av tilsyn og brudd.
+W7129101351	4	IE/US	Regulatoriske tilsyn		Artikkel 2026 "Do regulatory inspections make workers safer?" (ingen sammendrag; kategori usikker).
+W2948444906	4	CH	Sveitsiske arbeidstilsynets tilsynskampanje om psykososiale risikoer		Kvasi-eksperimentelt design med 208 intervensjons- og 196 kontrollvirksomheter, målt to ganger; tiltak i virksomhetene.
+W2023953920	5	US	OSHA-tilsynsprogram og revidert grøftestandard		Før-etter-utvikling i dødsulykker i bygg etter målrettet tilsynsprogram 1990.
+W2078525502	5	US	Skjerpet håndheving og lovreform (Oregon)		Tidstrend i hørselstapskrav før og etter økt håndheving 1987/1990.
+W1568446505	5	US	OSHA-håndheving i bygg		Arbeidsnotat 2000 om effekt av OSHA-håndheving på etterlevelse (ingen sammendrag).
+W1578291642	5	SG/US	OSHA-tilsynsrekkefølge, gjentatte tilsyn		549 398 tilsyn: antall brudd faller 28-48 % fra første til andre tilsyn; etterlevelse.
+W3025477067	5	US	Gjentatte OSHA-tilsyn		Gjentatte brudd på standarder opptil ti år etter første påpekte brudd.
+W2026426461	5	US	OSHA-lokalt satsingsprogram for ergonomi (New Hampshire)		Endring i karpaltunnelsyndrom etter tilsyn rettet mot ergonomi.
+W2809368031	5	US	OSHA-satsing mot store melkebruk (NY, WI)		Konsekvensvurdering av lokale tilsynsprogrammer og revisjoner.
+W2178947237	5	US	OSHA-tilsyn mot melkebruk, New York		Case-studier og kostnader ved forberedelse til tilsyn; tiltak og kostnad i virksomheten.
+W7132815136	5	US	Virginia OSHA-tilsyn		Økonomisk effekt av tilsynsprogrammet (modellering).
+W1480025479	5	US	OSHA generelt		Avhandling 2009 med regresjonsmodeller av OSHAs effekt på skader og dødsfall.
+W3003782755	5	ES	Arbeidstilsyn i 24 europeiske land		Landpanel med faste effekter 2008-15: tilsyn henger sammen med lavere ulykkesrate.
+W1682734445	5	ES/CH	Regionalt tilsynsnivå i Spania		Regionale forskjeller i alvorlige ulykker forklares delvis av tilsynsintensitet.
+W4399344217	5	MT	Inspeksjoner og bøter fra Maltas OHSA, 2002-22		Tidsserie: tilsyn og bøter er signifikant assosiert med færre dødelige og ikke-dødelige ulykker.
+W3003298692	5	IT	Tilsyn på byggeplasser		Pilotstudie av tilsynseffekt på skader (tittel).
+W2271999475	5	IT	Tilsyn på byggeplasser i Piemonte 2001-05		Retrospektiv evaluering av eksponering og skader etter tilsyn.
+W2242804912	5	IT	Tilsyn og forebygging på byggeplasser i Umbria		Erfaring fra lokal helseenhet etter jordskjelv; ikke kontrollgruppe.
+W1963706061	5	FI	Arbeidsvernmyndighetenes tilsyn		Evaluering av effekter av inspektørenes tilsyn på arbeidsplasser (kun tittel).
+W2042380736	5	FI	Ny tilsynslov i det finske arbeidsvernet		Effekter av tilsynslovgivningen (kun tittel).
+W3156224387	5	CA	Tilsyn fra WorkSafeBC		Endringer i fareforvaltning i virksomheter etter tilsyn (ingen sammendrag).
+W2064673619	5	CA	Inspektørers tilsynsstil, pålegg i Canada		17 960 tilsynsepisoder og 29 451 pålegg: autonomistøttende mot tvang og effekt på etterlevelse.
+W7118537502	5	DK	Dialogbasert tilsyn (ATP) mot pålegg, psykososialt og ergonomi		Arbejdstilsynets registrerte data om dialogbasert tilsyn mot tradisjonelle pålegg.
+W4411365916	5	DK	Arbeidstilsyn og sikkerhet		Preprint om læring for forbedring av tilsyn (ingen sammendrag, usikker design).
+W2895094890	5	DK	Arbejdstilsynet, kritikk av effekt		Debattartikkel 2001 om CASA-rapporten og Rigsrevisionens beretning om effekten av tilsynet.
+R-c348627ca3	5	DK	Risikobasert tilsyn fra Arbejdstilsynet 2012-15		Effektanalyse av risikobaserte tilsyn og arbeidsulykker (kun tittel, rapport på at.dk).
+KU-712a755b-3cfb-4168-99b3-053cd0b09bab	5	NO	Arbeidstilsynets overtredelsesgebyr og anmeldelser		Delrapport 2026: OTG og anmeldelser henger i noen grad sammen med høyere etterlevelse enn bare pålegg; databegrensninger.
+KU-0e54d20c-e636-4b78-a657-a0695cecc848	5	NO	Arbeidstilsynets myndighetsinnsats og reaksjoner mot sosial dumping		Offentlig evaluering som omfatter Arbeidstilsynets reaksjonsbruk og effekter; sosial dumping, men tilsynsdel relevant.
+KU-f16be062-1c98-4c31-81d4-7284e26d5a2f	5	NO	Tiltak mot sosial dumping inkl. tilsyn	KU-0e54d20c-e636-4b78-a657-a0695cecc848	Fafo-versjon av samme evaluering.
+KU-72f60867-806b-40d8-b850-6e21c15c58ec	5	NO	Tiltak mot sosial dumping inkl. tilsyn	KU-0e54d20c-e636-4b78-a657-a0695cecc848	Tidligere registrering/versjon av samme evaluering (2010).
+KU-92400f14-2644-4327-b078-62a588323c79	5	NO	Tiltak mot arbeidslivskriminalitet, inkl. tilsyn		Samlet effektvurdering basert på tidligere evalueringer; arbeidslivskriminalitet, ikke bare HMS.
+0198cc7f8e9e-b3b5ef3d-9c7a-4bec-9e38-1304cedd46dc	5	NO	Felles tverretatlige tilsyn mot arbeidslivskriminalitet		Evaluering med spørreundersøkelse og intervjuer; Arbeidstilsynet deltar i samarbeidet.
+01993dc494fc-47d80a5b-6248-4589-8a65-29f0c9194423	5	NO	Felles tverretatlige tilsyn	0198cc7f8e9e-b3b5ef3d-9c7a-4bec-9e38-1304cedd46dc	Annen registrering av samme rapport.
+KU-8067213c-9dc2-4682-9d29-61904dce8006	5	NO	Felles tverretatlige tilsyn	0198cc7f8e9e-b3b5ef3d-9c7a-4bec-9e38-1304cedd46dc	Annen registrering av samme rapport.
+KU-510db992-77b1-4454-a2b8-d5249ee3b2fb	5	NO	Tverretatlig samarbeid mot arbeidslivskriminalitet		Evaluering 2022 (KPMG) av samarbeidet; svak kobling til effektmål.
+KU-2641bb83-a22c-4f58-a12b-5efa4b7c7bf9	5	NO	Tilsynsmyndighetenes rolle for virksomhetenes internkontroll		Spørreundersøkelse og casestudier 2009 om HMS-arbeid og hvordan tilsyn påvirker det.
+0198cc788f83-7ae2f6e8-5c45-4fa2-80af-1f1fba64c9f5	5	NO	Arbeidstilsynets tilsyn, virksomhetenes erfaringer		NHO-bedrifters erfaringer med tilsyn (SINTEF 2015); ingen sammendrag, trolig spørreundersøkelse.
+LI-n2dnm377lzt22kn0	5	SE	Arbetsmiljöverkets tilsyn etter ressursforsterkning		Statskontoret 2021 om tilsynets effektivitet; valgt på tittelen.
+LI-5qxqsxnp3wvzswz6	5	SE	Arbetsmiljöverkets tilsyn	LI-n2dnm377lzt22kn0	Annen registrering av samme Statskontoret-rapport (tittel).
+LI-10220540	5	SE	Arbetsmiljöverkets tilsyn		Riksrevisionens revisjon 2004 (tittel); eventuelt resultat- og effektvurdering.
+LI-12025349	5	SE	Arbeidsmiljøinspektionens pålegg i slakteriområde, oppfølging		Oppfølging av pålegg 2000/2001: etterlevelse etter pålegg (tittel).
+LI-20167586	5	SE	Arbetsmiljöverkets nasjonale tilsyn av skolen 2013-16		Prosjektrapport om tilsynskampanje med eventuell oppfølging (tittel).
+LI-z8mngx5cwh35nnbl	5	SE	Arbeidsmiljøinspeksjoner hos sosialsekretærer		Tilsynets påvirkning på arbeidsmiljø (tittel).
+LI-7h2w2s3q5bp7szp7	5	SE	Tilsyn av psykososialt arbeidsmiljø i eldreomsorgen		Regjeringsoppdrag, rapport 2019; oppfølging/effekt av tilsyn (tittel).
+LI-22515344	5	SE	Tilsyn av psykososialt arbeidsmiljø i eldreomsorgen	LI-7h2w2s3q5bp7szp7	Delrapport 2018 for samme oppdrag (tittel).
+LI-m495sfpckvm66r9h	5	SE	Tilsyn av psykososialt arbeidsmiljø i eldreomsorgen	LI-7h2w2s3q5bp7szp7	Rapport 2023 for samme oppdrag (tittel).
+LI-cv1wj50f940vqwm1	5	SE	Tilsyn av psykososialt arbeidsmiljø i eldreomsorgen	LI-7h2w2s3q5bp7szp7	Delrapport 2023 for samme oppdrag (tittel).
+FI-uef.9910982163705966	5	FI	Arbeidsvernmyndighetens tilsyn i byggenæringen		Forskningsrapport 2015 om vaikuttavuus (effekt) av tilsyn i bygg; nøkkelord omfatter ulykker; valgt på tittel/emneord.
+FI-ekk.994422839906250	5	FI	Finsk tilsynslov for arbeidsvern		Intervjuundersøkelse 2012 om tilsynslovens virkning på arbeidsplassenes arbeidsvern (emneord).
+FI-valto.11111_6924	5	FI	Finsk tilsynslov for arbeidsvern		Rapport 2010 om tilsynslovens virkning på myndighetstilsynet (tittel/emneord).
+FI-ekk.993969914006250	5	FI	Arbeidsvernstilsyn i kjemisk industri		Rapport 2013 om tilsynets virkninger i kjemisk industri (tittel).
+FI-trepo.10024_147253	5	FI	Arbeidsvernmyndighetens tilsyn, pilotprosjekter		Masteroppgave 2023 om effektvurdering av pilotprosjekter (tittel).
+FI-jykdok.920271	5	FI	Arbeidsplasstilsyn		Rapport 2003 om kvalitet og effekt av tilsyn (tittel).

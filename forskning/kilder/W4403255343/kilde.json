@@ -1,0 +1,20 @@
+{
+ "apen_url": "https://doi.org/10.1007/s11187-024-00954-8",
+ "ar": 2024,
+ "doi": "https://doi.org/10.1007/s11187-024-00954-8",
+ "forfattere": [
+  "Sebastian Camarero Garcia",
+  "Martin Murmann"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "https://link.springer.com/content/pdf/10.1007/s11187-024-00954-8.pdf",
+ "hvordan": "pdf",
+ "id": "W4403255343",
+ "kilde": "Small Business Economics",
+ "lenke": "https://openalex.org/W4403255343",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "Abstract Business creation is economically important, and unemployment precedes the creation of a substantial share of new firms. Yet, most research has focused on analyzing the effects of unemployment insurance policies on re-employment outcomes, ignoring self-employment. In this paper, we analyze how the potential duration of unemployment benefits, a fundamental design choice of unemployment insurance systems, affects whether new firms are founded out of opportunity or necessity and their growth potential. To this end, we construct a comprehensive dataset on German firm founders that links administrative social insurance information with business survey data. Exploiting reform and age-related exogenous variation in the potential duration of unemployment benefits, we find that longer potential benefit duration implies longer actual unemployment and, as a consequence, more necessity entrepreneurship and worse startup outcomes in terms of sales and employment growth. We explain this overall effect of potential benefit duration through a mix of compositional and individual-level duration effects. Our findings underline that new firms started out of unemployment are a highly heterogeneous group and suggest that the (optimal) design of unemployment insurance systems has important externalities on whether innovation- and growth-oriented firms are started out of unemployment.",
+ "tittel": "How unemployment benefit duration shapes startup motivation and growth",
+ "type": "article"
+}

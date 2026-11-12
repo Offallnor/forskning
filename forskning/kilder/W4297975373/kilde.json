@@ -1,0 +1,19 @@
+{
+ "apen_url": "http://ux-tauri.unisg.ch/RePEc/usg/dp2009/DP-0934-Pu.pdf",
+ "ar": 2009,
+ "forfattere": [
+  "Patrick A. Puhani",
+  "Katja Sonderhof"
+ ],
+ "hentet": "før 2026-11-08",
+ "hentet_fra": "https://www.diw.de/documents/publikationen/73/diw_01.c.345166.de/diw_sp0248.pdf",
+ "hvordan": "pdf",
+ "id": "W4297975373",
+ "kilde": "RePEc: Research Papers in Economics",
+ "lenke": "https://openalex.org/W4297975373",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "We evaluate the effects of a reduction in sick pay from 100 to 80% of the wage. Unlike previous literature, apart from absence from work, we also consider effects on doctor/hospital visits and subjective health indicators. We also add to the literature by estimating both switch-on and switch-off effects, because the reform was repealed 2 years later. We find a 2-day reduction in the number of days of absence. Quantile regression reveals higher point estimates (both in absolute and relative terms) at higher quantiles, meaning that the reform predominantly reduced long durations of absence. In terms of health, the reform reduced the average number of days spent in hospital by almost half a day, but we cannot find robust evidence for negative effects on health outcomes or perceived liquidity constraints.",
+ "tittel": "The Effects of a Sick Pay Reform on Absence and on Health-Related Outcomes",
+ "type": "preprint"
+}

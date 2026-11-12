@@ -1,0 +1,14 @@
+{
+ "ar": 2007,
+ "doi": "https://doi.org/10.1093/jleo/ewm047",
+ "forfattere": [
+  "Alison D. Morantz"
+ ],
+ "id": "W2013964255",
+ "kilde": "The Journal of Law Economics and Organization",
+ "lenke": "https://openalex.org/W2013964255",
+ "oversikt": false,
+ "sammendrag": "Although the issue of regulatory devolution has received much scholarly scrutiny, rigorous empirical studies of its effects on important policy outcomes are scarce. This article explores the effects of partial regulatory devolution in the occupational safety arena by exploiting a unique historical anomaly whereby some US states enforce protective labor regulations that are enforced elsewhere by the federal Occupational Safety and Health Administration. Analyzing data from the construction industry, this article contains several important findings. First, state inspectors use traditional enforcement tools more sparingly than their federal counterparts, typically citing fewer violations and collecting lower fines per violation. Second, although federal enforcement significantly lowers the estimated frequency of nonfatal construction injuries, it also predicts a significant increase in occupational fatalities. I suggest that although higher underreporting of nonfatal injuries in federally regulated states could explain this puzzling finding, it is equally possible that different regulatory styles have different “comparative advantages” in deterring nonfatal injuries on one hand and occupational fatalities on the other. (JEL D73, D78, H73, I18, J08, J28, J88, K00, K23, K31, K32, L51, and L74)",
+ "tittel": "Has Devolution Injured American Workers? State and Federal Enforcement of Construction Safety",
+ "type": "article"
+}

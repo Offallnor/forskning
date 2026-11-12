@@ -1,0 +1,22 @@
+{
+ "apen_url": "https://academic.oup.com/jeea/article-pdf/2/4/569/10312864/jeea0569.pdf",
+ "ar": 2004,
+ "doi": "https://doi.org/10.1162/1542476041423368",
+ "forfattere": [
+  "Richard W. Blundell",
+  "Mónica Costa Dias",
+  "Costas Meghir",
+  "John Michael Van Reenen"
+ ],
+ "hentet": "2026-11-08",
+ "hentet_fra": "https://discovery.ucl.ac.uk/15843/1/15843.pdf",
+ "hvordan": "pdf",
+ "id": "W2150829746",
+ "kilde": "Journal of the European Economic Association",
+ "lenke": "https://openalex.org/W2150829746",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "This paper exploits area-based piloting and age-related eligibility rules to identify treatment effects of a labor market program—the New Deal for Young People in the U.K. A central focus is on substitution/displacement effects and on equilibrium wage effects. The program includes extensive job assistance and wage subsidies to employers. We find that the impact of the program significantly raised transitions to employment by about 5 percentage points. The impact is robust to a wide variety of nonexperimental estimators. However, we present some evidence that this effect may not be as large in the longer run.",
+ "tittel": "Evaluating the Employment Impact of a Mandatory Job Search Program",
+ "type": "article"
+}

@@ -1,0 +1,21 @@
+{
+ "apen_url": "https://academic.oup.com/rheumatology/article-pdf/51/2/230/26187139/ker086.pdf",
+ "ar": 2011,
+ "doi": "https://doi.org/10.1093/rheumatology/ker086",
+ "forfattere": [
+  "Keith T Palmer",
+  "Elizabeth Clare Harris",
+  "Cathy Linaker",
+  "Mary Elizabeth Barker",
+  "Wendy T Lawrence",
+  "Cyrus C. Cooper",
+  "David Coggon"
+ ],
+ "id": "W2099295837",
+ "kilde": "Rheumatology",
+ "lenke": "https://openalex.org/W2099295837",
+ "oversikt": true,
+ "sammendrag": "OBJECTIVE: To assess the effectiveness of interventions in community and workplace settings to reduce sickness absence and job loss in workers with musculoskeletal disorders (MSDs). METHODS: Relevant randomized controlled trials (RCTs) and cohort studies, published since 1990, were identified by screening citations from 35 earlier systematic reviews and by searching MEDLINE and Embase until April 2010. Effects were estimated by intervention category and other features, including study quality. RESULTS: Among 42 studies (including 34 RCTs), 27 assessed return to work (RTW), 21 duration of sickness absence and 5 job loss. Interventions included exercise therapy, behavioural change techniques, workplace adaptations and provision of additional services. Studies were typically small {median sample 107 [inter-quartile range (IQR) 77-148]} and limited in quality. Most interventions appeared beneficial: the median relative risk (RR) for RTW was 1.21 (IQR 1.00-1.60) and that for avoiding MSD-related job loss was 1.25 (IQR 1.06-1.71); the median reduction in sickness absence was 1.11 (IQR 0.32-3.20) days/month. However, effects were smaller in larger and better-quality studies, suggesting publication bias. No intervention was clearly superior, although effort-intensive interventions were less effective than simple ones. No cost-benefit analyses established statistically significant net economic benefits. CONCLUSION: As benefits are small and of doubtful cost-effectiveness, employers' practice should be guided by their value judgements about the uncertainties. Expensive interventions should be implemented only with rigorous cost-benefit evaluation planned from the outset. Future research should focus on the cost-effectiveness of simple, low-cost interventions, and further explore impacts on job retention.",
+ "tittel": "Effectiveness of community- and workplace-based interventions to manage musculoskeletal-related sickness absence and job loss: a systematic review",
+ "type": "review"
+}

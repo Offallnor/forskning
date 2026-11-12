@@ -1,0 +1,19 @@
+{
+ "apen_url": "https://doi.org/10.21203/rs.3.rs-5034595/v1",
+ "ar": 2024,
+ "doi": "https://doi.org/10.21203/rs.3.rs-5034595/v1",
+ "forfattere": [
+  "Muhammad Usman Taj"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "https://www.researchsquare.com/article/rs-5034595/latest.pdf",
+ "hvordan": "pdf",
+ "id": "W4403164112",
+ "kilde": "Research Square",
+ "lenke": "https://openalex.org/W4403164112",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "Abstract In August 2020, the US government introduced the Lost Wages Assistance Program, the purpose was to provide relief to the unemployed workers. Under the program, $300 additional payments were provided in addition to regular UI benefits. Using the Household Pulse Survey, this paper attempts to study the employment effects of the program. I find that a 1% increase in the replacement rate due to LWA was associated with a 4% decrease in the probability of working. Using timing variation, I present the event study results through the Callaway and Sant'anna estimator and find similar negative employment effects. The results are robust to various specifications and statistically significant among the sub-groups as well. JEL Codes: J21, J22, J65",
+ "tittel": "Unemployment Insurance and Employment: Evidence from the Lost Wages Assistance Program",
+ "type": "preprint"
+}

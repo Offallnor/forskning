@@ -1,0 +1,15 @@
+{
+ "apen_url": "https://surface.syr.edu/cpr/110",
+ "ar": 2003,
+ "forfattere": [
+  "Thomas J. Kniesner",
+  "John D. Leeth"
+ ],
+ "id": "W3124964336",
+ "kilde": "RePEc: Research Papers in Economics",
+ "lenke": "https://openalex.org/W3124964336",
+ "oversikt": false,
+ "sammendrag": "Studies of industrial safety regulations, Occupational Safety and Health Administration (OSHA) in particular, often find little effect on worker safety. Critics of the regulatory approach argue that safety standards have little to do with industrial injuries and defenders of the regulatory approach cite infrequent inspections and low fines for violating safety standards. We use recently assembled data from the Mine Safety and Health Administration (MSHA) concerning underground coal mine production, safety inspections, and workplace injuries to shed new light on the regulatory approach to workplace safety. Because all underground coal mines are inspected at least once per quarter, MSHA regulations will not be ineffective because of infrequent inspections. We estimate over 200 different specifications of dynamite mine safety production functions, including ones using deliberately upward biased estimators, and cherry pick the most favorable mine safety effect estimates. Although most estimates are of insignificant MSHA effects, we select the single regression specification producing the most favorable MSHA impact from the agency viewpoint, which we then use in a policy evaluation. We address the question of whether it would be cost-effective to move some of MSHA's enforcement budget into alternative programs that could also improve the health of the typical miner. Even using cherry-picked results most favorable to the agency, MSHA is not cost effective at its current levels. Even though MSHA is a small program when judged against others like OSHA and the Environmental Protection Agency (EPA), MSHA's targeted public health objective could be much better served (almost 700,000 life years gained on balance for miners) if a quarter of MSHA's enforcement budget were reallocated to other programs such as more heart disease screening or defibrillators at worksites.",
+ "tittel": "Data Mining Mining Data: MSHA Enforcement Efforts, Underground Coal Mine Safety, and New Health Policy Implications",
+ "type": "preprint"
+}

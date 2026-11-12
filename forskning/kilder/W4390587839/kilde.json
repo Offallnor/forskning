@@ -1,0 +1,17 @@
+{
+ "apen_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/irel.12357",
+ "ar": 2024,
+ "doi": "https://doi.org/10.1111/irel.12357",
+ "forfattere": [
+  "Anam Bilgrami",
+  "Henry Cutler",
+  "Kompal Sinha"
+ ],
+ "id": "W4390587839",
+ "kilde": "Industrial Relations A Journal of Economy and Society",
+ "lenke": "https://openalex.org/W4390587839",
+ "oversikt": false,
+ "sammendrag": "Abstract A quasi‐experiment was created in Australian policy between 2012 and 2013 when workplace health and safety laws were harmonized in all but two jurisdictions. This reform expanded definitions for duty of care, introduced criminal enforcement, and increased penalties. Using stacked difference‐in‐difference estimation, we fail to find overall reduced workers' compensation probability over the post‐reform period. However, we find significantly reduced workers' compensation probabilities for high‐risk industry workers and workers in single‐location employers. We conclude that more consistent laws may not reduce overall claims and injury if they do not reduce complexity or consider available inspectorate resources, and if jurisdictions have implementation flexibility.",
+ "tittel": "Higher penalties, broader definitions, and national standards: Did harmonized Australian workplace health and safety laws reduce workers' compensation receipt?",
+ "type": "article"
+}

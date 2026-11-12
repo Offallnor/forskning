@@ -1,0 +1,16 @@
+{
+ "ar": 2022,
+ "doi": "https://doi.org/10.1257/pandp.20221075",
+ "forfattere": [
+  "Gabriel Chodorow-Reich",
+  "Peter Ganong",
+  "Jonathan Gruber A B"
+ ],
+ "id": "W4281659286",
+ "kilde": "AEA Papers and Proceedings",
+ "lenke": "https://openalex.org/W4281659286",
+ "oversikt": false,
+ "sammendrag": "We model automatic trigger policies for unemployment insurance by simulating a weekly panel of individual labor market histories, grouped by state. We reach three conclusions: (i) policies designed to trigger immediately at the onset of a recession result in benefit extensions that occur in less sick labor markets than the historical average for benefit extensions, (ii) the ad hoc extensions in the 2001 and 2007-2009 recessions compare favorably ex post to common proposals for automatic triggers, and (iii) compared to ex post policy, the cost of common proposals for automatic triggers is close to zero.",
+ "tittel": "Should We Have Automatic Triggers for Unemployment Benefit Duration and How Costly Would They Be?",
+ "type": "article"
+}

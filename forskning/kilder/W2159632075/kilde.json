@@ -1,0 +1,22 @@
+{
+ "apen_url": "https://bmjopen.bmj.com/content/bmjopen/2/6/e001752.full.pdf",
+ "ar": 2012,
+ "doi": "https://doi.org/10.1136/bmjopen-2012-001752",
+ "forfattere": [
+  "Johanna Kausto",
+  "Svetlana A. Solovieva",
+  "Lauri Juhani Virta",
+  "Eira R. A. Viikari-Juntura"
+ ],
+ "hentet": "før 2026-11-08",
+ "hentet_fra": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3533026/fullTextXML",
+ "hvordan": "Europe PMC",
+ "id": "W2159632075",
+ "kilde": "BMJ Open",
+ "lenke": "https://openalex.org/W2159632075",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "OBJECTIVES: To support sustainability of the welfare society enhanced work retention is needed among those with impaired work ability. Partial health-related benefits have been introduced for this target. The aim was to estimate the effects of partial sick leave on transition to disability pension applying propensity score methods. DESIGN: Register-based cohort study. SETTING: Sample from the national sickness insurance registers representative of the Finnish working population (full-time workers) with long-term sickness absence due to musculoskeletal disorders, mental disorders, traumas or tumours. PARTICIPANTS: All recipients of partial or full sickness benefit whose sick leave period had ended between 1 May and 31 December 2007 were included. The sample was limited to four most prevalent diagnostic groups-mental and musculoskeletal disorders, traumas and tumours. The total sample consisted of 1047 subjects on partial sick leave (treatment group) and 28 380 subjects on full sick leave (control group). A subsample (1017 and 25 249 subjects, respectively) was formed to improve the comparability of the two groups. OUTCOME MEASURES: A three-category measure and a binary measure for the occurrence of disability pension on the last day of 2008 were computed. RESULTS: Partial sickness benefit reduced the risk (change in absolute risk) of full disability pension by 6% and increased the risk of partial disability pension by 8% compared with full sick leave. The effects did not differ markedly for the two main diagnostic groups of musculoskeletal and mental disorders. In men, the use of full disability pension was reduced by 10% with a 5% increase in the use of partial disability pension, while in women the effects were close to those of the total sample. CONCLUSIONS: Our findings suggest that combining work with partial sick leave may provide one means to increase work retention at population level. The use of partial sick leave could be encouraged among men.",
+ "tittel": "Partial sick leave associated with disability pension: propensity score approach in a register-based cohort study",
+ "type": "article"
+}

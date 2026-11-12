@@ -1,0 +1,18 @@
+{
+ "apen_url": "http://hdl.handle.net/10419/43905",
+ "ar": 2002,
+ "forfattere": [
+  "Markus Gangl"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "http://bibliothek.wzb.eu/pdf/2002/i02-208.pdf",
+ "hvordan": "pdf",
+ "id": "W1564914859",
+ "kilde": "RePEc: Research Papers in Economics",
+ "lenke": "https://openalex.org/W1564914859",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "'Job search models offer two complementary predictions about the effects of unemployment benefits on job search outcomes among unemployed workers. By raising workers' reservation wages, unemployment benefits should contribute to both prolonged spell duration and improved post-unemployment job quality. In contrast to many previous empirical studies that have addressed the negative benefit effect on duration only, the current paper jointly addresses the causal effect of unemployment benefits on both unemployment duration and post-unemployment wages. Based on panel data from the Survey of Income and Program Participation and the German Socio-Economic Panel for the 1980s and 1990s, the paper establishes empirical support for both benefit effects in both countries. If anything, there is evidence of a slightly more negative duration effect for the U.S. data, while positive UI effects on post-unemployment wages are stronger in the German data. In any event, the empirical estimates for the positive effects of unemployment benefits on wages substantially exceed those obtained in Addison and Blackburn's recent paper based on Displaced Worker Survey data. In contrast to their findings, the data also provide ample evidence of stronger UI effects in the lower tails of the wage change distribution. At the cost of a fairly small prolongation of unemployment duration, unemployment benefits thus substantially reduce the scar effects of unemployment on workers' future job records.' (author's abstract)",
+ "tittel": "Unemployment benefits as a search subsidy: new evidence on duration and wage effects of unemployment insurance",
+ "type": "preprint"
+}

@@ -1,0 +1,149 @@
+# Første utvalg 8.11.2026 etter kriterier.md. A = nivå og utvikling, B = drivere. Kategori etter hierarkiet i kriteriene.
+# --- Norge: Navs analyser og offentlige rapporter ---
+AV-2018-2-04 # A1/B5: Bragstad 2018, vekst i uføretrygding blant unge, Navs registertall (foreslått i mandatet)
+AV-2023-1-01 # A1/B4: Lande 2023, hvorfor så sterk uførevekst blant unge 2014–2019 (foreslått i mandatet)
+AV-2023-2-07 # A1/B5: Unge i Nav, fra AAP til uføretrygd (foreslått i mandatet; fanget ikke av norsk søk, lagt til fra katalogen)
+AV-2015-1-03 # A1/B5: Brage og Thune 2015, ung uførhet og psykisk sykdom, diagnoser over tid (foreslått i mandatet)
+AV-2022-3-05 # A1/B5: fylkesforskjeller i unge uføre (foreslått i mandatet)
+AV-2021-1-06 # A1/B4: Kann og Grønlien 2021, midlertidige helserelaterte ytelser til unge, har vi misforstått utviklingen? (foreslått i mandatet)
+AV-2020-2-04 # B3: flere uføre og sosialhjelp etter innstramming i AAP 2018 (regelverk)
+AV-2022-2-02 # B3: Myhre og Kann 2022, kortere makstid på AAP ga raskere uføretrygd (regelverk)
+KU-f0f528eb-0eaf-4e6b-bcb1-5b5b44367324 # A1/B5: Fafo-rapport 2021:35 om unge på velferdsordninger (samme materiale som 0198cc7e11d4; rettet etter tittelsiden 9.11)
+W7134072462 # B3: Kann og Myhre 2026, langtidseffekter av kortere makstid på AAP (oppfølging av AV-2022-2-02)
+AV-2019-3-03 # B4: avgang fra AAP etter regelendringene 2018, de fleste til uføretrygd eller jobb
+AV-2014-1-04 # A1: Bragstad og Sørbø 2014, hvem er de unge med nedsatt arbeidsevne
+AV-2011-2-02 # A1: unge på arbeids- og helserelaterte ordninger (2011, utgangspunkt rundt 2010)
+AV-2024-3-06 # B5: AAP-reglene reversert 2022 (regelverk)
+KU-c48cd033-8718-4bb3-a149-7bc9f67459cf # B4: Oslo Economics og Frisch 2020, psykisk helse og uførhet blant unge, diagnostisering og innstrømning (registerdata)
+KU-0b622b9b-b781-4abb-b822-b58ff06c218d # B5: årsaker til økt tilstrømning til uføretrygd blant unge, delrapport 2019
+KU-760de028-a79e-4384-8d4c-b95617f70198 # A1/B5: Grødem m.fl. 2015 (Fafo), unge mottakere av helserelaterte ytelser, kunnskapsoppsummering
+KU-ac69a955-803b-4a00-a9e4-5476bbca9cfe # B5: En vanskelig start (2013), skolefrafall og unge uføre
+KU-28d03fde-cde6-4f96-b2b1-0a21577fe2d0 # A2/B5: OECD 2013, Mental Health and Work: Norway (norsk utgave i Kudos)
+0198cc7e11d4-2d0b6b49-2c02-4356-9b33-1de47cdaf0f4 # B5: Strand og Svalund 2021 (Fafo), AAP og KVP blant unge utenfor arbeid og utdanning
+0198cc6807e2-495c59a4-4634-4804-a81a-fc8a87b29783 # B5: Hermansen og Dahl 2022, unge på AAP: tung bagasje, sen avklaring
+# --- Norge: forskning ---
+W3112814759 # B3: Markussen og Røed 2020, medikalisering av ungdom, geografisk variasjon i diagnostisering som instrument
+W2104893223 # B3: Dahl, Kostøl og Mogstad 2014, familievelferdskulturer, tilfeldig tildelte dommere (foreldres uføretrygd)
+W2053116589 # B4: Bratberg, Nilsen og Vaage 2014, korrelasjon i uførepensjon mellom generasjoner, Norge
+W2974737612 # B3: Andersen, Markussen og Røed 2019, lokal arbeidskraftetterspørsel og helserelaterte ytelser (skiftandel-instrument)
+W3088312345 # B1/B5: Fevang 2020, helserelaterte ytelser og skjult arbeidsledighet (gjennomgang)
+W2212575307 # B3: Haaland 2016, lokale ledighetsforhold ved 16 og 19 år og senere uførepensjon, Norge
+W604728786 # B3: Galloway og Brinch 2013, skolereformen på 1960-tallet og uførepensjon (utdanning)
+W2972949925 # B3: Schreiner 2019, mildere vurdering til midlertidig uføreytelse for unge, kommunevariasjon som instrument
+W4220875817 # A3/B5: Wittlund m.fl. 2022, uførepensjon i tidlig voksen alder, forløp over to tiår
+W4385349285 # B4: Wittlund og Lorentzen 2023, rehabiliteringsforløp etter AAP-reformen 2010
+W2127924530 # B4: De Ridder m.fl. 2013, frafall i videregående og sykdom/uførhet blant unge voksne (HUNT, propensity score)
+W2806250080 # B5: Myhr m.fl. 2018, ikke fullført videregående og tidlig uførhet, geografiske mønstre
+W4416980659 # B5: Gorosito m.fl. 2025, uførepensjon i tidlig voksen alder, Ung-HUNT, før og etter NAV-reformen
+W2029267869 # A1: Knudsen m.fl. 2012, tapte arbeidsår ved psykiske lidelser, uføreregisteret
+W1556043429 # B4: Schreiner og Markussen 2012, NAV-reformen og trygd
+W7221976692 # B5: Saltkjel m.fl. 2026, opphopning av ulemper blant unge, sosial klasse og ytelser
+019c9524cfcc-39907780-0d56-4239-9b5d-80237da5e2eb # B5: Delalic 2020 (master), sosial klasse og uføretrygd/AAP som ung
+019909c23973-ea65712e-ebc7-454b-b8df-def7f6bf6e87 # B5: Bergaust og Nygård 2024 (master), hvem er de unge uføretrygdede
+0198cc84de22-4f46dac1-9ec2-4d88-ba92-17fa922fa65d # B4: Sørlie 2022 (master), uførerisiko for unge voksne 1996 mot 2019
+0198f22710a7-9891d74a-fefc-44a0-927c-96a4a3d8525a # samme materiale som 0198cc84de22-4f46dac1-9ec2-4d88-ba92-17fa922fa65d
+01999f35b1ef-206f9791-8599-4806-b338-7a2f7d3eb219 # B5: Norman 2022 (master), hvorfor flere unge voksne på uføretrygd 2009–2018
+# --- Sverige ---
+W1967551067 # A2: Kaltenbrunner Bernitz m.fl. 2013 (ISF), unge voksne på uføreytelser i sju land
+W4391650787 # B3: Häll, Hardoy og von Simson 2024, politikk for unge med nedsatt arbeidsevne i Sverige og Norge
+W587062286 # B1: Aktivitetsersättning – en väg till arbete? systematisk litteraturoversikt 2013 (valgt på tittel)
+W2929109866 # B4: Jablonska m.fl. 2019, sterkere sammenheng mellom svake skoleresultater og uføreytelse for psykiske lidelser over tid, Stockholm
+W4323066482 # A3/B4: Amin m.fl. 2023, periodeeffekter i arbeidsuførhet for vanlige psykiske lidelser blant unge ansatte
+W3007697702 # B4: Virtanen m.fl. 2020, ADHD, autisme og lærevansker blant unge voksne og uførepensjon, Sverige
+W3186518967 # B4: Helgesson m.fl. 2021, ADHD og marginalisering blant unge voksne, Sverige
+W3015075737 # B4: autisme, ledighet og tidlig uførepensjon, Sverige 2020
+W2682847430 # B4: Helgesson m.fl. 2017, marginalisering etter psykiske lidelser blant unge, Sverige
+W2146753458 # B5: uførepensjon blant unge kvinner i Sverige, familiestruktur 2012
+LI-2fvbzlwd07lpr35w # A1/B5: ISF 2020:9, variasjonen i aktivitetsersättningen og økningen i avslag (valgt på tittel)
+LI-21074768 # A1: ISF 2017, aktivitetsersättning til 30 år – hva skjer etterpå (valgt på tittel)
+LI-12735054 # A1: ISF 2012, aktivitetsersättning fra forlenget skolegang til nedsatt arbeidsevne (valgt på tittel)
+LI-18267927 # B5: Riksrevisionen 2015, aktivitetsersättning – en ersättning utan aktivitet? (valgt på tittel)
+LI-jsvt6zbggtpn48tm # A1: Försäkringskassan 2018:7, aktivitetsersättning ved forlenget skolegang, utvikling over tid (valgt på tittel)
+LI-jw5gmz79g1l7d1qz # A1: Försäkringskassan 2021, nybevilgning av sjuk- og aktivitetsersättning (valgt på tittel)
+LI-dscdbdnmbgc4xw3q # B5: ISF 2021, avslag på aktivitetsersättning og hvordan det går med de unge (valgt på tittel)
+LI-0lk5z3mnxn299qk5 # A1: ISF 2025:6, hvem tar del av sjuk- og aktivitetsersättningen (valgt på tittel)
+LI-1fxxn37gzfw6vt90 # A2: Nordens välfärdscenter 2015, unge voksne med nedsatt arbeidsevne, nordiske trygdesystemer (valgt på tittel)
+# --- Danmark og Finland ---
+W4254686849 # A1/B5: Prinz 2018, uførepensjon i Danmark, utvikling og politikk (reformen 2013)
+url: https://bm.dk/media/5955/analyse-af-effekterne-af-foertidspensionreformen-for-kontanthjaelpsmodtagere-under-40-aar.pdf | Effekterne af førtidspensions- og fleksjobreformen for unge i kontanthjælpssystemet og på ressourceforløb | Ulla N. Philip, Ferhan Duvarci, Anita M. Glenny | 2016 # B3: dansk reform 2013, unge under 40 (funnet med nettsøk; tittel, forfattere og år fra tittelsiden)
+url: https://ast.dk/publikationer/tendenser-for-fortidspension-2013-1/@@download/publication | Tendenser for førtidspension 2013 | Ankestyrelsen | 2013 # A1: Ankestyrelsen, tilkendelser etter alder (funnet med nettsøk)
+W2898795531 # B4: Merikukka m.fl. 2018, barndomsfaktorer og tidlig psykiatrisk uførepensjon, finsk fødselskohort 1987
+W2360160115 # B5: Mattila-Holappa m.fl. 2016, tilknytning til arbeid og utdanning før uførepensjon for psykiske lidelser, unge i Finland
+W2955853013 # B4: Salonen m.fl. 2019, foreldres ressurser og uførepensjon som ung voksen, Finland (valgt på tittel)
+# --- Andre land, bare mekanismer ---
+W2786011848 # B3: Dahl og Gielen 2021, overføring av uføretrygd mellom generasjoner, Nederland (reform)
+W4392986621 # B4: Taipale m.fl. 2024, ADHD-medisin og arbeidsuførhet, innen-individ-design, Sverige
+# --- Lagt til etter referanserunde 1 (8.11.2026) ---
+W4226251129 # A1/B5: Unge uføre og veien til uføretrygd, Søkelys på arbeidslivet 2022 (fanget via referanser, var kandidat)
+W4214919594 # B5: Reformer av uføretrygdene, Stat & Styring 2022 (valgt på tittel)
+W7204459539 # B4: Uføretrygd i arv: korrelasjon, smitte og politikk, 2026 (bokkapittel, valgt på tittel)
+W7160160129 # B5: Variasjon i arbeidsdeltakelse blant yngre med mentale lidelser, 2026 (bokkapittel, valgt på tittel)
+W2102173634 # B5: medisinske ytelser blant unge nordmenn og foreldrene, familiehelse og sosioøkonomi 2013 (valgt på tittel)
+W4390105359 # B4: foreldres sosiale ulemper og ytelser blant unge voksne før og etter (reform), 2023 (valgt på tittel)
+W1562236787 # B3: Disability in the Welfare State: An Unemployment Problem in Disguise? 2010 (arbeidsmarked, valgt på tittel)
+W2791106760 # B4: ledighet og arbeidsuførhet for psykiske lidelser blant unge voksne, seleksjon eller kausalitet, 2018 (valgt på tittel)
+W2124446614 # B4: lav IQ er blitt mindre viktig som risikofaktor for tidlig uførepensjon, 2015 (endring over tid, valgt på tittel)
+W2296998102 # A3: arbeidsuførhet blant unge ansatte, endring over tid, Finland 2016 (valgt på tittel)
+W4280593459 # B5: ulike tiårstrender i psykisk helse etter alder, dårligere for unge, BMJ Open 2022 (valgt på tittel)
+W4301400721 # A2: OECD 2022, Disability, Work and Inclusion (to valgte kilder peker hit)
+url: https://www.forsakringskassan.se/download/18.5027cb6019705cd0bf2189/1750247606910/uppdrag-om-unga-med-aktivitetsersattning-och-personer-med-sjukpenning-i-sarskilda-fall-svar-regeringsuppdrag-dnr-2025-000538.pdf | Uppdrag om unga med aktivitetsersättning och personer med sjukpenning i särskilda fall | Försäkringskassan | 2025 # A1: Försäkringskassan 2025, unge med aktivitetsersättning (funnet med nettsøk)
+url: https://www.ForsakringsKassan.SE/download/18.3a5418591814e228e4413ae/1661265663910/unga-i-aktivitetsersattning-korta-analyser-2017-3.pdf | Unga i aktivitetsersättning (Korta analyser 2017:3) | Försäkringskassan | 2017 # A1: Försäkringskassan, utviklingen i aktivitetsersättning (funnet med nettsøk)
+url: https://publikt.se/sites/publikt/files/2020-12/Rapport%202020-9%20Variationen%20inom%20aktivitetsers%C3%A4ttningen.pdf | Variationen inom aktivitetsersättningen (ISF Rapport 2020:9) | Inspektionen för socialförsäkringen | 2020 # A1/B5: tekst til LI-2fvbzlwd07lpr35w (samme rapport, kopi hos publikt.se fordi LIBRIS ikke har tekst)
+url: https://forsakringskassan.se/download/18.2226b322192cb581db411b/1730888074115/analys-av-aktiviteter-under-tid-med-aktivitetsersattning-svar-regeringsuppdrag-dnr-2023-019274.pdf | Analys av aktiviteter under tid med aktivitetsersättning | Försäkringskassan | 2024 # A1/B5: Försäkringskassan 2024 (funnet med nettsøk)
+url: https://nordicwelfare.org/wp-content/uploads/2017/10/Unga-med-nedsatt-arbetsformaga.pdf | Unga med nedsatt arbetsförmåga | Nordens välfärdscenter | 2017 # A2: nordisk sammenligning (funnet med nettsøk)
+
+# Lagt til fra det blinde utvalget 9.11.2026 (kategori og begrunnelse fra det blinde utvalget, forkortet)
+AV-2015-3-07 # A1: Navs sammenligning av AAP med forløperne viser flere 18–19-åringer og svakere arbeidstilknytning blant de yngste nye mot (blindt utvalg)
+0198cc84729b-a09bd70a-765d-4bbb-a164-84a96be028c2 # A1: NORCE-rapport med registertall for NEET-unge 2015–2021 etter sentralitet, inkludert andelen unge på uføretrygd. (blindt utvalg)
+W2996526052 # A1: OECD Investing in Youth: Norway, med registeranalyse av utsatte unge, NEET og helserelaterte ytelser. (blindt utvalg)
+W4255043211 # A1: OECD Mental Health and Work om unge dansker med psykiske lidelser og tidlig utgang via førtidspension. (blindt utvalg)
+W4250193163 # A1: OECD Mental Health and Work om unge i Sverige, psykisk uhelse og overgangen til arbeid og aktivitetsersättning. (blindt utvalg)
+LI-2p1tj1bb021gf9tl # A1: Rapport om unga vuxna med aktivitetsersättning 2022 (vurdert på tittel). (blindt utvalg)
+LI-bqr13wbr8sq6510q # A1: SOU 2021:69 om sjukförsäkringen, med statistikk og vurdering av aktivitetsersättningen (vurdert på tittel). (blindt utvalg)
+W1711011686 # A1: Bokkapittel om unge og sosial eksklusjon i Sverige, med egen del om aktivitetsersättning. (blindt utvalg)
+W4400713382 # A/B2: OECD-analyse om at reformene i Norge ikke har økt avgangen fra uføreytelser blant unge (vurdert på tittel). (blindt utvalg)
+W4400638309 # A2: OECD Society at a Glance med harmoniserte tall for unge 16–29 år på uføreytelser på tvers av land. (blindt utvalg)
+W2907116799 # A/B2: Nordisk sammenligning av andelen unge uføre og reformer i sosialpolitikken for unge med funksjonsnedsettelse. (blindt utvalg)
+W7225199481 # B3: Trippel-differanse-analyse av den danske førtidspensionsreformen 2013, som stengte førtidspension for de fleste under 40 (blindt utvalg)
+W2280936789 # B3: Dansk skolereform brukt til å teste årsakseffekten av utdanning på førtidspension. (blindt utvalg)
+W3123524712 # B4: Norske registerdata med grenseestimater for årsakseffekten av foreldres trygdemottak på barnas. (blindt utvalg)
+W2160015399 # B4: HUNT med søskensammenligning om angst og depresjon i ungdommen og senere helserelaterte ytelser. (blindt utvalg)
+W2142502944 # B4: Norske unge voksne tvillinger om genetiske og miljømessige bidrag til langtidssykefravær og uføretrygd. (blindt utvalg)
+W2628418572 # B4: Svensk tvillingstudie (TCHAD) om atferdsproblemer i barndom og ungdom og arbeidsuførhet som ung voksen. (blindt utvalg)
+W2555590515 # B4: Svensk tvillingstudie med uenige tvillingpar om depresjon i sen ungdom og senere arbeidsuførhet. (blindt utvalg)
+0198f20c8215-28864d36-ea09-448e-bff0-7b399d5fdb09 # B5: Masteroppgave om endring i unge voksnes risiko for helserelaterte ytelser 1994–2013 etter kjønn, utdanning og sosial bak (blindt utvalg)
+LI-hrb386vdffl0s7kh # B5: Försäkringskassans oppfølging av reformene for mer tydelighet og aktivitet i sjuk- og aktivitetsersättningen. (blindt utvalg)
+W2126669756 # B5: Young-HUNT om selvopplevd helse, frafall og helserelaterte ytelser som ung voksen. (blindt utvalg)
+W2524187003 # B5: Young-HUNT om dårlig helse i ungdommen og senere langtidssykefravær og uføretrygd. (blindt utvalg)
+W3138453033 # B5: Alle nordmenn født 1990–1996 om somatisk sykdom i ungdommen, fullført videregående, NEET og uføretrygd. (blindt utvalg)
+W2799704878 # B5: Alle norske menn født 1971–1976 om betydningen av fullført videregående for arbeid, sykefravær og uføretrygd. (blindt utvalg)
+W4366083399 # B5: Norsk registerstudie om depresjon i midten av 20-årene og senere marginalisering og uføretrygd, etter utdanning. (blindt utvalg)
+W831010901 # B5: Norsk studie av uføretrygd blant unge voksne i yrkesrettet attføring (vurdert på tittel). (blindt utvalg)
+W3138005625 # B5: Svensk register over elever fra grunnskolen 1998–2008 om ADHD, utdanning, utviklingsforstyrrelser og senere arbeids- og  (blindt utvalg)
+W3173764865 # B5: Svensk registerstudie om risikofaktorer for uførepensjon blant unge voksne med ADHD. (blindt utvalg)
+W2142283858 # B5: Svensk registerstudie om ledighet i ung alder og senere uførepensjon. (blindt utvalg)
+W1879173524 # B5: Svensk nasjonal kohort 1973–1978 om barnevernsbakgrunn og uførepensjon, med dekomponering der skoleresultater forklarer  (blindt utvalg)
+W3119591123 # B5: Socialstyrelsens registerstudie av unge med nydiagnostisert depresjon og angst og konsekvenser ti år etter. (blindt utvalg)
+# Lagt til fra referanserunde 2 (metningsvurderingen)
+W7204457267 # A1: Nav 2026, flere unge utenfor arbeid og utdanning mottar helseytelser (referanserunde 2)
+W3121447508 # B4: svensk søskenanalyse av overføring av trygdemottak mellom generasjoner (referanserunde 2)
+W2896840500 # A4/B5: unge voksne med risiko for tidlig arbeidsuførhet (referanserunde 2)
+# Lagt til fra blindt utvalg 2 på kandidatene fra referanserunde 3 (9.11.2026)
+W2340876987 # B5: Norsk ungdomsundersøkelse koblet til register: psykiske plager i 10. klasse og helserelaterte ytelser i ung voksen alder (blindt utvalg 2)
+W2167038532 # B5: Norsk ungdomsundersøkelse koblet til FD-Trygd: helseatferd og psykiske plager ved 15–16 år og helserelaterte ytelser ved (blindt utvalg 2)
+W2127796004 # B5: Samme norske ungdomsundersøkelser koblet til register: helseplager i ungdom og langvarige trygdeytelser i ung voksen ald (blindt utvalg 2)
+W2008105777 # B5: Foreldres psykiske helse (familiebakgrunn) og langvarige ytelser i ung voksen alder, norsk kohort koblet til register; o (blindt utvalg 2)
+W2040909934 # B5: Young-HUNT: lese- og skrivevansker i ungdom og helserelaterte ytelser ved 24–28 år; driver via utdanning; regional kohor (blindt utvalg 2)
+W3028297337 # B5: Norsk registerkohort (født 1967–71): psykiske diagnoser, utdanning og helse før 22 år og risiko for aldri å jobbe; utfal (blindt utvalg 2)
+W4361289784 # B5: Norske helseregistre 2008–2018: økende andel unge 15–28 år med psykisk diagnose; beskriver diagnostisering over tid som  (blindt utvalg 2)
+# Rapporter lagt inn med adresse, ført opp med id så de kommer med i uttrekket (9.11.2026)
+R-91a7b6c512 # B3: Beskæftigelsesministeriet 2016, effekter av førtidspensionsreformen for unge (url-linjen over)
+R-f593e550d1 # A1: Ankestyrelsen, Tendenser for førtidspension 2013 (url-linjen over, ingen tekst)
+R-f51590820c # A1: Försäkringskassan 2025, unga med aktivitetsersättning (url-linjen over)
+R-e0bf5ced86 # A1: Försäkringskassan, Unga i aktivitetsersättning (Korta analyser 2017:3)
+R-c354ed68d0 # A1/B5: ISF Rapport 2020:9, Variationen inom aktivitetsersättningen (tekst til LI-2fvbzlwd07lpr35w, samme rapport)
+R-741042958e # A1/B5: Försäkringskassan 2024, aktiviteter under tid med aktivitetsersättning
+R-3a15c2f442 # A2: Nordens välfärdscenter 2017, Unga med nedsatt arbetsförmåga (ingen tekst)
+NB-4593 # B3: Hernæs mfl. 2023 (Frisch), redusert minstesats på AAP under 25 år og avviklet ung ufør-tillegg (regelverk; Navs bibliotek, raskt tillegg 9.11)
+NB-5078 # B3: Kann og Kristoffersen 2014, AAP som venterom for uføretrygd (Arbeid og velferd via Navs bibliotek, raskt tillegg 9.11)
+NB-5042 # A2: Kalstø og Kann 2018, færre på helserelaterte ytelser 2001–2017 (Arbeid og velferd via Navs bibliotek, raskt tillegg 9.11)

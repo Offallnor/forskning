@@ -1,0 +1,20 @@
+{
+ "apen_url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0212208&type=printable",
+ "ar": 2019,
+ "doi": "https://doi.org/10.1371/journal.pone.0212208",
+ "forfattere": [
+  "Donald E. Frederick",
+  "Tyler J. VanderWeele"
+ ],
+ "hentet": "2026-11-09",
+ "hentet_fra": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0212208&type=printable",
+ "hvordan": "pdf",
+ "id": "W2915389400",
+ "kilde": "PLoS ONE",
+ "lenke": "https://openalex.org/W2915389400",
+ "merknad": "",
+ "oversikt": true,
+ "sammendrag": "Supported employment is a treatment whereby those with severe mental illness (or other disabilities) receive aid searching for competitive employment and mental health (or other) treatments concurrently. The most popular implementation of supported employment is individual placement and support (IPS). We conducted meta-analytic analyses of the randomized controlled trials of IPS. We found that subjects in IPS, compared to usual treatment conditions, had better vocational outcomes (obtained any competitive employment: RR = 1.63, 95%CI = [1.46, 1.82]; job tenure: d = 0.55, 95%CI = [0.33, 0.79]; job length: d = 0.46, 95%CI = [0.35, 0.57]; income: d = 0.48, 95%CI = [0.36, 0.59]) Non-vocational outcomes estimates, while favoring IPS, included the null (quality of life: d = 0.30, 95%CI = [-0.07, 0.67]; global functioning: d = 0.09, 95%CI = [-0.09, 0.27]; mental health: d = 0.03, 95%CI = [-0.15, 0.21]). Analysis of the expected proportion of studies with a true effect on non-vocational outcomes with d>0.2 showed some reason to expect a possible improvement for quality of life for at least some settings (Prop = 0.57, 95%CI = [0.30, 0.84]).",
+ "tittel": "Supported employment: Meta-analysis and review of randomized controlled trials of individual placement and support",
+ "type": "review"
+}

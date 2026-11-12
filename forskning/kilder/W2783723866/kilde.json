@@ -1,0 +1,19 @@
+{
+ "apen_url": "https://sjes.springeropen.com/counter/pdf/10.1007/BF03399412",
+ "ar": 2015,
+ "doi": "https://doi.org/10.1007/bf03399412",
+ "forfattere": [
+  "Beatrix Eugster"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "https://sjes.springeropen.com/counter/pdf/10.1007/BF03399412",
+ "hvordan": "pdf",
+ "id": "W2783723866",
+ "kilde": "Zeitschrift für schweizerische Statistik und Volkswirtschaft/Schweizerische Zeitschrift für Volkswirtschaft und Statistik/Swiss journal of economics and statistics",
+ "lenke": "https://openalex.org/W2783723866",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "Summary This paper discusses the effects of a higher unemployment benefit replacement rate on unemployment durations, employment, and earnings. A reform of the Swiss unemployment insurance in July 2003 increased the replacement rate by up to 5.88 ppt for individuals who earned between 3,536 and 4,340 CHF and have no children, while it did not change the replacement rate for all other unemployed persons. This allows to study the effects of a higher replacement rate adopting a difference-in-differences (DiD) approach. The change in the replacement rate increased unemployment durations by 3.1 % — or roughly one week — for the treatment group. Women tend to react stronger than men. There is no effect of the level of the replacement rate on employment probabilities or earnings after the unemployment spell is finished.",
+ "tittel": "Effects of a Higher Replacement Rate on Unemployment Durations, Employment, and Earnings",
+ "type": "article"
+}

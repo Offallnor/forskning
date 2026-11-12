@@ -1,0 +1,15 @@
+{
+ "ar": 2015,
+ "doi": "https://doi.org/10.1257/aer.p20151064",
+ "forfattere": [
+  "Arash Nekoei",
+  "Andrea Michaela Weber"
+ ],
+ "id": "W2116510997",
+ "kilde": "American Economic Review",
+ "lenke": "https://openalex.org/W2116510997",
+ "oversikt": false,
+ "sammendrag": "Using novel administrative data from Austria, we investigate the nature of temporary layoffs and recalls. We find that on average jobs ending in temporary layoffs lasted shorter but paid higher wages. The majority of temporarily laid-off workers return to their previous employer, but also one-fifth of those permanently laid-off are recalled. Compared to job switchers, recalls have shorter unemployment spells and do not experience wage losses. Negative duration dependence of unemployment only appears once recall exits are excluded for temporary and permanent layoffs. However, for temporary layoffs, the aggregate pattern masks significant heterogeneity by pre-unemployment tenure. Additional survey evidence suggests a lower average search level for temporary layoffs.",
+ "tittel": "Recall Expectations and Duration Dependence",
+ "type": "article"
+}

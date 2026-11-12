@@ -1,0 +1,20 @@
+{
+ "apen_url": "https://doi.org/10.21033/cfl-2020-441",
+ "ar": 2020,
+ "doi": "https://doi.org/10.21033/cfl-2020-441",
+ "forfattere": [
+  "R. Jason Faberman",
+  "Ali Haider Ismail"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "https://www.chicagofed.org/~/media/publications/chicago-fed-letter/2020/cfl441-pdf.pdf",
+ "hvordan": "pdf",
+ "id": "W3034780323",
+ "kilde": "Chicago Fed Letter",
+ "lenke": "https://openalex.org/W3034780323",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "We examine the relationship between unemployment insurance and job search using data from 2013 through 2019.Our research shows that the unemployed exert a high level of effort to find work.This is especially true for those receiving unemployment insurance benefits.Those who have exhausted their unemployment benefits search less intensely for work, but are also willing to accept work that pays considerably less than their prior job.",
+ "tittel": "How do unemployment benefits relate to job search behavior?",
+ "type": "article"
+}

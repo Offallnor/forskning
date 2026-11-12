@@ -1,0 +1,19 @@
+{
+ "apen_url": "http://hdl.handle.net/10419/63170",
+ "ar": 2002,
+ "forfattere": [
+  "Knut Røed",
+  "Tao Zhang"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "https://nva.sikt.no/registration/0198cc6c66a3-022687ba-fc84-4fb4-be6a-6827b0652ecd",
+ "hvordan": "vitenarkivet",
+ "id": "W1884998289",
+ "kilde": "RePEc: Research Papers in Economics",
+ "lenke": "https://openalex.org/W1884998289",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "We investigate how transitions from unemployment are affected by economic incentives and spell duration. Based on unique Norwegian register data that exhibit the rarity of random-assignment-like variation in economic incentives, the causal parameters are identified without reliance on distributional assumptions or functional form restrictions. We find that the hazard rates are negatively affected by the replacement ratio, but that the size of these effects varies considerably among individuals. There is strong negative duration dependence in the employment hazard and positive duration dependence in the ‘discouragement’ hazard. The employment hazard rises substantially in the months just prior to benefit exhaustion.",
+ "tittel": "The Duration and Outcome of Unemployment Spells- The role of Economic Incentives",
+ "type": "preprint"
+}

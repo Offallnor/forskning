@@ -1,0 +1,17 @@
+{
+ "apen_url": "https://www.elibrary.imf.org/doc/IMF001/22688-9781513531250/22688-9781513531250/Other_formats/Source_PDF/22688-9781513548340.pdf",
+ "ar": 2015,
+ "doi": "https://doi.org/10.5089/9781513531250.001",
+ "forfattere": [
+  "Niklas Engbom",
+  "Enrica Detragiache",
+  "Faezeh Raei"
+ ],
+ "id": "W2954218538",
+ "kilde": "IMF Working Paper",
+ "lenke": "https://openalex.org/W2954218538",
+ "oversikt": false,
+ "sammendrag": "In 2003–05, Germany undertook extensive labor market reforms which were followed by a large and persistent decline in unemployment. Key elements of the reforms were a drastic cut in benefits for the long-term unemployed and tighter job search and acceptance obligations. Using a large confidential data set from the German social security administration, we find that the reforms were associated with a fall in the earnings of workers returning to work from short-term unemployment relative to workers in long-term employment of about 10 percent. We interpret this as evidence that the reforms strengthened incentives to return to work but, in doing so, they adversely affected post re-entry earnings.",
+ "tittel": "The German Labor Market Reforms and Post-Unemployment Earnings",
+ "type": "article"
+}

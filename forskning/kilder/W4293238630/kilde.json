@@ -1,0 +1,20 @@
+{
+ "apen_url": "https://doi.org/10.2139/ssrn.4024776",
+ "ar": 2022,
+ "doi": "https://doi.org/10.1086/720629",
+ "forfattere": [
+  "Olivier Marie",
+  "Judit Vall Castelló"
+ ],
+ "hentet": "før 2026-11-08",
+ "hentet_fra": "https://www.ifo.de/DocDL/cesifo1_wp9550.pdf",
+ "hvordan": "pdf",
+ "id": "W4293238630",
+ "kilde": "Journal of Labor Economics",
+ "lenke": "https://openalex.org/W4293238630",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "We investigate the impact on work absence of a massive reduction in paid sick leave benefits. We exploit a policy change that only affected public sector workers in Spain and compare changes in the number and length of spells they take relative to unaffected private sector workers. Our results highlight a large drop in frequency mostly offset by increases in duration. Overall, the policy did reduce the number of days lost to sick leave. For some however, return to work was premature as we document very large increases in both the proportion of relapses and, especially in the number of working accidents. The displacement towards this latter (unaffected) benefit cancels out almost two-fifths of the estimated gains in terms of days lost to absences from cutting sick leave generosity.",
+ "tittel": "Sick Leave Cuts and (Unhealthy) Returns to Work",
+ "type": "article"
+}

@@ -1,0 +1,14 @@
+{
+ "ar": 2003,
+ "forfattere": [
+  "García Pérez",
+  "José Ignácio"
+ ],
+ "id": "W2113440890",
+ "kilde": "RePEc: Research Papers in Economics",
+ "lenke": "https://openalex.org/W2113440890",
+ "oversikt": false,
+ "sammendrag": "This paper considers a job search model where the environment is not constant throughout the unemployment spell and where jobs do not last forever. In this situation, reservation wages can be lower than they would be in a model without consideration of such separations, but also they can initially be higher precisely because of this non-stationarity of the model. Moreover, the time-dependence of reservation wages is stronger than it is when separations are not controlled for. The model is estimated structurally by using Spanish data for the period 1985-1996. The main finding is that, although at the beginning the decrease in reservation wages is the main determinant of the exit from unemployment, as time progresses the job offer arrival rate comes to be the only significant factor, given that acceptance probabilities become equal to one. The estimated parameters are used to evaluate the effect of different Unemployment Insurance designs on unemployment duration. Accordingly, one can draw the conclusion that a sufficiently decreasing pattern in unemployment benefits makes this duration to be 8.4% lower.",
+ "tittel": "Non-stationary Job Search When Jobs Do Not Last Forever: A Structural Estimation to Evaluate Alternative Unemployment Insurance Systems",
+ "type": "preprint"
+}

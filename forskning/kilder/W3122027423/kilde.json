@@ -1,0 +1,15 @@
+{
+ "ar": 2006,
+ "forfattere": [
+  "José María Arranz Muñoz",
+  "Alfonso Alba",
+  "Fernando Muñoz‐Bullón"
+ ],
+ "id": "W3122027423",
+ "kilde": "RePEc: Research Papers in Economics",
+ "lenke": "https://openalex.org/W3122027423",
+ "oversikt": false,
+ "sammendrag": "This paper studies transitions out of unemployment in Spain distinguishing between recall to the same employer and reemployment in a new job. We use a large sample of newly unemployed workers obtained from Social Security records for Spain. These data contain information about each individual's employer identy before and after the unemployment spell. A discrete-time duration model with competing risks of exits serves us to investigate the factors that influence the probabilities of leaving unemployment to return to the same employer or to find a new job with a different employer. We find that the route to exit unemployment is determinant to understand the influence of individual an job characteristics on the hazard rate, as well as the latter dependence on unemployment duration. The recall hazard rate exhibits positive duration dependence during the first months and negative duration dependence thereafter (it is larger for females), while the new-job hazard presents positive duration dependence (it is larger for males)",
+ "tittel": "Exits from unemployment: recall or new job",
+ "type": "preprint"
+}

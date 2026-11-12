@@ -1,0 +1,3 @@
+utfall	gruppe	design	land	sammenligning	mal	estimat	ki_lav	ki_hoy	n	side	sitat	sporsmal	kontrollert
+varighet av sykefravær (elastisitet mht. kompensasjonsgrad)		kvasi	Finland	knekkpunkt i ytelsesregelen	elastisitet	1.41	0.36	2.46	354800	27	The 95% confidence interval for the IV estimated elasticity with a point estimate of 1.41 is [0.36, 2.46] using the linear specification.	egenandel-sykefravaer	2026-11-09
+varighet av sykefravær (elastisitet, alternativ spesifikasjon)		kvasi	Finland	knekkpunkt i ytelsesregelen	elastisitet	1.16	0.45	1.86		27	The 95% confidence interval for the IV estimated elasticity with a point estimate of 1.16 is [0.45, 1.86] using the linear CCT specification.	egenandel-sykefravaer	2026-11-09

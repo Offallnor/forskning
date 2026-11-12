@@ -1,0 +1,16 @@
+{
+ "apen_url": "https://doi.org/10.3386/w22625",
+ "ar": 2016,
+ "doi": "https://doi.org/10.3386/w22625",
+ "forfattere": [
+  "Marco Di Maggio",
+  "Amir Kermani"
+ ],
+ "id": "W3121819355",
+ "kilde": "National Bureau of Economic Research",
+ "lenke": "https://openalex.org/W3121819355",
+ "oversikt": false,
+ "sammendrag": "We assess the extent to which unemployment insurance (UI) serves as an automatic stabilizer to mitigate the economy's sensitivity to shocks.Using a local labor market design based on heterogeneity in local benefit generosity, we estimate that a one standard deviation increase in generosity attenuates the effect of adverse shocks on employment growth by 7% and on earnings growth by 6%.Consistent with a local demand channel, we find that consumption is less responsive to local labor demand shocks in counties with more generous benefits.Our analysis finds that the local fiscal multiplier of unemployment insurance expenditure is approximately 1.9.",
+ "tittel": "The Importance of Unemployment Insurance as an Automatic Stabilizer",
+ "type": "report"
+}

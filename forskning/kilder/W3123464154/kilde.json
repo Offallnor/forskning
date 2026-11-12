@@ -1,0 +1,20 @@
+{
+ "apen_url": "https://doi.org/10.1007/s10645-012-9187-8",
+ "ar": 2012,
+ "doi": "https://doi.org/10.1007/s10645-012-9187-8",
+ "forfattere": [
+  "Jan Boone",
+  "Jan C. VAN OURS"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "https://link.springer.com/content/pdf/10.1007/s10645-012-9187-8.pdf",
+ "hvordan": "pdf",
+ "id": "W3123464154",
+ "kilde": "De Economist",
+ "lenke": "https://openalex.org/W3123464154",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "Putting a limit on the duration of unemployment benefits tends to introduce a “spike\" in the job finding rate shortly before benefits are exhausted. Current theories explain this spike from workers' behavior. We present a theoretical model in which also the nature of the job matters. End-of-benefit spikes in job finding rates are related to optimizing behavior of unemployed workers who rationally assume that employers will accept delays in the starting date of a new job, especially if these jobs are permanent. We use a dataset on Slovenian unemployment spells to test this prediction and find supporting evidence. We conclude that the spike in the job finding rate suggests that workers exploit unemployment insurance benefits for subsidized leisure.",
+ "tittel": "Why is There a Spike in the Job Finding Rate at Benefit Exhaustion?",
+ "type": "article"
+}

@@ -1,0 +1,25 @@
+{
+ "apen_url": "https://www.mdpi.com/1660-4601/15/5/838/pdf?version=1548061760",
+ "ar": 2018,
+ "doi": "https://doi.org/10.3390/ijerph15050838",
+ "forfattere": [
+  "Amalia Muñoz-Murillo",
+  "Eva Esteban",
+  "Carolina C. Ávila",
+  "Klemens Fheodoroff",
+  "Josep Maria Haro",
+  "Matilde Leonardi",
+  "Beatriz Olaya"
+ ],
+ "hentet": "2026-11-09",
+ "hentet_fra": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC5981877/fullTextXML",
+ "hvordan": "Europe PMC",
+ "id": "W2799729481",
+ "kilde": "International Journal of Environmental Research and Public Health",
+ "lenke": "https://openalex.org/W2799729481",
+ "merknad": "",
+ "oversikt": true,
+ "sammendrag": "(1) Purpose: This systematic review aims to assess the effectiveness of strategies used in the professional (re)integration of persons with mental disorders (MD) in European countries; (2) Methods: We conducted a search for scientific publications available in relevant electronic databases (Medline, PsycINFO, CDR-HTA, CDR-DARE, and Cochrane Library). The present study collected evidence on the effectiveness, from 2011 to 2016, of employment strategies for persons with MDs; (3) Results: A total of 18 studies were included, representing 5216 participants (aged 18⁻65, mean age of 38.5 years old) from 7 countries. Job access programs demonstrated effectiveness in four out of six studies. Return to work (RTW) interventions showed significant positive results in two studies, while four studies did not refer to effectiveness. There were inconsistent results in another four studies; (4) Conclusions: Our findings highlight the complexities of the implementation of employment strategies (job access and return to work). Job access strategies seem to improve employment outcomes. The effectiveness of return to work strategies remains unclear. The involvement and commitment of physicians, employment specialists, and employers, and employees capacity for self-care seem decisive for employment re-integration success. Further analyses are needed to assess the cost-effectiveness of these interventions and corroborate our results, with longer follow-ups.",
+ "tittel": "Furthering the Evidence of the Effectiveness of Employment Strategies for People with Mental Disorders in Europe: A Systematic Review",
+ "type": "review"
+}

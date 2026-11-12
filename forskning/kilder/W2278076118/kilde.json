@@ -1,0 +1,15 @@
+{
+ "apen_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=10729",
+ "ar": 1997,
+ "forfattere": [
+  "Paul L. Burgess",
+  "Stuart A. Low"
+ ],
+ "id": "W2278076118",
+ "kilde": "SSRN Electronic Journal",
+ "lenke": "https://openalex.org/W2278076118",
+ "oversikt": false,
+ "sammendrag": "This paper explores how advance notice of layoffs, recall (rehiring) expectations, and unemployment insurance (UI) benefits affected on-the-job search among a random sample of Arizona UI recipients in 1975-76. The analysis indicates that pre-unemployment search had a strong positive association with the length of notice; a strong negative association with expected recall, notwithstanding controls for worker and job characteristics; and, among workers not expecting recall, a strong negative association with the level of UI benefits after layoff. The authors argue that improved experience rating would encourage firms to give employees advance notice when layoffs are imminent, and re-employment bonuses for workers with zero or short unemployment spells would encourage early search.",
+ "tittel": "The Effects of Unemployment Insurance and Recall Expectations on the Timing of Job Search Among Workers Who Receive Advance Notice of Layoff",
+ "type": "preprint"
+}

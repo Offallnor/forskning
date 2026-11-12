@@ -1,0 +1,17 @@
+{
+ "ar": 2005,
+ "forfattere": [
+  "Sokbae Lee",
+  "Ralf A. Wilke"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "http://ftp.zew.de/pub/zew-docs/div/Lee_Wilke_ZEW.pdf",
+ "hvordan": "pdf",
+ "id": "W2182227748",
+ "lenke": "https://openalex.org/W2182227748",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "Economic theory suggests that an extension of maximum entitlement length for unemployment benefits increases unemployment duration. Empirical results for the reform of the unemployment compensation system in Germany during the 1980s are less clear. The analysis in this paper is motivated by the controversial empirical findings and by recent developments in econometrics for partial identification. We use large administrative register based data with the drawback that registered unemployment is not directly observed. By exploiting the richness of the data we use a nonparametric approach in order to bound the reform eect on unemployment duration over dierent definitions of unemployment without imposing critical parametric model assumptions. We identify a systematic increase in unemployment duration in response to the reform in samples that amount to about 15% of the unemployment spells",
+ "tittel": "Germany: A Nonparametric Bounds Analysis using Register Data ⁄",
+ "type": "article"
+}

@@ -1,0 +1,17 @@
+{
+ "ar": 2021,
+ "doi": "https://doi.org/10.1257/pandp.20211093",
+ "forfattere": [
+  "Benjamin Hyman",
+  "Brian K. Kovak",
+  "Adam A. Leive",
+  "Theodore Naff"
+ ],
+ "id": "W3162008734",
+ "kilde": "AEA Papers and Proceedings",
+ "lenke": "https://openalex.org/W3162008734",
+ "oversikt": false,
+ "sammendrag": "Wage insurance provides income support to displaced workers who find reemployment at a lower wage. We study the effects of the wage insurance provisions of the US Trade Adjustment Assistance (TAA) program using administrative data from the state of Virginia. The program includes an age-based eligibility cutoff, allowing us to compare earnings and employment trajectories for workers whose ages at the time of displacement make them eligible or ineligible for the program. Our findings suggest that wage insurance eligibility increases short-run employment probabilities and that wage insurance and TAA training may yield similar long-run effects on employment and earnings.",
+ "tittel": "Wage Insurance and Labor Market Trajectories",
+ "type": "article"
+}

@@ -1,0 +1,14 @@
+{
+ "ar": 2014,
+ "forfattere": [
+  "Wolfgang Nagl",
+  "Michael Weber"
+ ],
+ "id": "W650114545",
+ "kilde": "Institutional Repository (IHS Vienna)",
+ "lenke": "https://openalex.org/W650114545",
+ "oversikt": false,
+ "sammendrag": "In 2005, the unemployment benefits for long-term unemployed were reduced inGermany. We investigate the effect of this reform on the transition probability fromunemployment to employment using a large German administrative spell data set (SIAB19752010). We estimate that the daily transition probability of medium wage earnersincreased on average by 24% after the reform. The effect is lower for both, low and highwage earners. Men were less affected than women and West Germans were less affectedthan East Germans. For short-term unemployed the effect is increasing over unemploymentduration while long-term unemployed apparently did not benefit from the reform.",
+ "tittel": "Unemployment compensation and unemployment duration before and after the German Hartz IV reform",
+ "type": "other"
+}

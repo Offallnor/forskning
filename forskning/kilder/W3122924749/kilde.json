@@ -1,0 +1,20 @@
+{
+ "apen_url": "https://doi.org/10.2139/ssrn.2398426",
+ "ar": 2019,
+ "doi": "https://doi.org/10.1257/pol.20150024",
+ "forfattere": [
+  "Jonathan M. Lee",
+  "Laura Osborne Taylor"
+ ],
+ "hentet": "2026-11-09",
+ "hentet_fra": "https://ageconsearch.umn.edu/record/264973/files/WP-2017-016-1.pdf",
+ "hvordan": "pdf",
+ "id": "W3122924749",
+ "kilde": "American Economic Journal Economic Policy",
+ "lenke": "https://openalex.org/W3122924749",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "Compensating wages for workplace fatality and accident risks are used to infer the value of a statistical life (VSL), which in turn is used to assess the benefits of human health and safety regulations. The estimation of these wage differentials, however, has been plagued by measurement error and omitted variables. This paper employs the first quasi-experimental design within a labor market setting to overcome such limitations in the extant literature. Specifically, randomly assigned, exogenous federal safety inspections are used to instrument for plant-level risks and combined with confidential U.S. Census data on manufacturing employment to estimate the VSL using a difference-in-differences framework. The VSL is estimated to be between $2 and $4 million ($2011), suggesting prior studies may substantially overstate the value workers place on safety, and therefore, the benefits of health and safety regulations.",
+ "tittel": "Randomized Safety Inspections and Risk Exposure on the Job: Quasi-experimental Estimates of the Value of a Statistical Life",
+ "type": "article"
+}

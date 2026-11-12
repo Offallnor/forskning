@@ -1,0 +1,17 @@
+{
+ "ar": 2015,
+ "forfattere": [
+  "Étienne Lalé"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "http://www.bristol.ac.uk/efm/media/workingpapers/working_papers/pdffiles/dp15651.pdf",
+ "hvordan": "pdf",
+ "id": "W3126034264",
+ "kilde": "RePEc: Research Papers in Economics",
+ "lenke": "https://openalex.org/W3126034264",
+ "merknad": "ÅPEN VERSJON (preprint eller arbeidsnotat), merkes i svaret",
+ "oversikt": false,
+ "sammendrag": "We study the effects of front-loading the payment of unemployment benefits in general equilibrium economies with imperfect labor and insurance markets, focusing on the trade-off between improved re-employment rates and the potential welfare losses accruing from consumption-smoothing problems. The calibration to U.S. data shows that these losses are large, enough to offset most gains from front-loading the benefit system. The nature of labor market frictions – i.e. stemming from workers’ search efforts or firms’ vacancy posting – changes the underlying mechanisms, but not the overall welfare figures. We discuss robustness to changing the generosity, duration and eligibility of unemployment insurance.",
+ "tittel": "Front-loading the Payment of Unemployment Benefits",
+ "type": "preprint"
+}

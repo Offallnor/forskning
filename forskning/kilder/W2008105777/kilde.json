@@ -1,0 +1,23 @@
+{
+ "apen_url": "https://bmcpublichealth.biomedcentral.com/counter/pdf/10.1186/s12889-015-1734-1",
+ "ar": 2015,
+ "doi": "https://doi.org/10.1186/s12889-015-1734-1",
+ "forfattere": [
+  "Lisbeth Homlong",
+  "Elin Olaug Rosvold",
+  "Åse Sagatun",
+  "Tore Wentzel‐Larsen",
+  "Ole Rikard Haavet"
+ ],
+ "hentet": "2026-11-09",
+ "hentet_fra": "https://bmcpublichealth.biomedcentral.com/counter/pdf/10.1186/s12889-015-1734-1",
+ "hvordan": "pdf",
+ "id": "W2008105777",
+ "kilde": "BMC Public Health",
+ "lenke": "https://openalex.org/W2008105777",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "BACKGROUND: Living with parents suffering from mental illness can influence adolescents' health and well-being, and adverse effects may persist into adulthood. The aim of this study was to investigate the relationship between parents' mental health problems reported by their 15-16-year-old adolescents, the potential protective effect of social support and long-term dependence on public welfare assistance in young adulthood. METHODS: The study linked data from a youth health survey conducted during 1999-2004 among approximately 14 000 15-16-year-olds to data from high-quality, compulsory Norwegian registries that followed each participant through February 2010. Cox regression was used to compute hazard ratios for long-term welfare dependence in young adulthood based on several risk factors in 15-16-year-olds, including their parents' mental health problems. RESULTS: Of the total study population, 10% (1397) reported having parents who suffered from some level of mental health problems during the 12 months prior to the baseline survey; 3% (420) reported that their parents had frequent mental health problems. Adolescent report of their parents' mental health problems was associated with the adolescents' long-term welfare dependence during follow-up, with hazard ratios (HRs) of 1.49 (CI 1.29-1.71), 1.82 (1.44-2.31) and 2.13 (CI 1.59-2.85) for some trouble, moderate trouble and frequent trouble, respectively, compared with report of no trouble with mental health problems. The associations remained significant after adjusting for socio-demographic factors, although additionally correcting for the adolescents' own health status accounted for most of the effect. Perceived support from family, friends, classmates and teachers was analysed separately and each was associated with a lower risk of later welfare dependence. Family and classmate support remained a protective factor for welfare dependence after correcting for all study covariates (HR 0.84, CI 0.78-0.90 and 0.80, 0.75-0.85). We did not find evidence supporting a hypothesized buffering effect of social support. CONCLUSIONS: Exposure to a parent's mental health problem during adolescence may represent a risk for future welfare dependence in young adulthood. Perceived social support, from family and classmates in particular, may be a protective factor against future long-term welfare dependence.",
+ "tittel": "Living with mentally ill parents during adolescence: a risk factor for future welfare dependence? A longitudinal, population-based study",
+ "type": "article"
+}

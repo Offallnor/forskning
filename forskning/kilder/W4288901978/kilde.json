@@ -1,0 +1,12 @@
+{
+ "apen_url": "https://doi.org/10.53469/jgebf.2022.04(07).18",
+ "ar": 2022,
+ "doi": "https://doi.org/10.53469/jgebf.2022.04(07).18",
+ "id": "W4288901978",
+ "kilde": "Journal of Global Economy Business and Finance",
+ "lenke": "https://openalex.org/W4288901978",
+ "oversikt": false,
+ "sammendrag": "Unemployment Insurance program appears as a year-long program in the United States; varies unemployment insurance implemented in different states with various periods of time. While the policy changed in Michigan reduced the duration of unemployment compensation from 26 to 20 weeks. This paper investigates whether a decrease in unemployment compensation duration reduces the unemployment rate by comparing Michigan's predicted rates of unemployment prior to the change to its actual rates afterward. Therefore, by using a regression discontinuity in time model as Johnston and Mas have done prior, this paper concludes that the cutting UI duration helps to decrease the unemployment rate and motivate job searching. This paper also discusses the cost-benefit of implementing a change in UC duration, including benefit in reducing unemployment and increasing wage and social costs at an individual level.",
+ "tittel": "Cost-Benefit Analysis: The UC Duration on the Unemployment Rate",
+ "type": "article"
+}

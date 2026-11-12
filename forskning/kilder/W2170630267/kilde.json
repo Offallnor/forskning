@@ -1,0 +1,24 @@
+{
+ "apen_url": "https://occup-med.biomedcentral.com/counter/pdf/10.1186/1745-6673-8-19",
+ "ar": 2013,
+ "doi": "https://doi.org/10.1186/1745-6673-8-19",
+ "forfattere": [
+  "Line Foss",
+  "Hans Magne Gravseth",
+  "Petter Kristensen",
+  "Bjørgulf Claussen",
+  "Ingrid Sivesind Mehlum",
+  "Knut Skyberg"
+ ],
+ "hentet": "2026-11-09",
+ "hentet_fra": "https://occup-med.biomedcentral.com/counter/pdf/10.1186/1745-6673-8-19",
+ "hvordan": "pdf",
+ "id": "W2170630267",
+ "kilde": "Journal of Occupational Medicine and Toxicology",
+ "lenke": "https://openalex.org/W2170630267",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "BACKGROUND: In 2001, the Norwegian authorities and major labour market partners signed an agreement regarding 'inclusive working life' (IW), whereby companies that participate are committed to reducing sickness absence. Our main aim was to determine the effect of the IW program and work characteristics by gender on long-term (>8 weeks) sickness absence (LSA). METHODS: Self-reported data on work characteristics from the Oslo Health Study were linked to registry-based data on IW status, education and LSA. From 2001-2005, 10,995 participants (5,706 women and 5,289 men) aged 30, 40, 45 and 60 years were followed. A Cox regression was used to compute hazard ratios (HR) for LSA risk. The cohort was divided into an IW group (2,733 women and 2,058 men) and non-IW group (2,973/3,231). RESULTS: 43.2% and 41.6% of women and 22.3%/24.3% of men (IW / non-IW, respectively) experienced at least one LSA. In a multivariate model, statistically significant risk factors for LSA were low education (stronger in men), shift work/night work or rotating hours (strongest in men in the non-IW group), and heavy physical work or work involving walking and lifting (men only and stronger in the non-IW group). Among men who engaged in shift work, the LSA risk was significantly lower in the IW group. CONCLUSIONS: Our results could suggest that IW companies that employ many men in shift work have implemented relevant efforts for reducing sickness absence. However, this study could not demonstrate a significant effect of the IW program on the overall LSA risk.",
+ "tittel": "“Inclusive working life in Norway”: a registry-based five-year follow-up study",
+ "type": "article"
+}

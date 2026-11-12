@@ -1,0 +1,15 @@
+{
+ "apen_url": "https://doi.org/10.5089/9798400274596.001",
+ "ar": 2024,
+ "doi": "https://doi.org/10.5089/9798400274596.001",
+ "forfattere": [
+  "Fernanda Brollo"
+ ],
+ "id": "W4398170851",
+ "kilde": "IMF Working Paper",
+ "lenke": "https://openalex.org/W4398170851",
+ "oversikt": false,
+ "sammendrag": "This paper investigates the impact of automation on the U.S. labor market from 2000 to 2007, specifically examining whether more generous social protection programs can mitigate negative effects. Following Acemoglu and Restrepo (2020), the study finds that areas with higher robot adoption reduced employment and wages, in particular for workers without collegue degree. Notably, the paper exploits differences in social protection generosity across states and finds that areas with more generous unemployment insurance (UI) alleviated the negative effects on wages, especially for less-skilled workers. The results suggest that UI allowed displaced workers to find better matches The findings emphasize the importance of robust social protection policies in addressing the challenges posed by automation, contributing valuable insights for policymakers.",
+ "tittel": "Strengthening Social Protection to Pave the Way for Technological Innovation",
+ "type": "article"
+}

@@ -1,0 +1,26 @@
+id	kategori	land	tiltak	samme_materiale	begrunnelse
+W2063500338	2	Sverige	skjerpet kontroll med legers sykmeldinger		Randomisert forsøk der leger fikk varsel om strengere kontroll av sykmeldingene, utfall foreskrevet og faktisk fraværsvarighet.
+W4388017094	2	Norge	Arbeidstilsynets tilsyn (arbeidsgiverplikter) i hjemmetjenesten		Klyngerandomisert forsøk om tilsyn og legemeldt sykefravær i 96 kommuner.
+W2755226448	3		kontroll og insentiver i sykelønn		Monitorering som tiltak mot sykefravær; design (reform/feltforsøk) ikke bekreftet av tittelen.
+W2125371026	2	Sverige	privatisert yrkesrettet rehabilitering for sykmeldte		Feltforsøk om organisering av rehabilitering for sykmeldte, arbeidsmarkedsutfall.
+W2259782559	4	Nederland	legers og yrkesspesialisters tiltak for selvstendige	W3124462499	Registerdata fra forsikrer om tiltak og sykefraværsvarighet, multivariat estimering.
+W3124462499	4	Nederland	legers og yrkesspesialisters tiltak for selvstendige	W2259782559	Arbeidsnotat-versjon av samme studie.
+W4293173785	3		saksbehandlers vurdering (caseworker screening)		Effekt av saksbehandlers screening på helse og arbeidstilbud; design usikkert uten sammendrag.
+W1508199656	3		aktivering av sykmeldte		Tittelen tyder på evaluering av aktivering av sykmeldte; sammendrag mangler.
+W1525215440	4	Sverige	organisering av sykmeldingskontroll (forsikring og helsevesen)		Empirisk analyse av kontroll av sykmeldinger ved ulik forvaltningsnivå-tilknytning.
+W2015245420	5	Sverige/Finland	tverrfaglig samarbeid i yrkesrettet rehabilitering	W1620640418	Langtidseffekt på sysselsetting av forbedret samarbeidsmodell mot tradisjonell.
+W1620640418	5	Sverige	systematiske samarbeidsmøter (klient, arbeidsgiver, bedriftslege, forsikring)	W2015245420	Sammenligner sysselsetting etter koordinerte gruppemøter mot konvensjonell koordinering.
+W2131314409	5	Norge	forebyggende tiltak og tilpasning på virksomhetsnivå		Registerdata koblet til virksomhetsundersøkelse, effekt på sykefravær for 50+.
+W3165059038	5	Tyskland/Sveits	case management hos forsikrer		Effekt av oppfølging ved case management på tilbakeføring til arbeid.
+W3033884991	5	Finland	kvalitetsarbeid i bedriftshelsetjenesten		Bedriftshelsetjenestens rutiner og behov for uføretrygd.
+W1521653796	5	Sverige	arbeidsplassbasert rehabiliteringsmodell med bedriftshelsetjeneste		779 langtidssykmeldte, prediktorer for retur til arbeid.
+W4237050995	5	Sverige	arbeidsplassbasert forebygging og rehabilitering i kommunale virksomheter		Effekter på sykefravær i 19 arbeidsplasser.
+W4220879318	1	Norden/internasjonal	tiltak mot legers sykmeldingspraksis		Systematisk oversikt, utfall sykefravær.
+W3011779158	1	internasjonal	arbeidsplasstiltak for fravær og produktivitet		Metaanalyse av RCT-er om arbeidsplasstiltak og fravær.
+W4417438054	1	internasjonal	bedriftshelsetiltak og fravær		Systematisk oversikt og metaanalyse, utfall fravær.
+W4407881389	1	internasjonal	tiltak mot sykefravær		Bred oversikt over oversikter om tiltak for å forebygge sykefravær.
+W2004664784	1	internasjonal	disability management		Systematisk oversikt over disability management med økonomiske evalueringer.
+W2619397736	1	internasjonal	systemfaktorer ved arbeidsuførhet (ryggsmerter)		Internasjonal evidenssyntese om systemers betydning; marginal, ryggsmerter.
+W3200070838	1	Storbritannia	tidlig yrkesrettet rehabilitering		Realistisk litteraturoversikt, programteori for tidlig innsats.
+W4254554316	forvaltning	OECD	politikk for sykdom, uførhet og arbeid	W4229651967	OECD-syntese om sykefravær og uføretrygd, ingen effektmål.
+W4229651967	forvaltning	Danmark, Finland, Irland, Nederland	politikk for sykdom, uførhet og arbeid		OECD-landrapport om institusjoner og politikk.

@@ -1,0 +1,18 @@
+{
+ "apen_url": "http://hdl.handle.net/10419/47345",
+ "ar": 2009,
+ "forfattere": [
+  "Simen Markussen"
+ ],
+ "hentet": "før 2026-11-08",
+ "hentet_fra": "https://www.econstor.eu/bitstream/10419/47345/1/608032506.pdf",
+ "hvordan": "pdf",
+ "id": "W1501193741",
+ "kilde": "RePEc: Research Papers in Economics",
+ "lenke": "https://openalex.org/W1501193741",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "This paper exploits a Norwegian physician directed reform aimed to reduce sick-leave. Physicians were required to consider part-time sick-leave as the default treatment and - in the case of long lasting full-time sick-leave - to file a report documenting why the worker was unable to perform any work related activities. The reform had a large impact, reducing sick-leave by 18.8 percent. The main effect came from reduced spell duration - which can be directly linked to the extended documentation requirement laid on physicians within the first 8 weeks of a sick-leave spell. Physician-directed policies may be an (cost-) effective way of reducing sick-leave.",
+ "tittel": "Closing the Gates? Evidence from a Natural Experiment on Physicians' Sickness Certification",
+ "type": "preprint"
+}

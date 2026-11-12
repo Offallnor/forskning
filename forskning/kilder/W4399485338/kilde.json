@@ -1,0 +1,21 @@
+{
+ "apen_url": "http://dx.doi.org/10.1371/journal.pone.0303852",
+ "ar": 2024,
+ "doi": "https://doi.org/10.1371/journal.pone.0303852",
+ "forfattere": [
+  "Charlotta Magnusson",
+  "Roujman Shahbazian",
+  "Sara Kjellsson"
+ ],
+ "hentet": "før 2026-11-08",
+ "hentet_fra": "https://uu.diva-portal.org/smash/get/diva2:1873771/FULLTEXT01",
+ "hvordan": "pdf",
+ "id": "W4399485338",
+ "kilde": "PLoS ONE",
+ "lenke": "https://openalex.org/W4399485338",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "This study describes changes in the withdrawal of sickness benefits among men and women in Sweden over a period of three decades (1994-2018), based on administrative data. During this period there was a gender gap in the takeout of sickness benefits to women's disadvantages in all age groups as well as educational groups. The gap was particularly large between men and women with secondary education in the ages 30 to 39. The general gender gap in sickness absence is larger today compared to 1994. The development, after 2010, was mainly driven by a larger increase in sick leave among women with secondary education, both in relation to men with secondary education and in relation to women with both lower and higher levels of education. For women with secondary education, sick leave does not seem to vary according to age. Thus, in this educational group, women of child-rearing age are not more prone to take sick leave than other age groups.",
+ "tittel": "Does higher education make women sicker? A study of the gender gap in sickness absence within educational groups",
+ "type": "article"
+}

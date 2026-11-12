@@ -1,0 +1,19 @@
+{
+ "apen_url": "https://doi.org/10.23656/25045520/92005/0098",
+ "ar": 2005,
+ "doi": "https://doi.org/10.23656/25045520/92005/0098",
+ "forfattere": [
+  "Ott Toomet"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "https://repec.econ.au.dk/repec/afn/wp/05/wp05_07.pdf",
+ "hvordan": "pdf",
+ "id": "W2101074211",
+ "kilde": "RePEc: Research Papers in Economics",
+ "lenke": "https://openalex.org/W2101074211",
+ "merknad": "ÅPEN VERSJON (preprint eller arbeidsnotat), merkes i svaret",
+ "oversikt": false,
+ "sammendrag": "Danish unemployment assistance depends on age; it increases by 70% when unemployed individuals turn 25. This feature is used to identify the impact of income on the unemployment-to-employment hazard rate. A mixed proportional hazard framework based on a 10% representative Danish registry data set is used. The results indicate that the income effect for females is negative and significant, corresponding to an income elasticity of -0.4. The effect for males is positive but insignifcant.",
+ "tittel": "Does an increase in unemployment income lead to longer unemployment spells? Evidence using Danish unemployment assistance data",
+ "type": "preprint"
+}

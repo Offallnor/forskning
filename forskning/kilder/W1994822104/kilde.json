@@ -1,0 +1,15 @@
+{
+ "ar": 1997,
+ "doi": "https://doi.org/10.1080/07350015.1997.10524696",
+ "forfattere": [
+  "R. Mark Gritz",
+  "Thomas E. MaCurdy"
+ ],
+ "id": "W1994822104",
+ "kilde": "Journal of Business and Economic Statistics",
+ "lenke": "https://openalex.org/W1994822104",
+ "oversikt": false,
+ "sammendrag": "This article investigates the comprehensive effects of unemployment insurance (UI) policies on the amount of time and unemployment that individuals report between jobs. The econometric model jointly determines the effects of UI on the lengths of nonemployment spells, the classification of these spells as unemployment, and the likelihood of collecting program benefits. The model carefully attempts to isolate variation in UI benefits attributable to differences in generosity across programs to avoid biases in estimating policy effects induced by other contaminating sources of benefit variation. Using data on men from the National Longitudinal Survey of Youth, the empirical results find (a) UI recipients typically experience longer spells between jobs, at least up to the exhaustion of UI benefits, and report substantially larger fractions of these spells as unemployment; (b) weekly benefit amounts exert no significant influence on the likelihood of UI recipiency, on the length of spells between jobs, or on the fraction of these spells classified as unemployment; and (c) increases in weeks of UI eligibility raise the likelihood of UI collection and lengthen the number of weeks of unemployment between jobs by inducing long spells to become longer and not by altering short-duration behavior.",
+ "tittel": "Measuring the Influence of Unemployment Insurance on Unemployment Experiences",
+ "type": "article"
+}

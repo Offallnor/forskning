@@ -1,0 +1,15 @@
+{
+ "ar": 2005,
+ "doi": "https://doi.org/10.1111/j.1467-9442.2005.00419.x",
+ "forfattere": [
+  "Matz Dahlberg",
+  "Anders Forslund"
+ ],
+ "id": "W2069217900",
+ "kilde": "Scandinavian Journal of Economics",
+ "lenke": "https://openalex.org/W2069217900",
+ "oversikt": false,
+ "sammendrag": "Abstract Using a panel of 250 Swedish municipalities over the period 1987–1996, we examine the direct displacement effects of active labour market programmes (ALMPs). Compared to earlier studies on this topic, we have more and better data. Based on our GMM estimations, we find that there are direct displacement effects from subsidised employment (in the order of approximately 65%), but that there seem to be no (significant) displacement effects from training. This result seems to be robust to several alternative specifications.",
+ "tittel": "Direct Displacement Effects of Labour Market Programmes*",
+ "type": "article"
+}

@@ -1,0 +1,24 @@
+{
+ "apen_url": "https://academic.oup.com/occmed/article-pdf/63/1/7/4199165/kqs198.pdf",
+ "ar": 2012,
+ "doi": "https://doi.org/10.1093/occmed/kqs198",
+ "forfattere": [
+  "Magnus Odéen",
+  "Liv Heide Magnussen",
+  "S. Maeland",
+  "Lillebeth Larun",
+  "Hege R. Eriksen",
+  "Torill Helene Tveito"
+ ],
+ "hentet": "2026-11-09",
+ "hentet_fra": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3537115/fullTextXML",
+ "hvordan": "Europe PMC",
+ "id": "W2127823072",
+ "kilde": "Occupational Medicine",
+ "lenke": "https://openalex.org/W2127823072",
+ "merknad": "",
+ "oversikt": true,
+ "sammendrag": "BACKGROUND: The workplace is used as a setting for interventions to prevent and reduce sickness absence, regardless of the specific medical conditions and diagnoses. AIMS: To give an overview of the general effectiveness of active workplace interventions aimed at preventing and reducing sickness absence. METHODS: We systematically searched PubMed, Embase, Psych-info, and ISI web of knowledge on 27 December 2011. Inclusion criteria were (i) participants over 18 years old with an active role in the intervention, (ii) intervention done partly or fully at the workplace or at the initiative of the workplace and (iii) sickness absence reported. Two reviewers independently screened articles, extracted data and assessed risk of bias. A narrative synthesis was used. RESULTS: We identified 2036 articles of which, 93 were assessed in full text. Seventeen articles were included (2 with low and 15 with medium risk of bias), with a total of 24 comparisons. Five interventions from four articles significantly reduced sickness absence. We found moderate evidence that graded activity reduced sickness absence and limited evidence that the Sheerbrooke model (a comprehensive multidisciplinary intervention) and cognitive behavioural therapy (CBT) reduced sickness absence. There was moderate evidence that workplace education and physical exercise did not reduce sickness absence. For other interventions, the evidence was insufficient to draw conclusions. CONCLUSIONS: The review found limited evidence that active workplace interventions were not generally effective in reducing sickness absence, but there was moderate evidence of effect for graded activity and limited evidence for the effectiveness of the Sheerbrooke model and CBT.",
+ "tittel": "Systematic review of active workplace interventions to reduce sickness absence",
+ "type": "review"
+}

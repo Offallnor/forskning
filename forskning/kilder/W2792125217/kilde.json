@@ -1,0 +1,26 @@
+{
+ "apen_url": "https://njl-admin.nihr.ac.uk/document/download/2012054",
+ "ar": 2018,
+ "doi": "https://doi.org/10.3310/phr06020",
+ "forfattere": [
+  "Cassandra Kenning",
+  "Karina Lovell",
+  "Mark Hann",
+  "Raymond M Agius",
+  "Penny Bee",
+  "Carolyn Anne Chew-Graham",
+  "Peter A Coventry",
+  "Christina Maria Van Der Feltz-Cornelis"
+ ],
+ "hentet": "2026-11-09",
+ "hentet_fra": "https://njl-admin.nihr.ac.uk/document/download/2012054",
+ "hvordan": "pdf",
+ "id": "W2792125217",
+ "kilde": "Public Health Research",
+ "lenke": "https://openalex.org/W2792125217",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "Background Despite high levels of employment among working-age adults in the UK, there is still a significant minority who are off work with ill health at any one time (so-called ‘sickness absence’). Long-term sickness absence results in significant costs to the individual, to the employer and to wider society. Objective The overall objective of the intervention was to improve employee well-being with a view to aiding return to work. To meet this aim, a collaborative case management intervention was adapted to the needs of UK employees who were entering or experiencing long-term sickness absence. Design A pilot randomised controlled trial, using permuted block randomisation. Recruitment of patients with long-term conditions in settings such as primary care was achieved by screening of routine records, followed by mass mailing of invitations to participants. However, the proportion of patients responding to such invitations can be low, raising concerns about external validity. Recruitment in the Case Management to Enhance Occupational Support (CAMEOS) study used this method to test whether or not it would transfer to a population with long-term sickness absence in the context of occupational health (OH). Participants Employed people on long-term sickness absence (between 4 weeks and 12 months). The pilot was run with two different collaborators: a large organisation that provided OH services for a number of clients and a non-profit community-based organisation. Intervention Collaborative case management was delivered by specially trained case managers from the host organisations. Sessions were delivered by telephone and supported use of a self-help handbook. The comparator was usual care as provided by participants’ general practitioner (GP) or OH provider. This varied for participants according to the services available to them. Neither participants nor the research team were blind to randomisation. Main outcome measures Recruitment rates, intervention delivery and acceptability to participants were the main outcomes. Well-being, as measured by the Clinical Outcomes in Routine Evaluation Outcome Measure (CORE-OM), and return-to-work rates were also recorded. Results In total, over 1000 potentially eligible participants were identified across the sites and invited to participate. However, responses were received from just 61 of those invited (5.5%), of whom 16 (1.5%) were randomised to the trial (seven to treatment, nine to control). Detailed information on recruitment methods, intervention delivery, engagement and acceptability is presented. No harms were reported in either group. Conclusions This pilot study faced a number of barriers, particularly in terms of recruitment of employers to host the research. Our ability to respond to these challenges faced several barriers related to the OH context and the study set up. The intervention seemed feasible and acceptable when delivered, although caution is required because of the small number of randomised participants. However, employees’ lack of engagement in the research might imply that they did not see the intervention as valuable. Future work Developing effective and acceptable ways of reducing sickness absence remains a high priority. We discuss possible ways of overcoming these challenges in the future, including incentives for employers, alternative study designs and further modifications to recruitment methods. Trial registration Current Controlled Trials ISRCTN33560198. Funding This project was funded by the NIHR Public Health Research programme and will be published in full inPublic Health Research; Vol. 6, No. 2. See the NIHR Journals Library website for further project information.",
+ "tittel": "Collaborative case management to aid return to work after long-term sickness absence: a pilot randomised controlled trial",
+ "type": "article"
+}

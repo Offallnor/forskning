@@ -1,0 +1,15 @@
+{
+ "ar": 2023,
+ "doi": "https://doi.org/10.1162/rest_a_01310",
+ "forfattere": [
+  "Gerard Domènech-Arumí",
+  "Silvia Vannutelli"
+ ],
+ "id": "W4361195520",
+ "kilde": "The Review of Economics and Statistics",
+ "lenke": "https://openalex.org/W4361195520",
+ "oversikt": false,
+ "sammendrag": "Abstract We exploit an unanticipated labor market reform to estimate the effects of procyclical changes in long-term unemployment assistance (UA). In July 2012, Spain raised the minimum age to receive unlimited-duration UA from 52 to 55. Using a difference-in-differences design, we document that shorter benefits caused (1) shorter unemployment duration, especially among younger workers; (2) higher labor force exit and other programs’ take-up, especially among older workers; and (c) lower wages upon reemployment. The reform induced moderate government savings. Our results highlight the importance of considering the interplay with labor market conditions when designing long-term benefit schedules that affect workers close to retirement.",
+ "tittel": "Bringing Them In or Pushing Them Out? The Labor Market Effects of Pro-Cyclical Unemployment Assistance Changes",
+ "type": "article"
+}

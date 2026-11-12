@@ -1,0 +1,18 @@
+{
+ "apen_url": "https://doi.org/10.1016/j.labeco.2024.102537",
+ "ar": 2024,
+ "doi": "https://doi.org/10.1016/j.labeco.2024.102537",
+ "forfattere": [
+  "Elisa Guglielminetti",
+  "Rafael Lalive",
+  "Philippe Ruh",
+  "Étienne Wasmer"
+ ],
+ "id": "W4392878234",
+ "kilde": "Labour Economics",
+ "lenke": "https://openalex.org/W4392878234",
+ "oversikt": false,
+ "sammendrag": "Unemployed workers search for jobs that ideally offer both high wages and short commutes. But would they accept jobs with lower wages or longer commutes or both as the unemployment spell lengthens? Using a unique panel of Austrian workers, we find that job seekers do indeed accept jobs with significantly lower wages. However, the majority group of job seekers who used to commute to jobs located outside their municipality of residence tend to increasingly accept jobs in their home municipality, and do not necessarily broaden geographically their search. Based on quasi-experimental variations in the duration of unemployment benefits, we find that this evolution of commuting patterns is not linked to the loss of benefits. We explain these findings through the lens of a job search model where flexible parameters such as search costs are allowed to vary across space and time. We estimate that search costs are substantial and increase differently over time for local and non-local jobs, accounting for the patterns found in the data. A counterfactual policy exercise suggests that unemployment insurance does not hinder geographical mobility. Competing mechanisms are discussed and their role is left to future research.",
+ "tittel": "Job search with commuting and unemployment insurance: A look at workers’ strategies in time",
+ "type": "article"
+}

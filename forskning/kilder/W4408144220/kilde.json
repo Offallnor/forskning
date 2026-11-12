@@ -1,0 +1,20 @@
+{
+ "apen_url": "https://hdl.handle.net/2434/1150016",
+ "ar": 2025,
+ "doi": "https://doi.org/10.1177/00197939251322173",
+ "forfattere": [
+  "Zachary Parolin",
+  "Clemente Pignatti"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "https://air.unimi.it/bitstream/2434/1150016/12/UBs_in_the_US__Final_manuscript_.pdf",
+ "hvordan": "pdf",
+ "id": "W4408144220",
+ "kilde": "Industrial and Labor Relations Review",
+ "lenke": "https://openalex.org/W4408144220",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "The authors study the responses to the withdrawal of two generous unemployment benefit (UB) schemes introduced in the United States during the COVID-19 pandemic, exploiting variations across states in the timing of the policy change. Using data from the Current Population Survey, they find that the expiration of UBs increased unemployment-to-employment transitions. However, approximately half of this effect was driven by job recalls. Evidence also shows that unemployed individuals transitioned into lower quality jobs, compared to their previous occupations, and that young job seekers not eligible for UBs were displaced by increased job-search competition. Using both survey and transaction data, the authors also provide complementary evidence on the consumption effects of the policy change. They document a small reduction in consumption after the withdrawal of pandemic UBs for some non-necessary spending categories.",
+ "tittel": "Employment and Consumption Responses to the Withdrawal of Unemployment Benefits",
+ "type": "article"
+}

@@ -1,0 +1,16 @@
+{
+ "apen_url": "https://publications.iadb.org/publications/english/document/Unemployment-Insurance-and-Search-Effort-in-Chile.pdf",
+ "ar": 2012,
+ "doi": "https://doi.org/10.18235/0011390",
+ "forfattere": [
+  "Cristóbal Huneeus",
+  "Silvia Leiva",
+  "Alejandro Micco"
+ ],
+ "id": "W3121535328",
+ "lenke": "https://openalex.org/W3121535328",
+ "oversikt": false,
+ "sammendrag": "Unemployment is a pressing problem in many countries in Latin America. Financial crises and increased globalization increase job turnover and therefore the risk of unemployment. To protect workers, Chile implemented an innovative unemployment insurance (UI) system. UI protects workers but creates moral hazard and self-selection issues. Using administrative data for the period 2007 to 2010, the effect of the 2009 reform of UI on job search behavior was studied. The results revealed different job search behavior between workers who use unemployment benefits and those who do not. Search efforts were found to fall as long as unemployment benefits are in place. There is strong evidence that workers who decide not to take UI despite having the right to do so have a higher probability of finding a new job.",
+ "tittel": "Unemployment Insurance and Search Effort in Chile",
+ "type": "report"
+}

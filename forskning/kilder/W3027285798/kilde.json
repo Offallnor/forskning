@@ -1,0 +1,20 @@
+{
+ "apen_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/7525248",
+ "ar": 2020,
+ "doi": "https://doi.org/10.1016/j.jpubeco.2020.104273",
+ "forfattere": [
+  "Peter Ganong",
+  "Pascal Noel",
+  "Joseph Vavra"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "http://www.nber.org/papers/w27216.pdf",
+ "hvordan": "pdf",
+ "id": "W3027285798",
+ "kilde": "Journal of Public Economics",
+ "lenke": "https://openalex.org/W3027285798",
+ "merknad": "ÅPEN VERSJON (preprint eller arbeidsnotat), merkes i svaret",
+ "oversikt": false,
+ "tittel": "US unemployment insurance replacement rates during the pandemic",
+ "type": "article"
+}

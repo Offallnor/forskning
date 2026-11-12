@@ -1,0 +1,20 @@
+{
+ "apen_url": "https://doi.org/10.34989/swp-2020-47",
+ "ar": 2021,
+ "doi": "https://doi.org/10.34989/swp-2020-47",
+ "forfattere": [
+  "Serdar Birinci",
+  "Kurt Gerrard See"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "https://s3.amazonaws.com/real.stlouisfed.org/wp/2019/2019-022.pdf",
+ "hvordan": "pdf",
+ "id": "W2905024586",
+ "kilde": "RePEc: Research Papers in Economics",
+ "lenke": "https://openalex.org/W2905024586",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "There is on-going debate about whether and how much unemployment benefits discourage recipients from looking for jobs. The optimal generosity of benefits ultimately depends on how individuals respond in their job search behaviour to more generous benefits. Careful consideration of the demographic characteristics of unemployed workers is crucial in measuring this responsiveness. These demographic characteristics include differences in wealth, eligibility for unemployment insurance (UI), and benefit take-up rates among unemployed people. We study the optimal design of UI policy. In particular, we ask: how should the amount and duration of benefit payments vary with prevailing economic conditions in order to maximize social well-being? We find that wealth-poor individuals are less likely than wealthier individuals to reduce efforts to find a job in response to benefit payments because securing a job is valuable to them. We document that the UI recipient demographic is predominantly made up of such households. Thus, any increase in generosity of UI benefits will have limited impact on the economy’s unemployment rate. Using a model that replicates wealth differences among unemployed people, we find that the amount and duration of UI payments should rise during recessions. During economic downturns, benefit recipients run down their own savings. Thus, they make more effort to find jobs despite receiving generous UI.",
+ "tittel": "How Should Unemployment Insurance Vary over the Business Cycle?",
+ "type": "preprint"
+}

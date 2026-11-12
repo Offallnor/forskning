@@ -1,0 +1,14 @@
+{
+ "apen_url": "https://uknowledge.uky.edu/cgi/viewcontent.cgi?article=1122&context=ukcpr_papers",
+ "ar": 2014,
+ "forfattere": [
+  "Lewis Warren"
+ ],
+ "id": "W2624652852",
+ "kilde": "UKnowledge (University of Kentucky)",
+ "lenke": "https://openalex.org/W2624652852",
+ "oversikt": false,
+ "sammendrag": "This paper provides the first nationally representative estimates of how unemployment insurance (UI) generosity in the United States affects the search intensity of unemployed individuals using individual level variation in UI generosity. The paper expands the current literature through fully simulating monetary eligibility and entitlement to unemployment insurance at the individual level where past studies have been unable to examine monetary eligibility and have relied on state variations in the maximum weekly benefit amount which can differ significantly from an individual’s actual benefit amount. To simulate monetary eligibility and entitlement, work histories of unemployed respondents were obtained through fully matching American Time Use Survey respondents to all of their observations in the Current Population Survey, the population from which they are drawn. The results suggest that higher replacement rates are associated with large reductions in time spent searching for a job during normal economic conditions. However, the results are more mitigated during the Great Recession and post recession period with higher replacement rates being associated with small and statistically insignificant effects on time spent searching for a job, although these results appear to be partially driven by the years 2009 and 2010 which were at the height of the labor market decline.",
+ "tittel": "Reassessing the Effects of Unemployment Insurance Generosity on Search Intensity: New Evidence from Earnings Histories",
+ "type": "article"
+}

@@ -1,0 +1,15 @@
+{
+ "ar": 2019,
+ "doi": "https://doi.org/10.3138/cpp.2018-031",
+ "forfattere": [
+  "Stéphanie Lluis",
+  "Brian P. McCall"
+ ],
+ "id": "W2942832188",
+ "kilde": "Canadian Public Policy",
+ "lenke": "https://openalex.org/W2942832188",
+ "oversikt": false,
+ "sammendrag": "We apply a difference-in-differences estimation approach to analyze the effect of two Employment Insurance (EI) program initiatives that took place between 2004 and 2009 in a subset of Canadian Employment Insurance regions. The pilot programs increased the generosity of the EI program in terms of benefit duration and the allowable earnings criterion. Both pilot programs ran in about 50 percent of the EI regions until November 2008, providing a quasi-experimental setting in which to analyze the short-term impact of the two EI pilots on monthly labour force transitions into full-time, part-time, and temporary employment as well as on job search.",
+ "tittel": "Employment and Job Search Implications of the Extended Weeks and Working While on Claim Pilot Initiatives",
+ "type": "article"
+}

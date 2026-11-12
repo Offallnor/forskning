@@ -1,0 +1,16 @@
+{
+ "apen_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1820946",
+ "ar": 2011,
+ "forfattere": [
+  "Elisabeth Fevang",
+  "Simen Markussen",
+  "Knut Røed"
+ ],
+ "id": "W2076492883",
+ "kilde": "SSRN Electronic Journal",
+ "lenke": "https://openalex.org/W2076492883",
+ "oversikt": false,
+ "sammendrag": "In most countries, employers are financially responsible for sick pay during an initial period of a worker's absence spell, after which the public insurance system covers the bill. Based on a quasi-natural experiment in Norway, where pay liability was removed for pregnancy-related absences, we show that firms' absence costs significantly affect employees' absence behavior. However, by restricting pay liability to the initial period of the absence spell, firms are discouraged from letting long-term sick workers back into work, since they then face the financial risk associated with subsequent relapses. We show that this disincentive effect is statistically and economically significant.",
+ "tittel": "The Sick Pay Trap",
+ "type": "preprint"
+}

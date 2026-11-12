@@ -1,0 +1,14 @@
+{
+ "ar": 2013,
+ "forfattere": [
+  "Yolanda F. Rebollo‐Sanz",
+  "José Ignacio García Pérez"
+ ],
+ "id": "W53478664",
+ "kilde": "RePEc: Research Papers in Economics",
+ "lenke": "https://openalex.org/W53478664",
+ "oversikt": false,
+ "sammendrag": "Reliable empirical evidence about the effects of unemployment insurance benefits (UIB) on individuals’ labour market paths is crucial for designing appropriate labour market policies. In particular, medium and long-run effects of the UIB system can differ markedly from short-term impact when job stability depends on previous labour market history. This paper addresses the effect of the UIB entitlement length on employment stability by taking into account benefits endogeneity, dynamic selection issues and occurrence dependence. The analysis is undertaken for dual labour market, as the one in Spain, where temporary and permanent workers differ in quite many individual and labour market characteristics. We find that the UIB entitlement period lengthens the unemployment spell of all workers but it also has a positive effect on the quality of subsequent job matches, particularly for temporary workers, and when job entrance takes place by the end of benefits entitlement. We simulate alternative UIB designs and conclude that shortening the benefit entitlement length does not seem to lead to significant gains in overall employment stability which increases by 4.3% at most. But at the same time, we find that job turnover also increases so the overall effect is that workers are employed a bit more but at the expense of suffering more job interruptions.",
+ "tittel": "Are there gains in employment stability by reducing unemployment benefit entitlement length? The case of Spain",
+ "type": "preprint"
+}

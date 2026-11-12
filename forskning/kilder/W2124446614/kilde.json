@@ -1,0 +1,16 @@
+{
+ "ar": 2015,
+ "doi": "https://doi.org/10.1136/jech-2014-204924",
+ "forfattere": [
+  "Nina Karnehed",
+  "Finn E Rasmussen",
+  "Karin Modig"
+ ],
+ "id": "W2124446614",
+ "kilde": "Journal of Epidemiology & Community Health",
+ "lenke": "https://openalex.org/W2124446614",
+ "oversikt": false,
+ "sammendrag": "BACKGROUND: Low IQ has been shown to be an important risk factor for disability pension (DP) but whether the importance has changed over time remains unclear. It can be hypothesised that IQ has become more important for DP over time in parallel with a more demanding working life. The aim of this study was to investigate the relative risk of low IQ on the risk of DP before age 30 between 1971 and 2006. METHODS: This study covered the entire Swedish male population born between 1951 and 1976, eligible for military conscription. Information about the study subjects was obtained by linkage of national registers. Associations between IQ and DP over time were analysed by descriptive measures (mean values, proportions, etc) and by Cox proportional hazards regressions. Analyses were adjusted for educational level. RESULTS: The cohort consisted of 1 229 346 men. The proportion that received DP before the age of 30 increased over time, from 0.68% in the cohort born between 1951 and 1955 to 0.95% in the cohort born between 1971 and 1976. The relative risk of low IQ (adjusted for education) in relation to high IQ decreased from 5.68 (95% CI 4.71 to 6.85) in the cohort born between 1951 and 1955 to 2.62 (95% CI 2.25 to 3.05) in the cohort born between 1971 and 1976. CONCLUSIONS: Our results gave no support to the idea that the importance of low IQ for the risk of DP has increased in parallel with increasing demands in working life. In fact, low IQ has become less important as a risk factor for DP compared with high IQ between the early 1970s and 1990s. An increased educational level over the same time period is likely to be part of the explanation.",
+ "tittel": "Low IQ has become less important as a risk factor for early disability pension. A longitudinal population-based study across two decades among Swedish men",
+ "type": "article"
+}

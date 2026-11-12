@@ -1,0 +1,16 @@
+{
+ "apen_url": "https://doi.org/10.3386/w11932",
+ "ar": 2006,
+ "doi": "https://doi.org/10.3386/w11932",
+ "forfattere": [
+  "Peter Kuhn",
+  "Chris Riddell"
+ ],
+ "id": "W1572508825",
+ "kilde": "National Bureau of Economic Research",
+ "lenke": "https://openalex.org/W1572508825",
+ "oversikt": false,
+ "sammendrag": "Using data spanning a half century for adjacent jurisdictions in the U.S. and Canada, we study the long-term effects of a very generous unemployment insurance (UI)program on weeks worked.We find large effects.For example, in 1990, about 6 percent of employed men in Maine's northernmost counties worked fewer than 26 weeks per year; just across the border in New Brunswick that figure was over 20 percent.According to our estimates, New Brunswick's much more generous UI system accounts for about two thirds of this differential.Even greater effects are found among women and less-educated men.We argue that our longer-run, crossnational perspective generates more substantial estimates of program effects because it captures workers' abilities to make a wider variety of adjustments to programs they expect to be permanent.",
+ "tittel": "The Long-Term Effects of a Generous Income Support Program: Unemployment Insurance in New Brunswick and Maine, 1940-1991",
+ "type": "report"
+}

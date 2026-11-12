@@ -1,0 +1,19 @@
+{
+ "apen_url": "http://hdl.handle.net/11568/750987",
+ "ar": 2013,
+ "doi": "https://doi.org/10.1108/ijm-10-2012-0153",
+ "forfattere": [
+  "Lorenzo Corsini"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "https://arpi.unipi.it/bitstream/11568/750987/2/Completo.pdf",
+ "hvordan": "pdf",
+ "id": "W1522818112",
+ "kilde": "International Journal of Manpower",
+ "lenke": "https://openalex.org/W1522818112",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "Purpose This paper investigates whether the effect of unemployment benefits (UB) on unemployment duration is the same for individuals belonging to different wealth groups. Design/methodology/approach Using a sample of newly unemployed individuals from Italy in 2007, we perform estimations of semi‐parametric and parametric Cox hazard models and finds a significant interaction between benefits and wealth. Findings In particular, we show that the mitigating effect of benefits on liquidity constraints is less marked for individuals from richer households and therefore, for these individuals, benefits do not increase unemployment duration. Originality/value The results also show that liquidity constraints are important in determining unemployment duration and that wealth has an important role in the actual effect of UB.",
+ "tittel": "How unemployment benefits affect individuals of different wealth classes",
+ "type": "article"
+}

@@ -1,0 +1,15 @@
+{
+ "apen_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2549064",
+ "ar": 2014,
+ "doi": "https://doi.org/10.1002/hec.3054",
+ "forfattere": [
+  "Stefan Pichler"
+ ],
+ "id": "W2129153957",
+ "kilde": "Health Economics",
+ "lenke": "https://openalex.org/W2129153957",
+ "oversikt": false,
+ "sammendrag": "The procyclical nature of sickness absence has been documented by many scholars in literature. So far, explanations have been based on labor force composition and reduced moral hazard caused by fear of job loss during recessions. In this paper, we propose and test a third mechanism caused by reduced moral hazard during booms and infections. We suggest that the workload is higher during economic booms and thus employees have to go to work despite being sick. In a theoretical model focusing on infectious diseases, we show that this will provoke infections of coworkers leading to overall higher sickness absence during economic upturns. Using state-level aggregated data from 112 German public health insurance funds (out of 145 in total), we find that sickness absence due to infectious diseases shows the largest procyclical pattern, as predicted by our theoretical model.",
+ "tittel": "Sickness Absence, Moral Hazard, and the Business Cycle",
+ "type": "article"
+}

@@ -1,0 +1,20 @@
+{
+ "apen_url": "https://doi.org/10.2139/ssrn.4476217",
+ "ar": 2023,
+ "doi": "https://doi.org/10.1257/mac.20200217",
+ "forfattere": [
+  "Peter Haan",
+  "Victoria L. Prowse"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "https://www.diw.de/documents/publikationen/73/diw_01.c.874109.de/dp2040.pdf",
+ "hvordan": "pdf",
+ "id": "W4393308804",
+ "kilde": "American Economic Journal Macroeconomics",
+ "lenke": "https://openalex.org/W4393308804",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "We empirically analyze the heterogeneous welfare effects of unemployment insurance and social assistance. We estimate a structural life-cycle model of singles' and married couples' labor supply and savings decisions. The model includes heterogeneity by age, education, wealth, sex and household composition. In aggregate, social assistance dominates unemployment insurance; however, the opposite holds true for married men, whose leisure time declines more than that of their spouses when unemployment insurance is reduced. A revenue-neutral rebalancing of social support away from unemployment insurance and toward social assistance increases aggregate welfare. Income pooling in married households decreases the welfare value of social assistance.",
+ "tittel": "The Heterogeneous Effects of Social Assistance and Unemployment Insurance: Evidence from a Life Cycle Model of Family Labor Supply and Savings",
+ "type": "article"
+}

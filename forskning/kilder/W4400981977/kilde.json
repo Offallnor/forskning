@@ -1,0 +1,20 @@
+{
+ "apen_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ajim.23640",
+ "ar": 2024,
+ "doi": "https://doi.org/10.1002/ajim.23640",
+ "forfattere": [
+  "Chris McLeod",
+  "Robert A. Macpherson",
+  "Ailin He",
+  "Benjamin C. Amick",
+  "Mieke W Koehoorn",
+  "Emile Tompa"
+ ],
+ "id": "W4400981977",
+ "kilde": "American Journal of Industrial Medicine",
+ "lenke": "https://openalex.org/W4400981977",
+ "oversikt": false,
+ "sammendrag": "BACKGROUND: Studies on the impact of workplace safety inspections on work injuries have found mixed effectiveness. Most studies are from the United States, examining Occupational Health and Safety Administration (OSHA) regulatory inspections in manufacturing firms with more than 10 employees. This study examines whether regulatory inspections in Alberta, Canada, result in reductions in workers' compensation claims rates for inspected firms relative to comparable non-inspected firms. METHODS: Firm and claim-level data from the Workers' Compensation Board of Alberta were linked with regulatory enforcement data from the Government of Alberta for construction, manufacturing, and transportation firms with at least one full-time employee for 37 consecutive months. A matched difference-in-differences study design was used to estimate changes in lost-time claim rates for work-related injuries and musculoskeletal diseases of inspected and comparable non-inspected firms between the year pre-inspection and 2 years, post-inspection, controlling for firm-level characteristics. RESULTS: Inspections were not effective in reducing firm-level claim rates, with the exception of transportation firms with more than one inspection experiencing a 28% decrease in their claim rate in the second year post-inspection, relative to the change in non-inspected firms. In construction, inspected firms experienced a 12% increase in their claim rate in the first year post-inspection. No effect was observed in the manufacturing sector. CONCLUSIONS: Regulatory workplace safety inspections in Alberta generally do not result in greater reductions in firm-level claim rates in the construction, manufacturing, and transportation sectors. Inspections alone may not be sufficient to induce compliance or hazard management changes that lead to reductions in firm-level injuries.",
+ "tittel": "The impact of regulatory workplace safety inspections on workers' compensation claim rates",
+ "type": "article"
+}

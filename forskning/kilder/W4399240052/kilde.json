@@ -1,0 +1,22 @@
+{
+ "apen_url": "https://api.taylorfrancis.com/content/chapters/oa-edit/download?identifierName=doi&identifierValue=10.4324/9781003412861-7&type=chapterpdf",
+ "ar": 2024,
+ "doi": "https://doi.org/10.4324/9781003412861-7",
+ "forfattere": [
+  "Lotta Dellve",
+  "Linda Corin",
+  "Hans Ekbrand",
+  "Gunnel K. E. Hensing"
+ ],
+ "hentet": "før 2026-11-08",
+ "hentet_fra": "https://api.taylorfrancis.com/content/chapters/oa-edit/download?identifierName=doi&identifierValue=10.4324/9781003412861-7&type=chapterpdf",
+ "hvordan": "pdf",
+ "id": "W4399240052",
+ "kilde": "Routledge eBooks",
+ "lenke": "https://openalex.org/W4399240052",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "This chapter focuses on trends in working conditions and work-related health for the general working population and for sectors that show tendencies of social polarisation. The illustration of trends may support a widened understanding of what happens over time regarding developments of psychosocial working conditions and the use of social insurance in terms of incidence of sickness absence and achieving compensation for occupational disorders. Data from Swedish register-based data and surveys of employees in the public care sector were analysed over time. The results showed that trends in working conditions were stable or somewhat positive in the general population. Declining working conditions, higher sickness absence and lower compensation for occupational disorders were identified among women and in female-dominated sectors, especially among lower-level managers and employees in the care sector. Thus, this chapter demonstrates clear signs of social polarisation during a time with high demands of restructurings and rationalisations of public organisations. Interrelated exposures and explanations, developed over time, are suggested, shown, and discussed from system, gender, and norm-critical theoretical perspectives.",
+ "tittel": "Work environment trajectories and consequences for trends for sickness absence and occupational disorders",
+ "type": "book-chapter"
+}

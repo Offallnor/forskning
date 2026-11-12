@@ -1,0 +1,23 @@
+{
+ "apen_url": "http://dx.doi.org/10.15195/v11.a24",
+ "ar": 2024,
+ "doi": "https://doi.org/10.15195/v11.a24",
+ "forfattere": [
+  "Ursina Kuhn",
+  "Debra Hevenstone",
+  "Leen Vandecasteele",
+  "Samin Sepahniya",
+  "Dorian Kessler"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "https://sociologicalscience.com/download/vol_11/august/SocSci_vol11_649to679.pdf",
+ "hvordan": "pdf",
+ "id": "W4401566784",
+ "kilde": "Sociological Science",
+ "lenke": "https://openalex.org/W4401566784",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "We investigate how unemployment insurance generosity impacts reemployment and economic precarity by family type. With Swiss longitudinal administrative data and a regression discontinuity design using potential benefit duration, we examine differences between single households and primary and secondary or equal earners, as well as differences by gender and presence of children. Less generous unemployment insurance (shorter potential benefit duration) speeds up reemployment for all family types during the period with benefit cuts whereas longer-term effects are stronger for single households, secondary and equal earners, and those without children. Economic precarity increases for singles, single-parents, and primary earners during the period with lower benefits though there are no long-term effects. We argue that those with higher financial responsibility (i.e., primary earners or those with children) face pressure to find jobs irrespective of benefit generosity whereas those with lower financial responsibility (i.e., secondary or equal earners and those without children) have more capacity to react.",
+ "tittel": "Unemployment Insurance and the Family: Heterogeneous Effects of Benefit Generosity on Reemployment and Economic Precarity",
+ "type": "article"
+}

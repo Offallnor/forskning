@@ -1,0 +1,16 @@
+{
+ "apen_url": "https://doi.org/10.2139/ssrn.3286191",
+ "ar": 2019,
+ "doi": "https://doi.org/10.1177/0019793919863378",
+ "forfattere": [
+  "Regina T. Riphahn",
+  "Rebecca Schrader"
+ ],
+ "id": "W2966573359",
+ "kilde": "Industrial and Labor Relations Review",
+ "lenke": "https://openalex.org/W2966573359",
+ "oversikt": false,
+ "sammendrag": "The authors investigate whether a cut in unemployment benefit payout periods enacted in Germany in 2006 affected older workers’ labor market transitions. The authors use rich administrative data and exploit a difference-in-differences approach. During 2004–2007, using monthly observations, they compare a reference group of 40–44 year olds with constant benefit payout periods to older treatment groups with reduced payout durations. Compared to the reference group, those groups with reduced payout periods had lower job exit rates, higher rates of finding a job, higher propensity to remain employed, and lower propensity to remain unemployed. These patterns suggest that the reform may have contributed to the recent rise in old-age employment in Germany.",
+ "tittel": "Institutional Reforms of 2006 and the Dramatic Rise in Old-Age Employment in Germany",
+ "type": "article"
+}

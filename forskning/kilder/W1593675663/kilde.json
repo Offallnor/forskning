@@ -1,0 +1,18 @@
+{
+ "ar": 2004,
+ "forfattere": [
+  "Kari Hämäläinen",
+  "Virve Ollikainen"
+ ],
+ "hentet": "2026-11-11",
+ "hentet_fra": "https://www.doria.fi/bitstream/10024/148580/1/t115.pdf",
+ "hvordan": "pdf",
+ "id": "W1593675663",
+ "kilde": "Kagoshima Daigaku Kogakubu Kenkyu Hokoku",
+ "lenke": "https://openalex.org/W1593675663",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "This study evaluates the long-run effects of Finnish active labour market programmes in youth labour markets. The effectiveness of programmes is measured by a number of outcomes, including employment, unemployment, programme participation, education, being out of the labour force and annual earnings. A non-parametric propensity score matching approach adapted for the case of multiple programmes is applied to estimate the average programme effects. Our results point out distinct variation in the success of programmes, and indicate that job placement and labour market training are successful not only in promoting employment but also in increasing the earnings of participants. The largest of all programmes, youth practical training, is not found to have any impacts on young persons? labour market careers. Keywords: active labour market programmes, propensity score, matching, heterogeneous treatment effects JEL classification: C14, J13, J68",
+ "tittel": "Differential Effects of Active Labour Market Programmes in the Early Stages of Young People's Unemployment",
+ "type": "article"
+}

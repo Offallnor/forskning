@@ -1,0 +1,14 @@
+{
+ "ar": 2007,
+ "forfattere": [
+  "Duncan McVicar",
+  "Jan M. Podivinsky"
+ ],
+ "id": "W1509108367",
+ "kilde": "ePrints Soton (University of Southampton)",
+ "lenke": "https://openalex.org/W1509108367",
+ "oversikt": false,
+ "sammendrag": "There is much debate, but surprisingly little evidence, concerning the impact of primarily supply side Welfare to Work programmes in labour markets characterised by weak labour demand. The usual argument is that we might expect Welfare to Work measures to have greater impacts in tight labour markets than in slack ones because more (and perhaps better) job vacancies exist. On the other hand, the added value of such programmes may be lower in tighter labour markets. There may also be heterogeneous programme impacts if the characteristics of the unemployed differ across labour markets. In this paper we explore whether a compulsory Welfare to Work programme for unemployed young people introduced in 1998 – the UK New Deal for Young People – has had differential impacts on the probability of unemployment exits in different local labour markets. Our results show this to be the case, with the programme impact on the hazard rate for exits from unemployment increasing with the local unemployment rate. Disaggregating exits by destinations, however, shows that there exists a negative (positive) relationship between local unemployment rates and the size of the programme impact on the probability of exit to employment (inactivity). Keywords; new deal for young people, mixed proportional hazard models, unemployment, labor demand, competing risks",
+ "tittel": "Does the impact of active labor market programs depend on the state of the labor market? The case of the UK new deal for young people",
+ "type": "book"
+}

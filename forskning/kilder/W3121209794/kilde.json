@@ -1,0 +1,21 @@
+{
+ "apen_url": "https://link.springer.com/content/pdf/10.1007%2Fs13209-017-0155-z.pdf",
+ "ar": 2017,
+ "doi": "https://doi.org/10.2139/ssrn.2923666",
+ "forfattere": [
+  "Samuel Bentolila",
+  "José Ignacio García Pérez",
+  "Marcel Jansen"
+ ],
+ "hentet": "2026-11-10",
+ "hentet_fra": "https://link.springer.com/content/pdf/10.1007%2Fs13209-017-0155-z.pdf",
+ "hvordan": "pdf",
+ "id": "W3121209794",
+ "kilde": "SERIEs",
+ "lenke": "https://openalex.org/W3121209794",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "Long-term unemployment reached unprecedented levels in Spain in the wake of the Great Recession and it still affects around 57% of the unemployed. We document the sources that contributed to the rise in long-term unemployment and analyze its persistence using state-of-the-art duration models. We find pervasive evidence of negative duration dependence, while personal characteristics such as mature age, lack of experience, and entitlement to unemployment benefits are key to understand the cross-sectional differences in the incidence of long-term unemployment. The negative impact of low levels of skill and education is muted by the large share of temporary contracts, but once we restrict attention to employment spells lasting at least 1 month these factors also contribute to a higher risk of long-term unemployment. Surprisingly, workers from the construction sector do not fare worse than similar workers from other sectors. Finally, self-reported reservation wages are found to respond strongly to the cycle, but much less to individual unemployment duration. In view of these findings, we argue that active labor market policies should play a more prominent role in the fight against long-term unemployment while early activation should be used to curb inflows.",
+ "tittel": "Are the Spanish Long-Term Unemployed Unemployable?",
+ "type": "article"
+}

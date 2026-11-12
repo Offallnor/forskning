@@ -1,0 +1,15 @@
+{
+ "apen_url": "http://hdl.handle.net/10017/6632",
+ "ar": 2003,
+ "forfattere": [
+  "José María Arranz Muñoz",
+  "Juan Muro"
+ ],
+ "id": "W2128146391",
+ "kilde": "e_Buah",
+ "lenke": "https://openalex.org/W2128146391",
+ "oversikt": false,
+ "sammendrag": "This paper postulates that the effect of unemployment benefits on the hazard rates changes considerably using a traditional duration model that uses only unemployment insurance (UI) data, or deals with unemployment assistance (UA) as a mere extension of UI, instead of an extra time duration model that accounts separately for transition rates to work of the unemployed who receive UI and UA. For UI recipients the hazard rate rises dramatically when UI benefits lapse approaches. On the contrary, for UA recipients the hazard rate remains flat or even has a slight fall nearby the UA lapse. Finally, there is a group of unemployed qualified for UA that quit UI due to the income fall that they will experience when they pass from UI to UA",
+ "tittel": "An extra time duration model with application to unemployment duration under benefits in Spain",
+ "type": "article"
+}

@@ -1,0 +1,20 @@
+{
+ "apen_url": "https://bmjopen.bmj.com/content/bmjopen/15/2/e098001.full.pdf",
+ "ar": 2025,
+ "doi": "https://doi.org/10.1136/bmjopen-2024-098001",
+ "forfattere": [
+  "Jenni Blomgren",
+  "Riku Perhoniemi"
+ ],
+ "hentet": "før 2026-11-08",
+ "hentet_fra": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11873343/fullTextXML",
+ "hvordan": "Europe PMC",
+ "id": "W4408043658",
+ "kilde": "BMJ Open",
+ "lenke": "https://openalex.org/W4408043658",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "OBJECTIVES: To examine the prevalence and days of long-term sickness absence (LTSA) by occupational class and by most important diagnostic groups in Finland during 2011-2021. DESIGN: Population-based cross-sectional study. SETTING AND PARTICIPANTS: National comprehensive register data were linked for all employed persons and entrepreneurs in Finland aged 25-64 for years 2011-2021 (yearly number of individuals in the study population around 2 million persons). MAIN OUTCOME MEASURES: LTSA was measured by sickness allowance that covers over 10-day long absences. Yearly age-standardised LTSA prevalences and average number of LTSA days were calculated for women and men in four occupational classes, separately for all-cause LTSA and LTSA due to mental disorders, musculoskeletal diseases and injuries. Modified Poisson regression and negative binomial regression models were run to assess relative differences between occupational classes, adjusted for age, marital status, education and region of residence. RESULTS: All-cause LTSA slightly decreased between years 2011 and 2021, but the trends varied by occupational class and diagnostic group. LTSA due to mental disorders increased in all occupational classes after 2016 among both sexes, while LTSA due to musculoskeletal diseases and injuries continued to decrease in all occupational classes. The increase in LTSA due to mental disorders was largest among lower non-manual employees, especially among women, whereby all-cause LTSA prevalence among female lower non-manual employees reached the level of female manual workers. Men showed broadly similar trends, but manual workers still had the highest all-cause LTSA prevalence at the end of the study period. The main results were similar adjusted for covariates. CONCLUSIONS: The magnitude and order of the occupational-class differences in LTSA changed between 2011 and 2021, along with increasing LTSA due to mental disorders, especially among employees, and decreasing LTSA due to somatic diagnoses, especially among manual workers. Occupational-class differences should be taken into account when aiming to prevent LTSA and especially further increases in LTSA due to mental disorders.",
+ "tittel": "Occupational-class trends in diagnosis-specific sickness absence in Finland: a register-based observational study in 2011–2021",
+ "type": "article"
+}
