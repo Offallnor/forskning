@@ -1,6 +1,6 @@
 # Dagpengenes varighet og nivå og overgangen til arbeid: hva viser forskningen?
 
-**Status: utkast, ukontrollert.** Laget 10.11.2026. Tallene er hentet ut av Claude og kontrollert mot sitat og side, men ikke av en fagperson. Hovedkonklusjonen er en vurdering av studiene og bør leses av en fagperson før den brukes videre. Svaret er et internt arbeidsdokument. Det er forskning, ikke lov, forskrift eller regjeringens politikk.
+**Status: utkast, ukontrollert.** Laget 10.11.2026. Tallene er hentet ut av Claude og kontrollert mot sitat og side, men ikke av en fagperson. Hovedkonklusjonen er en vurdering av studiene og bør leses av en fagperson før den brukes videre. Det er forskning, ikke lov eller forskrift.
 
 **Spørsmålet** (mandat godkjent av bestilleren 10.11.2026): Hvordan påvirker hvor lenge man kan få dagpenger, og hvor høye de er, hvor raskt ledige kommer i arbeid og hvor gode jobbene blir?
 

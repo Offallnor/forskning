@@ -21,6 +21,7 @@ MONSTER = [
     (re.compile(r"/mnt/project-files"), "sti til prosjektmappe"),
     (re.compile(r"\b(?:i|fra) departementet\b(?! (?:kan|skal|gir))"), "«departementet» som bestiller eller avsender"),
     (re.compile(r"råd oppover|for saksbehandlere i\b"), "intern mottaker"),
+    (re.compile(r"regjeringens politikk|internt arbeidsdokument", re.I), "tekst som viser at svaret er laget for et departement"),
     (re.compile(r"\b[A-ZÆØÅ]{2,4}/[A-ZÆØÅ]{3}\b"), "mulig seksjonskode"),
     (re.compile(r"[\w.+-]+@(?!users\.noreply\.github\.com)[\w-]+\.[a-z]{2,}"), "e-postadresse"),
 ]

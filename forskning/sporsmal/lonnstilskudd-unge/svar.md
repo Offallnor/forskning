@@ -1,6 +1,6 @@
 # Lønnstilskudd for unge: hva viser forskningen?
 
-**Status: utkast, ukontrollert.** Laget 8.11.2026 i en kaldtest av løypa, kjørt på nytt 9.11.2026 med nye norske kilder fra DFØs Kudos-katalog og Navs bibliotek, og utvidet 11.11.2026 med rapporter bestilleren lastet opp og åpne versjoner funnet med nettsøk. Tallene er hentet ut av Claude og kontrollert mot sitat og side, men ikke av en fagperson. Svaret er et internt arbeidsdokument og er ikke regjeringens politikk.
+**Status: utkast, ukontrollert.** Laget 8.11.2026 i en kaldtest av løypa, kjørt på nytt 9.11.2026 med nye norske kilder fra DFØs Kudos-katalog og Navs bibliotek, og utvidet 11.11.2026 med rapporter bestilleren lastet opp og åpne versjoner funnet med nettsøk. Tallene er hentet ut av Claude og kontrollert mot sitat og side, men ikke av en fagperson.
 
 *Reproduserbarhet:* søk 8.11.2026, med norske kataloger 9.11.2026 og nettsøk etter åpne versjoner 11.11.2026; katalogene som de var 11.11.2026 (commit 49132f4); uttrekk med samme modell som tråden (Opus), blind lesing og blind innholdskontroll med Sonnet; ett blindt utvalg; én av sekstisju kilder i uttrekket bare lest i sammendrag. Den endelige vektingen er en vurdering og bør leses av en fagperson.
 

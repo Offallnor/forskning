@@ -24,7 +24,7 @@ Katalogen har bare rapporter, arbeidsnotater, artikler, kapitler, bøker, oversi
 ## Regler for svar
 
 1. **Lenk alltid** til oppføringen i NVA (`nva`-feltet). Brukeren skal kunne lese studien selv.
-2. **Si hva slags kilde det er.** Dette er forskning, ikke lov, forskrift eller regjeringens politikk. Oppgi forfattere, institusjon og år.
+2. **Si hva slags kilde det er.** Dette er forskning, ikke lov eller forskrift. Oppgi forfattere, institusjon og år.
 3. **Sammendraget står ordrett** slik forfatterne skrev det i NVA. Skill mellom hva studien sier og din egen oppsummering.
 4. **Estimatene er ukontrollerte** til `status` sier noe annet. Si det, og oppgi sitat og side.
 5. **Oversikter holdes for seg.** Slå aldri sammen estimater fra ulike oversikter, eller fra oversikter og enkeltstudier. Bruk kolonnene `samme_oversikt_som`, `oppdaterer`, `oppdatert_av` og `overlapp_med`, og bruk den nyeste oversikten når en er oppdatert.

@@ -1,6 +1,6 @@
 # Egen analyse i microdata.no: dagpengemottakere som bruker opp perioden
 
-**Status: utkast, ikke kjørt.** Laget 10.11.2026 som oppfølging av forskningssvaret om dagpengenes varighet og nivå (`svar.md`). Variabler og kommandoer er sjekket mot kopien av variabelkatalogen og brukerveiledningen for microdata.no, hentet 10.11.2026 (databank versjon 59). Skriptet er ikke prøvd i microdata.no. Det er et internt arbeidsdokument og ikke lov, forskrift eller regjeringens politikk.
+**Status: utkast, ikke kjørt.** Laget 10.11.2026 som oppfølging av forskningssvaret om dagpengenes varighet og nivå (`svar.md`). Variabler og kommandoer er sjekket mot kopien av variabelkatalogen og brukerveiledningen for microdata.no, hentet 10.11.2026 (databank versjon 59). Skriptet er ikke prøvd i microdata.no.
 
 **Før skriptet kjøres** skal opplegget avklares med bestilleren, ett spørsmål om gangen (se under). Forslaget under er et utgangspunkt for den samtalen, ikke en bestilling.
 
