@@ -229,6 +229,14 @@ Et raskt svar kan senere utvides til full løype i samme mappe (se «Gjenoppta e
    - hva referansene og det blinde utvalget fant
    - metningsvurderingen
    - hvilke sentrale kilder som mangler tekst
+8. **Bestilleren ser over utvalget [kontroll]:** når utvalget er mettet og `utvalg.md` er skrevet, send bestilleren en kort liste å se over. Bestilleren kjenner ofte studier som søket ikke finner. Lista skal være kort nok til å bli lest:
+   - de sentrale kildene etter design (oversikter, kategori 1–3), med forfatter, år, land og en halv linje om hva de måler, høyst om lag 25
+   - de norske og nordiske kildene for seg
+   - kjente blindsoner for spørsmålet, for eksempel rapporter på svensk eller dansk, bestilte evalueringer og rapporter på regjeringen.no
+   - et konkret spørsmål: «Mangler det studier du kjenner, eller er noen av disse feil for spørsmålet?»
+   - lenke til hele utvalget (`valgt.txt`) for den som vil se mer
+
+   Send lista i samme melding som kildene som må hentes for hånd (steg 3, punkt 4) når de er klare samtidig. Vent ikke på svar: tekst og uttrekk fortsetter for kildene som er valgt. Kilder bestilleren legger til, føres i `valgt.txt` med kommentaren «fra bestilleren» og tas i en ekstra runde med tekst og uttrekk. Skriv svaret, endringene og datoen i `utvalg.md` under «Gjennomgått av bestilleren».
 
 ## Steg 3: tekst [skript]
 
@@ -292,6 +300,8 @@ Regler for svaret:
 
 ## Steg 5: svar [vurdering]
 
+**Vent på bestillerens gjennomgang.** Svaret skrives ikke før bestilleren har svart på lista over utvalget (steg 2, punkt 8) eller uttrykkelig sagt «fortsett uten». Har bestilleren ikke svart, gi en påminnelse sammen med påminnelsen om kilder som mangler (steg 3, punkt 4). Uttrekk og kontroller av det som er valgt, kan gjøres ferdig i mellomtiden.
+
 **Tall i teksten.** Tall til og med tolv skrives med bokstaver i løpende tekst, tall over tolv med siffer (*tre forsøk*, *14 studier*, *etter 18 måneder*). Estimater, prosent, beløp, konfidensintervaller og tall med målenhet skrives alltid med siffer, også når de er små (*4 prosentpoeng*, *RR 1,22*). Veksle ikke mellom bokstaver og siffer i samme setning når tallene hører sammen (*mellom 6 og 14 år*, ikke *mellom seks og 14 år*). Begynn ikke en setning med siffer, skriv den om (*Av dem er 134 lest i fulltekst*). Regelen følger Språkrådet («Siffer eller tallord?») og de felles skrivereglene. Kontroll 5 sjekker ikke tallene i innledningen eller antall og tidsrom som beskriver studiene (*15 forsøk*, *96 kommuner*, *etter 18 måneder*).
 
 Skriv `svar.md` med disse delene, i denne rekkefølgen:
@@ -343,6 +353,8 @@ Hver påstand har lenke til kilden, med forfatter og år som lenketekst (kontrol
 ## Steg 7: levering
 
 Svaret leveres som Claude Doc eller som tekst til bestilleren, merket «utkast, ukontrollert» til en fagperson har sett det. Si hvilke sentrale kilder som mangler.
+
+**Gjennomgang av utvalget.** Statuslinja øverst i `svar.md` sier «Kildeutvalget er gjennomgått av bestilleren <dato>» eller «Kildeutvalget er ikke gjennomgått av bestilleren». Da synes det i svaret om sjekken er hoppet over.
 
 **Reproduserbarhet.** Øverst i `svar.md`, under innledningen, står en linje med dato for søket, commit for katalogene (`git log -1 --format=%h -- forskning/katalog`), modell for uttrekk og blind lesing, og hvor mange kilder som bare er lest i sammendrag. En stegtest i november 2026 viste at søket gir samme kandidater ved ny kjøring, at to nye synteser lander på samme retning, men at et nytt blindt utvalg bare fikk med 71 prosent av de sterke kildene (84–90 prosent per studie med prioritert rekkefølge, 94–97 prosent med to utvalg på ulike modeller). Den endelige vektingen i det korte svaret er derfor en vurdering, og det korte svaret skal leses av en fagperson før det brukes.
 
