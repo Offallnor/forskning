@@ -1,9 +1,10 @@
 # Kontroll: arbeidstilsyn-effekt
 
-Kjørt 2026-11-09.
+Kjørt 2026-11-14.
 
-0 feil av 1628 kontroller.
+105 feil av 1690 kontroller.
 
+- OBS  10 13 sentrale valgte kilder er ikke lest i fulltekst (1 ikke lest, 12 bare sammendrag; se vedlegg_bc.py). Forbeholdene nevner uleste kilder: sjekk at antallet stemmer.
 - OK   1 kilde 0198cc77bb69-6ac9d5e6-44b2-4fe6-80fa-31466c0e2e2c finnes
 - OK   1 kilde 0198cc8bed64-0b66e210-65c2-44b9-9ce3-6a752ddfeeac finnes
 - OK   1 kilde KU-1b79baf1-41a3-427e-a061-2a65c0cbe804 finnes
@@ -305,12 +306,12 @@ Kjørt 2026-11-09.
 - OK   1 forfatter «Andersen» for KU-2641bb83-a22c-4f58-a12b-5efa4b7c7bf9 står i metadata eller på tittelsiden
 - OK   1 forfatter «Staalesen» for KU-a0d13da0-00dd-4701-af4a-b99c525d4cbb står i metadata eller på tittelsiden
 - OK   1 forfatter «Ingerød» for KU-712a755b-3cfb-4168-99b3-053cd0b09bab står i metadata eller på tittelsiden
-- OK   1 forfatter «Arbeidstilsynet» for KU-ce457f52-1a31-470c-a9e8-d4ce03a6182a står i metadata eller på tittelsiden
-- OK   1 forfatter «Petroleumstilsynet» for KU-1b79baf1-41a3-427e-a061-2a65c0cbe804 står i metadata eller på tittelsiden
+- FEIL 1 forfatter «Arbeidstilsynet» for KU-ce457f52-1a31-470c-a9e8-d4ce03a6182a står IKKE i metadata eller på tittelsiden
+- FEIL 1 forfatter «Petroleumstilsynet» for KU-1b79baf1-41a3-427e-a061-2a65c0cbe804 står IKKE i metadata eller på tittelsiden
 - OK   1 forfatter «Andersen» for W2898876403 står i metadata eller på tittelsiden
 - OK   1 forfatter «Jakobsen» for W4410266078 står i metadata eller på tittelsiden
 - OK   1 forfatter «Ajslev» for W7118537502 står i metadata eller på tittelsiden
-- OK   1 forfatter «Arbetsmiljöverket» for LI-z8mngx5cwh35nnbl står i metadata eller på tittelsiden
+- FEIL 1 forfatter «Arbetsmiljöverket» for LI-z8mngx5cwh35nnbl står IKKE i metadata eller på tittelsiden
 - OK   1 forfatter «Björkdahl» for W1591412842 står i metadata eller på tittelsiden
 - OK   1 forfatter «Myndigheten för arbetsmiljökunskap» for R-6d7e0a4ae6 står i metadata eller på tittelsiden
 - OK   1 forfatter «Tikka» for W1716161898 står i metadata eller på tittelsiden
@@ -344,99 +345,99 @@ Kjørt 2026-11-09.
 - OK   4 rad 2 (W1716161898, skaderate, lang oppfølging (én studie)) estimat innenfor KI
 - OK   2 sitat rad 3 (W1716161898, overlevelse, sysselsetting og salg i vir) står på oppgitt side
 - OK   2 sitat rad 4 (W2417363006, skader og etterlevelse: sterk evidens fo) står på oppgitt side
-- OK   2 sitat rad 5 (W2098026786, skader: begrenset til blandet evidens fo) står på oppgitt side
-- OK   2 sitat rad 6 (W7128726718, arbeidsrelaterte skader, samlet metaanal) står på oppgitt side
+- FEIL 2 sitat rad 5 (W2098026786, skader: begrenset til blandet evidens fo) ble IKKE funnet på oppgitt side
+- FEIL 2 sitat rad 6 (W7128726718, arbeidsrelaterte skader, samlet metaanal) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.75 rad 6 (W7128726718, arbeidsrelaterte skader, samlet metaanal) står i sitatet
 - OK   3 ki_lav=0.57 rad 6 (W7128726718, arbeidsrelaterte skader, samlet metaanal) står i sitatet
 - OK   3 ki_hoy=0.97 rad 6 (W7128726718, arbeidsrelaterte skader, samlet metaanal) står i sitatet
 - OK   4 rad 6 (W7128726718, arbeidsrelaterte skader, samlet metaanal) estimat innenfor KI
 - OK   4 rad 6 (W7128726718, arbeidsrelaterte skader, samlet metaanal) KI symmetrisk på log-skala (avvik 0.02)
-- OK   2 sitat rad 7 (W7128726718, arbeidsrelaterte skader, undergruppe med) står på oppgitt side
+- FEIL 2 sitat rad 7 (W7128726718, arbeidsrelaterte skader, undergruppe med) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.89 rad 7 (W7128726718, arbeidsrelaterte skader, undergruppe med) står i sitatet
 - OK   3 ki_lav=0.83 rad 7 (W7128726718, arbeidsrelaterte skader, undergruppe med) står i sitatet
 - OK   3 ki_hoy=0.96 rad 7 (W7128726718, arbeidsrelaterte skader, undergruppe med) står i sitatet
 - OK   4 rad 7 (W7128726718, arbeidsrelaterte skader, undergruppe med) estimat innenfor KI
 - OK   4 rad 7 (W7128726718, arbeidsrelaterte skader, undergruppe med) KI symmetrisk på log-skala (avvik 0.01)
-- OK   2 sitat rad 8 (W7128726718, manglende etterlevelse av regelverket, s) står på oppgitt side
+- FEIL 2 sitat rad 8 (W7128726718, manglende etterlevelse av regelverket, s) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.68 rad 8 (W7128726718, manglende etterlevelse av regelverket, s) står i sitatet
 - OK   3 ki_lav=0.45 rad 8 (W7128726718, manglende etterlevelse av regelverket, s) står i sitatet
 - OK   3 ki_hoy=1.01 rad 8 (W7128726718, manglende etterlevelse av regelverket, s) står i sitatet
 - OK   4 rad 8 (W7128726718, manglende etterlevelse av regelverket, s) estimat innenfor KI
 - OK   4 rad 8 (W7128726718, manglende etterlevelse av regelverket, s) KI symmetrisk på log-skala (avvik 0.02)
-- OK   2 sitat rad 9 (W1552109825, ikke-dødelige skader, umiddelbar endring) står på oppgitt side
+- FEIL 2 sitat rad 9 (W1552109825, ikke-dødelige skader, umiddelbar endring) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.07 rad 9 (W1552109825, ikke-dødelige skader, umiddelbar endring) står i sitatet
 - OK   3 ki_lav=-2.83 rad 9 (W1552109825, ikke-dødelige skader, umiddelbar endring) står i sitatet
 - OK   3 ki_hoy=2.97 rad 9 (W1552109825, ikke-dødelige skader, umiddelbar endring) står i sitatet
 - OK   4 rad 9 (W1552109825, ikke-dødelige skader, umiddelbar endring) estimat innenfor KI
-- OK   2 sitat rad 10 (W1552109825, ikke-dødelige skader, endring i trend (a) står på oppgitt side
+- FEIL 2 sitat rad 10 (W1552109825, ikke-dødelige skader, endring i trend (a) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.63 rad 10 (W1552109825, ikke-dødelige skader, endring i trend (a) står i sitatet
 - OK   3 ki_lav=-0.35 rad 10 (W1552109825, ikke-dødelige skader, endring i trend (a) står i sitatet
 - OK   3 ki_hoy=1.61 rad 10 (W1552109825, ikke-dødelige skader, endring i trend (a) står i sitatet
 - OK   4 rad 10 (W1552109825, ikke-dødelige skader, endring i trend (a) estimat innenfor KI
-- OK   2 sitat rad 11 (W2232263831, gjennomsnittlig antall brudd ved arbeid ) står på oppgitt side
+- FEIL 2 sitat rad 11 (W2232263831, gjennomsnittlig antall brudd ved arbeid ) ble IKKE funnet på oppgitt side
 - OK   3 estimat=1.8 rad 11 (W2232263831, gjennomsnittlig antall brudd ved arbeid ) står i sitatet
-- OK   2 sitat rad 12 (W7212868501, skader med fravær (DAFW) i virksomheter ) står på oppgitt side
+- FEIL 2 sitat rad 12 (W7212868501, skader med fravær (DAFW) i virksomheter ) ble IKKE funnet på oppgitt side
 - OK   3 estimat=11 rad 12 (W7212868501, skader med fravær (DAFW) i virksomheter ) står i sitatet
-- OK   2 sitat rad 13 (W7212868501, skader med fravær i nabovirksomheter i s) står på oppgitt side
+- FEIL 2 sitat rad 13 (W7212868501, skader med fravær i nabovirksomheter i s) ble IKKE funnet på oppgitt side
 - OK   3 estimat=-2.35 rad 13 (W7212868501, skader med fravær i nabovirksomheter i s) står i sitatet
 - OK   3 ki_lav=-4.26 rad 13 (W7212868501, skader med fravær i nabovirksomheter i s) står i sitatet
 - OK   3 ki_hoy=-0.58 rad 13 (W7212868501, skader med fravær i nabovirksomheter i s) står i sitatet
 - OK   4 rad 13 (W7212868501, skader med fravær i nabovirksomheter i s) estimat innenfor KI
-- OK   2 sitat rad 14 (W7212868501, antall unngåtte skader med fravær per år) står på oppgitt side
+- FEIL 2 sitat rad 14 (W7212868501, antall unngåtte skader med fravær per år) ble IKKE funnet på oppgitt side
 - OK   3 estimat=3.0 rad 14 (W7212868501, antall unngåtte skader med fravær per år) står i sitatet
-- OK   2 sitat rad 15 (W7212868501, antall færre skader med fravær per år i ) står på oppgitt side
+- FEIL 2 sitat rad 15 (W7212868501, antall færre skader med fravær per år i ) ble IKKE funnet på oppgitt side
 - OK   3 estimat=4.3 rad 15 (W7212868501, antall færre skader med fravær per år i ) står i sitatet
-- OK   2 sitat rad 16 (W2760591304, alvorlige skader med fravær (DAFW) over ) står på oppgitt side
+- FEIL 2 sitat rad 16 (W2760591304, alvorlige skader med fravær (DAFW) over ) ble IKKE funnet på oppgitt side
 - OK   3 estimat=9 rad 16 (W2760591304, alvorlige skader med fravær (DAFW) over ) står i sitatet
-- OK   2 sitat rad 17 (W2760591304, antall færre skader med fravær over fem ) står på oppgitt side
+- FEIL 2 sitat rad 17 (W2760591304, antall færre skader med fravær over fem ) ble IKKE funnet på oppgitt side
 - OK   3 estimat=2.4 rad 17 (W2760591304, antall færre skader med fravær over fem ) står i sitatet
-- OK   2 sitat rad 18 (W2760591304, skader med fravær per år, effekt av fakt) står på oppgitt side
+- FEIL 2 sitat rad 18 (W2760591304, skader med fravær per år, effekt av fakt) ble IKKE funnet på oppgitt side
 - OK   3 estimat=8.7 rad 18 (W2760591304, skader med fravær per år, effekt av fakt) står i sitatet
-- OK   2 sitat rad 19 (W2760591304, unngåtte skader ved målretting mot virks) står på oppgitt side
+- FEIL 2 sitat rad 19 (W2760591304, unngåtte skader ved målretting mot virks) ble IKKE funnet på oppgitt side
 - OK   3 estimat=2 rad 19 (W2760591304, unngåtte skader ved målretting mot virks) står i sitatet
-- OK   2 sitat rad 20 (W3122924749, dødsrisiko i virksomheten etter første p) står på oppgitt side
+- FEIL 2 sitat rad 20 (W3122924749, dødsrisiko i virksomheten etter første p) ble IKKE funnet på oppgitt side
 - OK   3 estimat=50 rad 20 (W3122924749, dødsrisiko i virksomheten etter første p) står i sitatet
-- OK   2 sitat rad 21 (W3122924749, dødsfall per 10 000 produksjonsarbeidere) står på oppgitt side
+- FEIL 2 sitat rad 21 (W3122924749, dødsfall per 10 000 produksjonsarbeidere) ble IKKE funnet på oppgitt side
 - OK   3 estimat=1.4 rad 21 (W3122924749, dødsfall per 10 000 produksjonsarbeidere) står i sitatet
-- OK   2 sitat rad 22 (W3122924749, antall brudd ved andre tilsyn sammenlign) står på oppgitt side
+- FEIL 2 sitat rad 22 (W3122924749, antall brudd ved andre tilsyn sammenlign) ble IKKE funnet på oppgitt side
 - OK   3 estimat=70 rad 22 (W3122924749, antall brudd ved andre tilsyn sammenlign) står i sitatet
-- OK   2 sitat rad 23 (W3122924749, produktivitet per produksjonsarbeider et) står på oppgitt side
+- FEIL 2 sitat rad 23 (W3122924749, produktivitet per produksjonsarbeider et) ble IKKE funnet på oppgitt side
 - OK   3 estimat=10 rad 23 (W3122924749, produktivitet per produksjonsarbeider et) står i sitatet
-- OK   2 sitat rad 24 (W3122924749, Nedgang i dødsfall på anlegget etter pro) står på oppgitt side
+- FEIL 2 sitat rad 24 (W3122924749, Nedgang i dødsfall på anlegget etter pro) ble IKKE funnet på oppgitt side
 - OK   3 estimat=56 rad 24 (W3122924749, Nedgang i dødsfall på anlegget etter pro) står i sitatet
-- OK   2 sitat rad 25 (W4389580105, kunnskapskart uten effektestimater; tils) står på oppgitt side
-- OK   2 sitat rad 26 (W4281637930, ikke-dødelige skader, gjengitt fra Hogg-) står på oppgitt side
+- FEIL 2 sitat rad 25 (W4389580105, kunnskapskart uten effektestimater; tils) ble IKKE funnet på oppgitt side
+- FEIL 2 sitat rad 26 (W4281637930, ikke-dødelige skader, gjengitt fra Hogg-) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.99 rad 26 (W4281637930, ikke-dødelige skader, gjengitt fra Hogg-) står i sitatet
 - OK   3 ki_lav=0.90 rad 26 (W4281637930, ikke-dødelige skader, gjengitt fra Hogg-) står i sitatet
 - OK   3 ki_hoy=1.09 rad 26 (W4281637930, ikke-dødelige skader, gjengitt fra Hogg-) står i sitatet
 - OK   4 rad 26 (W4281637930, ikke-dødelige skader, gjengitt fra Hogg-) estimat innenfor KI
 - OK   4 rad 26 (W4281637930, ikke-dødelige skader, gjengitt fra Hogg-) KI symmetrisk på log-skala (avvik 0.00)
-- OK   2 sitat rad 27 (W4281637930, skader, mellomlang oppfølging, gjengitt ) står på oppgitt side
+- FEIL 2 sitat rad 27 (W4281637930, skader, mellomlang oppfølging, gjengitt ) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.95 rad 27 (W4281637930, skader, mellomlang oppfølging, gjengitt ) står i sitatet
 - OK   3 ki_lav=0.91 rad 27 (W4281637930, skader, mellomlang oppfølging, gjengitt ) står i sitatet
 - OK   3 ki_hoy=0.98 rad 27 (W4281637930, skader, mellomlang oppfølging, gjengitt ) står i sitatet
 - OK   4 rad 27 (W4281637930, skader, mellomlang oppfølging, gjengitt ) estimat innenfor KI
 - OK   4 rad 27 (W4281637930, skader, mellomlang oppfølging, gjengitt ) KI symmetrisk på log-skala (avvik 0.01)
-- OK   2 sitat rad 28 (W4281637930, skader, gjengitt fra Foley 2012 (tilsyn ) står på oppgitt side
+- FEIL 2 sitat rad 28 (W4281637930, skader, gjengitt fra Foley 2012 (tilsyn ) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.96 rad 28 (W4281637930, skader, gjengitt fra Foley 2012 (tilsyn ) står i sitatet
 - OK   3 ki_lav=0.92 rad 28 (W4281637930, skader, gjengitt fra Foley 2012 (tilsyn ) står i sitatet
 - OK   3 ki_hoy=0.99 rad 28 (W4281637930, skader, gjengitt fra Foley 2012 (tilsyn ) står i sitatet
 - OK   4 rad 28 (W4281637930, skader, gjengitt fra Foley 2012 (tilsyn ) estimat innenfor KI
 - OK   4 rad 28 (W4281637930, skader, gjengitt fra Foley 2012 (tilsyn ) KI symmetrisk på log-skala (avvik 0.01)
-- OK   2 sitat rad 29 (W4281637930, skader, gjengitt fra Farina 2013 (progra) står på oppgitt side
+- FEIL 2 sitat rad 29 (W4281637930, skader, gjengitt fra Farina 2013 (progra) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.81 rad 29 (W4281637930, skader, gjengitt fra Farina 2013 (progra) står i sitatet
 - OK   3 ki_lav=0.67 rad 29 (W4281637930, skader, gjengitt fra Farina 2013 (progra) står i sitatet
 - OK   3 ki_hoy=0.99 rad 29 (W4281637930, skader, gjengitt fra Farina 2013 (progra) står i sitatet
 - OK   4 rad 29 (W4281637930, skader, gjengitt fra Farina 2013 (progra) estimat innenfor KI
 - OK   4 rad 29 (W4281637930, skader, gjengitt fra Farina 2013 (progra) KI symmetrisk på log-skala (avvik 0.01)
-- OK   2 sitat rad 30 (W4281637930, samlet vurdering: begrenset evidens for ) står på oppgitt side
-- OK   2 sitat rad 31 (W4281637930, Ulykker ved langtidsoppfølging (over 36 ) står på oppgitt side
+- FEIL 2 sitat rad 30 (W4281637930, samlet vurdering: begrenset evidens for ) ble IKKE funnet på oppgitt side
+- FEIL 2 sitat rad 31 (W4281637930, Ulykker ved langtidsoppfølging (over 36 ) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.77 rad 31 (W4281637930, Ulykker ved langtidsoppfølging (over 36 ) står i sitatet
 - OK   3 ki_lav=0.64 rad 31 (W4281637930, Ulykker ved langtidsoppfølging (over 36 ) står i sitatet
 - OK   3 ki_hoy=0.92 rad 31 (W4281637930, Ulykker ved langtidsoppfølging (over 36 ) står i sitatet
 - OK   4 rad 31 (W4281637930, Ulykker ved langtidsoppfølging (over 36 ) estimat innenfor KI
 - OK   4 rad 31 (W4281637930, Ulykker ved langtidsoppfølging (over 36 ) KI symmetrisk på log-skala (avvik 0.01)
-- OK   2 sitat rad 32 (W4281637930, Ulykker ved kort oppfølging (under 12 må) står på oppgitt side
+- FEIL 2 sitat rad 32 (W4281637930, Ulykker ved kort oppfølging (under 12 må) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.86 rad 32 (W4281637930, Ulykker ved kort oppfølging (under 12 må) står i sitatet
 - OK   3 ki_lav=0.77 rad 32 (W4281637930, Ulykker ved kort oppfølging (under 12 må) står i sitatet
 - OK   3 ki_hoy=0.95 rad 32 (W4281637930, Ulykker ved kort oppfølging (under 12 må) står i sitatet
@@ -448,13 +449,13 @@ Kjørt 2026-11-09.
 - OK   3 estimat=26 rad 35 (W2048175567, skadekostnader (nedgang); KI oppgitt som) står i sitatet
 - OK   2 sitat rad 36 (W2048175567, sysselsetting, salg, kredittvurdering og) står på oppgitt side
 - OK   2 sitat rad 37 (W2607517915, skader med fravær, restriksjon eller omp) står på oppgitt side
-- OK   2 sitat rad 38 (W3026143771, DART-rate (skader med fravær, restriksjo) står på oppgitt side
+- FEIL 2 sitat rad 38 (W3026143771, DART-rate (skader med fravær, restriksjo) ble IKKE funnet på oppgitt side
 - OK   3 estimat=-1.607 rad 38 (W3026143771, DART-rate (skader med fravær, restriksjo) står i sitatet
-- OK   2 sitat rad 39 (W3026143771, DART-rate, effekten av tilsyn uttrykt so) står på oppgitt side
+- FEIL 2 sitat rad 39 (W3026143771, DART-rate, effekten av tilsyn uttrykt so) ble IKKE funnet på oppgitt side
 - OK   3 estimat=20 rad 39 (W3026143771, DART-rate, effekten av tilsyn uttrykt so) står i sitatet
-- OK   2 sitat rad 40 (W3026143771, total skaderate (TCR) per 100 årsverk, i) står på oppgitt side
+- FEIL 2 sitat rad 40 (W3026143771, total skaderate (TCR) per 100 årsverk, i) ble IKKE funnet på oppgitt side
 - OK   3 estimat=-0.569 rad 40 (W3026143771, total skaderate (TCR) per 100 årsverk, i) står i sitatet
-- OK   2 sitat rad 41 (W3026143771, DART-rate per 100 årsverk i industrien, ) står på oppgitt side
+- FEIL 2 sitat rad 41 (W3026143771, DART-rate per 100 årsverk i industrien, ) ble IKKE funnet på oppgitt side
 - OK   3 estimat=-1.257 rad 41 (W3026143771, DART-rate per 100 årsverk i industrien, ) står i sitatet
 - OK   2 sitat rad 42 (W3031883595, etterlevelse hos andre virksomheter: ant) står på oppgitt side
 - OK   3 estimat=210 rad 42 (W3031883595, etterlevelse hos andre virksomheter: ant) står i sitatet
@@ -467,157 +468,157 @@ Kjørt 2026-11-09.
 - OK   3 estimat=6 rad 48 (W3034320574, produktivitet per gruvearbeider (nedgang) står i sitatet
 - OK   2 sitat rad 49 (W3034320574, verdien av produktivitetstapet i forhold) står på oppgitt side
 - OK   3 estimat=1.3 rad 49 (W3034320574, verdien av produktivitetstapet i forhold) står i sitatet
-- OK   2 sitat rad 50 (W2794504103, ikke-dødelige skader, endring i nivå (ef) står på oppgitt side
+- FEIL 2 sitat rad 50 (W2794504103, ikke-dødelige skader, endring i nivå (ef) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.07 rad 50 (W2794504103, ikke-dødelige skader, endring i nivå (ef) står i sitatet
 - OK   3 ki_lav=-2.83 rad 50 (W2794504103, ikke-dødelige skader, endring i nivå (ef) står i sitatet
 - OK   3 ki_hoy=2.97 rad 50 (W2794504103, ikke-dødelige skader, endring i nivå (ef) står i sitatet
 - OK   4 rad 50 (W2794504103, ikke-dødelige skader, endring i nivå (ef) estimat innenfor KI
-- OK   2 sitat rad 51 (W2794504103, ikke-dødelige skader, endring i trend (e) står på oppgitt side
+- FEIL 2 sitat rad 51 (W2794504103, ikke-dødelige skader, endring i trend (e) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.63 rad 51 (W2794504103, ikke-dødelige skader, endring i trend (e) står i sitatet
 - OK   3 ki_lav=-0.35 rad 51 (W2794504103, ikke-dødelige skader, endring i trend (e) står i sitatet
 - OK   3 ki_hoy=1.61 rad 51 (W2794504103, ikke-dødelige skader, endring i trend (e) står i sitatet
 - OK   4 rad 51 (W2794504103, ikke-dødelige skader, endring i trend (e) estimat innenfor KI
-- OK   2 sitat rad 52 (W2794504103, dødelige og ikke-dødelige skader, umidde) står på oppgitt side
+- FEIL 2 sitat rad 52 (W2794504103, dødelige og ikke-dødelige skader, umidde) ble IKKE funnet på oppgitt side
 - OK   3 estimat=-0.33 rad 52 (W2794504103, dødelige og ikke-dødelige skader, umidde) står i sitatet
 - OK   3 ki_lav=-2.08 rad 52 (W2794504103, dødelige og ikke-dødelige skader, umidde) står i sitatet
 - OK   3 ki_hoy=1.41 rad 52 (W2794504103, dødelige og ikke-dødelige skader, umidde) står i sitatet
 - OK   4 rad 52 (W2794504103, dødelige og ikke-dødelige skader, umidde) estimat innenfor KI
 - OK   2 sitat rad 53 (W3121380471, antall og alvorlighet av sanksjoner øker) står på oppgitt side
-- OK   2 sitat rad 54 (W890430879, skader i virksomheter som fikk tilsyn me) står på oppgitt side
+- FEIL 2 sitat rad 54 (W890430879, skader i virksomheter som fikk tilsyn me) ble IKKE funnet på oppgitt side
 - OK   3 estimat=22 rad 54 (W890430879, skader i virksomheter som fikk tilsyn me) står i sitatet
-- OK   2 sitat rad 55 (W890430879, generell avskrekking: samlet nedgang i s) står på oppgitt side
+- FEIL 2 sitat rad 55 (W890430879, generell avskrekking: samlet nedgang i s) ble IKKE funnet på oppgitt side
 - OK   3 estimat=2 rad 55 (W890430879, generell avskrekking: samlet nedgang i s) står i sitatet
-- OK   2 sitat rad 56 (W890430879, nedgang i yrkesskadekrav (workers' compe) står på oppgitt side
+- FEIL 2 sitat rad 56 (W890430879, nedgang i yrkesskadekrav (workers' compe) ble IKKE funnet på oppgitt side
 - OK   3 estimat=22.5 rad 56 (W890430879, nedgang i yrkesskadekrav (workers' compe) står i sitatet
-- OK   2 sitat rad 57 (W890430879, andel tilsyn som fikk arbeidsgiver til å) står på oppgitt side
+- FEIL 2 sitat rad 57 (W890430879, andel tilsyn som fikk arbeidsgiver til å) ble IKKE funnet på oppgitt side
 - OK   3 estimat=43 rad 57 (W890430879, andel tilsyn som fikk arbeidsgiver til å) står i sitatet
-- OK   2 sitat rad 58 (0198cc8bed64-0b66e210-65c2-44b9-9ce3-6a752ddfeeac, sterk evidens for at tilsyn med sanksjon) står på oppgitt side
+- FEIL 2 sitat rad 58 (0198cc8bed64-0b66e210-65c2-44b9-9ce3-6a752ddfeeac, sterk evidens for at tilsyn med sanksjon) ble IKKE funnet på oppgitt side
 - OK   3 estimat=13 rad 58 (0198cc8bed64-0b66e210-65c2-44b9-9ce3-6a752ddfeeac, sterk evidens for at tilsyn med sanksjon) står i sitatet
-- OK   2 sitat rad 59 (0198cc8bed64-0b66e210-65c2-44b9-9ce3-6a752ddfeeac, moderat evidens for at tilsyn med sanksj) står på oppgitt side
+- FEIL 2 sitat rad 59 (0198cc8bed64-0b66e210-65c2-44b9-9ce3-6a752ddfeeac, moderat evidens for at tilsyn med sanksj) ble IKKE funnet på oppgitt side
 - OK   3 estimat=5 rad 59 (0198cc8bed64-0b66e210-65c2-44b9-9ce3-6a752ddfeeac, moderat evidens for at tilsyn med sanksj) står i sitatet
-- OK   2 sitat rad 60 (0198cc8bed64-0b66e210-65c2-44b9-9ce3-6a752ddfeeac, begrenset evidens for at veiledende/rådg) står på oppgitt side
+- FEIL 2 sitat rad 60 (0198cc8bed64-0b66e210-65c2-44b9-9ce3-6a752ddfeeac, begrenset evidens for at veiledende/rådg) ble IKKE funnet på oppgitt side
 - OK   3 estimat=3 rad 60 (0198cc8bed64-0b66e210-65c2-44b9-9ce3-6a752ddfeeac, begrenset evidens for at veiledende/rådg) står i sitatet
-- OK   2 sitat rad 62 (0198cc77bb69-6ac9d5e6-44b2-4fe6-80fa-31466c0e2e2c, forskjell i antall brudd på regelverket ) står på oppgitt side
+- FEIL 2 sitat rad 62 (0198cc77bb69-6ac9d5e6-44b2-4fe6-80fa-31466c0e2e2c, forskjell i antall brudd på regelverket ) ble IKKE funnet på oppgitt side
 - OK   3 estimat=-2.91 rad 62 (0198cc77bb69-6ac9d5e6-44b2-4fe6-80fa-31466c0e2e2c, forskjell i antall brudd på regelverket ) står i sitatet
-- OK   2 sitat rad 63 (0198cc77bb69-6ac9d5e6-44b2-4fe6-80fa-31466c0e2e2c, ingen påvisbar effekt av tilsyn eller ve) står på oppgitt side
-- OK   2 sitat rad 64 (W4297325253, ingen signifikant effekt av tilsyn på ps) står på oppgitt side
-- OK   2 sitat rad 65 (W4388017094, legemeldte sykedager med muskel-skjelett) står på oppgitt side
+- FEIL 2 sitat rad 63 (0198cc77bb69-6ac9d5e6-44b2-4fe6-80fa-31466c0e2e2c, ingen påvisbar effekt av tilsyn eller ve) ble IKKE funnet på oppgitt side
+- FEIL 2 sitat rad 64 (W4297325253, ingen signifikant effekt av tilsyn på ps) ble IKKE funnet på oppgitt side
+- FEIL 2 sitat rad 65 (W4388017094, legemeldte sykedager med muskel-skjelett) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.89 rad 65 (W4388017094, legemeldte sykedager med muskel-skjelett) står i sitatet
 - OK   3 ki_lav=0.50 rad 65 (W4388017094, legemeldte sykedager med muskel-skjelett) står i sitatet
 - OK   3 ki_hoy=1.59 rad 65 (W4388017094, legemeldte sykedager med muskel-skjelett) står i sitatet
 - OK   4 rad 65 (W4388017094, legemeldte sykedager med muskel-skjelett) estimat innenfor KI
 - OK   4 rad 65 (W4388017094, legemeldte sykedager med muskel-skjelett) KI symmetrisk på log-skala (avvik 0.00)
-- OK   2 sitat rad 66 (W4388017094, legemeldte sykefraværsperioder med muske) står på oppgitt side
+- FEIL 2 sitat rad 66 (W4388017094, legemeldte sykefraværsperioder med muske) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.93 rad 66 (W4388017094, legemeldte sykefraværsperioder med muske) står i sitatet
 - OK   3 ki_lav=0.72 rad 66 (W4388017094, legemeldte sykefraværsperioder med muske) står i sitatet
 - OK   3 ki_hoy=1.21 rad 66 (W4388017094, legemeldte sykefraværsperioder med muske) står i sitatet
 - OK   4 rad 66 (W4388017094, legemeldte sykefraværsperioder med muske) estimat innenfor KI
 - OK   4 rad 66 (W4388017094, legemeldte sykefraværsperioder med muske) KI symmetrisk på log-skala (avvik 0.01)
-- OK   2 sitat rad 67 (W4388017094, Dager med legemeldt sykefravær 18 månede) står på oppgitt side
+- FEIL 2 sitat rad 67 (W4388017094, Dager med legemeldt sykefravær 18 månede) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.82 rad 67 (W4388017094, Dager med legemeldt sykefravær 18 månede) står i sitatet
 - OK   3 ki_lav=0.42 rad 67 (W4388017094, Dager med legemeldt sykefravær 18 månede) står i sitatet
 - OK   3 ki_hoy=1.60 rad 67 (W4388017094, Dager med legemeldt sykefravær 18 månede) står i sitatet
 - OK   4 rad 67 (W4388017094, Dager med legemeldt sykefravær 18 månede) estimat innenfor KI
 - OK   4 rad 67 (W4388017094, Dager med legemeldt sykefravær 18 månede) KI symmetrisk på log-skala (avvik 0.00)
-- OK   2 sitat rad 68 (W4388017094, Dager med legemeldt sykefravær 18 månede) står på oppgitt side
+- FEIL 2 sitat rad 68 (W4388017094, Dager med legemeldt sykefravær 18 månede) ble IKKE funnet på oppgitt side
 - OK   3 estimat=1.08 rad 68 (W4388017094, Dager med legemeldt sykefravær 18 månede) står i sitatet
 - OK   3 ki_lav=0.35 rad 68 (W4388017094, Dager med legemeldt sykefravær 18 månede) står i sitatet
 - OK   3 ki_hoy=3.31 rad 68 (W4388017094, Dager med legemeldt sykefravær 18 månede) står i sitatet
 - OK   4 rad 68 (W4388017094, Dager med legemeldt sykefravær 18 månede) estimat innenfor KI
 - OK   4 rad 68 (W4388017094, Dager med legemeldt sykefravær 18 månede) KI symmetrisk på log-skala (avvik 0.01)
-- OK   2 sitat rad 69 (W4407765445, færre brudd på regelverket totalt ved sl) står på oppgitt side
+- FEIL 2 sitat rad 69 (W4407765445, færre brudd på regelverket totalt ved sl) ble IKKE funnet på oppgitt side
 - OK   3 estimat=-2.91 rad 69 (W4407765445, færre brudd på regelverket totalt ved sl) står i sitatet
 - OK   3 ki_lav=-5.70 rad 69 (W4407765445, færre brudd på regelverket totalt ved sl) står i sitatet
 - OK   3 ki_hoy=-0.12 rad 69 (W4407765445, færre brudd på regelverket totalt ved sl) står i sitatet
 - OK   4 rad 69 (W4407765445, færre brudd på regelverket totalt ved sl) estimat innenfor KI
-- OK   2 sitat rad 70 (W4407765445, færre brudd på krav om psykososiale forh) står på oppgitt side
+- FEIL 2 sitat rad 70 (W4407765445, færre brudd på krav om psykososiale forh) ble IKKE funnet på oppgitt side
 - OK   3 estimat=-1.63 rad 70 (W4407765445, færre brudd på krav om psykososiale forh) står i sitatet
 - OK   3 ki_lav=-2.87 rad 70 (W4407765445, færre brudd på krav om psykososiale forh) står i sitatet
 - OK   3 ki_hoy=-0.40 rad 70 (W4407765445, færre brudd på krav om psykososiale forh) står i sitatet
 - OK   4 rad 70 (W4407765445, færre brudd på krav om psykososiale forh) estimat innenfor KI
-- OK   2 sitat rad 71 (W4407765445, færre brudd på krav om ergonomiske forho) står på oppgitt side
+- FEIL 2 sitat rad 71 (W4407765445, færre brudd på krav om ergonomiske forho) ble IKKE funnet på oppgitt side
 - OK   3 estimat=-0.65 rad 71 (W4407765445, færre brudd på krav om ergonomiske forho) står i sitatet
 - OK   3 ki_lav=-1.28 rad 71 (W4407765445, færre brudd på krav om ergonomiske forho) står i sitatet
 - OK   3 ki_hoy=-0.03 rad 71 (W4407765445, færre brudd på krav om ergonomiske forho) står i sitatet
 - OK   4 rad 71 (W4407765445, færre brudd på krav om ergonomiske forho) estimat innenfor KI
-- OK   2 sitat rad 72 (W4407765445, endring i antall brudd på krav om psykos) står på oppgitt side
+- FEIL 2 sitat rad 72 (W4407765445, endring i antall brudd på krav om psykos) ble IKKE funnet på oppgitt side
 - OK   3 estimat=-1.12 rad 72 (W4407765445, endring i antall brudd på krav om psykos) står i sitatet
-- OK   2 sitat rad 73 (W4309467245, ledere i tilsynsgruppen rapporterte ofte) står på oppgitt side
-- OK   2 sitat rad 74 (W7118537502, andel dialogbaserte tilsynsavtaler (ATP)) står på oppgitt side
+- FEIL 2 sitat rad 73 (W4309467245, ledere i tilsynsgruppen rapporterte ofte) ble IKKE funnet på oppgitt side
+- FEIL 2 sitat rad 74 (W7118537502, andel dialogbaserte tilsynsavtaler (ATP)) ble IKKE funnet på oppgitt side
 - OK   3 estimat=44 rad 74 (W7118537502, andel dialogbaserte tilsynsavtaler (ATP)) står i sitatet
-- OK   2 sitat rad 75 (W7118537502, andel påbud (strakspåbud og påbud med fr) står på oppgitt side
+- FEIL 2 sitat rad 75 (W7118537502, andel påbud (strakspåbud og påbud med fr) ble IKKE funnet på oppgitt side
 - OK   3 estimat=3 rad 75 (W7118537502, andel påbud (strakspåbud og påbud med fr) står i sitatet
-- OK   2 sitat rad 76 (W7118537502, antall virksomheter som oppfylte en dial) står på oppgitt side
+- FEIL 2 sitat rad 76 (W7118537502, antall virksomheter som oppfylte en dial) ble IKKE funnet på oppgitt side
 - OK   3 estimat=2335 rad 76 (W7118537502, antall virksomheter som oppfylte en dial) står i sitatet
-- OK   2 sitat rad 78 (KU-a0d13da0-00dd-4701-af4a-b99c525d4cbb, evalueringen vurderte ikke effekter selv) står på oppgitt side
-- OK   2 sitat rad 81 (KU-712a755b-3cfb-4168-99b3-053cd0b09bab, andel virksomheter med minst ett brudd v) står på oppgitt side
+- FEIL 2 sitat rad 78 (KU-a0d13da0-00dd-4701-af4a-b99c525d4cbb, evalueringen vurderte ikke effekter selv) ble IKKE funnet på oppgitt side
+- FEIL 2 sitat rad 81 (KU-712a755b-3cfb-4168-99b3-053cd0b09bab, andel virksomheter med minst ett brudd v) ble IKKE funnet på oppgitt side
 - OK   3 estimat=72 rad 81 (KU-712a755b-3cfb-4168-99b3-053cd0b09bab, andel virksomheter med minst ett brudd v) står i sitatet
-- OK   2 sitat rad 82 (KU-712a755b-3cfb-4168-99b3-053cd0b09bab, andel virksomheter med minst ett brudd v) står på oppgitt side
+- FEIL 2 sitat rad 82 (KU-712a755b-3cfb-4168-99b3-053cd0b09bab, andel virksomheter med minst ett brudd v) ble IKKE funnet på oppgitt side
 - OK   3 estimat=68 rad 82 (KU-712a755b-3cfb-4168-99b3-053cd0b09bab, andel virksomheter med minst ett brudd v) står i sitatet
-- OK   2 sitat rad 83 (KU-712a755b-3cfb-4168-99b3-053cd0b09bab, andel virksomheter med minst ett brudd v) står på oppgitt side
+- FEIL 2 sitat rad 83 (KU-712a755b-3cfb-4168-99b3-053cd0b09bab, andel virksomheter med minst ett brudd v) ble IKKE funnet på oppgitt side
 - OK   3 estimat=66 rad 83 (KU-712a755b-3cfb-4168-99b3-053cd0b09bab, andel virksomheter med minst ett brudd v) står i sitatet
-- OK   2 sitat rad 84 (KU-712a755b-3cfb-4168-99b3-053cd0b09bab, andel virksomheter med brudd ved påfølge) står på oppgitt side
+- FEIL 2 sitat rad 84 (KU-712a755b-3cfb-4168-99b3-053cd0b09bab, andel virksomheter med brudd ved påfølge) ble IKKE funnet på oppgitt side
 - OK   3 estimat=56 rad 84 (KU-712a755b-3cfb-4168-99b3-053cd0b09bab, andel virksomheter med brudd ved påfølge) står i sitatet
-- OK   2 sitat rad 85 (KU-ce457f52-1a31-470c-a9e8-d4ce03a6182a, andel vedtatte pålegg i 2023 som ble inn) står på oppgitt side
+- FEIL 2 sitat rad 85 (KU-ce457f52-1a31-470c-a9e8-d4ce03a6182a, andel vedtatte pålegg i 2023 som ble inn) ble IKKE funnet på oppgitt side
 - OK   3 estimat=83 rad 85 (KU-ce457f52-1a31-470c-a9e8-d4ce03a6182a, andel vedtatte pålegg i 2023 som ble inn) står i sitatet
-- OK   2 sitat rad 86 (KU-ce457f52-1a31-470c-a9e8-d4ce03a6182a, andel vedtatte pålegg i 2023 som ble inn) står på oppgitt side
+- FEIL 2 sitat rad 86 (KU-ce457f52-1a31-470c-a9e8-d4ce03a6182a, andel vedtatte pålegg i 2023 som ble inn) ble IKKE funnet på oppgitt side
 - OK   3 estimat=16 rad 86 (KU-ce457f52-1a31-470c-a9e8-d4ce03a6182a, andel vedtatte pålegg i 2023 som ble inn) står i sitatet
-- OK   2 sitat rad 89 (KU-1b79baf1-41a3-427e-a061-2a65c0cbe804, evalueringen finner ingen målbar effekt ) står på oppgitt side
-- OK   2 sitat rad 97 (W2898876403, arbeidsskader etter tilsyn, samlet metaa) står på oppgitt side
+- FEIL 2 sitat rad 89 (KU-1b79baf1-41a3-427e-a061-2a65c0cbe804, evalueringen finner ingen målbar effekt ) ble IKKE funnet på oppgitt side
+- FEIL 2 sitat rad 97 (W2898876403, arbeidsskader etter tilsyn, samlet metaa) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.83 rad 97 (W2898876403, arbeidsskader etter tilsyn, samlet metaa) står i sitatet
 - OK   3 ki_lav=0.73 rad 97 (W2898876403, arbeidsskader etter tilsyn, samlet metaa) står i sitatet
 - OK   3 ki_hoy=0.93 rad 97 (W2898876403, arbeidsskader etter tilsyn, samlet metaa) står i sitatet
 - OK   4 rad 97 (W2898876403, arbeidsskader etter tilsyn, samlet metaa) estimat innenfor KI
 - OK   4 rad 97 (W2898876403, arbeidsskader etter tilsyn, samlet metaa) KI symmetrisk på log-skala (avvik 0.01)
-- OK   2 sitat rad 98 (W2898876403, etterlevelse (brudd) etter tilsyn, samle) står på oppgitt side
+- FEIL 2 sitat rad 98 (W2898876403, etterlevelse (brudd) etter tilsyn, samle) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.65 rad 98 (W2898876403, etterlevelse (brudd) etter tilsyn, samle) står i sitatet
 - OK   3 ki_lav=0.50 rad 98 (W2898876403, etterlevelse (brudd) etter tilsyn, samle) står i sitatet
 - OK   3 ki_hoy=0.83 rad 98 (W2898876403, etterlevelse (brudd) etter tilsyn, samle) står i sitatet
 - OK   4 rad 98 (W2898876403, etterlevelse (brudd) etter tilsyn, samle) estimat innenfor KI
 - OK   4 rad 98 (W2898876403, etterlevelse (brudd) etter tilsyn, samle) KI symmetrisk på log-skala (avvik 0.02)
-- OK   2 sitat rad 99 (W2898876403, nedgang i forekomsten av ulykker årene e) står på oppgitt side
+- FEIL 2 sitat rad 99 (W2898876403, nedgang i forekomsten av ulykker årene e) ble IKKE funnet på oppgitt side
 - OK   3 estimat=9 rad 99 (W2898876403, nedgang i forekomsten av ulykker årene e) står i sitatet
-- OK   2 sitat rad 100 (W2898876403, nedgang i alvorlige ulykker med personsk) står på oppgitt side
+- FEIL 2 sitat rad 100 (W2898876403, nedgang i alvorlige ulykker med personsk) ble IKKE funnet på oppgitt side
 - OK   3 estimat=13 rad 100 (W2898876403, nedgang i alvorlige ulykker med personsk) står i sitatet
-- OK   2 sitat rad 103 (KU-2641bb83-a22c-4f58-a12b-5efa4b7c7bf9, tilsyn fra Arbeidstilsynet henger sammen) står på oppgitt side
-- OK   2 sitat rad 104 (KU-2641bb83-a22c-4f58-a12b-5efa4b7c7bf9, andel virksomheter med tilsyn siste to å) står på oppgitt side
+- FEIL 2 sitat rad 103 (KU-2641bb83-a22c-4f58-a12b-5efa4b7c7bf9, tilsyn fra Arbeidstilsynet henger sammen) ble IKKE funnet på oppgitt side
+- FEIL 2 sitat rad 104 (KU-2641bb83-a22c-4f58-a12b-5efa4b7c7bf9, andel virksomheter med tilsyn siste to å) ble IKKE funnet på oppgitt side
 - OK   3 estimat=65 rad 104 (KU-2641bb83-a22c-4f58-a12b-5efa4b7c7bf9, andel virksomheter med tilsyn siste to å) står i sitatet
-- OK   2 sitat rad 107 (LI-20167586, skoler med mangler i det systematiske ar) står på oppgitt side
+- FEIL 2 sitat rad 107 (LI-20167586, skoler med mangler i det systematiske ar) ble IKKE funnet på oppgitt side
 - OK   3 estimat=9 rad 107 (LI-20167586, skoler med mangler i det systematiske ar) står i sitatet
-- OK   2 sitat rad 108 (LI-20167586, antall vitesforelegg (tvangsmulkt) der k) står på oppgitt side
+- FEIL 2 sitat rad 108 (LI-20167586, antall vitesforelegg (tvangsmulkt) der k) ble IKKE funnet på oppgitt side
 - OK   3 estimat=250 rad 108 (LI-20167586, antall vitesforelegg (tvangsmulkt) der k) står i sitatet
-- OK   2 sitat rad 109 (LI-z8mngx5cwh35nnbl, tilsyn 2015–2017 bidro signifikant til b) står på oppgitt side
-- OK   2 sitat rad 110 (LI-7h2w2s3q5bp7szp7, andel inspiserte arbeidssteder som fikk ) står på oppgitt side
+- FEIL 2 sitat rad 109 (LI-z8mngx5cwh35nnbl, tilsyn 2015–2017 bidro signifikant til b) ble IKKE funnet på oppgitt side
+- FEIL 2 sitat rad 110 (LI-7h2w2s3q5bp7szp7, andel inspiserte arbeidssteder som fikk ) ble IKKE funnet på oppgitt side
 - OK   3 estimat=87 rad 110 (LI-7h2w2s3q5bp7szp7, andel inspiserte arbeidssteder som fikk ) står i sitatet
-- OK   2 sitat rad 112 (W4410266078, andel virksomheter som oppfylte dialogba) står på oppgitt side
+- FEIL 2 sitat rad 112 (W4410266078, andel virksomheter som oppfylte dialogba) ble IKKE funnet på oppgitt side
 - OK   3 estimat=73 rad 112 (W4410266078, andel virksomheter som oppfylte dialogba) står i sitatet
-- OK   2 sitat rad 113 (W4410266078, oppfyllelse av ATP-avtale, justert) står på oppgitt side
+- FEIL 2 sitat rad 113 (W4410266078, oppfyllelse av ATP-avtale, justert) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.70 rad 113 (W4410266078, oppfyllelse av ATP-avtale, justert) står i sitatet
 - OK   3 ki_lav=0.53 rad 113 (W4410266078, oppfyllelse av ATP-avtale, justert) står i sitatet
 - OK   3 ki_hoy=0.92 rad 113 (W4410266078, oppfyllelse av ATP-avtale, justert) står i sitatet
 - OK   4 rad 113 (W4410266078, oppfyllelse av ATP-avtale, justert) estimat innenfor KI
 - OK   4 rad 113 (W4410266078, oppfyllelse av ATP-avtale, justert) KI symmetrisk på log-skala (avvik 0.00)
-- OK   2 sitat rad 114 (W4410266078, oppfyllelse av ATP-avtale, justert) står på oppgitt side
+- FEIL 2 sitat rad 114 (W4410266078, oppfyllelse av ATP-avtale, justert) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.6 rad 114 (W4410266078, oppfyllelse av ATP-avtale, justert) står i sitatet
 - OK   3 ki_lav=0.46 rad 114 (W4410266078, oppfyllelse av ATP-avtale, justert) står i sitatet
 - OK   3 ki_hoy=0.80 rad 114 (W4410266078, oppfyllelse av ATP-avtale, justert) står i sitatet
 - OK   4 rad 114 (W4410266078, oppfyllelse av ATP-avtale, justert) estimat innenfor KI
 - OK   4 rad 114 (W4410266078, oppfyllelse av ATP-avtale, justert) KI symmetrisk på log-skala (avvik 0.02)
-- OK   2 sitat rad 115 (W4410266078, oppfyllelse av ATP-avtale, justert) står på oppgitt side
+- FEIL 2 sitat rad 115 (W4410266078, oppfyllelse av ATP-avtale, justert) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.75 rad 115 (W4410266078, oppfyllelse av ATP-avtale, justert) står i sitatet
 - OK   3 ki_lav=0.58 rad 115 (W4410266078, oppfyllelse av ATP-avtale, justert) står i sitatet
 - OK   3 ki_hoy=0.98 rad 115 (W4410266078, oppfyllelse av ATP-avtale, justert) står i sitatet
 - OK   4 rad 115 (W4410266078, oppfyllelse av ATP-avtale, justert) estimat innenfor KI
 - OK   4 rad 115 (W4410266078, oppfyllelse av ATP-avtale, justert) KI symmetrisk på log-skala (avvik 0.01)
-- OK   2 sitat rad 116 (W4410266078, oppfyllelse av ATP-avtale, justert (35–9) står på oppgitt side
+- FEIL 2 sitat rad 116 (W4410266078, oppfyllelse av ATP-avtale, justert (35–9) ble IKKE funnet på oppgitt side
 - OK   3 estimat=1.48 rad 116 (W4410266078, oppfyllelse av ATP-avtale, justert (35–9) står i sitatet
 - OK   3 ki_lav=1.08 rad 116 (W4410266078, oppfyllelse av ATP-avtale, justert (35–9) står i sitatet
 - OK   3 ki_hoy=2.02 rad 116 (W4410266078, oppfyllelse av ATP-avtale, justert (35–9) står i sitatet
 - OK   4 rad 116 (W4410266078, oppfyllelse av ATP-avtale, justert (35–9) estimat innenfor KI
 - OK   4 rad 116 (W4410266078, oppfyllelse av ATP-avtale, justert (35–9) KI symmetrisk på log-skala (avvik 0.00)
-- OK   2 sitat rad 117 (R-6d7e0a4ae6, andel saker der mangelen som utløste san) står på oppgitt side
+- FEIL 2 sitat rad 117 (R-6d7e0a4ae6, andel saker der mangelen som utløste san) ble IKKE funnet på oppgitt side
 - OK   3 estimat=90 rad 117 (R-6d7e0a4ae6, andel saker der mangelen som utløste san) står i sitatet
-- OK   2 sitat rad 118 (R-6d7e0a4ae6, økning i antall reaksjoner for arbeidsmi) står på oppgitt side
+- FEIL 2 sitat rad 118 (R-6d7e0a4ae6, økning i antall reaksjoner for arbeidsmi) ble IKKE funnet på oppgitt side
 - OK   3 estimat=10 rad 118 (R-6d7e0a4ae6, økning i antall reaksjoner for arbeidsmi) står i sitatet
 - OK   2 sitat rad 121 (W2111592442, virksomheter med tilsyn hadde signifikan) står på oppgitt side
 - OK   2 sitat rad 122 (W1591412842, gjennomsnittlig antall typer støytiltak ) står på oppgitt side
@@ -626,18 +627,18 @@ Kjørt 2026-11-09.
 - OK   3 estimat=7 rad 123 (W1591412842, handlingsplaner mot støy sju ganger vanl) står i sitatet
 - OK   2 sitat rad 124 (W1591412842, Antall typer støytiltak gjennomført ette) står på oppgitt side
 - OK   3 estimat=0.8 rad 124 (W1591412842, Antall typer støytiltak gjennomført ette) står i sitatet
-- OK   2 sitat rad 126 (W4393377150, sannsynlighet for nytt OSHA-brudd i alle) står på oppgitt side
+- FEIL 2 sitat rad 126 (W4393377150, sannsynlighet for nytt OSHA-brudd i alle) ble IKKE funnet på oppgitt side
 - OK   3 estimat=7.1 rad 126 (W4393377150, sannsynlighet for nytt OSHA-brudd i alle) står i sitatet
-- OK   2 sitat rad 127 (W4393377150, relativ nedgang i sannsynligheten for ny) står på oppgitt side
+- FEIL 2 sitat rad 127 (W4393377150, relativ nedgang i sannsynligheten for ny) ble IKKE funnet på oppgitt side
 - OK   3 estimat=22.5 rad 127 (W4393377150, relativ nedgang i sannsynligheten for ny) står i sitatet
-- OK   2 sitat rad 128 (W4393377150, økt sannsynlighet for brudd i en delstat) står på oppgitt side
+- FEIL 2 sitat rad 128 (W4393377150, økt sannsynlighet for brudd i en delstat) ble IKKE funnet på oppgitt side
 - OK   3 estimat=6.9 rad 128 (W4393377150, økt sannsynlighet for brudd i en delstat) står i sitatet
 - OK   2 sitat rad 129 (W2013964255, føderal håndheving gir færre ikke-dødeli) står på oppgitt side
-- OK   2 sitat rad 130 (W2109614526, nedgang i skader med fravær etter OSHA-t) står på oppgitt side
+- FEIL 2 sitat rad 130 (W2109614526, nedgang i skader med fravær etter OSHA-t) ble IKKE funnet på oppgitt side
 - OK   3 estimat=15 rad 130 (W2109614526, nedgang i skader med fravær etter OSHA-t) står i sitatet
-- OK   2 sitat rad 131 (W2109614526, nedgang i skader med fravær etter OSHA-t) står på oppgitt side
+- FEIL 2 sitat rad 131 (W2109614526, nedgang i skader med fravær etter OSHA-t) ble IKKE funnet på oppgitt side
 - OK   3 estimat=8 rad 131 (W2109614526, nedgang i skader med fravær etter OSHA-t) står i sitatet
-- OK   2 sitat rad 132 (W2109614526, nedgang i skader med fravær etter OSHA-t) står på oppgitt side
+- FEIL 2 sitat rad 132 (W2109614526, nedgang i skader med fravær etter OSHA-t) ble IKKE funnet på oppgitt side
 - OK   3 estimat=1 rad 132 (W2109614526, nedgang i skader med fravær etter OSHA-t) står i sitatet
 - OK   2 sitat rad 134 (W2041184998, nedgang i skader med fravær per år de to) står på oppgitt side
 - OK   3 estimat=19 rad 134 (W2041184998, nedgang i skader med fravær per år de to) står i sitatet
@@ -654,9 +655,9 @@ Kjørt 2026-11-09.
 - OK   2 sitat rad 141 (W4400981977, økning i erstatningskrav med fravær førs) står på oppgitt side
 - OK   3 estimat=12 rad 141 (W4400981977, økning i erstatningskrav med fravær førs) står i sitatet
 - OK   2 sitat rad 142 (W3111451647, tilsyn påvirker generelt ikke akutte ska) står på oppgitt side
-- OK   2 sitat rad 143 (W3159137599, unngåtte erstatningskrav per år to år et) står på oppgitt side
+- FEIL 2 sitat rad 143 (W3159137599, unngåtte erstatningskrav per år to år et) ble IKKE funnet på oppgitt side
 - OK   3 estimat=14000 rad 143 (W3159137599, unngåtte erstatningskrav per år to år et) står i sitatet
-- OK   2 sitat rad 144 (W3159137599, ingen forskjell i erstatningskrav før og) står på oppgitt side
+- FEIL 2 sitat rad 144 (W3159137599, ingen forskjell i erstatningskrav før og) ble IKKE funnet på oppgitt side
 - OK   2 sitat rad 145 (W2078525502, færre erstatningskrav for hørselsskade e) står på oppgitt side
 - OK   2 sitat rad 148 (W2026426461, årlig forekomst av karpaltunnelsyndrom p) står på oppgitt side
 - OK   3 estimat=3.8 rad 148 (W2026426461, årlig forekomst av karpaltunnelsyndrom p) står i sitatet
@@ -675,10 +676,10 @@ Kjørt 2026-11-09.
 - OK   3 ki_lav=-2.5 rad 156 (W2120269123, årlig endring i skaderate før innføring ) står i sitatet
 - OK   3 ki_hoy=7.4 rad 156 (W2120269123, årlig endring i skaderate før innføring ) står i sitatet
 - OK   4 rad 156 (W2120269123, årlig endring i skaderate før innføring ) estimat innenfor KI
-- OK   2 sitat rad 157 (W1682734445, flere tilsyn per arbeider henger sammen ) står på oppgitt side
-- OK   2 sitat rad 158 (W3081675128, andel påviste risikoer som ble rettet et) står på oppgitt side
+- FEIL 2 sitat rad 157 (W1682734445, flere tilsyn per arbeider henger sammen ) ble IKKE funnet på oppgitt side
+- FEIL 2 sitat rad 158 (W3081675128, andel påviste risikoer som ble rettet et) ble IKKE funnet på oppgitt side
 - OK   3 estimat=82 rad 158 (W3081675128, andel påviste risikoer som ble rettet et) står i sitatet
-- OK   2 sitat rad 159 (W3081675128, andel påviste risikoer som ble rettet et) står på oppgitt side
+- FEIL 2 sitat rad 159 (W3081675128, andel påviste risikoer som ble rettet et) ble IKKE funnet på oppgitt side
 - OK   3 estimat=25 rad 159 (W3081675128, andel påviste risikoer som ble rettet et) står i sitatet
 - OK   2 sitat rad 162 (W2271999475, synkende skaderate i bygg og lavere enn ) står på oppgitt side
 - OK   2 sitat rad 163 (W3003298692, forskjell i endring i total skaderate fr) står på oppgitt side
@@ -691,7 +692,7 @@ Kjørt 2026-11-09.
 - OK   3 ki_lav=-7.84 rad 164 (W3003298692, forskjell i endring i rate for alvorlige) står i sitatet
 - OK   3 ki_hoy=7.31 rad 164 (W3003298692, forskjell i endring i rate for alvorlige) står i sitatet
 - OK   4 rad 164 (W3003298692, forskjell i endring i rate for alvorlige) estimat innenfor KI
-- OK   2 sitat rad 165 (W4411021912, ingen effektestimat; tematisk oversikt o) står på oppgitt side
+- FEIL 2 sitat rad 165 (W4411021912, ingen effektestimat; tematisk oversikt o) ble IKKE funnet på oppgitt side
 - OK   2 sitat rad 166 (W1578291642, nedgang i antall påpekte brudd fra først) står på oppgitt side
 - OK   3 estimat=28 rad 166 (W1578291642, nedgang i antall påpekte brudd fra først) står i sitatet
 - OK   2 sitat rad 167 (W1578291642, økning i antall påpekte brudd over fem å) står på oppgitt side
@@ -706,14 +707,14 @@ Kjørt 2026-11-09.
 - OK   3 estimat=-2.3 rad 172 (W2093998534, endring i erstatningskrav etter veiledni) står i sitatet
 - OK   2 sitat rad 173 (W2017476784, tilsyn på byggeplasser har ingen effekt ) står på oppgitt side
 - OK   2 sitat rad 174 (W2064673619, inspektører med autonomistøttende stil g) står på oppgitt side
-- OK   2 sitat rad 179 (W2617392673, økning i antall MSHA-tilsyn året etter e) står på oppgitt side
+- FEIL 2 sitat rad 179 (W2617392673, økning i antall MSHA-tilsyn året etter e) ble IKKE funnet på oppgitt side
 - OK   3 estimat=31 rad 179 (W2617392673, økning i antall MSHA-tilsyn året etter e) står i sitatet
-- OK   2 sitat rad 180 (W2617392673, nedgang i mindre alvorlige ulykker andre) står på oppgitt side
+- FEIL 2 sitat rad 180 (W2617392673, nedgang i mindre alvorlige ulykker andre) ble IKKE funnet på oppgitt side
 - OK   3 estimat=14 rad 180 (W2617392673, nedgang i mindre alvorlige ulykker andre) står i sitatet
 - OK   2 sitat rad 181 (W3025477067, gjentatte brudd på samme standard ved se) står på oppgitt side
-- OK   2 sitat rad 182 (W3003782755, nedgang i ulykkesrate ved 10 % flere til) står på oppgitt side
+- FEIL 2 sitat rad 182 (W3003782755, nedgang i ulykkesrate ved 10 % flere til) ble IKKE funnet på oppgitt side
 - OK   3 estimat=1.68 rad 182 (W3003782755, nedgang i ulykkesrate ved 10 % flere til) står i sitatet
-- OK   2 sitat rad 183 (W3003782755, Elastisitet: log av ulykkesrate mot log ) står på oppgitt side
+- FEIL 2 sitat rad 183 (W3003782755, Elastisitet: log av ulykkesrate mot log ) ble IKKE funnet på oppgitt side
 - OK   3 estimat=-0.1774 rad 183 (W3003782755, Elastisitet: log av ulykkesrate mot log ) står i sitatet
 - OK   2 sitat rad 184 (W2133122013, årlig nedgang i alvorlige skader per 10 ) står på oppgitt side
 - OK   3 estimat=0.21 rad 184 (W2133122013, årlig nedgang i alvorlige skader per 10 ) står i sitatet
@@ -735,13 +736,13 @@ Kjørt 2026-11-09.
 - OK   2 sitat rad 191 (W4285588693, flere OSHA-tilsyn og særlig veiledningsb) står på oppgitt side
 - OK   2 sitat rad 192 (W7168453949, lavere ulykkesrate året etter et OSHA-ti) står på oppgitt side
 - OK   3 estimat=2 rad 192 (W7168453949, lavere ulykkesrate året etter et OSHA-ti) står i sitatet
-- OK   2 sitat rad 193 (W4399344217, årlig nedgang i antall skader per 100 00) står på oppgitt side
+- FEIL 2 sitat rad 193 (W4399344217, årlig nedgang i antall skader per 100 00) ble IKKE funnet på oppgitt side
 - OK   3 estimat=121.8 rad 193 (W4399344217, årlig nedgang i antall skader per 100 00) står i sitatet
-- OK   2 sitat rad 194 (W4399344217, korrelasjon mellom antall tilsyn og skad) står på oppgitt side
+- FEIL 2 sitat rad 194 (W4399344217, korrelasjon mellom antall tilsyn og skad) ble IKKE funnet på oppgitt side
 - OK   3 estimat=-0.872 rad 194 (W4399344217, korrelasjon mellom antall tilsyn og skad) står i sitatet
-- OK   2 sitat rad 195 (W4399344217, korrelasjon mellom antall tilsyn og skad) står på oppgitt side
+- FEIL 2 sitat rad 195 (W4399344217, korrelasjon mellom antall tilsyn og skad) ble IKKE funnet på oppgitt side
 - OK   3 estimat=-0.601 rad 195 (W4399344217, korrelasjon mellom antall tilsyn og skad) står i sitatet
-- OK   2 sitat rad 196 (W4399344217, Årlig nedgang i dødsulykker per 100 000 ) står på oppgitt side
+- FEIL 2 sitat rad 196 (W4399344217, Årlig nedgang i dødsulykker per 100 000 ) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.16 rad 196 (W4399344217, Årlig nedgang i dødsulykker per 100 000 ) står i sitatet
 - OK   5 tallet 0.65 i svaret finnes i estimat- eller statistikktabellen
 - OK   5 tallet 0.68 i svaret finnes i estimat- eller statistikktabellen
@@ -754,7 +755,6 @@ Kjørt 2026-11-09.
 - OK   5 tallet 15 i svaret finnes i estimat- eller statistikktabellen
 - OK   5 tallet 19 i svaret finnes i estimat- eller statistikktabellen
 - OK   5 tallet 20 i svaret finnes i estimat- eller statistikktabellen
-- OK   5 tallet 21 i svaret finnes i estimat- eller statistikktabellen
 - OK   5 tallet 210 i svaret finnes i estimat- eller statistikktabellen
 - OK   5 tallet 22.5 i svaret finnes i estimat- eller statistikktabellen
 - OK   5 tallet 23 i svaret finnes i estimat- eller statistikktabellen
@@ -762,7 +762,6 @@ Kjørt 2026-11-09.
 - OK   5 tallet 25 i svaret finnes i estimat- eller statistikktabellen
 - OK   5 tallet 26 i svaret finnes i estimat- eller statistikktabellen
 - OK   5 tallet 28 i svaret finnes i estimat- eller statistikktabellen
-- OK   5 tallet 30 i svaret finnes i estimat- eller statistikktabellen
 - OK   5 tallet 36 i svaret finnes i estimat- eller statistikktabellen
 - OK   5 tallet 48 i svaret finnes i estimat- eller statistikktabellen
 - OK   5 tallet 66 i svaret finnes i estimat- eller statistikktabellen
@@ -1632,3 +1631,67 @@ Kjørt 2026-11-09.
 - OK   6 utelatt W2504040258 «Findings From the National Machine Guarding Program–A Small Business I» (2016) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
 - OK   6 utelatt W4410704488 «Who should manage worker safety to reduce occupational accidents?» (2025) – annet tema enn effekt av offentlig arbeidsmiljøtilsyn (vurdert på tittel)
 - OK   6 utelatt W7160693982 «Advancing Automated OSHA Compliance Analysis in Construction through P» (2026) – teknologi eller modellering for inspeksjon eller risiko, ikke effekt av offentlig tilsyn
+- OK   9 kort-svar-blind.md finnes
+- OK   9 innholdskontroll har raden «kort svar»
+- OK   9 blind lesing 0198cc77bb69-6ac9d5e6-44b2-4fe6-80fa-31466c0e2e2c i budskap.tsv
+- OK   9 blind lesing 0198cc8bed64-0b66e210-65c2-44b9-9ce3-6a752ddfeeac i budskap.tsv
+- OK   9 blind lesing KU-1b79baf1-41a3-427e-a061-2a65c0cbe804 i budskap.tsv
+- OK   9 blind lesing KU-2641bb83-a22c-4f58-a12b-5efa4b7c7bf9 i budskap.tsv
+- OK   9 blind lesing KU-712a755b-3cfb-4168-99b3-053cd0b09bab i budskap.tsv
+- OK   9 blind lesing KU-a0d13da0-00dd-4701-af4a-b99c525d4cbb i budskap.tsv
+- OK   9 blind lesing KU-ce457f52-1a31-470c-a9e8-d4ce03a6182a i budskap.tsv
+- OK   9 blind lesing LI-z8mngx5cwh35nnbl i budskap.tsv
+- OK   9 blind lesing R-6d7e0a4ae6 i budskap.tsv
+- OK   9 blind lesing W1578291642 i budskap.tsv
+- OK   9 blind lesing W1591412842 i budskap.tsv
+- OK   9 blind lesing W1682734445 i budskap.tsv
+- OK   9 blind lesing W1716161898 i budskap.tsv
+- OK   9 blind lesing W1986102684 i budskap.tsv
+- OK   9 blind lesing W2013964255 i budskap.tsv
+- OK   9 blind lesing W2017476784 i budskap.tsv
+- OK   9 blind lesing W2035386983 i budskap.tsv
+- OK   9 blind lesing W2041184998 i budskap.tsv
+- OK   9 blind lesing W2048175567 i budskap.tsv
+- OK   9 blind lesing W2064673619 i budskap.tsv
+- OK   9 blind lesing W2093998534 i budskap.tsv
+- OK   9 blind lesing W2094628007 i budskap.tsv
+- OK   9 blind lesing W2098026786 i budskap.tsv
+- OK   9 blind lesing W2109614526 i budskap.tsv
+- OK   9 blind lesing W2111592442 i budskap.tsv
+- OK   9 blind lesing W2120269123 i budskap.tsv
+- OK   9 blind lesing W2133122013 i budskap.tsv
+- OK   9 blind lesing W2138094971 i budskap.tsv
+- OK   9 blind lesing W2232263831 i budskap.tsv
+- OK   9 blind lesing W2285511036 i budskap.tsv
+- OK   9 blind lesing W2306445029 i budskap.tsv
+- OK   9 blind lesing W2417363006 i budskap.tsv
+- OK   9 blind lesing W2607517915 i budskap.tsv
+- OK   9 blind lesing W2760591304 i budskap.tsv
+- OK   9 blind lesing W2794504103 i budskap.tsv
+- OK   9 blind lesing W2898876403 i budskap.tsv
+- OK   9 blind lesing W2948444906 i budskap.tsv
+- OK   9 blind lesing W3003298692 i budskap.tsv
+- OK   9 blind lesing W3003782755 i budskap.tsv
+- OK   9 blind lesing W3026143771 i budskap.tsv
+- OK   9 blind lesing W3031883595 i budskap.tsv
+- OK   9 blind lesing W3034320574 i budskap.tsv
+- OK   9 blind lesing W3081675128 i budskap.tsv
+- OK   9 blind lesing W3111451647 i budskap.tsv
+- OK   9 blind lesing W3121380471 i budskap.tsv
+- OK   9 blind lesing W3122924749 i budskap.tsv
+- OK   9 blind lesing W3159137599 i budskap.tsv
+- OK   9 blind lesing W4281637930 i budskap.tsv
+- OK   9 blind lesing W4285588693 i budskap.tsv
+- OK   9 blind lesing W4297325253 i budskap.tsv
+- OK   9 blind lesing W4309467245 i budskap.tsv
+- OK   9 blind lesing W4388017094 i budskap.tsv
+- OK   9 blind lesing W4389580105 i budskap.tsv
+- OK   9 blind lesing W4390587839 i budskap.tsv
+- OK   9 blind lesing W4393377150 i budskap.tsv
+- OK   9 blind lesing W4400981977 i budskap.tsv
+- OK   9 blind lesing W4407765445 i budskap.tsv
+- OK   9 blind lesing W4410266078 i budskap.tsv
+- OK   9 blind lesing W7118537502 i budskap.tsv
+- OK   9 blind lesing W7128726718 i budskap.tsv
+- OK   9 blind lesing W7212868501 i budskap.tsv
+- OK   9 blind lesing W890430879 i budskap.tsv

@@ -292,9 +292,11 @@ Regler for svaret:
 
 ## Steg 5: svar [vurdering]
 
+**Tall i teksten.** Tall til og med tolv skrives med bokstaver i løpende tekst, tall over tolv med siffer (*tre forsøk*, *14 studier*, *etter 18 måneder*). Estimater, prosent, beløp, konfidensintervaller og tall med målenhet skrives alltid med siffer, også når de er små (*4 prosentpoeng*, *RR 1,22*). Veksle ikke mellom bokstaver og siffer i samme setning når tallene hører sammen (*mellom 6 og 14 år*, ikke *mellom seks og 14 år*). Begynn ikke en setning med siffer, skriv den om (*Av dem er 134 lest i fulltekst*). Regelen følger Språkrådet («Siffer eller tallord?») og de felles skrivereglene. Kontroll 5 sjekker ikke tallene i innledningen eller antall og tidsrom som beskriver studiene (*15 forsøk*, *96 kommuner*, *etter 18 måneder*).
+
 Skriv `svar.md` med disse delene, i denne rekkefølgen:
 
-- en innledning om kildegrunnlaget, med antall kilder i fulltekst og bare sammendrag, skrevet med bokstaver
+- en innledning om kildegrunnlaget, med antall kilder i fulltekst og bare sammendrag
 - kort svar
 - statistikk med figurer, når mandatet ber om det (se «Tilvalg: statistikk»)
 - funn gruppert etter design, i lesbar tekst med få tall per avsnitt (alle tallene står i vedlegg A). Evalueringer av forvaltningen står til slutt i et eget avsnitt med forbeholdet i overskriften.

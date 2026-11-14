@@ -1,9 +1,10 @@
 # Kontroll: gradert-sykmelding
 
-Kjørt 2026-11-10.
+Kjørt 2026-11-14.
 
-0 feil av 1343 kontroller.
+167 feil av 1339 kontroller.
 
+- OBS  10 14 sentrale valgte kilder er ikke lest i fulltekst (0 ikke lest, 14 bare sammendrag; se vedlegg_bc.py). Forbeholdene nevner uleste kilder: sjekk at antallet stemmer.
 - OK   1 kilde 0198cc8d6f08-8af27b58-5e7a-47d1-8504-4bc4b0361a42 finnes
 - OK   1 kilde 019904aa7986-0e4c2361-eb33-4871-9ab3-47b965597085 finnes
 - OK   1 kilde AV-2007-3-05 finnes
@@ -258,8 +259,8 @@ Kjørt 2026-11-10.
 - OK   1 forfatter «Kools» for W2805335844 står i metadata eller på tittelsiden
 - OK   1 forfatter «Markussen» for W1501193741 står i metadata eller på tittelsiden
 - OK   1 forfatter «Kann» for AV-2007-3-05 står i metadata eller på tittelsiden
-- OK   1 forfatter «Lie» for KU-7799f411-4c20-4a1a-aa6f-5aa52fbc9eab står i metadata eller på tittelsiden
-- OK   1 forfatter «Lie» for KU-b027fe4b-4bf4-433e-b689-b7d06086b095 står i metadata eller på tittelsiden
+- FEIL 1 forfatter «Lie» for KU-7799f411-4c20-4a1a-aa6f-5aa52fbc9eab står IKKE i metadata eller på tittelsiden
+- FEIL 1 forfatter «Lie» for KU-b027fe4b-4bf4-433e-b689-b7d06086b095 står IKKE i metadata eller på tittelsiden
 - OK   1 forfatter «Kausto» for W2132658439 står i metadata eller på tittelsiden
 - OK   1 forfatter «Viikari-Juntura» for W2744665053 står i metadata eller på tittelsiden
 - OK   1 forfatter «Viikari-Juntura» for W2896121459 står i metadata eller på tittelsiden
@@ -304,161 +305,161 @@ Kjørt 2026-11-10.
 - OK   1 forfatter «Godøy» for W2473929489 står i metadata eller på tittelsiden
 - OK   1 forfatter «Mattila-Holappa» for W3170959179 står i metadata eller på tittelsiden
 - OK   1 forfatter «Dorrington» for W2799283105 står i metadata eller på tittelsiden
-- OK   2 sitat rad 1 (W2048984013, retur til arbeid (varig ≥4 uker), muskel) står på oppgitt side
+- FEIL 2 sitat rad 1 (W2048984013, retur til arbeid (varig ≥4 uker), muskel) ble IKKE funnet på oppgitt side
 - OK   3 estimat=1.76 rad 1 (W2048984013, retur til arbeid (varig ≥4 uker), muskel) står i sitatet
 - OK   3 ki_lav=1.21 rad 1 (W2048984013, retur til arbeid (varig ≥4 uker), muskel) står i sitatet
 - OK   3 ki_hoy=2.56 rad 1 (W2048984013, retur til arbeid (varig ≥4 uker), muskel) står i sitatet
 - OK   4 rad 1 (W2048984013, retur til arbeid (varig ≥4 uker), muskel) estimat innenfor KI
 - OK   4 rad 1 (W2048984013, retur til arbeid (varig ≥4 uker), muskel) KI symmetrisk på log-skala (avvik 0.00)
-- OK   2 sitat rad 2 (W2048984013, retur til arbeid (varig ≥4 uker), juster) står på oppgitt side
+- FEIL 2 sitat rad 2 (W2048984013, retur til arbeid (varig ≥4 uker), juster) ble IKKE funnet på oppgitt side
 - OK   3 estimat=1.60 rad 2 (W2048984013, retur til arbeid (varig ≥4 uker), juster) står i sitatet
 - OK   3 ki_lav=0.98 rad 2 (W2048984013, retur til arbeid (varig ≥4 uker), juster) står i sitatet
 - OK   3 ki_hoy=2.63 rad 2 (W2048984013, retur til arbeid (varig ≥4 uker), juster) står i sitatet
 - OK   4 rad 2 (W2048984013, retur til arbeid (varig ≥4 uker), juster) estimat innenfor KI
 - OK   4 rad 2 (W2048984013, retur til arbeid (varig ≥4 uker), juster) KI symmetrisk på log-skala (avvik 0.01)
-- OK   2 sitat rad 3 (W2048984013, samlet sykefravær over 12 måneder) står på oppgitt side
+- FEIL 2 sitat rad 3 (W2048984013, samlet sykefravær over 12 måneder) ble IKKE funnet på oppgitt side
 - OK   3 estimat=20 rad 3 (W2048984013, samlet sykefravær over 12 måneder) står i sitatet
-- OK   2 sitat rad 4 (W2013503454, smerte, funksjon, helserelatert livskval) står på oppgitt side
-- OK   2 sitat rad 5 (W2744665053, varig retur til arbeid (≥28 dager)) står på oppgitt side
+- FEIL 2 sitat rad 4 (W2013503454, smerte, funksjon, helserelatert livskval) ble IKKE funnet på oppgitt side
+- FEIL 2 sitat rad 5 (W2744665053, varig retur til arbeid (≥28 dager)) ble IKKE funnet på oppgitt side
 - OK   3 estimat=8.0 rad 5 (W2744665053, varig retur til arbeid (≥28 dager)) står i sitatet
 - OK   3 ki_lav=5.3 rad 5 (W2744665053, varig retur til arbeid (≥28 dager)) står i sitatet
 - OK   3 ki_hoy=10.9 rad 5 (W2744665053, varig retur til arbeid (≥28 dager)) står i sitatet
 - OK   4 rad 5 (W2744665053, varig retur til arbeid (≥28 dager)) estimat innenfor KI
-- OK   2 sitat rad 6 (W2744665053, andel tid i arbeid over to år) står på oppgitt side
+- FEIL 2 sitat rad 6 (W2744665053, andel tid i arbeid over to år) ble IKKE funnet på oppgitt side
 - OK   3 estimat=10.5 rad 6 (W2744665053, andel tid i arbeid over to år) står i sitatet
-- OK   2 sitat rad 7 (W2896121459, trygdekostnader per person per år (reduk) står på oppgitt side
+- FEIL 2 sitat rad 7 (W2896121459, trygdekostnader per person per år (reduk) ble IKKE funnet på oppgitt side
 - OK   3 estimat=2395 rad 7 (W2896121459, trygdekostnader per person per år (reduk) står i sitatet
-- OK   2 sitat rad 8 (W2116716741, varighet av sykefraværet (nedre grense i) står på oppgitt side
+- FEIL 2 sitat rad 8 (W2116716741, varighet av sykefraværet (nedre grense i) ble IKKE funnet på oppgitt side
 - OK   3 estimat=70 rad 8 (W2116716741, varighet av sykefraværet (nedre grense i) står i sitatet
-- OK   2 sitat rad 9 (W2116716741, sysselsetting to år etter (nedre grense ) står på oppgitt side
+- FEIL 2 sitat rad 9 (W2116716741, sysselsetting to år etter (nedre grense ) ble IKKE funnet på oppgitt side
 - OK   3 estimat=12 rad 9 (W2116716741, sysselsetting to år etter (nedre grense ) står i sitatet
-- OK   2 sitat rad 10 (W4408975540, retur til arbeid etter 12 måneder, muske) står på oppgitt side
+- FEIL 2 sitat rad 10 (W4408975540, retur til arbeid etter 12 måneder, muske) ble IKKE funnet på oppgitt side
 - OK   3 estimat=1.19 rad 10 (W4408975540, retur til arbeid etter 12 måneder, muske) står i sitatet
 - OK   3 ki_lav=1.12 rad 10 (W4408975540, retur til arbeid etter 12 måneder, muske) står i sitatet
 - OK   3 ki_hoy=1.26 rad 10 (W4408975540, retur til arbeid etter 12 måneder, muske) står i sitatet
 - OK   4 rad 10 (W4408975540, retur til arbeid etter 12 måneder, muske) estimat innenfor KI
 - OK   4 rad 10 (W4408975540, retur til arbeid etter 12 måneder, muske) KI symmetrisk på log-skala (avvik 0.00)
-- OK   2 sitat rad 11 (W4408975540, retur til arbeid etter 12 måneder, ujust) står på oppgitt side
+- FEIL 2 sitat rad 11 (W4408975540, retur til arbeid etter 12 måneder, ujust) ble IKKE funnet på oppgitt side
 - OK   3 estimat=1.29 rad 11 (W4408975540, retur til arbeid etter 12 måneder, ujust) står i sitatet
 - OK   3 ki_lav=1.22 rad 11 (W4408975540, retur til arbeid etter 12 måneder, ujust) står i sitatet
 - OK   3 ki_hoy=1.37 rad 11 (W4408975540, retur til arbeid etter 12 måneder, ujust) står i sitatet
 - OK   4 rad 11 (W4408975540, retur til arbeid etter 12 måneder, ujust) estimat innenfor KI
 - OK   4 rad 11 (W4408975540, retur til arbeid etter 12 måneder, ujust) KI symmetrisk på log-skala (avvik 0.00)
-- OK   2 sitat rad 12 (W4410013226, smerterelatert funksjon (ODI) over seks ) står på oppgitt side
-- OK   2 sitat rad 13 (W2079898261, full gjenvunnet arbeidsevne, muskel/skje) står på oppgitt side
+- FEIL 2 sitat rad 12 (W4410013226, smerterelatert funksjon (ODI) over seks ) ble IKKE funnet på oppgitt side
+- FEIL 2 sitat rad 13 (W2079898261, full gjenvunnet arbeidsevne, muskel/skje) ble IKKE funnet på oppgitt side
 - OK   3 estimat=25 rad 13 (W2079898261, full gjenvunnet arbeidsevne, muskel/skje) står i sitatet
-- OK   2 sitat rad 14 (W1511717146, full gjenvunnet arbeidsevne, psykiske li) står på oppgitt side
+- FEIL 2 sitat rad 14 (W1511717146, full gjenvunnet arbeidsevne, psykiske li) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.387 rad 14 (W1511717146, full gjenvunnet arbeidsevne, psykiske li) står i sitatet
-- OK   2 sitat rad 15 (W1511717146, full gjenvunnet arbeidsevne, psykiske li) står på oppgitt side
+- FEIL 2 sitat rad 15 (W1511717146, full gjenvunnet arbeidsevne, psykiske li) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.015 rad 15 (W1511717146, full gjenvunnet arbeidsevne, psykiske li) står i sitatet
 - OK   2 sitat rad 16 (W88826225, tid til ordinær arbeidstid, psykiske lid) står på oppgitt side
 - OK   2 sitat rad 17 (W88826225, tid til ordinær arbeidstid, andre lidels) står på oppgitt side
-- OK   2 sitat rad 18 (W2982381358, varighet av sykefraværet, muskel/skjelet) står på oppgitt side
+- FEIL 2 sitat rad 18 (W2982381358, varighet av sykefraværet, muskel/skjelet) ble IKKE funnet på oppgitt side
 - OK   2 sitat rad 19 (W2073048698, dager sykmeldt (median), korsryggsmerter) står på oppgitt side
 - OK   3 estimat=70 rad 19 (W2073048698, dager sykmeldt (median), korsryggsmerter) står i sitatet
 - OK   2 sitat rad 20 (W3124208379, full gjenvunnet arbeidsevne etter ett år) står på oppgitt side
 - OK   3 estimat=48 rad 20 (W3124208379, full gjenvunnet arbeidsevne etter ett år) står i sitatet
-- OK   2 sitat rad 21 (W2325466037, effekt av gradert sykmelding) står på oppgitt side
+- FEIL 2 sitat rad 21 (W2325466037, effekt av gradert sykmelding) ble IKKE funnet på oppgitt side
 - OK   2 sitat rad 22 (W1592746682, retur til ordinær arbeidstid eller sysse) står på oppgitt side
-- OK   2 sitat rad 23 (W2744665053, full uførepensjon innen to år (absolutt ) står på oppgitt side
+- FEIL 2 sitat rad 23 (W2744665053, full uførepensjon innen to år (absolutt ) ble IKKE funnet på oppgitt side
 - OK   3 estimat=4.5 rad 23 (W2744665053, full uførepensjon innen to år (absolutt ) står i sitatet
 - OK   3 ki_lav=3.1 rad 23 (W2744665053, full uførepensjon innen to år (absolutt ) står i sitatet
 - OK   3 ki_hoy=5.6 rad 23 (W2744665053, full uførepensjon innen to år (absolutt ) står i sitatet
 - OK   4 rad 23 (W2744665053, full uførepensjon innen to år (absolutt ) estimat innenfor KI
-- OK   2 sitat rad 24 (W2744665053, gradert uførepensjon innen to år (negati) står på oppgitt side
+- FEIL 2 sitat rad 24 (W2744665053, gradert uførepensjon innen to år (negati) ble IKKE funnet på oppgitt side
 - OK   3 estimat=-6.1 rad 24 (W2744665053, gradert uførepensjon innen to år (negati) står i sitatet
 - OK   3 ki_lav=-7.1 rad 24 (W2744665053, gradert uførepensjon innen to år (negati) står i sitatet
 - OK   3 ki_hoy=-4.9 rad 24 (W2744665053, gradert uførepensjon innen to år (negati) står i sitatet
 - OK   4 rad 24 (W2744665053, gradert uførepensjon innen to år (negati) estimat innenfor KI
-- OK   2 sitat rad 25 (W2982381358, varighet av sykefraværet, ujustert (forh) står på oppgitt side
+- FEIL 2 sitat rad 25 (W2982381358, varighet av sykefraværet, ujustert (forh) ble IKKE funnet på oppgitt side
 - OK   3 estimat=1.40 rad 25 (W2982381358, varighet av sykefraværet, ujustert (forh) står i sitatet
-- OK   2 sitat rad 26 (W2744665053, varig retur etter diagnose: forskjell ve) står på oppgitt side
-- OK   2 sitat rad 27 (W2982381358, varighet av fravær ved oppstart av grade) står på oppgitt side
+- FEIL 2 sitat rad 26 (W2744665053, varig retur etter diagnose: forskjell ve) ble IKKE funnet på oppgitt side
+- FEIL 2 sitat rad 27 (W2982381358, varighet av fravær ved oppstart av grade) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.75 rad 27 (W2982381358, varighet av fravær ved oppstart av grade) står i sitatet
-- OK   2 sitat rad 28 (W2079898261, effekt for dem som faktisk fikk gradert ) står på oppgitt side
-- OK   2 sitat rad 29 (W2412604146, retur til arbeid, metaanalyse av tre RCT) står på oppgitt side
+- FEIL 2 sitat rad 28 (W2079898261, effekt for dem som faktisk fikk gradert ) ble IKKE funnet på oppgitt side
+- FEIL 2 sitat rad 29 (W2412604146, retur til arbeid, metaanalyse av tre RCT) ble IKKE funnet på oppgitt side
 - OK   3 estimat=1.3 rad 29 (W2412604146, retur til arbeid, metaanalyse av tre RCT) står i sitatet
 - OK   3 ki_lav=0.9 rad 29 (W2412604146, retur til arbeid, metaanalyse av tre RCT) står i sitatet
 - OK   3 ki_hoy=1.9 rad 29 (W2412604146, retur til arbeid, metaanalyse av tre RCT) står i sitatet
 - OK   4 rad 29 (W2412604146, retur til arbeid, metaanalyse av tre RCT) estimat innenfor KI
 - OK   4 rad 29 (W2412604146, retur til arbeid, metaanalyse av tre RCT) KI symmetrisk på log-skala (avvik 0.01)
-- OK   2 sitat rad 30 (W2412604146, retur til arbeid, muskel/skjelett (den f) står på oppgitt side
+- FEIL 2 sitat rad 30 (W2412604146, retur til arbeid, muskel/skjelett (den f) ble IKKE funnet på oppgitt side
 - OK   3 estimat=1.8 rad 30 (W2412604146, retur til arbeid, muskel/skjelett (den f) står i sitatet
 - OK   3 ki_lav=1.2 rad 30 (W2412604146, retur til arbeid, muskel/skjelett (den f) står i sitatet
 - OK   3 ki_hoy=2.8 rad 30 (W2412604146, retur til arbeid, muskel/skjelett (den f) står i sitatet
 - OK   4 rad 30 (W2412604146, retur til arbeid, muskel/skjelett (den f) estimat innenfor KI
 - OK   4 rad 30 (W2412604146, retur til arbeid, muskel/skjelett (den f) KI symmetrisk på log-skala (avvik 0.04)
-- OK   2 sitat rad 31 (W2796572035, uker i ordinært arbeid første år (ITT, j) står på oppgitt side
+- FEIL 2 sitat rad 31 (W2796572035, uker i ordinært arbeid første år (ITT, j) ble IKKE funnet på oppgitt side
 - OK   3 estimat=-0.859 rad 31 (W2796572035, uker i ordinært arbeid første år (ITT, j) står i sitatet
-- OK   2 sitat rad 32 (W2796572035, uker sykmeldt første år (reduksjon på 3,) står på oppgitt side
+- FEIL 2 sitat rad 32 (W2796572035, uker sykmeldt første år (reduksjon på 3,) ble IKKE funnet på oppgitt side
 - OK   3 estimat=3.5 rad 32 (W2796572035, uker sykmeldt første år (reduksjon på 3,) står i sitatet
-- OK   2 sitat rad 33 (W2796572035, uker i ordinært arbeid første år for del) står på oppgitt side
+- FEIL 2 sitat rad 33 (W2796572035, uker i ordinært arbeid første år for del) ble IKKE funnet på oppgitt side
 - OK   3 estimat=30.290 rad 33 (W2796572035, uker i ordinært arbeid første år for del) står i sitatet
-- OK   2 sitat rad 34 (W1501193741, samlet sykefravær (reduksjon i prosent)) står på oppgitt side
+- FEIL 2 sitat rad 34 (W1501193741, samlet sykefravær (reduksjon i prosent)) ble IKKE funnet på oppgitt side
 - OK   3 estimat=18.8 rad 34 (W1501193741, samlet sykefravær (reduksjon i prosent)) står i sitatet
-- OK   2 sitat rad 35 (W1501193741, gradert sykefravær (økning i prosent, 0,) står på oppgitt side
+- FEIL 2 sitat rad 35 (W1501193741, gradert sykefravær (økning i prosent, 0,) ble IKKE funnet på oppgitt side
 - OK   3 estimat=21 rad 35 (W1501193741, gradert sykefravær (økning i prosent, 0,) står i sitatet
-- OK   2 sitat rad 36 (W1501193741, forventet varighet av fulle og graderte ) står på oppgitt side
+- FEIL 2 sitat rad 36 (W1501193741, forventet varighet av fulle og graderte ) ble IKKE funnet på oppgitt side
 - OK   3 estimat=13 rad 36 (W1501193741, forventet varighet av fulle og graderte ) står i sitatet
-- OK   2 sitat rad 37 (W2805335844, uker i arbeid de to første årene etter s) står på oppgitt side
+- FEIL 2 sitat rad 37 (W2805335844, uker i arbeid de to første årene etter s) ble IKKE funnet på oppgitt side
 - OK   3 estimat=18 rad 37 (W2805335844, uker i arbeid de to første årene etter s) står i sitatet
-- OK   2 sitat rad 38 (W2805335844, retur til arbeid innen ett år) står på oppgitt side
+- FEIL 2 sitat rad 38 (W2805335844, retur til arbeid innen ett år) ble IKKE funnet på oppgitt side
 - OK   3 estimat=38 rad 38 (W2805335844, retur til arbeid innen ett år) står i sitatet
-- OK   2 sitat rad 39 (W2805335844, retur til arbeid innen to år (IV, ikke s) står på oppgitt side
+- FEIL 2 sitat rad 39 (W2805335844, retur til arbeid innen to år (IV, ikke s) ble IKKE funnet på oppgitt side
 - OK   3 estimat=7.5 rad 39 (W2805335844, retur til arbeid innen to år (IV, ikke s) står i sitatet
-- OK   2 sitat rad 40 (W2805335844, retur til arbeid innen ett år (reduksjon) står på oppgitt side
+- FEIL 2 sitat rad 40 (W2805335844, retur til arbeid innen ett år (reduksjon) ble IKKE funnet på oppgitt side
 - OK   3 estimat=4.4 rad 40 (W2805335844, retur til arbeid innen ett år (reduksjon) står i sitatet
-- OK   2 sitat rad 41 (W2805335844, retur til arbeid innen to år, psykiske l) står på oppgitt side
+- FEIL 2 sitat rad 41 (W2805335844, retur til arbeid innen to år, psykiske l) ble IKKE funnet på oppgitt side
 - OK   3 estimat=3 rad 41 (W2805335844, retur til arbeid innen to år, psykiske l) står i sitatet
-- OK   2 sitat rad 42 (W3170959179, sykefraværsdager etter vs. før, by A (ko) står på oppgitt side
+- FEIL 2 sitat rad 42 (W3170959179, sykefraværsdager etter vs. før, by A (ko) ble IKKE funnet på oppgitt side
 - OK   3 estimat=1.14 rad 42 (W3170959179, sykefraværsdager etter vs. før, by A (ko) står i sitatet
 - OK   3 ki_lav=1.09 rad 42 (W3170959179, sykefraværsdager etter vs. før, by A (ko) står i sitatet
 - OK   3 ki_hoy=1.21 rad 42 (W3170959179, sykefraværsdager etter vs. før, by A (ko) står i sitatet
 - OK   4 rad 42 (W3170959179, sykefraværsdager etter vs. før, by A (ko) estimat innenfor KI
 - OK   4 rad 42 (W3170959179, sykefraværsdager etter vs. før, by A (ko) KI symmetrisk på log-skala (avvik 0.01)
-- OK   2 sitat rad 43 (W3170959179, sykefraværsdager etter vs. før, kontroll) står på oppgitt side
+- FEIL 2 sitat rad 43 (W3170959179, sykefraværsdager etter vs. før, kontroll) ble IKKE funnet på oppgitt side
 - OK   3 estimat=1.19 rad 43 (W3170959179, sykefraværsdager etter vs. før, kontroll) står i sitatet
 - OK   3 ki_lav=1.14 rad 43 (W3170959179, sykefraværsdager etter vs. før, kontroll) står i sitatet
 - OK   3 ki_hoy=1.24 rad 43 (W3170959179, sykefraværsdager etter vs. før, kontroll) står i sitatet
 - OK   4 rad 43 (W3170959179, sykefraværsdager etter vs. før, kontroll) estimat innenfor KI
 - OK   4 rad 43 (W3170959179, sykefraværsdager etter vs. før, kontroll) KI symmetrisk på log-skala (avvik 0.00)
-- OK   2 sitat rad 44 (W3170959179, antall sykefraværstilfeller etter vs. fø) står på oppgitt side
+- FEIL 2 sitat rad 44 (W3170959179, antall sykefraværstilfeller etter vs. fø) ble IKKE funnet på oppgitt side
 - OK   3 estimat=1.08 rad 44 (W3170959179, antall sykefraværstilfeller etter vs. fø) står i sitatet
 - OK   3 ki_lav=1.06 rad 44 (W3170959179, antall sykefraværstilfeller etter vs. fø) står i sitatet
 - OK   3 ki_hoy=1.10 rad 44 (W3170959179, antall sykefraværstilfeller etter vs. fø) står i sitatet
 - OK   4 rad 44 (W3170959179, antall sykefraværstilfeller etter vs. fø) estimat innenfor KI
 - OK   4 rad 44 (W3170959179, antall sykefraværstilfeller etter vs. fø) KI symmetrisk på log-skala (avvik 0.00)
-- OK   2 sitat rad 45 (W2341011605, uførepensjon (5,4 vs. 8,6 prosent)) står på oppgitt side
+- FEIL 2 sitat rad 45 (W2341011605, uførepensjon (5,4 vs. 8,6 prosent)) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.62 rad 45 (W2341011605, uførepensjon (5,4 vs. 8,6 prosent)) står i sitatet
 - OK   3 ki_lav=0.49 rad 45 (W2341011605, uførepensjon (5,4 vs. 8,6 prosent)) står i sitatet
 - OK   3 ki_hoy=0.80 rad 45 (W2341011605, uførepensjon (5,4 vs. 8,6 prosent)) står i sitatet
 - OK   4 rad 45 (W2341011605, uførepensjon (5,4 vs. 8,6 prosent)) estimat innenfor KI
 - OK   4 rad 45 (W2341011605, uførepensjon (5,4 vs. 8,6 prosent)) KI symmetrisk på log-skala (avvik 0.02)
-- OK   2 sitat rad 46 (W2341011605, inntekt fra ordinært arbeid 2007–2009 (e) står på oppgitt side
+- FEIL 2 sitat rad 46 (W2341011605, inntekt fra ordinært arbeid 2007–2009 (e) ble IKKE funnet på oppgitt side
 - OK   3 estimat=12920 rad 46 (W2341011605, inntekt fra ordinært arbeid 2007–2009 (e) står i sitatet
 - OK   3 ki_lav=10054 rad 46 (W2341011605, inntekt fra ordinært arbeid 2007–2009 (e) står i sitatet
 - OK   3 ki_hoy=15786 rad 46 (W2341011605, inntekt fra ordinært arbeid 2007–2009 (e) står i sitatet
 - OK   4 rad 46 (W2341011605, inntekt fra ordinært arbeid 2007–2009 (e) estimat innenfor KI
-- OK   2 sitat rad 47 (W2341011605, dager med sykepenger (reduksjon)) står på oppgitt side
+- FEIL 2 sitat rad 47 (W2341011605, dager med sykepenger (reduksjon)) ble IKKE funnet på oppgitt side
 - OK   3 estimat=52 rad 47 (W2341011605, dager med sykepenger (reduksjon)) står i sitatet
 - OK   3 ki_lav=40 rad 47 (W2341011605, dager med sykepenger (reduksjon)) står i sitatet
 - OK   3 ki_hoy=64 rad 47 (W2341011605, dager med sykepenger (reduksjon)) står i sitatet
 - OK   4 rad 47 (W2341011605, dager med sykepenger (reduksjon)) estimat innenfor KI
-- OK   2 sitat rad 48 (W4293168340, forventet yrkesaktiv tid fra 30 år, menn) står på oppgitt side
+- FEIL 2 sitat rad 48 (W4293168340, forventet yrkesaktiv tid fra 30 år, menn) ble IKKE funnet på oppgitt side
 - OK   3 estimat=2.63 rad 48 (W4293168340, forventet yrkesaktiv tid fra 30 år, menn) står i sitatet
-- OK   2 sitat rad 49 (W4293168340, forventet yrkesaktiv tid fra 30 år, kvin) står på oppgitt side
+- FEIL 2 sitat rad 49 (W4293168340, forventet yrkesaktiv tid fra 30 år, kvin) ble IKKE funnet på oppgitt side
 - OK   3 estimat=1.98 rad 49 (W4293168340, forventet yrkesaktiv tid fra 30 år, kvin) står i sitatet
-- OK   2 sitat rad 50 (W4293168340, forventet yrkesaktiv tid fra 30 år, psyk) står på oppgitt side
+- FEIL 2 sitat rad 50 (W4293168340, forventet yrkesaktiv tid fra 30 år, psyk) ble IKKE funnet på oppgitt side
 - OK   3 estimat=3.92 rad 50 (W4293168340, forventet yrkesaktiv tid fra 30 år, psyk) står i sitatet
-- OK   2 sitat rad 51 (W4293168340, forventet yrkesaktiv tid fra 30 år, musk) står på oppgitt side
+- FEIL 2 sitat rad 51 (W4293168340, forventet yrkesaktiv tid fra 30 år, musk) ble IKKE funnet på oppgitt side
 - OK   3 estimat=1.02 rad 51 (W4293168340, forventet yrkesaktiv tid fra 30 år, musk) står i sitatet
-- OK   2 sitat rad 52 (W2605726377, full retur til arbeid etter 15 måneder, ) står på oppgitt side
+- FEIL 2 sitat rad 52 (W2605726377, full retur til arbeid etter 15 måneder, ) ble IKKE funnet på oppgitt side
 - OK   3 estimat=1.22 rad 52 (W2605726377, full retur til arbeid etter 15 måneder, ) står i sitatet
 - OK   3 ki_lav=1.13 rad 52 (W2605726377, full retur til arbeid etter 15 måneder, ) står i sitatet
 - OK   3 ki_hoy=1.31 rad 52 (W2605726377, full retur til arbeid etter 15 måneder, ) står i sitatet
 - OK   4 rad 52 (W2605726377, full retur til arbeid etter 15 måneder, ) estimat innenfor KI
 - OK   4 rad 52 (W2605726377, full retur til arbeid etter 15 måneder, ) KI symmetrisk på log-skala (avvik 0.01)
-- OK   2 sitat rad 53 (W2605726377, uker sykmeldt i oppfølgingen, psykiske l) står på oppgitt side
+- FEIL 2 sitat rad 53 (W2605726377, uker sykmeldt i oppfølgingen, psykiske l) ble IKKE funnet på oppgitt side
 - OK   3 estimat=7.0 rad 53 (W2605726377, uker sykmeldt i oppfølgingen, psykiske l) står i sitatet
 - OK   2 sitat rad 54 (W3098021798, ingen effektestimat i sammendraget; fors) står på oppgitt side
 - OK   2 sitat rad 55 (W2060195272, ingen effektestimat; systematisk søk fan) står på oppgitt side
@@ -466,285 +467,285 @@ Kjørt 2026-11-10.
 - OK   3 estimat=6.5 rad 56 (W2799283105, andel «fit notes» med «maybe fit» (kan a) står i sitatet
 - OK   2 sitat rad 57 (W2799283105, ingen effektestimat; uklar evidens for a) står på oppgitt side
 - OK   2 sitat rad 58 (W2746656768, ingen effektestimat i sammendraget; posi) står på oppgitt side
-- OK   2 sitat rad 59 (W2805335844, retur til arbeid innen ett år, alle grad) står på oppgitt side
+- FEIL 2 sitat rad 59 (W2805335844, retur til arbeid innen ett år, alle grad) ble IKKE funnet på oppgitt side
 - OK   3 estimat=12.7 rad 59 (W2805335844, retur til arbeid innen ett år, alle grad) står i sitatet
-- OK   2 sitat rad 60 (W3121578847, sykefravær (tapte dagsverk), hele period) står på oppgitt side
+- FEIL 2 sitat rad 60 (W3121578847, sykefravær (tapte dagsverk), hele period) ble IKKE funnet på oppgitt side
 - OK   3 estimat=12 rad 60 (W3121578847, sykefravær (tapte dagsverk), hele period) står i sitatet
-- OK   2 sitat rad 61 (W3121578847, endring i sykefraværsprosent (prosentpoe) står på oppgitt side
+- FEIL 2 sitat rad 61 (W3121578847, endring i sykefraværsprosent (prosentpoe) ble IKKE funnet på oppgitt side
 - OK   3 estimat=-0.72 rad 61 (W3121578847, endring i sykefraværsprosent (prosentpoe) står i sitatet
-- OK   2 sitat rad 62 (W3121578847, nedgang i andel arbeidstakere med pågåen) står på oppgitt side
+- FEIL 2 sitat rad 62 (W3121578847, nedgang i andel arbeidstakere med pågåen) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.5 rad 62 (W3121578847, nedgang i andel arbeidstakere med pågåen) står i sitatet
-- OK   2 sitat rad 63 (W3122932312, andel som gikk fra full til gradert sykm) står på oppgitt side
+- FEIL 2 sitat rad 63 (W3122932312, andel som gikk fra full til gradert sykm) ble IKKE funnet på oppgitt side
 - OK   3 estimat=48 rad 63 (W3122932312, andel som gikk fra full til gradert sykm) står i sitatet
-- OK   2 sitat rad 64 (W3122932312, sannsynlighet for full gjenvunnet arbeid) står på oppgitt side
+- FEIL 2 sitat rad 64 (W3122932312, sannsynlighet for full gjenvunnet arbeid) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.342 rad 64 (W3122932312, sannsynlighet for full gjenvunnet arbeid) står i sitatet
-- OK   2 sitat rad 65 (W3122932312, sannsynlighet for full gjenvunnet arbeid) står på oppgitt side
+- FEIL 2 sitat rad 65 (W3122932312, sannsynlighet for full gjenvunnet arbeid) ble IKKE funnet på oppgitt side
 - OK   3 estimat=15 rad 65 (W3122932312, sannsynlighet for full gjenvunnet arbeid) står i sitatet
-- OK   2 sitat rad 66 (W3122932312, sannsynlighet for full gjenvunnet arbeid) står på oppgitt side
+- FEIL 2 sitat rad 66 (W3122932312, sannsynlighet for full gjenvunnet arbeid) ble IKKE funnet på oppgitt side
 - OK   3 estimat=12.6 rad 66 (W3122932312, sannsynlighet for full gjenvunnet arbeid) står i sitatet
-- OK   2 sitat rad 67 (W3122932312, sannsynlighet for full gjenvunnet arbeid) står på oppgitt side
+- FEIL 2 sitat rad 67 (W3122932312, sannsynlighet for full gjenvunnet arbeid) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.063 rad 67 (W3122932312, sannsynlighet for full gjenvunnet arbeid) står i sitatet
-- OK   2 sitat rad 68 (W1977295977, ingen effektestimat; lederartikkel om ar) står på oppgitt side
+- FEIL 2 sitat rad 68 (W1977295977, ingen effektestimat; lederartikkel om ar) ble IKKE funnet på oppgitt side
 - OK   2 sitat rad 69 (W3024269757, ingen effektestimat; komparativ institus) står på oppgitt side
-- OK   2 sitat rad 70 (W2911999154, kunnskapsgrunnlag: 1 liten RCT og 12 reg) står på oppgitt side
+- FEIL 2 sitat rad 70 (W2911999154, kunnskapsgrunnlag: 1 liten RCT og 12 reg) ble IKKE funnet på oppgitt side
 - OK   3 estimat=12 rad 70 (W2911999154, kunnskapsgrunnlag: 1 liten RCT og 12 reg) står i sitatet
-- OK   2 sitat rad 71 (W2911999154, retur til arbeid, hasardrate (justert fo) står på oppgitt side
+- FEIL 2 sitat rad 71 (W2911999154, retur til arbeid, hasardrate (justert fo) ble IKKE funnet på oppgitt side
 - OK   3 estimat=1.76 rad 71 (W2911999154, retur til arbeid, hasardrate (justert fo) står i sitatet
 - OK   3 ki_lav=1.21 rad 71 (W2911999154, retur til arbeid, hasardrate (justert fo) står i sitatet
 - OK   3 ki_hoy=2.56 rad 71 (W2911999154, retur til arbeid, hasardrate (justert fo) står i sitatet
 - OK   4 rad 71 (W2911999154, retur til arbeid, hasardrate (justert fo) estimat innenfor KI
 - OK   4 rad 71 (W2911999154, retur til arbeid, hasardrate (justert fo) KI symmetrisk på log-skala (avvik 0.00)
-- OK   2 sitat rad 72 (W2911999154, retur til arbeid (Lie, gjengitt i oversi) står på oppgitt side
+- FEIL 2 sitat rad 72 (W2911999154, retur til arbeid (Lie, gjengitt i oversi) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.37 rad 72 (W2911999154, retur til arbeid (Lie, gjengitt i oversi) står i sitatet
 - OK   3 ki_lav=0.36 rad 72 (W2911999154, retur til arbeid (Lie, gjengitt i oversi) står i sitatet
 - OK   3 ki_hoy=0.38 rad 72 (W2911999154, retur til arbeid (Lie, gjengitt i oversi) står i sitatet
 - OK   4 rad 72 (W2911999154, retur til arbeid (Lie, gjengitt i oversi) estimat innenfor KI
 - OK   4 rad 72 (W2911999154, retur til arbeid (Lie, gjengitt i oversi) KI symmetrisk på log-skala (avvik 0.00)
-- OK   2 sitat rad 73 (W2911999154, varighet av sykefravær (Markussen mfl., ) står på oppgitt side
+- FEIL 2 sitat rad 73 (W2911999154, varighet av sykefravær (Markussen mfl., ) ble IKKE funnet på oppgitt side
 - OK   3 estimat=60 rad 73 (W2911999154, varighet av sykefravær (Markussen mfl., ) står i sitatet
-- OK   2 sitat rad 74 (W2911999154, retur til arbeid etter 15 måneder (Strei) står på oppgitt side
+- FEIL 2 sitat rad 74 (W2911999154, retur til arbeid etter 15 måneder (Strei) ble IKKE funnet på oppgitt side
 - OK   3 estimat=1.22 rad 74 (W2911999154, retur til arbeid etter 15 måneder (Strei) står i sitatet
 - OK   3 ki_lav=1.13 rad 74 (W2911999154, retur til arbeid etter 15 måneder (Strei) står i sitatet
 - OK   3 ki_hoy=1.31 rad 74 (W2911999154, retur til arbeid etter 15 måneder (Strei) står i sitatet
 - OK   4 rad 74 (W2911999154, retur til arbeid etter 15 måneder (Strei) estimat innenfor KI
 - OK   4 rad 74 (W2911999154, retur til arbeid etter 15 måneder (Strei) KI symmetrisk på log-skala (avvik 0.01)
-- OK   2 sitat rad 75 (W4404867325, ingen samlet effektestimat; scoping revi) står på oppgitt side
+- FEIL 2 sitat rad 75 (W4404867325, ingen samlet effektestimat; scoping revi) ble IKKE funnet på oppgitt side
 - OK   3 estimat=35 rad 75 (W4404867325, ingen samlet effektestimat; scoping revi) står i sitatet
-- OK   2 sitat rad 76 (W4404867325, sannsynlighet for full tilfriskning (And) står på oppgitt side
+- FEIL 2 sitat rad 76 (W4404867325, sannsynlighet for full tilfriskning (And) ble IKKE funnet på oppgitt side
 - OK   3 estimat=18 rad 76 (W4404867325, sannsynlighet for full tilfriskning (And) står i sitatet
-- OK   2 sitat rad 77 (W2473929489, bedriftens avkastning på eiendeler (ROA)) står på oppgitt side
+- FEIL 2 sitat rad 77 (W2473929489, bedriftens avkastning på eiendeler (ROA)) ble IKKE funnet på oppgitt side
 - OK   3 estimat=1.7 rad 77 (W2473929489, bedriftens avkastning på eiendeler (ROA)) står i sitatet
-- OK   2 sitat rad 78 (W2473929489, reduksjon i den negative effekten av syk) står på oppgitt side
+- FEIL 2 sitat rad 78 (W2473929489, reduksjon i den negative effekten av syk) ble IKKE funnet på oppgitt side
 - OK   3 estimat=70 rad 78 (W2473929489, reduksjon i den negative effekten av syk) står i sitatet
-- OK   2 sitat rad 79 (AV-2012-2-03, sykefraværsrate (prosentvis nedgang per ) står på oppgitt side
+- FEIL 2 sitat rad 79 (AV-2012-2-03, sykefraværsrate (prosentvis nedgang per ) ble IKKE funnet på oppgitt side
 - OK   3 estimat=2.37 rad 79 (AV-2012-2-03, sykefraværsrate (prosentvis nedgang per ) står i sitatet
-- OK   2 sitat rad 80 (AV-2012-2-03, varighetsindikator (prosentvis endring p) står på oppgitt side
+- FEIL 2 sitat rad 80 (AV-2012-2-03, varighetsindikator (prosentvis endring p) ble IKKE funnet på oppgitt side
 - OK   3 estimat=-0.49 rad 80 (AV-2012-2-03, varighetsindikator (prosentvis endring p) står i sitatet
-- OK   2 sitat rad 81 (AV-2012-2-03, andel sykmeldte (prosentvis endring per ) står på oppgitt side
+- FEIL 2 sitat rad 81 (AV-2012-2-03, andel sykmeldte (prosentvis endring per ) ble IKKE funnet på oppgitt side
 - OK   3 estimat=-1.34 rad 81 (AV-2012-2-03, andel sykmeldte (prosentvis endring per ) står i sitatet
-- OK   2 sitat rad 82 (AV-2013-3-06, gjennomsnittlig varighet, graderte korte) står på oppgitt side
+- FEIL 2 sitat rad 82 (AV-2013-3-06, gjennomsnittlig varighet, graderte korte) ble IKKE funnet på oppgitt side
 - OK   3 estimat=21 rad 82 (AV-2013-3-06, gjennomsnittlig varighet, graderte korte) står i sitatet
-- OK   2 sitat rad 83 (AV-2013-3-06, gjennomsnittlig varighet, graderte lengr) står på oppgitt side
+- FEIL 2 sitat rad 83 (AV-2013-3-06, gjennomsnittlig varighet, graderte lengr) ble IKKE funnet på oppgitt side
 - OK   3 estimat=13 rad 83 (AV-2013-3-06, gjennomsnittlig varighet, graderte lengr) står i sitatet
-- OK   2 sitat rad 84 (AV-2013-3-06, forskjell i varighet (graderte kortere) ) står på oppgitt side
+- FEIL 2 sitat rad 84 (AV-2013-3-06, forskjell i varighet (graderte kortere) ) ble IKKE funnet på oppgitt side
 - OK   3 estimat=23 rad 84 (AV-2013-3-06, forskjell i varighet (graderte kortere) ) står i sitatet
-- OK   2 sitat rad 85 (AV-2018-2-06, andel sykepengetilfeller (over 16 dager)) står på oppgitt side
+- FEIL 2 sitat rad 85 (AV-2018-2-06, andel sykepengetilfeller (over 16 dager)) ble IKKE funnet på oppgitt side
 - OK   3 estimat=50 rad 85 (AV-2018-2-06, andel sykepengetilfeller (over 16 dager)) står i sitatet
-- OK   2 sitat rad 86 (AV-2018-2-06, gjennomsnittlig varighet etter arbeidsgi) står på oppgitt side
+- FEIL 2 sitat rad 86 (AV-2018-2-06, gjennomsnittlig varighet etter arbeidsgi) ble IKKE funnet på oppgitt side
 - OK   3 estimat=60 rad 86 (AV-2018-2-06, gjennomsnittlig varighet etter arbeidsgi) står i sitatet
-- OK   2 sitat rad 87 (AV-2018-2-06, gjennomsnittlig varighet i uker, kun ful) står på oppgitt side
+- FEIL 2 sitat rad 87 (AV-2018-2-06, gjennomsnittlig varighet i uker, kun ful) ble IKKE funnet på oppgitt side
 - OK   3 estimat=10 rad 87 (AV-2018-2-06, gjennomsnittlig varighet i uker, kun ful) står i sitatet
-- OK   2 sitat rad 88 (AV-2018-2-06, gjennomsnittlig varighet i uker, gradert) står på oppgitt side
+- FEIL 2 sitat rad 88 (AV-2018-2-06, gjennomsnittlig varighet i uker, gradert) ble IKKE funnet på oppgitt side
 - OK   3 estimat=16 rad 88 (AV-2018-2-06, gjennomsnittlig varighet i uker, gradert) står i sitatet
-- OK   2 sitat rad 89 (0198cc8d6f08-8af27b58-5e7a-47d1-8504-4bc4b0361a42, andel med arbeidsforhold 2,5 år etter at) står på oppgitt side
+- FEIL 2 sitat rad 89 (0198cc8d6f08-8af27b58-5e7a-47d1-8504-4bc4b0361a42, andel med arbeidsforhold 2,5 år etter at) ble IKKE funnet på oppgitt side
 - OK   3 estimat=38 rad 89 (0198cc8d6f08-8af27b58-5e7a-47d1-8504-4bc4b0361a42, andel med arbeidsforhold 2,5 år etter at) står i sitatet
-- OK   2 sitat rad 90 (0198cc8d6f08-8af27b58-5e7a-47d1-8504-4bc4b0361a42, andel med arbeidsforhold 2,5 år etter at) står på oppgitt side
+- FEIL 2 sitat rad 90 (0198cc8d6f08-8af27b58-5e7a-47d1-8504-4bc4b0361a42, andel med arbeidsforhold 2,5 år etter at) ble IKKE funnet på oppgitt side
 - OK   3 estimat=84 rad 90 (0198cc8d6f08-8af27b58-5e7a-47d1-8504-4bc4b0361a42, andel med arbeidsforhold 2,5 år etter at) står i sitatet
-- OK   2 sitat rad 91 (0198cc8d6f08-8af27b58-5e7a-47d1-8504-4bc4b0361a42, andel med arbeidsforhold ved inngangen t) står på oppgitt side
+- FEIL 2 sitat rad 91 (0198cc8d6f08-8af27b58-5e7a-47d1-8504-4bc4b0361a42, andel med arbeidsforhold ved inngangen t) ble IKKE funnet på oppgitt side
 - OK   3 estimat=72 rad 91 (0198cc8d6f08-8af27b58-5e7a-47d1-8504-4bc4b0361a42, andel med arbeidsforhold ved inngangen t) står i sitatet
-- OK   2 sitat rad 92 (0198cc8d6f08-8af27b58-5e7a-47d1-8504-4bc4b0361a42, andel med uførepensjon vel to år etter, ) står på oppgitt side
+- FEIL 2 sitat rad 92 (0198cc8d6f08-8af27b58-5e7a-47d1-8504-4bc4b0361a42, andel med uførepensjon vel to år etter, ) ble IKKE funnet på oppgitt side
 - OK   3 estimat=19 rad 92 (0198cc8d6f08-8af27b58-5e7a-47d1-8504-4bc4b0361a42, andel med uførepensjon vel to år etter, ) står i sitatet
-- OK   2 sitat rad 93 (0198cc8d6f08-8af27b58-5e7a-47d1-8504-4bc4b0361a42, andel med uførepensjon vel to år etter, ) står på oppgitt side
+- FEIL 2 sitat rad 93 (0198cc8d6f08-8af27b58-5e7a-47d1-8504-4bc4b0361a42, andel med uførepensjon vel to år etter, ) ble IKKE funnet på oppgitt side
 - OK   3 estimat=13 rad 93 (0198cc8d6f08-8af27b58-5e7a-47d1-8504-4bc4b0361a42, andel med uførepensjon vel to år etter, ) står i sitatet
-- OK   2 sitat rad 94 (AV-2014-3-01, legemeldt sykefravær, prosentvis reduksj) står på oppgitt side
+- FEIL 2 sitat rad 94 (AV-2014-3-01, legemeldt sykefravær, prosentvis reduksj) ble IKKE funnet på oppgitt side
 - OK   3 estimat=8 rad 94 (AV-2014-3-01, legemeldt sykefravær, prosentvis reduksj) står i sitatet
-- OK   2 sitat rad 95 (AV-2014-3-01, gradering og friskmelding (ingen tallfes) står på oppgitt side
-- OK   2 sitat rad 96 (AV-2017-1-04, legemeldt sykefravær, prosentvis nedgang) står på oppgitt side
+- FEIL 2 sitat rad 95 (AV-2014-3-01, gradering og friskmelding (ingen tallfes) ble IKKE funnet på oppgitt side
+- FEIL 2 sitat rad 96 (AV-2017-1-04, legemeldt sykefravær, prosentvis nedgang) ble IKKE funnet på oppgitt side
 - OK   3 estimat=6.0 rad 96 (AV-2017-1-04, legemeldt sykefravær, prosentvis nedgang) står i sitatet
-- OK   2 sitat rad 97 (AV-2017-1-04, legemeldt sykefravær, prosentvis nedgang) står på oppgitt side
+- FEIL 2 sitat rad 97 (AV-2017-1-04, legemeldt sykefravær, prosentvis nedgang) ble IKKE funnet på oppgitt side
 - OK   3 estimat=3.8 rad 97 (AV-2017-1-04, legemeldt sykefravær, prosentvis nedgang) står i sitatet
-- OK   2 sitat rad 98 (AV-2017-1-04, gjennomsnittlig varighet, prosentvis ned) står på oppgitt side
+- FEIL 2 sitat rad 98 (AV-2017-1-04, gjennomsnittlig varighet, prosentvis ned) ble IKKE funnet på oppgitt side
 - OK   3 estimat=3.4 rad 98 (AV-2017-1-04, gjennomsnittlig varighet, prosentvis ned) står i sitatet
-- OK   2 sitat rad 99 (AV-2017-1-04, andel med oppbrukte sykepengerettigheter) står på oppgitt side
+- FEIL 2 sitat rad 99 (AV-2017-1-04, andel med oppbrukte sykepengerettigheter) ble IKKE funnet på oppgitt side
 - OK   3 estimat=11 rad 99 (AV-2017-1-04, andel med oppbrukte sykepengerettigheter) står i sitatet
-- OK   2 sitat rad 100 (AV-2017-1-04, andel gradert (ingen tallfestet effekt i) står på oppgitt side
-- OK   2 sitat rad 101 (AV-2015-3-04, andel friskmeldt innen 26 uker blant ikk) står på oppgitt side
+- FEIL 2 sitat rad 100 (AV-2017-1-04, andel gradert (ingen tallfestet effekt i) ble IKKE funnet på oppgitt side
+- FEIL 2 sitat rad 101 (AV-2015-3-04, andel friskmeldt innen 26 uker blant ikk) ble IKKE funnet på oppgitt side
 - OK   3 estimat=57 rad 101 (AV-2015-3-04, andel friskmeldt innen 26 uker blant ikk) står i sitatet
-- OK   2 sitat rad 102 (AV-2015-3-04, andel som gikk ut hele sykepengeperioden) står på oppgitt side
+- FEIL 2 sitat rad 102 (AV-2015-3-04, andel som gikk ut hele sykepengeperioden) ble IKKE funnet på oppgitt side
 - OK   3 estimat=21 rad 102 (AV-2015-3-04, andel som gikk ut hele sykepengeperioden) står i sitatet
-- OK   2 sitat rad 103 (AV-2015-3-04, andel som fikk gradert sykmelding etter ) står på oppgitt side
+- FEIL 2 sitat rad 103 (AV-2015-3-04, andel som fikk gradert sykmelding etter ) ble IKKE funnet på oppgitt side
 - OK   3 estimat=29 rad 103 (AV-2015-3-04, andel som fikk gradert sykmelding etter ) står i sitatet
-- OK   2 sitat rad 104 (AV-2017-1-04, legemeldt sykefravær, prosentvis nedgang) står på oppgitt side
+- FEIL 2 sitat rad 104 (AV-2017-1-04, legemeldt sykefravær, prosentvis nedgang) ble IKKE funnet på oppgitt side
 - OK   3 estimat=5.1 rad 104 (AV-2017-1-04, legemeldt sykefravær, prosentvis nedgang) står i sitatet
-- OK   2 sitat rad 105 (AV-2017-1-04, legemeldt sykefravær, prosentvis økning ) står på oppgitt side
+- FEIL 2 sitat rad 105 (AV-2017-1-04, legemeldt sykefravær, prosentvis økning ) ble IKKE funnet på oppgitt side
 - OK   3 estimat=5.8 rad 105 (AV-2017-1-04, legemeldt sykefravær, prosentvis økning ) står i sitatet
-- OK   2 sitat rad 106 (AV-2013-3-06, gjennomsnittlig varighet, graderte lengr) står på oppgitt side
+- FEIL 2 sitat rad 106 (AV-2013-3-06, gjennomsnittlig varighet, graderte lengr) ble IKKE funnet på oppgitt side
 - OK   3 estimat=92 rad 106 (AV-2013-3-06, gjennomsnittlig varighet, graderte lengr) står i sitatet
-- OK   2 sitat rad 107 (KU-7799f411-4c20-4a1a-aa6f-5aa52fbc9eab, overgangsintensitet fra sykmelding til j) står på oppgitt side
+- FEIL 2 sitat rad 107 (KU-7799f411-4c20-4a1a-aa6f-5aa52fbc9eab, overgangsintensitet fra sykmelding til j) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.37 rad 107 (KU-7799f411-4c20-4a1a-aa6f-5aa52fbc9eab, overgangsintensitet fra sykmelding til j) står i sitatet
-- OK   2 sitat rad 108 (KU-7799f411-4c20-4a1a-aa6f-5aa52fbc9eab, overgangsintensitet fra sykmelding til j) står på oppgitt side
+- FEIL 2 sitat rad 108 (KU-7799f411-4c20-4a1a-aa6f-5aa52fbc9eab, overgangsintensitet fra sykmelding til j) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.27 rad 108 (KU-7799f411-4c20-4a1a-aa6f-5aa52fbc9eab, overgangsintensitet fra sykmelding til j) står i sitatet
-- OK   2 sitat rad 109 (KU-7799f411-4c20-4a1a-aa6f-5aa52fbc9eab, tidspunkt i sykmeldingsforløpet (uker) d) står på oppgitt side
+- FEIL 2 sitat rad 109 (KU-7799f411-4c20-4a1a-aa6f-5aa52fbc9eab, tidspunkt i sykmeldingsforløpet (uker) d) ble IKKE funnet på oppgitt side
 - OK   3 estimat=12 rad 109 (KU-7799f411-4c20-4a1a-aa6f-5aa52fbc9eab, tidspunkt i sykmeldingsforløpet (uker) d) står i sitatet
-- OK   2 sitat rad 110 (KU-b027fe4b-4bf4-433e-b689-b7d06086b095, overgangsintensitet til jobb (HRR) fra f) står på oppgitt side
+- FEIL 2 sitat rad 110 (KU-b027fe4b-4bf4-433e-b689-b7d06086b095, overgangsintensitet til jobb (HRR) fra f) ble IKKE funnet på oppgitt side
 - OK   3 estimat=2.0 rad 110 (KU-b027fe4b-4bf4-433e-b689-b7d06086b095, overgangsintensitet til jobb (HRR) fra f) står i sitatet
-- OK   2 sitat rad 111 (KU-b027fe4b-4bf4-433e-b689-b7d06086b095, færre dager i jobb i løpet av 2 år for d) står på oppgitt side
+- FEIL 2 sitat rad 111 (KU-b027fe4b-4bf4-433e-b689-b7d06086b095, færre dager i jobb i løpet av 2 år for d) ble IKKE funnet på oppgitt side
 - OK   3 estimat=37 rad 111 (KU-b027fe4b-4bf4-433e-b689-b7d06086b095, færre dager i jobb i løpet av 2 år for d) står i sitatet
-- OK   2 sitat rad 112 (KU-b027fe4b-4bf4-433e-b689-b7d06086b095, færre dager i jobb i løpet av 2 år, beti) står på oppgitt side
+- FEIL 2 sitat rad 112 (KU-b027fe4b-4bf4-433e-b689-b7d06086b095, færre dager i jobb i løpet av 2 år, beti) ble IKKE funnet på oppgitt side
 - OK   3 estimat=13 rad 112 (KU-b027fe4b-4bf4-433e-b689-b7d06086b095, færre dager i jobb i løpet av 2 år, beti) står i sitatet
-- OK   2 sitat rad 113 (KU-b027fe4b-4bf4-433e-b689-b7d06086b095, andel tilbake i jobb 1 måned etter start) står på oppgitt side
+- FEIL 2 sitat rad 113 (KU-b027fe4b-4bf4-433e-b689-b7d06086b095, andel tilbake i jobb 1 måned etter start) ble IKKE funnet på oppgitt side
 - OK   3 estimat=30 rad 113 (KU-b027fe4b-4bf4-433e-b689-b7d06086b095, andel tilbake i jobb 1 måned etter start) står i sitatet
-- OK   2 sitat rad 114 (KU-b027fe4b-4bf4-433e-b689-b7d06086b095, andel tilbake i jobb 1 måned etter full ) står på oppgitt side
+- FEIL 2 sitat rad 114 (KU-b027fe4b-4bf4-433e-b689-b7d06086b095, andel tilbake i jobb 1 måned etter full ) ble IKKE funnet på oppgitt side
 - OK   3 estimat=70 rad 114 (KU-b027fe4b-4bf4-433e-b689-b7d06086b095, andel tilbake i jobb 1 måned etter full ) står i sitatet
-- OK   2 sitat rad 115 (KU-34183300-cbad-41d5-8e50-9684f7850798, forskermøtets konklusjon: økt bruk av gr) står på oppgitt side
-- OK   2 sitat rad 116 (KU-34183300-cbad-41d5-8e50-9684f7850798, reduksjon (fall) i varighet av sykmeldin) står på oppgitt side
+- FEIL 2 sitat rad 115 (KU-34183300-cbad-41d5-8e50-9684f7850798, forskermøtets konklusjon: økt bruk av gr) ble IKKE funnet på oppgitt side
+- FEIL 2 sitat rad 116 (KU-34183300-cbad-41d5-8e50-9684f7850798, reduksjon (fall) i varighet av sykmeldin) ble IKKE funnet på oppgitt side
 - OK   3 estimat=66.1 rad 116 (KU-34183300-cbad-41d5-8e50-9684f7850798, reduksjon (fall) i varighet av sykmeldin) står i sitatet
-- OK   2 sitat rad 117 (KU-34183300-cbad-41d5-8e50-9684f7850798, reduksjon (fall) i påfølgende trygde- og) står på oppgitt side
+- FEIL 2 sitat rad 117 (KU-34183300-cbad-41d5-8e50-9684f7850798, reduksjon (fall) i påfølgende trygde- og) ble IKKE funnet på oppgitt side
 - OK   3 estimat=79.1 rad 117 (KU-34183300-cbad-41d5-8e50-9684f7850798, reduksjon (fall) i påfølgende trygde- og) står i sitatet
-- OK   2 sitat rad 118 (KU-34183300-cbad-41d5-8e50-9684f7850798, økning i andel sysselsatt to år senere; ) står på oppgitt side
+- FEIL 2 sitat rad 118 (KU-34183300-cbad-41d5-8e50-9684f7850798, økning i andel sysselsatt to år senere; ) ble IKKE funnet på oppgitt side
 - OK   3 estimat=15.9 rad 118 (KU-34183300-cbad-41d5-8e50-9684f7850798, økning i andel sysselsatt to år senere; ) står i sitatet
-- OK   2 sitat rad 119 (KU-34183300-cbad-41d5-8e50-9684f7850798, større sjanse for å melde seg fullt arbe) står på oppgitt side
+- FEIL 2 sitat rad 119 (KU-34183300-cbad-41d5-8e50-9684f7850798, større sjanse for å melde seg fullt arbe) ble IKKE funnet på oppgitt side
 - OK   3 estimat=50 rad 119 (KU-34183300-cbad-41d5-8e50-9684f7850798, større sjanse for å melde seg fullt arbe) står i sitatet
-- OK   2 sitat rad 120 (AV-2011-3-02, andel av sykefraværstilfeller påbegynt i) står på oppgitt side
+- FEIL 2 sitat rad 120 (AV-2011-3-02, andel av sykefraværstilfeller påbegynt i) ble IKKE funnet på oppgitt side
 - OK   3 estimat=15 rad 120 (AV-2011-3-02, andel av sykefraværstilfeller påbegynt i) står i sitatet
-- OK   2 sitat rad 121 (AV-2011-3-02, andel av sykefraværstilfeller lengre enn) står på oppgitt side
+- FEIL 2 sitat rad 121 (AV-2011-3-02, andel av sykefraværstilfeller lengre enn) ble IKKE funnet på oppgitt side
 - OK   3 estimat=57 rad 121 (AV-2011-3-02, andel av sykefraværstilfeller lengre enn) står i sitatet
-- OK   2 sitat rad 122 (AV-2007-3-05, ingen sammenheng mellom legers økte bruk) står på oppgitt side
-- OK   2 sitat rad 123 (W3010213937, antall prospektive effektstudier om grad) står på oppgitt side
+- FEIL 2 sitat rad 122 (AV-2007-3-05, ingen sammenheng mellom legers økte bruk) ble IKKE funnet på oppgitt side
+- FEIL 2 sitat rad 123 (W3010213937, antall prospektive effektstudier om grad) ble IKKE funnet på oppgitt side
 - OK   3 estimat=6 rad 123 (W3010213937, antall prospektive effektstudier om grad) står i sitatet
-- OK   2 sitat rad 124 (W2132658439, arbeidsdeltakelse (andel av 365 dager i ) står på oppgitt side
+- FEIL 2 sitat rad 124 (W2132658439, arbeidsdeltakelse (andel av 365 dager i ) ble IKKE funnet på oppgitt side
 - OK   3 estimat=5.3 rad 124 (W2132658439, arbeidsdeltakelse (andel av 365 dager i ) står i sitatet
 - OK   3 ki_lav=3.1 rad 124 (W2132658439, arbeidsdeltakelse (andel av 365 dager i ) står i sitatet
 - OK   3 ki_hoy=7.5 rad 124 (W2132658439, arbeidsdeltakelse (andel av 365 dager i ) står i sitatet
 - OK   4 rad 124 (W2132658439, arbeidsdeltakelse (andel av 365 dager i ) estimat innenfor KI
-- OK   2 sitat rad 125 (W2132658439, arbeidsdeltakelse, forskjell-i-forskjell) står på oppgitt side
+- FEIL 2 sitat rad 125 (W2132658439, arbeidsdeltakelse, forskjell-i-forskjell) ble IKKE funnet på oppgitt side
 - OK   3 estimat=9.8 rad 125 (W2132658439, arbeidsdeltakelse, forskjell-i-forskjell) står i sitatet
 - OK   3 ki_lav=5.9 rad 125 (W2132658439, arbeidsdeltakelse, forskjell-i-forskjell) står i sitatet
 - OK   3 ki_hoy=13.7 rad 125 (W2132658439, arbeidsdeltakelse, forskjell-i-forskjell) står i sitatet
 - OK   4 rad 125 (W2132658439, arbeidsdeltakelse, forskjell-i-forskjell) estimat innenfor KI
-- OK   2 sitat rad 126 (W2132658439, arbeidsdeltakelse, forskjell-i-forskjell) står på oppgitt side
+- FEIL 2 sitat rad 126 (W2132658439, arbeidsdeltakelse, forskjell-i-forskjell) ble IKKE funnet på oppgitt side
 - OK   3 estimat=12.8 rad 126 (W2132658439, arbeidsdeltakelse, forskjell-i-forskjell) står i sitatet
 - OK   3 ki_lav=9.0 rad 126 (W2132658439, arbeidsdeltakelse, forskjell-i-forskjell) står i sitatet
 - OK   3 ki_hoy=16.5 rad 126 (W2132658439, arbeidsdeltakelse, forskjell-i-forskjell) står i sitatet
 - OK   4 rad 126 (W2132658439, arbeidsdeltakelse, forskjell-i-forskjell) estimat innenfor KI
-- OK   2 sitat rad 127 (W2132658439, arbeidsdeltakelse, forskjell-i-forskjell) står på oppgitt side
+- FEIL 2 sitat rad 127 (W2132658439, arbeidsdeltakelse, forskjell-i-forskjell) ble IKKE funnet på oppgitt side
 - OK   3 estimat=18.9 rad 127 (W2132658439, arbeidsdeltakelse, forskjell-i-forskjell) står i sitatet
 - OK   3 ki_lav=14.2 rad 127 (W2132658439, arbeidsdeltakelse, forskjell-i-forskjell) står i sitatet
 - OK   3 ki_hoy=23.5 rad 127 (W2132658439, arbeidsdeltakelse, forskjell-i-forskjell) står i sitatet
 - OK   4 rad 127 (W2132658439, arbeidsdeltakelse, forskjell-i-forskjell) estimat innenfor KI
-- OK   2 sitat rad 128 (W2132658439, arbeidsdeltakelse, forskjell-i-forskjell) står på oppgitt side
+- FEIL 2 sitat rad 128 (W2132658439, arbeidsdeltakelse, forskjell-i-forskjell) ble IKKE funnet på oppgitt side
 - OK   3 estimat=6.3 rad 128 (W2132658439, arbeidsdeltakelse, forskjell-i-forskjell) står i sitatet
 - OK   3 ki_lav=1.5 rad 128 (W2132658439, arbeidsdeltakelse, forskjell-i-forskjell) står i sitatet
 - OK   3 ki_hoy=11.2 rad 128 (W2132658439, arbeidsdeltakelse, forskjell-i-forskjell) står i sitatet
 - OK   4 rad 128 (W2132658439, arbeidsdeltakelse, forskjell-i-forskjell) estimat innenfor KI
-- OK   2 sitat rad 129 (W2159632075, absolutt reduksjon i risiko for full ufø) står på oppgitt side
+- FEIL 2 sitat rad 129 (W2159632075, absolutt reduksjon i risiko for full ufø) ble IKKE funnet på oppgitt side
 - OK   3 estimat=6 rad 129 (W2159632075, absolutt reduksjon i risiko for full ufø) står i sitatet
-- OK   2 sitat rad 130 (W2159632075, absolutt økning i risiko for delvis ufør) står på oppgitt side
+- FEIL 2 sitat rad 130 (W2159632075, absolutt økning i risiko for delvis ufør) ble IKKE funnet på oppgitt side
 - OK   3 estimat=8 rad 130 (W2159632075, absolutt økning i risiko for delvis ufør) står i sitatet
-- OK   2 sitat rad 131 (W2159632075, absolutt reduksjon i bruk av full uførep) står på oppgitt side
+- FEIL 2 sitat rad 131 (W2159632075, absolutt reduksjon i bruk av full uførep) ble IKKE funnet på oppgitt side
 - OK   3 estimat=10 rad 131 (W2159632075, absolutt reduksjon i bruk av full uførep) står i sitatet
-- OK   2 sitat rad 132 (W2986214152, koeffisient for gradert sykmelding i Wei) står på oppgitt side
+- FEIL 2 sitat rad 132 (W2986214152, koeffisient for gradert sykmelding i Wei) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.717 rad 132 (W2986214152, koeffisient for gradert sykmelding i Wei) står i sitatet
-- OK   2 sitat rad 133 (W2986214152, koeffisient for gradert sykmelding i Wei) står på oppgitt side
+- FEIL 2 sitat rad 133 (W2986214152, koeffisient for gradert sykmelding i Wei) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.115 rad 133 (W2986214152, koeffisient for gradert sykmelding i Wei) står i sitatet
-- OK   2 sitat rad 134 (W2986214152, koeffisient for gradert sykmelding på ef) står på oppgitt side
+- FEIL 2 sitat rad 134 (W2986214152, koeffisient for gradert sykmelding på ef) ble IKKE funnet på oppgitt side
 - OK   3 estimat=-0.247 rad 134 (W2986214152, koeffisient for gradert sykmelding på ef) står i sitatet
-- OK   2 sitat rad 135 (W3198402854, antall studier om gradert sykmelding i f) står på oppgitt side
+- FEIL 2 sitat rad 135 (W3198402854, antall studier om gradert sykmelding i f) ble IKKE funnet på oppgitt side
 - OK   3 estimat=6 rad 135 (W3198402854, antall studier om gradert sykmelding i f) står i sitatet
-- OK   2 sitat rad 136 (W3138116577, ekstra dager borte til varig full retur ) står på oppgitt side
+- FEIL 2 sitat rad 136 (W3138116577, ekstra dager borte til varig full retur ) ble IKKE funnet på oppgitt side
 - OK   3 estimat=24.6 rad 136 (W3138116577, ekstra dager borte til varig full retur ) står i sitatet
 - OK   3 ki_lav=19.9 rad 136 (W3138116577, ekstra dager borte til varig full retur ) står i sitatet
 - OK   3 ki_hoy=29.2 rad 136 (W3138116577, ekstra dager borte til varig full retur ) står i sitatet
 - OK   4 rad 136 (W3138116577, ekstra dager borte til varig full retur ) estimat innenfor KI
-- OK   2 sitat rad 137 (W3138116577, ekstra dager borte til varig full retur ) står på oppgitt side
+- FEIL 2 sitat rad 137 (W3138116577, ekstra dager borte til varig full retur ) ble IKKE funnet på oppgitt side
 - OK   3 estimat=-9.4 rad 137 (W3138116577, ekstra dager borte til varig full retur ) står i sitatet
 - OK   3 ki_lav=-22.2 rad 137 (W3138116577, ekstra dager borte til varig full retur ) står i sitatet
 - OK   3 ki_hoy=3.5 rad 137 (W3138116577, ekstra dager borte til varig full retur ) står i sitatet
 - OK   4 rad 137 (W3138116577, ekstra dager borte til varig full retur ) estimat innenfor KI
-- OK   2 sitat rad 138 (KU-a0d29b59-a943-4e06-bb77-35d70df04c85, andel sykefraværstilfeller påbegynt i 20) står på oppgitt side
+- FEIL 2 sitat rad 138 (KU-a0d29b59-a943-4e06-bb77-35d70df04c85, andel sykefraværstilfeller påbegynt i 20) ble IKKE funnet på oppgitt side
 - OK   3 estimat=15 rad 138 (KU-a0d29b59-a943-4e06-bb77-35d70df04c85, andel sykefraværstilfeller påbegynt i 20) står i sitatet
-- OK   2 sitat rad 139 (KU-a0d29b59-a943-4e06-bb77-35d70df04c85, andel sykefraværstilfeller lengre enn 90) står på oppgitt side
+- FEIL 2 sitat rad 139 (KU-a0d29b59-a943-4e06-bb77-35d70df04c85, andel sykefraværstilfeller lengre enn 90) ble IKKE funnet på oppgitt side
 - OK   3 estimat=57 rad 139 (KU-a0d29b59-a943-4e06-bb77-35d70df04c85, andel sykefraværstilfeller lengre enn 90) står i sitatet
-- OK   2 sitat rad 140 (KU-a0d29b59-a943-4e06-bb77-35d70df04c85, graderingsandel (andel sykefraværsdager ) står på oppgitt side
+- FEIL 2 sitat rad 140 (KU-a0d29b59-a943-4e06-bb77-35d70df04c85, graderingsandel (andel sykefraværsdager ) ble IKKE funnet på oppgitt side
 - OK   3 estimat=14 rad 140 (KU-a0d29b59-a943-4e06-bb77-35d70df04c85, graderingsandel (andel sykefraværsdager ) står i sitatet
-- OK   2 sitat rad 141 (KU-a0d29b59-a943-4e06-bb77-35d70df04c85, nedgang i sykefraværsraten per prosentpo) står på oppgitt side
+- FEIL 2 sitat rad 141 (KU-a0d29b59-a943-4e06-bb77-35d70df04c85, nedgang i sykefraværsraten per prosentpo) ble IKKE funnet på oppgitt side
 - OK   3 estimat=1.79 rad 141 (KU-a0d29b59-a943-4e06-bb77-35d70df04c85, nedgang i sykefraværsraten per prosentpo) står i sitatet
-- OK   2 sitat rad 142 (KU-a0d29b59-a943-4e06-bb77-35d70df04c85, endring i sykefraværsraten per prosentpo) står på oppgitt side
+- FEIL 2 sitat rad 142 (KU-a0d29b59-a943-4e06-bb77-35d70df04c85, endring i sykefraværsraten per prosentpo) ble IKKE funnet på oppgitt side
 - OK   3 estimat=-1.26 rad 142 (KU-a0d29b59-a943-4e06-bb77-35d70df04c85, endring i sykefraværsraten per prosentpo) står i sitatet
-- OK   2 sitat rad 143 (KU-a0d29b59-a943-4e06-bb77-35d70df04c85, reduksjon i sykefraværsraten per prosent) står på oppgitt side
+- FEIL 2 sitat rad 143 (KU-a0d29b59-a943-4e06-bb77-35d70df04c85, reduksjon i sykefraværsraten per prosent) ble IKKE funnet på oppgitt side
 - OK   3 estimat=2.37 rad 143 (KU-a0d29b59-a943-4e06-bb77-35d70df04c85, reduksjon i sykefraværsraten per prosent) står i sitatet
-- OK   2 sitat rad 144 (KU-a0d29b59-a943-4e06-bb77-35d70df04c85, endring i varigheten av sykefraværet per) står på oppgitt side
+- FEIL 2 sitat rad 144 (KU-a0d29b59-a943-4e06-bb77-35d70df04c85, endring i varigheten av sykefraværet per) ble IKKE funnet på oppgitt side
 - OK   3 estimat=-0.49 rad 144 (KU-a0d29b59-a943-4e06-bb77-35d70df04c85, endring i varigheten av sykefraværet per) står i sitatet
-- OK   2 sitat rad 145 (KU-a0d29b59-a943-4e06-bb77-35d70df04c85, endring i andelen sykmeldte per prosentp) står på oppgitt side
+- FEIL 2 sitat rad 145 (KU-a0d29b59-a943-4e06-bb77-35d70df04c85, endring i andelen sykmeldte per prosentp) ble IKKE funnet på oppgitt side
 - OK   3 estimat=-1.34 rad 145 (KU-a0d29b59-a943-4e06-bb77-35d70df04c85, endring i andelen sykmeldte per prosentp) står i sitatet
-- OK   2 sitat rad 146 (FI-fikka.5922382, forventet yrkesaktiv tid (working life e) står på oppgitt side
+- FEIL 2 sitat rad 146 (FI-fikka.5922382, forventet yrkesaktiv tid (working life e) ble IKKE funnet på oppgitt side
 - OK   3 estimat=2.86 rad 146 (FI-fikka.5922382, forventet yrkesaktiv tid (working life e) står i sitatet
 - OK   3 ki_lav=1.52 rad 146 (FI-fikka.5922382, forventet yrkesaktiv tid (working life e) står i sitatet
 - OK   3 ki_hoy=4.22 rad 146 (FI-fikka.5922382, forventet yrkesaktiv tid (working life e) står i sitatet
 - OK   4 rad 146 (FI-fikka.5922382, forventet yrkesaktiv tid (working life e) estimat innenfor KI
-- OK   2 sitat rad 147 (FI-fikka.5922382, forventet yrkesaktiv tid ved 30 år, år m) står på oppgitt side
+- FEIL 2 sitat rad 147 (FI-fikka.5922382, forventet yrkesaktiv tid ved 30 år, år m) ble IKKE funnet på oppgitt side
 - OK   3 estimat=1.03 rad 147 (FI-fikka.5922382, forventet yrkesaktiv tid ved 30 år, år m) står i sitatet
 - OK   3 ki_lav=0.28 rad 147 (FI-fikka.5922382, forventet yrkesaktiv tid ved 30 år, år m) står i sitatet
 - OK   3 ki_hoy=1.78 rad 147 (FI-fikka.5922382, forventet yrkesaktiv tid ved 30 år, år m) står i sitatet
 - OK   4 rad 147 (FI-fikka.5922382, forventet yrkesaktiv tid ved 30 år, år m) estimat innenfor KI
-- OK   2 sitat rad 148 (FI-fikka.5922382, forventet yrkesaktiv tid ved 30 år, år m) står på oppgitt side
+- FEIL 2 sitat rad 148 (FI-fikka.5922382, forventet yrkesaktiv tid ved 30 år, år m) ble IKKE funnet på oppgitt side
 - OK   3 estimat=3.92 rad 148 (FI-fikka.5922382, forventet yrkesaktiv tid ved 30 år, år m) står i sitatet
-- OK   2 sitat rad 149 (FI-fikka.5922382, forventet yrkesaktiv tid ved 30 år, år m) står på oppgitt side
+- FEIL 2 sitat rad 149 (FI-fikka.5922382, forventet yrkesaktiv tid ved 30 år, år m) ble IKKE funnet på oppgitt side
 - OK   3 estimat=1.02 rad 149 (FI-fikka.5922382, forventet yrkesaktiv tid ved 30 år, år m) står i sitatet
-- OK   2 sitat rad 150 (FI-fikka.5922382, forventet yrkesaktiv tid ved 30 år, år m) står på oppgitt side
+- FEIL 2 sitat rad 150 (FI-fikka.5922382, forventet yrkesaktiv tid ved 30 år, år m) ble IKKE funnet på oppgitt side
 - OK   3 estimat=2.63 rad 150 (FI-fikka.5922382, forventet yrkesaktiv tid ved 30 år, år m) står i sitatet
-- OK   2 sitat rad 151 (FI-fikka.5922382, forventet yrkesaktiv tid ved 30 år, år m) står på oppgitt side
+- FEIL 2 sitat rad 151 (FI-fikka.5922382, forventet yrkesaktiv tid ved 30 år, år m) ble IKKE funnet på oppgitt side
 - OK   3 estimat=1.98 rad 151 (FI-fikka.5922382, forventet yrkesaktiv tid ved 30 år, år m) står i sitatet
-- OK   2 sitat rad 152 (FI-fikka.5922382, færre tapte arbeidsår på uførepensjon ve) står på oppgitt side
+- FEIL 2 sitat rad 152 (FI-fikka.5922382, færre tapte arbeidsår på uførepensjon ve) ble IKKE funnet på oppgitt side
 - OK   3 estimat=1.07 rad 152 (FI-fikka.5922382, færre tapte arbeidsår på uførepensjon ve) står i sitatet
-- OK   2 sitat rad 153 (FI-fikka.5922382, færre tapte arbeidsår på uførepensjon ve) står på oppgitt side
+- FEIL 2 sitat rad 153 (FI-fikka.5922382, færre tapte arbeidsår på uførepensjon ve) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.85 rad 153 (FI-fikka.5922382, færre tapte arbeidsår på uførepensjon ve) står i sitatet
-- OK   2 sitat rad 154 (FI-fikka.5922382, andel med vedvarende høy arbeidsdeltakel) står på oppgitt side
+- FEIL 2 sitat rad 154 (FI-fikka.5922382, andel med vedvarende høy arbeidsdeltakel) ble IKKE funnet på oppgitt side
 - OK   3 estimat=40.4 rad 154 (FI-fikka.5922382, andel med vedvarende høy arbeidsdeltakel) står i sitatet
-- OK   2 sitat rad 155 (FI-fikka.5922382, andel med rask overgang til full arbeids) står på oppgitt side
+- FEIL 2 sitat rad 155 (FI-fikka.5922382, andel med rask overgang til full arbeids) ble IKKE funnet på oppgitt side
 - OK   3 estimat=7.7 rad 155 (FI-fikka.5922382, andel med rask overgang til full arbeids) står i sitatet
-- OK   2 sitat rad 156 (FI-jykdok.2341206, dager til retur til vanlige arbeidsoppga) står på oppgitt side
+- FEIL 2 sitat rad 156 (FI-jykdok.2341206, dager til retur til vanlige arbeidsoppga) ble IKKE funnet på oppgitt side
 - OK   3 estimat=12 rad 156 (FI-jykdok.2341206, dager til retur til vanlige arbeidsoppga) står i sitatet
-- OK   2 sitat rad 157 (FI-jykdok.2341206, retur til arbeid, justert hasardrate (al) står på oppgitt side
+- FEIL 2 sitat rad 157 (FI-jykdok.2341206, retur til arbeid, justert hasardrate (al) ble IKKE funnet på oppgitt side
 - OK   3 estimat=1.76 rad 157 (FI-jykdok.2341206, retur til arbeid, justert hasardrate (al) står i sitatet
 - OK   3 ki_lav=1.20 rad 157 (FI-jykdok.2341206, retur til arbeid, justert hasardrate (al) står i sitatet
 - OK   3 ki_hoy=2.82 rad 157 (FI-jykdok.2341206, retur til arbeid, justert hasardrate (al) står i sitatet
 - OK   4 rad 157 (FI-jykdok.2341206, retur til arbeid, justert hasardrate (al) estimat innenfor KI
 - OK   4 rad 157 (FI-jykdok.2341206, retur til arbeid, justert hasardrate (al) KI symmetrisk på log-skala (avvik 0.09)
-- OK   2 sitat rad 158 (FI-jykdok.2341206, retur til arbeid, ujustert hasardrate) står på oppgitt side
+- FEIL 2 sitat rad 158 (FI-jykdok.2341206, retur til arbeid, ujustert hasardrate) ble IKKE funnet på oppgitt side
 - OK   3 estimat=1.52 rad 158 (FI-jykdok.2341206, retur til arbeid, ujustert hasardrate) står i sitatet
 - OK   3 ki_lav=0.91 rad 158 (FI-jykdok.2341206, retur til arbeid, ujustert hasardrate) står i sitatet
 - OK   3 ki_hoy=2.55 rad 158 (FI-jykdok.2341206, retur til arbeid, ujustert hasardrate) står i sitatet
 - OK   4 rad 158 (FI-jykdok.2341206, retur til arbeid, ujustert hasardrate) estimat innenfor KI
 - OK   4 rad 158 (FI-jykdok.2341206, retur til arbeid, ujustert hasardrate) KI symmetrisk på log-skala (avvik 0.00)
-- OK   2 sitat rad 159 (FI-jykdok.2341206, færre sykefraværsdager i løpet av 12 mån) står på oppgitt side
+- FEIL 2 sitat rad 159 (FI-jykdok.2341206, færre sykefraværsdager i løpet av 12 mån) ble IKKE funnet på oppgitt side
 - OK   3 estimat=20 rad 159 (FI-jykdok.2341206, færre sykefraværsdager i løpet av 12 mån) står i sitatet
-- OK   2 sitat rad 160 (FI-jykdok.2341206, spart arbeidsinnsats i euro per arbeidst) står på oppgitt side
+- FEIL 2 sitat rad 160 (FI-jykdok.2341206, spart arbeidsinnsats i euro per arbeidst) ble IKKE funnet på oppgitt side
 - OK   3 estimat=1882 rad 160 (FI-jykdok.2341206, spart arbeidsinnsats i euro per arbeidst) står i sitatet
 - OK   2 sitat rad 161 (W3023766513, ingen effektestimat i sammendraget; over) står på oppgitt side
-- OK   2 sitat rad 165 (AV-2016-3-05, lavere sannsynlighet for friskmelding i ) står på oppgitt side
+- FEIL 2 sitat rad 165 (AV-2016-3-05, lavere sannsynlighet for friskmelding i ) ble IKKE funnet på oppgitt side
 - OK   3 estimat=24 rad 165 (AV-2016-3-05, lavere sannsynlighet for friskmelding i ) står i sitatet
-- OK   2 sitat rad 166 (AV-2016-3-05, hasardratio for friskmelding, alle kontr) står på oppgitt side
+- FEIL 2 sitat rad 166 (AV-2016-3-05, hasardratio for friskmelding, alle kontr) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.761 rad 166 (AV-2016-3-05, hasardratio for friskmelding, alle kontr) står i sitatet
-- OK   2 sitat rad 167 (AV-2016-3-05, hasardratio for friskmelding uten kontro) står på oppgitt side
+- FEIL 2 sitat rad 167 (AV-2016-3-05, hasardratio for friskmelding uten kontro) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.738 rad 167 (AV-2016-3-05, hasardratio for friskmelding uten kontro) står i sitatet
-- OK   2 sitat rad 168 (AV-2016-3-05, uker til friskmeldingsraten for graderte) står på oppgitt side
+- FEIL 2 sitat rad 168 (AV-2016-3-05, uker til friskmeldingsraten for graderte) ble IKKE funnet på oppgitt side
 - OK   3 estimat=30 rad 168 (AV-2016-3-05, uker til friskmeldingsraten for graderte) står i sitatet
-- OK   2 sitat rad 169 (019904aa7986-0e4c2361-eb33-4871-9ab3-47b965597085, antall relevante studier av gradert/akti) står på oppgitt side
+- FEIL 2 sitat rad 169 (019904aa7986-0e4c2361-eb33-4871-9ab3-47b965597085, antall relevante studier av gradert/akti) ble IKKE funnet på oppgitt side
 - OK   3 estimat=13 rad 169 (019904aa7986-0e4c2361-eb33-4871-9ab3-47b965597085, antall relevante studier av gradert/akti) står i sitatet
-- OK   2 sitat rad 170 (W2794297004, arbeidsstatus, retur til arbeid og sykef) står på oppgitt side
-- OK   2 sitat rad 171 (W4392582001, arbeidsdeltakelse og retur til arbeid; i) står på oppgitt side
-- OK   2 sitat rad 172 (W2794825180, ny sykmelding (tilbakefall) etter retur ) står på oppgitt side
+- FEIL 2 sitat rad 170 (W2794297004, arbeidsstatus, retur til arbeid og sykef) ble IKKE funnet på oppgitt side
+- FEIL 2 sitat rad 171 (W4392582001, arbeidsdeltakelse og retur til arbeid; i) ble IKKE funnet på oppgitt side
+- FEIL 2 sitat rad 172 (W2794825180, ny sykmelding (tilbakefall) etter retur ) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.35 rad 172 (W2794825180, ny sykmelding (tilbakefall) etter retur ) står i sitatet
 - OK   3 ki_lav=0.16 rad 172 (W2794825180, ny sykmelding (tilbakefall) etter retur ) står i sitatet
 - OK   3 ki_hoy=0.78 rad 172 (W2794825180, ny sykmelding (tilbakefall) etter retur ) står i sitatet
 - OK   4 rad 172 (W2794825180, ny sykmelding (tilbakefall) etter retur ) estimat innenfor KI
 - OK   4 rad 172 (W2794825180, ny sykmelding (tilbakefall) etter retur ) KI symmetrisk på log-skala (avvik 0.02)
-- OK   2 sitat rad 173 (W1579837130, full gjenvunnet arbeidsevne innen 30 dag) står på oppgitt side
+- FEIL 2 sitat rad 173 (W1579837130, full gjenvunnet arbeidsevne innen 30 dag) ble IKKE funnet på oppgitt side
 - OK   3 estimat=-0.3924 rad 173 (W1579837130, full gjenvunnet arbeidsevne innen 30 dag) står i sitatet
-- OK   2 sitat rad 174 (W1579837130, full gjenvunnet arbeidsevne innen 150 da) står på oppgitt side
+- FEIL 2 sitat rad 174 (W1579837130, full gjenvunnet arbeidsevne innen 150 da) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.0791 rad 174 (W1579837130, full gjenvunnet arbeidsevne innen 150 da) står i sitatet
-- OK   2 sitat rad 175 (W1579837130, full gjenvunnet arbeidsevne innen 300 da) står på oppgitt side
+- FEIL 2 sitat rad 175 (W1579837130, full gjenvunnet arbeidsevne innen 300 da) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.1307 rad 175 (W1579837130, full gjenvunnet arbeidsevne innen 300 da) står i sitatet
-- OK   2 sitat rad 176 (W1579837130, full gjenvunnet arbeidsevne innen 180 da) står på oppgitt side
+- FEIL 2 sitat rad 176 (W1579837130, full gjenvunnet arbeidsevne innen 180 da) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.0040 rad 176 (W1579837130, full gjenvunnet arbeidsevne innen 180 da) står i sitatet
-- OK   2 sitat rad 177 (W1527098577, full gjenvunnet arbeidsevne etter ett år) står på oppgitt side
+- FEIL 2 sitat rad 177 (W1527098577, full gjenvunnet arbeidsevne etter ett år) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.254 rad 177 (W1527098577, full gjenvunnet arbeidsevne etter ett år) står i sitatet
-- OK   2 sitat rad 178 (W1527098577, full gjenvunnet arbeidsevne etter ett år) står på oppgitt side
+- FEIL 2 sitat rad 178 (W1527098577, full gjenvunnet arbeidsevne etter ett år) ble IKKE funnet på oppgitt side
 - OK   3 estimat=-0.130 rad 178 (W1527098577, full gjenvunnet arbeidsevne etter ett år) står i sitatet
-- OK   2 sitat rad 179 (W1527098577, full gjenvunnet arbeidsevne etter ett år) står på oppgitt side
+- FEIL 2 sitat rad 179 (W1527098577, full gjenvunnet arbeidsevne etter ett år) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.175 rad 179 (W1527098577, full gjenvunnet arbeidsevne etter ett år) står i sitatet
-- OK   2 sitat rad 180 (W1527098577, full gjenvunnet arbeidsevne etter ett år) står på oppgitt side
+- FEIL 2 sitat rad 180 (W1527098577, full gjenvunnet arbeidsevne etter ett år) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.346 rad 180 (W1527098577, full gjenvunnet arbeidsevne etter ett år) står i sitatet
 - OK   2 sitat rad 181 (W2005271733, ingen effektestimat i sammendraget (bare) står på oppgitt side
 - OK   2 sitat rad 182 (W4239637744, ingen effektestimat i sammendraget: grad) står på oppgitt side
@@ -1042,11 +1043,9 @@ Kjørt 2026-11-10.
 - OK   5 tallet 14 i svaret finnes i estimat- eller statistikktabellen
 - OK   5 tallet 14.9 i svaret finnes i estimat- eller statistikktabellen
 - OK   5 tallet 15 i svaret finnes i estimat- eller statistikktabellen
-- OK   5 tallet 16 i svaret finnes i estimat- eller statistikktabellen
 - OK   5 tallet 18 i svaret finnes i estimat- eller statistikktabellen
 - OK   5 tallet 18.8 i svaret finnes i estimat- eller statistikktabellen
 - OK   5 tallet 18.9 i svaret finnes i estimat- eller statistikktabellen
-- OK   5 tallet 180 i svaret finnes i estimat- eller statistikktabellen
 - OK   5 tallet 19 i svaret finnes i estimat- eller statistikktabellen
 - OK   5 tallet 19.9 i svaret finnes i estimat- eller statistikktabellen
 - OK   5 tallet 2.0 i svaret finnes i estimat- eller statistikktabellen
@@ -1058,7 +1057,6 @@ Kjørt 2026-11-10.
 - OK   5 tallet 20 i svaret finnes i estimat- eller statistikktabellen
 - OK   5 tallet 21 i svaret finnes i estimat- eller statistikktabellen
 - OK   5 tallet 22.2 i svaret finnes i estimat- eller statistikktabellen
-- OK   5 tallet 23 i svaret finnes i estimat- eller statistikktabellen
 - OK   5 tallet 23.5 i svaret finnes i estimat- eller statistikktabellen
 - OK   5 tallet 2395 i svaret finnes i estimat- eller statistikktabellen
 - OK   5 tallet 24 i svaret finnes i estimat- eller statistikktabellen
@@ -1067,6 +1065,7 @@ Kjørt 2026-11-10.
 - OK   5 tallet 2501 i svaret finnes i estimat- eller statistikktabellen
 - OK   5 tallet 27.1 i svaret finnes i estimat- eller statistikktabellen
 - OK   5 tallet 283296 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 29 i svaret finnes i estimat- eller statistikktabellen
 - OK   5 tallet 29.2 i svaret finnes i estimat- eller statistikktabellen
 - OK   5 tallet 3.1 i svaret finnes i estimat- eller statistikktabellen
 - OK   5 tallet 3.5 i svaret finnes i estimat- eller statistikktabellen
@@ -1095,7 +1094,6 @@ Kjørt 2026-11-10.
 - OK   5 tallet 68 i svaret finnes i estimat- eller statistikktabellen
 - OK   5 tallet 7.5 i svaret finnes i estimat- eller statistikktabellen
 - OK   5 tallet 70 i svaret finnes i estimat- eller statistikktabellen
-- OK   5 tallet 71 i svaret finnes i estimat- eller statistikktabellen
 - OK   5 tallet 72 i svaret finnes i estimat- eller statistikktabellen
 - OK   5 tallet 73 i svaret finnes i estimat- eller statistikktabellen
 - OK   5 tallet 8.0 i svaret finnes i estimat- eller statistikktabellen
@@ -1103,7 +1101,6 @@ Kjørt 2026-11-10.
 - OK   5 tallet 9.4 i svaret finnes i estimat- eller statistikktabellen
 - OK   5 tallet 9.8 i svaret finnes i estimat- eller statistikktabellen
 - OK   5 tallet 90 i svaret finnes i estimat- eller statistikktabellen
-- OK   5 tallet 92 i svaret finnes i estimat- eller statistikktabellen
 - OK   6 utelatt W2742190594 «Systematic review: Factors associated with return to work in burnout» (2017) – Oversikt over prediktorer for retur ved utbrenthet, ikke effekt av gradert sykmelding
 - OK   6 utelatt W4412408142 «Predictors of sustained return to work after sick leave due to mental » (2025) – Oversikt over prediktorer ved psykiske lidelser, ikke effekt av gradert sykmelding
 - OK   6 utelatt W2800843993 «549 Preventing work disability in workers with depression; a systemati» (2018) – Konferansesammendrag om depresjon og arbeidsuførhet, ikke gradert sykmelding

@@ -4,9 +4,9 @@
 
 **Spørsmålet** (mandat godkjent av bestilleren 10.11.2026): Hvordan påvirker hvor lenge man kan få dagpenger, og hvor høye de er, hvor raskt ledige kommer i arbeid og hvor gode jobbene blir?
 
-**Kildegrunnlaget.** Søket i internasjonale, norske, svenske og finske kataloger, tre runder med referanser og to blinde utvalg ga et utvalg på om lag åtte hundre og åtti studier. Etter avtale med bestilleren er tallene hentet ut for kjernen: oversikter, studier i kategori 1–3 (forsøk, reformer og naturlige eksperimenter) og alle nordiske studier, til sammen fire hundre og fem kilder. To hundre og tretten av dem er lest i fulltekst, og hundre og nittito bare i sammendrag. Registerstudier i kategori 4–5 utenfor Norden er bare listet i vedlegget. Alle tall står med sitat og side i vedlegg A.
+**Kildegrunnlaget.** Søket i internasjonale, norske, svenske og finske kataloger, tre runder med referanser og to blinde utvalg ga et utvalg på om lag 880 studier. Etter avtale med bestilleren er tallene hentet ut for kjernen: oversikter, studier i kategori 1–3 (forsøk, reformer og naturlige eksperimenter) og alle nordiske studier, til sammen 405 kilder. Av dem er 213 lest i fulltekst, og 192 bare i sammendrag. Registerstudier i kategori 4–5 utenfor Norden er bare listet i vedlegget. Alle tall står med sitat og side i vedlegg A.
 
-**Reproduserbarhet.** Søk 10.11.2026. Commiten for katalogene står i `utvalg.md`. Første utvalg, første uttrekk og første blinde utvalg med Opus, andre blinde utvalg og andre uttrekk med Sonnet, grovsikting med Haiku. Hundre og nittito av kjernekildene er bare lest i sammendrag.
+**Reproduserbarhet.** Søk 10.11.2026. Commiten for katalogene står i `utvalg.md`. Første utvalg, første uttrekk og første blinde utvalg med Opus, andre blinde utvalg og andre uttrekk med Sonnet, grovsikting med Haiku. Av kjernekildene er 192 bare lest i sammendrag.
 
 ## Kort svar
 
@@ -100,7 +100,7 @@ Gjenansettelsesbonus (en engangssum til ledige som får jobb raskt) ble prøvd i
 ## Forbehold
 
 - **Avgrenset uttrekk.** Etter avtale med bestilleren er tall bare hentet ut for oversikter, studier i kategori 1–3 og nordiske studier. Registerstudier i kategori 4–5 utenfor Norden kan ha funn som ikke er med.
-- **Mange kilder bare i sammendrag.** Hundre og nittito av kjernekildene er bare lest i sammendrag, blant dem flere svenske og finske rapporter der katalogene bare har tittel og emneord.
+- **Mange kilder bare i sammendrag.** 192 av kjernekildene er bare lest i sammendrag, blant dem flere svenske og finske rapporter der katalogene bare har tittel og emneord.
 - **De norske studiene.** Ingen norsk studie av nivået bygger på en reform som skiller nivå fra andre endringer. Studiene av 1997-reformen gjelder en kombinasjon av lengre periode og færre krav.
 - **Jobbkvalitet** er målt ulikt (lønn, varighet i jobb, kontraktform), og resultatene spriker.
 - **Publiseringsskjevhet.** Metaanalysen som korrigerer for den, finner lavere effekter enn medianen i litteraturen.

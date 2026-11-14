@@ -1,9 +1,10 @@
 # Kontroll: sykefravaer-utvikling
 
-Kjørt 2026-11-08.
+Kjørt 2026-11-14.
 
-0 feil av 955 kontroller.
+96 feil av 1000 kontroller.
 
+- OBS  10 2 sentrale valgte kilder er ikke lest i fulltekst (1 ikke lest, 1 bare sammendrag; se vedlegg_bc.py). Forbeholdene NEVNER IKKE uleste kilder: sjekk at antallet stemmer.
 - OK   1 kilde 01999f330df6-61199673-0dc2-4da6-beee-44d402da77ad finnes
 - OK   1 kilde 019c13c07b5d-2fdc8def-e5c2-4997-bef7-68f2c1b7cada finnes
 - OK   1 kilde AV-2008-4-01 finnes
@@ -194,134 +195,134 @@ Kjørt 2026-11-08.
 - OK   1 forfatter «Palme» for W2993400654 står i metadata eller på tittelsiden
 - OK   1 forfatter «Chaupain-Guillot» for W2785834892 står i metadata eller på tittelsiden
 - OK   1 forfatter «Afsana» for W7171777052 står i metadata eller på tittelsiden
-- OK   2 sitat rad 1 (W3167036525, endring i sykefraværsraten i kommunen nå) står på oppgitt side
+- FEIL 2 sitat rad 1 (W3167036525, endring i sykefraværsraten i kommunen nå) ble IKKE funnet på oppgitt side
 - OK   3 estimat=-1.3 rad 1 (W3167036525, endring i sykefraværsraten i kommunen nå) står i sitatet
-- OK   2 sitat rad 2 (W4403637555, overskudd av tapte årsverk på grunn av l) står på oppgitt side
+- FEIL 2 sitat rad 2 (W4403637555, overskudd av tapte årsverk på grunn av l) ble IKKE funnet på oppgitt side
 - OK   3 estimat=24466 rad 2 (W4403637555, overskudd av tapte årsverk på grunn av l) står i sitatet
 - OK   3 ki_lav=14023 rad 2 (W4403637555, overskudd av tapte årsverk på grunn av l) står i sitatet
 - OK   3 ki_hoy=34705 rad 2 (W4403637555, overskudd av tapte årsverk på grunn av l) står i sitatet
 - OK   4 rad 2 (W4403637555, overskudd av tapte årsverk på grunn av l) estimat innenfor KI
-- OK   2 sitat rad 3 (W4403637555, overskudd av tapte årsverk på grunn av l) står på oppgitt side
+- FEIL 2 sitat rad 3 (W4403637555, overskudd av tapte årsverk på grunn av l) ble IKKE funnet på oppgitt side
 - OK   3 estimat=14491 rad 3 (W4403637555, overskudd av tapte årsverk på grunn av l) står i sitatet
 - OK   3 ki_lav=8935 rad 3 (W4403637555, overskudd av tapte årsverk på grunn av l) står i sitatet
 - OK   3 ki_hoy=20016 rad 3 (W4403637555, overskudd av tapte årsverk på grunn av l) står i sitatet
 - OK   4 rad 3 (W4403637555, overskudd av tapte årsverk på grunn av l) estimat innenfor KI
-- OK   2 sitat rad 4 (W4403637555, andel av overskuddet i 2023 som skyldes ) står på oppgitt side
+- FEIL 2 sitat rad 4 (W4403637555, andel av overskuddet i 2023 som skyldes ) ble IKKE funnet på oppgitt side
 - OK   3 estimat=14 rad 4 (W4403637555, andel av overskuddet i 2023 som skyldes ) står i sitatet
-- OK   2 sitat rad 5 (W4403637555, andel av overskuddet i 2023 som skyldes ) står på oppgitt side
+- FEIL 2 sitat rad 5 (W4403637555, andel av overskuddet i 2023 som skyldes ) ble IKKE funnet på oppgitt side
 - OK   3 estimat=11 rad 5 (W4403637555, andel av overskuddet i 2023 som skyldes ) står i sitatet
-- OK   2 sitat rad 6 (W4410313102, langtidsfravær for psykiske lidelser, la) står på oppgitt side
+- FEIL 2 sitat rad 6 (W4410313102, langtidsfravær for psykiske lidelser, la) ble IKKE funnet på oppgitt side
 - OK   3 estimat=1.25 rad 6 (W4410313102, langtidsfravær for psykiske lidelser, la) står i sitatet
-- OK   2 sitat rad 7 (W4410313102, langtidsfravær for psykiske lidelser, la) står på oppgitt side
+- FEIL 2 sitat rad 7 (W4410313102, langtidsfravær for psykiske lidelser, la) ble IKKE funnet på oppgitt side
 - OK   3 estimat=1.30 rad 7 (W4410313102, langtidsfravær for psykiske lidelser, la) står i sitatet
-- OK   2 sitat rad 8 (W4413383411, langtidsfravær (over 90 dager) med vanli) står på oppgitt side
-- OK   2 sitat rad 9 (W4413383411, langtidsfravær med vanlige psykiske lide) står på oppgitt side
+- FEIL 2 sitat rad 8 (W4413383411, langtidsfravær (over 90 dager) med vanli) ble IKKE funnet på oppgitt side
+- FEIL 2 sitat rad 9 (W4413383411, langtidsfravær med vanlige psykiske lide) ble IKKE funnet på oppgitt side
 - OK   3 estimat=5.9 rad 9 (W4413383411, langtidsfravær med vanlige psykiske lide) står i sitatet
 - OK   3 ki_lav=2.2 rad 9 (W4413383411, langtidsfravær med vanlige psykiske lide) står i sitatet
 - OK   3 ki_hoy=9.8 rad 9 (W4413383411, langtidsfravær med vanlige psykiske lide) står i sitatet
 - OK   4 rad 9 (W4413383411, langtidsfravær med vanlige psykiske lide) estimat innenfor KI
-- OK   2 sitat rad 10 (W7156333201, mønstre i sykefravær i kommunal sektor 2) står på oppgitt side
-- OK   2 sitat rad 11 (W7165061248, økning i sykedager per ansatt fra 2021 t) står på oppgitt side
+- FEIL 2 sitat rad 10 (W7156333201, mønstre i sykefravær i kommunal sektor 2) ble IKKE funnet på oppgitt side
+- FEIL 2 sitat rad 11 (W7165061248, økning i sykedager per ansatt fra 2021 t) ble IKKE funnet på oppgitt side
 - OK   3 estimat=3.6 rad 11 (W7165061248, økning i sykedager per ansatt fra 2021 t) står i sitatet
-- OK   2 sitat rad 12 (W7165061248, økning i sykedager per ansatt fra 2021 t) står på oppgitt side
+- FEIL 2 sitat rad 12 (W7165061248, økning i sykedager per ansatt fra 2021 t) ble IKKE funnet på oppgitt side
 - OK   3 estimat=2.4 rad 12 (W7165061248, økning i sykedager per ansatt fra 2021 t) står i sitatet
-- OK   2 sitat rad 13 (W7165061248, aldring forklarer lite av den langsiktig) står på oppgitt side
-- OK   2 sitat rad 14 (W7170890177, nye sykefravær med muskel- og skjelettli) står på oppgitt side
+- FEIL 2 sitat rad 13 (W7165061248, aldring forklarer lite av den langsiktig) ble IKKE funnet på oppgitt side
+- FEIL 2 sitat rad 14 (W7170890177, nye sykefravær med muskel- og skjelettli) ble IKKE funnet på oppgitt side
 - OK   3 estimat=9.86 rad 14 (W7170890177, nye sykefravær med muskel- og skjelettli) står i sitatet
-- OK   2 sitat rad 15 (W7170890177, fall i 2020–2021, deretter økning over n) står på oppgitt side
-- OK   2 sitat rad 16 (W4229447182, oppfølgingsregimer for sykmeldte; ingen ) står på oppgitt side
+- FEIL 2 sitat rad 15 (W7170890177, fall i 2020–2021, deretter økning over n) ble IKKE funnet på oppgitt side
+- FEIL 2 sitat rad 16 (W4229447182, oppfølgingsregimer for sykmeldte; ingen ) ble IKKE funnet på oppgitt side
 - OK   2 sitat rad 18 (W3009296559, nivå på sykefravær og uføretrygd i Norge) står på oppgitt side
 - OK   2 sitat rad 19 (W3009296559, Norges reformer; ingen tall i sammendrag) står på oppgitt side
 - OK   2 sitat rad 21 (W7200205185, langtidsfravær etter diagnose 2010–2023;) står på oppgitt side
 - OK   2 sitat rad 24 (W2993400654, sammenheng mellom sykelønnsordninger og ) står på oppgitt side
-- OK   2 sitat rad 25 (W4403637555, overskudd av tapte årsverk på grunn av l) står på oppgitt side
+- FEIL 2 sitat rad 25 (W4403637555, overskudd av tapte årsverk på grunn av l) ble IKKE funnet på oppgitt side
 - OK   3 estimat=21263 rad 25 (W4403637555, overskudd av tapte årsverk på grunn av l) står i sitatet
 - OK   3 ki_lav=12627 rad 25 (W4403637555, overskudd av tapte årsverk på grunn av l) står i sitatet
 - OK   3 ki_hoy=29864 rad 25 (W4403637555, overskudd av tapte årsverk på grunn av l) står i sitatet
 - OK   4 rad 25 (W4403637555, overskudd av tapte årsverk på grunn av l) estimat innenfor KI
-- OK   2 sitat rad 26 (W3167036525, endring i tilgangen til uførepensjon når) står på oppgitt side
+- FEIL 2 sitat rad 26 (W3167036525, endring i tilgangen til uførepensjon når) ble IKKE funnet på oppgitt side
 - OK   3 estimat=2.1 rad 26 (W3167036525, endring i tilgangen til uførepensjon når) står i sitatet
-- OK   2 sitat rad 27 (W7165061248, økning i sykedager per forsikret fra 202) står på oppgitt side
+- FEIL 2 sitat rad 27 (W7165061248, økning i sykedager per forsikret fra 202) ble IKKE funnet på oppgitt side
 - OK   3 estimat=2.5 rad 27 (W7165061248, økning i sykedager per forsikret fra 202) står i sitatet
-- OK   2 sitat rad 28 (W7165061248, anslag fra IGES, gjengitt i fotnote, på ) står på oppgitt side
+- FEIL 2 sitat rad 28 (W7165061248, anslag fra IGES, gjengitt i fotnote, på ) ble IKKE funnet på oppgitt side
 - OK   3 estimat=60 rad 28 (W7165061248, anslag fra IGES, gjengitt i fotnote, på ) står i sitatet
-- OK   2 sitat rad 29 (W7170890177, nye sykefravær uansett årsak per 100 ans) står på oppgitt side
+- FEIL 2 sitat rad 29 (W7170890177, nye sykefravær uansett årsak per 100 ans) ble IKKE funnet på oppgitt side
 - OK   3 estimat=173.1 rad 29 (W7170890177, nye sykefravær uansett årsak per 100 ans) står i sitatet
-- OK   2 sitat rad 30 (W3130895466, aldersstandardiserte sykefraværsdager pe) står på oppgitt side
+- FEIL 2 sitat rad 30 (W3130895466, aldersstandardiserte sykefraværsdager pe) ble IKKE funnet på oppgitt side
 - OK   3 estimat=2.4 rad 30 (W3130895466, aldersstandardiserte sykefraværsdager pe) står i sitatet
-- OK   2 sitat rad 31 (W3130895466, sykefraværsdager per forsikret per år me) står på oppgitt side
+- FEIL 2 sitat rad 31 (W3130895466, sykefraværsdager per forsikret per år me) ble IKKE funnet på oppgitt side
 - OK   3 estimat=1.4 rad 31 (W3130895466, sykefraværsdager per forsikret per år me) står i sitatet
-- OK   2 sitat rad 32 (W3130895466, andel av sykepengedagene med psykiske li) står på oppgitt side
+- FEIL 2 sitat rad 32 (W3130895466, andel av sykepengedagene med psykiske li) ble IKKE funnet på oppgitt side
 - OK   3 estimat=34 rad 32 (W3130895466, andel av sykepengedagene med psykiske li) står i sitatet
-- OK   2 sitat rad 33 (W3213478442, økning i antall fraværende fra arbeid pg) står på oppgitt side
+- FEIL 2 sitat rad 33 (W3213478442, økning i antall fraværende fra arbeid pg) ble IKKE funnet på oppgitt side
 - OK   3 estimat=44 rad 33 (W3213478442, økning i antall fraværende fra arbeid pg) står i sitatet
-- OK   2 sitat rad 34 (W3213478442, andel sysselsatte fraværende pga. egen s) står på oppgitt side
+- FEIL 2 sitat rad 34 (W3213478442, andel sysselsatte fraværende pga. egen s) ble IKKE funnet på oppgitt side
 - OK   3 estimat=2.9 rad 34 (W3213478442, andel sysselsatte fraværende pga. egen s) står i sitatet
-- OK   2 sitat rad 35 (W3213478442, andel sysselsatte kvinner fraværende pga) står på oppgitt side
+- FEIL 2 sitat rad 35 (W3213478442, andel sysselsatte kvinner fraværende pga) ble IKKE funnet på oppgitt side
 - OK   3 estimat=4.3 rad 35 (W3213478442, andel sysselsatte kvinner fraværende pga) står i sitatet
-- OK   2 sitat rad 36 (W4366153706, økning i månedlig sykefravær (alle årsak) står på oppgitt side
+- FEIL 2 sitat rad 36 (W4366153706, økning i månedlig sykefravær (alle årsak) ble IKKE funnet på oppgitt side
 - OK   3 estimat=2.8 rad 36 (W4366153706, økning i månedlig sykefravær (alle årsak) står i sitatet
 - OK   3 ki_lav=2.67 rad 36 (W4366153706, økning i månedlig sykefravær (alle årsak) står i sitatet
 - OK   3 ki_hoy=2.9 rad 36 (W4366153706, økning i månedlig sykefravær (alle årsak) står i sitatet
 - OK   4 rad 36 (W4366153706, økning i månedlig sykefravær (alle årsak) estimat innenfor KI
-- OK   2 sitat rad 37 (W4366153706, økning i månedlig sykefravær (alle årsak) står på oppgitt side
+- FEIL 2 sitat rad 37 (W4366153706, økning i månedlig sykefravær (alle årsak) ble IKKE funnet på oppgitt side
 - OK   3 estimat=2.2 rad 37 (W4366153706, økning i månedlig sykefravær (alle årsak) står i sitatet
 - OK   3 ki_lav=2.07 rad 37 (W4366153706, økning i månedlig sykefravær (alle årsak) står i sitatet
 - OK   3 ki_hoy=2.35 rad 37 (W4366153706, økning i månedlig sykefravær (alle årsak) står i sitatet
 - OK   4 rad 37 (W4366153706, økning i månedlig sykefravær (alle årsak) estimat innenfor KI
-- OK   2 sitat rad 38 (W4366153706, økning i sykefravær ikke knyttet til SAR) står på oppgitt side
+- FEIL 2 sitat rad 38 (W4366153706, økning i sykefravær ikke knyttet til SAR) ble IKKE funnet på oppgitt side
 - OK   3 estimat=1.2 rad 38 (W4366153706, økning i sykefravær ikke knyttet til SAR) står i sitatet
 - OK   3 ki_lav=1.05 rad 38 (W4366153706, økning i sykefravær ikke knyttet til SAR) står i sitatet
 - OK   3 ki_hoy=1.29 rad 38 (W4366153706, økning i sykefravær ikke knyttet til SAR) står i sitatet
 - OK   4 rad 38 (W4366153706, økning i sykefravær ikke knyttet til SAR) estimat innenfor KI
-- OK   2 sitat rad 39 (W4366153706, økning i sykefravær ikke knyttet til SAR) står på oppgitt side
+- FEIL 2 sitat rad 39 (W4366153706, økning i sykefravær ikke knyttet til SAR) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.7 rad 39 (W4366153706, økning i sykefravær ikke knyttet til SAR) står i sitatet
 - OK   3 ki_lav=0.52 rad 39 (W4366153706, økning i sykefravær ikke knyttet til SAR) står i sitatet
 - OK   3 ki_hoy=0.78 rad 39 (W4366153706, økning i sykefravær ikke knyttet til SAR) står i sitatet
 - OK   4 rad 39 (W4366153706, økning i sykefravær ikke knyttet til SAR) estimat innenfor KI
-- OK   2 sitat rad 40 (W4387095603, andel lønnstakere 30–62 år med nytt komp) står på oppgitt side
+- FEIL 2 sitat rad 40 (W4387095603, andel lønnstakere 30–62 år med nytt komp) ble IKKE funnet på oppgitt side
 - OK   3 estimat=11.1 rad 40 (W4387095603, andel lønnstakere 30–62 år med nytt komp) står i sitatet
-- OK   2 sitat rad 41 (W4387095603, nedgang i sannsynlighet for nytt sykefra) står på oppgitt side
+- FEIL 2 sitat rad 41 (W4387095603, nedgang i sannsynlighet for nytt sykefra) ble IKKE funnet på oppgitt side
 - OK   3 estimat=2.2 rad 41 (W4387095603, nedgang i sannsynlighet for nytt sykefra) står i sitatet
-- OK   2 sitat rad 42 (W4387095603, nedgang etter justering for utdanning (1) står på oppgitt side
+- FEIL 2 sitat rad 42 (W4387095603, nedgang etter justering for utdanning (1) ble IKKE funnet på oppgitt side
 - OK   3 estimat=1.8 rad 42 (W4387095603, nedgang etter justering for utdanning (1) står i sitatet
-- OK   2 sitat rad 43 (W4387095603, nedgang etter justering for utdanning og) står på oppgitt side
+- FEIL 2 sitat rad 43 (W4387095603, nedgang etter justering for utdanning og) ble IKKE funnet på oppgitt side
 - OK   3 estimat=1.6 rad 43 (W4387095603, nedgang etter justering for utdanning og) står i sitatet
-- OK   2 sitat rad 44 (W4408043658, andel kvinner 25–64 år med langtidssykef) står på oppgitt side
+- FEIL 2 sitat rad 44 (W4408043658, andel kvinner 25–64 år med langtidssykef) ble IKKE funnet på oppgitt side
 - OK   3 estimat=14.3 rad 44 (W4408043658, andel kvinner 25–64 år med langtidssykef) står i sitatet
-- OK   2 sitat rad 45 (W4408043658, andel menn 25–64 år med langtidssykefrav) står på oppgitt side
+- FEIL 2 sitat rad 45 (W4408043658, andel menn 25–64 år med langtidssykefrav) ble IKKE funnet på oppgitt side
 - OK   3 estimat=8.9 rad 45 (W4408043658, andel menn 25–64 år med langtidssykefrav) står i sitatet
-- OK   2 sitat rad 46 (W3209365492, tapte dager pga. psykisk sykdom blant NH) står på oppgitt side
+- FEIL 2 sitat rad 46 (W3209365492, tapte dager pga. psykisk sykdom blant NH) ble IKKE funnet på oppgitt side
 - OK   3 estimat=899730 rad 46 (W3209365492, tapte dager pga. psykisk sykdom blant NH) står i sitatet
-- OK   2 sitat rad 49 (AV-2022-3-01, økning i legemeldt sykefravær i pandemiå) står på oppgitt side
+- FEIL 2 sitat rad 49 (AV-2022-3-01, økning i legemeldt sykefravær i pandemiå) ble IKKE funnet på oppgitt side
 - OK   3 estimat=9 rad 49 (AV-2022-3-01, økning i legemeldt sykefravær i pandemiå) står i sitatet
-- OK   2 sitat rad 50 (AV-2022-3-01, økning i legemeldt sykefraværsprosent; s) står på oppgitt side
+- FEIL 2 sitat rad 50 (AV-2022-3-01, økning i legemeldt sykefraværsprosent; s) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.4 rad 50 (AV-2022-3-01, økning i legemeldt sykefraværsprosent; s) står i sitatet
-- OK   2 sitat rad 51 (AV-2024-2-03, andel av økningen i legemeldt sykefravær) står på oppgitt side
+- FEIL 2 sitat rad 51 (AV-2024-2-03, andel av økningen i legemeldt sykefravær) ble IKKE funnet på oppgitt side
 - OK   3 estimat=50 rad 51 (AV-2024-2-03, andel av økningen i legemeldt sykefravær) står i sitatet
-- OK   2 sitat rad 52 (AV-2025-3-04, økning i antall sykmeldte med psykisk di) står på oppgitt side
+- FEIL 2 sitat rad 52 (AV-2025-3-04, økning i antall sykmeldte med psykisk di) ble IKKE funnet på oppgitt side
 - OK   3 estimat=28 rad 52 (AV-2025-3-04, økning i antall sykmeldte med psykisk di) står i sitatet
-- OK   2 sitat rad 53 (AV-2023-2-03, legemeldt sykefraværsprosent 2022 (4,8 i) står på oppgitt side
+- FEIL 2 sitat rad 53 (AV-2023-2-03, legemeldt sykefraværsprosent 2022 (4,8 i) ble IKKE funnet på oppgitt side
 - OK   3 estimat=5.4 rad 53 (AV-2023-2-03, legemeldt sykefraværsprosent 2022 (4,8 i) står i sitatet
-- OK   2 sitat rad 54 (AV-2023-2-03, relativ økning i legemeldt sykefravær) står på oppgitt side
+- FEIL 2 sitat rad 54 (AV-2023-2-03, relativ økning i legemeldt sykefravær) ble IKKE funnet på oppgitt side
 - OK   3 estimat=12.4 rad 54 (AV-2023-2-03, relativ økning i legemeldt sykefravær) står i sitatet
-- OK   2 sitat rad 55 (AV-2023-2-03, nytt sykefravær med trøtthet/slapphet 0–) står på oppgitt side
+- FEIL 2 sitat rad 55 (AV-2023-2-03, nytt sykefravær med trøtthet/slapphet 0–) ble IKKE funnet på oppgitt side
 - OK   3 estimat=3.88 rad 55 (AV-2023-2-03, nytt sykefravær med trøtthet/slapphet 0–) står i sitatet
 - OK   3 ki_lav=3.65 rad 55 (AV-2023-2-03, nytt sykefravær med trøtthet/slapphet 0–) står i sitatet
 - OK   3 ki_hoy=4.13 rad 55 (AV-2023-2-03, nytt sykefravær med trøtthet/slapphet 0–) står i sitatet
 - OK   4 rad 55 (AV-2023-2-03, nytt sykefravær med trøtthet/slapphet 0–) estimat innenfor KI
 - OK   4 rad 55 (AV-2023-2-03, nytt sykefravær med trøtthet/slapphet 0–) KI symmetrisk på log-skala (avvik 0.00)
-- OK   2 sitat rad 56 (AV-2020-2-02, påbegynte sykefraværstilfeller med covid) står på oppgitt side
+- FEIL 2 sitat rad 56 (AV-2020-2-02, påbegynte sykefraværstilfeller med covid) ble IKKE funnet på oppgitt side
 - OK   3 estimat=31000 rad 56 (AV-2020-2-02, påbegynte sykefraværstilfeller med covid) står i sitatet
-- OK   2 sitat rad 57 (AV-2020-2-02, flere påbegynte sykefraværstilfeller uke) står på oppgitt side
+- FEIL 2 sitat rad 57 (AV-2020-2-02, flere påbegynte sykefraværstilfeller uke) ble IKKE funnet på oppgitt side
 - OK   3 estimat=79000 rad 57 (AV-2020-2-02, flere påbegynte sykefraværstilfeller uke) står i sitatet
-- OK   2 sitat rad 58 (AV-2020-2-02, økning i totalt sykefravær første kvarta) står på oppgitt side
+- FEIL 2 sitat rad 58 (AV-2020-2-02, økning i totalt sykefravær første kvarta) ble IKKE funnet på oppgitt side
 - OK   3 estimat=10 rad 58 (AV-2020-2-02, økning i totalt sykefravær første kvarta) står i sitatet
-- OK   2 sitat rad 59 (AV-2020-2-02, færre påbegynte sykefraværstilfeller uke) står på oppgitt side
+- FEIL 2 sitat rad 59 (AV-2020-2-02, færre påbegynte sykefraværstilfeller uke) ble IKKE funnet på oppgitt side
 - OK   3 estimat=24000 rad 59 (AV-2020-2-02, færre påbegynte sykefraværstilfeller uke) står i sitatet
-- OK   2 sitat rad 60 (AV-2024-1-03, andel av sykmeldte med hyppig gjentakend) står på oppgitt side
+- FEIL 2 sitat rad 60 (AV-2024-1-03, andel av sykmeldte med hyppig gjentakend) ble IKKE funnet på oppgitt side
 - OK   3 estimat=9 rad 60 (AV-2024-1-03, andel av sykmeldte med hyppig gjentakend) står i sitatet
-- OK   2 sitat rad 61 (AV-2024-1-03, andel av sykefraværsdagene som faller på) står på oppgitt side
+- FEIL 2 sitat rad 61 (AV-2024-1-03, andel av sykefraværsdagene som faller på) ble IKKE funnet på oppgitt side
 - OK   3 estimat=18 rad 61 (AV-2024-1-03, andel av sykefraværsdagene som faller på) står i sitatet
 - OK   2 sitat rad 62 (W4304172721, økning i månedlig sykefravær under omikr) står på oppgitt side
 - OK   3 estimat=2.92 rad 62 (W4304172721, økning i månedlig sykefravær under omikr) står i sitatet
@@ -333,114 +334,114 @@ Kjørt 2026-11-08.
 - OK   3 ki_lav=4.33 rad 63 (W4304172721, økning i månedlig sykefravær under omikr) står i sitatet
 - OK   3 ki_hoy=4.51 rad 63 (W4304172721, økning i månedlig sykefravær under omikr) står i sitatet
 - OK   4 rad 63 (W4304172721, økning i månedlig sykefravær under omikr) estimat innenfor KI
-- OK   2 sitat rad 64 (W3201021805, insidens av nytt sykefravær blant NHS-an) står på oppgitt side
+- FEIL 2 sitat rad 64 (W3201021805, insidens av nytt sykefravær blant NHS-an) ble IKKE funnet på oppgitt side
 - OK   3 estimat=20 rad 64 (W3201021805, insidens av nytt sykefravær blant NHS-an) står i sitatet
-- OK   2 sitat rad 65 (W3201021805, økning i nytt sykefravær pga. psykisk sy) står på oppgitt side
+- FEIL 2 sitat rad 65 (W3201021805, økning i nytt sykefravær pga. psykisk sy) ble IKKE funnet på oppgitt side
 - OK   3 estimat=42.3 rad 65 (W3201021805, økning i nytt sykefravær pga. psykisk sy) står i sitatet
-- OK   2 sitat rad 66 (W4407319512, andel kvinner (privat ansatte funksjonær) står på oppgitt side
+- FEIL 2 sitat rad 66 (W4407319512, andel kvinner (privat ansatte funksjonær) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.6 rad 66 (W4407319512, andel kvinner (privat ansatte funksjonær) står i sitatet
-- OK   2 sitat rad 67 (W4407319512, andel kvinner med annet sykefravær >14 d) står på oppgitt side
+- FEIL 2 sitat rad 67 (W4407319512, andel kvinner med annet sykefravær >14 d) ble IKKE funnet på oppgitt side
 - OK   3 estimat=8.1 rad 67 (W4407319512, andel kvinner med annet sykefravær >14 d) står i sitatet
-- OK   2 sitat rad 68 (W4407319512, andel menn med annet sykefravær >14 dage) står på oppgitt side
+- FEIL 2 sitat rad 68 (W4407319512, andel menn med annet sykefravær >14 dage) ble IKKE funnet på oppgitt side
 - OK   3 estimat=3.7 rad 68 (W4407319512, andel menn med annet sykefravær >14 dage) står i sitatet
-- OK   2 sitat rad 69 (W4310375817, overskuddsandel (excess fraction) av lan) står på oppgitt side
+- FEIL 2 sitat rad 69 (W4310375817, overskuddsandel (excess fraction) av lan) ble IKKE funnet på oppgitt side
 - OK   3 estimat=16.9 rad 69 (W4310375817, overskuddsandel (excess fraction) av lan) står i sitatet
-- OK   2 sitat rad 70 (W4310375817, overskuddsandel av langvarig sykefravær ) står på oppgitt side
+- FEIL 2 sitat rad 70 (W4310375817, overskuddsandel av langvarig sykefravær ) ble IKKE funnet på oppgitt side
 - OK   3 estimat=18.2 rad 70 (W4310375817, overskuddsandel av langvarig sykefravær ) står i sitatet
-- OK   2 sitat rad 71 (W4392197176, sykefraværsdager per arbeidstaker i Norg) står på oppgitt side
+- FEIL 2 sitat rad 71 (W4392197176, sykefraværsdager per arbeidstaker i Norg) ble IKKE funnet på oppgitt side
 - OK   3 estimat=17.2 rad 71 (W4392197176, sykefraværsdager per arbeidstaker i Norg) står i sitatet
-- OK   2 sitat rad 72 (W4392197176, sykefraværsdager per arbeidstaker i Norg) står på oppgitt side
+- FEIL 2 sitat rad 72 (W4392197176, sykefraværsdager per arbeidstaker i Norg) ble IKKE funnet på oppgitt side
 - OK   3 estimat=16.8 rad 72 (W4392197176, sykefraværsdager per arbeidstaker i Norg) står i sitatet
-- OK   2 sitat rad 73 (W4392197176, gjennomsnittlige sykefraværsdager per ar) står på oppgitt side
+- FEIL 2 sitat rad 73 (W4392197176, gjennomsnittlige sykefraværsdager per ar) ble IKKE funnet på oppgitt side
 - OK   3 estimat=12.6 rad 73 (W4392197176, gjennomsnittlige sykefraværsdager per ar) står i sitatet
-- OK   2 sitat rad 74 (W4392197176, kostnader ved sykefravær som andel av BN) står på oppgitt side
+- FEIL 2 sitat rad 74 (W4392197176, kostnader ved sykefravær som andel av BN) ble IKKE funnet på oppgitt side
 - OK   3 estimat=4.3 rad 74 (W4392197176, kostnader ved sykefravær som andel av BN) står i sitatet
-- OK   2 sitat rad 75 (0198f22760a6-c80f28c1-bed0-4b04-b91b-85203d40dd2c, nedgang i sykefravær i industrien (maste) står på oppgitt side
+- FEIL 2 sitat rad 75 (0198f22760a6-c80f28c1-bed0-4b04-b91b-85203d40dd2c, nedgang i sykefravær i industrien (maste) ble IKKE funnet på oppgitt side
 - OK   3 estimat=33 rad 75 (0198f22760a6-c80f28c1-bed0-4b04-b91b-85203d40dd2c, nedgang i sykefravær i industrien (maste) står i sitatet
-- OK   2 sitat rad 76 (0198f22760a6-c80f28c1-bed0-4b04-b91b-85203d40dd2c, bidrag fra økt utdanningsnivå (sammenset) står på oppgitt side
+- FEIL 2 sitat rad 76 (0198f22760a6-c80f28c1-bed0-4b04-b91b-85203d40dd2c, bidrag fra økt utdanningsnivå (sammenset) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.5 rad 76 (0198f22760a6-c80f28c1-bed0-4b04-b91b-85203d40dd2c, bidrag fra økt utdanningsnivå (sammenset) står i sitatet
-- OK   2 sitat rad 77 (01999f330df6-61199673-0dc2-4da6-beee-44d402da77ad, økning i legemeldt sykefravær i undervis) står på oppgitt side
+- FEIL 2 sitat rad 77 (01999f330df6-61199673-0dc2-4da6-beee-44d402da77ad, økning i legemeldt sykefravær i undervis) ble IKKE funnet på oppgitt side
 - OK   3 estimat=15 rad 77 (01999f330df6-61199673-0dc2-4da6-beee-44d402da77ad, økning i legemeldt sykefravær i undervis) står i sitatet
-- OK   2 sitat rad 78 (01999f330df6-61199673-0dc2-4da6-beee-44d402da77ad, del av økningen på 1.00 pp i undervisnin) står på oppgitt side
+- FEIL 2 sitat rad 78 (01999f330df6-61199673-0dc2-4da6-beee-44d402da77ad, del av økningen på 1.00 pp i undervisnin) ble IKKE funnet på oppgitt side
 - OK   3 estimat=-0.07 rad 78 (01999f330df6-61199673-0dc2-4da6-beee-44d402da77ad, del av økningen på 1.00 pp i undervisnin) står i sitatet
 - OK   2 sitat rad 79 (W2129153957, ingen tall i sammendraget (bare sammendr) står på oppgitt side
 - OK   2 sitat rad 80 (W2785834892, ingen tall i sammendraget (bare sammendr) står på oppgitt side
-- OK   2 sitat rad 81 (W4400282262, rate av sykmeldinger (fit notes) blant p) står på oppgitt side
+- FEIL 2 sitat rad 81 (W4400282262, rate av sykmeldinger (fit notes) blant p) ble IKKE funnet på oppgitt side
 - OK   3 estimat=4.07 rad 81 (W4400282262, rate av sykmeldinger (fit notes) blant p) står i sitatet
 - OK   3 ki_lav=4.02 rad 81 (W4400282262, rate av sykmeldinger (fit notes) blant p) står i sitatet
 - OK   3 ki_hoy=4.12 rad 81 (W4400282262, rate av sykmeldinger (fit notes) blant p) står i sitatet
 - OK   4 rad 81 (W4400282262, rate av sykmeldinger (fit notes) blant p) estimat innenfor KI
 - OK   4 rad 81 (W4400282262, rate av sykmeldinger (fit notes) blant p) KI symmetrisk på log-skala (avvik 0.00)
-- OK   2 sitat rad 82 (W4400282262, rate av sykmeldinger blant personer med ) står på oppgitt side
+- FEIL 2 sitat rad 82 (W4400282262, rate av sykmeldinger blant personer med ) ble IKKE funnet på oppgitt side
 - OK   3 estimat=1.57 rad 82 (W4400282262, rate av sykmeldinger blant personer med ) står i sitatet
 - OK   3 ki_lav=1.56 rad 82 (W4400282262, rate av sykmeldinger blant personer med ) står i sitatet
 - OK   3 ki_hoy=1.58 rad 82 (W4400282262, rate av sykmeldinger blant personer med ) står i sitatet
 - OK   4 rad 82 (W4400282262, rate av sykmeldinger blant personer med ) estimat innenfor KI
 - OK   4 rad 82 (W4400282262, rate av sykmeldinger blant personer med ) KI symmetrisk på log-skala (avvik 0.00)
-- OK   2 sitat rad 83 (W7127960047, Aldersstandardisert rate av legeerklærin) står på oppgitt side
+- FEIL 2 sitat rad 83 (W7127960047, Aldersstandardisert rate av legeerklærin) ble IKKE funnet på oppgitt side
 - OK   3 estimat=23.5 rad 83 (W7127960047, Aldersstandardisert rate av legeerklærin) står i sitatet
-- OK   2 sitat rad 84 (W7127960047, Aldersstandardisert rate av legeerklærin) står på oppgitt side
+- FEIL 2 sitat rad 84 (W7127960047, Aldersstandardisert rate av legeerklærin) ble IKKE funnet på oppgitt side
 - OK   3 estimat=24.0 rad 84 (W7127960047, Aldersstandardisert rate av legeerklærin) står i sitatet
-- OK   2 sitat rad 85 (W7127960047, Gjennomsnittlig varighet av legeerklærin) står på oppgitt side
+- FEIL 2 sitat rad 85 (W7127960047, Gjennomsnittlig varighet av legeerklærin) ble IKKE funnet på oppgitt side
 - OK   3 estimat=29.8 rad 85 (W7127960047, Gjennomsnittlig varighet av legeerklærin) står i sitatet
-- OK   2 sitat rad 86 (W7127960047, Anslått samlet årlig kostnad av sykefrav) står på oppgitt side
+- FEIL 2 sitat rad 86 (W7127960047, Anslått samlet årlig kostnad av sykefrav) ble IKKE funnet på oppgitt side
 - OK   3 estimat=15.9 rad 86 (W7127960047, Anslått samlet årlig kostnad av sykefrav) står i sitatet
 - OK   3 ki_lav=15.8 rad 86 (W7127960047, Anslått samlet årlig kostnad av sykefrav) står i sitatet
 - OK   3 ki_hoy=15.9 rad 86 (W7127960047, Anslått samlet årlig kostnad av sykefrav) står i sitatet
 - OK   4 rad 86 (W7127960047, Anslått samlet årlig kostnad av sykefrav) estimat innenfor KI
-- OK   2 sitat rad 87 (W4399485338, Kjønnsforskjell i andel som mottar sykep) står på oppgitt side
+- FEIL 2 sitat rad 87 (W4399485338, Kjønnsforskjell i andel som mottar sykep) ble IKKE funnet på oppgitt side
 - OK   3 estimat=5 rad 87 (W4399485338, Kjønnsforskjell i andel som mottar sykep) står i sitatet
-- OK   2 sitat rad 88 (W4399485338, Kjønnsforskjell i andel som mottar sykep) står på oppgitt side
+- FEIL 2 sitat rad 88 (W4399485338, Kjønnsforskjell i andel som mottar sykep) ble IKKE funnet på oppgitt side
 - OK   3 estimat=6 rad 88 (W4399485338, Kjønnsforskjell i andel som mottar sykep) står i sitatet
-- OK   2 sitat rad 89 (W4399485338, Kjønnsforskjell i andel med sykepenger b) står på oppgitt side
+- FEIL 2 sitat rad 89 (W4399485338, Kjønnsforskjell i andel med sykepenger b) ble IKKE funnet på oppgitt side
 - OK   3 estimat=8 rad 89 (W4399485338, Kjønnsforskjell i andel med sykepenger b) står i sitatet
-- OK   2 sitat rad 90 (W4399485338, Andel kvinner med lav utdanning som mott) står på oppgitt side
+- FEIL 2 sitat rad 90 (W4399485338, Andel kvinner med lav utdanning som mott) ble IKKE funnet på oppgitt side
 - OK   3 estimat=10 rad 90 (W4399485338, Andel kvinner med lav utdanning som mott) står i sitatet
-- OK   2 sitat rad 91 (W4413036354, Hasard for første sykepengetilfelle med ) står på oppgitt side
+- FEIL 2 sitat rad 91 (W4413036354, Hasard for første sykepengetilfelle med ) ble IKKE funnet på oppgitt side
 - OK   3 estimat=1.90 rad 91 (W4413036354, Hasard for første sykepengetilfelle med ) står i sitatet
-- OK   2 sitat rad 92 (W4413036354, Hasard for første sykepengetilfelle med ) står på oppgitt side
+- FEIL 2 sitat rad 92 (W4413036354, Hasard for første sykepengetilfelle med ) ble IKKE funnet på oppgitt side
 - OK   3 estimat=1.95 rad 92 (W4413036354, Hasard for første sykepengetilfelle med ) står i sitatet
-- OK   2 sitat rad 93 (W7167811346, Langtidssykefravær første år etter test) står på oppgitt side
+- FEIL 2 sitat rad 93 (W7167811346, Langtidssykefravær første år etter test) ble IKKE funnet på oppgitt side
 - OK   3 estimat=2.92 rad 93 (W7167811346, Langtidssykefravær første år etter test) står i sitatet
 - OK   3 ki_lav=2.82 rad 93 (W7167811346, Langtidssykefravær første år etter test) står i sitatet
 - OK   3 ki_hoy=3.03 rad 93 (W7167811346, Langtidssykefravær første år etter test) står i sitatet
 - OK   4 rad 93 (W7167811346, Langtidssykefravær første år etter test) estimat innenfor KI
 - OK   4 rad 93 (W7167811346, Langtidssykefravær første år etter test) KI symmetrisk på log-skala (avvik 0.00)
-- OK   2 sitat rad 94 (W7167811346, Lav arbeidsdeltakelse (under 90 prosent)) står på oppgitt side
+- FEIL 2 sitat rad 94 (W7167811346, Lav arbeidsdeltakelse (under 90 prosent)) ble IKKE funnet på oppgitt side
 - OK   3 estimat=1.32 rad 94 (W7167811346, Lav arbeidsdeltakelse (under 90 prosent)) står i sitatet
 - OK   3 ki_lav=1.30 rad 94 (W7167811346, Lav arbeidsdeltakelse (under 90 prosent)) står i sitatet
 - OK   3 ki_hoy=1.34 rad 94 (W7167811346, Lav arbeidsdeltakelse (under 90 prosent)) står i sitatet
 - OK   4 rad 94 (W7167811346, Lav arbeidsdeltakelse (under 90 prosent)) estimat innenfor KI
 - OK   4 rad 94 (W7167811346, Lav arbeidsdeltakelse (under 90 prosent)) KI symmetrisk på log-skala (avvik 0.00)
-- OK   2 sitat rad 95 (W7167811346, Andel som startet langtidssykefravær inn) står på oppgitt side
+- FEIL 2 sitat rad 95 (W7167811346, Andel som startet langtidssykefravær inn) ble IKKE funnet på oppgitt side
 - OK   3 estimat=1.7 rad 95 (W7167811346, Andel som startet langtidssykefravær inn) står i sitatet
-- OK   2 sitat rad 96 (W4390881238, Gjennomsnittlig varighet av sykefravær m) står på oppgitt side
+- FEIL 2 sitat rad 96 (W4390881238, Gjennomsnittlig varighet av sykefravær m) ble IKKE funnet på oppgitt side
 - OK   3 estimat=41 rad 96 (W4390881238, Gjennomsnittlig varighet av sykefravær m) står i sitatet
 - OK   3 ki_lav=40.3 rad 96 (W4390881238, Gjennomsnittlig varighet av sykefravær m) står i sitatet
 - OK   3 ki_hoy=42.0 rad 96 (W4390881238, Gjennomsnittlig varighet av sykefravær m) står i sitatet
 - OK   4 rad 96 (W4390881238, Gjennomsnittlig varighet av sykefravær m) estimat innenfor KI
-- OK   2 sitat rad 97 (W4390881238, Gjennomsnittlig varighet av sykefravær v) står på oppgitt side
+- FEIL 2 sitat rad 97 (W4390881238, Gjennomsnittlig varighet av sykefravær v) ble IKKE funnet på oppgitt side
 - OK   3 estimat=186 rad 97 (W4390881238, Gjennomsnittlig varighet av sykefravær v) står i sitatet
-- OK   2 sitat rad 98 (AV-2008-4-01, Korrelasjon mellom sykepengedager per lø) står på oppgitt side
+- FEIL 2 sitat rad 98 (AV-2008-4-01, Korrelasjon mellom sykepengedager per lø) ble IKKE funnet på oppgitt side
 - OK   3 estimat=-0.93 rad 98 (AV-2008-4-01, Korrelasjon mellom sykepengedager per lø) står i sitatet
-- OK   2 sitat rad 99 (AV-2008-4-01, Korrelasjon mellom sykefravær og ledighe) står på oppgitt side
+- FEIL 2 sitat rad 99 (AV-2008-4-01, Korrelasjon mellom sykefravær og ledighe) ble IKKE funnet på oppgitt side
 - OK   3 estimat=-0.96 rad 99 (AV-2008-4-01, Korrelasjon mellom sykefravær og ledighe) står i sitatet
-- OK   2 sitat rad 100 (AV-2008-4-01, Konjunkturknyttet svingning: økning i sy) står på oppgitt side
+- FEIL 2 sitat rad 100 (AV-2008-4-01, Konjunkturknyttet svingning: økning i sy) ble IKKE funnet på oppgitt side
 - OK   3 estimat=4.1 rad 100 (AV-2008-4-01, Konjunkturknyttet svingning: økning i sy) står i sitatet
-- OK   2 sitat rad 101 (W2076042101, Legemeldte sykefraværsdager per kvartal,) står på oppgitt side
+- FEIL 2 sitat rad 101 (W2076042101, Legemeldte sykefraværsdager per kvartal,) ble IKKE funnet på oppgitt side
 - OK   3 estimat=-0.74 rad 101 (W2076042101, Legemeldte sykefraværsdager per kvartal,) står i sitatet
-- OK   2 sitat rad 102 (W2076042101, Relativ nedgang i sykefraværsdager for k) står på oppgitt side
+- FEIL 2 sitat rad 102 (W2076042101, Relativ nedgang i sykefraværsdager for k) ble IKKE funnet på oppgitt side
 - OK   3 estimat=10 rad 102 (W2076042101, Relativ nedgang i sykefraværsdager for k) står i sitatet
-- OK   2 sitat rad 103 (W2076042101, Relativ nedgang i sykefraværsdager for m) står på oppgitt side
+- FEIL 2 sitat rad 103 (W2076042101, Relativ nedgang i sykefraværsdager for m) ble IKKE funnet på oppgitt side
 - OK   3 estimat=23 rad 103 (W2076042101, Relativ nedgang i sykefraværsdager for m) står i sitatet
-- OK   2 sitat rad 104 (W3198827421, Legemeldt sykefravær 0–2 måneder etter t) står på oppgitt side
+- FEIL 2 sitat rad 104 (W3198827421, Legemeldt sykefravær 0–2 måneder etter t) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.079 rad 104 (W3198827421, Legemeldt sykefravær 0–2 måneder etter t) står i sitatet
 - OK   3 ki_lav=0.076 rad 104 (W3198827421, Legemeldt sykefravær 0–2 måneder etter t) står i sitatet
 - OK   3 ki_hoy=0.082 rad 104 (W3198827421, Legemeldt sykefravær 0–2 måneder etter t) står i sitatet
 - OK   4 rad 104 (W3198827421, Legemeldt sykefravær 0–2 måneder etter t) estimat innenfor KI
-- OK   2 sitat rad 105 (W3198827421, Relativ økning i legemeldt sykefravær 3–) står på oppgitt side
+- FEIL 2 sitat rad 105 (W3198827421, Relativ økning i legemeldt sykefravær 3–) ble IKKE funnet på oppgitt side
 - OK   3 estimat=35 rad 105 (W3198827421, Relativ økning i legemeldt sykefravær 3–) står i sitatet
-- OK   2 sitat rad 106 (W3198827421, Sykefravær blant testet negative 5–6 mån) står på oppgitt side
+- FEIL 2 sitat rad 106 (W3198827421, Sykefravær blant testet negative 5–6 mån) ble IKKE funnet på oppgitt side
 - OK   3 estimat=2.7 rad 106 (W3198827421, Sykefravær blant testet negative 5–6 mån) står i sitatet
 - OK   5 tallet 0.076 i svaret finnes i estimat- eller statistikktabellen
 - OK   5 tallet 0.079 i svaret finnes i estimat- eller statistikktabellen
@@ -493,14 +494,12 @@ Kjørt 2026-11-08.
 - OK   5 tallet 3.6 i svaret finnes i estimat- eller statistikktabellen
 - OK   5 tallet 3.88 i svaret finnes i estimat- eller statistikktabellen
 - OK   5 tallet 31000 i svaret finnes i estimat- eller statistikktabellen
-- OK   5 tallet 32 i svaret finnes i estimat- eller statistikktabellen
 - OK   5 tallet 34 i svaret finnes i estimat- eller statistikktabellen
 - OK   5 tallet 34705 i svaret finnes i estimat- eller statistikktabellen
 - OK   5 tallet 35 i svaret finnes i estimat- eller statistikktabellen
 - OK   5 tallet 42.3 i svaret finnes i estimat- eller statistikktabellen
 - OK   5 tallet 45 i svaret finnes i estimat- eller statistikktabellen
 - OK   5 tallet 60 i svaret finnes i estimat- eller statistikktabellen
-- OK   5 tallet 70 i svaret finnes i estimat- eller statistikktabellen
 - OK   5 tallet 899730 i svaret finnes i estimat- eller statistikktabellen
 - OK   5 tallet 90 i svaret finnes i estimat- eller statistikktabellen
 - OK   6 utelatt W3011614181 «Burnout in nursing: a theoretical review» (2020) – Etter tittel: annet tema eller én diagnose eller gruppe, ikke utviklingen i sykefravær over tid.
@@ -959,3 +958,50 @@ Kjørt 2026-11-08.
 - OK   6 utelatt W2137789320 «Economic Incentives, Business Cycles, and Long‐Term Sickness Absence» (2009) – Konjunkturer og langvarig fravær med data før 2015; mekanismen er dekket av W3167036525, W2076042101 og AV-2008-4-01.
 - OK   6 utelatt W2104983146 «Cross-national comparisons of sickness absence systems and statistics:» (2014) – Data fra før 2015; mekanismen (konjunkturer, sykelønn, sosial gradient, kjønn) er dekket av nyere valgte kilder, jf. kriteriene for del B.
 - OK   6 utelatt W2112713294 «Psychosocial work factors and sickness absence in 31 countries in Euro» (2012) – Data fra før 2015; mekanismen (konjunkturer, sykelønn, sosial gradient, kjønn) er dekket av nyere valgte kilder, jf. kriteriene for del B.
+- FEIL 6 utelatt KU-0c7e68e3-1584-4968-b9fd-3cfc932fb109 «Prosjekt egenmelding Kristiansand kommune» (2005) mangler begrunnelse
+- FEIL 6 utelatt KU-3b29c257-25c9-437a-8886-65e9e621e0fc «Rapport etter ekspertmøtet om årsaker til kjønnsforskjeller i sykefrav» (2012) mangler begrunnelse
+- FEIL 6 utelatt KU-d7a12b13-0f1a-40a0-b258-5bbc1e4a1f2b «Rapport etter ekspertmøtet om årsaker til kjønnsforskjeller i sykefrav» (2012) mangler begrunnelse
+- FEIL 6 utelatt KU-a1d767f7-4383-4342-8f19-66fbb8025af4 «Sykefravær blant bussjåfører» (2026) mangler begrunnelse
+- OK   9 kort-svar-blind.md finnes
+- OK   9 innholdskontroll har raden «kort svar»
+- OK   9 blind lesing 01999f330df6-61199673-0dc2-4da6-beee-44d402da77ad i budskap.tsv
+- OK   9 blind lesing 019c13c07b5d-2fdc8def-e5c2-4997-bef7-68f2c1b7cada i budskap.tsv
+- OK   9 blind lesing AV-2008-4-01 i budskap.tsv
+- OK   9 blind lesing AV-2020-2-02 i budskap.tsv
+- OK   9 blind lesing AV-2022-3-01 i budskap.tsv
+- OK   9 blind lesing AV-2023-2-03 i budskap.tsv
+- OK   9 blind lesing AV-2024-1-03 i budskap.tsv
+- OK   9 blind lesing AV-2024-2-03 i budskap.tsv
+- OK   9 blind lesing AV-2025-3-04 i budskap.tsv
+- OK   9 blind lesing W2076042101 i budskap.tsv
+- OK   9 blind lesing W2785834892 i budskap.tsv
+- OK   9 blind lesing W2993400654 i budskap.tsv
+- OK   9 blind lesing W3009296559 i budskap.tsv
+- OK   9 blind lesing W3130895466 i budskap.tsv
+- OK   9 blind lesing W3167036525 i budskap.tsv
+- OK   9 blind lesing W3198827421 i budskap.tsv
+- OK   9 blind lesing W3201021805 i budskap.tsv
+- OK   9 blind lesing W3209365492 i budskap.tsv
+- OK   9 blind lesing W3213478442 i budskap.tsv
+- OK   9 blind lesing W4229447182 i budskap.tsv
+- OK   9 blind lesing W4304172721 i budskap.tsv
+- OK   9 blind lesing W4310375817 i budskap.tsv
+- OK   9 blind lesing W4366153706 i budskap.tsv
+- OK   9 blind lesing W4387095603 i budskap.tsv
+- OK   9 blind lesing W4390881238 i budskap.tsv
+- OK   9 blind lesing W4392197176 i budskap.tsv
+- OK   9 blind lesing W4399485338 i budskap.tsv
+- OK   9 blind lesing W4400282262 i budskap.tsv
+- OK   9 blind lesing W4403637555 i budskap.tsv
+- OK   9 blind lesing W4407319512 i budskap.tsv
+- OK   9 blind lesing W4408043658 i budskap.tsv
+- OK   9 blind lesing W4410313102 i budskap.tsv
+- OK   9 blind lesing W4413036354 i budskap.tsv
+- OK   9 blind lesing W4413383411 i budskap.tsv
+- OK   9 blind lesing W7119467493 i budskap.tsv
+- OK   9 blind lesing W7127960047 i budskap.tsv
+- OK   9 blind lesing W7165061248 i budskap.tsv
+- OK   9 blind lesing W7167811346 i budskap.tsv
+- OK   9 blind lesing W7170890177 i budskap.tsv
+- OK   9 blind lesing W7171777052 i budskap.tsv
+- OK   9 blind lesing W7215130240 i budskap.tsv

@@ -191,7 +191,13 @@ def main():
     for r in est:
         for felt in ("estimat", "ki_lav", "ki_hoy", "n", "sitat"):
             tabell |= {t.replace(",", ".").lstrip("-") for t in tall(r.get(felt, ""), kilde=True) + tall(r.get(felt, ""))}   # fortegn uttrykkes ofte med ord i svaret
-    prosa = re.sub(r"\[[^\]]*\]\([^)]*\)", "", svar)           # fjern lenker
+    # Innledningen før første overskrift på nivå 2 (status, kildegrunnlag, reproduserbarhet) teller kilder og runder i
+    # løypa, ikke funn. Tall over tolv skrives der med siffer (Språkrådet), så den sjekkes ikke mot tabellene.
+    prosa = re.sub(r"\A.*?(?=^## )", "", svar, flags=re.S | re.M)
+    prosa = re.sub(r"\[[^\]]*\]\([^)]*\)", "", prosa)           # fjern lenker
+    # Antall og tidsrom som beskriver studiene (15 forsøk, 96 kommuner, etter 18 måneder, 192 bare i sammendrag) er ikke
+    # funn. Før 14.11.2026 sto de med bokstaver og ble ikke sjekket; nå står tall over tolv med siffer.
+    prosa = re.sub(r"(?<![\d,.])\b\d+(?= (?:(?:av (?:dem|disse|kjernekildene) )?(?:er )?bare (?:lest )?i sammendrag|(?:nye |valgte |norske |nordiske |randomiserte |andre )?(?:studier|studiene|kilder|kildene|oppføringer|forsøk|land|kommuner|artikler|rapporter|evalueringer|metaanalyser|oversikter|estimater|programmer|måneder|uker|dager|år)\b))", "", prosa)
     prosa = re.sub(r"`[^`\n]*`", "", prosa)                       # kode og filnavn i backticks
     prosa = re.sub(r"\b(?=[0-9a-f]*[a-f])(?=[0-9a-f]*\d)[0-9a-f]{7,40}\b", "", prosa)   # commit-hasher
     prosa = re.sub(r"\b\d{1,2}\.\d{1,2}\.(?:19|20)\d\d\b", "", prosa)   # datoer som 7.11.2026

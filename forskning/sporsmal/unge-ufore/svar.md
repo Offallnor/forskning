@@ -1,6 +1,6 @@
 # Hvorfor blir flere unge uføre? Utviklingen i Norge siden 2010, sammenlignet med Sverige og Danmark, og hva forskningen sier om driverne
 
-Utkast, ukontrollert. Skrevet 9. november 2026 i en kaldtest av løypa for forskningsspørsmål. Svaret bygger på hundre og tjuesju valgte kilder. Sekstitre er lest i fulltekst, førtitre bare som sammendrag, og tjueen har verken tekst eller sammendrag. Tallene fra kildene står med sitat og side i estimattabellen, og statistikken står med kilde og definisjon i statistikktabellen. Statistikken er beskrivende og viser ikke årsaker.
+Utkast, ukontrollert. Skrevet 9. november 2026 i en kaldtest av løypa for forskningsspørsmål. Svaret bygger på 127 valgte kilder. Av dem er 63 lest i fulltekst, 43 bare som sammendrag, og 21 har verken tekst eller sammendrag. Tallene fra kildene står med sitat og side i estimattabellen, og statistikken står med kilde og definisjon i statistikktabellen. Statistikken er beskrivende og viser ikke årsaker.
 
 ## Kort svar
 
@@ -109,7 +109,7 @@ Utvalget har ingen systematisk oversikt over hvorfor flere unge blir uføre. Rap
 - **De nyeste arbeidsnotatene og kapitlene kan mangle.** Navs kapittel fra 2026 om unge utenfor arbeid og utdanning med helseytelser og tre artikler i *Søkelys på arbeidslivet* er valgt, men teksten kunne ikke hentes.
 - **Tallene fra landene er ikke sammenlignbare.** Nav teller personer per dato, Danmarks Statistik helårspersoner, og de svenske tallene gjelder aktivitetsersättning, som har en egen variant for forlenget skolegang. Ingen harmonisert kilde med tall for alle tre landene etter 2015 er lest.
 - **Driverne er ikke skilt fra hverandre.** Bare regelverket for AAP og overføringen mellom generasjoner er studert med sterkt design. Diagnosene beskriver hvem som blir uføre, ikke hvorfor flere får diagnosene.
-- **Sammendrag og masteroppgaver:** Førtitre kilder er bare lest som sammendrag, og fire masteroppgaver er med. Ett tall er fra et arbeidsnotat.
+- **Sammendrag og masteroppgaver:** 43 kilder er bare lest som sammendrag, og fire masteroppgaver er med. Ett tall er fra et arbeidsnotat.
 - **Utvalget er mettet** etter løypas regler (se `metning.md`), men det første blinde utvalget fant mange sterke kilder søket hadde oversett.
 - **Ikke kontrollert av fagperson.**
 

@@ -1,6 +1,6 @@
 # Hva viser forskningen om utviklingen i sykefravær siden 2015 i land med relevans for Norge, og hva kan være driverne?
 
-Utkast, ukontrollert. Andre versjon, skrevet 7. november 2026 i en kaldtest av løypa for forskningsspørsmål. Svaret bygger på førtini valgte kilder. Trettifire er lest i fulltekst, og femten bare som sammendrag eller ingress. Tre av dem har verken tekst eller sammendrag. Tallene er hentet ut to ganger uavhengig av hverandre, og alle tall står med kilde og sitat i estimattabellen. Teksten er kontrollert mot forfatternes eget budskap og mot et kort svar skrevet uten å se dette svaret, og én feil slutning om konjunkturer er rettet.
+Utkast, ukontrollert. Andre versjon, skrevet 7. november 2026 i en kaldtest av løypa for forskningsspørsmål. Svaret bygger på 49 valgte kilder. Av dem er 34 lest i fulltekst, og 15 bare som sammendrag eller ingress. Tre av dem har verken tekst eller sammendrag. Tallene er hentet ut to ganger uavhengig av hverandre, og alle tall står med kilde og sitat i estimattabellen. Teksten er kontrollert mot forfatternes eget budskap og mot et kort svar skrevet uten å se dette svaret, og én feil slutning om konjunkturer er rettet.
 
 ## Kort svar
 

@@ -1,6 +1,6 @@
 # Hva viser forskningen om egenandel ved sykefravær for arbeidstaker og arbeidsgiver?
 
-Utkast, ukontrollert. Svaret bygger på femtifire kilder: førti er lest i fulltekst og fjorten bare i sammendrag. Tallene er hentet ut to ganger uavhengig av hverandre og sammenlignet, og teksten er kontrollert mot forfatternes eget budskap og mot et kort svar skrevet uten å se dette svaret. Alle tall står med kilde og sitat i estimattabellen. Ingen fagperson har sett svaret.
+Utkast, ukontrollert. Svaret bygger på 54 kilder: 40 er lest i fulltekst og 14 bare i sammendrag. Tallene er hentet ut to ganger uavhengig av hverandre og sammenlignet, og teksten er kontrollert mot forfatternes eget budskap og mot et kort svar skrevet uten å se dette svaret. Alle tall står med kilde og sitat i estimattabellen. Ingen fagperson har sett svaret.
 
 ## Kort svar
 
@@ -90,5 +90,5 @@ Når arbeidstakeren får lavere kompensasjon, går sykefraværet ned. Det er god
 - **Den norske arbeidsgiverperioden er ikke evaluert direkte.** De norske studiene gjelder unntak (svangerskap, kronisk syke), taket på 6G og forskuttering.
 - **Lavere fravær er ikke det samme som bedre helse.** Flere forfattere kan ikke skille mellom at færre er borte uten å være syke, og at flere går syke på jobb. Studien fra Spania fant flere tilbakefall og arbeidsulykker.
 - **Mange kilder er lest i arbeidsnotatversjon.** Tallene kan avvike noe fra den publiserte versjonen.
-- **Kilder som mangler.** Disse kunne ikke leses automatisk og bør hentes for hånd: Goerke og Pannenberg om den tyske sykelønnsreformen, Pollak 2015 om ventetid i Frankrike, Prinz 2021 om arbeidsgiveransvar i Nederland, D'Amuri 2017 om Italia og Markussens kapittel fra 2026 om den norske sykelønnsordningen. For fjorten kilder er bare sammendraget lest.
+- **Kilder som mangler.** Disse kunne ikke leses automatisk og bør hentes for hånd: Goerke og Pannenberg om den tyske sykelønnsreformen, Pollak 2015 om ventetid i Frankrike, Prinz 2021 om arbeidsgiveransvar i Nederland, D'Amuri 2017 om Italia og Markussens kapittel fra 2026 om den norske sykelønnsordningen. For 14 kilder er bare sammendraget lest.
 - **Ikke kontrollert av fagperson.** Tallene er hentet automatisk.

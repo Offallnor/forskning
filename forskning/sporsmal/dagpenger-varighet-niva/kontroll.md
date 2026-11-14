@@ -1,9 +1,10 @@
 # Kontroll: dagpenger-varighet-niva
 
-Kjørt 2026-11-10.
+Kjørt 2026-11-14.
 
-0 feil av 5940 kontroller.
+466 feil av 5937 kontroller.
 
+- OBS  10 409 sentrale valgte kilder er ikke lest i fulltekst (140 ikke lest, 269 bare sammendrag; se vedlegg_bc.py). Forbeholdene nevner uleste kilder: sjekk at antallet stemmer.
 - OK   1 kilde 0198cc5369ae-229c5063-6405-419a-8006-b9dd49ae5416 finnes
 - OK   1 kilde AV-2007-2-03 finnes
 - OK   1 kilde AV-2013-1-04 finnes
@@ -844,19 +845,19 @@ Kjørt 2026-11-10.
 - OK   1 forfatter «Filges» for W22629269 står i metadata eller på tittelsiden
 - OK   1 forfatter «Krueger» for W2138836438 står i metadata eller på tittelsiden
 - OK   1 forfatter «Meyer» for W1506969218 står i metadata eller på tittelsiden
-- OK   2 sitat rad 1 (W2963969083, avgang fra ledighet til arbeid (hasardra) står på oppgitt side
+- FEIL 2 sitat rad 1 (W2963969083, avgang fra ledighet til arbeid (hasardra) ble IKKE funnet på oppgitt side
 - OK   3 estimat=1.10 rad 1 (W2963969083, avgang fra ledighet til arbeid (hasardra) står i sitatet
 - OK   3 ki_lav=1.03 rad 1 (W2963969083, avgang fra ledighet til arbeid (hasardra) står i sitatet
 - OK   3 ki_hoy=1.17 rad 1 (W2963969083, avgang fra ledighet til arbeid (hasardra) står i sitatet
 - OK   4 rad 1 (W2963969083, avgang fra ledighet til arbeid (hasardra) estimat innenfor KI
 - OK   4 rad 1 (W2963969083, avgang fra ledighet til arbeid (hasardra) KI symmetrisk på log-skala (avvik 0.00)
-- OK   2 sitat rad 2 (W2963969083, avgang fra den nye jobben (hasardrate), ) står på oppgitt side
+- FEIL 2 sitat rad 2 (W2963969083, avgang fra den nye jobben (hasardrate), ) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.99 rad 2 (W2963969083, avgang fra den nye jobben (hasardrate), ) står i sitatet
 - OK   3 ki_lav=0.97 rad 2 (W2963969083, avgang fra den nye jobben (hasardrate), ) står i sitatet
 - OK   3 ki_hoy=1.02 rad 2 (W2963969083, avgang fra den nye jobben (hasardrate), ) står i sitatet
 - OK   4 rad 2 (W2963969083, avgang fra den nye jobben (hasardrate), ) estimat innenfor KI
 - OK   4 rad 2 (W2963969083, avgang fra den nye jobben (hasardrate), ) KI symmetrisk på log-skala (avvik 0.01)
-- OK   2 sitat rad 3 (W2963969083, lønn i ny jobb (lønnsforhold), ingen for) står på oppgitt side
+- FEIL 2 sitat rad 3 (W2963969083, lønn i ny jobb (lønnsforhold), ingen for) ble IKKE funnet på oppgitt side
 - OK   3 estimat=1.00 rad 3 (W2963969083, lønn i ny jobb (lønnsforhold), ingen for) står i sitatet
 - OK   3 ki_lav=0.99 rad 3 (W2963969083, lønn i ny jobb (lønnsforhold), ingen for) står i sitatet
 - OK   3 ki_hoy=1.01 rad 3 (W2963969083, lønn i ny jobb (lønnsforhold), ingen for) står i sitatet
@@ -868,281 +869,281 @@ Kjørt 2026-11-10.
 - OK   2 sitat rad 6 (W22629269, avgang fra ledighet til arbeid to månede) står på oppgitt side
 - OK   3 estimat=10 rad 6 (W22629269, avgang fra ledighet til arbeid to månede) står i sitatet
 - OK   2 sitat rad 7 (W22629269, avgang fra ny jobb (jobbkvalitet): for f) står på oppgitt side
-- OK   2 sitat rad 8 (W2892364420, ikke-sysselsatt varighet: marginaleffekt) står på oppgitt side
+- FEIL 2 sitat rad 8 (W2892364420, ikke-sysselsatt varighet: marginaleffekt) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.13 rad 8 (W2892364420, ikke-sysselsatt varighet: marginaleffekt) står i sitatet
-- OK   2 sitat rad 9 (W2892364420, elastisitet av ikke-sysselsatt varighet ) står på oppgitt side
+- FEIL 2 sitat rad 9 (W2892364420, elastisitet av ikke-sysselsatt varighet ) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.37 rad 9 (W2892364420, elastisitet av ikke-sysselsatt varighet ) står i sitatet
-- OK   2 sitat rad 10 (W2892364420, elastisitet av ledighetsvarighet for dag) står på oppgitt side
+- FEIL 2 sitat rad 10 (W2892364420, elastisitet av ledighetsvarighet for dag) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.53 rad 10 (W2892364420, elastisitet av ledighetsvarighet for dag) står i sitatet
-- OK   2 sitat rad 11 (W2892364420, lønn i ny jobb: små negative effekter av) står på oppgitt side
+- FEIL 2 sitat rad 11 (W2892364420, lønn i ny jobb: små negative effekter av) ble IKKE funnet på oppgitt side
 - OK   2 sitat rad 12 (W7131355276, korrigering for publiseringsskjevhet red) står på oppgitt side
-- OK   2 sitat rad 13 (W3215335411, ekstra uker ledighet per ekstra uke maks) står på oppgitt side
+- FEIL 2 sitat rad 13 (W3215335411, ekstra uker ledighet per ekstra uke maks) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.02 rad 13 (W3215335411, ekstra uker ledighet per ekstra uke maks) står i sitatet
-- OK   2 sitat rad 14 (W3215335411, de fleste signifikante estimater ligger ) står på oppgitt side
+- FEIL 2 sitat rad 14 (W3215335411, de fleste signifikante estimater ligger ) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.4 rad 14 (W3215335411, de fleste signifikante estimater ligger ) står i sitatet
-- OK   2 sitat rad 15 (W3215335411, ingen signifikant effekt av maksimal per) står på oppgitt side
-- OK   2 sitat rad 16 (W2084090750, menn: økning i forventet ledighetsvarigh) står på oppgitt side
+- FEIL 2 sitat rad 15 (W3215335411, ingen signifikant effekt av maksimal per) ble IKKE funnet på oppgitt side
+- FEIL 2 sitat rad 16 (W2084090750, menn: økning i forventet ledighetsvarigh) ble IKKE funnet på oppgitt side
 - OK   3 estimat=4 rad 16 (W2084090750, menn: økning i forventet ledighetsvarigh) står i sitatet
-- OK   2 sitat rad 17 (W2084090750, samlet effekt på ledighetsvarighet ikke ) står på oppgitt side
-- OK   2 sitat rad 18 (W2002707463, eldre med lang yrkeskarriere: økning i f) står på oppgitt side
+- FEIL 2 sitat rad 17 (W2084090750, samlet effekt på ledighetsvarighet ikke ) ble IKKE funnet på oppgitt side
+- FEIL 2 sitat rad 18 (W2002707463, eldre med lang yrkeskarriere: økning i f) ble IKKE funnet på oppgitt side
 - OK   3 estimat=50 rad 18 (W2002707463, eldre med lang yrkeskarriere: økning i f) står i sitatet
-- OK   2 sitat rad 19 (W2002707463, elastisitet av tid til arbeid for dagpen) står på oppgitt side
+- FEIL 2 sitat rad 19 (W2002707463, elastisitet av tid til arbeid for dagpen) ble IKKE funnet på oppgitt side
 - OK   3 estimat=1 rad 19 (W2002707463, elastisitet av tid til arbeid for dagpen) står i sitatet
-- OK   2 sitat rad 20 (W2002707463, hasard til arbeid går tilbake til nivået) står på oppgitt side
-- OK   2 sitat rad 21 (W7154563528, dager til neste jobb ved om lag 19 uker ) står på oppgitt side
+- FEIL 2 sitat rad 20 (W2002707463, hasard til arbeid går tilbake til nivået) ble IKKE funnet på oppgitt side
+- FEIL 2 sitat rad 21 (W7154563528, dager til neste jobb ved om lag 19 uker ) ble IKKE funnet på oppgitt side
 - OK   3 estimat=45 rad 21 (W7154563528, dager til neste jobb ved om lag 19 uker ) står i sitatet
-- OK   2 sitat rad 22 (W7154563528, ekstra dager uten arbeid per ekstra uke ) står på oppgitt side
+- FEIL 2 sitat rad 22 (W7154563528, ekstra dager uten arbeid per ekstra uke ) ble IKKE funnet på oppgitt side
 - OK   3 estimat=2 rad 22 (W7154563528, ekstra dager uten arbeid per ekstra uke ) står i sitatet
-- OK   2 sitat rad 23 (W7154563528, dagslønn i første jobb etter ledighet (r) står på oppgitt side
+- FEIL 2 sitat rad 23 (W7154563528, dagslønn i første jobb etter ledighet (r) ble IKKE funnet på oppgitt side
 - OK   3 estimat=15 rad 23 (W7154563528, dagslønn i første jobb etter ledighet (r) står i sitatet
-- OK   2 sitat rad 24 (W7154563528, ingen økning i overgang til faste eller ) står på oppgitt side
-- OK   2 sitat rad 25 (W2408422098, metodegjennomgang av makroeffekter av fo) står på oppgitt side
-- OK   2 sitat rad 26 (W2408422098, avgang fra ledighet etter kutt på 16 uke) står på oppgitt side
-- OK   2 sitat rad 27 (W2993610654, nedgang i sannsynlighet for å være i arb) står på oppgitt side
+- FEIL 2 sitat rad 24 (W7154563528, ingen økning i overgang til faste eller ) ble IKKE funnet på oppgitt side
+- FEIL 2 sitat rad 25 (W2408422098, metodegjennomgang av makroeffekter av fo) ble IKKE funnet på oppgitt side
+- FEIL 2 sitat rad 26 (W2408422098, avgang fra ledighet etter kutt på 16 uke) ble IKKE funnet på oppgitt side
+- FEIL 2 sitat rad 27 (W2993610654, nedgang i sannsynlighet for å være i arb) ble IKKE funnet på oppgitt side
 - OK   3 estimat=61 rad 27 (W2993610654, nedgang i sannsynlighet for å være i arb) står i sitatet
-- OK   2 sitat rad 28 (W2993610654, nedgang i kumulativ inntekt over to år () står på oppgitt side
+- FEIL 2 sitat rad 28 (W2993610654, nedgang i kumulativ inntekt over to år () ble IKKE funnet på oppgitt side
 - OK   3 estimat=76 rad 28 (W2993610654, nedgang i kumulativ inntekt over to år () står i sitatet
-- OK   2 sitat rad 29 (W2993610654, ingen klar bedring i jobbkvalitet som ve) står på oppgitt side
-- OK   2 sitat rad 30 (W2948483932, topp i jobbfinningsraten siste uke før u) står på oppgitt side
+- FEIL 2 sitat rad 29 (W2993610654, ingen klar bedring i jobbkvalitet som ve) ble IKKE funnet på oppgitt side
+- FEIL 2 sitat rad 30 (W2948483932, topp i jobbfinningsraten siste uke før u) ble IKKE funnet på oppgitt side
 - OK   3 estimat=3.1 rad 30 (W2948483932, topp i jobbfinningsraten siste uke før u) står i sitatet
-- OK   2 sitat rad 31 (W2948483932, topp i avgang fra dagpenger siste uke fø) står på oppgitt side
+- FEIL 2 sitat rad 31 (W2948483932, topp i avgang fra dagpenger siste uke fø) ble IKKE funnet på oppgitt side
 - OK   3 estimat=4.5 rad 31 (W2948483932, topp i avgang fra dagpenger siste uke fø) står i sitatet
-- OK   2 sitat rad 32 (W2948483932, andel ledighetsforløp som endte i arbeid) står på oppgitt side
+- FEIL 2 sitat rad 32 (W2948483932, andel ledighetsforløp som endte i arbeid) ble IKKE funnet på oppgitt side
 - OK   3 estimat=1.3 rad 32 (W2948483932, andel ledighetsforløp som endte i arbeid) står i sitatet
-- OK   2 sitat rad 33 (W2948483932, ekstra andel forløp som ender de siste 8) står på oppgitt side
+- FEIL 2 sitat rad 33 (W2948483932, ekstra andel forløp som ender de siste 8) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.4 rad 33 (W2948483932, ekstra andel forløp som ender de siste 8) står i sitatet
-- OK   2 sitat rad 34 (W4322604235, ingen effektestimat for dagpengeperiode ) står på oppgitt side
-- OK   2 sitat rad 35 (W4401689619, elastisitet av ledighetsvarighet for kom) står på oppgitt side
+- FEIL 2 sitat rad 34 (W4322604235, ingen effektestimat for dagpengeperiode ) ble IKKE funnet på oppgitt side
+- FEIL 2 sitat rad 35 (W4401689619, elastisitet av ledighetsvarighet for kom) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.34 rad 35 (W4401689619, elastisitet av ledighetsvarighet for kom) står i sitatet
-- OK   2 sitat rad 36 (W4401689619, elastisitet av ledighetsvarighet for mak) står på oppgitt side
+- FEIL 2 sitat rad 36 (W4401689619, elastisitet av ledighetsvarighet for mak) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.23 rad 36 (W4401689619, elastisitet av ledighetsvarighet for mak) står i sitatet
-- OK   2 sitat rad 37 (W4401689619, høyere elastisiteter når ordningen er sj) står på oppgitt side
+- FEIL 2 sitat rad 37 (W4401689619, høyere elastisiteter når ordningen er sj) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.52 rad 37 (W4401689619, høyere elastisiteter når ordningen er sj) står i sitatet
-- OK   2 sitat rad 38 (W4401689619, elastisitet av ledighetsvarighet for mak) står på oppgitt side
+- FEIL 2 sitat rad 38 (W4401689619, elastisitet av ledighetsvarighet for mak) ble IKKE funnet på oppgitt side
 - OK   3 estimat=1.71 rad 38 (W4401689619, elastisitet av ledighetsvarighet for mak) står i sitatet
-- OK   2 sitat rad 39 (W2624227397, ekstra uker ledighet per ekstra uke dagp) står på oppgitt side
+- FEIL 2 sitat rad 39 (W2624227397, ekstra uker ledighet per ekstra uke dagp) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.15 rad 39 (W2624227397, ekstra uker ledighet per ekstra uke dagp) står i sitatet
-- OK   2 sitat rad 40 (W2624227397, elastisitet av ledighetsvarighet for gje) står på oppgitt side
+- FEIL 2 sitat rad 40 (W2624227397, elastisitet av ledighetsvarighet for gje) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.5 rad 40 (W2624227397, elastisitet av ledighetsvarighet for gje) står i sitatet
-- OK   2 sitat rad 41 (W2624227397, lønn i neste jobb: om lag 2 euro mer per) står på oppgitt side
+- FEIL 2 sitat rad 41 (W2624227397, lønn i neste jobb: om lag 2 euro mer per) ble IKKE funnet på oppgitt side
 - OK   3 estimat=2 rad 41 (W2624227397, lønn i neste jobb: om lag 2 euro mer per) står i sitatet
-- OK   2 sitat rad 42 (W2200172062, elastisitet av ledighetsvarighet for dag) står på oppgitt side
+- FEIL 2 sitat rad 42 (W2200172062, elastisitet av ledighetsvarighet for dag) ble IKKE funnet på oppgitt side
 - OK   3 estimat=1.53 rad 42 (W2200172062, elastisitet av ledighetsvarighet for dag) står i sitatet
-- OK   2 sitat rad 43 (W2200172062, moral hazard-kostnad av høyere dagpenger) står på oppgitt side
+- FEIL 2 sitat rad 43 (W2200172062, moral hazard-kostnad av høyere dagpenger) ble IKKE funnet på oppgitt side
 - OK   3 estimat=21 rad 43 (W2200172062, moral hazard-kostnad av høyere dagpenger) står i sitatet
-- OK   2 sitat rad 44 (W2143884102, optimal kompensasjonsgrad i et system me) står på oppgitt side
+- FEIL 2 sitat rad 44 (W2143884102, optimal kompensasjonsgrad i et system me) ble IKKE funnet på oppgitt side
 - OK   3 estimat=46 rad 44 (W2143884102, optimal kompensasjonsgrad i et system me) står i sitatet
-- OK   2 sitat rad 45 (W2143884102, velferdsgevinst av optimalt system med t) står på oppgitt side
+- FEIL 2 sitat rad 45 (W2143884102, velferdsgevinst av optimalt system med t) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.55 rad 45 (W2143884102, velferdsgevinst av optimalt system med t) står i sitatet
-- OK   2 sitat rad 46 (W2304173907, ekstra uker ledighet per uke forlengelse) står på oppgitt side
+- FEIL 2 sitat rad 46 (W2304173907, ekstra uker ledighet per uke forlengelse) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.1 rad 46 (W2304173907, ekstra uker ledighet per uke forlengelse) står i sitatet
-- OK   2 sitat rad 47 (W2304173907, ekstra uker ledighet per ekstra uke ordi) står på oppgitt side
+- FEIL 2 sitat rad 47 (W2304173907, ekstra uker ledighet per ekstra uke ordi) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.2 rad 47 (W2304173907, ekstra uker ledighet per ekstra uke ordi) står i sitatet
 - OK   2 sitat rad 48 (W1555671394, ingen effektestimat i sammendraget; resu) står på oppgitt side
-- OK   2 sitat rad 50 (W2153088156, semielastisitet av lønn for netto kompen) står på oppgitt side
+- FEIL 2 sitat rad 50 (W2153088156, semielastisitet av lønn for netto kompen) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.2 rad 50 (W2153088156, semielastisitet av lønn for netto kompen) står i sitatet
-- OK   2 sitat rad 51 (W2153088156, fall i lønn før skatt ved 1 prosent lave) står på oppgitt side
+- FEIL 2 sitat rad 51 (W2153088156, fall i lønn før skatt ved 1 prosent lave) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.1 rad 51 (W2153088156, fall i lønn før skatt ved 1 prosent lave) står i sitatet
-- OK   2 sitat rad 52 (W2123564434, ledighetsrate: midlertidig forlengelse 2) står på oppgitt side
+- FEIL 2 sitat rad 52 (W2123564434, ledighetsrate: midlertidig forlengelse 2) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.5 rad 52 (W2123564434, ledighetsrate: midlertidig forlengelse 2) står i sitatet
-- OK   2 sitat rad 53 (W2123564434, ledighetsrate i 2011 ville vært lavere u) står på oppgitt side
+- FEIL 2 sitat rad 53 (W2123564434, ledighetsrate i 2011 ville vært lavere u) ble IKKE funnet på oppgitt side
 - OK   3 estimat=2 rad 53 (W2123564434, ledighetsrate i 2011 ville vært lavere u) står i sitatet
-- OK   2 sitat rad 54 (W2123564434, langsiktig ledighetsrate ved permanent ø) står på oppgitt side
+- FEIL 2 sitat rad 54 (W2123564434, langsiktig ledighetsrate ved permanent ø) ble IKKE funnet på oppgitt side
 - OK   3 estimat=80 rad 54 (W2123564434, langsiktig ledighetsrate ved permanent ø) står i sitatet
-- OK   2 sitat rad 55 (W1900426521, reservasjonslønn: prosent økning per pro) står på oppgitt side
+- FEIL 2 sitat rad 55 (W1900426521, reservasjonslønn: prosent økning per pro) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.65 rad 55 (W1900426521, reservasjonslønn: prosent økning per pro) står i sitatet
-- OK   2 sitat rad 56 (W1900426521, reservasjonslønn påvirker ikke jobbsjans) står på oppgitt side
-- OK   2 sitat rad 57 (W1900426521, inntekt ved gjenansettelse (relativt til) står på oppgitt side
+- FEIL 2 sitat rad 56 (W1900426521, reservasjonslønn påvirker ikke jobbsjans) ble IKKE funnet på oppgitt side
+- FEIL 2 sitat rad 57 (W1900426521, inntekt ved gjenansettelse (relativt til) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.6 rad 57 (W1900426521, inntekt ved gjenansettelse (relativt til) står i sitatet
-- OK   2 sitat rad 58 (W1900426521, avgang fra ledighet til arbeid etter kut) står på oppgitt side
+- FEIL 2 sitat rad 58 (W1900426521, avgang fra ledighet til arbeid etter kut) ble IKKE funnet på oppgitt side
 - OK   3 estimat=10 rad 58 (W1900426521, avgang fra ledighet til arbeid etter kut) står i sitatet
-- OK   2 sitat rad 59 (W3122724300, sysselsetting (log-poeng) ved 1 prosent ) står på oppgitt side
+- FEIL 2 sitat rad 59 (W3122724300, sysselsetting (log-poeng) ved 1 prosent ) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.019 rad 59 (W3122724300, sysselsetting (log-poeng) ved 1 prosent ) står i sitatet
-- OK   2 sitat rad 60 (W3122724300, antall personer (millioner) som fikk job) står på oppgitt side
+- FEIL 2 sitat rad 60 (W3122724300, antall personer (millioner) som fikk job) ble IKKE funnet på oppgitt side
 - OK   3 estimat=2.1 rad 60 (W3122724300, antall personer (millioner) som fikk job) står i sitatet
-- OK   2 sitat rad 61 (W4392395455, sannsynlighet for å finne jobb innen sek) står på oppgitt side
+- FEIL 2 sitat rad 61 (W4392395455, sannsynlighet for å finne jobb innen sek) ble IKKE funnet på oppgitt side
 - OK   3 estimat=70 rad 61 (W4392395455, sannsynlighet for å finne jobb innen sek) står i sitatet
-- OK   2 sitat rad 62 (W4392395455, ledighetens respons på dagpenger betalt ) står på oppgitt side
-- OK   2 sitat rad 63 (W2161003690, permitterte/tilbakekalte: andel av ledig) står på oppgitt side
+- FEIL 2 sitat rad 62 (W4392395455, ledighetens respons på dagpenger betalt ) ble IKKE funnet på oppgitt side
+- FEIL 2 sitat rad 63 (W2161003690, permitterte/tilbakekalte: andel av ledig) ble IKKE funnet på oppgitt side
 - OK   3 estimat=47 rad 63 (W2161003690, permitterte/tilbakekalte: andel av ledig) står i sitatet
-- OK   2 sitat rad 64 (W2161003690, hasard til ny jobb har topp ved utløp av) står på oppgitt side
-- OK   2 sitat rad 65 (W3122988274, søketid (minutter per dag) blant UI-bere) står på oppgitt side
+- FEIL 2 sitat rad 64 (W2161003690, hasard til ny jobb har topp ved utløp av) ble IKKE funnet på oppgitt side
+- FEIL 2 sitat rad 65 (W3122988274, søketid (minutter per dag) blant UI-bere) ble IKKE funnet på oppgitt side
 - OK   3 estimat=-1.6 rad 65 (W3122988274, søketid (minutter per dag) blant UI-bere) står i sitatet
-- OK   2 sitat rad 66 (W3122988274, søketid (minutter per dag) blant UI-bere) står på oppgitt side
+- FEIL 2 sitat rad 66 (W3122988274, søketid (minutter per dag) blant UI-bere) ble IKKE funnet på oppgitt side
 - OK   3 estimat=-2.2 rad 66 (W3122988274, søketid (minutter per dag) blant UI-bere) står i sitatet
-- OK   2 sitat rad 67 (W3122988274, søketid øker kraftig ukene før stønaden ) står på oppgitt side
-- OK   2 sitat rad 68 (W2105107427, gjennomsnittlig ledighetsvarighet økte f) står på oppgitt side
+- FEIL 2 sitat rad 67 (W3122988274, søketid øker kraftig ukene før stønaden ) ble IKKE funnet på oppgitt side
+- FEIL 2 sitat rad 68 (W2105107427, gjennomsnittlig ledighetsvarighet økte f) ble IKKE funnet på oppgitt side
 - OK   3 estimat=26.8 rad 68 (W2105107427, gjennomsnittlig ledighetsvarighet økte f) står i sitatet
-- OK   2 sitat rad 69 (W2105107427, økt forventet ledighetsvarighet per uke ) står på oppgitt side
+- FEIL 2 sitat rad 69 (W2105107427, økt forventet ledighetsvarighet per uke ) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.5 rad 69 (W2105107427, økt forventet ledighetsvarighet per uke ) står i sitatet
-- OK   2 sitat rad 70 (W2105107427, overgang til jobb (hasard) når én måned ) står på oppgitt side
+- FEIL 2 sitat rad 70 (W2105107427, overgang til jobb (hasard) når én måned ) ble IKKE funnet på oppgitt side
 - OK   3 estimat=55 rad 70 (W2105107427, overgang til jobb (hasard) når én måned ) står i sitatet
-- OK   2 sitat rad 71 (W3123103646, avgang fra ledighet mens man jobber delt) står på oppgitt side
+- FEIL 2 sitat rad 71 (W3123103646, avgang fra ledighet mens man jobber delt) ble IKKE funnet på oppgitt side
 - OK   3 estimat=52 rad 71 (W3123103646, avgang fra ledighet mens man jobber delt) står i sitatet
-- OK   2 sitat rad 72 (W3123103646, avgang fra ledighet etter periode med su) står på oppgitt side
+- FEIL 2 sitat rad 72 (W3123103646, avgang fra ledighet etter periode med su) ble IKKE funnet på oppgitt side
 - OK   3 estimat=33 rad 72 (W3123103646, avgang fra ledighet etter periode med su) står i sitatet
-- OK   2 sitat rad 73 (W1884998289, elastisitet i overgang til jobb mht. kom) står på oppgitt side
+- FEIL 2 sitat rad 73 (W1884998289, elastisitet i overgang til jobb mht. kom) ble IKKE funnet på oppgitt side
 - OK   3 estimat=-0.4 rad 73 (W1884998289, elastisitet i overgang til jobb mht. kom) står i sitatet
-- OK   2 sitat rad 74 (W1884998289, økning i overgang til jobb de siste 3-4 ) står på oppgitt side
+- FEIL 2 sitat rad 74 (W1884998289, økning i overgang til jobb de siste 3-4 ) ble IKKE funnet på oppgitt side
 - OK   3 estimat=50 rad 74 (W1884998289, økning i overgang til jobb de siste 3-4 ) står i sitatet
-- OK   2 sitat rad 75 (W4416019886, søkeinnsats (antall søknader) ved utløp ) står på oppgitt side
+- FEIL 2 sitat rad 75 (W4416019886, søkeinnsats (antall søknader) ved utløp ) ble IKKE funnet på oppgitt side
 - OK   3 estimat=10 rad 75 (W4416019886, søkeinnsats (antall søknader) ved utløp ) står i sitatet
-- OK   2 sitat rad 77 (W3126140373, månedlig overgangsrate til jobb etter ut) står på oppgitt side
+- FEIL 2 sitat rad 77 (W3126140373, månedlig overgangsrate til jobb etter ut) ble IKKE funnet på oppgitt side
 - OK   3 estimat=20 rad 77 (W3126140373, månedlig overgangsrate til jobb etter ut) står i sitatet
-- OK   2 sitat rad 78 (W3126140373, månedlig overgangsrate til egen virksomh) står på oppgitt side
+- FEIL 2 sitat rad 78 (W3126140373, månedlig overgangsrate til egen virksomh) ble IKKE funnet på oppgitt side
 - OK   3 estimat=2 rad 78 (W3126140373, månedlig overgangsrate til egen virksomh) står i sitatet
-- OK   2 sitat rad 79 (KU-7d037e12-1538-4c97-9339-fb49dd5e5502, reduksjon i ledighetsvarighet (uker) per) står på oppgitt side
+- FEIL 2 sitat rad 79 (KU-7d037e12-1538-4c97-9339-fb49dd5e5502, reduksjon i ledighetsvarighet (uker) per) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.23 rad 79 (KU-7d037e12-1538-4c97-9339-fb49dd5e5502, reduksjon i ledighetsvarighet (uker) per) står i sitatet
-- OK   2 sitat rad 80 (KU-7d037e12-1538-4c97-9339-fb49dd5e5502, forventet tid til jobb (betinget på jobb) står på oppgitt side
+- FEIL 2 sitat rad 80 (KU-7d037e12-1538-4c97-9339-fb49dd5e5502, forventet tid til jobb (betinget på jobb) ble IKKE funnet på oppgitt side
 - OK   3 estimat=9 rad 80 (KU-7d037e12-1538-4c97-9339-fb49dd5e5502, forventet tid til jobb (betinget på jobb) står i sitatet
-- OK   2 sitat rad 81 (KU-7d037e12-1538-4c97-9339-fb49dd5e5502, andel i jobb etter fire år (tallet står ) står på oppgitt side
+- FEIL 2 sitat rad 81 (KU-7d037e12-1538-4c97-9339-fb49dd5e5502, andel i jobb etter fire år (tallet står ) ble IKKE funnet på oppgitt side
 - OK   3 estimat=2 rad 81 (KU-7d037e12-1538-4c97-9339-fb49dd5e5502, andel i jobb etter fire år (tallet står ) står i sitatet
-- OK   2 sitat rad 82 (KU-7d037e12-1538-4c97-9339-fb49dd5e5502, reduksjon i ledighetsvarighet (uker) per) står på oppgitt side
+- FEIL 2 sitat rad 82 (KU-7d037e12-1538-4c97-9339-fb49dd5e5502, reduksjon i ledighetsvarighet (uker) per) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.07 rad 82 (KU-7d037e12-1538-4c97-9339-fb49dd5e5502, reduksjon i ledighetsvarighet (uker) per) står i sitatet
-- OK   2 sitat rad 83 (KU-cf803acc-e73d-410f-a09f-e4633c73602a, overgang fra jobb til ledighet (reduksjo) står på oppgitt side
+- FEIL 2 sitat rad 83 (KU-cf803acc-e73d-410f-a09f-e4633c73602a, overgang fra jobb til ledighet (reduksjo) ble IKKE funnet på oppgitt side
 - OK   3 estimat=8.7 rad 83 (KU-cf803acc-e73d-410f-a09f-e4633c73602a, overgang fra jobb til ledighet (reduksjo) står i sitatet
-- OK   2 sitat rad 84 (KU-cf803acc-e73d-410f-a09f-e4633c73602a, overgang fra ikke-jobb til ny jobb, regi) står på oppgitt side
+- FEIL 2 sitat rad 84 (KU-cf803acc-e73d-410f-a09f-e4633c73602a, overgang fra ikke-jobb til ny jobb, regi) ble IKKE funnet på oppgitt side
 - OK   3 estimat=-3 rad 84 (KU-cf803acc-e73d-410f-a09f-e4633c73602a, overgang fra ikke-jobb til ny jobb, regi) står i sitatet
 - OK   3 ki_lav=-16 rad 84 (KU-cf803acc-e73d-410f-a09f-e4633c73602a, overgang fra ikke-jobb til ny jobb, regi) står i sitatet
 - OK   3 ki_hoy=13 rad 84 (KU-cf803acc-e73d-410f-a09f-e4633c73602a, overgang fra ikke-jobb til ny jobb, regi) står i sitatet
 - OK   4 rad 84 (KU-cf803acc-e73d-410f-a09f-e4633c73602a, overgang fra ikke-jobb til ny jobb, regi) estimat innenfor KI
-- OK   2 sitat rad 85 (AV-2013-1-04, antall helt ledige over 60 år med mer en) står på oppgitt side
+- FEIL 2 sitat rad 85 (AV-2013-1-04, antall helt ledige over 60 år med mer en) ble IKKE funnet på oppgitt side
 - OK   3 estimat=-28 rad 85 (AV-2013-1-04, antall helt ledige over 60 år med mer en) står i sitatet
-- OK   2 sitat rad 86 (AV-2013-1-04, andel tilbake i jobb i oktober blant led) står på oppgitt side
+- FEIL 2 sitat rad 86 (AV-2013-1-04, andel tilbake i jobb i oktober blant led) ble IKKE funnet på oppgitt side
 - OK   3 estimat=60 rad 86 (AV-2013-1-04, andel tilbake i jobb i oktober blant led) står i sitatet
-- OK   2 sitat rad 87 (KU-8946b101-5472-4571-b8f6-1a2b4020db3e, gjennomsnittlig ledighetsvarighet, måned) står på oppgitt side
+- FEIL 2 sitat rad 87 (KU-8946b101-5472-4571-b8f6-1a2b4020db3e, gjennomsnittlig ledighetsvarighet, måned) ble IKKE funnet på oppgitt side
 - OK   3 estimat=1.8 rad 87 (KU-8946b101-5472-4571-b8f6-1a2b4020db3e, gjennomsnittlig ledighetsvarighet, måned) står i sitatet
-- OK   2 sitat rad 88 (KU-8946b101-5472-4571-b8f6-1a2b4020db3e, lønn i første jobb etter ledighet (jobbk) står på oppgitt side
+- FEIL 2 sitat rad 88 (KU-8946b101-5472-4571-b8f6-1a2b4020db3e, lønn i første jobb etter ledighet (jobbk) ble IKKE funnet på oppgitt side
 - OK   3 estimat=4.3 rad 88 (KU-8946b101-5472-4571-b8f6-1a2b4020db3e, lønn i første jobb etter ledighet (jobbk) står i sitatet
-- OK   2 sitat rad 89 (KU-8946b101-5472-4571-b8f6-1a2b4020db3e, overgang til jobb (hasard) månedene rett) står på oppgitt side
+- FEIL 2 sitat rad 89 (KU-8946b101-5472-4571-b8f6-1a2b4020db3e, overgang til jobb (hasard) månedene rett) ble IKKE funnet på oppgitt side
 - OK   3 estimat=50 rad 89 (KU-8946b101-5472-4571-b8f6-1a2b4020db3e, overgang til jobb (hasard) månedene rett) står i sitatet
-- OK   2 sitat rad 90 (KU-8946b101-5472-4571-b8f6-1a2b4020db3e, akseptert lønn i ny jobb, nedgang rett f) står på oppgitt side
+- FEIL 2 sitat rad 90 (KU-8946b101-5472-4571-b8f6-1a2b4020db3e, akseptert lønn i ny jobb, nedgang rett f) ble IKKE funnet på oppgitt side
 - OK   3 estimat=10 rad 90 (KU-8946b101-5472-4571-b8f6-1a2b4020db3e, akseptert lønn i ny jobb, nedgang rett f) står i sitatet
-- OK   2 sitat rad 91 (AV-2018-2-03, permitterte: måned i ledighetsforløpet m) står på oppgitt side
+- FEIL 2 sitat rad 91 (AV-2018-2-03, permitterte: måned i ledighetsforløpet m) ble IKKE funnet på oppgitt side
 - OK   3 estimat=3 rad 91 (AV-2018-2-03, permitterte: måned i ledighetsforløpet m) står i sitatet
-- OK   2 sitat rad 92 (AV-2018-2-03, permitterte: måned med høyest sannsynlig) står på oppgitt side
+- FEIL 2 sitat rad 92 (AV-2018-2-03, permitterte: måned med høyest sannsynlig) ble IKKE funnet på oppgitt side
 - OK   3 estimat=6 rad 92 (AV-2018-2-03, permitterte: måned med høyest sannsynlig) står i sitatet
-- OK   2 sitat rad 93 (AV-2018-1-01, andel av dem som flytter for ny jobb som) står på oppgitt side
+- FEIL 2 sitat rad 93 (AV-2018-1-01, andel av dem som flytter for ny jobb som) ble IKKE funnet på oppgitt side
 - OK   3 estimat=16 rad 93 (AV-2018-1-01, andel av dem som flytter for ny jobb som) står i sitatet
-- OK   2 sitat rad 94 (AV-2019-4-01, norskfødte med 24 måneders dagpengerett:) står på oppgitt side
+- FEIL 2 sitat rad 94 (AV-2019-4-01, norskfødte med 24 måneders dagpengerett:) ble IKKE funnet på oppgitt side
 - OK   3 estimat=15 rad 94 (AV-2019-4-01, norskfødte med 24 måneders dagpengerett:) står i sitatet
-- OK   2 sitat rad 95 (AV-2019-4-01, innvandrere fra lavinntektsland med 24 m) står på oppgitt side
+- FEIL 2 sitat rad 95 (AV-2019-4-01, innvandrere fra lavinntektsland med 24 m) ble IKKE funnet på oppgitt side
 - OK   3 estimat=10 rad 95 (AV-2019-4-01, innvandrere fra lavinntektsland med 24 m) står i sitatet
-- OK   2 sitat rad 96 (AV-2023-1-08, ingen estimat for overgang til arbeid; s) står på oppgitt side
-- OK   2 sitat rad 97 (AV-2023-1-03, permittert mer enn ett år under pandemie) står på oppgitt side
+- FEIL 2 sitat rad 96 (AV-2023-1-08, ingen estimat for overgang til arbeid; s) ble IKKE funnet på oppgitt side
+- FEIL 2 sitat rad 97 (AV-2023-1-03, permittert mer enn ett år under pandemie) ble IKKE funnet på oppgitt side
 - OK   3 estimat=57 rad 97 (AV-2023-1-03, permittert mer enn ett år under pandemie) står i sitatet
-- OK   2 sitat rad 98 (AV-2023-1-03, permittert mer enn ett år under pandemie) står på oppgitt side
+- FEIL 2 sitat rad 98 (AV-2023-1-03, permittert mer enn ett år under pandemie) ble IKKE funnet på oppgitt side
 - OK   3 estimat=12 rad 98 (AV-2023-1-03, permittert mer enn ett år under pandemie) står i sitatet
-- OK   2 sitat rad 99 (0198cc433002-bf76c9ff-dfa2-46bb-8df2-eecbfad07615, unge 18-30 år: gjennomsnittlig varighet ) står på oppgitt side
+- FEIL 2 sitat rad 99 (0198cc433002-bf76c9ff-dfa2-46bb-8df2-eecbfad07615, unge 18-30 år: gjennomsnittlig varighet ) ble IKKE funnet på oppgitt side
 - OK   3 estimat=8.40 rad 99 (0198cc433002-bf76c9ff-dfa2-46bb-8df2-eecbfad07615, unge 18-30 år: gjennomsnittlig varighet ) står i sitatet
-- OK   2 sitat rad 100 (0198cc433002-bf76c9ff-dfa2-46bb-8df2-eecbfad07615, unge 18-30 år: gjennomsnittlig varighet ) står på oppgitt side
+- FEIL 2 sitat rad 100 (0198cc433002-bf76c9ff-dfa2-46bb-8df2-eecbfad07615, unge 18-30 år: gjennomsnittlig varighet ) ble IKKE funnet på oppgitt side
 - OK   3 estimat=3.77 rad 100 (0198cc433002-bf76c9ff-dfa2-46bb-8df2-eecbfad07615, unge 18-30 år: gjennomsnittlig varighet ) står i sitatet
-- OK   2 sitat rad 101 (AV-2023-1-04, merutgifter (milliarder kroner) ved forl) står på oppgitt side
+- FEIL 2 sitat rad 101 (AV-2023-1-04, merutgifter (milliarder kroner) ved forl) ble IKKE funnet på oppgitt side
 - OK   3 estimat=7 rad 101 (AV-2023-1-04, merutgifter (milliarder kroner) ved forl) står i sitatet
-- OK   2 sitat rad 102 (0198cc5369ae-229c5063-6405-419a-8006-b9dd49ae5416, permitterte: ingen effektestimat; interv) står på oppgitt side
-- OK   2 sitat rad 103 (KU-710bb35b-b997-44f5-8798-e71860da413c, andel med ordinær jobb blant deltakere s) står på oppgitt side
+- FEIL 2 sitat rad 102 (0198cc5369ae-229c5063-6405-419a-8006-b9dd49ae5416, permitterte: ingen effektestimat; interv) ble IKKE funnet på oppgitt side
+- FEIL 2 sitat rad 103 (KU-710bb35b-b997-44f5-8798-e71860da413c, andel med ordinær jobb blant deltakere s) ble IKKE funnet på oppgitt side
 - OK   3 estimat=60 rad 103 (KU-710bb35b-b997-44f5-8798-e71860da413c, andel med ordinær jobb blant deltakere s) står i sitatet
-- OK   2 sitat rad 104 (LI-fszjzhtccvgf3hp0, foreldre med barn under 18 år: uker med ) står på oppgitt side
+- FEIL 2 sitat rad 104 (LI-fszjzhtccvgf3hp0, foreldre med barn under 18 år: uker med ) ble IKKE funnet på oppgitt side
 - OK   3 estimat=2.5 rad 104 (LI-fszjzhtccvgf3hp0, foreldre med barn under 18 år: uker med ) står i sitatet
-- OK   2 sitat rad 105 (LI-fszjzhtccvgf3hp0, sannsynlighet for å gå til subsidiert ar) står på oppgitt side
+- FEIL 2 sitat rad 105 (LI-fszjzhtccvgf3hp0, sannsynlighet for å gå til subsidiert ar) ble IKKE funnet på oppgitt side
 - OK   3 estimat=36 rad 105 (LI-fszjzhtccvgf3hp0, sannsynlighet for å gå til subsidiert ar) står i sitatet
-- OK   2 sitat rad 106 (LI-10150981, reformkoeffisient for overgang til arbei) står på oppgitt side
+- FEIL 2 sitat rad 106 (LI-10150981, reformkoeffisient for overgang til arbei) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.048 rad 106 (LI-10150981, reformkoeffisient for overgang til arbei) står i sitatet
-- OK   2 sitat rad 107 (LI-10150981, raskere overgang til arbeid uten arbeids) står på oppgitt side
+- FEIL 2 sitat rad 107 (LI-10150981, raskere overgang til arbeid uten arbeids) ble IKKE funnet på oppgitt side
 - OK   3 estimat=15 rad 107 (LI-10150981, raskere overgang til arbeid uten arbeids) står i sitatet
-- OK   2 sitat rad 108 (LI-10150981, implisert elastisitet for overgang til a) står på oppgitt side
+- FEIL 2 sitat rad 108 (LI-10150981, implisert elastisitet for overgang til a) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.6 rad 108 (LI-10150981, implisert elastisitet for overgang til a) står i sitatet
-- OK   2 sitat rad 109 (LI-10150999, økning i overgang til arbeid, gjengitt f) står på oppgitt side
+- FEIL 2 sitat rad 109 (LI-10150999, økning i overgang til arbeid, gjengitt f) ble IKKE funnet på oppgitt side
 - OK   3 estimat=10 rad 109 (LI-10150999, økning i overgang til arbeid, gjengitt f) står i sitatet
-- OK   2 sitat rad 110 (LI-10150999, implisert elastisitet, gjengitt fra IFAU) står på oppgitt side
+- FEIL 2 sitat rad 110 (LI-10150999, implisert elastisitet, gjengitt fra IFAU) ble IKKE funnet på oppgitt side
 - OK   3 estimat=1.6 rad 110 (LI-10150999, implisert elastisitet, gjengitt fra IFAU) står i sitatet
-- OK   2 sitat rad 111 (LI-8234473, elastisitet i forventet ledighetsvarighe) står på oppgitt side
+- FEIL 2 sitat rad 111 (LI-8234473, elastisitet i forventet ledighetsvarighe) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.2 rad 111 (LI-8234473, elastisitet i forventet ledighetsvarighe) står i sitatet
-- OK   2 sitat rad 112 (LI-8234473, reduksjon i gjennomsnittlig ledighetstid) står på oppgitt side
+- FEIL 2 sitat rad 112 (LI-8234473, reduksjon i gjennomsnittlig ledighetstid) ble IKKE funnet på oppgitt side
 - OK   3 estimat=2 rad 112 (LI-8234473, reduksjon i gjennomsnittlig ledighetstid) står i sitatet
-- OK   2 sitat rad 113 (LI-8234473, økt gjennomsnittlig ledighetstid per mån) står på oppgitt side
+- FEIL 2 sitat rad 113 (LI-8234473, økt gjennomsnittlig ledighetstid per mån) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.5 rad 113 (LI-8234473, økt gjennomsnittlig ledighetstid per mån) står i sitatet
-- OK   2 sitat rad 114 (LI-11485196, total arbeidsledighet i regionene (øknin) står på oppgitt side
+- FEIL 2 sitat rad 114 (LI-11485196, total arbeidsledighet i regionene (øknin) ble IKKE funnet på oppgitt side
 - OK   3 estimat=1.5 rad 114 (LI-11485196, total arbeidsledighet i regionene (øknin) står i sitatet
-- OK   2 sitat rad 115 (LI-11485196, elastisitet i arbeidsledighet mht. nomin) står på oppgitt side
+- FEIL 2 sitat rad 115 (LI-11485196, elastisitet i arbeidsledighet mht. nomin) ble IKKE funnet på oppgitt side
 - OK   3 estimat=3.5 rad 115 (LI-11485196, elastisitet i arbeidsledighet mht. nomin) står i sitatet
-- OK   2 sitat rad 116 (LI-vfd7vvlvsxvpt6q4, lavere sannsynlighet for å avslutte erse) står på oppgitt side
+- FEIL 2 sitat rad 116 (LI-vfd7vvlvsxvpt6q4, lavere sannsynlighet for å avslutte erse) ble IKKE funnet på oppgitt side
 - OK   3 estimat=4.6 rad 116 (LI-vfd7vvlvsxvpt6q4, lavere sannsynlighet for å avslutte erse) står i sitatet
-- OK   2 sitat rad 117 (LI-vfd7vvlvsxvpt6q4, lavere sannsynlighet for å avslutte ledi) står på oppgitt side
+- FEIL 2 sitat rad 117 (LI-vfd7vvlvsxvpt6q4, lavere sannsynlighet for å avslutte ledi) ble IKKE funnet på oppgitt side
 - OK   3 estimat=5.5 rad 117 (LI-vfd7vvlvsxvpt6q4, lavere sannsynlighet for å avslutte ledi) står i sitatet
-- OK   2 sitat rad 118 (LI-vfd7vvlvsxvpt6q4, lavere andel som kommer tilbake i ny ers) står på oppgitt side
+- FEIL 2 sitat rad 118 (LI-vfd7vvlvsxvpt6q4, lavere andel som kommer tilbake i ny ers) ble IKKE funnet på oppgitt side
 - OK   3 estimat=5.5 rad 118 (LI-vfd7vvlvsxvpt6q4, lavere andel som kommer tilbake i ny ers) står i sitatet
-- OK   2 sitat rad 119 (FI-vatt.10024_187919, kortere ledighetsperioder etter kutt i m) står på oppgitt side
+- FEIL 2 sitat rad 119 (FI-vatt.10024_187919, kortere ledighetsperioder etter kutt i m) ble IKKE funnet på oppgitt side
 - OK   3 estimat=3 rad 119 (FI-vatt.10024_187919, kortere ledighetsperioder etter kutt i m) står i sitatet
-- OK   2 sitat rad 120 (FI-vatt.10024_187919, ingen effekt på ledighetens varighet av ) står på oppgitt side
-- OK   2 sitat rad 121 (FI-vatt.10024_187919, andel av ledighetsperiodene som endte i ) står på oppgitt side
+- FEIL 2 sitat rad 120 (FI-vatt.10024_187919, ingen effekt på ledighetens varighet av ) ble IKKE funnet på oppgitt side
+- FEIL 2 sitat rad 121 (FI-vatt.10024_187919, andel av ledighetsperiodene som endte i ) ble IKKE funnet på oppgitt side
 - OK   3 estimat=1.3 rad 121 (FI-vatt.10024_187919, andel av ledighetsperiodene som endte i ) står i sitatet
-- OK   2 sitat rad 122 (FI-vatt.10024_149571, lengre ledighet (uker) per ekstra uke me) står på oppgitt side
+- FEIL 2 sitat rad 122 (FI-vatt.10024_149571, lengre ledighet (uker) per ekstra uke me) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.17 rad 122 (FI-vatt.10024_149571, lengre ledighet (uker) per ekstra uke me) står i sitatet
-- OK   2 sitat rad 123 (FI-vatt.10024_149571, lengre varighet i neste jobb, prosent, v) står på oppgitt side
+- FEIL 2 sitat rad 123 (FI-vatt.10024_149571, lengre varighet i neste jobb, prosent, v) ble IKKE funnet på oppgitt side
 - OK   3 estimat=2 rad 123 (FI-vatt.10024_149571, lengre varighet i neste jobb, prosent, v) står i sitatet
-- OK   2 sitat rad 124 (FI-vatt.10024_149571, høyere lønn i neste jobb, prosent, ved 1) står på oppgitt side
+- FEIL 2 sitat rad 124 (FI-vatt.10024_149571, høyere lønn i neste jobb, prosent, ved 1) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.6 rad 124 (FI-vatt.10024_149571, høyere lønn i neste jobb, prosent, ved 1) står i sitatet
-- OK   2 sitat rad 125 (FI-vatt.10024_149571, andel av alle ledighetsperioder som endt) står på oppgitt side
+- FEIL 2 sitat rad 125 (FI-vatt.10024_149571, andel av alle ledighetsperioder som endt) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.4 rad 125 (FI-vatt.10024_149571, andel av alle ledighetsperioder som endt) står i sitatet
-- OK   2 sitat rad 126 (FI-helka.995828223506253, økning i sannsynligheten for å komme i a) står på oppgitt side
+- FEIL 2 sitat rad 126 (FI-helka.995828223506253, økning i sannsynligheten for å komme i a) ble IKKE funnet på oppgitt side
 - OK   3 estimat=100 rad 126 (FI-helka.995828223506253, økning i sannsynligheten for å komme i a) står i sitatet
-- OK   2 sitat rad 127 (FI-vatt.10024_168803, andel av helt ledige 1.1.2018 som fikk d) står på oppgitt side
+- FEIL 2 sitat rad 127 (FI-vatt.10024_168803, andel av helt ledige 1.1.2018 som fikk d) ble IKKE funnet på oppgitt side
 - OK   3 estimat=50 rad 127 (FI-vatt.10024_168803, andel av helt ledige 1.1.2018 som fikk d) står i sitatet
-- OK   2 sitat rad 128 (FI-vatt.10024_168803, effekt av redusert ytelse (aktiveringsmo) står på oppgitt side
-- OK   2 sitat rad 129 (FI-vatt.10024_172797, høyere ukentlig sannsynlighet for å forl) står på oppgitt side
+- FEIL 2 sitat rad 128 (FI-vatt.10024_168803, effekt av redusert ytelse (aktiveringsmo) ble IKKE funnet på oppgitt side
+- FEIL 2 sitat rad 129 (FI-vatt.10024_172797, høyere ukentlig sannsynlighet for å forl) ble IKKE funnet på oppgitt side
 - OK   3 estimat=15 rad 129 (FI-vatt.10024_172797, høyere ukentlig sannsynlighet for å forl) står i sitatet
-- OK   2 sitat rad 130 (FI-vatt.10024_172797, høyere ukentlig sannsynlighet for å komm) står på oppgitt side
+- FEIL 2 sitat rad 130 (FI-vatt.10024_172797, høyere ukentlig sannsynlighet for å komm) ble IKKE funnet på oppgitt side
 - OK   3 estimat=4 rad 130 (FI-vatt.10024_172797, høyere ukentlig sannsynlighet for å komm) står i sitatet
-- OK   2 sitat rad 131 (FI-vatt.10024_148751, ingen effekt på overgang til arbeid av p) står på oppgitt side
-- OK   2 sitat rad 132 (W3123479702, lavere andel i arbeid etter 12 måneder m) står på oppgitt side
+- FEIL 2 sitat rad 131 (FI-vatt.10024_148751, ingen effekt på overgang til arbeid av p) ble IKKE funnet på oppgitt side
+- FEIL 2 sitat rad 132 (W3123479702, lavere andel i arbeid etter 12 måneder m) ble IKKE funnet på oppgitt side
 - OK   3 estimat=8 rad 132 (W3123479702, lavere andel i arbeid etter 12 måneder m) står i sitatet
-- OK   2 sitat rad 133 (W3123479702, lavere andel i arbeid etter 12 måneder, ) står på oppgitt side
+- FEIL 2 sitat rad 133 (W3123479702, lavere andel i arbeid etter 12 måneder, ) ble IKKE funnet på oppgitt side
 - OK   3 estimat=13 rad 133 (W3123479702, lavere andel i arbeid etter 12 måneder, ) står i sitatet
-- OK   2 sitat rad 134 (W2155538850, elastisitet av forventet ledighetsvarigh) står på oppgitt side
+- FEIL 2 sitat rad 134 (W2155538850, elastisitet av forventet ledighetsvarigh) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.2 rad 134 (W2155538850, elastisitet av forventet ledighetsvarigh) står i sitatet
-- OK   2 sitat rad 135 (W2155538850, avgangen fra ledighet øker når dagpengep) står på oppgitt side
-- OK   2 sitat rad 136 (W2803335770, ingen nedgang i sysselsetting ved 38 pro) står på oppgitt side
-- OK   2 sitat rad 137 (W2156877177, lengre gjennomsnittlig ledighet, måneder) står på oppgitt side
+- FEIL 2 sitat rad 135 (W2155538850, avgangen fra ledighet øker når dagpengep) ble IKKE funnet på oppgitt side
+- FEIL 2 sitat rad 136 (W2803335770, ingen nedgang i sysselsetting ved 38 pro) ble IKKE funnet på oppgitt side
+- FEIL 2 sitat rad 137 (W2156877177, lengre gjennomsnittlig ledighet, måneder) ble IKKE funnet på oppgitt side
 - OK   3 estimat=1.8 rad 137 (W2156877177, lengre gjennomsnittlig ledighet, måneder) står i sitatet
-- OK   2 sitat rad 138 (W2156877177, høyere lønn i første jobb etter ledighet) står på oppgitt side
+- FEIL 2 sitat rad 138 (W2156877177, høyere lønn i første jobb etter ledighet) ble IKKE funnet på oppgitt side
 - OK   3 estimat=4.3 rad 138 (W2156877177, høyere lønn i første jobb etter ledighet) står i sitatet
-- OK   2 sitat rad 139 (W2156877177, økning i sannsynligheten for å få jobb i) står på oppgitt side
+- FEIL 2 sitat rad 139 (W2156877177, økning i sannsynligheten for å få jobb i) ble IKKE funnet på oppgitt side
 - OK   3 estimat=50 rad 139 (W2156877177, økning i sannsynligheten for å få jobb i) står i sitatet
-- OK   2 sitat rad 140 (W2156877177, lavere lønn i jobber som aksepteres de s) står på oppgitt side
+- FEIL 2 sitat rad 140 (W2156877177, lavere lønn i jobber som aksepteres de s) ble IKKE funnet på oppgitt side
 - OK   3 estimat=10 rad 140 (W2156877177, lavere lønn i jobber som aksepteres de s) står i sitatet
-- OK   2 sitat rad 141 (W3136597820, elastisitet av antall jobbsøknader med h) står på oppgitt side
+- FEIL 2 sitat rad 141 (W3136597820, elastisitet av antall jobbsøknader med h) ble IKKE funnet på oppgitt side
 - OK   3 estimat=-0.36 rad 141 (W3136597820, elastisitet av antall jobbsøknader med h) står i sitatet
-- OK   2 sitat rad 142 (W3136597820, økt stramhet (ledige stillinger per søkn) står på oppgitt side
+- FEIL 2 sitat rad 142 (W3136597820, økt stramhet (ledige stillinger per søkn) ble IKKE funnet på oppgitt side
 - OK   3 estimat=3.3 rad 142 (W3136597820, økt stramhet (ledige stillinger per søkn) står i sitatet
-- OK   2 sitat rad 143 (W3136597820, elastisitet av jobbsøknader med hensyn t) står på oppgitt side
+- FEIL 2 sitat rad 143 (W3136597820, elastisitet av jobbsøknader med hensyn t) ble IKKE funnet på oppgitt side
 - OK   3 estimat=-0.17 rad 143 (W3136597820, elastisitet av jobbsøknader med hensyn t) står i sitatet
-- OK   2 sitat rad 144 (W3179730804, elastisitet av jobbsøknader med hensyn t) står på oppgitt side
+- FEIL 2 sitat rad 144 (W3179730804, elastisitet av jobbsøknader med hensyn t) ble IKKE funnet på oppgitt side
 - OK   3 estimat=-0.36 rad 144 (W3179730804, elastisitet av jobbsøknader med hensyn t) står i sitatet
-- OK   2 sitat rad 145 (W3125345634, andel kvinner med netto kompensasjonsgra) står på oppgitt side
+- FEIL 2 sitat rad 145 (W3125345634, andel kvinner med netto kompensasjonsgra) ble IKKE funnet på oppgitt side
 - OK   3 estimat=12.2 rad 145 (W3125345634, andel kvinner med netto kompensasjonsgra) står i sitatet
-- OK   2 sitat rad 146 (W3125345634, ingen signifikant effekt av netto kompen) står på oppgitt side
-- OK   2 sitat rad 147 (W7214186622, økt kumulativ sysselsetting til 63 år, m) står på oppgitt side
+- FEIL 2 sitat rad 146 (W3125345634, ingen signifikant effekt av netto kompen) ble IKKE funnet på oppgitt side
+- FEIL 2 sitat rad 147 (W7214186622, økt kumulativ sysselsetting til 63 år, m) ble IKKE funnet på oppgitt side
 - OK   3 estimat=10 rad 147 (W7214186622, økt kumulativ sysselsetting til 63 år, m) står i sitatet
-- OK   2 sitat rad 148 (W7214186622, økt kumulativ sysselsetting, måneder, et) står på oppgitt side
+- FEIL 2 sitat rad 148 (W7214186622, økt kumulativ sysselsetting, måneder, et) ble IKKE funnet på oppgitt side
 - OK   3 estimat=3.2 rad 148 (W7214186622, økt kumulativ sysselsetting, måneder, et) står i sitatet
-- OK   2 sitat rad 149 (W7214186622, økt kumulativ sysselsetting, måneder, et) står på oppgitt side
+- FEIL 2 sitat rad 149 (W7214186622, økt kumulativ sysselsetting, måneder, et) ble IKKE funnet på oppgitt side
 - OK   3 estimat=2.7 rad 149 (W7214186622, økt kumulativ sysselsetting, måneder, et) står i sitatet
-- OK   2 sitat rad 150 (W1566578940, elastisitet av overgangsraten til arbeid) står på oppgitt side
+- FEIL 2 sitat rad 150 (W1566578940, elastisitet av overgangsraten til arbeid) ble IKKE funnet på oppgitt side
 - OK   3 estimat=-0.25 rad 150 (W1566578940, elastisitet av overgangsraten til arbeid) står i sitatet
-- OK   2 sitat rad 151 (W1566578940, elastisitet av overgangsraten til arbeid) står på oppgitt side
+- FEIL 2 sitat rad 151 (W1566578940, elastisitet av overgangsraten til arbeid) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.2 rad 151 (W1566578940, elastisitet av overgangsraten til arbeid) står i sitatet
-- OK   2 sitat rad 152 (W1566578940, økning i overgangsraten til arbeid rundt) står på oppgitt side
+- FEIL 2 sitat rad 152 (W1566578940, økning i overgangsraten til arbeid rundt) ble IKKE funnet på oppgitt side
 - OK   3 estimat=14 rad 152 (W1566578940, økning i overgangsraten til arbeid rundt) står i sitatet
-- OK   2 sitat rad 153 (W4409541748, økning i jobbfinningsraten etter uventet) står på oppgitt side
+- FEIL 2 sitat rad 153 (W4409541748, økning i jobbfinningsraten etter uventet) ble IKKE funnet på oppgitt side
 - OK   3 estimat=10.5 rad 153 (W4409541748, økning i jobbfinningsraten etter uventet) står i sitatet
-- OK   2 sitat rad 154 (W4409541748, økt søkeinnsats etter kuttet i maksimal ) står på oppgitt side
+- FEIL 2 sitat rad 154 (W4409541748, økt søkeinnsats etter kuttet i maksimal ) ble IKKE funnet på oppgitt side
 - OK   3 estimat=4.7 rad 154 (W4409541748, økt søkeinnsats etter kuttet i maksimal ) står i sitatet
-- OK   2 sitat rad 155 (W4409541748, økt stramhet i arbeidsmarkedet etter kut) står på oppgitt side
+- FEIL 2 sitat rad 155 (W4409541748, økt stramhet i arbeidsmarkedet etter kut) ble IKKE funnet på oppgitt side
 - OK   3 estimat=23 rad 155 (W4409541748, økt stramhet i arbeidsmarkedet etter kut) står i sitatet
-- OK   2 sitat rad 156 (W3123613249, lavere ledighetsrate i 2011 uten forleng) står på oppgitt side
+- FEIL 2 sitat rad 156 (W3123613249, lavere ledighetsrate i 2011 uten forleng) ble IKKE funnet på oppgitt side
 - OK   3 estimat=2.15 rad 156 (W3123613249, lavere ledighetsrate i 2011 uten forleng) står i sitatet
-- OK   2 sitat rad 157 (W3123613249, lavere sysselsetting i 2010:Q4 på grunn ) står på oppgitt side
+- FEIL 2 sitat rad 157 (W3123613249, lavere sysselsetting i 2010:Q4 på grunn ) ble IKKE funnet på oppgitt side
 - OK   3 estimat=2.69 rad 157 (W3123613249, lavere sysselsetting i 2010:Q4 på grunn ) står i sitatet
 - OK   2 sitat rad 159 (W3121246414, økt overgangsrate til arbeid etter kutt ) står på oppgitt side
 - OK   3 estimat=10 rad 159 (W3121246414, økt overgangsrate til arbeid etter kutt ) står i sitatet
@@ -1152,27 +1153,27 @@ Kjørt 2026-11-10.
 - OK   2 sitat rad 163 (W1524684605, lavere lønn og oftere deltid og lavere y) står på oppgitt side
 - OK   2 sitat rad 164 (W3121810429, høyere dagpenger gir lavere avgang fra l) står på oppgitt side
 - OK   2 sitat rad 165 (W3121810429, avgangen fra ledighet øker kraftig de si) står på oppgitt side
-- OK   2 sitat rad 167 (W4312802047, andel ledige med feil oppfatning av egen) står på oppgitt side
+- FEIL 2 sitat rad 167 (W4312802047, andel ledige med feil oppfatning av egen) ble IKKE funnet på oppgitt side
 - OK   3 estimat=40 rad 167 (W4312802047, andel ledige med feil oppfatning av egen) står i sitatet
-- OK   2 sitat rad 168 (W4312802047, ledige i mer enn ett år (høy risiko for ) står på oppgitt side
+- FEIL 2 sitat rad 168 (W4312802047, ledige i mer enn ett år (høy risiko for ) ble IKKE funnet på oppgitt side
 - OK   3 estimat=2.3 rad 168 (W4312802047, ledige i mer enn ett år (høy risiko for ) står i sitatet
-- OK   2 sitat rad 169 (W4312802047, ledige under seks måneder med lav risiko) står på oppgitt side
+- FEIL 2 sitat rad 169 (W4312802047, ledige under seks måneder med lav risiko) ble IKKE funnet på oppgitt side
 - OK   3 estimat=1.6 rad 169 (W4312802047, ledige under seks måneder med lav risiko) står i sitatet
-- OK   2 sitat rad 170 (W2101074211, kvinner: overgang fra ledighet til arbei) står på oppgitt side
+- FEIL 2 sitat rad 170 (W2101074211, kvinner: overgang fra ledighet til arbei) ble IKKE funnet på oppgitt side
 - OK   3 estimat=-0.4 rad 170 (W2101074211, kvinner: overgang fra ledighet til arbei) står i sitatet
-- OK   2 sitat rad 171 (AV-2023-3-01, andel dagpengemottakere med avkortning o) står på oppgitt side
+- FEIL 2 sitat rad 171 (AV-2023-3-01, andel dagpengemottakere med avkortning o) ble IKKE funnet på oppgitt side
 - OK   3 estimat=26 rad 171 (AV-2023-3-01, andel dagpengemottakere med avkortning o) står i sitatet
-- OK   2 sitat rad 172 (AV-2023-3-01, andel dagpengemottakere som jobber slik ) står på oppgitt side
+- FEIL 2 sitat rad 172 (AV-2023-3-01, andel dagpengemottakere som jobber slik ) ble IKKE funnet på oppgitt side
 - OK   3 estimat=14 rad 172 (AV-2023-3-01, andel dagpengemottakere som jobber slik ) står i sitatet
-- OK   2 sitat rad 173 (AV-2007-2-03, andel registrerte ledige som mottar dagp) står på oppgitt side
+- FEIL 2 sitat rad 173 (AV-2007-2-03, andel registrerte ledige som mottar dagp) ble IKKE funnet på oppgitt side
 - OK   3 estimat=48 rad 173 (AV-2007-2-03, andel registrerte ledige som mottar dagp) står i sitatet
-- OK   2 sitat rad 174 (AV-2007-2-03, reduksjon i antall helt ledige dagpengem) står på oppgitt side
+- FEIL 2 sitat rad 174 (AV-2007-2-03, reduksjon i antall helt ledige dagpengem) ble IKKE funnet på oppgitt side
 - OK   3 estimat=3000 rad 174 (AV-2007-2-03, reduksjon i antall helt ledige dagpengem) står i sitatet
-- OK   2 sitat rad 175 (AV-2007-2-03, andel helt ledige med dagpenger i 2006 u) står på oppgitt side
+- FEIL 2 sitat rad 175 (AV-2007-2-03, andel helt ledige med dagpenger i 2006 u) ble IKKE funnet på oppgitt side
 - OK   3 estimat=53 rad 175 (AV-2007-2-03, andel helt ledige med dagpenger i 2006 u) står i sitatet
-- OK   2 sitat rad 176 (W3123883966, optimalt dagpengenivå i søke- og matchin) står på oppgitt side
+- FEIL 2 sitat rad 176 (W3123883966, optimalt dagpengenivå i søke- og matchin) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.587 rad 176 (W3123883966, optimalt dagpengenivå i søke- og matchin) står i sitatet
-- OK   2 sitat rad 177 (W3123883966, brutto ledighet ved lengre dagpengeperio) står på oppgitt side
+- FEIL 2 sitat rad 177 (W3123883966, brutto ledighet ved lengre dagpengeperio) ble IKKE funnet på oppgitt side
 - OK   2 sitat rad 178 (W2001903400, sykmeldinger blant ledige når dagpengepe) står på oppgitt side
 - OK   2 sitat rad 179 (W2093979647, gjennomsnittlig varighet i jobb (uker) b) står på oppgitt side
 - OK   3 estimat=2.3 rad 179 (W2093979647, gjennomsnittlig varighet i jobb (uker) b) står i sitatet
@@ -1187,37 +1188,37 @@ Kjørt 2026-11-10.
 - OK   3 estimat=0.014 rad 186 (W3157909980, varighet i jobb før oppsigelse (innstrøm) står i sitatet
 - OK   2 sitat rad 187 (W3157909980, andel oppsigelser i 8 uker før grensen s) står på oppgitt side
 - OK   3 estimat=10 rad 187 (W3157909980, andel oppsigelser i 8 uker før grensen s) står i sitatet
-- OK   2 sitat rad 212 (W2138836438, elastisitet for ledighetsvarighet mht. d) står på oppgitt side
+- FEIL 2 sitat rad 212 (W2138836438, elastisitet for ledighetsvarighet mht. d) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.5 rad 212 (W2138836438, elastisitet for ledighetsvarighet mht. d) står i sitatet
-- OK   2 sitat rad 213 (W2138836438, elastisitet for tapt arbeidstid (både ti) står på oppgitt side
+- FEIL 2 sitat rad 213 (W2138836438, elastisitet for tapt arbeidstid (både ti) ble IKKE funnet på oppgitt side
 - OK   3 estimat=1.0 rad 213 (W2138836438, elastisitet for tapt arbeidstid (både ti) står i sitatet
-- OK   2 sitat rad 214 (W2138836438, elastisitet for varighet mht. maksimal p) står på oppgitt side
-- OK   2 sitat rad 215 (W860717682, kortere ersättningstid (dager) for perso) står på oppgitt side
+- FEIL 2 sitat rad 214 (W2138836438, elastisitet for varighet mht. maksimal p) ble IKKE funnet på oppgitt side
+- FEIL 2 sitat rad 215 (W860717682, kortere ersättningstid (dager) for perso) ble IKKE funnet på oppgitt side
 - OK   3 estimat=9.34 rad 215 (W860717682, kortere ersättningstid (dager) for perso) står i sitatet
-- OK   2 sitat rad 216 (W803382566, lønn før skatt (semielastisitet), nedre ) står på oppgitt side
+- FEIL 2 sitat rad 216 (W803382566, lønn før skatt (semielastisitet), nedre ) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.2 rad 216 (W803382566, lønn før skatt (semielastisitet), nedre ) står i sitatet
-- OK   2 sitat rad 217 (W803382566, lønn (elastisitet), nedre grense i spenn) står på oppgitt side
+- FEIL 2 sitat rad 217 (W803382566, lønn (elastisitet), nedre grense i spenn) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.12 rad 217 (W803382566, lønn (elastisitet), nedre grense i spenn) står i sitatet
-- OK   2 sitat rad 218 (W3084713950, lengre forventet ledighetsvarighet (uker) står på oppgitt side
+- FEIL 2 sitat rad 218 (W3084713950, lengre forventet ledighetsvarighet (uker) ble IKKE funnet på oppgitt side
 - OK   3 estimat=2.3 rad 218 (W3084713950, lengre forventet ledighetsvarighet (uker) står i sitatet
-- OK   2 sitat rad 219 (W3084713950, elastisitet for ledighetsvarighet mht. k) står på oppgitt side
+- FEIL 2 sitat rad 219 (W3084713950, elastisitet for ledighetsvarighet mht. k) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.15 rad 219 (W3084713950, elastisitet for ledighetsvarighet mht. k) står i sitatet
-- OK   2 sitat rad 220 (W3084713950, lengre forventet ledighetsvarighet (uker) står på oppgitt side
+- FEIL 2 sitat rad 220 (W3084713950, lengre forventet ledighetsvarighet (uker) ble IKKE funnet på oppgitt side
 - OK   3 estimat=5.7 rad 220 (W3084713950, lengre forventet ledighetsvarighet (uker) står i sitatet
-- OK   2 sitat rad 221 (W4403255343, elastisitet for faktisk ledighetsvarighe) står på oppgitt side
+- FEIL 2 sitat rad 221 (W4403255343, elastisitet for faktisk ledighetsvarighe) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.6 rad 221 (W4403255343, elastisitet for faktisk ledighetsvarighe) står i sitatet
-- OK   2 sitat rad 222 (W4403255343, økt sannsynlighet for å starte bedrift a) står på oppgitt side
+- FEIL 2 sitat rad 222 (W4403255343, økt sannsynlighet for å starte bedrift a) ble IKKE funnet på oppgitt side
 - OK   3 estimat=2 rad 222 (W4403255343, økt sannsynlighet for å starte bedrift a) står i sitatet
-- OK   2 sitat rad 223 (W2890402555, økt tid uten arbeid (måneder) per måned ) står på oppgitt side
+- FEIL 2 sitat rad 223 (W2890402555, økt tid uten arbeid (måneder) per måned ) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.13 rad 223 (W2890402555, økt tid uten arbeid (måneder) per måned ) står i sitatet
-- OK   2 sitat rad 224 (W2890402555, økt tid uten arbeid (måneder), ledige ve) står på oppgitt side
+- FEIL 2 sitat rad 224 (W2890402555, økt tid uten arbeid (måneder), ledige ve) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.78 rad 224 (W2890402555, økt tid uten arbeid (måneder), ledige ve) står i sitatet
-- OK   2 sitat rad 225 (W2890402555, elastisitet for tid uten arbeid mht. mak) står på oppgitt side
+- FEIL 2 sitat rad 225 (W2890402555, elastisitet for tid uten arbeid mht. mak) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.12 rad 225 (W2890402555, elastisitet for tid uten arbeid mht. mak) står i sitatet
-- OK   2 sitat rad 226 (W2890402555, effekten på tid uten arbeid er stabil ov) står på oppgitt side
-- OK   2 sitat rad 227 (W1563984614, økt antall dager uten arbeid over fem år) står på oppgitt side
+- FEIL 2 sitat rad 226 (W2890402555, effekten på tid uten arbeid er stabil ov) ble IKKE funnet på oppgitt side
+- FEIL 2 sitat rad 227 (W1563984614, økt antall dager uten arbeid over fem år) ble IKKE funnet på oppgitt side
 - OK   3 estimat=28.1 rad 227 (W1563984614, økt antall dager uten arbeid over fem år) står i sitatet
-- OK   2 sitat rad 228 (W1563984614, reduksjon i effekten på dager uten arbei) står på oppgitt side
+- FEIL 2 sitat rad 228 (W1563984614, reduksjon i effekten på dager uten arbei) ble IKKE funnet på oppgitt side
 - OK   3 estimat=26 rad 228 (W1563984614, reduksjon i effekten på dager uten arbei) står i sitatet
 - OK   2 sitat rad 230 (W3121146582, elastisitet for tid uten arbeid mht. dag) står på oppgitt side
 - OK   3 estimat=1.5 rad 230 (W3121146582, elastisitet for tid uten arbeid mht. dag) står i sitatet
@@ -1235,552 +1236,552 @@ Kjørt 2026-11-10.
 - OK   2 sitat rad 237 (W2141589424, kompensasjonsgrad henger sammen med søke) står på oppgitt side
 - OK   2 sitat rad 238 (W2050680752, jobbsannsynlighet henger sammen med kval) står på oppgitt side
 - OK   2 sitat rad 239 (W1994620841, økt avgang til arbeid før obligatorisk t) står på oppgitt side
-- OK   2 sitat rad 240 (W3161696407, ledighetsvarighet (måneder) per måned ko) står på oppgitt side
+- FEIL 2 sitat rad 240 (W3161696407, ledighetsvarighet (måneder) per måned ko) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.4 rad 240 (W3161696407, ledighetsvarighet (måneder) per måned ko) står i sitatet
-- OK   2 sitat rad 241 (W3161696407, andel i jobb innen 9 måneder) står på oppgitt side
+- FEIL 2 sitat rad 241 (W3161696407, andel i jobb innen 9 måneder) ble IKKE funnet på oppgitt side
 - OK   3 estimat=6 rad 241 (W3161696407, andel i jobb innen 9 måneder) står i sitatet
-- OK   2 sitat rad 242 (W2402272161, avgang til arbeid rundt utløp av periode) står på oppgitt side
-- OK   2 sitat rad 243 (W825815562, marginal effekt av maksimal periode på i) står på oppgitt side
+- FEIL 2 sitat rad 242 (W2402272161, avgang til arbeid rundt utløp av periode) ble IKKE funnet på oppgitt side
+- FEIL 2 sitat rad 243 (W825815562, marginal effekt av maksimal periode på i) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.3 rad 243 (W825815562, marginal effekt av maksimal periode på i) står i sitatet
-- OK   2 sitat rad 244 (W825815562, ikke-sysselsettingsvarighet (dager) per ) står på oppgitt side
+- FEIL 2 sitat rad 244 (W825815562, ikke-sysselsettingsvarighet (dager) per ) ble IKKE funnet på oppgitt side
 - OK   3 estimat=10 rad 244 (W825815562, ikke-sysselsettingsvarighet (dager) per ) står i sitatet
-- OK   2 sitat rad 245 (W825815562, andel som mottar dagpenger i uke 20 (gru) står på oppgitt side
+- FEIL 2 sitat rad 245 (W825815562, andel som mottar dagpenger i uke 20 (gru) ble IKKE funnet på oppgitt side
 - OK   3 estimat=12 rad 245 (W825815562, andel som mottar dagpenger i uke 20 (gru) står i sitatet
-- OK   2 sitat rad 246 (W825815562, ledighetsrate i delstaten (makroeffekt, ) står på oppgitt side
+- FEIL 2 sitat rad 246 (W825815562, ledighetsrate i delstaten (makroeffekt, ) ble IKKE funnet på oppgitt side
 - OK   3 estimat=1 rad 246 (W825815562, ledighetsrate i delstaten (makroeffekt, ) står i sitatet
-- OK   2 sitat rad 247 (W2116604021, elastisitet av dagpengevarighet mht. uke) står på oppgitt side
+- FEIL 2 sitat rad 247 (W2116604021, elastisitet av dagpengevarighet mht. uke) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.35 rad 247 (W2116604021, elastisitet av dagpengevarighet mht. uke) står i sitatet
-- OK   2 sitat rad 248 (W2116604021, elastisitet av dagpengevarighet mht. dag) står på oppgitt side
+- FEIL 2 sitat rad 248 (W2116604021, elastisitet av dagpengevarighet mht. dag) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.65 rad 248 (W2116604021, elastisitet av dagpengevarighet mht. dag) står i sitatet
-- OK   2 sitat rad 249 (W1542968660, elastisitet av dagpengevarighet mht. dag) står på oppgitt side
+- FEIL 2 sitat rad 249 (W1542968660, elastisitet av dagpengevarighet mht. dag) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.3 rad 249 (W1542968660, elastisitet av dagpengevarighet mht. dag) står i sitatet
-- OK   2 sitat rad 250 (W1542968660, elastisitet av total varighet mht. dagpe) står på oppgitt side
+- FEIL 2 sitat rad 250 (W1542968660, elastisitet av total varighet mht. dagpe) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.36 rad 250 (W1542968660, elastisitet av total varighet mht. dagpe) står i sitatet
-- OK   2 sitat rad 251 (W1542968660, elastisitet av total varighet mht. dagpe) står på oppgitt side
+- FEIL 2 sitat rad 251 (W1542968660, elastisitet av total varighet mht. dagpe) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.30 rad 251 (W1542968660, elastisitet av total varighet mht. dagpe) står i sitatet
-- OK   2 sitat rad 252 (W2346905068, ledighetsrate ved permanent forlengelse ) står på oppgitt side
+- FEIL 2 sitat rad 252 (W2346905068, ledighetsrate ved permanent forlengelse ) ble IKKE funnet på oppgitt side
 - OK   3 estimat=5.5 rad 252 (W2346905068, ledighetsrate ved permanent forlengelse ) står i sitatet
-- OK   2 sitat rad 253 (W3133978695, ledighetsrate ved permanent forlengelse ) står på oppgitt side
+- FEIL 2 sitat rad 253 (W3133978695, ledighetsrate ved permanent forlengelse ) ble IKKE funnet på oppgitt side
 - OK   3 estimat=6.1 rad 253 (W3133978695, ledighetsrate ved permanent forlengelse ) står i sitatet
-- OK   2 sitat rad 254 (W3123640418, jobbkvalitet etter ledighet (kontrakttyp) står på oppgitt side
-- OK   2 sitat rad 255 (W3123640418, lønn i ny jobb, kvinner (prosent høyere)) står på oppgitt side
+- FEIL 2 sitat rad 254 (W3123640418, jobbkvalitet etter ledighet (kontrakttyp) ble IKKE funnet på oppgitt side
+- FEIL 2 sitat rad 255 (W3123640418, lønn i ny jobb, kvinner (prosent høyere)) ble IKKE funnet på oppgitt side
 - OK   3 estimat=5 rad 255 (W3123640418, lønn i ny jobb, kvinner (prosent høyere)) står i sitatet
-- OK   2 sitat rad 256 (W2607337089, sysselsettingsandel i befolkningen (OLS,) står på oppgitt side
+- FEIL 2 sitat rad 256 (W2607337089, sysselsettingsandel i befolkningen (OLS,) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.21 rad 256 (W2607337089, sysselsettingsandel i befolkningen (OLS,) står i sitatet
-- OK   2 sitat rad 257 (W2607337089, sysselsettingsandel i befolkningen, IV f) står på oppgitt side
+- FEIL 2 sitat rad 257 (W2607337089, sysselsettingsandel i befolkningen, IV f) ble IKKE funnet på oppgitt side
 - OK   3 estimat=-0.18 rad 257 (W2607337089, sysselsettingsandel i befolkningen, IV f) står i sitatet
-- OK   2 sitat rad 258 (W1896297227, ikke-sysselsettingsvarighet (måneder), a) står på oppgitt side
+- FEIL 2 sitat rad 258 (W1896297227, ikke-sysselsettingsvarighet (måneder), a) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.8 rad 258 (W1896297227, ikke-sysselsettingsvarighet (måneder), a) står i sitatet
-- OK   2 sitat rad 259 (W1896297227, elastisitet av ikke-sysselsettingsvarigh) står på oppgitt side
+- FEIL 2 sitat rad 259 (W1896297227, elastisitet av ikke-sysselsettingsvarigh) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.14 rad 259 (W1896297227, elastisitet av ikke-sysselsettingsvarigh) står i sitatet
-- OK   2 sitat rad 260 (W1896297227, lønn, lønnsvekst og langsiktig sysselset) står på oppgitt side
-- OK   2 sitat rad 261 (W2783723866, ledighetsvarighet (prosent lengre, om la) står på oppgitt side
+- FEIL 2 sitat rad 260 (W1896297227, lønn, lønnsvekst og langsiktig sysselset) ble IKKE funnet på oppgitt side
+- FEIL 2 sitat rad 261 (W2783723866, ledighetsvarighet (prosent lengre, om la) ble IKKE funnet på oppgitt side
 - OK   3 estimat=3.1 rad 261 (W2783723866, ledighetsvarighet (prosent lengre, om la) står i sitatet
-- OK   2 sitat rad 262 (W2783723866, sysselsetting og inntekt etter ledighet:) står på oppgitt side
-- OK   2 sitat rad 263 (W2783723866, elastisitet av ledighetsvarighet mht. da) står på oppgitt side
+- FEIL 2 sitat rad 262 (W2783723866, sysselsetting og inntekt etter ledighet:) ble IKKE funnet på oppgitt side
+- FEIL 2 sitat rad 263 (W2783723866, elastisitet av ledighetsvarighet mht. da) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.95 rad 263 (W2783723866, elastisitet av ledighetsvarighet mht. da) står i sitatet
-- OK   2 sitat rad 264 (W2783723866, avgang til jobb (prosent økning); gjengi) står på oppgitt side
+- FEIL 2 sitat rad 264 (W2783723866, avgang til jobb (prosent økning); gjengi) ble IKKE funnet på oppgitt side
 - OK   3 estimat=10 rad 264 (W2783723866, avgang til jobb (prosent økning); gjengi) står i sitatet
-- OK   2 sitat rad 265 (W4229452285, dager i arbeid per år per måned kortere ) står på oppgitt side
+- FEIL 2 sitat rad 265 (W4229452285, dager i arbeid per år per måned kortere ) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.8 rad 265 (W4229452285, dager i arbeid per år per måned kortere ) står i sitatet
-- OK   2 sitat rad 266 (W4401566784, sysselsetting 12–18 måneder etter start,) står på oppgitt side
+- FEIL 2 sitat rad 266 (W4401566784, sysselsetting 12–18 måneder etter start,) ble IKKE funnet på oppgitt side
 - OK   3 estimat=10.1 rad 266 (W4401566784, sysselsetting 12–18 måneder etter start,) står i sitatet
-- OK   2 sitat rad 267 (W4401566784, sysselsetting 12–18 måneder etter start,) står på oppgitt side
+- FEIL 2 sitat rad 267 (W4401566784, sysselsetting 12–18 måneder etter start,) ble IKKE funnet på oppgitt side
 - OK   3 estimat=8.7 rad 267 (W4401566784, sysselsetting 12–18 måneder etter start,) står i sitatet
-- OK   2 sitat rad 268 (W3123361467, ledighetsvarighet for mottakere (dager),) står på oppgitt side
+- FEIL 2 sitat rad 268 (W3123361467, ledighetsvarighet for mottakere (dager),) ble IKKE funnet på oppgitt side
 - OK   3 estimat=48 rad 268 (W3123361467, ledighetsvarighet for mottakere (dager),) står i sitatet
-- OK   2 sitat rad 269 (W3123361467, ledighetsvarighet for mottakere (dager),) står på oppgitt side
+- FEIL 2 sitat rad 269 (W3123361467, ledighetsvarighet for mottakere (dager),) ble IKKE funnet på oppgitt side
 - OK   3 estimat=76 rad 269 (W3123361467, ledighetsvarighet for mottakere (dager),) står i sitatet
-- OK   2 sitat rad 270 (W3123361467, ledighetsvarighet for mottakere (dager),) står på oppgitt side
+- FEIL 2 sitat rad 270 (W3123361467, ledighetsvarighet for mottakere (dager),) ble IKKE funnet på oppgitt side
 - OK   3 estimat=115 rad 270 (W3123361467, ledighetsvarighet for mottakere (dager),) står i sitatet
-- OK   2 sitat rad 271 (W4408144220, overgang fra ledighet til arbeid per mån) står på oppgitt side
+- FEIL 2 sitat rad 271 (W4408144220, overgang fra ledighet til arbeid per mån) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.164 rad 271 (W4408144220, overgang fra ledighet til arbeid per mån) står i sitatet
-- OK   2 sitat rad 272 (W4408144220, elastisitet av sysselsetting mht. dagpen) står på oppgitt side
+- FEIL 2 sitat rad 272 (W4408144220, elastisitet av sysselsetting mht. dagpen) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.17 rad 272 (W4408144220, elastisitet av sysselsetting mht. dagpen) står i sitatet
-- OK   2 sitat rad 273 (W1480269971, elastisitet av tid uten arbeid mht. dagp) står på oppgitt side
+- FEIL 2 sitat rad 273 (W1480269971, elastisitet av tid uten arbeid mht. dagp) ble IKKE funnet på oppgitt side
 - OK   3 estimat=1.5 rad 273 (W1480269971, elastisitet av tid uten arbeid mht. dagp) står i sitatet
-- OK   2 sitat rad 274 (W1480269971, elastisitet av tid uten arbeid mht. dagp) står på oppgitt side
+- FEIL 2 sitat rad 274 (W1480269971, elastisitet av tid uten arbeid mht. dagp) ble IKKE funnet på oppgitt side
 - OK   3 estimat=1.73 rad 274 (W1480269971, elastisitet av tid uten arbeid mht. dagp) står i sitatet
-- OK   2 sitat rad 275 (W3130251200, samlet sysselsetting (øvre grense for øk) står på oppgitt side
+- FEIL 2 sitat rad 275 (W3130251200, samlet sysselsetting (øvre grense for øk) ble IKKE funnet på oppgitt side
 - OK   3 estimat=1.3 rad 275 (W3130251200, samlet sysselsetting (øvre grense for øk) står i sitatet
-- OK   2 sitat rad 276 (W2154489365, sannsynlighet for å motta dagpenger (ned) står på oppgitt side
+- FEIL 2 sitat rad 276 (W2154489365, sannsynlighet for å motta dagpenger (ned) ble IKKE funnet på oppgitt side
 - OK   3 estimat=2 rad 276 (W2154489365, sannsynlighet for å motta dagpenger (ned) står i sitatet
-- OK   2 sitat rad 277 (W2515622539, antall jobbsøknader per uke, 50–54 år) står på oppgitt side
+- FEIL 2 sitat rad 277 (W2515622539, antall jobbsøknader per uke, 50–54 år) ble IKKE funnet på oppgitt side
 - OK   3 estimat=1.8 rad 277 (W2515622539, antall jobbsøknader per uke, 50–54 år) står i sitatet
-- OK   2 sitat rad 278 (W2515622539, kortsiktig sannsynlighet for jobb (IV-ef) står på oppgitt side
+- FEIL 2 sitat rad 278 (W2515622539, kortsiktig sannsynlighet for jobb (IV-ef) ble IKKE funnet på oppgitt side
 - OK   3 estimat=1.3 rad 278 (W2515622539, kortsiktig sannsynlighet for jobb (IV-ef) står i sitatet
-- OK   2 sitat rad 279 (W4404026661, permitterte (korttidsarbeid): andel fort) står på oppgitt side
+- FEIL 2 sitat rad 279 (W4404026661, permitterte (korttidsarbeid): andel fort) ble IKKE funnet på oppgitt side
 - OK   3 estimat=2.8 rad 279 (W4404026661, permitterte (korttidsarbeid): andel fort) står i sitatet
-- OK   2 sitat rad 280 (W4404026661, permitterte (korttidsarbeid): lønnsvekst) står på oppgitt side
+- FEIL 2 sitat rad 280 (W4404026661, permitterte (korttidsarbeid): lønnsvekst) ble IKKE funnet på oppgitt side
 - OK   3 estimat=5.9 rad 280 (W4404026661, permitterte (korttidsarbeid): lønnsvekst) står i sitatet
-- OK   2 sitat rad 281 (W3122571372, overgangsrate til jobb, eldre i utvalgte) står på oppgitt side
+- FEIL 2 sitat rad 281 (W3122571372, overgangsrate til jobb, eldre i utvalgte) ble IKKE funnet på oppgitt side
 - OK   3 estimat=17 rad 281 (W3122571372, overgangsrate til jobb, eldre i utvalgte) står i sitatet
-- OK   2 sitat rad 282 (W2559757846, dekket dagpengevarighet (dager, nedre gr) står på oppgitt side
+- FEIL 2 sitat rad 282 (W2559757846, dekket dagpengevarighet (dager, nedre gr) ble IKKE funnet på oppgitt side
 - OK   3 estimat=35.4 rad 282 (W2559757846, dekket dagpengevarighet (dager, nedre gr) står i sitatet
-- OK   2 sitat rad 283 (W3151320739, ikke-sysselsettingsvarighet (måneder) pe) står på oppgitt side
+- FEIL 2 sitat rad 283 (W3151320739, ikke-sysselsettingsvarighet (måneder) pe) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.15 rad 283 (W3151320739, ikke-sysselsettingsvarighet (måneder) pe) står i sitatet
-- OK   2 sitat rad 284 (W3151320739, log lønn i første jobb etter ledighet, a) står på oppgitt side
+- FEIL 2 sitat rad 284 (W3151320739, log lønn i første jobb etter ledighet, a) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.01 rad 284 (W3151320739, log lønn i første jobb etter ledighet, a) står i sitatet
-- OK   2 sitat rad 285 (W3151320739, lønn per måned lengre ikke-sysselsetting) står på oppgitt side
+- FEIL 2 sitat rad 285 (W3151320739, lønn per måned lengre ikke-sysselsetting) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.8 rad 285 (W3151320739, lønn per måned lengre ikke-sysselsetting) står i sitatet
-- OK   2 sitat rad 286 (W3125232205, avgangsrate til arbeid rundt utløp av pe) står på oppgitt side
+- FEIL 2 sitat rad 286 (W3125232205, avgangsrate til arbeid rundt utløp av pe) ble IKKE funnet på oppgitt side
 - OK   3 estimat=5 rad 286 (W3125232205, avgangsrate til arbeid rundt utløp av pe) står i sitatet
-- OK   2 sitat rad 287 (W3125232205, overgang til arbeid og jobbstabilitet, e) står på oppgitt side
-- OK   2 sitat rad 288 (W2978482230, avgangsrate til jobb, menn (sanksjoner o) står på oppgitt side
+- FEIL 2 sitat rad 287 (W3125232205, overgang til arbeid og jobbstabilitet, e) ble IKKE funnet på oppgitt side
+- FEIL 2 sitat rad 288 (W2978482230, avgangsrate til jobb, menn (sanksjoner o) ble IKKE funnet på oppgitt side
 - OK   3 estimat=11 rad 288 (W2978482230, avgangsrate til jobb, menn (sanksjoner o) står i sitatet
-- OK   2 sitat rad 289 (W2978482230, avgangsrate til jobb etter ilagt sanksjo) står på oppgitt side
+- FEIL 2 sitat rad 289 (W2978482230, avgangsrate til jobb etter ilagt sanksjo) ble IKKE funnet på oppgitt side
 - OK   3 estimat=29 rad 289 (W2978482230, avgangsrate til jobb etter ilagt sanksjo) står i sitatet
-- OK   2 sitat rad 290 (W4283216310, startlønn i nye jobber, lavere i delstat) står på oppgitt side
+- FEIL 2 sitat rad 290 (W4283216310, startlønn i nye jobber, lavere i delstat) ble IKKE funnet på oppgitt side
 - OK   3 estimat=1.8 rad 290 (W4283216310, startlønn i nye jobber, lavere i delstat) står i sitatet
-- OK   2 sitat rad 291 (W4283216310, sysselsettingsvekst i virksomheter, høye) står på oppgitt side
+- FEIL 2 sitat rad 291 (W4283216310, sysselsettingsvekst i virksomheter, høye) ble IKKE funnet på oppgitt side
 - OK   3 estimat=1.5 rad 291 (W4283216310, sysselsettingsvekst i virksomheter, høye) står i sitatet
-- OK   2 sitat rad 292 (W4249738964, andel unge nyutdannede (24 år) med minst) står på oppgitt side
+- FEIL 2 sitat rad 292 (W4249738964, andel unge nyutdannede (24 år) med minst) ble IKKE funnet på oppgitt side
 - OK   3 estimat=3.3 rad 292 (W4249738964, andel unge nyutdannede (24 år) med minst) står i sitatet
-- OK   2 sitat rad 293 (W4249738964, overgang til mer stabile jobber og sysse) står på oppgitt side
-- OK   2 sitat rad 294 (W3123331108, faktisk tid på dagpenger, uker (elastisi) står på oppgitt side
+- FEIL 2 sitat rad 293 (W4249738964, overgang til mer stabile jobber og sysse) ble IKKE funnet på oppgitt side
+- FEIL 2 sitat rad 294 (W3123331108, faktisk tid på dagpenger, uker (elastisi) ble IKKE funnet på oppgitt side
 - OK   3 estimat=2.5 rad 294 (W3123331108, faktisk tid på dagpenger, uker (elastisi) står i sitatet
-- OK   2 sitat rad 295 (W3123331108, ledighetsvarighet, uker: ca. 0.3–0.4 uke) står på oppgitt side
+- FEIL 2 sitat rad 295 (W3123331108, ledighetsvarighet, uker: ca. 0.3–0.4 uke) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.3 rad 295 (W3123331108, ledighetsvarighet, uker: ca. 0.3–0.4 uke) står i sitatet
-- OK   2 sitat rad 296 (W3125250071, månedlig innstrømning til ledighet fra a) står på oppgitt side
+- FEIL 2 sitat rad 296 (W3125250071, månedlig innstrømning til ledighet fra a) ble IKKE funnet på oppgitt side
 - OK   3 estimat=22.25 rad 296 (W3125250071, månedlig innstrømning til ledighet fra a) står i sitatet
-- OK   2 sitat rad 297 (W3125250071, innstrømning til ledighet i månedene før) står på oppgitt side
+- FEIL 2 sitat rad 297 (W3125250071, innstrømning til ledighet i månedene før) ble IKKE funnet på oppgitt side
 - OK   3 estimat=117 rad 297 (W3125250071, innstrømning til ledighet i månedene før) står i sitatet
-- OK   2 sitat rad 298 (W3121276228, relativ avgangsrate til arbeid, 44–48 år) står på oppgitt side
+- FEIL 2 sitat rad 298 (W3121276228, relativ avgangsrate til arbeid, 44–48 år) ble IKKE funnet på oppgitt side
 - OK   3 estimat=44 rad 298 (W3121276228, relativ avgangsrate til arbeid, 44–48 år) står i sitatet
-- OK   2 sitat rad 299 (W3121276228, avgang fra ledighet etter kutt i dagpeng) står på oppgitt side
-- OK   2 sitat rad 300 (W3123206326, lønn i ny jobb, høyere) står på oppgitt side
+- FEIL 2 sitat rad 299 (W3121276228, avgang fra ledighet etter kutt i dagpeng) ble IKKE funnet på oppgitt side
+- FEIL 2 sitat rad 300 (W3123206326, lønn i ny jobb, høyere) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.5 rad 300 (W3123206326, lønn i ny jobb, høyere) står i sitatet
-- OK   2 sitat rad 301 (W3123206326, sannsynlighet for å finne jobb innen 39 ) står på oppgitt side
+- FEIL 2 sitat rad 301 (W3123206326, sannsynlighet for å finne jobb innen 39 ) ble IKKE funnet på oppgitt side
 - OK   3 estimat=1.3 rad 301 (W3123206326, sannsynlighet for å finne jobb innen 39 ) står i sitatet
-- OK   2 sitat rad 302 (W3123206326, tid uten arbeid, to dager lengre (tallet) står på oppgitt side
+- FEIL 2 sitat rad 302 (W3123206326, tid uten arbeid, to dager lengre (tallet) ble IKKE funnet på oppgitt side
 - OK   3 estimat=2 rad 302 (W3123206326, tid uten arbeid, to dager lengre (tallet) står i sitatet
-- OK   2 sitat rad 303 (W4302318763, tid til neste jobb, elastisitet med hens) står på oppgitt side
+- FEIL 2 sitat rad 303 (W4302318763, tid til neste jobb, elastisitet med hens) ble IKKE funnet på oppgitt side
 - OK   3 estimat=2 rad 303 (W4302318763, tid til neste jobb, elastisitet med hens) står i sitatet
-- OK   2 sitat rad 304 (W4302318763, tid uten arbeid, elastisitet med hensyn ) står på oppgitt side
+- FEIL 2 sitat rad 304 (W4302318763, tid uten arbeid, elastisitet med hensyn ) ble IKKE funnet på oppgitt side
 - OK   3 estimat=1.4 rad 304 (W4302318763, tid uten arbeid, elastisitet med hensyn ) står i sitatet
-- OK   2 sitat rad 305 (W1929227788, avgangsrate til arbeid, elastisitet med ) står på oppgitt side
+- FEIL 2 sitat rad 305 (W1929227788, avgangsrate til arbeid, elastisitet med ) ble IKKE funnet på oppgitt side
 - OK   3 estimat=-0.2 rad 305 (W1929227788, avgangsrate til arbeid, elastisitet med ) står i sitatet
-- OK   2 sitat rad 306 (W1929227788, avgangsrate til arbeid siste 30 dager fø) står på oppgitt side
+- FEIL 2 sitat rad 306 (W1929227788, avgangsrate til arbeid siste 30 dager fø) ble IKKE funnet på oppgitt side
 - OK   3 estimat=53.1 rad 306 (W1929227788, avgangsrate til arbeid siste 30 dager fø) står i sitatet
-- OK   2 sitat rad 307 (W3121394313, reservasjonslønn, elastisitet med hensyn) står på oppgitt side
+- FEIL 2 sitat rad 307 (W3121394313, reservasjonslønn, elastisitet med hensyn) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.006 rad 307 (W3121394313, reservasjonslønn, elastisitet med hensyn) står i sitatet
-- OK   2 sitat rad 308 (W3121394313, faktisk tid på dagpenger, elastisitet me) står på oppgitt side
+- FEIL 2 sitat rad 308 (W3121394313, faktisk tid på dagpenger, elastisitet me) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.3 rad 308 (W3121394313, faktisk tid på dagpenger, elastisitet me) står i sitatet
-- OK   2 sitat rad 309 (W3125979033, dager i arbeid per år, flere, 45 år og e) står på oppgitt side
+- FEIL 2 sitat rad 309 (W3125979033, dager i arbeid per år, flere, 45 år og e) ble IKKE funnet på oppgitt side
 - OK   3 estimat=13.6 rad 309 (W3125979033, dager i arbeid per år, flere, 45 år og e) står i sitatet
-- OK   2 sitat rad 310 (W3125979033, dager på dagpenger (UB-1), færre, 45 år ) står på oppgitt side
+- FEIL 2 sitat rad 310 (W3125979033, dager på dagpenger (UB-1), færre, 45 år ) ble IKKE funnet på oppgitt side
 - OK   3 estimat=10.5 rad 310 (W3125979033, dager på dagpenger (UB-1), færre, 45 år ) står i sitatet
-- OK   2 sitat rad 311 (W3123125000, ledighetsvarighet, menn 50–53 år, uker l) står på oppgitt side
+- FEIL 2 sitat rad 311 (W3123125000, ledighetsvarighet, menn 50–53 år, uker l) ble IKKE funnet på oppgitt side
 - OK   3 estimat=14.8 rad 311 (W3123125000, ledighetsvarighet, menn 50–53 år, uker l) står i sitatet
-- OK   2 sitat rad 312 (W3123125000, ledighetsvarighet, kvinner 50 år og eldr) står på oppgitt side
+- FEIL 2 sitat rad 312 (W3123125000, ledighetsvarighet, kvinner 50 år og eldr) ble IKKE funnet på oppgitt side
 - OK   3 estimat=74.8 rad 312 (W3123125000, ledighetsvarighet, kvinner 50 år og eldr) står i sitatet
-- OK   2 sitat rad 313 (W4287769434, marginal effekt av maksimal periode på t) står på oppgitt side
+- FEIL 2 sitat rad 313 (W4287769434, marginal effekt av maksimal periode på t) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.25 rad 313 (W4287769434, marginal effekt av maksimal periode på t) står i sitatet
-- OK   2 sitat rad 314 (W4287769434, ledighetsrate i delstaten, nesten ett pr) står på oppgitt side
+- FEIL 2 sitat rad 314 (W4287769434, ledighetsrate i delstaten, nesten ett pr) ble IKKE funnet på oppgitt side
 - OK   3 estimat=1 rad 314 (W4287769434, ledighetsrate i delstaten, nesten ett pr) står i sitatet
-- OK   2 sitat rad 315 (W3123415870, ekstra uker uten arbeid ved forlenget pe) står på oppgitt side
+- FEIL 2 sitat rad 315 (W3123415870, ekstra uker uten arbeid ved forlenget pe) ble IKKE funnet på oppgitt side
 - OK   3 estimat=14 rad 315 (W3123415870, ekstra uker uten arbeid ved forlenget pe) står i sitatet
-- OK   2 sitat rad 316 (W3123415870, skjevhet i RDD-estimatet ved svært høy j) står på oppgitt side
+- FEIL 2 sitat rad 316 (W3123415870, skjevhet i RDD-estimatet ved svært høy j) ble IKKE funnet på oppgitt side
 - OK   3 estimat=1.1 rad 316 (W3123415870, skjevhet i RDD-estimatet ved svært høy j) står i sitatet
-- OK   2 sitat rad 317 (W2985217218, tid på dagpenger (8 uker) og uten arbeid) står på oppgitt side
+- FEIL 2 sitat rad 317 (W2985217218, tid på dagpenger (8 uker) og uten arbeid) ble IKKE funnet på oppgitt side
 - OK   3 estimat=6.2 rad 317 (W2985217218, tid på dagpenger (8 uker) og uten arbeid) står i sitatet
-- OK   2 sitat rad 318 (W2985217218, samlet tid uten arbeid over 4 år etter o) står på oppgitt side
+- FEIL 2 sitat rad 318 (W2985217218, samlet tid uten arbeid over 4 år etter o) ble IKKE funnet på oppgitt side
 - OK   3 estimat=2 rad 318 (W2985217218, samlet tid uten arbeid over 4 år etter o) står i sitatet
-- OK   2 sitat rad 319 (W2985217218, ekstra uker uten arbeid per ekstra uke m) står på oppgitt side
+- FEIL 2 sitat rad 319 (W2985217218, ekstra uker uten arbeid per ekstra uke m) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.354 rad 319 (W2985217218, ekstra uker uten arbeid per ekstra uke m) står i sitatet
 - OK   2 sitat rad 320 (W2283885892, ingen effekt på overgang til arbeid elle) står på oppgitt side
-- OK   2 sitat rad 321 (W1815243945, sysselsettingsrate 14 måneder etter bort) står på oppgitt side
+- FEIL 2 sitat rad 321 (W1815243945, sysselsettingsrate 14 måneder etter bort) ble IKKE funnet på oppgitt side
 - OK   3 estimat=25 rad 321 (W1815243945, sysselsettingsrate 14 måneder etter bort) står i sitatet
-- OK   2 sitat rad 322 (W4302789019, økning i avgangsrate til ny jobb når dag) står på oppgitt side
+- FEIL 2 sitat rad 322 (W4302789019, økning i avgangsrate til ny jobb når dag) ble IKKE funnet på oppgitt side
 - OK   3 estimat=20 rad 322 (W4302789019, økning i avgangsrate til ny jobb når dag) står i sitatet
-- OK   2 sitat rad 323 (W4302789019, økning i avgang fra registrert ledighet ) står på oppgitt side
+- FEIL 2 sitat rad 323 (W4302789019, økning i avgang fra registrert ledighet ) ble IKKE funnet på oppgitt side
 - OK   3 estimat=200 rad 323 (W4302789019, økning i avgang fra registrert ledighet ) står i sitatet
-- OK   2 sitat rad 324 (W4302789019, andel ledighetsperioder med sluttdato ti) står på oppgitt side
+- FEIL 2 sitat rad 324 (W4302789019, andel ledighetsperioder med sluttdato ti) ble IKKE funnet på oppgitt side
 - OK   3 estimat=1 rad 324 (W4302789019, andel ledighetsperioder med sluttdato ti) står i sitatet
-- OK   2 sitat rad 325 (W4323024375, ledighet blant dagpengemottakere under 5) står på oppgitt side
+- FEIL 2 sitat rad 325 (W4323024375, ledighet blant dagpengemottakere under 5) ble IKKE funnet på oppgitt side
 - OK   3 estimat=13 rad 325 (W4323024375, ledighet blant dagpengemottakere under 5) står i sitatet
-- OK   2 sitat rad 326 (W4323024375, elastisitet av ledighetsvarighet med hen) står på oppgitt side
+- FEIL 2 sitat rad 326 (W4323024375, elastisitet av ledighetsvarighet med hen) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.28 rad 326 (W4323024375, elastisitet av ledighetsvarighet med hen) står i sitatet
-- OK   2 sitat rad 327 (W4323024375, andel med ledighetsperiode på inntil 12 ) står på oppgitt side
+- FEIL 2 sitat rad 327 (W4323024375, andel med ledighetsperiode på inntil 12 ) ble IKKE funnet på oppgitt side
 - OK   3 estimat=16 rad 327 (W4323024375, andel med ledighetsperiode på inntil 12 ) står i sitatet
-- OK   2 sitat rad 328 (W4230853959, forventet ledighetsvarighet, lengre, ned) står på oppgitt side
+- FEIL 2 sitat rad 328 (W4230853959, forventet ledighetsvarighet, lengre, ned) ble IKKE funnet på oppgitt side
 - OK   3 estimat=7 rad 328 (W4230853959, forventet ledighetsvarighet, lengre, ned) står i sitatet
-- OK   2 sitat rad 329 (W4230853959, samlet ledighetsrate, høyere (effekten g) står på oppgitt side
+- FEIL 2 sitat rad 329 (W4230853959, samlet ledighetsrate, høyere (effekten g) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.4 rad 329 (W4230853959, samlet ledighetsrate, høyere (effekten g) står i sitatet
-- OK   2 sitat rad 330 (W3021330321, varighet på dagpenger ved 10 prosent høy) står på oppgitt side
+- FEIL 2 sitat rad 330 (W3021330321, varighet på dagpenger ved 10 prosent høy) ble IKKE funnet på oppgitt side
 - OK   3 estimat=3 rad 330 (W3021330321, varighet på dagpenger ved 10 prosent høy) står i sitatet
-- OK   2 sitat rad 331 (W3021330321, varighet på dagpenger per ekstra uke mak) står på oppgitt side
-- OK   2 sitat rad 332 (W3123587893, ledighetsvarighet for de som fikk forlen) står på oppgitt side
+- FEIL 2 sitat rad 331 (W3021330321, varighet på dagpenger per ekstra uke mak) ble IKKE funnet på oppgitt side
+- FEIL 2 sitat rad 332 (W3123587893, ledighetsvarighet for de som fikk forlen) ble IKKE funnet på oppgitt side
 - OK   3 estimat=40 rad 332 (W3123587893, ledighetsvarighet for de som fikk forlen) står i sitatet
-- OK   2 sitat rad 333 (W3123587893, tid uten arbeid for ledige uten rett til) står på oppgitt side
+- FEIL 2 sitat rad 333 (W3123587893, tid uten arbeid for ledige uten rett til) ble IKKE funnet på oppgitt side
 - OK   3 estimat=10 rad 333 (W3123587893, tid uten arbeid for ledige uten rett til) står i sitatet
-- OK   2 sitat rad 334 (W3123209104, sannsynlighet for varig utgang fra arbei) står på oppgitt side
+- FEIL 2 sitat rad 334 (W3123209104, sannsynlighet for varig utgang fra arbei) ble IKKE funnet på oppgitt side
 - OK   3 estimat=17 rad 334 (W3123209104, sannsynlighet for varig utgang fra arbei) står i sitatet
-- OK   2 sitat rad 335 (W3123209104, førtidig utgang fra arbeidslivet etter j) står på oppgitt side
+- FEIL 2 sitat rad 335 (W3123209104, førtidig utgang fra arbeidslivet etter j) ble IKKE funnet på oppgitt side
 - OK   3 estimat=10.8 rad 335 (W3123209104, førtidig utgang fra arbeidslivet etter j) står i sitatet
-- OK   2 sitat rad 336 (W1874684411, søknader om uføretrygd (SSDI) når dagpen) står på oppgitt side
+- FEIL 2 sitat rad 336 (W1874684411, søknader om uføretrygd (SSDI) når dagpen) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.005 rad 336 (W1874684411, søknader om uføretrygd (SSDI) når dagpen) står i sitatet
-- OK   2 sitat rad 337 (W3083474009, økning i faktisk ledighetsvarighet, ande) står på oppgitt side
+- FEIL 2 sitat rad 337 (W3083474009, økning i faktisk ledighetsvarighet, ande) ble IKKE funnet på oppgitt side
 - OK   3 estimat=20 rad 337 (W3083474009, økning i faktisk ledighetsvarighet, ande) står i sitatet
-- OK   2 sitat rad 338 (W3083474009, elastisitet av ledighetsvarighet med hen) står på oppgitt side
+- FEIL 2 sitat rad 338 (W3083474009, elastisitet av ledighetsvarighet med hen) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.4 rad 338 (W3083474009, elastisitet av ledighetsvarighet med hen) står i sitatet
-- OK   2 sitat rad 339 (W3121734636, yrkesdeltakelse, lavere tidlig i 2014 et) står på oppgitt side
+- FEIL 2 sitat rad 339 (W3121734636, yrkesdeltakelse, lavere tidlig i 2014 et) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.1 rad 339 (W3121734636, yrkesdeltakelse, lavere tidlig i 2014 et) står i sitatet
-- OK   2 sitat rad 340 (W3121734636, overgang til jobb: lite eller ingen effe) står på oppgitt side
-- OK   2 sitat rad 341 (W2613692828, reservasjonslønn (øvre grense for elasti) står på oppgitt side
+- FEIL 2 sitat rad 340 (W3121734636, overgang til jobb: lite eller ingen effe) ble IKKE funnet på oppgitt side
+- FEIL 2 sitat rad 341 (W2613692828, reservasjonslønn (øvre grense for elasti) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.006 rad 341 (W2613692828, reservasjonslønn (øvre grense for elasti) står i sitatet
-- OK   2 sitat rad 342 (W2613692828, faktisk varighet på dagpenger) står på oppgitt side
+- FEIL 2 sitat rad 342 (W2613692828, faktisk varighet på dagpenger) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.3 rad 342 (W2613692828, faktisk varighet på dagpenger) står i sitatet
-- OK   2 sitat rad 343 (W2613692828, reservasjonslønn, ledige med kortest tid) står på oppgitt side
+- FEIL 2 sitat rad 343 (W2613692828, reservasjonslønn, ledige med kortest tid) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.01 rad 343 (W2613692828, reservasjonslønn, ledige med kortest tid) står i sitatet
-- OK   2 sitat rad 344 (W3015169324, jobbsøknader de to første månedene, 50–5) står på oppgitt side
+- FEIL 2 sitat rad 344 (W3015169324, jobbsøknader de to første månedene, 50–5) ble IKKE funnet på oppgitt side
 - OK   3 estimat=10 rad 344 (W3015169324, jobbsøknader de to første månedene, 50–5) står i sitatet
-- OK   2 sitat rad 345 (W3015169324, sannsynlighet for ny jobb innen tre måne) står på oppgitt side
+- FEIL 2 sitat rad 345 (W3015169324, sannsynlighet for ny jobb innen tre måne) ble IKKE funnet på oppgitt side
 - OK   3 estimat=2 rad 345 (W3015169324, sannsynlighet for ny jobb innen tre måne) står i sitatet
-- OK   2 sitat rad 346 (W3015169324, varighet uten arbeid, 50–54 år) står på oppgitt side
+- FEIL 2 sitat rad 346 (W3015169324, varighet uten arbeid, 50–54 år) ble IKKE funnet på oppgitt side
 - OK   3 estimat=10 rad 346 (W3015169324, varighet uten arbeid, 50–54 år) står i sitatet
-- OK   2 sitat rad 347 (W3015169324, varighet på dagpenger, 50–54 år) står på oppgitt side
+- FEIL 2 sitat rad 347 (W3015169324, varighet på dagpenger, 50–54 år) ble IKKE funnet på oppgitt side
 - OK   3 estimat=22 rad 347 (W3015169324, varighet på dagpenger, 50–54 år) står i sitatet
-- OK   2 sitat rad 348 (W1997994385, jobbkvalitet (lønn og varighet i ny jobb) står på oppgitt side
-- OK   2 sitat rad 349 (W1997994385, varighet i ny jobb (gjengitt fra Centeno) står på oppgitt side
+- FEIL 2 sitat rad 348 (W1997994385, jobbkvalitet (lønn og varighet i ny jobb) ble IKKE funnet på oppgitt side
+- FEIL 2 sitat rad 349 (W1997994385, varighet i ny jobb (gjengitt fra Centeno) ble IKKE funnet på oppgitt side
 - OK   3 estimat=4 rad 349 (W1997994385, varighet i ny jobb (gjengitt fra Centeno) står i sitatet
-- OK   2 sitat rad 350 (W2088301275, ledighetsvarighet, økning i uker (gjengi) står på oppgitt side
+- FEIL 2 sitat rad 350 (W2088301275, ledighetsvarighet, økning i uker (gjengi) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.5 rad 350 (W2088301275, ledighetsvarighet, økning i uker (gjengi) står i sitatet
-- OK   2 sitat rad 351 (W2088301275, ledighetsvarighet i måneder per ekstra m) står på oppgitt side
+- FEIL 2 sitat rad 351 (W2088301275, ledighetsvarighet i måneder per ekstra m) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.1 rad 351 (W2088301275, ledighetsvarighet i måneder per ekstra m) står i sitatet
-- OK   2 sitat rad 352 (W2088301275, lønn og jobbmatch; ingen samlet effektes) står på oppgitt side
-- OK   2 sitat rad 353 (W2104905575, månedlig avgangsrate fra dagpengeledighe) står på oppgitt side
+- FEIL 2 sitat rad 352 (W2088301275, lønn og jobbmatch; ingen samlet effektes) ble IKKE funnet på oppgitt side
+- FEIL 2 sitat rad 353 (W2104905575, månedlig avgangsrate fra dagpengeledighe) ble IKKE funnet på oppgitt side
 - OK   3 estimat=39 rad 353 (W2104905575, månedlig avgangsrate fra dagpengeledighe) står i sitatet
-- OK   2 sitat rad 354 (W2104905575, sannsynlighet for å forlate dagpenger in) står på oppgitt side
+- FEIL 2 sitat rad 354 (W2104905575, sannsynlighet for å forlate dagpenger in) ble IKKE funnet på oppgitt side
 - OK   3 estimat=41 rad 354 (W2104905575, sannsynlighet for å forlate dagpenger in) står i sitatet
-- OK   2 sitat rad 355 (W2104905575, avgangsrate, laveste lønnskvartil (reduk) står på oppgitt side
+- FEIL 2 sitat rad 355 (W2104905575, avgangsrate, laveste lønnskvartil (reduk) ble IKKE funnet på oppgitt side
 - OK   3 estimat=26 rad 355 (W2104905575, avgangsrate, laveste lønnskvartil (reduk) står i sitatet
-- OK   2 sitat rad 356 (W1980852200, kvartalsvis rate for overgang til arbeid) står på oppgitt side
+- FEIL 2 sitat rad 356 (W1980852200, kvartalsvis rate for overgang til arbeid) ble IKKE funnet på oppgitt side
 - OK   3 estimat=53 rad 356 (W1980852200, kvartalsvis rate for overgang til arbeid) står i sitatet
-- OK   2 sitat rad 357 (W1980852200, kvartalsvis rate for overgang til arbeid) står på oppgitt side
+- FEIL 2 sitat rad 357 (W1980852200, kvartalsvis rate for overgang til arbeid) ble IKKE funnet på oppgitt side
 - OK   3 estimat=106 rad 357 (W1980852200, kvartalsvis rate for overgang til arbeid) står i sitatet
-- OK   2 sitat rad 358 (W2906550131, produktivitet hos sysselsatte kassemedar) står på oppgitt side
+- FEIL 2 sitat rad 358 (W2906550131, produktivitet hos sysselsatte kassemedar) ble IKKE funnet på oppgitt side
 - OK   3 estimat=2.4 rad 358 (W2906550131, produktivitet hos sysselsatte kassemedar) står i sitatet
-- OK   2 sitat rad 359 (W3122426411, månedlig rate for gjenansettelse, 4. kva) står på oppgitt side
+- FEIL 2 sitat rad 359 (W3122426411, månedlig rate for gjenansettelse, 4. kva) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.5 rad 359 (W3122426411, månedlig rate for gjenansettelse, 4. kva) står i sitatet
-- OK   2 sitat rad 360 (W3122426411, månedlig avgang fra ledighet, 4. kvartal) står på oppgitt side
+- FEIL 2 sitat rad 360 (W3122426411, månedlig avgang fra ledighet, 4. kvartal) ble IKKE funnet på oppgitt side
 - OK   3 estimat=1 rad 360 (W3122426411, månedlig avgang fra ledighet, 4. kvartal) står i sitatet
-- OK   2 sitat rad 361 (W3122426411, ledighetsraten desember 2010, bidrag fra) står på oppgitt side
+- FEIL 2 sitat rad 361 (W3122426411, ledighetsraten desember 2010, bidrag fra) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.2 rad 361 (W3122426411, ledighetsraten desember 2010, bidrag fra) står i sitatet
-- OK   2 sitat rad 362 (W2159655435, ledighetsvarighet, likviditetsbegrensede) står på oppgitt side
+- FEIL 2 sitat rad 362 (W2159655435, ledighetsvarighet, likviditetsbegrensede) ble IKKE funnet på oppgitt side
 - OK   3 estimat=7 rad 362 (W2159655435, ledighetsvarighet, likviditetsbegrensede) står i sitatet
-- OK   2 sitat rad 363 (W2159655435, andel av effekten av dagpengenivå på led) står på oppgitt side
+- FEIL 2 sitat rad 363 (W2159655435, andel av effekten av dagpengenivå på led) ble IKKE funnet på oppgitt side
 - OK   3 estimat=60 rad 363 (W2159655435, andel av effekten av dagpengenivå på led) står i sitatet
-- OK   2 sitat rad 364 (W4291754967, varighetselastisitet for ledighet, tille) står på oppgitt side
+- FEIL 2 sitat rad 364 (W4291754967, varighetselastisitet for ledighet, tille) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.06 rad 364 (W4291754967, varighetselastisitet for ledighet, tille) står i sitatet
-- OK   2 sitat rad 365 (W4291754967, varighetselastisitet for ledighet, tille) står på oppgitt side
+- FEIL 2 sitat rad 365 (W4291754967, varighetselastisitet for ledighet, tille) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.10 rad 365 (W4291754967, varighetselastisitet for ledighet, tille) står i sitatet
-- OK   2 sitat rad 366 (W2161950284, overgang til heltidsarbeid rundt utløp a) står på oppgitt side
-- OK   2 sitat rad 367 (W2161950284, avgang til andre tilstander enn heltidsa) står på oppgitt side
+- FEIL 2 sitat rad 366 (W2161950284, overgang til heltidsarbeid rundt utløp a) ble IKKE funnet på oppgitt side
+- FEIL 2 sitat rad 367 (W2161950284, avgang til andre tilstander enn heltidsa) ble IKKE funnet på oppgitt side
 - OK   3 estimat=38 rad 367 (W2161950284, avgang til andre tilstander enn heltidsa) står i sitatet
-- OK   2 sitat rad 368 (W2171402176, ledighetsraten 2010, bidrag fra forlenge) står på oppgitt side
+- FEIL 2 sitat rad 368 (W2171402176, ledighetsraten 2010, bidrag fra forlenge) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.77 rad 368 (W2171402176, ledighetsraten 2010, bidrag fra forlenge) står i sitatet
-- OK   2 sitat rad 369 (W2171402176, ledighetsraten per ekstra uke med forlen) står på oppgitt side
+- FEIL 2 sitat rad 369 (W2171402176, ledighetsraten per ekstra uke med forlen) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.025 rad 369 (W2171402176, ledighetsraten per ekstra uke med forlen) står i sitatet
-- OK   2 sitat rad 370 (W4391117040, varighet på dagpenger, oppgangsperiode 2) står på oppgitt side
+- FEIL 2 sitat rad 370 (W4391117040, varighet på dagpenger, oppgangsperiode 2) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.5 rad 370 (W4391117040, varighet på dagpenger, oppgangsperiode 2) står i sitatet
-- OK   2 sitat rad 371 (W4391117040, varighet på dagpenger, finanskrisen 2010) står på oppgitt side
+- FEIL 2 sitat rad 371 (W4391117040, varighet på dagpenger, finanskrisen 2010) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.78 rad 371 (W4391117040, varighet på dagpenger, finanskrisen 2010) står i sitatet
-- OK   2 sitat rad 372 (W4391117040, varighet uten arbeid, oppgangsperioder) står på oppgitt side
+- FEIL 2 sitat rad 372 (W4391117040, varighet uten arbeid, oppgangsperioder) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.2 rad 372 (W4391117040, varighet uten arbeid, oppgangsperioder) står i sitatet
-- OK   2 sitat rad 373 (W4391117040, varighet uten arbeid, finanskrisen) står på oppgitt side
+- FEIL 2 sitat rad 373 (W4391117040, varighet uten arbeid, finanskrisen) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.6 rad 373 (W4391117040, varighet uten arbeid, finanskrisen) står i sitatet
-- OK   2 sitat rad 374 (W3145840701, atferdsbetinget merkostnad (fiskal ekste) står på oppgitt side
+- FEIL 2 sitat rad 374 (W3145840701, atferdsbetinget merkostnad (fiskal ekste) ble IKKE funnet på oppgitt side
 - OK   3 estimat=27 rad 374 (W3145840701, atferdsbetinget merkostnad (fiskal ekste) står i sitatet
-- OK   2 sitat rad 375 (W3145840701, atferdsbetinget merkostnad per dollar ov) står på oppgitt side
+- FEIL 2 sitat rad 375 (W3145840701, atferdsbetinget merkostnad per dollar ov) ble IKKE funnet på oppgitt side
 - OK   3 estimat=53 rad 375 (W3145840701, atferdsbetinget merkostnad per dollar ov) står i sitatet
-- OK   2 sitat rad 376 (W2244210609, varighet i jobb for sysselsatte, lavtløn) står på oppgitt side
+- FEIL 2 sitat rad 376 (W2244210609, varighet i jobb for sysselsatte, lavtløn) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.3 rad 376 (W2244210609, varighet i jobb for sysselsatte, lavtløn) står i sitatet
-- OK   2 sitat rad 377 (W3123781533, samlet ledighetsvarighet (elastisitet) v) står på oppgitt side
+- FEIL 2 sitat rad 377 (W3123781533, samlet ledighetsvarighet (elastisitet) v) ble IKKE funnet på oppgitt side
 - OK   3 estimat=1.18 rad 377 (W3123781533, samlet ledighetsvarighet (elastisitet) v) står i sitatet
-- OK   2 sitat rad 378 (W3123781533, samlet ledighetsvarighet (elastisitet) v) står på oppgitt side
+- FEIL 2 sitat rad 378 (W3123781533, samlet ledighetsvarighet (elastisitet) v) ble IKKE funnet på oppgitt side
 - OK   3 estimat=1.76 rad 378 (W3123781533, samlet ledighetsvarighet (elastisitet) v) står i sitatet
-- OK   2 sitat rad 379 (W3123781533, andel av effekten av dagpengenivå på job) står på oppgitt side
+- FEIL 2 sitat rad 379 (W3123781533, andel av effekten av dagpengenivå på job) ble IKKE funnet på oppgitt side
 - OK   3 estimat=70 rad 379 (W3123781533, andel av effekten av dagpengenivå på job) står i sitatet
-- OK   2 sitat rad 380 (W3123781533, andel av effekten som skyldes likviditet) står på oppgitt side
+- FEIL 2 sitat rad 380 (W3123781533, andel av effekten som skyldes likviditet) ble IKKE funnet på oppgitt side
 - OK   3 estimat=75 rad 380 (W3123781533, andel av effekten som skyldes likviditet) står i sitatet
-- OK   2 sitat rad 381 (W2730149483, ledighetsraten 2007–2011, samlet effekt ) står på oppgitt side
+- FEIL 2 sitat rad 381 (W2730149483, ledighetsraten 2007–2011, samlet effekt ) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.25 rad 381 (W2730149483, ledighetsraten 2007–2011, samlet effekt ) står i sitatet
-- OK   2 sitat rad 382 (W2730149483, yrkesdeltakelse; ingen effekt funnet) står på oppgitt side
-- OK   2 sitat rad 383 (W3121176259, forventet ledighetsvarighet 2009–2011 (ø) står på oppgitt side
+- FEIL 2 sitat rad 382 (W2730149483, yrkesdeltakelse; ingen effekt funnet) ble IKKE funnet på oppgitt side
+- FEIL 2 sitat rad 383 (W3121176259, forventet ledighetsvarighet 2009–2011 (ø) ble IKKE funnet på oppgitt side
 - OK   3 estimat=7 rad 383 (W3121176259, forventet ledighetsvarighet 2009–2011 (ø) står i sitatet
-- OK   2 sitat rad 384 (W3121176259, forventet ledighetsvarighet 2002–2004 (ø) står på oppgitt side
+- FEIL 2 sitat rad 384 (W3121176259, forventet ledighetsvarighet 2002–2004 (ø) ble IKKE funnet på oppgitt side
 - OK   3 estimat=4 rad 384 (W3121176259, forventet ledighetsvarighet 2002–2004 (ø) står i sitatet
-- OK   2 sitat rad 385 (W3121176259, forventet tid til overgang til arbeid (ø) står på oppgitt side
+- FEIL 2 sitat rad 385 (W3121176259, forventet tid til overgang til arbeid (ø) ble IKKE funnet på oppgitt side
 - OK   3 estimat=3 rad 385 (W3121176259, forventet tid til overgang til arbeid (ø) står i sitatet
-- OK   2 sitat rad 386 (W3121176259, ledighetsraten 2010, bidrag fra forlenge) står på oppgitt side
+- FEIL 2 sitat rad 386 (W3121176259, ledighetsraten 2010, bidrag fra forlenge) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.40 rad 386 (W3121176259, ledighetsraten 2010, bidrag fra forlenge) står i sitatet
-- OK   2 sitat rad 387 (W4298303875, lønn i ny jobb, samlet effekt (øvre gren) står på oppgitt side
+- FEIL 2 sitat rad 387 (W4298303875, lønn i ny jobb, samlet effekt (øvre gren) ble IKKE funnet på oppgitt side
 - OK   3 estimat=5 rad 387 (W4298303875, lønn i ny jobb, samlet effekt (øvre gren) står i sitatet
-- OK   2 sitat rad 388 (W4298303875, avgang fra ledighet og topp ved utløp av) står på oppgitt side
-- OK   2 sitat rad 389 (W4298303875, varighet i ny jobb og lønn for dem som f) står på oppgitt side
-- OK   2 sitat rad 390 (W3124232830, ledighetsraten (log-poeng) ved 1 prosent) står på oppgitt side
+- FEIL 2 sitat rad 388 (W4298303875, avgang fra ledighet og topp ved utløp av) ble IKKE funnet på oppgitt side
+- FEIL 2 sitat rad 389 (W4298303875, varighet i ny jobb og lønn for dem som f) ble IKKE funnet på oppgitt side
+- FEIL 2 sitat rad 390 (W3124232830, ledighetsraten (log-poeng) ved 1 prosent) ble IKKE funnet på oppgitt side
 - OK   3 estimat=8.4 rad 390 (W3124232830, ledighetsraten (log-poeng) ved 1 prosent) står i sitatet
-- OK   2 sitat rad 391 (W3124232830, ledighetsraten, økning i prosent ved for) står på oppgitt side
+- FEIL 2 sitat rad 391 (W3124232830, ledighetsraten, økning i prosent ved for) ble IKKE funnet på oppgitt side
 - OK   3 estimat=120 rad 391 (W3124232830, ledighetsraten, økning i prosent ved for) står i sitatet
-- OK   2 sitat rad 392 (W2337558966, ledighetsraten under finanskrisen, bidra) står på oppgitt side
+- FEIL 2 sitat rad 392 (W2337558966, ledighetsraten under finanskrisen, bidra) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.3 rad 392 (W2337558966, ledighetsraten under finanskrisen, bidra) står i sitatet
-- OK   2 sitat rad 393 (W3123098138, menn: ledighetsraten for menn 2009–2010,) står på oppgitt side
+- FEIL 2 sitat rad 393 (W3123098138, menn: ledighetsraten for menn 2009–2010,) ble IKKE funnet på oppgitt side
 - OK   3 estimat=1.2 rad 393 (W3123098138, menn: ledighetsraten for menn 2009–2010,) står i sitatet
 - OK   3 ki_lav=0.8 rad 393 (W3123098138, menn: ledighetsraten for menn 2009–2010,) står i sitatet
 - OK   3 ki_hoy=1.8 rad 393 (W3123098138, menn: ledighetsraten for menn 2009–2010,) står i sitatet
 - OK   4 rad 393 (W3123098138, menn: ledighetsraten for menn 2009–2010,) estimat innenfor KI
-- OK   2 sitat rad 394 (W3024730720, antall jobbsøknader i delstaten (reduksj) står på oppgitt side
+- FEIL 2 sitat rad 394 (W3024730720, antall jobbsøknader i delstaten (reduksj) ble IKKE funnet på oppgitt side
 - OK   3 estimat=1 rad 394 (W3024730720, antall jobbsøknader i delstaten (reduksj) står i sitatet
-- OK   2 sitat rad 395 (W3024730720, ledighet i likevekt (økning i prosent pe) står på oppgitt side
+- FEIL 2 sitat rad 395 (W3024730720, ledighet i likevekt (økning i prosent pe) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.6 rad 395 (W3024730720, ledighet i likevekt (økning i prosent pe) står i sitatet
-- OK   2 sitat rad 396 (W3047410432, inntekt i ny jobb etter periode uten arb) står på oppgitt side
+- FEIL 2 sitat rad 396 (W3047410432, inntekt i ny jobb etter periode uten arb) ble IKKE funnet på oppgitt side
 - OK   3 estimat=12 rad 396 (W3047410432, inntekt i ny jobb etter periode uten arb) står i sitatet
-- OK   2 sitat rad 397 (W3047410432, jobbmatch (matcheffekt i lønnsmodell) og) står på oppgitt side
+- FEIL 2 sitat rad 397 (W3047410432, jobbmatch (matcheffekt i lønnsmodell) og) ble IKKE funnet på oppgitt side
 - OK   3 estimat=4.1 rad 397 (W3047410432, jobbmatch (matcheffekt i lønnsmodell) og) står i sitatet
-- OK   2 sitat rad 398 (W3047410432, ikke-hvite: sannsynlighet for å være hos) står på oppgitt side
+- FEIL 2 sitat rad 398 (W3047410432, ikke-hvite: sannsynlighet for å være hos) ble IKKE funnet på oppgitt side
 - OK   3 estimat=2.7 rad 398 (W3047410432, ikke-hvite: sannsynlighet for å være hos) står i sitatet
-- OK   2 sitat rad 399 (W1531251373, 50 år og eldre: tid på dagpenger, økning) står på oppgitt side
+- FEIL 2 sitat rad 399 (W1531251373, 50 år og eldre: tid på dagpenger, økning) ble IKKE funnet på oppgitt side
 - OK   3 estimat=1 rad 399 (W1531251373, 50 år og eldre: tid på dagpenger, økning) står i sitatet
-- OK   2 sitat rad 400 (W1531251373, 50 år og eldre: sannsynlighet for gjenan) står på oppgitt side
+- FEIL 2 sitat rad 400 (W1531251373, 50 år og eldre: sannsynlighet for gjenan) ble IKKE funnet på oppgitt side
 - OK   3 estimat=2 rad 400 (W1531251373, 50 år og eldre: sannsynlighet for gjenan) står i sitatet
-- OK   2 sitat rad 401 (W1605209705, ledighetsvarighet for husholdninger med ) står på oppgitt side
+- FEIL 2 sitat rad 401 (W1605209705, ledighetsvarighet for husholdninger med ) ble IKKE funnet på oppgitt side
 - OK   3 estimat=6 rad 401 (W1605209705, ledighetsvarighet for husholdninger med ) står i sitatet
-- OK   2 sitat rad 402 (W1605209705, andel av sammenhengen mellom dagpenger o) står på oppgitt side
+- FEIL 2 sitat rad 402 (W1605209705, andel av sammenhengen mellom dagpenger o) ble IKKE funnet på oppgitt side
 - OK   3 estimat=70 rad 402 (W1605209705, andel av sammenhengen mellom dagpenger o) står i sitatet
-- OK   2 sitat rad 403 (W3121919142, andel i arbeid innen seks måneder (relat) står på oppgitt side
+- FEIL 2 sitat rad 403 (W3121919142, andel i arbeid innen seks måneder (relat) ble IKKE funnet på oppgitt side
 - OK   3 estimat=1.3 rad 403 (W3121919142, andel i arbeid innen seks måneder (relat) står i sitatet
-- OK   2 sitat rad 404 (W3121919142, årslønn i første jobb (euro lavere per m) står på oppgitt side
+- FEIL 2 sitat rad 404 (W3121919142, årslønn i første jobb (euro lavere per m) ble IKKE funnet på oppgitt side
 - OK   3 estimat=220 rad 404 (W3121919142, årslønn i første jobb (euro lavere per m) står i sitatet
-- OK   2 sitat rad 405 (W3121919142, sannsynlighet for midlertidig kontrakt i) står på oppgitt side
+- FEIL 2 sitat rad 405 (W3121919142, sannsynlighet for midlertidig kontrakt i) ble IKKE funnet på oppgitt side
 - OK   3 estimat=1 rad 405 (W3121919142, sannsynlighet for midlertidig kontrakt i) står i sitatet
-- OK   2 sitat rad 406 (W3121919142, samlet inntekt over tre år (nedgang); sa) står på oppgitt side
+- FEIL 2 sitat rad 406 (W3121919142, samlet inntekt over tre år (nedgang); sa) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.6 rad 406 (W3121919142, samlet inntekt over tre år (nedgang); sa) står i sitatet
-- OK   2 sitat rad 407 (W4388102278, måneder uten arbeid per ekstra måned dag) står på oppgitt side
+- FEIL 2 sitat rad 407 (W4388102278, måneder uten arbeid per ekstra måned dag) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.128 rad 407 (W4388102278, måneder uten arbeid per ekstra måned dag) står i sitatet
-- OK   2 sitat rad 408 (W4388102278, ledighetsrate, 56–59 år (modellberegning) står på oppgitt side
+- FEIL 2 sitat rad 408 (W4388102278, ledighetsrate, 56–59 år (modellberegning) ble IKKE funnet på oppgitt side
 - OK   3 estimat=2.5 rad 408 (W4388102278, ledighetsrate, 56–59 år (modellberegning) står i sitatet
-- OK   2 sitat rad 409 (W4388102278, økningen i ledighet for 56–59 år fra 198) står på oppgitt side
+- FEIL 2 sitat rad 409 (W4388102278, økningen i ledighet for 56–59 år fra 198) ble IKKE funnet på oppgitt side
 - OK   3 estimat=58 rad 409 (W4388102278, økningen i ledighet for 56–59 år fra 198) står i sitatet
-- OK   2 sitat rad 410 (W1588566104, ledighetsrate, ikke-sesongsektor (5 i se) står på oppgitt side
+- FEIL 2 sitat rad 410 (W1588566104, ledighetsrate, ikke-sesongsektor (5 i se) ble IKKE funnet på oppgitt side
 - OK   3 estimat=2 rad 410 (W1588566104, ledighetsrate, ikke-sesongsektor (5 i se) står i sitatet
-- OK   2 sitat rad 411 (W3157482989, ledighetsrate i fylker (log-poeng per 1 ) står på oppgitt side
+- FEIL 2 sitat rad 411 (W3157482989, ledighetsrate i fylker (log-poeng per 1 ) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.052 rad 411 (W3157482989, ledighetsrate i fylker (log-poeng per 1 ) står i sitatet
-- OK   2 sitat rad 412 (W3157482989, ledighetsrate 2010K4 ved kutt fra 99 til) står på oppgitt side
+- FEIL 2 sitat rad 412 (W3157482989, ledighetsrate 2010K4 ved kutt fra 99 til) ble IKKE funnet på oppgitt side
 - OK   3 estimat=7.8 rad 412 (W3157482989, ledighetsrate 2010K4 ved kutt fra 99 til) står i sitatet
-- OK   2 sitat rad 413 (W4300783938, varighet uten arbeid (elastisitet 1.5 ti) står på oppgitt side
+- FEIL 2 sitat rad 413 (W4300783938, varighet uten arbeid (elastisitet 1.5 ti) ble IKKE funnet på oppgitt side
 - OK   3 estimat=1.5 rad 413 (W4300783938, varighet uten arbeid (elastisitet 1.5 ti) står i sitatet
-- OK   2 sitat rad 414 (W4300783938, sannsynlighet for at stønadsperioden end) står på oppgitt side
+- FEIL 2 sitat rad 414 (W4300783938, sannsynlighet for at stønadsperioden end) ble IKKE funnet på oppgitt side
 - OK   3 estimat=-0.5 rad 414 (W4300783938, sannsynlighet for at stønadsperioden end) står i sitatet
-- OK   2 sitat rad 415 (W4300783938, lønn i første jobb etter ledighet (elast) står på oppgitt side
+- FEIL 2 sitat rad 415 (W4300783938, lønn i første jobb etter ledighet (elast) ble IKKE funnet på oppgitt side
 - OK   3 estimat=-0.5 rad 415 (W4300783938, lønn i første jobb etter ledighet (elast) står i sitatet
-- OK   2 sitat rad 416 (W2602083429, sysselsetting (antall personer), mikrosi) står på oppgitt side
+- FEIL 2 sitat rad 416 (W2602083429, sysselsetting (antall personer), mikrosi) ble IKKE funnet på oppgitt side
 - OK   3 estimat=50000 rad 416 (W2602083429, sysselsetting (antall personer), mikrosi) står i sitatet
-- OK   2 sitat rad 417 (W2602083429, gjennomsnittlig effektiv marginalskatt v) står på oppgitt side
+- FEIL 2 sitat rad 417 (W2602083429, gjennomsnittlig effektiv marginalskatt v) ble IKKE funnet på oppgitt side
 - OK   3 estimat=14 rad 417 (W2602083429, gjennomsnittlig effektiv marginalskatt v) står i sitatet
-- OK   2 sitat rad 418 (W2900127637, lønn i eksisterende jobber og ved jobbsk) står på oppgitt side
+- FEIL 2 sitat rad 418 (W2900127637, lønn i eksisterende jobber og ved jobbsk) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.01 rad 418 (W2900127637, lønn i eksisterende jobber og ved jobbsk) står i sitatet
-- OK   2 sitat rad 419 (W3123287087, andel av ledighetsforløpene i tiltaksgru) står på oppgitt side
+- FEIL 2 sitat rad 419 (W3123287087, andel av ledighetsforløpene i tiltaksgru) ble IKKE funnet på oppgitt side
 - OK   3 estimat=15 rad 419 (W3123287087, andel av ledighetsforløpene i tiltaksgru) står i sitatet
-- OK   2 sitat rad 420 (W2118828931, sannsynlighet for å være i arbeid tre år) står på oppgitt side
+- FEIL 2 sitat rad 420 (W2118828931, sannsynlighet for å være i arbeid tre år) ble IKKE funnet på oppgitt side
 - OK   3 estimat=32.6 rad 420 (W2118828931, sannsynlighet for å være i arbeid tre år) står i sitatet
-- OK   2 sitat rad 421 (W2118828931, sysselsetting ved utgangen av andre år, ) står på oppgitt side
+- FEIL 2 sitat rad 421 (W2118828931, sysselsetting ved utgangen av andre år, ) ble IKKE funnet på oppgitt side
 - OK   3 estimat=15.3 rad 421 (W2118828931, sysselsetting ved utgangen av andre år, ) står i sitatet
-- OK   2 sitat rad 422 (W2118828931, lønn tre år etter: ingen effekt) står på oppgitt side
-- OK   2 sitat rad 423 (W2892198599, forhøyet avgang fra ledighet etter først) står på oppgitt side
+- FEIL 2 sitat rad 422 (W2118828931, lønn tre år etter: ingen effekt) ble IKKE funnet på oppgitt side
+- FEIL 2 sitat rad 423 (W2892198599, forhøyet avgang fra ledighet etter først) ble IKKE funnet på oppgitt side
 - OK   3 estimat=2.5 rad 423 (W2892198599, forhøyet avgang fra ledighet etter først) står i sitatet
-- OK   2 sitat rad 424 (W7151383463, sysselsetting, 25–54 år (gjenansettelses) står på oppgitt side
+- FEIL 2 sitat rad 424 (W7151383463, sysselsetting, 25–54 år (gjenansettelses) ble IKKE funnet på oppgitt side
 - OK   3 estimat=3.2 rad 424 (W7151383463, sysselsetting, 25–54 år (gjenansettelses) står i sitatet
-- OK   2 sitat rad 425 (W7151383463, overgang fra ledighet til arbeid, 25–54 ) står på oppgitt side
+- FEIL 2 sitat rad 425 (W7151383463, overgang fra ledighet til arbeid, 25–54 ) ble IKKE funnet på oppgitt side
 - OK   3 estimat=18.2 rad 425 (W7151383463, overgang fra ledighet til arbeid, 25–54 ) står i sitatet
-- OK   2 sitat rad 426 (W1506969218, uker med dagpenger (nedgang) i fire fors) står på oppgitt side
+- FEIL 2 sitat rad 426 (W1506969218, uker med dagpenger (nedgang) i fire fors) ble IKKE funnet på oppgitt side
 - OK   3 estimat=3 rad 426 (W1506969218, uker med dagpenger (nedgang) i fire fors) står i sitatet
-- OK   2 sitat rad 427 (W1506969218, uker med dagpenger (nedgang over én uke)) står på oppgitt side
+- FEIL 2 sitat rad 427 (W1506969218, uker med dagpenger (nedgang over én uke)) ble IKKE funnet på oppgitt side
 - OK   3 estimat=1 rad 427 (W1506969218, uker med dagpenger (nedgang over én uke)) står i sitatet
-- OK   2 sitat rad 428 (W4200127337, overgang fra ledighet til arbeid, 25–54 ) står på oppgitt side
+- FEIL 2 sitat rad 428 (W4200127337, overgang fra ledighet til arbeid, 25–54 ) ble IKKE funnet på oppgitt side
 - OK   3 estimat=14 rad 428 (W4200127337, overgang fra ledighet til arbeid, 25–54 ) står i sitatet
-- OK   2 sitat rad 429 (W4200127337, nasjonal ledighetsrate juli og august 20) står på oppgitt side
+- FEIL 2 sitat rad 429 (W4200127337, nasjonal ledighetsrate juli og august 20) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.3 rad 429 (W4200127337, nasjonal ledighetsrate juli og august 20) står i sitatet
-- OK   2 sitat rad 430 (W2169046276, reformeffekt på overgang til arbeid i re) står på oppgitt side
+- FEIL 2 sitat rad 430 (W2169046276, reformeffekt på overgang til arbeid i re) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.15 rad 430 (W2169046276, reformeffekt på overgang til arbeid i re) står i sitatet
-- OK   2 sitat rad 431 (W2169046276, overgang til ordinære jobber: ingen effe) står på oppgitt side
-- OK   2 sitat rad 432 (W2169046276, avgang til arbeid, gjengitt fra Carling,) står på oppgitt side
+- FEIL 2 sitat rad 431 (W2169046276, overgang til ordinære jobber: ingen effe) ble IKKE funnet på oppgitt side
+- FEIL 2 sitat rad 432 (W2169046276, avgang til arbeid, gjengitt fra Carling,) ble IKKE funnet på oppgitt side
 - OK   3 estimat=10 rad 432 (W2169046276, avgang til arbeid, gjengitt fra Carling,) står i sitatet
-- OK   2 sitat rad 433 (W4308880944, jobbfunnsrate (elastisitet med hensyn ti) står på oppgitt side
+- FEIL 2 sitat rad 433 (W4308880944, jobbfunnsrate (elastisitet med hensyn ti) ble IKKE funnet på oppgitt side
 - OK   3 estimat=-0.35 rad 433 (W4308880944, jobbfunnsrate (elastisitet med hensyn ti) står i sitatet
-- OK   2 sitat rad 434 (W4308880944, jobbfunnsrate for ledige med dagpenger l) står på oppgitt side
+- FEIL 2 sitat rad 434 (W4308880944, jobbfunnsrate for ledige med dagpenger l) ble IKKE funnet på oppgitt side
 - OK   3 estimat=-1.1 rad 434 (W4308880944, jobbfunnsrate for ledige med dagpenger l) står i sitatet
-- OK   2 sitat rad 435 (W4308880944, ukentlig jobbfunnsrate for ledige med da) står på oppgitt side
+- FEIL 2 sitat rad 435 (W4308880944, ukentlig jobbfunnsrate for ledige med da) ble IKKE funnet på oppgitt side
 - OK   3 estimat=2.0 rad 435 (W4308880944, ukentlig jobbfunnsrate for ledige med da) står i sitatet
-- OK   2 sitat rad 436 (W2999421560, sannsynlighet for å være i arbeid, unge ) står på oppgitt side
-- OK   2 sitat rad 437 (W2999421560, kumulativ jobbfunnsrate, unge med høyere) står på oppgitt side
+- FEIL 2 sitat rad 436 (W2999421560, sannsynlighet for å være i arbeid, unge ) ble IKKE funnet på oppgitt side
+- FEIL 2 sitat rad 437 (W2999421560, kumulativ jobbfunnsrate, unge med høyere) ble IKKE funnet på oppgitt side
 - OK   3 estimat=4 rad 437 (W2999421560, kumulativ jobbfunnsrate, unge med høyere) står i sitatet
-- OK   2 sitat rad 438 (W3121290322, ledighetsvarighet, 44–46 år oppsagt uten) står på oppgitt side
-- OK   2 sitat rad 439 (W2163272184, likevektsledighet (fra 6.25 prosent), fo) står på oppgitt side
+- FEIL 2 sitat rad 438 (W3121290322, ledighetsvarighet, 44–46 år oppsagt uten) ble IKKE funnet på oppgitt side
+- FEIL 2 sitat rad 439 (W2163272184, likevektsledighet (fra 6.25 prosent), fo) ble IKKE funnet på oppgitt side
 - OK   3 estimat=7.7 rad 439 (W2163272184, likevektsledighet (fra 6.25 prosent), fo) står i sitatet
-- OK   2 sitat rad 440 (W2163272184, økning i gjenansettelsesrate ved utløp a) står på oppgitt side
+- FEIL 2 sitat rad 440 (W2163272184, økning i gjenansettelsesrate ved utløp a) ble IKKE funnet på oppgitt side
 - OK   3 estimat=20 rad 440 (W2163272184, økning i gjenansettelsesrate ved utløp a) står i sitatet
-- OK   2 sitat rad 441 (W3124881456, lønn ved gjenansettelse: upåvirket gjenn) står på oppgitt side
-- OK   2 sitat rad 442 (W3121561982, ledighetsvarighet i uker, jobbtapere led) står på oppgitt side
+- FEIL 2 sitat rad 441 (W3124881456, lønn ved gjenansettelse: upåvirket gjenn) ble IKKE funnet på oppgitt side
+- FEIL 2 sitat rad 442 (W3121561982, ledighetsvarighet i uker, jobbtapere led) ble IKKE funnet på oppgitt side
 - OK   3 estimat=1.5 rad 442 (W3121561982, ledighetsvarighet i uker, jobbtapere led) står i sitatet
-- OK   2 sitat rad 443 (W3121561982, ledighetsvarighet i uker (16 prosent), j) står på oppgitt side
+- FEIL 2 sitat rad 443 (W3121561982, ledighetsvarighet i uker (16 prosent), j) ble IKKE funnet på oppgitt side
 - OK   3 estimat=7.3 rad 443 (W3121561982, ledighetsvarighet i uker (16 prosent), j) står i sitatet
-- OK   2 sitat rad 444 (W3161347148, jobbfunnsrate for typisk dagpengemottake) står på oppgitt side
+- FEIL 2 sitat rad 444 (W3161347148, jobbfunnsrate for typisk dagpengemottake) ble IKKE funnet på oppgitt side
 - OK   3 estimat=22 rad 444 (W3161347148, jobbfunnsrate for typisk dagpengemottake) står i sitatet
-- OK   2 sitat rad 445 (W3161347148, andel dagpengemottakere som trolig ville) står på oppgitt side
+- FEIL 2 sitat rad 445 (W3161347148, andel dagpengemottakere som trolig ville) ble IKKE funnet på oppgitt side
 - OK   3 estimat=22 rad 445 (W3161347148, andel dagpengemottakere som trolig ville) står i sitatet
-- OK   2 sitat rad 446 (W3123285088, tilgang til ledighet i seks måneder ette) står på oppgitt side
+- FEIL 2 sitat rad 446 (W3123285088, tilgang til ledighet i seks måneder ette) ble IKKE funnet på oppgitt side
 - OK   3 estimat=28.8 rad 446 (W3123285088, tilgang til ledighet i seks måneder ette) står i sitatet
-- OK   2 sitat rad 447 (W3123285088, topp i tilgang til ledighet etter 57.5 å) står på oppgitt side
+- FEIL 2 sitat rad 447 (W3123285088, topp i tilgang til ledighet etter 57.5 å) ble IKKE funnet på oppgitt side
 - OK   3 estimat=18.3 rad 447 (W3123285088, topp i tilgang til ledighet etter 57.5 å) står i sitatet
-- OK   2 sitat rad 448 (W3123257150, arbeidsdager i fem kvartaler etter avgan) står på oppgitt side
+- FEIL 2 sitat rad 448 (W3123257150, arbeidsdager i fem kvartaler etter avgan) ble IKKE funnet på oppgitt side
 - OK   3 estimat=-3.5 rad 448 (W3123257150, arbeidsdager i fem kvartaler etter avgan) står i sitatet
-- OK   2 sitat rad 449 (W3123257150, arbeidsinntekt i fem kvartaler etter avg) står på oppgitt side
+- FEIL 2 sitat rad 449 (W3123257150, arbeidsinntekt i fem kvartaler etter avg) ble IKKE funnet på oppgitt side
 - OK   3 estimat=-5.5 rad 449 (W3123257150, arbeidsinntekt i fem kvartaler etter avg) står i sitatet
-- OK   2 sitat rad 450 (W1894565970, andel som var ledige hele maksimale støn) står på oppgitt side
+- FEIL 2 sitat rad 450 (W1894565970, andel som var ledige hele maksimale støn) ble IKKE funnet på oppgitt side
 - OK   3 estimat=4 rad 450 (W1894565970, andel som var ledige hele maksimale støn) står i sitatet
-- OK   2 sitat rad 451 (W1894565970, andel med sammenhengende forløp av dagpe) står på oppgitt side
+- FEIL 2 sitat rad 451 (W1894565970, andel med sammenhengende forløp av dagpe) ble IKKE funnet på oppgitt side
 - OK   3 estimat=8 rad 451 (W1894565970, andel med sammenhengende forløp av dagpe) står i sitatet
-- OK   2 sitat rad 452 (W3122272406, ledighetsvarighet (Illinois-forsøket med) står på oppgitt side
-- OK   2 sitat rad 453 (W2890931512, jobbfunnrate de første 20 ukene (spenn 5) står på oppgitt side
+- FEIL 2 sitat rad 452 (W3122272406, ledighetsvarighet (Illinois-forsøket med) ble IKKE funnet på oppgitt side
+- FEIL 2 sitat rad 453 (W2890931512, jobbfunnrate de første 20 ukene (spenn 5) ble IKKE funnet på oppgitt side
 - OK   3 estimat=5 rad 453 (W2890931512, jobbfunnrate de første 20 ukene (spenn 5) står i sitatet
-- OK   2 sitat rad 454 (W2890931512, lønn i ny jobb: øvre grense i 95 % KI fo) står på oppgitt side
+- FEIL 2 sitat rad 454 (W2890931512, lønn i ny jobb: øvre grense i 95 % KI fo) ble IKKE funnet på oppgitt side
 - OK   3 estimat=1 rad 454 (W2890931512, lønn i ny jobb: øvre grense i 95 % KI fo) står i sitatet
-- OK   2 sitat rad 455 (W4327977344, arbeidstimer, 20–24 år) står på oppgitt side
+- FEIL 2 sitat rad 455 (W4327977344, arbeidstimer, 20–24 år) ble IKKE funnet på oppgitt side
 - OK   3 estimat=6 rad 455 (W4327977344, arbeidstimer, 20–24 år) står i sitatet
-- OK   2 sitat rad 456 (W4327977344, arbeidstimer, 15–19 år: ingen signifikan) står på oppgitt side
+- FEIL 2 sitat rad 456 (W4327977344, arbeidstimer, 15–19 år: ingen signifikan) ble IKKE funnet på oppgitt side
 - OK   3 estimat=15 rad 456 (W4327977344, arbeidstimer, 15–19 år: ingen signifikan) står i sitatet
-- OK   2 sitat rad 457 (W3008865396, andel med vikarjobb innen 6 måneder, 24-) står på oppgitt side
+- FEIL 2 sitat rad 457 (W3008865396, andel med vikarjobb innen 6 måneder, 24-) ble IKKE funnet på oppgitt side
 - OK   3 estimat=3.3 rad 457 (W3008865396, andel med vikarjobb innen 6 måneder, 24-) står i sitatet
-- OK   2 sitat rad 458 (W3008865396, andel med vikarjobb innen 12 måneder, 24) står på oppgitt side
+- FEIL 2 sitat rad 458 (W3008865396, andel med vikarjobb innen 12 måneder, 24) ble IKKE funnet på oppgitt side
 - OK   3 estimat=3.7 rad 458 (W3008865396, andel med vikarjobb innen 12 måneder, 24) står i sitatet
-- OK   2 sitat rad 459 (W3008865396, overgang til mer stabile jobber og sysse) står på oppgitt side
-- OK   2 sitat rad 460 (W4396708970, jobbfunnrate (spenn 5–7 prosentpoeng, ne) står på oppgitt side
+- FEIL 2 sitat rad 459 (W3008865396, overgang til mer stabile jobber og sysse) ble IKKE funnet på oppgitt side
+- FEIL 2 sitat rad 460 (W4396708970, jobbfunnrate (spenn 5–7 prosentpoeng, ne) ble IKKE funnet på oppgitt side
 - OK   3 estimat=5 rad 460 (W4396708970, jobbfunnrate (spenn 5–7 prosentpoeng, ne) står i sitatet
-- OK   2 sitat rad 461 (W4396708970, jobbfunnrate, laveste inntektstredjedel:) står på oppgitt side
-- OK   2 sitat rad 462 (W3196709528, jobbsøking innen 6 måneder, 65 år og eld) står på oppgitt side
+- FEIL 2 sitat rad 461 (W4396708970, jobbfunnrate, laveste inntektstredjedel:) ble IKKE funnet på oppgitt side
+- FEIL 2 sitat rad 462 (W3196709528, jobbsøking innen 6 måneder, 65 år og eld) ble IKKE funnet på oppgitt side
 - OK   3 estimat=1.4 rad 462 (W3196709528, jobbsøking innen 6 måneder, 65 år og eld) står i sitatet
-- OK   2 sitat rad 463 (W3196709528, yrkesdeltakelse innen 6 måneder, 65 år o) står på oppgitt side
+- FEIL 2 sitat rad 463 (W3196709528, yrkesdeltakelse innen 6 måneder, 65 år o) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.8 rad 463 (W3196709528, yrkesdeltakelse innen 6 måneder, 65 år o) står i sitatet
-- OK   2 sitat rad 464 (W2962012390, elastisitet av ledighetsvarighet mht. da) står på oppgitt side
+- FEIL 2 sitat rad 464 (W2962012390, elastisitet av ledighetsvarighet mht. da) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.5 rad 464 (W2962012390, elastisitet av ledighetsvarighet mht. da) står i sitatet
-- OK   2 sitat rad 465 (W2962012390, ledighetsvarighet i uker; gjengitt fra f) står på oppgitt side
+- FEIL 2 sitat rad 465 (W2962012390, ledighetsvarighet i uker; gjengitt fra f) ble IKKE funnet på oppgitt side
 - OK   3 estimat=1 rad 465 (W2962012390, ledighetsvarighet i uker; gjengitt fra f) står i sitatet
-- OK   2 sitat rad 466 (W2962012390, ledighetsraten på delstatsnivå (makro); ) står på oppgitt side
+- FEIL 2 sitat rad 466 (W2962012390, ledighetsraten på delstatsnivå (makro); ) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.04 rad 466 (W2962012390, ledighetsraten på delstatsnivå (makro); ) står i sitatet
-- OK   2 sitat rad 467 (W2505956069, inntektselastisitet (intensiv margin) bl) står på oppgitt side
+- FEIL 2 sitat rad 467 (W2505956069, inntektselastisitet (intensiv margin) bl) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.1 rad 467 (W2505956069, inntektselastisitet (intensiv margin) bl) står i sitatet
-- OK   2 sitat rad 468 (W4226460977, sysselsetting i delstaten andre måned et) står på oppgitt side
+- FEIL 2 sitat rad 468 (W4226460977, sysselsetting i delstaten andre måned et) ble IKKE funnet på oppgitt side
 - OK   3 estimat=27 rad 468 (W4226460977, sysselsetting i delstaten andre måned et) står i sitatet
-- OK   2 sitat rad 469 (W3122179078, ledighetsvarighet i uker, 18-åringer (in) står på oppgitt side
+- FEIL 2 sitat rad 469 (W3122179078, ledighetsvarighet i uker, 18-åringer (in) ble IKKE funnet på oppgitt side
 - OK   3 estimat=61 rad 469 (W3122179078, ledighetsvarighet i uker, 18-åringer (in) står i sitatet
-- OK   2 sitat rad 470 (W3122179078, elastisitet av ledighetsvarighet mht. yt) står på oppgitt side
+- FEIL 2 sitat rad 470 (W3122179078, elastisitet av ledighetsvarighet mht. yt) ble IKKE funnet på oppgitt side
 - OK   3 estimat=1.04 rad 470 (W3122179078, elastisitet av ledighetsvarighet mht. yt) står i sitatet
-- OK   2 sitat rad 471 (W3122179078, samlet ledighet over fem år i uker, 18-å) står på oppgitt side
+- FEIL 2 sitat rad 471 (W3122179078, samlet ledighet over fem år i uker, 18-å) ble IKKE funnet på oppgitt side
 - OK   3 estimat=-50 rad 471 (W3122179078, samlet ledighet over fem år i uker, 18-å) står i sitatet
-- OK   2 sitat rad 472 (W3125141905, månedlig avgang fra ledighet (alle avgan) står på oppgitt side
+- FEIL 2 sitat rad 472 (W3125141905, månedlig avgang fra ledighet (alle avgan) ble IKKE funnet på oppgitt side
 - OK   3 estimat=3.5 rad 472 (W3125141905, månedlig avgang fra ledighet (alle avgan) står i sitatet
-- OK   2 sitat rad 473 (W3125141905, avgang til arbeid: svært små, ikke signi) står på oppgitt side
-- OK   2 sitat rad 474 (W1187777988, avgangsrate fra ledighet: topp ved 700 d) står på oppgitt side
+- FEIL 2 sitat rad 473 (W3125141905, avgang til arbeid: svært små, ikke signi) ble IKKE funnet på oppgitt side
+- FEIL 2 sitat rad 474 (W1187777988, avgangsrate fra ledighet: topp ved 700 d) ble IKKE funnet på oppgitt side
 - OK   3 estimat=700 rad 474 (W1187777988, avgangsrate fra ledighet: topp ved 700 d) står i sitatet
-- OK   2 sitat rad 475 (W2362926828, andel som brukte opp ordinære dagpenger ) står på oppgitt side
+- FEIL 2 sitat rad 475 (W2362926828, andel som brukte opp ordinære dagpenger ) ble IKKE funnet på oppgitt side
 - OK   3 estimat=9.2 rad 475 (W2362926828, andel som brukte opp ordinære dagpenger ) står i sitatet
-- OK   2 sitat rad 476 (W2362926828, antall uker med dagpenger (Nevada REA/RE) står på oppgitt side
+- FEIL 2 sitat rad 476 (W2362926828, antall uker med dagpenger (Nevada REA/RE) ble IKKE funnet på oppgitt side
 - OK   3 estimat=10 rad 476 (W2362926828, antall uker med dagpenger (Nevada REA/RE) står i sitatet
-- OK   2 sitat rad 477 (W1484319311, uker med ledighet (Washington-forsøket, ) står på oppgitt side
+- FEIL 2 sitat rad 477 (W1484319311, uker med ledighet (Washington-forsøket, ) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.75 rad 477 (W1484319311, uker med ledighet (Washington-forsøket, ) står i sitatet
-- OK   2 sitat rad 478 (W1484319311, uker med ledighet (Pennsylvania-forsøket) står på oppgitt side
+- FEIL 2 sitat rad 478 (W1484319311, uker med ledighet (Pennsylvania-forsøket) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.8 rad 478 (W1484319311, uker med ledighet (Pennsylvania-forsøket) står i sitatet
-- OK   2 sitat rad 479 (W1595650743, ingen effektestimat i teksten; beskriver) står på oppgitt side
-- OK   2 sitat rad 480 (W2336638963, ledighetsvarighet i uker per ekstra uke ) står på oppgitt side
+- FEIL 2 sitat rad 479 (W1595650743, ingen effektestimat i teksten; beskriver) ble IKKE funnet på oppgitt side
+- FEIL 2 sitat rad 480 (W2336638963, ledighetsvarighet i uker per ekstra uke ) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.1 rad 480 (W2336638963, ledighetsvarighet i uker per ekstra uke ) står i sitatet
-- OK   2 sitat rad 481 (W2336638963, ledighetsvarighet i uker (spenn 0,5–1,0,) står på oppgitt side
+- FEIL 2 sitat rad 481 (W2336638963, ledighetsvarighet i uker (spenn 0,5–1,0,) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.5 rad 481 (W2336638963, ledighetsvarighet i uker (spenn 0,5–1,0,) står i sitatet
-- OK   2 sitat rad 482 (W2336638963, andel som bruker opp ordinære dagpenger;) står på oppgitt side
+- FEIL 2 sitat rad 482 (W2336638963, andel som bruker opp ordinære dagpenger;) ble IKKE funnet på oppgitt side
 - OK   3 estimat=7 rad 482 (W2336638963, andel som bruker opp ordinære dagpenger;) står i sitatet
-- OK   2 sitat rad 483 (W2336638963, uker uten arbeid per ekstra uke potensie) står på oppgitt side
+- FEIL 2 sitat rad 483 (W2336638963, uker uten arbeid per ekstra uke potensie) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.32 rad 483 (W2336638963, uker uten arbeid per ekstra uke potensie) står i sitatet
-- OK   2 sitat rad 484 (W94071062, ingen effektestimat i teksten; beskriver) står på oppgitt side
-- OK   2 sitat rad 485 (W3124932748, odds for å finne jobb) står på oppgitt side
+- FEIL 2 sitat rad 484 (W94071062, ingen effektestimat i teksten; beskriver) ble IKKE funnet på oppgitt side
+- FEIL 2 sitat rad 485 (W3124932748, odds for å finne jobb) ble IKKE funnet på oppgitt side
 - OK   3 estimat=41 rad 485 (W3124932748, odds for å finne jobb) står i sitatet
-- OK   2 sitat rad 486 (W3124932748, forventet ledighetsvarighet i uker (14 p) står på oppgitt side
+- FEIL 2 sitat rad 486 (W3124932748, forventet ledighetsvarighet i uker (14 p) ble IKKE funnet på oppgitt side
 - OK   3 estimat=5.7 rad 486 (W3124932748, forventet ledighetsvarighet i uker (14 p) står i sitatet
-- OK   2 sitat rad 487 (W3124932748, elastisitet av ledighetsvarighet mht. ko) står på oppgitt side
+- FEIL 2 sitat rad 487 (W3124932748, elastisitet av ledighetsvarighet mht. ko) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.86 rad 487 (W3124932748, elastisitet av ledighetsvarighet mht. ko) står i sitatet
-- OK   2 sitat rad 488 (W3125981663, varighet uten arbeid i uker; lønn og var) står på oppgitt side
+- FEIL 2 sitat rad 488 (W3125981663, varighet uten arbeid i uker; lønn og var) ble IKKE funnet på oppgitt side
 - OK   3 estimat=1.5 rad 488 (W3125981663, varighet uten arbeid i uker; lønn og var) står i sitatet
-- OK   2 sitat rad 489 (W2172464361, sannsynlighet for å komme i arbeid) står på oppgitt side
+- FEIL 2 sitat rad 489 (W2172464361, sannsynlighet for å komme i arbeid) ble IKKE funnet på oppgitt side
 - OK   3 estimat=100 rad 489 (W2172464361, sannsynlighet for å komme i arbeid) står i sitatet
-- OK   2 sitat rad 490 (W2172464361, forventet ledighetsvarighet i uker for e) står på oppgitt side
+- FEIL 2 sitat rad 490 (W2172464361, forventet ledighetsvarighet i uker for e) ble IKKE funnet på oppgitt side
 - OK   3 estimat=7.5 rad 490 (W2172464361, forventet ledighetsvarighet i uker for e) står i sitatet
-- OK   2 sitat rad 491 (W2230405599, sysselsettingsrate (makro, landpanel); g) står på oppgitt side
+- FEIL 2 sitat rad 491 (W2230405599, sysselsettingsrate (makro, landpanel); g) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.6 rad 491 (W2230405599, sysselsettingsrate (makro, landpanel); g) står i sitatet
-- OK   2 sitat rad 492 (W104671699, uker med dagpenger over alle programmer ) står på oppgitt side
+- FEIL 2 sitat rad 492 (W104671699, uker med dagpenger over alle programmer ) ble IKKE funnet på oppgitt side
 - OK   3 estimat=2 rad 492 (W104671699, uker med dagpenger over alle programmer ) står i sitatet
-- OK   2 sitat rad 493 (W104671699, inntekt i første kvartal etter søknad, d) står på oppgitt side
+- FEIL 2 sitat rad 493 (W104671699, inntekt i første kvartal etter søknad, d) ble IKKE funnet på oppgitt side
 - OK   3 estimat=176 rad 493 (W104671699, inntekt i første kvartal etter søknad, d) står i sitatet
-- OK   2 sitat rad 494 (W3123720716, varighet på dagpenger i måneder ved 50-å) står på oppgitt side
+- FEIL 2 sitat rad 494 (W3123720716, varighet på dagpenger i måneder ved 50-å) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.95 rad 494 (W3123720716, varighet på dagpenger i måneder ved 50-å) står i sitatet
-- OK   2 sitat rad 495 (W3123720716, varighet uten arbeid i måneder (sensurer) står på oppgitt side
+- FEIL 2 sitat rad 495 (W3123720716, varighet uten arbeid i måneder (sensurer) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.2 rad 495 (W3123720716, varighet uten arbeid i måneder (sensurer) står i sitatet
-- OK   2 sitat rad 496 (W3123720716, sannsynlighet for jobb innen 18 måneder;) står på oppgitt side
+- FEIL 2 sitat rad 496 (W3123720716, sannsynlighet for jobb innen 18 måneder;) ble IKKE funnet på oppgitt side
 - OK   3 estimat=1.3 rad 496 (W3123720716, sannsynlighet for jobb innen 18 måneder;) står i sitatet
-- OK   2 sitat rad 497 (W4415544802, andel av økt dagpengebruk som skyldes re) står på oppgitt side
+- FEIL 2 sitat rad 497 (W4415544802, andel av økt dagpengebruk som skyldes re) ble IKKE funnet på oppgitt side
 - OK   3 estimat=19 rad 497 (W4415544802, andel av økt dagpengebruk som skyldes re) står i sitatet
-- OK   2 sitat rad 498 (W4415544802, atferdskostnad per euro mekanisk overfør) står på oppgitt side
+- FEIL 2 sitat rad 498 (W4415544802, atferdskostnad per euro mekanisk overfør) ble IKKE funnet på oppgitt side
 - OK   3 estimat=24 rad 498 (W4415544802, atferdskostnad per euro mekanisk overfør) står i sitatet
-- OK   2 sitat rad 499 (W1599200893, sannsynlighet for positiv inntekt året e) står på oppgitt side
+- FEIL 2 sitat rad 499 (W1599200893, sannsynlighet for positiv inntekt året e) ble IKKE funnet på oppgitt side
 - OK   3 estimat=4 rad 499 (W1599200893, sannsynlighet for positiv inntekt året e) står i sitatet
-- OK   2 sitat rad 500 (W1599200893, overgang til uføreytelse (Incapacity Ben) står på oppgitt side
+- FEIL 2 sitat rad 500 (W1599200893, overgang til uføreytelse (Incapacity Ben) ble IKKE funnet på oppgitt side
 - OK   3 estimat=2.53 rad 500 (W1599200893, overgang til uføreytelse (Incapacity Ben) står i sitatet
-- OK   2 sitat rad 501 (W3034159852, forskjell i ledighetsvekst mellom menn o) står på oppgitt side
+- FEIL 2 sitat rad 501 (W3034159852, forskjell i ledighetsvekst mellom menn o) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.8 rad 501 (W3034159852, forskjell i ledighetsvekst mellom menn o) står i sitatet
-- OK   2 sitat rad 502 (W3034159852, kvinner: økning i ledighetsrate (spenn 0) står på oppgitt side
+- FEIL 2 sitat rad 502 (W3034159852, kvinner: økning i ledighetsrate (spenn 0) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.6 rad 502 (W3034159852, kvinner: økning i ledighetsrate (spenn 0) står i sitatet
-- OK   2 sitat rad 503 (W3034159852, forsinkelse før effekten på ledigheten k) står på oppgitt side
+- FEIL 2 sitat rad 503 (W3034159852, forsinkelse før effekten på ledigheten k) ble IKKE funnet på oppgitt side
 - OK   3 estimat=2 rad 503 (W3034159852, forsinkelse før effekten på ledigheten k) står i sitatet
-- OK   2 sitat rad 504 (W2515864410, lønn tre år etter innskriving på mobilit) står på oppgitt side
-- OK   2 sitat rad 505 (W2515864410, sysselsetting og lønn tre år etter innsk) står på oppgitt side
-- OK   2 sitat rad 506 (W4398131513, oppsagte rundt 50 år: sannsynlighet for ) står på oppgitt side
+- FEIL 2 sitat rad 504 (W2515864410, lønn tre år etter innskriving på mobilit) ble IKKE funnet på oppgitt side
+- FEIL 2 sitat rad 505 (W2515864410, sysselsetting og lønn tre år etter innsk) ble IKKE funnet på oppgitt side
+- FEIL 2 sitat rad 506 (W4398131513, oppsagte rundt 50 år: sannsynlighet for ) ble IKKE funnet på oppgitt side
 - OK   3 estimat=8 rad 506 (W4398131513, oppsagte rundt 50 år: sannsynlighet for ) står i sitatet
-- OK   2 sitat rad 507 (W4398131513, oppsagte rundt 50 år: samlet tid uten ar) står på oppgitt side
+- FEIL 2 sitat rad 507 (W4398131513, oppsagte rundt 50 år: samlet tid uten ar) ble IKKE funnet på oppgitt side
 - OK   3 estimat=1.26 rad 507 (W4398131513, oppsagte rundt 50 år: samlet tid uten ar) står i sitatet
-- OK   2 sitat rad 508 (W4398131513, oppsagte rundt 50 år: jobbkvalitet og va) står på oppgitt side
-- OK   2 sitat rad 509 (W4378219799, dekningsgrad for inntekt opp til 3 G und) står på oppgitt side
+- FEIL 2 sitat rad 508 (W4398131513, oppsagte rundt 50 år: jobbkvalitet og va) ble IKKE funnet på oppgitt side
+- FEIL 2 sitat rad 509 (W4378219799, dekningsgrad for inntekt opp til 3 G und) ble IKKE funnet på oppgitt side
 - OK   3 estimat=80 rad 509 (W4378219799, dekningsgrad for inntekt opp til 3 G und) står i sitatet
-- OK   2 sitat rad 510 (W4378219799, økning i dagpenger for person med inntek) står på oppgitt side
+- FEIL 2 sitat rad 510 (W4378219799, økning i dagpenger for person med inntek) ble IKKE funnet på oppgitt side
 - OK   3 estimat=18 rad 510 (W4378219799, økning i dagpenger for person med inntek) står i sitatet
-- OK   2 sitat rad 511 (W4378219799, permitterte: maksimal lengde på permitte) står på oppgitt side
+- FEIL 2 sitat rad 511 (W4378219799, permitterte: maksimal lengde på permitte) ble IKKE funnet på oppgitt side
 - OK   3 estimat=52 rad 511 (W4378219799, permitterte: maksimal lengde på permitte) står i sitatet
-- OK   2 sitat rad 512 (W4298248611, andel dagpengeperioder som når utløp av ) står på oppgitt side
+- FEIL 2 sitat rad 512 (W4298248611, andel dagpengeperioder som når utløp av ) ble IKKE funnet på oppgitt side
 - OK   3 estimat=5 rad 512 (W4298248611, andel dagpengeperioder som når utløp av ) står i sitatet
-- OK   2 sitat rad 513 (W4298248611, avgang til jobber av lav kvalitet stiger) står på oppgitt side
-- OK   2 sitat rad 514 (W4298248611, avgang til jobb av høy kvalitet under de) står på oppgitt side
+- FEIL 2 sitat rad 513 (W4298248611, avgang til jobber av lav kvalitet stiger) ble IKKE funnet på oppgitt side
+- FEIL 2 sitat rad 514 (W4298248611, avgang til jobb av høy kvalitet under de) ble IKKE funnet på oppgitt side
 - OK   3 estimat=26 rad 514 (W4298248611, avgang til jobb av høy kvalitet under de) står i sitatet
-- OK   2 sitat rad 515 (W4298248611, avgang til jobb av lav kvalitet under de) står på oppgitt side
+- FEIL 2 sitat rad 515 (W4298248611, avgang til jobb av lav kvalitet under de) ble IKKE funnet på oppgitt side
 - OK   3 estimat=85 rad 515 (W4298248611, avgang til jobb av lav kvalitet under de) står i sitatet
-- OK   2 sitat rad 516 (W3125893180, sykmeldinger blant arbeidsledige (overga) står på oppgitt side
+- FEIL 2 sitat rad 516 (W3125893180, sykmeldinger blant arbeidsledige (overga) ble IKKE funnet på oppgitt side
 - OK   3 estimat=36 rad 516 (W3125893180, sykmeldinger blant arbeidsledige (overga) står i sitatet
-- OK   2 sitat rad 517 (W3121467141, lavtlønte (nedre knekkpunkt): elastisite) står på oppgitt side
+- FEIL 2 sitat rad 517 (W3121467141, lavtlønte (nedre knekkpunkt): elastisite) ble IKKE funnet på oppgitt side
 - OK   3 estimat=1.4 rad 517 (W3121467141, lavtlønte (nedre knekkpunkt): elastisite) står i sitatet
-- OK   2 sitat rad 518 (W3121467141, høytlønte (øvre knekkpunkt): elastisitet) står på oppgitt side
+- FEIL 2 sitat rad 518 (W3121467141, høytlønte (øvre knekkpunkt): elastisitet) ble IKKE funnet på oppgitt side
 - OK   3 estimat=2 rad 518 (W3121467141, høytlønte (øvre knekkpunkt): elastisitet) står i sitatet
-- OK   2 sitat rad 519 (W4299870713, lønnsvekst og lønnsustabilitet over livs) står på oppgitt side
-- OK   2 sitat rad 520 (W2911979157, 50 år og eldre i utvalgte regioner: færr) står på oppgitt side
+- FEIL 2 sitat rad 519 (W4299870713, lønnsvekst og lønnsustabilitet over livs) ble IKKE funnet på oppgitt side
+- FEIL 2 sitat rad 520 (W2911979157, 50 år og eldre i utvalgte regioner: færr) ble IKKE funnet på oppgitt side
 - OK   3 estimat=18 rad 520 (W2911979157, 50 år og eldre i utvalgte regioner: færr) står i sitatet
-- OK   2 sitat rad 521 (W2911979157, 50 år og eldre i utvalgte regioner: ande) står på oppgitt side
+- FEIL 2 sitat rad 521 (W2911979157, 50 år og eldre i utvalgte regioner: ande) ble IKKE funnet på oppgitt side
 - OK   3 estimat=51.4 rad 521 (W2911979157, 50 år og eldre i utvalgte regioner: ande) står i sitatet
-- OK   2 sitat rad 522 (W4403164112, sannsynlighet for å være i arbeid, 25–60) står på oppgitt side
+- FEIL 2 sitat rad 522 (W4403164112, sannsynlighet for å være i arbeid, 25–60) ble IKKE funnet på oppgitt side
 - OK   3 estimat=3.9 rad 522 (W4403164112, sannsynlighet for å være i arbeid, 25–60) står i sitatet
-- OK   2 sitat rad 523 (W4400871115, elastisitet i ledighetsvarighet med hens) står på oppgitt side
+- FEIL 2 sitat rad 523 (W4400871115, elastisitet i ledighetsvarighet med hens) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.41 rad 523 (W4400871115, elastisitet i ledighetsvarighet med hens) står i sitatet
-- OK   2 sitat rad 524 (W4400871115, elastisitet i ledighetsvarighet med hens) står på oppgitt side
+- FEIL 2 sitat rad 524 (W4400871115, elastisitet i ledighetsvarighet med hens) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.6 rad 524 (W4400871115, elastisitet i ledighetsvarighet med hens) står i sitatet
-- OK   2 sitat rad 525 (W4400871115, økning i tid uten arbeid per måned lengr) står på oppgitt side
+- FEIL 2 sitat rad 525 (W4400871115, økning i tid uten arbeid per måned lengr) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.13 rad 525 (W4400871115, økning i tid uten arbeid per måned lengr) står i sitatet
-- OK   2 sitat rad 526 (W4400871115, konjunktur: reduksjon i varighetselastis) står på oppgitt side
+- FEIL 2 sitat rad 526 (W4400871115, konjunktur: reduksjon i varighetselastis) ble IKKE funnet på oppgitt side
 - OK   3 estimat=50 rad 526 (W4400871115, konjunktur: reduksjon i varighetselastis) står i sitatet
-- OK   2 sitat rad 527 (W4400871115, lønn i ny jobb: mer sjenerøse dagpenger ) står på oppgitt side
+- FEIL 2 sitat rad 527 (W4400871115, lønn i ny jobb: mer sjenerøse dagpenger ) ble IKKE funnet på oppgitt side
 - OK   2 sitat rad 530 (W2130044643, varighet på dagpenger og lønn ved gjenan) står på oppgitt side
 - OK   2 sitat rad 531 (W31426785, overgang til jobb og til trygdeytelser () står på oppgitt side
 - OK   2 sitat rad 532 (W2186134614, 50–54 år: sysselsetting og inntekt oppti) står på oppgitt side
@@ -2031,9 +2032,9 @@ Kjørt 2026-11-10.
 - OK   2 sitat rad 711 (W3121317656, sannsynlighet for å komme i arbeid: forv) står på oppgitt side
 - OK   2 sitat rad 712 (W1555405752, lønn, jobbkvalitet og tilknytning til ar) står på oppgitt side
 - OK   2 sitat rad 713 (W3162008734, sysselsetting på kort sikt for fortrengt) står på oppgitt side
-- OK   2 sitat rad 715 (W4401689619, elastisitet for maksimal periode, korrig) står på oppgitt side
+- FEIL 2 sitat rad 715 (W4401689619, elastisitet for maksimal periode, korrig) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.09 rad 715 (W4401689619, elastisitet for maksimal periode, korrig) står i sitatet
-- OK   2 sitat rad 716 (W4401689619, elastisitet for dekningsgrad, korrigert ) står på oppgitt side
+- FEIL 2 sitat rad 716 (W4401689619, elastisitet for dekningsgrad, korrigert ) ble IKKE funnet på oppgitt side
 - OK   3 estimat=0.21 rad 716 (W4401689619, elastisitet for dekningsgrad, korrigert ) står i sitatet
 - OK   7 statistikk rad 1 (Nav ARBS058, Mottakere av dagpenger, i alt) har alle felt
 - OK   7 statistikk rad 1 (Nav ARBS058, Mottakere av dagpenger, i alt) verdien 46292 står i statistikk/nav-arbs058-maneder-med-dagpenger.tsv
@@ -2176,12 +2177,9 @@ Kjørt 2026-11-10.
 - OK   5 tallet 12 i svaret finnes i estimat- eller statistikktabellen
 - OK   5 tallet 15 i svaret finnes i estimat- eller statistikktabellen
 - OK   5 tallet 150 i svaret finnes i estimat- eller statistikktabellen
-- OK   5 tallet 16 i svaret finnes i estimat- eller statistikktabellen
 - OK   5 tallet 18 i svaret finnes i estimat- eller statistikktabellen
 - OK   5 tallet 2.3 i svaret finnes i estimat- eller statistikktabellen
 - OK   5 tallet 2.5 i svaret finnes i estimat- eller statistikktabellen
-- OK   5 tallet 22 i svaret finnes i estimat- eller statistikktabellen
-- OK   5 tallet 24 i svaret finnes i estimat- eller statistikktabellen
 - OK   5 tallet 26 i svaret finnes i estimat- eller statistikktabellen
 - OK   5 tallet 28 i svaret finnes i estimat- eller statistikktabellen
 - OK   5 tallet 28.1 i svaret finnes i estimat- eller statistikktabellen
