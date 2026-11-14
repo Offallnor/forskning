@@ -1,10 +1,10 @@
 # Kontroll: lonnstilskudd-unge
 
-Kjørt 2026-11-14.
+Kjørt 2026-11-11.
 
-244 feil av 2482 kontroller.
+0 feil av 2491 kontroller.
 
-- OBS  10 24 sentrale valgte kilder er ikke lest i fulltekst (4 ikke lest, 20 bare sammendrag; se vedlegg_bc.py). Forbeholdene nevner uleste kilder: sjekk at antallet stemmer.
+- OBS  10 7 sentrale valgte kilder er ikke lest i fulltekst (2 ikke lest, 5 bare sammendrag; se vedlegg_bc.py). Forbeholdene nevner uleste kilder: sjekk at antallet stemmer.
 - OK   1 kilde 0198cc42013c-11c98f48-47eb-4b66-ac7a-ba3c43edfc15 finnes
 - OK   1 kilde 0198cc4d8ef8-65658ffa-652a-4f22-8ad7-a532e8424f55 finnes
 - OK   1 kilde 0198cc97b527-72b1e897-3c8b-47e2-8c9a-dd6326e550b4 finnes
@@ -301,7 +301,7 @@ Kjørt 2026-11-14.
 - OK   1 forfatter «Kluve» for W2010586812 står i metadata eller på tittelsiden
 - OK   1 forfatter «Kluve» for W4233730326 står i metadata eller på tittelsiden
 - OK   1 forfatter «Hardoy» for 0198cc97b527-72b1e897-3c8b-47e2-8c9a-dd6326e550b4 står i metadata eller på tittelsiden
-- FEIL 1 forfatter «Oslo Economics» for NB-4986 står IKKE i metadata eller på tittelsiden
+- OK   1 forfatter «Oslo Economics» for NB-4986 står i metadata eller på tittelsiden
 - OK   1 forfatter «Golombek» for 01995c22c1ef-0cff9bef-2a70-4f0e-ab36-b6d53db8f287 står i metadata eller på tittelsiden
 - OK   1 forfatter «Nossen» for AV-2024-3-04 står i metadata eller på tittelsiden
 - OK   1 forfatter «Sjögren» for W2039276519 står i metadata eller på tittelsiden
@@ -311,16 +311,16 @@ Kjørt 2026-11-14.
 - OK   1 forfatter «Kunze» for W7139965069 står i metadata eller på tittelsiden
 - OK   1 forfatter «Blundell» for W2150829746 står i metadata eller på tittelsiden
 - OK   1 forfatter «Hardoy» for 0198cc42013c-11c98f48-47eb-4b66-ac7a-ba3c43edfc15 står i metadata eller på tittelsiden
-- FEIL 1 forfatter «Oslo Economics» for NB-4986 står IKKE i metadata eller på tittelsiden
+- OK   1 forfatter «Oslo Economics» for NB-4986 står i metadata eller på tittelsiden
 - OK   1 forfatter «Caliendo» for W1577286609 står i metadata eller på tittelsiden
 - OK   1 forfatter «Eppel» for W292088744 står i metadata eller på tittelsiden
 - OK   1 forfatter «Hall» for W4391650787 står i metadata eller på tittelsiden
-- FEIL 1 forfatter «Hamre» for KU-cf0dd276-ef43-42af-b4c1-d2d3e4fcdfe3 står IKKE i metadata eller på tittelsiden
+- OK   1 forfatter «Hamre» for KU-cf0dd276-ef43-42af-b4c1-d2d3e4fcdfe3 står i metadata eller på tittelsiden
 - OK   1 forfatter «Hamre» for 019938797a78-07e5f4b2-85e7-46c1-aab1-30916c8257cd står i metadata eller på tittelsiden
 - OK   1 forfatter «Larsson» for W3123523177 står i metadata eller på tittelsiden
-- FEIL 1 forfatter «Göbel» for W28016323 står IKKE i metadata eller på tittelsiden
+- OK   1 forfatter «Göbel» for W28016323 står i metadata eller på tittelsiden
 - OK   1 forfatter «Krekó» for W4378233149 står i metadata eller på tittelsiden
-- FEIL 1 forfatter «Madoń» for W4286914340 står IKKE i metadata eller på tittelsiden
+- OK   1 forfatter «Madoń» for W4286914340 står i metadata eller på tittelsiden
 - OK   1 forfatter «Tattara» for W2149962000 står i metadata eller på tittelsiden
 - OK   1 forfatter «Golombek» for 01995c22c1ef-0cff9bef-2a70-4f0e-ab36-b6d53db8f287 står i metadata eller på tittelsiden
 - OK   1 forfatter «Markussen» for W2251574710 står i metadata eller på tittelsiden
@@ -333,7 +333,7 @@ Kjørt 2026-11-14.
 - OK   1 forfatter «Proba» for R-04f7a279dc står i metadata eller på tittelsiden
 - OK   1 forfatter «Groh» for W2306814610 står i metadata eller på tittelsiden
 - OK   1 forfatter «Armand» for W3124086298 står i metadata eller på tittelsiden
-- FEIL 1 forfatter «Oslo Economics» for KU-556513c4-aea7-4c77-a625-a2729b9f701e står IKKE i metadata eller på tittelsiden
+- OK   1 forfatter «Oslo Economics» for KU-556513c4-aea7-4c77-a625-a2729b9f701e står i metadata eller på tittelsiden
 - OK   1 forfatter «Oslo Economics» for R-ec3de7f99e står i metadata eller på tittelsiden
 - OK   1 forfatter «Card» for W1805206376 står i metadata eller på tittelsiden
 - OK   1 forfatter «Kluve» for W2010586812 står i metadata eller på tittelsiden
@@ -347,471 +347,471 @@ Kjørt 2026-11-14.
 - OK   1 forfatter «Bördős» for W2338040341 står i metadata eller på tittelsiden
 - OK   1 forfatter «Hall» for W4391650787 står i metadata eller på tittelsiden
 - OK   1 forfatter «Kangasharju» for W2016059253 står i metadata eller på tittelsiden
-- FEIL 2 sitat rad 1 (W4233730326, sysselsetting, unge 15–35 år; subsidiert) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 1 (W4233730326, sysselsetting, unge 15–35 år; subsidiert) står på oppgitt side
 - OK   3 estimat=0.02 rad 1 (W4233730326, sysselsetting, unge 15–35 år; subsidiert) står i sitatet
 - OK   3 ki_lav=-0.01 rad 1 (W4233730326, sysselsetting, unge 15–35 år; subsidiert) står i sitatet
 - OK   3 ki_hoy=0.06 rad 1 (W4233730326, sysselsetting, unge 15–35 år; subsidiert) står i sitatet
 - OK   4 rad 1 (W4233730326, sysselsetting, unge 15–35 år; subsidiert) estimat innenfor KI
-- FEIL 2 sitat rad 2 (W4233730326, arbeidsinntekt, unge 15–35 år; subsidier) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 2 (W4233730326, arbeidsinntekt, unge 15–35 år; subsidier) står på oppgitt side
 - OK   3 estimat=-0.01 rad 2 (W4233730326, arbeidsinntekt, unge 15–35 år; subsidier) står i sitatet
 - OK   3 ki_lav=-0.05 rad 2 (W4233730326, arbeidsinntekt, unge 15–35 år; subsidier) står i sitatet
 - OK   3 ki_hoy=0.03 rad 2 (W4233730326, arbeidsinntekt, unge 15–35 år; subsidier) står i sitatet
 - OK   4 rad 2 (W4233730326, arbeidsinntekt, unge 15–35 år; subsidier) estimat innenfor KI
-- FEIL 2 sitat rad 3 (W4233730326, sysselsetting, unge 15–35 år; subsidiert) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 3 (W4233730326, sysselsetting, unge 15–35 år; subsidiert) står på oppgitt side
 - OK   3 estimat=0.11 rad 3 (W4233730326, sysselsetting, unge 15–35 år; subsidiert) står i sitatet
 - OK   3 ki_lav=0.04 rad 3 (W4233730326, sysselsetting, unge 15–35 år; subsidiert) står i sitatet
 - OK   3 ki_hoy=0.18 rad 3 (W4233730326, sysselsetting, unge 15–35 år; subsidiert) står i sitatet
 - OK   4 rad 3 (W4233730326, sysselsetting, unge 15–35 år; subsidiert) estimat innenfor KI
-- FEIL 2 sitat rad 4 (W2259408401, sysselsetting, unge; antall effektestima) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 4 (W2259408401, sysselsetting, unge; antall effektestima) står på oppgitt side
 - OK   3 estimat=4 rad 4 (W2259408401, sysselsetting, unge; antall effektestima) står i sitatet
-- FEIL 2 sitat rad 5 (W2259408401, kostnad: gjennomsnittlig utgift per delt) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 5 (W2259408401, kostnad: gjennomsnittlig utgift per delt) står på oppgitt side
 - OK   3 estimat=3200 rad 5 (W2259408401, kostnad: gjennomsnittlig utgift per delt) står i sitatet
-- FEIL 2 sitat rad 6 (W2259408401, kostnad per deltaker i lønnstilskudd som) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 6 (W2259408401, kostnad per deltaker i lønnstilskudd som) står på oppgitt side
 - OK   3 estimat=40 rad 6 (W2259408401, kostnad per deltaker i lønnstilskudd som) står i sitatet
-- FEIL 2 sitat rad 7 (W2338040341, sysselsetting 2–3 år etter at tilskuddet) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 7 (W2338040341, sysselsetting 2–3 år etter at tilskuddet) står på oppgitt side
 - OK   3 estimat=10 rad 7 (W2338040341, sysselsetting 2–3 år etter at tilskuddet) står i sitatet
-- FEIL 2 sitat rad 8 (W2338040341, dødvekt: andel av dem som fikk jobb med ) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 8 (W2338040341, dødvekt: andel av dem som fikk jobb med ) står på oppgitt side
 - OK   3 estimat=60 rad 8 (W2338040341, dødvekt: andel av dem som fikk jobb med ) står i sitatet
-- FEIL 2 sitat rad 9 (W2338040341, akkumulert ordinær (usubsidiert) syssels) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 9 (W2338040341, akkumulert ordinær (usubsidiert) syssels) står på oppgitt side
 - OK   3 estimat=10 rad 9 (W2338040341, akkumulert ordinær (usubsidiert) syssels) står i sitatet
-- FEIL 2 sitat rad 10 (W2338040341, dødvekt: andel av tilskuddene i europeis) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 10 (W2338040341, dødvekt: andel av tilskuddene i europeis) står på oppgitt side
 - OK   3 estimat=50 rad 10 (W2338040341, dødvekt: andel av tilskuddene i europeis) står i sitatet
-- FEIL 2 sitat rad 11 (W1849775659, sysselsetting mer enn 2 år etter tiltake) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 11 (W1849775659, sysselsetting mer enn 2 år etter tiltake) står på oppgitt side
 - OK   3 estimat=45.9 rad 11 (W1849775659, sysselsetting mer enn 2 år etter tiltake) står i sitatet
-- FEIL 2 sitat rad 12 (W1849775659, sysselsetting under 1 år etter tiltaket,) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 12 (W1849775659, sysselsetting under 1 år etter tiltaket,) står på oppgitt side
 - OK   3 estimat=7.5 rad 12 (W1849775659, sysselsetting under 1 år etter tiltaket,) står i sitatet
-- FEIL 2 sitat rad 13 (W1849775659, sysselsetting mer enn 2 år etter tiltake) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 13 (W1849775659, sysselsetting mer enn 2 år etter tiltake) står på oppgitt side
 - OK   3 estimat=0.1 rad 13 (W1849775659, sysselsetting mer enn 2 år etter tiltake) står i sitatet
-- FEIL 2 sitat rad 14 (W1849775659, sysselsetting, alle tiltak og grupper, g) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 14 (W1849775659, sysselsetting, alle tiltak og grupper, g) står på oppgitt side
 - OK   3 estimat=0.19 rad 14 (W1849775659, sysselsetting, alle tiltak og grupper, g) står i sitatet
-- FEIL 2 sitat rad 15 (W2803699076, arbeidsmarkedsutfall 36 måneder etter st) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 15 (W2803699076, arbeidsmarkedsutfall 36 måneder etter st) står på oppgitt side
 - OK   3 estimat=0.0522 rad 15 (W2803699076, arbeidsmarkedsutfall 36 måneder etter st) står i sitatet
-- FEIL 2 sitat rad 16 (W4408632418, sysselsetting, median relativ effekt for) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 16 (W4408632418, sysselsetting, median relativ effekt for) står på oppgitt side
 - OK   3 estimat=11 rad 16 (W4408632418, sysselsetting, median relativ effekt for) står i sitatet
-- FEIL 2 sitat rad 17 (W4408632418, arbeidsinntekt, median relativ effekt fo) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 17 (W4408632418, arbeidsinntekt, median relativ effekt fo) står på oppgitt side
 - OK   3 estimat=16.7 rad 17 (W4408632418, arbeidsinntekt, median relativ effekt fo) står i sitatet
-- FEIL 2 sitat rad 18 (W4408632418, kostnad: median kostnad per deltaker for) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 18 (W4408632418, kostnad: median kostnad per deltaker for) står på oppgitt side
 - OK   3 estimat=1518 rad 18 (W4408632418, kostnad: median kostnad per deltaker for) står i sitatet
-- FEIL 2 sitat rad 19 (W3125938983, dødvekt og substitusjon samlet for lønns) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 19 (W3125938983, dødvekt og substitusjon samlet for lønns) står på oppgitt side
 - OK   3 estimat=90 rad 19 (W3125938983, dødvekt og substitusjon samlet for lønns) står i sitatet
-- FEIL 2 sitat rad 20 (W3125938983, netto sysselsettingsgevinst av lønnstils) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 20 (W3125938983, netto sysselsettingsgevinst av lønnstils) står på oppgitt side
 - OK   3 estimat=20 rad 20 (W3125938983, netto sysselsettingsgevinst av lønnstils) står i sitatet
-- FEIL 2 sitat rad 21 (W2128492593, ingen effektestimat for lønnstilskudd el) ble IKKE funnet på oppgitt side
-- FEIL 2 sitat rad 22 (W4302969421, ingen effektestimat for lønnstilskudd ti) ble IKKE funnet på oppgitt side
-- FEIL 2 sitat rad 24 (W1577648310, dødvekt: andel av målgruppen i New Deal ) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 21 (W2128492593, ingen effektestimat for lønnstilskudd el) står på oppgitt side
+- OK   2 sitat rad 22 (W4302969421, ingen effektestimat for lønnstilskudd ti) står på oppgitt side
+- OK   2 sitat rad 24 (W1577648310, dødvekt: andel av målgruppen i New Deal ) står på oppgitt side
 - OK   3 estimat=33 rad 24 (W1577648310, dødvekt: andel av målgruppen i New Deal ) står i sitatet
-- FEIL 2 sitat rad 25 (W1577648310, produktivitet (lønn) etter ett års ansie) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 25 (W1577648310, produktivitet (lønn) etter ett års ansie) står på oppgitt side
 - OK   3 estimat=15 rad 25 (W1577648310, produktivitet (lønn) etter ett års ansie) står i sitatet
-- FEIL 2 sitat rad 26 (W2134033543, ordinær sysselsetting tre år etter start) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 26 (W2134033543, ordinær sysselsetting tre år etter start) står på oppgitt side
 - OK   3 estimat=20 rad 26 (W2134033543, ordinær sysselsetting tre år etter start) står i sitatet
-- FEIL 2 sitat rad 27 (W2134033543, dødvekt (indikasjon): andel subsidierte ) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 27 (W2134033543, dødvekt (indikasjon): andel subsidierte ) står på oppgitt side
 - OK   3 estimat=40 rad 27 (W2134033543, dødvekt (indikasjon): andel subsidierte ) står i sitatet
-- FEIL 2 sitat rad 28 (W4392582001, ingen effektestimat i teksten; narrativ ) ble IKKE funnet på oppgitt side
-- FEIL 2 sitat rad 29 (AV-2023-1-02, sysselsettingssannsynlighet, lønnstilsku) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 28 (W4392582001, ingen effektestimat i teksten; narrativ ) står på oppgitt side
+- OK   2 sitat rad 29 (AV-2023-1-02, sysselsettingssannsynlighet, lønnstilsku) står på oppgitt side
 - OK   3 estimat=9.9 rad 29 (AV-2023-1-02, sysselsettingssannsynlighet, lønnstilsku) står i sitatet
-- FEIL 2 sitat rad 30 (0198cc97b527-72b1e897-3c8b-47e2-8c9a-dd6326e550b4, sannsynlighet for at en evaluering av lø) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 30 (0198cc97b527-72b1e897-3c8b-47e2-8c9a-dd6326e550b4, sannsynlighet for at en evaluering av lø) står på oppgitt side
 - OK   3 estimat=60 rad 30 (0198cc97b527-72b1e897-3c8b-47e2-8c9a-dd6326e550b4, sannsynlighet for at en evaluering av lø) står i sitatet
-- FEIL 2 sitat rad 31 (0198cc97b527-72b1e897-3c8b-47e2-8c9a-dd6326e550b4, sannsynlighet for at en evaluering av op) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 31 (0198cc97b527-72b1e897-3c8b-47e2-8c9a-dd6326e550b4, sannsynlighet for at en evaluering av op) står på oppgitt side
 - OK   3 estimat=42 rad 31 (0198cc97b527-72b1e897-3c8b-47e2-8c9a-dd6326e550b4, sannsynlighet for at en evaluering av op) står i sitatet
-- FEIL 2 sitat rad 32 (0198cc8fb35e-07b7e7c2-852e-452c-833a-f51d16f740a6, sannsynlighet for å være i jobb over fir) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 32 (0198cc8fb35e-07b7e7c2-852e-452c-833a-f51d16f740a6, sannsynlighet for å være i jobb over fir) står på oppgitt side
 - OK   3 estimat=10 rad 32 (0198cc8fb35e-07b7e7c2-852e-452c-833a-f51d16f740a6, sannsynlighet for å være i jobb over fir) står i sitatet
-- FEIL 2 sitat rad 33 (0198cc8fb35e-07b7e7c2-852e-452c-833a-f51d16f740a6, sysselsetting ett år eller mer etter del) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 33 (0198cc8fb35e-07b7e7c2-852e-452c-833a-f51d16f740a6, sysselsetting ett år eller mer etter del) står på oppgitt side
 - OK   3 estimat=24 rad 33 (0198cc8fb35e-07b7e7c2-852e-452c-833a-f51d16f740a6, sysselsetting ett år eller mer etter del) står i sitatet
-- FEIL 2 sitat rad 34 (0198cc8fb35e-07b7e7c2-852e-452c-833a-f51d16f740a6, heltidsarbeid to år etter start, lønnsti) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 34 (0198cc8fb35e-07b7e7c2-852e-452c-833a-f51d16f740a6, heltidsarbeid to år etter start, lønnsti) står på oppgitt side
 - OK   3 estimat=2.5 rad 34 (0198cc8fb35e-07b7e7c2-852e-452c-833a-f51d16f740a6, heltidsarbeid to år etter start, lønnsti) står i sitatet
-- FEIL 2 sitat rad 35 (0198cc67f381-10b52e27-ff19-4730-aef8-57aac6b80405, sannsynlighet for jobb ett år etter lønn) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 35 (0198cc67f381-10b52e27-ff19-4730-aef8-57aac6b80405, sannsynlighet for jobb ett år etter lønn) står på oppgitt side
 - OK   3 estimat=21 rad 35 (0198cc67f381-10b52e27-ff19-4730-aef8-57aac6b80405, sannsynlighet for jobb ett år etter lønn) står i sitatet
-- FEIL 2 sitat rad 36 (0198cc67f381-10b52e27-ff19-4730-aef8-57aac6b80405, optimal varighet av lønnstilskudd for un) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 36 (0198cc67f381-10b52e27-ff19-4730-aef8-57aac6b80405, optimal varighet av lønnstilskudd for un) står på oppgitt side
 - OK   3 estimat=3 rad 36 (0198cc67f381-10b52e27-ff19-4730-aef8-57aac6b80405, optimal varighet av lønnstilskudd for un) står i sitatet
-- FEIL 2 sitat rad 37 (W2596043699, sysselsetting, unge 18–24 år i New Deal ) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 37 (W2596043699, sysselsetting, unge 18–24 år i New Deal ) står på oppgitt side
 - OK   3 estimat=5 rad 37 (W2596043699, sysselsetting, unge 18–24 år i New Deal ) står i sitatet
-- FEIL 2 sitat rad 38 (W4399204261, overgang til jobb i privat sektor innen ) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 38 (W4399204261, overgang til jobb i privat sektor innen ) står på oppgitt side
 - OK   3 estimat=10.5 rad 38 (W4399204261, overgang til jobb i privat sektor innen ) står i sitatet
 - OK   3 ki_lav=3.0 rad 38 (W4399204261, overgang til jobb i privat sektor innen ) står i sitatet
 - OK   3 ki_hoy=18.1 rad 38 (W4399204261, overgang til jobb i privat sektor innen ) står i sitatet
 - OK   4 rad 38 (W4399204261, overgang til jobb i privat sektor innen ) estimat innenfor KI
-- FEIL 2 sitat rad 39 (W4399204261, kumulative kvartaler i privat sysselsett) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 39 (W4399204261, kumulative kvartaler i privat sysselsett) står på oppgitt side
 - OK   3 estimat=2.8 rad 39 (W4399204261, kumulative kvartaler i privat sysselsett) står i sitatet
 - OK   3 ki_lav=0.7 rad 39 (W4399204261, kumulative kvartaler i privat sysselsett) står i sitatet
 - OK   3 ki_hoy=5.0 rad 39 (W4399204261, kumulative kvartaler i privat sysselsett) står i sitatet
 - OK   4 rad 39 (W4399204261, kumulative kvartaler i privat sysselsett) estimat innenfor KI
-- FEIL 2 sitat rad 40 (W4399204261, kumulative kvartaler i privat sysselsett) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 40 (W4399204261, kumulative kvartaler i privat sysselsett) står på oppgitt side
 - OK   3 estimat=0.2 rad 40 (W4399204261, kumulative kvartaler i privat sysselsett) står i sitatet
-- FEIL 2 sitat rad 41 (W4399204261, kumulative kvartaler i offentlig syssels) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 41 (W4399204261, kumulative kvartaler i offentlig syssels) står på oppgitt side
 - OK   3 estimat=-2.6 rad 41 (W4399204261, kumulative kvartaler i offentlig syssels) står i sitatet
-- FEIL 2 sitat rad 42 (W4412889165, overgang til jobb innen 12 måneder, unge) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 42 (W4412889165, overgang til jobb innen 12 måneder, unge) står på oppgitt side
 - OK   3 estimat=0.5 rad 42 (W4412889165, overgang til jobb innen 12 måneder, unge) står i sitatet
-- FEIL 2 sitat rad 43 (W4412889165, overgang til jobb innen 12 måneder, unge) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 43 (W4412889165, overgang til jobb innen 12 måneder, unge) står på oppgitt side
 - OK   3 estimat=-0.8 rad 43 (W4412889165, overgang til jobb innen 12 måneder, unge) står i sitatet
-- FEIL 2 sitat rad 44 (W4412889165, dødvekt: andel av mottakerne (uten fullf) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 44 (W4412889165, dødvekt: andel av mottakerne (uten fullf) står på oppgitt side
 - OK   3 estimat=97.8 rad 44 (W4412889165, dødvekt: andel av mottakerne (uten fullf) står i sitatet
-- FEIL 2 sitat rad 45 (W4412889165, overgang til jobb via vikarbyrå innen et) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 45 (W4412889165, overgang til jobb via vikarbyrå innen et) står på oppgitt side
 - OK   3 estimat=-5.2 rad 45 (W4412889165, overgang til jobb via vikarbyrå innen et) står i sitatet
-- FEIL 2 sitat rad 47 (W7139965069, sannsynlighet for å ha forlatt ledighets) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 47 (W7139965069, sannsynlighet for å ha forlatt ledighets) står på oppgitt side
 - OK   3 estimat=2.8 rad 47 (W7139965069, sannsynlighet for å ha forlatt ledighets) står i sitatet
-- FEIL 2 sitat rad 48 (W7139965069, reduksjon i sannsynlighet for å forlate ) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 48 (W7139965069, reduksjon i sannsynlighet for å forlate ) står på oppgitt side
 - OK   3 estimat=3.5 rad 48 (W7139965069, reduksjon i sannsynlighet for å forlate ) står i sitatet
-- FEIL 2 sitat rad 49 (W7139965069, sannsynlighet for å ha forlatt ledighets) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 49 (W7139965069, sannsynlighet for å ha forlatt ledighets) står på oppgitt side
 - OK   3 estimat=3.5 rad 49 (W7139965069, sannsynlighet for å ha forlatt ledighets) står i sitatet
-- FEIL 2 sitat rad 50 (W4378233149, dager i jobb med lønn over 80 % av minst) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 50 (W4378233149, dager i jobb med lønn over 80 % av minst) står på oppgitt side
 - OK   3 estimat=14 rad 50 (W4378233149, dager i jobb med lønn over 80 % av minst) står i sitatet
-- FEIL 2 sitat rad 51 (W4378233149, dager i jobb som arbeidstaker de første ) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 51 (W4378233149, dager i jobb som arbeidstaker de første ) står på oppgitt side
 - OK   3 estimat=20 rad 51 (W4378233149, dager i jobb som arbeidstaker de første ) står i sitatet
-- FEIL 2 sitat rad 52 (W4378233149, kumulativ inntekt fra ordinært arbeid de) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 52 (W4378233149, kumulativ inntekt fra ordinært arbeid de) står på oppgitt side
 - OK   3 estimat=65 rad 52 (W4378233149, kumulativ inntekt fra ordinært arbeid de) står i sitatet
-- FEIL 2 sitat rad 53 (W2149962000, ekstra ansatte unge per deltakende bedri) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 53 (W2149962000, ekstra ansatte unge per deltakende bedri) står på oppgitt side
 - OK   3 estimat=1 rad 53 (W2149962000, ekstra ansatte unge per deltakende bedri) står i sitatet
-- FEIL 2 sitat rad 54 (W2149962000, økning i sysselsetting av berettigede un) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 54 (W2149962000, økning i sysselsetting av berettigede un) står på oppgitt side
 - OK   3 estimat=5 rad 54 (W2149962000, økning i sysselsetting av berettigede un) står i sitatet
-- FEIL 2 sitat rad 55 (W2149962000, samlet effekt på sysselsettingen av unge) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 55 (W2149962000, samlet effekt på sysselsettingen av unge) står på oppgitt side
 - OK   3 estimat=1.2 rad 55 (W2149962000, samlet effekt på sysselsettingen av unge) står i sitatet
-- FEIL 2 sitat rad 57 (W2150829746, overgang til jobb de første fire måneden) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 57 (W2150829746, overgang til jobb de første fire måneden) står på oppgitt side
 - OK   3 estimat=5 rad 57 (W2150829746, overgang til jobb de første fire måneden) står i sitatet
-- FEIL 2 sitat rad 58 (W2150829746, del av effekten som skyldes jobbsøkingsb) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 58 (W2150829746, del av effekten som skyldes jobbsøkingsb) står på oppgitt side
 - OK   3 estimat=1 rad 58 (W2150829746, del av effekten som skyldes jobbsøkingsb) står i sitatet
-- FEIL 2 sitat rad 59 (W2150829746, test av substitusjon: effekt med 25–30-å) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 59 (W2150829746, test av substitusjon: effekt med 25–30-å) står på oppgitt side
 - OK   3 estimat=10.4 rad 59 (W2150829746, test av substitusjon: effekt med 25–30-å) står i sitatet
-- FEIL 2 sitat rad 60 (W2150829746, overgang til jobb, unge kvinner (mindre ) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 60 (W2150829746, overgang til jobb, unge kvinner (mindre ) står på oppgitt side
 - OK   3 estimat=6.1 rad 60 (W2150829746, overgang til jobb, unge kvinner (mindre ) står i sitatet
-- FEIL 2 sitat rad 61 (W3134495723, sannsynlighet for å være i jobb ett år e) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 61 (W3134495723, sannsynlighet for å være i jobb ett år e) står på oppgitt side
 - OK   3 estimat=1.7 rad 61 (W3134495723, sannsynlighet for å være i jobb ett år e) står i sitatet
-- FEIL 2 sitat rad 62 (W3134495723, sannsynlighet for å være i jobb to år et) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 62 (W3134495723, sannsynlighet for å være i jobb to år et) står på oppgitt side
 - OK   3 estimat=-6.0 rad 62 (W3134495723, sannsynlighet for å være i jobb to år et) står i sitatet
-- FEIL 2 sitat rad 63 (W3134495723, sannsynlighet for ordinær utdanning ett ) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 63 (W3134495723, sannsynlighet for ordinær utdanning ett ) står på oppgitt side
 - OK   3 estimat=5.5 rad 63 (W3134495723, sannsynlighet for ordinær utdanning ett ) står i sitatet
-- FEIL 2 sitat rad 65 (W3123523177, Sysselsetting innen 12 mnd etter start, ) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 65 (W3123523177, Sysselsetting innen 12 mnd etter start, ) står på oppgitt side
 - OK   3 estimat=-0.07 rad 65 (W3123523177, Sysselsetting innen 12 mnd etter start, ) står i sitatet
-- FEIL 2 sitat rad 66 (W3123523177, Sysselsetting innen 24 mnd etter start, ) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 66 (W3123523177, Sysselsetting innen 24 mnd etter start, ) står på oppgitt side
 - OK   3 estimat=0.02 rad 66 (W3123523177, Sysselsetting innen 24 mnd etter start, ) står i sitatet
-- FEIL 2 sitat rad 67 (W3123523177, Årsinntekt ett år etter start (SEK), ung) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 67 (W3123523177, Årsinntekt ett år etter start (SEK), ung) står på oppgitt side
 - OK   3 estimat=-14565 rad 67 (W3123523177, Årsinntekt ett år etter start (SEK), ung) står i sitatet
-- FEIL 2 sitat rad 68 (W3123523177, Sysselsetting innen 12 mnd etter start, ) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 68 (W3123523177, Sysselsetting innen 12 mnd etter start, ) står på oppgitt side
 - OK   3 estimat=0.06 rad 68 (W3123523177, Sysselsetting innen 12 mnd etter start, ) står i sitatet
-- FEIL 2 sitat rad 69 (W1577286609, Månedlig sannsynlighet for ordinært arbe) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 69 (W1577286609, Månedlig sannsynlighet for ordinært arbe) står på oppgitt side
 - OK   3 estimat=20 rad 69 (W1577286609, Månedlig sannsynlighet for ordinært arbe) står i sitatet
-- FEIL 2 sitat rad 70 (W1577286609, Månedlig sannsynlighet for ordinært arbe) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 70 (W1577286609, Månedlig sannsynlighet for ordinært arbe) står på oppgitt side
 - OK   3 estimat=20 rad 70 (W1577286609, Månedlig sannsynlighet for ordinært arbe) står i sitatet
-- FEIL 2 sitat rad 71 (W1577286609, Kumulativ effekt på måneder i arbeid ett) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 71 (W1577286609, Kumulativ effekt på måneder i arbeid ett) står på oppgitt side
 - OK   3 estimat=9 rad 71 (W1577286609, Kumulativ effekt på måneder i arbeid ett) står i sitatet
-- FEIL 2 sitat rad 72 (W1577286609, Langsiktig sysselsettingseffekt: lønnsti) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 72 (W1577286609, Langsiktig sysselsettingseffekt: lønnsti) står på oppgitt side
 - OK   3 estimat=10 rad 72 (W1577286609, Langsiktig sysselsettingseffekt: lønnsti) står i sitatet
-- FEIL 2 sitat rad 73 (W292088744, Ekstra dager i ordinært (usubsidiert) ar) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 73 (W292088744, Ekstra dager i ordinært (usubsidiert) ar) står på oppgitt side
 - OK   3 estimat=229 rad 73 (W292088744, Ekstra dager i ordinært (usubsidiert) ar) står i sitatet
-- FEIL 2 sitat rad 74 (W292088744, Ekstra dager i ordinært arbeid over sju ) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 74 (W292088744, Ekstra dager i ordinært arbeid over sju ) står på oppgitt side
 - OK   3 estimat=141 rad 74 (W292088744, Ekstra dager i ordinært arbeid over sju ) står i sitatet
-- FEIL 2 sitat rad 75 (W292088744, Effekt økende med alder: menn 45-54 år 4) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 75 (W292088744, Effekt økende med alder: menn 45-54 år 4) står på oppgitt side
 - OK   3 estimat=408 rad 75 (W292088744, Effekt økende med alder: menn 45-54 år 4) står i sitatet
-- FEIL 2 sitat rad 76 (W292088744, Dødvekt: andel subsidierte ansettelser s) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 76 (W292088744, Dødvekt: andel subsidierte ansettelser s) står på oppgitt side
 - OK   3 estimat=52.2 rad 76 (W292088744, Dødvekt: andel subsidierte ansettelser s) står i sitatet
-- FEIL 2 sitat rad 77 (W28016323, Reduksjon i overgangsrate fra arbeid til) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 77 (W28016323, Reduksjon i overgangsrate fra arbeid til) står på oppgitt side
 - OK   3 estimat=30 rad 77 (W28016323, Reduksjon i overgangsrate fra arbeid til) står i sitatet
-- FEIL 2 sitat rad 78 (W28016323, Reduksjon i overgangsrate fra arbeid til) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 78 (W28016323, Reduksjon i overgangsrate fra arbeid til) står på oppgitt side
 - OK   3 estimat=36 rad 78 (W28016323, Reduksjon i overgangsrate fra arbeid til) står i sitatet
-- FEIL 2 sitat rad 79 (W2122776691, Andel med overgang til ordinært arbeid e) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 79 (W2122776691, Andel med overgang til ordinært arbeid e) står på oppgitt side
 - OK   3 estimat=23 rad 79 (W2122776691, Andel med overgang til ordinært arbeid e) står i sitatet
-- FEIL 2 sitat rad 80 (W2122776691, Andel som har forlatt arbeid, lavere ved) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 80 (W2122776691, Andel som har forlatt arbeid, lavere ved) står på oppgitt side
 - OK   3 estimat=15 rad 80 (W2122776691, Andel som har forlatt arbeid, lavere ved) står i sitatet
-- FEIL 2 sitat rad 81 (W2911773687, Andel som gikk fra første registrering t) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 81 (W2911773687, Andel som gikk fra første registrering t) står på oppgitt side
 - OK   3 estimat=94.5 rad 81 (W2911773687, Andel som gikk fra første registrering t) står i sitatet
-- FEIL 2 sitat rad 82 (W2911773687, Andel som kom tilbake til arbeidskontore) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 82 (W2911773687, Andel som kom tilbake til arbeidskontore) står på oppgitt side
 - OK   3 estimat=25.8 rad 82 (W2911773687, Andel som kom tilbake til arbeidskontore) står i sitatet
-- FEIL 2 sitat rad 83 (W2911773687, Andel som gikk til usubsidiert jobb fra ) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 83 (W2911773687, Andel som gikk til usubsidiert jobb fra ) står på oppgitt side
 - OK   3 estimat=63 rad 83 (W2911773687, Andel som gikk til usubsidiert jobb fra ) står i sitatet
-- FEIL 2 sitat rad 84 (W4286914340, Andel ute av ledighetsregister og ikke i) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 84 (W4286914340, Andel ute av ledighetsregister og ikke i) står på oppgitt side
 - OK   3 estimat=8 rad 84 (W4286914340, Andel ute av ledighetsregister og ikke i) står i sitatet
-- FEIL 2 sitat rad 85 (W4286914340, Andel ute av ledighetsregister 18 mnd et) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 85 (W4286914340, Andel ute av ledighetsregister 18 mnd et) står på oppgitt side
 - OK   3 estimat=13 rad 85 (W4286914340, Andel ute av ledighetsregister 18 mnd et) står i sitatet
-- FEIL 2 sitat rad 86 (W4407697413, Sysselsetting 36 mnd etter start (usubsi) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 86 (W4407697413, Sysselsetting 36 mnd etter start (usubsi) står på oppgitt side
 - OK   3 estimat=25.6 rad 86 (W4407697413, Sysselsetting 36 mnd etter start (usubsi) står i sitatet
-- FEIL 2 sitat rad 87 (W4407697413, Sysselsetting på kort sikt 34 pp og lang) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 87 (W4407697413, Sysselsetting på kort sikt 34 pp og lang) står på oppgitt side
 - OK   3 estimat=34 rad 87 (W4407697413, Sysselsetting på kort sikt 34 pp og lang) står i sitatet
-- FEIL 2 sitat rad 88 (W4407697413, Ekstra inntekt over tre år (EUR), alle a) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 88 (W4407697413, Ekstra inntekt over tre år (EUR), alle a) står på oppgitt side
 - OK   3 estimat=21086 rad 88 (W4407697413, Ekstra inntekt over tre år (EUR), alle a) står i sitatet
-- FEIL 2 sitat rad 89 (W4407697413, Kostnad: median tilskudd per deltaker (E) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 89 (W4407697413, Kostnad: median tilskudd per deltaker (E) står på oppgitt side
 - OK   3 estimat=6000 rad 89 (W4407697413, Kostnad: median tilskudd per deltaker (E) står i sitatet
-- FEIL 2 sitat rad 90 (W3124086298, Sysselsetting 3.5 år etter start, alle a) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 90 (W3124086298, Sysselsetting 3.5 år etter start, alle a) står på oppgitt side
 - OK   3 estimat=15 rad 90 (W3124086298, Sysselsetting 3.5 år etter start, alle a) står i sitatet
-- FEIL 2 sitat rad 91 (W3124086298, Sysselsetting etter ett år for 45 år og ) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 91 (W3124086298, Sysselsetting etter ett år for 45 år og ) står på oppgitt side
 - OK   3 estimat=8 rad 91 (W3124086298, Sysselsetting etter ett år for 45 år og ) står i sitatet
-- FEIL 2 sitat rad 92 (W3124086298, Sysselsetting for dem som fikk tilbud om) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 92 (W3124086298, Sysselsetting for dem som fikk tilbud om) står på oppgitt side
 - OK   3 estimat=50 rad 92 (W3124086298, Sysselsetting for dem som fikk tilbud om) står i sitatet
-- FEIL 2 sitat rad 93 (W3097344849, Effekt etter avsluttet lønnstilskudd på ) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 93 (W3097344849, Effekt etter avsluttet lønnstilskudd på ) står på oppgitt side
 - OK   3 estimat=4 rad 93 (W3097344849, Effekt etter avsluttet lønnstilskudd på ) står i sitatet
-- FEIL 2 sitat rad 94 (W3097344849, Effekt etter avsluttet opplæring/utdanni) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 94 (W3097344849, Effekt etter avsluttet opplæring/utdanni) står på oppgitt side
 - OK   3 estimat=2 rad 94 (W3097344849, Effekt etter avsluttet opplæring/utdanni) står i sitatet
-- FEIL 2 sitat rad 95 (W3097344849, Overgang til trygdeytelse under lønnstil) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 95 (W3097344849, Overgang til trygdeytelse under lønnstil) står på oppgitt side
 - OK   3 estimat=45 rad 95 (W3097344849, Overgang til trygdeytelse under lønnstil) står i sitatet
-- FEIL 2 sitat rad 96 (0198cc45bd5e-8c80f1e9-8747-46f0-ba71-4147a95ddc47, Andel i arbeid i november om lag to år e) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 96 (0198cc45bd5e-8c80f1e9-8747-46f0-ba71-4147a95ddc47, Andel i arbeid i november om lag to år e) står på oppgitt side
 - OK   3 estimat=69 rad 96 (0198cc45bd5e-8c80f1e9-8747-46f0-ba71-4147a95ddc47, Andel i arbeid i november om lag to år e) står i sitatet
-- FEIL 2 sitat rad 97 (0198cc45bd5e-8c80f1e9-8747-46f0-ba71-4147a95ddc47, Andel i arbeid to år etter start på midl) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 97 (0198cc45bd5e-8c80f1e9-8747-46f0-ba71-4147a95ddc47, Andel i arbeid to år etter start på midl) står på oppgitt side
 - OK   3 estimat=67 rad 97 (0198cc45bd5e-8c80f1e9-8747-46f0-ba71-4147a95ddc47, Andel i arbeid to år etter start på midl) står i sitatet
-- FEIL 2 sitat rad 98 (0198cc45bd5e-8c80f1e9-8747-46f0-ba71-4147a95ddc47, Beregnet jobbsannsynlighet to år etter s) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 98 (0198cc45bd5e-8c80f1e9-8747-46f0-ba71-4147a95ddc47, Beregnet jobbsannsynlighet to år etter s) står på oppgitt side
 - OK   3 estimat=2.6 rad 98 (0198cc45bd5e-8c80f1e9-8747-46f0-ba71-4147a95ddc47, Beregnet jobbsannsynlighet to år etter s) står i sitatet
-- FEIL 2 sitat rad 99 (AV-2021-1-03, Andel som følger løpebanen «Til heltidsj) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 99 (AV-2021-1-03, Andel som følger løpebanen «Til heltidsj) står på oppgitt side
 - OK   3 estimat=47 rad 99 (AV-2021-1-03, Andel som følger løpebanen «Til heltidsj) står i sitatet
-- FEIL 2 sitat rad 100 (AV-2021-1-03, Andel i en av de tre jobbdominerte løpeb) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 100 (AV-2021-1-03, Andel i en av de tre jobbdominerte løpeb) står på oppgitt side
 - OK   3 estimat=71 rad 100 (AV-2021-1-03, Andel i en av de tre jobbdominerte løpeb) står i sitatet
-- FEIL 2 sitat rad 101 (AV-2021-1-03, Andel i løpebanen «Til heltidsjobb», ung) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 101 (AV-2021-1-03, Andel i løpebanen «Til heltidsjobb», ung) står på oppgitt side
 - OK   3 estimat=21 rad 101 (AV-2021-1-03, Andel i løpebanen «Til heltidsjobb», ung) står i sitatet
-- FEIL 2 sitat rad 102 (AV-2023-2-06, Andel i klyngen «Tidlig jobb» over fem å) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 102 (AV-2023-2-06, Andel i klyngen «Tidlig jobb» over fem å) står på oppgitt side
 - OK   3 estimat=50 rad 102 (AV-2023-2-06, Andel i klyngen «Tidlig jobb» over fem å) står i sitatet
-- FEIL 2 sitat rad 103 (AV-2023-2-06, Andel i de to klyngene der flertallet bl) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 103 (AV-2023-2-06, Andel i de to klyngene der flertallet bl) står på oppgitt side
 - OK   3 estimat=28 rad 103 (AV-2023-2-06, Andel i de to klyngene der flertallet bl) står i sitatet
-- FEIL 2 sitat rad 104 (019938797a78-07e5f4b2-85e7-46c1-aab1-30916c8257cd, Andel arbeidstakere ett år etter start p) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 104 (019938797a78-07e5f4b2-85e7-46c1-aab1-30916c8257cd, Andel arbeidstakere ett år etter start p) står på oppgitt side
 - OK   3 estimat=21 rad 104 (019938797a78-07e5f4b2-85e7-46c1-aab1-30916c8257cd, Andel arbeidstakere ett år etter start p) står i sitatet
-- FEIL 2 sitat rad 105 (019938797a78-07e5f4b2-85e7-46c1-aab1-30916c8257cd, Effekt på andel arbeidstakere ett år ett) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 105 (019938797a78-07e5f4b2-85e7-46c1-aab1-30916c8257cd, Effekt på andel arbeidstakere ett år ett) står på oppgitt side
 - OK   3 estimat=0.04 rad 105 (019938797a78-07e5f4b2-85e7-46c1-aab1-30916c8257cd, Effekt på andel arbeidstakere ett år ett) står i sitatet
-- FEIL 2 sitat rad 106 (019938797a78-07e5f4b2-85e7-46c1-aab1-30916c8257cd, Effekt på andel arbeidstakere ett år ett) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 106 (019938797a78-07e5f4b2-85e7-46c1-aab1-30916c8257cd, Effekt på andel arbeidstakere ett år ett) står på oppgitt side
 - OK   3 estimat=0.24 rad 106 (019938797a78-07e5f4b2-85e7-46c1-aab1-30916c8257cd, Effekt på andel arbeidstakere ett år ett) står i sitatet
-- FEIL 2 sitat rad 107 (W4391650787, Økt sannsynlighet for overgang til ordin) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 107 (W4391650787, Økt sannsynlighet for overgang til ordin) står på oppgitt side
 - OK   3 estimat=67 rad 107 (W4391650787, Økt sannsynlighet for overgang til ordin) står i sitatet
-- FEIL 2 sitat rad 108 (W4391650787, Effekt etter lønnstilskudd på overgang t) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 108 (W4391650787, Effekt etter lønnstilskudd på overgang t) står på oppgitt side
 - OK   3 estimat=1.091 rad 108 (W4391650787, Effekt etter lønnstilskudd på overgang t) står i sitatet
-- FEIL 2 sitat rad 109 (W4391650787, Effekt etter lønnstilskudd på overgang t) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 109 (W4391650787, Effekt etter lønnstilskudd på overgang t) står på oppgitt side
 - OK   3 estimat=1.541 rad 109 (W4391650787, Effekt etter lønnstilskudd på overgang t) står i sitatet
-- FEIL 2 sitat rad 110 (0198cc42013c-11c98f48-47eb-4b66-ac7a-ba3c43edfc15, Økning i overgangsraten fra ledighet til) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 110 (0198cc42013c-11c98f48-47eb-4b66-ac7a-ba3c43edfc15, Økning i overgangsraten fra ledighet til) står på oppgitt side
 - OK   3 estimat=10.65 rad 110 (0198cc42013c-11c98f48-47eb-4b66-ac7a-ba3c43edfc15, Økning i overgangsraten fra ledighet til) står i sitatet
-- FEIL 2 sitat rad 111 (0198cc4d8ef8-65658ffa-652a-4f22-8ad7-a532e8424f55, Overgang til jobb etter avsluttet lønnst) ble IKKE funnet på oppgitt side
-- FEIL 2 sitat rad 112 (0198cc4d8ef8-65658ffa-652a-4f22-8ad7-a532e8424f55, Forskjell i sannsynlighet for å være sys) ble IKKE funnet på oppgitt side
-- FEIL 2 sitat rad 113 (W1837038974, Økt sannsynlighet for ordinært arbeid me) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 111 (0198cc4d8ef8-65658ffa-652a-4f22-8ad7-a532e8424f55, Overgang til jobb etter avsluttet lønnst) står på oppgitt side
+- OK   2 sitat rad 112 (0198cc4d8ef8-65658ffa-652a-4f22-8ad7-a532e8424f55, Forskjell i sannsynlighet for å være sys) står på oppgitt side
+- OK   2 sitat rad 113 (W1837038974, Økt sannsynlighet for ordinært arbeid me) står på oppgitt side
 - OK   3 estimat=65 rad 113 (W1837038974, Økt sannsynlighet for ordinært arbeid me) står i sitatet
-- FEIL 2 sitat rad 114 (W1837038974, Overgang til ordinært arbeid etter avslu) ble IKKE funnet på oppgitt side
-- FEIL 2 sitat rad 115 (W1837038974, Lavere sannsynlighet for å forlate ordin) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 114 (W1837038974, Overgang til ordinært arbeid etter avslu) står på oppgitt side
+- OK   2 sitat rad 115 (W1837038974, Lavere sannsynlighet for å forlate ordin) står på oppgitt side
 - OK   3 estimat=60 rad 115 (W1837038974, Lavere sannsynlighet for å forlate ordin) står i sitatet
-- FEIL 2 sitat rad 116 (W1837038974, Andel deltakere på lønnstilskudd som fin) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 116 (W1837038974, Andel deltakere på lønnstilskudd som fin) står på oppgitt side
 - OK   3 estimat=50 rad 116 (W1837038974, Andel deltakere på lønnstilskudd som fin) står i sitatet
-- FEIL 2 sitat rad 117 (NB-4986, Midlertidig lønnstilskudd, alle aldre: a) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 117 (NB-4986, Midlertidig lønnstilskudd, alle aldre: a) står på oppgitt side
 - OK   3 estimat=5 rad 117 (NB-4986, Midlertidig lønnstilskudd, alle aldre: a) står i sitatet
-- FEIL 2 sitat rad 118 (NB-4986, Midlertidig lønnstilskudd, alle aldre: å) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 118 (NB-4986, Midlertidig lønnstilskudd, alle aldre: å) står på oppgitt side
 - OK   3 estimat=200000 rad 118 (NB-4986, Midlertidig lønnstilskudd, alle aldre: å) står i sitatet
-- FEIL 2 sitat rad 119 (NB-4986, Gruppe under 20 år: midlertidig lønnstil) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 119 (NB-4986, Gruppe under 20 år: midlertidig lønnstil) står på oppgitt side
 - OK   3 estimat=1.22 rad 119 (NB-4986, Gruppe under 20 år: midlertidig lønnstil) står i sitatet
-- FEIL 2 sitat rad 120 (NB-4986, Gruppe 20–29 år: midlertidig lønnstilsku) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 120 (NB-4986, Gruppe 20–29 år: midlertidig lønnstilsku) står på oppgitt side
 - OK   3 estimat=1.50 rad 120 (NB-4986, Gruppe 20–29 år: midlertidig lønnstilsku) står i sitatet
-- FEIL 2 sitat rad 121 (NB-4986, Gruppe 50–59 år: midlertidig lønnstilsku) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 121 (NB-4986, Gruppe 50–59 år: midlertidig lønnstilsku) står på oppgitt side
 - OK   3 estimat=2.62 rad 121 (NB-4986, Gruppe 50–59 år: midlertidig lønnstilsku) står i sitatet
-- FEIL 2 sitat rad 122 (NB-4986, Midlertidig lønnstilskudd: sum prissatte) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 122 (NB-4986, Midlertidig lønnstilskudd: sum prissatte) står på oppgitt side
 - OK   3 estimat=1117000 rad 122 (NB-4986, Midlertidig lønnstilskudd: sum prissatte) står i sitatet
-- FEIL 2 sitat rad 123 (NB-4986, Midlertidig lønnstilskudd: effekt på mån) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 123 (NB-4986, Midlertidig lønnstilskudd: effekt på mån) står på oppgitt side
 - OK   3 estimat=360 rad 123 (NB-4986, Midlertidig lønnstilskudd: effekt på mån) står i sitatet
-- FEIL 2 sitat rad 124 (NB-4986, Midlertidig lønnstilskudd: Navs budsjett) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 124 (NB-4986, Midlertidig lønnstilskudd: Navs budsjett) står på oppgitt side
 - OK   3 estimat=23400 rad 124 (NB-4986, Midlertidig lønnstilskudd: Navs budsjett) står i sitatet
-- FEIL 2 sitat rad 125 (NB-4986, Midlertidig lønnstilskudd: andel i arbei) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 125 (NB-4986, Midlertidig lønnstilskudd: andel i arbei) står på oppgitt side
 - OK   3 estimat=69 rad 125 (NB-4986, Midlertidig lønnstilskudd: andel i arbei) står i sitatet
-- FEIL 2 sitat rad 126 (NB-4986, Midlertidig lønnstilskudd: tiltaksmånede) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 126 (NB-4986, Midlertidig lønnstilskudd: tiltaksmånede) står på oppgitt side
 - OK   3 estimat=3 rad 126 (NB-4986, Midlertidig lønnstilskudd: tiltaksmånede) står i sitatet
-- FEIL 2 sitat rad 128 (KU-556513c4-aea7-4c77-a625-a2729b9f701e, Ingen egne effekttall for lønnstilskudd ) ble IKKE funnet på oppgitt side
-- FEIL 2 sitat rad 129 (KU-556513c4-aea7-4c77-a625-a2729b9f701e, Midlertidig lønnstilskudd: andel av alle) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 128 (KU-556513c4-aea7-4c77-a625-a2729b9f701e, Ingen egne effekttall for lønnstilskudd ) står på oppgitt side
+- OK   2 sitat rad 129 (KU-556513c4-aea7-4c77-a625-a2729b9f701e, Midlertidig lønnstilskudd: andel av alle) står på oppgitt side
 - OK   3 estimat=9.2 rad 129 (KU-556513c4-aea7-4c77-a625-a2729b9f701e, Midlertidig lønnstilskudd: andel av alle) står i sitatet
-- FEIL 2 sitat rad 130 (KU-556513c4-aea7-4c77-a625-a2729b9f701e, Midlertidig lønnstilskudd: andel av alle) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 130 (KU-556513c4-aea7-4c77-a625-a2729b9f701e, Midlertidig lønnstilskudd: andel av alle) står på oppgitt side
 - OK   3 estimat=8.3 rad 130 (KU-556513c4-aea7-4c77-a625-a2729b9f701e, Midlertidig lønnstilskudd: andel av alle) står i sitatet
-- FEIL 2 sitat rad 131 (KU-556513c4-aea7-4c77-a625-a2729b9f701e, Midlertidig lønnstilskudd: samfunnsøkono) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 131 (KU-556513c4-aea7-4c77-a625-a2729b9f701e, Midlertidig lønnstilskudd: samfunnsøkono) står på oppgitt side
 - OK   3 estimat=20 rad 131 (KU-556513c4-aea7-4c77-a625-a2729b9f701e, Midlertidig lønnstilskudd: samfunnsøkono) står i sitatet
-- FEIL 2 sitat rad 132 (KU-556513c4-aea7-4c77-a625-a2729b9f701e, Forslag 8 (budsjettansvar til Nav-kontor) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 132 (KU-556513c4-aea7-4c77-a625-a2729b9f701e, Forslag 8 (budsjettansvar til Nav-kontor) står på oppgitt side
 - OK   3 estimat=9 rad 132 (KU-556513c4-aea7-4c77-a625-a2729b9f701e, Forslag 8 (budsjettansvar til Nav-kontor) står i sitatet
-- FEIL 2 sitat rad 133 (KU-cf0dd276-ef43-42af-b4c1-d2d3e4fcdfe3, Lønnstilskudd, alle 16–54 år: andel arbe) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 133 (KU-cf0dd276-ef43-42af-b4c1-d2d3e4fcdfe3, Lønnstilskudd, alle 16–54 år: andel arbe) står på oppgitt side
 - OK   3 estimat=22 rad 133 (KU-cf0dd276-ef43-42af-b4c1-d2d3e4fcdfe3, Lønnstilskudd, alle 16–54 år: andel arbe) står i sitatet
-- FEIL 2 sitat rad 134 (KU-cf0dd276-ef43-42af-b4c1-d2d3e4fcdfe3, Gruppe 16–24 år: lønnstilskudd, forskjel) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 134 (KU-cf0dd276-ef43-42af-b4c1-d2d3e4fcdfe3, Gruppe 16–24 år: lønnstilskudd, forskjel) står på oppgitt side
 - OK   3 estimat=0.20 rad 134 (KU-cf0dd276-ef43-42af-b4c1-d2d3e4fcdfe3, Gruppe 16–24 år: lønnstilskudd, forskjel) står i sitatet
-- FEIL 2 sitat rad 135 (KU-cf0dd276-ef43-42af-b4c1-d2d3e4fcdfe3, Gruppe 25–54 år: lønnstilskudd, forskjel) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 135 (KU-cf0dd276-ef43-42af-b4c1-d2d3e4fcdfe3, Gruppe 25–54 år: lønnstilskudd, forskjel) står på oppgitt side
 - OK   3 estimat=0.23 rad 135 (KU-cf0dd276-ef43-42af-b4c1-d2d3e4fcdfe3, Gruppe 25–54 år: lønnstilskudd, forskjel) står i sitatet
-- FEIL 2 sitat rad 136 (KU-cf0dd276-ef43-42af-b4c1-d2d3e4fcdfe3, Gruppe unge menn 16–24 år uten dagpenger) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 136 (KU-cf0dd276-ef43-42af-b4c1-d2d3e4fcdfe3, Gruppe unge menn 16–24 år uten dagpenger) står på oppgitt side
 - OK   3 estimat=0.36 rad 136 (KU-cf0dd276-ef43-42af-b4c1-d2d3e4fcdfe3, Gruppe unge menn 16–24 år uten dagpenger) står i sitatet
-- FEIL 2 sitat rad 137 (KU-cf0dd276-ef43-42af-b4c1-d2d3e4fcdfe3, Gruppe unge menn 16–24 år med dagpenger:) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 137 (KU-cf0dd276-ef43-42af-b4c1-d2d3e4fcdfe3, Gruppe unge menn 16–24 år med dagpenger:) står på oppgitt side
 - OK   3 estimat=0.08 rad 137 (KU-cf0dd276-ef43-42af-b4c1-d2d3e4fcdfe3, Gruppe unge menn 16–24 år med dagpenger:) står i sitatet
-- FEIL 2 sitat rad 138 (KU-cf0dd276-ef43-42af-b4c1-d2d3e4fcdfe3, Gruppe unge kvinner 16–24 år med dagpeng) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 138 (KU-cf0dd276-ef43-42af-b4c1-d2d3e4fcdfe3, Gruppe unge kvinner 16–24 år med dagpeng) står på oppgitt side
 - OK   3 estimat=0.20 rad 138 (KU-cf0dd276-ef43-42af-b4c1-d2d3e4fcdfe3, Gruppe unge kvinner 16–24 år med dagpeng) står i sitatet
-- FEIL 2 sitat rad 139 (KU-cf0dd276-ef43-42af-b4c1-d2d3e4fcdfe3, Gruppe unge kvinner 16–24 år uten dagpen) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 139 (KU-cf0dd276-ef43-42af-b4c1-d2d3e4fcdfe3, Gruppe unge kvinner 16–24 år uten dagpen) står på oppgitt side
 - OK   3 estimat=0.08 rad 139 (KU-cf0dd276-ef43-42af-b4c1-d2d3e4fcdfe3, Gruppe unge kvinner 16–24 år uten dagpen) står i sitatet
-- FEIL 2 sitat rad 140 (KU-cf0dd276-ef43-42af-b4c1-d2d3e4fcdfe3, Gruppe 16–24 år: arbeidspraksis (til sam) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 140 (KU-cf0dd276-ef43-42af-b4c1-d2d3e4fcdfe3, Gruppe 16–24 år: arbeidspraksis (til sam) står på oppgitt side
 - OK   3 estimat=0.04 rad 140 (KU-cf0dd276-ef43-42af-b4c1-d2d3e4fcdfe3, Gruppe 16–24 år: arbeidspraksis (til sam) står i sitatet
-- FEIL 2 sitat rad 141 (KU-cf0dd276-ef43-42af-b4c1-d2d3e4fcdfe3, Arbeidspraksis, alle 16–54 år (til samme) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 141 (KU-cf0dd276-ef43-42af-b4c1-d2d3e4fcdfe3, Arbeidspraksis, alle 16–54 år (til samme) står på oppgitt side
 - OK   3 estimat=6 rad 141 (KU-cf0dd276-ef43-42af-b4c1-d2d3e4fcdfe3, Arbeidspraksis, alle 16–54 år (til samme) står i sitatet
-- FEIL 2 sitat rad 142 (R-cf1a71c1b9, Alle aldre: sannsynlighet for sysselsett) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 142 (R-cf1a71c1b9, Alle aldre: sannsynlighet for sysselsett) står på oppgitt side
 - OK   3 estimat=9.9 rad 142 (R-cf1a71c1b9, Alle aldre: sannsynlighet for sysselsett) står i sitatet
-- FEIL 2 sitat rad 143 (R-cf1a71c1b9, Alle aldre: sannsynlighet for sysselsett) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 143 (R-cf1a71c1b9, Alle aldre: sannsynlighet for sysselsett) står på oppgitt side
 - OK   3 estimat=4.7 rad 143 (R-cf1a71c1b9, Alle aldre: sannsynlighet for sysselsett) står i sitatet
-- FEIL 2 sitat rad 144 (R-cf1a71c1b9, Alle aldre: sannsynlighet for sysselsett) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 144 (R-cf1a71c1b9, Alle aldre: sannsynlighet for sysselsett) står på oppgitt side
 - OK   3 estimat=1.5 rad 144 (R-cf1a71c1b9, Alle aldre: sannsynlighet for sysselsett) står i sitatet
-- FEIL 2 sitat rad 145 (R-cf1a71c1b9, Gruppe under 25 år: tiltak rettet mot un) ble IKKE funnet på oppgitt side
-- FEIL 2 sitat rad 146 (R-cf1a71c1b9, Gruppe unge: mindre utbytte av tiltaksde) ble IKKE funnet på oppgitt side
-- FEIL 2 sitat rad 147 (R-cf1a71c1b9, Gruppe 16–29 år: opplæring, lønnstilskud) ble IKKE funnet på oppgitt side
-- FEIL 2 sitat rad 148 (R-cf1a71c1b9, Gruppe unge uten fullført videregående: ) ble IKKE funnet på oppgitt side
-- FEIL 2 sitat rad 149 (R-cf1a71c1b9, Gruppe unge med nedsatt arbeidsevne (18–) ble IKKE funnet på oppgitt side
-- FEIL 2 sitat rad 150 (R-cf1a71c1b9, Gruppe under 30 år med nedsatt arbeidsev) ble IKKE funnet på oppgitt side
-- FEIL 2 sitat rad 151 (R-cf1a71c1b9, Alle aldre: midlertidig lønnstilskudd ha) ble IKKE funnet på oppgitt side
-- FEIL 2 sitat rad 152 (R-cf1a71c1b9, Personer med nedsatt arbeidsevne: midler) ble IKKE funnet på oppgitt side
-- FEIL 2 sitat rad 153 (R-cf1a71c1b9, Gruppe unge arbeidssøkere: lønnstilskudd) ble IKKE funnet på oppgitt side
-- FEIL 2 sitat rad 154 (R-cf1a71c1b9, Forbehold: positiv seleksjon til lønnsti) ble IKKE funnet på oppgitt side
-- FEIL 2 sitat rad 155 (R-04f7a279dc, Alle aldre: sysselsatt 12 måneder etter ) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 145 (R-cf1a71c1b9, Gruppe under 25 år: tiltak rettet mot un) står på oppgitt side
+- OK   2 sitat rad 146 (R-cf1a71c1b9, Gruppe unge: mindre utbytte av tiltaksde) står på oppgitt side
+- OK   2 sitat rad 147 (R-cf1a71c1b9, Gruppe 16–29 år: opplæring, lønnstilskud) står på oppgitt side
+- OK   2 sitat rad 148 (R-cf1a71c1b9, Gruppe unge uten fullført videregående: ) står på oppgitt side
+- OK   2 sitat rad 149 (R-cf1a71c1b9, Gruppe unge med nedsatt arbeidsevne (18–) står på oppgitt side
+- OK   2 sitat rad 150 (R-cf1a71c1b9, Gruppe under 30 år med nedsatt arbeidsev) står på oppgitt side
+- OK   2 sitat rad 151 (R-cf1a71c1b9, Alle aldre: midlertidig lønnstilskudd ha) står på oppgitt side
+- OK   2 sitat rad 152 (R-cf1a71c1b9, Personer med nedsatt arbeidsevne: midler) står på oppgitt side
+- OK   2 sitat rad 153 (R-cf1a71c1b9, Gruppe unge arbeidssøkere: lønnstilskudd) står på oppgitt side
+- OK   2 sitat rad 154 (R-cf1a71c1b9, Forbehold: positiv seleksjon til lønnsti) står på oppgitt side
+- OK   2 sitat rad 155 (R-04f7a279dc, Alle aldre: sysselsatt 12 måneder etter ) står på oppgitt side
 - OK   3 estimat=1.0 rad 155 (R-04f7a279dc, Alle aldre: sysselsatt 12 måneder etter ) står i sitatet
-- FEIL 2 sitat rad 156 (R-04f7a279dc, Alle aldre: sysselsatt 24 måneder etter ) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 156 (R-04f7a279dc, Alle aldre: sysselsatt 24 måneder etter ) står på oppgitt side
 - OK   3 estimat=1.8 rad 156 (R-04f7a279dc, Alle aldre: sysselsatt 24 måneder etter ) står i sitatet
-- FEIL 2 sitat rad 157 (R-04f7a279dc, Alle aldre: gjennomsnittlig sysselsettin) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 157 (R-04f7a279dc, Alle aldre: gjennomsnittlig sysselsettin) står på oppgitt side
 - OK   3 estimat=25 rad 157 (R-04f7a279dc, Alle aldre: gjennomsnittlig sysselsettin) står i sitatet
-- FEIL 2 sitat rad 158 (R-04f7a279dc, Identifikasjon: ingen god kontrollgruppe) ble IKKE funnet på oppgitt side
-- FEIL 2 sitat rad 159 (R-04f7a279dc, Gruppe under 30 år: andel av deltakerne ) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 158 (R-04f7a279dc, Identifikasjon: ingen god kontrollgruppe) står på oppgitt side
+- OK   2 sitat rad 159 (R-04f7a279dc, Gruppe under 30 år: andel av deltakerne ) står på oppgitt side
 - OK   3 estimat=30 rad 159 (R-04f7a279dc, Gruppe under 30 år: andel av deltakerne ) står i sitatet
-- FEIL 2 sitat rad 160 (R-04f7a279dc, Alle aldre: antall av 1 886 deltakere so) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 160 (R-04f7a279dc, Alle aldre: antall av 1 886 deltakere so) står på oppgitt side
 - OK   3 estimat=957 rad 160 (R-04f7a279dc, Alle aldre: antall av 1 886 deltakere so) står i sitatet
-- FEIL 2 sitat rad 161 (R-04f7a279dc, Alle aldre: i jobb uten trygdeytelser 12) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 161 (R-04f7a279dc, Alle aldre: i jobb uten trygdeytelser 12) står på oppgitt side
 - OK   3 estimat=36 rad 161 (R-04f7a279dc, Alle aldre: i jobb uten trygdeytelser 12) står i sitatet
-- FEIL 2 sitat rad 162 (R-04f7a279dc, Forbehold: forfatterne kan ikke skille e) ble IKKE funnet på oppgitt side
-- FEIL 2 sitat rad 163 (AV-2024-3-04, Alle deltakere: andel med forløpet stabi) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 162 (R-04f7a279dc, Forbehold: forfatterne kan ikke skille e) står på oppgitt side
+- OK   2 sitat rad 163 (AV-2024-3-04, Alle deltakere: andel med forløpet stabi) står på oppgitt side
 - OK   3 estimat=40 rad 163 (AV-2024-3-04, Alle deltakere: andel med forløpet stabi) står i sitatet
-- FEIL 2 sitat rad 164 (AV-2024-3-04, Gruppe ordinære arbeidssøkere: andel med) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 164 (AV-2024-3-04, Gruppe ordinære arbeidssøkere: andel med) står på oppgitt side
 - OK   3 estimat=54 rad 164 (AV-2024-3-04, Gruppe ordinære arbeidssøkere: andel med) står i sitatet
-- FEIL 2 sitat rad 165 (AV-2024-3-04, Gruppe nedsatt arbeidsevne: andel med st) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 165 (AV-2024-3-04, Gruppe nedsatt arbeidsevne: andel med st) står på oppgitt side
 - OK   3 estimat=23 rad 165 (AV-2024-3-04, Gruppe nedsatt arbeidsevne: andel med st) står i sitatet
-- FEIL 2 sitat rad 166 (AV-2024-3-04, Alle deltakere: andel i vanlig jobb uten) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 166 (AV-2024-3-04, Alle deltakere: andel i vanlig jobb uten) står på oppgitt side
 - OK   3 estimat=54 rad 166 (AV-2024-3-04, Alle deltakere: andel i vanlig jobb uten) står i sitatet
-- FEIL 2 sitat rad 167 (AV-2024-3-04, Gruppe ordinære arbeidssøkere: andel i v) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 167 (AV-2024-3-04, Gruppe ordinære arbeidssøkere: andel i v) står på oppgitt side
 - OK   3 estimat=66 rad 167 (AV-2024-3-04, Gruppe ordinære arbeidssøkere: andel i v) står i sitatet
-- FEIL 2 sitat rad 168 (AV-2024-3-04, Gruppe nedsatt arbeidsevne: andel i vanl) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 168 (AV-2024-3-04, Gruppe nedsatt arbeidsevne: andel i vanl) står på oppgitt side
 - OK   3 estimat=41 rad 168 (AV-2024-3-04, Gruppe nedsatt arbeidsevne: andel i vanl) står i sitatet
-- FEIL 2 sitat rad 169 (AV-2024-3-04, Alle deltakere: andel med forløpet kortv) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 169 (AV-2024-3-04, Alle deltakere: andel med forløpet kortv) står på oppgitt side
 - OK   3 estimat=11 rad 169 (AV-2024-3-04, Alle deltakere: andel med forløpet kortv) står i sitatet
-- FEIL 2 sitat rad 170 (AV-2024-3-04, Gruppe nedsatt arbeidsevne: lavere sanns) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 170 (AV-2024-3-04, Gruppe nedsatt arbeidsevne: lavere sanns) står på oppgitt side
 - OK   3 estimat=24 rad 170 (AV-2024-3-04, Gruppe nedsatt arbeidsevne: lavere sanns) står i sitatet
-- FEIL 2 sitat rad 171 (AV-2024-3-04, Gruppe 18–24 år: andel med stabil arbeid) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 171 (AV-2024-3-04, Gruppe 18–24 år: andel med stabil arbeid) står på oppgitt side
 - OK   3 estimat=41.4 rad 171 (AV-2024-3-04, Gruppe 18–24 år: andel med stabil arbeid) står i sitatet
-- FEIL 2 sitat rad 172 (AV-2024-3-04, Gruppe 25–29 år: andel med stabil arbeid) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 172 (AV-2024-3-04, Gruppe 25–29 år: andel med stabil arbeid) står på oppgitt side
 - OK   3 estimat=44.9 rad 172 (AV-2024-3-04, Gruppe 25–29 år: andel med stabil arbeid) står i sitatet
-- FEIL 2 sitat rad 173 (AV-2024-3-04, Gruppe 25–29 år, alle deltakere: høyere ) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 173 (AV-2024-3-04, Gruppe 25–29 år, alle deltakere: høyere ) står på oppgitt side
 - OK   3 estimat=0.0419 rad 173 (AV-2024-3-04, Gruppe 25–29 år, alle deltakere: høyere ) står i sitatet
-- FEIL 2 sitat rad 174 (AV-2024-3-04, Gruppe 25–29 år, ordinære arbeidssøkere:) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 174 (AV-2024-3-04, Gruppe 25–29 år, ordinære arbeidssøkere:) står på oppgitt side
 - OK   3 estimat=0.0314 rad 174 (AV-2024-3-04, Gruppe 25–29 år, ordinære arbeidssøkere:) står i sitatet
-- FEIL 2 sitat rad 175 (AV-2024-3-04, Gruppe 50–56 år, ordinære arbeidssøkere:) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 175 (AV-2024-3-04, Gruppe 50–56 år, ordinære arbeidssøkere:) står på oppgitt side
 - OK   3 estimat=-0.120 rad 175 (AV-2024-3-04, Gruppe 50–56 år, ordinære arbeidssøkere:) står i sitatet
-- FEIL 2 sitat rad 176 (01995c22c1ef-0cff9bef-2a70-4f0e-ab36-b6d53db8f287, Gruppe nedsatt arbeidsevne: økning i and) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 176 (01995c22c1ef-0cff9bef-2a70-4f0e-ab36-b6d53db8f287, Gruppe nedsatt arbeidsevne: økning i and) står på oppgitt side
 - OK   3 estimat=30 rad 176 (01995c22c1ef-0cff9bef-2a70-4f0e-ab36-b6d53db8f287, Gruppe nedsatt arbeidsevne: økning i and) står i sitatet
-- FEIL 2 sitat rad 177 (01995c22c1ef-0cff9bef-2a70-4f0e-ab36-b6d53db8f287, Gruppe nedsatt arbeidsevne: økning i job) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 177 (01995c22c1ef-0cff9bef-2a70-4f0e-ab36-b6d53db8f287, Gruppe nedsatt arbeidsevne: økning i job) står på oppgitt side
 - OK   3 estimat=20 rad 177 (01995c22c1ef-0cff9bef-2a70-4f0e-ab36-b6d53db8f287, Gruppe nedsatt arbeidsevne: økning i job) står i sitatet
-- FEIL 2 sitat rad 178 (01995c22c1ef-0cff9bef-2a70-4f0e-ab36-b6d53db8f287, Gruppe nedsatt arbeidsevne: økning i and) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 178 (01995c22c1ef-0cff9bef-2a70-4f0e-ab36-b6d53db8f287, Gruppe nedsatt arbeidsevne: økning i and) står på oppgitt side
 - OK   3 estimat=4 rad 178 (01995c22c1ef-0cff9bef-2a70-4f0e-ab36-b6d53db8f287, Gruppe nedsatt arbeidsevne: økning i and) står i sitatet
-- FEIL 2 sitat rad 179 (01995c22c1ef-0cff9bef-2a70-4f0e-ab36-b6d53db8f287, Gruppe nedsatt arbeidsevne: midlertidig ) ble IKKE funnet på oppgitt side
-- FEIL 2 sitat rad 180 (01995c22c1ef-0cff9bef-2a70-4f0e-ab36-b6d53db8f287, Gruppe nedsatt arbeidsevne: positiv uobs) ble IKKE funnet på oppgitt side
-- FEIL 2 sitat rad 181 (01995c22c1ef-0cff9bef-2a70-4f0e-ab36-b6d53db8f287, Gruppe nedsatt arbeidsevne: alle tiltak ) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 179 (01995c22c1ef-0cff9bef-2a70-4f0e-ab36-b6d53db8f287, Gruppe nedsatt arbeidsevne: midlertidig ) står på oppgitt side
+- OK   2 sitat rad 180 (01995c22c1ef-0cff9bef-2a70-4f0e-ab36-b6d53db8f287, Gruppe nedsatt arbeidsevne: positiv uobs) står på oppgitt side
+- OK   2 sitat rad 181 (01995c22c1ef-0cff9bef-2a70-4f0e-ab36-b6d53db8f287, Gruppe nedsatt arbeidsevne: alle tiltak ) står på oppgitt side
 - OK   3 estimat=15 rad 181 (01995c22c1ef-0cff9bef-2a70-4f0e-ab36-b6d53db8f287, Gruppe nedsatt arbeidsevne: alle tiltak ) står i sitatet
-- FEIL 2 sitat rad 182 (01995c22c1ef-0cff9bef-2a70-4f0e-ab36-b6d53db8f287, Gruppe nedsatt arbeidsevne: alle tiltak ) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 182 (01995c22c1ef-0cff9bef-2a70-4f0e-ab36-b6d53db8f287, Gruppe nedsatt arbeidsevne: alle tiltak ) står på oppgitt side
 - OK   3 estimat=12 rad 182 (01995c22c1ef-0cff9bef-2a70-4f0e-ab36-b6d53db8f287, Gruppe nedsatt arbeidsevne: alle tiltak ) står i sitatet
-- FEIL 2 sitat rad 183 (01995c22c1ef-0cff9bef-2a70-4f0e-ab36-b6d53db8f287, Gruppe nedsatt arbeidsevne: alle tiltak ) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 183 (01995c22c1ef-0cff9bef-2a70-4f0e-ab36-b6d53db8f287, Gruppe nedsatt arbeidsevne: alle tiltak ) står på oppgitt side
 - OK   3 estimat=732000 rad 183 (01995c22c1ef-0cff9bef-2a70-4f0e-ab36-b6d53db8f287, Gruppe nedsatt arbeidsevne: alle tiltak ) står i sitatet
-- FEIL 2 sitat rad 184 (W1805206376, Gruppe under 25 år: programmer for unge ) ble IKKE funnet på oppgitt side
-- FEIL 2 sitat rad 185 (W1805206376, Gruppe under 25 år: kort sikt (ca. 12 må) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 184 (W1805206376, Gruppe under 25 år: programmer for unge ) står på oppgitt side
+- OK   2 sitat rad 185 (W1805206376, Gruppe under 25 år: kort sikt (ca. 12 må) står på oppgitt side
 - OK   3 estimat=0.70 rad 185 (W1805206376, Gruppe under 25 år: kort sikt (ca. 12 må) står i sitatet
-- FEIL 2 sitat rad 186 (W1805206376, Gruppe under 25 år: kort sikt, estimaten) ble IKKE funnet på oppgitt side
-- FEIL 2 sitat rad 187 (W1805206376, Gruppe under 25 år: mellomlang sikt (ca.) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 186 (W1805206376, Gruppe under 25 år: kort sikt, estimaten) står på oppgitt side
+- OK   2 sitat rad 187 (W1805206376, Gruppe under 25 år: mellomlang sikt (ca.) står på oppgitt side
 - OK   3 estimat=0.82 rad 187 (W1805206376, Gruppe under 25 år: mellomlang sikt (ca.) står i sitatet
-- FEIL 2 sitat rad 188 (W1805206376, Lønnstilskudd i privat sektor: kort sikt) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 188 (W1805206376, Lønnstilskudd i privat sektor: kort sikt) står på oppgitt side
 - OK   3 estimat=1.50 rad 188 (W1805206376, Lønnstilskudd i privat sektor: kort sikt) står i sitatet
-- FEIL 2 sitat rad 189 (W1805206376, Lønnstilskudd i privat sektor: mellomlan) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 189 (W1805206376, Lønnstilskudd i privat sektor: mellomlan) står på oppgitt side
 - OK   3 estimat=0.36 rad 189 (W1805206376, Lønnstilskudd i privat sektor: mellomlan) står i sitatet
-- FEIL 2 sitat rad 190 (W1805206376, Alle programtyper: på kort sikt har jobb) ble IKKE funnet på oppgitt side
-- FEIL 2 sitat rad 191 (W1805206376, Alle programtyper: subsidiert sysselsett) ble IKKE funnet på oppgitt side
-- FEIL 2 sitat rad 192 (W1805206376, Alle programtyper: andel av programestim) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 190 (W1805206376, Alle programtyper: på kort sikt har jobb) står på oppgitt side
+- OK   2 sitat rad 191 (W1805206376, Alle programtyper: subsidiert sysselsett) står på oppgitt side
+- OK   2 sitat rad 192 (W1805206376, Alle programtyper: andel av programestim) står på oppgitt side
 - OK   3 estimat=39 rad 192 (W1805206376, Alle programtyper: andel av programestim) står i sitatet
-- FEIL 2 sitat rad 193 (W1805206376, Lønnstilskudd i privat og offentlig sekt) ble IKKE funnet på oppgitt side
-- FEIL 2 sitat rad 194 (R-f2664a06f5, unge under 30: andel av deltakerne på va) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 193 (W1805206376, Lønnstilskudd i privat og offentlig sekt) står på oppgitt side
+- OK   2 sitat rad 194 (R-f2664a06f5, unge under 30: andel av deltakerne på va) står på oppgitt side
 - OK   3 estimat=16 rad 194 (R-f2664a06f5, unge under 30: andel av deltakerne på va) står i sitatet
-- FEIL 2 sitat rad 195 (R-f2664a06f5, alle aldre: gjennomsnittsalder for delta) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 195 (R-f2664a06f5, alle aldre: gjennomsnittsalder for delta) står på oppgitt side
 - OK   3 estimat=46 rad 195 (R-f2664a06f5, alle aldre: gjennomsnittsalder for delta) står i sitatet
-- FEIL 2 sitat rad 196 (R-f2664a06f5, alle aldre: varighet på varig lønnstilsk) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 196 (R-f2664a06f5, alle aldre: varighet på varig lønnstilsk) står på oppgitt side
 - OK   3 estimat=67 rad 196 (R-f2664a06f5, alle aldre: varighet på varig lønnstilsk) står i sitatet
-- FEIL 2 sitat rad 197 (R-f2664a06f5, alle aldre: anslått gjennomsnittlig vari) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 197 (R-f2664a06f5, alle aldre: anslått gjennomsnittlig vari) står på oppgitt side
 - OK   3 estimat=82 rad 197 (R-f2664a06f5, alle aldre: anslått gjennomsnittlig vari) står i sitatet
-- FEIL 2 sitat rad 198 (R-f2664a06f5, under 62 år ved avslutning: andel som gå) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 198 (R-f2664a06f5, under 62 år ved avslutning: andel som gå) står på oppgitt side
 - OK   3 estimat=10 rad 198 (R-f2664a06f5, under 62 år ved avslutning: andel som gå) står i sitatet
-- FEIL 2 sitat rad 199 (R-f2664a06f5, under 62 år ved avslutning: andel som mo) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 199 (R-f2664a06f5, under 62 år ved avslutning: andel som mo) står på oppgitt side
 - OK   3 estimat=48 rad 199 (R-f2664a06f5, under 62 år ved avslutning: andel som mo) står i sitatet
-- FEIL 2 sitat rad 200 (R-f2664a06f5, alle aldre: gjennomsnittlig tilskudd per) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 200 (R-f2664a06f5, alle aldre: gjennomsnittlig tilskudd per) står på oppgitt side
 - OK   3 estimat=289 rad 200 (R-f2664a06f5, alle aldre: gjennomsnittlig tilskudd per) står i sitatet
-- FEIL 2 sitat rad 201 (R-f2664a06f5, alle aldre: netto samfunnsøkonomisk bidr) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 201 (R-f2664a06f5, alle aldre: netto samfunnsøkonomisk bidr) står på oppgitt side
 - OK   3 estimat=2.5 rad 201 (R-f2664a06f5, alle aldre: netto samfunnsøkonomisk bidr) står i sitatet
-- FEIL 2 sitat rad 202 (R-f2664a06f5, alle aldre: netto samfunnsøkonomisk bidr) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 202 (R-f2664a06f5, alle aldre: netto samfunnsøkonomisk bidr) står på oppgitt side
 - OK   3 estimat=3.9 rad 202 (R-f2664a06f5, alle aldre: netto samfunnsøkonomisk bidr) står i sitatet
-- FEIL 2 sitat rad 203 (R-f2664a06f5, alle aldre: netto offentlige utgifter pe) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 203 (R-f2664a06f5, alle aldre: netto offentlige utgifter pe) står på oppgitt side
 - OK   3 estimat=111 rad 203 (R-f2664a06f5, alle aldre: netto offentlige utgifter pe) står i sitatet
-- FEIL 2 sitat rad 204 (R-f2664a06f5, personer med nedsatt arbeidsevne: dødvek) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 204 (R-f2664a06f5, personer med nedsatt arbeidsevne: dødvek) står på oppgitt side
 - OK   3 estimat=20 rad 204 (R-f2664a06f5, personer med nedsatt arbeidsevne: dødvek) står i sitatet
-- FEIL 2 sitat rad 205 (R-f2664a06f5, personer med nedsatt arbeidsevne: lavere) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 205 (R-f2664a06f5, personer med nedsatt arbeidsevne: lavere) står på oppgitt side
 - OK   3 estimat=20 rad 205 (R-f2664a06f5, personer med nedsatt arbeidsevne: lavere) står i sitatet
-- FEIL 2 sitat rad 206 (R-f2664a06f5, alle aldre: fortrengning og/eller dødvek) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 206 (R-f2664a06f5, alle aldre: fortrengning og/eller dødvek) står på oppgitt side
 - OK   3 estimat=20 rad 206 (R-f2664a06f5, alle aldre: fortrengning og/eller dødvek) står i sitatet
-- FEIL 2 sitat rad 207 (R-ec3de7f99e, alle aldre: gjennomsnittlig antall delta) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 207 (R-ec3de7f99e, alle aldre: gjennomsnittlig antall delta) står på oppgitt side
 - OK   3 estimat=11824 rad 207 (R-ec3de7f99e, alle aldre: gjennomsnittlig antall delta) står i sitatet
-- FEIL 2 sitat rad 208 (R-ec3de7f99e, nye mottakere av attførings- eller rehab) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 208 (R-ec3de7f99e, nye mottakere av attførings- eller rehab) står på oppgitt side
 - OK   3 estimat=65000 rad 208 (R-ec3de7f99e, nye mottakere av attførings- eller rehab) står i sitatet
-- FEIL 2 sitat rad 209 (R-ec3de7f99e, nye mottakere av attførings- eller rehab) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 209 (R-ec3de7f99e, nye mottakere av attførings- eller rehab) står på oppgitt side
 - OK   3 estimat=76000 rad 209 (R-ec3de7f99e, nye mottakere av attførings- eller rehab) står i sitatet
-- FEIL 2 sitat rad 210 (R-ec3de7f99e, alle aldre: nåverdi av verdiskapingseffe) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 210 (R-ec3de7f99e, alle aldre: nåverdi av verdiskapingseffe) står på oppgitt side
 - OK   3 estimat=670000 rad 210 (R-ec3de7f99e, alle aldre: nåverdi av verdiskapingseffe) står i sitatet
-- FEIL 2 sitat rad 211 (R-ec3de7f99e, alle aldre: nåverdi av verdiskapingseffe) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 211 (R-ec3de7f99e, alle aldre: nåverdi av verdiskapingseffe) står på oppgitt side
 - OK   3 estimat=524000 rad 211 (R-ec3de7f99e, alle aldre: nåverdi av verdiskapingseffe) står i sitatet
-- FEIL 2 sitat rad 212 (R-ec3de7f99e, alle aldre: NAVs gjennomsnittlige budsje) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 212 (R-ec3de7f99e, alle aldre: NAVs gjennomsnittlige budsje) står på oppgitt side
 - OK   3 estimat=23400 rad 212 (R-ec3de7f99e, alle aldre: NAVs gjennomsnittlige budsje) står i sitatet
-- FEIL 2 sitat rad 213 (R-ec3de7f99e, alle aldre: gjennomsnittlig varighet på ) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 213 (R-ec3de7f99e, alle aldre: gjennomsnittlig varighet på ) står på oppgitt side
 - OK   3 estimat=7 rad 213 (R-ec3de7f99e, alle aldre: gjennomsnittlig varighet på ) står i sitatet
-- FEIL 2 sitat rad 214 (R-ec3de7f99e, arbeidsledige: økning i månedlig overgan) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 214 (R-ec3de7f99e, arbeidsledige: økning i månedlig overgan) står på oppgitt side
 - OK   3 estimat=12 rad 214 (R-ec3de7f99e, arbeidsledige: økning i månedlig overgan) står i sitatet
-- FEIL 2 sitat rad 215 (R-ec3de7f99e, alle aldre: fortrengning i lønnstilskudd) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 215 (R-ec3de7f99e, alle aldre: fortrengning i lønnstilskudd) står på oppgitt side
 - OK   3 estimat=65 rad 215 (R-ec3de7f99e, alle aldre: fortrengning i lønnstilskudd) står i sitatet
-- FEIL 2 sitat rad 216 (R-ec3de7f99e, unge under 30, arbeidssøkere uten innvan) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 216 (R-ec3de7f99e, unge under 30, arbeidssøkere uten innvan) står på oppgitt side
 - OK   3 estimat=17 rad 216 (R-ec3de7f99e, unge under 30, arbeidssøkere uten innvan) står i sitatet
-- FEIL 2 sitat rad 217 (R-ec3de7f99e, unge under 30, arbeidssøkere fra landgru) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 217 (R-ec3de7f99e, unge under 30, arbeidssøkere fra landgru) står på oppgitt side
 - OK   3 estimat=10 rad 217 (R-ec3de7f99e, unge under 30, arbeidssøkere fra landgru) står i sitatet
-- FEIL 2 sitat rad 218 (R-ec3de7f99e, unge under 30 med nedsatt arbeidsevne ut) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 218 (R-ec3de7f99e, unge under 30 med nedsatt arbeidsevne ut) står på oppgitt side
 - OK   3 estimat=12 rad 218 (R-ec3de7f99e, unge under 30 med nedsatt arbeidsevne ut) står i sitatet
-- FEIL 2 sitat rad 219 (R-ec3de7f99e, unge under 30 med nedsatt arbeidsevne ut) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 219 (R-ec3de7f99e, unge under 30 med nedsatt arbeidsevne ut) står på oppgitt side
 - OK   3 estimat=3 rad 219 (R-ec3de7f99e, unge under 30 med nedsatt arbeidsevne ut) står i sitatet
-- FEIL 2 sitat rad 220 (W2010586812, alle aldre: sannsynlighet for at en eval) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 220 (W2010586812, alle aldre: sannsynlighet for at en eval) står på oppgitt side
 - OK   3 estimat=30.9 rad 220 (W2010586812, alle aldre: sannsynlighet for at en eval) står i sitatet
-- FEIL 2 sitat rad 221 (W2010586812, alle aldre: sannsynlighet for positiv ef) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 221 (W2010586812, alle aldre: sannsynlighet for positiv ef) står på oppgitt side
 - OK   3 estimat=43.9 rad 221 (W2010586812, alle aldre: sannsynlighet for positiv ef) står i sitatet
-- FEIL 2 sitat rad 222 (W2010586812, unge: sannsynlighet for positiv sysselse) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 222 (W2010586812, unge: sannsynlighet for positiv sysselse) står på oppgitt side
 - OK   3 estimat=36 rad 222 (W2010586812, unge: sannsynlighet for positiv sysselse) står i sitatet
-- FEIL 2 sitat rad 223 (W2010586812, unge: sannsynlighet for positiv sysselse) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 223 (W2010586812, unge: sannsynlighet for positiv sysselse) står på oppgitt side
 - OK   3 estimat=62.6 rad 223 (W2010586812, unge: sannsynlighet for positiv sysselse) står i sitatet
-- FEIL 2 sitat rad 224 (W1521518092, 20–24 år: andel dager registrert som arb) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 224 (W1521518092, 20–24 år: andel dager registrert som arb) står på oppgitt side
 - OK   3 estimat=0.6 rad 224 (W1521518092, 20–24 år: andel dager registrert som arb) står i sitatet
-- FEIL 2 sitat rad 225 (W1521518092, 20–24 år: overgang til arbeid i starten ) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 225 (W1521518092, 20–24 år: overgang til arbeid i starten ) står på oppgitt side
 - OK   3 estimat=10 rad 225 (W1521518092, 20–24 år: overgang til arbeid i starten ) står i sitatet
-- FEIL 2 sitat rad 226 (W2039276519, 26–55 år: månedlig overgang til arbeid, ) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 226 (W2039276519, 26–55 år: månedlig overgang til arbeid, ) står på oppgitt side
 - OK   3 estimat=12 rad 226 (W2039276519, 26–55 år: månedlig overgang til arbeid, ) står i sitatet
-- FEIL 2 sitat rad 227 (W2039276519, eldre (rundt 55 år): sysselsettingsgap e) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 227 (W2039276519, eldre (rundt 55 år): sysselsettingsgap e) står på oppgitt side
 - OK   3 estimat=5 rad 227 (W2039276519, eldre (rundt 55 år): sysselsettingsgap e) står i sitatet
-- FEIL 2 sitat rad 228 (W2016059253, bedrifter: lønnssum i bedrifter som får ) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 228 (W2016059253, bedrifter: lønnssum i bedrifter som får ) står på oppgitt side
 - OK   3 estimat=9 rad 228 (W2016059253, bedrifter: lønnssum i bedrifter som får ) står i sitatet
-- FEIL 2 sitat rad 229 (W2016059253, bedrifter: fortrengning, lønnssum i andr) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 229 (W2016059253, bedrifter: fortrengning, lønnssum i andr) står på oppgitt side
 - OK   3 estimat=0.1 rad 229 (W2016059253, bedrifter: fortrengning, lønnssum i andr) står i sitatet
 - OK   2 sitat rad 230 (W2306814610, unge kvinner med høyskoleutdanning: syss) står på oppgitt side
 - OK   3 estimat=38 rad 230 (W2306814610, unge kvinner med høyskoleutdanning: syss) står i sitatet
-- FEIL 2 sitat rad 231 (W2770196142, unge: andel land som har tatt i bruk ans) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 231 (W2770196142, unge: andel land som har tatt i bruk ans) står på oppgitt side
 - OK   3 estimat=60 rad 231 (W2770196142, unge: andel land som har tatt i bruk ans) står i sitatet
-- FEIL 2 sitat rad 232 (W2770196142, unge: sannsynlighet for arbeid, økning v) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 232 (W2770196142, unge: sannsynlighet for arbeid, økning v) står på oppgitt side
 - OK   3 estimat=5 rad 232 (W2770196142, unge: sannsynlighet for arbeid, økning v) står i sitatet
-- FEIL 2 sitat rad 233 (W1593675663, 16–30 år: sannsynlighet for arbeid to og) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 233 (W1593675663, 16–30 år: sannsynlighet for arbeid to og) står på oppgitt side
 - OK   3 estimat=6 rad 233 (W1593675663, 16–30 år: sannsynlighet for arbeid to og) står i sitatet
-- FEIL 2 sitat rad 234 (W1593675663, 16–30 år: årsinntekt, økning i euro for ) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 234 (W1593675663, 16–30 år: årsinntekt, økning i euro for ) står på oppgitt side
 - OK   3 estimat=1675 rad 234 (W1593675663, 16–30 år: årsinntekt, økning i euro for ) står i sitatet
-- FEIL 2 sitat rad 235 (W3167299234, under 30 år: andel nyansatte under 30 år) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 235 (W3167299234, under 30 år: andel nyansatte under 30 år) står på oppgitt side
 - OK   3 estimat=1.6 rad 235 (W3167299234, under 30 år: andel nyansatte under 30 år) står i sitatet
-- FEIL 2 sitat rad 236 (W3167299234, under 30 år: andel ansatte under 30 år, ) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 236 (W3167299234, under 30 år: andel ansatte under 30 år, ) står på oppgitt side
 - OK   3 estimat=1 rad 236 (W3167299234, under 30 år: andel ansatte under 30 år, ) står i sitatet
-- FEIL 2 sitat rad 237 (W3048912273, under 30 år: sannsynlighet for arbeid 24) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 237 (W3048912273, under 30 år: sannsynlighet for arbeid 24) står på oppgitt side
 - OK   3 estimat=40.6 rad 237 (W3048912273, under 30 år: sannsynlighet for arbeid 24) står i sitatet
-- FEIL 2 sitat rad 238 (W3048912273, under 30 år: sannsynlighet for arbeid 36) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 238 (W3048912273, under 30 år: sannsynlighet for arbeid 36) står på oppgitt side
 - OK   3 estimat=31.7 rad 238 (W3048912273, under 30 år: sannsynlighet for arbeid 36) står i sitatet
-- FEIL 2 sitat rad 239 (W3048912273, under 30 år: sannsynlighet for arbeid 36) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 239 (W3048912273, under 30 år: sannsynlighet for arbeid 36) står på oppgitt side
 - OK   3 estimat=7.7 rad 239 (W3048912273, under 30 år: sannsynlighet for arbeid 36) står i sitatet
-- FEIL 2 sitat rad 240 (W3048912273, under 30 år: månedslønn 36 måneder etter) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 240 (W3048912273, under 30 år: månedslønn 36 måneder etter) står på oppgitt side
 - OK   3 estimat=313 rad 240 (W3048912273, under 30 år: månedslønn 36 måneder etter) står i sitatet
-- FEIL 2 sitat rad 241 (W3024705443, 18–25 år uten kvalifikasjoner: lavere sa) ble IKKE funnet på oppgitt side
-- FEIL 2 sitat rad 242 (W2251574710, alle aldre på attføring: sannsynlighet f) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 241 (W3024705443, 18–25 år uten kvalifikasjoner: lavere sa) står på oppgitt side
+- OK   2 sitat rad 242 (W2251574710, alle aldre på attføring: sannsynlighet f) står på oppgitt side
 - OK   3 estimat=11.67 rad 242 (W2251574710, alle aldre på attføring: sannsynlighet f) står i sitatet
-- FEIL 2 sitat rad 243 (W2251574710, alle aldre på attføring: årlig arbeidsin) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 243 (W2251574710, alle aldre på attføring: årlig arbeidsin) står på oppgitt side
 - OK   3 estimat=56731 rad 243 (W2251574710, alle aldre på attføring: årlig arbeidsin) står i sitatet
-- FEIL 2 sitat rad 244 (W2251574710, alle aldre på attføring: sysselsetting e) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 244 (W2251574710, alle aldre på attføring: sysselsetting e) står på oppgitt side
 - OK   3 estimat=1.098 rad 244 (W2251574710, alle aldre på attføring: sysselsetting e) står i sitatet
 - OK   7 statistikk rad 1 (Nav TILT110, Midlertidig lønnstilskudd, alle aldre) har alle felt
 - OK   7 statistikk rad 1 (Nav TILT110, Midlertidig lønnstilskudd, alle aldre) verdien 4854 står i statistikk/nav-tilt110-tiltak-og-alder.tsv
@@ -1159,6 +1159,7 @@ Kjørt 2026-11-14.
 - OK   5 tallet 11824 i svaret finnes i estimat- eller statistikktabellen
 - OK   5 tallet 12 i svaret finnes i estimat- eller statistikktabellen
 - OK   5 tallet 12.6 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 120 i svaret finnes i estimat- eller statistikktabellen
 - OK   5 tallet 128 i svaret finnes i estimat- eller statistikktabellen
 - OK   5 tallet 13 i svaret finnes i estimat- eller statistikktabellen
 - OK   5 tallet 134 i svaret finnes i estimat- eller statistikktabellen
@@ -1175,11 +1176,13 @@ Kjørt 2026-11-14.
 - OK   5 tallet 18 i svaret finnes i estimat- eller statistikktabellen
 - OK   5 tallet 18.1 i svaret finnes i estimat- eller statistikktabellen
 - OK   5 tallet 19 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 199 i svaret finnes i estimat- eller statistikktabellen
 - OK   5 tallet 2.5 i svaret finnes i estimat- eller statistikktabellen
 - OK   5 tallet 2.6 i svaret finnes i estimat- eller statistikktabellen
 - OK   5 tallet 2.62 i svaret finnes i estimat- eller statistikktabellen
 - OK   5 tallet 2.8 i svaret finnes i estimat- eller statistikktabellen
 - OK   5 tallet 20 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 200 i svaret finnes i estimat- eller statistikktabellen
 - OK   5 tallet 200000 i svaret finnes i estimat- eller statistikktabellen
 - OK   5 tallet 202139 i svaret finnes i estimat- eller statistikktabellen
 - OK   5 tallet 21 i svaret finnes i estimat- eller statistikktabellen
@@ -1198,6 +1201,7 @@ Kjørt 2026-11-14.
 - OK   5 tallet 31.7 i svaret finnes i estimat- eller statistikktabellen
 - OK   5 tallet 3200 i svaret finnes i estimat- eller statistikktabellen
 - OK   5 tallet 33 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 35 i svaret finnes i estimat- eller statistikktabellen
 - OK   5 tallet 36 i svaret finnes i estimat- eller statistikktabellen
 - OK   5 tallet 3781 i svaret finnes i estimat- eller statistikktabellen
 - OK   5 tallet 38 i svaret finnes i estimat- eller statistikktabellen
@@ -1208,6 +1212,8 @@ Kjørt 2026-11-14.
 - OK   5 tallet 408 i svaret finnes i estimat- eller statistikktabellen
 - OK   5 tallet 41.4 i svaret finnes i estimat- eller statistikktabellen
 - OK   5 tallet 42 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 425 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 44 i svaret finnes i estimat- eller statistikktabellen
 - OK   5 tallet 44.9 i svaret finnes i estimat- eller statistikktabellen
 - OK   5 tallet 45 i svaret finnes i estimat- eller statistikktabellen
 - OK   5 tallet 45.9 i svaret finnes i estimat- eller statistikktabellen
@@ -1221,10 +1227,12 @@ Kjørt 2026-11-14.
 - OK   5 tallet 524000 i svaret finnes i estimat- eller statistikktabellen
 - OK   5 tallet 54 i svaret finnes i estimat- eller statistikktabellen
 - OK   5 tallet 56731 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 59 i svaret finnes i estimat- eller statistikktabellen
 - OK   5 tallet 59745 i svaret finnes i estimat- eller statistikktabellen
 - OK   5 tallet 6.1 i svaret finnes i estimat- eller statistikktabellen
 - OK   5 tallet 60 i svaret finnes i estimat- eller statistikktabellen
 - OK   5 tallet 6028 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 62 i svaret finnes i estimat- eller statistikktabellen
 - OK   5 tallet 6493 i svaret finnes i estimat- eller statistikktabellen
 - OK   5 tallet 65 i svaret finnes i estimat- eller statistikktabellen
 - OK   5 tallet 65000 i svaret finnes i estimat- eller statistikktabellen
@@ -1238,6 +1246,7 @@ Kjørt 2026-11-14.
 - OK   5 tallet 778 i svaret finnes i estimat- eller statistikktabellen
 - OK   5 tallet 7968 i svaret finnes i estimat- eller statistikktabellen
 - OK   5 tallet 8.9 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 82 i svaret finnes i estimat- eller statistikktabellen
 - OK   5 tallet 9.9 i svaret finnes i estimat- eller statistikktabellen
 - OK   5 tallet 90 i svaret finnes i estimat- eller statistikktabellen
 - OK   5 tallet 968910 i svaret finnes i estimat- eller statistikktabellen

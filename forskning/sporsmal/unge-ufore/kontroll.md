@@ -1,10 +1,9 @@
 # Kontroll: unge-ufore
 
-Kjørt 2026-11-14.
+Kjørt 2026-11-09.
 
-118 feil av 1957 kontroller.
+0 feil av 1961 kontroller.
 
-- OBS  10 2 sentrale valgte kilder er ikke lest i fulltekst (1 ikke lest, 1 bare sammendrag; se vedlegg_bc.py). Forbeholdene NEVNER IKKE uleste kilder: sjekk at antallet stemmer.
 - OK   1 kilde 0198cc84729b-a09bd70a-765d-4bbb-a164-84a96be028c2 finnes
 - OK   1 kilde 0198f22710a7-9891d74a-fefc-44a0-927c-96a4a3d8525a finnes
 - OK   1 kilde 019909c23973-ea65712e-ebc7-454b-b8df-def7f6bf6e87 finnes
@@ -235,7 +234,7 @@ Kjørt 2026-11-14.
 - OK   1 forfatter «Aarbakke» for KU-c48cd033-8718-4bb3-a149-7bc9f67459cf står i metadata eller på tittelsiden
 - OK   1 forfatter «Bragstad» for AV-2023-2-07 står i metadata eller på tittelsiden
 - OK   1 forfatter «Kalstø» for AV-2022-3-05 står i metadata eller på tittelsiden
-- FEIL 1 forfatter «NORCE» for 0198cc84729b-a09bd70a-765d-4bbb-a164-84a96be028c2 står IKKE i metadata eller på tittelsiden
+- OK   1 forfatter «NORCE» for 0198cc84729b-a09bd70a-765d-4bbb-a164-84a96be028c2 står i metadata eller på tittelsiden
 - OK   1 forfatter «Kann» for AV-2021-1-06 står i metadata eller på tittelsiden
 - OK   1 forfatter «Kann» for AV-2021-1-06 står i metadata eller på tittelsiden
 - OK   1 forfatter «Aarbakke» for KU-c48cd033-8718-4bb3-a149-7bc9f67459cf står i metadata eller på tittelsiden
@@ -255,7 +254,7 @@ Kjørt 2026-11-14.
 - OK   1 forfatter «Kaltenbrunner Bernitz» for W1967551067 står i metadata eller på tittelsiden
 - OK   1 forfatter «Lande» for AV-2023-1-01 står i metadata eller på tittelsiden
 - OK   1 forfatter «Myhre» for AV-2022-2-02 står i metadata eller på tittelsiden
-- FEIL 1 forfatter «Strand» for KU-f0f528eb-0eaf-4e6b-bcb1-5b5b44367324 står IKKE i metadata eller på tittelsiden
+- OK   1 forfatter «Strand» for KU-f0f528eb-0eaf-4e6b-bcb1-5b5b44367324 står i metadata eller på tittelsiden
 - OK   1 forfatter «Lima» for AV-2020-2-04 står i metadata eller på tittelsiden
 - OK   1 forfatter «Hernæs» for NB-4593 står i metadata eller på tittelsiden
 - OK   1 forfatter «Lande» for AV-2023-1-01 står i metadata eller på tittelsiden
@@ -279,174 +278,174 @@ Kjørt 2026-11-14.
 - OK   1 forfatter «Pape» for W2102173634 står i metadata eller på tittelsiden
 - OK   1 forfatter «Delalic» for 019c9524cfcc-39907780-0d56-4239-9b5d-80237da5e2eb står i metadata eller på tittelsiden
 - OK   1 forfatter «Sørlie» for 0198f22710a7-9891d74a-fefc-44a0-927c-96a4a3d8525a står i metadata eller på tittelsiden
-- FEIL 2 sitat rad 1 (AV-2018-2-04, Andel av befolkningen under 30 år med uf) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 1 (AV-2018-2-04, Andel av befolkningen under 30 år med uf) står på oppgitt side
 - OK   3 estimat=1.7 rad 1 (AV-2018-2-04, Andel av befolkningen under 30 år med uf) står i sitatet
-- FEIL 2 sitat rad 2 (AV-2018-2-04, Vekst i andelen unge uføretrygdede 2006–) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 2 (AV-2018-2-04, Vekst i andelen unge uføretrygdede 2006–) står på oppgitt side
 - OK   3 estimat=20 rad 2 (AV-2018-2-04, Vekst i andelen unge uføretrygdede 2006–) står i sitatet
-- FEIL 2 sitat rad 3 (AV-2018-2-04, Vekst i andelen med varig uføretrygd und) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 3 (AV-2018-2-04, Vekst i andelen med varig uføretrygd und) står på oppgitt side
 - OK   3 estimat=60 rad 3 (AV-2018-2-04, Vekst i andelen med varig uføretrygd und) står i sitatet
-- FEIL 2 sitat rad 4 (AV-2018-2-04, Uføreandel 18–29 år i 2016 hvis tilgangs) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 4 (AV-2018-2-04, Uføreandel 18–29 år i 2016 hvis tilgangs) står på oppgitt side
 - OK   3 estimat=1.4 rad 4 (AV-2018-2-04, Uføreandel 18–29 år i 2016 hvis tilgangs) står i sitatet
-- FEIL 2 sitat rad 5 (AV-2023-1-01, Andel av befolkningen 18–29 år med uføre) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 5 (AV-2023-1-01, Andel av befolkningen 18–29 år med uføre) står på oppgitt side
 - OK   3 estimat=2.4 rad 5 (AV-2023-1-01, Andel av befolkningen 18–29 år med uføre) står i sitatet
-- FEIL 2 sitat rad 6 (AV-2023-1-01, Andel av befolkningen 18–29 år med uføre) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 6 (AV-2023-1-01, Andel av befolkningen 18–29 år med uføre) står på oppgitt side
 - OK   3 estimat=2.6 rad 6 (AV-2023-1-01, Andel av befolkningen 18–29 år med uføre) står i sitatet
-- FEIL 2 sitat rad 7 (AV-2023-1-01, Andel av økningen i årlig antall nye ung) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 7 (AV-2023-1-01, Andel av økningen i årlig antall nye ung) står på oppgitt side
 - OK   3 estimat=66 rad 7 (AV-2023-1-01, Andel av økningen i årlig antall nye ung) står i sitatet
-- FEIL 2 sitat rad 8 (AV-2023-1-01, Andel av nedgangen i nye unge uføre fra ) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 8 (AV-2023-1-01, Andel av nedgangen i nye unge uføre fra ) står på oppgitt side
 - OK   3 estimat=81 rad 8 (AV-2023-1-01, Andel av nedgangen i nye unge uføre fra ) står i sitatet
-- FEIL 2 sitat rad 9 (AV-2023-2-07, Unge 18–29 år som andel av alle nye ufør) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 9 (AV-2023-2-07, Unge 18–29 år som andel av alle nye ufør) står på oppgitt side
 - OK   3 estimat=13 rad 9 (AV-2023-2-07, Unge 18–29 år som andel av alle nye ufør) står i sitatet
-- FEIL 2 sitat rad 10 (AV-2023-2-07, Sannsynlighet for uføretrygd innen ti år) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 10 (AV-2023-2-07, Sannsynlighet for uføretrygd innen ti år) står på oppgitt side
 - OK   3 estimat=60 rad 10 (AV-2023-2-07, Sannsynlighet for uføretrygd innen ti år) står i sitatet
-- FEIL 2 sitat rad 11 (AV-2023-2-07, Sannsynlighet for uføretrygd innen ti år) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 11 (AV-2023-2-07, Sannsynlighet for uføretrygd innen ti år) står på oppgitt side
 - OK   3 estimat=35 rad 11 (AV-2023-2-07, Sannsynlighet for uføretrygd innen ti år) står i sitatet
-- FEIL 2 sitat rad 12 (AV-2023-2-07, Andel av uføre under 30 år registrert me) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 12 (AV-2023-2-07, Andel av uføre under 30 år registrert me) står på oppgitt side
 - OK   3 estimat=66 rad 12 (AV-2023-2-07, Andel av uføre under 30 år registrert me) står i sitatet
-- FEIL 2 sitat rad 13 (AV-2015-1-03, Antall personer 18–29 år med varig uføre) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 13 (AV-2015-1-03, Antall personer 18–29 år med varig uføre) står på oppgitt side
 - OK   3 estimat=11000 rad 13 (AV-2015-1-03, Antall personer 18–29 år med varig uføre) står i sitatet
-- FEIL 2 sitat rad 14 (AV-2015-1-03, Antall nye uføretrygdede under 30 år, 20) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 14 (AV-2015-1-03, Antall nye uføretrygdede under 30 år, 20) står på oppgitt side
 - OK   3 estimat=1700 rad 14 (AV-2015-1-03, Antall nye uføretrygdede under 30 år, 20) står i sitatet
-- FEIL 2 sitat rad 15 (AV-2015-1-03, Nye uføre 18–19 år per 100 000 med psyki) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 15 (AV-2015-1-03, Nye uføre 18–19 år per 100 000 med psyki) står på oppgitt side
 - OK   3 estimat=100 rad 15 (AV-2015-1-03, Nye uføre 18–19 år per 100 000 med psyki) står i sitatet
-- FEIL 2 sitat rad 16 (AV-2015-1-03, Nye uføre 25–29 år per 100 000 med psyki) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 16 (AV-2015-1-03, Nye uføre 25–29 år per 100 000 med psyki) står på oppgitt side
 - OK   3 estimat=130 rad 16 (AV-2015-1-03, Nye uføre 25–29 år per 100 000 med psyki) står i sitatet
-- FEIL 2 sitat rad 17 (AV-2022-3-05, Andel av befolkningen 18–29 år med uføre) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 17 (AV-2022-3-05, Andel av befolkningen 18–29 år med uføre) står på oppgitt side
 - OK   3 estimat=2.6 rad 17 (AV-2022-3-05, Andel av befolkningen 18–29 år med uføre) står i sitatet
-- FEIL 2 sitat rad 18 (AV-2022-3-05, Andel unge 18–29 år med uføretrygd i Osl) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 18 (AV-2022-3-05, Andel unge 18–29 år med uføretrygd i Osl) står på oppgitt side
 - OK   3 estimat=1.3 rad 18 (AV-2022-3-05, Andel unge 18–29 år med uføretrygd i Osl) står i sitatet
-- FEIL 2 sitat rad 19 (AV-2022-3-05, Andel unge 18–29 år med uføretrygd i Ves) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 19 (AV-2022-3-05, Andel unge 18–29 år med uføretrygd i Ves) står på oppgitt side
 - OK   3 estimat=3.8 rad 19 (AV-2022-3-05, Andel unge 18–29 år med uføretrygd i Ves) står i sitatet
-- FEIL 2 sitat rad 20 (AV-2022-3-05, Andel unge innvandrere med uføretrygd (2) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 20 (AV-2022-3-05, Andel unge innvandrere med uføretrygd (2) står på oppgitt side
 - OK   3 estimat=1.5 rad 20 (AV-2022-3-05, Andel unge innvandrere med uføretrygd (2) står i sitatet
-- FEIL 2 sitat rad 21 (AV-2021-1-06, Antall unge som kommer rett inn på uføre) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 21 (AV-2021-1-06, Antall unge som kommer rett inn på uføre) står på oppgitt side
 - OK   3 estimat=30 rad 21 (AV-2021-1-06, Antall unge som kommer rett inn på uføre) står i sitatet
-- FEIL 2 sitat rad 22 (AV-2021-1-06, Andel av nye uføre under 30 år i 2020 so) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 22 (AV-2021-1-06, Andel av nye uføre under 30 år i 2020 so) står på oppgitt side
 - OK   3 estimat=34 rad 22 (AV-2021-1-06, Andel av nye uføre under 30 år i 2020 so) står i sitatet
-- FEIL 2 sitat rad 23 (AV-2020-2-04, Økning i andelen som mottar uføretrygd 1) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 23 (AV-2020-2-04, Økning i andelen som mottar uføretrygd 1) står på oppgitt side
 - OK   3 estimat=11 rad 23 (AV-2020-2-04, Økning i andelen som mottar uføretrygd 1) står i sitatet
-- FEIL 2 sitat rad 24 (AV-2020-2-04, Økning i andelen sosialhjelpsmottakere 1) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 24 (AV-2020-2-04, Økning i andelen sosialhjelpsmottakere 1) står på oppgitt side
 - OK   3 estimat=6 rad 24 (AV-2020-2-04, Økning i andelen sosialhjelpsmottakere 1) står i sitatet
-- FEIL 2 sitat rad 25 (AV-2022-2-02, Relativ økning i andelen med uføretrygd ) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 25 (AV-2022-2-02, Relativ økning i andelen med uføretrygd ) står på oppgitt side
 - OK   3 estimat=74 rad 25 (AV-2022-2-02, Relativ økning i andelen med uføretrygd ) står i sitatet
-- FEIL 2 sitat rad 28 (KU-f0f528eb-0eaf-4e6b-bcb1-5b5b44367324, Økt sannsynlighet for uføretrygd ni år e) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 28 (KU-f0f528eb-0eaf-4e6b-bcb1-5b5b44367324, Økt sannsynlighet for uføretrygd ni år e) står på oppgitt side
 - OK   3 estimat=0.8 rad 28 (KU-f0f528eb-0eaf-4e6b-bcb1-5b5b44367324, Økt sannsynlighet for uføretrygd ni år e) står i sitatet
-- FEIL 2 sitat rad 29 (AV-2014-1-04, Vekst i antall unge under 30 år i katego) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 29 (AV-2014-1-04, Vekst i antall unge under 30 år i katego) står på oppgitt side
 - OK   3 estimat=60 rad 29 (AV-2014-1-04, Vekst i antall unge under 30 år i katego) står i sitatet
-- FEIL 2 sitat rad 30 (AV-2014-1-04, Andel unge registrert med nedsatt arbeid) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 30 (AV-2014-1-04, Andel unge registrert med nedsatt arbeid) står på oppgitt side
 - OK   3 estimat=60 rad 30 (AV-2014-1-04, Andel unge registrert med nedsatt arbeid) står i sitatet
-- FEIL 2 sitat rad 31 (AV-2011-2-02, Andel med fullført videregående skole bl) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 31 (AV-2011-2-02, Andel med fullført videregående skole bl) står på oppgitt side
 - OK   3 estimat=24 rad 31 (AV-2011-2-02, Andel med fullført videregående skole bl) står i sitatet
-- FEIL 2 sitat rad 32 (AV-2011-2-02, Andel med uføreytelse tre år etter start) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 32 (AV-2011-2-02, Andel med uføreytelse tre år etter start) står på oppgitt side
 - OK   3 estimat=11 rad 32 (AV-2011-2-02, Andel med uføreytelse tre år etter start) står i sitatet
-- FEIL 2 sitat rad 33 (KU-c48cd033-8718-4bb3-a149-7bc9f67459cf, Andel av befolkningen 18–29 år med uføre) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 33 (KU-c48cd033-8718-4bb3-a149-7bc9f67459cf, Andel av befolkningen 18–29 år med uføre) står på oppgitt side
 - OK   3 estimat=2.4 rad 33 (KU-c48cd033-8718-4bb3-a149-7bc9f67459cf, Andel av befolkningen 18–29 år med uføre) står i sitatet
-- FEIL 2 sitat rad 34 (KU-c48cd033-8718-4bb3-a149-7bc9f67459cf, Andel i kullet som fylte 21 år i 2018 me) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 34 (KU-c48cd033-8718-4bb3-a149-7bc9f67459cf, Andel i kullet som fylte 21 år i 2018 me) står på oppgitt side
 - OK   3 estimat=37 rad 34 (KU-c48cd033-8718-4bb3-a149-7bc9f67459cf, Andel i kullet som fylte 21 år i 2018 me) står i sitatet
-- FEIL 2 sitat rad 35 (KU-c48cd033-8718-4bb3-a149-7bc9f67459cf, Andel med fullført videregående blant ny) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 35 (KU-c48cd033-8718-4bb3-a149-7bc9f67459cf, Andel med fullført videregående blant ny) står på oppgitt side
 - OK   3 estimat=20 rad 35 (KU-c48cd033-8718-4bb3-a149-7bc9f67459cf, Andel med fullført videregående blant ny) står i sitatet
-- FEIL 2 sitat rad 36 (KU-c48cd033-8718-4bb3-a149-7bc9f67459cf, Andel av nye unge uføre 20–29 år som had) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 36 (KU-c48cd033-8718-4bb3-a149-7bc9f67459cf, Andel av nye unge uføre 20–29 år som had) står på oppgitt side
 - OK   3 estimat=90 rad 36 (KU-c48cd033-8718-4bb3-a149-7bc9f67459cf, Andel av nye unge uføre 20–29 år som had) står i sitatet
-- FEIL 2 sitat rad 37 (KU-c48cd033-8718-4bb3-a149-7bc9f67459cf, Effekt av ett standardavviks økning i ko) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 37 (KU-c48cd033-8718-4bb3-a149-7bc9f67459cf, Effekt av ett standardavviks økning i ko) står på oppgitt side
 - OK   3 estimat=0.008 rad 37 (KU-c48cd033-8718-4bb3-a149-7bc9f67459cf, Effekt av ett standardavviks økning i ko) står i sitatet
-- FEIL 2 sitat rad 39 (KU-760de028-a79e-4384-8d4c-b95617f70198, Andel av aldersgruppen 18–29 år med vari) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 39 (KU-760de028-a79e-4384-8d4c-b95617f70198, Andel av aldersgruppen 18–29 år med vari) står på oppgitt side
 - OK   3 estimat=1 rad 39 (KU-760de028-a79e-4384-8d4c-b95617f70198, Andel av aldersgruppen 18–29 år med vari) står i sitatet
-- FEIL 2 sitat rad 40 (KU-760de028-a79e-4384-8d4c-b95617f70198, Andel av unge 18–30 år som er NEET og mo) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 40 (KU-760de028-a79e-4384-8d4c-b95617f70198, Andel av unge 18–30 år som er NEET og mo) står på oppgitt side
 - OK   3 estimat=3 rad 40 (KU-760de028-a79e-4384-8d4c-b95617f70198, Andel av unge 18–30 år som er NEET og mo) står i sitatet
-- FEIL 2 sitat rad 42 (W2104893223, Økt deltakelse i uføretrygd blant voksne) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 42 (W2104893223, Økt deltakelse i uføretrygd blant voksne) står på oppgitt side
 - OK   3 estimat=6 rad 42 (W2104893223, Økt deltakelse i uføretrygd blant voksne) står i sitatet
-- FEIL 2 sitat rad 43 (W2104893223, Økt deltakelse i uføretrygd blant voksne) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 43 (W2104893223, Økt deltakelse i uføretrygd blant voksne) står på oppgitt side
 - OK   3 estimat=12 rad 43 (W2104893223, Økt deltakelse i uføretrygd blant voksne) står i sitatet
-- FEIL 2 sitat rad 44 (W604728786, Nedre konfidensgrense for effekt av ett ) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 44 (W604728786, Nedre konfidensgrense for effekt av ett ) står på oppgitt side
 - OK   3 estimat=1 rad 44 (W604728786, Nedre konfidensgrense for effekt av ett ) står i sitatet
-- FEIL 2 sitat rad 45 (W4220875817, Andel uten fullført videregående blant u) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 45 (W4220875817, Andel uten fullført videregående blant u) står på oppgitt side
 - OK   3 estimat=62.3 rad 45 (W4220875817, Andel uten fullført videregående blant u) står i sitatet
-- FEIL 2 sitat rad 46 (W4385349285, Økning i andelen som følger et forløp so) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 46 (W4385349285, Økning i andelen som følger et forløp so) står på oppgitt side
 - OK   3 estimat=3 rad 46 (W4385349285, Økning i andelen som følger et forløp so) står i sitatet
-- FEIL 2 sitat rad 47 (W2127924530, Justert risikodifferanse for langvarig s) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 47 (W2127924530, Justert risikodifferanse for langvarig s) står på oppgitt side
 - OK   3 estimat=15 rad 47 (W2127924530, Justert risikodifferanse for langvarig s) står i sitatet
 - OK   3 ki_lav=12 rad 47 (W2127924530, Justert risikodifferanse for langvarig s) står i sitatet
 - OK   3 ki_hoy=19 rad 47 (W2127924530, Justert risikodifferanse for langvarig s) står i sitatet
 - OK   4 rad 47 (W2127924530, Justert risikodifferanse for langvarig s) estimat innenfor KI
-- FEIL 2 sitat rad 48 (W2806250080, Ingen effektestimat i løpende tekst; sam) ble IKKE funnet på oppgitt side
-- FEIL 2 sitat rad 49 (W4416980659, Risiko for uførepensjon i tidlig voksen ) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 48 (W2806250080, Ingen effektestimat i løpende tekst; sam) står på oppgitt side
+- OK   2 sitat rad 49 (W4416980659, Risiko for uførepensjon i tidlig voksen ) står på oppgitt side
 - OK   3 estimat=2.25 rad 49 (W4416980659, Risiko for uførepensjon i tidlig voksen ) står i sitatet
 - OK   3 ki_lav=1.62 rad 49 (W4416980659, Risiko for uførepensjon i tidlig voksen ) står i sitatet
 - OK   3 ki_hoy=3.14 rad 49 (W4416980659, Risiko for uførepensjon i tidlig voksen ) står i sitatet
 - OK   4 rad 49 (W4416980659, Risiko for uførepensjon i tidlig voksen ) estimat innenfor KI
 - OK   4 rad 49 (W4416980659, Risiko for uførepensjon i tidlig voksen ) KI symmetrisk på log-skala (avvik 0.00)
-- FEIL 2 sitat rad 50 (W2029267869, Psykiske lidelser sin andel av tapte arb) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 50 (W2029267869, Psykiske lidelser sin andel av tapte arb) står på oppgitt side
 - OK   3 estimat=33.8 rad 50 (W2029267869, Psykiske lidelser sin andel av tapte arb) står i sitatet
-- FEIL 2 sitat rad 52 (019c9524cfcc-39907780-0d56-4239-9b5d-80237da5e2eb, Økt sannsynlighet for uføretrygd eller A) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 52 (019c9524cfcc-39907780-0d56-4239-9b5d-80237da5e2eb, Økt sannsynlighet for uføretrygd eller A) står på oppgitt side
 - OK   3 estimat=9 rad 52 (019c9524cfcc-39907780-0d56-4239-9b5d-80237da5e2eb, Økt sannsynlighet for uføretrygd eller A) står i sitatet
-- FEIL 2 sitat rad 53 (019909c23973-ea65712e-ebc7-454b-b8df-def7f6bf6e87, Redusert sannsynlighet for uføretrygd ni) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 53 (019909c23973-ea65712e-ebc7-454b-b8df-def7f6bf6e87, Redusert sannsynlighet for uføretrygd ni) står på oppgitt side
 - OK   3 estimat=4.1 rad 53 (019909c23973-ea65712e-ebc7-454b-b8df-def7f6bf6e87, Redusert sannsynlighet for uføretrygd ni) står i sitatet
-- FEIL 2 sitat rad 54 (0198f22710a7-9891d74a-fefc-44a0-927c-96a4a3d8525a, Andel uføretrygdede 25–34 år i 2019 (1,6) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 54 (0198f22710a7-9891d74a-fefc-44a0-927c-96a4a3d8525a, Andel uføretrygdede 25–34 år i 2019 (1,6) står på oppgitt side
 - OK   3 estimat=3.53 rad 54 (0198f22710a7-9891d74a-fefc-44a0-927c-96a4a3d8525a, Andel uføretrygdede 25–34 år i 2019 (1,6) står i sitatet
-- FEIL 2 sitat rad 55 (01999f35b1ef-206f9791-8599-4806-b338-7a2f7d3eb219, Andel av aldersgruppen 25–29 år med ufør) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 55 (01999f35b1ef-206f9791-8599-4806-b338-7a2f7d3eb219, Andel av aldersgruppen 25–29 år med ufør) står på oppgitt side
 - OK   3 estimat=3.2 rad 55 (01999f35b1ef-206f9791-8599-4806-b338-7a2f7d3eb219, Andel av aldersgruppen 25–29 år med ufør) står i sitatet
-- FEIL 2 sitat rad 56 (W2929109866, Endring over tid i sammenhengen mellom s) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 56 (W2929109866, Endring over tid i sammenhengen mellom s) står på oppgitt side
 - OK   3 estimat=1.12 rad 56 (W2929109866, Endring over tid i sammenhengen mellom s) står i sitatet
 - OK   3 ki_lav=1.08 rad 56 (W2929109866, Endring over tid i sammenhengen mellom s) står i sitatet
 - OK   3 ki_hoy=1.16 rad 56 (W2929109866, Endring over tid i sammenhengen mellom s) står i sitatet
 - OK   4 rad 56 (W2929109866, Endring over tid i sammenhengen mellom s) estimat innenfor KI
 - OK   4 rad 56 (W2929109866, Endring over tid i sammenhengen mellom s) KI symmetrisk på log-skala (avvik 0.00)
-- FEIL 2 sitat rad 57 (W2929109866, Nye mottakere av aktivitetsersättning pe) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 57 (W2929109866, Nye mottakere av aktivitetsersättning pe) står på oppgitt side
 - OK   3 estimat=6.2 rad 57 (W2929109866, Nye mottakere av aktivitetsersättning pe) står i sitatet
-- FEIL 2 sitat rad 58 (W4323066482, Rate for uførepensjon for vanlige psykis) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 58 (W4323066482, Rate for uførepensjon for vanlige psykis) står på oppgitt side
 - OK   3 estimat=23 rad 58 (W4323066482, Rate for uførepensjon for vanlige psykis) står i sitatet
-- FEIL 2 sitat rad 59 (W3007697702, Rate ratio for dager med sykefravær og u) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 59 (W3007697702, Rate ratio for dager med sykefravær og u) står på oppgitt side
 - OK   3 estimat=11.17 rad 59 (W3007697702, Rate ratio for dager med sykefravær og u) står i sitatet
 - OK   3 ki_lav=9.89 rad 59 (W3007697702, Rate ratio for dager med sykefravær og u) står i sitatet
 - OK   3 ki_hoy=12.60 rad 59 (W3007697702, Rate ratio for dager med sykefravær og u) står i sitatet
 - OK   4 rad 59 (W3007697702, Rate ratio for dager med sykefravær og u) estimat innenfor KI
 - OK   4 rad 59 (W3007697702, Rate ratio for dager med sykefravær og u) KI symmetrisk på log-skala (avvik 0.00)
-- FEIL 2 sitat rad 60 (W3007697702, Rate ratio for dager med sykefravær og u) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 60 (W3007697702, Rate ratio for dager med sykefravær og u) står på oppgitt side
 - OK   3 estimat=35.59 rad 60 (W3007697702, Rate ratio for dager med sykefravær og u) står i sitatet
 - OK   3 ki_lav=30.30 rad 60 (W3007697702, Rate ratio for dager med sykefravær og u) står i sitatet
 - OK   3 ki_hoy=41.81 rad 60 (W3007697702, Rate ratio for dager med sykefravær og u) står i sitatet
 - OK   4 rad 60 (W3007697702, Rate ratio for dager med sykefravær og u) estimat innenfor KI
 - OK   4 rad 60 (W3007697702, Rate ratio for dager med sykefravær og u) KI symmetrisk på log-skala (avvik 0.00)
-- FEIL 2 sitat rad 61 (W3186518967, Risiko for uførepensjon innen fem år ett) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 61 (W3186518967, Risiko for uførepensjon innen fem år ett) står på oppgitt side
 - OK   3 estimat=10.2 rad 61 (W3186518967, Risiko for uførepensjon innen fem år ett) står i sitatet
 - OK   3 ki_lav=9.3 rad 61 (W3186518967, Risiko for uførepensjon innen fem år ett) står i sitatet
 - OK   3 ki_hoy=11.2 rad 61 (W3186518967, Risiko for uførepensjon innen fem år ett) står i sitatet
 - OK   4 rad 61 (W3186518967, Risiko for uførepensjon innen fem år ett) estimat innenfor KI
 - OK   4 rad 61 (W3186518967, Risiko for uførepensjon innen fem år ett) KI symmetrisk på log-skala (avvik 0.00)
-- FEIL 2 sitat rad 62 (W3186518967, Risiko for uførepensjon innen fem år ett) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 62 (W3186518967, Risiko for uførepensjon innen fem år ett) står på oppgitt side
 - OK   3 estimat=9.0 rad 62 (W3186518967, Risiko for uførepensjon innen fem år ett) står i sitatet
 - OK   3 ki_lav=6.6 rad 62 (W3186518967, Risiko for uførepensjon innen fem år ett) står i sitatet
 - OK   3 ki_hoy=12.3 rad 62 (W3186518967, Risiko for uførepensjon innen fem år ett) står i sitatet
 - OK   4 rad 62 (W3186518967, Risiko for uførepensjon innen fem år ett) estimat innenfor KI
 - OK   4 rad 62 (W3186518967, Risiko for uførepensjon innen fem år ett) KI symmetrisk på log-skala (avvik 0.00)
-- FEIL 2 sitat rad 63 (W3015075737, Odds for å følge et forløp med høy og de) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 63 (W3015075737, Odds for å følge et forløp med høy og de) står på oppgitt side
 - OK   3 estimat=3.60 rad 63 (W3015075737, Odds for å følge et forløp med høy og de) står i sitatet
 - OK   3 ki_lav=3.08 rad 63 (W3015075737, Odds for å følge et forløp med høy og de) står i sitatet
 - OK   3 ki_hoy=4.19 rad 63 (W3015075737, Odds for å følge et forløp med høy og de) står i sitatet
 - OK   4 rad 63 (W3015075737, Odds for å følge et forløp med høy og de) estimat innenfor KI
 - OK   4 rad 63 (W3015075737, Odds for å følge et forløp med høy og de) KI symmetrisk på log-skala (avvik 0.00)
-- FEIL 2 sitat rad 64 (W2682847430, Risiko for uførepensjon 2005–2011 ved ps) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 64 (W2682847430, Risiko for uførepensjon 2005–2011 ved ps) står på oppgitt side
 - OK   3 estimat=6.6 rad 64 (W2682847430, Risiko for uførepensjon 2005–2011 ved ps) står i sitatet
 - OK   3 ki_lav=6.4 rad 64 (W2682847430, Risiko for uførepensjon 2005–2011 ved ps) står i sitatet
 - OK   3 ki_hoy=6.8 rad 64 (W2682847430, Risiko for uførepensjon 2005–2011 ved ps) står i sitatet
 - OK   4 rad 64 (W2682847430, Risiko for uførepensjon 2005–2011 ved ps) estimat innenfor KI
 - OK   4 rad 64 (W2682847430, Risiko for uførepensjon 2005–2011 ved ps) KI symmetrisk på log-skala (avvik 0.00)
-- FEIL 2 sitat rad 65 (W2146753458, Ingen effektestimat i sammendraget; ensl) ble IKKE funnet på oppgitt side
-- FEIL 2 sitat rad 66 (LI-dscdbdnmbgc4xw3q, Andel avslag på nye søknader om aktivite) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 65 (W2146753458, Ingen effektestimat i sammendraget; ensl) står på oppgitt side
+- OK   2 sitat rad 66 (LI-dscdbdnmbgc4xw3q, Andel avslag på nye søknader om aktivite) står på oppgitt side
 - OK   3 estimat=47 rad 66 (LI-dscdbdnmbgc4xw3q, Andel avslag på nye søknader om aktivite) står i sitatet
-- FEIL 2 sitat rad 69 (W2360160115, Andel tilknyttet arbeid eller utdanning ) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 69 (W2360160115, Andel tilknyttet arbeid eller utdanning ) står på oppgitt side
 - OK   3 estimat=50 rad 69 (W2360160115, Andel tilknyttet arbeid eller utdanning ) står i sitatet
-- FEIL 2 sitat rad 70 (W2360160115, Psykiske lidelser og rusmiddellidelser s) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 70 (W2360160115, Psykiske lidelser og rusmiddellidelser s) står på oppgitt side
 - OK   3 estimat=73 rad 70 (W2360160115, Psykiske lidelser og rusmiddellidelser s) står i sitatet
-- FEIL 2 sitat rad 71 (W4392986621, Risiko for arbeidsuførhet (sykefravær el) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 71 (W4392986621, Risiko for arbeidsuførhet (sykefravær el) står på oppgitt side
 - OK   3 estimat=0.82 rad 71 (W4392986621, Risiko for arbeidsuførhet (sykefravær el) står i sitatet
 - OK   3 ki_lav=0.73 rad 71 (W4392986621, Risiko for arbeidsuførhet (sykefravær el) står i sitatet
 - OK   3 ki_hoy=0.92 rad 71 (W4392986621, Risiko for arbeidsuførhet (sykefravær el) står i sitatet
 - OK   4 rad 71 (W4392986621, Risiko for arbeidsuførhet (sykefravær el) estimat innenfor KI
 - OK   4 rad 71 (W4392986621, Risiko for arbeidsuførhet (sykefravær el) KI symmetrisk på log-skala (avvik 0.00)
-- FEIL 2 sitat rad 72 (W4280593459, Andel unge kvinner med depresjonssymptom) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 72 (W4280593459, Andel unge kvinner med depresjonssymptom) står på oppgitt side
 - OK   3 estimat=10.7 rad 72 (W4280593459, Andel unge kvinner med depresjonssymptom) står i sitatet
-- FEIL 2 sitat rad 73 (W1562236787, Andel av alle nye uføretrygdkrav blant m) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 73 (W1562236787, Andel av alle nye uføretrygdkrav blant m) står på oppgitt side
 - OK   3 estimat=28 rad 73 (W1562236787, Andel av alle nye uføretrygdkrav blant m) står i sitatet
 - OK   2 sitat rad 74 (W7134072462, Langtidseffekt (åtte år) av makstid tre ) står på oppgitt side
 - OK   2 sitat rad 85 (W1967551067, Psykiske lidelser og atferdsforstyrrelse) står på oppgitt side
@@ -511,131 +510,131 @@ Kjørt 2026-11-14.
 - OK   4 rad 132 (W3173764865, Risiko for uførepensjon ved lav utdannin) KI symmetrisk på log-skala (avvik 0.00)
 - OK   2 sitat rad 133 (W1879173524, Andel med uførepensjon i tidlig voksen a) står på oppgitt side
 - OK   3 estimat=10 rad 133 (W1879173524, Andel med uførepensjon i tidlig voksen a) står i sitatet
-- FEIL 2 sitat rad 137 (AV-2015-3-07, Andel nye mottakere av midlertidig helse) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 137 (AV-2015-3-07, Andel nye mottakere av midlertidig helse) står på oppgitt side
 - OK   3 estimat=8 rad 137 (AV-2015-3-07, Andel nye mottakere av midlertidig helse) står i sitatet
-- FEIL 2 sitat rad 138 (AV-2015-3-07, Økning i antall nye mottakere per måned ) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 138 (AV-2015-3-07, Økning i antall nye mottakere per måned ) står på oppgitt side
 - OK   3 estimat=50 rad 138 (AV-2015-3-07, Økning i antall nye mottakere per måned ) står i sitatet
-- FEIL 2 sitat rad 139 (AV-2015-3-07, Andel nye mottakere av midlertidig helse) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 139 (AV-2015-3-07, Andel nye mottakere av midlertidig helse) står på oppgitt side
 - OK   3 estimat=70 rad 139 (AV-2015-3-07, Andel nye mottakere av midlertidig helse) står i sitatet
-- FEIL 2 sitat rad 140 (0198cc84729b-a09bd70a-765d-4bbb-a164-84a96be028c2, Andel av NEET-gruppen som mottar uføretr) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 140 (0198cc84729b-a09bd70a-765d-4bbb-a164-84a96be028c2, Andel av NEET-gruppen som mottar uføretr) står på oppgitt side
 - OK   3 estimat=15 rad 140 (0198cc84729b-a09bd70a-765d-4bbb-a164-84a96be028c2, Andel av NEET-gruppen som mottar uføretr) står i sitatet
-- FEIL 2 sitat rad 141 (0198cc84729b-a09bd70a-765d-4bbb-a164-84a96be028c2, NEET-andel (inkluderer uføretrygd, AAP, ) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 141 (0198cc84729b-a09bd70a-765d-4bbb-a164-84a96be028c2, NEET-andel (inkluderer uføretrygd, AAP, ) står på oppgitt side
 - OK   3 estimat=9.6 rad 141 (0198cc84729b-a09bd70a-765d-4bbb-a164-84a96be028c2, NEET-andel (inkluderer uføretrygd, AAP, ) står i sitatet
-- FEIL 2 sitat rad 142 (0198f20c8215-28864d36-ea09-448e-bff0-7b399d5fdb09, Økning i andelen 25-åringer med helserel) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 142 (0198f20c8215-28864d36-ea09-448e-bff0-7b399d5fdb09, Økning i andelen 25-åringer med helserel) står på oppgitt side
 - OK   3 estimat=16.45 rad 142 (0198f20c8215-28864d36-ea09-448e-bff0-7b399d5fdb09, Økning i andelen 25-åringer med helserel) står i sitatet
-- FEIL 2 sitat rad 143 (0198f20c8215-28864d36-ea09-448e-bff0-7b399d5fdb09, Andel 25-åringer som mottok AAP i 2010 () ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 143 (0198f20c8215-28864d36-ea09-448e-bff0-7b399d5fdb09, Andel 25-åringer som mottok AAP i 2010 () står på oppgitt side
 - OK   3 estimat=4.64 rad 143 (0198f20c8215-28864d36-ea09-448e-bff0-7b399d5fdb09, Andel 25-åringer som mottok AAP i 2010 () står i sitatet
-- FEIL 2 sitat rad 144 (0198f20c8215-28864d36-ea09-448e-bff0-7b399d5fdb09, Predikert sannsynlighet (prosent) for he) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 144 (0198f20c8215-28864d36-ea09-448e-bff0-7b399d5fdb09, Predikert sannsynlighet (prosent) for he) står på oppgitt side
 - OK   3 estimat=47.02 rad 144 (0198f20c8215-28864d36-ea09-448e-bff0-7b399d5fdb09, Predikert sannsynlighet (prosent) for he) står i sitatet
-- FEIL 2 sitat rad 145 (R-91a7b6c512, Nytilkendte førtidspensioner per måned t) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 145 (R-91a7b6c512, Nytilkendte førtidspensioner per måned t) står på oppgitt side
 - OK   3 estimat=115 rad 145 (R-91a7b6c512, Nytilkendte førtidspensioner per måned t) står i sitatet
-- FEIL 2 sitat rad 146 (R-91a7b6c512, Andel av dem som ble førtidspensionert f) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 146 (R-91a7b6c512, Andel av dem som ble førtidspensionert f) står på oppgitt side
 - OK   3 estimat=11 rad 146 (R-91a7b6c512, Andel av dem som ble førtidspensionert f) står i sitatet
-- FEIL 2 sitat rad 147 (R-91a7b6c512, Merafgang til ordinært arbeid eller utda) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 147 (R-91a7b6c512, Merafgang til ordinært arbeid eller utda) står på oppgitt side
 - OK   3 estimat=28 rad 147 (R-91a7b6c512, Merafgang til ordinært arbeid eller utda) står i sitatet
-- FEIL 2 sitat rad 148 (R-f51590820c, Andel som innen et halvår søkte og fikk ) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 148 (R-f51590820c, Andel som innen et halvår søkte og fikk ) står på oppgitt side
 - OK   3 estimat=52 rad 148 (R-f51590820c, Andel som innen et halvår søkte og fikk ) står i sitatet
-- FEIL 2 sitat rad 149 (R-f51590820c, Andel som begynte å arbeide etter en per) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 149 (R-f51590820c, Andel som begynte å arbeide etter en per) står på oppgitt side
 - OK   3 estimat=4 rad 149 (R-f51590820c, Andel som begynte å arbeide etter en per) står i sitatet
-- FEIL 2 sitat rad 150 (W2212575307, Økt sannsynlighet for uførepensjon ved 3) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 150 (W2212575307, Økt sannsynlighet for uførepensjon ved 3) står på oppgitt side
 - OK   3 estimat=20 rad 150 (W2212575307, Økt sannsynlighet for uførepensjon ved 3) står i sitatet
-- FEIL 2 sitat rad 151 (W2160015399, Odds for langvarige medisinske ytelser () ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 151 (W2160015399, Odds for langvarige medisinske ytelser () står på oppgitt side
 - OK   3 estimat=1.65 rad 151 (W2160015399, Odds for langvarige medisinske ytelser () står i sitatet
 - OK   3 ki_lav=1.10 rad 151 (W2160015399, Odds for langvarige medisinske ytelser () står i sitatet
 - OK   3 ki_hoy=2.48 rad 151 (W2160015399, Odds for langvarige medisinske ytelser () står i sitatet
 - OK   4 rad 151 (W2160015399, Odds for langvarige medisinske ytelser () estimat innenfor KI
 - OK   4 rad 151 (W2160015399, Odds for langvarige medisinske ytelser () KI symmetrisk på log-skala (avvik 0.00)
-- FEIL 2 sitat rad 152 (W2160015399, Odds for langvarige medisinske ytelser 2) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 152 (W2160015399, Odds for langvarige medisinske ytelser 2) står på oppgitt side
 - OK   3 estimat=1.58 rad 152 (W2160015399, Odds for langvarige medisinske ytelser 2) står i sitatet
 - OK   3 ki_lav=1.33 rad 152 (W2160015399, Odds for langvarige medisinske ytelser 2) står i sitatet
 - OK   3 ki_hoy=1.87 rad 152 (W2160015399, Odds for langvarige medisinske ytelser 2) står i sitatet
 - OK   4 rad 152 (W2160015399, Odds for langvarige medisinske ytelser 2) estimat innenfor KI
 - OK   4 rad 152 (W2160015399, Odds for langvarige medisinske ytelser 2) KI symmetrisk på log-skala (avvik 0.00)
-- FEIL 2 sitat rad 153 (W2142502944, Arvbarhet for uførepensjon (0.49 for lan) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 153 (W2142502944, Arvbarhet for uførepensjon (0.49 for lan) står på oppgitt side
 - OK   3 estimat=0.66 rad 153 (W2142502944, Arvbarhet for uførepensjon (0.49 for lan) står i sitatet
-- FEIL 2 sitat rad 154 (W2142502944, Andel med uførepensjon i oppfølgingen 19) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 154 (W2142502944, Andel med uførepensjon i oppfølgingen 19) står på oppgitt side
 - OK   3 estimat=3.3 rad 154 (W2142502944, Andel med uførepensjon i oppfølgingen 19) står i sitatet
-- FEIL 2 sitat rad 155 (W2142502944, Andel med psykisk lidelse som diagnose b) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 155 (W2142502944, Andel med psykisk lidelse som diagnose b) står på oppgitt side
 - OK   3 estimat=51.0 rad 155 (W2142502944, Andel med psykisk lidelse som diagnose b) står i sitatet
-- FEIL 2 sitat rad 156 (W2628418572, Risiko for uførepensjon (DP) i ung vokse) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 156 (W2628418572, Risiko for uførepensjon (DP) i ung vokse) står på oppgitt side
 - OK   3 estimat=1.31 rad 156 (W2628418572, Risiko for uførepensjon (DP) i ung vokse) står i sitatet
 - OK   3 ki_lav=1.12 rad 156 (W2628418572, Risiko for uførepensjon (DP) i ung vokse) står i sitatet
 - OK   3 ki_hoy=1.53 rad 156 (W2628418572, Risiko for uførepensjon (DP) i ung vokse) står i sitatet
 - OK   4 rad 156 (W2628418572, Risiko for uførepensjon (DP) i ung vokse) estimat innenfor KI
 - OK   4 rad 156 (W2628418572, Risiko for uførepensjon (DP) i ung vokse) KI symmetrisk på log-skala (avvik 0.00)
-- FEIL 2 sitat rad 157 (W4366083399, Relativ risiko for uføretrygd ved 29 år ) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 157 (W4366083399, Relativ risiko for uføretrygd ved 29 år ) står på oppgitt side
 - OK   3 estimat=4.43 rad 157 (W4366083399, Relativ risiko for uføretrygd ved 29 år ) står i sitatet
 - OK   3 ki_lav=3.26 rad 157 (W4366083399, Relativ risiko for uføretrygd ved 29 år ) står i sitatet
 - OK   3 ki_hoy=6.01 rad 157 (W4366083399, Relativ risiko for uføretrygd ved 29 år ) står i sitatet
 - OK   4 rad 157 (W4366083399, Relativ risiko for uføretrygd ved 29 år ) estimat innenfor KI
 - OK   4 rad 157 (W4366083399, Relativ risiko for uføretrygd ved 29 år ) KI symmetrisk på log-skala (avvik 0.00)
-- FEIL 2 sitat rad 158 (W4366083399, Relativ risiko for sosialhjelp ved 29 år) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 158 (W4366083399, Relativ risiko for sosialhjelp ved 29 år) står på oppgitt side
 - OK   3 estimat=1.56 rad 158 (W4366083399, Relativ risiko for sosialhjelp ved 29 år) står i sitatet
 - OK   3 ki_lav=1.41 rad 158 (W4366083399, Relativ risiko for sosialhjelp ved 29 år) står i sitatet
 - OK   3 ki_hoy=1.74 rad 158 (W4366083399, Relativ risiko for sosialhjelp ved 29 år) står i sitatet
 - OK   4 rad 158 (W4366083399, Relativ risiko for sosialhjelp ved 29 år) estimat innenfor KI
 - OK   4 rad 158 (W4366083399, Relativ risiko for sosialhjelp ved 29 år) KI symmetrisk på log-skala (avvik 0.01)
-- FEIL 2 sitat rad 159 (W3138005625, Odds for uførepensjon (disability pensio) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 159 (W3138005625, Odds for uførepensjon (disability pensio) står på oppgitt side
 - OK   3 estimat=19.0 rad 159 (W3138005625, Odds for uførepensjon (disability pensio) står i sitatet
 - OK   3 ki_lav=18.4 rad 159 (W3138005625, Odds for uførepensjon (disability pensio) står i sitatet
 - OK   3 ki_hoy=19.6 rad 159 (W3138005625, Odds for uførepensjon (disability pensio) står i sitatet
 - OK   4 rad 159 (W3138005625, Odds for uførepensjon (disability pensio) estimat innenfor KI
 - OK   4 rad 159 (W3138005625, Odds for uførepensjon (disability pensio) KI symmetrisk på log-skala (avvik 0.00)
-- FEIL 2 sitat rad 160 (W3138005625, Odds for uførepensjon for personer med A) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 160 (W3138005625, Odds for uførepensjon for personer med A) står på oppgitt side
 - OK   3 estimat=5.68 rad 160 (W3138005625, Odds for uførepensjon for personer med A) står i sitatet
-- FEIL 2 sitat rad 161 (W2142283858, Risiko for uførepensjon 1993–2007 for de) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 161 (W2142283858, Risiko for uførepensjon 1993–2007 for de) står på oppgitt side
 - OK   3 estimat=1.08 rad 161 (W2142283858, Risiko for uførepensjon 1993–2007 for de) står i sitatet
-- FEIL 2 sitat rad 162 (W2142283858, Risiko for uførepensjon 1993–2007 ved la) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 162 (W2142283858, Risiko for uførepensjon 1993–2007 ved la) står på oppgitt side
 - OK   3 estimat=1.62 rad 162 (W2142283858, Risiko for uførepensjon 1993–2007 ved la) står i sitatet
 - OK   3 ki_lav=1.46 rad 162 (W2142283858, Risiko for uførepensjon 1993–2007 ved la) står i sitatet
 - OK   3 ki_hoy=1.79 rad 162 (W2142283858, Risiko for uførepensjon 1993–2007 ved la) står i sitatet
 - OK   4 rad 162 (W2142283858, Risiko for uførepensjon 1993–2007 ved la) estimat innenfor KI
 - OK   4 rad 162 (W2142283858, Risiko for uførepensjon 1993–2007 ved la) KI symmetrisk på log-skala (avvik 0.00)
-- FEIL 2 sitat rad 163 (W2896840500, Andel med psykisk belastning, det vanlig) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 163 (W2896840500, Andel med psykisk belastning, det vanlig) står på oppgitt side
 - OK   3 estimat=52 rad 163 (W2896840500, Andel med psykisk belastning, det vanlig) står i sitatet
-- FEIL 2 sitat rad 164 (W2896840500, Andel uten fullført videregående) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 164 (W2896840500, Andel uten fullført videregående) står på oppgitt side
 - OK   3 estimat=40 rad 164 (W2896840500, Andel uten fullført videregående) står i sitatet
-- FEIL 2 sitat rad 165 (W2896840500, Andel av tidlig arbeidsuførhet i Norge m) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 165 (W2896840500, Andel av tidlig arbeidsuførhet i Norge m) står på oppgitt side
 - OK   3 estimat=63 rad 165 (W2896840500, Andel av tidlig arbeidsuførhet i Norge m) står i sitatet
-- FEIL 2 sitat rad 166 (R-e0bf5ced86, Antall som i løpet av året fikk aktivite) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 166 (R-e0bf5ced86, Antall som i løpet av året fikk aktivite) står på oppgitt side
 - OK   3 estimat=47000 rad 166 (R-e0bf5ced86, Antall som i løpet av året fikk aktivite) står i sitatet
-- FEIL 2 sitat rad 167 (R-e0bf5ced86, Andel med aktivitetsersättning som har p) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 167 (R-e0bf5ced86, Andel med aktivitetsersättning som har p) står på oppgitt side
 - OK   3 estimat=70 rad 167 (R-e0bf5ced86, Andel med aktivitetsersättning som har p) står i sitatet
-- FEIL 2 sitat rad 168 (R-e0bf5ced86, Andel med aktivitetsersättning der forel) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 168 (R-e0bf5ced86, Andel med aktivitetsersättning der forel) står på oppgitt side
 - OK   3 estimat=60 rad 168 (R-e0bf5ced86, Andel med aktivitetsersättning der forel) står i sitatet
-- FEIL 2 sitat rad 169 (R-e0bf5ced86, Andel som gikk direkte over til sjukersä) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 169 (R-e0bf5ced86, Andel som gikk direkte over til sjukersä) står på oppgitt side
 - OK   3 estimat=48 rad 169 (R-e0bf5ced86, Andel som gikk direkte over til sjukersä) står i sitatet
-- FEIL 2 sitat rad 170 (R-c354ed68d0, Andel avslag på nye søknader om aktivite) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 170 (R-c354ed68d0, Andel avslag på nye søknader om aktivite) står på oppgitt side
 - OK   3 estimat=47 rad 170 (R-c354ed68d0, Andel avslag på nye søknader om aktivite) står i sitatet
-- FEIL 2 sitat rad 171 (R-c354ed68d0, Økt sannsynlighet for avslag etter Försä) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 171 (R-c354ed68d0, Økt sannsynlighet for avslag etter Försä) står på oppgitt side
 - OK   3 estimat=5.77 rad 171 (R-c354ed68d0, Økt sannsynlighet for avslag etter Försä) står i sitatet
-- FEIL 2 sitat rad 172 (R-c354ed68d0, Antall med aktivitetsersättning ved neds) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 172 (R-c354ed68d0, Antall med aktivitetsersättning ved neds) står på oppgitt side
 - OK   3 estimat=24000 rad 172 (R-c354ed68d0, Antall med aktivitetsersättning ved neds) står i sitatet
-- FEIL 2 sitat rad 173 (R-741042958e, Antall med aktivitetsersättning ved neds) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 173 (R-741042958e, Antall med aktivitetsersättning ved neds) står på oppgitt side
 - OK   3 estimat=29700 rad 173 (R-741042958e, Antall med aktivitetsersättning ved neds) står i sitatet
-- FEIL 2 sitat rad 174 (R-741042958e, Andel med psykiatrisk hoveddiagnose blan) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 174 (R-741042958e, Andel med psykiatrisk hoveddiagnose blan) står på oppgitt side
 - OK   3 estimat=67 rad 174 (R-741042958e, Andel med psykiatrisk hoveddiagnose blan) står i sitatet
-- FEIL 2 sitat rad 175 (R-741042958e, Andel som innen et halvår søkte og fikk ) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 175 (R-741042958e, Andel som innen et halvår søkte og fikk ) står på oppgitt side
 - OK   3 estimat=53 rad 175 (R-741042958e, Andel som innen et halvår søkte og fikk ) står i sitatet
-- FEIL 2 sitat rad 176 (R-741042958e, Andel med sjukersättning blant unge unde) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 176 (R-741042958e, Andel med sjukersättning blant unge unde) står på oppgitt side
 - OK   3 estimat=9 rad 176 (R-741042958e, Andel med sjukersättning blant unge unde) står i sitatet
-- FEIL 2 sitat rad 177 (AV-2022-3-05, Vekst i andel unge uføre i Nordland 2012) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 177 (AV-2022-3-05, Vekst i andel unge uføre i Nordland 2012) står på oppgitt side
 - OK   3 estimat=129 rad 177 (AV-2022-3-05, Vekst i andel unge uføre i Nordland 2012) står i sitatet
-- FEIL 2 sitat rad 178 (AV-2022-2-02, Økning i andel i aktivitet (arbeid, kurs) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 178 (AV-2022-2-02, Økning i andel i aktivitet (arbeid, kurs) står på oppgitt side
 - OK   3 estimat=9.4 rad 178 (AV-2022-2-02, Økning i andel i aktivitet (arbeid, kurs) står i sitatet
-- FEIL 2 sitat rad 179 (R-c354ed68d0, Andel avslag på forlengelsessøknader, 20) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 179 (R-c354ed68d0, Andel avslag på forlengelsessøknader, 20) står på oppgitt side
 - OK   3 estimat=20 rad 179 (R-c354ed68d0, Andel avslag på forlengelsessøknader, 20) står i sitatet
-- FEIL 2 sitat rad 180 (W3123524712, Øvre grense for gjennomsnittlig kausalef) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 180 (W3123524712, Øvre grense for gjennomsnittlig kausalef) står på oppgitt side
 - OK   3 estimat=2.8 rad 180 (W3123524712, Øvre grense for gjennomsnittlig kausalef) står i sitatet
-- FEIL 2 sitat rad 181 (R-c354ed68d0, Antall med aktivitetsersättning ved neds) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 181 (R-c354ed68d0, Antall med aktivitetsersättning ved neds) står på oppgitt side
 - OK   3 estimat=32000 rad 181 (R-c354ed68d0, Antall med aktivitetsersättning ved neds) står i sitatet
-- FEIL 2 sitat rad 182 (NB-4593, nye tilfeller av arbeidsavklaringspenger) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 182 (NB-4593, nye tilfeller av arbeidsavklaringspenger) står på oppgitt side
 - OK   3 estimat=5 rad 182 (NB-4593, nye tilfeller av arbeidsavklaringspenger) står i sitatet
-- FEIL 2 sitat rad 183 (NB-4593, avgang fra AAP og tilgang til uføretrygd) ble IKKE funnet på oppgitt side
-- FEIL 2 sitat rad 184 (NB-5042, andel som mottok en helserelatert ytelse) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 183 (NB-4593, avgang fra AAP og tilgang til uføretrygd) står på oppgitt side
+- OK   2 sitat rad 184 (NB-5042, andel som mottok en helserelatert ytelse) står på oppgitt side
 - OK   3 estimat=7.0 rad 184 (NB-5042, andel som mottok en helserelatert ytelse) står i sitatet
-- FEIL 2 sitat rad 185 (NB-5078, overgang fra AAP til uførepensjon for ny) ble IKKE funnet på oppgitt side
-- FEIL 2 sitat rad 186 (NB-4593, nye tilfeller av arbeidsavklaringspenger) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 185 (NB-5078, overgang fra AAP til uførepensjon for ny) står på oppgitt side
+- OK   2 sitat rad 186 (NB-4593, nye tilfeller av arbeidsavklaringspenger) står på oppgitt side
 - OK   3 estimat=369 rad 186 (NB-4593, nye tilfeller av arbeidsavklaringspenger) står i sitatet
 - OK   7 statistikk rad 1 (Nav Mottakere av uføretrygd som andel av befolkningen, etter kjønn og alder, Uføretrygd 18-19 år, begge kjønn) har alle felt
 - OK   7 statistikk rad 1 (Nav Mottakere av uføretrygd som andel av befolkningen, etter kjønn og alder, Uføretrygd 18-19 år, begge kjønn) verdien 1.0 står i statistikk/nav-ufore-andel-kjonn-alder.tsv
@@ -1066,6 +1065,7 @@ Kjørt 2026-11-14.
 - OK   5 tallet 2.8 i svaret finnes i estimat- eller statistikktabellen
 - OK   5 tallet 20 i svaret finnes i estimat- eller statistikktabellen
 - OK   5 tallet 20100 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 21 i svaret finnes i estimat- eller statistikktabellen
 - OK   5 tallet 21800 i svaret finnes i estimat- eller statistikktabellen
 - OK   5 tallet 22 i svaret finnes i estimat- eller statistikktabellen
 - OK   5 tallet 22213 i svaret finnes i estimat- eller statistikktabellen
@@ -1076,6 +1076,7 @@ Kjørt 2026-11-14.
 - OK   5 tallet 24000 i svaret finnes i estimat- eller statistikktabellen
 - OK   5 tallet 25 i svaret finnes i estimat- eller statistikktabellen
 - OK   5 tallet 2556 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 26 i svaret finnes i estimat- eller statistikktabellen
 - OK   5 tallet 28 i svaret finnes i estimat- eller statistikktabellen
 - OK   5 tallet 29 i svaret finnes i estimat- eller statistikktabellen
 - OK   5 tallet 29000 i svaret finnes i estimat- eller statistikktabellen
@@ -1097,6 +1098,7 @@ Kjørt 2026-11-14.
 - OK   5 tallet 35 i svaret finnes i estimat- eller statistikktabellen
 - OK   5 tallet 369 i svaret finnes i estimat- eller statistikktabellen
 - OK   5 tallet 37 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 39 i svaret finnes i estimat- eller statistikktabellen
 - OK   5 tallet 4.1 i svaret finnes i estimat- eller statistikktabellen
 - OK   5 tallet 4.2 i svaret finnes i estimat- eller statistikktabellen
 - OK   5 tallet 4.4 i svaret finnes i estimat- eller statistikktabellen
@@ -1106,6 +1108,7 @@ Kjørt 2026-11-14.
 - OK   5 tallet 47000 i svaret finnes i estimat- eller statistikktabellen
 - OK   5 tallet 48 i svaret finnes i estimat- eller statistikktabellen
 - OK   5 tallet 5.77 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 50 i svaret finnes i estimat- eller statistikktabellen
 - OK   5 tallet 50.1 i svaret finnes i estimat- eller statistikktabellen
 - OK   5 tallet 52 i svaret finnes i estimat- eller statistikktabellen
 - OK   5 tallet 53 i svaret finnes i estimat- eller statistikktabellen

@@ -1,10 +1,9 @@
 # Kontroll: ips-arbeid
 
-Kjørt 2026-11-14.
+Kjørt 2026-11-09.
 
-127 feil av 3171 kontroller.
+0 feil av 3169 kontroller.
 
-- OBS  10 50 sentrale valgte kilder er ikke lest i fulltekst (10 ikke lest, 40 bare sammendrag; se vedlegg_bc.py). Forbeholdene nevner uleste kilder: sjekk at antallet stemmer.
 - OK   1 kilde 0198cc7f9af9-06c4fc37-40b7-4fc9-91df-6bbf79ea07ae finnes
 - OK   1 kilde AV-2021-2-03 finnes
 - OK   1 kilde FI-uef.9915208111505966 finnes
@@ -359,11 +358,11 @@ Kjørt 2026-11-14.
 - OK   1 forfatter «Martini» for W3206158820 står i metadata eller på tittelsiden
 - OK   1 forfatter «Jäckel» for W4410133250 står i metadata eller på tittelsiden
 - OK   1 forfatter «Brinchmann» for W4390697352 står i metadata eller på tittelsiden
-- FEIL 1 forfatter «Malmberg-Heimonen» for KU-7dc2d886-f49c-4f6c-bb44-20be6225f058 står IKKE i metadata eller på tittelsiden
+- OK   1 forfatter «Malmberg-Heimonen» for KU-7dc2d886-f49c-4f6c-bb44-20be6225f058 står i metadata eller på tittelsiden
 - OK   1 forfatter «Lesner» for W7224236002 står i metadata eller på tittelsiden
 - OK   1 forfatter «Vukadin» for W4392558137 står i metadata eller på tittelsiden
 - OK   1 forfatter «Sipilä» for FI-uef.9915208111505966 står i metadata eller på tittelsiden
-- FEIL 1 forfatter «Socialstyrelsen» for LI-21150545 står IKKE i metadata eller på tittelsiden
+- OK   1 forfatter «Socialstyrelsen» for LI-21150545 står i metadata eller på tittelsiden
 - OK   1 forfatter «Andersen» for W7165951382 står i metadata eller på tittelsiden
 - OK   1 forfatter «Bond» for W1498833145 står i metadata eller på tittelsiden
 - OK   1 forfatter «Killackey» for W2893792582 står i metadata eller på tittelsiden
@@ -373,31 +372,31 @@ Kjørt 2026-11-14.
 - OK   1 forfatter «Park» for W7113154702 står i metadata eller på tittelsiden
 - OK   1 forfatter «Reme» for W2167890993 står i metadata eller på tittelsiden
 - OK   1 forfatter «Øverland» for W2885000375 står i metadata eller på tittelsiden
-- FEIL 1 forfatter «Oslo Economics» for NB-6618 står IKKE i metadata eller på tittelsiden
+- OK   1 forfatter «Oslo Economics» for NB-6618 står i metadata eller på tittelsiden
 - OK   1 forfatter «Dahl» for AV-2021-2-03 står i metadata eller på tittelsiden
 - OK   1 forfatter «Sveinsdóttir» for W4214760378 står i metadata eller på tittelsiden
-- FEIL 2 sitat rad 1 (0198cc7f9af9-06c4fc37-40b7-4fc9-91df-6bbf79ea07ae, andel som kommer i vanlig arbeid (28 RCT) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 1 (0198cc7f9af9-06c4fc37-40b7-4fc9-91df-6bbf79ea07ae, andel som kommer i vanlig arbeid (28 RCT) står på oppgitt side
 - OK   3 estimat=2.02 rad 1 (0198cc7f9af9-06c4fc37-40b7-4fc9-91df-6bbf79ea07ae, andel som kommer i vanlig arbeid (28 RCT) står i sitatet
 - OK   3 ki_lav=1.70 rad 1 (0198cc7f9af9-06c4fc37-40b7-4fc9-91df-6bbf79ea07ae, andel som kommer i vanlig arbeid (28 RCT) står i sitatet
 - OK   3 ki_hoy=2.40 rad 1 (0198cc7f9af9-06c4fc37-40b7-4fc9-91df-6bbf79ea07ae, andel som kommer i vanlig arbeid (28 RCT) står i sitatet
 - OK   4 rad 1 (0198cc7f9af9-06c4fc37-40b7-4fc9-91df-6bbf79ea07ae, andel som kommer i vanlig arbeid (28 RCT) estimat innenfor KI
 - OK   4 rad 1 (0198cc7f9af9-06c4fc37-40b7-4fc9-91df-6bbf79ea07ae, andel som kommer i vanlig arbeid (28 RCT) KI symmetrisk på log-skala (avvik 0.00)
-- FEIL 2 sitat rad 2 (0198cc7f9af9-06c4fc37-40b7-4fc9-91df-6bbf79ea07ae, tid i vanlig arbeid (20 RCT-er, lav till) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 2 (0198cc7f9af9-06c4fc37-40b7-4fc9-91df-6bbf79ea07ae, tid i vanlig arbeid (20 RCT-er, lav till) står på oppgitt side
 - OK   3 estimat=0.63 rad 2 (0198cc7f9af9-06c4fc37-40b7-4fc9-91df-6bbf79ea07ae, tid i vanlig arbeid (20 RCT-er, lav till) står i sitatet
 - OK   3 ki_lav=0.36 rad 2 (0198cc7f9af9-06c4fc37-40b7-4fc9-91df-6bbf79ea07ae, tid i vanlig arbeid (20 RCT-er, lav till) står i sitatet
 - OK   3 ki_hoy=0.89 rad 2 (0198cc7f9af9-06c4fc37-40b7-4fc9-91df-6bbf79ea07ae, tid i vanlig arbeid (20 RCT-er, lav till) står i sitatet
 - OK   4 rad 2 (0198cc7f9af9-06c4fc37-40b7-4fc9-91df-6bbf79ea07ae, tid i vanlig arbeid (20 RCT-er, lav till) estimat innenfor KI
-- FEIL 2 sitat rad 3 (0198cc7f9af9-06c4fc37-40b7-4fc9-91df-6bbf79ea07ae, inntekt, SMD (14 RCT-er, moderat tillit)) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 3 (0198cc7f9af9-06c4fc37-40b7-4fc9-91df-6bbf79ea07ae, inntekt, SMD (14 RCT-er, moderat tillit)) står på oppgitt side
 - OK   3 estimat=0.25 rad 3 (0198cc7f9af9-06c4fc37-40b7-4fc9-91df-6bbf79ea07ae, inntekt, SMD (14 RCT-er, moderat tillit)) står i sitatet
 - OK   3 ki_lav=0.12 rad 3 (0198cc7f9af9-06c4fc37-40b7-4fc9-91df-6bbf79ea07ae, inntekt, SMD (14 RCT-er, moderat tillit)) står i sitatet
 - OK   3 ki_hoy=0.37 rad 3 (0198cc7f9af9-06c4fc37-40b7-4fc9-91df-6bbf79ea07ae, inntekt, SMD (14 RCT-er, moderat tillit)) står i sitatet
 - OK   4 rad 3 (0198cc7f9af9-06c4fc37-40b7-4fc9-91df-6bbf79ea07ae, inntekt, SMD (14 RCT-er, moderat tillit)) estimat innenfor KI
-- FEIL 2 sitat rad 4 (0198cc7f9af9-06c4fc37-40b7-4fc9-91df-6bbf79ea07ae, livskvalitet, SMD (7–8 RCT-er, moderat t) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 4 (0198cc7f9af9-06c4fc37-40b7-4fc9-91df-6bbf79ea07ae, livskvalitet, SMD (7–8 RCT-er, moderat t) står på oppgitt side
 - OK   3 estimat=0.16 rad 4 (0198cc7f9af9-06c4fc37-40b7-4fc9-91df-6bbf79ea07ae, livskvalitet, SMD (7–8 RCT-er, moderat t) står i sitatet
 - OK   3 ki_lav=0.06 rad 4 (0198cc7f9af9-06c4fc37-40b7-4fc9-91df-6bbf79ea07ae, livskvalitet, SMD (7–8 RCT-er, moderat t) står i sitatet
 - OK   3 ki_hoy=0.26 rad 4 (0198cc7f9af9-06c4fc37-40b7-4fc9-91df-6bbf79ea07ae, livskvalitet, SMD (7–8 RCT-er, moderat t) står i sitatet
 - OK   4 rad 4 (0198cc7f9af9-06c4fc37-40b7-4fc9-91df-6bbf79ea07ae, livskvalitet, SMD (7–8 RCT-er, moderat t) estimat innenfor KI
-- FEIL 2 sitat rad 5 (0198cc7f9af9-06c4fc37-40b7-4fc9-91df-6bbf79ea07ae, hatt vanlig arbeid etter 12 måneder (én ) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 5 (0198cc7f9af9-06c4fc37-40b7-4fc9-91df-6bbf79ea07ae, hatt vanlig arbeid etter 12 måneder (én ) står på oppgitt side
 - OK   3 estimat=2.30 rad 5 (0198cc7f9af9-06c4fc37-40b7-4fc9-91df-6bbf79ea07ae, hatt vanlig arbeid etter 12 måneder (én ) står i sitatet
 - OK   3 ki_lav=0.95 rad 5 (0198cc7f9af9-06c4fc37-40b7-4fc9-91df-6bbf79ea07ae, hatt vanlig arbeid etter 12 måneder (én ) står i sitatet
 - OK   3 ki_hoy=5.55 rad 5 (0198cc7f9af9-06c4fc37-40b7-4fc9-91df-6bbf79ea07ae, hatt vanlig arbeid etter 12 måneder (én ) står i sitatet
@@ -426,164 +425,164 @@ Kjørt 2026-11-14.
 - OK   3 ki_lav=5.99 rad 9 (W2128048144, uker i ordinært arbeid, lang oppfølging ) står i sitatet
 - OK   3 ki_hoy=17.13 rad 9 (W2128048144, uker i ordinært arbeid, lang oppfølging ) står i sitatet
 - OK   4 rad 9 (W2128048144, uker i ordinært arbeid, lang oppfølging ) estimat innenfor KI
-- FEIL 2 sitat rad 10 (W2338814622, ordinært arbeid (17 RCT-er)) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 10 (W2338814622, ordinært arbeid (17 RCT-er)) står på oppgitt side
 - OK   3 estimat=2.40 rad 10 (W2338814622, ordinært arbeid (17 RCT-er)) står i sitatet
 - OK   3 ki_lav=1.99 rad 10 (W2338814622, ordinært arbeid (17 RCT-er)) står i sitatet
 - OK   3 ki_hoy=2.90 rad 10 (W2338814622, ordinært arbeid (17 RCT-er)) står i sitatet
 - OK   4 rad 10 (W2338814622, ordinært arbeid (17 RCT-er)) estimat innenfor KI
 - OK   4 rad 10 (W2338814622, ordinært arbeid (17 RCT-er)) KI symmetrisk på log-skala (avvik 0.00)
-- FEIL 2 sitat rad 11 (W2338814622, ordinært arbeid i studier med lav økonom) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 11 (W2338814622, ordinært arbeid i studier med lav økonom) står på oppgitt side
 - OK   3 estimat=1.82 rad 11 (W2338814622, ordinært arbeid i studier med lav økonom) står i sitatet
 - OK   3 ki_lav=1.37 rad 11 (W2338814622, ordinært arbeid i studier med lav økonom) står i sitatet
 - OK   3 ki_hoy=2.40 rad 11 (W2338814622, ordinært arbeid i studier med lav økonom) står i sitatet
 - OK   4 rad 11 (W2338814622, ordinært arbeid i studier med lav økonom) estimat innenfor KI
 - OK   4 rad 11 (W2338814622, ordinært arbeid i studier med lav økonom) KI symmetrisk på log-skala (avvik 0.01)
-- FEIL 2 sitat rad 12 (W2338814622, ordinært arbeid i andre år etter start () ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 12 (W2338814622, ordinært arbeid i andre år etter start () står på oppgitt side
 - OK   3 estimat=2.41 rad 12 (W2338814622, ordinært arbeid i andre år etter start () står i sitatet
 - OK   3 ki_lav=1.96 rad 12 (W2338814622, ordinært arbeid i andre år etter start () står i sitatet
 - OK   3 ki_hoy=2.97 rad 12 (W2338814622, ordinært arbeid i andre år etter start () står i sitatet
 - OK   4 rad 12 (W2338814622, ordinært arbeid i andre år etter start () estimat innenfor KI
 - OK   4 rad 12 (W2338814622, ordinært arbeid i andre år etter start () KI symmetrisk på log-skala (avvik 0.00)
-- FEIL 2 sitat rad 13 (W2915389400, fått ordinært arbeid i løpet av studien ) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 13 (W2915389400, fått ordinært arbeid i løpet av studien ) står på oppgitt side
 - OK   3 estimat=1.63 rad 13 (W2915389400, fått ordinært arbeid i løpet av studien ) står i sitatet
 - OK   3 ki_lav=1.46 rad 13 (W2915389400, fått ordinært arbeid i løpet av studien ) står i sitatet
 - OK   3 ki_hoy=1.82 rad 13 (W2915389400, fått ordinært arbeid i løpet av studien ) står i sitatet
 - OK   4 rad 13 (W2915389400, fått ordinært arbeid i løpet av studien ) estimat innenfor KI
 - OK   4 rad 13 (W2915389400, fått ordinært arbeid i løpet av studien ) KI symmetrisk på log-skala (avvik 0.00)
-- FEIL 2 sitat rad 14 (W2915389400, tid til første ordinære jobb (d, 9 studi) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 14 (W2915389400, tid til første ordinære jobb (d, 9 studi) står på oppgitt side
 - OK   3 estimat=-0.31 rad 14 (W2915389400, tid til første ordinære jobb (d, 9 studi) står i sitatet
 - OK   3 ki_lav=-0.46 rad 14 (W2915389400, tid til første ordinære jobb (d, 9 studi) står i sitatet
 - OK   3 ki_hoy=-0.15 rad 14 (W2915389400, tid til første ordinære jobb (d, 9 studi) står i sitatet
 - OK   4 rad 14 (W2915389400, tid til første ordinære jobb (d, 9 studi) estimat innenfor KI
-- FEIL 2 sitat rad 15 (W2915389400, samlet tid i ordinært arbeid (d, 17 stud) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 15 (W2915389400, samlet tid i ordinært arbeid (d, 17 stud) står på oppgitt side
 - OK   3 estimat=0.46 rad 15 (W2915389400, samlet tid i ordinært arbeid (d, 17 stud) står i sitatet
 - OK   3 ki_lav=0.35 rad 15 (W2915389400, samlet tid i ordinært arbeid (d, 17 stud) står i sitatet
 - OK   3 ki_hoy=0.57 rad 15 (W2915389400, samlet tid i ordinært arbeid (d, 17 stud) står i sitatet
 - OK   4 rad 15 (W2915389400, samlet tid i ordinært arbeid (d, 17 stud) estimat innenfor KI
-- FEIL 2 sitat rad 16 (W2915389400, inntekt (d, 12 studier)) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 16 (W2915389400, inntekt (d, 12 studier)) står på oppgitt side
 - OK   3 estimat=0.48 rad 16 (W2915389400, inntekt (d, 12 studier)) står i sitatet
 - OK   3 ki_lav=0.36 rad 16 (W2915389400, inntekt (d, 12 studier)) står i sitatet
 - OK   3 ki_hoy=0.59 rad 16 (W2915389400, inntekt (d, 12 studier)) står i sitatet
 - OK   4 rad 16 (W2915389400, inntekt (d, 12 studier)) estimat innenfor KI
-- FEIL 2 sitat rad 17 (W2915389400, livskvalitet (d, 9 studier; KI inkludere) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 17 (W2915389400, livskvalitet (d, 9 studier; KI inkludere) står på oppgitt side
 - OK   3 estimat=0.30 rad 17 (W2915389400, livskvalitet (d, 9 studier; KI inkludere) står i sitatet
 - OK   3 ki_lav=-0.07 rad 17 (W2915389400, livskvalitet (d, 9 studier; KI inkludere) står i sitatet
 - OK   3 ki_hoy=0.67 rad 17 (W2915389400, livskvalitet (d, 9 studier; KI inkludere) står i sitatet
 - OK   4 rad 17 (W2915389400, livskvalitet (d, 9 studier; KI inkludere) estimat innenfor KI
-- FEIL 2 sitat rad 18 (W4285039391, i arbeid i oppfølgingstiden (31 studier;) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 18 (W4285039391, i arbeid i oppfølgingstiden (31 studier;) står på oppgitt side
 - OK   3 estimat=2.62 rad 18 (W4285039391, i arbeid i oppfølgingstiden (31 studier;) står i sitatet
 - OK   3 ki_lav=2.37 rad 18 (W4285039391, i arbeid i oppfølgingstiden (31 studier;) står i sitatet
 - OK   3 ki_hoy=2.89 rad 18 (W4285039391, i arbeid i oppfølgingstiden (31 studier;) står i sitatet
 - OK   4 rad 18 (W4285039391, i arbeid i oppfølgingstiden (31 studier;) estimat innenfor KI
 - OK   4 rad 18 (W4285039391, i arbeid i oppfølgingstiden (31 studier;) KI symmetrisk på log-skala (avvik 0.00)
-- FEIL 2 sitat rad 19 (W4285039391, varighet i arbeid (d, 23 studier)) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 19 (W4285039391, varighet i arbeid (d, 23 studier)) står på oppgitt side
 - OK   3 estimat=0.41 rad 19 (W4285039391, varighet i arbeid (d, 23 studier)) står i sitatet
 - OK   3 ki_lav=0.30 rad 19 (W4285039391, varighet i arbeid (d, 23 studier)) står i sitatet
 - OK   3 ki_hoy=0.52 rad 19 (W4285039391, varighet i arbeid (d, 23 studier)) står i sitatet
 - OK   4 rad 19 (W4285039391, varighet i arbeid (d, 23 studier)) estimat innenfor KI
-- FEIL 2 sitat rad 20 (W4285039391, lønnsinntekt (d, 15 studier)) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 20 (W4285039391, lønnsinntekt (d, 15 studier)) står på oppgitt side
 - OK   3 estimat=0.31 rad 20 (W4285039391, lønnsinntekt (d, 15 studier)) står i sitatet
 - OK   3 ki_lav=0.19 rad 20 (W4285039391, lønnsinntekt (d, 15 studier)) står i sitatet
 - OK   3 ki_hoy=0.44 rad 20 (W4285039391, lønnsinntekt (d, 15 studier)) står i sitatet
 - OK   4 rad 20 (W4285039391, lønnsinntekt (d, 15 studier)) estimat innenfor KI
-- FEIL 2 sitat rad 21 (W2987143591, ordinært arbeid (27 RCT-er)) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 21 (W2987143591, ordinært arbeid (27 RCT-er)) står på oppgitt side
 - OK   3 estimat=2.07 rad 21 (W2987143591, ordinært arbeid (27 RCT-er)) står i sitatet
 - OK   3 ki_lav=1.82 rad 21 (W2987143591, ordinært arbeid (27 RCT-er)) står i sitatet
 - OK   3 ki_hoy=2.35 rad 21 (W2987143591, ordinært arbeid (27 RCT-er)) står i sitatet
 - OK   4 rad 21 (W2987143591, ordinært arbeid (27 RCT-er)) estimat innenfor KI
 - OK   4 rad 21 (W2987143591, ordinært arbeid (27 RCT-er)) KI symmetrisk på log-skala (avvik 0.00)
-- FEIL 2 sitat rad 22 (W2987143591, ordinært arbeid ved mer enn 12 måneders ) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 22 (W2987143591, ordinært arbeid ved mer enn 12 måneders ) står på oppgitt side
 - OK   3 estimat=1.96 rad 22 (W2987143591, ordinært arbeid ved mer enn 12 måneders ) står i sitatet
 - OK   3 ki_lav=1.70 rad 22 (W2987143591, ordinært arbeid ved mer enn 12 måneders ) står i sitatet
 - OK   3 ki_hoy=2.25 rad 22 (W2987143591, ordinært arbeid ved mer enn 12 måneders ) står i sitatet
 - OK   4 rad 22 (W2987143591, ordinært arbeid ved mer enn 12 måneders ) estimat innenfor KI
 - OK   4 rad 22 (W2987143591, ordinært arbeid ved mer enn 12 måneders ) KI symmetrisk på log-skala (avvik 0.00)
-- FEIL 2 sitat rad 23 (W2987143591, ordinært arbeid justert for publiserings) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 23 (W2987143591, ordinært arbeid justert for publiserings) står på oppgitt side
 - OK   3 estimat=1.83 rad 23 (W2987143591, ordinært arbeid justert for publiserings) står i sitatet
 - OK   3 ki_lav=1.57 rad 23 (W2987143591, ordinært arbeid justert for publiserings) står i sitatet
 - OK   3 ki_hoy=2.14 rad 23 (W2987143591, ordinært arbeid justert for publiserings) står i sitatet
 - OK   4 rad 23 (W2987143591, ordinært arbeid justert for publiserings) estimat innenfor KI
 - OK   4 rad 23 (W2987143591, ordinært arbeid justert for publiserings) KI symmetrisk på log-skala (avvik 0.00)
-- FEIL 2 sitat rad 24 (W2139568741, i arbeid ved oppfølging (metaanalyse av ) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 24 (W2139568741, i arbeid ved oppfølging (metaanalyse av ) står på oppgitt side
 - OK   3 estimat=3.66 rad 24 (W2139568741, i arbeid ved oppfølging (metaanalyse av ) står i sitatet
 - OK   3 ki_lav=1.93 rad 24 (W2139568741, i arbeid ved oppfølging (metaanalyse av ) står i sitatet
 - OK   3 ki_hoy=6.93 rad 24 (W2139568741, i arbeid ved oppfølging (metaanalyse av ) står i sitatet
 - OK   4 rad 24 (W2139568741, i arbeid ved oppfølging (metaanalyse av ) estimat innenfor KI
 - OK   4 rad 24 (W2139568741, i arbeid ved oppfølging (metaanalyse av ) KI symmetrisk på log-skala (avvik 0.00)
-- FEIL 2 sitat rad 25 (W2139568741, andel i arbeid i oppfølgingstiden, 8 stu) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 25 (W2139568741, andel i arbeid i oppfølgingstiden, 8 stu) står på oppgitt side
 - OK   3 estimat=49 rad 25 (W2139568741, andel i arbeid i oppfølgingstiden, 8 stu) står i sitatet
-- FEIL 2 sitat rad 26 (W3196472652, ingen eget effektestimat for IPS (for få) ble IKKE funnet på oppgitt side
-- FEIL 2 sitat rad 27 (W4200254443, ordinært arbeid etter 12 måneder (én RCT) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 26 (W3196472652, ingen eget effektestimat for IPS (for få) står på oppgitt side
+- OK   2 sitat rad 27 (W4200254443, ordinært arbeid etter 12 måneder (én RCT) står på oppgitt side
 - OK   3 estimat=10.61 rad 27 (W4200254443, ordinært arbeid etter 12 måneder (én RCT) står i sitatet
 - OK   3 ki_lav=1.49 rad 27 (W4200254443, ordinært arbeid etter 12 måneder (én RCT) står i sitatet
 - OK   3 ki_hoy=75.38 rad 27 (W4200254443, ordinært arbeid etter 12 måneder (én RCT) står i sitatet
 - OK   4 rad 27 (W4200254443, ordinært arbeid etter 12 måneder (én RCT) estimat innenfor KI
 - OK   4 rad 27 (W4200254443, ordinært arbeid etter 12 måneder (én RCT) KI symmetrisk på log-skala (avvik 0.00)
-- FEIL 2 sitat rad 28 (W4200254443, ordinært arbeid etter 6 måneder (én RCT)) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 28 (W4200254443, ordinært arbeid etter 6 måneder (én RCT)) står på oppgitt side
 - OK   3 estimat=11.5 rad 28 (W4200254443, ordinært arbeid etter 6 måneder (én RCT)) står i sitatet
 - OK   3 ki_lav=1.62 rad 28 (W4200254443, ordinært arbeid etter 6 måneder (én RCT)) står i sitatet
 - OK   3 ki_hoy=81.8 rad 28 (W4200254443, ordinært arbeid etter 6 måneder (én RCT)) står i sitatet
 - OK   4 rad 28 (W4200254443, ordinært arbeid etter 6 måneder (én RCT)) estimat innenfor KI
 - OK   4 rad 28 (W4200254443, ordinært arbeid etter 6 måneder (én RCT)) KI symmetrisk på log-skala (avvik 0.00)
-- FEIL 2 sitat rad 29 (W4200254443, ordinært arbeid innen 12 måneder (én RCT) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 29 (W4200254443, ordinært arbeid innen 12 måneder (én RCT) står på oppgitt side
 - OK   3 estimat=1.85 rad 29 (W4200254443, ordinært arbeid innen 12 måneder (én RCT) står i sitatet
 - OK   3 ki_lav=0.65 rad 29 (W4200254443, ordinært arbeid innen 12 måneder (én RCT) står i sitatet
 - OK   3 ki_hoy=5.41 rad 29 (W4200254443, ordinært arbeid innen 12 måneder (én RCT) står i sitatet
 - OK   4 rad 29 (W4200254443, ordinært arbeid innen 12 måneder (én RCT) estimat innenfor KI
 - OK   4 rad 29 (W4200254443, ordinært arbeid innen 12 måneder (én RCT) KI symmetrisk på log-skala (avvik 0.03)
-- FEIL 2 sitat rad 30 (W4200254443, ordinært arbeid etter 12 måneder (én RCT) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 30 (W4200254443, ordinært arbeid etter 12 måneder (én RCT) står på oppgitt side
 - OK   3 estimat=5.90 rad 30 (W4200254443, ordinært arbeid etter 12 måneder (én RCT) står i sitatet
 - OK   3 ki_lav=1.91 rad 30 (W4200254443, ordinært arbeid etter 12 måneder (én RCT) står i sitatet
 - OK   3 ki_hoy=18.19 rad 30 (W4200254443, ordinært arbeid etter 12 måneder (én RCT) står i sitatet
 - OK   4 rad 30 (W4200254443, ordinært arbeid etter 12 måneder (én RCT) estimat innenfor KI
 - OK   4 rad 30 (W4200254443, ordinært arbeid etter 12 måneder (én RCT) KI symmetrisk på log-skala (avvik 0.00)
-- FEIL 2 sitat rad 31 (W4399488791, jobbstart, alle studier) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 31 (W4399488791, jobbstart, alle studier) står på oppgitt side
 - OK   3 estimat=1.78 rad 31 (W4399488791, jobbstart, alle studier) står i sitatet
 - OK   3 ki_lav=1.42 rad 31 (W4399488791, jobbstart, alle studier) står i sitatet
 - OK   3 ki_hoy=2.22 rad 31 (W4399488791, jobbstart, alle studier) står i sitatet
 - OK   4 rad 31 (W4399488791, jobbstart, alle studier) estimat innenfor KI
 - OK   4 rad 31 (W4399488791, jobbstart, alle studier) KI symmetrisk på log-skala (avvik 0.01)
-- FEIL 2 sitat rad 32 (W4399488791, jobbstart, bare store og mellomstore stu) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 32 (W4399488791, jobbstart, bare store og mellomstore stu) står på oppgitt side
 - OK   3 estimat=1.32 rad 32 (W4399488791, jobbstart, bare store og mellomstore stu) står i sitatet
 - OK   3 ki_lav=1.2 rad 32 (W4399488791, jobbstart, bare store og mellomstore stu) står i sitatet
 - OK   3 ki_hoy=1.46 rad 32 (W4399488791, jobbstart, bare store og mellomstore stu) står i sitatet
 - OK   4 rad 32 (W4399488791, jobbstart, bare store og mellomstore stu) estimat innenfor KI
 - OK   4 rad 32 (W4399488791, jobbstart, bare store og mellomstore stu) KI symmetrisk på log-skala (avvik 0.01)
-- FEIL 2 sitat rad 33 (W3096880123, ordinært arbeid (7 studier, svært lav kv) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 33 (W3096880123, ordinært arbeid (7 studier, svært lav kv) står på oppgitt side
 - OK   3 estimat=1.70 rad 33 (W3096880123, ordinært arbeid (7 studier, svært lav kv) står i sitatet
 - OK   3 ki_lav=1.23 rad 33 (W3096880123, ordinært arbeid (7 studier, svært lav kv) står i sitatet
 - OK   3 ki_hoy=2.34 rad 33 (W3096880123, ordinært arbeid (7 studier, svært lav kv) står i sitatet
 - OK   4 rad 33 (W3096880123, ordinært arbeid (7 studier, svært lav kv) estimat innenfor KI
 - OK   4 rad 33 (W3096880123, ordinært arbeid (7 studier, svært lav kv) KI symmetrisk på log-skala (avvik 0.00)
-- FEIL 2 sitat rad 34 (W3096880123, ordinært arbeid uten studiene med høyest) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 34 (W3096880123, ordinært arbeid uten studiene med høyest) står på oppgitt side
 - OK   3 estimat=2.35 rad 34 (W3096880123, ordinært arbeid uten studiene med høyest) står i sitatet
 - OK   3 ki_lav=1.18 rad 34 (W3096880123, ordinært arbeid uten studiene med høyest) står i sitatet
 - OK   3 ki_hoy=4.65 rad 34 (W3096880123, ordinært arbeid uten studiene med høyest) står i sitatet
 - OK   4 rad 34 (W3096880123, ordinært arbeid uten studiene med høyest) estimat innenfor KI
 - OK   4 rad 34 (W3096880123, ordinært arbeid uten studiene med høyest) KI symmetrisk på log-skala (avvik 0.01)
-- FEIL 2 sitat rad 35 (W4292326324, kostnad: antall av 41 økonomiske studier) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 35 (W4292326324, kostnad: antall av 41 økonomiske studier) står på oppgitt side
 - OK   3 estimat=24 rad 35 (W4292326324, kostnad: antall av 41 økonomiske studier) står i sitatet
-- FEIL 2 sitat rad 36 (W2892072419, ordinært arbeid (8 studier); KI .97–1.95) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 36 (W2892072419, ordinært arbeid (8 studier); KI .97–1.95) står på oppgitt side
 - OK   3 estimat=1.37 rad 36 (W2892072419, ordinært arbeid (8 studier); KI .97–1.95) står i sitatet
-- FEIL 2 sitat rad 37 (W2892072419, ordinært arbeid (2 studier)) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 37 (W2892072419, ordinært arbeid (2 studier)) står på oppgitt side
 - OK   3 estimat=3.35 rad 37 (W2892072419, ordinært arbeid (2 studier)) står i sitatet
 - OK   3 ki_lav=1.23 rad 37 (W2892072419, ordinært arbeid (2 studier)) står i sitatet
 - OK   3 ki_hoy=9.13 rad 37 (W2892072419, ordinært arbeid (2 studier)) står i sitatet
 - OK   4 rad 37 (W2892072419, ordinært arbeid (2 studier)) estimat innenfor KI
 - OK   4 rad 37 (W2892072419, ordinært arbeid (2 studier)) KI symmetrisk på log-skala (avvik 0.00)
-- FEIL 2 sitat rad 41 (W2607762772, ordinært arbeid (21 sammenligninger, all) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 41 (W2607762772, ordinært arbeid (21 sammenligninger, all) står på oppgitt side
 - OK   3 estimat=2.31 rad 41 (W2607762772, ordinært arbeid (21 sammenligninger, all) står i sitatet
 - OK   3 ki_lav=1.85 rad 41 (W2607762772, ordinært arbeid (21 sammenligninger, all) står i sitatet
 - OK   3 ki_hoy=2.88 rad 41 (W2607762772, ordinært arbeid (21 sammenligninger, all) står i sitatet
 - OK   4 rad 41 (W2607762772, ordinært arbeid (21 sammenligninger, all) estimat innenfor KI
 - OK   4 rad 41 (W2607762772, ordinært arbeid (21 sammenligninger, all) KI symmetrisk på log-skala (avvik 0.00)
-- FEIL 2 sitat rad 42 (W2607762772, ordinært arbeid, undergruppen supported ) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 42 (W2607762772, ordinært arbeid, undergruppen supported ) står på oppgitt side
 - OK   3 estimat=2.49 rad 42 (W2607762772, ordinært arbeid, undergruppen supported ) står i sitatet
 - OK   3 ki_lav=2.16 rad 42 (W2607762772, ordinært arbeid, undergruppen supported ) står i sitatet
 - OK   3 ki_hoy=2.88 rad 42 (W2607762772, ordinært arbeid, undergruppen supported ) står i sitatet
 - OK   4 rad 42 (W2607762772, ordinært arbeid, undergruppen supported ) estimat innenfor KI
 - OK   4 rad 42 (W2607762772, ordinært arbeid, undergruppen supported ) KI symmetrisk på log-skala (avvik 0.00)
-- FEIL 2 sitat rad 46 (W4398150491, sysselsettingsrate minst 20 høyere i IPS) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 46 (W4398150491, sysselsettingsrate minst 20 høyere i IPS) står på oppgitt side
 - OK   3 estimat=20 rad 46 (W4398150491, sysselsettingsrate minst 20 høyere i IPS) står i sitatet
 - OK   2 sitat rad 47 (W3096495837, ordinært arbeid, omtrent dobbelt så sann) står på oppgitt side
 - OK   3 estimat=2 rad 47 (W3096495837, ordinært arbeid, omtrent dobbelt så sann) står i sitatet
@@ -645,21 +644,21 @@ Kjørt 2026-11-14.
 - OK   4 rad 71 (W7196951041, ordinært arbeid (31 studier i alt)) KI symmetrisk på log-skala (avvik 0.00)
 - OK   2 sitat rad 75 (W1989720116, andel i ordinært arbeid med supported em) står på oppgitt side
 - OK   3 estimat=40 rad 75 (W1989720116, andel i ordinært arbeid med supported em) står i sitatet
-- FEIL 2 sitat rad 81 (W2887225311, andel i ordinært arbeid (registerdata) e) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 81 (W2887225311, andel i ordinært arbeid (registerdata) e) står på oppgitt side
 - OK   3 estimat=9.5 rad 81 (W2887225311, andel i ordinært arbeid (registerdata) e) står i sitatet
-- FEIL 2 sitat rad 82 (W2887225311, andel i ordinært arbeid etter 18 mnd i I) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 82 (W2887225311, andel i ordinært arbeid etter 18 mnd i I) står på oppgitt side
 - OK   3 estimat=37.4 rad 82 (W2887225311, andel i ordinært arbeid etter 18 mnd i I) står i sitatet
-- FEIL 2 sitat rad 83 (W2603183128, sannsynlighet for å være i arbeid, regre) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 83 (W2603183128, sannsynlighet for å være i arbeid, regre) står på oppgitt side
 - OK   3 estimat=8 rad 83 (W2603183128, sannsynlighet for å være i arbeid, regre) står i sitatet
-- FEIL 2 sitat rad 84 (W2603183128, nedgang i sannsynlighet for å motta NAV-) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 84 (W2603183128, nedgang i sannsynlighet for å motta NAV-) står på oppgitt side
 - OK   3 estimat=18 rad 84 (W2603183128, nedgang i sannsynlighet for å motta NAV-) står i sitatet
-- FEIL 2 sitat rad 85 (W2603183128, kost-nytte: kritisk bruttolønn per år (2) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 85 (W2603183128, kost-nytte: kritisk bruttolønn per år (2) står på oppgitt side
 - OK   3 estimat=395100 rad 85 (W2603183128, kost-nytte: kritisk bruttolønn per år (2) står i sitatet
-- FEIL 2 sitat rad 86 (W3118340329, sannsynlighet for ordinært arbeid over 4) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 86 (W3118340329, sannsynlighet for ordinært arbeid over 4) står på oppgitt side
 - OK   3 estimat=8.8 rad 86 (W3118340329, sannsynlighet for ordinært arbeid over 4) står i sitatet
-- FEIL 2 sitat rad 87 (W3118340329, netto samfunnsgevinst per deltaker over ) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 87 (W3118340329, netto samfunnsgevinst per deltaker over ) står på oppgitt side
 - OK   3 estimat=217 rad 87 (W3118340329, netto samfunnsgevinst per deltaker over ) står i sitatet
-- FEIL 2 sitat rad 88 (W2948462152, fått ordinært arbeid i løpet av 12 mnd () ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 88 (W2948462152, fått ordinært arbeid i løpet av 12 mnd () står på oppgitt side
 - OK   3 estimat=10.39 rad 88 (W2948462152, fått ordinært arbeid i løpet av 12 mnd () står i sitatet
 - OK   3 ki_lav=2.79 rad 88 (W2948462152, fått ordinært arbeid i løpet av 12 mnd () står i sitatet
 - OK   3 ki_hoy=38.68 rad 88 (W2948462152, fått ordinært arbeid i løpet av 12 mnd () står i sitatet
@@ -687,75 +686,75 @@ Kjørt 2026-11-14.
 - OK   3 ki_hoy=5.57 rad 92 (W4412642570, mottak av tjenester fra sosial- og velfe) står i sitatet
 - OK   4 rad 92 (W4412642570, mottak av tjenester fra sosial- og velfe) estimat innenfor KI
 - OK   4 rad 92 (W4412642570, mottak av tjenester fra sosial- og velfe) KI symmetrisk på log-skala (avvik 0.02)
-- FEIL 2 sitat rad 93 (W2885000375, i arbeid uten ytelser minst 24 av 36 mnd) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 93 (W2885000375, i arbeid uten ytelser minst 24 av 36 mnd) står på oppgitt side
 - OK   3 estimat=3.5 rad 93 (W2885000375, i arbeid uten ytelser minst 24 av 36 mnd) står i sitatet
-- FEIL 2 sitat rad 94 (W2885000375, i arbeid uten ytelser minst 24 av 36 mnd) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 94 (W2885000375, i arbeid uten ytelser minst 24 av 36 mnd) står på oppgitt side
 - OK   3 estimat=7.1 rad 94 (W2885000375, i arbeid uten ytelser minst 24 av 36 mnd) står i sitatet
-- FEIL 2 sitat rad 95 (W2885000375, årsinntekt år 2 etter inklusjon, justert) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 95 (W2885000375, årsinntekt år 2 etter inklusjon, justert) står på oppgitt side
 - OK   3 estimat=3515 rad 95 (W2885000375, årsinntekt år 2 etter inklusjon, justert) står i sitatet
-- FEIL 2 sitat rad 96 (W2167890993, økt eller opprettholdt arbeidsdeltakelse) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 96 (W2167890993, økt eller opprettholdt arbeidsdeltakelse) står på oppgitt side
 - OK   3 estimat=6.9 rad 96 (W2167890993, økt eller opprettholdt arbeidsdeltakelse) står i sitatet
-- FEIL 2 sitat rad 97 (W2167890993, økt eller opprettholdt arbeidsdeltakelse) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 97 (W2167890993, økt eller opprettholdt arbeidsdeltakelse) står på oppgitt side
 - OK   3 estimat=12.2 rad 97 (W2167890993, økt eller opprettholdt arbeidsdeltakelse) står i sitatet
-- FEIL 2 sitat rad 98 (W2167890993, økt eller opprettholdt arbeidsdeltakelse) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 98 (W2167890993, økt eller opprettholdt arbeidsdeltakelse) står på oppgitt side
 - OK   3 estimat=7.8 rad 98 (W2167890993, økt eller opprettholdt arbeidsdeltakelse) står i sitatet
-- FEIL 2 sitat rad 99 (W4214760378, andel i arbeid i løpet av 12 mnd i IPS-g) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 99 (W4214760378, andel i arbeid i løpet av 12 mnd i IPS-g) står på oppgitt side
 - OK   3 estimat=52.8 rad 99 (W4214760378, andel i arbeid i løpet av 12 mnd i IPS-g) står i sitatet
-- FEIL 2 sitat rad 100 (AV-2021-2-03, andel i arbeid 24 mnd etter oppstart; su) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 100 (AV-2021-2-03, andel i arbeid 24 mnd etter oppstart; su) står på oppgitt side
 - OK   3 estimat=12 rad 100 (AV-2021-2-03, andel i arbeid 24 mnd etter oppstart; su) står i sitatet
-- FEIL 2 sitat rad 101 (AV-2021-2-03, flere mottar fortsatt AAP tre år etter s) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 101 (AV-2021-2-03, flere mottar fortsatt AAP tre år etter s) står på oppgitt side
 - OK   3 estimat=10 rad 101 (AV-2021-2-03, flere mottar fortsatt AAP tre år etter s) står i sitatet
-- FEIL 2 sitat rad 102 (W4367311571, fått ordinært arbeid i løpet av 30 mnd () ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 102 (W4367311571, fått ordinært arbeid i løpet av 30 mnd () står på oppgitt side
 - OK   3 estimat=0.114 rad 102 (W4367311571, fått ordinært arbeid i løpet av 30 mnd () står i sitatet
 - OK   3 ki_lav=0.006 rad 102 (W4367311571, fått ordinært arbeid i løpet av 30 mnd () står i sitatet
 - OK   3 ki_hoy=0.226 rad 102 (W4367311571, fått ordinært arbeid i løpet av 30 mnd () står i sitatet
 - OK   4 rad 102 (W4367311571, fått ordinært arbeid i løpet av 30 mnd () estimat innenfor KI
-- FEIL 2 sitat rad 103 (W4367311571, uker i ordinært arbeid i løpet av 30 mnd) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 103 (W4367311571, uker i ordinært arbeid i løpet av 30 mnd) står på oppgitt side
 - OK   3 estimat=25 rad 103 (W4367311571, uker i ordinært arbeid i løpet av 30 mnd) står i sitatet
-- FEIL 2 sitat rad 104 (W3129101132, lønnsinntekt første år, euro lavere i IP) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 104 (W3129101132, lønnsinntekt første år, euro lavere i IP) står på oppgitt side
 - OK   3 estimat=3376 rad 104 (W3129101132, lønnsinntekt første år, euro lavere i IP) står i sitatet
-- FEIL 2 sitat rad 105 (W3129101132, samlede kostnader første år, euro lavere) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 105 (W3129101132, samlede kostnader første år, euro lavere) står på oppgitt side
 - OK   3 estimat=2221 rad 105 (W3129101132, samlede kostnader første år, euro lavere) står i sitatet
-- FEIL 2 sitat rad 106 (W3117173428, lavere samlede kostnader, euro (signifik) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 106 (W3117173428, lavere samlede kostnader, euro (signifik) står på oppgitt side
 - OK   3 estimat=9543 rad 106 (W3117173428, lavere samlede kostnader, euro (signifik) står i sitatet
-- FEIL 2 sitat rad 107 (W3117173428, høyere lønnsinntekt, euro; samme materia) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 107 (W3117173428, høyere lønnsinntekt, euro; samme materia) står på oppgitt side
 - OK   3 estimat=1792 rad 107 (W3117173428, høyere lønnsinntekt, euro; samme materia) står i sitatet
-- FEIL 2 sitat rad 108 (KU-7dc2d886-f49c-4f6c-bb44-20be6225f058, arbeidsdeltakelse etter avsluttet IPS un) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 108 (KU-7dc2d886-f49c-4f6c-bb44-20be6225f058, arbeidsdeltakelse etter avsluttet IPS un) står på oppgitt side
 - OK   3 estimat=5.3 rad 108 (KU-7dc2d886-f49c-4f6c-bb44-20be6225f058, arbeidsdeltakelse etter avsluttet IPS un) står i sitatet
-- FEIL 2 sitat rad 109 (KU-7dc2d886-f49c-4f6c-bb44-20be6225f058, arbeidsdeltakelse før og etter, 20–24 år) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 109 (KU-7dc2d886-f49c-4f6c-bb44-20be6225f058, arbeidsdeltakelse før og etter, 20–24 år) står på oppgitt side
 - OK   3 estimat=8.4 rad 109 (KU-7dc2d886-f49c-4f6c-bb44-20be6225f058, arbeidsdeltakelse før og etter, 20–24 år) står i sitatet
-- FEIL 2 sitat rad 110 (KU-7dc2d886-f49c-4f6c-bb44-20be6225f058, reduksjon i deltakelse i arbeidsmarkedst) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 110 (KU-7dc2d886-f49c-4f6c-bb44-20be6225f058, reduksjon i deltakelse i arbeidsmarkedst) står på oppgitt side
 - OK   3 estimat=10 rad 110 (KU-7dc2d886-f49c-4f6c-bb44-20be6225f058, reduksjon i deltakelse i arbeidsmarkedst) står i sitatet
-- FEIL 2 sitat rad 111 (W3196725163, langtidseffekt på ordinært arbeid ved et) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 111 (W3196725163, langtidseffekt på ordinært arbeid ved et) står på oppgitt side
 - OK   3 estimat=15.1 rad 111 (W3196725163, langtidseffekt på ordinært arbeid ved et) står i sitatet
-- FEIL 2 sitat rad 113 (W7113154702, avkastning (ROI) av IPS-innføring over 4) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 113 (W7113154702, avkastning (ROI) av IPS-innføring over 4) står på oppgitt side
 - OK   3 estimat=4.76 rad 113 (W7113154702, avkastning (ROI) av IPS-innføring over 4) står i sitatet
-- FEIL 2 sitat rad 114 (W4390697352, arbeidsdager per år per person, gjennoms) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 114 (W4390697352, arbeidsdager per år per person, gjennoms) står på oppgitt side
 - OK   3 estimat=5.6 rad 114 (W4390697352, arbeidsdager per år per person, gjennoms) står i sitatet
 - OK   3 ki_lav=2.7 rad 114 (W4390697352, arbeidsdager per år per person, gjennoms) står i sitatet
 - OK   3 ki_hoy=8.4 rad 114 (W4390697352, arbeidsdager per år per person, gjennoms) står i sitatet
 - OK   4 rad 114 (W4390697352, arbeidsdager per år per person, gjennoms) estimat innenfor KI
-- FEIL 2 sitat rad 115 (W4390697352, arbeidsdager per år per person tre år et) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 115 (W4390697352, arbeidsdager per år per person tre år et) står på oppgitt side
 - OK   3 estimat=10.5 rad 115 (W4390697352, arbeidsdager per år per person tre år et) står i sitatet
-- FEIL 2 sitat rad 117 (LI-21150545, andel som fikk arbeid (inkludert lønnsti) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 117 (LI-21150545, andel som fikk arbeid (inkludert lønnsti) står på oppgitt side
 - OK   3 estimat=12 rad 117 (LI-21150545, andel som fikk arbeid (inkludert lønnsti) står i sitatet
-- FEIL 2 sitat rad 118 (FI-uef.9915208111505966, andel som fikk ordinært arbeid minst én ) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 118 (FI-uef.9915208111505966, andel som fikk ordinært arbeid minst én ) står på oppgitt side
 - OK   3 estimat=49 rad 118 (FI-uef.9915208111505966, andel som fikk ordinært arbeid minst én ) står i sitatet
-- FEIL 2 sitat rad 119 (FI-uef.9915208111505966, andel i arbeid ved ettårsoppfølging (55 ) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 119 (FI-uef.9915208111505966, andel i arbeid ved ettårsoppfølging (55 ) står på oppgitt side
 - OK   3 estimat=44 rad 119 (FI-uef.9915208111505966, andel i arbeid ved ettårsoppfølging (55 ) står i sitatet
-- FEIL 2 sitat rad 120 (FI-arto.019427806, andel som fikk ordinært arbeid minst én ) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 120 (FI-arto.019427806, andel som fikk ordinært arbeid minst én ) står på oppgitt side
 - OK   3 estimat=49 rad 120 (FI-arto.019427806, andel som fikk ordinært arbeid minst én ) står i sitatet
-- FEIL 2 sitat rad 121 (W4220994326, fått ordinært arbeid under IPS, justert ) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 121 (W4220994326, fått ordinært arbeid under IPS, justert ) står på oppgitt side
 - OK   3 estimat=0.97 rad 121 (W4220994326, fått ordinært arbeid under IPS, justert ) står i sitatet
 - OK   3 ki_lav=0.74 rad 121 (W4220994326, fått ordinært arbeid under IPS, justert ) står i sitatet
 - OK   3 ki_hoy=1.27 rad 121 (W4220994326, fått ordinært arbeid under IPS, justert ) står i sitatet
 - OK   4 rad 121 (W4220994326, fått ordinært arbeid under IPS, justert ) estimat innenfor KI
 - OK   4 rad 121 (W4220994326, fått ordinært arbeid under IPS, justert ) KI symmetrisk på log-skala (avvik 0.00)
-- FEIL 2 sitat rad 122 (W4308383004, samfunnsøkonomisk gevinst over 5 år for ) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 122 (W4308383004, samfunnsøkonomisk gevinst over 5 år for ) står på oppgitt side
 - OK   3 estimat=2519906 rad 122 (W4308383004, samfunnsøkonomisk gevinst over 5 år for ) står i sitatet
-- FEIL 2 sitat rad 123 (W7165951382, samfunnsøkonomisk gevinst første år ette) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 123 (W7165951382, samfunnsøkonomisk gevinst første år ette) står på oppgitt side
 - OK   3 estimat=214103 rad 123 (W7165951382, samfunnsøkonomisk gevinst første år ette) står i sitatet
-- FEIL 2 sitat rad 124 (W7165951382, kostnadsbesparelse fra mindre bruk av so) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 124 (W7165951382, kostnadsbesparelse fra mindre bruk av so) står på oppgitt side
 - OK   3 estimat=157593 rad 124 (W7165951382, kostnadsbesparelse fra mindre bruk av so) står i sitatet
 - OK   2 sitat rad 125 (W1970238684, fått ordinært arbeid ved 18 mnd (46 mot ) står på oppgitt side
 - OK   3 estimat=36 rad 125 (W1970238684, fått ordinært arbeid ved 18 mnd (46 mot ) står i sitatet
@@ -779,151 +778,151 @@ Kjørt 2026-11-14.
 - OK   3 estimat=38 rad 129 (W7224236002, andel i arbeid ett år etter screening (k) står i sitatet
 - OK   2 sitat rad 130 (W2784242610, lavere kostnad per person per år, euro () står på oppgitt side
 - OK   3 estimat=7247 rad 130 (W2784242610, lavere kostnad per person per år, euro () står i sitatet
-- FEIL 2 sitat rad 131 (W2166061916, andel som arbeidet minst 1 dag i ordinær) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 131 (W2166061916, andel som arbeidet minst 1 dag i ordinær) står på oppgitt side
 - OK   3 estimat=55 rad 131 (W2166061916, andel som arbeidet minst 1 dag i ordinær) står i sitatet
-- FEIL 2 sitat rad 132 (W2166061916, kostnad for selve tiltaket per person ov) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 132 (W2166061916, kostnad for selve tiltaket per person ov) står på oppgitt side
 - OK   3 estimat=4022 rad 132 (W2166061916, kostnad for selve tiltaket per person ov) står i sitatet
-- FEIL 2 sitat rad 133 (W2166061916, forskjell i netto nytte (verdi av arbeid) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 133 (W2166061916, forskjell i netto nytte (verdi av arbeid) står på oppgitt side
 - OK   3 estimat=17005 rad 133 (W2166061916, forskjell i netto nytte (verdi av arbeid) står i sitatet
-- FEIL 2 sitat rad 134 (W1797793633, andel som fikk ny jobb i ordinært arbeid) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 134 (W1797793633, andel som fikk ny jobb i ordinært arbeid) står på oppgitt side
 - OK   3 estimat=32 rad 134 (W1797793633, andel som fikk ny jobb i ordinært arbeid) står i sitatet
-- FEIL 2 sitat rad 135 (W1797793633, andel som fikk ny jobb i ordinært arbeid) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 135 (W1797793633, andel som fikk ny jobb i ordinært arbeid) står på oppgitt side
 - OK   3 estimat=12 rad 135 (W1797793633, andel som fikk ny jobb i ordinært arbeid) står i sitatet
-- FEIL 2 sitat rad 136 (W3206833498, andel i arbeid etter 6 år (72 mnd), IPS ) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 136 (W3206833498, andel i arbeid etter 6 år (72 mnd), IPS ) står på oppgitt side
 - OK   3 estimat=36 rad 136 (W3206833498, andel i arbeid etter 6 år (72 mnd), IPS ) står i sitatet
-- FEIL 2 sitat rad 137 (W1996383920, andel i ordinært arbeid etter 1 år (13 p) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 137 (W1996383920, andel i ordinært arbeid etter 1 år (13 p) står på oppgitt side
 - OK   3 estimat=1.35 rad 137 (W1996383920, andel i ordinært arbeid etter 1 år (13 p) står i sitatet
 - OK   3 ki_lav=0.95 rad 137 (W1996383920, andel i ordinært arbeid etter 1 år (13 p) står i sitatet
 - OK   3 ki_hoy=1.93 rad 137 (W1996383920, andel i ordinært arbeid etter 1 år (13 p) står i sitatet
 - OK   4 rad 137 (W1996383920, andel i ordinært arbeid etter 1 år (13 p) estimat innenfor KI
 - OK   4 rad 137 (W1996383920, andel i ordinært arbeid etter 1 år (13 p) KI symmetrisk på log-skala (avvik 0.01)
-- FEIL 2 sitat rad 138 (W1996383920, totale kostnader over 1 år høyere i kont) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 138 (W1996383920, totale kostnader over 1 år høyere i kont) står på oppgitt side
 - OK   3 estimat=2176 rad 138 (W1996383920, totale kostnader over 1 år høyere i kont) står i sitatet
 - OK   3 ki_lav=445 rad 138 (W1996383920, totale kostnader over 1 år høyere i kont) står i sitatet
 - OK   3 ki_hoy=4168 rad 138 (W1996383920, totale kostnader over 1 år høyere i kont) står i sitatet
 - OK   4 rad 138 (W1996383920, totale kostnader over 1 år høyere i kont) estimat innenfor KI
-- FEIL 2 sitat rad 139 (W2148730259, andel i arbeid (minst 1 dag) etter 18 mn) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 139 (W2148730259, andel i arbeid (minst 1 dag) etter 18 mn) står på oppgitt side
 - OK   3 estimat=41 rad 139 (W2148730259, andel i arbeid (minst 1 dag) etter 18 mn) står i sitatet
-- FEIL 2 sitat rad 140 (W2148730259, andel i arbeid (minst 1 dag) etter 18 mn) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 140 (W2148730259, andel i arbeid (minst 1 dag) etter 18 mn) står på oppgitt side
 - OK   3 estimat=46 rad 140 (W2148730259, andel i arbeid (minst 1 dag) etter 18 mn) står i sitatet
-- FEIL 2 sitat rad 141 (W2148730259, tid til første jobb, ingen forskjell) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 141 (W2148730259, tid til første jobb, ingen forskjell) står på oppgitt side
 - OK   3 estimat=0.90 rad 141 (W2148730259, tid til første jobb, ingen forskjell) står i sitatet
 - OK   3 ki_lav=0.51 rad 141 (W2148730259, tid til første jobb, ingen forskjell) står i sitatet
 - OK   3 ki_hoy=1.58 rad 141 (W2148730259, tid til første jobb, ingen forskjell) står i sitatet
 - OK   4 rad 141 (W2148730259, tid til første jobb, ingen forskjell) estimat innenfor KI
 - OK   4 rad 141 (W2148730259, tid til første jobb, ingen forskjell) KI symmetrisk på log-skala (avvik 0.01)
-- FEIL 2 sitat rad 142 (W7110135164, andel i ordinært arbeid etter 6 mnd, IPS) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 142 (W7110135164, andel i ordinært arbeid etter 6 mnd, IPS) står på oppgitt side
 - OK   3 estimat=75.0 rad 142 (W7110135164, andel i ordinært arbeid etter 6 mnd, IPS) står i sitatet
-- FEIL 2 sitat rad 143 (W7110135164, odds for ordinært arbeid etter 6 mnd) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 143 (W7110135164, odds for ordinært arbeid etter 6 mnd) står på oppgitt side
 - OK   3 estimat=16 rad 143 (W7110135164, odds for ordinært arbeid etter 6 mnd) står i sitatet
 - OK   3 ki_lav=3.43 rad 143 (W7110135164, odds for ordinært arbeid etter 6 mnd) står i sitatet
 - OK   3 ki_hoy=74.70 rad 143 (W7110135164, odds for ordinært arbeid etter 6 mnd) står i sitatet
 - OK   4 rad 143 (W7110135164, odds for ordinært arbeid etter 6 mnd) estimat innenfor KI
 - OK   4 rad 143 (W7110135164, odds for ordinært arbeid etter 6 mnd) KI symmetrisk på log-skala (avvik 0.00)
-- FEIL 2 sitat rad 144 (W2955110386, andel i ordinært arbeid minst 3 mnd ved ) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 144 (W2955110386, andel i ordinært arbeid minst 3 mnd ved ) står på oppgitt side
 - OK   3 estimat=55.1 rad 144 (W2955110386, andel i ordinært arbeid minst 3 mnd ved ) står i sitatet
-- FEIL 2 sitat rad 145 (W2955110386, tid til ordinært arbeid, ikke signifikan) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 145 (W2955110386, tid til ordinært arbeid, ikke signifikan) står på oppgitt side
 - OK   3 estimat=1.74 rad 145 (W2955110386, tid til ordinært arbeid, ikke signifikan) står i sitatet
 - OK   3 ki_lav=0.86 rad 145 (W2955110386, tid til ordinært arbeid, ikke signifikan) står i sitatet
 - OK   3 ki_hoy=3.49 rad 145 (W2955110386, tid til ordinært arbeid, ikke signifikan) står i sitatet
 - OK   4 rad 145 (W2955110386, tid til ordinært arbeid, ikke signifikan) estimat innenfor KI
 - OK   4 rad 145 (W2955110386, tid til ordinært arbeid, ikke signifikan) KI symmetrisk på log-skala (avvik 0.01)
-- FEIL 2 sitat rad 146 (W4392558137, sannsynlighet for ordinært arbeid minst ) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 146 (W4392558137, sannsynlighet for ordinært arbeid minst ) står på oppgitt side
 - OK   3 estimat=3.7 rad 146 (W4392558137, sannsynlighet for ordinært arbeid minst ) står i sitatet
 - OK   3 ki_lav=0.8 rad 146 (W4392558137, sannsynlighet for ordinært arbeid minst ) står i sitatet
 - OK   3 ki_hoy=6.7 rad 146 (W4392558137, sannsynlighet for ordinært arbeid minst ) står i sitatet
 - OK   4 rad 146 (W4392558137, sannsynlighet for ordinært arbeid minst ) estimat innenfor KI
-- FEIL 2 sitat rad 147 (W4392558137, sannsynlighet for ordinært arbeid minst ) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 147 (W4392558137, sannsynlighet for ordinært arbeid minst ) står på oppgitt side
 - OK   3 estimat=7.5 rad 147 (W4392558137, sannsynlighet for ordinært arbeid minst ) står i sitatet
 - OK   3 ki_lav=3.8 rad 147 (W4392558137, sannsynlighet for ordinært arbeid minst ) står i sitatet
 - OK   3 ki_hoy=11.3 rad 147 (W4392558137, sannsynlighet for ordinært arbeid minst ) står i sitatet
 - OK   4 rad 147 (W4392558137, sannsynlighet for ordinært arbeid minst ) estimat innenfor KI
-- FEIL 2 sitat rad 148 (W4392558137, kostnadsforskjell per person, samfunnspe) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 148 (W4392558137, kostnadsforskjell per person, samfunnspe) står på oppgitt side
 - OK   3 estimat=-364 rad 148 (W4392558137, kostnadsforskjell per person, samfunnspe) står i sitatet
 - OK   3 ki_lav=-3977 rad 148 (W4392558137, kostnadsforskjell per person, samfunnspe) står i sitatet
 - OK   3 ki_hoy=3249 rad 148 (W4392558137, kostnadsforskjell per person, samfunnspe) står i sitatet
 - OK   4 rad 148 (W4392558137, kostnadsforskjell per person, samfunnspe) estimat innenfor KI
-- FEIL 2 sitat rad 149 (W3092528766, sannsynlighet for ordinært arbeid 8–18 m) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 149 (W3092528766, sannsynlighet for ordinært arbeid 8–18 m) står på oppgitt side
 - OK   3 estimat=8 rad 149 (W3092528766, sannsynlighet for ordinært arbeid 8–18 m) står i sitatet
-- FEIL 2 sitat rad 150 (W3092528766, langtidsvirkning: effekten på ordinært a) ble IKKE funnet på oppgitt side
-- FEIL 2 sitat rad 151 (W2141839834, andel med ordinært arbeid i løpet av 12 ) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 150 (W3092528766, langtidsvirkning: effekten på ordinært a) står på oppgitt side
+- OK   2 sitat rad 151 (W2141839834, andel med ordinært arbeid i løpet av 12 ) står på oppgitt side
 - OK   3 estimat=47 rad 151 (W2141839834, andel med ordinært arbeid i løpet av 12 ) står i sitatet
-- FEIL 2 sitat rad 152 (W2141839834, timer i ordinært arbeid over 12 mnd, IPS) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 152 (W2141839834, timer i ordinært arbeid over 12 mnd, IPS) står på oppgitt side
 - OK   3 estimat=126 rad 152 (W2141839834, timer i ordinært arbeid over 12 mnd, IPS) står i sitatet
-- FEIL 2 sitat rad 153 (W2142209734, antall i arbeid etter 6 mnd, 13 av 20 i ) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 153 (W2142209734, antall i arbeid etter 6 mnd, 13 av 20 i ) står på oppgitt side
 - OK   3 estimat=13 rad 153 (W2142209734, antall i arbeid etter 6 mnd, 13 av 20 i ) står i sitatet
-- FEIL 2 sitat rad 154 (W2893792582, andel som hadde vært i arbeid etter 6 mn) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 154 (W2893792582, andel som hadde vært i arbeid etter 6 mn) står på oppgitt side
 - OK   3 estimat=3.40 rad 154 (W2893792582, andel som hadde vært i arbeid etter 6 mn) står i sitatet
 - OK   3 ki_lav=1.17 rad 154 (W2893792582, andel som hadde vært i arbeid etter 6 mn) står i sitatet
 - OK   3 ki_hoy=9.91 rad 154 (W2893792582, andel som hadde vært i arbeid etter 6 mn) står i sitatet
 - OK   4 rad 154 (W2893792582, andel som hadde vært i arbeid etter 6 mn) estimat innenfor KI
 - OK   4 rad 154 (W2893792582, andel som hadde vært i arbeid etter 6 mn) KI symmetrisk på log-skala (avvik 0.00)
-- FEIL 2 sitat rad 155 (W2893792582, langtidsvirkning: p-verdi for forskjell ) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 155 (W2893792582, langtidsvirkning: p-verdi for forskjell ) står på oppgitt side
 - OK   3 estimat=0.594 rad 155 (W2893792582, langtidsvirkning: p-verdi for forskjell ) står i sitatet
-- FEIL 2 sitat rad 156 (W4410133250, arbeid, utdanning eller opplæring minst ) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 156 (W4410133250, arbeid, utdanning eller opplæring minst ) står på oppgitt side
 - OK   3 estimat=3.0 rad 156 (W4410133250, arbeid, utdanning eller opplæring minst ) står i sitatet
 - OK   3 ki_lav=1.2 rad 156 (W4410133250, arbeid, utdanning eller opplæring minst ) står i sitatet
 - OK   3 ki_hoy=7.51 rad 156 (W4410133250, arbeid, utdanning eller opplæring minst ) står i sitatet
 - OK   4 rad 156 (W4410133250, arbeid, utdanning eller opplæring minst ) estimat innenfor KI
 - OK   4 rad 156 (W4410133250, arbeid, utdanning eller opplæring minst ) KI symmetrisk på log-skala (avvik 0.00)
-- FEIL 2 sitat rad 157 (W4410133250, arbeid minst 15 t/uke, delutvalget som i) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 157 (W4410133250, arbeid minst 15 t/uke, delutvalget som i) står på oppgitt side
 - OK   3 estimat=3.5 rad 157 (W4410133250, arbeid minst 15 t/uke, delutvalget som i) står i sitatet
 - OK   3 ki_lav=1.07 rad 157 (W4410133250, arbeid minst 15 t/uke, delutvalget som i) står i sitatet
 - OK   3 ki_hoy=11.4 rad 157 (W4410133250, arbeid minst 15 t/uke, delutvalget som i) står i sitatet
 - OK   4 rad 157 (W4410133250, arbeid minst 15 t/uke, delutvalget som i) estimat innenfor KI
 - OK   4 rad 157 (W4410133250, arbeid minst 15 t/uke, delutvalget som i) KI symmetrisk på log-skala (avvik 0.00)
-- FEIL 2 sitat rad 158 (W3206158820, forskjell i andel i arbeid (minst 1 dag)) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 158 (W3206158820, forskjell i andel i arbeid (minst 1 dag)) står på oppgitt side
 - OK   3 estimat=5 rad 158 (W3206158820, forskjell i andel i arbeid (minst 1 dag)) står i sitatet
-- FEIL 2 sitat rad 159 (W2153505289, odds for arbeid etter 12 mnd (29 av 68 m) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 159 (W2153505289, odds for arbeid etter 12 mnd (29 av 68 m) står på oppgitt side
 - OK   3 estimat=4.3 rad 159 (W2153505289, odds for arbeid etter 12 mnd (29 av 68 m) står i sitatet
-- FEIL 2 sitat rad 161 (W4391244179, oppnådd ordinært arbeid i løpet av 18 mn) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 161 (W4391244179, oppnådd ordinært arbeid i løpet av 18 mn) står på oppgitt side
 - OK   3 estimat=1.29 rad 161 (W4391244179, oppnådd ordinært arbeid i løpet av 18 mn) står i sitatet
 - OK   3 ki_lav=1.02 rad 161 (W4391244179, oppnådd ordinært arbeid i løpet av 18 mn) står i sitatet
 - OK   3 ki_hoy=1.64 rad 161 (W4391244179, oppnådd ordinært arbeid i løpet av 18 mn) står i sitatet
 - OK   4 rad 161 (W4391244179, oppnådd ordinært arbeid i løpet av 18 mn) estimat innenfor KI
 - OK   4 rad 161 (W4391244179, oppnådd ordinært arbeid i løpet av 18 mn) KI symmetrisk på log-skala (avvik 0.01)
-- FEIL 2 sitat rad 162 (W4391244179, oppnådd ordinært arbeid i løpet av 18 mn) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 162 (W4391244179, oppnådd ordinært arbeid i løpet av 18 mn) står på oppgitt side
 - OK   3 estimat=1.48 rad 162 (W4391244179, oppnådd ordinært arbeid i løpet av 18 mn) står i sitatet
 - OK   3 ki_lav=1.14 rad 162 (W4391244179, oppnådd ordinært arbeid i løpet av 18 mn) står i sitatet
 - OK   3 ki_hoy=1.92 rad 162 (W4391244179, oppnådd ordinært arbeid i løpet av 18 mn) står i sitatet
 - OK   4 rad 162 (W4391244179, oppnådd ordinært arbeid i løpet av 18 mn) estimat innenfor KI
 - OK   4 rad 162 (W4391244179, oppnådd ordinært arbeid i løpet av 18 mn) KI symmetrisk på log-skala (avvik 0.00)
-- FEIL 2 sitat rad 163 (W4391244179, oppnådd ordinært arbeid i løpet av 18 mn) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 163 (W4391244179, oppnådd ordinært arbeid i løpet av 18 mn) står på oppgitt side
 - OK   3 estimat=1.45 rad 163 (W4391244179, oppnådd ordinært arbeid i løpet av 18 mn) står i sitatet
 - OK   3 ki_lav=1.03 rad 163 (W4391244179, oppnådd ordinært arbeid i løpet av 18 mn) står i sitatet
 - OK   3 ki_hoy=2.04 rad 163 (W4391244179, oppnådd ordinært arbeid i løpet av 18 mn) står i sitatet
 - OK   4 rad 163 (W4391244179, oppnådd ordinært arbeid i løpet av 18 mn) estimat innenfor KI
 - OK   4 rad 163 (W4391244179, oppnådd ordinært arbeid i løpet av 18 mn) KI symmetrisk på log-skala (avvik 0.00)
-- FEIL 2 sitat rad 164 (W4391244179, sannsynlighet for at IPS er kostnadseffe) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 164 (W4391244179, sannsynlighet for at IPS er kostnadseffe) står på oppgitt side
 - OK   3 estimat=0.61 rad 164 (W4391244179, sannsynlighet for at IPS er kostnadseffe) står i sitatet
-- FEIL 2 sitat rad 165 (W4391244179, andel med ordinært arbeid, IPS 50 prosen) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 165 (W4391244179, andel med ordinært arbeid, IPS 50 prosen) står på oppgitt side
 - OK   3 estimat=50 rad 165 (W4391244179, andel med ordinært arbeid, IPS 50 prosen) står i sitatet
-- FEIL 2 sitat rad 166 (W7170865677, andel i arbeid under nasjonal utbygging ) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 166 (W7170865677, andel i arbeid under nasjonal utbygging ) står på oppgitt side
 - OK   3 estimat=52 rad 166 (W7170865677, andel i arbeid under nasjonal utbygging ) står i sitatet
-- FEIL 2 sitat rad 167 (W4400255597, tid til varig lønnet arbeid over 18 mnd,) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 167 (W4400255597, tid til varig lønnet arbeid over 18 mnd,) står på oppgitt side
 - OK   3 estimat=1.47 rad 167 (W4400255597, tid til varig lønnet arbeid over 18 mnd,) står i sitatet
 - OK   3 ki_lav=0.81 rad 167 (W4400255597, tid til varig lønnet arbeid over 18 mnd,) står i sitatet
 - OK   3 ki_hoy=2.63 rad 167 (W4400255597, tid til varig lønnet arbeid over 18 mnd,) står i sitatet
 - OK   4 rad 167 (W4400255597, tid til varig lønnet arbeid over 18 mnd,) estimat innenfor KI
 - OK   4 rad 167 (W4400255597, tid til varig lønnet arbeid over 18 mnd,) KI symmetrisk på log-skala (avvik 0.01)
-- FEIL 2 sitat rad 168 (W4400255597, tid til lønnet arbeid, arbeidsutprøving ) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 168 (W4400255597, tid til lønnet arbeid, arbeidsutprøving ) står på oppgitt side
 - OK   3 estimat=1.85 rad 168 (W4400255597, tid til lønnet arbeid, arbeidsutprøving ) står i sitatet
 - OK   3 ki_lav=1.01 rad 168 (W4400255597, tid til lønnet arbeid, arbeidsutprøving ) står i sitatet
 - OK   3 ki_hoy=3.42 rad 168 (W4400255597, tid til lønnet arbeid, arbeidsutprøving ) står i sitatet
 - OK   4 rad 168 (W4400255597, tid til lønnet arbeid, arbeidsutprøving ) estimat innenfor KI
 - OK   4 rad 168 (W4400255597, tid til lønnet arbeid, arbeidsutprøving ) KI symmetrisk på log-skala (avvik 0.01)
-- FEIL 2 sitat rad 170 (W7220702470, nytte-kostnadsforhold etter 5 år (pund t) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 170 (W7220702470, nytte-kostnadsforhold etter 5 år (pund t) står på oppgitt side
 - OK   3 estimat=5.67 rad 170 (W7220702470, nytte-kostnadsforhold etter 5 år (pund t) står i sitatet
-- FEIL 2 sitat rad 171 (W4400776472, andel som kom i (eller tilbake til) ordi) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 171 (W4400776472, andel som kom i (eller tilbake til) ordi) står på oppgitt side
 - OK   3 estimat=51.7 rad 171 (W4400776472, andel som kom i (eller tilbake til) ordi) står i sitatet
-- FEIL 2 sitat rad 172 (W4390718237, økning i arbeidsdeltakelse per år etter ) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 172 (W4390718237, økning i arbeidsdeltakelse per år etter ) står på oppgitt side
 - OK   3 estimat=15.3 rad 172 (W4390718237, økning i arbeidsdeltakelse per år etter ) står i sitatet
-- FEIL 2 sitat rad 173 (W4390718237, endring i psykisk helse (skala 0–100), i) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 173 (W4390718237, endring i psykisk helse (skala 0–100), i) står på oppgitt side
 - OK   3 estimat=1.0 rad 173 (W4390718237, endring i psykisk helse (skala 0–100), i) står i sitatet
 - OK   3 ki_lav=-3.4 rad 173 (W4390718237, endring i psykisk helse (skala 0–100), i) står i sitatet
 - OK   3 ki_hoy=5.5 rad 173 (W4390718237, endring i psykisk helse (skala 0–100), i) står i sitatet
 - OK   4 rad 173 (W4390718237, endring i psykisk helse (skala 0–100), i) estimat innenfor KI
-- FEIL 2 sitat rad 174 (W2994494788, samspill mellom personlighetsforstyrrels) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 174 (W2994494788, samspill mellom personlighetsforstyrrels) står på oppgitt side
 - OK   3 estimat=0.592 rad 174 (W2994494788, samspill mellom personlighetsforstyrrels) står i sitatet
 - OK   3 ki_lav=0.080 rad 174 (W2994494788, samspill mellom personlighetsforstyrrels) står i sitatet
 - OK   3 ki_hoy=4.350 rad 174 (W2994494788, samspill mellom personlighetsforstyrrels) står i sitatet
@@ -1009,25 +1008,25 @@ Kjørt 2026-11-14.
 - OK   3 estimat=42.5 rad 207 (W2153599919, andel som startet i arbeid innen 12 mnd,) står i sitatet
 - OK   2 sitat rad 208 (W2771563908, langtidsvirkning: andel i arbeid siste 6) står på oppgitt side
 - OK   3 estimat=30 rad 208 (W2771563908, langtidsvirkning: andel i arbeid siste 6) står i sitatet
-- FEIL 2 sitat rad 209 (W2338814622, Arbeid innen første år (1–12 måneder, 7 ) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 209 (W2338814622, Arbeid innen første år (1–12 måneder, 7 ) står på oppgitt side
 - OK   3 estimat=2.59 rad 209 (W2338814622, Arbeid innen første år (1–12 måneder, 7 ) står i sitatet
 - OK   3 ki_lav=1.88 rad 209 (W2338814622, Arbeid innen første år (1–12 måneder, 7 ) står i sitatet
 - OK   3 ki_hoy=3.56 rad 209 (W2338814622, Arbeid innen første år (1–12 måneder, 7 ) står i sitatet
 - OK   4 rad 209 (W2338814622, Arbeid innen første år (1–12 måneder, 7 ) estimat innenfor KI
 - OK   4 rad 209 (W2338814622, Arbeid innen første år (1–12 måneder, 7 ) KI symmetrisk på log-skala (avvik 0.00)
-- FEIL 2 sitat rad 210 (W4367311571, ordinært arbeid eller utdanning minst én) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 210 (W4367311571, ordinært arbeid eller utdanning minst én) står på oppgitt side
 - OK   3 estimat=0.123 rad 210 (W4367311571, ordinært arbeid eller utdanning minst én) står i sitatet
 - OK   3 ki_lav=0.012 rad 210 (W4367311571, ordinært arbeid eller utdanning minst én) står i sitatet
 - OK   3 ki_hoy=0.231 rad 210 (W4367311571, ordinært arbeid eller utdanning minst én) står i sitatet
 - OK   4 rad 210 (W4367311571, ordinært arbeid eller utdanning minst én) estimat innenfor KI
-- FEIL 2 sitat rad 211 (W4367311571, uker i ordinært arbeid eller utdanning o) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 211 (W4367311571, uker i ordinært arbeid eller utdanning o) står på oppgitt side
 - OK   3 estimat=0.146 rad 211 (W4367311571, uker i ordinært arbeid eller utdanning o) står i sitatet
 - OK   3 ki_lav=0.02 rad 211 (W4367311571, uker i ordinært arbeid eller utdanning o) står i sitatet
 - OK   3 ki_hoy=0.268 rad 211 (W4367311571, uker i ordinært arbeid eller utdanning o) står i sitatet
 - OK   4 rad 211 (W4367311571, uker i ordinært arbeid eller utdanning o) estimat innenfor KI
-- FEIL 2 sitat rad 212 (W3117173428, kostnadsforskjell over 18 mnd i euro, IP) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 212 (W3117173428, kostnadsforskjell over 18 mnd i euro, IP) står på oppgitt side
 - OK   3 estimat=7288 rad 212 (W3117173428, kostnadsforskjell over 18 mnd i euro, IP) står i sitatet
-- FEIL 2 sitat rad 213 (W7220702470, modellert økning i sysselsetting etter 5) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 213 (W7220702470, modellert økning i sysselsetting etter 5) står på oppgitt side
 - OK   3 estimat=3.01 rad 213 (W7220702470, modellert økning i sysselsetting etter 5) står i sitatet
 - OK   2 sitat rad 214 (W2738957630, ordinært arbeid (21 studier, moderat til) står på oppgitt side
 - OK   3 estimat=2.40 rad 214 (W2738957630, ordinært arbeid (21 studier, moderat til) står i sitatet
@@ -1055,11 +1054,11 @@ Kjørt 2026-11-14.
 - OK   3 estimat=61 rad 218 (W2103982358, andel i ordinært arbeid (11 RCT-er med h) står i sitatet
 - OK   2 sitat rad 219 (W2093242322, andel i ordinært arbeid med IPS i forsøk) står på oppgitt side
 - OK   3 estimat=62 rad 219 (W2093242322, andel i ordinært arbeid med IPS i forsøk) står i sitatet
-- FEIL 2 sitat rad 251 (NB-6618, måneder i arbeid eller utdanning, 1–12 m) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 251 (NB-6618, måneder i arbeid eller utdanning, 1–12 m) står på oppgitt side
 - OK   3 estimat=0.4 rad 251 (NB-6618, måneder i arbeid eller utdanning, 1–12 m) står i sitatet
-- FEIL 2 sitat rad 252 (NB-6618, måneder i arbeid eller utdanning, 13–24 ) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 252 (NB-6618, måneder i arbeid eller utdanning, 13–24 ) står på oppgitt side
 - OK   3 estimat=1.4 rad 252 (NB-6618, måneder i arbeid eller utdanning, 13–24 ) står i sitatet
-- FEIL 2 sitat rad 253 (NB-6618, arbeid eller utdanning første år (negati) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 253 (NB-6618, arbeid eller utdanning første år (negati) står på oppgitt side
 - OK   5 tallet 0.4 i svaret finnes i estimat- eller statistikktabellen
 - OK   5 tallet 1.2 i svaret finnes i estimat- eller statistikktabellen
 - OK   5 tallet 1.29 i svaret finnes i estimat- eller statistikktabellen
@@ -1084,14 +1083,15 @@ Kjørt 2026-11-14.
 - OK   5 tallet 2.40 i svaret finnes i estimat- eller statistikktabellen
 - OK   5 tallet 2.86 i svaret finnes i estimat- eller statistikktabellen
 - OK   5 tallet 217 i svaret finnes i estimat- eller statistikktabellen
-- OK   5 tallet 24 i svaret finnes i estimat- eller statistikktabellen
 - OK   5 tallet 25 i svaret finnes i estimat- eller statistikktabellen
 - OK   5 tallet 27.1 i svaret finnes i estimat- eller statistikktabellen
 - OK   5 tallet 28 i svaret finnes i estimat- eller statistikktabellen
 - OK   5 tallet 28.3 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 29 i svaret finnes i estimat- eller statistikktabellen
 - OK   5 tallet 3.0 i svaret finnes i estimat- eller statistikktabellen
 - OK   5 tallet 3.66 i svaret finnes i estimat- eller statistikktabellen
 - OK   5 tallet 3.7 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 30 i svaret finnes i estimat- eller statistikktabellen
 - OK   5 tallet 32 i svaret finnes i estimat- eller statistikktabellen
 - OK   5 tallet 33 i svaret finnes i estimat- eller statistikktabellen
 - OK   5 tallet 33.7 i svaret finnes i estimat- eller statistikktabellen
@@ -1105,8 +1105,6 @@ Kjørt 2026-11-14.
 - OK   5 tallet 38 i svaret finnes i estimat- eller statistikktabellen
 - OK   5 tallet 39.6 i svaret finnes i estimat- eller statistikktabellen
 - OK   5 tallet 4.76 i svaret finnes i estimat- eller statistikktabellen
-- OK   5 tallet 40 i svaret finnes i estimat- eller statistikktabellen
-- OK   5 tallet 41 i svaret finnes i estimat- eller statistikktabellen
 - OK   5 tallet 42 i svaret finnes i estimat- eller statistikktabellen
 - OK   5 tallet 44 i svaret finnes i estimat- eller statistikktabellen
 - OK   5 tallet 44.4 i svaret finnes i estimat- eller statistikktabellen
@@ -1128,7 +1126,6 @@ Kjørt 2026-11-14.
 - OK   5 tallet 8.8 i svaret finnes i estimat- eller statistikktabellen
 - OK   5 tallet 82 i svaret finnes i estimat- eller statistikktabellen
 - OK   5 tallet 9.5 i svaret finnes i estimat- eller statistikktabellen
-- OK   5 tallet 96 i svaret finnes i estimat- eller statistikktabellen
 - OK   6 utelatt W2122775094 «Implementing Supported Employmentas an Evidence-Based Practice» (2001) – studie av innføring, organisering eller jobbspesialister, ikke effektmål
 - OK   6 utelatt W2159690123 «Psychosocial Treatments for Schizophrenia» (2013) – studie av psykisk lidelse uten arbeidsrettet tiltak som tiltak
 - OK   6 utelatt W2151103413 «The Psychosocial Treatment of Schizophrenia: An Update» (2001) – lærebok, historikk, kommentar eller ikke-systematisk omtale; oversiktene i utvalget dekker evidensen

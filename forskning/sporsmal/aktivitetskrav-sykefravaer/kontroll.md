@@ -1,34 +1,21 @@
 # Kontroll: aktivitetskrav-sykefravaer
 
-Kjørt 2026-11-14.
+Kjørt 2026-11-09.
 
-260 feil av 3421 kontroller.
+0 feil av 2789 kontroller.
 
-- OBS  10 51 sentrale valgte kilder er ikke lest i fulltekst (6 ikke lest, 45 bare sammendrag; se vedlegg_bc.py). Forbeholdene nevner uleste kilder: sjekk at antallet stemmer.
-- OK   1 kilde 019c24177f74-d0e4c927-93d4-4477-a70a-3ef207a9fbf4 finnes
 - OK   1 kilde AV-2014-3-01 finnes
 - OK   1 kilde AV-2015-3-04 finnes
 - OK   1 kilde AV-2017-1-04 finnes
-- OK   1 kilde AV-2017-1-06 finnes
-- OK   1 kilde AV-2022-2-04 finnes
-- OK   1 kilde KU-b5503dbe-4b5c-41a1-959b-1e07a266a10e finnes
-- OK   1 kilde KU-f0bb3e0c-c725-4cbe-a245-b333d1b74da8 finnes
-- OK   1 kilde LI-8t04flg46fv9pj3t finnes
-- OK   1 kilde R-5e8ea23282 finnes
-- OK   1 kilde R-ca4ebdc6a8 finnes
-- OK   1 kilde W2012190243 finnes
-- OK   1 kilde W2068839152 finnes
-- OK   1 kilde W2076808106 finnes
-- OK   1 kilde W2087092263 finnes
+- OK   1 kilde W2412604146 finnes
 - OK   1 kilde W2796572035 finnes
+- OK   1 kilde W3010213937 finnes
+- OK   1 kilde W3098021798 finnes
 - OK   1 kilde W3121578847 finnes
-- OK   1 kilde W3125553714 finnes
-- OK   1 kilde W3162733289 finnes
-- OK   1 kilde W3170545082 finnes
-- OK   1 kilde W4214640429 finnes
-- OK   1 kilde W4224227694 finnes
+- OK   1 kilde W3170959179 finnes
+- OK   1 kilde W3198402854 finnes
+- OK   1 kilde W4229447182 finnes
 - OK   1 kilde W4404867325 finnes
-- OK   1 kilde W4410772602 finnes
 - OK   1 estimat-kilde AV-2014-3-01 finnes
 - OK   1 estimat-kilde AV-2014-3-01 finnes
 - OK   1 estimat-kilde AV-2014-3-01 finnes
@@ -63,6 +50,7 @@ Kjørt 2026-11-14.
 - OK   1 estimat-kilde W4294879451 finnes
 - OK   1 estimat-kilde W2799985133 finnes
 - OK   1 estimat-kilde W2077733934 finnes
+- OK   1 estimat-kilde W3014899208 finnes
 - OK   1 estimat-kilde W4229439392 finnes
 - OK   1 estimat-kilde 019904aa7986-0e4c2361-eb33-4871-9ab3-47b965597085 finnes
 - OK   1 estimat-kilde FI-jykdok.2188791 finnes
@@ -70,12 +58,18 @@ Kjørt 2026-11-14.
 - OK   1 estimat-kilde W2590965493 finnes
 - OK   1 estimat-kilde W2127823072 finnes
 - OK   1 estimat-kilde W2094662502 finnes
+- OK   1 estimat-kilde W2171828568 finnes
+- OK   1 estimat-kilde W2171828568 finnes
+- OK   1 estimat-kilde W2141051648 finnes
+- OK   1 estimat-kilde W2141051648 finnes
 - OK   1 estimat-kilde W4410104943 finnes
 - OK   1 estimat-kilde W2810119800 finnes
 - OK   1 estimat-kilde W4396667274 finnes
 - OK   1 estimat-kilde W4396667274 finnes
 - OK   1 estimat-kilde W4396667274 finnes
 - OK   1 estimat-kilde W2907932932 finnes
+- OK   1 estimat-kilde W2062813714 finnes
+- OK   1 estimat-kilde W2062813714 finnes
 - OK   1 estimat-kilde W2181455115 finnes
 - OK   1 estimat-kilde 0198cc685187-e4b11562-1a40-4075-bb09-8d68011d9a16 finnes
 - OK   1 estimat-kilde 0198cc685187-e4b11562-1a40-4075-bb09-8d68011d9a16 finnes
@@ -92,10 +86,16 @@ Kjørt 2026-11-14.
 - OK   1 estimat-kilde W1606668257 finnes
 - OK   1 estimat-kilde W2328015438 finnes
 - OK   1 estimat-kilde W2328015438 finnes
+- OK   1 estimat-kilde W2002447441 finnes
+- OK   1 estimat-kilde W2099295837 finnes
+- OK   1 estimat-kilde W2099295837 finnes
 - OK   1 estimat-kilde W1503015117 finnes
 - OK   1 estimat-kilde W2518291518 finnes
 - OK   1 estimat-kilde W2518291518 finnes
 - OK   1 estimat-kilde W4399422307 finnes
+- OK   1 estimat-kilde W2898202126 finnes
+- OK   1 estimat-kilde W2898202126 finnes
+- OK   1 estimat-kilde W2898202126 finnes
 - OK   1 estimat-kilde W3125553714 finnes
 - OK   1 estimat-kilde W3125553714 finnes
 - OK   1 estimat-kilde W3125553714 finnes
@@ -114,11 +114,19 @@ Kjørt 2026-11-14.
 - OK   1 estimat-kilde W2027242222 finnes
 - OK   1 estimat-kilde W2599512444 finnes
 - OK   1 estimat-kilde W2599512444 finnes
+- OK   1 estimat-kilde W7165184009 finnes
+- OK   1 estimat-kilde W7165184009 finnes
+- OK   1 estimat-kilde W7165184009 finnes
+- OK   1 estimat-kilde W7165184009 finnes
+- OK   1 estimat-kilde W4385329355 finnes
+- OK   1 estimat-kilde W3215327468 finnes
 - OK   1 estimat-kilde W4410772602 finnes
 - OK   1 estimat-kilde W4410772602 finnes
 - OK   1 estimat-kilde W2395813727 finnes
 - OK   1 estimat-kilde W2129322795 finnes
 - OK   1 estimat-kilde W2129322795 finnes
+- OK   1 estimat-kilde W4200573960 finnes
+- OK   1 estimat-kilde W4200573960 finnes
 - OK   1 estimat-kilde W4386883739 finnes
 - OK   1 estimat-kilde W4386883739 finnes
 - OK   1 estimat-kilde W4393358110 finnes
@@ -194,6 +202,9 @@ Kjørt 2026-11-14.
 - OK   1 estimat-kilde W4399324105 finnes
 - OK   1 estimat-kilde W4399324105 finnes
 - OK   1 estimat-kilde W4399324105 finnes
+- OK   1 estimat-kilde W4295476150 finnes
+- OK   1 estimat-kilde W4404073311 finnes
+- OK   1 estimat-kilde W3015192800 finnes
 - OK   1 estimat-kilde W3044135239 finnes
 - OK   1 estimat-kilde W3044135239 finnes
 - OK   1 estimat-kilde W3044135239 finnes
@@ -228,6 +239,11 @@ Kjørt 2026-11-14.
 - OK   1 estimat-kilde FI-etk.11111_1755 finnes
 - OK   1 estimat-kilde FI-helka.9934056749606253 finnes
 - OK   1 estimat-kilde W4210656986 finnes
+- OK   1 estimat-kilde W4385186036 finnes
+- OK   1 estimat-kilde W7154750644 finnes
+- OK   1 estimat-kilde W7154750644 finnes
+- OK   1 estimat-kilde W7154750644 finnes
+- OK   1 estimat-kilde W7154750644 finnes
 - OK   1 estimat-kilde 0198cc735430-653e7c4d-4af8-4e61-a4e2-6813e8dc543f finnes
 - OK   1 estimat-kilde NB-6165 finnes
 - OK   1 estimat-kilde KU-3dbd207f-9dc5-45e6-a33c-6c3b245ad196 finnes
@@ -258,7 +274,16 @@ Kjørt 2026-11-14.
 - OK   1 estimat-kilde W1563064513 finnes
 - OK   1 estimat-kilde W2136823366 finnes
 - OK   1 estimat-kilde W2020517177 finnes
+- OK   1 estimat-kilde W2103570575 finnes
+- OK   1 estimat-kilde W2103570575 finnes
+- OK   1 estimat-kilde W2103570575 finnes
 - OK   1 estimat-kilde W2414105140 finnes
+- OK   1 estimat-kilde W3000937778 finnes
+- OK   1 estimat-kilde W2061898948 finnes
+- OK   1 estimat-kilde W2061898948 finnes
+- OK   1 estimat-kilde W4396861024 finnes
+- OK   1 estimat-kilde W4396861024 finnes
+- OK   1 estimat-kilde FI-helka.9931664533506253 finnes
 - OK   1 estimat-kilde W2753581083 finnes
 - OK   1 estimat-kilde W2753581083 finnes
 - OK   1 estimat-kilde W2090705748 finnes
@@ -272,23 +297,32 @@ Kjørt 2026-11-14.
 - OK   1 estimat-kilde W2411974038 finnes
 - OK   1 estimat-kilde W2411974038 finnes
 - OK   1 estimat-kilde W2411974038 finnes
+- OK   1 estimat-kilde W2142327029 finnes
+- OK   1 estimat-kilde W2142327029 finnes
+- OK   1 estimat-kilde W2142327029 finnes
+- OK   1 estimat-kilde W2142327029 finnes
 - OK   1 estimat-kilde W2171186773 finnes
 - OK   1 estimat-kilde W2171186773 finnes
 - OK   1 estimat-kilde W2070975802 finnes
 - OK   1 estimat-kilde W2130137198 finnes
 - OK   1 estimat-kilde W4252885144 finnes
+- OK   1 estimat-kilde W2047554703 finnes
 - OK   1 estimat-kilde W2127673741 finnes
 - OK   1 estimat-kilde W2121271519 finnes
 - OK   1 estimat-kilde W2121271519 finnes
 - OK   1 estimat-kilde W2121271519 finnes
 - OK   1 estimat-kilde W2121271519 finnes
 - OK   1 estimat-kilde W2507610517 finnes
+- OK   1 estimat-kilde W2108740484 finnes
+- OK   1 estimat-kilde W2108740484 finnes
 - OK   1 estimat-kilde W2100697776 finnes
 - OK   1 estimat-kilde W2792125217 finnes
 - OK   1 estimat-kilde W1973614852 finnes
 - OK   1 estimat-kilde W1973614852 finnes
 - OK   1 estimat-kilde W7127178060 finnes
 - OK   1 estimat-kilde W7127178060 finnes
+- OK   1 estimat-kilde W4415579856 finnes
+- OK   1 estimat-kilde W4415579856 finnes
 - OK   1 estimat-kilde W2771627068 finnes
 - OK   1 estimat-kilde W2771627068 finnes
 - OK   1 estimat-kilde W4414965353 finnes
@@ -303,1203 +337,1096 @@ Kjørt 2026-11-14.
 - OK   1 estimat-kilde W2796572035 finnes
 - OK   1 estimat-kilde W3170959179 finnes
 - OK   1 estimat-kilde W1606668257 finnes
+- OK   1 estimat-kilde W4200573960 finnes
+- OK   1 estimat-kilde W4200573960 finnes
 - OK   1 estimat-kilde W4386883739 finnes
 - OK   1 estimat-kilde W7165684937 finnes
 - OK   1 estimat-kilde W7165684937 finnes
 - OK   1 estimat-kilde W4387231342 finnes
+- OK   1 estimat-kilde W3015192800 finnes
+- OK   1 estimat-kilde W3015192800 finnes
 - OK   1 estimat-kilde W2215805610 finnes
 - OK   1 estimat-kilde W4302588647 finnes
 - OK   1 estimat-kilde W3162733289 finnes
-- OK   1 estimat-kilde W4253720434 finnes
-- OK   1 estimat-kilde W7221481109 finnes
-- OK   1 estimat-kilde KU-d2e7857c-2757-4736-b1d4-8750274e966e finnes
-- OK   1 estimat-kilde W2935911342 finnes
-- OK   1 estimat-kilde W2789142559 finnes
-- OK   1 estimat-kilde W2219647517 finnes
-- OK   1 estimat-kilde W2219647517 finnes
-- OK   1 estimat-kilde W2219647517 finnes
-- OK   1 estimat-kilde W65995551 finnes
-- OK   1 estimat-kilde W2171985774 finnes
-- OK   1 estimat-kilde W2171985774 finnes
-- OK   1 estimat-kilde W2171985774 finnes
-- OK   1 estimat-kilde W1944603683 finnes
-- OK   1 estimat-kilde W2566789032 finnes
-- OK   1 estimat-kilde W2885574758 finnes
-- OK   1 estimat-kilde W2885574758 finnes
-- OK   1 estimat-kilde W2132302069 finnes
-- OK   1 estimat-kilde W3111825913 finnes
-- OK   1 estimat-kilde FI-trepo.10024_146372 finnes
-- OK   1 estimat-kilde W4282045117 finnes
-- OK   1 estimat-kilde W7160063708 finnes
-- OK   1 estimat-kilde W1963709583 finnes
-- OK   1 estimat-kilde W2128132260 finnes
-- OK   1 estimat-kilde W2128132260 finnes
-- OK   1 estimat-kilde W2128969319 finnes
-- OK   1 estimat-kilde W2073048698 finnes
-- OK   1 estimat-kilde W2073048698 finnes
-- OK   1 estimat-kilde W2731642262 finnes
-- OK   1 estimat-kilde W2801799360 finnes
-- OK   1 estimat-kilde W3003410595 finnes
-- OK   1 estimat-kilde W2136583321 finnes
-- OK   1 estimat-kilde W2585080834 finnes
-- OK   1 estimat-kilde 0198f6097f34-942bda84-c442-45f3-bee4-ae2a5dfadb8a finnes
-- OK   1 estimat-kilde 0198f6097f34-942bda84-c442-45f3-bee4-ae2a5dfadb8a finnes
-- OK   1 estimat-kilde 0198f6097f34-942bda84-c442-45f3-bee4-ae2a5dfadb8a finnes
-- OK   1 estimat-kilde 0198f6097f34-942bda84-c442-45f3-bee4-ae2a5dfadb8a finnes
-- OK   1 estimat-kilde W1527178697 finnes
-- OK   1 estimat-kilde W1527178697 finnes
-- OK   1 estimat-kilde W1527178697 finnes
-- OK   1 estimat-kilde W2255616778 finnes
-- OK   1 estimat-kilde W2974066945 finnes
-- OK   1 estimat-kilde W1595917770 finnes
-- OK   1 estimat-kilde W1635594204 finnes
-- OK   1 estimat-kilde W1997959920 finnes
-- OK   1 estimat-kilde W2313100069 finnes
-- OK   1 estimat-kilde W2219647517 finnes
-- OK   1 estimat-kilde W1732288 finnes
-- OK   1 estimat-kilde W7160064339 finnes
-- OK   1 estimat-kilde W2063500338 finnes
-- OK   1 estimat-kilde W4220879318 finnes
-- OK   1 estimat-kilde W4220879318 finnes
-- OK   1 estimat-kilde W4220879318 finnes
-- OK   1 estimat-kilde W1525215440 finnes
-- OK   1 estimat-kilde W2259782559 finnes
-- OK   1 estimat-kilde W2259782559 finnes
-- OK   1 estimat-kilde W2259782559 finnes
-- OK   1 estimat-kilde W3124462499 finnes
-- OK   1 estimat-kilde W3124462499 finnes
-- OK   1 estimat-kilde W1620640418 finnes
-- OK   1 estimat-kilde W1620640418 finnes
-- OK   1 estimat-kilde W2015245420 finnes
-- OK   1 estimat-kilde W2015245420 finnes
-- OK   1 estimat-kilde W3165059038 finnes
-- OK   1 estimat-kilde W3165059038 finnes
-- OK   1 estimat-kilde W4407881389 finnes
-- OK   1 estimat-kilde W4407881389 finnes
-- OK   1 estimat-kilde W4417438054 finnes
-- OK   1 estimat-kilde W4417438054 finnes
-- OK   1 estimat-kilde W2131314409 finnes
-- OK   1 estimat-kilde W3185498031 finnes
-- OK   1 estimat-kilde W1569857237 finnes
-- OK   1 estimat-kilde W4254554316 finnes
-- OK   1 estimat-kilde W4229651967 finnes
-- OK   1 estimat-kilde W2991134608 finnes
-- OK   1 estimat-kilde W2991134608 finnes
-- OK   1 estimat-kilde W2991134608 finnes
-- OK   1 estimat-kilde W1501193741 finnes
-- OK   1 estimat-kilde W1501193741 finnes
-- OK   1 estimat-kilde W1501193741 finnes
-- OK   1 estimat-kilde W1732288 finnes
-- OK   1 estimat-kilde W3165059038 finnes
-- OK   1 estimat-kilde W3185498031 finnes
-- OK   1 estimat-kilde W2991134608 finnes
-- OK   1 estimat-kilde W2991134608 finnes
-- OK   1 estimat-kilde R-e4323b5917 finnes
-- OK   1 estimat-kilde R-ca4ebdc6a8 finnes
-- OK   1 estimat-kilde R-ca4ebdc6a8 finnes
-- OK   1 estimat-kilde R-ca4ebdc6a8 finnes
-- OK   1 estimat-kilde R-ca4ebdc6a8 finnes
-- OK   1 estimat-kilde R-5e8ea23282 finnes
-- OK   1 estimat-kilde R-5e8ea23282 finnes
+- OK   1 forfatter «Grønstad» for W4404867325 står i metadata eller på tittelsiden
+- OK   1 forfatter «Vargas-Prada» for W2412604146 står i metadata eller på tittelsiden
+- OK   1 forfatter «Mykletun» for W3098021798 står i metadata eller på tittelsiden
+- OK   1 forfatter «Ellingsen» for W3010213937 står i metadata eller på tittelsiden
+- OK   1 forfatter «Berg» for W3198402854 står i metadata eller på tittelsiden
+- OK   1 forfatter «Rehwald» for W2796572035 står i metadata eller på tittelsiden
 - OK   1 forfatter «Hernæs» for W3121578847 står i metadata eller på tittelsiden
 - OK   1 forfatter «Kann» for AV-2014-3-01 står i metadata eller på tittelsiden
 - OK   1 forfatter «Nossen» for AV-2015-3-04 står i metadata eller på tittelsiden
 - OK   1 forfatter «Lima» for AV-2017-1-04 står i metadata eller på tittelsiden
-- OK   1 forfatter «Brage» for KU-f0bb3e0c-c725-4cbe-a245-b333d1b74da8 står i metadata eller på tittelsiden
-- OK   1 forfatter «Markussen» for W3125553714 står i metadata eller på tittelsiden
-- OK   1 forfatter «Kristoffersen» for AV-2017-1-06 står i metadata eller på tittelsiden
-- OK   1 forfatter «Myhre» for AV-2022-2-04 står i metadata eller på tittelsiden
-- OK   1 forfatter «Alpino» for W4224227694 står i metadata eller på tittelsiden
-- OK   1 forfatter «Mæland» for W4214640429 står i metadata eller på tittelsiden
-- OK   1 forfatter «Fleten» for W2076808106 står i metadata eller på tittelsiden
-- OK   1 forfatter «Rehwald» for W2796572035 står i metadata eller på tittelsiden
-- OK   1 forfatter «Nielsen» for W2087092263 står i metadata eller på tittelsiden
-- OK   1 forfatter «Hannerz» for W4410772602 står i metadata eller på tittelsiden
-- OK   1 forfatter «Hesselius» for W2012190243 står i metadata eller på tittelsiden
-- OK   1 forfatter «Boeri» for W3162733289 står i metadata eller på tittelsiden
-- OK   1 forfatter «Hägglund» for W3170545082 står i metadata eller på tittelsiden
-- OK   1 forfatter «Lidwall» for W2068839152 står i metadata eller på tittelsiden
-- OK   1 forfatter «Metrica» for R-ca4ebdc6a8 står i metadata eller på tittelsiden
-- OK   1 forfatter «Discuso» for R-5e8ea23282 står i metadata eller på tittelsiden
-- OK   1 forfatter «Grønstad» for W4404867325 står i metadata eller på tittelsiden
-- OK   1 forfatter «Becken» for KU-b5503dbe-4b5c-41a1-959b-1e07a266a10e står i metadata eller på tittelsiden
-- OK   1 forfatter «Bakkeli» for 019c24177f74-d0e4c927-93d4-4477-a70a-3ef207a9fbf4 står i metadata eller på tittelsiden
-- FEIL 2 sitat rad 1 (AV-2014-3-01, legemeldt sykefravær, prosentvis reduksj) ble IKKE funnet på oppgitt side
+- OK   1 forfatter «Mattila-Holappa» for W3170959179 står i metadata eller på tittelsiden
+- OK   1 forfatter «Ose» for W4229447182 står i metadata eller på tittelsiden
+- OK   2 sitat rad 1 (AV-2014-3-01, legemeldt sykefravær, prosentvis reduksj) står på oppgitt side
 - OK   3 estimat=8 rad 1 (AV-2014-3-01, legemeldt sykefravær, prosentvis reduksj) står i sitatet
-- FEIL 2 sitat rad 2 (AV-2014-3-01, legemeldt sykefravær, prosentvis reduksj) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 2 (AV-2014-3-01, legemeldt sykefravær, prosentvis reduksj) står på oppgitt side
 - OK   3 estimat=9 rad 2 (AV-2014-3-01, legemeldt sykefravær, prosentvis reduksj) står i sitatet
-- FEIL 2 sitat rad 3 (AV-2014-3-01, andel fullt sykmeldte ved åtte uker som ) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 3 (AV-2014-3-01, andel fullt sykmeldte ved åtte uker som ) står på oppgitt side
 - OK   3 estimat=40 rad 3 (AV-2014-3-01, andel fullt sykmeldte ved åtte uker som ) står i sitatet
-- FEIL 2 sitat rad 4 (AV-2015-3-04, andel med midlertidig stans som endte me) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 4 (AV-2015-3-04, andel med midlertidig stans som endte me) står på oppgitt side
 - OK   3 estimat=2.4 rad 4 (AV-2015-3-04, andel med midlertidig stans som endte me) står i sitatet
-- FEIL 2 sitat rad 5 (AV-2015-3-04, varighet av sykefraværet: om lag like la) ble IKKE funnet på oppgitt side
-- FEIL 2 sitat rad 6 (AV-2015-3-04, andel friskmeldt innen 26 uker etter til) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 5 (AV-2015-3-04, varighet av sykefraværet: om lag like la) står på oppgitt side
+- OK   2 sitat rad 6 (AV-2015-3-04, andel friskmeldt innen 26 uker etter til) står på oppgitt side
 - OK   3 estimat=57 rad 6 (AV-2015-3-04, andel friskmeldt innen 26 uker etter til) står i sitatet
-- FEIL 2 sitat rad 7 (AV-2017-1-04, legemeldt sykefravær, prosentvis nedgang) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 7 (AV-2017-1-04, legemeldt sykefravær, prosentvis nedgang) står på oppgitt side
 - OK   3 estimat=6.0 rad 7 (AV-2017-1-04, legemeldt sykefravær, prosentvis nedgang) står i sitatet
-- FEIL 2 sitat rad 8 (AV-2017-1-04, legemeldt sykefravær, prosentvis nedgang) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 8 (AV-2017-1-04, legemeldt sykefravær, prosentvis nedgang) står på oppgitt side
 - OK   3 estimat=5.1 rad 8 (AV-2017-1-04, legemeldt sykefravær, prosentvis nedgang) står i sitatet
-- FEIL 2 sitat rad 9 (AV-2017-1-04, legemeldt sykefravær, prosentvis økning ) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 9 (AV-2017-1-04, legemeldt sykefravær, prosentvis økning ) står på oppgitt side
 - OK   3 estimat=5.8 rad 9 (AV-2017-1-04, legemeldt sykefravær, prosentvis økning ) står i sitatet
-- FEIL 2 sitat rad 10 (AV-2017-1-04, legemeldt sykefravær, prosentvis nedgang) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 10 (AV-2017-1-04, legemeldt sykefravær, prosentvis nedgang) står på oppgitt side
 - OK   3 estimat=3.8 rad 10 (AV-2017-1-04, legemeldt sykefravær, prosentvis nedgang) står i sitatet
-- FEIL 2 sitat rad 11 (AV-2017-1-04, andel med oppbrukte sykepengerettigheter) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 11 (AV-2017-1-04, andel med oppbrukte sykepengerettigheter) står på oppgitt side
 - OK   3 estimat=11 rad 11 (AV-2017-1-04, andel med oppbrukte sykepengerettigheter) står i sitatet
-- FEIL 2 sitat rad 12 (W3121578847, sykefravær (tapte arbeidstimer), hele pe) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 12 (W3121578847, sykefravær (tapte arbeidstimer), hele pe) står på oppgitt side
 - OK   3 estimat=12 rad 12 (W3121578847, sykefravær (tapte arbeidstimer), hele pe) står i sitatet
-- FEIL 2 sitat rad 13 (W3121578847, endring i sykefraværsprosent, hele perio) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 13 (W3121578847, endring i sykefraværsprosent, hele perio) står på oppgitt side
 - OK   3 estimat=-0.72 rad 13 (W3121578847, endring i sykefraværsprosent, hele perio) står i sitatet
-- FEIL 2 sitat rad 14 (W2796572035, uker i ordinært arbeid første år etter l) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 14 (W2796572035, uker i ordinært arbeid første år etter l) står på oppgitt side
 - OK   3 estimat=-1.390 rad 14 (W2796572035, uker i ordinært arbeid første år etter l) står i sitatet
-- FEIL 2 sitat rad 15 (W2796572035, sykefravær og ledighet (uker): små effek) ble IKKE funnet på oppgitt side
-- FEIL 2 sitat rad 16 (W2412604146, retur til arbeid, metaanalyse av tre ran) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 15 (W2796572035, sykefravær og ledighet (uker): små effek) står på oppgitt side
+- OK   2 sitat rad 16 (W2412604146, retur til arbeid, metaanalyse av tre ran) står på oppgitt side
 - OK   3 estimat=1.3 rad 16 (W2412604146, retur til arbeid, metaanalyse av tre ran) står i sitatet
 - OK   3 ki_lav=0.9 rad 16 (W2412604146, retur til arbeid, metaanalyse av tre ran) står i sitatet
 - OK   3 ki_hoy=1.9 rad 16 (W2412604146, retur til arbeid, metaanalyse av tre ran) står i sitatet
 - OK   4 rad 16 (W2412604146, retur til arbeid, metaanalyse av tre ran) estimat innenfor KI
 - OK   4 rad 16 (W2412604146, retur til arbeid, metaanalyse av tre ran) KI symmetrisk på log-skala (avvik 0.01)
-- FEIL 2 sitat rad 17 (W2412604146, delvis retur til arbeid (enkeltforsøk gj) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 17 (W2412604146, delvis retur til arbeid (enkeltforsøk gj) står på oppgitt side
 - OK   3 estimat=1.0 rad 17 (W2412604146, delvis retur til arbeid (enkeltforsøk gj) står i sitatet
 - OK   3 ki_lav=0.8 rad 17 (W2412604146, delvis retur til arbeid (enkeltforsøk gj) står i sitatet
 - OK   3 ki_hoy=1.3 rad 17 (W2412604146, delvis retur til arbeid (enkeltforsøk gj) står i sitatet
 - OK   4 rad 17 (W2412604146, delvis retur til arbeid (enkeltforsøk gj) estimat innenfor KI
 - OK   4 rad 17 (W2412604146, delvis retur til arbeid (enkeltforsøk gj) KI symmetrisk på log-skala (avvik 0.04)
-- FEIL 2 sitat rad 18 (W4404867325, ingen samlet effektestimat; tre av 35 ar) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 18 (W4404867325, ingen samlet effektestimat; tre av 35 ar) står på oppgitt side
 - OK   3 estimat=3 rad 18 (W4404867325, ingen samlet effektestimat; tre av 35 ar) står i sitatet
-- FEIL 2 sitat rad 19 (W4404867325, retur til arbeid hos samme arbeidsgiver ) ble IKKE funnet på oppgitt side
-- FEIL 2 sitat rad 20 (W3098021798, ingen effektevaluering av oppfølgingspla) ble IKKE funnet på oppgitt side
-- FEIL 2 sitat rad 21 (W3010213937, ingen entydige effektestimater; 12 studi) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 19 (W4404867325, retur til arbeid hos samme arbeidsgiver ) står på oppgitt side
+- OK   2 sitat rad 20 (W3098021798, ingen effektevaluering av oppfølgingspla) står på oppgitt side
+- OK   2 sitat rad 21 (W3010213937, ingen entydige effektestimater; 12 studi) står på oppgitt side
 - OK   3 estimat=12 rad 21 (W3010213937, ingen entydige effektestimater; 12 studi) står i sitatet
-- FEIL 2 sitat rad 22 (W3198402854, ingen effektestimat; forskningskart uten) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 22 (W3198402854, ingen effektestimat; forskningskart uten) står på oppgitt side
 - OK   3 estimat=8 rad 22 (W3198402854, ingen effektestimat; forskningskart uten) står i sitatet
-- FEIL 2 sitat rad 23 (W3170959179, sykefraværsdager etter vs. før, by A med) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 23 (W3170959179, sykefraværsdager etter vs. før, by A med) står på oppgitt side
 - OK   3 estimat=1.14 rad 23 (W3170959179, sykefraværsdager etter vs. før, by A med) står i sitatet
 - OK   3 ki_lav=1.09 rad 23 (W3170959179, sykefraværsdager etter vs. før, by A med) står i sitatet
 - OK   3 ki_hoy=1.21 rad 23 (W3170959179, sykefraværsdager etter vs. før, by A med) står i sitatet
 - OK   4 rad 23 (W3170959179, sykefraværsdager etter vs. før, by A med) estimat innenfor KI
 - OK   4 rad 23 (W3170959179, sykefraværsdager etter vs. før, by A med) KI symmetrisk på log-skala (avvik 0.01)
-- FEIL 2 sitat rad 24 (W3170959179, sykefraværsdager etter vs. før, kontroll) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 24 (W3170959179, sykefraværsdager etter vs. før, kontroll) står på oppgitt side
 - OK   3 estimat=1.19 rad 24 (W3170959179, sykefraværsdager etter vs. før, kontroll) står i sitatet
 - OK   3 ki_lav=1.14 rad 24 (W3170959179, sykefraværsdager etter vs. før, kontroll) står i sitatet
 - OK   3 ki_hoy=1.24 rad 24 (W3170959179, sykefraværsdager etter vs. før, kontroll) står i sitatet
 - OK   4 rad 24 (W3170959179, sykefraværsdager etter vs. før, kontroll) estimat innenfor KI
 - OK   4 rad 24 (W3170959179, sykefraværsdager etter vs. før, kontroll) KI symmetrisk på log-skala (avvik 0.00)
-- FEIL 2 sitat rad 25 (W4229447182, oppfølgingsregimer for sykmeldte; ingen ) ble IKKE funnet på oppgitt side
-- FEIL 2 sitat rad 26 (W4404867325, antall artikler i oversikten) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 25 (W4229447182, oppfølgingsregimer for sykmeldte; ingen ) står på oppgitt side
+- OK   2 sitat rad 26 (W4404867325, antall artikler i oversikten) står på oppgitt side
 - OK   3 estimat=35 rad 26 (W4404867325, antall artikler i oversikten) står i sitatet
-- FEIL 2 sitat rad 27 (W3198402854, antall publikasjoner i forskningskartet) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 27 (W3198402854, antall publikasjoner i forskningskartet) står på oppgitt side
 - OK   3 estimat=109 rad 27 (W3198402854, antall publikasjoner i forskningskartet) står i sitatet
-- FEIL 2 sitat rad 28 (W2056867380, andel i arbeid ved slutten av oppfølging) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 28 (W2056867380, andel i arbeid ved slutten av oppfølging) står på oppgitt side
 - OK   3 estimat=1.08 rad 28 (W2056867380, andel i arbeid ved slutten av oppfølging) står i sitatet
 - OK   3 ki_lav=1.03 rad 28 (W2056867380, andel i arbeid ved slutten av oppfølging) står i sitatet
 - OK   3 ki_hoy=1.13 rad 28 (W2056867380, andel i arbeid ved slutten av oppfølging) står i sitatet
 - OK   4 rad 28 (W2056867380, andel i arbeid ved slutten av oppfølging) estimat innenfor KI
 - OK   4 rad 28 (W2056867380, andel i arbeid ved slutten av oppfølging) KI symmetrisk på log-skala (avvik 0.00)
-- FEIL 2 sitat rad 29 (W2056867380, samlede sykefraværsdager per år, reduksj) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 29 (W2056867380, samlede sykefraværsdager per år, reduksj) står på oppgitt side
 - OK   3 estimat=36 rad 29 (W2056867380, samlede sykefraværsdager per år, reduksj) står i sitatet
 - OK   3 ki_lav=17 rad 29 (W2056867380, samlede sykefraværsdager per år, reduksj) står i sitatet
 - OK   3 ki_hoy=56 rad 29 (W2056867380, samlede sykefraværsdager per år, reduksj) står i sitatet
 - OK   4 rad 29 (W2056867380, samlede sykefraværsdager per år, reduksj) estimat innenfor KI
-- FEIL 2 sitat rad 30 (W4294879451, retur til arbeid etter 12 måneder (metaa) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 30 (W4294879451, retur til arbeid etter 12 måneder (metaa) står på oppgitt side
 - OK   3 estimat=1.01 rad 30 (W4294879451, retur til arbeid etter 12 måneder (metaa) står i sitatet
 - OK   3 ki_lav=0.70 rad 30 (W4294879451, retur til arbeid etter 12 måneder (metaa) står i sitatet
 - OK   3 ki_hoy=1.48 rad 30 (W4294879451, retur til arbeid etter 12 måneder (metaa) står i sitatet
 - OK   4 rad 30 (W4294879451, retur til arbeid etter 12 måneder (metaa) estimat innenfor KI
 - OK   4 rad 30 (W4294879451, retur til arbeid etter 12 måneder (metaa) KI symmetrisk på log-skala (avvik 0.02)
-- FEIL 2 sitat rad 31 (W4294879451, sykefraværsdager etter 12 måneder, 130 d) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 31 (W4294879451, sykefraværsdager etter 12 måneder, 130 d) står på oppgitt side
 - OK   3 estimat=130 rad 31 (W4294879451, sykefraværsdager etter 12 måneder, 130 d) står i sitatet
-- FEIL 2 sitat rad 32 (W4294879451, tid til første retur til arbeid (én stud) ble IKKE funnet på oppgitt side
+- OK   2 sitat rad 32 (W4294879451, tid til første retur til arbeid (én stud) står på oppgitt side
 - OK   3 estimat=1.39 rad 32 (W4294879451, tid til første retur til arbeid (én stud) står i sitatet
 - OK   3 ki_lav=1.03 rad 32 (W4294879451, tid til første retur til arbeid (én stud) står i sitatet
 - OK   3 ki_hoy=1.87 rad 32 (W4294879451, tid til første retur til arbeid (én stud) står i sitatet
 - OK   4 rad 32 (W4294879451, tid til første retur til arbeid (én stud) estimat innenfor KI
 - OK   4 rad 32 (W4294879451, tid til første retur til arbeid (én stud) KI symmetrisk på log-skala (avvik 0.00)
 - OK   2 sitat rad 33 (W2799985133, ingen effektestimat: dataene egnet seg i) står på oppgitt side
-- FEIL 2 sitat rad 34 (W2077733934, ingen effektestimat: narrativ syntese av) ble IKKE funnet på oppgitt side
-- FEIL 2 sitat rad 35 (W4229439392, antall av 47 inkluderte studier som rapp) ble IKKE funnet på oppgitt side
-- OK   3 estimat=25 rad 35 (W4229439392, antall av 47 inkluderte studier som rapp) står i sitatet
-- FEIL 2 sitat rad 36 (019904aa7986-0e4c2361-eb33-4871-9ab3-47b965597085, ingen effektestimat: kunnskapsoppsummeri) ble IKKE funnet på oppgitt side
-- FEIL 2 sitat rad 38 (019c24177f74-d0e4c927-93d4-4477-a70a-3ef207a9fbf4, ingen effektestimat: rask oppsummering a) ble IKKE funnet på oppgitt side
-- FEIL 2 sitat rad 39 (W2590965493, ingen effektestimat: evidenssyntese uten) ble IKKE funnet på oppgitt side
-- FEIL 2 sitat rad 40 (W2127823072, antall tiltak som reduserte sykefraværet) ble IKKE funnet på oppgitt side
-- OK   3 estimat=5 rad 40 (W2127823072, antall tiltak som reduserte sykefraværet) står i sitatet
-- OK   2 sitat rad 41 (W2094662502, ingen effektestimat i sammendraget; å in) står på oppgitt side
-- OK   2 sitat rad 42 (W4410104943, ingen effektestimat i sammendraget (75 R) står på oppgitt side
-- OK   2 sitat rad 43 (W2810119800, retur til arbeid, samlet effektstørrelse) står på oppgitt side
-- OK   3 estimat=0.14 rad 43 (W2810119800, retur til arbeid, samlet effektstørrelse) står i sitatet
-- OK   3 ki_lav=0.07 rad 43 (W2810119800, retur til arbeid, samlet effektstørrelse) står i sitatet
-- OK   3 ki_hoy=0.22 rad 43 (W2810119800, retur til arbeid, samlet effektstørrelse) står i sitatet
-- OK   4 rad 43 (W2810119800, retur til arbeid, samlet effektstørrelse) estimat innenfor KI
-- FEIL 2 sitat rad 44 (W4396667274, arbeid eller arbeidet tid, økning i pros) ble IKKE funnet på oppgitt side
-- OK   3 estimat=6.2 rad 44 (W4396667274, arbeid eller arbeidet tid, økning i pros) står i sitatet
-- FEIL 2 sitat rad 45 (W4396667274, inngang eller retur til arbeid, psykiske) ble IKKE funnet på oppgitt side
-- OK   3 estimat=1.15 rad 45 (W4396667274, inngang eller retur til arbeid, psykiske) står i sitatet
-- OK   3 ki_lav=0.61 rad 45 (W4396667274, inngang eller retur til arbeid, psykiske) står i sitatet
-- OK   3 ki_hoy=2.16 rad 45 (W4396667274, inngang eller retur til arbeid, psykiske) står i sitatet
-- OK   4 rad 45 (W4396667274, inngang eller retur til arbeid, psykiske) estimat innenfor KI
-- OK   4 rad 45 (W4396667274, inngang eller retur til arbeid, psykiske) KI symmetrisk på log-skala (avvik 0.00)
-- FEIL 2 sitat rad 46 (W4396667274, inngang eller retur til arbeid, psykiske) ble IKKE funnet på oppgitt side
-- OK   3 estimat=0.96 rad 46 (W4396667274, inngang eller retur til arbeid, psykiske) står i sitatet
-- OK   3 ki_lav=0.71 rad 46 (W4396667274, inngang eller retur til arbeid, psykiske) står i sitatet
-- OK   3 ki_hoy=1.29 rad 46 (W4396667274, inngang eller retur til arbeid, psykiske) står i sitatet
-- OK   4 rad 46 (W4396667274, inngang eller retur til arbeid, psykiske) estimat innenfor KI
-- OK   4 rad 46 (W4396667274, inngang eller retur til arbeid, psykiske) KI symmetrisk på log-skala (avvik 0.01)
-- FEIL 2 sitat rad 47 (W2907932932, ingen effektestimat: narrativ oversikt () ble IKKE funnet på oppgitt side
-- FEIL 2 sitat rad 48 (W2181455115, ingen effektestimat: metaoversikt (20 ov) ble IKKE funnet på oppgitt side
-- FEIL 2 sitat rad 49 (0198cc685187-e4b11562-1a40-4075-bb09-8d68011d9a16, sykmeldingsdager per måned over 6 år, fæ) ble IKKE funnet på oppgitt side
-- OK   3 estimat=5.7 rad 49 (0198cc685187-e4b11562-1a40-4075-bb09-8d68011d9a16, sykmeldingsdager per måned over 6 år, fæ) står i sitatet
-- FEIL 2 sitat rad 50 (0198cc685187-e4b11562-1a40-4075-bb09-8d68011d9a16, gjennomsnittlig sykmeldingslengde ved 12) ble IKKE funnet på oppgitt side
-- OK   3 estimat=97 rad 50 (0198cc685187-e4b11562-1a40-4075-bb09-8d68011d9a16, gjennomsnittlig sykmeldingslengde ved 12) står i sitatet
-- FEIL 2 sitat rad 51 (0198cc685187-e4b11562-1a40-4075-bb09-8d68011d9a16, retur til arbeid, korsryggsmerter; gjeng) ble IKKE funnet på oppgitt side
-- OK   3 estimat=1.47 rad 51 (0198cc685187-e4b11562-1a40-4075-bb09-8d68011d9a16, retur til arbeid, korsryggsmerter; gjeng) står i sitatet
-- OK   3 ki_lav=1.25 rad 51 (0198cc685187-e4b11562-1a40-4075-bb09-8d68011d9a16, retur til arbeid, korsryggsmerter; gjeng) står i sitatet
-- OK   3 ki_hoy=1.72 rad 51 (0198cc685187-e4b11562-1a40-4075-bb09-8d68011d9a16, retur til arbeid, korsryggsmerter; gjeng) står i sitatet
-- OK   4 rad 51 (0198cc685187-e4b11562-1a40-4075-bb09-8d68011d9a16, retur til arbeid, korsryggsmerter; gjeng) estimat innenfor KI
-- OK   4 rad 51 (0198cc685187-e4b11562-1a40-4075-bb09-8d68011d9a16, retur til arbeid, korsryggsmerter; gjeng) KI symmetrisk på log-skala (avvik 0.01)
-- FEIL 2 sitat rad 52 (0198cc685187-e4b11562-1a40-4075-bb09-8d68011d9a16, andel returnert til arbeid etter seks må) ble IKKE funnet på oppgitt side
-- OK   3 estimat=39.1 rad 52 (0198cc685187-e4b11562-1a40-4075-bb09-8d68011d9a16, andel returnert til arbeid etter seks må) står i sitatet
-- OK   2 sitat rad 53 (W1926837556, tid til første retur til arbeid (14 RCT-) står på oppgitt side
-- OK   3 estimat=1.55 rad 53 (W1926837556, tid til første retur til arbeid (14 RCT-) står i sitatet
-- OK   3 ki_lav=1.20 rad 53 (W1926837556, tid til første retur til arbeid (14 RCT-) står i sitatet
-- OK   3 ki_hoy=2.01 rad 53 (W1926837556, tid til første retur til arbeid (14 RCT-) står i sitatet
-- OK   4 rad 53 (W1926837556, tid til første retur til arbeid (14 RCT-) estimat innenfor KI
-- OK   4 rad 53 (W1926837556, tid til første retur til arbeid (14 RCT-) KI symmetrisk på log-skala (avvik 0.00)
-- OK   2 sitat rad 54 (W1926837556, tid til varig retur til arbeid (svært la) står på oppgitt side
-- OK   3 estimat=1.07 rad 54 (W1926837556, tid til varig retur til arbeid (svært la) står i sitatet
-- OK   3 ki_lav=0.72 rad 54 (W1926837556, tid til varig retur til arbeid (svært la) står i sitatet
-- OK   3 ki_hoy=1.57 rad 54 (W1926837556, tid til varig retur til arbeid (svært la) står i sitatet
-- OK   4 rad 54 (W1926837556, tid til varig retur til arbeid (svært la) estimat innenfor KI
-- OK   4 rad 54 (W1926837556, tid til varig retur til arbeid (svært la) KI symmetrisk på log-skala (avvik 0.01)
-- OK   2 sitat rad 55 (W1926837556, samlet varighet av sykefraværet, gjennom) står på oppgitt side
-- OK   3 estimat=-33.33 rad 55 (W1926837556, samlet varighet av sykefraværet, gjennom) står i sitatet
-- OK   3 ki_lav=-49.54 rad 55 (W1926837556, samlet varighet av sykefraværet, gjennom) står i sitatet
-- OK   3 ki_hoy=-17.12 rad 55 (W1926837556, samlet varighet av sykefraværet, gjennom) står i sitatet
-- OK   4 rad 55 (W1926837556, samlet varighet av sykefraværet, gjennom) estimat innenfor KI
-- OK   2 sitat rad 56 (W1926837556, tilbakefall av sykefravær (én studie, fa) står på oppgitt side
-- OK   3 estimat=0.42 rad 56 (W1926837556, tilbakefall av sykefravær (én studie, fa) står i sitatet
-- OK   3 ki_lav=0.21 rad 56 (W1926837556, tilbakefall av sykefravær (én studie, fa) står i sitatet
-- OK   3 ki_hoy=0.82 rad 56 (W1926837556, tilbakefall av sykefravær (én studie, fa) står i sitatet
-- OK   4 rad 56 (W1926837556, tilbakefall av sykefravær (én studie, fa) estimat innenfor KI
-- OK   4 rad 56 (W1926837556, tilbakefall av sykefravær (én studie, fa) KI symmetrisk på log-skala (avvik 0.02)
-- OK   2 sitat rad 57 (W1926837556, psykiske lidelser: tid til første retur ) står på oppgitt side
-- OK   3 estimat=2.64 rad 57 (W1926837556, psykiske lidelser: tid til første retur ) står i sitatet
-- OK   3 ki_lav=1.41 rad 57 (W1926837556, psykiske lidelser: tid til første retur ) står i sitatet
-- OK   3 ki_hoy=4.95 rad 57 (W1926837556, psykiske lidelser: tid til første retur ) står i sitatet
-- OK   4 rad 57 (W1926837556, psykiske lidelser: tid til første retur ) estimat innenfor KI
-- OK   4 rad 57 (W1926837556, psykiske lidelser: tid til første retur ) KI symmetrisk på log-skala (avvik 0.00)
-- OK   2 sitat rad 58 (W1606668257, tid til retur til arbeid, 6 måneders opp) står på oppgitt side
-- OK   3 estimat=1.32 rad 58 (W1606668257, tid til retur til arbeid, 6 måneders opp) står i sitatet
-- OK   3 ki_lav=0.93 rad 58 (W1606668257, tid til retur til arbeid, 6 måneders opp) står i sitatet
-- OK   3 ki_hoy=1.88 rad 58 (W1606668257, tid til retur til arbeid, 6 måneders opp) står i sitatet
-- OK   4 rad 58 (W1606668257, tid til retur til arbeid, 6 måneders opp) estimat innenfor KI
-- OK   4 rad 58 (W1606668257, tid til retur til arbeid, 6 måneders opp) KI symmetrisk på log-skala (avvik 0.00)
-- OK   2 sitat rad 59 (W1606668257, tid til retur til arbeid, 12 måneders op) står på oppgitt side
-- OK   3 estimat=1.25 rad 59 (W1606668257, tid til retur til arbeid, 12 måneders op) står i sitatet
-- OK   3 ki_lav=0.95 rad 59 (W1606668257, tid til retur til arbeid, 12 måneders op) står i sitatet
-- OK   3 ki_hoy=1.66 rad 59 (W1606668257, tid til retur til arbeid, 12 måneders op) står i sitatet
-- OK   4 rad 59 (W1606668257, tid til retur til arbeid, 12 måneders op) estimat innenfor KI
-- OK   4 rad 59 (W1606668257, tid til retur til arbeid, 12 måneders op) KI symmetrisk på log-skala (avvik 0.01)
-- OK   2 sitat rad 60 (W1606668257, samlet sykefravær, arbeidsdager per år, ) står på oppgitt side
-- OK   3 estimat=-14.84 rad 60 (W1606668257, samlet sykefravær, arbeidsdager per år, ) står i sitatet
-- OK   3 ki_lav=-38.56 rad 60 (W1606668257, samlet sykefravær, arbeidsdager per år, ) står i sitatet
-- OK   3 ki_hoy=8.88 rad 60 (W1606668257, samlet sykefravær, arbeidsdager per år, ) står i sitatet
-- OK   4 rad 60 (W1606668257, samlet sykefravær, arbeidsdager per år, ) estimat innenfor KI
-- OK   2 sitat rad 61 (W1606668257, tid til retur til arbeid, oppfølging ove) står på oppgitt side
-- OK   3 estimat=0.93 rad 61 (W1606668257, tid til retur til arbeid, oppfølging ove) står i sitatet
-- OK   3 ki_lav=0.74 rad 61 (W1606668257, tid til retur til arbeid, oppfølging ove) står i sitatet
-- OK   3 ki_hoy=1.17 rad 61 (W1606668257, tid til retur til arbeid, oppfølging ove) står i sitatet
-- OK   4 rad 61 (W1606668257, tid til retur til arbeid, oppfølging ove) estimat innenfor KI
-- OK   4 rad 61 (W1606668257, tid til retur til arbeid, oppfølging ove) KI symmetrisk på log-skala (avvik 0.00)
-- OK   2 sitat rad 62 (W2328015438, tid til retur til arbeid, samlet fra 5 s) står på oppgitt side
-- OK   3 estimat=1.69 rad 62 (W2328015438, tid til retur til arbeid, samlet fra 5 s) står i sitatet
-- OK   3 ki_lav=1.38 rad 62 (W2328015438, tid til retur til arbeid, samlet fra 5 s) står i sitatet
-- OK   3 ki_hoy=2.07 rad 62 (W2328015438, tid til retur til arbeid, samlet fra 5 s) står i sitatet
-- OK   4 rad 62 (W2328015438, tid til retur til arbeid, samlet fra 5 s) estimat innenfor KI
-- OK   4 rad 62 (W2328015438, tid til retur til arbeid, samlet fra 5 s) KI symmetrisk på log-skala (avvik 0.00)
-- OK   2 sitat rad 63 (W2328015438, kortere samlet sykefravær etter 12 måned) står på oppgitt side
-- OK   3 estimat=42 rad 63 (W2328015438, kortere samlet sykefravær etter 12 måned) står i sitatet
-- OK   3 ki_lav=6 rad 63 (W2328015438, kortere samlet sykefravær etter 12 måned) står i sitatet
-- OK   3 ki_hoy=79 rad 63 (W2328015438, kortere samlet sykefravær etter 12 måned) står i sitatet
-- OK   4 rad 63 (W2328015438, kortere samlet sykefravær etter 12 måned) estimat innenfor KI
-- OK   2 sitat rad 64 (W1503015117, ingen effektestimat i sammendraget; viss) står på oppgitt side
-- OK   2 sitat rad 65 (W2518291518, vanlige psykiske lidelser: andel tilbake) står på oppgitt side
-- OK   3 estimat=1.05 rad 65 (W2518291518, vanlige psykiske lidelser: andel tilbake) står i sitatet
-- OK   3 ki_lav=0.97 rad 65 (W2518291518, vanlige psykiske lidelser: andel tilbake) står i sitatet
-- OK   3 ki_hoy=1.12 rad 65 (W2518291518, vanlige psykiske lidelser: andel tilbake) står i sitatet
-- OK   4 rad 65 (W2518291518, vanlige psykiske lidelser: andel tilbake) estimat innenfor KI
-- OK   4 rad 65 (W2518291518, vanlige psykiske lidelser: andel tilbake) KI symmetrisk på log-skala (avvik 0.01)
-- OK   2 sitat rad 66 (W2518291518, vanlige psykiske lidelser: sykefraværsda) står på oppgitt side
-- OK   3 estimat=-13.38 rad 66 (W2518291518, vanlige psykiske lidelser: sykefraværsda) står i sitatet
-- OK   3 ki_lav=-24.07 rad 66 (W2518291518, vanlige psykiske lidelser: sykefraværsda) står i sitatet
-- OK   3 ki_hoy=-2.69 rad 66 (W2518291518, vanlige psykiske lidelser: sykefraværsda) står i sitatet
-- OK   4 rad 66 (W2518291518, vanlige psykiske lidelser: sykefraværsda) estimat innenfor KI
-- FEIL 2 sitat rad 67 (W4399422307, langtidssykmeldte (over 90 dager): antal) ble IKKE funnet på oppgitt side
-- OK   3 estimat=10 rad 67 (W4399422307, langtidssykmeldte (over 90 dager): antal) står i sitatet
-- FEIL 2 sitat rad 68 (W3125553714, dager kortere tid til full retur til arb) ble IKKE funnet på oppgitt side
-- OK   3 estimat=10 rad 68 (W3125553714, dager kortere tid til full retur til arb) står i sitatet
-- FEIL 2 sitat rad 69 (W3125553714, dager kortere tid til delvis eller full ) ble IKKE funnet på oppgitt side
-- OK   3 estimat=20 rad 69 (W3125553714, dager kortere tid til delvis eller full ) står i sitatet
-- FEIL 2 sitat rad 70 (W3125553714, lavere sannsynlighet for midlertidig ufø) ble IKKE funnet på oppgitt side
-- OK   3 estimat=2.3 rad 70 (W3125553714, lavere sannsynlighet for midlertidig ufø) står i sitatet
-- FEIL 2 sitat rad 71 (W4386199890, tid til varig retur til arbeid, 12 måned) ble IKKE funnet på oppgitt side
-- OK   3 estimat=1.12 rad 71 (W4386199890, tid til varig retur til arbeid, 12 måned) står i sitatet
-- OK   3 ki_lav=0.90 rad 71 (W4386199890, tid til varig retur til arbeid, 12 måned) står i sitatet
-- OK   3 ki_hoy=1.40 rad 71 (W4386199890, tid til varig retur til arbeid, 12 måned) står i sitatet
-- OK   4 rad 71 (W4386199890, tid til varig retur til arbeid, 12 måned) estimat innenfor KI
-- OK   4 rad 71 (W4386199890, tid til varig retur til arbeid, 12 måned) KI symmetrisk på log-skala (avvik 0.00)
-- FEIL 2 sitat rad 72 (W4386199890, tid til varig retur til arbeid, 12 måned) ble IKKE funnet på oppgitt side
-- OK   3 estimat=1.16 rad 72 (W4386199890, tid til varig retur til arbeid, 12 måned) står i sitatet
-- OK   3 ki_lav=0.93 rad 72 (W4386199890, tid til varig retur til arbeid, 12 måned) står i sitatet
-- OK   3 ki_hoy=1.44 rad 72 (W4386199890, tid til varig retur til arbeid, 12 måned) står i sitatet
-- OK   4 rad 72 (W4386199890, tid til varig retur til arbeid, 12 måned) estimat innenfor KI
-- OK   4 rad 72 (W4386199890, tid til varig retur til arbeid, 12 måned) KI symmetrisk på log-skala (avvik 0.00)
-- FEIL 2 sitat rad 73 (W4386199890, median sykefraværsdager (IQR 31–147) mot) ble IKKE funnet på oppgitt side
-- OK   3 estimat=73 rad 73 (W4386199890, median sykefraværsdager (IQR 31–147) mot) står i sitatet
-- FEIL 2 sitat rad 74 (W4310336140, muskel- og skjelettlidelser: færre sykef) ble IKKE funnet på oppgitt side
-- OK   3 estimat=7 rad 74 (W4310336140, muskel- og skjelettlidelser: færre sykef) står i sitatet
-- FEIL 2 sitat rad 75 (W4310336140, muskel- og skjelettlidelser: færre sykef) ble IKKE funnet på oppgitt side
-- OK   3 estimat=7 rad 75 (W4310336140, muskel- og skjelettlidelser: færre sykef) står i sitatet
-- FEIL 2 sitat rad 76 (W4414083791, muskel- og skjelettlidelser: sykefraværs) ble IKKE funnet på oppgitt side
-- OK   3 estimat=-15.6 rad 76 (W4414083791, muskel- og skjelettlidelser: sykefraværs) står i sitatet
-- OK   3 ki_lav=-31.0 rad 76 (W4414083791, muskel- og skjelettlidelser: sykefraværs) står i sitatet
-- OK   3 ki_hoy=-0.2 rad 76 (W4414083791, muskel- og skjelettlidelser: sykefraværs) står i sitatet
-- OK   4 rad 76 (W4414083791, muskel- og skjelettlidelser: sykefraværs) estimat innenfor KI
-- FEIL 2 sitat rad 77 (W4414083791, muskel- og skjelettlidelser: sykefraværs) ble IKKE funnet på oppgitt side
-- OK   3 estimat=-17.6 rad 77 (W4414083791, muskel- og skjelettlidelser: sykefraværs) står i sitatet
-- OK   3 ki_lav=-33.0 rad 77 (W4414083791, muskel- og skjelettlidelser: sykefraværs) står i sitatet
-- OK   3 ki_hoy=-2.2 rad 77 (W4414083791, muskel- og skjelettlidelser: sykefraværs) står i sitatet
-- OK   4 rad 77 (W4414083791, muskel- og skjelettlidelser: sykefraværs) estimat innenfor KI
-- FEIL 2 sitat rad 78 (W4414083791, muskel- og skjelettlidelser: odds for å ) ble IKKE funnet på oppgitt side
-- OK   3 estimat=0.73 rad 78 (W4414083791, muskel- og skjelettlidelser: odds for å ) står i sitatet
-- OK   3 ki_lav=0.64 rad 78 (W4414083791, muskel- og skjelettlidelser: odds for å ) står i sitatet
-- OK   3 ki_hoy=0.84 rad 78 (W4414083791, muskel- og skjelettlidelser: odds for å ) står i sitatet
-- OK   4 rad 78 (W4414083791, muskel- og skjelettlidelser: odds for å ) estimat innenfor KI
-- OK   4 rad 78 (W4414083791, muskel- og skjelettlidelser: odds for å ) KI symmetrisk på log-skala (avvik 0.01)
-- FEIL 2 sitat rad 79 (W4414083791, muskel- og skjelettlidelser: odds for å ) ble IKKE funnet på oppgitt side
-- OK   3 estimat=0.74 rad 79 (W4414083791, muskel- og skjelettlidelser: odds for å ) står i sitatet
-- OK   3 ki_lav=0.64 rad 79 (W4414083791, muskel- og skjelettlidelser: odds for å ) står i sitatet
-- OK   3 ki_hoy=0.84 rad 79 (W4414083791, muskel- og skjelettlidelser: odds for å ) står i sitatet
-- OK   4 rad 79 (W4414083791, muskel- og skjelettlidelser: odds for å ) estimat innenfor KI
-- OK   4 rad 79 (W4414083791, muskel- og skjelettlidelser: odds for å ) KI symmetrisk på log-skala (avvik 0.02)
-- FEIL 2 sitat rad 80 (W4214640429, sykmeldt i 6 måneder: sykefraværsdager e) ble IKKE funnet på oppgitt side
-- OK   3 estimat=-1.381 rad 80 (W4214640429, sykmeldt i 6 måneder: sykefraværsdager e) står i sitatet
-- FEIL 2 sitat rad 81 (W2027242222, kommune 2: rate for retur fra langvarig ) ble IKKE funnet på oppgitt side
-- OK   3 estimat=1.51 rad 81 (W2027242222, kommune 2: rate for retur fra langvarig ) står i sitatet
-- OK   3 ki_lav=1.31 rad 81 (W2027242222, kommune 2: rate for retur fra langvarig ) står i sitatet
-- OK   3 ki_hoy=1.74 rad 81 (W2027242222, kommune 2: rate for retur fra langvarig ) står i sitatet
-- OK   4 rad 81 (W2027242222, kommune 2: rate for retur fra langvarig ) estimat innenfor KI
-- OK   4 rad 81 (W2027242222, kommune 2: rate for retur fra langvarig ) KI symmetrisk på log-skala (avvik 0.00)
-- FEIL 2 sitat rad 82 (W2027242222, kommune 1: rate for retur fra langvarig ) ble IKKE funnet på oppgitt side
-- OK   3 estimat=1.12 rad 82 (W2027242222, kommune 1: rate for retur fra langvarig ) står i sitatet
-- OK   3 ki_lav=0.97 rad 82 (W2027242222, kommune 1: rate for retur fra langvarig ) står i sitatet
-- OK   3 ki_hoy=1.29 rad 82 (W2027242222, kommune 1: rate for retur fra langvarig ) står i sitatet
-- OK   4 rad 82 (W2027242222, kommune 1: rate for retur fra langvarig ) estimat innenfor KI
-- OK   4 rad 82 (W2027242222, kommune 1: rate for retur fra langvarig ) KI symmetrisk på log-skala (avvik 0.00)
-- FEIL 2 sitat rad 83 (W2027242222, kommune 3: rate for retur fra langvarig ) ble IKKE funnet på oppgitt side
-- OK   3 estimat=0.80 rad 83 (W2027242222, kommune 3: rate for retur fra langvarig ) står i sitatet
-- OK   3 ki_lav=0.63 rad 83 (W2027242222, kommune 3: rate for retur fra langvarig ) står i sitatet
-- OK   3 ki_hoy=1.03 rad 83 (W2027242222, kommune 3: rate for retur fra langvarig ) står i sitatet
-- OK   4 rad 83 (W2027242222, kommune 3: rate for retur fra langvarig ) estimat innenfor KI
-- OK   4 rad 83 (W2027242222, kommune 3: rate for retur fra langvarig ) KI symmetrisk på log-skala (avvik 0.01)
-- FEIL 2 sitat rad 84 (W2599512444, muskel- og skjelettsmerter: retur til ar) ble IKKE funnet på oppgitt side
-- OK   3 estimat=1.29 rad 84 (W2599512444, muskel- og skjelettsmerter: retur til ar) står i sitatet
-- OK   3 ki_lav=1.03 rad 84 (W2599512444, muskel- og skjelettsmerter: retur til ar) står i sitatet
-- OK   3 ki_hoy=1.61 rad 84 (W2599512444, muskel- og skjelettsmerter: retur til ar) står i sitatet
-- OK   4 rad 84 (W2599512444, muskel- og skjelettsmerter: retur til ar) estimat innenfor KI
-- OK   4 rad 84 (W2599512444, muskel- og skjelettsmerter: retur til ar) KI symmetrisk på log-skala (avvik 0.00)
-- FEIL 2 sitat rad 85 (W2599512444, muskel- og skjelettsmerter: retur til ar) ble IKKE funnet på oppgitt side
-- OK   3 estimat=0.92 rad 85 (W2599512444, muskel- og skjelettsmerter: retur til ar) står i sitatet
-- OK   3 ki_lav=0.69 rad 85 (W2599512444, muskel- og skjelettsmerter: retur til ar) står i sitatet
-- OK   3 ki_hoy=1.24 rad 85 (W2599512444, muskel- og skjelettsmerter: retur til ar) står i sitatet
-- OK   4 rad 85 (W2599512444, muskel- og skjelettsmerter: retur til ar) estimat innenfor KI
-- OK   4 rad 85 (W2599512444, muskel- og skjelettsmerter: retur til ar) KI symmetrisk på log-skala (avvik 0.01)
-- FEIL 2 sitat rad 86 (W4410772602, mottak av helserelaterte ytelser etter 5) ble IKKE funnet på oppgitt side
-- OK   3 estimat=0.98 rad 86 (W4410772602, mottak av helserelaterte ytelser etter 5) står i sitatet
-- OK   3 ki_lav=0.85 rad 86 (W4410772602, mottak av helserelaterte ytelser etter 5) står i sitatet
-- OK   3 ki_hoy=1.14 rad 86 (W4410772602, mottak av helserelaterte ytelser etter 5) står i sitatet
-- OK   4 rad 86 (W4410772602, mottak av helserelaterte ytelser etter 5) estimat innenfor KI
-- OK   4 rad 86 (W4410772602, mottak av helserelaterte ytelser etter 5) KI symmetrisk på log-skala (avvik 0.01)
-- FEIL 2 sitat rad 87 (W4410772602, mottak av ikke-helserelaterte ytelser (l) ble IKKE funnet på oppgitt side
-- OK   3 estimat=0.81 rad 87 (W4410772602, mottak av ikke-helserelaterte ytelser (l) står i sitatet
-- OK   3 ki_lav=0.69 rad 87 (W4410772602, mottak av ikke-helserelaterte ytelser (l) står i sitatet
-- OK   3 ki_hoy=0.96 rad 87 (W4410772602, mottak av ikke-helserelaterte ytelser (l) står i sitatet
-- OK   4 rad 87 (W4410772602, mottak av ikke-helserelaterte ytelser (l) estimat innenfor KI
-- OK   4 rad 87 (W4410772602, mottak av ikke-helserelaterte ytelser (l) KI symmetrisk på log-skala (avvik 0.01)
-- FEIL 2 sitat rad 88 (W2395813727, ingen effektestimat; prosessevaluering a) ble IKKE funnet på oppgitt side
-- FEIL 2 sitat rad 89 (W2129322795, andel tilbake i arbeid etter 12 måneder ) ble IKKE funnet på oppgitt side
-- OK   3 estimat=78 rad 89 (W2129322795, andel tilbake i arbeid etter 12 måneder ) står i sitatet
-- FEIL 2 sitat rad 90 (W2129322795, andel tilbake i arbeid etter 6 måneder () ble IKKE funnet på oppgitt side
-- OK   3 estimat=69 rad 90 (W2129322795, andel tilbake i arbeid etter 6 måneder () står i sitatet
-- FEIL 2 sitat rad 91 (W4386883739, forskjell i median netto sykefraværsdage) ble IKKE funnet på oppgitt side
-- OK   3 estimat=43 rad 91 (W4386883739, forskjell i median netto sykefraværsdage) står i sitatet
-- FEIL 2 sitat rad 92 (W4386883739, forskjell i median netto sykefraværsdage) ble IKKE funnet på oppgitt side
-- OK   3 estimat=77 rad 92 (W4386883739, forskjell i median netto sykefraværsdage) står i sitatet
-- FEIL 2 sitat rad 93 (W4393358110, netto sykefraværsdager over 12 måneder, ) ble IKKE funnet på oppgitt side
-- OK   3 estimat=110.7 rad 93 (W4393358110, netto sykefraværsdager over 12 måneder, ) står i sitatet
-- OK   3 ki_lav=82.6 rad 93 (W4393358110, netto sykefraværsdager over 12 måneder, ) står i sitatet
-- OK   3 ki_hoy=138.8 rad 93 (W4393358110, netto sykefraværsdager over 12 måneder, ) står i sitatet
-- OK   4 rad 93 (W4393358110, netto sykefraværsdager over 12 måneder, ) estimat innenfor KI
-- FEIL 2 sitat rad 94 (W4393358110, netto sykefraværsdager over 12 måneder, ) ble IKKE funnet på oppgitt side
-- OK   3 estimat=99.1 rad 94 (W4393358110, netto sykefraværsdager over 12 måneder, ) står i sitatet
-- OK   3 ki_lav=73.9 rad 94 (W4393358110, netto sykefraværsdager over 12 måneder, ) står i sitatet
-- OK   3 ki_hoy=124.3 rad 94 (W4393358110, netto sykefraværsdager over 12 måneder, ) står i sitatet
-- OK   4 rad 94 (W4393358110, netto sykefraværsdager over 12 måneder, ) estimat innenfor KI
-- FEIL 2 sitat rad 95 (W4393358110, andel sykmeldt etter 3 måneder i interve) ble IKKE funnet på oppgitt side
-- OK   3 estimat=64.8 rad 95 (W4393358110, andel sykmeldt etter 3 måneder i interve) står i sitatet
-- FEIL 2 sitat rad 96 (W4404826543, median dager til full retur til arbeid i) ble IKKE funnet på oppgitt side
-- OK   3 estimat=102 rad 96 (W4404826543, median dager til full retur til arbeid i) står i sitatet
-- FEIL 2 sitat rad 97 (W4404826543, andel med full retur til arbeid ved slut) ble IKKE funnet på oppgitt side
-- OK   3 estimat=79.2 rad 97 (W4404826543, andel med full retur til arbeid ved slut) står i sitatet
-- FEIL 2 sitat rad 98 (W2800647420, arbeidsevne etter 1 år (minst 4 sammenhe) ble IKKE funnet på oppgitt side
-- OK   3 estimat=1.85 rad 98 (W2800647420, arbeidsevne etter 1 år (minst 4 sammenhe) står i sitatet
-- OK   3 ki_lav=1.01 rad 98 (W2800647420, arbeidsevne etter 1 år (minst 4 sammenhe) står i sitatet
-- OK   3 ki_hoy=3.38 rad 98 (W2800647420, arbeidsevne etter 1 år (minst 4 sammenhe) står i sitatet
-- OK   4 rad 98 (W2800647420, arbeidsevne etter 1 år (minst 4 sammenhe) estimat innenfor KI
-- OK   4 rad 98 (W2800647420, arbeidsevne etter 1 år (minst 4 sammenhe) KI symmetrisk på log-skala (avvik 0.00)
-- FEIL 2 sitat rad 99 (W2800647420, andel med arbeidsevne etter 1 år i inter) ble IKKE funnet på oppgitt side
-- OK   3 estimat=85 rad 99 (W2800647420, andel med arbeidsevne etter 1 år i inter) står i sitatet
-- FEIL 2 sitat rad 100 (W2017844716, gjennomsnittlig lengde på sykmeldingsper) ble IKKE funnet på oppgitt side
-- OK   3 estimat=58 rad 100 (W2017844716, gjennomsnittlig lengde på sykmeldingsper) står i sitatet
-- FEIL 2 sitat rad 101 (W4412112855, arbeidsinntekt år 1 etter avgjørelsen, p) ble IKKE funnet på oppgitt side
-- OK   3 estimat=44 rad 101 (W4412112855, arbeidsinntekt år 1 etter avgjørelsen, p) står i sitatet
-- FEIL 2 sitat rad 102 (W4412112855, sykepengedager år 1 etter avgjørelsen, r) ble IKKE funnet på oppgitt side
-- OK   3 estimat=51.24 rad 102 (W4412112855, sykepengedager år 1 etter avgjørelsen, r) står i sitatet
-- FEIL 2 sitat rad 103 (W4412112855, mottak av uføreytelse (DB) år 3, reduksj) ble IKKE funnet på oppgitt side
-- OK   3 estimat=0.15 rad 103 (W4412112855, mottak av uføreytelse (DB) år 3, reduksj) står i sitatet
-- FEIL 2 sitat rad 104 (W2170630267, langtidssykefravær (>8 uker), menn, just) ble IKKE funnet på oppgitt side
-- OK   3 estimat=0.97 rad 104 (W2170630267, langtidssykefravær (>8 uker), menn, just) står i sitatet
-- OK   3 ki_lav=0.86 rad 104 (W2170630267, langtidssykefravær (>8 uker), menn, just) står i sitatet
-- OK   3 ki_hoy=1.09 rad 104 (W2170630267, langtidssykefravær (>8 uker), menn, just) står i sitatet
-- OK   4 rad 104 (W2170630267, langtidssykefravær (>8 uker), menn, just) estimat innenfor KI
-- OK   4 rad 104 (W2170630267, langtidssykefravær (>8 uker), menn, just) KI symmetrisk på log-skala (avvik 0.00)
-- FEIL 2 sitat rad 105 (W2170630267, langtidssykefravær (>8 uker), menn i ski) ble IKKE funnet på oppgitt side
-- OK   3 estimat=0.67 rad 105 (W2170630267, langtidssykefravær (>8 uker), menn i ski) står i sitatet
-- OK   3 ki_lav=0.51 rad 105 (W2170630267, langtidssykefravær (>8 uker), menn i ski) står i sitatet
-- OK   3 ki_hoy=0.88 rad 105 (W2170630267, langtidssykefravær (>8 uker), menn i ski) står i sitatet
-- OK   4 rad 105 (W2170630267, langtidssykefravær (>8 uker), menn i ski) estimat innenfor KI
-- OK   4 rad 105 (W2170630267, langtidssykefravær (>8 uker), menn i ski) KI symmetrisk på log-skala (avvik 0.00)
-- FEIL 2 sitat rad 106 (W2170630267, langtidssykefravær (>8 uker), kvinner, u) ble IKKE funnet på oppgitt side
-- OK   3 estimat=1.02 rad 106 (W2170630267, langtidssykefravær (>8 uker), kvinner, u) står i sitatet
-- FEIL 2 sitat rad 107 (W7165684937, arbeidsuførhet (uførepensjon eller over ) ble IKKE funnet på oppgitt side
-- OK   3 estimat=1.85 rad 107 (W7165684937, arbeidsuførhet (uførepensjon eller over ) står i sitatet
-- OK   3 ki_lav=1.25 rad 107 (W7165684937, arbeidsuførhet (uførepensjon eller over ) står i sitatet
-- OK   3 ki_hoy=2.72 rad 107 (W7165684937, arbeidsuførhet (uførepensjon eller over ) står i sitatet
-- OK   4 rad 107 (W7165684937, arbeidsuførhet (uførepensjon eller over ) estimat innenfor KI
-- OK   4 rad 107 (W7165684937, arbeidsuførhet (uførepensjon eller over ) KI symmetrisk på log-skala (avvik 0.01)
-- FEIL 2 sitat rad 108 (W7165684937, arbeidsuførhet (uførepensjon eller over ) ble IKKE funnet på oppgitt side
-- OK   3 estimat=1.64 rad 108 (W7165684937, arbeidsuførhet (uførepensjon eller over ) står i sitatet
-- OK   3 ki_lav=1.35 rad 108 (W7165684937, arbeidsuførhet (uførepensjon eller over ) står i sitatet
-- OK   3 ki_hoy=1.99 rad 108 (W7165684937, arbeidsuførhet (uførepensjon eller over ) står i sitatet
-- OK   4 rad 108 (W7165684937, arbeidsuførhet (uførepensjon eller over ) estimat innenfor KI
-- OK   4 rad 108 (W7165684937, arbeidsuførhet (uførepensjon eller over ) KI symmetrisk på log-skala (avvik 0.00)
-- FEIL 2 sitat rad 109 (W7165684937, arbeidsuførhet (uførepensjon eller over ) ble IKKE funnet på oppgitt side
-- OK   3 estimat=4.75 rad 109 (W7165684937, arbeidsuførhet (uførepensjon eller over ) står i sitatet
-- OK   3 ki_lav=2.40 rad 109 (W7165684937, arbeidsuførhet (uførepensjon eller over ) står i sitatet
-- OK   3 ki_hoy=9.43 rad 109 (W7165684937, arbeidsuførhet (uførepensjon eller over ) står i sitatet
-- OK   4 rad 109 (W7165684937, arbeidsuførhet (uførepensjon eller over ) estimat innenfor KI
-- OK   4 rad 109 (W7165684937, arbeidsuførhet (uførepensjon eller over ) KI symmetrisk på log-skala (avvik 0.00)
-- FEIL 2 sitat rad 110 (W2916361832, median dager til første retur til arbeid) ble IKKE funnet på oppgitt side
-- OK   3 estimat=128 rad 110 (W2916361832, median dager til første retur til arbeid) står i sitatet
-- OK   3 ki_lav=80 rad 110 (W2916361832, median dager til første retur til arbeid) står i sitatet
-- OK   3 ki_hoy=176 rad 110 (W2916361832, median dager til første retur til arbeid) står i sitatet
-- OK   4 rad 110 (W2916361832, median dager til første retur til arbeid) estimat innenfor KI
-- FEIL 2 sitat rad 111 (W2916361832, median dager til første retur til arbeid) ble IKKE funnet på oppgitt side
-- OK   3 estimat=61 rad 111 (W2916361832, median dager til første retur til arbeid) står i sitatet
-- OK   3 ki_lav=43 rad 111 (W2916361832, median dager til første retur til arbeid) står i sitatet
-- OK   3 ki_hoy=79 rad 111 (W2916361832, median dager til første retur til arbeid) står i sitatet
-- OK   4 rad 111 (W2916361832, median dager til første retur til arbeid) estimat innenfor KI
-- FEIL 2 sitat rad 112 (KU-f0bb3e0c-c725-4cbe-a245-b333d1b74da8, sykefraværsprosent, prosentvis reduksjon) ble IKKE funnet på oppgitt side
-- OK   3 estimat=6 rad 112 (KU-f0bb3e0c-c725-4cbe-a245-b333d1b74da8, sykefraværsprosent, prosentvis reduksjon) står i sitatet
-- FEIL 2 sitat rad 113 (KU-f0bb3e0c-c725-4cbe-a245-b333d1b74da8, sykefraværsprosent, prosentvis reduksjon) ble IKKE funnet på oppgitt side
-- OK   3 estimat=5 rad 113 (KU-f0bb3e0c-c725-4cbe-a245-b333d1b74da8, sykefraværsprosent, prosentvis reduksjon) står i sitatet
-- FEIL 2 sitat rad 114 (KU-f0bb3e0c-c725-4cbe-a245-b333d1b74da8, legemeldt sykefravær, prosentvis reduksj) ble IKKE funnet på oppgitt side
-- OK   3 estimat=3.8 rad 114 (KU-f0bb3e0c-c725-4cbe-a245-b333d1b74da8, legemeldt sykefravær, prosentvis reduksj) står i sitatet
-- FEIL 2 sitat rad 115 (KU-f0bb3e0c-c725-4cbe-a245-b333d1b74da8, sykefravær i Rogaland: ingen effekt funn) ble IKKE funnet på oppgitt side
-- FEIL 2 sitat rad 116 (KU-f0bb3e0c-c725-4cbe-a245-b333d1b74da8, bruk av gradert sykmelding, prosentvis ø) ble IKKE funnet på oppgitt side
-- OK   3 estimat=10 rad 116 (KU-f0bb3e0c-c725-4cbe-a245-b333d1b74da8, bruk av gradert sykmelding, prosentvis ø) står i sitatet
-- FEIL 2 sitat rad 117 (KU-b5503dbe-4b5c-41a1-959b-1e07a266a10e, ingen effektestimat; følgeevaluering av ) ble IKKE funnet på oppgitt side
-- FEIL 2 sitat rad 118 (AV-2017-1-06, gjennomsnittlig varighet for sykefravær ) ble IKKE funnet på oppgitt side
-- OK   3 estimat=6 rad 118 (AV-2017-1-06, gjennomsnittlig varighet for sykefravær ) står i sitatet
-- FEIL 2 sitat rad 119 (AV-2017-1-06, gjennomsnittlig varighet for sykefravær ) ble IKKE funnet på oppgitt side
-- FEIL 2 sitat rad 120 (AV-2017-1-06, andel sykmeldte med gjennomført dialogmø) ble IKKE funnet på oppgitt side
-- OK   3 estimat=9 rad 120 (AV-2017-1-06, andel sykmeldte med gjennomført dialogmø) står i sitatet
-- FEIL 2 sitat rad 121 (AV-2022-2-04, andel langtidssykmeldte med gjennomført ) ble IKKE funnet på oppgitt side
-- OK   3 estimat=8 rad 121 (AV-2022-2-04, andel langtidssykmeldte med gjennomført ) står i sitatet
-- FEIL 2 sitat rad 122 (AV-2022-2-04, varighet på inneværende sykefravær, endr) ble IKKE funnet på oppgitt side
-- OK   3 estimat=-0.6 rad 122 (AV-2022-2-04, varighet på inneværende sykefravær, endr) står i sitatet
-- FEIL 2 sitat rad 123 (AV-2022-2-04, andel med oppbrukt sykepengerett, økning) ble IKKE funnet på oppgitt side
-- OK   3 estimat=1.4 rad 123 (AV-2022-2-04, andel med oppbrukt sykepengerett, økning) står i sitatet
-- FEIL 2 sitat rad 124 (AV-2014-1-06, ingen effektestimat; gjennomgang av omfa) ble IKKE funnet på oppgitt side
-- FEIL 2 sitat rad 125 (KU-875dcbc0-c50a-4d2f-a78f-b2bbf9b2b1ae, ingen effektestimat; evaluering av oppfø) ble IKKE funnet på oppgitt side
-- FEIL 2 sitat rad 126 (0198cc79c7cd-acfd3f19-c535-4040-8691-5ebda8ac207e, ingen effektestimat; sammenligning av op) ble IKKE funnet på oppgitt side
-- FEIL 2 sitat rad 127 (0198cc6a07f2-83528661-0115-453b-b35a-71e514027435, ingen effektestimat; evaluering av IA-av) ble IKKE funnet på oppgitt side
-- FEIL 2 sitat rad 128 (KU-a9e33daa-a5d8-454b-8e8c-dbbed2f18791, ingen effektestimat; kvalitative intervj) ble IKKE funnet på oppgitt side
-- FEIL 2 sitat rad 129 (AV-2009-1-06, varighet på sykefraværstilfellene etter ) ble IKKE funnet på oppgitt side
-- FEIL 2 sitat rad 130 (KU-884d2759-5922-4a55-b7cd-e21caf22a212, ingen effektestimat; arbeidsgrupperappor) ble IKKE funnet på oppgitt side
-- FEIL 2 sitat rad 131 (KU-85c000bd-7e2a-42c5-91f6-55631a735353, andel registrert med ny arbeidsgiver ett) ble IKKE funnet på oppgitt side
-- OK   3 estimat=55 rad 131 (KU-85c000bd-7e2a-42c5-91f6-55631a735353, andel registrert med ny arbeidsgiver ett) står i sitatet
-- FEIL 2 sitat rad 132 (KU-85c000bd-7e2a-42c5-91f6-55631a735353, andel som mottar AAP ett år etter avslut) ble IKKE funnet på oppgitt side
-- OK   3 estimat=30 rad 132 (KU-85c000bd-7e2a-42c5-91f6-55631a735353, andel som mottar AAP ett år etter avslut) står i sitatet
-- FEIL 2 sitat rad 133 (NB-4163, ingen effektestimat i teksten; andel syk) ble IKKE funnet på oppgitt side
-- OK   3 estimat=96 rad 133 (NB-4163, ingen effektestimat i teksten; andel syk) står i sitatet
-- FEIL 2 sitat rad 134 (NB-4171, ingen effektestimat i teksten; følgeeval) ble IKKE funnet på oppgitt side
-- FEIL 2 sitat rad 135 (NB-5528, ingen effektestimat i teksten; kartleggi) ble IKKE funnet på oppgitt side
-- FEIL 2 sitat rad 136 (NB-4911, andel i fulltidsarbeid i 2023, mottakere) ble IKKE funnet på oppgitt side
-- OK   3 estimat=19 rad 136 (NB-4911, andel i fulltidsarbeid i 2023, mottakere) står i sitatet
-- FEIL 2 sitat rad 137 (NB-4911, forskjell i andel på AAP eller tiltakspe) ble IKKE funnet på oppgitt side
-- OK   3 estimat=13 rad 137 (NB-4911, forskjell i andel på AAP eller tiltakspe) står i sitatet
-- FEIL 2 sitat rad 138 (LI-7vlxr9md5r8sm5st, andel med arbeidsinntekt innen 12 månede) ble IKKE funnet på oppgitt side
-- OK   3 estimat=80 rad 138 (LI-7vlxr9md5r8sm5st, andel med arbeidsinntekt innen 12 månede) står i sitatet
-- FEIL 2 sitat rad 139 (LI-7vlxr9md5r8sm5st, andel uten inntekt innen ett år, ansatte) ble IKKE funnet på oppgitt side
-- OK   3 estimat=32 rad 139 (LI-7vlxr9md5r8sm5st, andel uten inntekt innen ett år, ansatte) står i sitatet
-- FEIL 2 sitat rad 140 (LI-8t04flg46fv9pj3t, andel sykefravær der Försäkringskassan r) ble IKKE funnet på oppgitt side
-- OK   3 estimat=5 rad 140 (LI-8t04flg46fv9pj3t, andel sykefravær der Försäkringskassan r) står i sitatet
-- FEIL 2 sitat rad 141 (LI-8t04flg46fv9pj3t, gjennomsnittlig tidspunkt for avstemming) ble IKKE funnet på oppgitt side
-- OK   3 estimat=471 rad 141 (LI-8t04flg46fv9pj3t, gjennomsnittlig tidspunkt for avstemming) står i sitatet
-- FEIL 2 sitat rad 142 (LI-5h7rt10j31hpp2p6, antall inkluderte studier i oppdateringe) ble IKKE funnet på oppgitt side
-- OK   3 estimat=12 rad 142 (LI-5h7rt10j31hpp2p6, antall inkluderte studier i oppdateringe) står i sitatet
-- FEIL 2 sitat rad 143 (W2605738490, varighet av sykepengeforløp (HR for avga) ble IKKE funnet på oppgitt side
-- OK   3 estimat=1.02 rad 143 (W2605738490, varighet av sykepengeforløp (HR for avga) står i sitatet
-- OK   3 ki_lav=0.97 rad 143 (W2605738490, varighet av sykepengeforløp (HR for avga) står i sitatet
-- OK   3 ki_hoy=1.07 rad 143 (W2605738490, varighet av sykepengeforløp (HR for avga) står i sitatet
-- OK   4 rad 143 (W2605738490, varighet av sykepengeforløp (HR for avga) estimat innenfor KI
-- OK   4 rad 143 (W2605738490, varighet av sykepengeforløp (HR for avga) KI symmetrisk på log-skala (avvik 0.00)
-- FEIL 2 sitat rad 144 (W2605738490, varighet til selvforsørgelse (HR)) ble IKKE funnet på oppgitt side
-- OK   3 estimat=0.99 rad 144 (W2605738490, varighet til selvforsørgelse (HR)) står i sitatet
-- OK   3 ki_lav=0.96 rad 144 (W2605738490, varighet til selvforsørgelse (HR)) står i sitatet
-- OK   3 ki_hoy=1.02 rad 144 (W2605738490, varighet til selvforsørgelse (HR)) står i sitatet
-- OK   4 rad 144 (W2605738490, varighet til selvforsørgelse (HR)) estimat innenfor KI
-- OK   4 rad 144 (W2605738490, varighet til selvforsørgelse (HR)) KI symmetrisk på log-skala (avvik 0.00)
-- FEIL 2 sitat rad 145 (W2215805610, median tid til varig retur til arbeid et) ble IKKE funnet på oppgitt side
-- OK   3 estimat=41 rad 145 (W2215805610, median tid til varig retur til arbeid et) står i sitatet
-- FEIL 2 sitat rad 146 (W2215805610, årlig gevinst i arbeidsdeltakelse etter ) ble IKKE funnet på oppgitt side
-- OK   3 estimat=230.9 rad 146 (W2215805610, årlig gevinst i arbeidsdeltakelse etter ) står i sitatet
-- FEIL 2 sitat rad 147 (W4387231342, deltakelse i rehabilitering innen ett år) ble IKKE funnet på oppgitt side
-- OK   3 estimat=1.051 rad 147 (W4387231342, deltakelse i rehabilitering innen ett år) står i sitatet
-- OK   3 ki_lav=1.015 rad 147 (W4387231342, deltakelse i rehabilitering innen ett år) står i sitatet
-- OK   3 ki_hoy=1.086 rad 147 (W4387231342, deltakelse i rehabilitering innen ett år) står i sitatet
-- OK   4 rad 147 (W4387231342, deltakelse i rehabilitering innen ett år) estimat innenfor KI
-- OK   4 rad 147 (W4387231342, deltakelse i rehabilitering innen ett år) KI symmetrisk på log-skala (avvik 0.00)
-- FEIL 2 sitat rad 148 (W4387231342, i arbeid ett år etter 30 dagers sykepeng) ble IKKE funnet på oppgitt side
-- OK   3 estimat=0.993 rad 148 (W4387231342, i arbeid ett år etter 30 dagers sykepeng) står i sitatet
-- OK   3 ki_lav=0.982 rad 148 (W4387231342, i arbeid ett år etter 30 dagers sykepeng) står i sitatet
-- OK   3 ki_hoy=1.003 rad 148 (W4387231342, i arbeid ett år etter 30 dagers sykepeng) står i sitatet
-- OK   4 rad 148 (W4387231342, i arbeid ett år etter 30 dagers sykepeng) estimat innenfor KI
-- OK   4 rad 148 (W4387231342, i arbeid ett år etter 30 dagers sykepeng) KI symmetrisk på log-skala (avvik 0.00)
-- FEIL 2 sitat rad 149 (W4387231342, uførepensjon ett år etter 30 dagers syke) ble IKKE funnet på oppgitt side
-- OK   3 estimat=1.001 rad 149 (W4387231342, uførepensjon ett år etter 30 dagers syke) står i sitatet
-- OK   3 ki_lav=0.974 rad 149 (W4387231342, uførepensjon ett år etter 30 dagers syke) står i sitatet
-- OK   3 ki_hoy=1.029 rad 149 (W4387231342, uførepensjon ett år etter 30 dagers syke) står i sitatet
-- OK   4 rad 149 (W4387231342, uførepensjon ett år etter 30 dagers syke) estimat innenfor KI
-- OK   4 rad 149 (W4387231342, uførepensjon ett år etter 30 dagers syke) KI symmetrisk på log-skala (avvik 0.00)
-- FEIL 2 sitat rad 150 (W3146838699, uførepensjonering 2013–2015 i kommune me) ble IKKE funnet på oppgitt side
-- OK   3 estimat=0.49 rad 150 (W3146838699, uførepensjonering 2013–2015 i kommune me) står i sitatet
-- OK   3 ki_lav=0.30 rad 150 (W3146838699, uførepensjonering 2013–2015 i kommune me) står i sitatet
-- OK   3 ki_hoy=0.79 rad 150 (W3146838699, uførepensjonering 2013–2015 i kommune me) står i sitatet
-- OK   4 rad 150 (W3146838699, uførepensjonering 2013–2015 i kommune me) estimat innenfor KI
-- OK   4 rad 150 (W3146838699, uførepensjonering 2013–2015 i kommune me) KI symmetrisk på log-skala (avvik 0.01)
-- FEIL 2 sitat rad 151 (W3146838699, redusert arbeidsevne: uførepensjonering ) ble IKKE funnet på oppgitt side
-- OK   3 estimat=0.34 rad 151 (W3146838699, redusert arbeidsevne: uførepensjonering ) står i sitatet
-- OK   3 ki_lav=0.12 rad 151 (W3146838699, redusert arbeidsevne: uførepensjonering ) står i sitatet
-- OK   3 ki_hoy=0.99 rad 151 (W3146838699, redusert arbeidsevne: uførepensjonering ) står i sitatet
-- OK   4 rad 151 (W3146838699, redusert arbeidsevne: uførepensjonering ) estimat innenfor KI
-- OK   4 rad 151 (W3146838699, redusert arbeidsevne: uførepensjonering ) KI symmetrisk på log-skala (avvik 0.03)
-- FEIL 2 sitat rad 152 (W3146838699, risiko for sykefravær etter mot før innf) ble IKKE funnet på oppgitt side
-- OK   3 estimat=1.26 rad 152 (W3146838699, risiko for sykefravær etter mot før innf) står i sitatet
-- OK   3 ki_lav=1.14 rad 152 (W3146838699, risiko for sykefravær etter mot før innf) står i sitatet
-- OK   3 ki_hoy=1.40 rad 152 (W3146838699, risiko for sykefravær etter mot før innf) står i sitatet
-- OK   4 rad 152 (W3146838699, risiko for sykefravær etter mot før innf) estimat innenfor KI
-- OK   4 rad 152 (W3146838699, risiko for sykefravær etter mot før innf) KI symmetrisk på log-skala (avvik 0.01)
-- FEIL 2 sitat rad 153 (W2124456619, gjeninntreden i arbeid etter passiv reha) ble IKKE funnet på oppgitt side
-- OK   3 estimat=12 rad 153 (W2124456619, gjeninntreden i arbeid etter passiv reha) står i sitatet
-- FEIL 2 sitat rad 154 (W2124456619, gjeninntreden i arbeid etter utdanningsr) ble IKKE funnet på oppgitt side
-- OK   3 estimat=19 rad 154 (W2124456619, gjeninntreden i arbeid etter utdanningsr) står i sitatet
-- FEIL 2 sitat rad 155 (W2124456619, gjeninntreden i arbeid etter medisinsk r) ble IKKE funnet på oppgitt side
-- OK   3 estimat=8 rad 155 (W2124456619, gjeninntreden i arbeid etter medisinsk r) står i sitatet
-- FEIL 2 sitat rad 156 (W2134556813, ingen effektestimat i teksten; andel av ) ble IKKE funnet på oppgitt side
-- OK   3 estimat=2 rad 156 (W2134556813, ingen effektestimat i teksten; andel av ) står i sitatet
-- FEIL 2 sitat rad 157 (W4413968597, antall sykefraværsdager i ti måneder ett) ble IKKE funnet på oppgitt side
-- OK   3 estimat=0.96 rad 157 (W4413968597, antall sykefraværsdager i ti måneder ett) står i sitatet
-- OK   3 ki_lav=0.90 rad 157 (W4413968597, antall sykefraværsdager i ti måneder ett) står i sitatet
-- OK   3 ki_hoy=1.03 rad 157 (W4413968597, antall sykefraværsdager i ti måneder ett) står i sitatet
-- OK   4 rad 157 (W4413968597, antall sykefraværsdager i ti måneder ett) estimat innenfor KI
-- OK   4 rad 157 (W4413968597, antall sykefraværsdager i ti måneder ett) KI symmetrisk på log-skala (avvik 0.01)
-- FEIL 2 sitat rad 158 (W4413968597, gjennomsnittlig antall sykefraværsdager ) ble IKKE funnet på oppgitt side
-- OK   3 estimat=71.3 rad 158 (W4413968597, gjennomsnittlig antall sykefraværsdager ) står i sitatet
-- FEIL 2 sitat rad 160 (W2982124809, ingen effektestimat på retur til arbeid;) ble IKKE funnet på oppgitt side
-- OK   3 estimat=68 rad 160 (W2982124809, ingen effektestimat på retur til arbeid;) står i sitatet
-- FEIL 2 sitat rad 161 (0198cc72abe5-979e5cdd-1403-4d74-8cba-0ea39f1c6914, antall publikasjoner om effekt av tiltak) ble IKKE funnet på oppgitt side
-- OK   3 estimat=78 rad 161 (0198cc72abe5-979e5cdd-1403-4d74-8cba-0ea39f1c6914, antall publikasjoner om effekt av tiltak) står i sitatet
-- FEIL 2 sitat rad 162 (0198cc72abe5-979e5cdd-1403-4d74-8cba-0ea39f1c6914, antall studier av tiltak i regi av Nav/a) ble IKKE funnet på oppgitt side
-- OK   3 estimat=8 rad 162 (0198cc72abe5-979e5cdd-1403-4d74-8cba-0ea39f1c6914, antall studier av tiltak i regi av Nav/a) står i sitatet
-- FEIL 2 sitat rad 163 (W4399324105, psykiske lidelser: andel i arbeid etter ) ble IKKE funnet på oppgitt side
-- OK   3 estimat=53.9 rad 163 (W4399324105, psykiske lidelser: andel i arbeid etter ) står i sitatet
-- FEIL 2 sitat rad 164 (W4399324105, psykiske lidelser: tid til retur til arb) ble IKKE funnet på oppgitt side
-- OK   3 estimat=0.79 rad 164 (W4399324105, psykiske lidelser: tid til retur til arb) står i sitatet
-- FEIL 2 sitat rad 165 (W4399324105, psykiske lidelser: uker i arbeid første ) ble IKKE funnet på oppgitt side
-- OK   3 estimat=3.1 rad 165 (W4399324105, psykiske lidelser: uker i arbeid første ) står i sitatet
-- FEIL 2 sitat rad 166 (W3044135239, kvinner: ettårsrisiko for langtidssykefr) ble IKKE funnet på oppgitt side
-- OK   3 estimat=0.93 rad 166 (W3044135239, kvinner: ettårsrisiko for langtidssykefr) står i sitatet
-- OK   3 ki_lav=0.91 rad 166 (W3044135239, kvinner: ettårsrisiko for langtidssykefr) står i sitatet
-- OK   3 ki_hoy=0.96 rad 166 (W3044135239, kvinner: ettårsrisiko for langtidssykefr) står i sitatet
-- OK   4 rad 166 (W3044135239, kvinner: ettårsrisiko for langtidssykefr) estimat innenfor KI
-- OK   4 rad 166 (W3044135239, kvinner: ettårsrisiko for langtidssykefr) KI symmetrisk på log-skala (avvik 0.01)
-- FEIL 2 sitat rad 167 (W3044135239, menn: ettårsrisiko for langtidssykefravæ) ble IKKE funnet på oppgitt side
-- OK   3 estimat=1.01 rad 167 (W3044135239, menn: ettårsrisiko for langtidssykefravæ) står i sitatet
-- OK   3 ki_lav=0.97 rad 167 (W3044135239, menn: ettårsrisiko for langtidssykefravæ) står i sitatet
-- OK   3 ki_hoy=1.06 rad 167 (W3044135239, menn: ettårsrisiko for langtidssykefravæ) står i sitatet
-- OK   4 rad 167 (W3044135239, menn: ettårsrisiko for langtidssykefravæ) estimat innenfor KI
-- OK   4 rad 167 (W3044135239, menn: ettårsrisiko for langtidssykefravæ) KI symmetrisk på log-skala (avvik 0.01)
-- FEIL 2 sitat rad 168 (W3044135239, kvinner: nedgang i ettårsrisiko for lang) ble IKKE funnet på oppgitt side
-- OK   3 estimat=1.3 rad 168 (W3044135239, kvinner: nedgang i ettårsrisiko for lang) står i sitatet
-- FEIL 2 sitat rad 169 (W4408790921, sannsynlighet for å forlate sykepenger i) ble IKKE funnet på oppgitt side
-- OK   3 estimat=142 rad 169 (W4408790921, sannsynlighet for å forlate sykepenger i) står i sitatet
-- FEIL 2 sitat rad 170 (W4408790921, sannsynlighet for å være i arbeid rett e) ble IKKE funnet på oppgitt side
-- OK   3 estimat=14 rad 170 (W4408790921, sannsynlighet for å være i arbeid rett e) står i sitatet
-- FEIL 2 sitat rad 171 (W4408790921, andel fortsatt på sykepenger 30 uker ett) ble IKKE funnet på oppgitt side
-- OK   3 estimat=65 rad 171 (W4408790921, andel fortsatt på sykepenger 30 uker ett) står i sitatet
-- FEIL 2 sitat rad 172 (W4309592779, sannsynlighet for å være i arbeid etter ) ble IKKE funnet på oppgitt side
-- OK   3 estimat=3.4 rad 172 (W4309592779, sannsynlighet for å være i arbeid etter ) står i sitatet
-- OK   3 ki_lav=2.5 rad 172 (W4309592779, sannsynlighet for å være i arbeid etter ) står i sitatet
-- OK   3 ki_hoy=4.3 rad 172 (W4309592779, sannsynlighet for å være i arbeid etter ) står i sitatet
-- OK   4 rad 172 (W4309592779, sannsynlighet for å være i arbeid etter ) estimat innenfor KI
-- FEIL 2 sitat rad 173 (W4309592779, flere dager i arbeid første år etter syk) ble IKKE funnet på oppgitt side
-- OK   3 estimat=8.4 rad 173 (W4309592779, flere dager i arbeid første år etter syk) står i sitatet
-- OK   3 ki_lav=4.9 rad 173 (W4309592779, flere dager i arbeid første år etter syk) står i sitatet
-- OK   3 ki_hoy=11.9 rad 173 (W4309592779, flere dager i arbeid første år etter syk) står i sitatet
-- OK   4 rad 173 (W4309592779, flere dager i arbeid første år etter syk) estimat innenfor KI
-- FEIL 2 sitat rad 174 (W4309592779, færre dager på full sykmelding første år) ble IKKE funnet på oppgitt side
-- OK   3 estimat=7.6 rad 174 (W4309592779, færre dager på full sykmelding første år) står i sitatet
-- OK   3 ki_lav=4.8 rad 174 (W4309592779, færre dager på full sykmelding første år) står i sitatet
-- OK   3 ki_hoy=10.3 rad 174 (W4309592779, færre dager på full sykmelding første år) står i sitatet
-- OK   4 rad 174 (W4309592779, færre dager på full sykmelding første år) estimat innenfor KI
-- FEIL 2 sitat rad 175 (W4385619845, menn: utgang fra arbeid året etter retur) ble IKKE funnet på oppgitt side
-- OK   3 estimat=0.96 rad 175 (W4385619845, menn: utgang fra arbeid året etter retur) står i sitatet
-- OK   3 ki_lav=0.93 rad 175 (W4385619845, menn: utgang fra arbeid året etter retur) står i sitatet
-- OK   3 ki_hoy=0.99 rad 175 (W4385619845, menn: utgang fra arbeid året etter retur) står i sitatet
-- OK   4 rad 175 (W4385619845, menn: utgang fra arbeid året etter retur) estimat innenfor KI
-- OK   4 rad 175 (W4385619845, menn: utgang fra arbeid året etter retur) KI symmetrisk på log-skala (avvik 0.00)
-- FEIL 2 sitat rad 176 (W4385619845, kvinner: utgang fra arbeid året etter re) ble IKKE funnet på oppgitt side
-- OK   3 estimat=0.97 rad 176 (W4385619845, kvinner: utgang fra arbeid året etter re) står i sitatet
-- OK   3 ki_lav=0.94 rad 176 (W4385619845, kvinner: utgang fra arbeid året etter re) står i sitatet
-- OK   3 ki_hoy=0.99 rad 176 (W4385619845, kvinner: utgang fra arbeid året etter re) står i sitatet
-- OK   4 rad 176 (W4385619845, kvinner: utgang fra arbeid året etter re) estimat innenfor KI
-- OK   4 rad 176 (W4385619845, kvinner: utgang fra arbeid året etter re) KI symmetrisk på log-skala (avvik 0.01)
-- OK   2 sitat rad 177 (W2775913329, ingen effektestimat i sammendraget; 2 av) står på oppgitt side
-- OK   2 sitat rad 178 (W4224227694, sykefravær; ingen statistisk signifikant) står på oppgitt side
-- OK   2 sitat rad 179 (W2076808106, reduksjon i gjennomsnittlig sykmeldingsl) står på oppgitt side
-- OK   3 estimat=8.3 rad 179 (W2076808106, reduksjon i gjennomsnittlig sykmeldingsl) står i sitatet
-- OK   2 sitat rad 180 (W2076808106, relativ risiko for å motta sykdomsrelate) står på oppgitt side
-- OK   3 estimat=0.69 rad 180 (W2076808106, relativ risiko for å motta sykdomsrelate) står i sitatet
-- OK   3 ki_lav=0.51 rad 180 (W2076808106, relativ risiko for å motta sykdomsrelate) står i sitatet
-- OK   3 ki_hoy=0.93 rad 180 (W2076808106, relativ risiko for å motta sykdomsrelate) står i sitatet
-- OK   4 rad 180 (W2076808106, relativ risiko for å motta sykdomsrelate) estimat innenfor KI
-- OK   4 rad 180 (W2076808106, relativ risiko for å motta sykdomsrelate) KI symmetrisk på log-skala (avvik 0.00)
-- OK   2 sitat rad 181 (W2012190243, økning i varighet av sykefraværet når fø) står på oppgitt side
-- OK   3 estimat=6.6 rad 181 (W2012190243, økning i varighet av sykefraværet når fø) står i sitatet
-- OK   2 sitat rad 182 (W2086246290, flere kumulerte sykefraværsdager første ) står på oppgitt side
-- OK   3 estimat=58 rad 182 (W2086246290, flere kumulerte sykefraværsdager første ) står i sitatet
-- OK   2 sitat rad 183 (W2086246290, flere kumulerte sykefraværsdager andre å) står på oppgitt side
-- OK   3 estimat=36 rad 183 (W2086246290, flere kumulerte sykefraværsdager andre å) står i sitatet
-- OK   2 sitat rad 184 (W2766169543, færre dager sykmeldt (konferansesammendr) står på oppgitt side
-- OK   3 estimat=29 rad 184 (W2766169543, færre dager sykmeldt (konferansesammendr) står i sitatet
-- OK   2 sitat rad 185 (W2147994712, forlengelse av sykefraværsperioden, måne) står på oppgitt side
-- OK   3 estimat=3 rad 185 (W2147994712, forlengelse av sykefraværsperioden, måne) står i sitatet
-- OK   2 sitat rad 186 (W2068839152, avslutning av sykepenger etter innføring) står på oppgitt side
-- OK   3 estimat=1.10 rad 186 (W2068839152, avslutning av sykepenger etter innføring) står i sitatet
-- OK   2 sitat rad 187 (W2068839152, avslutning av sykepenger etter innføring) står på oppgitt side
-- OK   3 estimat=1.07 rad 187 (W2068839152, avslutning av sykepenger etter innføring) står i sitatet
-- OK   2 sitat rad 188 (W2068839152, overgang til uførepensjon etter strenger) står på oppgitt side
-- OK   3 estimat=0.86 rad 188 (W2068839152, overgang til uførepensjon etter strenger) står i sitatet
-- OK   2 sitat rad 189 (W2068839152, overgang til uførepensjon etter strenger) står på oppgitt side
-- OK   3 estimat=1.09 rad 189 (W2068839152, overgang til uførepensjon etter strenger) står i sitatet
-- OK   2 sitat rad 190 (W2792586845, varig retur til arbeid (minst 28 dager) ) står på oppgitt side
-- OK   3 estimat=4 rad 190 (W2792586845, varig retur til arbeid (minst 28 dager) ) står i sitatet
-- OK   2 sitat rad 191 (W2792586845, kortere gjennomsnittlig tid til varig re) står på oppgitt side
-- OK   3 estimat=0.42 rad 191 (W2792586845, kortere gjennomsnittlig tid til varig re) står i sitatet
-- OK   2 sitat rad 192 (W2792586845, relativ økning i arbeidsdeltakelse) står på oppgitt side
-- OK   3 estimat=4.9 rad 192 (W2792586845, relativ økning i arbeidsdeltakelse) står i sitatet
-- OK   2 sitat rad 193 (W2801792329, arbeidsdeltakelse etter 30–60–90-dagersr) står på oppgitt side
-- OK   2 sitat rad 194 (W2155416484, tidlig yrkesrettet rehabilitering mer ef) står på oppgitt side
-- FEIL 2 sitat rad 199 (W4210656986, endring i gjennomsnittlig varighet av fø) ble IKKE funnet på oppgitt side
-- OK   3 estimat=-16.6 rad 199 (W4210656986, endring i gjennomsnittlig varighet av fø) står i sitatet
-- OK   3 ki_lav=-25.3 rad 199 (W4210656986, endring i gjennomsnittlig varighet av fø) står i sitatet
-- OK   3 ki_hoy=-7.9 rad 199 (W4210656986, endring i gjennomsnittlig varighet av fø) står i sitatet
-- OK   4 rad 199 (W4210656986, endring i gjennomsnittlig varighet av fø) estimat innenfor KI
-- FEIL 2 sitat rad 202 (KU-3dbd207f-9dc5-45e6-a33c-6c3b245ad196, andel i jobb tre måneder etter avsluttet) ble IKKE funnet på oppgitt side
-- OK   3 estimat=80 rad 202 (KU-3dbd207f-9dc5-45e6-a33c-6c3b245ad196, andel i jobb tre måneder etter avsluttet) står i sitatet
-- FEIL 2 sitat rad 204 (019933dcb1e2-ddd4443d-eeee-41de-b3ae-18749bfabba2, ingen sikre effektestimat; forsøkene med) ble IKKE funnet på oppgitt side
-- FEIL 2 sitat rad 207 (W7113566653, antall av 14 studier med positive effekt) ble IKKE funnet på oppgitt side
-- OK   3 estimat=11 rad 207 (W7113566653, antall av 14 studier med positive effekt) står i sitatet
-- FEIL 2 sitat rad 208 (W4302588647, mottak av uføreytelse etter 15 måneder, ) ble IKKE funnet på oppgitt side
-- OK   3 estimat=0.8 rad 208 (W4302588647, mottak av uføreytelse etter 15 måneder, ) står i sitatet
-- FEIL 2 sitat rad 209 (W4302588647, mottak av uføreytelse etter 15 måneder, ) ble IKKE funnet på oppgitt side
-- OK   3 estimat=5.1 rad 209 (W4302588647, mottak av uføreytelse etter 15 måneder, ) står i sitatet
-- FEIL 2 sitat rad 210 (W4302588647, arbeidsledige ved start: andel med uføre) ble IKKE funnet på oppgitt side
-- OK   3 estimat=10.6 rad 210 (W4302588647, arbeidsledige ved start: andel med uføre) står i sitatet
-- FEIL 2 sitat rad 211 (W4302588647, avstemmingsmøte med arbeidsgiver (AM): i) ble IKKE funnet på oppgitt side
-- FEIL 2 sitat rad 212 (W1892086574, tid til første retur til arbeid (klynger) ble IKKE funnet på oppgitt side
-- OK   3 estimat=1.39 rad 212 (W1892086574, tid til første retur til arbeid (klynger) står i sitatet
-- OK   3 ki_lav=0.81 rad 212 (W1892086574, tid til første retur til arbeid (klynger) står i sitatet
-- OK   3 ki_hoy=2.37 rad 212 (W1892086574, tid til første retur til arbeid (klynger) står i sitatet
-- OK   4 rad 212 (W1892086574, tid til første retur til arbeid (klynger) estimat innenfor KI
-- OK   4 rad 212 (W1892086574, tid til første retur til arbeid (klynger) KI symmetrisk på log-skala (avvik 0.01)
-- FEIL 2 sitat rad 213 (W1892086574, tid til full retur til arbeid) ble IKKE funnet på oppgitt side
-- OK   3 estimat=1.12 rad 213 (W1892086574, tid til full retur til arbeid) står i sitatet
-- OK   3 ki_lav=0.65 rad 213 (W1892086574, tid til full retur til arbeid) står i sitatet
-- OK   3 ki_hoy=1.93 rad 213 (W1892086574, tid til full retur til arbeid) står i sitatet
-- OK   4 rad 213 (W1892086574, tid til full retur til arbeid) estimat innenfor KI
-- OK   4 rad 213 (W1892086574, tid til full retur til arbeid) KI symmetrisk på log-skala (avvik 0.00)
-- FEIL 2 sitat rad 214 (W1892086574, tid til varig retur til arbeid) ble IKKE funnet på oppgitt side
-- OK   3 estimat=1.10 rad 214 (W1892086574, tid til varig retur til arbeid) står i sitatet
-- OK   3 ki_lav=0.63 rad 214 (W1892086574, tid til varig retur til arbeid) står i sitatet
-- OK   3 ki_hoy=1.95 rad 214 (W1892086574, tid til varig retur til arbeid) står i sitatet
-- OK   4 rad 214 (W1892086574, tid til varig retur til arbeid) estimat innenfor KI
-- OK   4 rad 214 (W1892086574, tid til varig retur til arbeid) KI symmetrisk på log-skala (avvik 0.02)
-- FEIL 2 sitat rad 215 (W3162733289, sykefraværsdager de neste 16 månedene et) ble IKKE funnet på oppgitt side
-- OK   3 estimat=12 rad 215 (W3162733289, sykefraværsdager de neste 16 månedene et) står i sitatet
-- FEIL 2 sitat rad 216 (W3162733289, sykefraværsdager de neste 16 månedene, d) ble IKKE funnet på oppgitt side
-- OK   3 estimat=-10.2 rad 216 (W3162733289, sykefraværsdager de neste 16 månedene, d) står i sitatet
-- FEIL 2 sitat rad 217 (W3170545082, utstrømning fra sykmelding ved 181-dager) ble IKKE funnet på oppgitt side
-- OK   3 estimat=60.7 rad 217 (W3170545082, utstrømning fra sykmelding ved 181-dager) står i sitatet
-- FEIL 2 sitat rad 218 (W3170545082, utstrømning fra sykmelding uke 5–8) ble IKKE funnet på oppgitt side
-- OK   3 estimat=10.4 rad 218 (W3170545082, utstrømning fra sykmelding uke 5–8) står i sitatet
-- FEIL 2 sitat rad 219 (W3170545082, samlet reduksjon i sykmeldingstid opptil) ble IKKE funnet på oppgitt side
-- OK   3 estimat=0.35 rad 219 (W3170545082, samlet reduksjon i sykmeldingstid opptil) står i sitatet
-- FEIL 2 sitat rad 220 (W4414256612, midlertidig ansatte: sannsynlighet for t) ble IKKE funnet på oppgitt side
-- OK   3 estimat=6.24 rad 220 (W4414256612, midlertidig ansatte: sannsynlighet for t) står i sitatet
-- FEIL 2 sitat rad 221 (W4414256612, fast ansatte i små bedrifter: sannsynlig) ble IKKE funnet på oppgitt side
-- OK   3 estimat=2.32 rad 221 (W4414256612, fast ansatte i små bedrifter: sannsynlig) står i sitatet
-- OK   2 sitat rad 222 (W2087092263, kommune 2, sykmeldte fra arbeid: overgan) står på oppgitt side
-- OK   3 estimat=1.32 rad 222 (W2087092263, kommune 2, sykmeldte fra arbeid: overgan) står i sitatet
-- OK   3 ki_lav=1.08 rad 222 (W2087092263, kommune 2, sykmeldte fra arbeid: overgan) står i sitatet
-- OK   3 ki_hoy=1.61 rad 222 (W2087092263, kommune 2, sykmeldte fra arbeid: overgan) står i sitatet
-- OK   4 rad 222 (W2087092263, kommune 2, sykmeldte fra arbeid: overgan) estimat innenfor KI
-- OK   4 rad 222 (W2087092263, kommune 2, sykmeldte fra arbeid: overgan) KI symmetrisk på log-skala (avvik 0.00)
-- OK   2 sitat rad 223 (W2087092263, kommune 3: overgang til selvforsørgelse) står på oppgitt side
-- OK   3 estimat=0.72 rad 223 (W2087092263, kommune 3: overgang til selvforsørgelse) står i sitatet
-- OK   3 ki_lav=0.54 rad 223 (W2087092263, kommune 3: overgang til selvforsørgelse) står i sitatet
-- OK   3 ki_hoy=0.95 rad 223 (W2087092263, kommune 3: overgang til selvforsørgelse) står i sitatet
-- OK   4 rad 223 (W2087092263, kommune 3: overgang til selvforsørgelse) estimat innenfor KI
-- OK   4 rad 223 (W2087092263, kommune 3: overgang til selvforsørgelse) KI symmetrisk på log-skala (avvik 0.01)
-- OK   2 sitat rad 224 (W2087092263, kommune 1: overgang til selvforsørgelse) står på oppgitt side
-- OK   3 estimat=0.99 rad 224 (W2087092263, kommune 1: overgang til selvforsørgelse) står i sitatet
-- OK   3 ki_lav=0.84 rad 224 (W2087092263, kommune 1: overgang til selvforsørgelse) står i sitatet
-- OK   3 ki_hoy=1.17 rad 224 (W2087092263, kommune 1: overgang til selvforsørgelse) står i sitatet
-- OK   4 rad 224 (W2087092263, kommune 1: overgang til selvforsørgelse) estimat innenfor KI
-- OK   4 rad 224 (W2087092263, kommune 1: overgang til selvforsørgelse) KI symmetrisk på log-skala (avvik 0.00)
-- OK   2 sitat rad 225 (W2109021417, tilstrømning til uføreytelse (publisert ) står på oppgitt side
-- OK   3 estimat=20 rad 225 (W2109021417, tilstrømning til uføreytelse (publisert ) står i sitatet
-- FEIL 2 sitat rad 226 (W1563064513, sykefraværsdager når kravet om legeerklæ) ble IKKE funnet på oppgitt side
-- OK   3 estimat=6.6 rad 226 (W1563064513, sykefraværsdager når kravet om legeerklæ) står i sitatet
-- FEIL 2 sitat rad 227 (W1563064513, gjennomsnittlig lengde på sykefraværsper) ble IKKE funnet på oppgitt side
-- OK   3 estimat=12.64 rad 227 (W1563064513, gjennomsnittlig lengde på sykefraværsper) står i sitatet
-- OK   2 sitat rad 228 (W2136823366, sykefraværsdager per måned og person ove) står på oppgitt side
-- OK   3 estimat=5.7 rad 228 (W2136823366, sykefraværsdager per måned og person ove) står i sitatet
-- OK   2 sitat rad 229 (W2020517177, økonomisk gevinst per måned og person, e) står på oppgitt side
-- OK   3 estimat=1278 rad 229 (W2020517177, økonomisk gevinst per måned og person, e) står i sitatet
-- OK   2 sitat rad 230 (W2414105140, trygdebruk etter tre år ved systematisk ) står på oppgitt side
-- OK   2 sitat rad 231 (W2753581083, psykiske lidelser: varighet av sykmeldin) står på oppgitt side
-- OK   3 estimat=1.05 rad 231 (W2753581083, psykiske lidelser: varighet av sykmeldin) står i sitatet
-- OK   3 ki_lav=0.74 rad 231 (W2753581083, psykiske lidelser: varighet av sykmeldin) står i sitatet
-- OK   3 ki_hoy=1.43 rad 231 (W2753581083, psykiske lidelser: varighet av sykmeldin) står i sitatet
-- OK   4 rad 231 (W2753581083, psykiske lidelser: varighet av sykmeldin) estimat innenfor KI
-- OK   4 rad 231 (W2753581083, psykiske lidelser: varighet av sykmeldin) KI symmetrisk på log-skala (avvik 0.04)
-- OK   2 sitat rad 232 (W2753581083, psykiske lidelser: tid til retur til arb) står på oppgitt side
-- OK   3 estimat=0.94 rad 232 (W2753581083, psykiske lidelser: tid til retur til arb) står i sitatet
-- OK   3 ki_lav=0.65 rad 232 (W2753581083, psykiske lidelser: tid til retur til arb) står i sitatet
-- OK   3 ki_hoy=1.35 rad 232 (W2753581083, psykiske lidelser: tid til retur til arb) står i sitatet
-- OK   4 rad 232 (W2753581083, psykiske lidelser: tid til retur til arb) estimat innenfor KI
-- OK   4 rad 232 (W2753581083, psykiske lidelser: tid til retur til arb) KI symmetrisk på log-skala (avvik 0.01)
-- OK   2 sitat rad 233 (W2090705748, ingen effektestimat (intervjuer om erfar) står på oppgitt side
-- OK   2 sitat rad 234 (W2074879653, andel langtidssykmeldte invitert til avs) står på oppgitt side
-- OK   3 estimat=60 rad 234 (W2074879653, andel langtidssykmeldte invitert til avs) står i sitatet
-- OK   2 sitat rad 235 (W2894846380, andel prosessledere i regionene som hadd) står på oppgitt side
-- OK   3 estimat=28 rad 235 (W2894846380, andel prosessledere i regionene som hadd) står i sitatet
-- OK   2 sitat rad 236 (W2894846380, andel klinikere i kontakt med pasientens) står på oppgitt side
-- OK   3 estimat=9 rad 236 (W2894846380, andel klinikere i kontakt med pasientens) står i sitatet
-- OK   2 sitat rad 238 (W2153084569, andel bedriftshelsetjenester som tilbyr ) står på oppgitt side
-- OK   3 estimat=41 rad 238 (W2153084569, andel bedriftshelsetjenester som tilbyr ) står i sitatet
-- OK   2 sitat rad 239 (W2153084569, andel bedriftshelsetjenester som nevner ) står på oppgitt side
-- OK   3 estimat=10 rad 239 (W2153084569, andel bedriftshelsetjenester som nevner ) står i sitatet
-- OK   2 sitat rad 240 (W4239637744, intensivert obligatorisk tilbakeføringsa) står på oppgitt side
-- OK   2 sitat rad 241 (W2411974038, psykiske lidelser (CMD): tid til første ) står på oppgitt side
-- OK   3 estimat=12 rad 241 (W2411974038, psykiske lidelser (CMD): tid til første ) står i sitatet
-- OK   2 sitat rad 242 (W2411974038, psykiske lidelser (CMD): tid til full re) står på oppgitt side
-- OK   3 estimat=41 rad 242 (W2411974038, psykiske lidelser (CMD): tid til full re) står i sitatet
-- OK   2 sitat rad 243 (W2411974038, psykiske lidelser (CMD): odds for full r) står på oppgitt side
-- OK   3 estimat=7 rad 243 (W2411974038, psykiske lidelser (CMD): odds for full r) står i sitatet
-- OK   2 sitat rad 244 (W2171186773, andel fravær over 4 uker som varte ut ov) står på oppgitt side
-- OK   3 estimat=10.7 rad 244 (W2171186773, andel fravær over 4 uker som varte ut ov) står i sitatet
-- OK   3 ki_lav=1.5 rad 244 (W2171186773, andel fravær over 4 uker som varte ut ov) står i sitatet
-- OK   3 ki_hoy=20.0 rad 244 (W2171186773, andel fravær over 4 uker som varte ut ov) står i sitatet
-- OK   4 rad 244 (W2171186773, andel fravær over 4 uker som varte ut ov) estimat innenfor KI
-- OK   2 sitat rad 245 (W2171186773, gjennomsnittlige fraværsdager ut over 4 ) står på oppgitt side
-- OK   3 estimat=1.6 rad 245 (W2171186773, gjennomsnittlige fraværsdager ut over 4 ) står i sitatet
-- OK   3 ki_lav=-7.2 rad 245 (W2171186773, gjennomsnittlige fraværsdager ut over 4 ) står i sitatet
-- OK   3 ki_hoy=10.3 rad 245 (W2171186773, gjennomsnittlige fraværsdager ut over 4 ) står i sitatet
-- OK   4 rad 245 (W2171186773, gjennomsnittlige fraværsdager ut over 4 ) estimat innenfor KI
-- OK   2 sitat rad 246 (W2070975802, andel uten sykepenger ett år etter start) står på oppgitt side
-- OK   3 estimat=86 rad 246 (W2070975802, andel uten sykepenger ett år etter start) står i sitatet
-- OK   2 sitat rad 247 (W2130137198, strengere vurdering av søknader om uføre) står på oppgitt side
-- OK   2 sitat rad 249 (W2127673741, korsryggsmerter, sykmeldt under 1 måned:) står på oppgitt side
-- OK   3 estimat=1.3 rad 249 (W2127673741, korsryggsmerter, sykmeldt under 1 måned:) står i sitatet
-- OK   3 ki_lav=0.90 rad 249 (W2127673741, korsryggsmerter, sykmeldt under 1 måned:) står i sitatet
-- OK   3 ki_hoy=1.90 rad 249 (W2127673741, korsryggsmerter, sykmeldt under 1 måned:) står i sitatet
-- OK   4 rad 249 (W2127673741, korsryggsmerter, sykmeldt under 1 måned:) estimat innenfor KI
-- OK   4 rad 249 (W2127673741, korsryggsmerter, sykmeldt under 1 måned:) KI symmetrisk på log-skala (avvik 0.01)
-- FEIL 2 sitat rad 250 (W2121271519, vikarer og arbeidsledige med muskel- og ) ble IKKE funnet på oppgitt side
-- OK   3 estimat=2.24 rad 250 (W2121271519, vikarer og arbeidsledige med muskel- og ) står i sitatet
-- OK   3 ki_lav=1.28 rad 250 (W2121271519, vikarer og arbeidsledige med muskel- og ) står i sitatet
-- OK   3 ki_hoy=3.94 rad 250 (W2121271519, vikarer og arbeidsledige med muskel- og ) står i sitatet
-- OK   4 rad 250 (W2121271519, vikarer og arbeidsledige med muskel- og ) estimat innenfor KI
-- OK   4 rad 250 (W2121271519, vikarer og arbeidsledige med muskel- og ) KI symmetrisk på log-skala (avvik 0.01)
-- FEIL 2 sitat rad 251 (W2121271519, vikarer og arbeidsledige med muskel- og ) ble IKKE funnet på oppgitt side
-- OK   3 estimat=0.76 rad 251 (W2121271519, vikarer og arbeidsledige med muskel- og ) står i sitatet
-- OK   3 ki_lav=0.42 rad 251 (W2121271519, vikarer og arbeidsledige med muskel- og ) står i sitatet
-- OK   3 ki_hoy=1.37 rad 251 (W2121271519, vikarer og arbeidsledige med muskel- og ) står i sitatet
-- OK   4 rad 251 (W2121271519, vikarer og arbeidsledige med muskel- og ) estimat innenfor KI
-- OK   4 rad 251 (W2121271519, vikarer og arbeidsledige med muskel- og ) KI symmetrisk på log-skala (avvik 0.00)
-- FEIL 2 sitat rad 252 (W2121271519, vikarer og arbeidsledige med muskel- og ) ble IKKE funnet på oppgitt side
-- OK   3 estimat=161 rad 252 (W2121271519, vikarer og arbeidsledige med muskel- og ) står i sitatet
-- FEIL 2 sitat rad 253 (W2121271519, vikarer og arbeidsledige med muskel- og ) ble IKKE funnet på oppgitt side
-- OK   3 estimat=160 rad 253 (W2121271519, vikarer og arbeidsledige med muskel- og ) står i sitatet
-- OK   2 sitat rad 254 (W2507610517, arbeidstakere uten arbeidskontrakt, psyk) står på oppgitt side
-- OK   3 estimat=1.15 rad 254 (W2507610517, arbeidstakere uten arbeidskontrakt, psyk) står i sitatet
-- OK   3 ki_lav=0.61 rad 254 (W2507610517, arbeidstakere uten arbeidskontrakt, psyk) står i sitatet
-- OK   3 ki_hoy=2.16 rad 254 (W2507610517, arbeidstakere uten arbeidskontrakt, psyk) står i sitatet
-- OK   4 rad 254 (W2507610517, arbeidstakere uten arbeidskontrakt, psyk) estimat innenfor KI
-- OK   4 rad 254 (W2507610517, arbeidstakere uten arbeidskontrakt, psyk) KI symmetrisk på log-skala (avvik 0.00)
-- OK   2 sitat rad 255 (W2100697776, retur til arbeid etter minst seks ukers ) står på oppgitt side
-- FEIL 2 sitat rad 256 (W2792125217, pilotforsøk, langtidssykmeldte: antall s) ble IKKE funnet på oppgitt side
-- OK   3 estimat=1 rad 256 (W2792125217, pilotforsøk, langtidssykmeldte: antall s) står i sitatet
-- FEIL 2 sitat rad 257 (W1973614852, andel i intervensjonsgruppen som var til) ble IKKE funnet på oppgitt side
-- OK   3 estimat=61 rad 257 (W1973614852, andel i intervensjonsgruppen som var til) står i sitatet
-- FEIL 2 sitat rad 258 (W1973614852, median uker til retur i intervensjonsgru) ble IKKE funnet på oppgitt side
-- OK   3 estimat=7.71 rad 258 (W1973614852, median uker til retur i intervensjonsgru) står i sitatet
-- OK   3 ki_lav=1.71 rad 258 (W1973614852, median uker til retur i intervensjonsgru) står i sitatet
-- OK   3 ki_hoy=15.71 rad 258 (W1973614852, median uker til retur i intervensjonsgru) står i sitatet
-- OK   4 rad 258 (W1973614852, median uker til retur i intervensjonsgru) estimat innenfor KI
-- FEIL 2 sitat rad 259 (W7127178060, selvrapporterte fraværsdager over 6 måne) ble IKKE funnet på oppgitt side
-- OK   3 estimat=0.913 rad 259 (W7127178060, selvrapporterte fraværsdager over 6 måne) står i sitatet
-- OK   3 ki_lav=0.653 rad 259 (W7127178060, selvrapporterte fraværsdager over 6 måne) står i sitatet
-- OK   3 ki_hoy=1.276 rad 259 (W7127178060, selvrapporterte fraværsdager over 6 måne) står i sitatet
-- OK   4 rad 259 (W7127178060, selvrapporterte fraværsdager over 6 måne) estimat innenfor KI
-- OK   4 rad 259 (W7127178060, selvrapporterte fraværsdager over 6 måne) KI symmetrisk på log-skala (avvik 0.00)
-- FEIL 2 sitat rad 260 (W7127178060, gjennomsnittlige fraværsdager over 6 mån) ble IKKE funnet på oppgitt side
-- OK   3 estimat=37.86 rad 260 (W7127178060, gjennomsnittlige fraværsdager over 6 mån) står i sitatet
-- FEIL 2 sitat rad 261 (W2771627068, muskel- og skjelettlidelser og lettere p) ble IKKE funnet på oppgitt side
-- OK   3 estimat=30 rad 261 (W2771627068, muskel- og skjelettlidelser og lettere p) står i sitatet
-- FEIL 2 sitat rad 262 (W2771627068, muskel- og skjelettlidelser og lettere p) ble IKKE funnet på oppgitt side
-- OK   3 estimat=10.4 rad 262 (W2771627068, muskel- og skjelettlidelser og lettere p) står i sitatet
-- FEIL 2 sitat rad 263 (W4414965353, psykiske lidelser (CMD): tid til full re) ble IKKE funnet på oppgitt side
-- OK   3 estimat=0.89 rad 263 (W4414965353, psykiske lidelser (CMD): tid til full re) står i sitatet
-- OK   3 ki_lav=0.86 rad 263 (W4414965353, psykiske lidelser (CMD): tid til full re) står i sitatet
-- OK   3 ki_hoy=0.93 rad 263 (W4414965353, psykiske lidelser (CMD): tid til full re) står i sitatet
-- OK   4 rad 263 (W4414965353, psykiske lidelser (CMD): tid til full re) estimat innenfor KI
-- OK   4 rad 263 (W4414965353, psykiske lidelser (CMD): tid til full re) KI symmetrisk på log-skala (avvik 0.01)
-- FEIL 2 sitat rad 264 (W4414965353, psykiske lidelser (CMD): tid til full re) ble IKKE funnet på oppgitt side
-- OK   3 estimat=0.82 rad 264 (W4414965353, psykiske lidelser (CMD): tid til full re) står i sitatet
-- OK   3 ki_lav=0.77 rad 264 (W4414965353, psykiske lidelser (CMD): tid til full re) står i sitatet
-- OK   3 ki_hoy=0.88 rad 264 (W4414965353, psykiske lidelser (CMD): tid til full re) står i sitatet
-- OK   4 rad 264 (W4414965353, psykiske lidelser (CMD): tid til full re) estimat innenfor KI
-- OK   4 rad 264 (W4414965353, psykiske lidelser (CMD): tid til full re) KI symmetrisk på log-skala (avvik 0.01)
-- FEIL 2 sitat rad 265 (W4414965353, psykiske lidelser (CMD): tid til full re) ble IKKE funnet på oppgitt side
-- OK   3 estimat=0.84 rad 265 (W4414965353, psykiske lidelser (CMD): tid til full re) står i sitatet
-- OK   3 ki_lav=0.79 rad 265 (W4414965353, psykiske lidelser (CMD): tid til full re) står i sitatet
-- OK   3 ki_hoy=0.89 rad 265 (W4414965353, psykiske lidelser (CMD): tid til full re) står i sitatet
-- OK   4 rad 265 (W4414965353, psykiske lidelser (CMD): tid til full re) estimat innenfor KI
-- OK   4 rad 265 (W4414965353, psykiske lidelser (CMD): tid til full re) KI symmetrisk på log-skala (avvik 0.00)
-- OK   2 sitat rad 266 (W3009296559, sammenligning av reformer i sykefravær o) står på oppgitt side
-- FEIL 2 sitat rad 269 (W2412604146, retur til arbeid, muskel- og skjelettpla) ble IKKE funnet på oppgitt side
-- OK   3 estimat=1.8 rad 269 (W2412604146, retur til arbeid, muskel- og skjelettpla) står i sitatet
-- OK   3 ki_lav=1.2 rad 269 (W2412604146, retur til arbeid, muskel- og skjelettpla) står i sitatet
-- OK   3 ki_hoy=2.8 rad 269 (W2412604146, retur til arbeid, muskel- og skjelettpla) står i sitatet
-- OK   4 rad 269 (W2412604146, retur til arbeid, muskel- og skjelettpla) estimat innenfor KI
-- OK   4 rad 269 (W2412604146, retur til arbeid, muskel- og skjelettpla) KI symmetrisk på log-skala (avvik 0.04)
-- FEIL 2 sitat rad 270 (W4294879451, retur til arbeid ved 12 måneder, fem stu) ble IKKE funnet på oppgitt side
-- OK   3 estimat=1.04 rad 270 (W4294879451, retur til arbeid ved 12 måneder, fem stu) står i sitatet
-- OK   3 ki_lav=0.86 rad 270 (W4294879451, retur til arbeid ved 12 måneder, fem stu) står i sitatet
-- OK   3 ki_hoy=1.25 rad 270 (W4294879451, retur til arbeid ved 12 måneder, fem stu) står i sitatet
-- OK   4 rad 270 (W4294879451, retur til arbeid ved 12 måneder, fem stu) estimat innenfor KI
-- OK   4 rad 270 (W4294879451, retur til arbeid ved 12 måneder, fem stu) KI symmetrisk på log-skala (avvik 0.01)
-- FEIL 2 sitat rad 271 (W2796572035, uker i ordinært arbeid første år etter r) ble IKKE funnet på oppgitt side
-- OK   3 estimat=-0.859 rad 271 (W2796572035, uker i ordinært arbeid første år etter r) står i sitatet
-- FEIL 2 sitat rad 272 (W2796572035, uker sykmeldt første år: forventet nedga) ble IKKE funnet på oppgitt side
-- OK   3 estimat=3.5 rad 272 (W2796572035, uker sykmeldt første år: forventet nedga) står i sitatet
-- FEIL 2 sitat rad 273 (W3170959179, antall sykefraværstilfeller etter mot fø) ble IKKE funnet på oppgitt side
-- OK   3 estimat=1.08 rad 273 (W3170959179, antall sykefraværstilfeller etter mot fø) står i sitatet
-- OK   3 ki_lav=1.06 rad 273 (W3170959179, antall sykefraværstilfeller etter mot fø) står i sitatet
-- OK   3 ki_hoy=1.10 rad 273 (W3170959179, antall sykefraværstilfeller etter mot fø) står i sitatet
-- OK   4 rad 273 (W3170959179, antall sykefraværstilfeller etter mot fø) estimat innenfor KI
-- OK   4 rad 273 (W3170959179, antall sykefraværstilfeller etter mot fø) KI symmetrisk på log-skala (avvik 0.00)
-- OK   2 sitat rad 274 (W1606668257, samlet sykefravær, arbeidsdager per år, ) står på oppgitt side
-- OK   3 estimat=-16.18 rad 274 (W1606668257, samlet sykefravær, arbeidsdager per år, ) står i sitatet
-- OK   3 ki_lav=-32.42 rad 274 (W1606668257, samlet sykefravær, arbeidsdager per år, ) står i sitatet
-- OK   3 ki_hoy=0.06 rad 274 (W1606668257, samlet sykefravær, arbeidsdager per år, ) står i sitatet
-- OK   4 rad 274 (W1606668257, samlet sykefravær, arbeidsdager per år, ) estimat innenfor KI
-- FEIL 2 sitat rad 275 (W4386883739, forskjell i median antall netto sykefrav) ble IKKE funnet på oppgitt side
-- OK   3 estimat=20 rad 275 (W4386883739, forskjell i median antall netto sykefrav) står i sitatet
-- FEIL 2 sitat rad 276 (W7165684937, risiko for arbeidsuførhet (uførepensjon ) ble IKKE funnet på oppgitt side
-- OK   3 estimat=2.45 rad 276 (W7165684937, risiko for arbeidsuførhet (uførepensjon ) står i sitatet
-- OK   3 ki_lav=1.83 rad 276 (W7165684937, risiko for arbeidsuførhet (uførepensjon ) står i sitatet
-- OK   3 ki_hoy=3.29 rad 276 (W7165684937, risiko for arbeidsuførhet (uførepensjon ) står i sitatet
-- OK   4 rad 276 (W7165684937, risiko for arbeidsuførhet (uførepensjon ) estimat innenfor KI
-- OK   4 rad 276 (W7165684937, risiko for arbeidsuførhet (uførepensjon ) KI symmetrisk på log-skala (avvik 0.00)
-- FEIL 2 sitat rad 277 (W7165684937, risiko for arbeidsuførhet; første støtte) ble IKKE funnet på oppgitt side
-- OK   3 estimat=1.41 rad 277 (W7165684937, risiko for arbeidsuførhet; første støtte) står i sitatet
-- OK   3 ki_lav=1.22 rad 277 (W7165684937, risiko for arbeidsuførhet; første støtte) står i sitatet
-- OK   3 ki_hoy=1.64 rad 277 (W7165684937, risiko for arbeidsuførhet; første støtte) står i sitatet
-- OK   4 rad 277 (W7165684937, risiko for arbeidsuførhet; første støtte) estimat innenfor KI
-- OK   4 rad 277 (W7165684937, risiko for arbeidsuførhet; første støtte) KI symmetrisk på log-skala (avvik 0.01)
-- FEIL 2 sitat rad 278 (W4387231342, sysselsatt ett år etter 90 sykepengedage) ble IKKE funnet på oppgitt side
-- OK   3 estimat=0.981 rad 278 (W4387231342, sysselsatt ett år etter 90 sykepengedage) står i sitatet
-- OK   3 ki_lav=0.960 rad 278 (W4387231342, sysselsatt ett år etter 90 sykepengedage) står i sitatet
-- OK   3 ki_hoy=1.002 rad 278 (W4387231342, sysselsatt ett år etter 90 sykepengedage) står i sitatet
-- OK   4 rad 278 (W4387231342, sysselsatt ett år etter 90 sykepengedage) estimat innenfor KI
-- OK   4 rad 278 (W4387231342, sysselsatt ett år etter 90 sykepengedage) KI symmetrisk på log-skala (avvik 0.00)
-- FEIL 2 sitat rad 279 (W2215805610, årlig gevinst i arbeidsdeltakelse, ansat) ble IKKE funnet på oppgitt side
-- OK   3 estimat=51.8 rad 279 (W2215805610, årlig gevinst i arbeidsdeltakelse, ansat) står i sitatet
-- FEIL 2 sitat rad 280 (W4302588647, tilgang til uføreytelser (innstrøm), rel) ble IKKE funnet på oppgitt side
-- OK   3 estimat=20 rad 280 (W4302588647, tilgang til uføreytelser (innstrøm), rel) står i sitatet
-- FEIL 2 sitat rad 281 (W3162733289, sykefraværsdager de neste 16 månedene, r) ble IKKE funnet på oppgitt side
-- OK   3 estimat=5.5 rad 281 (W3162733289, sykefraværsdager de neste 16 månedene, r) står i sitatet
-- FEIL 2 sitat rad 284 (KU-d2e7857c-2757-4736-b1d4-8750274e966e, retur til arbeid ved tilrettelegging av ) ble IKKE funnet på oppgitt side
-- OK   3 estimat=1.47 rad 284 (KU-d2e7857c-2757-4736-b1d4-8750274e966e, retur til arbeid ved tilrettelegging av ) står i sitatet
-- OK   3 ki_lav=1.25 rad 284 (KU-d2e7857c-2757-4736-b1d4-8750274e966e, retur til arbeid ved tilrettelegging av ) står i sitatet
-- OK   3 ki_hoy=1.72 rad 284 (KU-d2e7857c-2757-4736-b1d4-8750274e966e, retur til arbeid ved tilrettelegging av ) står i sitatet
-- OK   4 rad 284 (KU-d2e7857c-2757-4736-b1d4-8750274e966e, retur til arbeid ved tilrettelegging av ) estimat innenfor KI
-- OK   4 rad 284 (KU-d2e7857c-2757-4736-b1d4-8750274e966e, retur til arbeid ved tilrettelegging av ) KI symmetrisk på log-skala (avvik 0.01)
-- FEIL 2 sitat rad 287 (W2219647517, fraværsdager per kvartal, reduksjon ette) ble IKKE funnet på oppgitt side
-- OK   3 estimat=49 rad 287 (W2219647517, fraværsdager per kvartal, reduksjon ette) står i sitatet
-- FEIL 2 sitat rad 288 (W2219647517, sannsynlighet for å være borte i et kvar) ble IKKE funnet på oppgitt side
-- OK   3 estimat=25.7 rad 288 (W2219647517, sannsynlighet for å være borte i et kvar) står i sitatet
-- FEIL 2 sitat rad 289 (W2219647517, varighet av fraværsperioder over 10 dage) ble IKKE funnet på oppgitt side
-- OK   3 estimat=19 rad 289 (W2219647517, varighet av fraværsperioder over 10 dage) står i sitatet
-- FEIL 2 sitat rad 291 (W2171985774, retur til arbeid, justert OR (tabell)) ble IKKE funnet på oppgitt side
-- OK   3 estimat=1.869 rad 291 (W2171985774, retur til arbeid, justert OR (tabell)) står i sitatet
-- OK   3 ki_lav=1.164 rad 291 (W2171985774, retur til arbeid, justert OR (tabell)) står i sitatet
-- OK   3 ki_hoy=3.002 rad 291 (W2171985774, retur til arbeid, justert OR (tabell)) står i sitatet
-- OK   4 rad 291 (W2171985774, retur til arbeid, justert OR (tabell)) estimat innenfor KI
-- OK   4 rad 291 (W2171985774, retur til arbeid, justert OR (tabell)) KI symmetrisk på log-skala (avvik 0.00)
-- FEIL 2 sitat rad 292 (W2171985774, retur til arbeid, justert OR (tabell)) ble IKKE funnet på oppgitt side
-- OK   3 estimat=1.573 rad 292 (W2171985774, retur til arbeid, justert OR (tabell)) står i sitatet
-- OK   3 ki_lav=1.030 rad 292 (W2171985774, retur til arbeid, justert OR (tabell)) står i sitatet
-- OK   3 ki_hoy=2.404 rad 292 (W2171985774, retur til arbeid, justert OR (tabell)) står i sitatet
-- OK   4 rad 292 (W2171985774, retur til arbeid, justert OR (tabell)) estimat innenfor KI
-- OK   4 rad 292 (W2171985774, retur til arbeid, justert OR (tabell)) KI symmetrisk på log-skala (avvik 0.00)
-- FEIL 2 sitat rad 293 (W2171985774, andel helt eller delvis tilbake i arbeid) ble IKKE funnet på oppgitt side
-- OK   3 estimat=19 rad 293 (W2171985774, andel helt eller delvis tilbake i arbeid) står i sitatet
-- FEIL 2 sitat rad 294 (W1944603683, nedgang i gjennomsnittlig varighet av fr) ble IKKE funnet på oppgitt side
-- OK   3 estimat=3.8 rad 294 (W1944603683, nedgang i gjennomsnittlig varighet av fr) står i sitatet
-- FEIL 2 sitat rad 295 (W2566789032, sannsynlighet for full uførepensjon, for) ble IKKE funnet på oppgitt side
-- OK   3 estimat=0.80 rad 295 (W2566789032, sannsynlighet for full uførepensjon, for) står i sitatet
-- OK   3 ki_lav=0.64 rad 295 (W2566789032, sannsynlighet for full uførepensjon, for) står i sitatet
-- OK   3 ki_hoy=0.99 rad 295 (W2566789032, sannsynlighet for full uførepensjon, for) står i sitatet
-- OK   4 rad 295 (W2566789032, sannsynlighet for full uførepensjon, for) estimat innenfor KI
-- OK   4 rad 295 (W2566789032, sannsynlighet for full uførepensjon, for) KI symmetrisk på log-skala (avvik 0.01)
-- OK   2 sitat rad 296 (W2885574758, gjennomsnittlig antall fraværsdager per ) står på oppgitt side
-- OK   3 estimat=-0.32 rad 296 (W2885574758, gjennomsnittlig antall fraværsdager per ) står i sitatet
-- OK   3 ki_lav=-0.39 rad 296 (W2885574758, gjennomsnittlig antall fraværsdager per ) står i sitatet
-- OK   3 ki_hoy=-0.25 rad 296 (W2885574758, gjennomsnittlig antall fraværsdager per ) står i sitatet
-- OK   4 rad 296 (W2885574758, gjennomsnittlig antall fraværsdager per ) estimat innenfor KI
-- OK   2 sitat rad 297 (W2885574758, tapt arbeidstid ved fraværstilfeller (sa) står på oppgitt side
-- OK   3 estimat=-2.84 rad 297 (W2885574758, tapt arbeidstid ved fraværstilfeller (sa) står i sitatet
-- OK   3 ki_lav=-3.35 rad 297 (W2885574758, tapt arbeidstid ved fraværstilfeller (sa) står i sitatet
-- OK   3 ki_hoy=-2.33 rad 297 (W2885574758, tapt arbeidstid ved fraværstilfeller (sa) står i sitatet
-- OK   4 rad 297 (W2885574758, tapt arbeidstid ved fraværstilfeller (sa) estimat innenfor KI
-- FEIL 2 sitat rad 304 (W2128132260, reduksjon i sykefraværsdager per ansatt ) ble IKKE funnet på oppgitt side
-- OK   3 estimat=0.26 rad 304 (W2128132260, reduksjon i sykefraværsdager per ansatt ) står i sitatet
-- FEIL 2 sitat rad 305 (W2128132260, reduksjon i sykefraværsdager per ansatt ) ble IKKE funnet på oppgitt side
-- OK   3 estimat=1.6 rad 305 (W2128132260, reduksjon i sykefraværsdager per ansatt ) står i sitatet
-- FEIL 2 sitat rad 306 (W2128969319, ingen effektestimat; sammenligner hvorda) ble IKKE funnet på oppgitt side
-- OK   2 sitat rad 307 (W2073048698, median sykefraværsdager, proaktiv strate) står på oppgitt side
-- OK   3 estimat=70 rad 307 (W2073048698, median sykefraværsdager, proaktiv strate) står i sitatet
-- OK   2 sitat rad 308 (W2073048698, andel tilbake i arbeid før 50 uker, proa) står på oppgitt side
-- OK   3 estimat=89 rad 308 (W2073048698, andel tilbake i arbeid før 50 uker, proa) står i sitatet
-- OK   2 sitat rad 310 (W2801799360, ingen effektestimat i sammendraget (over) står på oppgitt side
-- OK   2 sitat rad 311 (W3003410595, ingen effektestimat i teksten: scoping r) står på oppgitt side
-- OK   2 sitat rad 312 (W2136583321, ingen effektestimat i sammendraget: inge) står på oppgitt side
-- FEIL 2 sitat rad 313 (W2585080834, dager tidligere varig retur til arbeid i) ble IKKE funnet på oppgitt side
-- OK   3 estimat=6.6 rad 313 (W2585080834, dager tidligere varig retur til arbeid i) står i sitatet
-- FEIL 2 sitat rad 314 (0198f6097f34-942bda84-c442-45f3-bee4-ae2a5dfadb8a, retur til arbeid etter ett år; gjengitt ) ble IKKE funnet på oppgitt side
-- OK   3 estimat=1.87 rad 314 (0198f6097f34-942bda84-c442-45f3-bee4-ae2a5dfadb8a, retur til arbeid etter ett år; gjengitt ) står i sitatet
-- OK   3 ki_lav=1.06 rad 314 (0198f6097f34-942bda84-c442-45f3-bee4-ae2a5dfadb8a, retur til arbeid etter ett år; gjengitt ) står i sitatet
-- OK   3 ki_hoy=3.31 rad 314 (0198f6097f34-942bda84-c442-45f3-bee4-ae2a5dfadb8a, retur til arbeid etter ett år; gjengitt ) står i sitatet
-- OK   4 rad 314 (0198f6097f34-942bda84-c442-45f3-bee4-ae2a5dfadb8a, retur til arbeid etter ett år; gjengitt ) estimat innenfor KI
-- OK   4 rad 314 (0198f6097f34-942bda84-c442-45f3-bee4-ae2a5dfadb8a, retur til arbeid etter ett år; gjengitt ) KI symmetrisk på log-skala (avvik 0.00)
-- FEIL 2 sitat rad 315 (0198f6097f34-942bda84-c442-45f3-bee4-ae2a5dfadb8a, andel med varig retur til arbeid etter 1) ble IKKE funnet på oppgitt side
-- OK   3 estimat=42 rad 315 (0198f6097f34-942bda84-c442-45f3-bee4-ae2a5dfadb8a, andel med varig retur til arbeid etter 1) står i sitatet
-- FEIL 2 sitat rad 316 (0198f6097f34-942bda84-c442-45f3-bee4-ae2a5dfadb8a, retur til arbeid etter 12 måneder; gjeng) ble IKKE funnet på oppgitt side
-- OK   3 estimat=0.91 rad 316 (0198f6097f34-942bda84-c442-45f3-bee4-ae2a5dfadb8a, retur til arbeid etter 12 måneder; gjeng) står i sitatet
-- OK   3 ki_lav=0.73 rad 316 (0198f6097f34-942bda84-c442-45f3-bee4-ae2a5dfadb8a, retur til arbeid etter 12 måneder; gjeng) står i sitatet
-- OK   3 ki_hoy=1.13 rad 316 (0198f6097f34-942bda84-c442-45f3-bee4-ae2a5dfadb8a, retur til arbeid etter 12 måneder; gjeng) står i sitatet
-- OK   4 rad 316 (0198f6097f34-942bda84-c442-45f3-bee4-ae2a5dfadb8a, retur til arbeid etter 12 måneder; gjeng) estimat innenfor KI
-- OK   4 rad 316 (0198f6097f34-942bda84-c442-45f3-bee4-ae2a5dfadb8a, retur til arbeid etter 12 måneder; gjeng) KI symmetrisk på log-skala (avvik 0.00)
-- FEIL 2 sitat rad 317 (0198f6097f34-942bda84-c442-45f3-bee4-ae2a5dfadb8a, andel i fullt arbeid etter 36 måneder, k) ble IKKE funnet på oppgitt side
-- OK   3 estimat=30.8 rad 317 (0198f6097f34-942bda84-c442-45f3-bee4-ae2a5dfadb8a, andel i fullt arbeid etter 36 måneder, k) står i sitatet
-- FEIL 2 sitat rad 318 (W1527178697, retur til arbeid (hasardfaktor, Cox-mode) ble IKKE funnet på oppgitt side
-- OK   3 estimat=1.69 rad 318 (W1527178697, retur til arbeid (hasardfaktor, Cox-mode) står i sitatet
-- FEIL 2 sitat rad 319 (W1527178697, retur til arbeid (hasardfaktor, Cox-mode) ble IKKE funnet på oppgitt side
-- OK   3 estimat=1.34 rad 319 (W1527178697, retur til arbeid (hasardfaktor, Cox-mode) står i sitatet
-- FEIL 2 sitat rad 320 (W1527178697, retur til arbeid (hasardfaktor, Cox-mode) ble IKKE funnet på oppgitt side
-- OK   3 estimat=1.23 rad 320 (W1527178697, retur til arbeid (hasardfaktor, Cox-mode) står i sitatet
-- FEIL 2 sitat rad 321 (W2255616778, andel oversikter med effekt i positiv re) ble IKKE funnet på oppgitt side
-- OK   3 estimat=71 rad 321 (W2255616778, andel oversikter med effekt i positiv re) står i sitatet
-- FEIL 2 sitat rad 322 (W2974066945, ingen effektestimat i teksten: oversikt ) ble IKKE funnet på oppgitt side
-- OK   2 sitat rad 323 (W1595917770, ingen effektestimat i sammendraget: endr) står på oppgitt side
-- OK   2 sitat rad 324 (W1635594204, sykefraværsprosent året etter programmet) står på oppgitt side
-- OK   3 estimat=7.93 rad 324 (W1635594204, sykefraværsprosent året etter programmet) står i sitatet
-- OK   2 sitat rad 325 (W1997959920, andel med tilbakefall til ny sykmelding,) står på oppgitt side
-- OK   3 estimat=38 rad 325 (W1997959920, andel med tilbakefall til ny sykmelding,) står i sitatet
-- FEIL 2 sitat rad 327 (W2219647517, sannsynlighet for å være fraværende mins) ble IKKE funnet på oppgitt side
-- OK   3 estimat=0.29 rad 327 (W2219647517, sannsynlighet for å være fraværende mins) står i sitatet
-- FEIL 2 sitat rad 328 (W1732288, andel som kommer i arbeid, Pathways to W) ble IKKE funnet på oppgitt side
-- OK   3 estimat=7 rad 328 (W1732288, andel som kommer i arbeid, Pathways to W) står i sitatet
-- OK   2 sitat rad 330 (W2063500338, ingen tallfestet effekt i sammendraget: ) står på oppgitt side
-- FEIL 2 sitat rad 331 (W4220879318, retur til arbeid (hel, delvis eller førs) ble IKKE funnet på oppgitt side
-- OK   3 estimat=1.09 rad 331 (W4220879318, retur til arbeid (hel, delvis eller førs) står i sitatet
-- OK   3 ki_lav=0.99 rad 331 (W4220879318, retur til arbeid (hel, delvis eller førs) står i sitatet
-- OK   3 ki_hoy=1.19 rad 331 (W4220879318, retur til arbeid (hel, delvis eller førs) står i sitatet
-- OK   4 rad 331 (W4220879318, retur til arbeid (hel, delvis eller førs) estimat innenfor KI
-- OK   4 rad 331 (W4220879318, retur til arbeid (hel, delvis eller førs) KI symmetrisk på log-skala (avvik 0.01)
-- FEIL 2 sitat rad 332 (W4220879318, full retur til arbeid, RR for de sju ran) ble IKKE funnet på oppgitt side
-- OK   3 estimat=0.96 rad 332 (W4220879318, full retur til arbeid, RR for de sju ran) står i sitatet
-- OK   3 ki_lav=0.86 rad 332 (W4220879318, full retur til arbeid, RR for de sju ran) står i sitatet
-- OK   3 ki_hoy=1.07 rad 332 (W4220879318, full retur til arbeid, RR for de sju ran) står i sitatet
-- OK   4 rad 332 (W4220879318, full retur til arbeid, RR for de sju ran) estimat innenfor KI
-- OK   4 rad 332 (W4220879318, full retur til arbeid, RR for de sju ran) KI symmetrisk på log-skala (avvik 0.00)
-- FEIL 2 sitat rad 333 (W4220879318, retur til arbeid (hel, delvis eller førs) ble IKKE funnet på oppgitt side
-- OK   3 estimat=1.32 rad 333 (W4220879318, retur til arbeid (hel, delvis eller førs) står i sitatet
-- OK   3 ki_lav=1.06 rad 333 (W4220879318, retur til arbeid (hel, delvis eller førs) står i sitatet
-- OK   3 ki_hoy=1.65 rad 333 (W4220879318, retur til arbeid (hel, delvis eller førs) står i sitatet
-- OK   4 rad 333 (W4220879318, retur til arbeid (hel, delvis eller førs) estimat innenfor KI
-- OK   4 rad 333 (W4220879318, retur til arbeid (hel, delvis eller førs) KI symmetrisk på log-skala (avvik 0.00)
-- OK   2 sitat rad 334 (W1525215440, varighet av sykefraværstilfellet) står på oppgitt side
-- OK   3 estimat=30 rad 334 (W1525215440, varighet av sykefraværstilfellet) står i sitatet
-- FEIL 2 sitat rad 335 (W2259782559, rate for friskmelding (reduksjon i prose) ble IKKE funnet på oppgitt side
-- OK   3 estimat=37.1 rad 335 (W2259782559, rate for friskmelding (reduksjon i prose) står i sitatet
-- FEIL 2 sitat rad 336 (W2259782559, rate for friskmelding (reduksjon i prose) ble IKKE funnet på oppgitt side
-- OK   3 estimat=38.5 rad 336 (W2259782559, rate for friskmelding (reduksjon i prose) står i sitatet
-- FEIL 2 sitat rad 337 (W2259782559, rate for friskmelding (reduksjon i prose) ble IKKE funnet på oppgitt side
-- OK   3 estimat=37.4 rad 337 (W2259782559, rate for friskmelding (reduksjon i prose) står i sitatet
-- FEIL 2 sitat rad 338 (W3124462499, rate for friskmelding (reduksjon i prose) ble IKKE funnet på oppgitt side
-- OK   3 estimat=30 rad 338 (W3124462499, rate for friskmelding (reduksjon i prose) står i sitatet
-- FEIL 2 sitat rad 339 (W3124462499, rate for friskmelding (reduksjon i prose) ble IKKE funnet på oppgitt side
-- OK   3 estimat=52 rad 339 (W3124462499, rate for friskmelding (reduksjon i prose) står i sitatet
-- OK   2 sitat rad 340 (W1620640418, andel i arbeid 24 måneder etter rehabili) står på oppgitt side
-- OK   3 estimat=68.6 rad 340 (W1620640418, andel i arbeid 24 måneder etter rehabili) står i sitatet
-- OK   2 sitat rad 341 (W1620640418, andel i arbeid 24 måneder etter rehabili) står på oppgitt side
-- OK   3 estimat=49 rad 341 (W1620640418, andel i arbeid 24 måneder etter rehabili) står i sitatet
-- OK   2 sitat rad 342 (W2015245420, andel i arbeid tre år etter tiltaket, ti) står på oppgitt side
-- OK   3 estimat=59 rad 342 (W2015245420, andel i arbeid tre år etter tiltaket, ti) står i sitatet
-- OK   2 sitat rad 343 (W2015245420, andel i arbeid seks år etter tiltaket, t) står på oppgitt side
-- OK   3 estimat=51 rad 343 (W2015245420, andel i arbeid seks år etter tiltaket, t) står i sitatet
-- FEIL 2 sitat rad 344 (W3165059038, sannsynlighet for å komme tilbake i arbe) ble IKKE funnet på oppgitt side
-- OK   3 estimat=18.9 rad 344 (W3165059038, sannsynlighet for å komme tilbake i arbe) står i sitatet
-- FEIL 2 sitat rad 345 (W3165059038, andel tilbake i arbeid blant deltakere i) ble IKKE funnet på oppgitt side
-- OK   3 estimat=52.0 rad 345 (W3165059038, andel tilbake i arbeid blant deltakere i) står i sitatet
-- FEIL 2 sitat rad 346 (W4407881389, sykefraværsdager etter ett år, gjengitt ) ble IKKE funnet på oppgitt side
-- OK   3 estimat=-11 rad 346 (W4407881389, sykefraværsdager etter ett år, gjengitt ) står i sitatet
-- FEIL 2 sitat rad 347 (W4407881389, sykefraværsdager, gjengitt fra Tarro 202) ble IKKE funnet på oppgitt side
-- OK   3 estimat=-1.56 rad 347 (W4407881389, sykefraværsdager, gjengitt fra Tarro 202) står i sitatet
-- OK   3 ki_lav=-2.67 rad 347 (W4407881389, sykefraværsdager, gjengitt fra Tarro 202) står i sitatet
-- OK   3 ki_hoy=-0.44 rad 347 (W4407881389, sykefraværsdager, gjengitt fra Tarro 202) står i sitatet
-- OK   4 rad 347 (W4407881389, sykefraværsdager, gjengitt fra Tarro 202) estimat innenfor KI
-- FEIL 2 sitat rad 348 (W4417438054, sykefraværsdager, samlet effekt (11 stud) ble IKKE funnet på oppgitt side
-- OK   3 estimat=-0.18 rad 348 (W4417438054, sykefraværsdager, samlet effekt (11 stud) står i sitatet
-- OK   3 ki_lav=-2.80 rad 348 (W4417438054, sykefraværsdager, samlet effekt (11 stud) står i sitatet
-- OK   3 ki_hoy=2.43 rad 348 (W4417438054, sykefraværsdager, samlet effekt (11 stud) står i sitatet
-- OK   4 rad 348 (W4417438054, sykefraværsdager, samlet effekt (11 stud) estimat innenfor KI
-- FEIL 2 sitat rad 349 (W4417438054, avkastning for bedriften (ROI), beslekte) ble IKKE funnet på oppgitt side
-- OK   3 estimat=1.92 rad 349 (W4417438054, avkastning for bedriften (ROI), beslekte) står i sitatet
-- OK   3 ki_lav=-0.34 rad 349 (W4417438054, avkastning for bedriften (ROI), beslekte) står i sitatet
-- OK   3 ki_hoy=4.17 rad 349 (W4417438054, avkastning for bedriften (ROI), beslekte) står i sitatet
-- OK   4 rad 349 (W4417438054, avkastning for bedriften (ROI), beslekte) estimat innenfor KI
-- FEIL 2 sitat rad 350 (W2131314409, odds for sykefravær 2001–2007, ujustert ) ble IKKE funnet på oppgitt side
-- OK   3 estimat=10 rad 350 (W2131314409, odds for sykefravær 2001–2007, ujustert ) står i sitatet
-- FEIL 2 sitat rad 351 (W3185498031, sykedager i korte sykefravær (under 8 da) ble IKKE funnet på oppgitt side
-- OK   3 estimat=4.9 rad 351 (W3185498031, sykedager i korte sykefravær (under 8 da) står i sitatet
-- FEIL 2 sitat rad 355 (W2991134608, legemeldt sykefravær etter inngått IA-av) ble IKKE funnet på oppgitt side
-- OK   3 estimat=0.25 rad 355 (W2991134608, legemeldt sykefravær etter inngått IA-av) står i sitatet
-- FEIL 2 sitat rad 356 (W2991134608, fraværsrate i næringen ved 10 prosentpoe) ble IKKE funnet på oppgitt side
-- OK   3 estimat=1 rad 356 (W2991134608, fraværsrate i næringen ved 10 prosentpoe) står i sitatet
-- FEIL 2 sitat rad 357 (W2991134608, endring i total sykefraværsprosent fra 2) ble IKKE funnet på oppgitt side
-- OK   3 estimat=3.1 rad 357 (W2991134608, endring i total sykefraværsprosent fra 2) står i sitatet
-- FEIL 2 sitat rad 358 (W1501193741, sykefravær etter 2004-reformen (dokument) ble IKKE funnet på oppgitt side
-- OK   3 estimat=18.8 rad 358 (W1501193741, sykefravær etter 2004-reformen (dokument) står i sitatet
-- FEIL 2 sitat rad 359 (W1501193741, sykefravær, del som skyldes kortere vari) ble IKKE funnet på oppgitt side
-- OK   3 estimat=11.7 rad 359 (W1501193741, sykefravær, del som skyldes kortere vari) står i sitatet
-- FEIL 2 sitat rad 360 (W1501193741, sykefravær, del som skyldes færre nye ti) ble IKKE funnet på oppgitt side
-- OK   3 estimat=7.1 rad 360 (W1501193741, sykefravær, del som skyldes færre nye ti) står i sitatet
-- FEIL 2 sitat rad 361 (W1732288, økning i andel som kommer tilbake i arbe) ble IKKE funnet på oppgitt side
-- OK   3 estimat=9 rad 361 (W1732288, økning i andel som kommer tilbake i arbe) står i sitatet
-- FEIL 2 sitat rad 362 (W3165059038, økning i sannsynlighet for å komme tilba) ble IKKE funnet på oppgitt side
-- OK   3 estimat=8.2 rad 362 (W3165059038, økning i sannsynlighet for å komme tilba) står i sitatet
-- FEIL 2 sitat rad 363 (W3185498031, andel av redusert uttak av tillfällig fö) ble IKKE funnet på oppgitt side
-- OK   3 estimat=43 rad 363 (W3185498031, andel av redusert uttak av tillfällig fö) står i sitatet
-- FEIL 2 sitat rad 364 (W2991134608, andel virksomheter som gjennomfører dial) ble IKKE funnet på oppgitt side
-- OK   3 estimat=71 rad 364 (W2991134608, andel virksomheter som gjennomfører dial) står i sitatet
-- FEIL 2 sitat rad 365 (W2991134608, andel av målgruppen som har fått dialogm) ble IKKE funnet på oppgitt side
-- OK   3 estimat=31 rad 365 (W2991134608, andel av målgruppen som har fått dialogm) står i sitatet
-- FEIL 2 sitat rad 366 (R-e4323b5917, ingen effektestimat i teksten for tidlig) ble IKKE funnet på oppgitt side
-- FEIL 2 sitat rad 367 (R-ca4ebdc6a8, økning i ukentlig avgangsrate fra sykepe) ble IKKE funnet på oppgitt side
-- OK   3 estimat=1.3 rad 367 (R-ca4ebdc6a8, økning i ukentlig avgangsrate fra sykepe) står i sitatet
-- FEIL 2 sitat rad 368 (R-ca4ebdc6a8, nedgang i ukentlig avgangsrate fra sykep) ble IKKE funnet på oppgitt side
-- OK   3 estimat=1.3 rad 368 (R-ca4ebdc6a8, nedgang i ukentlig avgangsrate fra sykep) står i sitatet
-- FEIL 2 sitat rad 369 (R-ca4ebdc6a8, økning i ukentlig avgangsrate til arbeid) ble IKKE funnet på oppgitt side
-- OK   3 estimat=2 rad 369 (R-ca4ebdc6a8, økning i ukentlig avgangsrate til arbeid) står i sitatet
-- FEIL 2 sitat rad 370 (R-ca4ebdc6a8, dose-respons: økning i avgangsrate fra s) ble IKKE funnet på oppgitt side
-- OK   3 estimat=1.3 rad 370 (R-ca4ebdc6a8, dose-respons: økning i avgangsrate fra s) står i sitatet
-- FEIL 2 sitat rad 371 (R-5e8ea23282, dose-respons: økning i avgangsrate fra s) ble IKKE funnet på oppgitt side
-- OK   3 estimat=1.3 rad 371 (R-5e8ea23282, dose-respons: økning i avgangsrate fra s) står i sitatet
-- FEIL 2 sitat rad 372 (R-5e8ea23282, andel av deltakerne som hadde første opp) ble IKKE funnet på oppgitt side
-- OK   3 estimat=33 rad 372 (R-5e8ea23282, andel av deltakerne som hadde første opp) står i sitatet
-- OK   5 tallet 0.25 i svaret finnes i estimat- eller statistikktabellen
-- OK   5 tallet 0.35 i svaret finnes i estimat- eller statistikktabellen
-- OK   5 tallet 0.49 i svaret finnes i estimat- eller statistikktabellen
+- OK   2 sitat rad 34 (W2077733934, ingen effektestimat: narrativ syntese av) står på oppgitt side
+- OK   2 sitat rad 35 (W3014899208, ingen effektestimat: narrativ syntese; a) står på oppgitt side
+- OK   2 sitat rad 36 (W4229439392, antall av 47 inkluderte studier som rapp) står på oppgitt side
+- OK   3 estimat=25 rad 36 (W4229439392, antall av 47 inkluderte studier som rapp) står i sitatet
+- OK   2 sitat rad 37 (019904aa7986-0e4c2361-eb33-4871-9ab3-47b965597085, ingen effektestimat: kunnskapsoppsummeri) står på oppgitt side
+- OK   2 sitat rad 39 (019c24177f74-d0e4c927-93d4-4477-a70a-3ef207a9fbf4, ingen effektestimat: rask oppsummering a) står på oppgitt side
+- OK   2 sitat rad 40 (W2590965493, ingen effektestimat: evidenssyntese uten) står på oppgitt side
+- OK   2 sitat rad 41 (W2127823072, antall tiltak som reduserte sykefraværet) står på oppgitt side
+- OK   3 estimat=5 rad 41 (W2127823072, antall tiltak som reduserte sykefraværet) står i sitatet
+- OK   2 sitat rad 42 (W2094662502, ingen effektestimat i sammendraget; å in) står på oppgitt side
+- OK   2 sitat rad 43 (W2171828568, sykefravær, depresjon (3 studier, modera) står på oppgitt side
+- OK   3 estimat=-0.40 rad 43 (W2171828568, sykefravær, depresjon (3 studier, modera) står i sitatet
+- OK   3 ki_lav=-0.66 rad 43 (W2171828568, sykefravær, depresjon (3 studier, modera) står i sitatet
+- OK   3 ki_hoy=-0.14 rad 43 (W2171828568, sykefravær, depresjon (3 studier, modera) står i sitatet
+- OK   4 rad 43 (W2171828568, sykefravær, depresjon (3 studier, modera) estimat innenfor KI
+- OK   2 sitat rad 44 (W2171828568, sykefravær, depresjon (én studie, svært ) står på oppgitt side
+- OK   3 estimat=0.45 rad 44 (W2171828568, sykefravær, depresjon (én studie, svært ) står i sitatet
+- OK   3 ki_lav=-0.00 rad 44 (W2171828568, sykefravær, depresjon (én studie, svært ) står i sitatet
+- OK   3 ki_hoy=0.91 rad 44 (W2171828568, sykefravær, depresjon (én studie, svært ) står i sitatet
+- OK   4 rad 44 (W2171828568, sykefravær, depresjon (én studie, svært ) estimat innenfor KI
+- OK   2 sitat rad 45 (W2141051648, dager til delvis retur til arbeid etter ) står på oppgitt side
+- OK   3 estimat=-17.00 rad 45 (W2141051648, dager til delvis retur til arbeid etter ) står i sitatet
+- OK   3 ki_lav=-26.48 rad 45 (W2141051648, dager til delvis retur til arbeid etter ) står i sitatet
+- OK   3 ki_hoy=-7.52 rad 45 (W2141051648, dager til delvis retur til arbeid etter ) står i sitatet
+- OK   4 rad 45 (W2141051648, dager til delvis retur til arbeid etter ) estimat innenfor KI
+- OK   2 sitat rad 46 (W2141051648, dager til full retur til arbeid etter et) står på oppgitt side
+- OK   3 estimat=-17.73 rad 46 (W2141051648, dager til full retur til arbeid etter et) står i sitatet
+- OK   3 ki_lav=-37.35 rad 46 (W2141051648, dager til full retur til arbeid etter et) står i sitatet
+- OK   3 ki_hoy=1.90 rad 46 (W2141051648, dager til full retur til arbeid etter et) står i sitatet
+- OK   4 rad 46 (W2141051648, dager til full retur til arbeid etter et) estimat innenfor KI
+- OK   2 sitat rad 47 (W4410104943, ingen effektestimat i sammendraget (75 R) står på oppgitt side
+- OK   2 sitat rad 48 (W2810119800, retur til arbeid, samlet effektstørrelse) står på oppgitt side
+- OK   3 estimat=0.14 rad 48 (W2810119800, retur til arbeid, samlet effektstørrelse) står i sitatet
+- OK   3 ki_lav=0.07 rad 48 (W2810119800, retur til arbeid, samlet effektstørrelse) står i sitatet
+- OK   3 ki_hoy=0.22 rad 48 (W2810119800, retur til arbeid, samlet effektstørrelse) står i sitatet
+- OK   4 rad 48 (W2810119800, retur til arbeid, samlet effektstørrelse) estimat innenfor KI
+- OK   2 sitat rad 49 (W4396667274, arbeid eller arbeidet tid, økning i pros) står på oppgitt side
+- OK   3 estimat=6.2 rad 49 (W4396667274, arbeid eller arbeidet tid, økning i pros) står i sitatet
+- OK   2 sitat rad 50 (W4396667274, inngang eller retur til arbeid, psykiske) står på oppgitt side
+- OK   3 estimat=1.15 rad 50 (W4396667274, inngang eller retur til arbeid, psykiske) står i sitatet
+- OK   3 ki_lav=0.61 rad 50 (W4396667274, inngang eller retur til arbeid, psykiske) står i sitatet
+- OK   3 ki_hoy=2.16 rad 50 (W4396667274, inngang eller retur til arbeid, psykiske) står i sitatet
+- OK   4 rad 50 (W4396667274, inngang eller retur til arbeid, psykiske) estimat innenfor KI
+- OK   4 rad 50 (W4396667274, inngang eller retur til arbeid, psykiske) KI symmetrisk på log-skala (avvik 0.00)
+- OK   2 sitat rad 51 (W4396667274, inngang eller retur til arbeid, psykiske) står på oppgitt side
+- OK   3 estimat=0.96 rad 51 (W4396667274, inngang eller retur til arbeid, psykiske) står i sitatet
+- OK   3 ki_lav=0.71 rad 51 (W4396667274, inngang eller retur til arbeid, psykiske) står i sitatet
+- OK   3 ki_hoy=1.29 rad 51 (W4396667274, inngang eller retur til arbeid, psykiske) står i sitatet
+- OK   4 rad 51 (W4396667274, inngang eller retur til arbeid, psykiske) estimat innenfor KI
+- OK   4 rad 51 (W4396667274, inngang eller retur til arbeid, psykiske) KI symmetrisk på log-skala (avvik 0.01)
+- OK   2 sitat rad 52 (W2907932932, ingen effektestimat: narrativ oversikt () står på oppgitt side
+- OK   2 sitat rad 53 (W2062813714, lange sykmeldinger (moderat evidens; spe) står på oppgitt side
+- OK   3 estimat=0.46 rad 53 (W2062813714, lange sykmeldinger (moderat evidens; spe) står i sitatet
+- OK   2 sitat rad 54 (W2062813714, uførepensjon (moderat evidens; spenn i s) står på oppgitt side
+- OK   3 estimat=0.64 rad 54 (W2062813714, uførepensjon (moderat evidens; spenn i s) står i sitatet
+- OK   2 sitat rad 55 (W2181455115, ingen effektestimat: metaoversikt (20 ov) står på oppgitt side
+- OK   2 sitat rad 56 (0198cc685187-e4b11562-1a40-4075-bb09-8d68011d9a16, sykmeldingsdager per måned over 6 år, fæ) står på oppgitt side
+- OK   3 estimat=5.7 rad 56 (0198cc685187-e4b11562-1a40-4075-bb09-8d68011d9a16, sykmeldingsdager per måned over 6 år, fæ) står i sitatet
+- OK   2 sitat rad 57 (0198cc685187-e4b11562-1a40-4075-bb09-8d68011d9a16, gjennomsnittlig sykmeldingslengde ved 12) står på oppgitt side
+- OK   3 estimat=97 rad 57 (0198cc685187-e4b11562-1a40-4075-bb09-8d68011d9a16, gjennomsnittlig sykmeldingslengde ved 12) står i sitatet
+- OK   2 sitat rad 58 (0198cc685187-e4b11562-1a40-4075-bb09-8d68011d9a16, retur til arbeid, korsryggsmerter; gjeng) står på oppgitt side
+- OK   3 estimat=1.47 rad 58 (0198cc685187-e4b11562-1a40-4075-bb09-8d68011d9a16, retur til arbeid, korsryggsmerter; gjeng) står i sitatet
+- OK   3 ki_lav=1.25 rad 58 (0198cc685187-e4b11562-1a40-4075-bb09-8d68011d9a16, retur til arbeid, korsryggsmerter; gjeng) står i sitatet
+- OK   3 ki_hoy=1.72 rad 58 (0198cc685187-e4b11562-1a40-4075-bb09-8d68011d9a16, retur til arbeid, korsryggsmerter; gjeng) står i sitatet
+- OK   4 rad 58 (0198cc685187-e4b11562-1a40-4075-bb09-8d68011d9a16, retur til arbeid, korsryggsmerter; gjeng) estimat innenfor KI
+- OK   4 rad 58 (0198cc685187-e4b11562-1a40-4075-bb09-8d68011d9a16, retur til arbeid, korsryggsmerter; gjeng) KI symmetrisk på log-skala (avvik 0.01)
+- OK   2 sitat rad 59 (0198cc685187-e4b11562-1a40-4075-bb09-8d68011d9a16, andel returnert til arbeid etter seks må) står på oppgitt side
+- OK   3 estimat=39.1 rad 59 (0198cc685187-e4b11562-1a40-4075-bb09-8d68011d9a16, andel returnert til arbeid etter seks må) står i sitatet
+- OK   2 sitat rad 60 (W1926837556, tid til første retur til arbeid (14 RCT-) står på oppgitt side
+- OK   3 estimat=1.55 rad 60 (W1926837556, tid til første retur til arbeid (14 RCT-) står i sitatet
+- OK   3 ki_lav=1.20 rad 60 (W1926837556, tid til første retur til arbeid (14 RCT-) står i sitatet
+- OK   3 ki_hoy=2.01 rad 60 (W1926837556, tid til første retur til arbeid (14 RCT-) står i sitatet
+- OK   4 rad 60 (W1926837556, tid til første retur til arbeid (14 RCT-) estimat innenfor KI
+- OK   4 rad 60 (W1926837556, tid til første retur til arbeid (14 RCT-) KI symmetrisk på log-skala (avvik 0.00)
+- OK   2 sitat rad 61 (W1926837556, tid til varig retur til arbeid (svært la) står på oppgitt side
+- OK   3 estimat=1.07 rad 61 (W1926837556, tid til varig retur til arbeid (svært la) står i sitatet
+- OK   3 ki_lav=0.72 rad 61 (W1926837556, tid til varig retur til arbeid (svært la) står i sitatet
+- OK   3 ki_hoy=1.57 rad 61 (W1926837556, tid til varig retur til arbeid (svært la) står i sitatet
+- OK   4 rad 61 (W1926837556, tid til varig retur til arbeid (svært la) estimat innenfor KI
+- OK   4 rad 61 (W1926837556, tid til varig retur til arbeid (svært la) KI symmetrisk på log-skala (avvik 0.01)
+- OK   2 sitat rad 62 (W1926837556, samlet varighet av sykefraværet, gjennom) står på oppgitt side
+- OK   3 estimat=-33.33 rad 62 (W1926837556, samlet varighet av sykefraværet, gjennom) står i sitatet
+- OK   3 ki_lav=-49.54 rad 62 (W1926837556, samlet varighet av sykefraværet, gjennom) står i sitatet
+- OK   3 ki_hoy=-17.12 rad 62 (W1926837556, samlet varighet av sykefraværet, gjennom) står i sitatet
+- OK   4 rad 62 (W1926837556, samlet varighet av sykefraværet, gjennom) estimat innenfor KI
+- OK   2 sitat rad 63 (W1926837556, tilbakefall av sykefravær (én studie, fa) står på oppgitt side
+- OK   3 estimat=0.42 rad 63 (W1926837556, tilbakefall av sykefravær (én studie, fa) står i sitatet
+- OK   3 ki_lav=0.21 rad 63 (W1926837556, tilbakefall av sykefravær (én studie, fa) står i sitatet
+- OK   3 ki_hoy=0.82 rad 63 (W1926837556, tilbakefall av sykefravær (én studie, fa) står i sitatet
+- OK   4 rad 63 (W1926837556, tilbakefall av sykefravær (én studie, fa) estimat innenfor KI
+- OK   4 rad 63 (W1926837556, tilbakefall av sykefravær (én studie, fa) KI symmetrisk på log-skala (avvik 0.02)
+- OK   2 sitat rad 64 (W1926837556, psykiske lidelser: tid til første retur ) står på oppgitt side
+- OK   3 estimat=2.64 rad 64 (W1926837556, psykiske lidelser: tid til første retur ) står i sitatet
+- OK   3 ki_lav=1.41 rad 64 (W1926837556, psykiske lidelser: tid til første retur ) står i sitatet
+- OK   3 ki_hoy=4.95 rad 64 (W1926837556, psykiske lidelser: tid til første retur ) står i sitatet
+- OK   4 rad 64 (W1926837556, psykiske lidelser: tid til første retur ) estimat innenfor KI
+- OK   4 rad 64 (W1926837556, psykiske lidelser: tid til første retur ) KI symmetrisk på log-skala (avvik 0.00)
+- OK   2 sitat rad 65 (W1606668257, tid til retur til arbeid, 6 måneders opp) står på oppgitt side
+- OK   3 estimat=1.32 rad 65 (W1606668257, tid til retur til arbeid, 6 måneders opp) står i sitatet
+- OK   3 ki_lav=0.93 rad 65 (W1606668257, tid til retur til arbeid, 6 måneders opp) står i sitatet
+- OK   3 ki_hoy=1.88 rad 65 (W1606668257, tid til retur til arbeid, 6 måneders opp) står i sitatet
+- OK   4 rad 65 (W1606668257, tid til retur til arbeid, 6 måneders opp) estimat innenfor KI
+- OK   4 rad 65 (W1606668257, tid til retur til arbeid, 6 måneders opp) KI symmetrisk på log-skala (avvik 0.00)
+- OK   2 sitat rad 66 (W1606668257, tid til retur til arbeid, 12 måneders op) står på oppgitt side
+- OK   3 estimat=1.25 rad 66 (W1606668257, tid til retur til arbeid, 12 måneders op) står i sitatet
+- OK   3 ki_lav=0.95 rad 66 (W1606668257, tid til retur til arbeid, 12 måneders op) står i sitatet
+- OK   3 ki_hoy=1.66 rad 66 (W1606668257, tid til retur til arbeid, 12 måneders op) står i sitatet
+- OK   4 rad 66 (W1606668257, tid til retur til arbeid, 12 måneders op) estimat innenfor KI
+- OK   4 rad 66 (W1606668257, tid til retur til arbeid, 12 måneders op) KI symmetrisk på log-skala (avvik 0.01)
+- OK   2 sitat rad 67 (W1606668257, samlet sykefravær, arbeidsdager per år, ) står på oppgitt side
+- OK   3 estimat=-14.84 rad 67 (W1606668257, samlet sykefravær, arbeidsdager per år, ) står i sitatet
+- OK   3 ki_lav=-38.56 rad 67 (W1606668257, samlet sykefravær, arbeidsdager per år, ) står i sitatet
+- OK   3 ki_hoy=8.88 rad 67 (W1606668257, samlet sykefravær, arbeidsdager per år, ) står i sitatet
+- OK   4 rad 67 (W1606668257, samlet sykefravær, arbeidsdager per år, ) estimat innenfor KI
+- OK   2 sitat rad 68 (W1606668257, tid til retur til arbeid, oppfølging ove) står på oppgitt side
+- OK   3 estimat=0.93 rad 68 (W1606668257, tid til retur til arbeid, oppfølging ove) står i sitatet
+- OK   3 ki_lav=0.74 rad 68 (W1606668257, tid til retur til arbeid, oppfølging ove) står i sitatet
+- OK   3 ki_hoy=1.17 rad 68 (W1606668257, tid til retur til arbeid, oppfølging ove) står i sitatet
+- OK   4 rad 68 (W1606668257, tid til retur til arbeid, oppfølging ove) estimat innenfor KI
+- OK   4 rad 68 (W1606668257, tid til retur til arbeid, oppfølging ove) KI symmetrisk på log-skala (avvik 0.00)
+- OK   2 sitat rad 69 (W2328015438, tid til retur til arbeid, samlet fra 5 s) står på oppgitt side
+- OK   3 estimat=1.69 rad 69 (W2328015438, tid til retur til arbeid, samlet fra 5 s) står i sitatet
+- OK   3 ki_lav=1.38 rad 69 (W2328015438, tid til retur til arbeid, samlet fra 5 s) står i sitatet
+- OK   3 ki_hoy=2.07 rad 69 (W2328015438, tid til retur til arbeid, samlet fra 5 s) står i sitatet
+- OK   4 rad 69 (W2328015438, tid til retur til arbeid, samlet fra 5 s) estimat innenfor KI
+- OK   4 rad 69 (W2328015438, tid til retur til arbeid, samlet fra 5 s) KI symmetrisk på log-skala (avvik 0.00)
+- OK   2 sitat rad 70 (W2328015438, kortere samlet sykefravær etter 12 måned) står på oppgitt side
+- OK   3 estimat=42 rad 70 (W2328015438, kortere samlet sykefravær etter 12 måned) står i sitatet
+- OK   3 ki_lav=6 rad 70 (W2328015438, kortere samlet sykefravær etter 12 måned) står i sitatet
+- OK   3 ki_hoy=79 rad 70 (W2328015438, kortere samlet sykefravær etter 12 måned) står i sitatet
+- OK   4 rad 70 (W2328015438, kortere samlet sykefravær etter 12 måned) estimat innenfor KI
+- OK   2 sitat rad 71 (W2002447441, ingen effektestimat i sammendraget; narr) står på oppgitt side
+- OK   2 sitat rad 72 (W2099295837, muskel- og skjelettlidelser: median rela) står på oppgitt side
+- OK   3 estimat=1.21 rad 72 (W2099295837, muskel- og skjelettlidelser: median rela) står i sitatet
+- OK   2 sitat rad 73 (W2099295837, muskel- og skjelettlidelser: median redu) står på oppgitt side
+- OK   3 estimat=1.11 rad 73 (W2099295837, muskel- og skjelettlidelser: median redu) står i sitatet
+- OK   2 sitat rad 74 (W1503015117, ingen effektestimat i sammendraget; viss) står på oppgitt side
+- OK   2 sitat rad 75 (W2518291518, vanlige psykiske lidelser: andel tilbake) står på oppgitt side
+- OK   3 estimat=1.05 rad 75 (W2518291518, vanlige psykiske lidelser: andel tilbake) står i sitatet
+- OK   3 ki_lav=0.97 rad 75 (W2518291518, vanlige psykiske lidelser: andel tilbake) står i sitatet
+- OK   3 ki_hoy=1.12 rad 75 (W2518291518, vanlige psykiske lidelser: andel tilbake) står i sitatet
+- OK   4 rad 75 (W2518291518, vanlige psykiske lidelser: andel tilbake) estimat innenfor KI
+- OK   4 rad 75 (W2518291518, vanlige psykiske lidelser: andel tilbake) KI symmetrisk på log-skala (avvik 0.01)
+- OK   2 sitat rad 76 (W2518291518, vanlige psykiske lidelser: sykefraværsda) står på oppgitt side
+- OK   3 estimat=-13.38 rad 76 (W2518291518, vanlige psykiske lidelser: sykefraværsda) står i sitatet
+- OK   3 ki_lav=-24.07 rad 76 (W2518291518, vanlige psykiske lidelser: sykefraværsda) står i sitatet
+- OK   3 ki_hoy=-2.69 rad 76 (W2518291518, vanlige psykiske lidelser: sykefraværsda) står i sitatet
+- OK   4 rad 76 (W2518291518, vanlige psykiske lidelser: sykefraværsda) estimat innenfor KI
+- OK   2 sitat rad 77 (W4399422307, langtidssykmeldte (over 90 dager): antal) står på oppgitt side
+- OK   3 estimat=10 rad 77 (W4399422307, langtidssykmeldte (over 90 dager): antal) står i sitatet
+- OK   2 sitat rad 78 (W2898202126, muskel- og skjelettlidelser: tid til ret) står på oppgitt side
+- OK   3 estimat=1.58 rad 78 (W2898202126, muskel- og skjelettlidelser: tid til ret) står i sitatet
+- OK   3 ki_lav=1.26 rad 78 (W2898202126, muskel- og skjelettlidelser: tid til ret) står i sitatet
+- OK   3 ki_hoy=1.97 rad 78 (W2898202126, muskel- og skjelettlidelser: tid til ret) står i sitatet
+- OK   4 rad 78 (W2898202126, muskel- og skjelettlidelser: tid til ret) estimat innenfor KI
+- OK   4 rad 78 (W2898202126, muskel- og skjelettlidelser: tid til ret) KI symmetrisk på log-skala (avvik 0.01)
+- OK   2 sitat rad 79 (W2898202126, muskel- og skjelettlidelser: samlet syke) står på oppgitt side
+- OK   3 estimat=-40.71 rad 79 (W2898202126, muskel- og skjelettlidelser: samlet syke) står i sitatet
+- OK   3 ki_lav=-60.69 rad 79 (W2898202126, muskel- og skjelettlidelser: samlet syke) står i sitatet
+- OK   3 ki_hoy=-20.72 rad 79 (W2898202126, muskel- og skjelettlidelser: samlet syke) står i sitatet
+- OK   4 rad 79 (W2898202126, muskel- og skjelettlidelser: samlet syke) estimat innenfor KI
+- OK   2 sitat rad 80 (W2898202126, psykiske lidelser: sykefraværsdager (øvr) står på oppgitt side
+- OK   3 estimat=-18.64 rad 80 (W2898202126, psykiske lidelser: sykefraværsdager (øvr) står i sitatet
+- OK   3 ki_lav=-27.98 rad 80 (W2898202126, psykiske lidelser: sykefraværsdager (øvr) står i sitatet
+- OK   2 sitat rad 81 (W3125553714, dager kortere tid til full retur til arb) står på oppgitt side
+- OK   3 estimat=10 rad 81 (W3125553714, dager kortere tid til full retur til arb) står i sitatet
+- OK   2 sitat rad 82 (W3125553714, dager kortere tid til delvis eller full ) står på oppgitt side
+- OK   3 estimat=20 rad 82 (W3125553714, dager kortere tid til delvis eller full ) står i sitatet
+- OK   2 sitat rad 83 (W3125553714, lavere sannsynlighet for midlertidig ufø) står på oppgitt side
+- OK   3 estimat=2.3 rad 83 (W3125553714, lavere sannsynlighet for midlertidig ufø) står i sitatet
+- OK   2 sitat rad 84 (W4386199890, tid til varig retur til arbeid, 12 måned) står på oppgitt side
+- OK   3 estimat=1.12 rad 84 (W4386199890, tid til varig retur til arbeid, 12 måned) står i sitatet
+- OK   3 ki_lav=0.90 rad 84 (W4386199890, tid til varig retur til arbeid, 12 måned) står i sitatet
+- OK   3 ki_hoy=1.40 rad 84 (W4386199890, tid til varig retur til arbeid, 12 måned) står i sitatet
+- OK   4 rad 84 (W4386199890, tid til varig retur til arbeid, 12 måned) estimat innenfor KI
+- OK   4 rad 84 (W4386199890, tid til varig retur til arbeid, 12 måned) KI symmetrisk på log-skala (avvik 0.00)
+- OK   2 sitat rad 85 (W4386199890, tid til varig retur til arbeid, 12 måned) står på oppgitt side
+- OK   3 estimat=1.16 rad 85 (W4386199890, tid til varig retur til arbeid, 12 måned) står i sitatet
+- OK   3 ki_lav=0.93 rad 85 (W4386199890, tid til varig retur til arbeid, 12 måned) står i sitatet
+- OK   3 ki_hoy=1.44 rad 85 (W4386199890, tid til varig retur til arbeid, 12 måned) står i sitatet
+- OK   4 rad 85 (W4386199890, tid til varig retur til arbeid, 12 måned) estimat innenfor KI
+- OK   4 rad 85 (W4386199890, tid til varig retur til arbeid, 12 måned) KI symmetrisk på log-skala (avvik 0.00)
+- OK   2 sitat rad 86 (W4386199890, median sykefraværsdager (IQR 31–147) mot) står på oppgitt side
+- OK   3 estimat=73 rad 86 (W4386199890, median sykefraværsdager (IQR 31–147) mot) står i sitatet
+- OK   2 sitat rad 87 (W4310336140, muskel- og skjelettlidelser: færre sykef) står på oppgitt side
+- OK   3 estimat=7 rad 87 (W4310336140, muskel- og skjelettlidelser: færre sykef) står i sitatet
+- OK   2 sitat rad 88 (W4310336140, muskel- og skjelettlidelser: færre sykef) står på oppgitt side
+- OK   3 estimat=7 rad 88 (W4310336140, muskel- og skjelettlidelser: færre sykef) står i sitatet
+- OK   2 sitat rad 89 (W4414083791, muskel- og skjelettlidelser: sykefraværs) står på oppgitt side
+- OK   3 estimat=-15.6 rad 89 (W4414083791, muskel- og skjelettlidelser: sykefraværs) står i sitatet
+- OK   3 ki_lav=-31.0 rad 89 (W4414083791, muskel- og skjelettlidelser: sykefraværs) står i sitatet
+- OK   3 ki_hoy=-0.2 rad 89 (W4414083791, muskel- og skjelettlidelser: sykefraværs) står i sitatet
+- OK   4 rad 89 (W4414083791, muskel- og skjelettlidelser: sykefraværs) estimat innenfor KI
+- OK   2 sitat rad 90 (W4414083791, muskel- og skjelettlidelser: sykefraværs) står på oppgitt side
+- OK   3 estimat=-17.6 rad 90 (W4414083791, muskel- og skjelettlidelser: sykefraværs) står i sitatet
+- OK   3 ki_lav=-33.0 rad 90 (W4414083791, muskel- og skjelettlidelser: sykefraværs) står i sitatet
+- OK   3 ki_hoy=-2.2 rad 90 (W4414083791, muskel- og skjelettlidelser: sykefraværs) står i sitatet
+- OK   4 rad 90 (W4414083791, muskel- og skjelettlidelser: sykefraværs) estimat innenfor KI
+- OK   2 sitat rad 91 (W4414083791, muskel- og skjelettlidelser: odds for å ) står på oppgitt side
+- OK   3 estimat=0.73 rad 91 (W4414083791, muskel- og skjelettlidelser: odds for å ) står i sitatet
+- OK   3 ki_lav=0.64 rad 91 (W4414083791, muskel- og skjelettlidelser: odds for å ) står i sitatet
+- OK   3 ki_hoy=0.84 rad 91 (W4414083791, muskel- og skjelettlidelser: odds for å ) står i sitatet
+- OK   4 rad 91 (W4414083791, muskel- og skjelettlidelser: odds for å ) estimat innenfor KI
+- OK   4 rad 91 (W4414083791, muskel- og skjelettlidelser: odds for å ) KI symmetrisk på log-skala (avvik 0.01)
+- OK   2 sitat rad 92 (W4414083791, muskel- og skjelettlidelser: odds for å ) står på oppgitt side
+- OK   3 estimat=0.74 rad 92 (W4414083791, muskel- og skjelettlidelser: odds for å ) står i sitatet
+- OK   3 ki_lav=0.64 rad 92 (W4414083791, muskel- og skjelettlidelser: odds for å ) står i sitatet
+- OK   3 ki_hoy=0.84 rad 92 (W4414083791, muskel- og skjelettlidelser: odds for å ) står i sitatet
+- OK   4 rad 92 (W4414083791, muskel- og skjelettlidelser: odds for å ) estimat innenfor KI
+- OK   4 rad 92 (W4414083791, muskel- og skjelettlidelser: odds for å ) KI symmetrisk på log-skala (avvik 0.02)
+- OK   2 sitat rad 93 (W4214640429, sykmeldt i 6 måneder: sykefraværsdager e) står på oppgitt side
+- OK   3 estimat=-1.381 rad 93 (W4214640429, sykmeldt i 6 måneder: sykefraværsdager e) står i sitatet
+- OK   2 sitat rad 94 (W2027242222, kommune 2: rate for retur fra langvarig ) står på oppgitt side
+- OK   3 estimat=1.51 rad 94 (W2027242222, kommune 2: rate for retur fra langvarig ) står i sitatet
+- OK   3 ki_lav=1.31 rad 94 (W2027242222, kommune 2: rate for retur fra langvarig ) står i sitatet
+- OK   3 ki_hoy=1.74 rad 94 (W2027242222, kommune 2: rate for retur fra langvarig ) står i sitatet
+- OK   4 rad 94 (W2027242222, kommune 2: rate for retur fra langvarig ) estimat innenfor KI
+- OK   4 rad 94 (W2027242222, kommune 2: rate for retur fra langvarig ) KI symmetrisk på log-skala (avvik 0.00)
+- OK   2 sitat rad 95 (W2027242222, kommune 1: rate for retur fra langvarig ) står på oppgitt side
+- OK   3 estimat=1.12 rad 95 (W2027242222, kommune 1: rate for retur fra langvarig ) står i sitatet
+- OK   3 ki_lav=0.97 rad 95 (W2027242222, kommune 1: rate for retur fra langvarig ) står i sitatet
+- OK   3 ki_hoy=1.29 rad 95 (W2027242222, kommune 1: rate for retur fra langvarig ) står i sitatet
+- OK   4 rad 95 (W2027242222, kommune 1: rate for retur fra langvarig ) estimat innenfor KI
+- OK   4 rad 95 (W2027242222, kommune 1: rate for retur fra langvarig ) KI symmetrisk på log-skala (avvik 0.00)
+- OK   2 sitat rad 96 (W2027242222, kommune 3: rate for retur fra langvarig ) står på oppgitt side
+- OK   3 estimat=0.80 rad 96 (W2027242222, kommune 3: rate for retur fra langvarig ) står i sitatet
+- OK   3 ki_lav=0.63 rad 96 (W2027242222, kommune 3: rate for retur fra langvarig ) står i sitatet
+- OK   3 ki_hoy=1.03 rad 96 (W2027242222, kommune 3: rate for retur fra langvarig ) står i sitatet
+- OK   4 rad 96 (W2027242222, kommune 3: rate for retur fra langvarig ) estimat innenfor KI
+- OK   4 rad 96 (W2027242222, kommune 3: rate for retur fra langvarig ) KI symmetrisk på log-skala (avvik 0.01)
+- OK   2 sitat rad 97 (W2599512444, muskel- og skjelettsmerter: retur til ar) står på oppgitt side
+- OK   3 estimat=1.29 rad 97 (W2599512444, muskel- og skjelettsmerter: retur til ar) står i sitatet
+- OK   3 ki_lav=1.03 rad 97 (W2599512444, muskel- og skjelettsmerter: retur til ar) står i sitatet
+- OK   3 ki_hoy=1.61 rad 97 (W2599512444, muskel- og skjelettsmerter: retur til ar) står i sitatet
+- OK   4 rad 97 (W2599512444, muskel- og skjelettsmerter: retur til ar) estimat innenfor KI
+- OK   4 rad 97 (W2599512444, muskel- og skjelettsmerter: retur til ar) KI symmetrisk på log-skala (avvik 0.00)
+- OK   2 sitat rad 98 (W2599512444, muskel- og skjelettsmerter: retur til ar) står på oppgitt side
+- OK   3 estimat=0.92 rad 98 (W2599512444, muskel- og skjelettsmerter: retur til ar) står i sitatet
+- OK   3 ki_lav=0.69 rad 98 (W2599512444, muskel- og skjelettsmerter: retur til ar) står i sitatet
+- OK   3 ki_hoy=1.24 rad 98 (W2599512444, muskel- og skjelettsmerter: retur til ar) står i sitatet
+- OK   4 rad 98 (W2599512444, muskel- og skjelettsmerter: retur til ar) estimat innenfor KI
+- OK   4 rad 98 (W2599512444, muskel- og skjelettsmerter: retur til ar) KI symmetrisk på log-skala (avvik 0.01)
+- OK   2 sitat rad 99 (W7165184009, tid til full og varig retur til arbeid, ) står på oppgitt side
+- OK   3 estimat=1.20 rad 99 (W7165184009, tid til full og varig retur til arbeid, ) står i sitatet
+- OK   3 ki_lav=0.88 rad 99 (W7165184009, tid til full og varig retur til arbeid, ) står i sitatet
+- OK   3 ki_hoy=1.64 rad 99 (W7165184009, tid til full og varig retur til arbeid, ) står i sitatet
+- OK   4 rad 99 (W7165184009, tid til full og varig retur til arbeid, ) estimat innenfor KI
+- OK   4 rad 99 (W7165184009, tid til full og varig retur til arbeid, ) KI symmetrisk på log-skala (avvik 0.00)
+- OK   2 sitat rad 100 (W7165184009, korsryggsmerter: tid til full og varig r) står på oppgitt side
+- OK   3 estimat=1.67 rad 100 (W7165184009, korsryggsmerter: tid til full og varig r) står i sitatet
+- OK   3 ki_lav=1.30 rad 100 (W7165184009, korsryggsmerter: tid til full og varig r) står i sitatet
+- OK   3 ki_hoy=2.15 rad 100 (W7165184009, korsryggsmerter: tid til full og varig r) står i sitatet
+- OK   4 rad 100 (W7165184009, korsryggsmerter: tid til full og varig r) estimat innenfor KI
+- OK   4 rad 100 (W7165184009, korsryggsmerter: tid til full og varig r) KI symmetrisk på log-skala (avvik 0.00)
+- OK   2 sitat rad 101 (W7165184009, psykiske lidelser: tid til full og varig) står på oppgitt side
+- OK   3 estimat=1.04 rad 101 (W7165184009, psykiske lidelser: tid til full og varig) står i sitatet
+- OK   3 ki_lav=0.79 rad 101 (W7165184009, psykiske lidelser: tid til full og varig) står i sitatet
+- OK   3 ki_hoy=1.37 rad 101 (W7165184009, psykiske lidelser: tid til full og varig) står i sitatet
+- OK   4 rad 101 (W7165184009, psykiske lidelser: tid til full og varig) estimat innenfor KI
+- OK   4 rad 101 (W7165184009, psykiske lidelser: tid til full og varig) KI symmetrisk på log-skala (avvik 0.00)
+- OK   2 sitat rad 102 (W7165184009, blandede helseplager: tid til full og va) står på oppgitt side
+- OK   3 estimat=0.74 rad 102 (W7165184009, blandede helseplager: tid til full og va) står i sitatet
+- OK   3 ki_lav=0.48 rad 102 (W7165184009, blandede helseplager: tid til full og va) står i sitatet
+- OK   3 ki_hoy=1.15 rad 102 (W7165184009, blandede helseplager: tid til full og va) står i sitatet
+- OK   4 rad 102 (W7165184009, blandede helseplager: tid til full og va) estimat innenfor KI
+- OK   4 rad 102 (W7165184009, blandede helseplager: tid til full og va) KI symmetrisk på log-skala (avvik 0.01)
+- OK   2 sitat rad 103 (W4385329355, utbrenthet: andel tilbake i arbeid etter) står på oppgitt side
+- OK   3 estimat=89 rad 103 (W4385329355, utbrenthet: andel tilbake i arbeid etter) står i sitatet
+- OK   2 sitat rad 104 (W3215327468, ingen samlet effektestimat; narrativ syn) står på oppgitt side
+- OK   2 sitat rad 105 (W4410772602, mottak av helserelaterte ytelser etter 5) står på oppgitt side
+- OK   3 estimat=0.98 rad 105 (W4410772602, mottak av helserelaterte ytelser etter 5) står i sitatet
+- OK   3 ki_lav=0.85 rad 105 (W4410772602, mottak av helserelaterte ytelser etter 5) står i sitatet
+- OK   3 ki_hoy=1.14 rad 105 (W4410772602, mottak av helserelaterte ytelser etter 5) står i sitatet
+- OK   4 rad 105 (W4410772602, mottak av helserelaterte ytelser etter 5) estimat innenfor KI
+- OK   4 rad 105 (W4410772602, mottak av helserelaterte ytelser etter 5) KI symmetrisk på log-skala (avvik 0.01)
+- OK   2 sitat rad 106 (W4410772602, mottak av ikke-helserelaterte ytelser (l) står på oppgitt side
+- OK   3 estimat=0.81 rad 106 (W4410772602, mottak av ikke-helserelaterte ytelser (l) står i sitatet
+- OK   3 ki_lav=0.69 rad 106 (W4410772602, mottak av ikke-helserelaterte ytelser (l) står i sitatet
+- OK   3 ki_hoy=0.96 rad 106 (W4410772602, mottak av ikke-helserelaterte ytelser (l) står i sitatet
+- OK   4 rad 106 (W4410772602, mottak av ikke-helserelaterte ytelser (l) estimat innenfor KI
+- OK   4 rad 106 (W4410772602, mottak av ikke-helserelaterte ytelser (l) KI symmetrisk på log-skala (avvik 0.01)
+- OK   2 sitat rad 107 (W2395813727, ingen effektestimat; prosessevaluering a) står på oppgitt side
+- OK   2 sitat rad 108 (W2129322795, andel tilbake i arbeid etter 12 måneder ) står på oppgitt side
+- OK   3 estimat=78 rad 108 (W2129322795, andel tilbake i arbeid etter 12 måneder ) står i sitatet
+- OK   2 sitat rad 109 (W2129322795, andel tilbake i arbeid etter 6 måneder () står på oppgitt side
+- OK   3 estimat=69 rad 109 (W2129322795, andel tilbake i arbeid etter 6 måneder () står i sitatet
+- OK   2 sitat rad 110 (W4200573960, andel i arbeid etter 12 måneder (mot 45 ) står på oppgitt side
+- OK   3 estimat=56.2 rad 110 (W4200573960, andel i arbeid etter 12 måneder (mot 45 ) står i sitatet
+- OK   2 sitat rad 111 (W4200573960, tid til retur til arbeid (primærutfall):) står på oppgitt side
+- OK   2 sitat rad 112 (W4386883739, forskjell i median netto sykefraværsdage) står på oppgitt side
+- OK   3 estimat=43 rad 112 (W4386883739, forskjell i median netto sykefraværsdage) står i sitatet
+- OK   2 sitat rad 113 (W4386883739, forskjell i median netto sykefraværsdage) står på oppgitt side
+- OK   3 estimat=77 rad 113 (W4386883739, forskjell i median netto sykefraværsdage) står i sitatet
+- OK   2 sitat rad 114 (W4393358110, netto sykefraværsdager over 12 måneder, ) står på oppgitt side
+- OK   3 estimat=110.7 rad 114 (W4393358110, netto sykefraværsdager over 12 måneder, ) står i sitatet
+- OK   3 ki_lav=82.6 rad 114 (W4393358110, netto sykefraværsdager over 12 måneder, ) står i sitatet
+- OK   3 ki_hoy=138.8 rad 114 (W4393358110, netto sykefraværsdager over 12 måneder, ) står i sitatet
+- OK   4 rad 114 (W4393358110, netto sykefraværsdager over 12 måneder, ) estimat innenfor KI
+- OK   2 sitat rad 115 (W4393358110, netto sykefraværsdager over 12 måneder, ) står på oppgitt side
+- OK   3 estimat=99.1 rad 115 (W4393358110, netto sykefraværsdager over 12 måneder, ) står i sitatet
+- OK   3 ki_lav=73.9 rad 115 (W4393358110, netto sykefraværsdager over 12 måneder, ) står i sitatet
+- OK   3 ki_hoy=124.3 rad 115 (W4393358110, netto sykefraværsdager over 12 måneder, ) står i sitatet
+- OK   4 rad 115 (W4393358110, netto sykefraværsdager over 12 måneder, ) estimat innenfor KI
+- OK   2 sitat rad 116 (W4393358110, andel sykmeldt etter 3 måneder i interve) står på oppgitt side
+- OK   3 estimat=64.8 rad 116 (W4393358110, andel sykmeldt etter 3 måneder i interve) står i sitatet
+- OK   2 sitat rad 117 (W4404826543, median dager til full retur til arbeid i) står på oppgitt side
+- OK   3 estimat=102 rad 117 (W4404826543, median dager til full retur til arbeid i) står i sitatet
+- OK   2 sitat rad 118 (W4404826543, andel med full retur til arbeid ved slut) står på oppgitt side
+- OK   3 estimat=79.2 rad 118 (W4404826543, andel med full retur til arbeid ved slut) står i sitatet
+- OK   2 sitat rad 119 (W2800647420, arbeidsevne etter 1 år (minst 4 sammenhe) står på oppgitt side
+- OK   3 estimat=1.85 rad 119 (W2800647420, arbeidsevne etter 1 år (minst 4 sammenhe) står i sitatet
+- OK   3 ki_lav=1.01 rad 119 (W2800647420, arbeidsevne etter 1 år (minst 4 sammenhe) står i sitatet
+- OK   3 ki_hoy=3.38 rad 119 (W2800647420, arbeidsevne etter 1 år (minst 4 sammenhe) står i sitatet
+- OK   4 rad 119 (W2800647420, arbeidsevne etter 1 år (minst 4 sammenhe) estimat innenfor KI
+- OK   4 rad 119 (W2800647420, arbeidsevne etter 1 år (minst 4 sammenhe) KI symmetrisk på log-skala (avvik 0.00)
+- OK   2 sitat rad 120 (W2800647420, andel med arbeidsevne etter 1 år i inter) står på oppgitt side
+- OK   3 estimat=85 rad 120 (W2800647420, andel med arbeidsevne etter 1 år i inter) står i sitatet
+- OK   2 sitat rad 121 (W2017844716, gjennomsnittlig lengde på sykmeldingsper) står på oppgitt side
+- OK   3 estimat=58 rad 121 (W2017844716, gjennomsnittlig lengde på sykmeldingsper) står i sitatet
+- OK   2 sitat rad 122 (W4412112855, arbeidsinntekt år 1 etter avgjørelsen, p) står på oppgitt side
+- OK   3 estimat=44 rad 122 (W4412112855, arbeidsinntekt år 1 etter avgjørelsen, p) står i sitatet
+- OK   2 sitat rad 123 (W4412112855, sykepengedager år 1 etter avgjørelsen, r) står på oppgitt side
+- OK   3 estimat=51.24 rad 123 (W4412112855, sykepengedager år 1 etter avgjørelsen, r) står i sitatet
+- OK   2 sitat rad 124 (W4412112855, mottak av uføreytelse (DB) år 3, reduksj) står på oppgitt side
+- OK   3 estimat=0.15 rad 124 (W4412112855, mottak av uføreytelse (DB) år 3, reduksj) står i sitatet
+- OK   2 sitat rad 125 (W2170630267, langtidssykefravær (>8 uker), menn, just) står på oppgitt side
+- OK   3 estimat=0.97 rad 125 (W2170630267, langtidssykefravær (>8 uker), menn, just) står i sitatet
+- OK   3 ki_lav=0.86 rad 125 (W2170630267, langtidssykefravær (>8 uker), menn, just) står i sitatet
+- OK   3 ki_hoy=1.09 rad 125 (W2170630267, langtidssykefravær (>8 uker), menn, just) står i sitatet
+- OK   4 rad 125 (W2170630267, langtidssykefravær (>8 uker), menn, just) estimat innenfor KI
+- OK   4 rad 125 (W2170630267, langtidssykefravær (>8 uker), menn, just) KI symmetrisk på log-skala (avvik 0.00)
+- OK   2 sitat rad 126 (W2170630267, langtidssykefravær (>8 uker), menn i ski) står på oppgitt side
+- OK   3 estimat=0.67 rad 126 (W2170630267, langtidssykefravær (>8 uker), menn i ski) står i sitatet
+- OK   3 ki_lav=0.51 rad 126 (W2170630267, langtidssykefravær (>8 uker), menn i ski) står i sitatet
+- OK   3 ki_hoy=0.88 rad 126 (W2170630267, langtidssykefravær (>8 uker), menn i ski) står i sitatet
+- OK   4 rad 126 (W2170630267, langtidssykefravær (>8 uker), menn i ski) estimat innenfor KI
+- OK   4 rad 126 (W2170630267, langtidssykefravær (>8 uker), menn i ski) KI symmetrisk på log-skala (avvik 0.00)
+- OK   2 sitat rad 127 (W2170630267, langtidssykefravær (>8 uker), kvinner, u) står på oppgitt side
+- OK   3 estimat=1.02 rad 127 (W2170630267, langtidssykefravær (>8 uker), kvinner, u) står i sitatet
+- OK   2 sitat rad 128 (W7165684937, arbeidsuførhet (uførepensjon eller over ) står på oppgitt side
+- OK   3 estimat=1.85 rad 128 (W7165684937, arbeidsuførhet (uførepensjon eller over ) står i sitatet
+- OK   3 ki_lav=1.25 rad 128 (W7165684937, arbeidsuførhet (uførepensjon eller over ) står i sitatet
+- OK   3 ki_hoy=2.72 rad 128 (W7165684937, arbeidsuførhet (uførepensjon eller over ) står i sitatet
+- OK   4 rad 128 (W7165684937, arbeidsuførhet (uførepensjon eller over ) estimat innenfor KI
+- OK   4 rad 128 (W7165684937, arbeidsuførhet (uførepensjon eller over ) KI symmetrisk på log-skala (avvik 0.01)
+- OK   2 sitat rad 129 (W7165684937, arbeidsuførhet (uførepensjon eller over ) står på oppgitt side
+- OK   3 estimat=1.64 rad 129 (W7165684937, arbeidsuførhet (uførepensjon eller over ) står i sitatet
+- OK   3 ki_lav=1.35 rad 129 (W7165684937, arbeidsuførhet (uførepensjon eller over ) står i sitatet
+- OK   3 ki_hoy=1.99 rad 129 (W7165684937, arbeidsuførhet (uførepensjon eller over ) står i sitatet
+- OK   4 rad 129 (W7165684937, arbeidsuførhet (uførepensjon eller over ) estimat innenfor KI
+- OK   4 rad 129 (W7165684937, arbeidsuførhet (uførepensjon eller over ) KI symmetrisk på log-skala (avvik 0.00)
+- OK   2 sitat rad 130 (W7165684937, arbeidsuførhet (uførepensjon eller over ) står på oppgitt side
+- OK   3 estimat=4.75 rad 130 (W7165684937, arbeidsuførhet (uførepensjon eller over ) står i sitatet
+- OK   3 ki_lav=2.40 rad 130 (W7165684937, arbeidsuførhet (uførepensjon eller over ) står i sitatet
+- OK   3 ki_hoy=9.43 rad 130 (W7165684937, arbeidsuførhet (uførepensjon eller over ) står i sitatet
+- OK   4 rad 130 (W7165684937, arbeidsuførhet (uførepensjon eller over ) estimat innenfor KI
+- OK   4 rad 130 (W7165684937, arbeidsuførhet (uførepensjon eller over ) KI symmetrisk på log-skala (avvik 0.00)
+- OK   2 sitat rad 131 (W2916361832, median dager til første retur til arbeid) står på oppgitt side
+- OK   3 estimat=128 rad 131 (W2916361832, median dager til første retur til arbeid) står i sitatet
+- OK   3 ki_lav=80 rad 131 (W2916361832, median dager til første retur til arbeid) står i sitatet
+- OK   3 ki_hoy=176 rad 131 (W2916361832, median dager til første retur til arbeid) står i sitatet
+- OK   4 rad 131 (W2916361832, median dager til første retur til arbeid) estimat innenfor KI
+- OK   2 sitat rad 132 (W2916361832, median dager til første retur til arbeid) står på oppgitt side
+- OK   3 estimat=61 rad 132 (W2916361832, median dager til første retur til arbeid) står i sitatet
+- OK   3 ki_lav=43 rad 132 (W2916361832, median dager til første retur til arbeid) står i sitatet
+- OK   3 ki_hoy=79 rad 132 (W2916361832, median dager til første retur til arbeid) står i sitatet
+- OK   4 rad 132 (W2916361832, median dager til første retur til arbeid) estimat innenfor KI
+- OK   2 sitat rad 133 (KU-f0bb3e0c-c725-4cbe-a245-b333d1b74da8, sykefraværsprosent, prosentvis reduksjon) står på oppgitt side
+- OK   3 estimat=6 rad 133 (KU-f0bb3e0c-c725-4cbe-a245-b333d1b74da8, sykefraværsprosent, prosentvis reduksjon) står i sitatet
+- OK   2 sitat rad 134 (KU-f0bb3e0c-c725-4cbe-a245-b333d1b74da8, sykefraværsprosent, prosentvis reduksjon) står på oppgitt side
+- OK   3 estimat=5 rad 134 (KU-f0bb3e0c-c725-4cbe-a245-b333d1b74da8, sykefraværsprosent, prosentvis reduksjon) står i sitatet
+- OK   2 sitat rad 135 (KU-f0bb3e0c-c725-4cbe-a245-b333d1b74da8, legemeldt sykefravær, prosentvis reduksj) står på oppgitt side
+- OK   3 estimat=3.8 rad 135 (KU-f0bb3e0c-c725-4cbe-a245-b333d1b74da8, legemeldt sykefravær, prosentvis reduksj) står i sitatet
+- OK   2 sitat rad 136 (KU-f0bb3e0c-c725-4cbe-a245-b333d1b74da8, sykefravær i Rogaland: ingen effekt funn) står på oppgitt side
+- OK   2 sitat rad 137 (KU-f0bb3e0c-c725-4cbe-a245-b333d1b74da8, bruk av gradert sykmelding, prosentvis ø) står på oppgitt side
+- OK   3 estimat=10 rad 137 (KU-f0bb3e0c-c725-4cbe-a245-b333d1b74da8, bruk av gradert sykmelding, prosentvis ø) står i sitatet
+- OK   2 sitat rad 138 (KU-b5503dbe-4b5c-41a1-959b-1e07a266a10e, ingen effektestimat; følgeevaluering av ) står på oppgitt side
+- OK   2 sitat rad 139 (AV-2017-1-06, gjennomsnittlig varighet for sykefravær ) står på oppgitt side
+- OK   3 estimat=6 rad 139 (AV-2017-1-06, gjennomsnittlig varighet for sykefravær ) står i sitatet
+- OK   2 sitat rad 140 (AV-2017-1-06, gjennomsnittlig varighet for sykefravær ) står på oppgitt side
+- OK   2 sitat rad 141 (AV-2017-1-06, andel sykmeldte med gjennomført dialogmø) står på oppgitt side
+- OK   3 estimat=9 rad 141 (AV-2017-1-06, andel sykmeldte med gjennomført dialogmø) står i sitatet
+- OK   2 sitat rad 142 (AV-2022-2-04, andel langtidssykmeldte med gjennomført ) står på oppgitt side
+- OK   3 estimat=8 rad 142 (AV-2022-2-04, andel langtidssykmeldte med gjennomført ) står i sitatet
+- OK   2 sitat rad 143 (AV-2022-2-04, varighet på inneværende sykefravær, endr) står på oppgitt side
+- OK   3 estimat=-0.6 rad 143 (AV-2022-2-04, varighet på inneværende sykefravær, endr) står i sitatet
+- OK   2 sitat rad 144 (AV-2022-2-04, andel med oppbrukt sykepengerett, økning) står på oppgitt side
+- OK   3 estimat=1.4 rad 144 (AV-2022-2-04, andel med oppbrukt sykepengerett, økning) står i sitatet
+- OK   2 sitat rad 145 (AV-2014-1-06, ingen effektestimat; gjennomgang av omfa) står på oppgitt side
+- OK   2 sitat rad 146 (KU-875dcbc0-c50a-4d2f-a78f-b2bbf9b2b1ae, ingen effektestimat; evaluering av oppfø) står på oppgitt side
+- OK   2 sitat rad 147 (0198cc79c7cd-acfd3f19-c535-4040-8691-5ebda8ac207e, ingen effektestimat; sammenligning av op) står på oppgitt side
+- OK   2 sitat rad 148 (0198cc6a07f2-83528661-0115-453b-b35a-71e514027435, ingen effektestimat; evaluering av IA-av) står på oppgitt side
+- OK   2 sitat rad 149 (KU-a9e33daa-a5d8-454b-8e8c-dbbed2f18791, ingen effektestimat; kvalitative intervj) står på oppgitt side
+- OK   2 sitat rad 150 (AV-2009-1-06, varighet på sykefraværstilfellene etter ) står på oppgitt side
+- OK   2 sitat rad 151 (KU-884d2759-5922-4a55-b7cd-e21caf22a212, ingen effektestimat; arbeidsgrupperappor) står på oppgitt side
+- OK   2 sitat rad 152 (KU-85c000bd-7e2a-42c5-91f6-55631a735353, andel registrert med ny arbeidsgiver ett) står på oppgitt side
+- OK   3 estimat=55 rad 152 (KU-85c000bd-7e2a-42c5-91f6-55631a735353, andel registrert med ny arbeidsgiver ett) står i sitatet
+- OK   2 sitat rad 153 (KU-85c000bd-7e2a-42c5-91f6-55631a735353, andel som mottar AAP ett år etter avslut) står på oppgitt side
+- OK   3 estimat=30 rad 153 (KU-85c000bd-7e2a-42c5-91f6-55631a735353, andel som mottar AAP ett år etter avslut) står i sitatet
+- OK   2 sitat rad 154 (NB-4163, ingen effektestimat i teksten; andel syk) står på oppgitt side
+- OK   3 estimat=96 rad 154 (NB-4163, ingen effektestimat i teksten; andel syk) står i sitatet
+- OK   2 sitat rad 155 (NB-4171, ingen effektestimat i teksten; følgeeval) står på oppgitt side
+- OK   2 sitat rad 156 (NB-5528, ingen effektestimat i teksten; kartleggi) står på oppgitt side
+- OK   2 sitat rad 157 (NB-4911, andel i fulltidsarbeid i 2023, mottakere) står på oppgitt side
+- OK   3 estimat=19 rad 157 (NB-4911, andel i fulltidsarbeid i 2023, mottakere) står i sitatet
+- OK   2 sitat rad 158 (NB-4911, forskjell i andel på AAP eller tiltakspe) står på oppgitt side
+- OK   3 estimat=13 rad 158 (NB-4911, forskjell i andel på AAP eller tiltakspe) står i sitatet
+- OK   2 sitat rad 159 (LI-7vlxr9md5r8sm5st, andel med arbeidsinntekt innen 12 månede) står på oppgitt side
+- OK   3 estimat=80 rad 159 (LI-7vlxr9md5r8sm5st, andel med arbeidsinntekt innen 12 månede) står i sitatet
+- OK   2 sitat rad 160 (LI-7vlxr9md5r8sm5st, andel uten inntekt innen ett år, ansatte) står på oppgitt side
+- OK   3 estimat=32 rad 160 (LI-7vlxr9md5r8sm5st, andel uten inntekt innen ett år, ansatte) står i sitatet
+- OK   2 sitat rad 161 (LI-8t04flg46fv9pj3t, andel sykefravær der Försäkringskassan r) står på oppgitt side
+- OK   3 estimat=5 rad 161 (LI-8t04flg46fv9pj3t, andel sykefravær der Försäkringskassan r) står i sitatet
+- OK   2 sitat rad 162 (LI-8t04flg46fv9pj3t, gjennomsnittlig tidspunkt for avstemming) står på oppgitt side
+- OK   3 estimat=471 rad 162 (LI-8t04flg46fv9pj3t, gjennomsnittlig tidspunkt for avstemming) står i sitatet
+- OK   2 sitat rad 163 (LI-5h7rt10j31hpp2p6, antall inkluderte studier i oppdateringe) står på oppgitt side
+- OK   3 estimat=12 rad 163 (LI-5h7rt10j31hpp2p6, antall inkluderte studier i oppdateringe) står i sitatet
+- OK   2 sitat rad 164 (W2605738490, varighet av sykepengeforløp (HR for avga) står på oppgitt side
+- OK   3 estimat=1.02 rad 164 (W2605738490, varighet av sykepengeforløp (HR for avga) står i sitatet
+- OK   3 ki_lav=0.97 rad 164 (W2605738490, varighet av sykepengeforløp (HR for avga) står i sitatet
+- OK   3 ki_hoy=1.07 rad 164 (W2605738490, varighet av sykepengeforløp (HR for avga) står i sitatet
+- OK   4 rad 164 (W2605738490, varighet av sykepengeforløp (HR for avga) estimat innenfor KI
+- OK   4 rad 164 (W2605738490, varighet av sykepengeforløp (HR for avga) KI symmetrisk på log-skala (avvik 0.00)
+- OK   2 sitat rad 165 (W2605738490, varighet til selvforsørgelse (HR)) står på oppgitt side
+- OK   3 estimat=0.99 rad 165 (W2605738490, varighet til selvforsørgelse (HR)) står i sitatet
+- OK   3 ki_lav=0.96 rad 165 (W2605738490, varighet til selvforsørgelse (HR)) står i sitatet
+- OK   3 ki_hoy=1.02 rad 165 (W2605738490, varighet til selvforsørgelse (HR)) står i sitatet
+- OK   4 rad 165 (W2605738490, varighet til selvforsørgelse (HR)) estimat innenfor KI
+- OK   4 rad 165 (W2605738490, varighet til selvforsørgelse (HR)) KI symmetrisk på log-skala (avvik 0.00)
+- OK   2 sitat rad 166 (W2215805610, median tid til varig retur til arbeid et) står på oppgitt side
+- OK   3 estimat=41 rad 166 (W2215805610, median tid til varig retur til arbeid et) står i sitatet
+- OK   2 sitat rad 167 (W2215805610, årlig gevinst i arbeidsdeltakelse etter ) står på oppgitt side
+- OK   3 estimat=230.9 rad 167 (W2215805610, årlig gevinst i arbeidsdeltakelse etter ) står i sitatet
+- OK   2 sitat rad 168 (W4387231342, deltakelse i rehabilitering innen ett år) står på oppgitt side
+- OK   3 estimat=1.051 rad 168 (W4387231342, deltakelse i rehabilitering innen ett år) står i sitatet
+- OK   3 ki_lav=1.015 rad 168 (W4387231342, deltakelse i rehabilitering innen ett år) står i sitatet
+- OK   3 ki_hoy=1.086 rad 168 (W4387231342, deltakelse i rehabilitering innen ett år) står i sitatet
+- OK   4 rad 168 (W4387231342, deltakelse i rehabilitering innen ett år) estimat innenfor KI
+- OK   4 rad 168 (W4387231342, deltakelse i rehabilitering innen ett år) KI symmetrisk på log-skala (avvik 0.00)
+- OK   2 sitat rad 169 (W4387231342, i arbeid ett år etter 30 dagers sykepeng) står på oppgitt side
+- OK   3 estimat=0.993 rad 169 (W4387231342, i arbeid ett år etter 30 dagers sykepeng) står i sitatet
+- OK   3 ki_lav=0.982 rad 169 (W4387231342, i arbeid ett år etter 30 dagers sykepeng) står i sitatet
+- OK   3 ki_hoy=1.003 rad 169 (W4387231342, i arbeid ett år etter 30 dagers sykepeng) står i sitatet
+- OK   4 rad 169 (W4387231342, i arbeid ett år etter 30 dagers sykepeng) estimat innenfor KI
+- OK   4 rad 169 (W4387231342, i arbeid ett år etter 30 dagers sykepeng) KI symmetrisk på log-skala (avvik 0.00)
+- OK   2 sitat rad 170 (W4387231342, uførepensjon ett år etter 30 dagers syke) står på oppgitt side
+- OK   3 estimat=1.001 rad 170 (W4387231342, uførepensjon ett år etter 30 dagers syke) står i sitatet
+- OK   3 ki_lav=0.974 rad 170 (W4387231342, uførepensjon ett år etter 30 dagers syke) står i sitatet
+- OK   3 ki_hoy=1.029 rad 170 (W4387231342, uførepensjon ett år etter 30 dagers syke) står i sitatet
+- OK   4 rad 170 (W4387231342, uførepensjon ett år etter 30 dagers syke) estimat innenfor KI
+- OK   4 rad 170 (W4387231342, uførepensjon ett år etter 30 dagers syke) KI symmetrisk på log-skala (avvik 0.00)
+- OK   2 sitat rad 171 (W3146838699, uførepensjonering 2013–2015 i kommune me) står på oppgitt side
+- OK   3 estimat=0.49 rad 171 (W3146838699, uførepensjonering 2013–2015 i kommune me) står i sitatet
+- OK   3 ki_lav=0.30 rad 171 (W3146838699, uførepensjonering 2013–2015 i kommune me) står i sitatet
+- OK   3 ki_hoy=0.79 rad 171 (W3146838699, uførepensjonering 2013–2015 i kommune me) står i sitatet
+- OK   4 rad 171 (W3146838699, uførepensjonering 2013–2015 i kommune me) estimat innenfor KI
+- OK   4 rad 171 (W3146838699, uførepensjonering 2013–2015 i kommune me) KI symmetrisk på log-skala (avvik 0.01)
+- OK   2 sitat rad 172 (W3146838699, redusert arbeidsevne: uførepensjonering ) står på oppgitt side
+- OK   3 estimat=0.34 rad 172 (W3146838699, redusert arbeidsevne: uførepensjonering ) står i sitatet
+- OK   3 ki_lav=0.12 rad 172 (W3146838699, redusert arbeidsevne: uførepensjonering ) står i sitatet
+- OK   3 ki_hoy=0.99 rad 172 (W3146838699, redusert arbeidsevne: uførepensjonering ) står i sitatet
+- OK   4 rad 172 (W3146838699, redusert arbeidsevne: uførepensjonering ) estimat innenfor KI
+- OK   4 rad 172 (W3146838699, redusert arbeidsevne: uførepensjonering ) KI symmetrisk på log-skala (avvik 0.03)
+- OK   2 sitat rad 173 (W3146838699, risiko for sykefravær etter mot før innf) står på oppgitt side
+- OK   3 estimat=1.26 rad 173 (W3146838699, risiko for sykefravær etter mot før innf) står i sitatet
+- OK   3 ki_lav=1.14 rad 173 (W3146838699, risiko for sykefravær etter mot før innf) står i sitatet
+- OK   3 ki_hoy=1.40 rad 173 (W3146838699, risiko for sykefravær etter mot før innf) står i sitatet
+- OK   4 rad 173 (W3146838699, risiko for sykefravær etter mot før innf) estimat innenfor KI
+- OK   4 rad 173 (W3146838699, risiko for sykefravær etter mot før innf) KI symmetrisk på log-skala (avvik 0.01)
+- OK   2 sitat rad 174 (W2124456619, gjeninntreden i arbeid etter passiv reha) står på oppgitt side
+- OK   3 estimat=12 rad 174 (W2124456619, gjeninntreden i arbeid etter passiv reha) står i sitatet
+- OK   2 sitat rad 175 (W2124456619, gjeninntreden i arbeid etter utdanningsr) står på oppgitt side
+- OK   3 estimat=19 rad 175 (W2124456619, gjeninntreden i arbeid etter utdanningsr) står i sitatet
+- OK   2 sitat rad 176 (W2124456619, gjeninntreden i arbeid etter medisinsk r) står på oppgitt side
+- OK   3 estimat=8 rad 176 (W2124456619, gjeninntreden i arbeid etter medisinsk r) står i sitatet
+- OK   2 sitat rad 177 (W2134556813, ingen effektestimat i teksten; andel av ) står på oppgitt side
+- OK   3 estimat=2 rad 177 (W2134556813, ingen effektestimat i teksten; andel av ) står i sitatet
+- OK   2 sitat rad 178 (W4413968597, antall sykefraværsdager i ti måneder ett) står på oppgitt side
+- OK   3 estimat=0.96 rad 178 (W4413968597, antall sykefraværsdager i ti måneder ett) står i sitatet
+- OK   3 ki_lav=0.90 rad 178 (W4413968597, antall sykefraværsdager i ti måneder ett) står i sitatet
+- OK   3 ki_hoy=1.03 rad 178 (W4413968597, antall sykefraværsdager i ti måneder ett) står i sitatet
+- OK   4 rad 178 (W4413968597, antall sykefraværsdager i ti måneder ett) estimat innenfor KI
+- OK   4 rad 178 (W4413968597, antall sykefraværsdager i ti måneder ett) KI symmetrisk på log-skala (avvik 0.01)
+- OK   2 sitat rad 179 (W4413968597, gjennomsnittlig antall sykefraværsdager ) står på oppgitt side
+- OK   3 estimat=71.3 rad 179 (W4413968597, gjennomsnittlig antall sykefraværsdager ) står i sitatet
+- OK   2 sitat rad 181 (W2982124809, ingen effektestimat på retur til arbeid;) står på oppgitt side
+- OK   3 estimat=68 rad 181 (W2982124809, ingen effektestimat på retur til arbeid;) står i sitatet
+- OK   2 sitat rad 182 (0198cc72abe5-979e5cdd-1403-4d74-8cba-0ea39f1c6914, antall publikasjoner om effekt av tiltak) står på oppgitt side
+- OK   3 estimat=78 rad 182 (0198cc72abe5-979e5cdd-1403-4d74-8cba-0ea39f1c6914, antall publikasjoner om effekt av tiltak) står i sitatet
+- OK   2 sitat rad 183 (0198cc72abe5-979e5cdd-1403-4d74-8cba-0ea39f1c6914, antall studier av tiltak i regi av Nav/a) står på oppgitt side
+- OK   3 estimat=8 rad 183 (0198cc72abe5-979e5cdd-1403-4d74-8cba-0ea39f1c6914, antall studier av tiltak i regi av Nav/a) står i sitatet
+- OK   2 sitat rad 184 (W4399324105, psykiske lidelser: andel i arbeid etter ) står på oppgitt side
+- OK   3 estimat=53.9 rad 184 (W4399324105, psykiske lidelser: andel i arbeid etter ) står i sitatet
+- OK   2 sitat rad 185 (W4399324105, psykiske lidelser: tid til retur til arb) står på oppgitt side
+- OK   3 estimat=0.79 rad 185 (W4399324105, psykiske lidelser: tid til retur til arb) står i sitatet
+- OK   2 sitat rad 186 (W4399324105, psykiske lidelser: uker i arbeid første ) står på oppgitt side
+- OK   3 estimat=3.1 rad 186 (W4399324105, psykiske lidelser: uker i arbeid første ) står i sitatet
+- OK   2 sitat rad 187 (W4295476150, korsryggsmerter: andel sykmeldte ved 12 ) står på oppgitt side
+- OK   3 estimat=16 rad 187 (W4295476150, korsryggsmerter: andel sykmeldte ved 12 ) står i sitatet
+- OK   2 sitat rad 188 (W4404073311, psykiske lidelser: selvrapporterte sykef) står på oppgitt side
+- OK   3 estimat=1.04 rad 188 (W4404073311, psykiske lidelser: selvrapporterte sykef) står i sitatet
+- OK   3 ki_lav=0.99 rad 188 (W4404073311, psykiske lidelser: selvrapporterte sykef) står i sitatet
+- OK   3 ki_hoy=1.09 rad 188 (W4404073311, psykiske lidelser: selvrapporterte sykef) står i sitatet
+- OK   4 rad 188 (W4404073311, psykiske lidelser: selvrapporterte sykef) estimat innenfor KI
+- OK   4 rad 188 (W4404073311, psykiske lidelser: selvrapporterte sykef) KI symmetrisk på log-skala (avvik 0.00)
+- OK   2 sitat rad 189 (W3015192800, psykiske lidelser/stress: registrerte sy) står på oppgitt side
+- OK   3 estimat=15 rad 189 (W3015192800, psykiske lidelser/stress: registrerte sy) står i sitatet
+- OK   2 sitat rad 190 (W3044135239, kvinner: ettårsrisiko for langtidssykefr) står på oppgitt side
+- OK   3 estimat=0.93 rad 190 (W3044135239, kvinner: ettårsrisiko for langtidssykefr) står i sitatet
+- OK   3 ki_lav=0.91 rad 190 (W3044135239, kvinner: ettårsrisiko for langtidssykefr) står i sitatet
+- OK   3 ki_hoy=0.96 rad 190 (W3044135239, kvinner: ettårsrisiko for langtidssykefr) står i sitatet
+- OK   4 rad 190 (W3044135239, kvinner: ettårsrisiko for langtidssykefr) estimat innenfor KI
+- OK   4 rad 190 (W3044135239, kvinner: ettårsrisiko for langtidssykefr) KI symmetrisk på log-skala (avvik 0.01)
+- OK   2 sitat rad 191 (W3044135239, menn: ettårsrisiko for langtidssykefravæ) står på oppgitt side
+- OK   3 estimat=1.01 rad 191 (W3044135239, menn: ettårsrisiko for langtidssykefravæ) står i sitatet
+- OK   3 ki_lav=0.97 rad 191 (W3044135239, menn: ettårsrisiko for langtidssykefravæ) står i sitatet
+- OK   3 ki_hoy=1.06 rad 191 (W3044135239, menn: ettårsrisiko for langtidssykefravæ) står i sitatet
+- OK   4 rad 191 (W3044135239, menn: ettårsrisiko for langtidssykefravæ) estimat innenfor KI
+- OK   4 rad 191 (W3044135239, menn: ettårsrisiko for langtidssykefravæ) KI symmetrisk på log-skala (avvik 0.01)
+- OK   2 sitat rad 192 (W3044135239, kvinner: nedgang i ettårsrisiko for lang) står på oppgitt side
+- OK   3 estimat=1.3 rad 192 (W3044135239, kvinner: nedgang i ettårsrisiko for lang) står i sitatet
+- OK   2 sitat rad 193 (W4408790921, sannsynlighet for å forlate sykepenger i) står på oppgitt side
+- OK   3 estimat=142 rad 193 (W4408790921, sannsynlighet for å forlate sykepenger i) står i sitatet
+- OK   2 sitat rad 194 (W4408790921, sannsynlighet for å være i arbeid rett e) står på oppgitt side
+- OK   3 estimat=14 rad 194 (W4408790921, sannsynlighet for å være i arbeid rett e) står i sitatet
+- OK   2 sitat rad 195 (W4408790921, andel fortsatt på sykepenger 30 uker ett) står på oppgitt side
+- OK   3 estimat=65 rad 195 (W4408790921, andel fortsatt på sykepenger 30 uker ett) står i sitatet
+- OK   2 sitat rad 196 (W4309592779, sannsynlighet for å være i arbeid etter ) står på oppgitt side
+- OK   3 estimat=3.4 rad 196 (W4309592779, sannsynlighet for å være i arbeid etter ) står i sitatet
+- OK   3 ki_lav=2.5 rad 196 (W4309592779, sannsynlighet for å være i arbeid etter ) står i sitatet
+- OK   3 ki_hoy=4.3 rad 196 (W4309592779, sannsynlighet for å være i arbeid etter ) står i sitatet
+- OK   4 rad 196 (W4309592779, sannsynlighet for å være i arbeid etter ) estimat innenfor KI
+- OK   2 sitat rad 197 (W4309592779, flere dager i arbeid første år etter syk) står på oppgitt side
+- OK   3 estimat=8.4 rad 197 (W4309592779, flere dager i arbeid første år etter syk) står i sitatet
+- OK   3 ki_lav=4.9 rad 197 (W4309592779, flere dager i arbeid første år etter syk) står i sitatet
+- OK   3 ki_hoy=11.9 rad 197 (W4309592779, flere dager i arbeid første år etter syk) står i sitatet
+- OK   4 rad 197 (W4309592779, flere dager i arbeid første år etter syk) estimat innenfor KI
+- OK   2 sitat rad 198 (W4309592779, færre dager på full sykmelding første år) står på oppgitt side
+- OK   3 estimat=7.6 rad 198 (W4309592779, færre dager på full sykmelding første år) står i sitatet
+- OK   3 ki_lav=4.8 rad 198 (W4309592779, færre dager på full sykmelding første år) står i sitatet
+- OK   3 ki_hoy=10.3 rad 198 (W4309592779, færre dager på full sykmelding første år) står i sitatet
+- OK   4 rad 198 (W4309592779, færre dager på full sykmelding første år) estimat innenfor KI
+- OK   2 sitat rad 199 (W4385619845, menn: utgang fra arbeid året etter retur) står på oppgitt side
+- OK   3 estimat=0.96 rad 199 (W4385619845, menn: utgang fra arbeid året etter retur) står i sitatet
+- OK   3 ki_lav=0.93 rad 199 (W4385619845, menn: utgang fra arbeid året etter retur) står i sitatet
+- OK   3 ki_hoy=0.99 rad 199 (W4385619845, menn: utgang fra arbeid året etter retur) står i sitatet
+- OK   4 rad 199 (W4385619845, menn: utgang fra arbeid året etter retur) estimat innenfor KI
+- OK   4 rad 199 (W4385619845, menn: utgang fra arbeid året etter retur) KI symmetrisk på log-skala (avvik 0.00)
+- OK   2 sitat rad 200 (W4385619845, kvinner: utgang fra arbeid året etter re) står på oppgitt side
+- OK   3 estimat=0.97 rad 200 (W4385619845, kvinner: utgang fra arbeid året etter re) står i sitatet
+- OK   3 ki_lav=0.94 rad 200 (W4385619845, kvinner: utgang fra arbeid året etter re) står i sitatet
+- OK   3 ki_hoy=0.99 rad 200 (W4385619845, kvinner: utgang fra arbeid året etter re) står i sitatet
+- OK   4 rad 200 (W4385619845, kvinner: utgang fra arbeid året etter re) estimat innenfor KI
+- OK   4 rad 200 (W4385619845, kvinner: utgang fra arbeid året etter re) KI symmetrisk på log-skala (avvik 0.01)
+- OK   2 sitat rad 201 (W2775913329, ingen effektestimat i sammendraget; 2 av) står på oppgitt side
+- OK   2 sitat rad 202 (W4224227694, sykefravær; ingen statistisk signifikant) står på oppgitt side
+- OK   2 sitat rad 203 (W2076808106, reduksjon i gjennomsnittlig sykmeldingsl) står på oppgitt side
+- OK   3 estimat=8.3 rad 203 (W2076808106, reduksjon i gjennomsnittlig sykmeldingsl) står i sitatet
+- OK   2 sitat rad 204 (W2076808106, relativ risiko for å motta sykdomsrelate) står på oppgitt side
+- OK   3 estimat=0.69 rad 204 (W2076808106, relativ risiko for å motta sykdomsrelate) står i sitatet
+- OK   3 ki_lav=0.51 rad 204 (W2076808106, relativ risiko for å motta sykdomsrelate) står i sitatet
+- OK   3 ki_hoy=0.93 rad 204 (W2076808106, relativ risiko for å motta sykdomsrelate) står i sitatet
+- OK   4 rad 204 (W2076808106, relativ risiko for å motta sykdomsrelate) estimat innenfor KI
+- OK   4 rad 204 (W2076808106, relativ risiko for å motta sykdomsrelate) KI symmetrisk på log-skala (avvik 0.00)
+- OK   2 sitat rad 205 (W2012190243, økning i varighet av sykefraværet når fø) står på oppgitt side
+- OK   3 estimat=6.6 rad 205 (W2012190243, økning i varighet av sykefraværet når fø) står i sitatet
+- OK   2 sitat rad 206 (W2086246290, flere kumulerte sykefraværsdager første ) står på oppgitt side
+- OK   3 estimat=58 rad 206 (W2086246290, flere kumulerte sykefraværsdager første ) står i sitatet
+- OK   2 sitat rad 207 (W2086246290, flere kumulerte sykefraværsdager andre å) står på oppgitt side
+- OK   3 estimat=36 rad 207 (W2086246290, flere kumulerte sykefraværsdager andre å) står i sitatet
+- OK   2 sitat rad 208 (W2766169543, færre dager sykmeldt (konferansesammendr) står på oppgitt side
+- OK   3 estimat=29 rad 208 (W2766169543, færre dager sykmeldt (konferansesammendr) står i sitatet
+- OK   2 sitat rad 209 (W2147994712, forlengelse av sykefraværsperioden, måne) står på oppgitt side
+- OK   3 estimat=3 rad 209 (W2147994712, forlengelse av sykefraværsperioden, måne) står i sitatet
+- OK   2 sitat rad 210 (W2068839152, avslutning av sykepenger etter innføring) står på oppgitt side
+- OK   3 estimat=1.10 rad 210 (W2068839152, avslutning av sykepenger etter innføring) står i sitatet
+- OK   2 sitat rad 211 (W2068839152, avslutning av sykepenger etter innføring) står på oppgitt side
+- OK   3 estimat=1.07 rad 211 (W2068839152, avslutning av sykepenger etter innføring) står i sitatet
+- OK   2 sitat rad 212 (W2068839152, overgang til uførepensjon etter strenger) står på oppgitt side
+- OK   3 estimat=0.86 rad 212 (W2068839152, overgang til uførepensjon etter strenger) står i sitatet
+- OK   2 sitat rad 213 (W2068839152, overgang til uførepensjon etter strenger) står på oppgitt side
+- OK   3 estimat=1.09 rad 213 (W2068839152, overgang til uførepensjon etter strenger) står i sitatet
+- OK   2 sitat rad 214 (W2792586845, varig retur til arbeid (minst 28 dager) ) står på oppgitt side
+- OK   3 estimat=4 rad 214 (W2792586845, varig retur til arbeid (minst 28 dager) ) står i sitatet
+- OK   2 sitat rad 215 (W2792586845, kortere gjennomsnittlig tid til varig re) står på oppgitt side
+- OK   3 estimat=0.42 rad 215 (W2792586845, kortere gjennomsnittlig tid til varig re) står i sitatet
+- OK   2 sitat rad 216 (W2792586845, relativ økning i arbeidsdeltakelse) står på oppgitt side
+- OK   3 estimat=4.9 rad 216 (W2792586845, relativ økning i arbeidsdeltakelse) står i sitatet
+- OK   2 sitat rad 217 (W2801792329, arbeidsdeltakelse etter 30–60–90-dagersr) står på oppgitt side
+- OK   2 sitat rad 218 (W2155416484, tidlig yrkesrettet rehabilitering mer ef) står på oppgitt side
+- OK   2 sitat rad 223 (W4210656986, endring i gjennomsnittlig varighet av fø) står på oppgitt side
+- OK   3 estimat=-16.6 rad 223 (W4210656986, endring i gjennomsnittlig varighet av fø) står i sitatet
+- OK   3 ki_lav=-25.3 rad 223 (W4210656986, endring i gjennomsnittlig varighet av fø) står i sitatet
+- OK   3 ki_hoy=-7.9 rad 223 (W4210656986, endring i gjennomsnittlig varighet av fø) står i sitatet
+- OK   4 rad 223 (W4210656986, endring i gjennomsnittlig varighet av fø) estimat innenfor KI
+- OK   2 sitat rad 224 (W4385186036, kortere sykefravær, dager (20.4 mot 17.2) står på oppgitt side
+- OK   3 estimat=3.2 rad 224 (W4385186036, kortere sykefravær, dager (20.4 mot 17.2) står i sitatet
+- OK   2 sitat rad 225 (W7154750644, kortere tid til retur til arbeid, dager;) står på oppgitt side
+- OK   3 estimat=12.9 rad 225 (W7154750644, kortere tid til retur til arbeid, dager;) står i sitatet
+- OK   3 ki_lav=5.7 rad 225 (W7154750644, kortere tid til retur til arbeid, dager;) står i sitatet
+- OK   3 ki_hoy=20.2 rad 225 (W7154750644, kortere tid til retur til arbeid, dager;) står i sitatet
+- OK   4 rad 225 (W7154750644, kortere tid til retur til arbeid, dager;) estimat innenfor KI
+- OK   2 sitat rad 226 (W7154750644, raskere retur til arbeid; etter hoftepro) står på oppgitt side
+- OK   3 estimat=1.35 rad 226 (W7154750644, raskere retur til arbeid; etter hoftepro) står i sitatet
+- OK   3 ki_lav=1.13 rad 226 (W7154750644, raskere retur til arbeid; etter hoftepro) står i sitatet
+- OK   3 ki_hoy=1.61 rad 226 (W7154750644, raskere retur til arbeid; etter hoftepro) står i sitatet
+- OK   4 rad 226 (W7154750644, raskere retur til arbeid; etter hoftepro) estimat innenfor KI
+- OK   4 rad 226 (W7154750644, raskere retur til arbeid; etter hoftepro) KI symmetrisk på log-skala (avvik 0.00)
+- OK   2 sitat rad 227 (W7154750644, kortere tid til retur til arbeid, dager;) står på oppgitt side
+- OK   3 estimat=14.4 rad 227 (W7154750644, kortere tid til retur til arbeid, dager;) står i sitatet
+- OK   3 ki_lav=5.9 rad 227 (W7154750644, kortere tid til retur til arbeid, dager;) står i sitatet
+- OK   3 ki_hoy=22.9 rad 227 (W7154750644, kortere tid til retur til arbeid, dager;) står i sitatet
+- OK   4 rad 227 (W7154750644, kortere tid til retur til arbeid, dager;) estimat innenfor KI
+- OK   2 sitat rad 228 (W7154750644, raskere retur til arbeid; etter kneprote) står på oppgitt side
+- OK   3 estimat=1.29 rad 228 (W7154750644, raskere retur til arbeid; etter kneprote) står i sitatet
+- OK   3 ki_lav=1.09 rad 228 (W7154750644, raskere retur til arbeid; etter kneprote) står i sitatet
+- OK   3 ki_hoy=1.54 rad 228 (W7154750644, raskere retur til arbeid; etter kneprote) står i sitatet
+- OK   4 rad 228 (W7154750644, raskere retur til arbeid; etter kneprote) estimat innenfor KI
+- OK   4 rad 228 (W7154750644, raskere retur til arbeid; etter kneprote) KI symmetrisk på log-skala (avvik 0.01)
+- OK   2 sitat rad 231 (KU-3dbd207f-9dc5-45e6-a33c-6c3b245ad196, andel i jobb tre måneder etter avsluttet) står på oppgitt side
+- OK   3 estimat=80 rad 231 (KU-3dbd207f-9dc5-45e6-a33c-6c3b245ad196, andel i jobb tre måneder etter avsluttet) står i sitatet
+- OK   2 sitat rad 233 (019933dcb1e2-ddd4443d-eeee-41de-b3ae-18749bfabba2, ingen sikre effektestimat; forsøkene med) står på oppgitt side
+- OK   2 sitat rad 236 (W7113566653, antall av 14 studier med positive effekt) står på oppgitt side
+- OK   3 estimat=11 rad 236 (W7113566653, antall av 14 studier med positive effekt) står i sitatet
+- OK   2 sitat rad 237 (W4302588647, mottak av uføreytelse etter 15 måneder, ) står på oppgitt side
+- OK   3 estimat=0.8 rad 237 (W4302588647, mottak av uføreytelse etter 15 måneder, ) står i sitatet
+- OK   2 sitat rad 238 (W4302588647, mottak av uføreytelse etter 15 måneder, ) står på oppgitt side
+- OK   3 estimat=5.1 rad 238 (W4302588647, mottak av uføreytelse etter 15 måneder, ) står i sitatet
+- OK   2 sitat rad 239 (W4302588647, arbeidsledige ved start: andel med uføre) står på oppgitt side
+- OK   3 estimat=10.6 rad 239 (W4302588647, arbeidsledige ved start: andel med uføre) står i sitatet
+- OK   2 sitat rad 240 (W4302588647, avstemmingsmøte med arbeidsgiver (AM): i) står på oppgitt side
+- OK   2 sitat rad 241 (W1892086574, tid til første retur til arbeid (klynger) står på oppgitt side
+- OK   3 estimat=1.39 rad 241 (W1892086574, tid til første retur til arbeid (klynger) står i sitatet
+- OK   3 ki_lav=0.81 rad 241 (W1892086574, tid til første retur til arbeid (klynger) står i sitatet
+- OK   3 ki_hoy=2.37 rad 241 (W1892086574, tid til første retur til arbeid (klynger) står i sitatet
+- OK   4 rad 241 (W1892086574, tid til første retur til arbeid (klynger) estimat innenfor KI
+- OK   4 rad 241 (W1892086574, tid til første retur til arbeid (klynger) KI symmetrisk på log-skala (avvik 0.01)
+- OK   2 sitat rad 242 (W1892086574, tid til full retur til arbeid) står på oppgitt side
+- OK   3 estimat=1.12 rad 242 (W1892086574, tid til full retur til arbeid) står i sitatet
+- OK   3 ki_lav=0.65 rad 242 (W1892086574, tid til full retur til arbeid) står i sitatet
+- OK   3 ki_hoy=1.93 rad 242 (W1892086574, tid til full retur til arbeid) står i sitatet
+- OK   4 rad 242 (W1892086574, tid til full retur til arbeid) estimat innenfor KI
+- OK   4 rad 242 (W1892086574, tid til full retur til arbeid) KI symmetrisk på log-skala (avvik 0.00)
+- OK   2 sitat rad 243 (W1892086574, tid til varig retur til arbeid) står på oppgitt side
+- OK   3 estimat=1.10 rad 243 (W1892086574, tid til varig retur til arbeid) står i sitatet
+- OK   3 ki_lav=0.63 rad 243 (W1892086574, tid til varig retur til arbeid) står i sitatet
+- OK   3 ki_hoy=1.95 rad 243 (W1892086574, tid til varig retur til arbeid) står i sitatet
+- OK   4 rad 243 (W1892086574, tid til varig retur til arbeid) estimat innenfor KI
+- OK   4 rad 243 (W1892086574, tid til varig retur til arbeid) KI symmetrisk på log-skala (avvik 0.02)
+- OK   2 sitat rad 244 (W3162733289, sykefraværsdager de neste 16 månedene et) står på oppgitt side
+- OK   3 estimat=12 rad 244 (W3162733289, sykefraværsdager de neste 16 månedene et) står i sitatet
+- OK   2 sitat rad 245 (W3162733289, sykefraværsdager de neste 16 månedene, d) står på oppgitt side
+- OK   3 estimat=-10.2 rad 245 (W3162733289, sykefraværsdager de neste 16 månedene, d) står i sitatet
+- OK   2 sitat rad 246 (W3170545082, utstrømning fra sykmelding ved 181-dager) står på oppgitt side
+- OK   3 estimat=60.7 rad 246 (W3170545082, utstrømning fra sykmelding ved 181-dager) står i sitatet
+- OK   2 sitat rad 247 (W3170545082, utstrømning fra sykmelding uke 5–8) står på oppgitt side
+- OK   3 estimat=10.4 rad 247 (W3170545082, utstrømning fra sykmelding uke 5–8) står i sitatet
+- OK   2 sitat rad 248 (W3170545082, samlet reduksjon i sykmeldingstid opptil) står på oppgitt side
+- OK   3 estimat=0.35 rad 248 (W3170545082, samlet reduksjon i sykmeldingstid opptil) står i sitatet
+- OK   2 sitat rad 249 (W4414256612, midlertidig ansatte: sannsynlighet for t) står på oppgitt side
+- OK   3 estimat=6.24 rad 249 (W4414256612, midlertidig ansatte: sannsynlighet for t) står i sitatet
+- OK   2 sitat rad 250 (W4414256612, fast ansatte i små bedrifter: sannsynlig) står på oppgitt side
+- OK   3 estimat=2.32 rad 250 (W4414256612, fast ansatte i små bedrifter: sannsynlig) står i sitatet
+- OK   2 sitat rad 251 (W2087092263, kommune 2, sykmeldte fra arbeid: overgan) står på oppgitt side
+- OK   3 estimat=1.32 rad 251 (W2087092263, kommune 2, sykmeldte fra arbeid: overgan) står i sitatet
+- OK   3 ki_lav=1.08 rad 251 (W2087092263, kommune 2, sykmeldte fra arbeid: overgan) står i sitatet
+- OK   3 ki_hoy=1.61 rad 251 (W2087092263, kommune 2, sykmeldte fra arbeid: overgan) står i sitatet
+- OK   4 rad 251 (W2087092263, kommune 2, sykmeldte fra arbeid: overgan) estimat innenfor KI
+- OK   4 rad 251 (W2087092263, kommune 2, sykmeldte fra arbeid: overgan) KI symmetrisk på log-skala (avvik 0.00)
+- OK   2 sitat rad 252 (W2087092263, kommune 3: overgang til selvforsørgelse) står på oppgitt side
+- OK   3 estimat=0.72 rad 252 (W2087092263, kommune 3: overgang til selvforsørgelse) står i sitatet
+- OK   3 ki_lav=0.54 rad 252 (W2087092263, kommune 3: overgang til selvforsørgelse) står i sitatet
+- OK   3 ki_hoy=0.95 rad 252 (W2087092263, kommune 3: overgang til selvforsørgelse) står i sitatet
+- OK   4 rad 252 (W2087092263, kommune 3: overgang til selvforsørgelse) estimat innenfor KI
+- OK   4 rad 252 (W2087092263, kommune 3: overgang til selvforsørgelse) KI symmetrisk på log-skala (avvik 0.01)
+- OK   2 sitat rad 253 (W2087092263, kommune 1: overgang til selvforsørgelse) står på oppgitt side
+- OK   3 estimat=0.99 rad 253 (W2087092263, kommune 1: overgang til selvforsørgelse) står i sitatet
+- OK   3 ki_lav=0.84 rad 253 (W2087092263, kommune 1: overgang til selvforsørgelse) står i sitatet
+- OK   3 ki_hoy=1.17 rad 253 (W2087092263, kommune 1: overgang til selvforsørgelse) står i sitatet
+- OK   4 rad 253 (W2087092263, kommune 1: overgang til selvforsørgelse) estimat innenfor KI
+- OK   4 rad 253 (W2087092263, kommune 1: overgang til selvforsørgelse) KI symmetrisk på log-skala (avvik 0.00)
+- OK   2 sitat rad 254 (W2109021417, tilstrømning til uføreytelse (publisert ) står på oppgitt side
+- OK   3 estimat=20 rad 254 (W2109021417, tilstrømning til uføreytelse (publisert ) står i sitatet
+- OK   2 sitat rad 255 (W1563064513, sykefraværsdager når kravet om legeerklæ) står på oppgitt side
+- OK   3 estimat=6.6 rad 255 (W1563064513, sykefraværsdager når kravet om legeerklæ) står i sitatet
+- OK   2 sitat rad 256 (W1563064513, gjennomsnittlig lengde på sykefraværsper) står på oppgitt side
+- OK   3 estimat=12.64 rad 256 (W1563064513, gjennomsnittlig lengde på sykefraværsper) står i sitatet
+- OK   2 sitat rad 257 (W2136823366, sykefraværsdager per måned og person ove) står på oppgitt side
+- OK   3 estimat=5.7 rad 257 (W2136823366, sykefraværsdager per måned og person ove) står i sitatet
+- OK   2 sitat rad 258 (W2020517177, økonomisk gevinst per måned og person, e) står på oppgitt side
+- OK   3 estimat=1278 rad 258 (W2020517177, økonomisk gevinst per måned og person, e) står i sitatet
+- OK   2 sitat rad 259 (W2103570575, sykmeldte med tilpasningsforstyrrelse: t) står på oppgitt side
+- OK   3 estimat=1.61 rad 259 (W2103570575, sykmeldte med tilpasningsforstyrrelse: t) står i sitatet
+- OK   3 ki_lav=1.18 rad 259 (W2103570575, sykmeldte med tilpasningsforstyrrelse: t) står i sitatet
+- OK   3 ki_hoy=2.19 rad 259 (W2103570575, sykmeldte med tilpasningsforstyrrelse: t) står i sitatet
+- OK   4 rad 259 (W2103570575, sykmeldte med tilpasningsforstyrrelse: t) estimat innenfor KI
+- OK   2 sitat rad 260 (W2103570575, sykmeldte med tilpasningsforstyrrelse: t) står på oppgitt side
+- OK   3 estimat=1.41 rad 260 (W2103570575, sykmeldte med tilpasningsforstyrrelse: t) står i sitatet
+- OK   3 ki_lav=1.04 rad 260 (W2103570575, sykmeldte med tilpasningsforstyrrelse: t) står i sitatet
+- OK   3 ki_hoy=1.92 rad 260 (W2103570575, sykmeldte med tilpasningsforstyrrelse: t) står i sitatet
+- OK   4 rad 260 (W2103570575, sykmeldte med tilpasningsforstyrrelse: t) estimat innenfor KI
+- OK   2 sitat rad 261 (W2103570575, sykmeldte med tilpasningsforstyrrelse: r) står på oppgitt side
+- OK   3 estimat=25 rad 261 (W2103570575, sykmeldte med tilpasningsforstyrrelse: r) står i sitatet
+- OK   2 sitat rad 262 (W2414105140, trygdebruk etter tre år ved systematisk ) står på oppgitt side
+- OK   2 sitat rad 263 (W3000937778, etter ryggkirurgi: retur til arbeid ette) står på oppgitt side
+- OK   3 estimat=1.18 rad 263 (W3000937778, etter ryggkirurgi: retur til arbeid ette) står i sitatet
+- OK   3 ki_lav=0.8 rad 263 (W3000937778, etter ryggkirurgi: retur til arbeid ette) står i sitatet
+- OK   3 ki_hoy=1.7 rad 263 (W3000937778, etter ryggkirurgi: retur til arbeid ette) står i sitatet
+- OK   4 rad 263 (W3000937778, etter ryggkirurgi: retur til arbeid ette) estimat innenfor KI
+- OK   4 rad 263 (W3000937778, etter ryggkirurgi: retur til arbeid ette) KI symmetrisk på log-skala (avvik 0.02)
+- OK   2 sitat rad 264 (W2061898948, muskel- og skjelettlidelser: avklart for) står på oppgitt side
+- OK   3 estimat=1.2 rad 264 (W2061898948, muskel- og skjelettlidelser: avklart for) står i sitatet
+- OK   3 ki_lav=1.0 rad 264 (W2061898948, muskel- og skjelettlidelser: avklart for) står i sitatet
+- OK   3 ki_hoy=1.5 rad 264 (W2061898948, muskel- og skjelettlidelser: avklart for) står i sitatet
+- OK   4 rad 264 (W2061898948, muskel- og skjelettlidelser: avklart for) estimat innenfor KI
+- OK   4 rad 264 (W2061898948, muskel- og skjelettlidelser: avklart for) KI symmetrisk på log-skala (avvik 0.04)
+- OK   2 sitat rad 265 (W2061898948, muskel- og skjelettlidelser: yrkesstatus) står på oppgitt side
+- OK   3 estimat=1.1 rad 265 (W2061898948, muskel- og skjelettlidelser: yrkesstatus) står i sitatet
+- OK   3 ki_lav=0.8 rad 265 (W2061898948, muskel- og skjelettlidelser: yrkesstatus) står i sitatet
+- OK   3 ki_hoy=1.4 rad 265 (W2061898948, muskel- og skjelettlidelser: yrkesstatus) står i sitatet
+- OK   4 rad 265 (W2061898948, muskel- og skjelettlidelser: yrkesstatus) estimat innenfor KI
+- OK   4 rad 265 (W2061898948, muskel- og skjelettlidelser: yrkesstatus) KI symmetrisk på log-skala (avvik 0.08)
+- OK   2 sitat rad 266 (W4396861024, muskel- og skjelettlidelser: andel i hel) står på oppgitt side
+- OK   3 estimat=86 rad 266 (W4396861024, muskel- og skjelettlidelser: andel i hel) står i sitatet
+- OK   2 sitat rad 267 (W4396861024, muskel- og skjelettlidelser: færre sykep) står på oppgitt side
+- OK   3 estimat=4 rad 267 (W4396861024, muskel- og skjelettlidelser: færre sykep) står i sitatet
+- OK   2 sitat rad 269 (W2753581083, psykiske lidelser: varighet av sykmeldin) står på oppgitt side
+- OK   3 estimat=1.05 rad 269 (W2753581083, psykiske lidelser: varighet av sykmeldin) står i sitatet
+- OK   3 ki_lav=0.74 rad 269 (W2753581083, psykiske lidelser: varighet av sykmeldin) står i sitatet
+- OK   3 ki_hoy=1.43 rad 269 (W2753581083, psykiske lidelser: varighet av sykmeldin) står i sitatet
+- OK   4 rad 269 (W2753581083, psykiske lidelser: varighet av sykmeldin) estimat innenfor KI
+- OK   4 rad 269 (W2753581083, psykiske lidelser: varighet av sykmeldin) KI symmetrisk på log-skala (avvik 0.04)
+- OK   2 sitat rad 270 (W2753581083, psykiske lidelser: tid til retur til arb) står på oppgitt side
+- OK   3 estimat=0.94 rad 270 (W2753581083, psykiske lidelser: tid til retur til arb) står i sitatet
+- OK   3 ki_lav=0.65 rad 270 (W2753581083, psykiske lidelser: tid til retur til arb) står i sitatet
+- OK   3 ki_hoy=1.35 rad 270 (W2753581083, psykiske lidelser: tid til retur til arb) står i sitatet
+- OK   4 rad 270 (W2753581083, psykiske lidelser: tid til retur til arb) estimat innenfor KI
+- OK   4 rad 270 (W2753581083, psykiske lidelser: tid til retur til arb) KI symmetrisk på log-skala (avvik 0.01)
+- OK   2 sitat rad 271 (W2090705748, ingen effektestimat (intervjuer om erfar) står på oppgitt side
+- OK   2 sitat rad 272 (W2074879653, andel langtidssykmeldte invitert til avs) står på oppgitt side
+- OK   3 estimat=60 rad 272 (W2074879653, andel langtidssykmeldte invitert til avs) står i sitatet
+- OK   2 sitat rad 273 (W2894846380, andel prosessledere i regionene som hadd) står på oppgitt side
+- OK   3 estimat=28 rad 273 (W2894846380, andel prosessledere i regionene som hadd) står i sitatet
+- OK   2 sitat rad 274 (W2894846380, andel klinikere i kontakt med pasientens) står på oppgitt side
+- OK   3 estimat=9 rad 274 (W2894846380, andel klinikere i kontakt med pasientens) står i sitatet
+- OK   2 sitat rad 276 (W2153084569, andel bedriftshelsetjenester som tilbyr ) står på oppgitt side
+- OK   3 estimat=41 rad 276 (W2153084569, andel bedriftshelsetjenester som tilbyr ) står i sitatet
+- OK   2 sitat rad 277 (W2153084569, andel bedriftshelsetjenester som nevner ) står på oppgitt side
+- OK   3 estimat=10 rad 277 (W2153084569, andel bedriftshelsetjenester som nevner ) står i sitatet
+- OK   2 sitat rad 278 (W4239637744, intensivert obligatorisk tilbakeføringsa) står på oppgitt side
+- OK   2 sitat rad 279 (W2411974038, psykiske lidelser (CMD): tid til første ) står på oppgitt side
+- OK   3 estimat=12 rad 279 (W2411974038, psykiske lidelser (CMD): tid til første ) står i sitatet
+- OK   2 sitat rad 280 (W2411974038, psykiske lidelser (CMD): tid til full re) står på oppgitt side
+- OK   3 estimat=41 rad 280 (W2411974038, psykiske lidelser (CMD): tid til full re) står i sitatet
+- OK   2 sitat rad 281 (W2411974038, psykiske lidelser (CMD): odds for full r) står på oppgitt side
+- OK   3 estimat=7 rad 281 (W2411974038, psykiske lidelser (CMD): odds for full r) står i sitatet
+- OK   2 sitat rad 282 (W2142327029, psykisk belastning (distress), sykmeldt ) står på oppgitt side
+- OK   3 estimat=0.99 rad 282 (W2142327029, psykisk belastning (distress), sykmeldt ) står i sitatet
+- OK   3 ki_lav=0.70 rad 282 (W2142327029, psykisk belastning (distress), sykmeldt ) står i sitatet
+- OK   3 ki_hoy=1.39 rad 282 (W2142327029, psykisk belastning (distress), sykmeldt ) står i sitatet
+- OK   4 rad 282 (W2142327029, psykisk belastning (distress), sykmeldt ) estimat innenfor KI
+- OK   4 rad 282 (W2142327029, psykisk belastning (distress), sykmeldt ) KI symmetrisk på log-skala (avvik 0.01)
+- OK   2 sitat rad 283 (W2142327029, distress, undergruppe som ved start hadd) står på oppgitt side
+- OK   3 estimat=2.05 rad 283 (W2142327029, distress, undergruppe som ved start hadd) står i sitatet
+- OK   3 ki_lav=1.22 rad 283 (W2142327029, distress, undergruppe som ved start hadd) står i sitatet
+- OK   3 ki_hoy=3.45 rad 283 (W2142327029, distress, undergruppe som ved start hadd) står i sitatet
+- OK   4 rad 283 (W2142327029, distress, undergruppe som ved start hadd) estimat innenfor KI
+- OK   4 rad 283 (W2142327029, distress, undergruppe som ved start hadd) KI symmetrisk på log-skala (avvik 0.00)
+- OK   2 sitat rad 284 (W2142327029, distress, undergruppe med hensikt om ret) står på oppgitt side
+- OK   3 estimat=55 rad 284 (W2142327029, distress, undergruppe med hensikt om ret) står i sitatet
+- OK   2 sitat rad 285 (W2142327029, distress, undergruppe uten hensikt om re) står på oppgitt side
+- OK   3 estimat=0.78 rad 285 (W2142327029, distress, undergruppe uten hensikt om re) står i sitatet
+- OK   3 ki_lav=0.47 rad 285 (W2142327029, distress, undergruppe uten hensikt om re) står i sitatet
+- OK   3 ki_hoy=1.28 rad 285 (W2142327029, distress, undergruppe uten hensikt om re) står i sitatet
+- OK   4 rad 285 (W2142327029, distress, undergruppe uten hensikt om re) estimat innenfor KI
+- OK   4 rad 285 (W2142327029, distress, undergruppe uten hensikt om re) KI symmetrisk på log-skala (avvik 0.01)
+- OK   2 sitat rad 286 (W2171186773, andel fravær over 4 uker som varte ut ov) står på oppgitt side
+- OK   3 estimat=10.7 rad 286 (W2171186773, andel fravær over 4 uker som varte ut ov) står i sitatet
+- OK   3 ki_lav=1.5 rad 286 (W2171186773, andel fravær over 4 uker som varte ut ov) står i sitatet
+- OK   3 ki_hoy=20.0 rad 286 (W2171186773, andel fravær over 4 uker som varte ut ov) står i sitatet
+- OK   4 rad 286 (W2171186773, andel fravær over 4 uker som varte ut ov) estimat innenfor KI
+- OK   2 sitat rad 287 (W2171186773, gjennomsnittlige fraværsdager ut over 4 ) står på oppgitt side
+- OK   3 estimat=1.6 rad 287 (W2171186773, gjennomsnittlige fraværsdager ut over 4 ) står i sitatet
+- OK   3 ki_lav=-7.2 rad 287 (W2171186773, gjennomsnittlige fraværsdager ut over 4 ) står i sitatet
+- OK   3 ki_hoy=10.3 rad 287 (W2171186773, gjennomsnittlige fraværsdager ut over 4 ) står i sitatet
+- OK   4 rad 287 (W2171186773, gjennomsnittlige fraværsdager ut over 4 ) estimat innenfor KI
+- OK   2 sitat rad 288 (W2070975802, andel uten sykepenger ett år etter start) står på oppgitt side
+- OK   3 estimat=86 rad 288 (W2070975802, andel uten sykepenger ett år etter start) står i sitatet
+- OK   2 sitat rad 289 (W2130137198, strengere vurdering av søknader om uføre) står på oppgitt side
+- OK   2 sitat rad 291 (W2047554703, psykiske lidelser, politiansatte: tid ti) står på oppgitt side
+- OK   2 sitat rad 292 (W2127673741, korsryggsmerter, sykmeldt under 1 måned:) står på oppgitt side
+- OK   3 estimat=1.3 rad 292 (W2127673741, korsryggsmerter, sykmeldt under 1 måned:) står i sitatet
+- OK   3 ki_lav=0.90 rad 292 (W2127673741, korsryggsmerter, sykmeldt under 1 måned:) står i sitatet
+- OK   3 ki_hoy=1.90 rad 292 (W2127673741, korsryggsmerter, sykmeldt under 1 måned:) står i sitatet
+- OK   4 rad 292 (W2127673741, korsryggsmerter, sykmeldt under 1 måned:) estimat innenfor KI
+- OK   4 rad 292 (W2127673741, korsryggsmerter, sykmeldt under 1 måned:) KI symmetrisk på log-skala (avvik 0.01)
+- OK   2 sitat rad 293 (W2121271519, vikarer og arbeidsledige med muskel- og ) står på oppgitt side
+- OK   3 estimat=2.24 rad 293 (W2121271519, vikarer og arbeidsledige med muskel- og ) står i sitatet
+- OK   3 ki_lav=1.28 rad 293 (W2121271519, vikarer og arbeidsledige med muskel- og ) står i sitatet
+- OK   3 ki_hoy=3.94 rad 293 (W2121271519, vikarer og arbeidsledige med muskel- og ) står i sitatet
+- OK   4 rad 293 (W2121271519, vikarer og arbeidsledige med muskel- og ) estimat innenfor KI
+- OK   4 rad 293 (W2121271519, vikarer og arbeidsledige med muskel- og ) KI symmetrisk på log-skala (avvik 0.01)
+- OK   2 sitat rad 294 (W2121271519, vikarer og arbeidsledige med muskel- og ) står på oppgitt side
+- OK   3 estimat=0.76 rad 294 (W2121271519, vikarer og arbeidsledige med muskel- og ) står i sitatet
+- OK   3 ki_lav=0.42 rad 294 (W2121271519, vikarer og arbeidsledige med muskel- og ) står i sitatet
+- OK   3 ki_hoy=1.37 rad 294 (W2121271519, vikarer og arbeidsledige med muskel- og ) står i sitatet
+- OK   4 rad 294 (W2121271519, vikarer og arbeidsledige med muskel- og ) estimat innenfor KI
+- OK   4 rad 294 (W2121271519, vikarer og arbeidsledige med muskel- og ) KI symmetrisk på log-skala (avvik 0.00)
+- OK   2 sitat rad 295 (W2121271519, vikarer og arbeidsledige med muskel- og ) står på oppgitt side
+- OK   3 estimat=161 rad 295 (W2121271519, vikarer og arbeidsledige med muskel- og ) står i sitatet
+- OK   2 sitat rad 296 (W2121271519, vikarer og arbeidsledige med muskel- og ) står på oppgitt side
+- OK   3 estimat=160 rad 296 (W2121271519, vikarer og arbeidsledige med muskel- og ) står i sitatet
+- OK   2 sitat rad 297 (W2507610517, arbeidstakere uten arbeidskontrakt, psyk) står på oppgitt side
+- OK   3 estimat=1.15 rad 297 (W2507610517, arbeidstakere uten arbeidskontrakt, psyk) står i sitatet
+- OK   3 ki_lav=0.61 rad 297 (W2507610517, arbeidstakere uten arbeidskontrakt, psyk) står i sitatet
+- OK   3 ki_hoy=2.16 rad 297 (W2507610517, arbeidstakere uten arbeidskontrakt, psyk) står i sitatet
+- OK   4 rad 297 (W2507610517, arbeidstakere uten arbeidskontrakt, psyk) estimat innenfor KI
+- OK   4 rad 297 (W2507610517, arbeidstakere uten arbeidskontrakt, psyk) KI symmetrisk på log-skala (avvik 0.00)
+- OK   2 sitat rad 298 (W2108740484, psykiske lidelser (CMD), etter retur: fo) står på oppgitt side
+- OK   3 estimat=0.40 rad 298 (W2108740484, psykiske lidelser (CMD), etter retur: fo) står i sitatet
+- OK   3 ki_lav=0.20 rad 298 (W2108740484, psykiske lidelser (CMD), etter retur: fo) står i sitatet
+- OK   3 ki_hoy=0.81 rad 298 (W2108740484, psykiske lidelser (CMD), etter retur: fo) står i sitatet
+- OK   4 rad 298 (W2108740484, psykiske lidelser (CMD), etter retur: fo) estimat innenfor KI
+- OK   4 rad 298 (W2108740484, psykiske lidelser (CMD), etter retur: fo) KI symmetrisk på log-skala (avvik 0.01)
+- OK   2 sitat rad 299 (W2108740484, psykiske lidelser (CMD), etter retur: ti) står på oppgitt side
+- OK   3 estimat=0.53 rad 299 (W2108740484, psykiske lidelser (CMD), etter retur: ti) står i sitatet
+- OK   3 ki_lav=0.33 rad 299 (W2108740484, psykiske lidelser (CMD), etter retur: ti) står i sitatet
+- OK   3 ki_hoy=0.86 rad 299 (W2108740484, psykiske lidelser (CMD), etter retur: ti) står i sitatet
+- OK   4 rad 299 (W2108740484, psykiske lidelser (CMD), etter retur: ti) estimat innenfor KI
+- OK   4 rad 299 (W2108740484, psykiske lidelser (CMD), etter retur: ti) KI symmetrisk på log-skala (avvik 0.01)
+- OK   2 sitat rad 300 (W2100697776, retur til arbeid etter minst seks ukers ) står på oppgitt side
+- OK   2 sitat rad 301 (W2792125217, pilotforsøk, langtidssykmeldte: antall s) står på oppgitt side
+- OK   3 estimat=1 rad 301 (W2792125217, pilotforsøk, langtidssykmeldte: antall s) står i sitatet
+- OK   2 sitat rad 302 (W1973614852, andel i intervensjonsgruppen som var til) står på oppgitt side
+- OK   3 estimat=61 rad 302 (W1973614852, andel i intervensjonsgruppen som var til) står i sitatet
+- OK   2 sitat rad 303 (W1973614852, median uker til retur i intervensjonsgru) står på oppgitt side
+- OK   3 estimat=7.71 rad 303 (W1973614852, median uker til retur i intervensjonsgru) står i sitatet
+- OK   3 ki_lav=1.71 rad 303 (W1973614852, median uker til retur i intervensjonsgru) står i sitatet
+- OK   3 ki_hoy=15.71 rad 303 (W1973614852, median uker til retur i intervensjonsgru) står i sitatet
+- OK   4 rad 303 (W1973614852, median uker til retur i intervensjonsgru) estimat innenfor KI
+- OK   2 sitat rad 304 (W7127178060, selvrapporterte fraværsdager over 6 måne) står på oppgitt side
+- OK   3 estimat=0.913 rad 304 (W7127178060, selvrapporterte fraværsdager over 6 måne) står i sitatet
+- OK   3 ki_lav=0.653 rad 304 (W7127178060, selvrapporterte fraværsdager over 6 måne) står i sitatet
+- OK   3 ki_hoy=1.276 rad 304 (W7127178060, selvrapporterte fraværsdager over 6 måne) står i sitatet
+- OK   4 rad 304 (W7127178060, selvrapporterte fraværsdager over 6 måne) estimat innenfor KI
+- OK   4 rad 304 (W7127178060, selvrapporterte fraværsdager over 6 måne) KI symmetrisk på log-skala (avvik 0.00)
+- OK   2 sitat rad 305 (W7127178060, gjennomsnittlige fraværsdager over 6 mån) står på oppgitt side
+- OK   3 estimat=37.86 rad 305 (W7127178060, gjennomsnittlige fraværsdager over 6 mån) står i sitatet
+- OK   2 sitat rad 306 (W4415579856, psykiske lidelser: varig retur (under 6 ) står på oppgitt side
+- OK   3 estimat=1.33 rad 306 (W4415579856, psykiske lidelser: varig retur (under 6 ) står i sitatet
+- OK   3 ki_lav=0.85 rad 306 (W4415579856, psykiske lidelser: varig retur (under 6 ) står i sitatet
+- OK   3 ki_hoy=2.07 rad 306 (W4415579856, psykiske lidelser: varig retur (under 6 ) står i sitatet
+- OK   4 rad 306 (W4415579856, psykiske lidelser: varig retur (under 6 ) estimat innenfor KI
+- OK   4 rad 306 (W4415579856, psykiske lidelser: varig retur (under 6 ) KI symmetrisk på log-skala (avvik 0.01)
+- OK   2 sitat rad 307 (W4415579856, psykiske lidelser uten anerkjent uføregr) står på oppgitt side
+- OK   3 estimat=1.69 rad 307 (W4415579856, psykiske lidelser uten anerkjent uføregr) står i sitatet
+- OK   2 sitat rad 308 (W2771627068, muskel- og skjelettlidelser og lettere p) står på oppgitt side
+- OK   3 estimat=30 rad 308 (W2771627068, muskel- og skjelettlidelser og lettere p) står i sitatet
+- OK   2 sitat rad 309 (W2771627068, muskel- og skjelettlidelser og lettere p) står på oppgitt side
+- OK   3 estimat=10.4 rad 309 (W2771627068, muskel- og skjelettlidelser og lettere p) står i sitatet
+- OK   2 sitat rad 310 (W4414965353, psykiske lidelser (CMD): tid til full re) står på oppgitt side
+- OK   3 estimat=0.89 rad 310 (W4414965353, psykiske lidelser (CMD): tid til full re) står i sitatet
+- OK   3 ki_lav=0.86 rad 310 (W4414965353, psykiske lidelser (CMD): tid til full re) står i sitatet
+- OK   3 ki_hoy=0.93 rad 310 (W4414965353, psykiske lidelser (CMD): tid til full re) står i sitatet
+- OK   4 rad 310 (W4414965353, psykiske lidelser (CMD): tid til full re) estimat innenfor KI
+- OK   4 rad 310 (W4414965353, psykiske lidelser (CMD): tid til full re) KI symmetrisk på log-skala (avvik 0.01)
+- OK   2 sitat rad 311 (W4414965353, psykiske lidelser (CMD): tid til full re) står på oppgitt side
+- OK   3 estimat=0.82 rad 311 (W4414965353, psykiske lidelser (CMD): tid til full re) står i sitatet
+- OK   3 ki_lav=0.77 rad 311 (W4414965353, psykiske lidelser (CMD): tid til full re) står i sitatet
+- OK   3 ki_hoy=0.88 rad 311 (W4414965353, psykiske lidelser (CMD): tid til full re) står i sitatet
+- OK   4 rad 311 (W4414965353, psykiske lidelser (CMD): tid til full re) estimat innenfor KI
+- OK   4 rad 311 (W4414965353, psykiske lidelser (CMD): tid til full re) KI symmetrisk på log-skala (avvik 0.01)
+- OK   2 sitat rad 312 (W4414965353, psykiske lidelser (CMD): tid til full re) står på oppgitt side
+- OK   3 estimat=0.84 rad 312 (W4414965353, psykiske lidelser (CMD): tid til full re) står i sitatet
+- OK   3 ki_lav=0.79 rad 312 (W4414965353, psykiske lidelser (CMD): tid til full re) står i sitatet
+- OK   3 ki_hoy=0.89 rad 312 (W4414965353, psykiske lidelser (CMD): tid til full re) står i sitatet
+- OK   4 rad 312 (W4414965353, psykiske lidelser (CMD): tid til full re) estimat innenfor KI
+- OK   4 rad 312 (W4414965353, psykiske lidelser (CMD): tid til full re) KI symmetrisk på log-skala (avvik 0.00)
+- OK   2 sitat rad 313 (W3009296559, sammenligning av reformer i sykefravær o) står på oppgitt side
+- OK   2 sitat rad 316 (W2412604146, retur til arbeid, muskel- og skjelettpla) står på oppgitt side
+- OK   3 estimat=1.8 rad 316 (W2412604146, retur til arbeid, muskel- og skjelettpla) står i sitatet
+- OK   3 ki_lav=1.2 rad 316 (W2412604146, retur til arbeid, muskel- og skjelettpla) står i sitatet
+- OK   3 ki_hoy=2.8 rad 316 (W2412604146, retur til arbeid, muskel- og skjelettpla) står i sitatet
+- OK   4 rad 316 (W2412604146, retur til arbeid, muskel- og skjelettpla) estimat innenfor KI
+- OK   4 rad 316 (W2412604146, retur til arbeid, muskel- og skjelettpla) KI symmetrisk på log-skala (avvik 0.04)
+- OK   2 sitat rad 317 (W4294879451, retur til arbeid ved 12 måneder, fem stu) står på oppgitt side
+- OK   3 estimat=1.04 rad 317 (W4294879451, retur til arbeid ved 12 måneder, fem stu) står i sitatet
+- OK   3 ki_lav=0.86 rad 317 (W4294879451, retur til arbeid ved 12 måneder, fem stu) står i sitatet
+- OK   3 ki_hoy=1.25 rad 317 (W4294879451, retur til arbeid ved 12 måneder, fem stu) står i sitatet
+- OK   4 rad 317 (W4294879451, retur til arbeid ved 12 måneder, fem stu) estimat innenfor KI
+- OK   4 rad 317 (W4294879451, retur til arbeid ved 12 måneder, fem stu) KI symmetrisk på log-skala (avvik 0.01)
+- OK   2 sitat rad 318 (W2796572035, uker i ordinært arbeid første år etter r) står på oppgitt side
+- OK   3 estimat=-0.859 rad 318 (W2796572035, uker i ordinært arbeid første år etter r) står i sitatet
+- OK   2 sitat rad 319 (W2796572035, uker sykmeldt første år: forventet nedga) står på oppgitt side
+- OK   3 estimat=3.5 rad 319 (W2796572035, uker sykmeldt første år: forventet nedga) står i sitatet
+- OK   2 sitat rad 320 (W3170959179, antall sykefraværstilfeller etter mot fø) står på oppgitt side
+- OK   3 estimat=1.08 rad 320 (W3170959179, antall sykefraværstilfeller etter mot fø) står i sitatet
+- OK   3 ki_lav=1.06 rad 320 (W3170959179, antall sykefraværstilfeller etter mot fø) står i sitatet
+- OK   3 ki_hoy=1.10 rad 320 (W3170959179, antall sykefraværstilfeller etter mot fø) står i sitatet
+- OK   4 rad 320 (W3170959179, antall sykefraværstilfeller etter mot fø) estimat innenfor KI
+- OK   4 rad 320 (W3170959179, antall sykefraværstilfeller etter mot fø) KI symmetrisk på log-skala (avvik 0.00)
+- OK   2 sitat rad 321 (W1606668257, samlet sykefravær, arbeidsdager per år, ) står på oppgitt side
+- OK   3 estimat=-16.18 rad 321 (W1606668257, samlet sykefravær, arbeidsdager per år, ) står i sitatet
+- OK   3 ki_lav=-32.42 rad 321 (W1606668257, samlet sykefravær, arbeidsdager per år, ) står i sitatet
+- OK   3 ki_hoy=0.06 rad 321 (W1606668257, samlet sykefravær, arbeidsdager per år, ) står i sitatet
+- OK   4 rad 321 (W1606668257, samlet sykefravær, arbeidsdager per år, ) estimat innenfor KI
+- OK   2 sitat rad 322 (W4200573960, andel i arbeid etter 12 måneder; OR for ) står på oppgitt side
+- OK   3 estimat=0.64 rad 322 (W4200573960, andel i arbeid etter 12 måneder; OR for ) står i sitatet
+- OK   3 ki_lav=0.39 rad 322 (W4200573960, andel i arbeid etter 12 måneder; OR for ) står i sitatet
+- OK   3 ki_hoy=1.05 rad 322 (W4200573960, andel i arbeid etter 12 måneder; OR for ) står i sitatet
+- OK   4 rad 322 (W4200573960, andel i arbeid etter 12 måneder; OR for ) estimat innenfor KI
+- OK   4 rad 322 (W4200573960, andel i arbeid etter 12 måneder; OR for ) KI symmetrisk på log-skala (avvik 0.00)
+- OK   2 sitat rad 323 (W4200573960, tid til retur til arbeid (HR, 12 måneder) står på oppgitt side
+- OK   3 estimat=0.96 rad 323 (W4200573960, tid til retur til arbeid (HR, 12 måneder) står i sitatet
+- OK   3 ki_lav=0.71 rad 323 (W4200573960, tid til retur til arbeid (HR, 12 måneder) står i sitatet
+- OK   3 ki_hoy=1.29 rad 323 (W4200573960, tid til retur til arbeid (HR, 12 måneder) står i sitatet
+- OK   4 rad 323 (W4200573960, tid til retur til arbeid (HR, 12 måneder) estimat innenfor KI
+- OK   4 rad 323 (W4200573960, tid til retur til arbeid (HR, 12 måneder) KI symmetrisk på log-skala (avvik 0.01)
+- OK   2 sitat rad 324 (W4386883739, forskjell i median antall netto sykefrav) står på oppgitt side
+- OK   3 estimat=20 rad 324 (W4386883739, forskjell i median antall netto sykefrav) står i sitatet
+- OK   2 sitat rad 325 (W7165684937, risiko for arbeidsuførhet (uførepensjon ) står på oppgitt side
+- OK   3 estimat=2.45 rad 325 (W7165684937, risiko for arbeidsuførhet (uførepensjon ) står i sitatet
+- OK   3 ki_lav=1.83 rad 325 (W7165684937, risiko for arbeidsuførhet (uførepensjon ) står i sitatet
+- OK   3 ki_hoy=3.29 rad 325 (W7165684937, risiko for arbeidsuførhet (uførepensjon ) står i sitatet
+- OK   4 rad 325 (W7165684937, risiko for arbeidsuførhet (uførepensjon ) estimat innenfor KI
+- OK   4 rad 325 (W7165684937, risiko for arbeidsuførhet (uførepensjon ) KI symmetrisk på log-skala (avvik 0.00)
+- OK   2 sitat rad 326 (W7165684937, risiko for arbeidsuførhet; første støtte) står på oppgitt side
+- OK   3 estimat=1.41 rad 326 (W7165684937, risiko for arbeidsuførhet; første støtte) står i sitatet
+- OK   3 ki_lav=1.22 rad 326 (W7165684937, risiko for arbeidsuførhet; første støtte) står i sitatet
+- OK   3 ki_hoy=1.64 rad 326 (W7165684937, risiko for arbeidsuførhet; første støtte) står i sitatet
+- OK   4 rad 326 (W7165684937, risiko for arbeidsuførhet; første støtte) estimat innenfor KI
+- OK   4 rad 326 (W7165684937, risiko for arbeidsuførhet; første støtte) KI symmetrisk på log-skala (avvik 0.01)
+- OK   2 sitat rad 327 (W4387231342, sysselsatt ett år etter 90 sykepengedage) står på oppgitt side
+- OK   3 estimat=0.981 rad 327 (W4387231342, sysselsatt ett år etter 90 sykepengedage) står i sitatet
+- OK   3 ki_lav=0.960 rad 327 (W4387231342, sysselsatt ett år etter 90 sykepengedage) står i sitatet
+- OK   3 ki_hoy=1.002 rad 327 (W4387231342, sysselsatt ett år etter 90 sykepengedage) står i sitatet
+- OK   4 rad 327 (W4387231342, sysselsatt ett år etter 90 sykepengedage) estimat innenfor KI
+- OK   4 rad 327 (W4387231342, sysselsatt ett år etter 90 sykepengedage) KI symmetrisk på log-skala (avvik 0.00)
+- OK   2 sitat rad 328 (W3015192800, tid til delvis retur til arbeid (HR) (fr) står på oppgitt side
+- OK   3 estimat=1.93 rad 328 (W3015192800, tid til delvis retur til arbeid (HR) (fr) står i sitatet
+- OK   3 ki_lav=1.05 rad 328 (W3015192800, tid til delvis retur til arbeid (HR) (fr) står i sitatet
+- OK   3 ki_hoy=3.56 rad 328 (W3015192800, tid til delvis retur til arbeid (HR) (fr) står i sitatet
+- OK   4 rad 328 (W3015192800, tid til delvis retur til arbeid (HR) (fr) estimat innenfor KI
+- OK   4 rad 328 (W3015192800, tid til delvis retur til arbeid (HR) (fr) KI symmetrisk på log-skala (avvik 0.00)
+- OK   2 sitat rad 329 (W3015192800, full retur til arbeid etter 12 måneder () står på oppgitt side
+- OK   3 estimat=1.54 rad 329 (W3015192800, full retur til arbeid etter 12 måneder () står i sitatet
+- OK   3 ki_lav=0.78 rad 329 (W3015192800, full retur til arbeid etter 12 måneder () står i sitatet
+- OK   3 ki_hoy=3.03 rad 329 (W3015192800, full retur til arbeid etter 12 måneder () står i sitatet
+- OK   4 rad 329 (W3015192800, full retur til arbeid etter 12 måneder () estimat innenfor KI
+- OK   4 rad 329 (W3015192800, full retur til arbeid etter 12 måneder () KI symmetrisk på log-skala (avvik 0.00)
+- OK   2 sitat rad 330 (W2215805610, årlig gevinst i arbeidsdeltakelse, ansat) står på oppgitt side
+- OK   3 estimat=51.8 rad 330 (W2215805610, årlig gevinst i arbeidsdeltakelse, ansat) står i sitatet
+- OK   2 sitat rad 331 (W4302588647, tilgang til uføreytelser (innstrøm), rel) står på oppgitt side
+- OK   3 estimat=20 rad 331 (W4302588647, tilgang til uføreytelser (innstrøm), rel) står i sitatet
+- OK   2 sitat rad 332 (W3162733289, sykefraværsdager de neste 16 månedene, r) står på oppgitt side
+- OK   3 estimat=5.5 rad 332 (W3162733289, sykefraværsdager de neste 16 månedene, r) står i sitatet
 - OK   5 tallet 0.72 i svaret finnes i estimat- eller statistikktabellen
 - OK   5 tallet 0.9 i svaret finnes i estimat- eller statistikktabellen
-- OK   5 tallet 1.051 i svaret finnes i estimat- eller statistikktabellen
 - OK   5 tallet 1.14 i svaret finnes i estimat- eller statistikktabellen
 - OK   5 tallet 1.19 i svaret finnes i estimat- eller statistikktabellen
 - OK   5 tallet 1.3 i svaret finnes i estimat- eller statistikktabellen
 - OK   5 tallet 1.390 i svaret finnes i estimat- eller statistikktabellen
-- OK   5 tallet 1.51 i svaret finnes i estimat- eller statistikktabellen
-- OK   5 tallet 1.55 i svaret finnes i estimat- eller statistikktabellen
 - OK   5 tallet 1.9 i svaret finnes i estimat- eller statistikktabellen
-- OK   5 tallet 100 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 109 i svaret finnes i estimat- eller statistikktabellen
 - OK   5 tallet 11 i svaret finnes i estimat- eller statistikktabellen
 - OK   5 tallet 12 i svaret finnes i estimat- eller statistikktabellen
-- OK   5 tallet 14 i svaret finnes i estimat- eller statistikktabellen
-- OK   5 tallet 142 i svaret finnes i estimat- eller statistikktabellen
-- OK   5 tallet 15 i svaret finnes i estimat- eller statistikktabellen
-- OK   5 tallet 16 i svaret finnes i estimat- eller statistikktabellen
-- OK   5 tallet 18.8 i svaret finnes i estimat- eller statistikktabellen
-- OK   5 tallet 181 i svaret finnes i estimat- eller statistikktabellen
-- OK   5 tallet 2.3 i svaret finnes i estimat- eller statistikktabellen
 - OK   5 tallet 2.4 i svaret finnes i estimat- eller statistikktabellen
-- OK   5 tallet 2.45 i svaret finnes i estimat- eller statistikktabellen
-- OK   5 tallet 20 i svaret finnes i estimat- eller statistikktabellen
 - OK   5 tallet 26 i svaret finnes i estimat- eller statistikktabellen
-- OK   5 tallet 29 i svaret finnes i estimat- eller statistikktabellen
 - OK   5 tallet 3.8 i svaret finnes i estimat- eller statistikktabellen
-- OK   5 tallet 30 i svaret finnes i estimat- eller statistikktabellen
-- OK   5 tallet 31 i svaret finnes i estimat- eller statistikktabellen
-- OK   5 tallet 33 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 35 i svaret finnes i estimat- eller statistikktabellen
 - OK   5 tallet 40 i svaret finnes i estimat- eller statistikktabellen
-- OK   5 tallet 44 i svaret finnes i estimat- eller statistikktabellen
 - OK   5 tallet 5.1 i svaret finnes i estimat- eller statistikktabellen
-- OK   5 tallet 5.5 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 5.8 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 52 i svaret finnes i estimat- eller statistikktabellen
+- OK   5 tallet 57 i svaret finnes i estimat- eller statistikktabellen
 - OK   5 tallet 6.0 i svaret finnes i estimat- eller statistikktabellen
-- OK   5 tallet 6.6 i svaret finnes i estimat- eller statistikktabellen
-- OK   5 tallet 60 i svaret finnes i estimat- eller statistikktabellen
-- OK   5 tallet 60.7 i svaret finnes i estimat- eller statistikktabellen
-- OK   5 tallet 70 i svaret finnes i estimat- eller statistikktabellen
-- OK   5 tallet 71 i svaret finnes i estimat- eller statistikktabellen
-- OK   5 tallet 8.2 i svaret finnes i estimat- eller statistikktabellen
-- OK   5 tallet 8.4 i svaret finnes i estimat- eller statistikktabellen
-- OK   5 tallet 90 i svaret finnes i estimat- eller statistikktabellen
 - OK   6 utelatt W2934791458 «The longitudinal integrated database for health insurance and labour m» (2019) – klinisk behandling eller rehabilitering av en diagnose, ikke krav eller oppfølging fra trygd, lege eller arbeidsgiver
 - OK   6 utelatt W2057376467 «Reducing work related psychological ill health and sickness absence: a» (2002) – forebygging blant friske ansatte, ikke oppfølging av sykmeldte
 - OK   6 utelatt W2167770728 «Determinants of duration of disability and return‐to‐work after work‐r» (2001) – risikofaktorer, prediktorer eller konsekvenser av fravær, ikke effekt av tiltak
@@ -1509,29 +1436,23 @@ Kjørt 2026-11-14.
 - OK   6 utelatt W2134258291 «Interventions for preventing and treating low-back and pelvic pain dur» (2015) – klinisk behandling eller rehabilitering av en diagnose, ikke krav eller oppfølging fra trygd, lege eller arbeidsgiver
 - OK   6 utelatt W2043695552 «Prognostic Factors of Long Term Disability Due to Mental Disorders: A » (2010) – risikofaktorer, prediktorer eller konsekvenser av fravær, ikke effekt av tiltak
 - OK   6 utelatt W1982928471 «Meta-synthesis of qualitative research on return to work among employe» (2011) – kvalitativ studie eller erfaringer, ikke effektmål
-- OK   6 utelatt W2002447441 «Workplace involvement improves return to work rates among employees wi» (2009) – smal oversikt (én diagnose, ett tiltak eller én yrkesgruppe); de brede oversiktene i utvalget dekker evidensen (innsnevring 9.11.2026)
 - OK   6 utelatt W2157363310 «Worksite mental health interventions: a systematic review of economic » (2012) – forebygging blant friske ansatte, ikke oppfølging av sykmeldte
-- OK   6 utelatt W2099295837 «Effectiveness of community- and workplace-based interventions to manag» (2011) – smal oversikt (én diagnose, ett tiltak eller én yrkesgruppe); de brede oversiktene i utvalget dekker evidensen (innsnevring 9.11.2026)
 - OK   6 utelatt W2170942295 «Preventing incapacity in people with musculoskeletal disorders» (2006) – klinisk behandling eller rehabilitering av en diagnose, ikke krav eller oppfølging fra trygd, lege eller arbeidsgiver
 - OK   6 utelatt W2142532160 «Exciting Career Opportunity Beckons! Early Intervention and Vocational» (2006) – klinisk behandling eller rehabilitering av en diagnose, ikke krav eller oppfølging fra trygd, lege eller arbeidsgiver
 - OK   6 utelatt W1550805440 «Physical conditioning as part of a return to work strategy to reduce s» (2013) – klinisk behandling eller rehabilitering av en diagnose, ikke krav eller oppfølging fra trygd, lege eller arbeidsgiver
 - OK   6 utelatt W2987856070 «Stakeholders’ Role and Actions in the Return-to-Work Process of Worker» (2019) – kvalitativ studie eller erfaringer, ikke effektmål
 - OK   6 utelatt W2946181839 «Chronic Diseases and Employment: Which Interventions Support the Maint» (2019) – tiltak for personer med funksjonsnedsettelse, kronisk sykdom eller ledighet, ikke for sykmeldte
-- OK   6 utelatt W2062813714 «Rehabilitation and work ability: A systematic literature review» (2008) – smal oversikt (én diagnose, ett tiltak eller én yrkesgruppe); de brede oversiktene i utvalget dekker evidensen (innsnevring 9.11.2026)
 - OK   6 utelatt W1992019725 «Occupational therapy and return to work: a systematic literature revie» (2011) – klinisk behandling eller rehabilitering av en diagnose, ikke krav eller oppfølging fra trygd, lege eller arbeidsgiver
 - OK   6 utelatt W2774586787 «Are work organization interventions effective in preventing or reducin» (2017) – forebygging blant friske ansatte, ikke oppfølging av sykmeldte
 - OK   6 utelatt W2754005147 «Cognition and return to work after mild/moderate traumatic brain injur» (2017) – klinisk behandling eller rehabilitering av en diagnose, ikke krav eller oppfølging fra trygd, lege eller arbeidsgiver
 - OK   6 utelatt W2766922768 «Functional Impairments and Work-Related Outcomes in Breast Cancer Surv» (2017) – klinisk behandling eller rehabilitering av en diagnose, ikke krav eller oppfølging fra trygd, lege eller arbeidsgiver
 - OK   6 utelatt W1908441297 «Alcohol use–sickness absence association and the moderating role of ge» (2015) – risikofaktorer, prediktorer eller konsekvenser av fravær, ikke effekt av tiltak
-- OK   6 utelatt W3215031467 «The Effects of Workplace Interventions on Low Back Pain in Workers: A » (2021) – smal oversikt (én diagnose, ett tiltak eller én yrkesgruppe); de brede oversiktene i utvalget dekker evidensen (innsnevring 9.11.2026)
 - OK   6 utelatt W2325466037 «Partial sick leave—review of its use, effects and feasibility in the N» (2008) – gradert sykmelding som tiltak for seg (eget spørsmål)
-- OK   6 utelatt W3014899208 «Interventions for common mental disorders in the occupational health s» (2020) – smal oversikt (én diagnose, ett tiltak eller én yrkesgruppe); de brede oversiktene i utvalget dekker evidensen (innsnevring 9.11.2026)
 - OK   6 utelatt W4284965775 «The Swedish military conscription register: opportunities for its use » (2022) – register eller database, ikke studie av tiltak
 - OK   6 utelatt W2086208100 «The problem and management of sickness absence in the NHS: considerati» (2003) – kommentar eller ikke-systematisk omtale; oversiktene i utvalget dekker evidensen
 - OK   6 utelatt W1953046115 «Alcohol and drug screening of occupational drivers for preventing inju» (2009) – annet tema enn sykefravær og retur til arbeid
 - OK   6 utelatt W2921761261 «Role of rehabilitation in chronic stress-induced exhaustion disorder: » (2019) – klinisk behandling eller rehabilitering av en diagnose, ikke krav eller oppfølging fra trygd, lege eller arbeidsgiver
 - OK   6 utelatt W1984088815 «Repetitive strain injury» (2004) – klinisk behandling eller rehabilitering av en diagnose, ikke krav eller oppfølging fra trygd, lege eller arbeidsgiver
-- OK   6 utelatt W1904282833 «The effectiveness of return-to-work interventions that incorporate wor» (2015) – smal oversikt (én diagnose, ett tiltak eller én yrkesgruppe); de brede oversiktene i utvalget dekker evidensen (innsnevring 9.11.2026)
 - OK   6 utelatt W2008320366 «Researcher perspectives on competencies of return-to-work coordinators» (2009) – kvalitativ studie eller erfaringer, ikke effektmål
 - OK   6 utelatt W2154777576 «The effects of timing on the cost-effectiveness of interventions for w» (2010) – økonomisk evaluering av tidspunkt for tiltak, ikke eget effektmål
 - OK   6 utelatt W4283777930 «Occupational outcomes of people with multiple sclerosis: a scoping rev» (2022) – tiltak for personer med funksjonsnedsettelse, kronisk sykdom eller ledighet, ikke for sykmeldte
@@ -1546,7 +1467,6 @@ Kjørt 2026-11-14.
 - OK   6 utelatt W4283771695 «Effectiveness of Physical Activity Interventions on Return to Work Aft» (2022) – klinisk behandling eller rehabilitering av en diagnose, ikke krav eller oppfølging fra trygd, lege eller arbeidsgiver
 - OK   6 utelatt W3139414958 «Qualitative Evidence from Studies of Interventions Aimed at Return to » (2021) – kvalitativ studie eller erfaringer, ikke effektmål
 - OK   6 utelatt W2514425657 «Return to work after vocational rehabilitation for sick-listed workers» (2016) – risikofaktorer, prediktorer eller konsekvenser av fravær, ikke effekt av tiltak
-- OK   6 utelatt W4385329355 «Return-to-work interventions for sick-listed employees with burnout: a» (2023) – smal oversikt (én diagnose, ett tiltak eller én yrkesgruppe); de brede oversiktene i utvalget dekker evidensen (innsnevring 9.11.2026)
 - OK   6 utelatt W2968896166 «A systematic review on self-management education campaigns for back pa» (2019) – klinisk behandling eller rehabilitering av en diagnose, ikke krav eller oppfølging fra trygd, lege eller arbeidsgiver
 - OK   6 utelatt W3021148140 «Motivational Interviewing and Return to Work for People with Musculosk» (2020) – klinisk behandling eller rehabilitering av en diagnose, ikke krav eller oppfølging fra trygd, lege eller arbeidsgiver
 - OK   6 utelatt W3166904053 «FM and clinical employees' involvement in the design of eight Norwegia» (2021) – annet tema enn sykefravær og retur til arbeid
@@ -1558,7 +1478,6 @@ Kjørt 2026-11-14.
 - OK   6 utelatt W4312210572 «Disability and return to work after a multidisciplinary intervention f» (2022) – klinisk behandling eller rehabilitering av en diagnose, ikke krav eller oppfølging fra trygd, lege eller arbeidsgiver
 - OK   6 utelatt W2944819349 «Vocational rehabilitation for emergency services personnel: a scoping » (2019) – klinisk behandling eller rehabilitering av en diagnose, ikke krav eller oppfølging fra trygd, lege eller arbeidsgiver
 - OK   6 utelatt W4414217789 «The impact of telework on absenteeism, presenteeism, and return to wor» (2025) – hjemmekontor, ikke oppfølging av sykmeldte
-- OK   6 utelatt W4235304409 «Effectiveness of community- and workplace-based interventions to manag» (2011) – smal oversikt (én diagnose, ett tiltak eller én yrkesgruppe); de brede oversiktene i utvalget dekker evidensen (innsnevring 9.11.2026)
 - OK   6 utelatt W4392515245 «Predictors of return to work after a year since stroke: A systematic r» (2024) – risikofaktorer, prediktorer eller konsekvenser av fravær, ikke effekt av tiltak
 - OK   6 utelatt W4387168362 «Efficacy of occupational rehabilitation in return to work for back pai» (2023) – klinisk behandling eller rehabilitering av en diagnose, ikke krav eller oppfølging fra trygd, lege eller arbeidsgiver
 - OK   6 utelatt W4400508236 «Factors Related to the Recurrence of Sickness Absence Due to Common Me» (2024) – risikofaktorer, prediktorer eller konsekvenser av fravær, ikke effekt av tiltak
@@ -1568,22 +1487,15 @@ Kjørt 2026-11-14.
 - OK   6 utelatt W4224103961 «A systematic review of work-related interventions for breast cancer su» (2022) – klinisk behandling eller rehabilitering av en diagnose, ikke krav eller oppfølging fra trygd, lege eller arbeidsgiver
 - OK   6 utelatt W2751973683 «Early interventions for the prevention of post-traumatic stress sympto» (2017) – klinisk behandling eller rehabilitering av en diagnose, ikke krav eller oppfølging fra trygd, lege eller arbeidsgiver
 - OK   6 utelatt W4327620128 «Functional Tests Predicting Return to Work of Workers with Non-Specifi» (2023) – risikofaktorer, prediktorer eller konsekvenser av fravær, ikke effekt av tiltak
-- OK   6 utelatt W4391229341 «Rehabilitation of sick-listed LBP patients in occupational health with» (2024) – smal oversikt (én diagnose, ett tiltak eller én yrkesgruppe); de brede oversiktene i utvalget dekker evidensen (innsnevring 9.11.2026)
 - OK   6 utelatt W4412408142 «Predictors of sustained return to work after sick leave due to mental » (2025) – risikofaktorer, prediktorer eller konsekvenser av fravær, ikke effekt av tiltak
 - OK   6 utelatt W4414950762 «Return to work with long COVID: a rapid review of support and challeng» (2025) – klinisk behandling eller rehabilitering av en diagnose, ikke krav eller oppfølging fra trygd, lege eller arbeidsgiver
-- OK   6 utelatt W2898202126 «Return-to-work support programs for workers on sick leave: a systemati» (2018) – smal oversikt (én diagnose, ett tiltak eller én yrkesgruppe); de brede oversiktene i utvalget dekker evidensen (innsnevring 9.11.2026)
 - OK   6 utelatt W4413140117 «Common predictors of return to work across cardiovascular diseases» (2025) – risikofaktorer, prediktorer eller konsekvenser av fravær, ikke effekt av tiltak
-- OK   6 utelatt W3156863771 «Absence management and return-to-work support in job burnout» (2019) – smal oversikt (én diagnose, ett tiltak eller én yrkesgruppe); de brede oversiktene i utvalget dekker evidensen (innsnevring 9.11.2026)
-- OK   6 utelatt W7165184009 «Effectiveness of the Participatory Approach on Return-to-Work of Sick-» (2026) – smal oversikt (én diagnose, ett tiltak eller én yrkesgruppe); de brede oversiktene i utvalget dekker evidensen (innsnevring 9.11.2026)
 - OK   6 utelatt W4395043419 «Factors Influencing Return to Work in Malaysia: A Systematic Literatur» (2024) – risikofaktorer, prediktorer eller konsekvenser av fravær, ikke effekt av tiltak
 - OK   6 utelatt W7160638664 «Interventions to enhance work participation in people with chronic pai» (2026) – klinisk behandling eller rehabilitering av en diagnose, ikke krav eller oppfølging fra trygd, lege eller arbeidsgiver
 - OK   6 utelatt W4400353807 «O-055 REHABILITATION OF SICK-LISTED LBP PATIENTS IN OCCUPATIONAL HEALT» (2024) – konferanseabstrakt av samme forsøk som W4391229341, som er valgt
 - OK   6 utelatt W4220989035 «The impact of COVID-19 on social care and social work in the UK: A Sco» (2022) – annet tema enn sykefravær og retur til arbeid
 - OK   6 utelatt W2519172075 «OP63 Very early workplace sickness absence interventions: A systematic» (2016) – konferanseabstrakt av metaanalysen W2412604146, som er valgt
 - OK   6 utelatt W7162195915 «Hospital workplace interventions to support breastfeeding employees re» (2026) – annet tema enn sykefravær og retur til arbeid
-- OK   6 utelatt W2417542871 «Effectiveness of workplace nterventions targeting return to work in pa» (2015) – smal oversikt (én diagnose, ett tiltak eller én yrkesgruppe); de brede oversiktene i utvalget dekker evidensen (innsnevring 9.11.2026)
-- OK   6 utelatt W7166701698 «WORKPLACE INTERVENTIONS FOR THE MANAGEMENT OF CHRONIC MUSCULOSKELETAL » (2026) – smal oversikt (én diagnose, ett tiltak eller én yrkesgruppe); de brede oversiktene i utvalget dekker evidensen (innsnevring 9.11.2026)
-- OK   6 utelatt W7138969397 «Effectiveness of multidisciplinary biopsychosocial rehabilitation incl» (2026) – smal oversikt (én diagnose, ett tiltak eller én yrkesgruppe); de brede oversiktene i utvalget dekker evidensen (innsnevring 9.11.2026)
 - OK   6 utelatt W4407779167 «[Evaluation of reintegration into employment in people with stroke out» (2025) – klinisk behandling eller rehabilitering av en diagnose, ikke krav eller oppfølging fra trygd, lege eller arbeidsgiver
 - OK   6 utelatt W2758313247 «0202 Workplace-based interventions to increase chances of sooner and s» (2017) – konferanseabstrakt uten egne tall; oversiktene i utvalget dekker evidensen
 - OK   6 utelatt W7117160857 «Return to work after myocardial infarction: A systematic review» (2025) – klinisk behandling eller rehabilitering av en diagnose, ikke krav eller oppfølging fra trygd, lege eller arbeidsgiver
@@ -1602,7 +1514,6 @@ Kjørt 2026-11-14.
 - OK   6 utelatt W2120709125 «Workplace bullying and sickness absence in hospital staff» (2000) – risikofaktorer, prediktorer eller konsekvenser av fravær, ikke effekt av tiltak
 - OK   6 utelatt W2320300039 «Working for a healthier tomorrow» (2008) – kommentar eller ikke-systematisk omtale; oversiktene i utvalget dekker evidensen
 - OK   6 utelatt W2149459865 «Sickness absence as a global measure of health: evidence from mortalit» (2003) – risikofaktorer, prediktorer eller konsekvenser av fravær, ikke effekt av tiltak
-- OK   6 utelatt W2028702370 «Randomised controlled trial of integrated care to reduce disability fr» (2010) – behandlings- eller rehabiliteringstiltak på arbeidsplassen eller i helsetjenesten, ikke ordning for krav eller oppfølging; dekket av oversiktene i utvalget (innsnevring 9.11.2026)
 - OK   6 utelatt W2139234433 «Return to work: A comparison of two cognitive behavioural intervention» (2006) – klinisk behandling eller rehabilitering av en diagnose, ikke krav eller oppfølging fra trygd, lege eller arbeidsgiver
 - OK   6 utelatt W2613386087 «Process evaluation of an interorganizational cooperation initiative in» (2017) – kvalitativ studie eller erfaringer, ikke effektmål
 - OK   6 utelatt W2903789525 «Effectiveness and cost-effectiveness of neuromuscular exercise and bac» (2018) – forebygging blant friske ansatte, ikke oppfølging av sykmeldte
@@ -1613,7 +1524,6 @@ Kjørt 2026-11-14.
 - OK   6 utelatt W1964500112 «Is there a right treatment for a particular patient group? Comparison » (2002) – klinisk behandling eller rehabilitering av en diagnose, ikke krav eller oppfølging fra trygd, lege eller arbeidsgiver
 - OK   6 utelatt W1982957554 «Screening to Identify Patients at Risk» (2004) – metode, måleinstrument eller rapporteringsstandard, ikke studie av tiltak
 - OK   6 utelatt W2145240339 «A comparison of self-reported sickness absence with absences recorded » (2005) – metode, måleinstrument eller rapporteringsstandard, ikke studie av tiltak
-- OK   6 utelatt W2097705787 «Work-focused treatment of common mental disorders and return to work: » (2012) – behandlings- eller rehabiliteringstiltak på arbeidsplassen eller i helsetjenesten, ikke ordning for krav eller oppfølging; dekket av oversiktene i utvalget (innsnevring 9.11.2026)
 - OK   6 utelatt W2052519393 «Manual Therapy and Exercise Therapy in Patients With Chronic Low Back » (2003) – klinisk behandling eller rehabilitering av en diagnose, ikke krav eller oppfølging fra trygd, lege eller arbeidsgiver
 - OK   6 utelatt W4321276803 «Exploring the Limits of ChatGPT for Query or Aspect-based Text Summari» (2023) – annet tema enn sykefravær og retur til arbeid
 - OK   6 utelatt W2122592818 «Predicting the duration of sickness absence for patients with common m» (2006) – risikofaktorer, prediktorer eller konsekvenser av fravær, ikke effekt av tiltak
@@ -1622,7 +1532,6 @@ Kjørt 2026-11-14.
 - OK   6 utelatt W1563102763 «Need for recovery after work predicts sickness absence» (2003) – risikofaktorer, prediktorer eller konsekvenser av fravær, ikke effekt av tiltak
 - OK   6 utelatt W2142307468 «Prognostic Factors for Duration of Sickness Absence due to Musculoskel» (2006) – risikofaktorer, prediktorer eller konsekvenser av fravær, ikke effekt av tiltak
 - OK   6 utelatt W1996359017 «Employee worktime control moderates the effects of job strain and effo» (2005) – risikofaktorer, prediktorer eller konsekvenser av fravær, ikke effekt av tiltak
-- OK   6 utelatt W1987976138 «Early Workplace Intervention for Employees With Musculoskeletal-Relate» (2003) – behandlings- eller rehabiliteringstiltak på arbeidsplassen eller i helsetjenesten, ikke ordning for krav eller oppfølging; dekket av oversiktene i utvalget (innsnevring 9.11.2026)
 - OK   6 utelatt W2147681669 «Supervisory behaviour as a predictor of return to work in employees ab» (2004) – risikofaktorer, prediktorer eller konsekvenser av fravær, ikke effekt av tiltak
 - OK   6 utelatt W2029507213 «Using administrative sickness absence data as a marker of future disab» (2007) – risikofaktorer, prediktorer eller konsekvenser av fravær, ikke effekt av tiltak
 - OK   6 utelatt W2143031464 «The contribution of the psychosocial work environment to sickness abse» (2007) – risikofaktorer, prediktorer eller konsekvenser av fravær, ikke effekt av tiltak
@@ -1641,7 +1550,6 @@ Kjørt 2026-11-14.
 - OK   6 utelatt W2024912874 «Predictors of return to work ten months after primary breast cancer su» (2008) – risikofaktorer, prediktorer eller konsekvenser av fravær, ikke effekt av tiltak
 - OK   6 utelatt W2042940681 «Fear of the Brown Envelope: Exploring Welfare Reform with Long‐Term Si» (2013) – kvalitativ studie eller erfaringer, ikke effektmål
 - OK   6 utelatt W2091762117 «Development of a workplace intervention for sick-listed employees with» (2007) – protokoll eller utvikling av tiltak, uten effektmål
-- OK   6 utelatt W2142327029 «A workplace intervention for sick-listed employees with distress: resu» (2010) – behandlings- eller rehabiliteringstiltak på arbeidsplassen eller i helsetjenesten, ikke ordning for krav eller oppfølging; dekket av oversiktene i utvalget (innsnevring 9.11.2026)
 - OK   6 utelatt W2059101503 «Effectiveness of a worksite lifestyle intervention on vitality, work e» (2012) – forebygging blant friske ansatte, ikke oppfølging av sykmeldte
 - OK   6 utelatt W2171160924 «Prospective study of physical and psychosocial risk factors for sickne» (2006) – risikofaktorer, prediktorer eller konsekvenser av fravær, ikke effekt av tiltak
 - OK   6 utelatt W2170306644 «Is there a gender difference in the effect of work-related physical an» (2009) – risikofaktorer, prediktorer eller konsekvenser av fravær, ikke effekt av tiltak
@@ -1651,9 +1559,7 @@ Kjørt 2026-11-14.
 - OK   6 utelatt W2064425258 «The effect of a workplace intervention programme on return to work aft» (2014) – klinisk behandling eller rehabilitering av en diagnose, ikke krav eller oppfølging fra trygd, lege eller arbeidsgiver
 - OK   6 utelatt W56661033 «Sleep Disturbances as a Predictor of Cause-Specific Work Disability an» (2010) – risikofaktorer, prediktorer eller konsekvenser av fravær, ikke effekt av tiltak
 - OK   6 utelatt W2116127691 «Prognostic factors related to recurrent low-back pain and sickness abs» (2004) – risikofaktorer, prediktorer eller konsekvenser av fravær, ikke effekt av tiltak
-- OK   6 utelatt W2103615890 «Return to work after a workplace-oriented intervention for patients on» (2010) – behandlings- eller rehabiliteringstiltak på arbeidsplassen eller i helsetjenesten, ikke ordning for krav eller oppfølging; dekket av oversiktene i utvalget (innsnevring 9.11.2026)
 - OK   6 utelatt W2133243436 «Work ability index of young employees and their sickness absence durin» (2006) – risikofaktorer, prediktorer eller konsekvenser av fravær, ikke effekt av tiltak
-- OK   6 utelatt W1937053951 «Perspectives on workplace disability management: A review of the liter» (2002) – smal oversikt (én diagnose, ett tiltak eller én yrkesgruppe); de brede oversiktene i utvalget dekker evidensen (innsnevring 9.11.2026)
 - OK   6 utelatt W2164304450 «Adjuvant occupational therapy improves long-term depression recovery a» (2012) – klinisk behandling eller rehabilitering av en diagnose, ikke krav eller oppfølging fra trygd, lege eller arbeidsgiver
 - OK   6 utelatt W3164741739 «Patterns and predictors of sick leave after Covid-19 and long Covid in» (2021) – risikofaktorer, prediktorer eller konsekvenser av fravær, ikke effekt av tiltak
 - OK   6 utelatt W2082208883 «Does Early Intervention With a Light Mobilization Program Reduce Long-» (2003) – klinisk behandling eller rehabilitering av en diagnose, ikke krav eller oppfølging fra trygd, lege eller arbeidsgiver
@@ -1664,7 +1570,6 @@ Kjørt 2026-11-14.
 - OK   6 utelatt W1965534637 «Long hours in paid and domestic work and subsequent sickness absence: » (2006) – risikofaktorer, prediktorer eller konsekvenser av fravær, ikke effekt av tiltak
 - OK   6 utelatt W2067290047 «Pain in multiple sites and sickness absence trajectories: A prospectiv» (2012) – risikofaktorer, prediktorer eller konsekvenser av fravær, ikke effekt av tiltak
 - OK   6 utelatt W2029809530 «Sick leave and work disability in primary care patients with recent-on» (2014) – risikofaktorer, prediktorer eller konsekvenser av fravær, ikke effekt av tiltak
-- OK   6 utelatt W2160260412 «Effectiveness of a Blended Web-Based Intervention on Return to Work fo» (2015) – behandlings- eller rehabiliteringstiltak på arbeidsplassen eller i helsetjenesten, ikke ordning for krav eller oppfølging; dekket av oversiktene i utvalget (innsnevring 9.11.2026)
 - OK   6 utelatt W1544172962 «Patient-expert partnerships in research: how to stimulate inclusion of» (2010) – annet tema enn sykefravær og retur til arbeid
 - OK   6 utelatt W1983369993 «Effects of passive‐active movement training on upper limb motor functi» (2004) – klinisk behandling eller rehabilitering av en diagnose, ikke krav eller oppfølging fra trygd, lege eller arbeidsgiver
 - OK   6 utelatt W2802795784 «Fear Avoidance and Clinical Outcomes from Mild Traumatic Brain Injury» (2018) – klinisk behandling eller rehabilitering av en diagnose, ikke krav eller oppfølging fra trygd, lege eller arbeidsgiver
@@ -1688,8 +1593,8 @@ Kjørt 2026-11-14.
 - OK   6 utelatt W2104440776 «A Participatory Workplace Intervention for Employees With Distress and» (2009) – gjennomførbarhetsstudie uten effektmål
 - OK   6 utelatt W2129819045 «Workaholism as a Risk Factor for Depressive Mood, Disabling Back Pain,» (2013) – risikofaktorer, prediktorer eller konsekvenser av fravær, ikke effekt av tiltak
 - OK   6 utelatt W2111481369 «Reduced productivity after sickness absence due to musculoskeletal dis» (2005) – risikofaktorer, prediktorer eller konsekvenser av fravær, ikke effekt av tiltak
-- OK   6 utelatt W2118102507 «Faster return to work after psychiatric consultation for sicklisted em» (2010) – behandlings- eller rehabiliteringstiltak på arbeidsplassen eller i helsetjenesten, ikke ordning for krav eller oppfølging; dekket av oversiktene i utvalget (innsnevring 9.11.2026)
 - OK   6 utelatt W2139908996 «The impact of physical activity on sickness absence» (2009) – risikofaktorer, prediktorer eller konsekvenser av fravær, ikke effekt av tiltak
+- OK   6 utelatt W1732288 «Vocational rehabilitation – what works, for whom, and when?(Report for» (2008) – samme rapport som W2944738632 (Waddell mfl. 2008), som er valgt
 - OK   6 utelatt W2116463493 «Recurrence of Medically Certified Sickness Absence According to Diagno» (2010) – risikofaktorer, prediktorer eller konsekvenser av fravær, ikke effekt av tiltak
 - OK   6 utelatt W2142335194 «Designing a workplace return-to-work program for occupational low back» (2009) – protokoll eller utvikling av tiltak, uten effektmål
 - OK   6 utelatt W2070047481 «Breast Cancer, Sickness Absence, Income and Marital Status. A Study on» (2011) – risikofaktorer, prediktorer eller konsekvenser av fravær, ikke effekt av tiltak
@@ -1698,10 +1603,8 @@ Kjørt 2026-11-14.
 - OK   6 utelatt W2004890638 «Predictors of return to work in patients sick listed for sub-acute low» (2005) – risikofaktorer, prediktorer eller konsekvenser av fravær, ikke effekt av tiltak
 - OK   6 utelatt W2151015722 «Diagnosis-specific sick leave as a long-term predictor of disability p» (2011) – risikofaktorer, prediktorer eller konsekvenser av fravær, ikke effekt av tiltak
 - OK   6 utelatt W2036974830 «Type 1 Modic changes was a significant risk factor for 1-year outcome » (2014) – risikofaktorer, prediktorer eller konsekvenser av fravær, ikke effekt av tiltak
-- OK   6 utelatt W2161357674 «A Cluster-Randomised Trial Evaluating an Intervention for Patients wit» (2007) – behandlings- eller rehabiliteringstiltak på arbeidsplassen eller i helsetjenesten, ikke ordning for krav eller oppfølging; dekket av oversiktene i utvalget (innsnevring 9.11.2026)
 - OK   6 utelatt W2018576574 «Validation Study of a Distress Screener» (2009) – metode, måleinstrument eller rapporteringsstandard, ikke studie av tiltak
 - OK   6 utelatt W2023783241 «Socioeconomic status and duration and pattern of sickness absence. A 1» (2010) – risikofaktorer, prediktorer eller konsekvenser av fravær, ikke effekt av tiltak
-- OK   6 utelatt W2072354471 «Structured Early Consultation with the Occupational Physician Reduces » (2008) – behandlings- eller rehabiliteringstiltak på arbeidsplassen eller i helsetjenesten, ikke ordning for krav eller oppfølging; dekket av oversiktene i utvalget (innsnevring 9.11.2026)
 - OK   6 utelatt W2150844229 «Returning to work after sick leave due to cancer: a 365-day cohort stu» (2015) – risikofaktorer, prediktorer eller konsekvenser av fravær, ikke effekt av tiltak
 - OK   6 utelatt W2018709432 «Employee Self-rated Productivity and Objective Organizational Producti» (2011) – annet tema enn sykefravær og retur til arbeid
 - OK   6 utelatt W2103992462 «γδ T Cells Are Essential Effectors of Type 1 Diabetes in the Nonobese » (2013) – annet tema enn sykefravær og retur til arbeid
@@ -1714,14 +1617,12 @@ Kjørt 2026-11-14.
 - OK   6 utelatt W1529417293 «The Prognostic Value of the Work Ability Index for Sickness Absence am» (2015) – risikofaktorer, prediktorer eller konsekvenser av fravær, ikke effekt av tiltak
 - OK   6 utelatt W947405291 «Coping with Work-Related Stress through Guided Imagery and Music (GIM)» (2015) – klinisk behandling eller rehabilitering av en diagnose, ikke krav eller oppfølging fra trygd, lege eller arbeidsgiver
 - OK   6 utelatt W1979351102 «Effects on musculoskeletal pain, work ability and sickness absence in » (2011) – forebygging blant friske ansatte, ikke oppfølging av sykmeldte
-- OK   6 utelatt W2154396601 «Prevention of long-term sickness absence and major depression in high-» (2010) – behandlings- eller rehabiliteringstiltak på arbeidsplassen eller i helsetjenesten, ikke ordning for krav eller oppfølging; dekket av oversiktene i utvalget (innsnevring 9.11.2026)
 - OK   6 utelatt W3022325212 «The Willingness to Pay for Job Amenities: Evidence from Mothers' Retur» (2012) – annet tema enn sykefravær og retur til arbeid
 - OK   6 utelatt W2168612887 «Pattern of antidepressant use and duration of depression-related absen» (2003) – risikofaktorer, prediktorer eller konsekvenser av fravær, ikke effekt av tiltak
 - OK   6 utelatt W2155895624 «Predicting Return to Work in Workers with All-Cause Sickness Absence G» (2011) – risikofaktorer, prediktorer eller konsekvenser av fravær, ikke effekt av tiltak
 - OK   6 utelatt W1987727926 «Workers Who Stay at Work Despite Chronic Nonspecific Musculoskeletal P» (2012) – risikofaktorer, prediktorer eller konsekvenser av fravær, ikke effekt av tiltak
 - OK   6 utelatt W2181316415 «One-Year Follow-Up in Employees Sick-Listed Because of Low Back Pain» (2011) – risikofaktorer, prediktorer eller konsekvenser av fravær, ikke effekt av tiltak
 - OK   6 utelatt W2095416316 «BMI, Obesity, and Sickness Absence in the Whitehall II Study» (2007) – risikofaktorer, prediktorer eller konsekvenser av fravær, ikke effekt av tiltak
-- OK   6 utelatt W2758756546 «Randomized controlled trial of acceptance and commitment therapy and a» (2017) – behandlings- eller rehabiliteringstiltak på arbeidsplassen eller i helsetjenesten, ikke ordning for krav eller oppfølging; dekket av oversiktene i utvalget (innsnevring 9.11.2026)
 - OK   6 utelatt W1982431788 «Developing stroke-specific vocational rehabilitation: a soft systems a» (2013) – klinisk behandling eller rehabilitering av en diagnose, ikke krav eller oppfølging fra trygd, lege eller arbeidsgiver
 - OK   6 utelatt W2891520230 «Preliminary Effectiveness of a Smartphone App to Reduce Depressive Sym» (2018) – klinisk behandling eller rehabilitering av en diagnose, ikke krav eller oppfølging fra trygd, lege eller arbeidsgiver
 - OK   6 utelatt W1929535341 «Fatigue and Depression in Sick-Listed Chronic Low Back Pain Patients» (2014) – risikofaktorer, prediktorer eller konsekvenser av fravær, ikke effekt av tiltak
@@ -1735,14 +1636,12 @@ Kjørt 2026-11-14.
 - OK   6 utelatt W562270772 «Muslims and Others» (2003) – annet tema enn sykefravær og retur til arbeid
 - OK   6 utelatt W2034962742 «Functional and occupational characteristics predictive of a return to » (2013) – risikofaktorer, prediktorer eller konsekvenser av fravær, ikke effekt av tiltak
 - OK   6 utelatt W2117038177 «Obesity and sickness absence: results from the CHAP study» (2010) – risikofaktorer, prediktorer eller konsekvenser av fravær, ikke effekt av tiltak
-- OK   6 utelatt W2100088016 «The effectiveness of two occupational health intervention programmes i» (2007) – behandlings- eller rehabiliteringstiltak på arbeidsplassen eller i helsetjenesten, ikke ordning for krav eller oppfølging; dekket av oversiktene i utvalget (innsnevring 9.11.2026)
 - OK   6 utelatt W2071038991 «What promotes sustained return to work of employees on long-term sick » (2011) – kvalitativ studie eller erfaringer, ikke effektmål
 - OK   6 utelatt W2127345131 «Sickness absence at a young age and later sickness absence, disability» (2015) – risikofaktorer, prediktorer eller konsekvenser av fravær, ikke effekt av tiltak
 - OK   6 utelatt W2087116523 «Risk Factors for Sickness Absence Because of Low Back Pain Among Scaff» (2003) – risikofaktorer, prediktorer eller konsekvenser av fravær, ikke effekt av tiltak
 - OK   6 utelatt W2783363786 «A Long-Term Follow-Up of the Efficacy of Nature-Based Therapy for Adul» (2018) – klinisk behandling eller rehabilitering av en diagnose, ikke krav eller oppfølging fra trygd, lege eller arbeidsgiver
 - OK   6 utelatt W2982249453 «Predicting return to work among patients with colorectal cancer» (2019) – risikofaktorer, prediktorer eller konsekvenser av fravær, ikke effekt av tiltak
 - OK   6 utelatt W1974562277 «Work-family characteristics as determinants of sickness absence: A lar» (2008) – risikofaktorer, prediktorer eller konsekvenser av fravær, ikke effekt av tiltak
-- OK   6 utelatt W2106849769 «Effectiveness of an exposure-based return-to-work program for workers » (2012) – behandlings- eller rehabiliteringstiltak på arbeidsplassen eller i helsetjenesten, ikke ordning for krav eller oppfølging; dekket av oversiktene i utvalget (innsnevring 9.11.2026)
 - OK   6 utelatt W1936056876 «Job‐Related Stress and Sickness Absence Among Belgian Nurses: A Prospe» (2014) – risikofaktorer, prediktorer eller konsekvenser av fravær, ikke effekt av tiltak
 - OK   6 utelatt W2278472557 «Return to Work in Patients with Chronic Musculoskeletal Pain: Multidis» (2016) – klinisk behandling eller rehabilitering av en diagnose, ikke krav eller oppfølging fra trygd, lege eller arbeidsgiver
 - OK   6 utelatt W2626931882 «Effectiveness of a Web-Based Intervention in Reducing Depression and S» (2017) – klinisk behandling eller rehabilitering av en diagnose, ikke krav eller oppfølging fra trygd, lege eller arbeidsgiver
@@ -1775,7 +1674,6 @@ Kjørt 2026-11-14.
 - OK   6 utelatt W1966829183 «Optimal Cutoff Values of WHO-HPQ Presenteeism Scores by ROC Analysis f» (2014) – metode, måleinstrument eller rapporteringsstandard, ikke studie av tiltak
 - OK   6 utelatt W2107528799 «Symptom reduction due to psychosocial interventions is not accompanied» (2014) – klinisk behandling eller rehabilitering av en diagnose, ikke krav eller oppfølging fra trygd, lege eller arbeidsgiver
 - OK   6 utelatt W2029437841 «Predictors of Long-Term Return to Work and Symptom Remission in Sick-L» (2012) – risikofaktorer, prediktorer eller konsekvenser av fravær, ikke effekt av tiltak
-- OK   6 utelatt W2721507455 «Return to work after work-related stress: a randomized controlled tria» (2017) – behandlings- eller rehabiliteringstiltak på arbeidsplassen eller i helsetjenesten, ikke ordning for krav eller oppfølging; dekket av oversiktene i utvalget (innsnevring 9.11.2026)
 - OK   6 utelatt W1977803114 «Return to work following disabling occupational injury – facilitators » (2010) – kvalitativ studie eller erfaringer, ikke effektmål
 - OK   6 utelatt W2135127214 «Identification of initial severity determinants to predict arthritis a» (2014) – annet tema enn sykefravær og retur til arbeid
 - OK   6 utelatt W2164092807 «Risk of future sickness absence in frequent and long-term absentees» (2008) – risikofaktorer, prediktorer eller konsekvenser av fravær, ikke effekt av tiltak
@@ -1786,7 +1684,6 @@ Kjørt 2026-11-14.
 - OK   6 utelatt W1981076225 «Which doctors and with what problems contact a specialist service for » (2007) – annet tema enn sykefravær og retur til arbeid
 - OK   6 utelatt W2040782081 «Sickness absence from work in the UK» (2008) – risikofaktorer, prediktorer eller konsekvenser av fravær, ikke effekt av tiltak
 - OK   6 utelatt W2090822243 «Risk factors for sickness absence due to low back pain and prognostic » (2008) – risikofaktorer, prediktorer eller konsekvenser av fravær, ikke effekt av tiltak
-- OK   6 utelatt W3015192800 «Preventing sickness absence among employees with common mental disorde» (2020) – behandlings- eller rehabiliteringstiltak på arbeidsplassen eller i helsetjenesten, ikke ordning for krav eller oppfølging; dekket av oversiktene i utvalget (innsnevring 9.11.2026)
 - OK   6 utelatt W2134386057 «Differences in risk factors for voluntary early retirement and disabil» (2012) – risikofaktorer, prediktorer eller konsekvenser av fravær, ikke effekt av tiltak
 - OK   6 utelatt W2130631850 «Intervention mapping for development of a participatory return-to-work» (2009) – protokoll eller utvikling av tiltak, uten effektmål
 - OK   6 utelatt W1975222334 «Sustainability of return to work in sick-listed employees with low-bac» (2012) – klinisk behandling eller rehabilitering av en diagnose, ikke krav eller oppfølging fra trygd, lege eller arbeidsgiver
@@ -1794,7 +1691,6 @@ Kjørt 2026-11-14.
 - OK   6 utelatt W2567163154 «Sick leave in Sweden before and after total joint replacement in hip a» (2016) – risikofaktorer, prediktorer eller konsekvenser av fravær, ikke effekt av tiltak
 - OK   6 utelatt W2027106278 «What Works Best for Whom?» (2009) – kommentar eller ikke-systematisk omtale; oversiktene i utvalget dekker evidensen
 - OK   6 utelatt W3112359908 «Coordination of return-to-work for employees on sick leave due to comm» (2020) – kvalitativ studie eller erfaringer, ikke effektmål
-- OK   6 utelatt W2036291270 «Return to work and occupational physicians’ management of common menta» (2010) – behandlings- eller rehabiliteringstiltak på arbeidsplassen eller i helsetjenesten, ikke ordning for krav eller oppfølging; dekket av oversiktene i utvalget (innsnevring 9.11.2026)
 - OK   6 utelatt W642438607 «Longitudinal Associations Between Biopsychosocial Factors and Sustaina» (2015) – risikofaktorer, prediktorer eller konsekvenser av fravær, ikke effekt av tiltak
 - OK   6 utelatt W2163256270 «Explaining the social gradient in sickness absence: a study of a gener» (2013) – risikofaktorer, prediktorer eller konsekvenser av fravær, ikke effekt av tiltak
 - OK   6 utelatt W3158128103 «Cognitive and vocational rehabilitation after mild-to-moderate traumat» (2021) – klinisk behandling eller rehabilitering av en diagnose, ikke krav eller oppfølging fra trygd, lege eller arbeidsgiver
@@ -1822,14 +1718,12 @@ Kjørt 2026-11-14.
 - OK   6 utelatt W1990615958 «The transition between work, sickness absence and pension in a cohort » (2013) – risikofaktorer, prediktorer eller konsekvenser av fravær, ikke effekt av tiltak
 - OK   6 utelatt W2411688507 «Beyond Return to Work: The Effect of Multimorbidity on Work Functionin» (2016) – risikofaktorer, prediktorer eller konsekvenser av fravær, ikke effekt av tiltak
 - OK   6 utelatt W2970927854 «Patients return to work sooner after unicompartmental knee arthroplast» (2019) – klinisk behandling eller rehabilitering av en diagnose, ikke krav eller oppfølging fra trygd, lege eller arbeidsgiver
-- OK   6 utelatt W1683945824 «Solution-focused intervention for sick listed employees with psycholog» (2006) – behandlings- eller rehabiliteringstiltak på arbeidsplassen eller i helsetjenesten, ikke ordning for krav eller oppfølging; dekket av oversiktene i utvalget (innsnevring 9.11.2026)
 - OK   6 utelatt W2170855432 «Prognostic Factors of Returning to Work after Sick Leave due to Work-R» (2015) – risikofaktorer, prediktorer eller konsekvenser av fravær, ikke effekt av tiltak
 - OK   6 utelatt W2150780565 «Improvement in Quality of Life After Catheter Ablation for Paroxysmal » (2014) – annet tema enn sykefravær og retur til arbeid
 - OK   6 utelatt W2058515412 «Multidisciplinary outpatient care program for patients with chronic lo» (2007) – protokoll eller utvikling av tiltak, uten effektmål
 - OK   6 utelatt W2110644070 «The role of job strain on return to work after carpal tunnel surgery» (2005) – risikofaktorer, prediktorer eller konsekvenser av fravær, ikke effekt av tiltak
 - OK   6 utelatt W3042937992 «The effects of using participatory working time scheduling software on» (2020) – forebygging blant friske ansatte, ikke oppfølging av sykmeldte
 - OK   6 utelatt W2089429307 «Predictors of sickness absence related to musculoskeletal pain: a two-» (2014) – risikofaktorer, prediktorer eller konsekvenser av fravær, ikke effekt av tiltak
-- OK   6 utelatt W2093265035 «The effect of workplace intervention on pain and sickness absence caus» (2011) – behandlings- eller rehabiliteringstiltak på arbeidsplassen eller i helsetjenesten, ikke ordning for krav eller oppfølging; dekket av oversiktene i utvalget (innsnevring 9.11.2026)
 - OK   6 utelatt W2338928003 «Practices of Return-to-Work Coordinators Working in Large Organization» (2016) – kvalitativ studie eller erfaringer, ikke effektmål
 - OK   6 utelatt W2154116324 «Sickness absence patterns and trends in the health care sector: 5-year» (2014) – risikofaktorer, prediktorer eller konsekvenser av fravær, ikke effekt av tiltak
 - OK   6 utelatt W2061918260 «Change in pain, disability and influence of fear-avoidance in a work-f» (2015) – klinisk behandling eller rehabilitering av en diagnose, ikke krav eller oppfølging fra trygd, lege eller arbeidsgiver
@@ -1845,7 +1739,6 @@ Kjørt 2026-11-14.
 - OK   6 utelatt W2927005719 «Workplace Bullying and Medically Certified Sickness Absence: Direction» (2019) – risikofaktorer, prediktorer eller konsekvenser av fravær, ikke effekt av tiltak
 - OK   6 utelatt W1764096913 «Predictive factors of sustained return to work for persons with muscul» (2009) – risikofaktorer, prediktorer eller konsekvenser av fravær, ikke effekt av tiltak
 - OK   6 utelatt W1982321536 «Changes in working conditions and subsequent sickness absence» (2013) – risikofaktorer, prediktorer eller konsekvenser av fravær, ikke effekt av tiltak
-- OK   6 utelatt W1836119245 «Effect of an intervention to enhance guideline adherence of occupation» (2015) – behandlings- eller rehabiliteringstiltak på arbeidsplassen eller i helsetjenesten, ikke ordning for krav eller oppfølging; dekket av oversiktene i utvalget (innsnevring 9.11.2026)
 - OK   6 utelatt W2048322249 «The Association Between Body Mass Index Class, Sickness Absence, and P» (2012) – risikofaktorer, prediktorer eller konsekvenser av fravær, ikke effekt av tiltak
 - OK   6 utelatt W2624395936 «The Personal Physician's Role in Helping Patients With Medical Conditi» (2017) – kommentar eller ikke-systematisk omtale; oversiktene i utvalget dekker evidensen
 - OK   6 utelatt W3110953734 «Pain catastrophizing, kinesiophobia and fear-avoidance in non-specific» (2020) – risikofaktorer, prediktorer eller konsekvenser av fravær, ikke effekt av tiltak
@@ -1892,7 +1785,6 @@ Kjørt 2026-11-14.
 - OK   6 utelatt W3134297567 «The prevalence of stress and burnout in UK emergency ambulance service» (2021) – annet tema enn sykefravær og retur til arbeid
 - OK   6 utelatt W2096938126 «Cost-effectiveness of a participatory return-to-work intervention for » (2010) – økonomisk evaluering av forsøket med deltakende retur for vikarer og ledige (W2121271519, valgt)
 - OK   6 utelatt W2080590086 «Relative Weight and Sickness Absence» (2007) – risikofaktorer, prediktorer eller konsekvenser av fravær, ikke effekt av tiltak
-- OK   6 utelatt W2621433844 «Randomized Controlled Trial of Adding Telephone Follow-Up to an Occupa» (2017) – behandlings- eller rehabiliteringstiltak på arbeidsplassen eller i helsetjenesten, ikke ordning for krav eller oppfølging; dekket av oversiktene i utvalget (innsnevring 9.11.2026)
 - OK   6 utelatt W2150157151 «Return to work among employees with common mental disorders: Study des» (2010) – protokoll eller utvikling av tiltak, uten effektmål
 - OK   6 utelatt W2108834418 «Worker adaptation and workplace accommodations after the onset of an i» (2014) – risikofaktorer, prediktorer eller konsekvenser av fravær, ikke effekt av tiltak
 - OK   6 utelatt W246935118 «Explaining educational differences in sickness absence: a population-b» (2015) – risikofaktorer, prediktorer eller konsekvenser av fravær, ikke effekt av tiltak
@@ -1904,7 +1796,6 @@ Kjørt 2026-11-14.
 - OK   6 utelatt W2758740511 «Effects of internet-based cognitive behavioural therapy and physical e» (2017) – klinisk behandling eller rehabilitering av en diagnose, ikke krav eller oppfølging fra trygd, lege eller arbeidsgiver
 - OK   6 utelatt W2575180319 «Cumulative exposure to shift work and sickness absence: associations i» (2017) – risikofaktorer, prediktorer eller konsekvenser av fravær, ikke effekt av tiltak
 - OK   6 utelatt W2332238265 «Cost-Effectiveness and Cost-Benefit Analyses of a Multidisciplinary In» (2013) – klinisk behandling eller rehabilitering av en diagnose, ikke krav eller oppfølging fra trygd, lege eller arbeidsgiver
-- OK   6 utelatt W2969193400 «Does early identification of work-related stress, combined with feedba» (2019) – behandlings- eller rehabiliteringstiltak på arbeidsplassen eller i helsetjenesten, ikke ordning for krav eller oppfølging; dekket av oversiktene i utvalget (innsnevring 9.11.2026)
 - OK   6 utelatt W3010259202 «Sick-listed workers’ experiences with motivational interviewing in the» (2020) – kvalitativ studie eller erfaringer, ikke effektmål
 - OK   6 utelatt W2590842457 «Daily alcohol consumption and sickness absence in the GAZEL cohort» (2017) – risikofaktorer, prediktorer eller konsekvenser av fravær, ikke effekt av tiltak
 - OK   6 utelatt W2132079354 «Influence of high cardiovascular risk in asymptomatic people on the du» (2013) – risikofaktorer, prediktorer eller konsekvenser av fravær, ikke effekt av tiltak
@@ -1914,7 +1805,6 @@ Kjørt 2026-11-14.
 - OK   6 utelatt W2582834790 «Work Characteristics and Return to Work in Long-Term Sick-Listed Emplo» (2017) – risikofaktorer, prediktorer eller konsekvenser av fravær, ikke effekt av tiltak
 - OK   6 utelatt W2585006107 «Job demands and decision control predicted return to work: the rapid-R» (2017) – risikofaktorer, prediktorer eller konsekvenser av fravær, ikke effekt av tiltak
 - OK   6 utelatt W4225774595 «The role of managerial leadership in sickness absence in health and so» (2021) – risikofaktorer, prediktorer eller konsekvenser av fravær, ikke effekt av tiltak
-- OK   6 utelatt W2558055076 «Effectiveness of an Intervention to Enhance Occupational Physicians’ G» (2016) – behandlings- eller rehabiliteringstiltak på arbeidsplassen eller i helsetjenesten, ikke ordning for krav eller oppfølging; dekket av oversiktene i utvalget (innsnevring 9.11.2026)
 - OK   6 utelatt W3016221074 «Interventions to minimise doctors’ mental ill-health and its impacts o» (2020) – forebygging blant friske ansatte, ikke oppfølging av sykmeldte
 - OK   6 utelatt W2085097951 «Work and family: associations with long-term sick-listing in Swedish w» (2007) – risikofaktorer, prediktorer eller konsekvenser av fravær, ikke effekt av tiltak
 - OK   6 utelatt W1971061395 «Using Repeated Measures of Sleep Disturbances to Predict Future Diagno» (2012) – risikofaktorer, prediktorer eller konsekvenser av fravær, ikke effekt av tiltak
@@ -1934,7 +1824,6 @@ Kjørt 2026-11-14.
 - OK   6 utelatt W3133918676 «Process of Work Disability: From Determinants of Sickness Absence Traj» (2021) – risikofaktorer, prediktorer eller konsekvenser av fravær, ikke effekt av tiltak
 - OK   6 utelatt W2598954484 «The effects of multimodal rehabilitation on pain-related sickness abse» (2017) – klinisk behandling eller rehabilitering av en diagnose, ikke krav eller oppfølging fra trygd, lege eller arbeidsgiver
 - OK   6 utelatt W2124234800 «Predictors of Sickness Absence in Patients with a New Episode of Low B» (2012) – risikofaktorer, prediktorer eller konsekvenser av fravær, ikke effekt av tiltak
-- OK   6 utelatt W4200573960 «Integrating vocational rehabilitation and mental healthcare to improve» (2021) – behandlings- eller rehabiliteringstiltak på arbeidsplassen eller i helsetjenesten, ikke ordning for krav eller oppfølging; dekket av oversiktene i utvalget (innsnevring 9.11.2026)
 - OK   6 utelatt W1580303516 «Animal-Assisted Interventions; Effects on Human Mental Health - A Theo» (2011) – klinisk behandling eller rehabilitering av en diagnose, ikke krav eller oppfølging fra trygd, lege eller arbeidsgiver
 - OK   6 utelatt W4284972646 «Pre- and post-operative psychological interventions to prevent pain an» (2022) – klinisk behandling eller rehabilitering av en diagnose, ikke krav eller oppfølging fra trygd, lege eller arbeidsgiver
 - OK   6 utelatt W2145375114 «Can work ability explain the social gradient in sickness absence: a st» (2012) – risikofaktorer, prediktorer eller konsekvenser av fravær, ikke effekt av tiltak
@@ -1965,7 +1854,6 @@ Kjørt 2026-11-14.
 - OK   6 utelatt W2591204468 «Activation, medicalisation and inter-organisational cooperation in hea» (2017) – kommentar eller ikke-systematisk omtale; oversiktene i utvalget dekker evidensen
 - OK   6 utelatt W2331975448 «Smoking and Other Correlates of Health Care Services Utilization Among» (2012) – risikofaktorer, prediktorer eller konsekvenser av fravær, ikke effekt av tiltak
 - OK   6 utelatt W2795258785 «Design of a study evaluating the effects, health economics, and stakeh» (2018) – protokoll eller utvikling av tiltak, uten effektmål
-- OK   6 utelatt W3000485708 «Effectiveness of adding a workplace intervention to an inpatient multi» (2019) – behandlings- eller rehabiliteringstiltak på arbeidsplassen eller i helsetjenesten, ikke ordning for krav eller oppfølging; dekket av oversiktene i utvalget (innsnevring 9.11.2026)
 - OK   6 utelatt W3204346292 «Patients’ with Multimorbidity and Psychosocial Difficulties and Their » (2021) – kvalitativ studie eller erfaringer, ikke effektmål
 - OK   6 utelatt W2277927547 «Uncomfortable Bedfellows: Employer Perspectives on General Practitione» (2015) – kvalitativ studie eller erfaringer, ikke effektmål
 - OK   6 utelatt W2006659255 «‘The unwilling and the unwell’? Exploring stakeholders’ perceptions of» (2013) – kvalitativ studie eller erfaringer, ikke effektmål
@@ -2012,7 +1900,6 @@ Kjørt 2026-11-14.
 - OK   6 utelatt W2369491065 «Job Retention and Rehabilitation Pilot: Employers' management of long-» (2004) – kvalitativ studie eller erfaringer, ikke effektmål
 - OK   6 utelatt W4401652942 «The SME tool supporting employers of small- and medium-sized enterpris» (2024) – protokoll eller utvikling av tiltak, uten effektmål
 - OK   6 utelatt W2611435630 «Impact of social innovation on organisational performance and sickness» (2010) – forebygging blant friske ansatte, ikke oppfølging av sykmeldte
-- OK   6 utelatt W175414101 «Telephonic support to facilitate return to work: what works, how, and » (2014) – smal oversikt (én diagnose, ett tiltak eller én yrkesgruppe); de brede oversiktene i utvalget dekker evidensen (innsnevring 9.11.2026)
 - OK   6 utelatt W4407828728 «Organizational factors behind low sickness absence in Swedish municipa» (2025) – kvalitativ studie eller erfaringer, ikke effektmål
 - OK   6 utelatt W2294308344 «Income Security During Sickness Absence. What Do British Middle‐classe» (2016) – nivået på sykepengene (eget spørsmål)
 - OK   6 utelatt W4417086566 «Employment status in people with multiple sclerosis: Profile, dynamic » (2025) – risikofaktorer, prediktorer eller konsekvenser av fravær, ikke effekt av tiltak
@@ -2052,12 +1939,8 @@ Kjørt 2026-11-14.
 - OK   6 utelatt FI-jyx.123456789_106215 «Työolosuhteiden mukauttaminen vammaisilla henkilöillä : vaikuttavuus s» (2014) – annet tema enn sykefravær og retur til arbeid
 - OK   6 utelatt FI-jykdok.2339777 «Työajan lyhentämisen työpaikkatason interventiot ja kokeilut : kirjall» (2023) – annet tema enn sykefravær og retur til arbeid
 - OK   6 utelatt W4396936977 «What is the volume, quality and characteristics of evidence relating t» (2024) – kommentar eller ikke-systematisk omtale; oversiktene i utvalget dekker evidensen
-- OK   6 utelatt W2103570575 «Reducing long term sickness absence by an activating intervention in a» (2003) – behandlings- eller rehabiliteringstiltak på arbeidsplassen eller i helsetjenesten, ikke ordning for krav eller oppfølging; dekket av oversiktene i utvalget (innsnevring 9.11.2026)
-- OK   6 utelatt W2171828568 «Interventions to improve return to work in depressed people» (2014) – eldre versjon av Cochrane-oversikten W4253720434, som er valgt (innsnevring 9.11.2026)
-- OK   6 utelatt W2141051648 «Interventions to facilitate return to work in adults with adjustment d» (2012) – smal oversikt (én diagnose, ett tiltak eller én yrkesgruppe); de brede oversiktene i utvalget dekker evidensen (innsnevring 9.11.2026)
 - OK   6 utelatt W2116716741 «The case for presenteeism — Evidence from Norway's sickness insurance » (2012) – gradert sykmelding som tiltak for seg (eget spørsmål)
 - OK   6 utelatt W2515928891 «Workplace Interventions to Prevent Disability from Both the Scientific» (2016) – kommentar eller ikke-systematisk omtale; oversiktene i utvalget dekker evidensen
-- OK   6 utelatt W2030370956 «Long-term stability of return to work after a workplace-oriented inter» (2014) – behandlings- eller rehabiliteringstiltak på arbeidsplassen eller i helsetjenesten, ikke ordning for krav eller oppfølging; dekket av oversiktene i utvalget (innsnevring 9.11.2026)
 - OK   6 utelatt W4414556239 «Implementing employability interventions for workers with health condi» (2025) – studie av gjennomføring, ikke effektmål
 - OK   6 utelatt W2000040333 «A Population-Based, Randomized Clinical Trial on Back Pain Management» (1997) – publisert før 2000 (mandatet: fra 2000)
 - OK   6 utelatt W2053550445 «Disability Prevention» (2001) – kommentar eller ikke-systematisk omtale; oversiktene i utvalget dekker evidensen
@@ -2067,8 +1950,6 @@ Kjørt 2026-11-14.
 - OK   6 utelatt W3087237778 «Occupational advice to help people return to work following lower limb» (2020) – klinisk behandling eller rehabilitering av en diagnose, ikke krav eller oppfølging fra trygd, lege eller arbeidsgiver
 - OK   6 utelatt W201093770 «Is Work Good for Your Health and Well-being?» (2006) – kommentar eller ikke-systematisk omtale; oversiktene i utvalget dekker evidensen
 - OK   6 utelatt W2124314378 «Cost-benefit and cost-effectiveness analysis of a disability preventio» (2002) – økonomisk evaluering; effekttallene hentes fra hovedartikkelen eller oversiktene
-- OK   6 utelatt W2156410043 «Effectiveness of an intervention to reduce sickness absence in patient» (2006) – behandlings- eller rehabiliteringstiltak på arbeidsplassen eller i helsetjenesten, ikke ordning for krav eller oppfølging; dekket av oversiktene i utvalget (innsnevring 9.11.2026)
-- OK   6 utelatt W2047554703 «Guideline-Based Care of Common Mental Disorders by Occupational Physic» (2009) – behandlings- eller rehabiliteringstiltak på arbeidsplassen eller i helsetjenesten, ikke ordning for krav eller oppfølging; dekket av oversiktene i utvalget (innsnevring 9.11.2026)
 - OK   6 utelatt W2100051012 «How Well Do Return-to-work Interventions for Musculoskeletal Condition» (2008) – kommentar eller ikke-systematisk omtale; oversiktene i utvalget dekker evidensen
 - OK   6 utelatt W2805335844 «Graded return-to-work as a stepping stone to full work resumption» (2019) – gradert sykmelding som tiltak for seg (eget spørsmål)
 - OK   6 utelatt W2079898261 «Part-Time Sick Leave as a Treatment Method for Individuals with Muscul» (2012) – gradert sykmelding som tiltak for seg (eget spørsmål)
@@ -2080,16 +1961,11 @@ Kjørt 2026-11-14.
 - OK   6 utelatt W2091007264 «Adjuvant occupational therapy for work-related major depression works:» (2006) – klinisk behandling eller rehabilitering av en diagnose, ikke krav eller oppfølging fra trygd, lege eller arbeidsgiver
 - OK   6 utelatt W2051721723 «A cognitive–behavioral return-to-work program: effects on pain patient» (2001) – klinisk behandling eller rehabilitering av en diagnose, ikke krav eller oppfølging fra trygd, lege eller arbeidsgiver
 - OK   6 utelatt W2901085500 «Psychological treatments for return to work in individuals on sickness» (2018) – klinisk behandling eller rehabilitering av en diagnose, ikke krav eller oppfølging fra trygd, lege eller arbeidsgiver
-- OK   6 utelatt W1975335333 «Return to work after sickness absence due to back disorders - a system» (2000) – smal oversikt (én diagnose, ett tiltak eller én yrkesgruppe); de brede oversiktene i utvalget dekker evidensen (innsnevring 9.11.2026)
 - OK   6 utelatt W2071233982 «Effects of a Multidisciplinary Stress Treatment Programme on Patient R» (2013) – klinisk behandling eller rehabilitering av en diagnose, ikke krav eller oppfølging fra trygd, lege eller arbeidsgiver
-- OK   6 utelatt W2012005929 «Randomized Controlled Trial of Workplace-based Rehabilitation for Work» (2007) – behandlings- eller rehabiliteringstiltak på arbeidsplassen eller i helsetjenesten, ikke ordning for krav eller oppfølging; dekket av oversiktene i utvalget (innsnevring 9.11.2026)
 - OK   6 utelatt W2607027669 «Effect of Inpatient Multicomponent Occupational Rehabilitation Versus » (2017) – klinisk behandling eller rehabilitering av en diagnose, ikke krav eller oppfølging fra trygd, lege eller arbeidsgiver
-- OK   6 utelatt W2740553877 «Cognitive–behavioural therapy and return-to-work intervention for pati» (2017) – behandlings- eller rehabiliteringstiltak på arbeidsplassen eller i helsetjenesten, ikke ordning for krav eller oppfølging; dekket av oversiktene i utvalget (innsnevring 9.11.2026)
 - OK   6 utelatt W2409106476 «A randomized prospective study of vocational outcome in rehabilitation» (1997) – publisert før 2000 (mandatet: fra 2000)
-- OK   6 utelatt W3215327468 «Determining what constitutes an effective psychosocial ‘return to work» (2021) – smal oversikt (én diagnose, ett tiltak eller én yrkesgruppe); de brede oversiktene i utvalget dekker evidensen (innsnevring 9.11.2026)
 - OK   6 utelatt W4313462067 «Non-pharmacological interventions to promote work participation in peo» (2023) – klinisk behandling eller rehabilitering av en diagnose, ikke krav eller oppfølging fra trygd, lege eller arbeidsgiver
 - OK   6 utelatt W3215438533 «What is meant by case management for the return-to-work of workers wit» (2021) – begrepsavklaring, ikke studie av tiltak
-- OK   6 utelatt W4237808370 «Work-Related Interventions to Reduce Work Disability Related to Muscul» (2020) – smal oversikt (én diagnose, ett tiltak eller én yrkesgruppe); de brede oversiktene i utvalget dekker evidensen (innsnevring 9.11.2026)
 - OK   6 utelatt W2162544110 «Developing and evaluating complex interventions: the new Medical Resea» (2008) – metode, måleinstrument eller rapporteringsstandard, ikke studie av tiltak
 - OK   6 utelatt W2095345438 «Long term sickness absence» (2005) – kommentar eller ikke-systematisk omtale; oversiktene i utvalget dekker evidensen
 - OK   6 utelatt W2024273578 «A Developmental Conceptualization of Return to Work» (2005) – kommentar eller ikke-systematisk omtale; oversiktene i utvalget dekker evidensen
@@ -2098,7 +1974,6 @@ Kjørt 2026-11-14.
 - OK   6 utelatt W2028341092 «Return-to-Work Outcomes Following Work Disability: Stakeholder Motivat» (2005) – kvalitativ studie eller erfaringer, ikke effektmål
 - OK   6 utelatt W2913921595 «Sustainable Return to Work: A Systematic Review Focusing on Personal a» (2019) – risikofaktorer, prediktorer eller konsekvenser av fravær, ikke effekt av tiltak
 - OK   6 utelatt W1991092998 «A 3-year follow-up of a multidisciplinary rehabilitation programme for» (2005) – klinisk behandling eller rehabilitering av en diagnose, ikke krav eller oppfølging fra trygd, lege eller arbeidsgiver
-- OK   6 utelatt W2097280185 «Low back pain interventions at the workplace: a systematic literature » (2004) – smal oversikt (én diagnose, ett tiltak eller én yrkesgruppe); de brede oversiktene i utvalget dekker evidensen (innsnevring 9.11.2026)
 - OK   6 utelatt W2120387872 «Implementation of a participatory ergonomics program in the rehabilita» (2001) – studie av gjennomføring, ikke effektmål
 - OK   6 utelatt W2048060977 «Management of occupational back pain: the Sherbrooke model. Results of» (1994) – publisert før 2000 (mandatet: fra 2000)
 - OK   6 utelatt W3147454186 «Implementing practices focused on workplace health and psychological w» (2021) – forebygging blant friske ansatte, ikke oppfølging av sykmeldte
@@ -2123,9 +1998,7 @@ Kjørt 2026-11-14.
 - OK   6 utelatt W4394840836 «Developing a Work Accommodation Operating Model for Workplaces and Wor» (2024) – protokoll eller utvikling av tiltak, uten effektmål
 - OK   6 utelatt W4399546149 «Collaboration in the return-to-work process after sick leave due to co» (2024) – kvalitativ studie eller erfaringer, ikke effektmål
 - OK   6 utelatt W2277259175 «Work Accommodations: A Social Perspective» (2015) – kommentar eller ikke-systematisk omtale; oversiktene i utvalget dekker evidensen
-- OK   6 utelatt W4400582204 «A systematic review of programs and interventions for reduction of sic» (2024) – smal oversikt (én diagnose, ett tiltak eller én yrkesgruppe); de brede oversiktene i utvalget dekker evidensen (innsnevring 9.11.2026)
 - OK   6 utelatt W4406926222 «Work Disability Prevention and Management» (2025) – kommentar eller ikke-systematisk omtale; oversiktene i utvalget dekker evidensen
-- OK   6 utelatt W4407687312 «Web-enhanced return-to-work coordination for employees with common men» (2025) – behandlings- eller rehabiliteringstiltak på arbeidsplassen eller i helsetjenesten, ikke ordning for krav eller oppfølging; dekket av oversiktene i utvalget (innsnevring 9.11.2026)
 - OK   6 utelatt W4239628762 «Sickness absence» (2019) – kommentar eller ikke-systematisk omtale; oversiktene i utvalget dekker evidensen
 - OK   6 utelatt W2156098321 «Preferred reporting items for systematic reviews and meta-analyses: th» (2009) – metode, måleinstrument eller rapporteringsstandard, ikke studie av tiltak
 - OK   6 utelatt W2037377025 «The MOS 36-item short-form health survey (SF-36). I. Conceptual framew» (1992) – publisert før 2000 (mandatet: fra 2000)
@@ -2159,11 +2032,9 @@ Kjørt 2026-11-14.
 - OK   6 utelatt W2088731142 «Relative Cost-Effectiveness of Extensive and Light Multidisciplinary T» (2002) – klinisk behandling eller rehabilitering av en diagnose, ikke krav eller oppfølging fra trygd, lege eller arbeidsgiver
 - OK   6 utelatt W2623215430 «Common Psychosocial Factors Predicting Return to Work After Common Men» (2017) – risikofaktorer, prediktorer eller konsekvenser av fravær, ikke effekt av tiltak
 - OK   6 utelatt W2063975834 «Secondary Prevention of Work-Related Disability in Nonspecific Low Bac» (2003) – klinisk behandling eller rehabilitering av en diagnose, ikke krav eller oppfølging fra trygd, lege eller arbeidsgiver
-- OK   6 utelatt W2167890993 «Work-focused cognitive–behavioural therapy and individual job support » (2015) – behandlings- eller rehabiliteringstiltak på arbeidsplassen eller i helsetjenesten, ikke ordning for krav eller oppfølging; dekket av oversiktene i utvalget (innsnevring 9.11.2026)
 - OK   6 utelatt W1863030634 «Interventions to improve occupational health in depressed people» (2008) – eldre versjon av Cochrane-oversikten W4253720434, som er valgt
 - OK   6 utelatt W2048747659 «Early intervention for back-injured nurses at a large Canadian tertiar» (1995) – publisert før 2000 (mandatet: fra 2000)
 - OK   6 utelatt W1987729930 «Does ‘welfare-to-work’ work? A systematic review of the effectiveness » (2004) – tiltak for personer med funksjonsnedsettelse, kronisk sykdom eller ledighet, ikke for sykmeldte
-- OK   6 utelatt W1042584663 «Early Workplace Communication and Problem Solving to Prevent Back Disa» (2015) – behandlings- eller rehabiliteringstiltak på arbeidsplassen eller i helsetjenesten, ikke ordning for krav eller oppfølging; dekket av oversiktene i utvalget (innsnevring 9.11.2026)
 - OK   6 utelatt W2167233277 «Work and mental health: Learning from return-to-work rehabilitation pr» (2007) – kommentar eller ikke-systematisk omtale; oversiktene i utvalget dekker evidensen
 - OK   6 utelatt W2020240434 «The individual cost of sick leave» (2011) – nivået på sykepengene (eget spørsmål)
 - OK   6 utelatt W2008900638 «Return to Work Outcomes of the Redesigning Daily Occupations (ReDO) Pr» (2011) – klinisk behandling eller rehabilitering av en diagnose, ikke krav eller oppfølging fra trygd, lege eller arbeidsgiver
@@ -2193,7 +2064,6 @@ Kjørt 2026-11-14.
 - OK   6 utelatt W2808777777 «Early Return to Work Has Benefits for Relief of Back Pain and Function» (2018) – risikofaktorer, prediktorer eller konsekvenser av fravær, ikke effekt av tiltak
 - OK   6 utelatt W3016845476 «Managing work participation for people with rheumatic and musculoskele» (2020) – kommentar eller ikke-systematisk omtale; oversiktene i utvalget dekker evidensen
 - OK   6 utelatt W2997011698 «Inpatient multimodal occupational rehabilitation reduces sickness abse» (2020) – klinisk behandling eller rehabilitering av en diagnose, ikke krav eller oppfølging fra trygd, lege eller arbeidsgiver
-- OK   6 utelatt W2987051906 «Effects of cognitive behavioural therapy and return‐to‐work interventi» (2019) – behandlings- eller rehabiliteringstiltak på arbeidsplassen eller i helsetjenesten, ikke ordning for krav eller oppfølging; dekket av oversiktene i utvalget (innsnevring 9.11.2026)
 - OK   6 utelatt W4392582001 «Employer-focused interventions targeting disability employment: A syst» (2024) – tiltak for personer med funksjonsnedsettelse, ikke for sykmeldte
 - OK   6 utelatt W2013503454 «Health-related effects of early part-time sick leave due to musculoske» (2012) – gradert sykmelding som tiltak for seg (eget spørsmål)
 - OK   6 utelatt W2024122272 «Does Part-Time Sick Leave Help Individuals with Mental Disorders Recov» (2013) – gradert sykmelding som tiltak for seg (eget spørsmål)
@@ -2212,7 +2082,6 @@ Kjørt 2026-11-14.
 - OK   6 utelatt W3138116577 «Does gradually returning to work improve time to sustainable work afte» (2021) – gradert sykmelding som tiltak for seg (eget spørsmål)
 - OK   6 utelatt W3047599171 «Return-to-work: Exploring professionals’ experiences of support for pe» (2020) – kvalitativ studie eller erfaringer, ikke effektmål
 - OK   6 utelatt W2944971871 «Insights into cognitive work hardening for return-to-work following de» (2019) – kvalitativ studie eller erfaringer, ikke effektmål
-- OK   6 utelatt W2969005613 «Early occupational intervention for people with low back pain in physi» (2019) – behandlings- eller rehabiliteringstiltak på arbeidsplassen eller i helsetjenesten, ikke ordning for krav eller oppfølging; dekket av oversiktene i utvalget (innsnevring 9.11.2026)
 - OK   6 utelatt W2804289120 «Unfolding the values of work – therapists´ experience of addressing th» (2018) – kvalitativ studie eller erfaringer, ikke effektmål
 - OK   6 utelatt W4225263984 «Return to work factors and vocational rehabilitation interventions for» (2022) – risikofaktorer, prediktorer eller konsekvenser av fravær, ikke effekt av tiltak
 - OK   6 utelatt W2768067777 «Cohort profile: workers’ compensation in a changing Australian labour » (2017) – register eller database, ikke studie av tiltak
@@ -2228,7 +2097,6 @@ Kjørt 2026-11-14.
 - OK   6 utelatt W2805269886 «Worker Absenteeism and Employment Outcomes: A Literature Review» (2017) – risikofaktorer, prediktorer eller konsekvenser av fravær, ikke effekt av tiltak
 - OK   6 utelatt W7124471681 «Inpatient or Outpatient Occupational Rehabilitation – What Works Best » (2026) – klinisk behandling eller rehabilitering av en diagnose, ikke krav eller oppfølging fra trygd, lege eller arbeidsgiver
 - OK   6 utelatt W4225885251 «Developing and testing a case-management intervention to support the r» (2022) – protokoll eller utvikling av tiltak, uten effektmål
-- OK   6 utelatt W4320150874 «Actions related to workers, employers, and the workplace associated wi» (2022) – smal oversikt (én diagnose, ett tiltak eller én yrkesgruppe); de brede oversiktene i utvalget dekker evidensen (innsnevring 9.11.2026)
 - OK   6 utelatt W2945792041 «Yaşlı Kadınlarda Üreme Sağlığı» (2019) – annet tema enn sykefravær og retur til arbeid
 - OK   6 utelatt W2991792334 «Preferred reporting items for systematic reviews and meta-analyses: th» (2009) – metode, måleinstrument eller rapporteringsstandard, ikke studie av tiltak
 - OK   6 utelatt W1979300931 «Nonparametric Estimation from Incomplete Observations» (1992) – publisert før 2000 (mandatet: fra 2000)
@@ -2297,22 +2165,18 @@ Kjørt 2026-11-14.
 - OK   6 utelatt W2152828135 «Common mental disorders and subsequent work disability: A population-b» (2011) – risikofaktorer, prediktorer eller konsekvenser av fravær, ikke effekt av tiltak
 - OK   6 utelatt W76489921 «An exploration of social support as a factor in the return-to-work pro» (2008) – kvalitativ studie eller erfaringer, ikke effektmål
 - OK   6 utelatt W2014467466 «The Functional Restoration Approach to the Treatment of Chronic Pain i» (1994) – publisert før 2000 (mandatet: fra 2000)
-- OK   6 utelatt W1570738326 «A review of best work-absence management and return-to-work practices » (2014) – smal oversikt (én diagnose, ett tiltak eller én yrkesgruppe); de brede oversiktene i utvalget dekker evidensen (innsnevring 9.11.2026)
 - OK   6 utelatt W3161172564 «The Role of the Employer in Supporting Work Participation of Workers w» (2021) – tiltak for personer med funksjonsnedsettelse, kronisk sykdom eller ledighet, ikke for sykmeldte
-- OK   6 utelatt W2136763556 «Effectiveness of workplace rehabilitation interventions in the treatme» (2006) – smal oversikt (én diagnose, ett tiltak eller én yrkesgruppe); de brede oversiktene i utvalget dekker evidensen (innsnevring 9.11.2026)
 - OK   6 utelatt W2147315337 «Distribution of sickness absence in the European Union countries: Tabl» (2004) – risikofaktorer, prediktorer eller konsekvenser av fravær, ikke effekt av tiltak
 - OK   6 utelatt W1977346380 «Mini-Intervention for Subacute Low Back Pain» (2003) – klinisk behandling eller rehabilitering av en diagnose, ikke krav eller oppfølging fra trygd, lege eller arbeidsgiver
 - OK   6 utelatt W2033343802 «Healing or Harming? Healthcare Provider Interactions with Injured Work» (2014) – kvalitativ studie eller erfaringer, ikke effektmål
 - OK   6 utelatt W2139747762 «Multimodal cognitive behavioral treatment of patients sicklisted for m» (1998) – publisert før 2000 (mandatet: fra 2000)
 - OK   6 utelatt W2431154202 «Determinants of disability after a work related musculetal injury.» (1998) – publisert før 2000 (mandatet: fra 2000)
 - OK   6 utelatt W2582439330 «Inter-rater agreement in evaluation of disability: systematic review o» (2017) – metode, måleinstrument eller rapporteringsstandard, ikke studie av tiltak
-- OK   6 utelatt W2108740484 «Prevention of recurrent sickness absence in workers with common mental» (2013) – behandlings- eller rehabiliteringstiltak på arbeidsplassen eller i helsetjenesten, ikke ordning for krav eller oppfølging; dekket av oversiktene i utvalget (innsnevring 9.11.2026)
 - OK   6 utelatt W2009994493 «Mini-Intervention for Subacute Low Back Pain» (2004) – klinisk behandling eller rehabilitering av en diagnose, ikke krav eller oppfølging fra trygd, lege eller arbeidsgiver
 - OK   6 utelatt W1978270804 «Return-to-Work Self-Efficacy and Actual Return to Work Among Long-Term» (2014) – risikofaktorer, prediktorer eller konsekvenser av fravær, ikke effekt av tiltak
 - OK   6 utelatt W1768648036 «Systematic overview of economic evaluations of health-related rehabili» (2015) – kommentar eller ikke-systematisk omtale; oversiktene i utvalget dekker evidensen
 - OK   6 utelatt W2109806589 «Socio-economic differences in long-term psychiatric work disability: p» (2011) – risikofaktorer, prediktorer eller konsekvenser av fravær, ikke effekt av tiltak
 - OK   6 utelatt W1611960978 «Workplace interventions for neck pain in workers» (2011) – forebygging blant friske ansatte, ikke oppfølging av sykmeldte
-- OK   6 utelatt W2168548040 «An occupational health intervention programme for workers at risk for » (2004) – behandlings- eller rehabiliteringstiltak på arbeidsplassen eller i helsetjenesten, ikke ordning for krav eller oppfølging; dekket av oversiktene i utvalget (innsnevring 9.11.2026)
 - OK   6 utelatt W2051859476 «Effectiveness of a Hospital-Based Work Support Intervention for Female» (2013) – klinisk behandling eller rehabilitering av en diagnose, ikke krav eller oppfølging fra trygd, lege eller arbeidsgiver
 - OK   6 utelatt W2789590872 «Sickness absence: a systematic review and meta-analysis of psychologic» (2018) – klinisk behandling eller rehabilitering av en diagnose, ikke krav eller oppfølging fra trygd, lege eller arbeidsgiver
 - OK   6 utelatt W2014873229 «Does sickness absence increase the risk of unemployment?» (2006) – risikofaktorer, prediktorer eller konsekvenser av fravær, ikke effekt av tiltak
@@ -2341,18 +2205,15 @@ Kjørt 2026-11-14.
 - OK   6 utelatt W2767395077 «A systematic review and meta‐analysis of tertiary interventions in cli» (2017) – klinisk behandling eller rehabilitering av en diagnose, ikke krav eller oppfølging fra trygd, lege eller arbeidsgiver
 - OK   6 utelatt W2036640813 «Social inequalities in ‘sickness’: European welfare states and non-emp» (2011) – risikofaktorer, prediktorer eller konsekvenser av fravær, ikke effekt av tiltak
 - OK   6 utelatt W2986520318 «Factors associated with persistently high-cost health care utilization» (2019) – risikofaktorer, prediktorer eller konsekvenser av fravær, ikke effekt av tiltak
-- OK   6 utelatt W1968391854 «Effectiveness of a return-to-work intervention for subacute low-back p» (2005) – smal oversikt (én diagnose, ett tiltak eller én yrkesgruppe); de brede oversiktene i utvalget dekker evidensen (innsnevring 9.11.2026)
 - OK   6 utelatt W2026102636 «Sick leave diagnoses and return to work: a Swedish register study» (2014) – risikofaktorer, prediktorer eller konsekvenser av fravær, ikke effekt av tiltak
 - OK   6 utelatt W2103197243 «Effects of Education on Return-to-Work Status for People With Fear-Avo» (2007) – klinisk behandling eller rehabilitering av en diagnose, ikke krav eller oppfølging fra trygd, lege eller arbeidsgiver
 - OK   6 utelatt W2137762308 «Comparing Current Definitions of Return to Work: A Measurement Approac» (2012) – metode, måleinstrument eller rapporteringsstandard, ikke studie av tiltak
-- OK   6 utelatt W2158268312 «An occupational health intervention programme for workers at high risk» (2007) – behandlings- eller rehabiliteringstiltak på arbeidsplassen eller i helsetjenesten, ikke ordning for krav eller oppfølging; dekket av oversiktene i utvalget (innsnevring 9.11.2026)
 - OK   6 utelatt W2056784696 «Return to Work After Surgery for Lumbar Disc Herniation» (1999) – publisert før 2000 (mandatet: fra 2000)
 - OK   6 utelatt W2399111140 «Physical Activity and Exercise Interventions in the Workplace Impactin» (2016) – forebygging blant friske ansatte, ikke oppfølging av sykmeldte
 - OK   6 utelatt W9511284 «Constructing the program impact theory for an evidence-based work reha» (2003) – metode, måleinstrument eller rapporteringsstandard, ikke studie av tiltak
 - OK   6 utelatt W2082325326 «Return to work after comparing outpatient multidisciplinary treatment » (2005) – klinisk behandling eller rehabilitering av en diagnose, ikke krav eller oppfølging fra trygd, lege eller arbeidsgiver
 - OK   6 utelatt W2407051532 «Physical performance, pain, pain behavior and subjective disability in» (1995) – publisert før 2000 (mandatet: fra 2000)
 - OK   6 utelatt W1975095017 «A Classification of Components of Workplace Disability Management Prog» (2013) – klassifisering av programkomponenter, ikke effektmål
-- OK   6 utelatt W2153961285 «Evaluation of effective return-to-work treatment programs for sick-lis» (2005) – smal oversikt (én diagnose, ett tiltak eller én yrkesgruppe); de brede oversiktene i utvalget dekker evidensen (innsnevring 9.11.2026)
 - OK   6 utelatt W2027722319 «Ten Years’ Experience Using an Integrated Workers’ Compensation Manage» (2003) – kommentar eller ikke-systematisk omtale; oversiktene i utvalget dekker evidensen
 - OK   6 utelatt W3105025218 «Self-reported work ability predicts health-related exit and absence fr» (2020) – risikofaktorer, prediktorer eller konsekvenser av fravær, ikke effekt av tiltak
 - OK   6 utelatt W1966239099 «Effects of workplace, family and cultural influences on low back pain:» (2013) – risikofaktorer, prediktorer eller konsekvenser av fravær, ikke effekt av tiltak
@@ -2387,7 +2248,6 @@ Kjørt 2026-11-14.
 - OK   6 utelatt W2098249277 «Efficacy of ‘Tailored Physical Activity’ on reducing sickness absence » (2015) – forebygging blant friske ansatte, ikke oppfølging av sykmeldte
 - OK   6 utelatt W2298295667 «The market for paid sick leave» (2017) – nivået på sykepengene (eget spørsmål)
 - OK   6 utelatt W2921349491 «Return to work after interdisciplinary pain rehabilitation: One- and t» (2019) – klinisk behandling eller rehabilitering av en diagnose, ikke krav eller oppfølging fra trygd, lege eller arbeidsgiver
-- OK   6 utelatt W4225750629 «Participatory Ergonomics Intervention to Prevent Work Disability Among» (2022) – behandlings- eller rehabiliteringstiltak på arbeidsplassen eller i helsetjenesten, ikke ordning for krav eller oppfølging; dekket av oversiktene i utvalget (innsnevring 9.11.2026)
 - OK   6 utelatt W2034060176 «Comparison of Workers' Compensation Costs for Two Cohorts of Injured W» (1998) – publisert før 2000 (mandatet: fra 2000)
 - OK   6 utelatt W2277031154 «Preventing disability from occupational musculoskeletal injuries in an» (2004) – kohortstudie fra et erstatningssystem utenfor Europa, uten kontroll for seleksjon; oversiktene i utvalget dekker evidensen
 - OK   6 utelatt W2033170142 «Key Factors in Back Disability Prevention» (2007) – kommentar eller ikke-systematisk omtale; oversiktene i utvalget dekker evidensen
@@ -2406,7 +2266,6 @@ Kjørt 2026-11-14.
 - OK   6 utelatt W1964362229 «Are there pre-programme effects of active placement efforts? Evidence » (2011) – tiltak for personer med funksjonsnedsettelse, kronisk sykdom eller ledighet, ikke for sykmeldte
 - OK   6 utelatt W2096661108 «The Cost Effectiveness of a Tailored, Web-Based Care Program to Enhanc» (2014) – klinisk behandling eller rehabilitering av en diagnose, ikke krav eller oppfølging fra trygd, lege eller arbeidsgiver
 - OK   6 utelatt W2735589933 «Importance of social capital at the workplace for return to work among» (2017) – risikofaktorer, prediktorer eller konsekvenser av fravær, ikke effekt av tiltak
-- OK   6 utelatt W2091387100 «Psychological approach of occupational health service to sick leave du» (2014) – smal oversikt (én diagnose, ett tiltak eller én yrkesgruppe); de brede oversiktene i utvalget dekker evidensen (innsnevring 9.11.2026)
 - OK   6 utelatt W2122024874 «Social Support and Supervisory Quality Interventions in the Workplace:» (2015) – forebygging blant friske ansatte, ikke oppfølging av sykmeldte
 - OK   6 utelatt W2226160317 «Persistent musculoskeletal pain and productive employment; a systemati» (2016) – klinisk behandling eller rehabilitering av en diagnose, ikke krav eller oppfølging fra trygd, lege eller arbeidsgiver
 - OK   6 utelatt W2171178769 «Experiences and Perspectives of Physical Therapists Managing Patients » (2012) – kvalitativ studie eller erfaringer, ikke effektmål
@@ -2433,14 +2292,11 @@ Kjørt 2026-11-14.
 - OK   6 utelatt W2559846193 «Privatizing sick pay: Does it work?» (2016) – nivået på sykepengene (eget spørsmål)
 - OK   6 utelatt W2929144463 «A Systematic Review of Productivity in Economic Evaluations of Workpla» (2019) – metode, måleinstrument eller rapporteringsstandard, ikke studie av tiltak
 - OK   6 utelatt W4211247551 «Stratifying workers on sick leave due to musculoskeletal pain: transla» (2022) – metode, måleinstrument eller rapporteringsstandard, ikke studie av tiltak
-- OK   6 utelatt W4396861024 «Prevention of sickness absence through early identification and rehabi» (2024) – behandlings- eller rehabiliteringstiltak på arbeidsplassen eller i helsetjenesten, ikke ordning for krav eller oppfølging; dekket av oversiktene i utvalget (innsnevring 9.11.2026)
 - OK   6 utelatt W3134383589 «A bibliometric analysis of occupational low back pain studies from 200» (2021) – metode, måleinstrument eller rapporteringsstandard, ikke studie av tiltak
 - OK   6 utelatt W4410777014 «Systematic review of digital health interventions to support self-mana» (2025) – klinisk behandling eller rehabilitering av en diagnose, ikke krav eller oppfølging fra trygd, lege eller arbeidsgiver
 - OK   6 utelatt W3012672847 «Implementing Best Practice Models of Return to Work» (2020) – kommentar eller ikke-systematisk omtale; oversiktene i utvalget dekker evidensen
 - OK   6 utelatt W4407868498 «Mandated Sick Pay: Coverage, Utilization, and Crowding-in» (2025) – nivået på sykepengene (eget spørsmål)
-- OK   6 utelatt W4382010989 «Fostering Stay at Work After a Period of Disability: A Scoping Review » (2023) – smal oversikt (én diagnose, ett tiltak eller én yrkesgruppe); de brede oversiktene i utvalget dekker evidensen (innsnevring 9.11.2026)
 - OK   6 utelatt W4400081472 «Evaluation of Community Involvement and Development in an Orthopedic H» (2024) – annet tema enn sykefravær og retur til arbeid
-- OK   6 utelatt W4401385156 «Is a Problem-Solving Intervention with Workplace Involvement for Emplo» (2024) – behandlings- eller rehabiliteringstiltak på arbeidsplassen eller i helsetjenesten, ikke ordning for krav eller oppfølging; dekket av oversiktene i utvalget (innsnevring 9.11.2026)
 - OK   6 utelatt W206788955 «Early Intervention to Prevent the Development of Chronic Musculoskelet» (2014) – klinisk behandling eller rehabilitering av en diagnose, ikke krav eller oppfølging fra trygd, lege eller arbeidsgiver
 - OK   6 utelatt W4407778784 «Effectiveness of clinical healthcare interventions for enhancing the w» (2025) – klinisk behandling eller rehabilitering av en diagnose, ikke krav eller oppfølging fra trygd, lege eller arbeidsgiver
 - OK   6 utelatt W2296662001 «Return to Work in Depression and Anxiety» (2015) – kommentar eller ikke-systematisk omtale; oversiktene i utvalget dekker evidensen
@@ -2548,7 +2404,6 @@ Kjørt 2026-11-14.
 - OK   6 utelatt W2103427788 «Health status, work limitations, and return-to-work trajectories in in» (2007) – risikofaktorer, prediktorer eller konsekvenser av fravær, ikke effekt av tiltak
 - OK   6 utelatt W1998352071 «Health, job characteristics, skills, and social and financial factors » (2013) – risikofaktorer, prediktorer eller konsekvenser av fravær, ikke effekt av tiltak
 - OK   6 utelatt W1534644192 «The Study of Environment on Aboriginal Resilience and Child Health (SE» (2010) – annet tema enn sykefravær og retur til arbeid
-- OK   6 utelatt W1980624031 «Reducing Sickness Absence from Work due to Low Back Pain: How Well do » (2006) – smal oversikt (én diagnose, ett tiltak eller én yrkesgruppe); de brede oversiktene i utvalget dekker evidensen (innsnevring 9.11.2026)
 - OK   6 utelatt W2068574448 «Return to work following vocational rehabilitation for neck, back and » (2002) – risikofaktorer, prediktorer eller konsekvenser av fravær, ikke effekt av tiltak
 - OK   6 utelatt W2036887420 «Estimating the Effect of Counseling and Monitoring the Unemployed Usin» (1996) – publisert før 2000 (mandatet: fra 2000)
 - OK   6 utelatt W2118764718 «Assisting Social Security Disability Insurance Beneficiaries With Schi» (2013) – tiltak for personer med funksjonsnedsettelse, kronisk sykdom eller ledighet, ikke for sykmeldte
@@ -2568,14 +2423,12 @@ Kjørt 2026-11-14.
 - OK   6 utelatt W2089248945 «Life course determinants for early disability pension: a follow-up of » (2007) – risikofaktorer, prediktorer eller konsekvenser av fravær, ikke effekt av tiltak
 - OK   6 utelatt W2109853534 «Early prognostic factors for duration on temporary total benefits in t» (2003) – risikofaktorer, prediktorer eller konsekvenser av fravær, ikke effekt av tiltak
 - OK   6 utelatt W2066635765 «Determinants of work absence following surgery for carpal tunnel syndr» (2005) – risikofaktorer, prediktorer eller konsekvenser av fravær, ikke effekt av tiltak
-- OK   6 utelatt W2079062321 «Return-to-Work Interventions for Low Back Pain» (2002) – smal oversikt (én diagnose, ett tiltak eller én yrkesgruppe); de brede oversiktene i utvalget dekker evidensen (innsnevring 9.11.2026)
 - OK   6 utelatt W2094716538 «Effects of a Worker Participatory Program for Improving Work Environme» (2008) – forebygging blant friske ansatte, ikke oppfølging av sykmeldte
 - OK   6 utelatt W2083455763 «Psychological Intervention for Premenstrual Syndrome: A Meta-Analysis » (2008) – annet tema enn sykefravær og retur til arbeid
 - OK   6 utelatt W2166890501 «The use of weekly text messaging over 6 months was a feasible method f» (2011) – metode, måleinstrument eller rapporteringsstandard, ikke studie av tiltak
 - OK   6 utelatt W1993751573 «Cost-effectiveness of Combined Manipulation, Stabilizing Exercises, an» (2005) – klinisk behandling eller rehabilitering av en diagnose, ikke krav eller oppfølging fra trygd, lege eller arbeidsgiver
 - OK   6 utelatt W2054728601 «Labor Market Institutions and Individual Absenteeism in the European U» (2008) – risikofaktorer, prediktorer eller konsekvenser av fravær, ikke effekt av tiltak
 - OK   6 utelatt W2001904890 «Cognitively Oriented Behavioral Rehabilitation in Combination with Qig» (2009) – klinisk behandling eller rehabilitering av en diagnose, ikke krav eller oppfølging fra trygd, lege eller arbeidsgiver
-- OK   6 utelatt W2050454131 «Systematic Review of Intervention Practices for Depression in the Work» (2011) – smal oversikt (én diagnose, ett tiltak eller én yrkesgruppe); de brede oversiktene i utvalget dekker evidensen (innsnevring 9.11.2026)
 - OK   6 utelatt W2078800317 «Psychosocial Factors Related to Return to Work Following Rehabilitatio» (2007) – risikofaktorer, prediktorer eller konsekvenser av fravær, ikke effekt av tiltak
 - OK   6 utelatt W2145362554 «Efficacy of cognitive–behavioural therapy by general practitioners for» (2004) – klinisk behandling eller rehabilitering av en diagnose, ikke krav eller oppfølging fra trygd, lege eller arbeidsgiver
 - OK   6 utelatt W115387068 «A systematic review of preventive interventions regarding mental healt» (2009) – forebygging blant friske ansatte, ikke oppfølging av sykmeldte
@@ -2664,7 +2517,6 @@ Kjørt 2026-11-14.
 - OK   6 utelatt W2115745994 «The application of an occupational health guideline reduces sedentary » (2012) – forebygging blant friske ansatte, ikke oppfølging av sykmeldte
 - OK   6 utelatt W2120863481 «Effects of rehabilitation programmes for patients on long-term sick le» (2012) – klinisk behandling eller rehabilitering av en diagnose, ikke krav eller oppfølging fra trygd, lege eller arbeidsgiver
 - OK   6 utelatt W2738163106 «Job retention vocational rehabilitation for employed people with infla» (2017) – klinisk behandling eller rehabilitering av en diagnose, ikke krav eller oppfølging fra trygd, lege eller arbeidsgiver
-- OK   6 utelatt W2888618478 «A systematic review on workplace interventions to manage chronic muscu» (2018) – smal oversikt (én diagnose, ett tiltak eller én yrkesgruppe); de brede oversiktene i utvalget dekker evidensen (innsnevring 9.11.2026)
 - OK   6 utelatt W2895441265 «Monitoring Viability and Sustainability in Healthcare Organizations» (2018) – annet tema enn sykefravær og retur til arbeid
 - OK   6 utelatt W2131242708 «A New Theoretical Model for Cooperation in Public Health Settings: The» (2007) – kommentar eller ikke-systematisk omtale; oversiktene i utvalget dekker evidensen
 - OK   6 utelatt W2318903346 «Effect of job maintenance training program for employees with chronic » (2011) – tiltak for personer med funksjonsnedsettelse, kronisk sykdom eller ledighet, ikke for sykmeldte
@@ -2691,7 +2543,6 @@ Kjørt 2026-11-14.
 - OK   6 utelatt W1999049208 «Perceived Justice of Compensation Process for Return-to-Work: Developm» (2009) – metode, måleinstrument eller rapporteringsstandard, ikke studie av tiltak
 - OK   6 utelatt W2020532765 «Quality of life and maintenance of improvements after early multimodal» (2006) – klinisk behandling eller rehabilitering av en diagnose, ikke krav eller oppfølging fra trygd, lege eller arbeidsgiver
 - OK   6 utelatt W2034691050 «Previous sick leaves as predictor of subsequent ones» (2011) – risikofaktorer, prediktorer eller konsekvenser av fravær, ikke effekt av tiltak
-- OK   6 utelatt W2081475578 «Workplace Interventions for Workers with Musculoskeletal Disabilities:» (2006) – smal oversikt (én diagnose, ett tiltak eller én yrkesgruppe); de brede oversiktene i utvalget dekker evidensen (innsnevring 9.11.2026)
 - OK   6 utelatt W1858031200 «Effect of an Early Intervention Program on the Relationship Between Su» (1996) – publisert før 2000 (mandatet: fra 2000)
 - OK   6 utelatt W1977279891 «Graded activity for workers with low back pain: Who benefits most and » (2008) – klinisk behandling eller rehabilitering av en diagnose, ikke krav eller oppfølging fra trygd, lege eller arbeidsgiver
 - OK   6 utelatt W4388633675 «Absenteeism of Healthcare Personnel in the COVID-19 Era: A Systematic » (2023) – risikofaktorer, prediktorer eller konsekvenser av fravær, ikke effekt av tiltak
@@ -2730,11 +2581,9 @@ Kjørt 2026-11-14.
 - OK   6 utelatt W1981266057 «Multi-Faceted Case Management: Reducing Compensation Costs of Musculos» (2012) – kohortstudie fra et erstatningssystem utenfor Europa, uten kontroll for seleksjon; oversiktene i utvalget dekker evidensen
 - OK   6 utelatt W1998250189 «Patient Clusters in Acute, Work-Related Back Pain Based on Patterns of» (2007) – risikofaktorer, prediktorer eller konsekvenser av fravær, ikke effekt av tiltak
 - OK   6 utelatt W2031580474 «Exploring the meaning of early contact in return-to-work from workplac» (2010) – kvalitativ studie eller erfaringer, ikke effektmål
-- OK   6 utelatt W2041256790 «The Effectiveness of Standard Care, Early Intervention, and Occupation» (2003) – behandlings- eller rehabiliteringstiltak på arbeidsplassen eller i helsetjenesten, ikke ordning for krav eller oppfølging; dekket av oversiktene i utvalget (innsnevring 9.11.2026)
 - OK   6 utelatt W2157458653 «Effectiveness of a problem-solving based intervention to prolong the w» (2015) – tiltak for personer med funksjonsnedsettelse, kronisk sykdom eller ledighet, ikke for sykmeldte
 - OK   6 utelatt W2334985949 «The Impact of Workplace Risk Factors on Long-term Musculoskeletal Sick» (2011) – risikofaktorer, prediktorer eller konsekvenser av fravær, ikke effekt av tiltak
 - OK   6 utelatt W2502769309 «Unwanted sexual attention at work and long-term sickness absence: a fo» (2016) – risikofaktorer, prediktorer eller konsekvenser av fravær, ikke effekt av tiltak
-- OK   6 utelatt W2885000375 «Long-term effects on income and sickness benefits after work-focused c» (2018) – behandlings- eller rehabiliteringstiltak på arbeidsplassen eller i helsetjenesten, ikke ordning for krav eller oppfølging; dekket av oversiktene i utvalget (innsnevring 9.11.2026)
 - OK   6 utelatt W2021923836 «The Association of Social Functioning, Social Relationships and the Re» (2012) – risikofaktorer, prediktorer eller konsekvenser av fravær, ikke effekt av tiltak
 - OK   6 utelatt W2605900664 «Associations Between the Readiness for Return to Work Scale and Return» (2017) – metode, måleinstrument eller rapporteringsstandard, ikke studie av tiltak
 - OK   6 utelatt W2804141772 «Workplace Adaptations Promoting the Inclusion of Persons with Disabili» (2018) – tiltak for personer med funksjonsnedsettelse, kronisk sykdom eller ledighet, ikke for sykmeldte
@@ -2786,7 +2635,6 @@ Kjørt 2026-11-14.
 - OK   6 utelatt W2029858637 «Predicting Non Return to Work after Orthopaedic Trauma: The Wallis Occ» (2014) – risikofaktorer, prediktorer eller konsekvenser av fravær, ikke effekt av tiltak
 - OK   6 utelatt W1998950323 «Predictive factors of future participation in rehabilitation in the wo» (2011) – risikofaktorer, prediktorer eller konsekvenser av fravær, ikke effekt av tiltak
 - OK   6 utelatt W2020133690 «A 6-year follow-up study of 122 patients attending a multiprofessional» (2007) – klinisk behandling eller rehabilitering av en diagnose, ikke krav eller oppfølging fra trygd, lege eller arbeidsgiver
-- OK   6 utelatt W2612476250 «Preventing sickness absenteeism among employees with common mental dis» (2017) – behandlings- eller rehabiliteringstiltak på arbeidsplassen eller i helsetjenesten, ikke ordning for krav eller oppfølging; dekket av oversiktene i utvalget (innsnevring 9.11.2026)
 - OK   6 utelatt W2898908288 «Managing employees’ depression from the employees’, co-workers’ and em» (2018) – kvalitativ studie eller erfaringer, ikke effektmål
 - OK   6 utelatt W85289642 «Evaluation of a Case Management Program: Summary and Integration of Fi» (1999) – publisert før 2000 (mandatet: fra 2000)
 - OK   6 utelatt W2057199984 «The importance, measurement and practical implications of worker's exp» (2014) – risikofaktorer, prediktorer eller konsekvenser av fravær, ikke effekt av tiltak
@@ -2821,7 +2669,6 @@ Kjørt 2026-11-14.
 - OK   6 utelatt W2129945955 «Is There a Need for Including Spiritual Care in Interdisciplinary Reha» (2014) – klinisk behandling eller rehabilitering av en diagnose, ikke krav eller oppfølging fra trygd, lege eller arbeidsgiver
 - OK   6 utelatt W2262850833 «Impairment, Disability, and Return to Work» (2015) – kommentar eller ikke-systematisk omtale; oversiktene i utvalget dekker evidensen
 - OK   6 utelatt W2791545151 «Policy Guidelines for Effective Inclusion and Reintegration of People » (2018) – tiltak for personer med funksjonsnedsettelse, kronisk sykdom eller ledighet, ikke for sykmeldte
-- OK   6 utelatt W2924548630 «Interventions to reduce sickness absence among healthcare workers: a s» (2019) – smal oversikt (én diagnose, ett tiltak eller én yrkesgruppe); de brede oversiktene i utvalget dekker evidensen (innsnevring 9.11.2026)
 - OK   6 utelatt W4226177344 «Integrating vocational rehabilitation and mental healthcare to improve» (2022) – tiltak for personer med funksjonsnedsettelse, kronisk sykdom eller ledighet, ikke for sykmeldte
 - OK   6 utelatt W1568131868 «Cognitive work hardening: A return-to-work intervention for people wit» (2013) – klinisk behandling eller rehabilitering av en diagnose, ikke krav eller oppfølging fra trygd, lege eller arbeidsgiver
 - OK   6 utelatt W2580933115 «Predictive Validity of a Screening Instrument for the Risk of Non–Retu» (2017) – metode, måleinstrument eller rapporteringsstandard, ikke studie av tiltak
@@ -2832,7 +2679,6 @@ Kjørt 2026-11-14.
 - OK   6 utelatt W2057101716 «Effectiveness of three treatment strategies on occupational limitation» (2014) – klinisk behandling eller rehabilitering av en diagnose, ikke krav eller oppfølging fra trygd, lege eller arbeidsgiver
 - OK   6 utelatt W2998593429 «Temporary Disability Pension, RTW-Intentions, and RTW-Behavior: Expect» (2019) – kvalitativ studie eller erfaringer, ikke effektmål
 - OK   6 utelatt W3169127089 «Mental health: Professional rehabilitation and the return to work - A » (2021) – klinisk behandling eller rehabilitering av en diagnose, ikke krav eller oppfølging fra trygd, lege eller arbeidsgiver
-- OK   6 utelatt W4212844606 «The Effectiveness of Case-management Rehabilitation Intervention in Fa» (2022) – behandlings- eller rehabiliteringstiltak på arbeidsplassen eller i helsetjenesten, ikke ordning for krav eller oppfølging; dekket av oversiktene i utvalget (innsnevring 9.11.2026)
 - OK   6 utelatt W4377101302 «A Digital Lifestyle Program for Psychological Distress, Wellbeing and » (2023) – klinisk behandling eller rehabilitering av en diagnose, ikke krav eller oppfølging fra trygd, lege eller arbeidsgiver
 - OK   6 utelatt W4378172838 «Experiences of participating in a problem-solving intervention with wo» (2023) – kvalitativ studie eller erfaringer, ikke effektmål
 - OK   6 utelatt W4386604285 «Work-focused healthcare from the perspective of employees living with » (2023) – kvalitativ studie eller erfaringer, ikke effektmål
@@ -2865,10 +2711,8 @@ Kjørt 2026-11-14.
 - OK   6 utelatt W3158347327 «Multidisciplinary program based on early management of psychological f» (2021) – klinisk behandling eller rehabilitering av en diagnose, ikke krav eller oppfølging fra trygd, lege eller arbeidsgiver
 - OK   6 utelatt W4213275348 «Return-to-Work After Work-Related Injury in the Construction Sector: A» (2022) – risikofaktorer, prediktorer eller konsekvenser av fravær, ikke effekt av tiltak
 - OK   6 utelatt W4313449983 «Vocational Rehabilitation in Small and Medium-sized Enterprises» (2022) – kommentar eller ikke-systematisk omtale; oversiktene i utvalget dekker evidensen
-- OK   6 utelatt W2001220126 «A Systematic Review of Workplace Rehabilitation Interventions for Work» (2006) – smal oversikt (én diagnose, ett tiltak eller én yrkesgruppe); de brede oversiktene i utvalget dekker evidensen (innsnevring 9.11.2026)
 - OK   6 utelatt W2784000411 «Focusing on employment in primary mental health care: A scoping review» (2018) – tiltak for personer med funksjonsnedsettelse, kronisk sykdom eller ledighet, ikke for sykmeldte
 - OK   6 utelatt W3131936446 «Resilience building for mood disorders: Theoretical introduction and t» (2021) – klinisk behandling eller rehabilitering av en diagnose, ikke krav eller oppfølging fra trygd, lege eller arbeidsgiver
-- OK   6 utelatt W3190131603 «Effectiveness of fitness for work interventions for workers with low b» (2021) – smal oversikt (én diagnose, ett tiltak eller én yrkesgruppe); de brede oversiktene i utvalget dekker evidensen (innsnevring 9.11.2026)
 - OK   6 utelatt W3186248002 «Job search monitoring and sanctions - a brief survey of some recent re» (2005) – tiltak for personer med funksjonsnedsettelse, kronisk sykdom eller ledighet, ikke for sykmeldte
 - OK   6 utelatt W4384469898 «Handgrip strength and work limitations: A prospective cohort study of » (2023) – risikofaktorer, prediktorer eller konsekvenser av fravær, ikke effekt av tiltak
 - OK   6 utelatt W4390234322 «Occupational Therapy and Public Safety Personnel: Return to Work Pract» (2023) – kvalitativ studie eller erfaringer, ikke effektmål
@@ -2882,19 +2726,16 @@ Kjørt 2026-11-14.
 - OK   6 utelatt W2314409951 «More systematic reviews needed to improve occupational health» (2007) – kommentar eller ikke-systematisk omtale; oversiktene i utvalget dekker evidensen
 - OK   6 utelatt W2776032181 «Effects of rehabilitation aftercare on work participation in patients » (2017) – klinisk behandling eller rehabilitering av en diagnose, ikke krav eller oppfølging fra trygd, lege eller arbeidsgiver
 - OK   6 utelatt W2985622209 «Strategies to enable physiotherapists to promote timely return to work» (2015) – klinisk behandling eller rehabilitering av en diagnose, ikke krav eller oppfølging fra trygd, lege eller arbeidsgiver
-- OK   6 utelatt W3175835207 «Interventions for return to work following work-related injuries among» (2021) – smal oversikt (én diagnose, ett tiltak eller én yrkesgruppe); de brede oversiktene i utvalget dekker evidensen (innsnevring 9.11.2026)
 - OK   6 utelatt W4390793064 «Time to Service and Its Relationship with Outcomes in Workers with Com» (2024) – kohortstudie fra et erstatningssystem utenfor Europa, uten kontroll for seleksjon; oversiktene i utvalget dekker evidensen
 - OK   6 utelatt W4408231394 «Models of care for managing non-specific low back pain» (2025) – klinisk behandling eller rehabilitering av en diagnose, ikke krav eller oppfølging fra trygd, lege eller arbeidsgiver
 - OK   6 utelatt W2982507127 «Impact of interventions on work-related outcomes for individuals with » (2019) – klinisk behandling eller rehabilitering av en diagnose, ikke krav eller oppfølging fra trygd, lege eller arbeidsgiver
 - OK   6 utelatt W4388293404 «Examination of the knowledge gap of return-to-work outcomes in routine» (2023) – risikofaktorer, prediktorer eller konsekvenser av fravær, ikke effekt av tiltak
 - OK   6 utelatt W4399054153 «The PREVSAM model, “prevention of sickness absence through early ident» (2024) – beskrivelse av modellen; resultatene fra samme forsøk står i W7155764641, som er valgt
-- OK   6 utelatt W4400255597 «Individual Placement and Support and Participatory Workplace Intervent» (2024) – behandlings- eller rehabiliteringstiltak på arbeidsplassen eller i helsetjenesten, ikke ordning for krav eller oppfølging; dekket av oversiktene i utvalget (innsnevring 9.11.2026)
 - OK   6 utelatt W4400019202 «Process Evaluation of Individual Placement and Support and Participato» (2024) – prosessevaluering, ikke effektmål
 - OK   6 utelatt W4405311963 «Berufliche Teilhabe nach medizinischer Rehabilitation aufgrund psychis» (2024) – klinisk behandling eller rehabilitering av en diagnose, ikke krav eller oppfølging fra trygd, lege eller arbeidsgiver
 - OK   6 utelatt W4405858398 «The return-to-work journey: experiences with communication and collabo» (2024) – kvalitativ studie eller erfaringer, ikke effektmål
 - OK   6 utelatt W4410061012 «Cost-effectiveness of multidisciplinary transitional care intervention» (2025) – klinisk behandling eller rehabilitering av en diagnose, ikke krav eller oppfølging fra trygd, lege eller arbeidsgiver
 - OK   6 utelatt W7133499620 «A scoping review on information and support needs regarding cancer and» (2026) – klinisk behandling eller rehabilitering av en diagnose, ikke krav eller oppfølging fra trygd, lege eller arbeidsgiver
-- OK   6 utelatt W3107743628 «Rückkehr an den Arbeitsplatz nach psychischer Erkrankung – Ein Scoping» (2020) – smal oversikt (én diagnose, ett tiltak eller én yrkesgruppe); de brede oversiktene i utvalget dekker evidensen (innsnevring 9.11.2026)
 - OK   6 utelatt W3212196085 «Supporting people experiencing a burn injury to return to work or mean» (2021) – klinisk behandling eller rehabilitering av en diagnose, ikke krav eller oppfølging fra trygd, lege eller arbeidsgiver
 - OK   6 utelatt W4409294860 «Relationship between the timing of physical therapy commencement and t» (2025) – klinisk behandling eller rehabilitering av en diagnose, ikke krav eller oppfølging fra trygd, lege eller arbeidsgiver
 - OK   6 utelatt W4411545581 «Berufliche Teilhabe nach medizinischer Rehabilitation aufgrund von Mus» (2025) – klinisk behandling eller rehabilitering av en diagnose, ikke krav eller oppfølging fra trygd, lege eller arbeidsgiver
@@ -2908,7 +2749,6 @@ Kjørt 2026-11-14.
 - OK   6 utelatt W4405075650 «Effectiveness and Characteristics of Work Participation Interventions » (2024) – klinisk behandling eller rehabilitering av en diagnose, ikke krav eller oppfølging fra trygd, lege eller arbeidsgiver
 - OK   6 utelatt W4407342818 «Health-related risk factors for subsequent work disability: A systemat» (2025) – risikofaktorer, prediktorer eller konsekvenser av fravær, ikke effekt av tiltak
 - OK   6 utelatt W7155008324 «Managing Complexity: Manager–Stakeholder Communication, Relational Dyn» (2026) – kvalitativ studie eller erfaringer, ikke effektmål
-- OK   6 utelatt W3041879131 «Return-to-work in Japanese Occupational Health Settings: A Systematic » (2020) – smal oversikt (én diagnose, ett tiltak eller én yrkesgruppe); de brede oversiktene i utvalget dekker evidensen (innsnevring 9.11.2026)
 - OK   6 utelatt W4393058867 «Navigating the Path to Recovery: A Scoping Review of Return to Work Pr» (2023) – klinisk behandling eller rehabilitering av en diagnose, ikke krav eller oppfølging fra trygd, lege eller arbeidsgiver
 - OK   6 utelatt W4399105280 «Rationale, Modelle und Wirkung arbeitsplatznaher psychotherapeutischer» (2024) – kommentar eller ikke-systematisk omtale; oversiktene i utvalget dekker evidensen
 - OK   6 utelatt W4406957123 «Trends in work-absenteeism and return-to-work among people with spine » (2025) – risikofaktorer, prediktorer eller konsekvenser av fravær, ikke effekt av tiltak
@@ -2924,12 +2764,10 @@ Kjørt 2026-11-14.
 - OK   6 utelatt W7128808698 «Das subjektive Erleben von BEM-Angeboten und Prozessen aus Sicht von a» (2026) – kvalitativ studie eller erfaringer, ikke effektmål
 - OK   6 utelatt W7133481736 «Individual Placement and Support and Long-Term Employment: A Review of» (2026) – individuell jobbstøtte (IPS) er eget spørsmål
 - OK   6 utelatt W7154025805 «Public stress treatment» (2026) – klinisk behandling eller rehabilitering av en diagnose, ikke krav eller oppfølging fra trygd, lege eller arbeidsgiver
-- OK   6 utelatt W7155764641 «Prevention of sickness absence through early identification and rehabi» (2026) – behandlings- eller rehabiliteringstiltak på arbeidsplassen eller i helsetjenesten, ikke ordning for krav eller oppfølging; dekket av oversiktene i utvalget (innsnevring 9.11.2026)
 - OK   6 utelatt W7158659003 «Self-Management Interventions and Work Participation in Individuals wi» (2026) – klinisk behandling eller rehabilitering av en diagnose, ikke krav eller oppfølging fra trygd, lege eller arbeidsgiver
 - OK   6 utelatt W7160846738 «What are cost-effective ergonomics interventions for prevention and ma» (2026) – forebygging blant friske ansatte, ikke oppfølging av sykmeldte
 - OK   6 utelatt W7162022802 «Factors influencing work ability and return-to-work in individuals aff» (2026) – risikofaktorer, prediktorer eller konsekvenser av fravær, ikke effekt av tiltak
 - OK   6 utelatt W7162188889 «Collaboration between workplaces and their occupational health service» (2026) – kvalitativ studie eller erfaringer, ikke effektmål
-- OK   6 utelatt W7162633433 «Multicentre randomised controlled trial of the Norwegian health in wor» (2026) – behandlings- eller rehabiliteringstiltak på arbeidsplassen eller i helsetjenesten, ikke ordning for krav eller oppfølging; dekket av oversiktene i utvalget (innsnevring 9.11.2026)
 - OK   6 utelatt W7167836963 «Effectiveness of ergonomic interventions in the 21st century: a protoc» (2026) – protokoll eller utvikling av tiltak, uten effektmål
 - OK   6 utelatt W1837337223 «Work-related needs and experiences of people recovering from mental he» (2013) – kvalitativ studie eller erfaringer, ikke effektmål
 - OK   6 utelatt W205878888 «Experiences of sickness absence among NHS staff: A grounded theory ana» (2014) – kvalitativ studie eller erfaringer, ikke effektmål
@@ -2941,488 +2779,17 @@ Kjørt 2026-11-14.
 - OK   6 utelatt W7170052592 «Employer-Based Interventions for Schizophrenia: A Systematic Literatur» (2026) – tiltak for personer med funksjonsnedsettelse, kronisk sykdom eller ledighet, ikke for sykmeldte
 - OK   6 utelatt W7212401769 «The Impact of Oncological Treatments on Return to Work, Work Ability, » (2026) – risikofaktorer, prediktorer eller konsekvenser av fravær, ikke effekt av tiltak
 - OK   6 utelatt W7220414228 «The Impact of Psychosocial Aspects as Risk Factors for Long-Term Illne» (2026) – protokoll eller utvikling av tiltak, uten effektmål
-- OK   6 utelatt W3121313943 «Long-Term Absenteeism and Moral Hazard - Evidence from a Natural Exper» (2009) – Moral hazard ved endret kompensasjon, hører til spørsmålet om nivået på sykepengene.
-- OK   6 utelatt W2276622842 «Transforming Disability into Ability. Policies to Promote Work and Inc» (2002) – OECD-rapport om uførepolitikk fra 2002; den nyere OECD-rapporten om sykdom og arbeid (2010) er med.
-- OK   6 utelatt W1984497580 «Management of return-to-work programs for workers with musculoskeletal» (2003) – Kvalitativ studie eller spørreundersøkelse om erfaringer og holdninger, ikke effekt av krav eller oppfølging på fravær eller retur.
-- OK   6 utelatt W2004664784 «A Systematic Review of Disability Management Interventions with Econom» (2008) – ikke ordning for krav eller oppfølging av sykmeldte etter innsnevringen 9.11.2026 (fra blindt utvalg 2)
-- OK   6 utelatt W2757531281 «Sickness and disability policies: Reform paths in OECD countries betwe» (2017) – Beskriver reformveier i OECD-land 1990–2014, uten effektmål; OECD-rapporten fra 2010 er med.
-- OK   6 utelatt W2058869603 «Street-Level Bureaucracy: Dilemmas of the Individual in Public Service» (1981) – Utgitt før 2000, mandatet krever publisert fra 2000.
-- OK   6 utelatt W2153620880 «The Global Expansion of Precarious Employment, Work Disorganization, a» (2001) – Annet tema: prekære eller fleksible ansettelser og helse, ikke oppfølging av sykmeldte.
-- OK   6 utelatt W2138079213 «Occupational health guidelines for the management of low back pain at » (2001) – Smal oversikt eller enkeltstudie om én diagnose, ett tiltak eller én gruppe (fysisk helse, livsstil, muskel- og skjelett), ikke ordning for oppfølging av sykmeldte. (innsnevring 9.11.2026)
-- OK   6 utelatt W2346365317 «The mental health benefits of employment: Results of a systematic meta» (2016) – Behandlings- eller arbeidsplasstiltak for psykisk helse, livsstil eller velvære, ikke ordning for krav og oppfølging i sykefraværet. (innsnevring 9.11.2026)
-- OK   6 utelatt W2142877833 «Risk factors for disability pension in a population-based cohort of me» (2008) – Annet tema: uføretrygd, uførepolitikk eller generell yrkesdeltakelse, ikke krav og oppfølging i sykefraværet.
-- OK   6 utelatt W2060089129 «Disability prevention and communication among workers, physicians, emp» (2004) – Beskriver modeller for kommunikasjon mellom aktører, uten effektmål.
-- OK   6 utelatt W2739120921 «Prognostic factors for return to work after depression-related work di» (2017) – Prognose-, forekomst- eller kostnadsstudie, ikke effekt av krav eller oppfølging på fravær eller retur.
-- OK   6 utelatt W2126672855 «What do GPs feel about sickness certification? A systematic search and» (2010) – Oversikt over legers holdninger til sykmelding, uten effektmål.
-- OK   6 utelatt W1989581280 «Interorganizational Collaboration in Occupational Rehabilitation: Perc» (2005) – Kvalitativ studie av samarbeid i et rehabiliteringsteam, ikke effekt av krav eller oppfølging på fravær eller retur.
-- OK   6 utelatt W2001903400 «Sick of Being Unemployed? Interactions between Unemployment and Sickne» (2006) – Annet tema: sykepengenivå, økonomiske insentiver eller moral hazard, ikke krav og oppfølging av sykmeldte.
-- OK   6 utelatt W1991635039 «Impact of a Work-Focused Intervention on the Productivity and Symptoms» (2012) – Behandlings- eller arbeidsplasstiltak for psykisk helse, livsstil eller velvære, ikke ordning for krav og oppfølging i sykefraværet. (innsnevring 9.11.2026)
-- OK   6 utelatt W2108003413 «Work Disability Prevention Research: Current and Future Prospects» (2011) – Forskningsagenda for forebygging av arbeidsuførhet, ikke en effektstudie.
-- OK   6 utelatt W3125477331 «Temporary Disability Insurance and Labor Supply: Evidence from a Natur» (2013) – Annet tema: sykepengenivå, økonomiske insentiver eller moral hazard, ikke krav og oppfølging av sykmeldte.
-- OK   6 utelatt W2060404611 «A Systematic Review of Psychological Return-to-Work Interventions for » (2006) – Smal oversikt over psykologiske tiltak (innsnevring 9.11.2026).
-- OK   6 utelatt W4200387606 «Towards a better understanding of work participation among employees w» (2021) – Behandlings- eller arbeidsplasstiltak for psykisk helse, livsstil eller velvære, ikke ordning for krav og oppfølging i sykefraværet. (innsnevring 9.11.2026)
-- OK   6 utelatt W4376273875 «Evaluating the Effectiveness of Return-to-Work Interventions for Indiv» (2023) – Smal oversikt over arbeidsrelaterte psykiske lidelser (innsnevring 9.11.2026).
-- OK   6 utelatt W3128963493 «Understanding work participation among employees with common mental di» (2021) – Behandlings- eller arbeidsplasstiltak for psykisk helse, livsstil eller velvære, ikke ordning for krav og oppfølging i sykefraværet. (innsnevring 9.11.2026)
-- OK   6 utelatt W4409974301 «Associations between employment status, type of occupation, and mental» (2025) – Prognose-, forekomst- eller kostnadsstudie, ikke effekt av krav eller oppfølging på fravær eller retur.
-- OK   6 utelatt W4231238480 «Interventionen zur beruflichen Wiedereingliederung und Erhaltung der A» (2021) – Tysk oversikt over bedriftstilbud og rehabiliteringsbehandling (innsnevring 9.11.2026).
-- OK   6 utelatt W7151576833 «Social Support and Employee Mental Health: A Meta-Synthesis and Theore» (2026) – Behandlings- eller arbeidsplasstiltak for psykisk helse, livsstil eller velvære, ikke ordning for krav og oppfølging i sykefraværet. (innsnevring 9.11.2026)
-- OK   6 utelatt W7213984554 «Work-focused cognitive behavioural therapy for common mental disorders» (2026) – Behandlings- eller arbeidsplasstiltak for psykisk helse, livsstil eller velvære, ikke ordning for krav og oppfølging i sykefraværet. (innsnevring 9.11.2026)
-- OK   6 utelatt W115394847 «Qualitative research and evaluation methods» (1980) – Utgitt før 2000, mandatet krever publisert fra 2000.
-- OK   6 utelatt W2020155291 «Fostering implementation of health services research findings into pra» (2009) – Metode-, teori- eller bakgrunnskilde uten utfall i mandatet.
-- OK   6 utelatt W2102463240 «Job Demands, Job Decision Latitude, and Mental Strain: Implications fo» (1979) – Utgitt før 2000, mandatet krever publisert fra 2000.
-- OK   6 utelatt W2783319287 «Designing Difference in Difference Studies: Best Practices for Public » (2018) – Metode-, teori- eller bakgrunnskilde uten utfall i mandatet.
-- OK   6 utelatt W2009348399 «Effects of occupational stress management intervention programs: A met» (2008) – Behandlings- eller arbeidsplasstiltak for psykisk helse, livsstil eller velvære, ikke ordning for krav og oppfølging i sykefraværet. (innsnevring 9.11.2026)
-- OK   6 utelatt W2110904269 «Using natural experiments to evaluate population health interventions:» (2012) – Metode-, teori- eller bakgrunnskilde uten utfall i mandatet.
-- OK   6 utelatt W2077580306 «Employment status, employment conditions, and limiting illness: prospe» (2004) – Annet tema: helse, ulikhet eller yrkesdeltakelse generelt, ikke oppfølging av sykmeldte.
-- OK   6 utelatt W1573177712 «Concepts Of Rehabilitation For The Management Of Common Health Problem» (2004) – Metode-, teori- eller bakgrunnskilde uten utfall i mandatet.
-- OK   6 utelatt W2018572000 «Mental health and employment: much work still to be done» (2009) – Behandlings- eller arbeidsplasstiltak for psykisk helse, livsstil eller velvære, ikke ordning for krav og oppfølging i sykefraværet. (innsnevring 9.11.2026)
-- OK   6 utelatt W2094067288 «The effects of unemployment and the business cycle on absenteeism» (1985) – Utgitt før 2000, mandatet krever publisert fra 2000.
-- OK   6 utelatt W2069371002 «Work Disability and Costs Caused by Recurrence of Low Back Pain: Longe» (2006) – Prognose-, forekomst- eller kostnadsstudie, ikke effekt av krav eller oppfølging på fravær eller retur.
-- OK   6 utelatt W2141786694 «Incentives and selection in cyclical absenteeism» (2004) – Annet tema: sykepengenivå, økonomiske insentiver eller moral hazard, ikke krav og oppfølging av sykmeldte.
-- OK   6 utelatt W2150479131 «Chapter 3. Causes of sickness absence: research approaches and explana» (2004) – Bakgrunn om årsaker til, måling av eller mønstre i sykefravær, ikke effekt av krav eller oppfølging.
-- OK   6 utelatt W2117119116 «Vocational Interventions for Unemployed: Effects on Work Participation» (2009) – Annet tema: arbeidsledighet eller generell arbeidsmarkedspolitikk, ikke oppfølging av sykmeldte.
-- OK   6 utelatt W2326189071 «THE EFFECTS OF EXPANDING THE GENEROSITY OF THE STATUTORY SICKNESS INSU» (2013) – Annet tema: effekt av økt dekningsgrad i sykelønnen, hører til spørsmålet om sykepengenivå.
-- OK   6 utelatt W2062921492 «Self-Screening in Targeted Public Transfer Programs» (1991) – Utgitt før 2000, mandatet krever publisert fra 2000.
-- OK   6 utelatt W2042257629 «Acceptance and Commitment Therapy for Depression: A Preliminary Random» (2012) – Annet tema: arbeidsledighet eller generell arbeidsmarkedspolitikk, ikke oppfølging av sykmeldte.
-- OK   6 utelatt W1978150466 «Medical Care of Employees Long-Term Sick Listed Due to Mental Health P» (2006) – Behandlings- eller arbeidsplasstiltak for psykisk helse, livsstil eller velvære, ikke ordning for krav og oppfølging i sykefraværet. (innsnevring 9.11.2026)
-- OK   6 utelatt W2528917159 «Supported employment adapted for people with affective disorders—A ran» (2016) – Behandlings- eller arbeidsplasstiltak for psykisk helse, livsstil eller velvære, ikke ordning for krav og oppfølging i sykefraværet. (innsnevring 9.11.2026)
-- OK   6 utelatt W2802646040 «Sickness absence as a predictor of disability retirement in different » (2018) – Prognose-, forekomst- eller kostnadsstudie, ikke effekt av krav eller oppfølging på fravær eller retur.
-- OK   6 utelatt W1982248394 «Vocational rehabilitation: An educational review» (2009) – Generell omtale av yrkesrettet rehabilitering uten utfall for fravær eller retur etter krav eller oppfølging.
-- OK   6 utelatt W2619397736 «System influences on work disability due to low back pain: An internat» (2017) – ikke ordning for krav eller oppfølging av sykmeldte etter innsnevringen 9.11.2026 (fra blindt utvalg 2)
-- OK   6 utelatt W2164810761 «Dutch occupational physicians and general practitioners wish to improv» (1999) – Utgitt før 2000, mandatet krever publisert fra 2000.
-- OK   6 utelatt W4328050794 «How effective are interventions in optimizing workplace mental health » (2023) – Oversikt over tiltak for psykisk helse og trivsel på arbeidsplassen (innsnevring 9.11.2026).
-- OK   6 utelatt W2590453018 «Can Paid Sick Leave Mandates Reduce Leave-Taking?» (2016) – Annet tema: sykepengenivå, økonomiske insentiver eller moral hazard, ikke krav og oppfølging av sykmeldte.
-- OK   6 utelatt W2119502830 «The gender gap in sickness absence: long-term trends in eight European» (2014) – Bakgrunn om årsaker til, måling av eller mønstre i sykefravær, ikke effekt av krav eller oppfølging.
-- OK   6 utelatt W2051771502 «Facilitating job retention for chronically ill employees: perspectives» (2011) – Kvalitativ studie eller spørreundersøkelse om erfaringer og holdninger, ikke effekt av krav eller oppfølging på fravær eller retur.
-- OK   6 utelatt W3160180445 «Workplace interventions to reduce depression and anxiety in small and » (2021) – Behandlings- eller arbeidsplasstiltak for psykisk helse, livsstil eller velvære, ikke ordning for krav og oppfølging i sykefraværet. (innsnevring 9.11.2026)
-- OK   6 utelatt W2052079494 «Employer, Insurance, and Health System Response to Long-Term Sick Leav» (2005) – Beskrivende studie av hvordan arbeidsgiver, trygd og helsetjeneste håndterer langtidsfravær, uten effektmål.
-- OK   6 utelatt W3129243236 «Cognitive–behavioural therapy for a variety of conditions: an overview» (2021) – Metode-, teori- eller bakgrunnskilde uten utfall i mandatet.
-- OK   6 utelatt W4400896512 «A mentally healthy framework to guide employers and policy makers» (2024) – Behandlings- eller arbeidsplasstiltak for psykisk helse, livsstil eller velvære, ikke ordning for krav og oppfølging i sykefraværet. (innsnevring 9.11.2026)
-- OK   6 utelatt W4286470720 «Supporting employees with mental illness and reducing mental illness-r» (2022) – Kvalitativ studie eller spørreundersøkelse om erfaringer og holdninger, ikke effekt av krav eller oppfølging på fravær eller retur.
-- OK   6 utelatt W2023954287 «Vocational rehabilitation: A multidisciplinary intervention» (2007) – Generell omtale av yrkesrettet rehabilitering uten utfall for fravær eller retur etter krav eller oppfølging.
-- OK   6 utelatt W159191234 «Work Disability Models: Past and Present» (2013) – Metode-, teori- eller bakgrunnskilde uten utfall i mandatet.
-- OK   6 utelatt W1971517466 «Barriers for Early Return-to-Work of Workers with Musculoskeletal Diso» (2004) – Kvalitativ studie eller spørreundersøkelse om erfaringer og holdninger, ikke effekt av krav eller oppfølging på fravær eller retur.
-- OK   6 utelatt W1979833701 «Long-term sick leavers with difficulty in resuming work: comparisons b» (2009) – Prognose- eller kohortstudie av langtidssykmeldte, ikke evaluering av krav eller oppfølging.
-- OK   6 utelatt W2621865512 «Long-term effects of Internet-delivered cognitive behavioral therapy f» (2017) – Behandlings- eller arbeidsplasstiltak for psykisk helse, livsstil eller velvære, ikke ordning for krav og oppfølging i sykefraværet. (innsnevring 9.11.2026)
-- OK   6 utelatt W4391177558 «Mental health and well-being at the workplace» (2024) – Behandlings- eller arbeidsplasstiltak for psykisk helse, livsstil eller velvære, ikke ordning for krav og oppfølging i sykefraværet. (innsnevring 9.11.2026)
-- OK   6 utelatt W3012030319 «Interpersonal Psychotherapy vs. Treatment as Usual for Major Depressio» (2020) – Behandlings- eller arbeidsplasstiltak for psykisk helse, livsstil eller velvære, ikke ordning for krav og oppfølging i sykefraværet. (innsnevring 9.11.2026)
-- OK   6 utelatt W2142008443 «Problems with sickness certification tasks: experiences from physician» (2015) – Kvalitativ studie eller spørreundersøkelse om erfaringer og holdninger, ikke effekt av krav eller oppfølging på fravær eller retur.
-- OK   6 utelatt W2010325848 «Disability pension despite vocational rehabilitation? A study from six» (2005) – Beskrivende studie av uførepensjon etter attføring, ikke av krav eller oppfølging i sykefraværet.
-- OK   6 utelatt W4367048516 «The Impact of Health and Education on Labor Force Participation in Agi» (2023) – Annet tema: helse, ulikhet eller yrkesdeltakelse generelt, ikke oppfølging av sykmeldte.
-- OK   6 utelatt W4281687913 «Strengthening supervisor support for employees with common mental heal» (2022) – Behandlings- eller arbeidsplasstiltak for psykisk helse, livsstil eller velvære, ikke ordning for krav og oppfølging i sykefraværet. (innsnevring 9.11.2026)
-- OK   6 utelatt W2147066248 «Applying new institutional theory» (2005) – Metode-, teori- eller bakgrunnskilde uten utfall i mandatet.
-- OK   6 utelatt W2888162316 «Managing Employees Undergoing Total Hip and Knee Replacement: Experien» (2018) – Kvalitativ eller begrepsmessig studie av interessenters erfaringer, ikke effekt av ordning på fravær eller retur.
-- OK   6 utelatt W4385897820 «Understanding and Addressing Mental Health Disorders: a Workplace Impe» (2023) – Behandlings- eller arbeidsplasstiltak for psykisk helse, livsstil eller velvære, ikke ordning for krav og oppfølging i sykefraværet. (innsnevring 9.11.2026)
-- OK   6 utelatt W2948049905 «Forward-looking moral hazard in social insurance» (2019) – Annet tema: sykepengenivå, økonomiske insentiver eller moral hazard, ikke krav og oppfølging av sykmeldte.
-- OK   6 utelatt W2905203595 «Overcoming barriers: Effects of entering vocational rehabilitation on » (2018) – Effekt av å starte yrkesrettet attføring, ikke oppfølging av sykmeldte i sykepengeperioden.
-- OK   6 utelatt W4367394615 «Cost-effectiveness of occupational therapy return-to-work intervention» (2023) – Behandlings- eller arbeidsplasstiltak for psykisk helse, livsstil eller velvære, ikke ordning for krav og oppfølging i sykefraværet. (innsnevring 9.11.2026)
-- OK   6 utelatt W101433088 «Understanding Work Disability Systems and Intervening Upstream» (2013) – Teoretisk bok om arbeidsuførhetssystemer, ikke en effektstudie.
-- OK   6 utelatt W2806217849 «Solutions against Declining Birthrates Confronting Japan’s Aging Socie» (2018) – Annet tema: arbeidsstyrke og demografi, ikke oppfølging av sykmeldte.
-- OK   6 utelatt W4384692644 «Do worksite health promotion programs (WHPP) influence presenteeism am» (2023) – Behandlings- eller arbeidsplasstiltak for psykisk helse, livsstil eller velvære, ikke ordning for krav og oppfølging i sykefraværet. (innsnevring 9.11.2026)
-- OK   6 utelatt W4224244737 «Workplace-based occupational therapy for mental health in Africa: a sc» (2022) – Behandlings- eller arbeidsplasstiltak for psykisk helse, livsstil eller velvære, ikke ordning for krav og oppfølging i sykefraværet. (innsnevring 9.11.2026)
-- OK   6 utelatt W4405859049 «The effectiveness of implemented interventions at the workplace to pro» (2024) – Behandlings- eller arbeidsplasstiltak for psykisk helse, livsstil eller velvære, ikke ordning for krav og oppfølging i sykefraværet. (innsnevring 9.11.2026)
-- OK   6 utelatt W4379032400 «Managing Workplace Mental Health: Multiple Approaches at Patient, Prov» (2023) – Behandlings- eller arbeidsplasstiltak for psykisk helse, livsstil eller velvære, ikke ordning for krav og oppfølging i sykefraværet. (innsnevring 9.11.2026)
-- OK   6 utelatt W7117982364 «Measuring the influence of perceived organizational support, organizat» (2026) – Prognose-, forekomst- eller kostnadsstudie, ikke effekt av krav eller oppfølging på fravær eller retur.
-- OK   6 utelatt W2521742659 «The role of the curative physician in disability management. A literat» (2008) – Oversikt over behandlende leges rolle, uten effektmål.
-- OK   6 utelatt W4210686843 «A scooping review of Scandinavian studies of sick‐listed' and social i» (2022) – Oversikt over sykmeldtes og saksbehandleres erfaringer, uten effektmål.
-- OK   6 utelatt W7224116253 «A Modern Guide to Occupational Health Consultations» (2026) – Veiledning for bedriftshelsetjenestens konsultasjoner, ikke evaluering av krav eller oppfølging.
-- OK   6 utelatt W3118615836 «The PRISMA 2020 statement: an updated guideline for reporting systemat» (2021) – Metode-, teori- eller bakgrunnskilde uten utfall i mandatet.
-- OK   6 utelatt W4247665917 «Diagnostic and Statistical Manual of Mental Disorders» (2013) – Metode-, teori- eller bakgrunnskilde uten utfall i mandatet.
-- OK   6 utelatt W2164777277 «The Measurement of Observer Agreement for Categorical Data» (1977) – Utgitt før 2000, mandatet krever publisert fra 2000.
-- OK   6 utelatt W2107031757 «Statistical power analysis for the behavioral sciences» (1990) – Utgitt før 2000, mandatet krever publisert fra 2000.
-- OK   6 utelatt W2142225512 «Three Approaches to Qualitative Content Analysis» (2005) – Metode-, teori- eller bakgrunnskilde uten utfall i mandatet.
-- OK   6 utelatt W2132322340 «The PHQ-9» (2001) – Metode-, teori- eller bakgrunnskilde uten utfall i mandatet.
-- OK   6 utelatt W1990513740 «Diffusion of Innovations 1» (2019) – Metode-, teori- eller bakgrunnskilde uten utfall i mandatet.
-- OK   6 utelatt W2970684805 «RoB 2: a revised tool for assessing risk of bias in randomised trials» (2019) – Metode-, teori- eller bakgrunnskilde uten utfall i mandatet.
-- OK   6 utelatt W2150291618 «The Central Role of the Propensity Score in Observational Studies for » (1983) – Utgitt før 2000, mandatet krever publisert fra 2000.
-- OK   6 utelatt W2172151487 «A 12-Item Short-Form Health Survey» (1996) – Utgitt før 2000, mandatet krever publisert fra 2000.
-- OK   6 utelatt W2473786944 «EuroQol - a new facility for the measurement of health-related quality» (1990) – Utgitt før 2000, mandatet krever publisert fra 2000.
-- OK   6 utelatt W2577227262 «Mostly Harmless Econometrics» (2008) – Metode-, teori- eller bakgrunnskilde uten utfall i mandatet.
-- OK   6 utelatt W2151186028 «The Need for a New Medical Model: A Challenge for Biomedicine» (1977) – Utgitt før 2000, mandatet krever publisert fra 2000.
-- OK   6 utelatt W1595046345 «Methods for the Economic Evaluation of Health Care Programmes» (2005) – Metode-, teori- eller bakgrunnskilde uten utfall i mandatet.
-- OK   6 utelatt W1730782591 «Experimental and quasi-experimental designs for generalized causal inf» (2002) – Metode-, teori- eller bakgrunnskilde uten utfall i mandatet.
-- OK   6 utelatt W2790841064 «Qualitative Research and Evaluation Methods (3rd ed.)» (2003) – Metode-, teori- eller bakgrunnskilde uten utfall i mandatet.
-- OK   6 utelatt W2097950056 «Disability-adjusted life years (DALYs) for 291 diseases and injuries i» (2012) – Metode-, teori- eller bakgrunnskilde uten utfall i mandatet.
-- OK   6 utelatt W2081753990 «Diffusion of Innovations in Service Organizations: Systematic Review a» (2004) – Metode-, teori- eller bakgrunnskilde uten utfall i mandatet.
-- OK   6 utelatt W1895781480 «Selective Cortical Undercutting As a Means of Modifying and Studying F» (1949) – Utgitt før 2000, mandatet krever publisert fra 2000.
-- OK   6 utelatt W2314865369 «The Three Worlds of Welfare Capitalism.» (1991) – Utgitt før 2000, mandatet krever publisert fra 2000.
-- OK   6 utelatt W2105501846 «Audit and feedback: effects on professional practice and healthcare ou» (2012) – Metode-, teori- eller bakgrunnskilde uten utfall i mandatet.
-- OK   6 utelatt W2024810644 «Equilibrium Unemployment as a Worker Discipline Device» (1986) – Utgitt før 2000, mandatet krever publisert fra 2000.
-- OK   6 utelatt W2119790985 «Development of AMSTAR: a measurement tool to assess the methodological» (2007) – Metode-, teori- eller bakgrunnskilde uten utfall i mandatet.
-- OK   6 utelatt W1526945924 «Citizenship and Social Class» (1951) – Utgitt før 2000, mandatet krever publisert fra 2000.
-- OK   6 utelatt W2101471529 «The validity of two versions of the GHQ in the WHO study of mental ill» (1997) – Utgitt før 2000, mandatet krever publisert fra 2000.
-- OK   6 utelatt W2612851029 «Implementation research: a synthesis of the literature.» (2005) – Metode-, teori- eller bakgrunnskilde uten utfall i mandatet.
-- OK   6 utelatt W1966128258 «Grading the severity of chronic pain» (1992) – Utgitt før 2000, mandatet krever publisert fra 2000.
-- OK   6 utelatt W2160187477 «The global prevalence of common mental disorders: a systematic review » (2014) – Prognose-, forekomst- eller kostnadsstudie, ikke effekt av krav eller oppfølging på fravær eller retur.
-- OK   6 utelatt W2102471539 «Translation, Validation, and Norming of the Dutch Language Version of » (1998) – Utgitt før 2000, mandatet krever publisert fra 2000.
-- OK   6 utelatt W2064296154 «Updated Method Guidelines for Systematic Reviews in the Cochrane Colla» (2003) – Metode-, teori- eller bakgrunnskilde uten utfall i mandatet.
-- OK   6 utelatt W2148582469 «Interprofessional education: effects on professional practice and heal» (2013) – Metode-, teori- eller bakgrunnskilde uten utfall i mandatet.
-- OK   6 utelatt W2139967155 «Psychosocial work environment and mental health—a meta-analytic review» (2006) – Behandlings- eller arbeidsplasstiltak for psykisk helse, livsstil eller velvære, ikke ordning for krav og oppfølging i sykefraværet. (innsnevring 9.11.2026)
-- OK   6 utelatt W15737222 «Men and health help‐seeking behaviour: literature review» (2005) – Annet tema: helse og arbeid generelt, ikke oppfølging av sykmeldte.
-- OK   6 utelatt W2070070132 «2009 Updated Method Guidelines for Systematic Reviews in the Cochrane » (2009) – Metode-, teori- eller bakgrunnskilde uten utfall i mandatet.
-- OK   6 utelatt W2011003051 «The Economic Burden of Depression in the United States» (2003) – Prognose-, forekomst- eller kostnadsstudie, ikke effekt av krav eller oppfølging på fravær eller retur.
-- OK   6 utelatt W1536957439 «The Back Pain Revolution» (2004) – Smal oversikt eller enkeltstudie om én diagnose, ett tiltak eller én gruppe (fysisk helse, livsstil, muskel- og skjelett), ikke ordning for oppfølging av sykmeldte. (innsnevring 9.11.2026)
-- OK   6 utelatt W1865492099 «The benefits of interventions for work-related stress» (2001) – Behandlings- eller arbeidsplasstiltak for psykisk helse, livsstil eller velvære, ikke ordning for krav og oppfølging i sykefraværet. (innsnevring 9.11.2026)
-- OK   6 utelatt W1964352664 «The Rise in the Disability Rolls and the Decline in Unemployment» (2003) – Annet tema: sykepengenivå, økonomiske insentiver eller moral hazard, ikke krav og oppfølging av sykmeldte.
-- OK   6 utelatt W2572798944 «Can work make you mentally ill? A systematic meta-review of work-relat» (2017) – Behandlings- eller arbeidsplasstiltak for psykisk helse, livsstil eller velvære, ikke ordning for krav og oppfølging i sykefraværet. (innsnevring 9.11.2026)
-- OK   6 utelatt W2120839478 «Prevalence and Effects of Mood Disorders on Work Performance in a Nati» (2006) – Prognose-, forekomst- eller kostnadsstudie, ikke effekt av krav eller oppfølging på fravær eller retur.
-- OK   6 utelatt W2146988444 «A Systematic Review of the Job-stress Intervention Evaluation Literatu» (2007) – Behandlings- eller arbeidsplasstiltak for psykisk helse, livsstil eller velvære, ikke ordning for krav og oppfølging i sykefraværet. (innsnevring 9.11.2026)
-- OK   6 utelatt W1782749242 «Multidisciplinary biopsychosocial rehabilitation for chronic low back » (2014) – Smal oversikt eller enkeltstudie om én diagnose, ett tiltak eller én gruppe (fysisk helse, livsstil, muskel- og skjelett), ikke ordning for oppfølging av sykmeldte. (innsnevring 9.11.2026)
-- OK   6 utelatt W2140467031 «The Impact of Unemployment on Health: A Review of the Evidence» (1997) – Utgitt før 2000, mandatet krever publisert fra 2000.
-- OK   6 utelatt W1980444631 «Health effects of employment: a systematic review of prospective studi» (2014) – Annet tema: helse og arbeid generelt, ikke oppfølging av sykmeldte.
-- OK   6 utelatt W2028317923 «Information and Advice to Patients With Back Pain Can Have a Positive » (1999) – Utgitt før 2000, mandatet krever publisert fra 2000.
-- OK   6 utelatt W2068381308 «What Does Research Tell Us About Depression, Job Performance, and Work» (2008) – Behandlings- eller arbeidsplasstiltak for psykisk helse, livsstil eller velvære, ikke ordning for krav og oppfølging i sykefraværet. (innsnevring 9.11.2026)
-- OK   6 utelatt W4210366045 «Sick on the Job?» (2011) – Bakgrunn om årsaker til, måling av eller mønstre i sykefravær, ikke effekt av krav eller oppfølging.
-- OK   6 utelatt W1607755620 «Chapter 2 European guidelines for prevention in low back pain» (2006) – Smal oversikt eller enkeltstudie om én diagnose, ett tiltak eller én gruppe (fysisk helse, livsstil, muskel- og skjelett), ikke ordning for oppfølging av sykmeldte. (innsnevring 9.11.2026)
-- OK   6 utelatt W2099043167 «Precarious employment and health: developing a research agenda» (2007) – Annet tema: prekære eller fleksible ansettelser og helse, ikke oppfølging av sykmeldte.
-- OK   6 utelatt W1753798393 «Integrated care: a position paper of the WHO European Office for Integ» (2001) – Annet tema: integrert helsetjeneste eller helsepolitikk, ikke oppfølging av sykmeldte.
-- OK   6 utelatt W2174984499 «Effectiveness of workplace interventions in the prevention of upper ex» (2015) – Smal oversikt eller enkeltstudie om én diagnose, ett tiltak eller én gruppe (fysisk helse, livsstil, muskel- og skjelett), ikke ordning for oppfølging av sykmeldte. (innsnevring 9.11.2026)
-- OK   6 utelatt W1971486864 «Employer burden of mild, moderate, and severe major depressive disorde» (2009) – Prognose-, forekomst- eller kostnadsstudie, ikke effekt av krav eller oppfølging på fravær eller retur.
-- OK   6 utelatt W1999778064 «Depression In The Workplace: Effects On Short-Term Disability» (1999) – Utgitt før 2000, mandatet krever publisert fra 2000.
-- OK   6 utelatt W2156977305 «Cost-effectiveness of computerised cognitive-behavioural therapy for a» (2004) – Behandlings- eller arbeidsplasstiltak for psykisk helse, livsstil eller velvære, ikke ordning for krav og oppfølging i sykefraværet. (innsnevring 9.11.2026)
-- OK   6 utelatt W2097521237 «Common Mental Disorders in the Workforce: Recent Findings from Descrip» (2006) – Prognose-, forekomst- eller kostnadsstudie, ikke effekt av krav eller oppfølging på fravær eller retur.
-- OK   6 utelatt W2004691149 «Factors influencing the duration of work-related disability: a populat» (1994) – Utgitt før 2000, mandatet krever publisert fra 2000.
-- OK   6 utelatt W2099282815 «Cost-effectiveness of Practice-Initiated Quality Improvement for Depre» (2001) – Behandlings- eller arbeidsplasstiltak for psykisk helse, livsstil eller velvære, ikke ordning for krav og oppfølging i sykefraværet. (innsnevring 9.11.2026)
-- OK   6 utelatt W2995485787 «The effectiveness of workplace nutrition and physical activity interve» (2019) – Smal oversikt eller enkeltstudie om én diagnose, ett tiltak eller én gruppe (fysisk helse, livsstil, muskel- og skjelett), ikke ordning for oppfølging av sykmeldte. (innsnevring 9.11.2026)
-- OK   6 utelatt W1993122355 «A Synthesis of the Evidence for Managing Stress at Work: A Review of t» (2012) – Oversikt over stressmestring på arbeidsplassen (innsnevring 9.11.2026).
-- OK   6 utelatt W4254539462 «Integrated care» (2001) – Annet tema: integrert helsetjeneste eller helsepolitikk, ikke oppfølging av sykmeldte.
-- OK   6 utelatt W2068010924 «What Work Means to People with Work Disability: A Scoping Review» (2013) – Annet tema: helse og arbeid generelt, ikke oppfølging av sykmeldte.
-- OK   6 utelatt W1969669601 «Improving Incentives in Unemployment Insurance: A Review of Recent Res» (2006) – Annet tema: sykepengenivå, økonomiske insentiver eller moral hazard, ikke krav og oppfølging av sykmeldte.
-- OK   6 utelatt W2167310407 «Determinants of work ability and its predictive value for disability» (2008) – Prognose- eller kohortstudie av langtidssykmeldte, ikke evaluering av krav eller oppfølging.
-- OK   6 utelatt W2143966988 «Nonparametric IV estimation of local average treatment effects with co» (2006) – Metode-, teori- eller bakgrunnskilde uten utfall i mandatet.
-- OK   6 utelatt W2164880936 «Preventing the development of depression at work: a systematic review » (2014) – Behandlings- eller arbeidsplasstiltak for psykisk helse, livsstil eller velvære, ikke ordning for krav og oppfølging i sykefraværet. (innsnevring 9.11.2026)
-- OK   6 utelatt W2089139478 «Do psychosocial work factors and social relations exert independent ef» (2003) – Behandlings- eller arbeidsplasstiltak for psykisk helse, livsstil eller velvære, ikke ordning for krav og oppfølging i sykefraværet. (innsnevring 9.11.2026)
-- OK   6 utelatt W2022997917 «The Effect of Improving Primary Care Depression Management on Employee» (2004) – Annet tema: sykepengenivå, økonomiske insentiver eller moral hazard, ikke krav og oppfølging av sykmeldte.
-- OK   6 utelatt W2047751046 «Comorbid Subjective Health Complaints in Low Back Pain» (2006) – Prognose-, forekomst- eller kostnadsstudie, ikke effekt av krav eller oppfølging på fravær eller retur.
-- OK   6 utelatt W2132098311 «How to prevent low back pain» (2005) – Smal oversikt eller enkeltstudie om én diagnose, ett tiltak eller én gruppe (fysisk helse, livsstil, muskel- og skjelett), ikke ordning for oppfølging av sykmeldte. (innsnevring 9.11.2026)
-- OK   6 utelatt W2067042418 «Workplace Accommodations for People with Mental Illness: A Scoping Rev» (2014) – Behandlings- eller arbeidsplasstiltak for psykisk helse, livsstil eller velvære, ikke ordning for krav og oppfølging i sykefraværet. (innsnevring 9.11.2026)
-- OK   6 utelatt W2101903413 «Sickness certification system in the United Kingdom: qualitative study» (2004) – Kvalitativ studie eller spørreundersøkelse om erfaringer og holdninger, ikke effekt av krav eller oppfølging på fravær eller retur.
-- OK   6 utelatt W2112388491 «Early prognosis for low back disability: intervention strategies for h» (2001) – Smal oversikt eller enkeltstudie om én diagnose, ett tiltak eller én gruppe (fysisk helse, livsstil, muskel- og skjelett), ikke ordning for oppfølging av sykmeldte. (innsnevring 9.11.2026)
-- OK   6 utelatt W2023196035 «The Effects of Cognitive-Behavioral and Physical Therapy Preventive In» (2005) – Behandlings- eller arbeidsplasstiltak for psykisk helse, livsstil eller velvære, ikke ordning for krav og oppfølging i sykefraværet. (innsnevring 9.11.2026)
-- OK   6 utelatt W2133435225 «Absence from work and return to work in people with back pain: a syste» (2013) – Smal oversikt eller enkeltstudie om én diagnose, ett tiltak eller én gruppe (fysisk helse, livsstil, muskel- og skjelett), ikke ordning for oppfølging av sykmeldte. (innsnevring 9.11.2026)
-- OK   6 utelatt W2315784832 «Introduction» (2004) – Metode-, teori- eller bakgrunnskilde uten utfall i mandatet.
-- OK   6 utelatt W2258970805 «MoodHacker Mobile Web App With Email for Adults to Self-Manage Mild-to» (2016) – Behandlings- eller arbeidsplasstiltak for psykisk helse, livsstil eller velvære, ikke ordning for krav og oppfølging i sykefraværet. (innsnevring 9.11.2026)
-- OK   6 utelatt W1981591087 «Psychosocial Work Environment Exposures as Risk Factors for Long-Term » (2005) – Prognose-, forekomst- eller kostnadsstudie, ikke effekt av krav eller oppfølging på fravær eller retur.
-- OK   6 utelatt W1532863741 «The health-damaging potential of new types of flexible employment: a c» (2000) – Annet tema: prekære eller fleksible ansettelser og helse, ikke oppfølging av sykmeldte.
-- OK   6 utelatt W2113499507 «Occupational health guidelines for the management of low back pain: an» (2003) – Smal oversikt eller enkeltstudie om én diagnose, ett tiltak eller én gruppe (fysisk helse, livsstil, muskel- og skjelett), ikke ordning for oppfølging av sykmeldte. (innsnevring 9.11.2026)
-- OK   6 utelatt W4306640476 «The biopsychosocial model of pain 40 years on: time for a reappraisal?» (2022) – Metode-, teori- eller bakgrunnskilde uten utfall i mandatet.
-- OK   6 utelatt W3018014971 «The Effects of Workplace Nature-Based Interventions on the Mental Heal» (2020) – Behandlings- eller arbeidsplasstiltak for psykisk helse, livsstil eller velvære, ikke ordning for krav og oppfølging i sykefraværet. (innsnevring 9.11.2026)
-- OK   6 utelatt W2399645076 «Measuring sick leave: a comparison of self-reported data on sick leave» (2002) – Bakgrunn om årsaker til, måling av eller mønstre i sykefravær, ikke effekt av krav eller oppfølging.
-- OK   6 utelatt W2013728563 «Types of employment and health in the European Union: Changes from 199» (2004) – Annet tema: prekære eller fleksible ansettelser og helse, ikke oppfølging av sykmeldte.
-- OK   6 utelatt W2076205788 «The DEMO Trial: A Randomized, Parallel-Group, Observer-Blinded Clinica» (2009) – Behandlings- eller arbeidsplasstiltak for psykisk helse, livsstil eller velvære, ikke ordning for krav og oppfølging i sykefraværet. (innsnevring 9.11.2026)
-- OK   6 utelatt W2133504508 «Health inequalities in the workforce: the labour market core–periphery» (2003) – Annet tema: prekære eller fleksible ansettelser og helse, ikke oppfølging av sykmeldte.
-- OK   6 utelatt W1872624392 «From the Manpower Revolution to the Activation Paradigm : Explaining I» (2011) – Annet tema: arbeidsledighet eller generell arbeidsmarkedspolitikk, ikke oppfølging av sykmeldte.
-- OK   6 utelatt W2001144250 «The consequences of flexible work for health: are we looking at the ri» (2002) – Annet tema: prekære eller fleksible ansettelser og helse, ikke oppfølging av sykmeldte.
-- OK   6 utelatt W2132006416 «Contingent Convergence: A Comparative Analysis of Activation Policies» (2008) – Komparativ analyse av aktiveringspolitikk generelt, ikke effekten av oppfølging av sykmeldte.
-- OK   6 utelatt W1963839073 «DEMO-II Trial. Aerobic Exercise versus Stretching Exercise in Patients» (2012) – Smal oversikt eller enkeltstudie om én diagnose, ett tiltak eller én gruppe (fysisk helse, livsstil, muskel- og skjelett), ikke ordning for oppfølging av sykmeldte. (innsnevring 9.11.2026)
-- OK   6 utelatt W2022181758 «EUR-ASSESS Project Subgroup Report on Dissemination and Impact» (1997) – Utgitt før 2000, mandatet krever publisert fra 2000.
-- OK   6 utelatt W2142171252 «Cost-effectiveness of therapist-delivered online cognitive–behavioural» (2010) – Behandlings- eller arbeidsplasstiltak for psykisk helse, livsstil eller velvære, ikke ordning for krav og oppfølging i sykefraværet. (innsnevring 9.11.2026)
-- OK   6 utelatt W2143851464 «Integrated health programme: a workplace randomized controlled trial» (2008) – Enkeltstudie av helsefremmende tiltak på arbeidsplassen, ikke ordning for oppfølging av sykmeldte (innsnevring 9.11.2026).
-- OK   6 utelatt W2138259866 «Improving subjective health at the worksite: a randomized controlled t» (2002) – Smal oversikt eller enkeltstudie om én diagnose, ett tiltak eller én gruppe (fysisk helse, livsstil, muskel- og skjelett), ikke ordning for oppfølging av sykmeldte. (innsnevring 9.11.2026)
-- OK   6 utelatt W2080936294 «Diagnosis-specific sick leave as a risk marker for disability pension » (2007) – Prognose-, forekomst- eller kostnadsstudie, ikke effekt av krav eller oppfølging på fravær eller retur.
-- OK   6 utelatt W2084483647 «Efficacy of an internet-based problem-solving training for teachers: r» (2014) – Behandlings- eller arbeidsplasstiltak for psykisk helse, livsstil eller velvære, ikke ordning for krav og oppfølging i sykefraværet. (innsnevring 9.11.2026)
-- OK   6 utelatt W3011779158 «Effectiveness of Workplace Interventions for Improving Absenteeism, Pr» (2020) – ikke ordning for krav eller oppfølging av sykmeldte etter innsnevringen 9.11.2026 (fra blindt utvalg 2)
-- OK   6 utelatt W2027194682 «Ineffective disability management by doctors is an obstacle for return» (2002) – Smal oversikt eller enkeltstudie om én diagnose, ett tiltak eller én gruppe (fysisk helse, livsstil, muskel- og skjelett), ikke ordning for oppfølging av sykmeldte. (innsnevring 9.11.2026)
-- OK   6 utelatt W2145768902 «Impact of improved depression treatment in primary care on daily funct» (1998) – Utgitt før 2000, mandatet krever publisert fra 2000.
-- OK   6 utelatt W2141180159 «Randomized controlled trial of computerized cognitive behavioural ther» (2013) – Behandlings- eller arbeidsplasstiltak for psykisk helse, livsstil eller velvære, ikke ordning for krav og oppfølging i sykefraværet. (innsnevring 9.11.2026)
-- OK   6 utelatt W2569828495 «Return to Work after a Stroke in Working Age Persons; A Six-Year Follo» (2017) – Smal oversikt eller enkeltstudie om én diagnose, ett tiltak eller én gruppe (fysisk helse, livsstil, muskel- og skjelett), ikke ordning for oppfølging av sykmeldte. (innsnevring 9.11.2026)
-- OK   6 utelatt W2036947247 «The effectiveness of interventions for ageing workers on (early) retir» (2014) – Annet tema: uføretrygd, uførepolitikk eller generell yrkesdeltakelse, ikke krav og oppfølging i sykefraværet.
-- OK   6 utelatt W2155137227 «A search strategy for occupational health intervention studies» (2005) – Metode-, teori- eller bakgrunnskilde uten utfall i mandatet.
-- OK   6 utelatt W2887225311 «A randomized controlled multicenter trial of individual placement and » (2018) – Behandlings- eller arbeidsplasstiltak for psykisk helse, livsstil eller velvære, ikke ordning for krav og oppfølging i sykefraværet. (innsnevring 9.11.2026)
-- OK   6 utelatt W1994620841 «Is there a Threat Effect of Labour Market Programmes? A Study of ALMP » (2006) – Annet tema: arbeidsledighet eller generell arbeidsmarkedspolitikk, ikke oppfølging av sykmeldte.
-- OK   6 utelatt W3155195705 «The disability employment gap in European countries: What is the role » (2021) – Annet tema: uførepolitikk eller velferdsreform generelt, ikke oppfølging av sykmeldte.
-- OK   6 utelatt W2137928281 «Long-Term Results of a Web-Based Guided Self-Help Intervention for Emp» (2014) – Behandlings- eller arbeidsplasstiltak for psykisk helse, livsstil eller velvære, ikke ordning for krav og oppfølging i sykefraværet. (innsnevring 9.11.2026)
-- OK   6 utelatt W1970943740 «Prognostic factors associated with return to work following multidisci» (2008) – Prognose- eller kohortstudie av langtidssykmeldte, ikke evaluering av krav eller oppfølging.
-- OK   6 utelatt W2803694214 «Economic evaluation of a dietary intervention for adults with major de» (2018) – Behandlings- eller arbeidsplasstiltak for psykisk helse, livsstil eller velvære, ikke ordning for krav og oppfølging i sykefraværet. (innsnevring 9.11.2026)
-- OK   6 utelatt W2112934452 «Managed Liberalization of the Dutch Welfare State: A Review and Analys» (1999) – Politisk analyse av nederlandske trygdereformer 1985–1998, uten effektmål for sykefravær.
-- OK   6 utelatt W2224602169 «Developing a mentally healthy workplace: a review of the literature» (2014) – Behandlings- eller arbeidsplasstiltak for psykisk helse, livsstil eller velvære, ikke ordning for krav og oppfølging i sykefraværet. (innsnevring 9.11.2026)
-- OK   6 utelatt W2019860212 «What Happens to Work if you’re Unwell? Beliefs and Attitudes of Manage» (2010) – Kvalitativ studie eller spørreundersøkelse om erfaringer og holdninger, ikke effekt av krav eller oppfølging på fravær eller retur.
-- OK   6 utelatt W2161162986 «Comparison of a biopsychosocial therapy (BT) with a conventional biome» (2005) – Smal oversikt eller enkeltstudie om én diagnose, ett tiltak eller én gruppe (fysisk helse, livsstil, muskel- og skjelett), ikke ordning for oppfølging av sykmeldte. (innsnevring 9.11.2026)
-- OK   6 utelatt W1997965246 «The Work Ability Divide: Holistic and Reductionistic Approaches in Swe» (2009) – Kvalitativ studie av samarbeid i et rehabiliteringsteam, ikke effekt av krav eller oppfølging på fravær eller retur.
-- OK   6 utelatt W1915128482 «A controlled case study of supervisor training to optimize response to» (2006) – Kasusstudie av opplæring av ledere i én bransje (innsnevring 9.11.2026).
-- OK   6 utelatt W4399435676 «Barriers and facilitators to implementing workplace interventions to p» (2024) – Kvalitativ studie eller spørreundersøkelse om erfaringer og holdninger, ikke effekt av krav eller oppfølging på fravær eller retur.
-- OK   6 utelatt W2062171084 «Towards a New Definition of Return-to-Work Outcomes in Common Mental D» (2012) – Behandlings- eller arbeidsplasstiltak for psykisk helse, livsstil eller velvære, ikke ordning for krav og oppfølging i sykefraværet. (innsnevring 9.11.2026)
-- OK   6 utelatt W2621308456 «Prognostic factors for return to work of employees with common mental » (2017) – Prognose-, forekomst- eller kostnadsstudie, ikke effekt av krav eller oppfølging på fravær eller retur.
-- OK   6 utelatt W101790493 «Nonspecific low back pain and return to work.» (2007) – Smal oversikt eller enkeltstudie om én diagnose, ett tiltak eller én gruppe (fysisk helse, livsstil, muskel- og skjelett), ikke ordning for oppfølging av sykmeldte. (innsnevring 9.11.2026)
-- OK   6 utelatt W2736011586 «Employers’ experience of employees with cancer: trajectories of comple» (2017) – Smal oversikt eller enkeltstudie om én diagnose, ett tiltak eller én gruppe (fysisk helse, livsstil, muskel- og skjelett), ikke ordning for oppfølging av sykmeldte. (innsnevring 9.11.2026)
-- OK   6 utelatt W3160194077 «The Epidemic of Mental Disorders in Business—How Depression, Anxiety, » (2021) – Prognose-, forekomst- eller kostnadsstudie, ikke effekt av krav eller oppfølging på fravær eller retur.
-- OK   6 utelatt W2051353737 «A trial of problem-solving by community mental health nurses for anxie» (2005) – Behandlings- eller arbeidsplasstiltak for psykisk helse, livsstil eller velvære, ikke ordning for krav og oppfølging i sykefraværet. (innsnevring 9.11.2026)
-- OK   6 utelatt W1796378148 «Models of sickness and disability: applied to common health problems» (2009) – Metode-, teori- eller bakgrunnskilde uten utfall i mandatet.
-- OK   6 utelatt W1831384053 «Psychosocial Risk Factors, Interventions, and Comorbidity in Patients » (2015) – Prognose-, forekomst- eller kostnadsstudie, ikke effekt av krav eller oppfølging på fravær eller retur.
-- OK   6 utelatt W2091643631 «Chapter 12. Future need for research» (2004) – Metode-, teori- eller bakgrunnskilde uten utfall i mandatet.
-- OK   6 utelatt W2584322843 «Inclusion of persons with disabilities in mainstream employment: is it» (2017) – Annet tema: uføretrygd, uførepolitikk eller generell yrkesdeltakelse, ikke krav og oppfølging i sykefraværet.
-- OK   6 utelatt W2129153957 «Sickness Absence, Moral Hazard, and the Business Cycle» (2014) – Annet tema: sykepengenivå, økonomiske insentiver eller moral hazard, ikke krav og oppfølging av sykmeldte.
-- OK   6 utelatt W158337779 «Workers with a chronic disease and work disability» (2013) – Prognose- eller kohortstudie av langtidssykmeldte, ikke evaluering av krav eller oppfølging.
-- OK   6 utelatt W2084460471 «Return to Work Following Breast Cancer Treatment: The Employers’ Side» (2013) – Smal oversikt eller enkeltstudie om én diagnose, ett tiltak eller én gruppe (fysisk helse, livsstil, muskel- og skjelett), ikke ordning for oppfølging av sykmeldte. (innsnevring 9.11.2026)
-- OK   6 utelatt W2123238490 «Sickness certification and the GP: what really happens in practice?» (2009) – Beskriver legers sykmeldingspraksis, uten effektmål.
-- OK   6 utelatt W2528485787 «New Business Structures Creating Organizational Opportunities and Chal» (2016) – Annet tema: arbeidsgiveres organisering og forebygging generelt, ikke effekt av krav eller oppfølging.
-- OK   6 utelatt W612693364 «Divided Against Itself: A Study of Integration in Welfare Bureaucracy» (1994) – Utgitt før 2000, mandatet krever publisert fra 2000.
-- OK   6 utelatt W1695847237 «Effect of Two Contrasting Interventions on Upper Limb Chronic Pain and» (2014) – Smal oversikt eller enkeltstudie om én diagnose, ett tiltak eller én gruppe (fysisk helse, livsstil, muskel- og skjelett), ikke ordning for oppfølging av sykmeldte. (innsnevring 9.11.2026)
-- OK   6 utelatt W2159167505 «Sickness-certification practice in different clinical settings; a surv» (2010) – Spørreundersøkelse om sykmeldingspraksis blant leger, uten effektmål.
-- OK   6 utelatt W2068473783 «Prevention of mental disorders: a new era for workplace mental health» (2012) – Behandlings- eller arbeidsplasstiltak for psykisk helse, livsstil eller velvære, ikke ordning for krav og oppfølging i sykefraværet. (innsnevring 9.11.2026)
-- OK   6 utelatt W2138189054 «The cost-effectiveness of a lifestyle physical activity intervention i» (2010) – Smal oversikt eller enkeltstudie om én diagnose, ett tiltak eller én gruppe (fysisk helse, livsstil, muskel- og skjelett), ikke ordning for oppfølging av sykmeldte. (innsnevring 9.11.2026)
-- OK   6 utelatt W2936673069 «The importance of return to work: How to achieve optimal reintegration» (2019) – Smal oversikt eller enkeltstudie om én diagnose, ett tiltak eller én gruppe (fysisk helse, livsstil, muskel- og skjelett), ikke ordning for oppfølging av sykmeldte. (innsnevring 9.11.2026)
-- OK   6 utelatt W1970169698 «An Ergonomics Program Designed to Reduce the Incidence of Upper Extrem» (1999) – Utgitt før 2000, mandatet krever publisert fra 2000.
-- OK   6 utelatt W2118808847 «The interaction between general practitioners and occupational health » (2003) – Delphi-studie om samarbeid mellom fastleger og bedriftshelsetjeneste, uten effektmål.
-- OK   6 utelatt W2055040204 «The ‘Ability’ Paradigm in Vocational Rehabilitation: Challenges in an » (2011) – Smal oversikt eller enkeltstudie om én diagnose, ett tiltak eller én gruppe (fysisk helse, livsstil, muskel- og skjelett), ikke ordning for oppfølging av sykmeldte. (innsnevring 9.11.2026)
-- OK   6 utelatt W2091144025 «Gatekeepers in sickness insurance: a systematic review of the literatu» (2005) – Oversikt over trygdesaksbehandleres praksis, uten effektmål.
-- OK   6 utelatt W2141694855 «Work-related sickness absence negotiations: GPs' qualitative perspecti» (2010) – Kvalitativ studie av legers forhandlinger om sykmelding, uten effektmål.
-- OK   6 utelatt W2146691617 «Patterns of sick-leave and health outcomes in injured workers with bac» (2008) – Prognose-, forekomst- eller kostnadsstudie, ikke effekt av krav eller oppfølging på fravær eller retur.
-- OK   6 utelatt W2904910853 «Indicated Prevention Interventions in the Workplace for Depressive Sym» (2018) – Behandlings- eller arbeidsplasstiltak for psykisk helse, livsstil eller velvære, ikke ordning for krav og oppfølging i sykefraværet. (innsnevring 9.11.2026)
-- OK   6 utelatt W2062501194 «The Physician as Disability Advisor for Patients with Musculoskeletal » (2005) – Smal oversikt eller enkeltstudie om én diagnose, ett tiltak eller én gruppe (fysisk helse, livsstil, muskel- og skjelett), ikke ordning for oppfølging av sykmeldte. (innsnevring 9.11.2026)
-- OK   6 utelatt W1997616726 «Prognostic Factors for the Work Participation of Sick-Listed Unemploye» (2012) – Prognose-, forekomst- eller kostnadsstudie, ikke effekt av krav eller oppfølging på fravær eller retur.
-- OK   6 utelatt W2113805090 «Improving health and productivity of depressed workers: a pilot random» (2010) – Behandlings- eller arbeidsplasstiltak for psykisk helse, livsstil eller velvære, ikke ordning for krav og oppfølging i sykefraværet. (innsnevring 9.11.2026)
-- OK   6 utelatt W4281627803 «“We are our own worst enemy”: a qualitative exploration of work-relate» (2022) – Kvalitativ studie eller spørreundersøkelse om erfaringer og holdninger, ikke effekt av krav eller oppfølging på fravær eller retur.
-- OK   6 utelatt W2035623816 «Perceptions of health professionals towards the management of back pai» (2014) – Kvalitativ studie eller spørreundersøkelse om erfaringer og holdninger, ikke effekt av krav eller oppfølging på fravær eller retur.
-- OK   6 utelatt W2043381265 «Results of a feasibility study: barriers and facilitators in implement» (2015) – Gjennomførbarhetsstudie av Sherbrooke-modellen i Frankrike, uten effektmål.
-- OK   6 utelatt W2160808449 «General practitioners' use of sickness certificates» (2009) – Beskriver legers bruk av sykmeldinger, uten effektmål.
-- OK   6 utelatt W2475735714 «Returning to work after occupational injury.» (2004) – Smal oversikt eller enkeltstudie om én diagnose, ett tiltak eller én gruppe (fysisk helse, livsstil, muskel- og skjelett), ikke ordning for oppfølging av sykmeldte. (innsnevring 9.11.2026)
-- OK   6 utelatt W1532735516 «Work resumption after vocational rehabilitation: A follow-up two years» (2007) – Prognose- eller kohortstudie av langtidssykmeldte, ikke evaluering av krav eller oppfølging.
-- OK   6 utelatt W2032935003 «Prognostic factors in short‐term disability due to musculoskeletal dis» (2008) – Prognose-, forekomst- eller kostnadsstudie, ikke effekt av krav eller oppfølging på fravær eller retur.
-- OK   6 utelatt W2116481194 «Increasing health inequalities between women in and out of work - the » (2014) – Annet tema: helse, ulikhet eller yrkesdeltakelse generelt, ikke oppfølging av sykmeldte.
-- OK   6 utelatt W2157548788 «Exposure-in-vivo containing interventions to improve work functioning » (2010) – Behandlings- eller arbeidsplasstiltak for psykisk helse, livsstil eller velvære, ikke ordning for krav og oppfølging i sykefraværet. (innsnevring 9.11.2026)
-- OK   6 utelatt W2030370279 «Interdisciplinary collaboration between primary care, social insurance» (2005) – Samarbeid mellom primærhelse, trygd og sosialtjeneste med selvvurdert helse som utfall, ikke fravær eller retur.
-- OK   6 utelatt W2988436120 «Working conditions and compensated sickness absence among nurses and c» (2019) – Prognose-, forekomst- eller kostnadsstudie, ikke effekt av krav eller oppfølging på fravær eller retur.
-- OK   6 utelatt W4306744402 «The Impact of Quality of Work Organization on Distress and Absenteeism» (2022) – Prognose-, forekomst- eller kostnadsstudie, ikke effekt av krav eller oppfølging på fravær eller retur.
-- OK   6 utelatt W4410859802 «Effectiveness of Physical Activity-Led Workplace Health Promotion Inte» (2025) – Smal oversikt eller enkeltstudie om én diagnose, ett tiltak eller én gruppe (fysisk helse, livsstil, muskel- og skjelett), ikke ordning for oppfølging av sykmeldte. (innsnevring 9.11.2026)
-- OK   6 utelatt W2067804759 «Sickness and disability benefit programmes: What is driving policy con» (2009) – Politisk analyse av konvergens i syke- og uførepolitikk, uten effektmål.
-- OK   6 utelatt W2128141793 «Cooperation between gatekeepers in sickness insurance – the perspectiv» (2008) – Kvalitativ studie av samarbeid mellom aktører i sykeforsikringen, uten effektmål.
-- OK   6 utelatt W2943691981 «Determinants of disability pension applications and awarded disability» (2019) – Prognose-, forekomst- eller kostnadsstudie, ikke effekt av krav eller oppfølging på fravær eller retur.
-- OK   6 utelatt W2127166484 «Activities and sources of income after a period of long-term sick leav» (2012) – Prognose- eller kohortstudie av langtidssykmeldte, ikke evaluering av krav eller oppfølging.
-- OK   6 utelatt W4309235604 «Return to work in head and neck cancer survivors: a systematic review» (2022) – Smal oversikt eller enkeltstudie om én diagnose, ett tiltak eller én gruppe (fysisk helse, livsstil, muskel- og skjelett), ikke ordning for oppfølging av sykmeldte. (innsnevring 9.11.2026)
-- OK   6 utelatt W1967822643 «Vocational rehabilitation of workers with back pain» (2001) – Smal oversikt eller enkeltstudie om én diagnose, ett tiltak eller én gruppe (fysisk helse, livsstil, muskel- og skjelett), ikke ordning for oppfølging av sykmeldte. (innsnevring 9.11.2026)
-- OK   6 utelatt W2087440683 «Can the back-to-work rate of patients with long-term non-malignant pai» (2005) – Prognose- eller kohortstudie av langtidssykmeldte, ikke evaluering av krav eller oppfølging.
-- OK   6 utelatt W2115088036 «Financial work incentives for disability benefit recipients: lessons f» (2015) – Annet tema: sykepengenivå, økonomiske insentiver eller moral hazard, ikke krav og oppfølging av sykmeldte.
-- OK   6 utelatt W1989571153 «Multidisciplinary investigations recognize high prevalence of co-morbi» (2008) – Prognose- eller kohortstudie av langtidssykmeldte, ikke evaluering av krav eller oppfølging.
-- OK   6 utelatt W2149220966 «The effectiveness of two active interventions compared to self-care ad» (2011) – Smal oversikt eller enkeltstudie om én diagnose, ett tiltak eller én gruppe (fysisk helse, livsstil, muskel- og skjelett), ikke ordning for oppfølging av sykmeldte. (innsnevring 9.11.2026)
-- OK   6 utelatt W4395464347 «Preference for Competitive Employment in People with Mental Disorders:» (2024) – Behandlings- eller arbeidsplasstiltak for psykisk helse, livsstil eller velvære, ikke ordning for krav og oppfølging i sykefraværet. (innsnevring 9.11.2026)
-- OK   6 utelatt W2097600374 «A Survey of Current Disability Management Practice» (2007) – Kvalitativ studie eller spørreundersøkelse om erfaringer og holdninger, ikke effekt av krav eller oppfølging på fravær eller retur.
-- OK   6 utelatt W2791150767 «Test–Retest Reliability, Agreement and Responsiveness of Productivity » (2018) – Metode-, teori- eller bakgrunnskilde uten utfall i mandatet.
-- OK   6 utelatt W4213260117 «Exploring Employer Perspectives on Their Supportive Role in Accommodat» (2022) – Metode-, teori- eller bakgrunnskilde uten utfall i mandatet.
-- OK   6 utelatt W113661300 «Return to Work Stakeholders’ Perspectives on Work Disability» (2013) – Kvalitativ eller begrepsmessig studie av interessenters erfaringer, ikke effekt av ordning på fravær eller retur.
-- OK   6 utelatt W2732365323 «Transdiagnostic group-based occupational rehabilitation for participan» (2017) – Smal oversikt eller enkeltstudie om én diagnose, ett tiltak eller én gruppe (fysisk helse, livsstil, muskel- og skjelett), ikke ordning for oppfølging av sykmeldte. (innsnevring 9.11.2026)
-- OK   6 utelatt W2936876161 «Who Should Play a Key Role in Preventing Common Mental Disorders that » (2019) – Kvalitativ studie eller spørreundersøkelse om erfaringer og holdninger, ikke effekt av krav eller oppfølging på fravær eller retur.
-- OK   6 utelatt W2998004800 «Transition(s) to work: the experiences of people with disabilities in » (2019) – Kvalitativ studie eller spørreundersøkelse om erfaringer og holdninger, ikke effekt av krav eller oppfølging på fravær eller retur.
-- OK   6 utelatt W4405938738 «Validation of visual analog scales of mood and anxiety at the workplac» (2024) – Metode-, teori- eller bakgrunnskilde uten utfall i mandatet.
-- OK   6 utelatt W3109674435 «What is the effect of changing eligibility criteria for disability ben» (2020) – Strengere inngangsvilkår til uføreytelser, ikke oppfølging i sykefraværet.
-- OK   6 utelatt W4310641906 «Recognition During the Return-to-Work Process in Workers with Common M» (2022) – Kvalitativ studie eller spørreundersøkelse om erfaringer og holdninger, ikke effekt av krav eller oppfølging på fravær eller retur.
-- OK   6 utelatt W4396849349 «The Effects of Mental Health Interventions on Labor Market Outcomes in» (2024) – Behandlings- eller arbeidsplasstiltak for psykisk helse, livsstil eller velvære, ikke ordning for krav og oppfølging i sykefraværet. (innsnevring 9.11.2026)
-- OK   6 utelatt W154143318 «Transforming the Dutch welfare state» (2011) – Annet tema: uførepolitikk eller velferdsreform generelt, ikke oppfølging av sykmeldte.
-- OK   6 utelatt W4281250522 «Work-related support in clinical care for patients with a chronic dise» (2022) – Smalt tiltak for egenhåndtering eller klinisk støtte, ikke bred oversikt over krav og oppfølging (innsnevring 9.11.2026).
-- OK   6 utelatt W1552032763 «Occupational health systematic reviews: An overview» (2006) – Generell oversikt over systematiske oversikter i arbeidshelse, ikke om oppfølging av sykmeldte.
-- OK   6 utelatt W2145939494 «The unbearable lightness of healthcare policy making: a description of» (2003) – Annet tema: integrert helsetjeneste eller helsepolitikk, ikke oppfølging av sykmeldte.
-- OK   6 utelatt W2152230222 «Complementarities and Information: An Introduction» (2009) – Metode-, teori- eller bakgrunnskilde uten utfall i mandatet.
-- OK   6 utelatt W3002506118 «Return to work after stroke and related factors in Poland and abroad: » (2020) – Smal oversikt eller enkeltstudie om én diagnose, ett tiltak eller én gruppe (fysisk helse, livsstil, muskel- og skjelett), ikke ordning for oppfølging av sykmeldte. (innsnevring 9.11.2026)
-- OK   6 utelatt W3008301936 «Evaluating social investment in disability policy» (2020) – Annet tema: uføretrygd, uførepolitikk eller generell yrkesdeltakelse, ikke krav og oppfølging i sykefraværet.
-- OK   6 utelatt W3123424006 «Integrating retirement and permanent disability in NDC pension schemes» (2015) – Annet tema: uføretrygd, uførepolitikk eller generell yrkesdeltakelse, ikke krav og oppfølging i sykefraværet.
-- OK   6 utelatt W4386209874 «Help! I Need Somebody: Help-Seeking Among Workers with Self-Reported W» (2023) – Kvalitativ studie eller spørreundersøkelse om erfaringer og holdninger, ikke effekt av krav eller oppfølging på fravær eller retur.
-- OK   6 utelatt W4408419450 «Cost–benefit of IAPT Norway and effects on work-related outcomes and h» (2025) – Behandlings- eller arbeidsplasstiltak for psykisk helse, livsstil eller velvære, ikke ordning for krav og oppfølging i sykefraværet. (innsnevring 9.11.2026)
-- OK   6 utelatt W2116312979 «Sickness insurance and spousal labour supply» (2015) – Annet tema: sykepengenivå, økonomiske insentiver eller moral hazard, ikke krav og oppfølging av sykmeldte.
-- OK   6 utelatt W898645847 «Experiences of the Job Retention and Rehabilitation Pilot» (2006) – Erfaringer med et britisk forsøk (Job Retention and Rehabilitation Pilot); effekten står i evalueringen som er med i utvalget.
-- OK   6 utelatt W2911999495 «Mental health literacy among vocational rehabilitation professionals a» (2019) – Behandlings- eller arbeidsplasstiltak for psykisk helse, livsstil eller velvære, ikke ordning for krav og oppfølging i sykefraværet. (innsnevring 9.11.2026)
-- OK   6 utelatt W4377104274 «Workplace-Based Interventions for Mental Health in Africa: A Scoping R» (2023) – Behandlings- eller arbeidsplasstiltak for psykisk helse, livsstil eller velvære, ikke ordning for krav og oppfølging i sykefraværet. (innsnevring 9.11.2026)
-- OK   6 utelatt W4386441192 «Practical pathway for the management of depression in the workplace: a» (2023) – Behandlings- eller arbeidsplasstiltak for psykisk helse, livsstil eller velvære, ikke ordning for krav og oppfølging i sykefraværet. (innsnevring 9.11.2026)
-- OK   6 utelatt W4404160672 «Incorporating Lifestyle Medicine Into Occupational Medicine Practice» (2024) – Smal oversikt eller enkeltstudie om én diagnose, ett tiltak eller én gruppe (fysisk helse, livsstil, muskel- og skjelett), ikke ordning for oppfølging av sykmeldte. (innsnevring 9.11.2026)
-- OK   6 utelatt W4415230092 «The economic burden of anxiety and depression in Indonesia: evidence f» (2025) – Prognose-, forekomst- eller kostnadsstudie, ikke effekt av krav eller oppfølging på fravær eller retur.
-- OK   6 utelatt W2410395110 «Economic Evaluation of Concise Cognitive Behavioural Therapy and/or Ph» (2015) – Behandlings- eller arbeidsplasstiltak for psykisk helse, livsstil eller velvære, ikke ordning for krav og oppfølging i sykefraværet. (innsnevring 9.11.2026)
-- OK   6 utelatt W2981868627 «Exploring the service and knowledge gap between rehabilitation profess» (2019) – Kvalitativ studie eller spørreundersøkelse om erfaringer og holdninger, ikke effekt av krav eller oppfølging på fravær eller retur.
-- OK   6 utelatt W4391014260 «Exploring return to work barriers through the lens of model of human o» (2024) – Kvalitativ eller begrepsmessig studie av interessenters erfaringer, ikke effekt av ordning på fravær eller retur.
-- OK   6 utelatt W4396509370 «Systematic Review of Workplace Interventions to Support Young Workers’» (2024) – Behandlings- eller arbeidsplasstiltak for psykisk helse, livsstil eller velvære, ikke ordning for krav og oppfølging i sykefraværet. (innsnevring 9.11.2026)
-- OK   6 utelatt W2613014022 «Zückerchen für Arbeitgebende. Sozialstaatliche Anreize zur beruflichen» (2017) – Om sveitsiske insentiver til arbeidsgivere for attføring, ikke oppfølging av sykmeldte med effektmål.
-- OK   6 utelatt W3157574766 «Work Resumption after a Fixed-Term Disability Pension: Changes over Ti» (2021) – Annet tema: uføretrygd, uførepolitikk eller generell yrkesdeltakelse, ikke krav og oppfølging i sykefraværet.
-- OK   6 utelatt W4228997676 «Primary Care Physicians’ Learning Needs in Returning Ill or Injured Wo» (2022) – Smal oversikt eller enkeltstudie om én diagnose, ett tiltak eller én gruppe (fysisk helse, livsstil, muskel- og skjelett), ikke ordning for oppfølging av sykmeldte. (innsnevring 9.11.2026)
-- OK   6 utelatt W4416724023 «Effectiveness and Feasibility of Workplace-Based Mental Health Interve» (2025) – Behandlings- eller arbeidsplasstiltak for psykisk helse, livsstil eller velvære, ikke ordning for krav og oppfølging i sykefraværet. (innsnevring 9.11.2026)
-- OK   6 utelatt W2902817267 «Early Determinants of Work Disability in an International Perspective» (2020) – Prognose- eller kohortstudie av langtidssykmeldte, ikke evaluering av krav eller oppfølging.
-- OK   6 utelatt W4392865102 «Group-level workplace interventions to improve mental health in low co» (2024) – Behandlings- eller arbeidsplasstiltak for psykisk helse, livsstil eller velvære, ikke ordning for krav og oppfølging i sykefraværet. (innsnevring 9.11.2026)
-- OK   6 utelatt W3047422343 «Common Mental Disorders and Work» (2020) – Behandlings- eller arbeidsplasstiltak for psykisk helse, livsstil eller velvære, ikke ordning for krav og oppfølging i sykefraværet. (innsnevring 9.11.2026)
-- OK   6 utelatt W2745084023 «Social Insurance and Health» (2018) – Metode-, teori- eller bakgrunnskilde uten utfall i mandatet.
-- OK   6 utelatt W3169148719 «Workplace mental health implementation strategies in public safety org» (2021) – Metode-, teori- eller bakgrunnskilde uten utfall i mandatet.
-- OK   6 utelatt W4398794267 «Gender and educational differences in work participation and working y» (2024) – Annet tema: helse, ulikhet eller yrkesdeltakelse generelt, ikke oppfølging av sykmeldte.
-- OK   6 utelatt W4415443942 «Improving the Psychosocial Work Environment to Prevent Sickness Absenc» (2025) – Behandlings- eller arbeidsplasstiltak for psykisk helse, livsstil eller velvære, ikke ordning for krav og oppfølging i sykefraværet. (innsnevring 9.11.2026)
-- OK   6 utelatt W2134687374 «Return to work with back pain: balancing the benefits of work against » (2014) – Smal oversikt eller enkeltstudie om én diagnose, ett tiltak eller én gruppe (fysisk helse, livsstil, muskel- og skjelett), ikke ordning for oppfølging av sykmeldte. (innsnevring 9.11.2026)
-- OK   6 utelatt W2912619619 «COMPARING THE IMPACT OF VOCATIONAL REHABILITATION AND THE EMPLOYMENT O» (2018) – Kvalitativ eller begrepsmessig studie av interessenters erfaringer, ikke effekt av ordning på fravær eller retur.
-- OK   6 utelatt W4205426623 «Clinician education unlikely effective for guideline-adherent medicati» (2022) – Smal oversikt eller enkeltstudie om én diagnose, ett tiltak eller én gruppe (fysisk helse, livsstil, muskel- og skjelett), ikke ordning for oppfølging av sykmeldte. (innsnevring 9.11.2026)
-- OK   6 utelatt W4296161506 «Interventions for promoting evidence-based guideline-consistent surger» (2022) – Smal oversikt eller enkeltstudie om én diagnose, ett tiltak eller én gruppe (fysisk helse, livsstil, muskel- og skjelett), ikke ordning for oppfølging av sykmeldte. (innsnevring 9.11.2026)
-- OK   6 utelatt W2969847039 «Analysis of engagement between ethics and return-to-work discourses in» (2019) – Kvalitativ eller begrepsmessig studie av interessenters erfaringer, ikke effekt av ordning på fravær eller retur.
-- OK   6 utelatt W4411259739 «Managing Five-Generational Workforces Amid Labour Shortages and Techno» (2025) – Annet tema: arbeidsstyrke og demografi, ikke oppfølging av sykmeldte.
-- OK   6 utelatt W4410408076 «Economic Evaluations of Rehabilitation Interventions: A Scoping Review» (2025) – Oversikt over økonomiske evalueringer av rehabilitering, ikke effekt på fravær (innsnevring 9.11.2026).
-- OK   6 utelatt W3008958350 «Employment as a Key Rehabilitation Outcome» (2020) – Generell omtale av yrkesrettet rehabilitering uten utfall for fravær eller retur etter krav eller oppfølging.
-- OK   6 utelatt W4415696732 «The entrepreneur well-being check: a screener for entrepreneur mental » (2025) – Behandlings- eller arbeidsplasstiltak for psykisk helse, livsstil eller velvære, ikke ordning for krav og oppfølging i sykefraværet. (innsnevring 9.11.2026)
-- OK   6 utelatt W4416678323 «Exploring the effectiveness of yoga interventions in improving the wel» (2025) – Smal oversikt eller enkeltstudie om én diagnose, ett tiltak eller én gruppe (fysisk helse, livsstil, muskel- og skjelett), ikke ordning for oppfølging av sykmeldte. (innsnevring 9.11.2026)
-- OK   6 utelatt W4411348671 «Effectiveness of vocational rehabilitation interventions on depression» (2025) – Behandlings- eller arbeidsplasstiltak for psykisk helse, livsstil eller velvære, ikke ordning for krav og oppfølging i sykefraværet. (innsnevring 9.11.2026)
-- OK   6 utelatt W7118568300 «Effectiveness of Self-Help Interventions to Reduce Work Disability: A » (2026) – Smalt tiltak for egenhåndtering eller klinisk støtte, ikke bred oversikt over krav og oppfølging (innsnevring 9.11.2026).
-- OK   6 utelatt W7128294673 «Nurturing Minds: Workplace‐Based Mental Health Promotion Programmes fo» (2026) – Behandlings- eller arbeidsplasstiltak for psykisk helse, livsstil eller velvære, ikke ordning for krav og oppfølging i sykefraværet. (innsnevring 9.11.2026)
-- OK   6 utelatt W7165381842 «Translating Knowledge into Practical Guidance for Sustainable Employme» (2026) – Smal oversikt eller enkeltstudie om én diagnose, ett tiltak eller én gruppe (fysisk helse, livsstil, muskel- og skjelett), ikke ordning for oppfølging av sykmeldte. (innsnevring 9.11.2026)
-- OK   6 utelatt W7168374333 «Sociotechnical Perspectives on Technology-Based Return-to-Work Support» (2026) – Behandlings- eller arbeidsplasstiltak for psykisk helse, livsstil eller velvære, ikke ordning for krav og oppfølging i sykefraværet. (innsnevring 9.11.2026)
-- OK   6 utelatt W7169801496 «Formation of rehabilitation treatment programs to preserve the profess» (2026) – Smal oversikt om rehabilitering i én sektor eller institusjonsform (innsnevring 9.11.2026).
-- OK   6 utelatt W7170677102 «Occupational interventions and their effects on work-related and menta» (2026) – Behandlings- eller arbeidsplasstiltak for psykisk helse, livsstil eller velvære, ikke ordning for krav og oppfølging i sykefraværet. (innsnevring 9.11.2026)
-- OK   6 utelatt W7216460335 «FROM INTERVENTION EFFICACY TO ORGANIZATIONAL TRANSLATION: A THEORY-BUI» (2026) – Oversikt om arbeidsmiljø- eller velværetiltak, ikke krav og oppfølging i sykefraværet; utfall er ikke fravær eller retur (innsnevring 9.11.2026).
-- OK   6 utelatt W2051210010 «Register-based follow-up of social benefits and other transfer payment» (2007) – Prognose-, forekomst- eller kostnadsstudie, ikke effekt av krav eller oppfølging på fravær eller retur.
-- OK   6 utelatt W1517185146 «Workplace interventions for reducing sitting at work» (2016) – Behandlings- eller arbeidsplasstiltak for psykisk helse, livsstil eller velvære, ikke ordning for krav og oppfølging i sykefraværet. (innsnevring 9.11.2026)
-- OK   6 utelatt W1995721477 «Burnout among employees in human service work: design and baseline fin» (2005) – Behandlings- eller arbeidsplasstiltak for psykisk helse, livsstil eller velvære, ikke ordning for krav og oppfølging i sykefraværet. (innsnevring 9.11.2026)
-- OK   6 utelatt W2144480207 «Effects of organisational-level interventions at work on employees’ he» (2014) – Oversikt om arbeidsmiljø- eller velværetiltak, ikke krav og oppfølging i sykefraværet; utfall er ikke fravær eller retur (innsnevring 9.11.2026).
-- OK   6 utelatt W2152459046 «Expanding research on the economics of occupational health» (2006) – Bakgrunn om årsaker til, måling av eller mønstre i sykefravær, ikke effekt av krav eller oppfølging.
-- OK   6 utelatt W2041385229 «Can Chronic Disability Be Prevented?» (2000) – Generell omtale av forebygging av kronisk uførhet uten evaluering av krav eller oppfølging.
-- OK   6 utelatt W1785898356 «Strategies to improve retention in randomised trials» (2013) – Metode-, teori- eller bakgrunnskilde uten utfall i mandatet.
-- OK   6 utelatt W2024397552 «The Trend in Total Cost of Back Pain in the Netherlands in the Period » (2010) – Prognose-, forekomst- eller kostnadsstudie, ikke effekt av krav eller oppfølging på fravær eller retur.
-- OK   6 utelatt W3013665609 «A Systematic Review of Workplace Interventions to Rehabilitate Musculo» (2020) – Smal oversikt eller enkeltstudie om én diagnose, ett tiltak eller én gruppe (fysisk helse, livsstil, muskel- og skjelett), ikke ordning for oppfølging av sykmeldte. (innsnevring 9.11.2026)
-- OK   6 utelatt W2793862461 «Effectiveness of training workplace managers to understand and support» (2018) – Behandlings- eller arbeidsplasstiltak for psykisk helse, livsstil eller velvære, ikke ordning for krav og oppfølging i sykefraværet. (innsnevring 9.11.2026)
-- OK   6 utelatt W355023161 «Interventions to reduce sedentary behavior and increase physical activ» (2015) – Smal oversikt eller enkeltstudie om én diagnose, ett tiltak eller én gruppe (fysisk helse, livsstil, muskel- og skjelett), ikke ordning for oppfølging av sykmeldte. (innsnevring 9.11.2026)
-- OK   6 utelatt W2122128832 «Evidence-based lifestyle interventions in the workplace--an overview» (2013) – Smal oversikt eller enkeltstudie om én diagnose, ett tiltak eller én gruppe (fysisk helse, livsstil, muskel- og skjelett), ikke ordning for oppfølging av sykmeldte. (innsnevring 9.11.2026)
-- OK   6 utelatt W2765844816 «Workplace interventions to improve work ability: A systematic review a» (2017) – Oversikt over arbeidsplasstiltak for arbeidsevne, med arbeidsevne og ikke fravær som hovedutfall (innsnevring 9.11.2026).
-- OK   6 utelatt W2517981593 «Workplace health promotion for older workers: a systematic literature » (2016) – Behandlings- eller arbeidsplasstiltak for psykisk helse, livsstil eller velvære, ikke ordning for krav og oppfølging i sykefraværet. (innsnevring 9.11.2026)
-- OK   6 utelatt W2007443031 «Biopsychosocial Multivariate Predictive Model of Occupational Low Back» (2002) – Prognose-, forekomst- eller kostnadsstudie, ikke effekt av krav eller oppfølging på fravær eller retur.
-- OK   6 utelatt W2230106482 «Occupational Stress Management and Burnout Interventions in Nursing an» (2015) – Behandlings- eller arbeidsplasstiltak for psykisk helse, livsstil eller velvære, ikke ordning for krav og oppfølging i sykefraværet. (innsnevring 9.11.2026)
-- OK   6 utelatt W2774966574 «Economic evaluations of ergonomic interventions preventing work-relate» (2017) – Smal oversikt eller enkeltstudie om én diagnose, ett tiltak eller én gruppe (fysisk helse, livsstil, muskel- og skjelett), ikke ordning for oppfølging av sykmeldte. (innsnevring 9.11.2026)
-- OK   6 utelatt W1998277872 «The Impact of a Prospective Survey-Based Workplace Intervention Progra» (2005) – Behandlings- eller arbeidsplasstiltak for psykisk helse, livsstil eller velvære, ikke ordning for krav og oppfølging i sykefraværet. (innsnevring 9.11.2026)
-- OK   6 utelatt W2142951268 «Chapter 11. Physicians' sick-listing practices» (2004) – Kapittel om legers sykmeldingspraksis i en svensk oversikt, uten effektmål for oppfølging.
-- OK   6 utelatt W2137612866 «Trends in sickness benefits in Great Britain and the contribution of m» (2000) – Prognose-, forekomst- eller kostnadsstudie, ikke effekt av krav eller oppfølging på fravær eller retur.
-- OK   6 utelatt W3099603273 «Presenteeism during the COVID-19 pandemic: risks and solutions» (2020) – Smal oversikt eller enkeltstudie om én diagnose, ett tiltak eller én gruppe (fysisk helse, livsstil, muskel- og skjelett), ikke ordning for oppfølging av sykmeldte. (innsnevring 9.11.2026)
-- OK   6 utelatt W2085386888 «Dealing with sickness certification – a survey of problems and strateg» (2007) – Kvalitativ studie eller spørreundersøkelse om erfaringer og holdninger, ikke effekt av krav eller oppfølging på fravær eller retur.
-- OK   6 utelatt W2000276970 «The web of silence: a qualitative case study of early intervention and» (2014) – Kvalitativ studie eller spørreundersøkelse om erfaringer og holdninger, ikke effekt av krav eller oppfølging på fravær eller retur.
-- OK   6 utelatt W2072523261 «Per capita alcohol consumption and sickness absence» (2006) – Smal oversikt eller enkeltstudie om én diagnose, ett tiltak eller én gruppe (fysisk helse, livsstil, muskel- og skjelett), ikke ordning for oppfølging av sykmeldte. (innsnevring 9.11.2026)
-- OK   6 utelatt W3154837027 «Employment status and desire for work in severe mental illness: result» (2021) – Prognose-, forekomst- eller kostnadsstudie, ikke effekt av krav eller oppfølging på fravær eller retur.
-- OK   6 utelatt W4365445413 «Mental Health and Mental Illness in Organizations: A Review, Compariso» (2023) – Behandlings- eller arbeidsplasstiltak for psykisk helse, livsstil eller velvære, ikke ordning for krav og oppfølging i sykefraværet. (innsnevring 9.11.2026)
-- OK   6 utelatt W2765289877 «Systematic review of universal and targeted workplace interventions fo» (2017) – Behandlings- eller arbeidsplasstiltak for psykisk helse, livsstil eller velvære, ikke ordning for krav og oppfølging i sykefraværet. (innsnevring 9.11.2026)
-- OK   6 utelatt W2417064178 «A multifaceted workplace intervention for low back pain in nurses' aid» (2015) – Smal oversikt eller enkeltstudie om én diagnose, ett tiltak eller én gruppe (fysisk helse, livsstil, muskel- og skjelett), ikke ordning for oppfølging av sykmeldte. (innsnevring 9.11.2026)
-- OK   6 utelatt W4211244947 «Workplace interventions for reducing sitting at work» (2015) – Behandlings- eller arbeidsplasstiltak for psykisk helse, livsstil eller velvære, ikke ordning for krav og oppfølging i sykefraværet. (innsnevring 9.11.2026)
-- OK   6 utelatt W2071389788 «General practitioners' experiences with sickness certification: a comp» (2012) – Spørreundersøkelse om legers erfaringer med sykmelding i Sverige og Norge, uten effektmål.
-- OK   6 utelatt W2094271341 «Sickness certificates as a basis for decisions regarding entitlement t» (2005) – Om legeerklæringer som beslutningsgrunnlag, uten effektmål.
-- OK   6 utelatt W2885918875 «Group-based healthy lifestyle workplace interventions for shift worker» (2018) – Smal oversikt eller enkeltstudie om én diagnose, ett tiltak eller én gruppe (fysisk helse, livsstil, muskel- og skjelett), ikke ordning for oppfølging av sykmeldte. (innsnevring 9.11.2026)
-- OK   6 utelatt W2042019145 «Investigating the effect of a 3-month workplace-based pedometer-driven» (2015) – Enkeltstudie av helsefremmende tiltak på arbeidsplassen, ikke ordning for oppfølging av sykmeldte (innsnevring 9.11.2026).
-- OK   6 utelatt W2038370188 «Reporting sick: are sporting events contagious?» (2004) – Bakgrunn om årsaker til, måling av eller mønstre i sykefravær, ikke effekt av krav eller oppfølging.
-- OK   6 utelatt W1992896125 «Early Intervention Options for Acute Low Back Pain Patients: A Randomi» (2010) – Smal oversikt eller enkeltstudie om én diagnose, ett tiltak eller én gruppe (fysisk helse, livsstil, muskel- og skjelett), ikke ordning for oppfølging av sykmeldte. (innsnevring 9.11.2026)
-- OK   6 utelatt W3011284792 «Epigenetics Underlying Susceptibility and Resilience Relating to Daily» (2020) – Behandlings- eller arbeidsplasstiltak for psykisk helse, livsstil eller velvære, ikke ordning for krav og oppfølging i sykefraværet. (innsnevring 9.11.2026)
-- OK   6 utelatt W1484236474 «Optimising workplace interventions for health and well‐being» (2013) – Behandlings- eller arbeidsplasstiltak for psykisk helse, livsstil eller velvære, ikke ordning for krav og oppfølging i sykefraværet. (innsnevring 9.11.2026)
-- OK   6 utelatt W2256822958 «Clinical Decision Support Tools for Selecting Interventions for Patien» (2015) – Smal oversikt eller enkeltstudie om én diagnose, ett tiltak eller én gruppe (fysisk helse, livsstil, muskel- og skjelett), ikke ordning for oppfølging av sykmeldte. (innsnevring 9.11.2026)
-- OK   6 utelatt W1999349147 «Acute Care to Prevent Back Disability» (1987) – Utgitt før 2000, mandatet krever publisert fra 2000.
-- OK   6 utelatt W2804716685 «Workplace-Based Rehabilitation of Upper Limb Conditions: A Systematic » (2018) – Smal oversikt eller enkeltstudie om én diagnose, ett tiltak eller én gruppe (fysisk helse, livsstil, muskel- og skjelett), ikke ordning for oppfølging av sykmeldte. (innsnevring 9.11.2026)
-- OK   6 utelatt W1998873529 «Generating Workplace Accommodations: Lessons Learned from the Integrat» (2004) – Smal oversikt eller enkeltstudie om én diagnose, ett tiltak eller én gruppe (fysisk helse, livsstil, muskel- og skjelett), ikke ordning for oppfølging av sykmeldte. (innsnevring 9.11.2026)
-- OK   6 utelatt W2128827003 «Welfare to work and the inclusive labour market: a comparative study o» (2012) – Komparativ studie av aktivering av uføre og langtidssyke i Storbritannia og Danmark, uten effektmål.
-- OK   6 utelatt W1851862962 «Early intervention for alcohol problems.» (1983) – Utgitt før 2000, mandatet krever publisert fra 2000.
-- OK   6 utelatt W2170646818 «Workplace management of upper limb disorders: a systematic review» (2010) – Smal oversikt eller enkeltstudie om én diagnose, ett tiltak eller én gruppe (fysisk helse, livsstil, muskel- og skjelett), ikke ordning for oppfølging av sykmeldte. (innsnevring 9.11.2026)
-- OK   6 utelatt W3153290806 «Workplace interventions that aim to improve employee health and well-b» (2021) – Behandlings- eller arbeidsplasstiltak for psykisk helse, livsstil eller velvære, ikke ordning for krav og oppfølging i sykefraværet. (innsnevring 9.11.2026)
-- OK   6 utelatt W2137789320 «Economic Incentives, Business Cycles, and Long‐Term Sickness Absence» (2009) – Økonomiske insentiver og konjunkturer, hører til spørsmålet om nivået på sykepengene.
-- OK   6 utelatt W3185797550 «A Systematic Review of Workplace-Based Employee Health Interventions a» (2021) – Metode-, teori- eller bakgrunnskilde uten utfall i mandatet.
-- OK   6 utelatt W4385836957 «Promoting employee wellbeing and preventing non-clinical mental health» (2023) – Kvalitativ studie eller spørreundersøkelse om erfaringer og holdninger, ikke effekt av krav eller oppfølging på fravær eller retur.
-- OK   6 utelatt W2104622241 «Swedish rehabilitation professionals' perspectives on work ability ass» (2010) – Svenske fagfolks syn på arbeidsevnevurdering, uten effektmål.
-- OK   6 utelatt W3119677958 «The potential of using hair cortisol to measure chronic stress in occu» (2021) – Behandlings- eller arbeidsplasstiltak for psykisk helse, livsstil eller velvære, ikke ordning for krav og oppfølging i sykefraværet. (innsnevring 9.11.2026)
-- OK   6 utelatt W2058283634 «Workplace Exercise for Control of Occupational Neck/Shoulder Disorders» (2014) – Smal oversikt eller enkeltstudie om én diagnose, ett tiltak eller én gruppe (fysisk helse, livsstil, muskel- og skjelett), ikke ordning for oppfølging av sykmeldte. (innsnevring 9.11.2026)
-- OK   6 utelatt W2153677469 «Cost-effectiveness of interventions to return employees to work follow» (2011) – Smal oversikt eller enkeltstudie om én diagnose, ett tiltak eller én gruppe (fysisk helse, livsstil, muskel- og skjelett), ikke ordning for oppfølging av sykmeldte. (innsnevring 9.11.2026)
-- OK   6 utelatt W2111854568 «Beyond silence: protocol for a randomized parallel-group trial compari» (2015) – Behandlings- eller arbeidsplasstiltak for psykisk helse, livsstil eller velvære, ikke ordning for krav og oppfølging i sykefraværet. (innsnevring 9.11.2026)
-- OK   6 utelatt W2153386291 «A meta-analysis of health effects of randomized controlled worksite in» (2013) – Behandlings- eller arbeidsplasstiltak for psykisk helse, livsstil eller velvære, ikke ordning for krav og oppfølging i sykefraværet. (innsnevring 9.11.2026)
-- OK   6 utelatt W2896473451 «Employer Participation in Active Labour Market Policy: from Reactive G» (2018) – Annet tema: arbeidsledighet eller generell arbeidsmarkedspolitikk, ikke oppfølging av sykmeldte.
-- OK   6 utelatt W4319063566 «A systematic review of literature on occupational health and safety in» (2023) – Oversikt om arbeidsmiljø- eller velværetiltak, ikke krav og oppfølging i sykefraværet; utfall er ikke fravær eller retur (innsnevring 9.11.2026).
-- OK   6 utelatt W2095355714 «Vocational Services for Traumatic Brain Injury» (2006) – Smal oversikt eller enkeltstudie om én diagnose, ett tiltak eller én gruppe (fysisk helse, livsstil, muskel- og skjelett), ikke ordning for oppfølging av sykmeldte. (innsnevring 9.11.2026)
-- OK   6 utelatt W2141279023 «Description of functioning in sickness certificates» (2011) – Legers sykmeldingspraksis beskrevet som opplevelse eller holdning, ikke effekt på fravær eller retur.
-- OK   6 utelatt W2952920946 «Effectiveness of Workplace-Based Muscle Resistance Training Exercise P» (2019) – Smal oversikt eller enkeltstudie om én diagnose, ett tiltak eller én gruppe (fysisk helse, livsstil, muskel- og skjelett), ikke ordning for oppfølging av sykmeldte. (innsnevring 9.11.2026)
-- OK   6 utelatt W3043974320 «EPA guidance on the quality of mental health services: A systematic me» (2020) – Behandlings- eller arbeidsplasstiltak for psykisk helse, livsstil eller velvære, ikke ordning for krav og oppfølging i sykefraværet. (innsnevring 9.11.2026)
-- OK   6 utelatt W1594974041 «Return to Work Experience of Injured Workers in a Case Management Prog» (1999) – Utgitt før 2000, mandatet krever publisert fra 2000.
-- OK   6 utelatt W2970390564 «Effectiveness of workplace interventions in rehabilitating musculoskel» (2019) – Smal oversikt eller enkeltstudie om én diagnose, ett tiltak eller én gruppe (fysisk helse, livsstil, muskel- og skjelett), ikke ordning for oppfølging av sykmeldte. (innsnevring 9.11.2026)
-- OK   6 utelatt W3165406898 «Process evaluation of a complex workplace intervention to prevent musc» (2021) – Smal oversikt eller enkeltstudie om én diagnose, ett tiltak eller én gruppe (fysisk helse, livsstil, muskel- og skjelett), ikke ordning for oppfølging av sykmeldte. (innsnevring 9.11.2026)
-- OK   6 utelatt W3200070838 «Development of a Programme Theory for Early Intervention Vocational Re» (2021) – ikke ordning for krav eller oppfølging av sykmeldte etter innsnevringen 9.11.2026 (fra blindt utvalg 2)
-- OK   6 utelatt W4211153972 «Potential of micro-exercise to prevent long-term sickness absence in t» (2022) – Smal oversikt eller enkeltstudie om én diagnose, ett tiltak eller én gruppe (fysisk helse, livsstil, muskel- og skjelett), ikke ordning for oppfølging av sykmeldte. (innsnevring 9.11.2026)
-- OK   6 utelatt W4396596642 «Workplace interventions to prevent suicide: A scoping review» (2024) – Behandlings- eller arbeidsplasstiltak for psykisk helse, livsstil eller velvære, ikke ordning for krav og oppfølging i sykefraværet. (innsnevring 9.11.2026)
-- OK   6 utelatt W2780661872 «Working environment and work retention» (2017) – Annet tema: arbeidsmiljø og å bli i arbeid, ikke oppfølging av sykmeldte.
-- OK   6 utelatt W2893959765 «How disability insurance reforms change the consequences of health sho» (2018) – Annet tema: sykepengenivå, økonomiske insentiver eller moral hazard, ikke krav og oppfølging av sykmeldte.
-- OK   6 utelatt W3219579 «Disability Management and Rehabilitation Counseling: Present and Futur» (1999) – Utgitt før 2000, mandatet krever publisert fra 2000.
-- OK   6 utelatt W2138617463 «Physicians who experience sickness certification as a work environment» (2012) – Kvalitativ studie eller spørreundersøkelse om erfaringer og holdninger, ikke effekt av krav eller oppfølging på fravær eller retur.
-- OK   6 utelatt W119807844 «Injured Workers' Perceptions of Case Management Services» (1999) – Utgitt før 2000, mandatet krever publisert fra 2000.
-- OK   6 utelatt W4224076836 «Effectiveness of Workplace Interventions for Improving Working Conditi» (2022) – Behandlings- eller arbeidsplasstiltak for psykisk helse, livsstil eller velvære, ikke ordning for krav og oppfølging i sykefraværet. (innsnevring 9.11.2026)
-- OK   6 utelatt W4401308244 «Interventions in the workplace to reduce risk factors for noncommunica» (2024) – Oversikt om arbeidsmiljø- eller velværetiltak, ikke krav og oppfølging i sykefraværet; utfall er ikke fravær eller retur (innsnevring 9.11.2026).
-- OK   6 utelatt W4386324784 «Promotive and preventive interventions for mental health and well-bein» (2023) – Behandlings- eller arbeidsplasstiltak for psykisk helse, livsstil eller velvære, ikke ordning for krav og oppfølging i sykefraværet. (innsnevring 9.11.2026)
-- OK   6 utelatt W4398762603 «Arbeitsunfähigkeit bei psychischen Störungen – ökonomische, individuel» (2024) – Tysk oversikt om arbeidsuførhet ved psykiske lidelser, én diagnosegruppe (innsnevring 9.11.2026).
-- OK   6 utelatt W2302420351 «Case Management for Injured Workers: A Descriptive Study using a Recor» (1999) – Utgitt før 2000, mandatet krever publisert fra 2000.
-- OK   6 utelatt W4288068767 «Workplace Interventions to Reduce Occupational Stress for Older Worker» (2022) – Behandlings- eller arbeidsplasstiltak for psykisk helse, livsstil eller velvære, ikke ordning for krav og oppfølging i sykefraværet. (innsnevring 9.11.2026)
-- OK   6 utelatt W4384296544 «Outcome assessment of a complex mental health intervention in the work» (2023) – Metode-, teori- eller bakgrunnskilde uten utfall i mandatet.
-- OK   6 utelatt W3153634499 «Case Management and Telehealth: A Scoping Review» (2021) – Smal oversikt eller enkeltstudie om én diagnose, ett tiltak eller én gruppe (fysisk helse, livsstil, muskel- og skjelett), ikke ordning for oppfølging av sykmeldte. (innsnevring 9.11.2026)
-- OK   6 utelatt W4390646513 «Supporting employers and their employees with mental hEalth conditions» (2024) – Behandlings- eller arbeidsplasstiltak for psykisk helse, livsstil eller velvære, ikke ordning for krav og oppfølging i sykefraværet. (innsnevring 9.11.2026)
-- OK   6 utelatt W2165770662 «Predictive values and other quality criteria of the German version of » (2014) – Prognose-, forekomst- eller kostnadsstudie, ikke effekt av krav eller oppfølging på fravær eller retur.
-- OK   6 utelatt W2499467685 «Worker Absenteeism Under Voluntary and Compulsory Sickness Insurance: » (2005) – Annet tema: sykepengenivå, økonomiske insentiver eller moral hazard, ikke krav og oppfølging av sykmeldte.
-- OK   6 utelatt W2623606584 «Effectiveness of Workplace Interventions for Depression in Asia: A Met» (2017) – Behandlings- eller arbeidsplasstiltak for psykisk helse, livsstil eller velvære, ikke ordning for krav og oppfølging i sykefraværet. (innsnevring 9.11.2026)
-- OK   6 utelatt W4405706197 «A Rapid Systematic Review Assessing the Effectiveness of Interventions» (2024) – Smalt tiltak for egenhåndtering eller klinisk støtte, ikke bred oversikt over krav og oppfølging (innsnevring 9.11.2026).
-- OK   6 utelatt W2074576679 «Disability and employment: lessons from natural policy experiments» (2010) – Naturlige eksperimenter i uføretrygd, ikke sykefraværsoppfølging.
-- OK   6 utelatt W4387563427 «Factors associated with return-to-work outcomes in inpatient rehabilit» (2023) – Smal oversikt om rehabilitering i én sektor eller institusjonsform (innsnevring 9.11.2026).
-- OK   6 utelatt W2950108415 «The Incentive Effects of Sickness Absence Compensation – Analysis of a» (2019) – Annet tema: sykepengenivå, økonomiske insentiver eller moral hazard, ikke krav og oppfølging av sykmeldte.
-- OK   6 utelatt W4408238934 «Wellbeing and job satisfaction among employees with intellectual disab» (2025) – Behandlings- eller arbeidsplasstiltak for psykisk helse, livsstil eller velvære, ikke ordning for krav og oppfølging i sykefraværet. (innsnevring 9.11.2026)
-- OK   6 utelatt W4412356997 «Barriers and facilitators impacting the implementation of digital inte» (2025) – Metode-, teori- eller bakgrunnskilde uten utfall i mandatet.
-- OK   6 utelatt W261808577 «Early Interventions for “At Risk” Patients with Spinal Pain» (2006) – Smal oversikt eller enkeltstudie om én diagnose, ett tiltak eller én gruppe (fysisk helse, livsstil, muskel- og skjelett), ikke ordning for oppfølging av sykmeldte. (innsnevring 9.11.2026)
-- OK   6 utelatt W4410755766 «The facilitators, barriers, and perceived benefits of the web-based Me» (2025) – Metode-, teori- eller bakgrunnskilde uten utfall i mandatet.
-- OK   6 utelatt W4414067480 «Medical certification in sickness benefit scheme (II): practical appro» (2025) – Om metoder for å vurdere arbeidsuførhet i legeerklæringer, uten effektmål.
-- OK   6 utelatt W4414305769 «General practitioners’ involvement in inpatient medical rehabilitation» (2025) – Smal oversikt om rehabilitering i én sektor eller institusjonsform (innsnevring 9.11.2026).
-- OK   6 utelatt W7138943842 «Informing a Workplace Self-Management Intervention for Employees with » (2026) – Smalt tiltak for egenhåndtering eller klinisk støtte, ikke bred oversikt over krav og oppfølging (innsnevring 9.11.2026).
-- OK   6 utelatt W7161630275 «An exploration into the role of the line manager in supporting workpla» (2026) – Behandlings- eller arbeidsplasstiltak for psykisk helse, livsstil eller velvære, ikke ordning for krav og oppfølging i sykefraværet. (innsnevring 9.11.2026)
-- OK   6 utelatt W4415847701 «Occupational vulnerability profiles in the Polish workforce: a narrati» (2025) – Prognose-, forekomst- eller kostnadsstudie, ikke effekt av krav eller oppfølging på fravær eller retur.
-- OK   6 utelatt W7223114909 «Identifying Vocational Rehabilitation Interventions and Their Behaviou» (2026) – Smal oversikt eller enkeltstudie om én diagnose, ett tiltak eller én gruppe (fysisk helse, livsstil, muskel- og skjelett), ikke ordning for oppfølging av sykmeldte. (innsnevring 9.11.2026)
-- OK   6 utelatt W635525588 «Återgång i arbete efter sjukskrivning för rörelseorganens sjukdomar oc» (2010) – Samme rapport som W1503015117, som er med i utvalget.
-- OK   6 utelatt W4289525304 «Returning to work and the impact of post COVID-19 condition: A systema» (2022) – Smal oversikt eller enkeltstudie om én diagnose, ett tiltak eller én gruppe (fysisk helse, livsstil, muskel- og skjelett), ikke ordning for oppfølging av sykmeldte. (innsnevring 9.11.2026)
-- OK   6 utelatt W2581061813 «Systematic Review of Occupational Therapy and Adult Cancer Rehabilitat» (2017) – Smal oversikt eller enkeltstudie om én diagnose, ett tiltak eller én gruppe (fysisk helse, livsstil, muskel- og skjelett), ikke ordning for oppfølging av sykmeldte. (innsnevring 9.11.2026)
-- OK   6 utelatt W3026272999 «PCN64 IMPACT OF ROBOTIC-ASSISTED SURGERY ON TIME TO RETURN TO WORK IN » (2020) – Smal oversikt eller enkeltstudie om én diagnose, ett tiltak eller én gruppe (fysisk helse, livsstil, muskel- og skjelett), ikke ordning for oppfølging av sykmeldte. (innsnevring 9.11.2026)
-- OK   6 utelatt W4255487217 «Faculty Opinions recommendation of Systematic Review of Occupational T» (2017) – Metode-, teori- eller bakgrunnskilde uten utfall i mandatet.
-- OK   6 utelatt W3124756840 «The effects of a sick pay reform on absence and on health-related outc» (2010) – Annet tema: sykepengenivå, økonomiske insentiver eller moral hazard, ikke krav og oppfølging av sykmeldte.
-- OK   6 utelatt W2004877180 «A Method for Minimizing the Impact of Distributional Assumptions in Ec» (1984) – Utgitt før 2000, mandatet krever publisert fra 2000.
-- OK   6 utelatt W2069757101 «The Nonparametric Identification of Treatment Effects in Duration Mode» (2003) – Metode-, teori- eller bakgrunnskilde uten utfall i mandatet.
-- OK   6 utelatt W2121407100 «The Growth in the Social Security Disability Rolls: A Fiscal Crisis Un» (2006) – Annet tema: sykepengenivå, økonomiske insentiver eller moral hazard, ikke krav og oppfølging av sykmeldte.
-- OK   6 utelatt W2151416414 «The anatomy of absenteeism» (2010) – Annet tema: sykepengenivå, økonomiske insentiver eller moral hazard, ikke krav og oppfølging av sykmeldte.
-- OK   6 utelatt W2124758339 «Econometric Analysis of Cross Section and Panel Data» (2001) – Metode-, teori- eller bakgrunnskilde uten utfall i mandatet.
-- OK   6 utelatt W2170921686 «What Makes an Entrepreneur?» (1998) – Utgitt før 2000, mandatet krever publisert fra 2000.
-- OK   6 utelatt W1711424507 «The Economics of Self-Employment and Entrepreneurship» (2004) – Metode-, teori- eller bakgrunnskilde uten utfall i mandatet.
-- OK   6 utelatt W2046300211 «Type of employment, work–family conflict and well‐being: a comparative» (2001) – Annet tema: prekære eller fleksible ansettelser og helse, ikke oppfølging av sykmeldte.
-- OK   6 utelatt W3122089893 «The Effect of Unemployment Insurance Sanctions on the Transition Rate » (2005) – Annet tema: sykepengenivå, økonomiske insentiver eller moral hazard, ikke krav og oppfølging av sykmeldte.
-- OK   6 utelatt W2111583974 «What Works and for Whom: A Review of OECD Countries' Experiences with » (2002) – Annet tema: arbeidsledighet eller generell arbeidsmarkedspolitikk, ikke oppfølging av sykmeldte.
-- OK   6 utelatt W2169015557 «The Effect of Employment Protection on Worker Effort: Absenteeism duri» (2005) – Annet tema: sykepengenivå, økonomiske insentiver eller moral hazard, ikke krav og oppfølging av sykmeldte.
-- OK   6 utelatt W1970361948 «Long-Term Effects of Class Size *» (2012) – Metode-, teori- eller bakgrunnskilde uten utfall i mandatet.
-- OK   6 utelatt W2101769799 «The Wage and Employment Effects of the Americans with Disabilities Act» (2000) – Annet tema: uføretrygd, uførepolitikk eller generell yrkesdeltakelse, ikke krav og oppfølging i sykefraværet.
-- OK   6 utelatt W4309368146 «The Role of Mental Health on Workplace Productivity: A Critical Review» (2022) – Behandlings- eller arbeidsplasstiltak for psykisk helse, livsstil eller velvære, ikke ordning for krav og oppfølging i sykefraværet. (innsnevring 9.11.2026)
-- OK   6 utelatt W2106358002 «When Strong Ties are Strong: Networks and Youth Labour Market Entry» (2014) – Metode-, teori- eller bakgrunnskilde uten utfall i mandatet.
-- OK   6 utelatt W1520618467 «The Effectiveness of European Active Labor Market Policy» (2006) – Annet tema: arbeidsledighet eller generell arbeidsmarkedspolitikk, ikke oppfølging av sykmeldte.
-- OK   6 utelatt W2007121861 «Long-Term Intergenerational Persistence of Human Capital» (2015) – Metode-, teori- eller bakgrunnskilde uten utfall i mandatet.
-- OK   6 utelatt W2008603000 «Worker Absenteeism: An Analysis Using Microdata» (1991) – Utgitt før 2000, mandatet krever publisert fra 2000.
-- OK   6 utelatt W1976952884 «Time Use of the Self‐Employed» (2007) – Metode-, teori- eller bakgrunnskilde uten utfall i mandatet.
-- OK   6 utelatt W2100045333 «Instrumental Variable Estimation of the Causal Effect of Hunger Early » (2015) – Metode-, teori- eller bakgrunnskilde uten utfall i mandatet.
-- OK   6 utelatt W1874026758 «The Headmaster Ritual: The Importance of Management for School Outcome» (2015) – Metode-, teori- eller bakgrunnskilde uten utfall i mandatet.
-- OK   6 utelatt W1867846268 «DURATION DEPENDENCE VERSUS UNOBSERVED HETEROGENEITY IN TREATMENT EFFEC» (2012) – Annet tema: arbeidsmarkedsopplæring for arbeidsledige.
-- OK   6 utelatt W2113053271 «Income inequality and health: Lessons from a refugee residential assig» (2012) – Annet tema: helse, ulikhet eller yrkesdeltakelse generelt, ikke oppfølging av sykmeldte.
-- OK   6 utelatt W1559509762 «Absence from Work of the Self‐Employed: A Comparison with Paid Employe» (2014) – Bakgrunn om årsaker til, måling av eller mønstre i sykefravær, ikke effekt av krav eller oppfølging.
-- OK   6 utelatt W3121447508 «Is Welfare Dependency Inherited? Estimating Causal Welfare Transmissio» (2015) – Metode-, teori- eller bakgrunnskilde uten utfall i mandatet.
-- OK   6 utelatt W2098963500 «Workfare for the old and long-term unemployed» (2013) – Annet tema: arbeidsledighet eller generell arbeidsmarkedspolitikk, ikke oppfølging av sykmeldte.
-- OK   6 utelatt W3198970057 «Studieresultat för studenter med barn» (2011) – Metode-, teori- eller bakgrunnskilde uten utfall i mandatet.
-- OK   6 utelatt W3182974352 «Sociala kontakter och ungdomars inträde på arbetsmarknaden» (2011) – Metode-, teori- eller bakgrunnskilde uten utfall i mandatet.
-- OK   6 utelatt W3185920310 «Inkomster och fattigdom hos före detta socialbidragstagare» (2011) – Metode-, teori- eller bakgrunnskilde uten utfall i mandatet.
-- OK   6 utelatt W1514767137 «The relationship between psychosocial work factors, employee health an» (2012) – Behandlings- eller arbeidsplasstiltak for psykisk helse, livsstil eller velvære, ikke ordning for krav og oppfølging i sykefraværet. (innsnevring 9.11.2026)
-- OK   6 utelatt W2144706987 «A systematic review of workplace health promotion interventions for in» (2013) – Smal oversikt eller enkeltstudie om én diagnose, ett tiltak eller én gruppe (fysisk helse, livsstil, muskel- og skjelett), ikke ordning for oppfølging av sykmeldte. (innsnevring 9.11.2026)
-- OK   6 utelatt W1575495899 «Interventions for prevention of bullying in the workplace» (2017) – Oversikt om arbeidsmiljø- eller velværetiltak, ikke krav og oppfølging i sykefraværet; utfall er ikke fravær eller retur (innsnevring 9.11.2026).
-- OK   6 utelatt W2318601114 «Has the participation of older employees in the workforce increased? S» (2016) – Annet tema: helse, ulikhet eller yrkesdeltakelse generelt, ikke oppfølging av sykmeldte.
-- OK   6 utelatt W3207281050 «Decades of workplace health promotion research: marginal gains or a br» (2021) – Behandlings- eller arbeidsplasstiltak for psykisk helse, livsstil eller velvære, ikke ordning for krav og oppfølging i sykefraværet. (innsnevring 9.11.2026)
-- OK   6 utelatt W3130988709 «Can Working Conditions and Employees’ Mental Health Be Improved via Jo» (2021) – Behandlings- eller arbeidsplasstiltak for psykisk helse, livsstil eller velvære, ikke ordning for krav og oppfølging i sykefraværet. (innsnevring 9.11.2026)
-- OK   6 utelatt W1536661632 «Improving return-to-work strategies in the United States disability pr» (1999) – Utgitt før 2000, mandatet krever publisert fra 2000.
-- OK   6 utelatt W2157400554 «Organizing integrated care in a university hospital: application of a » (2014) – Annet tema: integrert helsetjeneste eller helsepolitikk, ikke oppfølging av sykmeldte.
-- OK   6 utelatt W4391657702 «Effectiveness of the Coordinated Return to Work model after orthopaedi» (2024) – Koordinert retur etter ortopedisk kirurgi, én pasientgruppe (innsnevring 9.11.2026).
-- OK   6 utelatt W4289783517 «Developing A Conceptual Framework for Early Intervention Vocational Re» (2022) – Smal oversikt eller enkeltstudie om én diagnose, ett tiltak eller én gruppe (fysisk helse, livsstil, muskel- og skjelett), ikke ordning for oppfølging av sykmeldte. (innsnevring 9.11.2026)
-- OK   6 utelatt W7165547590 «Workplace interventions for chronic musculoskeletal disorders: a syste» (2026) – Smal oversikt eller enkeltstudie om én diagnose, ett tiltak eller én gruppe (fysisk helse, livsstil, muskel- og skjelett), ikke ordning for oppfølging av sykmeldte. (innsnevring 9.11.2026)
 - OK   9 kort-svar-blind.md finnes
 - OK   9 innholdskontroll har raden «kort svar»
-- OK   9 blind lesing 019c24177f74-d0e4c927-93d4-4477-a70a-3ef207a9fbf4 i budskap.tsv
 - OK   9 blind lesing AV-2014-3-01 i budskap.tsv
 - OK   9 blind lesing AV-2015-3-04 i budskap.tsv
 - OK   9 blind lesing AV-2017-1-04 i budskap.tsv
-- OK   9 blind lesing AV-2017-1-06 i budskap.tsv
-- OK   9 blind lesing AV-2022-2-04 i budskap.tsv
-- OK   9 blind lesing KU-b5503dbe-4b5c-41a1-959b-1e07a266a10e i budskap.tsv
-- OK   9 blind lesing KU-f0bb3e0c-c725-4cbe-a245-b333d1b74da8 i budskap.tsv
-- OK   9 blind lesing LI-8t04flg46fv9pj3t i budskap.tsv
-- OK   9 blind lesing R-5e8ea23282 i budskap.tsv
-- OK   9 blind lesing R-ca4ebdc6a8 i budskap.tsv
-- OK   9 blind lesing W2012190243 i budskap.tsv
-- OK   9 blind lesing W2068839152 i budskap.tsv
-- OK   9 blind lesing W2076808106 i budskap.tsv
-- OK   9 blind lesing W2087092263 i budskap.tsv
+- OK   9 blind lesing W2412604146 i budskap.tsv
 - OK   9 blind lesing W2796572035 i budskap.tsv
+- OK   9 blind lesing W3010213937 i budskap.tsv
+- OK   9 blind lesing W3098021798 i budskap.tsv
 - OK   9 blind lesing W3121578847 i budskap.tsv
-- OK   9 blind lesing W3125553714 i budskap.tsv
-- OK   9 blind lesing W3162733289 i budskap.tsv
-- OK   9 blind lesing W3170545082 i budskap.tsv
-- OK   9 blind lesing W4214640429 i budskap.tsv
-- OK   9 blind lesing W4224227694 i budskap.tsv
+- OK   9 blind lesing W3170959179 i budskap.tsv
+- OK   9 blind lesing W3198402854 i budskap.tsv
+- OK   9 blind lesing W4229447182 i budskap.tsv
 - OK   9 blind lesing W4404867325 i budskap.tsv
-- OK   9 blind lesing W4410772602 i budskap.tsv
