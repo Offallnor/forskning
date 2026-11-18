@@ -1066,3 +1066,28 @@ W1530625327  # F, land ikke oppgitt (England i sammendraget), tiltak 2, evalueri
 W4408207678  # F, GB, tiltak 2, to kvalitative studier (livshistorier) av hva BTEC National Diploma betydde for arbeid og karriere, også for voksne; ingen effektmål
 W7145609248  # F, land ikke oppgitt (Sverige i tittelen), tiltak 4, bare tittel (universitetsutdanning for yrkesaktive i Sverige)
 W2166833369  # F, land ikke oppgitt (svensk kilde), tiltak 4, avhandling om validiteten i realkompetansevurdering i høyere utdanning; gjennomgang og empiri, ingen effektmål
+
+# Fra de blinde utvalgene (18.11.2026): kategori 1–3 som manglet i første utvalg og svarer på spørsmålet slik kriteriene avgrenser det.
+W2072287290  # 1, GB, tiltak 1, systematisk oversikt og metaanalyse av randomiserte forsøk med lese- og regneopplæring for voksne 1980–2002; få gode forsøk; begge blinde
+W2226242137  # 1, GB, tiltak 1, gjennomgang av kontrollerte forsøk om lese- og regneopplæring for voksne; svært få kvantitative studier; delvis samme oversikter som W2072287290
+W2993128097  # 1, GB, tiltak 1, gjennomgang av evidensen om lese- og regneprogrammer for voksne; programmene ser ofte ikke ut til å bedre ferdighetene; begge blinde
+W4387845975  # 1, US, tiltak 1/2, metaanalyse av 79 studier av undervisning i fengsel (grunnleggende, videregående, yrkesfag, høyere); økt sysselsetting og lønn; begge blinde
+W4415689128  # 1, flere land, tiltak 2, metaanalyse av 39 studier med kausalt design av formell yrkesopplæring; 4,8 prosentpoeng sysselsetting, ingen lønnseffekt
+W2287243528  # 1, SE, tiltak 1/2, kunnskapsoversikt om kortutdannede og voksenopplæring; tvil: design i studiene ikke beskrevet
+W4245421203  # 1, OECD, tiltak 3, oversikt over finansiering av voksnes læring (læringskontoer, kuponger, avgiftsordninger), rettet mot lavt kvalifiserte
+W1481178249  # 1, GB/US/FR, tiltak 3, oversikt over erfaringer med individuelle læringskontoer
+W2631481029  # 1, US, tiltak 4, gjennomgang av evidensen om «stackable credentials»; sertifikater gir beskjedne positive inntektsgevinster
+W235307137  # 1, OECD, tiltak 5, oversikt over eksperimentelle og kvasieksperimentelle evalueringer av omskolering for ledige voksne
+W2147187334  # 2, US, tiltak 1, NEWWS: effekten av voksenopplæring i grunnleggende ferdigheter i velferd-til-arbeid-programmer; randomisert; bare tittel; begge blinde
+W2286125338  # 2, US, tiltak 3, eksperiment med tre måter å gi individuelle opplæringskontoer (ITA); opplæring, sysselsetting og inntekt; begge blinde
+W1581809000  # 2, CH, tiltak 3, felteksperiment med opplæringskupong: nesten 20 prosent økt deltakelse, over 60 prosent dødvekt; begge blinde
+W3008317037  # 2, CH, tiltak 3, randomisert felteksperiment med fire typer opplæringskuponger; effekt på deltakelse; bare tittel
+W2964699350  # 2, CH, tiltak 3, arbeidsnotatversjon av forsøket med fire typer kuponger; samme materiale som W3008317037
+W3126048250  # 2, land ikke oppgitt, tiltak 3, randomisert felteksperiment om informasjon om ny opplæringskupong og deltakelse; bare tittel
+W4300351390  # 2, tiltak 3, versjon av W3126048250; samme materiale som W3126048250
+W7222919930  # 2, US, tiltak 2, eksperiment med tekstmeldinger fra veileder i en voksenvideregående skole; bare tittel
+W90080886  # 2, US, tiltak 3, Sectoral Employment Impact Study: randomisert evaluering av bransjerettet opplæring for lavinntektsvoksne; bare tittel; tvil: overlapp med tiltak 5
+W2092242085  # 3, DK, tiltak 2, subsidiert lærlingordning for voksne 1997, forskjell-i-forskjell; positiv effekt på deltakelse i yrkesfag blant lavt utdannede menn
+W2269959578  # 3, GB, tiltak 3, Employer Training Pilots, forskjell-i-forskjell; ingen sikker effekt på kvalifiserende opplæring for lavt kvalifiserte ansatte
+W4385563255  # 3, SE, tiltak 2, utvidelse av komvux: sterkere utvidelse fulgte større frafall fra kurs (ressurser og medelever)
+W1517838787  # 3, US, tiltak 2, variasjon i GED-krav mellom delstater som naturlig eksperiment; GED øker inntekt for unge uten fullført skole med 10–19 prosent; tvil: unge, ikke 25+

@@ -1,0 +1,850 @@
+id	kategori	land	tiltak	samme_materiale	begrunnelse
+W2790400590	1	US	5		Campbell-oversikt over randomiserte evalueringer av arbeidsprogrammer med yrkesopplæring for sosialhjelpsmottakere; små positive effekter på sysselsetting og inntekt.
+W2106519551	1	FR,GB,SE,US	5		Oversikt over aktive arbeidsmarkedstiltak inkludert opplæring, med vekt på randomiserte forsøk og kost-nytte.
+W1805206376	1	DE,US	5		Metaanalyse av 97 evalueringer; opplæringsprogrammer har positive effekter på mellomlang sikt, ofte ikke på kort sikt.
+W171095229	1		5		Oversikt over effekten av aktive tiltak i OECD-land, inkludert offentlig finansiert opplæring og kompetanseprogrammer.
+W4299440922	1		5	W1805206376	Samme metaanalyse (199 estimater fra 97 studier) som arbeidsnotat.
+W82406113	1	DK	5		Campbell-oversikt over 73 studier av tiltaksdeltakelse for dagpengemottakere; liten effekt på sysselsetting, også etter tiltakstype.
+W4206031054	1	DE,US	5	W1805206376	Samme metaanalyse (199 estimater fra 97 studier) som rapport.
+W2120167541	1	US	5		Metaanalyse av 31 evalueringer av offentlig finansiert opplæring; inntektseffekter størst for kvinner, klasseromsopplæring virket, grunnleggende utdanning ikke.
+W2010796133	1	GB	1		Systematisk oversikt over kontrollerte forsøk med lese- og regneopplæring for voksne; blandede effekter, svak metodisk kvalitet.
+W4408632418	1	AR,US	5		Metaanalyse av 102 randomiserte forsøk med aktive tiltak; yrkesopplæring gir signifikant positiv effekt.
+W2072287290	1	GB	1		Systematisk oversikt og metaanalyse av randomiserte forsøk med lese- og regneopplæring for voksne, 1980–2002; få gode forsøk.
+W2956924494	1	DK,NO	5	W82406113	Protokoll til samme Campbell-oversikt om tiltaksdeltakelse for dagpengemottakere.
+W3118879220	1	US	5		Systematisk oversikt over amerikanske programmer med høyere utdanning og yrkesopplæring for lavinntektsgrupper, med inntekt etter programmet.
+W2226242137	1		1	W2072287290	Samlet NRDC-gjennomgang av kontrollerte forsøk om lese- og regneopplæring for voksne (Skills for Life); bygger på samme oversikter.
+W2181778068	1	US	5	W1805206376	Samme metaanalyse av aktive arbeidsmarkedstiltak, preprint-versjon.
+W3048668746	3	GB,NO	2		Norske registerdata og reformer som åpnet videregående for voksne over 25; mer fullført utdanning, høyere inntekt og sysselsetting for kvinner.
+W4246013926	3	DE,GB,NO	2	W3048668746	bare tittel
+W3135281890	3	DE,GB,NO	2	W3048668746	bare tittel
+W7212010487	1		5		Oversikt og metaanalyse av 56 randomiserte forsøk med subsidiert jobbopplæring; sysselsetting opp 1,7 prosentpoeng år 3–5.
+0198cc767fdf-541c9b97-5ed5-4e91-8952-044da173b38a	F	NO	1	KU-987322de-4460-411e-a3f8-aefc52fc892a	bare tittel
+0198cc7830b5-c86531aa-deaf-49a1-ab10-af1fc9e5677c	F	NO	3		Statusnotat i evaluering av tilskudd til fleksible videreutdanningstilbud og program for fleksible utdanninger.
+KU-784b36d7-47e5-48cd-8087-7b6f6abef8cf	F	NO	1	KU-987322de-4460-411e-a3f8-aefc52fc892a	bare tittel
+KU-987322de-4460-411e-a3f8-aefc52fc892a	F	NO	1		Sluttrapport fra følgeevaluering av forsøk med forberedende voksenopplæring; mål om varig tilknytning til arbeidslivet.
+W2009749193	4	SE	2		Kunskapslyftet: arbeidsledige 25–55 år i allmenn voksenutdanning mot yrkesrettet arbeidsmarkedsopplæring; faste effekter på registerdata, svakere inntektseffekt av allmennutdanning.
+W2433767964	1		1		Litteraturgjennomgang av hva som virker i opplæring i lese- og grunnleggende ferdigheter på arbeidsplassen i flere OECD-land.
+W3124851438	3	CL	3		Opplæringskupong for arbeidstakere i Chile; forskjell-i-forskjell og instrument; samlet negativ effekt på sysselsetting og inntekt, positiv for kvinner.
+W2993249185	F	NO	1		NIFUs evaluering av utprøving av fagopplæring i Kompetansepluss arbeid mot fagbrev gjennom praksiskandidatordningen.
+W4287702017	3		2	W3048668746	Samme studie: reformer som åpnet videregående for voksne over 25; høyere inntekt og sysselsetting for kvinner.
+W7165978732	2		1		Programrapport for randomiserte forsøk i Multiply-programmet for regneferdigheter hos voksne; syntese av forsøkene.
+W7166001415	2		1		Randomisert forsøk med brev til Multiply-deltakere; ingen signifikant effekt på å starte kvalifiserende mattekurs innen sju måneder.
+W7165978600	F		1		Prosessevaluering av innbakt matematikk i helse- og omsorgsopplæring for voksne, uten effektmål.
+W7165974130	2		1		Klyngerandomisert pilotforsøk med forberedelse til GCSE i matematikk for voksne, med effekt- og prosessevaluering.
+W7165983153	2		1		bare tittel
+W7165983023	2		1		Klyngerandomisert pilotforsøk med familieregning for voksne, med effektfunn og prosessevaluering.
+W7165980724	2	GB	1		Klyngerandomisert pilotforsøk med tilpasset mestringsmetode i regning for voksne, med effekt- og prosessevaluering.
+W2954406255	3		3		bare tittel
+W1483553715	1	DE	5		bare tittel
+W3084314794	2	US	1		Loddtrekning til offentlig engelskopplæring for voksne innvandrere i Massachusetts; deltakelse øker årsinntekten med 2 400 dollar (56 prosent).
+W1904907886	1	GB	4		Litteraturgjennomgang av økonomiske og sosiale gevinster av deltidsstudier på bachelornivå i Storbritannia; konkluderer med betydelige gevinster.
+W4387845975	1	US	1		Metaanalyse av 79 studier av fengselsundervisning (grunnleggende, videregående, yrkesfag, høyere); økt sysselsetting og lønn etter løslatelse.
+W1536032509	3	US	4		Skattefradrag for høyere utdanning og collegedeltakelse blant voksne i 30- og 40-årene; instrumentvariabel med faste effekter, ingen effekt på fullført grad.
+W4415348134	3	BE	3		Subsidier til opplæring i flamske småbedrifter; forskjell-i-forskjell viser økt sysselsetting, lønn (1,95 prosent) og produktivitet.
+W7163640309	4	US	3		Ikke-studiepoenggivende yrkesopplæring ved community colleges i Virginia; individuelle faste effekter, bransjesertifikat øker kvartalsinntekten med 818 dollar.
+W2109268950	3	CA	4		Utdanningsprogram for kanadiske krigsveteraner; Quebec som kontrollgruppe gir instrumentestimater av avkastning på utdanning og inntekt.
+W2097422506	2	CH,DE	3		bare tittel
+W2972989200	3	DE	1		Arbeidsrettet språkopplæring for arbeidsledige innvandrere i Tyskland; instrumentvariabel, sysselsettingen økte over ni prosentpoeng etter to år.
+W1599229608	3	DE,IE,US	2		Avkastning av GED-sertifisering for frafalte; diskontinuitet viser ingen effekt for kvinner, kortvarig inntektsøkning for menn, økt videre utdanning.
+W1964861379	5	AU,SE	2		Registerstudie av lavt utdannede voksne i Sverige over 12 år; fullført videregående som voksen gir sterke direkte og langsiktige lønnseffekter.
+W1963973901	1	US	5	W2120167541	Metaanalyse av 31 evalueringer av 15 offentlig finansierte opplæringsprogrammer; eksperimentelle og ikke-eksperimentelle evalueringer gir like konklusjoner.
+W2982898106	3	US	4		Diskontinuitet i statlig studiestøtte for ikke-tradisjonelle studenter; ingen effekt på fullført grad, sysselsetting eller inntekt.
+W2980961775	F		1		Casestudier av lese-, skrive- og regnekurs finansiert av Workplace Literacy Fund; hva som fremmer overføring av ferdigheter til jobben.
+W2264199326	1		5		Systematisk gjennomgang for EU-kommisjonen av effekten av aktive arbeidsmarkedstiltak i europeiske land, med kvantitativ sammenstilling.
+W2592065467	3	IE,US	2	W1599229608	Diskontinuitet i GED-sertifisering; økt sannsynlighet for videre utdanning, beskjedne studiepoengeffekter.
+W4412462021	5	CH,DE	3		Arbeidsrettet etter- og videreutdanning i Sveits; matchet forskjell-i-forskjell på registerdata viser høyere årsinntekt og lavere arbeidsledighetsrisiko.
+W3008112640	4	NO	2		Norske registerdata; fagbrev som voksen via lærlingordning eller praksiskandidat øker inntekten, kontroll for uobservert heterogenitet i nivå og vekst.
+W2705969478	4		4		Gjennomgang av avkastning av kortere collegeutdanning i åtte delstater; associate-grad gir 4 640–7 160 dollar mer per år.
+W1808823289	4	SE	4		Høyere yrkesutdanning i Sverige; instrumentvariabler, faste effekter og matching gir 3–8 prosent høyere inntekt.
+W2611504698	1	NO	5	W82406113	Tidsskriftversjon av Campbell-oversikten om tiltaksdeltakelse for dagpengemottakere; liten effekt.
+W1965203923	1	DE	5		Metaanalyse av 33 studier av aktive tiltak for innvandrere i Europa, inkludert opplæring; bare lønnstilskudd anbefales sikkert.
+W4414511524	5	DK	3		Systematisk oversikt over 19 prospektive kohortstudier av kompetanseutvikling og arbeidsdeltakelse blant arbeidstakere over 35; svært lav evidenskvalitet.
+W2902868850	1	AT,DE,US	5	W1805206376	bare tittel
+W4206239023	1	AT,DE,US	5	W1805206376	bare tittel
+W1589300565	1		5		Systematisk gjennomgang av effekter av aktive tiltak i Tyskland, inkludert etter- og videreutdanning for arbeidssøkere.
+W1494356298	2	CH	3		bare tittel
+W3113495147	2	US	3		Randomiserte evalueringer av bransjerettede opplæringsprogrammer for lavtlønte; vedvarende inntektsgevinster på 11–40 prosent.
+W3204004427	3	DE,GB,NO	2	W3048668746	bare tittel
+W1599012407	4	SE	2		Komvux i Sverige; forskjell-i-forskjell på registerdata, ett års studiepoeng gir 10,6 prosent høyere inntekt for menn, blandet for kvinner.
+W4411098014	4	DK	3	W4412115963	Samme studie av voksenyrkesopplæring og yrkesskifte ved utflagging, dynamisk forskjell-i-forskjell.
+W4302969421	1	FR,GB,SE,US	5	W2106519551	Samme oversikt over aktive arbeidsmarkedstiltak, preprint-versjon.
+W4412115963	4	DK	3		Danske arbeidstakere i industri med voksenyrkesopplæring i forretningstjenester har 0,9–3,1 prosentpoeng høyere overgang til slike yrker.
+W4412113983	4	DK	3	W4412115963	Samme studie av voksenyrkesopplæring og yrkesskifte ved utflagging, dynamisk forskjell-i-forskjell.
+0198cc6222e6-ba416296-fb21-48cf-afec-5b743a6bd59d	F	NO	3	019914435a36-ef1ce0f1-f887-4c8f-ba69-62885618a22d	Underveisrapport fra evalueringen av Kompetanseutviklingsprogrammet (KUP) som del av Kompetansereformen.
+019914435a36-ef1ce0f1-f887-4c8f-ba69-62885618a22d	F	NO	3		Underveisrapport fra evalueringen av Kompetanseutviklingsprogrammet (KUP); spredningsstrategi og prøveprosjekter for finansiering av livsopphold.
+01a0d32fde92-8c47535c-7f48-4232-9608-4133fca81d69	F	NO	2		Sluttrapport fra NIFUs følgeevaluering av tilrettelagt fag- og yrkesopplæring for voksne innvandrere.
+0198cc778568-7d651780-d766-4c70-a2d1-1e039f73a9d6	F	NO	2		Evaluering av realkompetansedelen av Kompetansereforma i Sogn og Fjordane; vellykket organisering, for lite informasjon.
+01991443c098-57033d9e-dbaa-4108-9a55-87e766736cdd	F	NO	3	019914435a36-ef1ce0f1-f887-4c8f-ba69-62885618a22d	Underveisrapport 2002 fra evalueringen av Kompetanseutviklingsprogrammet (KUP); programmet i hovedsak på rett kurs.
+KU-723f2255-203e-4b8b-8a8e-82a928ec02a4	F	NO	2		Evaluering av forsøkene med modulstrukturert opplæring for voksne: forberedende voksenopplæring, modulstrukturert fag- og yrkesopplæring og kombinasjonsforsøket.
+KU-823090e4-5020-4dfc-bcb4-f37e3664f45e	F	NO	2		Følgeevaluering av forsøk med videregående opplæring for arbeidssøkere og Fagbrev på jobb for ufaglærte i helse og barnehage.
+W2121379746	1	GB	3		Sammenligner opplæringsavgift for arbeidsgivere i Frankrike med britisk politikk; omfang og avkastning av voksenopplæring fra en rekke økonometriske studier.
+W2044605349	3	EC,NL	3		bare tittel
+W2129897411	4	DE,EE,US	3		Subsidiert opplæring for eldre arbeidstakere i Tyskland; dynamisk matching på registerdata, 2,5 prosentpoeng høyere sannsynlighet for å bli i arbeid.
+W46982379	5		2		bare tittel
+W2163378463	4	SE	2	W1599012407	Gymnasial komvux for kohorten født 1970; fungerer som forberedelse til høyere studier, yrkesrettet utdanning anbefales for dem som ikke studerer videre.
+W3170065112	4	SE	2		Langsiktige inntektseffekter av komvux; deltakelse gir 3,5 prosent lavere inntekt for menn, ingen effekt for kvinner, ni prosent økning for innvandrerkvinner.
+W1559098196	F		1		Evaluering av 18 programmer for lese-, skrive- og regneopplæring på arbeidsplassen i New Zealand; identifiserer kjennetegn ved de mest vellykkede.
+W2026651182	5	AU,SE	2		Participation in second chance education raised work income of non-Nordics more than Nordics; OLS on Swedish income data 1992-2003.
+W1591106506	1		1		bare tittel
+W4290607714	4	US	3		IV marginal treatment effects: occupational credentials raise employment probability, mainly women; higher wage returns in sub-baccalaureate labor market.
+W4388104419	4	US	3		Entrance exam IV: acceptance to tech certificate and apprenticeship program increased earnings and STEM employment.
+W2779095838	1	TR	5		Meta-analysis of 77 studies of active labour market policies including vocational training; both positive and negative effects found.
+W2529329558	5	US	3		Stackable credentials for low-skilled adult workers in community colleges; many short-term credentials had limited labour market value.
+W2971512676	5	NO	2		Norwegian registers, cohorts 1973-77: adult upper secondary qualifications, especially experience-based route, reduce social gradient in attainment by age 40.
+W2571371008	5	DK	3		bare tittel
+W2102503005	5		3		Systematic review of evidence whether skill development activities for the mature-aged lead to improved employment opportunities and productivity.
+W2971706435	1	US	1		Review emphasising quasi-experimental and experimental research on approaches helping adult literacy students transition to postsecondary education.
+W2134218086	3		3		Exogenous variation in Italian regional training subsidies: training incentives increased training and reduced retirement among men aged 45-56.
+W2129009808	F		2		Evaluative research on Portugal's New Opportunities Initiative for accreditation of prior learning, monitored by an international expert group.
+W3146211123	2	DE,NL	3		Randomized brochures on subsidized WeGebAU training: awareness doubled, no take-up effect, short-term labour market outcomes unaffected.
+W4289330501	2		3	W3146211123	Experimental brochure mailing on WeGebAU: no effect on take-up or short-run labour market outcomes in register data.
+W2978919928	2	DE,GB	3	W3146211123	RCT information treatment on subsidized in-company training for older workers; outcomes employment probability and wages from register data.
+W3089031969	1		3		bare tittel
+W2922484708	1	CA	3		bare tittel
+W1569864583	1		1		Review of a decade of research on economic, personal and social returns to adult literacy and numeracy learning, assessing evidence quality.
+W1567691273	4		2		Swedish Adult Education Initiative versus labour market training: IV and matching; lower unemployment incidence, negative earnings effects relative to LMT.
+W2481921129	F		4		Mapping of the 2001 reform allowing admission to universities and colleges based on prior learning (realkompetanse).
+W1517838787	3	US	2		Interstate variation in GED passing standards as natural experiment: GED raises earnings of young white dropouts 10-19 percent.
+W564684827	1		5		Systematic review of 12 studies: impact of learning on employment outcomes for low-qualified adults out of work or at risk.
+W3124553479	1	DE	5		bare tittel
+W3122410011	4		4		Canadian administrative data, difference-in-difference: post-secondary education after job loss raised earnings almost $7,000 more over nine years.
+W235307137	1		5		Review of experimental and quasi-experimental evaluations of retraining schemes for unemployed adults in OECD countries.
+W1487097408	3	US	2		Difference-in-differences using Texas 1997 GED passing standard increase; no evidence of positive GED signalling effect on earnings.
+W1511776989	3	DE,US	2	W1487097408	bare tittel
+W2185214595	3	IL	2		Critique: inter-state variation in GED passing standards difference-in-difference overstates GED effect on dropouts labour market outcomes.
+W2948471737	3	US	2		bare tittel
+W3146199955	3	IE,US	2		Fuzzy regression discontinuity: GED raises postsecondary attendance substantially, modest credit gains; effects on awards inconclusive.
+W4391854887	2	US	4		RCT of college coaching for about 8,000 former students who left without a degree; no impact on re-enrollment.
+W2903463676	F		3		Study of Norway's Competence Reform from secondary material and interviews; little impact on low-qualified workers.
+W169181168	F		3		Interim evaluation of Kompetanseutviklingsprogrammet (KUP) under Kompetansereformen; largely on track, weaker on stimulating demand side.
+W3090832067	1	DK	5		Campbell protocol: systematic review of causal effects of interventions on employment, cash assistance and income for non-Western unemployed immigrants.
+W2184201471	5		3		Thesis on wage returns to training and adult education in Finland, estimated in a life cycle earnings model.
+W2980755373	3		4		Regression discontinuity on state aid for non-traditional students: no impact on employment or earnings.
+W3134367623	3	AU,CH,GB	3		bare tittel
+W2795300603	3		3	W3134367623	Difference-in-differences: Victoria reform broadening VET subsidies raised participation among ages 25-54 and improved match with labour demand.
+W2771339852	1		1		Systematic knowledge overview of effects of competence-raising measures for lasting labour market attachment of adult immigrants.
+W4415014960	3	US	3		Difference-in-discontinuity and DiD: Virginia's workforce-targeted free college program raised certificate completion 5.1-6.6 percentage points.
+W7167042688	5	HR	3		Systematic review of EU studies 2010-2024 on lifelong learning and older workers' employability, exit and earnings; mixed results.
+W2908262949	1		5		Review of UK and US evaluations of training programmes for the unemployed; training sometimes helped participants into paid work.
+W2811390556	2		3		Swiss randomized voucher experiment: no average effects on earnings, employment, education after one year; crowds out firm-financed training.
+W1683883188	2		3	W2811390556	Randomized adult education vouchers: no significant average labor market effects for compliers, substantial heterogeneity.
+W2168442205	2	CH,DE	3	W2811390556	bare tittel
+W3124086739	2	CH,DE	3	W2811390556	bare tittel
+W242614391	2		3	W2811390556	bare tittel
+W3123135221	2		3	W2811390556	Swiss voucher experiment: no significant average effects on earnings, employment, subsequent education one year after treatment.
+W4298272431	2		3	W2811390556	Swiss voucher experiment: no significant average effects on earnings, employment, subsequent education one year after treatment.
+W3204228173	4		4		Swedish registers, DiD propensity score matching: university after adult education raised earnings and employment probability.
+W2945518912	4		2		Swedish registers, difference-in-difference: Komvux enrollment after 1992 job loss gave negative long-term net wage benefit.
+W7139391198	2		1		Cluster RCT within Multiply adult numeracy programme: whole family maths courses and parents' progression to further maths provision.
+W4414784495	F		3		OECD analysis of Greece's Jobs Again reform of adult vocational training with individual learning accounts and outcome-linked funding.
+W3045002584	F	DE,FR	3		Review of France's CPF individual learning account: design, use in practice, reach to under-represented groups and training quality.
+W3084284122	F		3	W3045002584	Same CPF paper: design before and after 2018 reform, use in practice, strengths and weaknesses.
+W4412204416	5	DK	3		Overview of evidence-based knowledge produced in Denmark 2008-2009 on adult and continuing education.
+W4412236139	5	DK	3		bare tittel
+0198cc58485d-d03bfa83-b52b-4ce5-9809-a5394b7a5c43	F	NO	3		Final evaluation of strategy for continuing education in PP-tjenesten: uptake, provider structure and possible effects.
+0198cc7eaea3-208e1cb1-19d8-4aee-a0b6-e8557e419060	F	NO	3	0198cc58485d-d03bfa83-b52b-4ce5-9809-a5394b7a5c43	First interim report from evaluation of strategy for continuing education in PP-tjenesten.
+0198cc8cf62f-70957a9d-6a90-4e38-bdc2-59d56097116a	4	NO	3		Register data linked to Lærevilkårsmonitoren, before and after courses or further education: effects on income, labour market attachment, occupational status.
+0198cc84b63a-32b1d2e2-e80e-457d-adaa-a1347b2523de	4	NO	1		bare tittel
+0198cc5bd308-ad6b3333-8ae2-4f8c-b6e6-dc969e98fa26	F	NO	2		Report discussing adult education in the new health worker trade, a field long dominated by adult recruitment.
+0198cc633288-17eba427-338a-4bfa-8745-045dade3de5a	F	NO	2		bare tittel
+0198cc71bad8-e62da286-3ec4-42b5-b805-7efaf773e91e	F	NO	2		Evaluation of Nordland county's online-supported upper secondary education for adults (Den Åpne Skolen) and local study centres.
+0198cc712a03-25ab12eb-e4b2-4344-a672-d4708c764a29	F	NO	1		bare tittel
+0198cc80eceb-b745bc4a-9987-4190-90ec-22cdd34c298d	F	NO	1		bare tittel
+0198cc70fde2-52eef7cf-a134-40ea-bd16-35af5b79a462	F	NO	3		bare tittel
+0198cc903db6-7bc44436-a93b-472d-b67d-d7dfc30c7e5e	F	NO	2		Final report on prior learning assessment in municipalities for unskilled workers, how employees use it, and other positive effects.
+0198cc6b2eee-ca5ea187-406c-4646-b2c5-4f29d0d930dd	F	NO	2	0198cc903db6-7bc44436-a93b-472d-b67d-d7dfc30c7e5e	bare tittel
+0198cc873611-301a9eb6-ab73-4e7e-b19a-9094f1efe555	F	NO	2		Study of Norway's system for prior learning assessment: literature review, usage statistics, case studies, survey of upper secondary applicants.
+0198cc86e4b0-4bbec523-3abc-4fa2-9ba6-d740822d87e6	F	NO	2	0198cc873611-301a9eb6-ab73-4e7e-b19a-9094f1efe555	Seven case studies on use, obstacles and benefits of prior learning assessment at several education levels.
+0198cc599713-60cee4d1-952b-44d3-843d-0d2d1f0ffd79	F	NO	3		Final evaluation of grants for flexible continuing education offers and programme for flexible education: whether schemes worked as intended.
+01993e05413d-1c34631c-cb38-41f7-999b-2593f32522f4	5	NO	3		Mapping of lifelong learning and employability of workers over 55 in Norway; quantitative analysis and case study.
+0198cc3f8251-65e157f1-0f3c-4710-85b3-891befbc26b5	5	NO	3	01993e05413d-1c34631c-cb38-41f7-999b-2593f32522f4	bare tittel
+KU-52f9b245-ce41-4be0-8c56-454a785e1bdd	F	NO	2		bare tittel
+KU-5e18c3fe-afac-46ef-bf79-6adc32f1501d	F	NO	3	KU-a2a2fd75-db12-4dc4-8f86-d8e1bf1defba	bare tittel
+KU-6bfe85dd-4829-4ede-adcd-80d265b2dc45	F	NO	3	KU-a2a2fd75-db12-4dc4-8f86-d8e1bf1defba	bare tittel
+KU-a2a2fd75-db12-4dc4-8f86-d8e1bf1defba	F	NO	3		Evaluering av SEVU-PPT: innretning, oppslutning, tilbudsstruktur og mulige virkninger; søknadsdata, casestudier, kompetansekartlegging
+KU-a2a2fd80-7d35-41f2-b34b-44defe52e3d6	F	NO	3	KU-a2a2fd75-db12-4dc4-8f86-d8e1bf1defba	Delrapport fra evalueringen av SEVU-PPT: dokumentstudier, deltakerdata og casestudier om kompetanseutvikling og tilbudsstruktur
+KU-ac567098-428d-4316-a17e-de8d7c81fd2e	F	NO	3		Evaluerer treparts bransjeprogram for kompetanseutvikling med intervjuer, dokumentanalyser og survey blant deltakere
+KU-ce8a38c6-f9e1-4057-9c40-ea5a6290b815	F	NO	3		Kartlegging og evaluering av etter- og videreutdanningstilbudet innen offentlig planlegging, kart og geodata
+KU-d743eeab-7d72-4acf-8657-7957f3ddf705	F	NO	1		Følgeevaluering av Program for basiskompetanse i arbeidslivet (BKA) med dokumentstudier, intervjuer og spørreundersøkelse
+KU-a1c292dc-abba-473c-8675-5f2afce83721	F	NO	3		Oversikt over resultater i treparts bransjeprogram 2022–2025: opplæringstilbud, omfang og deltakelse fra egenrapportering
+KU-3f5a90bf-7350-48a9-a572-9bdbf20a3911	4	NO	1		bare tittel
+KU-a2a2fd8e-0e58-45be-a828-35b0960fd2e8	5	NO	2		Kartlegger voksne i grunnskole og videregående: fullføring og utbytte for videre studier og arbeidsmarkedstilknytning, registre og intervjuer
+LI-8858350	4	SE	2		bare tittel
+LI-6hhbbrv14sw2rwbp	4	SE	2		bare tittel
+LI-12281569	4	SE	2		bare tittel
+LI-5gh846hg3xbxvk0j	4	SE	2	LI-6hhbbrv14sw2rwbp	bare tittel
+LI-3080912	5	SE	2		bare tittel
+LI-3311632	F	SE	2		bare tittel
+LI-11798583	F	SE	2		bare tittel
+LI-vd36mplwstzl5l7q	4	SE	2		bare tittel
+LI-wfm7v4sctf8hs6dl	4	SE	2	LI-vd36mplwstzl5l7q	bare tittel
+LI-8242640	5	SE	2		bare tittel
+LI-3098634	F	SE	2		bare tittel
+LI-12590478	F	SE	2		bare tittel
+LI-3113918	5	SE	2		bare tittel
+LI-9386845	5	SE	2		bare tittel
+LI-12022169	1	SE	5		bare tittel
+LI-4gj6bw8t2n3k1zrl	4	SE	2	LI-6hhbbrv14sw2rwbp	bare tittel
+LI-1krh9p7jzqvpxmqp	F	SE	3		bare tittel
+LI-l58vnzvhjj113rt9	F	SE	3		bare tittel
+W7139974435	4	US	2		DiD: GED eller yrkessertifikat under soning øker kvartalsinntekt etter løslatelse, sammenlignet med påmeldte uten fullført kvalifikasjon
+W2992272483	5		2		Arbeidsmarkedsresultater etter sen studiekompetanse i Zweiter Bildungsweg etter alder ved fullføring
+W7160028630	1		5		bare tittel
+W7225262742	4	US	3		Effekter av workforce training programs på inntekt med skatteregistre og maskinlæring, validert mot 37 randomiserte forsøk
+W52891427	5	SE	4		bare tittel
+W1743677111	3	DE,GB,NL,SE,US	2		bare tittel
+W2911366100	4	NO	4		Registerdata fra SSB: formell utdanning etter 40 år gir betydelig effekt på senere yrkesdeltakelse
+W2142454277	4	SE	4		bare tittel
+W2139135321	4	DE,SE	2		Ledige 1997 kunne velge generell videregående (komvux) eller yrkesrettet AMU; registerdata 1990–2010 om langsiktig inntekt
+W2013270147	4	SE	2		bare tittel
+W2914642225	4	NO	1-4		Gjennomgang av nyere litteratur siden 2010 om sysselsettingsutfall av voksnes læring
+W4409963010	3	DK,US	4		Kvasitilfeldige arbeidsulykker i Danmark: høyere utdanning flytter skadde fra uføreytelser til heltidsarbeid, 25 prosent høyere inntekt
+W2059718772	4	SE	2		bare tittel
+W1954929411	4	FI,SE	4		Forskjell-i-forskjell med matching i registerdata: formell utdanning ved 42–55 år gir positive inntektseffekter for kvinner, ikke menn
+W2967288216	4	DE,FI,IE	4		Faste effekter på matchet utvalg i Finland: yrkesrettet master gir over sju prosent høyere inntekt fem år etter
+W2016616469	5	FI,IT	4		Ny formell kvalifikasjon som voksen og sannsynlighet for ikke-prekært arbeid, longitudinelle data fra Spania, Storbritannia og Russland
+W3039902369	5	FI	4		bare tittel
+W2134005616	5	DK	3		Etter- og videreutdanning for voksne og arbeidsledighet, gjeninntreden og yrkesmobilitet i Tyskland, Danmark og Storbritannia (ECHP)
+W1489479542	4	DE,SE	4		bare tittel
+W2164976890	4	SE	4		Registerdata 1982–2010: høyere utdanning ved 42–55 år øker yrkesdeltakelse ved 61–66 år med om lag 5 prosentpoeng
+W97585030	5	FI	4		bare tittel
+W2044685238	4	SE	2		Kunskapslyftet for ledige sammenlignet med AMU: lavere ledighetsinsidens, men lengre ledighetsvarighet, med korreksjon for seleksjon
+W1973332390	4	SE	4		bare tittel
+W3123066122	5	FI	4		Retrospektiv longitudinell survey (N=1025) om karriereløp for voksne med finsk UAS-master
+W2795578003	5	DK	4		bare tittel
+W2052588568	F	GB	3		Casestudie av Individual Learning Accounts i Storbritannia: praktiske, filosofiske og etiske sider ved gjennomføringen
+W2136269032	5		1		Oversikt over forskning om voksnes tallforståelse: årsaker og virkninger av svak tallforståelse, undervisning og læring
+W4394920273	F	DE,IN	3		Casestudier av individuelle læringskontoer i Danmark og Frankrike som virkemiddel mot Matteus-effekten
+W104926790	5		1		bare tittel
+W1504995026	F	US	1		Evaluering av workplace literacy-initiativ i Indiana: etterspørsel etter høyere utdanning, mange besto ikke digital sertifisering
+W2064669053	F	GB	3		bare tittel
+W251997527	F	GB	3		Survey av brukere av Individual Learning Accounts: trakk inn nye deltakere, noe offentlig finansiering erstattet privat
+W2897969768	2	US	3		Effekter på inntekt fra et randomisert forsøk med opplæringsvouchere, målt med survey og administrative data
+W1718381914	4	CL	3		Matching og forskjell-i-forskjell: opplæringsvoucher Bono Trabajador Activo i Chile gir 3,2 prosent høyere inntekt
+W2944619817	5		3		bare tittel
+W2245744787	5	CA	4		Bare tittel: selvvurdert avkastning av voksenopplæring blant utdanningsmessig vanskeligstilte.
+W7117480952	5	ES	2		Syntese av 68 studier av andresjanseutdanning i Vest-Europa; målte utfall inkluderer sysselsettbarhet; etterlyser flere longitudinelle og kvantitative studier.
+W2567390264	F	NL	3		Bare tittel: individuelle læringskontoer i Nederland som strategi for livslang læring.
+W2558145054	1	CH	5		Oversikt over utdanningskuponger for ledige: lengre ledighet først, deretter bedre langsiktige sysselsettings- og inntektsmuligheter.
+W3094946421	1	CA	3		Protokoll for Campbell-kart over evidens om ferdighetsutvikling og opplæring for voksne i høyinntektsland.
+W1582975199	1	SE	5		Bare tittel: lærdommer fra svenske erfaringer med aktiv arbeidsmarkedspolitikk.
+W4298866695	1	AT,BE,DE,FR,NO,SE,US	5	W3021959460	Metaanalyse av over 200 studier av arbeidsmarkedstiltak; større gevinster av humankapitaltiltak etter 2-3 år.
+W3124513617	1	DE,GB,NL,SE	5		Bare tittel: oversikt over effekter av arbeidsmarkedstiltak for kvinner i Europa.
+W1518746948	1		5		Eksperter gjennomgår offentlig finansiert opplæring for vanskeligstilte, sosialhjelpsmottakere og oppsagte; lengre ferdighetsprogrammer gir oftere effekt.
+W1515378232	F	SE	2		Bare tittel: Kunskapslyftet som måte å organisere fornyelse av voksenopplæringen.
+W1602690094	F	GB	2		Bare tittel: gjennomgang av yrkesfaglige kvalifikasjoner for voksne i England.
+W3121476952	4	DE	3		WeGebAU-opplæring for sysselsatte over 45 år, dynamisk matching på registerdata: 1,0-2,5 prosentpoeng høyere sannsynlighet for å forbli sysselsatt.
+W45633306	5		1		Bare tittel: evaluering av tre modellprogrammer for lese- og skriveopplæring på arbeidsplassen.
+W2118188388	2	CA	1		UPSKILL: randomisert forsøk med opplæring i grunnleggende ferdigheter på arbeidsplassen, 1500 arbeidere; store positive effekter på ferdigheter og jobbutførelse.
+W2903208926	F	GB	2		Kvalitativ studie av NVQ for lavere stillinger i helsesektoren; rapporterte gevinster i ferdigheter, lønn og karriere.
+W3123215369	F	SE	2		Beskriver svensk komvux for lavt kvalifiserte, funksjonsmåte og resultater med tall, som lærdom for Tyskland.
+W2804031940	1		3		Kritisk gjennomgang av oversikter og studier av opplæring; offentlig finansierte ordninger; jobbrelatert opplæring gir lønn, praksisplass gir sysselsetting.
+W2165848520	5	DE,US	1		Evaluering av statsfinansiert arbeidsplassprogram i Indiana; survey av 1800 deltakere, læringsgevinster og inntektshistorikk analysert kvantitativt.
+W2474859323	5		4		Arkivdata 2001-2011 om universitetsbaserte forberedende programmer i Australia: gjennomføring, overgang til grad og kostnader.
+W1594191265	F		3		Telefonsurvey av brukere av individuelle læringskontoer i England: profil, markedsføring, prosess og tilfredshet.
+W3096054147	4		4		Koblet arbeidskraftundersøkelse og registerdata i New Zealand: tertiær utdanning gir 1-3 prosentpoeng sysselsetting og 5-12 prosent inntekt.
+W255487560	1		5		Bare tittel: policynotat om omskolering av oppsagte arbeidstakere.
+W7218183306	1	SE	2		Kortfattet oversikt over samfunnsøkonomiske evalueringer av komvux, særlig svenske studier av deltakere på slutten av 1990-tallet.
+W118298274	5	SE	2		Kunnskapsløftet: nettoinntekt 2001 sammenlignet med deltakere i arbeidsmarkedsopplæring og arbeidsledige; ingen gevinst mot arbeidsmarkedsopplæring.
+W3088362019	4	IT,PT	2		Realkompetansevurdering i Portugal (RVCC, Novas Oportunidades), DID-PSM: ikke-negative lønnseffekter, positive under Novas Oportunidades.
+W1579013045	F		3		Bare tittel: evaluering av individuelle læringskontoer.
+W2528338320	F		3	W1594191265	Tidlig evaluering av individuelle læringskontoer i England: brukere og ikke-brukere, prosess og kundetilfredshet.
+W2569529767	5		3		Bare tittel: effekten av individuelle læringskontoer for arbeidstakere med lav utdanning.
+W582299026	F	SE	2	W627138808	Bare tittel: Kunskapslyftet, et løft for hele sjelen.
+W4243037952	5	DE,US	1	W2165848520	Samme evaluering av statsfinansiert arbeidsplassprogram i Indiana; survey, læringsgevinster og inntektshistorikk.
+W327791284	5		1	W2165848520	Bare tittel: arbeidsnotat om statsfinansiert arbeidsplassprogram for lese- og skriveopplæring.
+W170563888	F		3		Bare tittel: tidlig og mulig effekt av individuelle læringskontoer på tilbydere og læring.
+W3128843297	1	SE	2		Bare tittel: underlagsrapport om voksenopplæring for arbeidsmarkedet.
+W2232259604	5		1		Arbeidsplassprogrammer i lesing og regning i New Zealand: 18 kursevalueringer og over 1000 intervjuer og tester; positive utfall.
+W3125548189	5	US	1	W2165848520	Bare tittel: samme evaluering av arbeidsplassprogram i Indiana.
+W4253633165	5	US	1	W2165848520	Samme evaluering av statsfinansiert arbeidsplassprogram i Indiana; survey av 1800 deltakere og inntektshistorikk.
+W4210604101	5		2		Bare tittel: positive effekter av andresjanseutdanning på unges karrierer.
+W2136189247	F	LU	2		Voksenlærlingordning i Luxembourg for yrkeskvalifikasjon: deltakertall øker, mest unge voksne 18-26 år.
+W3191603651	5		3		Bare tittel: informasjon, utdanningskuponger og voksnes læring.
+W2571003248	5		3		Bare tittel: effekten av individuelle læringskontoer for eldre arbeidstakere.
+W2977919539	F	GB	3		Tidlig evaluering av individuelle læringskontoer i de fire britiske landene: brukere, prosess, dødvekt og anbefalinger.
+W2899732187	F	US	3		Casestudier av individuelle opplæringskontoer under WIOA i to delstater, med oppsummering av en effektevaluering.
+W7112258927	4	AT	3		Østerriksk utdanningspermisjon, kontrafaktisk analyse på registerdata: høyere månedslønn, ingen økt sysselsetting; deltid gir kumulative inntektsgevinster.
+W7133379161	5	BE	3		Bare tittel: subsidiert opplæring, produktivitet og sysselsetting i Belgia.
+W1562662777	1	US	5	W1518746948	Bare tittel: senere utgave av Improving the Odds om offentlig finansiert opplæring.
+W581777795	F	SE	2		Bare tittel: Kunskapslyftet sett fra deltakerne.
+W762828508	F	SE	2		Bare tittel: Kunskapslyftet i Härnösands kommune.
+W1514556193	4	SE	2		Kunskapslyftet for ledige mot arbeidsmarkedsopplæring; seleksjon på uobserverbare håndtert: lavere ledighetsinsidens, men lengre ledighetsvarighet.
+W592854531	F	SE	2		Bare tittel: evaluering av Kunskapslyftet, delrapport 2.
+W630767388	F	SE	2		Bare tittel: kursdeltakernes erfaringer ett år etter Kunskapslyftet i seks kommuner.
+W627138808	F	SE	2		Bare tittel: evaluering av Kunskapslyftets effekter, den innkjøpte virksomheten.
+W7112583660	F	SE	2		Bare tittel: lokal evaluering av Kunskapslyftet i Kristianstad kommune.
+W1498311455	F	SE	2		Bare tittel: evaluerende studie av fleksibel voksenopplæring i samarbeid med næringslivet (Gagnefsmodellen).
+W2602135087	5	DK	3		Bare tittel: registerbasert bransjeanalyse; etterutdanning reduserer arbeidsledighetsrisiko i nordjysk industri 1980-2004.
+W3021959460	1	AT,US	5		Metaanalyse av over 200 studier av arbeidsmarkedstiltak; større gevinster av humankapitaltiltak 2-3 år etter avslutning.
+W2128492593	1	IE	5		Gjennomgang av OECD-forskning om aktiveringspolitikk og effekter av arbeidsmarkedstiltak på sysselsetting og ledighet.
+W1998551547	4	US	4		Oversikt over økonomiske gevinster av å gå på community college; inntektsgevinster og metodeutfordringer.
+W2010586812	1	DE	5		bare tittel
+W4405019671	1	AT,DE,IT,US	5		bare tittel
+W2495947150	1	CH,DE,GB,US	3		bare tittel
+W2080573397	1	GB	5		review of international evidence on training interventions in ALMP; targeted programmes may raise employment of workless groups
+W2150191139	1	DE,US	5		reviewing evidence on ALMPs including human capital enhancement; overview of how and when programmes are effective
+W2803699076	1	NL	5		meta-analysis of 57 experimental and quasi-experimental studies; training programmes positive from 6 to 36 months
+W2187818770	1	DE	5		assesses evaluations of further vocational training in German ALMP; employment effects more positive, long measures pay off later
+W1484534434	1	DE	5		Überblick der Evaluation der aktiven Arbeitsmarktpolitik in Deutschland; meist keine signifikant positiven Beschäftigungseffekte
+W2119626280	1	DE,US	5		review and formal assessment of European evaluation studies; training and job search assistance can be effective
+W1923607888	1		5		survey of active labor market policy effects for women in Europe
+W3191403998	1		5	W1923607888	översikt av effekter av aktiv arbetsmarknadspolitik för kvinnor, inkl. vidareutbildningsprogram, på inkomster och sysselsättning
+W2289046588	1		5		considers what evaluations tell about relative performance of active labour market policies
+W4240227827	1	DE	5		bare tittel
+W2500723268	1		5		training-related ALMPs reduce unemployment risk and increase employability and earnings of unskilled workers
+W1878400386	1	US	5		reviews evidence on effectiveness of publicly financed training, emphasizing experimental evaluations
+W1550516742	1	US	5		bare tittel
+W1981654732	1	DE	5		fasst empirische Evidenz zu geförderter Weiterbildung zusammen; Mehrzahl der Studien findet verbesserte Arbeitsmarktchancen
+W1489797966	1	DE	5		review of available empirical evaluation studies of ALMP in Germany, incl. further vocational training
+W2112371456	1	US	5		bare tittel
+W1505725973	4	US	1		I-BEST integrated basic skills and occupational training; positive educational impacts, no impact on wages or hours
+W1594628169	5	US	1		outcomes of I-BEST for adult basic skills students entering postsecondary occupational training
+W1578571317	5	US	1	W1594628169	multivariate analysis comparing educational outcomes of I-BEST students with other basic skills students
+W2157913279	F	GB	1		longitudinal study of 53 workplaces with subsidised basic skills courses; small literacy gains, no lasting legacy
+W3021881606	4	US	2		GED associated with higher earnings at 27 for male dropouts with weak cognitive skills
+W2490248604	4	US	2		estimates economic benefits of GED certification; controlling for ability, male GED recipients similar to dropouts
+W2061076093	5	US	2		bare tittel
+W2069316046	3	US	2		variation from differential state GED passing standards; GED signal raises earnings of young white dropouts 10-19 percent
+W3125308700	4	US	2		correcting for allocation and ability bias, no direct economic return to GED certification
+W2066749882	5	US	2		differences in income and other outcomes between dropouts, GED recipients and graduates, controlling for background
+W3122874379	5	US	2		bare tittel
+W2747641275	4	US	2		bare tittel
+W2153726324	4	GB	2		longitudinal data on acquisition of formal qualifications in adult life and whether they increase earnings
+W3129401828	5	GB	2		government funded apprenticeships; wage returns 16-18 percent, higher than NVQs and other vocational qualifications
+W2127003946	F	GB	2		evaluates British NVQ system and its capacity to increase skill levels; argues NVQs ill-equipped
+W1487685819	F		2		OECD country practices for recognition of non-formal and informal learning
+W2029875957	F		2		bare tittel
+W2527241467	5	GB	2		further education as second chance; returns to further qualifications in upward class career mobility
+W2760148764	5	GB	2		review of research on how further education, apprenticeships and adult education help people get better jobs and wages
+W2300279195	4	US	4		Kentucky administrative data, panel models; associate degrees and diplomas raise quarterly earnings; certificates smaller
+W2160988077	4	US	4		Washington State, individual fixed effects; associate degree or long-term certificate associated with increased wages
+W1481961120	4	US	3		certificates positive impacts on earnings in two states; adult learners use certificates to switch industry
+W2141281463	4	US	3		bare tittel
+W1594824370	4	US	3		California community colleges, individual fixed effects; returns to CTE certificates and degrees 14 to 45 percent
+W1481041166	5	US	3		analyzes earnings of certificate holders by field, sex, program length
+W137137301	5	US	3		adults 25+ with at most high school; a year of college plus credential boosts earnings
+W4385273592	4	US	3		review of literature on sub-baccalaureate CTE; significant labour-market returns to short technical credentials
+W2023379380	4	US	4		bare tittel
+W1488717233	4	US	4	W2023379380	training choices of displaced workers and measures of program performance
+W1512757635	4	US	3		net impacts of workforce programs incl. community colleges and adult basic education in Washington, Virginia, Indiana
+W2762956538	5		3		bare tittel
+W2281563127	5	DE	3		bare tittel
+W2236052081	5	DE,IT	3		bare tittel
+W1977059450	5	GB	4		rate of return to mature male graduates just above one per cent; women five to six per cent
+W1965137018	5	GB	4	W1977059450	occupational attainment of mature graduates compared with early graduates; similar after about 15 years
+W3124577441	3	US	4		between-cohort differences in military service; net effect of service and G.I. benefits on collegiate attainment substantial
+W291522659	5		4		bare tittel
+W2086428056	F		4		analysis of policies to increase adult participation in HE in seven countries incl. DK, SE; desk research and case studies
+W2095098481	5	GB	2,4		bare tittel
+W3022110263	5		2		bare tittel
+W3183572068	4	ES,IT,NL	3		MOOC-deltakelse, forskjell-i-forskjell mot senere deltakere; bedre jobbbevaring, ikke lønn.
+W7162750308	1	US	3,4		Syntese av empirisk litteratur om effekter av offentlig og privat arbeidskraftutvikling, community colleges, sektoropplæring og lærlinger.
+W2145358353	4	US	2		Oversikt over forskning om økonomisk nytte av GED; gevinster bare for dem med svake ferdigheter, kommer over tid.
+W1969526777	F	GB	1		Intervjuer ved åtte steder om effekten av Skills for Life og andre politikkvirkemidler på grunnleggende ferdigheter på arbeidsplassen.
+W3192274521	4	DE,US	4		Oversikt over avkastning av gradsgivende voksenutdanning: andre sjanse eller Matteus-effekt, sammenlignende livsløpsperspektiv.
+W1558948530	3	NL	3		Skattefradrag for opplæring av ansatte over 40; diskontinuitet; lønnseffekt av opplæring ikke signifikant.
+W2563335828	5		2		bare tittel
+W4226435571	5	US	3		bare tittel
+W1496779077	5	GB	1		Bok om britisk forskning på lese- og skriveopplæring på arbeidsplassen og om opplæringen endrer sysselsettbarhet.
+W807861954	5		2,4		bare tittel
+W1612792884	5	PT	3		Deltakere i yrkesopplæring på Madeira; sysselsetting 1 måned til 2 år etter, egenvurdert effekt; lange program mest effektive.
+W2015773851	4	AU	4		HILDA 2001-2010: om ny kvalifikasjon etter 25 år gir høyere inntekt og yrkesstatus.
+W2087759043	1	GB	5		Gjennomgang av evidens for aktive tiltak; opplæringsprogram gir generelt ikke bedre resultater.
+W3004014332	2	US	4		Opptakslotteri til sykepleierutdanning ved community college; inntekt opp 44 prosent.
+W2036089346	1	DE	5		Gjennomgang av evalueringer: offentlig finansiert opplæring i Tyskland har ingen eller negativ effekt på gjensysselsetting.
+W172892593	F	SE	2		bare tittel
+W2106465281	2	US	2		Tilfeldig tildeling (NEWWS) av voksenopplæring for kvinner uten videregående; 8 prosentpoeng høyere sannsynlighet for grad.
+W2185581825	5		2		bare tittel
+W1988929717	5	GB	2,4		Kvalifikasjoner tatt som voksen øker sannsynligheten for overgang til arbeid for inaktive kvinner, forløpsanalyse.
+W1981922029	5	GB	2,4		Paneldata: liten lønnseffekt av livslang læring, men positive sysselsettingseffekter; grad gir lavt utdannede menn mer.
+W895177076	5		4		Bok om voksenlæring i ulike land, deltakelse og ferdigheter; kapittel om avkastning.
+W2146521510	4	GB	1		Litteraturgjennomgang: grunnleggende ferdighetsopplæring for voksne har svært liten eller ingen effekt på lønn og sysselsetting.
+W2032163888	5	US	4		bare tittel
+W2061734796	5	IT	3		Yrkesopplæring for lavt utdannede voksne og andre i Piemonte, sammenligningsgruppe; positiv effekt på sysselsettbarhet.
+W2064671945	5	US	2		bare tittel
+W2055762065	5	AU	4		Sammenligner avkastning for universitetsutdannede over 25 og yngre; sysselsetting og inntekt etter eksamen er lik.
+W2119402392	1	US	5		bare tittel
+W3125184650	1		5		bare tittel
+W4234178885	F		3		bare tittel
+W1818154544	4	US	4		Administrative data: ett år community college for fortrengte arbeidere over 35 øker inntekten 7-10 prosent.
+W3022388739	F	GB	1		Gjennomgang av Skills for Life-strategien: kostnader, deltakelse og måloppnåelse; begynner å øke ferdighetsnivå.
+W177442483	5	GB	2		LFS 1997-2006: lønns- og sysselsettingsavkastning av NVQ nivå 2 og 3, etter alder ved oppnåelse.
+W2016268840	5	US	4		Høyere utdanning for sosialhjelpsmottakere; fullført grad henger sammen med mindre tilbakefall til stønad.
+W244011270	5	SE	2,4		bare tittel
+W2244755279	5	ES	3,4		bare tittel
+W2495042006	1		5		bare tittel
+W46210782	F	SE	2		Etnografisk studie av omstrukturering og offentlige kostnader i voksenopplæringen i Göteborg etter Kunskapslyftet.
+W4393864659	5	US	3		bare tittel
+W2031590941	F	US	1		Feltstudie av gjennomføringen av I-BEST, som kombinerer grunnleggende ferdigheter og yrkesfag.
+W2030904015	5	GB	4		General Household Survey: yrkesoppnåelse for voksne uteksaminerte etter sosial bakgrunn.
+W2062597849	5	US	4		bare tittel
+W2171696204	5	US	2		bare tittel
+W3190501518	1	SE	5		Gjennomgang av hovedresultater fra internasjonal og svensk forskning om arbeidsmarkedspolitikken på 1990-tallet.
+W2794070803	4	DE	4		NEPS, propensity score: høyskolestudier for yrkesutdannede uten formell studiekompetanse; usikker langsiktig inntektsgevinst.
+W2883250861	5	US	3,4		bare tittel
+W2070110548	4	GB	1		Skills for Life: matchet sammenligning, forskjell-i-forskjell; bedre sysselsettbarhet, men ingen sysselsettingseffekt etter ett år.
+W2736835729	5	GB	3		bare tittel
+W2004594752	5	GB	4		Inntektsutvikling for Open University-uteksaminerte på deltid sammenlignet med nasjonale trender; relative gevinster.
+W4302873679	1		5	W3125184650	bare tittel
+W958804159	5	GB	2,4		bare tittel
+W2797860046	5	EE	2,4		bare tittel
+W3121273612	5	CA	4		SLID: menn som tok postsekundært sertifikat hos samme arbeidsgiver fikk høyere lønnsvekst enn de som ikke gjorde det.
+W2913809070	5	DE	2,4		bare tittel
+W1969103866	5	GB	4		Kull av britiske uteksaminerte 2006: voksne studenter fikk oftere betalt arbeid og høyere lønn.
+W2126806065	5	GB	4		Uteksaminerte 1995: karriere og sysselsetting etter alder ved eksamen, voksne studenter.
+W2019221935	F	AU	1		Pilot av lesekampanje i aboriginsk samfunn; 16 fullførte, de fleste videre til opplæring eller arbeid.
+W63293178	F		1		bare tittel
+W2182505399	5		1		bare tittel
+W1513564755	5		1		Studie av hvordan Skills for Life-strategien påvirket voksne deltakere i lese-, skrive- og regneopplæring, med statistiske data 2003–2006.
+W1037784266	F		1		bare tittel
+W2998187138	F	GB	1		bare tittel
+W2133073225	F		1	W2998187138	Sluttrapport fra evalueringen av den skotske strategien for voksnes lese- og regneferdigheter (ALN).
+W1988547523	5	US	1		Oppfølgingsstudie av lavt kvalifiserte voksne studenter i Washington, brukt til å endre statlig politikk.
+W2147187334	2	US	1		bare tittel
+W2973790692	F		1		Evaluering av Pathfinder Extension, nye kurs i grunnleggende ferdigheter for voksne; ikke-teknisk sammenfatning av funnene.
+W1592387247	F	DK	1		Undersøkelse av de nordiske landenes kompetansepolitiske strategier for livslang læring, særlig for kortutdannede; anbefalinger, ikke effektmål.
+W2062082782	5	US	2		Casestudier og administrative data: registrert lærlingordning i langtidspleie ga høyere produktivitet, lønn og karrieremuligheter.
+W2024050665	4	IE	2		NCDS: flere modeller for kausal effekt; ingen reell avkastning av kvalifikasjoner tatt i middels voksen alder for menn.
+W4390790584	F	SK	2		Analyse av skolebasert yrkesopplæring for voksne i Slovakia som andresjanseutdanning, ut fra statistikk og litteratur, uten effektmål.
+W2053004881	5	US	2		Community colleges rolle i GED og akademiske utfall for frafalne som tar programmet, eksempel fra Iowa.
+W2981876060	5		2		Andresjanse-VET for voksne over 25: andel offentlig finansierte elever, deltakelse og utfall; lav fullføring av kvalifikasjoner.
+W2047699208	4	US	2		Florida-registre: menn som besto GED fikk større inntektsvekst enn de som strøk, omkring 1400 dollar årlig etter seks år.
+W2157800600	5		2		Sen oppnåelse av kvalifikasjoner i Storbritannia: ingen lønnsgevinst av sen læring, men mulig bedre arbeidsmarkedsutfall.
+W1984545127	5	BE	2		bare tittel
+W2101681732	4		2		NCDS: effekt av kvalifikasjoner tatt mellom 33 og 42 år på lønn og sysselsetting, med kontroll for mange forhold.
+W2042115038	F	FI	2		Sammendraget er bare en referanse; tittelen gjelder statlig tiltak for deltakelse i voksenopplæring i Finland.
+W2167471005	4	SE	2		Registerdata for lavt utdannede søsken 24–43 år: ett år voksenopplæring øker inntekten med 3,9 prosent.
+W4294073684	4	SE	2		Propensity score matching: avkastning av formell voksenutdanning opptil 24 år etter start for 15 kull i Sverige.
+W2056933781	4	SE	2		Forskjell-i-forskjell på registerdata: ett år videregående voksenopplæring økte inntekten i 2002 med 6 prosent (menn) og 4,5 (kvinner).
+W1551402157	4	SE	2		Kunnskapsløftet for ledige 25–55 år sammenlignet med arbeidsmarkedsopplæring; matching og seleksjonsmodell, positiv effekt for enkelte grupper.
+W4378191605	4	SE	2		Fortrengte arbeidstakere i 1990-tallskrisen: generell voksenopplæring på videregående nivå ga stor økning i universitetsutdanning.
+W3146657275	4		2		Registrerte lærlingordninger i ti stater: deltakere hadde vesentlig høyere inntekt enn ikke-deltakere; nytten oversteg kostnadene.
+W1543723211	5		2		bare tittel
+W2171723407	5	DE,GB,NL,US	2		bare tittel
+W1773527604	5		3		PIAAC og SCF: sammenheng mellom deltakelse i voksenopplæring og sysselsetting, arbeidsdeltakelse, inntekt og formue for eldre voksne.
+W2110453986	5	US	3		Regresjon på trygdedata: samarbeid mellom voksenopplæring og partnere øker inntekten til deltakere i yrkesrettet opplæring.
+W4210288501	4	CH	3		Opplæringskuponger til kvinner som vender tilbake: store gevinster i sysselsetting og inntekt sammenlignet med tilfeldig valgt kontrollgruppe.
+W579842393	5		3		bare tittel
+W44112401	5	AU,DE	3		Bokkapittel om forutsetninger for og utfall av voksnes læring i Australia.
+W2181639995	1		3		Gjennomgang av fire tilnærminger, blant annet kompetanseutvikling, for å bedre jobbstabilitet og avansement blant lavtlønte foreldre.
+W4236592450	5		3		OECD-analyse av arbeidsmarkedsvirkninger av voksnes læring: gir opplæring bedre jobbutsikter, og ulikt for grupper?
+W4408613109	4	US	3		Gratis sertifikat- og lærlingprogram i koding: fullførte fikk kortere avstand hjem–jobb enn lignende ikke-opptatte søkere.
+W1489660797	5		3		bare tittel
+W2631481029	5		3		Stablebare kvalifikasjoner: sertifikater gir moderat inntektsgevinst, men ingen dokumentasjon for at stabling gir gevinst.
+W1580696121	5	US	3		Evaluering over to år av statlig subsidiert bedriftsintern opplæring i New Jersey (Workforce Development Partnership Program).
+W1993214516	4	CH	3		Effekt av tre typer etterutdanning på yrkesmobilitet oppover og nedover i Sveits, med håndtering av seleksjon.
+W4319960108	3	US	3		Innføring av nye program i Ohio: studenter med tilleggsprogram tok oftere flere kvalifikasjoner, uten lavere sysselsetting.
+W37438484	5	DK	3		bare tittel
+W4225726955	5	GB,SE	3		PIAAC Sverige, IPWRA: voksenopplæring henger sammen med høyere sannsynlighet for lønnet arbeid, drevet av ikke-formell jobbrelatert opplæring.
+W2169475144	5	DE,IE,US	4	W15953054	Betalingsvilje for Kentucky Community and Technical College System sammenlignet med privat inntektsgevinst fra to datasett.
+W2737611701	4		4	W3048727797	Administrative data: avkastning av community college-kvalifikasjoner fulgt lenger, gjennom finanskrisen.
+W2461629824	5		4		bare tittel
+W179398232	5	DE	4		Longitudinell analyse i fire land av formell voksenutdanning og sannsynligheten for å være sysselsatt.
+W3048727797	4	US	4		Ohio, individuelle faste effekter: avkastning av associate-grad vokser over elleve år; langt sertifikat flat.
+W15953054	5		4		Verdien av Kentucky Community and Technical College System for studenter: stor variasjon i forventet livsinntekt.
+W2591983110	5	AU	4		bare tittel
+W1549758497	5	ES,US	4		Open University of Catalonia: voksne i toårige andresyklusprogram fikk relativ inntektsgevinst, treårige førstesyklusprogram ikke.
+W2552070691	5		4		PIAAC: forskjeller i inntekt og arbeidsstatus mellom voksne som tok høyere utdanning etter normal alder og andre, på tvers av OECD.
+W1793405015	5	BE,ES,RU,US	4	W1549758497	Oppfølgingsundersøkelse: UOC-studenter fikk mindre prosentvis inntektsøkning enn lignende arbeidstakere i Spania.
+W2760734396	5	ES	4		AES Spania: logistiske regresjoner av formell e-læring og sysselsettingsstatus i 2007 og 2011.
+W1989910343	5	BE	4		Belgiske arbeidstakere: utdanningspermisjon har ingen signifikant lønnsvirkning, i motsetning til ledighet og familiepauser.
+W1971644190	5	US	4		bare tittel
+W2580552563	5	DK	4		bare tittel
+W2896295372	4	FI	4		Finsk voksenutdanningsstøtte: matching viser store effekter på utdanning og yrkesbytte, inntekt og sysselsetting nær null etter innlåsing.
+W2930047264	4	US	4		California community colleges, faste effekter: avkastning av yrkesfaglige sertifikater og grader på 14 til 45 prosent.
+W4361737153	1		5		Gjennomgang av amerikanske sysselsettings- og opplæringsprogram over 40 år og de viktigste funnene om effekt.
+W1866815259	1	US	5		bare tittel
+W3198832166	1	ES	5		Metaevaluering av 82 effekter av aktive tiltak for ledige over 50; effekt varierer etter tiltakstype.
+W1540130390	1		5		Gjennomgang av eksperimentelle og ikke-eksperimentelle studier av opplæring for fortrengte arbeidstakere; funnene er ikke oppmuntrende.
+W2260785424	1	AU	5		Gjennomgang av evidens for aktive arbeidsmarkedstiltak i Australia, supplert med internasjonal evidens.
+W3125938983	1		5		OECD-gjennomgang: arbeidsmarkedsopplæring virker for noen grupper, selv om effektene ikke er store.
+W2111583974	1	DE,FR	5	W3125938983	bare tittel
+W1520618467	1	DE	5		bare tittel
+W2145263991	1	US	5		Oversikt over internasjonale evalueringer av aktive tiltak og virkningen på sysselsetting og inntekt.
+W1849775659	1	AT,DE,US	5		bare tittel
+W2268271869	1		5		Stiliserte fakta og evidens om aktivering og aktive tiltak i OECD-land, hovedsakelig fra nyere OECD-forskning.
+W282727926	5		1		bare tittel
+W2246641176	4	GB	2		Kohortanalyse av arbeidsmarkedseffekter av voksenopplæring i Storbritannia; lønn og sysselsetting for lavt kvalifiserte.
+W3125246737	4	SE	2		Kunskapslyftet: effekter på sysselsetting og årsinntekt med faste effekter i populasjonsregistre.
+W1797719169	1	DE	3		Oversikt over subsidier og avgiftsordninger for opplæring, med sammendrag av evalueringsresultatene.
+W2921111786	1	GB,US	5		bare tittel
+W198342390	5	US	1		bare tittel
+W2610197408	5	FI	4		Avhandling om høyere yrkesrettede mastergrader (YAMK) på arbeidsmarkedet og arbeidsmarkedsgevinsten av graden.
+W1585062635	4	GB	2		Sysselsettingseffekter av livslang læring for en kohort britiske kvinner, blant annet kvinner som vender tilbake til arbeid.
+W1984396341	5	US	4		bare tittel
+W2767674949	4	US	4		bare tittel
+W2417897354	4	Europa	5		Oversikt over effekter av arbeidsmarkedstiltak, blant annet opplæring, på sysselsetting og inntekt for kvinner uten arbeid i Europa.
+W2120971053	4	SE	2		Registerdata på oppnådde studiepoeng i voksenopplæring på videregående nivå; avkastning 5-15 prosent per år.
+W1602834472	4	SE	2		Langsiktige inntektseffekter av voksenopplæring på videregående nivå; kontrollerer for inntekt før deltakelse.
+W2168820403	2	GB,IL,SE,US	1		bare tittel
+W2159627277	4	SE	2		Søskendata 1990-2004, trippel forskjell-i-forskjell, avkastning av formell voksenopplæring for lavt utdannede.
+W1574919135	4	SE	2		Oversikt over forskning om effekten av formell voksenopplæring i Sverige på grunnskole-, videregående og høyere nivå.
+W3123581366	4	DK	4		bare tittel
+W2970686911	4	DK,FI,NO,SE	2	W3197149185	bare tittel
+W3197149185	4	DK,FI,NO,SE	2		Sen fullføring av videregående før 28 år senker sannsynligheten for NEET i fire nordiske land; faste effekter.
+W4323518788	4	DK	4		bare tittel
+W2209962974	4	FI	4		bare tittel
+W3196327705	4	FI	4	W2209962974	bare tittel
+W4412938631	3	DK	4		Institusjonell variasjon i tilgang til høyere utdanning etter arbeidsulykker; inntektsgevinster og psykisk helse.
+W4412956006	3	DK	4	W4412938631	bare tittel
+W7131263828	3	DK	4	W4412938631	Data og kode: institusjonell variasjon i tilgang til høyere utdanning etter arbeidsulykker; inntekt og antidepressiva.
+W7131239012	3	DK	4	W4412938631	Data og kode: institusjonell variasjon i tilgang til høyere utdanning etter arbeidsulykker; inntekt og antidepressiva.
+W7137460018	4	GB	2		Paneldata (BHPS) for unge voksne uten videregående; ikke-formell læring gir høyere lønn, ikke sysselsetting.
+01991436404b-22a2f8e1-7794-446b-9d88-b31036b8161f	F	NO	3		Midtveisevaluering av Kompetanseutviklingsprogrammet i landbruket: iverksetting og resultater mot intensjonene.
+0198cc839893-0c3e4ce0-7a83-4da3-9e81-ecd34a07daf4	F	NO	3		Underveisevaluering av Kompetanseløftet 2015, også etter- og videreutdanning, med mikrodata fra Sysselsettingsregisteret.
+0198cc8f6a46-c62644bb-376f-4abe-929d-618348f49df0	F	NO	3		Underveisrapport fra evalueringen av Kompetanseutviklingsprogrammet (KUP) for etter- og videreutdanning.
+0198cc3e2ec0-a660d2f6-390b-439b-8923-c00839bb1bb0	F	NO	4		Kompletterende utdanning for flyktninger med utdanning utenfor EØS; intervjuer og spørreundersøkelser, flertallet i jobb.
+KU-44554c5a-c22f-4da9-8c64-4863bf5f655e	F	NO	4	0198cc3e2ec0-a660d2f6-390b-439b-8923-c00839bb1bb0	Samme evaluering av kompletterende utdanning ved OsloMet; intervjuer og spørreundersøkelser.
+0198efb3aebb-47314298-a2d0-4da5-8516-2fdce0ab25cc	F	NO	4		Studie av desentralisert sykepleierutdanning for voksne studenter ved Høgskolen i Gjøvik.
+0198cc478c9b-4f6e2e2c-f8eb-49ec-bd96-d28c67835bc1	5	NO	2		Voksne i grunnskole og videregående: fullføring og utbytte for videre studier og arbeidsmarkedstilknytning.
+KU-c4f1f8ca-690f-4306-a284-f933fdb091f3	5	NO	2	0198cc478c9b-4f6e2e2c-f8eb-49ec-bd96-d28c67835bc1	Kartlegging av voksne i grunnopplæringen 2004-09 og hva som skjer med dem som fullfører.
+01993890881c-6cdf8fa2-c825-4011-aeb6-c4bb3b3835ae	F	NO	2		Kartlegger voksne i grunnskoleopplæring og overgang til videregående og arbeid året etter.
+0198cc6b3467-06647fdf-19d4-45bd-99cb-0f9e4a0e01e5	F	NO	2		Sluttrapport om realkompetansevurdering og kompetanseutvikling for ufaglærte i kommuner.
+0198f5ec9d2a-1c63d812-99e1-4a31-8088-14dae799299d	F	NO	2	0198cc6b3467-06647fdf-19d4-45bd-99cb-0f9e4a0e01e5	Spørreundersøkelse blant 213 medarbeidere om realkompetansevurdering og kompetanseheving for ufaglærte i pleie og omsorg.
+0198cc6681d4-8d84519a-4c6c-45ca-9f01-caf468fc4a7e	F	NO	2	0198cc6b3467-06647fdf-19d4-45bd-99cb-0f9e4a0e01e5	Samme artikkel om realkompetansevurdering og kompetanseheving for ufaglærte i pleie og omsorg.
+0198ef245754-81663d4b-813d-4cf4-83bf-536698680e7a	F	NO	4		Evaluering av modulbasert deltids bachelor i vernepleie for ansatte i kommunene 2009-2013.
+0198cc5b31ae-03c97377-0163-4154-9b78-59809218aa64	F	NO	3		Følgeevaluering av Kompetanseløft 2020; kommunene prioriterer kursopplæring for ansatte.
+KU-01355c04-7c76-49f2-aa65-8a7350171e5f	F	NO	4		Kartlegging av realkompetansevurdering i høyere utdanning sju år etter innføringen.
+KU-503935fb-17b3-4294-9716-b399da40c96f	F	NO	1		Følgeevaluering av Program for basiskompetanse i arbeidslivet: dokumentstudier, intervjuer og spørreundersøkelse.
+KU-663afa2f-0b22-4e01-9030-1d4e321a0338	F	NO	1		Evaluering av Program for basiskompetanse; deltakere og arbeidsgivere vurderer opplæringen.
+KU-abfdcf77-33a1-4b6e-ac4c-4eb636fcb987	F	NO	3		Følgeevaluering av programmet Kompetansepiloter, sluttrapport med erfaringer.
+KU-f05c709c-f570-4fe9-aa52-5f87384f1629	F	NO	3	KU-abfdcf77-33a1-4b6e-ac4c-4eb636fcb987	Sluttrapport fra følgeevalueringen av tilskuddsordningen Kompetansepiloter 2020-2023.
+KU-7f22c67f-8bb1-4a19-8f79-1f5461ead025	F	NO	3		Hva hemmer og fremmer fylkenes kompetansetilbud for voksne; oversikt over virkemidler.
+AV-2023-1-02	4	NO	5		Oppsummering av norsk forskning om effekter av arbeidsmarkedstiltak på sysselsetting fra årtusenskiftet.
+NB-5063	4	NO	5	AV-2023-1-02	Samme oppsummering av effekter av arbeidsmarkedstiltak på sysselsetting.
+LI-zfnpkghxwnwfc1lw	F	SE	2		bare tittel
+LI-p4kqgxhgmnn933q9	F	SE	2	LI-zfnpkghxwnwfc1lw	bare tittel
+LI-mwsqf00gkm4grz0w	F	SE	3		bare tittel
+LI-1gfz0fg6z3v6v8pc	4	SE	2		bare tittel
+LI-dqd3dh9sbws6jg84	4	SE	2		bare tittel
+LI-9937445	5	SE	2		bare tittel
+LI-10155589	F	SE	2		bare tittel
+LI-8408872	F	SE	2		bare tittel
+LI-5k90cflk3gq2mqk4	F	SE	4		bare tittel
+LI-17612100	5	SE	3		bare tittel
+LI-8412436	F	SE	3		bare tittel
+LI-g1x6j6j7dj2qxj9c	4	SE	2		bare tittel
+LI-10621370	F	SE	3		bare tittel
+W1488723595	4	SE	2		Allmenn voksenopplæring mot arbeidsmarkedsopplæring for ledige; longitudinelle data, ingen vesentlig forskjell i ledighet.
+W3038177758	5	US	4		bare tittel
+W7165961986	3	DK	4		Diskontinuitet ved språkprøve for opptak til college for voksne innvandrere; inntekt opp 19 prosent.
+W2063749037	3	US	2		bare tittel
+W2339606770	F	NZ	1		bare tittel
+W2757302954	F	NZ	1		Aksjonsforskning i Wanganui-prosjektet om lese- og skriveferdigheter og arbeid; utfall av andre syklus.
+W2979861708	5	GB	2		Inntektsavkastning av further education i Skottland.
+W2056885780	5	US	3		Omskoleringsprogram i North Carolina; hva forklarer om deltakerne får jobbtilbud etter programmet.
+W2186344548	4	US	1		bare tittel
+W1536510988	F	EU	4		21 casestudier av universitetsprogrammer for voksne i sju EU-land; tilgang til jobb.
+W2981861780	5	AU	2		Gjennomgang av modeller for å få voksne uten kvalifikasjoner tilbake i utdanning.
+W1990304497	5	US	1		I-BEST basic skills students: academic progress and college credit; self-selection bias noted
+W1534779621	F		3		bare tittel
+W4365792228	5	US	3	W3170504378	Low-income individuals stacking credentials and whether they benefit economically, Colorado and Ohio
+W2795450009	5		3		NEPS: adult education courses and occupational prestige; compensation works for men, not women
+W1999024118	5	GB	1		Skills for Life strategy England: trends in participation and achievement, limits of statistical data
+W2757704749	5		4		bare tittel
+W1967502840	5	GB	4		Part-time degrees: whether part-time study benefits careers and who benefits more
+W2063238136	5	US	4		Displaced plant workers after community college graduation: most reemployed, at lower salary
+W1997521308	5	US	1		Adult education transition-to-college programs; evaluated effectiveness of three model characteristics
+W102507379	5		1		bare tittel
+W4406292102	3	DE	3		VHS adult education courses East Germany, quasi-random regional supply; no significant effect on unemployment overall
+W4380366167	F		3		Training vouchers in Germany, Switzerland, Austria, South Tyrol: participation, target groups, subjective perspectives
+W4410118870	3	US	4		Adult-targeted state grant aid, differences-in-differences, effects on enrollment and completion across 10 states
+W2618309932	F	US	1		bare tittel
+W1571070480	4	DE,US	3		Washington workforce programs incl. adult basic skills and worker retraining; matched comparison, administrative data, net impacts
+W2514206024	5		4		Value of university degree for part-time students in the Czech Republic
+W4308996649	3	US	3		TAACCCT grants: credential completion in career-technical fields increased at funded colleges vs other colleges
+W2899536193	4	DE,NL	5		Review of German ALMP evaluations; most measures increase participants labour market prospects
+W2969521427	5	US	3		California community college CTE outcomes survey: wages and work status before vs after schooling
+W2991385980	5	US	3		bare tittel
+W3006236582	4		4		1.1 million California students: effects of community college credentials on earnings growth
+W3122729073	2	US	4		Randomized re-enrollment campaign with tuition waiver raised re-enrollment by 1.5 percentage points
+W3121984380	5	US	3		California Employment Training Panel incumbent worker training funded by unemployment insurance taxes
+W2185936437	4		4		Survey of evidence on training programs for displaced workers earnings losses, policy recommendations
+W2605248710	3	DE	3		Training subsidies low-skilled employees Germany; regional policy-style variation; employment and earnings gains for compliers
+W2516935347	5		5		bare tittel
+W2045219354	5	AU	4		HILDA: returning to education after 25 and employment outcomes by qualification level
+W1595184076	1	FR,US	5		Selective overview of ALMP evaluations in US and France, including vocational training
+W1580742557	5		1		bare tittel
+W3138606911	4	US	1		Overview of ROI methods and empirical evidence on Adult Basic Education program impacts
+W4303437384	4	ES,US	2		English further education colleges: value-added and earnings returns by field, administrative records
+W2770158524	5	DE	2		bare tittel
+W2910272442	5	US	4		PIAAC: attaining qualifications in mid to later life associated with employment and learning
+W1599998969	5		4		Employment advantages from upgrading qualifications through part-time higher education study
+W2183188596	5		3		Evaluates role of education and training provision for older workers employment, benefits against costs
+W4411986496	5	US	3		bare tittel
+W1859866794	5	GB	2		Gaining qualifications in adulthood and later social class mobility, UK longitudinal data
+W3115943976	F		1		OECD report on raising basic skills of low-skilled workers in England, recommendations
+W4416398894	5	US	3		bare tittel
+W118783314	5		3		Massachusetts Workforce Training Fund: firm case studies on net impact and return on investment
+W3122713613	5	AU,DE,GB	4		bare tittel
+W1985382454	5		4		Pay differentials between early and mature graduate men, General Household Survey
+W3101578770	4	DE	4		Matching: tertiary vocational education after apprenticeship gives higher earnings than academic education
+W2317654237	5	GB	2		Incidence and outcomes of late attainment of qualifications in the United Kingdom
+W2015251331	5	GB	2		BHPS: no significant net earnings benefit from gaining an NVQ Level 2
+W1582613323	4		5		Review of German further vocational training evaluations using new administrative data; employment effects more positive
+W4411997348	5	US	3		bare tittel
+W3170504378	5		3		Ohio stackable programs expansion and growth in earnings when earning certificates
+W3094670884	4	US	3		Virginia individual fixed effects: credential stacking raises employment 4 points, wages 4 percent
+W127447898	4	DE,US	3		bare tittel
+W2104316076	4	DE	3		ESF qualification programs for employed workers in Saxony, control function, positive effect
+W2132685845	5		2		bare tittel
+W2917075956	F		3		bare tittel
+W3083903623	5		1		New Zealand Workplace Literacy and Numeracy Fund: short-term wellbeing, social and economic outcomes
+W2171794148	5	CA,US	4		Canadian graduates who delayed tertiary education earn a wage premium
+W2113880732	4	IT	5		Review of Italian labour market policy impact evaluations, observational settings
+W2904408580	F		1		bare tittel
+W2555916979	5	GB	3		Social purpose training: economic return on investment and social benefit for trainees
+W2178391279	5	GB,NL	4		bare tittel
+W4408225926	4	DE,IE,US	4		Earnings returns to community college and for-profit attendance, 400,000 students, administrative records
+W4416347535	4	US	3		Texas noncredit occupational training, individual fixed effects: earnings up 3.8 percent
+W1589013402	4	US	5		International experience with job training, lessons for US federal training policy
+W2157779531	1	GB,US	5		Meta-analysis of evaluations of government-funded training programs, many random assignment
+W2905973013	5	GB	2		Further qualifications as second chance for able people from disadvantaged origins, social class
+W2313408867	5		3		Czech LFS and AES: adult education increases odds of upward mobility
+W2496574389	4		5		Dynamic evaluation of training for unemployed; occupational skills training has long-term employment effects
+W3043902332	5	US	2		bare tittel
+W2336380545	5	ES	3		Spanish adult learning survey, propensity score matching: non-formal learning improves employability
+W2793145069	5	ES	3		Spanish AES, matching: impact of non-formal lifelong learning on employability over business cycle
+W2971412843	5	KR	3		Korean PIAAC: vocational training programs positively related to earnings and employment probability
+W2870349986	5	TR,US	3		Turkey AES: non-formal adult education and job change or finding a job
+W2970102408	2	US	3		bare tittel
+W2112808392	5		1		Longitudinal tracking of low-skill adult community college students, lessons for policy
+W2980758962	F	DE,US	3		HPOG health care career pathways demonstration for low-income adults, mandated federal evaluation
+W2141710170	F		1	W2904408580	bare tittel
+W1518178688	1		3		Oversikt over evalueringsfunn om offentlige opplæringsprogrammer for sysselsatte (incumbent workers).
+W1566175038	4	CA,US	3		Statlig finansiert opplæring; justerer for seleksjon via yrkesbytte og finner stor positiv effekt på humankapital og lønn.
+W2911883041	3	GR	4		Fjernundervisningsuniversitet sammenlignet med søkere avvist ved tilfeldig utvelgelse; avkastning om lag 8 prosent høyere.
+W2971394191	5		4		Langsiktig lønnsavkastning av høyere yrkesfaglig utdanning (professional education) i Sveits, Swiss Labour Force Survey.
+W2914700483	5	CN,GB	4		bare tittel
+W2529671830	F	CH,DE	3		bare tittel
+W2993128097	1	GB	1		Gjennomgang av evidens om programmer for lese- og regneferdigheter for voksne; programmene ser ofte ikke ut til å virke.
+W2565437886	5	AU	4		Deltidsstudier på masternivå; selvrapportert nytte, under halvparten oppgir høyere lønn.
+W2974717599	5		1		Gevinster for individ, arbeidsgiver og stat av å heve lese- og skriveferdigheter hos voksne på nivå 1 og 2.
+W4399551217	4	US	3		Bransjesertifikater i industrien koblet til skattedata; matching viser høyere inntekt og sysselsetting.
+W4400984219	5	US	2		Lærlingordning i Oregon; inntekt under og etter, fullføring og tilgang til jobb, med register og spørreundersøkelse.
+W4360977825	5		2		bare tittel
+W4206154007	5	US	4		bare tittel
+W4411804073	F	US	3		Gratis community college i fem etterspurte felt (G3) i Virginia; deskriptiv analyse og litteraturgjennomgang av gratisordninger.
+W4403615494	1		5		bare tittel
+W4388655879	5	AU,DE,US	3		Samler evidens fra longitudinelle undersøkelser om positive arbeidsmarkedseffekter av voksenopplæring.
+W3022904729	5	Norden	2		Sen fullføring av videregående (21-28 år) gir 12-15 prosentpoeng lavere sannsynlighet for NEET.
+W3039253648	F	GB,PT	2		Analyse av to evalueringer av Novas Oportunidades (godkjenning av realkompetanse, lese- og regneopplæring) med motstridende konklusjoner.
+W4384341630	5	US	3		Offentlig finansiert opplæring for sysselsatte (California ETP); positive effekter på bedriftenes salg og størrelse.
+W4309825820	2	US	3		Randomisert evaluering av helsefaglig sektoropplæring (HPOG); ingen samlet effekt på inntekt, svak forskjell etter lengde på kvalifikasjon.
+W4360603437	4	CN,DE,US	4		bare tittel
+W4327975045	5	ES,US	4		Nettuniversitet (UOC); kandidatenes inntekt 31 og 18 prosent høyere enn sammenlignbare, særlig for master.
+W3122077989	5		3		bare tittel
+W2789532382	5		3		bare tittel
+W4241392031	4	DE,US	3		Netto effekter og nytte-kostnad for elleve programmer i Washington, blant annet omskolering ved colleges og grunnleggende ferdigheter.
+W1548507002	5		3		bare tittel
+W21953580	5		2		Avkastning av yrkesfaglige kvalifikasjoner, også oppfølgingskvalifikasjoner og kombinasjoner av arbeid og studier.
+W2077461158	4		4	W3122925794	Community college for oppsagte arbeidstakere; ett års skolegang øker langsiktig inntekt om lag 5 prosent, registerdata.
+W3122925794	4	DE,US	4		bare tittel
+W2150399365	5		1		Modellerer økonomiske gevinster av bedre grunnleggende ferdigheter for voksne for lønn, sysselsetting, skatt og ytelser.
+W2276579554	5		4		Community college-studenter i Michigan; inntekt og sysselsetting for de som fikk grad eller sertifikat mot dem som ikke fikk.
+W2117604211	1		5		Oversikt over mikroøkonomiske evalueringer av aktiv arbeidsmarkedspolitikk i Tyskland, blant annet videreutdanning.
+W1533840860	5	GB	3		bare tittel
+W1588450396	1		5		Oversikt over evalueringslitteratur om arbeidsmarkedstiltak i Norden, også for ungdom og innvandrere.
+W4298314096	1	DE,FR,GB,NL	5		bare tittel
+W2054397053	4	US	2		Korrigert for seleksjons- og frafallsskjevhet finnes ingen direkte økonomisk avkastning av GED.
+W144746415	4		1		bare tittel
+W4235170719	4	IE,US	2		Gjennomgang av litteraturen om GED; minimal arbeidsmarkedsverdi og få går videre til høyere utdanning.
+W4306865902	1		3		Kritisk gjennomgang av evidens om effekten av offentlige arbeidskraftutviklingsprogrammer i USA.
+W4380319330	F	DK,PL,TR,DE	2		Funn fra prosjekt om effektivitet av politikk for validering av realkompetanse i Danmark, Polen, Tyrkia og Tyskland.
+W4410717556	5		1		Sammenheng mellom integrert grunnopplæring og yrkesopplæring (IET) og studenters kortsiktige og langsiktige resultater.
+W3012101063	1		3		Gjennomgang av evidens om karriereløp ved community colleges for utdanning og sysselsetting.
+W4399916324	2	US	4		Over 27 000 tidligere studenter tilfeldig tildelt informasjon eller kursfritak for å gjenoppta og fullføre utdanning.
+W3214141352	5	US	2		bare tittel
+W4292004108	5	US	2		Registerdata fra Maryland; sammenligner videre utdanning og arbeidsmarkedsutfall for sene fullførere, GED-tagere og ikke-fullførere.
+W4400146877	3	US	4		bare tittel
+W2902777316	5		3		Sertifikater i Oregon som rute for arbeidstakere til å starte eller bytte karriere; arbeidsmarkedsverdi.
+W2772549680	5		3		Sammenheng mellom stablede kvalifikasjoner og inntekt; svakt positive og inkonsistente gevinster.
+W4304203503	5	CL	3		Det chilenske opplæringssystemet; lønnspremie for opplæring om lag 11 prosent, longitudinelle survey-data.
+W2979977042	5		1		Oppsummerer forskning om inntekts- og sysselsettingseffekter av voksenopplæring og grunnleggende ferdigheter på fattigdom.
+W1556452154	5		1		bare tittel
+W2164215362	F	US	1		Evaluering av I-BEST med feltarbeid i 16 programmer; integrerer grunnleggende ferdigheter og yrkesopplæring, uten effektmål.
+W2136499496	F	US	1	W2164215362	Feltstudie av I-BEST, grunnleggende ferdigheter og yrkesfag kombinert; beskriver hvordan modellen virker.
+W155670541	5		1		Litteraturgjennomgang: individer har nytte av bedre lese- og regneferdigheter; svært få studier av opplæring i grunnleggende ferdigheter på arbeidsplassen.
+W1487163639	5		1		Gjennomgang av forskning om grunnleggende ferdigheter for voksne, med kapitler om programmer og tilbud.
+W1545253101	F	GB	1		Evaluering av Basic Skills Pathfinder i friomsorgen: screening, henvisning og tilbud om grunnleggende ferdigheter, uten effektmål.
+W1586320642	5		1		bare tittel
+W2229052041	F		1		Pilotfase i longitudinell studie av effekten av lese-, skrive- og regneprogrammer knyttet til arbeidsplassen.
+W2116648300	F	GB	1		bare tittel
+W1222370557	F	AU	1		Casestudier av avkastning for arbeidsgivere av WELL-programmet for språk, lesing og regning på arbeidsplassen.
+W395247808	F		1		Kvantitativ analyse av Skills for Life: deltakelse og oppnådde kvalifikasjoner blant voksne i lese-, språk- og regneopplæring.
+W2121779853	5	NL	1		Kostnad-nytte av halvårige kurs for lavt leseferdige: baten 3000 euro per deltaker, mest helse og produktivitet.
+W4240252594	4	US	1,3		Nettoeffekter for 12 programmer i Washington, blant annet grunnleggende opplæring, I-BEST og omskolering; propensity score matching.
+W4252317626	4	US	1,3	W4240252594	Nettoeffekter og kostnad-nytte for 11 programmer i Washington, blant annet Adult Basic Skills, I-BEST og Worker Retraining.
+W1574072621	4	US	1,3	W4240252594	bare tittel
+W2097593264	4	US	1,3	W4240252594	Nettoeffekter for ni programmer i Washington; deltakere matchet statistisk mot registrerte arbeidssøkere.
+W4234116388	4	US	1,3	W4240252594	Nettoeffekter for ni programmer i Washington, blant annet Worker Retraining og Adult Basic Skills; statistisk matching.
+W3169310651	5	NO	2		Voksne i grunnskole og videregående: gjennomføring og utbytte av fullført voksenopplæring for videre studier og arbeidsmarkedstilknytning.
+W1591201381	4	SE	2		Kunskapslyftet sammenlignet med arbeidsmarkedsutdanning: effekter på inntekt og bransjebytte, seleksjonsmodell.
+W3121632739	4	SE	2		Svenske registerdata: voksenopplæring 1986-89, matching på propensity score; ingen effekt på tidspunkt for pensjonering.
+W1563707634	5	GB	2		Økonomisk verdi for individer av mellomnivå yrkesfaglige kvalifikasjoner, NVQ nivå 2 og 3.
+W1553193026	5		2		bare tittel
+W318719123	5		2	W1553193026	bare tittel
+W1522262216	4	GB	2		Langtidseffekt av yrkesfaglige kvalifikasjoner: ILR koblet til inntekt, sysselsetting og stønad; sammenligner fullførte med ikke-fullførte.
+W1515194365	4	GB	2		Avkastning av kvalifikasjoner tatt etter inntreden i arbeidslivet, BHPS med faste effekter; lønn og yrkesstatus.
+W226919418	4	GB	2	W1515194365	bare tittel
+W2910183523	5	GB	2		Registeranalyse finner god avkastning av læring på alle nivåer i further education, også nivå 2 og lavere.
+W2276827069	5	GB	2		Forekomst og utfall av sent oppnådde kvalifikasjoner i Storbritannia.
+W2210828830	5	DE	2		Zweiter Bildungsweg: langsiktig lønn og sysselsetting etter sen studiekompetanse, NEPS og Mincer-likning.
+W3121925437	5	DE	2		bare tittel
+W1577670402	5		2		Employer Training Pilots: gratis opplæring til basisferdigheter eller nivå 2; effekt på deltakelse i opplæring.
+W1674145142	F		2		bare tittel
+W1524457402	F		2	W1674145142	bare tittel
+W2286125338	2	US	3		Eksperiment med tre måter å gi individuelle opplæringskontoer (ITA) på; effekt på opplæring, sysselsetting og inntekt.
+W1581809000	2	CH	3		Felteksperiment: opplæringskupong ga nesten 20 prosent økt deltakelse, men over 60 prosent dødvekt.
+W3095968011	2	CL	3		Eksperimentelle og administrative data: yrkesopplæring for sårbare arbeidstakere i Chile ga lite på ferdigheter, noe på arbeidsinntekt.
+W1522655859	5	US	3		Offentlig støtte til opplæring av ansatte i delstater; betydelig finansiell avkastning, jobber skapt eller beholdt.
+W4229629689	5	US	3	W1522655859	Samme sammendrag: delstatlig støtte til opplæring av ansatte, jobber skapt eller beholdt.
+W3124836786	5	US	3	W1522655859	bare tittel
+W4230860035	5	US	3	W1522655859	Samme sammendrag: delstatlig støtte til opplæring av ansatte, jobber skapt eller beholdt.
+W4412439050	4	US	3		Delstatlige tilskudd til bedriftsopplæring: sysselsettingsvekst etter opplæring sammenlignet med matchet kontrollgruppe.
+W4410139705	4	US	3	W4412439050	bare tittel
+W4413919254	4	US	3		WIOA-finansiert yrkesopplæring sammenlignet med matchede som bare fikk jobbsøkingshjelp; inntektsgevinster og yrkesbytte.
+W4413512418	4	US	3	W4413919254	Samme studie av omskolering av AI-utsatte arbeidstakere under WIOA.
+W3124726120	5	IT	3		bare tittel
+W2550787354	5	AT	3		Evaluering av Bildungskarenz 2000-2009 med analyse av karriere, sysselsetting og inntekt etter permisjonen.
+W3125631409	5	CA,US	3		Statlig finansiert opplæring: justert for yrkesbytte gir stor positiv effekt på humankapital.
+W1757678320	5		3		Bare nøkkelord: Government Training, Firm Training, Occupational Mobility.
+W2744094439	F	DE	3		WeGebAU: Bundesagentur fur Arbeit støtter videreutdanning i bedrift; hvilke bedrifter bruker programmet og hvordan de vurderer det.
+W2468629588	F	NO	3		Sluttevaluering av Kompetanseutviklingsprogrammet 2000-2006: forløp, resultater og måloppnåelse.
+W2463411221	F	NO	3		Midtveisevaluering av Kompetanseutviklingsprogrammet i landbruket: iverksetting og resultater mot intensjonene.
+W3124978392	4	US	4		Administrative data, Washington: ett år community college gir eldre fortrengte arbeidstakere om lag 8-10 prosent høyere inntekt.
+W2114815067	4	US	4	W3124978392	bare tittel
+W2906657559	4	US	4		Ohio-registre, matching: høyere utdanning under ledighet gir 6 prosent inntektsgevinst etter tre-fire år, drevet av bransjebytte.
+W2199583226	4	US	4		Tennessee: voksne studenters kvalifikasjoner under bachelornivå gir lønnsgevinst og bransjebytte, sammenlignet med matchede ikke-studenter.
+W2999002399	2	US	4		Tilfeldig tildeling: informasjon og gratis emne for tidligere studenter ved community college; effekt på gjeninnskriving.
+W1547591801	5		4		bare tittel
+W2105589748	5	AU	4		HILDA: utdanning og opplæring etter 25 år og utfall på arbeidsmarkedet; varig økt jobbtilfredshet.
+W319480746	5	AU	4	W2105589748	bare tittel
+W1532010858	5	CA	4		SLID: menn som tok etterutdanningssertifikat hos samme arbeidsgiver fikk høyere lønn enn de som ikke studerte.
+W1564086549	5	CA	4		Avkastning av høyere utdanning for dem som utsatte studiene: premie, robust mot seleksjon.
+W4388841454	5	US	4		Om lag 20 prosent av collegeutdannede tok graden etter 30; avkastningen varierer med alder ved fullført grad.
+W7148689932	5	FR	4		Avhandling om retur til utdanning og videreutdanning i Frankrike og verdien på arbeidsmarkedet.
+W2009689816	5	GB	4		Skotsk undersøkelse av langsiktige arbeidsmarkedsutfall av formell voksenutdanning, med vekt på kjønn.
+W2142859723	5	AU	4		Utdanning og opplæring for eldre: utbytte senere i livet; mer kvalifikasjoner gir høyere sysselsetting.
+W1601384165	1	DE	5		Oversikt over nasjonale og internasjonale evalueringer av aktiv arbeidsmarkedspolitikk, effekt på sysselsetting og inntekt.
+W1524209849	1	DE,SE,DK,NL	5		Litteraturstudie om virkninger av aktiv arbeidsmarkedspolitikk i Tyskland, Sverige, Danmark og Nederland.
+W1572813566	1	IE	5		Gjennomgang av nasjonal og internasjonal forskning om effekten av opplæring og andre tiltak for ledige.
+W593686631	1	DE	5		Ekspertise om evidensen for virkningen av aktiv arbeidsmarkedspolitikk, blant annet videreutdanning for arbeidssøkere.
+W2254421870	1	EU	5		Gjennomgang av kontrafaktiske effektevalueringer av ESF-tiltak 2000-2013, klassifisert etter tiltak og land.
+W4403664564	1		5		Gjennomgang av empiriske studier av aktive tiltak, inkludert opplæring, og offentlig arbeidsformidling.
+W4400871115	1	US	5		Handbook-kapittel som oppsummerer siste tiårs empiriske forskning om aktive arbeidsmarkedstiltak.
+W2121256508	1	US	5		Kapittel om JTPA, WIA, WIOA, Job Corps og TAA; gjennomgår evalueringer, mest eksperimenter og matching.
+W1543433228	1	US	5		Bok om føderale opplæringsprogrammer under WIA, inkludert effekten av opplæringsprogrammene.
+W71075706	1	US	5		Litteraturgjennomgang etter 2005 om ferdigheter fra arbeidsløshet til varig sysselsetting, med fire landcaser.
+W1984852015	1	DE	5		bare tittel
+W4285786724	1		5		bare tittel
+W1576880634	4	US	5		Oversikt over evalueringer av kanadiske arbeidsmarkedstiltak; effekter på sysselsetting og inntekt sjelden signifikante.
+W2213966225	1		5		Metaanalyse av 22 studier av EUs aktive arbeidsmarkedstiltak inkl. opplæring; liten positiv effekt på sysselsettingssjanse.
+W1481455000	4	CA,GB	4	W2189459848	bare tittel
+W2189459848	4	CA	4		Forskjell-i-forskjell på registerdata: etter jobbtap gir høyere utdanning nesten 7000 dollar mer inntekt over ni år.
+W1563048422	4	DE,US	4		bare tittel
+W3082473857	4	US	4		Kobler inntektsregister og karakterutskrifter for fortrengte arbeidere; ett års community college øker langsiktig inntekt.
+W1606281345	4	CA	4		Paneldata SLID: sertifikat fra voksenutdanning gir lønnsgevinst for menn hos samme arbeidsgiver og for eldre kvinner.
+W2289339190	4	CA,US	4		Paneldata PSID: voksne med lav utdanning som går tilbake til skolen får betydelig inntektsvekst etter alternativkostnad.
+W4362678983	4	AU	4		HILDA og maskinlæring for kausal effekt: ny grad senere i livet gir over 3000 AUD mer inntekt årlig.
+W2913487423	4	PL	4		DID-PSM på arbeidskraftundersøkelsen: etterutdanningsstudier gir lønnspremie bare 2009-2013 og for kvinner og offentlig ansatte.
+W1490576559	4	SE	2		Kunskapslyftet: fastvirkningsmodeller på registerdata for hele arbeidsstyrken, effekter på sysselsetting og årsinntekt.
+W3124132881	3	DE,US	2		bare tittel
+W3164706300	5	US	2		bare tittel
+W3174578671	5	PT	2		Vurderer kort-, mellom- og langsiktige effekter av voksenutdanning på arbeidsmarkedsutfall for ansatte i Portugal.
+W3034316837	5	CH,GB	2		bare tittel
+W3122813172	3	DE	3		Regional variasjon i arbeidskontorenes praksis som instrument: opplæringstilskudd for lavtlønte øker sysselsetting og inntekt for compliers.
+W2600199984	3	DE	3	W3122813172	Uskarp diskontinuitet i regional praksis som instrument; tilskudd gir gevinster i sysselsetting og inntekt på kort sikt.
+W4403819903	4	DE	3		Registerdata: offentlig subsidiert omskolering i Tyskland senker kostnaden ved å bytte sektor ved importkonkurranse.
+W3206318683	4	US	3		Kausal maskinlæring i Rhode Island: deltakelse i omskolering øker kvartalsinntekt med 605 dollar i snitt.
+W1507483149	4	US	3		Nettoeffektevaluering av Focus: HOPE yrkesopplæring i maskinist- og IT-fag for voksne med barrierer.
+W2044794820	4	US	3		Regresjon og propensity score matching: etterutdanning for gårdsarbeidere gir høyere lønn og lavere fattigdom.
+W205827666	5	US	3	W2044794820	Videreutdanning i NFJP assosiert med om lag 26 prosent høyere lønn; multivariat regresjon på NAWS.
+W3124324179	4	DE,US	3		Nettoeffekt av WIA-tjenester for voksne i Washington på inntekt og sysselsetting, med sensitivitetstesting av estimatorer.
+W1562850051	4		3		Offentlig finansiert opplæring har lav avkastning, men justert for yrkesbytte blir avkastningen annerledes.
+W2614505197	5		3		Opplæringskuponger for lavt utdannede gir mer opplæring, stor dødvekt, og effekter på inntekt og mobilitet.
+W3125781123	5	DE	3		bare tittel
+W3123151662	5	DE	3		bare tittel
+W4412393130	5	US	3		bare tittel
+W4389063980	5	DE,US	3		bare tittel
+W2953882658	1	US	4		Gjennomgår evidens for lønnsavkastning av høyere utdanning og arbeidsrettede opplæringsprogrammer.
+W1584412801	1		1		bare tittel
+W1536650356	5		1		bare tittel
+W2111283428	5		4		bare tittel
+W7224099478	5		1		bare tittel
+W4386453870	5	US	1		bare tittel
+W7113220426	F	GB	1		Evaluering av Skills for Life: deltakelse, gjennomføring og framgang i lesing, regning og ESOL.
+W7111706574	F	GB	1		Skills for Life: beskjedne, signifikante gevinster i ferdigheter og selvtillit; ingen mål på arbeidsmarkedsutfall.
+W1489381597	F		1		Evaluering av Adult and Community Learning Fund: bredere deltakelse og nye måter å bedre grunnleggende ferdigheter.
+W1563263188	F	GB	2		Evaluering av Adult Learning Grant, behovsprøvd stønad til voksne som tar første fulle kvalifikasjon på nivå 2 eller 3.
+W1530625327	F	GB	2		Evaluering av Adult Learning Grant kohort 2; støtte til voksne uten første kvalifikasjon på nivå 2 eller 3.
+W2618460047	F		2		Oversikt over hvordan Finland, Danmark, Sverige, Latvia og Litauen bringer lavt utdannede voksne tilbake i formell utdanning.
+W2495716222	F	NO	3	W2916129466	Foreløpig evaluering av Kompetanseutviklingsprogrammet: organisering, søknader og om prosjektene samsvarer med målene.
+W2916129466	F	NO	3		Underveisrapport fra evalueringen av Kompetanseutviklingsprogrammet: prosjektportefølje og spredningsarbeid.
+W1481178249	F	FR,GB,US	3		Analyserer individuelle læringskontoer i Storbritannia, USA og Frankrike: utforming, gjennomføring og mulige resultater.
+W2907442696	1	US	5		Review of employment and training programs incl. adult training and welfare-to-work; social science evidence on what works
+W4383810080	5	GB	2		Scottish further education expansion; earnings returns to further education qualifications
+W1621162417	F	FR	1		bare tittel
+W3088861557	5	GB	1		Examines research literature on whether improving workplace literacy and numeracy benefits adults and employers
+W1554976807	F		1		Evaluation of 3- and 6-hour basic skills courses; learner survey and college questionnaire
+W2757117784	F		1		bare tittel
+W2757689543	F		1		bare tittel
+W7131751598	4	NZ	1		Publicly funded literacy and numeracy programmes; administrative data with matching; employment, earnings, benefit receipt
+W84114456	F	GB	1		Evaluates Scottish Adult Literacy and Numeracy Strategy through survey of learners and tutors
+W4241230432	F	GB	1		Explores implementation of workplace literacy programmes in 53 participating organizations
+W2766097320	F	US	1		Evaluation of employer benefits and costs of workplace English literacy programme English@Work
+W2985473975	5		2		Adult apprentices over 25; recognition of prior learning, earlier completion, employment outcomes and wages
+W2561180870	F		3		Review of training voucher programme Small Business Smart Business connecting small business to VET
+W3121813953	4	US	4		Longitudinal administrative records; community college schooling raises earnings of older displaced workers 7-10 percent
+W2431852820	5		4		Returns to community college programmes for returning adults similar to continuing high school graduates
+W2904727364	5	US	3		Correlational analysis of publicly funded community college manufacturing workforce training: pay increases, advancement, retention
+W67320745	5	US	4		NLSY79: 10-20 percent returns for adults returning to school across degrees
+W1523037029	5		3		Return on investment to subsidized training programs for incumbent workers
+W2957409388	F		3		Subsidized short-term noncredit training grant; completion and credential attainment rates, no comparison group
+W4416984076	F	IE	3		Roadmap for evaluating Ireland National Training Fund supporting training for employed and jobseekers
+W2233861901	F	SE	2		Survey of adult immigrants after Komvux nursing programme: experiences and current work situation
+W7167589257	5	DE	4		Formal educational upgrading after labour market entry; descriptive and decomposition analyses of wages
+W7137398361	5	FI	4		Full-population register; returns to new qualifications for mature graduates; permanent job and annual income
+W2944066911	5		3		Short-term stackable community college certificates; progression to further awards, earnings advantages
+W1533230892	3	DE	3		Voucher programme Bildungsprämie; comparison with recipients whose training cancelled by random event; no wage or employment impact
+W4302162296	3	DE	3	W1533230892	Same voucher Bildungsprämie study; no impact on wages, employment
+W4211061000	5	GB	4		bare tittel
+W1574619748	5	GR	3		Non-experimental evaluation of training programmes and job prospects in Greek regions
+W2182733347	5		4		bare tittel
+W2207344796	F	CA	1		Foundational workplace skills programme; administrative data on return to work, school, literacy scores
+W2394867569	5	US	3		Short-term noncredit CTE certificates; before and after employment incomes of graduates
+W7151259557	3	FR	3		Quasi-experimental evaluation including a subsidy for vocational training (formation continue)
+W7160241848	4	DE	3		SOEP propensity score matching; continuing vocational training had no significant effect on unemployment risk
+W7172507964	5	DE	4		NEPS adult cohort; educational upgrading and earnings at age 40, decomposition analyses
+W7198232144	4	FI	4		Finnish registers, fixed-effects event study with matching; YAMK degree raises earnings 9.5 percent, small employment effect
+LI-8901157	4	SE	2		bare tittel
+LI-12050562	4	SE	2		bare tittel
+LI-16015676	4	SE	2		bare tittel
+LI-12025313	1	SE	2		bare tittel
+LI-10210530	4	SE	2		bare tittel
+LI-10209890	4	SE	2		bare tittel
+LI-12307288	F	SE	2		bare tittel
+LI-20159555	1	SE	1		bare tittel
+0198cc84849e-c9590542-6fbd-4428-b7bd-0c6986d22e07	F	NO	1		bare tittel
+W3113163605	4	FI	2		Erikoisammattitutkinto for sysselsatte i industrien 2008-2012, matching mot like ikke-deltakere; positive, delvis signifikante effekter på inntekt og sysselsetting.
+W2905715547	5	GB	2		Administrative ILR-WPLS-data: earnings-, employment- og benefit-premier for FE-elever etter tilbyder; gode avkastninger også på nivå 2 og lavere.
+W2806107573	5	GB	2	W2905715547	Samme rapport (juli 2017): variasjon i arbeidsmarkedsavkastning mellom FE-tilbydere, positive earnings premiums for de fleste.
+W3170385016	4	AU,JP	2		Forskjell-i-forskjell på paneldata (HILDA, KHPS): effekt av VET på sysselsetting, stilling og lønn, sterkest for lavt utdannede i Australia.
+W4387376011	4	US	4		NLSY: avkastning av utdanning tatt etter tid i arbeidslivet; vitnemålsavkastning cirka 14 prosent, robust for seleksjonskorreksjon.
+W4300587765	5	US	2		CPS: arbeidsmarkedsavkastning av GED for innfødte og innvandrere; GED-innehavere tjener mer enn dropouts.
+W2742410099	5	US	2		Økonomisk gevinst av GED for tidligere innsatte; upresise estimater, trolig korrelasjon, ikke kausalitet.
+W2896519089	5	US	2		bare tittel
+W4395024612	5	US	2		Effektevaluering av Missouri Excel Centers (voksne tar videregående vitnemål) med arkivdata om utfall for uteksaminerte.
+W4391363004	5	CA	1		Kanadisk grunnleggende ferdighetsprogram: kjennetegn og utfall for de som avbryter sammenlignet med de som fullfører.
+W4235988270	2	US	3		WorkAdvance, evidensbasert program evaluert under Social Innovation Fund i New York; studieregistrering.
+W2185044493	F	GB	1		bare tittel
+W166030914	F	GB	1		Gjennomgang av åtte skotske pilotprosjekter i arbeidsplasslitterasitet 2006-2008, effektiv praksis og lærdom.
+W1578253759	F	AU	1		Evaluering av STeP123 lese- og regneprosjekt i Tasmania ved dokumentanalyse og konsultasjon med ansatte.
+KU-fbb527c8-fdba-431b-a905-af7d03c7cbc0	F	NO	1		ECON undersøkte opplæringstiltak i grunnleggende ferdigheter for voksne og ga råd om utforming av økonomisk støtte.
+KU-6b2a57b4-24e5-4fdb-a978-31826e07e3c9	F	NO	3		Evaluering av BIO og AMO i bedrift: erfaringer og vurderinger fra bedrifter som fikk tilskudd.
+KU-a8a75afc-e989-4d59-af9f-6fd4602ab381	F	NO	1		Følgeforskning på fleksibel opplæring og læringsteknologi i voksenopplæring; piloter kan øke fleksibilitet og redusere fravær.
+KU-9cfd583e-ac3a-4ab9-8e23-42694b44f17e	F	NO	3		Kunnskapsgrunnlag om opplæringstiltaket barnehagefaglig grunnkompetanse for assistenter, stor variasjon i tiltaket.
+W2474359386	F	US	3		Mixed methods-evaluering av statlig finansiert opplæring av ansatte (Employment Training Panel) ved et community college.
+W7145609248	F	SE	4		bare tittel
+W4294857895	5		2		bare tittel
