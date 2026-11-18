@@ -1,0 +1,89 @@
+id	kategori	land	tiltak	samme_materiale	begrunnelse
+W2088280977	1	US/UK	5		meta-analyse av velferd-til-arbeid-evalueringer, sammenligner arbeid-først mot investering i humankapital (opplæring)
+W4388601246	1	DE	1		bare tittel
+W235943261	1	NZ	1		litteraturoversikt over beste tilgjengelige evidens om effektiv opplæring i lesing, regning og språk for voksne
+W24959778	1	US	1		litteraturoversikt: svært få empiriske studier viste effekter av voksenopplæring i lesing og skriving
+W2560218599	1	US	3		bare tittel
+W3125503761	1	DE	5		oppsummerer evalueringer av aktiv arbeidsmarkedspolitikk: etter innlåsing øker yrkesrettet opplæring og klasseromsopplæring sysselsettingen
+W1570387063	1	DE	5		gjennomgang av evalueringsfunn etter Hartz-reformene; peker på lønnstilskudd, opplæring, oppstartstilskudd og formidlingskuponger som virksomme
+W1539215614	1	DE	5	W1570387063	bare tittel
+W4292641863	1	US	5		metaanalyse av 40 omskoleringsprogrammer for arbeidsledige: sannsynlighet for jobb øker 2,6 prosentpoeng, lønn 0,08 standardavvik
+W4388521516	5	US	3		kvasieksperimentelt design: CareerAdvance, helseyrkesopplæring for foreldre; tre år: utdanningsframgang, ingen økonomiske gevinster
+W2922092619	5	US	3	W4388521516	kvasieksperimentelt design: CareerAdvance parents higher rates of certification and employment in health care; no effect on income
+W1221392367	4	US	3		difference-in-difference mot ikke-deltakere som fikk tilbud; deltakere 20 prosent høyere årsinntekt ett år etter
+W2136002061	3	GB	3		natural experiment, difference-in-difference: pilot for kvalifikasjonsrettet opplæring av lavt kvalifiserte; tilleggseffekt under ett prosentpoeng
+W7110655526	3	GB	2		reform av lærlingordning for 19-24-åringer: færre starter, lavere fullføring av kvalifikasjonen, men 7 prosent høyere inntekt
+W2763694206	3	GB	2	W7110655526	bare tittel
+W2974684087	F	NO	1,2		gjennomgang av evalueringsrapporter om Reform 94, Kompetansereformen og Kunnskapsløftet; gap mellom intensjoner og resultater
+W2917542002	F	NO	3		underveisevaluering av Kompetanseutviklingsprogrammet, del av Kompetansereformen; om resultater i samsvar med intensjonene og organisering
+W2087619590	5	US	4		voksne studenter ved fire community colleges: forskjell i avgangsrater etter status for vurdering av tidligere læring
+W1520370879	5	DE	3		bare tittel
+W2528099759	4	DE	3		bare tittel
+W569130140	5	DE	3		bare tittel
+W2109316001	2	US	3		bare tittel
+W3124541348	1	AT,DE,US	5		bare tittel: metaanalyse av evalueringer av aktive arbeidsmarkedstiltak
+W1595216198	1		5		A review of the international literature shows... mixed results for training; effects on job entry chances probably small on average
+W2897899629	1		3		bok om evaluering av voksnes yrkesopplæring: effektene av opplæring ikke alltid positive, lærdom fra internasjonale erfaringer
+W2153646148	1	DE,US	3		bare tittel: oversikt over hva vi vet om arbeidsstyrkeopplæring som tiltak mot fattigdom
+W2287709786	1		5		synthesis of findings from more than a dozen reports in the Evaluation of the Trade Adjustment Assistance Program
+W386119827	4		2		matched administrative data (ILR-WPLS); benefit to employment prospects and earnings from achieving qualifications in English Further Education
+W2155512342	5	AU	2		matched comparisons; effects of completing VET qualification on employment probability and earnings; benefits for non-Year 12 completers
+W3193766604	5	GB	2		UK Labour Force Survey data; wage differentials associated with attainment of vocational qualifications relative to comparison groups
+W293823147	5		2		certified (RVC) unemployed compared with other unemployed using econometric models; RVC favours transition between unemployment and employment
+W2153600333	5	KR,US	1		administrative data; two nonexperimental comparison groups; adult basic education associated with higher postrelease earnings and employment rates
+W4390556764	5	BE,NL	1		measures outcomes of Dutch literacy program; labour market position improved less than social inclusion indicators after five months
+W2980273080	5		1		cost benefit analysis of literacy training in Ireland based on ITABE evaluation; high economic returns
+W2181949223	5	US	1		bare tittel
+W2079464434	5		2		NLSY data; GED certificate and entry into and exit from poverty among adult women compared with dropouts and graduates
+W1449292714	F		1		bare tittel
+W210949889	5		4		bare tittel
+W3121173352	5	SE	4		bare tittel
+W4409530334	5	SE	4		bare tittel
+W2029029007	5	US	4		bare tittel
+W3174298912	5	US	4		bare tittel
+W4291002546	5	CN	3		bare tittel
+W3041144534	5		3		bare tittel
+W2981099801	5		3		improved wage growth and a positive return on investment for screened demand-driven job training for lower-skilled workers
+W2529860077	5		3		impact evaluation of SENA training programmes incl. specialised training for employees; propensity score matching and difference-in-differences
+W3137846341	5	CN	4		Mincerian earnings function; return to distance higher education for adults without degrees; nationwide survey data
+W4386553689	5	CN	4		Mincer earnings function and quantile regression; returns to distance higher education from China Family Panel Studies
+W2588607144	F	DE	3		bare tittel
+W2907806901	5		2,3		earnings, employment probability and active benefits for those who achieve their highest learning aim, relative to those with same aim who do not achieve
+W1530055159	5	GB	2,3	W2907806901	bare tittel
+W4309504983	2	US	4		large-scale, multi-arm field experiment with the U.S. Army; no impact on whether veterans enroll in college, quality of enrollment, or persistence
+W2544347711	2	US	3		rigorous random assignment evaluation of the WorkAdvance model, a sectoral training and advancement initiative; two-year findings
+W3185282861	3	US	4		bare tittel
+W224207571	5		4		bare tittel
+W3020898916	5	US	3,4		no statistically significant differential return to Certificates or Associate's degrees between for-profits and not-for-profits; large variation across majors
+W2573583924	5	AU	2,3		bare tittel
+W4206538649	5		2		bare tittel
+W4414116111	5	BE,DE	2		bare tittel
+W4412581431	5		3		bare tittel
+W3121190276	5	DE	3		bare tittel
+W3093354774	5		1,2		bare tittel
+W2950541304	5		3		final impact evaluation of consortium project retraining trade-affected workers through community college IT pathways
+W222650225	5		3		process and net impact evaluations of the Focus: HOPE adult training programs
+W2045145025	5	US	2		GED recipients had worse mid-life outcomes than conventional high school graduates and better than dropouts on family income and assets
+W3124026140	5	US	2		bare tittel
+W4250900597	5		2		bare tittel
+W4405868217	5	BE,NL	1,2		3,027 unemployed participants aged 15 to 65 enrolled in continuing education courses; impact on social inclusion and labour market position
+W7125852732	5	ML	3		propensity score matching; continuing training has significant positive impact on permanent contracts and upward occupational mobility
+W2556683721	1		5		bare tittel
+W1592870120	1	US	5		bare tittel
+W2469063764	1	DE	5		bare tittel
+W3122800652	1	DE,GB	5		bare tittel
+W7160740390	1		5		labour market policy, impact evaluation, case study, Argentina, Colombia, Peru, Latin America and the Caribbean
+W2645608735	1		5		kartlegge og systematisere forskning i Nord-Europa om effekter av innsats for å hjelpe ungdom opp til 30 år inn i arbeidsmarkedet
+W4417400053	1		1,3		thematic review of robust impact evaluations of advanced digital skills programs; robust causal evidence remains scarce
+W4318038624	1	BE,CH,ES	5		ability of public policies to moderate technology-induced labor market vulnerability; little known about effective policies to assist workers
+W2145982434	F		3		evaluation of 13 grantees' Individual Training Account efforts: accomplishments, policies and practices, provider selection process, information available to customers
+W1493875495	F		3	W2145982434	interim findings from evaluation of 13 grantees' efforts to deliver training through Individual Training Accounts
+W2278926495	F		3		evaluation of Personal Reemployment Accounts implementation in eight states; 43 percent purchase some service
+W3044834340	F		3		Compte personnel de formation: individualised financing of continuing training; policy description, changes by the 2018 law
+W3214356266	F		3		bare tittel
+W3027471484	F		3		bare tittel
+W3024594499	F		3		evaluating impact of a flexible delivery model in advanced manufacturing technologies on key stakeholders; community college
+W4220853268	F	US	2,4		Louisiana Five for Six Scholarship gives individuals without a high school diploma a path to a college credential; positive findings
+W1583673688	F	US	3		in-depth analysis of an incumbent worker training program funded through California's unemployment insurance taxes
+W193311383	F		3		bare tittel
+W3138880309	F		3		Welche Wirkungen und Effekte haben diese Programme? Profitieren die anvisierten Zielgruppen tatsächlich im erwarteten Maße?
