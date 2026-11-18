@@ -1212,3 +1212,18 @@ W235943261  # 1, NZ, tiltak 1, litteraturoversikt over beste tilgjengelige evide
 W24959778  # 1, US, tiltak 1, litteraturoversikt: svært få empiriske studier viste effekter av voksenopplæring i lesing og skriving
 W2287709786  # 1, land ikke oppgitt, tiltak 5, synthesis of findings from more than a dozen reports in the Evaluation of the Trade Adjustment Assistance Program
 W4309504983  # 2, US, tiltak 4, large-scale, multi-arm field experiment with the U.S. Army; no impact on whether veterans enroll in college, quality of enrollment, or persistence
+
+# Fra begrunnelsen av utelatte sentrale kandidater (18.11.2026): flagget som mulige treff og vurdert på nytt.
+W2181778068  # 1, flere land, tiltak 5, preprint av metaanalysen av 199 programeffekter fra 97 studier; samme materiale som W1805206376
+W2102454047  # 1, GB, tiltak 1, litteraturoversikt over tiltak for voksne med svake lese- og regneferdigheter; lite analyse av effekter
+W2181639995  # 1, US, tiltak 3, gjennomgang av strategier, blant annet kompetanseutvikling, for jobbstabilitet og avansement blant lavtlønte foreldre
+W4401711642  # 1, flere land, tiltak 2, systematisk litteraturoversikt over realkompetansevurdering i høyere utdanning; tematisk, uten effektmål; tvil: F
+W2737611701  # 4, US, tiltak 4, grader fra community college analysert med individuelle faste effekter og inntekt før opptak; tvil: aldersgruppen
+W2112894911  # 3, US, tiltak 4, Post-9/11 GI Bill, forskjell-i-forskjell; utfall er påmelding til høyere utdanning blant veteraner
+W1600177788  # 4, US, tiltak 4, effekt av utdanningsstøtte til veteraner på utdanning og inntekt
+W1503749478  # 4, US, tiltak 4, community college for voksne som vender tilbake til utdanning, lønnseffekt
+W2611123295  # F, NO, tiltak 2, «Fagbrev i voksen alder»: praksiskandidat- og voksenlærlingordningen og fullføring; tvil: 5
+W1969273951  # 5, US, tiltak 4, voksne studenter ved community colleges og fullføring; sammendraget avkortet
+W3114077951  # 5, US, tiltak 4, bare tittel (resultater for voksne studenter ved community colleges)
+W2149392766  # 5, US, tiltak 4, bare tittel (studiestøtte og ikke-tradisjonelle studenter ved community colleges)
+W2883250861  # 5, land ikke oppgitt, tiltak 4, bare tittel (avkastning av yrkesteknisk utdanning for voksne)
