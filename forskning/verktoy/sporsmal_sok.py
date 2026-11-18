@@ -960,9 +960,16 @@ def versjon_modus(mappe):
     """For valgte kilder uten tekst: finn andre oppføringer i OpenAlex med samme tittel (arbeidsnotat, preprint)."""
     ut = os.path.join(ROT, "sporsmal", mappe)
     kand = {json.loads(l)["id"]: json.loads(l) for l in open(os.path.join(ut, "kandidater.jsonl"), encoding="utf-8")}
-    linjer = []
+    # Framdriften lagres underveis (versjoner.tsv og versjoner-sokt.txt), så en runde som når tidsgrensen
+    # fortsetter der den slapp (evu-voksne 18.11.2026: to runder på 100 minutter ble ikke ferdige).
+    vfil = os.path.join(ut, "versjoner.tsv")
+    sfil = os.path.join(ut, "versjoner-sokt.txt")
+    hode = "valgt\tversjon\tar\ttype\tpdf\tsammendrag\tkilde\ttittel\n"
+    linjer = [l.rstrip("\n") for l in open(vfil, encoding="utf-8")][1:] if os.path.exists(vfil) else []
+    linjer = [l for l in linjer if l]
+    sokt = set(open(sfil, encoding="utf-8").read().split()) if os.path.exists(sfil) else set()
     for wid in valgte_id(ut):
-        if kilder.har_tekst(wid) or wid not in kand:
+        if kilder.har_tekst(wid) or wid not in kand or wid in sokt:
             continue
         t = re.sub(r"[^\w\s-]", " ", kand[wid]["tittel"]).strip()
         kort = " ".join(t.split()[:10])
@@ -978,8 +985,11 @@ def versjon_modus(mappe):
                 kand[vid] = r
                 with open(os.path.join(ut, "kandidater.jsonl"), "a", encoding="utf-8") as f:
                     f.write(json.dumps(r, ensure_ascii=False) + "\n")
+        open(vfil, "w", encoding="utf-8").write(hode + "\n".join(linjer) + "\n")
+        with open(sfil, "a", encoding="utf-8") as f:
+            f.write(wid + "\n")
         time.sleep(0.2)
-    open(os.path.join(ut, "versjoner.tsv"), "w", encoding="utf-8").write("valgt\tversjon\tar\ttype\tpdf\tsammendrag\tkilde\ttittel\n" + "\n".join(linjer) + "\n")
+    open(vfil, "w", encoding="utf-8").write(hode + "\n".join(linjer) + "\n")
     print("\n".join(linjer))
 
 

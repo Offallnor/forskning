@@ -14,5 +14,6 @@
 # Fortsatt 18.11 kl. 17:45: runden nådde tidsgrensen, starter på nytt der den slapp (også de 13 sist tilførte)
 # Fortsatt 18.11 kl. 19:00: pdf-logg skrives nå underveis; kilder uten tekst fra før er lagt i pdf-logg.tsv og hoppes over
 # Fortsatt 18.11 kl. 22:50: --pdf har gått gjennom alle kildene, kjører --versjoner ferdig
+# Fortsatt 19.11 kl. 00:40: versjonssøket lagrer nå framdriften underveis
 python3 -I forskning/verktoy/sporsmal_sok.py evu-voksne --pdf
 python3 -I forskning/verktoy/sporsmal_sok.py evu-voksne --versjoner
