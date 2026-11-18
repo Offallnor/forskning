@@ -32,7 +32,7 @@ Godkjent av bestilleren 18.11.2026.
   3. lange tidsserier fra utvalg
   4. kortere eller mindre utvalg
   5. enkeltstudier av en bransje, et fag eller en institusjon
-- **Land:** Norge først, deretter Norden. Andre OECD-land bare i harmoniserte sammenligninger (kategori 2) eller når de forklarer mekanismer som er relevante for Norge.
+- **Land:** Norge først, deretter Norden. Andre land bare i harmoniserte sammenligninger på tvers av land (kategori 2). Studier fra land utenfor Norden som forklarer en mekanisme, er holdt utenfor etter innstrammingen 18.11.2026 (se «Avvik»).
 - **Periode:** publisert fra 2005, med vekt på utviklingen fra 2010.
 
 ## Tas ikke med
@@ -51,3 +51,6 @@ Utvalget er mettet når under 5 prosent av de nye kandidatene i siste referanser
 ## Avvik
 
 - **Grov sikting før første utvalg (18.11.2026).** Løypa sikter normalt først etter referanserunde 1, og første utvalg leser hele lista. Her ble de 3 987 kandidatene fra søket siktet med Haiku før første utvalg, fordi det koster for mye å la Opus lese alle sammendragene. Bestilleren godkjente dette for alle tre spørsmålene i prøvekjøringen på utdanning. Siktingsprompten i `verktoy/SIKTING.md` er skrevet for effektspørsmål og ble tilpasset et beskrivende spørsmål: overgangene, frafallet, NEET og konsekvensene ble beskrevet i stedet for «tiltaket», og effektstudier av tiltak og reformer på overgangene beholdes, så det strenge utvalget kan avgjøre om de forklarer utviklingen.
+- **Innstramming etter referanserunde 1 (18.11.2026, avgjort av bestilleren).** Utvalget vokste til 1 228 kilder etter referanserunde 1, og referanserunde 2 ga 14 368 nye kandidater, mest europeisk og internasjonal litteratur om unge utenfor arbeid og utdanning. Greinene 1–4 og fagskolen var likevel tynne for Norge. Bestilleren valgte å stramme inn: utenfor Norden tas bare harmoniserte sammenligninger på tvers av land (kategori 2) med, og studier fra andre land som forklarer en mekanisme, er tatt ut (318 kilder, begrunnet i `utelatt.tsv`). Kandidatene fra referanserunde 2 er filtrert med skript før siktingen: nordiske kandidater og kandidater med ord som tyder på sammenligning på tvers av land, beholdes. I tillegg er det kjørt et utfyllende norsk søk for greinene 1–4, og 24 kilder derfra er valgt på tittel i tråden.
+- **Education at a Glance.** De 96 utgavene og tabellene av Education at a Glance er holdt utenfor kildelista. De er statistikk, og tallene brukes i statistikkdelen fra datakatalogen.
+- **Tvil om kategori.** Første utvalg skrev kategorien ulikt ved tvil. Kommentarene er normalisert med skript slik at den sterkeste kategorien (lavest tall) står først og den andre etter «tvil:».
