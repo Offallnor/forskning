@@ -1,0 +1,20 @@
+{
+ "apen_url": "https://doi.org/10.22004/ag.econ.61587",
+ "ar": 2010,
+ "doi": "https://doi.org/10.22004/ag.econ.61587",
+ "forfattere": [
+  "Anita Alves Pena",
+  "Pena, Anita Alves"
+ ],
+ "hentet": "2026-11-18",
+ "hentet_fra": "https://ageconsearch.umn.edu/record/61587/files/Pena_AAEASelectedPaper10580.pdf",
+ "hvordan": "pdf",
+ "id": "W205827666",
+ "kilde": "RePEc: Research Papers in Economics",
+ "lenke": "https://openalex.org/W205827666",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "Migrant farmworkers are among the poorest members of the working class served by the U.S. public workforce investment system. The National Farmworker Jobs Program (NFJP) provides job training and employment assistance to migrant and seasonal farmworkers and their dependents. While stated goals include assisting migrant farmworkers increase “economic stability” by steadying agricultural employment and developing job skills, little empirical evidence exists as to the effectiveness of these programs. This study investigates the effects of continuing education participation on wages, time worked in agriculture, and poverty in this population. Data come from the U.S. Department of Labor’s National Agricultural Workers Survey (NAWS), a nationally and regionally representative survey of employed U.S. farmworkers. Multivariate regression analysis suggest that continuing education participation is associated with approximately 26 percent higher wages all else equal, though variation across programs is large and returns are greatest from job training and English language courses. Program participation is negatively related to annual weeks in agriculture overall, and positively related to nonagricultural work weeks and weeks spent abroad. Understanding the dynamics between continuing education participation and worker outcomes contributes to limited academic literature on migrant education programs and is important for strategic planning pertaining to future workforce investments.",
+ "tittel": "The Effect of Continuing Education Participation on Agricultural Worker Outcomes",
+ "type": "preprint"
+}

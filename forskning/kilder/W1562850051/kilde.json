@@ -1,0 +1,15 @@
+{
+ "ar": 2010,
+ "forfattere": [
+  "Miana Plesca",
+  "Iourii Manovskii",
+  "Gueorgui Kambourov"
+ ],
+ "id": "W1562850051",
+ "kilde": "RePEc: Research Papers in Economics",
+ "lenke": "https://openalex.org/W1562850051",
+ "oversikt": false,
+ "sammendrag": "The rapidly growing literature studying the returns to firm- and government-sponsored training has made a striking observation. Returns to firm-sponsored training are positive and large while returns to government-sponsored training are low or even negative, especially in the short run. This has sparked considerable research interest in studying why government-sponsored training is so ineffective. In this paper we re-evaluate the motivating evidence. We show that there is a clear selection issue overlooked by the existing literature. In particular, a large fraction of the participants in government-sponsored training are occupation switchers, while most of the participants in firm-sponsored training are occupation stayers. Since a switch of an occupation involves a substantial destruction of human capital, the associated decline in wages needs to be accounted for. Once we do this, we find large positive impact of training on workers' human capital. The magnitude of this effect is similar for training sponsored by the firm and the government.",
+ "tittel": "Training and Human Capital",
+ "type": "preprint"
+}

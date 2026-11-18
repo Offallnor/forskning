@@ -1,0 +1,19 @@
+{
+ "apen_url": "https://doi.org/10.25384/sage.c.4709159",
+ "ar": 2019,
+ "doi": "https://doi.org/10.25384/sage.c.4709159",
+ "forfattere": [
+  "Christine Dauth"
+ ],
+ "hentet": "2026-11-18",
+ "hentet_fra": "https://doku.iab.de/discussionpapers/2017/dp0717.pdf",
+ "hvordan": "pdf",
+ "id": "W3122813172",
+ "kilde": "RePEc: Research Papers in Economics",
+ "lenke": "https://openalex.org/W3122813172",
+ "merknad": "ÅPEN VERSJON (preprint eller arbeidsnotat), merkes i svaret",
+ "oversikt": false,
+ "sammendrag": "The author analyzes the effects of further training subsidies for low-skilled employees on individual labor market outcomes in Germany. Using detailed administrative data, the author exploits cross-regional variation in the policy styles of local employment agencies to identify causal effects of program participation. Findings show that training subsidies significantly increase cumulative employment duration and earnings in the short run and middle run for compliers, that is, those workers who additionally participate due to a more generous policy style in their agency. These gains are particularly pronounced for certain subgroups, such as women. A rough cost-benefit analysis, however, suggests that the program overall is not beneficial for the public budget.",
+ "tittel": "Regional Discontinuities and the Effectiveness of Further Training Subsidies for Low-Skilled Employees",
+ "type": "preprint"
+}
