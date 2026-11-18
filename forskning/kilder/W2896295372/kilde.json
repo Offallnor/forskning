@@ -1,0 +1,19 @@
+{
+ "apen_url": "https://www.tandfonline.com/doi/pdf/10.1080/09645292.2021.1929849?needAccess=true",
+ "ar": 2021,
+ "doi": "https://doi.org/10.1080/09645292.2021.1929849",
+ "forfattere": [
+  "Antti Kauhanen"
+ ],
+ "hentet": "2026-11-18",
+ "hentet_fra": "https://www.etla.fi/wp-content/uploads/ETLA-Working-Papers-56.pdf",
+ "hvordan": "pdf",
+ "id": "W2896295372",
+ "kilde": "Education Economics",
+ "lenke": "https://openalex.org/W2896295372",
+ "merknad": "ÅPEN VERSJON (preprint eller arbeidsnotat), merkes i svaret",
+ "oversikt": false,
+ "sammendrag": "I study the effect of an education-leave subsidy for the employed on labor-market outcomes and educational attainment using Finnish administrative linked employer-employee panel data and matching methods. The adult education allowance is available to employees with at least eight years of work experience and allows them to take a leave for 2–18 months to participate in an education program. I find large positive treatment effects on educational attainment and changing occupation. The treatment effects on earnings and employment are negative during the lock-in period and close to zero afterward. The effects are more positive for the less educated.",
+ "tittel": "The effects of an education-leave program on educational attainment and labor-market outcomes",
+ "type": "article"
+}

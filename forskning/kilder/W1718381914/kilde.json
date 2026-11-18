@@ -1,0 +1,17 @@
+{
+ "ar": 2017,
+ "doi": "https://doi.org/10.1111/labr.12115",
+ "forfattere": [
+  "Rafael Novella",
+  "Graciana Rucci",
+  "Claudia Vazquez",
+  "David S. Kaplan"
+ ],
+ "id": "W1718381914",
+ "kilde": "Labour",
+ "lenke": "https://openalex.org/W1718381914",
+ "oversikt": false,
+ "sammendrag": "Abstract This paper evaluates the impact of a training voucher programme in Chile, called Bono Trabajador Activo, on two labour market outcomes: monthly earnings and employment probabilities. Using detailed administrative datasets of the National Employment Service and the unemployment insurance system, we combine matching and difference‐in‐difference estimators to measure these effects up to five years after the application to the programme. Our main results indicate that the voucher has an overall positive impact on earnings, on the order of 3.2 per cent, and a small negative impact on formal employment. We find that the programme particularly improves earnings for less educated workers.",
+ "tittel": "Training Vouchers and Labour Market Outcomes in Chile",
+ "type": "article"
+}

@@ -1,0 +1,20 @@
+{
+ "apen_url": "http://urn.kb.se/resolve?urn=urn:nbn:se:su:diva-14795",
+ "ar": 2008,
+ "forfattere": [
+  "Xavier de Luna",
+  "Anders Stenberg",
+  "Olle Westerlund"
+ ],
+ "hentet": "2026-11-18",
+ "hentet_fra": "http://www.econ.umu.se/DownloadAsset.action?contentId=46956&languageId=3&assetKey=ues756",
+ "hvordan": "pdf",
+ "id": "W3121632739",
+ "kilde": "RePEc: Research Papers in Economics",
+ "lenke": "https://openalex.org/W3121632739",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "In this paper, we examine whether adult education delays retirement and increases labour force participation among the elderly, a mechanism suggested in the OECD strategy for 'active ageing' and the 'Lisbon strategy' of the EU. Using register data from Sweden, we analyse transcripts from adult education for the period 1979-2004 and annual earnings 1982-2004. We match samples of treated individuals, in adult education 1986-1989, and untreated on the propensity score. The timing of exit from the workforce is assessed by non-parametric estimation of survival rates in the labour force. The results indicate no effects of adult education on the timing of retirement.",
+ "tittel": "Can Adult Education Delay Retirement from the Labour Market",
+ "type": "preprint"
+}

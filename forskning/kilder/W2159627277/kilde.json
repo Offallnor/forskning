@@ -1,0 +1,18 @@
+{
+ "apen_url": "http://urn.kb.se/resolve?urn=urn:nbn:se:su:diva-17624",
+ "ar": 2009,
+ "forfattere": [
+  "Anders Stenberg"
+ ],
+ "hentet": "2026-11-18",
+ "hentet_fra": "http://hassler-j.iies.su.se/nordmac/MacNord/stenberg.pdf",
+ "hvordan": "pdf",
+ "id": "W2159627277",
+ "kilde": "RePEc: Research Papers in Economics",
+ "lenke": "https://openalex.org/W2159627277",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "At various political levels, including the OECD and the EU, it is repeatedly emphasized that upgrading the low skilled is an important area for the economic and social development of modern societies. Employers are typically reluctant to train low skilled, who in their turn are unwilling to participate due to financial constraints or a perception of low quality and/or returns to training. If this is a market imperfection, a possible remedy is suggested by public provision of formal education where enrollees are eligible for financial support. However, the costs may be large and the economic returns to formal adult education (AE) for low skilled, a crucial measure to assess if expenses should be increased or decreased, is a virtually unexplored issue. This study uses Swedish register data 1990-2004 of low skilled siblings aged 24-43 in 1994 to estimate difference-indifference- in-differences models which include family fixed effects. It is found that a year of AE improves earnings by 4.4 per cent, but calculations indicate that the private returns alone only roughly cover the costs incurred by society, implying that social returns to AE are needed to justify the expenses.",
+ "tittel": "Upgrading the Low Skilled: Is Public Provision of Formal Education a Sensible Policy?",
+ "type": "preprint"
+}

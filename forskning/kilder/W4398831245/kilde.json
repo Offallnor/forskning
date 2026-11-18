@@ -1,0 +1,17 @@
+{
+ "apen_url": "https://doi.org/10.7910/dvn/xvadz7",
+ "ar": 2009,
+ "doi": "https://doi.org/10.7910/dvn/xvadz7",
+ "forfattere": [
+  "Alberto Abadie",
+  "Joshua D. Angrist",
+  "Guido W. Imbens"
+ ],
+ "id": "W4398831245",
+ "kilde": "Harvard Dataverse",
+ "lenke": "https://openalex.org/W4398831245",
+ "oversikt": false,
+ "sammendrag": "This paper reports estimates of the effects of JTPA training programs on the distribution of earnings. The estimation uses a new instrumental variable (IV) method that measures program impacts on quantiles. The quantile treatment effects (QTE) estimator reduces to quantile regression when selection for treatment is exogenously determined. QTE can be computed as the solution to a convex linear programming problem, although this requires first-step estimation of a nuisance function. We develop distribution theory for the case where the first step is estimated nonparametrically. For women, the empirical results show that the JTPA program had the largest proportional impact at low quantiles. Perhaps surprisingly, however, JTPA training raised the quantiles of earnings for men only in the upper half of the trainee earnings distribution.",
+ "tittel": "Replication data for: Instrumental Variables Estimates of the Effect of Subsidized Training on the Quantiles of Trainee Earnings",
+ "type": "dataset"
+}

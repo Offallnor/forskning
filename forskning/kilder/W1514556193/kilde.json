@@ -1,0 +1,17 @@
+{
+ "ar": 2002,
+ "forfattere": [
+  "Anders Stenberg"
+ ],
+ "hentet": "2026-11-18",
+ "hentet_fra": "http://www.econ.umu.se/DownloadAsset.action?contentId=73733&languageId=3&assetKey=ues579",
+ "hvordan": "pdf",
+ "id": "W1514556193",
+ "kilde": "RePEc: Research Papers in Economics",
+ "lenke": "https://openalex.org/W1514556193",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "This paper evaluates the effects on unemployment of the Adult Education Initiative (AEI) in Sweden. The AEI offered the unemployed adult education at a compulsory or upper secondary level. The AEI is compared with the vocational training part of Labor Market Training (LMT). The study uses unemployment incidence and unemployment duration as outcome variables, both measured immediately after completion of the programs. For the incidence, selection on unobservables is taken into account while the analysis of duration in unemployment considers both selection bias and censored observations. The results indicate lower incidence following participation in the AEI, but also, significant at the ten per cent level, longer duration.",
+ "tittel": "Comprehensive Education for the Unemployed - Evaluating the Effectson Unemployment of the Adult Education Initiative in Sweden (Kunskapslyftet)(Kunskapslyftet)",
+ "type": "preprint"
+}

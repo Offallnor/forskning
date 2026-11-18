@@ -1,0 +1,20 @@
+{
+ "apen_url": "https://www.aeaweb.org/articles/pdf/doi/10.1257/pol.20210336",
+ "ar": 2023,
+ "doi": "https://doi.org/10.1257/pol.20210336",
+ "forfattere": [
+  "Blake Heller",
+  "Kirsten Slungaard Mumma"
+ ],
+ "hentet": "2026-11-18",
+ "hentet_fra": "https://vtechworks.lib.vt.edu/bitstreams/6a1c3e21-9768-4d2c-a418-31032f1c6fa3/download",
+ "hvordan": "pdf",
+ "id": "W3084314794",
+ "kilde": "American Economic Journal Economic Policy",
+ "lenke": "https://openalex.org/W3084314794",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "The ability to speak and understand a host country’s primary language is strongly associated with measures of immigrant integration. We estimate the causal effects of English language training for adult immigrants on participants’ civic and economic outcomes using randomized enrollment lotteries from a public adult education program in Massachusetts. Participation doubles voter participation and increases annual earnings by $2,400 (56 percent). Increased tax revenue from earnings gains cover program costs over time, generating a 6 percent return for taxpayers. Ours is the first randomized evaluation of adult English language training as a standalone intervention in the United States. (JEL D72, H75, I21, I26, J15, J24, J31)",
+ "tittel": "Immigrant Integration in the United States: The Role of Adult English Language Training",
+ "type": "article"
+}

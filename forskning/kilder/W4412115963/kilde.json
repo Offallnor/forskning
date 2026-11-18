@@ -1,0 +1,16 @@
+{
+ "apen_url": "https://osf.io/7dktj_v3/download",
+ "ar": 2025,
+ "doi": "https://doi.org/10.31235/osf.io/7dktj_v3",
+ "forfattere": [
+  "Daisuke Adachi",
+  "Lars Skipper"
+ ],
+ "id": "W4412115963",
+ "kilde": "SocArXiv (OSF Preprints)",
+ "lenke": "https://openalex.org/W4412115963",
+ "oversikt": false,
+ "sammendrag": "The offshoring of manufacturing jobs has replaced low-skilled workers who often lack the relevant skills to transition to new occupations. Using Danish adult education and employer-employee data, we study how adult vocational training influences occupational choice and mitigates labor demand shocks. Despite low participation rates in training programs, we show that manufacturing workers trained in business services (BS) programs have a 0.9-3.1 percentage point higher probability of transitioning to BS occupations using dynamic difference-in-difference analysis. We then propose and estimate a life-cycle model of occupation and program choice that yields a nested logit conditional choice probability. The program take-up elasticity is lower than the occupation choice elasticity, suggesting that individuals are insensitive to the monetary value of the programs. A counterfactual wage subsidy policy tied to participation in BS-related programs supports transitions from manufacturing to BS occupations and reduces the share of low-skilled individuals leaving the labor force, especially at older ages, demonstrating the potential for a resilient labor market.",
+ "tittel": "When Offshoring Threatens Jobs: Lifelong Education and Occupation Choice",
+ "type": "preprint"
+}

@@ -1,0 +1,18 @@
+{
+ "ar": 2002,
+ "forfattere": [
+  "Daniel G. Sullivan",
+  "Robert Lalonde",
+  "Louis S. Jacobson"
+ ],
+ "hentet": "2026-11-18",
+ "hentet_fra": "https://fraser.stlouisfed.org/files/docs/historical/frbchi/workingpapers/frbchi_workingpaper_2002-31.pdf",
+ "hvordan": "pdf",
+ "id": "W3082473857",
+ "lenke": "https://openalex.org/W3082473857",
+ "merknad": "ÅPEN VERSJON (preprint eller arbeidsnotat), merkes i svaret",
+ "oversikt": false,
+ "sammendrag": "Studies show that high-tenure displaced workers typically incur substantial long-term earnings losses. As these losses have become increasingly apparent, policy makers have significantly expanded resources for retraining, much of which takes place in regular community college classes. To analyze the effectiveness of such training, we link administrative earnings records with the community college transcript records of workers displaced from jobs during the first half of the 1990s in Washington State. We explore several issues of statistical specification for regression models quantifying the impact of community college credits on earnings. These include (i) the need to allow for a transition period immediately after the end of workers' schooling when their earnings may be temporarily depressed, (ii) whether earnings gains are strictly proportional to credits earned, and (iii) how to model worker-specific unobserved heterogeneity. In our preferred specification, we find that the equivalent of an academic year of community college schooling raises the long-term earnings of displaced workers by an average of about 9 percent for men and about 13 percent for women. ; However, these average returns mask substantial variation in the returns associated with different types of courses. On the one hand, we estimate that an academic year of more technically oriented vocational and academic math and science courses raise earnings by about 14 percent for men and 29 percent for women. On the other hand, we estimate that less technically oriented courses yield very low and possibly zero returns. About one third of the increase in earnings associated with more technically oriented vocational and academic math and science courses is estimated to be due to increases in wage rates, with the remainder attributable to increased hours of work.",
+ "tittel": "Estimating the Returns to Community College Schooling for Displaced Workers, Working Paper 2002-31",
+ "type": "article"
+}

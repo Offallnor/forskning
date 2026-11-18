@@ -1,0 +1,21 @@
+{
+ "apen_url": "http://www.ucd.ie/geary/static/publications/workingpapers/gearywp201221.pdf",
+ "ar": 2013,
+ "doi": "https://doi.org/10.1086/671809",
+ "forfattere": [
+  "Christopher A. Jepsen",
+  "Kenneth R. Troske",
+  "Paul A. Coomes"
+ ],
+ "hentet": "2026-11-18",
+ "hentet_fra": "https://docs.iza.org/dp6902.pdf",
+ "hvordan": "pdf",
+ "id": "W2300279195",
+ "kilde": "Journal of Labor Economics",
+ "lenke": "https://openalex.org/W2300279195",
+ "merknad": "ÅPEN VERSJON (preprint eller arbeidsnotat), merkes i svaret",
+ "oversikt": false,
+ "sammendrag": "This article provides one of the first rigorous estimations of the labor-market returns to community college certificates and diplomas, as well as estimations of the returns to the more commonly studied associate’s degrees. Using administrative data from Kentucky, we estimate panel-data models that control for differences among students in precollege earnings and educational aspirations. Associate’s degrees and diplomas have quarterly earnings returns of nearly $2,400 for women and $1,500 for men, compared with much smaller returns for certificates. There is substantial heterogeneity in returns across fields of study. Degrees, diplomas, and—for women—certificates correspond with higher levels of employment.",
+ "tittel": "The Labor-Market Returns to Community College Degrees, Diplomas, and Certificates",
+ "type": "article"
+}

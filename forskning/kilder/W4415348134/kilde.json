@@ -1,0 +1,20 @@
+{
+ "apen_url": "https://link.springer.com/content/pdf/10.1007/s11187-025-01117-z.pdf",
+ "ar": 2025,
+ "doi": "https://doi.org/10.1007/s11187-025-01117-z",
+ "forfattere": [
+  "Jozef Konings",
+  "Aaron Putseys"
+ ],
+ "hentet": "2026-11-18",
+ "hentet_fra": "https://link.springer.com/content/pdf/10.1007/s11187-025-01117-z.pdf",
+ "hvordan": "pdf",
+ "id": "W4415348134",
+ "kilde": "Small Business Economics",
+ "lenke": "https://openalex.org/W4415348134",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "We assess how subsidies for on-the-job training affect firm performance. Using a difference-in-differences research design, we find that these subsidies positively influence firm size, wages, and productivity. Over 4 years, employment increases by 3.55%, value added by 5.68%, and labor costs by 3.60%. Average wages and labor productivity grow by 1.95% and 2.12%, respectively. In the first year of treatment, a notable discrepancy exists between the wage (1.21%) and productivity (2.18%) effects, indicating incomplete rent-sharing. These positive effects are primarily seen in smaller firms, which significantly increase training expenditures and hours in the year they receive subsidies, resulting in more trained and skilled workers. Larger firms do not show similar effects, highlighting the possibility that smaller firms face greater financial constraints. Additionally, we find that subsidies focused on training in human resource management, logistics, and business skills drive these positive outcomes for firm size at the firm level.",
+ "tittel": "The impact of on-the-job training subsidies on firm-level outcomes: evidence from Flemish SMEs",
+ "type": "article"
+}

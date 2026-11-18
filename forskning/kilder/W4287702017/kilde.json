@@ -1,0 +1,20 @@
+{
+ "apen_url": "http://humcap.uchicago.edu/RePEc/hka/wpaper/Bennett_Blundell_Salvanes_2020_second-chance-returns-adult-ed.pdf",
+ "ar": 2020,
+ "forfattere": [
+  "Bennett, Patrick",
+  "Richard W. Blundell",
+  "Kjell G. Salvanes"
+ ],
+ "hentet": "2026-11-18",
+ "hentet_fra": "http://humcap.uchicago.edu/RePEc/hka/wpaper/Bennett_Blundell_Salvanes_2020_second-chance-returns-adult-ed.pdf",
+ "hvordan": "pdf",
+ "id": "W4287702017",
+ "kilde": "RePEc: Research Papers in Economics",
+ "lenke": "https://openalex.org/W4287702017",
+ "merknad": "ÅPEN VERSJON (preprint eller arbeidsnotat), merkes i svaret",
+ "oversikt": false,
+ "sammendrag": "Roughly one third of a cohort drop out of high school across OECD countries, and developing effective tools to address prime-aged high school dropouts is a key policy question. We leverage high quality Norwegian register data, and for identification we exploit reforms enabling access to high school for adults above the age of 25. The paper finds that considerable increases in high school completion and beyond among women lead to higher earnings, increased employment, and decreased fertility. As male education remains unchanged by the reforms, later life education reduces the pre-existing gender earnings gap by a considerable fraction.",
+ "tittel": "A Second Chance? Labor Market Returns to Adult Education Using School Reforms",
+ "type": "preprint"
+}

@@ -1,0 +1,16 @@
+{
+ "ar": 2018,
+ "doi": "https://doi.org/10.1177/0193841x18799434",
+ "forfattere": [
+  "Quinn Moore",
+  "Irma Perez‐Johnson",
+  "Robert Santillano"
+ ],
+ "id": "W2897969768",
+ "kilde": "Evaluation Review",
+ "lenke": "https://openalex.org/W2897969768",
+ "oversikt": false,
+ "sammendrag": "BACKGROUND: Differences in earnings measured using either survey or administrative data raise the question of which is preferred for program impact evaluations. This is especially true when the population of interest has varying propensities to be represented in either source. OBJECTIVES: We aim to study differences in impacts on earnings from a job training voucher experiment in order to demonstrate which source is most appropriate to interpret findings. RESEARCH DESIGN: Using study participants with survey-reported earnings, we decompose mean earnings differences across sources into those resulting from (1) differences in reported employment and (2) differences in reported earnings for those who are employed in both sources. We study factors related to these two sources of differences and demonstrate how impact estimates change when adjusting for them. RESULTS: We find that differences in mean earnings are driven by differences in reported employment, but that differences in impacts are driven by differences in reported earnings for those employed in both data sources. Employment and worker characteristics explain much of the research group differences in earnings among the employed. Out-of-state employment, self-employment, and employment in low unemployment insurance (UI) coverage occupations contribute importantly to research group differences in survey- and UI-based employment levels. Employment in more than one job contributes to treatment group differences in earnings among the employed. All of these factors contribute substantially to the difference between survey- and UI-based earnings impact estimates. CONCLUSION: Findings underscore the relevance of UI coverage to estimated earnings impacts and suggest assessing employment impacts using both UI- and survey-based measures.",
+ "tittel": "Decomposing Differences in Impacts on Survey- and Administrative-Measured Earnings From a Job Training Voucher Experiment",
+ "type": "article"
+}

@@ -1,0 +1,19 @@
+{
+ "apen_url": "https://researchonline.lse.ac.uk/id/eprint/115171/1/Life_long_learning_CLEAN_EE_ed1_clean_R2_clean.pdf",
+ "ar": 2022,
+ "doi": "https://doi.org/10.1080/09645292.2022.2059804",
+ "forfattere": [
+  "Gabriel Heller Sahlgren"
+ ],
+ "hentet": "2026-11-18",
+ "hentet_fra": "http://eprints.lse.ac.uk/115171/1/Life_long_learning_CLEAN_EE_ed1_clean_R2_clean.pdf",
+ "hvordan": "pdf",
+ "id": "W4225726955",
+ "kilde": "Education Economics",
+ "lenke": "https://openalex.org/W4225726955",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "We study the relationship between adult education and training (AET) and employment in Sweden. Exploiting rich data from the Programme for the International Assessment of Adult Competencies, and using an inverse-probability weighted regression-adjustment estimator, we find that AET is positively related to the probability of doing paid work. This relationship is driven by non-formal, job-related AET, such as on-the-job training. We also find that the relationship – the strength of which increases with training intensity – is similar across different types of non-formal, job-related AET. The results suggest that policies stimulating relevant AET take-up have promise to secure higher employment.",
+ "tittel": "Lifelong learning and employment outcomes: evidence from Sweden",
+ "type": "article"
+}

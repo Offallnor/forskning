@@ -1,0 +1,19 @@
+{
+ "apen_url": "https://www.sciencedirect.com/science/article/pii/S092753712200032X/pdf",
+ "ar": 2022,
+ "doi": "https://doi.org/10.1016/j.labeco.2022.102139",
+ "forfattere": [
+  "Annabelle Doerr"
+ ],
+ "hentet": "2026-11-18",
+ "hentet_fra": "https://edoc.unibas.ch/server/api/core/bitstreams/219c1a38-8758-4fa0-bce8-831d80625b53/content",
+ "hvordan": "pdf",
+ "id": "W4210288501",
+ "kilde": "Labour Economics",
+ "lenke": "https://openalex.org/W4210288501",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "This paper studies how training vouchers increase the employment prospects of women with interrupted employment histories. Using the population of female job returners who receive a training voucher to participate in training programs and a randomly selected control group from German administrative data, I analyze the effectiveness of training on various labor market outcomes. The analysis reveals that the receipt of a training voucher translates into substantial gains in employment and earnings. It reduces the gap between pre- and post-interruption earnings by as much as 77%. Moreover, training vouchers improve job quality, and increases job stability. Low skilled women benefit most.",
+ "tittel": "Vocational training for female job returners - Effects on employment, earnings and job quality",
+ "type": "article"
+}

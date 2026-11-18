@@ -1,0 +1,14 @@
+{
+ "ar": 2005,
+ "doi": "https://doi.org/10.1111/j.1467-9914.2005.00293.x",
+ "forfattere": [
+  "Anders Stenberg"
+ ],
+ "id": "W2044685238",
+ "kilde": "Labour",
+ "lenke": "https://openalex.org/W2044685238",
+ "oversikt": false,
+ "sammendrag": "Abstract. This paper evaluates the effects on unemployment in Sweden of the Adult Education Initiative (AEI) which during its run from 1997 to 2002 offered adult education to the unemployed at compulsory or upper secondary level. The AEI is compared with the vocational part of Labor Market Training (LMT) using unemployment incidence and unemployment duration as outcome variables, both measured immediately after completion of the programs. For unemployment incidence, selection on unobservables is taken into account by using a bivariate probit model. The analysis of unemployment duration considers both selection bias and censored observations. The results indicate lower incidence following participation in the AEI, but also — significant at the 10 per cent level — longer duration.",
+ "tittel": "Comprehensive Education for the Unemployed — Evaluating the Effects on Unemployment of the Adult Education Initiative in Sweden",
+ "type": "article"
+}

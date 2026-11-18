@@ -1,0 +1,17 @@
+{
+ "ar": 2003,
+ "forfattere": [
+  "Anders Stenberg"
+ ],
+ "hentet": "2026-11-18",
+ "hentet_fra": "http://www.usbe.umu.se/digitalAssets/15/15219_ues593.pdf",
+ "hvordan": "pdf",
+ "id": "W1551402157",
+ "kilde": "Umeå Economic Studies",
+ "lenke": "https://openalex.org/W1551402157",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "This paper evaluates the Adult Education Initiative (AEI) in Sweden which\\ offers full-time comprehensive education at compulsory or upper secondary level to unemployed aged between 25 and 55 year old. Using register data, the AEI\\ is compared with Labor Market Training\\ (LMT) which mainly involves vocational training. The change in yearly wage earnings between 1996 and 1999 is used as outcome variable. Bias caused by the selection process into programs is dealt with using two separate methods. First, a method of matching on the propensity score and wage earnings levels in 1996 is used, and second, a classical selection model. The results indicate that the AEI\\ has a positive effect compared with LMT for the subsamples of foreign citizens, females and individuals with a prior two year upper secondary school education.",
+ "tittel": "Short Run Effects on Wage Earnings of the Adult Education Initiative in Sweden",
+ "type": "article"
+}

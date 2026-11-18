@@ -1,0 +1,15 @@
+{
+ "apen_url": "https://www.tandfonline.com/doi/pdf/10.1080/13639080.2024.2447037?needAccess=true",
+ "ar": 2024,
+ "doi": "https://doi.org/10.1080/13639080.2024.2447037",
+ "forfattere": [
+  "Birgit Zeyer-Gliozzo"
+ ],
+ "id": "W4406113248",
+ "kilde": "Journal of Education and Work",
+ "lenke": "https://openalex.org/W4406113248",
+ "oversikt": false,
+ "sammendrag": "The automation of job tasks due to technological change increases the pressure on workers whose jobs consist largely of such activities. In this context, politics and science attach great importance to further training, although the benefits for affected workers have hardly been investigated. Drawing on human capital theory and the task-based approach, this study examines the effect of further training on job tasks and the probability of automation for workers at risk of automation. These are workers who (a) work in routine intense jobs or (b) have a high probability of automation, based on the expert assessment of the automatability of occupations by Frey and Osborne (2017). Using data from the German National Educational Panel Study (NEPS), fixed-effects models are estimated to account for unobserved heterogeneity. The results show that informal further training is most effective in increasing non-routine tasks and reducing routine tasks and the probability of automation. Formal and non-formal training also show returns in some cases, although these are often not significant. The results thus suggest that not all forms of further training are helpful in adapting to new demands in the course of technological change and provide starting points for future research.",
+ "tittel": "Returns to formal, non-formal, and informal further training for workers at risk of automation",
+ "type": "article"
+}

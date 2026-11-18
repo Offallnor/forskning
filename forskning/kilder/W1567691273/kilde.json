@@ -1,0 +1,18 @@
+{
+ "apen_url": "http://urn.kb.se/resolve?urn=urn:nbn:se:umu:diva-186",
+ "ar": 2003,
+ "forfattere": [
+  "Anders Stenberg"
+ ],
+ "hentet": "2026-11-18",
+ "hentet_fra": "http://umu.diva-portal.org/smash/get/diva2:142216/FULLTEXT01.pdf",
+ "hvordan": "pdf",
+ "id": "W1567691273",
+ "kilde": "RePEc: Research Papers in Economics",
+ "lenke": "https://openalex.org/W1567691273",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "This thesis consists of three papers which evaluate the effects of the Adult Education Initiative (AEI) in Sweden relative to the vocational part of Labor Market Training (LMT). Paper [I] studies unemployment incidence and unemployment duration for participants in the AEI relative to LMT. When evaluating the relative program effects on duration, one needs to take into account both the problem of selection and the fact that the outcome variable is right hand censored. The method used is an instrumental variable adaptation of the symmetrically trimmed least squares estimator. A bivariate probit model is used in order to study unemployment incidence. The results indicate a beneficial effect of the AEI relative to LMT on unemployment incidence, but longer duration in unemployment among the AEI participants. Paper [II] uses annual wage earnings in 1999 to compare the AEI and LMT for individuals that do not continue in education following program completion. Two separate estimation methods are used, the classical selection model and the method of matching on the propensity score. The results of both methods indicate negative effects of the AEI relative to LMT on wage earnings. The earnings effect of the AEI for individuals with a weak position in the labor market is particularly poor, implying that the official target to assist those individuals appear not to have succeeded. Paper [III] employs data for those enrolled in 1997 as well as 1998 to study the annual wage earnings of 1999 and 2000 and data on attachment to branches of employment before and after program. Data on branches of employment indicate less mobility among the AEI participants. This is largely due to a stronger attachment to the public service sector. The analysis of wage earnings of the sample enrolled in 1997, indicate that the effects on wage earnings tended to be more advantageous for the AEI in 2000 rather than 1999, possibly implying a lag in the effects of the program.",
+ "tittel": "An Evaluation of the Adult Education Initiative Relative Labor Market Training",
+ "type": "preprint"
+}

@@ -1,0 +1,17 @@
+{
+ "ar": 2021,
+ "forfattere": [
+  "Linn Karlsson"
+ ],
+ "hentet": "2026-11-18",
+ "hentet_fra": "http://www.usbe.umu.se/ues/ues1002.pdf",
+ "hvordan": "pdf",
+ "id": "W3204228173",
+ "kilde": "RePEc: Research Papers in Economics",
+ "lenke": "https://openalex.org/W3204228173",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "Complementary adult education provides a second chance for those who, for various reasons, did not complete their upper secondary education. Little, however, is known about the economic gains of those who continue on to higher education. This paper aims to study the effect of university education on economic outcomes among individuals who initially attained low levels of education, and then participated in adult education. Swedish longitudinal population register data from 1990{2015 was used to estimate the effect on income and employment among those who participated in adult education in 1994 and enrolled at university in 1996{1998. Difference-in-difference propensity score matching was used to account for non-random selection to university education. The results reveals signifcant gains in terms of earnings for those who proceeded on to university, and also their probability of employment increased. Additional heterogeneity analyses showed minor differences between students of different gender, and little to no differences between young and old students.",
+ "tittel": "Never too late? Returning to university after completing secondary education as adults",
+ "type": "preprint"
+}

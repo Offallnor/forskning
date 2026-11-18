@@ -1,0 +1,19 @@
+{
+ "apen_url": "https://docs.iza.org/dp4017.pdf",
+ "ar": 2009,
+ "forfattere": [
+  "Dolores Messer",
+  "Stefan C. Wolter"
+ ],
+ "hentet": "2026-11-18",
+ "hentet_fra": "https://docs.iza.org/dp4017.pdf",
+ "hvordan": "pdf",
+ "id": "W4298482537",
+ "kilde": "RePEc: Research Papers in Economics",
+ "lenke": "https://openalex.org/W4298482537",
+ "merknad": "ÅPEN VERSJON (preprint eller arbeidsnotat), merkes i svaret",
+ "oversikt": false,
+ "sammendrag": "This paper presents the results of a randomized experiment analyzing the use of vouchers for adult training. In 2006, 2,400 people were issued with a training voucher which they were entitled to use in payment for a training course of their choice. User behavior was compared with a control group of 14,000 people. People in the treatment and in the control group were not aware at any time that they were part of an experiment. The experiment shows that the voucher had a significant causal impact on participation in training modules. Nevertheless, the increase was partially offset by a deadweight loss in excess of fifty percent.",
+ "tittel": "Money Matters - Evidence from a Large-Scale Randomized Field Experiment with Vouchers for Adult Training",
+ "type": "preprint"
+}

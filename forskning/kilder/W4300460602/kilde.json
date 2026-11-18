@@ -1,0 +1,20 @@
+{
+ "apen_url": "https://cris.maastrichtuniversity.nl/en/publications/bc40a7b2-a943-4135-bace-3e3c66cc0c47",
+ "ar": 2011,
+ "doi": "https://doi.org/10.26481/umamet.2011054",
+ "forfattere": [
+  "Carla Haelermans",
+  "Lex Borghans"
+ ],
+ "hentet": "2026-11-18",
+ "hentet_fra": "https://docs.iza.org/dp6077.pdf",
+ "hvordan": "pdf",
+ "id": "W4300460602",
+ "kilde": "RePEc: Research Papers in Economics",
+ "lenke": "https://openalex.org/W4300460602",
+ "merknad": "ÅPEN VERSJON (preprint eller arbeidsnotat), merkes i svaret",
+ "oversikt": true,
+ "sammendrag": "A meta-analysis is used to study the average wage effects of on-the-job training. This study shows that the average reported wage effect of on-the-job training, corrected for publication bias, is 2.6 per cent per course. The analyses reveal a substantial heterogeneity between training courses, while wage effects reported in studies based on instrumental variables and panel estimators are substantially lower than estimates based on techniques that do not correct for selectivity issues. Appropriate methodology and the quality of the data turn out to be crucial to determine the wage returns.",
+ "tittel": "Wage Effects of On-the-Job Training: A Meta-Analysis",
+ "type": "preprint"
+}

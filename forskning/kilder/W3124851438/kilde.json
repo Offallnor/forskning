@@ -1,0 +1,21 @@
+{
+ "apen_url": "http://hdl.handle.net/10419/115524",
+ "ar": 2015,
+ "doi": "https://doi.org/10.18235/0011685",
+ "forfattere": [
+  "David S. Kaplan",
+  "Rafael Novella",
+  "Graciana Rucci",
+  "Claudia Vazquez"
+ ],
+ "hentet": "2026-11-18",
+ "hentet_fra": "https://www.econstor.eu/bitstream/10419/115524/1/IDB-WP-585.pdf",
+ "hvordan": "pdf",
+ "id": "W3124851438",
+ "lenke": "https://openalex.org/W3124851438",
+ "merknad": "ÅPEN VERSJON (preprint eller arbeidsnotat), merkes i svaret",
+ "oversikt": false,
+ "sammendrag": "This paper evaluates the impact of the Bono Trabajador Activo, a training voucher program in Chile, on workers' labor market outcomes. Using detailed administrative datasets of the National Employment Service and the Unemployment Insurance System, we apply difference-in-difference and IV estimators to measure these effects. Our main results indicate that the voucher program has an overall negative impact on employment and earnings, particularly among individuals who expect to change economic sector. In contrast, we find that the program improves labor outcomes for females, particularly for those with lower education. The voucher program also improves employment duration and mobility across economic sectors.",
+ "tittel": "Training Vouchers and Labor Market Outcomes in Chile",
+ "type": "report"
+}

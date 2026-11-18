@@ -1,0 +1,18 @@
+{
+ "apen_url": "http://hdl.handle.net/10919/92629",
+ "ar": 2018,
+ "forfattere": [
+  "Oded Gurantz"
+ ],
+ "hentet": "2026-11-18",
+ "hentet_fra": "https://vtechworks.lib.vt.edu/bitstreams/cc19599d-ce1f-4f36-84d9-cb11bb988c3b/download",
+ "hvordan": "pdf",
+ "id": "W2980755373",
+ "kilde": "VTechWorks (Virginia Tech)",
+ "lenke": "https://openalex.org/W2980755373",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "Do tuition vouchers and cash subsidies promote educational or labor force outcomes for “non-traditional” students? The author uses a regression discontinuity design to estimate the impacts of a state aid program with an unobserved eligibility cutoff. Eligibility has no impact on degree completion for students with a preference for community colleges or four-year colleges but increases bachelor’s degrees for students interested in for-profit colleges by four percentage points. The author finds no impact on employment or earnings for all applicants. This research highlights challenges in promoting human capital investment for adults.",
+ "tittel": "Impacts of State Aid for Non-Traditional Students",
+ "type": "report"
+}

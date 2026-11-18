@@ -1,0 +1,18 @@
+{
+ "apen_url": "https://doi.org/10.7892/boris.50129",
+ "ar": 2012,
+ "doi": "https://doi.org/10.7892/boris.50129",
+ "forfattere": [
+  "Guido Schwerdt",
+  "Dolores Messer",
+  "Ludger Woessmann",
+  "Stefan C. Wolter"
+ ],
+ "id": "W2811390556",
+ "kilde": "RePEc: Research Papers in Economics",
+ "lenke": "https://openalex.org/W2811390556",
+ "oversikt": false,
+ "sammendrag": "Lifelong learning is often promoted in aging societies, but little is known about its returns or governments' ability to advance it. This paper evaluates the effects of a large-scale randomized field experiment issuing vouchers for adult education in Switzerland. We find no significant average effects of the voucher program on earnings, employment, and subsequent education 1year after treatment. But effects are heterogeneous: low-educated individuals are most likely to profit from adult education, but least likely to use the voucher. In addition, the public voucher program appears to crowd out firm-financed training. The findings cast doubt on the effectiveness of untargeted voucher programs in promoting labor market outcomes through adult education.",
+ "tittel": "The impact of an adult education voucher program: Evidence from a randomized field experiment",
+ "type": "preprint"
+}

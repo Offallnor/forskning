@@ -1,0 +1,21 @@
+{
+ "apen_url": "http://hdl.handle.net/10419/37197",
+ "ar": 2010,
+ "forfattere": [
+  "Guido Schwerdt",
+  "Dolores Messer",
+  "Stefan C. Wolter",
+  "Ludger Woessmann"
+ ],
+ "hentet": "2026-11-18",
+ "hentet_fra": "https://www.econstor.eu/bitstream/10419/37197/1/VfS_2010_pid_1001.pdf",
+ "hvordan": "pdf",
+ "id": "W1683883188",
+ "kilde": "Econstor (Econstor)",
+ "lenke": "https://openalex.org/W1683883188",
+ "merknad": "ÅPEN VERSJON (preprint eller arbeidsnotat), merkes i svaret",
+ "oversikt": false,
+ "sammendrag": "Lifelong learning becomes increasingly important in times of population ageing, but little is known about the returns to adult education or the effectiveness of government attempts to promote adult learning. This paper evaluates the effects of a large-scale randomized field experiment with vouchers for adult education. We find no significant average labor market effects of voucher-induced self-financed adult education for compliers, but also find evidence for substantial effect heterogeneity. Overall, these findings cast doubts on the effectiveness of existing, unrestricted voucher programs to promote adult education.",
+ "tittel": "Labor Market Effects of Adult Education Vouchers: Evidence from a Randomized Field Experiment",
+ "type": "conference-paper"
+}

@@ -1,0 +1,18 @@
+{
+ "ar": 2013,
+ "forfattere": [
+  "Christine Singer",
+  "Ott-Siim Toomet"
+ ],
+ "hentet": "2026-11-18",
+ "hentet_fra": "https://doku.iab.de/discussionpapers/2013/dp2113.pdf",
+ "hvordan": "pdf",
+ "id": "W3121476952",
+ "kilde": "RePEc: Research Papers in Economics",
+ "lenke": "https://openalex.org/W3121476952",
+ "merknad": "ÅPEN VERSJON (preprint eller arbeidsnotat), merkes i svaret",
+ "oversikt": false,
+ "sammendrag": "We analyze the impact of the GermanWeGebAU programs, which are government-subsidized training measures for employed workers over 45 years old. We apply a dynamic matching approach similar to Crépon et al. (2009) and exploit novel information contained in rich German registry data. We focus on the effects on survival probability in original employment and estimate the effects separately by gender, age, job status, and program duration. We find that WeGebAU training improves the probability of remaining in paid employment by 1.0 to 2.5 percentage points in the two-year period following treatment. The effect is more pronounced for part-time workers and longer-duration program participants. Our analysis suggests that postponed labor market withdrawal is the main driver of the positive effects and that there is selection into treatment at the firm level.",
+ "tittel": "On government-subsidized training programs for older workers",
+ "type": "preprint"
+}

@@ -1,0 +1,17 @@
+{
+ "apen_url": "https://doi.org/10.1016/j.econedurev.2025.102683",
+ "ar": 2025,
+ "doi": "https://doi.org/10.1016/j.econedurev.2025.102683",
+ "forfattere": [
+  "Stefan M. Denzler",
+  "Jens Ruhose",
+  "Stefan C. Wolter"
+ ],
+ "id": "W4412462021",
+ "kilde": "Economics of Education Review",
+ "lenke": "https://openalex.org/W4412462021",
+ "oversikt": false,
+ "sammendrag": "This paper presents the first longitudinal estimates of the effect of work-related training on labour market outcomes in Switzerland. Using a novel dataset that links official census data on adult education to longitudinal register data on labour market outcomes, we apply a regression-adjusted matched difference-in-differences approach with entropy balancing to account for selection bias and sorting. We find that training participation increases yearly earnings and reduces the risk of unemployment two and three years after the treatment. The effects are heterogeneous as to age, education, and income position, whereby people in the lowest income tercile benefit most from income increases, while the dampening effect on unemployment is more pronounced for those in the highest income tercile.",
+ "tittel": "Labour market effects of work-related continuous education in Switzerland – evidence from administrative data",
+ "type": "article"
+}

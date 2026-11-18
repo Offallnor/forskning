@@ -1,0 +1,21 @@
+{
+ "apen_url": "https://doi.org/10.3386/w21137",
+ "ar": 2015,
+ "doi": "https://doi.org/10.3386/w21137",
+ "forfattere": [
+  "Ann Huff Stevens",
+  "Michal Kurlaender",
+  "Michel Grosz"
+ ],
+ "hentet": "2026-11-18",
+ "hentet_fra": "http://www.nber.org/papers/w21137.pdf",
+ "hvordan": "pdf",
+ "id": "W2930047264",
+ "kilde": "National Bureau of Economic Research",
+ "lenke": "https://openalex.org/W2930047264",
+ "merknad": "ÅPEN VERSJON (preprint eller arbeidsnotat), merkes i svaret",
+ "oversikt": false,
+ "sammendrag": "Career technical education (CTE) programs at community colleges are increasingly seen as an attractive alternative to four-year colleges, yet little systematic evidence exists on the returns to specific certificates and degrees.We estimate returns to CTE programs using administrative data from the California Community College system linked to earnings records.We employ estimation approaches including individual fixed effects and individual-specific trends, and find average returns to CTE certificate and degrees that range from 14 to 45 percent.The largest returns are for programs in the healthcare sector; estimated returns in non-health related programs range from 15 to 23 percent.",
+ "tittel": "Career Technical Education and Labor Market Outcomes: Evidence from California Community Colleges",
+ "type": "report"
+}

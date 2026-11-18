@@ -1,0 +1,14 @@
+{
+ "apen_url": "https://madoc.bib.uni-mannheim.de/335/1/dokument1.pdf",
+ "ar": 2004,
+ "forfattere": [
+  "Stefan Speckesser"
+ ],
+ "id": "W1937081207",
+ "kilde": "MADOC (University of Mannheim)",
+ "lenke": "https://openalex.org/W1937081207",
+ "oversikt": false,
+ "sammendrag": "This dissertation consists of four essays on evaluation of active labour market policy (ALMP). The first essay provides an overview of the literature on the evaluation of ALMP in Germany: Most of the evaluation studies for Germany show no significant employment effects of ALMP or negative outcomes but contain a great deal of statistical uncertainty because of insufficient data. The second essay estimates the employment effect for participants in further training in East Germany in the 90’s and compares the sensitivity of the estimated programme effects with respect to the method of correction on observables on the basis of propensity score matching. The evaluation results based on difference–in–differences estimators in matched samples differ only slightly and are consistently negative across all specifications. The third essay evaluates employment effects of the most important type of further training for the unemployed in Germany – the provision of specific professional skills – for participants in 93–4 after different unemployment experiences. The paper assumes independence of the treatment conditional on observable covariates to overcome the microeconomic evaluation problem and implements kernel matching estimators. The results indicate that the estimated effects are in most cases negative, at best insignificant. The last paper compares the macroeconomic employment effects of ALMP programmes in Germany and the United Kingdom. Both theoretically and due to the institutional design, clear macroeconomic effects cannot be derived. In the empirical part, the employment effects are estimated with fixed effects panel models, instrumental variable and dynamic panel models. In both countries, the macroeconomic impact of the programmes on unemployment and matching is hardly significant.",
+ "tittel": "Essays on Evaluation of Active Labour Market Policy",
+ "type": "dissertation"
+}

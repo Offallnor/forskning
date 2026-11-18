@@ -1,0 +1,18 @@
+{
+ "ar": 2007,
+ "doi": "https://doi.org/10.1108/01437720710733465",
+ "forfattere": [
+  "Anders Stenberg"
+ ],
+ "hentet": "2026-11-18",
+ "hentet_fra": "http://www.econ.umu.se/DownloadAsset.action?contentId=52712&languageId=3&assetKey=ues663",
+ "hvordan": "pdf",
+ "id": "W2009749193",
+ "kilde": "International Journal of Manpower",
+ "lenke": "https://openalex.org/W2009749193",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "Purpose The purpose of this paper is to evaluate the effects of comprehensive education as compared with vocational training by using Swedish data on a large sample of unemployed individuals aged 25 to 55. Design/methodology/approach The Adult Education Initiative (AEI) in Sweden was introduced in the autumn of 1997 and generated a massive expansion of subsidized adult comprehensive education. Participants in the vocational part of Labour Market Training (LMT) are used as a comparison group. The relative program effects are obtained by way of OLS fixed effects estimates, using register data of annual wage earnings from 1991 to 2003. Findings There are weaker earnings effects of comprehensive education relative to vocational training. However, insignificant coefficient results are obtained for individuals aged 43‐55 and also for females who prior to enrolment had experienced two‐year upper secondary schooling or resided in a municipality associated with a low level of average educational attainment. Research limitations/implications Identification of true underlying effects rely on fixed effects estimates. Using non‐experimental data, one would ideally have access to an instrumental variable, which could explain program choice without being correlated with wage earnings. Practical implications The results add to our knowledge on the relative average returns to general and specific human capital accumulation. In this specific case, more careful targeting of participants in the AEI could have improved the relative efficiency of the program. Originality/value This study offers guidance to labour market policy makers on how an appropriate mix is attained between vocational training and comprehensive education.",
+ "tittel": "Comprehensive education or vocational training for the unemployed?",
+ "type": "article"
+}

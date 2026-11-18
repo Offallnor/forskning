@@ -1,0 +1,19 @@
+{
+ "ar": 2001,
+ "forfattere": [
+  "Louis S. Jacobson",
+  "Robert Lalonde",
+  "Daniel G. Sullivan"
+ ],
+ "hentet": "2026-11-18",
+ "hentet_fra": "https://files.eric.ed.gov/fulltext/ED481841.pdf",
+ "hvordan": "pdf",
+ "id": "W2077461158",
+ "kilde": "RePEc: Research Papers in Economics",
+ "lenke": "https://openalex.org/W2077461158",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "Studies have shown that displaced workers’ can experience substantial long-term earnings losses. As these losses have become increasingly apparent, and the incidence of displacement has become more widely spread among industrial sectors, policy makers have significantly expanded resources for retraining programs. Much of this retraining takes place in community or junior colleges. This paper adds to the relatively sparse literature on the impacts of such retraining efforts by analyzing the impact of community college schooling on displaced workers' earnings. Using administrative data from two states, we find that the equivalent of a year of schooling raised long-term earnings of displaced male and female workers by about 5 percent. Although these gains are significant, they also are somewhat smaller than conventional estimates of the returns to schooling and insufficient to offset the lower earnings associated with workers' job losses. Further, we show that more than one-half of this gain results from the impact of schooling on hours worked. On average a year of community college schooling received by prime-aged workers was associated with less than a 2 percent increase in hourly wages. However, these average returns mask substantial variation in the returns associated with different types of courses. Skills acquired from more technically oriented vocational and academic math and science courses have very large returns, whereas most other types of courses are associated with zero or sometimes negative returns.",
+ "tittel": "The Returns to Community College Schooling for Displaced Workers.",
+ "type": "preprint"
+}

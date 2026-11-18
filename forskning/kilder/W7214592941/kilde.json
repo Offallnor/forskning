@@ -1,0 +1,17 @@
+{
+ "apen_url": "https://doi.org/10.3390/su18199915",
+ "ar": 2026,
+ "doi": "https://doi.org/10.3390/su18199915",
+ "forfattere": [
+  "YongHyun Yang",
+  "Sangho Lee",
+  "Chung Choe"
+ ],
+ "id": "W7214592941",
+ "kilde": "Sustainability",
+ "lenke": "https://openalex.org/W7214592941",
+ "oversikt": false,
+ "sammendrag": "This study employs administrative data from 227,399 individuals and utilizes generalized propensity score matching to compare four government-sponsored job training programs in Korea. The results indicate substantial heterogeneity across programs rather than a uniform advantage of central or regional administration. The General Program, Regional Innovation Project, and National Infrastructure & Strategic Industry Job Training typically outperform the Vocational Skills Development Account System in employment, whereas the Regional Innovation Project demonstrates relatively favorable long-term retention in various comparisons. Robustness checks broadly corroborate these trends, although certain estimates vary based on the matching method and sample period. The findings highlight the significance of program-specific design and delivery for enhancing the effectiveness and sustainability of publicly funded vocational training systems.",
+ "tittel": "Evaluating the Effectiveness of Government-Sponsored Training Initiatives in Korea: A Central vs. Regional Approach",
+ "type": "article"
+}

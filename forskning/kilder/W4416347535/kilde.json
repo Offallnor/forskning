@@ -1,0 +1,16 @@
+{
+ "apen_url": "https://doi.org/10.3102/01623737251360029",
+ "ar": 2025,
+ "doi": "https://doi.org/10.3102/01623737251360029",
+ "forfattere": [
+  "Peter Riley Bahr",
+  "Rooney Columbus"
+ ],
+ "id": "W4416347535",
+ "kilde": "Educational Evaluation and Policy Analysis",
+ "lenke": "https://openalex.org/W4416347535",
+ "oversikt": false,
+ "sammendrag": "Millions of community college students enroll in noncredit programs every year—most in occupational training—but there are few large-scale studies of how these programs affect students’ labor market opportunities. Here, we estimate returns to community college noncredit occupational training by applying individual fixed effects models to longitudinal administrative data from Texas. We find a modest but statistically significant increase in average quarterly earnings of approximately $2,000 per year (2019 dollars), emerging during the 2 years after training. This is a 3.8% increase over average pre-training earnings and is commensurate in magnitude with the typically short duration of the training, averaging about 90 hours. Returns vary by field of study, training type, training duration, and number of training spells. Our findings speak directly to ongoing policy discussions and rulemaking regarding the implementation of Workforce Pell Grants, which provide funding for short-term training, potentially including some community college noncredit programs. Our findings also inform state-level policy initiatives aimed at strengthening workforce readiness in priority industries—efforts that often rely on community colleges as central partners.",
+ "tittel": "Labor Market Returns to Community College Noncredit Occupational Education",
+ "type": "article"
+}

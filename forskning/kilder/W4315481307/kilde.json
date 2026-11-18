@@ -1,0 +1,20 @@
+{
+ "apen_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/irel.12325",
+ "ar": 2023,
+ "doi": "https://doi.org/10.1111/irel.12325",
+ "forfattere": [
+  "Tobias Schultheiss",
+  "Uschi Backes‐Gellner"
+ ],
+ "hentet": "2026-11-18",
+ "hentet_fra": "http://repec.business.uzh.ch/RePEc/iso/leadinghouse/0188_lhwpaper.pdf",
+ "hvordan": "pdf",
+ "id": "W4315481307",
+ "kilde": "Industrial Relations A Journal of Economy and Society",
+ "lenke": "https://openalex.org/W4315481307",
+ "merknad": "ÅPEN VERSJON (preprint eller arbeidsnotat), merkes i svaret",
+ "oversikt": false,
+ "sammendrag": "Abstract This paper examines the role of lifelong learning in counteracting skill depreciation and obsolescence. We differentiate between occupations with more hard skills versus more soft skills and draw on representative job advertisement data that contain machine‐learning categorized skill requirements and cover the Swiss job market in great detail across occupations (from 1950 to 2019). We examine lifelong learning effects for “harder” versus “softer” occupations, thereby analyzing the role of training in counteracting skill depreciation in occupations that are differently affected by skill depreciation. Our results reveal novel empirical patterns regarding the benefits of lifelong learning, which are consistent with theoretical explanations based on structurally different skill depreciation rates: In harder occupations, with large shares of fast‐depreciating hard skills, the role of lifelong learning is primarily as a hedge against unemployment risks rather than a boost to wages. By contrast, in softer occupations, in which workers build on more value‐stable soft‐skill foundations, the role of lifelong learning instead lies mostly in acting as a boost for upward career mobility and leads to larger wage gains.",
+ "tittel": "Different degrees of skill obsolescence across hard and soft skills and the role of lifelong learning for labor market outcomes",
+ "type": "article"
+}

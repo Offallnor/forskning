@@ -1,0 +1,21 @@
+{
+ "apen_url": "https://www.tandfonline.com/doi/pdf/10.1080/13639080.2020.1722988?needAccess=true",
+ "ar": 2020,
+ "doi": "https://doi.org/10.1080/13639080.2020.1722988",
+ "forfattere": [
+  "Bernt Bratsberg",
+  "Torgeir Nyen",
+  "Oddbjørn Raaum"
+ ],
+ "hentet": "2026-11-18",
+ "hentet_fra": "https://nva.sikt.no/registration/0198cc44f5ce-b3becb0f-b775-4a16-90c8-72a3fa1b190d",
+ "hvordan": "vitenarkivet",
+ "id": "W3008112640",
+ "kilde": "Journal of Education and Work",
+ "lenke": "https://openalex.org/W3008112640",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "Some countries have certifying institutions for competence acquired at the workplace. These institutions provide incentives for workplace training that may have favourable effects on productivity, earnings and labour market participation. We present evidence on the earnings effects of attaining vocational qualifications in adulthood through two alternative routes: (1) apprenticeship and (2) recognition and testing of vocational competence acquired through relevant work experience. Drawing on longitudinal administrative data from Norway and tracking the labour market careers of individuals without completed upper secondary education by age 25, we estimate the impacts of acquiring vocational qualifications on future labour earnings. To allow for differential labour market trajectories of those who do and do not acquire qualifications, we account for unobserved individual heterogeneity in both levels and earnings growth. Without a rich representation of unobserved heterogeneity, estimated earnings effects are exaggerated. We find that vocational qualifications from both the apprenticeship and the experience-based routes boost earnings of men and women. Certification of already acquired skills has some value in itself, but adult apprenticeships have more positive effects on future earnings, as they involve greater individual skills development.",
+ "tittel": "Economic returns to adult vocational qualifications",
+ "type": "article"
+}

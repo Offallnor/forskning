@@ -1,0 +1,21 @@
+{
+ "apen_url": "https://docs.iza.org/dp5431.pdf",
+ "ar": 2011,
+ "forfattere": [
+  "Guido Schwerdt",
+  "Dolores Messer",
+  "Ludger Woessmann",
+  "Stefan C. Wolter"
+ ],
+ "hentet": "2026-11-18",
+ "hentet_fra": "https://docs.iza.org/dp5431.pdf",
+ "hvordan": "pdf",
+ "id": "W4298272431",
+ "kilde": "RePEc: Research Papers in Economics",
+ "lenke": "https://openalex.org/W4298272431",
+ "merknad": "ÅPEN VERSJON (preprint eller arbeidsnotat), merkes i svaret",
+ "oversikt": false,
+ "sammendrag": "Lifelong learning is often promoted in ageing societies, but little is known about its returns or governments' ability to advance it. This paper evaluates the effects of a large-scale randomized field experiment issuing vouchers for adult education in Switzerland. We find no significant average effects of voucher-induced adult education on earnings, employment, and subsequent education one year after treatment. But effects are heterogeneous: Low-education individuals are most likely to profit from adult education, but least likely to use the voucher. The findings cast doubt on the effectiveness of existing untargeted voucher programs in promoting labor market outcomes through adult education.",
+ "tittel": "Effects of Adult Education Vouchers on the Labor Market: Evidence from a Randomized Field Experiment",
+ "type": "preprint"
+}

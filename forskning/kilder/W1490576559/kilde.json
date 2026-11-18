@@ -1,0 +1,14 @@
+{
+ "ar": 2004,
+ "forfattere": [
+  "James W. Albrecht",
+  "Gérard J. van den Berg"
+ ],
+ "id": "W1490576559",
+ "kilde": "RePEc: Research Papers in Economics",
+ "lenke": "https://openalex.org/W1490576559",
+ "oversikt": false,
+ "sammendrag": "The Swedish adult education program known as the Knowledge Lift (kunskapslyftet) is unprecedented in size and scope. This paper evaluates the effects of program participation on individual labor market outcomes, in particular, employment and annual income, as well as on labor market equilibrium. For the effects at the individual level, we apply fixed-effect methods allowing for treatment effect heterogeneity. The data are based on several matched longitudinal (1994-2000) administrative datasets covering the full Swedish labor force. For the equilibrium effects, we analyze an equilibrium search model with heterogeneous worker skills. This model is calibrated using pre-program observations",
+ "tittel": "The Knowledge Lift: Adult Education in Sweden",
+ "type": "preprint"
+}

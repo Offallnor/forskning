@@ -1,0 +1,20 @@
+{
+ "apen_url": "https://labourmarketresearch.springeropen.com/counter/pdf/10.1186/s12651-024-00379-6",
+ "ar": 2025,
+ "doi": "https://doi.org/10.1186/s12651-024-00379-6",
+ "forfattere": [
+  "Li Kathrin Rupieper",
+  "Stephan Lothar Thomsen"
+ ],
+ "hentet": "2026-11-18",
+ "hentet_fra": "https://labourmarketresearch.springeropen.com/counter/pdf/10.1186/s12651-024-00379-6",
+ "hvordan": "pdf",
+ "id": "W4406292102",
+ "kilde": "Journal for Labour Market Research",
+ "lenke": "https://openalex.org/W4406292102",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "Abstract After the German reunification in 1990, East Germany transitioned from a centrally planned economic system to a market economy. To tackle surging unemployment, upskilling through adult education was deemed essential at the time. Besides substantial mandatory training programs provided by active labor market policies, Volkshochschulen (VHS) were the most important providers of voluntary adult education. Based on newly digitized data, we estimate how VHS courses affected unemployment in a county-level analysis of East Germany between 1991 and 2002. Our identification strategy employs the decentralized expansion of courses, which led to substantial, quasi-random variation in their regional supply. We do not find any significant effects of VHS courses on subsequent unemployment. Lacking labor demand and low market dynamics may have restricted the realization of education effects. Regional disparities support this notion: In counties bordering West Germany, courses reduced unemployment. Our results hint towards multiple mechanisms at play, as both work-related and recreational courses were found to be effective in border counties.",
+ "tittel": "Can voluntary adult education reduce unemployment? Causal evidence from East Germany after reunification",
+ "type": "article"
+}
