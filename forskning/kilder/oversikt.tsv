@@ -403,7 +403,7 @@ W1584589514	How Much of the Decline in Unemployment Is Due to the Exhaustion of 
 W1585614607	Bonus Impacts on Receipt of Unemployment Insurance	2001	nei		https://openalex.org/W1585614607		dagpenger-varighet-niva	0	0
 W1587446007	Lohnfortzahlung und Krankenstand	2000	ja		https://openalex.org/W1587446007	https://www.econstor.eu/bitstream/10419/2284/1/300528353.pdf	egenandel-sykefravaer	1	0
 W1587504898	Jobfinding and Wages when Longrun Unemployment is Really Long: The Case of Spain	1990	nei		https://openalex.org/W1587504898		dagpenger-varighet-niva	0	0
-W1588450396	Active labor market programs for the integration of youths and immigrants into the labor market: the Nordic experience	2008	nei		https://openalex.org/W1588450396		lonnstilskudd-unge	0	0
+W1588450396	Active labor market programs for the integration of youths and immigrants into the labor market: the Nordic experience	2008	nei		https://openalex.org/W1588450396		evu-voksne,lonnstilskudd-unge	0	0
 W1588566104	Contingent, Temporary Unemployment Insurance's Impacts on Employment and Unemployment Durations	2007	ja		https://openalex.org/W1588566104	https://docs.iza.org/dp2959.pdf	dagpenger-varighet-niva	1	0
 W1589202403	Unemployment Duration, Incentives and Institutions - A Micro-Econometric Analysis Based on Scandinavian Data	2002	ja		https://openalex.org/W1589202403	http://su.diva-portal.org/smash/get/diva2:356272/FULLTEXT01.pdf	dagpenger-varighet-niva	0	0
 W1590810164	Unemployment Durations and Extended Unemployment Benefits in Local Labor Markets	2003	nei		https://openalex.org/W1590810164		dagpenger-varighet-niva	1	0
@@ -456,7 +456,7 @@ W1836119245	Effect of an intervention to enhance guideline adherence of occupati
 W1837038974	Veier til jobb for ungdom uten fullført videregående opplæring: Kan vikarbyråer og arbeidsmarkedstiltak lette overgangen fra utdanning til arbeidsliv?	2012	ja		https://openalex.org/W1837038974	https://nva.sikt.no/registration/0198cc739699-f2a314b8-400e-46f2-887a-d6c3832eb77b	lonnstilskudd-unge	4	1
 W1837339559	Labor Market Institutions and Unemployment: A Critical Assessment of the Cross-Country Evidence	2002	nei		https://openalex.org/W1837339559		dagpenger-varighet-niva	0	0
 W1842806225	AN EMPIRICAL EXAMINATION OF THE SOURCES OF CHANGES OVER TIME IN THE JOB FINDING RATE USING RESERVATION WAGES AND REJECTED WAGE OFFERS*	2010	nei		https://openalex.org/W1842806225		dagpenger-varighet-niva	0	0
-W1849775659	What Works? A Meta Analysis of Recent Active Labor Market Program Evaluations	2015	ja		https://openalex.org/W1849775659	https://docs.iza.org/dp9236.pdf	lonnstilskudd-unge	4	1
+W1849775659	What Works? A Meta Analysis of Recent Active Labor Market Program Evaluations	2015	ja		https://openalex.org/W1849775659	https://docs.iza.org/dp9236.pdf	evu-voksne,lonnstilskudd-unge	4	1
 W1857755358	On the spike in hazard rates at unemployment benefit expiration: The signalling hypothesis revisited	2008	ja		https://openalex.org/W1857755358	https://mpra.ub.uni-muenchen.de/11223/1/MPRA_paper_11223.pdf	dagpenger-varighet-niva	0	0
 W1864068066	Unemployment insurance’s labour market impacts	2010	nei		https://openalex.org/W1864068066		dagpenger-varighet-niva	0	0
 W1873891533	What works for whom? An analysis of active labour market programmes in Norway	2005	nei		https://openalex.org/W1873891533		lonnstilskudd-unge	0	0
@@ -562,7 +562,7 @@ W2009087066	HOW WELL HAS THE NEW DEAL FOR YOUNG PEOPLE WORKED IN THE UK REGIONS?
 W2009197233	The Relationship between Unemployment Benefits and Re‐employment Probabilities: Evidence from Spain*	2004	nei		https://openalex.org/W2009197233		dagpenger-varighet-niva	0	0
 W2009803705	Evaluer l'impact de l'assurance chômage sur les trajectoires individuelles : de la théorie à la pratique	2011	nei		https://openalex.org/W2009803705		dagpenger-varighet-niva	1	0
 W2010289209	Transition from unemployment benefits to social assistance in seven European OECD countries	1998	nei		https://openalex.org/W2010289209		dagpenger-varighet-niva	0	0
-W2010586812	The effectiveness of European active labor market programs	2010	ja		https://openalex.org/W2010586812	https://docs.iza.org/dp2018.pdf	lonnstilskudd-unge	4	1
+W2010586812	The effectiveness of European active labor market programs	2010	ja		https://openalex.org/W2010586812	https://docs.iza.org/dp2018.pdf	evu-voksne,lonnstilskudd-unge	4	1
 W2012005929	Randomized Controlled Trial of Workplace-based Rehabilitation for Work-related Rotator Cuff Disorder	2007	nei		https://openalex.org/W2012005929			0	0
 W2012190243	Monitoring sickness insurance claimants: evidence from a social experiment *	2005	nei		https://openalex.org/W2012190243		aktivitetskrav-sykefravaer	1	1
 W2013038904	The impact of unemployment insurance generosity on match quality distribution	2006	nei		https://openalex.org/W2013038904		dagpenger-varighet-niva	0	0
@@ -738,7 +738,7 @@ W2104893223	Family Welfare Cultures *	2014	ja		https://openalex.org/W2104893223	
 W2104905575	Do Low‐Wage Workers React Less to Longer Unemployment Benefits? Quasi‐Experimental Evidence*	2013	ja		https://openalex.org/W2104905575	https://docs.iza.org/dp6992.pdf	dagpenger-varighet-niva	3	0
 W2105107427	Unemployment Insurance in Welfare States: Soft Constraints and Mild Sanctions	2007	ja		https://openalex.org/W2105107427	https://docs.iza.org/dp2877.pdf	dagpenger-varighet-niva	3	1
 W2105491539	How quickly does structural reform pay off? An empirical analysis of the short-term effects of unemployment benefit reform	2012	ja		https://openalex.org/W2105491539	https://izajolp.springeropen.com/counter/pdf/10.1186/2193-9004-1-12	dagpenger-varighet-niva	0	0
-W2106519551	Active Labor Market Policies	2016	nei		https://openalex.org/W2106519551		lonnstilskudd-unge	0	0
+W2106519551	Active Labor Market Policies	2016	nei		https://openalex.org/W2106519551		evu-voksne,lonnstilskudd-unge	0	0
 W2106849769	Effectiveness of an exposure-based return-to-work program for workers on sick leave due to common mental disorders: a cluster-randomized controlled tr	2012	ja		https://openalex.org/W2106849769	https://www.sjweh.fi/pdf-237291-145129?filename=Effectiveness-of-an-expos.pdf		0	0
 W2108320279	The Impact of Active Labor Market Programs and Benefit Entitlement on the Duration of Unemployment	2000	nei		https://openalex.org/W2108320279		dagpenger-varighet-niva	0	0
 W2108685260	Reservation Wages, Search Duration, and Accepted Wages in Europe	2004	ja		https://openalex.org/W2108685260	https://docs.iza.org/dp1252.pdf	dagpenger-varighet-niva	0	0
@@ -774,7 +774,7 @@ W2118102507	Faster return to work after psychiatric consultation for sicklisted 
 W2118183300	How long and how much? Learning About the Design of Wage Subsidies from Policy Discontinuities a	2013	ja		https://openalex.org/W2118183300	https://www.ifau.se/globalassets/pdf/se/2013/wp2013-18-how-long-and-how-much.pdf	lonnstilskudd-unge	0	0
 W2118764718	Assisting Social Security Disability Insurance Beneficiaries With Schizophrenia, Bipolar Disorder, or Major Depression in Returning to Work	2013	nei		https://openalex.org/W2118764718		ips-arbeid	1	0
 W2118828931	The Effect of Extending the Duration of Eligibility in an Italian Labour Market Programme for Dismissed Workers	2008	ja		https://openalex.org/W2118828931	https://www.ifo.de/DocDL/cesifo1_wp2340.pdf	dagpenger-varighet-niva	3	0
-W2119626280	Can training and employment subsidies combat European unemployment?	2002	nei		https://openalex.org/W2119626280		lonnstilskudd-unge	0	0
+W2119626280	Can training and employment subsidies combat European unemployment?	2002	nei		https://openalex.org/W2119626280		evu-voksne,lonnstilskudd-unge	0	0
 W2119864507	Essays on Unemployment and Labor Supply	2014	nei		https://openalex.org/W2119864507		dagpenger-varighet-niva	0	0
 W2120269123	Effectiveness of Occupational Injury Prevention Policies in Spain	2009	nei		https://openalex.org/W2120269123		arbeidstilsyn-effekt	2	1
 W2120584572	The Effectiveness of Vocational Services for Substance Users in Treatment	2004	nei		https://openalex.org/W2120584572		ips-arbeid	1	0
@@ -1344,7 +1344,7 @@ W3015169324	Benefit Duration, Job Search Behavior and Re-Employment	2020	ja		htt
 W3015192800	Preventing sickness absence among employees with common mental disorders or stress-related symptoms at work: a cluster randomised controlled trial of 	2020	ja		https://openalex.org/W3015192800	https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7306872/fullTextXML		0	0
 W3021330321	Assessing the Welfare Effects of Unemployment Benefits Using the Regression Kink Design	2015	ja		https://openalex.org/W3021330321	https://docs.iza.org/dp7589.pdf	dagpenger-varighet-niva	2	0
 W3021490932	Surprisingly small: effects of “generous” social benefits on re-employment of (quasi-) jobless households	2020	ja		https://openalex.org/W3021490932	https://www.cambridge.org/core/services/aop-cambridge-core/content/view/6FA99FEFD194240BB1F9D42C0F2E1FE1/S2169976320000017a.pdf/div-class-title-surprisingly-small-effects-of-generous-social-benefits-on-re-employment-of-quasi-jobless-households-div.pdf	dagpenger-varighet-niva	0	0
-W3021959460	What Works? A Meta Analysis of Recent Active Labor Market Program Evaluations	2017	nei		https://openalex.org/W3021959460		lonnstilskudd-unge	0	0
+W3021959460	What Works? A Meta Analysis of Recent Active Labor Market Program Evaluations	2017	nei		https://openalex.org/W3021959460		evu-voksne,lonnstilskudd-unge	0	0
 W3022725470	The Pros and Cons of Sick Pay Schemes: Testing for Contagious Presenteeism and Noncontagious Absenteeism Behavior	2016	ja		https://openalex.org/W3022725470	https://doi.org/10.3386/w22530	egenandel-sykefravaer	3	1
 W3023312121	Active Labor Market Programs for Youth	2020	nei		https://openalex.org/W3023312121		lonnstilskudd-unge	0	0
 W3023766513	Työhön paluu ja työkyvyttömyyseläkkeen riski sairauspoissaolon jälkeen. Katsaus 2008-2019 julkaistuun suomalaistutkimukseen.	2020	nei		https://openalex.org/W3023766513		gradert-sykmelding	1	1
@@ -1561,7 +1561,7 @@ W3125831545	Unemployment Benefits and Unemployment	2011	ja		https://openalex.org
 W3125845980	The Effects of UI Benefits on Unemployment and Subsequent Outcomes: Evidence from a Kinked Benefit Rule	2020	nei		https://openalex.org/W3125845980		dagpenger-varighet-niva	2	0
 W3125893180	Moral hazard among the sick and unemployed: evidence from a Swedish social insurance reform	2007	ja		https://openalex.org/W3125893180	https://www.econstor.eu/bitstream/10419/78678/1/526138912.pdf	dagpenger-varighet-niva,egenandel-sykefravaer	3	1
 W3125930406	Reform of unemployment compensation in Germany: a nonparametric bounds analysis using register data	2005	nei		https://openalex.org/W3125930406		dagpenger-varighet-niva	0	0
-W3125938983	What works and for whom: a review of OECD countries' experiences with active labour market policies	2001	ja		https://openalex.org/W3125938983	https://www.econstor.eu/bitstream/10419/82211/1/wp01-14.pdf	lonnstilskudd-unge	2	1
+W3125938983	What works and for whom: a review of OECD countries' experiences with active labour market policies	2001	ja		https://openalex.org/W3125938983	https://www.econstor.eu/bitstream/10419/82211/1/wp01-14.pdf	evu-voksne,lonnstilskudd-unge	2	1
 W3125949391	The Longterm Effects of UI Extensions on Employment	2011	nei		https://openalex.org/W3125949391		dagpenger-varighet-niva	1	0
 W3125972708	How Do Different Entitlements to Unemployment Benefits Affect the Transitions from Unemployment into Employment.	2008	nei		https://openalex.org/W3125972708		dagpenger-varighet-niva	0	0
 W3125979033	Shortening the potential duration of unemployment benefits and labor market outcomes: Evidence from a natural experiment in Germany	2018	ja		https://openalex.org/W3125979033	https://docs.iza.org/dp11300.pdf	dagpenger-varighet-niva	2	0
@@ -1912,7 +1912,7 @@ W4404026661	Short-Time Work Extensions	2024	ja		https://openalex.org/W4404026661
 W4404073311	The effectiveness of a problem-solving intervention with workplace involvement on self-reported sick leave, psychological symptoms and work ability: a	2024	ja		https://openalex.org/W4404073311	https://bmcpublichealth.biomedcentral.com/counter/pdf/10.1186/s12889-024-20564-z		0	0
 W4404826543	Early structured communication between general practitioner, sick-listed patient, and employer: Results and lessons learned from a pragmatic trial in 	2024	ja		https://openalex.org/W4404826543	https://www.cambridge.org/core/services/aop-cambridge-core/content/view/AD363706F115E7383882F37DD73022A3/S1463423624000574a.pdf/div-class-title-early-structured-communication-between-general-practitioner-sick-listed-patient-and-employer-results-and-lessons-learned-from-a-pragmatic-trial-in-the-capacity-note-project-div.pdf	aktivitetskrav-sykefravaer	2	1
 W4404867325	Activating Sick-Listed Employees in Scandinavia: A Scoping Review	2024	ja	kilder/W4404867325/fil.pdf	https://openalex.org/W4404867325	opplastet: 2024-activating-sick-listed-employees-in-scandinavia-a-scoping-review.pdf	aktivitetskrav-sykefravaer,gradert-psykisk,gradert-sykmelding	6	3
-W4405019671	Job search, unemployment insurance, and active labor market policies	2024	nei		https://openalex.org/W4405019671		dagpenger-varighet-niva	0	0
+W4405019671	Job search, unemployment insurance, and active labor market policies	2024	nei		https://openalex.org/W4405019671		dagpenger-varighet-niva,evu-voksne	0	0
 W4405813061	Is supported employment effective for Disability Insurance recipients with mental health conditions? Evidence from a randomized experiment in Belgium	2024	nei		https://openalex.org/W4405813061		ips-arbeid	2	1
 W4407161075	Less Offered, Less Taken: The Impact of State-Level Unemployment Insurance Cutbacks on Claims	2025	nei		https://openalex.org/W4407161075		dagpenger-varighet-niva	0	0
 W4407217164	Incentive-based active labor market programs: Insights from policy experimentation in Italy	2025	nei		https://openalex.org/W4407217164		dagpenger-varighet-niva	1	0
