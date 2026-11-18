@@ -1,0 +1,561 @@
+# Første utvalg 18.11.2026, etter grovsikting (2 894 av 6 353 beholdt). Lest i seks bolker på Opus.
+01a06b37e137-0eac1fd1-a6bd-4df2-96dd-8a793b810a3a  # 5, NO, tiltaksgruppe 2, scoping review (2015–2025) av forskning og grå litteratur om tiltak mot frafall i fag- og yrkesopplæringen i Norge; tematisk analyse av mekanismer og betingelser, ikke effektstørrelser; tvil: F
+W2032123100  # 1, US, tiltaksgruppe 1, metaanalyse av 15 studier (119 effektstørrelser) av frafallsprogram for gravide og unge mødre; odds for innskriving og fullføring mot sammenligningsgruppe, randomiserte og matchede design ga mindre effekter; tvil: 4
+W2100931415  # 1, US, tiltaksgruppe 1, systematisk oversikt over eksperimentelle og kvasieksperimentelle studier av politikk- og praksistiltak mot frafall i high school; effekt på frafall og fullføring
+W2096819442  # 1, US, tiltaksgruppe 5, oversikt over to tiår med studier av charterskoler; blandede resultater på prestasjoner, positive på fullføring av high school og college; designene ikke spesifisert; tvil: 3
+0198cc6e3be9-3b6d3a2c-e6af-401c-a3eb-3670ae2e4eb3  # 2, NO, tiltaksgruppe 1, andre underveisrapport fra klyngerandomisert evaluering av IKO-modellen; implementering og første effektanalyser IKO- mot TAU-skoler ett år etter oppstart; samme materiale som W4297073006
+0198cc53296c-1d0fedae-2045-49b0-82cb-075a3c20875b  # 2, NO, tiltaksgruppe 1, første underveisrapport fra klyngerandomisert IKO-evaluering i fire fylker; design, programteori og baseline, ingen effektmål ennå; samme materiale som W4297073006
+W3041161900  # 3, land ikke oppgitt, tiltaksgruppe 2, åtteårsresultater for Career Academies: sysselsetting, inntekt, utdanning og familieforhold; designet er ikke oppgitt i sammendraget; tvil: 5
+W2149364766  # 1, land ikke oppgitt, tiltaksgruppe 1, systematisk oversikt og metaanalyse (167 studier, 1985–2010) av forebyggings- og intervensjonsprogram mot frafall; effekt på fullføring og frafall; tvil: 4
+W1998163959  # 2, US, tiltaksgruppe 1, femårig randomisert studie av frafallsprogram med fasilitator for risikoelever ved to urbane high schools; oppmøte, progresjon og fullføring, ingen signifikante effekter
+W4412450403  # 2, AT/ES/SK, tiltaksgruppe 1, klyngerandomisert pilot av service-learning mot frafall (n=204) i secondary school; regresjon med frafallsrelatert utfall, utfallsmålet uklart i sammendraget
+W1976450713  # 1, US, tiltaksgruppe 1, Campbell-oversikt: 152 studier/317 utvalg, OR 1,72 for fullføring (frafall fra 21,1 til 13 prosent), justert for metodekjennetegn; samme materiale som W2149364766; tvil: 4
+W1520638110  # 1, land ikke oppgitt, tiltaksgruppe 1, bare tittel, OECD-litteraturgjennomgang om politikk mot frafall; samme materiale som W1483383292; tvil: 5
+W2523908740  # 1, US, tiltaksgruppe 1, systematisk oversikt (1990–2013) over frafallstiltak for elever med emosjonelle vansker; bare én eksperimentell eller kvasieksperimentell studie oppfylte kravene
+W1483383292  # 1, FR (OECD), tiltaksgruppe 1, litteraturgjennomgang av årsaker til frafall og av utprøvde tiltak i OECD-land; narrativ, designene ikke oppgitt; tvil: 5
+W1577429050  # 3, land ikke oppgitt, tiltaksgruppe 2, rapport om effekter av Career Academies på arbeidsmarked og utdanning; sammendraget beskriver bare modellen, designet ikke oppgitt; samme materiale som W3041161900; tvil: 5
+W7225857731  # 1, land ikke oppgitt, tiltaksgruppe 2, forhåndsregistrert metaanalyse (protokoll, ingen resultater) av loddtrekning-, RD- og kvasieksperimentelle studier av CTE og reformer av yrkesfaglig løp; fullføring og frafall i prosentpoeng
+W7225904619  # 1, land ikke oppgitt, tiltaksgruppe 1, forhåndsregistrert metaanalyse (protokoll) av randomiserte forsøk med mentorprogram for 6–18-åringer; sekundære utfall oppmøte og fullføring
+019913bf517e-5db5129c-6b86-46ab-860f-2c0c9c6e2f84  # F, NO, tiltaksgruppe 1, masteroppgave med intervjuer om erfaringer med frafallstiltak i Vestfold; ingen effektmål
+0198cc5ec3e8-2e1b7cfb-544f-4b6a-a102-e218976ac657  # 2, NO, tiltaksgruppe 1, bare tittel, rapport fra klyngerandomisert evaluering av IKO-modellen; samme materiale som W4297073006
+0198f63a907c-85606b06-e7c6-450c-9c7d-8136c84b89bf  # F, NO, tiltaksgruppe 1, masteroppgave som dokumenterer forsøk med gruppeveiledning for elever på påbygg; beskrivelse uten effektmål
+0198cc69f14c-08ae744d-0198-47b1-9715-a1709b7ed0c1  # 5, NO, tiltaksgruppe 1, bare tittel, oversikt over norsk forskning på frafall i videregående; designene ukjent
+0198f5e8bfe7-c7a14653-147c-44a0-a52a-5a48fccac11c  # 2, NO, tiltaksgruppe 1, policy brief om RCT og prosessevaluering av IKO-modellen; samme materiale som W4297073006
+0198cc6670e0-4141e3ad-6f01-43a8-975b-b8ba10d73304  # 1, NO, tiltaksgruppe 1, bare tittel, systematisk kunnskapsoversikt om frafall i videregående; samme materiale som KU-2c335645-c85b-4e7e-9906-0062ca57e94f; tvil: 4
+0198cc7aad92-68fa951b-e2f8-412a-8746-cff1e1f4492a  # F, NO, tiltaksgruppe 2, delrapport 1 fra evalueringen av forsøk med praksisbrev (fra 2007–08, utvidet til 16 læreplaner); bakgrunn og organisering; samme materiale som 0198cc8dadab-e3cd1950-f333-4a2c-a6dd-0f4e419b4cd8
+0198cc7f6b95-ee061f42-7475-4726-bf36-134bd09446f8  # 5, NO, tiltaksgruppe 1, kunnskapsoversikt over forskning på rådgivning og oppfølgingstjenesten etter Reform 94; kartlegging uten effektmål; tvil: F
+0198cc705792-e1ccc6a3-e091-43a1-8aaa-4413be37ef16  # F, NO, tiltaksgruppe 2, delrapport I fra evalueringen av Kunnskapsløftet: tilbudsstruktur, søkning, opptak og gjennomføring; samme materiale som KU-a2a2fda3-be65-4dde-ae77-934dcfe7b1cb; tvil: 5
+0198cc7af4ee-56751fde-1887-485f-a0e0-d76cecc6a513  # 2, NO, tiltaksgruppe 1, bare tittel, rapport fra COMPLETE-prosjektet om systematisk arbeid med psykososialt miljø og gjennomføring (klyngerandomisert, jf. W2791256263); samme materiale som W4388491535
+0198f204adbe-636b9f0e-896b-460d-a544-6bab1a1ec6f3  # 2, NO, tiltaksgruppe 1, bare tittel, sluttrapport fra COMPLETE-prosjektet (klyngerandomisert, jf. W2791256263); samme materiale som W4388491535
+0198cc6534ab-067141b3-874e-48c4-9591-1ccebd837ca8  # F, NO, tiltaksgruppe 2, delrapport 1 fra evalueringen av forsøk med vekslingsmodell: organisering og implementering; samme materiale som 0198cc740d9e-0fde0df7-d7cd-4c6f-9d75-1f6c427d346f
+0198cc4fb22b-e7381f83-2512-464d-93a4-b566a38f8844  # F, NO, tiltaksgruppe 2, delrapport 2 om vekslingsmodell: elevenes og lærlingenes faglige utvikling og motivasjon, kvalitative intervjuer; samme materiale som 0198cc740d9e-0fde0df7-d7cd-4c6f-9d75-1f6c427d346f
+0198cc7780ff-994c31b4-d4d3-4c91-ab96-8133f1429cbb  # F, NO, tiltaksgruppe 2, delrapport 3 om vekslingsmodell: virkninger på fagopplæringssystemet; samme materiale som 0198cc740d9e-0fde0df7-d7cd-4c6f-9d75-1f6c427d346f
+019fcbe6dd01-7c447b0f-5f73-4e28-8eda-61e60a4b9569  # F, NO, tiltaksgruppe 3, kapittel om opplæringskontorenes rolle for kvalitet i yrkesopplæringen; beskrivende, ingen effektmål
+0198cc96ea0c-484f49f9-5f2c-4d9d-932a-555f22885ea7  # F, NO, tiltaksgruppe 2, delrapport II fra SINTEFs evaluering av Kunnskapsløftet i fag- og yrkesopplæringen; implementering hos fylker, lærlinger, instruktører og opplæringskontor; samme materiale som KU-833522a8-06b3-4758-816e-e44859a65576
+0198cc740d9e-0fde0df7-d7cd-4c6f-9d75-1f6c427d346f  # F, NO, tiltaksgruppe 2, sluttrapport fra Fafo/NIFU-evalueringen av forsøk med vekslingsmodeller 2013–2018
+0198f6395e8b-d899cfe9-0f75-44df-97e5-b7d849b13ac8  # F, NO, tiltaksgruppe 2, kvalitativ masteroppgave om forsøket med vekslingsmodell i service og samferdsel i Østfold; samarbeid skole, opplæringskontor og bedrift
+0198cc8dadab-e3cd1950-f333-4a2c-a6dd-0f4e419b4cd8  # F, NO, tiltaksgruppe 2, sluttrapport fra NIFUs evaluering av forsøket med praksisbrev 2008–2011 i tre fylker; tvil: 5
+01993dfef0cc-82bb60b3-4f0f-43d8-be76-1962e334c196  # 5, NO, tiltaksgruppe 2, delrapport 2 om praksisbrev: gjennomføring og erfaringer, gjennomføringen beskrives som god, uten sammenligningsgruppe; samme materiale som 0198cc8dadab-e3cd1950-f333-4a2c-a6dd-0f4e419b4cd8; tvil: F
+0198cc97d171-095f68dd-b170-4797-9a25-a6dc0c004d55  # 5, NO, tiltaksgruppe 2, bare tittel, delrapport 2 om praksisbrev; samme materiale som 01993dfef0cc-82bb60b3-4f0f-43d8-be76-1962e334c196; tvil: F
+0198cc79543a-7c979d0c-ebd9-4233-921b-3a479befabea  # F, NO, tiltaksgruppe 2, bare tittel, yrkesfaglæreres og elevers erfaringer i forsøk med yrkesretting av fellesfag
+0198cc8ae383-3ca8333b-1328-47d5-a13c-b6efd77dd47c  # F, NO, tiltaksgruppe 2, bare tittel, yrkesfagutdanningen etter Reform 94
+0198cc67dc43-059761aa-232f-4254-89c2-5915865da66f  # 5, NO, tiltaksgruppe 5, sammenligner utdanningsvalg og fagkompetanse for et kull før (f. 1973) og første kull etter Reform 94 (f. 1978) i to regioner, fem år etter grunnskolen; tvil: F
+0198cc44efb6-e9ce7dc0-52ce-4595-b389-312845eae5ea  # 5, NO, tiltaksgruppe 5, bare tittel, Reform 94 som trendskifte i videregående utdanning; design ukjent
+01993df162ee-e59dbddf-1138-4e52-b065-33c50600451e  # F, NO, tiltaksgruppe 5, dokumentasjonsnotat om første Reform 94-kulls overgang til arbeid, del av videreført reformevaluering
+0198cc92c4dd-a15287fa-2d89-4b56-ba7f-abe0f3fa1df4  # F, NO, tiltaksgruppe 5, bare tittel, integrasjon i arbeid og utdanning blant minoritetsungdom i første Reform 94-kull; samme materiale som 01993dfd6af8-64e11c32-fc63-4efd-b941-f86f49717cbc
+0198cc6ec68e-b7174947-003f-438a-b4fb-448144017944  # F, NO, tiltaksgruppe 5, dokumenterer gjennomstrømning til 1999 for de to første Reform 94-kullene, yrkesfag mot allmennfag og elever med og uten rett; videreført reformevaluering
+01993dfd6af8-64e11c32-fc63-4efd-b941-f86f49717cbc  # F, NO, tiltaksgruppe 5, survey seks år etter oppstart: kompetanseoppnåelse og overgang til arbeid og utdanning for minoritetsungdom i første Reform 94-kull; samme materiale som 0198cc6e4af5-58f7b140-1398-447d-80d3-2b6db82d02e6
+01993df6813c-cdb611a9-0f07-465b-880f-087f99052f23  # F, NO, tiltaksgruppe 5, notat om gjennomstrømning til 1999 for de to første Reform 94-kullene med LINDA-data; samme materiale som 0198cc6ec68e-b7174947-003f-438a-b4fb-448144017944
+0198cc6e4af5-58f7b140-1398-447d-80d3-2b6db82d02e6  # F, NO, tiltaksgruppe 5, survey (2000) av første Reform 94-kull: kompetanseoppnåelse og overgang til arbeid og høyere utdanning seks år etter
+KU-18699684-75d5-42e3-a5bc-9f6e846b1ab1  # F, NO, tiltaksgruppe 2, tredje delrapport fra evalueringen av fagfornyelsen yrkesfag: overgang Vg2–Vg3, lærlingers erfaringer og vurdering i bedrift
+KU-1cd014b9-e450-4ab6-a781-8907987e6774  # F, NO, tiltaksgruppe 2, delrapport om vekslingsmodeller: seks casestudier og Elevundersøkelsen om læring, motivasjon og gjennomføring; samme materiale som 0198cc4fb22b-e7381f83-2512-464d-93a4-b566a38f8844
+KU-24a1b6cc-33c7-47c3-9c7f-3df064bd000e  # F, NO, tiltaksgruppe 2, tidlig evaluering av praksisbrevforsøket 2008–2010; aktørenes vurderinger; samme materiale som 0198cc7aad92-68fa951b-e2f8-412a-8746-cff1e1f4492a
+KU-2d511544-6000-4cbf-a572-4f4ce8b0a633  # F, NO, tiltaksgruppe 2, sluttrapport praksisbrev: 51 elever fra 2008 i tre fylker, opplæringsløpet beskrevet; samme materiale som 0198cc8dadab-e3cd1950-f333-4a2c-a6dd-0f4e419b4cd8; tvil: 5
+KU-315690b9-0ad1-4266-b975-520616344942  # F, NO, tiltaksgruppe 2, delrapport om organisering og iverksetting av vekslingsmodeller i seks prosjekter; samme materiale som 0198cc6534ab-067141b3-874e-48c4-9591-1ccebd837ca8
+KU-5bb59825-a4d9-4fd1-b310-35808de890ae  # F, NO, tiltaksgruppe 2, første delrapport fra evalueringen av forsterket alternativ Vg3 for elever uten læreplass; kvalitative case og registerdata; samme materiale som KU-a2a2fd81-e41f-4a50-9e68-7400b07c51a6
+KU-63908c9b-1114-4e56-ba18-5433b568773b  # F, NO, tiltaksgruppe 2, første delrapport om vekslingsmodeller: organisering og iverksetting; samme materiale som 0198cc6534ab-067141b3-874e-48c4-9591-1ccebd837ca8
+KU-76a3d032-724d-4b67-9166-aeb3e0005374  # F, NO, tiltaksgruppe 2, delrapport om vekslingsmodeller 2014–2018: implementering og stabilisering, kvalitative intervjuer; samme materiale som 0198cc740d9e-0fde0df7-d7cd-4c6f-9d75-1f6c427d346f
+KU-833522a8-06b3-4758-816e-e44859a65576  # 5, NO, tiltaksgruppe 2, sluttrapport fra SINTEFs evaluering av Kunnskapsløftet i fag- og yrkesopplæringen: erfarte resultater og om endringer kan tilskrives reformen; tvil: F
+KU-85f99ede-c1c1-49c7-8419-c68bfb29cc57  # 5, NO, tiltaksgruppe 2, praksisbrev: 41 av 51 fulgte løpet, 3 utenfor opplæring, uten sammenligningsgruppe; samme materiale som 01993dfef0cc-82bb60b3-4f0f-43d8-be76-1962e334c196; tvil: F
+KU-97f4aef7-5ed6-436a-b8f7-07de692c6e70  # F, NO, tiltaksgruppe 2, bare tittel, evaluering av forsøk med praksisbrev 2009; samme materiale som 0198cc7aad92-68fa951b-e2f8-412a-8746-cff1e1f4492a
+KU-9c774b19-823b-4faa-a52d-078709a4a110  # F, NO, tiltaksgruppe 2, delrapport II fra evalueringen av Kunnskapsløftet i fag- og yrkesopplæringen; samme materiale som 0198cc96ea0c-484f49f9-5f2c-4d9d-932a-555f22885ea7
+KU-a2a2fd81-e41f-4a50-9e68-7400b07c51a6  # 5, NO, tiltaksgruppe 2, sluttrapport fra forsøket med forsterket alternativ Vg3 i fem fylker 2013–2015; intervjuer og kvantitative data om gjennomføring og elevresultater; tvil: F
+KU-a2a2fd95-1b35-4f33-95d0-08988416a92e  # 5, NO, tiltaksgruppe 2, sluttrapport praksisbrev 2008–2011: surveys, intervjuer og registeranalyser over tre år, lavere frafall og høy gjennomføring; samme materiale som 0198cc8dadab-e3cd1950-f333-4a2c-a6dd-0f4e419b4cd8; tvil: F
+KU-a2a2fd97-6f9a-49aa-ae05-a9e79d03d1c1  # 5, NO, tiltaksgruppe 2, delrapport 2 praksisbrev: gjennomføring, resultater i fellesfag og lærekontrakter; samme materiale som 01993dfef0cc-82bb60b3-4f0f-43d8-be76-1962e334c196; tvil: F
+KU-a2a2fd9e-f402-4b1e-8691-4b370d08bbdf  # F, NO, tiltaksgruppe 2, evaluering av praksisbrevforsøket 2009: læreplaner, rekruttering, erfaringer og kjennetegn ved kandidatene; samme materiale som 0198cc7aad92-68fa951b-e2f8-412a-8746-cff1e1f4492a
+KU-a2a2fda3-be65-4dde-ae77-934dcfe7b1cb  # 5, NO, tiltaksgruppe 2, evaluering av Kunnskapsløftet: tilbudsstruktur, søkning og gjennomføring med VIGO-data for kullene 2004–2007, effektene på gjennomføring framstår som nøytrale; tvil: F
+KU-b98b919e-3986-4d20-9945-96256bbd6489  # 2, NO, tiltaksgruppe 1, prosjektbeskrivelse av klyngerandomisert IKO-evaluering med 42 skoler; samme materiale som W4297073006
+KU-c2ac5b63-9726-4ec2-8c4a-b88176cf2ec0  # F, NO, tiltaksgruppe 2, første resultater om tilbudsstruktur og gjennomføring i evalueringen av Kunnskapsløftet; samme materiale som KU-a2a2fda3-be65-4dde-ae77-934dcfe7b1cb
+KU-cb950ea0-3152-4981-9921-6d97be61fb66  # F, NO, tiltaksgruppe 2, første delrapport om vekslingsmodell: organisering og implementering i seks prosjekter; samme materiale som 0198cc6534ab-067141b3-874e-48c4-9591-1ccebd837ca8
+KU-d8f60786-a1d0-4d56-94cc-d1f8a0b985eb  # F, NO, tiltaksgruppe 2, delrapport I (forventningsstudie) fra evalueringen av Kunnskapsløftet i fag- og yrkesopplæringen; samme materiale som 0198cc96ea0c-484f49f9-5f2c-4d9d-932a-555f22885ea7
+KU-ee5f061c-78e2-46b5-ad01-98c887098cec  # F, NO, tiltaksgruppe 2, delrapport 3 fra evalueringen av Kunnskapsløftet i fag- og yrkesopplæringen: status i implementeringen 2010; samme materiale som 0198cc96ea0c-484f49f9-5f2c-4d9d-932a-555f22885ea7
+KU-f1235aed-b726-41d5-97c3-24d7a1136e1d  # F, NO, tiltaksgruppe 2, delrapport om vekslingsmodell: faglig utvikling, motivasjon og gjennomføring, intervjuer; samme materiale som 0198cc4fb22b-e7381f83-2512-464d-93a4-b566a38f8844
+KU-fde21f56-2434-443e-ba7c-430f721ec1cb  # F, NO, tiltaksgruppe 2, tredje delrapport om vekslingsmodell: utvikling og stabilisering av forsøkene; samme materiale som 0198cc7780ff-994c31b4-d4d3-4c91-ab96-8133f1429cbb
+KU-67fb65d9-9893-460c-b2bb-d1711b269ba2  # F, NO, tiltaksgruppe 2, syntese av evalueringene av Kunnskapsløftet i fag- og yrkesopplæringen 2008–2012 (Fafo, NIFU, SINTEF); ikke et review
+KU-2c335645-c85b-4e7e-9906-0062ca57e94f  # 1, NO, tiltaksgruppe 1, systematisk kunnskapsoversikt om tiltak med dokumentert effekt på frafall i videregående; kvalitet og relevans vurdert; tvil: 4
+W613375024  # 3, SE, tiltaksgruppe 5, avhandling: opptaksreformen i Stockholm 2000 (fra nærhet til karakterer), effekter på segregering og prestasjoner; fullføring ikke nevnt i sammendraget
+W2027892394  # 3, SE, tiltaksgruppe 2, pilotordning før reform som forlenget yrkesfag og økte allmennfaglig innhold; effekt på mengde videregående utdanning, universitetsstudier og inntekt
+W3010127918  # 5, DK, tiltaksgruppe 2, artikkel om 2014-reformen av dansk yrkesutdanning; oppsummerer forskning på effekten, ingen effekt på søkning eller fullføring; tvil: F
+W3121289800  # 3, NO, tiltaksgruppe 2, Reform 94: difference-in-discontinuity på koblede registre; effekt på yrkesfaglig innskriving, sosial mobilitet og inntekt etter kjønn
+W2791256263  # 2, NO, tiltaksgruppe 1, protokoll for klyngerandomisert forsøk (COMPLETE) med Drømmeskolen og psykisk helse-team i Vg1, 17 skoler; primære utfall fullføring, nærvær, karakterer og psykisk helse; samme materiale som W4388491535
+W2890347013  # 4, DK, tiltaksgruppe 1, ikke-randomisert kontrollert forsøk med Shaping the Social (fire tiltaksskoler, seks matchede kontrollskoler) i tekniske og landbruksfaglige yrkesskoler; frafall over to år i registerdata (n=10 190)
+W2011923685  # 3, NO, tiltaksgruppe 5, Reform 94 (rett til tre år) og innvandrerungdoms overgang til og fullføring av første år; før-etter med argument om kapasitetsbegrensninger; tvil: 5
+W4297073006  # 2, NO, tiltaksgruppe 1, klyngerandomisert evaluering av IKO (42 skoler, 7677 Vg1-elever) med administrative data; ingen effekt på fravær, fullføring eller karakterer etter to år
+W2088392856  # 2, IT, tiltaksgruppe 1, klyngerandomisert evaluering av Innovare, lærerbasert frafallsforebygging i tidlige trinn på yrkesfaglige skoler; stryk, frafall og fravær
+W4403680443  # 3, US, tiltaksgruppe 2, generalisert DiD av innføring av career academies i et skoledistrikt; antydning om økt fullføring
+W3024772475  # 3, FI, tiltaksgruppe 1, stort frafallsprogram i finsk yrkesutdanning 2011–2014; DiD på registerdata (om lag 24 000 elever) for fullføring og frafall, ingen effekt
+W4385622494  # 1, HU, tiltaksgruppe 1, kvalitativ systematisk oversikt over 25 studier (2013–2021) av mentoring mot frafall; mål og utfall, designene ikke oppgitt; tvil: 5
+W2796066332  # 1, land ikke oppgitt, tiltaksgruppe 1, bare tittel, metaanalyse av utfall og strategier i frafallsforebygging
+W2468411390  # 2, land ikke oppgitt, tiltaksgruppe 1, bare tittel, randomisert effektivitetsforsøk av Check & Connect: oppmøte, atferd og faglige utfall; samme materiale som W2094399009
+W291997102  # 2, land ikke oppgitt, tiltaksgruppe 1, bare tittel, randomisert forsøk med frafallsintervensjon for elever i secondary
+W2890784692  # 5, SE (fra tittelen), tiltaksgruppe 2, bare tittel, utdanningsreform og arbeidsmarkedsutfall for svenske tidlige skoleslutere med innvandrerbakgrunn; design ukjent
+W1482751895  # 2, US, tiltaksgruppe 1, tre randomiserte forsøk i Chicago med Becoming a Man; arrestasjoner, skoleengasjement og fullføring (12–19 prosent økning i første studie)
+W2111404192  # 3, DE/AT (11 land), tiltaksgruppe 2, DiD av sysselsetting over livsløpet for yrkesfaglig mot allmenn utdanning (IALS), med variasjon fra bedriftsnedleggelser i østerrikske data; utfall 3; tvil: 5
+W2066873236  # 2, US, tiltaksgruppe 1, randomisert evaluering av mentoring, utdanningstjenester og økonomiske belønninger (også gruppe 4) for lavtpresterende elever; fullføring, høyere utdanning og sysselsetting ved 19, 21 og 24 år
+W2530284988  # 3, US, tiltaksgruppe 2, RD på opptak til overtegnede CTE-skoler i Massachusetts; fullføring i tide 7–10 prosentpoeng høyere
+W239404163  # 2, US, tiltaksgruppe 2, eksperimentell og kvasieksperimentell longitudinell studie av CTE-programs of study i to distrikter; prøveresultater, karakterer og progresjon mot fullføring; tvil: 3
+W1765917199  # 2, MX, tiltaksgruppe 1, RCT med informasjon om avkastning av utdanning til elever på 10. trinn; ingen effekt på mål for fullføring i tide, positiv på prøveresultater
+W2136473291  # 3, IT, tiltaksgruppe 3, bare tittel, RD av om lærlingkontrakt bedrer jobbmulighetene
+W2592935902  # 3, TR, tiltaksgruppe 2, IV (tilgang til yrkesfaglig videregående i kommunen) for yrkesfaglig mot allmenn videregående og sysselsetting; effekten forsvinner med kontroller
+W2899999338  # 3, MX, tiltaksgruppe 4, RD for betinget kontantoverføring (Oportunidades); innskriving og fullføring i videregående og høyere utdanning ti år etter
+W2968503131  # 3, BE, tiltaksgruppe 2, DiD med ulik innføringstid for modulstruktur i Flandern; frafall 2,5 prosentpoeng lavere, også sysselsetting og inntekt
+W4281768817  # 3, ES, tiltaksgruppe 2, IV for dual VET mot tradisjonell VET i Catalonia; karakterer og fullføring
+W2040202717  # 3, AT, tiltaksgruppe 3, IV med bedriftskonkurser som avkorter læretiden; avkastning av lærlingopplæring på lønn
+W2613431921  # 1, NO, tiltaksgruppe 1, gjennomgang av norsk forskning på frafall og av tiltak som er innført og evaluert, del av en systematisk oversikt; tvil: 5
+W2047974420  # 3, JP, tiltaksgruppe 4, paneldata og IV for prefekturenes skolepengestøtte til private high schools; effekt på frafall, størst på ikke-akademiske linjer
+W1973914978  # 3, NO, tiltaksgruppe 1, folkehøgskole for elever som har falt fra (i ytterkant av gruppen); kovariatjustering og IV for fullføring av videregående, studieforberedende mot yrkesfag; tvil: 4
+W2094399009  # 2, US, tiltaksgruppe 1, randomisert blokkdesign av Check & Connect (260 elever, 14 middle og high schools); karakterer, disiplinærsaker og oppmøte
+W4281558597  # 3, NO, tiltaksgruppe 1, DiD med ulik innføringstid for Nav-veileder i videregående skole; elevene ble lenger i skolen, men fullføringen økte ikke; tvil: 4
+W2099924583  # 4, DK, tiltaksgruppe 1, designartikkel for ikke-randomisert klyngekontrollert studie av Shaping the Social; frafall fra registre over to år; samme materiale som W2890347013
+W2780270812  # 2, NO, tiltaksgruppe 1, bare tittel, forskningsprotokoll for klyngerandomisert evaluering av IKO; samme materiale som W4297073006
+W2496629830  # 2, NO, tiltaksgruppe 1, protokoll for klyngerandomisert forsøk med gruppebasert kognitiv atferdsterapi (ACDC) for deprimerte elever i videregående; depresjon, frafall og faglig fungering
+W4388491535  # 2, NO, tiltaksgruppe 1, klyngerandomisert forsøk (COMPLETE) med Drømmeskolen alene og med psykisk helse-team, tre års oppfølging; ingen effekt på andel fullført eller i opplæring (76,6–77,8 prosent)
+W2985147375  # 2, US, tiltaksgruppe 1, rapportversjon av tre randomiserte forsøk med Becoming a Man; samme materiale som W1482751895
+W1607122243  # 3, CO, tiltaksgruppe 4, matching og RD for betinget kontantoverføring (Familias en Acción); fullføring av high school 4–8 prosentpoeng høyere; tvil: 4
+W2317482249  # 2, US, tiltaksgruppe 4, randomisert felteksperiment med månedlige økonomiske insentiver til elever eller foreldre første år i high school; prestasjoner, effektene avtar over tid
+W2140696988  # 2, IL, tiltaksgruppe 4, randomiserte forsøk med kontantbelønning for matrikulasjonseksamen; randomisering på skolenivå økte andelen som besto
+W2598746472  # 3, DE, tiltaksgruppe 3, IV fra variasjon i lærlingplasser; lærlingopplæring mot skolebasert yrkesopplæring, arbeidsledighet og lønn ved 23–26 år
+W1584866630  # 3, SE, tiltaksgruppe 2, pilotordning før reform som forlenget yrkesfaglige linjer; frafall, utdanning og inntekt, økt frafall blant svake elever; samme materiale som W2027892394
+W1509808120  # 3, DE, tiltaksgruppe 5, variasjon over tid og delstater i reform som hevet kravene i læreplanen for high school; effekt på frafall
+W4398169198  # 5, IS, tiltaksgruppe 5, fritt skolevalg og karakterbasert inntak i islandsk videregående fra 1998; registerdata og inntaksdata fra én skole, kritisk policyanalyse; tvil: F
+W2587697090  # 4, DK, tiltaksgruppe 1, Shaping the Social: trivsel og røyking etter ti uker i ikke-randomisert kontrollert forsøk; samme materiale som W2890347013
+0198cc66a358-11949b65-bb27-44a2-93c9-fc9647d7d0d5  # F, NO, tiltaksgruppe 2, artikkel om praksisbrev i arbeidslivet basert på kvalitative longitudinelle data fra forsøket; samme materiale som 0198cc8dadab-e3cd1950-f333-4a2c-a6dd-0f4e419b4cd8
+0198cc8fdccd-31a1c18e-8536-4841-b20f-2e4c17921cb0  # F, NO, tiltaksgruppe 1, notat om forsøk i Program for bedre gjennomføring med tilrettelagt matematikk ved overgang til 8. trinn og Vg1 og etterutdanning av lærere; foreløpige resultater, designet ikke oppgitt
+0198cc5ccf1a-b9dfec35-3ba1-4132-9e74-39778cb460ce  # F, NO, tiltaksgruppe 2, erfaringer med fagfornyelsen i restaurant- og matfag 500 dager etter innføringen
+0198cc483014-372f236d-7f10-42cb-8931-357b72f98c35  # F, NO, tiltaksgruppe 2, følgeevaluering av forsøk med 2+2-modell for agronom og gartner 2015–2020; søkning mot resten av landet, kvalitet og overgang til arbeid; tvil: 5
+0198cc492a71-59d712a1-e6f6-43b3-a6fd-c1915679afa2  # F, NO, tiltaksgruppe 2, delrapport fra følgeevalueringen av forsøk med 2+2 for gartner og landbruk; samme materiale som 0198cc483014-372f236d-7f10-42cb-8931-357b72f98c35
+0198f637e085-bd94a57f-0c0e-4a48-a9e2-dc2a415632e2  # F, NO, tiltaksgruppe 2, masteroppgave om TAF-løpet (yrkes- og studiekompetanse) i helse- og oppvekstfag sett fra elevene; gruppeintervju og spørreskjema
+KU-70712110-f836-4d68-baab-ee6f0f440a57  # F, NO, tiltaksgruppe 2, delrapport 2 om prosjekt til fordypning i evalueringen av Kunnskapsløftet; surveys og intervjuer i lærebedrifter; samme materiale som KU-2fcde6dd-db06-47a8-8ef2-b403fdeef0d8
+KU-74ce3b45-cbd2-42fd-9797-9b73623758f2  # F, NO, tiltaksgruppe 2, evaluering av Kunnskapsløftets nye Vg2-struktur i yrkesfag: tilbud, dimensjonering, førstevalg og match mot læreplasser; samme materiale som KU-a2a2fd9f-3573-4dfd-97b7-4079de0f2730
+KU-9bcf4b3e-cf1d-4c05-8cda-107d158c0700  # F, NO, tiltaksgruppe 2, evaluering av forsterket alternativ Vg3 i fem fylker: gjennomføring og erfaringer; samme materiale som KU-a2a2fd81-e41f-4a50-9e68-7400b07c51a6
+KU-a2a2fd6a-65e5-48c3-abb4-3c5783e93a75  # F, NO, tiltaksgruppe 2, følgeevaluering av 2+2 for agronom og gartner: rekruttering, kvalitet og gjennomføring; samme materiale som 0198cc483014-372f236d-7f10-42cb-8931-357b72f98c35
+KU-a2a2fd91-4f98-4642-bcaa-a3aac8c84c14  # 5, NO, tiltaksgruppe 2, sluttrapport fra evalueringen av Kunnskapsløftet: fire elevkull fram til 2010, før-etter-sammenligning og multivariate analyser av kompetanseoppnåelse og overgang; bredere Vg2 ga ikke bedre gjennomføring; samme materiale som KU-a2a2fda3-be65-4dde-ae77-934dcfe7b1cb
+KU-a2a2fd9a-5845-4b98-bd6e-59181964689a  # 5, NO, tiltaksgruppe 2, overgangen fra Vg2 til Vg3 for første kull i Kunnskapsløftet; for tidlig å fastslå effekt; samme materiale som KU-a2a2fd91-4f98-4642-bcaa-a3aac8c84c14; tvil: F
+KU-a2a2fd9f-3573-4dfd-97b7-4079de0f2730  # F, NO, tiltaksgruppe 2, Kunnskapsløftets Vg2-struktur: casestudier, surveys og søke- og læreplasstall, førstevalg ikke økt; tvil: 5
+KU-c41a0ade-eb99-4f24-ab42-937caa7e1e5e  # F, NO, tiltaksgruppe 2, delrapport 1 om prosjekt til fordypning: samarbeid skole–arbeidsliv og modeller for organisering; samme materiale som KU-2fcde6dd-db06-47a8-8ef2-b403fdeef0d8
+KU-2fcde6dd-db06-47a8-8ef2-b403fdeef0d8  # 5, NO, tiltaksgruppe 2, sluttrapport om prosjekt til fordypning: betydning for kompetanseoppnåelse, kvalitative og kvantitative data; tvil: F
+LI-10545571  # 5, SE, tiltaksgruppe 2, bare tittel, gjennomstrømning i gymnasieskolan før og etter gymnasiereformen
+W2888225514  # 3, US, tiltaksgruppe 2, bare tittel, moderne career academies og elevutfall etter high school; design ukjent; tvil: 5
+W2606207466  # 2, US, tiltaksgruppe 1, RCT av Check & Connect for 553 risikoelever fra 9. trinn i tre år; ingen effekt på frafall eller fullføring
+W4408415068  # 1, IT/US, tiltaksgruppe 1, protokoll for Evidence and Gap Map over forebyggings-, intervensjons- og kompensasjonsprogram mot frafall
+W2508031730  # 3, land ikke oppgitt, tiltaksgruppe 1, oppsummering av implementering og effekter fra stor evaluering av føderale frafallsprogram; designet ikke oppgitt; tvil: 5
+W199840367  # 1, land ikke oppgitt, tiltaksgruppe 1, oversikt over program med effekt på frafall og collegeovergang i strenge evalueringer for latinoelever
+W4241507415  # 1, US, tiltaksgruppe 1, protokoll for Campbell-oversikten om frafallsprogram; samme materiale som W2149364766
+W987097530  # 1, US, tiltaksgruppe 1, systematisk økonomisk oversikt over high school completion-programmer, 37 studier med kostnad per ekstra fullført; tvil: 4
+W4403946492  # 1, ukjent, tiltaksgruppe 1, Community Guide-funn om high school completion programs bygd på systematiske oversikter over effekt og økonomi; nesten bare tittel
+W4396619718  # 1, US, tiltaksgruppe 1, metaanalyse av 26 studier av dropout-programmer K-12, effekt på fullføring ES 0,19, større i randomiserte og matchede design
+W2275042259  # 1, CA, tiltaksgruppe 1, systematisk oversikt over 38 kanadiske og 30 andre studier av undervisningstiltak for fullføring (støtte, kurs, alternative skoler); mange mangelfulle data; tvil: 5
+W2728873104  # 1, ukjent, tiltaksgruppe 1, systematisk oversikt, 18 studier av dropout-programmer; finner svak empirisk metode og blandede resultater; tvil: 5
+W7126056312  # 1, internasjonal, tiltaksgruppe 1, paraplyoversikt (4 oversikter) over årsaker til og tiltak mot frafall: mentorer, sosial-emosjonell læring, faglig støtte; tvil: 5
+W1875201337  # 1, ukjent, tiltaksgruppe 1, praksisveileder om dropout prevention fra IES; bare tittel; tvil: 5
+W4415689128  # 1, internasjonal, tiltaksgruppe 2, metaanalyse av 39 kausale studier av yrkesfag mot allmennfag: sysselsetting +4,8 pp, ingen lønnseffekt; utfall arbeid
+W7221163625  # 1, NO, tiltaksgruppe 1, systematisk kunnskapsoversikt om frafall i videregående; bare tittel; tvil: 5
+W3190050573  # 1, NO, tiltaksgruppe 1, kunnskapsoversikt over tiltak mot frafall fra barnehage til videregående; tvil: 5
+0198f65bfed9-cc5dba99-3dd9-45c0-b263-74d64d4bcfc7  # 1, NO, tiltaksgruppe 1, kunnskapsoversikt over tiltak mot frafall gjennom hele opplæringsløpet, tidlig innsats og overganger; samme materiale som W3190050573; tvil: 5
+0198cc7aee83-d331ecf3-ec02-4de1-83c1-7ba55d992057  # 1, NO, tiltaksgruppe 1, kapittel om frafall i Norge, omfang og hva som virker; bare tittel; tvil: 5
+0198cc4c9d65-63665e00-d6ae-4c56-9af5-6858ba815504  # 1, NO, tiltaksgruppe 2, kunnskapsoversikt om yrkesretting og relevans i fellesfagene; bare tittel; tvil: 5
+W2265459328  # 2, ukjent, tiltaksgruppe 1, randomisert forsøk med intensiv coaching i yrkesfaglig utdanning; ett år coaching reduserer frafall fra 17 til 10 prosent
+W7172330921  # 2, US, tiltaksgruppe 1, stort randomisert forsøk (n=2528) av omfattende elevstøtteprogram i to bydistrikter; små, ikke-signifikante effekter på fullføring, variasjon mellom steder
+W3133909094  # 2, US, tiltaksgruppe 1, randomisert forsøk med Check & Connect i to år for elever som lærer engelsk; engasjement, fravær, stryk; ingen signifikante forskjeller
+W2995276706  # 2, US, tiltaksgruppe 1, randomisert forsøk på skolenivå (4 skoler, 1588 elever) med freshmen success-modell i 9. trinn; effekt på engasjement, fravær og studiepoeng, ikke på karaktersnitt
+W1004005204  # 2, ukjent, tiltaksgruppe 1, randomisert forsøk med Peer Group Connection (elevmentorer) i 9. trinn; fullføring 84,6 mot 60,3 prosent for mer akkulturerte latinoelever
+W2994612272  # 2, MX, tiltaksgruppe 1, randomisert forsøk (5000 elever, 20 skoler) med program for sosial-emosjonelle ferdigheter og matematikkhjelp mot frafall (PODER); ingen effekt på fremmøte
+W3171582318  # 2, MX, tiltaksgruppe 1, randomisert forsøk med PODER mot frafall i videregående i Mexico by; nullresultater, lav deltakelse; samme materiale som W2994612272
+W4392346175  # 2, US, tiltaksgruppe 1, randomisert forsøk med tre måneders oppfølging (nudges) av sykepleier og sosionom for gravide tenåringer; ingen effekt på fullført skole
+W2937670795  # 2, MX, tiltaksgruppe 1, randomisert forsøk med informasjon om avkastning av utdanning og studiefinansiering i 10. trinn; ingen effekt på fullføring i tide (proxy), positiv på læring
+W3124813723  # 2, MX, tiltaksgruppe 1, randomisert forsøk med informasjon om avkastning; ingen effekt på fullføring i tide; samme materiale som W2937670795
+W4239826819  # 2, MX, tiltaksgruppe 1, randomisert forsøk med informasjon om avkastning; ingen effekt på fullføring i tide; samme materiale som W2937670795
+W2154417500  # 2, US, tiltaksgruppe 2, reanalyse av MDRCs randomiserte evaluering av career academies med principal stratification; effekt av faktisk deltakelse på inntekt
+W73968344  # 2, ukjent, tiltaksgruppe 2, career academies, virkninger på engasjement og prestasjoner i videregående; bare tittel
+W317074785  # 2, ukjent, tiltaksgruppe 2, career academies, virkninger på overgang til utdanning og arbeid; bare tittel; samme materiale som W73968344
+W2935740994  # 2, MX, tiltaksgruppe 4, randomisert tildeling av stipend (PROBEMS) til elever i videregående fra fattige familier; ingen effekt på fullføring etter tre år, feil målretting
+W3154429617  # 2, MX, tiltaksgruppe 4, randomisert forsøk med PROBEMS-stipend; ingen effekt på fullføring; samme materiale som W2935740994
+W1581139239  # 2, IL, tiltaksgruppe 4, randomiserte forsøk med kontantbelønning for bestått matrikulasjonseksamen blant svakt presterende elever
+W3123129511  # 2, MX, tiltaksgruppe 4, betinget kontantoverføring (Progresa) med randomisert forsøk; effekt på skoledeltakelse og beståtte trinn; tvil: 3
+W2766605352  # 2, MX, tiltaksgruppe 4, Progresa, randomisert forsøk; skoledeltakelse og beståtte trinn; samme materiale som W3123129511
+W12667410  # 2, MX, tiltaksgruppe 4, ringvirkninger av Progresa på elever i ungdomsskoler i nabolokaliteter, bygger på det randomiserte forsøket og utvidelsen av programmet; tvil: 3
+W652144353  # 3, ukjent, tiltaksgruppe 4, Education Maintenance Allowance-piloter, gjennomføring og rapporterte virkninger første to år; bare tittel; tvil: 5
+0198cc8d1ff3-71dec544-6851-4831-8298-439bab4316e3  # 3, NO, tiltaksgruppe 1, Ny GIV Overgangsprosjektet, sammenligner skoler som innførte tidlig og sent; ingen effekt på fullføring, kan utelukke mer enn 1-1,5 pp
+0199388dbb4c-24438faa-6077-4b44-86ea-21a36d544d0e  # 3, NO, tiltaksgruppe 1, første delrapport fra effektevalueringen av Ny GIV intensivopplæring; fullføring Vg1 og overgang til Vg2; samme materiale som 0198cc8d1ff3-71dec544-6851-4831-8298-439bab4316e3
+0198cc7430e6-c8092ef9-56b2-450f-95c1-ba3c944dbc82  # 3, NO, tiltaksgruppe 1, andre delrapport fra effektevalueringen av Ny GIV; ingen generell effekt, tegn til effekt i Stavanger; samme materiale som 0198cc8d1ff3-71dec544-6851-4831-8298-439bab4316e3
+0198cc3e1892-43e02417-1d80-45d8-9fb6-56da02af3a51  # 3, NO, tiltaksgruppe 1, effektevaluering av intensivopplæringen i Ny GIV; bare tittel; samme materiale som 0198cc8d1ff3-71dec544-6851-4831-8298-439bab4316e3
+KU-2a9a2a47-31c5-4853-aa03-482b20c1277f  # 3, NO, tiltaksgruppe 1, første delrapport fra SSB om effektevaluering av Ny GIV intensivopplæring; samme materiale som 0198cc8d1ff3-71dec544-6851-4831-8298-439bab4316e3
+019904901329-5cfee4f7-1fe2-4203-92aa-af389dd0128e  # 3, NO, tiltaksgruppe 1, regresjonsdiskontinuitet rundt karaktergrensen for Ny GIV i Stavanger; karakterer i 10. trinn og fullføring
+W2690524449  # 3, NO, tiltaksgruppe 5, reform av inntak i Hordaland 2005 (økt skolevalg); frafall økte på studieforberedende, mest for gutter; tvil: 4
+W2937652885  # 3, NO, tiltaksgruppe 5, tilfeldig tildelt eksamensform (skriftlig/muntlig); skriftlig gir lavere beståttandel og varig lavere fullføring for svake elever, også inntekt (IV); tiltaksgruppe usikker
+W2968314327  # 3, FI, tiltaksgruppe 2, sentralt opptak gir diskontinuitet for opptak til yrkesfag mot allmennfag; inntekt +7 prosent ved 31 år
+W7112350400  # 3, IL, tiltaksgruppe 2, forskjell-i-forskjell når nye yrkesfaglige linjer ble åpnet i arabisk skolesystem; frafall ned 4-5 pp, ingen langsiktig effekt på arbeid og inntekt
+W2964440574  # 3, US, tiltaksgruppe 2, regresjonsdiskontinuitet for opptak til tekniske videregående skoler i Connecticut; gutter +10 pp fullføring og 32 prosent høyere inntekt
+W4393391986  # 3, US, tiltaksgruppe 2, regresjonsdiskontinuitet for opptak til CTE-sentre i Baltimore; fullført CTE-løp, fravær, karakterer
+W4404356777  # 3, US, tiltaksgruppe 2, kvasieksperimentelt design for effekt av bransjesertifikater i CTE på fullføring i tide; større for elever i risiko; tvil: 4
+W4403290135  # 3, IT, tiltaksgruppe 2, arbeidsplassbasert læring og overgang skole-arbeid, evidens fra italiensk reform; bare tittel
+W2469072264  # 3, IT, tiltaksgruppe 2, avhandling om forsøk med yrkesfaglige program (IFP) fra 2003 mot frafall, sammenlignet med utvidet skoleplikt 1999; design uklart; tvil: 5
+W7221356294  # 3, DE, tiltaksgruppe 3, forskjell-i-forskjell med terskel for bedriftsstørrelse for lærlingtilskudd under covid-19; ingen effekt på nye lærlinger, moderat på å holde nivået
+W7225943116  # 3, DE, tiltaksgruppe 3, avhandling: forskjell-i-forskjell for minstelønn for lærlinger (ingen effekt på fullførte læretider) og lærlingtilskudd under covid-19; samme materiale som W7221356294
+W3124959592  # 3, DE, tiltaksgruppe 3, program som støtter bedrifter som tar inn vanskeligstilte lærlinger; IV og forskjell-i-forskjell på bedriftsdata; ingen kortsiktig effekt
+W3124756728  # 3, DE, tiltaksgruppe 3, samme studie, bokkapittel: støtteprogram for bedrifter med vanskeligstilte lærlinger, IV og forskjell-i-forskjell; ingen effekt; samme materiale som W3124959592
+W2943905280  # 3, CL, tiltaksgruppe 4, avhandling: regresjonsdiskontinuitet for kontantbelønning for karakterer; ingen effekt på fremmøte og karakterer
+KU-345c469c-c65b-4edb-8cf5-9c6028e3330b  # 5, NO, tiltaksgruppe 3, evaluering av lærlingklausulen (2017) med registerdata; antall læreplasser i privat sektor økte og kan delvis tilskrives klausulen; bare tittel her; tvil: 4
+KU-a2a2fd6a-286c-4b83-bf92-b64aaeb60be2  # 5, NO, tiltaksgruppe 3, evaluering av lærlingklausulen med registerdata, kontrakter, survey og intervju; læreplasser økte etter 2017, delvis tilskrevet klausulen; samme materiale som KU-345c469c-c65b-4edb-8cf5-9c6028e3330b; tvil: 4
+KU-49f8e164-6f51-4aad-8a36-04478a0a5072  # 5, NO, tiltaksgruppe 1, oppfølgingstjenestens målgruppe, kohort fra 1995 med register- og surveydata og regresjon; effekt av kombinerte tiltak på oppmøte og kompetanseoppnåelse
+01999e9ae3c6-77e7f3be-5cf3-4d1f-a069-f660c484c4b4  # 5, NO, tiltaksgruppe 2, lærekandidatordningen i Telemark, survey til 106 kandidater; gjennomføring og overgang til arbeid, forsøk på kausal analyse
+0198edf8e3a0-0c64d9e5-2c8d-42a0-b151-765b763eb52d  # 5, NO, tiltaksgruppe 2, survey til Vg1-yrkesfagelever; opplevd relevans og yrkesretting i matematikk mot vurdert sannsynlighet for å fullføre
+0198cc649f49-849ca903-508b-43e9-806d-57943a5b4173  # 5, NO, tiltaksgruppe 2, hovedrapport om yrkesretting og relevans i fellesfagene (FYR), skole-, ledelses- og klasseromsdata; effekter avhenger av læreren; tvil: F
+KU-f2d09228-f936-46d5-a8f1-a6341e2e310a  # 5, NO, tiltaksgruppe 3, sluttrapport om kvalifiseringsmodeller etter Vg2 (læreplasskurs, påbygg); kort kurs ga læreplass til alle deltakerne; tvil: F
+KU-a2a2fd7d-c266-4fe2-bdb7-7b74ed65fa2c  # 5, NO, tiltaksgruppe 3, sluttrapport om fire kvalifiseringstiltak i Vg2 og Vg3, intervjuer og tall fra fylkene; resultater for læreplasskurs; samme materiale som KU-f2d09228-f936-46d5-a8f1-a6341e2e310a; tvil: F
+0198cc641596-f67fb9cc-47f8-449f-a914-65f394b8beb9  # 5, NO, tiltaksgruppe 3, evaluering av kvalifiseringsmodeller i og etter Vg2 yrkesfag og Vg3 påbygg; bare tittel; samme materiale som KU-f2d09228-f936-46d5-a8f1-a6341e2e310a; tvil: F
+0198cc6a9d88-23db3e02-3dd2-4c33-a1c1-c4b5575711ea  # 5, NO, tiltaksgruppe 3, evaluering av tiltakene i Utdanningsløftet 2020 mot mangel på læreplasser, resultater; tvil: F
+KU-a2a2fd5c-02e1-4c37-8107-d4846cb7c60a  # 5, NO, tiltaksgruppe 2, tredje delrapport fagfornyelsen yrkesfag: overgang til lære med registerdata, intervjuer og survey; små endringer i andelen til lære; tvil: F
+KU-27d3fe6b-12dc-4f43-8c02-a44e3ec535d2  # 5, NO, tiltaksgruppe 2, andre delrapport fagfornyelsen yrkesfag med analyser av overganger i Vigo-registeret, case og survey; samme materiale som KU-a2a2fd5c-02e1-4c37-8107-d4846cb7c60a; tvil: F
+0198f20268d9-0f494427-82ce-4329-a1ed-cb296aa77922  # 5, NO, tiltaksgruppe 1, COMPLETE-prosjektet om psykososialt læringsmiljø og gjennomføring, andre delrapport; bare tittel, design framgår ikke; tiltaksgruppe usikker
+0198f2023b1f-e9da0883-2c49-4e3e-9d6f-f8987108817c  # 5, NO, tiltaksgruppe 1, COMPLETE, kortversjon av andre delrapport; bare tittel; samme materiale som 0198f20268d9-0f494427-82ce-4329-a1ed-cb296aa77922
+0198cc86c24d-41c05545-429d-4c94-9a08-489ff792162e  # 5, NO, tiltaksgruppe 1, COMPLETE, andre delrapport hovedrapport; bare tittel; samme materiale som 0198f20268d9-0f494427-82ce-4329-a1ed-cb296aa77922
+0198cc7fce57-6ccb7e2b-ee1f-44aa-9d9a-0e68172637f9  # 5, NO, tiltaksgruppe 2, praksisbrev som tiltak mot frafall; bare tittel; tvil: F
+0198cc831968-1f9304de-5655-4a21-82d5-9b6fa2173f81  # F, NO, tiltaksgruppe 1, evaluering av Satsing mot frafall i fire fylker; bare tittel
+0198f653b4f1-ccaa4e8f-0e86-4e55-a5b1-2a2adf125cf1  # F, NO, tiltaksgruppe 1, evaluering av Satsing mot frafall (tiltaksplan mot fattigdom) i fire fylker: forebygging, oppfanging, statistikk; samme materiale som 0198cc831968-1f9304de-5655-4a21-82d5-9b6fa2173f81
+KU-4993ba11-2f91-4a06-b949-2ea8690a27e0  # F, NO, tiltaksgruppe 1, evaluering av Satsing mot frafall 2003-2006 i alle fylker, tiltaksmangfold og aktører; samme materiale som 0198cc831968-1f9304de-5655-4a21-82d5-9b6fa2173f81
+0198cc5c5eac-b2fddb08-3fb8-4b65-85d8-3470e3e62ffb  # F, NO, tiltaksgruppe 1, Mestringsprosjektet i Nordland, utviklingsprosjekt mot frafall; bidrag fra skoleeiere og skoler
+0198cc4e6269-54786517-a9e8-42b0-a989-7f942782ac25  # F, NO, tiltaksgruppe 1, frafall og tiltak mot frafall i Lofoten; bare tittel
+0198cc68f473-3d25053c-b77b-4a4f-87ce-82c82f1f1b3a  # F, NO, tiltaksgruppe 1, frafall og tiltak mot frafall i Lofoten; bare tittel; samme materiale som 0198cc4e6269-54786517-a9e8-42b0-a989-7f942782ac25
+0198cc770982-b9b71a11-b6e5-4e3b-9fc9-5c219029ffe1  # F, NO, tiltaksgruppe 1, gjennomføring av tiltak mot bortvalg i Finnmark, bo- og velferdstiltak for borteboende elever
+0198cc4ff1d3-d00921ab-a8f3-40b4-a932-5db9514b6495  # F, NO, tiltaksgruppe 1, bortvalg og gjennomstrømning i Finnmark, gjennomgang av tiltak (bo-, velferds- og trivselstiltak); samme materiale som 0198cc770982-b9b71a11-b6e5-4e3b-9fc9-5c219029ffe1
+0198cc6a844d-cde039aa-3f0a-47af-996a-dae633434566  # F, NO, tiltaksgruppe 1, bortvalg og gjennomstrømning i Finnmark, gjennomgang av tiltak; bare tittel; samme materiale som 0198cc770982-b9b71a11-b6e5-4e3b-9fc9-5c219029ffe1
+0198cc7d535d-3a93b00a-ad73-432c-8130-e4a8923656d9  # F, NO, tiltaksgruppe 1, kvalitativ studie av tiltak mot bortvalg blant elever nær ved å slutte; bare tittel
+0198cc605ec6-d840e2c7-48f3-45a3-95a9-982aae7aece2  # F, NO, tiltaksgruppe 1, individrettede tiltak mot avbrudd ved 6 skoler i Østfold, intervjuer med nøkkelpersoner
+0198cc5de915-3134775a-5b2e-4032-bd75-f4e8f8da4a83  # F, NO, tiltaksgruppe 1, sluttrapport Østfoldmodellen for fysisk aktivitet for bedre gjennomføring; bare tittel; tiltaksgruppe usikker
+0198cc8659a9-05d621e1-3c6c-4a74-b1e5-e2b10c339908  # F, NO, tiltaksgruppe 1, evaluering av yrkesfagmotivator i Oppland: organisering, innhold, resultat mot fylkets mål
+0198cc8554d1-8a50b17f-781b-4a38-9e2c-2d19a88e4012  # F, NO, tiltaksgruppe 1, implementering av Ny GIV Overgangsprosjektet i ungdomsskole og videregående
+0198edec00dc-6b5a0232-07da-4150-ac69-598bc666f04c  # F, NO, tiltaksgruppe 1, master om Ny GIV på en skole: observasjon og intervju om opplevelse og motivasjon
+019c92a81bd2-060c829f-56e5-460d-be21-e29ff5e47f42  # F, NO, tiltaksgruppe 1, master, kvalitative intervjuer om intensjoner og erfaringer med Overgangsprosjektet i Ny GIV
+019c968086f4-1019edde-b34d-4614-99e5-7dad2c5c98ac  # F, NO, tiltaksgruppe 1, master, Ny GIV som case for samarbeid på tvers av forvaltningsnivåer
+0198cc78113e-f183a3ba-54b3-45c5-8ef2-7fe59712d421  # F, NO, tiltaksgruppe 1, master om Ny GIV Overgangsprosjektet i lys av policydesign og kontekst
+0198eddccf78-8f92573c-2613-42f1-8147-d890a19794ab  # F, NO, tiltaksgruppe 1, master, prosessevaluering av implementeringen av Ny GIV i videregående
+0198edef0ca6-d1d7ae6a-4e7f-425f-86b8-b4fe6e7ec6a8  # F, NO, tiltaksgruppe 1, master, intervjuer med elever om Ny GIV sommerskole
+01993dc73cb7-8c385386-0386-4921-ae98-049180cc3f04  # F, NO, tiltaksgruppe 1, sluttrapport, evaluering av Ny GIV Overgangsprosjektet: organisatoriske faktorer i implementeringen
+01993dc78245-40e58836-e34a-41d8-9ab2-635143408d6a  # F, NO, tiltaksgruppe 1, Ny GIV i skolen, organisatoriske faktorer for intensivopplæringen; samme materiale som 01993dc73cb7-8c385386-0386-4921-ae98-049180cc3f04
+KU-e7b11994-78dd-4d06-aff4-8c69236a3f9f  # F, NO, tiltaksgruppe 1, sluttrapport evaluering av Ny GIV Overgangsprosjektet; samme materiale som 01993dc73cb7-8c385386-0386-4921-ae98-049180cc3f04
+0198f65853e8-d67ae351-6997-4d38-88e0-7fe0d69c9689  # F, NO, tiltaksgruppe 1, kartlegging av intensivopplæringen i Ny GIV 2010/11, survey til elever, lærere og ledere
+0198cc5b46ef-f955330a-0b90-4a13-8751-af05f7d26f89  # F, NO, tiltaksgruppe 1, kartlegging av intensivopplæringen i Ny GIV 2010/11; bare tittel; samme materiale som 0198f65853e8-d67ae351-6997-4d38-88e0-7fe0d69c9689
+0198cc763669-edc258fe-550a-43c3-80de-a1f67daa56dc  # F, NO, tiltaksgruppe 1, sluttrapport, kartlegging av deltakelse, organisering og opplevelse i Overgangsprosjektet
+0198cc659e2f-81dda8ac-5ac1-44ab-9ce8-4ca00519b2e5  # F, NO, tiltaksgruppe 1, kartlegging av intensivopplæringen i Ny GIV våren 2012; samme materiale som 0198cc763669-edc258fe-550a-43c3-80de-a1f67daa56dc
+0198cc6ffe31-5814c259-f1e1-4f88-919f-6fc323bed758  # F, NO, tiltaksgruppe 1, klasseromsobservasjoner av intensivopplæringen i Ny GIV, underveisrapport; bare tittel
+0198cc6321b5-4ac8104d-959d-41c0-ab46-ad1149850ee7  # F, NO, tiltaksgruppe 1, klasseromsobservasjoner av intensivopplæringen i Ny GIV, sluttrapport; bare tittel; samme materiale som 0198cc6ffe31-5814c259-f1e1-4f88-919f-6fc323bed758
+0198cc560963-15488718-c1b2-4e3b-b185-86c5d1983478  # F, NO, tiltaksgruppe 1, kapittel, Å se og bli sett, Ny GIV for gråsoneelevene; bare tittel; samme materiale som 0198cc6ffe31-5814c259-f1e1-4f88-919f-6fc323bed758
+KU-dbdb4ab6-edac-42c2-892b-b7e41a1d9819  # F, NO, tiltaksgruppe 1, sammendrag av konklusjoner fra evalueringene av intensivopplæringen i Ny GIV
+0198cc6445fb-35b2841d-a57d-41e2-b121-33972e170ff3  # F, NO, tiltaksgruppe 1, samarbeid kommune og fylkeskommune etter Ny GIV; bare tittel
+0198f6586e74-479dfa8c-59cf-4f79-a90a-a6e7976fa948  # F, NO, tiltaksgruppe 1, Oppfølgingsprosjektet i Ny GIV, kartlegging
+0198cc47795e-38fdfc5d-a081-436a-9b76-fbdb00d6b89b  # F, NO, tiltaksgruppe 1, Oppfølgingsprosjektet i Ny GIV, kartleggingsundersøkelse; bare tittel; samme materiale som 0198f6586e74-479dfa8c-59cf-4f79-a90a-a6e7976fa948
+0198cc9454da-50b0146d-09de-4e76-a460-50e22256a254  # F, NO, tiltaksgruppe 1, sluttrapport om Oppfølgingsprosjektet i Ny GIV: samarbeid, opplæringsmodeller med arbeidspraksis; samme materiale som 0198f6586e74-479dfa8c-59cf-4f79-a90a-a6e7976fa948
+KU-1c4ccf59-42ac-453b-8637-9faed0afc493  # F, NO, tiltaksgruppe 1, Oppfølgingsprosjektet i Ny GIV: OT fikk kontakt med flere, andel i kombinasjonstiltak 19 til 26 prosent; samme materiale som 0198f6586e74-479dfa8c-59cf-4f79-a90a-a6e7976fa948
+KU-5e0fbcf6-795a-495c-8dd8-d387513532b0  # F, NO, tiltaksgruppe 1, Oppfølgingsprosjektet i Ny GIV, opplegg for evaluering med register over ungdom i OT; samme materiale som 0198f6586e74-479dfa8c-59cf-4f79-a90a-a6e7976fa948
+KU-ed8446aa-5b8e-445b-97f3-df8575ce5366  # F, NO, tiltaksgruppe 1, Oppfølgingsprosjektet i Ny GIV, underveisrapport 2012/13; samme materiale som 0198f6586e74-479dfa8c-59cf-4f79-a90a-a6e7976fa948
+KU-654ce8f8-c669-48bd-9e59-f08dea47ee8f  # F, NO, tiltaksgruppe 1, Ny GIV eksempelsamling om samarbeid om oppfølging av ungdom; bare tittel
+0198cc742390-fa2310fa-e5dd-4054-ae3f-eaf4eaaaf2ef  # F, NO, tiltaksgruppe 1, evaluering av NAVs rolle i Ny GIV Oppfølgingsprosjektet sammen med OT
+KU-a248d1cd-1c43-408d-b7ea-9c26967b2208  # F, NO, tiltaksgruppe 1, evaluering av NAVs samarbeid med fylkeskommunen i Oppfølgingsprosjektet; samme materiale som 0198cc742390-fa2310fa-e5dd-4054-ae3f-eaf4eaaaf2ef
+0198f466f0bf-ca20de94-62d7-472a-bbd4-e41a605bcbd1  # F, NO, tiltaksgruppe 1, master, intervjuer med ni rådgivere i oppfølgingstjenesten om handlingskraft
+0198cc88969b-64a4ee69-2d7b-435f-b411-df8e9285c58a  # F, NO, tiltaksgruppe 1, oppfølgingstjenesten, hvor vellykket; bare tittel
+0198cc56ca97-0683234c-e727-401f-a7fc-85356ed528a7  # F, NO, tiltaksgruppe 1, kapittel om oppfølgingstjenesten; bare tittel
+0198cc9086db-396add0b-021b-4fda-9485-9233dd50a2bd  # F, NO, tiltaksgruppe 1, kartlegging av oppfølgingstjenesten i ni bydeler i Oslo, dokumenter og 37 intervjuer
+0198f63a0e6f-55b69d76-7892-4f42-8426-1af6421295d0  # F, NO, tiltaksgruppe 1, master, sju ungdommer på OT-tiltak med arbeidsutplassering og opplæring, og hva som skjedde etterpå
+0198cc8c9924-b2fa0440-9ca9-4e19-a5bd-5eeea531548b  # F, NO, tiltaksgruppe 1, samarbeidet mellom Nav og oppfølgingstjenesten; bare tittel
+019c9633f3bf-80e45390-25f0-4846-8a6e-2a95ecf74af5  # F, NO, tiltaksgruppe 1, master, fem ungdommers erfaringer med OT og motivasjonskurset Klart jeg kan
+0198cc66729c-4f80e183-fd9e-4b6f-95d4-3c6adc184a6b  # F, NO, tiltaksgruppe 1, oppfølgingstjenesten i bydel Alna; bare tittel
+0198cc7a6413-93b6e977-4f7b-4675-bd95-d6036dc2ca8c  # F, NO, tiltaksgruppe 1, følgeevaluering, tverretatlig prosjekt OT og NAV for sårbare unge i overgangen til videregående, intervjuer
+0198cc50ef6b-736a152f-35f5-4cc5-87c1-26b51cb44e19  # F, NO, tiltaksgruppe 1, oppfølgingstjenesten i Sogn og Fjordane; bare tittel
+0198cc423e1d-080e383e-ecb3-4f7d-8310-b3677e639c0a  # F, NO, tiltaksgruppe 1, oppfølgingstjenesten i Sogn og Fjordane; bare tittel; samme materiale som 0198cc50ef6b-736a152f-35f5-4cc5-87c1-26b51cb44e19
+KU-54fe7c5f-91f3-4e0d-a703-35cabb1cffce  # F, NO, tiltaksgruppe 1, brukerevaluering av oppfølgingstjenesten i Trondheim, Lerkendal og Heimdal; bare tittel
+KU-96b427c3-a11f-4f10-b351-d869c26bb37a  # F, NO, tiltaksgruppe 1, brukerevaluering av oppfølgingstjenesten i Trondheim, Øst og Midtbyen; bare tittel; samme materiale som KU-54fe7c5f-91f3-4e0d-a703-35cabb1cffce
+0198eddfa6be-d8cb018d-d386-434f-86f3-458fb866ce5b  # F, NO, tiltaksgruppe 1, master, kvalitativ studie av RULF, tiltak mot frafall; bare tittel
+W2979946049  # F, SE, tiltaksgruppe 5, gjennomgang av reformer i svensk videregående (skolevalg, yrkesfag, introduksjonsprogram) og trender i forskning og evalueringer
+W3040025490  # F, FI, tiltaksgruppe 2, reformen av finsk yrkesutdanning 2018, dokumenter og intervjuer med rektorer
+0198cc74869b-e15dac26-4314-4c7f-ab32-7137f90c24db  # F, NO, tiltaksgruppe 2, evaluering av fagfornyelsen yrkesfag, første syntese: prosess og erfaringer på vg1
+0198cc6e1de8-4cc7acf6-d5bf-4533-96f1-848176631081  # F, NO, tiltaksgruppe 2, evaluering av fagfornyelsen yrkesfag, delrapport 1: bakgrunn, prosess og implementering på vg1; samme materiale som 0198cc74869b-e15dac26-4314-4c7f-ab32-7137f90c24db
+KU-387bf8f3-58da-4d14-bf37-3f11f18ee1fc  # F, NO, tiltaksgruppe 2, evaluering av fagfornyelsen yrkesfag, delrapport 1; samme materiale som 0198cc74869b-e15dac26-4314-4c7f-ab32-7137f90c24db
+KU-a2a2fd66-7eb6-47cf-b664-9475c879ffcd  # F, NO, tiltaksgruppe 2, evaluering av fagfornyelsen yrkesfag, delrapport 1, kvalitative funn; samme materiale som 0198cc74869b-e15dac26-4314-4c7f-ab32-7137f90c24db
+0198cc5e5957-07ef953f-8547-4166-85aa-f5fab9fb4b4e  # F, NO, tiltaksgruppe 2, evaluering av fagfornyelsen yrkesfag, delrapport 2; samme materiale som KU-27d3fe6b-12dc-4f43-8c02-a44e3ec535d2
+KU-1d12e08b-958f-48d6-b67e-9b92c9a606d8  # F, NO, tiltaksgruppe 2, evaluering av fagfornyelsen yrkesfag, delrapport 2; bare tittel; samme materiale som KU-27d3fe6b-12dc-4f43-8c02-a44e3ec535d2
+0198cc5e4da2-280f65ca-ad69-432e-baa0-16860a9080e8  # F, NO, tiltaksgruppe 2, evaluering av fagfornyelsen yrkesfag, andre syntese: overganger vg1-vg2-vg3; samme materiale som KU-27d3fe6b-12dc-4f43-8c02-a44e3ec535d2
+0198cc757085-b0b2be97-ff5d-424e-86c8-82dc6cf6aa0e  # F, NO, tiltaksgruppe 2, tredje delrapport fagfornyelsen yrkesfag: overgang til opplæring i bedrift; samme materiale som KU-a2a2fd5c-02e1-4c37-8107-d4846cb7c60a
+KU-241730e2-9783-4818-9f40-80a5d73adc86  # F, NO, tiltaksgruppe 2, tredje delrapport fagfornyelsen yrkesfag: overgang vg2 til vg3 og opplæring i bedrift; samme materiale som KU-a2a2fd5c-02e1-4c37-8107-d4846cb7c60a
+019d6c648072-f7fe34ca-64ef-47a3-b26e-ba37de9f53af  # F, NO, tiltaksgruppe 2, sluttrapport fra evalueringen av fagfornyelsen yrkesfag fra vg1 til overgang til arbeid
+0198cc8d6b81-35055b96-b5f3-48e4-ad15-15384bde684b  # F, NO, tiltaksgruppe 2, strukturendringen i fellesfagene engelsk og norsk på yrkesfag, intervjuer, survey og karakterdata
+KU-156b3a6d-bd60-49b5-908b-3dd58c0e3b58  # F, NO, tiltaksgruppe 2, strukturendringen i engelsk og norsk på yrkesfag, intervjuer, survey og karakterdata; samme materiale som 0198cc8d6b81-35055b96-b5f3-48e4-ad15-15384bde684b
+0198cc511c14-83e7f6ab-a81e-4a48-9d8a-d349592ad051  # F, NO, tiltaksgruppe 2, kryssløp fra Vg1 studiespesialisering til Vg2 yrkesfag, foreløpige erfaringer
+0198cc3d92e8-670a73c1-78fc-45a8-a727-83fb5a81ffc0  # F, NO, tiltaksgruppe 2, kryssløp og yrkesfaglig opphenting i restaurant- og matfag, skolelederes kjennskap
+0198cc67714a-13925e41-2649-49b9-8a8d-1ef866b23a18  # F, NO, tiltaksgruppe 2, praksisbrevordningen: implementering i fylkene, statistikk og intervju
+0198cc83b096-f0713dc8-ecad-48fa-8126-e018665ffd50  # F, NO, tiltaksgruppe 2, kapittel om dokumentert delkompetanse, kompetansebevis og praksisbrev; bare tittel
+0198cc6839da-f4462582-f3a8-4650-b3de-6d7866f1d834  # F, NO, tiltaksgruppe 2, casestudie av veien fra praksisbrev til fagbrev, intervjuer med lærlinger og veiledere
+0198cc7b86e3-02f21d93-6ab0-4716-bd74-41cae8863638  # F, NO, tiltaksgruppe 2, evaluering av Steigenmodellen, 0-4-modell med lærekontrakt fra første dag
+01993e86ae06-21711397-d1cd-453f-839e-6ac7098df37d  # F, NO, tiltaksgruppe 2, evaluering av Steigenmodellen, 0-4-modell; samme materiale som 0198cc7b86e3-02f21d93-6ab0-4716-bd74-41cae8863638
+KU-009c1f01-2c77-4ff2-9c69-4240979feb43  # F, NO, tiltaksgruppe 2, evaluering av vekslingsmodeller i fag- og yrkesopplæringen; bare tittel
+KU-ad731f00-1b93-441e-a109-e8bbfebc1264  # F, NO, tiltaksgruppe 2, evaluering av vekslingsmodeller; bare tittel; samme materiale som KU-009c1f01-2c77-4ff2-9c69-4240979feb43
+KU-794b0ca9-829a-4e03-89d7-bfecd21cd3fa  # F, NO, tiltaksgruppe 2, andre delrapport om vekslingsmodeller: faglig utvikling, motivasjon og gjennomføring i seks case; samme materiale som KU-009c1f01-2c77-4ff2-9c69-4240979feb43
+0198f63a902e-5b843a8b-8805-42f4-b2ea-e9e6821f93db  # F, NO, tiltaksgruppe 2, master om utprøving av vekslingsmodell i helse- og oppvekstfag
+0198cc61bf99-d19025a3-fc21-4776-a171-f31fc208ed9c  # F, NO, tiltaksgruppe 2, samspillet mellom teori og praksis i vekslingsmodeller; bare tittel
+0198cc5eb253-3a8cd3cb-b30f-47d0-8bdd-dc1bf91e2d76  # F, NO, tiltaksgruppe 2, Vandreboka, helhetlig pedagogikk i det fireårige løpet, forskningsstatus; bare tittel
+0198cc5eb508-f9dc4c9d-4f45-4438-97c3-c56d04ccae58  # F, NO, tiltaksgruppe 2, Vandreboka, rapport 2; bare tittel; samme materiale som 0198cc5eb253-3a8cd3cb-b30f-47d0-8bdd-dc1bf91e2d76
+0198cc7bb8a1-edb2d721-c5e8-4895-923b-a9b8f18d3d38  # F, NO, tiltaksgruppe 2, Vandreboka, overgang skole-bedrift, statusrapport 4; bare tittel; samme materiale som 0198cc5eb253-3a8cd3cb-b30f-47d0-8bdd-dc1bf91e2d76
+0198cc7a09ab-8d62e3b3-9d8f-45cc-a948-f42b06fd30c1  # F, NO, tiltaksgruppe 2, Vandreboka, statusrapport 3; bare tittel; samme materiale som 0198cc5eb253-3a8cd3cb-b30f-47d0-8bdd-dc1bf91e2d76
+0198cc81e91f-0ee4319a-b228-49fd-ab6e-cea8164a0061  # F, NO, tiltaksgruppe 2, evaluering av modulstrukturert opplæring, første delrapport; bare tittel; målgruppe kan være voksne
+019919780dd4-c6157787-64d7-45fd-afbc-fe1b4c128931  # F, NO, tiltaksgruppe 2, master om organisering av alternativ Vg3 i skole, intervjuer med 12 informanter
+0198cc624315-f9dd6301-929c-48bd-80a2-774b62a079d1  # F, NO, tiltaksgruppe 2, master, elevers erfaringer med alternativ Vg3 i skole i helsearbeiderfaget; bare tittel
+0198f63799d1-8aea19b0-4ea6-4fa3-b100-6153e8c3e554  # F, NO, tiltaksgruppe 2, utviklingsarbeid for alternativ Vg3 i skole i salgsfaget
+0198f63b73d0-795e82c3-3d60-4479-bf56-e56321aebe54  # F, NO, tiltaksgruppe 2, aksjonsforskning, lærekandidatordningen mot fagbrev via læringssenter for ungdom som har falt ut
+0198cc3eebd5-7b0074a9-8f2e-408d-aa69-e643c1798079  # F, NO, tiltaksgruppe 2, FYR, fellesfag, yrkesretting og relevans; bare tittel
+0198cc7e546a-3905fc0c-a586-43cb-b9d2-9a3c8af30fa5  # F, NO, tiltaksgruppe 2, kvalitativ studie av yrkesretting av fellesfag i FYR
+KU-1f431616-8a55-4ada-978e-e3db18f89d08  # F, NO, tiltaksgruppe 2, kvalitativ dybdestudie av yrkesretting av matematikk og engelsk; samme materiale som 0198cc7e546a-3905fc0c-a586-43cb-b9d2-9a3c8af30fa5
+0198cc900253-c2a48da0-8852-46a6-8704-5b33be8adade  # F, NO, tiltaksgruppe 2, evaluering av Kunnskapsløftet i fag- og yrkesopplæringen; bare tittel
+0198cc7089cc-e1bebb15-e702-4f74-bc7c-525a1b5a52fa  # F, NO, tiltaksgruppe 2, Kunnskapsløftet i fag- og yrkesopplæringen; bare tittel; samme materiale som 0198cc900253-c2a48da0-8852-46a6-8704-5b33be8adade
+0198cc44723a-7235ca18-c7a2-41e7-aa02-4cccef125574  # F, NO, tiltaksgruppe 2, Kunnskapsløftet i fag- og yrkesopplæringen, første delrapport; bare tittel; samme materiale som 0198cc900253-c2a48da0-8852-46a6-8704-5b33be8adade
+0198cc52267b-86a6923a-dd97-4142-8698-18f7b8670e9d  # F, NO, tiltaksgruppe 3, opplæringskontorene: organisering, økonomi og rolle i fagopplæringen
+KU-009e89f6-c3ca-4ed4-ac9f-b12dad6216ac  # F, NO, tiltaksgruppe 3, opplæringskontorene: organisering, økonomi og rolle; samme materiale som 0198cc52267b-86a6923a-dd97-4142-8698-18f7b8670e9d
+0198f0aa10dc-4773c41f-452b-440f-b0c4-5daab277436f  # F, NO, tiltaksgruppe 3, master om bruk av lærlingklausuler ved offentlige anskaffelser; bare tittel
+0198cc401dab-4c2049a2-40c9-4fbe-b140-a50019040034  # F, NO, tiltaksgruppe 3, bruk av lærlingklausuler ved offentlige anskaffelser; bare tittel
+0199197962e3-a6ffbdd6-d10c-4e60-a045-781248074fea  # F, NO, tiltaksgruppe 3, master om suksesskriterier for høy formidling til lære ved en skole
+KU-e8f295f8-0da5-4275-9bf8-f92a3b181b0a  # F, NO, tiltaksgruppe 3, bedriftsprosjekt med fagopplæring og praksis for ungdom med sammensatte behov
+KU-9e245b15-0322-4dc6-a7e5-094e15ebbe2a  # F, NO, tiltaksgruppe 3, underveisevaluering av fire modeller for kvalifisering etter Vg2, intervjuer; samme materiale som KU-f2d09228-f936-46d5-a8f1-a6341e2e310a
+KU-5cec42d1-f9fc-48ce-a192-ef8823b93cd7  # F, NO, tiltaksgruppe 3, omtale av tiltak for bedre gjennomføring i fylkene 2014-2016 (kvalifisering mellom Vg2 og Vg3); samme materiale som KU-f2d09228-f936-46d5-a8f1-a6341e2e310a
+KU-91b65aa8-3f2f-4e03-9a6d-468316a4ed43  # F, NO, tiltaksgruppe 1, klasseromsobservasjoner av intensivopplæringen i Ny GIV: praksis og læreres og elevers vurdering av tilbudet, uten effektmål; tiltaket gjelder 10. trinn, vurder mot avgrensningen mot grunnskole
+KU-ae744f50-4d95-4f89-b2c3-1ae4b0c50842  # F, NO, tiltaksgruppe 1, sluttrapport om intensivopplæringen i Ny GIV for de 10 prosent svakeste på 10. trinn, spørreundersøkelser og registerdata, deltakerne fornøyde, utfordringer med organisering; tiltaket gjelder 10. trinn, vurder mot avgrensningen
+KU-a2a2fd6c-3ad9-489f-acc4-b78bd3a5a33c  # F, NO, tiltaksgruppe 2, foreløpige erfaringer med overgang fra Vg1 studiespesialisering til Vg2 yrkesfag: lav søkning, lav gjennomføring og mye omvalg, intervjuer, lokale læreplaner og kvantitative elevdata, uten kontrollgruppe
+W2016117688  # F, NO, tiltaksgruppe 2, intervjuer med åtte elever i alternative løp i yrkesfag med mer praksis i arbeidslivet, identitet og håp, uten effektmål
+KU-a2a2fd87-4b8b-4641-93af-a05f619d2f2c  # F, NO, tiltaksgruppe 3, opplæringskontorenes organisering, økonomi og rolle fra midten av 1990-tallet til 2013, kvantitative og kvalitative data, andel av lærlingtilskuddet, uten effektmål
+W7125898364  # 5, NO, tiltaksgruppe 3, regresjon på data fra ett fylke: sannsynlighet for bestått fag-/svenneprøve for lærlinger i opplæringskontor mot kontrakt direkte med bedrift, kontroll for sosioøkonomisk bakgrunn; høyere for opplæringskontor, stor variasjon mellom kontorene
+W2156343861  # 5, FI, tiltaksgruppe 1, oppfølging av ett årskull (N=595) i én by i fem år: lese- og matematikkvansker, støtte i videregående og frafall, stimodell med kontroll for kjønn, studieretning og SES; støtten er mer forklaringsvariabel enn tiltak
+W2966664009  # 5, FI, tiltaksgruppe 1, samme kohort (N=595) fulgt i fem år: deltids spesialundervisning og fullføring av videregående for elever med lese- og matematikkvansker, regresjonsstimodeller etter kjønn; samme materiale som W2156343861
+LI-19505692  # F, SE, tiltaksgruppe 1, bare tittel (regjeringsoppdrag om å forebygge avbrudd i gymnasieskolan)
+LI-q0lsc25fngbqsz2x  # F, SE, tiltaksgruppe 1, bare tittel (oppdrag om virksomhetsnære innsatser for å forebygge avbrudd i gymnasieskolan, 2019)
+LI-7m9xtm5x5154jmxw  # F, SE, tiltaksgruppe 1, bare tittel (samme tittel som LI-q0lsc25fngbqsz2x, 2021); samme materiale som LI-q0lsc25fngbqsz2x
+LI-11769005  # F, SE, tiltaksgruppe 2, bare tittel (delbetenkning om erfaringer fra første år med forsøk med gymnasial lärlingsutbildning, Nationella lärlingskommittén)
+LI-12033550  # F, SE, tiltaksgruppe 2, bare tittel (delbetenkning om erfaringer etter to års forsøk med gymnasial lärlingsutbildning, Nationella lärlingskommittén)
+LI-12351359  # F, SE, tiltaksgruppe 2, bare tittel (sluttbetenkning om kvalitet i gymnasial lärlingsutbildning, Nationella lärlingskommittén)
+LI-n5np4ss3ll7p8ltd  # F, SE, tiltaksgruppe 2, bare tittel (Skolverket om forsøksvirksomheten med gymnasial lärlingsutbildning)
+LI-7n9sk0v95qrgrtkc  # F, SE, tiltaksgruppe 2, bare tittel (forsøksvirksomheten med gymnasial lärlingsutbildning 2010/11); kan være samme materiale som LI-n5np4ss3ll7p8ltd
+LI-14704109  # F, SE, tiltaksgruppe 2, bare tittel (Skolinspektionens kvalitetsgranskning av gymnasial lärlingsutbildning)
+LI-19884114  # F, SE, tiltaksgruppe 2, bare tittel; samme materiale som LI-14704109
+LI-13477554  # 5, SE, tiltaksgruppe 2, bare tittel (deltakelse, elevenes erfaringer og studieresultater i gymnasial lärlingsutbildning de tre første årene 2008-2011)
+LI-xc0h8mg2vl8gn7x4  # 5, SE, tiltaksgruppe 2, bare tittel; samme materiale som LI-13477554
+LI-18776889  # 5, SE, tiltaksgruppe 2, bare tittel (PM om at gymnasial lärlingsutbildning leder til ansettelse, utfall arbeid)
+LI-9pcdncb57hnm6mvb  # 5, SE, tiltaksgruppe 2, bare tittel; samme materiale som LI-18776889
+LI-17801426  # F, SE, tiltaksgruppe 3, bare tittel (arbeidsgivernes bruk av statsbidraget for gymnasial lärlingsutbildning og erfaringer med å ta imot lærlingelever)
+LI-17831157  # F, SE, tiltaksgruppe 3, bare tittel (arbeidsgivernes bruk av statsbidraget for gymnasial lärlingsutbildning); trolig samme materiale som LI-17801426
+LI-9qcvm49n739835nt  # F, SE, tiltaksgruppe 3, bare tittel; samme materiale som LI-17831157
+LI-22485342  # F, SE, tiltaksgruppe 3, bare tittel (Skolverkets redovisning av statsbidrag for gymnasial lärlingsutbildning 2012/2013, administrativ rapport)
+LI-17831902  # F, SE, tiltaksgruppe 3, bare tittel (Skolverkets redovisning av statsbidrag for gymnasial lärlingsutbildning 2013/14, administrativ rapport)
+LI-3j5nftgq11gnbkr4  # F, SE, tiltaksgruppe 3, bare tittel (Skolverkets redovisning av statsbidrag for gymnasial lärlingsutbildning 2013/14, administrativ rapport); samme materiale som LI-17831902
+LI-22485343  # F, SE, tiltaksgruppe 3, bare tittel (Skolverkets redovisning av statsbidrag for gymnasial lärlingsutbildning 2013/2014, administrativ rapport); samme materiale som LI-17831902
+LI-9qcvm1ds74v50ld9  # F, SE, tiltaksgruppe 3, bare tittel (Skolverkets redovisning av statsbidrag for gymnasial lärlingsutbildning 2014/15, administrativ rapport)
+LI-18460935  # F, SE, tiltaksgruppe 3, bare tittel (Skolverkets redovisning av statsbidrag for gymnasial lärlingsutbildning 2014/15, administrativ rapport); samme materiale som LI-9qcvm1ds74v50ld9
+LI-22485318  # F, SE, tiltaksgruppe 3, bare tittel (Skolverkets redovisning av statsbidrag for gymnasial lärlingsutbildning 2015/2016, administrativ rapport)
+LI-22485060  # F, SE, tiltaksgruppe 3, bare tittel (Skolverkets redovisning av statsbidrag for gymnasial lärlingsutbildning 2016/2017, administrativ rapport)
+LI-w5539cmft6dv5j7n  # F, SE, tiltaksgruppe 3, bare tittel (Skolverkets redovisning av statsbidrag for gymnasial lärlingsutbildning 2017/2018, administrativ rapport)
+LI-m0dqgclqk83fk16h  # F, SE, tiltaksgruppe 3, bare tittel (Skolverkets redovisning av statsbidrag for gymnasial lärlingsutbildning 2018/2019, administrativ rapport)
+LI-w8n0qlvvt66xhh6x  # F, SE, tiltaksgruppe 3, bare tittel (Skolverkets redovisning av statsbidrag for gymnasial lärlingsutbildning 2019/20, administrativ rapport)
+LI-zf0svzdwwmdlh5jr  # F, SE, tiltaksgruppe 3, bare tittel (Skolverkets redovisning av statsbidrag for gymnasial lärlingsutbildning 2021/2022, administrativ rapport)
+LI-17831072  # F, SE, tiltaksgruppe 3, bare tittel (Skolverkets redovisning av statsbidrag for gymnasial lärlingsutbildning 2012/13 med forsøksvirksomheten, administrativ rapport)
+LI-hxk2t7bcfkkg7xbl  # F, SE, tiltaksgruppe 3, bare tittel (Skolverkets redovisning av statsbidrag for gymnasial lärlingsutbildning 2012/13 med forsøksvirksomheten, administrativ rapport); samme materiale som LI-17831072
+LI-19884102  # F, SE, tiltaksgruppe 5, bare tittel (gransking av utdanningen på introduktionsprogrammen i gymnasieskolan)
+LI-17988005  # F, SE, tiltaksgruppe 5, bare tittel (oppfølging høsten 2014 av første kull på introduktionsprogrammen)
+LI-kzmnxpp7hn29pbns  # F, SE, tiltaksgruppe 5, bare tittel; samme materiale som LI-17988005
+W1872948875  # 3, DE,SE, tiltaksgruppe 2, bare tittel (utvidelse av videregående opplæring og kriminalitet; hovedutfallet ser ut til å være kriminalitet, sjekk om fullføring måles)
+W1975832458  # 3, England, tiltaksgruppe 4, Education Maintenance Allowance i pilotområder mot kontrollområder med matching og områdeeffekter: deltakelse i fulltidsutdanning i Year 12 økte med om lag 5,9 prosentpoeng for de berettigede; tvil: 4
+W1529582112  # 3, England (jf. W1975832458), tiltaksgruppe 4, bare tittel; samme materiale som W1975832458
+W2989476783  # 3, England (jf. W1975832458), tiltaksgruppe 4, første års kvantitative evaluering av fire EMA-modeller i 15 pilotområder: deltakelse, frafall og resultater, intervjuer med ungdom og foreldre; tvil: 4
+W4403177195  # 3, England (jf. W1975832458), tiltaksgruppe 4, bare tittel (første års kvantitative evaluering av EMA); samme materiale som W2989476783
+W7000045964  # 3, England (jf. W1975832458), tiltaksgruppe 4, første bølge av kvantitative intervjuer etter innføring av EMA i pilotene; samme materiale som W2989476783
+W1568089073  # 3, England (jf. W1975832458), tiltaksgruppe 4, tredje rapport fra den longitudinelle kvantitative evalueringen av EMA-pilotene, sammendraget sier lite om metode; tvil: 4
+W6981746983  # 3, GB, tiltaksgruppe 4, tredje rapport fra evalueringen av EMA-pilotene, longitudinell kohortstudie; samme materiale som W1568089073
+W2513697586  # 3, England (jf. W1975832458), tiltaksgruppe 4, fjerde og siste rapport fra den longitudinelle evalueringen av EMA-pilotene, to kohorter som fullførte Year 11 i 1999 og 2000; tvil: 4
+W2900868528  # 3, England (jf. W1975832458), tiltaksgruppe 4, oppsummering av funn fra femårig evaluering av EMA-pilotene (kvantitative longitudinelle undersøkelser og kvalitative studier) og senere politikk; samme materiale som W2513697586
+W1536083115  # 3, England (jf. W1975832458), tiltaksgruppe 4, effekt av EMA-pilotene og utvidelsen på deltakelse i fulltidsutdanning ved 16 og 17 år og resultater ved 18 og 19 år, administrative data, undergrupper
+W2505001069  # 3, England (jf. W1975832458), tiltaksgruppe 4, bare tittel; samme materiale som W1536083115
+W4407929759  # 3, England, tiltaksgruppe 4, effekten av den nasjonale innføringen av EMA i 2004 på utdanning, inntekt, sysselsetting og kriminalitet på kort og lang sikt, administrative data, elever med gratis skolemåltid
+W630284090  # 3, England (jf. W1975832458), tiltaksgruppe 4, kvantitativ evaluering av EMA Transport-pilotene, år 1 og 2, sammendraget sier ikke hvilket design; tvil: 5
+W1538501408  # 3, GB, tiltaksgruppe 4, bare tittel (effekt av innføringen av EMA på ungdomskriminalitet; utfallet er ikke på lista, sjekk om utdanning måles)
+W160472628  # 3, land ikke oppgitt, tiltaksgruppe 1, bare tittel (sammendraget er forordet; avhandling om forebygging av frafall med mikroøkonometriske metoder); tvil: 4
+W2626502152  # 1, land ikke oppgitt, tiltaksgruppe 1, bare tittel (funn og lærdommer fra forskningen på Check & Connect); tvil: 5
+W2316387988  # 1, land ikke oppgitt, tiltaksgruppe 1, bare tittel (gjennomgang av Check & Connect som evidensbasert tiltak); tvil: 5
+W2542437284  # 2, land ikke oppgitt, tiltaksgruppe 1, bare tittel (effekt av Check & Connect på frafall for elever med høy risiko, design ikke oppgitt); tvil: 4
+W2341628131  # 2, land ikke oppgitt, tiltaksgruppe 1, bare tittel (implementering og effekt av mentorprogrammet Check & Connect, design ikke oppgitt); tvil: 3
+W2614491511  # 2, land ikke oppgitt (Québec), tiltaksgruppe 1, avhandling: implementering, prosesser og ulike effekter av Check & Connect i to skolekretser, eksperimentelt design der kontrollgruppen fikk vanlige tiltak, 345 elever i barne- og ungdomsskole og videregående (secondaire); sjekk utfall og alder
+W2263112466  # 2, land ikke oppgitt, tiltaksgruppe 1, bare tittel (første oppfølging av effekter i et pilotprosjekt for å forebygge frafall, design ikke oppgitt); tvil: 3
+W2903737823  # 3, land ikke oppgitt, tiltaksgruppe 1, evaluering av et lokalt mentorprosjekt mot frafall med prosessevaluering og stringent effektevaluering, design ikke oppgitt; tvil: 2
+W3141190588  # 2, land ikke oppgitt, tiltaksgruppe 1, bare tittel (effekter av et program mot frafall på utfall for elever i videregående, design ikke oppgitt); tvil: 4
+W4234641124  # 2, land ikke oppgitt, tiltaksgruppe 1, bare tittel (registrering i AEA-registeret for randomiserte forsøk: målrettet støtteundervisning i matematikk for å øke fullføringen i videregående)
+W4206369992  # 1, land ikke oppgitt, tiltaksgruppe 1, bare tittel (veileder om tiltak mot frafall); tvil: 5
+W2996070763  # 1, land ikke oppgitt, tiltaksgruppe 1, kapittel om strategier og programmer mot frafall, viser til What Works Clearinghouse sine vurderinger av hvilke programmer som har effekt; tvil: 5
+W2463481623  # 1, land ikke oppgitt, tiltaksgruppe 1, litteraturgjennomgang om frafall og lovende tiltak på videregående nivå i USA, uten oppgitt metode; tvil: 5
+W2793853857  # 1, land ikke oppgitt, tiltaksgruppe 1, bare tittel (litteraturkart over tiltak mot frafall for elever med funksjonsnedsettelser); tvil: 5
+W2570497748  # 1, IT, tiltaksgruppe 1, kort litteraturgjennomgang med vekt på evalueringsresultater og evalueringsmetoder for programmer mot tidlig skoleslutt; tvil: 5
+W2792146224  # 2, land ikke oppgitt, tiltaksgruppe 2, bare tittel (eksperimentell evidens om moderne career academies og livet etter videregående)
+W3167042074  # 2, land ikke oppgitt, tiltaksgruppe 2, bare tittel; samme materiale som W2792146224
+W4231501606  # 2, land ikke oppgitt, tiltaksgruppe 2, bare tittel (registrering i AEA-registeret for randomiserte forsøk om career academies)
+W1803160732  # 1, land ikke oppgitt, tiltaksgruppe 3, bare tittel (rapport om hvordan fullføringen av lærlingløp kan økes, design ikke oppgitt); tvil: 5
+W2218621471  # 2, US, tiltaksgruppe 1, bare tittel: effekter av Check & Connect på elever i risiko i high school, tvil: 3
+W2587300631  # 2, US, tiltaksgruppe 1, bare tittel: flernivå-RCT av Check & Connect, utfall skolevalg/skolebytte (spillover)
+W2757920618  # 2, US, tiltaksgruppe 1, bare tittel: mixed methods-evaluering av Check & Connect og skolevalg; trolig samme materiale som W2587300631, tvil: 3
+W7137361750  # 2, US, tiltaksgruppe 2, career academies i Wake County, loddtrekning ved overtegning, effekt på college og sysselsetting etter high school
+W2254541575  # 3, GB, tiltaksgruppe 4, EMA-pilotene: tilfeldig utvalg i 10 pilot- og 11 kontrollområder, overganger 16-18 år for tenåringsmødre og unge med spesielle behov
+W2512210648  # 3, GB, tiltaksgruppe 4, bare tittel: tredjeårsrapport fra evalueringen av EMA; trolig samme evaluering som W2254541575, tvil: F
+W1903875638  # 3, GB, tiltaksgruppe 4, bare tittel: EMA i Leeds og London, tredje år; trolig samme evaluering som W2512210648, tvil: F
+W2184187688  # 3, GB, tiltaksgruppe 4, bare tittel: sluttrapport fra evaluering av EMA, tvil: F
+W129923974  # 3, GB, tiltaksgruppe 4, bare tittel: virkninger av EMA (LSDA-rapport), tvil: F
+W228735155  # 3, GB, tiltaksgruppe 4, bare tittel: EMA og virkningen på further education (FEDA-rapport), tvil: F
+W1565950022  # 3, GB, tiltaksgruppe 4, bare tittel: EMA og virkningen på further education; samme materiale som W228735155, tvil: F
+W2488208057  # 3, GB, tiltaksgruppe 4, bare tittel: erstatning av EMA med 16-19 Bursary i England, effekt på deltakelse i utdanning (reform)
+W7203452714  # 3, GB, tiltaksgruppe 4, bare tittel: skiller kontanteffekt og vilkårseffekt av EMA
+W2038759711  # 3, GB, tiltaksgruppe 4, hovedfunn fra evalueringen av EMA-pilotene og videre politikk (Activity and Learning Agreements), tvil: F
+W2082277640  # 2, Colombia, tiltaksgruppe 4, PACES-vouchere til privat videregående med vilkår om progresjon, loddtrekning, fullføring av secondary +15-20 % (administrative data)
+W2151829493  # 2, Colombia, tiltaksgruppe 4, PACES-vouchere, loddtrekning, fullføring av secondary; samme materiale som W2082277640 (arbeidsnotatversjon)
+W3124174903  # 2, Colombia, tiltaksgruppe 4, tre varianter av betingede kontantoverføringer i Bogota tilfeldig tildelt, mellomlange og lange utdanningsutfall (administrative data)
+W1901731241  # 2, US, tiltaksgruppe 1, RCT av Check & Connect for 144 elever med emosjonelle/atferdsvansker, fulgt 4-5 år, frafall og tilstedeværelse
+W2891382795  # 3, Canada, tiltaksgruppe 1, Pathways to Education (mentor, lekser, insentiver), før-etter mot andre boligområder, high school graduation og videre utdanning
+W1602460230  # 3, Canada, tiltaksgruppe 1, Pathways to Education, før-etter mot andre boligområder, graduation; samme materiale som W2891382795 (arbeidsnotatversjon)
+W4388103994  # 3, US, tiltaksgruppe 1, kvasitilfeldig fordeling til rådgivere i Massachusetts, effekt av rådgiveren på graduation og college
+W2141534168  # 3, NL, tiltaksgruppe 1, bare tittel: community schools og frafall i pre-vocational education, tvil: 4
+W113097357  # 1, US, tiltaksgruppe 1, integrativ oversikt over 45 intervensjonsstudier om frafall/fullføring, kodet på design, effektstørrelser for 17, tvil: 5
+W2080093575  # 1, US, tiltaksgruppe 1, oversikt over evidensbaserte overgangspraksiser for fullføring blant elever med funksjonsnedsettelser, tvil: 5
+W1984181739  # 1, US, tiltaksgruppe 2, gjennomgang av evalueringer av fire karriereprogrammer (bl.a. career academies, Job Corps), tvil: 5
+W4322739414  # 1, US, tiltaksgruppe 2, oppsummering av nyere forskning om effekten av CTE (CTE-skoler, career academies) på graduation og inntekt, tvil: 5
+W2162660350  # 1, DE, tiltaksgruppe 2, oversikt over evidens for yrkesfag mot allmennfag og skolebasert mot dual lærlingordning i industriland, arbeidsmarkedsutfall, tvil: 5
+W2764099164  # 1, US, tiltaksgruppe 5, litteraturgjennomgang av effekten av charter- og private skolevalgprogrammer på fullføring av high school og college, tvil: 5
+W2582978474  # 1, OECD, tiltaksgruppe 3, gjennomgang av økonomiske og ikke-økonomiske insentiver til bedrifter for å skaffe læreplasser, effektene ofte beskjedne, tvil: 5
+W261039529  # 3, CH, tiltaksgruppe 3, fortrinn i offentlige anskaffelser for lærebedrifter, effekt på andel lærebedrifter, antall og kvalitet (stor bedriftsundersøkelse), tvil: 4
+W2594678938  # 3, DE, tiltaksgruppe 3, bare tittel: valgmuligheter i opplæringsplaner og tilbud og etterspørsel etter læreplasser, tvil: 4
+W290486728  # 3, FR, tiltaksgruppe 2, lærlingløp mot heltids yrkesskole, instrument (lokal lærlingandel), frafall, fullføring og videre opplæring, tvil: 4
+W3213363840  # 3, CL, tiltaksgruppe 4, bare tittel: langtidseffekter av stipend og lån til yrkesutdanning, kan gjelde fagskolenivå, tvil: 4
+W4383262913  # 2, NO, tiltaksgruppe 1, COMPLETE: Drømmeskolen og Drømmeskolen med psykisk helse-team mot kontrollgruppe (1508 elever), skoleklima, ensomhet og fullføring, randomisering ikke nevnt i sammendraget, tvil: 4
+W3155834839  # 4, SE, tiltaksgruppe 5, friskoler i videregående, betinger på søkerrangering, karakterer, fullføring og videre utdanning
+W4415228247  # 4, NO, tiltaksgruppe 3, tilgang til læreplass (kontrakter/søkere etter fag, fylke og år), registerdata 1993-96-kull, frafall, sysselsetting og NEET ved 23 år, tvil: 3
+W4404106323  # 3, DK, tiltaksgruppe 5, bare tittel: avstand til skole, nye gymnas/videregående skoler i Danmark som kilde til variasjon
+W4413137339  # 3, SE, tiltaksgruppe 5, sentralt bestemte variasjoner i lokalt tilbud av studieretninger, effekt på valg og arbeidsmarkedsutfall, tvil: 4
+W2900346839  # 4, DK, tiltaksgruppe 1, bare tittel: effekt av et forberedende program (LATE) på videregående skolegang, tvil: 3
+W2950284726  # 5, NO, tiltaksgruppe 1, Ny GIV intensivopplæring i 10. trinn, karakterutvikling for deltakere mot ikke-deltakere, tvil: 4
+0198cc82acd3-25db32da-92d2-43bc-aeca-4eac203e86ac  # 5, NO, tiltaksgruppe 2, følgeforskning: mulige effekter av entreprenørskapsopplæring på frafall i videregående, passer svakt i gruppene, tvil: 4
+019dcf110efa-7c74d5a1-4995-4194-b024-4d7bc4f9d0c1  # 5, NO, tiltaksgruppe 5, KLAR2030: registerdata om programstruktur og fagvalg på studieforberedende/påbygg og fullføring og høyere utdanning
+0198cc563c53-38f459ab-7b12-4379-bca9-adb3f5e50784  # 5, NO, tiltaksgruppe 2, Utdanningsløftet 2020: gjennomføring, overgang til lærekontrakt, fagprøver og arbeid for elever i Vg3 fagopplæring i skole, tvil: F
+0198cc55549c-110e8ee2-6862-4943-aa1f-96f6238f4809  # 5, NO, tiltaksgruppe 3, Utdanningsløftet 2020: registerdata om deltakelse, videre opplæring etter ikke bestått og nye læreplasser 2021, tvil: F
+KU-a2a2fd76-a3c1-4939-8abd-07857551bc7e  # 5, NO, tiltaksgruppe 2, evaluering av lærekandidatordningen og tilskudd til lærlinger med særskilte behov, spørreundersøkelser, intervjuer og registerdata, kompetanseutfall, tvil: F
+0198cc3e5832-ee5191af-142c-4cc4-9c68-41794515f96b  # 5, NO, tiltaksgruppe 1, Lindesneslosen (losmodell etter Supported Employment), følgeevaluering og registeranalyse av virkning på regionnivå, tvil: F
+019ed45c9fb4-36845be7-adcc-4fc8-98c8-434b1f2bf401  # 5, NO, tiltaksgruppe 2, bare tittel: fullført lærekandidatløp og overgang til jobb
+W1581645149  # 5, DK/FI/NO/SE, tiltaksgruppe 2, registerdata: frafall og arbeidsmarkedsutfall for frafalne fra dual (DK, NO) og skolebasert (FI, SE) yrkesfag, passer svakt (følger av frafall)
+0198cc6f84ed-44adde51-5c49-4a1b-bfa9-b29b38319e8b  # 1, NO, tiltaksgruppe 1, oppsummering av forskningsbasert kunnskap og praksis for å redusere frafall (prosjekt om relasjonskompetanse), tvil: 5
+W1560608108  # F, FI, tiltaksgruppe 1, studie av 14 yrkesskoletilbydere med lavt frafall, gode praksiser og driftsmodeller
+W2780424900  # F, NO, tiltaksgruppe 2, piloter med alternativ, bedriftsbasert Vg3 for elever uten læreplass, læring, motivasjon og fullføring, tvil: 5
+0198cc5942fe-c21581fc-4438-46d5-a7d6-53b5a6470580  # F, NO, tiltaksgruppe 2, Utdanningsløftet 2020: iverksetting og kvalitet i Vg3 fagopplæring i skole 2021/22
+KU-47fdcf68-2787-4ff4-9e0b-3466afb6dd7a  # F, NO, tiltaksgruppe 2, forsterket alternativ Vg3 i fem fylker, intervjuer og kvantitative data om deltakere, kvalitet og resultater, tvil: 5
+KU-02f10480-b4b3-4ed6-b775-62d384acb707  # F, NO, tiltaksgruppe 2, sluttrapport om prosjekt til fordypning, kvalitative og kvantitative data, kompetanseutvikling
+KU-7a3f6d99-cd5a-4122-aacd-a73f09e3cce6  # F, NO, tiltaksgruppe 2, sluttrapport om prosjekt til fordypning, rekruttering til læreplass; samme materiale som KU-02f10480-b4b3-4ed6-b775-62d384acb707
+KU-5c0a4767-1ecb-4c9f-af31-22c7d6e8b980  # F, NO, tiltaksgruppe 2, delrapport om innføringen av prosjekt til fordypning; samme evaluering som KU-02f10480-b4b3-4ed6-b775-62d384acb707
+KU-67ce0274-fb10-486d-85e4-b8fac880723c  # F, NO, tiltaksgruppe 2, evaluering av Kunnskapsløftet i fag- og yrkesopplæringen, statlige intensjoner og fylkenes tolkning
+KU-03c0f4b8-dbcf-440f-8f7c-88f099c9c878  # F, NO, tiltaksgruppe 2, evaluering av praksisbrevforsøket, gjennomføring og erfaringer i skole og bedrift, tvil: 5
+019c9288f57c-fa0aa1fb-2e7d-4364-aac2-51d041242fd1  # F, NO, tiltaksgruppe 2, masteroppgave: åtte gutter på praksisbrev og læringsidentitet, intervjuer
+KU-1a542e6a-090c-4928-b8d8-a1170d19f054  # F, NO, tiltaksgruppe 2, følgeevaluering av forsøk med 2+2-modell for agronom og gartner, rapporteringer og intervjuer 2015-2020
+KU-86a7a77e-5153-4049-bb92-d7320d390817  # F, NO, tiltaksgruppe 2, delrapport om forsøk med lærlingordning (2+2) i landbruk og gartnernæring, fagprøver og rekruttering; samme forsøk som KU-1a542e6a-090c-4928-b8d8-a1170d19f054
+KU-a18c50eb-5ab5-48ce-85e7-699bffc8a601  # F, NO, tiltaksgruppe 2, sluttrapport fra evalueringen av LK20 i yrkesfag, intervjuer, spørreundersøkelser og registerdata om overgang til lære og arbeid, tvil: 5
+W3045119226  # F, NO/CH, tiltaksgruppe 2, toårige lærlingløp i Norge og Sveits, intervjuer med læreplaneksperter om intensjoner og læringsutbytte
+019913ed27da-25f4b4bf-7e3f-4a9f-97f8-9afecdb899d6  # F, NO, tiltaksgruppe 2, Fra talent til fagarbeider: alternativ modell med full opplæring i bedrift for elever i fare for å slutte, mål om fagbrev
+0198f6380179-fc6f3bf2-828e-479b-bd44-50bd428e4ba5  # F, NO, tiltaksgruppe 2, masteroppgave: erfaringer fra elever og bedrifter med TAF-ordningen i restaurant- og matfag
+KU-a16403a9-74e4-4185-85ad-9aa931f2c622  # F, NO, tiltaksgruppe 3, evaluering av tilskudd til kvalifisering og formidling til læreplasser (Samfunnskontrakten), dokumenter, statistikk og intervjuer i alle fylker, tvil: 5
+0198cc5a2952-5c60e9f0-a58e-40fb-89b8-2dcd1f52ec05  # F, NO, tiltaksgruppe 3, lærlingformidling i tre fylker, intervjuer om faser, systemer og ulik resultatoppnåelse
+0198efd15c31-d58781d3-a9a1-428c-8e67-3f8458febc7b  # F, NO, tiltaksgruppe 3, masteroppgave om prosjektet Auka gjennomføring - fleire ut i lære i Hordaland 2016-2019
+W7172410188  # F, NO, tiltaksgruppe 3, opplæringskontorenes rolle i rekruttering til læreplass for vanskeligstilte, 27 intervjuer
+W2751997077  # F, NO, tiltaksgruppe 1, Ny GIV og iverksetting av tiltak mot frafall hos lokale skolemyndigheter, organisasjonslæring
+KU-899c4aee-cd3e-444a-844e-4bad24cdfaf0  # F, NO, tiltaksgruppe 1, evaluering av 0-24-samarbeidet mellom fem direktorater om økt gjennomføring
+019c953bd972-63d4071e-7336-48a5-a6d6-33d13041aa26  # F, NO, tiltaksgruppe 1, masteroppgave: casestudie av tverretatlig samarbeid i 0-24-samarbeidet
+W4405898547  # F, NO, tiltaksgruppe 1, den norske modellen for oppfølging av elever i risiko på yrkesfag, intervjuer med elever og to skoler (EmpowerVET)
+0198cc7826c4-95a4d524-37df-4832-99b3-ecd1bba63011  # F, NO, tiltaksgruppe 1, oppfølgingstjenesten: intervjuer med OT-rådgivere om dilemmaer i oppfølgingen
+0198f66963b3-226fed2f-3acb-46f1-b5cb-d95c29179d1b  # F, NO, tiltaksgruppe 1, alternative kvalifiseringstiltak for 16-19-åringer utenfor skole og arbeid (Unge utenfor), målgruppen for OT
+0198f66aabdc-2b24a08e-a0af-4c6c-b04e-8764f3fa540d  # F, NO, tiltaksgruppe 1, evaluering av NAV-forankrede prosjekter for utsatt ungdom i 15 områder, delrapport 2, deltakere og resultater
+0198f66c05c0-7deff6e6-b91a-434d-9316-b14938629c21  # F, NO, tiltaksgruppe 1, sluttrapport fra evalueringen av NAV-prosjekter for utsatt ungdom; samme evaluering som 0198f66aabdc-2b24a08e-a0af-4c6c-b04e-8764f3fa540d
+0198cc7e7737-61746d5b-9578-437f-8d63-539842bd70b2  # F, NO, tiltaksgruppe 1, følgeforskning på Ung11, frivillig 11. skoleår før videregående, deltakeres og ansattes erfaringer
+W4401920480  # F, NO, tiltaksgruppe 1, Guttas Campus: intervjuer med deltakere i læringsleir og mentorgrupper fra 9. trinn til videregående
+019913cb2e6d-779ebdee-2175-4632-bce2-c5522261ae4b  # F, NO, tiltaksgruppe 1, mentorordningen i folkehøgskolen for elever uten fullført videregående, intervjuer med 10 elever og 3 mentorer
+0198cc69a8ee-d4e42557-f10d-490e-8b85-4591f4ffa832  # F, NO, tiltaksgruppe 1, rapport 2 fra evalueringen av mentorordningen i folkehøgskolene 2017/18; samme ordning som 019913cb2e6d-779ebdee-2175-4632-bce2-c5522261ae4b
+0198cc5c532a-c2828bb6-c3f6-441c-9ba1-22ac54610258  # F, NO, tiltaksgruppe 1, prosjektet Redusert bortvalg i en lærende organisasjon, fire skoler, medarbeideres oppfatninger
+019913fa9168-aae7beaa-ae3d-4ce5-ad0a-8d80a01e96a0  # F, NO, tiltaksgruppe 1, følgeevaluering av Økt kunnskap om hvordan i Buskerud (Appreciative Inquiry mot bortvalg)
+0198cc88e166-a31ae271-e424-424b-97be-45d69692f5f6  # F, NO, tiltaksgruppe 1, kartlegging av fylkesvise partnerskap for karriereveiledning, grunnlag for evaluering
+0198cc58ea46-75ec50ba-0086-42f7-bd74-d1d9e2e55718  # F, NO, tiltaksgruppe 1, femte delrapport fra evalueringen av Mot studie- og yrkeskompetanse for ungdom med funksjonshemming: opplæring i bedrift
+0198cc593da8-82ddc204-70ea-4861-aad2-e5ac3c42a313  # F, NO, tiltaksgruppe 1, fjerde delrapport fra samme evaluering, overganger i videregående; samme evaluering som 0198cc58ea46-75ec50ba-0086-42f7-bd74-d1d9e2e55718
+0198cc58e458-b3c0a74b-2d9d-4745-8313-1ed54e00a8e4  # F, NO, tiltaksgruppe 1, tredje delrapport fra samme evaluering, tilretteleggingstiltak; samme evaluering som 0198cc58ea46-75ec50ba-0086-42f7-bd74-d1d9e2e55718
+W3120634670  # F, SE, tiltaksgruppe 5, introduksjonsprogrammet i 90 kommuner, spørreskjema til 139 skoleaktører og offentlig statistikk om fullføring etter fire år
+W2116558890  # F, DK, tiltaksgruppe 1, utvikling av intervensjon for sosiale relasjoner mot frafall på fire erhvervsskoler, kvalitative data
+W4400508247  # F, GB/NO (uklart i sammendraget), tiltaksgruppe 1, realistisk evaluering av idrettsbasert flerkomponenttiltak med mentor for elever med lavt engasjement, utenfor Norden hvis GB
+KU-72c7b14e-01b0-4d64-822f-6741f6982446  # 5, NO, tiltaksgruppe 1, kunnskapsoversikt over mest norsk forskning om rådgivning i skolen, inkludert oppfølgingstjenesten, med forskningsbehov; designene oversikten bygger på er ikke oppgitt, tvil: F
+KU-a1a67931-cad4-40f0-ab8b-63ee269b2a7b  # 5, NO, tiltaksgruppe 5, KLAR2030-delrapport: registerdata (SSB, FS) om hvordan programstruktur og fagvalg på studieforberedende og påbygg henger sammen med gjennomføring i vgo og høyere utdanning, kontrollert for elevsammensetning; innføringen av programområder ga færre realfagsvalg, tvil: 4
+KU-a2a2fd8d-8c54-46a8-9379-33eadaa79981  # F, NO, tiltaksgruppe 3, organisering av formidling til læreplass i tre fylker; intervjuer, dokumentanalyse og VIGO-data; forskjeller i formidlingsandel forklares mest av kontekst; drøfter lærekandidatordningen og Vg3 i skole
+KU-a2a2fd91-e80e-493a-9820-86d8c4ea6cef  # F, NO, tiltaksgruppe 2, fire lokale modeller for faglig fordypning på Vg1 bygg- og anleggsteknikk; kvalitative intervjuer, ingen effektmål
+LI-v8q83dqqslmd3qlj  # 3, SE, tiltaksgruppe 5, bare tittel (IFAU): effekter av høyere opptakskrav til gymnasieskolens yrkesprogram, tvil: 4
+LI-12064817  # F, SE, tiltaksgruppe 1, bare tittel (Skolinspektionen): gymnasieskolers evne til å få alle elever til å fullføre
+LI-xccxkhrqvzb34xvj  # F, SE, tiltaksgruppe 1, bare tittel: supplemental instruction (SI) i gymnasieskolen
+LI-1fql28b5zlqjmm7j  # F, SE, tiltaksgruppe 1, bare tittel: SI i gymnasieskolen, samme materiale som LI-xccxkhrqvzb34xvj
+LI-p3d8qxzrm3ft1ldq  # F, SE, tiltaksgruppe 1, bare tittel: SI-plattform i Stockholm, samme materiale som LI-xccxkhrqvzb34xvj
+LI-2cbh9mz00wzhq9xw  # F, SE, tiltaksgruppe 1, bare tittel (Skolinspektionen): studie- og yrkesveiledning i undervisningen på yrkesprogram
+LI-19507239  # F, SE, tiltaksgruppe 2, bare tittel (Skolverket): arbeidsplassforlagt læring (APL) på yrkesprogrammene
+LI-22528868  # F, SE, tiltaksgruppe 2, bare tittel (Skolverket): delrapport om forsøksvirksomhet med yrkesprøve
+LI-20857989  # 5, SE, tiltaksgruppe 2, bare tittel (Skolverket): oppfølging av gymnasiale lærlingers etablering på arbeidsmarkedet, tvil: F
+LI-19529489  # F, SE, tiltaksgruppe 2, bare tittel: tematisk sammenstilling fra Lärande på arbetsplats i Norden 2013–2015
+LI-18741916  # F, SE, tiltaksgruppe 2, bare tittel: Lärande på arbetsplats i Norden, samme materiale som LI-19529489
+LI-19367608  # F, SE, tiltaksgruppe 2, bare tittel (Skolverket): oppdrag om Lärande på arbetsplats i Norden, samme materiale som LI-19529489
+LI-bqqhff3x87jnzpl6  # F, SE, tiltaksgruppe 2, bare tittel (Skolverket): oppdrag om å utdanne veiledere og styrke kvaliteten i APL
+LI-1j61z1mfzhqbw87c  # F, SE, tiltaksgruppe 5, bare tittel: bok om introduksjonsprogrammene som støtte for unge i risikofylte overganger
+LI-tff9p0nxr8bj7vz0  # F, SE, tiltaksgruppe 4, bare tittel (CSN): skulk, studiebidrag og gjeld, tvil: 5
+LI-cmttj8m09cw3w4zg  # F, SE, tiltaksgruppe 1, bare tittel (Linköpings universitet): hvordan avbrudd i gymnasieskolen kan reduseres
+W4400787968  # F, NO, tiltaksgruppe 3, casestudie i en distriktskommune: intervjuer med elever, lærere, ledere og bedrifter om organisering av overganger i yrkesfag; opplæringskontoret som nettverksaktør; ingen effektmål
+W3187966641  # F, DK, tiltaksgruppe 2, bare tittel: hvordan Danmark prøver å løse frafallet i yrkesutdanningen
+W2593554354  # F, Norden, tiltaksgruppe 1, beskrivelse av ti nordiske prosjekter mot frafall fra en nordisk portal for god praksis; tiltakene oppgis å være eksternt evaluert, men rapporten har ingen effektmål
+W2900692626  # F, Norden, tiltaksgruppe 1, første delrapport fra Nordisk 0–24 om tverrsektorielt samarbeid for å hindre frafall og utenforskap; ingen effektmål
+W2976412447  # 5, NO, tiltaksgruppe 5, longitudinell studie av elever med spesialundervisning på yrkesfag fulgt i fire år; progresjon og frafall; tilrettelegging i ordinære klasser heller enn smågrupper henger sammen med oppnådd kompetanse
+W2226117826  # 5, NO, tiltaksgruppe 5, analyse av utdanningspolitikk og oppnådd utdanning i Norge 1950–2010, blant annet reviderte læreplaner i vgo på 1990-tallet; design ikke beskrevet i sammendraget
+W3007492576  # F, Norden, tiltaksgruppe 1, nordiske policy briefs, blant annet om støtte til fullføring av skolen; ingen effektmål
+W2620841127  # F, NO og CH, tiltaksgruppe 3, sammenligning av forskningslitteratur og utdanningspolitiske strategier mot hevede lærekontrakter og frafall i Norge og Sveits; ingen effektmål
+W2979857853  # 3, MX (tittel), tiltaksgruppe 4, bare tittel: store, ikke-målrettede betingede kontantoverføringer (Prepa Sí) og fullføring av high school i Mexico by, tvil: 4
+W2996911083  # 3, US, tiltaksgruppe 2, endrede krav til valgfag i Arkansas endret skolenes CTE-tilbud; variasjonen i tilbudet brukes som instrument for CTE-kurs; effekt på fullført high school, college, sysselsetting og lønn
+W4306382217  # 3, US, tiltaksgruppe 2, strukturell modell med instrument (variasjon i CTE-tilbud og lokalt arbeidsmarked) på nasjonale longitudinelle data; trade-CTE øker fullført high school, lønn og sysselsetting og senker universitetsfullføring, tvil: 4
+W2399603264  # 2, US, tiltaksgruppe 1, randomisert studie (n=1173, ti steder) av National Guard Youth ChalleNGe, et intensivt boprogram for drop-outs 16–18 år; effekt på high school-kvalifikasjon, utdanning og arbeid etter tre år
+W1600441472  # 2, land ikke oppgitt, tiltaksgruppe 1, nytte-kostnadsanalyse av ChalleNGe (boprogram med mentor for drop-outs 16–18) med effektestimater fra den randomiserte evalueringen, samme materiale som W2399603264
+W2276179287  # 1, land ikke oppgitt, tiltaksgruppe 1, kort oversikt over fem forskningsbaserte praksiser for økt fullføring, valgt fordi de har tilfeldig utvalg eller sammenligningsgruppe og signifikant effekt på skolestatus, tvil: 4
+W4394065087  # 3, JP, tiltaksgruppe 4, bare tittel: effekten av gratis skolepenger i private high schools på frafall, tvil: 4
+W4255274562  # 1, land ikke oppgitt, tiltaksgruppe 5, oversikt over effekten av charter-skoler og private skolevalgsordninger (vouchere, stipend) på fullført high school og høyere utdanning; jevnt over positive effekter, lite forskning, tvil: 4
+W3082601048  # 2, CO, tiltaksgruppe 4, randomisert forsøk med tre utforminger av betingede kontantoverføringer i videregående; påmelding, frafall, avgangseksamen og høyere utdanning 8 og 12 år etter
+W2965805879  # 2, land ikke oppgitt, tiltaksgruppe 5, loddtrekning av PACES-stipend til privat videregående for lavinntektselever; langtidseffekter på høyere utdanning, arbeid og inntekt 20 år etter, størst for søkere til yrkesfaglige skoler (gjelder også gruppe 4)
+W3126117839  # 3, land ikke oppgitt, tiltaksgruppe 1, Pathways to Education (coaching, leksehjelp, gruppeaktiviteter og økonomiske insentiver fra 9. trinn); skoledata koblet til skatteregister til 28 år; effekt av rett til programmet på høyere utdanning, inntekt, sysselsetting og sosialhjelp, tvil: 4
+W2234406649  # 3, land ikke oppgitt (DfES-piloter), tiltaksgruppe 4, sluttrapport fra longitudinell kvantitativ evaluering av EMA-pilotene: deltakelse, retensjon og resultater i heltidsutdanning etter 16 år, tvil: 4
+W3123331940  # 3, MX (tittel), tiltaksgruppe 5, variasjon i skoleplassering fra opptaksmekanismen; opptak til elite-high school øker frafall med 9,4 prosentpoeng
+W1209900593  # 1, land ikke oppgitt, tiltaksgruppe 3, oversiktsessay om hvordan forberedende yrkesopplæringstiltak for svake skoleforlatere påvirker overgangen til ordinær yrkesopplæring og lærling; peker på seleksjon og lite kunnskap, tvil: 4
+W4403091276  # 2, land ikke oppgitt, tiltaksgruppe 1, randomisert evaluering av Communities In Schools: to år med case management for elever i risiko; flere positive resultater (kort sammendrag)
+W2883664067  # 1, land ikke oppgitt (OECD-notat om Modern Apprenticeships i Skottland), tiltaksgruppe 3, oversikt over studier av effekten av lærlingordninger på individer og bedrifter; lønn og sysselsetting er vanligste utfall, tvil: 4
+W1034127535  # 2, US, tiltaksgruppe 4, randomisert forsøk (n=997, San Diego) med trekk i stønad ved fravær kombinert med sosiale tjenester for tenåringer i AFDC-familier; ingen effekt på fullført high school
+W4407929709  # 3, GB (UK i sammendraget), tiltaksgruppe 4, trinnvis innføring av EMA på tvers av lokalområder i England; deltakelse i heltidsutdanning +2 prosentpoeng for de fattigste, ingen effekt på kvalifikasjoner over laveste nivå, liten negativ arbeidsmarkedseffekt
+W3087854501  # 2, FR, tiltaksgruppe 1, randomisert forsøk i Versailles: to møter mellom rektor og foreldre til svake elever siste år før videregående; frafall ned fra 20 til 15 prosent etter to år, via lærling- og yrkesfagløp (tiltaket gis i siste år av ungdomstrinnet, kan falle under grunnskole-avgrensningen)
+W7154285189  # 2, ukjent land, tiltaksgruppe 1, bare tittel (registrert randomisert forsøk i AEA-registeret om mentorer for vanskeligstilte i overgangen ut av videregående; uklart om fullføring måles)
+W4205155494  # 2, ukjent land, tiltaksgruppe 1, bare tittel (registrert randomisert forsøk i AEA-registeret: omfattende case management for å hindre frafall i high school)
+W4320161653  # 2, ukjent land, tiltaksgruppe 1, bare tittel; samme materiale som W4205155494 (ny registrering av Staying on Track)
+W4205884233  # 2, ukjent land, tiltaksgruppe 1, bare tittel; samme materiale som W4205155494 (ny registrering av Staying on Track)
+W4206644262  # 2, ukjent land, tiltaksgruppe 1, bare tittel; samme materiale som W4205155494 (ny registrering av Staying on Track)
+W7130693590  # 3, GB, tiltaksgruppe 4, Education Maintenance Allowance: trinnvis innføring mellom områder i England; deltakelse i heltidsutdanning +2 prosentpoeng for de fattigste, ingen effekt på kvalifikasjoner utover laveste nivå, litt negativ effekt på arbeid i 20-årene, mindre kriminalitet
+W4416378569  # 3, GB, tiltaksgruppe 4, Education Maintenance Allowance: trinnvis nasjonal innføring og koblede registerdata til 31 år; ingen samlet effekt på arbeid eller kriminalitet, flere høytpresterende på universitet; samme materiale som W7130693590
+W2611019407  # 3, GB, tiltaksgruppe 4, rapport om effekten av 16-19 Bursary Fund som erstattet EMA; sammendraget beskriver bare EMA (tidligere anslag +4,5 prosentpoeng deltakelse i Year 12), designet for bursary-fondet står ikke, tvil: 5
+W2515970520  # 3, GB, tiltaksgruppe 4, presentasjon: innføring av EMA og minstelønn for 16-17-åringer høsten 2004 og virkning på heltidsutdanning, NEET og arbeid; forsøker å skille de to reformene, tvil: 4
+W4299937456  # 3, CH, tiltaksgruppe 3, sosial klausul i offentlige anskaffelser som gir lærebedrifter fortrinn; virkning på andel lærebedrifter, omfang og kvalitet målt i stor bedriftsundersøkelse; flere lærebedrifter, men bare små bedrifter og bransjer med mye offentlige kjøp, tvil: 4
+W4415390126  # 3, US, tiltaksgruppe 2, bare tittel (tittelen sier kausale effekter av karrieresentre og CTE-deltakelse på fullføring til normert tid i Baltimore), tvil: 4
+W7204259046  # 3, ukjent land, tiltaksgruppe 2, forhåndsregistrering: om de første effektene av CTE på testresultater, fullføring av high school og oppmøte forutsier langsiktige effekter på inntekt og utdanning; design står ikke, tvil: 4
+W4416042864  # 3, US, tiltaksgruppe 2, endring i finansieringsformelen for CTE i Michigan 2015: fullføring av CTE-program nesten doblet, men innskriving og utholdenhet uendret, effekten skyldtes omlegging av kurs rundt terskler i formelen
+W2948413599  # 3, US, tiltaksgruppe 2, strukturell modell på ELS:2002 med instrumenter for CTE-tilbud: flere CTE-muligheter gir mindre frafall i high school og bedre lønn for elever som ikke går videre, men færre tar høyere utdanning, tvil: 4
+W3015747275  # 3, SE, tiltaksgruppe 5, rask utbygging av private friskoler finansiert med skolepeng (voucher) i videregående: økt andel på yrkesfag, og virkning på karakterer, fullføring til normert tid og universitetsdeltakelse
+0198cc8fc0e4-db02d9d0-99b4-4158-ad91-bfbf9eae1d29  # 3, NO, tiltaksgruppe 5, bare tittel (Reform 94 og utdanningsveier til sosial mobilitet)
+019938665bf3-3af39f1a-6474-459b-91d0-428d92f8b688  # 3, NO, tiltaksgruppe 5, bare tittel (Reform 94, diskusjonsnotat); samme materiale som 0198cc8fc0e4-db02d9d0-99b4-4158-ad91-bfbf9eae1d29
+0198cc51a0be-15dead2a-3159-43ee-9db1-3072e0a8364d  # 1, NO, tiltaksgruppe 1, bare tittel (kunnskapsoversikt om tidlig innsats og tiltak mot frafall i videregående opplæring gjennom hele oppveksten, omfatter trolig også tiltak før videregående), tvil: 4
+W1876339633  # 5, DK, tiltaksgruppe 1, forskningsprosjekt om fastholdelse av erhvervsskoleelever: påvirkelige faktorer som kan redusere frafall i EUD, kvantitative og pedagogiske metoder; uklart om tiltak testes, tvil: F
+KU-45b08ecc-3524-433b-8a01-3969974aca65  # F, NO, tiltaksgruppe 1, sluttrapport fra evalueringen av NAVs utviklingsprosjekter for utsatt ungdom 14-25 år i 13 områder, i samarbeid med oppfølgingstjenesten og videregående skoler; om lag 2100 ungdommer, beskriver virkemidler og samarbeid, ikke effektmål
+NB-4338  # F, NO, tiltaksgruppe 1, andre delrapport fra samme evaluering av NAV-prosjekter for utsatt ungdom (15 områder, 1500 deltakere): hvem de er, resultater, metoder og samarbeid; samme materiale som KU-45b08ecc-3524-433b-8a01-3969974aca65
+KU-50ab6b78-655e-4b4d-ad0c-9146b3145b81  # F, NO, tiltaksgruppe 1, SINTEF-evaluering 2009-2010 av yrkes- og utdanningsrådgivning, sosialpedagogisk rådgivning og oppfølgingstjenesten: kjennskap til regelverk, rådgivernes kompetanse
+KU-5acfdcbb-fa9d-442a-ab5a-8db6220a26d2  # F, NO, tiltaksgruppe 1, første rapport (kartlegging 2009) fra samme evaluering av rådgivning og oppfølgingstjenesten, breddeundersøkelse til alle videregående skoler og ungdomsskoler; samme materiale som KU-50ab6b78-655e-4b4d-ad0c-9146b3145b81
+KU-64119f5e-1999-4a47-a754-9ab61668a040  # F, NO, tiltaksgruppe 2, Fafo-delrapport om prosjekt til fordypning etter Kunnskapsløftet: samarbeid skole-arbeidsliv, kvalitative intervjuer i fem fylker og fire lærefag
+KU-6f1b7747-e176-40f6-b27f-3b37307d2fca  # F, NO, tiltaksgruppe 2, andre Fafo-delrapport om prosjekt til fordypning: intervjuer og survey blant lærlinger, instruktører og lærere, overgang til læreplass og utplassering som rekruttering; samme materiale som KU-64119f5e-1999-4a47-a754-9ab61668a040
+KU-7e0b6557-49ab-497a-966f-57ff7fbb807b  # F, NO, tiltaksgruppe 3, kartlegging av hvordan Østfold, Rogaland og Nord-Trøndelag formidler søkere til læreplass, og om ulik organisering kan forklare ulike resultater
+KU-f729fbf1-12b0-4a9a-8521-2ac78561245e  # F, NO, tiltaksgruppe 3, kartlegging av oppfølgingen av lærlinger i Akershus med Vigo-data, Lærlingundersøkelsen og casestudier; oppfølging varierer mellom opplæringskontor og enkeltbedrifter
+KU-54919d64-44e2-455c-b965-92a73afa2a89  # F, NO, tiltaksgruppe 2, vurdering av strukturendringen i fellesfagene engelsk og norsk på yrkesfag fra 2020: erfaringer fra elever og lærere, kvalitative og kvantitative metoder
+KU-2e970e8e-0558-480d-81c7-b4d4abcc7fc1  # F, NO, tiltaksgruppe 4, Rambøll-kartlegging av elevenes utgifter til individuelt utstyr som grunnlag for å justere utstyrsstipendet, med budsjettkonsekvenser av nye satser
+W2296365684  # F, SE, tiltaksgruppe 2, bare tittel (suksessfaktorer for gymnasial lärlingsutbildning (GLU) i Uddevalla; sammendraget er bare en japansk prosjektreferanse)
+W267814626  # F, SE, tiltaksgruppe 2, utfordringer for yrkeslærere i den svenske gymnasiale lærlingutdanningen innført som forsøk i 2008 (minst halvparten på arbeidsplass); beskrivende, ingen effektmål
