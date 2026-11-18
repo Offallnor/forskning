@@ -47,3 +47,7 @@ Godkjent av bestilleren 18.11.2026.
 ## Metning
 
 Utvalget er mettet når under 5 prosent av de nye kandidatene i siste referanserunde oppfyller kategori 1–4, og det blinde utvalget ikke finner nye kilder i kategori 1–3.
+
+## Avvik
+
+- **Grov sikting før første utvalg (18.11.2026).** Løypa sikter normalt først etter referanserunde 1, og første utvalg leser hele lista. Her ble de 3 987 kandidatene fra søket siktet med Haiku før første utvalg, fordi det koster for mye å la Opus lese alle sammendragene. Bestilleren godkjente dette for alle tre spørsmålene i prøvekjøringen på utdanning. Siktingsprompten i `verktoy/SIKTING.md` er skrevet for effektspørsmål og ble tilpasset et beskrivende spørsmål: overgangene, frafallet, NEET og konsekvensene ble beskrevet i stedet for «tiltaket», og effektstudier av tiltak og reformer på overgangene beholdes, så det strenge utvalget kan avgjøre om de forklarer utviklingen.
