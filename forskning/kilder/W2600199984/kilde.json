@@ -4,9 +4,13 @@
  "forfattere": [
   "Christine Dauth"
  ],
+ "hentet": "2026-11-18",
+ "hentet_fra": "https://www.econstor.eu/bitstream/10419/145533/1/VfS_2016_pid_6356.pdf",
+ "hvordan": "pdf",
  "id": "W2600199984",
  "kilde": "RePEc: Research Papers in Economics",
  "lenke": "https://openalex.org/W2600199984",
+ "merknad": "ÅPEN VERSJON (preprint eller arbeidsnotat), merkes i svaret",
  "oversikt": false,
  "sammendrag": "I analyse the effects of further training subsidies for low-skilled employed workers on individual labor market outcomes in Germany for the period 2007 to 2012. Using detailed administrative data, I exploit cross-regional variation in conditional policy styles of local employment agencies, and use this fuzzy discontinuity as an instrument for program participation. I find that the subsidies caused significant gains in cumulative employment duration and earnings in the short run for the subgroup of compliers. These gains are particularly pronounced for women, younger workers and workers participating more than six months.",
  "tittel": "Do low-skilled employed workers benefit from further training subsidies?",
