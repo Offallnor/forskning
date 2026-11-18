@@ -1098,7 +1098,7 @@ W2588962647	Individual Placement and Support (IPS) for Methadone Maintenance The
 W2590965493	Effectiveness of Workplace Interventions in Return-to-Work for Musculoskeletal, Pain-Related and Mental Health Conditions: An Update of the Evidence a	2017	ja		https://openalex.org/W2590965493	https://link.springer.com/content/pdf/10.1007/s10926-016-9690-x.pdf	aktivitetskrav-sykefravaer	1	0
 W2593172489	Unemployment Insurance in Finland: A Review of Recent Changes and Empirical Evidence on Behavioral Responses	2017	nei		https://openalex.org/W2593172489		dagpenger-varighet-niva	0	0
 W25939613	Mindre arbeidsledighet uten dagpengerettigheter?	2011	nei		https://openalex.org/W25939613		dagpenger-varighet-niva	1	0
-W2596043699	Promoting Youth Employment in Europe: Evidence-Based Policy Lessons	2017	ja		https://openalex.org/W2596043699	https://docs.iza.org/pp119.pdf	lonnstilskudd-unge	1	0
+W2596043699	Promoting Youth Employment in Europe: Evidence-Based Policy Lessons	2017	ja		https://openalex.org/W2596043699	https://docs.iza.org/pp119.pdf	fullforing-vgo,lonnstilskudd-unge	1	0
 W2597470746	On or Off – Are Treatment Effects of Policy Changes Symmetric? Evidence from Unemployment Insurance Reform with Incomplete Information	2016	nei		https://openalex.org/W2597470746		dagpenger-varighet-niva	1	0
 W2598557097	Unemployment Insurance and Subsequent Job Duration: Job Matching vs Unobserved Heterogeneity	2000	ja		https://openalex.org/W2598557097	https://docs.iza.org/dp116.pdf	dagpenger-varighet-niva	0	0
 W2598703126	The effects of expanding the generosity of statutory sick leave insurance: The case of a French reform	2022	nei		https://openalex.org/W2598703126		egenandel-sykefravaer	1	1
@@ -1529,7 +1529,7 @@ W3124756840	The effects of a sick pay reform on absence and on health-related ou
 W3124780594	The Effect of Unemployment Benefits on the Duration of Unemployment Insurance Receipt: New Evidence from a Regression Kink Design in Missouri, 2003-20	2015	nei		https://openalex.org/W3124780594		dagpenger-varighet-niva	3	0
 W3124856341	The Displacement Effect of Reemployment Bonus Programs	1993	nei		https://openalex.org/W3124856341		dagpenger-varighet-niva	0	0
 W3124866141	Unemployment Duration, Unemployment Benefits, and Labour Market Programmes in Sweden	1995	nei		https://openalex.org/W3124866141		dagpenger-varighet-niva	1	0
-W3124881456	Social Experiments in the Labor Market	2017	ja		https://openalex.org/W3124881456	http://www.nber.org/papers/w22585.pdf	dagpenger-varighet-niva	1	0
+W3124881456	Social Experiments in the Labor Market	2017	ja		https://openalex.org/W3124881456	http://www.nber.org/papers/w22585.pdf	dagpenger-varighet-niva,evu-voksne	1	0
 W3124887541	Do youth employment programs improve labor market outcomes? A quantitative review	2018	nei		https://openalex.org/W3124887541		lonnstilskudd-unge	0	0
 W3124930013	US Unemployment Insurance Replacement Rates During the Pandemic	2020	nei		https://openalex.org/W3124930013		dagpenger-varighet-niva	0	0
 W3124932748	When the Going Gets Tough... Financial Incentives, Duration of Unemployment and Job-Match Quality	2016	ja		https://openalex.org/W3124932748	https://docs.iza.org/dp10044.pdf	dagpenger-varighet-niva	3	0
