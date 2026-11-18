@@ -864,3 +864,237 @@ W2042814064  # 3, Italia, tiltaksgruppe 4, bare tittel: kausal effekt av stipend
 W4235488710  # 3, ukjent land, tiltaksgruppe 4, bare tittel (sammendraget er bare et fragment): high school-elevers valg og prestasjoner som svar på stipend, informasjon og samundervisning; tvil: 4
 W2724152525  # 3, Mexico, tiltaksgruppe 4, bare tittel: valg av studieretning i high school og økonomiske begrensninger i urbane Mexico
 W4238460389  # 3, Mexico, tiltaksgruppe 4, bare tittel: samme materiale som W2724152525 (valg av studieretning og likviditetsbegrensninger i urbane Mexico, delvis samme forfattere)
+# Utvalg fra referanserunde 2, 18.11.2026, etter grovsikting (3 599 av 7 375 nye beholdt). Lest i åtte bolker på Opus.
+W4306677760  # 1, OECD-land, tiltaksgruppe 1, Campbell-oversikt over oppsøkende programmer for ungdom i risiko (8-25 år); utfall blant annet skolefrafall, arbeidsledighet og kriminalitet
+W3111542605  # 1, OECD-land, tiltaksgruppe 1, protokoll for Campbell-oversikten om oppsøkende programmer for ungdom i risiko; utfall blant annet skolefrafall; samme materiale som W4306677760
+W2151991666  # 3, Sverige, tiltaksgruppe 5, friskolereformen 1992: variasjon i utbyggingen av friskoler mellom kommuner, effekt på kort- og langsiktige utdanningsutfall; uklart om utfallene omfatter fullført videregående og om studien gjelder grunnskolen, tvil: 4
+W3124642595  # 3, Sverige, tiltaksgruppe 5, bare tittel: det svenske skolevalget og like muligheter; uklart om fullføring måles
+W2011618238  # F, Sverige, tiltaksgruppe 2, empiriske studier av de nye løpene lærlingutdanning og yrkesintroduksjon etter gymnasiereformen 2011; spenninger og ulikheter, ingen effektmål
+W4382284168  # 3, Norge, tiltaksgruppe 5, diskontinuitet ved inntaksgrensen til mer krevende videregående skoler i de største byene; effekt på opptak i høyere utdanning og psykiske diagnoser, ikke fullføring direkte
+W4408614269  # F, Norge, tiltaksgruppe 2, påbygging til generell studiekompetanse etter Reform 94: dokumentanalyse og statistikk 1994-2019 over bruk og hvem som bruker ordningen; ingen effektmål
+W1500899021  # 3, Sverige, tiltaksgruppe 5, bare tittel: friskolereformen og skoleprestasjoner (preprint); samme materiale som W2151991666
+W2406509661  # 1, Norden/Sverige, tiltaksgruppe 5, oversikt over forskning på nordiske skolereformer (enhetsskole) og den svenske skolevalgreformen og like muligheter; mest grunnskole, tvil: 3
+W2118097691  # 2, USA, tiltaksgruppe 1, bare tittel: randomisert studie av selvbestemmelsestiltak (My Life) og overgangsutfall for ungdom i fosterhjem og spesialundervisning
+W2158540390  # 3, USA, tiltaksgruppe 4, forskjell-i-forskjell: program i Texas som betaler elever og lærere for beståtte AP-eksamener; utfall AP-deltakelse, SAT/ACT og overgang til college, ikke fullføring
+W1560711863  # 3, USA, tiltaksgruppe 4, forskjell-i-forskjell med elevfaste effekter: kunngjøringen av Kalamazoo Promise-stipendet; effekt på oppnådde studiepoeng, utvisningsdager og karakterer i videregående
+W27950030  # 2, USA, tiltaksgruppe 5, små videregående skoler i New York tildelt etter loddtrekning (sentralisert inntak); effekt på gjennomføringsgrad (graduation)
+W2008871278  # 2, Mexico, tiltaksgruppe 4, randomisert PROGRESA (betinget kontantoverføring); effekt på skoledeltakelse og skolegang for berettigede og ikke-berettigede barn (smitteeffekter)
+W1884880819  # 1, USA, tiltaksgruppe 2, sammenstilling av forskning på tre reformmodeller for videregående (high school reform) med vekt på frafall og prestasjoner; designene står ikke i sammendraget, tvil: 3
+W2371832082  # 2, USA, tiltaksgruppe 5, randomisert (loddtrekning ved opptak) evaluering av Early College High Schools; effekt på fullført high school, overgang til og fullført college
+W3121581215  # 2, Mexico, tiltaksgruppe 4, randomisert PROGRESA kombinert med nedbørsjokk ved fødsel; effekt på fullførte klassetrinn, overgang til videre utdanning og sysselsetting
+W4408885971  # 2, Canada, tiltaksgruppe 1, randomisert forsøk med karriereveiledning i videregående og/eller ekstra studiestøtte; effekt på opptak og fullført college og inntekt til 29 år (kan også høre til tiltaksgruppe 4)
+W1887624222  # 3, Chile, tiltaksgruppe 5, den nasjonale kupongreformen 1981, identifisert ved ulik eksponering mellom kull i en dynamisk modell; effekt på fullført high school (+3,6 prosentpoeng) og inntekt, tvil: 5
+W2019025227  # 2, USA, tiltaksgruppe 4, randomisert forsøk med pengebelønning til høytpresterende elever fra fattige familier for å holde karakterene oppe; akademiske utfall
+W2481540329  # 2, Mexico, tiltaksgruppe 4, randomisert utplassering av Oportunidades (betinget kontantoverføring); effekt på skolegang og barns arbeid
+W4307889041  # 2, Costa Rica, tiltaksgruppe 4, randomisert forsøk med betinget kontantoverføring til arbeidende ungdom (krav om oppmøte og bestått trinn); effekt på barnearbeid, innskriving, oppmøte og fullføring (nulleffekt på skole)
+W2006348956  # 5, Norge, tiltaksgruppe 1, longitudinell studie av elever med spesialundervisning i videregående etter Reform 94 (1994-1999); oppnådd formell kompetanse i spesialklasser mot ordinære klasser og etter mengde spesialundervisning, med kontroll for bakgrunn, tvil: 4
+W1833437010  # 3, Colombia, tiltaksgruppe 4, kvasieksperiment ved nedsatte skolepenger etter fattigdomsindeks (Gratuidad, Bogotá); effekt på innskriving i grunnskole og high school
+W2051668009  # 2, USA, tiltaksgruppe 1, randomisert forsøk med 1370 elever i risiko på ni high schools (indikert forebyggingsprogram); nulleffekt eller verre på hovedutfallene, ikke fullføring; samme materiale som W2133780709
+W4388409468  # 2, USA, tiltaksgruppe 5, skolerandomisert forsøk i New York med informasjon fra rådgivere om skolevalg til videregående; søking til og innskriving i skoler med lav gjennomføring, ikke egen fullføring
+W2341525988  # 5, Norge, tiltaksgruppe 5, data som følger andre reformkull (grunnkurs 1995/96) gjennom tre år: integrerte mot segregerte undervisningsopplegg for prestasjonssvake elever, og hvem som vinner på fritt skolevalg; uklart om fullføring måles
+W4388325133  # 3, USA, tiltaksgruppe 5, generalisert forskjell-i-forskjell: charterskolenes markedsandel i skoledistrikter; effekt på prøveresultater og gjennomføringsgrad i high school (+1-2 prosentpoeng per 10 prosentpoeng markedsandel)
+W3171681974  # 3, Sverige, tiltaksgruppe 2, forsøksvirksomheten før reformen av yrkeslinjene tidlig på 1990-tallet (2- til 3-årige med mer allmennteori); effekt på arbeidsledighet 2008-2010 og økt frafall for elever med lave grunnskolekarakterer
+W2133780709  # 2, USA, tiltaksgruppe 1, randomisert effektivitetsforsøk med Reconnecting Youth, et forebyggingsprogram for elever i risiko for å droppe ut; implementeringskvalitet og rus- og atferdsutfall, ikke fullføring
+W2021844754  # 2, USA, tiltaksgruppe 5, loddtrekning ved opptak til høytpresterende charter high schools i Los Angeles; effekt på prøveresultater, skolefastholdelse (91 mot 76 prosent) og risikoatferd
+W4403972165  # 3, Colombia/Mexico/Sør-Afrika, tiltaksgruppe 4, variasjon i når kontantoverføringer ble innført, med land- og kullfaste effekter; effekt på depresjon, fullført videregående (ingen effekt) og sysselsetting, tvil: 4
+W4402923794  # 2, USA, tiltaksgruppe 5, loddtrekning ved opptak: langtidseffekter av Early College High Schools på fullført høyere grad innen ti år; samme materiale som W2371832082
+W2073864786  # 3, Nederland, tiltaksgruppe 4, bare tittel: nederlandsk reform som reduserte studiestøtten, og skoleprestasjoner; uklart om videregående eller høyere utdanning
+W2087447897  # 2, USA, tiltaksgruppe 5, nytte-kostnadsanalyse av DC Opportunity Scholarship Program bygd på den randomiserte evalueringen (12 prosentpoeng høyere gjennomføring i high school)
+W1580124291  # F, Norge, tiltaksgruppe 5, del av den nasjonale evalueringen av Reform 94: læringsvilkår for elever med spesialundervisning, longitudinelle data for 1995-kullet og intervjuer; ingen effektmål
+W4404137463  # 3, Sverige, tiltaksgruppe 5, diskontinuitet ved karaktergrenser for inntak til studieretning ved 16 år; effekt på psykisk helse og inntekt i voksen alder, ikke fullføring
+W4405887586  # 5, Island, tiltaksgruppe 1, kvasieksperiment med to karriereveiledningstiltak for elever i siste år av videregående; karriereusikkerhet og livstilfredshet, ingen effekt etter ett år, ikke fullføring, tvil: 4
+W3124836259  # 2, USA, tiltaksgruppe 4, skolerandomiserte forsøk i over 250 urbane skoler med pengebelønning til elever (for innsats eller resultater); effekt på prestasjoner
+W2884788056  # 2, Mexico, tiltaksgruppe 4, randomisert PROGRESA og nedbørsjokk; klassetrinn, videre utdanning og sysselsetting (arbeidsversjon); samme materiale som W3121581215
+W2335930971  # 1, USA/høyinntektsland, tiltaksgruppe 4, oversikt over 196 randomiserte felteksperimenter om produksjon av humankapital i utviklede land, blant annet insentiver (kan også høre til tiltaksgruppe 1)
+W16615800  # 2, USA, tiltaksgruppe 2, grupperandomisert forsøk med forsterket matematikk innbakt i yrkesfagene (Math-in-CTE); matematikkferdigheter, ikke fullføring
+W2996272825  # 3, Colombia, tiltaksgruppe 4, forskjell-i-forskjell kombinert med diskontinuitet i administrative data: innføringen av betingede kontantoverføringer og langsiktige utfall, effekt av investeringer i ungdomstid mindre enn i tidlig barndom
+W171738179  # 2, USA, tiltaksgruppe 4, skolerandomiserte forsøk i over 200 skoler i tre byer med pengebelønning til elever (blant annet for karakterer i Chicago); effekt på prøveresultater, nulleffekt; samme materiale som W3124836259
+W3121941659  # 3, USA, tiltaksgruppe 4, forskjell-i-forskjell: Kalamazoo Promise-stipendet og studiepoeng, utvisninger og karakterer i videregående (rapportversjon); samme materiale som W1560711863
+W3149440136  # 2, Norge, tiltaksgruppe 1, randomisert forsøk i Oslo med målrettet matematikkundervisning for svake elever på 8. trinn og Vg1; sammendraget nevner ikke utfallene
+W1501220461  # 3, Danmark, tiltaksgruppe 4, kvasieksperiment med forskjeller i studiestøtte i videregående etter fødselstidspunkt; effekt på arbeid ved siden av skolen og karakterer (ingen negativ effekt)
+W7119091315  # 3, Danmark, tiltaksgruppe 5, diskontinuitet ved karaktergrensen for «uddannelsesparat» før videregående med ny vurdering året etter; økt sannsynlighet for fullført videregående og overgang til videre utdanning
+W2974072406  # F, Sverige, tiltaksgruppe 5, litteraturstudie av de NPM-inspirerte reformene av gymnasieskolan 1991-2017; segregering og prestasjoner, ingen egne effektmål, tvil: 5
+W4287651643  # 3, Norge, tiltaksgruppe 5, diskontinuitet ved inntaksgrensen til mer selektive videregående skoler; opptak i høyere utdanning og psykiske plager (arbeidsversjon); samme materiale som W4382284168
+W4378232006  # F, Norge, tiltaksgruppe 2, intervjuer med ti elever om trivsel i utvidet praksis, et tilrettelagt opplæringstilbud i videregående; ingen effektmål
+W4390789185  # F, Norge, tiltaksgruppe 1, kunnskapsoppsummering og klassifisering av Flyt, et livsmestringsprogram fra 10. trinn for ungdom i risiko for frafall i videregående; starter i grunnskolen
+W4394933835  # 2, USA, tiltaksgruppe 4, randomisert forsøk med kontantoverføring alene eller sammen med etterskoleprogram for gutter 14-17 år i Wilmington; helse, økonomi, skoleoppmøte og disiplin (ingen sikker effekt på skole)
+W2804370236  # 3, Australia, tiltaksgruppe 2, systemreform som erstattet sentral planlegging med kuponger i yrkesopplæringen for unge; effekt på kursvalg, samsvar med arbeidslivets behov og elevenes resultater
+W7127157124  # 3, Italia, tiltaksgruppe 3, reform som økte arbeidsgiveravgiften for lærlingkontrakter med rabatt for bedrifter med høyst ni ansatte; effekt på etterspørselen etter lærlinger (ingen)
+W2613234518  # 3, Finland, tiltaksgruppe 5, diskontinuitet ved inntaksgrensen til eliteskoler i gymnaset i Helsingforsregionen; effekt på resultater i studenteksamen, ikke fullføring direkte
+W2763694206  # 3, GB, tiltaksgruppe 3, bare tittel: effekt av lærlingreformen i England 2012 (lengre læretid) på oppnåelse og arbeidsmarkedsutfall
+W3033042313  # 3, KR, tiltaksgruppe 2, School-to-Work Programme 2011 for yrkesfaglige elever; forskjell-i-forskjell mot studieforberedende, sysselsetting og overgang til høyere utdanning
+W3186277373  # 2, US, tiltaksgruppe 1, BARR-modellen (relasjonsbygging og oppfølging i 9. trinn); randomisert på elevnivå (~4 000 elever, 11 skoler), strøkne fag, oppnådde studiepoeng/credits, karakterer
+W4307831599  # 2, US, tiltaksgruppe 1, mentorordning med eldre elever for å forebygge frafall ved overgang til high school; RCT med 1 351 elever, oppmøte og credits (null), atferd og tilknytning
+W4412950491  # 2, US, tiltaksgruppe 1, nettbasert credit recovery for elever som har strøket; flersteds randomisert studie, fullføring (graduation) og credits, ingen signifikant effekt
+W3168708978  # 3, DE, tiltaksgruppe 3, lærlingavgift som fordeler lærlingkostnader i pleiesektoren innført til ulik tid i delstatene; sannsynlighet for å forlate lærebedriften etter fullført læretid og lønn
+W2529209570  # 1, land ukjent, tiltaksgruppe 1, bare tittel: metaanalyse av mentorprogrammer for ungdom
+W2483443640  # F, NO, tiltaksgruppe 2, underveisanalyse av styringsreformen i Kunnskapsløftet (evalueringen for Utdanningsdirektoratet), uten effektmål
+W2470002656  # 5, NO, tiltaksgruppe 2, sluttrapport fra evalueringen av Kunnskapsløftet om tilbudsstruktur, gjennomføring og kompetanseoppnåelse i vgs; implementering og konsekvenser for gjennomføring; tvil: F
+W3124155705  # 2, MX, tiltaksgruppe 4, randomisert skolestipend betinget av oppmøte (Mexico); skolegang for berettigede og ikke-berettigede barn i landsbyene, sosiale samspill
+W2924485061  # 3, NO, tiltaksgruppe 2, Reform 94 i yrkesfaglig videregående opplæring; effekter på utdanningsløp og sosial mobilitet (sammendraget avkortet)
+W2494317202  # 5, NO, tiltaksgruppe 2, delrapport I i evalueringen av Kunnskapsløftet: søking, opptak og gjennomføring i vgs; samme materiale som W2470002656; tvil: F
+W2493052557  # 5, NO, tiltaksgruppe 2, delrapport i evalueringen av Kunnskapsløftet om søking, opptak og gjennomføring, særlig overgangen Vg2–Vg3; samme materiale som W2470002656; tvil: F
+W2507307555  # 2, US, tiltaksgruppe 4, Opportunity NYC – Family Rewards, betingede kontantoverføringer blant annet knyttet til barnas skolegang; RCT med ~4 800 familier, langtidseffekter på blant annet utdanning
+W2615834955  # 2, US, tiltaksgruppe 1, case management i Communities In Schools for elever i risiko for frafall; RCT i 24 skoler over to år, implementering og effekter
+W4298864668  # 3, IT, tiltaksgruppe 3, bare tittel: effekter av reformer av lærlingordningen i Italia på ungdoms arbeidsmarked
+W2501063076  # F, NO, tiltaksgruppe 2, evaluering av forsøket med gjennomgående dokumentasjon i fag- og yrkesopplæringen (fire programområder, fem fylker), uten effektmål
+W2463322164  # F, NO, tiltaksgruppe 2, delrapport 1 fra evalueringen av forsøket med praksisbrev, innført for å redusere bortvalg; uten effektmål i sammendraget
+W2222360378  # 1, GB/US, tiltaksgruppe 4, oversikt over randomiserte forsøk med betingede kontantoverføringer og andre økonomiske insentiver til elever; oppmøte, prestasjoner og fullføring
+W164857482  # 3, NO, tiltaksgruppe 5, fritt skolevalg i videregående (ulikt mellom fylker og etter reiseavstand); trippeldifferanse, prestasjoner, fullføring og universitetsutdanning
+W2801093038  # 5, NO, tiltaksgruppe 1, systematisk oversikt (Kunnskapssenteret) over tiltak for å lette livsoverganger for barn og unge med funksjonsnedsettelser, f.eks. mentorordninger; dokumentasjon av svært lav kvalitet
+W4409326358  # 3, CO, tiltaksgruppe 3, økt lærlinglønn (75 til 100 prosent av minstelønn) og pliktgrense ved 15 ansatte; forskjell-i-diskontinuitet, etterspørsel etter lærlinger
+W2943279047  # 3, CL, tiltaksgruppe 4, kontantbelønning for karakterer (Bono por Logro Escolar); skarp diskontinuitet på inntekt og prestasjon, senere utdanningsutfall, ingen effekt
+W3138787854  # 3, US, tiltaksgruppe 1, kvasitilfeldig fordeling av rådgivere i high school; effekt på fullføring av high school og overgang til college
+W118274456  # 3, US, tiltaksgruppe 4, Michigan Merit Award (stipend utløst av prøve); forskjell-i-forskjell på fullføringsrate i distriktene, uklare effekter
+W2502444221  # F, NO, tiltaksgruppe 1, Gateakademiet, alternativt kvalifiseringstilbud for ungdom 16–25 år uten skole- eller arbeidstilbud; kvalitative intervjuer, uten effektmål
+W2768476139  # 3, US, tiltaksgruppe 1, antall elever per rådgiver i Californias high schools ved en stor politikkendring; forskjell-i-forskjell, frafallsrate; tvil: 4
+W7222601035  # 3, DE, tiltaksgruppe 2, oppdatering av læreplanene i tysk fagopplæring etter teknologiendring; stacked forskjell-i-forskjell, lønn og å bli i lærefaget
+W7225464134  # 3, CO, tiltaksgruppe 4, Familias en Acción (betingede overføringer) blant Wayuu-ungdom; matching, flernivå og fuzzy diskontinuitet, fullført videregående; tvil: 4
+W2968742394  # F, FI, tiltaksgruppe 2, skolebasert yrkesfag og læretid i Finland sammenlignet; intervjuer (N = 33) om arbeidsplasslæring, uten effektmål
+W2510073078  # F, SE, tiltaksgruppe 2, gymnasial lærlingutbildning og arbeidslivets lærlingutdanning i Sverige sammenlignet; intervjuer og observasjon av læringsmuligheter, uten effektmål
+W2010433433  # 5, NO, tiltaksgruppe 5, tidligere elever med særskilte behov, opplæring i spesialklasse eller vanlig klasse i vgs; oppfølging av 373 i over 10 år, oppnådd kompetanse og selvforsørgelse
+W4412324265  # F, DK/NO, tiltaksgruppe 1, bare tittel: hvilken rolle karriereveiledning kan ha mot tidlig skoleslutt (bokkapittel)
+W4225899386  # F, FI, tiltaksgruppe 2, pilot med endringsverksted for samarbeid mellom yrkesskole og arbeidsplass; mixed methods, kompetanse hos lærere og instruktører, ikke elevutfall
+W1636942743  # F, DK, tiltaksgruppe 2, obligatorisk nivådeling i dansk yrkesutdanning fra 2007 for å øke gjennomføring; casestudie av elevenes erfaringer, uten effektmål
+W2602677669  # F, DK, tiltaksgruppe 2, bare tittel: sluttrapport om elever i dansk yrkesutdanning
+W2961121763  # 2, US, tiltaksgruppe 1, RCT: ukentlige automatiske varsler til foreldre om manglende innleveringer, karakterer og fravær (ungdomsskole og videregående); målte strykkurs, oppmøte og at eleven blir værende (retention), større effekt for videregående
+W1980180703  # 2, US, tiltaksgruppe 1, randomisert pilot for elever med høyt skulk og frafallsrisiko i én videregående skole (skolehelsetjeneste og mentorlærer); målte sannsynlighet for å bli i skolen, lite utvalg
+W2323182592  # 2, US, tiltaksgruppe 1, RCT med 1 224 niendeklassinger som strøk i algebra (Chicago): nettbasert mot vanlig kurs for å ta igjen studiepoeng (credit recovery); målte gjenvunnet kreditt og prøveresultat, knyttet til fullføring i tide
+W2081038894  # 2, US, tiltaksgruppe 1, sammenligner eksperimentelle og propensity score-anslag for effekter av frafallsforebyggende programmer; metodestudie, eksperimentelle effektanslag på frafall inngår
+W3122662269  # 2, US, tiltaksgruppe 1, treårsresultater fra evalueringen av National Guard Youth ChalleNGe (program for 16-18-åringer som har droppet ut); sammendraget er bare en finansieringsnote, så i praksis bare tittel
+W1601925913  # 3, IL, tiltaksgruppe 1, forskjell-i-forskjell med skoler som kom senere inn som kontroll: ekstra undervisning til svake elever i 10.-12. trinn; målte andel med bestått avgangseksamen (matriculation), +3,3 prosentpoeng, og kostnadseffektivitet
+W2031174180  # 1, US, tiltaksgruppe 1, oversikt over utfallsevalueringer av åtte skolebaserte mentorprogrammer; ser på evalueringsmetoder og faglige og atferdsmessige utfall, designene er ikke oppgitt, tvil: 5
+W1582587763  # 2, US, tiltaksgruppe 4, tidlige resultater fra Opportunity NYC-Family Rewards: betingede kontantoverføringer knyttet til barnas skoleinnsats og -resultater, helse og foreldrenes arbeid; målte fattigdom og utdanningsutfall de to første årene
+W2911385571  # 1, DE, tiltaksgruppe 4, oversikt over hvordan pengeinsentiver og ikke-økonomiske insentiver for utdanningsoppnåelse er utformet og hvor godt de virker; bare tittel
+W2753461861  # 1, MX,US, tiltaksgruppe 4, oversikt over utviklingen, evalueringen (eksperimentelt design og oppfølgingsstudier) og effektene av Progresa/Oportunidades; Mexico er OECD-land, men sammendraget sier ikke hvilke skoletrinn som måles
+W2025861657  # 2, MX,US, tiltaksgruppe 4, effekten av Progresa på barnearbeid og skolegang i det eksperimentelle Progresa-materialet; utfallet er skolegang, ikke fullføring, samme forsøk som W2753461861
+W2792186714  # 2, land ikke oppgitt, tiltaksgruppe 4, evaluering av Progresa-stipendene til skolegang for fattige på landsbygda i Mexico; sammendraget er bare et sitat, så i praksis bare tittel, samme forsøk som W2025861657, tvil: 3
+W2127460312  # 3, MX,US, tiltaksgruppe 4, kostnadseffektivitet for Progresa-stipend mot utbygging av skoler, dobbel differanse med data fra før og etter; utfallet er skoledeltakelse, samme forsøk som W2025861657, tvil: 2
+W2292520603  # 1, land ikke oppgitt, tiltaksgruppe 4, IFPRIs syntese av evalueringen av Progresa på humankapital og velferd på landsbygda i Mexico; samme forsøk som W2025861657, tvil: 2
+W1516820276  # 1, land ikke oppgitt, tiltaksgruppe 4, IFPRIs syntese av rapportene om Progresa 1998-2000; samme materiale som W2292520603, tvil: 2
+W7162750308  # 1, US, tiltaksgruppe 3, oversikt over empiriske studier av yrkesrettet opplæring i USA, med egen del om læretid (apprenticeships) og arbeidsbasert læring, og internasjonal sammenligning; utfallene er ikke spesifisert og gjelder i stor grad voksne, tvil: 4
+W2134775232  # F, land ikke oppgitt (Finland i tittelen), tiltaksgruppe 2, spørreundersøkelse blant 1 282 elever i siste år av yrkesfag i Helsingfors om de obligatoriske periodene med læring i arbeid som kom med reformen rundt 2000; viser elevenes erfaringer, ingen effektmål
+W2589539171  # F, land ikke oppgitt (norsk tittel), tiltaksgruppe 1, bare tittel; uklart om den gjelder et tiltak, tas med fordi den er nordisk, tvil: 5
+W2626704269  # 2, US, tiltaksgruppe 5, loddtrekning til early college high schools (små skoler som kombinerer videregående og høyere utdanning), suppleres med kvalitative data; målte fullførte kurs som trengs for opptak og fullført videregående, høyere andel fullførte
+W2032094848  # 2, US, tiltaksgruppe 5, eksperimentell studie av early college high schools i 9. trinn: målte om elevene tar og består kjernefag, oppmøte og bortvisning, samme materiale som W2626704269
+W2034715635  # 2, UA,US, tiltaksgruppe 5, foreløpige resultater for 9. trinn fra 285 elever på to skoler i en eksperimentell langtidsstudie av early college high schools i North Carolina, samme materiale som W2626704269
+W2270231673  # 2, US, tiltaksgruppe 5, loddtrekning til early college high schools: effekt på indikatorer på engasjement i 9. trinn, samme materiale som W2626704269
+W2285621690  # 2, US, tiltaksgruppe 5, en grundig studie av små offentlige videregående skoler i New York som elevene velger og som ikke sorterer ved inntaket (sammendraget oppgir ikke designet); målte fullføring med Regents diploma, klar forbedring
+W3125353318  # 3, US, tiltaksgruppe 5, små skoler og resultater i store bydistrikter, New York, «causal evidence»; bare tittel, tvil: 2
+W2890076071  # 3, US, tiltaksgruppe 5, effekten av initiativet for små videregående skoler i Chicago; bare tittel, tvil: 4
+W3142869804  # 3, US, tiltaksgruppe 5, sammenhengen mellom å gå på en charterskole på videregående og utdanningsoppnåelse i Chicago og Florida; designet er ikke oppgitt i sammendraget, tvil: 4
+W3122229602  # 3, US, tiltaksgruppe 5, effekten av charterskoler i Texas på testresultater, høyere utdanning og inntekt i ung voksen alder; designet er ikke oppgitt i sammendraget, utfall 3 (inntekt), tvil: 4
+W2159006883  # 3, US, tiltaksgruppe 5, panel på distrikt og trinn som utnytter når nye krav om avgangsprøve (exit exam) slår inn, med frafall som utfall, og om alternative veier til vitnemål demper effekten; passer dårlig i gruppene, tvil: 4
+W4253108179  # 3, Mexico, tiltaksgruppe 4, Oportunidades (kontantoverføring betinget av oppmøte): mellomlangsiktig effekt på utdanningsnivå, klassetrinnprogresjon, arbeid og prøveresultater for ungdom 15–21 år, data fra evalueringsundersøkelsen ENCEL2003; designet ikke beskrevet i sammendraget, tvil: 2
+W2791175164  # 3, ES, tiltaksgruppe 4, bare tittel (skoleskysstilskudd og utilsiktede virkninger), tvil: 4
+W2072974600  # 3, US, tiltaksgruppe 4, collegeforberedende program med betaling til elever i 11. og 12. trinn (og lærere) for beståtte AP-eksamener: langsiktige effekter på collegegrad og lønn, ikke-eksperimentell variasjon med robusthetstester; måler ikke fullføring av high school, tvil: 4
+W4308875696  # 2, Chile, tiltaksgruppe 1, randomisert forsøk med ukentlige/månedlige SMS til foreldre om oppmøte, karakterer og atferd: effekt på matematikk og andelen som oppfyller oppmøtekravet for opprykk (+4,7 prosentpoeng), større for elever i risiko for omgjengelse og frafall; trinn ikke oppgitt, fullføring ikke målt
+W2080918068  # 2, US, tiltaksgruppe 4, School Attendance Demonstration Project: 16–18-åringer på sosialhjelp med sanksjon i stønaden ved oppmøte under 80 prosent, tilfeldig fordeling til kontrollgruppe; mål er månedlig oppmøte, ikke fullføring
+W3122235578  # 3, Israel, tiltaksgruppe 5, langsiktige virkninger av et program for fritt skolevalg for vanskeligstilte elever: høyere utdanning, inntekt, ekteskap og fruktbarhet; designet ikke beskrevet i sammendraget, og fullføring av videregående nevnes ikke, tvil: 4
+W2253655096  # 3, AU/CH/DE (forfatternes land), tiltaksgruppe 2, bare tittel (full integrering av yrkesfaglige og studieforberedende kurs i videregående), tvil: 4
+W1485195258  # 5, Norge (fra sammendraget), tiltaksgruppe 3, registerdata om sysselsetting og lærekontrakter for 17–19-åringer 2008 sammenlignet med 1994; beskrivende før–etter-sammenligning uten tiltaksvariabel
+W61714816  # F, Norge (fra sammendraget), tiltaksgruppe 3, kvantitativ og kvalitativ studie (Nordlandsforskning 2012) av skolenes arbeid med overgangen til læretid og arbeid for elever med funksjonsnedsettelser: forventninger, rutiner og samarbeid med arbeidsgivere og Nav, uten effektmål
+W1973360441  # F, Danmark (fra sammendraget), tiltaksgruppe 2, studie av læring i en dansk yrkesutdanning for salgsassistenter som kombinerer skole og praksis i bedrift: begge deler trengs, og bedre kobling mellom læreplan og læringssted kan bedre resultatene; uten effektmål på fullføring
+W2105032465  # 3, DK, tiltaksgruppe 4, kontantoverføring betinget av skolegang i videregående; variasjon i samlet beløp etter fødselstidspunkt i kvartalet; måler arbeidstilbud og skoleprestasjoner, finner ingen effekt på prestasjoner
+W134093888  # 3, SE, tiltaksgruppe 2, avhandling; første essay evaluerer effekten av en mer helhetlig videregående (reform på 1990-tallet); design og utfall ikke oppgitt i det avkortede sammendraget; tvil: 4
+W3123450041  # 3, DE,DK, tiltaksgruppe 5, bare tittel: effekt av høyere krav i læreplanen i videregående på frafall; tvil: 5
+W4206389522  # 5, NO,US, tiltaksgruppe 5, avhandling om utdanningspolitikk ved overganger mellom utdanningsnivåer; sammendraget sier ikke hvilke tiltak eller design; tvil: 3
+W2044163791  # 5, NO, tiltaksgruppe 1, oppfølging av elever med spesielle behov i seks fylker; sammenligner opplæring i ordinær klasse med tilpasset opplæring i små grupper, gjennomstrømning i videregående, kontrollert for funksjonsvansker
+W3157762230  # F, NO, tiltaksgruppe 1, intervjuer med rådgivere i oppfølgingstjenesten om oppsøking, oppfølging og aktivering av ungdom utenfor opplæring og arbeid; uten effektmål
+W4396515499  # F, NO, tiltaksgruppe 2, kvalitative intervjuer med ti elever på Vg2 Kjøretøy om ungdomsbedrift som yrkesretting og motivasjon; uten effektmål
+W2562174297  # F, NO, tiltaksgruppe 2, casestudie av samarbeid mellom yrkesfaglig program og sosial entreprenør som alternativ læringsarena; intervjuer, fant ikke bedre frammøte
+W4297906053  # F, NO, tiltaksgruppe 2, praksisbrev: intervjuer med ti lærlinger som gikk videre til ordinær læretid etter praksisbrev, og veiledere; uten effektmål
+W4404877598  # F, NO, tiltaksgruppe 2, Skole på Byggeplass (fagarbeiderutdanning i bygg og anlegg for ungdom som ikke har fullført); intervjuer med seks ungdommer og tre ansatte; uten effektmål
+W4406584897  # F, NO, tiltaksgruppe 2, lærekandidatordningen: intervjuer med tidligere elever og ansatte ved tre skoler om forberedelse til varig arbeid; uten effektmål
+W7207554874  # F, NO, tiltaksgruppe 2, yrkesfaglig fordypning (YFF) og 2+2-modellen: intervjuer med yrkesfaglærere på Vg2 om læring i skole og praksis; uten effektmål
+W1176381284  # F, NO, tiltaksgruppe 2, notat om lærlingordning mot skolebasert utdanning i pleie- og omsorgsfagene; sammendraget sier bare at notatet er del av et prosjekt; tvil: 5
+W227614526  # F, FI, tiltaksgruppe 2, avhandling om arbeidsplassbasert læring i finsk yrkesfaglig opplæring (system fra 2001); spørreskjema til elever i siste år og intervjuer, hva og hvordan elevene lærer; uten effektmål på fullføring
+W7219493411  # F, FI, tiltaksgruppe 2, spørreskjema til elever i siste år om praksis og prosesser i systemet for arbeidsplassbasert læring etter utdanningsfelt; uten effektmål; samme materiale som W227614526
+W283941579  # F, SE, tiltaksgruppe 2, lokalt utviklingsarbeid for å gjøre industriprogrammet i gymnaset mer attraktivt; deltakerperspektiv, uten effektmål
+W4407542195  # F, NO, tiltaksgruppe 1, fokusgrupper med ungdom 13–19 år i en kommunal ordning med midlertidige lederstillinger for å motvirke frafall; uten effektmål; tvil: tiltaket ligger delvis utenfor videregående
+W2263376754  # 2, US, tiltaksgruppe 4, Family Rewards i New York: kontantoverføring betinget av blant annet skolegang, tilfeldig tildeling; måler foreldres utdanningsutgifter, elevenes tidsbruk og prestasjoner i videregående
+W2582567497  # 2, US, tiltaksgruppe 4, bare tittel: Family Rewards, effekt på psykisk helse og problematferd hos ungdom; samme materiale som W2263376754; utfallene ligger utenfor utfallslista
+W4245346996  # 2, DE,US, tiltaksgruppe 4, bare tittel: Progresa, effektvurdering av et forsøk med skolesubsidie
+W3122562932  # 1, ukjent land, tiltaksgruppe 4, kapittel om utvikling og evaluering av betingede kontantoverføringer, særlig Progresa i Mexico, og gjennomgang av resultater fra nyere programmer; tvil: 2
+W2507636687  # 3, ukjent land, tiltaksgruppe 4, bare tittel: effekt av betinget utdanningssubsidie på skoledeltakelse i Colombia; tvil: 4
+W270581967  # 2, ukjent land, tiltaksgruppe 4, bare tittel: test av alternative utforminger av betingede kontantoverføringer i utdanning i Colombia; tvil: 3
+W3124006743  # 3, SE,US, tiltaksgruppe 4, bare tittel: kortsiktige effekter av Kalamazoo Promise-stipendet på elevutfall; tvil: 5
+W4253171267  # 1, US, tiltaksgruppe 4, bare tittel: bokkapittel om insentiver til elever; tvil: 5
+W4288086398  # 2, FR,US, tiltaksgruppe 3, dobbeltsidig forsøk med ungdom og bedrifter: subsidiert vekslingslæretid (lønnstilskudd og teoretisk opplæring); måler deltakelse i læretid, fortrengning og inntekt etter fire år; sammendraget oppgir ikke landet for forsøket
+W4404943935  # 3, DE,GB,IT,NL, tiltaksgruppe 2, åpning av yrkesrettede gymnas og ikke-selektive skoler i Tyskland; fylkespanel over 13 kull, faste effekter og hendelsesstudie med tidspunkt for nye skoler; måler oppnådd studiekompetanse
+W2166867634  # 3, US, tiltaksgruppe 5, nye små ikke-selektive videregående skoler i New York; måler prestasjoner og fullføring (graduation) for vanskeligstilte elever; design ikke oppgitt i sammendraget; tvil: 5
+W3024701595  # 3, US, tiltaksgruppe 5, skolevalg i Chicago og elevutfall; sammendraget er uleselig, i praksis bare tittel; tvil: 5
+W203182906  # 2, ukjent land, tiltaksgruppe 5, bare tittel: sluttrapport fra evalueringen av DC Opportunity Scholarship Program; uklart om fullføring måles; tvil: 3
+W1535454578  # 2, ukjent land, tiltaksgruppe 1, nasjonal evaluering av Upward Bound: effekter i videregående og første år etter, små effekter samlet, større for elever med lave forventninger og svake resultater; design ikke oppgitt; tvil: 5
+W2254201685  # 2, ukjent land, tiltaksgruppe 1, Upward Bound 7–9 år etter planlagt fullføring av videregående; register- og spørreskjemadata, ingen effekt på høyere utdanning utover yrkessertifikat; samme materiale som W1535454578; tvil: 5
+W2133475424  # 2, US, tiltaksgruppe 1, bare tittel: treårsresultater fra evalueringen av National Guard Youth ChalleNGe; tvil: 3
+W2006909956  # 2, US, tiltaksgruppe 1, bare tittel: effektstudie av National Guard Youth Challenge for ungdom som har sluttet i videregående; samme materiale som W2133475424; tvil: 3
+W2729047654  # 2, ukjent land, tiltaksgruppe 1, bare tittel: effektevaluering av mentorprogrammet Student Mentoring Program; alderstrinn uklart; tvil: 3
+W2182945005  # 2, ukjent land, tiltaksgruppe 1, bare tittel: nytt tiltak for å forebygge vold og frafall blant ungdom; tvil: 5
+W2257293572  # 3, ukjent land, tiltaksgruppe 1, evaluering av effekten av mentorprogrammet Mentoring Plus for utsatte ungdommer; sammendraget oppgir ikke design; tvil: 5
+W2109583741  # 1, ukjent land, tiltaksgruppe 1, syntese av evalueringer av mentorprogrammer og ungdoms utvikling (programeffekter); designene ikke oppgitt; tvil: 5
+W25127793  # 1, ukjent land, tiltaksgruppe 1, bare tittel: forskningsnotat om mentorordninger for ungdom; samme materiale som W2109583741; tvil: 5
+W2921439733  # 1, ukjent land, tiltaksgruppe 1, bare tittel: mentorordninger for ungdom; samme materiale som W2109583741; tvil: 5
+W4244575718  # 1, ukjent land, tiltaksgruppe 1, bare tittel: mentorordninger for ungdom; samme materiale som W2109583741; tvil: 5
+W2902209133  # 1, ukjent land, tiltaksgruppe 1, bare tittel: syntese av publisert forskning om mentorordninger og «befriending»; tvil: 5
+W2944298505  # 1, global (oversikt), tiltaksgruppe 1, oversikt over tiltak for å få utsatte ungdommer utenfor skolen tilbake i opplæring; mentorer, psykososial støtte, oppsøkende arbeid, case management og økonomiske insentiver; designene i de underliggende studiene går ikke fram, tvil: 5
+W4391678766  # 1, Frankrike, tiltaksgruppe 1, sammenligning av seks evaluerte tiltak for veiledning, fadderordninger og mentorer (FEJ); lite eller ingen effekt på skolenivå og valg av utdanning, negative effekter for elever på etterskudd; designene går ikke fram, tvil: 5
+W4412967254  # 1, USA, tiltaksgruppe 2, bokkapittel om yrkesfag (CTE) med gjennomgang av evidensen, bare tittel, tvil: 5
+W301239432  # 1, USA, tiltaksgruppe 2, nasjonal evaluering av yrkesfaglig opplæring rapportert til Kongressen, bare tittel, tvil: 5
+W115021740  # 1, USA, tiltaksgruppe 1, kort sammenstilling av effekter av fire skoleforbedringsprogrammer på resultater og gjennomføring i high school, bare tittel, tvil: 5
+W4392721048  # 1, global (mest lav- og mellominntektsland), tiltaksgruppe 4, strukturert oversikt over 73 studier av tiltak for skoledeltakelse og oppmøte; betingede kontantoverføringer virker bedre enn ubetingede, for eldre barn best når de gis direkte; lav overføringsverdi, tvil: 5
+W2997490339  # 2, USA, tiltaksgruppe 5, naturlige loddtrekninger til 68 små ikke-selektive high schools i New York (small schools of choice); effekt på fullføring (graduation) for vanskeligstilte elever og hvilke skoletrekk som forklarer den
+W248352643  # 2, USA, tiltaksgruppe 1, Quantum Opportunity Program, demonstrasjonsforsøk med korttidseffekter; sammendraget er bare stikkord, så designet går ikke fram, tvil: 5
+W3207812557  # 2, Mexico, tiltaksgruppe 4, langtidseffekter av Progresa 20 år etter det randomiserte forsøket, med en kohort som var i overgangen fra primary til secondary; utdanningsnivå, inntekt og mobilitet
+W31464915  # 2, Mexico, tiltaksgruppe 4, evaluering av skolestipend i Progresa, bare tittel; samme forsøk som W3207812557 (annet utfall og tidspunkt), tvil: 3
+W3123427073  # 3, Colombia, tiltaksgruppe 4, langtidseffekter av betingede kontantoverføringer på humankapital, bare tittel, tvil: 4
+W2906404921  # 3, Tyskland, tiltaksgruppe 5, innføring av mellomliggende vitnemål (fallback option) i tyske skoler og elevenes tilpasning, bare tittel
+W3084276044  # 3, Frankrike, tiltaksgruppe 5, åpning av nye videregående skoler brukt til å måle hvordan skoletilbudet begrenser valg av studieretning, bare tittel; usikkert om fullføring måles
+W2521336863  # 5, Norge, tiltaksgruppe 1, elever med opplæring på særlige vilkår i videregående (psykososiale vansker, lærevansker); trygdemottak i tidlig voksen alder; spesialpedagogiske tiltak som lærerassistent øker ikke sjansen for selvstendig liv
+W566754833  # 1, OECD-land (oversikt), tiltaksgruppe 4, oversikt over betingede kontantoverføringer i høyinntekts OECD-land og effekter på humankapital hos vanskeligstilte barn; designene i studiene er ikke oppgitt, tvil: 4
+W2911093337  # 1, flere land (mest Latin-Amerika), tiltaksgruppe 4, oversikt over langtidseffekter av CCT på skolegang, læring, arbeid og inntekt i ung voksen alder; mest utviklingsland, tvil: 3
+W4213274030  # 1, flere land, tiltaksgruppe 4, oversikt og metaanalyse (over 30 studier) av CCT for utdanning, utfall over livsløpet og kostnadseffektivitet; mest utviklingsland, tvil: 3
+W2645608735  # 1, Norden og Nord-Europa (DE, GB, NL), tiltaksgruppe 1, metaanalyse av 425 effektestimater fra 44 studier av tiltak for å få utsatte unge opp til 30 år i arbeid; mest arbeidsmarkedstiltak, ikke opplæringstiltak, tvil: 4
+W2978758442  # 1, Belgia (Flandern), tiltaksgruppe 1, evidensbaserte anbefalinger mot tidlig skoleslutt; sammendraget sier ikke hvilke studier eller design det bygger på, tvil: 5
+W1498802158  # 2, US, tiltaksgruppe 1, randomisert forsøk (n=38) med skolebasert voksenmentor for elever i risiko i 9. trinn i high school; måler karakterer, disiplin og opplevd lærerstøtte over 18 mnd, ikke fullføring
+W2275034893  # 2, land ikke oppgitt, tiltaksgruppe 1, bare tittel: korttidseffekter av Quantum Opportunity Program-demonstrasjonen; design ikke oppgitt, tvil: 5
+W2264343718  # 2, land ikke oppgitt, tiltaksgruppe 1, bare tittel (stikkord): første effekter etter tiltaket i Quantum Opportunity Program-demonstrasjonen; samme materiale som W2275034893; design ikke oppgitt, tvil: 5
+W3123788748  # 2, US, tiltaksgruppe 4, bare tittel: effekter av New York Citys betingede kontantoverføring (insentiver) på hvordan tenåringer bruker tiden; design ikke oppgitt, tvil: 5
+W2339344992  # 2, US, tiltaksgruppe 4, foreløpige effektestimater på utdanningsutfall første år av Opportunity NYC Family Rewards (kontantbelønning knyttet til barns skoleinnsats og -resultater); trolig samme materiale som W3123788748; design ikke oppgitt, tvil: 5
+W4240108531  # 2, DE, tiltaksgruppe 1, bare tittel: kausale effekter av mentorordning på utdanningsvalg, tvil: 3
+W4414536494  # 2, FR, tiltaksgruppe 1, randomisert forsøk (skoler, klasser og elever trukket) med oppfølging fra France Travail for elever i yrkesfaglige CAP og BacPro; måler sysselsetting og arbeidsdager etter avgang og overgang til høyere utdanning
+W2566123266  # 2, US, tiltaksgruppe 5, opptakslotteri brukt som tilfeldig fordeling i evaluering av SEED DC (internatskole med høyskoleforberedende opplegg for lavinntektselever, trinn 6-12); måler gjennomføring gjennom high school og college, tvil: 3
+W3123878612  # 3, US, tiltaksgruppe 5, opptakslotterier til Bostons charter high schools; måler bestått på eksamen som kreves for vitnemål, SAT, AP og college-opptak, tvil: 2
+W2189557507  # 3, US, tiltaksgruppe 5, effekt av New York Citys små ikke-selektive high schools of choice på framdrift og fullføringsrate (graduation), etter forkunnskaper, inntekt og bakgrunn; design ikke oppgitt i sammendraget, tvil: 5
+W4401871325  # 3, US, tiltaksgruppe 5, METCO (busser elever fra Boston til forstadsskoler): sammenligner søkere med og uten tilbud, 2SLS med ventelisteprioritet; måler frafall, fullføring på normert tid, college og inntekt som voksen
+W116943654  # 3, CL, tiltaksgruppe 5, Chiles universelle skolekuponger (fritt skolevalg): dynamisk modell av skole- og arbeidsvalg der kohorter før og etter innføringen sammenlignes; måler utdanningsnivå og arbeidsmarkedsutfall, tvil: 5
+W2586618077  # 3, IL, tiltaksgruppe 5, langtidsvirkninger av et fritt skolevalgsprogram for vanskeligstilte elever; måler videre utdanning, inntekt, ekteskap og fruktbarhet; design ikke nærmere oppgitt, tvil: 4
+W1501328733  # 3, land ikke oppgitt, tiltaksgruppe 5, bare tittel: langtidseffekter av fritt skolevalg på høyere utdanning, sysselsetting, inntekt og sosiale utfall; trolig samme materiale som W2586618077, tvil: 4
+W2905130729  # 3, IL, tiltaksgruppe 1, langtidseffekt av ekstraundervisning for svakt presterende elever siste år i high school; registerdata på høyere utdanning, inntekt og sysselsetting ved 30 år, i tillegg til kortsiktig effekt på avgangseksamen; design ikke nærmere oppgitt, tvil: 4
+W2769362422  # 3, MX, tiltaksgruppe 4, forskjell-i-forskjell der Oportunidades økte stipendene for elever på secondary og bachillerato i 263 av 630 urbane områder; måler frafall og fullføring av bachillerato (opptil +33,5 prosent)
+W1535289428  # 3, US, tiltaksgruppe 4, høyskoleforberedende program med betaling til elever og lærere for beståtte AP-eksamener i 11.-12. trinn; ikke-eksperimentell variasjon, måler college-fullføring og lønn, tvil: 4
+W3122301661  # 3, DE, tiltaksgruppe 5, bare tittel: elevenes atferd når mellomliggende vitnemål (fallback-alternativ) innføres i tyske skoler, tvil: 4
+W4286744796  # 3, land ikke oppgitt (BE, DE, NL i landfeltet), tiltaksgruppe 4, bare tittel: effekt på utdanningsnivå av å miste framtidig rett til dagpenger (reform), tvil: 4
+W2808375903  # 3, NO, tiltaksgruppe 1, effektevaluering av Ny GIV Overgangsprosjektet (intensivopplæring for svake elever i 10. trinn) der skoler med tidlig og sen innføring sammenlignes; måler fullføring av vgo innen 3-5 år og av Vg1-Vg3, ingen effekt (kan utelukke over 1-1,5 prosentpoeng); tiltaket starter i grunnskolen
+W2787144718  # 3, FI, tiltaksgruppe 5, regresjonsdiskontinuitet ved inntaksgrensen til fem eliteskoler (lukio) i hovedstadsområdet; måler resultat på studenteksamen (ylioppilaskirjoitukset), ingen effekt; ikke fullføring
+W2481298662  # 5, NO, tiltaksgruppe 2, populasjonsstudie av 347 personer i løp mot planlagt grunnkompetanse i Akershus 2009-2012 sammenlignet med 651 lærlinger med fag-/svennebrev; måler overgang til arbeid
+W1412016855  # 5, NO, tiltaksgruppe 5, masteroppgave om endrede opptaksordninger til videregående i Oslo (2004, 2008: fritt skolevalg mot regions-/karakteropptak); måler etnisk segregering på studiespesialiserende og sammenheng mellom elevsammensetning og fullføring
+W1480082844  # 5, SE, tiltaksgruppe 2, bare tittel: gymnasial lærlingutdanning som vei til arbeidsmarkedet
+W2599535645  # 5, DK, tiltaksgruppe 1, bare tittel: unge uten utdanning, hvem de er og hva som kan gjøres, tvil: F
+W2886820694  # F, NO, tiltaksgruppe 3, evaluering av lærekandidatordningen og tilskudd til lærlinger, praksisbrevkandidater og lærekandidater med særskilte behov; spørreundersøkelser til fylkeskommuner og rådgivere, bedriftsintervjuer og registerdata
+W2484686793  # F, NO, tiltaksgruppe 3, studie av lærlingordningen og fagopplæring i kommunesektoren; data fra tre fylkeskommuner, kommuner, opplæringskontor og en landsomfattende undersøkelse av opplæringskontor
+W2463787743  # F, NO, tiltaksgruppe 3, hvordan tre fylkeskommuner (Østfold, Rogaland, Nord-Trøndelag) organiserer formidling til læreplass og hva som kan forklare ulike resultater; intervjuer
+W4236743259  # F, NO, tiltaksgruppe 1, studie av alternative kvalifiseringstiltak for 16-19-åringer utenfor skole og arbeid (Oppfølgingstjenesten); oversikt fra fylkene og kartlegging av fem tiltak, måloppnåelse vurdert kvalitativt
+W2460379500  # F, NO, tiltaksgruppe 2, masteroppgave om Utvidet praksis (alternativ opplæring i små grupper, yrkesfag) i Rogaland, med vekt på fellesfagsundervisning; elev- og lærererfaringer
+W3004774392  # F, NO, tiltaksgruppe 1, implementeringsstudie av Ny GIV Overgangsprosjektet i ungdomsskole og videregående; casestudier i tre fylker og spørreundersøkelser til skoleledere, lærere og elever
+W275302206  # 3, Østerrike (fra tittel; land tomt i raden), tiltaksgruppe 3, avkastning av lærlingopplæring målt med nedlagte bedrifter som naturlig eksperiment (utfall: inntekt etter opplæringen), bare tittel
+W2118290240  # 3, NL, tiltaksgruppe 1, økonomiske insentiver til regionale utdanningsmyndigheter for å redusere frafall, bare tittel, tvil: 4
+W4285684438  # 3, BE, tiltaksgruppe 4, tap av framtidig rett til ledighetstrygd og virkning på oppnådd utdanning (reform), bare tittel, tvil: 4
+W4287854449  # 3, BE, tiltaksgruppe 4, tap av framtidig rett til ledighetstrygd og virkning på oppnådd utdanning, bare tittel, samme materiale som W4285684438
+W7148713760  # 3, FR, tiltaksgruppe 5, diskontinuitet ved opptaksgrensen til selektive lycéer i Paris (Affelnet): effekt på resultater til baccalauréat og valg av retning (ett av tre essay)
+W7111982301  # 3, Mexico (Mexico City; land i raden: DE), tiltaksgruppe 5, sentralisert inntak etter eksamenspoeng: effekt av opptak ved de mest søkte skolene på fullføring (graduation) for elever nær grensen, og kontrafaktiske prioriteringsregler med karakterer
+W7214475648  # 3, US, tiltaksgruppe 5, frivillig skolebytte (METCO) Boston-forsteder: 2SLS med ventelisteprioritet, effekt på frafall, fullføring på normert tid, høyere utdanning og inntekt, tvil: 4
+W7125912931  # 3, Mexico (PROGRESA; land i raden: DE,GB,NL,US), tiltaksgruppe 4, betinget kontantoverføring: variasjon i effekt på skolegang/oppnådd utdanning etter eksponering for eksportindustri lokalt, tvil: 4
+W7212091517  # 3, Mexico, tiltaksgruppe 4, Progresa/Oportunidades: forskjell-i-forskjell etter alder ved eksponering og kommunal dekning (MxFLS), langsiktig effekt på oppnådd utdanning, arbeid og inntekt (masteroppgave)
+W3122701295  # F, Norge, tiltaksgruppe 5, NIFU-evaluering (arbeidsnotat) av iverksettingen av fire tiltak i Utdanningsløftet 2020 rettet mot videregående, uten effektmål; tiltaksgruppe usikker ut fra sammendraget
+W599849131  # F, Norge, tiltaksgruppe 1, Ny GIV Overgangsprosjektet i én skole: observasjon og intervju om elevenes motivasjon (masteroppgave), uten effektmål på fullføring
