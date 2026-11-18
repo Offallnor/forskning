@@ -46,3 +46,7 @@ Godkjent av bestilleren 18.11.2026.
 ## Metning
 
 Utvalget er mettet når under 5 prosent av de nye kandidatene i siste referanserunde oppfyller kategori 1–4, og det blinde utvalget ikke finner nye kilder i kategori 1–3.
+
+## Kjerne for uttrekket (bestilleren 18.11.2026)
+
+Utvalget er stort (1 216 kilder), så uttrekket avgrenses til en kjerne: oversikter, kategori 1–3 og nordiske studier i kategori 4–5, med dobbelt uttrekk. Resten står i `valgt.txt` og i vedlegg A uten tall, og forbeholdene sier hva som er holdt utenfor. Før kjernen låses, leses metodedelen for studier i kategori 4 med design som kan holde til kategori 3, og for studier merket «tvil».
