@@ -1,0 +1,16 @@
+{
+ "ar": 2005,
+ "doi": "https://doi.org/10.1111/j.1541-1338.2005.00140.x",
+ "forfattere": [
+  "David H. Greenberg",
+  "Philip K. Robins",
+  "Robert Walker"
+ ],
+ "id": "W2157779531",
+ "kilde": "Review of Policy Research",
+ "lenke": "https://openalex.org/W2157779531",
+ "oversikt": false,
+ "sammendrag": "Abstract Government‐funded training programs in the United States have often been subject to rigorous evaluation. Indeed, many of these programs have been evaluated with random assignment, although sophisticated quasi‐experimental methods have also been used. Until very recently, however, there has been little systematic attempt to use the cumulative information vested in these evaluations to attempt determine which kinds of programs work best in which setting and with respect to which types of client. Meta‐analysis—a set of statistical procedures for systematically synthesizing findings from separate studies—can, in theory at least, address these and other topics that evaluation of individual programs cannot. This article discusses the steps in conducting such a synthesis, summarizes the results of three recently conducted meta‐analyses of training and welfare‐to‐work programs, identifies limitations to the meta‐analytic approach, and considers ways in which some of these limitations can be overcome.",
+ "tittel": "Conducting Meta‐Analyses of Evaluations of Government‐Funded Training Programs",
+ "type": "article"
+}

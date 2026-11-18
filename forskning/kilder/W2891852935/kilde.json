@@ -1,0 +1,16 @@
+{
+ "apen_url": "https://doi.org/10.3386/w13816",
+ "ar": 2008,
+ "doi": "https://doi.org/10.3386/w13816",
+ "forfattere": [
+  "John H. Tyler",
+  "Magnus Lofstrom"
+ ],
+ "id": "W2891852935",
+ "kilde": "National Bureau of Economic Research",
+ "lenke": "https://openalex.org/W2891852935",
+ "oversikt": false,
+ "sammendrag": "We use data from the Texas Schools Microdata Panel (TSMP) to examine the extent to which dropouts use the GED as a route to post-secondary education.The paper develops a model pointing out the potential biases in estimating the effects of taking the \"GED path\" to postsecondary education.Lacking suitable instruments that would allow us to directly address potential biases, our approach is to base our estimates on a set of academically \"at risk\" students who are very similar in the 8th grade.We observe that the eventual high school graduates in this group have much better postsecondary education outcomes than do the similar at-risk 8th graders who dropped out and obtained a GED.Our model explains the observed differences, and allows for a discussion of the policy challenges inherent in improving the postsecondary outcomes of dropouts.",
+ "tittel": "Is the GED an Effective Route to Postsecondary Education for School Dropouts?",
+ "type": "report"
+}

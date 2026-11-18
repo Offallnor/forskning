@@ -1,0 +1,15 @@
+{
+ "ar": 2020,
+ "doi": "https://doi.org/10.1162/edfp_a_00325",
+ "forfattere": [
+  "Verónica Minaya",
+  "Judith Scott-Clayton"
+ ],
+ "id": "W3048727797",
+ "kilde": "Education Finance and Policy",
+ "lenke": "https://openalex.org/W3048727797",
+ "oversikt": false,
+ "sammendrag": "Abstract We estimate labor market returns to terminal associate's degrees and certificates, with a particular focus on how returns for different credential types evolve over a longer period of time (eleven years post entry) than most of the prior literature. We also explore how returns vary depending on labor market conditions and on which labor market outcome metric is used. Using administrative data from Ohio and an individual fixed-effects approach, we find that the value of an associate's degree grows substantially after graduation, and this finding is robust to choice of specification and outcome. The returns to a long-term certificate are flat over time in our main specification, but more sensitive to assumptions about individual-specific earnings trends. Returns to associate's degrees are notably higher in recession years versus prerecession years. Finally, we find that associate's degrees lead to improved outcomes relative to non-completion across a range of metrics, including higher paying jobs, more stability in employment over time, and a greater likelihood of earning a living wage, whereas certificates generally pay off via the employment margin and a reduced likelihood of claiming unemployment insurance.",
+ "tittel": "Labor Market Trajectories for Community College Graduates: How Returns to Certificates and Associate's Degrees Evolve Over Time",
+ "type": "article"
+}

@@ -1,0 +1,23 @@
+{
+ "ar": 2024,
+ "doi": "https://doi.org/10.1177/00197939241256871",
+ "forfattere": [
+  "Vanessa Brown",
+  "Gardner Carrick",
+  "Maggie R. Jones",
+  "Nikolas Pharris-Ciurej",
+  "John L. Voorheis",
+  "Caroline Walker"
+ ],
+ "hentet": "2026-11-18",
+ "hentet_fra": "https://www2.census.gov/ces/wp/2022/CES-WP-22-15.pdf",
+ "hvordan": "pdf",
+ "id": "W4399551217",
+ "kilde": "Industrial and Labor Relations Review",
+ "lenke": "https://openalex.org/W4399551217",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "This article examines the labor market returns to earning industry-certified credentials in the manufacturing sector. Specifically, the authors are interested in estimating the impact of a manufacturing credential on earnings and probability of employment, both overall and within the pre- and post-credential industry of employment. They link students who earned manufacturing credentials to their educational enrollment and completion records, and then further link them to IRS tax records for earnings and employment and to the American Community Survey and decennial census for demographic information. Earnings trajectories are presented for workers with credentials by demographic group, including age, race/ethnicity, gender, and educational attainment. To obtain more causal estimates of the labor market impacts of credentials, the authors implement a coarsened exact matching strategy to compare outcomes between otherwise similar people with and without credentials. Findings show that the attainment of a manufacturing industry credential is associated with increasingly higher earnings and a higher likelihood of labor market participation.",
+ "tittel": "The Impact of Manufacturing Credentials on Earnings and the Probability of Employment",
+ "type": "article"
+}

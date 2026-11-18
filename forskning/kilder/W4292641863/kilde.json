@@ -1,0 +1,17 @@
+{
+ "apen_url": "https://publications.iadb.org/publications/english/document/The-Effectiveness-of-Adult-Retraining-Evidence-from-a-Meta-Analytic-Review.pdf",
+ "ar": 2022,
+ "doi": "https://doi.org/10.18235/0004418",
+ "forfattere": [
+  "Matías Busso",
+  "Julián Cristia",
+  "Pablo Garofalo",
+  "Julián Messina"
+ ],
+ "id": "W4292641863",
+ "lenke": "https://openalex.org/W4292641863",
+ "oversikt": true,
+ "sammendrag": "We report the results of a meta-analytic review of the effectiveness of programs designed to retrain workers. The review focuses on studies that rely on identification strategies designed to obtain credible causal effects. We analyze a total of 40 programs that provided skills to unemployed workers and focus on two outcomes: the probability of finding a job and wages. We find that the probability of finding a job of program participants increases on average by 2.6 percentage points after the program and wages increase by 0.08 of a standard deviation. Programs that provide technical skills, those that combine in-classroom with on-the-job training and those provided in partnership with the private sector seem to be more effective.",
+ "tittel": "The Effectiveness of Adult Retraining: Evidence from a Meta-Analytic Review",
+ "type": "report"
+}

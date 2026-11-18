@@ -1,0 +1,16 @@
+{
+ "apen_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1945263",
+ "ar": 2011,
+ "doi": "https://doi.org/10.1177/001979391106400504",
+ "forfattere": [
+  "David H. Greenberg",
+  "Philip K. Robins"
+ ],
+ "id": "W1904967031",
+ "kilde": "Industrial and Labor Relations Review",
+ "lenke": "https://openalex.org/W1904967031",
+ "oversikt": false,
+ "sammendrag": "The authors examine data from 21 random assignment evaluations of 76 experimental welfare-to-work programs conducted in the United States between 1983 and 1998 to determine whether the impacts of these programs on employment improved over time. Welfare-to-work programs have long played an important role in the federal assistance program known as Aid to Families with Dependent Children (AFDC), now called Temporary Assistance to Needy Families (TANF). Over the 16-year period covered by the experiments, an increasing percentage of control group members received services similar to those offered to program group members. As a result, the differential participation in program service activities between the program and the control group decreased steadily over time, reducing the impact of these programs on employment. The negative influence of the reduced incremental services was nevertheless offset by other factors that resulted in program impacts remaining essentially constant during the study period. The authors suggest ways to improve program impacts in future experiments.",
+ "tittel": "Have Welfare-to-Work Programs Improved over Time in Putting Welfare Recipients to Work?",
+ "type": "article"
+}

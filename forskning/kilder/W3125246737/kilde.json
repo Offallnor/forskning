@@ -1,0 +1,18 @@
+{
+ "forfattere": [
+  "James W. Albrecht",
+  "Gerard J. van den Berg",
+  "Susan Vroman"
+ ],
+ "hentet": "2026-11-18",
+ "hentet_fra": "http://www8.georgetown.edu/departments/economics/pdf/508.pdf",
+ "hvordan": "pdf",
+ "id": "W3125246737",
+ "kilde": "RePEc: Research Papers in Economics",
+ "lenke": "https://openalex.org/W3125246737",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "The Swedish adult education program known as the Knowledge Lift is unprecedented in its size and scope, aiming to raise the skill level of all low-skilled workers towards the medium level. This paper evaluates the effects of program participation on individual labor market outcomes, notably employment and annual income, as well as on the labor market equilibrium. For the effects at the individual level, we apply fixed effect methods allowing for treatment effect heterogeneity. The data are based on a number of matched longitudinal administrative data sets covering the full population of Sweden. For the equilibrium effects, we analyze an equilibrium search model with heterogeneous worker skills. This model is calibrated using pre-program observations.",
+ "tittel": "The Knowledge Lift: The Swedish Adult Education Program that Aimed to Eliminate Low Worker Skill Levels",
+ "type": "preprint"
+}

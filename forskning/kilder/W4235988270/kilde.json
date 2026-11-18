@@ -1,0 +1,20 @@
+{
+ "apen_url": "http://www.mdrc.org/sites/default/files/2016_Workadvance_Final_Web.pdf",
+ "ar": 2016,
+ "doi": "https://doi.org/10.1257/rct.1646",
+ "forfattere": [
+  "Richard Hendra",
+  "Kelsey Schaberg"
+ ],
+ "hentet": "2026-11-18",
+ "hentet_fra": "http://www.mdrc.org/sites/default/files/2016_Workadvance_Final_Web.pdf",
+ "hvordan": "pdf",
+ "id": "W4235988270",
+ "kilde": "AEA Randomized Controlled Trials",
+ "lenke": "https://openalex.org/W4235988270",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "WorkAdvance is one of five evidence-based programs that were implemented as part of the 2010 Social Innovation Fund (SIF) grant to the Mayor's Fund to Advance New York City and the Center for Economic Opportunity.The SIF unites public and private resources to evaluate and grow innovative community-based solutions with evidence of results.The SIF is a program of the Corporation for National and Community Service (CNCS), a federal agency that engages more than 5 million Americans in service through its AmeriCorps, Senior Corps, Social Innovation Fund, and Volunteer Generation Fund programs, and leads the President's national call to service initiative, United We Serve.",
+ "tittel": "WorkAdvance",
+ "type": "study-registration"
+}

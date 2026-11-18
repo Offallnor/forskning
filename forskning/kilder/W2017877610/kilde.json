@@ -1,0 +1,16 @@
+{
+ "apen_url": "https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID1806391_code238096.pdf?abstractid=1806391&mirid=1&type=2",
+ "ar": 2011,
+ "doi": "https://doi.org/10.1257/app.3.2.96",
+ "forfattere": [
+  "Joshua D. Angrist",
+  "Stacey H. Chen"
+ ],
+ "id": "W2017877610",
+ "kilde": "American Economic Journal Applied Economics",
+ "lenke": "https://openalex.org/W2017877610",
+ "oversikt": false,
+ "sammendrag": "Draft-lottery estimates of the causal effects of Vietnam-era military service using 2000 census data show marked schooling gains for veterans. We argue that these gains can be attributed to Vietnam veterans' use of the GI Bill rather than draft avoidance behavior. At the same time, draft lottery estimates of the earnings consequences of Vietnam-era service are close to zero in 2000. The earnings and schooling results can be reconciled by a flattening of the age-earnings profile in middle age and a modest economic return to the schooling subsidized by the GI Bill. Other long-run consequences of Vietnam-era service include increases in migration and public sector employment. (JEL H52, I22, I23, J24, J31, J45)",
+ "tittel": "Schooling and the Vietnam-Era GI Bill: Evidence from the Draft Lottery",
+ "type": "article"
+}

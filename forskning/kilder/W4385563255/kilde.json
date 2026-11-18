@@ -1,0 +1,19 @@
+{
+ "apen_url": "https://doi.org/10.1016/j.econedurev.2023.102441",
+ "ar": 2023,
+ "doi": "https://doi.org/10.1016/j.econedurev.2023.102441",
+ "forfattere": [
+  "J. Lucas Tilley"
+ ],
+ "hentet": "2026-11-18",
+ "hentet_fra": "https://su.diva-portal.org/smash/get/diva2:1825913/FULLTEXT01",
+ "hvordan": "pdf",
+ "id": "W4385563255",
+ "kilde": "Economics of Education Review",
+ "lenke": "https://openalex.org/W4385563255",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "This paper studies a large-scale educational expansion to assess whether shocks to educational inputs affect the academic achievement of adult education students. I analyze the effects of a Swedish program that rapidly doubled enrollment in adult education, thus straining school resources. The program targeted low-educated, unemployed adults aged 25 and older. Therefore, my analysis focuses on students under age 25 to reduce the risk that changes in the characteristics of the study sample drive my findings. First, I show that students in regions subject to stronger enrollment expansions experienced stronger negative shocks to educational inputs, including teacher credentials, per-pupil expenditure, and peer quality. Second, I show that the stronger negative shocks to these inputs coincided with larger increases in course dropout. Taken together, the two sets of results suggest a causal link between educational inputs and students’ academic progress in adult education.",
+ "tittel": "School resources, peer inputs, and student outcomes in adult education",
+ "type": "article"
+}

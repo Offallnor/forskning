@@ -1,0 +1,18 @@
+{
+ "apen_url": "https://doi.org/10.1016/j.econedurev.2025.102675",
+ "ar": 2025,
+ "doi": "https://doi.org/10.1016/j.econedurev.2025.102675",
+ "forfattere": [
+  "Christopher A. Jepsen",
+  "Peter R. Mueser",
+  "Kenneth R. Troske",
+  "Kyung‐Seong Jeon"
+ ],
+ "id": "W4411299120",
+ "kilde": "Economics of Education Review",
+ "lenke": "https://openalex.org/W4411299120",
+ "oversikt": false,
+ "sammendrag": "We estimate labor-market returns for students pursuing certificates or associate’s degrees in eight broad fields of study at for-profit institutions and community colleges. The data contain 400,000 students beginning their studies between 2005 and 2012 in one state. We estimate two-step models to address recent econometric concerns with two-way fixed-effects models. Our analyses show important differences in return by field, with similar patterns for for-profit schools and community colleges. Apart from those studying in health fields, returns are generally greater for those attending for-profit schools than those attending community colleges. Higher estimated overall returns for for-profit schools are not primarily due to differences in areas of study.",
+ "tittel": "Estimates of earnings returns by field of study for-profit schools and community colleges",
+ "type": "article"
+}

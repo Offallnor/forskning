@@ -1,0 +1,18 @@
+{
+ "apen_url": "https://doi.org/10.3386/w34012",
+ "ar": 2025,
+ "doi": "https://doi.org/10.3386/w34012",
+ "forfattere": [
+  "Eleanor Wiske Dillon",
+  "Lisa Kahn",
+  "Joanna Venator",
+  "Michael Dalton"
+ ],
+ "id": "W4412439050",
+ "kilde": "National Bureau of Economic Research",
+ "lenke": "https://openalex.org/W4412439050",
+ "oversikt": false,
+ "sammendrag": "Most U.S. states have workforce development programs that offer firms grants to train their own workers.We create unique data linkages between participating firms, employment, and vacancies to explore the determinants and consequences of such programs.Training grants are more prevalent in markets where firms face greater employee poaching risk, suggesting these programs help overcome a market failure in updating worker skills.After training, firms experience prolonged employment growth and downskilling in their job posts, relative to a matched control group.Training appears to help firms move toward optimal scale and expand opportunities for less skilled workers.",
+ "tittel": "Do Workforce Development Programs Bridge the Skills Gap?",
+ "type": "report"
+}

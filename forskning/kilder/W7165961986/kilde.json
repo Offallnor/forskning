@@ -1,0 +1,15 @@
+{
+ "apen_url": "https://doi.org/10.1016/j.labeco.2026.102926",
+ "ar": 2026,
+ "doi": "https://doi.org/10.1016/j.labeco.2026.102926",
+ "forfattere": [
+  "Jacob Nielsen Arendt"
+ ],
+ "id": "W7165961986",
+ "kilde": "Labour Economics",
+ "lenke": "https://openalex.org/W7165961986",
+ "oversikt": false,
+ "sammendrag": "This study estimates the causal effect of access to college for adult immigrants. I utilize that immigrants must demonstrate their language proficiency to enroll in college and estimate the effect of college access by comparing those who just passed to those who just failed the test. Passing the test raises the proportion of immigrants who graduate from college at the expense of shorter educations. This change in skill investments increases earnings by 19% while not affecting average employment or work hours and is in part driven by job shifts towards high-skilled jobs. For the immigrants on the margin of passing the language test, the earnings effects outweigh the incremental costs of education.",
+ "tittel": "The returns to host-country college for immigrants",
+ "type": "article"
+}

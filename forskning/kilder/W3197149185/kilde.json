@@ -1,0 +1,23 @@
+{
+ "apen_url": "https://docs.iza.org/dp12560.pdf",
+ "ar": 2019,
+ "forfattere": [
+  "Karsten Albæk",
+  "Rita Asplund",
+  "Erling Barth",
+  "Lena Lindahl",
+  "Marte Strøm",
+  "Pekka Vanhala"
+ ],
+ "hentet": "2026-11-18",
+ "hentet_fra": "https://docs.iza.org/dp12560.pdf",
+ "hvordan": "pdf",
+ "id": "W3197149185",
+ "kilde": "RePEc: Research Papers in Economics",
+ "lenke": "https://openalex.org/W3197149185",
+ "merknad": "ÅPEN VERSJON (preprint eller arbeidsnotat), merkes i svaret",
+ "oversikt": false,
+ "sammendrag": "Across the OECD countries, dropouts from upper secondary schooling fare worse in the labor market, with higher NEET rates more spells of unemployment and lower earnings. Among the dropouts, there are however significant shares who complete at a later age. In this paper, we thus ask the question: Does it pay for young adults who do not complete upper secondary schooling by the age of 21, to do so at some point during the subsequent 7 years, that is, before turning 28? In all four Nordic countries under scrutiny, we find that late completion lowers the probability of being outside employment, education or training (NEET) at age 28. Moreover, the exact age of completion does not seem to matter. Our estimates are robust to the inclusion of extensive controls for socioeconomic background and early schooling paths, and similar to the ones produced by event history analysis with individual fixed effects. This indicates that late completion of upper secondary schooling plays an important role for the labor market inclusion of young dropouts.",
+ "tittel": "Better Late Than Never? How Late Completion Affects the Early Careers of Dropouts",
+ "type": "preprint"
+}

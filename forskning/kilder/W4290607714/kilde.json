@@ -1,0 +1,21 @@
+{
+ "apen_url": "https://www.sciendo.com/pdf/10.2478/izajole-2022-0004",
+ "ar": 2022,
+ "doi": "https://doi.org/10.2478/izajole-2022-0004",
+ "forfattere": [
+  "Matthew Baird",
+  "Robert N. Bozick",
+  "Melanie A. Zaber"
+ ],
+ "hentet": "2026-11-18",
+ "hentet_fra": "https://www.sciendo.com/pdf/10.2478/izajole-2022-0004",
+ "hvordan": "pdf",
+ "id": "W4290607714",
+ "kilde": "IZA Journal of Labor Economics",
+ "lenke": "https://openalex.org/W4290607714",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "Abstract Occupational credentials provide an additional—and, at times, alternative—path other than traditional academic degrees for individuals to increase productivity and demonstrate their abilities and qualifications to employers. In the United States, these credentials typically take the form of licenses and certifications. Although a critical part of the workforce landscape, the literature on the returns to credentials is inadequate, with prior research typically relying on Ordinary Least Squares (OLS) regressions which do not sufficiently control for selection. Using questions that identify credential receipt from the 2015 and 2016 United States’ Current Population Surveys, we construct an instrumental variable of local peer influence using the within-labor market credential rate of individuals sharing the same sociodemographic characteristics, while controlling for the same group's average wages and a suite of demographic and geographic controls. We use this instrument in a marginal treatment effects estimator, which allows for estimation of the average treatment effect and determines the direction of selection, and we estimate the effects of credentials on labor market outcomes. We find large, meaningful returns in the form of increased probability of individual employment, an effect which is concentrated primarily among women. The effect of having a credential on log wages is higher for those in the sub-baccalaureate labor market, suggesting the potential role of occupational credentials as an alternative path to marketable human capital and a signal of skills in the absence of a bachelor's degree.",
+ "tittel": "Beyond traditional academic degrees: The labor market returns to occupational credentials in the United States",
+ "type": "article"
+}

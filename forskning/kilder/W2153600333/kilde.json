@@ -1,0 +1,16 @@
+{
+ "apen_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4288462/",
+ "ar": 2010,
+ "doi": "https://doi.org/10.1177/0011128710389588",
+ "forfattere": [
+  "Rosa Minhyo Cho",
+  "John H. Tyler"
+ ],
+ "id": "W2153600333",
+ "kilde": "Crime & Delinquency",
+ "lenke": "https://openalex.org/W2153600333",
+ "oversikt": false,
+ "sammendrag": "The authors use administrative data from Florida to determine the extent to which prison-based adult basic education (ABE) improves inmate's postrelease labor market outcomes, such as earnings and employment. Using two nonexperimental comparison groups, the authors find evidence that ABE participation is associated with higher postrelease earnings and employment rates, especially for minorities. The authors find that the relationship is the largest for ABE participants who had uninterrupted ABE instruction and for those who received other education services. However, the results do not find any positive effects of ABE participation on reducing recidivism.",
+ "tittel": "Does Prison-Based Adult Basic Education Improve Postrelease Outcomes for Male Prisoners in Florida?",
+ "type": "article"
+}

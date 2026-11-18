@@ -1,0 +1,20 @@
+{
+ "apen_url": "https://www.sciencedirect.com/science/article/pii/S0360131521001664/pdf",
+ "ar": 2021,
+ "doi": "https://doi.org/10.1016/j.compedu.2021.104289",
+ "forfattere": [
+  "Jonatan Castaño‐Muñoz",
+  "Margarida Rodrigues"
+ ],
+ "hentet": "2026-11-18",
+ "hentet_fra": "https://zenodo.org/records/14764081/files/OpentoMOOCs.pdf",
+ "hvordan": "pdf",
+ "id": "W3183572068",
+ "kilde": "Computers & Education",
+ "lenke": "https://openalex.org/W3183572068",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "This paper investigates the effect that participation in massive open online courses (MOOCs) ecosystem can have on workers' labour market outcomes, mainly employment retaining. We use primary data collected between 2015 and 2017 and obtained from two surveys (pre-course and follow-up questionnaires) sent to participants in six MOOCs. The treatment group is composed of individuals participating in MOOCs in 2015 and the control group is composed of individuals who enrolled in MOOCs for the first time in 2017. Using a differences-in-differences approach, we find that participation in MOOCs can improve workers' employment retaining but not their wages. The positive effect on employment retaining is homogeneous in different geographical and economic areas and tends to be higher for individuals who have participated in more MOOCs in the past.",
+ "tittel": "Open to MOOCs? Evidence of their impact on labour market outcomes",
+ "type": "article"
+}

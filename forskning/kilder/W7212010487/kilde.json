@@ -1,0 +1,20 @@
+{
+ "apen_url": "https://arxiv.org/pdf/2609.07011",
+ "ar": 2026,
+ "doi": "https://doi.org/10.48550/arxiv.2609.07011",
+ "forfattere": [
+  "David M. Roodman",
+  "Maxim Massenkoff"
+ ],
+ "hentet": "2026-11-18",
+ "hentet_fra": "https://arxiv.org/pdf/2609.07011",
+ "hvordan": "pdf",
+ "id": "W7212010487",
+ "kilde": "arXiv (Cornell University)",
+ "lenke": "https://openalex.org/W7212010487",
+ "merknad": "ÅPEN VERSJON (preprint eller arbeidsnotat), merkes i svaret",
+ "oversikt": true,
+ "sammendrag": "We review the evidence on subsidized job training programs in industrial countries. We provide critical, narrative summaries of randomized studies of major job training in the US; of two \"judge randomization\" studies in the US and Denmark; and of previous meta-analyses. We then perform a meta-analysis of 56 randomized trials of job training in the US since 1973, the most exhaustive meta-analysis in this niche. Here, average impacts are positive but modest: employment rises 1.7 percentage points in years 3-5, and annual pre-tax earnings by roughly \\$800 per person offered training. At an average cost of \\$13,598 per participant, programs roughly break even under (debatable) assumptions about how long benefits persist. They recoup about three-quarters of their cost for government through higher tax revenue and lower benefit use. Evaluations of the largest federal efforts--JTPA, the Workforce Investment Act, and Job Corps--return small or null effects. One cluster of programs stands out: \"sector programs,\" which screen applicants intensively, design curricula with employers, and track local skill demand. They raise earnings roughly ten times as much. They have proven difficult to replicate.",
+ "tittel": "An evidence review of worker retraining",
+ "type": "preprint"
+}

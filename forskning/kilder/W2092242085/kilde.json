@@ -1,0 +1,14 @@
+{
+ "ar": 2009,
+ "doi": "https://doi.org/10.3790/aeq.55.1.61",
+ "forfattere": [
+  "Cecilie Dohlmann Weatherall"
+ ],
+ "id": "W2092242085",
+ "kilde": "Applied Economics Quarterly",
+ "lenke": "https://openalex.org/W2092242085",
+ "oversikt": false,
+ "sammendrag": "In 1997, to deal with the challenges of globalization and the increased demand for skills, Denmark introduced a very generous apprenticeship subsidy for adults of 25 years and above. The aim of the adult apprenticeship subsidy (AAS) was to increase vocational skills among people with low schooling, in order to fill job vacancies. This paper evaluates the effect of the AAS, which increases an apprentice's income by more than 30 percent on average, on the vocational education attendance rate. Both rich panel data and the exogenous shift in the AAS in 1997 make possible the empirical examination of the effect of the subsidy on people with low schooling with the use of the difference-in-differences (DiD) estimator. The results show that the AAS had a significant positive effect on the vocational attendance rate among low-schooled 25-year-old men in its first full year of operation but no significant effect thereafter. JEL Classification: C14, I22, J28",
+ "tittel": "Do Subsidized Adult Apprenticeships Increase the Vocational Attendance Rate?",
+ "type": "article"
+}

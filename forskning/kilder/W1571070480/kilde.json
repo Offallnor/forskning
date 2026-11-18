@@ -1,0 +1,16 @@
+{
+ "apen_url": "https://research.upjohn.org/cgi/viewcontent.cgi?article=1254&context=empl_research",
+ "ar": 2017,
+ "doi": "https://doi.org/10.17848/1075-8445.24(1)-1",
+ "forfattere": [
+  "Kevin M. Hollenbeck",
+  "Wei-Jang Huang"
+ ],
+ "id": "W1571070480",
+ "kilde": "Employment Research",
+ "lenke": "https://openalex.org/W1571070480",
+ "oversikt": false,
+ "sammendrag": "This study estimates the net impacts and private and social benefits and costs of nine workforce development programs administered in Washington State. Five of the programs serve jobready adults: Community and Technical College Job Preparatory Training, Private Career Schools, Apprenticeships, Job Training and Partnership Act (JTP A) Title III programs, and Community and Technical College Worker Retraining. Two of the programs serve adults with employment barriers: Community and Technical College Adult Basic Skills Education and JTPA Title II-A programs. The other two programs serve youth: JTPA Title II-C programs and Secondary Career and Technical Education. The net impact analyses were conducted using a nonexperimental methodology. Individuals who had encountered the workforce development programs were statistically matched to individuals who had not. Administrative data with information from the universe of program participants and Employment Service registrants (who served as the comparison group pool) supported the analyses. These data included over 10 years of pre-program and outcome information including demographics, employment and earnings information from the Unemployment Insurance wage record system, and transfer income infonnation such as Food Stamps and Temporary Assistance for Needy Families (T ANF) recipiency and benefits. A variety of estimation techniques were used to calculate net impacts including comparison of means, regression-adjusted comparison of means, and difference-in-difference comparison of means. We estimated short-term net impacts that examined outcomes for individuals who exited from the education or training programs (or from the Employment Service) in the fiscal year 1999/2000 and longer-term impacts for individuals who exited in the fiscal year 1997/1998. Shortterm employment impacts are positive for seven of the nine programs and negative for the other two. Short-tenn earnings impacts are insignificant for four of the programs, negative for two, and positive for the remaining three. The longer-term impacts are more sanguine. Employment impacts are positive for all nine programs, and earnings are positive for seven and insignificantly different from zero for the other two. The benefit-cost analyses show that virtually all of the programs have discounted future benefits that far exceed the costs for participants, and that society also receives a positive return on investment.",
+ "tittel": "Net Impact and Benefit-Cost Estimates of the Workforce Development System in Washington State",
+ "type": "article"
+}

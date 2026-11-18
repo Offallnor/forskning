@@ -1,0 +1,18 @@
+{
+ "apen_url": "https://www.tandfonline.com/doi/pdf/10.1080/09645292.2025.2579799?needAccess=true",
+ "ar": 2025,
+ "doi": "https://doi.org/10.1080/09645292.2025.2579799",
+ "forfattere": [
+  "Johanna Kemper",
+  "Audrey Au Yong Lyn",
+  "Patrick McDonald",
+  "Ursula Renold"
+ ],
+ "id": "W4415689128",
+ "kilde": "Education Economics",
+ "lenke": "https://openalex.org/W4415689128",
+ "oversikt": true,
+ "sammendrag": "This meta-analysis synthesizes 39 studies (1990–2022) on the effects of formal Vocational Education and Training (VET) on labor market outcomes using causal counterfactual methods. Using Hedges’ g and Robust Variance Estimation, we find that VET versus general education yields a small positive effect (g = 0.021), increasing employment by 4.8 percentage points (p.p.) but showing no impact on wages. Based on 27 studies, VET compared to an unrestricted control group, including individuals with no specific education type, shows a medium effect (g = 0.071), boosting employment by 11.7 p.p. and wages by 37.6 p.p.",
+ "tittel": "Labor market outcomes of formal vocational education and training: a meta-analysis",
+ "type": "review"
+}

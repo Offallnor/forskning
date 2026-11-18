@@ -1,0 +1,22 @@
+{
+ "apen_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/cl2.1115",
+ "ar": 2020,
+ "doi": "https://doi.org/10.1002/cl2.1115",
+ "forfattere": [
+  "Frederik Thuesen",
+  "Vibeke Jakobsen",
+  "Nina Thorup Dalgaard",
+  "Bjørn C. A. Viinholt"
+ ],
+ "hentet": "2026-11-18",
+ "hentet_fra": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8356299/fullTextXML",
+ "hvordan": "Europe PMC",
+ "id": "W3090832067",
+ "kilde": "Campbell Systematic Reviews",
+ "lenke": "https://openalex.org/W3090832067",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "Background: This is a protocol for a Campbell Review. The objectives are as follows. Objectives: This review systematically collects and synthesizes evidence from evaluations of causal effects of interventions designed to improve employment outcomes for non-Western immigrants. The review aims to answer the following questions: 1)Do interventions designed to improve the economic self-sufficiency for non-Western immigrants affect participants employment, use of cash assistance, income, or job retention?2)Do effects differ depending on programme content or populations served?",
+ "tittel": "PROTOCOL: Interventions to improve the economic self‐sufficiency of unemployed immigrants from non‐Western countries",
+ "type": "article"
+}

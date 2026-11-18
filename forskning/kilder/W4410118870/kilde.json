@@ -1,0 +1,16 @@
+{
+ "apen_url": "https://www.tandfonline.com/doi/pdf/10.1080/00221546.2025.2497187?needAccess=true",
+ "ar": 2025,
+ "doi": "https://doi.org/10.1080/00221546.2025.2497187",
+ "forfattere": [
+  "Adela Soliz",
+  "Coral Flanagan"
+ ],
+ "id": "W4410118870",
+ "kilde": "The Journal of Higher Education",
+ "lenke": "https://openalex.org/W4410118870",
+ "oversikt": false,
+ "sammendrag": "While efforts to increase college access and completion have historically focused on recent high school graduates, state policymakers have begun to realize that, in order to expand their competitive workforce, they also need to increase postsecondary attainment among adults. In this study, we use data from the Integrated Postsecondary Education Data System and a differences-in-differences approach to estimate the impact of adult-targeted state grant aid on enrollment and completion outcomes across 10 different states. We find that effects vary across states, with positive effects on enrollment and completion primarily concentrated at eligible two-year institutions. We also find some statistically significant negative effects which suggest that the grant aid programs may have induced individuals to trade-off between institution types, or competing policies may have drawn away adults who otherwise would have enrolled into the workforce. Our results have implications for future policy efforts aimed at increasing the postsecondary attainment of adults.",
+ "tittel": "Do State Financial Aid Policies Increase College Enrollment and Completion for Adult Learners?",
+ "type": "article"
+}

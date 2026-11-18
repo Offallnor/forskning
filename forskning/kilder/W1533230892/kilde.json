@@ -1,0 +1,16 @@
+{
+ "apen_url": "http://anon-ftp.iza.org/dp8990.pdf",
+ "ar": 2015,
+ "doi": "https://doi.org/10.17169/fudocs_document_000000022170",
+ "forfattere": [
+  "Katja Görlitz",
+  "Marcus Tamm"
+ ],
+ "id": "W1533230892",
+ "kilde": "SSRN Electronic Journal",
+ "lenke": "https://openalex.org/W1533230892",
+ "oversikt": false,
+ "sammendrag": "This paper analyzes the returns to training that was co-financed by the German voucher program Bildungsprämie. The estimation strategy compares outcomes of participants in voucher training with voucher recipients who intended to participate in training, but did not do so because of a random event like course cancellation by the provider of training. We find no impact of voucher training on wages, employment, job tasks and on subjective outcomes (in particular, the risk of job loss and job satisfaction). However, there is evidence that training participants report to better match the skill requirements of their job.",
+ "tittel": "The pecuniary and non-pecuniary returns to voucher-financed training",
+ "type": "preprint"
+}

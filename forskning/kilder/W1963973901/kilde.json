@@ -1,0 +1,16 @@
+{
+ "ar": 2006,
+ "doi": "https://doi.org/10.1002/pam.20190",
+ "forfattere": [
+  "David H. Greenberg",
+  "Charles Michalopoulos",
+  "Philip K. Robin"
+ ],
+ "id": "W1963973901",
+ "kilde": "Journal of Policy Analysis and Management",
+ "lenke": "https://openalex.org/W1963973901",
+ "oversikt": true,
+ "sammendrag": "This paper uses meta-analysis to investigate whether random assignment (or experimental) evaluations of voluntary government-funded training programs for the disadvantaged have produced different conclusions than nonexperimental evaluations. Information includes several hundred estimates from 31 evaluations of 15 programs that operated between 1964 and 1998. The results suggest that experimental and nonexperimental evaluations yield similar conclusions about the effectiveness of training programs, but that estimates of average effects for youth and possibly men might have been larger in experimental studies. The results also suggest that variation among nonexprimental estimates of program effects is similar to variation among experimental estimates for men and youth, but not for women (for whom it seems to be larger), although small sample sizes make the estimated differences somewhat imprecise for all three groups. The policy implications of the findings are discussed. © 2006 by the Association for Public Policy Analysis and Management",
+ "tittel": "Do experimental and nonexperimental evaluations give different answers about the effectiveness of government-funded training programs?",
+ "type": "article"
+}

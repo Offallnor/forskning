@@ -1,0 +1,20 @@
+{
+ "apen_url": "https://arxiv.org/pdf/2312.17123",
+ "ar": 2023,
+ "doi": "https://doi.org/10.48550/arxiv.2312.17123",
+ "forfattere": [
+  "Pauline Leung",
+  "Zhuan Pei"
+ ],
+ "hentet": "2026-11-18",
+ "hentet_fra": "http://arxiv.org/pdf/2312.17123",
+ "hvordan": "pdf",
+ "id": "W2906657559",
+ "kilde": "RePEc: Research Papers in Economics",
+ "lenke": "https://openalex.org/W2906657559",
+ "merknad": "ÅPEN VERSJON (preprint eller arbeidsnotat), merkes i svaret",
+ "oversikt": false,
+ "sammendrag": "Evidence on the effectiveness of retraining unemployed U.S. workers primarily comes from evaluations of training programs, a narrow avenue for skill acquisition. We use administrative records from Ohio to estimate the effects of retraining, broadly defined as postsecondary enrollment, via matching. Our simple method bridges two strands of the dynamic treatment effect literature that differ in whether the counterfactual allows later treatment or rules it out throughout the treatment window. Enrollees experience earnings gains of six percent three to four years after enrolling, following depressed earnings during the first two years. The gains are driven by industry-switchers, particularly to healthcare.",
+ "tittel": "Further Education During Unemployment",
+ "type": "preprint"
+}

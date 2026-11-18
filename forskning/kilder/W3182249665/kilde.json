@@ -1,0 +1,16 @@
+{
+ "ar": 2021,
+ "doi": "https://doi.org/10.1080/10242694.2021.1945427",
+ "forfattere": [
+  "Sebastian Negrusa",
+  "Projesh P. Ghosh",
+  "Sarmistha Pal"
+ ],
+ "id": "W3182249665",
+ "kilde": "Defence and Peace Economics",
+ "lenke": "https://openalex.org/W3182249665",
+ "oversikt": false,
+ "sammendrag": "Veterans exit military service with varying degrees of service-connected disabilities (SCD). The GI Bill provides educational benefits, which increased substantially in 2009 (‘Post-9/11 GI Bill’). Exploiting the exogeneity of SCD and using a difference-in-difference approach, we find that SCD veterans are 16.2 percent more likely to attend college than non-SCD veterans due to the Post-9/11 GI Bill, an effect driven by lower-level SCD veterans attending public colleges. After the benefit increase many lower-level SCD veterans switch from being employed to attending college. We provide insights into the disabled veterans’ college-employment tradeoffs and find that the benefit likely helps disabled veterans improve their labor market outcomes. Future changes in the distribution of SCD levels among veterans will translate into changes in the demand for higher education. Also, the high responsiveness to a more generous financial aid for higher education among disabled veterans may provide useful insights into the effective design of similar subsidies for civilian disabled populations.",
+ "tittel": "Do Veterans with Disabilities Respond Differently to the Post-9/11 GI Bill?",
+ "type": "article"
+}

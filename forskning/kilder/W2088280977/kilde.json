@@ -1,0 +1,17 @@
+{
+ "ar": 2004,
+ "doi": "https://doi.org/10.1177/1356389004045075",
+ "forfattere": [
+  "Karl Ashworth",
+  "Andreas Cebulla",
+  "David H. Greenberg",
+  "Robert Walker"
+ ],
+ "id": "W2088280977",
+ "kilde": "Evaluation",
+ "lenke": "https://openalex.org/W2088280977",
+ "oversikt": true,
+ "sammendrag": "Numerous programmes designed to encourage welfare recipients to move into work and off benefit have been evaluated in the United States. Many have randomly assigned potential participants into ‘experimental’ and ‘control’ groups to generate unbiased estimates of the effectiveness of the programmes. The results of the evaluations have been selectively influential in shaping policy developments on both sides of the Atlantic, but a thorough understanding of the diversity of experience has been lacking. Applying meta-analysis techniques to a specially constructed database of evaluations in over 50 US sites, this article reports on the first programme-level, systematic meta-evaluation of welfare-to-work programmes. The results confirm the superiority of approaches that prioritize immediate work over human-capital investment but reveal that caseload characteristics and local environment can be equally important as or even more important than programme design. The article concludes with a discussion of the potential and limitations of meta-evaluation.",
+ "tittel": "Meta-Evaluation: Discovering What Works Best in Welfare Provision",
+ "type": "article"
+}

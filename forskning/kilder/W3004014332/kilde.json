@@ -1,0 +1,19 @@
+{
+ "apen_url": "https://www.aeaweb.org/doi/10.1257/pol.20170506.appx",
+ "ar": 2020,
+ "doi": "https://doi.org/10.1257/pol.20170506",
+ "forfattere": [
+  "Michel Grosz"
+ ],
+ "hentet": "2026-11-18",
+ "hentet_fra": "https://www.aeaweb.org/doi/10.1257/pol.20170506.appx",
+ "hvordan": "pdf",
+ "id": "W3004014332",
+ "kilde": "American Economic Journal Economic Policy",
+ "lenke": "https://openalex.org/W3004014332",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "This paper estimates the labor market returns to the associate’s degree in nursing (ADN), which is one of the most popular community college programs. I use student-level academic and earnings records across two decades for all community college students in California. I leverage random variation from admissions lotteries to produce causal estimates of the effect of the ADN on earnings and employment at a single large ADN program. Enrolling in the program increases earnings by 44 percent and the probability of working in the health care industry by 19 percentage points. These estimates are similar to ones in models that do not use the lottery variation but do control for individual fixed effects and individual-specific linear time trends, which I also estimate in a wider set of institutions where lottery estimates are not possible. In light of concerns about nursing shortages, I estimate that the economic benefit of expanding an ADN program by one seat far outweighs the costs. (JEL D44, I11, I23, I26, J24, J31)",
+ "tittel": "The Returns to a Large Community College Program: Evidence from Admissions Lotteries",
+ "type": "article"
+}

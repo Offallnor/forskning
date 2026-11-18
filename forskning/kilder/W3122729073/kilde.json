@@ -1,0 +1,16 @@
+{
+ "ar": 2020,
+ "doi": "https://doi.org/10.3102/0162373720979177",
+ "forfattere": [
+  "Justin C. Ortagus",
+  "Melvin Tanner",
+  "Isaac McFarlin"
+ ],
+ "id": "W3122729073",
+ "kilde": "Educational Evaluation and Policy Analysis",
+ "lenke": "https://openalex.org/W3122729073",
+ "oversikt": false,
+ "sammendrag": "In this study, we develop and implement a text messaging re-enrollment campaign to encourage former community college students to return to college. Former students are randomly assigned to one of two treatment groups that either receives information to simplify the re-enrollment process or receives both information and a one-course tuition waiver. We find that providing information and a one-course tuition waiver to former students increases their likelihood of re-enrollment by 1.5 percentage points (21.1%), enrolling in multiple courses by 0.9 percentage points (16.4%), full-time enrollment by 0.5 percentage points (21.7%), and persistence by 0.6 percentage points (23.1%). This study highlights the importance of targeted interventions that address informational and financial barriers facing former students.",
+ "tittel": "Can Re-Enrollment Campaigns Help Dropouts Return to College? Evidence From Florida Community Colleges",
+ "type": "article"
+}

@@ -1,0 +1,16 @@
+{
+ "apen_url": "https://doi.org/10.1016/j.rssm.2026.101172",
+ "ar": 2026,
+ "doi": "https://doi.org/10.1016/j.rssm.2026.101172",
+ "forfattere": [
+  "Anja Grauenhorst",
+  "Steffen Schindler"
+ ],
+ "id": "W7167589257",
+ "kilde": "Research in Social Stratification and Mobility",
+ "lenke": "https://openalex.org/W7167589257",
+ "oversikt": false,
+ "sammendrag": "The article examines whether formal educational upgrading after labour market entry attenuates or reinforces the association between social origin and wages in Germany. We use NEPS-SC6-ADIAB data for descriptive and decomposition analyses. The results show that the group of upgraders shows a steeper wage growth compared to non-upgraders. However, although upgrading patterns are somewhat socially selective, differences in upgrading do neither compensate nor reinforce wage gaps between individuals of different social classes of origin over the career trajectory. Instead, initial educational attainment at labour market entry is a strong mediator of the social class wage gap.",
+ "tittel": "Upgrading of educational qualifications and the effects of social origin in terms of wages: Descriptive insights and a decomposition analysis for Germany",
+ "type": "article"
+}

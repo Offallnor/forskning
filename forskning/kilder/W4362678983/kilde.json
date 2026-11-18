@@ -1,0 +1,21 @@
+{
+ "apen_url": "https://arxiv.org/pdf/2304.01490",
+ "ar": 2023,
+ "doi": "https://doi.org/10.48550/arxiv.2304.01490",
+ "forfattere": [
+  "Finnian Lattimore",
+  "Daniel Steinberg",
+  "Anna Zhu"
+ ],
+ "hentet": "2026-11-18",
+ "hentet_fra": "http://arxiv.org/pdf/2304.01490",
+ "hvordan": "pdf",
+ "id": "W4362678983",
+ "kilde": "RePEc: Research Papers in Economics",
+ "lenke": "https://openalex.org/W4362678983",
+ "merknad": "ÅPEN VERSJON (preprint eller arbeidsnotat), merkes i svaret",
+ "oversikt": false,
+ "sammendrag": "Pursuing educational qualifications later in life is an increasingly common phenomenon within OECD countries since technological change and automation continues to drive the evolution of skills needed in many professions. We focus on the causal impacts to economic returns of degrees completed later in life, where motivations and capabilities to acquire additional education may be distinct from education in early years. We find that completing an additional degree leads to more than \\$3000 (AUD, 2019) extra income per year compared to those who do not complete additional study. For outcomes, treatment and controls we use the extremely rich and nationally representative longitudinal data from the Household Income and Labour Dynamics Australia survey (HILDA). To take full advantage of the complexity and richness of this data we use a Machine Learning (ML) based methodology for causal effect estimation. We are also able to use ML to discover sources of heterogeneity in the effects of gaining additional qualifications. For example, those younger than 45 years of age when obtaining additional qualifications tend to reap more benefits (as much as \\$50 per week more) than others.",
+ "tittel": "The Economic Effect of Gaining a New Qualification Later in Life",
+ "type": "preprint"
+}

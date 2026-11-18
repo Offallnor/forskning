@@ -1,0 +1,15 @@
+{
+ "apen_url": "https://publications.iadb.org/publications/english/document/The-Long-Term-Effects-of-Job-Training-on-Labor-Market-and-Skills-Outcomes-in-Chile.pdf",
+ "ar": 2020,
+ "doi": "https://doi.org/10.18235/0002791",
+ "forfattere": [
+  "Annabelle Doerr",
+  "Rafael Novella"
+ ],
+ "id": "W3095968011",
+ "lenke": "https://openalex.org/W3095968011",
+ "oversikt": false,
+ "sammendrag": "Job training programs can be an eective policy for improving productivity and labor market outcomes in low and middle income countries. We report medium and long-term impacts of a job training program for vulnerable workers in Chile on labor market and skill outcomes using experimental and administrative data. We find that the program fails on improving workers' skills and most labor outcomes but some evidence of a effect on labor income. We also find evidence of heterogeneous effects by course-type, training provider quality, and gender. This evidence aims at contributing to a better design of training programs and to a better use of public resources.",
+ "tittel": "The Long-Term Effects of Job Training on Labor Market and Skills Outcomes in Chile",
+ "type": "report"
+}

@@ -1,0 +1,19 @@
+{
+ "ar": 2021,
+ "doi": "https://doi.org/10.1111/sjpe.12299",
+ "forfattere": [
+  "Steven McIntosh",
+  "Damon Morris"
+ ],
+ "hentet": "2026-11-18",
+ "hentet_fra": "https://eprints.whiterose.ac.uk/178402/1/SM02.pdf",
+ "hvordan": "pdf",
+ "id": "W3193766604",
+ "kilde": "Scottish Journal of Political Economy",
+ "lenke": "https://openalex.org/W3193766604",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "Abstract We use UK Labour Force Survey data to estimate wage differentials associated with the attainment of vocational qualifications, relative to comparison groups qualified to at best one level below. Our main aim is to show the variation in the size of such differentials, according to the unobserved characteristics of the individual, via quantile regression and also according to the characteristics of the qualifications themselves, in terms of the level, type and subject area. With respect to subject area, the key reason for variation in differentials across subjects is the differences in occupations to which qualifications lead.",
+ "tittel": "Variation in the labour market rewards to vocational qualifications in the UK",
+ "type": "article"
+}

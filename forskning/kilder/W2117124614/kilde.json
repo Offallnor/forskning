@@ -1,0 +1,16 @@
+{
+ "apen_url": "https://doi.org/10.7916/d8x63jzs",
+ "ar": 2019,
+ "doi": "https://doi.org/10.1177/0091552119886659",
+ "forfattere": [
+  "Vivian Yuen Ting Liu",
+  "Clive Belfield"
+ ],
+ "id": "W2117124614",
+ "kilde": "Community College Review",
+ "lenke": "https://openalex.org/W2117124614",
+ "oversikt": false,
+ "sammendrag": "Objective: This study examines the labor market gains for students who enrolled at for-profit colleges after beginning their postsecondary education in community college. Method: We use student-level administrative record data from college transcripts, unemployment insurance earnings data, and progression data from the National Student Clearinghouse across full entry cohorts of community college students in two statewide systems between 2001 and 2006. Using regression analysis and fixed effect methods, we calculate the wage gains to attainment across different student transfer patterns. Results: We find significant wage penalties to transfer to a for-profit college instead of to a public or private nonprofit college. For some student groups, earnings are higher if they drop out of community college instead of transferring to a for-profit college. Conclusion: Students in for-profit colleges do have lower opportunity costs in terms of foregone earnings while enrolled in college. However, these do not sufficiently compensate for lower earnings growth after college.",
+ "tittel": "The Labor Market Returns to For-Profit Higher Education: Evidence for Transfer Students",
+ "type": "article"
+}

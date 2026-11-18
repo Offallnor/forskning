@@ -1,0 +1,15 @@
+{
+ "ar": 2013,
+ "doi": "https://doi.org/10.1002/berj.3110",
+ "forfattere": [
+  "Alison Wolf",
+  "Andrew Jenkins"
+ ],
+ "id": "W2093108974",
+ "kilde": "British Educational Research Journal",
+ "lenke": "https://openalex.org/W2093108974",
+ "oversikt": false,
+ "sammendrag": "This paper examines the degree to which British adults participating in workplace literacy courses improved their reading comprehension skills, using longitudinal data which cover the period from enrolment until between two and three years later. Learners were tested using an instrument designed explicitly for adults, with two parallel forms. For those who were native English speakers, there is no evidence of improvement. Learners for whom English was a second language showed modest but statistically significant improvements, but it is impossible to tell whether these were the result of instruction, or of subjects’ longer exposure to an English‐speaking environment. The data were re‐analysed using imputed data, in order to address the problem of missing data, which is common in longitudinal studies, and using multilevel models. The results of these further analyses were the same in all key respects. These findings are important because improvement of adult literacy and numeracy skills has been central to successive governments’ policies for improving both economic productivity and social mobility. Policy‐makers have confounded the acquisition and award of certificates with substantive skill improvement. This study shows that one cannot, in fact, assume that the award of a new qualification indicates that substantive learning has taken place. It also underlines the complexity of reading skills, and the need for long periods of learning and instruction if serious progress is to be made.",
+ "tittel": "Do ‘learners’ always learn? The impact of workplace adult literacy courses on participants’ literacy skills",
+ "type": "article"
+}

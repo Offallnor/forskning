@@ -1,0 +1,16 @@
+{
+ "ar": 2021,
+ "doi": "https://doi.org/10.7249/wr1299-1",
+ "forfattere": [
+  "Matthew Baird",
+  "Robert N. Bozick",
+  "Melanie A. Zaber"
+ ],
+ "id": "W3154704909",
+ "kilde": "RAND Corporation eBooks",
+ "lenke": "https://openalex.org/W3154704909",
+ "oversikt": false,
+ "sammendrag": "Occupational credentials provide an additional — and, at times, alternative — path other than traditional academic degrees for individuals to increase productivity and demonstrate their abilities and qualifications to employers. These credentials take the form of licenses and certifications. Although a critical part of the workforce landscape, the literature on the returns to credentials is inadequate, with prior research having limited causal identification, typically relying on OLS regressions which do not sufficiently control for selection. Using questions that identify credential receipt from the 2015 and 2016 Current Population Surveys, we construct an instrumental variable of local peer influence using the within-labor market credential rate of individuals sharing the same sociodemographic characteristics, while controlling for the same group's average wages and a suite of demographic and geographic controls. We use this instrument in a marginal treatment effects estimator, which allows for estimation of the average treatment effect and determines the direction of selection, and we estimate the effects of credentials on labor market outcomes. We find large, meaningful returns in the form of increased employment, an effect which is concentrated primarily among women. The effect of having a credential on log wages is higher for those in the sub-baccalaureate labor market, suggesting the potential role of occupational credentials as an alternative path to marketable human capital and a signal of skills in the absence of a bachelor's degree.",
+ "tittel": "Beyond Traditional Academic Degrees: The Labor Market Returns to Occupational Credentials in the United States",
+ "type": "book"
+}

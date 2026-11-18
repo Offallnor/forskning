@@ -1,0 +1,16 @@
+{
+ "apen_url": "https://academic.oup.com/esr/advance-article-pdf/doi/10.1093/esr/jcaf025/63441187/jcaf025.pdf",
+ "ar": 2025,
+ "doi": "https://doi.org/10.1093/esr/jcaf025",
+ "forfattere": [
+  "Carmel Blank",
+  "Eyal Bar-Haim"
+ ],
+ "id": "W4411058152",
+ "kilde": "European Sociological Review",
+ "lenke": "https://openalex.org/W4411058152",
+ "oversikt": false,
+ "sammendrag": "Abstract In Israel, a high school matriculation diploma is a prerequisite for academic studies. ‘Second chance’ alternatives can bypass this requirement. Although originally designed to offer disadvantaged groups greater access to higher education, the alternatives may also serve as a ‘compensatory advantage’ mechanism for students from affluent backgrounds. This study examines both possibilities. Based on administrative data of children born in Israel from 1978-1983, a logistic regression analysis was performed that predicts the odds of being accepted to higher education studies. Interactions are between students’ background characteristics – parental education, their class and ethnicity – and high school matriculation. Additional analysis predicts future income of high-road and second-chance users from different backgrounds. The findings consistently show that students from advantaged backgrounds utilize second chance mechanisms more often than disadvantaged students do. It appears that second chance alternatives represent an example of an institutionalized system of ‘compensatory advantages’ that benefits students from affluent backgrounds.",
+ "tittel": "When a door closes, who can access the window? Second chance alternatives for higher education as an institutionalized ‘compensatory advantage’ mechanism",
+ "type": "article"
+}

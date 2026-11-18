@@ -1,0 +1,18 @@
+{
+ "ar": 2010,
+ "doi": "https://doi.org/10.1086/656372",
+ "forfattere": [
+  "Laura Abramovsky",
+  "Erich Battistin",
+  "Emla Fitzsimons",
+  "Alissa T. Goodman",
+  "Helen Simpson"
+ ],
+ "id": "W2269959578",
+ "kilde": "Journal of Labor Economics",
+ "lenke": "https://openalex.org/W2269959578",
+ "oversikt": false,
+ "sammendrag": "We use unique workplace and employee-level data to evaluate a major UK government pilot program to increase qualification-based, employer-provided training for low-qualified employees. We evaluate the program’s effect using a difference-in-differences approach. Using data on eligible employers and workers we find noevidence of a statistically significant effect on the take-up of training in the first 3 years of the program. Our results suggest that the program involved a high level of deadweight and that improving the additionality of the subsequent national program is crucial if it is to make a significant contribution toward government targets to increase qualification levels.",
+ "tittel": "Providing Employers with Incentives to Train Low-Skilled Workers: Evidence from the UK Employer Training Pilots",
+ "type": "article"
+}

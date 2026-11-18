@@ -1,0 +1,16 @@
+{
+ "apen_url": "https://publications.iadb.org/publications/english/document/Bridging-Skills-and-Employment-A-Review-of-Advanced-Digital-Skills-Training-Online-Labor-Market-Programs-and-Innovative-Training-Methodologies.pdf",
+ "ar": 2025,
+ "doi": "https://doi.org/10.18235/0013866",
+ "forfattere": [
+  "Richard Freundt",
+  "Rafael Novella",
+  "David Rosas-Shady"
+ ],
+ "id": "W4417400053",
+ "lenke": "https://openalex.org/W4417400053",
+ "oversikt": false,
+ "sammendrag": "Digital transformation is reshaping labor markets, increasing demand for advanced digital skills and creating new employment opportunities. This document provides a thematic review of robust impact evaluations of interventions aimed at improving labor market outcomes in the context of digital transformation. It focuses on three key areas: advanced digital skills programs, programs to improve online labor market outcomes, and emerging methodologies in training delivery. Despite growing policy interest and global investment in these programs, robust causal evidence remains scarce. Available studies suggest that advanced digital skills programs can facilitate transitions into technology-related occupations and, in some settings, increase labor earnings. However, consistent effects on overall employment are not observed, and high costs and selective entry criteria may limit scalability. Similarly, programs designed to improve online labor market outcomes reveal both opportunities and constraints: while many participants gain initial access to digital platforms, success is often short-lived without strong technical skills and support. New training delivery models, including MOOCs and mobile-based or AI-driven approaches, offer potential for scale but face persistent challenges related to low completion rates, accessibility, and cost-effectiveness.",
+ "tittel": "Bridging Skills and Employment: A Review of Advanced Digital Skills Training, Online Labor Market Programs, and Innovative Training Methodologies",
+ "type": "report"
+}

@@ -1,0 +1,17 @@
+{
+ "apen_url": "https://doi.org/10.1080/19345747.2022.2128486",
+ "ar": 2022,
+ "doi": "https://doi.org/10.1080/19345747.2022.2128486",
+ "forfattere": [
+  "Daniel Litwok",
+  "Laura R. Peck",
+  "Douglas Walton"
+ ],
+ "id": "W4309825820",
+ "kilde": "Journal of Research on Educational Effectiveness",
+ "lenke": "https://openalex.org/W4309825820",
+ "oversikt": false,
+ "sammendrag": "This article estimates earnings impacts for those who completed long-term college credentials (degrees or college certificates requiring a year or more of study) and those who did not in an experimental evaluation of a federally-funded sectoral job training program. The experimental evaluation found no overall impact of the program on earnings, but we explore whether impacts vary by the long-term credential receipt. In theory, we expect that program impacts should be larger for those who earn long-term credentials. We test this theory using Analysis of Symmetrically-Predicted Endogenous Subgroups (ASPES)—an approach that leverages the experimental design to create experimentally valid treatment and control subgroups associated with some endogenous activity and estimates impacts for these subgroups (subject to assumptions required for identification). We find weak evidence that those who earned long-term credentials experienced meaningfully larger program impacts than those who did not. We posit that these differences are largely due to engagement with support services.",
+ "tittel": "How Do the Impacts of Healthcare Training Vary with Credential Length? Evidence from the Health Profession Opportunity Grants Program",
+ "type": "article"
+}

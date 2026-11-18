@@ -1,0 +1,22 @@
+{
+ "apen_url": "https://link.springer.com/content/pdf/10.1007/s10645-022-09408-6.pdf",
+ "ar": 2022,
+ "doi": "https://doi.org/10.1007/s10645-022-09408-6",
+ "forfattere": [
+  "Melvin Vooren",
+  "Carla Haelermans",
+  "Wim  N. J. Groot",
+  "H. Maassen van den Brink"
+ ],
+ "hentet": "2026-11-18",
+ "hentet_fra": "https://link.springer.com/content/pdf/10.1007/s10645-022-09408-6.pdf",
+ "hvordan": "pdf",
+ "id": "W4283826113",
+ "kilde": "De Economist",
+ "lenke": "https://openalex.org/W4283826113",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "Abstract The aim of this paper is to evaluate the effects of an active labor market program (ALMP) for higher educated workers in the Netherlands. The one-year program is characterized by six months of full-time IT retraining followed by a six-month internship. We estimate the effects of participating on earnings per month and working days per month. The results show significant lock-in effects during the program, lasting up to five months after program start. After this lock-in period, we find significant positive effects on earnings and working days. These positive effects remain significant until the end of the 36-month evaluation period. A conservative cost–benefit analysis based on the effects on earnings shows a return of 2.53% (95% CI 2.02–3.04%), which is low compared to the returns to education in the Netherlands of around 8%. We conclude that IT retraining has positive effects on the labor market outcomes of the participants yet relatively low returns.",
+ "tittel": "Make IT Work: The Labor Market Effects of Information Technology Retraining in the Netherlands",
+ "type": "article"
+}

@@ -1,0 +1,16 @@
+{
+ "apen_url": "https://doi.org/10.1017/S0144686X21001288",
+ "ar": 2021,
+ "doi": "https://doi.org/10.1017/s0144686x21001288",
+ "forfattere": [
+  "Guillermo Orfao",
+  "Miguel Á. Malo"
+ ],
+ "id": "W3198832166",
+ "kilde": "Ageing and Society",
+ "lenke": "https://openalex.org/W3198832166",
+ "oversikt": false,
+ "sammendrag": "Abstract We present a meta-evaluation of the literature on the impacts of active labour market policies for unemployed people over 50, extracting 82 impacts for analysis. The meta-evaluation includes only impact evaluations that examine both a group of beneficiaries and a control group of comparable non-beneficiaries. On average, we find that active policies have a slightly negative effect (−0.8 percentage points) on the probability of unemployed people over 50 finding a job and that this negative effect disappears 24 months after policy implementation. However, this effect is very different when disaggregated by policy type. Direct job creation policies have a clear negative effect (−3.9 percentage points), and training policies have a positive average effect, either in isolation (2.4 percentage points) or when combined with search assistance or counselling (1.7 percentage points). We also find slight differences by gender, with the effect of active policies being greater for women than for men. These results have important implications, given that the European Commission and the Organisation for Economic Co-operation and Development have made active policies the cornerstone of their efforts to improve the re-employment of older people. Our results support training policies, either in isolation or in combination with search assistance and counselling. The greatest impacts are obtained after 12 months of policy implementation.",
+ "tittel": "Are active labour market policies effective for the older unemployed? A meta-evaluation",
+ "type": "article"
+}

@@ -1,0 +1,20 @@
+{
+ "apen_url": "https://doi.org/10.2139/ssrn.4018568",
+ "ar": 2024,
+ "doi": "https://doi.org/10.1920/wp.ifs.2024.5024",
+ "forfattere": [
+  "Lucas Conwell",
+  "John Finlay",
+  "Trevor C. Williams"
+ ],
+ "hentet": "2026-11-18",
+ "hentet_fra": "https://ifs.org.uk/sites/default/files/2024-10/WP202450-Schooled-by-trade-retraining-and-import-competition.pdf",
+ "hvordan": "pdf",
+ "id": "W4403819903",
+ "lenke": "https://openalex.org/W4403819903",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "International trade creates winners and losers, yet surprisingly little is known about policies that help workers escape declining sectors. We study how government-subsidized retraining in Germany can help workers smooth sectoral shocks. Using administrative data, we show that workers switch sectors and retrain in response to Chinese import competition. We introduce retraining into a dynamic model of labor mobility within a quantitative trade framework, where workers simultaneously choose their sector and whether to retrain; we find retraining lowers the costs of moving between sectors. In counterfactual experiments, retraining compresses the distributional effects of trade shocks while leaving aggregate gains unchanged.",
+ "tittel": "Schooled by trade? Retraining and import competition",
+ "type": "report"
+}

@@ -1,0 +1,21 @@
+{
+ "apen_url": "https://link.springer.com/content/pdf/10.1007/s00181-022-02211-x.pdf",
+ "ar": 2022,
+ "doi": "https://doi.org/10.1007/s00181-022-02211-x",
+ "forfattere": [
+  "Francisco Pedraja Chaparro",
+  "Daniel Santín González",
+  "Rosa Simancas"
+ ],
+ "hentet": "2026-11-18",
+ "hentet_fra": "https://link.springer.com/content/pdf/10.1007/s00181-022-02211-x.pdf",
+ "hvordan": "pdf",
+ "id": "W4212995781",
+ "kilde": "Empirical Economics",
+ "lenke": "https://openalex.org/W4212995781",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "Abstract During the global economic crisis, unemployment rates increased dramatically across Europe, especially among the least educated population groups. The picture in Spain in 2012, with unemployment rates running at over 20% and youth employment close to 45%, was discouraging. In face of this situation, the Spanish autonomous government of Extremadura launched a programme specifically aimed at motivating unemployed individuals without a school degree to return to education and earn the compulsory secondary education diploma. This paper applies a fuzzy regression discontinuity design to evaluate the impact of this conditional cash transfer programme using administrative data. The results show that the programme did not increase the likelihood of earning the lower secondary education diploma. This finding is a caveat emptor for governments considering similar policies, and remarks again the importance of testing innovations before generalization.",
+ "tittel": "Show me the money! The impact of a conditional cash transfer on educational achievement",
+ "type": "article"
+}

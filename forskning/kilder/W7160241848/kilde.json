@@ -1,0 +1,15 @@
+{
+ "apen_url": "https://doi.org/10.1177/14779714261446820",
+ "ar": 2026,
+ "doi": "https://doi.org/10.1177/14779714261446820",
+ "forfattere": [
+  "Jonas Fey"
+ ],
+ "id": "W7160241848",
+ "kilde": "Journal of Adult and Continuing Education",
+ "lenke": "https://openalex.org/W7160241848",
+ "oversikt": false,
+ "sammendrag": "The late 1980s and 1990s marked a transformative period in Germany, characterised by rapid structural change and labour market disruptions in the industrial sector. In this context, continuing vocational education and training (CVET) was widely promoted as a policy tool to support workers in adapting and to mitigate risks of unemployment. Despite these expectations, the effectiveness of CVET in reducing unemployment during this turbulent period remains contested. This study examines the impact of CVET on the risk of unemployment among industrial workers in Germany between 1986 and 1999. Drawing on longitudinal data from the German Socio-Economic Panel, the analysis applies a propensity score matching approach to estimate the Average Treatment Effect on the Treated (persons who participated in CVET). This method helps to account for observable differences between workers who participated in CVET and those who did not. The findings suggest that participation in CVET had no statistically significant effect on reducing future unemployment among industrial workers after the training. These results are consistent with other empirical studies. The findings highlight the limitations of CVET as a short-term labour market policy tool during periods of rapid economic transformation, while underscoring the importance of considering sector-specific dynamics such as technological changes when evaluating training measures.",
+ "tittel": "Navigating Industrial Transformation: The Impact of Continuing Vocational Education and Training on Unemployment Risk in Germany’s Industrial Sector (1986–1999)",
+ "type": "article"
+}

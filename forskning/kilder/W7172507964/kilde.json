@@ -1,0 +1,15 @@
+{
+ "apen_url": "https://www.tandfonline.com/doi/pdf/10.1080/01425692.2026.2709731?needAccess=true",
+ "ar": 2026,
+ "doi": "https://doi.org/10.1080/01425692.2026.2709731",
+ "forfattere": [
+  "Steffen Schindler"
+ ],
+ "id": "W7172507964",
+ "kilde": "British Journal of Sociology of Education",
+ "lenke": "https://openalex.org/W7172507964",
+ "oversikt": false,
+ "sammendrag": "In the German education system, it is common for individuals to pursue higher-level formal qualifications after obtaining their initial school-leaving or vocational degrees. This paper explores how and to what extent educational upgrading throughout the life course influences the relationship between social origin and labour market outcomes at occupational maturity. The analysis uses data from the adult cohort of the German National Educational Panel Study, focusing on a subsample of individuals born in the 1970s, whose earnings are observable at age 40. Decomposition analyses assessing inequalities in earnings and occupational status are conducted using fully multiply imputed data. The findings indicate that educational upgrading accounts for only a minor portion of these inequalities. Upgrading activities prior to labour market entry have a small reinforcing effect on social differences in labour market outcomes, while the initial level of education accounts for a substantial share of these differentials.",
+ "tittel": "Educational upgrading and labour market inequality at occupational maturity by social origin in Germany",
+ "type": "article"
+}

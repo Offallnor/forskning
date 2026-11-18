@@ -1,0 +1,15 @@
+{
+ "ar": 2008,
+ "doi": "https://doi.org/10.1016/s0147-9121(08)28010-6",
+ "forfattere": [
+  "Magnus Lofstrom",
+  "John H. Tyler"
+ ],
+ "id": "W1487097408",
+ "kilde": "Research in labor economics",
+ "lenke": "https://openalex.org/W1487097408",
+ "oversikt": false,
+ "sammendrag": "In this paper, we develop a simple model of the signaling value of the General Educational Development certificate (GED) credential. The model illustrates necessary assumptions for a difference-in-differences estimator that uses a change in the GED passing standard to yield unbiased estimates of the signaling value of the GED for marginal passers. We apply the model to the national 1997 passing standard increase, which affected GED test takers in Texas. We utilize unique data from the Texas Schools Micro Data Panel (TSMP) that contain demographic and GED test score information from the Texas Education Agency linked to pre- and post-test-taking Unemployment Insurance quarterly wage records from the Texas Workforce Commission. Comparing Texas dropouts who acquired a GED before the passing standard was raised in 1997 to dropouts with the same test scores who failed the GED exams after the passing standard hike, we find no evidence of a positive GED signaling effect on earnings. However, we find some evidence suggesting that our finding may be due to the low GED passing threshold that existed in Texas for an extended period.",
+ "tittel": "Modeling the signaling value of the GED with an application to an exogenous passing standard increase in Texas",
+ "type": "book-chapter"
+}

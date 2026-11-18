@@ -1,0 +1,15 @@
+{
+ "apen_url": "https://hal.science/hal-00581976v1/document",
+ "ar": 2007,
+ "doi": "https://doi.org/10.1080/00036840600707233",
+ "forfattere": [
+  "Michael Fertig"
+ ],
+ "id": "W2104316076",
+ "kilde": "Applied Economics",
+ "lenke": "https://openalex.org/W2104316076",
+ "oversikt": false,
+ "sammendrag": "This article investigates whether and to what extent employment policy measures (co-) financed by the European Social Fund in Germany meet their objective. Specifically, it is analysed whether qualification programs for employed workers in the German state of Saxony were effective in terms of employment protection. To this end, a control function approach is implemented which utilizes a unique firm-level dataset. This model explicitly accounts for unobserved heterogeneity between participating and nonparticipating companies by modelling the participation decision process. Our results suggest a positive effect of program participation. However, this positive treatment effect varies considerably across different sub-groups of the treatment as well as the comparison group.",
+ "tittel": "The effectiveness of qualification measures for employed workers – an evaluation study for Saxony",
+ "type": "article"
+}

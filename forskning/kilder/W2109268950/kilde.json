@@ -1,0 +1,16 @@
+{
+ "apen_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/0008-4085.00077",
+ "ar": 2001,
+ "doi": "https://doi.org/10.1111/0008-4085.00077",
+ "forfattere": [
+  "Thomas Lemieux",
+  "David Card"
+ ],
+ "id": "W2109268950",
+ "kilde": "Canadian Journal of Economics/Revue canadienne d économique",
+ "lenke": "https://openalex.org/W2109268950",
+ "oversikt": false,
+ "sammendrag": "Canadian Second World War veterans benefited from an extensive educational program similar to the U.S. G.I. Bill. Because of differences in military enlistment rates, however, a much lower fraction of Quebec men were eligible for these benefits than men from other provinces. Building on this fact, we analyse inter‐cohort patterns of education and earnings for English‐speaking men from Ontario, using French‐speaking men from Quebec as a control group. We find that the instrumental variables estimates of the return to schooling are typically as big or bigger than the corresponding OLS estimates. JEL Classification: J24, I21 Education, revenus, et le ‘G.I. Bill canadien.’ Les anciens combattants canadiens de la deuxième guerre mondiale ont bénéficié d'un programme d'aide aux études similaire au G.I. Bill américain. Relativement peu de Québécois ont cependant pu bénéficier de ce programme en raison de la faible proportion de ces derniers qui ont fait leur service militaire durant cette période. Sur la base de cette observation, nous analysons les différences intergénérationelles dans la scolarisation et les revenus des Ontariens anglophones en se servant des Québécois francophones comme groupe témoin. Nos résultats indiquent que les estimés du taux de rendements de l'éducation obtenus à l'aide de la méthode des variables instrumentales sont comparables sinon plus élévés que ceux obtenus par moindres carrés ordinaires.",
+ "tittel": "Education, earnings, and the ‘Canadian G.I. Bill’",
+ "type": "article"
+}

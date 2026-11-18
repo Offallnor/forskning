@@ -1,0 +1,19 @@
+{
+ "apen_url": "https://doi.org/10.7916/d8sb4c2k",
+ "ar": 2017,
+ "doi": "https://doi.org/10.7916/d8sb4c2k",
+ "forfattere": [
+  "Clive Belfield",
+  "Thomas R. Bailey"
+ ],
+ "hentet": "2026-11-18",
+ "hentet_fra": "https://ccrc.tc.columbia.edu/wp-content/uploads/2017/03/labor-market-returns-sub-baccalaureate-college-review.pdf",
+ "hvordan": "pdf",
+ "id": "W2705969478",
+ "lenke": "https://openalex.org/W2705969478",
+ "merknad": "",
+ "oversikt": true,
+ "sammendrag": "This paper reviews recent evidence on the labor market returns to credit accumulation, certificates, and associate degrees from community colleges. Evidence is collated from estimates of earnings gaps across college students using large-scale, statewide administrative datasets from eight states. Six of these states were partners of the Center for Analysis of Postsecondary Education and Employment (CAPSEE), a research center funded by the Institute of Education Sciences of the U.S. Department of Education. CAPSEE researchers conducted extensive analyses of education and earnings in these states. Findings from these studies affirm a “CAPSEE consensus” with three main results and two key features. For associate degrees, this review affirms that completing an associate degree yields strongly positive, persistent, and consistent earnings gains: studies show that completing an associate degree yields on average approximately $4,640–$7,160 per annum in extra earnings compared to entering college but not completing an award. For certificates, the evidence shows positive but modest returns and that these returns may fade out within a few years post-college. For non-completers, there is evidence that earning more credits is associated with higher earnings. Generally, the results establish two main features. First, increments of college lead to higher earnings, but with returns that are heterogeneous by field of study. Second, the evidence is strongly suggestive that returns to college are robust to macroeconomic trends.",
+ "tittel": "The Labor Market Returns to Sub-Baccalaureate College: A Review",
+ "type": "review"
+}

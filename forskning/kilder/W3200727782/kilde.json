@@ -1,0 +1,14 @@
+{
+ "ar": 2021,
+ "doi": "https://doi.org/10.1017/s0022050721000425",
+ "forfattere": [
+  "Conor Lennon"
+ ],
+ "id": "W3200727782",
+ "kilde": "The Journal of Economic History",
+ "lenke": "https://openalex.org/W3200727782",
+ "oversikt": false,
+ "sammendrag": "The 1944 Servicemen’s Readjustment Act (the “G.I. Bill”) provided returning WWII veterans with educational benefits sufficient to cover tuition, fees, and living expenses at almost any U.S. university or college. While several studies examine subsequent educational attainment and earnings for male veterans, little is known about how the G.I. Bill affected the 330,000 American females who served in WWII. Using data from the 1980 5 percent Census Public-use Microdata Sample, I find that female WWII veteran status is associated with a 19 percentage point increase in the proportion who report any college attendance, a 7.8 percentage point increase in college completion, and earnings that are 19.8 percent greater relative to comparable females who are not veterans. Because service was entirely voluntary for females, I use service eligibility requirements, enlistment records, 1940 Census data, and the G.I. Bill’s retroactive nature to establish a causal relationship among veteran status, educational attainment via the G.I. Bill, and increased earnings. To help separate the effect of the G.I. Bill from the effect of military service itself, and because benefits increased with longer service, I instrument for female veterans’ educational attainment using age at the time of the G.I. Bill’s announcement. My instrumental variables estimates imply that female veterans’ earnings increase by $1,350 (11.6 percent) per year of G.I. Bill-induced education, explaining 73 percent of the overall difference between veteran and non-veteran females’ earnings in 1980.",
+ "tittel": "G.I. Jane Goes to College? Female Educational Attainment, Earnings, and the Servicemen’s Readjustment Act of 1944",
+ "type": "article"
+}

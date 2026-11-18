@@ -1,0 +1,16 @@
+{
+ "apen_url": "https://doi.org/10.3386/w34750",
+ "ar": 2026,
+ "doi": "https://doi.org/10.3386/w34750",
+ "forfattere": [
+  "Susan Carleton Athey",
+  "Emil Palikot"
+ ],
+ "id": "W7125711397",
+ "kilde": "National Bureau of Economic Research",
+ "lenke": "https://openalex.org/W7125711397",
+ "oversikt": false,
+ "sammendrag": "We evaluate two interventions facilitating technology-sector transitions for women in Poland: Mentoring, focused on expanding professional networks, and Challenges, focused on building credible skill signals.Randomizing oversubscribed admissions, we find both programs substantially increase technology employment at twelve months-by 15 percentage points for Mentoring and 11 p.p. for Challenges.The distinct mechanisms through which the programs operate translate to heterogeneous treatment effects across geography, career stage, and baseline credentials.These differential effects create scope for improved allocation: algorithmic targeting across programs outperforms random assignment by 86%and outperforms experts' selection into Mentoring by 11%.",
+ "tittel": "Effective and Scalable Programs to Facilitate Labor Market Transitions for Women in Technology",
+ "type": "report"
+}

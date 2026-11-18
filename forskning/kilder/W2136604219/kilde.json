@@ -1,0 +1,20 @@
+{
+ "apen_url": "https://doi.org/10.3386/w12114",
+ "ar": 2006,
+ "doi": "https://doi.org/10.3386/w12114",
+ "forfattere": [
+  "John H. Tyler",
+  "Jeffrey R. Kling"
+ ],
+ "hentet": "2026-11-18",
+ "hentet_fra": "https://economics.brown.edu/sites/g/files/dprerj726/files/papers/2004-10_paper.pdf",
+ "hvordan": "pdf",
+ "id": "W2136604219",
+ "kilde": "National Bureau of Economic Research",
+ "lenke": "https://openalex.org/W2136604219",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "We estimate the post-release economic effects of participation in prison-based General Educational Development (GED) programs using a panel of earnings records and a rich set of individual information from administrative data in the state of Florida.Fixed effects estimates of the impact of participating in the GED education program show post-release quarterly earnings gains of about 15 percent for program participants relative to observationally similar non-participants.We also show, however, that these earnings gains accrue only to racial/ethnic minority offenders and any GED-related earnings gains for this group seem to fade in the third year after release from prison.Estimates comparing offenders who obtained a GED to those who participated in GED-related prison education programs but left prison without a GED show no systematic evidence of an independent impact of the credential itself on post-release quarterly earnings.",
+ "tittel": "Prison-Based Education and Re-Entry into the Mainstream Labor Market",
+ "type": "report"
+}

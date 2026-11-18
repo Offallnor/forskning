@@ -1,0 +1,16 @@
+{
+ "apen_url": "https://doi.org/10.1016/j.econedurev.2026.102798",
+ "ar": 2026,
+ "doi": "https://doi.org/10.1016/j.econedurev.2026.102798",
+ "forfattere": [
+  "Sade Bonilla",
+  "Daniel Sparks"
+ ],
+ "id": "W4415014960",
+ "kilde": "Economics of Education Review",
+ "lenke": "https://openalex.org/W4415014960",
+ "oversikt": false,
+ "sammendrag": "Tuition-free college programs are gaining momentum as policymakers address rising college costs and workforce readiness. Despite their growing adoption, limited research examines how workforce-focused eligibility criteria impact student outcomes beyond enrollment. This pre-registered study employs two within-study quasi-experimental designs — difference-in-discontinuity and difference-in-differences — to estimate the causal impact of Virginia’s Get a Skill, Get a Job, Get Ahead (G3) initiative on financial aid and academic outcomes for community college students. Launched as a pandemic recovery effort, G3 aimed to reverse enrollment declines and address labor shortages by leveraging simplified ‘free college’ messaging and offering last-dollar scholarships and additional advising support for students in high-demand workforce programs. We find that G3 significantly increased FAFSA completion, total financial aid, and grant aid, with gains concentrated among middle-income students. The program also reduced student borrowing, consistent with crowd-out by grant aid. Certificate completion rose by 5.1 to 6.6 percentage points, and higher enrollment translated these gains into a net increase in the number of students earning certificates in targeted fields. These findings suggest workforce-targeted tuition-free programs can expand financial aid access, increase the supply of certified workers in priority fields, and better align higher education with workforce demands.",
+ "tittel": "Get a Skill, Get a Job, Get Ahead? Evaluating the effects of Virginia’s workforce-targeted free college program",
+ "type": "article"
+}

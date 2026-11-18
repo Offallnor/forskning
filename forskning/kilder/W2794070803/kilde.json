@@ -1,0 +1,19 @@
+{
+ "apen_url": "https://www.tandfonline.com/doi/pdf/10.1080/09645292.2018.1440532?needAccess=true",
+ "ar": 2018,
+ "doi": "https://doi.org/10.1080/09645292.2018.1440532",
+ "forfattere": [
+  "Sylvi Rzepka"
+ ],
+ "hentet": "2026-11-18",
+ "hentet_fra": "https://www.econstor.eu/bitstream/10419/180688/1/Labor%20market%20returns%20to%20college%20education%20with%20vocational%20qualifications.pdf",
+ "hvordan": "pdf",
+ "id": "W2794070803",
+ "kilde": "Education Economics",
+ "lenke": "https://openalex.org/W2794070803",
+ "merknad": "ÅPEN VERSJON (preprint eller arbeidsnotat), merkes i svaret",
+ "oversikt": false,
+ "sammendrag": "In this paper, I assess labor market returns of a substantial skill upgrade: college enrollment of the vocationally trained, non-traditional students who do not have the formal entry requirement. Using propensity-score-adjusted regressions and the National Educational Panel Study, I find that these enrollees face high opportunity costs as they forgo earnings during the enrollment period. In the long-run, enrollees tend to obtain higher cumulative earnings than those who continue with a vocational-training-based career, but, there is a large degree of uncertainty. On the positive side, enrollees attain jobs with a higher reputation in society, hinting at sizable non-monetary returns.",
+ "tittel": "Labor market returns to college education with vocational qualifications",
+ "type": "article"
+}

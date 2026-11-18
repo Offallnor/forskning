@@ -1,0 +1,15 @@
+{
+ "apen_url": "https://academic.oup.com/esr/article-pdf/16/1/43/1385454/160043.pdf",
+ "ar": 2000,
+ "doi": "https://doi.org/10.1093/esr/16.1.43",
+ "forfattere": [
+  "J. Li"
+ ],
+ "id": "W1993214516",
+ "kilde": "European Sociological Review",
+ "lenke": "https://openalex.org/W1993214516",
+ "oversikt": false,
+ "sammendrag": "Further education attainment is an important part of the work life, but its impact on occupational achievement is far less well understood than basic education. In this study, we examine the influence of further education on occupational upward and downward mobility and gender differences in the influence. Further, we address selection bias involved in this process. The sample for the study includes both men and women from the 1945-51 and 1959-61 birth cohorts in the German-speaking part of Switzerland. We employ Cox's proportional hazards model to estimate the effects of three different types of further education on the rate of upward and downward mobility, independent of basic education, work-related individual attributes, and labour-market factors. The findings show that further education aimed at a formal credential, such as advanced training and retraining, increases chances for upward mobility. We found that the association between credential-oriented further education and upward mobility is stronger for women than for men. It reflects greater selectivity among female participants. We also found that further education participation has only a moderate negative effect on downward mobility. Basic education remains an effective measure against downward mobility.",
+ "tittel": "The influence of further education on occupational mobility in Switzerland",
+ "type": "article"
+}

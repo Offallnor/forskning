@@ -1,0 +1,21 @@
+{
+ "apen_url": "http://eprints.lse.ac.uk/28282/1/ceedp110.pdf",
+ "ar": 2010,
+ "forfattere": [
+  "Jo Blanden",
+  "Franz Buscha",
+  "Patrick Sturgis",
+  "Peter James Urwin"
+ ],
+ "hentet": "2026-11-18",
+ "hentet_fra": "https://cep.lse.ac.uk/pubs/download/cee/ceedp110.pdf",
+ "hvordan": "pdf",
+ "id": "W1515194365",
+ "kilde": "Surrey Research Insight Open Access (The University of Surrey)",
+ "lenke": "https://openalex.org/W1515194365",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "This paper investigates the returns to lifelong learning, which is interpreted as the attainment of qualifications following entry into the labour market. For a number of reasons our analysis of the British Household Panel Survey (BHPS) represents an important addition to the existing evidence base. We allow for financial and non-financial returns to lifelong learning by using as dependent variables both (i) hourly earnings and (ii) CAMSIS score. A fixed effects specification counters the potential biases that arise from unobserved individual heterogeneity and the inclusion of lags allows estimation of how the returns to lifelong learning evolve over a ten year period after the qualification is obtained. We find evidence of earnings and occupation status returns using a broad categorisation of lifelong learning for both men and women, but more variability in returns when disaggregated NVQ-equivalent categories of qualification are considered. Our findings are broadly in line with existing evidence within the UK, which is mostly based on the analysis of cohort studies. 0f particular interest is the finding that returns to women materialise much sooner after the attainment of a qualification, than is the case for their male counterparts.",
+ "tittel": "Measuring the returns to lifelong learning",
+ "type": "other"
+}

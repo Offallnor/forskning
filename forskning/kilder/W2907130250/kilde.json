@@ -1,0 +1,17 @@
+{
+ "apen_url": "https://doi.org/10.3386/w25408",
+ "ar": 2018,
+ "doi": "https://doi.org/10.3386/w25408",
+ "forfattere": [
+  "Jorge Rodríguez",
+  "Fernando Saltiel",
+  "Sergio Urzúa"
+ ],
+ "id": "W2907130250",
+ "kilde": "National Bureau of Economic Research",
+ "lenke": "https://openalex.org/W2907130250",
+ "oversikt": false,
+ "sammendrag": "This paper estimates the dynamic returns to job training.We posit a dynamic-discrete choice model of sequential training participation, where choices and earnings depend on observed and unobserved characteristics.We define treatment effects, including policy relevant parameters, and link them to continuation values.The empirical analysis is carried out using data combining job training records, matched employee-employer information, and pre-labor market ability measures from Chile.We document small positive average returns, large unobserved heterogeneity in responses, and dynamic substitutability of training investments.Our policy relevant treatment effects vary across dynamic response types, highlighting the relevance of our framework.",
+ "tittel": "Dynamic Treatment Effects of Job Training",
+ "type": "report"
+}

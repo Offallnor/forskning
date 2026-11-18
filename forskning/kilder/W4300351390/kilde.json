@@ -1,0 +1,20 @@
+{
+ "apen_url": "https://www.econstor.eu/bitstream/10419/130564/1/85713874X.pdf",
+ "ar": 2016,
+ "doi": "https://doi.org/10.17169/refubium-23367",
+ "forfattere": [
+  "Katja Görlitz",
+  "Marcus Tamm"
+ ],
+ "hentet": "2026-11-18",
+ "hentet_fra": "https://docs.iza.org/dp9911.pdf",
+ "hvordan": "pdf",
+ "id": "W4300351390",
+ "kilde": "RePEc: Research Papers in Economics",
+ "lenke": "https://openalex.org/W4300351390",
+ "merknad": "ÅPEN VERSJON (preprint eller arbeidsnotat), merkes i svaret",
+ "oversikt": false,
+ "sammendrag": "This study analyzes whether providing information about a newly introduced training voucher that reduces individual training costs by half has the potential to increase employees’ training participation. More than one year after the introduction of the voucher, only 25 percent of the eligible employees knew that the voucher exists. The analysis is based on a randomized field experiment that provides information to eligible employees about the existence and the conditions of the training voucher. The results indicate that the intervention significantly increased treated individuals’ knowledge of the program, but had no effect on voucher take-up or participation in training activities.",
+ "tittel": "Information, Financial Aid and Training Participation: Evidence from a Randomized Field Experiment",
+ "type": "preprint"
+}

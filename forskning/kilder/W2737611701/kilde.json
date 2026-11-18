@@ -1,0 +1,19 @@
+{
+ "apen_url": "https://doi.org/10.7916/d8ng506b",
+ "ar": 2017,
+ "doi": "https://doi.org/10.7916/d8ng506b",
+ "forfattere": [
+  "Verónica Minaya",
+  "Judith Scott-Clayton"
+ ],
+ "hentet": "2026-11-18",
+ "hentet_fra": "https://ccrc.tc.columbia.edu/wp-content/uploads/2017/04/labor-market-trajectories-community-college-graduates-R1.pdf",
+ "hvordan": "pdf",
+ "id": "W2737611701",
+ "lenke": "https://openalex.org/W2737611701",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "Over the past few years, a multitude of studies have examined the labor market returns to community college credentials, taking advantage of new administrative datasets that link college transcripts to quarterly earnings records and allow for comparisons of students’ earnings before and after enrollment. These studies, however, typically follow students for only four to six years after initial entry, meaning they may only be observed for a year or two after graduation. Graduates’ early labor market experiences may not fully capture the returns to completion, and may particularly distort comparisons of longer versus shorter duration credential programs. This paper extends the literature by examining returns to terminal associate degrees and certificates up to 11 years after students initially entered a community college in Ohio. The authors use an individual fixed-effects approach that controls for students’ pre-enrollment earnings and allows the returns to credential completion to vary over time. Additionally, they examine how the returns to credential completion shift as students enter and exit the Great Recession, as well as how credentials affect other labor market outcomes such as employment stability and the likelihood of earning a “living wage.” The authors’ results confirm prior findings regarding the positive early returns to associate degrees and long-term certificates. However, the value of an associate degree grows substantially after graduation while the returns to a long-term certificate remain flat. Returns to associate degrees are notably higher during the recession (the patterns for certificates are more muted and vary by gender). Finally, the authors find that while both associate degrees and long-term certificates increase the likelihood and stability of employment, associate degrees lead to much higher paying jobs and a greater likelihood of earning a living wage. The authors conclude with a discussion of policy implications.",
+ "tittel": "Labor Market Trajectories for Community College Graduates: New Evidence Spanning the Great Recession",
+ "type": "article"
+}

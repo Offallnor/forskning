@@ -1,0 +1,21 @@
+{
+ "apen_url": "https://doi.org/10.2139/ssrn.4810660",
+ "ar": 2023,
+ "doi": "https://doi.org/10.2139/ssrn.4810660",
+ "forfattere": [
+  "Maria Antonella Mancino",
+  "Leonardo Fabio Morales",
+  "Diego F. Salazar"
+ ],
+ "hentet": "2026-11-18",
+ "hentet_fra": "https://www.econstor.eu/bitstream/10419/294853/1/1888251522.pdf",
+ "hvordan": "pdf",
+ "id": "W4390062059",
+ "kilde": "SSRN Electronic Journal",
+ "lenke": "https://openalex.org/W4390062059",
+ "merknad": "ÅPEN VERSJON (preprint eller arbeidsnotat), merkes i svaret",
+ "oversikt": false,
+ "sammendrag": "We evaluate the returns to signaling occupation-specific skills using unique administrative data from a nationwide certification program in Colombia. The program certifies skills and issues three certificates: basic, intermediate, and advanced. We use regression discontinuity methods to compare workers’ earnings around certificate assignment thresholds. Signaling advanced occupation-specific skills yields significant returns: 9.7% on average within two years of certification. Instead, we find no effects from signaling basic or intermediate occupation-specific skills. Two mechanisms drive our findings. First, the increase in earnings for salaried workers comes from promotions within a firm. Second, the certificate facilitates transitions from self-employment to salaried work.",
+ "tittel": "Signaling Worker Quality in a Developing Country: Lessons from a Certification Program",
+ "type": "preprint"
+}

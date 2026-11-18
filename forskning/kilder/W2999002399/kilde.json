@@ -1,0 +1,21 @@
+{
+ "apen_url": "https://doi.org/10.3386/w26649",
+ "ar": 2020,
+ "doi": "https://doi.org/10.3386/w26649",
+ "forfattere": [
+  "Justin C. Ortagus",
+  "Melvin Tanner",
+  "Isaac McFarlin"
+ ],
+ "hentet": "2026-11-18",
+ "hentet_fra": "http://www.nber.org/papers/w26649.pdf",
+ "hvordan": "pdf",
+ "id": "W2999002399",
+ "kilde": "National Bureau of Economic Research",
+ "lenke": "https://openalex.org/W2999002399",
+ "merknad": "ÅPEN VERSJON (preprint eller arbeidsnotat), merkes i svaret",
+ "oversikt": false,
+ "sammendrag": "Most students who begin at a community college leave without earning a degree.Given the growing emphasis on student success, many colleges have implemented re-enrollment campaigns designed to foster re-engagement and degree completion among former students.However, there is a lack of causal evidence on their effectiveness.We implement a text message-based reenrollment campaign in partnership with several Florida community colleges.Former students who were previously successful academically are randomly assigned to one of two treatment groups that either receives information to simplify the re-enrollment process or receives both information and a one-course tuition waiver.When comparing outcomes of former students who received information on re-enrollment to members in the control group, we find that providing information that simplifies the re-enrollment process has a small, statistically insignificant effect on re-enrolling.In contrast, offering both information and a one-course tuition waiver to recent dropouts significantly increases the likelihood of re-enrollment by 1.5 percentage points (21 percent) and full-time re-enrollment by 0.6 percentage points (22 percent).The effects are concentrated among former students who have accumulated the most credits and those with lower grade point averages.This study highlights the importance of targeted interventions that address informational and financial barriers facing former students.",
+ "tittel": "Can Re-Enrollment Campaigns Help Dropouts Return to College? Evidence from Florida Community Colleges",
+ "type": "report"
+}

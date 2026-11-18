@@ -1,0 +1,21 @@
+{
+ "apen_url": "https://dash.harvard.edu/bitstream/1/37093804/1/w22754.pdf",
+ "ar": 2018,
+ "doi": "https://doi.org/10.1086/698895",
+ "forfattere": [
+  "Joshua Goodman",
+  "Julia E. Melkers",
+  "Amanda Pallais"
+ ],
+ "hentet": "2026-11-18",
+ "hentet_fra": "http://www.nber.org/papers/w22754.pdf",
+ "hvordan": "pdf",
+ "id": "W1600177788",
+ "kilde": "Journal of Labor Economics",
+ "lenke": "https://openalex.org/W1600177788",
+ "merknad": "ÅPEN VERSJON (preprint eller arbeidsnotat), merkes i svaret",
+ "oversikt": false,
+ "sammendrag": "Most research on online education compares student performance across online and in-person formats. We provide the first evidence that online education affects the number of people pursuing education by studying Georgia Tech’s Online MS in Computer Science, the earliest model offering a highly ranked degree at low cost. A regression discontinuity in admission shows that program access substantially increases overall educational enrollment. By satisfying large, previously unmet demand for midcareer training, this program will boost annual production of American computer science master’s degrees by at least 7%. Online options may open opportunities for populations who would not otherwise pursue education.",
+ "tittel": "Can Online Delivery Increase Access to Education?",
+ "type": "article"
+}

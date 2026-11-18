@@ -1,0 +1,20 @@
+{
+ "apen_url": "https://www.irrodl.org/index.php/irrodl/article/download/2974/4409",
+ "ar": 2017,
+ "doi": "https://doi.org/10.19173/irrodl.v18i6.2974",
+ "forfattere": [
+  "Juan-Francisco Martínez-Cerdá",
+  "Joan Torrent‐Sellens"
+ ],
+ "hentet": "2026-11-18",
+ "hentet_fra": "https://www.irrodl.org/index.php/irrodl/article/download/2974/4409",
+ "hvordan": "pdf",
+ "id": "W2760734396",
+ "kilde": "The International Review of Research in Open and Distributed Learning",
+ "lenke": "https://openalex.org/W2760734396",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "In recent decades, international organizations have developed initiatives that incorporate lifelong learning as a tool to increase the employability of citizens. In this context, the goal of this research is to test the influence of formal e-learning on estimating employment status. The research made use of a sample of 595 citizens in 2007 and 1,742 citizens in 2011, using microdata from Eurostat's Adult Education Survey (AES) implemented by the Spanish Statistical Office [Instituto Nacional de Estadística] (INE) in Spain. Controlling for socio-demographics and formal education-level information, multiple binary logistic and ordinal regression models on formal education activities are used to check the separate effects of independent variables and demonstrate that Spanish people who have done formal lifelong e-learning activities are more likely to have an employment contract: i) in 2007, before the start of the economic crisis, for all individuals; ii) in 2011, during the economic crisis, for all individuals; iii) in 2011, for individuals with any level of computer literacy; iv) in 2011, for individuals whose highest education level is primary, secondary, or post-secondary non-tertiary; and v) in 2011, for individuals having more stable employment contracts, understood as a combination of duration (temporary, permanent), and working hours (part-time, full-time). Consequently, after inferential judgements based on the empirical results, it is shown that one of the most important factors for estimating employability in times of economic crisis has to do with lifelong e-learning. Moreover, formal e-learning activities can be a strategy for obtaining better job stability.",
+ "tittel": "Formal Lifelong E-Learning for Employability and Job Stability During Turbulent Times in Spain",
+ "type": "article"
+}

@@ -1,0 +1,26 @@
+{
+ "apen_url": "https://osf.io/thg23/download",
+ "ar": 2021,
+ "doi": "https://doi.org/10.31219/osf.io/thg23",
+ "forfattere": [
+  "Mintaka Angell",
+  "Samantha Gold",
+  "Justine Hastings",
+  "Mark Howison",
+  "Scott Jensen",
+  "Niall Keleher",
+  "Daniel Molitor",
+  "Amelia Roberts"
+ ],
+ "hentet": "2026-11-18",
+ "hentet_fra": "https://osf.io/thg23/download",
+ "hvordan": "pdf",
+ "id": "W3206318683",
+ "kilde": "OSF Preprints (OSF Preprints)",
+ "lenke": "https://openalex.org/W3206318683",
+ "merknad": "ÅPEN VERSJON (preprint eller arbeidsnotat), merkes i svaret",
+ "oversikt": false,
+ "sammendrag": "The mismatch between the skills that employers seek and the skills that workers possess will increase substantially as demand for technically skilled workers accelerates. Skill mismatches disproportionately affect low-income workers and those within industries where relative demand growth for technical skills is strongest. As a result, much emphasis is placed on reskilling workers to ease transitions into new careers. However, utilization of training programs may be sub-optimal if workers are uncertain about the returns to their investment in training. While the U.S. spends billions of dollars annually on reskilling programs and unemployment insurance, there are few measures of program effectiveness that workers or government can use to guide training investment and ensure valuable reskilling outcomes. We demonstrate a causal machine learning method for estimating the value-added returns to training programs in Rhode Island, where enrollment increases future quarterly earnings by $605 on average, ranging from -$1,570 to $3,470 for individual programs. In a nationwide survey (N=2,014), workers prefer information on the value-added returns to earnings following training enrollment, establishing the importance of our estimates for guiding training decisions. For every 10% increase in expected earnings, workers are 17.4% more likely to express interest in training. State and local governments can provide this preferred information on value-added returns using our method and existing administrative data.",
+ "tittel": "Estimating value-added returns to labor training programs with causal machine learning",
+ "type": "preprint"
+}

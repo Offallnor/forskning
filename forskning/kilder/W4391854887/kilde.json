@@ -1,0 +1,16 @@
+{
+ "apen_url": "https://doi.org/10.3386/w32122",
+ "ar": 2024,
+ "doi": "https://doi.org/10.3386/w32122",
+ "forfattere": [
+  "Lesley Turner",
+  "Oded Gurantz"
+ ],
+ "id": "W4391854887",
+ "kilde": "National Bureau of Economic Research",
+ "lenke": "https://openalex.org/W4391854887",
+ "oversikt": false,
+ "sammendrag": "College attendance has increased significantly over the last few decades, but dropout rates remain high, with fewer than half of all adults ultimately obtaining a postsecondary credential.This project investigates whether one-on-one college coaching improves college attendance and completion outcomes for former low-and middle-income income state aid recipients who attended college but left prior to earning a degree.We conducted a randomized control trial with approximately 8,000 former students in their early-to mid-20s.Half of participants assigned to the treatment group were offered the opportunity to receive coaching services from InsideTrack, with all communication done remotely via phone or video.Intent-to-treat analyses based on assignment to coaching shows no impacts on college enrollment and we can rule out effects larger than a two-percentage point (5%) increase in subsequent Fall enrollment.",
+ "tittel": "Experimental Estimates of College Coaching on Postsecondary Re-enrollment",
+ "type": "report"
+}

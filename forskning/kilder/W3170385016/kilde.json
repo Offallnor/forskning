@@ -1,0 +1,19 @@
+{
+ "apen_url": "https://koara.lib.keio.ac.jp/xoonips/modules/xoonips/download.php?koara_id=AA00260481-20200000-0039",
+ "ar": 2020,
+ "forfattere": [
+  "智子 岸",
+  "繁樹 鹿野"
+ ],
+ "hentet": "2026-11-18",
+ "hentet_fra": "https://koara.lib.keio.ac.jp/xoonips/modules/xoonips/download.php?koara_id=AA00260481-20200000-0039",
+ "hvordan": "pdf",
+ "id": "W3170385016",
+ "kilde": "Keio business review",
+ "lenke": "https://openalex.org/W3170385016",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "This study compares the effects of vocational education and training (VET) on employment, employment status, and wages in Japan and Australia, by applying a differencein-differences analysis to the data obtained from the Keio Household Panel Survey (KHPS) in Japan and the Household, Income and Labour Dynamics in Australia (HILDA) Survey. Vocational education effects were observed mainly for men in the KHPS and women in the HILDA Survey. For the HILDA respondents, the VET effects on employment and wages were more significant for those with a low academic background, while for the KHPS respondents, the reverse applied.",
+ "tittel": "The employment outcomes of vocational education and training in Australia and Japan",
+ "type": "article"
+}

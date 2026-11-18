@@ -1,0 +1,17 @@
+{
+ "apen_url": "https://doi.org/10.1016/j.jdeveco.2024.103285",
+ "ar": 2024,
+ "doi": "https://doi.org/10.1016/j.jdeveco.2024.103285",
+ "forfattere": [
+  "Rafael Novella",
+  "David Rosas-Shady",
+  "Richard Freund"
+ ],
+ "id": "W4393089981",
+ "kilde": "Journal of Development Economics",
+ "lenke": "https://openalex.org/W4393089981",
+ "oversikt": false,
+ "sammendrag": "Massive open online courses (MOOCs) are frequently viewed as a tool for democratizing education and job training. However, their effectiveness is largely untested. We report on the first randomized evaluation of a job training program offering cost-free access to curated, short Coursera MOOCs and certificates. We find low course completion rates (10%), with males and wealthier individuals more likely to complete a course. Personalized reminders did not increase treatment take-up over a simple, standardized email reminder. Treatment has no significant effect on labour market outcomes roughly two years after the program. However, we find marginally significant evidence that treatment increases post-secondary education enrolment by 11%. Evidence on mechanisms suggests that this may be operating partially through the program motivating individuals who lacked sufficient skills to pursue further specialization.",
+ "tittel": "Is online job training for all? Experimental evidence on the effects of a Coursera program in Costa Rica",
+ "type": "article"
+}

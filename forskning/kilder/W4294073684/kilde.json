@@ -1,0 +1,19 @@
+{
+ "apen_url": "https://www.sciencedirect.com/science/article/pii/S0272775722000796/pdf",
+ "ar": 2022,
+ "doi": "https://doi.org/10.1016/j.econedurev.2022.102306",
+ "forfattere": [
+  "Anders Stenberg"
+ ],
+ "hentet": "2026-11-18",
+ "hentet_fra": "http://www.diva-portal.org/smash/get/diva2:1634073/FULLTEXT02.pdf",
+ "hvordan": "pdf",
+ "id": "W4294073684",
+ "kilde": "Economics of Education Review",
+ "lenke": "https://openalex.org/W4294073684",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "Evaluations of adults in formal education (AE) are typically based on earnings measured 5–10 years after program enrollment. This paper uses propensity score matching to estimate returns up to 24 years after enrollment, and explore results for 15 cohorts of AE enrollees in Sweden 1994–2008 with at least a 10-year follow-up period. The results indicate substantially higher payoffs in absolute terms after the maximum length of follow-up compared with after 10 years. There is weak support that multiplier effects increase the percentage returns to AE over time, regardless of gender or whether the level of AE is college or high school.",
+ "tittel": "Does formal education for adults yield long-term multiplier effects or human capital depreciation?",
+ "type": "article"
+}

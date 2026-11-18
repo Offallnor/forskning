@@ -1,0 +1,16 @@
+{
+ "apen_url": "http://melbourneinstitute.unimelb.edu.au/downloads/working_paper_series/wp2010n01.pdf",
+ "ar": 2010,
+ "doi": "https://doi.org/10.1111/j.1467-8462.2010.00609.x",
+ "forfattere": [
+  "Wang‐Sheng Lee",
+  "Michael Bernard Coelli"
+ ],
+ "id": "W2155512342",
+ "kilde": "Australian Economic Review",
+ "lenke": "https://openalex.org/W2155512342",
+ "oversikt": false,
+ "sammendrag": "Abstract We provide estimates of the effects of completing a Vocational Education and Training (VET) qualification on individual labour market outcomes, particularly on the probability of employment and on earnings. Estimates are provided for 1997, 2001 and 2005. The estimation methodology is based on matched comparisons of persons at each level of VET qualification among Year 12 completers and non‐completers. We find that among Year 12 completers, there is little benefit from obtaining certificate level qualifications, but there are positive employment and earnings outcomes associated with obtaining diploma level qualifications. Among persons who did not complete Year 12, however, there are benefits from obtaining any kind of VET qualification, including the lower level Certificate I and II qualifications.",
+ "tittel": "The Labour Market Effects of Vocational Education and Training in Australia",
+ "type": "article"
+}

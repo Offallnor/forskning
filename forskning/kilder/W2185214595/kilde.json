@@ -1,0 +1,12 @@
+{
+ "ar": 2003,
+ "forfattere": [
+  "Yona Rubinstein Z"
+ ],
+ "id": "W2185214595",
+ "lenke": "https://openalex.org/W2185214595",
+ "oversikt": false,
+ "sammendrag": "Test scores are often employed to control for unobserved heterogeneity. Using a simple model in which the test score is the product of abilities and short-run efforts we show that test scores obtained under different payoffs donotreflect the same composition of abilities and therefore should not serve as controllers for unobserved skills. Using the Current Population Survey (March supplements) for the years 1988 through 1995 this paper shows that the difference-in-difference estimator, based on inter-state variation in GED passing standards, overstates the effect a GED diploma on the labor market outcomes of high school dropouts. Our findings suggest that results by Tyler, Murnane and Willet may reflect differences between states not taken into account by the Differences-in-Differences rather than GED treatment effect.",
+ "tittel": "The Use of Inter-States Variation in GED Passing Standards for estimating the Effect of a GED Degree on Labor Market Outcomes of High School Dropouts -A Critique",
+ "type": "article"
+}

@@ -1,0 +1,20 @@
+{
+ "apen_url": "https://papers.ssrn.com/sol3/Delivery.cfm?abstractid=246470",
+ "ar": 2004,
+ "doi": "https://doi.org/10.1086/381257",
+ "forfattere": [
+  "Edwin Leuven",
+  "Hessel Oosterbeek"
+ ],
+ "hentet": "2026-11-18",
+ "hentet_fra": "https://econwpa.ub.uni-muenchen.de/econ-wp/lab/papers/0205/0205001.pdf",
+ "hvordan": "pdf",
+ "id": "W1558948530",
+ "kilde": "Journal of Labor Economics",
+ "lenke": "https://openalex.org/W1558948530",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "Dutch employers can claim an extra tax deduction when they train employees older than age 40. This discontinuity in a firm’s training cost is exploited to identify the tax deduction's effects on training participation and of training participation on wages. The results show that the training rate of workers just above age 40 is 15%–20% higher than that of workers just below age 40. This difference mainly results from the postponement of training and is not a stimulating effect of the measure. The two‐stage least squares estimate of the wage effect of training is not statistically different from zero.",
+ "tittel": "Evaluating the Effect of Tax Deductions on Training",
+ "type": "article"
+}

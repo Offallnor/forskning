@@ -1,0 +1,19 @@
+{
+ "ar": 2002,
+ "doi": "https://doi.org/10.1086/342012",
+ "forfattere": [
+  "John Bound",
+  "Sarah Turner"
+ ],
+ "hentet": "2026-11-18",
+ "hentet_fra": "http://www.nber.org/papers/w7452.pdf",
+ "hvordan": "pdf",
+ "id": "W3124577441",
+ "kilde": "Journal of Labor Economics",
+ "lenke": "https://openalex.org/W3124577441",
+ "merknad": "ÅPEN VERSJON (preprint eller arbeidsnotat), merkes i svaret",
+ "oversikt": false,
+ "sammendrag": "The flood of veterans enrolling in college at the end of World War II contributed to widespread rhetoric that the G.I. Bill brought about the “democratization” of American higher education. Whether military service, combined with educational benefits, led World War II veterans to increase their investments in college has received little research attention. Our estimation strategy focuses on between‐cohort differences in military service, and we use census data to compare the collegiate attainment of veterans and nonveterans. The net effect of military service and G.I. benefits was substantial gains in the collegiate attainment of World War II veterans.",
+ "tittel": "Going to War and Going to College: Did World War II and the G.I. Bill Increase Educational Attainment for Returning Veterans?",
+ "type": "article"
+}

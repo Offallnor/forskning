@@ -1,0 +1,22 @@
+{
+ "apen_url": "http://www.nber.org/papers/w30665.pdf",
+ "ar": 2022,
+ "doi": "https://doi.org/10.3386/w30665",
+ "forfattere": [
+  "Andrew Barr",
+  "Kelli Bird",
+  "Benjamin Castleman",
+  "William Skimmyhorn"
+ ],
+ "hentet": "2026-11-18",
+ "hentet_fra": "http://www.nber.org/papers/w30665.pdf",
+ "hvordan": "pdf",
+ "id": "W4309504983",
+ "kilde": "National Bureau of Economic Research",
+ "lenke": "https://openalex.org/W4309504983",
+ "merknad": "ÅPEN VERSJON (preprint eller arbeidsnotat), merkes i svaret",
+ "oversikt": false,
+ "sammendrag": "Lack of information and advising prior to college matriculation may contribute to poor postsecondary outcomes among non-traditional students.We conducted a large-scale, multi-arm field experiment with the U.S. Army to investigate whether a package of research-based personalized information and access to advising affects postsecondary choices and attainment among a large non-traditional adult population.We find no impact of the intervention on whether veterans enroll in college, on the quality of their college enrollment, or on their persistence in college.Our results suggest that influencing non-traditional populations' educational decisions and outcomes will require substantially more intensive programs.",
+ "tittel": "Can Information and Advising Affect Postsecondary Participation and Attainment for Non-Traditional Students? Evidence from a Large-Scale Experiment with the U.S. Army",
+ "type": "report"
+}

@@ -1,0 +1,16 @@
+{
+ "ar": 2013,
+ "doi": "https://doi.org/10.7208/chicago/9780226100128.003.0005",
+ "forfattere": [
+  "James J. Heckman",
+  "John Eric Humphries",
+  "Tim Kautz"
+ ],
+ "id": "W2490248604",
+ "kilde": "University of Chicago Press eBooks",
+ "lenke": "https://openalex.org/W2490248604",
+ "oversikt": false,
+ "sammendrag": "Abstract This chapter summarizes and extends the literature on the effects of GED certification. It estimates the social and economic benefits of GED certification for numerous adult outcomes using a variety of major data sets and empirical specifications. After controlling for their higher cognitive ability, male GED recipients are nearly indistinguishable from other male dropouts with regard to labor market outcomes including annual earnings, hourly wages, employment, and hours worked. Female GED recipients have higher annual earnings than other dropouts because they are more likely to be employed, not because they earn higher hourly wages. Our analysis shows that female GED recipients are more likely to participate in the labor force compared to other dropouts, but are not more likely to be employed if they do participate in the labor force. This finding is consistent with the interpretation that women who do not plan to work in the future have no incentive to earn a GED. The weight of the evidence supports the interpretation of the estimated GED effect for women as a selection effect. We find little evidence that the economic benefits to the GED increase with work experience. GED recipients and dropouts have very similar hourly wage profiles.",
+ "tittel": "The Economic and Social Benefits of GED Certification",
+ "type": "book-chapter"
+}
