@@ -1,0 +1,555 @@
+0199387d80ee-b6eec5a7-03f4-4478-a070-7d221739170c  # 1, NO, grein 1,2,4, SSB-rapport om utdanningsløpene til fødselskullene 1975, 1985 og 1995: endring i utdanningsløp og valg over tid; sammendraget er bare problemstillingen
+0198cc65c434-999651cd-c9bb-4e13-be49-c3466545801c  # 5, NO, grein 3, Y-veien ved Høgskolen i Narvik (elektro/elkraft): opptak med fagbrev til ingeniørutdanning; omtaler at Telemark-studentene gjorde det bedre enn ordinære studenter
+0198cc8e9788-c133c93a-ac38-4dce-bd0c-88e2d044cde8  # 1, NO, grein 4, evaluering av Kvalitetsreformen, frafall og studiestabilitet; bare tittel; samme materiale som 01993e050ed3-3a8de45b-78b4-441e-8b4c-6f872311f667
+01993e050ed3-3a8de45b-78b4-441e-8b4c-6f872311f667  # 1, NO, grein 4, frafall og studiestabilitet før og etter Kvalitetsreformen, registerdata for begynnerkullene 1999 og 2003
+0198cc482710-1c1761ac-52cd-4f44-af55-5496d87335c7  # 3, NO, grein 5, universitetsbachelorer et halvt år etter eksamen (Kandidatundersøkelsen 2007): arbeid eller videre utdanning; tvil: 4
+KU-4b0877d0-ca5b-47a3-a71d-1ff31a2b7fb6  # 1, NO, grein 4, samme rapport om frafall og studiestabilitet (registerdata, kullene 1999 og 2003) i Kudos; samme materiale som 01993e050ed3-3a8de45b-78b4-441e-8b4c-6f872311f667
+LI-t62ttvdsrs4f1rh3  # 1, SE oversikt, grein 5, kartlegging og kunnskapsoversikt om unge som verken arbeider eller studerer; bare tittel; tvil: 4
+W2955960226  # 1, NO oversikt, grein 2,4, systematisk gjennomgang 1980–2017 av forskning om etniske ulikheter i deltakelse, prestasjoner og oppnådd utdanning, mest populasjonsregistre
+W3121289800  # 1, NO, grein 1,3,5, Reform 94: koblede populasjonsregistre, difference-in-discontinuity; økte yrkesfaglig inntak, vei til høyere utdanning og lærlingplasser, utfall for sosial mobilitet og voksen inntekt etter kjønn; forklarer utvikling
+W2768112273  # 4, NO, grein 1, intervjuer med 34 som tok fagbrev 25–35 år: standardløpet 2+2 følges av et mindretall, gjennomsnittsalder 28 ved fullført yrkesutdanning, læring på arbeidsplassen som andre sjanse (omvei)
+W4390237207  # 1, NO oversikt, grein 5, scoping review av norsk NEET-forskning: lav NEET-andel men tyngre utfordringer, to forskningsretninger; tvil: 4
+W2111404192  # 2, 11 land (IALS) samt DE og AT, grein 5, sysselsetting over livsløpet for yrkesfaglig mot generell utdanning: gevinst tidlig, tap senere, sterkest i lærlingland
+W2600256048  # 1, DK, grein 3, overgang fra lærlingutdanning til høyere utdanning i Danmark, historisk: kohortstatistikk, politikk og intervjuer, forklarer hvorfor overgangsraten har falt; tvil: 4
+W2571106593  # 1, SE, grein 4,5, svenske registerdata: arreffekt av frafall fra universitet på senere marginalisering i arbeidsmarkedet, søskenfaste effekter
+W3167298212  # 1, DK, grein 4, klasseforskjeller i fullføring av bachelor og master under utdanningsekspansjon; bare tittel; tvil: 4
+W2343545209  # 2, Europa oversikt, grein 4, litteraturgjennomgang i studien av frafall og fullføring i høyere utdanning i Europa; bare tittel; tvil: 3
+W4410197986  # 1, SE, grein 5, regresjonsdiskontinuitet ved karakterbasert opptak: studieforberedende mot yrkesfag og risiko for ikke å fullføre og for NEET i ung voksen alder, også familie-FE på hele populasjonen
+W4400794153  # 1, Europa oversikt, grein 5, systematisk oversikt over 41 studier (8,9 millioner individer) om psykisk helse i barne- og ungdomsår og risiko for NEET; forklarer hvem det gjelder
+0198f63918e6-b85884d9-afa0-476f-84b0-155e797deed7  # 5, NO, grein 1, spørreundersøkelse til 117 Vg2-elever i helse- og sosialfag og service og samferdsel i Follo 2012: valget mellom læreplass og påbygg, nedgang i søkere til læreplass etter Kunnskapsløftet
+0198cc7020c7-7c3be50f-9615-4546-abe7-093c37f0fa28  # 5, NO, grein 4, gjennomføring og frafall i allmennlærerutdanningen, registerstatistikk fra SSB for begynnerkull før og etter Kvalitetsreformen
+0198cc4698bb-88e0a25b-2ca1-4468-83a6-a85b2c009327  # 1, NO, grein 4, frafall og bytte av lærested i lavere grads studier, begynnerkullene 1999, 2003 og 2005 fulgt til 2009 (registerdata), før og etter Kvalitetsreformen
+019a2ff66c39-c065dd84-e46f-41af-b2f9-0240ebd57268  # 4, NO oversikt, grein 5, masteroppgave med litteraturgjennomgang om årsaker til og konsekvenser av NEET: utdanningsnivå, psykisk helse, arbeidsmarked; langvarig utenforskap
+KU-a2a2fd9a-5845-4b98-bd6e-59181964689a  # 1, NO, grein 1,2, overgangen fra Vg2 til Vg3/læreplass i evalueringen av Kunnskapsløftet: søkning, inntak og status høsten 2008 for kullet som startet 2006; frafall i yrkesfag, økt påbygg, konjunkturer og motivasjon for læreplass som forklaring
+KU-919a7518-5fd7-4e22-adac-4963f13cf311  # 4, NO oversikt, grein 2,5, kunnskapsoppsummering om fagskolen: rekruttering, arbeidslivsrelevans og regional fordeling; mangel på statistikk
+W4291134304  # 1, IT, grein 4, administrative data: betydningen av familiens økonomi for frafall fra universitet, ut over tidligere prestasjoner; mekanisme for foreldrenes inntekt
+W2074955498  # 1, GB, grein 4, skole- og universitetsregistre: sosioøkonomisk gap i frafall etter første år, kontrollert for tidligere prestasjoner; mekanisme
+W2002513344  # 3, IT, grein 4, regional arbeidsledighet og frafall fra universitet, paneldata: høyere ledighet gir lavere frafall; mekanisme for konjunkturer
+W3161149714  # 2, 18 europeiske land, grein 4,5, inntekt for dem som har avbrutt høyere utdanning: 8 prosent mer enn de som aldri begynte, 20 prosent mindre enn uteksaminerte, store forskjeller mellom land
+W2598263393  # 3, DE, grein 4,5, NEPS Startkohorte 6: overgang til arbeid for frafalne fra høyere utdanning, fagbrev fra før som sikkerhetsnett; mekanisme relevant for y-vei/fagbrev
+W3186533192  # 1, SE, grein 5, KY- og YH-studenter antatt fra 2006: sysselsetting (60–70 prosent før, 80–90 prosent etter), inntekt og ledighet før, under og etter, sammenlignet med høgskolestudenter
+W2914625234  # 3, IT, grein 4,5, ISTATs undersøkelse av et kull fra videregående: frafalne fra universitet har vanskeligere overgang til arbeid enn de som aldri begynte, fire år etter; tvil: 4
+W2906878904  # 1, Norden oversikt, grein 5, risikofaktorer for frafall, ledighet og NEET i Norden (kjønn, minoritetsbakgrunn, funksjonsnedsettelse, helse) og syntese av evalueringer; tvil: 4
+W7139945990  # 1, internasjonal oversikt, grein 5, metaanalyse av registerstudier: psykiske vansker i barne- og ungdomsår og senere utdannings- og arbeidsmarkedsutfall, forskjeller mellom grupper
+W2924485061  # 1, NO, grein 1,3,5, NBER-versjonen av studien av Reform 94 (registre); forklarer utvikling; samme materiale som W3121289800
+W3196522027  # 1, NO oversikt, grein 5, scoping review av norske publikasjoner om NEET: andel og kjennetegn fra register- og spørreskjemadata, de unges beretninger, svakheter i systemet; tvil: 4
+W121932539  # 2, Europa, grein 5, kjønnsforskjeller i overgangen skole–arbeid i Europa under utdanningsekspansjon og krise; datagrunnlag ikke oppgitt; tvil: 3
+W3035450732  # 1, GB, grein 1, hele kullet av 516 880 lærlingkontrakter i England 2011/12: en tredel avbrutt, 10 prosent ikke fullført innen 36 måneder, sterk sammenheng med tidligere prestasjoner; mekanisme
+W2766676400  # 1, NO, grein 5, masteroppgave med sekvensanalyse av overganger skole–arbeid 1993–2014 for tre fødselskull (19–26 år); datakilde ikke oppgitt i sammendraget; tvil: 4
+W2907577372  # 1, Norden (fire land), grein 5, NEET-andeler for unge med minoritetsbakgrunn på 2000-tallet: høyest for utenlandsfødte, økende forskjell med alder, kvinner fra ikke-vestlige land; tvil: 2
+W4237777869  # 1, FI, grein 2,4,5, OECD-gjennomgang av overgangen skole–arbeid i Finland: opptak til høyere utdanning, studiestøtte, vei for yrkesfagelever, raskere arbeidsinntreden; tvil: 2
+0198cc90bef5-56e13d44-9bb0-4abc-9794-0ea04121fdb6  # 4, NO oversikt, grein 2,5, kunnskapsoversikt om unge funksjonshemmedes overgang til høyere utdanning og arbeid: fremmende og hemmende faktorer
+0198cc878846-eb8ebc95-cade-4326-9002-31c60e5d98a5  # 4, NO, grein 5, overgang fra videregående til arbeidsliv for elever med funksjonsnedsettelser; bare tittel
+019b93b32bad-7ac7c066-9821-4866-abe4-23ad40fa3b45  # 3, NO, grein 5, kandidatundersøkelsen for fagskolen (sjette runde), avgangskullene 2021–2024: arbeidsmarkedsutfall, relevans, studentsammensetning; tvil: 4
+0198cc8c2290-359e3213-3600-4c6a-b049-23f33626dd76  # 3, NO, grein 5, kandidatundersøkelse blant fagskolekandidater uteksaminert 2015; tvil: 4
+0198cc56b327-a3b20c86-390c-43ca-94d7-d91b94036cea  # 3, NO, grein 5, fagskolekandidater 2017 og 2018 (fjerde kandidatundersøkelse): arbeidsmarkedsstatus, ledighet, karriere 1–2 år etter; tvil: 4
+0198cc5d63c2-6d41b07d-de92-4a7d-b8e2-c53cb82a6bf7  # 1, NO, grein 5, femte kandidatundersøkelse for fagskolen (2019 og 2020) og registerdata for årskullene 2010–20: arbeidsmarkedsrelevans; tvil: 4
+0198cc90dd74-356ee0a0-2ccc-4ec9-9fdc-847afb55f3c9  # 3, NO, grein 5, fagskoleutdanningens arbeidsmarkedsrelevans (Søkelys på arbeidslivet); bare tittel; tvil: 4
+0198cc485190-326f37cf-31bd-4fc9-b511-ee879893ac2d  # 1, NO, grein 4, gjennomføring i fagskolen i helsefag, kreative og tekniske fag: DBH fagskolestatistikk og tall fra utvalgte skoler, med intervjuer om årsaker
+0198cc4b6ef1-ee3398c4-4e68-430a-9981-8d382300222e  # 5, NO, grein 3, evaluering av Y-veinord: y-veien til ingeniørbachelor med relevant fagbrev, Narvik/UiT og petroleumsbransjen
+0198cc700e65-4e7b4709-c027-4a24-81ae-c424f9650587  # 5, NO, grein 3, Y-VEI for alle, opptak direkte fra yrkesfag til ingeniørutdanning ved Høgskolen i Telemark, evalueringsrapport; bare tittel; samme materiale som 0198cc8acacd-3c72d854-28b4-449d-bf14-97c13d95c5a7
+0198cc3cfc95-00187844-9f3a-44f7-9e3a-44718621da90  # 5, NO, grein 3, Y-VEI for alle ved Høgskolen i Telemark, evalueringsrapport; bare tittel; samme materiale som 0198cc8acacd-3c72d854-28b4-449d-bf14-97c13d95c5a7
+0198cc8acacd-3c72d854-28b4-449d-bf14-97c13d95c5a7  # 5, NO, grein 3, Y-VEI for alle ved Høgskolen i Telemark, evalueringsrapport 9; bare tittel
+0198cc7e35b2-98d0a278-6fed-4598-8491-5e5933c3dd60  # 5, NO, grein 3, Y-vei for alle ved Høgskolen i Telemark, evaluering; bare tittel; samme materiale som 0198cc8acacd-3c72d854-28b4-449d-bf14-97c13d95c5a7
+0198cc6e5496-c3dcfc65-652b-44a9-aa25-2db0f66140d1  # 5, NO, grein 3, evalueringsrapport 12 om y-veien til bachelor i ingeniørfag; bare tittel; samme materiale som 0198cc8acacd-3c72d854-28b4-449d-bf14-97c13d95c5a7
+0198cc79aad9-5edb95cd-894f-463e-ae83-66e20bca8305  # 4, NO, grein 2, påbygg til generell studiekompetanse 2010–2011 i fem fylker, alle 66 skoler med tilbudet
+0198cc74344c-f9ebf60c-29e3-42ae-ae45-76f683aff5d8  # 1, NO, grein 4,5, SNF-rapport om frafall i høyere utdanning og konsekvenser for arbeidsmarkedskarrieren; bare tittel; tvil: 4
+0198cc4dbc66-4e4d486e-04fd-4987-b48b-f20b7476ba61  # 1, NO, grein 4, frafall i høyere utdanning og betydningen av sosial bakgrunn (2005); bare tittel; tvil: 4
+0198cc566340-9f74bc80-baba-49d0-b798-aced3316481c  # 5, NO, grein 4, spørreundersøkelse blant tidligere studenter ved Høgskolen i Lillehammer 2016: sosial integrasjon og målbevissthet og sannsynligheten for frafall
+0198cc53639d-55d6c5fd-c486-45cf-a309-9056dafcec47  # 1, NO oversikt, grein 4, forskningsoppsummering av 23 studier på norske data (fra 2005) om forklaringer på frafall i høyere utdanning; tvil: 4
+0198cc6e3d20-03f3fee0-02b3-4c10-aa88-3639b6de4918  # 3, NO, grein 5, Kandidatundersøkelsen 2023, første resultater: overgang til arbeid for masterkandidater fra våren 2023; tvil: 4
+0198cc86e50e-510edb5d-1a77-4a9c-abce-9e274375d555  # 1, NO, grein 5, overgang til arbeid for masterutdannede etterkommere av innvandrere: sysselsetting, timelønn og årsinntekt sammenlignet med norskfødte foreldre, formelle kvalifikasjoner holdt konstant
+0198cc62aaa6-e4e4d95b-1dc8-4808-9fe7-1e4d1f50f21e  # 3, NO, grein 5, kandidatundersøkelsen av profesjoner: ti kandidatgrupper fra våren 2008 undersøkt 2011, sysselsetting, mistilpasning og lønn; tvil: 4
+0198cc75450c-c605aeb4-003f-4d39-a56c-98c3edb139b2  # 3, NO, grein 5, konsekvenser av vanskelig overgang utdanning–arbeid for senere karriere etter kjønn og type utdanning, panel av vårkullet 2000 (Kandidatundersøkelsen 2000 og 2004); tvil: 4
+0198cc51342e-3e2c5074-7e08-4387-b39b-232ae9f2fff8  # 3, NO, grein 5, hovedrapport Kandidatundersøkelsen 2023: masterkandidaters overgang til arbeid et halvt år etter, med tidligere undersøkelser for utvikling over tid; samme materiale som 0198cc6e3d20-03f3fee0-02b3-4c10-aa88-3639b6de4918
+0198cc5dd5ef-2ba02261-9243-496b-8a4a-66875c32f3f1  # 3, NO, grein 5, Kandidatundersøkelsen 2021: andelen nyutdannede mastere som var ledige, undersysselsatte eller mistilpasset var den laveste på ti år
+0198cc7e11d4-2d0b6b49-2c02-4356-9b33-1de47cdaf0f4  # 1, NO, grein 5, Fafo-rapport om bruk av arbeidsavklaringspenger og kvalifiseringsprogram blant unge utenfor arbeid og utdanning; bare tittel; tvil: 4
+0199388e360c-eb1dc593-649c-4d77-a0ab-e6772f1ec9be  # 1, NO, grein 1,3,5, SSB-rapport: 19 759 Vg2-elever fra ni programområder i 2016, særlig helsearbeider- og barne- og ungdomsarbeiderfag, fulgt til 2023: fullført kompetanse, relevant høyere utdanning og arbeid
+01993df1f238-3c2a9166-8a69-4145-9768-8232d79c5933  # 3, NO, grein 5, Kandidatundersøkelsen 2005: hovedaktivitet, ledighet, mistilpasning og lønn for vel 4900 kandidater med høyere grad, siviløkonomer og ingeniører; tvil: 4
+0198cc48a584-a137e4be-7fcf-4829-bd11-22603c39c592  # 3, NO, grein 5, Kandidatundersøkelsen 2011, første resultater: arbeidsledighet og irrelevant arbeid; tvil: 4
+01993dff5109-71465f1f-b121-48c8-9a4c-d0f4170a711b  # 3, NO, grein 5, Kandidatundersøkelsen 2009, hovedresultater (halvtårsundersøkelse); tvil: 4
+0198cc5c88cb-714deee1-deff-4bfe-ad1b-758d9a73dc95  # 5, NO, grein 5, kandidatundersøkelse for masterprogrammene ved Høgskolen i Oslo og Akershus 2016; bare tittel
+0198cc6629e7-736f4874-e8db-4cf2-930f-1e1e866a3356  # 3, NO, grein 5, Kandidatundersøkelsen 2017: arbeidsledighet blant nyutdannede mastere om lag 8 prosent (nær 9 i 2015), 15 prosent i naturvitenskap og teknologi; tvil: 4
+0198cc49ec21-efb999ba-bcd2-4ff2-8936-417ede54850a  # 3, NO, grein 5, Kandidatundersøkelsen 2009; bare tittel; samme materiale som 01993dff5109-71465f1f-b121-48c8-9a4c-d0f4170a711b; tvil: 4
+0198cc589b1e-c2a3ee3f-59ee-455d-a3f3-be4cda359da0  # 5, NO, grein 5, nyutdannede ingeniører i Kandidatundersøkelsen 2007 sammenlignet med andre kandidatgrupper
+019d1ef59e77-64230ce8-791a-4388-b5cc-aa7d8713978d  # 3, NO, grein 5, Kandidatundersøkelsen 2025, første resultater: vanskeligere å komme inn på arbeidsmarkedet for nyutdannede mastere; tvil: 4
+0198cc4e9341-f12efb13-cd20-4ce7-beed-01ac9c3c59d8  # 3, NO, grein 5, Kandidatundersøkelsen 2020: master- og bachelorkandidater under pandemien, arbeidsmarked og videre studier; tvil: 4
+019fb2ebce2a-5370cf0d-2097-4377-b84a-c735ecbc689c  # 3, NO, grein 5, hovedrapport Kandidatundersøkelsen 2025: overgang til arbeid for nyutdannede mastere, supplert med tidligere års undersøkelser; samme materiale som 019d1ef59e77-64230ce8-791a-4388-b5cc-aa7d8713978d
+0198cc76bfaa-3b002ec7-aa98-4b67-a76b-560fa9df918d  # 3, NO, grein 5, Kandidatundersøkelsen 2017, hovedrapport: mastere et halvt år etter, arbeidsmarkedssituasjon og relevans; samme materiale som 0198cc6629e7-736f4874-e8db-4cf2-930f-1e1e866a3356; tvil: 4
+0198cc5397d5-ffc9d261-4a54-496a-87ed-9a9aa68b5465  # 3, NO, grein 5, Kandidatundersøkelsen 2015: nyutdannede mastere og nedgangskonjunkturen; tvil: 4
+0198cc7aa744-a18eace3-83c0-47f1-b8a8-2d8525f47bd6  # 3, NO, grein 5, Kandidatundersøkelsen 2008: panel av vårkullet 2000, sysselsetting, ledighet og mistilpasning; tvil: 4
+0198cc54b59f-4bfe9207-31de-46c2-8e16-30c699f12e3f  # 3, NO, grein 5, Kandidatundersøkelsen 2019: situasjonen på arbeidsmarkedet for nyutdannede mastere; tvil: 4
+0198cc86c043-349fc25f-c1dc-4b9d-82b1-13c8cfd25833  # 5, NO, grein 5, kandidatundersøkelse for to masterprogrammer ved Politihøgskolen 2021
+0198cc46127d-9051c498-e2d0-4c2c-b5db-562a6b2ac611  # 3, NO, grein 5, Kandidatundersøkelsen 2013: mastergradsutdannedes arbeidsmarkedssituasjon et halvt år etter; tvil: 4
+0198cc5c4f4d-c93741c4-f1fd-4286-b213-07318b105c42  # 5, NO, grein 5, kandidatundersøkelse ved ett institutt ved NTNU 2017; bare tittel
+KU-6d240099-9ac0-4da6-9c85-7b51c3c4a244  # 5, NO, grein 1, restaurant- og matfag: hvem som ikke får læreplass og årsaker til frafall, Vigo-data og casestudier
+KU-a2a2fd8d-7bd3-42d3-9f94-8b538d2bad9d  # 1, NO, grein 1,2,5, fire elevkull fulgt minst fem år før og etter Kunnskapsløftet: oppnådd studie- eller yrkeskompetanse og overgang til høyere utdanning og arbeid, forskjeller etter program, kjønn, fylke og karakterer
+KU-fd14a92e-0d5c-4def-a96e-313250d48be5  # 5, NO, grein 3, evaluering av sju samarbeidsprosjekter om overganger mellom fagskole og universitet/høyskole (2021–)
+KU-2fb2a681-a0ec-4b9f-a63a-9f00831ebca5  # 5, NO, grein 5, kandidatundersøkelse ved UiT for kandidater 2020–2022: overgang til arbeid, mobilitet
+KU-517e91b1-b539-4aac-9af5-c9a20cefecba  # 5, NO, grein 5, kandidatundersøkelse ved NTNU for kandidater 2022–2024 (over 9000 svar): jobbstatus, relevans, kjønnsforskjeller i lønn
+KU-dda49f3d-211b-4792-bf9d-38cb0e689aeb  # 5, NO, grein 5, kandidatundersøkelse ved USN for kandidater 2021–2023: situasjon på arbeidsmarkedet
+KU-f453f059-d24a-4cd1-a57f-a9d0564bdf29  # 5, NO, grein 5, kandidatundersøkelse ved Nord universitet for kandidater 2022–2023: overgang til arbeid, lav ledighet
+KU-4af15391-65e8-44b4-b3c9-4b2f6d45610f  # 5, NO, grein 1, restaurant- og matfag: elever uten lærekontrakt, Vigo-data (hovedsakelig 2014) og casestudier i to fylker; samme materiale som KU-6d240099-9ac0-4da6-9c85-7b51c3c4a244
+KU-504eb884-df08-4d24-a48d-d50a935521b6  # 1, NO, grein 1,3,5, samme SSB-rapport om utdannings- og yrkeskarrierer for yrkesfagelever (Vg2 2016 fulgt til 2023); samme materiale som 0199388e360c-eb1dc593-649c-4d77-a0ab-e6772f1ec9be
+KU-a1829696-9871-4204-8530-ff69047b2a6d  # 3, NO, grein 5, Kandidatundersøkelsen 2025, første resultater: økt ledighet fra 2023, særlig realfag, samfunnsfag og humaniora; samme materiale som 019d1ef59e77-64230ce8-791a-4388-b5cc-aa7d8713978d; tvil: 4
+KU-c77a5c6e-af6c-4d20-8e4b-b377d3ec7e80  # 1, NO, grein 4,5, frafall i høyere utdanning og konsekvenser for arbeidsmarkedskarrieren; bare tittel; samme materiale som 0198cc74344c-f9ebf60c-29e3-42ae-ae45-76f683aff5d8; tvil: 4
+KU-db458f7b-5654-4aed-bf46-469dc0e14e50  # 5, NO, grein 5, kandidatundersøkelse ved Høgskolen i Østfold for kandidater 2021–2023: sysselsetting, tid til første jobb
+KU-f2fc4522-b85c-401c-937c-f310d1a03361  # 5, NO, grein 5, kandidatundersøkelse ved UiO for kandidater 2018–2023 (782 svar): sysselsetting og relevans
+NB-6712  # 1, NO, grein 5, flere unge utenfor arbeid og utdanning mottar helseytelser fra Nav; bare tittel
+LI-7r9c27wh5dxjskq9  # 1, SE, grein 2, regionale forskjeller i overgang til høgskolen; bare tittel; tvil: 4
+LI-p7nhpqv2ml9hnmrh  # 4, SE, grein 2, forsøk med collegeutdanninger 2002–2004: omfang og overgang til høgskolen; bare tittel
+LI-4l62gps72hl9m4qr  # 1, SE, grein 2,5, etablering på arbeidsmarkedet og videre studier 2020 etter gymnasieskolen; bare tittel; tvil: 4
+LI-9qcvm6bz7nvnx4bh  # 1, SE, grein 2,5, etablering på arbeidsmarkedet eller videre studier 2019 etter gymnasieskolen; bare tittel; samme materiale som LI-4l62gps72hl9m4qr; tvil: 4
+LI-gz8n36p3dr55tnl0  # 1, SE, grein 4, tidlige avbrudd fra høgskolen på de ti største yrkesexamensprogrammene; bare tittel; tvil: 4
+LI-l3f7hqcqj3n3thwg  # 1, SE, grein 4, sosial bakgrunn og gjennomstrømning i lange og mellomlange yrkesexamensprogrammer; bare tittel; tvil: 4
+LI-18110461  # 1, SE, grein 4, sosial bakgrunn og gjennomstrømning i yrkesexamensprogrammer; bare tittel; samme materiale som LI-l3f7hqcqj3n3thwg; tvil: 4
+LI-17988503  # 1, SE, grein 4,5, årsrapport 2015 med tabellvedlegg for yrkeshögskolan; bare tittel; tvil: 4
+LI-rb7c09nppzxh2bdx  # 1, SE, grein 5, sysselsetting etter yrkeshögskolan for examinerte 2022; bare tittel; tvil: 4
+LI-l15lgd79jsf9w2lv  # 1, SE, grein 3, overganger mellom yrkeshögskolan og högskolan; bare tittel; tvil: 4
+LI-r74pfxzdpwnbwsxc  # 1, SE, grein 5, inntreden på arbeidsmarkedet etter yrkeshögskolan (offisiell statistikk, 2022), bare tittel
+LI-bzmn245w8cfj95dl  # 1, SE, grein 5, inntreden på arbeidsmarkedet etter yrkeshögskolan, eksaminerte 2024, bare tittel, samme serie som LI-r74pfxzdpwnbwsxc
+LI-1dgw3dcfzn381b01  # 1, SE, grein 5, sysselsetting og inntekt etter yrkeshögskolan (2020), bare tittel
+LI-22115224  # 1, SE, grein 5, etablering på arbeidsmarkedet etter yrkeshögskolan (2017), bare tittel
+LI-12134224  # 1, SE, grein 5, sysselsetting året etter eksamen for KY-studenter eksaminert 2009, bare tittel
+LI-3jbvxsfl1ln6g4wf  # 1, SE, grein 4, eksamensgraden (fullføring) i yrkeshögskolan 2016-2020, bare tittel
+LI-19455420  # 1, SE, grein 4,5, statistisk årsrapport 2016 for yrkeshögskolan (tabeller), bare tittel
+LI-18630888  # 1, SE, grein 2,4,5, IFAU-rapport 2015:12: hvem søker yrkeshögskolan, hvem tar eksamen og hvordan går det etterpå, bare tittel
+LI-12130227  # 1, SE, grein 5, unge som verken arbeider eller studerer: hvor mange og hva gjør de (2011), bare tittel
+LI-12406099  # 1, SE, grein 5, oppfølging 2011 av unge som verken arbeider eller studerer etter den økonomiske krisen, bare tittel
+LI-16530046  # 1, SE, grein 5, oppfølging 2013 av antallet unge som verken arbeider eller studerer, bare tittel
+LI-jxqrpc5lgs4kpb0m  # 1, SE, grein 5, unge som verken arbeider eller studerer (2021), bare tittel
+LI-sdhrbq5kqchzcb65  # 1, SE, grein 5, unge som verken arbeider eller studerer (2020), bare tittel
+LI-2nwjzn3709w3rpnr  # 1, SE, grein 5, unge som verken arbeider eller studerer (2019), bare tittel
+LI-f14dsp8mcb5t3rfm  # 1, SE, grein 5, unge som verken arbeider eller studerer (utg. 2024), bare tittel
+LI-14727610  # 1, SE, grein 5, slutbetänkande 2013 om unge som verken arbeider eller studerer: statistikk, støtte og samverkan, bare tittel
+LI-mzb6xxqtkrkw4n5x  # 1, SE, grein 5, unge som verken arbeider eller studerer i et kommunalt perspektiv (2014), bare tittel
+LI-lx95wvlvj9j1rqk3  # 1, SE, grein 5, unge som verken arbeider eller studerer i et kommunalt perspektiv (2014), bare tittel, samme materiale som LI-mzb6xxqtkrkw4n5x
+LI-dt8j57mnb5xh6czl  # 1, SE, grein 5, antall unge som verken arbeider eller studerer i Stockholmsregionen (2012), bare tittel
+LI-095001fmx3z4drll  # 1, SE, grein 5, beskrivelse av unge som verken arbeider eller studerer i åtte regioner (2017), bare tittel
+LI-lw3ccnsqj6cxhgpk  # 1, SE, grein 5, unge med ukjent aktivitet som verken arbeider eller studerer (2017), bare tittel
+LI-15044698  # 1, SE, grein 5, ungdom på og utenfor arbeidsmarkedet med vekt på dem som verken arbeider eller studerer (2013), bare tittel
+LI-r5gpvs1lpzjdc094  # 1, SE, grein 5, langvarig utenforskap blant unge som verken arbeider eller studerer (2020), bare tittel
+LI-v76jqxdtsc08sgpl  # 1, SE, grein 5, SOU 2018:11 Vårt gemensamma ansvar om unge som verken arbeider eller studerer, bare tittel, tvil: 4
+LI-22464865  # 1, SE, grein 5, Vårt gemensamma ansvar (2018), bare tittel, samme materiale som LI-v76jqxdtsc08sgpl, tvil: 4
+LI-22458858  # 1, SE, grein 5, Vårt gemensamma ansvar (2018), bare tittel, samme materiale som LI-v76jqxdtsc08sgpl, tvil: 4
+LI-17812125  # 1, SE, grein 5, etablering på arbeidsmarkedet 2012 (2015), uklart hvilken gruppe, bare tittel
+LI-18110541  # 1, SE, grein 5, etablering på arbeidsmarkedet etter høyere utdanning per lærested (2015), bare tittel
+LI-fzj8ns4nchltdrdb  # 1, SE, grein 5, etablering på arbeidsmarkedet etter studier i høyskolen, grunn- og avansert nivå 2012/13-2014/15, bare tittel
+LI-p6gzw83rmrwg399d  # 1, SE, grein 5, høyere utdanning gir raskere etablering på arbeidsmarkedet, statistisk analyse (2008), bare tittel
+LI-22086851  # 5, SE, grein 5, IT-ingeniørers etablering på arbeidsmarkedet (2012), bare tittel
+LI-10222747  # 5, SE, grein 5, eksaminerte humanisters og teologers etablering 1983/1997-1997-2002 (2005), bare tittel
+LI-20857989  # 1, SE, grein 1,5, oppfølging av lærlingers etablering på arbeidsmarkedet (2017), bare tittel
+LI-14840189  # 1, SE, grein 5, betydningen av midlertidige ansettelser for etablering på arbeidsmarkedet (2013), bare tittel
+LI-13496058  # 1, SE, grein 2,5, etablering på arbeidsmarkedet tre år etter gymnasieskolan (2011), bare tittel
+LI-13540934  # 1, SE, grein 2,5, etablering på arbeidsmarkedet tre år etter gymnasieskolan (2012), bare tittel, samme serie som LI-13496058
+LI-17461295  # 1, SE, grein 2,5, etablering på arbeidsmarkedet tre år etter gymnasieskolan, Tema utbildning 2015:1, bare tittel, samme serie som LI-13496058
+LI-zbq2snsjwnhfb1t5  # 1, SE, grein 2,5, etablering eller videre studier år 2017 etter gymnasieskolan, bare tittel
+LI-lzcpf8gwjnt8xlcg  # 1, SE, grein 2,5, etablering eller videre studier år 2018 etter gymnasieskolan, bare tittel, samme serie som LI-zbq2snsjwnhfb1t5
+LI-k6vxdc9vh5g1ft50  # 1, SE, grein 2,5, etablering eller videre studier år 2019 etter gymnasieskolan, bare tittel, samme serie som LI-zbq2snsjwnhfb1t5
+LI-2kk47dl204cl7mld  # 1, SE, grein 2,5, etablering eller videre studier år 2021 etter gymnasieskolan, bare tittel, samme serie som LI-zbq2snsjwnhfb1t5
+LI-9v70m4bg7vbnsvqn  # 1, SE, grein 2,5, etablering og videre studier år 2022 etter gymnasieskolan, bare tittel, samme serie som LI-zbq2snsjwnhfb1t5
+LI-4rxqgxtk2lvmp4ml  # 1, SE, grein 2,5, etablering og videre studier år 2024 etter gymnasieskolan, bare tittel, samme serie som LI-zbq2snsjwnhfb1t5
+LI-22115222  # 1, SE, grein 2,5, etablering på arbeidsmarkedet og overgang til høyere studier etter folkhögskolan (2017), bare tittel
+LI-19152078  # 1, SE, grein 5, ESO-rapport: En förlorad generation? om unges etablering på arbeidsmarkedet (2016), bare tittel, tvil: 4
+LI-z924v5w2w2d20r3n  # 1, SE, grein 5, ESO-rapport: En förlorad generation? (2015), bare tittel, samme materiale som LI-19152078, tvil: 4
+LI-16556199  # 1, SE, grein 5, unge i arbeid i Norden: unges vei mot etablering i de nordiske landene (2013), bare tittel, tvil: 2
+W1974661472  # 4, NO, grein 4, overgang og frafall i universitetet: spørreundersøkelse blant studenter 2005; over halvparten forlot første lærested, 17 % forlot høyere utdanning uten grad; bakgrunn forklarer frafall, motivasjon forklarer bytte
+W2048113338  # 3, NO, grein 4, frafall fra høyere utdanning for minoritets- og majoritetsstudenter i Norge og USA, nasjonalt representative utvalg, konkurrerende risiko; ingen forskjell i frafall i Norge, tvil: 4
+W4404590563  # 1, NO, grein 4, sosial ulikhet i frafall og bytte mellom universitet og høyskole i Danmark og Norge, registerdata for hele studentpopulasjonen; frafall høyere i Norge, arbeiderklassen faller oftere fra
+W3122292419  # 1, NO, grein 2,5, ferdigheter målt ved 16 år (kognitive og praktiske fag) og fullført videregående, høyere utdanning, NEET og velferdsytelser ved 22 år, registerdata
+W4391053389  # 1, NO, grein 5, NEET 22-25 år og langvarig utenforskap fulgt til 31 år, registerdata 1993-2017, sekvensanalyse; forskjeller etter kohort, kjønn og sosial bakgrunn, uføretrygd
+W2975445012  # 1, NO, grein 5, høyere utdanning og arbeidsdeltakelse for unge med nedsatt funksjonsevne, mottakere av uføreytelser, fullpopulasjonsregister, forskjeller etter kjønn
+W4285391686  # 1, NO, grein 5, arbeidserfaring i ungdomsårene og NEET ved 25 og 29 år, hele 1985-kullet i registerdata, sterkere for tidlige skoleslutter og unge med funksjonsnedsettelse
+W3138453033  # 1, NO, grein 5, langvarige somatiske helseutfordringer og fullført videregående, NEET og uføretrygd i ung voksen alder, kull født 1990-1996 (N=421 110), registerdata
+W2316741794  # 1, NO, grein 1,5, overgang fra skole til arbeid for ungdom med lav kompetanse; lærlingerfaring, kvalifikasjoner og tilstandsavhengighet, ikke-vestlige minoriteter og etnisk norske, registerdata
+W4379598647  # 1, NO, grein 2, barn av innvandrere og overgang til høyere utdanning og valg av fagfelt, administrative data Norge (og Sverige); ikke-europeisk bakgrunn gir høyere overgang trass svakere karakterer
+W2923713244  # 3, NO, grein 5, NEET ved 23-25 år i Nord-Norge, ungdomsundersøkelse 2003-2005 koblet til register 8-10 år etter; forskjeller etter kjønn og samisk bakgrunn, tvil: 4
+W2946387094  # 4, NO, grein 5, helse blant NEET-ungdom 16-21 år mot elever i videregående, tverrsnitt i Sør-Norge (96 NEET)
+W2513666706  # 4, NO, grein 2,4, psykiske plager i ungdomsårene og oppnådd utdanning i voksen alder, Ung-HUNT koblet til register (N=8 113), søskensammenligning
+W7125898364  # 4, NO, grein 1, overgang fra skole til læreplass og oppnådd fagbrev etter opplæringskontor mot enkeltbedrift, data fra ett fylke, regresjon
+W4386649927  # 5, NO, grein 1, mangel på læreplass etter Vg2 og risiko for marginalisering, casestudie med intervjuer i skole, opplæringskontor og bedrifter
+W2768345159  # 5, NO, grein 2, friår (gap year) etter videregående for akademiske løp mot yrkesfaglige løp, biografiske intervjuer i tre generasjoner; skiller omvei og frafall
+W2776266866  # 5, NO, grein 5, endrede overganger fra skole til arbeid for faglærte menn i to kohorter, biografiske intervjuer
+W4414096812  # 5, NO, grein 3, overgangen fra lærlingløp til høyere utdanning i England, Tyskland og Norge, institusjonell sammenligning; skillet mellom yrkesfag og akademisk utdanning består
+W2295676000  # 1, SE, grein 5, langsiktige konsekvenser av NEET i ung voksen alder for senere utenforskap, tre hele fødselskull (1975, 1980, 1985), registerdata, effekten øker over kohortene
+W4401791160  # 1, SE, grein 5, NEET-forløp til 40 år for personer med erfaring fra barnevernsplassering, registerdata over 650 000 personer
+W2890034555  # 1, SE, grein 5, utdanning og arbeidsdeltakelse blant unge flyktninger 23-26 år 2006-2010 mot innfødte, nasjonale registerdata, NEET og usikker tilknytning
+W4211244451  # 1, SE, grein 5, NEET-forløp 17-24 år og senere rusbrukslidelse, nasjonal kohort født 1984-1990, registerdata
+W2981050351  # 1, SE, grein 5, andel utenfor utdanning og arbeid (4 %) og i usikker tilknytning (25 %) etter fullført videregående 2005-2009, og senere alkoholdiagnoser, registerdata (485 839)
+W3178654302  # 4, SE, grein 5, internaliserende og eksternaliserende problemer ved 14-15 år og NEET ved 21-22 år, representativt utvalg (4 452) koblet til register, karakterer som mediator
+W4220811712  # 1, SE, grein 5, variasjon i NEET-andeler mellom alle 290 kommuner og lokal styring, flernivåregresjon og intervjuer i 20 kommuner, tvil: 4
+W4386834615  # 5, SE, grein 5, overgang fra skole til arbeid for unge som blir boende i en liten innlandsby i Nord-Sverige med gjenreisning av lokalt arbeidsmarked, kvalitativ longitudinell studie (8 personer)
+W4386773183  # 5, SE, grein 5, jenters overgang fra skole til mannsdominerte arbeidsplasser i transportbransjen, intervjuer med to jenter 2015-2022
+W3204715438  # 1, FI, grein 5, psykiatriske diagnoser i ungdomsårene og langvarig NEET (minst 5 år mellom 20 og 28 år), hele 1987-kullet i Finland, registerdata
+W2981343317  # 1, FI, grein 5, foreldres sosioøkonomiske ressurser og belastninger i barndommen som prediktorer for NEET ved 18 år, 20 % registerutvalg, født 1986-1993
+W3034211697  # 1, FI, grein 5, forløp i utdanning og arbeid fra 18 til 26 år, hele 1987-kullet i registerdata 2005-2013; 11 % på avvikende forløp, tverrsnitt overvurderer NEET
+W3093252141  # 1, DK, grein 5, langvarig NEET ved 21-23 år blant unge med barnevernsplassering i Danmark, Finland og Sverige, registerdata for 1987-kullet; skoleprestasjoner forklarer mye, tvil: 2
+W2790194480  # 1, FI, grein 5, sekvenser i overgangen fra skole til arbeid i Finland, Norge og Sverige (2018), bare tittel, tvil: 2
+W4321454927  # 1, DK, grein 5, NEET tre og sju år etter grunnskolen for barn av ikke-vestlige innvandrere og etniske dansker, registerdata; familiebakgrunn forklarer overrepresentasjonen
+W2894196537  # 1, DK, grein 5, utvikling 1995-2014 i NEET-risiko i tidlige 20-årene for flyktningbarn og jevnaldrende, registerdata for hele befolkningen; gapet krympet fra 20 til under 5 prosentpoeng
+W3144434094  # 1, DK, grein 4, medstudentenes karakternivå og frafall fra høyere utdanning, administrative data for alle nye studenter 1985-2010, også senere arbeidsmarkedsutfall
+W4380049786  # 1, DK, grein 4, kjønn, mestringstro og frafall fra STEM-studier, registerdata og spørreundersøkelse for to opptakskull (2017, 2019), tvil: 4
+W2520029006  # 4, DK, grein 4, psykisk helse og frafall på tvers av utdanningsnivåer og kjønn, spørreundersøkelse (3 146, 16-29 år) koblet til register 2010-2014
+W7140681715  # 3, DK, grein 5, psykisk velvære hos 15-19-åringer og fullføring, frafall og NEET etter fem og ti år, Danish National Youth Cohort 2014 (67 684) koblet til register, tvil: 4
+W3187598586  # 4, DK, grein 5, timing og varighet av depressive symptomer fra 14 til 21 år, oppnådd utdanning og NEET ved 23 år, Vestliv-kohorten (1 512) koblet til register
+W4390700768  # 4, IS, oversikt, grein 5, unge NEET 18-30 år i Norden, frafall og misforhold mellom utdanning og lokalt arbeidsmarked, nordisk prosjekt 2017-2019
+W4411407029  # 5, FI, grein 5, utdanningsløp og overgang til arbeid for personer med alvorlig sanse- eller bevegelseshemming, intervjuer (45)
+W2987871879  # 1, SE, oversikt, grein 4, måling av frafall, fullføring og frafallsårsaker i høyere utdanning i Europa, med Sverige og Storbritannia som referanse, tvil: 2
+W2707684864  # 2, Europa, grein 2, familiestruktur og overgang til høyere utdanning i Europa, longitudinelt og komparativt, bare tittel
+W4242975212  # 2, internasjonal, oversikt, grein 5, forklaring av forskjeller mellom land i overgangen fra utdanning til arbeid (overgangssystemer), bygger på longitudinelle overgangsundersøkelser, tvil: 3
+W2614705980  # 2, internasjonal, oversikt, grein 5, bare tittel, samme materiale som W4242975212, tvil: 3
+W2972254325  # 1, CH, grein 4, vekst i studentkull og sannsynlighet for frafall og bytte, administrative data for alle som begynte ved sveitsiske universiteter 1980-2001; mekanisme for utbygging
+W3101578770  # 1, DE, grein 3,5, inntektsutvikling for menn med lærlingutdanning pluss høyere yrkesfaglig utdanning mot akademisk utdanning, koblede arbeidsgiver-arbeidstakerdata (LIAB) opptil 16 år etter læretiden
+W2603731285  # 3, DE, grein 4,5, arbeidsmarkedsutfall etter frafall fra høyere utdanning og yrkesfaglig kompetanse som sikkerhetsnett, NEPS Startkohorte 6, overgang til stabil jobb, tvil: 4
+W2753457144  # 3, DE, grein 2, sosial bakgrunn og overgang til høyere utdanning eller lære for studieberettigede i Vest-Tyskland 1983 og 1999, to store HIS-datasett
+W1807662821  # 3, internasjonal, oversikt, grein 4,5, frafall fra universitet og senere arbeidsmarkedsutfall (IZA World of Labor), bare tittel, tvil: 4
+W3096836443  # 1, SE, grein 4, rapport om studenter som avbrøt studiene tidlig i høyere utdanning; bare tittel; tvil: 4
+W3022852315  # 3, US, grein 4, økt tid til bachelorgrad, NLS72 mot NELS88 (lange kohortserier); forklaring: færre ressurser i mindre selektive offentlige lærested og mer arbeid ved siden av studiene (mekanisme: arbeid/studiefinansiering)
+W4321791264  # 1, AU, grein 4, frafall første studieår for hele populasjonen av nye bachelorstudenter 2012–2015 (koblede registre, n=652 139), ca. 15 % frafall, psykisk helsebehandling gir 4–8 prosentpoeng høyere frafall (mekanisme)
+W4392293377  # 2, OECD, grein 5, PISA/PIAAC-analyse av ulikhet etter sosial bakgrunn, kjønn og innvandrerstatus i overgangen utdanning–arbeid; hovedvekt på karriereveiledning
+W2728367141  # 2, EU, grein 5, Eurofound om NEET-begrepet og undergrupper i EU, ungdomsledighet 2010–2013, harmoniserte EU-data
+W4312304795  # 3, AU, oversikt, grein 2,4,5, sosioøkonomisk bakgrunn og tilgang, deltakelse og utfall i høyere utdanning (livsløpsmodell, australske longitudinelle data)
+W4250135813  # 2, OECD, grein 2, PIAAC-basert sammenligning av overgangssystemer og deltakelse i høyere utdanning, med Danmark, Finland og Norge blant landene
+W4388080927  # 1, IT, grein 4, frafall fra bachelor for hele populasjonen 2013–14 (administrative data); første års prestasjoner, familieinntekt, karakterer og skoletype fra videregående som drivere
+W2950351891  # 2, Europa/US, oversikt, grein 5, overgang skole–arbeid før og etter finanskrisen 2008, makrosammenligning: forlenget utdanning, midlertidig arbeid og NEET etter overgangsregime
+W2581814692  # 3, GB, grein 5, sekvensanalyse av månedlige aktiviteter etter grunnskolen (LSYPE-kohort): seks forløp inkl. langvarig NEET, sosioøkonomiske og psykososiale ressurser som drivere; tvil: 4
+W2919455465  # 2, EU (inkl. FI), grein 5, arreffekter av å gå ut i en lavkonjunktur: senere ledighet, midlertidig og ufrivillig deltid, EU-LFS, fem land
+W1994098943  # 1, GB, grein 3, overgang fra yrkesfag (VET) til høyere utdanning, administrative data: VET-elever havner oftere på mindre prestisjefylte lærested og i andre fag, med ulike arbeidsmarkedsutfall
+W2153157838  # 2, Europa, oversikt, grein 1, effekt av konjunkturnedgang på lærlingplasser og opplæring i arbeidslivet (kunnskapsoversikt); bare tittel; tvil: 3
+W2112435981  # 2, EU, grein 5, overgang skole–arbeid i 11 land, EU-LFS ad hoc-modul 2000: hastighet, kvalitet og stabilitet i inngangen, stillingsvern og yrkesspesifikk utdanning som forklaring
+W1998448223  # 1, CH, grein 1, lærlingplasser og konjunkturene; bare tittel; tvil: 3
+W4313652621  # 2, EU, grein 5, sammenheng mellom NEET og fattigdomsrisiko i 21 land, EU-SILC-panel 2016–2019, tilstandsavhengighet og ond sirkel (konsekvenser)
+W2258036488  # 1, DE, oversikt, grein 3, akademisering i Tyskland: utvikling i forholdet mellom yrkesopplæring og høyere utdanning, duale studier og opptak uten studiekompetanse for yrkeskvalifiserte; tvil: 4 (mekanisme for y-vei)
+W2905452787  # 2, EU, grein 5, NEET-andeler og fattigdom/sosial eksklusjon på tvers av EU-land, Eurostat 2016
+W2150731864  # 3, CH, grein 5, arreffekter av tidlig ledighet blant unge med fagutdanning, TREE-panelet (PISA 2000-kohort): høyere NEET-risiko og lavere lønn senere
+W4406105080  # 2, EU, grein 5, QCA av NEET-andeler i 26 land: sjenerøse ytelser til unge ledige, inkluderende utdanning og bostøtte i politikkombinasjoner med lav NEET
+W2808386157  # 3, FR, grein 2,4, fullføring av bachelor etter sosial bakgrunn, nordafrikansk opprinnelse og type studentereksamen (yrkesfaglig/teknologisk mot allmenn), elevpanelet fra 1995
+W2807418318  # 3, RU, grein 3, alternative veier til høyere utdanning via yrkesfag og sosial ulikhet, longitudinell undersøkelse TrEC (mekanisme for y-vei)
+W1593583473  # 3, DE, grein 3,4, frafall fra høyere utdanning etter vei inn (direkte fra Gymnasium, oppadgående løp, yrkesutdanning først) og sosial bakgrunn, NEPS retrospektive livsløpsdata
+W2076957119  # 3, flere land, oversikt, grein 4, gjennomgang av 28 artikler med 25 store utvalg av nye studenter i ni land: frafall, fullføring og tid til grad, bakgrunn, tidligere prestasjoner og studiestøtte som drivere
+W4206961362  # 2, OECD, grein 5, verdien av grader ved utdanningsekspansjon, flernivåanalyse på tvers av land: korte tertiære grader devalueres, ferdigheter og grad
+W4390113654  # 2, IT/PT/ES, grein 5, NEET-gruppens sammensetning og sårbarhet 2015–2021, EU-LFS og EU-SILC
+W3015213945  # 2, OECD (19 land), grein 5, ledighet ved alder 18–25 gir lavere ferdigheter ved 36–59 (PIAAC), sterkest for barn av lavt utdannede (langtidskonsekvens)
+W4313678788  # 1, US (Tennessee), grein 4, arbeid ved siden av studiene og fullføring, tid til grad og studiepoeng, 17 år med delstatsregistre: 4–7 prosentpoeng lavere fullføring
+W2981383190  # 3, US, grein 4,5, forsinket grad og senere inntekt, Baccalaureate & Beyond 1993–2003: 8–15 % lavere inntekt etter forsinkelse; tvil: 4
+W2969612917  # 1, US (Texas), grein 4,5, arbeid og inntekt 15 år etter for dem som begynte uten å fullføre høyere utdanning, hele kull av videregående-avgangen i Texas
+W2996526052  # 1, NO, grein 5, OECD Investing in Youth: Norway: NEET-andel 9 % i 2016, utvikling siste tiår, hvem NEET-gruppen er, overgang skole–arbeid i internasjonal sammenligning, survey- og administrative data; tvil: 2
+W3195847373  # 3, DE, grein 2, foreldrenes formue og overgangen til yrkesopplæring eller høyere utdanning (og tidligere overganger), NEPS
+W4213444987  # 1, PT, grein 2, ulikhet i overgangen fra videregående til høyere utdanning, offisiell statistikk (DGEEC): sosioøkonomisk status, kjønn, region og opptakskriterier
+W3212555815  # 2, IT/AT/PL/GB, grein 5, varighet av overgangen skole–stabil jobb (ca. 30 mnd i Italia mot under ett år andre land), overlevelsesanalyse, kjønn og utdanningstype
+W7196999998  # 1, AT, grein 2,5, utdanningsforløp fra 6 til 23 år for et helt kull (13 år i 2011, N=85 535), koblede registre, ulikhet etter foreldreutdanning, kjønn, innvandring og bosted
+W2159841458  # 3, NL, grein 5, langtidseffekter av å starte arbeidslivet som ledig, midlertidig eller fast ansatt, 1950–2000: ledighet ved start er en felle, midlertidig arbeid et springbrett
+W4224227302  # 2, Europa, grein 2, ulikhet i tilgang til høyere grad etter kjønn, sosial bakgrunn, etnisitet og religion, tre fødselskohorter 1930–1979, European Social Survey
+W4295095607  # 2, OECD (40 land), grein 5, makrodeterminanter for NEET-andelen 1997–2020: BNP og sosiale utgifter, OECD-data
+W2904766584  # 2, Europa, oversikt, grein 5, unges overgang til arbeid og voksenliv i Europa etter finanskrisen: NEET, overutdanning, arreffekter, kjønn og etnisitet
+W4390701701  # 2, EU-regioner, grein 5, regionale mønstre i utfall av overgangen skole–arbeid 2007–2019, klyngeanalyse av NUTS2-indikatorer
+W2758599183  # 3, AT, grein 5, regionale forskjeller i NEET-andeler (15–19 og 20–24), betydningen av videregående, lærlingordning, ledige stillinger og arbeidsmarkedstiltak (mekanisme: lokal etterspørsel)
+W2186440524  # 4, CZ/DK/NL/FR/NO, grein 2,5, overgang til høyere utdanning og arbeid for unge med funksjonsnedsettelser som gikk ut av videregående eller høyere utdanning i 2007 (OECD, utvalg), foreldrestøtte og sosial bakgrunn
+W2944181271  # 2, IT/ES/GB, grein 5, regionale forskjeller i ungdomsledighet og NEET 1993–2018, aggregerte LFS-data, motløshetseffekt og lokale arbeidsmarkeder
+W2104834505  # 3, CH, grein 5, forløp sju år etter grunnskolen, andre generasjon innvandrere mot innfødte, TREE-panelet: høyere NEET-risiko som ikke forklares av sosioøkonomisk bakgrunn
+W2899219319  # 2, EU (21 land), grein 5, overutdanning blant ferdige kandidater etter fagfelt og kjønn, EU-LFS 2016
+W4283023871  # 3, GB/DE, grein 5, direkte effekt av sosial bakgrunn ved inngangen til arbeidslivet varierer med lokalt arbeidsmarked, UKHLS og SOEP
+W2792510435  # 1, CH, grein 1, nye læreplasser og konjunkturer, paneldata for sveitsiske kantoner: moderat prosyklisk respons på økonomiske sjokk (mekanisme: arbeidsmarkedet og læreplasser)
+W4386441506  # 3, GB, grein 5, lokal etterspørsel etter arbeidskraft og tid til første jobb etter endt utdanning, BHPS 1998–2008: lavt utdannede bruker 7 mnd lenger på sikker heltidsjobb i svake arbeidsmarkeder
+W4395694417  # 2, Europa (25 land), grein 2,5, klynger av utdanningssystemer etter differensiering, yrkesorientering, overganger fra videregående og kobling utdanning–arbeidsmarked
+W2969564996  # 2, Europa (inkl. DK), grein 1,5, arbeidsmarkedsutfall for avgangselever fra yrkesfag mot allmennfag på tvers av land; lærlingordning og at bedriften beholder lærlingen som mekanisme
+W4308258608  # 3, GB, grein 5, prediktorer for å bli NEET (karakterer, ikke-kognitive ferdigheter, familie, aspirasjoner, psykisk helse, lokal ledighet), dynamisk modell på longitudinelle data; tvil: 4
+W4410032776  # 1, SE, grein 5, individuell NEET-risiko for hele befolkningen (administrative data) og lokal politikk i 20 kommuner (fsQCA): kommuner med lavere NEET enn forventet
+W2891656725  # 4, FI (eller NL), grein 5, jevnaldernettverk og jobbsøking/jobbtilbud siste år i yrkesopplæring, sosiometrisk utvalg; land usikkert i raden
+W4206564043  # 1, SE, grein 5, foreldres rusmiddellidelse og NEET 17–32 år, nasjonal registerkohort født 1984–1990 (n=797 376)
+W4366541027  # 1, NO, grein 2, deltakelse i høyere utdanning etter klassebakgrunn, kjønn og bosted (by–land), registerdata for kullene 1996–1998: gutter i distriktene lavest
+W4385443687  # 1, SE, grein 5, rusmiddellidelse 17–24 år og NEET 25–34 år, nasjonal kohort født 1981–1987 med søskensammenligning
+W2949743526  # 4, Norden, oversikt, grein 1,3, yrkesutdanningen i de fire nordiske landene: fallende søkning, frafall og svake koblinger til høyere utdanning (y-vei)
+W4378232701  # 4, DK, grein 5, NEET to år etter rusbehandling (580 unge 15–25), koblet til registre: over halvparten NEET, foreldres rus og vold som prediktorer
+W4396762721  # 1, NO, grein 5, NEET-andeler i alle kommuner (flernivåanalyse) og 18 utvalgte kommuner med høyere/lavere NEET enn forventet; samordnet Nav- og sosialtjeneste som forklaring
+W2780424900  # 4, NO, grein 1, alternativ opplæring til læreplass (arbeidsplassbasert Vg3) i forsøk: bedre fullføring for elever uten læreplass, men risiko for færre nye læreplasser; tvil: 5
+W2602875633  # 1, DK, grein 3, overgangsfrekvenser fra erhvervsuddannelse til videregående uddannelse de siste tiårene, barrierer etter elevgrupper og fagområder; tvil: 4
+W3096682998  # 1, DK, grein 5, NEET-forløp over tid, sekvensanalyse av registerdata: fire av fem NEET er ikke i risiko for sosial eksklusjon (stopp mot omvei)
+W4319750589  # 1, DK, grein 5, langvarige NEET-episoder 16–20 år, registerdata: fem overgangsmønstre, risikofaktorer i barndommen, følger inn i tidlig voksen alder
+W4409279884  # 2, EU (22 land, inkl. SE), grein 5, NEET-risiko for unge mødre 20–29 og kostnader til barnehage, EU-LFS (n=13 737)
+W4412011490  # 1, FI, grein 5, NEET-andel 19–29 år i 2017 etter individ- og kommunekjennetegn, fullpopulasjonsregister: menn, lavt utdannede og innvandrere høyere, etterspørsel etter arbeidskraft
+W4417347906  # 1, NO, grein 5, overgang skole–arbeid 16–36 år for kull født på 1980-tallet med og uten barnevernsplassering, registerdata: lav inntekt, NEETW og trygd
+W2773875894  # 4, DK, grein 5, risikoatferd ved 15 år og NEET, kriminalitet og sykehusinnleggelse 16–24, survey koblet til registre, sterkere for unge fra lavere sosiale lag
+W4416096318  # 1, NO, grein 1,5, forløp 16–30 år for barn av innvandrere i yrkesfag mot studieforberedende, fire fødselskull: yrkesfag gir sikker vei til arbeid for norskfødte gutter, men ikke for innvandrerbarn, knyttet til lavere andel med lærekontrakt
+W4296010520  # 1, DK, grein 4,5, studentjobb (omfang og type) i høyere utdanning og inntekt etter studiene, 20 kull, administrative data, også for dem som avbrøt
+W4389762330  # 1, NO, grein 5, hvilke virksomheter som ansetter unge med NEET-bakgrunn, fullpopulasjonsregister med 120 000 nyansatte 15–30 år i 2018 (etterspørselssiden)
+W2791252159  # 1, SE, grein 5, arreffekt av NEET på inntekt, tvillingdesign på registerdata: NEET 2001–2003 gir 62 % lavere inntekt i 2011, ikke avhengig av alder
+W2991237081  # 1, DK, grein 1,5, IQ og foreldreutdanning og mangel på yrkeskvalifikasjon ved 30, NEET ved 30 og inntekt, register for menn født 1981–1991 (N=277 938)
+W4281622313  # 4, NO, grein 2,5, NEET og høyere utdanning blant samiske og ikke-samiske unge i Nord-Norge, ungdomsundersøkelsen NAAHS koblet til register 2003–2012 og SSB-data 2021
+W4390918037  # 3, SE, grein 5, tilknytning til arbeidsmarkedet 16–56 år i Northern Swedish Cohort, psykososiale forhold i skolealder som drivere; tvil: 4
+W4409870761  # 4, DK, grein 5, alkoholbruk og foreldres rus og NEET, nasjonal survey 2014 (15–25 år) koblet til registre 2015–2018
+W2145102371  # 2, OECD (US og Europa), grein 5, overgangsforløp skole–arbeid sent 1990-tall–tidlig 2000-tall, sekvensanalyse; lærlingordning gir flere sysselsettingsforløp, midlertidig arbeid færre
+W1633326917  # 2, OECD (16 land), grein 5, arbeidsmarkedsutfall for unge i overgangen skole–arbeid i fremvoksende og avanserte økonomier
+W2037249772  # 3, US, grein 4, økt tid til bachelorgrad NLS72/NELS88, særlig blant lavinntektsstudenter, ressurser og studentarbeid; samme materiale som W3022852315
+W2591274074  # 2, OECD, oversikt, grein 1, kostnader og nytte av lærlingordninger for elever, arbeidsgivere og det offentlige (mekanisme for tilbudet av læreplasser)
+W1581645149  # 1, Norden (DK/FI/NO/SE), grein 5, frafall i videregående etter studieretning og arbeidsmarkedseffekter av å avbryte yrkesfag, registerdata med sammenlignbar inntektsmodell; høyest frafall i yrkesfag i Norge; tvil: 2
+W1592805478  # 3, GB, grein 5, hvorfor unge fra fattige familier oftere blir NEET etter grunnskolen, LSYPE; tvil: 4
+W2216297986  # 1, SE, oversikt, grein 5, sosiale nettverk i unges inngang til arbeidslivet, med ny evidens om kontakter fra jobb siste år på videregående; tvil: 4
+W2559337031  # 3, DK (US/SE/DE), grein 4,5, utdanningsforløp etter videregående og sosial bakgrunn med arbeidsmarkedsutfall i tre land; bare tittel og emneord
+W2906074386  # 5, NO, grein 2,4, endret opptak (fra karakterer i introduksjonsemne til vitnemål) på profesjonsstudiet i psykologi i Bergen og frafall, kjønn og sosial bakgrunn (driver: opptaksregler)
+W3197149185  # 1, Norden (DK/FI/NO/SE), grein 5, sen fullføring av videregående (21–28 år) senker NEET-risiko ved 28 år, registerdata i fire land (omveier som lykkes); tvil: 2
+W1547449442  # 3, SE, oversikt, grein 1,5, hva forskningen sier om overgangen skole–arbeid for yrkesfagelever: arbeidsplassbasert mot skolebasert opplæring og arbeidsgiverkontakt, svensk ungdomsledighet etter 2008; tvil: 4
+W4415965967  # 1, SE, grein 2, overgang fra videregående til høyere utdanning i data, alle avgangselever 2014–2024 i register, sosioøkonomisk bakgrunn og kjønn; prosjektbeskrivelse uten resultater
+W4412230471  # 5, DK, grein 4, frafall første studieår i STEM og oppbygging av studieplanen, en institusjon (pågående studie)
+W7147000018  # 1, NO, grein 5, barnevernsforløp og prekær overgang skole–arbeid, månedlige registerdata for hele kull 1994–1996 (N=172 638)
+W7223652947  # 1, NO, grein 5, kort- og langvarig NEET 20–29 år for alle født 1995 (N=62 873), registerdata: 17 % kort, 12 % langvarig NEET, karakterer fra grunnskolen, inntekt, foreldreutdanning og innvandring som drivere
+W4386965077  # 1, FI, grein 5, fødselsvekt og NEET 21–27 år, registerdata kull 1987–1992, søskenfaste effekter; samme materiale som W7143541558
+W3092628770  # 1, Norden (DK/FI/NO/SE), grein 2,5, utdanning, NEET og sysselsetting ved 30 år for unge flyktninger bosatt 1986–2005, fulgt til 2015, nasjonale registre: gapet størst i videregående, mindre i høyere utdanning; tvil: 2
+W7143541558  # 1, FI, grein 5, fødselsvekt og NEET 21–27 år, registerdata for kull 1987–1992 med søskenfaste effekter, uavhengig av morens utdanning
+W4404701080  # 4, NO/IT, grein 4, metodisk kapittel om ulike mål på frafall og avbrudd i høyere utdanning, Norge og Italia som kontrast
+W4413982332  # 1, NO, grein 4, frafall i høyere utdanning og kjønnssammensetning i studiet, befolkningsdata for 22 kull: mer frafall fra kjønnsbalanserte og historisk mannsdominerte fag, ikke drevet av jevnalder-effekter
+W7223185938  # 4, DK, grein 2,4, utdanningsnivå, deltakelse i høyere utdanning og frafall blant personer med funksjonsnedsettelser, nasjonalt representativ survey (N=18 749)
+W7172410188  # 5, NO, grein 1, opplæringskontorenes rolle i rekruttering til læreplass og tilgang for vanskeligstilte, 27 intervjuer i helse, salg og elektro
+W7128439375  # 1, NO, grein 1,5, lønn etter yrkesfag for barn av innvandrere, registerdata: gutter med innvandrerforeldre får sjeldnere læreplass og velger oftere påbygg, som ikke lønner seg
+W2795451269  # 4, Norden, oversikt, grein 1,3,5, sammenligning av yrkesutdanningssystemene i Norden: avveining mellom tilgang til høyere utdanning (Sverige) og overgang til arbeid (Danmark), Norge og Finland blandet
+0198cc482a4e-dad5259f-852a-41b1-ae9d-e14eac020a26  # 1, NO, grein 2, SSB-notat om ungdom med innvandrerbakgrunn: deltakelse, fullføring av videregående og overgang til høyere utdanning
+019fdc01ddf9-0c3cb7fe-fd74-49a9-88cc-a45a81b822d4  # 4, NO, grein 2, hjemmets utdanningskultur, lærerrelasjoner og overgang til høyere utdanning, spørreundersøkelse i masteroppgave
+0198f65ad245-12c2775f-694f-43e5-b15f-01396557bc3b  # 1, NO, oversikt, grein 2,5, overgangene til høyere utdanning og arbeid for unge med nedsatt funksjonsevne, bygger på tidligere statistikk og litteratur; tvil: 4
+0198cc97e33a-7354bc89-4781-4de7-9c2d-b7ca5b5fefc8  # 5, NO, grein 5, fagskolenes samarbeid med arbeidslivet i helse- og oppvekstfag, fem skoler, støttet av kandidatundersøkelsen og SSB-registerdata; samme prosjekt som 0198cc517bfa-ada2681b-6331-4bd6-a1e1-7d8788ddc704
+0198cc981414-364ce616-8716-4ae5-bded-d4054fcfc2f5  # 4, NO, grein 5, kandidatundersøkelse blant fagskoleutdannede ca. tre kvart år etter fullført utdanning (2012): arbeidsmarkedssituasjon og hvem de er
+0198cc53ef38-e76cb9ce-6d44-479d-a89b-9582b38292d3  # 4, NO, grein 5, kandidatundersøkelse blant fagskoleutdannede våren 2012: arbeidsmarkedssituasjon, yrkesrelevans og videreutdanning tre kvart år etter, sammenlignet med forrige runde
+019938890603-831d88d8-0e9f-46e8-926f-c9740cb60f1f  # 1, NO, grein 4, studenter som var nye i UH 2011/12 fulgt til 2022/23 i Lånekassens data: 4 % brukte 8 år eller mer med stipend og lån, kjennetegn ved dem og utdanningsløpene (forsinkelse)
+019913ecfb10-7a4d13c9-91ea-4856-9922-0176711de28b  # 5, NO, grein 3, Y-veien fra fagbrev til ingeniørutdanning ved Høgskolen i Telemark, resultater og erfaringer
+019914068cc7-9ad80294-f6c2-47ac-9e6f-9f6431edb894  # 5, NO, grein 1,2, fem helsefagarbeidere med fagbrev som tar påbygg: mangel på fast heltidsjobb og veiledning som forklaring
+019fdc01bf3a-96465731-5f71-48df-aa3a-23893805cdb8  # 5, NO, grein 1,2, seks elever på Vg3 påbygg: hvorfor påbygg i stedet for læretid, valget utsettes, en skole
+019fdbffe967-cb296ad6-b583-47d4-815c-b0f4e6600ca7  # 4, NO, grein 1, helsefagarbeiderelever: påbygg eller læreplass i Vg3 (over halvparten velger påbygg), spørreundersøkelse om lærerstøtte og YFF; tvil: 5
+0198cc85ab11-84865565-4bf5-4c35-a3a5-19c085000ace  # 1, NO, grein 2,4, studenter tatt opp på realkompetanse høsten 2001 sammenlignet med generell studiekompetanse: bortvalg og studiepoeng to år etter; tvil: 4
+0198cc7e2b43-45b6d5ee-3386-4391-886d-169ee71a44e1  # 5, NO, grein 2, tresemesterordningen (forkurs) for opptak til ingeniørutdanning ved én høgskole 1997–2006: 92 % fullførte sommerkurset, 95 startet
+0198cc613771-e48c99ff-7259-4214-8831-0346e066f65f  # 4, NO, grein 2,4, studenter tatt opp på realkompetanse mot generell studiekompetanse ved fem høgskoler fra 2001: bakgrunn og gjennomstrømning, longitudinell spørreundersøkelse
+019c961b5a93-0f971e1f-9f6d-40a0-af8d-b25c9f551319  # 1, NO, grein 4, frafall fra høyskolestudier etter innvandrerbakgrunn, registerdata for dem som begynte 1990–2004 (20 % av majoriteten og alle med innvandrerbakgrunn), masteroppgave
+0198cc5c9fd5-d4bab7df-1097-4579-961b-7418cad3d322  # 1, NO, oversikt, grein 2,4, kunnskapsstatus for NIFU-forskning om rekruttering og gjennomstrømning i høyere utdanning 1991–2004; tvil: 4
+0198cc3df43c-aa1a9e15-e11c-4824-9c24-c7c920c1618d  # 5, NO, grein 4, ett studentkull ved Høgskolen i Østfold fulgt to år fra 2023: frafall og risikofaktorer, særlig master
+0198cc563570-b2c9893b-7c5f-4ee5-9102-53a5a28bfae0  # 5, NO, grein 4, studiegjennomstrømning ved UMB, statistikk og fokusgrupper
+0198cc585282-47214796-1097-41ee-8d28-155e0fb65a62  # 4, NO, grein 4, menn fullfører sjeldnere kvinnedominerte profesjonsutdanninger: interesse, karakterer fra videregående og alder som forklaring
+019b986e5f12-fbb18665-1ed6-4a93-b5d4-38ad3428a96c  # 1, NO, grein 2,4,5, pandemikullene mot tidligere kull: overgang til høyere utdanning, gjennomføring og jobb ett og to år etter, SSB-registerdata
+0198cc565317-7c8dacb8-a6a4-4fc9-a55e-2e85f986f2e7  # 4, NO, grein 5, overgang fra utdanning til arbeid for kandidater med og uten utenlandsk utdanning, Nordisk kandidatundersøkelse 2007
+0198cc563c53-38f459ab-7b12-4379-bca9-adb3f5e50784  # 1, NO, grein 1, Vg3 fagopplæring i skole for søkere uten læreplass etter Utdanningsløftet 2020: gjennomføring, overgang til lærekontrakt, fagprøver og overgang til arbeid; forklarer utvikling; tvil: 4
+0198cc517bfa-ada2681b-6331-4bd6-a1e1-7d8788ddc704  # 4, NO, grein 5, fagskolenes samarbeid med arbeidslivet og sammenhengen med kandidatenes overgang til arbeid; tvil: 5
+0199387d8a2e-0e1befec-52d5-4f02-9ad8-a694f0f7c0f4  # 1, NO, grein 5, AKU-tilleggsundersøkelse 2016 (Eurostat-modul) for 15–34 år: arbeid under utdanning, jobbsøking og første jobb etter avsluttet utdanning; tvil: 3
+0198f66af021-2104aeee-30d9-4e48-83cf-253970d559dc  # 1, Norge, grein 5, unge tiltakspengemottakere hos NAV: multivariate analyser av retur til og fullføring av videregående, arbeid, inntekt og sosialhjelp sammenlignet med annen NAV-ungdom (også effektanalyse), tvil: 4
+019a76de314d-c2464a54-e26d-4d04-9a96-a231cadaae14  # 4, Norge, grein 5, 54 unge voksne (22-30 år) som har bodd i fosterhjem: spørreskjema om utdannings- og arbeidsutfall og relasjon til fosterforeldre
+0198cc6149a2-187b032b-4157-478d-a0cb-5eae64bb5715  # 1, Norge, oversikt, grein 2, kjønnsforskjeller i frafall og kjønnede overganger til høyere utdanning, historisk utvikling og konsekvenser for videre utdanning og yrkeskarriere, datagrunnlag ikke oppgitt, tvil: 4
+0198edb8fcd3-461214b2-9083-40fb-9c88-a1273f5a74e5  # 1, Norge, grein 2, 4, registerdata, by- og distriktsungdom: start og fullføring av høyere utdanning etter sosial bakgrunn og kjønn, økende geografisk forskjell over fødselskohorter
+0198cc5442a9-7c49ca90-3883-4258-bc41-77f708bc72df  # 1, Norge, grein 5, kandidater fra våren 2000 fulgt 2000-2004 med registerkobling (halve kullet) og spørreskjema: arbeidsmarkedstilpasning, tvil: 4
+0198cc3d1133-e3629996-7c6f-4258-b392-85328783150a  # 4, Norge, grein 5, Kandidatundersøkelsen 2011 (2827 svar, 49,6 %): arbeidsmarkedssituasjon et halvt år etter master/bachelor, mange bachelorer fortsetter å studere
+01999f280c98-c35fdecf-75da-407f-8e22-d6e358b030c3  # 5, Norge, grein 4, casestudie av fire bachelorprogram: data om frafall og gjennomføring og Studiebarometeret, instituttlederes arbeid med arbeidsrelevans og frafall
+0198cc95af6a-3313dbcd-a233-4c08-bd81-06dbfb5b55e1  # 4, Norge, grein 5, kandidatundersøkelse 2015 blant teknologer, realister og økonomer tre år etter bachelor/master i 2012: situasjon på arbeidsmarkedet
+KU-46b653f6-69fd-4d03-bac9-6a7e5c746c20  # 4, Norge, grein 5, spørreundersøkelse 2009 blant 707 personer 19-35 år med nedsatt funksjonsevne: hvem havner utenfor arbeidsmarkedet etter endt utdanning, lønn
+KU-70c99648-66d8-44e9-906e-6e4275eff40c  # 1, Norge, grein 5, arbeidsdeltakelse i ordinært og skjermet arbeid og overgangen skole-arbeidsliv for personer med utviklingshemming, datagrunnlag ikke oppgitt, tvil: 4
+KU-ace49aa5-4f08-4938-b384-402f26846415  # 4, Norge, grein 5, norsk del av Nordisk kandidatundersøkelse 2007: overgang fra utdanning til arbeid for kandidater med utdanning fra utlandet mot kandidater utdannet i Norge
+KU-f25dc17f-147f-43b6-943e-f08ae52efe4a  # 1, Norge, grein 1, statistikk fra Utdanningsdirektoratet 2013-2020: progresjon fra vg2 og overgang til læreplass (status i oktober året etter), liten nedgang i overgang til læreplass i 2020
+KU-a2a2fd84-809b-4e5a-9458-f01d67220d36  # 1, Norge, grein 2, 4, registerdata for kullene 2006-2008 i studieforberedende program: overgang til høyere utdanning, studiepoengproduksjon og frafall i høyere utdanning etter program, kjønn, minoritetsbakgrunn og fylke
+LI-cwb4q1759z2d83xz  # 1, Sverige, grein 2, bare tittel: overgangen fra gymnasieskolan til högskolan (Högskoleverket 2007)
+LI-10291075  # 1, Sverige, grein 2, bare tittel: demografisk utvikling og overgangen til høyskolen (2006)
+LI-k3mqmc1bhmg21b2z  # 1, Sverige, grein 2, bare tittel: stor variasjon i overgang fra gymnasieskola til högskola (2006)
+LI-vcmwb0svs9vznb2n  # 1, Sverige, grein 2, bare tittel: store forskjeller mellom kommuner i overgang til høyskolestudier (2017)
+LI-9tdrqkv57w5sqb5t  # 1, Sverige, grein 2, bare tittel: vedlegg 2, läsår 2005-06, overgang innen 1 år, samme materiale som LI-cwb4q1759z2d83xz
+LI-0j3gcqbfxnw50v1f  # 1, Sverige, grein 2, bare tittel: vedlegg 1, läsår 2003-04, overgang innen 3 år, samme materiale som LI-cwb4q1759z2d83xz
+LI-p7s556rmmsx4c0zj  # 1, Sverige, grein 2, bare tittel: vedlegg 3, läsår 2002-03, overgang innen 3 år, samme materiale som LI-cwb4q1759z2d83xz
+LI-q8t67xg0nz8psjzw  # 1, Sverige, grein 2, bare tittel: vedlegg 4, läsår 2004-05, overgang innen 1 år, samme materiale som LI-cwb4q1759z2d83xz
+LI-6q6ppwdx4j99hn1r  # 1, Sverige, grein 2, bare tittel: fortsatt høy overgang til høyskoleutdanning, store forskjeller mellom menn og kvinner og mellom regioner (2005)
+LI-10866951  # 4, Sverige, grein 5, bare tittel: overgangen mellom gymnasiesärskola og arbeidsliv (2008), tvil: 5
+LI-wfvnm681tds05p9h  # 1, Sverige, grein 2, bare tittel: overgangen til universitet og høyskoler minker (2005)
+LI-x9m7pngmvsqhw1x0  # 4, Sverige, oversikt, grein 5, bare tittel: kartlegging av kunnskapsstatus om overgangen fra ung til voksen for personer med funksjonsnedsettelse (Forte 2020)
+LI-22457462  # 1, Sverige, grein 2, bare tittel: fra gymnasieskola til högskola, registerstudie (Skolverket 2018)
+LI-p0m4gxjgmtt8785j  # 1, Norge, grein 4, 5, bare tittel (OECD-gjennomgang av høyere utdanning i Norge: arbeidsmarkedsrelevans og utfall), tvil: 2
+LI-17761380  # 1, Sverige, grein 2, 5, bare tittel: hva ungdom gjør etter gymnasieskolan, registerstudie (Skolverket 2014)
+LI-n84fjpq0lsjnxgq5  # 4, Sverige, grein 2, bare tittel: breddet rekruttering og deltakelse i høyere utdanning (antologi 2025)
+LI-16929120  # 5, Sverige, grein 4, 5, bare tittel: statsvitenskapsstudenters forløp gjennom høyere utdanning og inn i arbeidslivet (2007)
+LI-20188784  # 1, Sverige, grein 5, bare tittel: nasjonal registerstudie av sysselsetting blant 12 269 unge voksne med intellektuell funksjonsnedsettelse (2016)
+LI-x7trd5grv3r0j8cq  # 4, Sverige, oversikt, grein 5, bare tittel: ungdoms overgang fra skole til arbeidsliv, aktuelle utfordringer og lokale erfaringer (2016)
+LI-5s0drlr53dbpkd4q  # 4, Sverige, grein 5, bare tittel: svensk gymnasial yrkesutdanning og overgangen fra skole til arbeidsliv (ESF-rådet 2019)
+LI-19731147  # 1, Sverige, grein 5, bare tittel: arbeidslivet etter skolen (Skolverket 2016), tvil: 4
+LI-bsp8qwx3819jdctl  # 1, Sverige, grein 5, bare tittel: arbeid, studier og daglig virksomhet etter gymnasiesärskolan (Skolverket 2022)
+LI-17215701  # 2, Norden, grein 1, bare tittel: rekruttering, gjennomstrømning og relevans i yrkes- og lærlingutdanningene i Norden (Nordisk ministerråd 2014), tvil: 4
+LI-22188050  # 5, Sverige, grein 4, bare tittel: gjennomstrømning og avhopp ved Högskolan i Borås (2006)
+LI-k34rx19shr8nj14f  # 5, Sverige, grein 4, bare tittel: gjennomstrømning og avhopp på förskollärarprogrammet ved Uppsala universitet, statistisk analyse (2024)
+LI-n5bkn0ghlfmpcnw7  # 1, Sverige, grein 4, bare tittel: gjennomstrømning og prestasjonsgrad i høyskolen under koronapandemien (UKÄ 2021)
+LI-4m0h7rm32n9w3kp9  # 1, Sverige, grein 4, bare tittel: mål for gjennomstrømning i utdanning på grunn- og avansert nivå (Högskoleverket 2009)
+LI-12322107  # 5, Sverige, grein 4, bare tittel: gjennomstrømning i fjernundervisning, Högskolan i Kalmar (2006)
+LI-xfqwrdkpvzftt599  # 1, Sverige, grein 4, bare tittel: synkende prestasjonsgrader i høyskolen (2010)
+LI-3ltm0mlg1jjw2qkb  # 1, Sverige, grein 4, bare tittel: gjennomstrømning på grunn- og avansert nivå til og med 2017/18 (UKÄ 2019)
+LI-r8h66863p484hq3b  # 1, Sverige, grein 4, bare tittel: gjennomstrømning på grunn- og avansert nivå til og med 2013/14 (UKÄ 2015)
+LI-9s1qqzj37jq6psl4  # 1, Sverige, grein 4, bare tittel: gjennomstrømning på grunn- og avansert nivå til og med 2011/12 (UKÄ 2013)
+LI-fx5vvjs3cfjsxhfr  # 1, Sverige, grein 4, bare tittel: gjennomstrømning på grunn- og avansert nivå til og med 2015/16 (UKÄ 2017)
+LI-6pxhq6tw4wvfv9c9  # 1, Sverige, grein 4, bare tittel: gjennomstrømning på grunn- og avansert nivå til og med 2019/20 (UKÄ 2021)
+LI-tczv6zz8rhvmx2qm  # 1, Sverige, grein 4, bare tittel: oppfølging av studenters aktivitet, andelen inaktive helårsstudenter uendret (UKÄ 2022)
+LI-tbm1j1nxrr29dzwf  # 1, Sverige, grein 4, bare tittel: utvikle oppfølgingen av inaktive studenter (UKÄ 2014)
+LI-6qb48fhx4sgj36w9  # 1, Sverige, grein 4, bare tittel: figur- og tabellgrunnlag til «Studenternas prestationsgrad fortsätter öka», samme materiale som LI-gz7hhlpvdj9gwwvn
+LI-gz7hhlpvdj9gwwvn  # 1, Sverige, grein 4, bare tittel: studentenes prestasjonsgrad fortsetter å øke (UKÄ 2018)
+LI-wdrcnsxstzc8b8x2  # 2, Sverige og andre land, grein 2, bare tittel: andre lands utdanningsnivå risikerer å dra fra Sveriges (2012)
+LI-tbk4jkp7rqlphn02  # 1, Sverige, grein 4, bare tittel: oppfølging av studenters aktivitet på kurs (UKÄ 2016)
+LI-21688627  # 1, Sverige, grein 4, bare tittel: sosial bakgrunn påvirker ikke avhopp (UKÄ 2017)
+LI-5fgn7wlz3h8j5kjl  # 1, Sverige, grein 4, 5, bare tittel: statistisk årsrapport 2018 for yrkeshøyskolen (MYH)
+LI-sc8d0v8fq37xch8j  # 1, Sverige, grein 4, 5, bare tittel: statistisk årsrapport 2023 for yrkeshøyskolen (MYH)
+LI-k40q72dwhrc9djx4  # 1, Sverige, grein 3, bare tittel: økt mobilitet mellom yrkeshøyskoleutdanning og høyskoleutdanning (MYH 2019), tvil: 4
+LI-j3zp5l5qgg2bmwxh  # 1, Sverige, grein 5, bare tittel: sysselsetting for studerende fra yrkeshøyskolen 2018 (MYH), tvil: 4
+LI-td80nj43rkh5495l  # 1, Sverige, grein 4, 5, bare tittel: statistisk årsrapport 2021 for yrkeshøyskolen (MYH)
+LI-1lg6r18fz79kmnlk  # 1, Sverige, grein 5, bare tittel: sysselsetting for studerende fra yrkeshøyskolen 2019 (MYH), tvil: 4
+LI-n748s8nnlzdbjvpm  # 1, Sverige, grein 4, 5, bare tittel: statistisk årsrapport 2022 for yrkeshøyskolen (MYH)
+LI-9vrwl3fm73xcw20t  # 1, Sverige, grein 4, 5, bare tittel: statistisk årsrapport 2024 for yrkeshøyskolen (MYH)
+LI-16010665  # 1, Sverige, grein 5, bare tittel: sysselsetting 2012 for YH- og KY-studerende som tok eksamen 2011 (MYH), tvil: 4
+LI-vf91jcn6sl581g30  # 1, Sverige, grein 4, 5, bare tittel: statistisk årsrapport 2019 for yrkeshøyskolen (MYH)
+LI-f0w1m72bc4lg281p  # 1, Sverige, grein 5, bare tittel: hva studerende gjør etter avsluttet konst- og kulturutdanning (MYH 2023), tvil: 4
+LI-8tqvc30b6w1q0cz3  # 1, Sverige, grein 5, bare tittel: sysselsetting for studerende fra yrkeshøyskolen 2021 (MYH), tvil: 4
+LI-cmvpmnft91sk7xt1  # 1, Sverige, grein 5, bare tittel: de som verken arbeider eller studerer på det svenske arbeidsmarkedet (IFAU 2018)
+LI-16926910  # 1, Sverige, grein 5, bare tittel: unge som verken arbeidet eller studerte 2000-2010 (Ungdomsstyrelsen 2014)
+LI-p2wg4vpbm4pzn2hx  # 1, Sverige, grein 5, bare tittel: unge voksne med intellektuell funksjonsnedsettelse som verken er i arbeid, utdanning eller daglig virksomhet (2020), tvil: 4
+LI-6sw5kg2g4d7qs3m4  # 1, Sverige, grein 5, bare tittel: ulike vilkår for etablering, oversikt over rapporten Fokus23 (MUCF 2023), tvil: 4
+LI-dw78z3r9bvk1ptw6  # 1, Sverige, grein 5, bare tittel: etablering på arbeidsmarkedet, eksaminerte 2005/06 (Högskoleverket 2009)
+LI-2kwxwc8j03gw73vd  # 1, Sverige, grein 5, bare tittel: etablering på arbeidsmarkedet, eksaminerte 2002/03 (2006)
+LI-k2df7wb4hv1g4pqm  # 1, Sverige, grein 5, bare tittel: etablering på arbeidsmarkedet, eksaminerte 2004/05 (2008)
+LI-10134642  # 1, Sverige, grein 5, bare tittel: etablering på arbeidsmarkedet, eksaminerte 2001/02 (2005)
+LI-9s2npl3f7422f5rc  # 1, Sverige, grein 5, bare tittel: etablering på arbeidsmarkedet, eksaminerte 2006/07 (2010)
+LI-2kx27gd00w1t74v0  # 1, Sverige, grein 5, bare tittel: etablering på arbeidsmarkedet, eksaminerte 2003/04 (2007)
+LI-tblb4rlcrtb846st  # 1, Sverige, grein 5, bare tittel: etablering på arbeidsmarkedet 2011, eksaminerte 2009/10 (2013)
+LI-4mwhj6nr2b67qv6d  # 1, Sverige, grein 5, bare tittel: etablering på arbeidsmarkedet 2009, eksaminerte 2007/08 (2011)
+LI-dw5wjtfhbph3h5gw  # 1, Sverige, grein 5, bare tittel: etablering på arbeidsmarkedet for høyskoleutdannede 2013, eksaminerte 2011/12, 2009/10 og 2007/08 (UKÄ 2015)
+LI-6qb4dn2z48cqv1bx  # 1, Sverige, grein 5, bare tittel: etablering på arbeidsmarkedet, eksaminerte 2001/02, samme materiale som LI-10134642
+LI-18110483  # 1, Sverige, grein 5, bare tittel: etablering på arbeidsmarkedet 2011, eksaminerte 2009/10, samme materiale som LI-tblb4rlcrtb846st
+LI-zgnlx8c7wlxx5xw7  # 1, Sverige, grein 5, bare tittel: figurgrunnlag, Etablering 2019 (UKÄ)
+LI-18813837  # 1, Sverige, grein 5, bare tittel: etablering for høyskoleutdannede 2013, samme materiale som LI-dw5wjtfhbph3h5gw
+LI-q15wzwhmn98dt716  # 1, Sverige, grein 5, bare tittel: født 1985, en generasjons inntreden på arbeidsmarkedet (Länsstyrelsen 2019)
+LI-2kt398wp0g5lw9ng  # 1, Sverige, grein 5, bare tittel: koronapandemien og arbeidsmarkedet for nyutdannede studenter 2021 (2022)
+LI-s9k236rrqxms553z  # 1, Sverige, grein 5, bare tittel: hvordan koronapandemien påvirker arbeidsmarkedet for nyutdannede studenter (2021)
+LI-bvf4v7nb85rmqhds  # 1, Sverige, grein 5, bare tittel: utdanning og arbeidsmarked, lærestedsspesifikke tall, figur- og tabellgrunnlag (UKÄ 2019)
+LI-bvf4whtv8lm3fqv7  # 1, Sverige, grein 5, bare tittel: utdanning og arbeidsmarked, lærestedsspesifikke tall, figur- og tabellgrunnlag (UKÄ 2021)
+LI-n6sltx8gl8q2lg9d  # 5, Sverige, grein 5, bare tittel: jurister, utdanning og arbeidsmarked (Högskoleverket 2006)
+LI-tbkhnkqlrktb32vx  # 1, Sverige, grein 5, bare tittel: inntekter fem år etter eksamen fra høyskolen (UKÄ 2019)
+LI-m5ld64nvkm37ccqg  # 5, Sverige, grein 5, bare tittel: økonomer, utdanning og arbeidsmarked (Högskoleverket 2006)
+LI-19942079  # 1, Sverige, grein 2, 5, bare tittel: PM om hva ungdom gjør etter gymnasieskolan 2014 (Skolverket 2016)
+LI-xkr5jcj6v15nl2qz  # 4, Sverige, grein 5, bare tittel: yrkesutdanningen og unges etableringsforutsetninger i Malmö (2022), tvil: 5
+LI-h4vlzj63fgjtmd7c  # 1, Sverige, grein 5, bare tittel: sysselsetting for unge med intellektuell funksjonsnedsettelse etter foreldrenes utdanningsnivå (2020), tvil: 4
+LI-18764459  # 1, Sverige, grein 2, 5, bare tittel: PM om hva ungdom gjør etter gymnasieskolan (2015)
+LI-21574290  # 1, Sverige, grein 5, bare tittel: intellektuell funksjonsnedsettelse og arbeid (2017), tvil: 4
+LI-jscr310jgt9jckbb  # 1, Sverige, grein 5, bare tittel: unges etablering i arbeids- og samfunnsliv (2017), tvil: 4
+LI-v7wn2k3wsgq337fs  # 4, Sverige, grein 5, bare tittel: lavt utdannede unges etablerings- og forsørgelsesmuligheter (Malmö 2020)
+LI-19660414  # 4, Sverige, grein 5, bare tittel: usikre overganger (2015)
+W2503768130  # 2, Norge og USA, grein 4, nasjonalt representative longitudinelle data fra begge land: frafall i høyere utdanning etter foreldrenes utdanning og inntekt (forløpsanalyse), tvil: 3
+W4409508774  # 3, Tyskland, grein 3, DZHW-panelet av skoleavgangere 2018: alternative yrkesfaglige veier til studiekompetanse og sosial ulikhet i overgangen til høyere utdanning, tvil: 4
+W4413743841  # 3, Tyskland, grein 3, NEPS startkohort 4 (N=5032): yrkesfaglige mot allmenne videregående skoler, oppnådd studiekompetanse og overgang til høyere utdanning, tvil: 4
+W2185122771  # 2, 18 land i REFLEX og HEGESCO (land ikke oppgitt i raden), grein 5, klyngeanalyse av kandidaters inngang på arbeidsmarkedet og tidlig karriere: hvor raskt, match mellom utdanning og yrke, ledighet
+W2768180012  # 3, Frankrike og Sveits, grein 3, paneldata (DEPP og TREE): om yrkesfaglige veier til høyere utdanning gir tilgang for kvinner og menn med lav kulturell kapital
+W4403333434  # 2, elleve land i Sentral- og Øst-Europa, grein 5, paneldata 2008-2021: tidlig skoleavbrudd, NEET-andeler og lønnsforhold for unge, klyngeanalyse
+W2112637607  # 3, Norge, grein 5, norsk populasjonsbasert panel 1992-2005: popularitet blant jevnaldrende i ungdomsskolen og senere økonomisk marginalisering (ledighet, sosialhjelp, lav utdanning)
+W4414161102  # 2, 31 europeiske land, grein 5, longitudinelle EU-SILC-data: NEET-risiko og NEET-varighet for unge med og uten funksjonsnedsettelse og hvordan institusjoner (yrkesfagandel, uførepenger) påvirker
+W7131132099  # 2, flere land (ikke oppgitt), grein 5, sammenligning mellom land av utdanningsnivået til NEET mot annen ungdom og forklaringer (arbeidsledighet, økonomi, sosiale forhold, utdanningssystem)
+W7141532622  # 2, OECD-land, grein 5, NEET-andeler i OECD-landene sammenlignet med Tyrkia, høyest i Colombia og Tyrkia
+W4379259422  # 3, Tyskland og Italia, grein 4, frafall fra universitetet etter sosial bakgrunn og fagfelt under finanskrisen (konjunkturer som driver), datagrunnlag ikke oppgitt i sammendraget, tvil: 4
+W4385071750  # 2, OECD-tilknyttede land, grein 5, fsQCA på sekundærdata: økonomiske og sosiokulturelle forhold og velferdsregime knyttet til NEET
+W758206652  # 2, Norden, oversikt, grein 1, 5, nordisk rapport om unges vei fra skole til arbeidsliv: yrkesfag i videregående, arbeidsmarkedspolitikk og forskjeller i overganger og sysselsetting mellom landene, tvil: 4
+W2550188752  # 1, Norge, grein 5, registerdata 1993-2009: utvikling i risiko for å være verken i arbeid eller utdanning blant unge voksne etter sosial bakgrunn, kjønn og innvandrerbakgrunn
+W4310725613  # 3, Nederland, grein 5, TRAILS-kohorten (n=1197) fra 11 til 26 år: psykisk helse i ungdommen, lav utdanning ved 22 år og NEET ved 26 år etter kjønn, tvil: 4
+W3207549655  # 2, europeiske land, grein 4, 5, LFS ad hoc-modul 2016, 15-24 år: grunner til å avslutte utdanning uten grad (også frafall fra universitet) og sannsynligheten for å bli NEET
+W4210793599  # 1, Nederland, grein 5, registerdata for hele befolkningen: unge mødre, nettverk og barnehagetilbud og sannsynligheten for å bli og forbli NEET rundt første fødsel
+W3182425390  # 2, PIAAC-land, grein 5, PIAAC: lave ferdigheter, lav utdanning og langvarig NEET-status, signaleffekt sterkest i land med yrkesrettet utdanningssystem
+W4377982777  # 2, EU-land, grein 5, EU-SILC: NEET-forløp i tiåret etter finanskrisen og makroforhold (familiepolitikk, opplæring, arbeidsmarkedsfleksibilitet, vekst)
+W3049139591  # 3, Tyskland, grein 4, 5, arbeidsmarkedsutfall (timelønn, yrkesprestisje, sysselsetting) for 25-65-åringer som har droppet ut av høyere utdanning mot dem med studiekompetanse uten studier, datagrunnlag ikke oppgitt, tvil: 4
+W4249562242  # 4, Norge, grein 5, bare tittel: oppfølging i overgangen skole-arbeid
+W4240777691  # 1, Sverige, grein 5, OECD Investing in Youth: kjennetegn ved NEET i Sverige etter kjønn, alder, utdanning, innvandrerbakgrunn, helse og foreldrenes utdanning og arbeid, datagrunnlag ikke oppgitt, tvil: 4
+W653530022  # 4, Norge og Sverige, oversikt, grein 5, kort sammendrag: unge uten fullført videregående og risiko for ledighet og utenforskap, politikk for overgangen skole-arbeid i de to landene
+W2533698072  # 2, 14 land med Norge og Sverige, grein 5, GLOBALIFE: landstudier av hvordan globalisering har endret overgangen fra skole til arbeid og etablering i tidlig voksen alder, tvil: 3
+W3177196059  # 3, Sveits, grein 3, 5, longitudinelle data fra testresultater ved 15 år til arbeidsmarkedsutfall ved 30 år: avkastning av yrkesfag og overgang fra yrkesfag til høyere utdanning
+W3132197786  # 1, England, grein 5, Next Steps koblet til National Pupil Database: yrkesfaglig mot studieforberedende løp og sosial klasse og inntekt ved 25 år, tvil: 3
+W3039135671  # 1, Sverige, grein 5, økonomiske vansker i tidlig voksen alder og senere forløp for etablering på arbeidsmarkedet, datagrunnlag ikke oppgitt, tvil: 3
+W4404722816  # 1, Danmark, grein 5, OECD Investing in Youth Nordjylland: NEET-andeler, lav utdanning og psykisk uhelse som hovedutfordringer, jobbsentrenes resultater, datagrunnlag ikke oppgitt, tvil: 4
+W4387066356  # 3, Tyskland, grein 4, NEPS-panel av bachelorstudenter: sekvensanalyse av studieforløp (lineære, ufullstendige, komplekse) etter foreldrenes utdanning, tvil: 4
+W3175691515  # 4, Norge og Sveits, grein 5, faktorielt surveyeksperiment med arbeidsgivere: arrvirkning av ledighet etter utdanningsnivå, sterkest for yrkesfag i Sveits, ikke i Norge
+W1888895105  # 2, EU- og OECD-land, grein 5, makroanalyse av hvor raskt overgangen fra skole til arbeid går etter utdanningsnivå og kjønn, varighet til første jobb
+W2592953326  # 1, Norge, grein 1, bare tittel (sammendraget er bare en japansk prosjektreferanse): vekst i lærlingordningen i Norge, tvil: 4
+W4398145198  # 1, NL, grein 5, administrative data og survey: forløp de første 10 år etter yrkesfag i Nederland (arbeid, videre utdanning, NEET), automatiseringsrisiko og startlønn
+W2974577512  # 2, IT,GB,SE, oversikt, grein 5, metasyntese: ungdomsledighet og NEET over tid i Italia, England og Sverige, utvidet utdanning i Sverige
+W4416688572  # 2, 19 europeiske land, grein 5, EU-SILC månedsdata 2004-2017: ledighet ved uteksaminering reduserer overgangen fra høyere utdanning til arbeid (6 prosent per prosentpoeng)
+W7125587801  # 1, AT, grein 4,5, østerrikske registerdata: arbeidsmarkedsforløp før og etter frafall fra høyere utdanning, sekvens- og klyngeanalyse, foreldres utdanning
+W3094978866  # 2, EU-28, grein 5, NEET-rater i EU-28 fra Eurostat 2008-2018, endring over tiårsperioden, Nederland som case
+W2555415160  # 4, DK, grein 5, avhandling med danske Vestliv og nederlandske TRAILS (prospektive kohorter): psykisk helse fra barndom, lav utdanning, NEET og arbeidsmarkedsdeltakelse i ung voksen alder
+W4387902285  # 1, NL, grein 5, nederlandske registerdata, født 1994: medisin for psykiske lidelser 12-15 år, frafall 16-19 år og tid som NEET 21-26 år
+W2540476088  # 2, EU, grein 5, bare tittel: overgangsregimer skole-arbeid i EU sammenlignet
+W999496024  # 2, 9 land inkl. FI,NO, grein 5, CHEERS (sammenlignbar kandidatundersøkelse 1999) i ni land: varighet av overgangen fra høyere utdanning til arbeid og forlengede løp
+W7225212054  # 1, DK,FI m.fl., oversikt, grein 1, lærlingordninger i åtte land (bl.a. Danmark og Finland), demografi blant lærlinger og mangel på sammenlignbare data; tvil: 2
+W2252929353  # 2, europeiske land, grein 5, avhandling om overganger skole-arbeid i internasjonal sammenligning med sekvensanalyse; trolig samme materiale som W3123002137
+W3124529990  # 1, US, grein 4, administrative utdannings- og inntektsdata: økt studiestøtte gir raskere fullføring og mindre arbeid under studiene, forklarer om lag halvparten av økt studietid; forklarer utvikling
+W2355358720  # 4, SE, grein 5, unge voksne med migrasjonsbakgrunn uten fullført videregående i Sverige, 20 livshistorier om overgang til arbeid og NEET; kvalitativ
+W4300109736  # 2, OECD, grein 5, OECD-land: lengden på overgangen skole-arbeid, midlertidige jobber som felle eller springbrett, trender i ungdomsarbeidsmarkedet siste tiår
+W2925771555  # 1, FI, grein 5, finske registerdata: økonomiske vansker i overgangen til voksenlivet, forekomst og forløp, familie- og individfaktorer, langvarig marginalisering
+W2109792300  # 1, US, grein 4, statlige longitudinelle studentdata fra Texas: student- og institusjonsfaktorer bak fullføring på normert tid, forsinket fullføring, frafall, overføring og overskytende studiepoeng
+W3026220324  # 1, SE, grein 5, svenske koblede arbeidsgiver-arbeidstakerdata: arbeid under videregående, nedleggelser av virksomheter, sysselsetting og inntekt etter fullført yrkesfag i inntil 10 år; sosiale kontakter over to resesjoner
+W2885434881  # 2, Europa inkl. Norden, grein 5, EU-SILC: foreldres sysselsetting i ungdommen og NEET rundt 30 år etter landgrupper og kjønn, unntak for Norden
+W2467186911  # 1, NO, grein 5, etterkommere av innvandrere (kull 1965-80) i Norge, registerdata fra SSB, sysselsetting og yrkesklasse 2005/06 etter utdanning og sosial bakgrunn
+W4232011213  # 2, OECD, grein 5, Education Indicators in Focus 2015: ledighet blant 15-29 år uten videregående 13 prosentpoeng høyere, høyere utdanning reduserer med ytterligere 5
+W2748389558  # 2, GB,DE,CH,ES,FI, grein 5, arrvirkning av å gå ut i dårlig konjunktur, kull fulgt 12 år i fem land inkl. Finland, ledighet og midlertidig arbeid etter utdanningsgruppe og kjønn
+W2502430201  # 4, NO, grein 4, Nord-Norge: frafall to år etter opptak blant studenter som startet ved et universitet høsten 2013, prediktorer (alder, karakterer, studietid, programlengde); tvil: 5
+W3123002137  # 2, 10 europeiske land, grein 5, sekvenser i overgangen skole-arbeid fem år etter skolen i ti europeiske land, månedlig status, typer forløp
+W7158250339  # 2, GB og andre land, grein 5, UK NEET-rate 13 til 15 prosent 2019-2025, forklart med arbeidsmarked, helse og trygd, sammenlignet med land med lav NEET-andel
+W2888140312  # 5, NO, grein 5, Søndre Nordstrand i Oslo: ungdomsekskludering, inkl. artikkel om hvordan NEET telles og måles (metode og mening); ellers kvalitativ
+W2966693685  # 1, FI, grein 5, universitets- og AMK-kandidater i Finland 2000-2016: inntekt og sysselsetting tidlig i karrieren etter institusjon og fagfelt, kontrollert for sammensetning
+W2558333547  # 1, SE, grein 4, prosjekt om endrede studieplaner og frafall i høyere utdanning 1977-2007, opptaksmønstre og gjennomstrømning i svenske profesjonsprogram etter sosial, økonomisk og kulturell bakgrunn; samme materiale som W254518383
+W1507072429  # 2, 13 EU-land, grein 5, ECHP 1994-2001 i tretten EU-land: hastighet til fast ansettelse, Markov-modell med utdanning, inaktivitet, ledighet og midlertidig arbeid, kjønnsforskjeller
+W3203520002  # 2, europeiske land, grein 5, avhandling: arbeidsmarkedsutfall for høyere utdanning mot yrkesfag i europeiske land, selektivitet og yrkesspesifisitet
+W4255447416  # 2, OECD, grein 5, Education Indicators in Focus 2016: sysselsetting blant 25-34-åringer etter nivå i høyere utdanning (kort, bachelor, master, doktor)
+W2284404950  # 4, NO, grein 1,5, menn med fagbrev i mannsdominerte håndverksyrker, to kull (fagbrev 1968-78 og 1978/79), postal survey N=144 og 28 livshistorieintervjuer, familiebakgrunn og overgang skole-arbeid; tvil: 5
+W3124252539  # 3, DE, grein 5, tysk SOEP: fars arbeidsledighet forsinker sønners overgang skole-arbeid, forskjeller etter utdanningsgruppe
+W3201297767  # 1, DK, grein 5, danske administrative data 1996-2018: unge som fullførte utdanning da NEET-raten var høy, lavere sysselsetting opptil 8 år senere
+W2620841127  # 1, NO, oversikt, grein 1, Norge og Sveits: forsinket overgang til lære, heving av lærekontrakter og frafall i fag- og yrkesopplæringen, sammenligning av forskningslitteraturen
+W3014649141  # 3, CH, grein 2, sveitsisk TREE-panel: sosial bakgrunn, lesekompetanse og sporbytte i videregående mot inngang i universitet
+W2404523280  # 4, NO, grein 4,5, studie av høyere utdanning og livskvalitet for personer med etnisk minoritetsbakgrunn, omtaler lav gjennomføring og høyt frafall blant minoritetsstudenter; datagrunnlaget går ikke fram av sammendraget
+W3117164977  # 1, DK, grein 2, danske befolkningsregistre: utsatt start i universitetet etter fagfelt (humaniora 2,5 ganger mer enn ingeniør), opptaksregler som belønnet arbeidserfaring, verdien av utsettelse
+W3015747275  # 1, SE, grein 2, friskoler i videregående i Sverige økte deltakelsen på yrkesfag, virkning på fullføring og deltakelse i høyere utdanning; forklarer utvikling
+W1972539207  # 2, 17 EU-land inkl. NO, grein 5, REFLEX og HEGESCO: yrkesretting av høyere utdanning og arbeidsmarkedsinngang 4-5 år etter, Norge blant de mest yrkesrettede
+W4409253966  # 2, AT,LT,RO, grein 2, EUROSTUDENT VII: studenter med forsinket overgang til høyere utdanning (23 prosent i Østerrike), foreldrebakgrunn og økonomi
+W7223194983  # 1, SE, grein 2, svenske registerdata, 84 855 elever som gikk ut av videregående 2020, overgang til høyere utdanning innen tre år etter kommunetype, foreldres utdanning, karakterer og kjønn
+W7160841512  # 2, OECD, grein 2,4, Education Indicators in Focus 2026: hvor godt forberedt elever i videregående er for høyere utdanning, tidlig frafall og fullføring, opptaksmodeller og økonomiske insentiver
+W132515518  # 1, SE, grein 2, bare tittel: primære og sekundære effekter av sosial bakgrunn ved overgangen til høyere utdanning i Sverige, kull født 1972-1990
+W3021082118  # 2, europeiske land og CA, grein 2,3,4, komparativ forskning: tilgang til høyere utdanning for unge med innvandrerbakgrunn etter spor i videregående, alternative ruter via yrkesfag, fullføring
+W7154671162  # 1, FR, grein 2, franske administrative data 2007-2015: avstand til selektive studieprogram og opptak, nye program øker deltakelse, større for små kommuner og yrkesfag
+W4400714740  # 2, OECD, grein 2, OECD: måling av yrkesrettet høyere utdanning (kortsyklus, fagskolelignende) i sammenlignbare data, datamangler og klassifisering
+W2733905852  # 2, europeiske land, grein 5, avhandling: inngang i første jobb og tidlig yrkeskarriere i europeisk sammenligning, institusjoner og sosiale ulikheter
+W2604914227  # 3, CH, grein 5, sveitsisk TREE-panel (PISA 2000-kullet): tidlig ledighet og midlertidighet blant yrkesfaglærte og langvarige karrierevirkninger
+W4411604226  # 3, NZ, grein 5, Dunedin-kohorten: forløp fra utdanning til arbeid, sosiale risikoer 18-45 år og dynamikk i dagpengemottak med registerdata
+W4389547466  # 2, EU-28, grein 5, European Working Conditions Survey: kvalitet på jobbene til unge i 28 EU-land og bestemmende faktorer på land- og individnivå
+W4389547586  # 2, EU-land, oversikt, grein 5, avslutningskapittel: overganger skole-arbeid i komparativt perspektiv, høyest jobbkvalitet i Norden; samme bok som W4389547466
+W2903936969  # 2, US,GB,DE,SE, grein 5, sekvensanalyse av forløp fra 16 til 25 år i fire land, yngre og eldre kull sammenlignet, økende usikkerhet i sosialdemokratiske land; tvil: 3
+W332966839  # 4, SE, grein 5, 52 unge arbeidsledige (25-29 år) i tre svenske kommuner, overgang skole-arbeid i biografisk perspektiv, lokal betydning; kvalitativ
+W3126610785  # 1, SE, grein 5, svenske koblede data over 30 år: arbeid under videregående står for 30 prosent av direkte overganger til fast arbeid etter yrkesfag, virkning av tapte arbeidsgiverkoblinger; samme materiale som W3026220324
+W7149290584  # 1, BE, grein 5, longitudinelle mikrodata i Belgia: inngang og utgang av arbeid for døtre av innvandrere mot andre kvinner tidlig i karrieren
+W4251227207  # 1, NO, grein 5, OECD Investing in Youth Norge: ytelsesmottak og fattigdom blant unge og NEET, utvikling i mottak siden finanskrisen
+W4249062308  # 1, NO, oversikt, grein 5, OECD Investing in Youth Norge: tiltak og tjenester for NEET, dekning og tilstrekkelighet (beskrivende, ikke effekt); samme rapport som W4251227207
+W4378619733  # 2, Europa inkl. Norden, grein 5, NEET i europeiske land 2000-2022 (Eurostat): nedgang i snitt, økning bl.a. i Danmark, Sverige og Island lavest
+W4234096760  # 1, NO, grein 5, OECD Investing in Youth Norge: profil av NEET, risikofaktorer og dynamikk (forekomst, varighet, langvarig NEET); samme rapport som W4251227207
+W7225058628  # 3, GB, grein 5, ALSPAC (N=8130, 11 målinger 16-33 år): karakterer i grunnskolen, traumer og depresjon mot når og hvor ofte unge blir NEET
+W4249007503  # 1, NO, grein 5, OECD Investing in Youth Norge: trender i sysselsetting, utdanningsdeltakelse, ledighet og inaktivitet blant unge, NEET-utfordringen; samme rapport som W4251227207
+W4416759066  # 1, CH, grein 3,5, sveitsisk administrativ LABB: 2012-kullet med fagbrev fulgt i sju år, forløp inn i høyere utdanning og arbeid, kjønnssegregering
+W4415429571  # 1, ikke oppgitt, grein 5, administrative data: foreldres jobbtap øker barnas risiko for NEET, sosialhjelp og dagpenger i voksen alder, effekter i over ti år
+W7165171812  # 2, Norden, grein 5, NEET-rater i Danmark, Norge, Sverige, Finland og Island 2005-2022, panel-VAR: økonomisk vekst og ledighet mot NEET
+W7202419976  # 2, GB og andre land, grein 5, bare tittel; samme materiale som W7158250339
+W7117709902  # 2, 46 land, grein 5, NEET-rater i 46 land (OECD m.fl.), strukturlikningsmodell: humankapital, arbeidsmarkedspolitikk, arbeidstakerrettigheter og ledighet
+W4234278896  # 1, FI, grein 5, OECD Investing in Youth Finland, sammendrag: ungdomssysselsetting under nordisk nivå, ufaglærte unge sliter, de uten fullført videregående er nær halvparten av NEET
+W7127341058  # 4, IS, grein 5, Islandsk ungdomsundersøkelse 2022: unge 18-24 uten fullført videregående, situasjon, årsaker og planer for videre utdanning, lav NEET-andel og sen fullføring
+W4405978084  # 1, FI, grein 5, hele den finske befolkningen 18-29 år 1995-2020: tilstandsavhengighet i NEET, høyere for menn, lav foreldreutdanning, utenlandsk opprinnelse, psykisk helse og barnevern
+W4200039788  # 1, NO,FI,ZA, grein 5, statistiske øyeblikksbilder av unges liv i Sør-Afrika og Norden (NEET); sammendraget gjelder hele boka, så nesten bare tittel; tvil: 2
+W4246931895  # 1, SE, grein 5, OECD Investing in Youth Sverige: ytelsesmottak og fattigdom blant unge og NEET, trender siden finanskrisen og varighet
+W2799887282  # 1, SE, grein 5, svenske kommuner 2003-2013 (3179 observasjoner, 289 kommuner): NEET-andel og lokalt arbeidsmarked, Komvux og kommunale tiltak; NEET økte fra 3 til nesten 16 prosent
+W4234277228  # 1, SE, oversikt, grein 5, OECD Investing in Youth Sverige: tiltak og tjenester for NEET (beskrivende); samme rapport som W4246931895
+W4255767807  # 1, SE, grein 5, OECD Investing in Youth Sverige: arbeidsmarkeds- og utdanningsutfall for unge, trender i sysselsetting og ledighet, NEET-andelen; samme rapport som W4246931895
+W4250847544  # 1, SE, grein 5, OECD Investing in Youth Sverige, sammendrag: NEET 10 prosent av 15-29 år i 2015, halvparten inaktive, økte fra 9 til 12 prosent 2007-2009; samme rapport som W4246931895
+W4404798804  # 1, DK, grein 5, OECD Investing in Youth Nord-Danmark 2024: arbeidsmarkedsutfall for unge, lav utdanning og psykisk uhelse som hovedutfordringer for NEET
+W4404798809  # 1, DK, grein 5, OECD Investing in Youth Nord-Danmark 2024: tjenester for å koble unge til arbeid og utdanning; samme materiale som W4404798804
+W7115313644  # 5, FI, grein 4, internasjonale studenter ved én finsk AMK: årsaker til avbrudd (økonomi, språk, veiledning); survey og intervjuer
+W254518383  # 1, SE, grein 4,5, svenske registerdata 1977-2007: typer og hyppighet av frafall og programbytte i høyere utdanning, profesjonsprogram, frafalnes yrke; supplert med spørreskjema
+W2912581855  # 3, DE, grein 2, tyske kohortstudier (11 kull født 1919-1986): samfunnsendring og konjunkturer mot utdanningsforløp og ulikhet
+W7151921642  # 1, FR, grein 2, avhandling: ulikhet i tilgang til høyere utdanning og selektive studier etter foreldres inntekt og kjønn i Frankrike, ressurser mot ferdigheter; tvil: 3
+W4214894711  # 3, GB, grein 5, BCS70: sosial bakgrunn og yrkesprestisje de første ti årene etter høyere utdanning etter fagfelt
+W4389547547  # 2, EU-land, grein 5, EU-LFS mikrodata: sammensatt indikator for tidlig jobbusikkerhet i europeiske land; samme bok som W4389547466
+W2237244252  # 1, FI, grein 5, finske administrative data (ca. 3000 barn av innvandrere og 20 000 i majoriteten): inngang i arbeidsmarkedet etter grunnskole, særlig for dem uten videregående
+W2624429745  # 5, SE, grein 4, mannlige studenter og menn som har avbrutt førskolelærerutdanningen ved ett lærested i Sverige, motiver og årsaker til avbrudd; kvalitativ
+W2418771800  # 5, SE, grein 4, seks studenter som har avbrutt lærerutdanningen i Sverige, årsaker og videre karriere (ny utdanning eller arbeid); kvalitativ
+W563923354  # 5, SE, grein 4, juriststudenter i Sverige: sosial bakgrunn, integrering og høyt frafall på juristprogrammet; dybdeintervjuer
+W2420376172  # 5, SE, grein 4, åtte menn som har avbrutt førskolelærerprogrammet i Sverige, kjønnsnormer og avbruddsprosessen; kvalitativ
+KU-a2f06a60-ee72-4af4-906b-43d26185b719  # 5, NO, grein 5, evaluering (Oslo Economics for Bufdir) av Nattergalen og praksistilskuddet: barrierer i overgangen fra studier til arbeid i barnevernet; evaluering av ordninger, vurder om relevant
+KU-af41c0d8-1c99-410d-a9c0-ad8b04345fac  # 1, NO, grein 5, kandidater utdannet våren 2000 fulgt til 2004 med spørreskjema og koplinger mot SSB-registre, arbeidsmarkedstilpasning for akademikere; tvil: 4
+KU-82b56fd3-606b-4ac1-9493-17afcaad2ba0  # 1, NO, grein 2,5, SSB 2024: innvandrerkvinner og norskfødte døtre, utdanning, arbeid og inntekt, forskjeller i måloppnåelse i utdanningsløpet, registerdata 2003-2023
+KU-5d43a77a-4fa5-4933-8064-edbee2060885  # 1, NO, grein 4, SSB 2024: studenter som brukte opptil 8 år med stipend og lån, nye i UH 2011/12, hva de gjorde gjennom utdanningsløpet (forsinkelse, bytte)
+KU-911dc3ec-b496-493d-bfbe-85e78f19adef  # 1, NO, grein 2,5, HK-dir 2026 kandidatundersøkelse fagskole 2021-2024 med registerdata om sysselsetting og lønn over flere år, studentsammensetning og arbeidsmarkedsutfall; tvil: 4
+KU-a26fb156-021a-450a-8d14-9b6e9d988e26  # 3, NO, grein 5, Kandidatundersøkelsen 2025: overgang fra master til arbeid seks måneder etter, sysselsetting, ledighet, samsvar, økning i ledighet fra 2023, forskjeller etter fagfelt og region; tvil: 4
+LI-20187901  # 1, SE, grein 4, bare tittel; samme materiale som W2558333547 (familiebakgrunn og strategier i høyere utdanning)
+LI-12306631  # 1, DK,FI,NO,SE, grein 5, bare tittel: sosial ekskludering og arbeidsmarkedstilknytning blant unge som har avbrutt videregående i fire nordiske land; tvil: 2
