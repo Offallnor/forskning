@@ -858,6 +858,11 @@ def referanse_modus(mappe, uttrykk):
                 r = json.loads(l)
                 hentet[r["id"]] = r
         print(f"{len(hentet)} kilder er hentet før og slås ikke opp på nytt (referanser-hentet.jsonl)", flush=True)
+    # referanser-vurdert.txt: kildene som var valgt da forrige runde ble ferdig. Referansene fra dem er vurdert
+    # før. Finnes ikke fila, regnes alle valgte kilder som nye.
+    vurdert_fil = os.path.join(ut, "referanser-vurdert.txt")
+    vurdert = set(open(vurdert_fil, encoding="utf-8").read().split()) if os.path.exists(vurdert_fil) else set()
+    nye_kilder, fra_nye = set(valgt) - vurdert, set()
     for wid in [v for v in valgt if v not in fulgt]:
         if wid in hentet:
             rb, rf = hentet[wid]["bakover"], hentet[wid]["forover"]
@@ -881,12 +886,17 @@ def referanse_modus(mappe, uttrykk):
             bak.setdefault(r, set()).add(wid)
         for r in rf:
             fram.setdefault(r, set()).add(wid)
+        if wid in nye_kilder:
+            fra_nye.update(rb)
+            fra_nye.update(rf)
     if os.path.exists(fulgt_fil):
         open(fulgt_fil, "w", encoding="utf-8").write("\n".join(sorted(fulgt | set(valgt))) + "\n")
     alle = (set(bak) | set(fram)) - set(valgt)
     print(f"{len(valgt)} valgte kilder, {len(bak)} referanser bakover, {len(fram)} forover, {len(alle)} nye", flush=True)
-    # Metadata hentes bare for kilder som ikke er kandidater fra før. De andre har metadata i kandidater.jsonl,
-    # og å slå opp alle på nytt fikk runden til å gå ut på tidsgrensen (18.11.2026).
+    # Metadata hentes bare for referanser som ikke er kandidater fra før (de har metadata i kandidater.jsonl), og
+    # bare for dem som kan ha endret seg siden forrige runde: de som en ny kilde peker på, og de som har minst to
+    # pekere. En referanse med én peker fra en gammel kilde ble vurdert i runden da den kilden ble fulgt, og er
+    # kandidat fra før hvis den hadde treff. Å slå opp alle på nytt fikk runden til å gå ut på tidsgrensen (18.11.2026).
     meta = {}
     for wid in alle & set(kand):
         r = dict(kand[wid])
@@ -896,7 +906,7 @@ def referanse_modus(mappe, uttrykk):
             r["siteringer"] = 0
         r["tittel"], r["sammendrag"] = str(r.get("tittel") or ""), str(r.get("sammendrag") or "")
         meta[wid] = r
-    liste = sorted(alle - set(kand))
+    liste = sorted(w for w in alle - set(kand) if w in fra_nye or len(bak.get(w, ())) >= 2 or len(fram.get(w, ())) >= 2)
     print(f"{len(meta)} er kandidater fra før, metadata hentes for {len(liste)}", flush=True)
     for i in range(0, len(liste), 50):
         d = hent(f"{API}/works?filter=openalex:{'|'.join(liste[i:i+50])}&per_page=50") or {}
@@ -930,6 +940,7 @@ def referanse_modus(mappe, uttrykk):
     with open(os.path.join(ut, "kandidater.jsonl"), "a", encoding="utf-8") as f:
         for r in nye:
             f.write(json.dumps({k: v for k, v in r.items() if k not in ("bakover", "forover", "uttrykk")}, ensure_ascii=False) + "\n")
+    open(vurdert_fil, "w", encoding="utf-8").write("\n".join(sorted(vurdert | set(valgt))) + "\n")
     print(f"{len(rader)} referansekandidater, {len(nye)} nye i kandidatlisten")
 
 
