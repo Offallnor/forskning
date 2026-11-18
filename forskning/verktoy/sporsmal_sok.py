@@ -885,8 +885,19 @@ def referanse_modus(mappe, uttrykk):
         open(fulgt_fil, "w", encoding="utf-8").write("\n".join(sorted(fulgt | set(valgt))) + "\n")
     alle = (set(bak) | set(fram)) - set(valgt)
     print(f"{len(valgt)} valgte kilder, {len(bak)} referanser bakover, {len(fram)} forover, {len(alle)} nye", flush=True)
+    # Metadata hentes bare for kilder som ikke er kandidater fra før. De andre har metadata i kandidater.jsonl,
+    # og å slå opp alle på nytt fikk runden til å gå ut på tidsgrensen (18.11.2026).
     meta = {}
-    liste = sorted(alle)
+    for wid in alle & set(kand):
+        r = dict(kand[wid])
+        try:
+            r["siteringer"] = int(r.get("siteringer") or 0)
+        except (TypeError, ValueError):
+            r["siteringer"] = 0
+        r["tittel"], r["sammendrag"] = str(r.get("tittel") or ""), str(r.get("sammendrag") or "")
+        meta[wid] = r
+    liste = sorted(alle - set(kand))
+    print(f"{len(meta)} er kandidater fra før, metadata hentes for {len(liste)}", flush=True)
     for i in range(0, len(liste), 50):
         d = hent(f"{API}/works?filter=openalex:{'|'.join(liste[i:i+50])}&per_page=50") or {}
         for w in d.get("results") or []:
