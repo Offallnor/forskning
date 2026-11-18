@@ -1,0 +1,19 @@
+id	ny_kategori	grunnlag	begrunnelse
+W1718381914	4	sammendrag	Matching kombinert med forskjell-i-forskjell: søkere sammenlignes med ikke-deltakere, altså selvvalgt deltakelse. Ingen variasjon utenfra og ingen test av trender nevnt.
+W3088362019	4	tekst	Variasjonen kommer fra når politikken gjaldt (s. 13), men oppgraderere sammenlignes på tvers av perioder uten samtidig kontrollgruppe. Eksklusjonsantakelsen kan ikke testes (s. 14), bare én placebo-sjekk (s. 16). Grensetilfelle.
+W2070110548	4	sammendrag	Matchet sammenligning av deltakere og ikke-deltakere med forskjell-i-forskjell. Selvvalgt deltakelse og ingen variasjon utenfra.
+W2171723407	4	tekst	Betinget forskjell-i-forskjell: deltakere i Kunskapslyftet mot ikke-deltakere med samme kjennetegn (s. 15–16). Forfatterne sier selv at det ikke finnes noe instrument (s. 17).
+W3082473857	4	tekst	Panel med faste effekter og trender per arbeidstaker (s. 11, 19). Variasjonen er studiepoengene arbeidstakerne selv valgte. Ingen variasjon utenfra.
+W2418702298	4	sammendrag	Matchet forskjell-i-forskjell: studenter som selv valgte kommersiell høyskole, mot offentlig høyskole og mot ikke-studenter. Selvvalgt kontrast.
+W2125137934	4	sammendrag	Kontrollgruppe og instrumentvariabel, men sammendraget sier ikke hva instrumentet er eller hvor sterkt første trinn er. Ikke nok til å flytte opp.
+W4388104419	4	sammendrag	Opptaksprøveskår brukes som instrument. Skåren kan påvirke inntekt direkte, og første trinn er ikke oppgitt. Behandlingseffekten bygger på vekting med tilbøyelighetsskår.
+W3122410011	4	sammendrag	Forskjell-i-forskjell: oppsagte som selv tok utdanning, mot oppsagte som ikke gjorde det. Selvvalgt kontrast og ingen variasjon utenfra.
+W7139974435	4	sammendrag	Forskjell-i-forskjell der de som fullførte, sammenlignes med de som ikke fullførte. Å fullføre er selvvalgt og henger sammen med utfallet.
+W2047699208	4	sammendrag	Bestått mot ikke bestått GED-prøve, vekst i registerinntekt. Sammendraget viser ikke at prøvegrensen brukes som diskontinuitet. Ikke nok til å flytte opp.
+W2236052081	4	sammendrag	Bare tittel. Ikke noe grunnlag for å flytte opp.
+W1483553715	4	tekst	Oversikt uten systematisk søk. Den bygger mest på sammenligninger av deltakere og «statistiske tvillinger» laget med matching i registerdata (s. 2–3).
+W2159964895	4	tekst	Fortellende oversikt. Opplæringsstudiene den viser til, bygger på matching og varighetsmodeller på survey- og registerdata (s. 11–12). Ikke systematisk søk.
+W3183572068	4	tekst	Senere påmeldte er kontrollgruppe, med tilbakeskuende spørsmål og 18 prosent svar ved oppfølgingen (s. 4–5). Ingen test av trender og ingen variasjon utenfra.
+W3198832166	4	sammendrag	Metaevaluering av effektstudier med kontrollgruppe. Sammendraget sier ikke hvilke design studiene har eller om søket var systematisk. Ikke nok til å flytte opp.
+W3170385016	4	tekst	Panel med faste effekter der deltakelse i yrkesopplæring er selvvalgt (s. 7). Parallelle trender er bare sjekket ved at resultatet tåler andre kontrollvariabler (s. 10).
+W1570387063	4	tekst	Fortellende oversikt over evalueringene av Hartz-reformene. Den bygger på matching av deltakere og ikke-deltakere (s. 8). Ikke systematisk søk.
