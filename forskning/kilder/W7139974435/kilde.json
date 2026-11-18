@@ -1,0 +1,16 @@
+{
+ "ar": 2026,
+ "doi": "https://doi.org/10.3102/01623737261418699",
+ "forfattere": [
+  "James Cowan",
+  "Dan D. Goldhaber",
+  "Suvekshya Gautam"
+ ],
+ "id": "W7139974435",
+ "kilde": "Educational Evaluation and Policy Analysis",
+ "lenke": "https://openalex.org/W7139974435",
+ "oversikt": false,
+ "sammendrag": "This study investigates the labor market returns to educational credentials earned during incarceration, focusing on GED diplomas and short-term vocational certificates. We employ a difference-in-differences (DID) design to estimate the causal impact of these credentials on post-release earnings and employment. Specifically, we compare individuals who earned a credential with those who enrolled in educational programs but did not complete one. Obtaining a GED or vocational certificate increases quarterly earnings by approximately $450 or $250, respectively. Completers work more hours and earn higher wages post-release. The earnings gains from certificates are particularly concentrated in the construction and manufacturing sectors. This study contributes to the evidence on the economic returns to credentials earned in prison and how they vary across fields.",
+ "tittel": "Course Corrections? The Labor Market Returns to Correctional Education Credentials",
+ "type": "article"
+}

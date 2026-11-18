@@ -1,0 +1,17 @@
+{
+ "apen_url": "https://doi.org/10.7916/d8kd262k",
+ "ar": 2010,
+ "doi": "https://doi.org/10.7916/d8kd262k",
+ "forfattere": [
+  "Matthew Zeidenberg",
+  "Sung‐Woo Cho",
+  "Davis Jenkins"
+ ],
+ "id": "W1505725973",
+ "kilde": "Columbia Academic Commons (Columbia University)",
+ "lenke": "https://openalex.org/W1505725973",
+ "oversikt": false,
+ "sammendrag": "In response to the low rates at which adult basic skills students advance to and succeed in college-level occupational programs, the Washington State Board for Community and Technical Colleges (SBCTC) developed the Integrated Basic Education and Skills Training, or I-BEST. In the I-BEST model, a basic skills instructor and an occupational instructor team teach occupational courses with integrated basic skills content, and students receive college-level credit for the occupational coursework. In this study, we examined the impact of I-BEST on students enrolled in the program in 2006““07 and 2007““08. We measured seven educational outcome variables: (1) whether a student earned any college credit (of any kind), (2) whether a student earned any occupational college credit, (3) the number of college credits a student earned, (4) the number of occupational college credits a student earned, (5) whether or not a student persisted to the following year after initial enrollment, (6) whether a student earned a certificate or degree, and (7) whether a student achieved point gains on basic skills tests. We also examined two labor market outcomes: the change in wages for those who were employed both before and after program enrollment, and the change in the number of hours worked after leaving the program. We found that enrollment in I-BEST had positive impacts on all but one of the educational outcomes (persistence was not affected), but no impact on the two labor market outcomes. However, I-BEST students in our sample were entering the labor market just as the economy was entering a major recession, and perhaps a future evaluation will reveal better labor market outcomes. We performed a difference-in-differences (DID) analysis and found that students who attended colleges with I-BEST after the program was implemented were 7.5 percentage points more likely to earn a certificate within three years and almost 10 percentage points more likely to earn some college credits, relative to students who were not exposed to I-BEST. Unlike the regression and PSM analyses we carried out, the DID approach allows us to make causal inferences about the effectiveness of I-BEST. The DID findings are especially impressive given that they are based on the effects of I-BEST during their first year of implementation at the subset of colleges offering the \"treatment\" examined. We assume that the effectiveness of the I-BEST model will improve as colleges gain more experience with it.",
+ "tittel": "Washington State's Integrated Basic Education and Skills Training Program (I-BEST): New Evidence of Effectiveness",
+ "type": "article"
+}

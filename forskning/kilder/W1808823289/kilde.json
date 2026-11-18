@@ -1,0 +1,16 @@
+{
+ "ar": 2014,
+ "doi": "https://doi.org/10.1111/ijtd.12040",
+ "forfattere": [
+  "Roland Andersson",
+  "Pardis Nabavi",
+  "Mats Håkan Wilhelmsson"
+ ],
+ "id": "W1808823289",
+ "kilde": "International Journal of Training and Development",
+ "lenke": "https://openalex.org/W1808823289",
+ "oversikt": false,
+ "sammendrag": "Researchers have established a relationship between greater education and training and higher earnings but it is difficult to infer that the former causes the latter if those with higher earnings tend to engage in more education and training. The present study attempts to control for ability and family background to see if stronger inferences can be made about education and training as the independent variable. The study focuses upon advanced vocational education and training (AVET) in Sweden. This is post‐secondary school education for individuals who are 20 years of age or older. The aim of this article is to estimate the effects of AVET on earnings by controlling for selection bias. We used various approaches such as instrumental variables, Hausman–Taylor estimates, fixed effects estimates and propensity score matching to achieve this aim. A panel, or longitudinal, data set for eight different labor markets in Sweden for the period 1996–2008 was used. The results indicate that earnings from AVET are higher than the return on investment in comprehensive education. The average effect on income is estimated to be in the range of 3–8 percent.",
+ "tittel": "The impact of advanced vocational education and training on earnings in S weden",
+ "type": "article"
+}

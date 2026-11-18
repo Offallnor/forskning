@@ -1,0 +1,22 @@
+{
+ "apen_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/ecin.13111",
+ "ar": 2018,
+ "doi": "https://doi.org/10.1111/ecin.13111",
+ "forfattere": [
+  "Gérard J. van den Berg",
+  "Christine Dauth",
+  "Pia Homrighausen",
+  "Gesine Stephan"
+ ],
+ "hentet": "2026-11-18",
+ "hentet_fra": "https://uu.diva-portal.org/smash/get/diva2:1740343/FULLTEXT01",
+ "hvordan": "pdf",
+ "id": "W3146211123",
+ "kilde": "Economic Inquiry",
+ "lenke": "https://openalex.org/W3146211123",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "Abstract We mailed brochures to 10,000 randomly chosen employed German workers who were eligible for a subsidized occupational training program called WeGebAU, informing them about the importance of skills‐upgrading training in general and about WeGebAU in particular. Using survey and register data, we estimate effects of the informational brochure on awareness of the program, on take‐up of WeGebAU and other training, and on subsequent employment. The brochure more than doubles awareness of the program. There are no effects on WeGebAU take‐up, but participation in other (unsubsidized) training increases among employees aged under 45. Short‐term labor market outcomes are not affected.",
+ "tittel": "Informing Employees in Small and Medium Sized Firms About Training: Results of a Randomized Field Experiment",
+ "type": "article"
+}

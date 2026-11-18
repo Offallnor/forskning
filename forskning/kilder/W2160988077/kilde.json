@@ -1,0 +1,15 @@
+{
+ "ar": 2014,
+ "doi": "https://doi.org/10.3102/0162373714553814",
+ "forfattere": [
+  "Mina Dadgar",
+  "Madeline Joy Trimble"
+ ],
+ "id": "W2160988077",
+ "kilde": "Educational Evaluation and Policy Analysis",
+ "lenke": "https://openalex.org/W2160988077",
+ "oversikt": false,
+ "sammendrag": "This study provides one of the first estimates of the returns to different types of community college credentials—short-term certificates, long-term certificates, and associate degrees—across different fields of study. We exploit a rich data set that includes matched, longitudinal college transcripts and Unemployment Insurance records for students who entered a Washington State community college in 2001–2002. Our findings based on an individual fixed effect model suggest that earning an associate degree or a long-term certificate is associated with increased wages, particularly for women. We find that there is greater variation in returns to wages by the field of study than by degree type.",
+ "tittel": "Labor Market Returns to Sub-Baccalaureate Credentials: How Much Does a Community College Degree or Certificate Pay?",
+ "type": "article"
+}

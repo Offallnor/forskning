@@ -1,0 +1,15 @@
+{
+ "ar": 2011,
+ "forfattere": [
+  "Marc Frenette",
+  "Richard Upward",
+  "Peter W. G. Wright"
+ ],
+ "id": "W3122410011",
+ "kilde": "RePEc: Research Papers in Economics",
+ "lenke": "https://openalex.org/W3122410011",
+ "oversikt": false,
+ "sammendrag": "In this study, the long-term impact on earnings of attending post-secondary education institutions following job loss is estimated using a large longitudinal administrative database of Canadian workers. A difference-in-difference model is used for this purpose. The results suggest that, over the period spanning five years preceding and nine years following job loss, workers who attended post-secondary education shortly after displacement saw their earnings increase by almost $7,000 more than displaced workers who did not. Significant benefits are found by sex, age, marital status, and union coverage, with the exception of men aged 35 to 44 years. Despite the benefits of education, job displacement is found to be associated with only a modest increase in post-secondary education attendance for all groups examined.",
+ "tittel": "The Long-term Earnings Impact of Post-secondary Education Following Job Loss",
+ "type": "preprint"
+}

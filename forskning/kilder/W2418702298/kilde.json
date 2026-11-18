@@ -1,0 +1,15 @@
+{
+ "ar": 2018,
+ "doi": "https://doi.org/10.3368/jhr.54.2.1016.8302r1",
+ "forfattere": [
+  "Stephanie Riegg Cellini",
+  "Nicholas Turner"
+ ],
+ "id": "W2418702298",
+ "kilde": "The Journal of Human Resources",
+ "lenke": "https://openalex.org/W2418702298",
+ "oversikt": false,
+ "sammendrag": "We draw on population-level administrative data from the U.S. Department of Education and the Internal Revenue Service to quantify the impact of for-profit college attendance on the employment and earnings of more than one million students. Using a matched comparison group difference-in-differences design, we find that certificate-seeking students in for-profit institutions are 1.5 percentage points less likely to be employed and, conditional on employment, have 11 percent lower earnings after attendance than students in public institutions. These results hold for both men and women and for seven of the top ten fields of study. We find that earnings and employment outcomes are particularly poor for students attending for-profit colleges that offer the majority of their courses online and for multicampus chains. We find that for-profit students experience small, statistically insignificant gains in annual earnings after attendance compared to a matched control group of young individuals who do not attend college. A back-of-the-envelope comparison of these earnings gains to average debt burdens suggests that for-profit certificate programs do not pay off for the average student.",
+ "tittel": "Gainfully Employed? Assessing the Employment and Earnings of For-Profit College Students Using Administrative Data",
+ "type": "article"
+}

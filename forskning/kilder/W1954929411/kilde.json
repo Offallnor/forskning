@@ -1,0 +1,21 @@
+{
+ "apen_url": "http://urn.kb.se/resolve?urn=urn:nbn:se:su:diva-56287",
+ "ar": 2014,
+ "doi": "https://doi.org/10.1111/labr.12030",
+ "forfattere": [
+  "Anders Stenberg",
+  "Xavier de Luna",
+  "Olle Westerlund"
+ ],
+ "hentet": "2026-11-18",
+ "hentet_fra": "http://www.usbe.umu.se/digitalAssets/69/69306_ues823.pdf",
+ "hvordan": "pdf",
+ "id": "W1954929411",
+ "kilde": "Labour",
+ "lenke": "https://openalex.org/W1954929411",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "Abstract Governments inEurope,Canada and theUSAhave expressed an ambition to stimulate education of older. In this paper, we analyse if there are effects on annual earnings of formal education for participants aged 42–55 at the time of enrolment in 1994–95. The analysis explores longitudinal population register data stretching from 1982 to 2007. The method used is difference‐in‐differences propensity score matching based on a rich set of covariates, including indicators of health and labor market marginalization. Our findings underline the importance of long follow up periods and imply positive effects for women, especially so for women with children, and no significant average earnings effects for men. These results differ from earlier studies but are stable to several alternative assumptions regarding unobservable characteristics. Data further indicate that the gender gap in our estimates may stem from differences in underlying reasons for enrolment.",
+ "tittel": "Does Formal Education for Older Workers Increase Earnings? — Evidence Based on Rich Data and Long‐term Follow‐up",
+ "type": "article"
+}

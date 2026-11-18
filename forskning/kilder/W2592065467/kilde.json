@@ -1,0 +1,17 @@
+{
+ "apen_url": "http://hdl.handle.net/10197/9008",
+ "ar": 2017,
+ "doi": "https://doi.org/10.1086/691391",
+ "forfattere": [
+  "Christopher A. Jepsen",
+  "Peter R. Mueser",
+  "Kenneth R. Troske"
+ ],
+ "id": "W2592065467",
+ "kilde": "Journal of Labor Economics",
+ "lenke": "https://openalex.org/W2592065467",
+ "oversikt": false,
+ "sammendrag": "We evaluate the educational returns to General Educational Development (GED) certification using state administrative data. We use fuzzy regression discontinuity (FRD) methods to account for the fact that GED test-takers can repeatedly retake the test until they pass it and the fact that test-takers have to pass all five subtests before receiving the GED. We find that the GED increases the likelihood of postsecondary attendance and course completion substantially but that the GED impact on overall credits completed is modest; the GED causes an average increment of only two credits for men and six credits for women.",
+ "tittel": "Second Chance for High School Dropouts? A Regression Discontinuity Analysis of Postsecondary Educational Returns to the GED",
+ "type": "article"
+}

@@ -1,0 +1,18 @@
+{
+ "apen_url": "https://journals.sagepub.com/doi/pdf/10.3102/01623737231199985?download=true",
+ "ar": 2023,
+ "doi": "https://doi.org/10.3102/01623737231199985",
+ "forfattere": [
+  "Jason Jabbari",
+  "Yung Chun",
+  "Wenrui Huang",
+  "Stephen Roll"
+ ],
+ "id": "W4388104419",
+ "kilde": "Educational Evaluation and Policy Analysis",
+ "lenke": "https://openalex.org/W4388104419",
+ "oversikt": false,
+ "sammendrag": "We conduct an impact analysis on a unique technology certificate and apprenticeship program offered by LaunchCode. We merge administrative data containing entrance exam scores with survey data for individuals that were (a) not accepted, (b) accepted but did not complete the course, (c) completed the course but not the apprenticeship, and (d) completed the course and the apprenticeship. By using entrance exam scores as an instrumental variable, we conduct an intent-to-treat model, finding that program acceptance was significantly associated with increased earnings and probabilities of working in a science, technology, engineering, and math (STEM) profession. Then, by using machine learning-generated multinomial propensity score weights, we conduct a treatment-on-treated analysis, finding that these increases appear to be primarily driven by the apprenticeship component.",
+ "tittel": "Disaggregating the Effects of STEM Education and Apprenticeships on Economic Mobility: Evidence From the LaunchCode Program",
+ "type": "article"
+}

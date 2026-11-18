@@ -1,0 +1,19 @@
+{
+ "apen_url": "http://www.iab.de/199/section.aspx/Publikation/k010129d01",
+ "ar": 2000,
+ "forfattere": [
+  "Bernd Fitzenberger",
+  "Stefan Speckesser"
+ ],
+ "hentet": "2026-11-18",
+ "hentet_fra": "http://doku.iab.de/mittab/2000/2000_3_MittAB_Fitzenberger_Speckesser.pdf",
+ "hvordan": "pdf",
+ "id": "W1484534434",
+ "kilde": "University of Brighton Repository (University of Brighton)",
+ "lenke": "https://openalex.org/W1484534434",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "Dieser Beitrag gibt einen Überblick der neueren wissenschaftlichen Literatur zur Evaluation der Aktiven Arbeitsmarktpolitik (AAMP) in Deutschland. Das Grundproblem mikroökonomischer Evaluation besteht darin, den Vergleichsmaßstab bei Nichtteilnahme zu schätzen, sei es auf Basis einer vergleichbaren Kontrollgruppe von Nichtteilnehmern oder auf Basis der Situation vor Teilnahme. Entscheidend ist hierbei, den potentiellen Selektionsproblemen Rechnung zu tragen. Evaluationsstudien auf der Makroebene müssen zusätzlich auch die indirekten Effekte der AAMP auf den gesamten Arbeitsmarkt berücksichtigen und der möglichen Endogenität der AAMP Rechnung tragen. Die meisten Evaluationsstudien für Deutschland zeigen keine signifiant positiven Beschäftigungseffekte der AAMP, sind jedoch mit großer statistischer Unsicherheit behaftet. Wir führen letzteres im wesentlichen darauf zurück, daß wegen zu geringen Datenumfangs meist äußerst heterogene Maßnahmen gepoolt werden und daß über Teilnehmer und Nichtteilnehmer zu wenige Hintergrundinformationen verfügbar sind. Aufgrund dieser Datenrestriktionen verbietet sich daher aus Sicht der Autoren ein vorschnelles Verdikt über die ökonomischen Wirkungen der AAMP, obwohl mögliche positive Effekte nicht sehr stark sein können, da sie sonst vermutlich trotz unterschiedlicher Methoden und unzureichender Daten empirisch hätten identifiziert werden können.",
+ "tittel": "Zur wissenschaftlichen Evaluation der aktiven Arbeitsmarktpolitik in Deutschland: Ein Überblick",
+ "type": "article"
+}

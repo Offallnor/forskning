@@ -1,0 +1,18 @@
+{
+ "apen_url": "https://doi.org/10.1016/j.jpubeco.2026.105679",
+ "ar": 2026,
+ "doi": "https://doi.org/10.1016/j.jpubeco.2026.105679",
+ "forfattere": [
+  "Di Xu",
+  "Kelli Bird",
+  "Michael Cooper",
+  "Benjamin Castleman"
+ ],
+ "id": "W7163640309",
+ "kilde": "Journal of Public Economics",
+ "lenke": "https://openalex.org/W7163640309",
+ "oversikt": false,
+ "sammendrag": "We provide quasi-experimental evidence on the labor market returns to industry-recognized credentials connected to community college noncredit workforce training programs. Using novel individual-level administrative data on noncredit workforce training program enrollees in the Virginia Community College System and individual fixed effects models, we estimate the returns to industry credentials by comparing the labor market trajectories of credential earners and individuals who complete the same training but do not obtain a credential. Our results indicate that earning an industry credential increases quarterly earnings by approximately $818, which is partially attributable to a higher likelihood of transitioning into a higher-paying industry. We estimate these earnings gains would exceed program costs in just over half a year.",
+ "tittel": "Noncredit workforce training, industry credentials, and labor market outcomes",
+ "type": "article"
+}

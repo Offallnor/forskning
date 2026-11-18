@@ -1,0 +1,20 @@
+{
+ "ar": 2000,
+ "doi": "https://doi.org/10.1162/003465300558605",
+ "forfattere": [
+  "Richard J. Murnane",
+  "John B. Willett",
+  "John H. Tyler"
+ ],
+ "hentet": "2026-11-18",
+ "hentet_fra": "http://www.nber.org/papers/w7172.pdf",
+ "hvordan": "pdf",
+ "id": "W3021881606",
+ "kilde": "The Review of Economics and Statistics",
+ "lenke": "https://openalex.org/W3021881606",
+ "merknad": "ÅPEN VERSJON (preprint eller arbeidsnotat), merkes i svaret",
+ "oversikt": false,
+ "sammendrag": "This paper examines the value of the GED credential and the conventional high school diploma in explaining the earnings of 27-year-old males in the early 1990s. The data base is the High School and Beyond sophomore cohort.We replicate the basic findings of prior studies that implicitly assume the labor market value of the GED credential does not depend on the skills with which dropouts left school. We show that these average effects mask a more complicated pattern. Obtaining a GED is associated with higher earnings at age 27 for those male dropouts who had very weak cognitive skills as tenth graders, but not for those who had stronger cognitive skills as tenth graders.",
+ "tittel": "Who Benefits from Obtaining a GED? Evidence from High School and Beyond",
+ "type": "article"
+}

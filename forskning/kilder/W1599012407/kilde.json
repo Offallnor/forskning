@@ -1,0 +1,18 @@
+{
+ "apen_url": "http://urn.kb.se/resolve?urn=urn:nbn:se:su:diva-21052",
+ "ar": 2007,
+ "forfattere": [
+  "Anders Stenberg"
+ ],
+ "hentet": "2026-11-18",
+ "hentet_fra": "https://doku.iab.de/veranstaltungen/2007/cape_2007_stenberg.pdf",
+ "hvordan": "pdf",
+ "id": "W1599012407",
+ "kilde": "RePEc: Research Papers in Economics",
+ "lenke": "https://openalex.org/W1599012407",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "This paper evaluates the earnings impact of comprehensive adult upper secondary education in Sweden (AE). In contrast with earlier studies of AE which have treated it as a binary event, data on credits actually attained is explored to generate a direct measure of schooling. Difference-in-differences estimates are based on register data of the cohort born in 1970. For males enrolled in AE 1994-96, credits equal to one year of AE are found to increase annual earnings in 2002 by 10.6 per cent. However, evidence is mixed, at best, when applied on females and samples enrolled in 1997-99, regardless of gender. Further analyses suggest that the relatively short follow up period of the latter samples may conceal more affirmative results for males. Overall, the estimates demonstrate the importance of including information on credits and conflicting results from earlier studies are partly reconciled.",
+ "tittel": "Evidence on the Impact of Adult Upper Secondary Education in Sweden",
+ "type": "preprint"
+}

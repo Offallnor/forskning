@@ -1,0 +1,21 @@
+{
+ "apen_url": "http://hdl.handle.net/10197/7729",
+ "ar": 2016,
+ "doi": "https://doi.org/10.1086/686245",
+ "forfattere": [
+  "Christopher A. Jepsen",
+  "Peter R. Mueser",
+  "Kenneth R. Troske"
+ ],
+ "hentet": "2026-11-18",
+ "hentet_fra": "https://docs.iza.org/dp6758.pdf",
+ "hvordan": "pdf",
+ "id": "W1599229608",
+ "kilde": "Journal of Political Economy",
+ "lenke": "https://openalex.org/W1599229608",
+ "merknad": "ÅPEN VERSJON (preprint eller arbeidsnotat), merkes i svaret",
+ "oversikt": false,
+ "sammendrag": "We evaluate returns to General Educational Development (GED) certification for high school dropouts using state administrative data. We apply a fuzzy regression discontinuity method to account for test takers retaking the test. For women we find that GED certification has no statistically significant effect on either employment or earnings. For men we find a significant increase in earnings in the second year after taking the test but no impact in subsequent years. GED certification increases postsecondary school enrollment by 4–8 percentage points. Our results differ from regression discontinuity approaches that fail to account for test retaking.",
+ "tittel": "Labor Market Returns to the GED Using Regression Discontinuity Analysis",
+ "type": "article"
+}

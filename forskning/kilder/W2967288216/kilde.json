@@ -1,0 +1,21 @@
+{
+ "apen_url": "https://www.sciencedirect.com/science/article/pii/S0927537119300843/pdf",
+ "ar": 2019,
+ "doi": "https://doi.org/10.1016/j.labeco.2019.101758",
+ "forfattere": [
+  "Petri Böckerman",
+  "Mika Haapanen",
+  "Christopher A. Jepsen"
+ ],
+ "hentet": "2026-11-18",
+ "hentet_fra": "https://jyx.jyu.fi/bitstreams/bdea3b4b-b894-4d49-965d-481c7fbfbac5/download",
+ "hvordan": "pdf",
+ "id": "W2967288216",
+ "kilde": "Labour Economics",
+ "lenke": "https://openalex.org/W2967288216",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "This paper examines the labor-market returns to a new form of postsecondary vocational education: vocational master's degrees. We use individual fixed effects models on a matched sample of students and non-students from Finland to capture any time-invariant differences across individuals. We find that attendance in vocational master's programs leads to an earnings increase of more than seven percent five years after entry. The estimated effect remains positive even if selection on unobservables is twice as strong as selection on observables. Earnings gains are similar by gender and age, but they are marginally higher for those in the health sector than for those in the business or technology and trades sector.",
+ "tittel": "Back to school: Labor-market returns to higher vocational schooling",
+ "type": "article"
+}
