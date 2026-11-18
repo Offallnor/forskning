@@ -782,3 +782,287 @@ W7160241848  # 4, DE, tiltak 3, propensity score matching i SOEP: etter- og vide
 W7172507964  # 5, DE, tiltak 4, oppkvalifisering gjennom livsløpet og inntekt og yrkesstatus ved 40 år etter sosial bakgrunn (NEPS), dekomponering
 W7198232144  # 4, land ikke oppgitt (Finland), tiltak 4, effekt av master fra profesjonshøgskole (YAMK) på inntekt og sysselsetting: faste effekter i event study med matching i registerdata, 9,5 prosent høyere inntekt etter fem år
 W7224992913  # F, IT, tiltak 1, policygjennomgang av europeiske strategier for digitale ferdigheter blant eldre arbeidstakere 2015-2025; påpeker lite evaluering av effekt
+
+# Fra referanserunde 2 (18.11.2026): 4 184 nye kandidater, 1 771 beholdt i grovsiktingen, lest i fire bolker på Opus.
+W119749001  # 1, 31 land (CH,DE,GB,US i raden), tiltak 5, Campbell-oversikt over 107 ungdomstiltak 15-35 år med eksperimentelt/kvasieksperimentelt design; små positive effekter av ferdighetsopplæring på sysselsetting og inntekt (unge, delvis utenfor aldersgruppen)
+W2790400590  # 1, US (mest), tiltak 5, Campbell-oversikt over 46 randomiserte welfare-to-work-program (inkl. yrkesopplæring): små positive effekter på arbeid, inntekt og trygd
+W7212010487  # 1, US og DK, tiltak 5, oversikt og metaanalyse av 56 randomiserte forsøk med subsidiert jobbopplæring: +1,7 prosentpoeng sysselsetting år 3-5, ca. 800 dollar i årsinntekt; sektorprogram gir mye mer
+W1483553715  # 4, DE, tiltak 5, bare tittel (sammenstilling av evalueringer av aktiv arbeidsmarkedspolitikk før instrumentreformen 2011)
+W2105135912  # 4, sentral- og øst-Europa, tiltak 5, selektiv oversikt over makro- og mikroøkonometriske evalueringer av arbeidsmarkedstiltak i overgangsøkonomier
+W1904907886  # 5, GB, tiltak 4, litteraturgjennomgang av økonomiske og sosiale gevinster av deltidsstudier på bachelornivå
+W1536032509  # 3, US, tiltak 4, skattefradrag for høyere utdanning (Lifetime Learning credit) og studiedeltakelse og fullført grad for 30- og 40-åringer, panel med faste effekter og instrument: ingen effekt totalt; tvil: 4
+W2109268950  # 3, CA, tiltak 4, kanadisk G.I. Bill for veteraner etter andre verdenskrig: utdanning og inntekt, forskjell mellom Ontario og Quebec som instrument
+W1524865542  # F, GB, tiltak 2, litteraturgjennomgang av hva som avgjør virkningen av yrkeskvalifikasjoner: valg, marked, gjennomføring og bredere virkning, ikke avkastning
+W1963973901  # 1, US, tiltak 5, metaanalyse av 31 evalueringer av offentlig finansiert opplæring for vanskeligstilte: eksperimentelle og ikke-eksperimentelle estimater gir like konklusjoner; tvil: 4
+W1852864612  # F, FR, tiltak 2, analyse av ordningen for validering av realkompetanse (VAE) som gir universitetsgrad, uten effektmål
+W4393089981  # 2, CR, tiltak 3, randomisert forsøk med gratis Coursera-kurs og sertifikater: 10 % fullførte, ingen effekt på arbeidsmarkedsutfall etter to år, mulig økt videre utdanning
+W2504564622  # F, US, tiltak 3, gjennomgang av career pathway-reformer for voksne ved community colleges og to evalueringer av føderale tilskudd; mangler data om utfall
+W3186532949  # 5, DE, tiltak 2, andre sjanse-veier til studiekompetanse: om de reduserte sosial ulikhet i studiekompetanse og fullført høyere utdanning, NEPS livsløpsdata og simulering
+W4210968295  # F, CH, tiltak 2, historisk-institusjonell analyse av styringen av yrkesopplæring for voksne i Sveits
+W3149540380  # F, DK, tiltak 2, analyse av hvordan strukturreformer av VUC (2000, 2007, 2018) har påvirket tilgangen til almen voksenutdanning
+W2705969478  # 4, US, tiltak 4, oversikt over avkastning av kreditter, sertifikater og associate degrees fra community college, registerdata fra åtte delstater med individuelle faste effekter: 4 640-7 160 dollar per år for associate degree
+W4414511524  # 5, flere land (oversikt fra DK), tiltak 3, systematisk oversikt over 19 prospektive kohortstudier av kompetanseutvikling for arbeidstakere 35+ og arbeidsmarkedsdeltakelse (tidligpensjon); GRADE svært lav
+W2159964895  # 4, DE, tiltak 5, bare tittel (effekter av arbeidsmarkedstiltak før og etter Hartz-reformene)
+W1488143163  # 2, US, tiltak 1, reanalyse av randomisert GAIN-forsøk for sosialhjelpsmottakere over ni år: program med grunnleggende utdanning og opplæring (Alameda, LA) mot work first (Riverside); humankapitaleffektene holder seg eller øker over tid
+W1589300565  # 4, DE, tiltak 5, systematisk sammenstilling av tyske evalueringer av arbeidsmarkedstiltak, inkl. etter- og videreutdanning for arbeidssøkere, individ- og makroeffekter
+W3113495147  # 2, US, tiltak 3, randomiserte evalueringer av sektorrettede opplæringsprogram for lavtlønte (WorkAdvance m.fl.): inntektsøkning 11-40 % som varer
+W4302969421  # 1, flere land, tiltak 5, oversikt over effekter av aktive arbeidsmarkedstiltak med vekt på nyere randomiserte forsøk, likevekts- og forhåndseffekter, kostnad-nytte; tvil: 4
+W1887799344  # 4, CA, tiltak 5, gjennomgang av føderale og provinsielle evalueringer av arbeidsmarkedstiltak i Employment Insurance: provinsrapportene viser at tiltak hjelper folk i arbeid; tvil: 5
+W2016339460  # 4, IT, tiltak 3, effekt av ESF-finansierte yrkeskurs i Piemonte på sysselsetting etter ett år, kontrollgruppe av frafalne og de som ikke møtte (målgruppen kan være ledige); tvil: 5
+W4290607714  # 3, US, tiltak 3, avkastning av yrkessertifikater og lisenser på sysselsetting og lønn, CPS med instrument (andel i egen gruppe) og marginale effekter; ikke offentlig finansierte tiltak; tvil: 4
+W2082129213  # 4, DE, tiltak 5, innledning til temanummer med første resultater fra Hartz-evalueringen; oppsummerer at videreutdanning (FbW) tidligere har vist liten effekt; tvil: 5
+W4212995781  # 3, ES, tiltak 2, betinget kontantoverføring til ledige uten grunnskolevitnemål for å fullføre ungdomsskolenivå, uskarp diskontinuitet: ingen økning i fullført vitnemål
+W2102503005  # 5, AU, tiltak 3, systematisk oversikt over forskning på om kompetanseutvikling for eldre arbeidstakere gir bedre sysselsetting og produktivitet
+W2098675046  # F, flere land, tiltak 1, internasjonal litteraturgjennomgang av organisatoriske forhold som påvirker tilbud i lesing, skriving og regning for voksne (bare tittel)
+W4412886466  # 2, US, tiltak 3, randomisert evaluering av ti SNAP Employment and Training-piloter: årsinntekt +800-2 000 dollar og sysselsetting +4-6 prosentpoeng i noen delstater
+W1927179113  # 1, flere land, tiltak 5, metaanalyse av Youth Employment Inventory: effekt av ungdomstiltak (inkl. opplæring) på sysselsetting og inntekt, unge; tvil: 4
+W3089031969  # 4, US, tiltak 3, bare tittel (metaanalyse av evalueringene av TAACCCT, føderal satsing på yrkesrettet opplæring ved community colleges for voksne)
+W4281647028  # F, flere land (mest CA og SE), tiltak 2, systematisk oversikt over 39 artikler om vurdering av realkompetanse for innvandrere: bruk, problemer og virkning, uten effektmål
+W3121532439  # 1, flere land, tiltak 5, metaanalyse av 113 effektevalueringer av ungdomstiltak (2 259 effektstørrelser); opplæring virker mest i mellom- og lavinntektsland; samme materiale som W119749001
+W4416398270  # 5, US, tiltak 3, systematisk litteraturgjennomgang av 27 studier av ikke-gradsgivende kurs (non-degree credentials) i STEM; utfall beskrevet kvalitativt; tvil: F
+W2481921129  # F, NO, tiltak 4, kartlegging av realkompetansereformen: opptak til universitet og høyskole på grunnlag av realkompetanse fra 2001
+W2006509402  # 4, CH og DE, tiltak 5, sammenstilling av sveitsiske evalueringer av arbeidsmarkedstiltak sammenlignet med Tyskland; positive effekter særlig for midlertidig lønnstilskudd
+W1487097408  # 3, US, tiltak 2, signaleffekten av GED: høyere beståttgrense i Texas 1997, forskjell-i-forskjell med registerinntekt: ingen signaleffekt på inntekt
+W2185214595  # 3, US, tiltak 2, kritikk av forskjell-i-forskjell med ulike GED-grenser mellom delstater (CPS): metoden overvurderer effekten av GED på arbeidsmarkedsutfall
+W4391854887  # 2, US, tiltak 4, randomisert forsøk med coaching for 8 000 tidligere studenter (tidlig-midt i 20-årene) som sluttet uten grad: ingen effekt på ny innskriving
+W2903463676  # F, NO, tiltak 2, studie av Kompetansereformen fra sekundærkilder og intervjuer: liten virkning for lavt kvalifiserte arbeidstakere
+W2948471737  # 3, US, tiltak 2, bare tittel (regresjonsdiskontinuitet for GED i Massachusetts)
+W3090832067  # 1, flere land, tiltak 5, protokoll (Campbell) for oversikt over kausale effekter av tiltak for ledige ikke-vestlige innvandrere på sysselsetting, sosialhjelp og inntekt; ingen resultater; samme materiale som W7160028630
+W3146199955  # 3, US, tiltak 2, GED og videre utdanning, uskarp diskontinuitet med registerdata: økt deltakelse i høyere utdanning, små effekter på studiepoeng
+W1511776989  # 3, US, tiltak 2, avkastning av GED med endret beståttgrense som naturlig eksperiment; samme materiale som W1487097408
+W4390062059  # 3, CO, tiltak 2, nasjonal sertifisering av yrkesferdigheter (realkompetanse), diskontinuitet ved terskler: avansert sertifikat gir 9,7 % høyere inntekt, basis og middels ingen effekt
+W2182319594  # F, DE, tiltak 1, bare tittel (tyskspråklig litteraturgjennomgang om undervisning og vurdering i grunnleggende ferdigheter for voksne)
+W2128715248  # 4, US, tiltak 3, refleksjoner over metode og resultater fra en serie kvasieksperimentelle nettoeffektstudier av opplæringsprogram i Washington med registerdata; tvil: 5; samme materiale som W1512757635
+W4415014960  # 3, US, tiltak 3, Virginias gratisskole for yrkesrettede community college-program med etterspørsel (G3), forskjell-i-diskontinuitet og forskjell-i-forskjell: fullførte sertifikater +5,1-6,6 prosentpoeng
+W7160028630  # 1, flere land, tiltak 5, bare tittel (systematisk oversikt og metaanalyse av tiltak for arbeidsledige ikke-vestlige innvandrere); tvil: 4
+W7125711397  # 2, PL, tiltak 3, randomisert opptak til mentor- og ferdighetsprogram for kvinner som vil over i teknologisektoren: +15 og +11 prosentpoeng i teknologijobb etter tolv måneder (omstilling; mer mentorordning enn kurs)
+W7225262742  # 2, US, tiltak 3, effekter av opplæringsprogram for voksne på inntekt med maskinlæring på skatteregister, validert mot 37 randomiserte forsøk; effektene varierer mye mellom steder og over tid; tvil: 4
+W2024192040  # F, SE, tiltak 2, etnografisk studie av et prosjekt for validering av innvandreres realkompetanse 2006-2008
+W2150734172  # F, SE, tiltak 2, pilot med digital vurdering av realkompetanse for ansatte uten formell utdanning i eldreomsorgen, uten effektmål
+W3123066122  # 5, FI, tiltak 4, karriereforløp etter master fra universitet for anvendte fag tatt i voksen alder, retrospektiv spørreundersøkelse (N=1 025) uten kontrollgruppe
+W3094946421  # 1, høyinntektsland, tiltak 3, protokoll for Campbell evidence and gap map om kompetanseutvikling og opplæring for voksne; ingen resultater
+W1582975199  # 4, SE, tiltak 5, bare tittel (oversikt over svenske erfaringer med aktiv arbeidsmarkedspolitikk)
+W4298866695  # 4, flere land, tiltak 5, metaanalyse av over 200 evalueringer av arbeidsmarkedstiltak: effekter nær null på kort sikt, mer positive etter 2-3 år, størst for humankapitaltiltak
+W2128492593  # 4, OECD-land, tiltak 5, oversikt over aktiveringspolitikk: makroøkonomisk evidens for effekten av arbeidsmarkedstiltak på sysselsetting og ledighet, og OECDs landgjennomganger; tvil: 5
+W2259408401  # 4, Europa, tiltak 5, oversikt over nyere evidens for effekten av arbeidsmarkedstiltak for unge, inkl. opplæringskurs (unge, delvis utenfor aldersgruppen)
+W3124577441  # 3, US, tiltak 4, andre verdenskrig og G.I. Bill: effekt på fullført høyere utdanning for veteraner, forskjeller mellom kohorter i militærtjeneste, folketellingsdata
+W2762956538  # 2, US, tiltak 3, bare tittel (langtidsresultater av sektorprogrammet Project QUEST)
+W4213149835  # F, DE, tiltak 3, bare tittel (OECD-gjennomgang av etter- og videreutdanning i Tyskland)
+W2150191139  # 4, flere land, tiltak 5, oversikt over arbeidsmarkedstiltak etter formål, inkl. humankapitaltiltak, med vekt på indirekte effekter og kostnadseffektivitet
+W4236280602  # 5, US, tiltak 4, bare tittel (styrke resultatene for voksne studenter i community colleges); tvil: F
+W2803699076  # 1, flere land, tiltak 5, metaanalyse av 57 eksperimentelle og kvasieksperimentelle studier (654 estimater): opplæring og jobbsøking positivt 6-36 mnd etter start; tvil: 4
+W1512757635  # 4, US, tiltak 3, nettoeffekter og avkastning av WIA og andre opplæringsprogram (community college, voksenopplæring) i Washington, Virginia og Indiana, kvasieksperimentelt med registerdata (også ledige)
+W2490248604  # 4, US, tiltak 2, oppsummering og nye estimater av effekter av GED på inntekt, lønn og sysselsetting, kontroll for kognitive evner: menn med GED lik andre droppere, kvinner noe høyere inntekt
+W2146263416  # F, GB, tiltak 1, intervjustudie av hvordan politikken (finansiering, tilsyn, mål) påvirker Skills for Life-tilbud i grunnleggende ferdigheter for voksne
+W3129401828  # 5, GB, tiltak 2, kostnad-nytte av offentlig finansierte lærlingordninger og andre yrkeskvalifikasjoner: lønnsavkastning 16-18 % for Modern Apprenticeships
+W3191403998  # 4, Europa, tiltak 5, oversikt over effekter av arbeidsmarkedstiltak for kvinner, inkl. videreutdanning, på inntekt og sysselsetting: mer positive effekter for kvinner enn menn
+W2500723268  # 4, flere land, tiltak 5, oversikt over opplæringstiltak for ledige, lavinntekts- og lavt utdannede: reduserer ledighetsrisiko og øker inntekt; vekt på styring og målretting
+W1878400386  # 1, US, tiltak 3, oversikt over effekten av offentlig finansiert opplæring under bachelornivå (WIA m.fl.) for ulike målgrupper, med vekt på eksperimentelle evalueringer
+W2042843482  # 5, US, tiltak 3, bare tittel (lønnseffekter av sertifikater fra ideelle og kommersielle tilbydere)
+W2066749882  # 5, US, tiltak 2, sammenligning av GED-mottakere, droppere og fullførte i en kohort fra Chicago: inntekt, helse og kriminalitet, kontroll for bakgrunn
+W1550516742  # 1, US, tiltak 3, bare tittel (sammendraget er bare takk; oversikt over effekter av Workforce Investment-program, også for ledige); tvil: 4
+W2000760923  # 5, AU, tiltak 4, liten longitudinell studie av voksne studenter fra TAFE til universitet: studieprogresjon sammenlignet med studenter med skolebakgrunn
+W1489797966  # 4, DE, tiltak 5, oversikt over mikroøkonometriske evalueringer av aktiv arbeidsmarkedspolitikk i Tyskland, blant annet videre yrkesopplæring, på registerdata
+W3122874379  # 5, DE/US, tiltak 2, GED som vei til høyere utdanning for dem som har droppet ut; bare tittel; tvil: 4
+W3022110263  # 5, land ikke oppgitt, tiltak 2, privat avkastning av yrkesfaglige kvalifikasjoner; bare tittel; uklart om voksne skilles ut
+W3183572068  # 4, ES/IT/NL, tiltak 3, MOOC-deltakelse og arbeidsmarkedsutfall: forskjell-i-forskjell med senere påmeldte som kontrollgruppe, bedre jobbbevaring, ingen lønnseffekt; uklart om offentlig finansiert; tvil: 5
+W2145358353  # 4, US, tiltak 2, oversikt over forskning på økonomisk avkastning av GED: gevinst bare for dem med svake ferdigheter, kommer over tid; tvil: 5
+W2015773851  # 5, AU, tiltak 4, HILDA 2001-2010: om å ta ny kvalifikasjon etter 25 års alder gir høyere lønn og yrkesstatus; tvil: 4
+W2087759043  # 3, GB, tiltak 5, oversikt over evidens for aktiv arbeidsmarkedspolitikk: opplæringsprogrammer gir gjennomgående ikke bedre utfall; tvil: 4
+W1972265548  # 5, GB, tiltak 2, Labour Force Survey: lønnsgevinst av fullført lærlingløp, også fordelt på aldersgrupper og nivå; uklart hvor mange voksne
+W2032163888  # 5, US, tiltak 4, å vende tilbake til utdanning i et livsløpsperspektiv, kjønnsforskjeller i karriere; bare tittel
+W2055762065  # 5, AU, tiltak 4, sammenligner sysselsetting og lønn året etter for nyutdannede over og under 25 år, 2001-2009; ingen forskjell etter eksamen
+W2119402392  # 2, US, tiltak 5, gjennomgang av forskning på Workforce Investment Act og lignende programmer; bare tittel; tvil: 4
+W267176156  # 2, US, tiltak 5, gjennomgang av offentlige arbeidsmarkedsprogrammer for eldre arbeidstakere: opplæring gir blandede effekter på sysselsetting og lønn, bedre for kvinner; tvil: 4
+W2016268840  # 5, US, tiltak 4, høyere utdanning for sosialhjelpsmottakere: fullført grad henger sammen med mindre tilbakefall til stønad og fattigdom
+W2495042006  # 4, land ikke oppgitt, tiltak 5, effekten av aktiv arbeidsmarkedspolitikk i Europa (oversikt); bare tittel
+W2164771907  # 5, US, tiltak 3, opplæring etter skolealder blant kvinner, ulike opplæringsformer og arbeidsmarkedsutfall i eldre alder; bare tittel; uklart om offentlig finansiert; tvil: 4
+W2171696204  # 5, US, tiltak 2, avkastning av GED for innfødte og innvandrere; bare tittel; tvil: 4
+W2794070803  # 4, DE, tiltak 4, NEPS med propensity score: lønn for yrkesutdannede som tar høyere utdanning uten formell studiekompetanse, mot dem som fortsetter i yrket
+W2004594752  # 5, GB, tiltak 4, lønnsutvikling for voksne Open University-kandidater fra deltidsstudier mot nasjonale trender
+W4302873679  # 2, land ikke oppgitt, tiltak 5, arbeids- og opplæringsprogrammer (bokkapittel, trolig oversikt); bare tittel; tvil: 4
+W2913809070  # 4, DE, tiltak 4, oppgradering av utdanning i voksen alder, karriereopprykk og ulikhet i livsløpet; bare tittel; tvil: 5
+W4401871492  # 2, GB/US, tiltak 3, randomisert forsøk med registerdata: langtidseffekter av jobbopplæring for sårbare arbeidstakere i Chile på inntekt og ferdigheter, små effekter; uklart om deltakerne er ledige (da tiltak 5 og utgår); tvil: 5
+W1533456365  # 4, land ikke oppgitt, tiltak 3, avkastningsanalyse av arbeidsrettede programmer i Indiana; bare tittel; trolig samme opplegg som W1560552802; tvil: 5
+W2062082782  # 5, US, tiltak 3, casestudier og registerdata: registrerte lærlingløp for lavtlønte i eldreomsorg, produktivitet, lønn og karriere; tvil: F
+W1037784266  # F, land ikke oppgitt, tiltak 1, Riksrevisjonens (NAO) rapport om strategien Skills for Life for lese- og regneferdigheter; bare tittel
+W1560552802  # 4, US, tiltak 1, matchede nettoeffekter og kost-nytte av arbeidsrettede programmer i Washington og Virginia, blant annet grunnleggende voksenopplæring og community colleges, på lønn og stønader; også tiltak 3
+W2053004881  # 5, US, tiltak 2, GED og andre kurs uten studiepoeng ved community colleges i Iowa: utdanningsutfall for deltakerne
+W3198832166  # 4, ES, tiltak 5, metaevaluering av 82 effekter av arbeidsmarkedstiltak for ledige over 50: opplæring +2,4 prosentpoeng i jobbsannsynlighet; tvil: 3
+W1988547523  # 5, US, tiltak 1, oppfølgingsstudie av lavt kvalifiserte voksne studenter i Washington som endret statlig politikk; tvil: F
+W1549758497  # 5, ES, tiltak 4, lønnsgevinst for voksne nettstudenter ved Open University of Catalonia mot sammenlignbare arbeidstakere
+W2971453931  # 5, US, tiltak 1, gjennomgang av forberedende lese- og skriveundervisning for voksne med svake ferdigheter ved community colleges, to tiltak med positive utfall; tvil: 4
+W1580696121  # 5, US, tiltak 3, evaluering av statlig subsidiert bedriftsintern opplæring i New Jersey (Workforce Development Partnership Program), sysselsetting for ansatte; tvil: F
+W4256486482  # 5, land ikke oppgitt, tiltak 3, OECD-oversikt over mikrograder i høyere utdanning og det som er kjent om kostnader og nytte; tvil: F
+W2268271869  # 5, land ikke oppgitt, tiltak 5, OECD-gjennomgang av makroevidens for aktiv arbeidsmarkedspolitikk og aktivering
+W3146657275  # 5, land ikke oppgitt, tiltak 2, effekt og kost-nytte av registrerte lærlingløp i 10 delstater: deltakere mot ikke-deltakere, lønn; tvil: 4
+W1543723211  # 5, land ikke oppgitt, tiltak 2, avkastning av NVQ på nivå 2; bare tittel
+W2136604219  # 4, US, tiltak 2, faste effekter på registerdata: GED-opplæring i fengsel og kvartalsinntekt etter løslatelse, ca. 15 prosent
+W2921111786  # 4, GB/US, tiltak 5, lærdom fra aktiv arbeidsmarkedspolitikk i andre land (oversikt); bare tittel; tvil: 2
+W198342390  # 4, land ikke oppgitt, tiltak 1, utdanningsutfall av I-BEST (integrert grunnleggende opplæring og yrkesopplæring) i Washington; bare tittel; tvil: 5
+W2610197408  # 5, land ikke oppgitt, tiltak 4, doktoravhandling om ylemmät AMK-tutkinnot (høyere grad fra profesjonshøgskole) på arbeidsmarkedet: arbeidsmarkedsgevinst og kompetanse
+W3020999426  # 2, CO/GB/US, tiltak 3, randomisert forsøk med kuponger til yrkesopplæring i Colombia: formell sysselsetting og lønn 10 år etter, +11,8 prosent; uklar målgruppe (ledige ungdom gir tiltak 5 og utgår)
+W2168820403  # 2, GB/IL/SE/US, tiltak 4, feltforsøk for å redusere frafall blant voksne studenter; bare tittel
+W7165961986  # 3, DK, tiltak 4, diskontinuitet ved språktest for opptak: høyere utdanning for voksne innvandrere gir 19 prosent høyere lønn, ingen effekt på sysselsetting
+W2063749037  # 3, US, tiltak 2, bare tittel: effekter av små forskjeller i GED-resultat (bestått/ikke bestått); tvil: 5
+W2339606770  # 5, land ikke oppgitt, tiltak 1, bare tittel: summativ evaluering av et familielitteracy-prosjekt; tvil: F
+W2884161924  # 5, DE, tiltak 3, bare tittel: ikke-formell yrkesrettet videreutdanning og mobilitet på arbeidsmarkedet; finansiering ikke oppgitt
+W2267718473  # 1, land ikke oppgitt, tiltak 3, bok om utdanningskuponger i teori og empiri; sammendraget har bare idéhistorikk; tvil: F
+W1560082437  # F, land ikke oppgitt, tiltak 2, studie av et tiltak for å vurdere og anerkjenne uformell IKT-kompetanse på videregående nivå
+W2981861780  # 1, AU, tiltak 2, strategisk gjennomgang av tiltak som får lavt kvalifiserte voksne 15–64 år til å delta og fullføre kvalifikasjon; design ikke oppgitt; tvil: 5
+W4365792228  # 5, US, tiltak 3, om lavinntektsgrupper tar stablebare kursbevis og får økonomisk gevinst i Colorado og Ohio, og barrierer; tvil: 4
+W2757704749  # 5, land ikke oppgitt, tiltak 4, bare tittel: ordinær utdanning som motsyklisk sysselsettingspolitikk
+W1997521308  # 5, US, tiltak 1, studie ved community college av effekten av tre trekk ved programmer for overgang fra voksenopplæring til college
+W4221012853  # 5, US, tiltak 2, administrative data og intervjuer: effekt av forlærlingsprogram og støttetjenester i Oregon på rekruttering og fullføring av lærlingeløp
+W1904967031  # 1, US, tiltak 5, oversikt over 21 randomiserte evalueringer av 76 welfare-to-work-programmer, effekt på sysselsetting over tid; blandede tiltak, ikke bare opplæring
+W102507379  # 5, land ikke oppgitt, tiltak 1, bare tittel: effektstudie og oppfølging av lese- og skriveopplæring for voksne i Training Opportunities og Youth Training
+W4410118870  # 3, US, tiltak 4, forskjell-i-forskjell på IPEDS-data: effekt av statlig stipend rettet mot voksne på opptak og fullføring i 10 delstater
+W2618309932  # F, US, tiltak 1, bare tittel: nasjonal gjennomgang av I-BEST-implementeringer
+W2899536193  # 1, DE, tiltak 5, oversikt over evalueringer av tyske arbeidsmarkedstiltak, mest om etablerertiltak; tvil: 4
+W2969521427  # 5, US, tiltak 4, før-etter-sammenligning i survey av tidligere CTE-studenter ved community colleges: timelønn og arbeidsstatus
+W2030001854  # 5, US, tiltak 4, registerdata fra Iowa: hva som påvirker inntekt etter CTE ved community college, fullført grad og kjønn
+W2809387164  # 4, US, tiltak 4, propensity score-vektet regresjon: inntekt etter anvendt bachelor mot associate degree i Washington
+W4241757187  # 5, US, tiltak 4, bare tittel: bok om bedre utfall for voksne studenter ved community colleges
+W1595184076  # 1, FR/US, tiltak 5, utvalgt oversikt over evalueringer av opplæring og andre arbeidsmarkedstiltak i USA og Frankrike; tvil: 4
+W1580742557  # 5, land ikke oppgitt, tiltak 1, bare tittel: læring på arbeidsplassen og grunnleggende ferdigheter for voksne (Skills for Life)
+W3138606911  # 1, US, tiltak 1, oversikt over effekt og avkastning (ROI) av grunnleggende opplæring for voksne (ABE); finner at byggesteinene for ROI mangler; tvil: 5
+W4229951511  # 1, land ikke oppgitt (tysk tekst), tiltak 3, bok om yrkesrettet videreutdanning med teori og empiriske funn; sammendraget sier ikke hva som måles; tvil: 5
+W2770158524  # 5, DE, tiltak 2, bare tittel: tidlig sortering og verdien av «second chance»-utdanning
+W2970102408  # 2, US, tiltak 3, bare tittel: korrespondanseforsøk om effekt av etterutdanningssertifikat i økonomi på svar fra arbeidsgivere
+W2112808392  # 5, land ikke oppgitt, tiltak 1, longitudinell sporing av lavt kvalifiserte voksne studenter ved community colleges, veier til kvalifikasjon
+W3101578770  # 4, DE, tiltak 4, matching på LIAB-data: inntektsutvikling etter høyere yrkesfaglig mot akademisk utdanning etter fagbrev, unge menn; tvil: 5
+W2034909846  # F, GB, tiltak 3, gjennomgang av om en lovpålagt avgift- og tilskuddsordning for opplæring i bygg virker
+W1582613323  # 1, DE, tiltak 5, gjennomgang av registerbaserte evalueringer av sysselsettingseffekter av videreutdanningstiltak i arbeidsmarkedspolitikken, også langsiktige effekter; tvil: 4
+W4411997348  # 5, US, tiltak 3, evaluering av kodeopplæringen Code Louisville; sammendraget gjelder bare tilgang til registerdata
+W127447898  # 1, DE/US, tiltak 3, bare tittel: dokumentasjon om effekt av offentlige opplæringsprogrammer for sysselsatte; tvil: 5
+W2104316076  # 4, DE, tiltak 3, kontrollfunksjon på foretaksdata: effekt av ESF-finansiert kvalifisering av sysselsatte i Sachsen på jobbsikring
+W1528348100  # 1, US, tiltak 5, gjennomgang av 25 års evalueringer av amerikanske sysselsettings- og opplæringsprogrammer; tvil: 2
+W2917075956  # F, NO, tiltak 3, bare tittel: evaluering av Kompetanseprosjekt Innlandet Hedmark og Oppland
+W1972591596  # 5, land ikke oppgitt (Iowa), tiltak 4, registerdata: faktorer bak inntekt femte år etter CTE ved community college, også alder
+W2117124614  # 4, US, tiltak 4, faste effekter på registerdata: inntektsgevinst ved overgang fra community college til for-profit-college
+W2979617723  # F, FR, tiltak 3, vurdering av om reformen av den individuelle opplæringskontoen (CPF) kan nå sine mål
+W3021221557  # 5, land ikke oppgitt (Ohio), tiltak 3, beskrivende: hvem som går videre fra kursbevis til flere kvalifikasjoner (utfall 3)
+W2171794148  # 4, CA, tiltak 4, avkastning for kandidater som utsatte høyere utdanning mot dem uten opphold, kontroll for seleksjon; tvil: 5
+W2555916979  # 5, GB, tiltak 3, ROI og sosial nytte for deltakere i opplæring hos ideelle organisasjoner
+W4408225926  # 4, DE/IE/US i raden (én delstat), tiltak 4, registerdata koblet med inntekt: avkastning av for-profit-skoler og community colleges mot ingen utdanning; tvil: 5
+W1589013402  # 1, US, tiltak 3, kapittel om internasjonale erfaringer med offentlig opplæring og lærdom for USA; sammendraget nevner ikke design; tvil: 5
+W2157779531  # 1, US, tiltak 5, metaanalyser av offentlig finansierte opplærings- og welfare-to-work-programmer: metode og resultater fra tre metaanalyser, mange med loddtrekning
+W4213409692  # 5, FR, tiltak 3, økonometrisk analyse av Defis-undersøkelsen om effekt av etter- og videreutdanning på karrierer; finansiering ikke skilt ut
+W3043902332  # 5, US, tiltak 2, bare tittel: avkastning på arbeidsmarkedet av GED tatt i fengsel
+W2980758962  # 5, US, tiltak 3, bok om HPOG, opplæring i helsefag for TANF-mottakere og lavinntektsgrupper med pålagt føderal evaluering; tvil: F
+W4295706209  # 5, US, tiltak 4, sysselsetting og inntekt for bachelorkandidater fra community colleges mot universitetskandidater i Washington
+W2490855638  # 5, land ikke oppgitt, tiltak 4, bare tittel: om yrkesrettede grader fra community college lønner seg
+W4250360478  # 1, land ikke oppgitt (tysk tekst), tiltak 3, samme materiale som W4229951511 (senere utgave av samme bok); tvil: 5
+W171778617  # 1, land ikke oppgitt (internasjonal litteratur), tiltak 5, metaevaluering av nettoeffekt på jobbsjanse etter tiltakstype, kontekst og evalueringsmetode
+W2971394191  # 4, CH, tiltak 4, kvasipanel med kohortfaste effekter (LFS 1991–2016): kort- og langsiktig avkastning av høyere yrkesfaglig utdanning; tvil: 5
+W2914700483  # 5, CN/GB, tiltak 4, bare tittel: avkastning av høyere utdanning for dem som kommer tilbake fra arbeid mot dem som kommer rett fra skolen
+W2529671830  # F, CH/DE, tiltak 3, bare tittel: kritisk analyse av utdanningskuponger i statlig finansiering av videreutdanning
+W3012101063  # 1, land ikke oppgitt (community colleges), tiltak 3, kapittel om karriereveier ved community colleges og dokumentasjon om effekt på utdannings- og arbeidsutfall; tvil: 5
+W4399551217  # 4, US, tiltak 3, coarsened exact matching på skattedata: effekt av industrisertifikat på inntekt og sysselsetting, også bytte av bransje
+W4306865902  # 1, US, tiltak 3, kapittel med kritisk gjennomgang av dokumentasjonen om effekt av offentlige workforce-programmer for vanskeligstilte unge og voksne; tvil: 5
+W4283826113  # 4, NL, tiltak 3, effekt av ettårig IT-omskolering med praksis for høyt utdannede på inntekt og arbeidsdager i 36 måneder, med kost-nytte; tvil om tiltak 5 (ALMP)
+W3108445306  # 5, land ikke oppgitt (Oregon), tiltak 2, evalueringsrapport for samme program som W4221012853, data fra lærlingsystemet og 26 intervjuer; samme materiale som W4221012853; tvil: F
+W2772549680  # 5, land ikke oppgitt, tiltak 3, sammenheng mellom stablebare kursbevis og inntekt i nasjonale data, survey og college-data; tvil: 4
+W3012140917  # 5, HU, tiltak 4, studenttall og opptak i høyere utdanning for voksne, og om voksnes læring lønner seg
+W4380319330  # F, DK/PL/TR/DE, tiltak 2, bok fra prosjekt om effektiviteten av realkompetansevurdering, teoretiske og empiriske bidrag; tvil: 5
+W4410717556  # 4, land ikke oppgitt, tiltak 1, propensity score matching: Integrated Education and Training mot vanlig voksenopplæring, utdanningsutfall ved toårige colleger
+W4403615494  # 1, land ikke oppgitt, tiltak 5, bare tittel: effekter av sysselsettings- og opplæringsprogrammer for lavinntektsgrupper fra Pathways Clearinghouse; tvil: 3
+W4384341630  # 5, US, tiltak 3, blandede metoder: effekt av offentlig finansiert opplæring av ansatte (California ETP) på foretakets salg og størrelse; utfall på foretak
+W4327975045  # 5, ES, tiltak 4, regresjon: inntekt etter grad fra nettuniversitet for eldre og sysselsatte studenter
+W1506768214  # 1, FR, tiltak 3, bare tittel; samme materiale som W2107862576 (samme oversikt over jobbrelatert opplæring); tvil: 5
+W2107862576  # 1, FR, tiltak 3, oversikt over effekt av jobbrelatert opplæring på lønn, jobbtrygghet og ledighet; mest arbeidsgiverbetalt, bakgrunn; tvil: 5
+W1548507002  # 5, land ikke oppgitt, tiltak 3, bare tittel: analyse av kursbevis under bachelornivå
+W45317985  # F, US, tiltak 3, intervjuer i 50 delstater og case-studier av 20 community colleges om ikke-studiepoenggivende yrkesrettet utdanning
+W21953580  # 5, land ikke oppgitt, tiltak 2, lønnseffekt av fullført yrkesfaglig kvalifikasjon, også etterfølgende kvalifikasjoner og kombinasjon av arbeid og studier
+W2097663196  # 5, land ikke oppgitt, tiltak 3, statistisk analyse av opplæring i arbeid og timelønn; mest arbeidsgiverbetalt, bakgrunn
+W2117604211  # 1, DE, tiltak 5, gjennomgang av mikroøkonometriske evalueringer av aktiv arbeidsmarkedspolitikk, blant annet videreutdanning; tvil: 4
+W2021854556  # 1, US, tiltak 5, oversikt over empiriske studier av effekt av opplæringsprogrammer på arbeidsmarkedsutfall, sortert etter eksperimentelt, kvasieksperimentelt og observasjonelt design
+W2508204913  # 5, GB, tiltak 3, paneldata (LFS, NCDS): om arbeidsrelatert opplæring gjør jobbskifte mer sannsynlig; arbeidsgiverbetalt, bakgrunn
+W2054397053  # 5, US, tiltak 2, avkastning av GED for innfødte og innvandrere, korrigert for frafallsskjevhet og evne: ingen direkte avkastning; tvil: 4
+W4235170719  # 1, US, tiltak 2, kapittel som gjennomgår forskningen om GED: liten verdi på arbeidsmarkedet og få som går videre til høyere utdanning; tvil: 5
+W1601384165  # 1, land ikke oppgitt (nasjonal og internasjonal), tiltak 5, oversikt over evalueringer av effekt på sysselsetting og inntekt av aktiv arbeidsmarkedspolitikk; tvil: 4
+W2418548991  # F, land ikke oppgitt, tiltak 3, bare tittel: oppskalering av stablebare kursbevis, implementering og politikk
+W120719594  # 5, land ikke oppgitt, tiltak 3, bare tittel: avkastning av grader og kursbevis fra community college; tvil: 4
+W3124069960  # 1, US, tiltak 5, bok om føderalt finansierte opplæringsprogrammer under WIA, også effekt (se sammendraget til W2152109419, samme bok); tvil: F
+W1524209849  # 1, DE/SE/DK/NL, tiltak 5, litteraturstudie av evalueringer av aktiv arbeidsmarkedspolitikk: hvilke tiltak virker for hvem; tvil: 4
+W1563707634  # 5, GB, tiltak 2, økonomisk verdi av NVQ på nivå 2 og 3 for individet
+W2136499496  # F, land ikke oppgitt (Washington), tiltak 1, feltstudie av hvordan I-BEST (integrert grunnopplæring og yrkesopplæring) fungerer i praksis
+W2795380789  # 2, land ikke oppgitt, tiltak 3, bare tittel: treårseffekter av WorkAdvance, bransjerettet opplæring; tvil om tiltak 5
+W3169310651  # 5, NO, tiltak 2, voksne i grunnskole og videregående opplæring: deltakere, fullføring og utbytte for videre studier og arbeid, kvantitative og kvalitative data
+W3124742904  # 1, IE/NL/US, tiltak 5, oversikt over politikk for humankapital over livsløpet; vurderer avkastning av arbeidsmarkeds- og opplæringstiltak som tvilsom; tvil: 5
+W1572813566  # 1, IE (land ikke oppgitt i raden; Irland nevnt i sammendraget), tiltak 5, gjennomgang av nasjonal og internasjonal forskning om effekten av ALMP (opplæring m.m.) på sysselsetting for ledige
+W4285786724  # 1, land ikke oppgitt, tiltak 5, bare tittel (bokkapittel om hva man kan vente av aktiv arbeidsmarkedspolitikk)
+W4400871115  # 1, US, tiltak 5, håndbokskapittel som sammenfatter empirisk forskning siste tiår om jobbsøk, dagpenger og ALMP
+W593686631  # 1, land ikke oppgitt, tiltak 5, ekspertise som drøfter evidensen for virkningen av ALMP, blant annet Fortbildung for arbeidssøkere
+W2254421870  # 1, EU, tiltak 5, gjennomgang av kontrafaktiske effektevalueringer (2000-2013) av ESF-lignende arbeidsmarkedstiltak, klassifisert etter tiltak, land og metode; kunnskapshull
+W4403664564  # 1, Latin-Amerika (land ikke oppgitt), tiltak 5, oversikt over effektstudier av ALMP og arbeidsformidling; opplæring gir langsiktige gevinster, bl.a. formell sysselsetting
+W1543433228  # 1, US, tiltak 5, bok med gjennomgang av føderale opplæringsprogrammer under WIA, individuelle opplæringskontoer og effekten av programmene; tvil: F
+W1601350728  # 1, US, tiltak 3, bok som vurderer effekten av ulike tiltak for økonomisk mobilitet for vanskeligstilte arbeidstakere; design ikke oppgitt; tvil: F
+W3095968011  # 2, CL, tiltak 3, eksperimentelle og administrative data, mellomlange og lange effekter av opplæringsprogram for sårbare arbeidstakere på ferdigheter og arbeidsinntekt; kan være tiltak 5 (målgruppe uklar)
+W3124132881  # 3, US, tiltak 2, bare tittel (signalverdien av GED, utnytter eksogen økning i beståkravet i Texas)
+W4252317626  # 4, US, tiltak 3, nettoeffekter og nytte-kostnad for 11 programmer i Washington State (bl.a. omskolering av arbeidstakere, grunnleggende ferdigheter og yrkesutdanning ved community colleges); samme materiale som W4240252594 (tidligere runde)
+W4240252594  # 4, US, tiltak 3, nettoeffekter på sysselsetting og inntekt av 12 programmer i Washington State (worker retraining, BEdA/I-BEST for grunnleggende ferdigheter, CTC workforce education) med propensity score matching mot Wagner-Peyser-registrerte i administrative data
+W2097593264  # 4, US, tiltak 3, nettoeffekter av ni programmer i Washington State (bl.a. worker retraining og adult basic skills) med matching og forskjell-i-forskjell på administrative data, også trygdeytelser; samme materiale som W4240252594 (tidligere runde)
+W1506956878  # 4, US, tiltak 4, ROI-beregning for yrkesrettet utdanning etter videregående i Washington State basert på nettoeffekter; tvil: 5
+W4412439050  # 4, US, tiltak 3, statlige tilskudd til bedrifter for å lære opp egne ansatte; koblede data, matchet kontrollgruppe; sysselsettingsvekst og stillingskrav i bedriften etter opplæring
+W4410139705  # 4, US, tiltak 3, bare tittel; samme materiale som W4412439050
+W4412393130  # 4, US, tiltak 3, bare tittel; samme materiale som W4412439050
+W3206318683  # 4, US, tiltak 3, kausal maskinlæring for verdiøkningen av opplæringsprogrammer i Rhode Island; påmelding øker kvartalsinntekt i snitt 605 dollar, spenn mellom programmer
+W2913487423  # 4, PL, tiltak 4, DID med propensity score matching på arbeidskraftsundersøkelsen 2001-2013: lønnseffekt av etterutdanning på masternivå (studia podyplomowe) for sysselsatte
+W3113163605  # 4, FI, tiltak 2, matching: effekt av erikoisammattitutkinto (spesialistkvalifikasjon tatt ved siden av jobb) på inntekt, sysselsetting og ledighet fem år etter, industriansatte 2008-2012
+W3170385016  # 4, AU,JP, tiltak 2, forskjell-i-forskjell på husholdningspaneler (HILDA, KHPS): effekt av yrkesopplæring (VET) på sysselsetting, stilling og lønn; tvil: 5
+W2905715547  # 5, GB, tiltak 2, administrative data (ILR-WPLS): inntekts-, sysselsettings- og trygdepremier for voksne FE-elever etter leverandør, nivå 2 og 3; design ikke beskrevet; tvil: 4
+W2806107573  # 5, GB, tiltak 2, inntektspremier to år etter FE-læring etter leverandør og nivå; samme materiale som W2905715547; tvil: 4
+W3034316837  # 5, GB, tiltak 1, bare tittel (effektevaluering av læring under nivå 2 i FE)
+W1536650356  # 5, land ikke oppgitt, tiltak 1, bare tittel (longitudinell undersøkelse av deltakere i Skills for Life, bølge 3)
+W182885442  # 5, land ikke oppgitt, tiltak 1, bare tittel (longitudinell studie av grunnleggende ferdigheter i forsvaret)
+W133051827  # 5, land ikke oppgitt, tiltak 1, bare tittel (longitudinell oppfølging av lavt kvalifiserte voksne studenter ved community colleges)
+W2121779853  # 5, land ikke oppgitt (nederlandsk tekst), tiltak 1, nytte-kostnadsberegning for kurs for lavt leseferdige: produktivitet og helsegevinst per deltaker
+W2891852935  # 5, US, tiltak 2, Texas-data: GED-veien til høyere utdanning sammenlignet med like risikoelever som fullførte videregående; ingen instrument; tvil: 4
+W4300587765  # 5, US, tiltak 2, CPS: lønnsavkastning av GED for innfødte og innvandrere; forfatterne sier kausal tolkning er vanskelig
+W4415052820  # 5, US, tiltak 2, bare tittel (effekt av et voksen-videregående-program; utfall trolig kriminalitet)
+W2186239740  # 5, land ikke oppgitt, tiltak 2, bare tittel (dual credits og overgang til høyere utdanning for voksne i Manitoba)
+W4395024612  # 5, US, tiltak 2, evaluering av Excel Center (voksen videregående) i Missouri med arkivdata fra kandidatene: videre utdanning, sertifiseringer, sysselsetting og lønn uten kontrollgruppe; tvil: F
+W3121925437  # 5, DE, tiltak 2, bare tittel (verdien av 'second chance'-muligheter i et tidlig sortert system)
+W4391363004  # 5, CA, tiltak 1, kjennetegn og utfall for frafalne vs. fullførende i et kanadisk program for grunnleggende ferdigheter; tilbakegang til skole; tvil: F
+W3124836786  # 5, US, tiltak 3, bare tittel (offentlig støtte til opplæring av ansatte)
+W1495746027  # 5, SE, tiltak 3, bare tittel (evaluering av de svenske vikariatsordningene ved opplæring av ansatte); kan gjelde tiltak 5
+W3123151662  # 5, DE, tiltak 3, bare tittel (effekt av kvalifiseringstiltak for sysselsatte i Sachsen)
+W170012328  # 5, CH,US, tiltak 3, bare tittel (ERA: gjennomføring, bruk og utfall av opplæringsstøtte i arbeid for enslige forsørgere)
+W3132248779  # 5, DE,US, tiltak 3, bare tittel (offentlig finansiering av korte sertifikatprogrammer)
+W1757678320  # 5, land ikke oppgitt, tiltak 3, bare tittel og stikkord (avkastning av statlig finansiert opplæring, yrkesmobilitet)
+W3174737561  # 5, land ikke oppgitt, tiltak 3, bare tittel (avkastning av studiepoenggivende vs. ikke-studiepoenggivende kvalifikasjoner)
+W4407898116  # 5, land ikke oppgitt, tiltak 3, bare tittel (effekt av tilskudd på opplæring i USA; utfall kan være bare deltakelse)
+W2181682226  # 5, land ikke oppgitt, tiltak 3, bare tittel (insentiver til etter- og videreutdanning i italienske regioner)
+W4412992382  # 5, land ikke oppgitt, tiltak 3, bare tittel (omskolering og motstandskraft)
+W1954729173  # 5, US, tiltak 3, evaluering av utfall og effekter for deltakere i fylkesfinansierte arbeidskraftprogrammer for vanskeligstilte (Travis County); design ikke oppgitt
+W392814853  # 5, IT, tiltak 3, intervjudata og kontrollutvalg, probit: sysselsetting på mellomlang sikt etter regional yrkesopplæring i Piemonte, særlig kvinner; kan gjelde tiltak 5
+W4235988270  # 5, land ikke oppgitt, tiltak 3, WorkAdvance: sammendraget beskriver bare finansieringen (Social Innovation Fund); tvil: F
+W2550787354  # 5, AT, tiltak 3, evaluering av Bildungskarenz (utdanningspermisjon) 2000-2009 med registeranalyse av karriere, sysselsetting og inntekt etterpå samt intervjuer; design ikke oppgitt; tvil: 4
+W319480746  # 5, land ikke oppgitt, tiltak 4, bare tittel (hvem studerer etter 25 år og hva de får igjen)
+W4388841454  # 5, US, tiltak 4, avkastning av collegegrad etter alder ved fullføring; om lag 20 % fullfører etter 30 år
+W4387376011  # 5, US, tiltak 4, NLSY: avkastning av ny utdanning etter tid i arbeidslivet, for dem som blir i og går ut av arbeidsstyrken; seleksjonskorreksjon; tvil: 4
+W1524457402  # F, GB, tiltak 3, bare tittel (Employer Training Pilots, første års evaluering)
+W1674145142  # F, GB, tiltak 3, bare tittel (Employer Training Pilots, sluttrapport); samme materiale som W1524457402
+W1778092198  # F, land ikke oppgitt, tiltak 3, bare tittel (casestudie av Project QUEST, bransjerettet opplæring)
+W1751516049  # 5, US, tiltak 2, bare tittel (GED-undervisning som forbereder til college og arbeid, LaGuardia Community College; tidlige resultater)
+W3124248816  # 5, land ikke oppgitt, tiltak 2, bare tittel; samme materiale som W1751516049
+W7111787058  # F, US, tiltak 3, beskrivelse av over 75 000 godkjente opplæringsprogrammer (ETP) under WIOA, finansiert med vouchers; tilbydere, yrker og informasjon til deltakere
+W2744094439  # F, DE, tiltak 3, IAB-undersøkelse av hvilke bedrifter som bruker WeGebAU (BA-støtte til videreutdanning av ansatte) og hvordan de vurderer det
+W1592931197  # F, land ikke oppgitt (Europa), tiltak 3, bare tittel (oversikt over etterspørselsstyrt finansiering av videreutdanning, f.eks. kuponger); tvil: 1
+W7140215212  # F, CA, tiltak 3, gjennomgang av Québec-loven om kompetanseutvikling (opplæringsplikt for bedrifter): positiv effekt på opplæring i bedrift, men ingen data om effekt på produktivitet eller arbeidstakere
+W7160247880  # F, CA, tiltak 3, bare tittel; samme materiale som W7140215212
+W2463411221  # F, land ikke oppgitt (norsk), tiltak 3, midtveisevaluering av Kompetanseutviklingsprogrammet i landbruket: iverksetting og resultater mot mål
+W2495716222  # F, land ikke oppgitt (norsk), tiltak 3, foreløpig evaluering av Kompetanseutviklingsprogrammet (KUP) første år: organisering, søknader, måloppnåelse
+W2916129466  # F, land ikke oppgitt (norsk), tiltak 3, underveisrapport 2004 fra evalueringen av KUP: prosjektportefølje og spredning
+W2474359386  # F, US, tiltak 3, mixed methods-evaluering av statsfinansiert opplæring av ansatte (California Employment Training Panel) ved en community college
+W350395327  # F, US, tiltak 3, beskrivelse av Essential Skills Program ved Community College of Denver for sosialhjelpsmottakere: fullføring og sysselsettingsrate uten sammenligning
+W2229052041  # F, land ikke oppgitt, tiltak 1, forstudie og pilot til longitudinell studie av effekten av lese-, regne- og språkkurs på arbeidsplassen; tvil: 5
+W139825580  # F, GB, tiltak 1, longitudinelle data om hva som fremmer og hemmer varig Skills for Life-tilbud på arbeidsplassen; ingen effektmål
+W7111706574  # F, land ikke oppgitt, tiltak 1, Skills for Life: gevinster i lesing, regning og skriving og selvtillit hos deltakere; ingen arbeidsmarkedsutfall
+W2185044493  # F, GB, tiltak 1, bare tittel (evaluering av Skills for Life at Work)
+W166030914  # F, land ikke oppgitt (Skottland i sammendraget), tiltak 1, gjennomgang av åtte pilotprosjekter for lese- og skriveferdigheter på arbeidsplassen 2006-2008
+W1530625327  # F, land ikke oppgitt (England i sammendraget), tiltak 2, evaluering av Adult Learning Grant (behovsprøvd stipend til voksne som tar første nivå 2/3), kohort 2 bølge 1
+W4408207678  # F, GB, tiltak 2, to kvalitative studier (livshistorier) av hva BTEC National Diploma betydde for arbeid og karriere, også for voksne; ingen effektmål
+W7145609248  # F, land ikke oppgitt (Sverige i tittelen), tiltak 4, bare tittel (universitetsutdanning for yrkesaktive i Sverige)
+W2166833369  # F, land ikke oppgitt (svensk kilde), tiltak 4, avhandling om validiteten i realkompetansevurdering i høyere utdanning; gjennomgang og empiri, ingen effektmål
