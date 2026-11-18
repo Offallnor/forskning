@@ -1226,3 +1226,27 @@ W7204457267  # 1, NO, grein 5, bare tittel: flere unge utenfor arbeid og utdanni
 W7204672917  # 1, GB, grein 5, mekanisme: lokal arbeidsledighet i 179 britiske regioner forklarer NEET-andelen bedre enn kvalifikasjoner eller helse
 W7216831854  # 2, Europa, grein 5, varighet og forløp i NEET over fire år under krisen, hvem som rammes (kjønn, lav utdanning) og landpolitikk som reduserer varighet
 W7221052234  # 2, Europa, grein 5, bare tittel: NEET etter urbaniseringsgrad, trender og endrede forskjeller mellom by og land
+0198cc5a2952-5c60e9f0-a58e-40fb-89b8-2dcd1f52ec05  # 4, NO, grein 1, lærlingformidling i tre fylker, forklarer ulikheter i formidlingsresultat (NIFU 2014), bare tittel
+KU-a2a2fd8d-8c54-46a8-9379-33eadaa79981  # 4, NO, grein 1, samme materiale som 0198cc5a2952-5c60e9f0-a58e-40fb-89b8-2dcd1f52ec05
+KU-a16403a9-74e4-4185-85ad-9aa931f2c622  # 1, NO, grein 1, Udir 2026 om oppfølging og formidling til læreplass, bare tittel, tvil: 4
+0198cc5942fe-c21581fc-4438-46d5-a7d6-53b5a6470580  # 4, NO, grein 1, evaluering av Vg3 fagopplæring i skole for elever uten læreplass (NIFU 2022), bare tittel
+0198cc641596-f67fb9cc-47f8-449f-a914-65f394b8beb9  # 4, NO, grein 1, evaluering av kvalifiseringsmodeller i og etter Vg2 yrkesfag (Fafo 2016), bare tittel
+KU-f2d09228-f936-46d5-a8f1-a6341e2e310a  # 4, NO, grein 1, samme materiale som 0198cc641596-f67fb9cc-47f8-449f-a914-65f394b8beb9
+KU-9e245b15-0322-4dc6-a7e5-094e15ebbe2a  # 4, NO, grein 1, kvalifisering av elever etter Vg2 yrkesfag (Udir 2015), bare tittel
+KU-a2a2fd81-e41f-4a50-9e68-7400b07c51a6  # 4, NO, grein 1, forsterket alternativt Vg3 for elever uten læreplass (Udir 2015), bare tittel
+KU-5bb59825-a4d9-4fd1-b310-35808de890ae  # 4, NO, grein 1, alternativ Vg3 for elever som ikke får læreplass (Udir 2014), bare tittel
+0198cc492bc2-f7de73bc-2771-4c49-9a57-9cbb29710a4b  # 3, NO, grein 1, På veien til fagbrev, analyser av Lærlingundersøkelsen (NIFU 2011), bare tittel, tvil: 4
+KU-e0342cc4-7798-484e-bab9-5d8f0c176ff7  # 3, NO, grein 1, samme materiale som 0198cc492bc2-f7de73bc-2771-4c49-9a57-9cbb29710a4b
+KU-5e67daec-b620-4ea5-81cd-7cf6754da2bd  # 3, NO, grein 1, samme materiale som 0198cc492bc2-f7de73bc-2771-4c49-9a57-9cbb29710a4b
+0198cc60de14-1d8f05de-ea91-4689-b935-ae16d495700c  # 3, NO, grein 1, progresjon og kompetanseoppnåelse i yrkesfagopplæring (NIFU 2006), bare tittel, tvil: 4
+KU-be38bd90-26a9-48fd-99e6-d00b975cb43c  # 4, NO, grein 1, konsekvenser av koronapandemien for lærlingene (Udir 2021), bare tittel
+KU-30280226-a483-42d7-b2f7-8521defed3e0  # 1, NO, grein 1, Udir-statistikk 2025 om søkere til yrkesfag og læreplass, bare tittel
+01993df61aa1-7244851a-929f-49eb-b4e9-42395965aa79  # 1, NO, grein 2, overganger og gjennomføring i de studieforberedende programmene (NIFU 2015), bare tittel, tvil: 3
+019c9627ea7c-d8b770b8-8352-4e37-9ff1-64df172bb653  # 1, NO, grein 2, trender i rekruttering til juss, medisin og siviløkonomi etter sosial bakgrunn (UiO 2013), bare tittel, tvil: 4
+019c96218881-8db776b2-9b20-4d73-b8b7-960fbd266b0e  # 4, NO, grein 2, 4, sosial bakgrunn og finansiering av studiene (UiO 2006), bare tittel
+0198cc3d808a-23e758eb-cc47-45c4-b89e-b509033979da  # 4, NO, grein 4, spørreundersøkelse om forsinkelse i studiepoengproduksjon (NIFU 2025), bare tittel
+01990e350c35-2a94fc44-2284-46b1-9818-377e0dd8be36  # 5, NO, grein 4, gjennomstrømning og frafall ved Høgskulen på Vestlandet (2020), bare tittel
+0198cc5dca91-b12bc744-b2c5-431a-88e3-83e491815557  # 1, NO, grein 4, studiestøtte og studieprogresjon blant dem med redusert stipend etter behovsprøving (NIFU 2006), bare tittel, tvil: 3
+0198cc8ee47c-04f07647-9014-4b3a-9a7c-740698f56777  # 5, NO, grein 4, frafall fra studier ved én høgskole (Møreforsking 2006), bare tittel
+0198cc8e9c3a-5eaa2271-03e2-40a5-9fe3-9210f69da4c9  # 5, NO, grein 4, samme materiale som 0198cc8ee47c-04f07647-9014-4b3a-9a7c-740698f56777
+0198cc945001-3beeed78-905c-4895-9ee2-968b9e0df5cc  # 5, NO, grein 4, samme materiale som 0198cc8ee47c-04f07647-9014-4b3a-9a7c-740698f56777
