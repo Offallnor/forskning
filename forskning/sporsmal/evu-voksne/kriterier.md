@@ -11,6 +11,7 @@ Skrevet 18.11.2026 før søket. Første spørsmål i prøvekjøringen av løypa 
 - **Kjente kilder:** ingen oppgitt av bestilleren.
 - **Statistikk (tilvalg):** ja. Hvor mange voksne som deltar i opplæring, etter utdanningsnivå og alder, og Norge sammenlignet med Norden (PIAAC, SSB). To til tre figurer.
 - **Variant og frist:** full løype. Ingen fast frist, helst før tiltredelse.
+- **Avvik fra løypa (avgjort av bestilleren 18.11.2026):** søket ga 6 719 kandidater. Før første utvalg siktes alle grovt med Haiku etter `verktoy/SIKTING.md`, og første utvalg leser bare de beholdte. Løypa sier ellers at første utvalg leser hele lista. Kostnaden er grunnen.
 - **Ferdig når:** svaret rapporterer hvert tiltak for seg (se «Tiltak») og har en sammenligningstabell på tvers: beste design per tiltak, effekt på sysselsetting og lønn i felles mål der kildene tillater det (prosentpoeng sysselsetting, prosent lønn), og hvor sikkert resultatet er. Det lages ikke et samlet estimat på tvers av tiltakene. Oversikter som selv har slått sammen, rapporteres med egne tall. Svaret sier at forskjeller mellom tiltakene også kan skyldes hvem som deltar og hvor godt tiltaket er evaluert. Tiltak med bare evalueringer uten effektmål står i tabellen uten tall.
 
 Godkjent av bestilleren 18.11.2026.
@@ -26,7 +27,7 @@ Godkjent av bestilleren 18.11.2026.
 - **Sammenligning:** voksne som ikke deltar, eller som deltar senere.
 - **Gruppe:** voksne i arbeidsfør alder (om lag 25–64 år), i og utenfor arbeid.
 - **Utfall, primære først:**
-  1. sysselsetting og lønn eller inntekt
+  1. sysselsetting og lønn eller inntekt, og mottak av trygdeytelser og sosialhjelp (lagt til av bestilleren 18.11.2026)
   2. omstilling: bytte av jobb, yrke eller bransje, og jobbtap og tilbakeføring til arbeid
   3. fullført kvalifikasjon og videre utdanning
 - **Design:** som i løypa, kategori 1–5. Evalueringer av ordningene uten effektmål tas med i et eget avsnitt («Evalueringer av ordningene, uten effektmål»), med `design` = `forvaltning`.
