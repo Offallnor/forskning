@@ -1,6 +1,6 @@
 # Forskning
 
-Kunnskapsoversikt og løype for spissede forskningsspørsmål om arbeid, velferd, arbeid og helse og integrering. Start i `forskning/VEIVISER.md`. Et nytt spørsmål følger `forskning/LOYPE.md`.
+Kunnskapsoversikt om arbeid, velferd, arbeid og helse og integrering, og løype for spissede forskningsspørsmål på arbeids-, velferds- og utdanningsfeltet. Start i `forskning/VEIVISER.md`. Et nytt spørsmål følger `forskning/LOYPE.md`.
 
 ## Fulltekst
 

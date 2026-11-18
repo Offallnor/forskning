@@ -2,7 +2,7 @@
 
 Oppskrift for å svare på et spisset spørsmål fra forskningen, med kildeutvalg, uttrekk og kontroller. Skrevet 7.11.2026 etter test på gradert sykmelding, og rettet samme dag etter en kaldtest på egenandel ved sykefravær (`sporsmal/egenandel-sykefravaer/kaldtest.md`). I kaldtesten kjørte en ny tråd løypa bare ut fra denne filen.
 
-Løypa gjelder alle temaer på arbeids- og velferdsfeltet og tilgrensende felt. Eksemplene er fra sykefravær fordi de tre første spørsmålene handlet om det. Søkeord, designhierarki og kilder skal velges ut fra spørsmålet.
+Løypa gjelder alle temaer på arbeids- og velferdsfeltet, utdannings- og kompetansefeltet (videregående opplæring, fagskole, høyere utdanning, voksnes læring og studiestøtte) og tilgrensende felt. Eksemplene er fra sykefravær fordi de tre første spørsmålene handlet om det. Hva som er særskilt for utdanning, står under «Utdanning og kompetanse» i steg 1. Søkeord, designhierarki og kilder skal velges ut fra spørsmålet.
 
 Hvert steg er merket:
 
@@ -169,6 +169,12 @@ Et raskt svar kan senere utvides til full løype i samme mappe (se «Gjenoppta e
 
    OpenAlex mangler mye norsk forskning. Gradert sykmelding manglet både FHI-oversikten og ISF-rapporten før det norske søket ble lagt til.
 
+   **Utdanning og kompetanse.** Det norske søket dekker de viktigste norske kildene på utdanningsfeltet uten egne kataloger: Kudos har om lag 1 400 dokumenter der Utdanningsdirektoratet er eier, og flere hundre fra Direktoratet for høyere utdanning og kompetanse (HK-dir) og NOKUT. NIFU står som utfører på om lag 600, og NIFUs rapporter ligger også i vitenarkivet (tall fra Kudos-katalogen 18.11.2026). Navs bibliotek og *Arbeid og velferd* gir sjelden treff på rene utdanningsspørsmål. Treffene derfra står ofte sist som «svak» og kan leses raskt.
+   - Bruk uttrykkene sektoren selv bruker, med bøyningsformer: «frafall i videregående», «fullføring», «læreplass», «lærekontrakt», «yrkesfag», «fagskoleutdanning», «etter- og videreutdanning», «voksnes læring», «studiegjennomføring», «studiestøtte». Ta med eldre navn når perioden går langt tilbake, for eksempel Kunnskapsløftet, Reform 94, Kompetansereformen og Ny GIV.
+   - Udirs FoU-rapporter som ikke står i Kudos: sjekk Udirs side for forskning og analyser når mandatet gjelder grunnopplæringen, og legg inn det som mangler med `url:` (steg 2).
+   - Kunnskapssenter for utdanning lager kunnskapsoversikter og systematiske oversikter, men ga ingen treff i Kudos. Se om oversiktene på temaet kom med i vitenarkivet-treffene. Mangler de, finn dem på nettstedet til senteret og legg dem inn med `url:`.
+   - OECDs utdanningsrapporter vurderes særskilt, se OECD-punktet i steg 2. Education at a Glance og PIAAC er statistikk, ikke studier. De brukes i tilvalget for statistikk, fra datakatalogen.
+
 3. **Svensk søk:** `sporsmal_sok.py <mappe> --svensk 'uttrykk 1' 'uttrykk 2' ...`. Søker i LIBRIS (Kungliga biblioteket), som har rapportseriene til IFAU, ISF, Statskontoret og andre svenske myndigheter. Bruk det når svenske erfaringer er relevante for spørsmålet. Bruk svenske uttrykk med to ord eller mer («arbetslösa ungdomar», «partiell sjukskrivning»), fordi LIBRIS også har mye eldre og populærvitenskapelig litteratur. Med `--fra=ÅR` tas bare poster fra det året og senere med (standard 1995). Kildene får id `LI-…`, og treffene listes i `svenske-kandidater.tsv`.
    - LIBRIS har nesten aldri sammendrag. Velg på tittel, utgiver og år, og merk i kommentaren at utvalget bygger på tittelen.
    - Lenkene i LIBRIS er ofte gamle. Teksten hentes da fra IFAUs nettsted eller fra OpenAlex når tittel og år stemmer. Rapporter fra andre utgivere (Statskontoret, ISF) må ofte legges inn med `url:`.
@@ -197,7 +203,7 @@ Et raskt svar kan senere utvides til full løype i samme mappe (se «Gjenoppta e
    - **Mange kandidater** (over noen hundre): les `norske-kandidater.tsv` i sin helhet, fordi norske studier ofte har få siteringer og mangler sammendrag.
    - **Flere versjoner av samme studie:** den publiserte versjonen er hoved-id. Åpne versjoner legges til med kommentaren «åpen versjon av <id>», og tallene hentes fra den som har tekst.
    - Flere publikasjoner av samme materiale skrives som «samme materiale som <id>» i kommentaren.
-   - **OECD:** OECDs landgjennomganger og rapportserien *Connecting People with Jobs* vurderes særskilt når mandatet gjelder norske ordninger eller sammenligning med andre land. Fransk og engelsk utgave, og bok og kapittel, regnes som samme kilde.
+   - **OECD:** OECDs landgjennomganger og rapportserien *Connecting People with Jobs* vurderes særskilt når mandatet gjelder norske ordninger eller sammenligning med andre land. På utdanningsfeltet gjelder det samme OECDs gjennomganger av norsk utdanningspolitikk (blant annet *Reviews of National Policies for Education*, *Education Policy Outlook* og *Skills Strategy* for Norge) og *OECD Education Working Papers*. Står de ikke i kandidatlista, legg dem inn med `tittel:` eller `url:`. Fransk og engelsk utgave, og bok og kapittel, regnes som samme kilde.
    - **Danmark:** det finnes ingen åpen katalog over danske evalueringer som løypa kan søke i. Når danske studier er viktige for spørsmålet, sjekk jobeffekter.dk (STAR) for hånd, og legg funnene inn med `url:`.
 2. **Referanser:** `sporsmal_sok.py <mappe> --referanser 'uttrykk' ...` [skript]. Skriptet følger litteraturlistene bakover og siteringene forover fra de valgte kildene. En referert kilde tas med som kandidat når minst to valgte kilder peker på den, eller når et av uttrykkene står i tittel eller sammendrag.
    - Hver runde lagres som `referanser-<n>.tsv`, og `referanser.tsv` er alltid siste runde. Gjør minst to runder, og fortsett til metningskravet under holder, høyst fire. Skriv antall runder i `metning.md`. IPS-spørsmålet trengte tre.
