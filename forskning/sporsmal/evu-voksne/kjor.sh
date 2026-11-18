@@ -12,5 +12,6 @@
 # python3 -I forskning/verktoy/sporsmal_sok.py evu-voksne --referanser 'adult education' 'adult learning' 'adult training' 'continuing education' 'further training' 'lifelong learning' 'basic skills' 'adult literacy' 'workplace literacy' 'second chance' 'adult vocational' 'apprenticeship' 'prior learning' 'training voucher' 'learning account' 'upskilling' 'reskilling' 'retraining' 'displaced workers' 'community college' 'mature students' 'training subsid' 'educational leave' 'Komvux' 'Kunskapslyftet' 'vuxenutbildning' 'videreutdanning' 'voksenopplæring' 'Kompetansepluss' 'praksiskandidat'
 # Runde 5 (18.11): tekst og versjoner for alle 1 203 valgte kilder (kjernen avgjøres før uttrekket)
 # Fortsatt 18.11 kl. 17:45: runden nådde tidsgrensen, starter på nytt der den slapp (også de 13 sist tilførte)
+# Fortsatt 18.11 kl. 19:00: pdf-logg skrives nå underveis; kilder uten tekst fra før er lagt i pdf-logg.tsv og hoppes over
 python3 -I forskning/verktoy/sporsmal_sok.py evu-voksne --pdf
 python3 -I forskning/verktoy/sporsmal_sok.py evu-voksne --versjoner

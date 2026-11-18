@@ -324,7 +324,19 @@ def pdf_modus(mappe, alle=False):
     avvist = {l.split("#")[0].strip() for l in open(avvist_fil, encoding="utf-8")} - {""} if os.path.exists(avvist_fil) else set()
     tekst = tempfile.mkdtemp()   # arbeidsmappe for PDF og pdftotext; teksten lagres i kildebiblioteket
     kand = {json.loads(l)["id"]: json.loads(l) for l in open(os.path.join(ut, "kandidater.jsonl"), encoding="utf-8")}
-    logg = []
+    loggfil = os.path.join(ut, "pdf-logg.tsv")
+
+    class Logg(list):
+        """Skrives til pdf-logg.tsv etter hver kilde, så en runde som når tidsgrensen ikke prøver de samme
+        kildene på nytt neste gang (evu-voksne 18.11.2026: to runder på 100 minutter ga tekst for svært få).
+        Linjer fra forrige logg for kilder som ikke er nådd ennå, beholdes."""
+        def append(self, x):
+            super().append(x)
+            nadd = {l.split("\t")[0] for l in self}
+            with open(loggfil, "w", encoding="utf-8") as f:
+                f.write("\n".join(list(self) + [v for k, v in forrige.items() if k not in nadd]) + "\n")
+
+    logg = Logg()
 
     def lagre(wid, tp, r, url, hvordan):
         merk = tekst_merknad(tp, r, url)
