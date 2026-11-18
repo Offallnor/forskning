@@ -878,6 +878,11 @@ def referanse_modus(mappe, uttrykk):
     for wid in [v for v in valgt if v not in fulgt]:
         if wid in hentet:
             rb, rf = hentet[wid]["bakover"], hentet[wid]["forover"]
+        elif wid in vurdert:
+            # Vurdert i en tidligere runde, men ikke lagret i referanser-hentet.jsonl (oppslaget feilet eller
+            # runden var eldre enn lageret). Slås ikke opp på nytt: med mange slike gikk runden tom for kvote
+            # hos OpenAlex og nådde tidsgrensen (18.11.2026).
+            continue
         else:
             w = hent(f"{API}/works/{wid}?select=id,referenced_works")
             ok = w is not None
