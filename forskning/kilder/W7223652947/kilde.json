@@ -1,0 +1,16 @@
+{
+ "apen_url": "https://academic.oup.com/eurpub/article-pdf/36/Supplement_5/ckag169.371/72463196/ckag169.371.pdf",
+ "ar": 2026,
+ "doi": "https://doi.org/10.1093/eurpub/ckag169.371",
+ "forfattere": [
+  "L Bauger",
+  "S Hagen"
+ ],
+ "id": "W7223652947",
+ "kilde": "European Journal of Public Health",
+ "lenke": "https://openalex.org/W7223652947",
+ "oversikt": false,
+ "sammendrag": "Abstract Background NEET (not in Education, Employment or Training) is commonly used as an indicator of risk for social exclusion among young people. A critique of the term is that NEET is often treated as a homogeneous category, despite substantial differences in duration and underlying mechanisms. This study examines heterogeneity in NEET by distinguishing between short- and long-term trajectories and identifying factors associated with each. Methods Using Norwegian registry data, we followed all individuals born in 1995 who resided in Norway throughout ages 20–29 (N = 62,873; 48% female). Annual NEET status was defined according to Statistics Norway’s work status classification. Individuals were grouped as never NEET, short-term NEET (1–2 years), or long-term NEET (≥3 years). Multinomial logistic regression was used to examine associations with compulsory school grades, household income in adolescence, parental education, gender, and immigration background. Sequence analyses were used to describe patterns transition in and out of the NEET category. Results Seventy-one percent were never NEET, 17% experienced short-term NEET, and 12% were classified as long-term NEET. Long-term NEET was strongly associated with lower compulsory school grades (p < 0.001) and socioeconomic disadvantage; individuals from the highest household income quartile had a 4.6 percentage-point lower probability (95% CI: −5.3 to − 4.0) of long-term NEET compared to those from the lowest quartile. Sequence analyses showed limited re-entry into work or education among long-term NEET, while short-term NEET was characterized by frequent transitions. Conclusions NEET trajectories differ markedly in both duration and associated risk factors. Distinguishing between these trajectories is essential for understanding youth marginalization and for improving the analytical and preventive value of NEET in public health monitoring. Key messages • NEET in young adulthood comprises distinct trajectories that differ in duration, transitions, and associated social disadvantage. • Long-term NEET is strongly patterned by early educational performance and socioeconomic",
+ "tittel": "Short- and long-term NEET in young adulthood: Evidence from Norwegian registry data",
+ "type": "article"
+}

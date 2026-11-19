@@ -1,0 +1,16 @@
+{
+ "ar": 2022,
+ "doi": "https://doi.org/10.1080/1369183x.2022.2096578",
+ "forfattere": [
+  "George Galster",
+  "Lena Magnusson Turner",
+  "Anna Maria Santiago"
+ ],
+ "id": "W4285006750",
+ "kilde": "Journal of Ethnic and Migration Studies",
+ "lenke": "https://openalex.org/W4285006750",
+ "oversikt": false,
+ "sammendrag": "Identifying the determinants of social mobility for children of non-Western immigrants is of vital concern as immigration pressures grow across the West. Prior studies have minimized the role of place as one such determinant but suffers from several unsupportable assumptions. We interrogate this issue by quantifying the relative contributions made by family and neighborhood characteristics in explaining the educational attainments of young adults, paying special attention to how effects differ by gender and parental immigrant status. Our statistical models provide plausibly causal estimates by controlling for geographic selection bias. We estimate model parameters using several cohorts of children raised in Oslo, Norway, for whom government registers provide exceptionally detailed information about cumulative exposures of children to family and neighborhood contexts. Our decomposition demonstrates that differences in childhood neighborhood have a substantial effect on male (but not female) immigrant-native gaps in the probabilities of completing secondary school and of enrolling in university, though these effects are smaller than those reflecting differences in family background. We discuss implications of our findings for people- and place-based social policies aimed at enhancing immigrant opportunities.",
+ "tittel": "Decomposing educational disparities between immigrants and natives in Oslo: how gender, parents, and place matter",
+ "type": "article"
+}

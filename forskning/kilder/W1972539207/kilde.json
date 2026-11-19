@@ -1,0 +1,17 @@
+{
+ "apen_url": "https://www.sciencedirect.com/science/article/pii/S1877042813030930/pdf",
+ "ar": 2013,
+ "doi": "https://doi.org/10.1016/j.sbspro.2013.08.962",
+ "forfattere": [
+  "Eliza-Olivia Lungu",
+  "Ana-Maria Zamfir",
+  "Monica Matei"
+ ],
+ "id": "W1972539207",
+ "kilde": "Procedia - Social and Behavioral Sciences",
+ "lenke": "https://openalex.org/W1972539207",
+ "oversikt": false,
+ "sammendrag": "The aim of this paper is to identify patterns on vocational specificity in 17 EU countries with respect to their higher education systems. We merged two databases that evaluate the labour market entry of ISCED5 graduates, 4-5 years after their graduation: REFLEX and HEGESCO and we employ multiple correspondence analysis on 4 variables: country, the degree of vocational orientation of the study programme, internship participation and employers awareness on the content of the programme. Our results emphasize three typologies: countries with very high vocationally oriented educational programmes (e.g. Norway), countries with very low vocationally oriented educational programmes (e.g. UK) and countries where vocational orientation of the educational programmes is medium (e.g. Germany).",
+ "tittel": "Patterns on the Vocational Specificity of the Higher Educational Programmes",
+ "type": "conference-paper"
+}

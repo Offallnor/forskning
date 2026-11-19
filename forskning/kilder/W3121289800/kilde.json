@@ -1,0 +1,21 @@
+{
+ "apen_url": "http://www.nber.org/papers/w25679.pdf",
+ "ar": 2020,
+ "doi": "https://doi.org/10.1086/713009",
+ "forfattere": [
+  "Marianne Bertrand",
+  "Magne Mogstad",
+  "Jack Mountjoy"
+ ],
+ "hentet": "2026-11-19",
+ "hentet_fra": "http://www.nber.org/papers/w25679.pdf",
+ "hvordan": "pdf",
+ "id": "W3121289800",
+ "kilde": "Journal of Labor Economics",
+ "lenke": "https://openalex.org/W3121289800",
+ "merknad": "ÅPEN VERSJON (preprint eller arbeidsnotat), merkes i svaret",
+ "oversikt": false,
+ "sammendrag": "We study the impacts of a major reform to vocational secondary education that aimed to move beyond the trade-off between providing occupational skills and closing off academic opportunities. Norway’s Reform 94 integrated more general education into the vocational track, offered vocational students a pathway to college, and increased access to apprenticeships. We identify reform impacts through a difference-in-discontinuity research design applied to linked population registries. The reform substantially increased initial vocational enrollment, but with divergent consequences by gender. Overall, the reform succeeded at improving social mobility, particularly for disadvantaged men, but it somewhat exacerbated the gender gap in adult earnings.",
+ "tittel": "Improving Educational Pathways to Social Mobility: Evidence from Norway’s Reform 94",
+ "type": "article"
+}

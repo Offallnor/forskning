@@ -1,0 +1,19 @@
+{
+ "apen_url": "https://www.tandfonline.com/doi/pdf/10.1080/0145935X.2024.2402983?needAccess=true",
+ "ar": 2024,
+ "doi": "https://doi.org/10.1080/0145935x.2024.2402983",
+ "forfattere": [
+  "Trine Holten"
+ ],
+ "hentet": "2026-11-19",
+ "hentet_fra": "https://nva.sikt.no/registration/0198cc738d52-7da048fe-8f14-48a3-8775-d79f6b4a7977",
+ "hvordan": "vitenarkivet",
+ "id": "W4402612357",
+ "kilde": "Child & Youth Services",
+ "lenke": "https://openalex.org/W4402612357",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "This study utilizes registry data and logistic regression to investigate the relationship between Child Protection Service (CPS) experience, completion of upper secondary school, and subsequent gainful employment. The findings show that completion of upper secondary school is associated with later gainful employment. However, when control variables are included to adjust for substantial differences between the two groups, the results reveal that completion of upper secondary school has a more substantial impact on future gainful employment for former CPS clients compared to non-CPS clients.",
+ "tittel": "The Impact of Child Protection Service Experience and Secondary School Completion on Employment Outcomes",
+ "type": "article"
+}

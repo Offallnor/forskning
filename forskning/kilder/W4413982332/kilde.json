@@ -1,0 +1,21 @@
+{
+ "apen_url": "https://direct.mit.edu/euso/article-pdf/doi/10.1162/euso.a.41/2550973/euso.a.41.pdf",
+ "ar": 2025,
+ "doi": "https://doi.org/10.1162/euso.a.41",
+ "forfattere": [
+  "Thea Bertnes Strømme",
+  "Karl Ingar Kittelsen Røberg",
+  "Sara Seehuus"
+ ],
+ "hentet": "2026-11-19",
+ "hentet_fra": "https://nva.sikt.no/registration/019b2c19ac30-9924b391-2bfd-4edb-adfa-e7c429902c70",
+ "hvordan": "vitenarkivet",
+ "id": "W4413982332",
+ "kilde": "European Societies",
+ "lenke": "https://openalex.org/W4413982332",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "ABSTRACT Previous research suggests that dropout in higher education is associated with educational gender segregation, as some studies have shown that being in a gender minority increases the likelihood of leaving a field of study. Using extensive population-wide data for 22 cohorts, we first analyze the correlation between present and historical gender composition and dropout using a linear probability model with propensity score matching; we then use models with program fixed effects to exploit the change over time in gender composition within specific programs at specific institutions, allowing us to investigate the extent to which gendered peer effects drive dropout. Our findings show that both men and women tend to drop out more from gender-balanced fields, less from female-dominated fields, and more from historically male-dominated fields. These differences are larger for women than for men. This pattern disappears, however, when examining year-to-year changes in gender composition within each educational program at institutions, even if women have a small tendency to drop out from gender-balanced programs when the share of women increases; this suggests that gendered dropout patterns are not driven by peer effects stemming from numerical underrepresentation.",
+ "tittel": "Gendered dropout in higher education: peer effects or gender typing?",
+ "type": "article"
+}

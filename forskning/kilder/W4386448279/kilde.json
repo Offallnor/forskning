@@ -1,0 +1,20 @@
+{
+ "apen_url": "https://doi.org/10.1080/13639080.2023.2254271",
+ "ar": 2023,
+ "doi": "https://doi.org/10.1080/13639080.2023.2254271",
+ "forfattere": [
+  "Jannike Gottschalk Ballo",
+  "Andreea Ioana Alecu"
+ ],
+ "hentet": "2026-11-19",
+ "hentet_fra": "https://nva.sikt.no/registration/0198cc83e293-51aef06c-5381-493d-a417-5a1c38f82b44",
+ "hvordan": "vitenarkivet",
+ "id": "W4386448279",
+ "kilde": "Journal of Education and Work",
+ "lenke": "https://openalex.org/W4386448279",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "Research aiming to explain disabled people’s inequalities in the labour market has primarily focused on transitional factors between school and work, wage gaps, or socioeconomic background characteristics as explanations for (no-)entry in the labour market. There is a lack of longitudinal studies that map how disabled people fare in the labour market over time. Therefore, the objective of this paper is to identify, describe and predict stable employment paths of long-term disabled people. Our study employs detailed longitudinal data with total coverage of the Norwegian population – we focus on 11 birth cohorts (1973–83) of disabled individuals and we follow their employment trajectories between the ages 20 and 34. To describe employment trajectories and create a typology of longitudinal labour market attachments, we employ sequence analysis and subsequently linear probability models to analyse the association between the disability’s severity, gender, educational enrolment, early-work experience and employment trajectories. We identify four main types of trajectories: permanently work-disabled, stable employment, early marginalisation, and unstable employment. Our findings indicate that men are more likely than women to have stable employment trajectories. Starting higher education, as well as parental higher education, is linked with the likelihood of stable employment.",
+ "tittel": "Predicting stable employment trajectories among young people with disabilities",
+ "type": "article"
+}

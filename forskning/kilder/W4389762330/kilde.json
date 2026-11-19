@@ -1,0 +1,24 @@
+{
+ "apen_url": "https://www.tandfonline.com/doi/pdf/10.1080/13676261.2023.2290112?needAccess=true",
+ "ar": 2023,
+ "doi": "https://doi.org/10.1080/13676261.2023.2290112",
+ "forfattere": [
+  "Daniele Evelin Alves",
+  "Jannike Gottschalk Ballo",
+  "Wendy Nilsen",
+  "Camilla Stub Lundberg",
+  "Andreas Lillebråten",
+  "Vilde Hoff Bernstrøm"
+ ],
+ "hentet": "2026-11-19",
+ "hentet_fra": "https://nva.sikt.no/registration/0198cc92b21e-12b40fc0-a93d-4b53-966b-5716badad1c2",
+ "hvordan": "vitenarkivet",
+ "id": "W4389762330",
+ "kilde": "Journal of Youth Studies",
+ "lenke": "https://openalex.org/W4389762330",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "Which types of organisations hire NEET? We use longitudinal national registry data from Norway to investigate four types of organisational characteristics: (a) staff proportion with low pay and low education, (b) staff size and (c) staff proportion from groups with lower rates of work participation, and (d) private/public sector. Full-population registry data with all newly hired-employees in Norway aged 15–30 years, yielded a sample of approximately 120,000 new hires in 2018 from 22,621 organisations. Organisational characteristics were measured the previous year. After controlling for individual and organisational level variables in logistic regression models, we found that: private organisations and those predominated by staff with low income, incomplete secondary school, NEET history and immigrant background were more likely to hire new NEET the following year. Organisation size was unrelated to the likelihood of hiring NEET. This study applies an innovative method to study demand side characteristics in a full population registry study. It also contributes to disentangling which of these characteristics lose their expected effect when the dataset is large and complete enough to control for individual and organisational factors- adjusted for organisation clustering. These characteristics can guide us towards which companies can serve as gate-openers for NEET.",
+ "tittel": "Which companies hire NEET? Organisational characteristics of hiring NEET in a Norwegian full-population registry study",
+ "type": "article"
+}

@@ -1,0 +1,21 @@
+{
+ "apen_url": "https://bmjopen.bmj.com/content/bmjopen/9/3/e023705.full.pdf",
+ "ar": 2019,
+ "doi": "https://doi.org/10.1136/bmjopen-2018-023705",
+ "forfattere": [
+  "Elisabeth Valmyr Bania",
+  "Christian Eckhoff",
+  "Siv Eli Kvernmo"
+ ],
+ "hentet": "2026-11-19",
+ "hentet_fra": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6475364/fullTextXML",
+ "hvordan": "Europe PMC",
+ "id": "W2923713244",
+ "kilde": "BMJ Open",
+ "lenke": "https://openalex.org/W2923713244",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "OBJECTIVES: The purpose of the study is to explore the prevalence and predictors of not engaged in education, employment or training (NEET) status in a multicultural young adult population in Northern Norway. DESIGN AND SETTING: The longitudinal design link a self-reported survey (2003-2005) with an objective registry linkage follow-up 8-10 years later. PARTICIPANTS: Of all 5877 tenth graders (aged 15-16 years) in Northern Norway, 83% of the total age cohort from all 87 municipalities participated in the baseline survey. The follow-up studies consisted of 3987 consent giving adolescents (68%), were 365 (9.2%) reported indigenous Sami ethnicity. OUTCOME MEASURES: Youth NEET at the age of 23-25 years. METHODS: Explanatory variables were sociodemographic factors (gender, ethnicity, residency, parental education), mental health problems and musculoskeletal pain in adolescence. Outcome variable characterised as NEET-status was defined by no educational engagement, long-term recipient of sickness benefit, medical and non-medical benefit receipt or long-term unemployment. RESULTS: NEET-status in young adulthood was significantly higher among females (20.9%) than among males (16.2%). Ethnic differences occurred as being NEET among Sami males was significantly higher than among non-Sami males, 23.0% and 15.2% respectively. Minority Sami females experienced NEET-status to a lower degree (16.6%) than non-Sami females (20.8%). Among females adolescent peer problems (adjusted OR=1.09) and hyperactivity problems (adjusted OR=1.10) were associated with later NEET-status. Peer problems (adjusted OR=1.23), conduct problems (adjusted OR=1.17) and musculoskeletal problems (adjusted OR=1.15) in male adolescents were associated with later NEET-status, whereas emotional problems among males predicted significantly less later NEET- status (adjusted OR=0.88).We found lower parental education to be significantly associated with being NEET-later in young adults (females: adjusted OR=2.11, males: adjusted OR=3.22). CONCLUSIONS: To address the disengagement of education and work, particular emphasis must be placed on supporting young people struggling with mental and physical health problems.",
+ "tittel": "Not engaged in education, employment or training (NEET) in an Arctic sociocultural context: the NAAHS cohort study",
+ "type": "article"
+}

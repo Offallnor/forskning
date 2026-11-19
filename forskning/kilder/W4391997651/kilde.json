@@ -1,0 +1,22 @@
+{
+ "apen_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/spol.13014",
+ "ar": 2024,
+ "doi": "https://doi.org/10.1111/spol.13014",
+ "forfattere": [
+  "Espen S. Dahl",
+  "Thomas Lorentzen",
+  "Åsmund Hermansen",
+  "Andreas Roaldsnes"
+ ],
+ "hentet": "2026-11-19",
+ "hentet_fra": "https://nva.sikt.no/registration/0198cc79d44a-8e6d1821-dc9d-4af9-874e-9038565f85ac",
+ "hvordan": "vitenarkivet",
+ "id": "W4391997651",
+ "kilde": "Social Policy and Administration",
+ "lenke": "https://openalex.org/W4391997651",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "Abstract Background and Purpose Little scholarly attention has been paid to variations in local welfare provisions and how they frame beneficiaries’ welfare‐work trajectories. This is unfortunate since increasingly a varied menu of services is provided locally and welfare‐work trajectories unfold in a local context. The purpose of this paper is to contribute to this debate by examining the welfare‐work trajectories among young social assistance recipients in Norwegian municipalities and how they are related to the local setting and in particular the organization of the local welfare office. Data and Methods National registers provide longitudinal information on all young social assistance recipients (N = 4654) in 2012. Information on municipalities (N = 373) and the local labour and welfare offices (N = 399) is collected from official government sources. Welfare‐work trajectories spanning seven years are created by sequence analysis forming eight clusters. The relationship between organizational features of the labour and welfare office and trajectory clusters is modelled by means of multinomial logistic regression, after controlling for variables on the individual, the municipal, and the regional level. Results The analysis shows that: (a) among the individual variables, those reflecting poor health consistently predict trajectories characterized by benefit receipt and loose attachment to the labour market; (b) variables related to the municipal level are of limited importance, and (c) variables pertaining to the organization of the labour and welfare offices play a minor role. Conclusion Once individual, municipal, and regional labour market factors are considered, characteristics of the welfare office are of marginal significance. [Correction added on 17 September 2024, after first online publication: The Abstract and Keywords have been added in this version.]",
+ "tittel": "Trajectories among recipients of social assistance in Norway: A local approach",
+ "type": "article"
+}

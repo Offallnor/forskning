@@ -1,0 +1,25 @@
+{
+ "apen_url": "https://www.demogr.mpg.de/papers/working/wp-2019-007.pdf",
+ "ar": 2019,
+ "doi": "https://doi.org/10.4054/mpidr-wp-2019-007",
+ "forfattere": [
+  "Michael Grätz",
+  "Kieron Barclay",
+  "Øyvind Nicolay Wiborg",
+  "Torkild Hovde Lyngstad",
+  "Aleksi Karhula",
+  "Jani Erola",
+  "Patrick Präg",
+  "Thomas Laidley"
+ ],
+ "hentet": "2026-11-19",
+ "hentet_fra": "https://www.demogr.mpg.de/papers/working/wp-2019-007.pdf",
+ "hvordan": "pdf",
+ "id": "W4230966566",
+ "lenke": "https://openalex.org/W4230966566",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "The extent to which siblings resemble each other measures the total impact of family background in shaping life outcomes.We study sibling similarity in cognitive skills, school grades, and educational attainment in Finland, Germany, Norway, Sweden, the United Kingdom, and the United States.We also compare sibling similarity by parental education and occupation within these societies.The comparison of sibling correlations across and within societies allows us to characterize the omnibus impact of family background on education across social landscapes.We find similar levels of sibling similarity across social groups.Across countries, we find only small differences.In addition, rankings of countries in sibling resemblance differ across the three educational outcomes we study.We conclude that sibling similarity is largely similar across advanced, industrialized countries and across social groups within societies contrary to theories that suggest large cross-national differences and variation of educational mobility across social groups within societies.",
+ "tittel": "Universal family background effects on education across and within societies",
+ "type": "report"
+}

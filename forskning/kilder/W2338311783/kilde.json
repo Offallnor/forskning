@@ -1,0 +1,13 @@
+{
+ "ar": 2011,
+ "forfattere": [
+  "Øivind Anti Nilsen",
+  "Katrine Holm Reiso"
+ ],
+ "id": "W2338311783",
+ "lenke": "https://openalex.org/W2338311783",
+ "oversikt": false,
+ "sammendrag": "This paper addresses whether there is a large and persistent relationship between unemployment in a worker’s early career and subsequent labour market attachment. A nearest-neighbour propensity score matching method is applied when tracking Norwegian individuals over a 13‑years period. Early career unemployment is associated with weaker labour market attachment. The risk of repeated unemployment decreases by time, while the risk of being out of labour force stays constant. Based on the Rosenbaum (2002) bounding approach the findings are unlikely to be caused solely by selection on unobservables, i.e. early career unemployment leave individuals with long‑term scars.",
+ "tittel": "Scarring effects of early career unemployment",
+ "type": "article"
+}

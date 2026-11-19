@@ -1,0 +1,15 @@
+{
+ "apen_url": "https://doi.org/10.1177/00016993261465194",
+ "ar": 2026,
+ "doi": "https://doi.org/10.1177/00016993261465194",
+ "forfattere": [
+  "Mats Eirik Lillehagen"
+ ],
+ "id": "W7168418004",
+ "kilde": "Acta Sociologica",
+ "lenke": "https://openalex.org/W7168418004",
+ "oversikt": false,
+ "sammendrag": "This study investigates the occupational prestige of children of immigrants compared to natives in Norway, focusing on the first job after graduation. Using high-quality registry data from 2003 to 2014 ( N = 530,340), the analysis examines ethnic disparities in occupational prestige for six origin-based groups: African, Indian, Pakistani, Turkish, Vietnamese and European. The findings reveal that children of immigrants generally perform similarly to natives, with some notable differences: children of Indian origin experience a prestige advantage, while those of African origin face disadvantages. These differences are largely explained by detailed educational attainment, which plays a significant role in determining occupational status. Quantile regression shows that ethnic differences in occupational prestige are generally small and consistent across the prestige distribution. However, some groups, particularly those of Indian descent, exhibit a significant prestige advantage at the top of the distribution. This study contributes to understanding ethnic stratification in labour markets by showing how educational sorting influences occupational outcomes and challenges stereotypes about immigrant integration. It offers new insights into how children of immigrants navigate the occupational hierarchy, aligning with human capital theories while also addressing broader implications for integration and social mobility. The findings are of value to immigration and stratification research, providing a nuanced view of ethnic inequalities in the labour market.",
+ "tittel": "Educational sorting and ethnic inequality in occupational prestige among children of immigrants",
+ "type": "article"
+}

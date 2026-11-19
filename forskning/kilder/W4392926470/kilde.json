@@ -1,0 +1,25 @@
+{
+ "apen_url": "https://bmcpublichealth.biomedcentral.com/counter/pdf/10.1186/s12889-024-18271-w",
+ "ar": 2024,
+ "doi": "https://doi.org/10.1186/s12889-024-18271-w",
+ "forfattere": [
+  "Ingunn Jystad Brustad",
+  "Tommy Haugan",
+  "Ottar Arild Bjerkeset",
+  "Erik Reidar Sund",
+  "Tore Kristian Aune",
+  "Hans Morten Nordahl",
+  "Jonas  Rennemo Vaag"
+ ],
+ "hentet": "2026-11-19",
+ "hentet_fra": "https://bmcpublichealth.biomedcentral.com/counter/pdf/10.1186/s12889-024-18271-w",
+ "hvordan": "pdf",
+ "id": "W4392926470",
+ "kilde": "BMC Public Health",
+ "lenke": "https://openalex.org/W4392926470",
+ "merknad": "SJEKK DOKUMENT: «Ingunn Jystad Brustad» står ikke i starten",
+ "oversikt": false,
+ "sammendrag": "BACKGROUND: Social anxiety disorder (SAD) most commonly develops in adolescence-a period of life that includes a transition to upper secondary school. The aim of this study is to investigate the extent to which social anxiety in adolescence is associated with the completion of upper secondary school and progression to higher education. METHODS: This longitudinal study includes 8,192 adolescents aged 13-19 years who participated in the Norwegian Young-HUNT 3 population-based study. Social anxiety is measured employing (1) diagnostic interview screening questions (interview) and (2) a self-reported symptom index (questionnaire). Notably, we define the cohorts based on these two methods. Using national educational data (2008-2019), we follow educational attainment among the cohorts until they turn 25 years of age. RESULTS: We found that adolescents who screened positive (SP) for SAD had a predicted probability of upper secondary school completion at 21 years of age that was 14% points lower than those who screened negative (SN). Further, differences remained when looking at completion rates at age 25 years. Moreover, predicted probabilities for completion were inversely associated with increasing levels of self-reported social anxiety symptoms. Similarly, the proportion of the completers of an academic program in the SP group that were enrolled in higher education by 25 years of age, were lower than for the SN group (87 vs. 92%). CONCLUSION: Social anxiety in adolescence, both self-reported symptoms and diagnostic screening, has long-term negative impact on upper secondary school completion and to some extent enrollment to higher education.",
+ "tittel": "School completion and progression to higher education in adolescents with social anxiety: a linkage between Young-HUNT3 and national educational data (2008–2019), Norway",
+ "type": "article"
+}

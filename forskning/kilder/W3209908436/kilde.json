@@ -1,0 +1,20 @@
+{
+ "apen_url": "https://academic.oup.com/oep/article-pdf/74/3/894/44083546/gpab057.pdf",
+ "ar": 2021,
+ "doi": "https://doi.org/10.1093/oep/gpab057",
+ "forfattere": [
+  "Marianne Haraldsvik",
+  "Bjarne Strøm"
+ ],
+ "hentet": "2026-11-19",
+ "hentet_fra": "http://www.svt.ntnu.no/iso/WP/2020/3_20.pdf",
+ "hvordan": "pdf",
+ "id": "W3209908436",
+ "kilde": "Oxford Economic Papers",
+ "lenke": "https://openalex.org/W3209908436",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "Abstract Do individuals finishing compulsory school in economic downturns end up with higher skills in adulthood than comparable individuals that finish compulsory school in economic upturns? This article answers this question by exploring data on country unemployment rates combined with individual data on educational attainment and adult skills in numeracy and literacy from the Program for the International Assessment of Adult Competencies. We find that completed education is countercyclical, and the same pattern is found for adult skills in numeracy and literacy. The results are fairly robust across different model specifications including fixed country and cohort effects and country-specific cohort trends. The results indicate that the labor market conditions at the time when young people make crucial educational decisions have long-lasting effect on skills and potential earnings in adulthood.",
+ "tittel": "Adult skills and labor market conditions during teenage years: cross-country evidence from international surveys",
+ "type": "article"
+}

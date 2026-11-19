@@ -1,0 +1,17 @@
+{
+ "apen_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2831341/",
+ "ar": 2009,
+ "doi": "https://doi.org/10.1353/dem.0.0063",
+ "forfattere": [
+  "Fiona Steele",
+  "Wendy Sigle‐Rushton",
+  "Øystein Kravdal"
+ ],
+ "id": "W2118093895",
+ "kilde": "Demography",
+ "lenke": "https://openalex.org/W2118093895",
+ "oversikt": false,
+ "sammendrag": "Using high-quality data from Norwegian population registers, we examine the relationship between family disruption and children's educational outcomes. We distinguish between disruptions caused by parental divorce and paternal death and, using a simultaneous equation model, pay particular attention to selection bias in the effect of divorce. We also allow for the possibility that disruption may have different effects at different stages of a child's educational career. Our results suggest that selection on time-invariant maternal characteristics is important and works to overstate the effects of divorce on a child's chances of continuing in education. Nevertheless, the experience of marital breakdown during childhood is associated with lower levels of education, and the effect weakens with the child's age at disruption. The effects of divorce are most pronounced for the transitions during or just beyond the high school level. In models that do not allow for selection, children who experienced a father's death appear less disadvantaged than children whose parents divorced. After we control for selection, however differences in the educational qualifications of children from divorced and bereaved families narrow substantially and, at mean ages of divorce, are almost non-existent.",
+ "tittel": "Consequences of family disruption on children’s educational outcomes in Norway",
+ "type": "article"
+}

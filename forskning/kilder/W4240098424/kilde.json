@@ -1,0 +1,20 @@
+{
+ "apen_url": "https://doi.org/10.31235/osf.io/4ew53",
+ "ar": 2018,
+ "doi": "https://doi.org/10.31235/osf.io/4ew53",
+ "forfattere": [
+  "Mats Eirik Lillehagen",
+  "Gunn Elisabeth Birkelund"
+ ],
+ "hentet": "2026-11-19",
+ "hentet_fra": "https://nva.sikt.no/registration/0198cc559081-dccb1f96-9be3-40e6-8171-2b893636ee39",
+ "hvordan": "vitenarkivet",
+ "id": "W4240098424",
+ "kilde": "SocArXiv (OSF Preprints)",
+ "lenke": "https://openalex.org/W4240098424",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "Each year, students graduate from schools, colleges and universities. Some find a job quickly - others do not. Delays in the transition from education to work have been associated with scarring effects and detrimental effects on later employment and career progression. Increasing numbers of graduates from universities and colleges are descendants of immigrants. The labor market performance of children of immigrants arguably constitutes an important test of the long-term structural integration of ethnic minorities. Using comprehensive Norwegian administrative data on complete birth cohorts, we apply discrete time hazard regression to examine ethnic inequalities in relative transition rates from education to work, comparing majority graduates to ten groups of immigrant descendants from the 1973 to 1997 birth cohorts (N = 964,450 persons with 1,901,171 person-years). We find clear evidence of ethnic inequalities in transition rates, where children of immigrants or African origin fare the worst. Second, supply side factors do not seem very relevant for ethnic inequalities in the transition from education to work; as the overall patterns mostly remains unaffected when adjusted for factors like educational field, family obligations and parental background. Third, we find that the minority disadvantages are less marked at lower levels of education for some groups.",
+ "tittel": "Ethnic inequalities in the transition from education to work: A longitudinal analysis of school, college and university graduates",
+ "type": "preprint"
+}

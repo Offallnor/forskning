@@ -1,0 +1,19 @@
+{
+ "apen_url": "https://doi.org/10.1007/s43151-024-00126-1",
+ "ar": 2024,
+ "doi": "https://doi.org/10.1007/s43151-024-00126-1",
+ "forfattere": [
+  "Marthine Thøgersen"
+ ],
+ "hentet": "2026-11-19",
+ "hentet_fra": "https://link.springer.com/content/pdf/10.1007/s43151-024-00126-1.pdf",
+ "hvordan": "pdf",
+ "id": "W4396762721",
+ "kilde": "Journal of Applied Youth Studies",
+ "lenke": "https://openalex.org/W4396762721",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "Abstract The high rates of young people not in employment, education, or training (NEET) are an international concern. At the core of the European Union’s (EU), policy agenda is the reduction of youth unemployment and the active engagement of as many young people as possible in the workforce. The need for holistic services, interagency collaboration, and early intervention have been highlighted as important measures to reduce the risk of youth becoming NEET and subject to long-term unemployment. However, although highlighted as important, little is known about how these factors affect NEET rates. This study addresses this issue by exploring whether comprehensive service delivery, including holistic and collaborative approaches, and early interventions aimed at preventing youth from disengaging from education or employment, may explain the outcome of local NEET rates. Empirically, this study consists of multiple steps. An initial multilevel regression analysis of all Norwegian municipalities provided the basis for strategically selecting 18 municipalities based on their consistently higher or lower NEET rates than predicted when controlling for individual and structural factors that are shown to impact NEET risk. Semi-structured interviews in these municipalities regarding local work with NEETs provided the data, which were analysed using a fuzzy-set qualitative comparative method (fsQCA). The results suggest that the engagement of public employment and social services (PESS) in early intervention measures aimed at preventing youth from ending up in a NEET situation, combined with either extensive collaboration with other services or a holistic-oriented local (mental) healthcare service, may indeed explain lower NEET rates.",
+ "tittel": "Outcomes of Comprehensive Service Delivery and Early Interventions in Countering Youth Exclusion",
+ "type": "article"
+}

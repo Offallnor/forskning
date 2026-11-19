@@ -1,0 +1,21 @@
+{
+ "apen_url": "https://doi.org/10.1016/j.ijer.2025.102825",
+ "ar": 2025,
+ "doi": "https://doi.org/10.1016/j.ijer.2025.102825",
+ "forfattere": [
+  "Espen Bratberg",
+  "Karin Monstad",
+  "Darina Steskal"
+ ],
+ "hentet": "2026-11-19",
+ "hentet_fra": "https://nva.sikt.no/registration/019a7d67679d-57144614-6c1f-4dd3-81b1-43e1934287fe",
+ "hvordan": "vitenarkivet",
+ "id": "W4415228247",
+ "kilde": "International Journal of Educational Research",
+ "lenke": "https://openalex.org/W4415228247",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "• This article investigates the effect of apprenticeship availability within a dual vocational education system. • The analysis benefits from register data on individual student preferences when they apply for apprenticeship. • Outcomes can be observed with no loss because of attrition, and estimations control for a rich set of information on student background. • Better access to apprenticeship strongly reduces the risk of upper secondary dropout and impacts favourably on employment and on neither being in employment nor post-secondary education at age 23. Using full population Norwegian register data, we investigate how the outcomes of vocational school students are impacted by the accessibility of apprenticeships, a characteristic of dual vocational systems that is sparsely researched. Our data contains information on vocational students’ applications for apprenticeships within specializations, as well as the number of contracts actually signed. Thus, we can construct access rates (contracts signed/applications) that vary across specialization, county and year for four birth cohorts of vocational school students (1993 – 1996). We also control for a rich set of variables, including GPA from lower secondary school and several student and parent characteristics. The outcomes considered are dropout from upper secondary school, employment, and NEE (not being in post-secondary school nor employment) at age 23. The results show that access to apprenticeship has a strong effect on the dropout risk for students at age 21: at the average dropout risk, increasing the access rate by 10 percentage points decreases the dropout risk by 10 %. The results also suggest that employment and NEE are favourably affected, but to a lesser extent. A heterogeneity analysis revealed modest gender differences. However, students with an immigrant background from Africa and Asia, who exhibit the highest dropout risk, had less effects of the access rate for apprenticeships than students with a non-immigrant background.",
+ "tittel": "The impact of access to apprenticeship on dropout and early labour market outcomes",
+ "type": "article"
+}

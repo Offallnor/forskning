@@ -1,0 +1,20 @@
+{
+ "apen_url": "https://academic.oup.com/eurpub/article-pdf/18/6/650/17357612/ckn055.pdf",
+ "ar": 2008,
+ "doi": "https://doi.org/10.1093/eurpub/ckn055",
+ "forfattere": [
+  "Hans Magne Gravseth",
+  "Tor Bjérkedal",
+  "Lorentz M. Irgens",
+  "Odd O. Aalen",
+  "Randi Marie Selmer",
+  "Petter Kristensen"
+ ],
+ "id": "W2138834752",
+ "kilde": "European Journal of Public Health",
+ "lenke": "https://openalex.org/W2138834752",
+ "oversikt": false,
+ "sammendrag": "BACKGROUND: Few studies have examined the effects of educational level, intellectual performance, mental function, body mass index and height as well as their interrelationship on the risk of disability pension (DP), taking other life course factors into account. METHODS: We linked several national registers, comprising the Medical Birth Registry, the Central Population Register, the Education Register, the Norwegian Labour and Welfare Organisation and the Norwegian Armed Forces Personnel Data Base, providing personal data on biological and social variables from childhood to young adult age. Participants were all males live born during the period 1967-76, followed up through 2003. Men were excluded who died, emigrated or were granted a DP until age 23 years (when follow-up started) and persons who did not become gainfully employed during the study period. Thus, the study population comprised 302 330 men, and the study outcome was being granted a DP after age 23 years. RESULTS: 3651 men (1.2%) were granted a DP. The DP rate was inversely associated with both educational level and intellectual performance. The adjusted population attributable risks (PAR) values for these two variables were 47% and 35%, respectively. The effect of the other variables was modest. Over- and underweight and short stature were associated with DP, but the effect was largely reduced after adjusting for intellectual performance. Impaired mental function seemed to have an independent effect. CONCLUSION: Receiving an early DP is dependent on several factors acting at different stages of life, above all educational level and intellectual performance. High education can modify some of the effects of low intellectual performance.",
+ "tittel": "Influence of physical, mental and intellectual development on disability in young Norwegian men",
+ "type": "article"
+}

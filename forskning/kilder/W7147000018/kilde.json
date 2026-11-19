@@ -1,0 +1,21 @@
+{
+ "apen_url": "https://www.sciencedirect.com/science/article/pii/S0145213426003947/pdf",
+ "ar": 2026,
+ "doi": "https://doi.org/10.1016/j.chiabu.2026.108274",
+ "forfattere": [
+  "Trine Holten",
+  "Aapo Hiilamo",
+  "Åsmund Hermansen"
+ ],
+ "hentet": "2026-11-19",
+ "hentet_fra": "https://nva.sikt.no/registration/01a042fbd194-ede6fc29-b774-428f-b46a-35c333478669",
+ "hvordan": "vitenarkivet",
+ "id": "W7147000018",
+ "kilde": "Child Abuse & Neglect",
+ "lenke": "https://openalex.org/W7147000018",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "BACKGROUND: Trajectories through child protection services involving out-of-home care (OHC) are diverse, yet studies of OHC and school-to-work transitions often overlook this heterogeneity. METHODS: Using monthly records for three complete Norwegian birth cohorts (1994-1996; N = 172,638), we identified five OHC trajectory clusters among individuals with OHC before age 18 (N = 4789). These clusters were based on placement timing, duration and type. Individuals without OHC were included as a non-OHC group. We examined how cluster membership, together with care instability, is associated with precarious school-to-work transitions using linear regression models. RESULTS: The adolescent residential care cluster has higher school-to-work precarity scores than the kinship care (b = -0.14, p < .001), foster care from teenage years (b = -0.04, p < .001), foster care from young age (b = -0.14, p < .001) and non-OHC (b = -0.31, p < .001) clusters. This pattern appears despite the adolescent residential care cluster having the least turbulent OHC trajectories among the OHC groups, suggesting that low turbulence does not necessarily indicate sustained or protective support. CONCLUSION: OHC experiences should not be treated as a simple \"in care\" versus \"not in care\" dichotomy, but as heterogeneous patterns. Quantitative child welfare research should pay greater attention to the timing, duration, type and stability of care.",
+ "tittel": "Clusters of out-of-home care trajectories and precarious school-to-work transitions: A Norwegian national register study",
+ "type": "article"
+}

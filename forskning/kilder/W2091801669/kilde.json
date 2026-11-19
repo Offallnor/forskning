@@ -1,0 +1,20 @@
+{
+ "apen_url": "https://doi.org/10.1080/14616696.2014.968797",
+ "ar": 2014,
+ "doi": "https://doi.org/10.1080/14616696.2014.968797",
+ "forfattere": [
+  "Pasi Moisio",
+  "Thomas Lorentzen",
+  "Olof Bäckman",
+  "Anna Angelin",
+  "Tapio Salonen",
+  "Timo M. Kauppinen"
+ ],
+ "id": "W2091801669",
+ "kilde": "European Societies",
+ "lenke": "https://openalex.org/W2091801669",
+ "oversikt": false,
+ "sammendrag": "ABSTRACT This study considered trends in the intergenerational transmission of social assistance (SA) among young adults in Finland, Norway and Sweden during the 2000s. Comparable administrative register data-sets enabled us to compare year by year the social assistance recipiency of 20-year-old adults in the period 1999–2008, together with information on their parents' social assistance recipiency at the time when those young adults were aged 16 years. The intergenerational odds-ratio for SA was stronger in Sweden than in Finland or Norway. The probabilities of transitioning into SA when having an SA family background have declined in all three countries, but less than the transition probabilities into SA when from a non-SA family. This has strengthened the intergenerational odds-ratio in all three countries, though only slightly in Norway. The upwards trend in intergenerational odds-ratios for SA follows almost perfectly the declining trend in the number of 20-year-old recipients in these three countries. When the number of SA recipients decrease, it decreases the transition probabilities into SA more among those with a non-SA family background compared to the those with an SA family background. This difference in the decrease of transition probabilities turns into an increase in the intergenerational odds-ratio.",
+ "tittel": "Trends in the Intergenerational Transmission of Social Assistance in the Nordic Countries in the 2000s",
+ "type": "article"
+}

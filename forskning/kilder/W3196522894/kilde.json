@@ -1,0 +1,19 @@
+{
+ "apen_url": "https://api.taylorfrancis.com/content/chapters/oa-edit/download?identifierName=doi&identifierValue=10.4324/9781003129592-9&type=chapterpdf",
+ "ar": 2021,
+ "doi": "https://doi.org/10.4324/9781003129592-9",
+ "forfattere": [
+  "Jon Ivar Elstad"
+ ],
+ "hentet": "2026-11-19",
+ "hentet_fra": "https://api.taylorfrancis.com/content/chapters/oa-edit/download?identifierName=doi&identifierValue=10.4324/9781003129592-9&type=chapterpdf",
+ "hvordan": "pdf",
+ "id": "W3196522894",
+ "kilde": "Routledge eBooks",
+ "lenke": "https://openalex.org/W3196522894",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "The transformation of the educational system has led to greatly improved educational opportunities for the younger generations. The educational expansion is widely acclaimed since it underpins economic growth and the development of modern welfare states. Whether higher educational levels promote social equality is more debateable. Using Norwegian public register data, this study analyzes economic marginalization at age 35, in six successive birth cohorts born from the mid-1950s to the early 1980s. On average, the prevalence of marginal work income, disability pension, and social assistance remained largely stable from the earlier to the more recent birth cohorts. However, in the shrinking category of low educated, economic marginalization increased, resulting in wider educational inequalities between the low educated and other educational categories. Simultaneously, the composition of the economically marginalized changed, as the better educated constituted a steadily rising proportion of them. Such findings cast doubts that raising educational levels in the younger generations will, in themselves, be efficient policies for doing away with economic marginalization and reducing social inequalities.",
+ "tittel": "Will more education work?",
+ "type": "book-chapter"
+}

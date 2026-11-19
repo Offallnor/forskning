@@ -1,0 +1,20 @@
+{
+ "apen_url": "https://academic.oup.com/esr/article-pdf/23/3/309/1344746/jcm003.pdf",
+ "ar": 2007,
+ "doi": "https://doi.org/10.1093/esr/jcm003",
+ "forfattere": [
+  "Silje Noack Fekjær",
+  "Gunn Elisabeth Birkelund"
+ ],
+ "hentet": "2026-11-19",
+ "hentet_fra": "https://nva.sikt.no/registration/0198cc4d175c-67a43d83-f98b-4ece-980c-2d8a5de1f414",
+ "hvordan": "vitenarkivet",
+ "id": "W2099442651",
+ "kilde": "European Sociological Review",
+ "lenke": "https://openalex.org/W2099442651",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "This article examines the effect of ethnic composition in upper secondary school on students’ grades (educational achievement) and their subsequent educational choices (educational attainment), using multilevel analysis. The data set includes all non-vocational students graduating from upper secondary schools in Oslo in 2001, 2002, and 2003, and contains detailed information on individuals’ educational choices, grades and ethnic and socio-economic background. We find little evidence of a negative effect of ethnic composition. On the contrary, when we control for academic composition of the schools, we find small, but positive, effects of attending a school with many minority students.",
+ "tittel": "Does the Ethnic Composition of Upper Secondary Schools Influence Educational Achievement and Attainment? A Multilevel Analysis of the Norwegian Case",
+ "type": "article"
+}

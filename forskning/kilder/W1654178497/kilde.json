@@ -1,0 +1,16 @@
+{
+ "ar": 2011,
+ "doi": "https://doi.org/10.1111/j.1468-2397.2011.00841.x",
+ "forfattere": [
+  "Thomas Lorentzen",
+  "Espen S. Dahl",
+  "Ivan Harsløf"
+ ],
+ "id": "W1654178497",
+ "kilde": "International Journal of Social Welfare",
+ "lenke": "https://openalex.org/W1654178497",
+ "oversikt": false,
+ "sammendrag": "Lorentzen T, Dahl E, Harsløf I. Welfare risks in early adulthood: a longitudinal analysis of social assistance transitions in Norway This study assessed the significance of critical life events and socio‐economic background in relation to the likelihood of young Norwegians receiving social assistance, asking how each of these factors contributes both independently and interactively. The data set was derived from a nationwide, longitudinal register and includes the entire 18‐year‐old cohort in 1993. A discrete‐time proportional hazard rate analysis controlling for unobserved heterogeneity was applied. The results indicate that both socio‐economic background and indicators of critical life events have strong independent effects on the likelihood of receiving social assistance. Significant interaction effects between socio‐economic background and certain indicators of critical life events were detected. However, contrary to our expectations, under certain circumstances, coming from a group with low socio‐economic status does not seem to ameliorate the effect of being exposed to critical life events.",
+ "tittel": "Welfare risks in early adulthood: A longitudinal analysis of social assistance transitions in Norway",
+ "type": "article"
+}

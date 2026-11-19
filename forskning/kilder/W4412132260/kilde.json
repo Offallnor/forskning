@@ -1,0 +1,20 @@
+{
+ "apen_url": "https://academic.oup.com/sf/advance-article-pdf/doi/10.1093/sf/soaf101/63711947/soaf101.pdf",
+ "ar": 2025,
+ "doi": "https://doi.org/10.1093/sf/soaf101",
+ "forfattere": [
+  "Adrian Farner Rogne",
+  "Siri Frisli"
+ ],
+ "hentet": "2026-11-19",
+ "hentet_fra": "https://osf.io/athxq/download",
+ "hvordan": "pdf",
+ "id": "W4412132260",
+ "kilde": "Social Forces",
+ "lenke": "https://openalex.org/W4412132260",
+ "merknad": "ÅPEN VERSJON (preprint eller arbeidsnotat), merkes i svaret",
+ "oversikt": false,
+ "sammendrag": "Abstract The latter half of the 20th century was marked by a massive expansion of higher educational systems in many Western countries. This development provided greater educational opportunities, resulted in a marked increase in educational attainment, and has been attributed as an important factor behind increased intergenerational educational mobility. Most previous studies of these developments are based on analyses of aggregate trends in educational attainment and mobility and overlook the geographical dimension of educational expansions. The geographic location of colleges and the local availability of higher educational institutions may have had important impacts on local patterns of intergenerational educational mobility. We study the impacts of major educational expansion reforms that took place between 1969 and 1993 in Norway and resulted in a massive decentralization of higher educational opportunities. Combining recent developments in differences-in-differences methodology, detailed data on the establishment and upgrading of such institutions, and population-wide register data on social origins and educational attainment, we study the effects of the establishment and upgrading of local colleges on educational mobility. Results suggest that these improvements in local educational opportunities had little to no impact on intergenerational educational mobility locally. We discuss our findings in light of the Norwegian welfare state context.",
+ "tittel": "Educational expansion reforms and intergenerational educational mobility in Norway",
+ "type": "article"
+}

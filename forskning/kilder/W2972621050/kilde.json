@@ -1,0 +1,20 @@
+{
+ "apen_url": "https://academic.oup.com/jeea/article-pdf/18/4/1844/33680064/jvz044.pdf",
+ "ar": 2017,
+ "doi": "https://doi.org/10.2139/ssrn.2949100",
+ "forfattere": [
+  "Simen Markussen",
+  "Knut Røed"
+ ],
+ "hentet": "2026-11-19",
+ "hentet_fra": "https://docs.iza.org/dp10664.pdf",
+ "hvordan": "pdf",
+ "id": "W2972621050",
+ "kilde": "Journal of the European Economic Association",
+ "lenke": "https://openalex.org/W2972621050",
+ "merknad": "ÅPEN VERSJON (preprint eller arbeidsnotat), merkes i svaret",
+ "oversikt": false,
+ "sammendrag": "Abstract Based on complete population data, with the exact same definitions of family class background and economic outcomes for a large number of birth cohorts, we examine post-war trends in intergenera-tional economic mobility in Norway. Standard summary statistics indicate stable or mildly declining rank–rank mobility for sons and sharply declining mobility for daughters. The most conspicuous trend in the mobility patterns is that men and women born into the lowest parts of the parental earnings distribution have fallen behind in terms of own earnings rank, as well as a number of other quality-of-life indicators. A considerable part of this development can be explained by changes in the class distribution of educational attainment and in its rising influence on earnings rank. We argue that although the educational revolution has diminished the role of inherited ability, it has enlarged the influence of the family as provider of a social learning environment.",
+ "tittel": "Economic Mobility Under Pressure",
+ "type": "article"
+}

@@ -1,0 +1,19 @@
+{
+ "apen_url": "https://docs.iza.org/dp6198.pdf",
+ "ar": 2011,
+ "forfattere": [
+  "Øivind Anti Nilsen",
+  "Katrine Holm Reiso"
+ ],
+ "hentet": "2026-11-19",
+ "hentet_fra": "https://docs.iza.org/dp6198.pdf",
+ "hvordan": "pdf",
+ "id": "W3123563672",
+ "kilde": "RePEc: Research Papers in Economics",
+ "lenke": "https://openalex.org/W3123563672",
+ "merknad": "ÅPEN VERSJON (preprint eller arbeidsnotat), merkes i svaret",
+ "oversikt": false,
+ "sammendrag": "Using Norwegian individual register data of young workers, from the period 1986-2008, we\\nanalyse whether there are large and persistent negative relationships between unemployment\\nand the risk of repeated unemployment and being out of labour force. A nearest-neighbour\\npropensity score matching method is applied to make the treatment group (the unemployed)\\nand the control group (the employed) as similar as possible. By tracking workers over a 10-\\nyear follow-up period, we find that unemployment has a negative effect on later labour\\nmarket attachment. This is consistent with existing findings in the literature. The negative\\neffects decrease over time. Using the bounding approach proposed by Rosenbaum (2002) to\\nanalyse the importance of unobserved variables, our results indicate that a relatively high\\nlevel of unobserved selection bias could be present in the data before changing the inference.\\nThus, unemployment leaves young workers with long-term scars.",
+ "tittel": "Scarring effects of unemployment",
+ "type": "preprint"
+}

@@ -1,0 +1,20 @@
+{
+ "apen_url": "https://link.springer.com/content/pdf/10.1186/s40461-026-00212-z.pdf",
+ "ar": 2026,
+ "doi": "https://doi.org/10.1186/s40461-026-00212-z",
+ "forfattere": [
+  "Asgeir Skålholt",
+  "Elisabeth Hovdhaugen"
+ ],
+ "hentet": "2026-11-19",
+ "hentet_fra": "https://link.springer.com/content/pdf/10.1186/s40461-026-00212-z.pdf",
+ "hvordan": "pdf",
+ "id": "W7213956050",
+ "kilde": "Empirical research in vocational education and training",
+ "lenke": "https://openalex.org/W7213956050",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "Abstract Norwegian upper secondary education allows for permeability between vocational and academic tracks via a supplementary academic year, which grants vocational students access to higher education. This route is particularly common among vocational students in the healthcare programme. However, there are concerns regarding both the academic preparedness of these students for higher education, and the potential impact on the supply of healthcare assistants. Using rich administrative register data, this study compares healthcare students who gain their higher education entrance qualification through the supplementary year with peers from the academic track. To account for selection into programmes, we estimate linear probability models with extensive controls for prior achievement and family background, supplemented by propensity score matching and fixed effects models. The results show that while students in the healthcare programme are less likely to complete upper secondary education within the nominal timeframe in raw comparisons, this difference disappears once observable characteristics are taken into account. In fully specified models, healthcare students are slightly more likely to complete on time than comparable students in the academic track. Moreover, they exhibit higher rates of direct enrolment in higher education, particularly in care-related fields, although these differences diminish over time. However, these advantages do not translate into higher overall completion rates in higher education. Instead, healthcare students are more likely to complete degrees within health-related fields, but less likely to complete degrees outside these fields.",
+ "tittel": "The supplementary year as a bridge from vocational studies to higher education for healthcare students in Norway",
+ "type": "article"
+}

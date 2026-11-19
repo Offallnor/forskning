@@ -1,0 +1,14 @@
+{
+ "ar": 2011,
+ "doi": "https://doi.org/10.1080/03323315.2011.569143",
+ "forfattere": [
+  "Elisabeth Hovdhaugen"
+ ],
+ "id": "W1971169577",
+ "kilde": "Irish Educational Studies",
+ "lenke": "https://openalex.org/W1971169577",
+ "oversikt": false,
+ "sammendrag": "One of the main intentions of the comprehensive higher education reform in Norway in 2003 was to improve student performance and completion. One way of doing this is to reduce the number of students leaving an institution. Institutions have limited options for reducing student departure, and one of the few routes open to them is changing the structure of study programmes. This article investigates the Norwegian higher education reform to examine whether it has had an effect on dropout and transfer rates from university undergraduate education by using survival analysis. Results indicate that rates of departure from university are lower after the reform compared to before. However, the only significant change has been in the transfer rate, with no significant change in the dropout rate. The rate of student departure is still relatively high, and will therefore continue to have economic consequences for higher education institutions.",
+ "tittel": "Do structured study programmes lead to lower rates of dropout and student transfer from university?",
+ "type": "article"
+}

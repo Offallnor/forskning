@@ -1,0 +1,21 @@
+{
+ "apen_url": "https://link.springer.com/content/pdf/10.1007/s10734-020-00662-8.pdf",
+ "ar": 2021,
+ "doi": "https://doi.org/10.1007/s10734-020-00662-8",
+ "forfattere": [
+  "Astrid Marie Jorde Sandsør",
+  "Elisabeth Hovdhaugen",
+  "Ester Bøckmann"
+ ],
+ "hentet": "2026-11-19",
+ "hentet_fra": "https://link.springer.com/content/pdf/10.1007/s10734-020-00662-8.pdf",
+ "hvordan": "pdf",
+ "id": "W3127366481",
+ "kilde": "Higher Education",
+ "lenke": "https://openalex.org/W3127366481",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "Abstract This paper uses register data to study how a particular age reward feature affects admission into two highly competitive study programs: medicine and law. The Norwegian admission system to higher education is centralized, and applicants compete in two quotas: one quota almost entirely based on grade point average from upper secondary education and one quota where students can compete with improved grades and where being older automatically increases the chance of acceptance, by awarding age points. For these study programs, we find that the admission system creates a waiting game, as gaining admission in the second quota is nearly impossible without accumulating a substantial amount of age points. If age predicts completion in higher education, this waiting game might be justified. However, if anything, we find the opposite to be true. Our paper suggests that age should carry less weight in admission decisions and that countries and/or higher education institutions should carefully consider how their admission system affects student incentives and how applicants are selected.",
+ "tittel": "Age as a merit in admission decisions for higher education",
+ "type": "article"
+}

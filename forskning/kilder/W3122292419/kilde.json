@@ -1,0 +1,17 @@
+{
+ "apen_url": "https://doi.org/10.2139/ssrn.2225715",
+ "ar": 2014,
+ "doi": "https://doi.org/10.1093/cesifo/ifu005",
+ "forfattere": [
+  "Torberg Falch",
+  "Ole Henning Nyhus",
+  "Bjarne Strøm"
+ ],
+ "id": "W3122292419",
+ "kilde": "CESifo Economic Studies",
+ "lenke": "https://openalex.org/W3122292419",
+ "oversikt": false,
+ "sammendrag": "This paper uses teacher assessments at age 16 in Norwegian comprehensive schools to measure different types of skills. While we follow the literature and interpret test scores in Mathematics and Science as proxy for cognitive skills, we use a novel measure for another type of skills: Performance in behavioral and practical subjects. Using individual register data, we find fairly strong and equal effects of the two types of skills on high school graduation probabilities. However, we find that “non-cognitive” skills has a much larger impact than “cognitive” skills on the probability to receive welfare benefits or being inactive (NEET) at age 22, while the findings are the opposite for the probability of college enrollment.",
+ "tittel": "Performance of Young Adults: The Importance of Different Skills",
+ "type": "article"
+}

@@ -1,0 +1,22 @@
+{
+ "apen_url": "https://doi.org/10.1080/13639080.2022.2099534",
+ "ar": 2022,
+ "doi": "https://doi.org/10.1080/13639080.2022.2099534",
+ "forfattere": [
+  "Jannike Gottschalk Ballo",
+  "Mari Amdahl Heglum",
+  "Wendy Nilsen",
+  "Vilde Hoff Bernstrøm"
+ ],
+ "hentet": "2026-11-19",
+ "hentet_fra": "https://nva.sikt.no/registration/0198cc3c83d7-02cdc3f1-1b4d-49fe-9ec4-cfb918e219bf",
+ "hvordan": "vitenarkivet",
+ "id": "W4285391686",
+ "kilde": "Journal of Education and Work",
+ "lenke": "https://openalex.org/W4285391686",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "Early work experience is found to be an influential factor in young people’s transitions from school to work. Still, we know little about whether early work experience can protect vulnerable young people from subsequent exclusion from labour and education in early adulthood. Our objective is therefore to examine how early work experience in adolescence influences the risk of being NEET (Not in Education, Employment or Training), and whether this relationship is stronger for early school leavers and young disabled people. We utilise Norwegian register data covering the entire 1985-birth cohort, followed from age 16 to 29 (n ~ 50 000). Linear probability models are used to estimate the NEET risk at age 25 and age 29. The findings reveal that early work experience is related to a lower NEET risk for everyone, but more strongly for the young people with disabilities or early school leaving. The findings support early work experience as a potentially important protective factor against subsequent NEET status, particularly among vulnerable young people.",
+ "tittel": "Can adolescent work experience protect vulnerable youth? A population wide longitudinal study of young adults not in education, employment or training (NEET)",
+ "type": "article"
+}

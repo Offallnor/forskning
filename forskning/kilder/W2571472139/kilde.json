@@ -1,0 +1,19 @@
+{
+ "apen_url": "https://read.dukeupress.edu/demography/article-pdf/54/1/201/837795/201hermansen.pdf",
+ "ar": 2017,
+ "doi": "https://doi.org/10.1007/s13524-016-0535-1",
+ "forfattere": [
+  "Are Skeie Hermansen"
+ ],
+ "hentet": "2026-11-19",
+ "hentet_fra": "https://nva.sikt.no/registration/0198cc3d2981-20975c3c-d9c8-4384-adea-1ad5321b904b",
+ "hvordan": "vitenarkivet",
+ "id": "W2571472139",
+ "kilde": "Demography",
+ "lenke": "https://openalex.org/W2571472139",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "This study examines the causal relationship between childhood immigrants' age at arrival and their life chances as adults. I analyze panel data on siblings from Norwegian administrative registries, which enables me to disentangle the effect of age at arrival on adult socioeconomic outcomes from all fixed family-level conditions and endowments shared by siblings. Results from sibling fixed-effects models reveal a progressively stronger adverse influence of immigration at later stages of childhood on completed education, employment, adult earnings, occupational attainment, and social welfare assistance. The persistence of these relationships within families indicates that experiences related to the timing of childhood immigration have causal effects on later-life outcomes. These age-at-arrival effects are considerably stronger among children who arrive from geographically distant and economically less-developed origin regions than among children originating from developed countries. The age-at-arrival effects vary less by parental education and child gender. On the whole, the findings indicate that childhood immigration after an early-life formative period tends to constrain later human capital formation and economic opportunities over the life course.",
+ "tittel": "Age at Arrival and Life Chances Among Childhood Immigrants",
+ "type": "article"
+}

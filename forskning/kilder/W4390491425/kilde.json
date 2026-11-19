@@ -1,0 +1,20 @@
+{
+ "apen_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/1468-4446.13075",
+ "ar": 2024,
+ "doi": "https://doi.org/10.1111/1468-4446.13075",
+ "forfattere": [
+  "Håvard Helland",
+  "Thea Bertnes Strømme"
+ ],
+ "hentet": "2026-11-19",
+ "hentet_fra": "https://nva.sikt.no/registration/0198cc65211d-ae43321b-1d91-412e-916c-130c7525b815",
+ "hvordan": "vitenarkivet",
+ "id": "W4390491425",
+ "kilde": "British Journal of Sociology",
+ "lenke": "https://openalex.org/W4390491425",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "This article examines how social disparities in dropout rates vary by educational field. Previous studies have shown that first-generation students, in general, have lower higher education completion rates than their fellow students. Less is known, however, about how such disparities vary between educational fields. We distinguish between general and field specific cultural capital and find that general cultural capital mainly operates through academic preparedness in upper secondary school, and after controlling for upper secondary school grade point average (GPA), students with parents with higher education degrees in a different field than themselves do not complete their degrees more often than first-generation students. More field-specific advantages of having a parent with a similar education are nonetheless visible in many fields also when we compare students with equal grades. Our analyses of Norwegian register data on the entire student population (N ≈ 400,000) show that the social inequalities are largest in fields that are both soft and pure, like humanities and social science, and that in soft and applied educational fields, like teaching and social work, the social differences are small and insignificant after controlling for GPA from upper secondary school. In fields classified as hard, it is only the students with parents with a similar education who complete their initial degree more often than first-generation students. We suggest that status group formation, field-specific cultural capital and micro-class reproduction may all contribute to explaining these patterns.",
+ "tittel": "Social inequality in completion rates in higher education: Heterogeneity in educational fields",
+ "type": "article"
+}

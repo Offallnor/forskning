@@ -1,0 +1,20 @@
+{
+ "apen_url": "https://www.tandfonline.com/doi/pdf/10.1080/14616696.2022.2059542?needAccess=true",
+ "ar": 2022,
+ "doi": "https://doi.org/10.1080/14616696.2022.2059542",
+ "forfattere": [
+  "Arne Mastekaasa",
+  "Gunn Elisabeth Birkelund"
+ ],
+ "hentet": "2026-11-19",
+ "hentet_fra": "https://nva.sikt.no/registration/0198cc7a8331-a1449b89-6f25-4f05-8156-88bbd5cd9783",
+ "hvordan": "vitenarkivet",
+ "id": "W4223502772",
+ "kilde": "European Societies",
+ "lenke": "https://openalex.org/W4223502772",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "In recent years, multidimensional conceptualizations of social origin have become increasingsly common in social stratification research. We provide evidence on the associations between four origin measures, parents’ class, status, earnings and education on the one hand and the corresponding offspring measures on the other. We also extend previous research on differences in origin effects at different levels of the children’s educational attainment and compare the predictive power of the social origin measures with regard to children’s top and bottom attainments on all outcome variables. We use Norwegian administrative data for nearly 500,000 individuals born between 1961 and 1970. The analyses show that parents’ education is a much stronger predictor for all outcomes than are their social class and status positions – both taken separately and together. Parental education also outperforms parents’ earnings, except when the offspring variable is also earnings. Thus, parents’ premarket characteristics seem to be more important than their labour market achievements for their children’s outcomes. A second major finding is that the predictive power of social origins is often quite similar for advantaged and disadvantaged outcomes. However, bottom earnings are much less strongly associated with social origins than are top earnings.",
+ "tittel": "The intergenerational transmission of social advantage and disadvantage: comprehensive evidence on the association of parents’ and children’s educational attainments, class, earnings, and status",
+ "type": "article"
+}

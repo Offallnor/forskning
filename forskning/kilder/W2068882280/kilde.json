@@ -1,0 +1,20 @@
+{
+ "ar": 2014,
+ "doi": "https://doi.org/10.1177/0958928714525818",
+ "forfattere": [
+  "Timo M. Kauppinen",
+  "Anna Angelin",
+  "Thomas Lorentzen",
+  "Olof Bäckman",
+  "Tapio Salonen",
+  "Pasi Moisio",
+  "Espen S. Dahl"
+ ],
+ "id": "W2068882280",
+ "kilde": "Journal of European Social Policy",
+ "lenke": "https://openalex.org/W2068882280",
+ "oversikt": false,
+ "sammendrag": "We analyse the determinants of social assistance receipt among young adults in three Nordic countries, focusing on social-background and life-course events during early adulthood. We ask whether they are related differently to short-term and long-term receipt. Short-term poverty could be more individualized than long-term poverty which can be expected to be more strongly related to social background. We applied generalized ordinal logit modelling to longitudinal register-based data. Both social-background and life-course factors were found to be important, but our results did not confirm the hypothesis of social background predicting mostly long-term receipt and life-course factors predicting mostly short-term receipt. Leaving the parental home early and parental social assistance receipt were important determinants of social assistance receipt, and both factors predicted longer duration of receipt as well. We found some differences between the countries, which may be related to differences in youth unemployment and social welfare systems.",
+ "tittel": "Social background and life-course risks as determinants of social assistance receipt among young adults in Sweden, Norway and Finland",
+ "type": "article"
+}

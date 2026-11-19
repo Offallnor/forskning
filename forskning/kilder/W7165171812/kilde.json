@@ -1,0 +1,14 @@
+{
+ "ar": 2026,
+ "doi": "https://doi.org/10.17979/ejge.2026.15.1.12579",
+ "forfattere": [
+  "Seher Suluk"
+ ],
+ "id": "W7165171812",
+ "kilde": "DOAJ (DOAJ: Directory of Open Access Journals)",
+ "lenke": "https://openalex.org/W7165171812",
+ "oversikt": false,
+ "sammendrag": "This study aims to empirically analyze the impact of economic growth, information and communication technology (ICT) goods exports and unemployment on NEET rates for the Nordic countries (Denmark, Norway, Sweden, Finland and Iceland). The study covers the period 2005-2022 and the data are annual. In the analysis, the LLC unit root test was applied. Then, panel VAR based on GMM and panel Granger causality analysis were employed. Accordingly, an increase in economic growth was found to reduce the NEET rate. On the other hand, an increase in the unemployment rate and ICT goods exports leads to an increase in the NEET rate. According to the results obtained from the panel Granger causality analysis, bidirectional Granger causality relationship was determined between the NEET rate and economic growth, the NEET rate and unemployment, economic growth and unemployment, economic growth and ICT goods exports and unemployment and ICT goods exports. In addition, a unidirectional Granger causality relationship from the NEET rate to ICT goods exports was found.",
+ "tittel": "An econometric analysis of the impact of economic growth, information and communication technology goods exports and unemployment on NEET rates: the case of Nordic countries",
+ "type": "article"
+}

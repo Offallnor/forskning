@@ -1,0 +1,21 @@
+{
+ "apen_url": "https://research.upjohn.org/cgi/viewcontent.cgi?article=1401&context=up_workingpapers",
+ "ar": 2023,
+ "doi": "https://doi.org/10.17848/wp23-382",
+ "forfattere": [
+  "Patrick Bennett",
+  "Kai Liu",
+  "Kjell G. Salvanes"
+ ],
+ "hentet": "2026-11-19",
+ "hentet_fra": "https://www.econ.cam.ac.uk/sites/default/files/publication-cwpe-pdfs/cwpe2329.pdf",
+ "hvordan": "pdf",
+ "id": "W4327544842",
+ "kilde": "Upjohn Research (W.E. Upjohn Institute for Employment Research)",
+ "lenke": "https://openalex.org/W4327544842",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "How does a large structural change to the labor market affect education investments made at young ages? Exploiting differential exposure to the national decline in routine-task intensity across local labor markets, we show that the secular decline in routine tasks causes major shifts in education investments of high school students, where they invest less in vocational-trades education and increasingly invest in college education. Our results highlight that labor demand changes impact inequality in the next generation. Low-ability and low-SES students are most responsive to task-biased demand changes and, as a result, intergenerational mobility in college education increases.",
+ "tittel": "The Decline of Routine Tasks, Education Investments, And Intergenerational Mobility",
+ "type": "report"
+}

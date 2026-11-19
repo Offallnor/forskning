@@ -1,0 +1,16 @@
+{
+ "ar": 2024,
+ "doi": "https://doi.org/10.1177/00420980241232800",
+ "forfattere": [
+  "Anna Maria Santiago",
+  "George Galster",
+  "Lena Magnusson Turner"
+ ],
+ "id": "W4394569766",
+ "kilde": "Urban Studies",
+ "lenke": "https://openalex.org/W4394569766",
+ "oversikt": false,
+ "sammendrag": "Using longitudinal register data from Oslo, Norway, this article examines how cumulative childhood exposure to family and neighbourhood contexts influences the educational attainments of young adults, paying special attention to how these determinants vary by gender and immigrant status. Specifically, we examine how neighbourhood socioeconomic and immigrant context experienced during childhood affects the completion of secondary school and university enrolment during young adulthood. We assess the extent of effect heterogeneity for three immigrant status groups stratified by gender. We control for geographical selection using a recently developed technique that first models parental selection of neighbourhood attributes and then uses the resulting predicted probabilities of selection as instruments in the neighbourhood-effects-on-education model. We find that neighbourhood affluence, educational levels and non-Western immigrant composition have important impacts on young adult educational outcomes, though results differ sharply by gender and immigrant status.",
+ "tittel": "Heterogeneous neighbourhood effects on the educational attainments of native Norwegian and immigrant-descendant female and male young adults",
+ "type": "article"
+}

@@ -1,0 +1,20 @@
+{
+ "apen_url": "https://doi.org/10.1016/j.labeco.2026.102878",
+ "ar": 2026,
+ "doi": "https://doi.org/10.1016/j.labeco.2026.102878",
+ "forfattere": [
+  "Pål Schøne",
+  "Marte Strøm"
+ ],
+ "hentet": "2026-11-19",
+ "hentet_fra": "https://nva.sikt.no/registration/019d1b517398-46a1d982-ac1a-4ec4-89f2-765c465cc83d",
+ "hvordan": "vitenarkivet",
+ "id": "W7133304531",
+ "kilde": "Labour Economics",
+ "lenke": "https://openalex.org/W7133304531",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "We investigate whether an increase in labour immigration affects firms’ investments in apprentices. We analyse the building and construction (BaC) industry in Norway during a period when labour immigration into this sector increased considerably, with the largest increase coming after the 2004 EU enlargement. We exploit the difference in immigrant inflow across licensed and non-licenced business areas to identify the effect of labour immigration on apprenticeship investments using two empirical approaches: an instrumental variables (IV) framework and a difference-in-differences (DD) framework. We find that the inflow of immigrants reduced firms’ investments in apprentices. The results are robust to several robustness checks.",
+ "tittel": "Train or hire? Labour immigration and firms’ investments in the skilling of workers",
+ "type": "article"
+}

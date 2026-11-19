@@ -1,0 +1,21 @@
+{
+ "apen_url": "https://www.tandfonline.com/doi/pdf/10.1080/03075079.2024.2431588?needAccess=true",
+ "ar": 2024,
+ "doi": "https://doi.org/10.1080/03075079.2024.2431588",
+ "forfattere": [
+  "Håvard Helland",
+  "Thea Bertnes Strømme",
+  "Jens‐Peter Thomsen"
+ ],
+ "hentet": "2026-11-19",
+ "hentet_fra": "https://nva.sikt.no/registration/0198cc5b8b26-cee9228f-0ff7-49d2-80a8-c3e18787ce42",
+ "hvordan": "vitenarkivet",
+ "id": "W4404590563",
+ "kilde": "Studies in Higher Education",
+ "lenke": "https://openalex.org/W4404590563",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "This article examines the association between students’ social class background, their completion of higher education and transfer between research-intensive universities and vocational-oriented university colleges in Denmark and Norway. We analyse comprehensive register data on the entire student population of the two countries and employ the Oslo Register Data Class Scheme (ORDC) that distinguishes class fractions with different compositions of cultural and economic capital. The analyses show that dropout is considerably more widespread in Norway, and that students from the working class drop out more often than their fellow students. Although the general level of social disparities in dropout rates is similar in the two countries, the horizontal differences between class fractions with different compositions of cultural and economic capital are more pronounced in Norway, particularly in university colleges. At the same time, the social differences in transfer rates from universities to university colleges are considerably higher in Denmark, which indicates the importance of institutional characteristics, as the difference in academic orientation between universities and university colleges is considerably greater in Denmark than Norway.",
+ "tittel": "Social inequality in dropout rates in higher education: Denmark and Norway",
+ "type": "article"
+}

@@ -1,0 +1,20 @@
+{
+ "apen_url": "https://link.springer.com/content/pdf/10.1007/s10734-020-00564-9.pdf",
+ "ar": 2020,
+ "doi": "https://doi.org/10.1007/s10734-020-00564-9",
+ "forfattere": [
+  "Jannecke Wiers‐Jenssen",
+  "Liv Anne Støren"
+ ],
+ "hentet": "2026-11-19",
+ "hentet_fra": "https://link.springer.com/content/pdf/10.1007/s10734-020-00564-9.pdf",
+ "hvordan": "pdf",
+ "id": "W3037967284",
+ "kilde": "Higher Education",
+ "lenke": "https://openalex.org/W3037967284",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "Abstract The purpose of this paper is to investigate whether international student mobility (ISM) has an impact on the transition from higher education to work. Two measures of labour market outcomes are investigated: unemployment and skills mismatch. To go beyond existing research, we analyse whether the effect of ISM on these outcomes vary by fields of study, intake grades, sociodemographic variables and more. Our analyses are based on data from the Norwegian graduate surveys time series from 2007 to 2017. After controlling for several confounding factors, we find very small differences in labour market outcomes between graduates with and without ISM experience. In comparison with field of study, immigrant background, previous labour market experience and business cycles, the effect of ISM on the examined labour market outcomes is small. Investigating whether graduates with different backgrounds benefit differently from ISM, we find evidence of moderate effect heterogeneities: Graduates with high intake grades and graduates in business and administration seem to benefit somewhat more. Regarding social origin and immigrant background, no heterogeneous effects are found. Contrary to findings from previous studies, we do not find that those least likely to study abroad benefit the most from it. Rather, there is a tendency that groups with the greatest likelihood of studying abroad are those who benefit most.",
+ "tittel": "International student mobility and the transition from higher education to work in Norway",
+ "type": "article"
+}
