@@ -2,7 +2,7 @@
 
 Kjørt 2026-11-19.
 
-2 feil av 14764 kontroller.
+2 feil av 15016 kontroller.
 
 - OK   1 estimat-kilde 0199387d80ee-b6eec5a7-03f4-4478-a070-7d221739170c finnes
 - OK   1 estimat-kilde 0199387d80ee-b6eec5a7-03f4-4478-a070-7d221739170c finnes
@@ -1970,6 +1970,258 @@ Kjørt 2026-11-19.
 - OK   2 sitat rad 702 (W2338645605, grein 4: ingen tall i sammendraget; mang) står på oppgitt side
 - OK   2 sitat rad 706 (W2745238815, grein 4: ingen tall i sammendraget; låne) står på oppgitt side
 - OK   2 sitat rad 707 (W1513756076, grein 1: ingen tall i sammendraget; færr) står på oppgitt side
+- OK   7 statistikk rad 1 (SSB 13014, Lærlinger: bestått fag-/svenneprøve inne) har alle felt
+- OK   7 statistikk rad 1 (SSB 13014, Lærlinger: bestått fag-/svenneprøve inne) verdien 47.4 står i statistikk/ssb-13014.csv
+- OK   7 statistikk rad 2 (SSB 13014, Lærlinger: bestått fag-/svenneprøve inne) har alle felt
+- OK   7 statistikk rad 2 (SSB 13014, Lærlinger: bestått fag-/svenneprøve inne) verdien 52.1 står i statistikk/ssb-13014.csv
+- OK   7 statistikk rad 3 (SSB 13014, Lærlinger: bestått fag-/svenneprøve inne) har alle felt
+- OK   7 statistikk rad 3 (SSB 13014, Lærlinger: bestått fag-/svenneprøve inne) verdien 58.2 står i statistikk/ssb-13014.csv
+- OK   7 statistikk rad 4 (SSB 13014, Lærlinger: bestått på tre eller fire år ) har alle felt
+- OK   7 statistikk rad 4 (SSB 13014, Lærlinger: bestått på tre eller fire år ) verdien 31.1 står i statistikk/ssb-13014.csv
+- OK   7 statistikk rad 5 (SSB 13014, Lærlinger: bestått på tre eller fire år ) har alle felt
+- OK   7 statistikk rad 5 (SSB 13014, Lærlinger: bestått på tre eller fire år ) verdien 29.3 står i statistikk/ssb-13014.csv
+- OK   7 statistikk rad 6 (SSB 13014, Lærlinger: bestått på tre eller fire år ) har alle felt
+- OK   7 statistikk rad 6 (SSB 13014, Lærlinger: bestått på tre eller fire år ) verdien 25.6 står i statistikk/ssb-13014.csv
+- OK   7 statistikk rad 7 (SSB 13014, Lærlinger: ikke bestått i løpet av fire ) har alle felt
+- OK   7 statistikk rad 7 (SSB 13014, Lærlinger: ikke bestått i løpet av fire ) verdien 21.5 står i statistikk/ssb-13014.csv
+- OK   7 statistikk rad 8 (SSB 13014, Lærlinger: ikke bestått i løpet av fire ) har alle felt
+- OK   7 statistikk rad 8 (SSB 13014, Lærlinger: ikke bestått i løpet av fire ) verdien 18.6 står i statistikk/ssb-13014.csv
+- OK   7 statistikk rad 9 (SSB 13014, Lærlinger: ikke bestått i løpet av fire ) har alle felt
+- OK   7 statistikk rad 9 (SSB 13014, Lærlinger: ikke bestått i løpet av fire ) verdien 16.2 står i statistikk/ssb-13014.csv
+- OK   7 statistikk rad 10 (SSB 14867, Videregående, alle programmer: fullført ) har alle felt
+- OK   7 statistikk rad 10 (SSB 14867, Videregående, alle programmer: fullført ) verdien 65.8 står i statistikk/ssb-14867.csv
+- OK   7 statistikk rad 11 (SSB 14867, Videregående, alle programmer: fullført ) har alle felt
+- OK   7 statistikk rad 11 (SSB 14867, Videregående, alle programmer: fullført ) verdien 72.0 står i statistikk/ssb-14867.csv
+- OK   7 statistikk rad 12 (SSB 14867, Videregående, studieforberedende: fullfø) har alle felt
+- OK   7 statistikk rad 12 (SSB 14867, Videregående, studieforberedende: fullfø) verdien 80.0 står i statistikk/ssb-14867.csv
+- OK   7 statistikk rad 13 (SSB 14867, Videregående, studieforberedende: fullfø) har alle felt
+- OK   7 statistikk rad 13 (SSB 14867, Videregående, studieforberedende: fullfø) verdien 85.6 står i statistikk/ssb-14867.csv
+- OK   7 statistikk rad 14 (SSB 14867, Videregående, yrkesfag: fullført med stu) har alle felt
+- OK   7 statistikk rad 14 (SSB 14867, Videregående, yrkesfag: fullført med stu) verdien 49.1 står i statistikk/ssb-14867.csv
+- OK   7 statistikk rad 15 (SSB 14867, Videregående, yrkesfag: fullført med stu) har alle felt
+- OK   7 statistikk rad 15 (SSB 14867, Videregående, yrkesfag: fullført med stu) verdien 55.8 står i statistikk/ssb-14867.csv
+- OK   7 statistikk rad 16 (SSB 14867, Videregående, alle programmer: fullført ) har alle felt
+- OK   7 statistikk rad 16 (SSB 14867, Videregående, alle programmer: fullført ) verdien 13.8 står i statistikk/ssb-14867.csv
+- OK   7 statistikk rad 17 (SSB 14867, Videregående, alle programmer: fullført ) har alle felt
+- OK   7 statistikk rad 17 (SSB 14867, Videregående, alle programmer: fullført ) verdien 9.8 står i statistikk/ssb-14867.csv
+- OK   7 statistikk rad 18 (SSB 14867, Videregående, studieforberedende: fullfø) har alle felt
+- OK   7 statistikk rad 18 (SSB 14867, Videregående, studieforberedende: fullfø) verdien 9.1 står i statistikk/ssb-14867.csv
+- OK   7 statistikk rad 19 (SSB 14867, Videregående, studieforberedende: fullfø) har alle felt
+- OK   7 statistikk rad 19 (SSB 14867, Videregående, studieforberedende: fullfø) verdien 5.2 står i statistikk/ssb-14867.csv
+- OK   7 statistikk rad 20 (SSB 14867, Videregående, yrkesfag: fullført på mer ) har alle felt
+- OK   7 statistikk rad 20 (SSB 14867, Videregående, yrkesfag: fullført på mer ) verdien 19.4 står i statistikk/ssb-14867.csv
+- OK   7 statistikk rad 21 (SSB 14867, Videregående, yrkesfag: fullført på mer ) har alle felt
+- OK   7 statistikk rad 21 (SSB 14867, Videregående, yrkesfag: fullført på mer ) verdien 15.3 står i statistikk/ssb-14867.csv
+- OK   7 statistikk rad 22 (SSB 14867, Videregående, alle programmer: fullført ) har alle felt
+- OK   7 statistikk rad 22 (SSB 14867, Videregående, alle programmer: fullført ) verdien 2.9 står i statistikk/ssb-14867.csv
+- OK   7 statistikk rad 23 (SSB 14867, Videregående, alle programmer: fullført ) har alle felt
+- OK   7 statistikk rad 23 (SSB 14867, Videregående, alle programmer: fullført ) verdien 2.6 står i statistikk/ssb-14867.csv
+- OK   7 statistikk rad 24 (SSB 14867, Videregående, studieforberedende: fullfø) har alle felt
+- OK   7 statistikk rad 24 (SSB 14867, Videregående, studieforberedende: fullfø) verdien 1.3 står i statistikk/ssb-14867.csv
+- OK   7 statistikk rad 25 (SSB 14867, Videregående, studieforberedende: fullfø) har alle felt
+- OK   7 statistikk rad 25 (SSB 14867, Videregående, studieforberedende: fullfø) verdien 1.0 står i statistikk/ssb-14867.csv
+- OK   7 statistikk rad 26 (SSB 14867, Videregående, yrkesfag: fullført planlag) har alle felt
+- OK   7 statistikk rad 26 (SSB 14867, Videregående, yrkesfag: fullført planlag) verdien 4.7 står i statistikk/ssb-14867.csv
+- OK   7 statistikk rad 27 (SSB 14867, Videregående, yrkesfag: fullført planlag) har alle felt
+- OK   7 statistikk rad 27 (SSB 14867, Videregående, yrkesfag: fullført planlag) verdien 4.6 står i statistikk/ssb-14867.csv
+- OK   7 statistikk rad 28 (SSB 14867, Videregående, alle programmer: fortsatt ) har alle felt
+- OK   7 statistikk rad 28 (SSB 14867, Videregående, alle programmer: fortsatt ) verdien 3.0 står i statistikk/ssb-14867.csv
+- OK   7 statistikk rad 29 (SSB 14867, Videregående, alle programmer: fortsatt ) har alle felt
+- OK   7 statistikk rad 29 (SSB 14867, Videregående, alle programmer: fortsatt ) verdien 3.0 står i statistikk/ssb-14867.csv
+- OK   7 statistikk rad 30 (SSB 14867, Videregående, studieforberedende: fortsa) har alle felt
+- OK   7 statistikk rad 30 (SSB 14867, Videregående, studieforberedende: fortsa) verdien 1.5 står i statistikk/ssb-14867.csv
+- OK   7 statistikk rad 31 (SSB 14867, Videregående, studieforberedende: fortsa) har alle felt
+- OK   7 statistikk rad 31 (SSB 14867, Videregående, studieforberedende: fortsa) verdien 1.4 står i statistikk/ssb-14867.csv
+- OK   7 statistikk rad 32 (SSB 14867, Videregående, yrkesfag: fortsatt i opplæ) har alle felt
+- OK   7 statistikk rad 32 (SSB 14867, Videregående, yrkesfag: fortsatt i opplæ) verdien 4.8 står i statistikk/ssb-14867.csv
+- OK   7 statistikk rad 33 (SSB 14867, Videregående, yrkesfag: fortsatt i opplæ) har alle felt
+- OK   7 statistikk rad 33 (SSB 14867, Videregående, yrkesfag: fortsatt i opplæ) verdien 4.9 står i statistikk/ssb-14867.csv
+- OK   7 statistikk rad 34 (SSB 14867, Videregående, alle programmer: gjennomfø) har alle felt
+- OK   7 statistikk rad 34 (SSB 14867, Videregående, alle programmer: gjennomfø) verdien 4.9 står i statistikk/ssb-14867.csv
+- OK   7 statistikk rad 35 (SSB 14867, Videregående, alle programmer: gjennomfø) har alle felt
+- OK   7 statistikk rad 35 (SSB 14867, Videregående, alle programmer: gjennomfø) verdien 3.0 står i statistikk/ssb-14867.csv
+- OK   7 statistikk rad 36 (SSB 14867, Videregående, studieforberedende: gjenno) har alle felt
+- OK   7 statistikk rad 36 (SSB 14867, Videregående, studieforberedende: gjenno) verdien 4.7 står i statistikk/ssb-14867.csv
+- OK   7 statistikk rad 37 (SSB 14867, Videregående, studieforberedende: gjenno) har alle felt
+- OK   7 statistikk rad 37 (SSB 14867, Videregående, studieforberedende: gjenno) verdien 3.2 står i statistikk/ssb-14867.csv
+- OK   7 statistikk rad 38 (SSB 14867, Videregående, yrkesfag: gjennomført, ikk) har alle felt
+- OK   7 statistikk rad 38 (SSB 14867, Videregående, yrkesfag: gjennomført, ikk) verdien 5.1 står i statistikk/ssb-14867.csv
+- OK   7 statistikk rad 39 (SSB 14867, Videregående, yrkesfag: gjennomført, ikk) har alle felt
+- OK   7 statistikk rad 39 (SSB 14867, Videregående, yrkesfag: gjennomført, ikk) verdien 2.7 står i statistikk/ssb-14867.csv
+- OK   7 statistikk rad 40 (SSB 14867, Videregående, alle programmer: sluttet u) har alle felt
+- OK   7 statistikk rad 40 (SSB 14867, Videregående, alle programmer: sluttet u) verdien 9.6 står i statistikk/ssb-14867.csv
+- OK   7 statistikk rad 41 (SSB 14867, Videregående, alle programmer: sluttet u) har alle felt
+- OK   7 statistikk rad 41 (SSB 14867, Videregående, alle programmer: sluttet u) verdien 9.6 står i statistikk/ssb-14867.csv
+- OK   7 statistikk rad 42 (SSB 14867, Videregående, studieforberedende: slutte) har alle felt
+- OK   7 statistikk rad 42 (SSB 14867, Videregående, studieforberedende: slutte) verdien 3.4 står i statistikk/ssb-14867.csv
+- OK   7 statistikk rad 43 (SSB 14867, Videregående, studieforberedende: slutte) har alle felt
+- OK   7 statistikk rad 43 (SSB 14867, Videregående, studieforberedende: slutte) verdien 3.6 står i statistikk/ssb-14867.csv
+- OK   7 statistikk rad 44 (SSB 14867, Videregående, yrkesfag: sluttet undervei) har alle felt
+- OK   7 statistikk rad 44 (SSB 14867, Videregående, yrkesfag: sluttet undervei) verdien 16.9 står i statistikk/ssb-14867.csv
+- OK   7 statistikk rad 45 (SSB 14867, Videregående, yrkesfag: sluttet undervei) har alle felt
+- OK   7 statistikk rad 45 (SSB 14867, Videregående, yrkesfag: sluttet undervei) verdien 16.7 står i statistikk/ssb-14867.csv
+- OK   7 statistikk rad 46 (SSB 08921, 25–29 år, høyeste fullførte utdanning: g) har alle felt
+- OK   7 statistikk rad 46 (SSB 08921, 25–29 år, høyeste fullførte utdanning: g) verdien 21.9 står i statistikk/ssb-08921.csv
+- OK   7 statistikk rad 47 (SSB 08921, 25–29 år, høyeste fullførte utdanning: g) har alle felt
+- OK   7 statistikk rad 47 (SSB 08921, 25–29 år, høyeste fullførte utdanning: g) verdien 15.9 står i statistikk/ssb-08921.csv
+- OK   7 statistikk rad 48 (SSB 08921, 25–29 år, høyeste fullførte utdanning: v) har alle felt
+- OK   7 statistikk rad 48 (SSB 08921, 25–29 år, høyeste fullførte utdanning: v) verdien 36.0 står i statistikk/ssb-08921.csv
+- OK   7 statistikk rad 49 (SSB 08921, 25–29 år, høyeste fullførte utdanning: v) har alle felt
+- OK   7 statistikk rad 49 (SSB 08921, 25–29 år, høyeste fullførte utdanning: v) verdien 27.7 står i statistikk/ssb-08921.csv
+- OK   7 statistikk rad 50 (SSB 08921, 25–29 år, høyeste fullførte utdanning: f) har alle felt
+- OK   7 statistikk rad 50 (SSB 08921, 25–29 år, høyeste fullførte utdanning: f) verdien 0.0 står i statistikk/ssb-08921.csv
+- OK   7 statistikk rad 51 (SSB 08921, 25–29 år, høyeste fullførte utdanning: f) har alle felt
+- OK   7 statistikk rad 51 (SSB 08921, 25–29 år, høyeste fullførte utdanning: f) verdien 3.2 står i statistikk/ssb-08921.csv
+- OK   7 statistikk rad 52 (SSB 08921, 25–29 år, høyeste fullførte utdanning: u) har alle felt
+- OK   7 statistikk rad 52 (SSB 08921, 25–29 år, høyeste fullførte utdanning: u) verdien 32.3 står i statistikk/ssb-08921.csv
+- OK   7 statistikk rad 53 (SSB 08921, 25–29 år, høyeste fullførte utdanning: u) har alle felt
+- OK   7 statistikk rad 53 (SSB 08921, 25–29 år, høyeste fullførte utdanning: u) verdien 34.6 står i statistikk/ssb-08921.csv
+- OK   7 statistikk rad 54 (SSB 08921, 25–29 år, høyeste fullførte utdanning: u) har alle felt
+- OK   7 statistikk rad 54 (SSB 08921, 25–29 år, høyeste fullførte utdanning: u) verdien 9.8 står i statistikk/ssb-08921.csv
+- OK   7 statistikk rad 55 (SSB 08921, 25–29 år, høyeste fullførte utdanning: u) har alle felt
+- OK   7 statistikk rad 55 (SSB 08921, 25–29 år, høyeste fullførte utdanning: u) verdien 18.2 står i statistikk/ssb-08921.csv
+- OK   7 statistikk rad 56 (SSB 12423, 15–29 år, alle, alle utdanningsnivåer: u) har alle felt
+- OK   7 statistikk rad 56 (SSB 12423, 15–29 år, alle, alle utdanningsnivåer: u) verdien 10.9 står i statistikk/ssb-12423.csv
+- OK   7 statistikk rad 57 (SSB 12423, 15–29 år, alle, alle utdanningsnivåer: u) har alle felt
+- OK   7 statistikk rad 57 (SSB 12423, 15–29 år, alle, alle utdanningsnivåer: u) verdien 10.1 står i statistikk/ssb-12423.csv
+- OK   7 statistikk rad 58 (SSB 12423, 15–29 år, alle, alle utdanningsnivåer: m) har alle felt
+- OK   7 statistikk rad 58 (SSB 12423, 15–29 år, alle, alle utdanningsnivåer: m) verdien 1.8 står i statistikk/ssb-12423.csv
+- OK   7 statistikk rad 59 (SSB 12423, 15–29 år, alle, alle utdanningsnivåer: m) har alle felt
+- OK   7 statistikk rad 59 (SSB 12423, 15–29 år, alle, alle utdanningsnivåer: m) verdien 2.6 står i statistikk/ssb-12423.csv
+- OK   7 statistikk rad 60 (SSB 12423, 15–29 år, uten innvandrere, alle utdanni) har alle felt
+- OK   7 statistikk rad 60 (SSB 12423, 15–29 år, uten innvandrere, alle utdanni) verdien 8.6 står i statistikk/ssb-12423.csv
+- OK   7 statistikk rad 61 (SSB 12423, 15–29 år, uten innvandrere, alle utdanni) har alle felt
+- OK   7 statistikk rad 61 (SSB 12423, 15–29 år, uten innvandrere, alle utdanni) verdien 7.3 står i statistikk/ssb-12423.csv
+- OK   7 statistikk rad 62 (SSB 12423, 15–29 år, uten innvandrere, alle utdanni) har alle felt
+- OK   7 statistikk rad 62 (SSB 12423, 15–29 år, uten innvandrere, alle utdanni) verdien 1.9 står i statistikk/ssb-12423.csv
+- OK   7 statistikk rad 63 (SSB 12423, 15–29 år, uten innvandrere, alle utdanni) har alle felt
+- OK   7 statistikk rad 63 (SSB 12423, 15–29 år, uten innvandrere, alle utdanni) verdien 2.9 står i statistikk/ssb-12423.csv
+- OK   7 statistikk rad 64 (SSB 12423, 15–29 år, innvandrere, alle utdanningsni) har alle felt
+- OK   7 statistikk rad 64 (SSB 12423, 15–29 år, innvandrere, alle utdanningsni) verdien 25.7 står i statistikk/ssb-12423.csv
+- OK   7 statistikk rad 65 (SSB 12423, 15–29 år, innvandrere, alle utdanningsni) har alle felt
+- OK   7 statistikk rad 65 (SSB 12423, 15–29 år, innvandrere, alle utdanningsni) verdien 23.5 står i statistikk/ssb-12423.csv
+- OK   7 statistikk rad 66 (SSB 12423, 15–29 år, innvandrere, alle utdanningsni) har alle felt
+- OK   7 statistikk rad 66 (SSB 12423, 15–29 år, innvandrere, alle utdanningsni) verdien 1.0 står i statistikk/ssb-12423.csv
+- OK   7 statistikk rad 67 (SSB 12423, 15–29 år, innvandrere, alle utdanningsni) har alle felt
+- OK   7 statistikk rad 67 (SSB 12423, 15–29 år, innvandrere, alle utdanningsni) verdien 1.5 står i statistikk/ssb-12423.csv
+- OK   7 statistikk rad 68 (SSB 12423, 15–29 år, alle, grunnskolenivå: utenfor ) har alle felt
+- OK   7 statistikk rad 68 (SSB 12423, 15–29 år, alle, grunnskolenivå: utenfor ) verdien 12.6 står i statistikk/ssb-12423.csv
+- OK   7 statistikk rad 69 (SSB 12423, 15–29 år, alle, grunnskolenivå: utenfor ) har alle felt
+- OK   7 statistikk rad 69 (SSB 12423, 15–29 år, alle, grunnskolenivå: utenfor ) verdien 12.5 står i statistikk/ssb-12423.csv
+- OK   7 statistikk rad 70 (SSB 12423, 15–29 år, alle, grunnskolenivå: mottar A) har alle felt
+- OK   7 statistikk rad 70 (SSB 12423, 15–29 år, alle, grunnskolenivå: mottar A) verdien 2.9 står i statistikk/ssb-12423.csv
+- OK   7 statistikk rad 71 (SSB 12423, 15–29 år, alle, grunnskolenivå: mottar A) har alle felt
+- OK   7 statistikk rad 71 (SSB 12423, 15–29 år, alle, grunnskolenivå: mottar A) verdien 4.9 står i statistikk/ssb-12423.csv
+- OK   7 statistikk rad 72 (SSB 12423, 15–29 år, alle, videregående nivå: utenf) har alle felt
+- OK   7 statistikk rad 72 (SSB 12423, 15–29 år, alle, videregående nivå: utenf) verdien 8.9 står i statistikk/ssb-12423.csv
+- OK   7 statistikk rad 73 (SSB 12423, 15–29 år, alle, videregående nivå: utenf) har alle felt
+- OK   7 statistikk rad 73 (SSB 12423, 15–29 år, alle, videregående nivå: utenf) verdien 7.8 står i statistikk/ssb-12423.csv
+- OK   7 statistikk rad 74 (SSB 12423, 15–29 år, alle, videregående nivå: motta) har alle felt
+- OK   7 statistikk rad 74 (SSB 12423, 15–29 år, alle, videregående nivå: motta) verdien 1.0 står i statistikk/ssb-12423.csv
+- OK   7 statistikk rad 75 (SSB 12423, 15–29 år, alle, videregående nivå: motta) har alle felt
+- OK   7 statistikk rad 75 (SSB 12423, 15–29 år, alle, videregående nivå: motta) verdien 1.6 står i statistikk/ssb-12423.csv
+- OK   7 statistikk rad 76 (SSB 12423, 15–29 år, alle, universitet/høgskole: ut) har alle felt
+- OK   7 statistikk rad 76 (SSB 12423, 15–29 år, alle, universitet/høgskole: ut) verdien 8.0 står i statistikk/ssb-12423.csv
+- OK   7 statistikk rad 77 (SSB 12423, 15–29 år, alle, universitet/høgskole: ut) har alle felt
+- OK   7 statistikk rad 77 (SSB 12423, 15–29 år, alle, universitet/høgskole: ut) verdien 7.1 står i statistikk/ssb-12423.csv
+- OK   7 statistikk rad 78 (SSB 12423, 15–29 år, alle, universitet/høgskole: mo) har alle felt
+- OK   7 statistikk rad 78 (SSB 12423, 15–29 år, alle, universitet/høgskole: mo) verdien 0.2 står i statistikk/ssb-12423.csv
+- OK   7 statistikk rad 79 (SSB 12423, 15–29 år, alle, universitet/høgskole: mo) har alle felt
+- OK   7 statistikk rad 79 (SSB 12423, 15–29 år, alle, universitet/høgskole: mo) verdien 0.5 står i statistikk/ssb-12423.csv
+- OK   7 statistikk rad 80 (SSB 13675, Fullførte fagskoleutdanninger: sysselsat) har alle felt
+- OK   7 statistikk rad 80 (SSB 13675, Fullførte fagskoleutdanninger: sysselsat) verdien 5110 står i statistikk/ssb-13675.csv
+- OK   7 statistikk rad 81 (SSB 13675, Fullførte fagskoleutdanninger: ikke syss) har alle felt
+- OK   7 statistikk rad 81 (SSB 13675, Fullførte fagskoleutdanninger: ikke syss) verdien 929 står i statistikk/ssb-13675.csv
+- OK   7 statistikk rad 82 (SSB 13675, Fullførte fagskoleutdanninger: andel sys) har alle felt
+- OK   7 statistikk rad 82 (SSB 13675, Fullførte fagskoleutdanninger: andel sys) er utregnet: 5110 / (5110 + 929) * 100
+- OK   7 statistikk rad 83 (SSB 13675, Fullførte fagskoleutdanninger: sysselsat) har alle felt
+- OK   7 statistikk rad 83 (SSB 13675, Fullførte fagskoleutdanninger: sysselsat) verdien 11435 står i statistikk/ssb-13675.csv
+- OK   7 statistikk rad 84 (SSB 13675, Fullførte fagskoleutdanninger: ikke syss) har alle felt
+- OK   7 statistikk rad 84 (SSB 13675, Fullførte fagskoleutdanninger: ikke syss) verdien 1891 står i statistikk/ssb-13675.csv
+- OK   7 statistikk rad 85 (SSB 13675, Fullførte fagskoleutdanninger: andel sys) har alle felt
+- OK   7 statistikk rad 85 (SSB 13675, Fullførte fagskoleutdanninger: andel sys) er utregnet: 11435 / (11435 + 1891) * 100
+- OK   7 statistikk rad 86 (DBH, HK-dir 705, Bachelor 3-årig: startkull) har alle felt
+- OK   7 statistikk rad 86 (DBH, HK-dir 705, Bachelor 3-årig: startkull) verdien 38434 står i statistikk/dbh-705.tsv
+- OK   7 statistikk rad 87 (DBH, HK-dir 705, Bachelor 3-årig: fullført innen normert ) har alle felt
+- OK   7 statistikk rad 87 (DBH, HK-dir 705, Bachelor 3-årig: fullført innen normert ) verdien 23880 står i statistikk/dbh-705.tsv
+- OK   7 statistikk rad 88 (DBH, HK-dir 705, Bachelor 3-årig: fullført innen normert ) har alle felt
+- OK   7 statistikk rad 88 (DBH, HK-dir 705, Bachelor 3-årig: fullført innen normert ) er utregnet: 23880 / 38434 * 100
+- OK   7 statistikk rad 89 (DBH, HK-dir 705, Bachelor 3-årig: frafalt ved normert tid) har alle felt
+- OK   7 statistikk rad 89 (DBH, HK-dir 705, Bachelor 3-årig: frafalt ved normert tid) verdien 9374 står i statistikk/dbh-705.tsv
+- OK   7 statistikk rad 90 (DBH, HK-dir 705, Bachelor 3-årig: frafalt ved normert tid) har alle felt
+- OK   7 statistikk rad 90 (DBH, HK-dir 705, Bachelor 3-årig: frafalt ved normert tid) er utregnet: 9374 / 38434 * 100
+- OK   7 statistikk rad 91 (DBH, HK-dir 705, Bachelor 3-årig: studerer fortsatt ved n) har alle felt
+- OK   7 statistikk rad 91 (DBH, HK-dir 705, Bachelor 3-årig: studerer fortsatt ved n) verdien 5180 står i statistikk/dbh-705.tsv
+- OK   7 statistikk rad 92 (DBH, HK-dir 705, Bachelor 3-årig: studerer fortsatt ved n) har alle felt
+- OK   7 statistikk rad 92 (DBH, HK-dir 705, Bachelor 3-årig: studerer fortsatt ved n) er utregnet: 5180 / 38434 * 100
+- OK   7 statistikk rad 93 (DBH, HK-dir 705, Bachelor 3-årig: startkull) har alle felt
+- OK   7 statistikk rad 93 (DBH, HK-dir 705, Bachelor 3-årig: startkull) verdien 46326 står i statistikk/dbh-705.tsv
+- OK   7 statistikk rad 94 (DBH, HK-dir 705, Bachelor 3-årig: fullført innen normert ) har alle felt
+- OK   7 statistikk rad 94 (DBH, HK-dir 705, Bachelor 3-årig: fullført innen normert ) verdien 30998 står i statistikk/dbh-705.tsv
+- OK   7 statistikk rad 95 (DBH, HK-dir 705, Bachelor 3-årig: fullført innen normert ) har alle felt
+- OK   7 statistikk rad 95 (DBH, HK-dir 705, Bachelor 3-årig: fullført innen normert ) er utregnet: 30998 / 46326 * 100
+- OK   7 statistikk rad 96 (DBH, HK-dir 705, Bachelor 3-årig: frafalt ved normert tid) har alle felt
+- OK   7 statistikk rad 96 (DBH, HK-dir 705, Bachelor 3-årig: frafalt ved normert tid) verdien 9947 står i statistikk/dbh-705.tsv
+- OK   7 statistikk rad 97 (DBH, HK-dir 705, Bachelor 3-årig: frafalt ved normert tid) har alle felt
+- OK   7 statistikk rad 97 (DBH, HK-dir 705, Bachelor 3-årig: frafalt ved normert tid) er utregnet: 9947 / 46326 * 100
+- OK   7 statistikk rad 98 (DBH, HK-dir 705, Bachelor 3-årig: studerer fortsatt ved n) har alle felt
+- OK   7 statistikk rad 98 (DBH, HK-dir 705, Bachelor 3-årig: studerer fortsatt ved n) verdien 5381 står i statistikk/dbh-705.tsv
+- OK   7 statistikk rad 99 (DBH, HK-dir 705, Bachelor 3-årig: studerer fortsatt ved n) har alle felt
+- OK   7 statistikk rad 99 (DBH, HK-dir 705, Bachelor 3-årig: studerer fortsatt ved n) er utregnet: 5381 / 46326 * 100
+- OK   7 statistikk rad 100 (DBH, HK-dir 705, Bachelor 3-årig: startkull) har alle felt
+- OK   7 statistikk rad 100 (DBH, HK-dir 705, Bachelor 3-årig: startkull) verdien 51382 står i statistikk/dbh-705.tsv
+- OK   7 statistikk rad 101 (DBH, HK-dir 705, Bachelor 3-årig: fullført innen normert ) har alle felt
+- OK   7 statistikk rad 101 (DBH, HK-dir 705, Bachelor 3-årig: fullført innen normert ) verdien 35775 står i statistikk/dbh-705.tsv
+- OK   7 statistikk rad 102 (DBH, HK-dir 705, Bachelor 3-årig: fullført innen normert ) har alle felt
+- OK   7 statistikk rad 102 (DBH, HK-dir 705, Bachelor 3-årig: fullført innen normert ) er utregnet: 35775 / 51382 * 100
+- OK   7 statistikk rad 103 (DBH, HK-dir 705, Bachelor 3-årig: frafalt ved normert tid) har alle felt
+- OK   7 statistikk rad 103 (DBH, HK-dir 705, Bachelor 3-årig: frafalt ved normert tid) verdien 10036 står i statistikk/dbh-705.tsv
+- OK   7 statistikk rad 104 (DBH, HK-dir 705, Bachelor 3-årig: frafalt ved normert tid) har alle felt
+- OK   7 statistikk rad 104 (DBH, HK-dir 705, Bachelor 3-årig: frafalt ved normert tid) er utregnet: 10036 / 51382 * 100
+- OK   7 statistikk rad 105 (DBH, HK-dir 705, Bachelor 3-årig: studerer fortsatt ved n) har alle felt
+- OK   7 statistikk rad 105 (DBH, HK-dir 705, Bachelor 3-årig: studerer fortsatt ved n) verdien 5571 står i statistikk/dbh-705.tsv
+- OK   7 statistikk rad 106 (DBH, HK-dir 705, Bachelor 3-årig: studerer fortsatt ved n) har alle felt
+- OK   7 statistikk rad 106 (DBH, HK-dir 705, Bachelor 3-årig: studerer fortsatt ved n) er utregnet: 5571 / 51382 * 100
+- OK   7 statistikk rad 107 (Eurostat edat_lfse_20, NEET 15–29 år, NO) har alle felt
+- OK   7 statistikk rad 107 (Eurostat edat_lfse_20, NEET 15–29 år, NO) verdien 6.7 står i statistikk/edat_lfse_20.tsv
+- OK   7 statistikk rad 108 (Eurostat edat_lfse_20, NEET 15–29 år, NO) har alle felt
+- OK   7 statistikk rad 108 (Eurostat edat_lfse_20, NEET 15–29 år, NO) verdien 7.0 står i statistikk/edat_lfse_20.tsv
+- OK   7 statistikk rad 109 (Eurostat edat_lfse_20, NEET 15–29 år, SE) har alle felt
+- OK   7 statistikk rad 109 (Eurostat edat_lfse_20, NEET 15–29 år, SE) verdien 8.3 står i statistikk/edat_lfse_20.tsv
+- OK   7 statistikk rad 110 (Eurostat edat_lfse_20, NEET 15–29 år, SE) har alle felt
+- OK   7 statistikk rad 110 (Eurostat edat_lfse_20, NEET 15–29 år, SE) verdien 5.9 står i statistikk/edat_lfse_20.tsv
+- OK   7 statistikk rad 111 (Eurostat edat_lfse_20, NEET 15–29 år, DK) har alle felt
+- OK   7 statistikk rad 111 (Eurostat edat_lfse_20, NEET 15–29 år, DK) verdien 8.2 står i statistikk/edat_lfse_20.tsv
+- OK   7 statistikk rad 112 (Eurostat edat_lfse_20, NEET 15–29 år, DK) har alle felt
+- OK   7 statistikk rad 112 (Eurostat edat_lfse_20, NEET 15–29 år, DK) verdien 8.9 står i statistikk/edat_lfse_20.tsv
+- OK   7 statistikk rad 113 (Eurostat edat_lfse_20, NEET 15–29 år, FI) har alle felt
+- OK   7 statistikk rad 113 (Eurostat edat_lfse_20, NEET 15–29 år, FI) verdien 10.5 står i statistikk/edat_lfse_20.tsv
+- OK   7 statistikk rad 114 (Eurostat edat_lfse_20, NEET 15–29 år, FI) har alle felt
+- OK   7 statistikk rad 114 (Eurostat edat_lfse_20, NEET 15–29 år, FI) verdien 11.2 står i statistikk/edat_lfse_20.tsv
+- OK   7 statistikk rad 115 (Eurostat edat_lfse_20, NEET 15–29 år, EU27_2020) har alle felt
+- OK   7 statistikk rad 115 (Eurostat edat_lfse_20, NEET 15–29 år, EU27_2020) verdien 15.4 står i statistikk/edat_lfse_20.tsv
+- OK   7 statistikk rad 116 (Eurostat edat_lfse_20, NEET 15–29 år, EU27_2020) har alle felt
+- OK   7 statistikk rad 116 (Eurostat edat_lfse_20, NEET 15–29 år, EU27_2020) verdien 11.0 står i statistikk/edat_lfse_20.tsv
+- OK   7 statistikk rad 117 (Eurostat edat_lfse_14, Early leavers 18–24 år, NO) har alle felt
+- OK   7 statistikk rad 117 (Eurostat edat_lfse_14, Early leavers 18–24 år, NO) verdien 17.4 står i statistikk/edat_lfse_14.tsv
+- OK   7 statistikk rad 118 (Eurostat edat_lfse_14, Early leavers 18–24 år, NO) har alle felt
+- OK   7 statistikk rad 118 (Eurostat edat_lfse_14, Early leavers 18–24 år, NO) verdien 3.8 står i statistikk/edat_lfse_14.tsv
+- OK   7 statistikk rad 119 (Eurostat edat_lfse_14, Early leavers 18–24 år, SE) har alle felt
+- OK   7 statistikk rad 119 (Eurostat edat_lfse_14, Early leavers 18–24 år, SE) verdien 6.5 står i statistikk/edat_lfse_14.tsv
+- OK   7 statistikk rad 120 (Eurostat edat_lfse_14, Early leavers 18–24 år, SE) har alle felt
+- OK   7 statistikk rad 120 (Eurostat edat_lfse_14, Early leavers 18–24 år, SE) verdien 6.7 står i statistikk/edat_lfse_14.tsv
+- OK   7 statistikk rad 121 (Eurostat edat_lfse_14, Early leavers 18–24 år, DK) har alle felt
+- OK   7 statistikk rad 121 (Eurostat edat_lfse_14, Early leavers 18–24 år, DK) verdien 11.5 står i statistikk/edat_lfse_14.tsv
+- OK   7 statistikk rad 122 (Eurostat edat_lfse_14, Early leavers 18–24 år, DK) har alle felt
+- OK   7 statistikk rad 122 (Eurostat edat_lfse_14, Early leavers 18–24 år, DK) verdien 10.0 står i statistikk/edat_lfse_14.tsv
+- OK   7 statistikk rad 123 (Eurostat edat_lfse_14, Early leavers 18–24 år, FI) har alle felt
+- OK   7 statistikk rad 123 (Eurostat edat_lfse_14, Early leavers 18–24 år, FI) verdien 10.3 står i statistikk/edat_lfse_14.tsv
+- OK   7 statistikk rad 124 (Eurostat edat_lfse_14, Early leavers 18–24 år, FI) har alle felt
+- OK   7 statistikk rad 124 (Eurostat edat_lfse_14, Early leavers 18–24 år, FI) verdien 9.9 står i statistikk/edat_lfse_14.tsv
+- OK   7 statistikk rad 125 (Eurostat edat_lfse_14, Early leavers 18–24 år, EU27_2020) har alle felt
+- OK   7 statistikk rad 125 (Eurostat edat_lfse_14, Early leavers 18–24 år, EU27_2020) verdien 13.8 står i statistikk/edat_lfse_14.tsv
+- OK   7 statistikk rad 126 (Eurostat edat_lfse_14, Early leavers 18–24 år, EU27_2020) har alle felt
+- OK   7 statistikk rad 126 (Eurostat edat_lfse_14, Early leavers 18–24 år, EU27_2020) verdien 9.1 står i statistikk/edat_lfse_14.tsv
 - OK   6 utelatt W2108964962 «Heterogeneity in Human Capital Investments: High School Curriculum, Co» (2012) – lest i utvalget, ikke valgt: studie fra land utenfor Norden og ikke en harmonisert sammenligning på tvers av land
 - OK   6 utelatt W2003600100 «Sexual Orientation and Gender Identity/Expression Related Peer Victimi» (2013) – grovsikting: Mobbing og helse blant unge, ikke utdanningsovergang
 - OK   6 utelatt W4200358910 «The mental health of young people who are not in education, employment» (2021) – lest i utvalget, ikke valgt: forklaringen er helse eller funksjonsnedsettelse, som ikke er blant driverne i kriteriene

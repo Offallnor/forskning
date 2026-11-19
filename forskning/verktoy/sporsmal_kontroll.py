@@ -166,6 +166,8 @@ def main():
             meld(False, f"7 {tag} uttrekksfila «{r.get('fil', '')}» finnes IKKE"); continue
         innhold = open(fp, encoding="utf-8", errors="replace").read()
         tallene = {t.replace(",", ".").lstrip("-") for t in tall(innhold, kilde=True) + tall(innhold)}
+        if fp.endswith(".csv"):   # SSB-csv: heltall skilt med komma («5110,5603») leses ellers som ett desimaltall
+            tallene |= {c.strip().strip('"').lstrip("-") for l in innhold.splitlines() if not l.startswith("#") for c in l.split(",")}
         v = (r.get("verdi") or "").replace(",", ".").replace(" ", "").replace("\u00a0", "").lstrip("-")
         ok7 = v in tallene or (v.endswith(".0") and v[:-2] in tallene) or (v + ".0") in tallene
         meld(ok7, f"7 {tag} verdien {r.get('verdi')} {'står' if ok7 else 'står IKKE'} i {r.get('fil')}")
