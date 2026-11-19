@@ -1,0 +1,8 @@
+# Kilde: SSB, tabell 13014
+# Adresse: https://data.ssb.no/api/pxwebapi/v2/tables/13014/data?lang=no&outputFormat=csv&valueCodes[Region]=Ialt&valueCodes[GjennomForingsTid]=*&valueCodes[ContentsCode]=Prosent&valueCodes[Tid]=*
+# Hentet: 2026-11-19
+"Region","GjennomForingsTid","Prosent 2006-2012","Prosent 2007-2013","Prosent 2008-2014","Prosent 2009-2015","Prosent 2010-2016","Prosent 2011-2017","Prosent 2012-2018","Prosent 2013-2019","Prosent 2014-2020","Prosent 2015-2021","Prosent 2016-2022","Prosent 2017-2023","Prosent 2018-2024","Prosent 2019-2025"
+"Ialt","00",100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+"Ialt","01",47.4,52.1,50.9,51.1,52.1,53.4,54.2,52.3,52.4,54.3,55.2,56.8,58.6,58.2
+"Ialt","02",31.1,28.8,30.3,30.7,29.3,28.9,28.7,29.1,28.2,26.6,26.7,27.2,26.2,25.6
+"Ialt","03",21.5,19.1,18.9,18.1,18.6,17.7,17.0,18.6,19.4,19.1,18.1,16.0,15.2,16.2
