@@ -16,6 +16,8 @@
 # Fortsatt 18.11 kl. 22:50: --pdf har gått gjennom alle kildene, kjører --versjoner ferdig
 # Fortsatt 19.11 kl. 00:40: versjonssøket lagrer nå framdriften underveis
 # Runde 6 (19.11): tekst for 53 åpne versjoner fra versjonssøket
-python3 -I forskning/verktoy/sporsmal_sok.py evu-voksne --pdf
+# python3 -I forskning/verktoy/sporsmal_sok.py evu-voksne --pdf
 # python3 -I forskning/verktoy/sporsmal_sok.py evu-voksne --versjoner
 # Runde 7 (19.11): kjerne.txt avgrenser teksthentingen; sju åpne adresser (pdf:) funnet på nettet
+# Runde 8 (19.11): finsk søk på nytt; alle kall til Finna ga HTTPError 18.11, nå med feilkode og reserveforsøk
+python3 -I forskning/verktoy/sporsmal_sok.py evu-voksne --finsk --fra=2000 'aikuiskoulutus' 'aikuiskoulutuksen vaikutukset' 'aikuiskoulutustuki' 'aikuiskoulutustuen' 'työvoimakoulutus' 'työvoimakoulutuksen vaikuttavuus' 'vuxenutbildningsstöd' 'arbetskraftsutbildning'

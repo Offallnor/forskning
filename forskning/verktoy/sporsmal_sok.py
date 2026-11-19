@@ -196,6 +196,14 @@ def hent_json(url):
         req = urllib.request.Request(url, headers={"User-Agent": UA, "Accept": "application/json"})
         with urllib.request.urlopen(req, timeout=60) as r:
             return json.loads(r.read())
+    except urllib.error.HTTPError as e:
+        # Kode og starten av svaret, så feilen kan forstås fra loggen (Finna ga HTTPError uten mer 18.11.2026).
+        try:
+            kropp = e.read()[:200].decode("utf-8", "replace")
+        except Exception:
+            kropp = ""
+        print(f"HTTPError {e.code}: {url[:150]} {kropp}", flush=True)
+        return None
     except Exception as e:
         print(f"{type(e).__name__}: {url[:150]}", flush=True)
         return None
@@ -810,8 +818,16 @@ def finsk_modus(mappe, ordene):
     for o in ordene:
         n = 0
         for side in (1, 2, 3):
+            grunn = [("lookfor", o), ("limit", 100), ("page", side)]
             d = hent_json("https://api.finna.fi/v1/search?" + urllib.parse.urlencode(
-                [("lookfor", o), ("limit", 100), ("page", side), ("filter[]", f'search_daterange_mv:"[{fra} TO 2100]"')] + [("field[]", f) for f in felt])) or {}
+                grunn + [("filter[]", f'search_daterange_mv:"[{fra} TO 2100]"')] + [("field[]", f) for f in felt]))
+            if d is None:
+                # Alle finske søk ga HTTPError 18.11.2026. Prøv uten datofilteret (året sjekkes uansett under),
+                # og så uten feltlista.
+                d = hent_json("https://api.finna.fi/v1/search?" + urllib.parse.urlencode(grunn + [("field[]", f) for f in felt]))
+            if d is None:
+                d = hent_json("https://api.finna.fi/v1/search?" + urllib.parse.urlencode(grunn))
+            d = d or {}
             poster = d.get("records") or []
             for p in poster:
                 r = finna_rad(p, o)
