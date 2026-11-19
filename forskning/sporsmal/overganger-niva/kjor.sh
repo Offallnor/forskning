@@ -13,5 +13,11 @@
 # Runde 5 (18.11): referanser fra de 33 kildene de blinde utvalgene la til (løypa steg 2 punkt 4). Kjørt på nytt etter tre tidsavbrudd (sist kvote hos OpenAlex); bare de nye kildene slås opp
 # python3 -I forskning/verktoy/sporsmal_sok.py overganger-niva --referanser 'transition to higher education' 'transition to tertiary' 'school-to-work' 'education-to-work' 'labour market entry' 'labor market entry' 'NEET' 'not in employment, education' 'dropout' 'drop-out' 'student attrition' 'persistence' 'time to degree' 'switching major' 'apprentice' 'vocational' 'higher vocational' 'short-cycle' 'educational trajector' 'educational pathway' 'overgang' 'frafall' 'gjennomføring' 'gjennomstrømning' 'fagskole' 'læreplass' 'lærling' 'utenfor arbeid og utdanning' 'övergång' 'studieavbrott' 'yrkeshögskola' 'etablering' 'frafald'
 # Runde 6 (19.11): tekst og åpne versjoner for kjernen (kjerne.txt, 375 norske kilder i kategori 1–3)
-python3 -I forskning/verktoy/sporsmal_sok.py overganger-niva --pdf
+# python3 -I forskning/verktoy/sporsmal_sok.py overganger-niva --pdf
 # python3 -I forskning/verktoy/sporsmal_sok.py overganger-niva --versjoner  (tas i egen runde; to forsøk gikk ut på tid og lagringen feilet)
+# Runde 7 (19.11): statistikk fra SSB for treet (grein 1: 13014, vgo: 14867, grein 2–3: 08921, fagskole til arbeid: 13675, grein 5: 12423)
+python3 -I forskning/verktoy/sporsmal_sok.py overganger-niva --ssb 14867 'valueCodes[Region]=01-99&valueCodes[FullforingVGO]=*&valueCodes[UtdProgram]=00,01,02&valueCodes[Kjonn]=0,1,2&valueCodes[ContentsCode]=Prosent&valueCodes[Tid]=*'
+python3 -I forskning/verktoy/sporsmal_sok.py overganger-niva --ssb 13014 'valueCodes[Region]=Ialt&valueCodes[GjennomForingsTid]=*&valueCodes[ContentsCode]=Prosent&valueCodes[Tid]=*'
+python3 -I forskning/verktoy/sporsmal_sok.py overganger-niva --ssb 08921 'valueCodes[Region]=0&valueCodes[Kjonn]=0,1,2&valueCodes[Alder]=25-29,30-39&valueCodes[UtdanNivaa]=*&valueCodes[ContentsCode]=PersonPros&valueCodes[Tid]=from(2005)'
+python3 -I forskning/verktoy/sporsmal_sok.py overganger-niva --ssb 13675 'valueCodes[Kjonn]=0,1,2&valueCodes[InnvandrKat]=*&valueCodes[SyssStatus]=*&valueCodes[ContentsCode]=BestFagskUtd&valueCodes[Tid]=*'
+python3 -I forskning/verktoy/sporsmal_sok.py overganger-niva --ssb 12423 'valueCodes[Kjonn]=0,1,2&valueCodes[Alder]=15-29&valueCodes[UtdNivaa]=TOT,1-2,3-5,6-8&valueCodes[InnvandrKat]=A-G,A_C-G,B&valueCodes[HovArbStyrkStatus]=TOT,NEET2,U.04-U.05&valueCodes[ContentsCode]=BosatteProsent&valueCodes[Tid]=*'
