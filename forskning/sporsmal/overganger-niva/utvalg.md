@@ -45,7 +45,22 @@ For beskrivende spørsmål fyller analyser fra SSB og fagmiljøene samme rolle s
 
 ## Sentrale kilder som mangler tekst
 
-Fylles ut etter tekstrunden (runde 6 i `kjor.sh`).
+Tekstrunden 19.11 ga tekst for 213 av 375 kilder i kjernen. 132 har bare sammendrag og 30 har ingenting. `mangler.md` lister de 161 som ikke er lest. De viktigste for treet:
+
+- NOU 2019: 25 (grein 1 og 2)
+- Helland 2006, læreplass etter innvandrerbakgrunn (grein 1)
+- Askilden og Nilsen 2005, lærlinger og unge arbeidstakere (grein 1)
+- Høst og Michelsen 2010, lærlingordningen 1994–2008 (grein 1)
+- Hovdhaugen, Nyen og Skålholt 2025, påbygg etter yrkesfag (grein 3)
+- Støren og Waagene 2015, fagskoleutdanning og arbeidsmarkedet (grein 3)
+- Thomsen mfl. 2016, høyere utdanning i Norden 1985–2010 (grein 2)
+- Falch, Lujala og Strøm 2012, avstand og utdanningsnivå (grein 2)
+- Hovdhaugen 2011 og Reisel og Brekke 2009, frafall (grein 4)
+- Raaum og Røed 2006, konjunkturer ved inngangen til arbeidslivet (grein 5)
+- Bäckman mfl. 2011 og 2015, avbrudd i videregående i Norden (grein 5)
+- OECD 2018, *Investing in Youth: Norway* (grein 5)
+
+Kilder som ikke blir hentet, står som ikke lest i forbeholdene. Versjonssøket for kjernen er ikke kjørt ennå.
 
 ## Kjente svakheter
 
