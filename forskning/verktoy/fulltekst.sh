@@ -35,6 +35,10 @@ case "$cmd" in
     kopier_kilder . "$dir"
     speil_innboks . "$dir"
     cd "$dir"
+    # Identitet for både commit og rebase under pull: uten den stoppet lagringen etter en tidsavbrutt runde
+    # («Committer identity unknown», overganger-niva 19.11.2026), og teksten som var hentet, gikk tapt.
+    export GIT_AUTHOR_NAME="github-actions[bot]" GIT_COMMITTER_NAME="github-actions[bot]"
+    export GIT_AUTHOR_EMAIL="41898282+github-actions[bot]@users.noreply.github.com" GIT_COMMITTER_EMAIL="41898282+github-actions[bot]@users.noreply.github.com"
     git add -A forskning
     if git diff --cached --quiet; then echo "Ingen ny fulltekst"; exit 0; fi
     git -c user.name="github-actions[bot]" -c user.email="41898282+github-actions[bot]@users.noreply.github.com" commit -qm "$melding"
