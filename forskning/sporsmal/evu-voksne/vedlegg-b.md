@@ -1,0 +1,685 @@
+# Vedlegg B: kilder som ikke er lest eller er utelatt (evu-voksne)
+
+Laget med `vedlegg_bc.py`. Sentrale kilder er oversikter og studier i kategori 1–3. 153 sentrale valgte kilder er ikke lest i fulltekst: 35 ikke lest, 118 bare i sammendrag. Hvordan de kan hentes, står i `mangler.md`.
+
+## Sentrale kilder som ikke er lest (35)
+
+- kategori 1: [Arbetsmarknadsutbildning i Norden:Studie om de nordiska systemen för arbetsmarknadsutbildning för arbetslösa, Mats Kullander and Eskil Wadensjö](http://libris.kb.se/bib/0kltl00rxmddlp20) (Kullander, Mats, 2015)
+- kategori 1: [Utvärderingsforskning och administrativa utvärderingar av arbetsmarknadsutbildning - Bilaga 1](http://libris.kb.se/bib/12022169) (Regnér, Håkan, 2000)
+- kategori 1: [Evidence about the Effectiveness of Public Training Programs for Incumbent Workers](https://openalex.org/W127447898) (Kevin M. Hollenbeck, Sarah M. Klerk, 2007)
+- kategori 1: [Outcomes of Policies for Displaced Workers: An American Perspective](https://openalex.org/W1560755369) (Christopher J. O’Leary, 2010)
+- kategori 1: [Improving the Odds: Increasing the Effectiveness of Publicly Funded Training](https://openalex.org/W1562662777) (John Robst, 2002)
+- kategori 1: [Government-Sponsored Vocational Education for Adults](https://openalex.org/W2495947150) (B. McCall, Jeffrey Andrew Smith, Conny Wunsch, 2016)
+- kategori 1: [Retraining Displaced Workers. Policy Brief.](https://openalex.org/W255487560) (Robert Lalonde, Daniel G. Sullivan, 2010)
+- kategori 1: [Evaluating Job Training Programs: What have we learned?](https://openalex.org/W2556683721) (Haeil Jung, Maureen A. Pirog, 2009)
+- kategori 1: [Literature Review: Career Pathways Programs](https://openalex.org/W2560218599) (Opre Report, 2013)
+- kategori 1: [The GED](https://openalex.org/W2747641275) (James J. Heckman, John Eric Humphries, Nicholas Mader, 2011)
+- kategori 1: [Publicly funded training for unemployed adults: Germany, the UK and Korea](https://openalex.org/W2757075911) (Paul Ryan, 2001)
+- kategori 1: [The assessment of active labor market policies: evidence from OECD countries](https://openalex.org/W2790949084) (Marwa Sahnoun, Chokri Abdennadher, 2018)
+- kategori 1: [Economic Outcomes of Adult Education and Training](https://openalex.org/W28346782) (Ana M. Ferrer, William Craig Riddell, 2010)
+- kategori 1: [The NRDC review of research in adult numeracy](https://openalex.org/W2903237616) (Diana Coben, 2003)
+- kategori 1: [Investing in inclusive growth: A systematic review of the role of financial incentives to promote lifelong learning](https://openalex.org/W2922484708) (Anna Vanderkooy, Eduardo Regier, Meredith B. Lilly, 2019)
+- kategori 1: [The labour market benefits of adult education from a global perspective](https://openalex.org/W2991385980) (Richard Desjardins, 2019)
+- kategori 1: [Individual Learning Schemes: Panacea or Pandora's Box?](https://openalex.org/W4234178885) (OECD, 2019)
+- kategori 1: [What Can We Expect from Active Labour Market Policy?](https://openalex.org/W4285786724) (Lars Calmfors, 2019)
+- kategori 1: [A meta-analysis on the effectiveness of functional literacy interventions for adults](https://openalex.org/W4388601246) (Juliane Kindl, Wolfgang Lenhard, 2023)
+- kategori 1: [The Effects of Employment and Training Programs for Populations with Low Incomes: Evidence from the Pathways Clearinghouse](https://openalex.org/W4403615494) (Leah Shiferaw, Sarah Dolfin, Andrei Streke, 2024)
+- kategori 1: [Active labour market programmes for young people in high-income countries: a component network meta-analysis](https://openalex.org/W7213521022) (Dave Taylor, Katherine Young, Becci Newton, 2026)
+- kategori 1: [Is Lifelong Learning Making a Difference? Research-Based Evidence on the Impact of Adult Learning](https://openalex.org/W958804159) (John Field, 2011)
+- kategori 2: [The impact of training vouchers on low-skilled workers](https://openalex.org/W2044605349) (Diana Hidalgo, Hessel Oosterbeek, Dinand Webbink, 2014)
+- kategori 2: [Ten years of the Workforce Investment Act (WIA): Interpreting the research on WIA and related programs](https://openalex.org/W2119402392) (Paul T. Decker, Jillian Berk, 2011)
+- kategori 2: [Escalating Gains: Project QUEST’s Sectoral Strategy Pays Off](https://openalex.org/W2762956538) (Anne Roder, 2017)
+- kategori 2: [The effect of post-baccalaureate business certificates on job search: Results from a correspondence study](https://openalex.org/W2970102408) (Amanda Gaulke, Hugh Cassidy, Sheryll Namingit, 2019)
+- kategori 2: [Community colleges and careers: Evidence from nursing school lotteries](https://openalex.org/W4400146877) (Michel Grosz, 2024)
+- kategori 2: [Staying Connected: Experimental Effects of Coach-Delivered Text Messages in an Adult High School](https://openalex.org/W7222919930) (Alberto Ortega, Pietro Pellerito, Patrick Turner, 2026)
+- kategori 2: [Tuning in to Local Labor Markets: Findings from the Sectoral Employment Impact Study.](https://openalex.org/W90080886) (Sheila Maguire, Joshua Freely, Carol Clymer, 2010)
+- kategori 3: [The devil’s in the details: evidence from the GED on large effects of small differences in high stakes exams](https://openalex.org/W2063749037) (John H. Tyler, Richard J. Murnane, John B. Willett, 2004)
+- kategori 3: [Who Benefits from the GED? New Regression Discontinuity Evidence from Massachusetts](https://openalex.org/W2948471737) (Blake Heller, Kirsten Slungaard Mumma, 2018)
+- kategori 3: [The Reform Effect of Training Vouchers in Korea's Public Training Programs](https://openalex.org/W2954406255) (Sangjun Lee, 2012)
+- kategori 3: [Are Broad-Based Vouchers an Effective Way to Support Life-Long Learning? Evidence from an Australian Reform](https://openalex.org/W3134367623) (Cain Polidano, Justin van de Ven, Sarah Voitchovsky, 2021)
+- kategori 3: [Policy initiatives, self-sorting, and labor market effects of tertiary education for adult workers](https://openalex.org/W4360603437) (Haizheng Li, Qinyi Liu, Yan Su, 2023)
+- kategori 3: [A Promise Worth Keeping? Impacts of Free Community College on Degrees and Earnings](https://openalex.org/W7162503899) (Paige Schoonover, Jonathon Attridge, Celeste K. Carruthers, 2026)
+
+## Sentrale kilder som bare er lest i sammendrag (118)
+
+- kategori 1: [The value of learning: evaluation and impact of education and training: third report on vocational training research in Europe: synthesis report](https://openalex.org/W125306557) (Pascaline Descy, Manfred Tessaring, 2005)
+- kategori 1: [Promoting Life Long Learning through Individual Accounts : Asset-Based versus Capability-Based Policies](https://openalex.org/W1481178249) (Jérôme Gautié, Coralie Pérez, 2012)
+- kategori 1: [Evaluation Evidence about the Effectiveness of Public Training Programs for Incumbent Workers](https://openalex.org/W1518178688) (Kevin M. Hollenbeck, 2007)
+- kategori 1: [Towards comprehensive training](https://openalex.org/W1518281674) (Olga Susana Puerto, Jean Farès, 2009)
+- kategori 1: [Improving the odds: increasing the effectiveness of publicly funded training](https://openalex.org/W1518746948) (, 2000)
+- kategori 1: [The Workforce Investment Act: Implementation Experiences and Evaluation Findings](https://openalex.org/W1522370595) (Douglas J. Besharov, Phoebe H. Cottingham, 2011)
+- kategori 1: [Wirkungen aktiver Arbeitsmarktpolitik: Evaluierungsergebnisse für Deutschland, Schweden, Dänemark und die Niederlande](https://openalex.org/W1524209849) (Birgitta Rabe, 2000)
+- kategori 1: [Solving the Reemployment Puzzle: From Research to Policy](https://openalex.org/W1528348100) (Stephen A. Wandner, 2010)
+- kategori 1: [Job Training Policy in the United States](https://openalex.org/W1543433228) (Christopher J. O’Leary, Robert A. Straits, Stephen A. Wandner, 2004)
+- kategori 1: [What We Know about the Impacts of Workforce Investment Programs](https://openalex.org/W1550516742) (Burt S. Barnow, Jeffrey Andrew Smith, 2009)
+- kategori 1: [Access to Education Over the Working Life in Sweden: Priorities, Institutions and Efficiency](https://openalex.org/W1574919135) (Anders Stenberg, 2012)
+- kategori 1: [What Works for Whom in Public Employment Policy?](https://openalex.org/W1576880634) (Christopher J. O’Leary, Randall W. Eberts, Kevin M. Hollenbeck, 2011)
+- kategori 1: [When Welfare-to-Work Programs Seem to Work Well: Explaining Why Riverside and Portland Shine So Brightly](https://openalex.org/W1583669699) (David H. Greenberg, Karl Ashworth, Andreas Cebulla, 2005)
+- kategori 1: [Active labor market programs for the integration of youths and immigrants into the labor market: the Nordic experience](https://openalex.org/W1588450396) (Lena Nekby, 2008)
+- kategori 1: [International Experience with Job Training: Lessons for the United States](https://openalex.org/W1589013402) (Lori G. Kletzer, William L. Koch, 2004)
+- kategori 1: [L’évaluation des politiques actives du marché du travail: Quels enseignements ?](https://openalex.org/W1595184076) (David Card, 2014)
+- kategori 1: [Actief arbeidsmarktbeleid: effectiever dan vaak wordt aangenomen](https://openalex.org/W1595216198) (Jaap de Koning, 2005)
+- kategori 1: [Strategies for Improving the Economic Mobility of Workers: Bridging Research and Practice](https://openalex.org/W1601350728) (Maude Toussaint‐Comeau, Bruce Meyer, 2009)
+- kategori 1: [The design and effectiveness of active labor market programs in OECD countries: a review of recent evidence for Latin America and the Caribbean](https://openalex.org/W171095229) (Dan Finn, 2012)
+- kategori 1: [EVALUATING ALMP EVALUATIONS](https://openalex.org/W171778617) (Jaap de Koning, Yuri Peers, 2007)
+- kategori 1: [Subsidies and Levies as Policy Instruments to Encourage Employer-Provided Training](https://openalex.org/W1797719169) (Normann Müller, Friederike Behringer, 2012)
+- kategori 1: [What Happens To The Effects Of Government-Funded Training Programs Over Time?](https://openalex.org/W1866815259) (David H. Greenberg, Charles Michalopoulos, Philip K. Robins, 2004)
+- kategori 1: [The Effectiveness of Publicly Financed Training in the United States: Implications for WIA and Related Programs](https://openalex.org/W1878400386) (Christopher T. King, 2004)
+- kategori 1: [Have Welfare-to-Work Programs Improved over Time in Putting Welfare Recipients to Work?](https://openalex.org/W1904967031) (David H. Greenberg, Philip K. Robins, 2011)
+- kategori 1: [Labor market impact on youth : a meta-analysis of the youth employment inventory](https://openalex.org/W1927179113) (Olga Susana Puerto, 2007)
+- kategori 1: [Essays on Evaluation of Active Labour Market Policy](https://openalex.org/W1937081207) (Stefan Speckesser, 2004)
+- kategori 1: [Do experimental and nonexperimental evaluations give different answers about the effectiveness of government-funded training programs?](https://openalex.org/W1963973901) (David H. Greenberg, Charles Michalopoulos, Philip K. Robin, 2006)
+- kategori 1: [Geförderte Qualifizierungsmaßnahmen in Deutschland: Aktuelle Evaluationsergebnisse im Überblick](https://openalex.org/W1981654732) (Axel Deeke, Hans W. Dietrich, Thomas Kruppe, 2011)
+- kategori 1: [A systematic review of controlled trials evaluating interventions in adult literacy and numeracy](https://openalex.org/W2010796133) (Carole J. Torgerson, Jill Porthouse, Greg Brooks, 2005)
+- kategori 1: [Was kann die Aktive Arbeitsmarktpolitik in Deutschland aus der Evaluationsforschung in anderen europäischen Ländern lernen?](https://openalex.org/W2036089346) (Viktor Steiner, Tobias Hagen, 2002)
+- kategori 1: [The role of training and skills development in active labour market policies](https://openalex.org/W2080573397) (Nigel Meager, 2009)
+- kategori 1: [Meta-Evaluation: Discovering What Works Best in Welfare Provision](https://openalex.org/W2088280977) (Karl Ashworth, Andreas Cebulla, David H. Greenberg, 2004)
+- kategori 1: [Adults with low literacy and numeracy skills: A literature review on policy intervention](https://openalex.org/W2102454047) (Hendrickje Catriona Windisch, 2015)
+- kategori 1: [Job-Related Training and Benefits for Individuals: A Review of Evidence and Explanations](https://openalex.org/W2107862576) (Bo Hansson, 2008)
+- kategori 1: [Can training and employment subsidies combat European unemployment?](https://openalex.org/W2119626280) (Jochen Kluve, Christoph Μ. Schmidt, 2002)
+- kategori 1: [A Meta-Analysis of Government-Sponsored Training Programs](https://openalex.org/W2120167541) (David H. Greenberg, Charles Michalopoulos, Philip K. Robins, 2003)
+- kategori 1: [Impacts of active labor market programs : new evidence from evaluations with particular attention to developing and transition countries](https://openalex.org/W2145263991) (Amit Dar, Karina Olivas, Gordon Betcherman, 2004)
+- kategori 1: [Lessons from Other Countries Regarding Incentives for Employer-Sponsored Training](https://openalex.org/W2151019805) (Richard Brisbois, Nicole Pollack, R.A. Saunders, 2009)
+- kategori 1: [Conducting Meta‐Analyses of Evaluations of Government‐Funded Training Programs](https://openalex.org/W2157779531) (David H. Greenberg, Philip K. Robins, Robert Walker, 2005)
+- kategori 1: [WAGE RETURNS TO TRAINING: EVIDENCE FROM FINLAND](https://openalex.org/W2184201471) (Erkki Laukkanen, 2010)
+- kategori 1: [AB istihdam stratejisi kapsamında aktif iş gücü piyasası politikaları etkinliği:Meta-analiz yöntemiyle bir değerlendirme](https://openalex.org/W2213966225) (Rahim Taghizadeh, Şerife Türcan Özşuca, 2014)
+- kategori 1: [Bildungsgutscheine zwischen Theorie und Empirie](https://openalex.org/W2267718473) (Dieter Dohmen, 2010)
+- kategori 1: [Kortutbildade och Vuxenutbildning : en kunskapsöversikt. Underlagsrapport](https://openalex.org/W2287243528) (Andreas Fejes, 2015)
+- kategori 1: [The Evaluation of the Trade Adjustment Assistance Program: A Synthesis of Major Findings](https://openalex.org/W2287709786) (Ronald J. D'Amico, Peter Z. Schochet, 2012)
+- kategori 1: [Evaluations of retraining programs in OECD countries : implications for economies in transition](https://openalex.org/W235307137) (Amit Dar, 1995)
+- kategori 1: [Active labour market policy effects for women in Europe - a survey](https://openalex.org/W2417897354) (Annette Bergemann, Gérard J. van den Berg, 2017)
+- kategori 1: [Workplace literacy & essential skills : what works? and why? : literature review](https://openalex.org/W2433767964) (Maria Salomon, 2009)
+- kategori 1: [Training and its Benefits for Individuals: What Form, What For and For Whom? Evidence from the Literature and Implications for Government-sponsored Training](https://openalex.org/W2804031940) (Catherine Regalado Ramos, Roger McL. Harris, 2012)
+- kategori 1: [Évaluer la formation professionnelle](https://openalex.org/W2897899629) (Marc Ferracci, 2013)
+- kategori 1: [An evaluation of German active labour market policies: a review of the empirical evidence](https://openalex.org/W2899536193) (Moritz Zoellner, Michael J. Fritsch, Michael Wyrwich, 2018)
+- kategori 1: [Looking over the Fence: Findings from UK and US Programme Reviews](https://openalex.org/W2908262949) (Andreas Cebulla, 2018)
+- kategori 1: [A review of the research literature on adult learning and employability](https://openalex.org/W2914642225) (Tove I. Midtsundstad, 2019)
+- kategori 1: [Worker Assistance and Placement Experience](https://openalex.org/W2952849036) (Jane Kulik, Charles Fairchild, 2019)
+- kategori 1: [Returns to adult education and inequality: a life course perspective](https://openalex.org/W2969413042) (Felix Weiss, 2019)
+- kategori 1: [Transitioning Adult Literacy Students to Postsecondary Education](https://openalex.org/W2971706435) (Elizabeth Zachry Rutschow, 2019)
+- kategori 1: [The impact of lifelong learning and poverty reduction](https://openalex.org/W2979977042) (Ricardo Sabatés, 2008)
+- kategori 1: [Strategic review of effective re-engagement models for disengaged learners](https://openalex.org/W2981861780) (Merryn Davies, 2011)
+- kategori 1: [Pathways to Success Through Career and Technical Education: Developing and Evaluating Community College Career Pathways Initiatives](https://openalex.org/W3012101063) (Lauren Eyster, 2020)
+- kategori 1: [The effects of literacy development in the workplace: The dearth of evidence](https://openalex.org/W3088861557) (Alison Wolf, Karen M. Evans, 2010)
+- kategori 1: [Exiting poverty: a systematic review of U.S. postsecondary education and job skills training programs in the post-welfare reform era](https://openalex.org/W3118879220) (Sehun Oh, Diana Maria DiNitto, Yeonwoo Kim, 2021)
+- kategori 1: [Job training policy in the United States](https://openalex.org/W3124069960) (, 2005)
+- kategori 1: [Vuxenutbildning för arbetsmarknaden : Underlagsrapport till Utredningen om en moderniserad arbetsrätt](https://openalex.org/W3128843297) (Jonas Olofsson, Eskil Wadensjö, 2020)
+- kategori 1: [Return on Investment for Adult Basic Education: Existing Evidence and Future Directions](https://openalex.org/W3138606911) (Jeounghee Kim, Alisa Belzer, 2021)
+- kategori 1: [Recent developments in U.S. labor policies and programs](https://openalex.org/W3215290409) (Christopher T. King, Burt S. Barnow, 2021)
+- kategori 1: [Berufliche Weiterbildung – theoretische Perspektiven und empirische Befunde](https://openalex.org/W4229951511) (Rolf Becker, Anna Etta Hecken, 2009)
+- kategori 1: [The GED](https://openalex.org/W4235170719) (James J. Heckman, John Eric Humphries, Nicholas Mader, 2010)
+- kategori 1: [Providing effective and early re-employment support to displaced workers in Sweden](https://openalex.org/W4239256374) (OECD, 2015)
+- kategori 1: [Globalization, Flexicurity and Adult Vocational Training in Denmark](https://openalex.org/W4241341401) (, 2019)
+- kategori 1: [Helping displaced workers back into jobs](https://openalex.org/W4246522410) (OECD, 2013)
+- kategori 1: [Vocational Education](https://openalex.org/W4251695828) (Anna F. Vignoles, 2015)
+- kategori 1: [Effective re-employment support for displaced workers in Denmark](https://openalex.org/W4254052687) (OECD, 2016)
+- kategori 1: [The Effectiveness of Adult Retraining: Evidence from a Meta-Analytic Review](https://openalex.org/W4292641863) (Matías Busso, Julián Cristia, Pablo Garofalo, 2022)
+- kategori 1: [Workforce Development Services in the United States](https://openalex.org/W4306865902) (Carolyn J. Heinrich, 2022)
+- kategori 1: [Career and Technical Education at Community Colleges: A Review of the Literature](https://openalex.org/W4385273592) (Adela Soliz, 2023)
+- kategori 1: [What We Know About Registered Apprenticeship: A Systematic Review and Synthesis of 30 Years of Empirical Research](https://openalex.org/W4386420582) (Amber Gallup, 2023)
+- kategori 1: [Upskilling and retraining the adult workforce](https://openalex.org/W4403134795) (Parliamentary Office of Science and Technology, Patrick McAlary, Natasha Mutebi, 2021)
+- kategori 1: [How Effective are Active Labour Market Policies and Public Employment Services?: Lessons for Latin America and the Caribbean](https://openalex.org/W4403664564) (Alex Nunn, 2024)
+- kategori 1: [Labor market outcomes of formal vocational education and training: a meta-analysis](https://openalex.org/W4415689128) (Johanna Kemper, Audrey Au Yong Lyn, Patrick McDonald, 2025)
+- kategori 1: [Bridging Skills and Employment: A Review of Advanced Digital Skills Training, Online Labor Market Programs, and Innovative Training Methodologies](https://openalex.org/W4417400053) (Richard Freundt, Rafael Novella, David Rosas-Shady, 2025)
+- kategori 1: [Aktive Arbeitsmarktpolitik: Maßnahmen, Zielsetzungen, Wirkungen](https://openalex.org/W593686631) (Jochen Kluve, 2013)
+- kategori 1: [Reengaging Early School-Leavers Through Second-Chance Education: A Research Synthesis From a European Perspective](https://openalex.org/W7117480952) (Ana Inés Renta Davids, Fernando Marhuenda Fluixá, Julián Bell Sebastián, 2025)
+- kategori 1: [Workforce Development in the United States: Recent Trends and Evidence](https://openalex.org/W7162750308) (Harry J. Holzer, 2026)
+- kategori 2: [Cognitive and non‐cognitive predictors of success in adult education programs: Evidence from experimental data with low‐income welfare recipients](https://openalex.org/W2106465281) (Lindsey Jeanne Leininger, Ariel Kalil, 2008)
+- kategori 2: [UPSKILL: A Credible Test of Workplace Literacy and Essential Skills Training](https://openalex.org/W2118188388) (David Gyarmati, Norm Leckie, Michael Dowie, 2014)
+- kategori 2: [Managing Customers' Training Choices: Findings from the Individual Training Account Experiment](https://openalex.org/W2286125338) (Sheena McConnell, Elizabeth Stuart, Kenneth Fortson, 2006)
+- kategori 2: [Decomposing Differences in Impacts on Survey- and Administrative-Measured Earnings From a Job Training Voucher Experiment](https://openalex.org/W2897969768) (Quinn Moore, Irma Perez‐Johnson, Robert Santillano, 2018)
+- kategori 2: [IN-COMPANY TRAINING FOR OLDER EMPLOYED WORKERS: RESULTS FROM A RANDOMIZED CONTROLLED TRIAL](https://openalex.org/W2978919928) (Gérard J. van den Berg, Christine Dauth, Pia Homrighausen, 2017)
+- kategori 2: [The Long-Term Effects of Job Training on Labor Market and Skills Outcomes in Chile](https://openalex.org/W3095968011) (Annabelle Doerr, Rafael Novella, 2020)
+- kategori 2: [Instrumental Variables Estimates of the Effect of Subsidized Training on the Quantiles of Trainee Earnings](https://openalex.org/W3124338191) (Alberto Abadie, Joshua D. Angrist, Guido W. Imbens, 2002)
+- kategori 2: [How Do the Impacts of Healthcare Training Vary with Credential Length? Evidence from the Health Profession Opportunity Grants Program](https://openalex.org/W4309825820) (Daniel Litwok, Laura R. Peck, Douglas Walton, 2022)
+- kategori 2: [Experimental Estimates of College Coaching on Postsecondary Re-enrollment](https://openalex.org/W4391854887) (Lesley Turner, Oded Gurantz, 2024)
+- kategori 2: [Is online job training for all? Experimental evidence on the effects of a Coursera program in Costa Rica](https://openalex.org/W4393089981) (Rafael Novella, David Rosas-Shady, Richard Freund, 2024)
+- kategori 2: [The long-term effects of job training on labor market and skills outcomes in Chile](https://openalex.org/W4401871492) (Annabelle Doerr, Rafael Novella, 2024)
+- kategori 2: [An Experimental Evaluation of the Impacts of SNAP Employment and Training Pilots on Service Receipt, Labor Market Outcomes, and SNAP Participation](https://openalex.org/W4412886466) (James Mabli, Leah Shiferaw, Gretchen Rowe, 2025)
+- kategori 3: [Estimating the Impact of the GED on the Earnings of Young Dropouts Using a Series of Natural Experiments](https://openalex.org/W1517838787) (John H. Tyler, Richard J. Murnane, John B. Willett, 1998)
+- kategori 3: [TAX PREFERENCES FOR HIGHER EDUCATION AND ADULT COLLEGE ENROLLMENT](https://openalex.org/W1536032509) (Sara LaLumia, 2012)
+- kategori 3: [Testing for Programme Effects in a Regression Discontinuity Design with Imperfect Compliance](https://openalex.org/W2048264620) (Erich Battistin, Enrico Rettore, 2002)
+- kategori 3: [Estimating the Labor Market Signaling Value of the GED](https://openalex.org/W2069316046) (John H. Tyler, Richard J. Murnane, John B. Willett, 2000)
+- kategori 3: [Active labour-market policies: a case of evidence-based policy-making?](https://openalex.org/W2087759043) (P Robinson, 2000)
+- kategori 3: [Do Subsidized Adult Apprenticeships Increase the Vocational Attendance Rate?](https://openalex.org/W2092242085) (Cecilie Dohlmann Weatherall, 2009)
+- kategori 3: [College Education and the Midcentury GI Bills](https://openalex.org/W2095001021) (M. Stanley, 2003)
+- kategori 3: [Education, earnings, and the ‘Canadian G.I. Bill’](https://openalex.org/W2109268950) (Thomas Lemieux, David Card, 2001)
+- kategori 3: [From the Battlefield to the Schoolyard: The Short-Term Impact of the Post-9/11 GI Bill](https://openalex.org/W2112894911) (Andrew Barr, 2015)
+- kategori 3: [The Use of Inter-States Variation in GED Passing Standards for estimating the Effect of a GED Degree on Labor Market Outcomes of High School Dropouts -A Critique](https://openalex.org/W2185214595) (Yona Rubinstein Z, 2003)
+- kategori 3: [Providing Employers with Incentives to Train Low-Skilled Workers: Evidence from the UK Employer Training Pilots](https://openalex.org/W2269959578) (Laura Abramovsky, Erich Battistin, Emla Fitzsimons, 2010)
+- kategori 3: [Evaluación de impacto de tres programas y línea de base de un programa del Servicio Nacional de Aprendizaje - SENA](https://openalex.org/W2529860077) (Mauricio Santa María, Alexander Estacio, Natalia Millán, 2009)
+- kategori 3: [Fighting for Education: Financial Aid and Degree Attainment](https://openalex.org/W2887181147) (Andrew Barr, 2018)
+- kategori 3: [Second Chance for High-School Dropouts? A Regression Discontinuity Analysis of Postsecondary Educational Returns to General Educational Development Certification](https://openalex.org/W3146199955) (Christopher A. Jepsen, Peter R. Mueser, Kenneth R. Troske, 2015)
+- kategori 3: [Do Veterans with Disabilities Respond Differently to the Post-9/11 GI Bill?](https://openalex.org/W3182249665) (Sebastian Negrusa, Projesh P. Ghosh, Sarmistha Pal, 2021)
+- kategori 3: [G.I. Jane Goes to College? Female Educational Attainment, Earnings, and the Servicemen’s Readjustment Act of 1944](https://openalex.org/W3200727782) (Conor Lennon, 2021)
+- kategori 3: [Did the American Reinvestment and Recovery Act Expand and Improve Vocational Training at Community Colleges?](https://openalex.org/W4308996649) (Adela Soliz, Walter G. Ecton, 2022)
+- kategori 3: [Community Colleges Can Increase Credential Stacking by Introducing New Programs Within Established Technical Pathways](https://openalex.org/W4319960108) (Drew M. Anderson, Lindsay Daugherty, 2023)
+- kategori 3: [Do State Financial Aid Policies Increase College Enrollment and Completion for Adult Learners?](https://openalex.org/W4410118870) (Adela Soliz, Coral Flanagan, 2025)
+- kategori 3: [Reskilling and Resilience](https://openalex.org/W4412938631) (Anders Humlum, Pernille Plato, 2025)
+- kategori 3: [Get a Skill, Get a Job, Get Ahead? Evaluating the effects of Virginia’s workforce-targeted free college program](https://openalex.org/W4415014960) (Sade Bonilla, Daniel Sparks, 2026)
+- kategori 3: [Does Free College “Work” for Adults? Enrollment Impacts of Michigan Reconnect](https://openalex.org/W4416730192) (Sky Duke, Taylor K. Odle, 2025)
+- kategori 3: [Retour en formation et parcours d'études atypiques : déterminants et valorisation sur le marché du travail](https://openalex.org/W7148689932) (Inès Albandea, 2019)
+- kategori 3: [The returns to host-country college for immigrants](https://openalex.org/W7165961986) (Jacob Nielsen Arendt, 2026)
+
+## Valgt, men utenfor kjernen (859)
+
+Uttrekket ble avgrenset til en kjerne. Disse kildene er valgt, men ikke hentet ut tall fra: 30 i kategori 1, 23 i kategori 2, 16 i kategori 3, 193 i kategori 4, 300 i kategori 5. De står i `valgt.txt`.
+
+## Utelatte sentrale kandidater (6263)
+
+Sentrale kandidater (oversikter, høyt siterte) som ikke er valgt, med begrunnelse fra `utelatt.tsv`.
+
+### Utelatte oversikter (466)
+
+- Effects of Training Interventions on Physical Fitness and Performance in Kabaddi Players: A Systematic Review (2026): sortert bort i grovsiktingen: Kabaddi-trening; ikke relevant
+- Success factors in prevention activities and training intervention against workplace violence in healthcare: A systematic review (2026): sortert bort i grovsiktingen: Vold mot helsepersonell
+- A systematic review and meta-analysis of knowledge, attitude, and practice survey on materiovigilance among healthcare professionals (2026): sortert bort i grovsiktingen: Medisinsk utstyr, annet felt
+- The Physiology of Contemporary Olympic Cross-Country Mountain Biking: A Systematic Review (2026): sortert bort i grovsiktingen: Sykkelfysiologi; annet felt
+- Tendencias del entrenamiento pliométrico y el rendimiento físico en el fútbol: una revisión sistemática (2026): sortert bort i grovsiktingen: Pliometrisk trening i fotball, annet felt
+- A systematic review of frameworks and measurement instruments for data literacy in higher and adult education (2026): sortert bort i grovsiktingen: Rammeverk for datakompetanse, ren metode
+- A systematic review of research on educators’ professional development in adult education in Türkiye (2026): sortert bort i grovsiktingen: Lærerutvikling i voksenopplæring i Tyrkia
+- Microlearning for Teaching and Learning: A Systematic Review (2026): sortert bort i grovsiktingen: Mikrolæring i skole og høyere utdanning; pedagogikk
+- AI-Driven Operational Intelligence and Workforce Reskilling in U.S. Hotels (2026): sortert bort i grovsiktingen: Bedriftsintern reskilling uten offentlig støtte
+- Improving digital inclusion in e-government services in the European Union: A systematic literature review (2026): sortert bort i grovsiktingen: Digital inkludering i e-forvaltning; annet felt
+- A Critical Pedagogy-Based Andragogical Self-Learning Framework for AI/IoT-Enabled Hybrid Adult Education: A Systematic Review and Conceptual Model Development (2026): sortert bort i grovsiktingen: konseptuell modell for AI, ikke tiltak
+- Artificial Intelligence-Driven Virtual Reality in Physical Rehabilitation: A Review of Machine-Learning Kinematics, Educational Scaffolding, and Treatment Adherence Strategies (2026): sortert bort i grovsiktingen: VR i fysioterapi; annet felt
+- Improving Adult Numeracy Through Gamified Learning: A Structured Literature Review (2026): sortert bort i grovsiktingen: Gamification i numeracy, metodelitteratur
+- Epistemically situated perspectives of researchers in Cuba and England: on the meanings of second chance education (2026): sortert bort i grovsiktingen: Forskeres perspektiver på andre sjanse-utdanning; erfaringer uten effektmål
+- Scoping review of public health emergency management training programmes and curricula in Africa (2000–2025): implications for policy, practice and research (2026): sortert bort i grovsiktingen: Helseberedskap, annet felt
+- A systematic review of training interventions to improve long jump performance in novice, youth, and beginner athletes (2026): sortert bort i grovsiktingen: Hoppetrening for friidrett; annet felt
+- A systematic review and meta-analysis of knowledge, attitude, and practice survey on materiovigilance among healthcare professionals (2026): sortert bort i grovsiktingen: Medisinsk utstyrsovervåking; ikke relevant
+- Integrating Cognitive, Visual, and Psychomotor Skills in Volleyball: A Systematic Review (2026): sortert bort i grovsiktingen: Annet felt
+- A Systematic Review of Barriers and Solutions to Implementing Waste Reduction Strategies in Hospitals (2026): sortert bort i grovsiktingen: Sykehusavfall, annet felt
+- Education Training on Health Behaviors Management of Chronic Diseases among Primary Care Providers: a Systematic Review and Meta-analysis (2026): sortert bort i grovsiktingen: Helseatferd og trening av primærhelsearbeidere, annet felt
+- Addressing Challenging Interpersonal Interactions on University Campuses: A Systematic Review of Training and Intervention Programs (2026): sortert bort i grovsiktingen: Mikroaggresjoner og campustiltak, annet felt
+- "Advancing Knowledge on Managerial Training and Leadership Styles: Systematic Review Using the TCCM Framework" (2026): sortert bort i grovsiktingen: Lederopplæring i virksomheter; ikke offentlig tiltak, ingen effekt
+- Administrative and human talent management in the face of Industry 4.0: A global systematic review with implications for Latin America (2026): sortert bort i grovsiktingen: Talentledelse, annet
+- Training interventions for improving shooting velocity in water polo players: A systematic review and meta-analysis (2026): sortert bort i grovsiktingen: Trening for skuddhastighet i vannpolo; idrett, ikke tiltaket
+- Impact Of Training and Nutrition on Performance Determinants Among Short, Middle, and Long-Distance Runners: A Systematic Review (2026): sortert bort i grovsiktingen: Trening og ernæring for løpere; annet felt
+- Motivating Factors in Adult Education: A Systematic Literature Review (2026): sortert bort i grovsiktingen: motivasjon i voksenopplæring, ingen effektmål
+- Acceptance and Use of Automated Learning Platforms in Adult Education Within the Private Security Training Industry (2026): sortert bort i grovsiktingen: Automatiske læringsplattformer i sikkerhetsbransjen, teknologi uten effektmål
+- Aprender celebrando: revisión sistemática sobre el potencial educativo de festivales en la educación de personas adultas y comunitaria (2026): sortert bort i grovsiktingen: Festivaler i voksenopplæring, ikke utfall
+- Andragogiske prinsipper i etter- og videreutdanning for yrkesaktive lærere: Et scoping review av skandinavisk forskning (2026): sortert bort i grovsiktingen: Andragogiske prinsipper i EVU for lærere; pedagogisk, ingen effekt
+- Hva kjennetegner forskning om mikrolæring i kunnskapsbaserte arbeidskontekster i årene 2015–2025? (Scoping review) (2026): sortert bort i grovsiktingen: Mikrolæring i bedrift, ingen offentlig finansiering eller utfall
+- Pedagogiske tilnærminger i møte flyktninger som har traumeerfaringer – en litteraturstudie. (2026): sortert bort i grovsiktingen: Pedagogikk for traumatiserte flyktninger, ingen effekt
+- Mer enn teknologi: Samspillet mellom relasjonell og digital kompetanse som grunnlag for digital innovasjon i offentlig sektor – en systematisk litteraturgjennomgang (2026): sortert bort i grovsiktingen: Kompetanse og digital innovasjon i offentlig sektor, ikke opplæringstiltak
+- Synsvansker etter hjerneslag med vekt på kartlegging av synsfunksjon og lesevansker – en paraplyoversikt (2026): sortert bort i grovsiktingen: Synsvansker etter hjerneslag; ikke tiltak
+- A systematic Review of Studies on Adult Reading Practices, Interests, Habits and Challenges (2026): sortert bort i grovsiktingen: Lesevaner hos voksne, ikke tiltak med effekt
+- A decade of educational research with the German National Educational Panel Study: A systematic review (2026): sortert bort i grovsiktingen: bibliometrisk oversikt over NEPS, annet felt
+- A Systematic Scoping Review of Community College Literature: 2000–2019 (2026): sortert bort i grovsiktingen: Systematisk kartlegging av community college-litteratur, ingen effekt
+- Adolescent mothers’ second chance education: A systematic review of school re-entry and continuation policies in sub-Saharan Africa (2026): barn, ungdom eller ordinær utdanning, ikke voksne 25–64: unge mødre, Afrika
+- Exploring Vocational Training Interventions for Adults With Autism Spectrum Disorders: A Scoping Review (2026): annet felt: yrkesopplæring for voksne med autisme
+- The impact of active labour market programmes on youth: a systematic review and meta-analysis of impact evaluations, 1990–2022 (2026): barn, ungdom eller ordinær utdanning, ikke voksne 25–64: arbeidsmarkedstiltak for ungdom
+- Adult Education As A Pathway For Poverty Reduction: A Systematic Review Of Evidence From Sub-Saharan Africa (2010-2024) (2026): land utenfor OECD: voksenopplæring og fattigdom i Afrika sør for Sahara
+- Lifelong Learning for Prison Populations: Impact on Recidivism and Employment (2026): annet felt: opplæring i fengsel og tilbakefall, utenfor målgruppen
+- Technology-based early warning and at-risk learner detection in adult, nonformal, and second-chance education: A systematic review protocol (2026): annet felt: varslingssystemer for frafall i voksenopplæring, protokoll
+- Impact of technological drivers on job transformation with implications for reskilling and upskilling (2026): bedriftsfinansiert opplæring uten offentlig støtte: teknologi og jobbendring
+- The legal governance of AI upskilling and reskilling: towards a new employer duty (2026): annet felt: juridisk analyse av arbeidsgivers plikt til KI-opplæring
+- Future Workforce Readiness: The Role of Upskilling and Reskilling in Enhancing Employee Performance (2026): bedriftsfinansiert opplæring uten offentlig støtte: oppkvalifisering og ansattes ytelse
+- Vocational Re-training in the Green Economy: Outcomes for Displaced Workers (2026): annet felt: omskolering til grønn økonomi, preprint uten tydelig effektmål
+- The Convergence of Vet and Adult Education: A Systematic Review of Principles, Challenges, and Strategies for Lifelong Learning (2026): bare tittel, ser ikke ut til å gjelde tiltakene
+- The Role of Adult Education in Promoting Active Citizenship and Democracy (2026): annet felt: voksenopplæring og aktivt medborgerskap
+- Transformative Learning Theory in Adult Education: Case Studies of Career Shifts (2026): annet felt: transformativ læringsteori, karriereskifter, kasusstudier
+- TRENDS IN ADULT EDUCATION RESEARCH IN TURKIYE: A DESCRIPTIVE SYSTEMATIC MAPPING REVIEW OF GRADUATE THESES (2023–2026) (2026): annet felt: avhandlinger om voksenopplæring i Tyrkia
+- Private University Education and Return on Investment: A Comparative Global Analysis with Evidence from Greece and Cyprus (2026): barn, ungdom eller ordinær utdanning, ikke voksne 25–64: avkastning av privat universitetsutdanning
+- Aligning education with labour market needs: a scoping review of strategies to address the employment skills gap (2026): ikke et av tiltakene: tilpasning av høyere utdanning til arbeidsmarkedet, scoping review
+- Correctional Education and Certification in the U.S.: Employer Recognition and Post-Release Labor Market Outcomes - A Scoping Review (2026): annet felt: fengselsopplæring og tilbakefall
+- AI-induced Deskilling in Medicine: A Mixed-Method Review and Research Agenda for Healthcare and Beyond (2025): sortert bort i grovsiktingen: KI og kompetansetap i medisin, annet felt
+- Health workers’ adoption of digital health technology in low- and middle-income countries: a systematic review and meta-analysis (2025): sortert bort i grovsiktingen: Digital helseteknologi for helsepersonell; ikke relevant
+- A Systematic Review of the Effects of Gamification in Online Learning Environments on Learning Outcomes (2025): sortert bort i grovsiktingen: Gamification i nettundervisning
+- Self‐directed learning—a framework for inclusion ‘In’ and ‘Through’ Education – A systematic review (2025): sortert bort i grovsiktingen: Selvstyrt læring og inkludering i skole; annet felt
+- Workplace Mistreatment: A Systematic Review of Interventions and Future Research Agenda (2025): sortert bort i grovsiktingen: Mishandling på arbeidsplassen, ikke tiltak
+- Measuring what matters: a systematic review and VOSviewer-based bibliometric approach to digital literacy assessment instruments, competency dimensions and challenges in education (2025): sortert bort i grovsiktingen: Digital kompetanse, måleinstrumenter; annet felt
+- Impact of Training Interventions on Physical Fitness in Children and Adolescent Handball Players: A Systematic Review and Meta-Analysis (2025): sortert bort i grovsiktingen: Idrettstrening; ikke relevant
+- Level of awareness and knowledge of procurement practitioners on green public procurement: a systematic review (2025): sortert bort i grovsiktingen: Grønne innkjøp, ikke tiltak
+- Immersive training programs for schoolchildren: a systematic review (2025): sortert bort i grovsiktingen: Immersiv opplæring for skolebarn; ikke voksne
+- Systematic review on health literacy through game-based educational interventions in older adults (2025): sortert bort i grovsiktingen: Helseforståelse hos eldre, annet felt
+- Gamification in Online Adult Learning: A Systematic Literature Review (2025): sortert bort i grovsiktingen: Gamifisering, metodeoversikt
+- Recognition of Prior Learning (RPL) from Posthumanist Perspective: A Higher Education Reconceptualization (2025): sortert bort i grovsiktingen: Konseptuell RPL-drøfting
+- Components of the Empowerment of Volunteers Providing Nursing Services During Disasters: A Systematic Review (2025): sortert bort i grovsiktingen: Frivillige i katastrofesykepleie, annet felt
+- Trend Penelitian Literasi Matematika Tahun 2014-2024 : Penelitian Systematic Literature Review (SLR) (2025): sortert bort i grovsiktingen: Matematikkliteracy i skole
+- Geriatric care knowledge and its determinants in Africa: a systematic review and meta-analysis (2025): sortert bort i grovsiktingen: Geriatrisk kunnskap hos helsepersonell; annet tema
+- A Systematic Review of Supervisor Phubbing: Current Knowledge and Research Gaps (2025): sortert bort i grovsiktingen: Telefonbruk blant veiledere, annet felt
+- Enhancing Nursing Documentation Through Incident Reporting and Safety Training: A Systematic Review (2025): sortert bort i grovsiktingen: Journalføring i sykepleie
+- The Effect of Artificial Intelligence on Student Confidence in Online Adult Learning: A Meta-Analysis and Systematic Review (2025): sortert bort i grovsiktingen: KI og selvtillit i nettbasert voksenlæring, ikke utfall
+- Does Rural Household Electrification Improve Education in the Global South? Evidence from a Robust Bayesian Meta-Analysis (2025): sortert bort i grovsiktingen: Elektrifisering
+- Numeracy research trends in the last decade: A systematic literature review for better mathematics education (2025): sortert bort i grovsiktingen: Numeracy-metodeoversikt
+- What is Critical About a Critical Review? A Methodological Reflection on Conducting 20 Research Syntheses in Digital Education (2025): sortert bort i grovsiktingen: Metodologi
+- Dynamics of motivation of older adults in training programmes: A systematic review (2025): sortert bort i grovsiktingen: Motivasjon hos eldre i opplæring; uten effektmål
+- Peer Review Report For: The effects of emotional intelligence training programs on educators: a systematic review [version 1; peer review: 2 approved] (2025): sortert bort i grovsiktingen: Metodeanmeldelse om emosjonell intelligens
+- Systematic Review of Risk Identification and Injury Prevention Strategies in Sports Activities (2025): sortert bort i grovsiktingen: Systematisk oversikt over idrettsskader, annet felt
+- Strengths-based student guidance in school-related contexts:a systematic review (2025): sortert bort i grovsiktingen: Styrkebasert veiledning i skole; annet felt
+- Lesemotivasjon i tidlig skolealder: En litteraturgjennomgang av faktorer som fremmer 8 – 10 åringers motivasjon for lesing (2025): sortert bort i grovsiktingen: Lesemotivasjon for barn 8-10 år
+- Skills and Earnings: A Multidimensional Perspective on Human Capital (2025): sortert bort i grovsiktingen: Ferdigheter og lønn, ikke tiltak
+- A Structural Meta-Analysis of Welfare Reform Experiments and Their Impacts on Children (2025): sortert bort i grovsiktingen: Velferdsreform og barn; ikke tiltak for voksne
+- Lifelong learning as a research topic in European journals: Prevalence, subjects, and types of research (2025): sortert bort i grovsiktingen: Litteraturoversikt over forskning om livslang læring, ingen effektmål.
+- Early Literacy and Numeracy in Early Childhood: A Systematic Literature Review of Research Trends and Practices (2025): sortert bort i grovsiktingen: Tidlig lese- og regneopplæring for barn
+- Workplace training transfer: a systematic scoping review of evaluation tools for adult learning (2025): sortert bort i grovsiktingen: Metodisk oversikt over evalueringsverktøy for overføring.
+- Reskilling and Upskilling: Survival Strategies Amid Global Competency Shifts (2025): politikkbeskrivelse uten evaluering: omskolering og oppkvalifisering, kvalitativ gjennomgang
+- Digital Literacy-Responsive Adult Education in Tanzania: A Systematic Literature Review (2025): land utenfor OECD: digital kompetanse i voksenopplæring i Tanzania
+- Upskilling Older Employees in the Artificial Intelligence Era (2025): annet felt: KI og kompetanseheving for eldre ansatte, litteraturgjennomgang
+- A Meta-Analytic Study on Evolving Skillsets and the Upskilling and Reskilling in Industry 4.0 (2025): bedriftsfinansiert opplæring uten offentlig støtte: kompetansebehov i industri 4.0
+- Self-Directed Learning in Indonesian Adult Education: A Systematic Review for Promoting Inclusive Quality Education (2025): land utenfor OECD: selvstyrt læring i Indonesia
+- Qualitative Study on Integration of Information and Communication Technology Tools for Adult Education Programmes in Nigeria: A Systematic Review (2025): land utenfor OECD: IKT i voksenopplæring i Nigeria
+- Promotion of a Rights Culture, Equitable Distribution of Resources and Power within Families, Communities and State: Crucial Roles of Adult Education and Learning (2025): land utenfor OECD: voksenopplæring og rettighetskultur i Nigeria
+- A meta-analysis of effects of vocational skills training on future earnings for unemployed youth (2025): barn, ungdom eller ordinær utdanning, ikke voksne 25–64: arbeidsledige unge
+- A critical literature review of social mobility in Britain’s Further Education sector (2025): annet felt: sosial mobilitet og Further Education i Storbritannia
+- Impact of Community College Pathways on Social Mobility in the United State (2025): barn, ungdom eller ordinær utdanning, ikke voksne 25–64
+- Literature Review (2025): annet felt: avkastning av yrkesrettet attføring (VR) i USA
+- THEMES AND POTENTIAL GAPS IN RESEARCH ON VOCATIONAL EDUCATION AND UNIVERSITIES OF APPLIED SCIENCES IN FINLAND: A SCOPING REVIEW OF STUDIES PUBLISHED IN 2020–2022 (2025): annet: kartlegging av forskningstemaer i Finland, ikke effektoversikt
+- Bolstering health systems to cope with the impacts of climate change events: A review of the evidence on workforce planning, upskilling, and capacity building (2024): sortert bort i grovsiktingen: Helsepersonell og klima, annet felt
+- Equipping educators for learning support: A systematic review (2024): sortert bort i grovsiktingen: Læringsstøtte for lærere; ikke relevant
+- AI-Integrated AR as an Intelligent Companion for Industrial Workers: A Systematic Review (2024): sortert bort i grovsiktingen: AR og AI for industriarbeidere; annet felt
+- The antecedents and consequences of university brand: a systematic review (2024): sortert bort i grovsiktingen: Universitetsmerkevarer; annet felt
+- Consumer education strategies for overcoming prefabricated housing challenges in China: a systematic review (2024): sortert bort i grovsiktingen: Forbrukeropplæring for prefabrikkerte boliger; annet felt
+- A Systematic Review of Microaggression-Focused Interventions and Training Programs in Healthcare (2024): sortert bort i grovsiktingen: Mikroaggresjon i helsevesenet; ikke relevant
+- Biomechanical Determinants Influencing Smash Performance in Racket Sports from 2000 to 2024: A Systematic Review and Meta-Analysis (2024): sortert bort i grovsiktingen: smash i racketsport, annet felt
+- Systematic Review of the Application Challenges of Virtual Reality for Facilities Management in the South African Construction Industry (2024): sortert bort i grovsiktingen: VR i eiendomsforvaltning
+- Effect of exercise training on physical and technical performance among athletes: a systematic review with mata-analysis (2024): sortert bort i grovsiktingen: Idrettstrening, ikke tiltak
+- Factors Affecting Diasporic Women’s Quality of Life: A Systematic Review (2024): sortert bort i grovsiktingen: livskvalitet blant migrantkvinner; annet felt
+- Crafting personalized learning paths with AI for lifelong learning: a systematic literature review (2024): sortert bort i grovsiktingen: AI og livslang læring; annet felt
+- Student Employment and Education: A Meta-Analysis (2024): sortert bort i grovsiktingen: Studentarbeid og utdanning; ikke opplæringstiltak.
+- Nudging for Tax Compliance: A Meta-Analysis (2024): sortert bort i grovsiktingen: Skattemoral og nudging; ikke tiltaket.
+- The effects of board gender quotas: A meta-analysis (2024): sortert bort i grovsiktingen: Kjønnskvoter i styrer, ikke tiltak
+- Exploring the Factors of Firm-Provided Continuing Education and Training: A Systematic Literature Review (2024): sortert bort i grovsiktingen: bedriftsfinansiert videreutdanning, holdninger
+- Digital Transformation: A Systematic Review of Its Relationship with Model-Based Systems Engineering and Andragogy to Support Training (2024): sortert bort i grovsiktingen: Opplæring i ingeniørverktøy, ikke tiltak
+- Disemployment Effects of Unemployment Insurance: A Meta-Analysis (2024): sortert bort i grovsiktingen: Permittering og ledighetstrygd, ikke opplæring
+- The Impact of Career Education on Students' Labour Market Perceptions (2024): sortert bort i grovsiktingen: karriereutdanning, oppfatninger
+- Self-regulated learning strategies in continuing education: A systematic review and meta-analysis (2024): deltakelse, holdninger eller erfaringer uten effektmål (selvregulert læring)
+- Advancing Lifelong Learning in the Digital Age: A Narrative Review of Singapore’s SkillsFuture Programme (2024): land utenfor OECD; politikkbeskrivelse av Singapores SkillsFuture
+- Adult education in mathematics and numeracy: a scoping review of recent research (2024): ingen effektmål: kartlegger forskningstrender i voksnes tallforståelse
+- Employment Effects of Skills Trainings in Sub-Saharan Africa: A Systematic Review of Recent Randomized Controlled Trials (2024): land utenfor OECD: ferdighetsopplæring i Afrika sør for Sahara
+- Reskilling and Upskilling Digital Competencies: A Systematic Review for Financial Sector Employee’s’ Development (2024): annet felt: digitale kompetanser i finanssektoren
+- Upskilling and Reskilling in Improving Competence of Competitive Human Resources in the Era of Digital Economy (2024): politikkbeskrivelse uten evaluering: oppkvalifisering i små og mellomstore bedrifter, kvalitativ
+- Bridging the Gap in Lifelong Learning: Policy, Technology, and Access (2024): politikkbeskrivelse uten evaluering: livslang læring globalt, narrativ oversikt
+- Innovative Approaches in Education: A Systematic Literature Review on Computer-Supported Collaborative Activities and Digital Inclusion for Youth and Adult Education (2024): annet felt: digital inkludering i ungdoms- og voksenopplæring, pedagogikk
+- Transition from Sectors of Adult Education to Systems of Lifelong Learning in India’s context (2024): politikkbeskrivelse uten evaluering: voksenopplæring i India, land utenfor OECD
+- AI IN SKILLS GAP ANALYSIS AND UPSKILLING PROGRAMS (2024): annet felt: KI i kartlegging av kompetansegap
+- Mapping the Landscape of Continuing Professional Development: A Pilot Gap Map of Systematic Reviews (2024): annet felt: etterutdanning for helsepersonell, kartlegging av oversikter
+- Bibliographie sensible: Il était… temps (2024): annet felt: digital læring i voksenopplæring, bibliografi
+- Næringslivets kompetansebehov i et nytt paradigme: Er handelshøyskolene rustet for høy endringstakt i næringslivet? (2024): deltakelse, holdninger eller erfaringer uten effektmål: handelshøyskolenes tilbud og næringslivets kompetansebehov, ingen effektmål
+- Enhancing quality of life for older adults through university education: a scoping review (2024): annet felt: livslang læring og velvære blant eldre
+- TOWARDS THE EFFECTIVE PROFESSIONAL UPSKILLING OF LOW-SKILLED EMPLOYEES: KEY INFLUENCING FACTORS (2024): deltakelse, holdninger eller erfaringer uten effektmål: faktorer for opplæring av lavt kvalifiserte (systematisk oversikt)
+- Assessing the effects of population-level political, economic and social exposures, interventions and policies on inclusive economy outcomes for health equity in high-income countries: a systematic review of reviews (2024): annet felt: inkluderende økonomi og helseulikhet, oversikt over oversikter
+- Challenges and opportunities of micro-credentials as a new form of certification in health science education—a discussion paper (2024): politikkbeskrivelse uten evaluering
+- The impact of artificial intelligence (AI) on employees’ skills and well-being in global labor markets: A systematic review (2023): sortert bort i grovsiktingen: KI og ansattes kompetanse; ikke tiltak
+- Technology and jobs: A systematic literature review (2023): sortert bort i grovsiktingen: Teknologi og sysselsetting, ikke tiltaket
+- Linking gender differences with gender equality: A systematic-narrative literature review of basic skills and personality (2023): sortert bort i grovsiktingen: Kjønnsforskjeller i basisferdigheter og likestilling; ikke tiltaket
+- Media Competence in the Curriculum from Latin American Countries: A Systematic Review (2023): sortert bort i grovsiktingen: Medieforståelse i læreplaner i Latin-Amerika; annet felt
+- Vaccine cold chain management practice and associated factors among health professionals in Ethiopia: systematic review and meta-analysis (2023): sortert bort i grovsiktingen: annet felt: kuldekjede for vaksiner
+- Health professionals’ knowledge on vaccine cold chain management and associated factors in Ethiopia: Systematic review and meta-analysis (2023): sortert bort i grovsiktingen: Vaksinekjede, annet felt
+- Bioterrorism-Related Training Programs for Healthcare Workers: A Systematic Review (2023): sortert bort i grovsiktingen: Opplæring av helsepersonell om bioterror, annet felt
+- RETRACTED: Effectiveness of educational and training intervention for improving hand hygiene compliance amongst nurses: a systematic review and meta-analysis of randomised controlled trials (2023): sortert bort i grovsiktingen: Medisinsk studie om håndhygiene
+- SOCIAL INVESTMENT IN THE CONTEXT OF THE COVID-19 PANDEMIC: THE CASE OF LITHUANIA (2023): sortert bort i grovsiktingen: Sosialpolitikk, Litauen
+- A Systematic Review of Caribbean Digital Serious Games for Education (2023): sortert bort i grovsiktingen: Alvorlige spill i Karibia; annet felt
+- High-intensity interval training programs and their impact on endurance performance in handball players: A systematic review (2023): sortert bort i grovsiktingen: Intervalltrening i håndball; ikke relevant
+- Adult Education: A Systematic Review (2023): sortert bort i grovsiktingen: Systematisk oversikt over avhandlinger
+- Influenter - når mennesker er medier (2023): sortert bort i grovsiktingen: Influensere og kommunikasjon, annet felt
+- Litteraturundervisning i voksenopplæringen: ​En studie av hvordan erfaringsbaserte innganger til skjønnlitterære tekster kan virke engasjerende (2023): sortert bort i grovsiktingen: Litteraturundervisning for innvandrere, ikke arbeidsrettet, ingen effekt
+- Litteraturundervisning i voksenopplæringen: En studie av hvordan erfaringsbaserte innganger til skjønnlitterære tekster kan virke engasjerende (2023): sortert bort i grovsiktingen: Litteraturundervisning for innvandrere
+- Unlocking Economic Prosperity: Career Navigation in a Time of Rapid Change (2023): sortert bort i grovsiktingen: Karriereveiledning; ikke opplæring
+- Mental health and unemployment: A systematic review and meta-analysis of interventions to improve depression and anxiety outcomes (2023): sortert bort i grovsiktingen: Psykisk helse-intervensjoner for ledige; ikke opplæring
+- Systematic review of Indigenous cultural safety training interventions for healthcare professionals in Australia, Canada, New Zealand and the United States (2023): annet felt: kulturell trygghetsopplæring for helsepersonell
+- The Community College Role in Economic Development: A Concept Model (2023): ikke et av tiltakene: lokal næringsutvikling og community colleges, begrepsmodell
+- A Systematic Review on Recommendation Systems Developed for the Field of Adult Education (2023): annet felt: anbefalingssystemer i voksenopplæring
+- A Literature Review of Adult Education Research (2023): politikkbeskrivelse uten evaluering: forskning om voksenopplæring i Kina
+- Why Should we Integrate Income and Employment Support? A Conceptual and Empirical Investigation (2023): land utenfor OECD: integrert inntekts- og sysselsettingsstøtte i lav- og mellominntektsland
+- A descriptive literature review of Recognition of Prior Learning for vocational learners in emergency medical care in South Africa (2023): land utenfor OECD: realkompetanse for nødhjelpspersonell i Sør-Afrika
+- State Policy and Immigrant Integration (2023): annet felt: innvandringspolitikk og integrering
+- The Effectiveness of Management Training Programs: A Meta-Analytic Review (2023): annet felt: ledelsesopplæring i bedrifter, metaanalyse
+- We Had a Good Thing Going: The Rise, Fall, and Future of Vocational ESL in the United States (2023): politikkbeskrivelse uten evaluering
+- The Effectiveness of Vocational Training Programs on Employment Outcomes (2023): generell litteraturgjennomgang av yrkesopplæring, ikke avgrenset til voksne eller offentlige ordninger
+- The Effects of Training Interventions on Interlimb Asymmetries: A Systematic Review With Meta-analysis (2022): sortert bort i grovsiktingen: Treningsintervensjoner for idrett; annet felt
+- Physical fitness and stroke performance in healthy tennis players with different competition levels: A systematic review and meta-analysis (2022): sortert bort i grovsiktingen: Fysisk form og slagytelse i tennis; annet felt
+- Expanding the Focus of Occupational Safety and Health: Lessons from a Series of Linked Scientific Meetings (2022): sortert bort i grovsiktingen: Arbeidsmiljø, annet felt
+- A systematic review of gamification in organizational learning (2022): sortert bort i grovsiktingen: Gamification i organisasjoner; annet felt
+- A systematic review of frailty education programs for health care professionals (2022): sortert bort i grovsiktingen: Opplæring i skrøpelighet for helsepersonell
+- Individual and institutional capacity-building for evidence-informed health policy-making in Iran: a mix of local and global evidence (2022): sortert bort i grovsiktingen: Kapasitetsbygging for helsepolitikk i Iran; annet felt
+- What do we know about blended learning to inform police education? A rapid evidence assessment (2022): sortert bort i grovsiktingen: Blandet læring i politiutdanning; metode, ikke tiltaket
+- The Influence of Work Training on Employee Performance: Systematic Literature Review (2022): sortert bort i grovsiktingen: Bedriftsintern opplæring og ytelse, ingen offentlig finansiering
+- Qualitative Meta Analysis of Ssireum Class Experience (2022): sortert bort i grovsiktingen: Ssireum, annet felt
+- Effects of Training Programs on Movement Patterns Measured by the Functional Movement Screen in Youth Athlete：A Protocol for Systematic Review (2022): sortert bort i grovsiktingen: Bevegelsestrening for ungdomsidrettsutøvere
+- Exergaming Training Experience for Children: A Systematic Review of Qualitative Assessments With Meta-Synthesis (2022): sortert bort i grovsiktingen: Exergaming for barn; annet felt
+- I hvilken grad anvendes helhetlige og systematiske risikovurderinger i kriminalomsorgen og hvordan kan risikovurdering forbedres i etaten? (2022): sortert bort i grovsiktingen: Kriminalomsorg
+- Ledarskap som främjar medarbetares lärande i arbetet : en systematisk kunskapsöversikt om lärandeorienterat ledarskap (2022): sortert bort i grovsiktingen: Ledelse som fremmer læring i arbeid; ikke et tiltak for voksne
+- The Impact of Gender Differences on Lifelong Learning Tendencies in Turkey: A Meta-Analysis (2022): sortert bort i grovsiktingen: Metaanalyse av holdninger til livslang læring
+- The Impacts of Benefit Sanctions: A Scoping Review of the Quantitative Research Evidence (2022): sortert bort i grovsiktingen: sanksjoner, ikke opplæring
+- Reconsidering macroeconomic policy prescriptions with meta-analysis (2022): sortert bort i grovsiktingen: Metaanalyse av makropolitikk, annet felt.
+- Are temporary jobs stepping stones or dead ends? A systematic review of the literature (2022): sortert bort i grovsiktingen: Midlertidige jobber som springbrett, ikke opplæringstiltak.
+- When Does Monetary Policy Sway House Prices? A Meta-Analysis (2022): sortert bort i grovsiktingen: Pengepolitikk og boligpriser, annet tema
+- Impact of social protection on gender equality in low- and middle-income countries: A systematic review of reviews (2022): sortert bort i grovsiktingen: Sosial beskyttelse og likestilling; ikke opplæring
+- A Decade of Global Prior Learning Assessment: A Systematic Literature Review (2022): tematisk litteraturoversikt om realkompetanse (PLA), uten effektmål på sysselsetting eller lønn
+- Why should we integrate income and employment support? a conceptual and empirical investigation (2022): ikke et av tiltakene: integrasjon av inntekts- og jobbstøtte
+- Labour market policies for inclusiveness: a literature review with a gap analysis (2022): ikke et av tiltakene: oversikt over skatte- og overføringsordninger, ikke opplæring
+- Mastering the transition: A synthetic literature review of trade adaptation policies (2022): annet felt: tilpasningspolitikk ved handelsåpning
+- Meta-Analysis (2022): metodelitteratur, ikke en studie av tiltaket: metaanalyse, bare tittel
+- Individualising processes in adult education research: a literature review (2022): politikkbeskrivelse uten evaluering: individualisering i voksenopplæring, litteraturgjennomgang
+- Young people’s participation experiences of technical and vocational education and training interventions in low- and middle-income countries: a systematic review of qualitative evidence (2022): land utenfor OECD
+- Training-Induced Neural Plasticity in Youth: A Systematic Review of Structural and Functional MRI Studies (2021): sortert bort i grovsiktingen: Hjerneplastisitet hos unge
+- Evidence Aggregation for Treatment Choice (2021): sortert bort i grovsiktingen: Aggregering av evidens, metode
+- Training programmes to learn how to ride a bicycle independently for children and youths: a systematic review (2021): sortert bort i grovsiktingen: sykkelopplæring for barn
+- A review of the literature on vocational training interventions with individuals with autism spectrum disorder (2021): sortert bort i grovsiktingen: Ferdighetsopplæring for autisme
+- Identifying and Prioritizing the Factors Affecting on the Human Errors and Ways to Reduce it in Oil and GasIndustry: Systematic Review (2021): sortert bort i grovsiktingen: Menneskelige feil i olje og gass, annet felt
+- A SYSTEMATIC REVIEW AND REFLECTION ON THE DIMENSIONS OF DIVERSITY REPRESENTED IN BEHAVIOR ANALYTIC RESEARCH (2021): sortert bort i grovsiktingen: Mangfold i atferdsanalyse; ikke relevant
+- Are Temporary Jobs Stepping Stones or Dead Ends? A Meta-Analytical Review of the Literature (2021): sortert bort i grovsiktingen: Midlertidige jobber, ikke opplæring
+- Meta-analyzing logistic regression slopes: A partial effect size for categorical outcomes (2021): sortert bort i grovsiktingen: metodelitteratur for metaanalyse
+- A review on the elasticity of unemployment duration to the potential duration of unemployment benefits (2021): sortert bort i grovsiktingen: Elastisitet for dagpengevarighet; ikke opplæring
+- PROTOCOL: Impact of social protection on gender equality in low- and middle-income countries: A systematic review of reviews (2021): sortert bort i grovsiktingen: Protokoll om sosialtrygd og kjønn, ikke opplæring
+- Training opportunities of artificial intelligence (AI) in radiology: a systematic review (2021): annet felt: KI-opplæring for radiologer
+- A Meta-Analysis of Video Modeling Interventions to Enhance Job Skills of Autistic Adolescents and Adults (2021): annet felt: videomodellering for autistiske, jobbferdigheter
+- Vocational Training in Virtual Environments for People With Neurodevelopmental Disorders: A Systematic Review (2021): annet felt: yrkesopplæring i virtuelle miljøer, nevroutviklingsforstyrrelser
+- Evidence-based job retention interventions for people with disabilities: A narrative literature review (2021): annet felt: jobbfastholdelse for personer med funksjonsnedsettelse
+- Foster employability and fight social exclusion through the development of lifelong learning (LLL) key-competences: reviewing twenty years of LLL policies (2021): barn, ungdom eller ordinær utdanning, ikke voksne 25–64
+- COVID-19 as a Catalyst for Digital Lifelong Learning and Reskilling (2021): annet felt: koronapandemien og digital livslang læring
+- What Is the Future of Adult Training?—A Systematic Literature Review (2021): annet felt: framtidens voksenopplæring, digitalisering, ikke effektmål
+- The PRISMA 2020 statement: an updated guideline for reporting systematic reviews (2021): metodelitteratur, ikke en studie av tiltaket
+- The Evolving Role of Community Colleges in Workforce Development (2021): politikkbeskrivelse uten evaluering
+- Mental health interventions and supports during COVID- 19 and other medical pandemics: A rapid systematic review of the evidence (2020): sortert bort i grovsiktingen: Mental helse under pandemi, annet felt
+- Preparing medical students for a pandemic: a systematic review of student disaster training programmes (2020): sortert bort i grovsiktingen: Pandemi-trening for medisinstudenter, annet
+- Lessons Learned From Implementation and Management of Skin Allograft Banking Programs in Low- and Middle-Income Countries: A Systematic Review (2020): sortert bort i grovsiktingen: Hudbanker
+- Systematic Review Training Model for Education Librarians: A Case Study (2020): sortert bort i grovsiktingen: Bibliotekarutdanning; annet felt
+- Applications of Trauma Informed Approaches in Vocational Education and Training (2020): sortert bort i grovsiktingen: Traumeinformert yrkesopplæring, metode
+- Educational initiatives and implementation of electroencephalography into the acute care environment: a protocol of a systematic review (2020): sortert bort i grovsiktingen: EEG-opplæring
+- Effects of training programs on decision-making in youth team sports players: A systematic review and meta-analysis (2020): sortert bort i grovsiktingen: Idrettsspillere, annet felt
+- Blended learning i de praktisk-musiske fag set gennem et systematisk litteratur-review (2020): sortert bort i grovsiktingen: Blended learning i praktisk-musiske fag, metode
+- Distributional Impacts of Carbon Pricing: A Meta-Analysis (2020): sortert bort i grovsiktingen: klimapolitikk, annet felt
+- Finer Student Engagement via Quality and Lifelong Learning for Sustainable Education (2020): sortert bort i grovsiktingen: Kvalitet i utdanningssektoren, ikke voksentiltak
+- Methodological Guidance Paper: The Art and Science of Quality Systematic Reviews (2020): sortert bort i grovsiktingen: Metodeveiledning for systematiske oversikter.
+- RCTs to Scale: Comprehensive Evidence from Two Nudge Units (2020): sortert bort i grovsiktingen: Nudge-tiltak, ikke opplæring
+- Nudging for Tax Compliance: A Meta-Analysis (2020): sortert bort i grovsiktingen: Skatteetterlevelse og nudging; annet felt
+- Evaluating meta-analytic methods to detect selective reporting in the presence of dependent effect sizes. (2020): sortert bort i grovsiktingen: Metode for å oppdage selektiv rapportering, ren metodelitteratur
+- The Effects of Technological Developments on Work and Their Implications for Continuous Vocational Education and Training: A Systematic Review (2020): annet felt: teknologi og arbeidsoppgaver, ikke effekt av opplæring
+- Lifelong learning in the informal economy: a literature review (2020): annet felt: livslang læring i uformell økonomi, utviklingsland
+- Multifaceted interventions for supporting community participation among adults with disabilities: A systematic review (2020): annet felt: deltakelse i samfunnet for voksne med funksjonsnedsettelse
+- Barriers to skills development in India’s informal economy (2020): land utenfor OECD: barrierer for ferdighetsutvikling i India
+- Contextualization Models for Community College Reading and Study Strategies: An Integrative Literature Review (2020): annet felt: kontekstualisert undervisning i lesing på community college
+- To, Through, and beyond Higher Education: A Literature Review of Multilingual Immigrant Students’ Community College Transitions (2020): deltakelse, holdninger eller erfaringer uten effektmål: flerspråklige innvandrerstudenter
+- Smart industry and the pathways to HRM 4.0: implications for SCM (2019): sortert bort i grovsiktingen: Industri 4.0 og HRM; annet felt
+- A Systematic Review of Police Recruit Training Programmes (2019): sortert bort i grovsiktingen: Politiopplæring, annet felt
+- The Role of Institutions in the Labor Market Impact of Immigration (2019): sortert bort i grovsiktingen: Immigrasjon og lønn, opplæring ikke tema
+- The use of systematic reviews of research in Adult Education: perspectives and trends (2019): sortert bort i grovsiktingen: Metodelitteratur om systematiske oversikter
+- Lokal arbetsmarknadspolitik med fokus på autonomi och delaktighet : Ett brukarperspektiv på Det stegvisa jobb- och kunskapslyftet (2019): sortert bort i grovsiktingen: Brukerperspektiv på lokal arbeidsmarkedspolitikk; erfaringer
+- Nudging for Tax Compliance: A Meta-Analysis (2019): sortert bort i grovsiktingen: Skatteetterlevelse og nudging; annet felt
+- Expanding Individual Placement and Support to Populations With Conditions and Disorders Other Than Serious Mental Illness (2019): sortert bort i grovsiktingen: Støtte til jobb for ulike diagnoser, ikke opplæring
+- Transformational Leadership and the Proliferation of Community College Leadership Frameworks: A Systematic Review of the Literature (2019): sortert bort i grovsiktingen: Community college-ledelse; ikke tiltaket
+- What works to reduce inequalities in higher education? A systematic review of the (quasi-)experimental literature on outreach and financial aid (2019): sortert bort i grovsiktingen: Tiltak for ungdom i høyere utdanning; ikke voksenopplæring
+- Evidence of Innovative Assessment : Literature Review and Case Studies (2019): sortert bort i grovsiktingen: Vurdering i utdanning, ikke voksen
+- Meta-Analysis of the New Keynesian Phillips Curve in Developed and Emerging Economies (2019): sortert bort i grovsiktingen: metaanalyse av Phillipskurven
+- Designing a Tool to Assess Professional Competences: Theoretical Foundations and Potential Applications (2019): sortert bort i grovsiktingen: Konseptuell metode for kompetansevurdering, ingen effekt
+- Inkludering som framgångsfaktor i vuxenutbildningen : En systematisk litteraturstudie (2019): deltakelse, holdninger eller erfaringer uten effektmål: inkludering i svensk voksenopplæring, ingen effektmål
+- NOU 2019: 12 (2019): politikkbeskrivelse uten evaluering: tariffavtaler og fond for etter- og videreutdanning i offentlig sektor
+- THE EFFECTS OF HUMAN CAPITAL INTERVENTIONS ON ENTREPRENEURIAL PERFORMANCE IN INDUSTRIALIZED COUNTRIES (2019): annet felt: entreprenørskap
+- The Effects of Grant Aid on Student Persistence and Degree Attainment: A Systematic Review and Meta-Analysis of the Causal Evidence (2019): barn, ungdom eller ordinær utdanning, ikke voksne 25–64
+- Understanding Variation in Estimates of Diversionary Effects of Community College Entrance: A Systematic Review and Meta-analysis (2019): barn, ungdom eller ordinær utdanning, ikke voksne 25–64: community college og bachelorgrad, metaanalyse
+- Changes to adult learning and education (ALE) policy environment in Finland, Korea and the United States: implications for addressing inequality in ALE participation (2019): politikkbeskrivelse uten evaluering: voksenopplæringspolitikk i Finland, Korea og USA
+- Road to resilience: a systematic review and meta-analysis of resilience training programmes and interventions (2018): sortert bort i grovsiktingen: Resiliens-trening, ikke tiltak
+- Motivational Interviewing Training of Substance Use Treatment Professionals: A Systematic Review (2018): sortert bort i grovsiktingen: Motiverende intervju for behandlere; ikke relevant
+- Teaching Strategies that Motivate English Language Adult Literacy Learners to Invest in their Education: A Literature Review (2018): sortert bort i grovsiktingen: Motivasjon og undervisningsstrategier; ingen effektmål
+- Evaluating Training Programs for Primary Care Providers in Child/Adolescent Mental Health in Canada: A Systematic Review. (2018): sortert bort i grovsiktingen: Helsepersonell, annet felt
+- The physiological responses of sport climbing: a systematic review (2018): sortert bort i grovsiktingen: Fysiologi i sportsklatring, annet felt
+- Iconographies supplémentaires de l'article : Should resistance training programs aimed at muscular hypertrophy be periodized? A systematic review of periodized versus non-periodized approaches (2018): sortert bort i grovsiktingen: Periodisering av styrketrening, annet felt
+- Do children benefit from universal early childhood education and care? A meta-analysis of evidence from natural experiments (2018): sortert bort i grovsiktingen: Tidlig barnehage; annet felt
+- Reducing unemployment benefit duration to increase job finding rates: a systematic review (2018): sortert bort i grovsiktingen: Dagpengevarighet, ikke opplæring
+- The Present and Future State of Blended Learning at Workplace-Learning Settings in Adult Education: A systematic review (2018): annet felt: blandet læring i arbeidsplassopplæring, ikke effekt på utfall
+- Integrated Youth Employment Programs : A Stocktake of Evidence on What Works in Youth Employment Programs (2018): barn, ungdom eller ordinær utdanning, ikke voksne 25–64: ungdomsprogrammer
+- Integrated Youth Employment Programs (2018): barn, ungdom eller ordinær utdanning, ikke voksne 25–64: ungdomsprogrammer
+- Active Labour Market Programmes in Latin America and the Caribbean: Evidence from a Meta-Analysis (2018): land utenfor OECD: arbeidsmarkedstiltak i Latin-Amerika, hovedsakelig ungdom
+- Good intentions and Matthew effects: access biases in participation in active labour market policies (2018): deltakelse, holdninger eller erfaringer uten effektmål: skjev tilgang til ALMP
+- Conceptual foundations for understanding inequality in participation in adult learning and education (ALE) for international comparisons (2018): deltakelse, holdninger eller erfaringer uten effektmål: ulikhet i voksenlæring
+- Noncredit Program Data Collection at Community Colleges: A Scoping Review (2018): annet felt: datainnsamling om noncredit-programmer ved community colleges
+- Does providing inmates with education improve postrelease outcomes? A meta-analysis of correctional education programs in the United States (2018): annet felt: kriminalomsorg og gjentakelse blant innsatte
+- Active Labour Market Programmes in Latin America and the Caribbean: Evidence from a Meta-Analysis (2018): land utenfor OECD: metaanalyse av arbeidsmarkedstiltak i Latin-Amerika og Karibia
+- Balance Training Programs in Athletes – A Systematic Review (2017): sortert bort i grovsiktingen: Balanseøvelser for idrettsutøvere
+- Intervention Strategies Used in Sport Injury Prevention Studies: A Systematic Review Identifying Studies Applying the Haddon Matrix (2017): sortert bort i grovsiktingen: Idrettsskadeforebygging, annet felt
+- Lifelong learning strategies in nursing: A systematic review (2017): sortert bort i grovsiktingen: Systematisk review om livslang læring for sykepleierstudenter; ikke tiltakseffekt
+- A Systematic Review of Influences on Development of Athletes With Disabilities (2017): sortert bort i grovsiktingen: Idrettsutøvere med funksjonsnedsettelse
+- Effects of linear and daily undulating periodized resistance training programs on measures of muscle hypertrophy: a systematic review and meta-analysis (2017): sortert bort i grovsiktingen: Treningsperiodisering og muskelvekst; ikke utdanning
+- Reskilling the manufacturing workforce and developing capabilities for the future (2017): sortert bort i grovsiktingen: Intervjustudie om kompetansegap; ingen effektmål
+- Attracting, Recruiting, and Retaining Qualified Faculty at Community Colleges in Sierra Leone. (2017): sortert bort i grovsiktingen: Lærerrekruttering ved community colleges i Sierra Leone; annet tema
+- In-house experiential education after the Greek crisis: recessionary effects on experiential learning design and implementation of an effective vocational training (2017): sortert bort i grovsiktingen: Bedriftsintern opplæring etter krisen i Hellas; bedriftsintern, ingen effektmål
+- Intertwining Retirement Education with Adult Education (2017): sortert bort i grovsiktingen: Pensjonsforberedelse for eldre; utenfor målgruppen
+- Exploring the role of ontological identity in the development of workplace literacy (2017): sortert bort i grovsiktingen: Identitet og arbeidsplasslitteracy; ingen effektmål
+- TRAINING PROGRAMMES TO IMPROVE EVIDENCE UTILISATION BY PHYSIOTHERAPISTS: A SCOPING REVIEW (2017): sortert bort i grovsiktingen: Opplæring av fysioterapeuter i kunnskapsbruk; annet felt
+- Evidence Review on Labour Market and Job Place Retention: Mentoring Pathways Towards Employment (2017): sortert bort i grovsiktingen: videregående for unge, ikke voksne
+- Managing Street-Level Arbitrariness: The Evidence Base for Public Sector Quality Improvement (2017): sortert bort i grovsiktingen: Byråkrati og kvalitet, ikke tiltak
+- A Systematic Review on the Effectiveness of Youth Entrepreneurship Programs (2017): sortert bort i grovsiktingen: Oversikt over ungdomsentreprenørskap, ikke tiltak
+- A systematic review of design factors to prevent attrition and dropout in e-Learning courses (2017): annet felt: frafall i e-læringskurs
+- Association Between Financial Conflicts of Interest, Reported Outcomes and Conclusions of Active Labour Market Programme Evaluations: A Meta-Analysis (2017): metodelitteratur, ikke en studie av tiltaket: økonomiske interessekonflikter i evalueringer
+- Initiatives to Combat the Labour Market Exclusion of Youth in Northern Europe: A Meta-analysis (2017): barn, ungdom eller ordinær utdanning, ikke voksne 25–64: unge utenfor arbeidslivet
+- Effekter av arbeidsmarkedspolitikk rettet mot ungdom i Nord-Europa – en meta-analyse (2017): barn, ungdom eller ordinær utdanning, ikke voksne 25–64: unge utenfor arbeidslivet
+- Gains for Illiterate Adult Learners from Lifelong Learning (2017): oversikt over gevinster av leseopplæring i utviklingsland (land utenfor OECD)
+- Vocational and business training to improve women's labour market outcomes in low- and middle-income countries: a systematic review (2017): land utenfor OECD
+- A Rapid Evidence Assessment of the effectiveness of prison education in reducing recidivism and increasing employment (2017): annet felt: fengselsopplæring og tilbakefall
+- Job burnout in mental health providers: A meta-analysis of 35 years of intervention research. (2016): sortert bort i grovsiktingen: Utbrenthet hos psykisk helsepersonell; annet felt
+- Health benefits of multicomponent training programmes in seniors: a systematic review (2016): sortert bort i grovsiktingen: Helseeffekt av trening for eldre, ikke tiltak
+- Training health professionals in shared decision making: Update of an international environmental scan (2016): sortert bort i grovsiktingen: Trening av helsepersonell i delt beslutning; annet felt
+- Parental involvement in music therapy: systematic review of the literature and insights into international training programmes (2016): sortert bort i grovsiktingen: Foreldre i musikkterapi; ikke voksenopplæring
+- Teaching Reading to ESL Adult Literacy Learners: The Development of an Instructor’s Handbook (2016): sortert bort i grovsiktingen: Lesing for ESL, håndbok
+- Helsepedagogisk kompetanse, læring og mestring (2016): sortert bort i grovsiktingen: helsepedagogisk kompetanse, annet felt
+- Inkludering av personer med Asperger syndrom i arbeidslivet : VRI-prosjekt med Spesialistbedriften (2016): sortert bort i grovsiktingen: Asperger i arbeidslivet, ikke opplæring
+- Can welfare and labour market regimes explain cross‐country differences in the unemployment of young people? (2016): sortert bort i grovsiktingen: Ungdomsarbeidsledighet og velferdsregimer, ikke voksentiltak
+- The Effects of Unemployment Insurance Benefits: New Evidence and Interpretation (2016): sortert bort i grovsiktingen: Effekter av dagpenger; ikke tiltak
+- Note-Taking Interventions for College Students: A Synthesis and Meta-Analysis of the Literature (2016): sortert bort i grovsiktingen: Notatteknikk for studenter
+- An overview of wetlands of Saudi Arabia: Values, threats, and perspectives (2016): sortert bort i grovsiktingen: Våtmarker, annet felt
+- Education for Incarcerated Juveniles: A Meta-Analysis (2016): sortert bort i grovsiktingen: Utdanning for innsatte ungdommer; ikke voksne
+- Youth gang membership and violence in low- and middle-income countries: A systematic review (Part I) (2016): sortert bort i grovsiktingen: Gjengkriminalitet; ikke relevant
+- Η συμβολή των μεταναστών στην ελληνική οικονομία: Mετά-ανάλυση των εμπειρικών ευρημάτων (2016): sortert bort i grovsiktingen: Innvandring og økonomi i Hellas
+- A Review about Functional Illiteracy: Definition, Cognitive, Linguistic, and Numerical Aspects (2016): annet felt: funksjonell analfabetisme, definisjon og kognitive aspekter
+- Paid educational leave and self-directed learning: Implications for legislation on the learning leave scheme in South Korea (2016): politikkbeskrivelse uten evaluering: betalt utdanningspermisjon i Sør-Korea, litteraturgjennomgang
+- How to motivate adults with low literacy and numeracy skills to engage and persist in learning: A literature review of policy interventions (2016): deltakelse, holdninger eller erfaringer uten effektmål: motivasjon og vedvarende deltakelse hos voksne med lave ferdigheter
+- Do Youth Employment Programs Improve Labor Market Outcomes? A Systematic Review (2016): barn, ungdom eller ordinær utdanning, ikke voksne 25–64: ungdomsprogrammer
+- Improving career prospects for the low-educated : the role of guidance and lifelong learning (2016): litteraturgjennomgang og intervjuer om motivasjon blant lavt utdannede, uten effektmål
+- What Works for Disconnected Young People: A Scan of the Evidence (2016): barn, ungdom eller ordinær utdanning, ikke voksne 25–64
+- A review of the effectiveness of active labour market programmes with a focus on Latin America and the Caribbean (2016): land utenfor OECD i fokus; globale tall gjenbruker en annen metaanalyse
+- Adolescent Health and Adult Education and Employment: A Systematic Review (2015): sortert bort i grovsiktingen: Helse i ungdom og senere utdanning; annet tema
+- A systematic review of training programmes for recruiters to randomised controlled trials (2015): sortert bort i grovsiktingen: Rekruttering til kliniske studier; annet felt
+- Energetics, Biomechanics, and Performance in Masters' Swimmers: A Systematic Review (2015): sortert bort i grovsiktingen: Masterssvømmere; annet felt
+- Training programmes and mealtime assistance may improve eating performance for elderly long-term care residents with dementia (2015): sortert bort i grovsiktingen: Måltider for demente, ikke tiltak
+- Adolescent chronic conditions and adult education and employment: A systematic review (2015): sortert bort i grovsiktingen: Helse og voksenutdanning for unge med kroniske lidelser
+- The Nuts and Bolts of Leadership Training: A Meta-Analysis (2015): sortert bort i grovsiktingen: Metaanalyse av lederopplæring i virksomheter; annet felt
+- Norske grammatikkarbeider med et andrespråksperspektiv – en oversikt (2015): sortert bort i grovsiktingen: Norsk grammatikk for andrespråkslærere; språkbeskrivelse, ikke tiltak
+- Do interventions targeted at micro-entrepreneurs and small and medium-sized firms create jobs? A systematic review of the evidence for low and middle income countries (2015): sortert bort i grovsiktingen: Næringsstøtte for småbedrifter; ikke opplæringstiltak.
+- Methods of Meta-Analysis: Correcting Error and Bias in Research Findings (2015): sortert bort i grovsiktingen: Metaanalysemetode, ren metodelitteratur
+- PROTOCOL: Reducing Unemployment Benefit Duration to Increase Job Finding Rates: Protocol for a Systematic Review (2015): sortert bort i grovsiktingen: Protokoll om dagpengevarighet, ikke opplæring
+- Identification of latest trends and current developments in methods to profile jobseekers in European public employment services : final report (2015): sortert bort i grovsiktingen: Metoder for profilering av arbeidssøkere
+- Evaluating What Works for Whom in Active Labour Market Policies (2015): metodelitteratur, ikke en studie av tiltaket: evalueringsdesign i aktiv arbeidsmarkedspolitikk
+- Comparison Analysis and Research on the Characteristics of Western Continuing Education and the Influence on the Current Chinese Continuing Education Pattern: A Technique Review (2015): politikkbeskrivelse uten evaluering: etterutdanning i Kina og Vesten
+- THE THREAT EFFECT OF ACTIVE LABOR MARKET PROGRAMS: A SYSTEMATIC REVIEW (2015): ikke et av tiltakene: trusseleffekt av arbeidsmarkedstiltak generelt, ikke opplæring
+- Is College a Worthwhile Investment? (2015): barn, ungdom eller ordinær utdanning, ikke voksne 25–64
+- Interventions to Improve the Economic Self-sufficiency and Well-being of Resettled Refugees: A Systematic Review (2015): ikke et av tiltakene: tiltak for bosatte flyktninger, ingen studier inkludert
+- Effekt av arbeidsmarkedstiltak på deltakelse i arbeidslivet for innvandrere (2015): ikke et av tiltakene: lønnstilskudd og arbeidspraksis for ledige innvandrere
+- Development of Clinical Practice Guidelines (2014): sortert bort i grovsiktingen: Kliniske retningslinjer for psykologer; annet felt
+- Reasons for Persistently High Maternal and Perinatal Mortalities in Ethiopia: Part II-Socio-Economic and Cultural Factors (2014): sortert bort i grovsiktingen: Mødredødelighet, annet felt
+- An Integrated Practical Evidence-Based Medicine Curriculum, Critical Appraisal: Systematic Reviews and Meta-analyses (2014): sortert bort i grovsiktingen: EBM-undervisning for leger; ikke relevant
+- A systematic review of the effects of preceptorship program on retention of new nurses (2014): sortert bort i grovsiktingen: Mentorordning for nyutdannede sykepleiere
+- På hvilken måte legger ledere i voksenopplæringen til rette for å fremme deltakernes utvikling og resultater?– en studie av skoleledere i lys av pedagogisk ledelse (2014): sortert bort i grovsiktingen: Ledelse i voksenopplæring, masteroppgave om erfaringer
+- Skills, education, and the rise of earnings inequality among the “other 99 percent” (2014): sortert bort i grovsiktingen: Utdanningspremie og ulikhet; ikke effekt av opplæring.
+- Unemployment Benefit Exhaustion: Incentive Effects on Job-Finding Rates (2014): sortert bort i grovsiktingen: Dagpengeuttak, ikke opplæring
+- Small sample adjustments for robust variance estimation with meta-regression. (2014): sortert bort i grovsiktingen: Metode: robust variansestimering
+- How can a deeper understanding of the professional situation of LLS teacher educators enhance their future support, professional development and working context? (2014): sortert bort i grovsiktingen: Lærerutdannere, ikke tiltak
+- Approaches to a Successful Adult Education Program. (2014): politikkbeskrivelse uten evaluering: tilbud i voksenopplæring i USA
+- Better targeting of farmers as a channel for poverty reduction: a systematic review of Farmer Field Schools targeting (2014): annet felt: landbruksopplæring for bønder i utviklingsland
+- Escaneo de Políticas y Meta-Análisis: Juventud y Políticas de Empleo en América Latina (Policy scan and meta-analysis: Youth and Employment policies in Latin America) (2014): land utenfor OECD: ungdom og sysselsettingspolitikk i Latin-Amerika
+- Evaluering av "Helhetlig, Prinsippstyrt, Metodisk Tilnærming" (HPMT) : en klynge-randomisert studie (2014): ikke et av tiltakene: oppfølgingsmetodikk for Nav-veiledere
+- PROTOCOL: Interventions to Improve Labour Market Outcomes of Youth: A Systematic Review of Active Labour Market Programmes (2014): barn, ungdom eller ordinær utdanning, ikke voksne 25–64: arbeidsmarkedstiltak for unge
+- Do Interventions Targeted at Micro-Entrepreneurs and Small and Medium-Sized Firms Create Jobs? A Systematic Review of the Evidence for Low and Middle Income Countries (2014): land utenfor OECD
+- Evidence-Based Psychosocial Treatments for Children and Adolescents with Attention-Deficit/Hyperactivity Disorder (2013): sortert bort i grovsiktingen: ADHD-behandling for barn; annet felt
+- Recognition of the health assistant as a delegated clinical role and their inclusion in models of care: a systematic review and meta-synthesis of qualitative evidence (2013): sortert bort i grovsiktingen: Helsemedhjelpere som rolle, annet felt
+- Developing mathematical giftedness within primary schools: A study of strategies for educating children who are gifted in mathematics (2013): sortert bort i grovsiktingen: Matematisk begavelse i barneskolen
+- Skolens rapporterte problemer. En deskriptiv analyse av problemhenvendelser til organisasjonen Ungdom mot Vold i perioden 2007-2011. (2013): sortert bort i grovsiktingen: Skoleproblemer for ungdom; ikke voksenopplæring
+- Scientific literature on welding apprentices and preventive medicine: An integrative literature review (2013): sortert bort i grovsiktingen: Helserisiko for sveisere; ikke effekt av opplæring
+- Entering a Program: Helping Students Make Academic and Career Decisions (2013): sortert bort i grovsiktingen: Rådgivning ved programvalg; litteraturgjennomgang uten effekt
+- Meta-regression approximations to reduce publication selection bias (2013): sortert bort i grovsiktingen: Metaregresjon om publiseringsskjevhet; metodelitteratur
+- Robust variance estimation with dependent effect sizes: practical considerations including a software tutorial in Stata and spss (2013): sortert bort i grovsiktingen: Metaanalyse; metodelitteratur
+- Determinants of the composition of the workforce in low skilled sectors of the UK economy : Lot 2 : Qualitative research - final report (2013): sortert bort i grovsiktingen: Sammensetning av arbeidskraft i UK, ikke opplæring
+- Does Training Affect Productivity of Employees? Two Methods of Meta-Analysis (2013): bedriftsfinansiert opplæring uten offentlig støtte, effekt på produktivitet
+- The Current Status and Challenges of the Human Resource Developments in Kosovo (2013): land utenfor OECD: menneskelig kapital i Kosovo
+- «Saman om» kompetanse og rekruttering – en kunnskapsstatus (2013): ikke et av tiltakene: kompetanse og rekruttering i kommuner, kunnskapsstatus uten effektmål
+- Technical and vocational education and training (TVET) for young people in low- and middle-income countries: a systematic review and meta-analysis (2013): land utenfor OECD
+- Technical and Vocational Education and Training (TVET) Interventions to Improve the Employability and Employment of Young People in Low- and Middle-Income Countries: A Systematic Review (2013): land utenfor OECD
+- Current Trends in Technical and Vocational Education Research: A Meta-Analysis (2013): metodelitteratur, ikke en studie av tiltaket: metaanalyse av forskningstrender i yrkesopplæring
+- Entrepreneurship Programs in Developing Countries: A Meta Regression Analysis (2013): land utenfor OECD
+- Evaluating the Effectiveness of Correctional Education: A Meta-Analysis of Programs That Provide Education to Incarcerated Adults (2013): annet felt: kriminalomsorg og gjentakelse blant innsatte
+- Increasing low income womens literacy skills for the workplace and beyond: A review of the literature (2013): litteraturoversikt om lese- og skriveopplæring for kvinner, uten effektmål
+- Longitudinal Interventions in Elite Swimming: A Systematic Review Based on Energetics, Biomechanics, and Performance (2012): sortert bort i grovsiktingen: Langsiktige intervensjoner i elitesvømming; annet felt
+- At Issue: Developmental Education, an Annotated Bibliography. (2012): sortert bort i grovsiktingen: Bibliografi om utviklingsundervisning; metodelitteratur
+- Transmission Lags of Monetary Policy: A Meta-Analysis (2012): sortert bort i grovsiktingen: Pengepolitikk; ikke relevant
+- Effects of NAFTA on US Employment and Policy Responses: A Product of the International Collaborative Initiative on Trade and Employment (ICITE) (2012): sortert bort i grovsiktingen: Handelspolitikk og sysselsetting
+- Heterogeneity in Human Capital Investments: High School Curriculum, College Major, and Careers (2012): sortert bort i grovsiktingen: Utdanningsvalg i videregående, ikke voksne
+- Meta-Regression Analysis in Economics and Business (2012): sortert bort i grovsiktingen: Metaregresjonsmetode, lærebok
+- Activation Work: Policy Programme Administration or Professional Service Provision? (2012): sortert bort i grovsiktingen: Aktiveringsarbeid i offentlige kontorer, ikke opplæring
+- Transition to College: Nonacademic Factors that Influence Persistence for Underprepared Community College Students (2012): sortert bort i grovsiktingen: Persistens i CC, ingen tiltakseffekt
+- Public-Private Partnerships (P3s) between Businesses and Adult Education Providers (2012): annet felt: offentlig-private partnerskap i voksenopplæring
+- The effects of working and learning in vocational education and training:a systematic review (2012): ikke et av tiltakene: lærlingordning for ungdom
+- Evaluation and impact of cardiotocography training programmes: a systematic review (2011): sortert bort i grovsiktingen: CTG-opplæring; ikke relevant
+- Orientation and mobility training for partially-sighted older adults using anidentification cane: a systematic review (2011): sortert bort i grovsiktingen: Mobilitetstrening for eldre; annet felt
+- Becoming an expert: a review of adult learning theory and implications for vocational training in ophthalmology (2011): sortert bort i grovsiktingen: Lege-ekspertise, teori
+- An introduction to systematic reviews and meta-analysis: A workshop report on promoting evidence based medical practice through capacity building in research synthesis (2011): sortert bort i grovsiktingen: Metodeworkshop for systematiske oversikter; metodelitteratur
+- Working to learn: the co-operative education program in an information systems business degree (2011): sortert bort i grovsiktingen: Samarbeidsutdanning i IT-grad, ikke voksenopplæring
+- Over-Qualified or Under-Skilled: A Review of Existing Literature (2011): sortert bort i grovsiktingen: Kompetansemismatch, ikke tiltak
+- Cochrane handbook for systematic reviews of interventions. Version 5.1.0 [updated March 2011]. The Cochrane Collaboration (2011): sortert bort i grovsiktingen: Metodehåndbok for systematiske oversikter
+- Redesigning Community Colleges for Completion: Lessons from Research on High-Performance Organizations (2011): sortert bort i grovsiktingen: Institusjonsreform for gjennomføring, ikke tiltakseffekt
+- Losing life and livelihood: A systematic review and meta-analysis of unemployment and all-cause mortality (2011): sortert bort i grovsiktingen: Arbeidsledighet og dødelighet, ikke tiltak
+- The Impact of Learning Disabilities on Adulthood: A Review of the Evidenced-Based Literature for Research and Practice in Adult Education (2011): annet felt: lærevansker hos voksne
+- Individual, Firm-specific and Regional Effects on Internal Employment Trajectories in Germany. With Special Focus on Education, Further Training and Skill Formation (2011): ikke et av tiltakene: interne karriereforløp i Tyskland, ingen opplæringseffekt
+- Continuing education in the health professions: a literature review pertinent to North America (2011): annet felt: etterutdanning i helseprofesjonene, 1960–70
+- Social and Economic Returns to College Education in the United States (2011): annet felt: avkastning av høyere utdanning
+- Keeping At-Risk Students in School: A Systematic Review of College Retention Programs (2011): barn, ungdom eller ordinær utdanning, ikke voksne 25–64
+- Social mobility: a literature review (2011): annet felt: sosial mobilitet, litteraturgjennomgang
+- Accelerating the Academic Achievement of Students Referred to Developmental Education (2011): barn, ungdom eller ordinær utdanning, ikke voksne 25–64
+- Facilitating Student Learning Through Contextualization (Assessment of Evidence Series) (2011): barn, ungdom eller ordinær utdanning, ikke voksne 25–64
+- Lærerne fornøyde med videreutdanning (2011): deltakelse, holdninger eller erfaringer uten effektmål: lærernes vurdering av videreutdanning
+- Education of Advanced Practice Nurses in Canada (2010): sortert bort i grovsiktingen: Avansert sykepleieutdanning; ikke tiltak
+- Exploring Writing In The Workplace: Implications For Human Resource Development (2010): sortert bort i grovsiktingen: skrivekompetanse, litteraturgjennomgang
+- För vuxna på vuxnas vis, men vart tar de vägen? Undersökning av studieavbrott från Omvårdnadsprogrammet på Komvux Söder (2010): sortert bort i grovsiktingen: Komvux-avbrudd; årsaker uten effekt
+- Effekt av tiltak for å forbedre kvaliteten på helsetjenester til etniske minoriteter: en systematisk oversikt over randomiserte kontrollerte forsøk (2010): sortert bort i grovsiktingen: Tiltak for etniske minoriteter i helsetjenester, annet felt
+- Readiness for lifelong learning of volunteers affiliated with a 4-H youth development program in the southern region of the United States (2010): sortert bort i grovsiktingen: Beredskap for livslang læring, ingen effekt
+- Robust variance estimation in meta‐regression with dependent effect size estimates (2010): sortert bort i grovsiktingen: Metode for varians i metaregresjon.
+- 21st-century competencies and their impact: an interdisciplinary literature review (2010): sortert bort i grovsiktingen: kompetanser for 2000-tallet, oversikt uten effektmål
+- Recruitment and Selection - the Great Neglected Topic (2010): sortert bort i grovsiktingen: Rekruttering og seleksjon, ikke tiltak
+- Key competences for lifelong learning: The case of prospective teachers (2010): sortert bort i grovsiktingen: Skala for læringskompetanse; ingen effektmål.
+- Low‐skilled workers and adult vocational skills‐upgrading strategies in Denmark and South Korea (2010): politikkbeskrivelse uten evaluering: oppkvalifisering av lavt utdannede i Danmark og Sør-Korea
+- A Review of the Research (2010): bare tittel, ser ikke ut til å gjelde tiltakene
+- Meta-Analysis of the Effectiveness of Four Adult Learning Methods and Strategies (2010): metodelitteratur, ikke en studie av tiltaket: pedagogiske metoder
+- The increased demand for adult education in the family (2009): sortert bort i grovsiktingen: Essay om voksenutdanning i familien, ingen effekt
+- Har opplæringstiltak i sykehjem betydning for pleie og omsorg i livets sluttfase? (2009): sortert bort i grovsiktingen: Opplæring av sykehjemsansatte i livets sluttfase; annet utfall
+- Kombinert læring. En evaluering av IKT-støttet undervisning i sykepleierutdanningen (2009): sortert bort i grovsiktingen: Sykepleie og IKT, annet felt
+- School Vouchers and Student Achievement: Recent Evidence and Remaining Questions (2009): sortert bort i grovsiktingen: Skolevouchers; grunnskole og videregående
+- What Is Retirement? A Review and Assessment of Alternative Concepts and Measures (2009): sortert bort i grovsiktingen: Begrep og måling av pensjonering.
+- Diet and acne: a review of the evidence (2009): sortert bort i grovsiktingen: Medisinsk, ikke relevant
+- Depression and anxiety in labor migrants and refugees – A systematic review and meta-analysis (2009): sortert bort i grovsiktingen: Depresjon hos arbeidsmigranter, ikke tiltaket.
+- Kompetanse - for hvem? (2009): ikke et av tiltakene: kompetanseutvikling for skoleeiere og lærere, evaluering av strategi
+- Promising Practices for Transitioning Students from Adult Education to Postsecondary Education: A Review of Literature with Implications for California Community College Practitioners. (2009): praksisorientert litteraturgjennomgang om overgang fra voksenopplæring til høyere utdanning, uten effektmål
+- Systematic Reviews of Research: Postsecondary Transitions. Identifying Effective Models and Practices. (2009): bare tittel, overganger etter videregående, ser ikke ut til å gjelde tiltakene
+- Contextualized Teaching & Learning: A Faculty Primer. A Review of Literature and Faculty Practices with Implications for California Community College Practitioners. (2009): barn, ungdom eller ordinær utdanning, ikke voksne 25–64
+- Cochrane Handbook for Systematic Reviews of Interventions Version 5.0.1. The Cochrane Collaboration (2008): sortert bort i grovsiktingen: Metodehåndbok for systematiske oversikter
+- Cochrane Handbook for Systematic Reviews of Interventions: Cochrane Book Series (2008): sortert bort i grovsiktingen: Ren metodelitteratur
+- Technology and Reading Performance in the Middle-School Grades: A Meta-Analysis with Recommendations for Policy and Practice (2008): sortert bort i grovsiktingen: Teknologi og lesing i skolen; ikke voksne
+- Adult education in Malta (2008): politikkbeskrivelse uten evaluering: voksenopplæring på Malta, bokomtale
+- Kompetansepolitikk for kunnskapsnasjonen (2008): politikkbeskrivelse uten evaluering: seminaroppsummering om kompetansepolitikk
+- Effekter av yrkesinriktad arbetsmarknadsutbildning för deltagare under perioden 2002-04 (2008): enkeltstudie av opplæring for ledige (tiltak 5 tas bare med som oversikter)
+- Teaching, Learning and Assessment for Adults: Improving Foundation Skills (2008): undervisning og vurdering i grunnferdighetsprogrammer, uten effektmål på arbeid
+- Evaluating and Interpreting Research Syntheses in Adult Learning and Literacy (2007): sortert bort i grovsiktingen: Ren metodelitteratur om forskningssyntese
+- An Interpretive analysis of selected peace education activists with implications for adult education (2007): sortert bort i grovsiktingen: Fredsutdanning, annet felt
+- Læring, dialog og samarbeid : utvikling av et nettbasert læringsfellesskap (2007): sortert bort i grovsiktingen: Nettbasert undervisning for lærere, erfaringer
+- Time-Series Minimum-Wage Studies: A Meta-analysis (2007): sortert bort i grovsiktingen: Minstelønn, annet tema
+- The role of youth skills development in the transition to work : a global review (2007): land utenfor OECD: global oversikt over ungdoms ferdighetsutvikling
+- Cultural Heritage Preservation in Digital West Africa: A Policy Guide for South African Contexts (2006): sortert bort i grovsiktingen: Digital kulturarv i Vest-Afrika
+- Aspekter ved indførelsen af webbaseret læring i tandlægers efteruddannelse (2006): sortert bort i grovsiktingen: Webbasert efteruddannelse for tannleger, metode
+- Cumulative Advantage as a Mechanism for Inequality: A Review of Theoretical and Empirical Developments (2006): sortert bort i grovsiktingen: Sosiologisk teori
+- Fixed and Mixed Effects Models in Meta-Analysis (2006): sortert bort i grovsiktingen: Ren metodelitteratur
+- A literature review of research on teacher education in adult literacy, numeracy and ESOL (2006): sortert bort i grovsiktingen: Litteraturgjennomgang av lærerutdanning, ikke deltakerutfall
+- Systematic Reviews in the Social Sciences: A Practical Guide (2006): sortert bort i grovsiktingen: Metodebok om systematiske oversikter
+- 29 Meta-Analysis (2006): sortert bort i grovsiktingen: Metodekapittel om metaanalyse.
+- Psychiatrists and Psychiatric Rehabilitation (2005): sortert bort i grovsiktingen: Annet felt
+- Acceptance Rates of African-American versus White Consumers of Vocational Rehabilitation Services: A Meta-Analysis (2005): sortert bort i grovsiktingen: Rehabiliteringstjenester, annet felt
+- Writing in the Workplace: Implications for Human Resource Development. (2005): sortert bort i grovsiktingen: Skriving i arbeidslivet; litteraturgjennomgang uten effekt
+- Inequality of Opportunity in Comparative Perspective: Recent Research on Educational Attainment and Social Mobility (2005): sortert bort i grovsiktingen: Ulikhet i muligheter i utdanning, ikke tiltak
+- Meta-regression analysis: issues of publication bias in economics (2005): sortert bort i grovsiktingen: Metaregresjon og publikasjonsskjevhet, metode
+- Developing an adult education policy framework: terminology, typology and best practices (2005): politikkbeskrivelse uten evaluering
+- Learner support in UK public libraries (2004): sortert bort i grovsiktingen: Biblioteker og læring; ikke tiltak
+- The Power of Statistical Tests for Moderators in Meta-Analysis. (2004): sortert bort i grovsiktingen: Metodelitteratur om statistisk styrke
+- A review of the wage returns to private sector training (2004): bedriftsfinansiert opplæring uten offentlig støtte; oversikt over lønnsavkastning
+- Att granska och förbättra kvalitet. Om kvalitetsutveckling i skola, förskola, skolbarnomsorg och vuxenutbildning - en kunskapsöversikt över aktuell forskning och utveckling samt dokumenterad erfarenhet. Skolverket (2003): sortert bort i grovsiktingen: Kvalitetsutvikling i skole og voksenutdanning; generell kunnskapsoversikt
+- Kan sygelighed og dødelighed ved type 2-diabetes forebygges ved tidlig opsporing og intensiv efteruddannelse af praktiserende læger?: ADDITION-projektet (2003): sortert bort i grovsiktingen: Diabetes, annet felt
+- Measuring inconsistency in meta-analyses (2003): sortert bort i grovsiktingen: Metodisk mål for heterogenitet.
+- What do TAFE students pay?: a review of charging policies in Australian vocational education and training (2003): sortert bort i grovsiktingen: Avgiftspolitikk i fagopplæring; ingen effektmål
+- Explaining Variation in the Effects of Welfare-To-Work Programs (2003): metodelitteratur, ikke en studie av tiltaket
+- Documented Characteristics of Labor Market-Responsive Community Colleges and a Review of Supporting Literature. (2003): annet felt: arbeidsmarkedsrettede community colleges, litteraturoversikt
+- POST-SECONDARY CORRECTIONAL EDUCATION AND RECIDIVISM: A META-ANALYSIS OF RESEARCH CONDUCTED 1990-1999 (2003): annet felt: fengselsopplæring og tilbakefall
+- A systematic review of the effectiveness of strength-training programs for people with cerebral palsy (2002): sortert bort i grovsiktingen: Styrketrening for cerebral parese, annet
+- Wheat From Chaff: Meta-Analysis As Quantitative Literature Review (2001): sortert bort i grovsiktingen: metaregresjon som metode
+- Statistical methods for the meta-analysis of cluster randomization trials (2001): sortert bort i grovsiktingen: metode for cluster-randomiserte studier
+- Education; Comparative Analysis; Compensation ((Remuneration); Developing Nations; Employer Employee Relationship; Employment Practices; Foreign Countries; *Human Resources; Internet; *Labor Force Development; Literature Reviews; *Manufacturing Industry; Models; *Performance Technology; *Personnel Management; Problem Solving; Self Efficacy; *Small Businesses; Technical Assistance; Technological Advancement; Technology Transfer; Training; Workplace Literacy (2001): bare tittel, ser ikke ut til å gjelde tiltakene (emneord, arbeidsplasslesing)
+- Attracting New Learners: A Literature Review. (2001): deltakelse, holdninger eller erfaringer uten effektmål
+- Research that hurts or research that helps?: a critical framework for adult education inquiry and people with intellectual disabilities (2000): sortert bort i grovsiktingen: Forskningsmetode for voksenopplæring, ikke tiltak
+- Overeducation in the labor market: a meta-analysis (2000): sortert bort i grovsiktingen: Overutdanning, ikke opplæring
+- Practical Meta-Analysis (2000): sortert bort i grovsiktingen: Ren metodelitteratur om metaanalyse.
+- Empirical assessment of effect of publication bias on meta-analyses (2000): sortert bort i grovsiktingen: Publikasjonsskjevhet, metode
+- Toward an integrative theory of training motivation: A meta-analytic path analysis of 20 years of research. (2000): sortert bort i grovsiktingen: Metaanalyse av opplæringsmotivasjon i bedrifter; ikke offentlig støtte
+- Virtual Reality Training Programmes in Agricultural Extension: A Systematic Review in Southern India Context (2000): annet felt: virtuell virkelighet i landbruksrådgivning, India
+- A Meta-Analysis of Corrections-Based Education, Vocation, and Work Programs for Adult Offenders (2000): annet felt: kriminalomsorg og gjentakelse blant innsatte
+- THE ESTIMATION OF CAUSAL EFFECTS FROM OBSERVATIONAL DATA (1999): sortert bort i grovsiktingen: Kausale effekter, metode
+- INEQUALITY IN EARNINGS AT THE CLOSE OF THE TWENTIETH CENTURY (1999): sortert bort i grovsiktingen: Inntektsulikhet; ikke tiltaket
+- Studieplan for videreutdanning for lærere på ungdomtrinnet, i videregående skole og på høgskolenivå: Semesteremne (10 vekttall) i "Epokestudium som prosjektarbeid i skolen. En kunstpedagogisk tilnærming." (1998): sortert bort i grovsiktingen: Studieplan for lærerutdanning i kunstfag, ingen effektmål
+- Social Capital: Its Origins and Applications in Modern Sociology (1998): sortert bort i grovsiktingen: sosial kapital; teori uten tiltak
+- Extracting summary statistics to perform meta-analyses of the published literature for survival endpoints (1998): sortert bort i grovsiktingen: Metode for metaanalyse av overlevelsesdata.
+- What We Know about Literacy Practices for Adults with Learning Disabilities: A Review of Published Research. (1998): annet felt: lesepraksis for voksne med lærevansker; publisert 1998
+- Bias in meta-analysis detected by a simple, graphical test (1997): sortert bort i grovsiktingen: Metodelitteratur om trakt-plott
+- How Science Takes Stock: The Story of Meta-Analysis (1997): sortert bort i grovsiktingen: Metaanalyse som historie; metodelitteratur
+- The efficacy of psychological, educational, and behavioral treatment: Confirmation from meta-analysis. (1993): sortert bort i grovsiktingen: Generell metaanalyse av psykologisk og atferdsbehandling; ikke opplæring for voksne
+- A Consumer's Guide to Subgroup Analyses (1992): sortert bort i grovsiktingen: Metodisk subgruppeanalyse
+- Meta-Analysis (1992): sortert bort i grovsiktingen: Ren metodelitteratur om metaanalyse
+- U.S. Earnings Levels and Earnings Inequality: A Review of Recent Trends and Proposed Explanations (1992): sortert bort i grovsiktingen: Lønnsulikhet i USA; ikke tiltaket
+- A Meta-Analysis of the Union-Nonunion Wage Gap (1990): sortert bort i grovsiktingen: Metaanalyse av fagforeningslønn; ikke opplæring
+- Book Reviews: Statistical Methods for Meta-Analysis Larry V. Hedges and Ingram Olkin New York: Academic Press, 1985. xxii + 369 pp (1988): sortert bort i grovsiktingen: Metode for metaanalyse
+- Statistical Methods for Meta-Analysis. (1986): sortert bort i grovsiktingen: Ren metodelitteratur om metaanalyse
+- Meta-analysis in clinical trials (1986): sortert bort i grovsiktingen: Ren metodelitteratur om meta-analyse
+- The Effectiveness of Computer-Based Adult Education: A Meta-Analysis (1986): metaanalyse av datastøttet voksenopplæring med eksamensresultat som mål; publisert 1986
+- Statistical Methods for Meta-Analysis (1985): sortert bort i grovsiktingen: Ren metodelitteratur om metaanalyse
+
+### Andre utelatte, etter begrunnelse
+
+| Antall | Begrunnelse |
+|---|---|
+| 163 | barn, ungdom eller ordinær utdanning, ikke voksne 25–64 |
+| 119 | politikkbeskrivelse uten evaluering |
+| 94 | deltakelse, holdninger eller erfaringer uten effektmål |
+| 92 | bare tittel, ser ikke ut til å gjelde tiltakene |
+| 76 | enkeltstudie av opplæring for ledige (tiltak 5 tas bare med som oversikter) |
+| 54 | barn, ungdom eller ordinær utdanning, ikke voksne 25–64: community college i USA |
+| 53 | bedriftsfinansiert opplæring uten offentlig støtte |
+| 29 | land utenfor OECD |
+| 28 | metodelitteratur, ikke en studie av tiltaket |
+| 21 | ikke et av tiltakene: lærlingordning for ungdom |
+| 18 | sortert bort i grovsiktingen: Ren metodelitteratur |
+| 17 | ikke et av tiltakene: arbeidsmarkedspolitikk generelt, ikke opplæring |
+| 16 | sortert bort i grovsiktingen: Ikke relevant |
+| 14 | sortert bort i grovsiktingen: Metode |
+| 12 | publisert før 2000; barn, ungdom eller ordinær utdanning |
+| 9 | annet felt: kriminalomsorg og gjentakelse blant innsatte |
+| 8 | publisert før 2000; enkeltstudie av opplæring for ledige |
+| 8 | ikke et av tiltakene: velferd-til-arbeid-programmer i USA |
+| 6 | enkeltstudie av opplæring for ledige i Tyskland (tiltak 5 tas bare med som oversikter) |
+| 5 | sortert bort i grovsiktingen: Lønnstilskudd, ikke opplæring |
+| 5 | sortert bort i grovsiktingen: Bedriftsintern opplæring uten offentlig støtte |
+| 5 | publisert før 2000; politikkbeskrivelse uten evaluering |
+| 4 | sortert bort i grovsiktingen: Jobbtap, ikke opplæring |
+| 4 | sortert bort i grovsiktingen: Arbeidsgiverfinansiert opplæring, ikke offentlig finansiering |
+| 4 | enkeltstudie av opplæring for ledige (tiltak 5 tas bare med som oversikter); Tyskland |
+| 4 | ikke et av tiltakene: lærlingordninger for nye i arbeidslivet |
+| 4 | barn, ungdom eller ordinær utdanning, ikke voksne 25–64: unge som har avbrutt skolen |
+| 4 | barn, ungdom eller ordinær utdanning, ikke voksne 25–64: community college overføring |
+| 4 | annet felt: fengselsopplæring og tilbakefall |
+| 3 | sortert bort i grovsiktingen: Generell utdanningsavkastning |
+| 3 | sortert bort i grovsiktingen: Politikk |
+| 3 | sortert bort i grovsiktingen: Metode for propensity score |
+| 3 | sortert bort i grovsiktingen: Bokanmeldelse |
+| 3 | sortert bort i grovsiktingen: Arbeidsledighetsforsikring; ikke opplæring |
+| 3 | sortert bort i grovsiktingen: Ren ekonometrisk metode, ikke tiltak |
+| 3 | sortert bort i grovsiktingen: Begrepsdiskusjon om livslang læring |
+| 3 | sortert bort i grovsiktingen: Arbeidsledighetsforsikring, ikke opplæring |
+| 3 | sortert bort i grovsiktingen: Arbeidsledighetsforsikring, ikke tiltaket |
+| 3 | enkeltstudie av opplæring for ledige i Sveits (tiltak 5 tas bare med som oversikter) |
+| 3 | enkeltstudie av opplæring for ledige i USA (WIA) (tiltak 5 tas bare med som oversikter) |
+| 4884 | 4758 andre begrunnelser (se `utelatt.tsv`) |
