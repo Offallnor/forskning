@@ -344,9 +344,13 @@ def pdf_modus(mappe, alle=False):
         os.remove(tp)
         return merk
 
+    # kjerne.txt (valgfri): bestilleren har avgrenset uttrekket til en kjerne (LOYPE.md steg 4). Da hentes tekst
+    # bare for kildene der, så runden ikke går ut på tid med kilder som ikke skal leses.
+    kjerne_fil = os.path.join(ut, "kjerne.txt")
+    kjerne = {l.split("#")[0].strip() for l in open(kjerne_fil, encoding="utf-8")} - {""} if os.path.exists(kjerne_fil) else None
     for linje in open(os.path.join(ut, "valgt.txt"), encoding="utf-8"):
         wid = linje.split("#")[0].strip()
-        if not wid:
+        if not wid or (kjerne is not None and wid not in kjerne):
             continue
         # Åpen versjon funnet for hånd, f.eks. på forfatterens hjemmeside: «W123  # ... pdf: <adresse>».
         # Adressen prøves først, også når kilden ga «ingen pdf» før. Tittelkontrollen gjelder som ellers.
@@ -973,8 +977,10 @@ def versjon_modus(mappe):
     linjer = [l.rstrip("\n") for l in open(vfil, encoding="utf-8")][1:] if os.path.exists(vfil) else []
     linjer = [l for l in linjer if l]
     sokt = set(open(sfil, encoding="utf-8").read().split()) if os.path.exists(sfil) else set()
+    kjerne_fil = os.path.join(ut, "kjerne.txt")
+    kjerne = {l.split("#")[0].strip() for l in open(kjerne_fil, encoding="utf-8")} - {""} if os.path.exists(kjerne_fil) else None
     for wid in valgte_id(ut):
-        if kilder.har_tekst(wid) or wid not in kand or wid in sokt:
+        if kilder.har_tekst(wid) or wid not in kand or wid in sokt or (kjerne is not None and wid not in kjerne):
             continue
         t = re.sub(r"[^\w\s-]", " ", kand[wid]["tittel"]).strip()
         kort = " ".join(t.split()[:10])

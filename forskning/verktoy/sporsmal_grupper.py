@@ -60,10 +60,17 @@ def grupper(mappe, storrelse, kjerne=False):
     if kjerne:
         kat = kategorier(sti)
         uten = 0
+        # kjerne.txt (valgfri): en kjerne bestilleren har valgt selv, for eksempel bare norske kilder i kategori 1–3.
+        # Den erstatter standardregelen under.
+        kf = os.path.join(sti, "kjerne.txt")
+        egen = {l.split("#")[0].strip() for l in open(kf, encoding="utf-8")} - {""} if os.path.exists(kf) else None
         for k in ut:
             c = kat.get(k["id"])
             uten += c is None
-            if not (k["oversikt"] or k["nordisk"] or c is None or c <= 3):
+            if egen is not None:
+                if k["id"] not in egen:
+                    k["gruppe"] = "ikke uttrekk (utenfor kjernen)"
+            elif not (k["oversikt"] or k["nordisk"] or c is None or c <= 3):
                 k["gruppe"] = "ikke uttrekk (utenfor kjernen)"
         ute = sum(k.get("gruppe", "").endswith("kjernen)") for k in ut)
         print(f"Kjerne: {len(ut) - ute} kilder i kjernen, {ute} utenfor. {uten} uten kategori i kommentaren er tatt med i kjernen"
