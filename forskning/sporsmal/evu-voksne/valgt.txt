@@ -123,7 +123,7 @@ W4412236139  # 4, DK, tiltak 3, effekter av etterutdanning for faglærte og ufag
 KU-3f5a90bf-7350-48a9-a572-9bdbf20a3911  # 4, NO, tiltak 1, effektevaluering av modulstrukturert FVO; bare tittel; samme materiale som 0198cc84b63a-32b1d2e2-e80e-457d-adaa-a1347b2523de, tvil: 5
 KU-a2a2fd8e-0e58-45be-a828-35b0960fd2e8  # 5, NO, tiltak 2, kjennetegn ved voksne i grunnskole og videregående opplæring, fullføring og utbytte for videre studier og arbeidsmarkedstilknytning; registerdata og kvalitative intervjuer
 W2911366100  # 4, NO, tiltak 4, sammenheng mellom formell utdanning fullført etter 40 år og senere yrkesdeltakelse; individuelle registerdata fra SSB, størst effekt av lavere grad på høyskolenivå, også videregående (menn), tvil: 5
-W2914642225  # 1, NO, tiltak 3, oversikt over litteratur fra 2010 om sysselsettingsutfall av voksnes læring (employability); dekker flere tiltak, designene ikke oppgitt, tvil: 4
+W2914642225  # 1, NO, tiltak 3, oversikt over litteratur fra 2010 om sysselsettingsutfall av voksnes læring (employability); dekker flere tiltak, designene ikke oppgitt, tvil: 4 pdf: https://fafo.no/en/publications/journal-articles/a-review-of-the-research-literature-on-adult-learning-and-employability
 01993e05413d-1c34631c-cb38-41f7-999b-2593f32522f4  # 5, NO, tiltak 3, livslang læring og ansettbarhet for arbeidstakere over 55 år; kvantitativ analyse og casestudie, uklart om opplæringen er offentlig finansiert
 0198cc3f8251-65e157f1-0f3c-4710-85b3-891befbc26b5  # 5, NO, tiltak 3, livslang læring og ansettbarhet for arbeidstakere over 55 år; bare tittel; samme materiale som 01993e05413d-1c34631c-cb38-41f7-999b-2593f32522f4
 0198cc633288-17eba427-338a-4bfa-8745-045dade3de5a  # F, NO, tiltak 2, samarbeid mellom fylkeskommunen og NAV om videregående opplæring for voksne arbeidssøkere; bare tittel
@@ -221,7 +221,7 @@ W2474859323  # 5, AU, tiltak 4, Enabling Programs (andresjanse inn i universitet
 W1594191265  # F, GB, tiltak 3, tidlig evaluering av Individual Learning Accounts i England; telefonundersøkelse blant kontoinnehavere og tilbydere
 W3096054147  # 4, NZ, tiltak 4, arbeidskraftundersøkelsen koblet til registerdata om utdanning og inntekt; studier på tertiært nivå gir 1-3 prosentpoeng høyere sysselsetting og om lag 5 % (menn) og 12 % (kvinner) høyere årsinntekt; tvil: 5
 W255487560  # 1, ukjent land, tiltak 5, bare tittel; policy brief om omskolering av oppsagte arbeidstakere; tvil: 4
-W7218183306  # 1, SE, tiltak 2, kortfattet oversikt over samfunnsøkonomiske evalueringer av komvux og vuxenutbildning; effekt på sysselsetting, lønn og inntekt, særlig svenske studier av deltakere sent på 1990-tallet; tvil: 4
+W7218183306  # 1, SE, tiltak 2, kortfattet oversikt over samfunnsøkonomiske evalueringer av komvux og vuxenutbildning; effekt på sysselsetting, lønn og inntekt, særlig svenske studier av deltakere sent på 1990-tallet; tvil: 4 pdf: https://journals.lub.lu.se/aoa/article/download/24153/21308/60498
 W118298274  # 4, SE, tiltak 2, Kunskapslyftet: privatøkonomisk lønnsomhet (real nettoinntekt 2001) for deltakere med UBS sammenlignet med deltakere i arbeidsmarkedsopplæring og arbeidsledige; tvil: 5
 W3088362019  # 4, IT/PT, tiltak 2, realkompetansevurdering i RVCC-sentrene og Novas Oportunidades; lønnseffekt sammenlignet med formell voksenopplæring, forskjell-i-forskjell med matching (DID-PSM) på Quadros de Pessoal; tvil: 3
 W1579013045  # F, ukjent land, tiltak 3, bare tittel; evaluering av Individual Learning Accounts
@@ -232,7 +232,7 @@ W4243037952  # 5, DE/US, tiltak 1, samme materiale som W2165848520; evaluering a
 W327791284  # 5, ukjent land, tiltak 1, samme materiale som W2165848520; bare tittel (arbeidsnotat fra Upjohn); tvil: F
 W170563888  # F, GB, tiltak 3, bare tittel; tidlig og mulig virkning av Individual Learning Accounts på tilbydere og læring
 W561746590  # F, SE, tiltak 2, bare tittel; arbeidsmateriale om Kunskapslyftet i én kommune til Kunskapslyftskommitténs utredning
-W3128843297  # 1, SE, tiltak 2, bare tittel; underlagsrapport om voksenutdanning for arbeidsmarkedet til utredningen om moderne arbeidsrett; tvil: F
+W3128843297  # 1, SE, tiltak 2, bare tittel; underlagsrapport om voksenutdanning for arbeidsmarkedet til utredningen om moderne arbeidsrett; tvil: F pdf: https://www.regeringskansliet.se/contentassets/0f11fafa5dae408c9be5e080d529a9fa/underlagsrapport-till-utredningen-om-en-moderniserad-arbetsratt.pdf
 W1561662226  # F, DK, tiltak 3, forskningsprosjekt om erhvervsrettet voksen- og efteruddannelse (VEU) og regionale kompetansesentre, nordjyske erfaringer
 W2232259604  # F, NZ, tiltak 1, 18 kursevalueringer og over 1 000 intervjuer og tester av lese- og regneopplæring på arbeidsplassen over tre år; utfall for deltakere og bedrifter; tvil: 5
 W3125548189  # 5, US, tiltak 1, samme materiale som W2165848520; bare tittel; tvil: F
@@ -506,7 +506,7 @@ LI-2p3spm9304rsx25r  # F, Sverige, tiltak 2, styring og tilsyn med kommunal vuxe
 
 # Fra referanserunde 1 (18.11.2026): 2 873 nye kandidater, 1 641 beholdt i grovsiktingen, lest i fire bolker på Opus.
 W2106519551  # 1, FR,GB,SE,US, tiltak 5, oversikt over effekter av ALMP for ledige, vekt på randomiserte forsøk, også likevekts- og forventningseffekter; tvil: 4
-W82406113  # 1, DK, tiltak 5, Campbell-oversikt og metaanalyse, 39 studier fra 15 land; effekt av ALMP-deltakelse på overgang til arbeid og sysselsetting for dagpengemottakere; tvil: 4
+W82406113  # 1, DK, tiltak 5, Campbell-oversikt og metaanalyse, 39 studier fra 15 land; effekt av ALMP-deltakelse på overgang til arbeid og sysselsetting for dagpengemottakere; tvil: 4 pdf: https://www.vive.dk/media/pure/6058/340342
 W3118879220  # 1, US, tiltak 3, systematisk oversikt, 10 amerikanske evalueringer av høyere utdanning og jobbopplæring for lavinntektsgrupper; inntekt etter program; grense mot tiltak 5; tvil: 4
 W2264199326  # 1, land ikke oppgitt, tiltak 5, systematisk oversikt og kvantitativ analyse av mikroøkonometriske evalueringer av ALMP i Europa; tvil: 4
 W2611504698  # 1, NO, tiltak 5, Campbell-oversikt over ALMP for dagpengemottakere, 73 studier; liten effekt på sysselsetting; samme materiale som W82406113; tvil: 4
@@ -534,7 +534,7 @@ W4289330501  # 2, land ikke oppgitt, tiltak 3, randomisert informasjonsforsøk o
 W1599229608  # 3, DE,IE,US, tiltak 2, fuzzy diskontinuitet i GED-bestått; sysselsetting og inntekt, ingen effekt for kvinner, kortvarig for menn; økt videre utdanning
 W2592065467  # 3, IE,US, tiltak 2, fuzzy diskontinuitet i GED-bestått; effekt på videre utdanning og studiepoeng; samme materiale som W1599229608, annet utfall
 W3134367623  # 3, AU,CH,GB, tiltak 3, bare tittel; australsk reform med brede opplæringskuponger for livslang læring
-W4409963010  # 3, DK,US, tiltak 4, kvasitilfeldige arbeidsulykker i danske registre; høyere utdanning etter skade flytter fra uføreytelse til arbeid, høyere inntekt; omskoleringsstøtte
+W4409963010  # 3, DK,US, tiltak 4, kvasitilfeldige arbeidsulykker i danske registre; høyere utdanning etter skade flytter fra uføreytelse til arbeid, høyere inntekt; omskoleringsstøtte pdf: https://docs.iza.org/dp15992.pdf
 W2069316046  # 3, US, tiltak 2, variasjon i delstatenes beståttgrense for GED; signalverdi av GED på inntekt for unge frafalne
 W2418702298  # 4, US, tiltak 4, matchet forskjell-i-forskjell i skatte- og utdanningsregistre; sysselsetting og inntekt for sertifikatstudenter ved kommersielle høyskoler mot offentlige og mot ikke-studenter; kan også gjelde tiltak 3
 W2125137934  # 4, AT, tiltak 3, kontrollgruppe og instrumentvariabel; lønn og sysselsetting i fem år etter omskoleringsstiftelse for oppsagte stålarbeidere; grense mot tiltak 5
@@ -656,7 +656,7 @@ W1984396341  # 5, US, tiltak 4, bare tittel (alder ved fullført grad og lønnsp
 W2767674949  # 1, ukjent, tiltak 4, bare tittel (oversikt over arbeidsmarkedsavkastning av community college-utdanning under bachelornivå); tvil: 4
 W2417897354  # 1, Europa, tiltak 5, oversikt over effekter av arbeidsmarkedstiltak, også ferdighetsopplæring, på sysselsetting og inntekt for voksne kvinner uten arbeid; tvil: 4
 W1602834472  # 4, SE, tiltak 2, videregående opplæring for voksne (ASE): langsiktig effekt på årsinntekt i LINDA med kontroll for inntekt før deltakelse; menn -3,5 %, kvinnelige innvandrere om lag +9 %; tvil: 5
-W1574919135  # 1, SE, tiltak 2, oversikt over forskning på svensk offentlig finansiert formell voksenutdanning på grunnskole-, videregående og høyere nivå og om den er effektiv bruk av skattepenger (gjelder også tiltak 4); tvil: 4
+W1574919135  # 1, SE, tiltak 2, oversikt over forskning på svensk offentlig finansiert formell voksenutdanning på grunnskole-, videregående og høyere nivå og om den er effektiv bruk av skattepenger (gjelder også tiltak 4); tvil: 4 pdf: https://www.oecd.org/en/publications/access-to-education-over-the-working-life-in-sweden_5k9fltdmwvbw-en.html
 W2970686911  # 4, Norden (DE,DK,FI,NO,SE i raden), tiltak 2, bare tittel; samme materiale som W3197149185
 W2209962974  # 5, FI, tiltak 4, bare tittel (arbeidsmarkedsavkastning når voksne går tilbake til yrkesrettet utdanning etter videregående; kan være tiltak 3)
 W3196327705  # 5, FI, tiltak 4, bare tittel (avkastning av høyere yrkesutdanning); trolig samme materiale som W2209962974 (samme forfattere)
@@ -716,7 +716,7 @@ W2789532382  # 5, US (Ohio), tiltak 3, bare tittel (avkastning av yrkesrettede k
 W4241392031  # 4, US (Washington State), tiltak 3, nettoeffekt og nytte-kostnad for elleve opplæringsprogrammer (WIA, community colleges, Adult Basic Skills), matching mot ikke-deltakere; tidligere runde av samme evaluering som W1571070480, samme materiale som W1571070480; tvil: 5
 W2276579554  # 4, US (Michigan), tiltak 3, sertifikater og associate degrees: inntekt og sysselsetting for 20 581 førstegangsstudenter mot dem som ikke fullførte, registerdata 2003-2011 (også tiltak 4); tvil: 5
 W1533840860  # 5, GB, tiltak 2, bare tittel (økonomisk nytte av livslang læring)
-W1588450396  # 1, Norden, tiltak 5, oversikt over evalueringer av arbeidsmarkedstiltak i Norden, særlig for ungdom og innvandrere; tiltak nær ordinært arbeid gir klarest positive effekter; tvil: 4
+W1588450396  # 1, Norden, tiltak 5, oversikt over evalueringer av arbeidsmarkedstiltak i Norden, særlig for ungdom og innvandrere; tiltak nær ordinært arbeid gir klarest positive effekter; tvil: 4 pdf: https://repositorio.cepal.org/handle/11362/5441
 W144746415  # 5, US (Washington State), tiltak 1, bare tittel (ny evidens om effekten av I-BEST, integrert grunnleggende opplæring og yrkesopplæring)
 W2164215362  # F, land ikke oppgitt (USA, Washington), tiltak 1, siste fase av evaluering av I-BEST (grunnleggende ferdigheter integrert med yrkesfag): feltarbeid ved 16 programmer, studentopplevelse og kostnader
 W1605838603  # 5, land ikke oppgitt (Canada), tiltak 4, utdanning tatt etter innvandring og effekt på inntekt og yrkesstatus blant nye innvandrere, regresjon

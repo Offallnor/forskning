@@ -44,6 +44,13 @@ def main(mappe, gren="main"):
                 versjoner.setdefault(w, []).append(a)
                 versjoner.setdefault(a, []).append(w)
 
+    # kjerne.txt (valgfri): uttrekket er avgrenset til en kjerne (LOYPE.md steg 4). Da listes bare kjernen,
+    # og resten telles, så bestilleren ikke får hundrevis av kilder som ikke skal hentes ut (EVU for voksne 19.11.2026).
+    kp = os.path.join(d, "kjerne.txt")
+    kjerne = {l.split("#")[0].strip() for l in open(kp, encoding="utf-8")} - {""} if os.path.exists(kp) else None
+    utenfor = 0
+    NORDISK = {"NO", "SE", "DK", "FI", "IS", "Norge", "Sverige", "Danmark", "Finland", "Island", "Norden"}
+
     def har_tekst(w):
         return kilder.har_tekst(w, streng=True)
 
@@ -55,8 +62,14 @@ def main(mappe, gren="main"):
         sett.add(wid)
         if har_tekst(wid):
             continue
+        if kjerne is not None and wid not in kjerne:
+            utenfor += 1
+            continue
         k = kand.get(wid, {})
-        rad = (RANG.get(design.get(wid, ""), 5), wid, k, kommentar, design.get(wid, ""))
+        deler = [x.strip() for x in kommentar.split(",")]
+        kat = int(deler[0]) if deler and deler[0] in ("1", "2", "3", "4", "5") else 6
+        nordisk = 0 if len(deler) > 1 and deler[1] in NORDISK else 1
+        rad = ((RANG.get(design.get(wid, ""), 5), kat, nordisk), wid, k, kommentar, design.get(wid, ""))
         if any(har_tekst(v) for v in versjoner.get(wid, [])):
             annen.append(rad)
         else:
@@ -69,6 +82,8 @@ def main(mappe, gren="main"):
           "2. Prøv Google Scholar etterpå. Der ligger det ofte en åpen versjon hos forfatteren eller i et arkiv (se etter «[PDF]» til høyre).",
           f"3. Last ned PDF-en og dra den inn på [opplastingssiden]({opp}). Filnavnet spiller ingen rolle; kilden kjennes igjen på DOI eller tittel, og teksten kommer med neste gang svaret oppdateres.",
           "4. Finnes kilden ikke, eller er den bak betalingsmur, si fra. Da står den som ikke tilgjengelig i forbeholdene.", ""]
+    if kjerne is not None:
+        ut += [f"Uttrekket er avgrenset til en kjerne (`kjerne.txt`), så bare kjernen er listet. {utenfor} valgte kilder utenfor kjernen mangler også tekst, men skal ikke hentes ut. Lista er sortert etter kategori, nordiske først.", ""]
     for overskrift, rader in (("Ikke lest i det hele tatt", ikke), ("Bare sammendraget er lest", bare), ("En annen versjon er lest (lav prioritet)", annen)):
         ut += [f"## {overskrift} ({len(rader)})", ""]
         for _, wid, k, kommentar, ds in sorted(rader, key=lambda r: (r[0], r[1])):

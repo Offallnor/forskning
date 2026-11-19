@@ -18,3 +18,4 @@
 # Runde 6 (19.11): tekst for 53 åpne versjoner fra versjonssøket
 python3 -I forskning/verktoy/sporsmal_sok.py evu-voksne --pdf
 # python3 -I forskning/verktoy/sporsmal_sok.py evu-voksne --versjoner
+# Runde 7 (19.11): kjerne.txt avgrenser teksthentingen; sju åpne adresser (pdf:) funnet på nettet
