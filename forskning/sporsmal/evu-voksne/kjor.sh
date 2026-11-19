@@ -15,5 +15,6 @@
 # Fortsatt 18.11 kl. 19:00: pdf-logg skrives nå underveis; kilder uten tekst fra før er lagt i pdf-logg.tsv og hoppes over
 # Fortsatt 18.11 kl. 22:50: --pdf har gått gjennom alle kildene, kjører --versjoner ferdig
 # Fortsatt 19.11 kl. 00:40: versjonssøket lagrer nå framdriften underveis
+# Runde 6 (19.11): tekst for 53 åpne versjoner fra versjonssøket
 python3 -I forskning/verktoy/sporsmal_sok.py evu-voksne --pdf
-python3 -I forskning/verktoy/sporsmal_sok.py evu-voksne --versjoner
+# python3 -I forskning/verktoy/sporsmal_sok.py evu-voksne --versjoner

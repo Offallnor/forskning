@@ -1227,3 +1227,58 @@ W1969273951  # 5, US, tiltak 4, voksne studenter ved community colleges og fullf
 W3114077951  # 5, US, tiltak 4, bare tittel (resultater for voksne studenter ved community colleges)
 W2149392766  # 5, US, tiltak 4, bare tittel (studiestøtte og ikke-tradisjonelle studenter ved community colleges)
 W2883250861  # 5, land ikke oppgitt, tiltak 4, bare tittel (avkastning av yrkesteknisk utdanning for voksne)
+
+# Åpne versjoner fra versjonssøket (19.11.2026): samme tittel, med pdf, for valgte kilder uten tekst.
+W2991410513  # 5, land ikke oppgitt, tiltak 4, article 2019 (Digital Commons - University of South Fl); samme materiale som W1584225310
+W4393037405  # 5, land ikke oppgitt, tiltak 4, dissertation 2023 (MOspace Institutional Repository (Univer); samme materiale som W1584225310
+W3014445022  # 5, land ikke oppgitt, tiltak 4, dissertation 2019 (Oxford University Research Archive (ORA)); samme materiale som W1584225310
+W3150669453  # 5, land ikke oppgitt, tiltak 4, dissertation 2019 (Digital Access to Scholarship at Harvard); samme materiale som W1584225310
+W3142398987  # 5, land ikke oppgitt, tiltak 4, dissertation 2019 (eScholarship (California Digital Library); samme materiale som W1584225310
+W1563421470  # 5, CH,US, other 2011 (Digital Education Resource Archive (Univ); samme materiale som W170012328
+W3122146988  # 4, DE,GB, preprint 2006 (SSRN Electronic Journal); samme materiale som W1743677111
+W3020898916  # 5, US, tiltak 3, report 2013 (National Bureau of Economic Research); samme materiale som W2042843482
+W3125386665  # 5, US, tiltak 2, preprint 2006 (RePEc: Research Papers in Economics); samme materiale som W2054397053
+W1989263398  # 1, GB, tiltak 1, review 2014 (BMC Psychiatry); samme materiale som W2072287290
+W3121379735  # 1, NL/US, tiltak 3, article 2009 (Empirical research in vocational educati); samme materiale som W2098906402
+W4413345261  # 1, NL/US, tiltak 3, book 2025 (International Labour Office eBooks); samme materiale som W2098906402
+W3163938942  # 1, NL/US, tiltak 3, article 2016 (Figshare); samme materiale som W2098906402
+W4298314096  # 1, FR,GB, preprint 2016 (SSRN Electronic Journal); samme materiale som W2106519551
+W3168284386  # 5, land ikke oppgitt, tiltak 1, book-chapter 2010 (Newcastle University ePrints (Newcastle ); samme materiale som W2182505399
+W3143987406  # 2, US, tiltak 3, preprint 2006 (RePEc: Research Papers in Economics); samme materiale som W2286125338
+W82949638  # F, Europa, tiltak 2, article 2014 (The University of Bath Online Publicatio); samme materiale som W2309715565
+W3202267881  # F, DE, tiltak 3, preprint 2010 (RePEc: Research Papers in Economics); samme materiale som W2744094439
+W4298362774  # 5, US, tiltak 2, preprint 2008 (RePEc: Research Papers in Economics); samme materiale som W2891852935
+W3148455385  # 1, FR, tiltak 3, article 2021 (Revue française d administration publiqu); samme materiale som W2897899629
+W7132944434  # 1, CA, tiltak 5, report 2018 (TSpace (University of Toronto)); samme materiale som W2902078312
+W3174530213  # 4, CL, tiltak 3, article 2021 (Journal of Applied Econometrics); samme materiale som W2907130250
+W2145552238  # F, OECD (17 land), tiltak 3, article 2010 (New Directions for Adult and Continuing ); samme materiale som W2971016947
+W2099535571  # 2, CO/GB/US, tiltak 3, report 2015 (); samme materiale som W3020999426
+W3122209302  # 2, CO/GB/US, tiltak 3, preprint 2015 (RePEc: Research Papers in Economics); samme materiale som W3020999426
+W1523908172  # 5, ukjent, tiltak 3, preprint 1992 (RePEc: Research Papers in Economics); samme materiale som W305376051
+W3124705350  # 5, SE, tiltak 4, preprint 2015 (RePEc: Research Papers in Economics); samme materiale som W3121173352
+W3124183275  # 4, AU/DE/GB, tiltak 4, preprint 2015 (SSRN Electronic Journal); samme materiale som W3122713613
+W4298407989  # 4, AU/DE/GB, tiltak 4, preprint 2015 (RePEc: Research Papers in Economics); samme materiale som W3122713613
+W3022644692  # 4, US, tiltak 4, report 2012 (National Bureau of Economic Research); samme materiale som W3124032822
+W3124590722  # 2, land ikke oppgitt, tiltak 3, preprint 1999 (RePEc: Research Papers in Economics); samme materiale som W3124338191
+W2156230114  # 5, DE/NL, tiltak 3, article 2012 (British Journal of Industrial Relations); samme materiale som W3124573267
+W1585680984  # 1, IE/NL/US, tiltak 5, book-chapter 2011 (The MIT Press eBooks); samme materiale som W3124742904
+W4300925986  # 1, IE/NL/US, tiltak 5, preprint 2010 (SSRN Electronic Journal); samme materiale som W3124742904
+W3121725518  # 3, DE, tiltak 3, preprint 2015 (SSRN Electronic Journal); samme materiale som W3125781123
+W1518503359  # F, land ikke oppgitt (UK, US og Frankrike ut fra sammendraget), other 2012 (HAL); samme materiale som W3125960495
+W3125193903  # 2, land ikke oppgitt, tiltak 3, preprint 2016 (SSRN Electronic Journal); samme materiale som W3126048250
+W2337560347  # 2, land ikke oppgitt, tiltak 3, preprint 2016 (SSRN Electronic Journal); samme materiale som W3126048250
+W1984852015  # 1, DE, tiltak 5, book-review 2008 (Papers of the Regional Science Associati); samme materiale som W4240227827
+W4280585909  # 1, OECD, tiltak 3, article 2022 (International Review of Education); samme materiale som W4245421203
+W4210649163  # 1, GB, tiltak 2, article 2021 (ASEAN Journal of Science and Engineering); samme materiale som W4251695828
+W7208066933  # 5, DE/CH/AT/Sør-Tirol, tiltak 3, book 2013 (); samme materiale som W4380366167
+W4391581721  # 2, US, tiltak 4, preprint 2024 (SSRN Electronic Journal); samme materiale som W4391854887
+W4391547924  # 2, US, tiltak 4, preprint 2024 (SSRN Electronic Journal); samme materiale som W4391854887
+W4400922240  # 1, AT,DE, preprint 2024 (SSRN Electronic Journal); samme materiale som W4405019671
+W7123245838  # 5, land ikke oppgitt, tiltak 3, other 2026 (ETH Zürich Research Collection); samme materiale som W4407898116
+W7138857162  # 5, land ikke oppgitt, tiltak 3, preprint 2026 (Research Square); samme materiale som W4407898116
+W3198055444  # 4, DE/IE/US i raden (én delstat), tiltak 4, preprint 2021 (SSRN Electronic Journal); samme materiale som W4408225926
+W4323518788  # 3, DK,US, preprint 2023 (SSRN Electronic Journal); samme materiale som W4409963010
+W4360918280  # 3, DK,US, preprint 2023 (SSRN Electronic Journal); samme materiale som W4409963010
+W4309794826  # 2, PL, tiltak 3, preprint 2022 (RePEc: Research Papers in Economics); samme materiale som W7125711397
+W7125826742  # 2, PL, tiltak 3, preprint 2026 (SSRN Electronic Journal); samme materiale som W7125711397
+W7127121994  # 2, PL, tiltak 3, preprint 2026 (SSRN Electronic Journal); samme materiale som W7125711397
