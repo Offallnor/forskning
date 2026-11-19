@@ -14,4 +14,4 @@
 # python3 -I forskning/verktoy/sporsmal_sok.py overganger-niva --referanser 'transition to higher education' 'transition to tertiary' 'school-to-work' 'education-to-work' 'labour market entry' 'labor market entry' 'NEET' 'not in employment, education' 'dropout' 'drop-out' 'student attrition' 'persistence' 'time to degree' 'switching major' 'apprentice' 'vocational' 'higher vocational' 'short-cycle' 'educational trajector' 'educational pathway' 'overgang' 'frafall' 'gjennomføring' 'gjennomstrømning' 'fagskole' 'læreplass' 'lærling' 'utenfor arbeid og utdanning' 'övergång' 'studieavbrott' 'yrkeshögskola' 'etablering' 'frafald'
 # Runde 6 (19.11): tekst og åpne versjoner for kjernen (kjerne.txt, 375 norske kilder i kategori 1–3)
 python3 -I forskning/verktoy/sporsmal_sok.py overganger-niva --pdf
-python3 -I forskning/verktoy/sporsmal_sok.py overganger-niva --versjoner
+# python3 -I forskning/verktoy/sporsmal_sok.py overganger-niva --versjoner  (tas i egen runde; to forsøk gikk ut på tid og lagringen feilet)
