@@ -1,0 +1,19 @@
+{
+ "apen_url": "http://urn.kb.se/resolve?urn=urn:nbn:se:lnu:diva-50311",
+ "ar": 2015,
+ "forfattere": [
+  "Anders Stenberg",
+  "Olle Westerlund"
+ ],
+ "hentet": "2026-11-19",
+ "hentet_fra": "http://www.diva-portal.org/smash/get/diva2:812371/FULLTEXT01.pdf",
+ "hvordan": "pdf",
+ "id": "W3124705350",
+ "kilde": "RePEc: Research Papers in Economics",
+ "lenke": "https://openalex.org/W3124705350",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "Most OECD countries experience high unemployment rates and declining growth in higher educational attainment. An often suggested government policy is therefore to allocate resources towards formal schooling for adults. However, returns on such investments are uncertain and the foregone earnings are potentially large. We use Swedish population register data from 1982 to 2011 to estimate average long run earnings returns on higher education for 29- to 55-year-olds who enrolled 1992–1993. We find substantial positive estimates, but these only fully emerge after approximately ten years. Nevertheless, calculations indicate that the benefits for society exceed the costs also under fairly pessimistic assumptions. Also, the estimated returns in this study are more than twice the size compared with earlier studies of Swedish adults who enrolled AE at the upper secondary level.",
+ "tittel": "Flexibility at a Cost: Should Governments Stimulate Tertiary Education for Adults?",
+ "type": "preprint"
+}

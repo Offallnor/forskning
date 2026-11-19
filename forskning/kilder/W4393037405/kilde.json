@@ -1,0 +1,19 @@
+{
+ "apen_url": "https://mospace.umsystem.edu/xmlui/bitstream/10355/98750/1/ChikhladzeTabithaResearch.pdf",
+ "ar": 2023,
+ "doi": "https://doi.org/10.32469/10355/98750",
+ "forfattere": [
+  "Tabitha Marie Chikhladze"
+ ],
+ "hentet": "2026-11-19",
+ "hentet_fra": "https://mospace.umsystem.edu/bitstreams/e726290e-63dc-4c92-ad92-7b6fd7e34d53/download",
+ "hvordan": "pdf",
+ "id": "W4393037405",
+ "kilde": "MOspace Institutional Repository (University of Missouri)",
+ "lenke": "https://openalex.org/W4393037405",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "The following three essays demonstrate the toolkit necessary for conducting applied microeconomic research. In Chapter 1, I analyze the socioeconomic and agency-specific determinants that may lead to disparities in traffic stops among Black and White drivers in Missouri. A 2017 travel advisory instituted by the NAACP reignited concerns surrounding dis- criminatory behavior among Missouri police. Existing literature on traffic stops uses incident-level data to conduct natural experiments such as the \"Veil of Darkness\" or hit-rate tests to analyze the presence of racial profiling. However, in the case of Missouri incident-level data is unavailable rendering these tests infeasible. Despite these data limitations, I can implement the Oaxaca-Blinder decomposition to identify if a disparity exists between Black and White drivers and if these disparities are driven by differences in the endowments of the jurisdiction's population. I find that disparities in the total stop rate and resident stop rate are better explained by differences in the socioeconomic statuses of Black and White drivers. Whereas more discretionary practices such as searches and arrests are not well explained by these same differences. Confronting the same data limitations as in Chapter 1, I propose two new indi- cators for identifying racial profiling in statewide reports like Missouri's in Chapter 2. Current Missouri Vehicle Stops Reports make use of a disparity index to help in identifying whether a police agency needs further investigation for racial profiling. However, this disparity index can be difficult to interpret and emphasizes differences in population as the driving factor of disparity in traffic stops. Applying these measures to Missouri vehicle stops data from 2019, I show how these new measures may be applied in a Vehicle Stops Report. In Chapter 3 I revisit previous research by Campante and Do (2014) which examines the relationship between isolated state capitals and corruption. I begin my analysis by evaluating the reproducibility of their initial results. Ultimately, I find their results are not reproducible and contain errors. I also address concerns about the validity and reliability of their main findings and use different measures of government to challenge the robustness of their results.",
+ "tittel": "Essays in applied microeconomics",
+ "type": "dissertation"
+}

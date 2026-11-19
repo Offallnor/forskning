@@ -1,0 +1,20 @@
+{
+ "apen_url": "https://doi.org/10.3386/w19135",
+ "ar": 2013,
+ "doi": "https://doi.org/10.3386/w19135",
+ "forfattere": [
+  "Kevin Lang",
+  "Russell Weinstein"
+ ],
+ "hentet": "2026-11-19",
+ "hentet_fra": "https://doi.org/10.3386/w19135",
+ "hvordan": "pdf",
+ "id": "W3020898916",
+ "kilde": "National Bureau of Economic Research",
+ "lenke": "https://openalex.org/W3020898916",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "Using the Beginning Post-Secondary Student Survey and Transcript Data, we find no statistically significant differential return to Certificates or Associate's degrees between for-profits and not-for-profits. Point estimates suggest a slightly lower return to a for-profit Certificate and a slightly higher return to a for-profit Associate's degree, largely because more students at not-for-profits earn a BA, making them less likely to have only an Associate's degree. There is considerable variation in the return to Certificates/degrees across majors, including many with negligible or negative returns. Differences across fields are large relative to differences across institution types.",
+ "tittel": "The Wage Effects of Not-for-Profit and For-Profit Certifications: Better Data, Somewhat Different Results",
+ "type": "report"
+}

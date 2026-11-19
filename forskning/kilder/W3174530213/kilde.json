@@ -1,0 +1,21 @@
+{
+ "apen_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3308414",
+ "ar": 2021,
+ "doi": "https://doi.org/10.1002/jae.2877",
+ "forfattere": [
+  "Jorge Rodríguez",
+  "Fernando Saltiel",
+  "Sergio Urzúa"
+ ],
+ "hentet": "2026-11-19",
+ "hentet_fra": "http://www.nber.org/papers/w25408.pdf",
+ "hvordan": "pdf",
+ "id": "W3174530213",
+ "kilde": "Journal of Applied Econometrics",
+ "lenke": "https://openalex.org/W3174530213",
+ "merknad": "ÅPEN VERSJON (preprint eller arbeidsnotat), merkes i svaret",
+ "oversikt": false,
+ "sammendrag": "Summary This paper estimates the dynamic returns to job training. We posit a model of sequential training participation, where decisions and outcomes depend on observed and unobserved characteristics. We analyze different treatment effects, including policy relevant parameters, and link them to continuation values and latent skills. The empirical analysis exploits administrative data combining job training records, matched employee‐employer information, and pre‐labor market ability measures from Chile. Although the average returns to training are small, these vary across the unobserved ability distribution and previous training choices. In fact, among young workers, the returns to training are lower when followed by additional training, providing evidence of dynamic substitutability. Policy experiments illustrate how increasing the local availability of training programs may affect earnings heterogeneously across dynamic responses.",
+ "tittel": "Dynamic treatment effects of job training",
+ "type": "article"
+}

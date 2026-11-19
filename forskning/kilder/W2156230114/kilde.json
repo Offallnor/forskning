@@ -1,0 +1,16 @@
+{
+ "apen_url": "https://cris.maastrichtuniversity.nl/en/publications/25f5893e-0815-4c10-a3b9-8f88210430c1",
+ "ar": 2012,
+ "doi": "https://doi.org/10.1111/j.1467-8543.2012.00890.x",
+ "forfattere": [
+  "Carla Haelermans",
+  "Lex Borghans"
+ ],
+ "id": "W2156230114",
+ "kilde": "British Journal of Industrial Relations",
+ "lenke": "https://openalex.org/W2156230114",
+ "oversikt": false,
+ "sammendrag": "Abstract A meta‐analysis is used to study the average wage effects of on‐the‐job training. This study shows that the average reported wage effect of on‐the‐job training, corrected for publication bias, is 2.6 per cent per course. The analyses reveal a substantial heterogeneity between training courses, while wage effects reported in studies based on instrumental variables and panel estimators are substantially lower than estimates based on techniques that do not correct for selectivity issues. Appropriate methodology and the quality of the data turn out to be crucial to determine the wage returns.",
+ "tittel": "Wage Effects of On‐the‐Job Training: A Meta‐Analysis",
+ "type": "article"
+}

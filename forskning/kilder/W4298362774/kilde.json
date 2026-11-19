@@ -1,0 +1,19 @@
+{
+ "apen_url": "http://www.nber.org/papers/w13816.pdf",
+ "ar": 2008,
+ "forfattere": [
+  "Tyler, John",
+  "Magnus Lofstrom"
+ ],
+ "hentet": "2026-11-19",
+ "hentet_fra": "https://docs.iza.org/dp3297.pdf",
+ "hvordan": "pdf",
+ "id": "W4298362774",
+ "kilde": "RePEc: Research Papers in Economics",
+ "lenke": "https://openalex.org/W4298362774",
+ "merknad": "ÅPEN VERSJON (preprint eller arbeidsnotat), merkes i svaret",
+ "oversikt": false,
+ "sammendrag": "We use data from the Texas Schools Microdata Panel (TSMP) to examine the extent to which dropouts use the GED as a route to postsecondary education. Lacking suitable instruments that would allow us to directly address potential biases in estimating the \"GED path\" to postsecondary education, our approach is to base estimates on a set of academically \"at risk\" students who are very similar in the 8th grade. We observe that the eventual high school graduates in this group have much better postsecondary education outcomes than do the similar at-risk 8th graders who drop out and obtain a GED. We discuss potential explanations for the observed differences in the postsecondary education outcomes of the two groups.",
+ "tittel": "Is the GED an Effective Route to Postsecondary Education for School Dropouts?",
+ "type": "preprint"
+}

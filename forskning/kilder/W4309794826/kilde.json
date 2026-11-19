@@ -1,0 +1,20 @@
+{
+ "apen_url": "https://arxiv.org/pdf/2211.09968",
+ "ar": 2022,
+ "doi": "https://doi.org/10.48550/arxiv.2211.09968",
+ "forfattere": [
+  "Susan Carleton Athey",
+  "Palikot, Emil"
+ ],
+ "hentet": "2026-11-19",
+ "hentet_fra": "http://arxiv.org/pdf/2211.09968",
+ "hvordan": "pdf",
+ "id": "W4309794826",
+ "kilde": "RePEc: Research Papers in Economics",
+ "lenke": "https://openalex.org/W4309794826",
+ "merknad": "ÅPEN VERSJON (preprint eller arbeidsnotat), merkes i svaret",
+ "oversikt": false,
+ "sammendrag": "We evaluate two interventions facilitating technology-sector transitions for women in Poland: Mentoring, focused on expanding professional networks, and Challenges, focused on building credible skill signals. Randomizing oversubscribed admissions, we find both programs substantially increase technology employment at twelve months - by 15 percentage points for Mentoring and 11 p.p. for Challenges. The distinct mechanisms through which the programs operate translate to heterogeneous treatment effects across geography, career stage, and baseline credentials. These differential effects create scope for improved allocation: algorithmic targeting across programs outperforms random assignment by 86% and experts' selection into Mentoring by 11%.",
+ "tittel": "Effective and Scalable Programs to Facilitate Labor Market Transitions for Women in Technology",
+ "type": "preprint"
+}

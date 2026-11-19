@@ -1,0 +1,26 @@
+{
+ "apen_url": "https://bmcpsychiatry.biomedcentral.com/counter/pdf/10.1186/1471-244X-14-39",
+ "ar": 2014,
+ "doi": "https://doi.org/10.1186/1471-244x-14-39",
+ "forfattere": [
+  "Brynmor Lloyd‐Evans",
+  "Evan Mayo-Wilson",
+  "Bronwyn A. Harrison",
+  "Hannah Istead",
+  "Ellie Brown",
+  "Stephen Pilling",
+  "Sonia Johnson",
+  "Tim Kendall"
+ ],
+ "hentet": "2026-11-19",
+ "hentet_fra": "https://bmcpsychiatry.biomedcentral.com/counter/pdf/10.1186/1471-244X-14-39",
+ "hvordan": "pdf",
+ "id": "W1989263398",
+ "kilde": "BMC Psychiatry",
+ "lenke": "https://openalex.org/W1989263398",
+ "merknad": "",
+ "oversikt": true,
+ "sammendrag": "BACKGROUND: Little is known about whether peer support improves outcomes for people with severe mental illness. METHOD: A systematic review and meta-analysis was conducted. Cochrane CENTRAL Register, Medline, Embase, PsycINFO, and CINAHL were searched to July 2013 without restriction by publication status. Randomised trials of non-residential peer support interventions were included. Trial interventions were categorised and analysed separately as: mutual peer support, peer support services, or peer delivered mental health services. Meta-analyses were performed where possible, and studies were assessed for bias and the quality of evidence described. RESULTS: Eighteen trials including 5597 participants were included. These comprised four trials of mutual support programmes, eleven trials of peer support services, and three trials of peer-delivered services. There was substantial variation between trials in participants' characteristics and programme content. Outcomes were incompletely reported; there was high risk of bias. From small numbers of studies in the analyses it was possible to conduct, there was little or no evidence that peer support was associated with positive effects on hospitalisation, overall symptoms or satisfaction with services. There was some evidence that peer support was associated with positive effects on measures of hope, recovery and empowerment at and beyond the end of the intervention, although this was not consistent within or across different types of peer support. CONCLUSIONS: Despite the promotion and uptake of peer support internationally, there is little evidence from current trials about the effects of peer support for people with severe mental illness. Although there are few positive findings, this review has important implications for policy and practice: current evidence does not support recommendations or mandatory requirements from policy makers for mental health services to provide peer support programmes. Further peer support programmes should be implemented within the context of high quality research projects wherever possible. Deficiencies in the conduct and reporting of existing trials exemplify difficulties in the evaluation of complex interventions.",
+ "tittel": "A systematic review and meta-analysis of randomised controlled trials of peer support for people with severe mental illness",
+ "type": "review"
+}

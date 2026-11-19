@@ -1,0 +1,19 @@
+{
+ "apen_url": "https://www.researchsquare.com/article/rs-9112982/latest.pdf",
+ "ar": 2026,
+ "doi": "https://doi.org/10.21203/rs.3.rs-9112982/v1",
+ "forfattere": [
+  "Guillaume Maxence Morlet"
+ ],
+ "hentet": "2026-11-19",
+ "hentet_fra": "https://www.researchsquare.com/article/rs-9112982/latest.pdf",
+ "hvordan": "pdf",
+ "id": "W7138857162",
+ "kilde": "Research Square",
+ "lenke": "https://openalex.org/W7138857162",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "Abstract Rapid technological change generates skill shortages when the supply of human capital adjusts slowly. The U.S. Department of Labor promotes Registered Apprenticeship as a mechanism to expand domestic skill formation and reduce reliance on foreign skilled labour. The American Apprenticeship Initiative (AAI) was the first large-scale federal programme subsidising Registered Apprenticeship in the United States, allocating $154M to expand apprenticeships in industries with high reliance on H-1B visas. Using administrative data, I evaluate the causal impact of the AAI on the number of new Registered Apprenticeship positions. Identification relies on two strategies. First, a triple-difference design exploiting variation across states, industries according to their H-1B dependence, and time. Second, I conduct spatial difference-in-discontinuity leveraging cross county and time variation. Both approaches suggest that the AAI did not statistically significantly increase the number of new apprenticeships. Bayesian bounds imply that, under an agnostic prior, the posterior probability that the programme had no effect is at least 49.3%. Although the estimates are not statistically significant, taking triple difference estimates at face value would imply that $1M in subsidies would generate approximately 22 additional apprentices in the first treatment year, corresponding to a cost exceeding the annual prevailing wage cost of apprentices at the time. I discuss several mechanisms that may explain the limited responsiveness of apprenticeship creation to training subsidies and draw implications for policies aimed at expanding non-formal training programmes. JEL Codes : J01; J08; J23",
+ "tittel": "The Effect of Subsidies on Training: Evidence from the United States",
+ "type": "preprint"
+}

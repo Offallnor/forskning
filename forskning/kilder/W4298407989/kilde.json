@@ -1,0 +1,18 @@
+{
+ "ar": 2015,
+ "forfattere": [
+  "Michael Bernard Coelli",
+  "Domenico Tabasso"
+ ],
+ "hentet": "2026-11-19",
+ "hentet_fra": "https://docs.iza.org/dp9509.pdf",
+ "hvordan": "pdf",
+ "id": "W4298407989",
+ "kilde": "RePEc: Research Papers in Economics",
+ "lenke": "https://openalex.org/W4298407989",
+ "merknad": "ÅPEN VERSJON (preprint eller arbeidsnotat), merkes i svaret",
+ "oversikt": false,
+ "sammendrag": "We investigate the labour market determinants and outcomes of adult participation in formal education (lifelong learning) in Australia, a country with high levels of adult education. Employing longitudinal data and fixed effects methods allows identification of effects on outcomes free of ability bias. Different trends in outcomes across groups are also allowed for. The impacts of adult education differ by gender and level of study, with small or zero labour market returns in many cases. Wage rates only increase for males undertaking university studies. For men, vocational education and training (VET) lead to higher job satisfaction and fewer weekly hours. For women, VET is linked to higher levels of satisfaction with employment opportunities and higher employment probabilities.",
+ "tittel": "Where Are the Returns to Lifelong Learning?",
+ "type": "preprint"
+}

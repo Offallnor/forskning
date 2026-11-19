@@ -1,0 +1,20 @@
+{
+ "apen_url": "https://doi.org/10.3386/w18343",
+ "ar": 2012,
+ "doi": "https://doi.org/10.3386/w18343",
+ "forfattere": [
+  "Stephanie Riegg Cellini",
+  "Latika Chaudhary"
+ ],
+ "hentet": "2026-11-19",
+ "hentet_fra": "https://doi.org/10.3386/w18343",
+ "hvordan": "pdf",
+ "id": "W3022644692",
+ "kilde": "National Bureau of Economic Research",
+ "lenke": "https://openalex.org/W3022644692",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "A lengthy literature estimating the returns to education has largely ignored the for-profit sector.In this paper, we estimate the earnings gains to for-profit college attendance using restricted-access data from the 1997 National Longitudinal Survey of Youth (NLSY97).Using an individual fixed effects estimation strategy that allows us to control for time-invariant unobservable characteristics of students, we find that students who enroll in associate's degree programs in for-profit colleges experience earnings gains of about 10 percent relative to high school graduates with no college degree, conditional on employment.Since associate's degree students attend for an average of 2.6 years, this translates to a 4 percent return per year of education in a for-profit college, slightly lower than estimates of returns for other sectors found in the literature.",
+ "tittel": "The Labor Market Returns to a For-Profit College Education",
+ "type": "report"
+}

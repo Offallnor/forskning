@@ -1,0 +1,19 @@
+{
+ "apen_url": "http://www.nber.org/papers/w12018.pdf",
+ "ar": 2006,
+ "forfattere": [
+  "James J. Heckman",
+  "Paul LaFontaine"
+ ],
+ "hentet": "2026-11-19",
+ "hentet_fra": "http://www.nber.org/papers/w12018.pdf",
+ "hvordan": "pdf",
+ "id": "W3125386665",
+ "kilde": "RePEc: Research Papers in Economics",
+ "lenke": "https://openalex.org/W3125386665",
+ "merknad": "ÅPEN VERSJON (preprint eller arbeidsnotat), merkes i svaret",
+ "oversikt": false,
+ "sammendrag": "Using three sources of data, this paper examines the direct economic return to GED certification for both native and immigrant high school dropouts. One data source - the CPS - is plagued by non-response and allocation bias from the hot-deck procedure that biases upward the estimated return to the GED. Correcting for allocation bias and ability bias, there is no direct economic return to GED certification. An apparent return to GED certification with age found in the raw CPS data is due to dropouts becoming more skilled over time. These results apply to native born as well as immigrant populations.",
+ "tittel": "Bias Corrected Estimates of GED Returns",
+ "type": "preprint"
+}
