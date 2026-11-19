@@ -186,6 +186,7 @@ Et raskt svar kan senere utvides til full løype i samme mappe (se «Gjenoppta e
    - Finna har sjelden sammendrag, men oftest emneord. Velg på tittel, utgiver, type og emneord.
    - Finna søker også i emneordene for hele nasjonalbiblioteket, så sammensatte finske ord gir mye støy (gradert sykmelding: 317 treff, fem valgt). Treff der ingen av søkeordene står i tittelen, merkes «svak» og står sist. Filmer, spill, kart, musikk og tidsskrifter som helhet tas ikke med.
    - De finske arkivene (Julkari, Helda, urn.fi) stenger for automatisk henting, og de gamle lenkene til TTL er døde. Teksten hentes bare når OpenAlex har en åpen versjon. Ellers står kilden i `mangler.md`, og PDF-en må lastes opp for hånd.
+   - **Fra 18.11.2026 stenger Finna for kall fra Actions** (HTTP 403 med Cloudflare-siden «Just a moment...»). Søket gir da 0 treff uten at det betyr at det ikke finnes finske kilder. Skriv det i forbeholdene, og søk på finna.fi for hånd etter de viktigste finske evalueringene (Kela, VATT, Arbeidshelseinstituttet), med `tittel:` eller `url:` i `valgt.txt`. Loggen viser feilkoden.
    - I testen på delvis sykmelding fant søket Kelas evaluering fra 2009, TTLs rapporter fra 2010 og 2011 (blant dem et randomisert forsøk), en finsk doktoravhandling fra 2013 og en finsk kunnskapsoversikt for 2008–2019. Ingen av dem var funnet av de andre søkene.
 
 5. **Kildebiblioteket:** søk i `kilder/oversikt.tsv` på tittel, så kilder som andre spørsmål allerede har lest, kommer med.
