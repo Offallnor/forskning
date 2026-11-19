@@ -929,12 +929,21 @@ def referanse_modus(mappe, uttrykk):
         meta[wid] = r
     liste = sorted(w for w in alle - set(kand) if w in fra_nye or len(bak.get(w, ())) >= 2 or len(fram.get(w, ())) >= 2)
     print(f"{len(meta)} er kandidater fra før, metadata hentes for {len(liste)}", flush=True)
+    feilet = 0
     for i in range(0, len(liste), 50):
-        d = hent(f"{API}/works?filter=openalex:{'|'.join(liste[i:i+50])}&per_page=50") or {}
-        for w in d.get("results") or []:
+        d = hent(f"{API}/works?filter=openalex:{'|'.join(liste[i:i+50])}&per_page=50")
+        if d is None:
+            feilet += 1
+        for w in (d or {}).get("results") or []:
             r = rad(w, "referanse")
             meta[r["id"]] = r
         time.sleep(0.2)
+    # Feiler oppslag (oftest brukt opp OpenAlex-kvote, HTTP 429), skrives ingenting: runden ville ellers sett
+    # ut som om den ikke fant noe nytt, og kildene ville blitt merket som vurdert (skjedde 18.11.2026).
+    # Feil kode gjør at kjor.sh ikke merkes som kjørt, så runden tas igjen ved neste kjøring.
+    if feilet:
+        print(f"{feilet} av {-(-len(liste) // 50)} metadataoppslag feilet. Runden lagres ikke og må kjøres på nytt.", flush=True)
+        sys.exit(1)
     fraser = [u.lower() for u in uttrykk]
     rader = []
     for wid, r in meta.items():
