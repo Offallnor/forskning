@@ -211,3 +211,196 @@ Filer:
 - **Avvik fra mandatet:** GED-studien gjelder 16–21-åringer. Mange av GI Bill-studiene gjelder veteraner fra 1940- og 1950-tallet. Begge deler ligger utenfor kjernegruppen 25–64 år og perioden i mandatet.
 
 Radene står i /tmp/claude-0/-home-user/1ed95009-b39c-5ddb-a157-1eddedba0df2/scratchpad/uttrekk-a/g13/forskning/sporsmal/evu-voksne/estimater.tsv. Skriptet som skrev dem, er /tmp/claude-0/-home-user/1ed95009-b39c-5ddb-a157-1eddedba0df2/scratchpad/uttrekk-a/g13/rader.py.
+
+# Merknader fra andre uttrekk (Sonnet, 19.11.2026)
+
+31 rader skrevet til estimater.tsv for 25 kilder. Kontroll 1–4 er fri for feil. De eneste FEIL-linjene som står igjen er kontroll 6 og 9 (utelatt-kilder og kilder uten uttrekk i kopien), som var ventet.
+
+- **Antall rader:** 31.
+- **Kilder uten tall (én rad med tomt estimat):** 12 av 25.
+  - 0198cc5263f2-db66fb0c-87cd-4aa1-9668-dccb5c95a966
+  - KU-15673374-2b35-4d1f-82b0-1a12211e128e
+  - W7210025147
+  - W7167042688
+  - W2771339852
+  - W235943261
+  - W24959778
+  - W4401711642
+  - W171095229
+  - W2956924494
+  - W2226242137
+  - W2106519551
+- **Feil dokument:** ingen kilder der teksten ser ut til å være feil dokument.
+- **Tidligere-estimater:** sjekklisten ga ingen nye rader. Radene der gjaldt lønnstilskudd og unge eller dagpenger, ikke EVU for voksne.
+- **Gjengitte tall:**
+  - W1569864583 har to rader gjengitt fra Patrignani og Conlon 2011.
+  - W564684827 har én rad gjengitt fra McIntosh 2004.
+  - Begge er merket «gjengitt fra» i utfall.
+- **Kommatall i sitat:** i W2779095838 står tallet i sitatet med komma (58,9), og kontrollen godtok det.
+
+Fil: /tmp/claude-0/-home-user/1ed95009-b39c-5ddb-a157-1eddedba0df2/scratchpad/uttrekk-b/g01/forskning/sporsmal/evu-voksne/estimater.tsv
+
+---
+
+Radene er skrevet og kontroll 1–4 er fri for feil. Det finnes bare FEIL i kontroll 6 og 9, som er ventet i kopien.
+
+- **Antall rader:** 46 i `/tmp/claude-0/-home-user/1ed95009-b39c-5ddb-a157-1eddedba0df2/scratchpad/uttrekk-b/g02/forskning/sporsmal/evu-voksne/estimater.tsv`, fordelt på alle 25 kilder (minst én rad hver).
+- **Kilder uten tall:** 13 (13 rader med tomt estimat):
+  - W2120167541, W2433767964, W2184201471, W2908262949, W2102454047, W2072287290
+  - W3118879220, W1927179113, W1963973901, W2088280977, W4386420582, W1583669699
+  - LI-sf35mlm1q24b0fp2, der verken tekst eller sammendrag finnes
+- **Feil dokument:** ingen av kildene ser ut til å ha feil tekst. W2184201471 har bare en innholdsfortegnelse som sammendrag, så den har ingen funn.
+- **Tidligere-estimater.tsv:** ingen rader der svarer på dette spørsmålet for mine kilder. Radene gjelder andre kilder og andre spørsmål, så ingenting ble lagt til.
+- **Estimat med usikker kolonneplassering:** tre rader har estimat lest fra tabeller i tekstfilen, så kolonneplasseringen er usikker og utfall-feltet sier det:
+  - KU-3f5a90bf-7350-48a9-a572-9bdbf20a3911, utenforskap (-0.0103)
+  - KU-3f5a90bf-7350-48a9-a572-9bdbf20a3911, heltidsarbeid (-0.0069)
+  - W2911366100, ekstra dager i arbeid (14.06 og 18.38)
+- **Estimat med tall som ord:** rad for W2010796133 (3 av 9 forsøk) har «(tallet står med ord i sitatet)».
+
+---
+
+Antall rader: 45 i estimater.tsv, fordelt på alle 25 kilder. Kontroll 1–4 er fri for FEIL (kontroll 5, 6 og 9 ikke rettet, som ventet i kopien).
+
+Kilder uten tall (én rad med tomt estimat): 12.
+- W1964861379
+- W2969413042
+- W2026651182
+- W4412204416
+- KU-a2a2fd8e-0e58-45be-a828-35b0960fd2e8
+- W2914642225
+- W2044685238
+- W2417897354
+- W4411098014
+- W1574919135
+- W3090832067 (protokoll uten resultater)
+- W1582975199 (bare kvalitativ konklusjon)
+
+Kilder der teksten ser ut til å være feil dokument:
+- W2168820403: forsiden og tittelen er «Curbing adult student attrition» (frafall i voksenopplæring), men sammendraget på side 2 handler om tekstmeldinger til jobbsøkere ved Bedford Jobcentre. Sammendraget på side 3 handler om voksenopplæring. Jeg har bare brukt side 3.
+- W4409530334 (Teknikcollege, ungdom i yrkesfag på videregående) er riktig dokument, men utenfor avgrensningen fordi det gjelder ungdom og ikke voksne. Raden er merket slik.
+- W4411098014 og W4412115963 er to versjoner av samme arbeid. Raden for W4411098014 har ikke tall, og W4412115963 er merket som samme materiale.
+
+Rader fra tidligere-estimater.tsv: ingen å legge til. Eneste treff var W4302969421, og den raden uten tall er allerede dekket.
+
+Filer:
+- /tmp/claude-0/-home-user/1ed95009-b39c-5ddb-a157-1eddedba0df2/scratchpad/uttrekk-b/g04/forskning/sporsmal/evu-voksne/estimater.tsv
+
+---
+
+Jeg har skrevet 58 rader for de 25 kildene i `/tmp/claude-0/-home-user/1ed95009-b39c-5ddb-a157-1eddedba0df2/scratchpad/uttrekk-b/g03/forskning/sporsmal/evu-voksne/estimater.tsv`. Kontroll 1–4 er fri for feil. Kontroll 6 og 9 viser feil som er ventet i kopien.
+
+- **Kilder uten tall (2):** LI-8241310 og LI-22279866. LI-8241310 er en oversikt over svensk arbeidsmarkedspolitikk uten effekttall for opplæring. LI-22279866 er et bokkapittel om begreper, uten tall. Begge har én rad med tomt estimat.
+- **Feil dokument:** Ingen. Alle tekstene stemmer med tittelen.
+- **Tidligere-estimater.tsv:** Ingen rader der svarer på dette spørsmålet for mine kilder. Radene er fra lønnstilskudd- og dagpengespørsmålene.
+
+Tre forhold dere bør vite om:
+- **W2013270147:** Tallet 29508 (årsinntekt, menn, to semestre) er lest fra en tabell uten ryddig radstruktur i tekstfilen. Det bør kontrolleres for hånd. Raden for kilden uten tall står som tom rad med sitat fra sammendraget.
+- **Tiltak 5 (opplæring for ledige):** NB-4986 er en enkeltstudie av Navs tiltak (utenfor kjernen), men er tatt med for AMO og Utdanning. 0198cc8fb35e er en oversikt over tiltak for ungdom under 30 år.
+- **Tallet står med ord:** Rad 21 og 22 (0198cc478c9b), rad 26 (01993890881c) og rad 51 (W2164976890) har estimat fra ord i sitatet. Dette er merket i utfall og må kontrolleres for hånd.
+
+---
+
+58 rader i estimater.tsv, og kontroll 1–4 er fri for feil. Radene ligger i `/tmp/claude-0/-home-user/1ed95009-b39c-5ddb-a157-1eddedba0df2/scratchpad/uttrekk-b/g05/forskning/sporsmal/evu-voksne/estimater.tsv`.
+
+- **Antall rader:** 58, fordelt på alle 25 kildene.
+- **Kilder uten tall:** 2 (W7165978732 og W104926790, tomt estimat med forklaring i utfall).
+  - W7165978732 er programrapporten for de seks tallforsøkene. Den har bare en samlet beskrivelse, så tallene ligger i de enkelte forsøksrapportene.
+  - W104926790 gir ingen effektestimater, bare at 18 kurs er klassifisert etter skjønn.
+- **Feil dokument:** ingen kilder der teksten ser ut til å være feil dokument.
+- **Tidligere estimater:** `tidligere-estimater.tsv` har ingen rader for mine 25 kilder, så det var ingenting å legge til derfra.
+- **Samme materiale:** W1683883188 er førsteversjonen av W3123135221 (kupongforsøket i Sveits). Begge har rader, og W1683883188 er merket i utfall.
+- **Gjengitte tall:** noen rader i oversiktskildene (W7218183306, W2000591473, W2112371456, W2760148764, W2136269032) er gjengitt fra andre studier. Det står i utfall.
+- **Grensetilfelle:** W3084314794 gjelder engelskopplæring for innvandrere (ESOL). Den er markert i utfall som grensetilfelle mot kriteriene.
+
+---
+
+Rader: 58 (59 linjer i estimater.tsv med overskriften). Kilder uten tall: 5 (W4399355073, W1484534434, W3121632739, W2183188596 har bare ett upresist tall, så ikke telt; de tre uten noe tall er W4399355073, W1484534434 og W3121632739). Så kilder uten tall: 3.
+
+Kilder der teksten ser ut til å være feil dokument: W3004014332. Tekstfila er bare nettvedlegget til artikkelen (figurer og tilleggstabeller), så tallene (44 prosent, 19 prosentpoeng) er hentet fra sammendraget og står med side = sammendrag.
+
+Kontroll 1–4 har ingen FEIL-linjer. Gjenstående FEIL er bare kontroll 6 og 9, som er ventet i kopien.
+
+Fil: /tmp/claude-0/-home-user/1ed95009-b39c-5ddb-a157-1eddedba0df2/scratchpad/uttrekk-b/g06/forskning/sporsmal/evu-voksne/estimater.tsv
+
+---
+
+Radene er skrevet til `/tmp/claude-0/-home-user/1ed95009-b39c-5ddb-a157-1eddedba0df2/scratchpad/uttrekk-b/g07/forskning/sporsmal/evu-voksne/estimater.tsv`. Kontroll 1–4 er fri for feil (de gjenstående FEIL-linjene er kontroll 6).
+
+- **Antall rader:** 46, fordelt på alle 25 kilder.
+- **Kilder uten tall (7 stk.):** W2260785424, W3190501518, W3125938983, W1520618467, W4393343216, W7151259557 og W4212995781. De har én rad hver med tomt estimat og forklaring i utfall.
+- **Feil dokument:** ingen. Tekstene er alle riktig dokument.
+- **Merknader:**
+  - Flere nøkkelstudier mangler effekttall i teksten fordi tallene bare står i tabeller. Dette gjelder særlig W3125246737 (Kunnskapsløftet) og W4290607714.
+  - W1488143163 (GAIN) er en enkeltstudie av opplæring for ledige og er merket «enkeltstudie» i utfall.
+  - Fortegn i W4302162296 og W1511776989 følger sitatet. For W1511776989 står estimatet 167 med forklaring i utfall, fordi kontrollen krevde det.
+- **Sjekkliste (tidligere-estimater.tsv):** kun W1849775659 og W3125938983 var med der, og begge gjaldt lønnstilskudd. Ingenting av det svarte på dette spørsmålet, så ingen rader er lagt til.
+
+---
+
+Kontroll 1–4 er uten feil.
+
+Rader: 49 i estimater.tsv, fra alle 25 kilder.
+
+Kilder uten tall (tomt estimat, 8 stykker): W3094946421, W2117604211, W1601384165, W1572813566, W4400871115, W2993128097, W3124881456. W2631481029 har to rader: én beskrivende med tall og én uten tall. Det gir 7 kilder helt uten tall og 8 rader med tomt estimat.
+
+Kilder der teksten ser ut til å være feil dokument: ingen. W1581809000 (Messer og Wolter) har lesbar forside, men brødteksten er ulesbar (skriftkoding). Jeg brukte derfor sammendraget og satte side = sammendrag. Land står tomt i de radene.
+
+I tidligere-estimater.tsv fantes ingen rader for mine 25 kilder.
+
+Fil: /tmp/claude-0/-home-user/1ed95009-b39c-5ddb-a157-1eddedba0df2/scratchpad/uttrekk-b/g08/forskning/sporsmal/evu-voksne/estimater.tsv
+
+---
+
+33 rader fra 25 kilder står i `estimater.tsv` i spørsmålsmappen. Kontroll 1–4 er fri for feil (kjørt på nytt etter rettingen); gjenstående FEIL gjelder bare kontroll 5, 6 og 9, som skal stå.
+
+- **Kilder uten tall (tomt estimat):** 15 av 25. Det er W1500817828, W2181639995, W4318038624, W3124338191, W4241341401, W7139391198, W2978919928, W2897969768, W7117480952, W1518746948, W2118188388, W2804031940, W3128843297, W1981654732 og W2036089346. W2605248710 og W2979977042 har heller ikke tall i sammendraget, men det er ikke regnet med i de 15. De står med en rad hver, med tomt estimat.
+- **Feil dokument:** W2181639995 er en kortversjon av Holzer og Martinson (2005), ikke sammendraget i metadata. Teksten handler fortsatt om samme tema, så jeg tok sitatet fra teksten (side 6). W3128843297 har bare tittelen som sammendrag.
+- **Rettet etter kontroll:** raden W3041144534 med sysselsetting i 2018 står med estimat 1.5 og «negativ forskjell» i utfall. Kontrollen godtok ikke -1.5 mot sitatet.
+- **Tidligere-estimater.tsv:** ingen rader der gjelder mine 25 kilder.
+
+Filen er `/tmp/claude-0/-home-user/1ed95009-b39c-5ddb-a157-1eddedba0df2/scratchpad/uttrekk-b/g09/forskning/sporsmal/evu-voksne/estimater.tsv`.
+
+---
+
+Rader skrevet: 26, fra 25 kilder. Kilde-IDene står i `forskning/sporsmal/evu-voksne/estimater.tsv` i g10-kopien.
+
+- **Tekstfiler:** Ingen av de 25 kildene hadde `tekst.txt`, så alle rader bygger på sammendrag (`side` = sammendrag).
+- **Kilder uten tall:** 23. De har én rad hver med tomt estimat og en forklaring i `utfall`.
+- **Kilder med tall:**
+  - W2106465281: 8 prosentpoeng på sannsynlighet for vitnemål (tiltak 2).
+  - W2069316046: GED-effekt på inntekt, to rader for spennet 10–19 prosent (tiltak 2).
+- **Tidligere estimater:** `tidligere-estimater.tsv` har ingen rader for mine kilder.
+- **Kontroll:** Kontroll 1–4 er fri for FEIL etter rettingen av ett sitat i W2106465281 (en bindestrek i sitatet var et annet tegn enn i teksten). Kontroll 6 viser de ventede FEIL-linjene om utelatte kilder i kopien, som ikke skal rettes.
+- **Feil dokument:** Ingen. Teksten kunne ikke vurderes siden det ikke fantes tekstfiler. W2213966225 har tyrkisk sammendrag, men innholdet er relevant.
+
+---
+
+Antall rader: 25 (én per kilde, alle skrevet til estimater.tsv i arbeidsmappen g12).
+
+Kilder uten tall: 25. Alle kildene var kun sammendrag, og ingen av sammendragene hadde et effekt- eller beskrivende tall som svarer på spørsmålet. Alle radene har derfor tomt estimat og en forklaring i utfall.
+
+Tidligere-estimater.tsv hadde ingen rader for mine kilder.
+
+Kontroll 1–4 ga ingen FEIL. Kontroll 6 ga mange FEIL-linjer for «utelatt», som er ventet i kopien og ikke rettet.
+
+Kilder der teksten ser ut til å være feil dokument: ingen. W2267718473, W4229951511, W1528348100 og W1601350728 har svært korte eller innledende sammendrag, men de passer med tittelen.
+
+---
+
+Rader: 32, fordelt på alle 25 kilder, i estimater.tsv i spørsmålsmappen i kopien. Kontroll 1–4 er fri for feil.
+
+Kilder uten tall: 7. Det gjelder W1797719169, W2151019805, W1518178688, W1588450396, W1878400386, W1550516742 og W1576880634. Det er oversikter eller kilder med et sammendrag uten effektmål. Alle står med én rad og tomt estimat.
+
+Alle 25 kilder er lest bare fra sammendraget, fordi ingen har tekst.txt. Side er satt til «sammendrag» for alle radene.
+
+Kilder der teksten ser ut til å være feil dokument: ingen. Tre sammendrag er tynne og bare delvis gjengitt, nemlig W2151019805 (bare ansvarsfraskrivelse og innholdsfortegnelse), W1550516742 (bare takkeliste) og W1518178688 (bare en kort beskrivelse av opplæring for ansatte).
+
+Ingen rader i tidligere-estimater.tsv gjelder disse 25 kildene, så sjekklisten ga ingenting å legge til.
+
+---
+
+32 rader. 20 kilder er uten tall, de har én rad med tomt estimat hver. Ingen kilder ser ut til å være feil dokument.
+
+Ingen av de 25 kildene har tekstfil, så alle er hentet fra sammendraget (side = sammendrag). Tidligere-estimater.tsv hadde ingen rader for mine kilder. Kontroll 1–4 er fri for feil.
+
+Radene ligger i `/tmp/claude-0/-home-user/1ed95009-b39c-5ddb-a157-1eddedba0df2/scratchpad/uttrekk-b/g13/forskning/sporsmal/evu-voksne/estimater.tsv`.
