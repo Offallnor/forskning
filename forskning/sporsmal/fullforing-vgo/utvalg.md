@@ -31,7 +31,7 @@ De 3 304 sentrale kandidatene som ble beholdt i grovsiktingen, men ikke valgt, e
 
 ## Kjernen
 
-Utvalget er over 300, så uttrekket avgrenses til en kjerne (LOYPE steg 4). Kjernen i `kjerne.txt` er laget etter det anbefalte alternativet på beslutningskortet til bestilleren, mens svaret står åpent:
+Utvalget er over 300, så uttrekket avgrenses til en kjerne (LOYPE steg 4). Bestilleren valgte smal kjerne 20.11.2026. Kjernen i `kjerne.txt` har:
 
 - alle oversikter (kategori 1)
 - nordiske effektstudier i kategori 2–5
