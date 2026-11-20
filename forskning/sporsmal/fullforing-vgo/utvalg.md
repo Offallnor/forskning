@@ -55,3 +55,16 @@ Ikke gjort ennå. Referanselistene i de norske kunnskapsoversiktene (blant annet
 ## Gjennomgått av bestilleren
 
 Kortliste sendt 20.11.2026. Svar ikke mottatt ennå.
+
+## Første uttrekk
+
+Kjørt 20.11.2026 i 12 grupper, hver av en underagent i egen kopi. `estimater.tsv` har 524 rader. Kontroll 1–5 og `--sjekk` er uten feil.
+
+Merknader til andre uttrekk og svaret:
+
+- **Feil dokument i tekstfilen:** W2167917357 (teksten er en MDRC-rapport om små skoler i New York) og W379305091 (teksten er en masteroppgave). Begge har én rad uten funn. Teksten må hentes på nytt.
+- **Uleselig tekst:** W2911385571 (hele teksten) og W4213274030 (etter side 2).
+- **Samme materiale:** KU-a1a67931 og 019dcf110efa-7c74d5a1 (KLAR2030 delrapport 2), KU-345c469c og KU-a2a2fd6a, og W4380841569, W4285684438 og W4283031585 (én belgisk studie).
+- **Mistenkt fortegnsfeil:** W2808375903 (Ny GIV), konfidensintervallet etter fem år. Intervallet står tomt.
+- **Tall som står med ord** er merket i `utfall` og må sjekkes for hånd.
+- **Delvis utenfor mandatet:** blant annet tiltak i grunnskolen (W4206973215, W4287339466, W7133582582), studenter (W3123099642), andre utfall enn fullføring (W36520195, W4206389522, W3125990592, W4319984058, W2787144718, W4387973941) og land utenfor OECD (W4288086398). De vektes ned i svaret.
