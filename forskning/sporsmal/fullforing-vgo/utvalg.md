@@ -40,11 +40,13 @@ Utvalget er over 300, så uttrekket avgrenses til en kjerne (LOYPE steg 4). Best
 
 Forsøk og kvasieksperimenter fra USA og resten av OECD utenfor Europa dekkes gjennom oversiktene, og nordiske evalueringer uten effektmål står i vedlegg A uten uttrekk. Velger bestilleren en bredere kjerne, lages `kjerne.txt` på nytt.
 
-Før kjernen låses, skal studier i kategori 4 og studier merket «tvil» med design som kan holde til kategori 3, leses i metodedelen (steg 4). Det er ikke gjort ennå, fordi ingen tekst er hentet.
+Metodelesingen før kjernen låses (steg 4) ble nesten tom: utenfor Norden er bare én kilde i kategori 4, og de nordiske i kategori 4–5 er alt med i kjernen. Kilder med «tvil: 4» etter kategori 3 er med i kjernen.
+
+Etter versjonssøket ble 22 åpne versjoner av kjernekilder uten tekst lagt til, så kjernen har 348 id-er. Av dem har 161 tekst, og resten leses fra sammendraget. 62 har verken tekst eller sammendrag.
 
 ## Sentrale kilder som mangler tekst
 
-Ingen tekst er hentet ennå (steg 3). Listen kommer etter tekstinnhentingen.
+Se `mangler.md`. 13 kilder er sendt til bestilleren for å hentes for hånd 20.11.2026: Lillejord mfl. 2015, Borgen og Borgen 2014, Wollscheid 2010, Häll 2012, Dahl mfl. 2022, Molin 2023, Humlum og Vejlin 2011, Lange 2024, Goux mfl. 2014, Cahuc mfl. 2024, van der Steeg mfl. 2015, Mazrekaj og De Witte 2019 og Mora mfl. 2022.
 
 ## Følg oversiktene (steg 5)
 
