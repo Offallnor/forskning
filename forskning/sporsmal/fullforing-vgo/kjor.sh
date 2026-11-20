@@ -11,4 +11,6 @@
 # Runde 4 (18.11): referanserunde 3, fra 56 kilder som det blinde utvalget av runde 2 fant (de andre er hentet før og hoppes over). Første kjøring nådde tidsgrensen, andre stoppet på OpenAlex-kvoten (HTTP 429). Kjøres på nytt 19.11 og 20.11 (kvoten var brukt opp).
 # python3 -I forskning/verktoy/sporsmal_sok.py fullforing-vgo --referanser 'dropout' 'drop-out' 'early school leaving' 'school completion' 'graduation' 'upper secondary' 'high school' 'vocational education' 'vocational training' 'career and technical education' 'career academ' 'apprentice' 'work-based learning' 'dual system' 'mentoring' 'Check & Connect' 'early warning' 'Education Maintenance Allowance' 'conditional cash' 'school choice' 'tracking' 'frafall' 'fullføring' 'gjennomføring' 'videregående' 'yrkesfag' 'lærling' 'læreplass' 'avhopp' 'gymnasie' 'lärling' 'yrkesprogram'
 # Runde 5 (20.11): tekst for kjernen (326 kilder i kjerne.txt, smal kjerne valgt av bestilleren)
-python3 -I forskning/verktoy/sporsmal_sok.py fullforing-vgo --pdf
+# python3 -I forskning/verktoy/sporsmal_sok.py fullforing-vgo --pdf
+# Runde 6 (20.11): åpne versjoner av kjernekilder uten tekst (176)
+python3 -I forskning/verktoy/sporsmal_sok.py fullforing-vgo --versjoner
