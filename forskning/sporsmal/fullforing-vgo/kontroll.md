@@ -2,7 +2,7 @@
 
 Kjørt 2026-11-20.
 
-2 feil av 8617 kontroller.
+2 feil av 8634 kontroller.
 
 - OK   6 utelatt W2960437645 «Risk Factors for School Absenteeism and Dropout: A Meta-Analytic Revie» (2019) – sortert bort i grovsiktingen: Risikofaktorer for fravær og frafall, ingen tiltak
 - OK   6 utelatt W2099466330 «The Causal Effects of Father Absence» (2013) – sortert bort i grovsiktingen: Farsfravær, annet felt
@@ -1506,6 +1506,7 @@ Kjørt 2026-11-20.
 - OK   6 utelatt W2111226802 «Skill-Specific rather than General Education: A Reason for US–Europe G» (2004) – sortert bort i grovsiktingen: Teoretisk vekstmodell om utdanningstyper; ingen tiltak.
 - OK   6 utelatt W2092360026 «When Can Schools Affect Dropout Behavior? A Longitudinal Multilevel An» (1999) – sortert bort i grovsiktingen: Risikofaktorer for frafall uten tiltak
 - OK   6 utelatt W2059507463 «Secondary Vocational Education and the Transition from School to Work» (1995) – lest i utvalget, ikke valgt: land utenfor Norden og design svakere enn kategori 3
+- OK   6 utelatt W4289026309 «Long-Term Impacts of Conditional Cash Transfers: Review of the Evidenc» (2018) – lest i utvalget, tatt ut i streng avgrensning: betinget kontantstøtte i Latin-Amerika, mest grunnskole
 - OK   6 utelatt W2029209771 «Connecting Entrance and Departure: The Transition to Ninth Grade and H» (2008) – sortert bort i grovsiktingen: Prediktorer for frafall, ingen tiltak
 - OK   6 utelatt W2471621520 «Behavioral Economics of Education» (2016) – sortert bort i grovsiktingen: Atferdsøkonomi i utdanning, generell oversikt
 - OK   6 utelatt W1922759525 «Fostering and Measuring Skills: Interventions that Improve Character a» (2013) – lest i utvalget, ikke valgt: annet felt: ikke-kognitive ferdigheter, ikke et av tiltakene
@@ -1694,6 +1695,7 @@ Kjørt 2026-11-20.
 - OK   6 utelatt W1814592871 «Education Research and Administrative Data» (2016) – sortert bort i grovsiktingen: Metode og administrative data
 - OK   6 utelatt W148321419 «Career Academies. Communities of Support for Students and Teachers: Em» (1997) – lest i utvalget, ikke valgt: publisert før 2000
 - OK   6 utelatt W1992820172 «Effects of government initiatives on youth crime» (2007) – lest i utvalget, ikke valgt: utfall er ikke fullføring, arbeid, inntekt eller ytelser: kriminalitet
+- OK   6 utelatt W2944914938 «Long-Term Impacts of Conditional Cash Transfers: Review of the Evidenc» (2019) – lest i utvalget, tatt ut i streng avgrensning: betinget kontantstøtte i Latin-Amerika, mest grunnskole
 - OK   6 utelatt W2799310123 «The Impact of Career and Technical Education on Students With Disabili» (2018) – lest i utvalget, ikke valgt: land utenfor Norden og design svakere enn kategori 3
 - OK   6 utelatt W2098356018 «An Examination of Compulsory School Attendance Ages and High School Dr» (2010) – sortert bort i grovsiktingen: Skoleplikt/minstealder for å slutte, ikke et frivillig tiltak
 - OK   6 utelatt W4388973058 «Participation and learning in Vocational education and training - a cr» (2023) – sortert bort i grovsiktingen: Unge i risiko i yrkesfag, kvalitative erfaringer uten effektmål
@@ -2119,6 +2121,7 @@ Kjørt 2026-11-20.
 - OK   6 utelatt W2890264863 «The Missing Manual: Using National Student Clearinghouse Data to Track» (2013) – sortert bort i grovsiktingen: Metodeveiledning for registerdata om høyere utdanning; ingen tiltak.
 - OK   6 utelatt W2071058767 «Depressive symptoms and clustering of risk behaviours among adolescent» (2015) – sortert bort i grovsiktingen: Tverrsnitt om depresjon og risikoatferd; ingen tiltak.
 - OK   6 utelatt W2163180948 «Drop-Out Predictors Among Students With High-Incidence Disabilities: A» (2012) – sortert bort i grovsiktingen: Frafallsprediktorer, ingen tiltak
+- OK   6 utelatt W4392450935 «Long-term Impacts of Conditional Cash Transfers in Latin America: Revi» (2016) – lest i utvalget, tatt ut i streng avgrensning: mest utviklingsland
 - OK   6 utelatt W3119087845 «A Systematic Review of Adolescent Masculinities and Associations with » (2021) – sortert bort i grovsiktingen: Maskulinitet og psykisk helse, ikke tiltak
 - OK   6 utelatt W4200542090 «Sociodemographic risk, school engagement, and community characteristic» (2021) – sortert bort i grovsiktingen: Risiko og skoleengasjement, assosiasjon uten tiltak
 - OK   6 utelatt W2790370266 «Improving education through assessment, innovation, and evaluation» (2006) – lest i utvalget, ikke valgt: bare tittel, tittelen gjelder ikke tiltakene
@@ -3185,6 +3188,7 @@ Kjørt 2026-11-20.
 - OK   6 utelatt W1589745222 «Mentoring and Academic Performance of Black and Under-Resourced Urban » (2014) – lest i utvalget, ikke valgt: utfall er ikke fullføring, arbeid, inntekt eller ytelser (karakterer)
 - OK   6 utelatt W1835650935 «Investigating Patterns of Participation and Conversation Content in an» (2015) – lest i utvalget, ikke valgt: holdninger eller erfaringer uten effektmål
 - OK   6 utelatt W2093918508 «The Earnings and Employment Effects of Young People’s Vocational Train» (2001) – lest i utvalget, ikke valgt: land utenfor Norden og design svakere enn kategori 3
+- OK   6 utelatt W2501514304 «Incentives for Students and Parents» (2013) – lest i utvalget, tatt ut i streng avgrensning: mest utviklingsland
 - OK   6 utelatt W2517632641 «An examination of dropout rates for Hispanic or Latino students enroll» (2016) – lest i utvalget, ikke valgt: deskriptiv statistikk eller kartlegging uten tiltak
 - OK   6 utelatt W2589019633 «LAS FAMILIAS ANTE EL ABANDONO ESCOLAR» (2017) – sortert bort i grovsiktingen: Familiers oppfatninger om tidlig skoleavgang, holdninger uten effekt
 - OK   6 utelatt W3132356516 «Improving High School Graduation Through School Climate» (2021) – sortert bort i grovsiktingen: Skoleklima og uteksamen, assosiasjon uten tiltak
@@ -3389,6 +3393,7 @@ Kjørt 2026-11-20.
 - OK   6 utelatt W2061076093 «The Importance of Noncognitive Skills: Lessons from the GED Testing Pr» (2001) – sortert bort i grovsiktingen: GED-test og ikke-kognitive ferdigheter; voksne
 - OK   6 utelatt W2171287604 «Into College, Out of Poverty? Policies to Increase the Postsecondary A» (2009) – sortert bort i grovsiktingen: Høyere utdanning og kostnader; holdes utenfor
 - OK   6 utelatt W2732839599 «Making a Difference in Schools: The Big Brothers Big Sisters School-Ba» (2007) – lest i utvalget, ikke valgt: utfall er ikke fullføring, arbeid, inntekt eller ytelser (skolefag)
+- OK   6 utelatt W2753461861 «Conditional Cash Transfers: The Case of Progresa/Oportunidades» (2017) – lest i utvalget, tatt ut i streng avgrensning: Progresa, mest grunnskole og ungdomsskole
 - OK   6 utelatt W2079416499 «School Dropouts and Conditional Cash Transfers: Evidence from a Random» (2013) – lest i utvalget, ikke valgt: land utenfor OECD (Kina)
 - OK   6 utelatt W2167956430 «Mentoring and Young People A literature review» (2003) – lest i utvalget, ikke valgt: metode- eller teorilitteratur
 - OK   6 utelatt W2979586175 «Two-Way Fixed Effects Estimators with Heterogeneous Treatment Effects» (2020) – sortert bort i grovsiktingen: Metodelitteratur om tvillingsestimatorer
@@ -3636,6 +3641,7 @@ Kjørt 2026-11-20.
 - OK   6 utelatt W2749923235 «Peer Effects in Education» (2011) – sortert bort i grovsiktingen: Jevnaldrende i utdanning
 - OK   6 utelatt W1579861080 «Deviant Peer Influences in Programs for Youth Problems and Solutions.» (2006) – lest i utvalget, ikke valgt: metode- eller teorilitteratur
 - OK   6 utelatt W2951689186 «Fuzzy Differences-in-Differences» (2017) – sortert bort i grovsiktingen: Metode for differanse-i-differanse
+- OK   6 utelatt W1516820276 «PROGRESA and Its Impacts on the Welfare of Rural Households in Mexico» (2005) – lest i utvalget, tatt ut i streng avgrensning: Progresa, mest grunnskole og ungdomsskole
 - OK   6 utelatt W2300279195 «The Labor-Market Returns to Community College Degrees, Diplomas, and C» (2013) – sortert bort i grovsiktingen: Høyere yrkesutdanning, utenfor kriteriene
 - OK   6 utelatt W1586833993 «Parental Preferences and School Competition: Evidence from a Public Sc» (2005) – sortert bort i grovsiktingen: Skolevalg og foreldrepreferanser, ingen fullføringseffekt.
 - OK   6 utelatt W1574903529 «Are Some Degrees Worth More than Others? Evidence from college admissi» (2013) – sortert bort i grovsiktingen: Gradsforskjeller i høyere utdanning.
@@ -3721,6 +3727,7 @@ Kjørt 2026-11-20.
 - OK   6 utelatt W2078618203 «The buddy system: Effect of community intervention on delinquent offen» (1975) – sortert bort i grovsiktingen: Kriminalitetsforebygging via mentoring, ikke utdanning
 - OK   6 utelatt W2189221374 «THE APPLICATION OF SOCIAL COST-BENEFIT ANALYSIS TO THE EVALUATION OF P» (2000) – lest i utvalget, ikke valgt: annet felt (kostnadsnytte for Progresa)
 - OK   6 utelatt W1916126 «The American High School Graduation Rate: Trends and Levels. NBER Work» (2007) – sortert bort i grovsiktingen: frafallsstatistikk, ingen tiltak
+- OK   6 utelatt W4245346996 «Progressing Through Progresa: An Impact Assessment of a School Subsidy» (2001) – lest i utvalget, tatt ut i streng avgrensning: Progresa, mest grunnskole og ungdomsskole
 - OK   6 utelatt W3133442241 «Charter Schools’ Effectiveness, Mechanisms, and Competitive Influence» (2021) – lest i utvalget, ikke valgt: utfall er ikke fullføring, arbeid, inntekt eller ytelser (prestasjon)
 - OK   6 utelatt W1966260314 «Choices for studying choice: Assessing charter school effectiveness us» (2011) – lest i utvalget, ikke valgt: utfall er ikke fullføring, arbeid, inntekt eller ytelser (prestasjon)
 - OK   6 utelatt W2088984471 «AFTER‐SCHOOL PROGRAM EFFECTS ON BEHAVIOR: RESULTS FROM THE 21ST CENTUR» (2008) – sortert bort i grovsiktingen: grunnskole, etter skoletid
@@ -4121,6 +4128,7 @@ Kjørt 2026-11-20.
 - OK   6 utelatt W649378314 «CESifo economic studies» (2003) – sortert bort i grovsiktingen: Tidsskrift uten tema
 - OK   6 utelatt W1836681791 «Charter Schools» (2016) – lest i utvalget, ikke valgt: bare tittel, og tittelen gjelder ikke tiltakene
 - OK   6 utelatt W2899927745 «Iron deficiency anemia and school participation» (2004) – sortert bort i grovsiktingen: helse og skolegang, barnehage
+- OK   6 utelatt W2918368700 «What can we do to reduce disciplinary school exclusion? A systematic r» (2019) – lest i utvalget, tatt ut i streng avgrensning: utfall eksklusjon, ikke fullføring
 - OK   6 utelatt W2625819229 «Investigation of the Integration of Supports for Youth Thriving Into a» (2017) – sortert bort i grovsiktingen: Mentoring for 10–16 år, hovedsakelig grunnskole
 - OK   6 utelatt W2733777771 «Let’s Talk After-School: The Promises and Challenges of Positive Youth» (2017) – sortert bort i grovsiktingen: SFO og positiv ungdomsutvikling, ikke listet tiltak
 - OK   6 utelatt W1797719169 «Subsidies and Levies as Policy Instruments to Encourage Employer-Provi» (2012) – sortert bort i grovsiktingen: Tilskudd til arbeidsgivers etterutdanning; voksne ansatte, ikke elever
@@ -5135,6 +5143,7 @@ Kjørt 2026-11-20.
 - OK   6 utelatt W2769387209 «Economic Gains from Educational Reform by US States» (2017) – sortert bort i grovsiktingen: Utdanningsreform og økonomisk vekst i USA; ikke tiltak
 - OK   6 utelatt W1983360837 «For Colored Girls? Factors that Influence Teacher Recommendations into» (2012) – sortert bort i grovsiktingen: Lærerbeslutninger for svarte jenter
 - OK   6 utelatt W2206312586 «Dual Enrollment: Policy Issues Confronting State Policymakers. Policy » (2006) – lest i utvalget, ikke valgt: holdninger eller erfaringer uten effektmål (policy, dobbeltkvalifisering)
+- OK   6 utelatt W3122562932 «EVALUATING CONDITIONAL SCHOOLING AND HEALTH PROGRAMS» (2008) – lest i utvalget, tatt ut i streng avgrensning: Progresa, mest grunnskole og ungdomsskole
 - OK   6 utelatt W3123282852 «STUDENT RESPONSIVENESS TO EARNINGS DATA IN THE COLLEGE SCORECARD» (2016) – sortert bort i grovsiktingen: Studenters respons på inntektsdata; høyere utdanning
 - OK   6 utelatt W2017321416 «Dropping out of post-compulsory education in the UK: an analysis of de» (2006) – sortert bort i grovsiktingen: frafall, årsaker
 - OK   6 utelatt W2034789958 «Roads to work: school‐to‐work transition patterns in Germany and the U» (1993) – lest i utvalget, ikke valgt: deskriptiv statistikk eller kartlegging uten tiltak (Tyskland, USA)
@@ -5627,6 +5636,7 @@ Kjørt 2026-11-20.
 - OK   6 utelatt W4392723986 «Telementoring and Homeschooling During School Closures: a Randomised E» (2024) – sortert bort i grovsiktingen: Telementorering i grunnskolen; grunnskole
 - OK   6 utelatt W4402278011 «Why Not All Three? Combining the Keller, Rhodes, and Spencer Models Tw» (2024) – sortert bort i grovsiktingen: Konseptuell modell for mentorering og helse; teori, ingen tiltaksutfall om utdanning
 - OK   6 utelatt W4409963049 «Presidential Address: Investing in Children to Address the Child Menta» (2025) – sortert bort i grovsiktingen: psykisk helse, debatt
+- OK   6 utelatt W4415422613 «School-Based Interventions for Reducing Disciplinary School Exclusion.» (2025) – lest i utvalget, tatt ut i streng avgrensning: utfall eksklusjon, ikke fullføring
 - OK   6 utelatt W1506813329 «Student Selection and Incentives» (2009) – lest i utvalget, ikke valgt: bare tittel, og tittelen gjelder ikke tiltakene
 - OK   6 utelatt W2490290956 «Deconstructing the Panacea of Volunteering in Criminal Justice» (2016) – sortert bort i grovsiktingen: frivillighet i kriminalomsorg
 - OK   6 utelatt W3178800737 «Är det bättre att börja skolan tidigare» (2006) – sortert bort i grovsiktingen: Skolestartalder i grunnskolen
@@ -6013,6 +6023,7 @@ Kjørt 2026-11-20.
 - OK   6 utelatt W2106344805 «Mentoring for Young People Leaving Foster Care: Promise and Potential » (2010) – lest i utvalget, ikke valgt: utfall er ikke fullføring (ungdom i fosterhjem)
 - OK   6 utelatt W2129539362 «Aspects of Competence-Based Education as Footholds to Improve the Conn» (2009) – lest i utvalget, ikke valgt: holdninger eller erfaringer uten effektmål (kompetansebasert yrkesopplæring, Nederland)
 - OK   6 utelatt W2146211102 «Determinants of High Schools' Advanced Course Offerings» (2011) – lest i utvalget, ikke valgt: annet felt (tilbud av AP- og IB-kurs)
+- OK   6 utelatt W2292520603 «PROGRESA AND ITS IMPACT ON THE HUMAN CAPITAL AND WELFARE OF HOUSEHOLD » (2001) – lest i utvalget, tatt ut i streng avgrensning: Progresa, mest grunnskole og ungdomsskole
 - OK   6 utelatt W2057317025 «The Impact of Conditional Cash Transfers on Consumption and Investment» (2009) – lest i utvalget, ikke valgt: land utenfor OECD (Nicaragua)
 - OK   6 utelatt W4287755752 «Using Experiments to Correct for Selection in Observational Studies» (2020) – sortert bort i grovsiktingen: metode for utvalg
 - OK   6 utelatt W96984253 «From High School to the Future: Potholes on the Road to College. Resea» (2008) – lest i utvalget, ikke valgt: bare tittel, og tittelen gjelder ikke tiltakene
@@ -8106,6 +8117,7 @@ Kjørt 2026-11-20.
 - OK   6 utelatt W1996943745 «The workplace as learning environment: Introduction» (2008) – lest i utvalget, ikke valgt: metode- eller teorilitteratur.
 - OK   6 utelatt W2080188120 «Truancy Intervention Programs: Challenges and Innovations to Implement» (2008) – lest i utvalget, ikke valgt: holdninger eller erfaringer uten effektmål (implementering).
 - OK   6 utelatt W1504143278 «The Effects of the Kalamazoo Promise Scholarship on College Enrollment» (2015) – sortert bort i grovsiktingen: Kalamazoo-stipend, høyere utdanning
+- OK   6 utelatt W1624816750 «Financial benefits for child health and well-being in low income or so» (2008) – lest i utvalget, tatt ut i streng avgrensning: pengeoverføringer til fattige familier, ikke elevinsentiv
 - OK   6 utelatt W2290403689 «A Design Perspective on the School-Work Boundary: A Hybrid Curriculum » (2016) – lest i utvalget, ikke valgt: metode- eller teorilitteratur.
 - OK   6 utelatt W2414277173 «Keeping College Options Open: A Field Experiment to Help all High Scho» (2019) – lest i utvalget, ikke valgt: annet utdanningsnivå (opptak til høyere utdanning).
 - OK   6 utelatt W2598439834 «Consumption and Investment in Resource Pooling Family Networks» (2017) – lest i utvalget, ikke valgt: annet felt (familienettverk og økonomi).
@@ -8229,6 +8241,7 @@ Kjørt 2026-11-20.
 - OK   6 utelatt W2184908090 «Emergency Economies: The Impact of Cash Assistance in Lebanon» (2014) – sortert bort i grovsiktingen: Kontantstøtte i Libanon
 - OK   6 utelatt W2187346126 «Teacher Quality in Public and Private Schools under a Voucher System: » (2016) – sortert bort i grovsiktingen: Lærerkvalitet under skolevoucher i Chile; lærerarbeidsmarked
 - OK   6 utelatt W3203862920 «Evaluating Local Economic and Employment Development: How to Assess Wh» (2004) – sortert bort i grovsiktingen: lokal næringsutvikling
+- OK   6 utelatt W4405493209 «A systematic review of intervention programs for school attendance pro» (2024) – lest i utvalget, tatt ut i streng avgrensning: utfall skolefravær, ikke fullføring
 - OK   6 utelatt W793041465 «Child Health and Access to Medical Care» (2015) – sortert bort i grovsiktingen: Helsetjenester for barn
 - OK   6 utelatt W2195031077 «Post-school options for young adults with intellectual disabilities in» (2015) – lest i utvalget, ikke valgt: deskriptiv statistikk eller kartlegging uten tiltak.
 - OK   6 utelatt W2462024974 «Characteristics of School Districts That Participate in Rigorous Natio» (2016) – sortert bort i grovsiktingen: Hvilke distrikter som deltar i evalueringer; metode.
@@ -8254,6 +8267,7 @@ Kjørt 2026-11-20.
 - OK   6 utelatt W2081457925 «Impact evaluation and interventions to address climate change: a scopi» (2010) – sortert bort i grovsiktingen: Klimatiltak, ikke utdanning
 - OK   6 utelatt W2610613800 «A Review of the Evidence on the Effects of Community-based Programs on» (2017) – lest i utvalget, ikke valgt: utfall er ikke fullføring (sosiale og emosjonelle ferdigheter).
 - OK   6 utelatt W2739155224 «The School as a Socialization Context: Understanding the Influence of » (2017) – sortert bort i grovsiktingen: Skolens klima og skulking; årsaksstudie uten tiltak
+- OK   6 utelatt W4385258195 «Systemic school-based approaches for supporting students with attendan» (2023) – lest i utvalget, tatt ut i streng avgrensning: utfall fravær, ikke fullføring
 - OK   6 utelatt W1964843041 «Voices of Early College High School Graduates in Texas: A Narrative St» (2013) – lest i utvalget, ikke valgt: holdninger eller erfaringer uten effektmål.
 - OK   6 utelatt W4232767268 «Activation policies for more inclusive labour markets» (2015) – lest i utvalget, ikke valgt: annet felt (aktivering av arbeidsledige).
 - OK   6 utelatt W4403279780 «Sexist textbooks: Automated analysis of gender bias in 1,255 books fro» (2024) – sortert bort i grovsiktingen: Kjønnsskjevhet i lærebøker
@@ -8324,6 +8338,7 @@ Kjørt 2026-11-20.
 - OK   6 utelatt W2189063459 «Copenhagen Consensus 2008 Challenge Paper Women and Development» (2008) – sortert bort i grovsiktingen: Generell oversikt om kvinner og utvikling.
 - OK   6 utelatt W2733973554 «Aktivisering av unge sosialhjelpsmottakere – forutsetninger for å sikr» (2017) – sortert bort i grovsiktingen: Aktivisering av sosialhjelpsmottakere, ikke elever
 - OK   6 utelatt W2790104090 «School segregation and social participation: the case of Norwegian chi» (2018) – sortert bort i grovsiktingen: Segregering og sosial deltakelse for barn med funksjonshemning; grunnskole, annet utfall
+- OK   6 utelatt W4240476987 «Financial Benefits for Child Health and Well-Being in Low Income or So» (2008) – lest i utvalget, tatt ut i streng avgrensning: pengeoverføringer til fattige familier, ikke elevinsentiv
 - OK   6 utelatt W4403209039 «Employment Effects of Skills Trainings in Sub-Saharan Africa: A System» (2024) – lest i utvalget, ikke valgt: land utenfor OECD (Afrika sør for Sahara).
 - OK   6 utelatt W2518727062 «Do Top Dogs Rule in Middle School? Evidence on Bullying, Safety, and B» (2016) – sortert bort i grovsiktingen: Grunnskole og mobbing; utenfor kriteriene
 - OK   6 utelatt W2805102649 «Efectos de un programa de Aprendizaje- Servicio en el alumnado univers» (2017) – sortert bort i grovsiktingen: Universitetsstudenter, utenfor avgrensningen.
@@ -8378,6 +8393,7 @@ Kjørt 2026-11-20.
 - OK   6 utelatt W4399077186 «Mediation Analysis with the Mediator and Outcome Missing Not at Random» (2024) – sortert bort i grovsiktingen: Metodelitteratur om manglende data.
 - OK   6 utelatt W2089734266 «With graduation in sight: Perceptions of high- and low-aggression stud» (2012) – sortert bort i grovsiktingen: kvalitative oppfatninger uten effekt
 - OK   6 utelatt W2905769321 «‘Post-truth’ schooling and marketized education: explaining the declin» (2019) – sortert bort i grovsiktingen: Generell skolekritikk, ingen tiltak.
+- OK   6 utelatt W2942978378 «Back to School: Pathways for Reengagement of Out-of-School Youth in Ed» (2019) – lest i utvalget, tatt ut i streng avgrensning: unge utenfor skolen, lite overførbart
 - OK   6 utelatt W3163117010 «Cash transfers and the supply of labor by poor households: Evidence fr» (2021) – lest i utvalget, ikke valgt: land utenfor OECD (Ghana).
 - OK   6 utelatt W4304688743 «IMF Engagement on Social Safety Net Issues in Surveillance and Program» (2022) – sortert bort i grovsiktingen: Sosiale sikkerhetsnett, IMF
 - OK   6 utelatt W1980089077 «Bridging the Discontinuity in Adolescent Literacy? Mixed Evidence from» (2015) – sortert bort i grovsiktingen: Lesing i ungdomsskolen; grunnskole, utenfor gruppen
@@ -8411,6 +8427,7 @@ Kjørt 2026-11-20.
 - OK   6 utelatt W4409248538 «Evaluating the labor supply implications of a cash transfer program: E» (2025) – sortert bort i grovsiktingen: arbeidstilbud
 - OK   6 utelatt W7005089 «Putting Students and Workers First? Education and Labor Policy in the » (2001) – lest i utvalget, ikke valgt: annet felt (politikkgjennomgang, 1990-tallet).
 - OK   6 utelatt W1530325513 «What Might Improve the Employment and Advancement Prospects of the Poo» (2009) – sortert bort i grovsiktingen: Sysselsetting for fattige voksne; ikke videregående
+- OK   6 utelatt W2553145233 «What Works for Disconnected Young People: A Scan of the Evidence» (2016) – lest i utvalget, tatt ut i streng avgrensning: unge 16–24 utenfor skole og arbeid, ikke elever
 - OK   6 utelatt W2757862575 «Preventing Suicide Among Students in Rural Schools» (2017) – sortert bort i grovsiktingen: Forebygging av selvmord i skoler, ikke fullføring.
 - OK   6 utelatt W2005048931 «Literacy and Numeracy among Job Corps Students: Opportunities for Targ» (2012) – lest i utvalget, ikke valgt: deskriptiv statistikk eller kartlegging uten tiltak.
 - OK   6 utelatt W3024171406 «Campbell Collaboration systematic reviews and the Journal of Experimen» (2020) – sortert bort i grovsiktingen: Metaanmeldelse om kriminologi
