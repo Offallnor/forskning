@@ -22,7 +22,7 @@ Grovsiktingen er gjort med Haiku etter `verktoy/SIKTING.md`. Utvalget er lest i 
 - **Referanserunde 1:** 278 av de 4 386 nye kandidatene ble valgt i kategori 1–4, om lag 6 prosent. Kravet var ikke oppfylt.
 - **Referanserunde 2:** 177 av de 7 375 nye ble valgt i kategori 1–4 i Opus-utvalget (2,4 prosent). Med de 42 kildene i kategori 1–3 som det blinde utvalget la til, er andelen om lag 3 prosent.
 
-- **Referanserunde 3:** 27 av de 2 739 nye ble valgt i kategori 1–4 i Opus-utvalget (1,0 prosent). Med de 17 i kategori 1–4 som det blinde utvalget la til, er andelen 1,6 prosent.
+- **Referanserunde 3:** 27 av de 2 739 nye ble valgt i kategori 1–4 i Opus-utvalget (1,0 prosent). Med de 18 i kategori 1–4 som det blinde utvalget la til, er andelen 1,6 prosent.
 
 Krav 1 er oppfylt i runde 2 og 3.
 
