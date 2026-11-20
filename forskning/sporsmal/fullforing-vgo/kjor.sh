@@ -13,4 +13,6 @@
 # Runde 5 (20.11): tekst for kjernen (326 kilder i kjerne.txt, smal kjerne valgt av bestilleren)
 # python3 -I forskning/verktoy/sporsmal_sok.py fullforing-vgo --pdf
 # Runde 6 (20.11): åpne versjoner av kjernekilder uten tekst (176)
-python3 -I forskning/verktoy/sporsmal_sok.py fullforing-vgo --versjoner
+# python3 -I forskning/verktoy/sporsmal_sok.py fullforing-vgo --versjoner
+# Runde 7 (20.11): tekst for åpne versjoner lagt i kjernen
+python3 -I forskning/verktoy/sporsmal_sok.py fullforing-vgo --pdf

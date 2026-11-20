@@ -1237,3 +1237,20 @@ W2114952120  # 3, US, tiltaksgruppe 5, tre endringer i GED-politikken (strengere
 W3169012768  # 3, land ikke oppgitt, tiltaksgruppe 1, langtidseffekter av et program for ekstraundervisning i videregående: videre utdanning, inntekt og mobilitet; tvil: 4
 W4411550415  # 3, US, tiltaksgruppe 1, effekten av tidlig varsling (risikoskårer) i Wisconsin på fullføring; designet går ikke helt fram av sammendraget, tvil: 4
 W2321612795  # 3, ES, tiltaksgruppe 4, effektevaluering av stipender i ikke-obligatorisk videregående i Spania 2004–2005, utfall fullføring; design uklart, tvil: 4
+
+# Åpne versjoner av kjernekilder uten tekst (versjoner.tsv, 20.11.2026)
+W2787562696  # åpen versjon av W1480082844
+W36520195  # åpen versjon av W1538501408
+W7112933148  # åpen versjon av W1601418063
+W1869343368  # åpen versjon av W1803160732
+W651586606  # åpen versjon av W2090514173
+W1505084678  # åpen versjon av W2129670298
+W3123305208  # åpen versjon av W2136473291
+W3123412170  # åpen versjon av W2253655096
+W3028429055  # åpen versjon av W2625356604
+W7110655526  # åpen versjon av W2763694206
+W2949573117  # åpen versjon av W2764099164
+W4287106252  # åpen versjon av W3185015540
+W7110594506  # åpen versjon av W4220981384
+W3129900018  # åpen versjon av W4240108531
+W7111128243  # åpen versjon av W7160873583
