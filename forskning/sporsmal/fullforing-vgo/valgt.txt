@@ -1236,3 +1236,31 @@ W2786290759  # 2, US, tiltaksgruppe 1, randomisert evaluering av Razor C.O.A.C.H
 W2290286927  # 2, US, tiltaksgruppe 5, bare tittel: New York small public high schools of choice, effektivitet; design ikke oppgitt, tvil: 3
 W2336702864  # 2, AR, tiltaksgruppe 4, bare tittel: pengeinsentiver for å fullføre skolen i Argentina; land utenfor OECD og design ukjent, tvil: 3; samme materiale som W4240502616
 W4240502616  # 2, AR, tiltaksgruppe 4, bare tittel: pengeinsentiver for å fullføre skolen i Argentina; land utenfor OECD og design ukjent, tvil: 3
+
+# Fra håndlesing av sentrale kandidater som var beholdt i grovsiktingen, men ikke valgt (merket VURDER i begrunnelsesrunden), 20.11.2026. 207 lest, 26 valgt.
+W2498610004  # F, SE, tiltaksgruppe 2, OECD-gjennomgang av svensk yrkesopplæring i videregående: frafall, ledighet og tilpasning til arbeidslivet; uten effektmål
+W2144739922  # 5, DK/FI/NO/SE, tiltaksgruppe 2, sammenligning av hvordan organiseringen av yrkesspor (dualt eller skolebasert) påvirker arbeidsmarkedsrisiko ved tidlig avbrudd; tvil: 4
+W3128647170  # F, AT/DK/DE, tiltaksgruppe 2, sammenligning av hvordan yrkesopplæringen i tre land tok imot unge flyktninger etter 2015; uten effektmål
+W3021844198  # F, AT/NO/SE/CH, tiltaksgruppe 2, sammenlignende analyse av opplæringsløp for utsatt ungdom (endret varighet, forberedende og individuell støtte); uten effektmål
+W1996727560  # F, SE, tiltaksgruppe 5, politikkanalyse av de siste reformene av svensk videregående, likeverd og valg; uten effektmål
+W1591261514  # F, SE, tiltaksgruppe 2, analyse av 40 år med reformer av læreplan og organisering i svensk videregående; uten effektmål
+W2011120919  # F, NO, tiltaksgruppe 3, sammenligning av fornyelsen av lærlingordningen i Norge og Storbritannia på 1990-tallet; uten effektmål
+W2946765021  # F, NO/SE, tiltaksgruppe 1, analyse av nasjonale tiltak mot lav fullføring i Norge og Sverige; uten effektmål
+W1645228079  # F, DK, tiltaksgruppe 1, studie av de påbudte fastholdelsestiltakene i dansk yrkesopplæring og insentivene rundt dem; uten effektmål
+W7117126093  # F, NO, tiltaksgruppe 3, kapittel om norsk yrkesopplæring, 2+2-modellen og lærlingordningen; uten effektmål
+0198cc463847-345d573e-b996-4be3-bfc7-73b230140297  # F, NO, tiltaksgruppe 1, kunnskapsoppsummering og klassifisering av Flyt, et gruppetiltak som starter på 10. trinn og varer om lag 15 måneder for å styrke gjennomføringen; tvil om tiltaket hører til grunnskolen
+KU-a2a2fd84-a6e5-4faf-a032-9cf833fb8311  # 5, NO, tiltaksgruppe 2, kunnskapsoppsummering (NIFU og Fafo) om tilbudsstruktur, søkning, gjennomføring og kobling til arbeidslivet i fire yrkesfaglige programmer
+KU-c040603e-dd74-4666-83a3-418cdd6e462b  # 5, NO, tiltaksgruppe 2, litteraturgjennomgang for Cedefop om nytten av yrkesopplæring, overganger og kvalitet i Norge
+W1904713647  # 5, FI, tiltaksgruppe 2, sammenligning av finsk yrkesopplæring med de andre nordiske landene: utdanningsprogresjon og sysselsetting
+W2050439291  # 3, NL, tiltaksgruppe 2, bare tittel: lønnseffekt av et ekstra år i grunnleggende yrkesopplæring; design ikke oppgitt, tvil: 4
+W2157797835  # 1, US, tiltaksgruppe 1, oversikt over frafallsforebygging, alternative veier og GED, med drøfting av hvordan frafall måles; tvil: 4
+W1572536352  # 2, CO, tiltaksgruppe 5, lotteri om skolevoucher til yrkesskoler i Colombia: skoletype, medelever og videre utfall; uklart om fullføring er utfall
+W4391851863  # 1, GB, tiltaksgruppe 1, systematisk oversikt over helskoletiltak som styrker elevenes tilknytning til skolen, med utdanningsnivå blant utfallene
+W4206973215  # 2, IT, tiltaksgruppe 1, stort randomisert forsøk med veiledning og karriererådgivning for barn av innvandrere: valg av studieretning og gjentak
+W2944725835  # 2, BE/CA/FR/US, tiltaksgruppe 1, bare tittel: erfaringer fra to internasjonale effektforsøk med Check & Connect; tvil: F
+W1970017925  # 3, GB, tiltaksgruppe 5, bare tittel: regresjonsdiskontinuitet for å stryke på avgangsprøven i videregående, utfall frafall
+W2120158905  # 3, US, tiltaksgruppe 5, regresjonsdiskontinuitet rundt bestått avgangsprøve i Massachusetts, utfall fullføring for svake elever i byskoler
+W2114952120  # 3, US, tiltaksgruppe 5, tre endringer i GED-politikken (strengere krav, GED-program i skolen) og effekten på fullføring og frafall
+W3169012768  # 3, land ikke oppgitt, tiltaksgruppe 1, langtidseffekter av et program for ekstraundervisning i videregående: videre utdanning, inntekt og mobilitet; tvil: 4
+W4411550415  # 3, US, tiltaksgruppe 1, effekten av tidlig varsling (risikoskårer) i Wisconsin på fullføring; designet går ikke helt fram av sammendraget, tvil: 4
+W2321612795  # 3, ES, tiltaksgruppe 4, effektevaluering av stipender i ikke-obligatorisk videregående i Spania 2004–2005, utfall fullføring; design uklart, tvil: 4
