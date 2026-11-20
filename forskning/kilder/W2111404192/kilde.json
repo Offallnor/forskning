@@ -1,0 +1,18 @@
+{
+ "apen_url": "https://www.econstor.eu/bitstream/10419/62070/1/VfS_2012_pid_178.pdf",
+ "ar": 2016,
+ "doi": "https://doi.org/10.3368/jhr.52.1.0415-7074r",
+ "forfattere": [
+  "Eric Alan Hanushek",
+  "Guido Schwerdt",
+  "Ludger Woessmann",
+  "Lei Zhang"
+ ],
+ "id": "W2111404192",
+ "kilde": "The Journal of Human Resources",
+ "lenke": "https://openalex.org/W2111404192",
+ "oversikt": false,
+ "sammendrag": "Policy proposals promoting vocational education focus on the school-to-work transition. But with technological change, gains in youth employment may be offset by less adaptability and diminished employment later in life. To test for this tradeoff, we employ a difference-in-differences approach that compares employment rates across different ages for people with general and vocational education. Using microdata for 11 countries from IALS, we find strong and robust support for such a tradeoff, especially in countries emphasizing apprenticeship programs. German Microcensus data and Austrian administrative data confirm the results for within-occupational-group analysis and for exogenous variation from plant closures, respectively.",
+ "tittel": "General Education, Vocational Education, and Labor-Market Outcomes over the Lifecycle",
+ "type": "article"
+}

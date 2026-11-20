@@ -1,0 +1,20 @@
+{
+ "apen_url": "https://doi.org/10.3386/w29758",
+ "ar": 2022,
+ "doi": "https://doi.org/10.3386/w29758",
+ "forfattere": [
+  "Sandra García",
+  "Juan Esteban Saavedra"
+ ],
+ "hentet": "2026-11-20",
+ "hentet_fra": "http://www.nber.org/papers/w29758.pdf",
+ "hvordan": "pdf",
+ "id": "W4213274030",
+ "kilde": "National Bureau of Economic Research",
+ "lenke": "https://openalex.org/W4213274030",
+ "merknad": "ÅPEN VERSJON (preprint eller arbeidsnotat), merkes i svaret",
+ "oversikt": false,
+ "sammendrag": "This chapter reviews the extensive literature to date on CCTs for education.Section 2 provides background on the origins and expansion of CCTs globally, and describes basic design features and variation in characteristics across programs.Section 3 presents a theory of change and an economic household decision-making model highlighting key comparative statics and empirical predictions for the introduction of an education CCT program.Section 4 discusses key methodological challenges in evaluating the impacts of education CCTs.Section 5 integrates and updates the extensive evidence to date on the impacts of education CCTs on various outcome domains over the life cycle, and provides the most comprehensive view to date on learning impacts by meta-analyzing new evidence from more than 30 studies-substantially more than prior reviews of the literature.Section 6 reviews the evidence on indirect and general equilibrium effects.Section 7 presents a simple model of costs commonly used in the literature, which we extend to analyze cost-effectiveness for a subset of programs.Section 8 concludes and highlights open questions for future research.",
+ "tittel": "Conditional Cash Transfers for Education",
+ "type": "report"
+}

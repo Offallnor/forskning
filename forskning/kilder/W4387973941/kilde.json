@@ -1,0 +1,24 @@
+{
+ "apen_url": "https://www.tandfonline.com/doi/pdf/10.1080/13803611.2023.2273540?needAccess=true",
+ "ar": 2023,
+ "doi": "https://doi.org/10.1080/13803611.2023.2273540",
+ "forfattere": [
+  "Beng Huat See",
+  "Stephen A.C. Gorard",
+  "Nadia Siddiqui",
+  "Loraine Hitt",
+  "Nada El Soufi",
+  "Binwei Lu"
+ ],
+ "hentet": "2026-11-20",
+ "hentet_fra": "https://pure-oai.bham.ac.uk/ws/files/232443909/How_finance-based_interventions_can_improve_attainment_at_school_for_disadvantaged_students_a_review_of_international_evidence.pdf",
+ "hvordan": "pdf",
+ "id": "W4387973941",
+ "kilde": "Educational Research and Evaluation",
+ "lenke": "https://openalex.org/W4387973941",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "The challenge of improving attainment in schools has been a longstanding issue, particularly in developing countries. This paper uses a structured review to examine causal evidence from research worldwide on the impact of finance-based interventions, including extra funding for school places, cash transfers and incentives to improve attainment in schools. The best evidence suggests that monetary incentives paid directly to students or families are the most effective strategy for raising attainment in less developed school systems. However, cash incentives may not be as effective in developed countries, where they are more useful for changing behaviour, such as completing homework, or attending classes, but not for improving attainment. This may be because students in developed countries already know how to complete homework, but may not know how to improve their test scores. The evidence for other approaches is less clear due to the lack of strong research in those areas.",
+ "tittel": "How finance-based interventions can improve attainment at school for disadvantaged students: a review of international evidence",
+ "type": "article"
+}

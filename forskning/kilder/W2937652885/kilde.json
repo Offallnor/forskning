@@ -1,0 +1,19 @@
+{
+ "apen_url": "http://hdl.handle.net/10419/210958",
+ "ar": 2019,
+ "forfattere": [
+  "Martin Eckhoff Andresen",
+  "Sturla A. Løkken"
+ ],
+ "hentet": "2026-11-20",
+ "hentet_fra": "https://nva.sikt.no/registration/0199386338e4-19e47ffe-d2cd-4a7c-bc4b-f0a410c7c128",
+ "hvordan": "vitenarkivet",
+ "id": "W2937652885",
+ "kilde": "RePEc: Research Papers in Economics",
+ "lenke": "https://openalex.org/W2937652885",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "We exploit the assignment of exam form in a high-stakes Norwegian high school exam to estimate the impact of exam form on exam results, later school performance, graduation and longer run outcomes.\\n\\nResults indicate that written exams significantly reduce exam grades and reduce the probability of passing relative to the alternative oral exam, particularly for initially low-performing students. Because passing the exam is mandatory to obtain a high school diploma, this translates into reduced high school graduation rates that remain significant over time, permanently shifting a group of marginal students to drop out of high school entirely. IV estimates on labor market earnings are close to zero, but these results are too imprecise to draw firm conclusions.",
+ "tittel": "High school dropout for marginal students: Evidence from randomized exam form",
+ "type": "preprint"
+}

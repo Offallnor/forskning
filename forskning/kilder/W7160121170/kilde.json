@@ -1,0 +1,22 @@
+{
+ "apen_url": "https://doi.org/10.1016/j.edurev.2026.100791",
+ "ar": 2026,
+ "doi": "https://doi.org/10.1016/j.edurev.2026.100791",
+ "forfattere": [
+  "Pamela Graham",
+  "Andrea Carrick",
+  "David Littlefair",
+  "Diego Melo",
+  "Kirstin Mulholland",
+  "Pamela Graham",
+  "Gemma Bradley",
+  "Clara Davies"
+ ],
+ "id": "W7160121170",
+ "kilde": "Educational Research Review",
+ "lenke": "https://openalex.org/W7160121170",
+ "oversikt": true,
+ "sammendrag": "School absenteeism and dropout remain persistent global challenges with significant consequences for educational, psychosocial, health and economic outcomes. Following the COVID-19 pandemic, attendance rates in many countries have declined and remain below pre-pandemic levels, intensifying the need for robust, context-sensitive interventions. This systematic review synthesised and critically appraised randomised controlled trials (RCTs) evaluating interventions designed to address absenteeism and dropout among children and adolescents under 18 years of age. In accordance with PRISMA 2020 guidelines, five electronic databases (CINAHL, Embase, Eric, PsycINFO, and PubMed) were searched in February 2024. Risk of bias was assessed using the Cochrane Risk of Bias 2 tool. Interventions were categorised using Bronfenbrenner's Ecological Systems Theory to examine the ecological levels at which they operated. Twenty-nine RCTs involving 153,740 participants across nine countries with diverse socioeconomic contexts met inclusion criteria. Sixteen studies reported absenteeism outcomes, four focused on dropout, and nine examined both. Most interventions were multi-component and targeted multiple ecological domains. Substantial heterogeneity was observed in intervention design, outcome definitions, measurement timeframes, and reporting practices, including limited reporting of intervention development processes. Over half of the studies were at high risk of bias, and inconsistent reporting of effect sizes and variances prevented meta-analysis. This review does not determine comparative superiority across intervention types; rather, it examines how the RCT evidence base is structured, operationalised, and reported. The findings underscore the need for clearer operational definitions, standardised outcome reporting, and transparent adherence to CONSORT guidelines to enable cumulative, interpretable, and theoretically coherent progress in the field.",
+ "tittel": "The structure and methodological quality of randomised controlled trials addressing school absenteeism and dropout in children and adolescents: a systematic review",
+ "type": "review"
+}

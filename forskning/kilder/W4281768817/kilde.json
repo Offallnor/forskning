@@ -1,0 +1,17 @@
+{
+ "apen_url": "https://www.tandfonline.com/doi/pdf/10.1080/00131911.2022.2076656?needAccess=true",
+ "ar": 2022,
+ "doi": "https://doi.org/10.1080/00131911.2022.2076656",
+ "forfattere": [
+  "Toni Mora",
+  "Josep‐Oriol Escardíbul",
+  "Pilar Pineda i Herrero"
+ ],
+ "id": "W4281768817",
+ "kilde": "Educational Review",
+ "lenke": "https://openalex.org/W4281768817",
+ "oversikt": false,
+ "sammendrag": "Dual vocational education and training (VET) has recently been introduced in Catalonia, as in the whole of Spain, and it should be the only VET system in the near future. However, Dual VET still coexists with traditional VET. The former has much more on-the-job training, companies are more involved in curricula design and training management, and trainees receive a salary or a scholarship. This study analysed the effect of Dual VET on students’ grades and degree completion. We use the whole population of Catalan students during four academic years (from 2015–2016 to 2018–2019) that completed their degree. We employ an instrumental variable approach to explain grades at completion. Results show that Dual VET had a positive effect on grades irrespective of the method and outcome used (standardised or non-standardised grades). In fact, our instrumental variables estimation showed a greater impact than the ordinary least squares results. In addition, Dual VET also increased the probability of graduation. Thus, the transformation of the Catalan VET into a Dual VET may have positive effects, since the latter improves course completion and grades.",
+ "tittel": "The effect of dual vocational education and training on grades and graduation in Catalonia, Spain",
+ "type": "article"
+}

@@ -1,0 +1,15 @@
+{
+ "ar": 2012,
+ "doi": "https://doi.org/10.1080/09645292.2012.672555",
+ "forfattere": [
+  "Kristof De Witte",
+  "Márton Csillag"
+ ],
+ "id": "W2016550750",
+ "kilde": "Education Economics",
+ "lenke": "https://openalex.org/W2016550750",
+ "oversikt": false,
+ "sammendrag": "Various policy measures have been taken in industrialized countries to reduce school dropout rates. This paper first examines the relationship between truancy and school dropout. Using fixed effects regressions and controlling for truancy peer group effects, we observe that truancy (measured as both a discrete dummy variable and a continuous count measure) positively correlates to early school leaving. A truant has a 3.4 percentage points higher risk of leaving school without a qualification. Second, we exploit the introduction of truancy reporting in a quasi-experimental identification strategy. In essence, the idea is straightforward: if students are better monitored with respect to truancy, schools can identify more easily students at risk. The results indicate that improved truancy reporting significantly reduces school dropout by 5 percentage points.",
+ "tittel": "Does anybody notice? On the impact of improved truancy reporting on school dropout",
+ "type": "article"
+}

@@ -1,0 +1,22 @@
+{
+ "apen_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/berj.3252",
+ "ar": 2016,
+ "doi": "https://doi.org/10.1002/berj.3252",
+ "forfattere": [
+  "Rhiannon Evans",
+  "RACHEL M. A. BROWN",
+  "Gwyther Rees",
+  "Philip Smith"
+ ],
+ "hentet": "2026-11-20",
+ "hentet_fra": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC5299458/fullTextXML",
+ "hvordan": "Europe PMC",
+ "id": "W2556292298",
+ "kilde": "British Educational Research Journal",
+ "lenke": "https://openalex.org/W2556292298",
+ "merknad": "",
+ "oversikt": true,
+ "sammendrag": "Looked-after children and young people (LACYP) are educationally disadvantaged compared to the general population. A systematic review was conducted of randomised controlled trials evaluating interventions aimed at LACYP aged ≤18 years. Restrictions were not placed on delivery setting or delivery agent. Intervention outcomes were: academic skills; academic achievement and grade completion; special education status; homework completion; school attendance, suspension, and drop-out; number of school placements; teacher-student relationships; school behaviour; and academic attitudes. Fifteen studies reporting on 12 interventions met the inclusion criteria. Nine interventions demonstrated tentative impacts. However, evidence of effectiveness could not be ascertained due to variable methodological quality, as appraised by the Cochrane risk of bias tool. Theoretical and methodological recommendations are provided to enhance the development and evaluation of educational interventions.",
+ "tittel": "Systematic review of educational interventions for looked‐after children and young people: Recommendations for intervention development and evaluation",
+ "type": "review"
+}

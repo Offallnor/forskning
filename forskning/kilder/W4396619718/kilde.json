@@ -1,0 +1,17 @@
+{
+ "ar": 2024,
+ "doi": "https://doi.org/10.1080/10824669.2024.2342779",
+ "forfattere": [
+  "Qing Wang",
+  "Yu‐Yu Hsiao",
+  "Carolyn J. Hushman",
+  "Jan Armstrong"
+ ],
+ "id": "W4396619718",
+ "kilde": "Journal of Education for Students Placed at Risk (JESPAR)",
+ "lenke": "https://openalex.org/W4396619718",
+ "oversikt": true,
+ "sammendrag": "This study aimed to examine the effectiveness of dropout intervention programs among K-12 students. A total of 26 empirical studies published between 2010 and 2022 were included, from which 31 effect sizes were extracted. The average effect size for the dropout intervention programs on increasing high school completion was estimated as 0.19 (95% CI: 0.10, 0.28). We found that both nonrandomly assigned but matched designs and randomly assigned designs tended to have larger effect sizes compared to nonrandom designs. Behavioral interventions (ES = 0.33) and combined interventions that implemented at least two kinds of intervention strategies (ES = 0.31) performed better than programs focused on academics alone (ES = 0.12) in terms of preventing dropout and promoting graduation rate. We suggest educators and policymakers include behavioral components when developing intervention programs.",
+ "tittel": "The Effectiveness of Dropout Intervention Programs Among K-12 Students: A Meta-Analysis",
+ "type": "review"
+}

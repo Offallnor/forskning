@@ -1,0 +1,19 @@
+{
+ "apen_url": "https://doi.org/10.3386/w22130",
+ "ar": 2016,
+ "doi": "https://doi.org/10.3386/w22130",
+ "forfattere": [
+  "Roland G. Fryer"
+ ],
+ "hentet": "2026-11-20",
+ "hentet_fra": "http://www.nber.org/papers/w22130.pdf",
+ "hvordan": "pdf",
+ "id": "W2335930971",
+ "kilde": "National Bureau of Economic Research",
+ "lenke": "https://openalex.org/W2335930971",
+ "merknad": "ÅPEN VERSJON (preprint eller arbeidsnotat), merkes i svaret",
+ "oversikt": false,
+ "sammendrag": "Randomized field experiments designed to better understand the production of human capital have increased exponentially over the past several decades.This chapter summarizes what we have learned about various partial derivatives of the human capital production function, what important partial derivatives are left to be estimated, and what -together -our collective efforts have taught us about how to produce human capital in developed countries.The chapter concludes with a back of the envelope simulation of how much of the racial wage gap in America might be accounted for if human capital policy focused on best practices gleaned from randomized field experiments.",
+ "tittel": "The Production of Human Capital in Developed Countries: Evidence from 196 Randomized Field Experiments",
+ "type": "report"
+}

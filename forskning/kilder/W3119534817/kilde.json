@@ -1,0 +1,14 @@
+{
+ "ar": 2021,
+ "doi": "https://doi.org/10.1080/09645292.2021.1871884",
+ "forfattere": [
+  "Markus Zimmermann"
+ ],
+ "id": "W3119534817",
+ "kilde": "Education Economics",
+ "lenke": "https://openalex.org/W3119534817",
+ "oversikt": false,
+ "sammendrag": "This paper estimates the effects of attending a vocational higher track secondary (HTS) school compared to a general HTS school. It considers the case of Germany, where both schools provide access to tertiary education. Identification uses selection-on-observables and instrumental variables strategies. Attending a vocational HTS school has no effect on HTS graduation and a small negative effect on planned university attendance. There are positive effects on career planning, i.e. whether the pupil has a clear plan where to apply after school. After controlling for selection, vocational HTS pupils face higher earnings at early ages, with little differences at later ages.",
+ "tittel": "Postsecondary and labour market outcomes of vocational vs. general higher track secondary pupils",
+ "type": "article"
+}

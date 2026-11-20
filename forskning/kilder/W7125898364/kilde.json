@@ -1,0 +1,20 @@
+{
+ "apen_url": "https://link.springer.com/content/pdf/10.1186/s40461-025-00203-6.pdf",
+ "ar": 2026,
+ "doi": "https://doi.org/10.1186/s40461-025-00203-6",
+ "forfattere": [
+  "Torberg Falch",
+  "Anna Cecilia Rapp"
+ ],
+ "hentet": "2026-11-20",
+ "hentet_fra": "https://link.springer.com/content/pdf/10.1186/s40461-025-00203-6.pdf",
+ "hvordan": "pdf",
+ "id": "W7125898364",
+ "kilde": "Empirical research in vocational education and training",
+ "lenke": "https://openalex.org/W7125898364",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "Abstract Vocational education and training involve several actors working together in a skills ecosystem. This paper focuses on the role of training agencies (TAs) in the transitions in this system. They interrelate with schools, workplaces, and the apprentices themselves to enhance the quality of the apprenticeship training. Using rich data from one Norwegian county, we present evidence on the transition from school to apprenticeship. Further, we analyse whether TAs contribute to apprenticeship completion as well as the variation across TAs using regression analysis, controlling for socio-economic differences across apprentices, and we distinguish between the perspectives of the workplace and the apprentice. We find that the probability of passing the final examination and achieving the trade certificate is significantly higher for apprentices in TAs than for apprentices with a contract directly with an independent private firm. In addition, there is a large variation in completion rates across TAs and across approved training establishments that are not a part of a TA.",
+ "tittel": "Transitions in vocational education and training - challenges in the role of training agencies in Norway",
+ "type": "article"
+}

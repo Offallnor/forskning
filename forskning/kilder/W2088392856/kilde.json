@@ -1,0 +1,18 @@
+{
+ "ar": 2015,
+ "doi": "https://doi.org/10.3280/riv2014-058003",
+ "forfattere": [
+  "Enrico Conti",
+  "Silvia Duranti",
+  "Alessandra Mattei",
+  "Fabrizia Mealli",
+  "Nicola Sciclone"
+ ],
+ "id": "W2088392856",
+ "kilde": "RIV Rassegna Italiana di Valutazione",
+ "lenke": "https://openalex.org/W2088392856",
+ "oversikt": false,
+ "sammendrag": "Innovare is a teacher-based dropout prevention program, promoted by the Regional government in Tuscany (Italy), aimed at reducing dropout in the early grades of vocational high schools through the introduction of innovative teaching methods. The Innovare study is a cluster-randomized experiment. We adopt a randomization inference approach to evaluate the effect of the Innovare program at the cluster-level, using sub-classifications on the propensity score to adjust for differences in \\nthe observed background pretreatment variables between treatment groups. We also conduct individual-level analyses using multilevel models. The results at both cluster- and individual- level suggest that Innovare has \\npositive effects. Although the estimated effects are small, there is some \\nevidence that Innovare decreases the probability of failing and dropping \\nout, reduces the absence rate, and increases the probability of postponing \\nthe evaluation.",
+ "tittel": "The effects of a dropout prevention program on secondary students' outcomes",
+ "type": "article"
+}

@@ -1,0 +1,15 @@
+{
+ "apen_url": "https://doi.org/10.15168/11572_368112",
+ "ar": 2016,
+ "doi": "https://doi.org/10.15168/11572_368112",
+ "forfattere": [
+  "Erica Raimondi"
+ ],
+ "id": "W2469072264",
+ "kilde": "Unitn-eprints PhD (University of Trento)",
+ "lenke": "https://openalex.org/W2469072264",
+ "oversikt": false,
+ "sammendrag": "Education continues to define social positions and reproduce social inequalities. Deficiencies in education may lead to disadvantages at both the individual and societal levels, and lower qualifications are usually obtained by already disadvantaged youths. One of the biggest problems in this regard is dropping out (also named early school-leaving)—i.e. young people who leave the education system before completing upper secondary school. \\nMany interventions have attempted to prevent or discourage students from dropping out of school. Among them there are two straightforward systemic policies: raising the age of compulsory schooling and creating alternative tracks for completing education. They aimed to achieve the same goal—reducing dropping out—but using different strategies. Despite the diffusion of these reforms, it is not clear to what extent one or both may succeed in their goal. \\nBoth of these policies were actively pursued in Italy in a less than five-year period—from 1999 to 2003. In 1999, the so-called Berlinguer reform extended compulsory schooling from age 14 to 15, and in 2003 the State-Regions Congress introduced experimental vocational and training programmes (IFP). These intensive changes allow for the comparison of these two interventions in a single context one after the other, but no extensive studies have been made so far. The dissertation seeks to address this lacuna by making the best use of the available data. \\nThe broad question of the thesis is whether the extension of compulsory schooling and/or the creation of new vocational and training programmes have modified students’ (and families’) dropping-out decisions. To answer, propensity score matching, counterfactual time series, segmented regression, region fixed effect and individual multilevel cross-classified logistic analyses are used. The results are framed in the theoretical debates about education: its roles, its expansion, its contribute to (in)equality and its policies.",
+ "tittel": "More Qualifications and Less Dropout? From Compulsory Schooling to Vocational Education in Italy",
+ "type": "dissertation"
+}

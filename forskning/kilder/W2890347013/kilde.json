@@ -1,0 +1,24 @@
+{
+ "apen_url": "https://bmcpsychology.biomedcentral.com/track/pdf/10.1186/s40359-018-0258-8",
+ "ar": 2018,
+ "doi": "https://doi.org/10.1186/s40359-018-0258-8",
+ "forfattere": [
+  "Susan Andersen",
+  "Morten Hulvej Rod",
+  "Teresa Holmberg",
+  "Liselotte Ingholt",
+  "Annette Kjær Ersbøll",
+  "Janne Schurmann Tolstrup"
+ ],
+ "hentet": "2026-11-20",
+ "hentet_fra": "https://bmcpsychology.biomedcentral.com/track/pdf/10.1186/s40359-018-0258-8",
+ "hvordan": "pdf",
+ "id": "W2890347013",
+ "kilde": "BMC Psychology",
+ "lenke": "https://openalex.org/W2890347013",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "BACKGROUND: Lack of formal education is an important social determinant of health inequality and represents a public health problem. School dropout is particularly common in vocational education; however few prevention programs targeting dropout in the vocational school setting have been evaluated. The purpose of the present study was to test the effect on school dropout of a settings-based intervention program (named Shaping the Social) that targeted the school organization in order to create social and supportive learning environments. METHODS: A non-randomized controlled design including four large intervention schools and six matched-control schools was used. The target population was students in technical and agricultural vocational education, which is provided to students from age 16. Students were enrolled at school start. Register-based data (n = 10,190) was used to assess the effect on school dropout during a 2-year period. Odds ratios (OR) and 95% confidence intervals (CI) were calculated in logistic regression models, adjusting for age, sex, ethnicity, parental income, prior school dropout and type of basic course. Student survey (n = 2396) at 10-week follow-up was used to examine wellbeing at school (four subscales: school connectedness, student support, teacher relatedness, and valuing the profession) which was the hypothesized proximal intervention effect. As a secondary aim, we examined how the student wellbeing factors were associated with school dropout, independently of the intervention, and we explored whether the student wellbeing factors were potential mediators. RESULTS: The present study showed an intervention effect on school dropout with dropout rates lower in intervention schools (36%) than control schools (40%) (OR = 0.86, 95% CI: 0.74, 0.99). We had no attrition on the dropout outcome. School connectedness mediated the intervention effect; no significant mediation effects were found for student support, teacher relatedness, and valuing the profession. Independently of the intervention, each student wellbeing factor prevented dropout. CONCLUSIONS: Findings from this study suggest that a comprehensive, multicomponent school-based intervention could prevent dropout from vocational education by promoting school connectedness; nevertheless, the dropout rate remained high. Our results point to the need to explore how to further improve the wellbeing at school among young people in vocational education. TRIALS REGISTRATION: ISRCTN, ISRCTN57822968 . Registered 16 January 2013 (retrospective registered).",
+ "tittel": "Effectiveness of the settings-based intervention Shaping the Social on preventing dropout from vocational education: a Danish non-randomized controlled trial",
+ "type": "article"
+}

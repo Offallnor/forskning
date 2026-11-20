@@ -1,0 +1,16 @@
+{
+ "apen_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/berj.3569",
+ "ar": 2019,
+ "doi": "https://doi.org/10.1002/berj.3569",
+ "forfattere": [
+  "Deni Mazrekaj",
+  "Kristof De Witte"
+ ],
+ "id": "W2968503131",
+ "kilde": "British Educational Research Journal",
+ "lenke": "https://openalex.org/W2968503131",
+ "oversikt": false,
+ "sammendrag": "Modular education refers to the division of conventional courses into smaller components or modules. Each module enables students to obtain a partial certificate that can be combined into a qualification. This article evaluates whether modular education, which is widely used in secondary and tertiary education, has been effective in reducing school dropout. For this purpose, the study exploits a policy change in the Flemish Community of Belgium, which recently introduced modular education for some programmes. Using a difference‐in‐differences framework with diverse adoption dates per school, the results indicate that modular education may significantly reduce school dropout by 2.5 percentage points, with the largest effects on foreign origin students. Therefore, modular education is likely to be an effective policy to tackle school dropout and reduce the ethnic attainment gap. Additionally, students enrolled in modular education are more likely to be employed and to incur higher earnings on the labour market.",
+ "tittel": "The effect of modular education on school dropout",
+ "type": "article"
+}

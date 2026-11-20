@@ -1,0 +1,21 @@
+{
+ "apen_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/1475-5890.12238",
+ "ar": 2020,
+ "doi": "https://doi.org/10.1111/1475-5890.12238",
+ "forfattere": [
+  "Chiara Cavaglia",
+  "Sandra McNally",
+  "Henry G. Overman"
+ ],
+ "hentet": "2026-11-20",
+ "hentet_fra": "https://cver.lse.ac.uk/textonly/cver/pubs/cverdp018.pdf",
+ "hvordan": "pdf",
+ "id": "W2954037761",
+ "kilde": "Fiscal Studies",
+ "lenke": "https://openalex.org/W2954037761",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "Abstract One rationale for devolution is that local decision makers may be well placed to adapt national policies to the local context. We test whether such adaptation helps meet programme objectives in the case of the Apprenticeship Grant for Employers. Originally a national programme, aimed at incentivising employers to take on apprentices, reforms a few years into operation gave some Local Authorities negotiated flexibilities in how the scheme operated. We consider the impact of the national scheme and then use a difference‐in‐differences approach to test whether flexibility led to an increase in the number of apprenticeship starts in devolved areas relative to control groups. We find that flexibility had zero effect. There is suggestive evidence that this is because flexibilities were negotiated on the wrong margins.",
+ "tittel": "Devolving Skills: The Case of the Apprenticeship Grant for Employers*",
+ "type": "article"
+}

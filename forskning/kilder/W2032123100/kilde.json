@@ -1,0 +1,16 @@
+{
+ "ar": 2013,
+ "doi": "https://doi.org/10.5243/jsswr.2013.23",
+ "forfattere": [
+  "Katarzyna T. Steinka‐Fry",
+  "Sandra Jo Wilson",
+  "Emily E. Tanner‐Smith"
+ ],
+ "id": "W2032123100",
+ "kilde": "Journal of the Society for Social Work and Research",
+ "lenke": "https://openalex.org/W2032123100",
+ "oversikt": true,
+ "sammendrag": "This article reports the findings from a systematic review and meta-analysis of the effects of school dropout prevention programs for pregnant and parenting teens. The meta-analysis synthesized 119 effect sizes from 15 different studies measuring differences in school enrollment and completion outcomes for pregnant and parenting adolescents participating in dropout prevention programs relative to a comparison group. The study used random-effects, inverse-variance-weighted meta-analyses with robust variance estimates to synthesize odds ratios for school dropout outcomes. It used mixed-effects meta-regression models to examine the effects of program, methodological, and participant characteristics on program effects. The results indicate that drop out programs are effective in reducing school dropout rates and increasing school enrollment rates among teen mothers. Studies using randomized and matched-research designs produced smaller effect sizes than nonrandomized or nonmatched designs and program effects were consistent across different program types and participant samples. However, higher levels of implementation quality were associated with larger effects. In general, the results indicate that most school- and community-based programs are effective in decreasing school dropout rates for pregnant or parenting adolescents. Cost-effectiveness of programs, fit of services with local needs, and provider capacity are factors that should be considered when implementing the programs.",
+ "tittel": "Effects of School Dropout Prevention Programs for Pregnant and Parenting Adolescents: A Meta-Analytic Review",
+ "type": "article"
+}

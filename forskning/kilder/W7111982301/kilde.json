@@ -1,0 +1,20 @@
+{
+ "apen_url": "https://doi.org/10.3982/qe2826",
+ "ar": 2026,
+ "doi": "https://doi.org/10.3982/qe2826",
+ "forfattere": [
+  "María Elena Ortega-Hesles",
+  "Marco Pariguana"
+ ],
+ "hentet": "2026-11-20",
+ "hentet_fra": "http://www.econ.ed.ac.uk/papers/id311_esedps.pdf",
+ "hvordan": "pdf",
+ "id": "W7111982301",
+ "kilde": "Quantitative Economics",
+ "lenke": "https://openalex.org/W7111982301",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "This paper studies the effects of combining skill measures to construct the priority order in a centralized education market. We use data from Mexico City, where seat rationing relies solely on a one‐shot exam score. We first show that admission to the most oversubscribed schools decreases graduation among marginally admitted students, but this effect is heterogeneous. It decreases with the one‐shot exam score among inframarginal students and is negative for marginal students with low GPAs but null for those with high GPAs. We then use a model of school choice and graduation to study the equity and efficiency of counterfactual priority orders that combine the one‐shot exam score and GPA. Greater weight on GPA increases access to the most oversubscribed schools for girls and low‐SES students. However, assigning roughly equal weight to both skill measures maximizes their graduation rates at these schools.",
+ "tittel": "School choice, skill measures, and graduation",
+ "type": "article"
+}

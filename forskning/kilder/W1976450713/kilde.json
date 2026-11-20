@@ -1,0 +1,15 @@
+{
+ "ar": 2013,
+ "doi": "https://doi.org/10.5243/jsswr.2013.22",
+ "forfattere": [
+  "Sandra Jo Wilson",
+  "Emily E. Tanner‐Smith"
+ ],
+ "id": "W1976450713",
+ "kilde": "Journal of the Society for Social Work and Research",
+ "lenke": "https://openalex.org/W1976450713",
+ "oversikt": true,
+ "sammendrag": "Dropping out of secondary school is associated with numerous detrimental consequences, including low wages, unemployment, incarceration, and poverty. Fortunately, many school- and community-based prevention and intervention programs are available for the general population and at-risk students. The objective of this systematic review was to summarize the available evidence on the effects of prevention and intervention programs for increasing school completion or reducing school dropout among primary and secondary students. Overall, dropout programs (152 studies; 317 independent samples) were effective in reducing school dropout (or increasing school completion). The random effects weighted mean odds ratio for the general programs was 1.72. Using the average dropout rate for control groups of 21.1%, the mean odds ratio of 1.72 translates into a dropout rate of 13% for intervention groups. Moderator analyses indicated that study methods were associated with effect size magnitude. Effect sizes were therefore adjusted for methodological characteristics to examine the effects of different program types net of the influence of method. Effects were generally consistent across different types of programs and for different types of participant samples. Overall, results indicated that most school- and community-based programs were effective in decreasing school dropout. However, higher implementation quality tended to be associated with larger effects. Given the minimal variation in effects across program types, the review shows that—regardless of type—dropout prevention and intervention programs are likely to be effective if they are well implemented and appropriate for the local environment.",
+ "tittel": "Dropout Prevention and Intervention Programs for Improving School Completion Among School-Aged Children and Youth: A Systematic Review",
+ "type": "review"
+}

@@ -1,0 +1,21 @@
+{
+ "apen_url": "https://link.springer.com/track/pdf/10.1186/2193-9004-3-9",
+ "ar": 2014,
+ "doi": "https://doi.org/10.1186/2193-9004-3-9",
+ "forfattere": [
+  "Florentino Felgueroso",
+  "María Gutiérrez-Domènech",
+  "Sergi Jiménez‐Martín"
+ ],
+ "hentet": "2026-11-20",
+ "hentet_fra": "https://link.springer.com/content/pdf/10.1186/2193-9004-3-9.pdf",
+ "hvordan": "pdf",
+ "id": "W2138008261",
+ "kilde": "IZA Journal of Labor Policy",
+ "lenke": "https://openalex.org/W2138008261",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "Abstract Over the last 50 years, some important reforms in European countries were aimed at improving the system of vocational studies. By contrast, the Spanish educational law (LOGSE) from 1990 moved in the opposite direction. While the LOGSE increased the number of compulsory schooling years from 8 to 10, it also eliminated vocational studies of first grade (FP-I, ages 14 to 16), thereby reducing flexibility. The LOGSE was rolled out at different times across regions within Spain. This is used as an identification strategy to analyse whether the change in law contributed to stop the declining trend in dropout rates observed in the last two decades (they declined from 70% in 1977 to 30% in 1995, but remained at roughly 30% until recent years, twice the EU27 average). Results show that the new compulsory secondary education increased dropout rates for men and decreased them for women. Alternatively, the removal of the lower vocational track had negative effect for both genders, being the effect stronger for women. Finally, by reducing the track choice opportunities for students, the reform reduced the probability of following the vocational track after completion of the compulsory stage. JEL codes I20, J24.",
+ "tittel": "Dropout trends and educational reforms: the role of the LOGSE in Spain",
+ "type": "article"
+}

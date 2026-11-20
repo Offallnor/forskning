@@ -1,0 +1,21 @@
+{
+ "apen_url": "https://link.springer.com/content/pdf/10.1007/s11292-020-09444-9.pdf",
+ "ar": 2020,
+ "doi": "https://doi.org/10.21428/cb6ab371.ed60e0d7",
+ "forfattere": [
+  "Kira Solveig Larsen",
+  "Lars Højsgaard Andersen",
+  "Britt Østergaard Larsen"
+ ],
+ "hentet": "2026-11-20",
+ "hentet_fra": "https://link.springer.com/content/pdf/10.1007/s11292-020-09444-9.pdf",
+ "hvordan": "pdf",
+ "id": "W3092454042",
+ "kilde": "Journal of Experimental Criminology",
+ "lenke": "https://openalex.org/W3092454042",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "Abstract Objectives To examine the short-term effects of admission requirements for upper secondary vocational education and training (VET) on enrollment and criminal offending among academically low-achieving boys. Methods We apply multi-group difference-in-differences models to full population data and analyze an educational policy reform in Denmark (N = 60,759). Results The reform caused a 16 percentage points lower enrollment in VET among academically low-achieving boys, and their risk of being charged with a crime increased by up to two percentage points 9 months after the end of compulsory school. However, after 12 months, the effect on criminal charges disappeared. Conclusion In the education-crime nexus, educational enrollment in upper secondary education is an understudied margin, which has important implications for both scholars and policy-makers. Limitations include the short follow-up period and that the analyses examine effects for boys only.",
+ "tittel": "Pushed out of the education system: using a natural experiment to evaluate consequences for boys",
+ "type": "article"
+}

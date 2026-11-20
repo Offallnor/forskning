@@ -1,0 +1,15 @@
+{
+ "ar": 2011,
+ "doi": "https://doi.org/10.1002/jae.1267",
+ "forfattere": [
+  "Maria Knoth Humlum",
+  "Rune Vejlin"
+ ],
+ "id": "W2105032465",
+ "kilde": "Journal of Applied Econometrics",
+ "lenke": "https://openalex.org/W2105032465",
+ "oversikt": false,
+ "sammendrag": "SUMMARY We estimate the effect of cash transfers given to youth conditional on high school attendance on the labor supply decisions and academic performance of youth. We exploit differences in the size of the total transfer received based on timing of birth to identify the causal effects of interest. Specifically, individuals born late in a quarter receive a larger total transfer than comparable individuals born early in the following quarter. We find that the transfer increases the labor market participation of youth and the number of months worked. The estimated effect is larger for individuals from low‐income families. The results suggest that some youths are borrowing constrained. Since we find no evidence of corresponding effects on academic performance, alleviating the constraint appears only to affect consumption decisions and not human capital investment. Copyright © 2011 John Wiley & Sons, Ltd.",
+ "tittel": "THE RESPONSES OF YOUTH TO A CASH TRANSFER CONDITIONAL ON SCHOOLING: A QUASI‐EXPERIMENTAL STUDY",
+ "type": "article"
+}

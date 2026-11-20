@@ -1,0 +1,19 @@
+{
+ "apen_url": "http://publications.ut-capitole.fr/15641/1/Alet_15641.pdf",
+ "ar": 2011,
+ "forfattere": [
+  "Élodie Alet",
+  "Liliane Bonnal"
+ ],
+ "hentet": "2026-11-20",
+ "hentet_fra": "http://publications.ut-capitole.fr/15641/1/Alet_15641.pdf",
+ "hvordan": "pdf",
+ "id": "W290486728",
+ "kilde": "Toulouse Capitole Publications (University Toulouse 1 Capitole)",
+ "lenke": "https://openalex.org/W290486728",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "How to motivate academically struggling students? For those tracked in the vocational stream in France, two alternatives paths are competing: full-time vocational training and apprenticeship. Little research has been done on comparing the effectiveness of these two competing templates as ways to keep students at school and to allow them to graduate and continue further studies. In this paper, we compare schooling outcomes between apprenticeship and full-time vocational schooling, focusing on dropping-out, graduation and participation in further training. In order to do so, we estimate probit models with two simultaneous equations stating for both apprenticeship and our alternative measures of subsequent academic success. We exploit variations in the local apprenticeship share and in its interaction with the before-tracking pupils’ academic achievement to identify whether apprentices experience more educational success than students in full-time vocational schooling. Our results clearly indicate that endogeneity of the apprenticeship decision need to be taken into account: naïve estimates strongly point in the direction of apprentices being associated with worse educational outcomes. Nevertheless, estimates which deal with the endogeneity issue highlight the opposite: even though following an apprenticeship rather than being enrolled in full-time vocational high school is not associated with any significant effect on the probability to drop-out, apprenticeship training leads to a higher probability of success at the exam and of continuing further education.",
+ "tittel": "Vocational schooling and educational success: comparing apprenticeship to full-time vocational high-school",
+ "type": "book"
+}

@@ -1,0 +1,21 @@
+{
+ "apen_url": "https://doi.org/10.1080/00313831.2022.2116481",
+ "ar": 2022,
+ "doi": "https://doi.org/10.1080/00313831.2022.2116481",
+ "forfattere": [
+  "Mira Aaboen Sletten",
+  "Anne Grete Tøge",
+  "Ira Elena Malmberg-Heimonen"
+ ],
+ "hentet": "2026-11-20",
+ "hentet_fra": "https://nva.sikt.no/registration/0198cc77d18a-f60a684a-32f2-4f5e-851c-cb6882ee050d",
+ "hvordan": "vitenarkivet",
+ "id": "W4297073006",
+ "kilde": "Scandinavian Journal of Educational Research",
+ "lenke": "https://openalex.org/W4297073006",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "This cluster-randomised study investigated the effects of a Norwegian early warning system, the IKO model. IKO is a Norwegian acronym for identification, assessment, and follow-up, and the model aims to improve schools’ abilities to identify and support students who are at risk of dropping out during the school year. The study involved 7677 first-year students in 42 upper secondary schools, 20 schools randomised to the experimental group and 22 to the control group, and utilised administrative data. Two-level logistic and linear regression models with students nested in schools were applied. After two school years, there were no significant effects on absence from lectures, completion rates, or academic results. The analyses did not indicate stronger effects among students at risk of dropout before entering upper secondary education than among students in general.",
+ "tittel": "Effects of an early warning system on student absence and completion in Norwegian upper secondary schools: a cluster-randomised study",
+ "type": "article"
+}

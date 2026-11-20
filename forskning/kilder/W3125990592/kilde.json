@@ -1,0 +1,18 @@
+{
+ "ar": 2011,
+ "forfattere": [
+  "Helena Skyt Nielsen",
+  "Juanna Schrøter Joensen"
+ ],
+ "hentet": "2026-11-20",
+ "hentet_fra": "https://red-files-public.s3.amazonaws.com/meetpapers/2011/paper_995.pdf",
+ "hvordan": "pdf",
+ "id": "W3125990592",
+ "kilde": "RePEc: Research Papers in Economics",
+ "lenke": "https://openalex.org/W3125990592",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "In this paper, we exploit a high school pilot scheme to identify the channels through which advanced high school math causes more favorable academic and labor market outcomes. The pilot scheme reduced the costs of choosing advanced math because it allowed for a more flexible combination of math with other courses. We find clear evidence of a causal relationship between math and earnings for students who are induced to choose math after being exposed to the pilot scheme. The effect partly stems from the fact that these students end up with a higher education. To further explore these channels, we estimate a structural dynamic model of higher education choices and outcomes. This allows us to quantify the direct and indirect effects of advanced math and to simulate the impacts of education policies changing math and college entry requirements.",
+ "tittel": "More Successful because of Math: Combining a Natural Experiment and a Structural Dynamic Model to Explore the Underlying Channels",
+ "type": "preprint"
+}

@@ -1,0 +1,19 @@
+{
+ "apen_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/ecca.12474",
+ "ar": 2023,
+ "doi": "https://doi.org/10.1111/ecca.12474",
+ "forfattere": [
+  "Eric Schuß"
+ ],
+ "hentet": "2026-11-20",
+ "hentet_fra": "http://repec.business.uzh.ch/RePEc/iso/leadinghouse/0176_lhwpaper.pdf",
+ "hvordan": "pdf",
+ "id": "W3127177287",
+ "kilde": "Economica",
+ "lenke": "https://openalex.org/W3127177287",
+ "merknad": "ÅPEN VERSJON (preprint eller arbeidsnotat), merkes i svaret",
+ "oversikt": false,
+ "sammendrag": "Abstract In many countries, training subsidies and levy schemes are used to tackle the problem that company‐based provision of apprenticeship training is low. In this paper, we consider the introduction of a levy scheme in the care sector and estimate the causal effect exerted by substantial redistribution of care worker apprenticeship costs on the training activity of care facilities. We exploit the fact that the underlying apprenticeship levy was introduced across the German federal states at different points in time. For ambulatory care, we find a positive effect on the probability of hiring new apprentices and on the number of new apprentices. Inpatient care facilities react only at the intensive margin. This suggests that the positive effects in this sector are driven mainly by facilities that have already provided training slots before the reform.",
+ "tittel": "Beyond windfall gains: The redistribution of apprenticeship costs and vocational education of care workers",
+ "type": "article"
+}

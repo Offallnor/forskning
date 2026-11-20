@@ -1,0 +1,20 @@
+{
+ "apen_url": "https://doi.org/10.2139/ssrn.2486529",
+ "ar": 2015,
+ "doi": "https://doi.org/10.1515/jbnst-2015-4-508",
+ "forfattere": [
+  "Jens Mohrenweiser",
+  "Friedhelm Pfeiffer"
+ ],
+ "hentet": "2026-11-20",
+ "hentet_fra": "http://eprints.bournemouth.ac.uk/22628/1/coaching_revise_v4.pdf",
+ "hvordan": "pdf",
+ "id": "W3124959592",
+ "kilde": "Jahrbücher für Nationalökonomie und Statistik",
+ "lenke": "https://openalex.org/W3124959592",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "Summary In Germany, apprenticeship training firms currently face a shrinking number of qualified schoolleavers because of smaller birth cohorts and an increasing proportion of school leavers aiming for higher education. This paper investigates whether a programme that supports firms to train disadvantaged youth can reduce recruiting difficulties in apprentice training firms. Based on unique firm-level data from the metal and electronic industry in Baden-Württemberg from 2010 to 2013, we apply instrumental variable and difference-in-difference estimations and find no significant short-term causal impact of the programme.",
+ "tittel": "Coaching Disadvantaged Young People: Evidence from Firm Level Data",
+ "type": "article"
+}

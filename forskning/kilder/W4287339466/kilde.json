@@ -1,0 +1,23 @@
+{
+ "apen_url": "https://docs.iza.org/dp14097.pdf",
+ "ar": 2023,
+ "doi": "https://doi.org/10.1086/726905",
+ "forfattere": [
+  "Sven Resnjanskij",
+  "Jens Ruhose",
+  "Simon Wiederhold",
+  "Ludger Woessmann",
+  "Katharina Wedel"
+ ],
+ "hentet": "2026-11-20",
+ "hentet_fra": "https://docs.iza.org/dp14097.pdf",
+ "hvordan": "pdf",
+ "id": "W4287339466",
+ "kilde": "Journal of Political Economy",
+ "lenke": "https://openalex.org/W4287339466",
+ "merknad": "ÅPEN VERSJON (preprint eller arbeidsnotat), merkes i svaret",
+ "oversikt": false,
+ "sammendrag": "We study a mentoring program that aims to improve the labor market prospects of disadvantaged adolescents. Our randomized controlled trial investigates its effectiveness on three outcomes highly predictive of later labor market success: math grades, patience/social skills, and labor market orientation. For low-SES (socioeconomic status) adolescents, the mentoring increases a combined index of the outcomes by over half a standard deviation after 1 year, with significant increases in each outcome. Effects on grades and labor market orientation, but not on patience/social skills, persist 3 years after program start. By that time, the mentoring also improves early realizations of school-to-work transitions for low-SES adolescents. The mentoring is not effective for higher-SES adolescents.",
+ "tittel": "Can Mentoring Alleviate Family Disadvantage in Adolescence? A Field Experiment to Improve Labor Market Prospects",
+ "type": "article"
+}

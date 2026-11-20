@@ -1,0 +1,22 @@
+{
+ "apen_url": "https://ebooks.au.dk/aul/catalog/view/20/18/78-3",
+ "ar": 2014,
+ "doi": "https://doi.org/10.7146/aul.20.18",
+ "forfattere": [
+  "Camilla Brørup Dyssegaard",
+  "Jesper de Hemmer Egeberg",
+  "Kasper Tue Steenberg",
+  "Neriman Tiftikci",
+  "Stinna Vestergaard"
+ ],
+ "hentet": "2026-11-20",
+ "hentet_fra": "http://edu.au.dk/fileadmin/edu/Udgivelser/Clearinghouse/Ebog_-_Fastholdelse_i_Erhvervsuddannelserne_-_final.pdf",
+ "hvordan": "pdf",
+ "id": "W2471709172",
+ "lenke": "https://openalex.org/W2471709172",
+ "merknad": "",
+ "oversikt": true,
+ "sammendrag": "Systematisk forskningskortlægning af håndterbare forhold til gavn for fastholdelse, øget optag og forbedrede resultater i erhvervsuddannelserne. Projektet er gennemført ved Dansk Clearinghouse for Uddannelsesforskning, Aarhus Universitet. Opdragsgiver har været Tænketanken DEA. Projektet er gennemført i perioden 1. september 2013 til 1. februar 2014.",
+ "tittel": "Forskningskortlægning af håndterbare forhold til gavn for fastholdelse, øget optag og forbedrede resultater i erhvervsuddannelserne",
+ "type": "report"
+}

@@ -1,0 +1,21 @@
+{
+ "apen_url": "https://www.sciencedirect.com/science/article/pii/S0272775722000474/pdf",
+ "ar": 2022,
+ "doi": "https://doi.org/10.1016/j.econedurev.2022.102271",
+ "forfattere": [
+  "Rune Borgan Reiling",
+  "Kari Vea Salvanes",
+  "Astrid Marie Jorde Sandsør"
+ ],
+ "hentet": "2026-11-20",
+ "hentet_fra": "https://nva.sikt.no/registration/0198cc67842b-11ae6992-3935-4c2a-9fbd-e28ee248ad68",
+ "hvordan": "vitenarkivet",
+ "id": "W4281558597",
+ "kilde": "Economics of Education Review",
+ "lenke": "https://openalex.org/W4281558597",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "Counselling is considered to be an important policy tool to prevent early school leaving, yet little is known about the effect of counselling on student outcomes. We investigate the effect of a novel type of counselling in Norwegian schools: the student welfare counsellor. These counsellors are employed by local welfare offices but placed in upper secondary schools, serving as a link between the student and support services by addressing financial, health or family-related issues and helping students into appropriate welfare office programmes. Using a difference-in-differences approach with variation in treatment timing, we find that moving this counselling service to schools kept students in school longer, although completion rates in upper secondary education did not increase. Effects are more pronounced for students with a minority background. These results suggest that moving available services closer to students can influence the educational attainment of at-risk youth – at least in the short run.",
+ "tittel": "Do welfare counsellors help at-risk upper secondary school students?",
+ "type": "article"
+}

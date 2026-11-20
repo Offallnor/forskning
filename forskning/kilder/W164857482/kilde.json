@@ -1,0 +1,17 @@
+{
+ "ar": 2013,
+ "forfattere": [
+  "Kaja Høiseth Brugård"
+ ],
+ "hentet": "2026-11-20",
+ "hentet_fra": "http://www.svt.ntnu.no/iso/WP/2013/07_schoolchoice_KHB.pdf",
+ "hvordan": "pdf",
+ "id": "W164857482",
+ "kilde": "RePEc: Research Papers in Economics",
+ "lenke": "https://openalex.org/W164857482",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "This paper studies the relationship between school choice and student performance for high school students in Norway. The analysis exploits both the fact that the degree of school choice formally differs between counties, and detailed information on travelling distances to high schools, which more closely reflects the students' actual school choice possibilities. Information on students' residence, high school location, and the degree of formal school choice is used to estimate the effect on student achievement in a difference-in-differences-in-differences model specification. In addition, I estimate the effect of school choice on high school graduation rates and university attainment. I find a positive and significant effect of school choice on student performance, and heterogeneity analyses indicates that this effect is entirely driven by the performance of boys.",
+ "tittel": "Does School Choice Improve Student Performance",
+ "type": "preprint"
+}

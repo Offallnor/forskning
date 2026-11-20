@@ -1,0 +1,20 @@
+{
+ "apen_url": "http://urn.kb.se/resolve?urn=urn:nbn:se:su:diva-180322",
+ "ar": 2020,
+ "forfattere": [
+  "Karin Margret Edmark",
+  "Iftikhar Hussain",
+  "Carla Haelermans"
+ ],
+ "hentet": "2026-11-20",
+ "hentet_fra": "http://www.diva-portal.org/smash/get/diva2:1417464/FULLTEXT02.pdf",
+ "hvordan": "pdf",
+ "id": "W3015747275",
+ "kilde": "RePEc: Research Papers in Economics",
+ "lenke": "https://openalex.org/W3015747275",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "Empirical studies investigating the impact of private voucher schools on student outcomes have focused on a number of mechanisms, including productivity and competitive effects. Arguably, the possibility that these voucher schools may provide greater variety, in terms of education options or tracks remains an understudied area. This paper exploits the rapid expansion of private academic and vocational track schools in Sweden, to address this question. We uncover new evidence that the introduction of private voucher schools induced greater vocational education participation, and not simply a substitution of public for private vocational schools. In effect, private school penetration lead to a switch away from academic tracks, including both science and social science, in favour of vocational options. We then ask what impact inducing greater participation in vocational education had on short- and medium-term outcomes, including GPA, on-time graduation from high school, university participation and field of study at university. We discuss other possible mechanisms, including changes in peer and teacher quality.",
+ "tittel": "The impact of voucher schools: Evidence from Swedish upper secondary schools",
+ "type": "preprint"
+}

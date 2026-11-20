@@ -1,0 +1,19 @@
+{
+ "apen_url": "https://njvet.ep.liu.se/article/download/1087/2448",
+ "ar": 2020,
+ "doi": "https://doi.org/10.3384/njvet.2242-458x.2010281",
+ "forfattere": [
+  "Ville Vehkasalo"
+ ],
+ "hentet": "2026-11-20",
+ "hentet_fra": "https://njvet.ep.liu.se/article/download/1087/2448",
+ "hvordan": "pdf",
+ "id": "W3024772475",
+ "kilde": "Nordic Journal of Vocational Education and Training",
+ "lenke": "https://openalex.org/W3024772475",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "A large-scale dropout prevention programme was implemented in Finnish vocational education in 2011–2014. We used detailed register data to evaluate the programme’s effects and to circumvent the attrition bias of pretest-posttest surveys. Our data included approximately 24,000 randomly sampled students, both from the participating schools and the non-participating schools, before and after the programme. We estimated the effect of the programme on study completion and dropping out using pooled cross sections and difference-in-differences regression methods. Both study measures have improved during the last decade, but our results suggest that the programme was not effective in increasing study completion or in reducing the number of dropouts. The likely causes for the improved levels of vocational degree completion include recent macroeconomic fluctuations and legislative changes in teenagers’ eligibility for unemployment benefits.",
+ "tittel": "Dropout prevention in vocational education: Evidence from Finnish register data",
+ "type": "article"
+}

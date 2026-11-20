@@ -1,0 +1,16 @@
+{
+ "apen_url": "https://doi.org/10.1016/j.econedurev.2026.102851",
+ "ar": 2026,
+ "doi": "https://doi.org/10.1016/j.econedurev.2026.102851",
+ "forfattere": [
+  "Lukas Fervers",
+  "Lina Tobler"
+ ],
+ "id": "W7221356294",
+ "kilde": "Economics of Education Review",
+ "lenke": "https://openalex.org/W7221356294",
+ "oversikt": false,
+ "sammendrag": "Economic downturns often come along with a reduction of apprenticeship training by firms, hereby threatening economies with a lack of skilled labour in the mid- and long-run. Against this background, the German government has implemented an apprenticeship subsidy for small and medium sized companies in the summer of 2020 during the COVID-19 pandemic. In brief, companies that maintained their number of new apprenticeships at the average level of the past three years could receive €2000 for each apprenticeship starting in the autumn of 2020. We exploit eligibility for the subsidy due to firm size and compare eligible and non-eligible firms in an intent-to-treat difference-in-differences (DiD) design. The estimates show no impact on the number of new apprenticeships but a moderate effect on the probability to maintain the training level at the level of the past three years. This suggests that firms that were at the margin of maintaining the level without the subsidy have hired a small number of additional apprentices to receive the subsidy. This mirrors the incentive structure of the subsidy, as firms at the margin have received a large amount of money for a small number of additional apprenticeships. These results are robust to a wide range of sensitivity and robustness checks, including linear and non-linear DiD estimation, tests for diverging trends, placebo tests with placebo outcomes as well as checks for panel attrition. These results add to the scarce literature on the impact of training subsidies in general and their impact during economic crises in particular.",
+ "tittel": "Efficient stabilizer or deadweight effect? The impact of subsidies for apprenticeship training during an economic downturn",
+ "type": "article"
+}

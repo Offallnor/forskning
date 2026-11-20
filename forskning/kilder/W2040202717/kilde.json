@@ -1,0 +1,21 @@
+{
+ "apen_url": "https://researchonline.lse.ac.uk/id/eprint/23550/1/Returns_to_Apprenticeship_Training_in_Austria_%28LSERO%29.pdf",
+ "ar": 2008,
+ "doi": "https://doi.org/10.1111/j.1467-9442.2008.00559.x",
+ "forfattere": [
+  "Josef Fersterer",
+  "Jörn‐Steffen Pischke",
+  "Rudolf Winter‐Ebmer"
+ ],
+ "hentet": "2026-11-20",
+ "hentet_fra": "https://researchonline.lse.ac.uk/id/eprint/23550/1/Returns_to_Apprenticeship_Training_in_Austria_%28LSERO%29.pdf",
+ "hvordan": "pdf",
+ "id": "W2040202717",
+ "kilde": "Scandinavian Journal of Economics",
+ "lenke": "https://openalex.org/W2040202717",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "Abstract In the German‐speaking countries, little is known about the payoffs to apprenticeship training for the participants. OLS estimates suggest that the returns are similar to those of other types of schooling. However, there is considerable heterogeneity in the quality of apprenticeships offered, and institutional descriptions suggest that there might be an important element of selection in who obtains an apprenticeship, and what type. In order to overcome the resulting ability bias, we estimate returns to apprenticeship training for apprentices in small Austrian firms which cease to operate. When a firm fails, current apprentices cannot complete their training in this firm. Since apprentices will be at different stages in their apprenticeship at that time, the failure of a firm will manipulate the length of the apprenticeship period completed for some apprentices. The time to firm failure can therefore serve as an instrument for the length of the apprenticeship completed both at the original firm and at other firms. We find instrumental variables returns which are similar or larger than the OLS returns in our sample, indicating relatively little selection.",
+ "tittel": "Returns to Apprenticeship Training in Austria: Evidence from Failed Firms*",
+ "type": "article"
+}

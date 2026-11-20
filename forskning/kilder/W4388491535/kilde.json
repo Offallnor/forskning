@@ -1,0 +1,22 @@
+{
+ "apen_url": "https://www.mdpi.com/1660-4601/20/22/7033/pdf?version=1699442963",
+ "ar": 2023,
+ "doi": "https://doi.org/10.3390/ijerph20227033",
+ "forfattere": [
+  "Torill Bogsnes Larsen",
+  "Helga Bjørnøy Urke",
+  "Sara Madeleine Kristensen",
+  "Frida Kathrine Sofie Mathisen"
+ ],
+ "hentet": "2026-11-20",
+ "hentet_fra": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10671492/fullTextXML",
+ "hvordan": "Europe PMC",
+ "id": "W4388491535",
+ "kilde": "International Journal of Environmental Research and Public Health",
+ "lenke": "https://openalex.org/W4388491535",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "This cluster randomized controlled trial (RCT) examined the effect of a three year follow up of a multi-tier intervention aiming at improving the psychosocial environment in upper secondary schools in Norway. Two intervention conditions were tested: a universal single-tier intervention focused on improving the psychosocial school climate, the dream school program (DSP), and a multi-tier intervention combining the DSP with a targeted measure, the mental health support team (MHST). A total of 2203 students responded to the baseline survey. Of the 2203 pupils, 1884 responded to the first follow-up survey (year 1), 1287 pupils to the second (year 2), and 756 pupils to the third (year 3). The direct and indirect effects on school completion were analyzed using a multi-level linear mixed model. The results showed no significant effects of either the DSP or the DSP and MHST in combination on support, the school climate, mental health, or academic adjustment. We found no significant effect of the interventions on the proportion who had completed school or were in training (the three groups varied between 76.6% and 77.8%). Future similar studies should be attentive to the potential challenges of implementing RCTs in the school setting. Furthermore, the long-term effects of school interventions on the constructs included in this study could be difficult to capture due to the complexity of the phenomena. The implications of these findings are discussed.",
+ "tittel": "Caring Climate and Support, Mental Health, and Academic Adjustment: Effects from a Cluster Randomized Controlled Trial in Upper Secondary Schools in Norway",
+ "type": "article"
+}

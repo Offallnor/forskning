@@ -1,0 +1,21 @@
+{
+ "apen_url": "https://www.mdpi.com/1660-4601/20/13/6299/pdf?version=1688524025",
+ "ar": 2023,
+ "doi": "https://doi.org/10.3390/ijerph20136299",
+ "forfattere": [
+  "Helga Bjørnøy Urke",
+  "Torill Bogsnes Larsen",
+  "Sara Madeleine Kristensen"
+ ],
+ "hentet": "2026-11-20",
+ "hentet_fra": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10341405/fullTextXML",
+ "hvordan": "Europe PMC",
+ "id": "W4383262913",
+ "kilde": "International Journal of Environmental Research and Public Health",
+ "lenke": "https://openalex.org/W4383262913",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "This study examines the impact of interventions aimed at improving psychosocial health on students' perception of a caring school climate, their feelings of loneliness, and school completion in Norwegian upper secondary education. Two intervention conditions were tested: a universal single-tier intervention focused on improving the psychosocial school climate: the Dream School Program, and a multi-tier intervention combining the Dream School Program with a targeted measure, the Mental Health Support Team. The direct and indirect effects of these interventions on school completion were analyzed using structural equation models (SEM), with data from 1508 students (mean age at Time 1: 17.02 (SD = 0.92); 60.7% girls; 72.1% Norwegian-born). The results indicated that loneliness levels did not differ significantly between the intervention conditions. However, students in the multi-tier intervention group reported a significantly higher perception of a caring school climate compared to those in the single-tier intervention group. The multi-tier intervention group had a lower rate of school completion compared to the control group and the single-tier intervention group. The SEM analysis revealed that the multi-tier intervention reduced loneliness in the second year of upper secondary school by promoting a caring school climate in the first school year. In contrast, the single-tier intervention was associated with increased loneliness due to a decrease in the perception of a caring school climate. The implications of these findings are discussed.",
+ "tittel": "Preventing Loneliness and Reducing Dropout: Results from the COMPLETE Intervention Study in Upper Secondary Schools in Norway",
+ "type": "article"
+}

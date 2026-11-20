@@ -1,0 +1,16 @@
+{
+ "ar": 2022,
+ "doi": "https://doi.org/10.1257/app.20210292",
+ "forfattere": [
+  "Gordon B. Dahl",
+  "Dan‐Olof Rooth",
+  "Anders Stenberg"
+ ],
+ "id": "W4313410175",
+ "kilde": "American Economic Journal Applied Economics",
+ "lenke": "https://openalex.org/W4313410175",
+ "oversikt": false,
+ "sammendrag": "We study how high school majors affect adult earnings using a regression discontinuity design. In Sweden students are admitted to majors in tenth grade based on their preference rankings and ninth grade GPA. We find engineering, natural science, and business majors yield higher earnings than social science and humanities, with major-specific returns also varying based on next-best alternatives. There is either a zero or a negative return to completing an academic program for students with a second-best nonacademic major. Most of the differences in adult earnings can be attributed to differences in occupation, and to a lesser extent, college major. (JEL I21, I26, J24, J31)",
+ "tittel": "High School Majors and Future Earnings",
+ "type": "article"
+}

@@ -1,0 +1,20 @@
+{
+ "apen_url": "https://doi.org/10.1016/j.econedurev.2024.102608",
+ "ar": 2024,
+ "doi": "https://doi.org/10.1016/j.econedurev.2024.102608",
+ "forfattere": [
+  "Sönke Hendrik Matthewes",
+  "Camilla Borgna"
+ ],
+ "hentet": "2026-11-20",
+ "hentet_fra": "http://eprints.lse.ac.uk/126595/1/1-s2.0-S027277572400102X-main.pdf",
+ "hvordan": "pdf",
+ "id": "W4404943935",
+ "kilde": "Economics of Education Review",
+ "lenke": "https://openalex.org/W4404943935",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "This paper estimates how marginal increases in the flexibility of between-school tracking affect student attainment by exploiting the addition of non-selective ‘comprehensive schools’ and hybrid ‘vocational high schools’ to Germany’s tracked school system. These schools opened up alternative pathways to the university-entrance certificate, which traditionally could only be obtained at academic-track schools. We use administrative records to compile a county-level panel of school supply and attainment for 13 cohorts between 1995 and 2007. Cross-sectionally, the supplies of all three school types awarding the university-entrance certificate correlate positively with its attainment. However, for academic-track and comprehensive schools this association is not robust to the inclusion of regional controls, suggesting that it reflects regional differences in educational demand rather than supply-side effects. For vocational high schools, in contrast, we find robust evidence for positive attainment effects not only in cross-sectional and two-way fixed-effects panel regressions, but also in an event-study design that exploits the quasi-random timing of new school openings. Likely reasons for their success are that they lower the (perceived) costs of educational upgrading for late-bloomers, and their hybrid curriculum, which may retain students in general schooling who would otherwise enter vocational training.",
+ "tittel": "De-tracking at the margin: How alternative secondary education pathways affect student attainment",
+ "type": "article"
+}

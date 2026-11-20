@@ -1,0 +1,19 @@
+{
+ "apen_url": "https://ervet-journal.springeropen.com/counter/pdf/10.1186/s40461-021-00118-y",
+ "ar": 2021,
+ "doi": "https://doi.org/10.1186/s40461-021-00118-y",
+ "forfattere": [
+  "Eric Schuß"
+ ],
+ "hentet": "2026-11-20",
+ "hentet_fra": "https://ervet-journal.springeropen.com/counter/pdf/10.1186/s40461-021-00118-y",
+ "hvordan": "pdf",
+ "id": "W3168708978",
+ "kilde": "Empirical research in vocational education and training",
+ "lenke": "https://openalex.org/W3168708978",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "Abstract This paper provides evidence on the effect of apprenticeship costs on the decision whether care facilities employ apprenticeship graduates after completing apprenticeship training. To account for the endogeneity in apprenticeship costs, we exploit an exogenous reduction in the apprenticeship costs of care facilities by exploiting the fact that the underlying apprenticeship levy was introduced across the German federal states at different points in time. We find that the redistribution of apprenticeship costs increases the probability of leaving the training facility after completing apprenticeship training by 10 percentage points. Furthermore, we use this quasi-experimental setting to estimate the effect of mobility of graduates on their wages, which hints at a negative relationship in the upper quartile of the wage distribution.",
+ "tittel": "The value of apprentices in the care sector: the effect of apprenticeship costs on the mobility of graduates from apprenticeship training",
+ "type": "article"
+}

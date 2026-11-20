@@ -1,0 +1,19 @@
+{
+ "ar": 2017,
+ "forfattere": [
+  "Lassi Tervonen",
+  "Mika Kortelainen",
+  "Ohto Kanninen"
+ ],
+ "hentet": "2026-11-20",
+ "hentet_fra": "https://www.doria.fi/bitstream/10024/149408/1/t186.pdf",
+ "hvordan": "pdf",
+ "id": "W2787144718",
+ "kilde": "Doria (University of Helsinki)",
+ "lenke": "https://openalex.org/W2787144718",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "Tutkimuksessa selvitetään minkälaisia vaikutuksia eliittilukioon pääsyllä ja siellä opiskelulla on ylioppilaskirjoitusten tuloksiin. Analyysi keskittyy viiteen pääkaupunkiseudun lukioon, joiden yleislinjojen keskiarvorajat ovat olleet vuosina 2000–2008 keskimäärin pääkaupunkiseudun korkeimpia. Tutkimuksessa hyödynnetään kvasikokeellista ns. regressioepäjatkuvuusasetelmaa eliittilukioiden vaikutusten arviointiin. Tutkimusasetelmassa verrataan keskenään kahta ryhmää, juuri kyseisen lukion sisäänpääsyrajan ylittäneitä juuri rajan alle jääneisiin. Näiden ryhmien vertailu mahdollistaa kausaalivaikutusten arvioinnin, koska ryhmiin kuuluvat opiskelijat ovat keskimäärin samanlaisia ja poikkeavat ainoastaan sen suhteen ovatko he päässeet opiskelemaan kyseiseen lukioon vai ei. Osoitamme, että valitut lukiot poikkeavat merkittävästi opiskeluympäristön tai vertaisryhmään suhteen muista lukioista, joihin eliittilukioiden opiskelijat olisivat voineet päätyä. Vertaisryhmissä tapahtuvista muutoksista huolimatta tuloksemme osoittavat, että eliittilukioilla ei ole vaikutusta ylioppilaskirjoitusten tuloksiin. Osoitamme, että tämä tulos ei johdu ns. kattovaikutuksesta, eli siitä että eliittilukioiden oppilaiden ylioppilaskirjoitusten tulokset ovat ylhäältä rajattuja. Emme myöskään löydä evidenssiä jakaumavaikutuksista tai siitä että eliittilukioiden sisäänpääsyrajan ylittävät kirjoittaisivat useampia oppiaineita tai enemmän pitkän oppimäärän aineita.",
+ "tittel": "Eliittilukioiden vaikutukset ylioppilaskirjoitusten tuloksiin",
+ "type": "other"
+}

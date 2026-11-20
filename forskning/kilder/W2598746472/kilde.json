@@ -1,0 +1,14 @@
+{
+ "apen_url": "http://hdl.handle.net/10419/145655",
+ "ar": 2012,
+ "forfattere": [
+  "Matthias Parey"
+ ],
+ "id": "W2598746472",
+ "kilde": "RePEc: Research Papers in Economics",
+ "lenke": "https://openalex.org/W2598746472",
+ "oversikt": false,
+ "sammendrag": "How to best prepare non-college bound youth for the labor market? Different approaches compete in this field, including firm-based apprenticeships, full-time vocational schooling, and on-the-job learning. Little is known about how effective these methods are, and comparisons of means are uninformative due to the selection of individuals into different streams. In this paper, we exploit the idea that variation in apprenticeship availability affects the opportunities individuals have when they grow up. We present a small open economy model in which price shocks affect the local number of apprentices, without a differential effect on factor rewards; this motivates an instrumental variable strategy to compare labor market outcomes between labor types, which is implemented exploiting differences in training availability. We document how variation in vacancies for apprenticeships affects educational choice. We show that at the margin, individuals substitute between apprenticeship training and full-time school-based vocational training. We exploit this variation to study how this formation period affects later labor market outcomes at ages 23 to 26. Our results show that firm-based apprenticeship training leads to substantially lower unemployment rates; investigating this pattern over time, the evidence indicates that former apprentices have a transitory advantage which fades out over time. We do not find significant differences in wages. This suggests that these alternatives confer similar overall levels of productivity, and that apprenticeship training improves the early labor market attachment relative to vocational schooling. We investigate the responsiveness to negative shocks in an experiment based on firm closures. Our results are found to be robust in a number of specification checks, and we investigate the validity of our functional form in a semiparametric analysis.",
+ "tittel": "Vocational Schooling versus Apprenticeship Training. Evidence from Vacancy Data",
+ "type": "preprint"
+}

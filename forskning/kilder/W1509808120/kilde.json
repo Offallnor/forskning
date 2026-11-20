@@ -1,0 +1,20 @@
+{
+ "apen_url": "http://anon-ftp.iza.org/dp8766.pdf",
+ "ar": 2015,
+ "doi": "https://doi.org/10.17169/fudocs_document_000000021532",
+ "forfattere": [
+  "Katja Görlitz",
+  "Christina Annette Gravert"
+ ],
+ "hentet": "2026-11-20",
+ "hentet_fra": "https://docs.iza.org/dp8766.pdf",
+ "hvordan": "pdf",
+ "id": "W1509808120",
+ "kilde": "RePEc: Research Papers in Economics",
+ "lenke": "https://openalex.org/W1509808120",
+ "merknad": "ÅPEN VERSJON (preprint eller arbeidsnotat), merkes i svaret",
+ "oversikt": false,
+ "sammendrag": "This paper evaluates the effects of a high school curriculum reform that was introduced in one German state on high school dropout. The reform increased the standards of the curriculum by reducing the freedom of choice in course selection (amongst other things) resulting in an increase in the level and the weekly teaching hours in the subjects German, a foreign language, mathematics and natural sciences. Using a quasi-experimental evaluation design exploiting variation across time and states, we identify the reform effect on students’ probability to graduate from high school. The results show that high school dropout rates have increased for males and females alike. However, the effect for males vanishes two years after reform implementation, while it remains persistent for females even after three years.",
+ "tittel": "The effects of increasing the standards of the high school curriculum on school dropout",
+ "type": "preprint"
+}

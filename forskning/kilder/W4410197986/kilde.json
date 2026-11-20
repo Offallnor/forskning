@@ -1,0 +1,20 @@
+{
+ "apen_url": "https://doi.org/10.1016/j.econedurev.2025.102655",
+ "ar": 2025,
+ "doi": "https://doi.org/10.1016/j.econedurev.2025.102655",
+ "forfattere": [
+  "Jonas Larsson Taghizadeh",
+  "Marcus Österman"
+ ],
+ "hentet": "2026-11-20",
+ "hentet_fra": "https://uu.diva-portal.org/smash/get/diva2:1957106/FULLTEXT01",
+ "hvordan": "pdf",
+ "id": "W4410197986",
+ "kilde": "Economics of Education Review",
+ "lenke": "https://openalex.org/W4410197986",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "This article presents evidence on how students’ risk of dropping out or becoming inactive (NEET) are affected by pursuing a general (academic) versus vocational upper secondary education. We use a regression discontinuity design exploiting the grade-based admission process in Sweden. The results suggest that, among those students who apply to both types of education, starting a general program is associated with a higher likelihood of not graduating on time and spending more time without employment and outside studies during early adulthood. Furthermore, students on general programs perform worse in tests for courses mandatory for graduation, compared to students on vocational programs. We also find an increased dropout risk among students starting general programs when running family fixed effects models on the population of upper secondary students.",
+ "tittel": "Choosing the right path: The effects of pursuing general versus vocational secondary education on dropout risk and youth inactivity",
+ "type": "article"
+}

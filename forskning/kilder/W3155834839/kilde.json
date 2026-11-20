@@ -1,0 +1,20 @@
+{
+ "apen_url": "https://www.sciencedirect.com/science/article/pii/S0272775721000674/pdf",
+ "ar": 2020,
+ "doi": "https://doi.org/10.2139/ssrn.3728423",
+ "forfattere": [
+  "Karin Margret Edmark",
+  "Lovisa Persson"
+ ],
+ "hentet": "2026-11-20",
+ "hentet_fra": "https://www.ifn.se/wfiles/wp/wp1371.pdf",
+ "hvordan": "pdf",
+ "id": "W3155834839",
+ "kilde": "Economics of Education Review",
+ "lenke": "https://openalex.org/W3155834839",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "Since the 1990s, the Swedish education market has gone through a dramatic transformation due to the introduction of voucher-funded independent schools. We make use of data on school applications to condition on student preferences for independent versus public education, and estimate a positive relationship between independent upper secondary school attendance and grades, graduation rates, and post-secondary education. We however also find strong indications of more lenient grading standards in independent schools, especially in schools organized as for-profit entities and in schools with a low share of qualified teachers. Our results suggest that, although independent school attendance seems to benefit the individual students in terms of higher grades and increased transition to post-secondary studies, grade inflation in the Swedish upper secondary independent schools may be a serious problem.",
+ "tittel": "The Impact of Attending an Independent Upper Secondary School: Evidence from Sweden Using School Ranking Data",
+ "type": "article"
+}

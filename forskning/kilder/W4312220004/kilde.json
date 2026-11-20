@@ -1,0 +1,20 @@
+{
+ "apen_url": "https://www.tandfonline.com/doi/epdf/10.1080/09645292.2022.2160432?needAccess=true&role=button",
+ "ar": 2022,
+ "doi": "https://doi.org/10.1080/09645292.2022.2160432",
+ "forfattere": [
+  "Zoltán Hermann",
+  "Dániel Horn"
+ ],
+ "hentet": "2026-11-20",
+ "hentet_fra": "http://real.mtak.hu/179469/1/Theeffectofdecreasedgeneraltrainingonskillsanddropout-EvidencefromavocationalschoolreforminHungary.pdf",
+ "hvordan": "pdf",
+ "id": "W4312220004",
+ "kilde": "Education Economics",
+ "lenke": "https://openalex.org/W4312220004",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "The paper studies a unique education reform that decreased the length of secondary-level vocational education from 4 to 3 years, reducing the time spent on general subjects while keeping the time spent on vocational training. We use a difference-in-difference strategy by comparing reformed schools with early adopters before and after the reform. We find that students’ general skills have dropped considerably, but the probability of dropout has decreased, and the probability of getting a secondary qualification has increased. These results suggest that such a reform will have mixed labour market consequences, at least in the short run.",
+ "tittel": "The effect of decreased general training on skills and dropout - Evidence from a vocational school reform in Hungary",
+ "type": "article"
+}

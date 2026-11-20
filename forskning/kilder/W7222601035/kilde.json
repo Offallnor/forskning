@@ -1,0 +1,17 @@
+{
+ "apen_url": "https://www.ifo.de/sites/default/files/docbase/docs/cesifo1_wp13059.pdf",
+ "ar": 2026,
+ "doi": "https://doi.org/10.65864/cp4v2hin4p",
+ "forfattere": [
+  "Anna Salomons",
+  "Cäcilia vom Baur",
+  "Ulrich Zierahn"
+ ],
+ "id": "W7222601035",
+ "kilde": "CESifo",
+ "lenke": "https://openalex.org/W7222601035",
+ "oversikt": false,
+ "sammendrag": "Does educational content respond to technological advances, and do such changes enable workers to acquire new valuable expertise? We construct a novel database of legally binding training curricula spanning the near universe of vocational training in Germany over five decades, and link curriculum updates to breakthrough technologies using Natural Language Processing. We trace a causal chain from technological change to curriculum content to worker outcomes. Technological change spurs curriculum updates, and training content shifts toward less routine-intensive tasks. This shift occurs predominantly through the emergence of new skills related to social, digital, and problem-solving competencies, rather than the removal of old ones. This within-occupation margin is quantitatively important: curriculum updates account for two-thirds of the overall deroutinization in vocational skill supply over this period. Using administrative employer-employee data and a stacked difference-in-differences design, we show that new-skilled workers earn higher wages, especially in technology-exposed occupations, and are more likely to remain employed in their trained occupation. In contrast, older occupational incumbents experience wage declines, indicating skill obsolescence. These findings highlight the central role of within-occupation skill supply adjustments — not just educational attainment — in meeting evolving labor market demands.",
+ "tittel": "The Supply of Expertise: New Technologies, New Skills, and Worker Impacts",
+ "type": "report"
+}

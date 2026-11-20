@@ -1,0 +1,20 @@
+{
+ "apen_url": "https://www.aeaweb.org/articles/pdf/doi/10.1257/app.20190782",
+ "ar": 2021,
+ "doi": "https://doi.org/10.1257/app.20190782",
+ "forfattere": [
+  "Mikko Silliman",
+  "Hanna Virtanen"
+ ],
+ "hentet": "2026-11-20",
+ "hentet_fra": "https://www.etla.fi/wp-content/uploads/ETLA-Working-Papers-65.pdf",
+ "hvordan": "pdf",
+ "id": "W4205632086",
+ "kilde": "American Economic Journal Applied Economics",
+ "lenke": "https://openalex.org/W4205632086",
+ "merknad": "ÅPEN VERSJON (preprint eller arbeidsnotat), merkes i svaret",
+ "oversikt": false,
+ "sammendrag": "We study labor market returns to vocational versus general secondary education using a regression discontinuity design created by the centralized admissions process in Finland. Admission to the vocational track increases initial annual income, and this benefit persists at least through the mid-thirties, and present discount value calculations suggest that it is unlikely that life cycle returns will turn negative through retirement. Moreover, admission to the vocational track does not increase the likelihood of working in jobs at risk of replacement by automation or offshoring. Consistent with comparative advantage, we observe larger returns for people who express a preference for vocational education. (JEL D15, I21, I26, J24, J31, O33)",
+ "tittel": "Labor Market Returns to Vocational Secondary Education",
+ "type": "article"
+}
