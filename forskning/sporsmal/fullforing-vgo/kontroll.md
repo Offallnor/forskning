@@ -2,7 +2,7 @@
 
 Kjørt 2026-11-20.
 
-10 feil av 8641 kontroller.
+2 feil av 8641 kontroller.
 
 - OK   6 utelatt W2960437645 «Risk Factors for School Absenteeism and Dropout: A Meta-Analytic Revie» (2019) – sortert bort i grovsiktingen: Risikofaktorer for fravær og frafall, ingen tiltak
 - OK   6 utelatt W2099466330 «The Causal Effects of Father Absence» (2013) – sortert bort i grovsiktingen: Farsfravær, annet felt
@@ -8635,13 +8635,13 @@ Kjørt 2026-11-20.
 - OK   6 utelatt W2286036355 «THE IMPACT OF BEHAVIOR INTERVENTION PROGRAMS ON STUDENT SUSPENSIONS» (2015) – lest i utvalget, ikke valgt: utfall er suspensjoner, ikke fullføring eller arbeid
 - OK   6 utelatt W7118001642 «Historical Context for Mentoring» (2026) – lest i utvalget, ikke valgt: bare tittel, historisk oversikt uten effektmål
 - OK   6 utelatt W7213285631 «Understanding STEM Coursetaking Among English Learner Subgroups: Longi» (2026) – sortert bort i grovsiktingen: Beskrivende studie av kurstaking for elever med annet språk.
-- FEIL 6 utelatt W4394382848 «A systematic review of mentorship programs to facilitate transition to» (2017) mangler begrunnelse
-- FEIL 6 utelatt W4239118381 «Effectiveness of Mentoring Programs for Youth: A Meta-Analytic Review» (2013) mangler begrunnelse
-- FEIL 6 utelatt W4409195936 «The effects of the Determined, Resilient, Empowered, AIDS-free, Mentor» (2025) mangler begrunnelse
-- FEIL 6 utelatt W7222785229 «Early-life risk factors and cardiometabolic outcomes in children and a» (2026) mangler begrunnelse
-- FEIL 6 utelatt W2793079163 «Adolescent Childbearing Age and Risk of Adverse Perinatal and Health O» (2018) mangler begrunnelse
-- FEIL 6 utelatt W4232118964 «Canadian Spine Society01.1.1: Surgery versus standardized nonoperative» (2015) mangler begrunnelse
-- FEIL 6 utelatt W4230606242 «Canadian Surgery Forum 201901. The future of general surgery training:» (2019) mangler begrunnelse
-- FEIL 6 utelatt W2122176288 «Student incentives and preferential treatment in college admissions» (2011) mangler begrunnelse
+- OK   6 utelatt W4394382848 «A systematic review of mentorship programs to facilitate transition to» (2017) – versjonssøk: datasett til en valgt oversikt, ikke en egen kilde
+- OK   6 utelatt W4239118381 «Effectiveness of Mentoring Programs for Youth: A Meta-Analytic Review» (2013) – versjonssøk: datasett til en valgt metaanalyse, ikke en egen kilde
+- OK   6 utelatt W4409195936 «The effects of the Determined, Resilient, Empowered, AIDS-free, Mentor» (2025) – versjonssøk: DREAMS-mentorprogram mot hiv i Afrika, utenfor mandatet
+- OK   6 utelatt W7222785229 «Early-life risk factors and cardiometabolic outcomes in children and a» (2026) – versjonssøk: feil treff, helseutfall hos barn
+- OK   6 utelatt W2793079163 «Adolescent Childbearing Age and Risk of Adverse Perinatal and Health O» (2018) – versjonssøk: feil treff, svangerskapsutfall
+- OK   6 utelatt W4232118964 «Canadian Spine Society01.1.1: Surgery versus standardized nonoperative» (2015) – versjonssøk: feil treff, kirurgi
+- OK   6 utelatt W4230606242 «Canadian Surgery Forum 201901. The future of general surgery training:» (2019) – versjonssøk: feil treff, kirurgi
+- OK   6 utelatt W2122176288 «Student incentives and preferential treatment in college admissions» (2011) – versjonssøk: insentiver ved opptak til høyere utdanning, utenfor mandatet
 - FEIL 9 kort-svar-blind.md MANGLER (blind lesing, steg 1b)
 - FEIL 9 innholdskontroll MANGLER raden «kort svar» (eller innholdskontroll.tsv mangler)
