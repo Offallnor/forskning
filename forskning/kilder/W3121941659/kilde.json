@@ -1,0 +1,16 @@
+{
+ "apen_url": "https://research.upjohn.org/cgi/viewcontent.cgi?article=1203&context=up_workingpapers",
+ "ar": 2012,
+ "doi": "https://doi.org/10.17848/wp12-186",
+ "forfattere": [
+  "Timothy J. Bartik",
+  "Marta Lachowska"
+ ],
+ "id": "W3121941659",
+ "kilde": "Upjohn Research (W.E. Upjohn Institute for Employment Research)",
+ "lenke": "https://openalex.org/W3121941659",
+ "oversikt": false,
+ "sammendrag": "In order to study whether college scholarships can be an effective tool in raising students’ performance in secondary school, we use one aspect of the Kalamazoo Promise that resembles a quasi-experiment. The surprise announcement of the scholarship created a large change in expected college tuition costs that varied across different groups of students based on past enrollment decisions. This variation is arguably exogenous to unobserved student characteristics. We estimate the effects of this change by a set of “difference-in-differences” regressions where we compare the change in student outcomes in secondary school across time for different student “length of enrollment” groups. We find positive effects of the Kalamazoo Promise on Promise-eligible students large enough to be deemed important—about a 9 percent increase in the probability of earning any credits and one less suspension day per year. We also find large increases in GPA among African American students.",
+ "tittel": "The Short-Term Effects of the Kalamazoo Promise Scholarship on Student Outcomes",
+ "type": "report"
+}

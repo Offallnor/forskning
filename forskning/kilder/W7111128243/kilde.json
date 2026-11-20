@@ -1,0 +1,20 @@
+{
+ "apen_url": "https://doi.org/10.26300/1my6-wm69",
+ "ar": 2025,
+ "doi": "https://doi.org/10.26300/1my6-wm69",
+ "forfattere": [
+  "Silke Anger",
+  "Christoph, Bernhard",
+  "Galkiewicz, Agata",
+  "Margaryan, Shushanik",
+  "Sandner, Malte",
+  "Siedler, Thomas"
+ ],
+ "id": "W7111128243",
+ "kilde": "Econstor (Econstor)",
+ "lenke": "https://openalex.org/W7111128243",
+ "oversikt": false,
+ "sammendrag": "Tutoring programs for low-performing students, delivered in-person or online, effectively enhance school performance, yet their medium- and longer-term impacts on labor market outcomes remain less understood. To address this gap, we conduct a randomized controlled trial with 839 secondary school students in Germany to examine the effects of an online tutoring program for low-performing students on academic performance and school-to-work transitions. The online tutoring program had a non-significant intention-to-treat effect of 0.06 standard deviations on math grades six months after program start. However, among students who had not received other tutoring services prior to the intervention, the program significantly improved math grades by 0.14 standard deviations. Moreover, students in non-academic school tracks experienced smoother school-to-work transitions, with vocational training take-up 18 months later being 5 percentage points higher—an effect that was even larger (12 percentage points) among those without prior tutoring. Overall, the results indicate that tutoring can generate lasting benefits for low-performing students that extend beyond school performance.",
+ "tittel": "Online Tutoring, School Performance, and School-to-Work Transitions: Evidence from a Randomized Controlled Trial",
+ "type": "report"
+}

@@ -1,0 +1,19 @@
+{
+ "apen_url": "http://cver.lse.ac.uk/textonly/cver/pubs/cverdp006.pdf",
+ "ar": 2017,
+ "forfattere": [
+  "Vahé Nafilyan",
+  "Stefan Speckesser"
+ ],
+ "hentet": "2026-11-20",
+ "hentet_fra": "https://cver.lse.ac.uk/textonly/cver/pubs/cverdp006.pdf",
+ "hvordan": "pdf",
+ "id": "W7110655526",
+ "kilde": "RePEc: Research Papers in Economics",
+ "lenke": "https://openalex.org/W7110655526",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "In this paper, we estimate the effect of a reform of apprenticeships in England in 2012, which changed the duration for Intermediate Apprenticeships in many industries, while other sectors already exceeded the incoming minimum duration. We focus on the group the 19-24 year olds, who experienced a genuine increase in apprenticeship duration and estimate the impact on apprenticeship starts, achievement of the qualification and employment and earnings outcomes. We find that the reform reduced apprenticeship starts in the sectors affected (by 13 to 33 percent), increased drop-out rates (by 3-5 percentage points) and reduced achievement of the qualification (by 4-7 percentage points), but also significantly increased earnings (by 7% compared to counterfactual for 19-24 year olds without Level 2 qualifications). The main limitation of this study is that it is not possible with the available data to test whether the increase in earnings was driven by those who achieved a longer apprenticeship, by learners dropping out of their apprenticeships to get a better-paid job, or by a compositional change (i.e. weaker young people not starting an apprenticeship). However, in our view, the positive effect on earnings indicates that the SASE reform improved the job matching of young people to available employment opportunities, which was the reform's ultimate purpose.",
+ "tittel": "The longer the better? The impact of the 2012 apprenticeship reform in England on achievement and other outcomes",
+ "type": "preprint"
+}

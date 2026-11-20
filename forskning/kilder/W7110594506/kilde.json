@@ -1,0 +1,17 @@
+{
+ "forfattere": [
+  "Gabriel Montes‐Rojas",
+  "Vera Chiodi"
+ ],
+ "hentet": "2026-11-20",
+ "hentet_fra": "https://ojs.economicas.uba.ar/DT-IIEP/article/download/2444/3191/8487",
+ "hvordan": "pdf",
+ "id": "W7110594506",
+ "kilde": "RePEc: Research Papers in Economics",
+ "lenke": "https://openalex.org/W7110594506",
+ "merknad": "",
+ "oversikt": false,
+ "sammendrag": "We evaluate how the impact of a mentoring program in French disadvantaged high schools varies with the intensity of the program. Given that, in general, the only significant effect was observed by full attendance to all meetings, we argue that the treatment dose matters. Thus, while the original evaluation program was designed as a randomized experiment to balance control and treated individuals (those who were offered the mentoring scheme, with diferent degree of program participation), we motivate the use of continuous and multi-valued treatment effects models to estimate the dose response function. The program shows that information about prospective labor market opportunities feeds back positively into academic performance. However, it has a negative effect on job self-esteem, suggesting that acquiring information on job market prospects updates students’ priors on their skills and possibilities and that the students might be updating rationally.",
+ "tittel": "Mentoring as a dose treatment: frequency matters: Evidence from a French mentoring program",
+ "type": "preprint"
+}

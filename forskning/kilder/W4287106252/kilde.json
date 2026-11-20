@@ -1,0 +1,21 @@
+{
+ "apen_url": "https://duepublico2.uni-due.de/servlets/MCRFileNodeServlet/duepublico_derivate_00074414/CINCH_Series_2021_04.pdf",
+ "ar": 2021,
+ "doi": "https://doi.org/10.17185/duepublico/74644",
+ "forfattere": [
+  "Signe A. Abrahamsen",
+  "Rita Ginja",
+  "Julie Riise"
+ ],
+ "hentet": "2026-11-20",
+ "hentet_fra": "http://humcap.uchicago.edu/RePEc/hka/wpaper/Abrahamsen_Ginja_Riise_2021_school-health-programs.pdf",
+ "hvordan": "pdf",
+ "id": "W4287106252",
+ "kilde": "RePEc: Research Papers in Economics",
+ "lenke": "https://openalex.org/W4287106252",
+ "merknad": "ÅPEN VERSJON (preprint eller arbeidsnotat), merkes i svaret",
+ "oversikt": false,
+ "sammendrag": "This paper provides new evidence that preventive health care services delivered at schools and provided at a relatively low cost have positive and lasting impacts. We use variation from a 1999‐reform in Norway that induced substantial differences in the availability of health professionals across municipalities and cohorts. In municipalities with one fewer school nurse per 1,000 schoolage children before the reform there was an increase in the availability of nurses of 35% from the pre‐ to the post‐reform period, attributed to the policy change. The reform reduced teenage pregnancies and increased college attendance for girls. It also reduced the take‐up of welfare benefits by ages 26 and 30 and increased the planned use of primary and specialist health care services at ages 25‐35, without impacts on emergency room admissions. The reform also improved the health of newborns of affected new mothers and reduced the likelihood of miscarriages.",
+ "tittel": "School Health Programs: Education, Health and Welfare Dependency of Young Adults",
+ "type": "preprint"
+}
