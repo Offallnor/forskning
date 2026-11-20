@@ -2,8 +2,1380 @@
 
 Kjørt 2026-11-20.
 
-2 feil av 8641 kontroller.
+2 feil av 10013 kontroller.
 
+- OK   1 estimat-kilde W2149364766 finnes
+- OK   1 estimat-kilde W2149364766 finnes
+- OK   1 estimat-kilde W2149364766 finnes
+- OK   1 estimat-kilde W2149364766 finnes
+- OK   1 estimat-kilde W2149364766 finnes
+- OK   1 estimat-kilde W1520638110 finnes
+- OK   1 estimat-kilde W1520638110 finnes
+- OK   1 estimat-kilde W1520638110 finnes
+- OK   1 estimat-kilde 0198cc53296c-1d0fedae-2045-49b0-82cb-075a3c20875b finnes
+- OK   1 estimat-kilde 0198cc6e3be9-3b6d3a2c-e6af-401c-a3eb-3670ae2e4eb3 finnes
+- OK   1 estimat-kilde 0198cc6e3be9-3b6d3a2c-e6af-401c-a3eb-3670ae2e4eb3 finnes
+- OK   1 estimat-kilde 0198cc6e3be9-3b6d3a2c-e6af-401c-a3eb-3670ae2e4eb3 finnes
+- OK   1 estimat-kilde 0198cc6e3be9-3b6d3a2c-e6af-401c-a3eb-3670ae2e4eb3 finnes
+- OK   1 estimat-kilde 0198cc7af4ee-56751fde-1887-485f-a0e0-d76cecc6a513 finnes
+- OK   1 estimat-kilde 0198cc7af4ee-56751fde-1887-485f-a0e0-d76cecc6a513 finnes
+- OK   1 estimat-kilde 0198cc7af4ee-56751fde-1887-485f-a0e0-d76cecc6a513 finnes
+- OK   1 estimat-kilde 01a06b37e137-0eac1fd1-a6bd-4df2-96dd-8a793b810a3a finnes
+- OK   1 estimat-kilde KU-2c335645-c85b-4e7e-9906-0062ca57e94f finnes
+- OK   1 estimat-kilde KU-2c335645-c85b-4e7e-9906-0062ca57e94f finnes
+- OK   1 estimat-kilde KU-2c335645-c85b-4e7e-9906-0062ca57e94f finnes
+- OK   1 estimat-kilde KU-2c335645-c85b-4e7e-9906-0062ca57e94f finnes
+- OK   1 estimat-kilde W4385622494 finnes
+- OK   1 estimat-kilde W2613431921 finnes
+- OK   1 estimat-kilde W2613431921 finnes
+- OK   1 estimat-kilde W2613431921 finnes
+- OK   1 estimat-kilde W2613431921 finnes
+- OK   1 estimat-kilde W2275042259 finnes
+- OK   1 estimat-kilde W2275042259 finnes
+- OK   1 estimat-kilde W7126056312 finnes
+- OK   1 estimat-kilde KU-72c7b14e-01b0-4d64-822f-6741f6982446 finnes
+- OK   1 estimat-kilde W1577052788 finnes
+- OK   1 estimat-kilde W2910504629 finnes
+- OK   1 estimat-kilde W2167917357 finnes
+- OK   1 estimat-kilde W2507907071 finnes
+- OK   1 estimat-kilde W2507907071 finnes
+- OK   1 estimat-kilde W2471709172 finnes
+- OK   1 estimat-kilde W2471709172 finnes
+- OK   1 estimat-kilde W2471709172 finnes
+- OK   1 estimat-kilde W3158296349 finnes
+- OK   1 estimat-kilde W3158296349 finnes
+- OK   1 estimat-kilde W4306677760 finnes
+- OK   1 estimat-kilde W2801093038 finnes
+- OK   1 estimat-kilde W2556292298 finnes
+- OK   1 estimat-kilde W2556292298 finnes
+- OK   1 estimat-kilde W3001230728 finnes
+- OK   1 estimat-kilde W3001230728 finnes
+- OK   1 estimat-kilde W4391851863 finnes
+- OK   1 estimat-kilde KU-a2a2fd84-a6e5-4faf-a032-9cf833fb8311 finnes
+- OK   1 estimat-kilde KU-c040603e-dd74-4666-83a3-418cdd6e462b finnes
+- OK   1 estimat-kilde W2032123100 finnes
+- OK   1 estimat-kilde W2100931415 finnes
+- OK   1 estimat-kilde W2096819442 finnes
+- OK   1 estimat-kilde W1976450713 finnes
+- OK   1 estimat-kilde W1976450713 finnes
+- OK   1 estimat-kilde W2523908740 finnes
+- OK   1 estimat-kilde W1483383292 finnes
+- OK   1 estimat-kilde W987097530 finnes
+- OK   1 estimat-kilde W987097530 finnes
+- OK   1 estimat-kilde W4403946492 finnes
+- OK   1 estimat-kilde W4396619718 finnes
+- OK   1 estimat-kilde W4396619718 finnes
+- OK   1 estimat-kilde W4396619718 finnes
+- OK   1 estimat-kilde W2728873104 finnes
+- OK   1 estimat-kilde W4415689128 finnes
+- OK   1 estimat-kilde W4415689128 finnes
+- OK   1 estimat-kilde W4415689128 finnes
+- OK   1 estimat-kilde W2600629073 finnes
+- OK   1 estimat-kilde W41574030 finnes
+- OK   1 estimat-kilde W7160121170 finnes
+- OK   1 estimat-kilde W2160034424 finnes
+- OK   1 estimat-kilde W2113307133 finnes
+- OK   1 estimat-kilde W2080516599 finnes
+- OK   1 estimat-kilde W2135556120 finnes
+- OK   1 estimat-kilde W2029186142 finnes
+- OK   1 estimat-kilde W2999038008 finnes
+- OK   1 estimat-kilde W2108262335 finnes
+- OK   1 estimat-kilde W2969817513 finnes
+- OK   1 estimat-kilde W7135538880 finnes
+- OK   1 estimat-kilde W1917032049 finnes
+- OK   1 estimat-kilde W3028429055 finnes
+- OK   1 estimat-kilde W3028429055 finnes
+- OK   1 estimat-kilde W3028429055 finnes
+- OK   1 estimat-kilde W3028429055 finnes
+- OK   1 estimat-kilde W3028429055 finnes
+- OK   1 estimat-kilde W3121289800 finnes
+- OK   1 estimat-kilde W3121289800 finnes
+- OK   1 estimat-kilde W3121289800 finnes
+- OK   1 estimat-kilde W3121289800 finnes
+- OK   1 estimat-kilde W2011923685 finnes
+- OK   1 estimat-kilde W2011923685 finnes
+- OK   1 estimat-kilde W2011923685 finnes
+- OK   1 estimat-kilde W4297073006 finnes
+- OK   1 estimat-kilde W4297073006 finnes
+- OK   1 estimat-kilde W4281558597 finnes
+- OK   1 estimat-kilde W4281558597 finnes
+- OK   1 estimat-kilde W4281558597 finnes
+- OK   1 estimat-kilde W4281558597 finnes
+- OK   1 estimat-kilde W2890347013 finnes
+- OK   1 estimat-kilde W2890347013 finnes
+- OK   1 estimat-kilde W4388491535 finnes
+- OK   1 estimat-kilde W2791256263 finnes
+- OK   1 estimat-kilde W2496629830 finnes
+- OK   1 estimat-kilde W1509808120 finnes
+- OK   1 estimat-kilde W1509808120 finnes
+- OK   1 estimat-kilde W1509808120 finnes
+- OK   1 estimat-kilde W4398169198 finnes
+- OK   1 estimat-kilde W3010127918 finnes
+- OK   1 estimat-kilde W3010127918 finnes
+- OK   1 estimat-kilde W613375024 finnes
+- OK   1 estimat-kilde 0198cc8d1ff3-71dec544-6851-4831-8298-439bab4316e3 finnes
+- OK   1 estimat-kilde 0198cc8d1ff3-71dec544-6851-4831-8298-439bab4316e3 finnes
+- OK   1 estimat-kilde 019904901329-5cfee4f7-1fe2-4203-92aa-af389dd0128e finnes
+- OK   1 estimat-kilde KU-345c469c-c65b-4edb-8cf5-9c6028e3330b finnes
+- OK   1 estimat-kilde KU-345c469c-c65b-4edb-8cf5-9c6028e3330b finnes
+- OK   1 estimat-kilde KU-345c469c-c65b-4edb-8cf5-9c6028e3330b finnes
+- OK   1 estimat-kilde KU-a2a2fd6a-286c-4b83-bf92-b64aaeb60be2 finnes
+- OK   1 estimat-kilde KU-a2a2fd6a-286c-4b83-bf92-b64aaeb60be2 finnes
+- OK   1 estimat-kilde KU-a2a2fd6a-286c-4b83-bf92-b64aaeb60be2 finnes
+- OK   1 estimat-kilde KU-a2a2fd81-e41f-4a50-9e68-7400b07c51a6 finnes
+- OK   1 estimat-kilde KU-833522a8-06b3-4758-816e-e44859a65576 finnes
+- OK   1 estimat-kilde KU-833522a8-06b3-4758-816e-e44859a65576 finnes
+- OK   1 estimat-kilde KU-a2a2fda3-be65-4dde-ae77-934dcfe7b1cb finnes
+- OK   1 estimat-kilde KU-a2a2fda3-be65-4dde-ae77-934dcfe7b1cb finnes
+- OK   1 estimat-kilde KU-a2a2fd91-4f98-4642-bcaa-a3aac8c84c14 finnes
+- OK   1 estimat-kilde KU-a2a2fd91-4f98-4642-bcaa-a3aac8c84c14 finnes
+- OK   1 estimat-kilde KU-a2a2fd91-4f98-4642-bcaa-a3aac8c84c14 finnes
+- OK   1 estimat-kilde KU-2fcde6dd-db06-47a8-8ef2-b403fdeef0d8 finnes
+- OK   1 estimat-kilde KU-49f8e164-6f51-4aad-8a36-04478a0a5072 finnes
+- OK   1 estimat-kilde KU-49f8e164-6f51-4aad-8a36-04478a0a5072 finnes
+- OK   1 estimat-kilde KU-49f8e164-6f51-4aad-8a36-04478a0a5072 finnes
+- OK   1 estimat-kilde 01999e9ae3c6-77e7f3be-5cf3-4d1f-a069-f660c484c4b4 finnes
+- OK   1 estimat-kilde 01999e9ae3c6-77e7f3be-5cf3-4d1f-a069-f660c484c4b4 finnes
+- OK   1 estimat-kilde 01999e9ae3c6-77e7f3be-5cf3-4d1f-a069-f660c484c4b4 finnes
+- OK   1 estimat-kilde 0198edf8e3a0-0c64d9e5-2c8d-42a0-b151-765b763eb52d finnes
+- OK   1 estimat-kilde W1869343368 finnes
+- OK   1 estimat-kilde 0198cc6a9d88-23db3e02-3dd2-4c33-a1c1-c4b5575711ea finnes
+- OK   1 estimat-kilde 0198cc6a9d88-23db3e02-3dd2-4c33-a1c1-c4b5575711ea finnes
+- OK   1 estimat-kilde 0198cc6a9d88-23db3e02-3dd2-4c33-a1c1-c4b5575711ea finnes
+- OK   1 estimat-kilde 0198f20268d9-0f494427-82ce-4329-a1ed-cb296aa77922 finnes
+- OK   1 estimat-kilde W7125898364 finnes
+- OK   1 estimat-kilde W7125898364 finnes
+- OK   1 estimat-kilde W1872948875 finnes
+- OK   1 estimat-kilde W4383262913 finnes
+- OK   1 estimat-kilde W3155834839 finnes
+- OK   1 estimat-kilde W3155834839 finnes
+- OK   1 estimat-kilde W4415228247 finnes
+- OK   1 estimat-kilde W4415228247 finnes
+- OK   1 estimat-kilde W4415228247 finnes
+- OK   1 estimat-kilde W4413137339 finnes
+- OK   1 estimat-kilde W4413137339 finnes
+- OK   1 estimat-kilde 0198cc82acd3-25db32da-92d2-43bc-aeca-4eac203e86ac finnes
+- OK   1 estimat-kilde 0198cc82acd3-25db32da-92d2-43bc-aeca-4eac203e86ac finnes
+- OK   1 estimat-kilde 019dcf110efa-7c74d5a1-4995-4194-b024-4d7bc4f9d0c1 finnes
+- OK   1 estimat-kilde 019dcf110efa-7c74d5a1-4995-4194-b024-4d7bc4f9d0c1 finnes
+- OK   1 estimat-kilde 019dcf110efa-7c74d5a1-4995-4194-b024-4d7bc4f9d0c1 finnes
+- OK   1 estimat-kilde 0198cc563c53-38f459ab-7b12-4379-bca9-adb3f5e50784 finnes
+- OK   1 estimat-kilde 0198cc563c53-38f459ab-7b12-4379-bca9-adb3f5e50784 finnes
+- OK   1 estimat-kilde 0198cc563c53-38f459ab-7b12-4379-bca9-adb3f5e50784 finnes
+- OK   1 estimat-kilde 0198cc563c53-38f459ab-7b12-4379-bca9-adb3f5e50784 finnes
+- OK   1 estimat-kilde 0198cc563c53-38f459ab-7b12-4379-bca9-adb3f5e50784 finnes
+- OK   1 estimat-kilde 0198cc55549c-110e8ee2-6862-4943-aa1f-96f6238f4809 finnes
+- OK   1 estimat-kilde 0198cc55549c-110e8ee2-6862-4943-aa1f-96f6238f4809 finnes
+- OK   1 estimat-kilde 0198cc55549c-110e8ee2-6862-4943-aa1f-96f6238f4809 finnes
+- OK   1 estimat-kilde 0198cc3e5832-ee5191af-142c-4cc4-9c68-41794515f96b finnes
+- OK   1 estimat-kilde 0198cc3e5832-ee5191af-142c-4cc4-9c68-41794515f96b finnes
+- OK   1 estimat-kilde 0198cc3e5832-ee5191af-142c-4cc4-9c68-41794515f96b finnes
+- OK   1 estimat-kilde 0198cc6f84ed-44adde51-5c49-4a1b-bfa9-b29b38319e8b finnes
+- OK   1 estimat-kilde 0198cc6f84ed-44adde51-5c49-4a1b-bfa9-b29b38319e8b finnes
+- OK   1 estimat-kilde KU-a1a67931-cad4-40f0-ab8b-63ee269b2a7b finnes
+- OK   1 estimat-kilde LI-v8q83dqqslmd3qlj finnes
+- OK   1 estimat-kilde LI-v8q83dqqslmd3qlj finnes
+- OK   1 estimat-kilde LI-v8q83dqqslmd3qlj finnes
+- OK   1 estimat-kilde LI-v8q83dqqslmd3qlj finnes
+- OK   1 estimat-kilde W4205632086 finnes
+- OK   1 estimat-kilde W4205632086 finnes
+- OK   1 estimat-kilde W4205632086 finnes
+- OK   1 estimat-kilde W4410197986 finnes
+- OK   1 estimat-kilde W4410197986 finnes
+- OK   1 estimat-kilde W4410197986 finnes
+- OK   1 estimat-kilde W4410197986 finnes
+- OK   1 estimat-kilde W4319984058 finnes
+- OK   1 estimat-kilde W3092454042 finnes
+- OK   1 estimat-kilde W379305091 finnes
+- OK   1 estimat-kilde W2406509661 finnes
+- OK   1 estimat-kilde W134093888 finnes
+- OK   1 estimat-kilde W134093888 finnes
+- OK   1 estimat-kilde W134093888 finnes
+- OK   1 estimat-kilde W4206389522 finnes
+- OK   1 estimat-kilde W3125990592 finnes
+- OK   1 estimat-kilde 0198cc7f6b95-ee061f42-7475-4726-bf36-134bd09446f8 finnes
+- OK   1 estimat-kilde 0198cc67dc43-059761aa-232f-4254-89c2-5915865da66f finnes
+- OK   1 estimat-kilde W2027892394 finnes
+- OK   1 estimat-kilde W2027892394 finnes
+- OK   1 estimat-kilde W1973914978 finnes
+- OK   1 estimat-kilde W1973914978 finnes
+- OK   1 estimat-kilde 0198cc649f49-849ca903-508b-43e9-806d-57943a5b4173 finnes
+- OK   1 estimat-kilde KU-f2d09228-f936-46d5-a8f1-a6341e2e310a finnes
+- OK   1 estimat-kilde KU-a2a2fd5c-02e1-4c37-8107-d4846cb7c60a finnes
+- OK   1 estimat-kilde W2156343861 finnes
+- OK   1 estimat-kilde W2966664009 finnes
+- OK   1 estimat-kilde W2950284726 finnes
+- OK   1 estimat-kilde KU-a2a2fd76-a3c1-4939-8abd-07857551bc7e finnes
+- OK   1 estimat-kilde 019ed45c9fb4-36845be7-adcc-4fc8-98c8-434b1f2bf401 finnes
+- OK   1 estimat-kilde W4313410175 finnes
+- OK   1 estimat-kilde W2056401231 finnes
+- OK   1 estimat-kilde W2346826490 finnes
+- OK   1 estimat-kilde W1547449442 finnes
+- OK   1 estimat-kilde W3121941659 finnes
+- OK   1 estimat-kilde W2010433433 finnes
+- OK   1 estimat-kilde W2105032465 finnes
+- OK   1 estimat-kilde W2105032465 finnes
+- OK   1 estimat-kilde W2090514173 finnes
+- OK   1 estimat-kilde W3124177077 finnes
+- OK   1 estimat-kilde W3124177077 finnes
+- OK   1 estimat-kilde W2278584276 finnes
+- OK   1 estimat-kilde W4412309720 finnes
+- OK   1 estimat-kilde W4412309720 finnes
+- OK   1 estimat-kilde W1904713647 finnes
+- OK   1 estimat-kilde W1904713647 finnes
+- OK   1 estimat-kilde W1904713647 finnes
+- OK   1 estimat-kilde W4287106252 finnes
+- OK   1 estimat-kilde W4287106252 finnes
+- OK   1 estimat-kilde W4287106252 finnes
+- OK   1 estimat-kilde W3024772475 finnes
+- OK   1 estimat-kilde W3024772475 finnes
+- OK   1 estimat-kilde W3024772475 finnes
+- OK   1 estimat-kilde W3024772475 finnes
+- OK   1 estimat-kilde W2040202717 finnes
+- OK   1 estimat-kilde W2040202717 finnes
+- OK   1 estimat-kilde W2040202717 finnes
+- OK   1 estimat-kilde W1875201337 finnes
+- OK   1 estimat-kilde W1875201337 finnes
+- OK   1 estimat-kilde W1875201337 finnes
+- OK   1 estimat-kilde W2690524449 finnes
+- OK   1 estimat-kilde W2690524449 finnes
+- OK   1 estimat-kilde W2690524449 finnes
+- OK   1 estimat-kilde W2690524449 finnes
+- OK   1 estimat-kilde W2937652885 finnes
+- OK   1 estimat-kilde W2937652885 finnes
+- OK   1 estimat-kilde W2937652885 finnes
+- OK   1 estimat-kilde W2937652885 finnes
+- OK   1 estimat-kilde W2968314327 finnes
+- OK   1 estimat-kilde W4403290135 finnes
+- OK   1 estimat-kilde W4403290135 finnes
+- OK   1 estimat-kilde W4403290135 finnes
+- OK   1 estimat-kilde W4403290135 finnes
+- OK   1 estimat-kilde W3124959592 finnes
+- OK   1 estimat-kilde W3124959592 finnes
+- OK   1 estimat-kilde W2793853857 finnes
+- OK   1 estimat-kilde W2793853857 finnes
+- OK   1 estimat-kilde W2254541575 finnes
+- OK   1 estimat-kilde W2254541575 finnes
+- OK   1 estimat-kilde W2254541575 finnes
+- OK   1 estimat-kilde W2254541575 finnes
+- OK   1 estimat-kilde W2184187688 finnes
+- OK   1 estimat-kilde W129923974 finnes
+- OK   1 estimat-kilde W129923974 finnes
+- OK   1 estimat-kilde W228735155 finnes
+- OK   1 estimat-kilde W2488208057 finnes
+- OK   1 estimat-kilde W2488208057 finnes
+- OK   1 estimat-kilde W2488208057 finnes
+- OK   1 estimat-kilde W2141534168 finnes
+- OK   1 estimat-kilde W2594678938 finnes
+- OK   1 estimat-kilde W2594678938 finnes
+- OK   1 estimat-kilde W2594678938 finnes
+- OK   1 estimat-kilde W290486728 finnes
+- OK   1 estimat-kilde W290486728 finnes
+- OK   1 estimat-kilde W290486728 finnes
+- OK   1 estimat-kilde W2234406649 finnes
+- OK   1 estimat-kilde W2234406649 finnes
+- OK   1 estimat-kilde W2234406649 finnes
+- OK   1 estimat-kilde W2234406649 finnes
+- OK   1 estimat-kilde W2234406649 finnes
+- OK   1 estimat-kilde W2234406649 finnes
+- OK   1 estimat-kilde W4407929709 finnes
+- OK   1 estimat-kilde W4407929709 finnes
+- OK   1 estimat-kilde W4407929709 finnes
+- OK   1 estimat-kilde W4416378569 finnes
+- OK   1 estimat-kilde W4416378569 finnes
+- OK   1 estimat-kilde W4416378569 finnes
+- OK   1 estimat-kilde W4416378569 finnes
+- OK   1 estimat-kilde W4416378569 finnes
+- OK   1 estimat-kilde W4416378569 finnes
+- OK   1 estimat-kilde W2611019407 finnes
+- OK   1 estimat-kilde W2611019407 finnes
+- OK   1 estimat-kilde W2611019407 finnes
+- OK   1 estimat-kilde W2611019407 finnes
+- OK   1 estimat-kilde W2515970520 finnes
+- OK   1 estimat-kilde W2515970520 finnes
+- OK   1 estimat-kilde W2515970520 finnes
+- OK   1 estimat-kilde W2037365045 finnes
+- OK   1 estimat-kilde W3199196517 finnes
+- OK   1 estimat-kilde W2144739922 finnes
+- OK   1 estimat-kilde W4299937456 finnes
+- OK   1 estimat-kilde W4299937456 finnes
+- OK   1 estimat-kilde W4299937456 finnes
+- OK   1 estimat-kilde W4299937456 finnes
+- OK   1 estimat-kilde W4299937456 finnes
+- OK   1 estimat-kilde W3015747275 finnes
+- OK   1 estimat-kilde W3015747275 finnes
+- OK   1 estimat-kilde W3015747275 finnes
+- OK   1 estimat-kilde W2138008261 finnes
+- OK   1 estimat-kilde W2138008261 finnes
+- OK   1 estimat-kilde W2138008261 finnes
+- OK   1 estimat-kilde W2138008261 finnes
+- OK   1 estimat-kilde W3171133882 finnes
+- OK   1 estimat-kilde W3171133882 finnes
+- OK   1 estimat-kilde W3171133882 finnes
+- OK   1 estimat-kilde W4287339466 finnes
+- OK   1 estimat-kilde W4287339466 finnes
+- OK   1 estimat-kilde W3184785289 finnes
+- OK   1 estimat-kilde W3184785289 finnes
+- OK   1 estimat-kilde W3184785289 finnes
+- OK   1 estimat-kilde W3184785289 finnes
+- OK   1 estimat-kilde W2954037761 finnes
+- OK   1 estimat-kilde W3123099642 finnes
+- OK   1 estimat-kilde W4293187538 finnes
+- OK   1 estimat-kilde W4293187538 finnes
+- OK   1 estimat-kilde W4293187538 finnes
+- OK   1 estimat-kilde W4293187538 finnes
+- OK   1 estimat-kilde W4312220004 finnes
+- OK   1 estimat-kilde W4312220004 finnes
+- OK   1 estimat-kilde W4312220004 finnes
+- OK   1 estimat-kilde W4312220004 finnes
+- OK   1 estimat-kilde W3112572217 finnes
+- OK   1 estimat-kilde W3112572217 finnes
+- OK   1 estimat-kilde W3127177287 finnes
+- OK   1 estimat-kilde W3127177287 finnes
+- OK   1 estimat-kilde W3127177287 finnes
+- OK   1 estimat-kilde W3168708978 finnes
+- OK   1 estimat-kilde W3168708978 finnes
+- OK   1 estimat-kilde W3110602849 finnes
+- OK   1 estimat-kilde W3110602849 finnes
+- OK   1 estimat-kilde W3110602849 finnes
+- OK   1 estimat-kilde W2615975980 finnes
+- OK   1 estimat-kilde W2615975980 finnes
+- OK   1 estimat-kilde W2615975980 finnes
+- OK   1 estimat-kilde W2615975980 finnes
+- OK   1 estimat-kilde W2137745619 finnes
+- OK   1 estimat-kilde W2137745619 finnes
+- OK   1 estimat-kilde W2137745619 finnes
+- OK   1 estimat-kilde W2137745619 finnes
+- OK   1 estimat-kilde W2586946892 finnes
+- OK   1 estimat-kilde W2586946892 finnes
+- OK   1 estimat-kilde W2796099688 finnes
+- OK   1 estimat-kilde W2796099688 finnes
+- OK   1 estimat-kilde W2796099688 finnes
+- OK   1 estimat-kilde W4412563719 finnes
+- OK   1 estimat-kilde W4412563719 finnes
+- OK   1 estimat-kilde W4412563719 finnes
+- OK   1 estimat-kilde W4412563719 finnes
+- OK   1 estimat-kilde W4386500381 finnes
+- OK   1 estimat-kilde W4386500381 finnes
+- OK   1 estimat-kilde W4386500381 finnes
+- OK   1 estimat-kilde W2539878537 finnes
+- OK   1 estimat-kilde W2539878537 finnes
+- OK   1 estimat-kilde W3042282174 finnes
+- OK   1 estimat-kilde W3042282174 finnes
+- OK   1 estimat-kilde W3042282174 finnes
+- OK   1 estimat-kilde W3121779431 finnes
+- OK   1 estimat-kilde W3121779431 finnes
+- OK   1 estimat-kilde W7133582582 finnes
+- OK   1 estimat-kilde W7133582582 finnes
+- OK   1 estimat-kilde W2335930971 finnes
+- OK   1 estimat-kilde W2335930971 finnes
+- OK   1 estimat-kilde W2335930971 finnes
+- OK   1 estimat-kilde W2924485061 finnes
+- OK   1 estimat-kilde W2924485061 finnes
+- OK   1 estimat-kilde W2924485061 finnes
+- OK   1 estimat-kilde W2924485061 finnes
+- OK   1 estimat-kilde W2470002656 finnes
+- OK   1 estimat-kilde W2470002656 finnes
+- OK   1 estimat-kilde W2470002656 finnes
+- OK   1 estimat-kilde W2470002656 finnes
+- OK   1 estimat-kilde W164857482 finnes
+- OK   1 estimat-kilde W164857482 finnes
+- OK   1 estimat-kilde W2911385571 finnes
+- OK   1 estimat-kilde W4288086398 finnes
+- OK   1 estimat-kilde W4288086398 finnes
+- OK   1 estimat-kilde W4404943935 finnes
+- OK   1 estimat-kilde W4404943935 finnes
+- OK   1 estimat-kilde W301239432 finnes
+- OK   1 estimat-kilde W301239432 finnes
+- OK   1 estimat-kilde W115021740 finnes
+- OK   1 estimat-kilde W115021740 finnes
+- OK   1 estimat-kilde W115021740 finnes
+- OK   1 estimat-kilde W4213274030 finnes
+- OK   1 estimat-kilde W2645608735 finnes
+- OK   1 estimat-kilde W2645608735 finnes
+- OK   1 estimat-kilde W2645608735 finnes
+- OK   1 estimat-kilde W2978758442 finnes
+- OK   1 estimat-kilde W2978758442 finnes
+- OK   1 estimat-kilde W3122301661 finnes
+- OK   1 estimat-kilde W3122301661 finnes
+- OK   1 estimat-kilde W2808375903 finnes
+- OK   1 estimat-kilde W2808375903 finnes
+- OK   1 estimat-kilde W2787144718 finnes
+- OK   1 estimat-kilde W2481298662 finnes
+- OK   1 estimat-kilde W2481298662 finnes
+- OK   1 estimat-kilde W2481298662 finnes
+- OK   1 estimat-kilde W2481298662 finnes
+- OK   1 estimat-kilde W1412016855 finnes
+- OK   1 estimat-kilde W4380841569 finnes
+- OK   1 estimat-kilde W4285684438 finnes
+- OK   1 estimat-kilde W4283031585 finnes
+- OK   1 estimat-kilde W7111982301 finnes
+- OK   1 estimat-kilde W7111982301 finnes
+- OK   1 estimat-kilde W2596043699 finnes
+- OK   1 estimat-kilde W3146812407 finnes
+- OK   1 estimat-kilde W2898731331 finnes
+- OK   1 estimat-kilde W3125446328 finnes
+- OK   1 estimat-kilde W3125446328 finnes
+- OK   1 estimat-kilde W4387973941 finnes
+- OK   1 estimat-kilde W4206973215 finnes
+- OK   1 estimat-kilde W4206973215 finnes
+- OK   1 estimat-kilde W4206973215 finnes
+- OK   1 estimat-kilde W1970017925 finnes
+- OK   1 estimat-kilde W1970017925 finnes
+- OK   1 estimat-kilde W1970017925 finnes
+- OK   1 estimat-kilde W36520195 finnes
+- OK   1 estimat-kilde W1505084678 finnes
+- OK   1 estimat-kilde W1505084678 finnes
+- OK   1 estimat-kilde W1505084678 finnes
+- OK   1 estimat-kilde W3123305208 finnes
+- OK   1 estimat-kilde W3123305208 finnes
+- OK   1 estimat-kilde W3123412170 finnes
+- OK   1 estimat-kilde W7110655526 finnes
+- OK   1 estimat-kilde W7110655526 finnes
+- OK   1 estimat-kilde W7110655526 finnes
+- OK   1 estimat-kilde W7110655526 finnes
+- OK   1 estimat-kilde W7110594506 finnes
+- OK   1 estimat-kilde W4412450403 finnes
+- OK   1 estimat-kilde W2088392856 finnes
+- OK   1 estimat-kilde W2111404192 finnes
+- OK   1 estimat-kilde W2968503131 finnes
+- OK   1 estimat-kilde W2968503131 finnes
+- OK   1 estimat-kilde W4281768817 finnes
+- OK   1 estimat-kilde W2598746472 finnes
+- OK   1 estimat-kilde W2598746472 finnes
+- OK   1 estimat-kilde W199840367 finnes
+- OK   1 estimat-kilde W3190050573 finnes
+- OK   1 estimat-kilde W2469072264 finnes
+- OK   1 estimat-kilde W7221356294 finnes
+- OK   1 estimat-kilde W7225943116 finnes
+- OK   1 estimat-kilde W7225943116 finnes
+- OK   1 estimat-kilde W7225943116 finnes
+- OK   1 estimat-kilde W3124756728 finnes
+- OK   1 estimat-kilde W2996070763 finnes
+- OK   1 estimat-kilde W2463481623 finnes
+- OK   1 estimat-kilde W2570497748 finnes
+- OK   1 estimat-kilde W2038759711 finnes
+- OK   1 estimat-kilde W113097357 finnes
+- OK   1 estimat-kilde W2080093575 finnes
+- OK   1 estimat-kilde W1984181739 finnes
+- OK   1 estimat-kilde W4322739414 finnes
+- OK   1 estimat-kilde W2162660350 finnes
+- OK   1 estimat-kilde W2764099164 finnes
+- OK   1 estimat-kilde W4255274562 finnes
+- OK   1 estimat-kilde W2582978474 finnes
+- OK   1 estimat-kilde W261039529 finnes
+- OK   1 estimat-kilde W1581645149 finnes
+- OK   1 estimat-kilde W2976412447 finnes
+- OK   1 estimat-kilde W2226117826 finnes
+- OK   1 estimat-kilde W2276179287 finnes
+- OK   1 estimat-kilde W1209900593 finnes
+- OK   1 estimat-kilde W2883664067 finnes
+- OK   1 estimat-kilde W3087854501 finnes
+- OK   1 estimat-kilde W3087854501 finnes
+- OK   1 estimat-kilde W3087854501 finnes
+- OK   1 estimat-kilde W7130693590 finnes
+- OK   1 estimat-kilde W1876339633 finnes
+- OK   1 estimat-kilde W2101632421 finnes
+- OK   1 estimat-kilde W2121317152 finnes
+- OK   1 estimat-kilde W2016550750 finnes
+- OK   1 estimat-kilde W2016550750 finnes
+- OK   1 estimat-kilde W7160873583 finnes
+- OK   1 estimat-kilde W7160873583 finnes
+- OK   1 estimat-kilde W1990491899 finnes
+- OK   1 estimat-kilde W7224693574 finnes
+- OK   1 estimat-kilde W3119534817 finnes
+- OK   1 estimat-kilde W4220981384 finnes
+- OK   1 estimat-kilde W2129670298 finnes
+- OK   1 estimat-kilde W2129670298 finnes
+- OK   1 estimat-kilde W7224979170 finnes
+- OK   1 estimat-kilde W2471267942 finnes
+- OK   1 estimat-kilde W1533706132 finnes
+- OK   1 estimat-kilde W2016694979 finnes
+- OK   1 estimat-kilde W2572611419 finnes
+- OK   1 estimat-kilde W1601418063 finnes
+- OK   1 estimat-kilde W2594299339 finnes
+- OK   1 estimat-kilde W71319 finnes
+- OK   1 estimat-kilde W71319 finnes
+- OK   1 estimat-kilde W2187283579 finnes
+- OK   1 estimat-kilde W2187283579 finnes
+- OK   1 estimat-kilde W1558311384 finnes
+- OK   1 estimat-kilde W2561198157 finnes
+- OK   1 estimat-kilde W7224150137 finnes
+- OK   1 estimat-kilde W2625356604 finnes
+- OK   1 estimat-kilde W2766271138 finnes
+- OK   1 estimat-kilde W4252349433 finnes
+- OK   1 estimat-kilde W1884880819 finnes
+- OK   1 estimat-kilde W2222360378 finnes
+- OK   1 estimat-kilde W7222601035 finnes
+- OK   1 estimat-kilde W2031174180 finnes
+- OK   1 estimat-kilde W7162750308 finnes
+- OK   1 estimat-kilde W2044163791 finnes
+- OK   1 estimat-kilde W2109583741 finnes
+- OK   1 estimat-kilde W4391678766 finnes
+- OK   1 estimat-kilde W4391678766 finnes
+- OK   1 estimat-kilde W566754833 finnes
+- OK   1 estimat-kilde W4414536494 finnes
+- OK   1 estimat-kilde W4414536494 finnes
+- OK   1 estimat-kilde W7148713760 finnes
+- OK   1 estimat-kilde W2162718798 finnes
+- OK   1 estimat-kilde W2084737867 finnes
+- OK   1 estimat-kilde W2092591378 finnes
+- OK   1 estimat-kilde W2047727978 finnes
+- OK   1 estimat-kilde W3126072610 finnes
+- OK   1 estimat-kilde W2157797835 finnes
+- OK   1 estimat-kilde W2157797835 finnes
+- OK   1 estimat-kilde W2321612795 finnes
+- OK   1 estimat-kilde W7112933148 finnes
+- OK   1 estimat-kilde W7111128243 finnes
+- OK   1 estimat-kilde W7111128243 finnes
+- OK   2 sitat rad 1 (W2149364766, frafall/fullføring, generelle frafallspr) står på oppgitt side
+- OK   3 estimat=1.72 rad 1 (W2149364766, frafall/fullføring, generelle frafallspr) står i sitatet
+- OK   3 ki_lav=1.56 rad 1 (W2149364766, frafall/fullføring, generelle frafallspr) står i sitatet
+- OK   3 ki_hoy=1.90 rad 1 (W2149364766, frafall/fullføring, generelle frafallspr) står i sitatet
+- OK   4 rad 1 (W2149364766, frafall/fullføring, generelle frafallspr) estimat innenfor KI
+- OK   4 rad 1 (W2149364766, frafall/fullføring, generelle frafallspr) KI symmetrisk på log-skala (avvik 0.00)
+- OK   2 sitat rad 2 (W2149364766, frafall, omregnet fra OR: 21 prosent i s) står på oppgitt side
+- OK   3 estimat=8 rad 2 (W2149364766, frafall, omregnet fra OR: 21 prosent i s) står i sitatet
+- OK   2 sitat rad 3 (W2149364766, frafall, justert OR for yrkesrettet oppl) står på oppgitt side
+- OK   3 estimat=2.64 rad 3 (W2149364766, frafall, justert OR for yrkesrettet oppl) står i sitatet
+- OK   3 ki_lav=2.12 rad 3 (W2149364766, frafall, justert OR for yrkesrettet oppl) står i sitatet
+- OK   3 ki_hoy=3.28 rad 3 (W2149364766, frafall, justert OR for yrkesrettet oppl) står i sitatet
+- OK   4 rad 3 (W2149364766, frafall, justert OR for yrkesrettet oppl) estimat innenfor KI
+- OK   4 rad 3 (W2149364766, frafall, justert OR for yrkesrettet oppl) KI symmetrisk på log-skala (avvik 0.00)
+- OK   2 sitat rad 4 (W2149364766, frafall, justert OR for mentor- og rådgi) står på oppgitt side
+- OK   3 estimat=2.62 rad 4 (W2149364766, frafall, justert OR for mentor- og rådgi) står i sitatet
+- OK   3 ki_lav=1.97 rad 4 (W2149364766, frafall, justert OR for mentor- og rådgi) står i sitatet
+- OK   3 ki_hoy=3.47 rad 4 (W2149364766, frafall, justert OR for mentor- og rådgi) står i sitatet
+- OK   4 rad 4 (W2149364766, frafall, justert OR for mentor- og rådgi) estimat innenfor KI
+- OK   4 rad 4 (W2149364766, frafall, justert OR for mentor- og rådgi) KI symmetrisk på log-skala (avvik 0.00)
+- OK   2 sitat rad 5 (W2149364766, fullføring/frafall i program for tenårin) står på oppgitt side
+- OK   3 estimat=1.83 rad 5 (W2149364766, fullføring/frafall i program for tenårin) står i sitatet
+- OK   3 ki_lav=1.54 rad 5 (W2149364766, fullføring/frafall i program for tenårin) står i sitatet
+- OK   3 ki_hoy=2.18 rad 5 (W2149364766, fullføring/frafall i program for tenårin) står i sitatet
+- OK   4 rad 5 (W2149364766, fullføring/frafall i program for tenårin) estimat innenfor KI
+- OK   4 rad 5 (W2149364766, fullføring/frafall i program for tenårin) KI symmetrisk på log-skala (avvik 0.00)
+- OK   2 sitat rad 6 (W1520638110, hovedkonklusjon: vellykkede tiltak angri) står på oppgitt side
+- OK   2 sitat rad 7 (W1520638110, deltakelse i utdanning etter 16 år med E) står på oppgitt side
+- OK   3 estimat=4.5 rad 7 (W1520638110, deltakelse i utdanning etter 16 år med E) står i sitatet
+- OK   2 sitat rad 8 (W1520638110, nedgang i frafall etter belønning til ko) står på oppgitt side
+- OK   3 estimat=3 rad 8 (W1520638110, nedgang i frafall etter belønning til ko) står i sitatet
+- OK   2 sitat rad 9 (0198cc53296c-1d0fedae-2045-49b0-82cb-075a3c20875b, første underveisrapport: design, program) står på oppgitt side
+- OK   2 sitat rad 10 (0198cc6e3be9-3b6d3a2c-e6af-401c-a3eb-3670ae2e4eb3, fullført og bestått Vg1 ett år etter opp) står på oppgitt side
+- OK   3 estimat=85.9 rad 10 (0198cc6e3be9-3b6d3a2c-e6af-401c-a3eb-3670ae2e4eb3, fullført og bestått Vg1 ett år etter opp) står i sitatet
+- OK   2 sitat rad 11 (0198cc6e3be9-3b6d3a2c-e6af-401c-a3eb-3670ae2e4eb3, avbrutt opplæringen i Vg1, marginalt høy) står på oppgitt side
+- OK   3 estimat=3.6 rad 11 (0198cc6e3be9-3b6d3a2c-e6af-401c-a3eb-3670ae2e4eb3, avbrutt opplæringen i Vg1, marginalt høy) står i sitatet
+- OK   2 sitat rad 12 (0198cc6e3be9-3b6d3a2c-e6af-401c-a3eb-3670ae2e4eb3, odds for fullført og bestått Vg1 høyere ) står på oppgitt side
+- OK   3 estimat=43 rad 12 (0198cc6e3be9-3b6d3a2c-e6af-401c-a3eb-3670ae2e4eb3, odds for fullført og bestått Vg1 høyere ) står i sitatet
+- OK   2 sitat rad 13 (0198cc6e3be9-3b6d3a2c-e6af-401c-a3eb-3670ae2e4eb3, andel fullført og bestått Vg1 på yrkesfa) står på oppgitt side
+- OK   3 estimat=81.1 rad 13 (0198cc6e3be9-3b6d3a2c-e6af-401c-a3eb-3670ae2e4eb3, andel fullført og bestått Vg1 på yrkesfa) står i sitatet
+- OK   2 sitat rad 14 (0198cc7af4ee-56751fde-1887-485f-a0e0-d76cecc6a513, fullført og bestått eller i lære etter t) står på oppgitt side
+- OK   3 estimat=76.6 rad 14 (0198cc7af4ee-56751fde-1887-485f-a0e0-d76cecc6a513, fullført og bestått eller i lære etter t) står i sitatet
+- OK   2 sitat rad 15 (0198cc7af4ee-56751fde-1887-485f-a0e0-d76cecc6a513, sluttet i løpet av tre år: 7,9 prosent i) står på oppgitt side
+- OK   3 estimat=7.9 rad 15 (0198cc7af4ee-56751fde-1887-485f-a0e0-d76cecc6a513, sluttet i løpet av tre år: 7,9 prosent i) står i sitatet
+- OK   2 sitat rad 16 (0198cc7af4ee-56751fde-1887-485f-a0e0-d76cecc6a513, fullført eller i lære etter tre år, logi) står på oppgitt side
+- OK   3 estimat=-0.04 rad 16 (0198cc7af4ee-56751fde-1887-485f-a0e0-d76cecc6a513, fullført eller i lære etter tre år, logi) står i sitatet
+- OK   2 sitat rad 17 (01a06b37e137-0eac1fd1-a6bd-4df2-96dd-8a793b810a3a, scoping review (25 kilder 2015–2025) av ) står på oppgitt side
+- OK   2 sitat rad 18 (KU-2c335645-c85b-4e7e-9906-0062ca57e94f, hovedkonklusjon: tre tiltakskategorier m) står på oppgitt side
+- OK   2 sitat rad 19 (KU-2c335645-c85b-4e7e-9906-0062ca57e94f, frafall etter ett års mentorprogram, ned) står på oppgitt side
+- OK   3 estimat=7 rad 19 (KU-2c335645-c85b-4e7e-9906-0062ca57e94f, frafall etter ett års mentorprogram, ned) står i sitatet
+- OK   2 sitat rad 20 (KU-2c335645-c85b-4e7e-9906-0062ca57e94f, beregnet økning i fullføring av videregå) står på oppgitt side
+- OK   3 estimat=10 rad 20 (KU-2c335645-c85b-4e7e-9906-0062ca57e94f, beregnet økning i fullføring av videregå) står i sitatet
+- OK   2 sitat rad 21 (KU-2c335645-c85b-4e7e-9906-0062ca57e94f, fullføring av videregående med større gr) står på oppgitt side
+- OK   3 estimat=2 rad 21 (KU-2c335645-c85b-4e7e-9906-0062ca57e94f, fullføring av videregående med større gr) står i sitatet
+- OK   2 sitat rad 22 (W4385622494, kvalitativ systematisk oversikt over 25 ) står på oppgitt side
+- OK   2 sitat rad 23 (W2613431921, hovedkonklusjon fra gjennomgang av evalu) står på oppgitt side
+- OK   2 sitat rad 24 (W2613431921, Ny GIV Oppfølgingsprosjektet: forbedret ) står på oppgitt side
+- OK   2 sitat rad 25 (W2613431921, Ny GIV Overgangsprosjektet: eventuelle e) står på oppgitt side
+- OK   2 sitat rad 26 (W2613431921, fullført innen fem år, 2010-kullet: yrke) står på oppgitt side
+- OK   3 estimat=58 rad 26 (W2613431921, fullført innen fem år, 2010-kullet: yrke) står i sitatet
+- OK   2 sitat rad 27 (W2275042259, frafall og fravær (physical presence, 49) står på oppgitt side
+- OK   3 estimat=0.067 rad 27 (W2275042259, frafall og fravær (physical presence, 49) står i sitatet
+- OK   2 sitat rad 28 (W2275042259, frafall og fravær, større gjennomsnittli) står på oppgitt side
+- OK   3 estimat=0.247 rad 28 (W2275042259, frafall og fravær, større gjennomsnittli) står i sitatet
+- OK   2 sitat rad 29 (W7126056312, paraplyoversikt over 4 systematiske over) står på oppgitt side
+- OK   2 sitat rad 30 (KU-72c7b14e-01b0-4d64-822f-6741f6982446, kunnskapsoversikt over rådgivning og opp) står på oppgitt side
+- OK   2 sitat rad 31 (W1577052788, skoleprestasjoner og skolesvikt (academi) står på oppgitt side
+- OK   3 estimat=0.11 rad 31 (W1577052788, skoleprestasjoner og skolesvikt (academi) står i sitatet
+- OK   3 ki_lav=0.03 rad 31 (W1577052788, skoleprestasjoner og skolesvikt (academi) står i sitatet
+- OK   3 ki_hoy=0.31 rad 31 (W1577052788, skoleprestasjoner og skolesvikt (academi) står i sitatet
+- OK   4 rad 31 (W1577052788, skoleprestasjoner og skolesvikt (academi) estimat innenfor KI
+- OK   2 sitat rad 32 (W2910504629, alle utfall samlet (skole, sosiale, hels) står på oppgitt side
+- OK   3 estimat=0.21 rad 32 (W2910504629, alle utfall samlet (skole, sosiale, hels) står i sitatet
+- OK   3 ki_lav=0.14 rad 32 (W2910504629, alle utfall samlet (skole, sosiale, hels) står i sitatet
+- OK   3 ki_hoy=0.28 rad 32 (W2910504629, alle utfall samlet (skole, sosiale, hels) står i sitatet
+- OK   4 rad 32 (W2910504629, alle utfall samlet (skole, sosiale, hels) estimat innenfor KI
+- OK   2 sitat rad 34 (W2507907071, utdanningsresultater: andel av 45 studie) står på oppgitt side
+- OK   3 estimat=60 rad 34 (W2507907071, utdanningsresultater: andel av 45 studie) står i sitatet
+- OK   2 sitat rad 35 (W2507907071, senere arbeid og lønn: andel av 27 studi) står på oppgitt side
+- OK   3 estimat=67 rad 35 (W2507907071, senere arbeid og lønn: andel av 27 studi) står i sitatet
+- OK   2 sitat rad 36 (W2471709172, forskningskartlegging (36 studier fra 20) står på oppgitt side
+- OK   2 sitat rad 37 (W2471709172, frafall, høyere sannsynlighet med treåri) står på oppgitt side
+- OK   3 estimat=3.8 rad 37 (W2471709172, frafall, høyere sannsynlighet med treåri) står i sitatet
+- OK   2 sitat rad 38 (W2471709172, frafall, høyere sannsynlighet med treåri) står på oppgitt side
+- OK   3 estimat=8.3 rad 38 (W2471709172, frafall, høyere sannsynlighet med treåri) står i sitatet
+- OK   2 sitat rad 39 (W3158296349, 14 evalueringer av tidlig innsats-progra) står på oppgitt side
+- OK   2 sitat rad 40 (W3158296349, fullført high school innen fem år: 68,1 ) står på oppgitt side
+- OK   3 estimat=68.1 rad 40 (W3158296349, fullført high school innen fem år: 68,1 ) står i sitatet
+- OK   2 sitat rad 41 (W4306677760, oppsøkende program: for få studier (5 av) står på oppgitt side
+- OK   2 sitat rad 42 (W2801093038, oversikt over oversikter (3 systematiske) står på oppgitt side
+- OK   2 sitat rad 43 (W2556292298, oversikt over 15 RCT-er (12 tiltak): ing) står på oppgitt side
+- OK   2 sitat rad 44 (W2556292298, frafall fra skolen etter 12 måneder, On ) står på oppgitt side
+- OK   3 estimat=0.30 rad 44 (W2556292298, frafall fra skolen etter 12 måneder, On ) står i sitatet
+- OK   3 ki_lav=0.12 rad 44 (W2556292298, frafall fra skolen etter 12 måneder, On ) står i sitatet
+- OK   3 ki_hoy=0.75 rad 44 (W2556292298, frafall fra skolen etter 12 måneder, On ) står i sitatet
+- OK   4 rad 44 (W2556292298, frafall fra skolen etter 12 måneder, On ) estimat innenfor KI
+- OK   2 sitat rad 45 (W3001230728, utdanningsutfall (vitnemål, GED, skolede) står på oppgitt side
+- OK   3 estimat=7 rad 45 (W3001230728, utdanningsutfall (vitnemål, GED, skolede) står i sitatet
+- OK   2 sitat rad 46 (W3001230728, varige forbedringer i utdanningsutfall m) står på oppgitt side
+- OK   3 estimat=1 rad 46 (W3001230728, varige forbedringer i utdanningsutfall m) står i sitatet
+- OK   2 sitat rad 47 (W4391851863, skoleprestasjoner (academic attainment) ) står på oppgitt side
+- OK   2 sitat rad 48 (KU-a2a2fd84-a6e5-4faf-a032-9cf833fb8311, kunnskapsoppsummering om tilbudsstruktur) står på oppgitt side
+- OK   2 sitat rad 49 (KU-c040603e-dd74-4666-83a3-418cdd6e462b, litteraturgjennomgang for Cedefop om nyt) står på oppgitt side
+- OK   2 sitat rad 50 (W2032123100, tiltak 1: frafall og skoleinnskriving (m) står på oppgitt side
+- OK   2 sitat rad 51 (W2100931415, tiltak 1: frafall og fullføring (systema) står på oppgitt side
+- OK   2 sitat rad 52 (W2096819442, tiltak 5: friskoler (charter schools) og) står på oppgitt side
+- OK   2 sitat rad 53 (W1976450713, tiltak 1: frafall/fullføring, samlet eff) står på oppgitt side
+- OK   3 estimat=1.72 rad 53 (W1976450713, tiltak 1: frafall/fullføring, samlet eff) står i sitatet
+- OK   2 sitat rad 54 (W1976450713, tiltak 1: andel som faller fra i tiltaks) står på oppgitt side
+- OK   3 estimat=13 rad 54 (W1976450713, tiltak 1: andel som faller fra i tiltaks) står i sitatet
+- OK   2 sitat rad 55 (W2523908740, tiltak 1: frafall; bare én eksperimentel) står på oppgitt side
+- OK   2 sitat rad 56 (W1483383292, tiltak 1 og 5: frafall i videregående i ) står på oppgitt side
+- OK   2 sitat rad 57 (W987097530, tiltak 1: kostnad per ekstra elev som fu) står på oppgitt side
+- OK   3 estimat=69800 rad 57 (W987097530, tiltak 1: kostnad per ekstra elev som fu) står i sitatet
+- OK   2 sitat rad 58 (W987097530, tiltak 1: nytten oversteg kostnadene i d) står på oppgitt side
+- OK   2 sitat rad 59 (W4403946492, tiltak 1: sammendraget har ingen funn; p) står på oppgitt side
+- OK   2 sitat rad 60 (W4396619718, tiltak 1: fullføring av high school, sam) står på oppgitt side
+- OK   3 estimat=0.19 rad 60 (W4396619718, tiltak 1: fullføring av high school, sam) står i sitatet
+- OK   3 ki_lav=0.10 rad 60 (W4396619718, tiltak 1: fullføring av high school, sam) står i sitatet
+- OK   3 ki_hoy=0.28 rad 60 (W4396619718, tiltak 1: fullføring av high school, sam) står i sitatet
+- OK   4 rad 60 (W4396619718, tiltak 1: fullføring av high school, sam) estimat innenfor KI
+- OK   2 sitat rad 61 (W4396619718, tiltak 1: fullføring, standardisert effe) står på oppgitt side
+- OK   3 estimat=0.33 rad 61 (W4396619718, tiltak 1: fullføring, standardisert effe) står i sitatet
+- OK   2 sitat rad 62 (W4396619718, tiltak 1: fullføring, standardisert effe) står på oppgitt side
+- OK   3 estimat=0.12 rad 62 (W4396619718, tiltak 1: fullføring, standardisert effe) står i sitatet
+- OK   2 sitat rad 63 (W2728873104, tiltak 1: frafall (kvalitativ systematis) står på oppgitt side
+- OK   2 sitat rad 64 (W4415689128, tiltak 2: sysselsetting etter formell yr) står på oppgitt side
+- OK   3 estimat=4.8 rad 64 (W4415689128, tiltak 2: sysselsetting etter formell yr) står i sitatet
+- OK   2 sitat rad 65 (W4415689128, tiltak 2: sysselsetting etter formell yr) står på oppgitt side
+- OK   3 estimat=11.7 rad 65 (W4415689128, tiltak 2: sysselsetting etter formell yr) står i sitatet
+- OK   2 sitat rad 66 (W4415689128, tiltak 2: lønn etter formell yrkesutdann) står på oppgitt side
+- OK   3 estimat=37.6 rad 66 (W4415689128, tiltak 2: lønn etter formell yrkesutdann) står i sitatet
+- OK   2 sitat rad 67 (W2600629073, tiltak 1: mentorordninger; signifikante ) står på oppgitt side
+- OK   2 sitat rad 68 (W41574030, tiltak 2: frafall, arbeidsrettede progra) står på oppgitt side
+- OK   3 estimat=1.66 rad 68 (W41574030, tiltak 2: frafall, arbeidsrettede progra) står i sitatet
+- OK   2 sitat rad 69 (W7160121170, tiltak 1: fravær og frafall (29 RCT-er i) står på oppgitt side
+- OK   2 sitat rad 71 (W2113307133, tiltak 1: mentorordninger for ungdom (55) står på oppgitt side
+- OK   2 sitat rad 72 (W2080516599, tiltak 1: skolebaserte mentorordninger; ) står på oppgitt side
+- OK   2 sitat rad 73 (W2135556120, tiltak 1: frafall, kognitive atferdstilt) står på oppgitt side
+- OK   2 sitat rad 74 (W2029186142, tiltak 1 og 4: deltakelse og fortsettels) står på oppgitt side
+- OK   2 sitat rad 75 (W2999038008, tiltak 5: alternative opplæringstilbud u) står på oppgitt side
+- OK   3 estimat=0.15 rad 75 (W2999038008, tiltak 5: alternative opplæringstilbud u) står i sitatet
+- OK   2 sitat rad 76 (W2108262335, tiltak 4: økonomiske insentiver til unge) står på oppgitt side
+- OK   2 sitat rad 78 (W7135538880, tiltak 2: kombinasjon av arbeid og lærin) står på oppgitt side
+- OK   2 sitat rad 79 (W1917032049, tiltak 1: mentorordninger for overgang t) står på oppgitt side
+- OK   2 sitat rad 80 (W3028429055, tiltak 2: fullført high school til norme) står på oppgitt side
+- OK   3 estimat=75 rad 80 (W3028429055, tiltak 2: fullført high school til norme) står i sitatet
+- OK   2 sitat rad 81 (W3028429055, tiltak 2: frafall, career academies (10 ) står på oppgitt side
+- OK   3 estimat=10 rad 81 (W3028429055, tiltak 2: frafall, career academies (10 ) står i sitatet
+- OK   2 sitat rad 82 (W3028429055, tiltak 2: frafall, career academies (21 ) står på oppgitt side
+- OK   3 estimat=21 rad 82 (W3028429055, tiltak 2: frafall, career academies (21 ) står i sitatet
+- OK   2 sitat rad 83 (W3028429055, tiltak 2: inntekt om lag 96 måneder ette) står på oppgitt side
+- OK   3 estimat=11 rad 83 (W3028429055, tiltak 2: inntekt om lag 96 måneder ette) står i sitatet
+- OK   2 sitat rad 84 (W3028429055, tiltak 2 og 3: lærlingordninger; høyere ) står på oppgitt side
+- OK   2 sitat rad 85 (W3121289800, frafall: nedgang i andelen uten fullført) står på oppgitt side
+- OK   3 estimat=5.6 rad 85 (W3121289800, frafall: nedgang i andelen uten fullført) står i sitatet
+- OK   2 sitat rad 86 (W3121289800, økning i andelen med fullført studieforb) står på oppgitt side
+- OK   3 estimat=6.1 rad 86 (W3121289800, økning i andelen med fullført studieforb) står i sitatet
+- OK   2 sitat rad 87 (W3121289800, frafall: ingen nedgang i andelen menn ut) står på oppgitt side
+- OK   2 sitat rad 88 (W3121289800, økning i årlig arbeidsinntekt i voksen a) står på oppgitt side
+- OK   3 estimat=5 rad 88 (W3121289800, økning i årlig arbeidsinntekt i voksen a) står i sitatet
+- OK   2 sitat rad 89 (W2011923685, overgang fra første til andre år i vider) står på oppgitt side
+- OK   3 estimat=0.06 rad 89 (W2011923685, overgang fra første til andre år i vider) står i sitatet
+- OK   2 sitat rad 90 (W2011923685, andel med høyst ett fullført år i videre) står på oppgitt side
+- OK   3 estimat=21.9 rad 90 (W2011923685, andel med høyst ett fullført år i videre) står i sitatet
+- OK   2 sitat rad 91 (W2011923685, andel med høyst ett fullført år i videre) står på oppgitt side
+- OK   3 estimat=9.7 rad 91 (W2011923685, andel med høyst ett fullført år i videre) står i sitatet
+- OK   2 sitat rad 92 (W4297073006, fullføring etter andre skoleår (IKO-mode) står på oppgitt side
+- OK   3 estimat=1.066 rad 92 (W4297073006, fullføring etter andre skoleår (IKO-mode) står i sitatet
+- OK   2 sitat rad 93 (W4297073006, fullføring etter andre skoleår (IKO-mode) står på oppgitt side
+- OK   3 estimat=1.038 rad 93 (W4297073006, fullføring etter andre skoleår (IKO-mode) står i sitatet
+- OK   2 sitat rad 94 (W4281558597, fortsatt i skole året etter start (Nav-v) står på oppgitt side
+- OK   3 estimat=1.8 rad 94 (W4281558597, fortsatt i skole året etter start (Nav-v) står i sitatet
+- OK   2 sitat rad 95 (W4281558597, fullført på normert tid: økning, ikke st) står på oppgitt side
+- OK   3 estimat=1.7 rad 95 (W4281558597, fullført på normert tid: økning, ikke st) står i sitatet
+- OK   2 sitat rad 96 (W4281558597, fortsatt i skole to år etter start: økni) står på oppgitt side
+- OK   3 estimat=4.6 rad 96 (W4281558597, fortsatt i skole to år etter start: økni) står i sitatet
+- OK   2 sitat rad 97 (W4281558597, inaktiv (verken arbeid, utdanning eller ) står på oppgitt side
+- OK   3 estimat=1.5 rad 97 (W4281558597, inaktiv (verken arbeid, utdanning eller ) står i sitatet
+- OK   2 sitat rad 98 (W2890347013, frafall innen to år (Shaping the Social,) står på oppgitt side
+- OK   3 estimat=0.86 rad 98 (W2890347013, frafall innen to år (Shaping the Social,) står i sitatet
+- OK   3 ki_lav=0.74 rad 98 (W2890347013, frafall innen to år (Shaping the Social,) står i sitatet
+- OK   3 ki_hoy=0.99 rad 98 (W2890347013, frafall innen to år (Shaping the Social,) står i sitatet
+- OK   4 rad 98 (W2890347013, frafall innen to år (Shaping the Social,) estimat innenfor KI
+- OK   4 rad 98 (W2890347013, frafall innen to år (Shaping the Social,) KI symmetrisk på log-skala (avvik 0.01)
+- OK   2 sitat rad 99 (W2890347013, frafallsandel innen to år i tiltaksskole) står på oppgitt side
+- OK   3 estimat=36 rad 99 (W2890347013, frafallsandel innen to år i tiltaksskole) står i sitatet
+- OK   2 sitat rad 100 (W4388491535, fullført eller i opplæring etter tre år ) står på oppgitt side
+- OK   3 estimat=76.6 rad 100 (W4388491535, fullført eller i opplæring etter tre år ) står i sitatet
+- OK   2 sitat rad 101 (W2791256263, studieprotokoll for COMPLETE (samme fors) står på oppgitt side
+- OK   2 sitat rad 102 (W2496629830, studieprotokoll for gruppebasert kogniti) står på oppgitt side
+- OK   2 sitat rad 103 (W1509808120, fullført gymnas (Abitur) i 2004 etter læ) står på oppgitt side
+- OK   3 estimat=-2 rad 103 (W1509808120, fullført gymnas (Abitur) i 2004 etter læ) står i sitatet
+- OK   2 sitat rad 104 (W1509808120, fullført gymnas (Abitur) i 2004 etter læ) står på oppgitt side
+- OK   3 estimat=3.1 rad 104 (W1509808120, fullført gymnas (Abitur) i 2004 etter læ) står i sitatet
+- OK   2 sitat rad 105 (W1509808120, fullført yrkesrettet gymnas: liten øknin) står på oppgitt side
+- OK   3 estimat=0.3 rad 105 (W1509808120, fullført yrkesrettet gymnas: liten øknin) står i sitatet
+- OK   2 sitat rad 106 (W4398169198, fritt skolevalg og inntak etter karakter) står på oppgitt side
+- OK   2 sitat rad 107 (W3010127918, fullføringsandel i dansk yrkesutdanning ) står på oppgitt side
+- OK   3 estimat=53 rad 107 (W3010127918, fullføringsandel i dansk yrkesutdanning ) står i sitatet
+- OK   2 sitat rad 108 (W3010127918, frafall i overgangen fra skolebasert gru) står på oppgitt side
+- OK   3 estimat=39 rad 108 (W3010127918, frafall i overgangen fra skolebasert gru) står i sitatet
+- OK   2 sitat rad 109 (W613375024, fullført på normert tid etter inntaksref) står på oppgitt side
+- OK   2 sitat rad 110 (0198cc8d1ff3-71dec544-6851-4831-8298-439bab4316e3, fullført studie- eller yrkeskompetanse i) står på oppgitt side
+- OK   3 estimat=0.2 rad 110 (0198cc8d1ff3-71dec544-6851-4831-8298-439bab4316e3, fullført studie- eller yrkeskompetanse i) står i sitatet
+- OK   3 ki_lav=-0.8 rad 110 (0198cc8d1ff3-71dec544-6851-4831-8298-439bab4316e3, fullført studie- eller yrkeskompetanse i) står i sitatet
+- OK   3 ki_hoy=1.2 rad 110 (0198cc8d1ff3-71dec544-6851-4831-8298-439bab4316e3, fullført studie- eller yrkeskompetanse i) står i sitatet
+- OK   4 rad 110 (0198cc8d1ff3-71dec544-6851-4831-8298-439bab4316e3, fullført studie- eller yrkeskompetanse i) estimat innenfor KI
+- OK   2 sitat rad 111 (0198cc8d1ff3-71dec544-6851-4831-8298-439bab4316e3, fullført kompetanse innen fem år: ingen ) står på oppgitt side
+- OK   3 ki_lav=-4.1 rad 111 (0198cc8d1ff3-71dec544-6851-4831-8298-439bab4316e3, fullført kompetanse innen fem år: ingen ) står i sitatet
+- OK   3 ki_hoy=2.2 rad 111 (0198cc8d1ff3-71dec544-6851-4831-8298-439bab4316e3, fullført kompetanse innen fem år: ingen ) står i sitatet
+- OK   2 sitat rad 112 (019904901329-5cfee4f7-1fe2-4203-92aa-af389dd0128e, fullført og bestått alle fag (Overgangsp) står på oppgitt side
+- OK   3 estimat=-0.2510 rad 112 (019904901329-5cfee4f7-1fe2-4203-92aa-af389dd0128e, fullført og bestått alle fag (Overgangsp) står i sitatet
+- OK   2 sitat rad 113 (KU-345c469c-c65b-4edb-8cf5-9c6028e3330b, sannsynlighet for å få læreplass etter i) står på oppgitt side
+- OK   3 estimat=2.2 rad 113 (KU-345c469c-c65b-4edb-8cf5-9c6028e3330b, sannsynlighet for å få læreplass etter i) står i sitatet
+- OK   2 sitat rad 114 (KU-345c469c-c65b-4edb-8cf5-9c6028e3330b, sannsynlighet for å få læreplass etter l) står på oppgitt side
+- OK   3 estimat=4.9 rad 114 (KU-345c469c-c65b-4edb-8cf5-9c6028e3330b, sannsynlighet for å få læreplass etter l) står i sitatet
+- OK   2 sitat rad 115 (KU-345c469c-c65b-4edb-8cf5-9c6028e3330b, andel offentlige kontrakter med krav om ) står på oppgitt side
+- OK   3 estimat=11 rad 115 (KU-345c469c-c65b-4edb-8cf5-9c6028e3330b, andel offentlige kontrakter med krav om ) står i sitatet
+- OK   2 sitat rad 116 (KU-a2a2fd6a-286c-4b83-bf92-b64aaeb60be2, sannsynlighet for å få læreplass etter i) står på oppgitt side
+- OK   3 estimat=2.2 rad 116 (KU-a2a2fd6a-286c-4b83-bf92-b64aaeb60be2, sannsynlighet for å få læreplass etter i) står i sitatet
+- OK   2 sitat rad 117 (KU-a2a2fd6a-286c-4b83-bf92-b64aaeb60be2, sannsynlighet for å få læreplass etter l) står på oppgitt side
+- OK   3 estimat=4.9 rad 117 (KU-a2a2fd6a-286c-4b83-bf92-b64aaeb60be2, sannsynlighet for å få læreplass etter l) står i sitatet
+- OK   2 sitat rad 118 (KU-a2a2fd6a-286c-4b83-bf92-b64aaeb60be2, andel offentlige kontrakter med krav om ) står på oppgitt side
+- OK   3 estimat=11 rad 118 (KU-a2a2fd6a-286c-4b83-bf92-b64aaeb60be2, andel offentlige kontrakter med krav om ) står i sitatet
+- OK   2 sitat rad 119 (KU-a2a2fd81-e41f-4a50-9e68-7400b07c51a6, forsterket alternativ Vg3 (18 måneder, m) står på oppgitt side
+- OK   2 sitat rad 120 (KU-833522a8-06b3-4758-816e-e44859a65576, Kunnskapsløftet i fag- og yrkesopplæring) står på oppgitt side
+- OK   2 sitat rad 121 (KU-833522a8-06b3-4758-816e-e44859a65576, andel som består fag- og svenneprøven bl) står på oppgitt side
+- OK   3 estimat=90 rad 121 (KU-833522a8-06b3-4758-816e-e44859a65576, andel som består fag- og svenneprøven bl) står i sitatet
+- OK   2 sitat rad 122 (KU-a2a2fda3-be65-4dde-ae77-934dcfe7b1cb, Kunnskapsløftet som strukturreform: effe) står på oppgitt side
+- OK   2 sitat rad 123 (KU-a2a2fda3-be65-4dde-ae77-934dcfe7b1cb, andel med normert tidsbruk og på vei mot) står på oppgitt side
+- OK   3 estimat=18.7 rad 123 (KU-a2a2fda3-be65-4dde-ae77-934dcfe7b1cb, andel med normert tidsbruk og på vei mot) står i sitatet
+- OK   2 sitat rad 124 (KU-a2a2fd91-4f98-4642-bcaa-a3aac8c84c14, oppnådd studie- eller yrkeskompetanse på) står på oppgitt side
+- OK   3 estimat=0.7 rad 124 (KU-a2a2fd91-4f98-4642-bcaa-a3aac8c84c14, oppnådd studie- eller yrkeskompetanse på) står i sitatet
+- OK   2 sitat rad 125 (KU-a2a2fd91-4f98-4642-bcaa-a3aac8c84c14, oppnådd kompetanse på normert tid, 2006-) står på oppgitt side
+- OK   3 estimat=43.6 rad 125 (KU-a2a2fd91-4f98-4642-bcaa-a3aac8c84c14, oppnådd kompetanse på normert tid, 2006-) står i sitatet
+- OK   2 sitat rad 126 (KU-a2a2fd91-4f98-4642-bcaa-a3aac8c84c14, andel lærlinger som oppnår fagbrev: nedg) står på oppgitt side
+- OK   3 estimat=4 rad 126 (KU-a2a2fd91-4f98-4642-bcaa-a3aac8c84c14, andel lærlinger som oppnår fagbrev: nedg) står i sitatet
+- OK   2 sitat rad 127 (KU-2fcde6dd-db06-47a8-8ef2-b403fdeef0d8, prosjekt til fordypning (Kunnskapsløftet) står på oppgitt side
+- OK   2 sitat rad 128 (KU-49f8e164-6f51-4aad-8a36-04478a0a5072, andel av et ungdomskull som har vært i k) står på oppgitt side
+- OK   3 estimat=20 rad 128 (KU-49f8e164-6f51-4aad-8a36-04478a0a5072, andel av et ungdomskull som har vært i k) står i sitatet
+- OK   2 sitat rad 129 (KU-49f8e164-6f51-4aad-8a36-04478a0a5072, andel som søker seg til og fullfører det) står på oppgitt side
+- OK   3 estimat=40 rad 129 (KU-49f8e164-6f51-4aad-8a36-04478a0a5072, andel som søker seg til og fullfører det) står i sitatet
+- OK   2 sitat rad 130 (KU-49f8e164-6f51-4aad-8a36-04478a0a5072, andel som har hele eller deler av grunnk) står på oppgitt side
+- OK   3 estimat=44 rad 130 (KU-49f8e164-6f51-4aad-8a36-04478a0a5072, andel som har hele eller deler av grunnk) står i sitatet
+- OK   2 sitat rad 131 (01999e9ae3c6-77e7f3be-5cf3-4d1f-a069-f660c484c4b4, andel som har avlagt kompetanseprøven (s) står på oppgitt side
+- OK   3 estimat=75 rad 131 (01999e9ae3c6-77e7f3be-5cf3-4d1f-a069-f660c484c4b4, andel som har avlagt kompetanseprøven (s) står i sitatet
+- OK   2 sitat rad 132 (01999e9ae3c6-77e7f3be-5cf3-4d1f-a069-f660c484c4b4, i jobb: andel blant dem som tok kompetan) står på oppgitt side
+- OK   3 estimat=76 rad 132 (01999e9ae3c6-77e7f3be-5cf3-4d1f-a069-f660c484c4b4, i jobb: andel blant dem som tok kompetan) står i sitatet
+- OK   2 sitat rad 133 (01999e9ae3c6-77e7f3be-5cf3-4d1f-a069-f660c484c4b4, mottar ytelser fra Nav: 53 prosent blant) står på oppgitt side
+- OK   3 estimat=53 rad 133 (01999e9ae3c6-77e7f3be-5cf3-4d1f-a069-f660c484c4b4, mottar ytelser fra Nav: 53 prosent blant) står i sitatet
+- OK   2 sitat rad 134 (0198edf8e3a0-0c64d9e5-2c8d-42a0-b151-765b763eb52d, yrkesretting og relevans i matematikk: m) står på oppgitt side
+- OK   2 sitat rad 135 (W1869343368, faktorer bak fullføring av lærlingløp i ) står på oppgitt side
+- OK   2 sitat rad 136 (0198cc6a9d88-23db3e02-3dd2-4c33-a1c1-c4b5575711ea, tiltak 3: hovedfunn om ekstratilskudd ti) står på oppgitt side
+- OK   2 sitat rad 137 (0198cc6a9d88-23db3e02-3dd2-4c33-a1c1-c4b5575711ea, tiltak 3: andel lærebedrifter som oppgir) står på oppgitt side
+- OK   3 estimat=3 rad 137 (0198cc6a9d88-23db3e02-3dd2-4c33-a1c1-c4b5575711ea, tiltak 3: andel lærebedrifter som oppgir) står i sitatet
+- OK   2 sitat rad 138 (0198cc6a9d88-23db3e02-3dd2-4c33-a1c1-c4b5575711ea, tiltak 3: fylkeskommunenes eget anslag p) står på oppgitt side
+- OK   3 estimat=767 rad 138 (0198cc6a9d88-23db3e02-3dd2-4c33-a1c1-c4b5575711ea, tiltak 3: fylkeskommunenes eget anslag p) står i sitatet
+- OK   2 sitat rad 139 (0198f20268d9-0f494427-82ce-4329-a1ed-cb296aa77922, tiltak 1: Drømmeskolen og Nærværsteam et) står på oppgitt side
+- OK   2 sitat rad 140 (W7125898364, tiltak 3: fag- eller svennebrev på først) står på oppgitt side
+- OK   3 estimat=16 rad 140 (W7125898364, tiltak 3: fag- eller svennebrev på først) står i sitatet
+- OK   2 sitat rad 141 (W7125898364, tiltak 3: bestått fagprøve uansett kontr) står på oppgitt side
+- OK   3 estimat=4 rad 141 (W7125898364, tiltak 3: bestått fagprøve uansett kontr) står i sitatet
+- OK   2 sitat rad 142 (W1872948875, tiltak 2: økt frafall (ikke fullført inn) står på oppgitt side
+- OK   3 estimat=0.054 rad 142 (W1872948875, tiltak 2: økt frafall (ikke fullført inn) står i sitatet
+- OK   2 sitat rad 143 (W4383262913, tiltak 1: grad av fullføring etter tre å) står på oppgitt side
+- OK   3 estimat=5.48 rad 143 (W4383262913, tiltak 1: grad av fullføring etter tre å) står i sitatet
+- OK   2 sitat rad 144 (W3155834839, tiltak 5: fullført på normert tid, øknin) står på oppgitt side
+- OK   3 estimat=2.88 rad 144 (W3155834839, tiltak 5: fullført på normert tid, øknin) står i sitatet
+- OK   2 sitat rad 145 (W3155834839, tiltak 5: arbeidsinntekt tilsvarende min) står på oppgitt side
+- OK   3 estimat=-1.70 rad 145 (W3155834839, tiltak 5: arbeidsinntekt tilsvarende min) står i sitatet
+- OK   2 sitat rad 146 (W4415228247, tiltak 3: nedgang i frafall ved 21 år nå) står på oppgitt side
+- OK   3 estimat=2.5 rad 146 (W4415228247, tiltak 3: nedgang i frafall ved 21 år nå) står i sitatet
+- OK   2 sitat rad 147 (W4415228247, tiltak 3: økning i sannsynlighet for å v) står på oppgitt side
+- OK   3 estimat=0.66 rad 147 (W4415228247, tiltak 3: økning i sannsynlighet for å v) står i sitatet
+- OK   2 sitat rad 148 (W4415228247, tiltak 3: nedgang i sannsynlighet for å ) står på oppgitt side
+- OK   3 estimat=0.4 rad 148 (W4415228247, tiltak 3: nedgang i sannsynlighet for å ) står i sitatet
+- OK   2 sitat rad 149 (W4413137339, tiltak 5: fullført videregående ved 20 å) står på oppgitt side
+- OK   2 sitat rad 150 (W4413137339, tiltak 5: ingen signifikante effekter av) står på oppgitt side
+- OK   2 sitat rad 151 (0198cc82acd3-25db32da-92d2-43bc-aeca-4eac203e86ac, beregnet sannsynlighet for å fullføre in) står på oppgitt side
+- OK   3 estimat=55 rad 151 (0198cc82acd3-25db32da-92d2-43bc-aeca-4eac203e86ac, beregnet sannsynlighet for å fullføre in) står i sitatet
+- OK   2 sitat rad 152 (0198cc82acd3-25db32da-92d2-43bc-aeca-4eac203e86ac, gjennomføring for elevgruppen samlet: in) står på oppgitt side
+- OK   2 sitat rad 153 (019dcf110efa-7c74d5a1-4995-4194-b024-4d7bc4f9d0c1, andel som fullfører studieforberedende i) står på oppgitt side
+- OK   3 estimat=37 rad 153 (019dcf110efa-7c74d5a1-4995-4194-b024-4d7bc4f9d0c1, andel som fullfører studieforberedende i) står i sitatet
+- OK   2 sitat rad 154 (019dcf110efa-7c74d5a1-4995-4194-b024-4d7bc4f9d0c1, fullføring på normert tid, lavere på påb) står på oppgitt side
+- OK   3 estimat=11 rad 154 (019dcf110efa-7c74d5a1-4995-4194-b024-4d7bc4f9d0c1, fullføring på normert tid, lavere på påb) står i sitatet
+- OK   2 sitat rad 155 (019dcf110efa-7c74d5a1-4995-4194-b024-4d7bc4f9d0c1, tiltak 2: fullføring på normert tid, rea) står på oppgitt side
+- OK   3 estimat=10 rad 155 (019dcf110efa-7c74d5a1-4995-4194-b024-4d7bc4f9d0c1, tiltak 2: fullføring på normert tid, rea) står i sitatet
+- OK   2 sitat rad 156 (0198cc563c53-38f459ab-7b12-4379-bca9-adb3f5e50784, tiltak 3: andel som besto vg3 i skole in) står på oppgitt side
+- OK   3 estimat=64 rad 156 (0198cc563c53-38f459ab-7b12-4379-bca9-adb3f5e50784, tiltak 3: andel som besto vg3 i skole in) står i sitatet
+- OK   2 sitat rad 157 (0198cc563c53-38f459ab-7b12-4379-bca9-adb3f5e50784, tiltak 3: andel som sluttet på vg3 i sko) står på oppgitt side
+- OK   3 estimat=21 rad 157 (0198cc563c53-38f459ab-7b12-4379-bca9-adb3f5e50784, tiltak 3: andel som sluttet på vg3 i sko) står i sitatet
+- OK   2 sitat rad 158 (0198cc563c53-38f459ab-7b12-4379-bca9-adb3f5e50784, tiltak 3: andel som strøk på fagprøven e) står på oppgitt side
+- OK   3 estimat=12 rad 158 (0198cc563c53-38f459ab-7b12-4379-bca9-adb3f5e50784, tiltak 3: andel som strøk på fagprøven e) står i sitatet
+- OK   2 sitat rad 159 (0198cc563c53-38f459ab-7b12-4379-bca9-adb3f5e50784, tiltak 3: andel i helsefagarbeiderjobb i) står på oppgitt side
+- OK   3 estimat=71 rad 159 (0198cc563c53-38f459ab-7b12-4379-bca9-adb3f5e50784, tiltak 3: andel i helsefagarbeiderjobb i) står i sitatet
+- OK   2 sitat rad 160 (0198cc563c53-38f459ab-7b12-4379-bca9-adb3f5e50784, tiltak 3: andel i elektrikerjobb innen t) står på oppgitt side
+- OK   3 estimat=36 rad 160 (0198cc563c53-38f459ab-7b12-4379-bca9-adb3f5e50784, tiltak 3: andel i elektrikerjobb innen t) står i sitatet
+- OK   2 sitat rad 161 (0198cc55549c-110e8ee2-6862-4943-aa1f-96f6238f4809, tiltak 3: økning i antall nye lærekontra) står på oppgitt side
+- OK   3 estimat=2400 rad 161 (0198cc55549c-110e8ee2-6862-4943-aa1f-96f6238f4809, tiltak 3: økning i antall nye lærekontra) står i sitatet
+- OK   2 sitat rad 162 (0198cc55549c-110e8ee2-6862-4943-aa1f-96f6238f4809, tiltak 3: ikke tilstrekkelige data til å) står på oppgitt side
+- OK   2 sitat rad 163 (0198cc55549c-110e8ee2-6862-4943-aa1f-96f6238f4809, tiltak 3: anslått antall ekstra læreplas) står på oppgitt side
+- OK   3 estimat=500 rad 163 (0198cc55549c-110e8ee2-6862-4943-aa1f-96f6238f4809, tiltak 3: anslått antall ekstra læreplas) står i sitatet
+- OK   2 sitat rad 164 (0198cc3e5832-ee5191af-142c-4cc4-9c68-41794515f96b, tiltak 1: gjennomføring etter 4 og 5 år ) står på oppgitt side
+- OK   2 sitat rad 165 (0198cc3e5832-ee5191af-142c-4cc4-9c68-41794515f96b, tiltak 1: andel i arbeid (hel- eller del) står på oppgitt side
+- OK   3 estimat=36 rad 165 (0198cc3e5832-ee5191af-142c-4cc4-9c68-41794515f96b, tiltak 1: andel i arbeid (hel- eller del) står i sitatet
+- OK   2 sitat rad 166 (0198cc3e5832-ee5191af-142c-4cc4-9c68-41794515f96b, tiltak 1: AAP, sosialhjelp og uføretrygd) står på oppgitt side
+- OK   2 sitat rad 167 (0198cc6f84ed-44adde51-5c49-4a1b-bfa9-b29b38319e8b, tiltak 1: hovedkonklusjon: forskningen g) står på oppgitt side
+- OK   2 sitat rad 168 (0198cc6f84ed-44adde51-5c49-4a1b-bfa9-b29b38319e8b, tiltak 1: fullføringsrate etter fire år ) står på oppgitt side
+- OK   3 estimat=81 rad 168 (0198cc6f84ed-44adde51-5c49-4a1b-bfa9-b29b38319e8b, tiltak 1: fullføringsrate etter fire år ) står i sitatet
+- OK   2 sitat rad 169 (KU-a1a67931-cad4-40f0-ab8b-63ee269b2a7b, andel som fullfører studieforberedende i) står på oppgitt side
+- OK   3 estimat=37 rad 169 (KU-a1a67931-cad4-40f0-ab8b-63ee269b2a7b, andel som fullfører studieforberedende i) står i sitatet
+- OK   2 sitat rad 170 (LI-v8q83dqqslmd3qlj, tiltak 5: fullført videregående innen fe) står på oppgitt side
+- OK   3 estimat=-2 rad 170 (LI-v8q83dqqslmd3qlj, tiltak 5: fullført videregående innen fe) står i sitatet
+- OK   2 sitat rad 171 (LI-v8q83dqqslmd3qlj, tiltak 5: fullført innen tre år, nedgang) står på oppgitt side
+- OK   3 estimat=9.5 rad 171 (LI-v8q83dqqslmd3qlj, tiltak 5: fullført innen tre år, nedgang) står i sitatet
+- OK   2 sitat rad 172 (LI-v8q83dqqslmd3qlj, tiltak 5: sysselsatt ved 19 år, nedgang ) står på oppgitt side
+- OK   3 estimat=10.6 rad 172 (LI-v8q83dqqslmd3qlj, tiltak 5: sysselsatt ved 19 år, nedgang ) står i sitatet
+- OK   2 sitat rad 173 (LI-v8q83dqqslmd3qlj, tiltak 5: økning i tilgang til aktivitet) står på oppgitt side
+- OK   3 estimat=5.1 rad 173 (LI-v8q83dqqslmd3qlj, tiltak 5: økning i tilgang til aktivitet) står i sitatet
+- OK   2 sitat rad 174 (W4205632086, tiltak 2: årsinntekt ved 31 år, økning v) står på oppgitt side
+- OK   3 estimat=7 rad 174 (W4205632086, tiltak 2: årsinntekt ved 31 år, økning v) står i sitatet
+- OK   2 sitat rad 175 (W4205632086, tiltak 2: sysselsetting 15 år etter, ned) står på oppgitt side
+- OK   3 estimat=20 rad 175 (W4205632086, tiltak 2: sysselsetting 15 år etter, ned) står i sitatet
+- OK   2 sitat rad 176 (W4205632086, andel som fullfører innen fem år blant d) står på oppgitt side
+- OK   3 estimat=72 rad 176 (W4205632086, andel som fullfører innen fem år blant d) står i sitatet
+- OK   2 sitat rad 177 (W4410197986, tiltak 2: fullført innen tre år, lavere ) står på oppgitt side
+- OK   3 estimat=21.5 rad 177 (W4410197986, tiltak 2: fullført innen tre år, lavere ) står i sitatet
+- OK   2 sitat rad 178 (W4410197986, tiltak 2: fullført innen fem år, lavere ) står på oppgitt side
+- OK   3 estimat=15.3 rad 178 (W4410197986, tiltak 2: fullført innen fem år, lavere ) står i sitatet
+- OK   2 sitat rad 179 (W4410197986, tiltak 2: mer tid som NEET mellom 18 og ) står på oppgitt side
+- OK   3 estimat=8.6 rad 179 (W4410197986, tiltak 2: mer tid som NEET mellom 18 og ) står i sitatet
+- OK   2 sitat rad 180 (W4410197986, tiltak 2: fullført på normert tid, laver) står på oppgitt side
+- OK   3 estimat=8 rad 180 (W4410197986, tiltak 2: fullført på normert tid, laver) står i sitatet
+- OK   2 sitat rad 181 (W4319984058, tiltak 1: indirekte effekt av gruppebase) står på oppgitt side
+- OK   3 estimat=-0.117 rad 181 (W4319984058, tiltak 1: indirekte effekt av gruppebase) står i sitatet
+- OK   2 sitat rad 182 (W3092454042, tiltak 5: påbegynt yrkesfaglig utdanning) står på oppgitt side
+- OK   3 estimat=16 rad 182 (W3092454042, tiltak 5: påbegynt yrkesfaglig utdanning) står i sitatet
+- OK   2 sitat rad 185 (W134093888, tiltak 2: økt frafall fra videregående v) står på oppgitt side
+- OK   3 estimat=3.8 rad 185 (W134093888, tiltak 2: økt frafall fra videregående v) står i sitatet
+- OK   2 sitat rad 186 (W134093888, tiltak 2: økt frafall ved treårig mot to) står på oppgitt side
+- OK   3 estimat=8.3 rad 186 (W134093888, tiltak 2: økt frafall ved treårig mot to) står i sitatet
+- OK   2 sitat rad 187 (W134093888, tiltak 2: inntekt: noen indikasjoner på ) står på oppgitt side
+- OK   2 sitat rad 188 (W4206389522, tiltak 5: karakterbasert inntak til vide) står på oppgitt side
+- OK   3 estimat=5 rad 188 (W4206389522, tiltak 5: karakterbasert inntak til vide) står i sitatet
+- OK   2 sitat rad 189 (W3125990592, tiltak 2: lønn, effekt av avansert matem) står på oppgitt side
+- OK   3 estimat=15 rad 189 (W3125990592, tiltak 2: lønn, effekt av avansert matem) står i sitatet
+- OK   2 sitat rad 190 (0198cc7f6b95-ee061f42-7475-4726-bf36-134bd09446f8, kunnskapsoversikt over rådgivning og opp) står på oppgitt side
+- OK   2 sitat rad 191 (0198cc67dc43-059761aa-232f-4254-89c2-5915865da66f, utdanningsval og fagkompetanse før og et) står på oppgitt side
+- OK   2 sitat rad 192 (W2027892394, mer fullført videregående opplæring (økt) står på oppgitt side
+- OK   2 sitat rad 193 (W2027892394, inntekt senere i livet: ingen effekt; in) står på oppgitt side
+- OK   2 sitat rad 194 (W1973914978, fullført studieforberedende: høyere sann) står på oppgitt side
+- OK   2 sitat rad 195 (W1973914978, fullført yrkesfag: lavere sannsynlighet ) står på oppgitt side
+- OK   2 sitat rad 196 (0198cc649f49-849ca903-508b-43e9-806d-57943a5b4173, yrkesretting av fellesfag: skolene er ti) står på oppgitt side
+- OK   2 sitat rad 197 (KU-f2d09228-f936-46d5-a8f1-a6341e2e310a, overgang til læreplass etter kvalifiseri) står på oppgitt side
+- OK   2 sitat rad 198 (KU-a2a2fd5c-02e1-4c37-8107-d4846cb7c60a, overgang fra Vg2 til læreplass etter fag) står på oppgitt side
+- OK   2 sitat rad 199 (W2156343861, frafall innen fem år: matematikkvansker ) står på oppgitt side
+- OK   2 sitat rad 200 (W2966664009, fullført videregående: spesialundervisni) står på oppgitt side
+- OK   2 sitat rad 201 (W2950284726, karakterutvikling (ikke fullføring) ette) står på oppgitt side
+- OK   2 sitat rad 202 (KU-a2a2fd76-a3c1-4939-8abd-07857551bc7e, kompetanseutfall i lærekandidatordningen) står på oppgitt side
+- OK   2 sitat rad 204 (W4313410175, inntekt som voksen: null eller negativ a) står på oppgitt side
+- OK   2 sitat rad 205 (W2056401231, overgang til læreplass: bare et mindreta) står på oppgitt side
+- OK   2 sitat rad 206 (W2346826490, frafall økte etter læreplanreform med st) står på oppgitt side
+- OK   2 sitat rad 207 (W1547449442, overgang til arbeid: gjennomgang av fors) står på oppgitt side
+- OK   2 sitat rad 208 (W3121941659, økt sannsynlighet for å ta studiepoeng () står på oppgitt side
+- OK   3 estimat=9 rad 208 (W3121941659, økt sannsynlighet for å ta studiepoeng () står i sitatet
+- OK   2 sitat rad 209 (W2010433433, oppnådd studie- eller yrkeskompetanse og) står på oppgitt side
+- OK   2 sitat rad 210 (W2105032465, arbeidsdeltakelse og antall måneder i ar) står på oppgitt side
+- OK   2 sitat rad 211 (W2105032465, skoleprestasjoner: ingen effekt av konta) står på oppgitt side
+- OK   2 sitat rad 212 (W2090514173, ledighet etter skolen kortere og jobbvar) står på oppgitt side
+- OK   2 sitat rad 213 (W3124177077, sysselsatt ved 25 år, økning per ekstra ) står på oppgitt side
+- OK   3 estimat=0.07 rad 213 (W3124177077, sysselsatt ved 25 år, økning per ekstra ) står i sitatet
+- OK   2 sitat rad 214 (W3124177077, universitetsgrad ved 25 år, økning per e) står på oppgitt side
+- OK   3 estimat=0.14 rad 214 (W3124177077, universitetsgrad ved 25 år, økning per e) står i sitatet
+- OK   2 sitat rad 215 (W2278584276, faglige resultater og kompetanseoppnåels) står på oppgitt side
+- OK   2 sitat rad 216 (W4412309720, andel som får uddannelsesaftale (lærepla) står på oppgitt side
+- OK   3 estimat=45 rad 216 (W4412309720, andel som får uddannelsesaftale (lærepla) står i sitatet
+- OK   2 sitat rad 217 (W4412309720, andel som fullfører erhvervsuddannelse () står på oppgitt side
+- OK   3 estimat=42 rad 217 (W4412309720, andel som fullfører erhvervsuddannelse () står i sitatet
+- OK   2 sitat rad 218 (W1904713647, fullført videregående opplæring, nedgang) står på oppgitt side
+- OK   3 estimat=3.5 rad 218 (W1904713647, fullført videregående opplæring, nedgang) står i sitatet
+- OK   2 sitat rad 219 (W1904713647, avbrudd i yrkesfaglig videregående, nedg) står på oppgitt side
+- OK   3 estimat=2 rad 219 (W1904713647, avbrudd i yrkesfaglig videregående, nedg) står i sitatet
+- OK   2 sitat rad 220 (W1904713647, andel yrkesfagelever som fullfører innen) står på oppgitt side
+- OK   3 estimat=60 rad 220 (W1904713647, andel yrkesfagelever som fullfører innen) står i sitatet
+- OK   2 sitat rad 221 (W4287106252, fullført videregående ved 20 år: ingen e) står på oppgitt side
+- OK   2 sitat rad 222 (W4287106252, mottak av trygdeytelser eller sosialhjel) står på oppgitt side
+- OK   3 estimat=2 rad 222 (W4287106252, mottak av trygdeytelser eller sosialhjel) står i sitatet
+- OK   2 sitat rad 223 (W4287106252, noen gang sysselsatt ved 26 år, økning) står på oppgitt side
+- OK   3 estimat=0.5 rad 223 (W4287106252, noen gang sysselsatt ved 26 år, økning) står i sitatet
+- OK   2 sitat rad 224 (W3024772475, fullføring og frafall etter tre år; nasj) står på oppgitt side
+- OK   2 sitat rad 225 (W3024772475, frafall etter tre år, nedgang (koeffisie) står på oppgitt side
+- OK   3 estimat=-0.054 rad 225 (W3024772475, frafall etter tre år, nedgang (koeffisie) står i sitatet
+- OK   2 sitat rad 226 (W3024772475, fullføring, nedgang) står på oppgitt side
+- OK   3 estimat=7.5 rad 226 (W3024772475, fullføring, nedgang) står i sitatet
+- OK   2 sitat rad 227 (W3024772475, fullføring, økning; bygger på bare 89 el) står på oppgitt side
+- OK   3 estimat=0.15 rad 227 (W3024772475, fullføring, økning; bygger på bare 89 el) står i sitatet
+- OK   2 sitat rad 228 (W2040202717, lønn senere i yrkeslivet, avkastning per) står på oppgitt side
+- OK   3 estimat=2.5 rad 228 (W2040202717, lønn senere i yrkeslivet, avkastning per) står i sitatet
+- OK   2 sitat rad 229 (W2040202717, lønn senere i yrkeslivet, avkastning per) står på oppgitt side
+- OK   3 estimat=4 rad 229 (W2040202717, lønn senere i yrkeslivet, avkastning per) står i sitatet
+- OK   2 sitat rad 230 (W2040202717, avbrutt læretid, høyere andel når bedrif) står på oppgitt side
+- OK   3 estimat=12 rad 230 (W2040202717, avbrutt læretid, høyere andel når bedrif) står i sitatet
+- OK   2 sitat rad 231 (W1875201337, å bli i skolen, progresjon og fullføring) står på oppgitt side
+- OK   2 sitat rad 232 (W1875201337, fullføring; relevant og yrkesrettet unde) står på oppgitt side
+- OK   2 sitat rad 233 (W1875201337, fullføring; datasystemer for tidlig vars) står på oppgitt side
+- OK   2 sitat rad 234 (W2690524449, frafall, økning etter innføring av fritt) står på oppgitt side
+- OK   3 estimat=1.7 rad 234 (W2690524449, frafall, økning etter innføring av fritt) står i sitatet
+- OK   2 sitat rad 235 (W2690524449, frafall, økning etter innføring av fritt) står på oppgitt side
+- OK   3 estimat=1.2 rad 235 (W2690524449, frafall, økning etter innføring av fritt) står i sitatet
+- OK   2 sitat rad 236 (W2690524449, frafall; ingen nedgang etter fritt skole) står på oppgitt side
+- OK   2 sitat rad 237 (W2690524449, frafall, økning etter fritt skolevalg i ) står på oppgitt side
+- OK   3 estimat=1.38 rad 237 (W2690524449, frafall, økning etter fritt skolevalg i ) står i sitatet
+- OK   2 sitat rad 238 (W2937652885, stryk til eksamen, økt sannsynlighet ved) står på oppgitt side
+- OK   3 estimat=3.3 rad 238 (W2937652885, stryk til eksamen, økt sannsynlighet ved) står i sitatet
+- OK   2 sitat rad 239 (W2937652885, stryk til eksamen, økt sannsynlighet ved) står på oppgitt side
+- OK   3 estimat=12 rad 239 (W2937652885, stryk til eksamen, økt sannsynlighet ved) står i sitatet
+- OK   2 sitat rad 240 (W2937652885, vitnemål året etter, økt sannsynlighet f) står på oppgitt side
+- OK   3 estimat=63 rad 240 (W2937652885, vitnemål året etter, økt sannsynlighet f) står i sitatet
+- OK   2 sitat rad 241 (W2937652885, vitnemål åtte år etter planlagt fullføri) står på oppgitt side
+- OK   3 estimat=50 rad 241 (W2937652885, vitnemål åtte år etter planlagt fullføri) står i sitatet
+- OK   2 sitat rad 242 (W2968314327, årlig inntekt ved 31 år, økning ved oppt) står på oppgitt side
+- OK   3 estimat=7 rad 242 (W2968314327, årlig inntekt ved 31 år, økning ved oppt) står i sitatet
+- OK   2 sitat rad 243 (W4403290135, sysselsetting året etter videregående, n) står på oppgitt side
+- OK   3 estimat=8.4 rad 243 (W4403290135, sysselsetting året etter videregående, n) står i sitatet
+- OK   2 sitat rad 244 (W4403290135, heltidsstudier i høyere utdanning året e) står på oppgitt side
+- OK   3 estimat=14.9 rad 244 (W4403290135, heltidsstudier i høyere utdanning året e) står i sitatet
+- OK   2 sitat rad 245 (W4403290135, andel verken i arbeid eller høyere utdan) står på oppgitt side
+- OK   3 estimat=9.2 rad 245 (W4403290135, andel verken i arbeid eller høyere utdan) står i sitatet
+- OK   2 sitat rad 246 (W4403290135, sysselsetting; estimatene for menn er fo) står på oppgitt side
+- OK   2 sitat rad 247 (W3124959592, ubesatte læreplasser (rekrutteringsprobl) står på oppgitt side
+- OK   2 sitat rad 248 (W3124959592, andel bedrifter som rapporterer avbrudd ) står på oppgitt side
+- OK   3 estimat=11.5 rad 248 (W3124959592, andel bedrifter som rapporterer avbrudd ) står i sitatet
+- OK   2 sitat rad 249 (W2793853857, fullføring; kartlegging av 19 studier 20) står på oppgitt side
+- OK   2 sitat rad 250 (W2793853857, frafall etter fire år, lavere med Check ) står på oppgitt side
+- OK   3 estimat=0.18 rad 250 (W2793853857, frafall etter fire år, lavere med Check ) står i sitatet
+- OK   2 sitat rad 251 (W2254541575, heltidsutdanning ved 16–17 år (Year 12),) står på oppgitt side
+- OK   3 estimat=10 rad 251 (W2254541575, heltidsutdanning ved 16–17 år (Year 12),) står i sitatet
+- OK   2 sitat rad 252 (W2254541575, heltidsutdanning etter Year 11; ingen te) står på oppgitt side
+- OK   2 sitat rad 253 (W2254541575, andel i utdanning etter Year 11 i piloto) står på oppgitt side
+- OK   3 estimat=74 rad 253 (W2254541575, andel i utdanning etter Year 11 i piloto) står i sitatet
+- OK   2 sitat rad 254 (W2254541575, andel i heltidsutdanning etter Year 11 i) står på oppgitt side
+- OK   3 estimat=20 rad 254 (W2254541575, andel i heltidsutdanning etter Year 11 i) står i sitatet
+- OK   2 sitat rad 255 (W2184187688, evaluering av EMA i Wales (registerkobli) står på oppgitt side
+- OK   2 sitat rad 256 (W129923974, gjennomføring (retention) og avbrudd: av) står på oppgitt side
+- OK   3 estimat=14 rad 256 (W129923974, gjennomføring (retention) og avbrudd: av) står i sitatet
+- OK   2 sitat rad 257 (W129923974, oppnådde kvalifikasjoner; ingen klar bed) står på oppgitt side
+- OK   2 sitat rad 258 (W228735155, tidlige erfaringer fra EMA-pilotene (spø) står på oppgitt side
+- OK   3 estimat=92 rad 258 (W228735155, tidlige erfaringer fra EMA-pilotene (spø) står i sitatet
+- OK   2 sitat rad 259 (W2488208057, deltakelse i utdanning etter at EMA ble ) står på oppgitt side
+- OK   3 estimat=-1.6 rad 259 (W2488208057, deltakelse i utdanning etter at EMA ble ) står i sitatet
+- OK   2 sitat rad 260 (W2488208057, deltakelse i utdanning etter at EMA ble ) står på oppgitt side
+- OK   3 estimat=-0.65 rad 260 (W2488208057, deltakelse i utdanning etter at EMA ble ) står i sitatet
+- OK   2 sitat rad 261 (W2488208057, deltakelse i utdanning etter at EMA ble ) står på oppgitt side
+- OK   3 estimat=-1.9 rad 261 (W2488208057, deltakelse i utdanning etter at EMA ble ) står i sitatet
+- OK   2 sitat rad 262 (W2141534168, frafall; community schools (brede skoler) står på oppgitt side
+- OK   2 sitat rad 263 (W2594678938, tilbud av læreplasser per yrke, økning n) står på oppgitt side
+- OK   3 estimat=14 rad 263 (W2594678938, tilbud av læreplasser per yrke, økning n) står i sitatet
+- OK   2 sitat rad 264 (W2594678938, tilbud av læreplasser per yrke, nedgang ) står på oppgitt side
+- OK   3 estimat=9 rad 264 (W2594678938, tilbud av læreplasser per yrke, nedgang ) står i sitatet
+- OK   2 sitat rad 265 (W2594678938, søkere til læreplass per yrke, økning nå) står på oppgitt side
+- OK   3 estimat=205 rad 265 (W2594678938, søkere til læreplass per yrke, økning nå) står i sitatet
+- OK   2 sitat rad 266 (W290486728, bestått eksamen (BEP/CAP), høyere sannsy) står på oppgitt side
+- OK   3 estimat=16 rad 266 (W290486728, bestått eksamen (BEP/CAP), høyere sannsy) står i sitatet
+- OK   2 sitat rad 267 (W290486728, videre utdanning etter fullført BEP/CAP,) står på oppgitt side
+- OK   3 estimat=42 rad 267 (W290486728, videre utdanning etter fullført BEP/CAP,) står i sitatet
+- OK   2 sitat rad 268 (W290486728, frafall før siste år; negativ, men ikke ) står på oppgitt side
+- OK   2 sitat rad 269 (W2234406649, deltakelse i heltidsutdanning ved 16 år,) står på oppgitt side
+- OK   3 estimat=5.9 rad 269 (W2234406649, deltakelse i heltidsutdanning ved 16 år,) står i sitatet
+- OK   2 sitat rad 270 (W2234406649, i heltidsutdanning både ved 16 og 17 år,) står på oppgitt side
+- OK   3 estimat=6.1 rad 270 (W2234406649, i heltidsutdanning både ved 16 og 17 år,) står i sitatet
+- OK   2 sitat rad 271 (W2234406649, i heltidsutdanning både ved 16 og 17 år,) står på oppgitt side
+- OK   3 estimat=8.6 rad 271 (W2234406649, i heltidsutdanning både ved 16 og 17 år,) står i sitatet
+- OK   2 sitat rad 272 (W2234406649, i heltidsutdanning både ved 16 og 17 år,) står på oppgitt side
+- OK   3 estimat=10.9 rad 272 (W2234406649, i heltidsutdanning både ved 16 og 17 år,) står i sitatet
+- OK   2 sitat rad 273 (W2234406649, deltakelse i heltidsutdanning ved 19 år ) står på oppgitt side
+- OK   2 sitat rad 274 (W2234406649, oppnådde kvalifikasjoner etter 16 år; in) står på oppgitt side
+- OK   2 sitat rad 275 (W4407929709, deltakelse i heltidsutdanning ved 16–17 ) står på oppgitt side
+- OK   3 estimat=2 rad 275 (W4407929709, deltakelse i heltidsutdanning ved 16–17 ) står i sitatet
+- OK   2 sitat rad 276 (W4407929709, deltakelse i heltidsutdanning ved 17–18 ) står på oppgitt side
+- OK   3 estimat=1.1 rad 276 (W4407929709, deltakelse i heltidsutdanning ved 17–18 ) står i sitatet
+- OK   2 sitat rad 277 (W4407929709, mottak av ytelser utenfor arbeid i 20-år) står på oppgitt side
+- OK   3 estimat=1 rad 277 (W4407929709, mottak av ytelser utenfor arbeid i 20-år) står i sitatet
+- OK   2 sitat rad 278 (W4416378569, deltakelse i heltidsutdanning ved 16–17 ) står på oppgitt side
+- OK   3 estimat=2.9 rad 278 (W4416378569, deltakelse i heltidsutdanning ved 16–17 ) står i sitatet
+- OK   2 sitat rad 279 (W4416378569, deltakelse i heltidsutdanning ved 17–18 ) står på oppgitt side
+- OK   3 estimat=1.6 rad 279 (W4416378569, deltakelse i heltidsutdanning ved 17–18 ) står i sitatet
+- OK   2 sitat rad 280 (W4416378569, verken i utdanning eller arbeid (NEET) v) står på oppgitt side
+- OK   3 estimat=3.4 rad 280 (W4416378569, verken i utdanning eller arbeid (NEET) v) står i sitatet
+- OK   2 sitat rad 281 (W4416378569, oppnådde kvalifikasjoner (A-nivå, univer) står på oppgitt side
+- OK   2 sitat rad 282 (W4416378569, inntekt gjennom 20-årene til 31 år, lite) står på oppgitt side
+- OK   3 estimat=-0.7 rad 282 (W4416378569, inntekt gjennom 20-årene til 31 år, lite) står i sitatet
+- OK   2 sitat rad 283 (W4416378569, mottak av ytelser utenfor arbeid, økning) står på oppgitt side
+- OK   3 estimat=2 rad 283 (W4416378569, mottak av ytelser utenfor arbeid, økning) står i sitatet
+- OK   2 sitat rad 284 (W2611019407, heltidsdeltakelse i Year 12 (16–17 år), ) står på oppgitt side
+- OK   3 estimat=1.6 rad 284 (W2611019407, heltidsdeltakelse i Year 12 (16–17 år), ) står i sitatet
+- OK   2 sitat rad 285 (W2611019407, heltidsdeltakelse i Year 13 (17–18 år), ) står på oppgitt side
+- OK   3 estimat=2.0 rad 285 (W2611019407, heltidsdeltakelse i Year 13 (17–18 år), ) står i sitatet
+- OK   2 sitat rad 286 (W2611019407, oppnådd nivå 2 innen 18 år, nedgang (1,1) står på oppgitt side
+- OK   3 estimat=2.3 rad 286 (W2611019407, oppnådd nivå 2 innen 18 år, nedgang (1,1) står i sitatet
+- OK   2 sitat rad 287 (W2611019407, oppnådd nivå 3 innen 18 år, liten nedgan) står på oppgitt side
+- OK   3 estimat=0.5 rad 287 (W2611019407, oppnådd nivå 3 innen 18 år, liten nedgan) står i sitatet
+- OK   2 sitat rad 288 (W2515970520, heltidsutdanning; samlet effekt av nasjo) står på oppgitt side
+- OK   3 estimat=0.011 rad 288 (W2515970520, heltidsutdanning; samlet effekt av nasjo) står i sitatet
+- OK   2 sitat rad 289 (W2515970520, deltidsarbeid ved siden av utdanning, øk) står på oppgitt side
+- OK   3 estimat=0.041 rad 289 (W2515970520, deltidsarbeid ved siden av utdanning, øk) står i sitatet
+- OK   2 sitat rad 290 (W2515970520, hovedvalget mellom utdanning og arbeid; ) står på oppgitt side
+- OK   2 sitat rad 291 (W2037365045, fast arbeid ved 23–24 år; unge kvinner l) står på oppgitt side
+- OK   2 sitat rad 292 (W3199196517, økonomisk selvstendighet i midten av 30-) står på oppgitt side
+- OK   3 estimat=50 rad 292 (W3199196517, økonomisk selvstendighet i midten av 30-) står i sitatet
+- OK   2 sitat rad 293 (W2144739922, frafall fra yrkesfag og arbeidsmarkedsut) står på oppgitt side
+- OK   2 sitat rad 294 (W4299937456, sannsynlighet for at bedriften har lærli) står på oppgitt side
+- OK   3 estimat=19 rad 294 (W4299937456, sannsynlighet for at bedriften har lærli) står i sitatet
+- OK   2 sitat rad 295 (W4299937456, sannsynlighet for at bedriften har lærli) står på oppgitt side
+- OK   3 estimat=32 rad 295 (W4299937456, sannsynlighet for at bedriften har lærli) står i sitatet
+- OK   2 sitat rad 296 (W4299937456, samlet effekt på andelen lærebedrifter, ) står på oppgitt side
+- OK   3 estimat=3.8 rad 296 (W4299937456, samlet effekt på andelen lærebedrifter, ) står i sitatet
+- OK   2 sitat rad 297 (W4299937456, økning i antall læreplasser, grov beregn) står på oppgitt side
+- OK   3 estimat=2 rad 297 (W4299937456, økning i antall læreplasser, grov beregn) står i sitatet
+- OK   2 sitat rad 298 (W4299937456, sannsynlighet for at bedriften har lærli) står på oppgitt side
+- OK   3 estimat=5.8 rad 298 (W4299937456, sannsynlighet for at bedriften har lærli) står i sitatet
+- OK   2 sitat rad 299 (W3015747275, fullført videregående på normert tid, pe) står på oppgitt side
+- OK   3 estimat=0.26 rad 299 (W3015747275, fullført videregående på normert tid, pe) står i sitatet
+- OK   2 sitat rad 300 (W3015747275, sannsynlighet for å begynne på yrkesfag,) står på oppgitt side
+- OK   3 estimat=0.7 rad 300 (W3015747275, sannsynlighet for å begynne på yrkesfag,) står i sitatet
+- OK   2 sitat rad 301 (W3015747275, effekten på fullføring på normert tid ko) står på oppgitt side
+- OK   2 sitat rad 302 (W2138008261, frafall (18–24 år uten videregående og i) står på oppgitt side
+- OK   3 estimat=0.011 rad 302 (W2138008261, frafall (18–24 år uten videregående og i) står i sitatet
+- OK   2 sitat rad 303 (W2138008261, frafall økte for menn som gikk under LOG) står på oppgitt side
+- OK   2 sitat rad 304 (W2138008261, nedgang i andelen som tar yrkesfaglig sp) står på oppgitt side
+- OK   3 estimat=4 rad 304 (W2138008261, nedgang i andelen som tar yrkesfaglig sp) står i sitatet
+- OK   2 sitat rad 305 (W2138008261, nedgang i andelen som tar yrkesfaglig sp) står på oppgitt side
+- OK   3 estimat=2 rad 305 (W2138008261, nedgang i andelen som tar yrkesfaglig sp) står i sitatet
+- OK   2 sitat rad 306 (W3171133882, andel av årskullet som har läst minst tr) står på oppgitt side
+- OK   3 estimat=70 rad 306 (W3171133882, andel av årskullet som har läst minst tr) står i sitatet
+- OK   2 sitat rad 307 (W3171133882, økning i andelen uten sluttvitnemål fra ) står på oppgitt side
+- OK   3 estimat=5 rad 307 (W3171133882, økning i andelen uten sluttvitnemål fra ) står i sitatet
+- OK   2 sitat rad 308 (W3171133882, økning i andelen som avslutter gymnasiet) står på oppgitt side
+- OK   3 estimat=14 rad 308 (W3171133882, økning i andelen som avslutter gymnasiet) står i sitatet
+- OK   2 sitat rad 309 (W4287339466, indeks for arbeidsmarkedsutsikter (matem) står på oppgitt side
+- OK   3 estimat=0.56 rad 309 (W4287339466, indeks for arbeidsmarkedsutsikter (matem) står i sitatet
+- OK   2 sitat rad 310 (W4287339466, indeks for arbeidsmarkedsorientering, i ) står på oppgitt side
+- OK   3 estimat=0.29 rad 310 (W4287339466, indeks for arbeidsmarkedsorientering, i ) står i sitatet
+- OK   2 sitat rad 311 (W3184785289, sannsynlighet for å avbryte gymnasiet (ø) står på oppgitt side
+- OK   3 estimat=3.8 rad 311 (W3184785289, sannsynlighet for å avbryte gymnasiet (ø) står i sitatet
+- OK   2 sitat rad 312 (W3184785289, sannsynlighet for ikke å fullføre gymnas) står på oppgitt side
+- OK   3 estimat=7.5 rad 312 (W3184785289, sannsynlighet for ikke å fullføre gymnas) står i sitatet
+- OK   2 sitat rad 313 (W3184785289, sannsynlighet for å oppnå minst treårig ) står på oppgitt side
+- OK   3 estimat=40 rad 313 (W3184785289, sannsynlighet for å oppnå minst treårig ) står i sitatet
+- OK   2 sitat rad 314 (W3184785289, lønnsinntekt 16 år etter start på gymnas) står på oppgitt side
+- OK   3 estimat=6.4 rad 314 (W3184785289, lønnsinntekt 16 år etter start på gymnas) står i sitatet
+- OK   2 sitat rad 315 (W2954037761, antall nye lærlingkontrakter: ingen målb) står på oppgitt side
+- OK   2 sitat rad 316 (W3123099642, beståtte alle eksamener første studieår:) står på oppgitt side
+- OK   2 sitat rad 317 (W4293187538, tid fra fullført opplæring til første jo) står på oppgitt side
+- OK   3 estimat=0.43 rad 317 (W4293187538, tid fra fullført opplæring til første jo) står i sitatet
+- OK   2 sitat rad 318 (W4293187538, tid fra fullført opplæring til første jo) står på oppgitt side
+- OK   3 estimat=24 rad 318 (W4293187538, tid fra fullført opplæring til første jo) står i sitatet
+- OK   2 sitat rad 319 (W4293187538, tid fra fullført opplæring til første jo) står på oppgitt side
+- OK   3 estimat=1.4 rad 319 (W4293187538, tid fra fullført opplæring til første jo) står i sitatet
+- OK   2 sitat rad 320 (W4293187538, tid fra fullført opplæring til første jo) står på oppgitt side
+- OK   3 estimat=0.9 rad 320 (W4293187538, tid fra fullført opplæring til første jo) står i sitatet
+- OK   2 sitat rad 321 (W4312220004, frafall fire år etter start i videregåen) står på oppgitt side
+- OK   3 estimat=5.1 rad 321 (W4312220004, frafall fire år etter start i videregåen) står i sitatet
+- OK   2 sitat rad 322 (W4312220004, fullført på forventet tidspunkt, lavere ) står på oppgitt side
+- OK   3 estimat=6.4 rad 322 (W4312220004, fullført på forventet tidspunkt, lavere ) står i sitatet
+- OK   2 sitat rad 323 (W4312220004, fullført ett år etter forventet tidspunk) står på oppgitt side
+- OK   3 estimat=3.5 rad 323 (W4312220004, fullført ett år etter forventet tidspunk) står i sitatet
+- OK   2 sitat rad 324 (W4312220004, matematikkskår i 10. trinn, nedgang (31,) står på oppgitt side
+- OK   3 estimat=0.15 rad 324 (W4312220004, matematikkskår i 10. trinn, nedgang (31,) står i sitatet
+- OK   2 sitat rad 325 (W3112572217, fortsatt i videregående opplæring ett år) står på oppgitt side
+- OK   3 estimat=0.7 rad 325 (W3112572217, fortsatt i videregående opplæring ett år) står i sitatet
+- OK   2 sitat rad 326 (W3112572217, normert progresjon (i Vg2 ett år etter) ) står på oppgitt side
+- OK   2 sitat rad 327 (W3127177287, sannsynlighet for å ta inn minst én ny l) står på oppgitt side
+- OK   3 estimat=8.0 rad 327 (W3127177287, sannsynlighet for å ta inn minst én ny l) står i sitatet
+- OK   2 sitat rad 328 (W3127177287, antall nye lærlinger første år etter ref) står på oppgitt side
+- OK   3 estimat=35.9 rad 328 (W3127177287, antall nye lærlinger første år etter ref) står i sitatet
+- OK   2 sitat rad 329 (W3127177287, antall nye lærlinger første år etter ref) står på oppgitt side
+- OK   3 estimat=11.9 rad 329 (W3127177287, antall nye lærlinger første år etter ref) står i sitatet
+- OK   2 sitat rad 330 (W3168708978, sannsynlighet for å forlate lærebedrifte) står på oppgitt side
+- OK   3 estimat=9.8 rad 330 (W3168708978, sannsynlighet for å forlate lærebedrifte) står i sitatet
+- OK   2 sitat rad 331 (W3168708978, lønn etter læretid: å forlate lærebedrif) står på oppgitt side
+- OK   2 sitat rad 332 (W3110602849, fullført og bestått Vg1 (om lag 87 prose) står på oppgitt side
+- OK   3 estimat=85 rad 332 (W3110602849, fullført og bestått Vg1 (om lag 87 prose) står i sitatet
+- OK   2 sitat rad 333 (W3110602849, fullført og bestått Vg1 og Vg2: ingen te) står på oppgitt side
+- OK   2 sitat rad 334 (W3110602849, odds for høyt timefravær (over 25 timer)) står på oppgitt side
+- OK   3 estimat=30 rad 334 (W3110602849, odds for høyt timefravær (over 25 timer)) står i sitatet
+- OK   2 sitat rad 335 (W2615975980, andel som fortsetter i læreforholdet før) står på oppgitt side
+- OK   3 estimat=6.0 rad 335 (W2615975980, andel som fortsetter i læreforholdet før) står i sitatet
+- OK   2 sitat rad 336 (W2615975980, overgang til fast ansettelse i femte år ) står på oppgitt side
+- OK   3 estimat=4 rad 336 (W2615975980, overgang til fast ansettelse i femte år ) står i sitatet
+- OK   2 sitat rad 337 (W2615975980, sysselsetting gjennom sjuårsvinduet (økn) står på oppgitt side
+- OK   3 estimat=2 rad 337 (W2615975980, sysselsetting gjennom sjuårsvinduet (økn) står i sitatet
+- OK   2 sitat rad 338 (W2615975980, lønn på lang sikt, etter femte år (øknin) står på oppgitt side
+- OK   3 estimat=3 rad 338 (W2615975980, lønn på lang sikt, etter femte år (øknin) står i sitatet
+- OK   2 sitat rad 339 (W2137745619, hovedkonklusjon: Career Academies er et ) står på oppgitt side
+- OK   2 sitat rad 340 (W2137745619, månedsinntekt i åtte år etter planlagt f) står på oppgitt side
+- OK   3 estimat=11 rad 340 (W2137745619, månedsinntekt i åtte år etter planlagt f) står i sitatet
+- OK   2 sitat rad 341 (W2137745619, fullført high school med vitnemål (øknin) står på oppgitt side
+- OK   3 estimat=7 rad 341 (W2137745619, fullført high school med vitnemål (øknin) står i sitatet
+- OK   2 sitat rad 342 (W2137745619, oppnådd yrkessertifikat (økning; 21 pp f) står på oppgitt side
+- OK   3 estimat=31 rad 342 (W2137745619, oppnådd yrkessertifikat (økning; 21 pp f) står i sitatet
+- OK   2 sitat rad 343 (W2586946892, frafall på skoler med overgangsprogram () står på oppgitt side
+- OK   3 estimat=8 rad 343 (W2586946892, frafall på skoler med overgangsprogram () står i sitatet
+- OK   2 sitat rad 344 (W2586946892, hovedkonklusjon: tidlig varsling, overga) står på oppgitt side
+- OK   2 sitat rad 345 (W2796099688, sterk evidens for tiltak som knytter sko) står på oppgitt side
+- OK   2 sitat rad 346 (W2796099688, moderat evidens for intensiv, individuel) står på oppgitt side
+- OK   2 sitat rad 347 (W2796099688, minimal evidens for systematisk overvåki) står på oppgitt side
+- OK   2 sitat rad 348 (W4412563719, oppnådd yrkesfaglig kvalifikasjon på niv) står på oppgitt side
+- OK   3 estimat=26 rad 348 (W4412563719, oppnådd yrkesfaglig kvalifikasjon på niv) står i sitatet
+- OK   2 sitat rad 349 (W4412563719, startet lærlingløp (økning; 23 prosent a) står på oppgitt side
+- OK   3 estimat=14.5 rad 349 (W4412563719, startet lærlingløp (økning; 23 prosent a) står i sitatet
+- OK   2 sitat rad 350 (W4412563719, verken i utdanning, opplæring eller arbe) står på oppgitt side
+- OK   3 estimat=3 rad 350 (W4412563719, verken i utdanning, opplæring eller arbe) står i sitatet
+- OK   2 sitat rad 351 (W4412563719, minst fem gode karakterer ved GCSE-eksam) står på oppgitt side
+- OK   3 estimat=26 rad 351 (W4412563719, minst fem gode karakterer ved GCSE-eksam) står i sitatet
+- OK   2 sitat rad 352 (W4386500381, fullført videregående på tre år (økning,) står på oppgitt side
+- OK   3 estimat=42 rad 352 (W4386500381, fullført videregående på tre år (økning,) står i sitatet
+- OK   2 sitat rad 353 (W4386500381, fullført videregående på fire år (økning) står på oppgitt side
+- OK   3 estimat=26 rad 353 (W4386500381, fullført videregående på fire år (økning) står i sitatet
+- OK   2 sitat rad 354 (W4386500381, lønnspremie for yrkesfaglig utdannede (o) står på oppgitt side
+- OK   3 estimat=9 rad 354 (W4386500381, lønnspremie for yrkesfaglig utdannede (o) står i sitatet
+- OK   2 sitat rad 355 (W2539878537, GCSE-eksamen ved 16 år (slutten av oblig) står på oppgitt side
+- OK   2 sitat rad 356 (W2539878537, andel som består GCSE-terskelen (økning,) står på oppgitt side
+- OK   3 estimat=8 rad 356 (W2539878537, andel som består GCSE-terskelen (økning,) står i sitatet
+- OK   2 sitat rad 357 (W3042282174, fullført videregående (økning) ved størr) står på oppgitt side
+- OK   3 estimat=2 rad 357 (W3042282174, fullført videregående (økning) ved størr) står i sitatet
+- OK   2 sitat rad 358 (W3042282174, frafall i videregående: tegn til økning ) står på oppgitt side
+- OK   2 sitat rad 359 (W3042282174, fullført videregående (økning, spenn 3–6) står på oppgitt side
+- OK   3 estimat=3 rad 359 (W3042282174, fullført videregående (økning, spenn 3–6) står i sitatet
+- OK   2 sitat rad 360 (W3121779431, fullført high school og overgang til vid) står på oppgitt side
+- OK   2 sitat rad 361 (W3121779431, fullført high school uendret for gutter,) står på oppgitt side
+- OK   2 sitat rad 362 (W7133582582, evidens- og kunnskapshullskart over tilt) står på oppgitt side
+- OK   2 sitat rad 363 (W7133582582, pilotutprøving av nettbasert lærerkurs m) står på oppgitt side
+- OK   2 sitat rad 364 (W2335930971, fullført high school (86 prosent mot 81 ) står på oppgitt side
+- OK   3 estimat=86 rad 364 (W2335930971, fullført high school (86 prosent mot 81 ) står i sitatet
+- OK   2 sitat rad 365 (W2335930971, studiepoeng (credits) i high school, økn) står på oppgitt side
+- OK   3 estimat=1.979 rad 365 (W2335930971, studiepoeng (credits) i high school, økn) står i sitatet
+- OK   2 sitat rad 366 (W2335930971, hovedkonklusjon: skolebaserte forsøk gir) står på oppgitt side
+- OK   3 estimat=0.052 rad 366 (W2335930971, hovedkonklusjon: skolebaserte forsøk gir) står i sitatet
+- OK   2 sitat rad 367 (W2924485061, andel uten fullført videregående ved 30 ) står på oppgitt side
+- OK   3 estimat=5.6 rad 367 (W2924485061, andel uten fullført videregående ved 30 ) står i sitatet
+- OK   2 sitat rad 368 (W2924485061, andel med både yrkesfaglig og studieforb) står på oppgitt side
+- OK   3 estimat=6.4 rad 368 (W2924485061, andel med både yrkesfaglig og studieforb) står i sitatet
+- OK   2 sitat rad 369 (W2924485061, frafall fra videregående: ingen nedgang ) står på oppgitt side
+- OK   2 sitat rad 370 (W2924485061, årlig arbeidsinntekt i voksen alder, økn) står på oppgitt side
+- OK   3 estimat=5 rad 370 (W2924485061, årlig arbeidsinntekt i voksen alder, økn) står i sitatet
+- OK   2 sitat rad 371 (W2470002656, oppnådd studie- eller yrkeskompetanse ti) står på oppgitt side
+- OK   3 estimat=0.7 rad 371 (W2470002656, oppnådd studie- eller yrkeskompetanse ti) står i sitatet
+- OK   2 sitat rad 372 (W2470002656, andel som oppnådde kompetanse til normer) står på oppgitt side
+- OK   3 estimat=43.6 rad 372 (W2470002656, andel som oppnådde kompetanse til normer) står i sitatet
+- OK   2 sitat rad 373 (W2470002656, andel lærlinger som oppnår fagbrev, nedg) står på oppgitt side
+- OK   3 estimat=4 rad 373 (W2470002656, andel lærlinger som oppnår fagbrev, nedg) står i sitatet
+- OK   2 sitat rad 374 (W2470002656, andel av Vg2-elevene på yrkesfag som var) står på oppgitt side
+- OK   3 estimat=34 rad 374 (W2470002656, andel av Vg2-elevene på yrkesfag som var) står i sitatet
+- OK   2 sitat rad 375 (W164857482, sannsynlighet for å fullføre videregåend) står på oppgitt side
+- OK   3 estimat=0.0197 rad 375 (W164857482, sannsynlighet for å fullføre videregåend) står i sitatet
+- OK   2 sitat rad 376 (W164857482, karakterer (verdiskapning i norsk) økt a) står på oppgitt side
+- OK   2 sitat rad 378 (W4288086398, arbeidsinntekt fire år etter start, økni) står på oppgitt side
+- OK   3 estimat=15 rad 378 (W4288086398, arbeidsinntekt fire år etter start, økni) står i sitatet
+- OK   2 sitat rad 379 (W4288086398, nye lærlingplasser per subsidiert lærlin) står på oppgitt side
+- OK   3 estimat=0.74 rad 379 (W4288086398, nye lærlingplasser per subsidiert lærlin) står i sitatet
+- OK   2 sitat rad 380 (W4404943935, andel som oppnår Abitur (studiekompetans) står på oppgitt side
+- OK   3 estimat=2.4 rad 380 (W4404943935, andel som oppnår Abitur (studiekompetans) står i sitatet
+- OK   2 sitat rad 381 (W4404943935, andel som oppnår Abitur, økning per skol) står på oppgitt side
+- OK   3 estimat=1.5 rad 381 (W4404943935, andel som oppnår Abitur, økning per skol) står i sitatet
+- OK   2 sitat rad 382 (W301239432, arbeidsinntekt sju år etter videregående) står på oppgitt side
+- OK   3 estimat=2 rad 382 (W301239432, arbeidsinntekt sju år etter videregående) står i sitatet
+- OK   2 sitat rad 383 (W301239432, frafall fra videregående: blandet eviden) står på oppgitt side
+- OK   2 sitat rad 384 (W115021740, frafall, nedgang med tre til seks per hu) står på oppgitt side
+- OK   3 estimat=3 rad 384 (W115021740, frafall, nedgang med tre til seks per hu) står i sitatet
+- OK   2 sitat rad 385 (W115021740, arbeidsinntekt de fire første årene ette) står på oppgitt side
+- OK   3 estimat=10000 rad 385 (W115021740, arbeidsinntekt de fire første årene ette) står i sitatet
+- OK   2 sitat rad 386 (W115021740, fullføring av videregående: ingen effekt) står på oppgitt side
+- OK   2 sitat rad 387 (W4213274030, teksten er uleselig (feil tegnkoding) og) står på oppgitt side
+- OK   2 sitat rad 388 (W2645608735, metaanalyse av om lag 425 effektestimate) står på oppgitt side
+- OK   2 sitat rad 389 (W2645608735, påbegynt ungdomsutdanning 25 uker etter ) står på oppgitt side
+- OK   3 estimat=20 rad 389 (W2645608735, påbegynt ungdomsutdanning 25 uker etter ) står i sitatet
+- OK   2 sitat rad 390 (W2645608735, i utdanning, økning med mentorordning; g) står på oppgitt side
+- OK   3 estimat=4 rad 390 (W2645608735, i utdanning, økning med mentorordning; g) står i sitatet
+- OK   2 sitat rad 391 (W2978758442, frafall (vroegtijdig schoolverlaten), ne) står på oppgitt side
+- OK   3 estimat=5 rad 391 (W2978758442, frafall (vroegtijdig schoolverlaten), ne) står i sitatet
+- OK   2 sitat rad 392 (W2978758442, andel som slutter tidlig, nedgang 2000–2) står på oppgitt side
+- OK   3 estimat=5.9 rad 392 (W2978758442, andel som slutter tidlig, nedgang 2000–2) står i sitatet
+- OK   2 sitat rad 393 (W3122301661, andel med fullført høyeste spor (Abitur)) står på oppgitt side
+- OK   3 estimat=60 rad 393 (W3122301661, andel med fullført høyeste spor (Abitur)) står i sitatet
+- OK   2 sitat rad 394 (W3122301661, andel som avslutter skolegangen uten vit) står på oppgitt side
+- OK   2 sitat rad 395 (W2808375903, fullført studie- eller yrkeskompetanse i) står på oppgitt side
+- OK   3 estimat=0.002 rad 395 (W2808375903, fullført studie- eller yrkeskompetanse i) står i sitatet
+- OK   3 ki_lav=-0.0076 rad 395 (W2808375903, fullført studie- eller yrkeskompetanse i) står i sitatet
+- OK   3 ki_hoy=0.0116 rad 395 (W2808375903, fullført studie- eller yrkeskompetanse i) står i sitatet
+- OK   4 rad 395 (W2808375903, fullført studie- eller yrkeskompetanse i) estimat innenfor KI
+- OK   2 sitat rad 396 (W2808375903, fullført kompetanse innen fem år, ingen ) står på oppgitt side
+- OK   3 estimat=0.005 rad 396 (W2808375903, fullført kompetanse innen fem år, ingen ) står i sitatet
+- OK   2 sitat rad 397 (W2787144718, resultater på studenteksamen: ingen effe) står på oppgitt side
+- OK   2 sitat rad 398 (W2481298662, andel som besto kompetanseprøven (59,7 p) står på oppgitt side
+- OK   3 estimat=64.1 rad 398 (W2481298662, andel som besto kompetanseprøven (59,7 p) står i sitatet
+- OK   2 sitat rad 399 (W2481298662, andel som senere oppnådde fag- eller sve) står på oppgitt side
+- OK   3 estimat=9.9 rad 399 (W2481298662, andel som senere oppnådde fag- eller sve) står i sitatet
+- OK   2 sitat rad 400 (W2481298662, andel i jobb i 2012) står på oppgitt side
+- OK   3 estimat=91 rad 400 (W2481298662, andel i jobb i 2012) står i sitatet
+- OK   2 sitat rad 401 (W2481298662, andel sysselsatt i november 2012) står på oppgitt side
+- OK   3 estimat=45 rad 401 (W2481298662, andel sysselsatt i november 2012) står i sitatet
+- OK   2 sitat rad 402 (W1412016855, endret opptaksordning (2004 og 2008): in) står på oppgitt side
+- OK   2 sitat rad 403 (W4380841569, fullføring og frafall i videregående: ef) står på oppgitt side
+- OK   2 sitat rad 404 (W4285684438, fullføring og frafall i videregående: in) står på oppgitt side
+- OK   2 sitat rad 405 (W4283031585, fullføring og frafall: svært små og ikke) står på oppgitt side
+- OK   2 sitat rad 406 (W7111982301, fullføring av videregående på normert ti) står på oppgitt side
+- OK   3 estimat=6 rad 406 (W7111982301, fullføring av videregående på normert ti) står i sitatet
+- OK   2 sitat rad 407 (W7111982301, fullføring på normert tid, nedgang; inge) står på oppgitt side
+- OK   3 estimat=15 rad 407 (W7111982301, fullføring på normert tid, nedgang; inge) står i sitatet
+- OK   2 sitat rad 408 (W2596043699, overgang skole–arbeid: lærlingsystem (du) står på oppgitt side
+- OK   2 sitat rad 409 (W3146812407, arbeid, inntekt og skoleutfall av progra) står på oppgitt side
+- OK   2 sitat rad 410 (W2898731331, arbeidspraksis, hospitering og bedriftsb) står på oppgitt side
+- OK   2 sitat rad 411 (W3125446328, fullført videregående, høyere andel (14 ) står på oppgitt side
+- OK   3 estimat=9 rad 411 (W3125446328, fullført videregående, høyere andel (14 ) står i sitatet
+- OK   2 sitat rad 412 (W3125446328, frafallsforebygging og forberedelse til ) står på oppgitt side
+- OK   2 sitat rad 413 (W4387973941, skoleprestasjoner av økonomiske tiltak: ) står på oppgitt side
+- OK   2 sitat rad 414 (W4206973215, sannsynlighet for å gå om et trinn, nedg) står på oppgitt side
+- OK   3 estimat=44 rad 414 (W4206973215, sannsynlighet for å gå om et trinn, nedg) står i sitatet
+- OK   2 sitat rad 415 (W4206973215, sannsynlighet for å velge akademisk elle) står på oppgitt side
+- OK   3 estimat=12 rad 415 (W4206973215, sannsynlighet for å velge akademisk elle) står i sitatet
+- OK   2 sitat rad 416 (W4206973215, gjentak og konteeksamen de to første åre) står på oppgitt side
+- OK   2 sitat rad 417 (W1970017925, frafall fra videregående etter første av) står på oppgitt side
+- OK   3 estimat=-0.011 rad 417 (W1970017925, frafall fra videregående etter første av) står i sitatet
+- OK   2 sitat rad 418 (W1970017925, frafall fra videregående etter første av) står på oppgitt side
+- OK   3 estimat=-0.005 rad 418 (W1970017925, frafall fra videregående etter første av) står i sitatet
+- OK   2 sitat rad 419 (W1970017925, frafall: økt sannsynlighet for å slutte,) står på oppgitt side
+- OK   3 estimat=1 rad 419 (W1970017925, frafall: økt sannsynlighet for å slutte,) står i sitatet
+- OK   2 sitat rad 420 (W36520195, måler domfellelser for innbrudd, tyveri ) står på oppgitt side
+- OK   2 sitat rad 421 (W1505084678, arbeidsledighet de to første årene etter) står på oppgitt side
+- OK   3 estimat=10 rad 421 (W1505084678, arbeidsledighet de to første årene etter) står i sitatet
+- OK   2 sitat rad 422 (W1505084678, arbeidsledighet første måned etter endt ) står på oppgitt side
+- OK   3 estimat=21 rad 422 (W1505084678, arbeidsledighet første måned etter endt ) står i sitatet
+- OK   2 sitat rad 423 (W1505084678, arbeidsledighet og yrkesklasse: ingen si) står på oppgitt side
+- OK   2 sitat rad 424 (W3123305208, fast jobb innen tre år, høyere sannsynli) står på oppgitt side
+- OK   3 estimat=23.3 rad 424 (W3123305208, fast jobb innen tre år, høyere sannsynli) står i sitatet
+- OK   2 sitat rad 425 (W3123305208, fast jobb innen to år, høyere sannsynlig) står på oppgitt side
+- OK   3 estimat=5 rad 425 (W3123305208, fast jobb innen to år, høyere sannsynlig) står i sitatet
+- OK   2 sitat rad 426 (W3123412170, tilbud om universitetsplass, lavere; mål) står på oppgitt side
+- OK   3 estimat=8 rad 426 (W3123412170, tilbud om universitetsplass, lavere; mål) står i sitatet
+- OK   2 sitat rad 427 (W7110655526, frafall fra læretiden, økning (spenn 3–5) står på oppgitt side
+- OK   3 estimat=3 rad 427 (W7110655526, frafall fra læretiden, økning (spenn 3–5) står i sitatet
+- OK   2 sitat rad 428 (W7110655526, oppnådd kvalifikasjon (fullført læretid)) står på oppgitt side
+- OK   3 estimat=4 rad 428 (W7110655526, oppnådd kvalifikasjon (fullført læretid)) står i sitatet
+- OK   2 sitat rad 429 (W7110655526, inntekt, økning) står på oppgitt side
+- OK   3 estimat=7 rad 429 (W7110655526, inntekt, økning) står i sitatet
+- OK   2 sitat rad 430 (W7110655526, nye læreforhold i berørte bransjer, nedg) står på oppgitt side
+- OK   3 estimat=13 rad 430 (W7110655526, nye læreforhold i berørte bransjer, nedg) står i sitatet
+- OK   2 sitat rad 431 (W7110594506, karakterer og fravær; positiv effekt bar) står på oppgitt side
+- OK   2 sitat rad 432 (W4412450403, frafallsrelatert utfall; signifikant eff) står på oppgitt side
+- OK   2 sitat rad 433 (W2088392856, stryk, frafall og fravær: små positive e) står på oppgitt side
+- OK   2 sitat rad 434 (W2111404192, sysselsetting over livsløpet: yrkesfagli) står på oppgitt side
+- OK   2 sitat rad 435 (W2968503131, frafall fra skolen, nedgang; størst effe) står på oppgitt side
+- OK   3 estimat=2.5 rad 435 (W2968503131, frafall fra skolen, nedgang; størst effe) står i sitatet
+- OK   2 sitat rad 436 (W2968503131, sysselsetting og inntekt: høyere for ele) står på oppgitt side
+- OK   2 sitat rad 437 (W4281768817, fullføring (graduation): økt sannsynligh) står på oppgitt side
+- OK   2 sitat rad 438 (W2598746472, arbeidsledighet ved 23–26 år: vesentlig ) står på oppgitt side
+- OK   2 sitat rad 439 (W2598746472, lønn: ingen signifikant forskjell) står på oppgitt side
+- OK   2 sitat rad 440 (W199840367, oversikt over program med effekt i stren) står på oppgitt side
+- OK   2 sitat rad 441 (W3190050573, kunnskapsoversikt over tiltak mot frafal) står på oppgitt side
+- OK   2 sitat rad 442 (W2469072264, frafall: effekten av forsøk med yrkesfag) står på oppgitt side
+- OK   2 sitat rad 443 (W7221356294, antall nye læreforhold: ingen effekt; mo) står på oppgitt side
+- OK   2 sitat rad 444 (W7225943116, tilbudte og besatte læreplasser: negativ) står på oppgitt side
+- OK   2 sitat rad 445 (W7225943116, fullførte læreforhold: ingen negativ eff) står på oppgitt side
+- OK   2 sitat rad 446 (W7225943116, nye lærlinger: ingen signifikant effekt ) står på oppgitt side
+- OK   2 sitat rad 447 (W3124756728, rekrutteringsproblemer for lærlingbedrif) står på oppgitt side
+- OK   2 sitat rad 448 (W2996070763, strategier og programmer mot frafall med) står på oppgitt side
+- OK   2 sitat rad 449 (W2463481623, litteraturgjennomgang om frafall og anbe) står på oppgitt side
+- OK   2 sitat rad 450 (W2570497748, kort litteraturgjennomgang av evaluering) står på oppgitt side
+- OK   2 sitat rad 451 (W2038759711, deltakelse i utdanning etter skoleplikti) står på oppgitt side
+- OK   2 sitat rad 452 (W113097357, integrativ oversikt over 45 intervensjon) står på oppgitt side
+- OK   2 sitat rad 453 (W2080093575, andel som ikke fullfører high school (gj) står på oppgitt side
+- OK   3 estimat=28 rad 453 (W2080093575, andel som ikke fullfører high school (gj) står i sitatet
+- OK   2 sitat rad 454 (W1984181739, ingen effektestimat i sammendraget; gjen) står på oppgitt side
+- OK   2 sitat rad 455 (W4322739414, ingen tall i sammendraget; CTE-skoler, c) står på oppgitt side
+- OK   2 sitat rad 456 (W2162660350, ingen tall i sammendraget; yrkesfag er e) står på oppgitt side
+- OK   2 sitat rad 457 (W2764099164, ingen tall i sammendraget; offentlig og ) står på oppgitt side
+- OK   2 sitat rad 458 (W4255274562, samme materiale som W2764099164 (bokkapi) står på oppgitt side
+- OK   2 sitat rad 459 (W2582978474, ingen tall i sammendraget; økonomiske in) står på oppgitt side
+- OK   2 sitat rad 460 (W261039529, ingen tall i sammendraget; fortrinn i of) står på oppgitt side
+- OK   2 sitat rad 461 (W1581645149, ingen tall i sammendraget; høyest frafal) står på oppgitt side
+- OK   2 sitat rad 462 (W2976412447, ingen tall i sammendraget; tilretteleggi) står på oppgitt side
+- OK   2 sitat rad 463 (W2226117826, ingen tall i sammendraget; utdanningspol) står på oppgitt side
+- OK   2 sitat rad 464 (W2276179287, ingen tall i sammendraget; beskriver fem) står på oppgitt side
+- OK   2 sitat rad 465 (W1209900593, ingen tall i sammendraget; lite kunnskap) står på oppgitt side
+- OK   2 sitat rad 466 (W2883664067, ingen tall i sammendraget; metodegjennom) står på oppgitt side
+- OK   2 sitat rad 467 (W3087854501, frafall to år etter tiltaket (møter mell) står på oppgitt side
+- OK   3 estimat=15 rad 467 (W3087854501, frafall to år etter tiltaket (møter mell) står i sitatet
+- OK   2 sitat rad 468 (W3087854501, frafall to år etter tiltaket uten tiltak) står på oppgitt side
+- OK   3 estimat=20 rad 468 (W3087854501, frafall to år etter tiltaket uten tiltak) står i sitatet
+- OK   2 sitat rad 469 (W3087854501, nedgang i frafall (relativ)) står på oppgitt side
+- OK   3 estimat=25 rad 469 (W3087854501, nedgang i frafall (relativ)) står i sitatet
+- OK   2 sitat rad 470 (W7130693590, økning i deltakelse i heltidsutdanning e) står på oppgitt side
+- OK   3 estimat=2 rad 470 (W7130693590, økning i deltakelse i heltidsutdanning e) står i sitatet
+- OK   2 sitat rad 471 (W1876339633, ingen funn i sammendraget; prosjektbeskr) står på oppgitt side
+- OK   2 sitat rad 472 (W2101632421, ingen tall i sammendraget; evalueringer ) står på oppgitt side
+- OK   2 sitat rad 473 (W2121317152, ingen tall i sammendraget; reformmodelle) står på oppgitt side
+- OK   2 sitat rad 474 (W2016550750, nedgang i frafall etter innføring av bed) står på oppgitt side
+- OK   3 estimat=5 rad 474 (W2016550750, nedgang i frafall etter innføring av bed) står i sitatet
+- OK   2 sitat rad 475 (W2016550750, høyere risiko for å forlate skolen uten ) står på oppgitt side
+- OK   3 estimat=3.4 rad 475 (W2016550750, høyere risiko for å forlate skolen uten ) står i sitatet
+- OK   2 sitat rad 476 (W7160873583, overgang til yrkesopplæring 18 måneder s) står på oppgitt side
+- OK   3 estimat=5 rad 476 (W7160873583, overgang til yrkesopplæring 18 måneder s) står i sitatet
+- OK   2 sitat rad 477 (W7160873583, overgang til yrkesopplæring 18 måneder s) står på oppgitt side
+- OK   3 estimat=12 rad 477 (W7160873583, overgang til yrkesopplæring 18 måneder s) står i sitatet
+- OK   2 sitat rad 478 (W1990491899, ingen tall i sammendraget; overgangstilt) står på oppgitt side
+- OK   2 sitat rad 479 (W7224693574, ingen tall i sammendraget; samler eksper) står på oppgitt side
+- OK   2 sitat rad 480 (W3119534817, ingen tall i sammendraget; yrkesrettet s) står på oppgitt side
+- OK   2 sitat rad 481 (W4220981384, ingen tall i sammendraget; mentorprogram) står på oppgitt side
+- OK   2 sitat rad 482 (W2129670298, arbeidsledighet første år etter fullført) står på oppgitt side
+- OK   3 estimat=10 rad 482 (W2129670298, arbeidsledighet første år etter fullført) står i sitatet
+- OK   2 sitat rad 483 (W2129670298, kvalitet på jobben etter yrkesutdanning:) står på oppgitt side
+- OK   2 sitat rad 485 (W2471267942, utdanningsnivå (educational attainment):) står på oppgitt side
+- OK   2 sitat rad 486 (W1533706132, effekter av å kombinere arbeid og læring) står på oppgitt side
+- OK   2 sitat rad 487 (W2016694979, kostnadseffektivitet for fem tiltak som ) står på oppgitt side
+- OK   2 sitat rad 489 (W1601418063, fullføring, skoleengasjement og overgang) står på oppgitt side
+- OK   2 sitat rad 490 (W2594299339, arbeidsgivernes tilbud av arbeidsbasert ) står på oppgitt side
+- OK   2 sitat rad 491 (W71319, avhopp fra videregående: økte, ingen tal) står på oppgitt side
+- OK   2 sitat rad 492 (W71319, overgang til høyere utdanning og senere ) står på oppgitt side
+- OK   2 sitat rad 493 (W2187283579, andel med høyst ungdomsskole og ikke i u) står på oppgitt side
+- OK   3 estimat=30 rad 493 (W2187283579, andel med høyst ungdomsskole og ikke i u) står i sitatet
+- OK   2 sitat rad 494 (W2187283579, frafall og skoleloven LOGSE (1990): samm) står på oppgitt side
+- OK   2 sitat rad 497 (W7224150137, utfall av private skolevalgprogrammer: g) står på oppgitt side
+- OK   2 sitat rad 499 (W2766271138, arbeidsmarkedsutfall av lærlingordninger) står på oppgitt side
+- OK   2 sitat rad 502 (W2222360378, oppmøte og andre skoleutfall av betinged) står på oppgitt side
+- OK   2 sitat rad 503 (W7222601035, lønn og å bli i faget etter oppdatert læ) står på oppgitt side
+- OK   2 sitat rad 504 (W2031174180, skoleresultater og atferd i åtte skoleba) står på oppgitt side
+- OK   2 sitat rad 506 (W2044163791, gjennomstrømning i videregående etter or) står på oppgitt side
+- OK   2 sitat rad 508 (W4391678766, skolenivå, sosiale ferdigheter og utdann) står på oppgitt side
+- OK   2 sitat rad 509 (W4391678766, negative effekter rapportert for elever ) står på oppgitt side
+- OK   2 sitat rad 511 (W4414536494, sysselsetting og arbeidsdager etter skol) står på oppgitt side
+- OK   2 sitat rad 512 (W4414536494, overgang til høyere utdanning: nedgang; ) står på oppgitt side
+- OK   2 sitat rad 513 (W7148713760, resultater til baccalauréat: ingen effek) står på oppgitt side
+- OK   2 sitat rad 514 (W2162718798, skolebasert mentorordning (tre randomise) står på oppgitt side
+- OK   2 sitat rad 515 (W2084737867, oppnådd studie- eller yrkeskompetanse: o) står på oppgitt side
+- OK   2 sitat rad 516 (W2092591378, skoleoppmøte: krav om oppmøte koblet til) står på oppgitt side
+- OK   2 sitat rad 517 (W2047727978, school-to-work-tiltak: forskningen viser) står på oppgitt side
+- OK   2 sitat rad 518 (W3126072610, langsiktige utfall til 25 år (universite) står på oppgitt side
+- OK   2 sitat rad 519 (W2157797835, frafall fra high school nasjonalt, spenn) står på oppgitt side
+- OK   3 estimat=22 rad 519 (W2157797835, frafall fra high school nasjonalt, spenn) står i sitatet
+- OK   2 sitat rad 520 (W2157797835, tiltak mot frafall: svakt forskningsgrun) står på oppgitt side
+- OK   2 sitat rad 521 (W2321612795, fullført videregående (post-obligatorisk) står på oppgitt side
+- OK   3 estimat=40 rad 521 (W2321612795, fullført videregående (post-obligatorisk) står i sitatet
+- OK   2 sitat rad 522 (W7112933148, karriereveiledning i skolen: forfatterne) står på oppgitt side
+- OK   2 sitat rad 523 (W7111128243, overgang til yrkesopplæring 18 måneder e) står på oppgitt side
+- OK   3 estimat=5 rad 523 (W7111128243, overgang til yrkesopplæring 18 måneder e) står i sitatet
+- OK   2 sitat rad 524 (W7111128243, overgang til yrkesopplæring 18 måneder e) står på oppgitt side
+- OK   3 estimat=12 rad 524 (W7111128243, overgang til yrkesopplæring 18 måneder e) står i sitatet
 - OK   6 utelatt W2960437645 «Risk Factors for School Absenteeism and Dropout: A Meta-Analytic Revie» (2019) – sortert bort i grovsiktingen: Risikofaktorer for fravær og frafall, ingen tiltak
 - OK   6 utelatt W2099466330 «The Causal Effects of Father Absence» (2013) – sortert bort i grovsiktingen: Farsfravær, annet felt
 - OK   6 utelatt W1863769327 «Efficacy of internet-delivered cognitive-behavioral therapy for insomn» (2015) – sortert bort i grovsiktingen: Internettbasert KAT for søvn
